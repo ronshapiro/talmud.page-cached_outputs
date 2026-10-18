@@ -1,0 +1,988 @@
+{
+  "id": "57a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכי גרסינן נימא תלתא תנאי הוו לא תרי תנאי הוו</strong> - תנא קמא דרבי יוסי היינו ר' שמעון ותנא קמא דרבי שמעון היינו רבי יוסי ומאי אף אקמייתא:",
+              "ref": "Rashi on Pesachim 57a:1:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:א:א",
+              "sourceRef": "Rashi on Pesachim 57a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לימא תלתא תנאי הוו</strong> - תנא קמא דר' יוסי ללפת ולכרוב ולא לקפלוט ותנא קמא דר' שמעון ללפת ולקפלוט ולא לכרוב ורבי יוסי ור' שמעון כי הדדי סבירא להו דללפת ולכרוב ולקפלוט:",
+              "ref": "Rashi on Pesachim 57a:1:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:א:ב",
+              "sourceRef": "Rashi on Pesachim 57a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא</strong> - ת\"ק דר' שמעון הוא ר' יוסי ות\"ק דר' יוסי הוא ר' שמעון ומאי אף דקאמרי תרווייהו אקמייתא דתנא קמא דידהו קיימי דהיינו אלפת דקאמר תנא קמא דרבי יוסי ללפת ולכרוב וקאמר ליה רבי יוסי אף לקפלוט כמו ללפת אבל לכרוב לא ותנא קמא דרבי שמעון נמי הכי קאמר ללפת ולקפלוט כרבי יוסי וקאמר ליה רבי שמעון אף לכרוב כמו ללפת אבל לקפלוט לא דהיינו כתנא קמא דר' יוסי:",
+              "ref": "Rashi on Pesachim 57a:1:3",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:א:ג",
+              "sourceRef": "Rashi on Pesachim 57a:1:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>נימא</b> <span class=\"hebrew-emphasis\">[האם נאמר]</span> כי <b>תלתא תנאי הוו</b> <span class=\"hebrew-emphasis\">[שלושה תנאים הם]</span> שנחלקו בענין, שתי הדעות הסתמיות המנוגדות ודעתם השווה של ר' יוסי ור' שמעון? ודוחים: <b>לא,</b> אפשר לומר כי <b>תרי תנאי הוו</b> <span class=\"hebrew-emphasis\">[שני תנאים הם]</span> בלבד, <b>ותנא קמא</b> <span class=\"hebrew-emphasis\">[והתנא הראשון]</span> שלפני <b>ר' שמעון — היינו</b> <span class=\"hebrew-emphasis\">[זהו]</span> <b>ר' יוסי, ותנא קמא</b> <span class=\"hebrew-emphasis\">[והתנא הראשון]</span> לפני <b>ר' יוסי היינו</b> <span class=\"hebrew-emphasis\">[זהו]</span> <b>ר' שמעון. ומאי</b> <span class=\"hebrew-emphasis\">[ומה</span> הוא<span class=\"hebrew-emphasis\">]</span> לשון <b>\"אף\"</b> שאמרו שניהם? שלפי שיטה זו לכאורה מסכימים כולם לדבר אחד, יש לומר כי כוונתם <b>אקמייתא</b> <span class=\"hebrew-emphasis\">[על הראשונה]</span> כלומר, שלא חלקו על הפרט השני שהוזכר והוסיפו רק על הראשון.",
+              "ref": "Steinsaltz on Pesachim 57a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:א",
+              "sourceRef": "Steinsaltz on Pesachim 57a:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Let us say</b> that <b>there are three <i>tanna’im</i></b> who dispute this point: The two unattributed opinions, each of which is referring to two vegetables, and the opinion common to <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> and <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> that includes all three vegetables. The Gemara rejects this: <b>No, there are</b> only <b>two <i>tanna’im</i></b> who dispute the point, <b>and the first <i>tanna</i></b> whose opinion appears before the opinion of <b><span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> is <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span>. And the first <i>tanna</i></b> whose opinion appears before the opinion of <b><span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> is <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span>. And what</b> is the meaning of the word <b>even</b> in both their statements? They agree with regard to <b>the first</b> vegetable, turnips; however, they disagree with regard to the second, and replace it with another vegetable.",
+      "he": "נֵימָא תְּלָתָא תַּנָּאֵי הֲווֹ? לָא, תְּרֵי תַּנָּאֵי הֲווֹ, וְתַנָּא קַמָּא דְּרַבִּי שִׁמְעוֹן הַיְינוּ רַבִּי יוֹסֵי, וְתַנָּא קַמָּא דְּרַבִּי יוֹסֵי הַיְינוּ רַבִּי שִׁמְעוֹן. וּמַאי ״אַף״ — אַקַּמַּיְיתָא.",
+      "ref": "Pesachim 57a:1"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בּוֹהֲיָין</strong> proper noun of a male person <i>Bohăyon</i>. <span class=\"refLink\" data-ref=\"Pesachim 57a:2\" href=\"/Pesachim.57a.2\">Pesachim 57ᵃ</span> (Manuscript Munich <span dir=\"rtl\">בוהין</span>); <span class=\"refLink\" data-ref=\"Tosefta Pesachim 2\" href=\"/Tosefta_Pesachim.2\">Tosefta ib. II</span> (<span class=\"refLink\" data-ref=\"Tosefta Pesachim 3:20\" href=\"/Tosefta_Pesachim.3.20\">III), 20</span> (Variant <span dir=\"rtl\">נבו היו</span>, <span dir=\"rtl\">בן נבו היין</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, בּוֹהֲיָין 1",
+              "sourceHeRef": "מילון יסטרוב, בּוֹהֲיָין א׳",
+              "sourceRef": "Jastrow, בּוֹהֲיָין 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בן בוהיין</strong> - שם אביו בוהיין:",
+              "ref": "Rashi on Pesachim 57a:2:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ב:א",
+              "sourceRef": "Rashi on Pesachim 57a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כפליים במעושר</strong> - גרסי' אני אתן לכם כפליים שיש לכם עכשיו פיאה אתן לכם חולין מתוקנין ומעושרין:",
+              "ref": "Rashi on Pesachim 57a:2:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ב:ב",
+              "sourceRef": "Rashi on Pesachim 57a:2:2"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> בד\"ה אין נותנין כו' דהפקר פטור ממעשר כו'. נ\"ב פי' לכל העניים אף ללוי וק\"ל:",
+                      "ref": "Chokhmat Shlomo on Pesachim 57a:1",
+                      "sourceHeRef": "חכמת שלמה על פסחים נ״ז א:א",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 57a:1"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "but in the seventh you shall let it rest and lie fallow. Let the needy among your people eat of it, and what they leave let the wild beasts eat. You shall do the same with your vineyards and your olive groves.",
+                      "he": "וְהַשְּׁבִיעִ֞ת תִּשְׁמְטֶ֣נָּה וּנְטַשְׁתָּ֗הּ וְאָֽכְלוּ֙ אֶבְיֹנֵ֣י עַמֶּ֔ךָ וְיִתְרָ֕ם תֹּאכַ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה כֵּֽן־תַּעֲשֶׂ֥ה לְכַרְמְךָ֖ לְזֵיתֶֽךָ׃",
+                      "link": "/Exodus/23",
+                      "ref": "Exodus 23:11",
+                      "sourceHeRef": "שמות כג:יא",
+                      "sourceRef": "Exodus 23:11"
+                    },
+                    {
+                      "en": "Then the Levite, who has no hereditary portion as you have, and the stranger, the fatherless, and the widow in your settlements shall come and eat their fill, so that the L<small>ORD</small> your God may bless you in all the enterprises you undertake.",
+                      "he": "וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין־לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּ֠ר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇל־מַעֲשֵׂ֥ה יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                      "link": "/Deuteronomy/14",
+                      "ref": "Deuteronomy 14:29",
+                      "sourceHeRef": "דברים יד:כט",
+                      "sourceRef": "Deuteronomy 14:29"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין נותנין פיאה לירק</strong> - משום דמפקע ליה ממעשר דכתיב <span class=\"parenthesized\">(דברים י״ד:כ״ט)</span> ובא הלוי כי אין לו חלק ונחלה עמך מי שאין לו נחלה עמך חייב לעשר יצא פיאה שיש לו נחלה עמך דהפקר נינהו וכן בשביעית דהפקר פטור ממעשר דכתיב <span class=\"parenthesized\">(שמות כ״ג:י״א)</span> ואכלו אביוני עמך ויתרם תאכל חית השדה מה חיה אוכלת ופטורה ממעשר אף אביונים פטורין מן המעשר:",
+              "ref": "Rashi on Pesachim 57a:2:3",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ב:ג",
+              "sourceRef": "Rashi on Pesachim 57a:2:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בענין פיאה מירק מביאים מעשה הנזכר בתוספתא, <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> <b>בן</b> לאיש הקרוי <b>בוהיין נתן</b> לעניים <b>פיאה לירק, ובא אביו</b> בוהיין <b>ומצאן לעניים שהיו טעונים ירק ועומדין על פתח הגינה</b> לצאת. <b>אמר להם: בני, השליכו מעליכם</b> את הירקות שלקטתם <b>ואני נותן לכם כפליים</b> מהם <b>במעושר</b> כלומר, חולין מעושרים, ולא יפסידו, כי כשם שפיאה אין צריך לעשר, כך לא יצטרכו להפריש עוד ממה שיתן להם. <b>לא מפני שעיני צרה</b> במה שקבלתם, <b>אלא מפני שאמרו חכמים: אין נותנים פיאה לירק</b> משום שמפקיעם ממעשר.",
+              "ref": "Steinsaltz on Pesachim 57a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:ב",
+              "sourceRef": "Steinsaltz on Pesachim 57a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "There is a variant reading of this incident in the Jerusalem Talmud and the <i>Tosefta</i>. In that version, Bohayan does not say this, but it is the poor people who say this about him. They understood that he is not begrudging them the produce but trying to observe the rulings of the Sages. There are additional incidents illustrating his piety in the Jerusalem Talmud.",
+              "he": "בירושלמי ובתוספתא מסופר בשינוי מעט, שלא הוא אמר זאת, אלא עליו ספרו, כי לא מפני שעינו צרה בעניים אמר זאת, אלא מפני שחיבב וכיבד דברי חכמים. ובירושלמי מסופר על גודל צדקתו גם במקרים אחרים.",
+              "ref": "Steinsaltz comment #1 on Pesachim 57a:2",
+              "sourceHeRef": "לֹא מִפְּנֵי שֶׁעֵינִי צָרָה",
+              "sourceRef": "Not because I begrudge"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> אלא מפני כו' וא\"ת מ\"מ ניפטר כו' וי\"ל כב\"ה כו' אינו הפקר כו' עכ\"ל ולא ניחא להו לפרש כנראה לכאורה הכא מפרש\"י משום דמפקע לה ממעשר וגוזל את הלוי דא\"כ ליתני נמי דלא יפקיר משום דמפקיע ליה ממעשר אלא דר\"ל דמפקע לה ממעשר לפי טעותן דסבורין שהיא פאה גמורה ואוכלין אותה בטיבלה וכן פרש\"י במתני' והתוס' סמכו דבריהם הכא ולא אמתני' דקתני בה נמי ונתנו פאה לירק ומיחו בידם חכמים משום דהכא בברייתא מפורש טפי האי טעמא דמשום טעותא הוא כדקאמר להו השליכו מעליכם ואני נותן לכם כפלים במעושר וק\"ל:",
+                      "ref": "Chidushei Halachot on Pesachim 57a:1",
+                      "sourceHeRef": "חדושי הלכות על פסחים נ״ז א:א",
+                      "sourceRef": "Chidushei Halachot on Pesachim 57a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא מפני שאמרו חכמים אין פיאה לירק</strong> - אם תאמר מכל מקום ליפטר ממעשר מפני שהפקירם והפקר פטור ממעשר וי\"ל כב\"ה דאמרי במס' פאה [פ\"ו מ\"א] אינו הפקר עד שיופקר לעניים ולעשירים כשמיטה וילפינן <span class=\"parenthesized\">(בירושלמי)</span> משמיטה דכתיב תשמטנה ונטשתה מה ת\"ל ונטשתה יש לך נטישה אחרת שהיא כזו ומה היא זו הפקר לעניים ולעשירים א\"נ אפילו בית שמאי דילפי מפיאה וסברי דהפקר לעניים הפקר <span class=\"parenthesized\">(הכא מחייבי משום דהפקר בטעות הוה)</span> וטעמא מפרש התם דכתיב בפיאה לעני ולגר מה תלמוד לומר תעזוב אותם יש לך עזיבה אחרת שהיא כזו ומה היא זו לעניים ולא לעשירים ומיהו בפיאה גופיה כולי עלמא מודו דפטורה כדדרשינן בספרי ובא הלוי כי אין לו חלק ונחלה עמך יצא זה שיש לו ללוי חלק בהן שאם הוא לוי עני נוטל פיאה:",
+              "ref": "Tosafot on Pesachim 57a:2:1",
+              "sourceHeRef": "תוספות על פסחים נ״ז א:ב:א",
+              "sourceRef": "Tosafot on Pesachim 57a:2:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites an episode from the <i>Tosefta</i>. <b>The Sages taught: The son</b> of a man named <b>Bohayan designated</b> for the poor <b>the</b> produce in the <b>corner</b> in a garden <b>of vegetables, and his father</b> Bohayan <b>found the poor laden</b> with <b>vegetables and standing at the opening of the garden</b> on their way out. <b>He said to them: My sons, cast</b> the vegetables that you have gathered <b>from upon yourselves and I will give you twice</b> the amount in <b>tithed</b> produce, and you will be no worse off. <b>Not because I begrudge</b> you what you have taken. <b>Rather, it is because the Sages say: One does not designate</b> for the poor <b>the</b> produce in the <b>corner</b> in a garden <b>of vegetables.</b> Therefore, the vegetables that you took require tithing.",
+      "he": "תָּנוּ רַבָּנַן: בֶּן בּוּהְיָין נָתַן פֵּיאָה לַיָּרָק, וּבָא אָבִיו וּמְצָאָן לַעֲנִיִּים שֶׁהָיוּ טְעוּנִין יָרָק וְעוֹמְדִין עַל פֶּתַח הַגִּינָּה. אָמַר לָהֶם: בָּנַי, הַשְׁלִיכוּ מֵעֲלֵיכֶם וַאֲנִי נוֹתֵן לָכֶם כִּפְלַיִים בַּמְעוּשָּׂר. לֹא מִפְּנֵי שֶׁעֵינִי צָרָה, אֶלָּא מִפְּנֵי שֶׁאָמְרוּ חֲכָמִים: אֵין נוֹתְנִין פֵּיאָה לַיָּרָק.",
+      "ref": "Pesachim 57a:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דְּחִי</strong>, <strong dir=\"rtl\">דְּחָא</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, דחי 1\" href=\"/Jastrow,_דחי.1\">same</span> <br><b>1)</b> <i>to thrust, push, knock down</i>. <span class=\"refLink\" data-ref=\"Onkelos Numbers 35:20\" href=\"/Onkelos_Numbers.35.20\">Targum Onkelos Bamidbar XXXV, 20</span> <span dir=\"rtl\">דְּחָהִי</span> he knocked him down (h. text <span dir=\"rtl\">הדף</span>; Yerushalmi <span class=\"refLink\" data-ref=\"Jastrow, דְּחִיָּה 1\" dir=\"rtl\" href=\"/Jastrow,_דְּחִיָּה.1\">דַּחְיֵיה</span>). <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 118:13\" href=\"/Aramaic_Targum_to_Psalms.118.13\">Targum Psalms CXVIII, 13</span>; and e. <br><b><br>—2)</b> <i>to suspend, supersede</i> &c., see <span class=\"refLink\" data-ref=\"Jastrow, דחי 1\" href=\"/Jastrow,_דחי.1\">preceding</span> 3). <span class=\"refLink\" data-ref=\"Zevachim 12b:4\" href=\"/Zevachim.12b.4\">Zevachim 12ᵇ</span> <span dir=\"rtl\">הוא ד׳ נפשיה בידים</span> he debarred himself from offering (on account of his apostasy). <span class=\"refLink\" data-ref=\"Pesachim 69b:11\" href=\"/Pesachim.69b.11\">Pesachim 69ᵇ</span> אימא לִידְחֵי I might think they take precedence of the Sabbath. <span class=\"refLink\" data-ref=\"Berakhot 23a:2\" href=\"/Berakhot.23a.2\">Berakhot 23ᵃ</span> <span dir=\"rtl\">גברא דְחוּיָא הוא</span> the person was for the time in an unfit condition to pray (and his prayer does not count at all).<br></br> <strong>Af.</strong> - <strong dir=\"rtl\">אַדְחֵי</strong>, <strong dir=\"rtl\"></strong> , <i>Pa</i>. <span dir=\"rtl\">דַּחֵי</span> <i>to push aside, drive off</i>. <span class=\"refLink\" data-ref=\"Pesachim 57a:3\" href=\"/Pesachim.57a.3\">Pesachim 57ᵃ</span> <span dir=\"rtl\">דַּחוּיֵי קא מַדְחֵי לן</span> he sends us off (with a vain promise).<br></br> <strong>Ithpaal</strong> - <strong dir=\"rtl\">אִידָּחֵי</strong>, <strong dir=\"rtl\"></strong><br></br> <strong>Ithpeel</strong> - <strong dir=\"rtl\">אִידְּחֵי</strong> <br><b>1)</b> <i>to be thrust down</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 36:13\" href=\"/Aramaic_Targum_to_Psalms.36.13\">Targum Psalms XXXVI, 13</span> אִידָּחֲיַין Manuscript (ed. <span dir=\"rtl\">יִדְחֲיַן</span>); and e. <br><b><br>—2)</b> <i>to be superseded, postponed</i> &c. (see <span class=\"refLink\" data-ref=\"Jastrow, דחי 1\" href=\"/Jastrow,_דחי.1\">preceding</span> Nifal). <span class=\"refLink\" data-ref=\"Targum Jonathan on Numbers 9:10\" href=\"/Targum_Jonathan_on_Numbers.9.10\">Targum Yonatan Bamidbar IX, 10</span>.—<span class=\"refLink\" data-ref=\"Zevachim 12b:4\" href=\"/Zevachim.12b.4\">Zevachim 12ᵇ</span> <span dir=\"rtl\">ממילא אי׳</span> he was debarred from offering through no fault of his. <span class=\"refLink\" data-ref=\"Zevachim 12b:4\" href=\"/Zevachim.12b.4\">Ib.</span> <span dir=\"rtl\">גברא אי׳</span> the person was unfit; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, דְּחִי 1",
+              "sourceHeRef": "מילון יסטרוב, דְּחִי א׳",
+              "sourceRef": "Jastrow, דְּחִי 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">למה ליה למימר להן לא מפני כו'</strong> - הא קא יהיב להן כפליים ומיחזא חזו דלא עין צרה היא:",
+              "ref": "Rashi on Pesachim 57a:3:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ג:א",
+              "sourceRef": "Rashi on Pesachim 57a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דלא נימרו דחויי מדחי לן</strong> - ולא יתן לנו כלום דמה לו ליטול זו וליתן פי שנים לפיכך הוצרך לפרש להן טעמא של דבר:",
+              "ref": "Rashi on Pesachim 57a:3:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ג:ב",
+              "sourceRef": "Rashi on Pesachim 57a:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>למה ליה למימרא להו</b> <span class=\"hebrew-emphasis\">[לו לומר להם]</span> <b>\"לא מפני שעיני צרה\"?</b> דיו להוכיח זאת במה שאמר להם שיתן להם מן המעושר, ומשיבים שאמר זאת <b>כי היכי</b> <span class=\"hebrew-emphasis\">[כדי]</span> ש<b>לא לימרו: דחויי קא מדחי לן</b> <span class=\"hebrew-emphasis\">[יאמרו: לדחות אותנו הוא דוחה],</span> שקודם כל נטל מהם מה שלקחו, ולאחר מכן לא יקיים הבטחתו כלל.",
+              "ref": "Steinsaltz on Pesachim 57a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:ג",
+              "sourceRef": "Steinsaltz on Pesachim 57a:3"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>Why</b> was it necessary <b>for him to say to them: Not because I begrudge</b> you what you have taken? It would have been sufficient to offer them tithed produce. The Gemara answers that he said it <b>so they would not say: He is putting us off,</b> taking what we collected now, but later he will not fulfill his commitment.",
+      "he": "לְמָה לֵיהּ לְמֵימְרָא לְהוּ ״לֹא מִפְּנֵי שֶׁעֵינִי צָרָה״? כִּי הֵיכִי דְּלָא לֵימְרוּ: דַּחוֹיֵי קָא מְדַחֵי לַן.",
+      "ref": "Pesachim 57a:3"
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>עורות קדשים כו' עמדו בעלים והקדישום כו'. </b> פירש\"י כל הני משמרות יחד והקדישום כו' ע\"ש והוא דחוק ולולי דבריהם נראה דבעלים ממש קאמר דומיא דלקמן גבי קורות וה\"נ הכא בעלים ממש קאמר דהקדישום קודם שיזכו בהן הכהנים דלא זכו בהן עד אחר הקרבת קרבן כדכתיב עור העולה אשר הקריב וגו' וק\"ל:",
+              "ref": "Chidushei Agadot on Pesachim 57a:1",
+              "sourceHeRef": "חידושי אגדות על פסחים נ״ז א:א",
+              "sourceRef": "Chidushei Agadot on Pesachim 57a:1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "In all instances that a disqualifying factor was caused in one of the sacrifices of the most sacred order before they were skinned, their hides are not granted to the priests. [If they are disqualified] after they are skinned, their hides are granted to the priests. All of the hides should be divided among the members of the priestly watch from Friday to Friday.",
+              "he": "כָּל קָדְשֵׁי הַקָּדָשִׁים שֶׁאֵרַע בָּהֶן פִּסּוּל קֹדֶם הֶפְשֵׁטָן אֵין עוֹרוֹתֵיהֶן לַכֹּהֲנִים. לְאַחַר הֶפְשֵׁטָן עוֹרָן לַכֹּהֲנִים. וְכָל הָעוֹרוֹת מְחַלְּקִין אוֹתָן אַנְשֵׁי מִשְׁמָר בֵּינֵיהֶן מֵעֶרֶב שַׁבָּת לְעֶרֶב שַׁבָּת:",
+              "ref": "Mishneh Torah, Sacrificial Procedure 5:20",
+              "sourceHeRef": "הלכות מעשה הקרבנות ה:כ",
+              "sourceRef": "Sacrificial Procedure 5:20"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "So, too, the priest who offers a man’s burnt offering shall keep the skin of the burnt offering that he offered.",
+                      "he": "וְהַ֨כֹּהֵ֔ן הַמַּקְרִ֖יב אֶת־עֹ֣לַת אִ֑ישׁ ע֤וֹר הָֽעֹלָה֙ אֲשֶׁ֣ר הִקְרִ֔יב לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃",
+                      "link": "/Leviticus/7",
+                      "ref": "Leviticus 7:8",
+                      "sourceHeRef": "ויקרא ז:ח",
+                      "sourceRef": "Leviticus 7:8"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עורות קדשים</strong> - עור עולה וחטאות ואשמות וקרבנות ציבור שמתחלקין עורות קדשי הקדשים לכהנים כדכתיב <span class=\"parenthesized\">(ויקרא ז)</span> עור העולה אשר הקריב וילפינן בזבחים <span class=\"parenthesized\">(דף קג:)</span> מעולה כל עורות קדשי קדשים:",
+              "ref": "Rashi on Pesachim 57a:4:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ד:א",
+              "sourceRef": "Rashi on Pesachim 57a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולערב</strong> - שכל יום היו מחלקין אותן לאנשי בית אב שעבדו היום שהמשמר היה חלוק לששה בתי אבות לששה ימים ומה שהגיע ליומן הן מרובה הן מועט הוא נוטל אע\"פ שיש יום שמרבים היחידים להביא ביום זה מחבירו:",
+              "ref": "Rashi on Pesachim 57a:4:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ד:ב",
+              "sourceRef": "Rashi on Pesachim 57a:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעלי זרועות</strong> - שהיו בכהנים חזקים מחביריהם:",
+              "ref": "Rashi on Pesachim 57a:4:3",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ד:ג",
+              "sourceRef": "Rashi on Pesachim 57a:4:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לערב שבת</strong> - דכולי משמרה תיהוי התם ולא יניחו לבעלי זרועות ליטול בזרוע:",
+              "ref": "Rashi on Pesachim 57a:4:4",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ד:ד",
+              "sourceRef": "Rashi on Pesachim 57a:4:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> אגב המעשה באנשי יריחו שהיו בעלי זרוע גוזלים את עציהם <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> <b>בראשונה היו מניחין</b> הכהנים <b>עורות</b> קדשי <b>קדשים</b> שנפשטו ושייכים לכהנים <b>בלשכת בית הפרוה, לערב היו מחלקין אותן לאנשי בית אב</b> אותה משפחה של כהנים ששימשו באותו יום. <b>והיו בעלי זרועות</b> (אלימים) שביניהם <b>נוטלין אותן בזרוע</b> ואינם מחלקים בצדק. <b>התקינו שהיו מחלקין אותן מערב שבת לערב שבת,</b> ומדוע עשו זאת? כי <b>אתיין כולהו</b> <span class=\"hebrew-emphasis\">[שבאות כל]</span> ה<b>משמרות,</b> שכל בתי אב מן המשמר הנכנס והיוצא מצויים אז יחד <b>ושקלן בהדדי</b> <span class=\"hebrew-emphasis\">[ולוקחים יחד],</span> ואז לא יוכלו בעלי זרועות לקחת יותר מחלקם.",
+              "ref": "Steinsaltz on Pesachim 57a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:ד",
+              "sourceRef": "Steinsaltz on Pesachim 57a:4"
+            }
+          ]
+        }
+      },
+      "en": "Apropos the people of Jericho, the Gemara relates that powerful people would steal wood from them. <b>The Sages taught: Initially,</b> the priests <b>would place the hides</b> that were flayed from animals <b>consecrated</b> as offerings of the most sacred order, which were given to the priests, <b>in the Parva chamber. In the evening, they would distribute them to the members of the family</b> of priests serving in the Temple that day. <b>And the powerful</b> priests among them would <b>take them by force</b> before they could be distributed. The Rabbis <b>decreed that they would distribute them each Shabbat eve,</b> because then <b>all the</b> families of both priestly <b>watches came and took</b> their part <b>together.</b> All the families from both the watch that was beginning its service and the one ending its service were together when they divided the hides. The powerful priests were unable to take the hides by force.",
+      "he": "תָּנוּ רַבָּנַן: בָּרִאשׁוֹנָה הָיוּ מַנִּיחִין עוֹרוֹת קָדָשִׁים בְּלִשְׁכַּת בֵּית הַפַּרְוָה, לָעֶרֶב הָיוּ מְחַלְּקִין אוֹתָן לְאַנְשֵׁי בֵּית אָב. וְהָיוּ בַּעֲלֵי זְרוֹעוֹת נוֹטְלִין אוֹתָן בִּזְרוֹעַ. הִתְקִינוּ שֶׁיִּהְיוּ מְחַלְּקִין אוֹתָן מֵעֶרֶב שַׁבָּת לְעֶרֶב שַׁבָּת — דְּאָתְיָין כּוּלְּהוּ מִשְׁמָרוֹת, וְשָׁקְלָן בַּהֲדָדֵי.",
+      "ref": "Pesachim 57a:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גדולי כהונה</strong> - שרים שבהן:",
+              "ref": "Rashi on Pesachim 57a:5:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ה:א",
+              "sourceRef": "Rashi on Pesachim 57a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עמדו בעלים</strong> - כל כהני משמרות יחד והקדישום לבדק הבית:",
+              "ref": "Rashi on Pesachim 57a:5:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ה:ב",
+              "sourceRef": "Rashi on Pesachim 57a:5:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ועדיין היו גדולי כהונה</b> (החשובים והמיוחסים בין הכהנים) <b>נוטלין אותן בזרוע,</b> ואלה, מפני חשיבותם אף המשמר כולו לא יכול להתנגד להם. כיון שראו שאין סדר בדברים, <b>עמדו בעלים</b> של הקרבנות (מאירי) <b>והקדישום לשמים,</b> שהתנו בשעת הפרשת הקרבן שעורו יהא הקדש ולא יהא לכהנים.",
+              "ref": "Steinsaltz on Pesachim 57a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:ה",
+              "sourceRef": "Steinsaltz on Pesachim 57a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "There is a difficulty with Rashi’s explanation that the owners in this case are the priests, who receive the hides from the sacrifices of the most sacred order: How could they consecrate an item that did not yet exist and was not yet in their possession? One explanation is based on the principle: The heart of the court stipulates that they will be consecrated, rendering them consecrated by the court’s provision (Maharam Ĥalawa).",
+              "he": "ולפירוש רש\"י, שבעלים אלה שאמרו כאן הם הכהנים (שכרגיל להם ניתנים עורות הקרבנות), קשה: כיצד יכלו להקדיש מראש דבר שלא בא לעולם? ויש לומר, שבכגון זה אמרו, כי \"לב בית דין מתנה עליהן\" ונעשים הקדש מכוח תקנת בית דין קבוע (מהר\"מ חלאוה).",
+              "ref": "Steinsaltz comment #1 on Pesachim 57a:5",
+              "sourceHeRef": "עָמְדוּ בְּעָלִים וְהִקְדִּישׁוּם",
+              "sourceRef": "The owners arose and consecrated the hides"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "...R’ Yochanan ben Turta said: why was Shiloh destroyed? Because there they treated holy offerings disgracefully. Why was the first building of Jerusalem destroyed? Because of the idolatry, sexual immorality and spilling of blood that was in its midst. But we know that in the later one (Second Temple period) they labored in Torah and were careful with tithes, so why were they exiled? Because they loved money and each one hated his fellow. This comes to teach you that hating one’s fellow is difficult in God’s eyes, and the Torah considered it equivalent to idolatry, sexual immorality and the spilling of blood: But the final building which will be built in the future, in our days in our life, what is said about it? “And it shall be at the end of the days, that the mountain of the Lord's house shall be firmly established at the top of the mountains…And many peoples shall go, and they shall say, \"Come, let us go up to the Lord's mount, to the house of the God of Jacob…” (Isaiah 2:2-3) “For there is a day, the watchers shall call on the mountains of Ephraim; Rise! Let us go up to Zion, to the Lord, our God.” (Jeremiah 31:5)",
+              "he": "בראשונה היו מכניסין עורות קדשים ללשכת בית הפרווה והיו מחלקין אותו בערבית לכל בית אב שבאותו היום והיו גדולי כהונה באין ונוטלין אותן בזרוע התקינו שיהו מחלקין אותו בערבי שבת לכל משמר ומשמר ועדיין היו גדולי כהונה באין ונוטלין אותן בזרוע עמדו בעלים והקדישום לשמים אמרו לא היו ימים מועטין עד שחיפו כהנים פני כל האולם בטבלאות של זהב מאה על מאה ועל עובי דינר זהב מה שמחפין עד הרגל וברגל מקפלין אותן ומניחין אותן ע\"ג מעלות בהר הבית כדי שיראו העם את מלאכתו שהיא נאה ושלא נטה בה כלום אחר הרגל חוזרין וקובעין אותם במקומם. אבא שאול אומר קורות שקמה היו ביריחו והיו בעלי אגרוף באין ונוטלין אותן בזרוע עמדו בעלים והקדישום לשמים אמרו לא הקדישו בעלים לשמים אלא קורות שקמה בלבד על אלו ועל כיוצא בהן ועל דומה להן ועל העושין כמעשיהן היה אבא שאול בן בטנית ואבא יוסי בן יוחנן איש ירושלים אומר אוי לי מבית ביתוס אוי לי מאלתן אוי לי מבית קתרוס אוי לי מקלמוסן אוי לי מבית אלחנן אוי לי מבית לחישתן אוי לי מבית אלישע אוי לי מקולמוסן אוי לי מבית ישמעאל בן פאבי שהם כהנים גדולים ובניהם גזברים וחתניהן אמרכלין ועבדיהן באין וחובטין עלינו במקלות. א\"ר יוחנן בן תורתא מפני מה חרבה שילה מפני בזיון קדשים שבתוכה. ירושלים בנין הראשון מפני מה חרבה מפני עבודת כוכבים וגלוי עריות ושפיכות דמים שהיו בתוכה. אבל באחרונה מכירין אנו בהן שהן עמלים בתורה וזהירין במעשרות מפני מה גלו מפני שאוהבין את הממון ושונאין איש את רעהו ללמדך שקשה שנאת איש את רעהו לפני המקום ושקלה הכתוב כנגד עבודת כוכבים וגלוי עריות ושפיכות דמים אבל בבנין האחרון שעתידה לבנות בחיינו ובימינו מה נאמר בו <span class=\"parenthesized\">(ישעיהו ב)</span> והיה באחרית הימים נכון יהיה הר בית ה' בראש ההרים וגו' והלכו עמים רבים ואמרו לכו ונעלה אל הר ה' ואל בית אלהי יעקב וגו' ואומר <span class=\"parenthesized\">(ירמיהו לא)</span> כי יש יום קראו נוצרים בהר אפרים קומו ונעלה ציון אל ה' אלהינו.",
+              "ref": "Tosefta Menachot 13:4",
+              "sourceHeRef": "תוספתא מנחות יג:ד",
+              "sourceRef": "Tosefta Menachot 13:4"
+            },
+            {
+              "en": "",
+              "he": "בראשונה היו מכניסין עורות קדשים ללשכת בית הפרוה והיו מחלקין אותן בערבין לכל בית אב שבאותו היום והיו גדולי כהונה באים ונוטלין אותם בזרוע התקינו שיהו מחלקין אותן בערבי שבתות לכל משמר ומשמר ועדיין היו גדולי כהונה באין ונוטלין אותן בזרוע עמדו הבעלים והקדישום לשמים. אבא שאול אומר קורות של שקמה היו ביריחו ובעלי אגרוף נוטלין אותן עמדו והקדישום אמרו לא הקדישו בעלים לשמים אלא קורות שקמה בלבד.",
+              "ref": "Tosefta Zevachim 11:7",
+              "sourceHeRef": "תוספתא זבחים יא:ז",
+              "sourceRef": "Tosefta Zevachim 11:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>Yet still the prominent priests</b> by virtue of their lineage <b>would take them by force.</b> Due to their prominence, the members of the rest of the watch dared not challenge them. When they realized that there was no equitable distribution, <b>the owners</b> of the sacrifices (<i>Me’iri</i>) <b>arose and consecrated</b> the hides <b>to Heaven</b> so the priests could not take them.",
+      "he": "וַעֲדַיִין הָיוּ גְּדוֹלֵי כְהוּנָּה נוֹטְלִין אוֹתָן בִּזְרוֹעַ. עָמְדוּ בְּעָלִים וְהִקְדִּישׁוּם לַשָּׁמַיִם.",
+      "ref": "Pesachim 57a:5"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דֶּלֶם</strong>, <strong dir=\"rtl\">דְּלוּם</strong> m. (<span dir=\"rtl\">דלל</span>, with format. <span class=\"refLink\" data-ref=\"Jastrow, מ 1\" dir=\"rtl\" href=\"/Jastrow,_מ.1\">מ</span>) <i>diminution, defect</i> (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוֹפִי 1\" dir=\"rtl\" href=\"/Jastrow,_דּוֹפִי.1\">דּוֹפִי</span>). <span class=\"refLink\" data-ref=\"Pesachim 57a:6\" href=\"/Pesachim.57a.6\">Pesachim 57ᵃ</span> that the workmanship was good <span dir=\"rtl\">ואין בהם ד׳</span> Manuscript Munich 1 and ed. (Manuscript Munich 2 <span class=\"refLink\" data-ref=\"Jastrow, דֶּלֶס 1\" dir=\"rtl\" href=\"/Jastrow,_דֶּלֶס.1\">דליס</span>, Arukh <span dir=\"rtl\">דלוס</span>, <span class=\"refLink\" data-ref=\"Jastrow, דֶּלֶס 1\" dir=\"rtl\" href=\"/Jastrow,_דֶּלֶס.1\">דליס</span>, see Kohelet Arukh Compl.) and there was no defect in them; <span class=\"refLink\" data-ref=\"Tosefta Menahot 13:19\" href=\"/Tosefta_Menahot.13.19\">Tosefta Menachot XIII, 19</span> <span dir=\"rtl\">שלא נטה בו דלום</span> ed. Zuckermandel (see Tosefefta) (ed. <span class=\"refLink\" data-ref=\"Jastrow, כְּלוּם 1\" dir=\"rtl\" href=\"/Jastrow,_כְּלוּם.1\">כלום</span>).—<span class=\"refLink\" data-ref=\"Tosefta Bava Kamma 7:8\" href=\"/Tosefta_Bava_Kamma.7.8\">Tosefta Bava Kamma VII, 8</span> <span dir=\"rtl\">אין השמן מקבל דליס</span> (Variant <span class=\"refLink\" data-ref=\"Jastrow, כְּלוּם 1\" dir=\"rtl\" href=\"/Jastrow,_כְּלוּם.1\">כלום</span>; Mekhilta Mishpatim N’zikm. section (Parashah) 13 <span class=\"refLink\" data-ref=\"Jastrow, מַכָּל 1\" dir=\"rtl\" href=\"/Jastrow,_מַכָּל.1\">מַכָּל</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 343\" href=\"/Yalkut_Shimoni_on_Torah.343\">Yalkut Shemot 343</span> <span class=\"refLink\" data-ref=\"Jastrow, מַעַל 1\" dir=\"rtl\" href=\"/Jastrow,_מַעַל.1\">מַעַל</span>) oil admits of no dilution through admixture (compare <span class=\"refLink\" data-ref=\"Shir HaShirim Rabbah 1:3\" href=\"/Shir_HaShirim_Rabbah.1.3\">Shir HaShirim Rabbah to I, 3</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, דֶּלֶם 1",
+              "sourceHeRef": "מילון יסטרוב, דֶּלֶם א׳",
+              "sourceRef": "Jastrow, דֶּלֶם 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">טַבְלָא II</strong>, <strong dir=\"rtl\">טַבְלָה</strong> f. (tabula, tabella, τάβλα) <i>plank, board, tablet for writing; book of accounts, list; will</i>. <span class=\"refLink\" data-ref=\"Mishnah Eruvin 4:8\" href=\"/Mishnah_Eruvin.4.8\">Eruvin IV, 8</span> (<span class=\"refLink\" data-ref=\"Eruvin 49b:8\" href=\"/Eruvin.49b.8\">49ᵇ</span>) <span dir=\"rtl\">כטבלה מרובעת</span> (Talmud ed. <span dir=\"rtl\">כטבלא</span>) like a square tablet. <span class=\"refLink\" data-ref=\"Mishnah Rosh Hashanah 2:8\" href=\"/Mishnah_Rosh_Hashanah.2.8\">Rosh Hashanah II, 8</span> (<span class=\"refLink\" data-ref=\"Rosh Hashanah 24a\" href=\"/Rosh_Hashanah.24a\">24ᵃ</span>) <span dir=\"rtl\">על הט׳ בכותל</span> Manuscript Munich (ed. <span dir=\"rtl\">בט׳ ובכותל</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note) (drawings of the phases of the moon) on a tablet on the wall. <span class=\"refLink\" data-ref=\"Gittin 20a:11\" href=\"/Gittin.20a.11\">Gittin 20ᵃ</span> <span dir=\"rtl\">כתב שע\"ג ט׳ ופינקס</span> writing (of manumission) on a tablet or on a board (account book or will, see Masechet ‘Ăbadim, ed. Kirchh. Chaldaic III, Rev. des Etudes Juives 1883, p. 150). Yerushalmi Sanhedrin I, 18ᵈ bottom of page <span dir=\"rtl\">ט׳של רפואות</span> list of (superstitious) remedies (<span class=\"refLink\" data-ref=\"Pesachim 56a:2\" href=\"/Pesachim.56a.2\">Pesachim 56ᵃ</span> <span dir=\"rtl\">ספר וכ׳</span>); and from—[<span class=\"refLink\" data-ref=\"Jerusalem Talmud Beitzah 1:7:2\" href=\"Jerusalem_Talmud_Beitzah.1.7.2\">Yerushalmi Beitzah I, 60ᶜ</span> bottom of page <span dir=\"rtl\">טבלה ברייתא וכ׳</span> (read <span dir=\"rtl\">טַבְלָתָה</span> <i>plural</i>) the outside stone plates of the colonnade of Asi.]—<i>plural</i> <span dir=\"rtl\">טַבְלָאוֹת</span>, <span dir=\"rtl\">טַבְלָיוֹת</span>. Yerushalmi Bava Batra VI, 14ᶜ bottom of page <span dir=\"rtl\">ט׳ של שיש וכ׳</span> polished marble plates for walls. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 426:1\" href=\"/Yalkut_Shimoni_on_Torah.426.1\">Yalkut Shemot 426</span> <span dir=\"rtl\">ונראין ט׳ ט׳ וכ׳</span> and they appeared like marked off squares surrounding &c. <span class=\"refLink\" data-ref=\"Pesachim 57a:6\" href=\"/Pesachim.57a.6\">Pesachim 57ᵃ</span> <span dir=\"rtl\">ט׳ של זהב</span> gold plates.—Chald. plural <span dir=\"rtl\">טַבְלָתָה</span>, see supra."
+              ],
+              "he": [],
+              "ref": "Jastrow, טַבְלָא II 1",
+              "sourceHeRef": "מילון יסטרוב, טַבְלָא II א׳",
+              "sourceRef": "Jastrow, טַבְלָא II 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בהר הבית</strong> - רחבה פנויה חוץ לעזרה ויש שם מעלות כדאמרינן בפ\"ק דיומא <span class=\"parenthesized\">(דף טז.)</span>:",
+              "ref": "Rashi on Pesachim 57a:6:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ו:א",
+              "sourceRef": "Rashi on Pesachim 57a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דלם</strong> - דופי:",
+              "ref": "Rashi on Pesachim 57a:6:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ו:ב",
+              "sourceRef": "Rashi on Pesachim 57a:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמרו: לא היו ימים מועטים עד</b> שבמחיריהם של עורות אלה <b>חיפו את ההיכל בטבלאות של זהב, שהם</b> אורך <b>אמה על אמה כעובי דינר זהב,</b> ובזמן העליה ל<b>רגל היו מקפלין אותן</b> ומסירים ממקומם <b>ומניחין אותן על גב מעלה</b> (מדרגה) <b>בהר הבית, כדי שיהו עולי רגלים רואין שמלאכתם</b> של הטבלאות <b>נאה ואין בה דלם</b> (פגם, דופי), ובסוף הרגל היו מחזירים אותן להיכל.",
+              "ref": "Steinsaltz on Pesachim 57a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:ו",
+              "sourceRef": "Steinsaltz on Pesachim 57a:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "From the Greek, and according to the <i>Arukh</i> it should be read not as <i>dalam</i> but as <greek>δόλος</greek>, <i>dolos</i>, meaning trickery or deceit.",
+              "he": "עוביו של דינר זהב לא היה קבוע במשך הדורות, בדרך כלל הוא הלך ופחת עם הזמן. בתקופת המשנה היה עוביו של דינר הזהב בערך מילימטר ורבע. אך לאחר מכן פחת עד כדי שליש או רבע משיעור זה.",
+              "ref": "Steinsaltz comment #1 on Pesachim 57a:6",
+              "sourceHeRef": "דָּלָם",
+              "sourceRef": "Flaw [<i>dalam</i>]"
+            },
+            {
+              "en": "",
+              "he": "ר' ישמעאל בן פיאכי (או בן פאבי, בן פיאבי) היה אחד הכהנים שמינה אגריפס השני סמוך לחורבן הבית השני. אף על פי שלא היתה דעת חכמים נוחה מבני משפחתו, מכל מקום שבחו את מעשיו הטובים של ר' ישמעאל בן פיאכי.\nנראה כי היה בן למשפחה עשירה מאד. יש אומרים שהוא הכהן הגדול שנקרא על שם אמו הצדקנית \"בן קמחית\", ואם כן הוא, שמשו גם אחיו זמנית בכהונה הגדולה. ר' ישמעאל בן פיאכי שימש בכהונה הגדולה עשר שנים. הוא נמנה בין הכהנים המעטים שעשו פרה אדומה (שמונה במשך כל הדורות).",
+              "ref": "Steinsaltz comment #2 on Pesachim 57a:6",
+              "sourceHeRef": "ר' ישמעאל בן פיאכי",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "מקור המילה הוא ביוונית ובערוך גרס דלס <eng>äïëïò</eng> (דולוס) ומשמעה: מרמה, רמאות.",
+              "ref": "Steinsaltz comment #3 on Pesachim 57a:6",
+              "sourceHeRef": "דלם",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Sages <b>said: Not a few days passed before they had plated the entire sanctuary with golden tablets</b> with the proceeds from the redemption and sale of the hides. These plates <b>were one cubit by one cubit and as thick as a golden dinar. And</b> when the people assembled <b>for the</b> Festival <b>pilgrimage they would remove</b> the tablets <b>and place them on a stair of the Temple Mount so that the pilgrims would see that the craftsmanship</b> of the tablets <b>was beautiful and without flaw [<i>dalam</i>].</b> Afterward they replaced the tablets in the Sanctuary.",
+      "he": "אָמְרוּ: לֹא הָיוּ יָמִים מוּעָטִים עַד שֶׁחִיפּוּ אֶת הַהֵיכָל כּוּלּוֹ בְּטַבְלָאוֹת שֶׁל זָהָב, שֶׁהֵן אַמָּה עַל אַמָּה כְּעוֹבִי דִּינַר זָהָב, וּלְרֶגֶל הָיוּ מְקַפְּלִין אוֹתָן וּמַנִּיחִין אוֹתָן עַל גַּב מַעֲלָה בְּהַר הַבַּיִת, כְּדֵי שֶׁיְּהוּ עוֹלֵי רְגָלִים רוֹאִין שֶׁמְּלַאכְתָּם נָאָה וְאֵין בָּהּ דֶּלֶם.",
+      "ref": "Pesachim 57a:6"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קוֹרָה III</strong> f. (Biblical Hebrew <span class=\"refLink\" data-ref=\"Jastrow, קרי ³ 1\" dir=\"rtl\" href=\"/Jastrow,_קרי ³.1\">קֹרָה</span>; <span class=\"refLink\" data-ref=\"Jastrow, קרי ³ 1\" href=\"/Jastrow,_קרי ³.1\"><span dir=\"rtl\">קָרָה</span> I</span>) <br><b>1)</b> <i>joist, beam, post</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 42\" href=\"/Bereishit_Rabbah.42\">Breishit Rabbah section (Parashah) 42</span>, and e., see <span class=\"refLink\" data-ref=\"Jastrow, עוֹבִי 1\" dir=\"rtl\" href=\"/Jastrow,_עוֹבִי.1\">עוֹבִי</span>.—<span dir=\"rtl\">קוֹרַת בית הבד</span>, see <span class=\"refLink\" data-ref=\"Jastrow, בַּד II 1\" href=\"/Jastrow,_בַּד II.1\"><span dir=\"rtl\">בַּד</span> II</span>. <span class=\"refLink\" data-ref=\"Mishnah Kelim 12:1\" href=\"/Mishnah_Kelim.12.1\">Kelim XII, 1</span> <span dir=\"rtl\">קוֹרַת החצים</span> (not <span dir=\"rtl\">קורות</span>) the (iron-shod) post used as a target for arrows; <span dir=\"rtl\">של אסירין</span> the beam with holes for the hands of prisoners on a transport. <span class=\"refLink\" data-ref=\"Eichah Rabbah 3\" href=\"/Eichah_Rabbah.3\">Eicha Rabbah to III, 12</span>, see <span class=\"refLink\" data-ref=\"Jastrow, חֵץ 1\" dir=\"rtl\" href=\"/Jastrow,_חֵץ.1\">חֵץ</span>; and from—<span class=\"refLink\" data-ref=\"Mishnah Kelim 11:2\" href=\"/Mishnah_Kelim.11.2\">Kelim XI, 2</span> <span class=\"refLink\" data-ref=\"Jastrow, קַפָּר 1\" dir=\"rtl\" href=\"/Jastrow,_קַפָּר.1\">הק׳</span> (Mishnah ed. <span dir=\"rtl\">הקורא</span>) the long iron bolt of a city gate (corresp. to <span dir=\"rtl\">נגר</span>, see Maimonides ed. Dehr. and l. explained <span dir=\"rtl\">נגר</span>). <br><b><br>—2)</b> <i>the trunk of a tree with its ramifications</i>. Midrash Samuel Chaldaic XIII, see <span class=\"refLink\" data-ref=\"Jastrow, כְּוֶורֶת 1\" dir=\"rtl\" href=\"/Jastrow,_כְּוֶורֶת.1\">כְּוֶורֶת</span>. Yerushalmi Shabbat X, 10ᵃ <span dir=\"rtl\">קורת שקמה</span> the trunk of a sycamore tree; and e.—plural <span dir=\"rtl\">קוֹרוֹת</span>, <span dir=\"rtl\">קוֹרִים</span>. <span class=\"refLink\" data-ref=\"Yoma 47a:13\" href=\"/Yoma.47a.13\">Yoma 47ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, קֶלַע II 1\" href=\"/Jastrow,_קֶלַע II.1\"><span dir=\"rtl\">קֶלַע</span> II</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Peah 7:6:4\" href=\"Jerusalem_Talmud_Peah.7.6.4\">Yerushalmi Peah VII, end, 20ᶜ</span>; <span class=\"refLink\" data-ref=\"Pesachim 57a:7\" href=\"/Pesachim.57a.7\">Pesachim 57ᵃ</span>; <span class=\"refLink\" data-ref=\"Tosefta Pesachim 2\" href=\"/Tosefta_Pesachim.2\">Tosefta ib. II</span> (<span class=\"refLink\" data-ref=\"Tosefta Pesachim 3:22\" href=\"/Tosefta_Pesachim.3.22\">III), 22</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Terumot 2:1:13\" href=\"Jerusalem_Talmud_Terumot.2.1.13\">Yerushalmi Terumot II, 41ᵇ</span> bottom of page—<span class=\"refLink\" data-ref=\"Bereishit Rabbah 41:2\" href=\"/Bereishit_Rabbah.41.2\">Breishit Rabbah section (Parashah) 41</span>, beginning; <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 3:1\" href=\"/Bamidbar_Rabbah.3.1\">Bamidabar Rabbah section (Parashah) 3</span>, beginning <span dir=\"rtl\">שפעת ק׳</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 845:3\" href=\"/Yalkut_Shimoni_on_Nach.845.3\">Yalkut Psalms 845</span> <span dir=\"rtl\">שפעת קוֹרֶיהָ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, שִׁפְעָה I 1\" href=\"/Jastrow,_שִׁפְעָה I.1\"><span dir=\"rtl\">שִׁפְעָה</span> I</span>; and from—[<span class=\"refLink\" data-ref=\"Bereishit Rabbah 71:2\" href=\"/Bereishit_Rabbah.71.2\">Breishit Rabbah section (Parashah) 71</span> <span dir=\"rtl\">מאחורי הקורים</span>, see <span class=\"refLink\" data-ref=\"Jastrow, קוֹרִיִּים 1\" dir=\"rtl\" href=\"/Jastrow,_קוֹרִיִּים.1\">קוֹרִיִּים</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, קוֹרָה III 1",
+              "sourceHeRef": "מילון יסטרוב, קוֹרָה III א׳",
+              "sourceRef": "Jastrow, קוֹרָה III 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קורות</strong> - מחוברין עוביו של אילן קרי קורה:",
+              "ref": "Rashi on Pesachim 57a:7:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ז:א",
+              "sourceRef": "Rashi on Pesachim 57a:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ועוד <b>תנא</b> <span class=\"hebrew-emphasis\">[שנינו]</span> בדומה לזה, <b>אבא שאול אומר: קורות</b> (גזעים) <b>של שקמה היו ביריחו, והיו בעלי זרועות נוטלין אותן בזרוע</b> מידי בעליהן, <b>עמדו בעלים והקדישום לשמים.</b> והן הקורות שביחס לגידוליהן עשו אנשי יריחו שלא כדעת חכמים.",
+              "ref": "Steinsaltz on Pesachim 57a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:ז",
+              "sourceRef": "Steinsaltz on Pesachim 57a:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>It was</b> similarly <b>taught</b> that <b><span href=\"/topics/abba-shaul\" class=\"namedEntityLink\" data-slug=\"abba-shaul\">Abba Shaul</span> says: There were sycamore tree trunks in Jericho, and powerful people would take them</b> from their owners <b>by force. The owners stood and consecrated</b> these trunks <b>to Heaven.</b> It was with regard to these trunks and the branches that grew from them that the residents of Jericho acted against the will of the Sages.",
+      "he": "תָּנָא, אַבָּא שָׁאוּל אוֹמֵר: קוֹרוֹת שֶׁל שִׁקְמָה הָיוּ בִּירִיחוֹ, וְהָיוּ בַּעֲלֵי זְרוֹעוֹת נוֹטְלִין אוֹתָן בִּזְרוֹעַ, עָמְדוּ בְּעָלִים וְהִקְדִּישׁוּם לַשָּׁמַיִם.",
+      "ref": "Pesachim 57a:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">אַלָּה</strong> f. (Biblical Hebrew <span class=\"refLink\" data-ref=\"Joshua 24:26\" href=\"/Joshua.24.26\">Joshua XXIV, 26</span>; see <span class=\"refLink\" data-ref=\"Jastrow, אַלָּתָא 1\" dir=\"rtl\" href=\"/Jastrow,_אַלָּתָא.1\">אַלָּתָא</span>) [pointed, prominent] <br><b>1)</b> <i>lance, fork.</i> <span class=\"refLink\" data-ref=\"Mishnah Kelim 16:8\" href=\"/Mishnah_Kelim.16.8\">Kelim XVI, 8</span> <span dir=\"rtl\">חפוי הא׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, חִפּוּי 1\" dir=\"rtl\" href=\"/Jastrow,_חִפּוּי.1\">חִפּוּי</span>. <span class=\"refLink\" data-ref=\"Pesachim 57a:8\" href=\"/Pesachim.57a.8\">Pesachim 57ᵃ</span> <span dir=\"rtl\">אוי לי מֵאַלָּתָן</span> woe to me (I am afraid) of their fork (weapon). <span class=\"refLink\" data-ref=\"Mishnah Shabbat 6:3\" href=\"/Mishnah_Shabbat.6.3\">Shabbat VI, 3</span> (<span class=\"refLink\" data-ref=\"Shabbat 63a:11\" href=\"/Shabbat.63a.11\">63ᵃ</span>) ed. (Manuscript <span class=\"refLink\" data-ref=\"Jastrow, אֲלָא I 1\" dir=\"rtl\" href=\"/Jastrow,_אֲלָא I.1\">אלא</span>); Yerushalmi ibid. 8ᵇ (explained <span dir=\"rtl\">דייקרן</span>). <br><b><br>—2)</b> <i>sign-pole</i>, used in the barn as a mark. Ib.; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Maasrot 1:4:8\" href=\"Jerusalem_Talmud_Maasrot.1.4.8\">Yerushalmi Ma'asrot I, 49ᵃ</span> bottom of page; <span class=\"refLink\" data-ref=\"Tosefta Terumot 3:11\" href=\"/Tosefta_Terumot.3.11\">Tosefta Terumot III, 11</span> <span dir=\"rtl\">משתיעקר הא׳</span> (ed. Zuckermandel (see Tosefefta) <span dir=\"rtl\">משיתעשר</span>, correct accordingly) as soon as the sign-pole (fork) is removed (indicating that the grain is ready for use and priestly gifts)."
+              ],
+              "he": [],
+              "ref": "Jastrow, אַלָּה 1",
+              "sourceHeRef": "מילון יסטרוב, אַלָּה א׳",
+              "sourceRef": "Jastrow, אַלָּה 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">בָּטְנִית</strong> proper noun <i>Botnith</i>. <span class=\"refLink\" data-ref=\"Pesachim 57a:8\" href=\"/Pesachim.57a.8\">Pesachim 57ᵃ</span> Abba Saul ben B."
+              ],
+              "he": [],
+              "ref": "Jastrow, בָּטְנִית 1",
+              "sourceHeRef": "מילון יסטרוב, בָּטְנִית א׳",
+              "sourceRef": "Jastrow, בָּטְנִית 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">לְחִישָׁה</strong> f. (לָחַשׁ II) <br><b>1)</b> <i>whisper; spell, charm</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Shabbat 6:4:4\" href=\"Jerusalem_Talmud_Shabbat.6.4.4\">Yerushalmi Shabbat VI, 8ᵇ</span> bottom of page (explained <span dir=\"rtl\">לחשים</span>, <span class=\"refLink\" data-ref=\"Isaiah 3:20\" href=\"/Isaiah.3.20\">Isaiah III, 20</span>) <span dir=\"rtl\">קדשייא דבר שהוא ניתן על בית הל׳</span> ear-rings, (namely) that which is put on the place where the whispering for charming purposes is done (the ear).—בל׳ <i>in a low voice</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 3\" href=\"/Bereishit_Rabbah.3\">Breishit Rabbah section (Parashah) 3</span>, beginning; and from—[<span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 1:5:14\" href=\"Jerusalem_Talmud_Berakhot.1.5.14\">Yerushalmi Berakhot I, 3ᵈ</span> top, see <span class=\"refLink\" data-ref=\"Jastrow, לְחָשָׁא 1\" dir=\"rtl\" href=\"/Jastrow,_לְחָשָׁא.1\">לְחָשָׁא</span>.]. <br><b><br>—2)</b> <i>hissing</i> (of the serpent), <i>emission of venom.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 2:10\" href=\"/Pirkei_Avot.2.10\">Pirkei Avot II, 10</span> <span dir=\"rtl\">לְחִישָׁתָן לְחִישַׁת וכ׳</span> their (the scholars’) hissing is that of &c.; <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 3\" href=\"/Bamidbar_Rabbah.3\">Bamidabar Rabbah section (Parashah) 3</span>, beginning—Transferred <i>invidious talk, tale-bearing, insinuation</i>. <span class=\"refLink\" data-ref=\"Pesachim 57a:8\" href=\"/Pesachim.57a.8\">Pesachim 57ᵃ</span> <span dir=\"rtl\">אוי לי מלחישתן</span> woe to me on account of their talk; <span class=\"refLink\" data-ref=\"Tosefta Menahot 13:21\" href=\"/Tosefta_Menahot.13.21\">Tosefta Menachot XIII, 21</span> <span dir=\"rtl\">בית לחישתן</span> their mouth.—plural <span dir=\"rtl\">לְחִישׁוֹת</span>. <span class=\"refLink\" data-ref=\"Tosefta Sotah 14:3\" href=\"/Tosefta_Sotah.14.3\">Tosefta Sotah XIV, 3</span>; <span class=\"refLink\" data-ref=\"Sotah 47b:18\" href=\"/Sotah.47b.18\">Sotah 47ᵇ</span> <span dir=\"rtl\">לוחשי ל׳ בדין</span> those influencing the court by means of secret talk or insinuations."
+              ],
+              "he": [],
+              "ref": "Jastrow, לְחִישָׁה 1",
+              "sourceHeRef": "מילון יסטרוב, לְחִישָׁה א׳",
+              "sourceRef": "Jastrow, לְחִישָׁה 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">קַתְרוֹס II</strong> proper noun of a male person <i>Ḳathros</i>. <span class=\"refLink\" data-ref=\"Pesachim 57a:8\" href=\"/Pesachim.57a.8\">Pesachim 57ᵃ</span> <span dir=\"rtl\">בית ק׳</span> name of a priestly family, (supposed to be identical with Κανθηρᾶς, Josephus Ant. XX, 1, 3); <span class=\"refLink\" data-ref=\"Tosefta Menahot 13:21\" href=\"/Tosefta_Menahot.13.21\">Tosefta Menachot XIII, 21</span> <span class=\"refLink\" data-ref=\"Jastrow, קַדְרוֹס I 1\" dir=\"rtl\" href=\"/Jastrow,_קַדְרוֹס I.1\">קַדְרוֹס</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, קַתְרוֹס II 1",
+              "sourceHeRef": "מילון יסטרוב, קַתְרוֹס II א׳",
+              "sourceRef": "Jastrow, קַתְרוֹס II 1"
+            }
+          ]
+        },
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אוי לי מבית בייתוס אוי לי מאלתן כו'. </b> פרש\"י אלתן מקלותיהן כו' ע\"ש וק\"ק שהרי כלל כולן לבסוף בזה במ\"ש ועבדיהם חובטין במקלותיהן כו' ולא אמרה נמי בהאי לישנא אלותיהן ובכלל המאמר קשה הכפל בכ\"א אוי לי מבית בייתוס אוי לי כו' ונראה שזכר כאן ד' בתי כ\"ג על פי מ\"ש בס\"פ א\"נ בד' כתות שאין מקבלין פני שכינה כת לצים כת חנפים כת שקרים כת מספרי לשון הרע שעון שלהם בדיבור ע\"י שנאת חנם כמפורש שם ולכך לא חשיב נמי גסות רוח שגם הוא אינו מקבל פני שכינה דדרשינן ביה גבה עינים וגו' אותו לא אוכל אלא שאינן ע\"י הדיבור ואמרי' בפ\"ק דיומא ושנות רשעים תקצרנה הם כ\"ג שבבית שני שהיו בו יותר מג' מאות כ\"ג ולזה אמר בכאן על הד' כתות אלו שהיו בבתי ד' כהנים אלו וכלל בכולן שהיה בהן גסות הרוח ופרט בכ\"א כת אחד ואמר אוי לי מבית בייתוס שהיו גסי הרוח ועוד אוי לי מאלחן של בית בייתוס מלשון אלה ושבועה שהיו בעלי שבועות שקר דהיינו כת שקרים:",
+              "ref": "Chidushei Agadot on Pesachim 57a:3",
+              "sourceHeRef": "חידושי אגדות על פסחים נ״ז א:ג",
+              "sourceRef": "Chidushei Agadot on Pesachim 57a:3"
+            },
+            {
+              "en": "",
+              "he": "<b>ואוי לי מקולמסן </b> הן כח לצים כותבין במליצותיהן גנאי לבני אדם כמ\"ש הוי חוקקי און וגו':",
+              "ref": "Chidushei Agadot on Pesachim 57a:6",
+              "sourceHeRef": "חידושי אגדות על פסחים נ״ז א:ו",
+              "sourceRef": "Chidushei Agadot on Pesachim 57a:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> בייתוס כ\"ג היה וכן כולן והיו להן עבדים חמסנין וחובטין את העם כן הוא בס\"א:",
+                      "ref": "Chokhmat Shlomo on Pesachim 57a:2",
+                      "sourceHeRef": "חכמת שלמה על פסחים נ״ז א:ב",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 57a:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בייתוס</strong> - כהן גדול היה וכן כולן [והיו להן עבדים חמסנין וחובטין את העם]:",
+              "ref": "Rashi on Pesachim 57a:8:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ח:א",
+              "sourceRef": "Rashi on Pesachim 57a:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלתן</strong> - מקלותיהן כמו לא באלה ולא ברומח במסכת שבת <span class=\"parenthesized\">(דף סג.)</span>:",
+              "ref": "Rashi on Pesachim 57a:8:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ח:ב",
+              "sourceRef": "Rashi on Pesachim 57a:8:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לחישתן</strong> - יועצי רע:",
+              "ref": "Rashi on Pesachim 57a:8:3",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ח:ג",
+              "sourceRef": "Rashi on Pesachim 57a:8:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קולמוסין</strong> - שהיו כותבין איגרות לרעה:",
+              "ref": "Rashi on Pesachim 57a:8:4",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ח:ד",
+              "sourceRef": "Rashi on Pesachim 57a:8:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמרכלים</strong> - אמר כולו על פיו נחתך כל צורך הקדש:",
+              "ref": "Rashi on Pesachim 57a:8:5",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ח:ה",
+              "sourceRef": "Rashi on Pesachim 57a:8:5"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>קולמוס</big></b> [שרייב פעדער] <span class=\"parenthesized\">(שבת יא)</span> לא יצא הלבלר בקולמוסו <span class=\"parenthesized\">(פסחים נז)</span> או לי מקולמוסן פי' שהיו חוקקין חקקי און. <span class=\"parenthesized\">(חולין ל)</span> שחיטה העשויה כקולמוס פי' כגון ששחט במקום אחד ושפייה לסכין ואתא לצואר דהוה ליה כקולמוס פ\"א שחט הושט למטה ועקם הסכין שבידו וחתך העור ועלה ושחט הקנה שהוא כקולמוס הסופר <span class=\"parenthesized\">(פסחים קיח)</span> גער באומה שכל מעשיה נכתבין בקולמוס אחד פי' שלעולם אינה כותבת טוב אלא רע. פי' אחר בקולמוס אחד כמו שכותבין כך עושין שאין יכולין לעשות עמהן שום פשרה עט שקר סופרים תרגום קולמוס דשקר למזייפא <span class=\"parenthesized\">(בפסקא ויהי בשלח פרעה)</span> שהיו נותנין בדודיות של אש תחת שחיהן וקולמיות של קנה תחת צפרניהן <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב פי' בליו\"ר עט סופר. וגם שם כללי הוא לכל קנה)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Kof 179",
+              "sourceHeRef": "ספר הערוך, אות הקו\"ף קע״ט",
+              "sourceRef": "Sefer HeArukh, Letter Kof 179"
+            },
+            {
+              "en": "",
+              "he": "<b><big>לחש</big></b> [אין אהר רומען]. <span class=\"parenthesized\">(ברכות ח. מגלה ו)</span> אם לחשך אדם לומר בני אל תתחר במרעים. <span class=\"parenthesized\">(ברכות כב)</span> נחום איש גם זו לחשה ליה לרבי עקיבא פי' אמרה לו דרך סוד. <span class=\"parenthesized\">(סוטה מו)</span> משרבו לוחשי לחישות בדין. <span class=\"parenthesized\">(פסחים נז)</span> אוי לי מלחישתן פירוש שהיו רכילין. <span class=\"parenthesized\">(חגיגה יג)</span> ונבון לחש זה שמוסרין לו דברי תורה שניתנו בלחש פי' שהתורה ניתנה בחשאי מפני השטן:",
+              "ref": "Sefer HeArukh, Letter Lamed 105",
+              "sourceHeRef": "ספר הערוך, אות הלמ\"ד ק״ה",
+              "sourceRef": "Sefer HeArukh, Letter Lamed 105"
+            },
+            {
+              "en": "",
+              "he": "<b><big>אגרוף</big></b> [פויסט]. אוי לי מאגרופן <span class=\"parenthesized\">(פסחים נז סנהדרין כ\"א)</span> אגרופן של בית דוד בגמ' ולא ירבה לו נשים <span class=\"parenthesized\">(קדושין עו)</span> בגמר' דמוכתב. אגרופא של חנופא <span class=\"parenthesized\">(בסוף גמרא דואלו נאמרין בכל לשון)</span> ענין זרוע וכח חמה. אגרוף גדול זה אגרופי של בן בטיח <span class=\"parenthesized\">(בכל כלי בעלי בתים פרק קמא דכלים)</span> פי' אדם גבור היה בבעלי משנה והאגרוף שלו היה גדול וישנו כראש גדול של אדם. מודה רבי יהודה במלא אגרוף <span class=\"parenthesized\">(סוכה כ\"א)</span> פי' פס יד כפופה בטפח בלא בוהן ועשויין בני אדם להכות כדקאמרינן בעלי אגרופין וכתיב ולהכות באגרוף רשע:",
+              "ref": "Sefer HeArukh, Letter Alef 121",
+              "sourceHeRef": "ספר הערוך, אות האל\"ף קכ״א",
+              "sourceRef": "Sefer HeArukh, Letter Alef 121"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "על אותם גדולי כהונה שהוזכרו קודם <b>ועל כיוצא בהם אמר אבא שאול בן בטנית משום</b> (משם) <b>אבא יוסף בן חנין: אוי לי מבית בייתוס</b> (משפחת כהנים היתה) <b>אוי לי מאלתן</b> (מקלם), <b>אוי לי מבית חנין אוי לי מלחישתן</b> שהיו מוציאים לעז ומלשינים, <b>אוי לי מבית קתרוס אוי לי מקולמוסן</b> שהם כותבים דברי שקר, <b>אוי לי</b> מעבדי <b>בית ישמעאל בן פיאכי אוי לי מאגרופן.</b> ותוקפם של בתים אלו נובע משום <b>שהם</b> (ראשי המשפחה) <b>כהנים גדולים ובניהם גיזברין</b> של המקדש <b>וחתניהם אמרכלין</b> (ממונים כלליים), ולכן <b>עבדיהם חובטין את העם במקלות</b> ועושים דברים שלא כדין.",
+              "ref": "Steinsaltz on Pesachim 57a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:ח",
+              "sourceRef": "Steinsaltz on Pesachim 57a:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Following the Six-Day War, the Jewish quarter was rebuilt and extensive archeological excavations were conducted in the area. The excavations, headed by Dr. Nahman Avigad, were carried out from 1969 to 1982 under the auspices of the Institute of Archaeology of the Hebrew University of Jerusalem, the Israel Exploration Society, and the Israel Department of Antiquities, which is today the Israel Antiquities Authority. In 1970 one of the findings was the Burnt House, a house that was found in ruins under a layer of ashes, indicating that it had been burned down. Many stone vessels were found in the house, indicating that it was occupied by priests, as stone vessels do not contract ritual impurity. Also found in the house was a round stone weight 10 cm in diameter, and on it in square Aramaic script was the inscription Bar Katros, meaning the son of Katros, indicating that the house belonged to the Katros family.",
+              "he": "ויש מפרשים, שאין הכוונה לומר שהיו כולם רשעים וחמסנים (שהרי אחד מהם ודאי מוזכר לשבח), אלא שהיו תקיפים מאד ומושלים בעם ביד חזקה, וכופים את הדין ולא נמלכו בבית דין כראוי ועל כך היו מתלוננים (ריעב\"ץ).",
+              "ref": "Steinsaltz comment #1 on Pesachim 57a:8",
+              "sourceHeRef": "בֵּית קַתְרוֹס",
+              "sourceRef": "The house of Katros"
+            },
+            {
+              "en": "From the Old Persian h",
+              "he": "נראה שמקור המילה הוא בפרסית <eng>amarkare</eng> ומשמעה: הממונה על המסים, ומכאן הושאל כנראה לשאר מנויים של חשיבות וגדולה.",
+              "ref": "Steinsaltz comment #2 on Pesachim 57a:8",
+              "sourceHeRef": "אֲמַרְכָּלִין",
+              "sourceRef": "Overseers [<i>amarkalin</i>]"
+            },
+            {
+              "en": "Some commentaries explain that this does not mean that all these people listed were evil and violent, as at least one of them is also praised. Rather, it means that they were very powerful and ruled by force. In addition, they exerted their influence over the courts, preventing them from ruling properly; this was the focus of the Sages’ complaint (Rav Ya’akov Emden).",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Pesachim 57a:8",
+              "sourceHeRef": "אוֹי לִי מִבֵּית וכו׳",
+              "sourceRef": "Woe is me due to the house of, etc."
+            }
+          ]
+        }
+      },
+      "en": "<b>With regard to</b> the prominent priests <b>and those like them, <span href=\"/topics/abba-shaul-b-botnit\" class=\"namedEntityLink\" data-slug=\"abba-shaul-b-botnit\">Abba Shaul ben Batnit</span> said in the name of Abba Yosef ben Ḥanin: Woe is me due to</b> the High Priests of <b>the house of Baitos, woe is me due to their clubs. Woe is me due to</b> the High Priests of <b>the house of Ḥanin; woe is me due to their whispers</b> and the rumors they spread. <b>Woe is me due to</b> the High Priests of <b>the house of Katros; woe is me due to their pens</b> that they use to write lies. <b>Woe is me due to</b> the servants of the High Priests of <b>the house of <span href=\"/topics/yishmael-ben-pavi\" class=\"namedEntityLink\" data-slug=\"yishmael-ben-pavi\">Yishmael ben Piakhi</span>; woe is me due to their fists.</b> The power of these households stemmed from the fact <b>that</b> the fathers <b>were High Priests, and their sons were</b> the Temple <b>treasurers, and their sons-in-law were</b> Temple <b>overseers [<i>amarkalin</i>]. And their servants strike the people with clubs,</b> and otherwise act inappropriately.",
+      "he": "עֲלֵיהֶם וְעַל כַּיּוֹצֵא בָּהֶם אָמַר אַבָּא שָׁאוּל בֶּן בָּטְנִית מִשּׁוּם אַבָּא יוֹסֵף בֶּן חָנִין: אוֹי לִי מִבֵּית בַּיְיתּוֹס — אוֹי לִי מֵאָלָתָן, אוֹי לִי מִבֵּית חָנִין — אוֹי לִי מִלְּחִישָׁתָן, אוֹי לִי מִבֵּית קַתְרוֹס — אוֹי לִי מִקּוּלְמוֹסָן, אוֹי לִי מִבֵּית יִשְׁמָעֵאל בֶּן פִּיאָכִי — אוֹי לִי מֵאֶגְרוֹפָן. שֶׁהֵם כֹּהֲנִים גְּדוֹלִים, וּבְנֵיהֶן גִּיזְבָּרִין, וְחַתְנֵיהֶם אֲמַרְכָּלִין, וְעַבְדֵיהֶן חוֹבְטִין אֶת הָעָם בְּמַקְלוֹת.",
+      "ref": "Pesachim 57a:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בַּרְקַאי II</strong> proper noun of a male person , see <span class=\"refLink\" data-ref=\"Jastrow, בּוֹרְקַי II 1\" href=\"/Jastrow,_בּוֹרְקַי II.1\"><span dir=\"rtl\">בּוֹרְקַי</span> II</span>. <br><b><br>—2)</b> כְּפַר ב׳ <i>K’far Barkai</i>, in Palestine; compare <span dir=\"rtl\">בורגתא</span>. <span class=\"refLink\" data-ref=\"Pesachim 57a:11\" href=\"/Pesachim.57a.11\">Pesachim 57ᵃ</span>; <span class=\"refLink\" data-ref=\"Pesachim 57b:2\" href=\"/Pesachim.57b.2\">57ᵇ</span>"
+              ],
+              "he": [],
+              "ref": "Jastrow, בַּרְקַאי II 1",
+              "sourceHeRef": "מילון יסטרוב, בַּרְקַאי II א׳",
+              "sourceRef": "Jastrow, בַּרְקַאי II 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">צְוָוחָה</strong>, <strong dir=\"rtl\">צְיָחָה</strong> f. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, צְוָוחָא 1\" href=\"/Jastrow,_צְוָוחָא.1\">preceding</span>) <i>cry</i>. <span class=\"refLink\" data-ref=\"Midrash Tehillim 20:1\" href=\"/Midrash_Tehillim.20.1\">Midrash Till. to Psalms XX</span> איני יכולה … צִוְוחָתָהּ I cannot bear her crying; and e.—plural <span dir=\"rtl\">צְוָוחוֹת</span>, <span class=\"refLink\" data-ref=\"Jastrow, צְוַוחְתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_צְוַוחְתָּא.1\">צְוָח׳</span>. <span class=\"refLink\" data-ref=\"Pesachim 57a:10\" href=\"/Pesachim.57a.10\">Pesachim 57ᵃ</span> <span dir=\"rtl\">ארבע צ׳ צָוְוחָה וכ׳</span> four cries did the Temple court utter; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 469:39\" href=\"/Yalkut_Shimoni_on_Torah.469.39\">Yalkut Vayikra 469</span>. <span class=\"refLink\" data-ref=\"Mishnah Sotah 8:1\" href=\"/Mishnah_Sotah.8.1\">Sotah VIII, 1</span> <span dir=\"rtl\">קול צ׳</span> (Yerushalmi ed. <span dir=\"rtl\">צווחה</span>) the noise of the shoutings (of the enemy); (<span class=\"refLink\" data-ref=\"Sifrei Devarim 192:3\" href=\"/Sifrei_Devarim.192.3\">Sifré Devarim 192</span> <span dir=\"rtl\">הצווחה</span>); and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, צְוָוחָה 1",
+              "sourceHeRef": "מילון יסטרוב, צְוָוחָה א׳",
+              "sourceRef": "Jastrow, צְוָוחָה 1"
+            }
+          ]
+        },
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>צאו מכאן בני עלי שטמאו כו' </b> ומפורש בקרא שיצאו מן העזרה כמ\"ש והקימותי לי כהן נאמן וגו' והיה כל הנותר וגו' ואמר ספחני נא וגו' ואמר שטמאו את וגו' כדכתיב ואשר ישכבון את הנשים וגו' ואע\"פ דבפרק במה אשה קאמר דלא חטאו באשת איש אלא ששהו את קניהן כו' ומעלה עליהן הכתוב כאלו שכבום ה\"נ איכא למימר הכא דמעלה עליהן כאילו טמאום וה\"נ המ\"ל הכא על שמכבדין א\"ע ומחללין הקדשים כדלקמן גבי יששכר כו' וכמפורש בהו למה תבעטו בזבחי וגו' ובוזי יקלו וגו' אלא דעדיפא נקט חטא דאשר ישכבון וגו' ובפ\"ק דיומא אמרי' בהדיא לא חרבה שילה אלא משום ב' דברים ג\"ע ובזיון קדשים כו':",
+              "ref": "Chidushei Agadot on Pesachim 57a:2",
+              "sourceHeRef": "חידושי אגדות על פסחים נ״ז א:ב",
+              "sourceRef": "Chidushei Agadot on Pesachim 57a:2"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מ׳)</span> ד׳ צווחות צווחה עזרה: צאו מכאן בני עלי מטמאי היכל ה׳, צא מכאן יששכר איש כפר ברקאי שמכבד עצמו ומבזה קדשי שמים, פתחו שערים ויבוא יוחנן בן גרבאי תלמידו של פנקאי וימלא כריסו מקדשי שמים, יבוא ישמעאל בן פיאבי זיו הכהונה וישמש בכהונה על גבי המזבח <span class=\"parenthesized\">(עי׳ פסחים נ\"ז. כריתות כ״ח.)</span>",
+              "ref": "Otzar Midrashim, Chuppah of Eliyahu, Chuppat Eliyahu Rabbah 164",
+              "sourceHeRef": "אוצר מדרשים, חופת אליהו, חופת אליהו רבה קס״ד",
+              "sourceRef": "Otzar Midrashim, Chuppah of Eliyahu, Chuppat Eliyahu Rabbah 164"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שטימאו</strong> - כדכתיב <span class=\"parenthesized\">(שמואל א ב׳:כ״ב)</span> אשר ישכבון את הנשים:",
+              "ref": "Rashi on Pesachim 57a:9:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ט:א",
+              "sourceRef": "Rashi on Pesachim 57a:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כריך ידיה בשיראי</strong> - וחציצה פוסלת בקדשים דבעינן ולקח הכהן שיקח בעצמו ועוד דבזיון הוא:",
+              "ref": "Rashi on Pesachim 57a:9:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:ט:ב",
+              "sourceRef": "Rashi on Pesachim 57a:9:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> אגב גנות זו שנאמרה בכמה גדולי כהונה מסופר, <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> <b>ארבע צווחות צוחה עזרה</b> הנמצאים בעזרה הסכימו כולם על דבר זה (פרדס רמונים). <b>ראשונה</b> בהן היתה: <b>צאו מכאן בני עלי שטימאו היכל ה'</b> (כאמור בספר שמואל א' ב, כב) ועברה הכהונה לבית צדוק. <b>ועוד צווחה: צא מיכן</b> <span class=\"hebrew-emphasis\">[מכאן]</span> <b>יששכר איש כפר ברקאי שמכבד את עצמו ומחלל קדשי שמים.</b> ומסבירים שמתוך איסטניסות יתירה וחוסר יחס לעבודת הקודש היה <b>כורך</b> את ידיו <b>בשיראי</b> <span class=\"hebrew-emphasis\">[במשי]</span> <b>ועביד</b> <span class=\"hebrew-emphasis\">[ועושה]</span> <b>עבודה,</b> שפוסל את העבודה במקדש משום חציצה בינו ובין כלי הקודש, ואף בזיון יש בכך שמראה שאין כדאי ללכלך ידיו באלה.",
+              "ref": "Steinsaltz on Pesachim 57a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:ט",
+              "sourceRef": "Steinsaltz on Pesachim 57a:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "From the Greek <greek>σιρικόν</greek>, <i>sirikon</i>, meaning silk.",
+              "he": "והוא מה שנאמר בדברי עלי אל בניו: \"אל בני כי לא טובה השמועה אשר אנוכי שומע מעבירים עם ה'\" (שמואל א ב, כד) (ריא\"ף).",
+              "ref": "Steinsaltz comment #1 on Pesachim 57a:9",
+              "sourceHeRef": "שִׁירַאי",
+              "sourceRef": "Silk [<i>shirai </i>]"
+            },
+            {
+              "en": "This refers to what Eli said to his sons (I Samuel 2:24): “No, my sons, for it is not a good report that I hear: You make the Lord’s people transgress” (Rabbi Yoshiya Pinto).",
+              "he": "מקור המילה הוא ביוונית <eng>óçñé÷ïí</eng> (סיריקון) ומשמעה: משי.",
+              "ref": "Steinsaltz comment #2 on Pesachim 57a:9",
+              "sourceHeRef": "צְאוּ מִכָּאן בְּנֵי עֵלִי",
+              "sourceRef": "Leave here, sons of Eli"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דכריך ידיה בשיראי</strong> - <span class=\"rashi-quotation\">פירש בקונטרס</span> וחציצה פוסלת בקדשים דכתיב ולקח הכהן בעינן שתהא לקיחה בעצמו של כהן וא\"ת והא גבי לולב לא אמרינן הכי בפרק לולב הגזול <span class=\"parenthesized\">(סוכה דף ל'.)</span> גבי לא לינקוט אינש לולבא בסודרא רבא אמר לקיחה על ידי ד\"א שמה לקיחה ותירץ ר\"י דהתם מיירי באוחז הלולב על ידי סודר כעין צבת כגון שכרך הלולב בסודר ואוחז בסודר שהסודר מסייעו להחזיק וכי האי גוונא לא הויא חציצה וכן משמע בההיא שמעתא דבהכי מיירי דהא קאמר התם לא ליהדוק אינש לוליבא בהושענא דילמא נתרי טרפי והוי כחציצה רבא אמר מין במינו אינו חוצץ משמע דבשאינו מינו חוצץ והיינו משום דההיא הוי כעין דשמעתין דכריך ידיה בשיראי דכי האי גוונא שייכא חציצה:",
+              "ref": "Tosafot on Pesachim 57a:9:1",
+              "sourceHeRef": "תוספות על פסחים נ״ז א:ט:א",
+              "sourceRef": "Tosafot on Pesachim 57a:9:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Now Eli was very old. When he heard all that his sons were doing to all Israel, and how they lay with the women who performed tasks at the entrance of the Tent of Meeting,",
+              "he": "וְעֵלִ֖י זָקֵ֣ן מְאֹ֑ד וְשָׁמַ֗ע אֵת֩ כׇּל־אֲשֶׁ֨ר יַעֲשׂ֤וּן בָּנָיו֙ לְכׇל־יִשְׂרָאֵ֔ל וְאֵ֤ת אֲשֶֽׁר־יִשְׁכְּבוּן֙ אֶת־הַנָּשִׁ֔ים הַצֹּ֣בְא֔וֹת פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "link": "/I Samuel/2",
+              "ref": "I Samuel 2:22",
+              "sourceHeRef": "שמואל א ב:כב",
+              "sourceRef": "I Samuel 2:22"
+            }
+          ]
+        }
+      },
+      "en": "Apropos the critique of several prominent priests, the Gemara relates that <b>the Sages taught:</b> The people in <b>the</b> Temple <b>courtyard</b> all <b>cried four cries,</b> as they were in agreement over various issues (<i>Pardes Rimonim</i>). The <b>first</b> cry was: <b>Leave here, sons of <span href=\"/topics/eli\" class=\"namedEntityLink\" data-slug=\"eli\">Eli</span>, who defiled God’s Sanctuary</b> (see I Samuel 2:22). Subsequently the priesthood was transferred to the house of Zadok. <b>And an additional cry: Leave here, <span href=\"/topics/issachar-the-man-of-kfar-barkai\" class=\"namedEntityLink\" data-slug=\"issachar-the-man-of-kfar-barkai\">Yissakhar of Kfar Barkai</span>, who honors himself and desecrates</b> the items <b>consecrated</b> to <b>Heaven.</b> Due to his delicate nature and his disrespect for the Temple service, he would <b>wrap</b> his hands <b>in silk [<i>shirai</i>] and perform the service.</b> This would invalidate the service because the silk was an interposition between his hands and the Temple vessels. Furthermore, his conduct demeaned the Temple service, as he demonstrated that he was unwilling to dirty his hands for it.",
+      "he": "תָּנוּ רַבָּנַן: אַרְבַּע צְווֹחוֹת צָוְחָה עֲזָרָה. רִאשׁוֹנָה: צְאוּ מִכָּאן בְּנֵי עֵלִי שֶׁטִּימְּאוּ הֵיכַל ה׳. וְעוֹד צָוְוחָה: צֵא מִיכָּן יִשָּׂשׂכָר אִישׁ כְּפַר בַּרְקַאי שֶׁמְּכַבֵּד אֶת עַצְמוֹ וּמְחַלֵּל קׇדְשֵׁי שָׁמַיִם. דַּהֲוָה כָּרֵיךְ יְדֵיהּ בְּשִׁירָאֵי וְעָבֵיד עֲבוֹדָה.",
+      "ref": "Pesachim 57a:9",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">פִּינְקַאי</strong>, <strong dir=\"rtl\">פִּנְ׳</strong> proper noun of a male person <i>Pinkay</i>. <span class=\"refLink\" data-ref=\"Keritot 28a:81\" href=\"/Keritot.28a.81\">Keritot 28ᵃ</span>; <span class=\"refLink\" data-ref=\"Pesachim 57a:10\" href=\"/Pesachim.57a.10\">Pesachim 57ᵃ</span> <span dir=\"rtl\">פנ׳</span> (Manuscript Munich 2 <span class=\"refLink\" data-ref=\"Jastrow, פֶּנְטִיגוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_פֶּנְטִיגוֹן.1\">פינ׳</span>; Manuscript Oxford <span class=\"refLink\" data-ref=\"Jastrow, פִּינְקָא 1\" dir=\"rtl\" href=\"/Jastrow,_פִּינְקָא.1\">פִּינְקַי</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 3)."
+              ],
+              "he": [],
+              "ref": "Jastrow, פִּינְקַאי 1",
+              "sourceHeRef": "מילון יסטרוב, פִּינְקַאי א׳",
+              "sourceRef": "Jastrow, פִּינְקַאי 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">צְוָוחָה</strong>, <strong dir=\"rtl\">צְיָחָה</strong> f. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, צְוָוחָא 1\" href=\"/Jastrow,_צְוָוחָא.1\">preceding</span>) <i>cry</i>. <span class=\"refLink\" data-ref=\"Midrash Tehillim 20:1\" href=\"/Midrash_Tehillim.20.1\">Midrash Till. to Psalms XX</span> איני יכולה … צִוְוחָתָהּ I cannot bear her crying; and e.—plural <span dir=\"rtl\">צְוָוחוֹת</span>, <span class=\"refLink\" data-ref=\"Jastrow, צְוַוחְתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_צְוַוחְתָּא.1\">צְוָח׳</span>. <span class=\"refLink\" data-ref=\"Pesachim 57a:10\" href=\"/Pesachim.57a.10\">Pesachim 57ᵃ</span> <span dir=\"rtl\">ארבע צ׳ צָוְוחָה וכ׳</span> four cries did the Temple court utter; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 469:39\" href=\"/Yalkut_Shimoni_on_Torah.469.39\">Yalkut Vayikra 469</span>. <span class=\"refLink\" data-ref=\"Mishnah Sotah 8:1\" href=\"/Mishnah_Sotah.8.1\">Sotah VIII, 1</span> <span dir=\"rtl\">קול צ׳</span> (Yerushalmi ed. <span dir=\"rtl\">צווחה</span>) the noise of the shoutings (of the enemy); (<span class=\"refLink\" data-ref=\"Sifrei Devarim 192:3\" href=\"/Sifrei_Devarim.192.3\">Sifré Devarim 192</span> <span dir=\"rtl\">הצווחה</span>); and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, צְוָוחָה 1",
+              "sourceHeRef": "מילון יסטרוב, צְוָוחָה א׳",
+              "sourceRef": "Jastrow, צְוָוחָה 1"
+            }
+          ]
+        },
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואוי לי מאגרופן </b> היינו החנופה כמ\"ש פרק א\"נ מיום שגברה אגרופה של חנופה נחעוותו הדינין כו' ומסיק על כולן הגסות שבהן שהן כ\"ג ובניהן כו' וחתניהן כו' דכל הכבוד שלהן הוא ודו\"ק:",
+              "ref": "Chidushei Agadot on Pesachim 57a:8",
+              "sourceHeRef": "חידושי אגדות על פסחים נ״ז א:ח",
+              "sourceRef": "Chidushei Agadot on Pesachim 57a:8"
+            },
+            {
+              "en": "",
+              "he": "<b>ויכנס ישמעאל בן פאבי וכו'. </b> כשר היה כפרש\"י והא דקאמר התם שנות רשעים תקצרנה על כ\"ג שבבית שני היינו אותן שלא הוציאו שנתן ולא היו בכלל שמעון הצדיק ויוחנן כ\"ג וישמעאל ור' אליעזר בן חרסום דאותן חיו כמה שנים כדקאמר התם ומיהו ק\"ק אמאי נקט הכא דצוחה עזרה על ישמעאל שיכנס טפי מעל שאר כהנים כשרים שהיו שם כדאמרינן התם ודו\"ק:",
+              "ref": "Chidushei Agadot on Pesachim 57a:9",
+              "sourceHeRef": "חידושי אגדות על פסחים נ״ז א:ט",
+              "sourceRef": "Chidushei Agadot on Pesachim 57a:9"
+            }
+          ]
+        },
+        "Mei HaShiloach": {
+          "comments": [
+            {
+              "en": "In this week’s <i>Sedra</i> (<i>Parsha</i>) there are five passages preceding the passage about the festivals. This corresponds to the five kinds of grudges a man can bear over the stern attributes of the Holy One, blessed be He. The first passage warns the <i>Cohen</i> against becoming contaminated from a dead body, and this corresponds to the anger one can have in his heart over death and absence.<br>The second passage discusses the physical defects that would render a <i>Cohen</i> unfit to serve in the temple. A <i>Cohen</i> in this state could harbor anger against the severe judgment of the Holy One, blessed be He. Why would God plant him among the root of Aharon where he would have been fit to offer sacrifices to God and serve Him? Why then did He create him with a defect that prevents him from this <i>Kedusha</i> (holiness), for the <i>Kedusha</i> of a <i>Cohen</i>’s service is immeasurable? Just as we see how much <i>Kedusha</i> there is in the mitzvah of eating matsah, how much more so when the <i>Cohen </i>eats of the sacrifices, <i>kodshei shamayim</i>, God’s own food, as it were! As we find in the Gemara (<i>Pesachim</i>, 57a), “[how immeasurably awesome it was] when those in the temple would go in and eat of the <i>kodshei shamayim.</i>” We see just how precious eating the sacrifices was in God’s eyes, and all the more so the <i>Kedusha</i> of the <i>Cohen</i> in his service before God. So even just seeing a <i>Cohen</i> who is rendered unfit to serve can cause one to be angry at God. Even though the blemished <i>Cohen</i> may eat of the sacrifices, he is distanced from the actual service.<br>The third passage is about the <i>Cohen</i> who becomes impure. Since the <i>Cohen</i> guarded and purified himself as much as possible in order to serve God, avoiding even an improper thought, then how much more so would he then guard himself from defiling his body! Then after, when something happened that pushed him away serving God and eating the sacrifices, then overwhelming tears would take him, asking, “why doesn’t God help me so I am not pushed away from the service?”<br>The fourth passage discusses blemishes in the sacrifices themselves, where a great cry wells up among those bringing the sacrifices, asking, “why did God bother to give me goodness and property that I can’t offer?”<br>The fifth passage concerns a thanksgiving offering, of which it is said, “he shall eat it on that day.” This means that a man is required to give thanks over the past and cry out for what is to come, so as not to trust in tomorrow, but rather always stand in prayer and the fear of God. Thus he is not released from this requirement when the future day comes. This brings bitter anguish to the hearts of mankind, asking why God cannot simply be a constant refuge of strength, and let them do everything with complete confidence that God will help them. On this, David haMelech said (<i>Tehilim</i>, 92), “Mizmor Shir, a song of the day of Shabbat,” meaning (<i>Tamid</i>, 33b) “in the future, the day which is eternally Shabbat, over this [as the <i>Tehilim</i> continues,] it is, ‘good to give thanks to Hashem.’” In this way the Holy One, blessed be He, will teach <i>Binah</i>–Understanding to Israel, causing them to understand that all the events of the past were all for the sake of man’s benefit. This is why <i>Tehilim</i> 92 continues, “and to sing to His supernal name,” for the place from which God conducts the world above the level of man’s intellect is called “supernal.”<br>Corresponding to these five passages, God gave Israel the five passages about the yearly festivals. It is from (the spiritual power of the festivals) that man receives <i>tekifut</i> (unbridled strength) and an expansion of consciousness in order not to voice his greivances as mentioned above. God gave them the passage about Passover corresponding to the first passage, for Passover is the beginning of the illumination of life that God gives to Israel. Shevuot corresponds to the passage dealing with a <i>Cohen</i> who is unfit for service, for with the giving of the Torah all those who were sick or lame, deficient in any way, were healed, and Shevuot teaches us that God will heal everything. Rosh Hashanah corresponds to the passage about a <i>Cohen</i> who had become impure, for impurity is really sadness, as has been explained (in the second piece in this week’s <i>Parsha</i>). Therefore on Rosh Hashanah there is the mitzvah of sounding the <i>shofar</i> so as to drown out the sound of anything that may depress him. Yom Kippur corresponds to blemished sacrifices, for at the moment Israel abandons all forms of pleasure and benefit in this world in order to fulfill God’s will, then strength and encouragement will come to all their goodness and property. Corresponding to a thanksgiving offering, which teaches man to have the constant fear of God, they were given the mitzvah of <i>succa</i>, meaning that God will protect man and surround him (just as a <i>succa</i> does even though it is not a permanent structure). The festival of Succot is called “the time of our joy,” meaning that God will give man joy, promising never to abandon him.",
+              "he": "בהסדרה הזאת יש ה' פרשיות עד פרשות המועדות, והם נגד ה' מיני תרעומות שיוכל להמצא בלב האדם על מדותיו של הקב\"ה, הפרשה הראשונה הוא מנפשות מת, הוא נגד תרעומות שיש בלב האדם על המיתה וההעדר המצוי בעולם, ופרשה השנית היא מבעל מום שיוכל להמצא בלבו תרעומות על מדותיו של הקב\"ה אחר אשר התנטע בגזע אהרן והיה ראוי להקריב לה' ולעבוד אותו, למה ברא בו מום שימנע אותו מזה הקדושה, כי קדושת כהן העובד אין לשער, כמו שנראה שצוה לנו הש\"י אכילת מצות כמה קדושה יש בזה האכילה, וכל שכן אכילת קדשי שמים, כמו שמצינו בגמ' <span class=\"parenthesized\">(פסחים נ\"ז.)</span> שצווחה העזרה יכנס וימלא כריסו מקדשי שמים, נראה מזה איך יקר הוא בעיני ה' אכילת קדשים, וכ\"ש הכהן העובד כמה קדושה ימצא בו בעבודתו לה', ולזה כאשר ימצא מום בכהן יוכל להמצא בו תרעומות, כי אחרי גם אכילת קדשים הותרה לו, אך מעבודת הש\"י הוא מרוחק. ופרשה השלישית היא מכהן שנטמא, כי בטח הכהן שהיה מוכן לעבוד את ה' היה משמר עצמו קודם לכן וזיכך את לבו כפי יכולתו שלא יארע לו שום תקלה אף במחשבתו, וכ\"ש מטומאת הגוף, ואח\"כ אירע לו דבר שירוחק על ידה מעבודת הש\"י ומאכילת קדשים וגדלה צעקתו מדוע לא עזר לו הש\"י שלא יהיה מרוחק מעבודתו. ופרשה הרביעית הוא ממומי קרבן שיש צעקה בלב בעליו מדוע ינחיל לו הש\"י טוב ורכוש כזה שלא יוכל להקריבו אליו. ופרשה החמישית הוא מזבח תודה שנאמר בה ביום ההוא יאכל, היינו שהאדם מחויב לתת הודאה על לשעבר ולצעוק על להבא שלא יבטח על יום מחר רק שיהיה תמיד בתפלה וביראה, ועל ידי זה נאסר להותיר ממנו ליום שני וימצא צעקה בלבבות בני האדם, מדוע לא יתן להם הש\"י מבטח עוז שיוכלו לעשות כל דבריהם בבטחון שהש\"י יעזרם, וע\"ז אמר דוד המלך ע\"ה <span class=\"parenthesized\">(תהלים צ\"ב)</span> במזמור שיר ליום השבת היינו <span class=\"parenthesized\">(תמיד ל\"ג:)</span> לעתיד ליום שכלו שבת טוב להודות לה', היינו שהקב\"ה יורה בינה לישראל ויבינם כי כל הדברים לא היו רק למען יוטב לאדם, וע\"ז נאמר ולזמר לשמך עליון כי במקום שהש\"י ינהג למעלה משכל האדם אז יקרא עליון. ונגד החמשה פרשיות נתן להם לישראל חמשה פרשיות מועדות והם תקופות לאדם והרחבות דעתו לבל ימצא בו שום תרעומות. וניתן להם נגד פרשה ראשונה פרשת פסח, כי פסח הוא התחלת הארה שהש\"י הוא הנותן חיים לישראל. ושבועות הוא נגד פרשת בעל מום כי במתן תורה נתרפאו כל בעלי מומין ושבועות יורה כי הש\"י ירפא הכל שיהיה לטוב. וראש השנה הוא נגד פרשת טמא, כי טמא הוא עצבות כמבואר [לעיל ד\"ה אמור ב'] וע\"ז הוא בר\"ה מצות תקיעות שופר שלא יבא לאדם שמועה שיגיע לו ממנה עצבות. ויום הכפורים הוא נגד מומי הקרבן כי בעת שישראל עוזבים כל טובות והנאות עוה\"ז כדי לקיים רצון הש\"י, אז יבא כח וחיזוק לכל הטובות והרכוש שלהם. ונגד תודה היינו שהאדם צריך להיות תמיד ביראה, נגד זה ניתן להם מצות סוכה היינו שהש\"י יגין על האדם ויקיף אותו, וחג הסוכות נקרא זמן שמחתנו היינו שהש\"י יתן שמחה להאדם בהבטחתו שלא יעזוב אותו.",
+              "ref": "Mei HaShiloach, Volume I, Leviticus, Emor 13",
+              "sourceHeRef": "מי השלוח, חלק א, ספר ויקרא, אמור י״ג",
+              "sourceRef": "Mei HaShiloach, Volume I, Leviticus, Emor 13"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ישמעאל בן פיאכי</strong> - כשר היה אבל אנשי ביתו היו בעלי זרוע:",
+              "ref": "Rashi on Pesachim 57a:10:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:י:א",
+              "sourceRef": "Rashi on Pesachim 57a:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ועוד צווחה העזרה: שאו שערים ראשיכם ויכנס ישמעאל בן פיאכי תלמידו של פנחס</b> בן אלעזר הכהן, שהיה צדיק, <b>וישמש בכהונה גדולה</b> אף שהיו אנשי ביתו אלימים. <b>ועוד צווחה העזרה: שאו שערים ראשיכם ויכנס יוחנן בן נרבאי תלמידו של פנקאי</b> (פנחס) <b>וימלא כריסו מקדשי שמים</b> שכן ראוי הוא לאכול הקרבנות.",
+              "ref": "Steinsaltz on Pesachim 57a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:י",
+              "sourceRef": "Steinsaltz on Pesachim 57a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Maharsha explains that Pinkai is actually a nickname for Pinehas, while Yoĥanan ben Narbbai refers to Yoĥanan the Hasmonean High Priest. The latter became a Sadducee toward the end of his life. Consequently, the Gemara did not wish to connect him directly with Pinehas, so they altered his name  slightly.",
+              "he": "יש מי שמפרש שפנקאי זה כאן, הוא כינוי (במקום הלשון) לפנחס, וכי יוחנן בן נרבאי הוא יוחנן הכהן הגדול החשמונאי, שסופו נעשה צדוקי ולכן שינו קצת את כינויו, ולא רצו ליחסו לפנחס במישרין (מהרש\"א).",
+              "ref": "Steinsaltz comment #1 on Pesachim 57a:10",
+              "sourceHeRef": "תַּלְמִידוֹ שֶׁל פִּנְקַאי",
+              "sourceRef": "The student of Pinkai"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> the people in <b>the</b> Temple <b>courtyard cried additionally: Lift your heads, O gates, and let</b> the righteous <b><span href=\"/topics/yishmael-ben-pavi\" class=\"namedEntityLink\" data-slug=\"yishmael-ben-pavi\">Yishmael ben Piakhi</span>, the student of <span href=\"/topics/pinchas\" class=\"namedEntityLink\" data-slug=\"pinchas\">Pinehas</span></b> ben <span href=\"/topics/elazar\" class=\"namedEntityLink\" data-slug=\"elazar\">Elazar</span> the priest, <b>enter and serve as High Priest,</b> although the members of this family were violent. <b>And</b> the people in <b>the</b> Temple <b>courtyard cried additionally: Lift your heads, O gates, and let Yoḥanan ben Narbbai, the student of Pinkai, enter and fill his belly with</b> meat <b>of offerings</b> consecrated to <b>Heaven,</b> as he is worthy to eat offerings.",
+      "he": "וְעוֹד צָוְוחָה הָעֲזָרָה: שְׂאוּ שְׁעָרִים רָאשֵׁיכֶם וְיִכָּנֵס יִשְׁמָעֵאל בֶּן פִּיאָכִי תַּלְמִידוֹ שֶׁל פִּנְחָס, וִישַׁמֵּשׁ בִּכְהוּנָּה גְּדוֹלָה. וְעוֹד צָוְוחָה הָעֲזָרָה: שְׂאוּ שְׁעָרִים רָאשֵׁיכֶם וְיִכָּנֵס יוֹחָנָן בֶּן נִרְבַּאי תַּלְמִידוֹ שֶׁל פִּנְקַאי וִימַלֵּא כְּרֵיסוֹ מִקׇּדְשֵׁי שָׁמַיִם.",
+      "ref": "Pesachim 57a:10"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בַּרְקַאי II</strong> proper noun of a male person , see <span class=\"refLink\" data-ref=\"Jastrow, בּוֹרְקַי II 1\" href=\"/Jastrow,_בּוֹרְקַי II.1\"><span dir=\"rtl\">בּוֹרְקַי</span> II</span>. <br><b><br>—2)</b> כְּפַר ב׳ <i>K’far Barkai</i>, in Palestine; compare <span dir=\"rtl\">בורגתא</span>. <span class=\"refLink\" data-ref=\"Pesachim 57a:11\" href=\"/Pesachim.57a.11\">Pesachim 57ᵃ</span>; <span class=\"refLink\" data-ref=\"Pesachim 57b:2\" href=\"/Pesachim.57b.2\">57ᵇ</span>"
+              ],
+              "he": [],
+              "ref": "Jastrow, בַּרְקַאי II 1",
+              "sourceHeRef": "מילון יסטרוב, בַּרְקַאי II א׳",
+              "sourceRef": "Jastrow, בַּרְקַאי II 1"
+            }
+          ]
+        },
+        "Kedushat Levi": {
+          "comments": [
+            {
+              "en": "Exodus 3,2. <b>“An angel of Hashem appeared to him ‎within the flame of fire, etc.;”</b> whereupon Moses said to ‎himself: “I will turn away to investigate why this bush is not ‎consumed by the fire;” when G’d noticed that Moses had, ‎after all, turned to investigate the phenomenon, He called out ‎to him, warning him not to approach closer while wearing his ‎sandals as the location was holy soil.‎<br>There is a strange story in <i>Pessachim</i> 57 according to ‎which one of the Kings of the Hasmoneans and his queen had an ‎argument during their meal as to whether meat from a lamb is ‎tastier than meat from a fully grown sheep. When they could not ‎agree, they asked the High Priest to settle the argument, as he ‎had experience from eating the sacrificial meat of both many ‎times. The High Priest upon being consulted, waved with his ‎hand pointing heavenwards: saying: “if the meat of a lamb would ‎be tastier surely the Torah would have commanded that the daily ‎communal offering should consist of a lamb?”‎<br>The Talmud relating this incident must not be taken at face ‎value, of course, but the argument described concerned the ‎question if the fate of the Jews is influenced by astrological ‎considerations, or if the Jewish people are quite independent of ‎the configurations of the stars. When the High Priest pointed ‎heavenward, he implied that the <i>“Mazzal”</i> of the Jewish ‎people is ‎אין‎, the word describing the essence of G’d. This also ‎explained the statement in the Talmud <i>Shabbat</i> 156 that ‎אין ‏מזל לישראל‎, commonly translated as “the Jewish people’s fate is ‎not determined or influenced by constellation of the zodiac.” The ‎true meaning of the statement is that the celestial force ‎determining the fate of the Jewish people is none other than ‎אין‎, ‎‎“the essence of G’d Himself.” Moreover, the word ‎מזל‎ is closely ‎related to ‎יזל‎ as in ‎יזל מים מדליו‎, ”water flows out of its buckets,” ‎‎(numbers 24,7). This verse alludes to what the queen in above ‎parable had in mind when she said that a lamb tastes better, i.e. ‎she was referring to people who depend on nature, water, etc., for ‎their sustenance, a largesse from G’d which originates in a ‎celestial domain known as ‎האותיות‎ עולם.‎<br>‎<small>[Heaven, not unlike the physical universe, consists of ‎several layers, one of which is known as ‎עולם האותיות‎, another, ‎‎”lower” layer is better known as ‎עולם האצילות‎, to which the Torah ‎referred when the highest echelon of the Jewish people ‎accompanied Moses immediately prior to his ascending Mount ‎Sinai to receive the Tablets (Exodus 24,9-11) where these people ‎are called for short ‎אצילי בני ישראל‎ .Ed]</small>‎<br>When G’d warned Moses not to approach the “domain” ‎הלום‎ ‎this refers to the domain of ‎מלכות‎, “Royalty,” a domain which ‎Moses wished to attain. It was not granted to him, i.e. he ‎functioned as Royalty only during the generation of the Israelites ‎who had participated in the Exodus, but did not found a dynasty. ‎The function of a king is to dispatch “spiritual sparks” for them ‎to attach themselves to the Creator, and this is what is meant ‎when the Torah describes the function of a king to wage war. ‎When he succeeds in doing this he is perceived as having been ‎victorious in “war”. Within the parameter of his task, a king ‎sometimes of necessity has to elevate some people’s status, ‎whereas at the same time he will demote others. The king, in ‎order to be successful, has to surround himself with advisers, i.e. ‎he must be part of the people. The function of a prophet is the ‎reverse, he must isolate himself.‎<br>We have already explained on a previous occasion that when ‎the righteous engages in dispatching “spiritual sparks” ‎ניצוצות‎, ‎heavenward, he may himself “dress up” in these holy thoughts in ‎order that his “holy clothes” carry him with the sparks on their ‎‎“wings.”‎",
+              "he": "וירא מלאך ה' אליו בלבת אש מתוך הסנה וכו' ויאמר משה אסורה נא וגו' מדוע לא יבער הסנה וירא ה' כי סר לראות וגו' ויאמר אל תקרב הלום של נעליך מעל רגלך כי המקום אשר אתה עומד עליו אדמת קודש הוא. בו יבואר הגמרא <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(פסחים נז.)</span></span> מלכא ומלכתא הוי יתבי בסעודתא מלכא אמר גדיא יאה ומלכתא אמרה אמרא יאה. הרמז גדיא, הוא מזל עליון מלשון גד כו'. וזהו דאמרינן <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(שבת קנו.)</span></span> אין מזל לישראל, הרמז האי\"ן הוא מזל לישראל, כי מזל הוא מלשון יזל מים מדליו <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר כד, ז)</span></span> וזהו מלכא אמר גדיא יאה, רמז למזל העליון. ומלכתא אמרה אמרא יאה, השפע אשר בא להאותיות וזהו אמרא, מלשון אמור השפע שכבר באה לאותיות ועל בחינה זו אנו אומרים לשם יחוד קודשא בריך הוא ושכינתיה. וזהו דאמרינן במדרש אל תקרב הלום, הלום זה מלכות שמשה רבינו עליו השלום ביקש המלוכה ולא ניתנה לו רק על הדור המדבר, כי בחינת המלך הוא להעלות נצוצות לדבקו בבורא יתברך שמו וזהו מלחמות של מלך וזה ניצוח מלחמה. ובבחינה זאת המלך לזה משפיל ולזה ירום מי שרצה לדבק עצמו בבורא יתברך שמו ובחינת הנביא הוא היפך המלך, כי הנביא צריך להתבודד עצמו תמיד. והנה כבר ביארנו שבהעלות הנצוצות הצדיק לפעמים מתלבש במחשבת הניצוץ כדי שיעלה אותו ועל בחינה זה אמרינן בגמרא <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(עבודה זרה ד:)</span></span> לא היה דוד ראוי לאותו מעשה אלא כדי להורות תשובה. ובאמת משה רבינו עליו השלום היה תמיד ומשה עלה אל האלהים <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(שמות יט, ג)</span></span> ומחשבתו היה דבוק תמיד למעלה לכך לא היה מלך רק על דור המדבר שהם אוכלי מן והוא הוריד להם המן וזהו הרמז שמשה בקש המלוכה ולא ניתנה לו הלא כל ישראל ראוי למלוכה ולמה לא ניתנה למשה. ובזה יבואר, כי משה היה מחשבתו תמיד למעלה ולא היה מחשבתו כלל על עולם התחתון להעלות אותם:",
+              "ref": "Kedushat Levi, Exodus, Shemot 11",
+              "sourceHeRef": "קדושת לוי, שמות, שמות י״א",
+              "sourceRef": "Kedushat Levi, Exodus, Shemot 11"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלש מאות עגלין</strong> - שהיה מגדל בביתו כהנים הרבה:",
+              "ref": "Rashi on Pesachim 57a:11:1",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:יא:א",
+              "sourceRef": "Rashi on Pesachim 57a:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי סלקא ביה</strong> - מה גמול נשתלם:",
+              "ref": "Rashi on Pesachim 57a:11:2",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:יא:ב",
+              "sourceRef": "Rashi on Pesachim 57a:11:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מלכא ומלכתא</strong> - מלכי בית חשמונאי:",
+              "ref": "Rashi on Pesachim 57a:11:3",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:יא:ג",
+              "sourceRef": "Rashi on Pesachim 57a:11:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גדיא יאי</strong> - גדי טוב למאכל יותר מן הכבש:",
+              "ref": "Rashi on Pesachim 57a:11:4",
+              "sourceHeRef": "רש\"י על פסחים נ״ז א:יא:ד",
+              "sourceRef": "Rashi on Pesachim 57a:11:4"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>גרב</big></b> [קריג]. <span class=\"parenthesized\">(שבת יג)</span> העלו לו ג' מאות גרבי שמן וישבו בעליה ודרשו <span class=\"parenthesized\">(פסחים נז)</span> ושותה שלש מאות גרבי יין פי' גרבי חביות והיאך יתכן לאדם שישתה ג' מאות חביות לא על שלחנו שתו יין כל מאן דאתי וזה דבר גוזמא הוא פטסין כדין לגונין כלי חרס הם מהן גדולים ומהן קטנים <span class=\"parenthesized\">(ובמגילת איכה יעיב)</span> רבי שמעון הוה מפיק ש' גרבי דמרקוע בכל ערובה לאילין קיטיא פי' קפיפות של פתותי לחם בכל ערב שבת לעניים <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב תרגום כל נבל ימלא יין כל גרב יתמליא חמר)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Gimel 336",
+              "sourceHeRef": "ספר הערוך, אות הגימ\"ל של״ו",
+              "sourceRef": "Sefer HeArukh, Letter Gimel 336"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמרו עליו על יוחנן בן נרבאי שהיה אוכל</b> הוא והסמוכים על שולחנו, שהיו רבים, <b>שלש מאות עגלים ושותה שלש מאות גרבי יין ואוכל ארבעים סאה גוזלות</b> יונים <b>בקינוח סעודה. אמרו: כל ימיו של יוחנן בן נרבאי לא נמצא נותר במקדש</b> שהוא היה דואג שיאכלוהו. ושואלים: <b>מאי סלקא ביה</b> <span class=\"hebrew-emphasis\">[מה עלתה לו]</span> בסופו של דבר <b>ביששכר איש כפר ברקאי? אמרי</b> <span class=\"hebrew-emphasis\">[אמרו]</span> כך היה מעשה: <b>מלכא ומלכתא הוו יתבי</b> <span class=\"hebrew-emphasis\">[המלך והמלכה היו יושבים]</span> ומשוחחים. <b>מלכא אמר: גדיא יאי, ומלכתא אמרה: אימרא יאי</b> <span class=\"hebrew-emphasis\">[המלך אמר: הגדי טוב</span> יותר לאכילה, <span class=\"hebrew-emphasis\">והמלכה אמרה: הכבש טוב</span> יותר<span class=\"hebrew-emphasis\">].</span> <b>אמרו: מאן מוכח</b> <span class=\"hebrew-emphasis\">[מי יוכיח]</span> כדברי מי משניהם הצדק<span class=\"hebrew-emphasis\">?</span> <b>כהן גדול, דקא מסיק</b> <span class=\"hebrew-emphasis\">[שהוא מעלה]</span> <b>קרבנות כל יומא</b> <span class=\"hebrew-emphasis\">[יום]</span> וטועם מבשרם, שהכהן הגדול רשאי לקחת לו חלק מכל קרבן שנאכל המובא למקדש, וודאי יודע הוא בטעמם. <b>אתא איהו</b> <span class=\"hebrew-emphasis\">[בא הוא]</span> יששכר איש כפר ברקאי, וכאשר שאלו אותו שאלה זו",
+              "ref": "Steinsaltz on Pesachim 57a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים נ״ז א:יא",
+              "sourceRef": "Steinsaltz on Pesachim 57a:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "All commentators agree that Yoĥanan ben Narbbai required such a large quantity of food because he would host numerous guests and feed the poor (<i>Arukh</i>).",
+              "he": "לדעת הכל הכוונה היא, שהיה מכניס אורחים ביד רחבה ועניים היו בני ביתו, כך שהיה אוכל רב מאוד נאכל בכל סעודה שלו (ערוך).",
+              "ref": "Steinsaltz comment #1 on Pesachim 57a:11",
+              "sourceHeRef": "הָיָה אוֹכֵל שְׁלֹֹשׁ מֵאוֹת עֲגָלִים",
+              "sourceRef": "Would eat three hundred calves"
+            }
+          ]
+        }
+      },
+      "en": "<b>They said about Yoḥanan ben Narbbai that he</b> and his household <b>would eat three hundred calves, and drink three hundred jugs of wine, and eat forty <i>se’a</i> of doves for dessert. They said:</b> Throughout <b>all the days of Yoḥanan ben Narbbai there was no leftover</b> sacrificial meat <b>in the Temple,</b> as he would make certain that someone ate it. The Gemara asks: <b>What</b> ultimately <b>happened to <span href=\"/topics/issachar-the-man-of-kfar-barkai\" class=\"namedEntityLink\" data-slug=\"issachar-the-man-of-kfar-barkai\">Yissakhar of Kfar Barkai</span>? They said: The king and the queen were sitting</b> and talking. <b>The king said</b> that <b>goat</b> meat <b>is better</b> food, <b>and the queen said lamb</b> meat is <b>better</b> food. <b>They said: Who can prove</b> which one of us is correct? <b>The High Priest</b> can, <b>as he offers sacrifices all day</b> and tastes their meat. The High Priest had the right to take a portion from any sacrifice offered in the Temple, and therefore was well acquainted with the tastes of different meat. <span href=\"/topics/issachar-the-man-of-kfar-barkai\" class=\"namedEntityLink\" data-slug=\"issachar-the-man-of-kfar-barkai\">Yissakhar of Kfar Barkai</span> <b>came,</b> and when they asked him this question,",
+      "he": "אָמְרוּ עָלָיו עַל יוֹחָנָן בֶּן נִרְבַּאי שֶׁהָיָה אוֹכֵל שְׁלֹשׁ מֵאוֹת עֲגָלִים, וְשׁוֹתֶה שְׁלֹשׁ מֵאוֹת גַּרְבֵי יַיִן, וְאוֹכֵל אַרְבָּעִים סְאָה גּוֹזָלוֹת בְּקִינּוּחַ סְעוּדָה. אָמְרוּ: כׇּל יָמָיו שֶׁל יוֹחָנָן בֶּן נִרְבַּאי לֹא נִמְצָא נוֹתָר בְּמִקְדָּשׁ. מַאי סְלִקָא בֵּיהּ בְּיִשָּׂשׂכָר אִישׁ כְּפַר בַּרְקַאי? אָמְרִי: מַלְכָּא וּמַלְכְּתָא הֲווֹ יָתְבִי. מַלְכָּא אֲמַר: גַּדְיָא יָאֵי, וּמַלְכְּתָא אָמְרָה: אִימְּרָא יָאֵי. אֲמַרוּ: מַאן מוֹכַח? כֹּהֵן גָּדוֹל, דְּקָא מַסֵּיק קׇרְבָּנוֹת כׇּל יוֹמָא. אֲתָא אִיהוּ,",
+      "ref": "Pesachim 57a:11"
+    }
+  ],
+  "title": "Pesachim 57a",
+  "titleHebrew": "פסחים נז,א",
+  "topics": []
+}

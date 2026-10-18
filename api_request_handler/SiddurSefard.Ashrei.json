@@ -1,0 +1,967 @@
+{
+  "id": "Ashrei",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>Fortunate</b> is he who will yet merit to dwell in Your house, and they will yet praise you in its midst.",
+                      "he": "",
+                      "ref": "Translation on Rashi on Psalms 84:5:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<b>אשרי.</b> מי שיגיע עוד לישב בביתך ועוד יהללוך בתוכו:",
+              "ref": "Rashi on Psalms 84:5:1",
+              "sourceHeRef": "רש\"י על תהילים פד:ה:א",
+              "sourceRef": "Rashi on Psalms 84:5:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "Even though the mitzva to confess is primarily on Yom Kippur, our Sages instituted the recitation of <i>vidui</i> before the <i>se’uda ha-mafseket</i> as well. This was out of concern that someone might get drunk during the meal and thus be unable to confess on Yom Kippur itself. Therefore, the custom is to recite <i>Minḥa</i> before the meal and to confess then, during the silent <i>Amida</i> (<i>Yoma</i> 87b; SA 607:1).",
+                      "he": "אף שעיקר מצוות הוידוי לאומרו ביום הכיפורים, תקנו חכמים להקדים ולומר וידוי לפני סעודה מפסקת, שמא ישתכר בסעודה ולא יוכל להתוודות בכניסת היום. לפיכך נוהגים להתפלל מנחה לפני סעודה מפסקת, ואומרים וידוי בסוף תפילת לחש <span class=\"parenthesized\">(יומא פז, ב; שו\"ע או\"ח תרז, א)</span>.",
+                      "ref": "Peninei Halakhah, Days of Awe 5:10:8",
+                      "sourceHeRef": "ימים נוראים ה:י:ח",
+                      "sourceRef": "Days of Awe 5:10:8"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Cain said to the L<small>ORD</small>, “My punishment is too great to bear!",
+                      "he": "וַיֹּ֥אמֶר קַ֖יִן אֶל־יְהֹוָ֑ה גָּד֥וֹל עֲוֺנִ֖י מִנְּשֹֽׂא׃",
+                      "link": "/Genesis/4",
+                      "ref": "Genesis 4:13",
+                      "sourceHeRef": "בראשית ד:יג",
+                      "sourceRef": "Genesis 4:13"
+                    },
+                    {
+                      "en": "The sons of Dishon were these: Hemdan, Eshban, Ithran, and Cheran.",
+                      "he": "וְאֵ֖לֶּה בְּנֵ֣י דִישָׁ֑ן חֶמְדָּ֥ן וְאֶשְׁבָּ֖ן וְיִתְרָ֥ן וּכְרָֽן׃",
+                      "link": "/Genesis/36",
+                      "ref": "Genesis 36:26",
+                      "sourceHeRef": "בראשית לו:כו",
+                      "sourceRef": "Genesis 36:26"
+                    },
+                    {
+                      "en": [
+                        "Then Joshua said to Achan, “My son, pay honor to the L<small>ORD</small>, the God of Israel, and make confession to Him. Tell me what you have done; do not hold anything back from me.”",
+                        "Achan answered Joshua, “It is true, I have sinned against the L<small>ORD</small>, the God of Israel. This is what I did:",
+                        "I saw among the spoil a fine Shinar mantle, two hundred shekels of silver, and a wedge of gold weighing fifty shekels, and I coveted them and took them. They are buried in the ground in my tent, with the silver under it.”"
+                      ],
+                      "he": [
+                        "וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל־עָכָ֗ן בְּנִי֙ שִֽׂים־נָ֣א כָב֗וֹד לַיהֹוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל וְתֶן־ל֣וֹ תוֹדָ֑ה וְהַגֶּד־נָ֥א לִי֙ מֶ֣ה עָשִׂ֔יתָ אַל־תְּכַחֵ֖ד מִמֶּֽנִּי׃",
+                        "וַיַּ֧עַן עָכָ֛ן אֶת־יְהוֹשֻׁ֖עַ וַיֹּאמַ֑ר אׇמְנָ֗ה אָֽנֹכִ֤י חָטָ֙אתִי֙ לַֽיהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וְכָזֹ֥את וְכָזֹ֖את עָשִֽׂיתִי׃",
+                        "<span class=\"mam-kq\"><span class=\"mam-kq-k\"><span class=\"parenthesized\">(ואראה)</span></span> <span class=\"mam-kq-q\">[וָאֵ֣רֶא]</span></span> בַשָּׁלָ֡ל אַדֶּ֣רֶת שִׁנְעָר֩ אַחַ֨ת טוֹבָ֜ה וּמָאתַ֧יִם שְׁקָלִ֣ים כֶּ֗סֶף וּלְשׁ֨וֹן זָהָ֤ב אֶחָד֙ חֲמִשִּׁ֤ים שְׁקָלִים֙ מִשְׁקָל֔וֹ וָאֶחְמְדֵ֖ם וָאֶקָּחֵ֑ם וְהִנָּ֨ם טְמוּנִ֥ים בָּאָ֛רֶץ בְּת֥וֹךְ הָאׇהֳלִ֖י וְהַכֶּ֥סֶף תַּחְתֶּֽיהָ׃"
+                      ],
+                      "link": "/Joshua/7",
+                      "ref": "Joshua 7:19-21",
+                      "sourceHeRef": "יהושע ז:יט-כא",
+                      "sourceRef": "Joshua 7:19-21"
+                    },
+                    {
+                      "en": [
+                        "Saul said to Samuel, “I did wrong to transgress the L<small>ORD</small>’s command and your instructions; but I was afraid of the troops and I yielded to them.",
+                        "Please, forgive my offense and come back with me, and I will bow low to the L<small>ORD</small>.”"
+                      ],
+                      "he": [
+                        "וַיֹּ֨אמֶר שָׁא֤וּל אֶל־שְׁמוּאֵל֙ חָטָ֔אתִי כִּֽי־עָבַ֥רְתִּי אֶת־פִּֽי־יְהֹוָ֖ה וְאֶת־דְּבָרֶ֑יךָ כִּ֤י יָרֵ֙אתִי֙ אֶת־הָעָ֔ם וָאֶשְׁמַ֖ע בְּקוֹלָֽם׃",
+                        "וְעַתָּ֕ה שָׂ֥א נָ֖א אֶת־חַטָּאתִ֑י וְשׁ֣וּב עִמִּ֔י וְאֶֽשְׁתַּחֲוֶ֖ה לַיהֹוָֽה׃"
+                      ],
+                      "link": "/I Samuel/15",
+                      "ref": "I Samuel 15:24-25",
+                      "sourceHeRef": "שמואל א טו:כד-כה",
+                      "sourceRef": "I Samuel 15:24-25"
+                    },
+                    {
+                      "en": "Moses went back to the L<small>ORD</small> and said, “Alas, this people is guilty of a great sin in making for themselves a god of gold.",
+                      "he": "וַיָּ֧שׇׁב מֹשֶׁ֛ה אֶל־יְהֹוָ֖ה וַיֹּאמַ֑ר אָ֣נָּ֗א חָטָ֞א הָעָ֤ם הַזֶּה֙ חֲטָאָ֣ה גְדֹלָ֔ה וַיַּֽעֲשׂ֥וּ לָהֶ֖ם אֱלֹהֵ֥י זָהָֽב׃",
+                      "link": "/Exodus/32",
+                      "ref": "Exodus 32:31",
+                      "sourceHeRef": "שמות לב:לא",
+                      "sourceRef": "Exodus 32:31"
+                    },
+                    {
+                      "en": "Aaron is to offer his own bull of sin offering, to make expiation for himself and for his household.",
+                      "he": "וְהִקְרִ֧יב אַהֲרֹ֛ן אֶת־פַּ֥ר הַחַטָּ֖את אֲשֶׁר־ל֑וֹ וְכִפֶּ֥ר בַּעֲד֖וֹ וּבְעַ֥ד בֵּיתֽוֹ׃",
+                      "link": "/Leviticus/16",
+                      "ref": "Leviticus 16:6",
+                      "sourceHeRef": "ויקרא טז:ו",
+                      "sourceRef": "Leviticus 16:6"
+                    },
+                    {
+                      "en": "He shall lay his hand upon the head of the burnt offering, that it may be acceptable in his behalf, in expiation for him.",
+                      "he": "וְסָמַ֣ךְ יָד֔וֹ עַ֖ל רֹ֣אשׁ הָעֹלָ֑ה וְנִרְצָ֥ה ל֖וֹ לְכַפֵּ֥ר עָלָֽיו׃",
+                      "link": "/Leviticus/1",
+                      "ref": "Leviticus 1:4",
+                      "sourceHeRef": "ויקרא א:ד",
+                      "sourceRef": "Leviticus 1:4"
+                    },
+                    {
+                      "en": "For on this day atonement shall be made for you to cleanse you of all your sins; you shall be clean before the L<small>ORD</small>.",
+                      "he": "כִּֽי־בַיּ֥וֹם הַזֶּ֛ה יְכַפֵּ֥ר עֲלֵיכֶ֖ם לְטַהֵ֣ר אֶתְכֶ֑ם מִכֹּל֙ חַטֹּ֣אתֵיכֶ֔ם לִפְנֵ֥י יְהֹוָ֖ה תִּטְהָֽרוּ׃",
+                      "link": "/Leviticus/16",
+                      "ref": "Leviticus 16:30",
+                      "sourceHeRef": "ויקרא טז:ל",
+                      "sourceRef": "Leviticus 16:30"
+                    }
+                  ]
+                }
+              },
+              "en": "<b>“The order of confession (of sins)</b> <b>during <i>Minḥah</i></b> <b>(the Afternoon Prayer) on the Eve of Yom Kippur” - Containing six paragraphs.</b><br>One needs to confess during <i>Minḥah</i> (the Afternoon Prayer) before the (last) meal before fasting.<br><small><i>Hagah</i>: If one is alone he says it (the confessional) after he finished his Silent Prayer, but the public reader says his (confessional) on Yom Kippur during the Silent Prayer, (<span dir=\"ltr\">טור</span>).</small>",
+              "he": "צריך להתודות במנחה קודם סעודה המפסקת: <span class=\"hebrew-emphasis\">הגה ויחיד אומרו אחר שגמר תפלתו וש\"ץ אומרו ביו\"כ בתוך התפלה (טור)</span>:",
+              "ref": "Shulchan Arukh, Orach Chayim 607:1",
+              "sourceHeRef": "אורח חיים תרז:א - סדר הוידוי במנחה בערב יום כפור",
+              "sourceRef": "Orach Chayim 607:1"
+            },
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": [
+                        "Hear, O Israel! The L<small>ORD</small> is our God, the L<small>ORD</small> alone.",
+                        "You shall love the L<small>ORD</small> your God with all your heart and with all your soul and with all your might.",
+                        "Take to heart these instructions with which I charge you this day.",
+                        "Impress them upon your children. Recite them when you stay at home and when you are away, when you lie down and when you get up.",
+                        "Bind them as a sign on your hand and let them serve as a symbol on your forehead;",
+                        "inscribe them on the doorposts of your house and on your gates."
+                      ],
+                      "he": [
+                        "שְׁמַ֖<big>ע</big> יִשְׂרָאֵ֑ל יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יְהֹוָ֥ה <span class=\"hebrew-emphasis\">׀</span> אֶחָֽ<big>ד</big>׃",
+                        "וְאָ֣הַבְתָּ֔ אֵ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ בְּכׇל־לְבָבְךָ֥ וּבְכׇל־נַפְשְׁךָ֖ וּבְכׇל־מְאֹדֶֽךָ׃",
+                        "וְהָי֞וּ הַדְּבָרִ֣ים הָאֵ֗לֶּה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם עַל־לְבָבֶֽךָ׃",
+                        "וְשִׁנַּנְתָּ֣ם לְבָנֶ֔יךָ וְדִבַּרְתָּ֖ בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֙ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ וּֽבְשׇׁכְבְּךָ֖ וּבְקוּמֶֽךָ׃",
+                        "וּקְשַׁרְתָּ֥ם לְא֖וֹת עַל־יָדֶ֑ךָ וְהָי֥וּ לְטֹטָפֹ֖ת בֵּ֥ין עֵינֶֽיךָ׃",
+                        "וּכְתַבְתָּ֛ם עַל־מְזֻז֥וֹת בֵּיתֶ֖ךָ וּבִשְׁעָרֶֽיךָ׃ <span class=\"mam-spi-samekh\">{ס}</span>"
+                      ],
+                      "link": "/Deuteronomy/6",
+                      "ref": "Deuteronomy 6:4-9",
+                      "sourceHeRef": "דברים ו:ד-ט",
+                      "sourceRef": "Deuteronomy 6:4-9"
+                    },
+                    {
+                      "en": [
+                        "The L<small>ORD</small> said to Moses as follows:",
+                        "Speak to the Israelite people and instruct them to make for themselves fringes on the corners of their garments throughout the ages; let them attach a cord of blue to the fringe at each corner.",
+                        "That shall be your fringe; look at it and recall all the commandments of the L<small>ORD</small> and observe them, so that you do not follow your heart and eyes in your lustful urge.",
+                        "Thus you shall be reminded to observe all My commandments and to be holy to your God.",
+                        "I the L<small>ORD</small> am your God, who brought you out of the land of Egypt to be your God: I, the L<small>ORD</small> your God."
+                      ],
+                      "he": [
+                        "וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+                        "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם וְעָשׂ֨וּ לָהֶ֥ם צִיצִ֛ת עַל־כַּנְפֵ֥י בִגְדֵיהֶ֖ם לְדֹרֹתָ֑ם וְנָ֥תְנ֛וּ עַל־צִיצִ֥ת הַכָּנָ֖ף פְּתִ֥יל תְּכֵֽלֶת׃",
+                        "וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת־כׇּל־מִצְוֺ֣ת יְהֹוָ֔ה וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְלֹֽא־תָת֜וּרוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר־אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם׃",
+                        "לְמַ֣עַן תִּזְכְּר֔וּ וַעֲשִׂיתֶ֖ם אֶת־כׇּל־מִצְוֺתָ֑י וִהְיִיתֶ֥ם קְדֹשִׁ֖ים לֵאלֹֽהֵיכֶֽם׃",
+                        "אֲנִ֞י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִ֑ים אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃ <span class=\"mam-spi-pe\">{פ}</span><br>"
+                      ],
+                      "link": "/Numbers/15",
+                      "ref": "Numbers 15:37-41",
+                      "sourceHeRef": "במדבר טו:לז-מא",
+                      "sourceRef": "Numbers 15:37-41"
+                    }
+                  ]
+                }
+              },
+              "en": "If there is a circumcision on Yom Kippur; then they circumcize between the (Morning Prayer prior to the <i>Keri’at Shema</i> named) “<span dir=\"ltr\">יוצר</span>”, “Creator,” and the Additional Service after the reading of the Torah. And after the circumcision we say the prayer, “<span dir=\"ltr\">אשרי</span>” But the custom is to circumcize after the “<span dir=\"ltr\">אשרי</span>”, (<span dir=\"ltr\">מנהגים</span>). And if the circumcision takes place in a location where it is necessary to leave the synagogue, we do not circumcize him until after the Torah scroll is returned to the ark, and then they return (to the synagogue) and say the (reader’s) <i>Kaddish</i>.",
+              "he": "מילה ביום הכפורים מלין בין יוצר למוסף אחר קריאת התורה ולאחר המילה אומרים אשרי <span class=\"hebrew-emphasis\"> (והמנהג למול אחר אשרי) (מנהגים) </span> ואם הוא במקום שצריך לצאת מבית הכנסת אין מלין עד אחר חזרת ס\"ת וחוזרים ואומרים קדיש:",
+              "ref": "Shulchan Arukh, Orach Chayim 621:2",
+              "sourceHeRef": "אורח חיים תרכא:ב - סדר קריאת התורה ומילה ביו\"כ",
+              "sourceRef": "Orach Chayim 621:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "(Psalms 84:1–13)<br><b>Psalms 84</b><br>A psalm of prayer, expressing a yearning for intimacy with God and a desire to pray to Him at the Temple.",
+              "he": "<span class=\"parenthesized\">(תהילים פ״ד: א׳-י״ג)</span><br><b>תהילים פ״ד</b><br>מזמור תפילה המבטא את הערגה להיות קרוב לה', להימצא סמוך למקדש ולהתפלל בו.",
+              "ref": "Steinsaltz Introductions to Tanakh, Psalms, Section Preface 84",
+              "sourceHeRef": "ביאור שטיינזלץ, הקדמות לתנ\"ך, תהילים, מבוא לקטע פ״ד",
+              "sourceRef": "Steinsaltz Introductions to Tanakh, Psalms, Section Preface 84"
+            },
+            {
+              "en": [
+                "The book of Psalms is unique among the books of the Bible. Taken as a whole, the Bible depicts the relationship between God and mankind, and more particularly between God and the people of Israel. In most books of the Bible, the relationship is primarily portrayed as proceeding from the top down, from God to man. By contrast, Psalms is the only book of the Bible where the relationship flows in the opposite direction, from man to God, in other words, where an individual turns to God and communicates with Him. Psalms is traditionally divided into five books, containing a total of 150 chapters. Some suggest that these are meant to correspond to the five books of the Torah. This parallelism also serves to illustrate that the relationship between God and man runs in both directions. Thus, despite their wide variation in subject matter and tone, the individual chapters comprising Psalms are all narrated from a human perspective, with all the limitations and complexity this entails.<br>The Hebrew title of the book, <i>Tehillim</i>, means “praises,” and there is much in the way of praise in its chapters. Yet Psalms is much more than a compendium of ways to praise God. In fact, one can find in it almost any thought or feeling a person might wish to express to God. It includes a wide variety of poetic forms, with personal poetry alongside epic poems, as well as philosophical musings and introspection on matters pertaining to the nation of Israel and to mankind. But what pervades all of the psalms, whether clearly expressed or implicit, is the voice of the individual psalmist.<br>Just as the topics of the psalms vary, so does the persona of the psalmist. The psalmist is seen as alternately dejected and elated; there are psalms of defeat and surrender alongside powerful, exultant victory songs. Moreover, some of the psalms express disquiet, originating in a crisis of faith or a grievance, whereas others bespeak peace and tranquility. To use a musical metaphor, some psalms are staccato, others legato; some largo, others presto. In similar fashion, the psalmist can be compared to a harp, each of whose many strings has its own unique sound while simultaneously working in harmony. Psalms deals with a number of recurring themes. Many of its chapters contain prayers and supplications that seem to correspond to actual events in the life of King David. But despite their various allusions to historical events, the psalms are not autobiographical. While many of them are attributed to David, neither his private nor his public persona is readily discernible. What emerges from most of the psalms is not the voice of a specific historical figure but rather that of Everyman. As the bounds of the personal are transcended, the psalms enter the realm of the universal. For instance, while King David was surrounded for most of his life by followers, friends, and admirers, what is most striking in the psalms of supplication attributed to David is the loneliness they convey. Only rarely do we get a sense of David as part of a larger “us.” The image is that of a man who feels alone even in the midst of a crowd. This quality, somewhat paradoxically, makes Psalms not only a collection of songs that can be sung aloud in a chorus of voices, but also an expression of many people’s most private life experiences, whether joyous or distressing. As the verse says: “The heart alone knows its own bitterness, and no stranger can share in its joy” (Proverbs 14:10). People first feel their own pain and happiness, and only after that can they identify with the feelings and experiences of others. The logic behind the psalms’ arrangement remains unclear. There are no obvious differences between the five books, or sections, of Psalms. And while here and there a group of psalms appears to have certain structural or thematic similarities, these are the exceptions to the rule. It appears likely that the disarray is intentional, reflecting the perspective of a work that above all expresses human emotions. For emotions, like existence itself, have no fixed order; there are no predetermined conditions governing a person’s feeling happy, sorrowful, introspective, or grateful. Psalms mirrors life in all its vicissitudes and inconsistencies, demonstrating that despite our most strenuous efforts, life can never be fully organized or controlled. The chapters of Psalms differ from one another in structure and style as well as content and length. Psalms contains the shortest chapter in the Bible (two verses) and almost immediately following it, the longest chapter (176 verses). Some of the psalms have the rhythm and tone of epic poetry. Some are simple entreaties, and others are an outpouring of feeling emanating from the depths of the soul. There are many tearful prayers in Psalms, and often no explanation is provided for the psalmist’s distress other than that something is wrong. Some psalms are distinctly meditative and deal with a well-defined topic. Others are songs of a historical nature. Also quite a few psalms offer straightforward, moral instruction. Despite all the differences between them, the psalms share one outstanding characteristic: truth. There is no smoothing of rough edges, no attempt to ignore or gloss over difficult issues in order to create a sense of harmony. Indeed, many of the psalms have a kind of built-in dissonance that results from the psalmist’s refusal to relinquish a point of truth even at the expense of disrupting the overall melody. Undoubtedly, this aspect of Psalms is partially why it continues to speak to so many people in all corners of the world. While Psalms very much belongs to a specific place (the Land of Israel) and a specific period (the biblical era), it nonetheless transcends all boundaries of space and time. Like Job and Ecclesiastes, Psalms has a special, unique set of cantillations. The cantillation signs serve to punctuate the verses as well as to indicate specific musical notes. In Psalms, the musical component of the cantillations has been entirely lost. We know that certain psalms were sung in the Temple during the era of the Second Temple and possibly even before that. But beyond this we lack any reliable tradition pertaining to the melodies that were sung. Until the period of the Sages, Psalms consisted of 147 chapters. Most of these texts have a heading and a clear internal structure. A later, non-Jewish division of Psalms produced the current 150 chapters, a few of which appear to be incomplete or not self-contained. Most of the psalms are attributed to David, as indicated in the psalms themselves, using descriptions such as: “the prayers of David son of Yishai” (Psalms 72:20). Nevertheless, according to the Sages in Apart from its literary value, Psalms enjoys an exceptional status in the biblical canon. No book of the Bible has evoked more tears or more words of gratitude and joy. Over the course of Jewish history, Psalms has been utilized more than any other book, not just by poets, but by all who seek to articulate the appropriate words and phrases with which to beseech, express gratitude to, pour out the sorrows of their soul to, or simply have a conversation with God. Whether it is a lonely widow weeping over her travails, a leader grappling with a military or political crisis, or an individual inspired to sing a song of thanksgiving, Psalms provides a mouthpiece for everyone. Indeed, if King David is termed “the sweet singer of Israel” (II Samuel 23:1), it is because he sang the song of an entire people."
+              ],
+              "he": [
+                "כל המקרא עוסק במערכת היחסים שבין אלוקים והאדם, ובעיקר האדם מישראל; ואולם רוב ספרי התנ\"ך – בוודאי חמשת חומשי התורה, אך גם ספרי הנביאים – ממוקדים יותר ביחסו של ה' אל האדם, מלמעלה למטה. לעומת זאת, ספר תהלים הוא הספר היחיד שבמרכזו האדם הפונה אל ה'. באופן מסורתי הספר מחולק לחמישה חלקים <span class=\"parenthesized\">(‘ספרים')</span>, אולי לשם יצירת הקבלה בין חמשת חומשי תורה ובין חמשת ‘חומשי' תהלים. הקבלה זו מבטאת את שני הקצוות של הקשר וההתייחסות בין האדם לבין אלוקים – לעומת התורה שבמוקדה ההתגלות העליונה, ספר תהלים נאמר מנקודת הראות של האדם, על מוגבלותה ומורכבותה. אמנם הספר נקרא ‘תהלים', לאמור: התהילות שבהן מהלל האדם את ה', אך יש בו כמעט כל מה שאדם היה רוצה לומר לפני אלוקים. הספר כולל דברי שירה לסוגיה, ומובע בו מנעד רגשות רחב ביותר. בצד שירה פרטית ואישית מובאים בו שירה אֶפִּית ומזמורי התבוננות ועיון העוסקים בנושאים כלל-לאומיים ואף כלל-אנושיים. אולם בכולם – בין בבירור ובמפורש ובין בצנעה ובהיעלם – אפשר לפגוש באישיותו המסוימת של המשורר. חלק מגדולתו של הספר נעוצה דווקא בהיותו סובייקטיבי. לא רק נושאיהם של מזמורי תהלים מגוונים ביותר, אף דמותו של המשורר העולה מתוכם רבת-פנים, והיא נתונה בנסיבות שונות: יש שהמזמורים מושרים מתוך כניעה ותבוסה, ויש שהם שירי ניצחון מלאי עצמה. גם נעימתם של המזמורים אינה אחידה. בלשון מוזיקלית אפשר לאפיין מזמורים מסוימים כסטקטו ואחרים כלגטו; יש מזמורים שקצב ההתרחשויות בהם והתחלפות הגופים מזכיר יותר פרסטו, ואחרים – לרגו. המזמורים מבטאים מצבי נפש שונים: מהם מלאים מתח – מתח דתי או מתח של תרעומת, יש מזמורים שנאמרו מתוך סערה ומצוקה ואחרים המביעים התרפקות ורוגע. משום כך אפשר לדמות את משורר תהלים לנֵבל רחב מנעד ורב-מיתרים, שלכל אחד מהם צליל משלו. כמה נושאים כלליים חוזרים ונשנים לכל אורכו של ספר תהלים. חלק גדול מפרקי הספר הם דברי תפילה ותחינה, שבמידה רבה מלווים את מאורעות חייו של המלך דוד. למרות שלא מעט מזמורים נסמכים למאורעות ידועים, ראוי לציין כי בעיקרו של דבר אין הם אוטוביוגרפיים. אף שהספר הוא שירתו של דוד, הרי אישיותו הפרטית ההיסטורית של דוד איננה בולטת בו, ומרוב הפרקים לא עולה דמותו של אדם מסוים; בוקע מהם קולו של האדם באשר הוא. כך, למרות שמבחינה היסטורית דוד המלך היה מוקף רוב ימיו בידידים ובמעריצים, הצד הבולט ביותר בפרקי התחינה שבתהלים הוא דווקא הרגשת הבדידות; רק לעתים רחוקות תופס ה'אנחנו' את מקומו של ה'אני' בספר. הדבר משקף ומבטא את אישיותו של משורר, אשר גם בהיותו בין רבים הוא עדיין מרגיש בודד. ואולי דווקא משום כך עד היום מזמורי תהלים אינם מושרים רק בקול רם ובמקהלות, אלא גם נותנים ביטוי לחוויותיהם – הן הטובות והן הקשות – של אנשים פרטיים רבים. קשה לעמוד על העיקרון המבני שעל פיו מסודרים מזמורי תהלים. קשה גם לאפיין את ההבדלים בין אפיוני הספרים השונים שבתהלים. אמנם פה ושם מופיעות קבוצות של מזמורים שיש ביניהם קרבה חיצונית או פנימית; אבל בסך הכול נראה שהקובץ אינו מסודר, ושמא הדבר נעוץ באופיו. בתור קובץ של מזמורים המביעים רגשות אנושיים, אין הוא אמור להיות סדור, כשם שרגשותיו של אדם מתעוררים באופן בלתי צפוי. הרי גם בחיים עצמם אין זמנים קבועים מראש לצער או לשמחת הלב, להתבוננות או לתהילה. ספר תהלים הוא ספרו של אדם. מתוך כך נגזרת הרבגוניות המאפיינת אותו, ומשום כך גם נעדרים ממנו סדר ויומרה לעקביות. מזמורי תהלים שונים מאוד זה מזה לא רק ברגשות המובעים בהם ובתוכניהם, אלא גם מבחינת גודלם וסגנונם. בספר תהלים נמצא הפרק הקצר ביותר בתנ\"ך, שאורכו שני פסוקים, ומיד אחריו מופיע הפרק הארוך ביותר בתנ\"ך – מאה שבעים ושישה פסוקים. יש בו שירה אפית היסטורית, בצד שירי תחנונים של נפש סובלת והשתפכות נפש לירית. יש בו שירי הגות מובהקים ולא מעט שירי הוראה פשוטים. אף שהמזמורים שונים זה מזה, דבר אחד בולט בכולם: כולם מבטאים אמת. משום כך הם אינם מתפשרים ואינם מזייפים או מדלגים על מעקשים לשם יצירת הרמוניה. לא פעם מתעורר הדיסוננס משום שהמשורר איננו מוותר על איזו נקודת אמת, גם כאשר היא אינה תואמת את הניגון הכללי. גם מסיבה זו המזמורים הללו דיברו, ומדברים, אל אנשים רבים כל כך ושונים זה מזה בכל קצות העולם. למרות שהספר נוצר בזמן מסוים ובארץ המסוימת הזאת, הוא בוקע ועובר את גבולות הזמן והמקום. ספר תהלים איננו ספר של שירה המבטא את המשורר בלבד. בהיותו ספר של תפילות, לא פחות מנוכחותו של ה'אני', נוכח בו ה'אתה' האלוקי. בין ששם שמים מוזכר בכל פסוק ופסוק של המזמור, ובין כשכמעט אינו מוזכר במזמור כלל, ברור שהמשורר משוחח ושופך נפשו לִפְנֵי ה' <span class=\"parenthesized\">(תהלים קב,א)</span>. העולם הדתי שבספר איננו מסובך או מסתורי במיוחד. גם אם יש בו גם שירי תלונה ואף תרעומת, הרי שלא כמו באיוב או בקֹהלת התרעומת הזו היא תמיד מוגדרת ומבוקרת. גם כשעולות מן המזמורים שאלות שאין עליהן תשובה, נשארים המזמורים הללו בגדר מזמורי תפילה. פעמים רבות לא ברור מן הכתוב אם המסופר בו הוא מה שכבר אירע או מה שהמתפלל מקווה שיארע או חושש שאירע. יש שמצבו של המתפלל אינו עולה בבירור מן הדברים, ולא אחת הביאור מכריע לכאן או לכאן. ראוי שהן המתפלל הן המעיין הקשוב יפתחו את לבם ודעתם גם לאפשרויות אחרות המזומנות במזמור. בספר תהלים <span class=\"parenthesized\">(ובעוד שני ספרים בתנ\"ך: משלי ואיוב)</span> יש מערכת מיוחדת של טעמי המקרא, שאינה זהה למערכת הטעמים של שאר הספרים. מערכת טעמים זו מובנת לנו מבחינה פונקציונאלית – היינו, כיצד הם משמשים כסימני פיסוק מורכבים – ואולם המסורת המוזיקלית של טעמים אלה אבדה. זאת ועוד: ידוע שבימי הבית השני <span class=\"parenthesized\">(ואולי גם קודם לכן)</span> חלק מן המזמורים הללו הושרו בבית המקדש, אך בידינו לא נשארה כל מסורת מוזיקלית שאפשר לסמוך עליה. על פי החלוקה המקובלת של הספר, יש בו מאה וחמישים פרקים, אבל עד תקופת חז\"ל היה מחולק למאה ארבעים ושבעה או מאה ארבעים ותשעה מזמורים בלבד. רוב פרקיו הם מזמורים מוגדרים היטב שבראשם כותרות; רק בעקבות חלוקת הפרקים המאוחרת יותר, פרקים אחדים אינם נראים מזמורים שלמים העומדים לעצמם, וככל הנראה הם חלק מן המזמורים הסמוכים להם. הספר עצמו מעיד על עצמו שהוא ספר תְּפִלּוֹת דָּוִד בֶּן יִשָׁי <span class=\"parenthesized\">(תהלים עב,כ)</span>; ואכן, רוב מזמוריו מיוחסים לדוד המלך. עם זאת, נזכרים בספר גם שמותיהם של כמה משוררים אחרים. לפי מסורת חכמים <span class=\"parenthesized\">(בבא בתרא יד ע\"ב – טו ע\"א)</span>, לעשרה אנשים מיוחסים מזמור אחד או אחדים <span class=\"parenthesized\">(ובכללם אדם הראשון ומשה רבנו)</span>. לספר תהלים נודע מקום יוצא דופן לא רק בספרות העולם, אלא גם במקומו בתודעה האנושית בכל הזמנים והמקומות. נראה שאין עוד ספר במקרא שנתלוו אליו כל כך הרבה דמעות, כמו גם דברי תודה ושמחה. דרך ספר זה ואתו יכול כל אדם – הן המשורר והן מי שאינו יודע למצוא את המלים והביטויים המתאימים – להתחנן ולהודות, לשפוך את מר לבו או פשוט לשוחח עם אלוקים, בין שמדובר באשה בודדת המבכה את צרותיה, בגבר הנתון במבוך מדיני או צבאי או במי שבא לשיר שיר תודה. לכל אלה משמש ספר תהלים פה. דוד המלך מכונה בשם נְעִים זְמִרוֹת יִשְׂרָאֵל <span class=\"parenthesized\">(שמואל ב' כג,א)</span>, מאחר שהוא שר את שירתו של עם שלם. זאת ועוד: פה ושם יש בספר גם ניצוצות של התרוממות נפש מיסטית המוצנעת בשירה הדתית הכוללת ואיננה מגיעה לידי ביטוי חריף. כאן טמון צד נוסף של כוחו המיוחד של הספר: הנעימה הכללית שבו, על אף כל העליות והירידות, לעולם איננה מוקצנת. שאלות חריפות, ספקות חמורים, כאבים בלתי נסבלים ואולי גם עליצות בלי גבול רק מרומזים כאן, אך אין הם מגיעים לביטוי שלם ומלא. בצד הדברים הנאמרים בכל אחד מהמזמורים, המשורר משאיר גם גיליון ריק, שעליו יוסיף הקורא-המתפלל את השורות האישיות שלו."
+              ],
+              "ref": "Steinsaltz Introductions to Tanakh, Psalms, Book Introduction",
+              "sourceHeRef": "ביאור שטיינזלץ, הקדמות לתנ\"ך, תהילים, הקדמה לספר",
+              "sourceRef": "Steinsaltz Introductions to Tanakh, Psalms, Book Introduction"
+            },
+            {
+              "en": "",
+              "he": "יסוד המבנה המשולש הזה הוא הברייתא ״המתפלל צריך שישהא שעה אחת קודם תפלתו ושעה אחת אחר תפלתו״. כסימוכין לכך מובא הפסוק ״אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ״ <span class=\"parenthesized\">(תהלים פד, ה)</span>. ברור שהפסוק אינו מקור המנהג לשהות לפני התפילה ואחריה, אלא אסמכתא לו בלבד; אך עתה אנו מבינים מדוע דווקא מזמור \"אשרי\" הוא שנבחר להיאמר גם לפני לב התפילה וגם אחריו.",
+              "ref": "Covenant and Conversation; Hebrew Edition, Vayeitze, 2 3",
+              "sourceHeRef": "שיג ושיח; מהדורה עברית, ויצא, סולם התפילה ג׳",
+              "sourceRef": "Covenant and Conversation; Hebrew Edition, Vayeitze, 2 3"
+            }
+          ]
+        }
+      },
+      "en": "Happy are those who dwell in Your house;<br>they forever praise You. <i>Selah</i>.<br>",
+      "he": "אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ עוֹד יְֽהַלְלוּךָ סֶּֽלָה׃",
+      "ref": "Psalms 84:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>Praiseworthy is the people that has this</b> That has all this good.",
+                      "he": "",
+                      "ref": "Translation on Rashi on Psalms 144:15:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<b>שככה לו.</b> שכל טובה הזאת שלו:",
+              "ref": "Rashi on Psalms 144:15:1",
+              "sourceHeRef": "רש\"י על תהילים קמד:טו:א",
+              "sourceRef": "Rashi on Psalms 144:15:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "(Psalms 144:1–15)<br><b>Psalms 144</b><br>A psalm depicting a time of war, a prayer for God’s help and an expression of gratitude for the victory that was wrought. It concludes with a description of ensuing peace and tranquility in the land, once there are no longer any enemies to threaten it.",
+              "he": "<span class=\"parenthesized\">(תהילים קמ״ד: א׳-ט״ו)</span><br><b>תהילים קמ״ד</b><br>שיר תודה שיש בו גם תפילה בעת סכנת מלחמה ובניצחון בה. המזמור מסתיים בתיאור הארץ בשלוותה כאשר אין עליה עוד אימתם של אויבים.",
+              "ref": "Steinsaltz Introductions to Tanakh, Psalms, Section Preface 144",
+              "sourceHeRef": "ביאור שטיינזלץ, הקדמות לתנ\"ך, תהילים, מבוא לקטע קמ״ד",
+              "sourceRef": "Steinsaltz Introductions to Tanakh, Psalms, Section Preface 144"
+            },
+            {
+              "en": [
+                "The book of Psalms is unique among the books of the Bible. Taken as a whole, the Bible depicts the relationship between God and mankind, and more particularly between God and the people of Israel. In most books of the Bible, the relationship is primarily portrayed as proceeding from the top down, from God to man. By contrast, Psalms is the only book of the Bible where the relationship flows in the opposite direction, from man to God, in other words, where an individual turns to God and communicates with Him. Psalms is traditionally divided into five books, containing a total of 150 chapters. Some suggest that these are meant to correspond to the five books of the Torah. This parallelism also serves to illustrate that the relationship between God and man runs in both directions. Thus, despite their wide variation in subject matter and tone, the individual chapters comprising Psalms are all narrated from a human perspective, with all the limitations and complexity this entails.<br>The Hebrew title of the book, <i>Tehillim</i>, means “praises,” and there is much in the way of praise in its chapters. Yet Psalms is much more than a compendium of ways to praise God. In fact, one can find in it almost any thought or feeling a person might wish to express to God. It includes a wide variety of poetic forms, with personal poetry alongside epic poems, as well as philosophical musings and introspection on matters pertaining to the nation of Israel and to mankind. But what pervades all of the psalms, whether clearly expressed or implicit, is the voice of the individual psalmist.<br>Just as the topics of the psalms vary, so does the persona of the psalmist. The psalmist is seen as alternately dejected and elated; there are psalms of defeat and surrender alongside powerful, exultant victory songs. Moreover, some of the psalms express disquiet, originating in a crisis of faith or a grievance, whereas others bespeak peace and tranquility. To use a musical metaphor, some psalms are staccato, others legato; some largo, others presto. In similar fashion, the psalmist can be compared to a harp, each of whose many strings has its own unique sound while simultaneously working in harmony. Psalms deals with a number of recurring themes. Many of its chapters contain prayers and supplications that seem to correspond to actual events in the life of King David. But despite their various allusions to historical events, the psalms are not autobiographical. While many of them are attributed to David, neither his private nor his public persona is readily discernible. What emerges from most of the psalms is not the voice of a specific historical figure but rather that of Everyman. As the bounds of the personal are transcended, the psalms enter the realm of the universal. For instance, while King David was surrounded for most of his life by followers, friends, and admirers, what is most striking in the psalms of supplication attributed to David is the loneliness they convey. Only rarely do we get a sense of David as part of a larger “us.” The image is that of a man who feels alone even in the midst of a crowd. This quality, somewhat paradoxically, makes Psalms not only a collection of songs that can be sung aloud in a chorus of voices, but also an expression of many people’s most private life experiences, whether joyous or distressing. As the verse says: “The heart alone knows its own bitterness, and no stranger can share in its joy” (Proverbs 14:10). People first feel their own pain and happiness, and only after that can they identify with the feelings and experiences of others. The logic behind the psalms’ arrangement remains unclear. There are no obvious differences between the five books, or sections, of Psalms. And while here and there a group of psalms appears to have certain structural or thematic similarities, these are the exceptions to the rule. It appears likely that the disarray is intentional, reflecting the perspective of a work that above all expresses human emotions. For emotions, like existence itself, have no fixed order; there are no predetermined conditions governing a person’s feeling happy, sorrowful, introspective, or grateful. Psalms mirrors life in all its vicissitudes and inconsistencies, demonstrating that despite our most strenuous efforts, life can never be fully organized or controlled. The chapters of Psalms differ from one another in structure and style as well as content and length. Psalms contains the shortest chapter in the Bible (two verses) and almost immediately following it, the longest chapter (176 verses). Some of the psalms have the rhythm and tone of epic poetry. Some are simple entreaties, and others are an outpouring of feeling emanating from the depths of the soul. There are many tearful prayers in Psalms, and often no explanation is provided for the psalmist’s distress other than that something is wrong. Some psalms are distinctly meditative and deal with a well-defined topic. Others are songs of a historical nature. Also quite a few psalms offer straightforward, moral instruction. Despite all the differences between them, the psalms share one outstanding characteristic: truth. There is no smoothing of rough edges, no attempt to ignore or gloss over difficult issues in order to create a sense of harmony. Indeed, many of the psalms have a kind of built-in dissonance that results from the psalmist’s refusal to relinquish a point of truth even at the expense of disrupting the overall melody. Undoubtedly, this aspect of Psalms is partially why it continues to speak to so many people in all corners of the world. While Psalms very much belongs to a specific place (the Land of Israel) and a specific period (the biblical era), it nonetheless transcends all boundaries of space and time. Like Job and Ecclesiastes, Psalms has a special, unique set of cantillations. The cantillation signs serve to punctuate the verses as well as to indicate specific musical notes. In Psalms, the musical component of the cantillations has been entirely lost. We know that certain psalms were sung in the Temple during the era of the Second Temple and possibly even before that. But beyond this we lack any reliable tradition pertaining to the melodies that were sung. Until the period of the Sages, Psalms consisted of 147 chapters. Most of these texts have a heading and a clear internal structure. A later, non-Jewish division of Psalms produced the current 150 chapters, a few of which appear to be incomplete or not self-contained. Most of the psalms are attributed to David, as indicated in the psalms themselves, using descriptions such as: “the prayers of David son of Yishai” (Psalms 72:20). Nevertheless, according to the Sages in Apart from its literary value, Psalms enjoys an exceptional status in the biblical canon. No book of the Bible has evoked more tears or more words of gratitude and joy. Over the course of Jewish history, Psalms has been utilized more than any other book, not just by poets, but by all who seek to articulate the appropriate words and phrases with which to beseech, express gratitude to, pour out the sorrows of their soul to, or simply have a conversation with God. Whether it is a lonely widow weeping over her travails, a leader grappling with a military or political crisis, or an individual inspired to sing a song of thanksgiving, Psalms provides a mouthpiece for everyone. Indeed, if King David is termed “the sweet singer of Israel” (II Samuel 23:1), it is because he sang the song of an entire people."
+              ],
+              "he": [
+                "כל המקרא עוסק במערכת היחסים שבין אלוקים והאדם, ובעיקר האדם מישראל; ואולם רוב ספרי התנ\"ך – בוודאי חמשת חומשי התורה, אך גם ספרי הנביאים – ממוקדים יותר ביחסו של ה' אל האדם, מלמעלה למטה. לעומת זאת, ספר תהלים הוא הספר היחיד שבמרכזו האדם הפונה אל ה'. באופן מסורתי הספר מחולק לחמישה חלקים <span class=\"parenthesized\">(‘ספרים')</span>, אולי לשם יצירת הקבלה בין חמשת חומשי תורה ובין חמשת ‘חומשי' תהלים. הקבלה זו מבטאת את שני הקצוות של הקשר וההתייחסות בין האדם לבין אלוקים – לעומת התורה שבמוקדה ההתגלות העליונה, ספר תהלים נאמר מנקודת הראות של האדם, על מוגבלותה ומורכבותה. אמנם הספר נקרא ‘תהלים', לאמור: התהילות שבהן מהלל האדם את ה', אך יש בו כמעט כל מה שאדם היה רוצה לומר לפני אלוקים. הספר כולל דברי שירה לסוגיה, ומובע בו מנעד רגשות רחב ביותר. בצד שירה פרטית ואישית מובאים בו שירה אֶפִּית ומזמורי התבוננות ועיון העוסקים בנושאים כלל-לאומיים ואף כלל-אנושיים. אולם בכולם – בין בבירור ובמפורש ובין בצנעה ובהיעלם – אפשר לפגוש באישיותו המסוימת של המשורר. חלק מגדולתו של הספר נעוצה דווקא בהיותו סובייקטיבי. לא רק נושאיהם של מזמורי תהלים מגוונים ביותר, אף דמותו של המשורר העולה מתוכם רבת-פנים, והיא נתונה בנסיבות שונות: יש שהמזמורים מושרים מתוך כניעה ותבוסה, ויש שהם שירי ניצחון מלאי עצמה. גם נעימתם של המזמורים אינה אחידה. בלשון מוזיקלית אפשר לאפיין מזמורים מסוימים כסטקטו ואחרים כלגטו; יש מזמורים שקצב ההתרחשויות בהם והתחלפות הגופים מזכיר יותר פרסטו, ואחרים – לרגו. המזמורים מבטאים מצבי נפש שונים: מהם מלאים מתח – מתח דתי או מתח של תרעומת, יש מזמורים שנאמרו מתוך סערה ומצוקה ואחרים המביעים התרפקות ורוגע. משום כך אפשר לדמות את משורר תהלים לנֵבל רחב מנעד ורב-מיתרים, שלכל אחד מהם צליל משלו. כמה נושאים כלליים חוזרים ונשנים לכל אורכו של ספר תהלים. חלק גדול מפרקי הספר הם דברי תפילה ותחינה, שבמידה רבה מלווים את מאורעות חייו של המלך דוד. למרות שלא מעט מזמורים נסמכים למאורעות ידועים, ראוי לציין כי בעיקרו של דבר אין הם אוטוביוגרפיים. אף שהספר הוא שירתו של דוד, הרי אישיותו הפרטית ההיסטורית של דוד איננה בולטת בו, ומרוב הפרקים לא עולה דמותו של אדם מסוים; בוקע מהם קולו של האדם באשר הוא. כך, למרות שמבחינה היסטורית דוד המלך היה מוקף רוב ימיו בידידים ובמעריצים, הצד הבולט ביותר בפרקי התחינה שבתהלים הוא דווקא הרגשת הבדידות; רק לעתים רחוקות תופס ה'אנחנו' את מקומו של ה'אני' בספר. הדבר משקף ומבטא את אישיותו של משורר, אשר גם בהיותו בין רבים הוא עדיין מרגיש בודד. ואולי דווקא משום כך עד היום מזמורי תהלים אינם מושרים רק בקול רם ובמקהלות, אלא גם נותנים ביטוי לחוויותיהם – הן הטובות והן הקשות – של אנשים פרטיים רבים. קשה לעמוד על העיקרון המבני שעל פיו מסודרים מזמורי תהלים. קשה גם לאפיין את ההבדלים בין אפיוני הספרים השונים שבתהלים. אמנם פה ושם מופיעות קבוצות של מזמורים שיש ביניהם קרבה חיצונית או פנימית; אבל בסך הכול נראה שהקובץ אינו מסודר, ושמא הדבר נעוץ באופיו. בתור קובץ של מזמורים המביעים רגשות אנושיים, אין הוא אמור להיות סדור, כשם שרגשותיו של אדם מתעוררים באופן בלתי צפוי. הרי גם בחיים עצמם אין זמנים קבועים מראש לצער או לשמחת הלב, להתבוננות או לתהילה. ספר תהלים הוא ספרו של אדם. מתוך כך נגזרת הרבגוניות המאפיינת אותו, ומשום כך גם נעדרים ממנו סדר ויומרה לעקביות. מזמורי תהלים שונים מאוד זה מזה לא רק ברגשות המובעים בהם ובתוכניהם, אלא גם מבחינת גודלם וסגנונם. בספר תהלים נמצא הפרק הקצר ביותר בתנ\"ך, שאורכו שני פסוקים, ומיד אחריו מופיע הפרק הארוך ביותר בתנ\"ך – מאה שבעים ושישה פסוקים. יש בו שירה אפית היסטורית, בצד שירי תחנונים של נפש סובלת והשתפכות נפש לירית. יש בו שירי הגות מובהקים ולא מעט שירי הוראה פשוטים. אף שהמזמורים שונים זה מזה, דבר אחד בולט בכולם: כולם מבטאים אמת. משום כך הם אינם מתפשרים ואינם מזייפים או מדלגים על מעקשים לשם יצירת הרמוניה. לא פעם מתעורר הדיסוננס משום שהמשורר איננו מוותר על איזו נקודת אמת, גם כאשר היא אינה תואמת את הניגון הכללי. גם מסיבה זו המזמורים הללו דיברו, ומדברים, אל אנשים רבים כל כך ושונים זה מזה בכל קצות העולם. למרות שהספר נוצר בזמן מסוים ובארץ המסוימת הזאת, הוא בוקע ועובר את גבולות הזמן והמקום. ספר תהלים איננו ספר של שירה המבטא את המשורר בלבד. בהיותו ספר של תפילות, לא פחות מנוכחותו של ה'אני', נוכח בו ה'אתה' האלוקי. בין ששם שמים מוזכר בכל פסוק ופסוק של המזמור, ובין כשכמעט אינו מוזכר במזמור כלל, ברור שהמשורר משוחח ושופך נפשו לִפְנֵי ה' <span class=\"parenthesized\">(תהלים קב,א)</span>. העולם הדתי שבספר איננו מסובך או מסתורי במיוחד. גם אם יש בו גם שירי תלונה ואף תרעומת, הרי שלא כמו באיוב או בקֹהלת התרעומת הזו היא תמיד מוגדרת ומבוקרת. גם כשעולות מן המזמורים שאלות שאין עליהן תשובה, נשארים המזמורים הללו בגדר מזמורי תפילה. פעמים רבות לא ברור מן הכתוב אם המסופר בו הוא מה שכבר אירע או מה שהמתפלל מקווה שיארע או חושש שאירע. יש שמצבו של המתפלל אינו עולה בבירור מן הדברים, ולא אחת הביאור מכריע לכאן או לכאן. ראוי שהן המתפלל הן המעיין הקשוב יפתחו את לבם ודעתם גם לאפשרויות אחרות המזומנות במזמור. בספר תהלים <span class=\"parenthesized\">(ובעוד שני ספרים בתנ\"ך: משלי ואיוב)</span> יש מערכת מיוחדת של טעמי המקרא, שאינה זהה למערכת הטעמים של שאר הספרים. מערכת טעמים זו מובנת לנו מבחינה פונקציונאלית – היינו, כיצד הם משמשים כסימני פיסוק מורכבים – ואולם המסורת המוזיקלית של טעמים אלה אבדה. זאת ועוד: ידוע שבימי הבית השני <span class=\"parenthesized\">(ואולי גם קודם לכן)</span> חלק מן המזמורים הללו הושרו בבית המקדש, אך בידינו לא נשארה כל מסורת מוזיקלית שאפשר לסמוך עליה. על פי החלוקה המקובלת של הספר, יש בו מאה וחמישים פרקים, אבל עד תקופת חז\"ל היה מחולק למאה ארבעים ושבעה או מאה ארבעים ותשעה מזמורים בלבד. רוב פרקיו הם מזמורים מוגדרים היטב שבראשם כותרות; רק בעקבות חלוקת הפרקים המאוחרת יותר, פרקים אחדים אינם נראים מזמורים שלמים העומדים לעצמם, וככל הנראה הם חלק מן המזמורים הסמוכים להם. הספר עצמו מעיד על עצמו שהוא ספר תְּפִלּוֹת דָּוִד בֶּן יִשָׁי <span class=\"parenthesized\">(תהלים עב,כ)</span>; ואכן, רוב מזמוריו מיוחסים לדוד המלך. עם זאת, נזכרים בספר גם שמותיהם של כמה משוררים אחרים. לפי מסורת חכמים <span class=\"parenthesized\">(בבא בתרא יד ע\"ב – טו ע\"א)</span>, לעשרה אנשים מיוחסים מזמור אחד או אחדים <span class=\"parenthesized\">(ובכללם אדם הראשון ומשה רבנו)</span>. לספר תהלים נודע מקום יוצא דופן לא רק בספרות העולם, אלא גם במקומו בתודעה האנושית בכל הזמנים והמקומות. נראה שאין עוד ספר במקרא שנתלוו אליו כל כך הרבה דמעות, כמו גם דברי תודה ושמחה. דרך ספר זה ואתו יכול כל אדם – הן המשורר והן מי שאינו יודע למצוא את המלים והביטויים המתאימים – להתחנן ולהודות, לשפוך את מר לבו או פשוט לשוחח עם אלוקים, בין שמדובר באשה בודדת המבכה את צרותיה, בגבר הנתון במבוך מדיני או צבאי או במי שבא לשיר שיר תודה. לכל אלה משמש ספר תהלים פה. דוד המלך מכונה בשם נְעִים זְמִרוֹת יִשְׂרָאֵל <span class=\"parenthesized\">(שמואל ב' כג,א)</span>, מאחר שהוא שר את שירתו של עם שלם. זאת ועוד: פה ושם יש בספר גם ניצוצות של התרוממות נפש מיסטית המוצנעת בשירה הדתית הכוללת ואיננה מגיעה לידי ביטוי חריף. כאן טמון צד נוסף של כוחו המיוחד של הספר: הנעימה הכללית שבו, על אף כל העליות והירידות, לעולם איננה מוקצנת. שאלות חריפות, ספקות חמורים, כאבים בלתי נסבלים ואולי גם עליצות בלי גבול רק מרומזים כאן, אך אין הם מגיעים לביטוי שלם ומלא. בצד הדברים הנאמרים בכל אחד מהמזמורים, המשורר משאיר גם גיליון ריק, שעליו יוסיף הקורא-המתפלל את השורות האישיות שלו."
+              ],
+              "ref": "Steinsaltz Introductions to Tanakh, Psalms, Book Introduction",
+              "sourceHeRef": "ביאור שטיינזלץ, הקדמות לתנ\"ך, תהילים, הקדמה לספר",
+              "sourceRef": "Steinsaltz Introductions to Tanakh, Psalms, Book Introduction"
+            }
+          ]
+        }
+      },
+      "en": "Happy the people who have it so;<br>happy the people whose God is the L<small>ORD</small>.",
+      "he": "אַשְׁרֵי הָעָם שֶׁכָּכָה לּוֹ אַֽשְׁרֵי הָעָם שֱׁיְהֹוָה אֱלֹהָֽיו׃",
+      "ref": "Psalms 144:15"
+    },
+    {
+      "commentary": {
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Let all that breathes praise the L<small>ORD</small>.<br>Hallelujah.",
+                      "he": "כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃",
+                      "link": "/Psalms/150",
+                      "ref": "Psalms 150:6",
+                      "sourceHeRef": "תהילים קנ:ו",
+                      "sourceRef": "Psalms 150:6"
+                    },
+                    {
+                      "en": "The L<small>ORD</small> will reign for ever and ever!",
+                      "he": "יְהֹוָ֥ה <span class=\"hebrew-emphasis\">׀</span> יִמְלֹ֖ךְ לְעֹלָ֥ם וָעֶֽד׃",
+                      "link": "/Exodus/15",
+                      "ref": "Exodus 15:18",
+                      "sourceHeRef": "שמות טו:יח",
+                      "sourceRef": "Exodus 15:18"
+                    }
+                  ]
+                }
+              },
+              "en": "One should focus one's heart during the verse \"You open Your hand...\" and if he does not focus then he must return and say the verse again. <small>Rem\"a: And we say the verse \"And we shall praise the Lord\" (Psalms 115:18) after the verse \"A praise, of David...\" (Psalms 145:1) (ie. at the end of Ashrei) [Tur and the Kol Bo]. And we double-recite the verse \"Let every living soul praise the Lord\" (Psalms 150:6) because it is the conclusion of \"The Psalms of Praise\" (Tur), and so too for the verse \"The Lord will rule forever and ever\" (Exodus 15:18) [Abudraham]. When one comes to \"And now, Hashem our God, we thank you\" or to the verse \"And every upright one shall prostrate himself before You\" one should not bow or prostrate there as it is written below in section 113 [Rebbi Yitzchak, at the end of the chapter \"Ein Omdin,\" and Rabbeinu Yerucham Pathway 1]. And it is customary to stand when we say \"Baruch She'amar\" and \"And David Blessed\" and \"Yishtabach.\"</small>",
+              "he": "צריך לכוין בפ' פותח את ידיך ואם לא כוון צריך לחזור ולאומרו פעם אחרת: <span class=\"hebrew-emphasis\">הגה ואומרים פסוק ואנחנו נברך יה אחר תהלה לדוד [טור וכל בו] וכופלין פסוק כל הנשמה תהלל יה לפי שהוא סוף פסוקי דזמרה (טור) וכן פסוק ה' ימלוך לעולם ועד [אבודרהם] כשמגיע לועתה ה' אלהינו מודים אנחנו לך או לפ' וכל קומה לפניך תשתחוה אין לשחות ולהשתחות שם כדלקמן סי' קי\"ג [הר\"י ס\"פ אין עומדין ורבי' ירוחם נתיב א'] ונהגו לעמוד כשאומרים ברוך שאמר ויברך דוד וישתבח:</span>",
+              "ref": "Shulchan Arukh, Orach Chayim 51:7",
+              "sourceHeRef": "אורח חיים נא:ז - דיני תפלה מן ברוך שאמר עד ישתבח.",
+              "sourceRef": "Orach Chayim 51:7"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "(Psalms 145:1–21)<br><b>Psalms 145</b><br>A psalm that is essentially one of praise and thanks for God’s eternal kindness; it contains no entreaties or requests. It is structured alphabetically, and while there is no continuous line of thought from one verse to the next, all the verses taken together form a portrait of God’s beneficence in the world.",
+              "he": "<span class=\"parenthesized\">(תהילים קמ״ה: א׳-כ״א)</span><br><b>תהילים קמ״ה</b><br>מזמור שכולו שבח והודיה על חסדי ה' לעולם. המזמור בנוי על פי סדר הא\"ב. הפרטים השונים מצטרפים לכדי תמונה שלמה.",
+              "ref": "Steinsaltz Introductions to Tanakh, Psalms, Section Preface 145",
+              "sourceHeRef": "ביאור שטיינזלץ, הקדמות לתנ\"ך, תהילים, מבוא לקטע קמ״ה",
+              "sourceRef": "Steinsaltz Introductions to Tanakh, Psalms, Section Preface 145"
+            },
+            {
+              "en": [
+                "The book of Psalms is unique among the books of the Bible. Taken as a whole, the Bible depicts the relationship between God and mankind, and more particularly between God and the people of Israel. In most books of the Bible, the relationship is primarily portrayed as proceeding from the top down, from God to man. By contrast, Psalms is the only book of the Bible where the relationship flows in the opposite direction, from man to God, in other words, where an individual turns to God and communicates with Him. Psalms is traditionally divided into five books, containing a total of 150 chapters. Some suggest that these are meant to correspond to the five books of the Torah. This parallelism also serves to illustrate that the relationship between God and man runs in both directions. Thus, despite their wide variation in subject matter and tone, the individual chapters comprising Psalms are all narrated from a human perspective, with all the limitations and complexity this entails.<br>The Hebrew title of the book, <i>Tehillim</i>, means “praises,” and there is much in the way of praise in its chapters. Yet Psalms is much more than a compendium of ways to praise God. In fact, one can find in it almost any thought or feeling a person might wish to express to God. It includes a wide variety of poetic forms, with personal poetry alongside epic poems, as well as philosophical musings and introspection on matters pertaining to the nation of Israel and to mankind. But what pervades all of the psalms, whether clearly expressed or implicit, is the voice of the individual psalmist.<br>Just as the topics of the psalms vary, so does the persona of the psalmist. The psalmist is seen as alternately dejected and elated; there are psalms of defeat and surrender alongside powerful, exultant victory songs. Moreover, some of the psalms express disquiet, originating in a crisis of faith or a grievance, whereas others bespeak peace and tranquility. To use a musical metaphor, some psalms are staccato, others legato; some largo, others presto. In similar fashion, the psalmist can be compared to a harp, each of whose many strings has its own unique sound while simultaneously working in harmony. Psalms deals with a number of recurring themes. Many of its chapters contain prayers and supplications that seem to correspond to actual events in the life of King David. But despite their various allusions to historical events, the psalms are not autobiographical. While many of them are attributed to David, neither his private nor his public persona is readily discernible. What emerges from most of the psalms is not the voice of a specific historical figure but rather that of Everyman. As the bounds of the personal are transcended, the psalms enter the realm of the universal. For instance, while King David was surrounded for most of his life by followers, friends, and admirers, what is most striking in the psalms of supplication attributed to David is the loneliness they convey. Only rarely do we get a sense of David as part of a larger “us.” The image is that of a man who feels alone even in the midst of a crowd. This quality, somewhat paradoxically, makes Psalms not only a collection of songs that can be sung aloud in a chorus of voices, but also an expression of many people’s most private life experiences, whether joyous or distressing. As the verse says: “The heart alone knows its own bitterness, and no stranger can share in its joy” (Proverbs 14:10). People first feel their own pain and happiness, and only after that can they identify with the feelings and experiences of others. The logic behind the psalms’ arrangement remains unclear. There are no obvious differences between the five books, or sections, of Psalms. And while here and there a group of psalms appears to have certain structural or thematic similarities, these are the exceptions to the rule. It appears likely that the disarray is intentional, reflecting the perspective of a work that above all expresses human emotions. For emotions, like existence itself, have no fixed order; there are no predetermined conditions governing a person’s feeling happy, sorrowful, introspective, or grateful. Psalms mirrors life in all its vicissitudes and inconsistencies, demonstrating that despite our most strenuous efforts, life can never be fully organized or controlled. The chapters of Psalms differ from one another in structure and style as well as content and length. Psalms contains the shortest chapter in the Bible (two verses) and almost immediately following it, the longest chapter (176 verses). Some of the psalms have the rhythm and tone of epic poetry. Some are simple entreaties, and others are an outpouring of feeling emanating from the depths of the soul. There are many tearful prayers in Psalms, and often no explanation is provided for the psalmist’s distress other than that something is wrong. Some psalms are distinctly meditative and deal with a well-defined topic. Others are songs of a historical nature. Also quite a few psalms offer straightforward, moral instruction. Despite all the differences between them, the psalms share one outstanding characteristic: truth. There is no smoothing of rough edges, no attempt to ignore or gloss over difficult issues in order to create a sense of harmony. Indeed, many of the psalms have a kind of built-in dissonance that results from the psalmist’s refusal to relinquish a point of truth even at the expense of disrupting the overall melody. Undoubtedly, this aspect of Psalms is partially why it continues to speak to so many people in all corners of the world. While Psalms very much belongs to a specific place (the Land of Israel) and a specific period (the biblical era), it nonetheless transcends all boundaries of space and time. Like Job and Ecclesiastes, Psalms has a special, unique set of cantillations. The cantillation signs serve to punctuate the verses as well as to indicate specific musical notes. In Psalms, the musical component of the cantillations has been entirely lost. We know that certain psalms were sung in the Temple during the era of the Second Temple and possibly even before that. But beyond this we lack any reliable tradition pertaining to the melodies that were sung. Until the period of the Sages, Psalms consisted of 147 chapters. Most of these texts have a heading and a clear internal structure. A later, non-Jewish division of Psalms produced the current 150 chapters, a few of which appear to be incomplete or not self-contained. Most of the psalms are attributed to David, as indicated in the psalms themselves, using descriptions such as: “the prayers of David son of Yishai” (Psalms 72:20). Nevertheless, according to the Sages in Apart from its literary value, Psalms enjoys an exceptional status in the biblical canon. No book of the Bible has evoked more tears or more words of gratitude and joy. Over the course of Jewish history, Psalms has been utilized more than any other book, not just by poets, but by all who seek to articulate the appropriate words and phrases with which to beseech, express gratitude to, pour out the sorrows of their soul to, or simply have a conversation with God. Whether it is a lonely widow weeping over her travails, a leader grappling with a military or political crisis, or an individual inspired to sing a song of thanksgiving, Psalms provides a mouthpiece for everyone. Indeed, if King David is termed “the sweet singer of Israel” (II Samuel 23:1), it is because he sang the song of an entire people."
+              ],
+              "he": [
+                "כל המקרא עוסק במערכת היחסים שבין אלוקים והאדם, ובעיקר האדם מישראל; ואולם רוב ספרי התנ\"ך – בוודאי חמשת חומשי התורה, אך גם ספרי הנביאים – ממוקדים יותר ביחסו של ה' אל האדם, מלמעלה למטה. לעומת זאת, ספר תהלים הוא הספר היחיד שבמרכזו האדם הפונה אל ה'. באופן מסורתי הספר מחולק לחמישה חלקים <span class=\"parenthesized\">(‘ספרים')</span>, אולי לשם יצירת הקבלה בין חמשת חומשי תורה ובין חמשת ‘חומשי' תהלים. הקבלה זו מבטאת את שני הקצוות של הקשר וההתייחסות בין האדם לבין אלוקים – לעומת התורה שבמוקדה ההתגלות העליונה, ספר תהלים נאמר מנקודת הראות של האדם, על מוגבלותה ומורכבותה. אמנם הספר נקרא ‘תהלים', לאמור: התהילות שבהן מהלל האדם את ה', אך יש בו כמעט כל מה שאדם היה רוצה לומר לפני אלוקים. הספר כולל דברי שירה לסוגיה, ומובע בו מנעד רגשות רחב ביותר. בצד שירה פרטית ואישית מובאים בו שירה אֶפִּית ומזמורי התבוננות ועיון העוסקים בנושאים כלל-לאומיים ואף כלל-אנושיים. אולם בכולם – בין בבירור ובמפורש ובין בצנעה ובהיעלם – אפשר לפגוש באישיותו המסוימת של המשורר. חלק מגדולתו של הספר נעוצה דווקא בהיותו סובייקטיבי. לא רק נושאיהם של מזמורי תהלים מגוונים ביותר, אף דמותו של המשורר העולה מתוכם רבת-פנים, והיא נתונה בנסיבות שונות: יש שהמזמורים מושרים מתוך כניעה ותבוסה, ויש שהם שירי ניצחון מלאי עצמה. גם נעימתם של המזמורים אינה אחידה. בלשון מוזיקלית אפשר לאפיין מזמורים מסוימים כסטקטו ואחרים כלגטו; יש מזמורים שקצב ההתרחשויות בהם והתחלפות הגופים מזכיר יותר פרסטו, ואחרים – לרגו. המזמורים מבטאים מצבי נפש שונים: מהם מלאים מתח – מתח דתי או מתח של תרעומת, יש מזמורים שנאמרו מתוך סערה ומצוקה ואחרים המביעים התרפקות ורוגע. משום כך אפשר לדמות את משורר תהלים לנֵבל רחב מנעד ורב-מיתרים, שלכל אחד מהם צליל משלו. כמה נושאים כלליים חוזרים ונשנים לכל אורכו של ספר תהלים. חלק גדול מפרקי הספר הם דברי תפילה ותחינה, שבמידה רבה מלווים את מאורעות חייו של המלך דוד. למרות שלא מעט מזמורים נסמכים למאורעות ידועים, ראוי לציין כי בעיקרו של דבר אין הם אוטוביוגרפיים. אף שהספר הוא שירתו של דוד, הרי אישיותו הפרטית ההיסטורית של דוד איננה בולטת בו, ומרוב הפרקים לא עולה דמותו של אדם מסוים; בוקע מהם קולו של האדם באשר הוא. כך, למרות שמבחינה היסטורית דוד המלך היה מוקף רוב ימיו בידידים ובמעריצים, הצד הבולט ביותר בפרקי התחינה שבתהלים הוא דווקא הרגשת הבדידות; רק לעתים רחוקות תופס ה'אנחנו' את מקומו של ה'אני' בספר. הדבר משקף ומבטא את אישיותו של משורר, אשר גם בהיותו בין רבים הוא עדיין מרגיש בודד. ואולי דווקא משום כך עד היום מזמורי תהלים אינם מושרים רק בקול רם ובמקהלות, אלא גם נותנים ביטוי לחוויותיהם – הן הטובות והן הקשות – של אנשים פרטיים רבים. קשה לעמוד על העיקרון המבני שעל פיו מסודרים מזמורי תהלים. קשה גם לאפיין את ההבדלים בין אפיוני הספרים השונים שבתהלים. אמנם פה ושם מופיעות קבוצות של מזמורים שיש ביניהם קרבה חיצונית או פנימית; אבל בסך הכול נראה שהקובץ אינו מסודר, ושמא הדבר נעוץ באופיו. בתור קובץ של מזמורים המביעים רגשות אנושיים, אין הוא אמור להיות סדור, כשם שרגשותיו של אדם מתעוררים באופן בלתי צפוי. הרי גם בחיים עצמם אין זמנים קבועים מראש לצער או לשמחת הלב, להתבוננות או לתהילה. ספר תהלים הוא ספרו של אדם. מתוך כך נגזרת הרבגוניות המאפיינת אותו, ומשום כך גם נעדרים ממנו סדר ויומרה לעקביות. מזמורי תהלים שונים מאוד זה מזה לא רק ברגשות המובעים בהם ובתוכניהם, אלא גם מבחינת גודלם וסגנונם. בספר תהלים נמצא הפרק הקצר ביותר בתנ\"ך, שאורכו שני פסוקים, ומיד אחריו מופיע הפרק הארוך ביותר בתנ\"ך – מאה שבעים ושישה פסוקים. יש בו שירה אפית היסטורית, בצד שירי תחנונים של נפש סובלת והשתפכות נפש לירית. יש בו שירי הגות מובהקים ולא מעט שירי הוראה פשוטים. אף שהמזמורים שונים זה מזה, דבר אחד בולט בכולם: כולם מבטאים אמת. משום כך הם אינם מתפשרים ואינם מזייפים או מדלגים על מעקשים לשם יצירת הרמוניה. לא פעם מתעורר הדיסוננס משום שהמשורר איננו מוותר על איזו נקודת אמת, גם כאשר היא אינה תואמת את הניגון הכללי. גם מסיבה זו המזמורים הללו דיברו, ומדברים, אל אנשים רבים כל כך ושונים זה מזה בכל קצות העולם. למרות שהספר נוצר בזמן מסוים ובארץ המסוימת הזאת, הוא בוקע ועובר את גבולות הזמן והמקום. ספר תהלים איננו ספר של שירה המבטא את המשורר בלבד. בהיותו ספר של תפילות, לא פחות מנוכחותו של ה'אני', נוכח בו ה'אתה' האלוקי. בין ששם שמים מוזכר בכל פסוק ופסוק של המזמור, ובין כשכמעט אינו מוזכר במזמור כלל, ברור שהמשורר משוחח ושופך נפשו לִפְנֵי ה' <span class=\"parenthesized\">(תהלים קב,א)</span>. העולם הדתי שבספר איננו מסובך או מסתורי במיוחד. גם אם יש בו גם שירי תלונה ואף תרעומת, הרי שלא כמו באיוב או בקֹהלת התרעומת הזו היא תמיד מוגדרת ומבוקרת. גם כשעולות מן המזמורים שאלות שאין עליהן תשובה, נשארים המזמורים הללו בגדר מזמורי תפילה. פעמים רבות לא ברור מן הכתוב אם המסופר בו הוא מה שכבר אירע או מה שהמתפלל מקווה שיארע או חושש שאירע. יש שמצבו של המתפלל אינו עולה בבירור מן הדברים, ולא אחת הביאור מכריע לכאן או לכאן. ראוי שהן המתפלל הן המעיין הקשוב יפתחו את לבם ודעתם גם לאפשרויות אחרות המזומנות במזמור. בספר תהלים <span class=\"parenthesized\">(ובעוד שני ספרים בתנ\"ך: משלי ואיוב)</span> יש מערכת מיוחדת של טעמי המקרא, שאינה זהה למערכת הטעמים של שאר הספרים. מערכת טעמים זו מובנת לנו מבחינה פונקציונאלית – היינו, כיצד הם משמשים כסימני פיסוק מורכבים – ואולם המסורת המוזיקלית של טעמים אלה אבדה. זאת ועוד: ידוע שבימי הבית השני <span class=\"parenthesized\">(ואולי גם קודם לכן)</span> חלק מן המזמורים הללו הושרו בבית המקדש, אך בידינו לא נשארה כל מסורת מוזיקלית שאפשר לסמוך עליה. על פי החלוקה המקובלת של הספר, יש בו מאה וחמישים פרקים, אבל עד תקופת חז\"ל היה מחולק למאה ארבעים ושבעה או מאה ארבעים ותשעה מזמורים בלבד. רוב פרקיו הם מזמורים מוגדרים היטב שבראשם כותרות; רק בעקבות חלוקת הפרקים המאוחרת יותר, פרקים אחדים אינם נראים מזמורים שלמים העומדים לעצמם, וככל הנראה הם חלק מן המזמורים הסמוכים להם. הספר עצמו מעיד על עצמו שהוא ספר תְּפִלּוֹת דָּוִד בֶּן יִשָׁי <span class=\"parenthesized\">(תהלים עב,כ)</span>; ואכן, רוב מזמוריו מיוחסים לדוד המלך. עם זאת, נזכרים בספר גם שמותיהם של כמה משוררים אחרים. לפי מסורת חכמים <span class=\"parenthesized\">(בבא בתרא יד ע\"ב – טו ע\"א)</span>, לעשרה אנשים מיוחסים מזמור אחד או אחדים <span class=\"parenthesized\">(ובכללם אדם הראשון ומשה רבנו)</span>. לספר תהלים נודע מקום יוצא דופן לא רק בספרות העולם, אלא גם במקומו בתודעה האנושית בכל הזמנים והמקומות. נראה שאין עוד ספר במקרא שנתלוו אליו כל כך הרבה דמעות, כמו גם דברי תודה ושמחה. דרך ספר זה ואתו יכול כל אדם – הן המשורר והן מי שאינו יודע למצוא את המלים והביטויים המתאימים – להתחנן ולהודות, לשפוך את מר לבו או פשוט לשוחח עם אלוקים, בין שמדובר באשה בודדת המבכה את צרותיה, בגבר הנתון במבוך מדיני או צבאי או במי שבא לשיר שיר תודה. לכל אלה משמש ספר תהלים פה. דוד המלך מכונה בשם נְעִים זְמִרוֹת יִשְׂרָאֵל <span class=\"parenthesized\">(שמואל ב' כג,א)</span>, מאחר שהוא שר את שירתו של עם שלם. זאת ועוד: פה ושם יש בספר גם ניצוצות של התרוממות נפש מיסטית המוצנעת בשירה הדתית הכוללת ואיננה מגיעה לידי ביטוי חריף. כאן טמון צד נוסף של כוחו המיוחד של הספר: הנעימה הכללית שבו, על אף כל העליות והירידות, לעולם איננה מוקצנת. שאלות חריפות, ספקות חמורים, כאבים בלתי נסבלים ואולי גם עליצות בלי גבול רק מרומזים כאן, אך אין הם מגיעים לביטוי שלם ומלא. בצד הדברים הנאמרים בכל אחד מהמזמורים, המשורר משאיר גם גיליון ריק, שעליו יוסיף הקורא-המתפלל את השורות האישיות שלו."
+              ],
+              "ref": "Steinsaltz Introductions to Tanakh, Psalms, Book Introduction",
+              "sourceHeRef": "ביאור שטיינזלץ, הקדמות לתנ\"ך, תהילים, הקדמה לספר",
+              "sourceRef": "Steinsaltz Introductions to Tanakh, Psalms, Book Introduction"
+            }
+          ]
+        }
+      },
+      "en": "A song of praise. Of David.<br><br>I will extol You, my God and king,<br>and bless Your name forever and ever.",
+      "he": "תְּהִלָּה לְדָוִד<br> אֲרוֹמִמְךָ אֱלוֹהַי הַמֶּלֶךְ וַאֲבָרְכָה שִׁמְךָ לְעוֹלָם וָעֶֽד׃",
+      "ref": "Psalms 145:1"
+    },
+    {
+      "commentary": {},
+      "en": "Every day will I bless You<br>and praise Your name forever and ever.",
+      "he": "בְּכׇל־יוֹם אֲבָֽרְכֶךָּ וַאֲהַֽלְלָה שִׁמְךָ לְעוֹלָם וָעֶֽד׃",
+      "ref": "Psalms 145:2"
+    },
+    {
+      "commentary": {},
+      "en": "Great is the L<small>ORD</small> and much acclaimed;<br>His greatness cannot be fathomed.",
+      "he": "גָּדוֹל יְהֹוָה וּמְהֻלָּל מְאֹד וְלִגְדֻלָּתוֹ אֵין חֵֽקֶר׃",
+      "ref": "Psalms 145:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>Generation to generation will praise Your works</b> And I, too, shall speak of the majesty of the glory of Your splendor.",
+                      "he": "",
+                      "ref": "Translation on Rashi on Psalms 145:4:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<b>דור לדור ישבח מעשיך.</b> וגם אני הדר כבוד הודך אשיחה:",
+              "ref": "Rashi on Psalms 145:4:1",
+              "sourceHeRef": "רש\"י על תהילים קמה:ד:א",
+              "sourceRef": "Rashi on Psalms 145:4:1"
+            }
+          ]
+        }
+      },
+      "en": "One generation shall laud Your works to another<br>and declare Your mighty acts.",
+      "he": "דּוֹר לְדוֹר יְשַׁבַּח מַעֲשֶׂיךָ וּגְבוּרֹתֶיךָ יַגִּֽידוּ׃",
+      "ref": "Psalms 145:4"
+    },
+    {
+      "commentary": {},
+      "en": "The glorious majesty of Your splendor<br>and Your wondrous acts will I recite.",
+      "he": "הֲדַר כְּבוֹד הוֹדֶךָ וְדִבְרֵי נִפְלְאֹתֶיךָ אָשִֽׂיחָה׃",
+      "ref": "Psalms 145:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>And the strength of Your awesome deeds they will tell</b> And I, too, shall recite Your greatness.",
+                      "he": "",
+                      "ref": "Translation on Rashi on Psalms 145:6:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<b>ועזוז נוראותיך יאמרו.</b> וגם אני גדולתך אספרנה:",
+              "ref": "Rashi on Psalms 145:6:1",
+              "sourceHeRef": "רש\"י על תהילים קמה:ו:א",
+              "sourceRef": "Rashi on Psalms 145:6:1"
+            }
+          ]
+        }
+      },
+      "en": "Men shall talk of the might of Your awesome deeds,<br>and I will recount Your greatness.",
+      "he": "וֶעֱזוּז נֽוֹרְאֹתֶיךָ יֹאמֵרוּ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וגדלותיך)</span> <span class=\"mam-kq-q\">[וּגְדֻלָּתְךָ]</span></span> אֲסַפְּרֶֽנָּה׃",
+      "ref": "Psalms 145:6"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>Of the remembrance of Your abundant goodness they will speak</b> i.e., one generation to another generation. <b>and they will speak of Your might</b> to each other, saying, “It is good for us to make known to the children of men His mighty deeds and the glory of the majesty of the kingdom of the Holy One, blessed be He.” (I found.)",
+                      "he": "",
+                      "ref": "Translation on Rashi on Psalms 145:7:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<b>זכר רב טובך יביעו.</b> דור לדור גבורתך ידברו זה לזה לאמר טוב לנו להודיע לבני האדם גבורותיו וכבוד הדר מלכותו של הקב\"ה: <span class=\"parenthesized\">(מצאתי)</span>",
+              "ref": "Rashi on Psalms 145:7:1",
+              "sourceHeRef": "רש\"י על תהילים קמה:ז:א",
+              "sourceRef": "Rashi on Psalms 145:7:1"
+            }
+          ]
+        }
+      },
+      "en": "They shall celebrate Your abundant goodness,<br>and sing joyously of Your beneficence.",
+      "he": "זֵכֶר רַב־טוּבְךָ יַבִּיעוּ וְצִדְקָתְךָ יְרַנֵּֽנוּ׃",
+      "ref": "Psalms 145:7"
+    },
+    {
+      "commentary": {
+        "Verses": {
+          "comments": [
+            {
+              "en": "The L<small>ORD</small> passed before him and proclaimed: “The L<small>ORD</small>! the L<small>ORD</small>! a God compassionate and gracious, slow to anger, abounding in kindness and faithfulness,",
+              "he": "וַיַּעֲבֹ֨ר יְהֹוָ֥ה <span class=\"hebrew-emphasis\">׀</span> עַל־פָּנָיו֮ וַיִּקְרָא֒ יְהֹוָ֣ה <span class=\"hebrew-emphasis\">׀</span> יְהֹוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן אֶ֥רֶךְ אַפַּ֖יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת׃",
+              "link": "/Exodus/34",
+              "ref": "Exodus 34:6",
+              "sourceHeRef": "שמות לד:ו",
+              "sourceRef": "Exodus 34:6"
+            }
+          ]
+        }
+      },
+      "en": "The L<small>ORD</small> is gracious and compassionate,<br>slow to anger and abounding in kindness.",
+      "he": "חַנּוּן וְרַחוּם יְהֹוָה אֶרֶךְ אַפַּיִם וּגְדׇל־חָֽסֶד׃",
+      "ref": "Psalms 145:8"
+    },
+    {
+      "commentary": {
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>טוב ה' לקוו.</b> כתיב <span class=\"parenthesized\">(תהלים קמ\"ה)</span> טוב ה׳ לכל וכתיב טוב ה׳ לקויו, הא כיצד, משל לאדם שיש לו פרדס, כשהוא משקה משקה את כולו, וכשהוא עודר אינו עודר אלא הטובים שבהם [סנהדרין ל\"ט ב׳].",
+              "ref": "Torah Temimah on Lamentations 3:25:1",
+              "sourceHeRef": "תורה תמימה על איכה ג:כה:א",
+              "sourceRef": "Torah Temimah on Lamentations 3:25:1"
+            },
+            {
+              "en": "",
+              "he": "<b>ותקרבנה בנות צלפחד. </b>כיון ששמעו בנות צלפחד שהארץ מתחלקת לשבטים ולא לנקבות, נתקבצו כולן ליטול עצה, אמרו, לא כרחמי בשר ודם רחמי הקב\"ה, בשר ודם רחמיו על הזכרים יותר מעל הנקבות, אבל הקב\"ה רחמיו על הכל שנא' <span class=\"parenthesized\">(תהלים קמ\"ה)</span> ורחמיו על כל מעשיו [ספרי].",
+              "ref": "Torah Temimah on Torah, Numbers 27:1:1",
+              "sourceHeRef": "תורה תמימה על התורה, במדבר כז:א:א",
+              "sourceRef": "Torah Temimah on Torah, Numbers 27:1:1"
+            }
+          ]
+        }
+      },
+      "en": "The L<small>ORD</small> is good to all,<br>and His mercy is upon all His works.",
+      "he": "טוֹב־יְהֹוָה לַכֹּל וְרַחֲמָיו עַל־כׇּל־מַעֲשָֽׂיו׃",
+      "ref": "Psalms 145:9"
+    },
+    {
+      "commentary": {},
+      "en": "All Your works shall praise You, O L<small>ORD</small>,<br>and Your faithful ones shall bless You.",
+      "he": "יוֹדוּךָ יְהֹוָה כׇּל־מַעֲשֶׂיךָ וַחֲסִידֶיךָ יְבָרְכֽוּכָה׃",
+      "ref": "Psalms 145:10"
+    },
+    {
+      "commentary": {},
+      "en": "They shall talk of the majesty of Your kingship,<br>and speak of Your might,",
+      "he": "כְּבוֹד מַלְכוּתְךָ יֹאמֵרוּ וּגְבוּרָתְךָ יְדַבֵּֽרוּ׃",
+      "ref": "Psalms 145:11"
+    },
+    {
+      "commentary": {},
+      "en": "to make His mighty acts known among men<br>and the majestic glory of His kingship.",
+      "he": "לְהוֹדִיעַ <b></b> לִבְנֵי הָאָדָם גְּבוּרֹתָיו וּכְבוֹד הֲדַר מַלְכוּתֽוֹ׃",
+      "ref": "Psalms 145:12"
+    },
+    {
+      "commentary": {
+        "Verses": {
+          "comments": [
+            {
+              "en": "Dominion, glory, and kingship were given to him;<br>All peoples and nations of every language must serve him.<br>His dominion is an everlasting dominion that shall not pass away,<br>And his kingship, one that shall not be destroyed.",
+              "he": "וְלֵ֨הּ יְהִ֤ב שׇׁלְטָן֙ וִיקָ֣ר וּמַלְכ֔וּ וְכֹ֣ל עַֽמְמַיָּ֗א אֻמַּיָּ֛א וְלִשָּׁנַיָּ֖א לֵ֣הּ יִפְלְח֑וּן שׇׁלְטָנֵ֞הּ שׇׁלְטָ֤ן עָלַם֙ דִּֽי־לָ֣א יֶעְדֵּ֔ה וּמַלְכוּתֵ֖הּ דִּי־לָ֥א תִתְחַבַּֽל׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+              "link": "/Daniel/7",
+              "ref": "Daniel 7:14",
+              "sourceHeRef": "דניאל ז:יד",
+              "sourceRef": "Daniel 7:14"
+            },
+            {
+              "en": "How great are His signs; how mighty His wonders! His kingdom is an everlasting kingdom, and His dominion endures throughout the generations.”",
+              "he": "אָת֙וֹהִי֙ כְּמָ֣ה רַבְרְבִ֔ין וְתִמְה֖וֹהִי כְּמָ֣ה תַקִּיפִ֑ין מַלְכוּתֵהּ֙ מַלְכ֣וּת עָלַ֔ם וְשׇׁלְטָנֵ֖הּ עִם־דָּ֥ר וְדָֽר׃",
+              "link": "/Daniel/3",
+              "ref": "Daniel 3:33",
+              "sourceHeRef": "דניאל ג:לג",
+              "sourceRef": "Daniel 3:33"
+            }
+          ]
+        }
+      },
+      "en": "Your kingship is an eternal kingship;<br>Your dominion is for all generations.",
+      "he": "מַֽלְכוּתְךָ מַלְכוּת כׇּל־עֹלָמִים וּמֶֽמְשַׁלְתְּךָ בְּכׇל־דּוֹר וָדֹֽר׃",
+      "ref": "Psalms 145:13"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>supports</b> (The “nun” is missing from the “aleph-beth” because David saw in it a serious downfall [Amos 5:2]: “The virgin of Israel has fallen and shall not continue to rise.” And he returned and supported her with the holy spirit: The Lord supports all those who fall.)",
+                      "he": "",
+                      "ref": "Translation on Rashi on Psalms 145:14:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Fallen, not to rise again,<br>Is Maiden Israel;<br>Abandoned on her soil<br>With none to lift her up.",
+                      "he": "נָֽפְלָה֙ לֹא־תוֹסִ֣יף ק֔וּם בְּתוּלַ֖ת יִשְׂרָאֵ֑ל נִטְּשָׁ֥ה עַל־אַדְמָתָ֖הּ אֵ֥ין מְקִימָֽהּ׃",
+                      "link": "/Amos/5",
+                      "ref": "Amos 5:2",
+                      "sourceHeRef": "עמוס ה:ב",
+                      "sourceRef": "Amos 5:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "נו\"ן חסרה מאלפ\"א בית\"א לפי שראה דוד בה מפלה קשה נפלה ולא תוסיף קום בתולת ישראל <span class=\"parenthesized\">(עמוס ה, ב)</span> וחזר וסמכה ברוח הקודש סומך ה' לכל הנופלים:",
+              "ref": "Rashi on Psalms 145:14:1",
+              "sourceHeRef": "רש\"י על תהילים קמה:יד:א",
+              "sourceRef": "Rashi on Psalms 145:14:1"
+            }
+          ]
+        }
+      },
+      "en": "The L<small>ORD</small> supports all who stumble,<br>and makes all who are bent stand straight.",
+      "he": "סוֹמֵךְ יְהֹוָה לְכׇל־הַנֹּפְלִים וְזוֹקֵף לְכׇל־הַכְּפוּפִֽים׃",
+      "ref": "Psalms 145:14"
+    },
+    {
+      "commentary": {
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "כשיבוא אדם לברך על מאכל, נכון שיאחז אותו בידו הימנית, שעל ידי כך הברכה תיאמר בריכוז וכבוד <span class=\"parenthesized\">(כמבואר להלן ט, ד)</span>. ולגבי הלחם ישנו דין מיוחד, שמפני חשיבותו היתירה, טוב לאחוז בו בעת הברכה בשתי הידיים ובעשר האצבעות, לרמוז לעשר המצוות הכרוכות בעשיית הפת <span class=\"parenthesized\">(שו\"ע או\"ח קסז, ד; משנה ברורה קסז, כד)</span>.",
+                      "ref": "Peninei Halakhah, Berakhot 3:2:2",
+                      "sourceHeRef": "ברכות ג:ב:ב",
+                      "sourceRef": "Berakhot 3:2:2"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "You make the grass grow for the cattle,<br>and herbage for man’s labor<br>that he may get food out of the earth—",
+                      "he": "מַצְמִ֤יחַ חָצִ֨יר <b>׀</b> לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן־הָאָֽרֶץ׃",
+                      "link": "/Psalms/104",
+                      "ref": "Psalms 104:14",
+                      "sourceHeRef": "תהילים קד:יד",
+                      "sourceRef": "Psalms 104:14"
+                    },
+                    {
+                      "en": "a land of wheat and barley, of vines, figs, and pomegranates, a land of olive trees and honey;",
+                      "he": "אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ־זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ׃",
+                      "link": "/Deuteronomy/8",
+                      "ref": "Deuteronomy 8:8",
+                      "sourceHeRef": "דברים ח:ח",
+                      "sourceRef": "Deuteronomy 8:8"
+                    }
+                  ]
+                }
+              },
+              "en": "Put both hands on the bread when you are about to bless \"Hamotzi\"; for the 10 fingers are reflective of the 10 mitzvot that are dependent on bread. Additionally, there are 10 words in the blessing of \"Hamotzi\" and 10 words in the following verses: Psalms 104:14, \"He causes the grass to grow for the cattle, and grass for the service of man: that he may bring forth bread out of the land.\" Psalms 145:15, \"The eyes of all look to you expectantly, and you give them their food at the proper time.\" Deuteronomy 8:8, \"A land of wheat and barley, of vines, figs, and pomegranates, a land of olive trees and honey.\" Bresheit 27:28, \"May G!d give you from the dew of heaven and fat of the earth, and an abundance of grain and wine.\"",
+              "he": "יתן שתי ידיו על הפת בשעת ברכה שיש בהן י' אצבעות כנגד י' מצות התלויות בפת ולכך יש י' תיבות בברכת המוציא וי' תיבות בפסוק מצמיח חציר לבהמה וי' תיבות בפסוק עיני כל אליך ישברו וי' תיבות בפסוק ארץ חטה ושעורה וי' תיבות בפסוק ויתן לך:",
+              "ref": "Shulchan Arukh, Orach Chayim 167:4",
+              "sourceHeRef": "אורח חיים קסז:ד - מקום וזמן הבציעה ומי הוא הבוצע.",
+              "sourceRef": "Orach Chayim 167:4"
+            }
+          ]
+        }
+      },
+      "en": "The eyes of all look to You expectantly,<br>and You give them their food when it is due.",
+      "he": "עֵֽינֵי־כֹל אֵלֶיךָ יְשַׂבֵּרוּ וְאַתָּה נֽוֹתֵן־לָהֶם אֶת־אׇכְלָם בְּעִתּֽוֹ׃",
+      "ref": "Psalms 145:15"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>and satisfy every living thing [with] its desire</b> With a sufficiency to sustain him, He satisfies his goodness, his will, and his blessing. <b>desire</b> Heb. רצון, apayement in Old French, propitiation.",
+                      "he": "",
+                      "ref": "Translation on Rashi on Psalms 145:16:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<b>ומשביע לכל חי רצון.</b> כדי פרנסתו הוא משביע את טובו ואת רצונו ואת ברכתו רצון. אפיימנ\"ט בלע\"ז:",
+              "ref": "Rashi on Psalms 145:16:1",
+              "sourceHeRef": "רש\"י על תהילים קמה:טז:א",
+              "sourceRef": "Rashi on Psalms 145:16:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Let all that breathes praise the L<small>ORD</small>.<br>Hallelujah.",
+                      "he": "כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃",
+                      "link": "/Psalms/150",
+                      "ref": "Psalms 150:6",
+                      "sourceHeRef": "תהילים קנ:ו",
+                      "sourceRef": "Psalms 150:6"
+                    },
+                    {
+                      "en": "The L<small>ORD</small> will reign for ever and ever!",
+                      "he": "יְהֹוָ֥ה <span class=\"hebrew-emphasis\">׀</span> יִמְלֹ֖ךְ לְעֹלָ֥ם וָעֶֽד׃",
+                      "link": "/Exodus/15",
+                      "ref": "Exodus 15:18",
+                      "sourceHeRef": "שמות טו:יח",
+                      "sourceRef": "Exodus 15:18"
+                    }
+                  ]
+                }
+              },
+              "en": "One should focus one's heart during the verse \"You open Your hand...\" and if he does not focus then he must return and say the verse again. <small>Rem\"a: And we say the verse \"And we shall praise the Lord\" (Psalms 115:18) after the verse \"A praise, of David...\" (Psalms 145:1) (ie. at the end of Ashrei) [Tur and the Kol Bo]. And we double-recite the verse \"Let every living soul praise the Lord\" (Psalms 150:6) because it is the conclusion of \"The Psalms of Praise\" (Tur), and so too for the verse \"The Lord will rule forever and ever\" (Exodus 15:18) [Abudraham]. When one comes to \"And now, Hashem our God, we thank you\" or to the verse \"And every upright one shall prostrate himself before You\" one should not bow or prostrate there as it is written below in section 113 [Rebbi Yitzchak, at the end of the chapter \"Ein Omdin,\" and Rabbeinu Yerucham Pathway 1]. And it is customary to stand when we say \"Baruch She'amar\" and \"And David Blessed\" and \"Yishtabach.\"</small>",
+              "he": "צריך לכוין בפ' פותח את ידיך ואם לא כוון צריך לחזור ולאומרו פעם אחרת: <span class=\"hebrew-emphasis\">הגה ואומרים פסוק ואנחנו נברך יה אחר תהלה לדוד [טור וכל בו] וכופלין פסוק כל הנשמה תהלל יה לפי שהוא סוף פסוקי דזמרה (טור) וכן פסוק ה' ימלוך לעולם ועד [אבודרהם] כשמגיע לועתה ה' אלהינו מודים אנחנו לך או לפ' וכל קומה לפניך תשתחוה אין לשחות ולהשתחות שם כדלקמן סי' קי\"ג [הר\"י ס\"פ אין עומדין ורבי' ירוחם נתיב א'] ונהגו לעמוד כשאומרים ברוך שאמר ויברך דוד וישתבח:</span>",
+              "ref": "Shulchan Arukh, Orach Chayim 51:7",
+              "sourceHeRef": "אורח חיים נא:ז - דיני תפלה מן ברוך שאמר עד ישתבח.",
+              "sourceRef": "Orach Chayim 51:7"
+            }
+          ]
+        }
+      },
+      "en": "You give it openhandedly,<br>feeding every creature to its heart’s content.",
+      "he": "<big>פּוֹתֵחַ אֶת־יָדֶךָ וּמַשְׂבִּיעַ לְכׇל־חַי רָצֽוֹן׃</big>",
+      "ref": "Psalms 145:16"
+    },
+    {
+      "commentary": {},
+      "en": "The L<small>ORD</small> is beneficent in all His ways<br>and faithful in all His works.",
+      "he": "צַדִּיק יְהֹוָה בְּכׇל־דְּרָכָיו וְחָסִיד בְּכׇל־מַעֲשָֽׂיו׃",
+      "ref": "Psalms 145:17"
+    },
+    {
+      "commentary": {},
+      "en": "The L<small>ORD</small> is near to all who call Him,<br>to all who call Him with sincerity.",
+      "he": "קָרוֹב יְהֹוָה לְכׇל־קֹרְאָיו לְכֹל אֲשֶׁר יִקְרָאֻהוּ בֶֽאֱמֶֽת׃",
+      "ref": "Psalms 145:18"
+    },
+    {
+      "commentary": {
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "The Sages teach (Berakhot 31a; SA 93:2), “One should not stand to pray while in a state of sadness or ennui.” Prayer elevates people. Therefore, one must approach prayer out of happiness, knowing that she is about to be uplifted and brought closer to God.",
+                      "he": "אמרו חכמים <span class=\"parenthesized\">(ברכות לא, א; שו\"ע או\"ח צג, ב)</span>: \"אין עומדים להתפלל לא מתוך עצבות ולא מתוך עצלות\". התפילה מרוממת את האדם, ולכן צריך לבוא אל התפילה מתוך שמחה, על כך שהוא עומד להתרומם ולהתקרב אליו יתברך.",
+                      "ref": "Peninei Halakhah, Women's Prayer 10:1:2",
+                      "sourceHeRef": "תפילת נשים י:א:ב",
+                      "sourceRef": "Women's Prayer 10:1:2"
+                    },
+                    {
+                      "en": "In the prayer service for men, the Sages instituted the recitation of joyful and heartwarming words prior to reciting the Amida in order to settle the mind; before Shaḥarit and Ma’ariv, we recite the berakha of “Ga’al Yisrael” (“Who redeemed Israel”), and before the Minḥa Amida we say Ashrei (SA 93:2). Although women are not obligated to recite these prayers, it is at least incumbent upon every woman to pause for a few seconds, about the amount of time it takes to walk the distance of four amot, before praying, in order to settle her mind.",
+                      "he": "בסדר תפילת הגברים, תקנו חכמים לומר לפני תפילת עמידה דברים שמחים המיישבים את הלב; לפני שחרית וערבית, ברכת \"גאל ישראל\", ולפני מנחה \"אשרי יושבי ביתך\" <span class=\"parenthesized\">(שו\"ע או\"ח צג, ב)</span>. אמנם נשים אינן חייבות בזה, אבל לכל הפחות, על כל אשה לשהות כמה שניות כדי הילוך ארבע אמות לפני תפילתה, כדי ליישב את דעתה.",
+                      "ref": "Peninei Halakhah, Women's Prayer 10:1:4",
+                      "sourceHeRef": "תפילת נשים י:א:ד",
+                      "sourceRef": "Women's Prayer 10:1:4"
+                    },
+                    {
+                      "en": "The Chachamim teach (Berachot 31a; Shulchan Aruch 93:2), “One should not pray out of laughter,” because laughter nullifies one’s awe for God, and a person must pray out of fear and submission. “Nor amidst talk,” because chatter distracts a person from his inner world and prayer is supposed to emerge from the depths of one’s soul. “Nor from lightheadedness and idle words,” because prayer is based on the recognition of one’s ability to do wonders with his speech, and if a person comes to prayer with idle words, he demonstrates that he does not value his speech (see Olat Ra’ayah, part 1, p. 29).",
+                      "he": "אמרו חכמים <span class=\"parenthesized\">(ברכות לא, א; שו\"ע או\"ח צג, ב)</span>: \"לא יתפלל מתוך שחוק\", משום שהשחוק מבטל את יראת ה', וצריך להתפלל מתוך אימה והכנעה. \"ולא מתוך שיחה\", משום שהשיחה מסיחה את דעתו של האדם מעולמו הפנימי, ואילו התפילה צריכה לנבוע מעומק הנפש. \"ולא מתוך קלות ראש ודברים בטלים\", משום שהתפילה מבוססת על ההכרה בערכו של האדם לפעול גדולות בדיבורו, ואם הוא בא להתפלל מתוך דיבורים בטלים, מראה בעצמו שאינו מעריך את דיבורו <span class=\"parenthesized\">(עיין עולת ראיה ח\"א עמ' כט)</span>.",
+                      "ref": "Peninei Halakhah, Prayer 5:1:3",
+                      "sourceHeRef": "תפילה ה:א:ג",
+                      "sourceRef": "Prayer 5:1:3"
+                    },
+                    {
+                      "en": "The Chachamim instituted the recital of uplifting verses prior to praying the Amidah, so that before the Amidah people would be engrossed in inspiring and elating matters. Before Shacharit and Ma’ariv, we recite the berachah, “Ga’al Yisrael,” and before Minchah we say Ashrei (Shulchan Aruch 93:2).",
+                      "he": "כדי שלכל הפחות בדקות הסמוכות לתפילה יעסקו בדברים מרוממים ומשמחים, תקנו חכמים לומר לפני תפילת עמידה דברים משמחים: לפני תפילת שחרית וערבית אומרים את ברכת 'גאל ישראל', ולפני תפילת מנחה אומרים 'אשרי' <span class=\"parenthesized\">(שו\"ע או\"ח צג, ב)</span>.",
+                      "ref": "Peninei Halakhah, Prayer 5:1:6",
+                      "sourceHeRef": "תפילה ה:א:ו",
+                      "sourceRef": "Prayer 5:1:6"
+                    }
+                  ]
+                }
+              },
+              "en": "One should stand to pray with reverence and humility and not in the midst of laughter, frivolity or purposeless matters, and not in the midst of anger. Rather [he should pray] in the midst of joy, like the words of comfort from the Torah, for example those that follow the redemption from Egypt [i.e. the blessing after the Recitation of the Sh'ma] or that follow Tehila l'David [i.e. Psalm 145], where it is written in it \"He will do the will of those who revere Him\" [and] \"Hashem guards all those who love Him.\" [Psalms 145:19-20].",
+              "he": "לא יעמוד להתפלל אלא באימה והכנעה ולא מתוך שחוק וקלות ראש ודברים בטלים ולא מתוך כעס אלא מתוך שמחה כגון דברי תנחומין של תורה כגון סמוך לגאולת מצרים או סמוך לתהלה לדוד שכתוב בו רצון יראיו יעשה שומר ה' את כל אוהביו:",
+              "ref": "Shulchan Arukh, Orach Chayim 93:2",
+              "sourceHeRef": "אורח חיים צג:ב - קודם שיתפלל צריך לשהות.",
+              "sourceRef": "Orach Chayim 93:2"
+            }
+          ]
+        }
+      },
+      "en": "He fulfills the wishes of those who fear Him;<br>He hears their cry and delivers them.",
+      "he": "רְצוֹן־יְרֵאָיו יַעֲשֶׂה וְֽאֶת־שַׁוְעָתָם יִשְׁמַע וְיוֹשִׁיעֵֽם׃",
+      "ref": "Psalms 145:19"
+    },
+    {
+      "commentary": {},
+      "en": "The L<small>ORD</small> watches over all who love Him,<br>but all the wicked He will destroy.",
+      "he": "שׁוֹמֵר יְהֹוָה אֶת־כׇּל־אֹהֲבָיו וְאֵת כׇּל־הָרְשָׁעִים יַשְׁמִֽיד׃",
+      "ref": "Psalms 145:20"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>My mouth will speak the praise of the Lord</b> and also all flesh will bless His holy name forever and ever.",
+                      "he": "",
+                      "ref": "Translation on Rashi on Psalms 145:21:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<b>תהלת ה' ידבר פי.</b> וגם כל בשר יברך את שם קדשו לעולם ועד:",
+              "ref": "Rashi on Psalms 145:21:1",
+              "sourceHeRef": "רש\"י על תהילים קמה:כא:א",
+              "sourceRef": "Rashi on Psalms 145:21:1"
+            }
+          ]
+        }
+      },
+      "en": "My mouth shall utter the praise of the L<small>ORD</small>,<br>and all creatures shall bless His holy name forever and ever.",
+      "he": "תְּהִלַּת יְהֹוָה יְֽדַבֶּר<span class=\"mam-implicit-maqaf\">־</span>פִּי וִיבָרֵךְ כׇּל־בָּשָׂר שֵׁם קׇדְשׁוֹ לְעוֹלָם וָעֶֽד׃",
+      "ref": "Psalms 145:21"
+    },
+    {
+      "commentary": {
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Let all that breathes praise the L<small>ORD</small>.<br>Hallelujah.",
+                      "he": "כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃",
+                      "link": "/Psalms/150",
+                      "ref": "Psalms 150:6",
+                      "sourceHeRef": "תהילים קנ:ו",
+                      "sourceRef": "Psalms 150:6"
+                    },
+                    {
+                      "en": "The L<small>ORD</small> will reign for ever and ever!",
+                      "he": "יְהֹוָ֥ה <span class=\"hebrew-emphasis\">׀</span> יִמְלֹ֖ךְ לְעֹלָ֥ם וָעֶֽד׃",
+                      "link": "/Exodus/15",
+                      "ref": "Exodus 15:18",
+                      "sourceHeRef": "שמות טו:יח",
+                      "sourceRef": "Exodus 15:18"
+                    }
+                  ]
+                }
+              },
+              "en": "One should focus one's heart during the verse \"You open Your hand...\" and if he does not focus then he must return and say the verse again. <small>Rem\"a: And we say the verse \"And we shall praise the Lord\" (Psalms 115:18) after the verse \"A praise, of David...\" (Psalms 145:1) (ie. at the end of Ashrei) [Tur and the Kol Bo]. And we double-recite the verse \"Let every living soul praise the Lord\" (Psalms 150:6) because it is the conclusion of \"The Psalms of Praise\" (Tur), and so too for the verse \"The Lord will rule forever and ever\" (Exodus 15:18) [Abudraham]. When one comes to \"And now, Hashem our God, we thank you\" or to the verse \"And every upright one shall prostrate himself before You\" one should not bow or prostrate there as it is written below in section 113 [Rebbi Yitzchak, at the end of the chapter \"Ein Omdin,\" and Rabbeinu Yerucham Pathway 1]. And it is customary to stand when we say \"Baruch She'amar\" and \"And David Blessed\" and \"Yishtabach.\"</small>",
+              "he": "צריך לכוין בפ' פותח את ידיך ואם לא כוון צריך לחזור ולאומרו פעם אחרת: <span class=\"hebrew-emphasis\">הגה ואומרים פסוק ואנחנו נברך יה אחר תהלה לדוד [טור וכל בו] וכופלין פסוק כל הנשמה תהלל יה לפי שהוא סוף פסוקי דזמרה (טור) וכן פסוק ה' ימלוך לעולם ועד [אבודרהם] כשמגיע לועתה ה' אלהינו מודים אנחנו לך או לפ' וכל קומה לפניך תשתחוה אין לשחות ולהשתחות שם כדלקמן סי' קי\"ג [הר\"י ס\"פ אין עומדין ורבי' ירוחם נתיב א'] ונהגו לעמוד כשאומרים ברוך שאמר ויברך דוד וישתבח:</span>",
+              "ref": "Shulchan Arukh, Orach Chayim 51:7",
+              "sourceHeRef": "אורח חיים נא:ז - דיני תפלה מן ברוך שאמר עד ישתבח.",
+              "sourceRef": "Orach Chayim 51:7"
+            },
+            {
+              "commentary": {
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "Even though the mitzva to confess is primarily on Yom Kippur, our Sages instituted the recitation of <i>vidui</i> before the <i>se’uda ha-mafseket</i> as well. This was out of concern that someone might get drunk during the meal and thus be unable to confess on Yom Kippur itself. Therefore, the custom is to recite <i>Minḥa</i> before the meal and to confess then, during the silent <i>Amida</i> (<i>Yoma</i> 87b; SA 607:1).",
+                      "he": "אף שעיקר מצוות הוידוי לאומרו ביום הכיפורים, תקנו חכמים להקדים ולומר וידוי לפני סעודה מפסקת, שמא ישתכר בסעודה ולא יוכל להתוודות בכניסת היום. לפיכך נוהגים להתפלל מנחה לפני סעודה מפסקת, ואומרים וידוי בסוף תפילת לחש <span class=\"parenthesized\">(יומא פז, ב; שו\"ע או\"ח תרז, א)</span>.",
+                      "ref": "Peninei Halakhah, Days of Awe 5:10:8",
+                      "sourceHeRef": "ימים נוראים ה:י:ח",
+                      "sourceRef": "Days of Awe 5:10:8"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Cain said to the L<small>ORD</small>, “My punishment is too great to bear!",
+                      "he": "וַיֹּ֥אמֶר קַ֖יִן אֶל־יְהֹוָ֑ה גָּד֥וֹל עֲוֺנִ֖י מִנְּשֹֽׂא׃",
+                      "link": "/Genesis/4",
+                      "ref": "Genesis 4:13",
+                      "sourceHeRef": "בראשית ד:יג",
+                      "sourceRef": "Genesis 4:13"
+                    },
+                    {
+                      "en": "The sons of Dishon were these: Hemdan, Eshban, Ithran, and Cheran.",
+                      "he": "וְאֵ֖לֶּה בְּנֵ֣י דִישָׁ֑ן חֶמְדָּ֥ן וְאֶשְׁבָּ֖ן וְיִתְרָ֥ן וּכְרָֽן׃",
+                      "link": "/Genesis/36",
+                      "ref": "Genesis 36:26",
+                      "sourceHeRef": "בראשית לו:כו",
+                      "sourceRef": "Genesis 36:26"
+                    },
+                    {
+                      "en": [
+                        "Then Joshua said to Achan, “My son, pay honor to the L<small>ORD</small>, the God of Israel, and make confession to Him. Tell me what you have done; do not hold anything back from me.”",
+                        "Achan answered Joshua, “It is true, I have sinned against the L<small>ORD</small>, the God of Israel. This is what I did:",
+                        "I saw among the spoil a fine Shinar mantle, two hundred shekels of silver, and a wedge of gold weighing fifty shekels, and I coveted them and took them. They are buried in the ground in my tent, with the silver under it.”"
+                      ],
+                      "he": [
+                        "וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל־עָכָ֗ן בְּנִי֙ שִֽׂים־נָ֣א כָב֗וֹד לַיהֹוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל וְתֶן־ל֣וֹ תוֹדָ֑ה וְהַגֶּד־נָ֥א לִי֙ מֶ֣ה עָשִׂ֔יתָ אַל־תְּכַחֵ֖ד מִמֶּֽנִּי׃",
+                        "וַיַּ֧עַן עָכָ֛ן אֶת־יְהוֹשֻׁ֖עַ וַיֹּאמַ֑ר אׇמְנָ֗ה אָֽנֹכִ֤י חָטָ֙אתִי֙ לַֽיהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וְכָזֹ֥את וְכָזֹ֖את עָשִֽׂיתִי׃",
+                        "<span class=\"mam-kq\"><span class=\"mam-kq-k\"><span class=\"parenthesized\">(ואראה)</span></span> <span class=\"mam-kq-q\">[וָאֵ֣רֶא]</span></span> בַשָּׁלָ֡ל אַדֶּ֣רֶת שִׁנְעָר֩ אַחַ֨ת טוֹבָ֜ה וּמָאתַ֧יִם שְׁקָלִ֣ים כֶּ֗סֶף וּלְשׁ֨וֹן זָהָ֤ב אֶחָד֙ חֲמִשִּׁ֤ים שְׁקָלִים֙ מִשְׁקָל֔וֹ וָאֶחְמְדֵ֖ם וָאֶקָּחֵ֑ם וְהִנָּ֨ם טְמוּנִ֥ים בָּאָ֛רֶץ בְּת֥וֹךְ הָאׇהֳלִ֖י וְהַכֶּ֥סֶף תַּחְתֶּֽיהָ׃"
+                      ],
+                      "link": "/Joshua/7",
+                      "ref": "Joshua 7:19-21",
+                      "sourceHeRef": "יהושע ז:יט-כא",
+                      "sourceRef": "Joshua 7:19-21"
+                    },
+                    {
+                      "en": [
+                        "Saul said to Samuel, “I did wrong to transgress the L<small>ORD</small>’s command and your instructions; but I was afraid of the troops and I yielded to them.",
+                        "Please, forgive my offense and come back with me, and I will bow low to the L<small>ORD</small>.”"
+                      ],
+                      "he": [
+                        "וַיֹּ֨אמֶר שָׁא֤וּל אֶל־שְׁמוּאֵל֙ חָטָ֔אתִי כִּֽי־עָבַ֥רְתִּי אֶת־פִּֽי־יְהֹוָ֖ה וְאֶת־דְּבָרֶ֑יךָ כִּ֤י יָרֵ֙אתִי֙ אֶת־הָעָ֔ם וָאֶשְׁמַ֖ע בְּקוֹלָֽם׃",
+                        "וְעַתָּ֕ה שָׂ֥א נָ֖א אֶת־חַטָּאתִ֑י וְשׁ֣וּב עִמִּ֔י וְאֶֽשְׁתַּחֲוֶ֖ה לַיהֹוָֽה׃"
+                      ],
+                      "link": "/I Samuel/15",
+                      "ref": "I Samuel 15:24-25",
+                      "sourceHeRef": "שמואל א טו:כד-כה",
+                      "sourceRef": "I Samuel 15:24-25"
+                    },
+                    {
+                      "en": "Moses went back to the L<small>ORD</small> and said, “Alas, this people is guilty of a great sin in making for themselves a god of gold.",
+                      "he": "וַיָּ֧שׇׁב מֹשֶׁ֛ה אֶל־יְהֹוָ֖ה וַיֹּאמַ֑ר אָ֣נָּ֗א חָטָ֞א הָעָ֤ם הַזֶּה֙ חֲטָאָ֣ה גְדֹלָ֔ה וַיַּֽעֲשׂ֥וּ לָהֶ֖ם אֱלֹהֵ֥י זָהָֽב׃",
+                      "link": "/Exodus/32",
+                      "ref": "Exodus 32:31",
+                      "sourceHeRef": "שמות לב:לא",
+                      "sourceRef": "Exodus 32:31"
+                    },
+                    {
+                      "en": "Aaron is to offer his own bull of sin offering, to make expiation for himself and for his household.",
+                      "he": "וְהִקְרִ֧יב אַהֲרֹ֛ן אֶת־פַּ֥ר הַחַטָּ֖את אֲשֶׁר־ל֑וֹ וְכִפֶּ֥ר בַּעֲד֖וֹ וּבְעַ֥ד בֵּיתֽוֹ׃",
+                      "link": "/Leviticus/16",
+                      "ref": "Leviticus 16:6",
+                      "sourceHeRef": "ויקרא טז:ו",
+                      "sourceRef": "Leviticus 16:6"
+                    },
+                    {
+                      "en": "He shall lay his hand upon the head of the burnt offering, that it may be acceptable in his behalf, in expiation for him.",
+                      "he": "וְסָמַ֣ךְ יָד֔וֹ עַ֖ל רֹ֣אשׁ הָעֹלָ֑ה וְנִרְצָ֥ה ל֖וֹ לְכַפֵּ֥ר עָלָֽיו׃",
+                      "link": "/Leviticus/1",
+                      "ref": "Leviticus 1:4",
+                      "sourceHeRef": "ויקרא א:ד",
+                      "sourceRef": "Leviticus 1:4"
+                    },
+                    {
+                      "en": "For on this day atonement shall be made for you to cleanse you of all your sins; you shall be clean before the L<small>ORD</small>.",
+                      "he": "כִּֽי־בַיּ֥וֹם הַזֶּ֛ה יְכַפֵּ֥ר עֲלֵיכֶ֖ם לְטַהֵ֣ר אֶתְכֶ֑ם מִכֹּל֙ חַטֹּ֣אתֵיכֶ֔ם לִפְנֵ֥י יְהֹוָ֖ה תִּטְהָֽרוּ׃",
+                      "link": "/Leviticus/16",
+                      "ref": "Leviticus 16:30",
+                      "sourceHeRef": "ויקרא טז:ל",
+                      "sourceRef": "Leviticus 16:30"
+                    }
+                  ]
+                }
+              },
+              "en": "<b>“The order of confession (of sins)</b> <b>during <i>Minḥah</i></b> <b>(the Afternoon Prayer) on the Eve of Yom Kippur” - Containing six paragraphs.</b><br>One needs to confess during <i>Minḥah</i> (the Afternoon Prayer) before the (last) meal before fasting.<br><small><i>Hagah</i>: If one is alone he says it (the confessional) after he finished his Silent Prayer, but the public reader says his (confessional) on Yom Kippur during the Silent Prayer, (<span dir=\"ltr\">טור</span>).</small>",
+              "he": "צריך להתודות במנחה קודם סעודה המפסקת: <span class=\"hebrew-emphasis\">הגה ויחיד אומרו אחר שגמר תפלתו וש\"ץ אומרו ביו\"כ בתוך התפלה (טור)</span>:",
+              "ref": "Shulchan Arukh, Orach Chayim 607:1",
+              "sourceHeRef": "אורח חיים תרז:א - סדר הוידוי במנחה בערב יום כפור",
+              "sourceRef": "Orach Chayim 607:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "(Psalms 115:1–18)<br><b>Psalms 115</b><br>A psalm expressing thankfulness for the fact that Israel, as opposed to other nations, had the privilege of choosing God.",
+              "he": "<span class=\"parenthesized\">(תהילים קט״ו: א׳-י״ח)</span><br><b>תהילים קט״ו</b><br>מזמור תודה על הקשר של עם ישראל עם אלוקיו. אל התודה מתלוות גם קריאות של המשורר לאגפים שונים בעם ישראל לבטוח בה' וקריאותיו אל ה' לברך את חלקי העם. הוא מסתיים בהצהרה על הזכות והחובה של בני ישראל, שזכו בברכת ה' והם חיים על פני האדמה לברכו ולהללו.",
+              "ref": "Steinsaltz Introductions to Tanakh, Psalms, Section Preface 115",
+              "sourceHeRef": "ביאור שטיינזלץ, הקדמות לתנ\"ך, תהילים, מבוא לקטע קט״ו",
+              "sourceRef": "Steinsaltz Introductions to Tanakh, Psalms, Section Preface 115"
+            },
+            {
+              "en": [
+                "The book of Psalms is unique among the books of the Bible. Taken as a whole, the Bible depicts the relationship between God and mankind, and more particularly between God and the people of Israel. In most books of the Bible, the relationship is primarily portrayed as proceeding from the top down, from God to man. By contrast, Psalms is the only book of the Bible where the relationship flows in the opposite direction, from man to God, in other words, where an individual turns to God and communicates with Him. Psalms is traditionally divided into five books, containing a total of 150 chapters. Some suggest that these are meant to correspond to the five books of the Torah. This parallelism also serves to illustrate that the relationship between God and man runs in both directions. Thus, despite their wide variation in subject matter and tone, the individual chapters comprising Psalms are all narrated from a human perspective, with all the limitations and complexity this entails.<br>The Hebrew title of the book, <i>Tehillim</i>, means “praises,” and there is much in the way of praise in its chapters. Yet Psalms is much more than a compendium of ways to praise God. In fact, one can find in it almost any thought or feeling a person might wish to express to God. It includes a wide variety of poetic forms, with personal poetry alongside epic poems, as well as philosophical musings and introspection on matters pertaining to the nation of Israel and to mankind. But what pervades all of the psalms, whether clearly expressed or implicit, is the voice of the individual psalmist.<br>Just as the topics of the psalms vary, so does the persona of the psalmist. The psalmist is seen as alternately dejected and elated; there are psalms of defeat and surrender alongside powerful, exultant victory songs. Moreover, some of the psalms express disquiet, originating in a crisis of faith or a grievance, whereas others bespeak peace and tranquility. To use a musical metaphor, some psalms are staccato, others legato; some largo, others presto. In similar fashion, the psalmist can be compared to a harp, each of whose many strings has its own unique sound while simultaneously working in harmony. Psalms deals with a number of recurring themes. Many of its chapters contain prayers and supplications that seem to correspond to actual events in the life of King David. But despite their various allusions to historical events, the psalms are not autobiographical. While many of them are attributed to David, neither his private nor his public persona is readily discernible. What emerges from most of the psalms is not the voice of a specific historical figure but rather that of Everyman. As the bounds of the personal are transcended, the psalms enter the realm of the universal. For instance, while King David was surrounded for most of his life by followers, friends, and admirers, what is most striking in the psalms of supplication attributed to David is the loneliness they convey. Only rarely do we get a sense of David as part of a larger “us.” The image is that of a man who feels alone even in the midst of a crowd. This quality, somewhat paradoxically, makes Psalms not only a collection of songs that can be sung aloud in a chorus of voices, but also an expression of many people’s most private life experiences, whether joyous or distressing. As the verse says: “The heart alone knows its own bitterness, and no stranger can share in its joy” (Proverbs 14:10). People first feel their own pain and happiness, and only after that can they identify with the feelings and experiences of others. The logic behind the psalms’ arrangement remains unclear. There are no obvious differences between the five books, or sections, of Psalms. And while here and there a group of psalms appears to have certain structural or thematic similarities, these are the exceptions to the rule. It appears likely that the disarray is intentional, reflecting the perspective of a work that above all expresses human emotions. For emotions, like existence itself, have no fixed order; there are no predetermined conditions governing a person’s feeling happy, sorrowful, introspective, or grateful. Psalms mirrors life in all its vicissitudes and inconsistencies, demonstrating that despite our most strenuous efforts, life can never be fully organized or controlled. The chapters of Psalms differ from one another in structure and style as well as content and length. Psalms contains the shortest chapter in the Bible (two verses) and almost immediately following it, the longest chapter (176 verses). Some of the psalms have the rhythm and tone of epic poetry. Some are simple entreaties, and others are an outpouring of feeling emanating from the depths of the soul. There are many tearful prayers in Psalms, and often no explanation is provided for the psalmist’s distress other than that something is wrong. Some psalms are distinctly meditative and deal with a well-defined topic. Others are songs of a historical nature. Also quite a few psalms offer straightforward, moral instruction. Despite all the differences between them, the psalms share one outstanding characteristic: truth. There is no smoothing of rough edges, no attempt to ignore or gloss over difficult issues in order to create a sense of harmony. Indeed, many of the psalms have a kind of built-in dissonance that results from the psalmist’s refusal to relinquish a point of truth even at the expense of disrupting the overall melody. Undoubtedly, this aspect of Psalms is partially why it continues to speak to so many people in all corners of the world. While Psalms very much belongs to a specific place (the Land of Israel) and a specific period (the biblical era), it nonetheless transcends all boundaries of space and time. Like Job and Ecclesiastes, Psalms has a special, unique set of cantillations. The cantillation signs serve to punctuate the verses as well as to indicate specific musical notes. In Psalms, the musical component of the cantillations has been entirely lost. We know that certain psalms were sung in the Temple during the era of the Second Temple and possibly even before that. But beyond this we lack any reliable tradition pertaining to the melodies that were sung. Until the period of the Sages, Psalms consisted of 147 chapters. Most of these texts have a heading and a clear internal structure. A later, non-Jewish division of Psalms produced the current 150 chapters, a few of which appear to be incomplete or not self-contained. Most of the psalms are attributed to David, as indicated in the psalms themselves, using descriptions such as: “the prayers of David son of Yishai” (Psalms 72:20). Nevertheless, according to the Sages in Apart from its literary value, Psalms enjoys an exceptional status in the biblical canon. No book of the Bible has evoked more tears or more words of gratitude and joy. Over the course of Jewish history, Psalms has been utilized more than any other book, not just by poets, but by all who seek to articulate the appropriate words and phrases with which to beseech, express gratitude to, pour out the sorrows of their soul to, or simply have a conversation with God. Whether it is a lonely widow weeping over her travails, a leader grappling with a military or political crisis, or an individual inspired to sing a song of thanksgiving, Psalms provides a mouthpiece for everyone. Indeed, if King David is termed “the sweet singer of Israel” (II Samuel 23:1), it is because he sang the song of an entire people."
+              ],
+              "he": [
+                "כל המקרא עוסק במערכת היחסים שבין אלוקים והאדם, ובעיקר האדם מישראל; ואולם רוב ספרי התנ\"ך – בוודאי חמשת חומשי התורה, אך גם ספרי הנביאים – ממוקדים יותר ביחסו של ה' אל האדם, מלמעלה למטה. לעומת זאת, ספר תהלים הוא הספר היחיד שבמרכזו האדם הפונה אל ה'. באופן מסורתי הספר מחולק לחמישה חלקים <span class=\"parenthesized\">(‘ספרים')</span>, אולי לשם יצירת הקבלה בין חמשת חומשי תורה ובין חמשת ‘חומשי' תהלים. הקבלה זו מבטאת את שני הקצוות של הקשר וההתייחסות בין האדם לבין אלוקים – לעומת התורה שבמוקדה ההתגלות העליונה, ספר תהלים נאמר מנקודת הראות של האדם, על מוגבלותה ומורכבותה. אמנם הספר נקרא ‘תהלים', לאמור: התהילות שבהן מהלל האדם את ה', אך יש בו כמעט כל מה שאדם היה רוצה לומר לפני אלוקים. הספר כולל דברי שירה לסוגיה, ומובע בו מנעד רגשות רחב ביותר. בצד שירה פרטית ואישית מובאים בו שירה אֶפִּית ומזמורי התבוננות ועיון העוסקים בנושאים כלל-לאומיים ואף כלל-אנושיים. אולם בכולם – בין בבירור ובמפורש ובין בצנעה ובהיעלם – אפשר לפגוש באישיותו המסוימת של המשורר. חלק מגדולתו של הספר נעוצה דווקא בהיותו סובייקטיבי. לא רק נושאיהם של מזמורי תהלים מגוונים ביותר, אף דמותו של המשורר העולה מתוכם רבת-פנים, והיא נתונה בנסיבות שונות: יש שהמזמורים מושרים מתוך כניעה ותבוסה, ויש שהם שירי ניצחון מלאי עצמה. גם נעימתם של המזמורים אינה אחידה. בלשון מוזיקלית אפשר לאפיין מזמורים מסוימים כסטקטו ואחרים כלגטו; יש מזמורים שקצב ההתרחשויות בהם והתחלפות הגופים מזכיר יותר פרסטו, ואחרים – לרגו. המזמורים מבטאים מצבי נפש שונים: מהם מלאים מתח – מתח דתי או מתח של תרעומת, יש מזמורים שנאמרו מתוך סערה ומצוקה ואחרים המביעים התרפקות ורוגע. משום כך אפשר לדמות את משורר תהלים לנֵבל רחב מנעד ורב-מיתרים, שלכל אחד מהם צליל משלו. כמה נושאים כלליים חוזרים ונשנים לכל אורכו של ספר תהלים. חלק גדול מפרקי הספר הם דברי תפילה ותחינה, שבמידה רבה מלווים את מאורעות חייו של המלך דוד. למרות שלא מעט מזמורים נסמכים למאורעות ידועים, ראוי לציין כי בעיקרו של דבר אין הם אוטוביוגרפיים. אף שהספר הוא שירתו של דוד, הרי אישיותו הפרטית ההיסטורית של דוד איננה בולטת בו, ומרוב הפרקים לא עולה דמותו של אדם מסוים; בוקע מהם קולו של האדם באשר הוא. כך, למרות שמבחינה היסטורית דוד המלך היה מוקף רוב ימיו בידידים ובמעריצים, הצד הבולט ביותר בפרקי התחינה שבתהלים הוא דווקא הרגשת הבדידות; רק לעתים רחוקות תופס ה'אנחנו' את מקומו של ה'אני' בספר. הדבר משקף ומבטא את אישיותו של משורר, אשר גם בהיותו בין רבים הוא עדיין מרגיש בודד. ואולי דווקא משום כך עד היום מזמורי תהלים אינם מושרים רק בקול רם ובמקהלות, אלא גם נותנים ביטוי לחוויותיהם – הן הטובות והן הקשות – של אנשים פרטיים רבים. קשה לעמוד על העיקרון המבני שעל פיו מסודרים מזמורי תהלים. קשה גם לאפיין את ההבדלים בין אפיוני הספרים השונים שבתהלים. אמנם פה ושם מופיעות קבוצות של מזמורים שיש ביניהם קרבה חיצונית או פנימית; אבל בסך הכול נראה שהקובץ אינו מסודר, ושמא הדבר נעוץ באופיו. בתור קובץ של מזמורים המביעים רגשות אנושיים, אין הוא אמור להיות סדור, כשם שרגשותיו של אדם מתעוררים באופן בלתי צפוי. הרי גם בחיים עצמם אין זמנים קבועים מראש לצער או לשמחת הלב, להתבוננות או לתהילה. ספר תהלים הוא ספרו של אדם. מתוך כך נגזרת הרבגוניות המאפיינת אותו, ומשום כך גם נעדרים ממנו סדר ויומרה לעקביות. מזמורי תהלים שונים מאוד זה מזה לא רק ברגשות המובעים בהם ובתוכניהם, אלא גם מבחינת גודלם וסגנונם. בספר תהלים נמצא הפרק הקצר ביותר בתנ\"ך, שאורכו שני פסוקים, ומיד אחריו מופיע הפרק הארוך ביותר בתנ\"ך – מאה שבעים ושישה פסוקים. יש בו שירה אפית היסטורית, בצד שירי תחנונים של נפש סובלת והשתפכות נפש לירית. יש בו שירי הגות מובהקים ולא מעט שירי הוראה פשוטים. אף שהמזמורים שונים זה מזה, דבר אחד בולט בכולם: כולם מבטאים אמת. משום כך הם אינם מתפשרים ואינם מזייפים או מדלגים על מעקשים לשם יצירת הרמוניה. לא פעם מתעורר הדיסוננס משום שהמשורר איננו מוותר על איזו נקודת אמת, גם כאשר היא אינה תואמת את הניגון הכללי. גם מסיבה זו המזמורים הללו דיברו, ומדברים, אל אנשים רבים כל כך ושונים זה מזה בכל קצות העולם. למרות שהספר נוצר בזמן מסוים ובארץ המסוימת הזאת, הוא בוקע ועובר את גבולות הזמן והמקום. ספר תהלים איננו ספר של שירה המבטא את המשורר בלבד. בהיותו ספר של תפילות, לא פחות מנוכחותו של ה'אני', נוכח בו ה'אתה' האלוקי. בין ששם שמים מוזכר בכל פסוק ופסוק של המזמור, ובין כשכמעט אינו מוזכר במזמור כלל, ברור שהמשורר משוחח ושופך נפשו לִפְנֵי ה' <span class=\"parenthesized\">(תהלים קב,א)</span>. העולם הדתי שבספר איננו מסובך או מסתורי במיוחד. גם אם יש בו גם שירי תלונה ואף תרעומת, הרי שלא כמו באיוב או בקֹהלת התרעומת הזו היא תמיד מוגדרת ומבוקרת. גם כשעולות מן המזמורים שאלות שאין עליהן תשובה, נשארים המזמורים הללו בגדר מזמורי תפילה. פעמים רבות לא ברור מן הכתוב אם המסופר בו הוא מה שכבר אירע או מה שהמתפלל מקווה שיארע או חושש שאירע. יש שמצבו של המתפלל אינו עולה בבירור מן הדברים, ולא אחת הביאור מכריע לכאן או לכאן. ראוי שהן המתפלל הן המעיין הקשוב יפתחו את לבם ודעתם גם לאפשרויות אחרות המזומנות במזמור. בספר תהלים <span class=\"parenthesized\">(ובעוד שני ספרים בתנ\"ך: משלי ואיוב)</span> יש מערכת מיוחדת של טעמי המקרא, שאינה זהה למערכת הטעמים של שאר הספרים. מערכת טעמים זו מובנת לנו מבחינה פונקציונאלית – היינו, כיצד הם משמשים כסימני פיסוק מורכבים – ואולם המסורת המוזיקלית של טעמים אלה אבדה. זאת ועוד: ידוע שבימי הבית השני <span class=\"parenthesized\">(ואולי גם קודם לכן)</span> חלק מן המזמורים הללו הושרו בבית המקדש, אך בידינו לא נשארה כל מסורת מוזיקלית שאפשר לסמוך עליה. על פי החלוקה המקובלת של הספר, יש בו מאה וחמישים פרקים, אבל עד תקופת חז\"ל היה מחולק למאה ארבעים ושבעה או מאה ארבעים ותשעה מזמורים בלבד. רוב פרקיו הם מזמורים מוגדרים היטב שבראשם כותרות; רק בעקבות חלוקת הפרקים המאוחרת יותר, פרקים אחדים אינם נראים מזמורים שלמים העומדים לעצמם, וככל הנראה הם חלק מן המזמורים הסמוכים להם. הספר עצמו מעיד על עצמו שהוא ספר תְּפִלּוֹת דָּוִד בֶּן יִשָׁי <span class=\"parenthesized\">(תהלים עב,כ)</span>; ואכן, רוב מזמוריו מיוחסים לדוד המלך. עם זאת, נזכרים בספר גם שמותיהם של כמה משוררים אחרים. לפי מסורת חכמים <span class=\"parenthesized\">(בבא בתרא יד ע\"ב – טו ע\"א)</span>, לעשרה אנשים מיוחסים מזמור אחד או אחדים <span class=\"parenthesized\">(ובכללם אדם הראשון ומשה רבנו)</span>. לספר תהלים נודע מקום יוצא דופן לא רק בספרות העולם, אלא גם במקומו בתודעה האנושית בכל הזמנים והמקומות. נראה שאין עוד ספר במקרא שנתלוו אליו כל כך הרבה דמעות, כמו גם דברי תודה ושמחה. דרך ספר זה ואתו יכול כל אדם – הן המשורר והן מי שאינו יודע למצוא את המלים והביטויים המתאימים – להתחנן ולהודות, לשפוך את מר לבו או פשוט לשוחח עם אלוקים, בין שמדובר באשה בודדת המבכה את צרותיה, בגבר הנתון במבוך מדיני או צבאי או במי שבא לשיר שיר תודה. לכל אלה משמש ספר תהלים פה. דוד המלך מכונה בשם נְעִים זְמִרוֹת יִשְׂרָאֵל <span class=\"parenthesized\">(שמואל ב' כג,א)</span>, מאחר שהוא שר את שירתו של עם שלם. זאת ועוד: פה ושם יש בספר גם ניצוצות של התרוממות נפש מיסטית המוצנעת בשירה הדתית הכוללת ואיננה מגיעה לידי ביטוי חריף. כאן טמון צד נוסף של כוחו המיוחד של הספר: הנעימה הכללית שבו, על אף כל העליות והירידות, לעולם איננה מוקצנת. שאלות חריפות, ספקות חמורים, כאבים בלתי נסבלים ואולי גם עליצות בלי גבול רק מרומזים כאן, אך אין הם מגיעים לביטוי שלם ומלא. בצד הדברים הנאמרים בכל אחד מהמזמורים, המשורר משאיר גם גיליון ריק, שעליו יוסיף הקורא-המתפלל את השורות האישיות שלו."
+              ],
+              "ref": "Steinsaltz Introductions to Tanakh, Psalms, Book Introduction",
+              "sourceHeRef": "ביאור שטיינזלץ, הקדמות לתנ\"ך, תהילים, הקדמה לספר",
+              "sourceRef": "Steinsaltz Introductions to Tanakh, Psalms, Book Introduction"
+            }
+          ]
+        }
+      },
+      "en": "But we will bless the L<small>ORD</small><br>now and forever.<br>Hallelujah.",
+      "he": "וַאֲנַחְנוּ <b></b> נְבָרֵךְ יָהּ מֵעַתָּה וְעַד־עוֹלָם הַֽלְלוּ־יָֽהּ׃",
+      "ref": "Psalms 115:18"
+    }
+  ],
+  "title": "Ashrei",
+  "titleHebrew": "אשרי",
+  "topics": []
+}

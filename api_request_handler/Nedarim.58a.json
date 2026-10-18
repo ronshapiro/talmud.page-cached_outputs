@@ -1,0 +1,821 @@
+{
+  "id": "58a",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If, however, the egg of an non-kosher fowl was cooked together with the eggs of kosher fowl, it does not cause them to become forbidden.<br>If [the eggs were opened and] mixed together or the egg of a non-kosher fowl or the egg of a fowl that is <i>trefe</i> become mixed with other eggs, the required measure is 60.",
+              "he": "אֲבָל בֵּיצַת עוֹף טָמֵא שֶׁנִּשְׁלְקָה עִם בֵּיצֵי עוֹף טָהוֹר לֹא אָסְרָה אוֹתָם. וְאִם טָרַף אֵלּוּ עִם אֵלּוּ. אוֹ שֶׁנִּתְעָרְבָה בֵּיצַת עוֹף טָמֵא אוֹ בֵּיצַת טְרֵפָה עִם בֵּיצִים אֲחֵרוֹת שִׁעוּרָן בְּשִׁשִּׁים:",
+              "ref": "Mishneh Torah, Forbidden Foods 15:20",
+              "sourceHeRef": "הלכות מאכלות אסורות טו:כ",
+              "sourceRef": "Forbidden Foods 15:20"
+            },
+            {
+              "en": "These are the measures which the Sages established: <i>Terumah, terumat ma'aser challah</i>, and <i>bikkurim</i> become nullified [when the mixture is] 101 times the [original] amount. [In addition,] one must separate [a portion and give it to a priest]. [All of these sacred foods] are combined one with the other. Similarly, a slice of the showbread becomes nullified when mixed with slices of ordinary bread [if] the mixture is 101 times the original amount.<br>What is implied? When a <i>se'ah</i> of flour from one of the above- or one <i>se'ah</i> from all of them [combined] - falls into 100<i> se'ah</i> of ordinary [flour] and [the flour] became mixed together, one should separate one <i>se'ah</i> from the mixture for the <i>se'ah</i> that fell in originally. The remainder is permitted to all people. If it fell into less than 100 <i>se'ah</i>, the entire mixture is <i>meduma</i>.",
+              "he": "וְאֵלּוּ הֵן הַשִּׁעוּרִין שֶׁנָּתְנוּ חֲכָמִים. הַתְּרוּמָה וּתְרוּמַת מַעֲשֵׂר וְהַחַלָּה וְהַבִּכּוּרִים עוֹלִין בְּאֶחָד וּמֵאָה וְצָרִיךְ לְהָרִים וּמִצְטָרְפִין זֶה עִם זֶה. וְכֵן פְּרוּסָה שֶׁל לֶחֶם הַפָּנִים לְתוֹךְ פְּרוּסוֹת שֶׁל חֻלִּין עוֹלִין בְּאֶחָד וּמֵאָה. כֵּיצַד. סְאָה קֶמַח מֵאֶחָד מֵאֵלּוּ. אוֹ סְאָה מִכֻּלָּם שֶׁנָּפְלָה לְמֵאָה סְאָה קֶמַח שֶׁל חֻלִּין וְנִתְעָרֵב הַכּל. מֵרִים מִן הַכּל סְאָה אַחַת כְּנֶגֶד סְאָה שֶׁנָּפְלָה וְהַשְּׁאָר מֻתָּר לְכָל אָדָם. נָפְלָה לְפָחוֹת מִמֵּאָה נַעֲשֶׂה הַכּל מְדֻמָּע:",
+              "ref": "Mishneh Torah, Forbidden Foods 15:13",
+              "sourceHeRef": "הלכות מאכלות אסורות טו:יג",
+              "sourceRef": "Forbidden Foods 15:13"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל דבר שיש לו מתירין כגון טבל</strong> - שנתערב בחולין ויש לו מתירין שיכול להפריש ממקום אחר ומעשר שני והקדש יש להם היתר בפדייה:",
+              "ref": "Ran on Nedarim 58a:1:1",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:א:א",
+              "sourceRef": "Ran on Nedarim 58a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחדש</strong> - שהעומר מתירו:",
+              "ref": "Ran on Nedarim 58a:1:2",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:א:ב",
+              "sourceRef": "Ran on Nedarim 58a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא נתנו בהם חכמים שיעור</strong> - שאוסרים בכל שהוא במינן מיהו שלא במינן בנותן טעם כיון דהשתא אסירי כמו שכתבתי למעלה. ובפרק בתרא דמס' ע\"ז יהיב טעמא אחרינא לטבל דלא בטיל משום דכהתירו כך איסורו:",
+              "ref": "Ran on Nedarim 58a:1:3",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:א:ג",
+              "sourceRef": "Ran on Nedarim 58a:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכל דבר שאין לו מתירין כגון תרומה ותרומת מעשר וחלה</strong> - דאע\"ג דמצי לאתשולי עלייהו כיון דליכא מצוה למיעבד הכי לא מיקרו דבר שיש לו מתירים כדאמרינן לקמן:",
+              "ref": "Ran on Nedarim 58a:1:4",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:א:ד",
+              "sourceRef": "Ran on Nedarim 58a:1:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נתנו בהם חכמים שיעור</strong> - שאפי' נתערבו במינן בטלין תרומה ותרומת מעשר וחלה במאה ערלה וכלאי הכרם במאתים ובשאינן מינן כולן בששים:",
+              "ref": "Ran on Nedarim 58a:1:5",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:א:ה",
+              "sourceRef": "Ran on Nedarim 58a:1:5"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> כל דבר שיש לו מתירין כגון טבל.</b> שאפשר לתקנו ולעשר עליו ממקום אחר, ובשלהי עבודה זרה [עג, ב] מפרש טעמא אחריני, ושם כתבתי בארוכה בסייעתא דשמיא.",
+              "ref": "Rashba on Nedarim 58a:1",
+              "sourceHeRef": "רשב״א על נדרים נ״ח א:א",
+              "sourceRef": "Rashba on Nedarim 58a:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כגון טבל</strong> - שיש לו מתירין שמתקנו וניתר ומעשר והקדש יש לו מתירין על ידי פדייה וחדש עומר מתירו להכי אפילו באלף לא בטלי דהא אפשר להו בתקנתא:",
+              "ref": "Rashi on Nedarim 58a:1:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:א:א",
+              "sourceRef": "Rashi on Nedarim 58a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נתנו בהם חכמים שיעור</strong> - דתרומה בטלה במאה וערלה במאתים:",
+              "ref": "Rashi on Nedarim 58a:1:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:א:ב",
+              "sourceRef": "Rashi on Nedarim 58a:1:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b><span class=\"parenthesized\">(סעיף א')</span> </b>ביצה שנולדה ביו\"ט וכו'. נ\"ב הנה ידוע דעת הר\"ן דבדבר שיל\"מ לא אזלינן ב\"ר ועיין בחידושי מחדש להלכות נדרים סי' רי\"ג מ\"ש מה שיש להקשות על דבריו מסוגיא דנדרים דף ע\"ג ע\"ב במה דמחלק שם בין תרומה דרבנן לנדרים דאורייתא ולא מחלק דנדרים הו\"ל דבר שיל\"מ ולא אזלינן בתר רובא ולכך חיישינן לסמפון משא\"כ בתרומה דהו\"ל דבר שאל\"מ ולכך לא חיישינן לסמפון. ומזה הוכחתי דאף הר\"ן לא החמיר רק בשל תורה או כמו כן דחמור כשל תורה אבל בשאר איסור דרבנן מודה הר\"ן אף דספיקו אף בדרבנן לחומרא בדבר שיל\"מ מכל מקום בתר רובא אזלינן ומותר ע\"ש ודו\"ק כי קצרתי ועיין בחיבורי על אהע\"ז מהדורא ה' סי' קמ\"ט מה שהוכחתי דיש חילוק בין ד\"ת לדרבנן דבאיסור תורה לא אזלינן בתר רובא וחזקה בדבר שיל\"מ ובדרבנן אזלינן בתר רובא בדבר שיל\"מ ע\"ש שהוכחתי כן מן הש\"ס פ\"ק דחולין ע\"ש ודו\"ק:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 513:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אורח חיים תקיג:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 513:1"
+                    }
+                  ]
+                },
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">{א} ביצה שנולדה ביו\"ט וכו'</strong> - אפילו מתרנגולת העומדת לאכילה דליכא בה מוקצה דאי בעי שחיט לה מ\"מ הביצה אסורה באכילה דביו\"ט שחל להיות באחד בשבת אסורה מדאורייתא דכל ביצה דמתילדא האידנא מאתמול גמרה לה במעיה ואין שבת מכין ליו\"ט וגזרינן יו\"ט דעלמא משום יו\"ט אחר השבת וכיון דאסורה באכילה ממילא אסורה בטלטול ועיין בריש סימן תקט\"ו מה שכתבנו שם בזה:",
+                      "ref": "Mishnah Berurah 513:1",
+                      "sourceHeRef": "משנה ברורה תקיג:א",
+                      "sourceRef": "Mishnah Berurah 513:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">{ב} אסור ליגע בה</strong> - אע\"ג דאין איסור בנגיעת דבר המוקצה וכדלעיל בסימן ש\"ח ביצה שאני כיון שהוא דבר המתגלגל חיישינן שמא ינענענה ע\"י הנגיעה:",
+                      "ref": "Mishnah Berurah 513:2",
+                      "sourceHeRef": "משנה ברורה תקיג:ב",
+                      "sourceRef": "Mishnah Berurah 513:2"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">{ג} דהיינו לטלטלה</strong> - משמע מלשון זה שהוא חולק על המחבר וס\"ל דגם בביצה דוקא טלטול אסור אבל נגיעה בעלמא שרי אבל מכמה אחרונים משמע דס\"ל דאפילו בנגיעה אסור דמפני שהיא מתגלגלת מצוי להתנענע על ידי הנגיעה:",
+                      "ref": "Mishnah Berurah 513:3",
+                      "sourceHeRef": "משנה ברורה תקיג:ג",
+                      "sourceRef": "Mishnah Berurah 513:3"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">{ד} כולן אסורות</strong> - באכילה ובטלטול שהרי למחר היא מותרת בלא ביטול וכל דבר שיש לו מתירין אפילו באלף לא בטל ומזה הטעם אסר גם בס\"ב בספק אף דבעלמא ספיקא דרבנן לקולא:",
+                      "ref": "Mishnah Berurah 513:4",
+                      "sourceHeRef": "משנה ברורה תקיג:ד",
+                      "sourceRef": "Mishnah Berurah 513:4"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "[Food] may be prepared on a weekday for the Sabbath and [food] may be prepared on a weekday for a holiday, but [food] may not be prepared on a holiday for the Sabbath, nor may [food] be prepared on the Sabbath for a holiday.<br>Therefore, an egg that was laid on a holiday that follows the Sabbath is forbidden - even though the chicken is set aside to be eaten - since the egg was finished on the previous day and thus the Sabbath would be preparing for a holiday.<br>[Our Sages] forbade [eating] an egg that was laid on any holiday. [This is] a decree, [lest one eat an egg laid] on a holiday that follows the Sabbath. Similarly, [our Sages] forbade [eating] an egg that was laid on any Sabbath. [This is] a decree, lest one eat an egg laid] on a Sabbath that follows a holiday.",
+                      "he": "חֹל מֵכִין לְשַׁבָּת וְחל מֵכִין לְיוֹם טוֹב אֲבָל אֵין יוֹם טוֹב מֵכִין לְשַׁבָּת וְלֹא שַׁבָּת מְכִינָה לְיוֹם טוֹב. לְפִיכָךְ בֵּיצָה שֶׁנּוֹלְדָה בְּיוֹם טוֹב אַחַר הַשַּׁבָּת אֲסוּרָה. וְאַף עַל פִּי שֶׁהַתַּרְנְגלֶת עוֹמֶדֶת לַאֲכִילָה. הוֹאִיל וּמֵאֶמֶשׁ נִגְמְרָה הַבֵּיצָה נִמְצָא שַׁבָּת מֵכִין אוֹתָהּ לְיוֹם טוֹב. וַאֲסָרוּהָ בְּכָל יוֹם טוֹב גְּזֵרָה מִשּׁוּם יוֹם טוֹב שֶׁאַחַר שַׁבָּת. וְכֵן בֵּיצָה שֶׁנּוֹלְדָה בְּכָל שַׁבָּת אֲסוּרָה גְּזֵרָה מִשּׁוּם שַׁבָּת שֶׁאַחַר יוֹם טוֹב:",
+                      "ref": "Mishneh Torah, Rest on a Holiday 1:19",
+                      "sourceHeRef": "הלכות שביתת יום טוב א:יט",
+                      "sourceRef": "Rest on a Holiday 1:19"
+                    },
+                    {
+                      "en": "Just as it is forbidden to partake of this [egg], so too, is it forbidden to carry it. Even if it becomes mixed with a thousand [other eggs], they are all forbidden. For on the morrow, they will all be permitted, and [the existence of] any forbidden article that will ultimately become permitted is never considered inconsequential, even when mixed with thousands of thousands.<br>When a person slaughters a chicken on a holiday and within the chicken finds eggs that already have a shell, it is permitted [to partake of] them, for this is not a frequent circumstance. And [our Sages] did not institute decrees regarding infrequent circumstances that occur only incidentally.",
+                      "he": "וּכְשֵׁם שֶׁאָסוּר לְאָכְלָהּ כָּךְ אָסוּר לְטַלְטְלָהּ וַאֲפִלּוּ נִתְעָרְבָה בְּאֶלֶף כֻּלָּן אֲסוּרוֹת שֶׁהֲרֵי לְמָחָר יֻתְּרוּ הַכּל וְכָל דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין אֲפִלּוּ בְּאֶלֶף אֲלָפִים אֵינוֹ בָּטֵל. הַשּׁוֹחֵט תַּרְנְגלֶת בְּיוֹם טוֹב וּמָצָא בָּהּ בֵּיצִים גְּמוּרוֹת הֲרֵי אֵלּוּ מֻתָּרוֹת. שֶׁאֵין זֶה דָּבָר מָצוּי תָּמִיד וְדָבָר שֶׁאֵינוֹ מָצוּי אֶלָּא אַקְרַאי בְּעָלְמָא לֹא גָּזְרוּ בּוֹ:",
+                      "ref": "Mishneh Torah, Rest on a Holiday 1:20",
+                      "sourceHeRef": "הלכות שביתת יום טוב א:כ",
+                      "sourceRef": "Rest on a Holiday 1:20"
+                    },
+                    {
+                      "en": "[The following rules apply when] one designated both black and white doves, and on the following day found the white doves in the place of the black ones and the black ones in the place of the white ones. It is forbidden to take them, because it is possible that [the doves that were designated] flew away and these are others. [Therefore, we follow the principle:] Whenever there is a doubt whether [doves] have been designated or not, they are forbidden.<br>If he designated two and found three, they are all forbidden.If he designated three and found two, they are permitted. If he designated doves inside the nest, but found them in front of the nest, he is permitted to take them, provided that these were the only doves in the nest, and they are unable to fly. Although there is another nest within fifty cubits at a diagonal, these doves are permitted, for doves that waddle, waddle only in a straight line to their nests.",
+                      "he": "זִמֵּן שְׁחוֹרִים וּלְבָנִים וּמָצָא שְׁחוֹרִים בִּמְקוֹם לְבָנִים וּלְבָנִים בִּמְקוֹם שְׁחוֹרִים אֲסוּרִים שֶׁאֲנִי אוֹמֵר שֶׁמָּא אוֹתָן שֶׁזִּמֵּן פָּרְחוּ לָהֶן וְאֵלּוּ אֲחֵרִים הֵן וְכָל סָפֵק מוּכָן אָסוּר. זִמֵּן שְׁנַיִם וּמָצָא שְׁלֹשָׁה הַכּל אָסוּר. שְׁלֹשָׁה וּמָצָא שְׁנַיִם מֻתָּרִין. זִמֵּן בְּתוֹךְ הַקֵּן וּמָצָא לִפְנֵי הַקֵּן אִם אֵין שָׁם בַּקֵּן אֶלָּא הֵן וְאֵינָן יְכוֹלִין לִפְרֹחַ אַף עַל פִּי שֶׁיֵּשׁ שָׁם קֵן אַחֵר בְּקֶרֶן זָוִית בְּתוֹךְ חֲמִשִּׁים אַמָּה הֲרֵי אֵלּוּ מֻתָּרִין שֶׁאֵין הַמְדַדֶּה מְדַדֶּה אֶלָּא כְּנֶגֶד קִנּוֹ בְּשָׁוֶה:",
+                      "ref": "Mishneh Torah, Rest on a Holiday 2:6",
+                      "sourceHeRef": "הלכות שביתת יום טוב ב:ו",
+                      "sourceRef": "Rest on a Holiday 2:6"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "This entire leniency is limited to cases in which the muktzeh is being moved in order to access items that are necessary for food preparation. In contrast, it is forbidden to eat or use items that are themselves muktzeh. For example, one may not eat fruit that a non-Jew picked on Yom Tov or fish or fowl that a non-Jew caught on Yom Tov. Since it is forbidden for a Jew to pick fruit or trap animals on Yom Tov, we assume that he had put them out of his mind (SA 515:1; MB ad loc. 5). Similarly, valuable wood designated for construction may not be used to fuel a fire for cooking on Yom Tov, since it is muktzeh meḥamat ḥesron kis (SA 502:3).",
+                      "he": "וכל ההיתר הזה הוא רק לטלטל מוקצה כדי להגיע לצורכי אוכל נפש, אבל אסור לאכול או להשתמש בדברים שהם עצמם מוקצים. למשל, פירות שגוי קטף בחג – אסורים באכילה, וכן דגים ועופות שגוי צד בחג – אסורים באכילה, שכן הוקצו מדעתו של ישראל, הואיל ואסור ליהודי לקטוף ולצוד בחג <span class=\"parenthesized\">(שו\"ע או\"ח תקטו, א; משנה ברורה תקטו, ה)</span>. וכן עצים יקרים שנועדו לבנייה, אסור להבעיר בהם אש לצורך מאכלי החג, הואיל והם מוקצה מחמת חסרון כיס <span class=\"parenthesized\">(שו\"ע או\"ח תקב, ג)</span>.",
+                      "ref": "Peninei Halakhah, Festivals 6:5:6",
+                      "sourceHeRef": "מועדים ו:ה:ו",
+                      "sourceRef": "Festivals 6:5:6"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "An egg that was laid on Shabbat is forbidden even to touch, and even if it got mixed in with a thousand [other eggs that were not laid on Shabbat] it is forbidden to touch any of them, but one is able to cover it with a vessel in order that it does not break as long as he doesn't touch it.",
+                      "he": "ביצה שנולדה בשבת אסור אפי' לטלטלה ואפי' נתערבה באלף כולן אסורות ויכול לכוף עליה כלי שלא תשבר ובלבד שלא יגע בה:",
+                      "ref": "Shulchan Arukh, Orach Chayim 322:1",
+                      "sourceHeRef": "אורח חיים שכב:א - דין נולד בשבת",
+                      "sourceRef": "Orach Chayim 322:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "ביצה שנולדה בי\"ט אסור ליגע בה: <span class=\"hebrew-emphasis\">הגה (דהיינו לטלטלה) (מרדכי ריש ביצה ופ' כל הכלים) </span> וכל שכן שלא לאכלה ואם נתערבה אפי' באלף כולן אסורות:",
+              "ref": "Shulchan Arukh, Orach Chayim 513:1",
+              "sourceHeRef": "אורח חיים תקיג:א - דין ביצה שנולדה בי\"ט",
+              "sourceRef": "Orach Chayim 513:1"
+            },
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "[The following rules apply when] one designated both black and white doves, and on the following day found the white doves in the place of the black ones and the black ones in the place of the white ones. It is forbidden to take them, because it is possible that [the doves that were designated] flew away and these are others. [Therefore, we follow the principle:] Whenever there is a doubt whether [doves] have been designated or not, they are forbidden.<br>If he designated two and found three, they are all forbidden.If he designated three and found two, they are permitted. If he designated doves inside the nest, but found them in front of the nest, he is permitted to take them, provided that these were the only doves in the nest, and they are unable to fly. Although there is another nest within fifty cubits at a diagonal, these doves are permitted, for doves that waddle, waddle only in a straight line to their nests.",
+                      "he": "זִמֵּן שְׁחוֹרִים וּלְבָנִים וּמָצָא שְׁחוֹרִים בִּמְקוֹם לְבָנִים וּלְבָנִים בִּמְקוֹם שְׁחוֹרִים אֲסוּרִים שֶׁאֲנִי אוֹמֵר שֶׁמָּא אוֹתָן שֶׁזִּמֵּן פָּרְחוּ לָהֶן וְאֵלּוּ אֲחֵרִים הֵן וְכָל סָפֵק מוּכָן אָסוּר. זִמֵּן שְׁנַיִם וּמָצָא שְׁלֹשָׁה הַכּל אָסוּר. שְׁלֹשָׁה וּמָצָא שְׁנַיִם מֻתָּרִין. זִמֵּן בְּתוֹךְ הַקֵּן וּמָצָא לִפְנֵי הַקֵּן אִם אֵין שָׁם בַּקֵּן אֶלָּא הֵן וְאֵינָן יְכוֹלִין לִפְרֹחַ אַף עַל פִּי שֶׁיֵּשׁ שָׁם קֵן אַחֵר בְּקֶרֶן זָוִית בְּתוֹךְ חֲמִשִּׁים אַמָּה הֲרֵי אֵלּוּ מֻתָּרִין שֶׁאֵין הַמְדַדֶּה מְדַדֶּה אֶלָּא כְּנֶגֶד קִנּוֹ בְּשָׁוֶה:",
+                      "ref": "Mishneh Torah, Rest on a Holiday 2:6",
+                      "sourceHeRef": "הלכות שביתת יום טוב ב:ו",
+                      "sourceRef": "Rest on a Holiday 2:6"
+                    },
+                    {
+                      "en": "Just as it is forbidden to partake of this [egg], so too, is it forbidden to carry it. Even if it becomes mixed with a thousand [other eggs], they are all forbidden. For on the morrow, they will all be permitted, and [the existence of] any forbidden article that will ultimately become permitted is never considered inconsequential, even when mixed with thousands of thousands.<br>When a person slaughters a chicken on a holiday and within the chicken finds eggs that already have a shell, it is permitted [to partake of] them, for this is not a frequent circumstance. And [our Sages] did not institute decrees regarding infrequent circumstances that occur only incidentally.",
+                      "he": "וּכְשֵׁם שֶׁאָסוּר לְאָכְלָהּ כָּךְ אָסוּר לְטַלְטְלָהּ וַאֲפִלּוּ נִתְעָרְבָה בְּאֶלֶף כֻּלָּן אֲסוּרוֹת שֶׁהֲרֵי לְמָחָר יֻתְּרוּ הַכּל וְכָל דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין אֲפִלּוּ בְּאֶלֶף אֲלָפִים אֵינוֹ בָּטֵל. הַשּׁוֹחֵט תַּרְנְגלֶת בְּיוֹם טוֹב וּמָצָא בָּהּ בֵּיצִים גְּמוּרוֹת הֲרֵי אֵלּוּ מֻתָּרוֹת. שֶׁאֵין זֶה דָּבָר מָצוּי תָּמִיד וְדָבָר שֶׁאֵינוֹ מָצוּי אֶלָּא אַקְרַאי בְּעָלְמָא לֹא גָּזְרוּ בּוֹ:",
+                      "ref": "Mishneh Torah, Rest on a Holiday 1:20",
+                      "sourceHeRef": "הלכות שביתת יום טוב א:כ",
+                      "sourceRef": "Rest on a Holiday 1:20"
+                    },
+                    {
+                      "en": "Although <i>chametz</i> on Pesach is forbidden by Scriptural Law, it is not governed by these general principles, for this mixture is not forbidden forever. For after Pesach, the entire mixture will be permitted, as we explained. Therefore the slightest amount [of <i>chametz</i>] causes [a mixture] to become forbidden, whether [it becomes mixed] with a substance of its own type or of another type.",
+                      "he": "חָמֵץ בְּפֶסַח אַף עַל פִּי שֶׁהוּא מֵאִסּוּרֵי תּוֹרָה אֵינוֹ בִּכְלָלוֹת אֵלּוּ. לְפִי שֶׁאֵין הַתַּעֲרֹבֶת אֲסוּרָה לְעוֹלָם שֶׁהֲרֵי לְאַחַר הַפֶּסַח תִּהְיֶה כָּל הַתַּעֲרֹבֶת מֻתֶּרֶת כְּמוֹ שֶׁבֵּאַרְנוּ. לְפִיכָךְ אוֹסֵר בְּכָל שֶׁהוּא בֵּין בְּמִינוֹ בֵּין שֶׁלֹּא בְּמִינוֹ:",
+                      "ref": "Mishneh Torah, Forbidden Foods 15:9",
+                      "sourceHeRef": "הלכות מאכלות אסורות טו:ט",
+                      "sourceRef": "Forbidden Foods 15:9"
+                    },
+                    {
+                      "en": "The same law applies when new grain becomes mixed with old grain before [the offering of] the <i>omer</i>. Even the tiniest amount causes [the entire mixture] to become forbidden. For there is a factor that will cause the substance to become permitted. For after [the offering of] the <i>omer</i>, the entire mixture is permitted.<br>Similarly, whenever there is a factor that will cause the substance to become permitted, e.g., consecrated entities, the second tithe, or the like, our Sages did not mention a measure [in which it could be nullified]. Instead, even if one [of the forbidden substance] becomes mixed with several thousand [times that amount of a permitted substance], it is not nullified. [The rationale is that] there is a way that the prohibition can be released. [This principle applies] even when the prohibition stems from Rabbinic decree, e.g., an article set aside or born on a festival.",
+                      "he": "וְהוּא הַדִּין לִתְבוּאָה חֲדָשָׁה שֶׁנִּתְעָרְבָה בִּישָׁנָה מִלִּפְנֵי הָעֹמֶר אוֹסֶרֶת בְּכָל שֶׁהוּא. שֶׁהֲרֵי יֵשׁ לָהּ מַתִּירִין שֶׁלְּאַחַר הָעֹמֶר יֻתַּר הַכּל. וְכֵן כָּל דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין וַאֲפִלּוּ הָיָה אִסּוּרוֹ מִדִּבְרֵיהֶם כְּגוֹן אִסּוּר מֻקְצֶה וְנוֹלָד בְּיוֹם טוֹב לֹא נָתְנוּ בּוֹ חֲכָמִים שִׁעוּר אֶלָּא אֲפִלּוּ אֶחָד בְּכַמָּה אֲלָפִים אֵינוֹ בָּטֵל. שֶׁהֲרֵי יֵשׁ דֶּרֶךְ שֶׁיֻּתַּר בָּהּ כְּגוֹן הֶקְדֵּשׁ וּמַעֲשֵׂר שֵׁנִי וְכַיּוֹצֵא בָּהֶן:",
+                      "ref": "Mishneh Torah, Forbidden Foods 15:10",
+                      "sourceHeRef": "הלכות מאכלות אסורות טו:י",
+                      "sourceRef": "Forbidden Foods 15:10"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "אם קמח ה'חדש' התערב במאכל שהוא מין אחר, בטל בששים ואין צריך להמתין עד ליום העומר, שכן גם דבר 'שיש לו מתירין' אינו אוסר מאכל ממין אחר אלא אם כן הוא יכול לתת בו טעם, וכל שיש פי ששים כנגדו אינו יכול לתת טעם וממילא בטל <span class=\"parenthesized\">(שו\"ע יו\"ד קב, א)</span>.",
+                      "ref": "Peninei Halakhah, Kashrut 1:6:6",
+                      "sourceHeRef": "כשרות א:ו:ו",
+                      "sourceRef": "Kashrut 1:6:6"
+                    },
+                    {
+                      "en": "",
+                      "he": "וזאת משום שכל עניין ביטול האיסורים ברוב או בשישים הוא בדיעבד, כאשר מוכרחים להכריע את מעמד התערובת, אבל אם האיסור עומד להיות מותר, בין אם על ידי שיעבור זמן ובין אם על ידי מעשה שיתיר אותו, במקום להתגבר עליו בכוח ולבטלו, יש להמתין עד שיהיה מותר. וכל זה בתנאי שהאיסור עוד ניכר בתודעה שלנו, היינו שהתערב במינו, ואז למרות שיש פי שישים כנגדו, האיסור לא השתנה ושמו נשאר כפי שהיה. אבל אם האיסור שיש לו מתירים התערב במין אחר, ויש פי שישים כנגדו, הרי הוא בטל בעוצם מיעוטו, ששמו וטעמו התבטלו מהעולם, ולכן אין צורך להמתין עד שיהפוך להיתר <span class=\"parenthesized\">(שו\"ע יו\"ד קב, א)</span>.",
+                      "ref": "Peninei Halakhah, Kashrut 34:14:3",
+                      "sourceHeRef": "כשרות לד:יד:ג",
+                      "sourceRef": "Kashrut 34:14:3"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "ספק אם נולדה בי\"ט או בחול אסורה:",
+                      "ref": "Shulchan Arukh, Orach Chayim 513:2",
+                      "sourceHeRef": "אורח חיים תקיג:ב - דין ביצה שנולדה בי\"ט",
+                      "sourceRef": "Orach Chayim 513:2"
+                    }
+                  ]
+                }
+              },
+              "en": "<b>On Foods That May Be Permitted</b><br>A food, for example, an egg laid on a holiday, may be permitted for the next day. But if it was, either whole or broken, mixed with other eggs, it cannot be dissolved even if the other eggs represent a quantity a thousand times greater. Similarly, when it is unknown if it was laid on a holiday, one cannot use the eggs with which it was mixed. But if the same egg was mixed with another food of a different nature, the mixture is permitted if the permitted food represents a quantity sixty times greater.<br><small>G<small>LOSS</small>: However, the mixture is forbidden when this egg was used for a sauce or to enhance the quality of a dish.</small>",
+              "he": " כל דבר שיש לו מתירין כגון ביצה שנולדה ביום טוב שראויה למחר אם נתערב' באחרות בין שלימה בין טרופה אינה בטלה אפילו באלף ואפי' ספק אם נולדה בי\"ט ונתערבה באחרו' אסורו' ואם נתערבה בשאינה מינה בטלה בס' <span class=\"hebrew-emphasis\">(טור וש\"ד ותשו' הרא\"ש ור' ירוחם והגהות ש\"ד ורש\"ל ורוקח וכנ\"ד סמ\"ג וסמ\"ק בהל' י\"ט וכ\"כ או\"ה כלל כ\"ו בשם סמ\"ג ות\"ח כלל מ\"ג ולא כב\"ח וסמ\"ק סימן רי\"ד וכ\"מ באגודה ומרדכי ריש ביצה בשם ראבי\"ה וכ\"כ טא\"ח סימן תקי\"ג והאגור בשמו והאו\"ה כלל כ\"ה בשם מרדכי ריש ביצה בשם ראבי\"ה ולא כב\"ח): הגה מיהו אם לבנו בה מאכל או נתנו בקדרה לתקן הקדרה כגון שמלאוה בתרנגולת אינה בטלה (הגהת ש\"ד ובארוך) ועיין בא\"ח סימן תקי\"ג:</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 102:1",
+              "sourceHeRef": "יורה דעה קב:א - דין דבר שיש לו מתירין.",
+              "sourceRef": "Yoreh De'ah 102:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>כל דבר</b> אסור <b>שיש לו מתירין,</b> כלומר, שיש דרך להתירו, <b>כגון טבל</b> שמתירים אותו על ידי עישורו, <b>ומעשר שני</b> שמתירים אותו על ידי פדייתו או בהעלאתו לירושלים, <b>והקדש</b> שאפשר לפדותו, <b>וחדש,</b> תבואה חדשה, שמותרת לאחר הבאת העומר — <b>לא נתנו בהן חכמים שיעור</b> לביטולם, אם נפלו לתוך תערובת של היתר, ואינם בטלים בכל שיעור שהוא. <b>וכל דבר שאין לו מתירין, כגון תרומה ותרומת מעשר וחלה וערלה וכלאי הכרם —</b> <b>נתנו בהם חכמים שיעור</b> לביטולם.",
+              "ref": "Steinsaltz on Nedarim 58a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ח א:א",
+              "sourceRef": "Steinsaltz on Nedarim 58a:1"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל דבר שיש לו מתירין כגון טבל</strong> - שנתערב בחולין דמצי מעשר עליו מדמאי או מעציץ שאינו נקוב:",
+              "ref": "Tosafot on Nedarim 58a:1:1",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:א:א",
+              "sourceRef": "Tosafot on Nedarim 58a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומעשר שני</strong> - דאפשר להעלותו ולאוכלו או לפדותו:",
+              "ref": "Tosafot on Nedarim 58a:1:2",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:א:ב",
+              "sourceRef": "Tosafot on Nedarim 58a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחדש</strong> - דהאיר המזרח מתיר:",
+              "ref": "Tosafot on Nedarim 58a:1:3",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:א:ג",
+              "sourceRef": "Tosafot on Nedarim 58a:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והקדש</strong> - דאי בעי פריק ליה:",
+              "ref": "Tosafot on Nedarim 58a:1:4",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:א:ד",
+              "sourceRef": "Tosafot on Nedarim 58a:1:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא נתנו חכמים שיעור</strong> - ואסורין בכל שהוא ואין להקשות דבפ' בתרא דע\"ז <span class=\"parenthesized\">(דף עג:)</span> אמר דבטבל שלא במינו בנ\"ט י\"ל דהא נמי דאמר שלא נתנו בו שיעור משום דיש לו מתירין היינו דווקא במינו אבל שלא במינו בטל וכן משמע לעיל גבי יין שהוא בנ\"ט ואע\"ג דהוי דבר שיש לו מתירין וא\"ת פרק בתרא דמסכת ע\"ז <span class=\"parenthesized\">(שם)</span> דקאמר חוץ מטבל ויין נסך דבמינו במשהו ופריך בשלמא עבודת כוכבים משום חומרא דע\"ז אלא טבל מאי טעמא ומסיק כהיתרו כך איסורו פירוש דחיטה אחת פוטרת את הכרי ולימא טעמא משום דיש לו מתירין וי\"ל דהתם בטבל שהלכו בעליו למדינת הים דאין לו מי יתירו אבל קשה למה לי טעם דיש לו מתירין תיפוק ליה משום דכהיתרו כך איסורו:",
+              "ref": "Tosafot on Nedarim 58a:1:5",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:א:ה",
+              "sourceRef": "Tosafot on Nedarim 58a:1:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכל שאין לו מתירין כגון תרומה</strong> - ולקמן מפרש אמאי הוי אין מתירין:",
+              "ref": "Tosafot on Nedarim 58a:1:6",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:א:ו",
+              "sourceRef": "Tosafot on Nedarim 58a:1:6"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וערלה וכלאי הכרם נתנו בו חכמים שיעור</strong> - תרומה בק' ערלה וכלאים במאתים ומיירי במין במינו דבשאינו מינו אמרי' פ' גיד הנשה <span class=\"parenthesized\">(חולין דף צז -)</span> דתרומה בנ\"ט:",
+              "ref": "Tosafot on Nedarim 58a:1:7",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:א:ז",
+              "sourceRef": "Tosafot on Nedarim 58a:1:7"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "Untithed produce that gets mixed up with chullin, behold, it is forbidden in any amount. If he has another batch [of produce] in a different location, he may take it out according to the calculation, and if not, Rabbi Eliezer ben Arakh says, he designates the terumah of tithes that are inside [the mixture] and he lifts it up at one hundred and one [to one]. And so too with tithes taken from untithed produce that got mixed up with chullin, behold, it is forbidden in any amount. If he has a batch in a different location, he may take it out according to the calculation, and if not Rabbi Eliezer ben Arakh says, he designates the terumah of tithes that are inside [the mixture] and he lifts it up at one hundred and one [to one]. And if it was untithed produce of first tithe or second tithe, behold, it is forbidden, as they did not permit a doubt as to a forbidden mixture except as to something that has permissible factors (i.e., where it is possible that all of the resulting produce may be consumed). Rabbi Shimon says, any matter that has permissible factors, such as untithed produce and second tithe, or consecrated produce, or new produce, the Sages did not provide a fixed measurement [to nullify it]. And any matter that does not have permissible factors, such as orlah and mixed-kinds of the vineyard, the Sages game them a fixed measurement [by which the mixture could be nullified]. They said to him, and what about seventh-year produce that does not have permissible factors but the Sages did not give it a fixed measurement [to be nullified if mixed with other produce]? He said to them, seventh-year produce [mixed with other produce] is not forbidden in any amount, rather it must be removed (<i>biur</i>), but to eat it they did not forbid it except if it imparts taste [to other foods].",
+              "he": "הטבל שנתערב בחולין הרי זה אוסר כל שהוא אם יש לו פרנסה ממקום אחר מוציא לפי חשבון ואם לאו ר' אלעזר בן ערך אומר קורא שם לתרומת מעשר שבו ועולה בא' ומאה וכן מעשר טבל שנתערב בחולין הרי אוסר כל שהוא אם יש לו פרנסה ממקום אחר מוציא לפי חשבון ואם לאו רבי אליעזר בן ערך אומר קורא שם [על תרומת] מעשר שבו ועולה באחד ומאה [ואם היה טבל מעשר ראשון ומעשר שני הרי זה אסור שלא התירו ספק מדומע אלא לדבר שיש לו מתירין] רבי שמעון אומר כל דבר שיש לו מתירין כגון טבל ומעשר שני והקדש והחדש לא נתנו חכמים שיעור וכל דבר שאין לו מתירין כגון ערלה וכלאי הכרם נתנו חכמים להם שיעור [אמרו לו והלא שביעית אין לה מתירין ולא נתנו לה חכמים שיעור] אמר להם שביעית אינה אוסרת כל שהוא אלא לביעור אבל לאכילה אינה אוסרת אלא בנותן טעם.",
+              "ref": "Tosefta Terumot 5:18",
+              "sourceHeRef": "תוספתא תרומות ה:יח",
+              "sourceRef": "Tosefta Terumot 5:18"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "as the first yield of your baking, you shall set aside a loaf as a gift; you shall set it aside as a gift like the gift from the threshing floor.",
+              "he": "רֵאשִׁית֙ עֲרִסֹ֣תֵכֶ֔ם חַלָּ֖ה תָּרִ֣ימוּ תְרוּמָ֑ה כִּתְרוּמַ֣ת גֹּ֔רֶן כֵּ֖ן תָּרִ֥ימוּ אֹתָֽהּ׃",
+              "link": "/Numbers/15",
+              "ref": "Numbers 15:20",
+              "sourceHeRef": "במדבר טו:כ",
+              "sourceRef": "Numbers 15:20"
+            },
+            {
+              "en": "Should the distance be too great for you, should you be unable to transport them, because the place where the L<small>ORD</small> your God has chosen to establish His name is far from you and because the L<small>ORD</small> your God has blessed you,",
+              "he": "וְכִֽי־יִרְבֶּ֨ה מִמְּךָ֜ הַדֶּ֗רֶךְ כִּ֣י לֹ֣א תוּכַל֮ שְׂאֵתוֹ֒ כִּֽי־יִרְחַ֤ק מִמְּךָ֙ הַמָּק֔וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לָשׂ֥וּם שְׁמ֖וֹ שָׁ֑ם כִּ֥י יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+              "link": "/Deuteronomy/14",
+              "ref": "Deuteronomy 14:24",
+              "sourceHeRef": "דברים יד:כד",
+              "sourceRef": "Deuteronomy 14:24"
+            },
+            {
+              "en": "Until that very day, until you have brought the offering of your God, you shall eat no bread or parched grain or fresh ears; it is a law for all time throughout the ages in all your settlements.",
+              "he": "וְלֶ֩חֶם֩ וְקָלִ֨י וְכַרְמֶ֜ל לֹ֣א תֹֽאכְל֗וּ עַד־עֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה עַ֚ד הֲבִ֣יאֲכֶ֔ם אֶת־קׇרְבַּ֖ן אֱלֹהֵיכֶ֑ם חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֹשְׁבֹֽתֵיכֶֽם׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Leviticus/23",
+              "ref": "Leviticus 23:14",
+              "sourceHeRef": "ויקרא כג:יד",
+              "sourceRef": "Leviticus 23:14"
+            },
+            {
+              "en": "You shall not sow your vineyard with a second kind of seed, else the crop—from the seed you have sown—and the yield of the vineyard may not be used.",
+              "he": "לֹא־תִזְרַ֥ע כַּרְמְךָ֖ כִּלְאָ֑יִם פֶּן־תִּקְדַּ֗שׁ הַֽמְלֵאָ֤ה הַזֶּ֙רַע֙ אֲשֶׁ֣ר תִּזְרָ֔ע וּתְבוּאַ֖ת הַכָּֽרֶם׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Deuteronomy/22",
+              "ref": "Deuteronomy 22:9",
+              "sourceHeRef": "דברים כב:ט",
+              "sourceRef": "Deuteronomy 22:9"
+            }
+          ]
+        }
+      },
+      "en": "For <b>any item that can become permitted,</b> i.e., a forbidden object whose prohibition can or will lapse, <b>for example, untithed produce</b> that can be permitted through tithing, <b>and second tithe</b> that is permitted through redemption or bringing it to Jerusalem (Deuteronomy 14:24–26), <b>and consecrated items</b> that are also permitted through redemption, <b>and</b> produce of the <b>new</b> crop that is permitted after the sacrifice of the <i>omer</i> offering (Leviticus 23:14), <b>the Sages did not determine a measure for their</b> neutralization, and no mixture with any quantity of permitted items neutralizes their prohibition. <b>And</b> for <b>any item that cannot become permitted, for example, <i>teruma</i>, and <i>teruma</i> of the tithe, and <i>ḥalla</i></b> (Numbers 15:20–21); <b>fruit of a tree during the first three years after its planting [<i>orla</i>]; and forbidden food crops in a vineyard</b> (Deuteronomy 22:9), <b>the Sages determined a measure for their</b> neutralization.",
+      "he": "כׇּל דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין, כְּגוֹן טֶבֶל וּמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ וְחָדָשׁ — לֹא נָתְנוּ בָּהֶן חֲכָמִים שִׁיעוּר. וְכׇל דָּבָר שֶׁאֵין לוֹ מַתִּירִין, כְּגוֹן תְּרוּמָה וּתְרוּמַת מַעֲשֵׂר וְחַלָּה וְעׇרְלָה וְכִלְאֵי הַכֶּרֶם — נָתְנוּ בָּהֶם חֲכָמִים שִׁיעוּר.",
+      "ref": "Nedarim 58a:1"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>והלא שביעית אין לה מתירין.</b> קשה לי עדיין יקשה הא יין נסך דאין לו מתירין ואסור במינו במשהו. ומשום חמץ ליכא קושיא כל כך דיש לומר דמה דגם באינו מינו במשהו לא חשיב אבל מיין נסך קשה וצ\"ע:",
+              "ref": "Gilyon HaShas on Nedarim 58a:1",
+              "sourceHeRef": "גליון הש\"ס על נדרים נ״ח א:א",
+              "sourceRef": "Gilyon HaShas on Nedarim 58a:1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "[Related concepts apply with regard to] produce of the Sabbatical year. If [such produce] becomes mixed with [produce of] the same type, the tiniest amount [causes the mixture to be considered bound by the laws of the produce of the Sabbatical year]. [If it becomes mixed with produce of] another type, [the ruling depends on whether] its flavor can be detected. [Nevertheless,] it is not considered as one of the substances forbidden by Scriptural Law. For this mixture is not forbidden. Instead, one is obligated to eat the entire mixture in keeping with the holiness of the produce of the Sabbatical year, as will be explained in the appropriate place.",
+              "he": "פֵּרוֹת שְׁבִיעִית אַף עַל פִּי שֶׁאִם נִתְעָרְבוּ בְּמִינָן בְּכָל שֶׁהוּא וְשֶׁלֹּא בְּמִינָן בְּנוֹתֵן טַעַם אֵינָן בִּכְלָל אִסּוּרֵי תּוֹרָה שֶׁאֵין אוֹתָהּ הַתַּעֲרֹבֶת אֲסוּרָה. אֶלָּא חַיָּב לֶאֱכל כָּל הַתַּעֲרֹבֶת בִּקְדֻשַּׁת שְׁבִיעִית כְּמוֹ שֶׁיִּתְבָּאֵר בִּמְקוֹמוֹ:",
+              "ref": "Mishneh Torah, Forbidden Foods 15:8",
+              "sourceHeRef": "הלכות מאכלות אסורות טו:ח",
+              "sourceRef": "Forbidden Foods 15:8"
+            },
+            {
+              "en": "When carobs of the Sabbatical year were left to soak in the wine of the sixth year or in the wine of the eighth year, <i>biyur</i> must be performed with the wine, because it has absorbed the flavor of the produce of the Sabbatical year. This is the general principle: When the produce of the Sabbatical year becomes mixed with other produce of the same species, even the slightest amount [causes the entire mixture to be considered as the produce of the Sabbatical year]. When it becomes mixed with other species, [the ruling depends on whether it has] imparted its flavor [or not].",
+              "he": "חָרוּבִין שֶׁל שְׁבִיעִית שֶׁכְּבָשָׁן בְּיֵין שִׁשִּׁית אוֹ בְּיֵין מוֹצָאֵי שְׁבִיעִית חַיָּב לְבַעֵר הַיַּיִן. שֶׁהֲרֵי טַעַם פֵּרוֹת שְׁבִיעִית בּוֹ. זֶה הַכְּלָל פֵּרוֹת שְׁבִיעִית שֶׁנִּתְעָרְבוּ בְּפֵרוֹת אֲחֵרוֹת מִין בְּמִינוֹ בְּכָל שֶׁהוּא וְשֶׁלֹּא בְּמִינוֹ בְּנוֹתֵן טָעַם:",
+              "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 7:22",
+              "sourceHeRef": "הלכות שמיטה ויובל ז:כב",
+              "sourceRef": "Sabbatical Year and the Jubilee 7:22"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">השביעית אוסרת בכל שהוא במינה</strong> - בין בתערובת פירות היתר בשל שביעית בין בגידולין כגון בצל ששית שנטעו בשביעית:",
+              "ref": "Ran on Nedarim 58a:2:1",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:ב:א",
+              "sourceRef": "Ran on Nedarim 58a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר להם אף הם לא אמרו אלא לביעור</strong> - אף הם לא אמרו שהשביעית אוסרת בכל שהוא במינה אלא לענין שצריך לאכול התערובת קודם הביעור דכיון שאפשר לאכלו ה\"ל כדבר שיש לו מתירין:",
+              "ref": "Ran on Nedarim 58a:2:2",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:ב:ב",
+              "sourceRef": "Ran on Nedarim 58a:2:2"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יש מי שגורס:<b> אף אני לא אמרתי אלא לביעור אבל לאכילה כל שהוא.</b> ופירש כך אף אני לא אמרתי שיש לה שיעור אלא לביעור, כלומר שאם נטע של ששית בשביעית, והוסיף כל שהוא, בטלו אותן גדולין לגמרי לגבי העיקר הרוב שהוא של היתר, ואינו אסור לגמרי כדין גידולי שביעית, אלא מותרין באכילה, והוא שיבערום כלומר שיאכלם קודם יציאת שביעית, אבל לאכילה לאחר שביעית, כלומר אם נתערבו לו פירות שביעית בשל שמינית, בכי הא תנן השביעית אוסרת במינה במשהו, אלמא אתו גידולי היתר ומבטלי איסור, ודחה הא נמי לחומרא שאני. ואינו מחוור בעיני כלל, דעל כרחך לא איבעי ליה לישראל איש כפר ימא [אלא בגידולין, ולא בפירות שביעית שנתערבו בפירות שמינית, וכדכתיבנא לעיל, דאם איתא למה ליה – לפי השי\"מ] לדחוקי נפשיה ולמינקט בצל שעקרו בשביעית ונטעו בשמינית, ליבעי פירות שביעית שנתערבו בפירות שמינית. ועוד דמאי קא משני הא נמי לחומרא דאם בתערובת פירות שביעית שנתערבו בפירות שמינית הלכו בהן לחומרא כל שכן בגידולין ועיקר. ואינו נראה כלל ועיקר, אלא הכי גרסינן אמר להם אף אני לא אמרתי אלא לביעור אבל לאכילה כל שהוא בנותן טעם. ונראה לי דהכי קאמר אף אני אומר שלא אמרנו שם בשביעית שאוסרת בכל שהוא אלא לביעור, ולא אמרתי לאו דוקא ואמת ניתא קאמרוה כאילו הברייתא אומרת כן, וכמוה [מכילתא פרשת בא פרשה י\"ז] בעבור זה לא אמרתי אלא כשיש מצה ומרור מונחים לפניך, וכן היא בירושלמי [פרק ששי הלכה ג'] של מסכת שביעית דגרסינן התם, אמר להם לא אם בשביעית שאוסרת כל שהוא אלא בביעור, אבל באכילה בנותן טעם.",
+              "ref": "Rashba on Nedarim 58a:2",
+              "sourceHeRef": "רשב״א על נדרים נ״ח א:ב",
+              "sourceRef": "Rashba on Nedarim 58a:2"
+            },
+            {
+              "en": "",
+              "he": "<b>לביעור.</b> פירשו המפרשים אם נטע בצל של ששית בשביעית וגדל בשביעית כל שהוא חייב לבערו [באכילה שיאכלנו קודם הביעור – לפי השי\"מ] כאילו כולו משביעית, דאתו גידולי האיסור ומבטלין העיקר של היתר ששית, אבל לאכילה כשנתערבו פירות שביעית בפירות שמינית בזה ודאי נתנו ליה חכמים שיעור בנותן טעם, אלמא לא אתו גידולין של שביעית ומבטלין את העיקר של ששית, והכא נמי בצל של שביעית שנטעו בשמינית ורבו גידולי על עיקרו אתו גדולי היתר ומבטלין את העיקר. ודחי",
+              "ref": "Rashba on Nedarim 58a:3",
+              "sourceHeRef": "רשב״א על נדרים נ״ח א:ג",
+              "sourceRef": "Rashba on Nedarim 58a:3"
+            },
+            {
+              "en": "",
+              "he": "<b>ולעיקר הא דתניא אף אני לא אמרתי אלא לביעור.</b> יש מפרשים כגון בצל של ששית שנכנס בשביעית והוסיף כל שהוא. והקשו בתוספות [כאן ד\"ה אמר להם] דאם כן היינו ספיחי ששית שנכנס בשביעית ותניא כל הספיחים מותרים חוץ מספיחי כרוב, ועוד דאין גידולי כרוב שביעית אוסרין בכל שהן, וכדתניא בסמוך בצלים שירדו עליהם גשמים וצמחו אם עלין שלהן שחורות אסורין הוריקו מותרין, ולגבי כלאים נמי כהאי גוונא דאין אוסרין במשהו אלא בעינן תוספת אחד במאתים, וכדאמרינן במעביר עציץ נקוב בכרם, ומשום כך פירשו בתוספות דהא בבצל של ששית שנטעו לכתחלה בשביעית, ומשום הכי כיון שנעשית איסור בידים בתחלת נטיעתו גזרו עליו ואסרוהו בתוספת כל שהוא, וכענין שאסרה תורה בכלאים זרוע מעיקרא בהשרשה, וזרוע ובא בתוספת, כלומר זרוע באיסור מעיקרו אוסר בהשרשה לבד, אבל זרוע קודם נטיעתן בטל חשיבותן ומתבטלין לגבי הרוב.",
+              "ref": "Rashba on Nedarim 58a:5",
+              "sourceHeRef": "רשב״א על נדרים נ״ח א:ה",
+              "sourceRef": "Rashba on Nedarim 58a:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">השביעית אוסרת כל שהוא במינה</strong> - שאם נתערבה סאה של חטין של שביעית באלף של היתר אינה בטלה:",
+              "ref": "Rashi on Nedarim 58a:2:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ב:א",
+              "sourceRef": "Rashi on Nedarim 58a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר להם אף אני לא אמרתי</strong> - שיהא שביעית אוסרת במינה כל שהוא:",
+              "ref": "Rashi on Nedarim 58a:2:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ב:ב",
+              "sourceRef": "Rashi on Nedarim 58a:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לביעור</strong> - שאם נטל בצל של ששית ונטעו בשביעית והוסיפה כל שהוא אותו כל שהוא מבטל את העיקר ומחייב כולו בביעור דמוצאי שביעית:",
+              "ref": "Rashi on Nedarim 58a:2:3",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ב:ג",
+              "sourceRef": "Rashi on Nedarim 58a:2:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמרו לו</b> לר' שמעון: <b>והלא שביעית אין לה</b> לפירותיה <b>מתירין, ו</b>בכל זאת <b>לא נתנו בה חכמים שיעור. דתנן</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> במשנה<span class=\"hebrew-emphasis\">]:</span> <b>השביעית אוסרת כל שהוא במינה</b> (אם האיסור וההיתר שבתערובת מאותו מין)! <b>אמר להן: אף אני לא אמרתי</b> שתהא שביעית אוסרת, הן על ידי תערובת, והן על ידי גידולי שביעית שנוספו על עיקר של היתר <b>אלא ל</b>ענין <b>ביעור</b> פירות שביעית, שניתן לאכול את התערובת רק קודם שהגיע הזמן לבערם מן העולם. שכיון שמותרים באותה שעה הרי זה כדבר שיש לו מתירים.",
+              "ref": "Steinsaltz on Nedarim 58a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ח א:ב",
+              "sourceRef": "Steinsaltz on Nedarim 58a:2"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דתנן השביעית אוסרת בכל שהוא</strong> - והא דאיבעי' ליה לעיל אי גידולי דהיתר מבטלין לעיקר דשביעית י\"ל דהכא מיירי בדבר לח אבל ביבש לא א\"נ שמא גידולי חשיבי טפי ומבטלי עיקר:",
+              "ref": "Tosafot on Nedarim 58a:2:1",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ב:א",
+              "sourceRef": "Tosafot on Nedarim 58a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר להם שביעית אינה אוסרת בכל שהוא אלא לביעור פירות</strong> - פירש הרב רבי אליעזר כגון פירות ששית שנכנסו בשביעית וגדלו משהו וצריכין ביעור כפירות שביעית דגידולי איסור חשיבי ומבטלי לעיקר דהיתר אבל לאכילה כגון לאחר ביעור בפירות שביעית שנתערבו בפירות דהיתר אינו אוסר במשהו אלא בנותן טעם כשאר איסורין אלמא דגידולי שביעית מבטלין לעיקר דהיתר ה\"נ נימא בבעיין דבצל דגידולי היתר מבטלי לעיקר דאיסור ודחי הא נמי לחומרא אזלינן דגידולי שביעית מבטלין העיקר אבל להקל לא מבטלי גידולי דהיתר לעיקר דאיסור ומה שפירש אלא לביעור לענין פירות ששית שנכנסין בשביעית ק' להר\"מ דתניא כל הספיחין מותרין חוץ מספיחי כרוב ומפרשינן דמיירי בספיחי ששית הנכנסים בשביעית אלמא דגידולי שביעית אינן אוסרין במשהו ונראה דשמא התם מיירי שגמרו בששית ולא גדלו כלל בשביעית וספיחי כרוב אסורין כדמפרש שמא יקח מן העלין ויאמר מן האמהות לקחתי ועוד קשה להר\"ם מהך דמעביר עציץ נקוב בכרם אם הוסיף מאתים אסור לא הוסיף מאתים מותר אלמא דגידולי איסור אינם אוסרים במשהו וכן מצינו בהך דבצלים שירדו עליהם גשמים וצמחו הוריקו מותרין אלמא דגידולי שביעית אינם אוסרים במשהו לכך מפרש הר\"ם דהכא מיירי בבצל שנעקר בששית ונטעה בשביעית ומכיון שהוסיף משהו נאסר כולו כמו כלאי הכרם דעיקרם נאסר דה\"נ אמר התם זרעו מעיקרו בהשרשה כלומר כשתחלת זריעתו באיסור זרוע ובא הוסיף אין לא הוסיף לא והכי נמי תחלת זריעתו באיסור היתה מיהו יש ליישב דלביעור קשה דהיה לו לומר לגידולין אין לו זריעה:",
+              "ref": "Tosafot on Nedarim 58a:2:2",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ב:ב",
+              "sourceRef": "Tosafot on Nedarim 58a:2:2"
+            }
+          ]
+        }
+      },
+      "en": "The Rabbis <b>said to</b> <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span>: <b>But isn’t Sabbatical-Year</b> produce <b>an item that cannot become permitted, and</b> nevertheless, <b>the Sages did not determine a measure for its</b> neutralization, <b>as we learned</b> in a mishna (<i>Shevi’it</i> 7:7): <b>The Sabbatical-Year</b> produce <b>prohibits</b> permitted produce <b>of its</b> own <b>species</b> with which it is mixed <b>in any amount.</b> <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> <b>said to them: I too said</b> that Sabbatical-Year produce prohibits permitted produce in a mixture and permitted growths that develop from it <b>only</b> with regard <b>to</b> the <b>removal</b> of the produce. Sabbatical-Year produce may be eaten only as long as produce of that species remains in the field, after which it must be removed from one’s possession. Since it is permitted to eat the produce before that time, its legal status during this period is that of an item that can become permitted.",
+      "he": "אָמְרוּ לוֹ: וַהֲלֹא שְׁבִיעִית אֵין לָהּ מַתִּירִין, וְלֹא נָתְנוּ בָּהּ חֲכָמִים שִׁיעוּר. דִּתְנַן: הַשְּׁבִיעִית אוֹסֶרֶת כׇּל שֶׁהוּא בְּמִינָהּ! אָמַר לָהֶן: אַף אֲנִי לֹא אָמַרְתִּי אֶלָּא לְבִיעוּר.",
+      "ref": "Nedarim 58a:2"
+    },
+    {
+      "commentary": {
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל לאכילה</strong> - כלומר אם נתערבו לאחר הביעור שאם יהו אוסרים תערובתן לא שרו באכילה בין במינן בין שלא במינן בנותן טעם אלמא גדולין אינן נמשכין אחר העיקר להיות כמוהו דא\"ה היאך תאסור שביעית בגידוליה אלא ודאי אין גידולין כעיקר הלכך מעלין והרי אתה רואה דסבירא לן דאי אין מעלין על כרחיך גידולין כעיקר דאי לא היכי פשיט דמדגדולין אסורין מעלין אלא ודאי כדפרשינן לעיל ודחי ליה דלמא הא נמי לחומרא אבל מדינא לעולם אימא לך שהגידולין הרי הן כעיקר הלכך אין מעלין אותו להתירו. ונראה בעיני דאף על גב דלעיל דחינן דלמא לחומרא בעינן למפשטה מהא דסליק אדעתין דליכא למידחי כי האי גוונא משום דבשלמא לעיל ליכא אלא חדא חומרא דמחמרינן דגידולין כמאן דאתו מעלמא דמי אבל הכא אי אמרינן לחומרא שאני מחמרינן תרי חומרי חדא דלביעור כיון דכיש לו מתירין דמי אוסרת בכל שהוא והא חומרא בעלמא הוא ועוד דגידולין שאינן דינן לאסור אפילו בכמה יאסרו בכל שהוא ואפילו הכי דחייה ודלמא הא נמי לחומרא שאני דתרי חומרי מחמרינן בה ואיכא נוסחי דגרסי אף אני לא אמרתי אלא לביעור והיינו הך דהכי קאמר להו רבי שמעון לא תותביתו לי מהך מתניתין דשביעית דהרי היא כאילו אומרת בפירוש אף אני לא אמרתי אלא לביעור:",
+              "ref": "Ran on Nedarim 58a:3:1",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:ג:א",
+              "sourceRef": "Ran on Nedarim 58a:3:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> ודלמא הא נמי לחומרא.</b> אבל להקל כגון בצל שביעית שנטעו בשמינית עדיין תיבעי. וגם זה אינו מחוור בעיני, דקשיא לי טובא דהיכי תיסק אדעתין דמשום ביטול הוא, וכי היכן מצינו שהמיעוט מבטל את הרוב, ואנן לא איבעיא לן אלא בשרבו גידוליו על עיקרו, הא בשרבה עיקרו על גידוליו פשיטא דאין המיעוט של גידולי היתר מבטלין ומתירין את העיקר. אלא דלגבי בצל של ששית שנטעו בשביעית שאוסרת בכל שהוא, לומר שהוא צריך לבערו באכילה בשביעית לא מדין ביטול [את ההיתר, כלומר שנתבטל ההיתר לגבי האיסור הוא, אלא שאין האיסור בטל לגבי – לפי השי\"מ] ההיתר, ומחמת האיסור שבו שאינו יכול להתברר מתוך ההיתר אתה בא לחייב כל הבצל לביעור אכילה בשביעית, ואם כן מאי קא מייתי מינה לבצל של שביעית שיתבטל לגבי גידולי ההיתר. אלא נראה לי דהכי קא דייק, מדקתני שחייב לבערו מחמת גידולי האיסור, אלמא אין איסור שביעית מתבטל לגבי רוב ההיתר ואפילו גידולין לגבי העיקר, והוא הדין וכל שכן לעיקר של שביעית שאינו בטל לגבי הגידולין שרבו עליו, ומשני ודלמא הא נמי לחומרא, כלומר התם הוא שהחמירו עליו כיון שאפשר לתקן בביעור אכילה, אבל הכא שאם אתה אוסרו ילך לאיבוד ואפילו הגידולין דלמא בטיל הוא לגבי הרוב. כן נראה לי.",
+              "ref": "Rashba on Nedarim 58a:4",
+              "sourceHeRef": "רשב״א על נדרים נ״ח א:ד",
+              "sourceRef": "Rashba on Nedarim 58a:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל לאכילה</strong> - שאם נתערבו פירות שביעית בפירות שמינית לאחר שנתחייבו בביעור ולא ביערן דהשתא קיימי באיסור אכילה אינה אוסרת אלא בנותן טעם ואם אין בה בנותן טעם מתבטל ומדקתני לא אמרתי אלא לביעור דגידולין מבטלין את העיקר התם נמי בבעיא של ישמעאל גידוליו מבטלין את העיקר:",
+              "ref": "Rashi on Nedarim 58a:3:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ג:א",
+              "sourceRef": "Rashi on Nedarim 58a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא נמי לחומרא</strong> - דהא דאמר לענין ביעור דגידולין מבטלין את העיקר היינו נמי לחומרא שכולן חייבין בביעור העיקר והתוספת אבל בעיא דישמעאל להיתר היא:",
+              "ref": "Rashi on Nedarim 58a:3:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ג:ב",
+              "sourceRef": "Rashi on Nedarim 58a:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אבל ל</b>ענין היתר <b>אכילה</b> לאחר זמן הביעור שאז אין עוד היתר לגידולי השביעית — יש להם שיעור לביטולם, ואוסרים את התערובת רק <b>ב</b>שיעור כזה שהאיסור <b>נותן טעם</b> בתערובת. ולענייננו אפשר ללמוד מכאן שגידולים מבטלים את העיקר! ודוחים: <b>ודלמא הא נמי לחומרא שאני</b> <span class=\"hebrew-emphasis\">[ושמא זו גם כן להחמיר שונה],</span> שהחמירו שגם על העיקר של היתר תחול קדושת שביעית, אבל אין ללמוד מכאן גם לקולא, שיתירו גידולים את העיקר!",
+              "ref": "Steinsaltz on Nedarim 58a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ח א:ג",
+              "sourceRef": "Steinsaltz on Nedarim 58a:3"
+            }
+          ]
+        }
+      },
+      "en": "<b>However,</b> with regard <b>to</b> the permissibility of <b>eating</b> Sabbatical-Year produce after the time of removal has passed, when eating that produce is prohibited, the Sages determined a measure for their neutralization. The mixture is forbidden only if the measure of that produce is enough <b>to impart flavor</b> to the mixture. Apparently, permitted growths can neutralize the prohibition of the original item. The Gemara rejects the proof: <b>And perhaps here too,</b> it <b>is different</b> when the ruling <b>is a stringency.</b> In this case, the stringency is that the original item is sacred with the sanctity of the Sabbatical Year. However, here too, there is no proof that the same would be true in cases where the result is a leniency.",
+      "he": "אֲבָל לַאֲכִילָה בְּנוֹתֵן טַעַם. וְדִלְמָא הָא נָמֵי לְחוּמְרָא שָׁאנֵי!",
+      "ref": "Nedarim 58a:3"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "Onions on which rain fell and which had sprouted, if their leaves had turned black, they are forbidden; if they had become green they are permitted. Rabbi Hanina ben Antigonus says: if they can be plucked out by their leaves, they are forbidden. In the year after the sabbatical year, the like of these are permitted.",
+              "he": "בְּצָלִים שֶׁיָּרְדוּ עֲלֵיהֶם גְּשָׁמִים וְצִמֵּחוּ, אִם הָיוּ הֶעָלִין שֶׁלָּהֶם שְׁחוֹרִין, אֲסוּרִין. הוֹרִיקוּ, הֲרֵי אֵלּוּ מֻתָּרִין. רַבִּי חֲנִינָא בֶן אַנְטִיגְנוֹס אוֹמֵר, אִם יְכוֹלִין לְהִתָּלֵשׁ בֶּעָלִין שֶׁלָּהֶן, אֲסוּרִין. וּכְנֶגֶד כֵּן, מוֹצָאֵי שְׁבִיעִית, מֻתָּרִין:",
+              "link": "/Mishnah Sheviit/6",
+              "ref": "Mishnah Sheviit 6:3",
+              "sourceHeRef": "משנה שביעית ו:ג",
+              "sourceRef": "Mishnah Sheviit 6:3"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When, in the Sabbatical year, rain descended upon onions and they sprouted leaves, the leaves are permitted as long as they are light green. If they have turned dark, it is considered as if the plants were planted in the earth and those leaves are forbidden as <i>sefichin</i>. In both situations, the onions themselves remain permitted.",
+              "he": "הַבְּצָלִים שֶׁיָּרְדוּ עֲלֵיהֶם גְּשָׁמִים בַּשְּׁבִיעִית וְצָמְחוּ כָּל זְמַן שֶׁהֶעָלִין שֶׁלָּהֶן יְרֻקִּין הֲרֵי אֵלּוּ מֻתָּרִין. וְאִם הִשְׁחִירוּ הֲרֵי הֵן כִּנְטוּעִין בָּאָרֶץ וְאוֹתָן הֶעָלִין אֲסוּרִין מִשּׁוּם סְפִיחִין. וּבֵין כָּךְ וּבֵין כָּךְ הַבְּצָלִים עַצְמָן בְּהֶתֵּרָן עוֹמְדִין:",
+              "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 4:20",
+              "sourceHeRef": "הלכות שמיטה ויובל ד:כ",
+              "sourceRef": "Sabbatical Year and the Jubilee 4:20"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא מן הדא פשטה דתניא בצלים שירדו עליהם גשמים</strong> - בשביעית וצמחו אם היו עלין שלהן שחורין אסורין. לאו שחורין ממש אלא נוטים לשחרות שזה מוכיח שגדולן יפה ומקרקע שביעית נתגדלו ולפיכך אסורין:",
+              "ref": "Ran on Nedarim 58a:4:1",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:ד:א",
+              "sourceRef": "Ran on Nedarim 58a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הוריקו מותרין</strong> - שכיון שהם ירוקים לאו מחמת יניקת הקרקע נתגדלו אלא מחמת הבצל עצמו:",
+              "ref": "Ran on Nedarim 58a:4:2",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:ד:ב",
+              "sourceRef": "Ran on Nedarim 58a:4:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בצלים</strong> - של ששית שירדו עליהם גשמים בשביעית וצמחו מאיליהן בלא נטיעה:",
+              "ref": "Rashi on Nedarim 58a:4:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ד:א",
+              "sourceRef": "Rashi on Nedarim 58a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אם היו עלין שלהן שחורין</strong> - שמחמת שצמחו יש להן כח עוד ליגדל אסורין דודאי גדלי ממי שביעית וגידוליו מבטלין את העיקר:",
+              "ref": "Rashi on Nedarim 58a:4:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ד:ב",
+              "sourceRef": "Rashi on Nedarim 58a:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הוריקו</strong> - שהן כמו כמושין ירוקין והכסיפו פניהם מותרין שלא גדלו כלום בשביעית:",
+              "ref": "Rashi on Nedarim 58a:4:3",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ד:ג",
+              "sourceRef": "Rashi on Nedarim 58a:4:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא מן הדא פשטה</b> <span class=\"hebrew-emphasis\">[מזו פתר אותה]</span> את שאלת ר' ישמעאל איש כפר ימא, <b>דתנן</b> <span class=\"hebrew-emphasis\">[ששנינו</span> במשנה<span class=\"hebrew-emphasis\">]:</span> <b>בצלים</b> של השנה השישית <b>שירדו עליהם גשמים</b> בשנה השביעית <b>וצמחו, אם היו עלין שלהן שחורין</b> (ירוקים כהים) שמכאן מוכח שיש בזה גידול של ממש, הריהם <b>אסורין</b> כגידולי שביעית. אם <b>הוריקו</b> (התבהרו, הצהיבו) העלים ונראים כמושים — <b>מותרין</b> שנחשב הכל כגידולי השנה השישית.",
+              "ref": "Steinsaltz on Nedarim 58a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ח א:ד",
+              "sourceRef": "Steinsaltz on Nedarim 58a:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בצלים</strong> - של ערב שביעית:",
+              "ref": "Tosafot on Nedarim 58a:4:1",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ד:א",
+              "sourceRef": "Tosafot on Nedarim 58a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וירדו עליהם גשמים</strong> - בשביעית וצמחו:",
+              "ref": "Tosafot on Nedarim 58a:4:2",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ד:ב",
+              "sourceRef": "Tosafot on Nedarim 58a:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אם עלין שלהם שחורין</strong> - דדרכם להשחיר כשיורדין עליהם גשמים:",
+              "ref": "Tosafot on Nedarim 58a:4:3",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ד:ג",
+              "sourceRef": "Tosafot on Nedarim 58a:4:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסורין</strong> - דבידוע שגדלו רובם בשביעית:",
+              "ref": "Tosafot on Nedarim 58a:4:4",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ד:ד",
+              "sourceRef": "Tosafot on Nedarim 58a:4:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הוריקו</strong> - לא גדלו רובם ומותרין:",
+              "ref": "Tosafot on Nedarim 58a:4:5",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ד:ה",
+              "sourceRef": "Tosafot on Nedarim 58a:4:5"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> <span href=\"/topics/ishmael\" class=\"namedEntityLink\" data-slug=\"ishmael\">Yishmael</span> of Kefar Yamma <b>resolved</b> his dilemma <b>from this</b> source, <b>as we learned</b> in a mishna (<i>Shevi’it</i> 6:3): With regard to sixth-year <b>onions upon which rain fell</b> during the Sabbatical Year, <b>and they sprouted, if their leaves were black [<i>sheḥorin</i>],</b> i.e., dark green, an indication of fresh, recent growth, the onions are <b>forbidden</b> as Sabbatical-Year growth. If their leaves <b>turned green [<i>horiku</i>],</b> i.e., lighter and yellower, and appeared withered, the onions are <b>permitted,</b> as they are considered a product of the sixth year.",
+      "he": "אֶלָּא מִן הָדָא פַּשְׁטַהּ, דִּתְנַן: בְּצָלִים שֶׁיָּרְדוּ עֲלֵיהֶם גְּשָׁמִים וְצָמְחוּ, אִם הָיוּ עָלִין שֶׁלָּהֶן שְׁחוֹרִין — אֲסוּרִין. הוֹרִיקוּ — מוּתָּרִין.",
+      "ref": "Nedarim 58a:4"
+    },
+    {
+      "commentary": {
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אם יכולין ליתלש בעלין שלהם אסורין</strong> - דבכי האי גוונא מוכחא מילתא שיניקתם יפה:",
+              "ref": "Ran on Nedarim 58a:5:1",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:ה:א",
+              "sourceRef": "Ran on Nedarim 58a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכנגדן למוצאי שביעית מותרין</strong> - משום דבעלין הללו ודאי רבו גידולין על עיקר הבצל המעורב בהן כך נראה בעיני אלמא אין גידולין נמשכין אחר העיקר דאדרבה מעלין אותו:",
+              "ref": "Ran on Nedarim 58a:5:2",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:ה:ב",
+              "sourceRef": "Ran on Nedarim 58a:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודלמא במדוכנין</strong> - שדך ושחק הבצלים וכיון דמדוכנין נינהו גריעי ולא ממשכי גידולין בתרייהו:",
+              "ref": "Ran on Nedarim 58a:5:3",
+              "sourceHeRef": "ר\"ן על נדרים נ״ח א:ה:ג",
+              "sourceRef": "Ran on Nedarim 58a:5:3"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ודילמא במדוכנין.</b> כלומר שדכן ושחקן קודם נטיעתן דכיון שדך בטל חשיבותן ומתבטלין לגבי הרוב.",
+              "ref": "Rashba on Nedarim 58a:6",
+              "sourceHeRef": "רשב״א על נדרים נ״ח א:ו",
+              "sourceRef": "Rashba on Nedarim 58a:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אם יכולין ליתלש</strong> - מן הקרקע בעלין שלהן שכל כך יש להן כח בעלין שלהן שכשאוחז בעליהן שומט עיקרו עמו מן הקרקע אסורין דחשיבי גידולי שביעית:",
+              "ref": "Rashi on Nedarim 58a:5:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ה:א",
+              "sourceRef": "Rashi on Nedarim 58a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כנגדן למוצאי שביעית מותרין</strong> - שאם של שביעית וצמחו בשמינית ויש להן כח בעלין מותרין דגידולי היתר מבטלין העיקר של איסור והיינו להיתר כגון הך בעיא דישמעאל ומהא פשטה:",
+              "ref": "Rashi on Nedarim 58a:5:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ה:ב",
+              "sourceRef": "Rashi on Nedarim 58a:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודלמא</strong> - לעולם אין גידולי היתר מבטלין את האיסור והכא היכי דמי במדוכנין כלומר האי דקתני וכנגדן למוצאי שביעית מותרין כגון שהודכו שכתשן במדוכה דליתנהו לעיקרן בעינייהו אבל בבעיא דישמעאל דאיתיה לעיקר בעין איכא למימר דלא בטלי:",
+              "ref": "Rashi on Nedarim 58a:5:3",
+              "sourceHeRef": "רש\"י על נדרים נ״ח א:ה:ג",
+              "sourceRef": "Rashi on Nedarim 58a:5:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' חנניא בן אנטיגנוס אומר:</b> יש סימן אחר לדבר, <b>אם יכולין ליתלש ב</b>אמצעות ה<b>עלין שלהן,</b> משמע שהעלים חזקים ובריאים ואז <b>אסורין. וכנגדן</b> במקרה דומה לזה, אם היה זה בצל של שביעית שצמח <b>למוצאי שביעית,</b> כלומר, בשנה השמינית — <b>מותרין</b> הבצלים. ונדייק: <b>למימרא</b> <span class=\"hebrew-emphasis\">[לומר,</span> ללמוד<span class=\"hebrew-emphasis\">]</span> מכאן ש<b>גידולי היתר מעלין</b> (מבטלים) <b>את האיסור.</b> ודוחים: <b>ודלמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> מדובר כאן <b>במדוכנין,</b> בבצלים שדך וכתש את עיקרם, ונמצא שהעיקר כבר בטל, שהרי אינו ניתן לשימוש. ומפני זה מותר, ולא משום שגידולי ההיתר ביטלו את האיסור.",
+              "ref": "Steinsaltz on Nedarim 58a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ח א:ה",
+              "sourceRef": "Steinsaltz on Nedarim 58a:5"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבי חנינא בן אנטיגנוס אומר</strong> - אף בשלא הושחרו אם יכולין וכו' שגדלו כל כך אסורין דבידוע שגדלו רובם בשביעית:",
+              "ref": "Tosafot on Nedarim 58a:5:1",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ה:א",
+              "sourceRef": "Tosafot on Nedarim 58a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכנגדם למוצאי שביעית מותרין</strong> - כלומר בצלים שבאים משביעית - לשמינית אלמא דגידולי היתר מבטלין לאיסור:",
+              "ref": "Tosafot on Nedarim 58a:5:2",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ה:ב",
+              "sourceRef": "Tosafot on Nedarim 58a:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודלמא במדוכנים</strong> - שדכו אותם במדוכה בשביעית ולא חשיבי ובטלים בגידולין אבל היכא דלא דכו מיבעיא לן אי בטלו אי לא בטלו:",
+              "ref": "Tosafot on Nedarim 58a:5:3",
+              "sourceHeRef": "תוספות על נדרים נ״ח א:ה:ג",
+              "sourceRef": "Tosafot on Nedarim 58a:5:3"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-hanina-b-antigonos\" class=\"namedEntityLink\" data-slug=\"rabbi-hanina-b-antigonos\">Rabbi Ḥanina ben Antigonus</span> says:</b> There is a different indicator; <b>if</b> the plants <b>can be uprooted by their leaves,</b> clearly the leaves are fresh and recent, and they are <b>forbidden. And</b> in the <b>parallel</b> situation, if that indicator was discovered in a Sabbatical-Year onion that sprouted <b>at the conclusion of the Sabbatical Year,</b> i.e., during the eighth year, the onions are <b>permitted.</b> The Gemara asks: <b>Is this to say that</b> one may conclude from here that <b>permitted growth neutralizes the prohibition</b> of the original plant? The Gemara rejects this conclusion: <b>And perhaps</b> the <i>halakha</i> is <b>with regard to crushed [<i>medukhanin</i>],</b> pounded onions, and the reason that the prohibition of the original plant is neutralized is not that the permitted growth neutralizes the prohibition, but that it is no longer fit for consumption.",
+      "he": "<span href=\"/topics/rabbi-hanina-b-antigonos\" class=\"namedEntityLink\" data-slug=\"rabbi-hanina-b-antigonos\">רַבִּי חֲנַנְיָא בֶּן אַנְטִיגְנוֹס</span> אוֹמֵר: אִם יְכוֹלִין לִיתָּלֵשׁ בֶּעָלִין שֶׁלָּהֶן — אֲסוּרִין. וּכְנֶגְדָּן, לְמוֹצָאֵי שְׁבִיעִית — מוּתָּרִין. לְמֵימְרָא דְּגִידּוּלֵי הֶיתֵּר מַעֲלִין אֶת הָאִיסּוּר. וְדִלְמָא בִּמְדוּכָּנִין.",
+      "ref": "Nedarim 58a:5"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא מן הדא</b> <span class=\"hebrew-emphasis\">[מזו]</span> יש לפתור, <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]:</span>",
+              "ref": "Steinsaltz on Nedarim 58a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ח א:ו",
+              "sourceRef": "Steinsaltz on Nedarim 58a:6"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> the dilemma can be resolved <b>from this</b> source; <b>as it is taught</b> in a <i>baraita</i>:",
+      "he": "אֶלָּא מִן הָדָא, דְּתַנְיָא:",
+      "ref": "Nedarim 58a:6"
+    }
+  ],
+  "title": "Nedarim 58a",
+  "titleHebrew": "נדרים נח,א",
+  "topics": []
+}

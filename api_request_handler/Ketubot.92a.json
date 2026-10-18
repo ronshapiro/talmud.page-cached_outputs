@@ -1,0 +1,993 @@
+{
+  "id": "92a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואתא בעל חוב דראובן</strong> - שהיה שטרו קודם למכירה ראשונה שמכרה ראובן לשמעון ואילו בא ומצאה ביד שמעון הכי נמי הוה טריף לה:",
+              "ref": "Rashi on Ketubot 92a:1:1",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:א:א",
+              "sourceRef": "Rashi on Ketubot 92a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דינא הוא דאזיל שמעון ומפצי ליה</strong> - כשם שאילו מכרה שמעון זה לאיש אחר באחריות ובא בעל חוב דראובן וטורפה היה שמעון מפצהו ועל ראובן לא יוכל לחזור שהרי שלא באחריות לקחה הימנו כך כשמכרה לראובן עצמו יפצה לו:",
+              "ref": "Rashi on Ketubot 92a:1:2",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:א:ב",
+              "sourceRef": "Rashi on Ketubot 92a:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואתא</b> <span class=\"hebrew-emphasis\">[ובא]</span> <b>בעל</b> ה<b>חוב</b> של <b>ראובן וקטריף ליה מיניה</b> <span class=\"hebrew-emphasis\">[וטרף אותה ממנו,</span> מראובן<span class=\"hebrew-emphasis\">]</span> — <b>דינא</b> <span class=\"hebrew-emphasis\">[דין]</span> <b>הוא דאזיל</b> <span class=\"hebrew-emphasis\">[שילך]</span> <b>שמעון ומפצי ליה</b> <span class=\"hebrew-emphasis\">[ויפצה אותו],</span> יחזיר לו את דמי המכירה, שהרי מכר לו את השדה באחריות, וראובן אינו חייב לשמעון ולא כלום, שהרי מכר לו את השדה שלא באחריות.",
+              "ref": "Steinsaltz on Ketubot 92a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:א",
+              "sourceRef": "Steinsaltz on Ketubot 92a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הרא\"ה מביא בשם אחיו הסבר מפני מה בעל החוב בא לגבות דווקא שדה זה, ומעמיד את הדבר כגון שעשה ראובן שדה זה אפותיקי לבעל חובו, ובאופן אחר מפרש שלא כתב ראובן באותו שטר חוב \"דעתיד אנא למקני\", שלא היתה אחריותו אלא על הקרקע שהיתה לו קודם לכן, ומשום כך רק כאשר חזרה קרקע זו לראובן יכול היה לגבותה ממנו. וכתב הרא\"ה שאין צורך בהסבר זה, שהרי יתכן לומר בפשטות שלא היו לראובן קרקעות אחרות.",
+              "ref": "Steinsaltz comment #1 on Ketubot 92a:1",
+              "sourceHeRef": "וקטריף לה מיניה",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "עיקר משמעו של הפועל \"פצה\" כאן הוא לשון הצלה (וכמוהו בלשון מקרא \"הפוצה את דוד עבדו\" תהלים קמד, י). ואף כאן — מציל את חבירו מן המערער. אלא שנשתנתה במקצת המשמעות עם הזמן למובן של תשלום עבור נזק שנגרם.",
+              "ref": "Steinsaltz comment #2 on Ketubot 92a:1",
+              "sourceHeRef": "מפצי",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>and <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>’s creditor came and repossessed</b> the field <b>from him,</b> i.e., from <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>, <b>the law is that <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span></b> must <b>go and compensate [<i>mefatzei</i>] <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>,</b> since he sold him the field with a guarantee, while <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> owes <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> nothing, since he sold him the field without a guarantee.",
+      "he": "וַאֲתָא בַּעַל חוֹב <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">דִּרְאוּבֵן</span> וְקָטָרֵיף לֵיהּ מִינֵּיהּ — דִּינָא הוּא דְּאָזֵיל שִׁמְעוֹן וּמְפַצֵּי לֵיהּ.",
+      "ref": "Ketubot 92a:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following rule applies when Reuven sold a field to Shimon without taking responsibility and then repurchased it from him requiring Shimon to take responsibility. If a creditor of Reuven comes to expropriate the field from him, he may not require Shimon to pay for it. Although he did not accept responsibility when he sold it to Shimon, he took responsibility with regard to himself, that he should not be the seller and then expropriate the property himself.<br>If, however, a creditor of Jacob, their father, comes and expropriates the property from Reuven, Reuven may demand payment of the entire worth of the field from Shimon. For Shimon accepted responsibility for the field when he sold it back to Reuven, while Reuven did not accept any responsibility for others when he sold it to Shimon.",
+              "he": "רְאוּבֵן שֶׁמָּכַר שָׂדֶה לְשִׁמְעוֹן שֶׁלֹּא בְּאַחֲרָיוּת וְחָזַר וּלְקָחָהּ מִשִּׁמְעוֹן בְּאַחֲרָיוּת. וּבָא בַּעַל חוֹב שֶׁל רְאוּבֵן לִטְרֹף אוֹתָהּ מִמֶּנּוּ. אֵינוֹ יָכוֹל לַחְזֹר עַל שִׁמְעוֹן. שֶׁאַף עַל פִּי שֶׁלֹּא קִבֵּל עָלָיו אַחֲרָיוּת לְשִׁמְעוֹן אַחֲרָיוּת עַצְמוֹ קִבֵּל שֶׁלֹּא יִהְיֶה הוּא הַמּוֹכֵר וְהוּא הַמּוֹצִיא לְעַצְמוֹ. אֲבָל אִם בָּא בַּעַל חוֹב שֶׁל יַעֲקֹב אֲבִיהֶם וּטְרָפָהּ מִיַּד רְאוּבֵן. חוֹזֵר בְּכָל הַדָּמִים עַל שִׁמְעוֹן. מִפְּנֵי שֶׁשִּׁמְעוֹן קִבֵּל לוֹ הָאַחֲרָיוּת וּרְאוּבֵן לֹא קִבֵּל לְשִׁמְעוֹן אַחֲרָיוּת שֶׁל אֲחֵרִים כְּלָל:",
+              "ref": "Mishneh Torah, Sales 19:10",
+              "sourceHeRef": "הלכות מכירה יט:י",
+              "sourceRef": "Sales 19:10"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נהי דאחריות דעלמא</strong> - כל העוררים עליה שלא מחמת ראובן קיבל עליה שמעון:",
+              "ref": "Rashi on Ketubot 92a:2:1",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ב:א",
+              "sourceRef": "Rashi on Ketubot 92a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אחריות דנפשיה</strong> - ערעור הבא לו מחמת עצמו:",
+              "ref": "Rashi on Ketubot 92a:2:2",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ב:ב",
+              "sourceRef": "Rashi on Ketubot 92a:2:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ראובן שמכר שדה לשמעון שלא באחריות וחזר ולקחה משמעון באחריות ובא ב\"ח של ראובן לטרוף אותה ממנו אינו יכול לחזור על שמעון שאע\"פ שלא קיבל עליו אחריות לשמעון אחריות עצמו קבל שלא יהי' הוא המוכר והוא המוציא לעצמו אבל אם בא ב\"ח של יעקב אביו וטרפה מיד ראובן חוזר וגובה כל הדמים משמעון:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 226:2",
+              "sourceHeRef": "חושן משפט רכו:ב - המוכר שדה שלא באחריות או יצא עליו קול ערעור",
+              "sourceRef": "Choshen Mishpat 226:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רבא: נהי</b> <span class=\"hebrew-emphasis\">[אם אמנם]</span> שאת ה<b>אחריות דעלמא קביל עליה</b> <span class=\"hebrew-emphasis\">[של העולם,</span> של אחרים, <span class=\"hebrew-emphasis\">קיבל עליו],</span> שאם יטרפו את השדה מראובן בשל חובות שמעון, קיבל על עצמו שמעון אחריות, ואולם <b>אחריות דנפשיה מי קביל עליה</b> <span class=\"hebrew-emphasis\">[של עצמו האם קיבל עליו]</span> לפצות את הלוקח על חובות שחב הוא עצמו לאחרים ובשל כך טרפו ממנו את השדה?",
+              "ref": "Steinsaltz on Ketubot 92a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:ב",
+              "sourceRef": "Steinsaltz on Ketubot 92a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If Reuven sold Shimon a field with no guarantee, and then bought the same field back from Shimon with a guarantee, and then one of Reuven’s creditors came and repossessed the field from him, Reuven cannot return to Shimon and sue him for reimbursement of the cost of the field. The reason for this is that even though he did not guarantee his initial sale of the land to Shimon, he nevertheless guaranteed the sale from the claims of his own creditors. This is in accordance with the opinion of Rava (Rambam <i>Sefer Kinyan</i>,<i> Hilkhot Mekhira</i> 19:10; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 226:2).",
+              "he": "גרסתנו היא גרסת רש\"י, ומסבירים אותה שכיון שהתחייב ראובן בשעתו באחריות, ושיעבד רכושו למלוה, אם כן נמצא שבשעת מכירה לשמעון כבר היה הנכס משועבד לאחר, וכאילו מכר דבר שאינו שלו. וגרסת רב האי גאון (וכן גרסו הרי\"ף ואחרים) היא: \"נהי דאחריות דעלמא לא קביל עליה, אחריות דנפשיה מי לא קביל עליה\"? ואז נושא המשפט הוא ראובן, שאף שמכר לשמעון שלא באחריות, הרי סילק עצמו מאחריות של תביעות אחרים, אבל לא מאחריות שלו עצמו, שלא יהא הוא עצמו המוכר והוא עצמו יקח את המכר בחזרה ויגרום הפסד לשמעון.",
+              "ref": "Steinsaltz comment #1 on Ketubot 92a:2",
+              "sourceHeRef": "אַחֲרָיוּת דְּנַפְשֵׁיהּ מִי קַבֵּיל",
+              "sourceRef": "Did he also take upon himself to guarantee the sale if it were to be repossessed by the purchaser’s own creditors"
+            },
+            {
+              "en": "",
+              "he": "ראובן שמכר שדהו לשמעון שלא באחריות, וחזר וקנה ממנו את השדה באחריות. ואחר כך בא בעל חוב של ראובן לטרוף את השדה ממנו, אין ראובן יכול לחזור ולתבוע משמעון. שאף שלא קיבל אחריות על מכירת השדה, מכל מקום אחריות עצמו קיבל עליו. וכדברי רבא. (רמב\"ם ספר קנין הלכות מכירה פי\"ט ה\"י. שו\"ע חו\"מ רכו, ב).",
+              "ref": "Steinsaltz comment #2 on Ketubot 92a:2",
+              "sourceHeRef": "נהי דאחריות וכו'",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said to him: Granted, that</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> <b>took upon himself</b> to <b>guarantee</b> the sale in <b>general,</b> i.e., if the field were to be repossessed by his own creditors or those of a previous owner of the field; <b>did he</b> also <b>take upon himself</b> to <b>guarantee</b> the sale if it were to be repossessed by the purchaser’s <b>own</b> creditors?",
+      "he": "אֲמַר לֵיהּ <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: נְהִי דְּאַחְרָיוּת דְּעָלְמָא קַבֵּיל עֲלֵיהּ, אַחְרָיוּת דְּנַפְשֵׁיהּ מִי קַבֵּיל עֲלֵיהּ?",
+      "ref": "Ketubot 92a:2"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following rule applies when Reuven sold a field to Shimon without taking responsibility and then repurchased it from him requiring Shimon to take responsibility. If a creditor of Reuven comes to expropriate the field from him, he may not require Shimon to pay for it. Although he did not accept responsibility when he sold it to Shimon, he took responsibility with regard to himself, that he should not be the seller and then expropriate the property himself.<br>If, however, a creditor of Jacob, their father, comes and expropriates the property from Reuven, Reuven may demand payment of the entire worth of the field from Shimon. For Shimon accepted responsibility for the field when he sold it back to Reuven, while Reuven did not accept any responsibility for others when he sold it to Shimon.",
+              "he": "רְאוּבֵן שֶׁמָּכַר שָׂדֶה לְשִׁמְעוֹן שֶׁלֹּא בְּאַחֲרָיוּת וְחָזַר וּלְקָחָהּ מִשִּׁמְעוֹן בְּאַחֲרָיוּת. וּבָא בַּעַל חוֹב שֶׁל רְאוּבֵן לִטְרֹף אוֹתָהּ מִמֶּנּוּ. אֵינוֹ יָכוֹל לַחְזֹר עַל שִׁמְעוֹן. שֶׁאַף עַל פִּי שֶׁלֹּא קִבֵּל עָלָיו אַחֲרָיוּת לְשִׁמְעוֹן אַחֲרָיוּת עַצְמוֹ קִבֵּל שֶׁלֹּא יִהְיֶה הוּא הַמּוֹכֵר וְהוּא הַמּוֹצִיא לְעַצְמוֹ. אֲבָל אִם בָּא בַּעַל חוֹב שֶׁל יַעֲקֹב אֲבִיהֶם וּטְרָפָהּ מִיַּד רְאוּבֵן. חוֹזֵר בְּכָל הַדָּמִים עַל שִׁמְעוֹן. מִפְּנֵי שֶׁשִּׁמְעוֹן קִבֵּל לוֹ הָאַחֲרָיוּת וּרְאוּבֵן לֹא קִבֵּל לְשִׁמְעוֹן אַחֲרָיוּת שֶׁל אֲחֵרִים כְּלָל:",
+              "ref": "Mishneh Torah, Sales 19:10",
+              "sourceHeRef": "הלכות מכירה יט:י",
+              "sourceRef": "Sales 19:10"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואמרינן ומודה רבא בראובן וכו' מאי טעמא דבעל חוב דיעקב כב\"ח דעלמא דמי וזו דרך רש\"י ז\"ל ואגב אורחא שמעינן שהמוכר שדה לחבירו באחריות סתם חייב אפי' באחריות דעלמא דלא אתי מחמתי' דהא ב\"ח דיעקב לא אתי מחמת שמעון ואפ\"ה חייב לפצותו לפי שמכר באחריות וכן הדין במוכר סתם כיון דאחריות ט\"ס וכאלו נכתב דמי:",
+              "ref": "Ritva on Ketubot 92a:1",
+              "sourceHeRef": "ריטב\"א על כתובות צ״ב א:א",
+              "sourceRef": "Ritva on Ketubot 92a:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רמי בר חמא ראובן שמכר שדה לשמעון שלא באחריות וחזר שמעון ומכרה לראובן באחריות ואתא בעל חוב דראובן וקא טריף ליה מיניה דינא הוא דאזיל שמעון ומפצי ליה אמר ליה רבא נהי דאחריות דעלמא קביל עלויה אחריות דנפשיה מי קביל עלויה ורב אלפס ז\"ל גורס נהי דאחריות דעלמא לא קביל עילויה אחריות דנפשיה מי לא קביל עילויה ופירש ה\"ר מאיר הלוי ז\"ל האי קביל ולא קביל לאו בקבלת המוכר דקביל עליה אחריות ללוקח קאי אלא בקבלת הלוקח דסביר וקביל דלא ליהדר אמוכר כדאמר <span class=\"parenthesized\">(ב\"ק דף ט.)</span> חייתא דקיטרי סברת וקבילית והכי פירושא דכי הדר ראובן וזבנה מיניה דשמעון באחריות נהי דאחריות דעלמא לא קביל ראובן עילויה אלא אדעתא דמפצי ליה שמעון הוא דזבין מיניה אחריות דנפשיה דראובן מי לא קביל עילויה דלא ליהדר בה שמעון:",
+              "ref": "Rosh on Ketubot 10:7:1",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות י:ז:א",
+              "sourceRef": "Rosh on Ketubot 10:7:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ראובן שמכר שדה לשמעון שלא באחריות וחזר ולקחה משמעון באחריות ובא ב\"ח של ראובן לטרוף אותה ממנו אינו יכול לחזור על שמעון שאע\"פ שלא קיבל עליו אחריות לשמעון אחריות עצמו קבל שלא יהי' הוא המוכר והוא המוציא לעצמו אבל אם בא ב\"ח של יעקב אביו וטרפה מיד ראובן חוזר וגובה כל הדמים משמעון:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 226:2",
+              "sourceHeRef": "חושן משפט רכו:ב - המוכר שדה שלא באחריות או יצא עליו קול ערעור",
+              "sourceRef": "Choshen Mishpat 226:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>ומודה רבא</b> לרמי בר חמא <b>בראובן שירש שדה מיעקב</b> אביו, <b>ומכרה לשמעון שלא באחריות, ואתא</b> <span class=\"hebrew-emphasis\">[ובא]</span> <b>שמעון ומכרה לראובן</b> בחזרה <b>באחריות, ואתא</b> <span class=\"hebrew-emphasis\">[ובא]</span> <b>בעל</b> ה<b>חוב</b> של <b>יעקב,</b> האב, <b>וקטריף ליה מיניה</b> <span class=\"hebrew-emphasis\">[וטרף אותה ממנו]</span> — אז <b>דינא</b> <span class=\"hebrew-emphasis\">[דין]</span> <b>הוא דאזיל</b> <span class=\"hebrew-emphasis\">[שילך]</span> <b>שמעון ומפצי ליה מיניה</b> <span class=\"hebrew-emphasis\">[ויפצה אותו ממנו].</span>",
+              "ref": "Steinsaltz on Ketubot 92a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:ג",
+              "sourceRef": "Steinsaltz on Ketubot 92a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If Reuven inherited a field from his father and sold it to Shimon with no guarantee, and he then purchased it back from him with a guarantee, and subsequently, a creditor of Reuven’s father repossessed the field, Reuven can sue Shimon for reimbursement, as Reuven did not take it upon himself to guarantee his father’s debts (Rambam <i>Sefer Kinyan</i>,<i> Hilkhot Mekhira</i> 19:10; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 226:2).",
+              "he": "בפשטות משמע \"לשמעון\" — אדם סתם, ולא אחיו של ראובן. כדרך השימוש הרגילה בכל מקום בראובן ושמעון כשמות שני בני אדם סתם (ריב\"ן, ר' יהונתן). ובדוחק מפרשט הריב\"ן שאפשר לומר שהיה זה שמעון אחיו, אלא שחלקו ביניהם הירושה בתנאי שלא יהא שמעון אחראי לחובות האב.",
+              "ref": "Steinsaltz comment #1 on Ketubot 92a:3",
+              "sourceHeRef": "וּמוֹדֶה רָבָא בִּרְאוּבֵן שֶׁיָּרַשׁ וכו׳",
+              "sourceRef": "And Rava concedes to Rami bar Ĥama in the following case: Reuven inherited, etc."
+            },
+            {
+              "en": "It appears that when the Gemara speaks of Shimon in this context it means any person, not necessarily Reuven’s brother, in keeping with the general usage of the names Reuven and Shimon as a reference to two ordinary, random people (Rivan; Rabbeinu Yehonatan). The Rivan also explains how it is possible to claim that Reuven and Shimon are brothers: When they divided their father’s estate, they stipulated that Shimon would be released from responsibility for their father’s debts.",
+              "he": "אבל אם ירש ראובן שדה מאביו ומכרו לשמעון שלא באחריות וחזר וקנה ממנו באחריות, ואחר כך בא בעל חוב של אבי ראובן וטרף ממנו את השדה — יכול ראובן לחזור ולתבוע משמעון, שאחריות זו לא קיבל עליו מתחילה. שאף רבא מודה בכך. (רמב\"ם ספר קנין הלכות מכירה פי\"ט ה\"י. שו\"ע חו\"מ רכו, ב).",
+              "ref": "Steinsaltz comment #2 on Ketubot 92a:3",
+              "sourceHeRef": "וּמְכָרָהּ לְשִׁמְעוֹן",
+              "sourceRef": "And sold it to Shimon"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara notes: <b>And <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> concedes</b> to <span href=\"/topics/rami-b-hama\" class=\"namedEntityLink\" data-slug=\"rami-b-hama\">Rami bar Ḥama</span> <b>in</b> the following case: <b><span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> inherited a field from</b> his father, <b><span href=\"/topics/jacob\" class=\"namedEntityLink\" data-slug=\"jacob\">Ya’akov</span>, and sold it to <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> with no guarantee. <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> came and sold it</b> back <b>to <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> with a guarantee.</b> Then, <b><span href=\"/topics/jacob\" class=\"namedEntityLink\" data-slug=\"jacob\">Ya’akov</span>’s creditor came and repossessed the field from</b> <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>. In this case, <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> would concede that <b>the law is that <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span></b> must <b>go and compensate</b> <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> for his loss.",
+      "he": "וּמוֹדֶה <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span> <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">בִּרְאוּבֵן</span> שֶׁיָּרַשׁ שָׂדֶה <span href=\"/topics/jacob\" class=\"namedEntityLink\" data-slug=\"jacob\">מִיַּעֲקֹב</span>, וּמְכָרָהּ לְשִׁמְעוֹן שֶׁלֹּא בְּאַחְרָיוּת, וַאֲתָא שִׁמְעוֹן וּמְכָרָהּ לִרְאוּבֵן בְּאַחְרָיוּת, וַאֲתָא בַּעַל חוֹב דְּיַעֲקֹב, וְקָטָרֵיף לֵיהּ מִינֵּיהּ — דִּינָא הוּא דְּאָזֵיל שִׁמְעוֹן וּמְפַצֵּי לֵיהּ מִינֵּיהּ.",
+      "ref": "Ketubot 92a:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כבעל חוב דעלמא דמי</strong> - המעורר עליה שלא מחמת ראובן אלא מחמת מי שמכר לו לראובן תחלה וכשם שאם לקחה ראובן מלוי ומכרה לשמעון שאינו אחיו שלא באחריות וחזר שמעון ומכרה לראובן באחריות ובא בעל חוב דלוי הקודם לשטר מכירה ראשונה וטורפה מראובן צריך שמעון לפצותו שהרי באחריות מכרה והוא לקחה שלא באחריות אף כשירשה ראובן מיעקב ומכרה ובא בעל חוב דיעקב יפצנו שמעון ולא אמרי' דראובן כרעיה דאבוה הוא ואחריות דראובן לא קיבל עליה שמעון:",
+              "ref": "Rashi on Ketubot 92a:4:1",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ד:א",
+              "sourceRef": "Rashi on Ketubot 92a:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מאי טעמא</b> <span class=\"hebrew-emphasis\">[מה טעם]</span> הדבר? <b>בעל</b> ה<b>חוב</b> של <b>יעקב כבעל חוב דעלמא דמי</b> <span class=\"hebrew-emphasis\">[סתם</span> הוא <span class=\"hebrew-emphasis\">נחשב],</span> שאפילו לשיטת רבא, שאדם מקבל על עצמו בכל מקרה את האחריות על חובות עצמו, מכל מקום על חובותיו של האב ודאי לא קיבל עליו אחריות.",
+              "ref": "Steinsaltz on Ketubot 92a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:ד",
+              "sourceRef": "Steinsaltz on Ketubot 92a:4"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>What is the reason</b> for this <i>halakha</i>? The Gemara answers: <b><span href=\"/topics/jacob\" class=\"namedEntityLink\" data-slug=\"jacob\">Ya’akov</span>’s creditor is comparable to a general</b> case of a creditor, i.e., a creditor of a previous owner. Even <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> would agree that this is not comparable to a case where <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>’s creditor repossessed the field. Consequently, <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> bears responsibility to compensate <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>.",
+      "he": "מַאי טַעְמָא? בַּעַל חוֹב דְּיַעֲקֹב כְּבַעַל חוֹב דְּעָלְמָא דָּמֵי.",
+      "ref": "Ketubot 92a:4"
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "תוס' בד\"ה ראובן כו' דמצי שמעון למימר ליה מאי טעמא כו' אנא בהך תקנתא לא ניחא לי כו' עכ\"ל אע\"ג דמסתמא באחריות מכר הבינונית ללוי וצריך לשלם ללוי מ\"מ ניחא ליה טפי הכי כדי להעמיד הקרקע בידו אע\"ג שהיא זיבורית וק\"ל:",
+              "ref": "Chidushei Halachot on Ketubot 92a:2",
+              "sourceHeRef": " חידושי הלכות על מסכת כתובות צ״ב א:ב",
+              "sourceRef": "Chidushei Halachot on Ketubot 92a:2"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The above principles can be extended and applied in the following situation. Reuven sold a field to Shimon, accepting financial responsibility for the sale. Shimon did not pay immediately, but instead had Reuven consider the price of the field as a loan. Reuven died afterwards. Reuven's creditor then came to expropriate the field from Shimon. Instead of giving the creditor the field, Shimon appeased him with money, and he departed.<br>According to the law, Reuven's heirs may come and demand that Shimon pay the debt that he owed Reuven, for that loan is not on lien to Reuven's creditor.<br>Therefore, if Shimon is clever, he should give Reuven's heirs the land he purchased from them as payment for the debt that he accepted upon himself. He can then expropriate the property from them, because of the money that he gave to Reuven's creditor so that he would not expropriate it from him. This option is available because Reuven took financial responsibility for the field Shimon purchased.",
+              "he": "רְאוּבֵן שֶׁמָּכַר שָׂדֶה לְשִׁמְעוֹן בְּאַחֲרָיוּת וְזָקַף שִׁמְעוֹן דְּמֵי הַשָּׂדֶה עָלָיו מִלְוֶה לִרְאוּבֵן וּמֵת רְאוּבֵן וּבָא בַּעַל חוֹב שֶׁל רְאוּבֵן לִטְרֹף מִשִּׁמְעוֹן הַשָּׂדֶה וּפִיְּסוֹ שִׁמְעוֹן בְּמָעוֹת וְהָלַךְ לוֹ. הַדִּין נוֹתֵן שֶׁיָּבוֹאוּ יוֹרְשֵׁי רְאוּבֵן וְיִתְבְּעוּ שִׁמְעוֹן בַּמִּלְוֶה שֶׁזָּקַף עָלָיו שֶׁהֲרֵי אֵינָהּ מְשֻׁעְבֶּדֶת לְבַעַל חוֹב שֶׁל רְאוּבֵן. לְפִיכָךְ אִם הָיָה שִׁמְעוֹן פִּקֵּחַ נוֹתֵן לָהֶן הַקַּרְקַע שֶׁלָּקַח מֵרְאוּבֵן בַּמִּלְוֶה שֶׁזָּקַף עַל עַצְמוֹ וְחוֹזֵר וְטוֹרֵף אוֹתָהּ מֵהֶן מִפְּנֵי הַמָּעוֹת שֶׁנָּתַן לְבַעַל חוֹב שֶׁל רְאוּבֵן כְּדֵי שֶׁלֹּא יִטְרֹף אוֹתָהּ מִמֶּנּוּ שֶׁהֲרֵי בְּאַחֲרָיוּת לְקָחָהּ מֵרְאוּבֵן:",
+              "ref": "Mishneh Torah, Creditor and Debtor 11:10",
+              "sourceHeRef": "הלכות מלווה ולווה יא:י",
+              "sourceRef": "Creditor and Debtor 11:10"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> [אמר רמי בר חמא ראובן שמכר שדה לשמעון באחריות וזקפן עליו במלוה. ומת ראובן ואתא בעל חוב דראובן וקטריף ליה משמעון ופייסוה בזוזי דינא הוא דאמרי ליה בני ראובן אנא מטלטלי שבק אבון גבך ומטלטלי דיתמי לבעל חוב לא משתעבדי.</b> תמיהה מלתא למה לי דנקט ופייסוה בזוזי, דאפילו לא פייסוה בזוזי אלא דטריף לארעא, דינא נמי הכי דאמרי ליה בני ראובן לשמעון אנן מטלטלי שבק אבונא ויש לומר דאי לא פייסיה בזוזי מצי למיפטר נפשיה מיתמי, משום דאמר להו אנא כי היכי דמשעבדנא [לכו משעבדנא] לבעל חוב דאבוכון מדר' נתן, ומהאי טעמא אי מגבינא להו ארעא מחמת חוב זה, דין הוא דבעל חוב דאבוכון טריף לה וכדרב נחמן דאמר יתומים שגבו קרקע בחוב אביהם בעל חוב חוזר וגובה אותה מהם, והא דרב נחמן מטעמא דר' נתן הוא וכדמוכח בפרק כל שעה <span class=\"parenthesized\">(פסחים ל, ב)</span> בפלוגתא דבעל חוב למפרע הוא גובה או מכאן ולהבא הוא גובה, וכיון דאלו מגבינא לכו ארעא דינא דבעל חוב דאבוכון עלה, הכי נמי מגבינא לבעל חוב דאבוכון ארעא מחמת חוב זה שהייתי חייב לאביכם, דמה לי אי מגבינא לכו או לדידיה, דכי היכי דמשתעבדא לכו משתעבדנא ולא תימה דהא לאו בדידיה תליא מילתא אי אית ליה זוזי למיגבי ארעא ליתומים וכדמוכח לעיל בפרק הכותב <span class=\"parenthesized\">(כתובות פו, א)</span>, דהיינו בעלמא, אבל במקום פסידא דידיה תקינו שיהא יכול לפרעו בקרקע וכדאמר רבא בסמוך ואי פקח שמעון מגביה ליה ארעא ניהלייהו, אלמא דברשותיה הוא, ואלו אגבי להו ארעא הדר בעל חוב דאבוהון עלה, הכי נמי אפשר ליה לאגבויי לבעל חוב דאבוהון מחמת חוב אבוהון מדרבי נתן, ונמצא פוטר עצמו בהכי מן היתומים, אבל השתא דפייסיה בזוזי לא עבד ולא כלום דהא אפילו מטלטלי דידהו לבעל חוב לא משתעבדי, וכענין זה מצאתיה לרב מורי ר\"ש נ\"ר <span class=\"parenthesized\">(חי' וידל קרשקש)</span>.",
+              "ref": "Rashba on Ketubot 92a:1",
+              "sourceHeRef": "רשב״א על כתובות צ״ב א:א",
+              "sourceRef": "Rashba on Ketubot 92a:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וזקפן עליו במלוה</strong> - שלא נתן לו שמעון דמי השדה אלא כתב לו שטר חוב עליהם:",
+              "ref": "Rashi on Ketubot 92a:5:1",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ה:א",
+              "sourceRef": "Rashi on Ketubot 92a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ופייסיה בזוזי</strong> - במעות דמי השדה שהיה חייב ליתמי פייס את הנושה בשביל ראובן שבאחריות מכרה לו:",
+              "ref": "Rashi on Ketubot 92a:5:2",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ה:ב",
+              "sourceRef": "Rashi on Ketubot 92a:5:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואמר רמי בר חמא ראובן שמכר שדה לשמעון וזקפן עליה במלוה אתא לאשמעינן דאע\"ג דאין קרקע נקנה במלוה התם במלוה שהיה המוכר חייב ללוקח דמלוה להוצאה נתנה ואין כסף לקנות בו אבל מלוה זו שמתחייב לוקח עכשיו למוכר דפרעון גמור הוא וקונה בו מדין כספו. א\"נ דאתא לאשמעינן דאע\"ג דזקפן עליו במלוה ואין שעבוד קרקעות מטלטלי דיתמי מיקרו וכל זה אינו נכון דדינא קמא פשיטא דפרעון כסף גמור הוא חשוב זקופה במלוה ואידך דינא נמי בהדי' אמר ליה תלמודא לעיל גבי מי שהיה נושה באחיו מנה בפ' האשה שנפלו וא\"כ אית לן למיבעי אמאי נקט זו זקפן עליו במלוה ותו אמאי נקט שמכרה באחריות דאי מאי דאמר יתמי מטלטלי שבק אבון גבך הכי נמי שייך במכירת שלא באחריות <span class=\"parenthesized\">(דהאי מאי יתמי מטלטלים שבקה בינה בינה לכך הכא נמי)</span> והנכון בזה מה שפי' בשם ר\"י ז\"ל שאם לא זקפן עליו במלוה אלא שנתעכבו המעות אצל הלוקח אין היתומים יכולים לתבעו כלל דמסתמא הרי המעות מכר תפוסין בידו לאחריות כל זמן שלא פרעם ותפיסה דמחיים קרינא ולהכי נקט זקפן והיינו דנקט באחריות דאלו שלא באחריות אפי' לא היה זקופין נמי יכולים היתומים לתובעו ועוד הוסיף שאע\"פ שאמר ר\"ע לעיל ינתנו ליורשים שכולם צריכין שבועה ואין היורשים צריכים שבועה הכא אין זה צריך שבועה דודאי לא אתפסיה צררי המוכר לאחריותו וכיון שכן אף הוא אינו צריך שבועה וא\"כ יתנו לו כי הוא הכושל ואין הטעם זה ברור לפי מה שכתבנו שם דלאו בשבועה תליא מילתא אלא הטעם משום דכל היכא דלא זקפן עליו במלוה תפיסה מחיים חשובה דאנן סהדי דדעתי' למתפסינהו אתא:",
+              "ref": "Ritva on Ketubot 92a:2",
+              "sourceHeRef": "ריטב\"א על כתובות צ״ב א:ב",
+              "sourceRef": "Ritva on Ketubot 92a:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רמי בר חמא ראובן שמכר שדה לשמעון באחריות וזקפו עליו במלוה ומת ראובן ואתא בעל חוב וקא טריף לה משמעון ופייסיה בזוזי דינא הוא דאמרי בני ראובן לשמעון אנן מטלטלי שבק אבונא גבך ומטלטלי לבעל חוב לא משתעבדי אמר רבא אי פקח אידך מגבי לה ניהלייהו ארעא והדר גבי לה מינייהו מדרב נחמן וכו' מכאן יש להוכיח דאע\"ג דאמרינן לעיל בפרק הכותב <span class=\"parenthesized\">(כתובות דף פו.)</span> דדינא דבעל חוב בזוזי היכא דאית ליה פסידא כי הכא לא מחייב למיתב זוזי ואינו ראיה כ\"כ דמלוה זו באה מחמת קרקע שקנה הלכך מצי למיהדר להו האי ארעא דזבן מאבוהון בהני זוזי הנך תלתא מימרות איתנהו בפ\"ק דבבא קמא <span class=\"parenthesized\">(דף ח:)</span>:",
+              "ref": "Rosh on Ketubot 10:8:1",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות י:ח:א",
+              "sourceRef": "Rosh on Ketubot 10:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רמי בר חמא: ראובן שמכר שדה לשמעון באחריות</b> ולא שילם שמעון <b>וזקף עליו</b> ראובן את דמי השדה <b>במלוה,</b> שכתב לו שמעון עליהם שטר חוב, <b>ומת ראובן ואתא</b> <span class=\"hebrew-emphasis\">[ובא]</span> <b>בעל</b> ה<b>חוב</b> של <b>ראובן וקטריף לה</b> <span class=\"hebrew-emphasis\">[וטרף אותה]</span> <b>משמעון ופייסיה בזוזי</b> <span class=\"hebrew-emphasis\">[ופייס אותו</span> שמעון <span class=\"hebrew-emphasis\">בכסף],</span> כדי שלא יטרוף ממנו את השדה — לכשיבואו בני ראובן לתבוע ממנו את חוב אביהם,",
+              "ref": "Steinsaltz on Ketubot 92a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:ה",
+              "sourceRef": "Steinsaltz on Ketubot 92a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ראה בתוס' (ד\"ה ראובן בעמוד קודם) שדנים בשאלה האם הביטוי זקף עליו במלוה יש לו משמעות מיוחדת. שיש שמפרשים בסתם, שלא שילם שמעון את החוב ונשאר חייב לראובן דמי השדה. ואחרים אומרים שדווקא בזקף, שאם לא זקף (כלומר לא נהג בחוב זה כבמלוה, שיש עליו שטר) הרי יש מקום לומר שלא היתה כאן מכירה כלל, והכסף הוא ביד שמעון כעין משכון (וראה ברא\"ה).",
+              "ref": "Steinsaltz comment #1 on Ketubot 92a:5",
+              "sourceHeRef": "וזקף עליו במלוה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ראובן שמכר שדה לשמעון באחריות וזקפו עליו במלוה כו'</strong> - מקשינן אמאי נקט באחריות דכל מידי דאתא לאשמועינן השתא דא\"ל בני ראובן לשמעון אנן מטלטלי שביק אבינו גבך כו' והא שייך אפי' שלא באחריות נמי ואומר רבי זקפו עליו במלוה דווקא דאי לא זקפו במלוה לא מצי אמרי בני ראובן לשמעון מידי דחשבינן הנך מעות כאילו הן מונחין בידו במשכון תחת השדה אם יטרפוה ממנו וא\"כ אתי שפיר דנקט באחריות דשלא באחריות אין חילוק בין זקפו ללא זקפו ואפי' אם ת\"ל דזקפו לאו דווקא ולא נקט זקפו אלא משום לומר שנתקיים המכר דכל זמן דעייל ונפיק אזוזי אין המכר קיים וכשזוקפו עליו במלוה תו לא עייל ונפיק אזוזי ולא הוה צריך למימר אלא ונתקיים המכר ותו לא אפ\"ה אומר רבי דאיצטריך למינקט באחריות דאי שלא באחריות לא הוה שמעינן מינה אלא מאי דשמעינן ממתני' דמה שאין הלוקח רשאי לתת המעות לב\"ח מתני' היא בפ' הכותב <span class=\"parenthesized\">(לעיל כתובות פד.)</span> ר\"ע אומר אין מרחמין בדין אלא ינתנו ליורשים שכולן צריכין שבועה ואין היורשים צריכין שבועה אבל השתא קמ\"ל אע\"פ שהוא מוחזק בהן וס\"ד יעכבם לעצמו תחת אחריות שאביהן חייב אפי' הכי לא יעכבם דמטלטלי דיתמי נינהו ועוד נראה לרבי דזקפן במלוה דווקא דאי לאו הכי מאי קאמר דינא הוא דאמרי ליה בני ראובן לשמעון מטלטלי שבק אבינו גבך עד כאן לא קאמר ר\"ע ינתנו ליורשים אלא משום דכולן צריכין שבועה ואין היורשים צריכין שבועה הא אי אחרים נמי לא הוו צריכין שבועה משמע דמודה שיתנו לאחרים והכא האי לוקח מאי שבועה צריך הא ליכא למימר הכא שמא התפיסו צררי דכל זמן שמעות המקח בידו עדיין למה יתפיסו אחרים תחתיהם הלכך נקט זקפו במלוה דהואיל וזקפו במלוה איכא למיחש טפי שמא התפיסו צררי שיעכב אם יטרפוה ממנו דהך מלוה ישאל ממנו כל שעה שירצה שיכתוב עליו שטר מלוה אבל לא זקפו ליכא למיחש לשמא התפיסו צררי וליכא שבועה והואיל וכן לא מצו יתמי למימר ליה ולא מידי. מ\"ר. ותימה הואיל ולא זקפו ליכא למיחש לצררי א\"כ למאן דמפרש טעמא בערכין פרק שום היתומים <span class=\"parenthesized\">(ערכין דף כב.)</span> דאין נזקקין לנכסי יתומים קטנים אא\"כ רבית אוכלת בהן משום צררי משכחת לה דנזקקין כמו ראובן שמכר שדה לשמעון באחריות ולא זקפו עליו במלוה ומת ושלם שמעון המעות ליתומים ואח\"כ נמצאת שאינה שלו הרי עכשיו חוזר על היתומים ונזקקין הואיל ולא חיישינן לצררי ואמר לי רבי נהי דביתומים גדולים לא הוה חיישינן לצררי כה\"ג ביתומים קטנים חיישינן טפי:",
+              "ref": "Tosafot on Ketubot 92a:5:1",
+              "sourceHeRef": "תוספות על כתובות צ״ב א:ה:א",
+              "sourceRef": "Tosafot on Ketubot 92a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ופייסיה בזוזי</strong> - אומר רבי דרבותא הוא לא מבעיא היכא דלא פייסיה דאינו יכול לעכב המעות אלא אפי' פייסיה דסד\"א הרי פרע חוב שלהם וסילק בעל חוב זה מעליהן קא משמע לן דאפ\"ה אמרי ליה אנן מטלטלין כו':",
+              "ref": "Tosafot on Ketubot 92a:5:2",
+              "sourceHeRef": "תוספות על כתובות צ״ב א:ה:ב",
+              "sourceRef": "Tosafot on Ketubot 92a:5:2"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rami-b-hama\" class=\"namedEntityLink\" data-slug=\"rami-b-hama\">Rami bar Ḥama</span> said:</b> Consider a case where <b><span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> sold a field to <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> with a guarantee</b> that if it is repossessed he will compensate <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> for his loss. <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> did not pay for the purchase, <b>and</b> instead <b>set up</b> the value of the field <b>as a loan</b> by writing a promissory note for this amount. <b><span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span></b> subsequently <b>died, and a creditor of <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> came and repossessed</b> the field <b>from <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>.</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>, not wanting the creditor to take the field from him, tried to <b>appease him with money</b> so the creditor would allow him to keep the field.",
+      "he": "אָמַר <span href=\"/topics/rami-b-hama\" class=\"namedEntityLink\" data-slug=\"rami-b-hama\">רָמֵי בַּר חָמָא</span>: רְאוּבֵן שֶׁמָּכַר שָׂדֶה לְשִׁמְעוֹן בְּאַחְרָיוּת, וְזָקַף עָלָיו בְּמִלְוָה, וּמֵת רְאוּבֵן, וַאֲתָא בַּעַל חוֹב דִּרְאוּבֵן וְקָטָרֵיף לַהּ מִשִּׁמְעוֹן וּפַיְּיסֵיהּ בְּזוּזֵי —",
+      "ref": "Ketubot 92a:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מטלטלי שביק אבון גבך</strong> - והיה בעל חוב של אבינו מסולק ממנו שאין לנו קרקע והמעות לא היה לך ליתן דמטלטלי דיתמי לא משתעבדי לבעל חוב ועתה גם אתה אין לך לחזור עלינו על האחריות לפי שאין לנו קרקע מאבינו:",
+              "ref": "Rashi on Ketubot 92a:6:1",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ו:א",
+              "sourceRef": "Rashi on Ketubot 92a:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דינא</b> <span class=\"hebrew-emphasis\">[דין]</span> <b>הוא דאמרי ליה</b> <span class=\"hebrew-emphasis\">[שאומרים לו]</span> <b>בני ראובן</b> לשמעון: <b>אנן מטלטלי שבק אבון גבך</b> <span class=\"hebrew-emphasis\">[אנחנו מטלטלים הניח אבינו אצלך],</span> שהרי נשארת חייב לו כסף, <b>ומטלטלי דיתמי</b> <span class=\"hebrew-emphasis\">[ומטלטלים של יתומים]</span> <b>לבעל חוב לא משתעבדי</b> <span class=\"hebrew-emphasis\">[משתעבדים],</span> ואם כן כסף זה אי אפשר ליטלו מאיתנו, ותביעתנו שתתן לנו את הכסף שהיית חייב לאבינו במלואו. שאף שהיה שמעון צריך לשלם עבור השדה תשלום נוסף — דבר זה אינו מעניינם, משום ששדה זה כבר אינו שלהם.",
+              "ref": "Steinsaltz on Ketubot 92a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:ו",
+              "sourceRef": "Steinsaltz on Ketubot 92a:6"
+            }
+          ]
+        }
+      },
+      "en": "<b>The law is that the sons of <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span></b> can <b>say to</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> that he must pay them the money he owes for the field, and they are not required to pay <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> if he demands compensation for the repossession of the field. They may say to him: <b>Our father left us movable property with you,</b> i.e., the money you owe us for the field, <b>and the movable property of orphans is not liened to a creditor.</b> The orphans can claim that the field belongs to <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>, and as there is no land left for the orphans, there is no way for <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> to recover the compensation that he is owed. The money he owes <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> is considered movable property, and therefore he cannot recover his losses from these funds.",
+      "he": "דִּינָא הוּא דְּאָמְרִי לֵיהּ בְּנֵי <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">רְאוּבֵן</span>: אֲנַן מִטַּלְטְלִי שְׁבַק אֲבוּן גַּבָּךְ, וּמִטַּלְטְלִי דְיַתְמֵי לְבַעַל חוֹב לָא מִשְׁתַּעְבְּדִי.",
+      "ref": "Ketubot 92a:6"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">נִיהוּ</strong> m. = <span class=\"refLink\" data-ref=\"Jastrow, אִיהוּ 1\" dir=\"rtl\" href=\"/Jastrow,_אִיהוּ.1\">אִיהוּ</span> (mostly after an open syllable to avoid a hiatus, or after <span class=\"refLink\" data-ref=\"Jastrow, קוֹט 1\" dir=\"rtl\" href=\"/Jastrow,_קוֹט.1\">ן</span>) <i>he, himself; it, it is</i>. <span class=\"refLink\" data-ref=\"Bava Kamma 114b:29\" href=\"/Bava_Kamma.114b.29\">Bava Kamma 114ᵇ</span> <span dir=\"rtl\">דילמא … והוא נ׳ קא מפיק שמא</span> perhaps he sold them, and he himself spread the report (that they had been stolen). <span class=\"refLink\" data-ref=\"Berakhot 58b:11\" href=\"/Berakhot.58b.11\">Berakhot 58ᵇ</span> לא ידענא מאי נ׳ I do not know what it is (its nature). <span class=\"refLink\" data-ref=\"Taanit 24a:1\" href=\"/Taanit.24a.1\">Taanit 24ᵃ</span> <span dir=\"rtl\">אנא נ׳</span> (different interpretation or differently interpreted in Manuscript Munich) I am he (of whom you are speaking). <span class=\"refLink\" data-ref=\"Pesachim 104a:6\" href=\"/Pesachim.104a.6\">Pesachim 104ᵃ</span>, and e. <span dir=\"rtl\">מאן נ׳ בנן וכ׳</span> (Manuscript Munich <span class=\"refLink\" data-ref=\"Jastrow, נִינְהוּ 1\" dir=\"rtl\" href=\"/Jastrow,_נִינְהוּ.1\">נינהו</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note) who is (are) meant by ‘the son of saints’?; and from—<i>Fem</i>. <span dir=\"rtl\">נִיהִי</span>. <span class=\"refLink\" data-ref=\"Berakhot 44a:13\" href=\"/Berakhot.44a.13\">Berakhot 44ᵃ</span>.—plural <span class=\"refLink\" data-ref=\"Jastrow, נִינְהוּ 1\" dir=\"rtl\" href=\"/Jastrow,_נִינְהוּ.1\">נִינְהוּ</span>, <span class=\"refLink\" data-ref=\"Jastrow, נִנְהוּ 1\" dir=\"rtl\" href=\"/Jastrow,_נִנְהוּ.1\">נִנְהוּ</span>. <span class=\"refLink\" data-ref=\"Chullin 38a:2\" href=\"/Chullin.38a.2\">Chullin 38ᵃ</span> <span dir=\"rtl\">מאי נ׳ דברים וכ׳</span> what are the movements indicating the agony of death? <span class=\"refLink\" data-ref=\"Chullin 79a:4\" href=\"/Chullin.79a.4\">Ib. 79ᵃ</span> <span dir=\"rtl\">כולהו חדא מינא נ׳</span> they all belong to the same species. <span class=\"refLink\" data-ref=\"Bava Metzia 24b:10\" href=\"/Bava_Metzia.24b.10\">Bava Metzia 24ᵇ</span> <span dir=\"rtl\">רובה ישראל ננהו</span> the majority are Jews; and from—With suffixes: <span dir=\"rtl\">נִיהֲלִי</span>, <span dir=\"rtl\">נִיהֲלָךְ</span>, <span dir=\"rtl\">נִיהֲלֵיה</span> &c. (<i>to</i>) <i>myself, thyself, himself</i> &c. <span class=\"refLink\" data-ref=\"Chullin 59b:9\" href=\"/Chullin.59b.9\">Chullin 59ᵇ</span> <span dir=\"rtl\">בעינא דמחזית ליה ניהלי</span> (Rashi <span dir=\"rtl\">דמחזית ניהליה</span>) I want thee to show him to <i>me</i> (Rashi: to make him visible). <span class=\"refLink\" data-ref=\"Chullin 142a:1\" href=\"/Chullin.142a.1\">Ib. 142ᵃ</span> <span dir=\"rtl\">והדר לקנינהו נ׳</span> and then let him transfer them to thyself. <span class=\"refLink\" data-ref=\"Berakhot 54b:19\" href=\"/Berakhot.54b.19\">Berakhot 54ᵇ</span> <span dir=\"rtl\">בריך רחמנא דיהבך נִיהֲלָן וכ׳</span> blessed be the Merciful who returned thee to <i>us</i> and not to the dust. <span class=\"refLink\" data-ref=\"Nedarim 41a\" href=\"/Nedarim.41a\">Nedarim 41ᵃ</span>; <span class=\"refLink\" data-ref=\"Eruvin 10a\" href=\"/Eruvin.10a\">Eruvin 10ᵃ</span>, and from <span dir=\"rtl\">את אמרת ניהלן וכ׳</span> thou didst cite it to ourselves &c. <span class=\"refLink\" data-ref=\"Ketubot 92a:7\" href=\"/Ketubot.92a.7\">Ketubot 92ᵃ</span> <span dir=\"rtl\">מגבי להו נִיהֲלַיְיהוּ ארעא</span> he will give land in payment to the very claimants, and then seize it from them; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, נִיהוּ 1",
+              "sourceHeRef": "מילון יסטרוב, נִיהוּ א׳",
+              "sourceRef": "Jastrow, נִיהוּ 1"
+            }
+          ]
+        },
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בא\"ד דא\"ל להכי טרחי כו' אם היו כולם ביד שמעון האחרונה שהיא זיבורית היה מגבה לו כו' עכ\"ל ר\"ל דמש\"ה לא מצי שמעון למימר לא ניחא לי בהך תקנתא כמו שהקשה רבי לפ\"ה משום כיון דאם היו כולם ביד שמעון האחרונה שהיא זיבורית מגבה והשתא כל אותו זכות יש לו ללוי לדחות אותו אצל זיבורית שביד שמעון שקנה באחרונה וק\"ל:",
+              "ref": "Chidushei Halachot on Ketubot 92a:3",
+              "sourceHeRef": " חידושי הלכות על מסכת כתובות צ״ב א:ג",
+              "sourceRef": "Chidushei Halachot on Ketubot 92a:3"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>Rav Yehuda says</b> that <b>Shmuel says: A firstborn does not take a double</b> portion <b>of a loan,</b> i.e., of a debt that is owed to the father. The Gemara asks: <b>According to whom</b> is this <i>halakha</i> stated? <b>If we say</b> it is <b>in accordance with</b> the opinion of <b>the Rabbis, now</b> that <b>the Rabbis say</b> that a firstborn <b>does not take</b> a double portion even with regard to the <b>enhancement</b> of property <b>that is in the possession of</b> the father, is it <b>necessary</b> to state that he is not entitled to a double portion of <b>a loan?</b> The debt is not in the father’s possession at the time of his death; it is merely due to him.",
+                  "<b>Rather,</b> it must be <b>in accordance with</b> the opinion of <b>Rabbi</b> Yehuda HaNasi. Although he holds that a firstborn is entitled to a double portion of the enhancement of the property itself, he concedes that he is not entitled to a double portion of the payment of a debt, as it was not in the possession of his father at the time of his death.",
+                  "The Gemara asks: <b>But</b> if so, in accordance with <b>whose</b> opinion is <b>that which is taught</b> in a <i>baraita</i>: If the sons <b>inherited a promissory note,</b> the <b>firstborn takes a double</b> portion <b>of</b> the payment of <b>both</b> the value of <b>the loan</b> itself <b>and the interest?</b> It is <b>neither</b> in accordance with the opinion of <b>Rabbi</b> Yehuda HaNasi, <b>nor</b> the opinion of <b>the Rabbis.</b>",
+                  "The Gemara answers: <b>Actually,</b> Shmuel’s statement that the firstborn is not entitled to a double portion of the payment of a debt is <b>in accordance with</b> the opinion of <b>the Rabbis, and it was necessary</b> to state it. It might <b>enter your mind to say</b> that with regard to <b>a loan, since</b> the creditor <b>holds</b> a promissory <b>note, it is considered as though it has</b> already <b>been collected</b> and is in the creditor’s possession, so too, the firstborn should be entitled to a double portion even according to the opinion of the Rabbis. Therefore, Shmuel <b>teaches us</b> that the loan is not considered to be in the creditor’s possession, and the firstborn is not entitled to a double portion.",
+                  "The Gemara relates: <b>They sent</b> the following ruling <b>from there,</b> Eretz Yisrael: If the father lent money to a gentile, the <b>firstborn takes a double</b> portion of the value <b>of</b> the <b>loan</b> itself, <b>but not of</b> the <b>interest,</b> as the interest is considered property due to the father.",
+                  "The Gemara asks: <b>According to whom</b> is this <i>halakha</i> stated? <b>If we say</b> it is <b>in accordance with</b> the opinion of <b>the Rabbis, now</b> that <b>the Rabbis say</b> that a firstborn <b>does not take</b> a double portion even with regard to the <b>enhancement</b> of property, <b>which is in the possession of</b> the father, is it <b>necessary</b> to state that they would hold that he is not entitled to a double portion of <b>a loan?</b> Since the debt is not in the father’s possession at the time of his death, as it is merely due to him, the rabbis would certainly not hold that the firstborn takes a double portion of it.",
+                  "<b>Rather,</b> it must be <b>in accordance with</b> the opinion of <b>Rabbi</b> Yehuda HaNasi. The Gemara asks: <b>And according to</b> the opinion of <b>Rabbi</b> Yehuda HaNasi, is it so that the firstborn is <b>not</b> entitled to a double portion <b>of the interest? But isn’t it taught</b> in a <i>baraita</i> that <b>Rabbi</b> Yehuda HaNasi <b>says: A firstborn takes a double</b> portion <b>of both</b> the value of <b>the loan</b> itself <b>and the interest?</b>",
+                  "The Gemara answers: <b>Actually,</b> the <i>halakha</i> sent from the Sages of Eretz Yisrael <b>is</b> in accordance with the opinion of <b>the Rabbis. And</b> the Sages of Eretz Yisrael hold that the Rabbis concede that the firstborn receives a double portion of the value of the loan itself, because <b>a loan is considered as though it has</b> already <b>been collected</b> and is in the creditor’s possession. By contrast, the interest on the loan is not considered as though it is already in the creditor’s possession, and therefore the firstborn does not receive a double portion of its payment.",
+                  "<b>Rav Aḥa bar Rav said to Ravina: Ameimar arrived at our locale and taught</b> that <b>a firstborn takes a double</b> portion <b>of</b> the value of <b>a loan</b> itself, <b>but not of</b> the <b>interest.</b> Ravina <b>said to him:</b> The Sages <b>of Neharde’a</b> conform <b>to their</b> standard line of <b>reasoning.</b> Ameimar followed the opinion of Rav Naḥman, who was one of the Sages of Naharde’a, as was Ameimar.",
+                  "The Gemara explains: <b>As Rabba says:</b> If the sons <b>collected land</b> as payment of a debt owed to their father, the firstborn <b>has</b> a double portion of it, but if <b>they collected money, he does not have</b> a double portion. <b>And Rav Naḥman says</b> that if <b>they collected money, he has</b> a double portion, but if <b>they collected land, he does not have</b> a double portion.",
+                  "<b>Abaye said to Rabba: According to your</b> opinion it <b>is difficult,</b> and <b>according to</b> the opinion of <b>Rav Naḥman</b> it <b>is</b> also <b>difficult. According to your</b> opinion it <b>is difficult</b>"
+                ],
+                [
+                  "because <b>what is different</b> about <b>money,</b> resulting in the <i>halakha</i> <b>that</b> the firstborn is <b>not</b> entitled to a double portion of it, is <b>that their father did not leave</b> them <b>this</b> specific <b>money</b> that was collected. With regard to <b>land as well, their father did not leave</b> them <b>this</b> specific parcel of <b>land</b> when he died, as the debtor could have repaid them with a different parcel of land, or with money.",
+                  "<b>And furthermore, aren’t you</b> the one <b>who said</b> that <b>the explanation of the people of the West,</b> Eretz Yisrael, <b>is reasonable?</b> In a case where a married woman had been fit to inherit from her great-grandmother but then predeceased her great-grandmother, who then died, and her widower claims the inheritance in his late wife’s stead, the Sages of Eretz Yisrael ruled that he is not entitled to the inheritance, as it is merely property due to his wife, and a husband does not inherit property due to be inherited by his late wife. Rabba agreed that the inheritance is considered property due to the wife, and not property possessed by her, <b>as if the</b> great-<b>grandmother would have sold it before</b> she died, <b>her sale would have been</b> a valid <b>sale.</b> Here, too, the land should be considered property due to the father, of which a firstborn is not entitled to a double portion, since the debtor could have sold it. Therefore, Rabba’s opinion is difficult.",
+                  "Abaya continues: <b>According to</b> the opinion of <b>Rav Naḥman</b> it is <b>difficult; what is different</b> about <b>land,</b> resulting in the <i>halakha</i> <b>that</b> the firstborn is <b>not</b> entitled to a double portion of it, is <b>that their father did not leave</b> them <b>this</b> specific parcel of <b>land.</b> With regard to <b>money as well, their father did not leave</b> them <b>this</b> specific <b>money</b> when he died.",
+                  "<b>And furthermore, doesn’t Rav Naḥman say</b> that <b>Rabba bar Avuh says:</b> With regard to <b>orphans who collected land for a debt owed to their father,</b> their father’s <b>creditor</b> can <b>come and seize this</b> land <b>from them,</b> as any land owned by the father is liened against his debts. Evidently, Rav Naḥman holds that land liened against a debt has the legal status of land that is in the possession of the creditor. If so, why does Rav Naḥman hold that a firstborn is not entitled to a double portion of land that is collected as payment of a debt?",
+                  "Rabba <b>said to</b> Abaye: <b>According to my</b> opinion it <b>is not difficult, and according to</b> the opinion of <b>Rav Naḥman</b> it <b>is not difficult. We were</b> merely <b>saying,</b> i.e., explaining, <b>the reason</b> for the opinion <b>of the people of the West,</b> Eretz Yisrael, introduced with the phrase: They sent the following ruling from there, that a firstborn is entitled to a double portion of the payment of a debt. <b>But we ourselves do not hold</b> in accordance with that opinion. Therefore, one cannot raise a contradiction from our opinions stated elsewhere to what we said in explanation of the Sages of Eretz Yisrael.",
+                  "Having mentioned in passing the case of the great-grandmother, the Gemara discusses that case in depth. <b>What</b> is the case of the great-<b>grandmother</b> that was mentioned by Abaye? The Gemara explains: There was <b>a certain</b> moribund person <b>who said to</b> those present:"
+                ],
+                [
+                  "All <b>my property</b> is given <b>to</b> my <b>grandmother, and after she</b> dies, it is given <b>to my heirs,</b> not inherited by her heirs. He then died. <b>He had a married daughter,</b> who <b>died during the lifetime of her husband and during the lifetime of</b> her father’s <b>grandmother. After</b> her father’s <b>grandmother died,</b> her <b>husband came and claimed</b> the inheritance, as his wife was the heir of her father, and he is his wife’s heir.",
+                  "<b>Rav Huna said:</b> When her father said that his property is given: <b>To my heirs,</b> he meant: <b>And even to the heirs of my heirs.</b> Therefore, since his daughter’s husband is the heir of his heir, he is entitled to the inheritance. <b>And Rav Anan said</b> that he meant: <b>To my heirs, but not to the heirs of my heirs.</b> Therefore, the husband is not entitled to the property.",
+                  "The Gemara relates: <b>They sent</b> a ruling <b>from there,</b> Eretz Yisrael: <b>The <i>halakha</i></b> is <b>in accordance with</b> the opinion <b>of Rav Anan, but not due to his reasoning.</b> The Gemara explains: <b>The <i>halakha</i></b> is <b>in accordance with</b> the opinion <b>of Rav Anan that the husband does not inherit</b> the property. <b>But not due to his reasoning, as Rav Anan holds</b> that <b>even if his daughter had a son</b> to inherit from her, <b>he</b> would <b>not inherit</b> the property, as her father bequeathed it only to his heirs, not to the heirs of his heirs. <b>And</b> that <b>is not so, as if his daughter had a son, he</b> would <b>certainly inherit; and this is the reason the husband does not inherit: Because</b> the inheritance <b>is considered</b> property <b>due</b> to the daughter, as she did not own it during her lifetime, <b>and a husband does not take</b> in inheritance property <b>due</b> to his wife <b>as</b> he does the property she <b>possessed.</b>",
+                  "The Gemara asks: <b>By inference, does Rav Huna,</b> who ruled that the husband is entitled to the inheritance, <b>hold</b> that <b>a husband takes</b> in inheritance property <b>due</b> to his wife <b>as</b> he does the property she <b>possessed?</b>",
+                  "<b>Rabbi Elazar says: This matter was introduced by great</b> Sages, namely Rav Huna, <b>and concluded by lesser</b> Sages, i.e., by me. Rabbi Elazar, humbly referring to himself as a lesser Sage, will now explain Rav Huna’s statement. <b>Anyone who says</b> to another upon granting him an inheritance or a gift: <b>After you</b> die it is given to so-and-so, <b>is</b> considered <b>like one who says:</b> It is given to so-and-so <b>from now.</b> The first recipient merely has the right to use the property during his lifetime but did not actually become the owner. Accordingly, the inheritance was owned by the daughter in her lifetime, and the great-grandmother merely had usage rights. Therefore, it is inherited by the husband.",
+                  "<b>Rabba said: The explanation of the people of the West,</b> that the inheritance is considered property due to the daughter and not property possessed by her, <b>is reasonable, as if the grandmother would have sold it before</b> she died, <b>her sale would have been</b> a valid <b>sale,</b> and the daughter would not have received it at all."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 124b:7",
+                "Bava Batra 124b:8",
+                "Bava Batra 124b:9",
+                "Bava Batra 124b:10",
+                "Bava Batra 124b:11",
+                "Bava Batra 124b:12",
+                "Bava Batra 124b:13",
+                "Bava Batra 124b:14",
+                "Bava Batra 124b:15",
+                "Bava Batra 124b:16",
+                "Bava Batra 124b:17",
+                "Bava Batra 125a:1",
+                "Bava Batra 125a:2",
+                "Bava Batra 125a:3",
+                "Bava Batra 125a:4",
+                "Bava Batra 125a:5",
+                "Bava Batra 125a:6",
+                "Bava Batra 125b:1",
+                "Bava Batra 125b:2",
+                "Bava Batra 125b:3",
+                "Bava Batra 125b:4",
+                "Bava Batra 125b:5",
+                "Bava Batra 125b:6"
+              ],
+              "he": [
+                [
+                  "אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: אֵין בְּכוֹר נוֹטֵל פִּי שְׁנַיִם בַּמִּלְוָה. לְמַאן? אִילֵּימָא לְרַבָּנַן, הַשְׁתָּא שְׁבָחָא דְּאִיתֵיהּ בִּרְשׁוּתֵיהּ – אָמְרִי רַבָּנַן לָא שָׁקֵיל; מִלְוָה מִבַּעְיָא?!",
+                  "אֶלָּא לְרַבִּי.",
+                  "וְאֶלָּא הָא דְּתַנְיָא: יָרְשׁוּ שְׁטַר חוֹב – בְּכוֹר נוֹטֵל פִּי שְׁנַיִם, בֵּין בַּמִּלְוָה בֵּין בָּרִבִּית. מַנִּי? לָא רַבִּי וְלָא רַבָּנַן!",
+                  "לְעוֹלָם לְרַבָּנַן, וְאִצְטְרִיךְ – סָלְקָא דַעְתָּךְ אָמֵינָא: מִלְוָה – כֵּיוָן דְּנָקֵיט שְׁטָרָא, כְּמַאן דְּגַבְיָא דָּמְיָא; קָא מַשְׁמַע לַן.",
+                  "שְׁלַחוּ מִתָּם: בְּכוֹר נוֹטֵל פִּי שְׁנַיִם בַּמִּלְוָה, אֲבָל לֹא בָּרִבִּית.",
+                  "לְמַאן? אִילֵּימָא לְרַבָּנַן, הַשְׁתָּא שְׁבָחָא דְּאִיתֵיהּ בִּרְשׁוּתֵיהּ – אָמְרִי רַבָּנַן דְּלָא שָׁקֵיל; מִלְוָה מִבַּעְיָא?!",
+                  "אֶלָּא לְרַבִּי. וּלְרַבִּי, בָּרִבִּית לָא?! וְהָתַנְיָא, רַבִּי אוֹמֵר: בְּכוֹר נוֹטֵל פִּי שְׁנַיִם, בֵּין בַּמִּלְוָה בֵּין בָּרִבִּית!",
+                  "לְעוֹלָם רַבָּנַן הִיא, וּמִלְוָה כְּמַאן דְּגַבְיָא דָּמְיָא.",
+                  "אֲמַר לֵיהּ רַב אַחָא בַּר רַב לְרָבִינָא: אִיקְּלַע אַמֵּימָר לְאַתְרִין, וְדָרֵישׁ: בְּכוֹר נוֹטֵל פִּי שְׁנַיִם בַּמִּלְוָה, אֲבָל לֹא בָּרִבִּית. אֲמַר לֵיהּ: נְהַרְדָּעֵי לְטַעְמַיְיהוּ –",
+                  "דְּאָמַר רַבָּה: גָּבוּ קַרְקַע – יֵשׁ לוֹ, גָּבוּ מָעוֹת – אֵין לוֹ. וְרַב נַחְמָן אָמַר: גָּבוּ מָעוֹת – יֵשׁ לוֹ, גָּבוּ קַרְקַע – אֵין לוֹ.",
+                  "אֲמַר לֵיהּ אַבָּיֵי לְרַבָּה: לְדִידָךְ קַשְׁיָא, לְרַב נַחְמָן קַשְׁיָא. לְדִידָךְ קַשְׁיָא,"
+                ],
+                [
+                  "מַאי שְׁנָא מָעוֹת דְּלָא – דְּלָאו הָנֵי מָעוֹת שְׁבַק אֲבוּהוֹן; קַרְקַע נָמֵי – לָאו הָא קַרְקַע שְׁבַק אֲבוּהוֹן!",
+                  "וְעוֹד, הָא אַתְּ הוּא דְּאָמְרַתְּ: מִסְתַּבֵּר טַעְמָא דִּבְנֵי מַעְרְבָא, דְּאִי קְדֵים סָבְתָּא וְזַבְּנָא – זְבִינַהּ זְבִינֵי!",
+                  "לְרַב נַחְמָן קַשְׁיָא, מַאי שְׁנָא קַרְקַע דְּלָא – דְּלָאו הָא קַרְקַע שְׁבַק אֲבוּהוֹן; מָעוֹת נָמֵי – לָאו הָנֵי מָעוֹת שְׁבַק אֲבוּהוֹן!",
+                  "וְעוֹד, הָא אָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: יְתוֹמִים שֶׁגָּבוּ קַרְקַע בְּחוֹבַת אֲבִיהֶן – בַּעַל חוֹב חוֹזֵר וְגוֹבָהּ מֵהֶן!",
+                  "אֲמַר לֵיהּ: לָא לְדִידִי קַשְׁיָא, וְלָא לְרַב נַחְמָן קַשְׁיָא; טַעְמָא דִּבְנֵי מַעְרְבָא קָאָמְרִינַן, וְלַן לָא סְבִירָא לַן.",
+                  "מַאי סָבְתָּא? דְּהַהוּא דַּאֲמַר לְהוּ:"
+                ],
+                [
+                  "״נִכְסַי לְסָבְתָּא, וּבָתְרַהּ לְיָרְתַאי״. הַוְיָא לֵיהּ בְּרַתָּא דַּהֲוָה נְסִיבָא, שְׁכִיבָא בְּחַיֵּי בַּעְלַהּ וּבְחַיֵּי סָבְתָּא. בָּתַר דִּשְׁכִיבָא סָבְתָּא, אֲתָא בַּעַל קָא תָּבַע.",
+                  "אָמַר רַב הוּנָא: ״לְיָרְתַי״ – וַאֲפִילּוּ לְיָרְתֵי יָרְתַי. וְרַב עָנָן אָמַר: ״לְיָרְתַי״ – וְלָא לְיָרְתֵי יָרְתַי.",
+                  "שְׁלַחוּ מִתָּם: הִלְכְתָא כְּווֹתֵיהּ דְּרַב עָנָן, וְלָאו מִטַּעְמֵיהּ. הִלְכְתָא כְּווֹתֵיהּ דְּרַב עָנָן – דְּבַעַל לָא יָרֵית, וְלָאו מִטַּעְמֵיהּ; דְּאִילּוּ רַב עָנָן סָבַר: אַף עַל גַּב דַּהֲוָה לֵיהּ בְּרָא לִבְרַתֵּיהּ, לָא יָרֵית; וְלָא הִיא, דְּאִילּוּ הֲוָה לֵיהּ בְּרָא לִבְרַתֵּיהּ, וַדַּאי יָרֵית; וּבַעַל הַיְינוּ טַעְמָא דְּלָא יָרֵית – מִשּׁוּם דַּהֲוָה לֵיהּ רָאוּי, וְאֵין הַבַּעַל נוֹטֵל בָּרָאוּי כִּבְמוּחְזָק.",
+                  "מִכְּלָל דְּרַב הוּנָא סָבַר: בַּעַל נוֹטֵל בָּרָאוּי כִּבְמוּחְזָק?!",
+                  "אָמַר רַבִּי אֶלְעָזָר: דָּבָר זֶה נִפְתַּח בִּגְדוֹלִים וְנִסְתַּיֵּים בִּקְטַנִּים, כׇּל הָאוֹמֵר: ״אַחֲרֶיךָ״, כְּאוֹמֵר ״מֵעַכְשָׁיו״ דָּמֵי.",
+                  "אָמַר רַבָּה: מִסְתַּבְּרָא טַעְמָא דִּבְנֵי מַעְרְבָא, דְּאִי קְדֵים סָבְתָּא וְזַבִּנָא – זְבִינַהּ זְבִינֵי."
+                ]
+              ],
+              "link": "/Bava Batra/125a",
+              "originalRefsBeforeRewriting": [
+                "Bava Batra 125a:4"
+              ],
+              "ref": "Bava Batra 124b:7-125b:6",
+              "sourceHeRef": "בבא בתרא קכ״ה א",
+              "sourceRef": "Bava Batra 125a"
+            },
+            {
+              "en": [
+                "<strong>GEMARA:</strong> <b>It was stated</b> that <i>amora’im</i> disputed the case of <b>two</b> people <b>who</b> each <b>produced a promissory note against the other</b> for the same value. <b>Rav Naḥman said: This one collects</b> his debt <b>and that one collects</b> his debt. <b>Rav Sheshet said: Why do I</b> need <b>to shift</b> donkey <b>packs [<i>matrata</i>]</b> from one side to the other? <b>Rather,</b> as each will retain the same sum, let <b>this one stand with his</b> money <b>and</b> let <b>that one stand with his</b> money.",
+                "The Gemara analyses this dispute: <b>Everyone</b> agrees that if the field of one of the parties, which served as guarantee for the promissory note, was <b>superior-quality land and</b> the other person also had <b>superior-quality land,</b> or one had <b>intermediate-quality land and</b> the other had <b>intermediate-quality land,</b> or one had <b>inferior-quality land and</b> the other had <b>inferior-quality land,</b> this <b>is certainly</b> considered like <b>shifting</b> donkey <b>packs,</b> i.e., it is an exercise in futility, as there is no reason to exchange their money.",
+                "<b>When they disagree</b> is in a case <b>where one has intermediate-quality land and</b> the other <b>one</b> has <b>inferior-quality land. Rav Naḥman holds</b> that <b>this one collects</b> his debt <b>and that one collects</b> his debt, as <b>he holds</b> that <b>one assesses</b> the quality of land <b>on</b> the basis of <b>his own</b> fields, i.e., if the borrower has different types of land, then his best land is classified as superior-quality land, the next best is considered intermediate-quality land, and his worst fields are called inferior-quality land.",
+                "Consequently, <b>the owner of inferior-quality land,</b> Reuven, <b>will come and collect</b> his debt from the <b>intermediate-quality land</b> of his debtor, Shimon, in accordance with the <i>halakha</i> that a creditor collects payment from intermediate-quality land. Since Shimon does not have any land that is inferior, Reuven necessarily takes his debt from that land. However, at this stage the land Reuven took from Shimon <b>is</b> considered <b>for him superior-quality land,</b> as all of his other fields are of lower quality than the field he took. <b>And</b> therefore, <b>that</b> other creditor, Shimon, <b>comes</b> to collect his debt from Reuven, <b>and takes from inferior-quality land,</b> as the intermediate-quality land that Reuven took from Shimon is now, relative to Reuven’s other field, classified as superior-quality land. Consequently, each debtor will take different fields from the other, despite the fact that they owe the same sum.",
+                "<b>And Rav Sheshet,</b> who <b>said: Why do I</b> need <b>to shift</b> donkey <b>packs, holds</b> that the quality of the land is not assessed differently for each individual borrower. Rather, <b>one assesses</b> the quality of land <b>on</b> the basis of the lands of <b>all people,</b> i.e., there is a standard measure of land quality which applies to everyone. If so, then <b>ultimately, when that</b> second debtor, Shimon, comes to collect from Reuven he will take back his own <b>intermediate-quality land,</b> i.e., the field that Reuven took from him only a short while earlier. Consequently, no purpose is served by going through this process.",
+                "The Gemara asks: <b>And according to</b> the opinion of <b>Rav Naḥman, what did you see that</b> led you to establish that <b>the owner of inferior-quality land</b> will <b>come</b> and collect his debt <b>first,</b> as described above? <b>Let the owner of intermediate-quality land come first and collect inferior-quality land</b> from the other party, as that is all he possesses. In this scenario, the intermediate-quality land in the possession of the one who collected his debt will be classified as high quality, while his inferior-quality field will be considered of intermediate quality. <b>And</b> therefore <b>let</b> the other <b>return and collect</b> the same portion of land that he took from <b>him.</b> Once again, this is an apparently unnecessary exchange.",
+                "The Gemara answers: <b>No,</b> it is <b>necessary</b> only in a case <b>where</b> the owner of the low-quality land happened to <b>precede</b> the other <b>and claim</b> from him first. The Gemara raises a difficulty: <b>Ultimately, when they come to collect</b> their respective debts, <b>they come together,</b> which means that they will pass the same portion of land back and forth.",
+                "<b>Rather,</b> the Gemara provides an alternative explanation: <b>No,</b> this dispute is <b>necessary</b> in a case <b>where one has superior-quality land and intermediate-quality land, and</b> the other <b>one has</b> only <b>inferior-quality land. One Sage,</b> Rav Naḥman, <b>holds</b> that <b>one assesses</b> the quality of land <b>on</b> the basis of <b>his own</b> fields. Consequently, the owner of the low-quality land stands to gain, as he collects intermediate-quality land from the other and pays low-quality land in return, regardless of the order of the claims. <b>And one Sage,</b> Rav Sheshet, <b>holds</b> that the court <b>appraises</b> the quality of land <b>on</b> the basis of the lands of <b>all people,</b> which means that they will be trading the same plot of land back and forth.",
+                "<b>We learned</b> in the mishna: <b>And the Rabbis say: This one collects</b> his promissory note <b>and that one collects</b> his promissory note. This ruling apparently contradicts the opinion of Rav Sheshet. <b>Rav Naḥman</b> himself <b>interpreted</b> the mishna <b>in accordance with</b> the opinion of <b>Rav Sheshet:</b> This is referring to a situation, <b>for example, where this one borrowed for</b> a period of <b>ten</b> years <b>and that one</b> borrowed <b>for five</b> years. In this case it makes sense to say that each collects as stated in the promissory note in his possession.",
+                "The Gemara asks: <b>What are the circumstances</b> of this case? <b>If we say</b> that the <b>first</b> one borrowed <b>for ten</b> years <b>and</b> the <b>second for five,</b> is <b>this</b> the case in which <b>Admon would say: If I owed you</b> money, <b>how</b> is it that <b>you are borrowing from me?</b> After all, the due <b>date has not yet arrived</b> for the second person to pay his debt. Perhaps the other creditor needs money to sustain himself for the next five years. <b>Rather, the first</b> one borrowed <b>for five</b> years <b>and the second for ten</b> years.",
+                "The Gemara continues to inquire: <b>What are the circumstances? If</b> this is referring to a case <b>where</b> the due <b>date</b> of the first promissory note <b>had</b> already <b>arrived</b> when the second loan was issued, <b>what is the rationale for</b> the ruling of <b>the Rabbis?</b> The second person should not have borrowed money from the first, as he should have instead collected payment on the debt owed to him. <b>And if</b> the due <b>date had not</b> yet <b>arrived,</b> the second person clearly cannot demand his money, as the due <b>date had not yet arrived,</b> and perhaps he simply was in need of available money. <b>And</b> if so, <b>what is the rationale for</b> the opinion of <b>Admon?</b>",
+                "The Gemara answers: <b>No,</b> it is <b>necessary</b> in a case <b>where he came on</b> exactly <b>that day when the five years</b> of the first loan <b>were completed.</b> The dispute is as follows: <b>One Sage,</b> the Rabbis, <b>holds</b> that <b>a person will take out a loan</b> even <b>for one day, and</b> one <b>Sage,</b> Admon, <b>holds</b> that <b>a person will not take out a loan for one day,</b> and therefore he would have waited one day to receive payment of the debt owed to him.",
+                "<b>Rami bar Ḥama stated</b> a different answer: <b>Here we are dealing with orphans,</b> i.e., one of the debtors died without leaving any landed properties, <b>as orphans collect</b> debts owed to their father but others <b>do not collect from them</b> the debts their father owed. Consequently, the statement of the Rabbis that each collects based on the document in his possession has practical ramifications. The Gemara asks: <b>But</b> the mishna <b>teaches</b> that <b>this one collects</b> his promissory note <b>and that one collects</b> his promissory note, whereas according to this interpretation only the orphans collect the debts they are owed. The Gemara answers: The mishna means that <b>this one collects, and that one</b> has the <b>potential to collect but he does not have</b> any land from which he may legally collect his debt.",
+                "<b>Rava said:</b> There are <b>two responses to this</b> explanation. <b>One</b> is <b>that</b> the mishna <b>teaches</b> that <b>this one collects</b> his promissory note <b>and that one collects</b> his promissory note, which indicates that each actually collects what is owed to him, not that one is entitled to collect it but may not do so in practice. <b>And furthermore, let him give land to the orphans and return and collect it from them, in accordance with</b> the opinion of <b>Rav Naḥman. As Rav Naḥman said</b> that <b>Rabba bar Avuh said:</b> With regard to <b>orphans who collected land in payment of their father’s debt, a creditor may come back and collect it from them.</b> The Gemara comments: This does pose a <b>difficulty</b> for the explanation of Rami bar Ḥama.",
+                "The Gemara asks: <b>And let us establish</b> the mishna as referring to a case where <b>the orphans have inferior-quality land, and he himself,</b> the other creditor, <b>has</b> both <b>superior-quality land and intermediate-quality land. In</b> this scenario <b>the orphans go</b> and <b>collect intermediate-quality land</b> from him, <b>while they give</b> him <b>inferior-quality land</b> in payment of the debt owed to him by their father. The reason is <b>that even if</b> the <i>halakha</i> is that <b>one assesses</b> the quality of land <b>on</b> the basis of the lands of <b>all people,</b> and therefore the other creditor should be able to collect intermediate-quality land from the orphans, there is a principle that <b>one collects</b> a debt <b>from the property of orphans only from inferior-quality land.</b>",
+                "The Gemara answers: <b>This applies only</b> to a case <b>where</b> the lender <b>has not as yet seized</b> any land from the orphans in payment of his debt. <b>However, where he has seized</b> intermediate-quality land, <b>he has seized</b> that land. Since he is already in possession of a field, it is not taken from him. In these circumstances there is no significance to each party collecting from the other."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Ketubot 110a:5",
+                "Ketubot 110a:6",
+                "Ketubot 110a:7",
+                "Ketubot 110a:8",
+                "Ketubot 110a:9",
+                "Ketubot 110a:10",
+                "Ketubot 110a:11",
+                "Ketubot 110a:12",
+                "Ketubot 110a:13",
+                "Ketubot 110a:14",
+                "Ketubot 110a:15",
+                "Ketubot 110a:16",
+                "Ketubot 110a:17",
+                "Ketubot 110a:18",
+                "Ketubot 110a:19",
+                "Ketubot 110a:20"
+              ],
+              "he": [
+                "<big><strong>גְּמָ׳</strong></big> אִתְּמַר: שְׁנַיִם שֶׁהוֹצִיאוּ שְׁטַר חוֹב זֶה עַל זֶה. רַב נַחְמָן אָמַר: זֶה גּוֹבֶה וְזֶה גּוֹבֶה. רַב שֵׁשֶׁת אָמַר: הַפּוֹכֵי מַטְרָתָא לָמָּה לִי. אֶלָּא זֶה עוֹמֵד בְּשֶׁלּוֹ וְזֶה עוֹמֵד בְּשֶׁלּוֹ.",
+                "דְּכוּלֵּי עָלְמָא עִידִּית וְעִידִּית, בֵּינוֹנִית וּבֵינוֹנִית, זִיבּוּרִית וְזִיבּוּרִית — וַדַּאי הַפּוֹכֵי מַטְרָתָא הוּא.",
+                "כִּי פְּלִיגִי, דְּאִית לֵיהּ לְחַד בֵּינוֹנִית וּלְחַד זִיבּוּרִית — רַב נַחְמָן סָבַר: זֶה גּוֹבֶה וְזֶה גּוֹבֶה. קָסָבַר: בְּשֶׁלּוֹ הֵן שָׁמִין.",
+                "אָתֵי בַּעַל זִיבּוּרִית וְגָבֵי לֵיהּ לְבֵינוֹנִית, דַּהֲוָה גַּבֵּיהּ עִידִּית, וַאֲתָא הָהוּא וְשָׁקֵיל זִיבּוּרִית.",
+                "וְרַב שֵׁשֶׁת אָמַר: הַפּוֹכֵי מַטְרָתָא לָמָּה לִי, קָסָבַר: בְּשֶׁל כׇּל אָדָם הֵן שָׁמִין, סוֹף סוֹף כִּי אָתֵי הָהוּא — בֵּינוֹנִית דְּנַפְשֵׁיהּ קָשָׁקֵיל.",
+                "וּלְרַב נַחְמָן: מַאי חָזֵית דְּאָתֵי בַּעַל זִיבּוּרִית בְּרֵישָׁא, לֵיתֵי בַּעַל בֵּינוֹנִית בְּרֵישָׁא וְלִיגְבֵּי זִיבּוּרִית, וְלֶיהְדַּר וְלִיגְבֵּי נִיהֲלֵיהּ!",
+                "לָא צְרִיכָא, דִּקְדֵים תַּבְעֵיהּ. סוֹף סוֹף כִּי אֲתוֹ לְמִגְבֵּי, בַּהֲדֵי הֲדָדֵי קָאָתוּ!",
+                "אֶלָּא, לָא צְרִיכָא דְּאִית לֵיהּ לְחַד עִידִּית וּבֵינוֹנִית, וְאִית לֵיהּ לְחַד זִיבּוּרִית — מָר סָבַר: בְּשֶׁלּוֹ הֵן שָׁמִין, וּמָר סָבַר: בְּשֶׁל כׇּל אָדָם הֵן שָׁמִין.",
+                "תְּנַן, וַחֲכָמִים אוֹמְרִים: זֶה גּוֹבֶה וְזֶה גּוֹבֶה! תַּרְגְּמַהּ רַב נַחְמָן אַלִּיבָּא דְּרַב שֵׁשֶׁת: כְּגוֹן שֶׁלָּוָה זֶה לְעֶשֶׂר וְזֶה לְחָמֵשׁ.",
+                "הֵיכִי דָמֵי? אִילֵּימָא רִאשׁוֹן לְעֶשֶׂר וְשֵׁנִי לְחָמֵשׁ, בְּהָא לֵימָא אַדְמוֹן: אִילּוּ הָיִיתִי חַיָּיב לְךָ כֵּיצַד אַתָּה לֹוֶה מִמֶּנִּי? הָא לָא מְטָא זִמְנֵיהּ. אֶלָּא רִאשׁוֹן לְחָמֵשׁ, וְשֵׁנִי לְעֶשֶׂר.",
+                "הֵיכִי דָמֵי? אִי דִּמְטָא זִמְנֵיהּ — מַאי טַעְמָא דְּרַבָּנַן. וְאִי דְּלָא מְטָא זִמְנֵיהּ — הָא לָא מְטָא זִמְנֵיהּ, וּמַאי טַעְמָא דְּאַדְמוֹן?",
+                "לָא צְרִיכָא דַּאֲתָא בְּהָהוּא יוֹמָא דְּמִשְׁלַם חָמֵשׁ. מָר סָבַר: עֲבִיד אִינִישׁ דְּיָזֵיף לְיוֹמֵיהּ, וּמָר סָבַר: לָא עֲבִיד אִינִישׁ דְּיָזֵיף לְיוֹמֵיהּ.",
+                "רָמֵי בַּר חָמָא אָמַר: הָכָא בְּיַתְמֵי עָסְקִינַן, דְּיַתְמֵי מִיגְבָּא גָּבֻי, אַגְבּוֹיֵי לָא מַגְבִּינַן מִינַּיְיהוּ. וְהָא ״זֶה גּוֹבֶה וְזֶה גּוֹבֶה״ קָתָנֵי! זֶה גּוֹבֶה, וְזֶה רָאוּי לִגְבּוֹת וְאֵין לוֹ.",
+                "אָמַר רָבָא: שְׁתֵּי תְּשׁוּבוֹת בַּדָּבָר, חֲדָא: דְּזֶה גּוֹבֶה וְזֶה גּוֹבֶה קָתָנֵי. וְעוֹד, לַגְבִּינְהוּ אַרְעָא לְיַתְמֵי וְלֶיהְדַּר וְלִיגְבִּינְהוּ מִינַּיְיהוּ, כִּדְרַב נַחְמָן. דְּאָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: יְתוֹמִים שֶׁגָּבוּ קַרְקַע בְּחוֹבַת אֲבִיהֶן — בַּעַל חוֹב חוֹזֵר וְגוֹבֶה אוֹתָהּ מֵהֶן. קַשְׁיָא.",
+                "וְלוֹקְמַהּ דְּאִית לְהוּ לְיַתְמֵי זִיבּוּרִית, וְאִית לֵיהּ לְדִידֵיהּ עִידִּית וּבֵינוֹנִית, דְּאָזְלִי יַתְמֵי גָּבוּ בֵּינוֹנִית, וּמַגְבּוּ לֵיהּ זִיבּוּרִית. דְּאִי נָמֵי בְּשֶׁל כׇּל אָדָם הֵן שָׁמִין, הָא אֵין נִפְרָעִין מִנִּכְסֵי יְתוֹמִים אֶלָּא מִזִּיבּוּרִית!",
+                "הָנֵי מִילֵּי הֵיכָא דְּלָא תְּפַס, אֲבָל הֵיכָא דִּתְפַס — תְּפַס."
+              ],
+              "link": "/Ketubot/110a",
+              "originalRefsBeforeRewriting": [
+                "Ketubot 110a:18"
+              ],
+              "ref": "Ketubot 110a:5-20",
+              "sourceHeRef": "כתובות ק״י א",
+              "sourceRef": "Ketubot 110a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The above principles can be extended and applied in the following situation. Reuven sold a field to Shimon, accepting financial responsibility for the sale. Shimon did not pay immediately, but instead had Reuven consider the price of the field as a loan. Reuven died afterwards. Reuven's creditor then came to expropriate the field from Shimon. Instead of giving the creditor the field, Shimon appeased him with money, and he departed.<br>According to the law, Reuven's heirs may come and demand that Shimon pay the debt that he owed Reuven, for that loan is not on lien to Reuven's creditor.<br>Therefore, if Shimon is clever, he should give Reuven's heirs the land he purchased from them as payment for the debt that he accepted upon himself. He can then expropriate the property from them, because of the money that he gave to Reuven's creditor so that he would not expropriate it from him. This option is available because Reuven took financial responsibility for the field Shimon purchased.",
+              "he": "רְאוּבֵן שֶׁמָּכַר שָׂדֶה לְשִׁמְעוֹן בְּאַחֲרָיוּת וְזָקַף שִׁמְעוֹן דְּמֵי הַשָּׂדֶה עָלָיו מִלְוֶה לִרְאוּבֵן וּמֵת רְאוּבֵן וּבָא בַּעַל חוֹב שֶׁל רְאוּבֵן לִטְרֹף מִשִּׁמְעוֹן הַשָּׂדֶה וּפִיְּסוֹ שִׁמְעוֹן בְּמָעוֹת וְהָלַךְ לוֹ. הַדִּין נוֹתֵן שֶׁיָּבוֹאוּ יוֹרְשֵׁי רְאוּבֵן וְיִתְבְּעוּ שִׁמְעוֹן בַּמִּלְוֶה שֶׁזָּקַף עָלָיו שֶׁהֲרֵי אֵינָהּ מְשֻׁעְבֶּדֶת לְבַעַל חוֹב שֶׁל רְאוּבֵן. לְפִיכָךְ אִם הָיָה שִׁמְעוֹן פִּקֵּחַ נוֹתֵן לָהֶן הַקַּרְקַע שֶׁלָּקַח מֵרְאוּבֵן בַּמִּלְוֶה שֶׁזָּקַף עַל עַצְמוֹ וְחוֹזֵר וְטוֹרֵף אוֹתָהּ מֵהֶן מִפְּנֵי הַמָּעוֹת שֶׁנָּתַן לְבַעַל חוֹב שֶׁל רְאוּבֵן כְּדֵי שֶׁלֹּא יִטְרֹף אוֹתָהּ מִמֶּנּוּ שֶׁהֲרֵי בְּאַחֲרָיוּת לְקָחָהּ מֵרְאוּבֵן:",
+              "ref": "Mishneh Torah, Creditor and Debtor 11:10",
+              "sourceHeRef": "הלכות מלווה ולווה יא:י",
+              "sourceRef": "Creditor and Debtor 11:10"
+            },
+            {
+              "en": "When heirs expropriated landed property because of a debt that others owed their father, a creditor of their father's can expropriate it from them. The rationale is that this land was in effect their father's.",
+              "he": "יְתוֹמִים שֶׁגָּבוּ קַרְקַע בְּחוֹב שֶׁהָיָה לַאֲבִיהֶן אֵצֶל אֲחֵרִים יֵשׁ לְבַעַל חוֹב שֶׁל אֲבִיהֶם לַחְזֹר וְלִגְבּוֹת אוֹתָהּ מֵהֶן שֶׁהֲרֵי קַרְקַע זוֹ שֶׁל אֲבִיהֶם הִיא:",
+              "ref": "Mishneh Torah, Creditor and Debtor 11:9",
+              "sourceHeRef": "הלכות מלווה ולווה יא:ט",
+              "sourceRef": "Creditor and Debtor 11:9"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מגבי להו ארעא</strong> - כשתבעוהו היתומים יפרע להן קרקע בדמי המעות והדר גבי מנייהו בשביל אחריות אביהם ולא מצו למימר לא ירשנו קרקע זה מאבינו אלא לקחנוהו במעות דאמר להו ע\"י שעבוד חוב אביכם באה לכם והרי היא לכם כירושת קרקע שלקח אביכם בחייו:",
+              "ref": "Rashi on Ketubot 92a:7:1",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ז:א",
+              "sourceRef": "Rashi on Ketubot 92a:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ב\"ח</strong> - של אביהם:",
+              "ref": "Rashi on Ketubot 92a:7:2",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ז:ב",
+              "sourceRef": "Rashi on Ketubot 92a:7:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חוזר וגובה אותה מהם</strong> - כאילו נפלה להם ממש בירושה:",
+              "ref": "Rashi on Ketubot 92a:7:3",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ז:ג",
+              "sourceRef": "Rashi on Ketubot 92a:7:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רבא אי פקח הוא מגבי להו ארעא והדר גבה ליה מינייהו מדרב נחמן וקשיא להו לרבנן ז\"ל אי לית ליה זוזי מאי פקיחותא צריך ואי דאית ליה זוזי היכי מצי מגבי להו ארעא דהא כל דאית ליה זוזי ואית ליה ארעא לא מצי למפרעינהו בארעא כדאי' בפרקין לעיל. ויש מתרצין דלעולם אית ליה זוזי והיינו פקחותיה וידע האי דינא דר\"נ ויפייסם בדברים שיקבלם קרקע ואחרים תרצו דכל כה\"ג דאיכא פסידא דלוקח בפרעון מעות שורת הדין לאגבונייהו ארעא. ורבינו שמשון ז\"ל תי' דלאו דוקא אמרינן דלגבי להו ארעא דהדר לגבי מינייהו דאפוכי מטרתא ל\"ל אלא דכי תבעו ליה יתמי דמי מלוה שחייב לאביהם שזקף עליו אמר להו אנא מחייבנא לכו מלוה במקום אבוכן ומחייבנא נמי ומשתעבדנא לב\"ח דאבוכן מדר\"נ ואנא הוא ב\"ח דאבוכן קמא דאיחייב לי באחריות וכיון דכן אנא מפרענא ממאי דאית ליה גוואי ואנא מפייסנא בארעא וזה הנכון:",
+              "ref": "Ritva on Ketubot 92a:3",
+              "sourceHeRef": "ריטב\"א על כתובות צ״ב א:ג",
+              "sourceRef": "Ritva on Ketubot 92a:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף א' מצוה </b>על היורשים לפרוע חוב אביהם וכו'. נ\"ב ע' בסמ\"ע וש\"ך שהביאו דעת הרמב\"ן והרא\"ש שמחולקין בדין מ\"ע שמתן שכרן בצדה שאין ב\"ד של מטה מוזהרין עליו אם הב\"ד רוצים לכוף אם הרשות בידם עיי\"ש. ונראה להביא ראיה דהיכי דאין מצוין לכוף אסורים לכוף מהא דאמרינן במס' ר\"ה ד\"י ועשית אזהרה לב\"ד שיעשוך. ופריך הש\"ס הא מיקריב אותו נפקא כדכתיב יקריב אותו מלמד שכופין אותו וכו', וקשה מאי קושיא נימא דאי מיקריב אותו הו\"א שאין מחייבין לכוף רק דקמ\"ל דאם הב\"ד רוצים לכוף הרשות בידם אף בכל דוכתא רשאים לכוף כאן דכתיב לרצונו הו\"א דאין רשאין לכוף וכעין דכתבו התו' שם ע\"ש לכך קמשמע לן קרא דאם רוצין רשאין לכוף. אבל לא נשמע דמחויבין לכוף לכך ועשית לרמז שאזהרה לב\"ד שיעשוך כדאיתא בברייתא שמחויבין לכוף ומאי קושיא א\"ו מוכח דהיכי דאין מצוין לכוף אסורין לכוף ולכך מקרא דויקריב מוכח דרצתה התורה שיהיה נעשה ברצון ממש. ועיין במס' ב\"ב דמ\"א שמוכיח מקרא דויקריב דתלוהו וזבין זביני' זבינא ולפי\"ז בדבר שלא צותה התורה לכופו מוכח דרצתה התורה שהמצוה יהיה נעשה ברצון ממש ולא באונס א\"כ אם כופהו הב\"ד לא יהיה נחשב המצוה מצוה כלל. כיון דעשאו באונס לא ברצון. וכיון שלא יהיה נחשב מצוה שוב אין כח ביד ב\"ד לכוף ע\"ד הרשות ולגזול את חברו לכך אסורין לכוף ודו\"ק היטב:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 107:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, חושן משפט קז:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 107:1"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "It is a mitzvah for the heirs to pay a debt left by their father from the movable property that he left. If an heir does not desire to make restitution, however, he is not compelled to do so. If the creditor seized property belonging to the debtor in the debtor's lifetime, he may collect his due from it.<br>If a creditor claims that he seized property during the debtor's lifetime, and the debtor's heir claims that the creditor seized the property after the debtor's death, the heir has the responsibility of proving his claim. Alternatively, the lender must take an oath that he was owed so-and-so much - he can claim up to the value of the property in his possession - and include in his oath that he seized the property in the debtor's lifetime.<br>If the property that he seized included promissory notes, and the lender claims that he is holding them as security for a debt and that he seized them during the debtor's lifetime, the lender must prove that he seized them during the debtor's lifetime. If he cannot bring proof, he should return them to the heirs. The difference is that with regard to promissory notes, he is not claiming the acquisition of the obligation itself, but rather proof that such an obligation exists.",
+                      "he": "מִצְוָה עַל הַיְתוֹמִין לִפְרֹעַ חוֹב אֲבִיהֶן מִן הַמִּטַּלְטְלִין שֶׁהִנִּיחַ. וְאִם לֹא רָצָה הַיּוֹרֵשׁ לִתֵּן אֵין כּוֹפִין אוֹתוֹ. וְאִם תָּפַס בַּעַל חוֹב מֵחַיִּים גּוֹבֶה מֵהֶן. טָעַן שֶׁמֵּחַיִּים תְּפָסָן וְהַיּוֹרֵשׁ טָעַן שֶׁאַחַר מִיתָה תָּפַס עַל הַיּוֹרֵשׁ לְהָבִיא רְאָיָה אוֹ יִשָּׁבַע הַמַּלְוֶה שֶׁכָּךְ וְכָךְ הוּא חַיָּב לוֹ וְיָכוֹל לִטְעֹן עַד כְּדֵי דְּמֵיהֶן וְכוֹלֵל בִּשְׁבוּעָתוֹ שֶׁמֵּחַיִּים תָּפַס. הָיוּ הַדְּבָרִים שֶׁתָּפַס שְׁטָרוֹת וְטָעַן שֶׁהֵן מַשְׁכּוֹן בְּיָדוֹ עַל חוֹבוֹ וְשֶׁמֵּחַיִּים תָּפַס. עַל הַמַּלְוֶה לְהָבִיא רְאָיָה שֶׁמֵּחַיִּים תָּפַס. וְאִם לֹא הֵבִיא רְאָיָה יַחְזִיר לַיּוֹרְשִׁים מִפְּנֵי שֶׁאֵינוֹ טוֹעֵן לִקְנוֹת גּוּפָם אֶלָּא לָרְאָיָה שֶׁבָּהֶן:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 11:8",
+                      "sourceHeRef": "הלכות מלווה ולווה יא:ח",
+                      "sourceRef": "Creditor and Debtor 11:8"
+                    },
+                    {
+                      "en": "Servants are included in the category of movable property, but not a lower millstone or the like. For the lower millstone is attached to the earth.",
+                      "he": "וְהָעֲבָדִים בִּכְלַל הַמִּטַּלְטְלִין. אֲבָל לֹא רֵחַיִם הַתַּחְתּוֹנָה וְכַיּוֹצֵא בָּהּ. שֶׁהֲרֵי הִיא מְחֻבֶּרֶת לָאָרֶץ:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 11:13",
+                      "sourceHeRef": "הלכות זכייה ומתנה יא:יג",
+                      "sourceRef": "Ownerless Property and Gifts 11:13"
+                    },
+                    {
+                      "en": "Whenever a loan is supported by a promissory note, the lender may use this note to expropriate property from the heirs and from the purchasers, as will be explained. When, by contrast, a loan is merely supported by an oral commitment, the lender may expropriate payment from the heirs, but not from the purchasers. The rationale for this restriction is that such a loan does not become public knowledge. Therefore, the lender may not expropriate property because of such an obligation.<br>A loan supported by a promissory note, by contrast, does become public knowledge. Therefore, it may be used to expropriate property that was sold. The purchaser of such property caused himself a loss, because he did not inquire to the extent that he discovered that the property of the person he purchased it from was on lien because of the loan that person had taken. For according to Scriptural Law, all property belonging to a borrower is on lien to the loan.",
+                      "he": "כָּל מִלְוֶה בִּשְׁטָר גּוֹבֶה אוֹתָהּ מִן הַיּוֹרְשִׁין וּמִן הַלָּקוֹחוֹת כְּמוֹ שֶׁיִּתְבָּאֵר. וּמִלְוֶה עַל פֶּה גּוֹבֶה אוֹתָהּ מִן הַיּוֹרְשִׁין וְאֵינוֹ גּוֹבֶה אוֹתָהּ מִן הַלָּקוֹחוֹת לְפִי שֶׁאֵין לָהּ קוֹל לְפִיכָךְ לֹא יִטְרֹף בָּהּ. אֲבָל מִלְוֶה שֶׁבִּשְׁטָר קוֹל יֵשׁ לָהּ וְהַלּוֹקֵחַ הִפְסִיד עַל עַצְמוֹ שֶׁלֹּא שָׁאַל עַד שֶׁיָּדַע שֶׁנְּכָסָיו שֶׁל זֶה מְשֻׁעְבָּדִין בַּמִּלְוֶה שֶׁעָלָיו. שֶׁכָּל נִכְסֵי הַלּוֶֹה תַּחַת שִׁעְבּוּד הַמַּלְוֶה מִן הַתּוֹרָה:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 11:4",
+                      "sourceHeRef": "הלכות מלווה ולווה יא:ד",
+                      "sourceRef": "Creditor and Debtor 11:4"
+                    },
+                    {
+                      "en": "The following rules apply when a borrower does not own movable property, but does own landed property. If the court is aware that he has deposited his money in the hands of other people, we compel him to sell the landed property and pay his creditor.<br>If this is not known to them, they issue a ban of ostracism against anyone who knows that the debtor possesses movable property and does not bring it to court. Afterwards, they take possession of property he owns that is of intermediate worth and expropriate it for the creditor, as will be explained.<br>When does the above apply? When payment is collected from the debtor himself. When, however, a person comes to collect payment from heirs -whether they are above or below majority - he does not have the right to collect from the movable property belonging to the estate even if it was entrusted or loaned to another person. For movable property inherited by heirs is not under lien according to Scriptural Law. '",
+                      "he": "לוֶֹה שֶׁאֵין לוֹ מִטַּלְטְלִין וְיֵשׁ לוֹ קַרְקַע אִם נוֹדַע לְבֵית דִּין שֶׁתּוֹלֶה מְעוֹתָיו בְּיַד אֲחֵרִים כּוֹפִין אוֹתוֹ לִמְכֹּר וְלִתֵּן לְבַעַל חוֹבוֹ. וְאִם לֹא נוֹדַע לָהֶם דָּבָר זֶה מַחְרִימִין עַל מִי שֶׁיֵּדַע לוֹ מִטַּלְטְלִין וְלֹא יְבִיאֵם. וְאַחַר כָּךְ יוֹרְדִין לְבֵינוֹנִית שֶׁבִּנְכָסָיו וּמַגְבִּין לְבַעַל חוֹבוֹ כְּמוֹ שֶׁיִּתְבָּאֵר. בַּמֶּה דְּבָרִים אֲמוּרִים בִּזְמַן שֶׁנִּפְרָעִין מִן הַלּוֶֹה עַצְמוֹ. אֲבָל הַבָּא לִפָּרַע מִן הַיּוֹרֵשׁ בֵּין קָטָן בֵּין גָּדוֹל לֹא יִפָּרַע מִן הַמִּטַּלְטְלִין אֲפִלּוּ הָיוּ מֻפְקָדִין אוֹ מִלְוֶה אֵצֶל אֲחֵרִים. שֶׁהַמִּטַּלְטְלִין אֵינָן תַּחַת שִׁעְבּוּד בַּעַל חוֹב מִן הַתּוֹרָה:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 11:7",
+                      "sourceHeRef": "הלכות מלווה ולווה יא:ז",
+                      "sourceRef": "Creditor and Debtor 11:7"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "הנותן מתנה ואמר מטלטלין שיש לי לפלוני נוטל כל כלי תשמישו אבל לא חטין ושעורים וכיוצא בהם ואם אמר כל המטלטלים שלי נוטל הכל והעבדים בכלל המטלטלים אבל לא ריחיים התחתונה וכיוצא בהם שהרי היא מחוברת לארץ ואם אמר כל המטלטל נוטל אף רחיים התחתונה וכיוצא בהם:",
+                      "ref": "Shulchan Arukh, Choshen Mishpat 248:10",
+                      "sourceHeRef": "חושן משפט רמח:י - הנותן מתנה לחבירו ואמר ליה ואחריך לפלוני.",
+                      "sourceRef": "Choshen Mishpat 248:10"
+                    },
+                    {
+                      "en": "If the estate only contains movable property that are not subject to 'first rights', such as property that was not acquired in conjuction with land, they are given to the creditor, even if he is the later on, and the wife is deferred from collecting both the primary [Ketubah] and any excess obligation. Nevertheless, if she seized the property, even outside of the court, we do not reclaim it from her. Rem\"a: Some authorities say that we do reclaim it if she seized property. This was the position of the Maharil and Mahari Veil. There is not distinction in these matters between a loan that was recorded in a contract and a verbal loan that is well known. In the case of an unknown verbal loan she can say, \"perhaps he does not owe you.\" All authorities agree that if she seized an object that her husband was watching for another person she must return it. Some authorities say that we do not explicitly mention movable properties that are acquired through acquisition of land in the Ketubah, and this is the standard practice. Even if was included, in the present time we are not concerned for it, as is explained earlier (Shulchan Arukh, Even HaEzer 100).",
+                      "he": "לא הניח אלא מטלטלים שאין בהם קדימה כגון דלא אקני לה מטלטלי אגב מקרקעי ינתנו לבעל חוב אפי' הוא מאוחר ותדחה האשה מלגבות עיקר ותוספת ומיהו אם תפסה אפי' שלא בב\"ד אין מוציאין מידה: <span class=\"hebrew-emphasis\">הגה וי\"א דאפי' תפסה מוציאין מידה (מרדכי בשם מוהר\"מ פ' הכותב) וכן הורו האחרונים (מהרי\"ל ומהרי\"ו) ואין חילוק בזה בין מלוה בשטר או מלוה על פה הידועה (מהרי\"ו סי' ל') אבל אם אינה ידועה יכולה לומר דילמא אינו חייב לך ולכ\"ע אם תפסה פקדון של אחרים שהיה ביד בעלה צריכה להחזיר (מהרא\"י בפסקיו סי' ר\"ס) י\"א דאין כותבין אגב בכתובה וכן נוהגין מיהו אפילו כתב בזמן הזה אין לחוש וכמו שנתבאר לעיל סי' ק':</span>",
+                      "ref": "Shulchan Arukh, Even HaEzer 102:2",
+                      "sourceHeRef": "אבן העזר קב:ב - דין גביית חוב וכתובת אלמנה",
+                      "sourceRef": "Even HaEzer 102:2"
+                    },
+                    {
+                      "en": "",
+                      "he": "מלוה על פה אינה נגבית מהיורשים אלא בא' מג' דרכים ואלו הם כשחייב מודה בהן וצוה בחוליו שיש לפלוני חוב עליו עדיין או שהיתה הלואה לזמן ועדיין לא הגיע הזמן או שנדוהו עד שיתן ומת בנידויו כל אלו גובים מהיורשים בלא שבועה אבל אם באו עדים שהיה אביהם חייב לזה מנה אינו גובה מהיורש כלום שמא פרעו: <span class=\"hebrew-emphasis\">הגה מיהו אם טענו היתומים לא לוה אבינו מעולם הוי כאלו אמרו לא נפרע החוב ומאחר דאיכא עדים שלוה חייבים לשלם (בה\"ת וטור סעיף ל\"ג וכמו שיתבאר לקמן סעיף ט\"ו סימן זה) </span>וכן אם הוציא כתב יד אביהם שהוא חייב לו אינו גובה בו כלום שמא פרעו <span class=\"hebrew-emphasis\">(וע\"ל סי' ס\"ט ס\"ה) </span>ואם מת המלוה והיורשים באים לגבות מיורשי הלוה אם היא על אחת מג' דרכים אלו יורשים גובים מהם בלא שבועה אע\"פ שמת לוה בחיי מלוה ואם אינה על אחת מג' דרכים אלו אפי' יורשי הלוה אין טוענים כלל אינם גובין מהם דאנן טענינן להו שמא פרע אביהם: <span class=\"hebrew-emphasis\">הגה ואם הוציאו על רפואות בחליו יש לו דין שאר חוב שאם ידוע כמה הוציאו ושלא נפרעו בחייו נפרעין מן היתומים אבל בלאו הכי אין נפרעין ואשתו אינה נאמנת (תשובת הרא\"ש כלל פ\"ה סי' ב'): </span>",
+                      "ref": "Shulchan Arukh, Choshen Mishpat 108:1",
+                      "sourceHeRef": "חושן משפט קח:א - מאיזה ענין נפרע מלוה מיורשיו ואיזה שבועה אדם מוריש לבניו",
+                      "sourceRef": "Choshen Mishpat 108:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "מצוה על היורשים לפרוע חוב אביהם וכופים אותם בכך כמו שכופים את אביהם במה ד\"א כשהניח קרקעות אבל אם לא הניח אלא מטלטלים אין כופין אותם לפרוע חוב אביהם מהם אבל מצוה עליהם לפרוע חוב אביהם מהם זהו מן הדין אבל הגאונים תקנו שיהא בעל חוב גובה מהיורשי' מטלטלים שהניח אביהם הילכך האידנא כופין אותם לפרוע חובות אביהם אפילו היא מלוה על פה אף מהמטלטלים שהניח אביהם אפילו קנאם הלוה אחר שלוה ולא כתב דאקני <span class=\"hebrew-emphasis\">(ע\"ל סי' קי\"א) </span>דיורש במקום אביו קאי וכן חייבים לפרוע חוב אביהם ממלוה שהיתה לאביהם ביד אחרים בין גבו קרקע בין גבו מעות ואם ירשו קרקע ומטלטלים ואין מפורש בשטר שיגבה מטלטלי בין בחייו בין במותו והיורשי' רוצים להגבות לבע\"ח קרקע והוא רוצה לגבות מטלטלים הדין עם היורשים אבל אם לא ירשו כלום מאביהן אין חייבים לפרוע חוב אביהם ואפי' מצוה ליכא: <span class=\"hebrew-emphasis\">הגה ירש קצת נכסים אין צריך לפרוע רק מה שירש (ריב\"ש סי' תע\"ח) ואם אומר איני יורש ואיני משלם עיין לקמן ס\"ס רע\"ח אם שומעין לו: </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 107:1",
+              "sourceHeRef": "חושן משפט קז:א - כופין את היתומים לפרוע חוב אביהם",
+              "sourceRef": "Choshen Mishpat 107:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא: אי</b> <span class=\"hebrew-emphasis\">[אם]</span> <b>פקח</b> הוא <b>אידך</b> <span class=\"hebrew-emphasis\">[האחר,</span> שמעון<span class=\"hebrew-emphasis\">],</span> <b>מגבי להו ניהלייהו ארעא</b> <span class=\"hebrew-emphasis\">[מגבה להם</span> בחוב זה <span class=\"hebrew-emphasis\">קרקע]</span> <b>והדר גבי לה מינייהו</b> <span class=\"hebrew-emphasis\">[ואחר כך גובה אותה מהם]</span> בשל האחריות של המכירה, ו<b>כ</b>דברי <b>רב נחמן.</b> ש<b>אמר רב נחמן אמר רבה בר אבוה: יתומים שגבו קרקע בחובת אביהן — בעל חוב חוזר וגובה אותה מהן</b>, כאילו נפלה להם בירושה.",
+              "ref": "Steinsaltz on Ketubot 92a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:ז",
+              "sourceRef": "Steinsaltz on Ketubot 92a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If orphans collected real estate from an individual who owed money to their father, their father’s creditor can repossess this land in payment of a debt owed to him. This is in accordance with the statement of Rabba bar Avuh (Rambam <i>Sefer Mishpatim</i>,<i> Hilkhot Malve VeLoveh </i>11:9).",
+              "he": "הרבה מן הראשונים (ראה בתוס' ד\"ה אי) עוסקים בשאלה כיצד יכול שמעון לשלם חובו בקרקע בעוד שאמרו שאין משלמים בקרקע אלא כאשר אין ללווה מעות כלל. ובאמת יש הרוצים לומר שלא היו לשמעון כספים אלא קרקע זו. אלא שאז קשה לשון רבא \"אי פיקח הוא\". ובדוחק מסביר המאירי שהוא פיקח שאינו רוצה לטרוח ולמכור קרקע ולשלם במעות. אבל רוב המפרשים סבורים שהיו מעות ביד שמעון, ומסבירים בדרכים אחרות. והריב\"ן כותב שלא אמרו שאין יכול לשלם בקרקע (ומכריחים אותו שימכור קרקע ויתן מעות) אלא במקום שעשה שלא כהוגן כגון בתולה מעותיו בגוי. ובתוס' (ד\"ה  האי) כותבים שלא אמרו שאין יכול לשלם בקרקע אלא כאשר אין הבדל לגביו, אבל במקום כגון זה שאם ישלם במעות נמצא מפסיד — לא אמרו. וכעין זה כותב הראב\"ד. ומוסיף עוד הראב\"ד נימוק אחר, שלא אמרו שצריך הלווה לשלם במעות אלא כאשר קיבל מעות מן המלוה, אולם כאן הלא מעיקר הדבר לא קיבל אלא קרקע, ולכן יכול לשלם בקרקע. והריטב\"א כותב בשם הר\"ש, שאפשר לומר שבכלל אין מדובר כאן שמגבה להם קרקע ממש, אלא שאומר להם שיכול להגבות להם קרקע ולחזור ולקחתה מהם, ולכן טוב להם שלא יתבעו את כל הכסף שחייב לאביהם. ואולי נוטים לדעה זו גם דברי הרי\"ד. והריטב\"א עצמו כותב שאפשר לומר שבאמת מן הדין אינו יכול לשלם בקרקע, ופקחותו הוא שמפייס את היתומים בדברים לקבל ממנו קרקע, שלא הכל יודעים את דברי רבה בר אבוה.",
+              "ref": "Steinsaltz comment #1 on Ketubot 92a:7",
+              "sourceHeRef": "יְתוֹמִים שֶׁגָּבוּ קַרְקַע וכו׳",
+              "sourceRef": "When orphans collect real estate, etc."
+            },
+            {
+              "en": "",
+              "he": "אם היה שמעון פיקח, נותן ליתומי ראובן את הקרקע שקנה בשעתו מאביהם כפרעון ההלוואה, ואחר כך חוזר וטורף מהם קרקע זו לתשלום הכסף שנתן בשעתו לבעל החוב של ראובן. וכדברי רבא. (רמב\"ם ספר משפטים הלכות מלוה ולוה פי\"א ה\"י. טור חו\"מ קא).",
+              "ref": "Steinsaltz comment #2 on Ketubot 92a:7",
+              "sourceHeRef": "אי פקח אידך",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "יתומים שגבו קרקע בגלל חוב שהיה בעל הקרקע חייב לאביהם, יכול בעל חוב של האב לבוא ולגבות מהם קרקע זו לפרעון חובו. כדברי רבה בר אבוה. (רמב\"ם ספר משפטים הלכות מלוה ולוה פי\"א ה\"ט. שו\"ע חו\"מ קז, א).",
+              "ref": "Steinsaltz comment #3 on Ketubot 92a:7",
+              "sourceHeRef": "יתומים שגבו קרקע וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי פיקח אידך מגבי להו ניהלייהו וכו'</strong> - מכאן יש להוכיח דאע\"ג דאמרי' לעיל בפרק הכותב <span class=\"parenthesized\">(כתובות דף פו.)</span> דדינו דבעל חוב בזוזי היכא דאית ליה זוזי מ\"מ אם הפסיד הלוה בכך לא יתן לו זוזי כגון הכא דמצי מגבי להו קרקע ואינו עושה שלא כדין:",
+              "ref": "Tosafot on Ketubot 92a:7:1",
+              "sourceHeRef": "תוספות על כתובות צ״ב א:ז:א",
+              "sourceRef": "Tosafot on Ketubot 92a:7:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said</b> with regard to this case: <b>If the other</b> individual, <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>, <b>is clever he will pay them</b> what he owes with <b>real estate</b> and not with money. Since they now have real estate inherited from their father’s estate, <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> <b>can then collect</b> the field <b>from them</b> as compensation for the repossession of the original field that <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> sold to <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>. This is <b>in accordance with</b> the opinion of <b><span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span>, as <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> said</b> that <b><span href=\"/topics/rabbah-b-avuha\" class=\"namedEntityLink\" data-slug=\"rabbah-b-avuha\">Rabba bar Avuh</span> said:</b> When <b>orphans collect real estate for a debt owed to their father</b> from one person, their father’s <b>creditor</b> can <b>come and seize this</b> land <b>from them.</b>",
+      "he": "אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: אִי פִּקֵּחַ אִידַּךְ, מַגְבֵּי לְהוּ נִיהֲלַיְיהוּ אַרְעָא וַהֲדַר גָּבֵי לַהּ מִינַּיְיהוּ, כְּרַב נַחְמָן. דְּאָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ: יְתוֹמִים שֶׁגָּבוּ קַרְקַע בְּחוֹבַת אֲבִיהֶן — בַּעַל חוֹב חוֹזֵר וְגוֹבֶה אוֹתָהּ מֵהֶן.",
+      "ref": "Ketubot 92a:7"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The Gemara discusses a limitation on the buyer’s ability to refuse the benefit of the rabbinic ordinance: <b>It is obvious</b> that if the <b>buyer sold,</b> of the land he purchased from the debtor, the <b>intermediate- and inferior-quality</b> land to another buyer <b>and retained in his possession</b> only the <b>superior-quality</b> land, which he had purchased last, <b>then all</b> the creditors <b>may come and collect from</b> the <b>superior-quality</b> land.",
+                "<b>For</b> if the intermediate-quality and inferior quality land were in his possession, <b>he would be able to say to</b> the creditors: <b>Collect from</b> the <b>intermediate-quality</b> land and from the <b>inferior-quality</b> land, as <b>it is not satisfactory to me</b> to avail myself of the <b>ordinance of the Sages</b>. Now that he has sold the land of intermediate and inferior quality, however, he cannot unilaterally waive the ordinance without the consent of the second buyer. The second buyer benefits from the ordinance, since it compels the creditors to collect from the first buyer, and he will therefore certainly not agree to waive it.",
+                "<b>But if</b> the first buyer <b>sold</b> only the <b>superior-quality</b> land that he had purchased last, <b>and</b> he <b>retained</b> in his possession the <b>intermediate-quality and inferior-quality</b> land, <b>what</b> is the <i>halakha</i>?",
+                "<b>Abaye thought to say: All</b> the creditors <b>should come</b> and <b>collect from</b> the <b>superior-quality</b> land. Since that land was the last plot of land in the debtor’s possession, the creditors’ right of collection was restricted to that land, irrespective of the fact that it was then subsequently sold twice.",
+                "<b>Rava said to him: What has the first</b> person <b>sold to the second</b> in any sale? <b>Any rights that will come into his possession. And since, if</b> the creditors <b>were to come to</b> the <b>first buyer</b> while he was still in possession of all three plots of land, <b>he could have had them collect from</b> the <b>intermediate-quality and inferior-quality</b> land; <b>and</b> this is the <i>halakha</i> <b>even though when he</b> initially <b>purchased</b> the <b>intermediate-quality and inferior-quality</b> land the <b>superior-quality</b> land <b>was</b> still <b>unsold</b> property in the debtor’s possession. As although there is the rabbinic ordinance that <b>one does not exact payment from liened property when there is unsold</b> property still in the debtor’s possession, the buyer <b>could have said to them: I do not</b> find <b>this ordinance satisfactory to me.</b>",
+                "Rava continues: Therefore, since the first buyer had the right to say this, the <b>second buyer can also say to them: Collect</b> from the <b>intermediate-quality and inferior-quality</b> land in the first buyer’s possession. <b>As, when the second buyer purchased</b> the superior-quality land, <b>he purchased</b> it <b>with the understanding that he</b> also acquired <b>all the rights that the first</b> buyer <b>had with regard to</b> that land. Accordingly, he also acquires the right to insist that the creditors collect from the intermediate-quality and inferior-quality land.",
+                "In a related ruling, <b>Rava says:</b> In the case of <b>Reuven, who sold all of his fields to Shimon</b> simultaneously <b>and Shimon proceeded to sell one field</b> of those purchased <b>to Levi, and Reuven’s creditor came</b> to collect the debt, if the creditor so <b>desires, he collects from this</b> one, i.e., Shimon, and if <b>he</b> so <b>desires, he collects from that</b> one, i.e., Levi. <b>And we said this only</b> in a case <b>where</b> Levi <b>purchased intermediate-quality</b> land from Shimon. A creditor’s right is to collect the debt from intermediate-quality land. Accordingly, in this case, Reuven’s creditor can collect his loan from the intermediate-quality land even after it has been transferred into Levi’s possession. Nevertheless, if he so desires, he may insist on collecting his loan from any inferior-quality land left in Shimon’s possession. This is because a creditor also has the right to demand payment from a borrower’s inferior-quality land instead of his intermediate-quality land, and therefore that land is also liened to the loan.",
+                "<b>But</b> if Levi <b>purchased superior-quality and inferior-quality</b> land from Shimon, <b>no,</b> the creditor can collect only from Shimon’s intermediate-quality land, <b>as</b> Levi could <b>say to him: For this</b> reason <b>I was particular to purchase superior-quality and inferior-quality</b> land, which is <b>land that is not fit for you</b> to collect from as a creditor.",
+                "<b>And if</b> Levi <b>purchased</b> the <b>intermediate-quality</b> land from Shimon <b>as well, we said</b> that Reuven’s creditor can collect from him <b>only</b> in a case <b>where he did not leave</b> some <b>similar intermediate-quality</b> land in Shimon’s possession, <b>as</b> in that case, Levi <b>is unable to say to</b> the creditor: <b>I left a place for you,</b> i.e., a plot of land, <b>in Shimon’s possession,</b> from which to collect. <b>But</b> where Levi <b>did leave</b> some <b>similar intermediate-quality</b> land <b>in Shimon’s possession,</b> the creditor <b>does not collect from</b> Levi, <b>as</b> Levi <b>is able to say to him: I left a place for you from which to collect.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Kamma 8b:8",
+                "Bava Kamma 8b:9",
+                "Bava Kamma 8b:10",
+                "Bava Kamma 8b:11",
+                "Bava Kamma 8b:12",
+                "Bava Kamma 8b:13",
+                "Bava Kamma 8b:14",
+                "Bava Kamma 8b:15",
+                "Bava Kamma 8b:16"
+              ],
+              "he": [
+                "פְּשִׁיטָא, מָכַר לוֹקֵחַ בֵּינוֹנִית וְזִיבּוּרִית, וְשִׁיֵּיר עִידִּית לְפָנָיו – לֵיתוֹ כּוּלְּהוּ וְלִיגְבּוֹ מֵעִידִּית;",
+                "דְּהָא אַחֲרוֹנָה הִיא, וּבֵינוֹנִית וְזִיבּוּרִית לֵיתַנְהוּ גַּבֵּיהּ דְּמָצֵי לְמֵימַר לְהוּ: גְּבוֹ מִבֵּינוֹנִית וְזִיבּוּרִית, דְּלָא נִיחָא לִי בְּתַקַּנְתָּא דְּרַבָּנַן.",
+                "אֲבָל מָכַר עִידִּית, וְשִׁיֵּיר בֵּינוֹנִית וְזִיבּוּרִית, מַאי?",
+                "סְבַר אַבָּיֵי לְמֵימַר: אָתוּ כּוּלְּהוּ גָּבוּ מֵעִידִּית.",
+                "אֲמַר לֵיהּ רָבָא: מָה מָכַר רִאשׁוֹן לַשֵּׁנִי – כׇּל זְכוּת שֶׁתָּבֹא לְיָדוֹ; וְכֵיוָן דְּאִילּוּ אָתוּ גַּבֵּי לוֹקֵחַ רִאשׁוֹן – מָצֵי <span class=\"parenthesized\">(אַגְבֵּי לְהוּ)</span> [לְאַגְבּוֹיִינְהוּ] מִבֵּינוֹנִית וְזִיבּוּרִית, וְאַף עַל פִּי דְּכִי זַבְנִי[נְהוּ לְ]בֵינוֹנִית וְזִיבּוּרִית אַכַּתִּי עִידִּית <span class=\"parenthesized\">(בְּנֵי)</span> [בַּת] חוֹרִין הֲוַאי – וְאֵין נִפְרָעִין מִנְּכָסִים מְשׁוּעְבָּדִים כׇּל זְמַן דְּאִיכָּא בְּנֵי חוֹרִין; מָצֵי אָמַר לְהוּ: לָא נִיחָא לִי בְּהַאי תַּקָּנָה;",
+                "לוֹקֵחַ שֵׁנִי נָמֵי, מָצֵי אָמַר לְהוּ: גְּבֵי בֵּינוֹנִית וְזִיבּוּרִית. דְּכִי זָבֵין לוֹקֵחַ שֵׁנִי, אַדַּעְתָּא דְּכֹל זְכוּתָא דַּהֲוָה לֵיהּ לְרִאשׁוֹן בְּגַוַּהּ זָבֵין.",
+                "אָמַר רָבָא: רְאוּבֵן שֶׁמָּכַר כׇּל שְׂדוֹתָיו לְשִׁמְעוֹן, וְהָלַךְ שִׁמְעוֹן וּמָכַר שָׂדֶה אַחַת לְלֵוִי, וּבָא בַּעַל חוֹב דִּרְאוּבֵן; רָצָה – מִזֶּה גּוֹבֶה, רָצָה – מִזֶּה גּוֹבֶה. וְלָא אֲמַרַן אֶלָּא דִּזְבַן בֵּינוֹנִית,",
+                "אֲבָל זְבַן עִידִּית וְזִיבּוּרִית – לָא, דַּאֲמַר לֵיהּ: לְהָכִי דְּיַיקִי וּזְבַנִי עִידִּית וְזִיבּוּרִית, אַרְעָא דְּלָא חַזְיָא לָךְ.",
+                "וַאֲפִילּוּ זְבַן בֵּינוֹנִית נָמֵי, לָא אֲמַרַן אֶלָּא דְּלָא שַׁיַּיר בֵּינוֹנִית דִּכְווֹתַיהּ, דְּלָא מָצֵי אָמַר לֵיהּ: הִנַּחְתִּי לְךָ מָקוֹם לְגַבֵּי שִׁמְעוֹן. אֲבָל שַׁיַּיר בֵּינוֹנִית דִּכְווֹתַיהּ גַּבֵּי שִׁמְעוֹן – לָא גָּבֵי מִינֵּיהּ, דְּמָצֵי אָמַר לֵיהּ: הִנַּחְתִּי לְךָ מָקוֹם לִגְבּוֹת מִמֶּנּוּ."
+              ],
+              "link": "/Bava Kamma/8b",
+              "originalRefsBeforeRewriting": [
+                "Bava Kamma 8b:14",
+                "Bava Kamma 8b:15"
+              ],
+              "ref": "Bava Kamma 8b:8-16",
+              "sourceHeRef": "בבא קמא ח׳ ב",
+              "sourceRef": "Bava Kamma 8b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The creditor is given the upper hand in the following situation. Reuven sold all his fields to Shimon, and Shimon sold one of his fields to Levi. If one of Reuven's creditors comes to expropriate property in payment for his debt, he may expropriate property from either Shimon or Levi.<br>When does the above apply? When Levi purchased property of intermediate value. If, however, he purchased property that was of superior or inferior value, the creditor cannot expropriate property from Levi. For Levi will tell him: \"I purposely took the trouble of purchasing a field that you have no right to expropriate, so that you would not have a claim against me.\" Similarly, if Levi purchased a field of intermediate worth and left Shimon a field of intermediate worth similar to the one of intermediate worth that he expropriated, the creditor cannot expropriate the field from Levi, for he will tell the creditor: \"I left you property to expropriate as payment for your debt.\"",
+              "he": "רְאוּבֵן שֶׁמָּכַר כָּל שְׂדוֹתָיו לְשִׁמְעוֹן וְחָזַר שִׁמְעוֹן וּמָכַר שָׂדֶה אַחַת מֵהֶן לְלֵוִי וּבָא בַּעַל חוֹב שֶׁל רְאוּבֵן לִטְרֹף רָצָה מִזֶּה גּוֹבֶה רָצָה מִזֶּה גּוֹבֶה. בַּמֶּה דְּבָרִים אֲמוּרִים כְּשֶׁלָּקַח לֵוִי בֵּינוֹנִית. אֲבָל אִם לָקַח עִידִית אוֹ זִבּוּרִית אֵינוֹ טוֹרֵף מִלֵּוִי שֶׁהֲרֵי זֶה אוֹמֵר לוֹ מִפְּנֵי זֶה טָרַחְתִּי וְלָקַחְתִּי שָׂדֶה שֶׁאֵין דִּינְךָ לִגְבּוֹת מִמֶּנּוּ. וְכֵן אִם לָקַח לֵוִי בֵּינוֹנִית וְהִנִּיחַ אֵצֶל שִׁמְעוֹן בֵּינוֹנִית כְּמוֹ הַבֵּינוֹנִית שֶׁלָּקַח אֵינוֹ טוֹרֵף מִלֵּוִי שֶׁהֲרֵי זֶה אוֹמֵר לוֹ הִנַּחְתִּי לְךָ מָקוֹם לִגְבּוֹת מִמֶּנּוּ:",
+              "ref": "Mishneh Torah, Creditor and Debtor 19:3",
+              "sourceHeRef": "הלכות מלווה ולווה יט:ג",
+              "sourceRef": "Creditor and Debtor 19:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל שדותיו</strong> - בשטר אחד דבשני שטרות אין גובין מלוי אלא א\"כ לקח משמעון אותה שלקח מראובן באחרונה דמצי א\"ל הניח לך שמעון מקום לגבות הימנו כשלקח את זו ואין זו בשעבודך דאין נפרעין מנכסים משועבדים במקום שיש בני חורין:",
+              "ref": "Rashi on Ketubot 92a:8:1",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ח:א",
+              "sourceRef": "Rashi on Ketubot 92a:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רצה מזה גובה רצה מזה גובה</strong> - וכדמסיים ואזיל דזבן לוי משמעון בינונית ששעבוד בעל חוב עליה ולא שבק בינונית משל ראובן אצל שמעון הלכך רצה לגבות משמעון עידית גובה דאמר ליה אתה לקחת כל השדות ונכנסת תחת ראובן להשתעבד לחובי וכל זמן שאמצא משל ראובן אצלך כלום לא אטריח את לוי שהניח לי מקום לגבות רצה מלוי גובה כגון אם לא ימצא אצל שמעון משל ראובן אלא זיבורית גובה בינונית מלוי דא\"ל לקחת את שעבודי בינונית שדיני מוטל עליה ואע\"ג דאילו לקחה לוי לבינונית זו מראובן והניח אצלו זיבורית לא היה יכול בעל חוב דראובן לחזור על לוי כדתנן אין נפרעין מנכסים משועבדים במקום שיש בני חורין ואפי' הן זיבורית התם הוא דראובן בעל חובו הוא ואמור רבנן מפני תקון העולם כל זמן שיש אצל בעל חובו כדי חובו לא יטרוף לקוחות אבל כאן שמעון לאו בעל חובו הוא ואף עליו מכח טירפא הוא בא:",
+              "ref": "Rashi on Ketubot 92a:8:2",
+              "sourceHeRef": "רש\"י על כתובות צ״ב א:ח:ב",
+              "sourceRef": "Rashi on Ketubot 92a:8:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רבה ראובן שמכר כל שדותיו לשמעון בבת אחת דאלו בזה אחר זה אין ב\"ח גובה אלא מן האחרון וכדאיתא בפ\"ק דב\"ק. וחזר שמעון ומכר שדה אחת ללוי ואתו ב\"ח דראובן ולא מצאו לו שום נכסים בני חורין רצה מזה גובה רצה מזה גובה ולא אמרן אלא דזבין לו בינונית ששיעבוד ב\"ח עליו והלכך אם רצה גובה משמעון הזיבורית שנשתיירו אצלו ואומר נכנסת במקום ראובן ואלו רציתי הייתי גובה ממנו הזבורית ואע\"ג דתקון רבנן לב\"ח מן הבינונית הא לתקנתא דידיה הוא ולא הריעו כחו אצל הזבורית דחזי להו מדאורייתא וכדאיתא בבבא קמא אבל הן העידית שביד שמעון אינו גובה שאפילו מראובן בעלי חובו לא היה גובה כלל ושלא כפירוש רש\"י ז\"ל שאם רצה גובה משמעון מן העידית וזו שגגה גדולה ואם רצה גובה מלוי בינונית דחזיא לי' דאע\"ג דאיכא זיבורית אצל שמעון וק\"ל שאין נפרעין מנכסים משועבדים במקום שיש נכסים ב\"ח ואפי' מן הזבורית היינו כשהם נכסים בני חורין ממש כגון שהיה זבורית אצל ראובן אבל הכא שהזבורית הוא אבל שמעון שאינו ב\"ח של זה בהא לא אמרו רבנן וכן פי' רש\"י ז\"ל. אשל עידית וזיבורית אמר ליה ללוה להכי טרח וזבני ארעא דלא חזי לך תמיהא מלתא דהא זיבורית מחזי חזיא ליה מדאורייתא וכשתקנו לו חכמים בינונית לא הוריעו אצל זבורית ויכול הוא לומר אי אפשי בתקנת חכמים ז\"ל. וי\"ל דה\"מ אצל הלוה עצמו אבל בכאן שהנכסים ביד הלוקח שני ובינונית חזיא טפי לפי דעת רוב העולם אין לנו לגבות אלא מן הבינונית שתקנו לו חכמים הואיל ולא לקח כל השדות של בעל חוב כמו שלקח שמעון והאי טעמא משום זבורית אצטריך דאלו מהעידית פשיטא דלא גביא:",
+              "ref": "Ritva on Ketubot 92a:4",
+              "sourceHeRef": "ריטב\"א על כתובות צ״ב א:ד",
+              "sourceRef": "Ritva on Ketubot 92a:4"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ראובן שמכר כל שדותיו לשמעון בבת אחת וחזר שמעון ומכר שדה אחת ללוי והיא בינונית ולא נשאר בינונית אחרת ביד שמעון ובא ב\"ח לגבות רצה גובה מבינונית שביד לוי רצה גובה ממה שביד שמעון אפילו לא נשאר בידו אלא עידית יכול לגבות ממנו בד\"א שגובה מלוי כשלקח בינונית אבל אם לקח עידית או זיבורית א\"י לגבות ממנו <span class=\"hebrew-emphasis\">(וי\"א דגובה מן הזיבורית שביד לוקח שני אם לא נשאר ביד הראשון רק עידית) (המ\"מ פי\"ט ממלוה בשם הרמב\"ן והרשב\"א) </span>וכן אם נשאר בינונית ביד שמעון אינו יכול לגבות מלוי אפי' אם לקח בינונית וכל זה לא איירי אלא כשקנאם שמעון בבת אחת אבל אם קנאם זה אחר זה וקנה זיבורית באחרונה אינו גובה מלוי:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 119:1",
+              "sourceHeRef": "חושן משפט קיט:א - המוכר בל שדותיו ולוה שהתנה שיגבה מן העידית",
+              "sourceRef": "Choshen Mishpat 119:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ועוד בענין דומה, <b>אמר רבה: ראובן שמכר כל שדותיו לשמעון, וחזר שמעון ומכר שדה אחת</b> משדות אלה <b>ללוי, ואתא</b> <span class=\"hebrew-emphasis\">[ובא]</span> <b>בעל</b> ה<b>חוב</b> של <b>ראובן</b> לטרוף שדה שהיה משועבד לו — <b>רצה מזה</b> משמעון <b>גובה, רצה מזה</b> מלוי <b>גובה,</b> שהרי שעבוד אחד יש לו על כל השדות כולם שהיו פעם של ראובן.",
+              "ref": "Steinsaltz on Ketubot 92a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:ח",
+              "sourceRef": "Steinsaltz on Ketubot 92a:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If Reuven sold all of his fields to Shimon in a single transaction (<i>Sefer Me’irat Einayim</i>), and Shimon sold one of the fields to Levi, when Reuven’s creditor comes to repossess a field in payment of the debt owed to him, he may repossess land either from Shimon or from Levi, as he desires. This is the case when Levi purchased land of intermediate quality and Shimon did not retain any land of comparable quality. However, if Levi purchased land of inferior quality or of superior quality, or even if Levi purchased land of intermediate quality but Shimon still has intermediate quality land left in his possession, the creditor can collect only from Shimon (Rambam <i>Sefer Mishpatim</i>,<i> Hilkhot Malve VeLoveh</i> 19:3; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 119:1).",
+              "he": "לדעת הגאונים וכן רש\"י מדובר דווקא כאשר קנה שמעון מראובן את כל שדותיו בבת אחת, אבל אם קנה בכמה פעמים הרי נמצא שהשעבוד חל על שדה אחרון שקנה (שהרי היה שדה זה בן חורין לגבי השאר שהיו כבר משועבדים). ואף שיש חולקים בדבר (ראה בתוס' ד\"ה ראובן), מסכימים רוב המפרשים לשיטה זו.<br><br>ולענין מה שגובה בעל החוב משמעון, מפרשים רוב הראשונים כגון שנשארה לשמעון זיבורית שיש רשות לבעל החוב לקחת בזיבורית או בבינונית. אבל רש\"י כותב שיכול לגבות גם מעידית שקנה שמעון. וראה בריטב\"א שדוחה שיטה זו וסבור שיש בכך טעות. אבל כדברי רש\"י כותב גם רב האי גאון, והוא מסביר את הטעם בדרך אחרת קצת, שכיון שקנה ראובן את כל קרקעותיו של ראובן, נמצא שגרם נזק לבעל החוב שאינו יכול לגבות עוד מראובן, ומשום כך הריהו נחשב כגזלן, וגובים ממנו אף מעידית.",
+              "ref": "Steinsaltz comment #1 on Ketubot 92a:8",
+              "sourceHeRef": "רָצָה מִזֶּה גּוֹבֶה וכו׳",
+              "sourceRef": "If he desires he can collect from this one, etc."
+            },
+            {
+              "en": "According to the <i>ge’onim</i> and Rashi, this is the case only if Shimon purchased all the fields from Reuven in a single transaction. However, if he purchased them separately, the lien is attached to the last field that he purchased from Reuven, as this field was unencumbered while all the others were already mortgaged. Although some authorities disagree with this (see <i>Tosafot</i>), most of the commentaries concur with this opinion.",
+              "he": "ראובן שמכר את כל שדותיו (בבת אחת. סמ\"ע) לשמעון, ושמעון מכר אחד השדות ללוי — כאשר בא בעל חוב של ראובן לטרוף שדה לתשלום חובו, יכול לטרוף משמעון או מלוי כרצונו. ואימתי יכול בעל החוב לטרוף מלוי — כאשר קנה לוי בינונית. אבל אם קנה עידית או זיבורית — אינו יכול לטרוף מלוי, אלא משמעון. וכן אפילו אם קנה לוי בינונית אבל הניח בינונית כמוה בידי שמעון — אין בעל החוב טורף אלא משמעון. כדברי רבה. (רמב\"ם ספר משפטים הלכות מלוה ולוה פי\"ט ה\"ג. שו\"ע חו,מ קיט, א).",
+              "ref": "Steinsaltz comment #2 on Ketubot 92a:8",
+              "sourceHeRef": "רָצָה מִזֶּה גּוֹבֶה",
+              "sourceRef": "If he desires he can collect from this one"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ראובן שמכר כל שדותיו לשמעון</strong> - <span class=\"rashi-quotation\">פי' בקונטרס</span> בשטר אחד דבשני שטרות לא אמר' רצה מזה גובה רצה מזה גובה משום דאינו יכול לגבות מלוי אא\"כ לקח משמעון אותה שקנה באחרונה מראובן דאי לקח אחת מאותן שלפני האחרונה לא גבי בעל חוב מלוי דא\"ל הניח לך שמעון מקום לגבות הימנו כשקנה את שלי מראובן ומשעה שקנאה שמעון נסתלק שיעבודך ונשאר שיעבודך על הנותרות ולא נהירא לרבי דמצי שמעון למימר ליה מ\"ט אמור רבנן אין נפרעין מנכסים משועבדים במקום שיש שם בני חורין ואפי' הן זיבורית משום תקנה דלוקח ראשון אנא בהך תקנתא לא ניחא לי כדרבא בפ\"ק דב\"ק <span class=\"parenthesized\">(דף ח:)</span> הלכך מצי לפרש בשני שטרות וביותר. מ\"ר. ולי נראה כפירוש <span class=\"rashi-quotation\">הקונטרס</span> דדוקא בשטר א' אבל בשני שטרות ולקח שמעון זיבורית באחרונה ולוי לקח משמעון אותה שלפני אחרונה אינו יכול לגבות מלוי דא\"ל להכי טרחי וזבני ארעא דלא חזיא למיקם קמך דודאי אם היו כולם ביד שמעון האחרונה שהיא זיבורית היה מגבה לו וכן אם לקח שמעון עידית באחרונה ולקח לוי אותה עידית אינו יכול לגבות מלוי אותה עידית מהאי טעמא דלהכי טרחי וזבני ארעא דלא חזיא לך דודאי אם היו כולם ביד שמעון הבינונית והזיבורית שלקח לפני האחרונה שהיא עידית היה מגבה לו והיה הרשות בידו כדמפרש טעמא בב\"ק <span class=\"parenthesized\">(שם)</span> וכן אם זבן לוי בינונית ושבק בינונית יכול לומר הנחתי לך מקום לגבות ממנו אע\"פ שלקח שמעון בשני שטרות ומיהו יתכן להיות רצה מזה גובה רצה מזה גובה אפי' בשני שטרות ואע\"פ שלקח לוי משמעון אותה שלפני האחרונה בענין שהאחרונה עידית והראשונה שלקח לוי בינונית ולא שבק בינונית דכוותה ולא מצי למימר השתא טרחי וזבני ארעא דלא חזיא לך:",
+              "ref": "Tosafot on Ketubot 92a:8:1",
+              "sourceHeRef": "תוספות על כתובות צ״ב א:ח:א",
+              "sourceRef": "Tosafot on Ketubot 92a:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רצה מזה גובה רצה מזה גובה</strong> - ואע\"ג דאמרינן אין נפרעים מנכסים משועבדים במקום שיש נכסים בני חורין ואפי' הן זיבורית הכא שאני דליכא בני חורין כלל וכולהו משועבדים נינהו שהרי זה הב\"ח בא מכח ראובן:",
+              "ref": "Tosafot on Ketubot 92a:8:2",
+              "sourceHeRef": "תוספות על כתובות צ״ב א:ח:ב",
+              "sourceRef": "Tosafot on Ketubot 92a:8:2"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara addresses a similar matter. <b><span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> said:</b> If <b><span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> sold all his fields to <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>,</b> and <b><span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> then sold one field to <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>, and</b> then <b><span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>’s creditor came</b> to repossess one of the fields that was mortgaged to him: If <b>he desires, he can collect from this one,</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>, and if <b>he desires, he can collect from that one,</b> <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>, since he has a lien that applies equally to all the properties that once belonged to <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>.",
+      "he": "אָמַר <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">רַבָּה</span>: רְאוּבֵן שֶׁמָּכַר כׇּל שְׂדוֹתָיו לְשִׁמְעוֹן, וְחָזַר שִׁמְעוֹן וּמָכַר שָׂדֶה אַחַת לְלֵוִי, וַאֲתָא בַּעַל חוֹב דִּרְאוּבֵן — רָצָה מִזֶּה גּוֹבֶה, רָצָה מִזֶּה גּוֹבֶה.",
+      "ref": "Ketubot 92a:8"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ולא אמרן</b> <span class=\"hebrew-emphasis\">[אמרנו]</span> דבר זה <b>אלא דזבנה</b> <span class=\"hebrew-emphasis\">[שמכר אותה]</span> שמעון ללוי שדה שהיא <b>בינונית, אבל</b> אם <b>זבנה</b> <span class=\"hebrew-emphasis\">[מכר אותה]</span> <b>עידית</b> (משובחת) או <b>זבורית</b> (גרועה) והותיר שדה בינונית אצל שמעון, <b>מצי אמר ליה</b> <span class=\"hebrew-emphasis\">[יכול לומר לו]</span> לוי למלווה: <b>להכי טרחי וזביני ארעא דלא חזיא</b> <span class=\"hebrew-emphasis\">[לכך טרחתי וקניתי קרקע שאינה ראויה]</span> <b>לך</b> שבעל חוב נוטל לכתחילה מבינונית, ואם כן לך אל שמעון וגבה מן הבינונית.",
+              "ref": "Steinsaltz on Ketubot 92a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:ט",
+              "sourceRef": "Steinsaltz on Ketubot 92a:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הרא\"ש מסביר בלשון אחת שקנה עידית או זיבורית, והשאיר לשמעון עידית או זיבורית. שאם קנה עידית יכול לדחותו ולומר שאין דינו של בעל חוב לגבות ממנה. ואף אם קנה זיבורית (ובעל חוב מן הדין גובה ממנה), הרי אף אם משום מה רצה בעל החוב בזיבורית, מכל מקום יכול לדחותו ולומר לו שלשם כך טרח וקנה דבר שאין דרך בעל חוב לגבות ממנו, והתכוון בקניה זו שלא יוכלו לטרוף ממנו את הקרקע. ועוד פירש שאף אם השאיר לוי לשמעון בינונית מכל מקום זקוק לטעם זה, שהרי אם רצה בעל חוב דווקא בזיבורית אין יכול לעכב אותו.",
+              "ref": "Steinsaltz comment #1 on Ketubot 92a:9",
+              "sourceHeRef": "אבל זבנה עידית וזבורית",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>And we said</b> this <b>only</b> if <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> <b>sold</b> <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span> <b>land of intermediate quality, but</b> if <b>he sold</b> him <b>land of superior quality or inferior quality,</b> <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span> <b>can say to</b> the creditor: It was <b>for this</b> reason that <b>I made an effort</b> to <b>buy land that is not fit for you,</b> as a creditor is supposed to repossess land of intermediate quality. Therefore, go to <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> and collect your debt from the land of intermediate quality that is in his possession.",
+      "he": "וְלָא אֲמַרַן אֶלָּא דְּזַבְּנֵהּ בֵּינוֹנִית, אֲבָל זַבְּנֵהּ עִידִּית וְזִבּוּרִית, מָצֵי אֲמַר לֵיהּ: לְהָכִי טְרַחִי וּזְבַינִי אַרְעָא דְּלָא חַזְיָא לָךְ.",
+      "ref": "Ketubot 92a:9"
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בפרש\"י בד\"ה ופייסיה כו' פייס את הנושה בשביל ראובן שבאחריות מכרה לו עכ\"ל יש לדקדק בפירושו מי הכריחו לכך שפייסו משום דבאחריות מכרה לו וטעה בדעתו דאחריותו נמי על הני זוזי דיתמי ואימא דבלאו אחריות נמי הוי פייס ליה כדי להעמיד הקרקע בידו כדאמרינן לעיל <span class=\"parenthesized\">(כתובות ד)</span> ויש ליישב דדעת רש\"י הוא דלא יוכל לסלק הבע\"ח ולפייסו אלא היכא דבאחריות מכרה לו כיון דהמוכר שהוא הלוה יכול לסלקו כך הלוקח יוכל לסלקו שהוא עומד במקומו אבל היכא שלא מכרה לו באחריות לא יוכל הלוקח לסלק הבע\"ח דכאיש אחר דמי ודו\"ק:",
+              "ref": "Chidushei Halachot on Ketubot 92a:1",
+              "sourceHeRef": " חידושי הלכות על מסכת כתובות צ״ב א:א",
+              "sourceRef": "Chidushei Halachot on Ketubot 92a:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בינונית נמי לא אמרן אלא דלא שביק בינונית דכוותא אצל שמעון יכול לוי למימר הנחתי לך מקום לגבות ממנו.</b> קשיא לן דהא פרישנא דליכא למימר הכי אלא כשהניחם אצל הלוה עצמו אבל לא כשהניחם ברשות הלוקח שלו שא\"כ לגבי זבורית נמי שביד שמעון לימא ליה הכי וי\"ל דהכא ה\"ק כיון שכשהיו שני הבינונית אצל ראובן או אצל שמעון היה יכול להגבות לך איזה שירצה מהם והיה יכול לסלק מזו מפני אותו שהיה ברשותו כן אני ג\"כ יכולני לסלקך באותה שהנחתי ברשותו כי כל זכות שהיה לו בשדה זו מכר לו כאותה שאמרו מה מכר ראשון לשני כל זכות שתבא לידו ובהא שהזכות כבר לידו דכ\"ע מכר לו:",
+              "ref": "Ritva on Ketubot 92a:5",
+              "sourceHeRef": "ריטב\"א על כתובות צ״ב א:ה",
+              "sourceRef": "Ritva on Ketubot 92a:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>ו</b>גם אם קנה לוי משמעון <b>בינונית נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>לא אמרן</b> <span class=\"hebrew-emphasis\">[אמרנו]</span> שיכול בעל החוב לטרוף מלוי, <b>אלא</b> כש<b>לא שבק</b> <span class=\"hebrew-emphasis\">[הניח]</span> לוי לשמעון <b>בינונית דכוותה</b> <span class=\"hebrew-emphasis\">[שכמותה],</span> בין השדות שנשארו אצלו, שאז יכול המלווה לטרוף גם מלוי,",
+              "ref": "Steinsaltz on Ketubot 92a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות צ״ב א:י",
+              "sourceRef": "Steinsaltz on Ketubot 92a:10"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara notes further: <b>And</b> even if <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> sold <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span> <b>land of intermediate quality, we said</b> that the creditor may repossess <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>’s land <b>only</b> in a case <b>where</b> <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span> <b>did not leave</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> with <b>equivalent land of intermediate quality.</b>",
+      "he": "וּבֵינוֹנִית נָמֵי לָא אֲמַרַן, אֶלָּא דְּלָא שְׁבַק בֵּינוֹנִית דִּכְווֹתַהּ,",
+      "ref": "Ketubot 92a:10"
+    }
+  ],
+  "title": "Ketubot 92a",
+  "titleHebrew": "כתובות צב,א",
+  "topics": []
+}

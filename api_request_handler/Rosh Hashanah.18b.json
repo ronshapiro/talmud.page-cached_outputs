@@ -1,0 +1,1449 @@
+{
+  "id": "18b",
+  "sections": [
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">צוֹם</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, צוּם 1\" href=\"/Jastrow,_צוּם.1\">preceding</span>) <i>fast, fast-day</i>. <span class=\"refLink\" data-ref=\"Tractate Soferim 17:4\" href=\"/Tractate_Soferim.17.4\">Masechet Sof’rim XVII, 4</span> <span dir=\"rtl\">ימי הצ׳</span> fast-days. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:1\" href=\"/Rosh_Hashanah.18b.1\">Rosh Hashanah 18ᵇ</span> (reference. to <span class=\"refLink\" data-ref=\"Zechariah 8:19\" href=\"/Zechariah.8.19\">Zechariah VIII, 19</span>) <span dir=\"rtl\">בזמן שיש … אין שלום צ׳</span> when there is peace, these days shall be days of joy &c., when there is no peace, they shall be fast-days; and e.—plural <span class=\"refLink\" data-ref=\"Jastrow, צוּמּוּת 1\" dir=\"rtl\" href=\"/Jastrow,_צוּמּוּת.1\">צוֹמוֹת</span>, <span dir=\"rtl\">צוֹמִין</span>. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 10:10:1\" href=\"/Kohelet_Rabbah.10.10.1\">Kohelet Rabbah to X, 10</span> <span dir=\"rtl\">יגזרו צ׳ ותעניות</span> let them decree fasts and afflictions. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Beitzah 2:8:3\" href=\"Jerusalem_Talmud_Beitzah.2.8.3\">Yerushalmi Beitzah II, end, 61ᵈ</span> <span dir=\"rtl\">מן הצ׳ ומן התעניות</span> (not <span dir=\"rtl\">התענית</span>) from fasts and &c. <span class=\"refLink\" data-ref=\"Megillah 16b\" href=\"/Megillah.16b\">Megillah 16ᵇ</span>; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, צוֹם 1",
+              "sourceHeRef": "מילון יסטרוב, צוֹם א׳",
+              "sourceRef": "Jastrow, צוֹם 1"
+            }
+          ]
+        },
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "על ששה חדשים שלוחין יוצאין על ניסן מפני הפסח וכו'. ואקשינן וליפקו שלוחין נמי בתמוז ובטבת מפני הצומות שיש בהן ופריק רב פפא הכי קאמר בזמן שיש שלום כלומר כל זמן שבית המקדש קיים יהיה לששון ולשמחה.",
+              "ref": "Rabbeinu Chananel on Rosh Hashanah 18b:1",
+              "sourceHeRef": "רבינו חננאל על מסכת ראש השנה י״ח ב:א",
+              "sourceRef": "Rabbeinu Chananel on Rosh Hashanah 18b:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בזמן שיש שלום יהיו לששון ולשמחה. </b>פירוש בזמן שיש שלום, שישראל שרוין על אדמתן.",
+              "ref": "Rashba on Rosh Hashanah 18b:1",
+              "sourceHeRef": "רשב״א על ראש השנה י״ח ב:א",
+              "sourceRef": "Rashba on Rosh Hashanah 18b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאמר רב חמא בר ביזנא כו'</strong> - דכולהו ימי תענית נינהו בזמן הזה שאין בהמ\"ק קיים ומתניתין בזמן הזה קא מיירי מדקתני וכשהמקדש קיים כו':",
+              "ref": "Rashi on Rosh Hashanah 18b:1:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:א:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שיש שלום</strong> - שאין יד העובדי כוכבים תקיפה על ישראל:",
+              "ref": "Rashi on Rosh Hashanah 18b:1:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:א:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יהיו לששון ולשמחה</strong> - ליאסר בהספד ובתענית:",
+              "ref": "Rashi on Rosh Hashanah 18b:1:3",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:א:ג",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:1:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ופרקינן דאמר רב חנא</b> כו׳ רב פפא וכו'. ופירוקא מדרב פפא הוא ומימרא דרב פפא ה״פ שהצומות הללו עיקר גזירתן היה על חרבן הראשון כל א׳ לענינו כדמפרש בריתא לקמן וכשנבנה הבית שני אמר הנביא כה אמר ה׳ *[צבאות] צום הרביעי וכו׳ יהיה לבית יהודה לששון ולשמחה ולמועדים טובים כלומר שלא ינהגו בהם רק שיעשו אותם ימים טובים ומ״מ מדקרי להו נמי לאחד הבנין צום ולא כתיב אשר צמתם כדכתיב בקרא אחרינא <span class=\"parenthesized\">(אשר)</span> *[כי] צמתם וספוד <span class=\"parenthesized\">(ברביעי)</span> *[בחמישי] משמע שלא נתבטלו לגמרי ולא נעקרה לגמרי גזירה ראשונה ואע״פ שהיה ראוי שתעקר כיון שעל בית ראשון נגזר׳ והרי נבנה והטעם לפי שיודעין היו שסוף בית שני זה ליחרב שיהא גלות זה שאנו בו ובנין בית שני לא חשיב להו כולי האי דלהוי נגדר הפרץ הראשון ולפיכך לא עקרו גזירתן לגמרי אלא אמרו כי בזמן שיהא שלום כלומר שישראל שרויין על אדמתם ובית המקדש קיים יהיו לששון ולשמחה ואם אין שלום שבהמ״ק חרב ויש שמד על ישראל דאיכא תרתי לגריעותא שיהו צום גמור מגזירת נביאים הראשונים ואם אין שלום וגם אין שמד יהיה הדבר תלוי ברצון ישראל רצו ב״ד מתענין לא רצו אין מתענין כלל והשתא דפרישנא מימרא דרב פפא צרכינן לפרושי מאי מפרקינן בעיקר קושיין מדרב פפא דהא אע״ג דאמר רב פפא רצו מתענין לא רצו אין מתענין מ״מ כבר היו רוצים להתענות באותו זמן ונוהגין היו להתענות תמוז וטבת מדפרכינן וליפקו נמי אתמוז וטבת וא״כ אכתי תיקשי לן אמאי לא נפקי בהו שלוחין ויש מתרצים דה״ק דכיון שהיו קלים בתחלתם שאלו לא רצו לא היו מתענים אף עכשיו שקבלום עליהם לא היו מקפידים לשלוח עליהן שלוחין וזה אינו נכון כלל שכבר שקבלו והיתה עליהם חובה מגזירת נביאים למה לא יהו מקפידין לעשותן בזמנן ואחרים פידשו דה״ק אע״פ שאנו מורגלין להתענות בהם אלו רצינו שלא להתענות בהם לא היינו מתענין כי לעולם הדבר תלוי וכיון שכן אין קפידא לשלוח בדבר שלוחין וגם זה אינו מחוור דודאי אחר שהורגלו בהם וקבלום עליהם אחר שלא היה שמד עליהם כבר נתקיים עליהם ושוב אין להם כח ורצון לבטלם שכבר רצו בדבר וקבלום ומ״מ אין עלינו אלא כמו שרצו הראשונים ר״ל שאין עלינו אלא איסור אכילה ושתיה אבל להפסיק מבע״י וליאסר ברחיצה ונעילת הסנדל לא קבלו עליהם וכשם שהיו רשאים לעקרם לגמרי היו רשאים לעקור מקצתן. והנכון דודאי בימי חכמי התלמוד כבר היו נוהגין בתמוז וטבת וכבר קבלו עליהם ורצו בהם כל ישראל כמו בזמננו זה ושוב א״א לעקרם אבל כשנשנית משנתינו לא רצה לשנות דנפקי שלוחי עליהו או משום דההיא שעתא כבר היו תלוים ברצון ויש שהיו מתענין ויש שלא היו מתענין וכיון דכן לא היו מטריחין לשלוח שלוחים ומיהו תלמודא פריך מעיקרא דליפקו אתמוז וטבת משום דהשתא כבר היו מורגלין ופשוטין ומקובלין בכל ישראל והי׳ סבור שכך היה לעולם ולהכי פרקינן דלאחר החורבן ברצון היו תלוין וכשנשנית משנתינו רופפין היו ביד ישראל וכדמוכח מעובדא דרבי שרחץ בי״ז בתמוז וכדאיתא במס׳ מגילה ואח״כ הוא שרצו רוב ישראל וקבלו עליהם וא״א לעקרם כנ״ל לפי שיטת כל המפרשים ז״ל שפי׳ רצו אין מתענין כלל ואפילו באכילה ושתיה ולדבריהם הא דאמר במס׳ מגילה דר׳ רחץ בי״ז בתמוז וטעמא משום הא דרב פפא לאו דוקא רחץ דה״ה אכל ושתה אלא דנקט רחיצה דמפרסמא טפי וכדאמרינן לקמן במעשה שגזרו תענית בחנוכה ויצא ר׳ אליעזר ורחץ ר׳ יהושע וספר ואמרו להם צאו והתענו על מה שהתעניתם ומ״מ אפשר היה לומר כי מעולם לא נתבטל מישראל לאחר החרבן תענית בתמוז וטבת כי האיך תכפל ותקום פעמים צרה ויהיו אוכלים ושותין בהם אלא חומרי תענית הוא שנתבטלו מהם שלא יאסרו מהם אלא באכילה ושתיה ושלא יפסקו מבע״י ור׳ לא עשה בי״ז בתמוז אלא רחיצה אבל לא אכל ושתה ועל הדרך הזה היה רוצה לעקור ט״ב כלומר מחומרי תעניות לפי שאף הוא היה ברצון דקרא על כולהו צומות כתיב בשוה תדע שאלמלא כן האיך היה יכול לעקרו שהרי אין ב״ד יכול לבטל דברי ב״ד חבירו אא״כ גדול ממנו בחכמה ובמנין אלא ודאי אף ט״ב תלוי ברצון מגזירת נביאים ולפיכך אמר שבקש <span class=\"parenthesized\">(ב״ד)</span> [רבי] לעקרו שלא לנהוג בו אלא בעינוי אכילה ושתיה כיחידים בעלמא לא בתורת תענית צבור וכדרך שבטל ג״כ מתמוז וטבת ומפני קולא זו שלא היו נוהגין בהם כחומר תענית אלא כתענית יחידים לא היו מקפידין לשלוח להן שלוחין שאינו אלא תענית יחידים ולהכי פרכינן הכא א״ה ט״ב נמי כלומר שאף הוא תלוי ברצון ומ״ש מאידך ופרקינן שאני ט״ב הואיל והוכפלו בו צרות לעולם החזיקו בו להיות צום כגזירת נביאים בכל חומרי תעניות וכדאמר בעלמא אין תענית צבור בבבל אלא ט״ב וכיון שנוהגין היו בו בגזירת נביאים ובתורת תענית צבור ראוי היה לשלוח עליו שלוחין ומעתה לכל השיטות האלו אף תמוז וטבת מקובל הוא עלינו ואין על יחיד וצבור לעקרם שכבר רצו כל ישראל וקבלום עליהם כתענית יחידים אלא דמ״מ אפשר דבעו קבלה מבע״י כתענית יחידים משא״כ בט״ב:",
+              "ref": "Ritva on Rosh Hashanah 18b:1",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ח ב:א",
+              "sourceRef": "Ritva on Rosh Hashanah 18b:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שכן <b>אמר רב חנא בר ביזנא אמר ר' שמעון חסידא: מאי דכתיב</b> <span class=\"hebrew-emphasis\">[מהו שנאמר]:</span> <b>\"כה אמר ה' צבאות צום הרביעי וצום החמישי וצום השביעי וצום העשירי יהיה לבית יהודה לששון ולשמחה</b> ולמועדים טובים <b>\"(זכריה ח, יט), קרי להו</b> <span class=\"hebrew-emphasis\">[קורא להם]</span> ימי <b>\"צום\" וקרי להו</b> <span class=\"hebrew-emphasis\">[וקורא להם]</span> <b>\"ששון ושמחה\",</b> כיצד? <b>בזמן שיש שלום</b> בעולם — <b>יהיו לששון ולשמחה</b> ואסורים יהיו במספד ובתענית, <b>אין שלום</b> — יהיו אלה ימי <b>צום.</b> בכל אופן מדבריו למדים כי גם הצום הרביעי והעשירי בכלל התעניות, ומדוע אם כן לא נשלחו שליחים להודיע על החודשים בהם הם חלים?",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:א",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "According to most commentaries, the statement of Rav Ĥana bar Bizna is part of the question as to why messengers do not go out in Tammuz and Tevet. <i>Penei</i> <i>Yehoshua</i> explains that actually there is no fundamental difference between the Ninth of Av and the rest of the fasts. However, according to the Ritva the statement of Rav Ĥana bar Bizna is the beginning of the answer, and comes as a prologue to Rav Pappa’s statement.",
+              "he": "לדעת רוב המפרשים, דברי רב חנא בר ביזנא הם המענה לשאלה מדוע אין יוצאים שלוחים גם בתמוז וטבת. והפנ\"י רוצה להסביר שיטה זו, שהיה צורך להוכיח שבעצם אין הבדל יסודי בין תשעה באב ושאר הצומות. אכן, לדעת הריטב\"א דברי רב חנא הם תחילת התירוץ, והם באים כהקדמה לדברי רב פפא.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:1",
+              "sourceHeRef": "דְּאָמַר רַב חָנָא בַּר בִּיזְנָא וכו׳",
+              "sourceRef": "As Rav Ĥana bar Bizna said, etc."
+            },
+            {
+              "en": "The early authorities ask why Rav Ĥana bar Bizna sees the verse as contradictory. The verse appears to be a prophecy concerning the future, when the fast days will become festive days. Most commentaries who address this problem answer that the question is from a close reading of the words: It does not say that these days will turn into gladness but that this fast will turn into gladness, implying that it is both a fast day and a happy day (see Ritva). Also, the verse does not state: Fast days, but only “fast” (see Rabbi Yoshiya Pinto and <i>Beit Yosef</i> ). Some write that the Gemara is noting the future tense: “Shall become times of joy and gladness,” implying that at the time of the question they were still fast days (<i>Yad Efrayim</i>).",
+              "he": "תהו ראשונים: מה טיבה של שאלה זו? שהרי לכאורה יש כאן נבואה פשוטה על הפיכת ימי הצום לימי שמחה. ורוב המפרשים העוסקים בבעיה זו עונים (בהבדלים דקים בין השיטות), שעיקר השאלה היא מדיוק הלשון: לא נאמר שימים אלה יהפכו לששון אלא שצום זה יהפך לששון, משמע שהוא גם יום צום וגם יום ששון (ראה בריטב\"א). וכן לא נאמר \"ימי הצום\" אלא צום בלבד (ראה בריא\"ף ובב\"י). ויש מי שכותב, שהדיוק הוא מלשון העתיד \"יהיו לששון\" משמע שבזמן השאלה עדיין ימי צום הם (יד אפרים).",
+              "ref": "Steinsaltz comment #2 on Rosh Hashanah 18b:1",
+              "sourceHeRef": "קָרֵי לְהוּ צוֹם וְקָרֵי לְהוּ שָׂשׂוֹן וְשִׂמְחָה",
+              "sourceRef": "It calls them fast and it calls them joy and gladness"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Thus said the L<small>ORD</small> of Hosts: The fast of the fourth month, the fast of the fifth month, the fast of the seventh month, and the fast of the tenth month shall become occasions for joy and gladness, happy festivals for the House of Judah; but you must love honesty and integrity.",
+              "he": "כֹּֽה־אָמַ֞ר יְהֹוָ֣ה צְבָא֗וֹת צ֣וֹם הָרְבִיעִ֡י וְצ֣וֹם הַחֲמִישִׁי֩ וְצ֨וֹם הַשְּׁבִיעִ֜י וְצ֣וֹם הָעֲשִׂירִ֗י יִהְיֶ֤ה לְבֵית־יְהוּדָה֙ לְשָׂשׂ֣וֹן וּלְשִׂמְחָ֔ה וּֽלְמֹעֲדִ֖ים טוֹבִ֑ים וְהָאֱמֶ֥ת וְהַשָּׁל֖וֹם אֱהָֽבוּ׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+              "link": "/Zechariah/8",
+              "ref": "Zechariah 8:19",
+              "sourceHeRef": "זכריה ח:יט",
+              "sourceRef": "Zechariah 8:19"
+            }
+          ]
+        }
+      },
+      "en": "<b>As <span href=\"/topics/rabbi-chana-b-bizna\" class=\"namedEntityLink\" data-slug=\"rabbi-chana-b-bizna\">Rav Ḥana bar Bizna</span> said</b> that <b>Rabbi Shimon Ḥasida said: What is</b> the meaning of that <b>which is written: “Thus said the Lord of hosts: The fast of the fourth month, and the fast of the fifth, and fast of the seventh, and the fast of the tenth, shall become times of joy and gladness,</b> and cheerful seasons, <b>to the house of <span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Judah</span>”</b> (Zechariah 8:19). <b>It calls them</b> days of <b>“fast” and it calls them</b> “times of <b>joy and gladness.”</b> How so? <b>When there is peace</b> in the world, <b>they will be</b> times of <b>joy and gladness,</b> on which eulogies and fasting are forbidden; but when <b>there is no peace,</b> they are days of <b>fasting.</b> In a time when there is no peace, why are messengers not sent out also for the fourth and tenth months, so that people can know when to observe the fasts?",
+      "he": "דְּאָמַר <span href=\"/topics/rabbi-chana-b-bizna\" class=\"namedEntityLink\" data-slug=\"rabbi-chana-b-bizna\">רַב חָנָא בַּר בִּיזְנָא</span> אָמַר רַבִּי שִׁמְעוֹן חֲסִידָא, מַאי דִּכְתִיב: ״כֹּה אָמַר ה׳ צְבָאוֹת צוֹם הָרְבִיעִי וְצוֹם הַחֲמִישִׁי וְצוֹם הַשְּׁבִיעִי וְצוֹם הָעֲשִׂירִי יִהְיֶה לְבֵית <span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">יְהוּדָה</span> לְשָׂשׂוֹן וּלְשִׂמְחָה״. קָרֵי לְהוּ ״צוֹם״, וְקָרֵי לְהוּ ״שָׂשׂוֹן וְשִׂמְחָה״! בִּזְמַן שֶׁיֵּשׁ שָׁלוֹם — יִהְיוּ לְשָׂשׂוֹן וּלְשִׂמְחָה, אֵין שָׁלוֹם — צוֹם.",
+      "ref": "Rosh Hashanah 18b:1"
+    },
+    {
+      "commentary": {
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יש גזרה צום אין גזרה ואין שלום כגון עתה בזמן הזה רצו מתענין רצו אין מתענין וכיון שאם רצו שלא להתענות בהן אין חובה עליהן לפיכך אין שלוחין יוצאין בהן אי הכי ומפני מה יוצאין באב ופרקינן משום שהוכפלו בו צרות מפני שחרב בו הבית בראשונה ובשניה ונלכדה ביתר ונחרשה העיר קבלו עליהן ט' באב צום לעולם בגלות ואע\"פ שאין שם סכנה בזמן הזה לפיכך יוצאין באב תניא ארשב\"י ד' דברים היה ר' עקיבא דורש ואלו הן. א' ותרא שרה את בן הגר המצרית וגו'. ב' הצאן ובקר ישחט להם וגו'. ג' בן אדם יושבי החרבות על אדמת ישראל וגו'. ד' כה אמר ה' צום הרביעי וגו'. ואלו ד' דברים מפורשין בספרי דבי רב <span class=\"parenthesized\">(בפרשת ואתחנן)</span> ובתוספתא במסכת סוטה <span class=\"parenthesized\">(פ\"ו)</span> וארשב\"י זה אחד מן ד' דברים שהיה ר' עקיבא דורש ואף אני דורש כמותו ולא חלפתי על דבריו אלא בצום העשירי בלבד שהוא אומר עשרה בטבת שבו סמך מלך בבל על ירושלים ואני אומר צום העשירי זה ה' בטבת שבאתה שמועה לגולה כי נחרבה העיר ונשרף הבית ונראין דברי מדבריו שהוא אומר בתמוז הובקעה העיר ובאב נלכדה העיר.",
+              "ref": "Rabbeinu Chananel on Rosh Hashanah 18b:2",
+              "sourceHeRef": "רבינו חננאל על מסכת ראש השנה י״ח ב:ב",
+              "sourceRef": "Rabbeinu Chananel on Rosh Hashanah 18b:2"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אין שמד ואין שלום. </b>בשישראל בארץ האויב אלא שאין שמד רצו מתענין רצו אין מתענין. ומסתברא אף על פי שהורגלו להתענות לא רצו עכשיו להתענות אין מתענין, דהא הכא דהורגלו להתענות כיון דאקשינן דליפקו עליהו שלוחין, ואפילו הכי אמרינן דלא איכפת לן אי לא עבדו להו בזמניהו דהא רצה שלא להתענות כלל אין מתענין. ורחוק הוא לומר דכיון דאילו רצו מעיקרא שלא להתענות אין מתענין קילי, ואפילו קבלום עליהם והם חייבים להתענות אין חומר תענית עליהם שנקפיד לשלוח שליחים כדי שיתענו בזמנו.",
+              "ref": "Rashba on Rosh Hashanah 18b:2",
+              "sourceHeRef": "רשב״א על ראש השנה י״ח ב:ב",
+              "sourceRef": "Rashba on Rosh Hashanah 18b:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יש גזרת המלכות צום</strong> - חובה להתענות בהן:",
+              "ref": "Rashi on Rosh Hashanah 18b:2:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ב:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רצו אין מתענין</strong> - וכיון דרשות הוא לא מטרחינן שלוחים עלייהו:",
+              "ref": "Rashi on Rosh Hashanah 18b:2:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ב:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב פפא: הכי קאמר</b> <span class=\"hebrew-emphasis\">[כך אמר],</span> כך יש להסיק מפסוק זה: <b>בזמן שיש שלום</b> ובית המקדש בנוי ואין הגוים שולטים על ישראל — <b>יהיו</b> הימים האלו <b>לששון ולשמחה,</b> אולם אם <b>יש שמד</b> (צרות על ישראל) יהיו אלה ימי <b>צום, אין שמד ואין שלום</b> כשאין צרות מיוחדות ולא הגיעה נחמה ישראל, <b>רצו</b> הקהל — <b>מתענין, רצו</b> — <b>אין מתענין.</b> וכיון שאין חובה גמורה להתענות, אין שולחים שליחים.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:ב",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "There are various opinions in the commentaries with regard to the exact definition of the word peace in this context and the relationship between it and the building of the Temple. The Rambam explains that these are separate concepts even when the Temple is standing. In his opinion, the phrase: No peace, is referring to a time when the gentile nations rule over the Jewish people and do not have a completely independent country in Eretz Israel. And persecution can also occur while the Temple is standing. Other commentaries identify the term peace with the rebuilding of the Temple (see Ramban’s <i>Torat HaAdam</i> and Ritva).",
+              "he": "יש כמה חילוקי דעות בדברי המפרשים בהגדרה המדוייקת של \"שלום\" כאן, ועוד יותר ביחס שיש בין מונח זה ובין בנין בית המקדש, שנראה שלדעת הרמב\"ם למשל, חלוקה זו קיימת גם בזמן שבית המקדש בנוי, שאם אין שלום — ופירושו שיד אומות העולם תקיפה על ישראל, ואף בארצם אין להם עצמאות גמורה — הרי זה אינו קרוי שלום. ושמד יכול להיות גם הוא בזמן הבית. ואילו אחרים מזהים \"שלום\" עם בנין המקדש (ראה בתורת האדם לרמב\"ן ובריטב\"א).",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:2",
+              "sourceHeRef": "שָׁלוֹם…שְׁמָד",
+              "sourceRef": "Peace…persecution"
+            },
+            {
+              "en": "The exact definition of the word wish is not clear. Some explain that since these fasts are dependent on the wishes of the people, they are no longer public fasts but individual fasts, even if the entire nation fasts. Others say that the word wish does not refer to an individual’s wishes, but to a collective decision, or the decision of the court. When the Temple stood they did not fast, but in times after the destruction, when there was no decree of persecution it depended only on each individual’s wishes. Subsequently the Sages established it as a complete obligation, which nevertheless has the status of a private fast. The Gemara was asking with regard to the time when all already had this custom. The answer was that at the time of the mishna it was still not a set custom and they did not send messengers for these fasts (see Ritva).",
+              "he": "ההגדרה המדוייקת של \"רצו\" איננה ברורה. שיש המסבירים שכיון שהדבר תלוי ברצון, שוב אין זו תענית ציבור אלא תענית יחידים, אפילו כאשר הכל צמים. ויש אומרים ש\"רצו\" זה אינו תלוי ברצון של כל יחיד ויחיד, אלא בהחלטת הכלל, או החלטת בית הדין (ר' בריטב\"א). ולדעת הריטב\"א עיקרם של דברים כך הוא: שבזמן הבית לא התענו, אבל לאחר החורבן, כאשר לא היתה גזירת שמד היה הדבר תלוי רק בדעת כל יחיד ויחיד, ולאחר מכן קבעוהו וקבלוהו חובה גמורה (אבל לנהוג בהם כדין תענית יחיד). והשאלה שנשאלה היתה בזמן התלמוד שכבר נהגו הכל לפי מנהג זה, והתירוץ היה שבימי המשנה עדיין לא היה מנהג קבוע ולא נהגו לשלוח שליחים על כך.",
+              "ref": "Steinsaltz comment #2 on Rosh Hashanah 18b:2",
+              "sourceHeRef": "רָצוּ מִתְעַנִּין",
+              "sourceRef": "If people wish they fast"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said</b> that <b>this is what it is saying: When there is peace</b> in the world and the Temple is standing, these days <b>will be</b> times of <b>joy and gladness;</b> when <b>there is persecution</b> and troubles for the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span>, they are days of <b>fasting;</b> and when <b>there is no persecution but</b> still <b>no peace,</b> neither particular troubles nor consolation for <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"אפי-(ambiguous)\">Israel</span>, the <i>halakha</i> is as follows: If people <b>wish, they fast,</b> and if <b>they wish, they do not fast.</b> Since there is no absolute obligation to fast, messengers are not sent out for these months.",
+      "he": "אָמַר <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">רַב פָּפָּא</span>, הָכִי קָאָמַר: בִּזְמַן שֶׁיֵּשׁ שָׁלוֹם — יִהְיוּ לְשָׂשׂוֹן וּלְשִׂמְחָה, יֵשׁ שְׁמָד — צוֹם, אֵין שְׁמָד וְאֵין שָׁלוֹם — רָצוּ מִתְעַנִּין, רָצוּ אֵין מִתְעַנִּין.",
+      "ref": "Rosh Hashanah 18b:2"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "The mishna discusses the five major communal fast days. <b>Five</b> calamitous <b>matters occurred to our forefathers on the seventeenth of Tammuz, and five</b> other disasters happened <b>on the Ninth of Av. On the seventeenth of Tammuz</b> <b>the tablets were broken</b> by Moses when he saw that the Jews had made the golden calf; <b>the daily offering was nullified</b> by the Roman authorities and was never sacrificed again; <b>the city</b> walls of Jerusalem <b>were breached;</b> the general <b>Apostemos</b> publicly <b>burned a Torah scroll; and</b> Manasseh <b>placed an idol in the Sanctuary.</b> <b>On the Ninth of Av it was decreed upon our ancestors that they would</b> all die in the wilderness and <b>not enter Eretz</b> Yisrael; <b>and the Temple was destroyed the first time,</b> in the days of Nebuchadnezzar, <b>and the second time,</b> by the Romans; <b>and Beitar was captured; and the city</b> of Jerusalem <b>was plowed,</b> as a sign that it would never be rebuilt. Not only does one fast on the Ninth of Av, but <b>from when</b> the month of <b>Av begins, one decreases</b> acts of <b>rejoicing.</b>",
+              "he": "חֲמִשָּׁה דְבָרִים אֵרְעוּ אֶת אֲבוֹתֵינוּ בְּשִׁבְעָה עָשָׂר בְּתַמּוּז וַחֲמִשָּׁה בְּתִשְׁעָה בְאָב. בְּשִׁבְעָה עָשָׂר בְּתַמּוּז נִשְׁתַּבְּרוּ הַלּוּחוֹת, וּבָטַל הַתָּמִיד, וְהֻבְקְעָה הָעִיר, וְשָׂרַף אַפּוֹסְטֹמוֹס אֶת הַתּוֹרָה, וְהֶעֱמִיד צֶלֶם בַּהֵיכָל. בְּתִשְׁעָה בְאָב נִגְזַר עַל אֲבוֹתֵינוּ שֶׁלֹּא יִכָּנְסוּ לָאָרֶץ, וְחָרַב הַבַּיִת בָּרִאשׁוֹנָה וּבַשְּׁנִיָּה, וְנִלְכְּדָה בֵיתָר, וְנֶחְרְשָׁה הָעִיר. מִשֶּׁנִּכְנַס אָב, מְמַעֲטִין בְּשִׂמְחָה:",
+              "link": "/Mishnah Ta'anit/4",
+              "ref": "Mishnah Ta'anit 4:6",
+              "sourceHeRef": "משנה תענית ד:ו",
+              "sourceRef": "Mishnah Ta'anit 4:6"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "On the Ninth of Av, five tragedies occurred:<br>It was decreed that the Jews in the desert would not enter <i>Eretz Yisrael</i>;<br>The First and the Second Temples were destroyed;<br>A large city named Betar was captured. Thousands and myriads of Jews inhabited it. They were ruled by a great king whom the entire Jewish people and the leading Sages considered to be the Messianic king. The city fell to the Romans and they were all slain, causing a national catastrophe equivalent to that of the Temple's destruction.<br>On that day designated for retribution, the wicked Tineius Rufus plowed the site of the Temple and its surroundings, thereby fulfilling the prophecy [Micah 3:12], \"Zion will be plowed like a field.\"",
+              "he": "וְתִשְׁעָה בְּאָב חֲמִשָּׁה דְּבָרִים אֵרְעוּ בּוֹ. נִגְזַר עַל יִשְׂרָאֵל בַּמִּדְבָּר שֶׁלֹּא יִכָּנְסוּ לָאָרֶץ. וְחָרַב הַבַּיִת בָּרִאשׁוֹנָה וּבַשְּׁנִיָּה. וְנִלְכְּדָה עִיר גְּדוֹלָה וּבֵיתָר שְׁמָהּ וְהָיוּ בָּהּ אֲלָפִים וּרְבָבוֹת מִיִּשְׂרָאֵל וְהָיָה לָהֶם מֶלֶךְ גָּדוֹל וְדִמּוּ כָּל יִשְׂרָאֵל וּגְדוֹלֵי הַחֲכָמִים שֶׁהוּא הַמֶּלֶךְ הַמָּשִׁיחַ. וְנָפַל בְּיַד הָרוֹמִיִּים וְנֶהֶרְגוּ כֻּלָּם וְהָיְתָה צָרָה גְּדוֹלָה כְּמוֹ חֻרְבַּן בֵּית הַמִּקְדָּשׁ. וּבוֹ בַּיּוֹם הַמּוּכָן לְפֻרְעָנוּת חָרַשׁ טוּרְנוּסְרוּפוּס הָרָשָׁע אֶת הַהֵיכָל וְאֶת סְבִיבָיו לְקַיֵּם מַה שֶּׁנֶּאֱמַר<span class=\"hebrew-emphasis\">(ירמיה כו יח)</span> <span class=\"hebrew-emphasis\">(מיכה ג יב)</span> \"צִיּוֹן שָׂדֶה תֵחָרֵשׁ\":",
+              "ref": "Mishneh Torah, Fasts 5:3",
+              "sourceHeRef": "הלכות תעניות ה:ג",
+              "sourceRef": "Fasts 5:3"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שאני תשעה באב הואיל והוכפלו בו צרות. </b>כלומר: שנחרב הבית בו בראשונה ובשנייה, ונלכדה ביתר, ונחרשה העיר. ואע\"ג דבתמוז נמי הובקעה העיר בראשונה ובשניה, מכל מקום לא נהיה ביום אחד, שבראשונה היה בט' בחדש ובשניה בשבעה עשר לחודש. ואפילו לדעת הירושלמי <span class=\"parenthesized\">(תענית פ\"ד, ה\"ה)</span> דאמרי דבין בראשונה בין בשניה הובקעה בי\"ז, אפילו הכי לא הוכפלו בו צרות כל כך.",
+              "ref": "Rashba on Rosh Hashanah 18b:3",
+              "sourceHeRef": "רשב״א על ראש השנה י״ח ב:ג",
+              "sourceRef": "Rashba on Rosh Hashanah 18b:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>והא דאמרינן שאני ט״ב וכו'.</b> לאו משום דארעו בו צרות רבות דהא בתמוז נמי ארעו בו צרות רבות כדתנן ה׳ דברים ארעו לאבותינו בי״ז תמוז אלא לומר שחזרו בו ב׳ פעמים צרות כדאמר מר נחרב הבית בראשונה ובשניה ונלכדה ביתר <span class=\"parenthesized\">(והובקעה)</span> [ונחרשה] העיר אבל בי״ז בתמוז לא הוכפלו שהרי לפום גמרא דילן בט׳ בתמוז הובקעה העיר בראשונה ובי״ז בתמוז הובקעה בשניה ואפילו לדברי הירושלמי שסובר כי בשתיהן הובקעה העיר בי״ז בתמוז באידך הוכפלו צרות טפי שנחרב הבית ונלכדה ביתר ונחרשה העיר בראשונה ובשניה והיינו דלא אמרינן שאני ט״ב שרבו בו צרות אלא שהוכפלו בו צרות. ונ״ל <span class=\"parenthesized\">(ד״ת)</span> [דט״ב] שהוכפלו ב׳ כפילות דנגזר על אבותינו במדבר שלא יכנסו לארץ וחרב הבית בראשונה הרי כפל א׳ וחרב <span class=\"parenthesized\">(השניה)</span> [בשניה] ונלכדה ביתר <span class=\"parenthesized\">(הכי)</span> [הרי כפל] בשניה ובכל אחד היה בו גזירת מיתה משא״כ כן [בי״ז בתמוז] וכל הד׳ דברים אלו מפורשים בתוס׳ סוטה והכא נקט חדא מיניהו והכי איתא התם רשב״י אומר ד׳ דברים היה ר״ע דורש ואין אני דורש כמותו ונראין דברי מדבריו הוא היה אומר ותרא שרה את בן הגר מצחק שהי׳ עובד ע״ז ואני אומר לא היה צריך אלא לענין שדות וכרמים שכשבאו לחלוק היה ישמעאל אומר אני נוטל שני חלקים כי אני הבכור וכן שרה אומרת לאברהם כי לא יירש בן האמה <span class=\"parenthesized\">(הזה)</span> *[הזאת] ודברי נראין מדבריו כיוצא בו אתה אומר הצאן ובקר ישחט להם ומצא להם שוה להם דברי ר״ע ואני אומר אפי׳ אתה מכנס להם כל צאן ובקר שבעולם סופן לדון אחריך השיבתו רוח הקודש עתה תראה היקרך דברי ודברי נראין מדבריו כיוצא בו יושבי החרבות האלה וכו׳ א׳ היה אברהם שלא עבד אלא אלוה א׳ ירש את הארץ אנו שעובדין אלוהות הרבה אינו דין שנירש את הארץ ואני אומר ומה אברהם שלא נצטוה אלא מצוה א׳ ירש את הארץ אנו שנצטוינו מצות הרבה עאכ״ו מה נביא אומר להם כה אמר ה׳ על הדם תאכלו ועיניכם תשאו וכו׳ והארץ תירשו עמדתם על חרבכם וכו׳ והארץ תירשו ורואה אני את דברי כיוצא בו <span class=\"parenthesized\">(כי)</span> כה אמר ה׳ *[צבאות] צום הד׳ וכו׳ גר״י צום הד׳ זה י״ז בתמוז שבו הובקעה העיר וכך היא בתוספת׳ סוטה ותימא דהא קרא דמייתי׳ כתיב ביה ותבקע העיר בט׳ לחודש ובירושלמי כתיב כן <span class=\"parenthesized\">(והא תשעה)</span> בתשעה לחודש [הובקעה העיר ואת אמר הכין] <span class=\"parenthesized\">(לחודש כתיב)</span> ופריק קלקול חשבונות היו שם כלומר כי מפני הצרות והמלחמות טעו בחשבון והיו סבורין שהיתה הבקעה בט׳ בו אבל לעולם בי״ז היתה אף בראשונה כמו בשניה ומיהו בגמרא דילן בפ׳ בתרא דתענית אמרי׳ בהדיא דבראשונה הבקעה בט׳ בו ובשניה בי״ז בו ולפי זה ה״ג הכי צום הרביעי זה ט׳ בתמוז שבו הבקעה העיר וכך מצינו הגרסא בנוסחי דוקני וא״ת והלא עיקר גזרת התענית על חרבן ראשון הוא ובט׳ בתמוז קבעוהו שבו הבקעה העיר וא״כ למה אנו מתענין היום בי״ז בתמוז שהיתה בקיעה שניה וכ״ת כי בבית שני נעקרו אותם הצומות שגזרו על בית ראשון הא ליתא כדמוכח לעיל תדע דהא עשרה בטבת וצום גדלי׳ מחרבן ראשון הם ואנו מתענין אותן וכיון שכן למה נעקר ט׳ בתמוז ואם מפני שנבקעה בשניה בי״ז נתענה בשניהן ומה שקשה יותר הוא מ״ש בפ״ק דמגילה על רבי שרחץ בתמוז והיינו מטעמא דרב פפא דלעיל דאמר רצו מתענין ולפי שלא היה שמד בימי רבי וזה תימא גדול בעיני שהרי י״ז בתמוז אינו תלוי ברצון שהרי לא תלו ברצון אלא ט׳ בתמוז שהי׳ מגזירה ראשונה של נביאים אבל י״ז בתמוז גזרה חדשה היא על חרבן בית שני שאל״כ למה מתענין אותו כלל ויש לנו לומר שלפי שהיו יודעים הנביאים חרבן בית ב׳ הניחו הצומות הראשונות כמ״ש לעיל ולפיכך כשהניחו תענית תמוז שיהיה צום בזמן השמד ושיהא ברצון בזמן שאין שמד לא על ט׳ בתמוז הניחוהו שהרי יודעין היו הבקיעה השניה שיהא עתידה להיות אלא עקרוהו ממקומו וקבעוהו בי״ז כי קשה היה הדבר שיתענו על הבקיעה הישנה ולא יתענו על החדשה שהיתה חמורה וקשה יותר וגם הי׳ קשה לגזור ב׳ תענית בחודש א׳ אלא כיון דשם בקיעה א׳ היא וגם שתיהן בחדש א׳ קבעו התענית על שתיהן בי״ז בו כבקיעה שניה שהיא אבל חדש ובהא לא שייך להשיב מהא דאמרינן שאין ב״ד יכול לבטל דברי ב״ד חבירו אא״כ גדול ממנו בחכמה ובמנין ואם פשט איסורו בכל ישראל אפילו אם יבא אליהו ויאמר אין שומעין לו ויום ט׳ בתמוז פשט בכל ישראל דהא ליתא דאלו מגזירת נביאים הראשונים לא היה אלא בגלות ראשון בלבד ודין הוא שיתבטלו בבנין בית שני אלא שעמדו נביאים האחרונים וקבעום בבית שני על דרך שאמרנו וכדרב פפא ובזה לא יקשה לנו מה שהקשו בתוס׳ על מ״ש במגילה דרבי בעא למעקר ט׳ באב ואע״פ שהי׳ מגזרת נביאים ופשט בכל ישראל וטעמא דמלתא כדאמרן שאף הוא נביאים האחרונים תלאוהו ברצון כדכתיבנא לעיל ואפשר עוד לומר שאף נביאים הראשונים שגזרו התענית יודעין היו בחרבן שני ולא קבעוהו בט׳ בו דוקא אלא בחדש זה שלא מצינו שנקרא אלא צום הד׳ אבל אין צריך לכך ומ״מ דבר ברור הוא שהתענית הזה אחר החרבן ביום י״ז בתמוז היה כמו שאנו נוהגין היום וכדמוכח מעובדא דרבי במס׳ מגילה וממתני׳ ובריתא דמס׳ תענית דתנן ה׳ דברים ארעו לאבותינו בי״ז בתמוז דודאי לפי שהוא יום תענית הביאוהו שם במס׳ תענית דבתר דשלים תנא עניני תענית שהציבור גוזרין איירי בתענית הקבועין על ישראל מתקנת נביאים ומה שלא הזכיר התנא צום הז׳ וצום העשירי לפי שלא ארעו בהם אלא צרות המופרשות בכתוב והזכיר צום הד׳ וצום החמישי מפני דברים שארעו בהם שאינן מפורשין בכתוב:",
+              "ref": "Ritva on Rosh Hashanah 18b:2",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ח ב:ב",
+              "sourceRef": "Ritva on Rosh Hashanah 18b:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>אי הכי</b> <span class=\"hebrew-emphasis\">[אם כך],</span> שהדבר תלוי ברצון הציבור בלבד, <b>תשעה באב נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> יהיה כשאר ימי הצום, שפעמים יצומו ופעמים לא יצומו, כפי רצון הציבור באותו זמן, ומדוע נאמר במשנה שעל תשעה באב יוצאים השלוחים? <b>אמר רב פפא: שאני</b> <span class=\"hebrew-emphasis\">[שונה]</span> <b>תשעה באב, הואיל והוכפלו בו צרות.</b> ש<b>אמר מר</b> <span class=\"hebrew-emphasis\">[החכם]:</span> <b>בתשעה באב חרב הבית ב</b>פעם ה<b>ראשונה וב</b>פעם ה<b>שניה, ו</b>ביום זה <b>נלכדה ביתר, ו</b>בו <b>נחרשה העיר</b> ירושלים בידי השונאים, שרצו לעשות סימן שלא תבנה עוד ולכן החמירו בו ביותר.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:ג",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:3"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הואיל והוכפלו בו הצרות</strong> - ביום שבעה עשר בתמוז נמי אירע חמשה דברים כדתנן בפרק בתרא דתענית <span class=\"parenthesized\">(דף כו.)</span> אבל חורבן בית המקדש תקיפא טובא ועוד לא דמי לט' באב דצרה אחת הוכפלה בו:",
+              "ref": "Tosafot on Rosh Hashanah 18b:3:1",
+              "sourceHeRef": "תוספות על ראש השנה י״ח ב:ג:א",
+              "sourceRef": "Tosafot on Rosh Hashanah 18b:3:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>If so, the Ninth of Av</b> should <b>also</b> be like the other fast days, that sometimes it is observed and sometimes not, depending upon the wishes of the community at the time. Why does the mishna state that messengers go out for the month of Av? <b><span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said: The Ninth of Av is different, since the calamities</b> that occurred on that day <b>were multiplied. As the Master said: On the Ninth of Av the Temple was destroyed,</b> both <b>the first</b> one <b>and the second</b> one; on this day the city of <b>Beitar was captured;</b> and on this day <b>the city</b> of Jerusalem <b>was plowed</b> over by the enemies of the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span>, as a sign that it would never be rebuilt. Consequently, the fast of the Ninth of Av is obligatory, and not optional like the other fasts. Messengers are consequently sent out so that people will know when to fast.",
+      "he": "אִי הָכִי, תִּשְׁעָה בְּאָב נָמֵי? אָמַר <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">רַב פָּפָּא</span>: שָׁאנֵי תִּשְׁעָה בְּאָב, הוֹאִיל וְהוּכְפְּלוּ בּוֹ צָרוֹת. דְּאָמַר מָר: בְּתִשְׁעָה בְּאָב חָרַב הַבַּיִת בָּרִאשׁוֹנָה וּבַשְּׁנִיָּה, וְנִלְכְּדָה בֵּיתָר, וְנֶחֶרְשָׁה הָעִיר.",
+      "ref": "Rosh Hashanah 18b:3"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואני אין דורש כמותו.</b> עיין בספר ברכי יוסף יו\"ד סי' רמב סעיף ג:",
+              "ref": "Gilyon HaShas on Rosh Hashanah 18b:1",
+              "sourceHeRef": "גליון הש\"ס על ראש השנה י״ח ב:א",
+              "sourceRef": "Gilyon HaShas on Rosh Hashanah 18b:1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "These days are the following:<br>The Third of Tishrei. This is the day on which Gedaliah ben Achikam was slain and the ember of Israel that remained was extinguished, causing their exile to become complete.<br>The Tenth of Tevet. This is the day Nebuchadnezzar, the wicked, the King of Babylon, camped against Jerusalem and placed the city under siege.<br>The Seventeenth of Tammuz. Five tragedies took place on this day:<br>a) The Tablets were broken;<br>b) In the First Temple, the offering of the daily sacrifices was nullified;<br>c) [The walls of] Jerusalem were breached in [the war leading to] the destruction of the Second Temple;<br>d) Apostmos, the wicked, burned a Torah scroll; and<br>e) He erected an idol in the Temple.",
+              "he": "וְאֵלּוּ הֵן יוֹם שְׁלִישִׁי בְּתִשְׁרֵי שֶׁבּוֹ נֶהֱרַג גְּדַלְיָה בֵּן אֲחִיקָם וְנִכְבַּת גַּחֶלֶת יִשְׂרָאֵל הַנִּשְׁאָרָה וְסִבֵּב לְהָתָם גָּלוּתָן. וַעֲשִׂירִי בְּטֵבֵת שֶׁבּוֹ סָמַךְ מֶלֶךְ בָּבֶל נְבוּכַדְנֶאצַּר הָרָשָׁע עַל יְרוּשָׁלַיִם וֶהֱבִיאָהּ בְּמָצוֹר וּבְמָצוֹק. וְי\"ז בְּתַמּוּז חֲמִשָּׁה דְּבָרִים אֵרְעוּ בּוֹ. נִשְׁתַּבְּרוּ הַלּוּחוֹת. וּבָטֵל הַתָּמִיד מִבַּיִת רִאשׁוֹן. וְהֻבְקְעָה יְרוּשָׁלַיִם בְּחֻרְבָּן שֵׁנִי. וְשָׂרַף אַפּוֹסְטוֹמוֹס הָרָשָׁע אֶת הַתּוֹרָה. וְהֶעֱמִיד צֶלֶם בַּהֵיכָל:",
+              "ref": "Mishneh Torah, Fasts 5:2",
+              "sourceHeRef": "הלכות תעניות ה:ב",
+              "sourceRef": "Fasts 5:2"
+            },
+            {
+              "en": "These four fasts are explicitly mentioned in the prophetic tradition [Zechariah 8:19]: \"The fast of the fourth [month], the fast of the fifth [month]....\" \"The fast of the fourth [month]\" refers to the Seventeenth of Tammuz, which is in the fourth month; \"the fast of the fifth [month],\" to Tish'ah B'Av, which is in the fifth month; \"the fast of the seventh [month],\" to the Third of Tishrei which is in the seventh month; \"the fast of the tenth [month],\" to the Tenth of Tevet, which is in the tenth month.",
+              "he": "וְאַרְבָּעָה יְמֵי הַצּוֹמוֹת הָאֵלּוּ הֲרֵי הֵן מְפֹרָשִׁין בַּקַּבָּלָה <span class=\"hebrew-emphasis\">(זכריה ח יט)</span> \"צוֹם הָרְבִיעִי וְצוֹם הַחֲמִישִׁי\" וְגוֹ'. צוֹם הָרְבִיעִי זֶה שִׁבְעָה עָשָׂר בְּתַמּוּז שֶׁהוּא בַּחֹדֶשׁ הָרְבִיעִי. וְצוֹם הַחֲמִישִׁי זֶה תִּשְׁעָה בְּאָב שֶׁהוּא בַּחֹדֶשׁ הַחֲמִישִׁי. וְצוֹם הַשְּׁבִיעִי זֶה שְׁלֹשָׁה בְּתִשְׁרֵי שֶׁהוּא בַּחֹדֶשׁ הַשְּׁבִיעִי. וְצוֹם הָעֲשִׂירִי זֶה עֲשָׂרָה בְּטֵבֵת שֶׁהוּא בַּחֹדֶשׁ הָעֲשִׂירִי:",
+              "ref": "Mishneh Torah, Fasts 5:4",
+              "sourceHeRef": "הלכות תעניות ה:ד",
+              "sourceRef": "Fasts 5:4"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "גירסת רוב הספרים: <b>צום הרביעי זה ט' בתמוז שבו הובקעה העיר. </b>וקרא נמי בט' לחודש כתיב <span class=\"parenthesized\">(ירמיה לט, ב)</span>. אבל בירושלמי <span class=\"parenthesized\">(תענית פ\"ד, ה\"ה)</span> דתמן גרסי לזה שבעה עשר בתמוז, ואקשו והא תשעה לחדש כתיב, ותרצו קלקול חשבונות היה שם, כלומר, ודאי בשבעה עשר היה גם בראשונה כמו בשניה, אלא מפני רוב הצרה טעו בחשבון ונתקלקלו בו וחשבו שהיה בתשעה לחדש, וקרא כי כתיב לחשבון העם כתיב.",
+              "ref": "Rashba on Rosh Hashanah 18b:4",
+              "sourceHeRef": "רשב״א על ראש השנה י״ח ב:ד",
+              "sourceRef": "Rashba on Rosh Hashanah 18b:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ארבעה דברים הללו כו'</strong> - וזו אחת מהן והג' שנויין בתוספתא דסוטה ובסיפרי בן אדם יושבי החרבות וגו' הצאן והבקר ישחט וגו' ותרא שרה את בן הגר המצרית וגו':",
+              "ref": "Rashi on Rosh Hashanah 18b:4:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ד:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> בענין הצומות הללו הרמוזים בדברי הנביא, נחלקו חכמים. <b>תניא</b> <span class=\"hebrew-emphasis\">[שנויה</span> ברייתא<span class=\"hebrew-emphasis\">]</span> <b>אמר ר' שמעון: ארבעה דברים היה ר' עקיבא</b> (רבו) <b>דורש, ואני אין דורש כמותו,</b> אלא דורש באופן אחר. ואחד השינויים הוא בענין זה, וכך פירש ר' עקיבא: <b>\"צום הרביעי\"</b> — זה <b>תשעה בתמוז שבו הובקעה העיר, שנאמר: \"</b>בחודש <b>הרביעי בתשעה לחדש ויחזק הרעב בעיר ולא היה לחם לעם הארץ ותבקע העיר\"</b> (ירמיה נב, ו-ז). <b>ואמאי קרי ליה</b> <span class=\"hebrew-emphasis\">[ומדוע קורא לו]</span> הנביא <b>\"</b>צום ה<b>רביעי\"</b> — מפני שהוא בתמוז, <b>רביעי לחדשים</b> מניסן.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:ד",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It is explained in the Jerusalem Talmud that the city was breached on the seventeenth of Tammuz during the destruction of the First Temple, just as it was during the destruction of the Second Temple. Subsequently, the people made a mistake and set the fast on the wrong date, on the ninth. However, it is understood in the Babylonian Talmud that the city was breached on the ninth of Tammuz in the time of the First Temple, but the Sages fixed the fast on the seventeenth because the second destruction was more severe and more relevant for later generations (see <i>Tosafot</i>). The Sages did not decree a fast on both the ninth and the seventeenth because they did not want to overburden the public (Ran). Rabbeinu Yehonatan writes that since both tragedies occurred in the fourth month, the Sages established only one fast day in the fourth month (see <i>Minĥat Ĥinukh</i>).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:4",
+              "sourceHeRef": "תִּשְׁעָה בְּתַמּוּז",
+              "sourceRef": "The ninth of Tammuz"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">זה תשעה בתמוז שבו הובקעה העיר</strong> - היינו בראשונה אבל בשניה הובקעה בי\"ז ומשום הכי עבדינן בי\"ז תענית והך ברייתא מתנינן בירושלמי וגרסי' בה י\"ז בתמוז ואע\"ג דכתיב בקרא בתשעה לחדש קלקול חשבונות היו שם ופליג אש\"ס דידן ורוצה לומר דמתוך טרדתם טעו בחשבונם ולא רצה הפסוק לשנות מכמו שהיו סבורים:",
+              "ref": "Tosafot on Rosh Hashanah 18b:4:1",
+              "sourceHeRef": "תוספות על ראש השנה י״ח ב:ד:א",
+              "sourceRef": "Tosafot on Rosh Hashanah 18b:4:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "Said Rabbi Shimon ben Yochai: There were four matters that Rabbi Akiva expounded upon [midrashically], but I prefer my own words to his. Rabbi Akiva expounded (Gen 21:9), \"And Sarah saw the son of Hagar the Egyptian that she bore to Abraham <i>m'tzachek</i> (lit., 'laughing' or 'sporting').\" <i>Laughter</i> is not what is being spoken of here; rather, idol worship, as it is said [during the sin of the golden calf] (Ex. 32:6), \"And the people sat down to eat and drink, and [then] they arose to sport (<i>l'tzachek</i>).\" It teaches that our Matriarch Sarah saw Ishmael building high places and hunting for locusts, and offering it up and turning it into smoke for idol worship. Rabbi Eliezer, the son of Rabbi Yosei HaGalili says, laughter (<i>tzachok</i>) is not spoken of here; rather sexual immorality, as it is said [in the matter of Potiphar's wife] (Gen 39:17), \"The [Hebrew] servant came to me, etc., to sport (<i>l'tzachek</i>) with me.\" It teaches that our Matriarch Sarah saw Ishmael trampling the gardens and afflicting the women. Rabbi Yishmael says, the word <i>tzachok</i> means nothing other than the spilling of blood, as it is said (2 Sam. 2:14-16), \"And Abner said to Joab, 'Let the young men arise and sport (<i>visachaku</i>) before us', etc. And they got up and they were counted by number, etc. And each man grabbed his neighbor by the head and [stuck] his sword into his neighbor's side, and they fell together.\" It teaches that our Matriarch Sarah was seeing Ishmael taking a bow and arrow and shooting them toward Isaac [as though in sport], as it is said (Prov. 26:19-20, JPS tr.), \"Like a madman scattering deadly firebrands, arrows, is one who cheats his fellow and says, 'I was only joking.'\" And I say, God forbid that there would be such things occurring in the house of this same tzaddik (i.e., Abraham)! Is it possible that the one for whom it is said (Gen. 18:19), \"For I have known him in order that he command [his sons and his household after him, that they shall heed the path of God, to perform righteousness and justice],\" that there would be idol worship, sexual immorality, and the spilling of blood in his household?! Rather, \"<i>tzachok</i>\" is only mentioned here in connection with inheritance, for from the time that our Patriarch Isaac was born to our Father Abraham, everyone was joyous, and they said, \"A son is born to Abraham! A son is born to Abraham!\" He had waited for so long, and he was given two portions. And Ishmael laughed to himself, and he said, \"Don't be foolish! Don't be foolish! I am the first-born and I will take both portions.\" Then, at the conclusion of the matter, you learn, as it is said (Gen. 21:10), \"for the son of this maidservant [shall not inherit with my son, with Isaac].\" And I prefer my words to the words of Rabbi Akiva.",
+              "he": "אמר ר\"ש בן יוחאי ארבעה דברים היה ר\"ע דורש ודברי נראין מדבריו דרש ר\"ע <span class=\"parenthesized\">(בראשית כ״א:ט׳)</span> ותרא שרה את בן הגר המצרית אשר ילדה לאברהם מצחק אין צחוק האמור כאן אלא עבודת כוכבים שנא' <span class=\"parenthesized\">(שמות לא)</span> וישב העם לאכול ושתו ויקומו לצחק מלמד שהיתה אמנו שרה רואה את ישמעאל בונה במסין וצד חגבים ומעלה ומקטיר לעבודת כוכבים ר\"א בנו של ר' יוסי הגלילי אומר אין צחוק האמור כאן אלא גילוי עריות שנא' <span class=\"parenthesized\">(בראשית ל״ט:י״ז)</span> בא אלי העבד וגו' לצחק בי מלמד שהיתה [אמנו שרה] רואה את ישמעאל מכבש את [הגנות] ומענה את הנשים ר' ישמעאל אומר אין לשון צחוק אלא שפיכות דמים שנא' <span class=\"parenthesized\">(שמואל ב ב׳:י״ד)</span> ויאמר אבנר אל יואב יקומו נא הנערים וישחקו לפנינו [וגו'] ויקומו ויעברו במספר [וגו'] ויחזיקו איש בראש רעהו וחרבו בצד רעהו ויפלו יחדיו מלמד שהיתה אמנו שרה רואה את ישמעאל נוטל קשת וחצים ומזרק כלפי יצחק שנא' <span class=\"parenthesized\">(משלי כ״ו:י״ט)</span> כמתלהלה היורה זקים וגו' כן איש רמה [וגו'] ואני אומר חס ושלום שיהיה בביתו של [אותו] צדיק ההוא כך. אפשר [למי] שנא' עליו <span class=\"parenthesized\">(בראשית י״ח:י״ט)</span> כי ידעתיו למען אשר יצוה וגו' יהא בביתו עבודת כוכבים [וגילו] עריות ושפיכות דמים אלא אין צחוק האמור כאן אלא לענין ירושה שכשנולד אבינו יצחק לאברהם אבינו היו הכל שמחין ואומרין נולד בן לאברהם [נולד בן לאברהם] נוחל את העולם ונוטל שני חלקים והיה ישמעאל מצחק [בדעתו] ואומר אל תהי שוטים [אל תהי שוטים] אני בכור ואני נוטל שני חלקים שמתשובת הדבר אתה למד [שנאמר] <span class=\"parenthesized\">(בראשית כ״א:י׳)</span> כי לא יירש בן האמה וגו' ורואה אני את דברי מדברי ר\"ע.",
+              "ref": "Tosefta Sotah 6:3",
+              "sourceHeRef": "תוספתא סוטה ו:ג",
+              "sourceRef": "Tosefta Sotah 6:3"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "By the ninth day of the fourth month, the famine had become acute in the city; there was no food left for the common people.",
+              "he": "בַּחֹ֤דֶשׁ הָרְבִיעִי֙ בְּתִשְׁעָ֣ה לַחֹ֔דֶשׁ וַיֶּחֱזַ֥ק הָרָעָ֖ב בָּעִ֑יר וְלֹא־הָיָ֥ה לֶ֖חֶם לְעַ֥ם הָאָֽרֶץ׃",
+              "link": "/Jeremiah/52",
+              "ref": "Jeremiah 52:6",
+              "sourceHeRef": "ירמיהו נב:ו",
+              "sourceRef": "Jeremiah 52:6"
+            }
+          ]
+        }
+      },
+      "en": "The Sages disagreed about the fasts alluded to in the words of the prophet, as <b>it is taught</b> in a <i>baraita</i>. <b><span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> said: <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> would expound four verses, but I would not expound</b> the texts <b>as he did.</b> One of the disputes relates to the fasts mentioned by <span href=\"/topics/zechariah\" class=\"namedEntityLink\" data-slug=\"zechariah\">Zechariah</span>. <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> would expound the verse as follows: <b>“The fast of the fourth,” this is the ninth of Tammuz, on which the city</b> of Jerusalem <b>was breached, as it is stated: “And in the fourth month, on the ninth day of the month, the famine was severe in the city, so that there was no bread for the people of the land. Then the city was breached”</b> (Jeremiah 52:6–7). <b>And why does</b> the prophet <b>call it</b> the fast of the <b>fourth?</b> Because it is in Tammuz, <b>the fourth of the months</b> when counting from Nisan.",
+      "he": "תַּנְיָא אָמַר <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">רַבִּי שִׁמְעוֹן</span>: אַרְבָּעָה דְּבָרִים הָיָה <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">רַבִּי עֲקִיבָא</span> דּוֹרֵשׁ, וַאֲנִי אֵין דּוֹרֵשׁ כְּמוֹתוֹ: ״צוֹם הָרְבִיעִי״ — זֶה תִּשְׁעָה בְּתַמּוּז שֶׁבּוֹ הוּבְקְעָה הָעִיר, שֶׁנֶּאֱמַר: ״בָּרְבִיעִי בְּתִשְׁעָה לַחֹדֶשׁ וַיֶּחֱזַק הָרָעָב בָּעִיר וְלֹא הָיָה לֶחֶם לְעַם הָאָרֶץ וַתִּבָּקַע הָעִיר״. וְאַמַּאי קָרֵי לֵיהּ ״רְבִיעִי״ — רְבִיעִי לֶחֳדָשִׁים.",
+      "ref": "Rosh Hashanah 18b:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">יִשְׁמָעֵאל</strong> (Biblical Hebrew) proper noun of a male person <i>Ishmael</i>, <br><b>1)</b> son of Abraham; also (as patron.) <i>the people of I.</i> <i>, Arabs, Bedouins</i>. [<span class=\"refLink\" data-ref=\"Aramaic Targum to Job 15:20\" href=\"/Aramaic_Targum_to_Job.15.20\">Targum Job XV, 20</span>, Variant in ed. Lag.]—<span class=\"refLink\" data-ref=\"Bereishit Rabbah 45:8\" href=\"/Bereishit_Rabbah.45.8\">Breishit Rabbah section (Parashah) 45</span> <span dir=\"rtl\">אף י׳ באומות I</span>., too, among the nations (was named before he was born, <span class=\"refLink\" data-ref=\"Genesis 16:11\" href=\"/Genesis.16.11\">Breishit XVI, 11</span>). <span class=\"refLink\" data-ref=\"Bava Batra 16b:16\" href=\"/Bava_Batra.16b.16\">Bava Batra 16ᵇ</span>; <span class=\"refLink\" data-ref=\"Bereishit Rabbah 59:7\" href=\"/Bereishit_Rabbah.59.7\">Breishit Rabbah section (Parashah) 59</span> <span dir=\"rtl\">שעשה י׳ תשובה וכ׳</span> in as much as I. repented of his evil deeds in his (Abraham’s) life-time; and from—<span class=\"refLink\" data-ref=\"Shabbat 11a:3\" href=\"/Shabbat.11a.3\">Shabbat 11ᵃ</span> <span dir=\"rtl\">תחת י׳ ולא וכ׳</span> (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 80 and Rashi and l.) rather under I. (Arabic dominion) than under Byzantium; and from [<span class=\"refLink\" data-ref=\"Pesachim 118b:19\" href=\"/Pesachim.118b.19\">Pesachim 118ᵇ</span> <span dir=\"rtl\">מלכות י׳</span> (Manuscript Munich and older eds. <span dir=\"rtl\">הרשעה</span>) a censorial change for <span class=\"refLink\" data-ref=\"Jastrow, רומי 1\" dir=\"rtl\" href=\"/Jastrow,_רומי.1\">רומי</span>, Roman government.] <br><b><br>—2)</b> I. ben Nathaniah, the murderer of governor Gedaliah. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:5\" href=\"/Rosh_Hashanah.18b.5\">Rosh Hashanah 18ᵇ</span>. <span class=\"refLink\" data-ref=\"Niddah 61a:48\" href=\"/Niddah.61a.48\">Niddah 61ᵃ</span>; and e. <br><b><br>—3)</b> I. b. Kimḥith, a high priest. <span class=\"refLink\" data-ref=\"Yoma 47a:12\" href=\"/Yoma.47a.12\">Yoma 47ᵃ</span>; <span class=\"refLink\" data-ref=\"Tosefta Yoma 4:9\" href=\"/Tosefta_Yoma.4.9\">Tosefta ib. IV</span> (<span class=\"refLink\" data-ref=\"Tosefta Yoma 3:20\" href=\"/Tosefta_Yoma.3.20\">III), 20</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יְשֵׁבָב 1\" dir=\"rtl\" href=\"/Jastrow,_יְשֵׁבָב.1\">יְשֵׁבָב</span> <br><b><br>—4)</b> I. b. Piabi or Pâbi, a priest. Tosefta ib. I, 21; Yerushalmi ib. III, 40ᵈ top; Bavli ib. 35ᵇ. <span class=\"refLink\" data-ref=\"Mishnah Sotah 9:15\" href=\"/Mishnah_Sotah.9.15\">Sotah IX, 15</span>; and e. <br><b><br>—5)</b> name of several Tannaim, especially a) I. b. Elisha, redeemed from Roman captivity. <span class=\"refLink\" data-ref=\"Gittin 58a:11\" href=\"/Gittin.58a.11\">Gittin 58ᵃ</span>. [<span class=\"refLink\" data-ref=\"Berakhot 7a:4\" href=\"/Berakhot.7a.4\">Berakhot 7ᵃ</span> top, probably his grandfather, a high priest.]—<span class=\"refLink\" data-ref=\"Mishnah Shevuot 2:5\" href=\"/Mishnah_Shevuot.2.5\">Shevuot II, 5</span>; and from—V. Friedman (edition) Darkhé, p. 105 sq. <br><b><br>—6)</b> I. son of R. Johanan b. B’roka. <span class=\"refLink\" data-ref=\"Mishnah Bava Kamma 10:2\" href=\"/Mishnah_Bava_Kamma.10.2\">Bava Kamma X, 2</span>. <span class=\"refLink\" data-ref=\"Tosefta Eduyot 2:4\" href=\"/Tosefta_Eduyot.2.4\">Tosefta Eduy. II, 4</span><br>; and from—V. Friedman (edition) ib., p. 185 sq.—7) name of several Amoraim. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Gittin 1:2:3\" href=\"Jerusalem_Talmud_Gittin.1.2.3\">Yerushalmi Gittin I, 43ᶜ</span> top; and from—<span class=\"refLink\" data-ref=\"Jerusalem Talmud Yoma 3:6:10\" href=\"Jerusalem_Talmud_Yoma.3.6.10\">Yerushalmi Yoma III, 40ᵈ</span> bottom of page—V. Friedman (edition) Frankel, Introductio in Talmud Hierosolymitanum. Breslau 1870 (Hebrew), p. 108ᵇ, sq."
+              ],
+              "he": [],
+              "ref": "Jastrow, יִשְׁמָעֵאל 1",
+              "sourceHeRef": "מילון יסטרוב, יִשְׁמָעֵאל א׳",
+              "sourceRef": "Jastrow, יִשְׁמָעֵאל 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">שְׂרֵפָה</strong>, <strong dir=\"rtl\">שְׂרֵי׳</strong> f. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, שָׂרַף I 1\" href=\"/Jastrow,_שָׂרַף I.1\"><span dir=\"rtl\">שָׂרַף</span> I)</span> <i>burning, fire</i>. <span class=\"refLink\" data-ref=\"Mishnah Sanhedrin 7:1\" href=\"/Mishnah_Sanhedrin.7.1\">Sanhedrin VII, 1</span> <span dir=\"rtl\">ארבע מיתות … ש׳ וכ׳</span> four modes of capital punishment …, stoning, burning &c. (explained <span class=\"refLink\" data-ref=\"Mishnah Sanhedrin 7:2\" href=\"/Mishnah_Sanhedrin.7.2\">ib. 2</span>). Ib. 52ᵃ <span dir=\"rtl\">שְׂרֵיפַת נשמה</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נְשָׁמָה 1\" dir=\"rtl\" href=\"/Jastrow,_נְשָׁמָה.1\">נְשָׁמָה</span>. Ib. <span dir=\"rtl\">ש׳ ממש</span> execution by fire in its real sense. <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 1:3\" href=\"/Mishnah_Avodah_Zarah.1.3\">Pirkei Avot Zar. I, 3</span> <span dir=\"rtl\">כל מיתה שיש בה ש׳ וכ׳</span> the anniversary of an idolater’s death with which burning (of garments &c.) was connected (at the time of burial) is considered an idolatrous festival. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 11:1\" href=\"/Bamidbar_Rabbah.11.1\">Bamidabar Rabbah section (Parashah) 11</span>, see <span class=\"refLink\" data-ref=\"Jastrow, קָלוֹן II 1\" href=\"/Jastrow,_קָלוֹן II.1\"><span dir=\"rtl\">קָלוֹן</span> II</span>. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:5\" href=\"/Rosh_Hashanah.18b.5\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">שקולה … כשריפת בית וכ׳</span> the death of the righteous is equal to the burning of the Temple; and from—[<span class=\"refLink\" data-ref=\"Jerusalem Talmud Shabbat 14:3:8\" href=\"Jerusalem_Talmud_Shabbat.14.3.8\">Yerushalmi Shabbat XIV, 14ᶜ</span> bottom of page <span dir=\"rtl\">שריפה</span>, see <span class=\"refLink\" data-ref=\"Jastrow, שְׂרִיפָה 1\" dir=\"rtl\" href=\"/Jastrow,_שְׂרִיפָה.1\">שְׂרִיפָה</span>.]—plural <span dir=\"rtl\">שְׂרֵיפוֹת</span>. <span class=\"refLink\" data-ref=\"Pesachim 75a:13\" href=\"/Pesachim.75a.13\">Pesachim 75ᵃ</span> (reference. to <span class=\"refLink\" data-ref=\"Leviticus 21:9\" href=\"/Leviticus.21.9\">Vayikra XXI, 9</span>) <span dir=\"rtl\">תשרף לרבות כל ש׳ הבאות וכ׳</span> ‘shall be burned’, this includes all burnings which are the result of fire (e.g. death through molten lead). <span class=\"refLink\" data-ref=\"Vayikra Rabbah 16:4\" href=\"/Vayikra_Rabbah.16.4\">Vayikra Rabbah section (Parashah) 16</span> <span dir=\"rtl\">בוא וראה כמה ש׳ הוא שורף</span> come and see how many fires it (the tongue) kindles (how much destruction it causes); and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, שְׂרֵפָה 1",
+              "sourceHeRef": "מילון יסטרוב, שְׂרֵפָה א׳",
+              "sourceRef": "Jastrow, שְׂרֵפָה 1"
+            }
+          ]
+        },
+        "Kli Yakar": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ויחנו על הירדן מבית הישמת עד אבל השטים. </b>על צד הרמז יש לפרש שלכך הזכיר שני קצוות אלו לפי שפרשה זו מדברת ממיתת אהרן, ואמרו רז\"ל <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(ר\"ה יח:)</span></span> ששקולה מיתת הצדיקים כשריפת בית אלהינו ודבר זה יש בו רמז בתחילת הפרשה וימת שם בשנת הארבעים וגו' בחודש החמישי באחד לחודש, הוא חודש אב שבו נשריפה בית אלהינו והוקבע לבכיה לדורות מזמן המרגלים כדי להורות ששנים אלו שקולים על כן נזדמנו בחודש אחד, וזהו הרמוז מבית הישימות כי הוא לשון שממה וחרבן הבית, ואבל השיטים הוא לשון ארז ורמז אל הזמן שנתאבלו בו על הצדיק שנמשל ארז, ונזדמנו שניהם לפונדק אחד, וחבור שני קצוות אלו מורה ששקולים המה כאלו הקצה האחד היה מרגיש אבל השיטים דהיינו האבילות על נפש הצדיק, והקצה השני היה מרגיש בצער בית הישימות.",
+              "ref": "Kli Yakar on Numbers 33:49:1",
+              "sourceHeRef": "כלי יקר על במדבר לג:מט:א",
+              "sourceRef": "Kli Yakar on Numbers 33:49:1"
+            }
+          ]
+        },
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ובתשרי נהרג גדליהו בן אחיקם ובטבת סמך מלך בבל נמצאו הדברים הללו שלא על הסדר כי אחרי שנלכדה העיר ונשרף הבית מזכיר סמיכת החיילות על ירושלים ואע\"פ שהוא על הסדר לסדר החדשים שמחשב רביעי תמוז. ואב חמישי ותשרי שביעי וטבת עשירי הפורעניות אינן על הסדר שמאחר הסמיכה מן השרפה ואני מונה לסדר חדשים ולסדר פורעניות על הסדר. בחדש הרביעי הובקעה העיר ובחמישי נלכדה ובשביעי נהרג גדליה בן אחיקם ובעשירי באת שמועת הפורענות הללו בגולה בבבל ועשו יום שמועה כיום שרפה:<br>",
+              "ref": "Rabbeinu Chananel on Rosh Hashanah 18b:3",
+              "sourceHeRef": "רבינו חננאל על מסכת ראש השנה י״ח ב:ג",
+              "sourceRef": "Rabbeinu Chananel on Rosh Hashanah 18b:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>\"צום החמישי\"</b> — <b>זה תשעה באב, שבו נשרף בית אלהינו. ואמאי קרי ליה</b> <span class=\"hebrew-emphasis\">[ומדוע קורא לו]</span> <b>\"</b>צום ה<b>חמישי\"</b> — כי הוא ב<b>חמישי לחדשים. \"צום השביעי\"</b> — <b>זה שלשה בתשרי שבו נהרג גדליה בן אחיקם. ומי הרגו</b> — <b>ישמעאל בן נתניה הרגו, ללמדך</b> על ידי קביעת התענית ביום זה <b>ששקולה מיתתן של צדיקים כשריפת בית אלהינו</b> שאף על כך קבעו תענית לדורות. <b>ואמאי קרי ליה</b> <span class=\"hebrew-emphasis\">[ומדוע קורא לו]</span> הנביא <b>\"</b>צום ה<b>שביעי\"</b> — שהוא תשרי <b>שביעי לחדשים.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:ה",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The <i>Turei Even</i> asks why the Gemara questions the details of an event that is explicit in the Bible. Some explain that this teaches that although Ishmael acted under orders from the king of the Ammonites, nevertheless the crime is attributed to the one who actually perpetrated it (Rabbi Shlomo HaKohen). Alternatively, the verse states that he was the leader of those who killed Gedaliah but does not state explicitly that Ishmael himself did the deed. Therefore, the Gemara teaches that it was Ishmael himself who killed Gedaliah (<i>Arukh LaNer</i>). <i>Penei Yehoshua</i> explains that the Gemara’s question and answer come to emphasize and even explain the fast: Gedaliah was not like other righteous people who were killed by gentiles and whose death atones for the entire nation; rather, Gedaliah was killed by a Jew, which is an indictment of the nation. Therefore it is necessary to fast in order to remove the indictment.",
+              "he": "הטו\"א תמה על שאלה זו לגבי דבר המפורש במקרא. ויש מי שמתירץ שבא הדבר ללמדנו שאף שעשה זאת בשליחות מלך בני עמון, מכל מקום לגבי זה תולים הפשע במי שעשאו בפועל (ר' שלמה הכהן) או שהכתוב לא פירש שישמעאל עצמו הרג את גדליה אלא שעמד בראש הורגיו, ולמדנו שאת גדליה הרג הוא עצמו (על\"נ). ובפנ\"י מסביר שבא הדבר להדגיש ואף להסביר את הצום, שאין הוא כשאר צדיקים שהומתו על ידי גוים שמיתתם היא כפרה לישראל, אלא גדליה נהרג על ידי אדם מישראל, ויש בכך משום קטרוג על העם, ויש צורך לצום כדי לבטלו מעלינו.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:5",
+              "sourceHeRef": "וּמִי הֲרָגוֹ",
+              "sourceRef": "And who killed him"
+            },
+            {
+              "en": "Some bring a proof for this from the fact that the prophet explicitly equates the fast of the fifth and the fast of the tenth (Zechariah 7:5), implying that they are weighted equally (Rashash; see <i>Arukh LaNer</i>).",
+              "he": "ויש מי שמביא ראיה לדבר משום שהכתוב משווה במפורש צום החמישי וצום השביעי (זכריה ז, ה), משמע ששניהם שקולים (רש\"ש. וראה בעל\"נ).",
+              "ref": "Steinsaltz comment #2 on Rosh Hashanah 18b:5",
+              "sourceHeRef": "שְׁקוּלָהּ מִיתָתָן שֶׁל צַדִּיקִים",
+              "sourceRef": "The death of the righteous is equivalent"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>קרי ליה צום וקרי ליה שמחה כו'.</b> יש לדקדק ומאי קשיא ליה הא יהיה לששון ולשמחה כתיב והנביא זכריה בגלות בבל ניבא שאלו הצומות שהיו מתענין בבבל על חורבן מקדש ראשון יהיו לששון ולשמחה כשיבנה בית שני והכי מוכחי קראי וי\"ל דה\"ק קרי ליה מעיקרא צום שהיה בבבל וקרי ליה לבתר הכי שמחה דמשמע דכן יהיה לעולם דלא יהיה עוד צום אח\"כ והרי חזרנו לצום בחורבן בית שני וקאמר בזמן שיש שלום כו' נקט במלתיה שלום ואין שלום ר\"ל דוק בסיפא דהאי קרא והאמת והשלום אהבו ר\"ל דלא יהיה לששון ולשמחה רק עד זמן שאמת ושלום אהבו אבל באין עמכם אמת ושלום תחזרו לצום דהיינו בבית שני בזמן החורבן כמ\"ש בפ\"ק דיומא בית שני שהיה בו תורה וגמ\"ח מפני מה חרב מפני שהיה בו שנאת חנם וז\"ש מסיפא דקרא בזמן שיש ביניכם שלום יהיה לששון ולשמחה אין שלום דהיינו בחורבן בית שני שהיה בו שנאת חנם תחזרו לצום:",
+                      "ref": "Chidushei Agadot on Rosh Hashanah 18b:1",
+                      "sourceHeRef": "חידושי אגדות על ראש השנה י״ח ב:א",
+                      "sourceRef": "Chidushei Agadot on Rosh Hashanah 18b:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה זה תשעה באב כו' דנשרף בתשעה ובספר כו' ומשני דבשבעה לחודש כו' עכ\"ל כצ\"ל:",
+                      "ref": "Chidushei Halachot on Rosh Hashanah 18b:1",
+                      "sourceHeRef": "חדושי הלכות על ראש השנה י״ח ב:א",
+                      "sourceRef": "Chidushei Halachot on Rosh Hashanah 18b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">זה תשעה באב שבו נשרף</strong> - בפרק בתרא דתענית <span class=\"parenthesized\">(דף כט.)</span> רמי קראי אהדדי דבסוף מלכים כתיב דנשרף בשבעה ובספר ירמיה כתיב בעשור לחדש וישרוף וגו' ומשני דבז' לחדש נכנסו אויבים להיכל ואכלו ושתו בו [שביעי] שמיני ותשיעי עד שפנה היום לעתותי ערב הציתו בו האש ונשרף עד שקיעת החמה בעשור:",
+              "ref": "Tosafot on Rosh Hashanah 18b:5:1",
+              "sourceHeRef": "תוספות על ראש השנה י״ח ב:ה:א",
+              "sourceRef": "Tosafot on Rosh Hashanah 18b:5:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "Rabbi Akiva expounded, behold, it says (Zech. 8:19), \"Thus said the Lord, the fast of the fourth, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth [shall be for the House of Judah for joy and for happiness].\" The \"fast of the fourth\" -- that is the 17th of Tammuz, on which the city was breached. And why is its name called \"fourth\"? Because it is the fourth of the months (i.e., starting with Nissan). The \"fast of the fifth\" -- that is the 9th of Av, the day that the Holy Temple was burned. And why is its named called \"fifth\"? Because it is the fifth month. The \"fast of the seventh\" -- that is the 3rd of Tishrei, the day that Gedaliah ben Achikam was killed, that Ishmael ben Nethaniah killed him, to teach you that the deaths of the righteous are just as difficult before the Place as the destruction of the Holy Temple. And why is its named called \"seventh\"? Because it is in the seventh month. The \"fast of the tenth\" -- that is the 10th of Tevet, the day in which the King of Babylonia placed his hand on Jerusalem, as it is said (Ez. 24:1-2), \"And the word of God came to me in the ninth year, in the tenth month, [on the 10th of the month]: 'Son of Man, write down [this date], etc.\" And I say, the fast of the tenth, that is the 5th of Tevet, in which the report reached the children of the exile, as it is said (Ez. 33:21), \"And it was in the twelfth year, on the tenth [month], on the fifth of the month, a fugitive from Jerusalem came to me [saying, 'The city has fallen.']\" When they heard [the report], they made the day of hearing like the day of the burning [of the Temple]. And is it not proper to write of the first [events first]? And why is [the hearing of the report] written last? So as to order the months in accordance with their [historical] order (i.e., the destruction preceding the news reaching Babylonia). And I prefer my words to the words of Rabbi Akiva, for Rabbi Akiva speaks about first things last, and about last things first, and I speak about first things first, and about last things last.",
+              "he": "דרש ר\"ע הרי הוא אומר <span class=\"parenthesized\">(זכריה ח׳:י״ט)</span> כה אמר ה' צום הרביעי וצום החמישי וצום השביעי וצום העשירי וגו' צום הרביעי [זה י\"ז בתמוז] שבו הובקעה העיר ולמה נקרא שמו רביעי שהוא רביעי לחדשים צום החמישי [זו] ט' באב יום שנשרף בו [בה\"מ] ולמה נקרא שמו חמישי שהוא [חדש] חמישי צום השביעי זה שלשה בתשרי יום שנהרג בו גדליה בן אחיקם [שהרגו ישמעאל בן נתניה ללמדך שקשה מיתתן של צדיקים לפני המקום כחורבן בה\"מ] ולמה נקרא שמו שביעי שהוא [בחדש] שביעי צום העשירי זה עשרה בטבת [יום] שבו סמך מלך בבל את ידו על ירושלים שנאמר <span class=\"parenthesized\">(יחזקאל כ״ד:א׳)</span> ויהי דבר ה' אלי בשנה התשיעית בחדש העשירי וגו' בן אדם כתב לך [וגו' ואני אומר] צום העשירי זה חמשה בטבת שבו באתה שמועה לבני גולה שנאמר <span class=\"parenthesized\">(יחזקאל ל״ג:כ״א)</span> ויהי בשתי עשרה שנה בעשירי בחמישי לחדש לגלותינו בא אלי הפליט [וגו' שמעו] ועשו יום שמועה כיום שרפה [והלא זה ראוי לכתב ראשונה למה נכתב באחרונה להסדיר חדשים כסדרן ורואה אני את דברי מדברי ר\"ע שר\"ע אומר על ראשון אחרון ועל אחרון ראשון ואני אומר על ראשון ראשון ועל אחרון אחרון].",
+              "ref": "Tosefta Sotah 6:7",
+              "sourceHeRef": "תוספתא סוטה ו:ז",
+              "sourceRef": "Tosefta Sotah 6:7"
+            },
+            {
+              "en": "Rabbi expounded: Behold [Rabbi Akiva] says (Zachariah 8:19), \"So says the Lord [...], 'The fast of the fourth, [the fast of the fifth], the fast of the seventh, and the fast of the tenth, etc.'\" The fast of the fourth is the Seventeenth of Tammuz, on which the city was breached. So why is its name called the Fourth? As it was the fourth month. The fast of the fifth is the Ninth of Av, the day upon which the Temple was burnt down. So why is its name called the Fifth? As it was the fifth month. The fast of the seventh is the third of Tishrei, the day upon which they killed Gedaliah ben Aḥikam; for Yishamel ben Netaniah killed him. That is to teach you that the day of a righteous person's death is as difficult before the Omnipresent as the destruction of the Temple. So why is its name called the Seventh? As it was the seventh month. The fast of the tenth is the Tenth of Tevet, the day when the King of Babylonia closed in on Jerusalem, as it is stated (Ezekiel 24:1-2), \"And the word of the Lord came to me in the ninth year, in the tenth month, etc. 'Son of man, write, etc.'\"",
+              "he": "דרש רבי, הרי הוא אומר כה אמר ה' צום הרביעי וצום השביעי וצום העשירי וגומר. צום הרביעי, זה שבעה עשר בתמוז, שבו הבקעה העיר, ולמה נקרא שמו רביעי, שהוא רביעי לחדשים. צום החמישי, זו תשעה באב, יום שנשרף בו בית המקדש, ולמה נקרא שמו חמישי, שהוא חדש חמישי. צום השביעי, זה שלשה בתשרי, יום שנהרג בו גדליה בן אחיקם, שהרגו ישמעאל בן נתנ', ללמדך שקשה מיתתן של צדיקי' לפני המקו' כחורבן בית המקדש, ולמה נקר' שמו שביעי, שהוא חדש שביעי. צום העשירי, זה עשרה בטבת, יום שבו סמך מלך בבל את ידו על ירושלם, שנאמר ויהי דבר ה' אלי בשנה התשיעית בחדש העשירי וגומר בן אדם כתב לך וגומר.",
+              "ref": "Tosefta Sotah (Lieberman) 6:10",
+              "sourceHeRef": "תוספתא סוטה (ליברמן) ו:י",
+              "sourceRef": "Tosefta Sotah (Lieberman) 6:10"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "In the seventh month, Ishmael son of Nethaniah son of Elishama, who was of royal descent, came with ten men, and they struck down Gedaliah and he died; [they also killed] the Judeans and the Chaldeans who were present with him at Mizpah.",
+              "he": "וַיְהִ֣י <b>׀</b> בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בָּ֣א יִשְׁמָעֵ֣אל בֶּן־נְ֠תַנְיָ֠ה בֶּן־אֱלִ֨ישָׁמָ֜ע מִזֶּ֣רַע הַמְּלוּכָ֗ה וַעֲשָׂרָ֤ה אֲנָשִׁים֙ אִתּ֔וֹ וַיַּכּ֥וּ אֶת־גְּדַלְיָ֖הוּ וַיָּמֹ֑ת וְאֶת־הַיְּהוּדִים֙ וְאֶת־הַכַּשְׂדִּ֔ים אֲשֶׁר־הָי֥וּ אִתּ֖וֹ בַּמִּצְפָּֽה׃",
+              "link": "/II Kings/25",
+              "ref": "II Kings 25:25",
+              "sourceHeRef": "מלכים ב כה:כה",
+              "sourceRef": "II Kings 25:25"
+            },
+            {
+              "en": [
+                "In the seventh month, Ishmael son of Nethaniah son of Elishama, who was of royal descent and one of the king’s commanders, came with ten men to Gedaliah son of Ahikam at Mizpah; and they ate together there at Mizpah.",
+                "Then Ishmael son of Nethaniah and the ten men who were with him arose and struck down Gedaliah son of Ahikam son of Shaphan with the sword and killed him, because the king of Babylon had put him in charge of the land.",
+                "Ishmael also killed all the Judeans who were with him—with Gedaliah in Mizpah—and the Chaldean soldiers who were stationed there.",
+                "The second day after Gedaliah was killed, when no one yet knew about it,",
+                "eighty men came from Shechem, Shiloh, and Samaria, their beards shaved, their garments torn, and their bodies gashed, carrying meal offerings and frankincense to present at the House of the L<small>ORD</small>.",
+                "Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he walked. As he met them, he said to them, “Come to Gedaliah son of Ahikam.”",
+                "When they came inside the town, Ishmael son of Nethaniah and the men who were with him slaughtered them [and threw their bodies] into a cistern.",
+                "But there were ten men among them who said to Ishmael, “Don’t kill us! We have stores hidden in a field—wheat, barley, oil, and honey.” So he stopped, and did not kill them along with their fellows.—",
+                "The cistern into which Ishmael threw all the corpses of the men he had killed in the affair of Gedaliah was the one that King Asa had constructed on account of King Baasha of Israel. That was the one which Ishmael son of Nethaniah filled with corpses.—",
+                "Ishmael carried off all the rest of the people who were in Mizpah, including the daughters of the king—all the people left in Mizpah, over whom Nebuzaradan, the chief of the guards, had appointed Gedaliah son of Ahikam. Ishmael son of Nethaniah carried them off, and set out to cross over to the Ammonites.",
+                "Johanan son of Kareah, and all the army officers with him, heard of all the crimes committed by Ishmael son of Nethaniah.",
+                "They took all their men and went to fight against Ishmael son of Nethaniah; and they encountered him by the great pool in Gibeon.",
+                "When all the people held by Ishmael saw Johanan son of Kareah and all the army officers with him, they were glad;",
+                "all the people whom Ishmael had carried off from Mizpah turned back and went over to Johanan son of Kareah.",
+                "But Ishmael son of Nethaniah escaped from Johanan with eight men, and went to the Ammonites.",
+                "Johanan son of Kareah and all the army officers with him took all the rest of the people whom he had rescued from Ishmael son of Nethaniah from Mizpah after he had murdered Gedaliah son of Ahikam—the men, soldiers, women, children, and eunuchs whom [Johanan] had brought back from Gibeon.",
+                "They set out, and they stopped at Geruth Chimham, near Bethlehem, on their way to go to Egypt",
+                "because of the Chaldeans. For they were afraid of them, because Ishmael son of Nethaniah had killed Gedaliah son of Ahikam, whom the king of Babylon had put in charge of the land."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Jeremiah 41:1",
+                "Jeremiah 41:2",
+                "Jeremiah 41:3",
+                "Jeremiah 41:4",
+                "Jeremiah 41:5",
+                "Jeremiah 41:6",
+                "Jeremiah 41:7",
+                "Jeremiah 41:8",
+                "Jeremiah 41:9",
+                "Jeremiah 41:10",
+                "Jeremiah 41:11",
+                "Jeremiah 41:12",
+                "Jeremiah 41:13",
+                "Jeremiah 41:14",
+                "Jeremiah 41:15",
+                "Jeremiah 41:16",
+                "Jeremiah 41:17"
+              ],
+              "he": [
+                "וַיְהִ֣י <b>׀</b> בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֗י בָּ֣א יִשְׁמָעֵ֣אל בֶּן־נְתַנְיָ֣ה בֶן־אֱלִישָׁמָ֣ע מִזֶּ֣רַע הַ֠מְּלוּכָ֠ה וְרַבֵּ֨י הַמֶּ֜לֶךְ וַעֲשָׂרָ֨ה אֲנָשִׁ֥ים אִתּ֛וֹ אֶל־גְּדַלְיָ֥הוּ בֶן־אֲחִיקָ֖ם הַמִּצְפָּ֑תָה וַיֹּ֨אכְלוּ שָׁ֥ם לֶ֛חֶם יַחְדָּ֖ו בַּמִּצְפָּֽה׃",
+                "וַיָּ֩קׇם֩ יִשְׁמָעֵ֨אל בֶּן־נְתַנְיָ֜ה וַעֲשֶׂ֥רֶת הָֽאֲנָשִׁ֣ים <b>׀</b> אֲשֶׁר־הָי֣וּ אִתּ֗וֹ וַ֠יַּכּ֠וּ אֶת־גְּדַלְיָ֨הוּ בֶן־אֲחִיקָ֧ם בֶּן־שָׁפָ֛ן בַּחֶ֖רֶב וַיָּ֣מֶת אֹת֑וֹ אֲשֶׁר־הִפְקִ֥יד מֶלֶךְ־בָּבֶ֖ל בָּאָֽרֶץ׃",
+                "וְאֵ֣ת כׇּל־הַיְּהוּדִ֗ים אֲשֶׁר־הָי֨וּ אִתּ֤וֹ אֶת־גְּדַלְיָ֙הוּ֙ בַּמִּצְפָּ֔ה וְאֶת־הַכַּשְׂדִּ֖ים אֲשֶׁ֣ר נִמְצְאוּ־שָׁ֑ם אֵ֚ת אַנְשֵׁ֣י הַמִּלְחָמָ֔ה הִכָּ֖ה יִשְׁמָעֵֽאל׃",
+                "וַיְהִ֛י בַּיּ֥וֹם הַשֵּׁנִ֖י לְהָמִ֣ית אֶת־גְּדַלְיָ֑הוּ וְאִ֖ישׁ לֹ֥א יָדָֽע׃",
+                "וַיָּבֹ֣אוּ אֲ֠נָשִׁ֠ים מִשְּׁכֶ֞ם מִשִּׁל֤וֹ וּמִשֹּֽׁמְרוֹן֙ שְׁמֹנִ֣ים אִ֔ישׁ מְגֻלְּחֵ֥י זָקָ֛ן וּקְרֻעֵ֥י בְגָדִ֖ים וּמִתְגֹּֽדְדִ֑ים וּמִנְחָ֤ה וּלְבוֹנָה֙ בְּיָדָ֔ם לְהָבִ֖יא בֵּ֥ית יְהֹוָֽה׃",
+                "וַ֠יֵּצֵ֠א יִשְׁמָעֵ֨אל בֶּן־נְתַנְיָ֤ה לִקְרָאתָם֙ מִן־הַמִּצְפָּ֔ה הֹלֵ֥ךְ הָלֹ֖ךְ וּבֹכֶ֑ה וַֽיְהִי֙ כִּפְגֹ֣שׁ אֹתָ֔ם וַיֹּ֣אמֶר אֲלֵיהֶ֔ם בֹּ֖אוּ אֶל־גְּדַלְיָ֥הוּ בֶן־אֲחִיקָֽם׃",
+                "וַיְהִ֕י כְּבוֹאָ֖ם אֶל־תּ֣וֹךְ הָעִ֑יר וַיִּשְׁחָטֵ֞ם יִשְׁמָעֵ֤אל בֶּן־נְתַנְיָה֙ אֶל־תּ֣וֹךְ הַבּ֔וֹר ה֖וּא וְהָאֲנָשִׁ֥ים אֲשֶׁר־אִתּֽוֹ׃",
+                "וַעֲשָׂרָ֨ה אֲנָשִׁ֜ים נִמְצְאוּ־בָ֗ם וַיֹּאמְר֤וּ אֶל־יִשְׁמָעֵאל֙ אַל־תְּמִתֵ֔נוּ כִּֽי־יֶשׁ־לָ֤נוּ מַטְמֹנִים֙ בַּשָּׂדֶ֔ה חִטִּ֥ים וּשְׂעֹרִ֖ים וְשֶׁ֣מֶן וּדְבָ֑שׁ וַיֶּחְדַּ֕ל וְלֹ֥א הֱמִיתָ֖ם בְּת֥וֹךְ אֲחֵיהֶֽם׃",
+                "וְהַבּ֗וֹר אֲשֶׁר֩ הִשְׁלִ֨יךְ שָׁ֤ם יִשְׁמָעֵאל֙ אֵ֣ת <b>׀</b> כׇּל־פִּגְרֵ֣י הָאֲנָשִׁ֗ים אֲשֶׁ֤ר הִכָּה֙ בְּיַד־גְּדַלְיָ֔הוּ ה֗וּא אֲשֶׁ֤ר עָשָׂה֙ הַמֶּ֣לֶךְ אָסָ֔א מִפְּנֵ֖י בַּעְשָׁ֣א מֶלֶךְ־יִשְׂרָאֵ֑ל אֹת֗וֹ מִלֵּ֛א יִשְׁמָעֵ֥אל בֶּן־נְתַנְיָ֖הוּ חֲלָלִֽים׃",
+                "וַיִּ֣שְׁבְּ <span class=\"hebrew-emphasis\">׀</span> יִ֠שְׁמָעֵ֠אל אֶת־כׇּל־שְׁאֵרִ֨ית הָעָ֜ם אֲשֶׁ֣ר בַּמִּצְפָּ֗ה אֶת־בְּנ֤וֹת הַמֶּ֙לֶךְ֙ וְאֶת־כׇּל־הָעָם֙ הַנִּשְׁאָרִ֣ים בַּמִּצְפָּ֔ה אֲשֶׁ֣ר הִפְקִ֗יד נְבֽוּזַרְאֲדָן֙ רַב־טַבָּחִ֔ים אֶת־גְּדַלְיָ֖הוּ בֶּן־אֲחִיקָ֑ם וַיִּשְׁבֵּם֙ יִשְׁמָעֵ֣אל בֶּן־נְתַנְיָ֔ה וַיֵּ֕לֶךְ לַעֲבֹ֖ר אֶל־בְּנֵ֥י עַמּֽוֹן׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "וַיִּשְׁמַע֙ יוֹחָנָ֣ן בֶּן־קָרֵ֔חַ וְכׇל־שָׂרֵ֥י הַחֲיָלִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ אֵ֤ת כׇּל־הָרָעָה֙ אֲשֶׁ֣ר עָשָׂ֔ה יִשְׁמָעֵ֖אל בֶּן־נְתַנְיָֽה׃",
+                "וַיִּקְחוּ֙ אֶת־כׇּל־הָ֣אֲנָשִׁ֔ים וַיֵּ֣לְכ֔וּ לְהִלָּחֵ֖ם עִם־יִשְׁמָעֵ֣אל בֶּן־נְתַנְיָ֑ה וַיִּמְצְא֣וּ אֹת֔וֹ אֶל־מַ֥יִם רַבִּ֖ים אֲשֶׁ֥ר בְּגִבְעֽוֹן׃",
+                "וַיְהִ֗י כִּרְא֤וֹת כׇּל־הָעָם֙ אֲשֶׁ֣ר אֶת־יִשְׁמָעֵ֔אל אֶת־יֽוֹחָנָן֙ בֶּן־קָרֵ֔חַ וְאֵ֛ת כׇּל־שָׂרֵ֥י הַחֲיָלִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ וַיִּשְׂמָֽחוּ׃",
+                "וַיָּסֹ֙בּוּ֙ כׇּל־הָעָ֔ם אֲשֶׁר־שָׁבָ֥ה יִשְׁמָעֵ֖אל מִן־הַמִּצְפָּ֑ה וַיָּשֻׁ֙בוּ֙ וַיֵּ֣לְכ֔וּ אֶל־יוֹחָנָ֖ן בֶּן־קָרֵֽחַ׃",
+                "וְיִשְׁמָעֵ֣אל בֶּן־נְתַנְיָ֗ה נִמְלַט֙ בִּשְׁמֹנָ֣ה אֲנָשִׁ֔ים מִפְּנֵ֖י יוֹחָנָ֑ן וַיֵּ֖לֶךְ אֶל־בְּנֵ֥י עַמּֽוֹן׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "וַיִּקַּח֩ יוֹחָנָ֨ן בֶּן־קָרֵ֜חַ וְכׇל־שָׂרֵ֧י הַחֲיָלִ֣ים אֲשֶׁר־אִתּ֗וֹ אֵ֣ת כׇּל־שְׁאֵרִ֤ית הָעָם֙ אֲשֶׁ֣ר הֵ֠שִׁ֠יב מֵאֵ֨ת יִשְׁמָעֵ֤אל בֶּן־נְתַנְיָה֙ מִן־הַמִּצְפָּ֔ה אַחַ֣ר הִכָּ֔ה אֶת־גְּדַלְיָ֖ה בֶּן־אֲחִיקָ֑ם גְּבָרִ֞ים אַנְשֵׁ֣י הַמִּלְחָמָ֗ה וְנָשִׁ֤ים וְטַף֙ וְסָ֣רִסִ֔ים אֲשֶׁ֥ר הֵשִׁ֖יב מִגִּבְעֽוֹן׃",
+                "וַיֵּֽלְכ֗וּ וַיֵּֽשְׁבוּ֙ בְּגֵר֣וּת <span class=\"mam-kq\"><span class=\"mam-kq-k\"><span class=\"parenthesized\">(כמוהם)</span></span> <span class=\"mam-kq-q\">[כִּמְהָ֔ם]</span></span> אֲשֶׁר־אֵ֖צֶל בֵּ֣ית לָ֑חֶם לָלֶ֖כֶת לָב֥וֹא מִצְרָֽיִם׃",
+                "מִפְּנֵי֙ הַכַּשְׂדִּ֔ים כִּ֥י יָֽרְא֖וּ מִפְּנֵיהֶ֑ם כִּֽי־הִכָּ֞ה יִשְׁמָעֵ֣אל בֶּן־נְתַנְיָ֗ה אֶת־גְּדַלְיָ֙הוּ֙ בֶּן־אֲחִיקָ֔ם אֲשֶׁר־הִפְקִ֥יד מֶלֶךְ־בָּבֶ֖ל בָּאָֽרֶץ׃ <span class=\"mam-spi-pe\">{פ}</span><br>"
+              ],
+              "link": "/Jeremiah/41",
+              "ref": "Jeremiah 41",
+              "sourceHeRef": "ירמיהו מ״א",
+              "sourceRef": "Jeremiah 41"
+            }
+          ]
+        }
+      },
+      "en": "<b>“The fast of the fifth,” this is the Ninth of Av, on which the Temple of our Lord was burnt. And why does he call it</b> the fast of the <b>fifth?</b> Because it falls in the <b>fifth of the months. “The fast of the seventh,” this is the third of Tishrei, on which <span href=\"/topics/gedaliah\" class=\"namedEntityLink\" data-slug=\"gedaliah\">Gedaliah, son of Ahikam</span>, was killed. And who killed him? <span href=\"/topics/yishmael-ben-netanyah\" class=\"namedEntityLink\" data-slug=\"yishmael-ben-netanyah\">Ishmael, son of Nethaniah</span>, killed him</b> (see II Kings 25:25; Jeremiah, chapter 41). The Sages established a fast to commemorate <span href=\"/topics/gedaliah\" class=\"namedEntityLink\" data-slug=\"gedaliah\">Gedaliah</span>’s death <b>to teach you that the death of the righteous is equivalent to the burning of the Temple of our Lord. And why did</b> the prophet <b>call it</b> the fast of the <b>seventh?</b> Because Tishrei is the <b>seventh of the months.</b>",
+      "he": "״צוֹם הַחֲמִישִׁי״ — זֶה תִּשְׁעָה בְּאָב, שֶׁבּוֹ נִשְׂרַף בֵּית אֱלֹהֵינוּ. וְאַמַּאי קָרֵי לֵיהּ ״חֲמִישִׁי״ — חֲמִישִׁי לֶחֳדָשִׁים. צוֹם הַשְּׁבִיעִי — זֶה שְׁלֹשָׁה בְּתִשְׁרִי, שֶׁבּוֹ נֶהֱרַג <span href=\"/topics/gedaliah\" class=\"namedEntityLink\" data-slug=\"gedaliah\">גְּדַלְיָה בֶּן אֲחִיקָם</span>. וּמִי הֲרָגוֹ — <span href=\"/topics/yishmael-ben-netanyah\" class=\"namedEntityLink\" data-slug=\"yishmael-ben-netanyah\">יִשְׁמָעֵאל בֶּן נְתַנְיָה</span> הֲרָגוֹ, לְלַמֶּדְךָ שֶׁשְּׁקוּלָה מִיתָתָן שֶׁל צַדִּיקִים כִּשְׂרֵיפַת בֵּית אֱלֹהֵינוּ. וְאַמַּאי קָרֵי לֵיהּ ״שְׁבִיעִי״ — שְׁבִיעִי לֶחֳדָשִׁים.",
+      "ref": "Rosh Hashanah 18b:5"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "It was in the sixth year, on the sixth day of the fifth month, that I was sitting in my house, etc. (Ezekiel 8:1). This teaches that that year was a leap year. And \"the hand of the Lord fell upon me there\" (Ezekiel 8:1). At that time, God showed Ezekiel the glory of the Shechinah departing from the temple, and the cherubim lifted their wings and rose from the earth (Ezekiel 10:19). And it is said, \"And the glory of the Lord went up from the midst of the city\" (Ezekiel 11:23). You find that there were ten journeys of the Shechinah.",
+              "he": "ויהי בשלשים שנה וגו' <span class=\"parenthesized\">(יחזקאל א א)</span>, היו שלשים שנה משנמצא הספר בית ה', ברביעי בחמשה לחדש וגו', היה היה דבר ה' וגו' <span class=\"parenthesized\">(שם)</span>, ואבוא אל הגולה תל אביב וגו' ואשב שם שבעת ימים משמים בתוכם <span class=\"parenthesized\">(שם ג טו)</span> לאחר שבעת ימים נאמר לו, ואתה שכב על צדך וגו', ואני נתתי לך את שני עונם וגו' <span class=\"parenthesized\">(שם ד)</span>, מלמד שהיו ישראל מכעיסין לפני הקב\"ה, משנכנסו לארץ ועד שיצאו ממנה שלש מאות ותשעים שנה, וכלית את אלה ושכבת על צדך הימני וגו' <span class=\"parenthesized\">(שם ד ו)</span>, מלמד שהיו בית יהודה מכעיסין לפני הקב\"ה, משגלו עשרת השבטים ועד שחרבה ירושלם ארבעים שנה, נמצאו כולם ד' מאות ושלשים שנה, ויהי בשנה הששית בששי [בחמשה] לחדש אני יושב בביתי וגו' <span class=\"parenthesized\">(שם ח א)</span>, מלמד שהיתה אותה שנה מעוברת, <span class=\"parenthesized\">(ותהי)</span> [ותפל] עלי שם יד [אדני] ה' <span class=\"parenthesized\">(שם)</span>, באותה שעה הראהו המקום ליחזקאל כבוד השכינה שמסתלקה מתוך הבית, וישאו הכרובים את כנפיהם וירומו <span class=\"parenthesized\">(מעל)</span> [מן] הארץ וגו' <span class=\"parenthesized\">(שם י יט)</span>, ואומר ויעל כבוד ה' מעל תוך העיר וגו' <span class=\"parenthesized\">(שם יא כג)</span>, אתה מוצא אותם עשר מסעות לשכינה, ויהי בשנה השביעית בחמשי <span class=\"parenthesized\">(בעשרים)</span> [בעשור] לחדש באו אנשים מזקני ישראל וגו', ויהי דבר ה' אלי לאמר, בן אדם דבר <span class=\"parenthesized\">(אל)</span> [את] זקני ישראל <span class=\"parenthesized\">(לאמר)</span> [ואמרת וגו'] הלדרש אתי וגו', התשפט אתם וגו' <span class=\"parenthesized\">(שם כ)</span> באותה שעה כרת צדקיהו ברית את כל העם וגו', לשלח איש את עבדו וגו', וישובו אחרי כן וישיבו וגו' <span class=\"parenthesized\">(ירמיהו ל״ד:י״ח)</span>, ואומר העגל אשר כרתו לשנים ויעברו בין בתריו <span class=\"parenthesized\">(שם לד יח)</span>, למרוד במקום, שתמצא אומר אלו ואלו מתוך מרד, באותה שעה מרד צדקיהו במלך בבל, והלך וסמך על מלכי מצרים, כשתמצא לומר אלו נסמכו על מלכי מצרים, ואלו נסמכו על מלכי מצרים, אלו גלו שלש גליות, ואלו גלו שלש גליות, אלו עשו ג' שנים במצורה, ואלו עשו ג' שנים במצורה, אלו אכלו בשר בנים ובנות, ואלו אכלו בשר בנים ובנות, וכן הוא אומר בדרך אחותך הלכת ונתתי כוסה בידך וגו' <span class=\"parenthesized\">(יחזקאל כג לא)</span>, בשנה השמינית לצדקיהו, בא חיל מלך בבל על ירושלם וגו', וחיל פרעה יצא ממצרים וגו' <span class=\"parenthesized\">(ירמיה לז ה)</span>, וחיל פרעה שטף עזה, וחזר למצרים, ויהי דבר ה' אלי בשנה התשיעית <span class=\"parenthesized\">(בעשירי)</span> [בחדש העשירי] בעשור לחדש לאמר, בן אדם כתוב לך את שם היום <span class=\"parenthesized\">(בעצם)</span> [את עצם] היום [הזה] סמך מלך בבל <span class=\"parenthesized\">(על)</span> [אל] ירושלם בעצם היום הזה <span class=\"parenthesized\">(יחזקאל כ״ד:ב׳)</span>, בעשרה בטבת, בשנה העשרית בעשרי בשנים עשר לחדש היה דבר ה' אלי לאמר, בן אדם שים פניך על פרעה מלך מצרים והנבא עליו ועל מצרים כלה <span class=\"parenthesized\">(שם כט)</span>, אותו הזמן הנה חנמאל בן שלם דדך בא אליך לאמר קנה לך את שדי אשר בענתות כי לך משפט הגאלה לקנות, ויבא אלי חנמאל בן דדי כדבר ה' אל חצר המטרה ויאמר אלי קנה נא את שדי אשר בענתות אשר בארץ בנימין כי לך משפט הירשה ולך הגאלה קנה לך ואדע כי דבר ה' הוא <span class=\"parenthesized\">(ירמיהו ל״ב:ח׳)</span>, ויהי באחת עשרה שנה בראשון בשבעה לחדש היה דבר ה' אלי לאמר, בן אדם את זרוע פרעה מלך מצרים שברתי וגו' <span class=\"parenthesized\">(יחזקאל ל׳:כ׳-כ״א)</span>, ויהי באחת עשרה שנה בשלישי באחד לחדש היה דבר ה' אלי לאמר, בן אדם אמר אל פרעה מלך מצרים ואל המונו אל מי דמית בגדלך <span class=\"parenthesized\">(שם לא)</span>, ויהי בעשתי עשרה שנה באחד לחדש היה דבר ה' אלי לאמר, בן אדם יען אשר אמרה צר על ירושלם האח נשברה דלתות העמים נסבה אלי אמלאה החרבה <span class=\"parenthesized\">(שם כו)</span>, בשלשה בתשרי אחר חורבן הבית נ\"ב יום נהרג גדליה בן אחיקם בן שפן והיהודים אשר היו במצפה, ושאר הפליטה הלכה למצרים, וירמיה וברוך עמהן, ויהי בשתי עשרה שנה בעשרי בחמשה לחדש לגלותינו בא אלי הפליט מירושלם לאמר הכתה העיר <span class=\"parenthesized\">(שם לג כא)</span>, ויהי בשתי עשרה שנה בשני עשר חדש באחד לחדש היה דבר ה' אלי לאמר, בן אדם שא קינה על פרעה מלך מצרים ואמרת אליו כפיר גוים נדמית וגו', ויהי בשתי עשרה שנה בחמשה עשר לחדש היה דבר ה' אלי לאמר, בן אדם נהה על המון מצרים והורדהו <span class=\"parenthesized\">(שם לב)</span>, אותה שעה הראה ליחזקאל שהאומות נדונין לבאר שחת, בשנת עשרים ושלש לנבוכדנצר נתנה צור בידו, ושטף את כל היהודים שהיו בעמון ומואב ובסביבות ארץ ישראל, נפש שבע מאות ארבעים וחמשה, בשנת עשרים ושבע לנבוכדנצר נתנה מצרים בידו, ונשא המנה ושלל שללה ובזז בזה והיתה שכר לחילו <span class=\"parenthesized\">(שם כט יט)</span>, והגלה ירמיהו וברוך לבבל, בעשרים וחמש שנה לגלותנו בראש השנה בעשור לחדש בארבע עשרה שנה אחר אשר הכתה העיר בעצם היום [הזה] היתה עלי יד ה' ויבא אתי שמה <span class=\"parenthesized\">(שם מ א)</span>, אותה שעה הראה הקב\"ה ליחזקאל במראה את תבנית הבית לעתיד לבא:",
+              "ref": "Seder Olam Rabbah 26:2",
+              "sourceHeRef": "סדר עולם רבה כו:ב",
+              "sourceRef": "Seder Olam Rabbah 26:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סמך מלך בבל</strong> - התחיל לצור עליה:",
+              "ref": "Rashi on Rosh Hashanah 18b:6:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ו:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>\"צום העשירי\"</b> — <b>זה עשרה בטבת שבו סמך מלך בבל על ירושלים</b> והתחיל לצור עליה, <b>שנאמר: \"ויהי דבר ה' אלי בשנה התשיעית בחדש העשירי בעשור לחדש לאמר. בן אדם כתב לך את שם היום את עצם היום הזה סמך מלך בבל אל ירושלים\"</b> (יחזקאל כד, א-ב). <b>ואמאי קרי ליה</b> <span class=\"hebrew-emphasis\">[ומדוע קורא לו]</span> הנביא <b>\"</b>צום ה<b>עשירי\"</b> — כי הוא בחודש טבת ה<b>עשירי לחדשים. והלא היה ראוי זה לכתוב ראשון</b> שהרי תחילת המצור על העיר היא ראשונה לכל המאורעות האחרים <b>ולמה נכתב כאן</b> בסוף הרשימה — <b>כדי להסדיר חדשים כתיקנן</b> שמתחיל ברביעי ומסיים בעשירי, אלו דברי ר' עקיבא.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:ו",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:6"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "In the ninth year, on the tenth day of the tenth month, the word of the L<small>ORD</small> came to me:",
+              "he": "וַיְהִי֩ דְבַר־יְהֹוָ֨ה אֵלַ֜י בַּשָּׁנָ֤ה הַתְּשִׁיעִית֙ בַּחֹ֣דֶשׁ הָעֲשִׂירִ֔י בֶּעָשׂ֥וֹר לַחֹ֖דֶשׁ לֵאמֹֽר׃",
+              "link": "/Ezekiel/24",
+              "ref": "Ezekiel 24:1",
+              "sourceHeRef": "יחזקאל כד:א",
+              "sourceRef": "Ezekiel 24:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>“The fast of the tenth,” This is the tenth of Tevet, on which the king of Babylonia laid siege to Jerusalem, as it is stated: “And in the ninth year, in the tenth month, on the tenth day of the month, the word of the Lord came to me, saying: Son of man, write the name of the day, of this same day: The king of Babylonia has laid siege to Jerusalem on this very day”</b> (Ezekiel 24:1–2). <b>And why did he call it</b> the fast of the <b>tenth?</b> Because it is in Tevet, which is <b>the tenth of the months. Wouldn’t it have been fitting to write</b> this fast <b>first,</b> as the series of events began with the laying of the siege. <b>Why was</b> it <b>written here</b> at the end of the list? This was done <b>in order to list the months in</b> their <b>proper</b> order, as the prophet began with the fourth month and ended with the tenth month. This is the statement of <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>.",
+      "he": "״צוֹם הָעֲשִׂירִי״ — זֶה עֲשָׂרָה בְּטֵבֵת, שֶׁבּוֹ סָמַךְ מֶלֶךְ בָּבֶל עַל יְרוּשָׁלַיִם, שֶׁנֶּאֱמַר: ״וַיְהִי דְבַר ה׳ אֵלַי בַּשָּׁנָה הַתְּשִׁיעִית בַּחֹדֶשׁ הָעֲשִׂירִי בֶּעָשׂוֹר לַחֹדֶשׁ לֵאמֹר. בֶּן אָדָם כְּתׇב לְךָ אֶת שֵׁם הַיּוֹם אֶת עֶצֶם הַיּוֹם הַזֶּה סָמַךְ מֶלֶךְ בָּבֶל אֶל יְרוּשָׁלִַים״. וְאַמַּאי קָרֵי לֵיהּ ״עֲשִׂירִי״ — עֲשִׂירִי לֶחֳדָשִׁים. וַהֲלֹא הָיָה רָאוּי זֶה לִכְתּוֹב רִאשׁוֹן? וְלָמָּה נִכְתַּב כָּאן — כְּדֵי לְהַסְדִּיר חֳדָשִׁים כְּתִיקְנָן.",
+      "ref": "Rosh Hashanah 18b:6"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">גּוֹלָה</strong> f. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, גלי 1\" dir=\"rtl\" href=\"/Jastrow,_גלי.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, גלי 1\" dir=\"rtl\" href=\"/Jastrow,_גלי.1\">גלי</span>) <i>exile</i>, especially (with or without <span class=\"refLink\" data-ref=\"Jastrow, בני 1\" dir=\"rtl\" href=\"/Jastrow,_בני.1\">בני</span>) <i>the diaspora, Jews living abroad</i>, especially <i>Babylonians</i>. <span class=\"refLink\" data-ref=\"Avodah Zarah 30b:3\" href=\"/Avodah_Zarah.30b.3\">Pirkei Avot Zar. 30ᵇ</span>. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:7\" href=\"/Rosh_Hashanah.18b.7\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">באת שמועה לַגּ׳</span> the report came to the captivity (in Babylonia); and from—<span dir=\"rtl\">ראש ג׳</span> (Chaldaic <span dir=\"rtl\">ריש גלותא</span>) chief of the Babylonian Jews, <i>Resh G’lutha</i>. <span class=\"refLink\" data-ref=\"Sanhedrin 38a:2\" href=\"/Sanhedrin.38a.2\">Sanhedrin 38ᵃ</span>; <span class=\"refLink\" data-ref=\"Chullin 92a:4\" href=\"/Chullin.92a.4\">Chullin 92ᵃ</span> <span dir=\"rtl\">ר׳ ג׳ שבבבל</span>; and e.—<span dir=\"rtl\">עולי ג׳</span> those returning from Babylonian captivity. <span class=\"refLink\" data-ref=\"Bava Batra 15a:17\" href=\"/Bava_Batra.15a.17\">Bava Batra 15ᵃ</span> bottom of page—V. <span class=\"refLink\" data-ref=\"Jastrow, גָּלוּת 1\" dir=\"rtl\" href=\"/Jastrow,_גָּלוּת.1\">גָּלוּת</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, גּוֹלָה 1",
+              "sourceHeRef": "מילון יסטרוב, גּוֹלָה א׳",
+              "sourceRef": "Jastrow, גּוֹלָה 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שמועה לגולה</strong> - לגלות יכניה שגלו לבבל אחת עשרה שנה לפני החורבן:",
+              "ref": "Rashi on Rosh Hashanah 18b:7:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ז:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואמר ר' שמעון: <b>ואני איני אומר כן, אלא: \"צום העשירי\"</b> — <b>זה חמשה בטבת שבו באת שמועה לגולה שהוכתה העיר, שנאמר: \"ויהי בשתי עשרה שנה בעשרי בחמשה לחדש לגלותנו בא אלי הפליט מירושלים לאמר הכתה העיר\"</b> (יחזקאל לג, כא) <b>ועשו</b> אבל ב<b>יום שמועה</b> על החורבן <b>כיום שריפה</b> שלו.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:ז",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The <i>Tosefta </i>(<i>Sota</i> 6:11) says that the people of the Diaspora decreed the fast on the fifth of Tevet because that is when they received the report of the destruction of the Temple, five months after the event. The people of Judea, however, established the fast on the tenth of Tevet, since for them that was the day of suffering when the Babylonians began the siege of Jerusalem.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:7",
+              "sourceHeRef": "זֶה חֲמִשָּׁה בְּטֵבֵת שֶׁבּוֹ בָּאָת שְׁמוּעָה לַגּוֹלָה",
+              "sourceRef": "This is the fifth of Tevet, on which the report reached the Diaspora"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "In the twelfth year of our exile, on the fifth day of the tenth month, a fugitive came to me from Jerusalem and reported, “The city has fallen.”",
+              "he": "וַיְהִ֞י בִּשְׁתֵּ֧י עֶשְׂרֵ֣ה שָׁנָ֗ה בָּעֲשִׂרִ֛י בַּֽחֲמִשָּׁ֥ה לַחֹ֖דֶשׁ לְגָלוּתֵ֑נוּ בָּא־אֵלַ֨י הַפָּלִ֧יט מִירוּשָׁלַ֛͏ִם לֵאמֹ֖ר הֻכְּתָ֥ה הָעִֽיר׃",
+              "link": "/Ezekiel/33",
+              "ref": "Ezekiel 33:21",
+              "sourceHeRef": "יחזקאל לג:כא",
+              "sourceRef": "Ezekiel 33:21"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> disagreed and said: <b>I do not say this, but rather</b> I expound the verse as follows: <b>“The fast of the tenth,” this is the fifth of Tevet, on which the report reached the Diaspora that the city had been smitten, as it is stated: “And it came to pass in the twelfth year of our exile, in the tenth month, on the fifth day of the month, that one that had escaped out of Jerusalem came to me, saying: The city is smitten”</b> (Ezekiel 33:21); <b>and they made the day of the report</b> of the destruction <b>like the day of the</b> actual <b>burning</b> and decreed a fast on that day.",
+      "he": "וַאֲנִי אֵינִי אוֹמֵר כֵּן, אֶלָּא: ״צוֹם הָעֲשִׂירִי״ — זֶה חֲמִשָּׁה בְּטֵבֵת, שֶׁבּוֹ בָּאת שְׁמוּעָה לַגּוֹלָה שֶׁהוּכְּתָה הָעִיר, שֶׁנֶּאֱמַר: ״וַיְהִי בִּשְׁתֵּי עֶשְׂרֵה שָׁנָה בָּעֲשִׂירִי בַּחֲמִשָּׁה לַחֹדֶשׁ לְגָלוּתֵנוּ בָּא אֵלַי הַפָּלִיט מִירוּשָׁלִַם לֵאמֹר הוּכְּתָה הָעִיר״, וְעָשׂוּ יוֹם שְׁמוּעָה כְּיוֹם שְׂרֵיפָה.",
+      "ref": "Rosh Hashanah 18b:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">פּוּרְעָנוּת</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, פּוּרְעָנוּ 1\" href=\"/Jastrow,_פּוּרְעָנוּ.1\">preceding</span> wds.) <i>retribution, reward</i>; especially <i>punishment, divine visitation; evil dispensation, reverses</i>. <span class=\"refLink\" data-ref=\"Yoma 76a:7\" href=\"/Yoma.76a.7\">Yoma 76ᵃ</span>; <span class=\"refLink\" data-ref=\"Sanhedrin 100b:1\" href=\"/Sanhedrin.100b.1\">Sanhedrin 100ᵇ</span>, and e. <span dir=\"rtl\">מידה טובה מרובה ממידת פ׳</span> the measure of divine goodness is larger than that of evil dispensation. <span class=\"refLink\" data-ref=\"Sanhedrin 102a:4\" href=\"/Sanhedrin.102a.4\">Ib. 102ᵃ</span> <span dir=\"rtl\">עת היא מזומנת לפ׳</span> (not <span dir=\"rtl\">מזומן</span>) there is a time designated for visitation (of man’s sins); <span dir=\"rtl\">מקום … לפ׳</span> there is a place designated for &c. <span class=\"refLink\" data-ref=\"Pirkei Avot 1:7\" href=\"/Pirkei_Avot.1.7\">Pirkei Avot I, 7</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יָאַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_יָאַשׁ.1\">יָאַשׁ</span>; and see from—<span class=\"refLink\" data-ref=\"Bava Batra 14b:11\" href=\"/Bava_Batra.14b.11\">Bava Batra 14ᵇ</span>, see next word—plural <span dir=\"rtl\">פּוּרְעָנִיּוֹת</span>. <span class=\"refLink\" data-ref=\"Pirkei Avot 5:8\" href=\"/Pirkei_Avot.5.8\">Pirkei Avot V, 8</span> <span dir=\"rtl\">שבעה מיני פ׳ וכ׳</span> (some ed. <i>sing</i>.) seven kinds of visitations come upon the world. <span class=\"refLink\" data-ref=\"Taanit 14a:11\" href=\"/Taanit.14a.11\">Taanit 14ᵃ</span> <span dir=\"rtl\">ושאר כל מיני פ׳ וכ׳</span> and all other calamities that threaten &c.; <span class=\"refLink\" data-ref=\"Bava Kamma 80b:11\" href=\"/Bava_Kamma.80b.11\">Bava Kamma 80ᵇ</span>. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:8\" href=\"/Rosh_Hashanah.18b.8\">Rosh Hashanah 18ᵇ</span> אני מונה לסדר פ׳ I count (the fast-days) according to the chronological order of the sad events (which they commemorate); and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, פּוּרְעָנוּת 1",
+              "sourceHeRef": "מילון יסטרוב, פּוּרְעָנוּת א׳",
+              "sourceRef": "Jastrow, פּוּרְעָנוּת 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "These four fasts are explicitly mentioned in the prophetic tradition [Zechariah 8:19]: \"The fast of the fourth [month], the fast of the fifth [month]....\" \"The fast of the fourth [month]\" refers to the Seventeenth of Tammuz, which is in the fourth month; \"the fast of the fifth [month],\" to Tish'ah B'Av, which is in the fifth month; \"the fast of the seventh [month],\" to the Third of Tishrei which is in the seventh month; \"the fast of the tenth [month],\" to the Tenth of Tevet, which is in the tenth month.",
+              "he": "וְאַרְבָּעָה יְמֵי הַצּוֹמוֹת הָאֵלּוּ הֲרֵי הֵן מְפֹרָשִׁין בַּקַּבָּלָה <span class=\"hebrew-emphasis\">(זכריה ח יט)</span> \"צוֹם הָרְבִיעִי וְצוֹם הַחֲמִישִׁי\" וְגוֹ'. צוֹם הָרְבִיעִי זֶה שִׁבְעָה עָשָׂר בְּתַמּוּז שֶׁהוּא בַּחֹדֶשׁ הָרְבִיעִי. וְצוֹם הַחֲמִישִׁי זֶה תִּשְׁעָה בְּאָב שֶׁהוּא בַּחֹדֶשׁ הַחֲמִישִׁי. וְצוֹם הַשְּׁבִיעִי זֶה שְׁלֹשָׁה בְּתִשְׁרֵי שֶׁהוּא בַּחֹדֶשׁ הַשְּׁבִיעִי. וְצוֹם הָעֲשִׂירִי זֶה עֲשָׂרָה בְּטֵבֵת שֶׁהוּא בַּחֹדֶשׁ הָעֲשִׂירִי:",
+              "ref": "Mishneh Torah, Fasts 5:4",
+              "sourceHeRef": "הלכות תעניות ה:ד",
+              "sourceRef": "Fasts 5:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שאני אומר על ראשון</strong> - שבסדר מקרא:",
+              "ref": "Rashi on Rosh Hashanah 18b:8:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ח:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ראשון</strong> - לפורענות בתחלה הובקעה העיר ואח\"כ נשרף הבית בתשעה באב ובתשרי שלאחריו נהרג גדליה ובטבת שלאחריו באתה השמועה:",
+              "ref": "Rashi on Rosh Hashanah 18b:8:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ח:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:8:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והוא אומר על ראשון</strong> - שבפסוק אחרון לפורענות:",
+              "ref": "Rashi on Rosh Hashanah 18b:8:3",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ח:ג",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:8:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ועל אחרון</strong> - שבמקרא ראשון לפורענות שהרי תחילה סמך ואח\"כ הובקעה נמצא י\"ז בתמוז שהוא ראשון במקרא אחרון לסמיכת בבל שהוא מאוחר במקרא:",
+              "ref": "Rashi on Rosh Hashanah 18b:8:4",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ח:ד",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:8:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא שהוא מונה לסדר חדשים</strong> - ואמר שלא הקפיד המקרא אלא על סדר החדשים לכך מנה תמוז קודם לטבת ואני מונה אף לסדר פורענות:",
+              "ref": "Rashi on Rosh Hashanah 18b:8:5",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ח:ה",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:8:5"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ונראין דברי מדבריו וכו'.</b> כלומר כי צום הרביעי שהוא ראשון בכתוב על בקיעת העיר שהיתה ראשונה וצום העשירי שהוא אחרון על שמועה הבאה לירמיהו שהיה באחרונה והוא אומר על ראשון שבכתוב אחרון ועל אחרון ראשון כי הוא מפרש צום העשירי הכתוב אחרון בסמיכת מלך בבל שהיה תחילה לכל ולא עוד אלא שאני מונה לסדר פורעניות והוא מונה לסדר חדשים פי׳ שאפילו הייתי מבלבל סדר החדשים היה ראוי לדון כמותי ולתפוס סדר פורעניות כ״ש וכ״ש שאני מונה יפה לסדר חדשים כמותו ומוסיף עליו אף לסדר פורעניות:",
+              "ref": "Ritva on Rosh Hashanah 18b:3",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ח ב:ג",
+              "sourceRef": "Ritva on Rosh Hashanah 18b:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והוסיף ר' שמעון: <b>ונראין דברי מדבריו, שאני</b> לפי שיטתי <b>אומר על ראשון ראשון ועל אחרון אחרון,</b> שלדעת ר' שמעון הצומות מנויים לפי סדר המאורעות, <b>והוא</b> ר' עקיבא, רבי, <b>אומר על ראשון אחרון ועל אחרון ראשון. אלא שהוא מונה לסדר החדשים</b> ואינו מתחשב במאורעות עצמם <b>ואני מונה</b> אף <b>לסדר</b> ה<b>פורעניות.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:ח",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:8"
+            }
+          ]
+        }
+      },
+      "en": "And <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> added: <b>And my statement seems</b> more convincing <b>than his statement, as I say about the first</b> fast mentioned by the prophet that it marks the event that took place <b>first, and about the last</b> fast that it marks the event that took place <b>last.</b> According to <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span>, the fasts are listed in accordance with the chronological order of the events. <b>But he,</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>, <b>says about the first</b> fast mentioned by the prophet that it marks the event that took place <b>last, and about the last</b> fast mentioned that it marks the event that took place <b>first, only that he lists</b> the fasts <b>in the order of the months, whereas I list</b> them also <b>in the order of the calamities</b> that they mark.",
+      "he": "וְנִרְאִין דְּבָרַי מִדְּבָרָיו, שֶׁאֲנִי אוֹמֵר עַל רִאשׁוֹן רִאשׁוֹן וְעַל אַחֲרוֹן אַחֲרוֹן, וְהוּא אוֹמֵר עַל רִאשׁוֹן אַחֲרוֹן וְעַל אַחֲרוֹן רִאשׁוֹן. אֶלָּא שֶׁהוּא מוֹנֶה לְסֵדֶר חֳדָשִׁים, וַאֲנִי מוֹנֶה לְסֵדֶר פּוּרְעָנִיּוֹת.",
+      "ref": "Rosh Hashanah 18b:8"
+    },
+    {
+      "commentary": {
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "איתמר רב ור' חנינא אמרו בטלה מגלת תענית פי' כל הכתוב במגילת תענית די לא להתענאה בהון כי הם כמו ימים טובים שאסור להתענות בהן בטלה וכל הרוצה להתענות בהן מתענה וראיה אלו ג' תעניות י\"ז בתמוז ג' בתשרי וי' בטבת בזמן שיש שלום הם כימים טובים ואסור להתענות בהן כדכתיב יהיה לבית יהודה לששון ולשמחה וגו'. אין שלום צום ושאר הימים הכתובים במגילת תענית בזמן הבית היו ימים טובים ואסורים בתענית עכשיו בטלה. ור' יוחנן וריב\"ל אמרי לא בטלה הני ג' צומות הוא דתלינהו רחמ' בבנין הבית אבל הני כדקיימא באיסור הכי קיימי עד עכשיו שאסור ומתיב רב כהנא על מאן דאמר בטלה מגילת תענית מעשה וגזרו תענית בחנוכה בלוד ואמר להן ר' יהושע צאו והתענו על מה שהתעניתם כלומר עברתם ופרקי' שני חנוכה דאיכא מצות הדלקת נר ונדחה אלא משום דמפרסמים ניסא דחנוכה.",
+              "ref": "Rabbeinu Chananel on Rosh Hashanah 18b:4",
+              "sourceHeRef": "רבינו חננאל על מסכת ראש השנה י״ח ב:ד",
+              "sourceRef": "Rabbeinu Chananel on Rosh Hashanah 18b:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בטלה מגילת תענית</strong> - ימים טובים שקבעו חכמים ע\"י נסים שאירעו בהם ואסרום בתענית ויש מהן אף בהספד וכתבום במגילה אחת אלין יומיא דלא להתענאה בהו כו' עכשיו שחרב הבית בטלו ומותרין בהספד ובתענית:",
+              "ref": "Rashi on Rosh Hashanah 18b:9:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:ט:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:9:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אתמר רב ור׳ חנינא אמרי בטלה מגילת תענית ר״י וריב״ל אמרי לא בטלה.</b> ואותבינן להא דר׳ חנינא מעובדא דלוד ומדאמרי להו צאו והתענו על מה שהתעניתם אלמא לא בטלה מגלת תענית וכאן תשובה גמורה על הראב״ד ז״ל שכתב במס׳ תענית דאפילו למ״ד בטלה מגילת תענית היינו לענין יחידים אבל לגזור בו תענית צבור לכתחלה לא בטלה וא״כ מאי קמקשינן הכא דהא תענית צבור הוה וכ״ע מודה שלענין תענית צבור לא בטלה אלא ודאי ליתא לסברא דיליה ומיהו הרב ז״ל היה מביא ראיה לדבריו ממ״ש דרב נחמן גזר תעניתא בתריסר ואמרו ליה יום טוריינס הוא ומאי קאמרו ליה דדילמא רב נחמן כהילכתא סבירא לן דבטלה מגלת תענית ועוד למה ליה למימר להו יום טוריינס בטולי בטליה אלא ודאי שלד״ה לענין ת״צ לא בטלה ולפי מה שנראה בכאן יש לנו לדחות הראיה ההיא דהנהו דאמרו ליה והא יום טוריינס הוא היו סבורים כמ״ד לא בטלה מגלת תענית ובדין הוא דאיהו מצי מהדר להו דבטלה מגלת תענית וכדאיפסקא הילכתא אלא שרצה להשיב להם אף לפי דעתם דיום טוריינס בטולי בטלוה. א״נ דכולהו הוה סברי דבטלה מגלת תענית אלא משום דהוה הילכתא רופפת נתלו בה אשלי היה קשה בעיניהם לעשות מעשה כנגד האומרים דלא בטלה ולהכי אצטריך לומר שאפילו לדברי האומר לא בטלה אפשר לגזור בו תענית ומ״מ לדברי האומר בטלה ודאי בטלה לגמרי:",
+              "ref": "Ritva on Rosh Hashanah 18b:4",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ח ב:ד",
+              "sourceRef": "Ritva on Rosh Hashanah 18b:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> <b>איתמר</b> <span class=\"hebrew-emphasis\">[נאמר]</span> שנחלקו חכמים בשאלה הבאה. <b>רב ור' חנינא אמרי</b> <span class=\"hebrew-emphasis\">[אומרים]</span> שניהם: <b>בטלה מגילת תענית,</b> שכל הימים המיוחדים שנקבעו כימי שמחה ומנויים במגילת תענית — כולם בטלו לאחר החורבן, והותרו בהם ההספד והתענית. שבזמן הגלות אין טעם לחוג לזכר מאורעות שמחה שהיו במשך הדורות. <b>ר' יוחנן ור' יהושע בן לוי אמרי</b> <span class=\"hebrew-emphasis\">[אומרים]:</span> <b>לא בטלה מגילת תענית.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:ט",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "<i>Megillat Ta’anit</i> was the first book of the Oral Torah to be written down. This scroll was already in the possession of the Sages of the Mishna, who discuss not only the <i>halakhot</i> contained within it but also argue over its precise wording. <i>Megillat Ta’anit </i>lists the festive days on which it is forbidden to fast or eulogize. Most of the events commemorated are from the time of the Hasmoneans until the end of the Second Temple period, although there are mentions of events that occurred both earlier and later. The actual <i>halakhot</i> in <i>Megillat Ta’anit</i>, the listing of days, and the short explanation about the events of each day, are written in Aramaic; an appendix written in Hebrew explains each event in greater detail.",
+              "he": "להלכה בטלה מגילת תענית, וכל הימים הכתובים בה מותר להתענות בהם, וכל שכן לפניהם ואחריהם, חוץ מחנוכה ופורים שאסור להתענות בהם עצמם, אבל לפניהם ואחריהם — מותר. (שו\"ע או\"ח סימן תקעג). ולדעת הראב\"ד (הביאוהו הרא\"ש ורבינו ירוחם, הטור והב\"י, ונראה שהסכימו לדבריו) אין גוזרים תענית ציבור לכתחילה בימים אלה.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:9",
+              "sourceHeRef": "מְגִילַּת תַּעֲנִית",
+              "sourceRef": "<i>Megillat Ta’anit</i>"
+            },
+            {
+              "en": "<i> </i>The <i>halakha </i>is in accordance with the opinion that <i>Megillat Ta’anit</i> was nullified, and one may fast on any of the days listed in it and certainly on the days before and after them. The sole exceptions are Hanukkah and Purim, on which it is prohibited to fast, but on the days before and after them it is permitted to fast (<i>Shulĥan Arukh, Oraĥ Ĥayyim</i> 573:1). According to the Ra’avad, at the outset the Rabbis should not declare a public fast on these days. The Rosh, Rabbeinu Yeruĥam, the <i>Tur</i>, and the <i>Beit Yosef</i> cite his opinion and agree with it.",
+              "he": "מגילת תענית היא כנראה הספר הראשון מן התורה שבעל פה שהועלה על הכתב. מגילה זו היתה מצויה כבר בידי חכמי המשנה הדנים לא רק בגופי ההלכות שנקבעו בה אלא גם בדקדוק לשונה.\nבמגילה רשימה של ימי צום ואבל שנקבעו לזכר אסונות לאומיים, ומצד שני רשימת ימים שבהם אסור להתענות או אף להספיד ברבים מפני שהם ימי שמחה. רוב המאורעות הם מזמן החשמונאים עד סוף ימי בית שני. אך יש בה גם הזְכָּרוֹת למאורעות קודמים ומאוחרים יותר.\nגופי ההלכות של מגילת תענית, וציון הימים, וכן הערות קצרות בדבר מהותו של כל יום, כתובים בארמית, ולהם נספח ביאור מרחיב כל מאורע בעברית.",
+              "ref": "Steinsaltz comment #2 on Rosh Hashanah 18b:9",
+              "sourceHeRef": "בָּטְלָה מְגִילַּת תַּעֲנִית",
+              "sourceRef": "<i>Megillat Ta’anit</i> was nullified"
+            }
+          ]
+        }
+      },
+      "en": "<b>It was stated</b> that the Sages disagreed about the following matter: <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> and <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span></b> both <b>say: <i>Megillat Ta’anit</i>,</b> a listing of days on which fasting and eulogizing are forbidden, <b>has been nullified,</b> as in the present period of exile there is no reason to celebrate the joyous events that these days commemorate. <b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span> say: <i>Megillat Ta’anit</i> has not been nullified.</b>",
+      "he": "אִיתְּמַר, <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">רַב</span> <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">וְרַבִּי חֲנִינָא</span> אָמְרִי: בָּטְלָה מְגִילַּת תַּעֲנִית. <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">רַבִּי יוֹחָנָן</span> <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי</span> אָמְרִי: לֹא בָּטְלָה מְגִילַּת תַּעֲנִית.",
+      "ref": "Rosh Hashanah 18b:9",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין שלום צום</strong> - ואע\"ג דבזמן הבית קרינהו מועדים טובים:",
+              "ref": "Rashi on Rosh Hashanah 18b:10:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:י:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והנך נמי</strong> - דמגילת תענית כי הני משוינן להו כי היכי דהני בטלי הני נמי בטלי:",
+              "ref": "Rashi on Rosh Hashanah 18b:10:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:י:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:10:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומסבירים: <b>רב ור' חנינא אמרי</b> <span class=\"hebrew-emphasis\">[אומרים]</span> ש<b>בטלה מגילת תענית, הכי קאמר</b> <span class=\"hebrew-emphasis\">[כך אמר]:</span> כיון שאמר הנביא <b>בזמן שיש שלום</b> — <b>יהיו</b> ימי הצום <b>לששון ולשמחה, אין שלום</b> — יהיו אלה ימי <b>צום. והנך נמי כי הני</b> <span class=\"hebrew-emphasis\">[ואלה גם כן כמו אלה],</span> כלומר, ימי השמחה המנויים במגילת תענית גם הם בטלים בזמן שאין שלום.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:י",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:10"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains: <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> and <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span> say</b> that <b><i>Megillat Ta’anit</i> has been nullified. This is what</b> the prophet <b>is saying: At a time when there is peace</b> in the world, the dates listed <b>will be</b> times of <b>joy and gladness,</b> on which eulogies and fasting are forbidden; but when <b>there is no peace,</b> they are days of <b>fasting. And those</b> days mentioned in <i>Megillat Ta’anit</i> <b>are also like these</b> days of fasting, that is to say, the days of joy listed in <i>Megillat Ta’anit</i> are also nullified when there is no peace.",
+      "he": "<span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">רַב</span> <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">וְרַבִּי חֲנִינָא</span> אָמְרִי בָּטְלָה מְגִילַּת תַּעֲנִית, הָכִי קָאָמַר: בִּזְמַן שֶׁיֵּשׁ שָׁלוֹם — יִהְיוּ לְשָׂשׂוֹן וּלְשִׂמְחָה, אֵין שָׁלוֹם — צוֹם. וְהָנָךְ נָמֵי כִּי הָנֵי.",
+      "ref": "Rosh Hashanah 18b:10"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Say to all the people of the land and to the priests: When you fasted and lamented in the fifth and seventh months all these seventy years, did you fast for my benefit?",
+                      "he": "אֱמֹר֙ אֶל־כׇּל־עַ֣ם הָאָ֔רֶץ וְאֶל־הַכֹּהֲנִ֖ים לֵאמֹ֑ר כִּֽי־צַמְתֶּ֨ם וְסָפ֜וֹד בַּחֲמִישִׁ֣י וּבַשְּׁבִיעִ֗י וְזֶה֙ שִׁבְעִ֣ים שָׁנָ֔ה הֲצ֥וֹם צַמְתֻּ֖נִי אָֽנִי׃",
+                      "link": "/Zechariah/7",
+                      "ref": "Zechariah 7:5",
+                      "sourceHeRef": "זכריה ז:ה",
+                      "sourceRef": "Zechariah 7:5"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דתלינהו בבנין</strong> - דע\"י החורבן הוקבעו לצום ועל ידי הבנין הוקבעו ליום טוב שכשנבנה בית שני שלחו בני הגולה האבכה בחדש החמישי הנזר כאשר עשיתי זה כמה שנים מיום החורבן כמו שנאמר שם <span class=\"parenthesized\">(זכריה ז׳:ה׳)</span> שהשיבם הקב\"ה כי צמתם וספוד בחמישי ובשביעי וזה שבעים שנה וגו' ומכאן ואילך יהיו לששון ולשמחה ולמועדים טובים:",
+              "ref": "Rashi on Rosh Hashanah 18b:11:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:יא:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' יוחנן ור' יהושע בן לוי אמרי</b> <span class=\"hebrew-emphasis\">[אומרים]:</span> <b>לא בטלה מגילת תענית,</b> וטעמם: <b>הני הוא</b> <span class=\"hebrew-emphasis\">[אלה הם]</span> ימי הצום הכתובים במקרא <b>דתלינהו רחמנא</b> <span class=\"hebrew-emphasis\">[שתלתה אותם התורה]</span> <b>בבנין בית המקדש, אבל הנך</b> <span class=\"hebrew-emphasis\">[אלה]</span> ימי החג שבמגילת תענית — <b>כדקיימי קיימי</b> <span class=\"hebrew-emphasis\">[כפי שהם עומדים, הם עומדים]</span> ולא בטלו.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:יא",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:11"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span> say</b> that <b><i>Megillat Ta’anit</i> has not been nullified,</b> and they reason as follows: <b>It was those</b> fast days mentioned in the Bible <b>that the Merciful One makes contingent on the building of the Temple, but these</b> festive days listed in <i>Megillat Ta’anit</i> <b>remain as they were</b> and have not been nullified.",
+      "he": "<span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">רַבִּי יוֹחָנָן</span> <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי</span> אָמְרִי: לֹא בָּטְלָה מְגִילַּת תַּעֲנִית — הָנֵי הוּא דִּתְלִינְהוּ רַחֲמָנָא בְּבִנְיַן בֵּית הַמִּקְדָּשׁ, אֲבָל הָנָךְ — כִּדְקָיְימִי קָיְימִי.",
+      "ref": "Rosh Hashanah 18b:11"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">גָּזַר</strong> (Biblical Hebrew; see <span dir=\"rtl\">גזז</span>; compare <span class=\"refLink\" data-ref=\"Jastrow, גֶּדֶר I 1\" dir=\"rtl\" href=\"/Jastrow,_גֶּדֶר I.1\">גדר</span>) <br><b>1)</b> <i>to cut;</i> see <span class=\"refLink\" data-ref=\"Jastrow, גּוֹזֵר 1\" dir=\"rtl\" href=\"/Jastrow,_גּוֹזֵר.1\">גּוֹזֵר</span>. <br><b><br>—2)</b> <i>to cut off, to guard;</i> see <span class=\"refLink\" data-ref=\"Jastrow, גִּזְרָה 1\" dir=\"rtl\" href=\"/Jastrow,_גִּזְרָה.1\">גִּיזְרָה</span> and <span class=\"refLink\" data-ref=\"Jastrow, גְּזֵרָה 1\" dir=\"rtl\" href=\"/Jastrow,_גְּזֵרָה.1\">גְּזֵרָה</span>;—trnsf. <i>to institute a precautionary measure</i> <span class=\"refLink\" data-ref=\"Jastrow, גְּזֵרָה 1\" dir=\"rtl\" href=\"/Jastrow,_גְּזֵרָה.1\">(גְּזֵרָה</span>); <i>to enact a prohibition, to decree</i> (mostly in a restrictive sense). <span class=\"refLink\" data-ref=\"Mishnah Shabbat 1:4\" href=\"/Mishnah_Shabbat.1.4\">Shabbat I, 4</span> <span dir=\"rtl\">ושמנה … גָּזְרוּ בו ביום</span> they issued eighteen enactments on that day. <span class=\"refLink\" data-ref=\"Shabbat 14b:7\" href=\"/Shabbat.14b.7\">Ib. 14ᵇ</span> <span dir=\"rtl\">ג׳ טומאה על וכ׳</span> declared metal vessels (of gentiles) unclean (even when broken and remolten, see <span class=\"refLink\" data-ref=\"Shabbat 16b:9\" href=\"/Shabbat.16b.9\">ib. 16ᵇ</span>). Ib. 17ᵇ <span dir=\"rtl\">גזרו על פתן משום וכ׳</span> they prohibited their (the gentiles’) bread in order to prevent the use of their oil &c. Ib. 30ᵃ <span dir=\"rtl\">מלך בו\"ד גּוֹזֵר גזירה</span> a mortal king issues a decree. <span class=\"refLink\" data-ref=\"Berakhot 61b:6\" href=\"/Berakhot.61b.6\">Berakhot 61ᵇ</span> גָּזְרָה מלכות הרשעה שמד על ישראל שלא וכ׳ Manuscript Munich (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note) the wicked (Roman) government decreed religious persecution over Israel, that they should not study the Law &c. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:12\" href=\"/Rosh_Hashanah.18b.12\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">גזרו תענית</span> they ordered a public fast. <span class=\"refLink\" data-ref=\"Mishnah Rosh Hashanah 2:9\" href=\"/Mishnah_Rosh_Hashanah.2.9\">Ib. II, 9</span> גּוֹזְרַנִי עליך וכ׳ I order thee to come to me &c. <span class=\"refLink\" data-ref=\"Yoma 67b:4\" href=\"/Yoma.67b.4\">Yoma 67ᵇ</span> (reference. to <span dir=\"rtl\">גזרה</span>, <span class=\"refLink\" data-ref=\"Leviticus 16:22\" href=\"/Leviticus.16.22\">Vayikra XVI, 22</span>) <span dir=\"rtl\">אני ה׳ גְּזַרְתִּיו וכ׳ I</span>, the Lord, have ordained it; and see from<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִגְזַר</strong> <i>to be decreed, ordained</i>. <span class=\"refLink\" data-ref=\"Rosh Hashanah 17b:15\" href=\"/Rosh_Hashanah.17b.15\">Rosh Hashanah 17ᵇ</span> <span dir=\"rtl\">נִגְזְרָה גזירה</span> it has been decreed. <span class=\"refLink\" data-ref=\"Berakhot 58b\" href=\"/Berakhot.58b\">Berakhot 58ᵇ</span>; and from<br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">הִתְגַּזֵּר</strong> <br><b>1)</b> <i>to be cut to pieces</i>. Yoma l. common gender. (reference. to <span dir=\"rtl\">גזרה</span>, Vayikra l. common gender.) <span dir=\"rtl\">דבר המִתְגַּזֵּר</span> where an object thrown down is shattered to pieces. [ <br><b>2)</b> <i>to be cut off, be steep</i>. Ib. Manuscript 2 <span dir=\"rtl\">מקום המתג׳</span> a steep place.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, גָּזַר 1",
+              "sourceHeRef": "מילון יסטרוב, גָּזַר א׳",
+              "sourceRef": "Jastrow, גָּזַר 1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר להם ר' יהושע צאו והתענו על מה שהתעניתם. </b>איכא למידק, אדמותיב מברייתא לותיב ממתניתין דקתני הכי בהדיא ועל כסלו מפני חנוכה. ותרצו בתוס', דאלו ממתניתין הוה אמינא לא מפני יום טוב אלא משום מצותה דהיינו הדלקתה. ואינו מחוור בעיני, דאם איתא דאיהי בטלה אף מצותה בטלה וכדאמרינן הכא, אמר רב יוסף שאני חנוכה דאיכא מצוה, כלומר, ואי איהי בטלה אף מצותה בטלה, והלכך לא מבטלינן איהי כי היכי דלא תבטל מצותה. ואמרינן תו ותבטל איהי ותבטל מצותה, דאלמא אי אפשר דתבטל איהי ולא תבטל מצותה, דאם איתא לימא ליה ותבטל איהי ולא תבטל מצותה. אלא מסתברא משום דברייתא מיפרשא טפי דקתני בהדיא צאו והתענו על מה שהתעניתם, משום הכי קא מותיב מינה מקמי מתניתין.",
+              "ref": "Rashba on Rosh Hashanah 18b:5",
+              "sourceHeRef": "רשב״א על ראש השנה י״ח ב:ה",
+              "sourceRef": "Rashba on Rosh Hashanah 18b:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וירד ר' אליעזר כו'</strong> - ורבי אליעזר ורבי יהושע אחר חורבן הבית הוו דבימי רבן יוחנן בן זכאי רבם חרב הבית:",
+              "ref": "Rashi on Rosh Hashanah 18b:12:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:יב:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">התענו</strong> - כלומר עשו תשובה:",
+              "ref": "Rashi on Rosh Hashanah 18b:12:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:יב:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:12:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מתיב</b> <span class=\"hebrew-emphasis\">[מקשה]</span> <b>רב כהנא</b> לשיטת רב ור' חנינא. שנינו: <b>מעשה וגזרו</b> חכמים <b>תענית בחנוכה בלוד, וירד ר' אליעזר</b> באותו יום <b>ורחץ</b> במרחץ להראות שאינו מקבל תענית זו. <b>ור' יהושע</b> ירד <b>וסיפר</b> שערותיו. ולא עוד, אלא <b>אמרו להם</b> שני חכמים אלה: <b>צאו והתענו</b> לאות חרטה ותשובה <b>על מה שהתעניתם.</b> לפי שימי החנוכה הם ימי שמחה ואסור להתענות בהם. והרי חנוכה היא מן הימים שנקבעו במגילת תענית, מכאן שאף לאחר חורבן הבית ממשיכים לחוג את ימי החנוכה, הרי שלא בטלה מגילת תענית!",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:יב",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:12"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "<i>Tosafot</i> ask why they did not bring evidence for their claim that <i>Megillat Ta’anit </i>was not nullified from the mishna itself, which states that the messengers went out in the month of Kislev due to Hanukkah. Rashba explains that from the mishna it is not explicit, whereas the <i>baraita</i> explicitly states the prohibition against fasting on Hanukkah.",
+              "he": "ושואלים בתוספות (ד\"ה וירד) מפני מה לא הקשו מן המשנה שלנו עצמה, ועיי\"ש. והרשב\"א מתירץ, שבמשנתנו אין הדבר ברור כל כך, ואילו בברייתא יש בידינו גם האיסור על תענית בחנוכה, וגם הזמן שבו אירעו הדברים.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:12",
+              "sourceHeRef": "יָרַד רַבִּי אֱלִיעֶזֶר וְרָחַץ",
+              "sourceRef": "Rabbi Eliezer went down and bathed"
+            },
+            {
+              "en": "From here it is learned that one who fasts on a day when it is prohibited to fast, even in an exceptional permitted case, e.g., after a nightmare, must fast again as repentance for his initial fast (<i>Beit Yosef</i>; <i>Tur,</i> <i>Oraĥ Ĥayyim</i> 588; <i>Tashbetz</i>).",
+              "he": "ומכאן למדנו שכל הצם ביום שאסור לצום בו (אפילו עשה זאת בהיתר, כגון תענית חלום) — צריך להתענות בתשובה על כך (ב\"י. טור או\"ח תקס\"ח וכן כתב הרשב\"ץ).",
+              "ref": "Steinsaltz comment #2 on Rosh Hashanah 18b:12",
+              "sourceHeRef": "צְאוּ וְהִתְעַנּוּ",
+              "sourceRef": "Go out and fast"
+            },
+            {
+              "en": "This was one of the oldest towns in Judea. Lod grew in significance toward the end of the Second Temple period and served as an important cultural center for many generations after the destruction of the Temple. Some of  the greatest <i>tanna’im</i> lived there, among them Rabbi Eliezer ben Hyrcanus the Great, Rabbi Tarfon, and others. Several  significant ordinances were instituted in the upper chamber of the house of Nitza, in Lod. After the bar Kokheva revolt, the town remained an important place of Torah,  becoming the center for scholars in the south of Eretz  Yisrael. Among the great <i>amora’im</i> who lived there were Rabbi Yehoshua ben Levi, Rabbi Simlai, Rabbi Yitzĥak bar Naĥmani, Rabbi Aĥa, Rabbi Shimon ben Pazi, and his  son, Rabbi Yehuda.",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Rosh Hashanah 18b:12",
+              "sourceHeRef": "לוּד",
+              "sourceRef": "Lod"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וירד רבי אליעזר ורחץ</strong> - ממתני' דעל כסליו מפני חנוכה לא הוה ליה לאקשויי דלעולם לא חשיב יו\"ט ואפילו הכי מדליקין נרות זכר לנס:",
+              "ref": "Tosafot on Rosh Hashanah 18b:12:1",
+              "sourceHeRef": "תוספות על ראש השנה י״ח ב:יב:א",
+              "sourceRef": "Tosafot on Rosh Hashanah 18b:12:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מעשה וגזרו תענית בחנוכה בלוד, אמרו לו לר' ליעזר וסיפר, לר' יהושע, ורחץ. אמ' להם ר' יהושע צאו והתענו על מה שהתעניתם. כל זמן שהיה רבן גמליאל קיים היתה הלכה נוהגת בדבריו, לאחר מיתתו של רבן גמליאל בקש ר' יהושע לבטל את דבריו, עמד ר' יוחנן בן נורי על רגליו ואמר, חזי אנא, בתר רישא גופא אזיל, כל זמן שהיה רבן גמליאל קיים היתה הלכה נוהגת כדבריו, עכשיו שמת בקשתם לבטל את דבריו. אמ' ר' יהושע אנו שומעין לך, נקבעה הלכה כדברי רבן גמליאל, ולא עירער אדם על דבריו.",
+              "ref": "Tosefta Taanit (Lieberman) 2:5",
+              "sourceHeRef": "תוספתא תענית (ליברמן) ב:ה",
+              "sourceRef": "Tosefta Taanit (Lieberman) 2:5"
+            },
+            {
+              "en": "",
+              "he": "מה בין תענית צבור לתענית יחיד [תענית צבור אוכלין ושותין מבעוד יום מה שאין כן בתענית יחיד] תענית צבור אסורין במלאכה ברחיצה ובסיכה ובנעילת הסנדל ובתשמיש המטה מה שאין כן בתענית יחיד תענית צבור נכנסין לבתי כנסיות מה שאין כן בתענית יחיד תענית צבור מוציאין את התיבה לרחובה של עיר מה שאין כן בתענית יחיד תענית צבור מתפללין עשרים וארבע ברכות מה שאין כן בתענית יחיד תענית צבור כהנים נושאים כפיהם ארבעה פעמים ביום משא\"כ בתענית יחיד תענית צבור אין מפסיקין לימים טובים הכתובים במגילה מה שאין כן בתענית יחיד מעשה וגזרו תענית בחנוכה בלוד [אמרו לו לרבי אליעזר וסיפר לרבי יהושע ורחץ אמר להם ר' יהושע] צאו והתענו על מה שהתעניתם כל זמן שהיה רבן גמליאל קיים היתה הלכה נוהגת כדבריו לאחר מיתתו של רבן גמליאל בקש רבי יהושע לבטל את דבריו עמד רבי יוחנן בן נורי על רגליו ואמר חזי אנא בתר רישא גופא אזיל כל זמן שהיה רבן גמליאל קיים היתה הלכה נוהגת כדבריו עכשיו שמת אתם מבקשים לבטל את דבריו אמר רבי יהושע אנו שומעין לך נקבעה הלכה כדברי רבן גמליאל ולא ערער אדם על דבריו.",
+              "ref": "Tosefta Ta'anit 2:6",
+              "sourceHeRef": "תוספתא תענית ב:ו",
+              "sourceRef": "Tosefta Ta'anit 2:6"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">Rav Kahana</span> raised an objection</b> against <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> and <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span> from a <i>baraita</i>: <b>There was an incident and</b> the Sages <b>decreed a fast on Hanukkah in Lod, and <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> went down</b> on that day <b>and bathed</b> in the bathhouse <b>and <span href=\"/topics/rabbi-yehoshua-b-hananyah\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-hananyah\">Rabbi Yehoshua</span> went down and cut</b> his hair to show that they did not accept the fast. Furthermore, these two Sages <b>said to</b> the others: <b>Go out and fast</b> another fast as an act of penitence <b>for what you have</b> already <b>fasted,</b> as the days of Hanukkah are days of joy, on which fasting is forbidden. Hanukkah is one of the Festivals listed in <i>Megillat Ta’anit</i>. Even after the destruction of the Temple Hanukkah is celebrated, demonstrating that <i>Megillat Ta’anit</i> has not been nullified.",
+      "he": "מֵתִיב <span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">רַב כָּהֲנָא</span>: מַעֲשֶׂה וְגָזְרוּ תַּעֲנִית בַּחֲנוּכָּה בְּלוֹד, וְיָרַד <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">רַבִּי אֱלִיעֶזֶר</span> וְרָחַץ, <span href=\"/topics/rabbi-yehoshua-b-hananyah\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-hananyah\">וְרַבִּי יְהוֹשֻׁעַ</span> וְסִיפֵּר. וְאָמְרוּ לָהֶם: צְאוּ וְהִתְעַנּוּ עַל מַה שֶּׁהִתְעַנִּיתֶם.",
+      "ref": "Rosh Hashanah 18b:12"
+    },
+    {
+      "commentary": {
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>א״ר יוסף שאני נר חנוכה דאיכא מצוה.</b> הקשה תוס׳ למאי דסבר רב כהנא דליכא הפרשא בין חנוכה לשאר ימים אדמותיב ממתניתא לותיב ממתניתין דקתני על כסליו מפני חנוכה והא מתניתין לאחר החרבן היא והיו נוהגין לעשות י״ט בחנוכה אלמא לא בטלי ותירצו דרב כהנא הוה סבר דאי ממתניתין ליכא קושיא דדילמא אע״ג דבטלה לענין הספד ותענית מ״מ מצות חנוכה להדלקת נרות לא בטלה ומפני המצוה היו שולחין שלוחין ואע״ג דאביי ורב יוסף ס״ל דאי בטלה לגמרי בטלה אף למצוה ואם לא בטלה למצוה אף להספד לא בטלה כלל ההיא סברא דאביי ורב יוסף דפריקו הכי אבל רב כהנא היה חושש דדילמא בטל י״ט בהספד ותענית ולא בטלה מצוה זו נראה שיטת התוס׳ אלא שלשונם קצר. ויש שהקשו על תירוצם הא דאביי ורב יוסף דבסמוך ותירצו בעיקר קושיין דבדין הוא דמצי למפרך ממתניתין אלא דמשום דבריתא מיפרשא בהדיא טפי דקתני צאו והתענו על מה שהתעניתם מ״ה שביק מתני׳ ופריך מינה ואין צורך כי תירוץ תוס׳ נכון הוא:",
+              "ref": "Ritva on Rosh Hashanah 18b:5",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ח ב:ה",
+              "sourceRef": "Ritva on Rosh Hashanah 18b:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ר' יוסף: שאני</b> <span class=\"hebrew-emphasis\">[שונה]</span> <b>חנוכה דאיכא</b> <span class=\"hebrew-emphasis\">[שיש]</span> בה <b>מצוה</b> של הדלקת נרות. ולכן לא בטל חג זה. ובניגוד לשאר ימים שבמגילת תענית. <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>אביי:</b> ומה טיבה של ראיה זו? <b>ותיבטיל איהי</b> <span class=\"hebrew-emphasis\">[שתבטל היא</span> חנוכה עצמה<span class=\"hebrew-emphasis\">]</span> <b>ותיבטל</b> גם <b>מצותה</b> בהדלקת נרות!",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:יג",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:13"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> said: Hanukkah is different, as there is the mitzva</b> of lighting candles, and so, unlike the other days listed in <i>Megillat Ta’anit</i>, the festival of Hanukkah was not nullified. <b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said to him:</b> What is this argument? <b>Let</b> Hanukkah <b>itself be nullified, and let its mitzva</b> of lighting candles <b>be nullified</b> with it.",
+      "he": "אָמַר <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>: שָׁאנֵי חֲנוּכָּה דְּאִיכָּא מִצְוָה. אָמַר לֵיהּ <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אַבָּיֵי</span>: וְתִיבְטַיל אִיהִי וְתִיבְטַל מִצְוָתָהּ!",
+      "ref": "Rosh Hashanah 18b:13"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דמפרסם ניסא</strong> - כבר הוא גלוי לכל ישראל ע\"י שנהגו בו המצות והחזיקו בו כשל תורה ולא נכון לבטלו:",
+              "ref": "Rashi on Rosh Hashanah 18b:14:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:יד:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:14:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>א״ר יוסף שאני וכו'.</b> דקס״ד דמשום מצוה דידה לא בטלה וא״ל אביי ותבטל מצוה דהא עיקר התקנה י״ט היה אלא ה״ק שאני חנוכה דמיפרסם ניסא משום דאיכא מצוה כלומר שע״י המצוה נתפרסם הנס בי״ט זה וא״א לבטלו ואפשר לומר דאביי מפרש הוא דברי רב יוסף אלא דלישנא דא״ל אביי ולא אמר מתקיף לה אביי משמע דמפלג פליג:",
+              "ref": "Ritva on Rosh Hashanah 18b:6",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ח ב:ו",
+              "sourceRef": "Ritva on Rosh Hashanah 18b:6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא אמר רב יוסף</b> יש לחזור מההסבר הקודם, ולומר כי <b>שאני</b> <span class=\"hebrew-emphasis\">[שונה]</span> <b>חנוכה דמיפרסם ניסא</b> <span class=\"hebrew-emphasis\">[שמפורסם</span> הוא <span class=\"hebrew-emphasis\">הנס</span> שלה<span class=\"hebrew-emphasis\">],</span> כיון שנתפרסם ונתקבל בכל ישראל כיום של שמחה אין לבטל אותו.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:יד",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:14"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span></b> retracted his previous explanation and <b>said: Hanukkah is different, as its miracle is well known,</b> and it has become so widely accepted by all the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span> that it would be inappropriate to nullify it.",
+      "he": "אֶלָּא אָמַר <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>, שָׁאנֵי חֲנוּכָּה דְּמִיפַּרְסַם נִיסָּא.",
+      "ref": "Rosh Hashanah 18b:14"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">אַדְכָּרָה</strong>, <strong dir=\"rtl\">אַדְכַּרְתָּא</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, דְּכַר I 1\" dir=\"rtl\" href=\"/Jastrow,_דְּכַר I.1\">דְּכַר</span>) <br><b>1)</b> <i>mention</i>, especially <i>invocation of the Lord, Divine Name</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 4:3:4\" href=\"Jerusalem_Talmud_Berakhot.4.3.4\">Yerushalmi Berakhot IV, 8ᵃ</span> top <span dir=\"rtl\">לכל חדא וחדא מנהון אדכרה</span> for each benediction an invocation. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:15\" href=\"/Rosh_Hashanah.18b.15\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">בטילת אדכרתא</span> the use of the Divine Name in legal documents was abolished. <br><b><br>—2)</b> (= Biblical Hebrew <span class=\"refLink\" data-ref=\"Jastrow, אַזְכָּרָה 1\" dir=\"rtl\" href=\"/Jastrow,_אַזְכָּרָה.1\">אַזְכָּרָח</span>) <i>memorial offering</i>. <span class=\"refLink\" data-ref=\"Onkelos Leviticus 2:2\" href=\"/Onkelos_Leviticus.2.2\">Targum Onkelos Vayikra II, 2</span>; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, אַדְכָּרָה 1",
+              "sourceHeRef": "מילון יסטרוב, אַדְכָּרָה א׳",
+              "sourceRef": "Jastrow, אַדְכָּרָה 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">בְּטֵל</strong>, <strong dir=\"rtl\">בְּטֵיל</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" href=\"/Jastrow,_בָּטֵל I.1\">same</span> ; 1) as h. Kal 1). <span class=\"refLink\" data-ref=\"Aramaic Targum to Lamentations 5:15\" href=\"/Aramaic_Targum_to_Lamentations.5.15\">Targum Eicha V, 15</span>; and e.—<span class=\"refLink\" data-ref=\"Sotah 33a:8\" href=\"/Sotah.33a.8\">Sotah 33ᵃ</span> <span dir=\"rtl\">בטילת עבידתא וכ׳</span> the decree enforcing idol worship in the Temple has been repealed. Megillah Taanit XI on the twenty second (of Shebat) <span dir=\"rtl\">ב׳ עבידתא</span> was the decree &c. revoked. <span class=\"refLink\" data-ref=\"Shabbat 139a:6\" href=\"/Shabbat.139a.6\">Shabbat 139ᵃ</span>, <span class=\"refLink\" data-ref=\"Sanhedrin 98a:9\" href=\"/Sanhedrin.98a.9\">Sanhedrin 98ᵃ</span> <span dir=\"rtl\">אי בטלי וכ׳</span>; see <span class=\"refLink\" data-ref=\"Jastrow, אַמְגֹּושָׁא 1\" dir=\"rtl\" href=\"/Jastrow,_אַמְגֹּושָׁא.1\">אַמְגּוֹשָׁא</span>. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:15\" href=\"/Rosh_Hashanah.18b.15\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">בטילת אדכרתא</span> (Megillah Taanit VII <span dir=\"rtl\">אתנטילת</span>, read <span dir=\"rtl\">אתב׳</span>), see <span class=\"refLink\" data-ref=\"Jastrow, אַדְכַּרְתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_אַדְכַּרְתָּא.1\">אַדְכַּרְתָּא</span><br>; and from—2) as h. Kal 2). <span class=\"refLink\" data-ref=\"Targum Jonathan on Exodus 17:1\" href=\"/Targum_Jonathan_on_Exodus.17.1\">Targum Yonatan Shemot XVII, 1</span> [read:] <span dir=\"rtl\">דבְטִילוּ אידיהון</span> when their hands were lazy &c.—Part. pass. <span class=\"refLink\" data-ref=\"Jastrow, בְּטִיל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּטִיל.1\">בָּטִיל</span> <i>annulled; neutralized</i> (in a larger quantity, see <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" href=\"/Jastrow,_בָּטֵל I.1\">preceding</span> Piël). <span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Chullin 100ᵃ</span>, and from (in Hebr. phraseology) <span dir=\"rtl\">מין במינו לא ב׳</span> in a mixture of homogeneous things (of which one is forbidden) the rule of neutralization by quantity takes no effect. <span class=\"refLink\" data-ref=\"Chullin 99a:3\" href=\"/Chullin.99a.3\">Ib. 99ᵃ</span> <span dir=\"rtl\">ברובא ב׳</span> it is neutralized in any larger quantity (than the forbidden ingredient); and from—<span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Ib. 100ᵃ</span> top <span dir=\"rtl\">ותבטיל</span>, see Ithpeel<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">בַּטֵּיל</strong> as h. Piël <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 33:10\" href=\"/Aramaic_Targum_to_Psalms.33.10\">Targum Psalms XXXIII, 10</span> (some ed. incorr. <span class=\"refLink\" data-ref=\"Jastrow, בְּטִיל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּטִיל.1\">בְּטִיל</span>); and e.—<span class=\"refLink\" data-ref=\"Eruvin 66b:14\" href=\"/Eruvin.66b.14\">Eruvin 66ᵇ</span> <span dir=\"rtl\">למאן נִיבַטֵּיל</span> to whom should he resign his right of usage (for Sabbath purposes)? <span dir=\"rtl\">לִיבַטֵּיל וכ׳</span> shall he resign &c.? Ib. 67ᵃ <span dir=\"rtl\">בַּטּוּלֵי … מְבַטֵיל</span>. <span class=\"refLink\" data-ref=\"Pesachim 6b:15\" href=\"/Pesachim.6b.15\">Pesachim 6ᵇ</span> <span dir=\"rtl\">לְבַטְּלֵיה</span> let him renounce it (the leavened thing). <span class=\"refLink\" data-ref=\"Pesachim 6b:17\" href=\"/Pesachim.6b.17\">Ib.</span> <span dir=\"rtl\">וניבטליה בארבע</span> let him renounce it at four hours of the day. <span class=\"refLink\" data-ref=\"Gittin 36b:9\" href=\"/Gittin.36b.9\">Gittin 36ᵇ</span> אֲבַטְּלִינֵיה I would repeal it (that law). <span class=\"refLink\" data-ref=\"Gittin 32a:9\" href=\"/Gittin.32a.9\">Ib. 32ᵃ</span> <span dir=\"rtl\">דבטולי בטליה</span> that he revoked it (the letter of divorce); and from<br></br> <strong>Af.</strong> - <strong dir=\"rtl\">אַבְטֵיל</strong> <br><b>1)</b> = Pa. <span class=\"refLink\" data-ref=\"Targum Jonathan on Genesis 6:7\" href=\"/Targum_Jonathan_on_Genesis.6.7\">Targum Yonatan Breishit VI, 7</span> 1) = Pa. <span class=\"refLink\" data-ref=\"Targum Jonathan on Genesis 6:7\" href=\"/Targum_Jonathan_on_Genesis.6.7\">Targum Yonatan Breishit VI, 7</span> אַבְטִיל I will undo (h. text <span dir=\"rtl\">אמחה</span>); and e. <br><b><br>—2)</b> = h. Hifil <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 30:11\" href=\"/Targum_Jonathan_on_Isaiah.30.11\">Targum Isaiah XXX, 11</span> <span dir=\"rtl\">אַבְטְלוּנָא מ־</span> make ye us free from tradition.<br></br> <strong>Ithpeel</strong> - <strong dir=\"rtl\">אִתְבְּטִיל</strong> , contr. <span class=\"refLink\" data-ref=\"Jastrow, בְּצַל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּצַל.1\">אִיבְּטִיל</span>. <br><b>1)</b> <i>to be abolished, removed, undone</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Job 17:11\" href=\"/Aramaic_Targum_to_Job.17.11\">Targum Job XVII, 11</span>; and from—<span class=\"refLink\" data-ref=\"Gittin 32a:3\" href=\"/Gittin.32a.3\">Gittin 32ᵃ</span>; <span class=\"refLink\" data-ref=\"Gittin 32b:9\" href=\"/Gittin.32b.9\">32ᵇ</span> <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" dir=\"rtl\" href=\"/Jastrow,_בָּטֵל I.1\">בָּטֵל</span> has two meanings <span dir=\"rtl\">משמע דבטל ומשמע דלִיבְּטִיל</span> it may mean ‘it is void’, and may mean ‘be it declared void’. <span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Chullin 100ᵃ</span> <span dir=\"rtl\">ותבְּטִיל ברובא</span> (or <span dir=\"rtl\">ותִבְטִיל</span>) let it be neutralized in the larger mixture; (why is it not &c.?) <br><b><br>—2)</b> <i>to be disturbed, to be forced to be idle</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Ecclesiastes 12:3\" href=\"/Aramaic_Targum_to_Ecclesiastes.12.3\">Targum Kohelet XII, 3</span>; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, בְּטֵל 1",
+              "sourceHeRef": "מילון יסטרוב, בְּטֵל א׳",
+              "sourceRef": "Jastrow, בְּטֵל 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">גְּזֵרָה</strong>, <strong dir=\"rtl\">גְּזֵירָה</strong> f. (Biblical Hebrew; <span dir=\"rtl\">גזר</span>) <br><b>1)</b> <i>a secluded and narrow place, dale, precipice</i>. <span class=\"refLink\" data-ref=\"Yoma 67b:6\" href=\"/Yoma.67b.6\">Yoma 67ᵇ</span> <span dir=\"rtl\">ומנין שבצוק ת\"ל ג׳</span> and how do we know that the place (Azazel) must be precipitous? We read <i>g’zerah</i> (<span class=\"refLink\" data-ref=\"Leviticus 16:22\" href=\"/Leviticus.16.22\">Vayikra XVI, 22</span>) ; Sifra Aḥaré Parah 2, Chaldaic II <span class=\"refLink\" data-ref=\"Bereishit Rabbah 98\" href=\"/Bereishit_Rabbah.98\">Breishit Rabbah section (Parashah) 98</span>, beginning <span dir=\"rtl\">איזה לשם ואיזה לג׳</span><br> which (goat) for the Lord and which for the precipice.—2) <i>decree, edict, divine dispensation</i>; (in an evil sense) <i>persecution</i> by foreign governments. Sifra l. common gender. Chaldaic VI, Parah 5 <span dir=\"rtl\">יכול יהא גְּזֵרַת מלך</span> lest you may think it is a royal ordinance (the reason of which is not known); see version in <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 576:5\" href=\"/Yalkut_Shimoni_on_Torah.576.5\">Yalkut Vayikra 576</span>. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 19:19\" href=\"/Bamidbar_Rabbah.19.19\">Bamidabar Rabbah section (Parashah) 19</span> ג׳ גזרתי … על גְּזֵרָתִי I have decreed it, thou art not permitted to transgress my decree (though knowing no reason).—<span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:15\" href=\"/Rosh_Hashanah.18b.15\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">גְּזֵרַת המלכות</span> (Manuscript Munich <span dir=\"rtl\">שמד</span>) political persecution. <span class=\"refLink\" data-ref=\"Shabbat 145b:14\" href=\"/Shabbat.145b.14\">Shabbat 145ᵇ</span> to reflect <span dir=\"rtl\">איזו ג׳ קשה אביא וכ׳</span> what hard dispensation to send them; and from <br><b><br>—3)</b> <i>a rabbinical enactment issued as a guard</i> (see <span class=\"refLink\" data-ref=\"Jastrow, גֶּדֶר I 1\" dir=\"rtl\" href=\"/Jastrow,_גֶּדֶר I.1\">גֶּדֶר</span>), <i>preventive measure; in gen. prohibition, restriction</i>. <span class=\"refLink\" data-ref=\"Bava Batra 60b:20\" href=\"/Bava_Batra.60b.20\">Bava Batra 60ᵇ</span>, and e. <span dir=\"rtl\">אין גוזרין ג׳ על וכ׳</span> we must not impose a restriction on the public which the majority can not endure. <span class=\"refLink\" data-ref=\"Beitzah 2b:13\" href=\"/Beitzah.2b.13\">Beitzah 2ᵇ</span>, and from <span dir=\"rtl\">ג׳ משום וכ׳</span> it is prohibited in order to prevent &c. <span class=\"refLink\" data-ref=\"Beitzah 3a:3\" href=\"/Beitzah.3a.3\">Ib. 3ᵃ</span> <span dir=\"rtl\">ג׳ לג׳</span> a guard to a guard, i.e. a preventive measure enacted in order to prevent the violation of another preventive measure; and from—plural <span dir=\"rtl\">גְּזֵרוֹת</span>, <span dir=\"rtl\">גְּזֵירוֹת</span>. Bava Batra l. common gender. <span dir=\"rtl\">ג׳ רעות וקשות</span> Manuscript Munich (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note) bad and severe enactments (persecutions). <span class=\"refLink\" data-ref=\"Shabbat 30a:5\" href=\"/Shabbat.30a.5\">Shabbat 30ᵃ</span> Moses, our teacher <span dir=\"rtl\">גזר כמה ג׳</span> issued so many restrictions. <span class=\"refLink\" data-ref=\"Makkot 24a:28\" href=\"/Makkot.24a.28\">Makkot 24ᵃ</span> <span dir=\"rtl\">ארבע ג׳ גזר וכ׳</span> four hardships did Moses pronounce over Israel. <span class=\"refLink\" data-ref=\"Eruvin 21b:5\" href=\"/Eruvin.21b.5\">Eruvin 21ᵇ</span> <span dir=\"rtl\">הרבה ג׳ גזרתי על עצמי וכ׳</span> many restrictions did I (Israel) impose upon myself beyond those which thou (the Lord, in the Torah) &c. <span class=\"refLink\" data-ref=\"Pesachim 87b:7\" href=\"/Pesachim.87b.7\">Pesachim 87ᵇ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אֲרָם 1\" dir=\"rtl\" href=\"/Jastrow,_אֲרָם.1\">אֲרָם</span>; and from—<span class=\"refLink\" data-ref=\"Mishnah Moed Katan 3:3\" href=\"/Mishnah_Moed_Katan.3.3\">Moʿed Katan III, 3</span>, see <span class=\"refLink\" data-ref=\"Jastrow, גָּזָר 1\" dir=\"rtl\" href=\"/Jastrow,_גָּזָר.1\">גָּזָר</span>. <br><b><br>—4)</b> (logics) <i>category</i>, especially <span dir=\"rtl\">ג׳ שָׁוָה</span> <i>G’zerah shavah, an equal or identic category</i>, i.e. an analogy between two laws established on the basis of verbal congruities in the texts, e.g. <span class=\"refLink\" data-ref=\"Pesachim 66a:4\" href=\"/Pesachim.66a.4\">Pesachim 66ᵃ</span>, <span dir=\"rtl\">נאמר מועדו בפסח וכ׳</span> the Passover law contains the word <i>moădo</i> (due season, <span class=\"refLink\" data-ref=\"Numbers 11:2\" href=\"/Numbers.11.2\">Bamidbar XI, 2</span>) and the law concerning the daily sacrifices uses the same word (ib. XXVIII, 2): as the word <i>moădo</i> in the latter indicates that it applies also to the Sabbath day (superseding the ordinary Sabbath law concerning labor), so does it in the former intimate that it supersedes the Sabbath law (if the eve of Passover occurs on a Sabbath). Ib. <span dir=\"rtl\">אין אדם דן ג\"ש מעצמו</span> you cannot establish an analogy from congruent expressions of your own accord, i.e. it must be authorized by tradition that the verbal congruity is applied to a certain analogy and no other.—<span class=\"refLink\" data-ref=\"Jerusalem Talmud Yevamot 11:1:7\" href=\"Jerusalem_Talmud_Yevamot.11.1.7\">Yerushalmi Yevamot XI, 11ᵈ</span> top <span dir=\"rtl\">ג\"ש במקום שבאת</span> an analogy can be drawn wherever it occurs, i.e. a textual analogy once established must be carried through all details; ib. VIII, 9ᶜ bottom of page <span dir=\"rtl\">ג\"ש במקום שכתוב</span> (correct accordingly); Yerushalmi Kiddushin IV, 65ᵈ top; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sanhedrin 9:1:10\" href=\"Jerusalem_Talmud_Sanhedrin.9.1.10\">Yerushalmi Sanhedrin IX, 26ᵈ</span> bottom of page; and e.—<span class=\"refLink\" data-ref=\"Shabbat 97a:1\" href=\"/Shabbat.97a.1\">Shabbat 97ᵃ</span> <span dir=\"rtl\">ג\"ש לא גמיר</span> he had no tradition concerning that analogy; and from—In gen. <span dir=\"rtl\">ג\"ש</span> <i>analogy</i>. <span class=\"refLink\" data-ref=\"Mishnah Beitzah 1:6\" href=\"/Mishnah_Beitzah.1.6\">Beitzah I, 6</span>; and e.—plural <span dir=\"rtl\">גְּזֵירוֹת שָׁווֹת</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 46:4\" href=\"/Bereishit_Rabbah.46.4\">Breishit Rabbah section (Parashah) 46</span>; <span class=\"refLink\" data-ref=\"Vayikra Rabbah 25\" href=\"/Vayikra_Rabbah.25\">Vayikra Rabbah section (Parashah) 25</span>. [<span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 8:5:4\" href=\"Jerusalem_Talmud_Berakhot.8.5.4\">Yerushalmi Berakhot VIII, 12ᵇ</span> top <span dir=\"rtl\">גזירה דהוא רבע</span>, read <span dir=\"rtl\">גזרית</span> or <span dir=\"rtl\">גזירנא</span> I command that &c.; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Ketubot 5:6:3\" href=\"Jerusalem_Talmud_Ketubot.5.6.3\">Yerushalmi Ketubot V, 30ᵃ</span> <span dir=\"rtl\">גזירה דגזרין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, גָּזוֹרָא 1\" dir=\"rtl\" href=\"/Jastrow,_גָּזוֹרָא.1\">גָּזוֹרָא</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, גְּזֵרָה 1",
+              "sourceHeRef": "מילון יסטרוב, גְּזֵרָה א׳",
+              "sourceRef": "Jastrow, גְּזֵרָה 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">כָּךְ</strong> (Biblical Hebrew <span class=\"refLink\" data-ref=\"Jastrow, כָּכָה 1\" dir=\"rtl\" href=\"/Jastrow,_כָּכָה.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, כָּכָה 1\" dir=\"rtl\" href=\"/Jastrow,_כָּכָה.1\">כָּכָה</span>) <i>thus, so.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:5\" href=\"/Pirkei_Avot.4.5\">Pirkei Avot IV, 5</span> <span dir=\"rtl\">וכך הי׳ הלל וכ׳</span> and even so (in the same sense) did Hillel say. <span class=\"refLink\" data-ref=\"Bava Kamma 61a:3\" href=\"/Bava_Kamma.61a.3\">Bava Kamma 61ᵃ</span> <span dir=\"rtl\">כך מקובלני וכ׳</span> such is my tradition from &c. <span class=\"refLink\" data-ref=\"Tosefta Ketubot 5:9\" href=\"/Tosefta_Ketubot.5.9\">Tosefta Ketubot V, 9</span> <span dir=\"rtl\">כך תתנו וכ׳</span> even so much (and no more) may you have wherewith to endow your daughters; Bavli <span class=\"refLink\" data-ref=\"Sanhedrin 66b\" href=\"/Sanhedrin.66b\">Sanhedrin 66ᵇ</span>; <span class=\"refLink\" data-ref=\"Sanhedrin 65a\" href=\"/Sanhedrin.65a\">ib. 65ᵃ</span> <span dir=\"rtl\">כך תפסקו</span>; Yerushalmi ib. V, end, 30ᶜ <span class=\"refLink\" data-ref=\"Jastrow, כָּכָה 1\" dir=\"rtl\" href=\"/Jastrow,_כָּכָה.1\">כָּכָה</span>; and from—כך וכך <i>so and so many, a certain number, date</i> &c. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:15\" href=\"/Rosh_Hashanah.18b.15\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">בשנת כך וכך ליוחנן וכ׳</span> in the year—of John &c.; and from—<span dir=\"rtl\">אחר כך</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אַחַר 1\" dir=\"rtl\" href=\"/Jastrow,_אַחַר.1\">אַחַר</span>.—<span class=\"refLink\" data-ref=\"Jastrow, לְכָךְ 1\" dir=\"rtl\" href=\"/Jastrow,_לְכָךְ.1\">לְכָךְ</span> (compare Biblical Hebrew <span class=\"refLink\" data-ref=\"Jastrow, לָכֵן 1\" dir=\"rtl\" href=\"/Jastrow,_לָכֵן.1\">לָכֵן</span>) <i>for such a purpose, therefore.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 2:8\" href=\"/Pirkei_Avot.2.8\">Pirkei Avot II, 8</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יָצַר 1\" dir=\"rtl\" href=\"/Jastrow,_יָצַר.1\">יָצַר</span>. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 4:20\" href=\"/Bamidbar_Rabbah.4.20\">Bamidabar Rabbah section (Parashah) 4</span>, beginning <span dir=\"rtl\">ל׳ דַּקְדֵּק וכ׳</span> therefore be exact in recording the numbers &c.; and from—V. <span class=\"refLink\" data-ref=\"Jastrow, הִילְכָךְ 1\" dir=\"rtl\" href=\"/Jastrow,_הִילְכָךְ.1\">הִילְכָךְ</span>, <span class=\"refLink\" data-ref=\"Jastrow, לְפִיכָךְ 1\" dir=\"rtl\" href=\"/Jastrow,_לְפִיכָךְ.1\">לְפִיכָךְ</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, כָּךְ 1",
+              "sourceHeRef": "מילון יסטרוב, כָּךְ א׳",
+              "sourceRef": "Jastrow, כָּךְ 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "On the 3rd of Tishri were removed the 'mentions' on documents."
+              ],
+              "he": [
+                "<strong>בִשְׁלֹשָׁה בְּתִּשְׁרֵי אִיתְנַטִּילַת אַדְרַכְתָּא מִן שְׁטָרַיָא:</strong>",
+                "שפעם א' גזרה מלכות יון הרשעה גזירה על ישראל ואמרו להם אין לכם חלק באלהי ישראל ולא היו מזכירין שם שמים בפיהם וכשגברה בית חשמונאי ונצחום התקינו שיהיו כותבין שם שמים אפי' בשטרות וכך היו כותבין בשנת כך וכך ליוחנן כ\"ג שהוא משמש לאל עליון. וכששמעו חכמים בדבר אמרו וכי מזכירין שם שמים בשטרות למחר פורע זה את חובו וקורע את שטרו ונמצא ש\"ש מוטל באשפה ובטלום ואותו היום עשו אותו י\"ט:"
+              ],
+              "ref": "Megillat Ta'anit, Tishrei 1-2",
+              "sourceHeRef": "מגילת תענית, תשרי א׳-ב׳",
+              "sourceRef": "Megillat Ta'anit, Tishrei 1-2"
+            }
+          ]
+        },
+        "Peninei Halakhah": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בתלמוד <span class=\"parenthesized\">(ר\"ה יח, ב)</span> מסופר כי בתקופת מלכות יוון גזרה המלכות גזירת שמד: שלא להזכיר שם שמיים. וכשגברו החשמונאים וניצחום, ראו צורך לחזק את האמונה, והתקינו להרבות בהזכרת שם שמיים, ונהגו לכתוב בכל השטרות שם שמיים. וכך היו כותבים: \"בשנת כך וכך ליוחנן כהן גדול לא-ל עליון\". אך תקנה זו גרמה לבעייה, כי לאחר שאדם היה פורע חובו היו זורקים את השטר, ונמצא שם שמיים מוטל באשפה. על כן ביטלו חכמים מנהג זה, ועשו אותו היום שביטלו בו את המנהג ליום טוב.",
+              "ref": "Peninei Halakhah, Likkutim I 5:9:6",
+              "sourceHeRef": "ליקוטים א ה:ט:ו",
+              "sourceRef": "Likkutim I 5:9:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בתלתא בתשרי כו'</strong> - כך כתוב במגילה לשון ארמי בטילת אדכרתא ביטלו אזכרת שם שמים מן השטרות ובקושי יכלו לבטל שכבר נהגו העם וכששמעו חכמי' ובטלום הוכשר הדבר בעיניהם ונחשב להם לנס ועשאוהו י\"ט:",
+              "ref": "Rashi on Rosh Hashanah 18b:15:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ח ב:טו:א",
+              "sourceRef": "Rashi on Rosh Hashanah 18b:15:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מותיב</b> <span class=\"hebrew-emphasis\">[מקשה]</span> <b>רב אחא בר הונא:</b> נאמר במגילת תענית <b>בתלתא</b> <span class=\"hebrew-emphasis\">[בשלושה]</span> <b>בתשרי</b> יום שמחה הוא כי בו <b>בטילת אדכרתא מן שטריא</b> <span class=\"hebrew-emphasis\">[בטלה אזכרת</span> שם שמים <span class=\"hebrew-emphasis\">מן השטרות].</span> ומבואר שם, <b>שגזרה מלכות יון גזרה</b> על היהודים, <b>שלא להזכיר שם שמים על פיהם, וכשגברה מלכות חשמונאי ונצחום התקינו שיהו מזכירין שם שמים אפילו בשטרות. וכך היו כותבים: בשנת כך וכך ליוחנן כהן גדול לאל עליון.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:טו",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:15"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Although the date of this event is not mentioned, from context it appears that this ordinance was made after the time of Yoĥanan Hyrcanus, who served as High Priest for eighty years. Perhaps it was instituted in the time of Alexander Jannaeus, and therefore the miraculous aspect is emphasized due to the tense relationship between him and the Sages. Alternatively, it may have occurred in the time of Queen Salome Alexandra, when the Sages were given more authority.",
+              "he": "אף שזמנו של המאורע אינו נזכר כאן, הרי מתוך הדברים נראה שתקנה זו נעשתה לאחר זמנו של יוחנן הורקנוס (יוחנן כהן גדול, הנזכר כאן) אם בשנותיו של אלכסנדר ינאי (ואז היה צורך בהדגשה יתירה של הדברים משום היחסים המתוחים בין המלך וחכמי הפרושים), או בזמנה של שלומציון המלכה, כאשר לחכמי ישראל היה מלוא השלטון במדינה.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:15",
+              "sourceHeRef": "בְּטֵילַת אַדְכַּרְתָּא",
+              "sourceRef": "Requiring the mention of God’s name…was abolished"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-aha-b-rav-huna\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-rav-huna\">Rav Aḥa bar Huna</span> raised an objection:</b> It is stated in <i>Megillat Ta’anit</i>: <b>On the third of Tishrei the</b> ordinance requiring the <b>mention</b> of God’s name <b>in</b> legal <b>documents was abolished,</b> and on that day fasting is forbidden. <b>For the kingdom of Greece had issued a decree</b> against the Jews <b>forbidding them to mention the name of Heaven on their lips. When the Hasmonean kingdom became strong and defeated</b> the Greeks, <b>they instituted that people should mention the name of Heaven even in their</b> legal <b>documents. And therefore they would write: In year such and such of <span href=\"/topics/yochanan-the-high-priest\" class=\"namedEntityLink\" data-slug=\"yochanan-the-high-priest\">Yoḥanan the High Priest</span> of the God Most High.</b>",
+      "he": "מוֹתֵיב <span href=\"/topics/rav-aha-b-rav-huna\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-rav-huna\">רַב אַחָא בַּר הוּנָא</span>: בִּתְלָתָא בְּתִשְׁרִי בְּטֵילַת אַדְכָּרְתָּא מִן שְׁטָרַיָּיא. שֶׁגָּזְרָה מַלְכוּת יָוָן גְּזֵרָה שֶׁלֹּא לְהַזְכִּיר שֵׁם שָׁמַיִם עַל פִּיהֶם, וּכְשֶׁגָּבְרָה מַלְכוּת חַשְׁמוֹנַאי וְנִצְּחוּם הִתְקִינוּ שֶׁיְּהוּ מַזְכִּירִין שֵׁם שָׁמַיִם אֲפִילּוּ בִּשְׁטָרוֹת. וְכָךְ הָיוּ כּוֹתְבִים: בִּשְׁנַת כָּךְ וְכָךְ <span href=\"/topics/yochanan-the-high-priest\" class=\"namedEntityLink\" data-slug=\"yochanan-the-high-priest\">לְיוֹחָנָן כֹּהֵן גָּדוֹל</span> לְאֵל עֶלְיוֹן.",
+      "ref": "Rosh Hashanah 18b:15"
+    },
+    {
+      "commentary": {
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וכששמעו חכמים כו'.</b> מכאן יש לזהר שלא לכתוב שם בשטרי שבועות וחובות וכיוצא ואע״ג שאין נוהגין לכתבו אלא בכנוי ושלא בכתב אשורי קרוב הדבר שאף שטרותיהם לא היו בכתב אשורי שלא היו נוהגין לכתבו אלא בכתבי הקודש ואעפ״כ היה קשה בעיניהם מפני כבוד ה׳ וכיון שכן ראוי לחוש לדבר כל מה שאפשר וכל שטר או של שאלת שלום שיש בו שם אסור להטילו לאשפה אבל אם אין בו שם אין בו קפידא כדמוכח הכא ואם יש בו שלום יש מקפידין מפני שהוא שמו של הקב״ה ולכן נוהגין הרבה שלא לכתוב שלום שמא היום או מחר יהא מוטל באשפה ורבותי אינם מקפידין והמחמיר תע״ב:",
+              "ref": "Ritva on Rosh Hashanah 18b:7",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ח ב:ז",
+              "sourceRef": "Ritva on Rosh Hashanah 18b:7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וכששמעו חכמים בדבר אמרו: למחר זה</b> בעל החוב <b>פורע את חובו</b> ואז אין צורך עוד בשטר <b>ונמצא שטר מוטל באשפה,</b> ושם שמים הכתוב בו מתבזה, <b>וביטלום</b> לתקנת הזכרת שם שמים בשטרות, <b>ואותו היום</b> שביטלו <b>עשאוהו יום טוב. ואי סלקא דעתך</b> <span class=\"hebrew-emphasis\">[ואם עולה על דעתך</span> לומר<span class=\"hebrew-emphasis\">]</span> כי <b>בטלה מגילת תענית,</b> וכי <b>קמייתא בטול אחרנייתא</b> <span class=\"hebrew-emphasis\">[את</span> התקנות <span class=\"hebrew-emphasis\">הראשונות מבטלים ואחרונות</span> תקנות חדשות<span class=\"hebrew-emphasis\">]</span> <b>מוסיפין?</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:16",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:טז",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:16"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Maharsha wrote that since this <i>halakha</i> to mention God’s name on documents was originally instituted by the Hasmoneans in honor of their victory, the Sages were concerned that annulling the <i>halakha </i>would provoke opposition of the Hasmonean kings. When it passed without trouble they established that day as a Festival.",
+              "he": "וכתב המהרש\"א שכיון שתיקנו תקנה זו של הזכרת שם בשטרות על ידי מלכי החשמונאים ולזכר הנצחון, חששו חכמים שביטול התקנה יתקל בהתנגדות מלכי החשמונאים, וכיון שזה עבר ללא סכסוך — קבעו יום טוב.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 18b:16",
+              "sourceHeRef": "וְאוֹתוֹ הַיּוֹם עֲשָׂאוּהוּ יוֹם טוֹב",
+              "sourceRef": "And they made that day into a Festival"
+            }
+          ]
+        }
+      },
+      "en": "<b>And when the Sages heard about this they said: Tomorrow this one,</b> the borrower, <b>will repay his debt,</b> the lender will no longer need to save the loan document, <b>the document will be cast on a dunghill,</b> and the name of Heaven written there will come to disgrace. <b>And</b> so <b>they annulled</b> the ordinance to mention God’s name in documents, <b>and they made that day into a Festival. And if it enters your mind</b> to say that <b><i>Megillat Ta’anit</i> has been nullified,</b> can you say that <b>the first</b> prohibitions against fasting <b>they annulled, and</b> then <b>later</b> ones <b>were added?</b>",
+      "he": "וּכְשֶׁשָּׁמְעוּ חֲכָמִים בַּדָּבָר, אָמְרוּ: לְמָחָר זֶה פּוֹרֵעַ אֶת חוֹבוֹ וְנִמְצָא שְׁטָר מוּטָּל בָּאַשְׁפָּה, וּבִיטְּלוּם, וְאוֹתוֹ הַיּוֹם עֲשָׂאוּהוּ יוֹם טוֹב. וְאִי סָלְקָא דַעְתָּךְ בָּטְלָה מְגִילַּת תַּעֲנִית — קַמָּיָיתָא בְּטוּל, אַחְרָנְיָיתָא מוֹסִיפִין?!",
+      "ref": "Rosh Hashanah 18b:16"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "It is taught in the mishna that <b>Rabbi Yosei and Rabbi Shimon say:</b> If a priest who is <b>a hermaphrodite</b> married an Israelite woman, he enables her to eat <i>teruma</i>. <b>Reish Lakish said: He enables her to eat <i>teruma</i>, but he does not enable her to eat the breast and thigh</b> of peace-offerings. <b>Rabbi Yoḥanan says: He even enables her to eat the breast and thigh</b> of peace-offerings. The Gemara asks: <b>And according to Reish Lakish, what is different</b> about <b>the breast and thigh</b> of peace-offerings? If you say it is that they are <b>by Torah</b> law, <b><i>teruma</i></b> is <b>also by Torah</b> law. Why, then, is it permitted for her to eat <i>teruma</i>, but not the breast and thigh of peace-offerings?",
+                  "The Gemara answers: <b>With what are we dealing here?</b> We are dealing <b>with <i>teruma</i> in the present,</b> after the destruction of the Temple, when <i>teruma</i> is in effect only <b>by rabbinic</b> law. The Gemara asks: <b>But when the Temple is standing, what</b> is the <i>halakha</i>? He does <b>not</b> enable his wife to eat <i>teruma</i>. But if so, there is a difficulty. <b>Instead of teaching</b> that <b>he does not enable her to eat the breast and thigh</b> of peace-offerings, <b>let him distinguish and teach</b> it <b>within</b> the case of <i>teruma</i> <b>itself</b> as follows: <b>In what</b> case <b>is this statement said?</b> It is said <b>with regard to <i>teruma</i></b> that is in effect only <b>by rabbinic</b> law, <b>but with regard to <i>teruma</i></b> that is in effect <b>by Torah</b> law this ruling does <b>not</b> apply.",
+                  "The Gemara answers: <b>That is also what he is saying.</b> In other words, this is actually what Reish Lakish means, as his statement should be understood as follows: <b>When he enables her to eat, he enables her to eat <i>teruma</i> in the present,</b> when <i>teruma</i> is in effect only <b>by rabbinic</b> law, <b>but he does not enable her to eat</b> <i>teruma</i> <b>at a time</b> that <b>the breast and thigh</b> are given to the priests, i.e., when the Temple is standing, not <b>even <i>teruma</i></b> that is in effect only <b>by rabbinic</b> law. This is due to the concern that <b>perhaps he will bring her to eat <i>teruma</i></b> that is in effect <b>by Torah</b> law.",
+                  "However, <b>Rabbi Yoḥanan</b> disagrees and <b>says</b> that <b>he even enables her to eat the breast and thigh</b> of peace-offerings. With respect to this dispute, <b>Rabbi Yoḥanan said to Reish Lakish:</b> Since you distinguish between <i>teruma</i> and the breast and thigh, <b>do you maintain</b> that <b><i>teruma</i> in the present</b> is mandated only <b>by rabbinic</b> law? <b>He said to him: Yes,</b> and the proof is <b>that I teach</b> that <b>a cake</b> of dried figs that became intermingled <b>with</b> other <b>cakes is nullified.</b> If a cake of <i>teruma</i> figs became intermingled with one hundred ordinary cakes, the cake is nullified and it is not necessary to treat them all as <i>teruma</i>. If the cake, which is a food of importance in its own right, is nullified, this must be because the <i>teruma</i> is only by rabbinic law.",
+                  "Rabbi Yoḥanan <b>said to him: But don’t I teach</b> that even <b>a piece</b> of a sin-offering that became intermingled <b>with</b> other <b>pieces</b> of meat <b>is nullified,</b> as I maintain that the <i>halakha</i> of nullification applies even to Torah prohibitions? <b>Do you maintain</b> that <b>we learned</b> that <b>any</b> object <b>that it is usual to count,</b> i.e., any object that is even occasionally sold by unit, rather than by weight or measure, is considered to be important and therefore cannot be nullified? This is not so, as in fact <b>we learned</b> that only <b>that which it is usual to count,</b> i.e., an object that is always sold by unit and in no other manner, is considered to be important and is therefore not subject to nullification; and cakes of dried figs are not always sold by unit.",
+                  "The Gemara asks: <b>What is</b> this <i>halakha</i> to which Rabbi Yoḥanan alludes? <b>As we learned</b> in a mishna (<i>Orla</i> 3:6–7): In the case of <b>one who had bundles of clover,</b> a type of legume, <b>of</b> a forbidden mixture of <b>food crops in a vineyard,</b> i.e., clover plants that grew in a vineyard, these bundles <b>must be burned,</b> as it is prohibited for one to derive benefit from a forbidden mixture of food crops in a vineyard. If the forbidden bundles <b>became intermingled with others</b> that are permitted,"
+                ],
+                [
+                  "<b>they must all be burned;</b> this is <b>the statement of Rabbi Meir. And the Rabbis say: They are nullified in</b> a mixture of <b>one</b> part forbidden food <b>to two hundred</b> parts permitted food. <b>As Rabbi Meir would say: Any</b> object <b>that it is usual to count renders</b> a mixture <b>prohibited.</b> In other words, objects that are counted and sold by the unit, rather than by weight or estimation, are considered of special importance, and so they cannot be nullified by any majority and therefore must be burned. <b>But the Rabbis say: Only six objects</b> are important enough that they cannot be nullified and therefore <b>render</b> their mixtures <b>forbidden. Rabbi Akiva says:</b> There are <b>seven</b> such objects.",
+                  "<b>They are</b> as follows: <b>Perekh nuts,</b> high-quality nuts from a place called Perekh; <b>Badan pomegranates,</b> pomegranates from a place called Badan; <b>sealed barrels</b> of wine; <b>shoots of beet; cabbage stalks; and Greek gourd. Rabbi Akiva adds,</b> as his seventh item, <b>a homeowner’s loaves.</b> Different prohibitions apply to these seven items: <b>Those that are fit for</b> the prohibition of <b><i>orla</i>,</b> fruit that grows in the first three years after a tree has been planted, i.e., the nuts and pomegranates, render the entire mixture <b><i>orla</i>. Those that are fit</b> for the prohibition proscribing a mixture of <b>food crops in a vineyard,</b> i.e., the beets, cabbage, and gourd, render the entire mixture a mixture of <b>food crops in a vineyard.</b>",
+                  "And it was stated that <i>amora’im</i> disagreed about the precise wording of this mishna: <b>Rabbi Yoḥanan holds</b> that <b>we learned: That which it is usual to count,</b> i.e., Rabbi Meir’s stringent ruling is limited to objects that are sold exclusively by unit. <b>And Reish Lakish holds</b> that <b>we learned: Any</b> object <b>that it is usual to count,</b> i.e., even items that are only sometimes sold by unit are considered important and cannot be nullified.",
+                  "The Gemara further explains: <b>What is</b> the case of <b>a piece,</b> referred to by Rabbi Yoḥanan? <b>As it is taught</b> in a <i>baraita</i>: If <b>a piece of a ritually impure sin-offering became intermingled with one hundred pieces of ritually pure sin-offerings, and similarly,</b> if <b>a slice of ritually impure shewbread became intermingled with one hundred slices of ritually pure showbread,</b> the impure piece of a sin-offering or slice of shewbread <b>is nullified</b> in its respective mixture. <b>Rabbi Yehuda says: It is not nullified.</b>",
+                  "<b>However,</b> if <b>a piece of a ritually pure sin-offering became intermingled with one hundred pieces of ritually pure non-sacred</b> meat, <b>and similarly,</b> if <b>a slice of ritually pure shewbread became intermingled with one hundred slices of ritually pure non-sacred bread, everyone agrees that</b> the pure piece of sin-offering or slice of shewbread <b>is not nullified</b> in its respective mixture.",
+                  "The Gemara asks: <b>In any event, the first clause</b> of this <i>baraita</i> <b>teaches</b> that a piece of ritually impure sin-offering <b>can be nullified.</b> This poses a difficulty with respect to the opinion of Reish Lakish, as such a piece of meat is an item that is sometimes counted and considered important in its own right, and it is forbidden by Torah law, but nevertheless it can still be nullified. <b>Rabbi Ḥiyya, son of Rav Huna, said:</b> This <i>baraita</i> is referring not to a whole piece of meat but <b>to one that had been crushed</b> and broken into small parts. Once it is no longer a whole piece, it loses its importance and can be nullified.",
+                  "The Gemara asks: <b>If</b> it is <b>so</b> that the piece has been crushed, <b>what is the reason for Rabbi Yehuda’s</b> opinion that the piece is not nullified?"
+                ],
+                [
+                  "The Gemara answers: <b>Rabbi Yehuda</b> conforms <b>to his</b> standard line of <b>reasoning, as he stated</b> a principle that if a particular <b>type</b> of food is mixed <b>with</b> food of <b>its</b> own <b>type,</b> it <b>cannot be nullified</b> under any circumstances.",
+                  "The Gemara asks further: <b>But</b> had the piece of meat <b>not</b> been <b>crushed, what</b> would the <i>halakha</i> be? Presumably, it would <b>not</b> be <b>nullified.</b> If so, there is a difficulty, as <b>instead of teaching</b> a case involving non-sacred meat in the second half of the <i>baraita</i>, as follows: <b>However, if a piece of a ritually pure sin-offering became intermingled with one hundred pieces of ritually pure non-sacred</b> meat, the impure piece of a sin-offering <b>is not nullified; let</b> the <i>tanna</i> <b>distinguish and teach</b> it <b>in</b> the case involving only sacred meat, as follows: <b>In what</b> case <b>is this statement said?</b> It is in a case <b>where</b> the piece of meat <b>has been crushed</b> and broken into small parts, <b>but</b> if it <b>has not been crushed,</b> it is <b>not nullified.</b>",
+                  "The Gemara answers: Even so, the <i>tanna</i> <b>prefers</b> to address the case of an intermingling of <b>ritually pure</b> items <b>with</b> other <b>ritually pure</b> items and thereby teach a novel <i>halakha</i>, notwithstanding the fact that he could have made a distinction within the case of a ritually impure piece itself.",
+                  "The Gemara asks: <b>And according to Reish Lakish,</b> who establishes the <i>baraita</i> as referring to a piece of meat that has been crushed, <b>what is different</b> in <b>the first clause</b> of the <i>baraita</i> <b>and what is different</b> in <b>the latter clause?</b> Why is nullification possible in the case of impure pieces, but not in the case of pure ones? <b>Rav Sheisha, son of Rav Idi, said: The first clause</b> is dealing with a piece of a sin-offering that contracted <b>ritual impurity due to liquids,</b> which is imparted <b>by rabbinic</b> law. Since the sacred food contracted impurity that is only rabbinic in origin, it may be nullified rather than allowed to go to waste. <b>The latter clause,</b> on the other hand, deals with sacred food that became intermingled with ordinary non-sacred food. The sacred food is forbidden to non-priests <b>by Torah</b> law, and therefore it is not nullified.",
+                  "The Gemara asks: <b>But</b> had the piece of meat mentioned in the first clause of the <i>baraita</i> contracted <b>ritual impurity through</b> contact with <b>a creeping animal,</b> which is imparted by Torah law, <b>what</b> would the <i>halakha</i> be? Presumably, it would <b>not</b> be <b>nullified.</b>",
+                  "If so, there is a difficulty, as <b>instead of teaching</b> a case involving non-sacred meat in the <b>latter clause</b> of the <i>baraita</i>, as follows: <b>However,</b> if <b>a piece of a ritually pure sin-offering became intermingled with one hundred pieces of ritually pure non-sacred</b> meat, the impure piece of a sin-offering <b>is not nullified; let</b> the <i>tanna</i> <b>distinguish and teach</b> it <b>in</b> the case involving only sacred meat, as follows: <b>In what</b> case <b>is this statement said?</b> It is said in a case <b>where</b> the piece of meat contracted <b>ritual impurity due to liquids, but where</b> it contracted <b>ritual impurity through a creeping animal</b> it is <b>not</b> nullified. The Gemara answers: Even so, the <i>tanna</i> <b>prefers</b> to address the novel case of an intermingling of <b>ritually pure</b> items <b>with</b> other <b>ritually pure</b> items.",
+                  "<b>Rabba said</b> that an alternative explanation may be suggested for the difference between the two clauses of the <i>baraita</i>: In <b>the first clause</b> of the <i>baraita</i>, which deals with the intermingling of impure sacred meat with pure sacred meat, there is concern about the violation of <b>a standard prohibition,</b> i.e., the prohibition against eating impure sacred meat; therefore, the piece of meat is nullified. In <b>the latter clause</b> of the <i>baraita</i>, which deals with the intermingling of sacred meat and non-sacred meat, there is concern about the violation of <b>a prohibition</b> that bears the punishment <b>of <i>karet</i>,</b> which bars a non-priest from eating pure sacrificial food; therefore, the piece of meat is not nullified.",
+                  "The Gemara asks: <b>But wasn’t it Rabba</b> himself <b>who said:</b> With regard to the nullification of <b>any</b> item forbidden <b>by Torah</b> law that became intermingled with a permitted substance, there is <b>no difference between</b> that which is forbidden due to a <b>standard prohibition</b> and that which is forbidden due to <b>a prohibition</b> that entails the punishment <b>of <i>karet</i>.</b> The Gemara concludes: This is <b>difficult</b> for Rabba.",
+                  "<b>Rav Ashi said</b> yet another explanation: In <b>the latter clause,</b> where ritually pure sacred meat became intermingled with ritually pure non-sacred meat, the sacred meat does not become nullified <b>because it is an object whose prohibition is temporary.</b> The piece of sacred meat is not absolutely forbidden, as it is permitted for a priest to eat it. <b>And</b> the <i>halakha</i> is that <b>any object whose prohibition is temporary cannot be nullified,</b> no matter how great the amount of permitted substance, <b>even in</b> a mixture of one to <b>one thousand.</b>",
+                  "The Gemara comments: <b>Now, that</b> teaching ascribed <b>to Rav Ashi is</b> certainly <b>a mistake [<i>beduta</i>],</b> as the application of this principle to the case at hand can easily be shown to be erroneous. With regard <b>to whom</b> is the prohibition temporary? <b>If</b> one would say that it is <b>for a priest,</b> the sacred meat <b>was</b> always <b>permitted</b> to him, even before it became intermingled, as a priest may eat both sacred and non-sacred food, and therefore it was never a forbidden mixture with respect to him. And <b>if</b> one would say that it is <b>for an Israelite,</b> the meat will <b>always</b> be <b>forbidden</b> to him. <b>Rather, that</b> teaching attributed <b>to Rav Ashi is</b> clearly <b>a mistake.</b>",
+                  "The Gemara raises a question with regard to Rabbi Yoḥanan’s opinion: <b>And</b> does <b>Rabbi Yoḥanan maintain that <i>teruma</i> in the present</b> applies <b>by Torah</b> law? <b>But isn’t it taught</b> in a <i>baraita</i>: There were <b>two</b> large <b>baskets, one</b> filled with <b>non-sacred</b> produce <b>and</b> the other <b>one</b> filled with <b><i>teruma</i>, and before them</b> were <b>two</b> one-<b><i>se’a</i></b> vessels, <b>one</b> filled with <b>non-sacred</b> produce <b>and</b> the other <b>one</b> filled with <b><i>teruma</i>. And these,</b> the contents of each of the <i>se’a</i> vessels, <b>fell into those,</b> each of the baskets. It is possible that the <i>teruma</i> fell into the non-sacred produce, and it is prohibited for non-priests to eat a mixture of <i>teruma</i> and non-sacred produce. Nevertheless, the produce found in the basket containing the non-sacred produce <b>is permitted, as I say</b> that <b>the <i>teruma</i> fell into the <i>teruma</i> and the non-sacred</b> produce <b>fell into the non-sacred</b> produce.",
+                  "<b>And Reish Lakish said</b> that <b>this</b> is only the case <b>if the non-sacred</b> produce in the basket <b>was greater</b> in quantity <b>than the <i>teruma</i></b> in the one-<i>se’a</i> vessel, so that even if the <i>teruma</i> fell into the non-sacred produce, it is nullified. <b>And Rabbi Yoḥanan said:</b> The mixture is permitted <b>even if the non-sacred</b> produce <b>was not greater</b> in quantity <b>than the <i>teruma</i>,</b> as one may rely on the assumption that each type of produce fell into its own type.",
+                  "<b>Granted, according to Reish Lakish,</b> who maintains that <i>teruma</i> nowadays applies by rabbinic law, this is logical, as <b>he maintains</b> that even <b>with regard to</b> <i>teruma</i> that is in effect only <b>by rabbinic</b> law, <b>we also require</b> the permitted portion of the mixture to be <b>greater</b> in quantity so that it can nullify the forbidden part. <b>But according to Rabbi Yoḥanan,</b> it is <b>difficult</b> because if he maintains that even nowadays <i>teruma</i> is mandated by Torah law, how can one disregard the concern and permit the mixture based merely on the assumption that the events occurred in a way that preserves the produce in its permitted state?",
+                  "The Gemara answers that Rabbi Yoḥanan can say: In accordance with <b>whose</b> opinion <b>is this</b> <i>baraita</i> taught? <b>It</b> is in accordance with the opinion of <b>the Rabbis,</b> who maintain that <i>teruma</i> nowadays is in effect only by rabbinic law."
+                ],
+                [
+                  "<b>But I,</b> Rabbi Yoḥanan, <b>said</b> what I said <b>in accordance with</b> the opinion of <b>Rabbi Yosei</b> that a priest who is a hermaphrodite enables his wife to eat <i>teruma</i>, and Rabbi Yosei himself maintains that even nowadays the <i>halakha</i> of <i>teruma</i> is in effect by Torah law. Accordingly, I argued that a hermaphrodite enables his wife to eat not only <i>teruma</i>, but even the breast and thigh of peace-offerings.",
+                  "<b>As it is taught in</b> a <i>baraita</i> in the anthology called <b><i>Seder Olam</i>,</b> with regard to a verse that speaks of the Jewish people’s return to Eretz Yisrael following their exile: “And the Lord your God will bring you into the land <b>that your fathers inherited, and you shall inherit it”</b> (Deuteronomy 30:5). These two expressions of inheritance teach that <b>they had a first inheritance</b> of Eretz Yisrael in the days of Joshua <b>and a second</b> inheritance at the time of the return from the Babylonian exile. That is to say, since the sanctity of the land had lapsed when the First Temple was destroyed and the Jewish people exiled to Babylonia, a second sanctification was necessary when they returned to their land. <b>But they will not have a third</b> inheritance. In other words, it will never be necessary to sanctify the land for a third time, as the second sanctification was permanent.",
+                  "<b>And Rabbi Yoḥanan said: Who</b> is the <i>tanna</i> who <b>taught <i>Seder Olam</i>?</b> It is <b>Rabbi Yosei.</b> Since Rabbi Yosei maintains that the second sanctification of Eretz Yisrael never lapsed even after the destruction of the Second Temple, he also holds that <i>teruma</i> nowadays is in effect by Torah law.",
+                  "The Gemara raises another objection to Rabbi Yoḥanan’s opinion: <b>But</b> does <b>Rabbi Yoḥanan maintain</b> that <b>with regard to</b> a mixture containing an item that is forbidden <b>by rabbinic</b> law, <b>we do not require</b> the permitted portion of the mixture to be <b>greater</b> in quantity so that it can nullify the prohibited part? <b>Didn’t we learn</b> otherwise in a mishna (<i>Mikvaot</i> 7:2): With regard to <b>a ritual bath that contains exactly forty <i>se’a</i></b> of water, the minimal measure of a fit ritual bath, and <b>one added</b> to it <b>a <i>se’a</i></b> of liquid other than water, <b>and</b> then <b>removed</b> from it <b>a <i>se’a</i></b> of the mixture, the ritual bath remains <b>fit,</b> as the liquid that was added was nullified in the forty <i>se’a</i> of water, so that when one <i>se’a</i> of the mixture was removed there still remained the requisite forty <i>se’a</i> of fit water. <b>And Rabbi Yehuda bar Sheila said</b> that <b>Rabbi Asi said</b> that <b>Rabbi Yoḥanan said</b> that this <i>halakha</i> applies <b>up to the greater part</b> of the ritual bath.",
+                  "The Gemara clarifies the opinion of Rabbi Yoḥanan: <b>What, is it not that its greater part must remain,</b> i.e., that most of the original forty <i>se’a</i> of water must remain in the ritual bath? In other words, up to nineteen <i>se’a</i> of other liquids may be added to the ritual bath, with an equal quantity of the mixture then removed from it, and these other liquids are nullified by the ritual bath water. But if twenty <i>se’a</i> are removed, so that fit water no longer constitutes the majority, the ritual bath is no longer fit for use. Since certain liquids are unfit for a ritual bath only by rabbinic law, this shows that even with respect to rabbinic prohibitions the permitted portion of a mixture must be greater in quantity, so that it can nullify the prohibited part. The Gemara refutes this proof: <b>No,</b> it means <b>that its greater part must not be removed,</b> but if the water and other liquids are present in equal proportion, the ritual bath remains fit.",
+                  "<b>And if you wish, say</b> an alternative explanation of Rabbi Yoḥanan’s opinion: <b>It is different here,</b> with regard to the case of two baskets, one of which contains <i>teruma</i>, <b>since it may be said: As I say</b> that the <i>teruma</i> fell into the <i>teruma</i> and the non-sacred produce fell into the non-sacred produce, it is therefore assumed that that is what actually took place, and therefore the permitted portion need not be the greater part of the mixture."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Yevamot 81a:6",
+                "Yevamot 81a:7",
+                "Yevamot 81a:8",
+                "Yevamot 81a:9",
+                "Yevamot 81a:10",
+                "Yevamot 81a:11",
+                "Yevamot 81b:1",
+                "Yevamot 81b:2",
+                "Yevamot 81b:3",
+                "Yevamot 81b:4",
+                "Yevamot 81b:5",
+                "Yevamot 81b:6",
+                "Yevamot 81b:7",
+                "Yevamot 82a:1",
+                "Yevamot 82a:2",
+                "Yevamot 82a:3",
+                "Yevamot 82a:4",
+                "Yevamot 82a:5",
+                "Yevamot 82a:6",
+                "Yevamot 82a:7",
+                "Yevamot 82a:8",
+                "Yevamot 82a:9",
+                "Yevamot 82a:10",
+                "Yevamot 82a:11",
+                "Yevamot 82a:12",
+                "Yevamot 82a:13",
+                "Yevamot 82a:14",
+                "Yevamot 82b:1",
+                "Yevamot 82b:2",
+                "Yevamot 82b:3",
+                "Yevamot 82b:4",
+                "Yevamot 82b:5",
+                "Yevamot 82b:6"
+              ],
+              "he": [
+                [
+                  "רַבִּי יוֹסֵי וְרַבִּי שִׁמְעוֹן אוֹמְרִים: אַנְדְּרוֹגִינוֹס. אָמַר רֵישׁ לָקִישׁ: מַאֲכִילָהּ בִּתְרוּמָה, וְאֵין מַאֲכִילָהּ בְּחָזֶה וָשׁוֹק. רַבִּי יוֹחָנָן אוֹמֵר: אַף מַאֲכִילָהּ בְּחָזֶה וָשׁוֹק. וּלְרֵישׁ לָקִישׁ, מַאי שְׁנָא חָזֶה וָשׁוֹק — דְּאוֹרָיְיתָא? תְּרוּמָה נָמֵי דְּאוֹרָיְיתָא!",
+                  "הָכָא בְּמַאי עָסְקִינַן — בִּתְרוּמָה בַּזְּמַן הַזֶּה דְּרַבָּנַן. אֲבָל בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים מַאי — לֹא? אַדְּתָנֵי ״אֵין מַאֲכִילָהּ בְּחָזֶה וָשׁוֹק״, לִיפְלוֹג וְלִיתְנֵי בְּדִידַהּ: בַּמֶּה דְּבָרִים אֲמוּרִים — בִּתְרוּמָה דְּרַבָּנַן, אֲבָל בִּתְרוּמָה דְּאוֹרָיְיתָא — לָא!",
+                  "הָכִי נָמֵי קָאָמַר: כְּשֶׁהוּא מַאֲכִילָהּ — מַאֲכִילָהּ בִּתְרוּמָה בַּזְּמַן הַזֶּה דְּרַבָּנַן, וְאֵין מַאֲכִילָהּ בִּזְמַן חָזֶה וָשׁוֹק, וַאֲפִילּוּ בִּתְרוּמָה דְּרַבָּנַן, דִּלְמָא אָתֵי לְאוֹכֹלַהּ בִּתְרוּמָה דְּאוֹרָיְיתָא.",
+                  "וְרַבִּי יוֹחָנָן אָמַר: אַף מַאֲכִילָהּ בְּחָזֶה וָשׁוֹק. אֲמַר לֵיהּ רַבִּי יוֹחָנָן לְרֵישׁ לָקִישׁ: מִי סָבְרַתְּ תְּרוּמָה בַּזְּמַן הַזֶּה דְּרַבָּנַן? אֲמַר לֵיהּ: אִין, שֶׁאֲנִי שׁוֹנֶה: עִיגּוּל בְּעִגּוּלִים עוֹלֶה.",
+                  "אֲמַר לֵיהּ, וַהֲלֹא אֲנִי שׁוֹנֶה: חֲתִיכָה בַּחֲתִיכוֹת — עוֹלָה. מִי סָבְרַתְּ ״כׇּל שֶׁדַּרְכּוֹ לִימָּנוֹת״ שָׁנִינוּ? ״אֶת שֶׁדַּרְכּוֹ לִימָּנוֹת״ שָׁנִינוּ.",
+                  "מַאי הִיא — דִּתְנַן: מִי שֶׁהָיוּ לוֹ חֲבִילֵי תִלְתָּן שֶׁל כִּלְאֵי הַכֶּרֶם — יִדְלְקוּ. נִתְעָרְבוּ בַּאֲחֵרוֹת —"
+                ],
+                [
+                  "כּוּלָּן יִדָּלְקוּ, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: יַעֲלוּ בְּאֶחָד וּמָאתַיִם. שֶׁהָיָה רַבִּי מֵאִיר אוֹמֵר: כֹּל שֶׁדַּרְכּוֹ לִימָּנוֹת — מְקַדֵּשׁ. וַחֲכָמִים אוֹמְרִים: אֵינוֹ מְקַדֵּשׁ אֶלָּא שִׁשָּׁה דְּבָרִים בִּלְבַד. רַבִּי עֲקִיבָא אוֹמֵר: שִׁבְעָה.",
+                  "אֵלּוּ הֵן: אֱגוֹזֵי פֶרֶךְ, וְרִמּוֹנֵי בָּדָן, וְחָבִיּוֹת סְתוּמוֹת, וְחִלְפֵי תְרָדִין, וְקוּלְחֵי כְּרוּב, וְדַלַּעַת יְוָנִית. וְרַבִּי עֲקִיבָא מוֹסִיף אַף כִּכָּרוֹת שֶׁל בַּעַל הַבַּיִת. הָרְאוּיִן לְעׇרְלָה — עׇרְלָה. לְכִלְאֵי הַכֶּרֶם — כִּלְאֵי הַכֶּרֶם.",
+                  "רַבִּי יוֹחָנָן סָבַר: ״אֶת שֶׁדַּרְכּוֹ לִימָּנוֹת״ שָׁנִינוּ. וְרֵישׁ לָקִישׁ סָבַר: ״כֹּל שֶׁדַּרְכּוֹ לִימָּנוֹת״ שָׁנִינוּ.",
+                  "מַאי חֲתִיכָה — דְּתַנְיָא: חֲתִיכָה שֶׁל חַטָּאת טְמֵאָה שֶׁנִּתְעָרְבָה בְּמֵאָה חֲתִיכוֹת שֶׁל חַטָּאוֹת טְהוֹרוֹת, וְכֵן פְּרוּסָה שֶׁל לֶחֶם הַפָּנִים טְמֵאָה שֶׁנִּתְעָרְבָה בְּמֵאָה פְּרוּסוֹת שֶׁל לֶחֶם הַפָּנִים טְהוֹרוֹת — תַּעֲלֶה. רַבִּי יְהוּדָה אוֹמֵר: לֹא תַּעֲלֶה.",
+                  "אֲבָל חֲתִיכָה שֶׁל חַטָּאת טְהוֹרָה שֶׁנִּתְעָרְבָה בְּמֵאָה חֲתִיכוֹת שֶׁל חוּלִּין טְהוֹרוֹת, וְכֵן פְּרוּסָה שֶׁל לֶחֶם הַפָּנִים טְהוֹרָה שֶׁנִּתְעָרְבָה בְּמֵאָה פְּרוּסוֹת שֶׁל חוּלִּין טְהוֹרוֹת — דִּבְרֵי הַכֹּל לָא תַּעֲלֶה.",
+                  "קָתָנֵי מִיהַת רֵישָׁא תַּעֲלֶה! אָמַר רַבִּי חִיָּיא בְּרֵיהּ דְּרַב הוּנָא: בְּנִימּוֹחָה.",
+                  "אִי הָכִי, מַאי טַעְמָא דְּרַבִּי יְהוּדָה?"
+                ],
+                [
+                  "רַבִּי יְהוּדָה לְטַעְמֵיהּ, דְּאָמַר: מִין בְּמִינוֹ לֹא בָּטֵיל.",
+                  "אֲבָל לֹא נִימּוֹחָה מַאי — לֹא תַּעֲלֶה, אַדְּתָנֵי: אֲבָל חֲתִיכָה שֶׁל חַטָּאת טְהוֹרָה שֶׁנִּתְעָרְבָה בְּמֵאָה חֲתִיכוֹת שֶׁל חוּלִּין טְהוֹרוֹת לֹא תַּעֲלֶה, נִיפְלוֹג וְנִיתְנֵי בְּדִידַהּ: בַּמֶּה דְּבָרִים אֲמוּרִים, בְּשֶׁנִּימּוֹחָה, אֲבָל לֹא נִימּוֹחָה — לֹא תַּעֲלֶה!",
+                  "טְהוֹרוֹת בִּטְהוֹרוֹת עֲדִיף לֵיהּ.",
+                  "וּלְרֵישׁ לָקִישׁ, מַאי שְׁנָא רֵישָׁא וּמַאי שְׁנָא סֵיפָא? אָמַר רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידִי: רֵישָׁא, בְּטוּמְאַת מַשְׁקִין דְּרַבָּנַן. סֵיפָא, דְּאוֹרָיְיתָא.",
+                  "אֲבָל טוּמְאַת שֶׁרֶץ מַאי — לֹא תַּעֲלֶה,",
+                  "אַדְּתָנֵי סֵיפָא: אֲבָל חֲתִיכָה שֶׁל חַטָּאת טְהוֹרָה שֶׁנִּתְעָרְבָה בְּמֵאָה חֲתִיכוֹת שֶׁל חוּלִּין טְהוֹרוֹת לֹא תַּעֲלֶה, נִיפְלוֹג וְלִיתְנֵי בְּדִידַהּ: בַּמֶּה דְּבָרִים אֲמוּרִים — בְּטוּמְאַת מַשְׁקִין, אֲבָל בְּטוּמְאַת שֶׁרֶץ — לֹא! טְהוֹרָה בִּטְהוֹרוֹת עֲדִיף לֵיהּ.",
+                  "רַבָּה אָמַר: רֵישָׁא — אִיסּוּר לָאו, סֵיפָא — אִיסּוּר כָּרֵת.",
+                  "וְהָא רַבָּה הוּא דְּאָמַר: כֹּל בִּדְאוֹרָיְיתָא, לָא שְׁנָא אִיסּוּר לָאו, וְלָא שְׁנָא אִיסּוּר כָּרֵת! קַשְׁיָא.",
+                  "רַב אָשֵׁי אָמַר: סֵיפָא — מִשּׁוּם דְּהָוֵי לֵיהּ דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין, וְכׇל דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין — אֲפִילּוּ בְּאֶלֶף לֹא בָּטֵיל.",
+                  "וְהָא דְּרַב אָשֵׁי בְּדוּתָא הִיא. לְמַאן? אִי לְכֹהֵן — מִישְׁרָא שְׁרֵי. אִי לְיִשְׂרָאֵל — לְעוֹלָם אָסוּר! אֶלָּא הָא דְּרַב אָשֵׁי בְּדוּתָא הִיא.",
+                  "וְסָבַר רַבִּי יוֹחָנָן תְּרוּמָה בִּזְמַן הַזֶּה דְּאוֹרָיְיתָא? וְהָתַנְיָא: שְׁתֵּי קוּפּוֹת, אַחַת שֶׁל חוּלִּין וְאַחַת שֶׁל תְּרוּמָה, וְלִפְנֵיהֶם שְׁתֵּי סְאִין, אַחַת שֶׁל חוּלִּין וְאַחַת שֶׁל תְּרוּמָה, וְנָפְלוּ אֵלּוּ בְּתוֹךְ אֵלּוּ — הֲרֵי אֵלּוּ מוּתָּרִים, שֶׁאֲנִי אוֹמֵר: תְּרוּמָה לְתוֹךְ תְּרוּמָה נָפְלָה, וְחוּלִּין בְּתוֹךְ חוּלִּין נָפְלוּ.",
+                  "וְאָמַר רֵישׁ לָקִישׁ: וְהוּא שֶׁרַבּוּ חוּלִּין עַל הַתְּרוּמָה, וְרַבִּי יוֹחָנָן אָמַר: אַף עַל פִּי שֶׁלֹּא רַבּוּ חוּלִּין עַל הַתְּרוּמָה.",
+                  "בִּשְׁלָמָא לְרֵישׁ לָקִישׁ, קָסָבַר בִּדְרַבָּנַן נָמֵי רִבּוּיָא הוּא דְּבָעֵינַן. אֶלָּא לְרַבִּי יוֹחָנָן קַשְׁיָא?",
+                  "הָא מַנִּי — רַבָּנַן הִיא,"
+                ],
+                [
+                  "וַאֲנָא דְּאָמְרִי כְּרַבִּי יוֹסֵי.",
+                  "דְּתַנְיָא בְּסֵדֶר עוֹלָם: ״אֲשֶׁר יָרְשׁוּ אֲבוֹתֶיךָ וִירִשְׁתָּהּ״, יְרוּשָּׁה רִאשׁוֹנָה וּשְׁנִיָּה — יֵשׁ לָהֶן, וּשְׁלִישִׁית — אֵין לָהֶן.",
+                  "וְאָמַר רַבִּי יוֹחָנָן: מַאן תְּנָא סֵדֶר עוֹלָם — רַבִּי יוֹסֵי.",
+                  "וְסָבַר רַבִּי יוֹחָנָן בִּדְרַבָּנַן לָא בָּעֵינַן רִבּוּיָא? וְהָא תְּנַן: מִקְוֶה שֶׁיֵּשׁ בּוֹ אַרְבָּעִים סְאָה מְכֻוּוֹנוֹת, נָתַן סְאָה וְנָטַל סְאָה — כָּשֵׁר. וְאָמַר רַבִּי יְהוּדָה בַּר שֵׁילָא אָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: עַד רוּבּוֹ.",
+                  "מַאי לָאו, דְּנִשְׁתַּיֵּיר רוּבּוֹ! לָא, דְּלָא נִשְׁקוֹל רוּבּוֹ.",
+                  "וְאִיבָּעֵית אֵימָא: שָׁאנֵי הָכָא, דְּאִיכָּא לְמֵימַר ״שֶׁאֲנִי אוֹמֵר״."
+                ]
+              ],
+              "link": "/Yevamot/81a",
+              "originalRefsBeforeRewriting": [
+                "Yevamot 81a:7"
+              ],
+              "ref": "Yevamot 81a:6-82b:6",
+              "sourceHeRef": "יבמות פ״א א",
+              "sourceRef": "Yevamot 81a"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הב״ע בזמן שבהמ״ק קיים.</b> פי׳ <span class=\"parenthesized\">(דבטלה)</span> [דלא בטלה] מגלת תענות לד״ה. ופרכינן",
+              "ref": "Ritva on Rosh Hashanah 18b:8",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ח ב:ח",
+              "sourceRef": "Ritva on Rosh Hashanah 18b:8"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>הכא במאי עסקינן</b> <span class=\"hebrew-emphasis\">[כאן במה אנו עוסקים],</span> <b>בזמן שבית המקדש קיים</b> ואז נשמרו כל הימים המנויים במגילת תענית. ואף הוסיפו מפעם לפעם ימי זכרון נוספים. ומה שאמרנו שבטלה — זה לאחר החורבן.",
+              "ref": "Steinsaltz on Rosh Hashanah 18b:17",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ח ב:יז",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 18b:17"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b>With what are we dealing here?</b> This is referring to a time <b>when the Temple was standing</b> and all the days listed in <i>Megillat Ta’anit</i> were in force. From time to time new days of commemoration were added. When the <i>amora’im</i> stated that <i>Megillat Ta’anit</i> was nullified they were referring to the time after the destruction of the Temple.",
+      "he": "הָכָא בְּמַאי עָסְקִינַן, בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים.",
+      "ref": "Rosh Hashanah 18b:17"
+    }
+  ],
+  "title": "Rosh Hashanah 18b",
+  "titleHebrew": "ראש השנה יח,ב",
+  "topics": []
+}

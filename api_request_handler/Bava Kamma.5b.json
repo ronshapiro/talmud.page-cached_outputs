@@ -1,0 +1,748 @@
+{
+  "id": "5b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> ד\"ה לכתוב רחמנא תרתי וכו' ולרב דאמר מבעה זה אדם תיתי הכי כי פרכת מה לשור שכן כוונתו להזיק וכו' אדם יוכיח וכו'. לפי הסוגיא דלעיל לפי שיטת רב היה לו לרש\"י לכתוב ולרב דאמר מבעה זה אדם תיתי הכי כי פרכת מה לשור שכן משלם כופר וכו' אדם יוכיח וק\"ל אלא דלא דק וכתב בכל הענין פירכא אחת גבי שור:",
+                      "ref": "Maharam on Bava Kamma 5b:1",
+                      "sourceHeRef": "מהר\"ם על בבא קמא ה׳ ב:א",
+                      "sourceRef": "Maharam on Bava Kamma 5b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לכתוב רחמנא תרתי</strong> - שור ומבעה ותיתי אש מינייהו דכי פרכת מה לקרן שכן כוונתו להזיק איכא למימר שן תוכיח מה לשן שיש הנאה להזיקו קרן יוכיח ולרב דאמר מבעה זה אדם תיתי הכי כי פרכת מה לשור שכן כוונתו להזיק תאמר באש אדם יוכיח שאפילו אין כוונתו להזיק חייב כדתנן <span class=\"parenthesized\">(לקמן בבא קמא דף כו.)</span> אדם מועד בין ער בין ישן מה לאדם שכן חייב בארבעה דברים שור יוכיח הצד השוה שבהן שדרכן להזיק ושמירתן עליך אף אני אביא אש:",
+              "ref": "Rashi on Bava Kamma 5b:1:1",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:א:א",
+              "sourceRef": "Rashi on Bava Kamma 5b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הדר אמר חדא מתרתי נמי לא אתיא</strong> - דלא ראי קרן ומבעה שיש בהן רוח חיים כהרי אש כו':",
+              "ref": "Rashi on Bava Kamma 5b:1:2",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:א:ב",
+              "sourceRef": "Rashi on Bava Kamma 5b:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>לכתוב רחמנא תרתי ותיתי אידך מינייהו</b> <span class=\"hebrew-emphasis\">[שתכתוב התורה שנים</span> מן האבות <span class=\"hebrew-emphasis\">ויבואו,</span> יילמדו, <span class=\"hebrew-emphasis\">האחרים מהם]</span> ולא יצטרכו להיכתב כולם. ולכן <b>הדר</b> <span class=\"hebrew-emphasis\">[חזר]</span> ו<b>אמר</b> במשנה בתשובה לשאלה זו כי <b>חדא מתרתי לא אתי</b> <span class=\"hebrew-emphasis\">[אחת משתים אינה באה],</span> אינה ניתנת להילמד, כי יש הבדל בין כל שנים מן האבות ובין אב נזיקין נוסף, שיש בו צד להקל.",
+              "ref": "Steinsaltz on Bava Kamma 5b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:א",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "According to the Gemara’s interpretation of the mishna, the mishna initially rejects the possibility of deriving one’s liability in one primary category from another through a simple inductive analogy based on the fact that generally the <i>halakha</i> stated by the Torah with regard to one case will also apply to a similar case. The mishna rejects the use of this induction with regard to the primary categories of damage because each of the primary categories has distinct characteristics, and one cannot assume that the <i>halakhot</i> pertaining to them will be the same. The mishna then proceeds to suggest using a more complex form of induction that assumes that if the same <i>halakha</i> applies to two different cases, then it should also apply to any case that has the same characteristics as those shared by the first two cases. The mishna also rejects this because each of the primary categories has a characteristic that is unique to that category, despite sharing other characteristics with two other categories. For example, even if Fire shares some of the shared characteristics of Ox and <i>Maveh</i>, it does not share all of them, because whereas in Ox and <i>Maveh</i> the damage is caused by something with a living spirit, in Fire that is not the case.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Bava Kamma 5b:1",
+              "sourceHeRef": "וְתֵיתֵי אִידָךְ מִינַּיְיהוּ",
+              "sourceRef": "And derive the other categories from them"
+            }
+          ]
+        }
+      },
+      "en": "<b>Let the Merciful One write</b> only <b>two</b> of the primary categories <b>and derive</b> the <b>other</b> categories <b>from them. Then</b> the <i>tanna</i> <b>says:</b> It is <b>not</b> possible to <b>derive one</b> category <b>from two</b> other categories, as each category has its own unique characteristics, which prevent the derivation of a new category even from a combination of two categories.",
+      "he": "לִכְתּוֹב רַחֲמָנָא תַּרְתֵּי, וְתֵיתֵי אִידַּךְ מִינַּיְיהוּ; הֲדַר אָמַר: חֲדָא מִתַּרְתֵּי לָא אָתֵי.",
+      "ref": "Bava Kamma 5b:1"
+    },
+    {
+      "commentary": {
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "פיס' לא השור כהרי המבעה כו'. אמר רבא וכולהו כי שדיית בור בינייהו אתיין [כולהו מבור ומקרן] בר מקרן כו':",
+              "ref": "Rabbeinu Chananel on Bava Kamma 5b:1",
+              "sourceHeRef": "רבינו חננאל על בבא קמא ה׳ ב:א",
+              "sourceRef": "Rabbeinu Chananel on Bava Kamma 5b:1"
+            },
+            {
+              "en": "",
+              "he": "מה שור ובור שדרכן להזיק ושמירתן עליך אף אני אביא האש. מה לשור שכן יש בו רוח חיים בור יוכיח שאין בו רוח חיים. מה לבור שתחלת עשייתו לנזק שור יוכיח וחזר הדין כו' וכן כולן.",
+              "ref": "Rabbeinu Chananel on Bava Kamma 5b:2",
+              "sourceHeRef": "רבינו חננאל על בבא קמא ה׳ ב:ב",
+              "sourceRef": "Rabbeinu Chananel on Bava Kamma 5b:2"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא להלכותיהן.</b> וה\"ה נמי לכל אבות דר' הושעיא ור' חייא דלעיל אלא איכא למידק נזקי אדם בשור <span class=\"parenthesized\">(דכתיב)</span> [דכתב] רחמנא למה לי שני פעמים דכתיב מכה נפש בהמה ישלמנה נפש תחת נפש וכתיב מכה בהמה ישלמנה ומכה אדם יומת וי\"ל דאצטריכו ג\"כ תרוייהו ולא נפקי חד מאידך כולהו דמכה נפש בהמה נפש תחת נפש אצטריך לפחת נבלה כדאיתא לקמן <span class=\"parenthesized\">(בבא קמא י, ב)</span> ולאגמורי נמי אמכה אביו ואמו שאינו במיתה עד שיוצא ממנו דם כמכה נפש בהמה כדאיתא <span class=\"parenthesized\">(בפ\"ד מיתות ב\"ד)</span> [אלו הן הנחנקין] <span class=\"parenthesized\">(פד, ב)</span> ואידך קרא אצטריך להקישא דחזקיה דאמר <span class=\"parenthesized\">(לקמן בבא קמא לה, א)</span> מה מכה בהמה לא חלקת בו לפוטרו ממון אלא לחייבו ממון אף מכה אדם לא תחלוק בו לחייבו ממון אלא לפוטרו ממון.",
+              "ref": "Rashba on Bava Kamma 5b:4",
+              "sourceHeRef": "רשב\"א על בבא קמא ה׳ ב:ד",
+              "sourceRef": "Rashba on Bava Kamma 5b:4"
+            },
+            {
+              "en": "",
+              "he": "הא דקאמר:<b> בור לפטור בו את הכלים.</b> א\"נ לפטור את האדם לאו דוקא דהא אפילו חיוביה דבור לא אתי מאידך וכדאמר רבא לכי שדית בור בינייהו כלהו אתיין מבור וחדא מאינך אבל בור לא אתיא משום דאיכא למיפרך שדרכן לילך ולהזיק משא\"כ בבור אלא בגמרא נקטינן דאגב דקא מפרש הלכתא דשאר נזיקין קא אזיל ומפרש הלכות בור.",
+              "ref": "Rashba on Bava Kamma 5b:5",
+              "sourceHeRef": "רשב\"א על בבא קמא ה׳ ב:ה",
+              "sourceRef": "Rashba on Bava Kamma 5b:5"
+            },
+            {
+              "en": "",
+              "he": "הא דקאמר:<b> חוץ מקרן משום דאיכא למיפרך מה להנך שכן מועדין מתחלתן.</b> פי' ר\"ת ז\"ל דלאו למימרא שהן מועדין מתחלתן לשלם בפעם א' נ\"ש קאמר דהא אם באנו ללמוד את הקרן מן השאר אף אנו נא' שלא יהא חילוק בין תמה למועדות וכולן משלמין נ\"ש דממקום שבאת אלא ה\"פ מה להנך שכן דרכן להיות מועדין להזיק מתחלתן משא\"כ בקרן דסתם שוורים בחזקת שמור קיימי וכמ\"ד פלגי נזקא קנסא והיינו דקאמר ולמ\"ד אדרבה קרן עדיפא שכונתה להזיק אפילו קרן נמי אתיא והיינו למ\"ד פלגא נזקא ממונא דסתם שוורים לאו בחזקת שמור קיימי ומתחלתן הן מועדין לילך ולהזיק כשאר הניזקין ועדיפ' מינייהו <span class=\"parenthesized\">(שהוא)</span> [שהיא] לעולם כונת' להזיק.",
+              "ref": "Rashba on Bava Kamma 5b:6",
+              "sourceHeRef": "רשב\"א על בבא קמא ה׳ ב:ו",
+              "sourceRef": "Rashba on Bava Kamma 5b:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "Testing",
+                      "he": "",
+                      "ref": "Translation on Rashi on Bava Kamma 5b:2:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכולהו כי שדית בור בינייהו אתיא</strong> - אי כתיב בור וחדא מהנך אתיא כולהו [מההוא ומאידך] בצד השוה דאי כתיב בור וקרן אתיא שן מינייהו הכי מה בור שאין דרכו לילך ולהזיק חייב שן שדרכו לילך ולהזיק לא כל שכן מה לבור שכן תחילת עשייתו עומד לנזק תאמר בשן קרן יוכיח מה לקרן שכן כוונתו להזיק בור יוכיח וחזר הדין הצד השוה שבהן שדרכן להזיק וממונך כו' אף אני אביא שן וכן רגל מקרן ובור דכי פרכת מה לבור שכן תחילת עשייתו לנזק תאמר ברגל קרן יוכיח מה לקרן שכן כוונתו להזיק בור יוכיח וכן אש מקרן ובור בכולן תחילת הדין מה בור שאין דרכו לילך ולהזיק חייב אלו כולן שדרכן לילך ולהזיק לא כ\"ש מה לבור שכן תחילת עשייתו כו' וכן אי כתב רחמנא בור ושן אתו כולהו אינך נמי לבר מקרן בהאי דינא מה בור שאין דרכו לילך ולהזיק חייב רגל ואש לא כל שכן וכן אדם מה לבור שכן תחילת עשייתו לנזק תאמר בכל אלו שן תוכיח מה לשן שכן יש הנאה להזיקו תאמר בכל אלו בור תוכיח הצד השוה כו' אף אני אביא כל אלו אבל קרן לא אתיא מינייהו דאיכא למיפרך מה להצד השוה שבבור ושן שכן מועדים מתחילתן תאמר בקרן וכן אי כתיב בור ורגל אתיא כולהו מהא דינא דבור לבר מקרן דכי פרכת מה לבור שכן תחילת עשייתו לנזק תאמר בשן ואש ואדם רגל יוכיח מה לרגל שכן הזיקו מצוי דכל שעה היא מהלכת תאמר בכל אלו בור יוכיח וחזר הדין הצד השוה כו' אף אני אביא כל אלו אבל קרן לא אתיא דמה להצד השוה שבהן שמועדין מתחילתן תאמר בקרן וכן אי כתב בור ואש הוה אתו אינך בהאי דינא מבור וכי פרכת מה לבור שכן תחילת עשייתו לנזק תאמר ברגל ושן ואדם אש תוכיח מה לאש שכן מועדת לאכול בין שראוי לה בין שאינו ראוי לה כגון עצים כלים ואבנים תאמר בשן שאינה מועדת אלא לדבר הראוי לה בור יוכיח שאינו מועד אלא לדבר הראוי לה דבר שאינו ראוי לה מאי ניהו אדם דכתיב ונפל שמה שור או חמור שור ולא אדם חמור ולא כלים דאם נפל בבור אדם וכלים פטור בעל הבור הצד השוה שבהן כו' אף אני אביא שן ואתו אדם ורגל בפלגי דינא דכי אמרת אש תוכיח ליכא למיפרך מה לאש מידי אבל קרן לא אתיא דמה להצד השוה בבור ואש שכן מועדים מתחילתן ולהכי נקט רבא בור דמחד מאידך לא מצי למימר כי שדית חד בינייהו אתו כולהו מההוא ומחד מאידך דהא מכל תרי מינייהו לא הוה אתו לא קרן ולא בור קרן מאש ורגל ושן ואדם לא דמה לכולהו שכן מועדין מתחילתן ובור נמי לא אתיא דמה לכולהו שכן דרכן לילך ולהזיק ואי קשיא לך לימא כי שדית קרן בינייהו אי נקט קרן איכא תרי דלא אתי מינה ומחד מאידך דאי נקט או רגל או שן או אדם בהדי קרן לא אתיא אש מינייהו דפרכינן מה להצד השוה שבהם שיש בהם רוח חיים וכן בור נמי לא אתיא מינייהו ואי נקט אש בהדי קרן לא אתיא שן ובור מינייהו דכי פרכינן מה לאש שכן אוכלת אפילו דבר שאין ראוי לה כגון כלים תאמר בשן דפטור על הכלים כדתנן במתניתין ליכא למימר קרן יוכיח ובור נמי לא אתי מינייהו שכן דרכן לילך ולהזיק מה שאין כן בבור:",
+              "ref": "Rashi on Bava Kamma 5b:2:1",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:ב:א",
+              "sourceRef": "Rashi on Bava Kamma 5b:2:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא</b> והעיר על כך: <b>וכולהו</b> <span class=\"hebrew-emphasis\">[וכולם],</span> כל האבות הללו שבמשנה <b>כי שדית</b> <span class=\"hebrew-emphasis\">[כאשר תטיל,</span> תצרף<span class=\"hebrew-emphasis\">]</span> <b>בור בינייהו</b> <span class=\"hebrew-emphasis\">[ביניהם],</span> כלומר, לבין כל אחד מן האבות האחרים, <b>אתיא כולהו</b> <span class=\"hebrew-emphasis\">[יבואו,</span> יילמדו, <span class=\"hebrew-emphasis\">כולם]</span> <b>ב</b>דרך הלימוד של <b>מה הצד.</b> <b>לבר</b> <span class=\"hebrew-emphasis\">[מחוץ]</span> <b>מ</b>אב הנזיקין של <b>קרן,</b> שאין ללמוד אותו רק מצירוף שני אבות נזיקין אחרים, ואף לא מבור ואב נוסף, <b>משום דאיכא למיפרך</b> <span class=\"hebrew-emphasis\">[שיש</span> מקום <span class=\"hebrew-emphasis\">להקשות]:</span> <b>מה</b> לצד השווה <b>לכולהו</b> <span class=\"hebrew-emphasis\">[לכולם]</span> — <b>שכן מועדין</b> שדרכם להזיק <b>מתחילתן.</b> ואילו בנזק קרן, מתחילה השור הוא תם, ורק לאחר שהעידו בו שחזר והזיק כמה פעמים נעשה מועד.",
+              "ref": "Steinsaltz on Bava Kamma 5b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:ב",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One is considered forewarned with regard to all of the primary categories of damage and all of their subcategories from the outset so that he is liable for the full cost of the damage caused. There is an exception for Goring and its subcategories, with regard to which an ox is initially considered innocuous, such that one is liable for only half the cost of the damage caused; the ox is considered forewarned only after it causes damage three times and its owner is informed of the goring each of those times (Rambam<i> Sefer Nezikin</i>,<i> Hilkhot Ĥovel UMazik </i>1:5, 2:1; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>389:6, 9).",
+              "he": "כל אבות הנזיקין וכל תולדותיהם מועדים הם מתחילתם, חוץ מקרן ותולדותיה שהם תמים בתחילה עד שיועדו. (רמב\"ם ספר נזיקין הלכות נזקי ממון פ\"ב ה\"א).",
+              "ref": "Steinsaltz comment #1 on Bava Kamma 5b:2",
+              "sourceHeRef": "שֶׁכֵּן מוּעָדִין מִתְּחִילָּתָן",
+              "sourceRef": "In that they are forewarned from their outset"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>ד'ה כי שדית בור בינייהו אתיא כולהו</b> <br>Tosfos takes issue with Rashi about how he explained that shain could be derived from bor and aish. Let us first review Rashi’s explanation. Rashi says that if the Torah wrote bor we could say; <br>a. If bor which does not move is liable certainly shain that moves is liable. <br>b. We would then refute the kal v’chomer by saying; you cannot compare shain to bor, for bor is initially a damager. <br>c. We then argue; aish proves that one is liable even though it is not initially a damager. <br>d. You cannot learn from aish because it is muod even for things that are not suitable for it, such as scorching stones. How can you derive shain from aish? Shain is muod only for food that is suitable for shain. <br>e. Bor proves that a damager can be liable even if only for things that are suitable for it. Bor is exempt when it kills a person or destroys vessels. We see that there can be limited liability. <br>f. From bor we see that there can be limited liability and a damager need not be liable even for things that are not suited for it. From aish we see that a damager need not be initially made as a damager. It is not the unique characteristics of bor and aish that cause them to be liable. Rather, the common characteristic, that they are likely to damage, they are your property and it is your obligation to guard them which is the reason for liability. So too, shain that shares all the common characteristics is also liable. <br>Tosfos will show how he disagrees with Rashi on some of the steps in this derivation. <br><b>Rashi explained: </b>when discussing that shain can be derived from the common characteristics of<b> bor and aish (in step d</b>), that you can refute the derivation from aish by saying: <b>How can you compare shain to aish? Aish is muod to consume both that which is suitable for it, </b>wood,<b> and that which is not suitable for it </b>stones<b>. Can you say that shain which is muod only for that which is suitable for it, should be liable as aish is?</b> <br>Rashi is saying that there is a situation where shain is exempt because that which it is consuming is not suitable for it. <br><b>And this is difficult: For we do not find something that is not suitable for shain. For if it ate something that is not suitable for it </b>such as garments or vessels, <b>it is not a toldoh of shain but a toldoh of keren since there is no pleasure </b>for the animal <b>from damaging it. </b>Furthermore, even <b>if we did find some situation </b>that shain consumed something that is not suitable for it and that would not qualify as a toldoh of keren, <b>we should learn from aish</b> which is liable even for things that are not suitable for aish,<b> that shain is liable even though </b>the<b> </b>consumed article <b>is not suitable for it. </b>Since there is no specific exemption in the Torah that excludes non-suitable item from shain, there is every reason to believe that shain is liable even for the consumption of non-suitable items as can be seen from aish. <br><b>And it appears that shain can be derived from a half-derivation. </b>We follow step a), b), and c). Step d) is not valid as Tosfos has just explained, thus we learn that shain is liable from a kal v’chomer from bor, when the kal v’chomer is refuted on the basis that bor is initially made to damage we defend the derivation with aish, which shows that a damager need not be initially made to damage. There is no further argument. We now know that shain is a damager. <b>Or </b>we may learn shain from <b>aish alone, </b>in the following manner: If aish which is not alive is liable, shain which is alive should certainly be liable. There is no refutation to this kal v’chomer and we would know that shain is a damager. <br>Upon careful analysis we se that the difference between Rashi and Tosfos on this issue is as follows: Rashi holds that we can present a refutation of a kal v’chomer from a non-existent situation, as when we refute the kal v’chomer from aish by saying that aish is liable even for things that are not suitable for aish such as stones, while shain is not. The statement is essentially true. There is no situation of shain where the shain consumes something that is not suitable for it and it is liable. However, the reason that this is so is because the situation does not exist as Tosfos taught us earlier. Rashi holds that despite the fact that the situation does not exist, this argument can be presented as a refutation of the kal v’chomer. Tosfos holds that this argument cannot be presented as a refutation although it is perfectly true, because the situation of shain consuming something that it is not suitable for it is a non-existent situation. Based on this analysis Tosfos will now offer a defense of Rashi’s explanation. <br><b>However, it can be said </b>in order<b> to </b>defend<b> Rashi’s explanation that it is proper to present a refutation based on a situation that is non-existent in shain. For the G’moro presents this type of refutation in , in reference to a slave and a woman, </b>where the G’moro is attempting to learn that a slave is unfit to testify from a woman<b>. </b>The G’moro refutes the<b> </b>attempt by saying;<b> how</b> <b>can you compare</b> a slave to a woman? <b>A woman is not fit for circumcision. </b>Circumcision for women is a non-existent situation and even so it is presented as a refutation to a kal v’chomer. This seems to concur with Rashi’s position. <br>In step e) Rashi says that bor is proof that there can be limited liability because bor is not liable for things that are not suited for it such as a person. Tosfos questions the designation of a person as not suitable for bor. <br>Tosfos tells us three difficulties he has with Rashi’s explanation that a person is unsuitable for a bor, first: <br><b>But that which </b>Rashi <b>explained: bor proves </b>that there can be limited liability <b>because it is not muod for that which is not suitable for it such as a person </b>is difficult for two reasons<b>. One, because the bor<b> </b>owner <b>is exempt for a person, only when he dies and not when he is injured. </b> <br>A second difficulty:</b> <br><b>And furthermore, </b>is it logical<b> that because </b>bor <b>is exempt for killing a person, we consider the person unsuitable </b>to die in a bor? It is entirely possible that a person is suitable to be killed by a bor, and even so the Torah exempts the bor owner. <br>Tosfos will prove that there may be an exemption for something that is suitable to be destroyed by a damager. <br><b>Do we not find by aish as well an exemption for hidden items? </b>Certainly, hidden items are suitable to be consumed by fire and even so the kindler of the fire is exempt for destroying them. It is clear that an exemption doesn’t necessarily make the object unsuitable for a particular damager. <br>A third proof that a person is not considered unsuitable for a bor: <br><b>And furthermore, later on 9b, when discussing the stringencies of an ox versus a bor the G’moro cannot find, according to R’ Yehudoh, who holds one liable for the destruction of vessels in a bor </b>anything <b>that is unsuitable for a bor. </b>Why not? <b>There is the possibility of a person </b>according to Rashi who considers a person unsuitable for bor. <br>Tosfos’ conclusion: <br><b>Rather, it appears that a person is also considered suitable for a bor, because he is suitable to die in the foul air, (1) however vessels, the G’moro later considers unsuitable because the foul air does not damage them. And even though </b>we find <b>that new vessels shatter in the foul air as the G’moro says in the end of , even so, there are </b>other <b>vessels that are not ruined by the foul air </b>and<b> </b>those vessels are considered not suitable for the bor. <br>Tosfos now turns to another aspect of bor. <br><b>And if you ask: How can we learn aish from bor and one of the others? How </b>can you compare aish <b>to the other </b>avos<b>, for the other </b>avos<b> do not combine with any other power </b>and that is why they are liable?<b> Can you</b> <b>say </b>that the same ruling should apply<b> to aish, which must combine with </b>the wind, which is <b>another power? For </b>combining with another power <b>is a weakness </b>as can be seen <b>from </b>the G’moro <b>that will soon ask in reference to one’s stone, knife or load: How </b>can you compare them to <b>bor which is not combined with another power? </b>One’s stone, knife or load cannot be derived from a bor, because they have an inherent weakness, they damage only together with another power, the wind. <br>Tosfos has quite adequately shown that combining with another power is an inherent weakness in a damager. If so, the question remains: how can we learn aish from any of the other avos? Aish has a weak point that none of them have, it must combine with another power, the wind. In order to find an answer to Tosfos problem we will have to take another look at the concept of a damager combining with another power. On the surface this seems to be a weakness, but perhaps there is another way of viewing it. <br><b>And we can answer: that bor which is created without </b>combining with <b>another power</b>, <b>is more stringent than one’s stone, knife or load that did not damage as they were moving, but only after they came to rest, and they became a bor only because </b>they combined<b> </b>with <b>another power, </b>the wind that brought them to the location where they would eventually damage. <br>In this way, combining with another power is definitely a weak point. <br><b>However, aish that travels and damages at a distant place, because it combines with another power, </b>the wind, <b>is more stringent than bor which does not travel and damages only in its place.</b> <br>In contrast to bor which is stationary, combining with another power in order to damage at a distant place is a stringent aspect of aish. Thus aish can be derived from bor. <br>Tosfos has now told us that combining with another power can be viewed two ways. <br>a. When comparing a stone that was blown into a public domain and came to rest, to a bor, it is a leniency, for the bor is totally the power of its owner and the stone became a bor only by combining with another power. <br>b. When comparing aish to bor, combining with another power is a stringent characteristic because it gives the damager mobility as opposed to a bor that remains stationary. <br>On 6a there is a discussion in the G’moro about deriving a stone that was blown away by the wind and rested in a public domain. The Gemara attempts to learn the stone from bor, and counters that the stone combined with another power while the bor did not. The G’moro then presents aish as proof that although it combines with another power it is liable. <br>According to Tosfos explanation this is problematic. We need to show that the leniency of combining with another power to create a bor does not preclude liability, but the G’moro presents aish which is the stringent aspect of combining with another power because it gives the damager mobility. How can we prove from the stringent aspect of combining with another power as in aish, that the lenient aspect as in the case of one’s stone does not preclude liability? <br><b>And that which the G’moro soon says </b>on 6a, when presented with the argument that the stone is the product of combined powers, <b>aish is proof </b>that this does not preclude liability <b>for aish also combines with another power and is liable. </b>The G’moro seems to be saying that despite the weakness of being the product of combined powers aish is liable. But Tosfos said that the combined powers that make aish mobile are a stringent characteristic? <br><b>What the G’moro means is as follows: even though aish combines with another power and it is considered as if it did all the damage itself, and he is liable because it is considered as if he shot an arrow, (2) so too, </b>the stone, knife, or load, <b>even though they combine with another power </b>to form a bor, <b>it is considered as if the owner himself formed this bor without another power. </b> <br>Tosfos attempts another solution to this problem: Our original question was that the G’moro later presents aish to prove that although a damager consists of combined powers it is liable. This seems to be saying that the combined powers of aish are a weakness and despite the weakness there is liability. But Tosfos had said that the combined powers of aish are a stringent characteristic? Tosfos now says that this might be what the G’moro on 6a means when it refutes this proof. <br>The G’moro’s text is: How can you compare the stone, knife and load to aish? Aish normally travels and damages. <br><b>Alternatively, that is </b>precisely <b>what the G’moro meant when it asks: How can you compare </b>the stone, knife or load <b>to aish where the combined powers are a greater stringency, because as a result of </b>the combined powers <b>it travels and damages at a distance, which is not true of his stone, knife or load </b>that damage while stationary and therefore the combined power aspect is a leniency whereas in aish it is a stringency. <br>Tosfos will now examine yet another aspect of bor’s characteristics. <br><b>And if you ask: How can we learn all the avos from aish and bor? </b>One can refute that by arguing: <b>How can you compare the other avos to aish and bor, they </b>aish and bor <b>are circumstances of his own actions causing the damage, (3) as the G’moro explains later in reference to a bor that is rolled about </b>by people and animals who kick it from place to place. The G’moro uses this argument to say that the bor that is rolled about cannot be learned from an ordinary bor because the ordinary bor is his own creation whereas the rolling bor is not<b>. And aish as well is his own action that causes the damage for he lit the fire himself. <br><b>And we can answer: That aish is not considered one’s own action causing the damage because the wind assists </b>in the damaging. <br>We now understand that “his own action causing the damage” means that the damager is totally his action. A person damaging can then be thought of as his own action causing the damage, since he does it himself.</b> <br><b>And if you ask: from </b>a combination of <b>bor and a person how can we learn? </b>One could ask: <b>How </b>can you compare the others<b> to bor and a person, they are</b> cases of his<b> own action causing the damage?</b> <br>Tosfos conclusion is that it is true that ordinarily a person damaging is a case of one’s own action causing the damage. However, there is a case of a person damaging that is not. <br><b>And we can answer: That we learn </b>all other avos<b> from bor and a sleeping person (4) or a person<b> that fell from a roof in an uncommonly </b>strong <b>wind, who is liable as the G’moro says at the end of the second chapter (27a). </b>A sleeping person is not a case of ‘the action of the person’ causing the damage and we can learn liability for the other avos from this case. <br>Tosfos now deals with yet another characteristic of bor.</b> <br><b>And if you ask: From bor and regel how can we learn </b>the other avos? One can ask: <b>How can you compare </b>the other avos to<b> bor and regel? </b>For bor and regel <b>damaging is a usual occurrence </b>as we see<b> later on 6b the G’moro considers bor as a usual occurrence.</b> <br><b>And we can answer: That damaging is not more of a usual occurrence for bor than for the other avos and the G’moro said that later on 6b only </b>in order <b>to mention a stringent characteristic that is equally applicable to bor, a wall, and a tree. </b>The G’moro there is attempting to learn from bor that one is liable for a wall or tree that fell and damaged. The G’moro uses a “usual occurrence” as a common characteristic because that happens to be true of all of them, but not more so than other damagers. <br>1) Tosfos is referring to a dispute between Rav and Shmuel about the reason one is liable for bor. Rav says that it is because of the foul air produced by the bor. <br>1. Tosfos is referring to a G’moro later on 22a, where R’ Yochonon says that the liability for one’s fire is equivalent to the liability for shooting an arrow. <br>2. This is a reference to a G’moro on 6a that defines bor as one’s own action creating the damager. <br>3. Many Achronim question this designation of a sleeping person as not being a case of ‘his own action causing the damage’, especially in view of Tosfos’ telling us in the name of the Y’rushalmee that one is liable only when he laid down to sleep near vessels. It seems that his action of lying down near the vessels is causing the damage. See Otzar HaTosfos note 847.",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Kamma 5b:2:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה כי שדית כו' היינו דפריך מה לאש שכן כח אחר מעורב בו דידיה חמור יותר כו' כצ\"ל ונ\"ב פי' שכן דרכו לילך ולהזיק:",
+                      "ref": "Chokhmat Shlomo on Bava Kamma 5b:3",
+                      "sourceHeRef": "חכמת שלמה על בבא קמא ה׳ ב:ג",
+                      "sourceRef": "Chokhmat Shlomo on Bava Kamma 5b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כי שדית בור בינייהו אתיא כולהו</strong> - <span class=\"rashi-quotation\">מה שפי' הקונטרס</span> דשן אתיא מבור ואש דכי פרכת מה לאש שכן מועדת לאכול בין ראוי לה בין שאין ראוי לה תאמר בשן שאין מועדת לאכול אלא בראוי לה וקשה דלא אשכחן שאינו ראוי בשן דאם אכלה דבר שאין ראוי לה לא הוי תולדה דשן. אלא תולדה דקרן כיון דאין הנאה להזיקה ואי משכחת בשום ענין נילף מאש דמתחייב אף באין ראוי ונראה דשן נמי אתי בפלגא דדינא או מאש לחודיה ומיהו י\"ל לפירוש <span class=\"rashi-quotation\">הקונטרס</span> דשפיר פרכינן פירכא דלא שייכא בשן דכהאי גוונא פריך בהחובל <span class=\"parenthesized\">(לקמן בבא קמא דף פח.)</span> גבי עבד ואשה מה לאשה שכן אינה במילה אך מה שפירש בור יוכיח שאין מועד לדבר שאין ראוי לו כגון אדם קשה חדא דלא פטר אדם אלא ממיתה ולא מנזקין ועוד אטו משום דפטר אדם חשוב אין ראוי והלא באש נמי פטור טמון ועוד דלקמן <span class=\"parenthesized\">(בבא קמא דף ט:)</span> גבי חומר בשור מבבור אין מוצא לרבי יהודה דמחייב על נזקי כלים בבור אין ראוי בבור והא משכחת ליה אדם אלא נראה דאדם נמי חשוב ראוי לבור דראוי למות בהבלא אבל כלים חשיב ליה לקמן אין ראוי דלא מזקא להו הבלא ואע\"פ דכלים חדתי מפקעי בהבלא כדאמר בסוף פרק הפרה לקמן <span class=\"parenthesized\">(בבא קמא דף נד.)</span> מ\"מ יש כלים שאין מתקלקלים בהבלא וא\"ת והיכי אתי אש מבור וחד מאינך מה לאינך שכן אין כח אחר מעורב בו תאמר באש דכח אחר מעורב בו דהוי קולא מדפריך בסמוך גבי אבנו וסכינו ומשאו מה לבור שכן אין כח אחר מעורב בו וי\"ל דבור שנעשה בלא כח אחר חמור מאבנו וסכינו שלא הזיקו בהליכתן אלא לבתר דנייחי ולא נעשו בור אלא ע\"י כח אחר אבל אש שהולך ומזיק בהליכתו ע\"י כח אחר חמור מבור שאין הולך ומזיק אלא במקומו והא דקאמר בסמוך אש תוכיח שכן כח אחר מעורב בו וחייב ה\"פ אע\"ג דכח אחר מעורב בו וחשיבי ליה כאילו בעצמו עושה את הכל וחייב משום חיציו ה\"נ אע\"ג דכח אחר מעורב בו חשובים כאילו בעצמו עושה את הבור הזה בלא כח אחר אי נמי היינו דפריך מה לאש שכן כח אחר מעורב בו דידיה חמור יותר שע\"י זה הולך ומזיק למרחוק מה שאין כן באבנו וסכינו ומשאו וא\"ת והיכי אתו כולהו מאש ובור מה לאש ובור שכן מעשיו גרמו לו כדמפרש לקמן גבי בור המתגלגל ואש נמי מעשיו גרמו לו שהדליק האש וי\"ל דלא חשיב אש מעשיו גרמו לו כיון שהרוח מסייעו וא\"ת מבור ואדם נמי היכי אתו מה לבור ואדם שכן מעשיו גרמו לו וי\"ל דאתו מבור ואדם ישן או נופל מן הגג ברוח שאינה מצויה דחייב כדאמר לקמן בסוף פרק שני <span class=\"parenthesized\">(בבא קמא דף כז.)</span> וא\"ת מבור ורגל היכי אתי מה לבור ורגל שכן היזקן מצוי דלקמן חשבינן בור היזקו מצוי וי\"ל דאין בור היזקו מצוי טפי מאחרים ולא קאמר לקמן הכי אלא להזכיר חומרא אחת ששוה בבור וכותל ואילן:",
+              "ref": "Tosafot on Bava Kamma 5b:2:1",
+              "sourceHeRef": "תוספות על בבא קמא ה׳ ב:ב:א",
+              "sourceRef": "Tosafot on Bava Kamma 5b:2:1"
+            },
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>[They] are forewarned.</b> The Gemara says that keren cannot be derived from all other avos because all other avos are initially muadim. The term initially muadim indicates that they pay in full even the first time they damage while keren is first a tam and pays half the first three times it damages. Tosafot will show that we cannot accept this simple understanding of the Gemara.<br> Later on Bava Kamma 15a there is a dispute among the amoraim about the half payment of a tam. Rav Papa says that it is a monetary requirement. This means that an ordinary ox is assumed to be a potential damager even as far as goring by keren is concerned. His owner should be aware that he needs to be guarded to prevent him from goring others. Therefore, when one fails to guard his ox he is liable for failing to fulfill his obligation to prevent his ox from damaging. Since this reality is not immediately apparent to the ox owner, the Torah was lenient with him and requires only half payment until it is actually established that his ox is a muad.<br>Rav Huno son of R’ Yehoshua says that an ordinary ox is not a potential damager and need not be guarded. The half payment is a fine that the Torah placed upon the owner in order to encourage extra preventative measures.<br><b>One should not explain that</b> the term initially a muad refers to the rule that <b>they pay in full</b> as opposed to keren which pays half, <b>for if that were so we would learn</b> from the other avos <b>that keren also</b> pays full. <b>Since it would not be written</b> that keren pays half, we would learn keren from all other avos and we would assume that it pays in full as do all other avos.<br><b> Rather, Rabbeinu Tam explains</b> that the term <b>initially a muad refers to the fact that it is usual for them to damage, which is not true of keren, because ordinary oxen are assumed to be</b> guarded<b> according to the one who holds that half payment is a fine.</b> Keren is not as likely to damage as are the other avos and it could therefore not be learnt from the other avos.<br>In our Gemara the opposing opinion is presented as the one who holds that keren is more likely to be liable. According to him keren can be derived from the other avos by a kal v’chomer since he damages intentionally. Rashi says that that it is not clear who the author of this opinion is. Tosafot will inform us who he believes is the author of this opinion.<br><b>And the one who says: to the contrary, keren is more likely</b> to be liable<b></b> because of his intent to damage, <b>that is in accordance with the one who says half payment is a monetary payment, because it is common for oxen to damage and they are not assumed to be guarded. And not as Rashi says that</b> the author of this opinion <b>has not been clarified.</b><br>Note:<br>You will notice in the text of your Gemara that there are parentheses around most of the text of the Tosafot. There is a great controversy about whether this is actually a part of Tosafot. The objection to the text of this Tosafot is based primarily on Tosafot <b>ד\"ה אש,</b> so we will wait till after we learn that Tosafot and then discuss the various opinions.",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Kamma 5b:2:2",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שכן מועדין וכו'</strong> - אין לפרש שמשלמין נזק שלם דאם כן קרן נמי אתיא כיון דלא כתיב אלא מפרש ר\"ת דמועדין מתחילתן היינו שדרכן להזיק משא\"כ בקרן דסתם שוורים בחזקת שימור קיימי למ\"ד פלגא דניזקא קנסא ולמ\"ד אדרבה קרן עדיפא היינו למ\"ד דפלגא ניזקא ממונא שדרכו להזיק ולא קיימי בחזקת שימור ולא <span class=\"rashi-quotation\">כמו שפירש הקונטרס</span> דלא איתפרש היכא:",
+              "ref": "Tosafot on Bava Kamma 5b:2:2",
+              "sourceHeRef": "תוספות על בבא קמא ה׳ ב:ב:ב",
+              "sourceRef": "Tosafot on Bava Kamma 5b:2:2"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: And</b> with regard to <b>all of</b> the primary categories in the mishna, <b>when you cast</b> the primary category of <b>Pit among them, all</b> of the rest <b>of them can</b> then <b>be derived through</b> an analogy based on <b>the common factor</b> of two categories. This is the case with all of the categories <b>except for Goring, due to</b> the fact <b>that there is</b> room <b>to refute</b> the analogy to teach the <i>halakha</i> of Goring with the following contention: <b>What</b> is notable <b>about all of</b> the other categories? They are notable <b>in that they are forewarned from their outset.</b> Since it is the typical manner of the animal to trample and eat, and the typical manner of fire to burn, and the typical manner of a pit to serve as an obstacle, the owner is always forewarned with regard to safeguarding against damage and is liable to pay full damages for his failure to prevent the damage even the first time. With regard to Goring, the animal is innocuous for the first three instances of damage and only thereafter is the animal forewarned, rendering its owner liable to pay full damages.",
+      "he": "אָמַר רָבָא: וְכוּלְּהוּ כִּי שָׁדֵית בּוֹר בֵּינַיְיהוּ – אָתְיָא כּוּלְּהוּ בַּמֶּה הַצַּד, לְבַר מִקֶּרֶן; מִשּׁוּם דְּאִיכָּא לְמִיפְרַךְ, מָה לְכוּלְּהוּ שֶׁכֵּן מוּעָדִין מִתְּחִילָּתָן.",
+      "ref": "Bava Kamma 5b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולמאן דאמר כו'</strong> - לא איתפרש היכא:",
+              "ref": "Rashi on Bava Kamma 5b:3:1",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:ג:א",
+              "sourceRef": "Rashi on Bava Kamma 5b:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ו</b>עוד, <b>למאן דאמר</b> <span class=\"hebrew-emphasis\">[ול</span>דעת <span class=\"hebrew-emphasis\">מי שאומר]</span> כי <b>אדרבה, קרן עדיפא</b> <span class=\"hebrew-emphasis\">[עדיפה],</span> שהחיוב בתשלום עבורה ברור יותר, אף שאינה מועדת מתחילתה לפי <b>שכוונתו להזיק,</b> אם כן <b>אפילו קרן נמי אתיא</b> <span class=\"hebrew-emphasis\">[גם כן באה</span> יכולה להילמד<span class=\"hebrew-emphasis\">],</span> משאר אבות.",
+              "ref": "Steinsaltz on Bava Kamma 5b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:ג",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:3"
+            }
+          ]
+        }
+      },
+      "en": "<b>And according to the one who says: On the contrary, Goring is superior</b> in the sense that one’s liability in a case of Goring is more apparent, <b>as the objective of</b> the ox’s action <b>is to cause damage, even Goring</b> can <b>be derived</b> from the common factor of two sources.",
+      "he": "וּלְמַאן דְּאָמַר: אַדְּרַבָּה, קֶרֶן עֲדִיפָא – שֶׁכַּוּוֹנָתוֹ לְהַזִּיק; אֲפִילּוּ קֶרֶן נָמֵי אָתְיָא.",
+      "ref": "Bava Kamma 5b:3"
+    },
+    {
+      "commentary": {
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואלא למאי הלכתא פלגינהו רחמנא. ואוקמה רבא להלכותיהן. קרן לחלק בין [תמה] למועדת. שן ורגל לפוטרן ברשות הרבים בור לרבנן לפטור בו את הכלים. ולר' יהודה לפטור בו את האדם.",
+              "ref": "Rabbeinu Chananel on Bava Kamma 5b:3",
+              "sourceHeRef": "רבינו חננאל על בבא קמא ה׳ ב:ג",
+              "sourceRef": "Rabbeinu Chananel on Bava Kamma 5b:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">להלכותיהן</strong> - למה שיש בזה מה שאין בזה:",
+              "ref": "Rashi on Bava Kamma 5b:4:1",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:ד:א",
+              "sourceRef": "Rashi on Bava Kamma 5b:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>אלא</b> אם כן, שיכולה היתה התורה לכתוב רק אב נזיקין אחד ובור, ואת חובת התשלום בשאר אבות הנזיקין אפשר ללמוד מהם בדרך \"מה הצד\", <b>למאי הלכתא כתבינהו רחמנא</b> <span class=\"hebrew-emphasis\">[למה</span> לצורך איזו <span class=\"hebrew-emphasis\">הלכה כתבתם התורה]?</span> ומשיבים: הרי זה <b>להלכותיהן,</b> שאף שאינם צריכים להיכתב ללמדנו את עצם חובת התשלום על נזקים אלה, מכל מקום נחוץ הדבר כדי לפרט את ההלכות המיוחדות לכל אב נזיקין, לפי שהלכות אלה שונות בכל אחד מאבות הנזיקין, שבכל אב יש דינים נבדלים:",
+              "ref": "Steinsaltz on Bava Kamma 5b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:ד",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "...<b>Their [unique] halakhot.</b> It appears from the Gemara that the only purpose for the Torah writing each and every one of the avos is because of the unique laws that they each have. According to Tosafot analysis the Gemara did not have to say that we would be lacking the unique laws of each of the avos. There is one general law that applies to all of the avos that would be lacking if bor was one of the source of the damagers, the liability for vessels.<br><b>The Gemara could have said that each and every av had to be written</b> explicitly, <b>for if they were not written, rather, we would derive them from one of the others and bor, we would exempt vessels</b> from liability by all of the avos. Since they would all be derived from bor which is exempt for damaging vessels all the other avos would also be exempt for damaging vessels. The Gemara did not have to say that writing all the avos is necessary only because of the distinctive laws of each one.<br> Perhaps this problem about the exemption of vessels could be resolved by adding aish which is not exempt for the destruction of vessels and all of the other avos could be derived from aish and one of the others? That is why the Gemara says that all the avos needed to be written only because of their unique laws.<br><b>And if we would learn</b> all of the other avos <b>from any one of these avos and aish, we would have to exempt hidden objects</b> from liability by all of the avos. Adding aish would not result in a situation where the avos needed to be written only for their unique laws. There would still be a general rule that would be lacking even after the addition of aish; liability for hidden objects.<br>The Gemara has explained why the Torah had to write all of the avos, but why is the Mishna written as it is which leads us to believe that all the avos needed to be written because otherwise we could not learn them from each other?<br><b>And our Mishna taught us</b> in the format of that leads us to believe that each and every av had to be written, otherwise we would not know of it, <b>only to make the Torah great and beautify it.</b> As we study the Mishna in this format we become aware of the weaknesses and strengths of each of the avos which give us a greater understanding of the avos. This greater understanding beautifies the Torah. Eventually as we study we become aware that some of the avos could have been derived from bor and one of the others, so we are ultimately not misled.",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Kamma 5b:4:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">להלכותיהן</strong> - הוה מצי למימר דכולהו איצטריך למיכתב דאי לא כתיב אלא הוה נפקא מחד מהנך ובור הוה פטרי בהו כלים ואי יליף מחד מהנך ומאש הוה פטרי בהו טמון)</span> ומתני' לא קתני אלא להגדיל תורה ויאדיר:",
+              "ref": "Tosafot on Bava Kamma 5b:4:1",
+              "sourceHeRef": "תוספות על בבא קמא ה׳ ב:ד:א",
+              "sourceRef": "Tosafot on Bava Kamma 5b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>But</b> if all the categories can be derived from another category and Pit, <b>for</b> the purpose of deriving <b>what <i>halakha</i> did the Merciful One write</b> all the primary categories explicitly? The Gemara answers: It is in order <b>to</b> derive <b>their</b> unique <b><i>halakhot</i></b> that apply exclusively to each category.",
+      "he": "אֶלָּא לְמַאי הִלְכְתָא כַּתְבִינְהוּ רַחֲמָנָא? לְהִלְכוֹתֵיהֶן.",
+      "ref": "Bava Kamma 5b:4"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>קרן</b> נכתבה — כדי <b>לחלק</b> בה <b>בין תמה למועדת.</b>",
+              "ref": "Steinsaltz on Bava Kamma 5b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:ה",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "חמשה מיני נזקים נכללים בגדר קרן, ואם היתה הבהמה תמה — אין בעליה משלם אלא חצי נזק, ורק לאחר שהועדה הבהמה משלם נזק שלם. (רמב\"ם ספר נזיקין הלכות נזקי ממון פ\"א ה\"ה. שו\"ע חו\"מ שפט, ו. חו\"מ שפט, ט).",
+              "ref": "Steinsaltz comment #1 on Bava Kamma 5b:5",
+              "sourceHeRef": "קרן לחלק בין תמה למועדת",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>Goring</b> is written explicitly in order <b>to distinguish between</b> the <i>halakhot</i> of damage caused by <b>an innocuous</b> animal <b>and</b> damage caused by <b>a forewarned</b> animal.",
+      "he": "קֶרֶן – לְחַלֵּק בֵּין תַּמָּה לְמוּעֶדֶת.",
+      "ref": "Bava Kamma 5b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לפוטרן ברשות הרבים</strong> - דכתיב בהו ובער בשדה אחר דלא חייבין אלא ברשות הניזק:",
+              "ref": "Rashi on Bava Kamma 5b:6:1",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:ו:א",
+              "sourceRef": "Rashi on Bava Kamma 5b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שן ורגל</b> נכתבו — כדי <b>לפוטרן ברשות הרבים.</b>",
+              "ref": "Steinsaltz on Bava Kamma 5b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:ו",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The owner of an animal is liable to pay for damage caused by the categories of Eating or Trampling only if his animal caused the damage on the private property of the person whose property was damaged. The owner is exempt from liability for such damage in the public domain (Rambam<i> Sefer Nezikin</i>,<i> Hilkhot Ĥovel UMazik</i> 1:8; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>389:15).",
+              "he": "על נזקי שן ורגל של בהמה אין בעליה חייב אלא אם כן הזיקה ברשות הניזק, אבל ברשות הרבים — פטור. (רמב\"ם ספר נזיקין הלכות נזקי ממון פ\"א ה\"ח. שו\"ע חו\"מ שפט, טו).",
+              "ref": "Steinsaltz comment #1 on Bava Kamma 5b:6",
+              "sourceHeRef": "שֵׁן וְרֶגֶל לְפוֹטְרָן וכו׳",
+              "sourceRef": "Eating and Trampling are written in order to exempt, etc."
+            }
+          ]
+        }
+      },
+      "en": "<b>Eating and Trampling</b> are written explicitly in order <b>to exempt</b> from liability those whose animals perform the actions in these categories <b>in a public domain.</b>",
+      "he": "שֵׁן וָרֶגֶל – לְפוֹטְרָן בִּרְשׁוּת הָרַבִּים.",
+      "ref": "Bava Kamma 5b:6"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לפטור בו את האדם</strong> - כדדרשינן שור ולא אדם:",
+              "ref": "Rashi on Bava Kamma 5b:7:1",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:ז:א",
+              "sourceRef": "Rashi on Bava Kamma 5b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בור</b> נכתב — כדי <b>לפטור בו את הכלים,</b> שאין בעל הבור חייב באחריות על כלים שנפלו לבור ונשברו בו. ושואלים: <b>ול</b>שיטת <b>ר' יהודה</b> ש<b>מחייב</b> אף <b>על נזקי כלים בבור,</b> מדוע נכתב דין בור? ומשיבים: <b>לפטור בו את האדם,</b> שאף ר' יהודה מודה שאין בעל הבור חייב בתשלומים על מות אדם שנפל לבור, שכן אדם יכול להיזהר, ולכן נכתב אב נזיקין זה לעצמו.",
+              "ref": "Steinsaltz on Bava Kamma 5b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:ז",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If vessels fall into a pit and are damaged or broken, the owner of the pit is exempt from having to pay for the damage (Rambam<i> Sefer Nezikin</i>,<i> Hilkhot Ĥovel UMazik</i> 13:1; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>410:21).",
+              "he": "כלים שנפלו לבור והוזקו או נשתברו — פטור בעל הבור. (רמב\"ם ספר נזיקין הלכות נזקי ממון פי\"ג ה\"א. שו\"ע חו\"מ תי, כא).",
+              "ref": "Steinsaltz comment #1 on Bava Kamma 5b:7",
+              "sourceHeRef": "לִפְטוֹר בּוֹ אֶת הַכֵּלִים",
+              "sourceRef": "To exempt one from liability for damage to vessels"
+            },
+            {
+              "en": "The Sages had a tradition that the owner of a pit is not obligated to pay for damage caused by his pit to either people or vessels. Therefore, if someone fell into a pit and died, regardless of whether he was a free man or a slave, and even if he was blind or he fell in at night, the owner of the pit is exempt from liability (Rambam<i> Sefer Nezikin</i>,<i> Hilkhot Nizkei Mamon </i>12:16, 13:1; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>410:20).",
+              "he": "מפי השמועה למדו שאין בעל הבור חייב לא על האדם ולא על הכלים. ולפיכך אם נפל אדם לתוך הבור ומת, בין שהיה בן חורין או עבד, ואפילו היה סומא או שנפל בלילה — בעל הבור פטור. (רמב\"ם ספר נזיקין הלכות נזקי ממון פי\"ג ה\"א. רמב\"ם ספר נזיקין הלכות נזקי ממון פי\"ב הט\"ז. שו\"ע חו\"מ תי, כ).",
+              "ref": "Steinsaltz comment #2 on Bava Kamma 5b:7",
+              "sourceHeRef": "לִפְטוֹר בּוֹ אֶת הָאָדָם",
+              "sourceRef": "To exempt one from liability for the death of a person"
+            },
+            {
+              "en": "The Gemara later derives this from the verse: “And an ox or a donkey fall therein” (Exodus 21:33), indicating that the owner of the pit is liable only for damage done to animals and not for any people who fall into his pit and die. This is the traditional interpretation of this verse, but it is also based on logic. People are intelligent and aware of possible dangers to them and must be vigilant enough to avoid those dangers (<i>Ĥizkuni</i>; Abravanel).",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Bava Kamma 5b:7",
+              "sourceHeRef": "לִפְטוֹר בּוֹ אֶת הָאָדָם",
+              "sourceRef": "To exempt one from liability for the death of a person"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>Pit to exempt for [damage to] vessels.</b> The Gemara said that bor had to be written. It could not be derived from any of the others, since it is the only one that does not travel. Why did the Gemara say that bor was written for its unique law, the exemption of vessels? Bor had to be written because it could not be derived from the others.<br><b>As the Gemara is in the mode</b> of listing<b></b> the special laws of the other avos<b> it</b> also <b>mentions</b> the unique law of bor. At this point in the Gemara it was not necessary to mention the special law of bor <b>because bor cannot be derived from the other avos</b> and definitely needed to be written in the Torah.",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Kamma 5b:7:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בור לפטור בו את הכלים</strong> - אגב אורחיה נקטיה דבור לא אתי מכולהו:",
+              "ref": "Tosafot on Bava Kamma 5b:7:1",
+              "sourceHeRef": "תוספות על בבא קמא ה׳ ב:ז:א",
+              "sourceRef": "Tosafot on Bava Kamma 5b:7:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Pit</b> is written explicitly in order <b>to exempt</b> one from liability <b>for</b> damage to <b>vessels</b> caused when they fall into a pit. The Gemara adds: <b>And according to</b> the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, who deems one liable</b> even <b>for damage to vessels</b> caused when they fall <b>into a pit,</b> Pit was written in order <b>to exempt</b> one from liability <b>for</b> the death of <b>a person</b> who was killed by falling into a pit. <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> concedes that the possessor of the pit is exempt because the person who ultimately fell into the pit was capable of avoiding it.",
+      "he": "בּוֹר – לִפְטוֹר בּוֹ אֶת הַכֵּלִים. וּלְרַבִּי יְהוּדָה דִּמְחַיֵּיב עַל נִזְקֵי כֵלִים בְּבוֹר – לִפְטוֹר בּוֹ אֶת הָאָדָם.",
+      "ref": "Bava Kamma 5b:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אדם</strong> - להכי כתביה רחמנא:",
+              "ref": "Rashi on Bava Kamma 5b:8:1",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:ח:א",
+              "sourceRef": "Rashi on Bava Kamma 5b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לחייבו בארבעה דברים</strong> - צער ריפוי שבת ובושת משא\"כ בכל הני:",
+              "ref": "Rashi on Bava Kamma 5b:8:2",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:ח:ב",
+              "sourceRef": "Rashi on Bava Kamma 5b:8:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומדוע נכתב אב הנזיקין <b>אדם</b> (שהוא לדעת רב \"מבעה\" שבמשנה) — כדי <b>לחייבו בארבעה דברים</b> נוסף לתשלום עצם הנזק, והם: צער, ריפוי, בושת, ושבת.",
+              "ref": "Steinsaltz on Bava Kamma 5b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:ח",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One who injures another must pay him not only for the cost of the injury, i.e., the depreciation in his value due to the injury, but also for the pain, the medical costs, his loss of livelihood, and the humiliation he endured (Rambam<i> Sefer Nezikin</i>,<i> Hilkhot Ĥovel UMazik</i> 1:1; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>420:3).",
+              "he": "החובל בחבירו משלם לו, מלבד הנזק, גם צער וריפוי ושבת ובושת, אם היו שייכים בהיזק זה שהזיקו. (רמב\"ם ספר נזיקין הלכות חובל ומזיק פ\"א ה\"א. שו\"ע חו\"מ תכ, ג).",
+              "ref": "Steinsaltz comment #1 on Bava Kamma 5b:8",
+              "sourceHeRef": "לְחַיְּיבוֹ בְּאַרְבָּעָה דְּבָרִים",
+              "sourceRef": "To render him liable for four types of indemnity"
+            }
+          ]
+        }
+      },
+      "en": "<b>Man</b> is written explicitly in order <b>to render him liable for four</b> additional <b>types</b> of indemnity, beyond the payment of damages for the diminution in value caused when one injures a person.",
+      "he": "אָדָם – לְחַיְּיבוֹ בְּאַרְבָּעָה דְּבָרִים.",
+      "ref": "Bava Kamma 5b:8"
+    },
+    {
+      "commentary": {
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אש לרבנן לפטור בו את הטמון כדבעינן למימר לקמן.",
+              "ref": "Rabbeinu Chananel on Bava Kamma 5b:4",
+              "sourceHeRef": "רבינו חננאל על בבא קמא ה׳ ב:ד",
+              "sourceRef": "Rabbeinu Chananel on Bava Kamma 5b:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": [
+                        "If the thief is seized while tunneling, and he is beaten to death, there is no bloodguilt in his case.",
+                        "If the sun has risen on him, there is bloodguilt in that case.—He must make restitution; if he lacks the means, he shall be sold for his theft.",
+                        "But if what he stole—whether ox or ass or sheep—is found alive in his possession, he shall pay double.",
+                        "When a man lets his livestock loose to graze in another’s land, and so allows a field or a vineyard to be grazed bare, he must make restitution for the impairment of that field or vineyard.",
+                        "When a fire is started and spreads to thorns, so that stacked, standing, or growing grain is consumed, he who started the fire must make restitution.",
+                        "When a man gives money or goods to another for safekeeping, and they are stolen from the man’s house—if the thief is caught, he shall pay double;",
+                        "if the thief is not caught, the owner of the house shall depose before God that he has not laid hands on the other’s property.",
+                        "In all charges of misappropriation—pertaining to an ox, an ass, a sheep, a garment, or any other loss, whereof one party alleges, “This is it”—the case of both parties shall come before God: he whom God declares guilty shall pay double to the other.",
+                        "When a man gives to another an ass, an ox, a sheep or any other animal to guard, and it dies or is injured or is carried off, with no witness about,",
+                        "an oath before the L<small>ORD</small> shall decide between the two of them that the one has not laid hands on the property of the other; the owner must acquiesce, and no restitution shall be made.",
+                        "But if [the animal] was stolen from him, he shall make restitution to its owner.",
+                        "If it was torn by beasts, he shall bring it as evidence; he need not replace what has been torn by beasts.",
+                        "When a man borrows [an animal] from another and it dies or is injured, its owner not being with it, he must make restitution.",
+                        "If its owner was with it, no restitution need be made; but if it was hired, he is entitled to the hire.",
+                        "If a man seduces a virgin for whom the bride-price has not been paid, and lies with her, he must make her his wife by payment of a bride-price.",
+                        "If her father refuses to give her to him, he must still weigh out silver in accordance with the bride-price for virgins.",
+                        "You shall not tolerate a sorceress.",
+                        "Whoever lies with a beast shall be put to death.",
+                        "Whoever sacrifices to a god other than the L<small>ORD</small> alone shall be proscribed.",
+                        "You shall not wrong a stranger or oppress him, for you were strangers in the land of Egypt.",
+                        "You shall not ill-treat any widow or orphan.",
+                        "If you do mistreat them, I will heed their outcry as soon as they cry out to Me,",
+                        "and My anger shall blaze forth and I will put you to the sword, and your own wives shall become widows and your children orphans.",
+                        "If you lend money to My people, to the poor among you, do not act toward them as a creditor; exact no interest from them.",
+                        "If you take your neighbor’s garment in pledge, you must return it to him before the sun sets;",
+                        "it is his only clothing, the sole covering for his skin. In what else shall he sleep? Therefore, if he cries out to Me, I will pay heed, for I am compassionate.",
+                        "You shall not revile God, nor put a curse upon a chieftain among your people.",
+                        "You shall not put off the skimming of the first yield of your vats. You shall give Me the first-born among your sons.",
+                        "You shall do the same with your cattle and your flocks: seven days it shall remain with its mother; on the eighth day you shall give it to Me.",
+                        "You shall be holy people to Me: you must not eat flesh torn by beasts in the field; you shall cast it to the dogs."
+                      ],
+                      "expandedRefsAfterRewriting": [
+                        "Exodus 22:1",
+                        "Exodus 22:2",
+                        "Exodus 22:3",
+                        "Exodus 22:4",
+                        "Exodus 22:5",
+                        "Exodus 22:6",
+                        "Exodus 22:7",
+                        "Exodus 22:8",
+                        "Exodus 22:9",
+                        "Exodus 22:10",
+                        "Exodus 22:11",
+                        "Exodus 22:12",
+                        "Exodus 22:13",
+                        "Exodus 22:14",
+                        "Exodus 22:15",
+                        "Exodus 22:16",
+                        "Exodus 22:17",
+                        "Exodus 22:18",
+                        "Exodus 22:19",
+                        "Exodus 22:20",
+                        "Exodus 22:21",
+                        "Exodus 22:22",
+                        "Exodus 22:23",
+                        "Exodus 22:24",
+                        "Exodus 22:25",
+                        "Exodus 22:26",
+                        "Exodus 22:27",
+                        "Exodus 22:28",
+                        "Exodus 22:29"
+                      ],
+                      "he": [
+                        "אִם־בַּמַּחְתֶּ֛רֶת יִמָּצֵ֥א הַגַּנָּ֖ב וְהֻכָּ֣ה וָמֵ֑ת אֵ֥ין ל֖וֹ דָּמִֽים׃",
+                        "אִם־זָרְחָ֥ה הַשֶּׁ֛מֶשׁ עָלָ֖יו דָּמִ֣ים ל֑וֹ שַׁלֵּ֣ם יְשַׁלֵּ֔ם אִם־אֵ֣ין ל֔וֹ וְנִמְכַּ֖ר בִּגְנֵבָתֽוֹ׃",
+                        "אִֽם־הִמָּצֵא֩ תִמָּצֵ֨א בְיָד֜וֹ הַגְּנֵבָ֗ה מִשּׁ֧וֹר עַד־חֲמ֛וֹר עַד־שֶׂ֖ה חַיִּ֑ים שְׁנַ֖יִם יְשַׁלֵּֽם׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּ֤י יַבְעֶר־אִישׁ֙ שָׂדֶ֣ה אוֹ־כֶ֔רֶם וְשִׁלַּח֙ אֶת־<span class=\"mam-kq-trivial\">בְּעִירֹ֔ה</span> וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּֽי־תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙ וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה שַׁלֵּ֣ם יְשַׁלֵּ֔ם הַמַּבְעִ֖ר אֶת־הַבְּעֵרָֽה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ כֶּ֤סֶף אֽוֹ־כֵלִים֙ לִשְׁמֹ֔ר וְגֻנַּ֖ב מִבֵּ֣ית הָאִ֑ישׁ אִם־יִמָּצֵ֥א הַגַּנָּ֖ב יְשַׁלֵּ֥ם שְׁנָֽיִם׃",
+                        "אִם־לֹ֤א יִמָּצֵא֙ הַגַּנָּ֔ב וְנִקְרַ֥ב בַּֽעַל־הַבַּ֖יִת אֶל־הָֽאֱלֹהִ֑ים אִם־לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֥אכֶת רֵעֵֽהוּ׃",
+                        "עַֽל־כׇּל־דְּבַר־פֶּ֡שַׁע עַל־שׁ֡וֹר עַל־חֲ֠מ֠וֹר עַל־שֶׂ֨ה עַל־שַׂלְמָ֜ה עַל־כׇּל־אֲבֵדָ֗ה אֲשֶׁ֤ר יֹאמַר֙ כִּי־ה֣וּא זֶ֔ה עַ֚ד הָֽאֱלֹהִ֔ים יָבֹ֖א דְּבַר־שְׁנֵיהֶ֑ם אֲשֶׁ֤ר יַרְשִׁיעֻן֙ אֱלֹהִ֔ים יְשַׁלֵּ֥ם שְׁנַ֖יִם לְרֵעֵֽהוּ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ חֲמ֨וֹר אוֹ־שׁ֥וֹר אוֹ־שֶׂ֛ה וְכׇל־בְּהֵמָ֖ה לִשְׁמֹ֑ר וּמֵ֛ת אוֹ־נִשְׁבַּ֥ר אוֹ־נִשְׁבָּ֖ה אֵ֥ין רֹאֶֽה׃",
+                        "שְׁבֻעַ֣ת יְהֹוָ֗ה תִּהְיֶה֙ בֵּ֣ין שְׁנֵיהֶ֔ם אִם־לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֣אכֶת רֵעֵ֑הוּ וְלָקַ֥ח בְּעָלָ֖יו וְלֹ֥א יְשַׁלֵּֽם׃",
+                        "וְאִם־גָּנֹ֥ב יִגָּנֵ֖ב מֵעִמּ֑וֹ יְשַׁלֵּ֖ם לִבְעָלָֽיו׃",
+                        "אִם־טָרֹ֥ף יִטָּרֵ֖ף יְבִאֵ֣הוּ עֵ֑ד הַטְּרֵפָ֖ה לֹ֥א יְשַׁלֵּֽם׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+                        "וְכִֽי־יִשְׁאַ֥ל אִ֛ישׁ מֵעִ֥ם רֵעֵ֖הוּ וְנִשְׁבַּ֣ר אוֹ־מֵ֑ת בְּעָלָ֥יו אֵין־עִמּ֖וֹ שַׁלֵּ֥ם יְשַׁלֵּֽם׃",
+                        "אִם־בְּעָלָ֥יו עִמּ֖וֹ לֹ֣א יְשַׁלֵּ֑ם אִם־שָׂכִ֣יר ה֔וּא בָּ֖א בִּשְׂכָרֽוֹ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "וְכִֽי־יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא־אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה לּ֖וֹ לְאִשָּֽׁה׃",
+                        "אִם־מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "מְכַשֵּׁפָ֖ה לֹ֥א תְחַיֶּֽה׃",
+                        "כׇּל־שֹׁכֵ֥ב עִם־בְּהֵמָ֖ה מ֥וֹת יוּמָֽת׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "זֹבֵ֥חַ לָאֱלֹהִ֖ים יׇֽחֳרָ֑ם בִּלְתִּ֥י לַיהֹוָ֖ה לְבַדּֽוֹ׃",
+                        "וְגֵ֥ר לֹא־תוֹנֶ֖ה וְלֹ֣א תִלְחָצֶ֑נּוּ כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+                        "כׇּל־אַלְמָנָ֥ה וְיָת֖וֹם לֹ֥א תְעַנּֽוּן׃",
+                        "אִם־עַנֵּ֥ה תְעַנֶּ֖ה אֹת֑וֹ כִּ֣י אִם־צָעֹ֤ק יִצְעַק֙ אֵלַ֔י שָׁמֹ֥עַ אֶשְׁמַ֖ע צַעֲקָתֽוֹ׃",
+                        "וְחָרָ֣ה אַפִּ֔י וְהָרַגְתִּ֥י אֶתְכֶ֖ם בֶּחָ֑רֶב וְהָי֤וּ נְשֵׁיכֶם֙ אַלְמָנ֔וֹת וּבְנֵיכֶ֖ם יְתֹמִֽים׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+                        "אִם־כֶּ֣סֶף <b>׀</b> תַּלְוֶ֣ה אֶת־עַמִּ֗י אֶת־הֶֽעָנִי֙ עִמָּ֔ךְ לֹא־תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא־תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ׃",
+                        "אִם־חָבֹ֥ל תַּחְבֹּ֖ל שַׂלְמַ֣ת רֵעֶ֑ךָ עַד־בֹּ֥א הַשֶּׁ֖מֶשׁ תְּשִׁיבֶ֥נּוּ לֽוֹ׃",
+                        "כִּ֣י הִ֤וא <span class=\"mam-kq-trivial\">כְסוּתֹה֙</span> לְבַדָּ֔הּ הִ֥וא שִׂמְלָת֖וֹ לְעֹר֑וֹ בַּמֶּ֣ה יִשְׁכָּ֔ב וְהָיָה֙ כִּֽי־יִצְעַ֣ק אֵלַ֔י וְשָׁמַעְתִּ֖י כִּֽי־חַנּ֥וּן אָֽנִי׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר׃",
+                        "מְלֵאָתְךָ֥ וְדִמְעֲךָ֖ לֹ֣א תְאַחֵ֑ר בְּכ֥וֹר בָּנֶ֖יךָ תִּתֶּן־לִֽי׃",
+                        "כֵּֽן־תַּעֲשֶׂ֥ה לְשֹׁרְךָ֖ לְצֹאנֶ֑ךָ שִׁבְעַ֤ת יָמִים֙ יִהְיֶ֣ה עִם־אִמּ֔וֹ בַּיּ֥וֹם הַשְּׁמִינִ֖י תִּתְּנוֹ־לִֽי׃",
+                        "וְאַנְשֵׁי־קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב תַּשְׁלִכ֥וּן אֹתֽוֹ׃ <span class=\"mam-spi-samekh\">{ס}</span>"
+                      ],
+                      "link": "/Exodus/22",
+                      "ref": "Exodus 22",
+                      "sourceHeRef": "שמות כ״ב",
+                      "sourceRef": "Exodus 22"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לפטור בו את הטמון</strong> - שאם היו בגדים טמונים בגדיש פטור המבעיר דכתיב ביה <span class=\"parenthesized\">(שמות כב)</span> או הקמה ודרשינן בשילהי הכונס צאן לדיר <span class=\"parenthesized\">(לקמן בבא קמא דף ס.)</span> מה קמה בגלוי אף כל גלוי לאפוקי טמון דלא מה שאין כן בשור ובור ומבעה ורבי יהודה קא פליג התם:",
+              "ref": "Rashi on Bava Kamma 5b:9:1",
+              "sourceHeRef": "רש\"י על בבא קמא ה׳ ב:ט:א",
+              "sourceRef": "Rashi on Bava Kamma 5b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ו<b>אש</b> נכתבה כי יש בה הלכה מיוחדת — <b>לפטור בו את הטמון.</b> שלדעת רוב החכמים, אם היה דבר טמון בתוך הקמה (או שאר דברים שנשרפו), באופן שאין מקום להניח שהוא מצוי שם, אם כילתה אותו האש — אין המזיק חייב לשלם. ושואלים: <b>ול</b>דעת <b>ר' יהודה</b> ש<b>מחייב</b> אף <b>על נזקי טמון באש,</b> <b>לאתויי מאי</b> <span class=\"hebrew-emphasis\">[להביא,</span> להוסיף את <span class=\"hebrew-emphasis\">מה]</span> את איזו הלכה מיוחדת, נתפרט אב נזיקין זה?",
+              "ref": "Steinsaltz on Bava Kamma 5b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא קמא ה׳ ב:ט",
+              "sourceRef": "Steinsaltz on Bava Kamma 5b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one lights a fire on his own property and it spreads to another person’s field, and there it consumes a heap of grain, and embedded in that heap were various objects that were also consumed by the fire, one is exempt from liability to pay for them, even if such objects are commonly stored in a heap of grain, e.g., threshing implements and equipment used with the cattle. Nevertheless, if one lit the fire on another’s property he does have to pay for objects ordinarily found in a heap of grain, and he is exempt from liability only for objects that are not usually found in a heap of grain (Rambam<i> Sefer Nezikin</i>,<i> Hilkhot Nizkei Mamon </i>14:8–9; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>418:13).",
+              "he": "המדליק בתוך שלו ויצאה האש לשדה חבירו ושרפה שם גדיש — אפילו היו טמונים בו דברים שדרכם להיות בגדיש, כגון מוריגים וכלי הבקר — הרי זה פטור מלשלמם. אבל אם הדליק בתוך שדה חבירו חייב על דברים שדרך לטומנם בגדיש, ואינו פטור אלא על כלים שאין דרך לטומנם שם. (רמב\"ם ספר נזיקין הלכות חובל ומזיכק פי\"ד ה\"ח–ט. שו\"ע חו\"מ תיח, יג).",
+              "ref": "Steinsaltz comment #1 on Bava Kamma 5b:9",
+              "sourceHeRef": "אֵשׁ לִפְטוֹר בּוֹ אֶת הַטָּמוּן",
+              "sourceRef": "Fire is written in order to exempt one from liability for damage caused to a concealed object"
+            },
+            {
+              "en": "",
+              "he": "כל אבות הנזיקין וכל תולדותיהם מועדים הם מתחילתם, חוץ מקרן ותולדותיה שהם תמים בתחילה עד שיועדו. (רמב\"ם ספר נזיקין הלכות נזקי ממון פ\"ב ה\"א).",
+              "ref": "Steinsaltz comment #2 on Bava Kamma 5b:9",
+              "sourceHeRef": "שכן מועדין מתחילתן",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "חמשה מיני נזקים נכללים בגדר קרן, ואם היתה הבהמה תמה — אין בעליה משלם אלא חצי נזק, ורק לאחר שהועדה הבהמה משלם נזק שלם. (רמב\"ם ספר נזיקין הלכות נזקי ממון פ\"א ה\"ה. שו\"ע חו\"מ שפט, ו. שו\"ע חו\"מ שפט ט).",
+              "ref": "Steinsaltz comment #3 on Bava Kamma 5b:9",
+              "sourceHeRef": "קרן לחלק בין תמה למועדת",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "על נזקי שן ורגל של בהמה אין בעליה חייב אלא אם כן הזיקה ברשות הניזק, אבל ברשות הרבים — פטור. (רמב\"ם ספר נזיקין הלכות נזקי ממון פ\"א ה\"ח. שו\"ע חו\"מ שפט, טו).",
+              "ref": "Steinsaltz comment #4 on Bava Kamma 5b:9",
+              "sourceHeRef": "שן ורגל לפוטרן ברשות הרבים",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "כלים שנפלו לבור והוזקו או נשתברו — פטור בעל הבור. (רמב\"ם ספר נזיקין הלכות נזקי ממון פי\"ג ה\"א. שו\"ע חו\"מ תי, כא).",
+              "ref": "Steinsaltz comment #5 on Bava Kamma 5b:9",
+              "sourceHeRef": "לפטור בו את הכלים",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "מפי השמועה למדו שאין בעל הבור חייב לא על האדם ולא על הכלים. ולפיכך אם נפל אדם לתוך הבור ומת, בין שהיה בן חורין או עבד, ואפילו היה סומא או שנפל בלילה — בעל הבור פטור. (רמב\"ם ספר נזיקין הלכות נזקי ממון פי\"ג ה\"א. רמב\"ם ספר נזיקין הלכות נזקי ממון פי\"ב הט\"ז. שו\"ע חו\"מ תי, כ).",
+              "ref": "Steinsaltz comment #6 on Bava Kamma 5b:9",
+              "sourceHeRef": "לפטור בו את האדם",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "החובל בחבירו משלם לו, מלבד הנזק, גם צער וריפוי ושבת ובושת, אם היו שייכים בהיזק זה שהזיקו. (רמב\"ם ספר נזיקין הלכות חובל ומזיק פ\"א ה\"א. שו\"ע חו\"מ תכ, ג).",
+              "ref": "Steinsaltz comment #7 on Bava Kamma 5b:9",
+              "sourceHeRef": "לחייבו בארבעה דברים",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "המדליק בתוך שלו ויצאה האש לשדה חבירו ושרפה שם גדיש — אפילו היו טמונים בו דברים שדרכם להיות בגדיש, כגון מוריגים וכלי הבקר — הרי זה פטור מלשלמם. אבל אם הדליק בתוך שדה חבירו חייב על דברים שדרך לטומנם בגדיש, ואינו פטור אלא על דכלים שאין דרך לטומנם שם. (רמב\"ם ספר נזיקין הלכות חובל ומזיק פי\"ד ה\"ח–ט. שו\"ע חו\"מ תיח, יג).",
+              "ref": "Steinsaltz comment #8 on Bava Kamma 5b:9",
+              "sourceHeRef": "אש לפטור בו את הטמון",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>Fire to exempt a concealed [object].</b> The Gemara seems to be saying that the only reason aish had to be written in the Torah is for its unique law that when aish destroys hidden objects it is exempt. Tosafot point out that this is not the only reason aish needed to be written.<br><b>The Gemara could have said that aish was written so that it should be liable for destroying vessels, because aish cannot be derived from any of the live damagers.</b> It can <b>only</b> be derived <b>from any one of the others and bor which is exempt for the destruction of vessels,</b> aish would then also be exempt for damaging vessels. The explanation of the Gemara that aish was written to teach us the exemption of hidden objects is only one of the reasons that aish had to be written.<br>It is apparent from this Tosafot that if aish were not explicitly written in the Torah, it could be derived from bor and aish would also be exempt for destroying vessels. According to this Tosafot the problem seems to exist only for aish, but not for the other avos. This contradicts what Tosafot says in <b>ד\"ה להלכותיהן</b> where it seems that this problem would be true of any av derived from bor and one of the others. Tosafot said there that all of the avos would have a general exemption for damaging vessels because they would all be derived from bor while here Tosafot is saying that only aish would have the exemption for vessels not the other avos. Based on this contradiction, Maharshal deletes most of the text of that Tosafot.<br> Maharsho defends the text:<br>This Tosafot is saying that if we would attempt to learn any of the avos from each other, ultimately aish would be exempt for vessels. For example we could learn that regel is liable from keren and shain. Either sources are liable for vessels, thus the derivative, regel, would also be liable for vessels. However, aish could not be derived from any of the live damagers, because we have seen in the Mishna that a spirit of life is a stringent characteristic that aish does not have. It can only be derived from bor which is also not alive, but if it is derived from bor it would have the exemption for vessels. That is why our Tosafot says that the problem of the exemption for vessels is true of aish as opposed to the other avos, because aish can only be derived from bor. The other avos might each be derived from two of the other avos, where there is no exemption for vessels in either of the sources.<br>But why does the previous Tosafot indicate that the exemption for vessels would apply to all of the avos? Maharsho explains that the previous Tosafot is discussing the particular phrase of the Gemara that says all the avos could be learned from bor and one of the others. Tosafot correctly says that if bor was one of the sources, all the other avos would be exempt for vessels.<br>The Tosafot <b>ד\"ה אש</b> is considering learning any one of the avos from any two of the others, this can be done without using bor as a source. Thus all the others would not have the exemption for vessels. Aish which can be derived only from bor would have the exemption for vessels.",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Kamma 5b:9:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> להלכותיהן כו' מהרש\"ל מחק כל דבור זה עד ומתני' לא קתני כו' ע\"ש וכן נראה משמעו ממה שכתבו לקמן דבאש הל\"ל הכי דלא אתי אלא מחד מינייהו ומבור דפטר בו כלים אבל בכל אינך בתר דכתיבי כולהו לא הוה איצטריך כל חדא מינייהו דהוה אש מב\"ח והוצרך שפיר למימר להלכותיהן מיהו נראה ליישב דבריהם דהכא דמ\"מ אמלתא דרבא דקאמר דמכל חד מינייהו ומבור אתיין כולהו המ\"ל דהוי פטרי בהו כלים ומ\"ש ואי יליף מחד מינייהו ומאש כו' ר\"ל דאי משום הכי הוצרך למימר להלכותיהן דלא תקשי לילף מחד מינייהו ומאש מיהו בור נמי הוה כתיב דלא אתי מכולהו דאם כן המ\"ל דהוה פטרי בהו טמון וה\"ה דהמ\"ל אי הוה ההוא חד או שן או רגל הוה פטרי בהו רה\"ר ואי הוה ההוא חד מינייהו קרן הוה פטרי בהו תם ממש אלא דניחא למנקט הפטור במלתא דנקטי בהדיא דהיינו אש דלא אתי מב\"ח ועוד אי הוה ההוא חד מינייהו אדם ליכא למפטר מידי אלא טמון כיון דמאש נמי אתי וק\"ל:",
+                      "ref": "Chidushei Halachot on Bava Kamma 5b:2",
+                      "sourceHeRef": "חדושי הלכות על בבא קמא ה׳ ב:ב",
+                      "sourceRef": "Chidushei Halachot on Bava Kamma 5b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אש לפטור בו את הטמון</strong> - הוה מצי למימר לחייב בו את הכלים דאש לא אתי מבעלי חיים אלא מחד מינייהו ובור דפטר בו את הכלים:",
+              "ref": "Tosafot on Bava Kamma 5b:9:1",
+              "sourceHeRef": "תוספות על בבא קמא ה׳ ב:ט:א",
+              "sourceRef": "Tosafot on Bava Kamma 5b:9:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Fire</b> is written explicitly in order <b>to exempt</b> one from liability for damage caused to <b>a concealed</b> object, e.g., one hidden by grain, that was consumed by fire. The Gemara asks: <b>And according to <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, who deems one liable</b> even <b>for damage</b> done to <b>a concealed</b> object damaged by <b>fire, to add what</b> <i>halakha</i> does the Torah mention the category of Fire explicitly?",
+      "he": "אֵשׁ – לִפְטוֹר בּוֹ אֶת הַטָּמוּן. וּלְרַבִּי יְהוּדָה דִּמְחַיֵּיב עַל נִזְקֵי טָמוּן בָּאֵשׁ, לְאֵתוֹיֵי מַאי?",
+      "ref": "Bava Kamma 5b:9"
+    }
+  ],
+  "title": "Bava Kamma 5b",
+  "titleHebrew": "בבא קמא ה,ב",
+  "topics": []
+}

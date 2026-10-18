@@ -1,0 +1,1835 @@
+{
+  "id": "23b",
+  "sections": [
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> אף אנן נמי תנינא המפלת כמין בהמה חיה ועוף דברי ר\"מ כו' כצ\"ל. ונ\"ב כן הוא בפ' יש בכור:",
+              "ref": "Chokhmat Shlomo on Niddah 23b:1",
+              "sourceHeRef": "חכמת שלמה על נדה כ״ג ב:א",
+              "sourceRef": "Chokhmat Shlomo on Niddah 23b:1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> <b>There are</b> some women who <b>bring</b> a sin <b>offering</b> of a woman after childbirth <b>and</b> the offering <b>is eaten</b> by the priests. <b>And there are</b> some women who <b>bring</b> a sin <b>offering but it is not eaten. And</b> there are <b>some</b> women who <b>do not bring</b> a sin offering at all.",
+                "The mishna elaborates: The following women <b>bring</b> a sin <b>offering and it is eaten</b> by the priests: <b>One who miscarries</b> a fetus with a form <b>similar to a domesticated animal,</b> one who miscarries a fetus with a form similar to <b>an undomesticated animal, or</b> one who miscarries a fetus with a form similar to <b>a bird;</b> this is <b>the statement of Rabbi Meir. And the Rabbis say:</b> She does not bring a sin offering <b>unless</b> the fetus <b>has the form of a person.</b>",
+                "With regard to a woman <b>who miscarries a sandal</b> fetus, i.e., one that has the form of a flat fish; <b>or</b> if she miscarries the <b>placenta; or an amniotic sac</b> in which <b>tissue developed; or</b> a fetus <b>that emerged cut,</b> i.e., in pieces; <b>and likewise</b> a Canaanite <b>maidservant,</b> owned by a Jew, <b>who miscarried;</b> in all these cases <b>she brings</b> a sin <b>offering and it is eaten</b> by the priests.",
+                "<b>And these</b> women <b>bring</b> sin offerings <b>but</b> their sin offerings <b>are not eaten: One who miscarries and does not know</b> the nature of <b>what she miscarried; and two women who miscarried,</b> in a case where <b>one</b> miscarried a fetus <b>of a type</b> for which a woman is <b>exempt</b> from bringing an offering <b>and</b> the other <b>one</b> miscarried a fetus <b>of a type</b> for which a woman is <b>liable</b> to bring an offering, and they do not know which miscarried which type. <b>Rabbi Yosei said: When</b> is their sin offering not eaten? It is <b>when</b> both women <b>went</b> to different places within the Temple to bring their offerings, e.g., <b>this</b> woman went <b>to the east and that</b> woman went <b>to the west. But if both of them were standing</b> together, <b>both of them</b> together <b>bring</b> one sin <b>offering, and it is eaten.</b>",
+                "<b>These</b> women <b>do not bring</b> a sin offering: A woman <b>who miscarries an amniotic sac full of water,</b> or one <b>full of blood,</b> or one <b>full of</b> different <b>colors;</b> and likewise a woman <b>who miscarries</b> a fetus with a form <b>similar to fish, or grasshoppers, or repugnant creatures, or creeping animals;</b> and a woman <b>who miscarries</b> on the <b>fortieth day</b> of her pregnancy; <b>and</b> a woman who gives birth by <b>caesarean section. Rabbi Shimon deems</b> a woman <b>liable</b> to bring a sin offering <b>in</b> the case where she gives birth by <b>caesarean section.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Keritot 7b:7",
+                "Keritot 7b:8",
+                "Keritot 7b:9",
+                "Keritot 7b:10",
+                "Keritot 7b:11"
+              ],
+              "he": [
+                "<strong><big>מַתְנִי׳</big></strong> יֵשׁ מְבִיאוֹת קׇרְבָּן וְנֶאֱכָל, וְיֵשׁ מְבִיאוֹת קׇרְבָּן וְאֵינוֹ נֶאֱכָל, וְיֵשׁ שֶׁאֵינָם מְבִיאוֹת.",
+                "מְבִיאוֹת קׇרְבָּן וְנֶאֱכָל: הַמַּפֶּלֶת כְּמִין בְּהֵמָה חַיָּה וָעוֹף, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: עַד שֶׁיְּהֵא בּוֹ מִצּוּרַת אָדָם.",
+                "הַמַּפֶּלֶת סַנְדָּל אוֹ שִׁילְיָא אוֹ שַׁפִּיר מְרוּקָּם, וְהַיּוֹצֵא מְחוּתָּךְ, וְכֵן שִׁפְחָה שֶׁהִפִּילָה, מְבִיאָה קׇרְבָּן וְנֶאֱכָל.",
+                "וְאֵלּוּ מְבִיאוֹת וְאֵינָן נֶאֱכָלוֹת: הַמַּפֶּלֶת וְאֵין יוֹדֵעַ מָה הִפִּילָה, וּשְׁתֵּי נָשִׁים שֶׁהִפִּילוּ, אַחַת מִמִּין פְּטוּר וְאַחַת מִמִּין חוֹבָה. אָמַר רַבִּי יוֹסֵי: אֵימָתַי? בִּזְמַן שֶׁהָלְכוּ זֶה לַמִּזְרָח וְזֶה לַמַּעֲרָב. אֲבָל אִם הָיוּ שְׁתֵּיהֶן עוֹמְדוֹת – שְׁתֵּיהֶן מְבִיאוֹת קׇרְבָּן, וְנֶאֱכָל.",
+                "אֵלּוּ שֶׁאֵין מְבִיאוֹת: הַמַּפֶּלֶת שַׁפִּיר מָלֵא מַיִם, מָלֵא דָּם, מָלֵא גְּנִינִים, הַמַּפֶּלֶת כְּמִין דָּגִים וַחֲגָבִים וּשְׁקָצִים וּרְמָשִׂים, הַמַּפֶּלֶת יוֹם אַרְבָּעִים, וְיוֹצֵא דּוֹפֶן. רַבִּי שִׁמְעוֹן מְחַיֵּיב בְּיוֹצֵא דּוֹפֶן."
+              ],
+              "link": "/Keritot/7b",
+              "originalRefsBeforeRewriting": [
+                "Keritot 7b:8",
+                "Keritot 7b:9"
+              ],
+              "ref": "Keritot 7b:7-11",
+              "sourceHeRef": "כריתות ז׳ ב",
+              "sourceRef": "Keritot 7b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "<b>There are</b> some women who <b>bring</b> a sin <b>offering</b> of a woman after childbirth <b>and</b> the offering <b>is eaten</b> by the priests. <b>And there are</b> some women who <b>bring</b> a sin <b>offering but it is not eaten. And</b> there are <b>some</b> women who <b>do not bring</b> a sin offering at all. The mishna elaborates: The following women <b>bring</b> a sin <b>offering and it is eaten</b> by the priests: <b>One who miscarries</b> a fetus with a form <b>similar to a domesticated animal,</b> one who miscarries a fetus with a form similar to <b>an undomesticated animal, or</b> one who miscarries a fetus with a form similar to <b>a bird;</b> this is <b>the statement of Rabbi Meir. And the Rabbis say:</b> She does not bring a sin offering <b>unless</b> the fetus <b>has the form of a person.</b> With regard to a woman <b>who miscarries a sandal</b> fetus, i.e., one that has the form of a flat fish; <b>or</b> if she miscarries the <b>placenta; or an amniotic sac</b> in which <b>tissue developed; or</b> a fetus <b>that emerged cut,</b> i.e., in pieces; <b>and likewise</b> a Canaanite <b>maidservant,</b> owned by a Jew, <b>who miscarried;</b> in all these cases <b>she brings</b> a sin <b>offering and it is eaten</b> by the priests.",
+              "he": "יֵשׁ מְבִיאוֹת קָרְבָּן וְנֶאֱכָל, וְיֵשׁ מְבִיאוֹת וְאֵינוֹ נֶאֱכָל, וְיֵשׁ שֶׁאֵינָן מְבִיאוֹת. אֵלּוּ מְבִיאוֹת קָרְבָּן וְנֶאֱכָל. הַמַּפֶּלֶת כְּמִין בְּהֵמָה חַיָּה וָעוֹף, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, עַד שֶׁיְּהֵא בוֹ מִצּוּרַת הָאָדָם. הַמַּפֶּלֶת סַנְדָּל, אוֹ שִׁלְיָא, וְשָׁפִיר מְרֻקָּם, וְהַיּוֹצֵא מְחֻתָּךְ. וְכֵן שִׁפְחָה שֶׁהִפִּילָה, מְבִיאָה קָרְבָּן וְנֶאֱכָל:",
+              "link": "/Mishnah Keritot/1",
+              "ref": "Mishnah Keritot 1:3",
+              "sourceHeRef": "משנה כריתות א:ג",
+              "sourceRef": "Mishnah Keritot 1:3"
+            },
+            {
+              "en": "<b>There is</b> a son who is <b>a firstborn with regard to inheritance but is not a firstborn with regard to</b> the requirement of redemption from <b>a priest.</b> There is another who is <b>a firstborn with regard to</b> redemption from <b>a priest but is not a firstborn with regard to inheritance.</b> There is another who is <b>a firstborn with regard to inheritance and with regard to</b> redemption from <b>a priest. And there is</b> another <b>who is not a firstborn</b> at all, <b>neither with regard to inheritance nor with regard to</b> redemption from <b>a priest.</b> <b>Which is</b> the son who is <b>a firstborn with regard to inheritance but is not a firstborn with regard to</b> redemption from <b>a priest?</b> It is a son <b>who came after miscarriage</b> of an underdeveloped fetus, <b>even where</b> the <b>head</b> of the underdeveloped fetus <b>emerged alive; or</b> after a fully developed <b>nine-</b>month<b>-old</b> fetus <b>whose head emerged dead.</b> The same applies to a son born to a woman <b>who</b> had previously <b>miscarried</b> a fetus that had the appearance of <b>a type of domesticated animal, undomesticated animal, or bird,</b> as that is considered the opening of the womb. This is <b>the statement of Rabbi Meir.</b> <b>And the Rabbis say:</b> The son is not exempted from the requirement of redemption from a priest <b>unless</b> his birth follows the birth of an animal <b>that takes the form of a person.</b> In the case of a woman <b>who miscarries</b> a fetus in the form of <b>a sandal fish or</b> from whom <b>an afterbirth or a gestational sac</b> in which <b>tissue developed</b> emerged, <b>or</b> who delivered a fetus <b>that emerged in pieces,</b> the son <b>who follows these is a firstborn with regard to inheritance but is not a firstborn with regard to</b> redemption from <b>a priest.</b> In the case of a son born to <b>one who did not have sons and he married a woman who had already given birth;</b> or if he married a woman who gave birth when <b>she was still</b> a Canaanite <b>maidservant and she was</b> then <b>emancipated;</b> or one who gave birth when <b>she was still a gentile and she</b> then <b>converted,</b> and <b>when</b> the maidservant or the gentile <b>came to</b> join <b>the Jewish people she gave birth</b> to a male, that son is <b>a firstborn with regard to inheritance but is not a firstborn with regard to</b> redemption from <b>a priest.</b> <b>Rabbi Yosei HaGelili says:</b> That son is <b>a firstborn with regard to inheritance and with regard to</b> redemption from <b>a priest, as it is stated:</b> “Whatever <b>opens the womb among</b> the children of <b>Israel”</b> (Exodus 13:2). This indicates that the halakhic status of a child born to the mother is not that of one who opens the womb <b>unless it opens the womb</b> of a woman <b>from the Jewish people.</b> In the case of <b>one who had sons and married a woman who had not given birth;</b> or if he married a woman who <b>converted while</b> she was <b>pregnant,</b> or a Canaanite maidservant who <b>was emancipated while</b> she was <b>pregnant</b> and she gave birth to a son, he is a firstborn with regard to redemption from a priest, as he opened his mother’s womb, but he is not a firstborn with regard to inheritance, because he is not the firstborn of his father or because halakhically he has no father. <b>And</b> likewise, if an Israelite woman <b>and</b> the daughter or wife of <b>a priest,</b> neither of whom had given birth yet, or an Israelite woman <b>and</b> the daughter or wife of <b>a Levite,</b> or an Israelite woman <b>and a woman who had already given birth,</b> all women whose sons do not require redemption from the priest, <b>gave birth</b> in the same place and it is uncertain which son was born to which mother; <b>and likewise</b> a woman <b>who did not wait three months after</b> the death of <b>her husband and she married and gave birth, and it is unknown whether</b> the child was born after a pregnancy of <b>nine months</b> and is the <b>son of the first</b> husband, or <b>whether</b> he was born after a pregnancy of <b>seven months</b> and is the <b>son of the latter</b> husband, in all these cases the child is <b>a firstborn with regard to</b> redemption from <b>a priest but is not a firstborn with regard to inheritance.</b> Due to the uncertainty, he is unable to prove he is the firstborn of either father, and therefore he is not entitled to the double portion of the firstborn. <b>Which is</b> the offspring <b>that is a firstborn</b> both <b>with regard to inheritance and with regard to</b> redemption from <b>a priest?</b> In the case of a woman <b>who miscarried a gestational sac full of water,</b> or one <b>full of blood,</b> or one <b>full of pieces of flesh;</b> or one <b>who miscarries</b> a mass <b>resembling a fish, or grasshoppers,</b> or <b>repugnant creatures, or creeping animals, or</b> one <b>who miscarries on the fortieth day</b> after conception, <b>the</b> son <b>who follows</b> any of <b>them is a firstborn with regard to inheritance and with regard to</b> redemption from <b>a priest.</b>",
+              "he": "יֵשׁ בְּכוֹר לַנַּחֲלָה וְאֵינוֹ בְכוֹר לַכֹּהֵן, בְּכוֹר לַכֹּהֵן וְאֵינוֹ בְכוֹר לַנַּחֲלָה, בְּכוֹר לַנַּחֲלָה וְלַכֹּהֵן, יֵשׁ שֶׁאֵינוֹ בְכוֹר לֹא לַנַּחֲלָה וְלֹא לַכֹּהֵן. אֵיזֶהוּ בְּכוֹר לַנַּחֲלָה וְאֵינוֹ בְכוֹר לַכֹּהֵן, הַבָּא אַחַר הַנְּפָלִים שֶׁיָּצָא רֹאשׁוֹ חַי, וּבֶן תִּשְׁעָה שֶׁיָּצָא רֹאשׁוֹ מֵת, וְהַמַּפֶּלֶת כְּמִין בְּהֵמָה חַיָּה וָעוֹף, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, עַד שֶׁיְּהֵא בוֹ מִצּוּרַת הָאָדָם. הַמַּפֶּלֶת סַנְדָּל, אוֹ שִׁלְיָא, וּשְׁפִיר מְרֻקָּם, וְהַיּוֹצֵא מְחֻתָּךְ, הַבָּא אַחֲרֵיהֶן, בְּכוֹר לַנַּחֲלָה וְאֵינוֹ בְכוֹר לַכֹּהֵן. מִי שֶׁלֹּא הָיוּ לוֹ בָנִים וְנָשָׂא אִשָּׁה שֶׁכְּבָר יָלְדָה, עוֹדָהּ שִׁפְחָה וְנִשְׁתַּחְרְרָה, עוֹדָהּ נָכְרִית וְנִתְגַּיְּרָה, מִשֶּׁבָּאת לְיִשְׁרָאֵל יָלְדָה, בְּכוֹר לַנַּחֲלָה וְאֵינוֹ בְכוֹר לַכֹּהֵן. רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר, בְּכוֹר לַנַּחֲלָה וְלַכֹּהֵן, שֶׁנֶּאֱמַר <span class=\"parenthesized\">(שמות יג)</span>, פֶּטֶר כָּל רֶחֶם בִּבְנֵי יִשְׂרָאֵל, עַד שֶׁיִּפְטְרוּ רֶחֶם מִיִּשְׂרָאֵל. מִי שֶׁהָיוּ לוֹ בָנִים וְנָשָׂא אִשָּׁה שֶׁלֹא יָלְדָה, נִתְגַּיְּרָה מְעֻבֶּרֶת, נִשְׁתַּחְרְרָה מְעֻבֶּרֶת, יָלְדָה הִיא וְכֹהֶנֶת, הִיא וּלְוִיָּה, הִיא וְאִשָּׁה שֶׁכְּבָר יָלְדָה, וְכֵן מִי שֶׁלֹּא שָׁהֲתָה אַחַר בַּעְלָהּ שְׁלשָׁה חֳדָשִׁים וְנִשֵּׂאת וְיָלְדָה, וְאֵין יָדוּעַ אִם בֶּן תִּשְׁעָה לָרִאשׁוֹן, אוֹ בֶן שִׁבְעָה לָאַחֲרוֹן, בְּכוֹר לַכֹּהֵן וְאֵינוֹ בְכוֹר לַנַּחֲלָה. אֵיזֶהוּ בְּכוֹר לַנַּחֲלָה וְלַכֹּהֵן, הַמַּפֶּלֶת שְׁפִיר מָלֵא דָם, מָלֵא מַיִם, מָלֵא גְנִינִים, הַמַּפֶּלֶת כְּמִין דָּגִים וַחֲגָבִים שְׁקָצִים וּרְמָשִׂים, הַמַּפֶּלֶת יוֹם אַרְבָּעִים, הַבָּא אַחֲרֵיהֶן, בְּכוֹר לַנַּחֲלָה וְלַכֹּהֵן:",
+              "link": "/Mishnah Bekhorot/8",
+              "ref": "Mishnah Bekhorot 8:1",
+              "sourceHeRef": "משנה בכורות ח:א",
+              "sourceRef": "Mishnah Bekhorot 8:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אף אנן נמי תנינא</strong> - דלא חיי:",
+              "ref": "Rashi on Niddah 23b:1:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:א:א",
+              "sourceRef": "Rashi on Niddah 23b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">המפלת מין בהמה וחיה ועוף דברי ר\"מ</strong> - רישא במסכת בכורות <span class=\"parenthesized\">(דף מו.)</span> והכי קתני יש בכור לנחלה ואין בכור לכהן וקא חשיב ואזיל המפלת מין בהמה וחיה ועוף הבא אחריו בכור לנחלה דהאי לאו בכור הוא לגבי נחלה דלא חיי:",
+              "ref": "Rashi on Niddah 23b:1:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:א:ב",
+              "sourceRef": "Rashi on Niddah 23b:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחכ\"א עד שיהיה בו מצורת אדם</strong> - אינו פוטר את הבא אחריו מבכורת כהן:",
+              "ref": "Rashi on Niddah 23b:1:3",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:א:ג",
+              "sourceRef": "Rashi on Niddah 23b:1:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אף אנן נמי תנינא</b> <span class=\"hebrew-emphasis\">[אנו גם כן שנינו]</span> שאין חתיכה בדמות בהמה חיה ועוף המצויה במעי האשה מתקיימת, שכן שנינו במשנה במסכת בכורות בכלל אלה שנחשבים כבכור לענין ירושה, ולא לענין פדיון אצל הכהן, גם את האשה <b>המפלת</b> חתיכה הנראית <b>כמין בהמה</b> או כמין <b>חיה ו</b>כן כמין <b>עוף (</b>שכן ולד מעליא <span class=\"hebrew-emphasis\">[מעולה,</span> גמור<span class=\"hebrew-emphasis\">]</span> <b>הוא</b> זה<b>),</b> והילד הנולד אחריו בכור לענין נחלה, אבל לא לענין פדיון בכור, אלו <b>דברי ר'</b> <b>מאיר.</b> <b>וחכמים אומרים</b> כי אין הראשון פוטר את הבא אחריו מפדיון <b>עד שיהא בו מצורת אדם.</b> שכל שאין לו צורת אדם, אינו נחשב לולד להחשיבו כ\"פטר רחם\" האמור במצות פדיון בכור (שמות יג, ב).",
+              "ref": "Steinsaltz on Niddah 23b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:א",
+              "sourceRef": "Steinsaltz on Niddah 23b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מדברי המשנה שבמסכת בכורות אנו למדים כי מחלוקת ר' מאיר וחכמים בדינה של חתיכה שצורתה כשל בהמה חיה ועוף, אינה רק לענין טומאת לידה, אלא מחלוקת כוללת היא, המתייחסת אף להלכות אחרות, וכגון לענין דין הנולד לאחר חתיכה שכזו לענין בכורה, ולענין היתר אכילתה (וכפי שיידון בסוגייתנו).<br><br>ואגב כך הצביעו אחרונים על סתירה העולה מפסקיו של הרמב\"ם. שכן מצד אחד פסק (הלכות איסורי ביאה פ\"י ה\"ח) שהאשה המפלת כדמות בהמה חיה ועוף אינה נטמאת בכך, והרי זה כדעת חכמים החולקים על ר' מאיר. ואילו לענין בכורה פסק (הלכות ביכורים פי\"א ה\"ד) שהאשה המפלת כדמות דגים וחגבים אין נפטר בכך הרחם, והנולד לאחר מכן הוא הבכור. ומתוך שהזכיר בדבריו דגים וחגבים, נראה שלדעתו אין כן הדין במפלת בהמה חיה ועוף, שבאלה אף הוא מודה שנפטר בכך הרחם. והרי הבחנה שכזו הריהי כדעת ר' מאיר (שו\"ת בית יצחק).",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:1",
+              "sourceHeRef": "דברי ר' מאיר וחכמים אומרים עד שיהא בו מצורת אדם",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "המפלת כמין בהמה חיה ועוף טמאה דברי ר\"מ וחכ\"א עד שיהא בו מצורת אדם. א\"ר חנינא בן גמליאל נראין דברי ר\"מ בבהמה מפני שגלגלי עינו של בהמה דומין לגלגלי עיניו של אדם וחכמים אומרים כעוף שאין בו מצורת אדם. מעשה באשה אחת בצידן שהפילה דמות עורב ג' פעמים ובא מעשה לפני חכמים ואמרו כל שאין בו מצורת אדם אינו ולד.",
+              "ref": "Tosefta Niddah 4:2",
+              "sourceHeRef": "תוספתא נדה ד:ב",
+              "sourceRef": "Tosefta Niddah 4:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "“Consecrate to Me every first-born; man and beast, the first issue of every womb among the Israelites is Mine.”",
+              "he": "קַדֶּשׁ־לִ֨י כׇל־בְּכ֜וֹר פֶּ֤טֶר כׇּל־רֶ֙חֶם֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל בָּאָדָ֖ם וּבַבְּהֵמָ֑ה לִ֖י הֽוּא׃",
+              "link": "/Exodus/13",
+              "ref": "Exodus 13:2",
+              "sourceHeRef": "שמות יג:ב",
+              "sourceRef": "Exodus 13:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>We, too, learn</b> in a mishna (<i>Bekhorot</i> 46a) that the fetus of a woman that has the form of an animal cannot survive: In the case of a woman <b>who</b> had previously <b>discharged a fetus</b> with the appearance <b>similar to</b> that <b>of a domesticated animal, an undomesticated animal, or bird</b> before giving birth to any children, and subsequently she gives birth to a son, the son is considered a firstborn with regard to the <i>halakhot</i> of inheritance, but he does not require redemption, as the fetus is considered a full-fledged offspring in that regard. This is <b>the statement of <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>. And the Rabbis say:</b> The son is not exempted from the requirement of redemption from a priest <b>unless</b> it follows the birth of a fetus <b>that takes the form of a person;</b> otherwise, it is not considered the offspring that “opens the womb” (Exodus 13:2), and the son requires redemption as a firstborn.",
+      "he": "אף אנן נמי תנינא המפלת כמין בהמה חיה ועוף (ולד מעליא הוא) דברי ר\"מ וחכ\"א עד שיהא בו מצורת אדם",
+      "ref": "Niddah 23b:1"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רש\"י</b> בד\"ה סנדל צורה כו' משל לאדם שסטר את חבירו והחזיר כו' כצ\"ל:",
+              "ref": "Chokhmat Shlomo on Niddah 23b:2",
+              "sourceHeRef": "חכמת שלמה על נדה כ״ג ב:ב",
+              "sourceRef": "Chokhmat Shlomo on Niddah 23b:2"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A son who is born after stillborn babies, even if the stillborn baby was alive when its head emerged from the womb, is considered the firstborn with regard to the laws of inheritance. Similarly, when a fetus was born after a full-term pregnancy, but was not alive when its head emerged, the son who follows is considered the firstborn with regard to the laws of inheritance.<br>The term \"the first of his strength,\" Deuteronomy 21:17, used with regard to the firstborn implies that no child before him emerged alive into the world. Hence, when a fetus was alive after its head emerged after a full-term pregnancy, a son born afterwards in not a firstborn even the first baby died immediately thereafter.",
+              "he": "הַבָּא אַחַר נְפָלִים אַף עַל פִּי שֶׁיָּצָא רֹאשׁ הַנֵּפֶל כְּשֶׁהוּא חַי הַבָּא אַחֲרָיו בְּכוֹר לְנַחֲלָה. וְכֵן בֶּן תִּשְׁעָה שֶׁיָּצָא רֹאשׁוֹ מֵת הַבָּא אַחֲרָיו בְּכוֹר לְנַחֲלָה שֶׁזֶּה שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(דברים כא יז)</span> \"רֵאשִׁית אֹנוֹ\" הוּא שֶׁלֹּא נוֹלַד לוֹ קֹדֶם לָזֶה וָלָד שֶׁיָּצָא חַי לַאֲוִיר הָעוֹלָם. לְפִיכָךְ בֶּן תִּשְׁעָה שֶׁהוֹצִיא רֹב רֹאשׁוֹ חַי הַבָּא אַחֲרָיו אֵינוֹ בְּכוֹר:",
+              "ref": "Mishneh Torah, Inheritances 2:10",
+              "sourceHeRef": "הלכות נחלות ב:י",
+              "sourceRef": "Inheritances 2:10"
+            },
+            {
+              "en": "When a fetus in a woman's womb was cut up and removed limb by limb, a son born afterwards is not considered to be \"the first issue of her womb.\" When the head of a fetus that was carried for eight months emerged alive and then was withdrawn back to the womb where it died - or the head of a stillborn fetus that was carried for nine moths emerged and then was withdrawn - and afterwards the [twin] brother [of the fetus] emerged as [a viable] birth, the viable birth is not considered the first issue of the womb, for [all subsequent births] became exempt with the [emergence of] the head of the first [fetus]. As soon as its forehead emerged, it exempted those born afterwards.",
+              "he": "חָתַךְ הָעֻבָּר בְּמֵעֶיהָ וְהוֹצִיאוֹ אֵיבָר אֵיבָר הַבָּא אַחֲרָיו אֵינוֹ פֶּטֶר רֶחֶם. בֶּן שְׁמוֹנָה חֳדָשִׁים שֶׁהוֹצִיא רֹאשׁוֹ וְהוּא חַי וְהֶחֱזִירוֹ וָמֵת. וְכֵן בֶּן תִּשְׁעָה שֶׁמֵּת וְיָצָא רֹאשׁוֹ וְהֶחֱזִירוֹ וְאַחַר כָּךְ יָצָא אָחִיו וְיָלְדָה. זֶה שֶׁיָּלְדָה אֵינוֹ פֶּטֶר רֶחֶם. שֶׁהֲרֵי נִפְטַר בְּרֹאשׁוֹ שֶׁל רִאשׁוֹן. וּמִשֶּׁתֵּצֵא פַּדַּחְתּוֹ פּוֹטֵר הַבָּא אַחֲרָיו:",
+              "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:15",
+              "sourceHeRef": "הלכות ביכורים ושאר מתנות כהונה שבגבולין יא:טו",
+              "sourceRef": "First Fruits and other Gifts to Priests Outside the Sanctuary 11:15"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין בכור לכהן</strong> - שהרי זה פטר את הרחם:",
+              "ref": "Rashi on Niddah 23b:2:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ב:א",
+              "sourceRef": "Rashi on Niddah 23b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סנדל</strong> - צורה פחותה שאין צורת פניו ניכרת שאין סנדל בלא ולד אחר ומתוך דוחק חבירו הוא נמעך כדמפרש בפירקין <span class=\"parenthesized\">(לקמן נדה דף כה:)</span> משל לאדם שסטר את חבירו והחזיר צורתו לאחוריו. ואם יוצא סנדל ראשון פוטר את אחיו מפדיון כהן:",
+              "ref": "Rashi on Niddah 23b:2:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ב:ב",
+              "sourceRef": "Rashi on Niddah 23b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או שליא</strong> - דאין שליא בלא ולד ופוטר את הבא אחריו לאחר זמן:",
+              "ref": "Rashi on Niddah 23b:2:3",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ב:ג",
+              "sourceRef": "Rashi on Niddah 23b:2:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שפיר</strong> - עור דפוס הולד:",
+              "ref": "Rashi on Niddah 23b:2:4",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ב:ד",
+              "sourceRef": "Rashi on Niddah 23b:2:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מרוקם</strong> - שכבר אבריו ניכרין קצת ולקמן בפירקין <span class=\"parenthesized\">(שם.)</span> מפרש לה:",
+              "ref": "Rashi on Niddah 23b:2:5",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ב:ה",
+              "sourceRef": "Rashi on Niddah 23b:2:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הבא אחריו</strong> - אחר כל אלה:",
+              "ref": "Rashi on Niddah 23b:2:6",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ב:ו",
+              "sourceRef": "Rashi on Niddah 23b:2:6"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בכור לנחלה</strong> - דהני לאו בני נחלה נינהו דלא חיי:",
+              "ref": "Rashi on Niddah 23b:2:7",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ב:ז",
+              "sourceRef": "Rashi on Niddah 23b:2:7"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואם איתא.</b> פי׳ דהוא עצמו מתקיים כאן הבא אחריו בכור לנחלה נמי לא להוי.",
+              "ref": "Ritva on Niddah 23b:1",
+              "sourceHeRef": "ריטב\"א על נדה כ״ג ב:א",
+              "sourceRef": "Ritva on Niddah 23b:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a firstborn is born after his father's death, he does not receive a double portion. This is derived from <i>ibid.:</i> 16-17: \"On the day when he transfers his inheritance to his sons... he shall recognize the firstborn, the son of the hated one.\" If his forehead emerged during the lifetime of his father, even though his entire head did not emerge until after his father's death, he receives a double portion.",
+                      "he": "בְּכוֹר שֶׁנּוֹלַד אַחַר מִיתַת אָבִיו אֵינוֹ נוֹטֵל פִּי שְׁנַיִם. שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(דברים כא טז)</span> \"וְהָיָה בְּיוֹם הַנְחִילוֹ אֶת בָּנָיו\" וְגוֹ' <span class=\"hebrew-emphasis\">(דברים כא יז)</span> \"כִּי אֶת הַבְּכֹר בֶּן הַשְּׂנוּאָה יַכִּיר\". וְאִם יָצָאת פַּדַּחְתּוֹ בְּחַיֵּי אָבִיו אַף עַל פִּי שֶׁלֹּא יָצָא כָּל רֹאשׁוֹ לַאֲוִיר הָעוֹלָם אֶלָּא לְאַחַר מִיתַת אָבִיו הֲרֵי זֶה נוֹטֵל פִּי שְׁנַיִם:",
+                      "ref": "Mishneh Torah, Inheritances 2:2",
+                      "sourceHeRef": "הלכות נחלות ב:ב",
+                      "sourceRef": "Inheritances 2:2"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Instead, he must accept the first-born, the son of the unloved one, and allot to him a double portion of all he possesses; since he is the first fruit of his vigor, the birthright is his due.",
+                      "he": "כִּי֩ אֶת־הַבְּכֹ֨ר בֶּן־הַשְּׂנוּאָ֜ה יַכִּ֗יר לָ֤תֶת לוֹ֙ פִּ֣י שְׁנַ֔יִם בְּכֹ֥ל אֲשֶׁר־יִמָּצֵ֖א ל֑וֹ כִּי־הוּא֙ רֵאשִׁ֣ית אֹנ֔וֹ ל֖וֹ מִשְׁפַּ֥ט הַבְּכֹרָֽה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                      "link": "/Deuteronomy/21",
+                      "ref": "Deuteronomy 21:17",
+                      "sourceHeRef": "דברים כא:יז",
+                      "sourceRef": "Deuteronomy 21:17"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "הבא אחר נפלים אע\"פ שיצא ראש הנפל כשהוא חי הבא אחריו בכור לנחלה וכן בן ט' שיצא ראשו מת הבא אחריו בכור לנחלה שזה שנא' ראשית אונו הוא שלא נולד לו קודם לזה (ילד) שיצא חי לאויר העולם לפיכך בן ט' שהוציא רוב ראשו חי הבא אחריו אינו בכור:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 277:6",
+              "sourceHeRef": "חושן משפט ערז:ו - הבכור נוטל פי שנים ואיזה הוא בכור לנחלה וספק בכור",
+              "sourceRef": "Choshen Mishpat 277:6"
+            },
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a gentile woman or a maidservant gave birth and then converted or was freed and then gave birth again, [the second child] is exempt, as [indicated by] the phrase \"the first issue of the womb,\" and this is not [the woman's] first issue of the womb.<br>Similar concepts apply when a son is born after a <i>nefal</i>. Whenever the mother is ritually impure due to birth because of a <i>nefal</i>, a son born afterwards is not considered the first issue of the womb. Whenever a <i>nefal</i> does not cause the mother to be ritually impure due to birth, e.g., a woman who miscarries and the issue resembles a fish or a grasshopper, a woman who miscarries on the fortieth day [after conception], or the like, a son born afterwards is [under obligation] to the priesthood and must be redeemed.",
+                      "he": "הַכּוּתִית וְהַשִּׁפְחָה שֶׁיָּלְדוּ וְאַחַר כָּךְ נִתְגַּיְּרוּ וְנִשְׁתַּחְרְרוּ וְיָלְדוּ וָלָד אַחֵר הֲרֵי זֶה פָּטוּר שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר ג יב)</span> <span class=\"hebrew-emphasis\">(במדבר יח טו)</span> \"פֶּטֶר רֶחֶם\" וְאֵין זֶה פֶּטֶר רֶחֶם. וְכֵן הַבָּא אַחַר הַנְּפָלִים כָּל נֵפֶל שֶׁאִמּוֹ טְמֵאָה לֵדָה הַבָּא אַחֲרָיו אֵינוֹ פֶּטֶר רֶחֶם. וְכָל נֵפֶל שֶׁאֵין אִמּוֹ טְמֵאָה לֵדָה כְּמוֹ הַמַּפֶּלֶת כְּמִין דָּגִים וַחֲגָבִים אוֹ הַמַּפֶּלֶת יוֹם אַרְבָּעִים וְכַיּוֹצֵא בָּהֶן הַבָּא אַחֲרָיו בְּכוֹר לַכֹּהֵן וְחַיָּב לִפְדּוֹת:",
+                      "ref": "Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 11:14",
+                      "sourceHeRef": "הלכות ביכורים ושאר מתנות כהונה שבגבולין יא:יד",
+                      "sourceRef": "First Fruits and other Gifts to Priests Outside the Sanctuary 11:14"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "בן ח' חדשים שהוציא ראשו והוא חי והחזירו ומת או בן ט' שהוציא ראשו אפילו אחר שמת והוחזר ואח\"כ יצא אחיו וילדה ולד קיימא אינו פטר רחם שהרי נפטר בראשו של ראשון ומשתצא פדחתו פוטר הבא אחריו וכן המפלת כמין בהמה חיה ועוף שחצי פרצוף פניהם דומה לצורת אדם או סנדל או שליא או שפיר מרוקם <span class=\"hebrew-emphasis\">(פי' חתיכה של בשר כצורת סנדל. ופי' שליא הכיס שהעובר מונח בתוכו. ופי' שפיר מרוקם חתיכה של בשר ויש בה צורת אדם. ערוך) </span>או שיצא הולד מחותך איברים איברים הנולד אחר כל אחד מאלו אינו פטר רחם: <span class=\"hebrew-emphasis\">(לשון טור)</span>:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 305:22",
+              "sourceHeRef": "יורה דעה שה:כב - מי חייב בפדיון בכור ומתי ראוי לפדיון וכל דיניו.",
+              "sourceRef": "Yoreh De'ah 305:22"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ו</b>הכל מודים כי האשה <b>המפלת</b> חתיכה כמין <b>סנדל</b> (ולד חסר צורה), <b>או שליא</b> (מעין כיס שהעובר מצוי בתוכו ברחם אמו), בלא ולד, <b>או שפיר</b> (עובר) <b>מרוקם,</b> שניכרת בו צורת ולד, <b>ו</b>כן אם הפילה ולד <b>היוצא מחותך,</b> שחתכוהו בעודו ברחם אמו מפני שסיכן את חייה, או מפני שלא הצליחו לילד את אמו — <b>הבא</b> (הנולד) <b>אחריו</b> הריהו נחשב <b>בכור ל</b>ענין <b>נחלה</b> (ירושה), שכן הקודם לו אינו נחשב כבכור לאב, לרשת נחלה. <b>ו</b>אולם <b>אינו</b> נחשב <b>בכור ל</b>ענין פדיונו בידי <b>כהן,</b> מפני שאינו בכלל \"פטר רחם\". <b>ו</b>מעתה <b>אי סלקא דעתך דחיי</b> <span class=\"hebrew-emphasis\">[אם עולה על דעתך</span> לומר <span class=\"hebrew-emphasis\">שיכול לחיות]</span> הדבר שצורתו כמין בהמה חיה ועוף, <b>הבא אחריו בכור לנחלה מי הוי</b> <span class=\"hebrew-emphasis\">[האם</span> אמנם <span class=\"hebrew-emphasis\">הינו</span> בכור לכך<span class=\"hebrew-emphasis\">]? אמר רבא</span>",
+              "ref": "Steinsaltz on Niddah 23b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:ב",
+              "sourceRef": "Steinsaltz on Niddah 23b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This fish is referred to today as the sole, a group of flatfish. The name is derived from the Latin <latin>solea</latin>, referring to both the fish and the sole of a shoe. The common sole, <i>Solea solea</i>, possesses an interesting feature: Both of its eyes are on the right side of its body.",
+              "he": "ואף אם יצא הראשון כולד גמור בן תשעה חדשים, ואפילו הוציא ראשו חי — כל שלא יצא כל גופו חי, אינו נחשב כבכור לענין הנחלה. והסבירו המפרשים כי אף שהלכה היא שברגע שהוציא הולד את ראשו לחוץ, הריהו נקרא נולד — אין זה אמור אלא אם לאחר מכן התקיים כחי, ואולם כאן מדובר שהתברר שהיה זה נפל (רש\"י). שכן מקור הדין בדרשת הכתוב \"ראשית אונו\" — מי שאביו אונן עליו ולבו אבל עליו, ואילו זה, אף שהוציא ראשו חי, אינו בכלל זה.",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:2",
+              "sourceHeRef": "סַנְדָּל",
+              "sourceRef": "Sandal fish"
+            },
+            {
+              "en": "The Torah states two <i>halakhot </i>with regard to a firstborn: He must be redeemed through payment of five <i>sela </i>to a priest, and he receives a portion double that of his brothers in his father’s inheritance. The definition of a firstborn differs with regard to these two matters. A firstborn must be redeemed if he opened the womb of his mother, i.e., he is her firstborn. Such a firstborn requires redemption even if he is not the firstborn of his father, i.e., a man who has multiple wives must redeem the firstborn of each. Conversely, with regard to the <i>halakhot </i>of inheritance, it is the father’s firstborn son who receives a double share, even if he is not his mother’s firstborn, as it is stated in the verse: “For he is the first fruits of his strength, the right of the firstborn is his” (Deuteronomy 21:17).",
+              "he": "דיני בכור אדם נאמרו בתורה בשני נושאים: חובת פדיונו מכהן, ונטילת חלק כפול מזה של כל אחד מאחיו הבאים אחריו בירושת אביו. וחלוקים הם גדרי בכור לענין פדיון מגדרי בכור לענין נחלה. שהבכור החייב בפדיון הוא זה שהוא \"פטר רחם\" — זה שפטר (פתח תחילה) את רחם אמו. ומכיון שכך, אפילו היו לאביו כמה נשים — הבכור מכל אחת ואחת מהן חייב בפדיון. לעומת זאת, בכור לנחלה הוא זה שנולד ראשון לאביו, שכן נאמר \"כי הוא ראשית אונו לו משפט הבכורה\" (דברים כא, יז). ומכיון שכך, אפילו היו לאמו בנים מבעל קודם, כיון שהוא הבכור לאביו הוא הבכור לנחלה.",
+              "ref": "Steinsaltz comment #2 on Niddah 23b:2",
+              "sourceHeRef": "בְּכוֹר לְנַחֲלָה וְאֵינוֹ בְּכוֹר לְכֹהֵן",
+              "sourceRef": "Is a firstborn with regard to inheritance but is not a firstborn with regard to a priest"
+            },
+            {
+              "en": "If a woman discharged a gestational sac in which tissue developed and which contains even a tiny, barely recognizable form of a human embryo, the woman observes the strictures of a woman who gave birth both to a male and to a female (Rambam <i>Sefer Kedusha</i>, <i>Hilkhot Issurei</i> <i>Bia</i> 10:2).",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Niddah 23b:2",
+              "sourceHeRef": "מְרוּקָּם",
+              "sourceRef": "In which tissue developed"
+            },
+            {
+              "en": "If a woman discharged a fetus in the form of a sandal fish, she observes the strictures of a woman who gave birth both to a male and to a female (Rambam <i>Sefer Kedusha</i>, <i>Hilkhot Issurei</i> <i>Bia</i> 10:12).",
+              "he": "",
+              "ref": "Steinsaltz comment #4 on Niddah 23b:2",
+              "sourceHeRef": "הַמַּפֶּלֶת סַנְדָּל",
+              "sourceRef": "A woman who discharges a sandal fetus"
+            },
+            {
+              "en": "If a woman discharged an afterbirth, she observes the strictures of a woman who gave birth both to a male and to a female. The reason is not that an afterbirth has the halakhic status of an offspring, but that there is no afterbirth without an offspring (Rambam <i>Sefer Kedusha</i>, <i>Hilkhot Issurei</i> <i>Bia</i> 10:14; <i>Shulĥan Arukh</i>,<i> Yoreh De’a</i> 194:3).",
+              "he": "",
+              "ref": "Steinsaltz comment #5 on Niddah 23b:2",
+              "sourceHeRef": "הַמַּפֶּלֶת…שִׁלְיָא",
+              "sourceRef": "A woman who discharges…afterbirth"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Take as their redemption price, from the age of one month up, the money equivalent of five shekels by the sanctuary weight, which is twenty <i>gerah</i>s.",
+              "he": "וּפְדוּיָו֙ מִבֶּן־חֹ֣דֶשׁ תִּפְדֶּ֔ה בְּעֶ֨רְכְּךָ֔ כֶּ֛סֶף חֲמֵ֥שֶׁת שְׁקָלִ֖ים בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֥ים גֵּרָ֖ה הֽוּא׃",
+              "link": "/Numbers/18",
+              "ref": "Numbers 18:16",
+              "sourceHeRef": "במדבר יח:טז",
+              "sourceRef": "Numbers 18:16"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> in the case of a woman <b>who discharges</b> a fetus in the form of <b>a sandal fish, or</b> from whom <b>an afterbirth or a gestational sac</b> in which <b>tissue developed</b> emerged, <b>or</b> who delivered a fetus <b>that emerged in pieces,</b> the son <b>that follows them is</b> considered <b>a firstborn with regard to inheritance but is not a firstborn with regard to</b> redemption from <b>a priest.</b> The Gemara explains the proof: <b>And if it enters your mind that</b> a fetus that has the form of an animal <b>can survive, is the</b> son <b>that follows it a firstborn with regard to inheritance?</b>",
+      "he": "והמפלת סנדל או שליא או שפיר מרוקם והיוצא מחותך הבא אחריו בכור לנחלה ואינו בכור לכהן ואי ס\"ד דחיי הבא אחריו בכור לנחלה מי הוי",
+      "ref": "Niddah 23b:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דוי</strong>, <strong dir=\"rtl\">דָּוָה</strong> (Biblical Hebrew; compare <span class=\"refLink\" data-ref=\"Jastrow, דָּאַב 1\" dir=\"rtl\" href=\"/Jastrow,_דָּאַב.1\">דָּאַב</span>) [<i>to drip, melt away</i>,] <i>to mourn, repine</i>. <span class=\"refLink\" data-ref=\"Niddah 23b:8\" href=\"/Niddah.23b.8\">Niddah 23ᵇ</span> (reference. to <span class=\"refLink\" data-ref=\"Deuteronomy 21:17\" href=\"/Deuteronomy.21.17\">Devarim XXI, 17</span> <span class=\"refLink\" data-ref=\"Jastrow, אָנוּ 1\" dir=\"rtl\" href=\"/Jastrow,_אָנוּ.1\">אֹנוֹ</span>, compare <span class=\"refLink\" data-ref=\"Jastrow, דְּוַי 1\" dir=\"rtl\" href=\"/Jastrow,_דְּוַי.1\">דְּוַי</span>) <span dir=\"rtl\">מי שלבו דָוֶה עליו</span> a child over whose death his (the father’s) heart is grieved. <span class=\"refLink\" data-ref=\"Berakhot 16b:21\" href=\"/Berakhot.16b.21\">Berakhot 16ᵇ</span> <span dir=\"rtl\">אל יִדְיֶה לבנו</span> may our heart not sink. <span class=\"refLink\" data-ref=\"Kiddushin 81b:7\" href=\"/Kiddushin.81b.7\">Kiddushin 81ᵇ</span> <span dir=\"rtl\">יִדְווּ כל הדָּוִוים</span> let all those mourn who feel the affliction; <span class=\"refLink\" data-ref=\"Nazir 23a\" href=\"/Nazir.23a\">Nazir 23ᵃ</span>. <span class=\"refLink\" data-ref=\"Yevamot 47a\" href=\"/Yevamot.47a\">Yevamot 47ᵃ</span> the Israelites … are <span dir=\"rtl\">דווים</span> (some ed. <span dir=\"rtl\">דְּווּיִים</span>, Part. pass.) broken down (under persecution). <span class=\"refLink\" data-ref=\"Bereishit Rabbah 60\" href=\"/Bereishit_Rabbah.60\">Breishit Rabbah section (Parashah) 60</span>; section (Parashah) 74; and from<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִדְוֶוה</strong> <i>to be afflicted</i>. Pesikta d'Rav Kahana Asser, p. 96ᵃ <span dir=\"rtl\">על אותו האיש שנ׳</span> over this man (me) in his affliction; Midrash Tanḥuma R’eeh ed. Bub. 7 (Midrash Tanḥuma ib. 10 <span dir=\"rtl\">שנידוהו</span>, <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 892\" href=\"/Yalkut_Shimoni_on_Torah.892\">Yalkut Devarim 892</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 962:5\" href=\"/Yalkut_Shimoni_on_Nach.962.5\">Yalkut Mishlei 962</span> <span dir=\"rtl\">שנדוהו</span>, correct accordingly).<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִדְוֶה</strong> <i>to afflict</i>. Yerushalmi Rosh Hashanah I, 57ᵇ bottom of page <span dir=\"rtl\">מַדְוֶה לה וכ׳</span> afflicts it (the year, causes prayers and fasting from fear of failure of the crop) in its beginning."
+              ],
+              "he": [],
+              "ref": "Jastrow, דוי 1",
+              "sourceHeRef": "מילון יסטרוב, דוי א׳",
+              "sourceRef": "Jastrow, דוי 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">עַל</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, עָלָה 1\" dir=\"rtl\" href=\"/Jastrow,_עָלָה.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, עָלָה 1\" dir=\"rtl\" href=\"/Jastrow,_עָלָה.1\">עָלָה</span>) <i>height</i>; (prepos.) <i>upon, above; about</i> &c.—With suff. (plural) <span dir=\"rtl\">עָלַי</span>, <span dir=\"rtl\">עָלֶיךָ</span> &c. <span class=\"refLink\" data-ref=\"Pirkei Avot 1:2\" href=\"/Pirkei_Avot.1.2\">Pirkei Avot I, 2</span> <span dir=\"rtl\">על שלשה וכ׳</span> the world stands on three things. <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:6\" href=\"/Mishnah_Shabbat.2.6\">Shabbat II, 6</span> <span dir=\"rtl\">על שלש וכ׳</span> for three sins &c. <span class=\"refLink\" data-ref=\"Sanhedrin 20a:6\" href=\"/Sanhedrin.20a.6\">Sanhedrin 20ᵃ</span>, and from <span dir=\"rtl\">אמרו עָלָיו על וכ׳</span> they relate about &c. <span class=\"refLink\" data-ref=\"Niddah 23b:8\" href=\"/Niddah.23b.8\">Niddah 23ᵇ</span> <span dir=\"rtl\">מי שלבו דוה עליו</span> whose heart within him &c., see <span class=\"refLink\" data-ref=\"Jastrow, דָּוָה 1\" dir=\"rtl\" href=\"/Jastrow,_דָּוָה.1\">דָּוָה</span>; and see from—<span dir=\"rtl\">על יד</span>, <span dir=\"rtl\">על ידי</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יָד 1\" dir=\"rtl\" href=\"/Jastrow,_יָד.1\">יָד</span>; <span dir=\"rtl\">על מנת</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מְנָת 1\" dir=\"rtl\" href=\"/Jastrow,_מְנָת.1\">מְנָת</span>, &c.—<span class=\"refLink\" data-ref=\"Avodah Zarah 30a:4\" href=\"/Avodah_Zarah.30a.4\">Pirkei Avot Zar. 30ᵃ</span>, and e. <span dir=\"rtl\">עָלי ועל צוארי</span>, see <span class=\"refLink\" data-ref=\"Jastrow, צַוָּאר 1\" dir=\"rtl\" href=\"/Jastrow,_צַוָּאר.1\">צַוָּאר</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, עַל 1",
+              "sourceHeRef": "מילון יסטרוב, עַל א׳",
+              "sourceRef": "Jastrow, עַל 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna teaches: <b>And a man</b> with regard to <b>his mother</b> inherits from her relatives but does not bequeath to her. The Gemara asks: <b>From where are these matters</b> derived? The Gemara answers: <b>As the Sages taught:</b>"
+                ],
+                [
+                  "The verse states: <b>“And every daughter who possesses an inheritance from the tribes of the children of Israel”</b> (Numbers 36:8). Noting the plural in the phrase “from the tribes of the children of Israel,” the <i>baraita</i> asks: <b>How</b> can <b>a daughter inherit</b> land from <b>two tribes? Rather, this</b> is referring to a daughter <b>whose father</b> is <b>from one tribe but her mother</b> is <b>from another tribe, and they</b> both <b>died, and she inherited</b> from both of <b>them.</b> Therefore, it can be seen in this verse that a daughter inherits from her mother.",
+                  "The <i>baraita</i> continues: <b>I have</b> derived <b>only</b> that <b>a daughter</b> inherits from her mother; <b>from where</b> do I derive that <b>a son</b> inherits from his mother as well? <b>You</b> can <b>say an <i>a fortiori</i></b> inference: <b>And just as a daughter, whose power is diminished with regard to</b> her <b>father’s property</b> in that she does not inherit it when there is a son, yet her power <b>is enhanced with regard to</b> her <b>mother’s property</b> in that she inherits it; with regard to <b>a son, whose power is enhanced with regard to</b> his <b>father’s property</b> in that he is first in the order of inheritance, <b>is it not logical that his power is enhanced with regard to</b> his <b>mother’s property?</b> The <i>baraita</i> continues: <b>And from the place that you came,</b> i.e., from the inference that was just stated, one can say the following: <b>Just as there,</b> with regard to a father’s property, <b>a son precedes a daughter, so too here,</b> with regard to a mother’s property, <b>a son precedes a daughter.</b> This is the opinion of the first <i>tanna</i>.",
+                  "The <i>baraita</i> continues: <b>Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Elazar, son of Rabbi Yosei, said in the name of Rabbi Zekharya ben Hakatzav: Both the son and the daughter are equal with regard to the mother’s property. What is the reason</b> for his ruling? <b>It is sufficient for the</b> conclusion that <b>emerges from</b> an <i>a fortiori</i> <b>inference to be like</b> its <b>source.</b> According to this principle, a <i>halakha</i> derived by means of an <i>a fortiori</i> inference cannot go beyond the <i>halakhot</i> of the source from which it is derived. Since the <i>halakha</i> that a son inherits from his mother was derived via an <i>a fortiori</i> inference from the <i>halakha</i> that a daughter inherits from her mother, it cannot be that this inference should lead to the conclusion that a son precedes a daughter in inheriting from their mother.",
+                  "The Gemara asks: <b>And doesn’t the first <i>tanna</i></b> also <b>interpret</b> verses employing the principle of: <b>It is sufficient</b> for the conclusion that emerges from an <i>a fortiori</i> inference to be like its source? <b>But</b> the principle of: <b>It is sufficient,</b> which limits the extent of <i>a fortiori</i> inference, <b>is</b> found <b>in the Torah,</b> so how could he disagree with it?",
+                  "<b>As it is taught</b> in a <i>baraita</i> that explains the hermeneutical principles: <b>How</b> does <b>an <i>a fortiori</i> inference</b> work? The verse states with regard to Miriam, after she spoke ill of her brother Moses: <b>“And the Lord said to Moses: If her father had but spit in her face, should she not hide in shame seven days?”</b> (Numbers 12:14). The verse is saying that if a father spits in the face of his daughter and reprimands her, she would feel shame for seven days. By <b>an <i>a fortiori</i></b> inference it is derived that Miriam, who suffered the more severe reprimand <b>of the Divine Presence,</b> should be ostracized for <b>fourteen</b> days. Why then, was Miriam ostracized for only seven days?",
+                  "<b>Rather, it is sufficient for the</b> conclusion that <b>emerges from</b> an <i>a fortiori</i> <b>inference to be like</b> its <b>source,</b> so her punishment cannot be for longer than the punishment of one who is reprimanded by a father. In any event, the principle the begins with: It is sufficient, can be seen in this verse, so how does the first <i>tanna</i> rule that a son precedes a daughter with regard to a mother’s property?",
+                  "The Gemara answers: <b>Generally,</b> the first <i>tanna</i> also <b>interprets</b> verses employing the principle that begins with: <b>It is sufficient, but it is different here</b> with regard to inheritance, <b>as the verse states:</b> “And every daughter who possesses an inheritance <b>from the tribes</b> of the children of Israel” (Numbers 36:8). The verse <b>juxtaposes</b> the <b>tribe of the mother to</b> the <b>tribe of the father.</b> Therefore, the first <i>tanna</i> holds that <b>just as</b> with regard to the <b>tribe of the father,</b> i.e., inheriting from one’s father, <b>a son precedes a daughter, so too,</b> with regard to the <b>tribe of the mother,</b> i.e., inheriting from one’s mother, <b>a son precedes a daughter.</b>",
+                  "The Gemara relates: <b>Rav Nittai thought to perform an action,</b> i.e., issue a ruling, <b>in accordance with</b> the opinion of <b>Rabbi Zekharya ben HaKatzav,</b> who taught that a son and daughter are equal with regard to inheriting from their mother. <b>Shmuel said to him: In accordance with whose</b> opinion do you wish to issue this ruling, <b>in accordance with</b> the opinion of <b>Zekharya? Zekharya is nil [<i>afes</i>],</b> i.e., his statement was not accepted as <i>halakha</i>. <b>Rabbi Tavla performed an action,</b> i.e., issued a ruling, <b>in accordance with</b> the opinion of <b>Rabbi Zekharya ben HaKatzav. Rav Naḥman said to him: What is this?</b> Rabbi Tavla <b>said to him: As Rav Ḥinnana bar Shelamya says in the name of Rav:</b> The <b><i>halakha</i></b> is <b>in accordance with</b> the opinion of <b>Rabbi Zekharya ben HaKatzav.</b> Rav Naḥman <b>said to him: Go retract your</b> ruling, <b>and if</b> you do <b>not, I will take Rav Ḥinnana bar Shelamya out of your ear,</b> i.e., I will punish you severely for ruling against the accepted <i>halakha</i>.",
+                  "The Gemara relates further: <b>Rav Huna bar Ḥiyya thought to perform an action,</b> i.e., issue a ruling, <b>in accordance with</b> the opinion of <b>Rabbi Zekharya ben HaKatzav. Rav Naḥman said to him: What is this?</b> Rav Huna bar Ḥiyya <b>said to him: As Rav Huna says</b> that <b>Rav says:</b> The <b><i>halakha</i></b> is <b>in accordance with</b> the opinion of <b>Rabbi Zekharya ben HaKatzav.</b> Rav Naḥman <b>said to him: Shall I send</b> a messenger <b>to</b> Rav Huna to ask him if that is indeed what he said? Rav Huna bar Ḥiyya <b>was embarrassed,</b> as he was not certain that Rav Huna actually said this ruling. Rav Naḥman <b>said to him: Now, if Rav Huna were</b> to have <b>died, you would have been brazen</b> enough to say <b>before me</b> that this is what he said, but since he is still alive, you cannot be so brazen.",
+                  "The Gemara asks: <b>And he,</b> Rav Naḥman, <b>in accordance with whose</b> opinion <b>does he hold?</b> As there were various sages who ruled in accordance with the opinion of Rabbi Zekharya ben HaKatzav, why did Rav Naḥman not agree? The Gemara answers: He holds <b>in accordance with this</b> statement <b>of Rav and Shmuel, who both say:</b> The <b><i>halakha</i></b> is <b>not in accordance with</b> the opinion of <b>Rabbi Zekharya ben HaKatzav.</b>",
+                  "The Gemara relates: <b>Rabbi Yannai,</b> who had already grown old and whose eyes were dim, <b>would walk leaning on the shoulder of Rabbi Simlai, his attendant, and Rabbi Yehuda Nesia came toward them.</b> Rabbi Simlai <b>said to</b> Rabbi Yannai: The <b>person who is coming toward us is handsome and his cloak</b> is <b>handsome. When</b> Rabbi Yehuda Nesia <b>reached him,</b> Rabbi Yannai <b>felt</b> his cloak and <b>said to</b> Rabbi Simlai: Concerning <b>this</b> cloak, <b>its measurement</b> with regard to the <i>halakhot</i> of ritual impurity <b>is like the</b> measurement of <b>sackcloth,</b> meaning it was a cloak of inferior quality, as it was thick and rough.",
+                  "When Rabbi Yehuda Nesia met Rabbi Yannai he <b>asked him: From where</b> is it derived <b>that a son precedes a daughter with regard to the mother’s property?</b> Rabbi Yannai <b>said to him: As it is written:</b> “And every daughter who possesses an inheritance from <b>the tribes</b> of the children of Israel” (Numbers 36:8). The verse <b>juxtaposes</b> the <b>tribe of the mother to</b> the <b>tribe of the father.</b> This teaches that <b>just as</b> with regard to the <b>tribe of the father a son precedes a daughter, so too,</b> with regard to the <b>tribe of the mother, a son precedes a daughter.</b> Rabbi Yehuda Nesia <b>said to him: If</b> so, if these two <i>halakhot</i> are in fact juxtaposed, the following should also be derived: <b>Just as</b> with regard to the inheritance of <b>the father’s tribe a firstborn takes a double</b> portion, <b>so too,</b> with regard to inheritance from <b>the mother’s tribe,</b> when he inherits from his mother <b>a firstborn takes a double</b> portion."
+                ],
+                [
+                  "<b>He said to his attendant: Take</b> me away from here, as <b>this</b> man, Rabbi Yehuda Nesia, <b>does not desire to learn</b> but is instead raising difficulties that are easily resolved. <b>And what is the reason</b> he does not receive a double portion? <b>Abaye said: The verse</b> concerning the double portion received by a firstborn son <b>states:</b> “By giving him a double portion <b>of all that he has”</b> (Deuteronomy 21:17), indicating that he receives a double portion in all that <b>he</b> has, <b>but not</b> in all that <b>she</b> has.",
+                  "The Gemara asks: <b>And</b> why not <b>say</b> that <b>this statement</b> applies in the case of <b>a bachelor who married a widow,</b> i.e., a man who marries a woman who already has children from another man, so that the firstborn son is his firstborn but not hers, <b>but</b> in the case of <b>a bachelor who married a virgin, so too</b> the <i>halakha</i> will be <b>that</b> their firstborn son <b>will take</b> a double portion of his mother’s inheritance?",
+                  "<b>Rav Naḥman bar Yitzḥak said:</b> There is a different derivation teaching that <i>halakha</i>, as the same <b>verse states:</b> “For he is <b>the first fruits of his strength [<i>ono</i>]”</b> (Deuteronomy 21:17), indicating that the <i>halakha</i> of the double portion is stated with regard to <b>his strength, but not her strength,</b> thereby excluding a son who is the firstborn of his mother alone.",
+                  "The Gemara challenges: But <b>that</b> verse <b>is required to</b> derive the <i>halakha</i> of a child who <b>came</b> into the world <b>after</b> his mother gave birth to <b>non-viable newborns</b> who did not reach the full term of nine months. This verse teaches <b>that</b> such a firstborn son <b>should be a firstborn with regard to inheritance,</b> even though he is not a firstborn with regard to the mitzva to redeem one’s firstborn son. How is this <i>halakha</i> derived from the verse? The term “his strength [<i>ono</i>]” is understood as referring to acute mourning [<i>aninut</i>], in the following manner: A firstborn son for the purpose of inheritance of land is only <b>one whose</b> father’s <b>heart is pained about him</b> when he dies, i.e., a son who lives beyond birth, <b>excluding this</b> non-viable newborn <b>whose</b> father’s <b>heart is not pained about him</b> when he dies. Therefore, the next viable son to be born after a non-viable newborn is considered the firstborn.",
+                  "The Gemara answers: <b>If so,</b> that the sole purpose of the term: “His strength” is to teach that <i>halakha</i>, <b>let the verse say: For he is the first fruit of strength [<i>on</i>],</b> omitting the possessive “his,” represented by the letter <i>vav</i>. <b>What</b> is derived from the more expanded term: <b>“His strength [<i>ono</i>],”</b> which indicates specifically the father’s strength? <b>Conclude two</b> conclusions <b>from it,</b> both with regard to mourning and with regard to the status of the firstborn as the father’s heir specifically.",
+                  "The Gemara raises a difficulty: <b>But</b> one can <b>still say</b> that <b>this statement</b> applies in a case of <b>a widower who married a virgin,</b> so that he already has a firstborn from his previous marriage who is the first fruit of his strength. And the son born to him and his second wife is not the first fruit of his strength, and it is this type of firstborn who does not inherit a double portion of his mother’s estate. <b>But</b> in a case of <b>a bachelor who married a virgin, so too</b> the <i>halakha</i> will be <b>that</b> their shared firstborn son <b>will take</b> a double portion of his mother’s inheritance.",
+                  "<b>Rather, Rava said:</b> There is a different derivation teaching that <i>halakha</i>, as the same <b>verse states: “The right of the firstborn is his”</b> (Deuteronomy 21:17). The emphasis on “his” indicates that <b>the primogeniture</b> applies specifically <b>to a man, and the primogeniture does not</b> apply <b>to a woman,</b> whether the woman is the one inheriting or is the legator."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 110b:12",
+                "Bava Batra 111a:1",
+                "Bava Batra 111a:2",
+                "Bava Batra 111a:3",
+                "Bava Batra 111a:4",
+                "Bava Batra 111a:5",
+                "Bava Batra 111a:6",
+                "Bava Batra 111a:7",
+                "Bava Batra 111a:8",
+                "Bava Batra 111a:9",
+                "Bava Batra 111a:10",
+                "Bava Batra 111a:11",
+                "Bava Batra 111a:12",
+                "Bava Batra 111b:1",
+                "Bava Batra 111b:2",
+                "Bava Batra 111b:3",
+                "Bava Batra 111b:4",
+                "Bava Batra 111b:5",
+                "Bava Batra 111b:6",
+                "Bava Batra 111b:7"
+              ],
+              "he": [
+                [
+                  "וְהָאִישׁ אֶת אִמּוֹ וְכוּ׳. מְנָא הָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן:"
+                ],
+                [
+                  "״וְכׇל בַּת יֹרֶשֶׁת נַחֲלָה מִמַּטּוֹת בְּנֵי יִשְׂרָאֵל״ – הֵיאַךְ בַּת יוֹרֶשֶׁת שְׁנֵי מַטּוֹת? אֶלָּא זוֹ שֶׁאָבִיהָ מִשֵּׁבֶט אֶחָד וְאִמָּהּ מִשֵּׁבֶט אַחֵר, וּמֵתוּ, וִירָשָׁתַן.",
+                  "וְאֵין לִי אֶלָּא בַּת, בֵּן מִנַּיִן? אָמַרְתָּ קַל וָחוֹמֶר: וּמָה בַּת, שֶׁהוֹרַע כֹּחָהּ בְּנִכְסֵי הָאָב – יִפָּה כֹּחָהּ בְּנִכְסֵי הָאֵם; בֵּן, שֶׁיִּפָּה כֹּחוֹ בְּנִכְסֵי הָאָב – אֵינוֹ דִּין שֶׁיִּפָּה כֹּחוֹ בְּנִכְסֵי הָאֵם? וּמִמָּקוֹם שֶׁבָּאתָ – מָה לְהַלָּן בֵּן קוֹדֵם לַבַּת, אַף כָּאן בֵּן קוֹדֵם לַבַּת.",
+                  "רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה וְרַבִּי אֶלְעָזָר בְּרַבִּי יוֹסֵי אָמְרוּ, מִשּׁוּם רַבִּי זְכַרְיָה בֶּן הַקַּצָּב: אֶחָד הַבֵּן וְאֶחָד הַבַּת, שָׁוִין בְּנִכְסֵי הָאֵם. מַאי טַעְמָא? דַּיּוֹ לַבָּא מִן הַדִּין לִהְיוֹת כַּנִּדּוֹן.",
+                  "וְתַנָּא קַמָּא – לָא דָּרֵישׁ ״דַּיּוֹ״?! וְהָא ״דַּיּוֹ״ דְּאוֹרָיְיתָא הוּא!",
+                  "דְּתַנְיָא: מִדִּין קַל וָחוֹמֶר כֵּיצַד? ״וַיֹּאמֶר ה׳ אֶל מֹשֶׁה: וְאָבִיהָ יָרֹק יָרַק בְּפָנֶיהָ, הֲלֹא תִכָּלֵם שִׁבְעַת יָמִים?״ קַל וָחוֹמֶר לַשְּׁכִינָה – אַרְבָּעָה עָשָׂר!",
+                  "אֶלָּא דַּיּוֹ לַבָּא מִן הַדִּין לִהְיוֹת כַּנִּדּוֹן.",
+                  "בְּעָלְמָא דָּרֵישׁ ״דַּיּוֹ״; וְשָׁאנֵי הָכָא, דְּאָמַר קְרָא: ״מִמַּטּוֹת״ – מַקִּישׁ מַטֵּה הָאֵם לְמַטֵּה הָאָב; מָה מַטֵּה הָאָב – בֵּן קוֹדֵם לַבַּת, אַף מַטֵּה הָאֵם – בֵּן קוֹדֵם לַבַּת.",
+                  "רַב נִיתַּאי סָבַר לְמֶעְבַּד עוֹבָדָא כְּרַבִּי זְכַרְיָה בֶּן הַקַּצָּב; אֲמַר לֵיהּ שְׁמוּאֵל: כְּמַאן – כִּזְכַרְיָה? אָפֵס זְכַרְיָה. רַבִּי טַבְלָא עֲבַד עוֹבָדָא כְּרַבִּי זְכַרְיָה בֶּן הַקַּצָּב. אֲמַר לֵיהּ רַב נַחְמָן: מַאי הַאי? אֲמַר לֵיהּ, דְּאָמַר רַב חִינָּנָא בַּר שֶׁלֶמְיָא מִשְּׁמֵיהּ דְּרַב: הֲלָכָה כְּרַבִּי זְכַרְיָה בֶּן הַקַּצָּב. אֲמַר לֵיהּ: זִיל אַהְדַּר <span class=\"parenthesized\">(בָּךְ)</span>, וְאִי לָא – מַפֵּיקְנָא לָךְ רַב חִינָּנָא בַּר שֶׁלֶמְיָא מֵאוּנָּיךְ!",
+                  "רַב הוּנָא בַּר חִיָּיא סָבַר לְמֶעְבַּד עוֹבָדָא כְּרַבִּי זְכַרְיָה בֶּן הַקַּצָּב; אֲמַר לֵיהּ רַב נַחְמָן: מַאי הַאי? אֲמַר לֵיהּ, דְּאָמַר רַב הוּנָא אָמַר רַב: הֲלָכָה כְּרַבִּי זְכַרְיָה בֶּן הַקַּצָּב. אֲמַר לֵיהּ: אֶשְׁלַח לֵיהּ? אִיכְּסִיף. אֲמַר לֵיהּ: הַשְׁתָּא כִּי נָח נַפְשֵׁיהּ דְּרַב הוּנָא, אַיתְרֵיסְתְּ לְקִבְלִי.",
+                  "וְאִיהוּ כְּמַאן סַבְרַהּ? כִּי הָא דְּרַב וּשְׁמוּאֵל, דְּאָמְרִי תַּרְוַיְיהוּ: אֵין הֲלָכָה כְּרַבִּי זְכַרְיָה בֶּן הַקַּצָּב.",
+                  "מִיסְתְּמִיךְ וְאָזֵיל רַבִּי יַנַּאי אַכַּתְפָּא דְּרַבִּי שִׂמְלַאי שַׁמָּעֵיהּ, וְאָתֵי רַבִּי יְהוּדָה נְשִׂיאָה לְאַפַּיְיהוּ. אֲמַר לֵיהּ: בַּר אִינָשׁ דַּאֲתָא לְקִיבְלַנָא, הוּא יָאֵי, וְגוּלְּתֵיהּ יָאֵי. כִּי מְטָא לְגַבֵּיהּ, גַּשְּׁשַׁהּ, אֲמַר לֵיהּ: דֵּין – שִׁיעוּרֵיהּ כְּשַׂק.",
+                  "בְּעָא מִינֵּיהּ: מִנַּיִן לְבֵן שֶׁקּוֹדֵם לַבַּת בְּנִכְסֵי הָאֵם? אָמַר לֵיהּ, דִּכְתִיב: ״מַטּוֹת״ – מַקִּישׁ מַטֵּה הָאֵם לְמַטֵּה הָאָב; מָה מַטֵּה הָאָב – בֵּן קוֹדֵם לַבַּת, אַף מַטֵּה הָאֵם – בֵּן קוֹדֵם לַבַּת. אֲמַר לֵיהּ: אִי – מָה מַטֵּה הָאָב, בְּכוֹר נוֹטֵל פִּי שְׁנַיִם; אַף מַטֵּה הָאֵם, בְּכוֹר נוֹטֵל פִּי שְׁנַיִם?!"
+                ],
+                [
+                  "אֲמַר לֵיהּ לְשַׁמָּעֵיהּ: גּוּד, לֵית דֵּין צָבֵי לְמֵילַף. וְטַעְמָא מַאי? אָמַר אַבָּיֵי, אָמַר קְרָא: ״בְּכֹל אֲשֶׁר יִמָּצֵא לוֹ״; ״לוֹ״ – וְלֹא לָהּ.",
+                  "וְאֵימָא: הָנֵי מִילֵּי בָּחוּר שֶׁנָּשָׂא אַלְמָנָה, אֲבָל בָּחוּר שֶׁנָּשָׂא בְּתוּלָה – הָכִי נָמֵי דְּשָׁקֵיל!",
+                  "אָמַר רַב נַחְמָן בַּר יִצְחָק, אָמַר קְרָא: ״רֵאשִׁית אֹנוֹ״; ״אוֹנוֹ״ – וְלֹא אוֹנָהּ.",
+                  "הָהוּא מִבַּעְיָא לֵיהּ לַבָּא אַחַר נְפָלִים, דְּלֶהֱוֵי בְּכוֹר לְנַחֲלָה – מִי שֶׁלִּבּוֹ דָּוֶוה עָלָיו, יָצָא זֶה שֶׁאֵין לִבּוֹ דָּוֶוה עָלָיו!",
+                  "אִם כֵּן, לֵימָא קְרָא: ״כִּי הוּא רֵאשִׁית אוֹן״ – מַאי ״אוֹנוֹ״? שְׁמַע מִינַּהּ תַּרְתֵּי.",
+                  "וְאַכַּתִּי, אֵימָא הָנֵי מִילֵּי אַלְמוֹן שֶׁנָּשָׂא בְּתוּלָה, אֲבָל בָּחוּר שֶׁנָּשָׂא בְּתוּלָה – הָכִי נָמֵי דְּשָׁקֵיל!",
+                  "אֶלָּא אָמַר רָבָא, אָמַר קְרָא: ״לוֹ מִשְׁפַּט הַבְּכֹרָה״ – מִשְׁפַּט הַבְּכוֹרָה לָאִישׁ, וְלֹא מִשְׁפַּט הַבְּכוֹרָה לָאִשָּׁה."
+                ]
+              ],
+              "link": "/Bava Batra/111b",
+              "originalRefsBeforeRewriting": [
+                "Bava Batra 111b:4"
+              ],
+              "ref": "Bava Batra 110b:12-111b:7",
+              "sourceHeRef": "בבא בתרא קי״א ב",
+              "sourceRef": "Bava Batra 111b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי שלבו דוה עליו</strong> - לב אביו מתאבל על מותו הוא דחשיב לענין נחלה:",
+              "ref": "Rashi on Niddah 23b:3:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ג:א",
+              "sourceRef": "Rashi on Niddah 23b:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בדחיית ראייתו של רב ירמיה מדפתי: <b>לעולם</b> יש מקום לומר <b>דחיי</b> <span class=\"hebrew-emphasis\">[שחי,</span> מתקיים<span class=\"hebrew-emphasis\">]</span> הדבר שצורתו כמין חיה בהמה ועוף, <b>ו</b>הטעם שאינו נחשב כבכור לענין נחלה, שכן <b>שאני התם</b> <span class=\"hebrew-emphasis\">[שונה,</span> מיוחד הוא הדין <span class=\"hebrew-emphasis\">שם,</span> לענין בכורה לנחלה<span class=\"hebrew-emphasis\">],</span> שכן <b>אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב]</span> בדין בכורה לנחלה \"לתת לו פי שנים בכל אשר ימצא לו כי הוא <b>ראשית אונו</b> לו משפט הבכורה\" (דברים כא, יז) — אין הדברים אמורים אלא ב<b>מי שלבו</b> של האב <b>דוה</b> (אבל) <b>עליו</b> אם מת (\"אונו\" במשמעות אנינות ואבלותו), <b>יצא זה</b> הנפל בצורת בהמה חיה ועוף, <b>שאין לבו</b> של האב <b>דוה עליו.</b>",
+              "ref": "Steinsaltz on Niddah 23b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:ג",
+              "sourceRef": "Steinsaltz on Niddah 23b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כתבו המפרשים כי מכאן עולה שהולד שיצא מחותך איברים המוזכר בין אלה הנזכרים במשנה במסכת בכורות שהבא אחריהם הריהו בכור לנחלה, אין לב האב דוה עליו, כיון שיצא שלא בשלימות הגוף. והוא שאמר אהרן הכהן למשה רבינו בפניה לתפילה על רפואת אחותם מרים מצרעתה \"אל נא תהי כמת אשר בצאתו מרחם אמו ויאכל חצי בשרו\" (במדבר יב, יב) — שלא יראנה כמי שהריהי ולד מחותך איברים, זה שאין הלב דוה עליו, ואין מצטערים ואין מתפללים עבורו (תו\"ת שם).",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:3",
+              "sourceHeRef": "יצא זה שאין לבו דוה עליו",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Instead, he must accept the first-born, the son of the unloved one, and allot to him a double portion of all he possesses; since he is the first fruit of his vigor, the birthright is his due.",
+              "he": "כִּי֩ אֶת־הַבְּכֹ֨ר בֶּן־הַשְּׂנוּאָ֜ה יַכִּ֗יר לָ֤תֶת לוֹ֙ פִּ֣י שְׁנַ֔יִם בְּכֹ֥ל אֲשֶׁר־יִמָּצֵ֖א ל֑וֹ כִּי־הוּא֙ רֵאשִׁ֣ית אֹנ֔וֹ ל֖וֹ מִשְׁפַּ֥ט הַבְּכֹרָֽה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Deuteronomy/21",
+              "ref": "Deuteronomy 21:17",
+              "sourceHeRef": "דברים כא:יז",
+              "sourceRef": "Deuteronomy 21:17"
+            },
+            {
+              "en": [
+                "Now, if you obey the L<small>ORD</small> your God, to observe faithfully all His commandments which I enjoin upon you this day, the L<small>ORD</small> your God will set you high above all the nations of the earth.",
+                "All these blessings shall come upon you and take effect, if you will but heed the word of the L<small>ORD</small> your God:",
+                "Blessed shall you be in the city and blessed shall you be in the country.",
+                "Blessed shall be the issue of your womb, the produce of your soil, and the offspring of your cattle, the calving of your herd and the lambing of your flock.",
+                "Blessed shall be your basket and your kneading bowl.",
+                "Blessed shall you be in your comings and blessed shall you be in your goings.",
+                "The L<small>ORD</small> will put to rout before you the enemies who attack you; they will march out against you by a single road, but flee from you by many roads.",
+                "The L<small>ORD</small> will ordain blessings for you upon your barns and upon all your undertakings: He will bless you in the land that the L<small>ORD</small> your God is giving you.",
+                "The L<small>ORD</small> will establish you as His holy people, as He swore to you, if you keep the commandments of the L<small>ORD</small> your God and walk in His ways.",
+                "And all the peoples of the earth shall see that the L<small>ORD</small>’s name is proclaimed over you, and they shall stand in fear of you.",
+                "The L<small>ORD</small> will give you abounding prosperity in the issue of your womb, the offspring of your cattle, and the produce of your soil in the land that the L<small>ORD</small> swore to your fathers to assign to you.",
+                "The L<small>ORD</small> will open for you His bounteous store, the heavens, to provide rain for your land in season and to bless all your undertakings. You will be creditor to many nations, but debtor to none.",
+                "The L<small>ORD</small> will make you the head, not the tail; you will always be at the top and never at the bottom—if only you obey and faithfully observe the commandments of the L<small>ORD</small> your God that I enjoin upon you this day,",
+                "and do not deviate to the right or to the left from any of the commandments that I enjoin upon you this day and turn to the worship of other gods.",
+                "But if you do not obey the L<small>ORD</small> your God to observe faithfully all His commandments and laws which I enjoin upon you this day, all these curses shall come upon you and take effect:",
+                "Cursed shall you be in the city and cursed shall you be in the country.",
+                "Cursed shall be your basket and your kneading bowl.",
+                "Cursed shall be the issue of your womb and the produce of your soil, the calving of your herd and the lambing of your flock.",
+                "Cursed shall you be in your comings and cursed shall you be in your goings.",
+                "The L<small>ORD</small> will let loose against you calamity, panic, and frustration in all the enterprises you undertake, so that you shall soon be utterly wiped out because of your evildoing in forsaking Me.",
+                "The L<small>ORD</small> will make pestilence cling to you, until He has put an end to you in the land that you are entering to possess.",
+                "The L<small>ORD</small> will strike you with consumption, fever, and inflammation, with scorching heat and drought, with blight and mildew; they shall hound you until you perish.",
+                "The skies above your head shall be copper and the earth under you iron.",
+                "The L<small>ORD</small> will make the rain of your land dust, and sand shall drop on you from the sky, until you are wiped out.",
+                "The L<small>ORD</small> will put you to rout before your enemies; you shall march out against them by a single road, but flee from them by many roads; and you shall become a horror to all the kingdoms of the earth.",
+                "Your carcasses shall become food for all the birds of the sky and all the beasts of the earth, with none to frighten them off.",
+                "The L<small>ORD</small> will strike you with the Egyptian inflammation, with hemorrhoids, boil-scars, and itch, from which you shall never recover.",
+                "The L<small>ORD</small> will strike you with madness, blindness, and dismay.",
+                "You shall grope at noon as a blind man gropes in the dark; you shall not prosper in your ventures, but shall be constantly abused and robbed, with none to give help.",
+                "If you pay the bride-price for a wife, another man shall enjoy her. If you build a house, you shall not live in it. If you plant a vineyard, you shall not harvest it.",
+                "Your ox shall be slaughtered before your eyes, but you shall not eat of it; your ass shall be seized in front of you, and it shall not be returned to you; your flock shall be delivered to your enemies, with none to help you.",
+                "Your sons and daughters shall be delivered to another people, while you look on; and your eyes shall strain for them constantly, but you shall be helpless.",
+                "A people you do not know shall eat up the produce of your soil and all your gains; you shall be abused and downtrodden continually,",
+                "until you are driven mad by what your eyes behold.",
+                "The L<small>ORD</small> will afflict you at the knees and thighs with a severe inflammation, from which you shall never recover—from the sole of your foot to the crown of your head.",
+                "The L<small>ORD</small> will drive you, and the king you have set over you, to a nation unknown to you or your fathers, where you shall serve other gods, of wood and stone.",
+                "You shall be a consternation, a proverb, and a byword among all the peoples to which the L<small>ORD</small> will drive you.",
+                "Though you take much seed out to the field, you shall gather in little, for the locust shall consume it.",
+                "Though you plant vineyards and till them, you shall have no wine to drink or store, for the worm shall devour them.",
+                "Though you have olive trees throughout your territory, you shall have no oil for anointment, for your olives shall drop off.",
+                "Though you beget sons and daughters, they shall not remain with you, for they shall go into captivity.",
+                "The cricket shall take over all the trees and produce of your land.",
+                "The stranger in your midst shall rise above you higher and higher, while you sink lower and lower:",
+                "he shall be your creditor, but you shall not be his; he shall be the head and you the tail.",
+                "All these curses shall befall you; they shall pursue you and overtake you, until you are wiped out, because you did not heed the L<small>ORD</small> your God and keep the commandments and laws that He enjoined upon you.",
+                "They shall serve as signs and proofs against you and your offspring for all time.",
+                "Because you would not serve the L<small>ORD</small> your God in joy and gladness over the abundance of everything,",
+                "you shall have to serve—in hunger and thirst, naked and lacking everything—the enemies whom the L<small>ORD</small> will let loose against you. He will put an iron yoke upon your neck until He has wiped you out.",
+                "The L<small>ORD</small> will bring a nation against you from afar, from the end of the earth, which will swoop down like the eagle—a nation whose language you do not understand,",
+                "a ruthless nation, that will show the old no regard and the young no mercy.",
+                "It shall devour the offspring of your cattle and the produce of your soil, until you have been wiped out, leaving you nothing of new grain, wine, or oil, of the calving of your herds and the lambing of your flocks, until it has brought you to ruin.",
+                "It shall shut you up in all your towns throughout your land until every mighty, towering wall in which you trust has come down. And when you are shut up in all your towns throughout your land that the L<small>ORD</small> your God has assigned to you,",
+                "you shall eat your own issue, the flesh of your sons and daughters that the L<small>ORD</small> your God has assigned to you, because of the desperate straits to which your enemy shall reduce you.",
+                "He who is most tender and fastidious among you shall be too mean to his brother and the wife of his bosom and the children he has spared",
+                "to share with any of them the flesh of the children that he eats, because he has nothing else left as a result of the desperate straits to which your enemy shall reduce you in all your towns.",
+                "And she who is most tender and dainty among you, so tender and dainty that she would never venture to set a foot on the ground, shall begrudge the husband of her bosom, and her son and her daughter,",
+                "the afterbirth that issues from between her legs and the babies she bears; she shall eat them secretly, because of utter want, in the desperate straits to which your enemy shall reduce you in your towns.",
+                "If you fail to observe faithfully all the terms of this Teaching that are written in this book, to reverence this honored and awesome Name, the L<small>ORD</small> your God,",
+                "the L<small>ORD</small> will inflict extraordinary plagues upon you and your offspring, strange and lasting plagues, malignant and chronic diseases.",
+                "He will bring back upon you all the sicknesses of Egypt that you dreaded so, and they shall cling to you.",
+                "Moreover, the L<small>ORD</small> will bring upon you all the other diseases and plagues that are not mentioned in this book of Teaching, until you are wiped out.",
+                "You shall be left a scant few, after having been as numerous as the stars in the skies, because you did not heed the command of the L<small>ORD</small> your God.",
+                "And as the L<small>ORD</small> once delighted in making you prosperous and many, so will the L<small>ORD</small> now delight in causing you to perish and in wiping you out; you shall be torn from the land that you are about to enter and possess.",
+                "The L<small>ORD</small> will scatter you among all the peoples from one end of the earth to the other, and there you shall serve other gods, wood and stone, whom neither you nor your ancestors have experienced.",
+                "Yet even among those nations you shall find no peace, nor shall your foot find a place to rest. The L<small>ORD</small> will give you there an anguished heart and eyes that pine and a despondent spirit.",
+                "The life you face shall be precarious; you shall be in terror, night and day, with no assurance of survival.",
+                "In the morning you shall say, “If only it were evening!” and in the evening you shall say, “If only it were morning!”—because of what your heart shall dread and your eyes shall see.",
+                "The L<small>ORD</small> will send you back to Egypt in galleys, by a route which I told you you should not see again. There you shall offer yourselves for sale to your enemies as male and female slaves, but none will buy.",
+                "These are the terms of the covenant which the L<small>ORD</small> commanded Moses to conclude with the Israelites in the land of Moab, in addition to the covenant which He had made with them at Horeb."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Deuteronomy 28:1",
+                "Deuteronomy 28:2",
+                "Deuteronomy 28:3",
+                "Deuteronomy 28:4",
+                "Deuteronomy 28:5",
+                "Deuteronomy 28:6",
+                "Deuteronomy 28:7",
+                "Deuteronomy 28:8",
+                "Deuteronomy 28:9",
+                "Deuteronomy 28:10",
+                "Deuteronomy 28:11",
+                "Deuteronomy 28:12",
+                "Deuteronomy 28:13",
+                "Deuteronomy 28:14",
+                "Deuteronomy 28:15",
+                "Deuteronomy 28:16",
+                "Deuteronomy 28:17",
+                "Deuteronomy 28:18",
+                "Deuteronomy 28:19",
+                "Deuteronomy 28:20",
+                "Deuteronomy 28:21",
+                "Deuteronomy 28:22",
+                "Deuteronomy 28:23",
+                "Deuteronomy 28:24",
+                "Deuteronomy 28:25",
+                "Deuteronomy 28:26",
+                "Deuteronomy 28:27",
+                "Deuteronomy 28:28",
+                "Deuteronomy 28:29",
+                "Deuteronomy 28:30",
+                "Deuteronomy 28:31",
+                "Deuteronomy 28:32",
+                "Deuteronomy 28:33",
+                "Deuteronomy 28:34",
+                "Deuteronomy 28:35",
+                "Deuteronomy 28:36",
+                "Deuteronomy 28:37",
+                "Deuteronomy 28:38",
+                "Deuteronomy 28:39",
+                "Deuteronomy 28:40",
+                "Deuteronomy 28:41",
+                "Deuteronomy 28:42",
+                "Deuteronomy 28:43",
+                "Deuteronomy 28:44",
+                "Deuteronomy 28:45",
+                "Deuteronomy 28:46",
+                "Deuteronomy 28:47",
+                "Deuteronomy 28:48",
+                "Deuteronomy 28:49",
+                "Deuteronomy 28:50",
+                "Deuteronomy 28:51",
+                "Deuteronomy 28:52",
+                "Deuteronomy 28:53",
+                "Deuteronomy 28:54",
+                "Deuteronomy 28:55",
+                "Deuteronomy 28:56",
+                "Deuteronomy 28:57",
+                "Deuteronomy 28:58",
+                "Deuteronomy 28:59",
+                "Deuteronomy 28:60",
+                "Deuteronomy 28:61",
+                "Deuteronomy 28:62",
+                "Deuteronomy 28:63",
+                "Deuteronomy 28:64",
+                "Deuteronomy 28:65",
+                "Deuteronomy 28:66",
+                "Deuteronomy 28:67",
+                "Deuteronomy 28:68"
+              ],
+              "he": [
+                "וְהָיָ֗ה אִם־שָׁמ֤וֹעַ תִּשְׁמַע֙ בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־כׇּל־מִצְוֺתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם וּנְתָ֨נְךָ֜ יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ עֶלְי֔וֹן עַ֖ל כׇּל־גּוֹיֵ֥י הָאָֽרֶץ׃",
+                "וּבָ֧אוּ עָלֶ֛יךָ כׇּל־הַבְּרָכ֥וֹת הָאֵ֖לֶּה וְהִשִּׂיגֻ֑ךָ כִּ֣י תִשְׁמַ֔ע בְּק֖וֹל יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+                "בָּר֥וּךְ אַתָּ֖ה בָּעִ֑יר וּבָר֥וּךְ אַתָּ֖ה בַּשָּׂדֶֽה׃",
+                "בָּר֧וּךְ פְּרִֽי־בִטְנְךָ֛ וּפְרִ֥י אַדְמָתְךָ֖ וּפְרִ֣י בְהֶמְתֶּ֑ךָ שְׁגַ֥ר אֲלָפֶ֖יךָ וְעַשְׁתְּר֥וֹת צֹאנֶֽךָ׃",
+                "בָּר֥וּךְ טַנְאֲךָ֖ וּמִשְׁאַרְתֶּֽךָ׃",
+                "בָּר֥וּךְ אַתָּ֖ה בְּבֹאֶ֑ךָ וּבָר֥וּךְ אַתָּ֖ה בְּצֵאתֶֽךָ׃",
+                "יִתֵּ֨ן יְהֹוָ֤ה אֶת־אֹיְבֶ֙יךָ֙ הַקָּמִ֣ים עָלֶ֔יךָ נִגָּפִ֖ים לְפָנֶ֑יךָ בְּדֶ֤רֶךְ אֶחָד֙ יֵצְא֣וּ אֵלֶ֔יךָ וּבְשִׁבְעָ֥ה דְרָכִ֖ים יָנ֥וּסוּ לְפָנֶֽיךָ׃",
+                "יְצַ֨ו יְהֹוָ֤ה אִתְּךָ֙ אֶת־הַבְּרָכָ֔ה בַּאֲסָמֶ֕יךָ וּבְכֹ֖ל מִשְׁלַ֣ח יָדֶ֑ךָ וּבֵ֣רַכְךָ֔ בָּאָ֕רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃",
+                "יְקִֽימְךָ֨ יְהֹוָ֥ה לוֹ֙ לְעַ֣ם קָד֔וֹשׁ כַּאֲשֶׁ֖ר נִֽשְׁבַּֽע־לָ֑ךְ כִּ֣י תִשְׁמֹ֗ר אֶת־מִצְוֺת֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְהָלַכְתָּ֖ בִּדְרָכָֽיו׃",
+                "וְרָאוּ֙ כׇּל־עַמֵּ֣י הָאָ֔רֶץ כִּ֛י שֵׁ֥ם יְהֹוָ֖ה נִקְרָ֣א עָלֶ֑יךָ וְיָֽרְא֖וּ מִמֶּֽךָּ׃",
+                "וְהוֹתִרְךָ֤ יְהֹוָה֙ לְטוֹבָ֔ה בִּפְרִ֧י בִטְנְךָ֛ וּבִפְרִ֥י בְהֶמְתְּךָ֖ וּבִפְרִ֣י אַדְמָתֶ֑ךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֶ֖יךָ לָ֥תֶת לָֽךְ׃",
+                "יִפְתַּ֣ח יְהֹוָ֣ה <span class=\"hebrew-emphasis\">׀</span> לְ֠ךָ֠ אֶת־אוֹצָר֨וֹ הַטּ֜וֹב אֶת־הַשָּׁמַ֗יִם לָתֵ֤ת מְטַֽר־אַרְצְךָ֙ בְּעִתּ֔וֹ וּלְבָרֵ֕ךְ אֵ֖ת כׇּל־מַעֲשֵׂ֣ה יָדֶ֑ךָ וְהִלְוִ֙יתָ֙ גּוֹיִ֣ם רַבִּ֔ים וְאַתָּ֖ה לֹ֥א תִלְוֶֽה׃",
+                "וּנְתָֽנְךָ֨ יְהֹוָ֤ה לְרֹאשׁ֙ וְלֹ֣א לְזָנָ֔ב וְהָיִ֙יתָ֙ רַ֣ק לְמַ֔עְלָה וְלֹ֥א תִהְיֶ֖ה לְמָ֑טָּה כִּֽי־תִשְׁמַ֞ע אֶל־מִצְוֺ֣ת <b>׀</b> יְהֹוָ֣ה אֱלֹהֶ֗יךָ אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם לִשְׁמֹ֥ר וְלַעֲשֽׂוֹת׃",
+                "וְלֹ֣א תָס֗וּר מִכׇּל־הַדְּבָרִים֙ אֲשֶׁ֨ר אָנֹכִ֜י מְצַוֶּ֥ה אֶתְכֶ֛ם הַיּ֖וֹם יָמִ֣ין וּשְׂמֹ֑אול לָלֶ֗כֶת אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים לְעׇבְדָֽם׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+                "וְהָיָ֗ה אִם־לֹ֤א תִשְׁמַע֙ בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־כׇּל־מִצְוֺתָ֣יו וְחֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם וּבָ֧אוּ עָלֶ֛יךָ כׇּל־הַקְּלָל֥וֹת הָאֵ֖לֶּה וְהִשִּׂיגֽוּךָ׃",
+                "אָר֥וּר אַתָּ֖ה בָּעִ֑יר וְאָר֥וּר אַתָּ֖ה בַּשָּׂדֶֽה׃",
+                "אָר֥וּר טַנְאֲךָ֖ וּמִשְׁאַרְתֶּֽךָ׃",
+                "אָר֥וּר פְּרִֽי־בִטְנְךָ֖ וּפְרִ֣י אַדְמָתֶ֑ךָ שְׁגַ֥ר אֲלָפֶ֖יךָ וְעַשְׁתְּרֹ֥ת צֹאנֶֽךָ׃",
+                "אָר֥וּר אַתָּ֖ה בְּבֹאֶ֑ךָ וְאָר֥וּר אַתָּ֖ה בְּצֵאתֶֽךָ׃",
+                "יְשַׁלַּ֣ח יְהֹוָ֣ה <span class=\"hebrew-emphasis\">׀</span> בְּ֠ךָ֠ אֶת־הַמְּאֵרָ֤ה אֶת־הַמְּהוּמָה֙ וְאֶת־הַמִּגְעֶ֔רֶת בְּכׇל־מִשְׁלַ֥ח יָדְךָ֖ אֲשֶׁ֣ר תַּעֲשֶׂ֑ה עַ֣ד הִשָּׁמֶדְךָ֤ וְעַד־אֲבׇדְךָ֙ מַהֵ֔ר מִפְּנֵ֛י רֹ֥עַ מַֽעֲלָלֶ֖יךָ אֲשֶׁ֥ר עֲזַבְתָּֽנִי׃",
+                "יַדְבֵּ֧ק יְהֹוָ֛ה בְּךָ֖ אֶת־הַדָּ֑בֶר עַ֚ד כַּלֹּת֣וֹ אֹֽתְךָ֔ מֵעַל֙ הָאֲדָמָ֔ה אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּֽהּ׃",
+                "יַכְּכָ֣ה יְ֠הֹוָ֠ה בַּשַּׁחֶ֨פֶת וּבַקַּדַּ֜חַת וּבַדַּלֶּ֗קֶת וּבַֽחַרְחֻר֙ וּבַחֶ֔רֶב וּבַשִּׁדָּפ֖וֹן וּבַיֵּרָק֑וֹן וּרְדָפ֖וּךָ עַ֥ד אׇבְדֶֽךָ׃",
+                "וְהָי֥וּ שָׁמֶ֛יךָ אֲשֶׁ֥ר עַל־רֹאשְׁךָ֖ נְחֹ֑שֶׁת וְהָאָ֥רֶץ אֲשֶׁר־תַּחְתֶּ֖יךָ בַּרְזֶֽל׃",
+                "יִתֵּ֧ן יְהֹוָ֛ה אֶת־מְטַ֥ר אַרְצְךָ֖ אָבָ֣ק וְעָפָ֑ר מִן־הַשָּׁמַ֙יִם֙ יֵרֵ֣ד עָלֶ֔יךָ עַ֖ד הִשָּׁמְדָֽךְ׃",
+                "יִתֶּנְךָ֨ יְהֹוָ֥ה <span class=\"hebrew-emphasis\">׀</span> נִגָּף֮ לִפְנֵ֣י אֹיְבֶ֒יךָ֒ בְּדֶ֤רֶךְ אֶחָד֙ תֵּצֵ֣א אֵלָ֔יו וּבְשִׁבְעָ֥ה דְרָכִ֖ים תָּנ֣וּס לְפָנָ֑יו וְהָיִ֣יתָ לְזַֽעֲוָ֔ה לְכֹ֖ל מַמְלְכ֥וֹת הָאָֽרֶץ׃",
+                "וְהָיְתָ֤ה נִבְלָֽתְךָ֙ לְמַֽאֲכָ֔ל לְכׇל־ע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֣ת הָאָ֑רֶץ וְאֵ֖ין מַחֲרִֽיד׃",
+                "יַכְּכָ֨ה יְהֹוָ֜ה בִּשְׁחִ֤ין מִצְרַ֙יִם֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\"><span class=\"parenthesized\">(ובעפלים)</span></span> <span class=\"mam-kq-q\">[וּבַטְּחֹרִ֔ים]</span></span> וּבַגָּרָ֖ב וּבֶחָ֑רֶס אֲשֶׁ֥ר לֹא־תוּכַ֖ל לְהֵרָפֵֽא׃",
+                "יַכְּכָ֣ה יְהֹוָ֔ה בְּשִׁגָּע֖וֹן וּבְעִוָּר֑וֹן וּבְתִמְה֖וֹן לֵבָֽב׃",
+                "וְהָיִ֜יתָ מְמַשֵּׁ֣שׁ בַּֽצׇּהֳרַ֗יִם כַּאֲשֶׁ֨ר יְמַשֵּׁ֤שׁ הַֽעִוֵּר֙ בָּאֲפֵלָ֔ה וְלֹ֥א תַצְלִ֖יחַ אֶת־דְּרָכֶ֑יךָ וְהָיִ֜יתָ אַ֣ךְ עָשׁ֧וּק וְגָז֛וּל כׇּל־הַיָּמִ֖ים וְאֵ֥ין מוֹשִֽׁיעַ׃",
+                "אִשָּׁ֣ה תְאָרֵ֗שׂ וְאִ֤ישׁ אַחֵר֙ <span class=\"mam-kq\"><span class=\"mam-kq-k\"><span class=\"parenthesized\">(ישגלנה)</span></span> <span class=\"mam-kq-q\">[יִשְׁכָּבֶ֔נָּה]</span></span> בַּ֥יִת תִּבְנֶ֖ה וְלֹא־תֵשֵׁ֣ב בּ֑וֹ כֶּ֥רֶם תִּטַּ֖ע וְלֹ֥א תְחַלְּלֶֽנּוּ׃",
+                "שׁוֹרְךָ֞ טָב֣וּחַ לְעֵינֶ֗יךָ וְלֹ֣א תֹאכַל֮ מִמֶּ֒נּוּ֒ חֲמֹֽרְךָ֙ גָּז֣וּל מִלְּפָנֶ֔יךָ וְלֹ֥א יָשׁ֖וּב לָ֑ךְ צֹֽאנְךָ֙ נְתֻנ֣וֹת לְאֹיְבֶ֔יךָ וְאֵ֥ין לְךָ֖ מוֹשִֽׁיעַ׃",
+                "בָּנֶ֨יךָ וּבְנֹתֶ֜יךָ נְתֻנִ֨ים לְעַ֤ם אַחֵר֙ וְעֵינֶ֣יךָ רֹא֔וֹת וְכָל֥וֹת אֲלֵיהֶ֖ם כׇּל־הַיּ֑וֹם וְאֵ֥ין לְאֵ֖ל יָדֶֽךָ׃",
+                "פְּרִ֤י אַדְמָֽתְךָ֙ וְכׇל־יְגִ֣יעֲךָ֔ יֹאכַ֥ל עַ֖ם אֲשֶׁ֣ר לֹא־יָדָ֑עְתָּ וְהָיִ֗יתָ רַ֛ק עָשׁ֥וּק וְרָצ֖וּץ כׇּל־הַיָּמִֽים׃",
+                "וְהָיִ֖יתָ מְשֻׁגָּ֑ע מִמַּרְאֵ֥ה עֵינֶ֖יךָ אֲשֶׁ֥ר תִּרְאֶֽה׃",
+                "יַכְּכָ֨ה יְהֹוָ֜ה בִּשְׁחִ֣ין רָ֗ע עַל־הַבִּרְכַּ֙יִם֙ וְעַל־הַשֹּׁקַ֔יִם אֲשֶׁ֥ר לֹא־תוּכַ֖ל לְהֵרָפֵ֑א מִכַּ֥ף רַגְלְךָ֖ וְעַ֥ד קׇדְקֳדֶֽךָ׃",
+                "יוֹלֵ֨ךְ יְהֹוָ֜ה אֹתְךָ֗ וְאֶֽת־מַלְכְּךָ֙ אֲשֶׁ֣ר תָּקִ֣ים עָלֶ֔יךָ אֶל־גּ֕וֹי אֲשֶׁ֥ר לֹא־יָדַ֖עְתָּ אַתָּ֣ה וַאֲבֹתֶ֑יךָ וְעָבַ֥דְתָּ שָּׁ֛ם אֱלֹהִ֥ים אֲחֵרִ֖ים עֵ֥ץ וָאָֽבֶן׃",
+                "וְהָיִ֣יתָ לְשַׁמָּ֔ה לְמָשָׁ֖ל וְלִשְׁנִינָ֑ה בְּכֹל֙ הָֽעַמִּ֔ים אֲשֶׁר־יְנַהֶגְךָ֥ יְהֹוָ֖ה שָֽׁמָּה׃",
+                "זֶ֥רַע רַ֖ב תּוֹצִ֣יא הַשָּׂדֶ֑ה וּמְעַ֣ט תֶּאֱסֹ֔ף כִּ֥י יַחְסְלֶ֖נּוּ הָאַרְבֶּֽה׃",
+                "כְּרָמִ֥ים תִּטַּ֖ע וְעָבָ֑דְתָּ וְיַ֤יִן לֹֽא־תִשְׁתֶּה֙ וְלֹ֣א תֶאֱגֹ֔ר כִּ֥י תֹאכְלֶ֖נּוּ הַתֹּלָֽעַת׃",
+                "זֵיתִ֛ים יִהְי֥וּ לְךָ֖ בְּכׇל־גְּבוּלֶ֑ךָ וְשֶׁ֙מֶן֙ לֹ֣א תָס֔וּךְ כִּ֥י יִשַּׁ֖ל זֵיתֶֽךָ׃",
+                "בָּנִ֥ים וּבָנ֖וֹת תּוֹלִ֑יד וְלֹא־יִהְי֣וּ לָ֔ךְ כִּ֥י יֵלְכ֖וּ בַּשֶּֽׁבִי׃",
+                "כׇּל־עֵצְךָ֖ וּפְרִ֣י אַדְמָתֶ֑ךָ יְיָרֵ֖שׁ הַצְּלָצַֽל׃",
+                "הַגֵּר֙ אֲשֶׁ֣ר בְּקִרְבְּךָ֔ יַעֲלֶ֥ה עָלֶ֖יךָ מַ֣עְלָה מָּ֑עְלָה וְאַתָּ֥ה תֵרֵ֖ד מַ֥טָּה מָּֽטָּה׃",
+                "ה֣וּא יַלְוְךָ֔ וְאַתָּ֖ה לֹ֣א תַלְוֶ֑נּוּ ה֚וּא יִהְיֶ֣ה לְרֹ֔אשׁ וְאַתָּ֖ה תִּֽהְיֶ֥ה לְזָנָֽב׃",
+                "וּבָ֨אוּ עָלֶ֜יךָ כׇּל־הַקְּלָל֣וֹת הָאֵ֗לֶּה וּרְדָפ֙וּךָ֙ וְהִשִּׂיג֔וּךָ עַ֖ד הִשָּׁמְדָ֑ךְ כִּי־לֹ֣א שָׁמַ֗עְתָּ בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֛ר מִצְוֺתָ֥יו וְחֻקֹּתָ֖יו אֲשֶׁ֥ר צִוָּֽךְ׃",
+                "וְהָי֣וּ בְךָ֔ לְא֖וֹת וּלְמוֹפֵ֑ת וּֽבְזַרְעֲךָ֖ עַד־עוֹלָֽם׃",
+                "תַּ֗חַת אֲשֶׁ֤ר לֹא־עָבַ֙דְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּשִׂמְחָ֖ה וּבְט֣וּב לֵבָ֑ב מֵרֹ֖ב כֹּֽל׃",
+                "וְעָבַדְתָּ֣ אֶת־אֹיְבֶ֗יךָ אֲשֶׁ֨ר יְשַׁלְּחֶ֤נּוּ יְהֹוָה֙ בָּ֔ךְ בְּרָעָ֧ב וּבְצָמָ֛א וּבְעֵירֹ֖ם וּבְחֹ֣סֶר כֹּ֑ל וְנָתַ֞ן עֹ֤ל בַּרְזֶל֙ עַל־צַוָּארֶ֔ךָ עַ֥ד הִשְׁמִיד֖וֹ אֹתָֽךְ׃",
+                "יִשָּׂ֣א יְהֹוָה֩ עָלֶ֨יךָ גּ֤וֹי מֵרָחֹק֙ מִקְצֵ֣ה הָאָ֔רֶץ כַּאֲשֶׁ֥ר יִדְאֶ֖ה הַנָּ֑שֶׁר גּ֕וֹי אֲשֶׁ֥ר לֹא־תִשְׁמַ֖ע לְשֹׁנֽוֹ׃",
+                "גּ֖וֹי עַ֣ז פָּנִ֑ים אֲשֶׁ֨ר לֹא־יִשָּׂ֤א פָנִים֙ לְזָקֵ֔ן וְנַ֖עַר לֹ֥א יָחֹֽן׃",
+                "וְ֠אָכַ֠ל פְּרִ֨י בְהֶמְתְּךָ֥ וּפְרִֽי־אַדְמָתְךָ֮ עַ֣ד הִשָּׁמְדָךְ֒ אֲשֶׁ֨ר לֹא־יַשְׁאִ֜יר לְךָ֗ דָּגָן֙ תִּיר֣וֹשׁ וְיִצְהָ֔ר שְׁגַ֥ר אֲלָפֶ֖יךָ וְעַשְׁתְּרֹ֣ת צֹאנֶ֑ךָ עַ֥ד הַאֲבִיד֖וֹ אֹתָֽךְ׃",
+                "וְהֵצַ֨ר לְךָ֜ בְּכׇל־שְׁעָרֶ֗יךָ עַ֣ד רֶ֤דֶת חֹמֹתֶ֙יךָ֙ הַגְּבֹהֹ֣ת וְהַבְּצֻר֔וֹת אֲשֶׁ֥ר אַתָּ֛ה בֹּטֵ֥חַ בָּהֵ֖ן בְּכׇל־אַרְצֶ֑ךָ וְהֵצַ֤ר לְךָ֙ בְּכׇל־שְׁעָרֶ֔יךָ בְּכׇ֨ל־אַרְצְךָ֔ אֲשֶׁ֥ר נָתַ֛ן יְהֹוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ׃",
+                "וְאָכַלְתָּ֣ פְרִֽי־בִטְנְךָ֗ בְּשַׂ֤ר בָּנֶ֙יךָ֙ וּבְנֹתֶ֔יךָ אֲשֶׁ֥ר נָתַן־לְךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁר־יָצִ֥יק לְךָ֖ אֹיְבֶֽךָ׃",
+                "הָאִישׁ֙ הָרַ֣ךְ בְּךָ֔ וְהֶעָנֹ֖ג מְאֹ֑ד תֵּרַ֨ע עֵינ֤וֹ בְאָחִיו֙ וּבְאֵ֣שֶׁת חֵיק֔וֹ וּבְיֶ֥תֶר בָּנָ֖יו אֲשֶׁ֥ר יוֹתִֽיר׃",
+                "מִתֵּ֣ת <b>׀</b> לְאַחַ֣ד מֵהֶ֗ם מִבְּשַׂ֤ר בָּנָיו֙ אֲשֶׁ֣ר יֹאכֵ֔ל מִבְּלִ֥י הִשְׁאִֽיר־ל֖וֹ כֹּ֑ל בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁ֨ר יָצִ֥יק לְךָ֛ אֹיִבְךָ֖ בְּכׇל־שְׁעָרֶֽיךָ׃",
+                "הָרַכָּ֨ה בְךָ֜ וְהָעֲנֻגָּ֗ה אֲשֶׁ֨ר לֹֽא־נִסְּתָ֤ה כַף־רַגְלָהּ֙ הַצֵּ֣ג עַל־הָאָ֔רֶץ מֵהִתְעַנֵּ֖ג וּמֵרֹ֑ךְ תֵּרַ֤ע עֵינָהּ֙ בְּאִ֣ישׁ חֵיקָ֔הּ וּבִבְנָ֖הּ וּבְבִתָּֽהּ׃",
+                "וּֽבְשִׁלְיָתָ֞הּ הַיּוֹצֵ֣ת <b>׀</b> מִבֵּ֣ין רַגְלֶ֗יהָ וּבְבָנֶ֙יהָ֙ אֲשֶׁ֣ר תֵּלֵ֔ד כִּֽי־תֹאכְלֵ֥ם בְּחֹסֶר־כֹּ֖ל בַּסָּ֑תֶר בְּמָצוֹר֙ וּבְמָצ֔וֹק אֲשֶׁ֨ר יָצִ֥יק לְךָ֛ אֹיִבְךָ֖ בִּשְׁעָרֶֽיךָ׃",
+                "אִם־לֹ֨א תִשְׁמֹ֜ר לַעֲשׂ֗וֹת אֶת־כׇּל־דִּבְרֵי֙ הַתּוֹרָ֣ה הַזֹּ֔את הַכְּתֻבִ֖ים בַּסֵּ֣פֶר הַזֶּ֑ה לְ֠יִרְאָ֠ה אֶת־הַשֵּׁ֞ם הַנִּכְבָּ֤ד וְהַנּוֹרָא֙ הַזֶּ֔ה אֵ֖ת יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+                "וְהִפְלָ֤א יְהֹוָה֙ אֶת־מַכֹּ֣תְךָ֔ וְאֵ֖ת מַכּ֣וֹת זַרְעֶ֑ךָ מַכּ֤וֹת גְּדֹלֹת֙ וְנֶ֣אֱמָנ֔וֹת וׇחֳלָיִ֖ם רָעִ֥ים וְנֶאֱמָנִֽים׃",
+                "וְהֵשִׁ֣יב בְּךָ֗ אֵ֚ת כׇּל־מַדְוֵ֣ה מִצְרַ֔יִם אֲשֶׁ֥ר יָגֹ֖רְתָּ מִפְּנֵיהֶ֑ם וְדָבְק֖וּ בָּֽךְ׃",
+                "גַּ֤ם כׇּל־חֳלִי֙ וְכׇל־מַכָּ֔ה אֲשֶׁר֙ לֹ֣א כָת֔וּב בְּסֵ֖פֶר הַתּוֹרָ֣ה הַזֹּ֑את יַעְלֵ֤ם יְהֹוָה֙ עָלֶ֔יךָ עַ֖ד הִשָּׁמְדָֽךְ׃",
+                "וְנִשְׁאַרְתֶּם֙ בִּמְתֵ֣י מְעָ֔ט תַּ֚חַת אֲשֶׁ֣ר הֱיִיתֶ֔ם כְּכוֹכְבֵ֥י הַשָּׁמַ֖יִם לָרֹ֑ב כִּֽי־לֹ֣א שָׁמַ֔עְתָּ בְּק֖וֹל יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+                "וְ֠הָיָ֠ה כַּאֲשֶׁר־שָׂ֨שׂ יְהֹוָ֜ה עֲלֵיכֶ֗ם לְהֵיטִ֣יב אֶתְכֶם֮ וּלְהַרְבּ֣וֹת אֶתְכֶם֒ כֵּ֣ן יָשִׂ֤ישׂ יְהֹוָה֙ עֲלֵיכֶ֔ם לְהַאֲבִ֥יד אֶתְכֶ֖ם וּלְהַשְׁמִ֣יד אֶתְכֶ֑ם וְנִסַּחְתֶּם֙ מֵעַ֣ל הָאֲדָמָ֔ה אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּֽהּ׃",
+                "וֶהֱפִֽיצְךָ֤ יְהֹוָה֙ בְּכׇל־הָ֣עַמִּ֔ים מִקְצֵ֥ה הָאָ֖רֶץ וְעַד־קְצֵ֣ה הָאָ֑רֶץ וְעָבַ֨דְתָּ שָּׁ֜ם אֱלֹהִ֣ים אֲחֵרִ֗ים אֲשֶׁ֧ר לֹא־יָדַ֛עְתָּ אַתָּ֥ה וַאֲבֹתֶ֖יךָ עֵ֥ץ וָאָֽבֶן׃",
+                "וּבַגּוֹיִ֤ם הָהֵם֙ לֹ֣א תַרְגִּ֔יעַ וְלֹא־יִהְיֶ֥ה מָנ֖וֹחַ לְכַף־רַגְלֶ֑ךָ וְנָתַן֩ יְהֹוָ֨ה לְךָ֥ שָׁם֙ לֵ֣ב רַגָּ֔ז וְכִלְי֥וֹן עֵינַ֖יִם וְדַאֲב֥וֹן נָֽפֶשׁ׃",
+                "וְהָי֣וּ חַיֶּ֔יךָ תְּלֻאִ֥ים לְךָ֖ מִנֶּ֑גֶד וּפָֽחַדְתָּ֙ לַ֣יְלָה וְיוֹמָ֔ם וְלֹ֥א תַאֲמִ֖ין בְּחַיֶּֽיךָ׃",
+                "בַּבֹּ֤קֶר תֹּאמַר֙ מִֽי־יִתֵּ֣ן עֶ֔רֶב וּבָעֶ֥רֶב תֹּאמַ֖ר מִֽי־יִתֵּ֣ן בֹּ֑קֶר מִפַּ֤חַד לְבָֽבְךָ֙ אֲשֶׁ֣ר תִּפְחָ֔ד וּמִמַּרְאֵ֥ה עֵינֶ֖יךָ אֲשֶׁ֥ר תִּרְאֶֽה׃",
+                "וֶהֱשִֽׁיבְךָ֨ יְהֹוָ֥ה <span class=\"hebrew-emphasis\">׀</span> מִצְרַ֘יִם֮ בׇּאֳנִיּוֹת֒ בַּדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אָמַ֣רְתִּֽי לְךָ֔ לֹא־תֹסִ֥יף ע֖וֹד לִרְאֹתָ֑הּ וְהִתְמַכַּרְתֶּ֨ם שָׁ֧ם לְאֹיְבֶ֛יךָ לַעֲבָדִ֥ים וְלִשְׁפָח֖וֹת וְאֵ֥ין קֹנֶֽה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "אֵ֩לֶּה֩ דִבְרֵ֨י הַבְּרִ֜ית אֲֽשֶׁר־צִוָּ֧ה יְהֹוָ֣ה אֶת־מֹשֶׁ֗ה לִכְרֹ֛ת אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל בְּאֶ֣רֶץ מוֹאָ֑ב מִלְּבַ֣ד הַבְּרִ֔ית אֲשֶׁר־כָּרַ֥ת אִתָּ֖ם בְּחֹרֵֽב׃ <span class=\"mam-spi-pe\">{פ}</span><br>"
+              ],
+              "link": "/Deuteronomy/28",
+              "ref": "Deuteronomy 28",
+              "sourceHeRef": "דברים כ״ח",
+              "sourceRef": "Deuteronomy 28"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said,</b> in rejection of this proof: <b>Actually,</b> it is possible <b>that</b> a fetus shaped like an animal <b>can survive; but it is different there,</b> with regard to inheritance. The son that follows such a fetus has the status of a firstborn, <b>as the verse states</b> with regard to the inheritance of a firstborn: “By giving him a double portion of all that he has; for he is <b>the first fruits of his strength [<i>ono</i>];</b> the right of the firstborn is his” (Deuteronomy 21:17). It is derived from the verse that the status of a firstborn applies only to a son <b>over whose</b> death a father would <b>mourn.</b> The word <i>ono</i> is interpreted homiletically based on its similarity to the word <i>onen</i>, acute mourner. <b>This</b> offspring that has the form of an animal is therefore <b>excluded, as</b> its father <b>would not mourn over its</b> death.",
+      "he": "אמר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רבא</span> לעולם דחיי ושאני התם דאמר קרא (דברים כח ) ראשית אונו מי שלבו דוה עליו יצא זה שאין לבו דוה עליו",
+      "ref": "Niddah 23b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אדם במעי בהמה</strong> - שחטה ומצא בה דמות אדם מהו מי אמרינן כי היכי דאזיל ר\"מ בתר אימיה הכי נמי זיל בתר בהמה ושרי לאכילה:",
+              "ref": "Rashi on Niddah 23b:4:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ד:א",
+              "sourceRef": "Rashi on Niddah 23b:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> ודנים עוד בשיטת ר' מאיר. <b>בעא מיניה</b> <span class=\"hebrew-emphasis\">[שאל ממנו]</span> <b>רב אדא בר אהבה מאביי: ל</b>שיטת <b>ר' מאיר,</b> ש<b>אמר</b> כי חתיכה בדמות <b>בהמה</b> הנמצאת <b>במעי אשה</b> — כ<b>ולד מעליא</b> <span class=\"hebrew-emphasis\">[מעולה,</span> גמור<span class=\"hebrew-emphasis\">]</span> <b>הוא</b> נחשב, יש לברר, דמות <b>אדם</b> הנמצאת <b>במעי בהמה</b> כשרה <b>מאי</b> <span class=\"hebrew-emphasis\">[מה]</span> דינה? ומסבירים: <b>למאי נפקא מיניה</b> <span class=\"hebrew-emphasis\">[מה יוצא מזה,</span> לאיזה ענין המדובר — <b>לאשתרויי</b> <span class=\"hebrew-emphasis\">[להתירה]</span> את אותה חתיכה <b>באכילה,</b> אם נשחטה הבהמה, וכדין עובר הנמצא במעי אמו שנשחטה שמותר באכילה, אף שהוא עצמו לא נשחט.",
+              "ref": "Steinsaltz on Niddah 23b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:ד",
+              "sourceRef": "Steinsaltz on Niddah 23b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שאלת רב אדא בר אהבה נשאלה רק לשיטת ר' מאיר, שיש מקום לדון בהיתרה של חתיכה בדמות אדם הנמצאת במעי בהמה. אכן דעת חכמים החולקים על ר' מאיר לא התבררה במקרה זה. ויש מהראשונים שכתבו כי פשוט היה לרב אדא בר אהבה כי לשיטת חכמים חתיכה זו מותרת, שהרי אין היא ולד לדעתם (תוס' ד\"ה ומצא, בתירוצם השני). ויש שכתבו שלדעת חכמים חתיכה זו אסורה, וכל שאלתו של רב אדא בר אהבה אינה אלא לשיטת ר' מאיר (מאירי). אכן אף לדעת ר' מאיר אין הבעיה אלא כאשר נמצאת חתיכה זו בתוך מעי הבהמה, ואולם אם כבר נולדה חתיכה זו, הריהי אסורה אף לשיטת ר' מאיר, שהרי נפל הוא זה, שאינו מתקיים.",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:4",
+              "sourceHeRef": "לר' מאיר דאמר בהמה במעי אשה ולד מעליא הוא",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-adda-b-ahavah-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-אדא-בר-אהבה-(ambiguous)\">Rav Adda bar Ahava</span> asked <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span>: According to <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>, who said</b> that an item that is similar to <b>an animal in the womb of a woman is</b> considered <b>a full-fledged offspring, what</b> is the <i>halakha</i> with regard to <b>a human</b> fetus <b>in the womb of an animal?</b> The Gemara explains: <b>What is the</b> practical <b>difference</b> of this inquiry? The difference is <b>with regard to permitting</b> the fetus <b>in consumption.</b> A full-fledged fetus found inside its slaughtered mother is permitted to be eaten, despite the fact that it was not slaughtered itself.",
+      "he": "בעא מיניה <span href=\"/topics/rav-adda-b-ahavah-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-אדא-בר-אהבה-(ambiguous)\">רב אדא בר אהבה</span> <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">מאביי</span> לרבי מאיר דאמר בהמה במעי אשה ולד מעליא הוא אדם במעי בהמה מאי למאי נפקא מיניה לאשתרויי באכילה",
+      "ref": "Niddah 23b:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תוס'</b> בד\"ה מוצא בה כו' אלא אדם כו' כצ\"ל:",
+              "ref": "Chokhmat Shlomo on Niddah 23b:5",
+              "sourceHeRef": "חכמת שלמה על נדה כ״ג ב:ה",
+              "sourceRef": "Chokhmat Shlomo on Niddah 23b:5"
+            }
+          ]
+        },
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ד\"ה</b> ומצא בה דמות יונה וכו' וא\"ת ודלמא לרבנן וכו'. ר\"ל לפרש\"י דמשמע דלרבנן פשיטא ליה דאסור ולא מיבעיא ליה אלא לר\"מ דאזיל בתר אמיה א\"כ קשה מאי פריך ותפשוט ליה מהא וכו' ודלמא ההיא דר\"י אתי כרבנן ולא כר\"מ ותירץ וי\"ל דא\"כ הל\"ל לרבנן וכו' ומדלא קאמר הכי ש\"מ דאתי ככולי עלמא אפי' לר\"מ:",
+              "ref": "Maharam on Niddah 23b:1",
+              "sourceHeRef": "מהר\"ם על נדה כ״ג ב:א",
+              "sourceRef": "Maharam on Niddah 23b:1"
+            },
+            {
+              "en": "",
+              "he": "<b>[בא\"ד]</b> א\"נ י\"ל וכו'. ר\"ל דאין הפי' כפרש\"י אלא בהפך דגמ' ס\"ל דלרבנן פשיטא ליה דשרי דלא מיבעיא ליה אלא לר\"מ דבקל עושהו ולד והשתא פשיט שפיר מההיא דיונה דאפילו לרבנן אסור וכ\"ש לר\"א דמסתמא לרבנן קאמר ר\"י למלתיה ואת\"ל דלר\"מ קאמר מ\"מ תפשוט מינה בעיין:",
+              "ref": "Maharam on Niddah 23b:2",
+              "sourceHeRef": "מהר\"ם על נדה כ״ג ב:ב",
+              "sourceRef": "Maharam on Niddah 23b:2"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna states: If, prior to slaughtering an animal, one <b>severed</b> pieces <b>from a fetus</b> that is in its womb, leaving those pieces in the womb, their consumption is permitted by virtue of the slaughter of the mother animal. The Gemara asks: <b>From where do we</b> derive this <i>halakha</i>? It is derived from a verse, <b>as it is written: “And every animal that has a split hoof</b> and is cloven into two hooves, chews the cud, of the animals, it you may eat” (Deuteronomy 14:6). The term “of the animals [<i>babehema</i>]” is translated literally as: In the animal, and is referring to the term “every animal” mentioned at the beginning of the verse. Accordingly, the verse may be read as saying: Every <b>animal in the animal</b> you may eat, and is referring to a fetus inside its mother. It therefore serves <b>to include the offspring,</b> i.e., the fetus, as being permitted by its mother’s slaughter, even if parts of the fetus had been severed.",
+                  "The Gemara objects: <b>If that is so,</b> that the phrase: Every animal of the animals, is referring to a fetus, then one should be able to <b>substitute</b> a non-sacred animal <b>for</b> the sanctified fetus of a pregnant offering, i.e., the non-sacred animal should become consecrated through the attempt to do so. This is because the verse referring to substitution also uses that phrase: “And if he shall substitute an animal for an animal [<i>behema bivhema</i>], it and its substitute shall be consecrated” (Leviticus 27:10). There too, the phrase “an animal for an animal” translates literally as: An animal in an animal.",
+                  "<b>Why,</b> then, <b>did we learn</b> in a mishna (<i>Temura</i> 10a): <b>One cannot substitute limbs</b> of a non-sacred animal <b>for fetuses</b> of pregnant offerings, i.e., those limbs will not thereby be consecrated; <b>and</b> one <b>cannot</b> substitute <b>fetuses</b> of non-sacred animals <b>for limbs</b> of an offering, <b>and</b> one <b>cannot</b> substitute <b>limbs and fetuses</b> of non-sacred animals <b>for whole</b> offerings, <b>and</b> one <b>cannot</b> substitute <b>whole,</b> non-sacred animals <b>for them,</b> i.e., limbs and fetuses of offerings?",
+                  "<b>Rather,</b> the <i>halakha</i> that a fetus and its severed pieces are permitted to be consumed by virtue of the slaughter of the mother animal is derived from that which <b>the verse states: “And every animal.”</b> The term “and every” serves <b>to include the offspring,</b> i.e., the fetus, as being permitted, even if parts of it had been severed.",
+                  "The Gemara objects: <b>If so,</b> then <b>even</b> if <b>one severs</b> pieces <b>of the spleen or of the kidneys</b> of an animal, those pieces should be permitted <b>as well. Why,</b> then, <b>did we learn</b> in the mishna: If one <b>severed</b> pieces <b>from a fetus that was in</b> its <b>womb,</b> leaving those pieces in the womb, their <b>consumption</b> is <b>permitted</b> by virtue of the slaughter of the mother animal, but if one severed pieces <b>of the spleen or of the kidneys</b> of an animal and then slaughtered it their <b>consumption</b> is <b>prohibited?</b> The Gemara explains: That <b>verse states:</b> “Of the animal, <b>it</b> you may eat,” which indicates that slaughter permits consumption of only the <b>whole</b> animal, <b>but not</b> of the parts of the animal that it is <b>lacking,</b> i.e., the parts that were severed.",
+                  "The Gemara objects: <b>If that is so,</b> that the <i>halakha</i> is derived from the term “and every animal,” then even in the case of <b>one who slaughters an animal and finds a dove-shaped</b> fetus <b>in it, it should be permitted. Why,</b> then, <b>does Rabbi Yoḥanan say: One who slaughters an animal and finds a dove-shaped</b> fetus <b>in it,</b> that fetus is <b>prohibited for consumption?</b>"
+                ],
+                [
+                  "The Gemara explains: In order for the fetus to be permitted, <b>I require</b> that it have <b>hooves,</b> and a dove-shaped fetus <b>does not have</b> hooves.",
+                  "The Gemara objects: <b>If that is so,</b> that the fetus is permitted only if it fulfills the conditions mentioned in that verse, then a fetus with <b>non-cloven</b> hooves found <b>inside a cow’s womb should be forbidden,</b> whereas the <i>baraita</i> cited on 68b states that it is permitted. The Gemara answers: <b>This</b> is as <b>the school of Rabbi Yishmael taught in accordance with</b> the opinion of <b>Rabbi Shimon ben Yoḥai:</b> Each phrase in the verse is taken as a sufficient condition. Furthermore, the term “hoof” can be understood independently of the phrase “cloven into two hooves,” and is referring to a non-cloven hoof. Accordingly, the verse can be interpreted as teaching: An animal that has <b>a hoof, in the animal,</b> it <b>you may eat,</b> and teaches that even a fetus with a non-cloven hoof is permitted.",
+                  "<b>Rav Shimi bar Ashi said: Actually,</b> the <i>halakha</i> that the fetus and its severed pieces are permitted <b>should be</b> derived <b>as you</b> previously <b>said,</b> i.e., from the phrase: An animal in the animal. <b>And</b> with regard to <b>that which posed a difficulty for you,</b> i.e., the mishna in <i>Temura</i> that states <b>one cannot substitute</b> a non-sacred animal for the fetus of a pregnant offering, that difficulty can be resolved by saying: In accordance with <b>whose</b> opinion <b>is this? It is</b> the opinion of <b>Rabbi Shimon, who compares substitution to</b> the animal <b>tithe: Just as the</b> animal <b>tithe does not apply to limbs and fetuses</b> but only to live animals that can walk, as it is stated: “Whatever passes under the rod” (Leviticus 27:32), <b>so too, substitution does not apply to limbs and fetuses.</b>",
+                  "The Gemara asks: <b>And from where do you say</b> that this mishna expresses the opinion of Rabbi Shimon? The Gemara explains: <b>As we learned</b> in the same mishna (<i>Temura</i> 10a) that <b>Rabbi Yosei says: But with regard to consecrated</b> offerings, if <b>one says the leg of this</b> animal <b>is a burnt offering,</b> then <b>all of</b> the animal <b>is</b> consecrated as <b>a burnt offering.</b> Accordingly, <b>even</b> with regard to substitution, if one says: <b>The leg of this</b> non-sacred animal should be substituted <b>instead of that</b> offering, <b>the entire</b> animal <b>should be a substitute in its stead.</b>",
+                  "Rabbi Yosei clearly disagrees with the opinion that substituting a limb is not possible. But Rabbi Yosei’s formulation indicates that even according to that opinion, if a single limb is consecrated then the entire animal becomes consecrated. The Gemara clarifies: <b>To whom is</b> Rabbi Yosei <b>responding? If we say</b> he is responding <b>to Rabbi Meir and Rabbi Yehuda, do they accept this reasoning? But isn’t it taught</b> in a <i>baraita</i>: One <b>might</b> have thought that in the case of <b>one who says: The leg of this</b> animal <b>is a burnt offering, all of it will be a burnt offering.</b> Therefore, <b>the verse states:</b> “And if it is an animal of those that they bring as an offering to the Lord, <b>anything of it that one gives to the Lord, it shall be sacred”</b> (Leviticus 27:9). The verse indicates that the part <b>of it</b> that one gives will be <b>sacred, but all of it</b> will <b>not</b> be <b>sacred.</b>",
+                  "A non-sacred animal with a consecrated limb may not be sacrificed. Accordingly, one <b>might</b> have thought the consecrated limb may be redeemed and thereby <b>transferred to non-sacred</b> status. Therefore, <b>the verse states: “It shall be</b> sacred,” indicating that <b>it shall</b> remain <b>as it is. How</b> is <b>this</b> possible? The animal <b>should be sold for the needs of burnt offerings,</b> i.e., to an individual who will sacrifice the entire animal as a burnt offering, <b>and the payment</b> received <b>for</b> the animal will be <b>non-sacred, except for the payment</b> received in exchange <b>for</b> that one <b>limb</b> that is consecrated. This is <b>the statement of Rabbi Meir and Rabbi Yehuda.</b>",
+                  "<b>Rabbi Yosei and Rabbi Shimon say: From where</b> is it derived <b>that</b> in the case of <b>one who says: The leg of this</b> animal <b>is a burnt offering, all of it becomes a burnt offering? The verse states: “It shall be</b> sacred.” This serves <b>to include all of</b> the animal, indicating that it all becomes sacred.",
+                  "The Gemara reiterates its question: <b>To whom is</b> Rabbi Yosei responding? Rabbi Yosei clearly disagrees with the opinion that if a single limb is consecrated then the entire animal becomes consecrated. <b>If we say</b> he is responding <b>to Rabbi Meir and Rabbi Yehuda, do they accept this reasoning? Rather, isn’t</b> Rabbi Yosei responding <b>to Rabbi Shimon,</b> as the Gemara suggests above in resolution of the difficulty from the mishna in <i>Temura</i>?",
+                  "The Gemara responds: <b>No,</b> it is possible that Rabbi Yosei is not responding directly to any other opinion; rather, <b>he stated his own reasoning,</b> without reference to that of another Sage. Consequently, his statement affords no proof that the mishna in <i>Temura</i> expresses the opinion of Rabbi Shimon."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Chullin 69a:19",
+                "Chullin 69a:20",
+                "Chullin 69a:21",
+                "Chullin 69a:22",
+                "Chullin 69a:23",
+                "Chullin 69a:24",
+                "Chullin 69b:1",
+                "Chullin 69b:2",
+                "Chullin 69b:3",
+                "Chullin 69b:4",
+                "Chullin 69b:5",
+                "Chullin 69b:6",
+                "Chullin 69b:7",
+                "Chullin 69b:8",
+                "Chullin 69b:9"
+              ],
+              "he": [
+                [
+                  "חותך מעובר וכו': מנלן דכתיב <span class=\"parenthesized\">(דברים יד, ו)</span> וכל בהמה מפרסת פרסה וגו' בהמה בבהמה לרבות את הולד",
+                  "אלא מעתה ימירו בו",
+                  "אלמה תנן אין ממירין לא אברין בעוברין ולא עוברין באברין ולא אברין ועוברין בשלמין ולא שלמין בהן",
+                  "אלא אמר קרא <span class=\"parenthesized\">(דברים יד, ו)</span> וכל בהמה לרבות את הולד",
+                  "אי הכי אפילו חותך מן הטחול ומן הכליות נמי אלמה תנן חותך מן העובר שבמעיה מותר באכילה מן הטחול ומן הכליות אסור באכילה אמר קרא אותה שלמה ולא חסרה",
+                  "אלא מעתה השוחט את הבהמה ומצא בה דמות יונה תשתרי אלמה אמר רבי יוחנן השוחט את הבהמה ומצא בה דמות יונה אסור באכילה"
+                ],
+                [
+                  "בעינא פרסות וליכא",
+                  "אלא מעתה קלוט במעי פרה ליתסר הא תנא דבי ר' ישמעאל כרבי שמעון בן יוחי <span class=\"parenthesized\">(דברים יד, ו)</span> פרסה בבהמה תאכלו",
+                  "רב שימי בר אשי אמר לעולם כדקאמרת מעיקרא ודקא קשיא לך אין ממירין הא מני רבי שמעון היא דמקיש תמורה למעשר מה מעשר אינו נוהג באברים ועוברים אף תמורה אינה נוהגת באברים ועוברים",
+                  "ומנא תימרא דתנן אמר רבי יוסי והלא במוקדשים האומר רגלה של זו עולה כולה עולה אף כשיאמר רגל של זו תחת זו תהא כולה תמורה תחתיה",
+                  "למאן קא מהדר ליה אילימא לרבי מאיר ורבי יהודה מי אית להו האי סברא והתניא יכול האומר רגלה של זו עולה תהא כולה עולה תלמוד לומר <span class=\"parenthesized\">(ויקרא כז, ט)</span> כל אשר יתן ממנו לה' יהיה קדש ממנו קדש ולא כולו קדש",
+                  "יכול תצא לחולין תלמוד לומר יהיה בהוייתה תהא הא כיצד תמכר לצרכי עולות ודמיה חולין חוץ מדמי אבר שבה דברי רבי מאיר ורבי יהודה",
+                  "רבי יוסי ורבי שמעון אומרים מנין לאומר רגלה של זו עולה תהא כולה עולה תלמוד לומר יהיה לרבות את כולה",
+                  "למאן אי לרבי מאיר ורבי יהודה מי אית להו האי סברא אלא לאו לרבי שמעון",
+                  "לא רבי יוסי טעמא דנפשיה קאמר:"
+                ]
+              ],
+              "link": "/Chullin/69a",
+              "originalRefsBeforeRewriting": [
+                "Chullin 69a:24"
+              ],
+              "ref": "Chullin 69a:19-69b:9",
+              "sourceHeRef": "חולין ס״ט א",
+              "sourceRef": "Chullin 69a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Similarly, when [a fetus] resembling a fowl is found within a [slaughtered] animal, it is forbidden to be eaten. [This applies] even if it resembles a kosher fowl. [For when a fetus] is discovered in an animal, only one which has a hoof is permitted.",
+              "he": "וְכֵן בְּהֵמָה שֶׁנִּמְצָא בָּהּ דְּמוּת עוֹף אַף עַל פִּי שֶׁהוּא עוֹף טָהוֹר הֲרֵי זֶה אָסוּר בַּאֲכִילָה. לֹא הֻתַּר מִן הַנִּמְצָא בַּבְּהֵמָה אֶלָּא מַה שֶּׁיֵּשׁ לוֹ פַּרְסָה:",
+              "ref": "Mishneh Torah, Forbidden Foods 1:7",
+              "sourceHeRef": "הלכות מאכלות אסורות א:ז",
+              "sourceRef": "Forbidden Foods 1:7"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ותפשוט מהא דאמר ר׳ יוחנן וכו'.</b> ק״ל דדילמא ההיא לרבנן היא דלית להו לדר״מ והלכתא כוותיהו וי״ל דקים להו דר׳ יוחנן לכ״ע אמרה והתם בפ׳ המקשה הכי מונח דלכ״ע היא.",
+              "ref": "Ritva on Niddah 23b:2",
+              "sourceHeRef": "ריטב\"א על נדה כ״ג ב:ב",
+              "sourceRef": "Ritva on Niddah 23b:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "[The following laws apply when a fetus] is created with its windpipe closed, its body lacking [form] from the navel downward, but instead is a mass of flesh, its skull being merely a mass of flesh, its face was amorphous and its features could not be distinguished, it has two backs and two backbones, the contours of the head of the fetus she discharged could not be distinguished, or the contours of its hand could not be distinguished, the mother is not impure due to birth.<br>If, however, she miscarried and discharged a hand or a foot that was cut off, we operate under the assumption that it came from a complete fetus and it is included in the sum of the majority of its limbs.",
+                      "he": "נִבְרָא וֵשֶׁט שֶׁלּוֹ אָטוּם אוֹ שֶׁהָיָה חָסֵר מִטִּבּוּרוֹ וּלְמַטָּה וַהֲרֵי הוּא אָטוּם. אוֹ שֶׁהָיְתָה גֻּלְגָּלְתּוֹ אֲטוּמָה. אוֹ שֶׁהָיוּ פָּנָיו טוּחוֹת וְאֵין בָּהֶן הֶכֵּר פָּנִים. אוֹ שֶׁיֵּשׁ לוֹ שְׁנֵי גַּבִּין וּשְׁתֵּי שְׁדֵרוֹת. אוֹ שֶׁהִפִּילָה בְּרִיַּת רֹאשׁ שֶׁאֵינוֹ חָתוּךְ. אוֹ יָד שֶׁאֵינוֹ חָתוּךְ. כָּל נֵפֶל מֵאֵלּוּ אֵינוֹ וָלָד וְאֵין אִמּוֹ טְמֵאָה לֵדָה. אֲבָל אִם הִפִּילָה יָד חֲתוּכָה וְרֶגֶל חֲתוּכָה הֲרֵי חֶזְקָתָהּ מִוָּלָד שָׁלֵם וּמִצְטָרְפִין לְרֹב אֵיבָרָיו:",
+                      "ref": "Mishneh Torah, Forbidden Intercourse 10:11",
+                      "sourceHeRef": "הלכות איסורי ביאה י:יא",
+                      "sourceRef": "Forbidden Intercourse 10:11"
+                    }
+                  ]
+                }
+              },
+              "en": "Seif 5 If after slaughtering an animal we find (a fetus) that resembles a fowl, although it resembles a kosher fowl, it is forbidden to eaten; When a fetus is found in an animal it is not allowed unless it has hooves.",
+              "he": "השוחט את הבהמה ומצא בה דמות עוף. אע\"פ שהוא עוף טהור. הרי זה אסור באכילה. לא הותר מן הנמצא בבהמה אלא מה שיש לו פרסה: <span class=\"hebrew-emphasis\">הגה וי\"א דאפילו פרסותיו קלוטות רק שיהא דומה לבהמה שבמינה מין שיש לו פרסה (עיין ס\"ק ך'):</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 13:5",
+              "sourceHeRef": "יורה דעה יג:ה - בעלי חיים שאינם צריכים שחיטה.",
+              "sourceRef": "Yoreh De'ah 13:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים: <b>ותפשוט ליה מהא</b> <span class=\"hebrew-emphasis\">[ותיפתר לו</span> לרב אדא בר אהבה שאלתו, <span class=\"hebrew-emphasis\">מ</span>הלכה <span class=\"hebrew-emphasis\">זו]</span> שאמר <b>ר' יוחנן,</b> שכך <b>אמר ר'</b> <b>יוחנן: השוחט את הבהמה, ומצא בה דמות יונה</b> — <b>אסורה באכילה.</b> שאין שחיטת האם מועילה אלא לעובר שהוא בן מינה, ולא לנמצא במעיה שאינו בן מינה. ומכאן שאף דמות אדם הנמצאת במעי בהמה אינה ניתרת באכילה על ידי שחיטת האם!",
+              "ref": "Steinsaltz on Niddah 23b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:ה",
+              "sourceRef": "Steinsaltz on Niddah 23b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one slaughters a pregnant animal and finds in its womb an item that has the form of a bird, even a kosher bird, the fetus is forbidden for consumption. A fetus found in the womb of a slaughtered animal is permitted for consumption only if it has hooves. The <i>Shakh</i> adds that according to the Rambam and the <i>Shulĥan Arukh</i>, even if the fetus has the appearance of an animal that has hooves, if it does not actually have hooves, it is forbidden. The Rema writes that it is not necessary for its hooves to be split, i.e., if it looks like an animal with hooves, even one that does not have split hooves, it is permitted for consumption (Rambam <i>Sefer Kedusha</i>,<i> Hilkhot Ma’akhalot Assurot</i> 1:7;<i> Shulĥan Arukh</i>,<i> Yoreh De’a</i> 13:5).",
+              "he": "הקשו ראשונים, שהרי ניתן היה לדחות ולומר, שאין זה פתרון לבעיית רב אדא בר אהבה כיון שזו לא נשאלה אלא לשיטת ר' מאיר, ואילו דברי ר' יוחנן היו לשיטת חכמים. והשיבו, כי אפשר היה לדחות כך, ואולם העדיפו לדחות בהבחנה עקרונית בין דמות יונה לדמות אדם (תוהרא\"ש). ויש שהשיבו שאין להעמיד את דברי ר' יוחנן כמתייחסים לשיטת חכמים דווקא, שכן אילו כך היה — היה לו לר' יוחנן לציין כן במפורש (תוס' ד\"ה ומצא, בתירוצם הראשון). ועוד השיבו כי אף אם דברי ר' יוחנן אמורים לדעת חכמים, יש בכך פתרון לשאלת רב אדא בר אהבה. שכן לא שאל אלא לדעת ר' מאיר, אבל לדעת חכמים ברור לו שחתיכה זו מותרת, שאין לדעתם היא נחשבת \"ולד\". ומעתה מביאים ראיה מדברי ר' יוחנן שאמר שדמות יונה נחשבת כולד, אף לדעת חכמים, וכל שכן שכן הדין לדעת ר' מאיר (תוס' שם בתירוצם השני).",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:5",
+              "sourceHeRef": "הַשּׁוֹחֵט אֶת הַבְּהֵמָה וּמָצָא בָּהּ דְּמוּת יוֹנָה",
+              "sourceRef": "One who slaughters an animal and finds in it the form of a pigeon"
+            },
+            {
+              "en": "",
+              "he": "השוחט את הבהמה ומצא בה דמות עוף, ואפילו עוף טהור, הריהו אסור באכילה. שלא הותר מן הנמצא בבהמה, אלא מה שיש לו פרסה (שאינו נראה רק ממין שיש לו פרסה, אלא שיש לו פרסה בפועל. ש\"ך). כר' יוחנן. וכתב הרמ\"א שיש אומרים שאם הוא דומה לבהמה שבמינה מין שיש לו פרסה, אפילו היו פרסותיו קלוטות הריהו מותר באכילה (וראה ש\"ך). (רמב\"ם ספר קדושה הלכות מאכלות אסורות פ\"א ה\"ז. שו\"ע יו\"ד יג, ה).",
+              "ref": "Steinsaltz comment #2 on Niddah 23b:5",
+              "sourceHeRef": "השוחט את הבהמה ומצא בה דמות יונה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומצא בה דמות יונה</strong> - וא\"ת ודילמא לרבנן ולא לר\"מ וי\"ל דא\"כ ה\"ל לר' יוחנן למימר לרבנן מצא בה דמות יונה כו' א\"נ י\"ל דלא מיבעיא ליה אלא לר\"מ דבדבר קל עושהו ולד בהמה במעי אדם ואדם במעי בהמה נמי קרוי ולד או לא אבל לרבנן פשיטא ליה דשרי דלא מיקרי ולד אלא אדם במעי אשה ומייתי ראיה מר' יוחנן דאמר אסורה אפילו לרבנן וכ\"ש לרבי מאיר:",
+              "ref": "Tosafot on Niddah 23b:5:1",
+              "sourceHeRef": "תוספות על נדה כ״ג ב:ה:א",
+              "sourceRef": "Tosafot on Niddah 23b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara suggests: <b>But</b> one can <b>resolve</b> the dilemma <b>from that</b> statement <b>of <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span>, as <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> said:</b> In the case of <b>one who slaughters an animal and finds in it</b> an item that has <b>the form of a pigeon,</b> the pigeon <b>is prohibited for consumption.</b> Evidently, the ritual slaughter of a pregnant animal renders its fetus permitted to be eaten only if the fetus is of the same species as the mother. Accordingly, if the fetus has the form of a human, it is prohibited for consumption.",
+      "he": "ותפשוט ליה מהא <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">דר' יוחנן</span> <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">דא\"ר יוחנן</span> השוחט את הבהמה ומצא בה דמות יונה אסורה באכילה",
+      "ref": "Niddah 23b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עוף אין לו פרסה</strong> - אבל אדם נהי דפרסות ליכא שאין פרסותיו סדוקות שאין לו שני עקבים כמו לבהמה:",
+              "ref": "Rashi on Niddah 23b:6:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ו:א",
+              "sourceRef": "Rashi on Niddah 23b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פרסה מיהא איכא</strong> - וכתיב <span class=\"parenthesized\">(ויקרא י״א:ג׳)</span> כל מפרסת פרסה בבהמה תאכלו דאם נמצא תוך מעי בהמה קלוט כל זמן שלא יצא לאויר העולם אע\"ג דאין לו אלא פרסה אוכלו ואפילו לר\"ש דאמר קלוט בן פרה אסור מודה הוא דאם נשחטה אמו ונמצא במעיה דמותר והכי מפרש בפרק בהמה המקשה <span class=\"parenthesized\">(חולין סח:)</span>:",
+              "ref": "Rashi on Niddah 23b:6:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ו:ב",
+              "sourceRef": "Rashi on Niddah 23b:6:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>התם לא פרס איכא ולא פרסות איכא.</b> ואנן דרשינן התם כי פרסה בבהמה אותה תאכלו כדאיתא בפ׳ בהמה המקשה.",
+              "ref": "Ritva on Niddah 23b:3",
+              "sourceHeRef": "ריטב\"א על נדה כ״ג ב:ג",
+              "sourceRef": "Ritva on Niddah 23b:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>הכי השתא</b> <span class=\"hebrew-emphasis\">[כך עכשיו</span> אתה משווה את הדברים<span class=\"hebrew-emphasis\">]?</span> <b>התם</b> <span class=\"hebrew-emphasis\">[שם,</span> בדמות יונה הנמצאת במעי הבהמה<span class=\"hebrew-emphasis\">]</span> — <b>לא פרסות</b> (פרסה שסועה הנראית כשתים) <b>איכא</b> <span class=\"hebrew-emphasis\">[יש]</span> ליונה, <b>ולא פרסה</b> אחת איכא <span class=\"hebrew-emphasis\">[יש]</span> לה. אבל <b>הכא</b> <span class=\"hebrew-emphasis\">[כאן,</span> בדמות אדם במעי הבהמה<span class=\"hebrew-emphasis\">]</span> — <b>נהי</b> <span class=\"hebrew-emphasis\">[אכן]</span> <b>פרסות ליכא</b> <span class=\"hebrew-emphasis\">[אין]</span> לו לאדם, ואולם <b>פרסה מיהא איכא</b> <span class=\"hebrew-emphasis\">[לפחות יש]</span> לאדם. ולא נפתרה איפוא בעיה זו.",
+              "ref": "Steinsaltz on Niddah 23b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:ו",
+              "sourceRef": "Steinsaltz on Niddah 23b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שכן בהגדרת הבהמה הכשרה, המותרת באכילה, נאמר בתורה \"כל מפרסת פרסה ושוסעת שסע פרסות מעלת גרה בבהמה אותה תאכלו\" (ויקרא יא, ג). ומדרשת פסוק זה למדו חכמים כי \"בהמה בבהמה תאכלו\" — שאף עובר בהמה הנמצא במעיה מותר באכילה, לכשנשחטה אמו. ואולם אין היתר זה אמור אלא כאשר לעובר יש פרסות או לפחות פרסה אחת (וכעין שיש לאדם, הגם שאין זו פרסה שסועה, ולכך אין מתקיים בו \"פרסות\"). מה שאין כן בעוף, שאין לו פרסה כלל.",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:6",
+              "sourceHeRef": "לא פרסות איכא ולא פרסה איכא",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "ובכך נדחה הפתרון לבעייתו של רב אדא בר אהבה, ונותרה הבעיה בלא שנפתרה. ושאלו אחרונים, מדוע לא סוכמה הבעיה, כדרך הרגילה בתלמוד, בלשון \"תיקו\" (תעמוד הבעיה במקומה)?! והסבירו שאין התלמוד מסכם בעיה שלא נפתרה בלשון \"תיקו\" אלא כאשר הבעיה הינה הלכה למעשה. ואולם כאשר אין הבעיה נוגעת למעשה, אף כשהבעיה לא נפתרה, אין התלמוד מסכם בה בלשון \"תיקו\". והוא הדין אף בבעיה זו של רב אדא, שהרי נשאלת לשיטתו של ר' מאיר (יעוין ב\"עיונים\" למעלה), שאין הלכה כמותו (ערל\"נ).",
+              "ref": "Steinsaltz comment #2 on Niddah 23b:6",
+              "sourceHeRef": "<SP0.45><MIN0.75><MAX2>הכא נהי דפרסות ליכא פרסה מיהא איכא<SP0.45><MIN0.75><MAX2>",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "any animal that has true hoofs, with clefts through the hoofs, and that chews the cud—such you may eat.",
+              "he": "כֹּ֣ל <b>׀</b> מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֙סַע֙ פְּרָסֹ֔ת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ תֹּאכֵֽלוּ׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:3",
+              "sourceHeRef": "ויקרא יא:ג",
+              "sourceRef": "Leviticus 11:3"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara rejects this suggestion: <b>How can</b> these cases <b>be compared? There,</b> with regard to a pigeon fetus, <b>there are no</b> split <b>hooves, and there is not</b> even <b>a hoof</b> at all. Since a pigeon is completely different from the slaughtered animal, the fetus is forbidden. By contrast, <b>here,</b> in the case of a human fetus, <b>although there are no</b> split <b>hooves, there is at least a hoof,</b> i.e., solid feet. Therefore, it is possible that the human fetus is permitted for consumption, and the dilemma remains unresolved.",
+      "he": "הכי השתא התם לא פרסות איכא ולא פרסה איכא הכא נהי דפרסות ליכא פרסה מיהא איכא",
+      "ref": "Niddah 23b:6"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הא ד<b>אמר ר' ירמיה בר אבא אמר רב הכל מודים גופו אדם ופניו תייש ולאו כלום.</b> איכא למידק והא טעמיה דר' מאיר משום דגמר יצירה יצירה הוא אי נמי משום דעיניהם הולכות לפניהם כשל אדם אלמא אפילו בתיש גמור שגופו ופניו תייש הרי זה ולד לר' מאיר וכל שכן אדם שגופו ופניו בלבד תייש, לפיכך פרש\"י ז\"ל דרב פליג אהנהו דלעיל וקסבר דר\"מ ורבנן בסברא בעלמא פליגי, אבל ר\"ת ז\"ל פירש בספר הישר דלא פליג דלדידיה נמי אי כולו תייש בפניו וגופו, ולד הוא הואיל ובמינו מתקיים דגמרינן יצירה מיצירה אבל בגופו אדם ופניו תייש דאינו לא מין אדם ולא מין בהמה דברי הכל ולא כלום הוא ומכל מקום כשפניו אדם לכולי עלמא הואיל וכל עיקר הצורה היא צורת אדם דהיינו צורת פנים כאדם גמור דמי, וכשנברא בעין אחת דבהמה, פליגי, דר' מאיר סבר אפילו מקצת צורה, ורבנן סברי אינו אדם עד שתהא בו לכל צורת פניו פני אדם, והא דאמר שנברא בעין אחת כבהמה לאו דוקא בעין אחת אלא אפילו אין לו אלא אחד מכל צורות פני אדם כגון לסת ומצח וגבין וגבת הזקן הרי זה אדם לר' מאיר כדאמר רבא בסמוך, אלא הא דנקט בעין אחת להודיעך כחן דרבנן דאפילו בשאין לו אלא עין אחת דבהמה פליגי, וא\"ת א\"כ מנא ליה לרב דר' מאיר בפניו אדם ונברא בעין אחת כבהמה פליג דילמא בההוא מודה להו לרבנן ולא פליג עלייהו אלא כשכל גופו ופניו תייש הא במקצת אדם ומקצת תייש מודה לכו, וי\"ל דנפקא ליה מדאמרי ליה רבנן כל שאין בו מצורת אדם אינו ולד ולא קתני וחכמים מטהרים אי נמי וחכמים אומרים אינו ולד שמע מינה דשמעו לר' מאיר דפליג בתרתי ומטמא אפילו במקצת צורת אדם ואמרי ליה רבנן כל צורת אדם בעינן, למעוטי כל צורת בהמה ולמעוטי נמי אפילו מקצת צורת אדם:",
+              "ref": "Rashba on Niddah 23b:1",
+              "sourceHeRef": "רשב״א על נדה כ״ג ב:א",
+              "sourceRef": "Rashba on Niddah 23b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גופו תייש ופניו אדם אדם הוא</strong> - דבתר צורת פנים אזלינן:",
+              "ref": "Rashi on Niddah 23b:7:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ז:א",
+              "sourceRef": "Rashi on Niddah 23b:7:1"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> In the case of a woman <b>who discharges</b> an amorphous <b>piece</b> of tissue, <b>if there is blood</b> that emerges <b>with it,</b> the woman is <b>ritually impure</b> with the impurity of a menstruating woman. <b>And if not, she is pure,</b> as she is neither a menstruating woman nor a woman after childbirth. <b>Rabbi Yehuda says:</b> In <b>both this</b> case, where blood emerged, <b>and that</b> case, where no blood emerged, the woman <b>is impure</b> with the impurity of a menstruating woman, as there was certainly undetected blood that emerged with the flesh.",
+                "In the case of a woman <b>who discharges</b> an item <b>similar to a shell,</b> or <b>similar to a hair,</b> or <b>similar to soil,</b> or <b>similar to mosquitoes,</b> if such items are <b>red, she should cast</b> them <b>into water</b> to ascertain their nature: <b>If they dissolved,</b> it is blood, and the woman <b>is impure</b> with the impurity of a menstruating woman; <b>and if not, she is pure.</b>",
+                "In the case of a woman <b>who discharges</b> an item <b>similar to fish</b> or to <b>grasshoppers, repugnant creatures, or creeping animals, if there is blood</b> that emerges <b>with them,</b> the woman <b>is impure</b> with the impurity of a menstruating woman. <b>And if not, she is pure.</b>",
+                "With regard to a woman <b>who discharges</b> tissue in the form of <b>a type of domesticated animal, undomesticated animal, or bird, whether</b> it had the form of <b>a non-kosher</b> species or <b>a kosher</b> species, <b>if</b> it was <b>a male</b> fetus, then <b>she observes</b> the periods of impurity, seven days, and purity, thirty-three days, established in the Torah (see Leviticus 12:2–5) <b>for</b> a woman who gives birth to <b>a male. And if</b> the fetus was <b>a female,</b> the woman <b>observes</b> the periods of impurity, fourteen days, and purity, sixty-six days, established in the Torah <b>for</b> a woman who gives birth to <b>a female.</b>",
+                "<b>And if</b> the sex of the fetus <b>is unknown, she observes</b> the strictures that apply to a woman who gave birth both <b>to a male and to a female.</b> Accordingly, she is prohibited from engaging in intercourse for fourteen days, but after that, she will be permitted to engage in intercourse despite a discharge of uterine blood until thirty-three days pass after the seven days she would have been prohibited if the fetus were male. The prohibition to enter the Temple will continue until eighty days have passed from the discharge of the fetus. This is <b>the statement of Rabbi Meir. And the Rabbis say: Any</b> fetus <b>that is not of human form is not</b> regarded as <b>an offspring</b> with regard to observance of these periods, and she is permitted to engage in intercourse provided that she does not experience a discharge of uterine blood."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Niddah 21a:4",
+                "Niddah 21a:5",
+                "Niddah 21a:6",
+                "Niddah 21a:7",
+                "Niddah 21a:8"
+              ],
+              "he": [
+                "<big><strong>המפלת</strong></big> חתיכה אם יש עמה דם טמאה ואם לאו טהורה ר' יהודה אומר בין כך ובין כך טמאה",
+                "המפלת כמין קליפה כמין שערה כמין עפר כמין יבחושין אדומים תטיל למים אם נמוחו טמאה ואם לאו טהורה",
+                "המפלת כמין דגים חגבים שקצים ורמשים אם יש עמהם דם טמאה ואם לאו טהורה",
+                "המפלת מין בהמה חיה ועוף בין טמאין בין טהורין אם זכר תשב לזכר ואם נקבה תשב לנקבה",
+                "ואם אין ידוע תשב לזכר ולנקבה דברי רבי מאיר וחכמים אומרים כל שאין בו מצורת אדם אינו ולד"
+              ],
+              "link": "/Niddah/21a",
+              "ref": "Niddah 21a:4-8",
+              "sourceHeRef": "unused",
+              "sourceRef": "Niddah 21a:4-8"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הכל מודים גופו תיש ופניו אדם.</b> פי׳ דפרצוף בני אדם עיקר גופו אדם ופניו תיש ולא כלום פי׳ ואפי׳ לר״מ ופרש״י ז״ל דרב פליג אסוגיין דלעיל דאלו בסוגיין דלעיל אמרי׳ דטעמא דר״מ משום דגמר יצירה א״נ משום דעיניהם כשל אדם וכיון דבכולי תיש גמור חשיב לר״מ ולד כ״ש כשגופו אדם ופניו תיש אלא ודאי דרב פליג אסוגיין דלעיל וס״ל דר״מ ורבנן בסברא פליגי ואין זה נכון מדלא מייתי לה תלמודא לעיל בפלוגתא והנכון כמו שפר״ת ז״ל בספר הישר דהא דרב איתא אפי׳ לסוגיין דלעיל דכל שהוא כלו תיש עדיף ליה לר״מ דהוי במינו מתקיים וגמרינן ביה יצירה יצירה וכן כשפניו פני אדם פנים עיקר וכוליה אדם דיינינן ליה ולא בעינן בהא ג״ש דפני אדם דחשיבי עיקר אבל כשגופו אדם ופניו תיש אפי׳ לר״מ אינו כלום שהרי אין במינו כך ואין כאן לא אדם ולא בהמה וכשנברא בעין א׳ וכן בשאר אברים א׳ א׳ פליגי דמר חשיב ליה אדם ומר לא חשיב ליה אדם והא דאמר לא נחלקו אלא כשנברא בעין א׳ בבהמה לאו דוקא דא״כ היכי קרי ליה מצורת הא ודאי משום אבר א׳ דבהמה לא משמע לן השתא דנפיק מצורת אדם ולקמן הוא דאמר לה לחד לישנא דאמר אביי כי תניא ההיא לעכב וכאידך אב״א מנינן מיניה דמשמע לן דהאי כל צורת הוא אלא הכא לישנא קיטא נקט א״נ משום דלרבנן אפשר דאפי׳ באבר א׳ בבהמה פליגי אבל לר״מ אפי׳ אין לו אלא א׳ א׳ מכל צורת פני האדם כגון לסת וגבין וגבת העין וכדאמרי׳ בר ברי רבא אמ׳ חסא ואוקימנא כמ״ד מצורה ואיכא למידק מ״ל לרב דפליגי ר״מ ורבנן בהא דהא במתני׳ לא משמע דפליגי אלא במפלת בהמה וחיה גמורין י״ל דמתני׳ קשיתיה ל״ל למתני וחכמים אומרים כל שאין בו מצורת אדם אינו ולד ליתני וחכ״א אינו ולד אלא ודאי שמעוה דר״מ דקאמר תרתי חדא דדמות בהמה וחיה גמורין ולד ואידך דמטמא אפי׳ במקצת צורת בהמה וחיה וא״ל רבנן דכל צורת אדם בעינן דהיינו לכל הפחות פרצוף פניו ולא בהמה גמורא ולא מקצת צורה ואי בא למידק דאדרבה משמע מלישנא דרבנן דסגי ליה כמצורת ולא כל צורת ומהא ה״ל למרמי עליה דרב ולא ממתני׳ וי״ל דלא מסתבר ליה לרב דליהוי ר״מ מחמיר בכל צורת בהמה ומקל במקצת צורת אדם ומשמע ליה דמתני׳ ה״ק כל שאין בו מצורת אדם מה שהוא עיקר צורתו דהיינו פניו אינו ולד א״נ דס״ל דבמתני׳ גרסינן כל צורת ודמינן ליה ממתני׳ דקתני איפכא ובריתא פי׳ דמתני׳ היא ואע״ג דרב תנא הוא ופליג בהא אתנא דמתני׳ סמכינן דבקי בגרס׳ דמתני׳ ולהכי א״ל אי תניא תניא ולהא אתא מתני׳ כפשטה.",
+              "ref": "Ritva on Niddah 23b:4",
+              "sourceHeRef": "ריטב\"א על נדה כ״ג ב:ד",
+              "sourceRef": "Ritva on Niddah 23b:4"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>גב</big></b> [דאס באקין גריבל] <span class=\"parenthesized\">(במ\"ק כד פרק ואלו מגלחין)</span> כל עטיפה שאינה כעטיפת ישמעאלים אינה עטיפה עד כמה אמר רב נחמן עד גובי דיקנא פי' רב שרירא גאון עד גובי דיקנא ואינו עד גובי דיקנא וגובי דיקנא הוא שער שעל השפתות והרי עטיפה זו למעלה מן החוטם היא ועדיין ישמעאלים מחזירין קצת המצנפת שלהן על פיהן ועל ראש החוטם ועיקר' דכתיב לא תעטה על שפם <span class=\"parenthesized\">(נדה כג)</span> וחכמים אומרים כל שאין בו מצורת אדם אינו ולד המצח והגבינים והעינים והלסתות וגבות הזקן פי' גבות הזקן היינו הפנים מקום הזקן עד שיהיו כל אלו כאחד שוין לצורת אדם זה פי' רבינו גרשום:",
+              "ref": "Sefer HeArukh, Letter Gimel 17",
+              "sourceHeRef": "ספר הערוך, אות הגימ\"ל י״ז",
+              "sourceRef": "Sefer HeArukh, Letter Gimel 17"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> <b>ו</b>עוד שנינו במשנתנו כי <b>חכמים</b> חולקים על ר' מאיר הסבור כי המפלת נפל שצורתו כדמות בהמה חיה ועוף הריהי טמאת לידה, ואילו הם <b>אומרים</b> כי <b>כל שאין בו</b> מצורת אדם — אין הוא נחשב ולד. ובהסבר מחלוקתם <b>אמר רב ירמיה בר אבא, אמר רב: הכל</b> (ואף חכמים) <b>מודים</b> שאם היה <b>גופו</b> של הדבר שהפילה האשה כשל <b>תייש ו</b>אולם <b>פניו</b> היו כשל <b>אדם</b> — הרי זה נחשב כוולד <b>אדם,</b> ונטמאת בו טומאת לידה, אף לדעת חכמים. וכן הכל (אף ר' מאיר) סבורים כי אם היה <b>גופו</b> כשל <b>אדם ו</b>אולם <b>פניו</b> כשל <b>תייש</b> — הרי זה נחשב כ<b>ולא כלום,</b> שהרי פניו של נפל זה אינם כשל אדם.",
+              "ref": "Steinsaltz on Niddah 23b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:ז",
+              "sourceRef": "Steinsaltz on Niddah 23b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A <i>tayish </i>is a buck, or male goat, and can be recognized by its beard. There are over three hundred breeds of goats, which differ substantially in their coloring, build, and genetics. The goats generally discussed in the Mishna and Talmud are of a species similar to <i>Capra mambrica</i>, which is native to Eretz Yisrael.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:7",
+              "sourceHeRef": "תַּיִישׁ",
+              "sourceRef": "Goat [<i>tayish</i>]"
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches: <b>And the Rabbis say: Any</b> discharged entity <b>that is not</b> of human form does not render the woman impure. <b><span href=\"/topics/rav-yirmeyah-b-abba\" class=\"namedEntityLink\" data-slug=\"rav-yirmeyah-b-abba\">Rav Yirmeya bar Abba</span> says</b> that <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> says: All concede</b> that if a woman discharged an entity <b>whose body is</b> that of <b>a goat and whose face is</b> that of <b>a human,</b> it is considered <b>a human</b> offspring, i.e., even the Rabbis rule that the woman is impure in this case. Likewise, if <b>its body is</b> that of <b>a human and its face is</b> that of <b>a goat,</b> <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> concedes that <b>it is nothing,</b> and the woman is pure.",
+      "he": "וחכ\"א כל שאין בו כו' אמר <span href=\"/topics/rav-yirmeyah-b-abba\" class=\"namedEntityLink\" data-slug=\"rav-yirmeyah-b-abba\">רב ירמיה בר אבא</span> אמר <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">רב</span> הכל מודים גופו תייש ופניו אדם אדם גופו אדם ופניו תייש ולא כלום",
+      "ref": "Niddah 23b:7",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעין אחד כבהמה</strong> - אחת מעיניו דומה לבהמה:",
+              "ref": "Rashi on Niddah 23b:8:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ח:א",
+              "sourceRef": "Rashi on Niddah 23b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג רבי מאיר אומר מצורת וחכ\"א כל צורת</strong> - שרבי מאיר אומר כיון שיש בו מצורת אדם הוי ולד ואע\"ג דאין כל צורתו כצורת אדם:",
+              "ref": "Rashi on Niddah 23b:8:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ח:ב",
+              "sourceRef": "Rashi on Niddah 23b:8:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>לא נחלקו אלא שפניו</b> של הדבר שהפילה היו אמנם כשל <b>אדם, ו</b>אולם <b>נברא בעין אחת כבהמה,</b> ובעין השנית כאדם. <b>ש</b>בזה <b>ר' מאיר אומר</b> כי מאחר ויש בו חלק <b>מצורת אדם,</b> הריהו נחשב כולד אדם, ונטמאת בו. <b>ו</b>אילו <b>חכמים אומרים</b> שאינו נחשב כולד אדם אלא אם כן היו בפניו <b>כל צורת אדם,</b> ואין האשה נטמאת בכך.",
+              "ref": "Steinsaltz on Niddah 23b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:ח",
+              "sourceRef": "Steinsaltz on Niddah 23b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "נחלקו ראשונים בהסבר דברי רב. יש שאמרו כי נראה לו לרב מלשון המשנה (וכפי שאכן מוכחים הדברים מן הברייתא שתובא להלן בסוגייתנו) כי מלבד מחלוקתם בענין המפורש במשנתנו (המפלת כמין בהמה חיה ועוף), נחלקו עוד בדינה של האשה שהפילה ולד שאין צורתו שלמה כצורתו של אדם. ולדעת רב לדברי הכל הדבר הקובע לענין נולד זה אם נחשב ולד אדם אם לא, הריהו מראה הפנים, ולא מראה הגוף. ולא נחלקו אלא שלדעת חכמים לעולם אין הוא נחשב ולד אדם אל אם כן היה כל ראשו כשל ראש אדם. ואילו לדעת ר' מאיר הריהו נחשב כולד אדם, אף שאינו דומה אלא במחצית פניו לאדם (מצח, גבה, עין ולסת וכיוצא באלה). ואולם כאשר אף זה אינו מתקיים — לדעת הכל אינו נחשב ולד, אלא אם כן כולו כבהמה, ראשו וגופו (תוס').<br><br>ויש שאמרו כי רב חולק על הטעמים שהובאו למעלה בסוגייתנו בהסבר שיטת ר' מאיר שרב סבור שלא דיבר ר' מאיר באשה המפילה צורת בהמה ממש, שהרי דבר זה ודאי אינו נחשב כולד. ולא אמר ר' מאיר את דבריו אלא בולד שצורת ראשו היא כשל אדם, ואולם מראה של עין אחת הריהו כשל בהמה (והוא הדין, אם מראה של איבר אחר בפנים, כלסת ומצח וגבה, הריהו דומה לשל בהמה). ונחלקו ר' מאיר וחכמים בסברה. שלדעת ר' מאיר הרי זה נחשב ולד, שכן יש בו מצורת אדם. ואילו לדעת חכמים אין זה נחשב ולד אלא אם כן כל פניו (מלבד האזניים, כאשר יתבאר להלן) דומים לשל אדם (רמב\"ן, וראשונים הביאו שכך פירש רש\"י).",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:8",
+              "sourceHeRef": "לא נחלקו אלא שפניו אדם ונברא בעין אחת כבהמה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שר\"מ אומר מצורת</strong> - <span class=\"rashi-quotation\">פי' בקונטרס</span> מקצת כל צורת עין ולסת וגבת וזקן וחכ\"א כל צורת משני צדדים ב' עינים כו' ואע\"ג דלר' מאיר כי לא דמי כלל לאדם טמאה לידה משום דכתיב בהם יצירה כי דמי לאדם בעי שיהא דומה לו במקצת כל היצירה והא פלוגתא דייק מדתנן וחכ\"א כל שאין בו מצורת אדם ולא קתני וחכ\"א אינו ולד מכלל דפליגי נמי בולד שמקצתו אדם ומקצתו בהמה דלר\"מ במקצת כל צורתו קרוי ולד ולרבנן בעיא כל הצורה והא דקתני במתני' מצורת לר\"מ קאמר לדידן בעינן כל צורת לדידך אודי לן מיהא דמקצת צורה בעינן:",
+              "ref": "Tosafot on Niddah 23b:8:1",
+              "sourceHeRef": "תוספות על נדה כ״ג ב:ח:א",
+              "sourceRef": "Tosafot on Niddah 23b:8:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>They disagree only</b> in a case <b>where its face is</b> that of <b>a human, but it was created with</b> one human eye and <b>one eye like</b> that of <b>an animal. As <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> says</b> that if the offspring has part <b>of the form of a human</b> face, even if one eye is not like that of a human, it is considered a human offspring, and the woman is impure. <b>And the Rabbis say</b> that it must have <b>the entire form of a human</b> face to be considered a human offspring, and otherwise the woman is not impure.",
+      "he": "לא נחלקו אלא שפניו אדם ונברא בעין אחת כבהמה שרבי מאיר אומר מצורת אדם וחכ\"א כל צורת אדם",
+      "ref": "Niddah 23b:8"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואקשינן עליה דרב <b>והא איפכא תניא שר' מאיר אומר כל צורת וחכמים אומרים מצורת</b> כלומר דאיפכא לגמרי הוא שר' מאיר לא מטמא אלא או בכל צורת בהמה או בכל צורת אדם דבעינן במינו מתקיים, ומקצת אדם ומקצת בהמה לא מצאנו מין כמותו שמתקיים, וחכמים אומרים כל גופו ופניו תייש אינו ולד עד שתהא בו מקצת צורת אדם ומיהא במקצת צורת אדם סגי ובהא רבנן לחומרא ור' מאיר לקולא, אמר להו אי תניא תניא, והשתא אתיא מתני' שפיר דקתני וחכמים אומרים כל שאין בו מצורת אדם אינו ולד דמשמע הא במקצת צורת אדם הרי זה ולד.",
+              "ref": "Rashba on Niddah 23b:2",
+              "sourceHeRef": "רשב״א על נדה כ״ג ב:ב",
+              "sourceRef": "Rashba on Niddah 23b:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא איפכא תניא</strong> - שר\"מ אומר כל צורת והאי כל צורת דר\"מ הכי קאמר כל שהוא צורת אדם שבו הוי ולד ואפילו כל פניו תייש אלא שנברא בעין אחת או בלסת אחת הדומה לאדם:",
+              "ref": "Rashi on Niddah 23b:9:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ט:א",
+              "sourceRef": "Rashi on Niddah 23b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחכ\"א מצורת</strong> - עד שיהיה בו מקצת צורה ניכרת כגון חצי הפרצוף דומה לאדם:",
+              "ref": "Rashi on Niddah 23b:9:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ט:ב",
+              "sourceRef": "Rashi on Niddah 23b:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי תניא תניא</strong> - שמעתי אני מרב מה שאמרתי אבל אתם הואיל ויש משנה בידכם לכו אחריה:",
+              "ref": "Rashi on Niddah 23b:9:3",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:ט:ג",
+              "sourceRef": "Rashi on Niddah 23b:9:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר לו לרב ירמיה בר אבא</b> בשאלה על דבריו: <b>והא איפכא תניא</b> <span class=\"hebrew-emphasis\">[והרי ההיפך</span> מדבריך, <span class=\"hebrew-emphasis\">שנינו</span> בברייתא<span class=\"hebrew-emphasis\">],</span> שכך שנינו, <b>ר' מאיר אומר:</b> אין האשה נטמאת אלא אם כן היה בדבר שהפילה <b>כל צורת</b> אדם. <b>וחכמים אומרים</b> שהריהי נטמאת אף אם היה בו חלק <b>מצורת</b> אדם. והרי איפוא ש\"כל צורת אדם\" משמעו: כל שהוא מצורת אדם, ואפילו כל פניו היו כשל תייש אלא שנברא בעין אחת או בלסת אחת כשל אדם. ואילו לדעת חכמים האומרים \"מצורת אדם\", משמעו: שאין האשה נטמאת אלא אם כן היה בדבר שהפילה מקצת צורת אדם הניכרת, וכגון שהיה חצי פרצופו כשל אדם! <b>אמר להו</b> <span class=\"hebrew-emphasis\">[להם]</span> רב ירמיה בר אבא לחכמים: <b>אי תניא</b> <span class=\"hebrew-emphasis\">[אם</span> כך היא <span class=\"hebrew-emphasis\">שנויה]</span> — כך היא <b>תניא</b> <span class=\"hebrew-emphasis\">[שנויה],</span> שאני שמעתי מפי רב כפי שאמרתי, ואולם אתם שישנה ברייתא זו בידכם, לכו אחריה.",
+              "ref": "Steinsaltz on Niddah 23b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:ט",
+              "sourceRef": "Steinsaltz on Niddah 23b:9"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והתניא איפכא ר\"מ אומר כל צורה</strong> - פ\"ה כל שהוא אפילו עין אחד בלא לסת וגבינין וחכ\"א מצורת כל חצי הצורה וקשה לפירושו דכל צורה דרב ודברייתא אינן שוין ועוד דבהא תניא איפכא לא הוה איפכא ממש ועוד דרב ור' יוחנן דבסמוך פליגי אברייתא וארבי יוחנן ליכא למימר תנא הוא ופליג כמו ארב כדמשמע פ\"ק דכתובות <span class=\"parenthesized\">(דף ח.)</span> גבי <span class=\"parenthesized\">(אין ברכת)</span> חתנים מן המנין ועוד קשה לפירושו דרבא אמר חסא כרבנן דברייתא וא\"כ כי פריך ליה מברייתא דצורת פנים שאמרו אפילו פרצוף אחד לישני ליה דאתא כר\"מ דברייתא כיון דס\"ל כברייתא דהשתא כי משני ליה אביי כי תניא ההיא לעכב מוקי לה כרב והוא לא ס\"ל הכי ונראה לפרש והתניא איפכא ממש שר\"מ אומר כל צורה דבעיא ב' עינים ולסתות דגרוע מכולה בהמה דהתם יצירה כתיב ורבנן אמרי מצורת חצי צורה והשתא רבי יוחנן דאמר המצח והגבינים והעינים כר\"מ דברייתא ורבא אמר חסא כרבנן ופריך ליה מברייתא ואוקי לה כר\"מ ור\"ח גריס בדברי רב ר\"מ אומר כל צורת וחכ\"א מצורת כמו במתניתין ובברייתא איפכא:",
+              "ref": "Tosafot on Niddah 23b:9:1",
+              "sourceHeRef": "תוספות על נדה כ״ג ב:ט:א",
+              "sourceRef": "Tosafot on Niddah 23b:9:1"
+            }
+          ]
+        }
+      },
+      "en": "One of the Sages <b>said to <span href=\"/topics/rav-yirmeyah-b-abba\" class=\"namedEntityLink\" data-slug=\"rav-yirmeyah-b-abba\">Rav Yirmeya bar Abba</span>: But isn’t the opposite taught</b> in a <i>baraita</i>: <b><span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> says</b> that a woman who discharged is impure if the fetus has <b>any</b> part of the <b>form</b> of a human face, <b>and the Rabbis say</b> that the woman is impure only if the fetus has a recognizable part <b>of the form of</b> a human face, e.g., half of a human face? According to this <i>baraita</i>, <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> does not even require that a significant part of it must look human. In his opinion, even if it has only one human eye or one human cheek and the rest of the face is like that of an animal, the woman is impure. <span href=\"/topics/rav-yirmeyah-b-abba\" class=\"namedEntityLink\" data-slug=\"rav-yirmeyah-b-abba\">Rav Yirmeya bar Abba</span> <b>said to</b> the Sages: <b>If this</b> <i>baraita</i> <b>is taught, it is taught,</b> and I cannot take issue with it. I have my tradition from <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span>, and you should rule in accordance with the <i>baraita</i> that you received.",
+      "he": "אמר לו <span href=\"/topics/rav-yirmeyah-b-abba\" class=\"namedEntityLink\" data-slug=\"rav-yirmeyah-b-abba\">לרב ירמיה בר אבא</span> והא איפכא תניא ר\"מ אומר כל צורת וחכ\"א מצורת אמר להו אי תניא תניא",
+      "ref": "Niddah 23b:9"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "What is meant by the human form of a face? That the forehead, eyebrows, eyes, cheeks, and the contour of the jaw share the human form. Even if the mouth, the ears, and the nose resemble that of an animal or a beast, [the fetus] is considered as a birth.",
+              "he": "אֵי זוֹ הִיא צוּרַת פְּנֵי הָאָדָם. שֶׁיִּהְיֶה הַמֶּצַח וְהַגְּבִינִין וְהָעֵינַיִם וְהַלְּסָתוֹת וְגַבּוֹת הַזָּקָן כְּצוּרַת הָאָדָם. אֲבָל הַפֶּה וְהָאָזְנַיִם וְהָאַף אַף עַל פִּי שֶׁהֵן כְּשֶׁל בְּהֵמָה וְחַיָּה הֲרֵי זֶה וָלָד:",
+              "ref": "Mishneh Torah, Forbidden Intercourse 10:9",
+              "sourceHeRef": "הלכות איסורי ביאה י:ט",
+              "sourceRef": "Forbidden Intercourse 10:9"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הגבינים</strong> - גבות עינים שורצי\"ל. וגבות הזקן סנטר שקורין מנטו\"ן:",
+              "ref": "Rashi on Niddah 23b:10:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:י:א",
+              "sourceRef": "Rashi on Niddah 23b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עד שיהיו כולם כאחד</strong> - לרבנן כדמפרש בסמוך דר' ירמיה כרבנן וכדפירשה רב לפלוגתא דרב תנא הוא ופליג ולא הדר ביה ממאי דאמר לרבנן דבעו כל צורת האדם והא דקחשיב ר' ירמיה ואזיל הא קמ\"ל דאפילו לרבנן אאזנים לא קפדינן והא דחסא נמי כרבנן ואליבא דתנא דברייתא דאמר לא בעי אלא מצורת וקמ\"ל דבחד צד בעי צורות שלמות ואאוזן לא קא קפיד:",
+              "ref": "Rashi on Niddah 23b:10:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:י:ב",
+              "sourceRef": "Rashi on Niddah 23b:10:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג</big> למעלה הובאו שתי הצעות פירוש במחלוקת ר' מאיר וחכמים, של רב ושל הברייתא. ומביאים עוד בענין זה. <b>אמר ר'</b> <b>ירמיה בר אבא, אמר ר'</b> <b>יוחנן:</b> אין האשה המפילה ולד נטמאת בו אלא אם כן היו פניו דומים לפני אדם בכל חלקי הפנים. שאם היו בפניו ה<b>מצח, והגבינים</b> (גבות העינים), <b>והעינים, והלסתות, וגבות הזקן</b> (סנטר), אינה נטמאת <b>עד שיהו כולם כאחד</b> דומים לשל אדם. <b>רבא אמר</b> שכך אמר החכם <b>חסא</b> בענין זה: האשה שהפילה דמות שבפניו <b>מצח, והגבן, והעין, והלסת, וגבת הזקן</b> אינה טמאה <b>עד שיהו כולם כאחת</b> דומים לשל אדם. ואולם אין צורך שיהיו שתי גבותיו ושתי עיניו ולסתותיו דומות לשל אדם, שלענין זה די במראה אדם מצד אחד של פניו.",
+              "ref": "Steinsaltz on Niddah 23b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:י",
+              "sourceRef": "Steinsaltz on Niddah 23b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a woman discharged a type of domesticated animal, undomesticated animal, or bird, if it has a human face, it is considered human. Therefore, if it is male, the woman observes the periods of impurity and purity established in the Torah for a woman who gives birth to a male, and if it is female, she observes the periods established in the Torah for a woman who gives birth to a female. If the sex of the offspring is indiscernible, the woman observes the strictures of a woman who gave birth to a male and to a female. If the fetus does not have a human face, then even if the rest of its body looks human, including its hands and legs, and its sex is clear as well, nevertheless, it is not considered a human fetus, and the woman does not have the impurity status of a woman after childbirth. For a fetus to be defined as having a human face it must have a human forehead and chin, and human eyebrows, eyes, and cheeks. If it has these human features, it is considered a human offspring, even if its mouth, ears, and nose resemble those of animals. Nowadays, the woman is considered impure regardless of the shape of the discharged item, as the halakhic authorities today are not proficient in the differences between the various forms of discharged items (Rambam <i>Sefer Kedusha</i>, <i>Hilkhot Issurei Bia </i>10:8–9, and see <i>Maggid Mishne</i> there;<i> Shulĥan Arukh</i>,<i> Yoreh De’a</i> 194:3).",
+              "he": "<SP0.32><MIN0.75><MAX2>המפלת כמין בהמה חיה או עוף, אם היו פניו כפני אדם — הרי זה ולד, אם זכר — תשב לזכר, ואם נקבה — תשב לנקבה, ואם אינו ניכר בין זכר לנקבה — תשב לזכר ולנקבה אף על פי ששאר הגוף דומה לבהמה או לחיה או לעוף. ואיזו היא צורת פני האדם — שיהיה המצח והגבינים והעינים והלסתות וגבות הזקן של הולד כצורת פני האדם, אבל הפה והאזנים והאף, אף על פי שהם כשל בהמה וחיה הרי זה ולד. כר' אבא בר ירמיה בשם ר' יוחנן. כמשנה. (רמב\"ם ספר קדושה הלכות איסורי ביאה פ\"י ה\"ח—ט. וראה מ\"מ שם. וראה שו\"ע שם).",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:10",
+              "sourceHeRef": "מֵצַח וְהַגְּבִינִים וְהָעֵינַיִם וכו׳",
+              "sourceRef": "Its forehead and the eyebrows and the eyes, etc."
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yirmeyah-b-abba\" class=\"namedEntityLink\" data-slug=\"rav-yirmeyah-b-abba\">Rabbi Yirmeya bar Abba</span> says</b> that <b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> says:</b> A woman who discharges an entity is impure only if the entire face of the fetus has a human form. This includes its <b>forehead, and the eyebrows, and the eyes, and the cheeks, and</b> its <b>chin.</b> The woman is not impure <b>unless</b> these facial features <b>all as one</b> have the human form. <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span></b> says that <b>Ḥasa says:</b> It is sufficient for the fetus to have the appearance of a human on one side of its face; its <b>forehead, and</b> one <b>eyebrow, and</b> one <b>eye, and</b> one <b>cheek, and</b> its <b>chin</b> are enough. The woman is not impure <b>unless</b> these facial features <b>all as one</b> have the human form.",
+      "he": "אמר <span href=\"/topics/rav-yirmeyah-b-abba\" class=\"namedEntityLink\" data-slug=\"rav-yirmeyah-b-abba\">ר' ירמיה בר אבא</span> אמר <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">רבי יוחנן</span> מצח והגבינים והעינים והלסתות וגבות הזקן עד שיהו כולם כאחד רבא אמר חסא מצח והגבן והעין והלסת וגבת הזקן עד שיהו כולם כאחת",
+      "ref": "Niddah 23b:10",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומסבירים: <b>ולא פליגי</b> <span class=\"hebrew-emphasis\">[חלוקים]</span> ר' יוחנן וחסא, ששניהם סבורים כדעת חכמים החולקים על ר' מאיר, ואולם <b>הא</b> <span class=\"hebrew-emphasis\">[זה,</span> ר' יוחנן<span class=\"hebrew-emphasis\">]</span> שאמר שהריהי נטמאת רק כאשר היה מראה פניו של הולד דומה בכל חלקיו לשל אדם — הריהו <b>כמאן דאמר</b> <span class=\"hebrew-emphasis\">[כמי שאמר]</span> בהסבר דברי חכמים שהאשה נטמאת רק כאשר היה בולד <b>כל צורת</b> פנים של אדם. ואילו <b>הא</b> <span class=\"hebrew-emphasis\">[זה,</span> חסא] שאמר שהריהי נטמאת אף שהיה דומה בעין אחת ובלסת אחת — הריהו <b>כמאן דאמר</b> <span class=\"hebrew-emphasis\">[כמי שאמר]</span> בהסבר דברי חכמים שהאשה נטמאת אף כאשר היה בולד מראה של חלק <b>מצורת</b> פני אדם.",
+              "ref": "Steinsaltz on Niddah 23b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:יא",
+              "sourceRef": "Steinsaltz on Niddah 23b:11"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and Ḥasa <b>do not disagree</b> about whether the <i>halakha</i> is in accordance with the opinion of <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> or that of the Rabbis, as they both accept the opinion of the Rabbis. The difference between them is that <b>this</b> <i>amora</i>, <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span>, holds <b>like the one who says</b> that the Rabbis require <b>the entire form of</b> the face to be human, and <b>that</b> <i>amora</i>, Ḥasa, holds <b>like the one who says</b> that the Rabbis require only a recognizable part <b>of the form of</b> a human face.",
+      "he": "ולא פליגי הא כמ\"ד כל צורת הא כמ\"ד מצורת",
+      "ref": "Niddah 23b:11"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בפרש\"י</b> בד\"ה אפילו פרצוף אחד אבר אחד כו' ובד\"ה חוץ מן האזנים כו' אלמא למ\"ד מצורת בחד סגי וקשיא לרבא כו' עכ\"ל צריך עיון לפירושו כיון דרבא לרבנן דברייתא קאמר מצורת חצי צורה מאי מקשי ליה למימר דצורת אפילו אבר אחד קאמר ואם כן מאי פליגי דהא ר\"מ נמי אית ליה הכי כל צורה צורת כל שהוא אפילו אבר אחד ואם נאמר לדעת המקשה דבעי למימר דמצורת דאמרי רבנן אפילו אבר אחד וע\"כ כל צורה דר\"מ דבעי ב' עינים ולסתות כו' וגריע ליה מכולה בהמה דהתם יצירה כתיב כמ\"ש התוספות דאם כן מי הכריחו לפרש כלל כל צורה דר\"מ דהיינו כ\"ש ולא ככל צורה דקאמר רב לרבנן דהיינו הצורה כולה דכיון דדעת המקשה למימר דכל צורה דר\"מ היינו נמי הצורה כולה נימא דהמתרץ נמי לא פליג עליה בהא אלא דע\"כ רש\"י סבר דכל צורה דר\"מ לית לן לפרש הכי משום דלא גריע מכולה בהמה דמתניתין ודו\"ק:",
+                      "ref": "Chidushei Halachot on Niddah 23b:1",
+                      "sourceHeRef": " חידושי הלכות על מסכת נדה כ״ג ב:א",
+                      "sourceRef": "Chidushei Halachot on Niddah 23b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אפילו פרצוף אחד</strong> - אבר אחד כגון עינו או מצחו או לסת אחד דדומה לאדם הוי ולד:",
+              "ref": "Rashi on Niddah 23b:12:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:יב:א",
+              "sourceRef": "Rashi on Niddah 23b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חוץ מן האזנים</strong> - אזניו כשל אדם ושאר צורתו כבהמה לא חשיב פרצוף. אלמא למ\"ד מצורת בחד סגי וקשיא לרבא דאמר חסא:",
+              "ref": "Rashi on Niddah 23b:12:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:יב:ב",
+              "sourceRef": "Rashi on Niddah 23b:12:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי</b> <span class=\"hebrew-emphasis\">[מקשים]</span> על דברי חסא שצריך שיהיה לפחות צד אחד של הפנים, על כל איבריו, דומה לשל אדם, כדי שתיטמא בכך האשה. ממה ששנינו בברייתא: <b>צורת פנים</b> של הולד, <b>שאמרו</b> בה חכמים שנטמאת בה האשה — הכוונה היא, <b>אפילו פרצוף אחד מן הפרצופין, ח</b> <b>וץ מן האוזן.</b> ודנים בדברי הברייתא: <b>למימרא דמחד נמי סגי</b> <span class=\"hebrew-emphasis\">[האם</span> אין כוונת הדברים <span class=\"hebrew-emphasis\">לומר ש</span>אבר <span class=\"hebrew-emphasis\">אחד</span> בפרצוף הדומה לשל אדם <span class=\"hebrew-emphasis\">גם כן די</span> בו<span class=\"hebrew-emphasis\">]</span> כדי להחשיבו כולד ולטמא את אמו!",
+              "ref": "Steinsaltz on Niddah 23b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:יב",
+              "sourceRef": "Steinsaltz on Niddah 23b:12"
+            }
+          ]
+        }
+      },
+      "en": "Ḥasa evidently interprets the version of the Rabbis’ statement that only part of a human face is required as referring to half of a human face. The Gemara <b>raises an objection</b> to this interpretation from a <i>baraita</i>: The miscarriage of a fetus with <b>the form of</b> a human <b>face, which</b> the Rabbis <b>said</b> renders the woman impure, includes <b>even one of the facial features, apart from the ear.</b> Apparently, <b>that is to say that</b> even <b>if</b> the fetus has only <b>one</b> facial feature of a human, this <b>is also sufficient</b> to render the woman impure.",
+      "he": "מיתיבי צורת פנים שאמרו אפילו פרצוף אחד מן הפרצופין חוץ מן האוזן למימרא דמחד נמי סגי",
+      "ref": "Niddah 23b:12"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> אמר אביי כו' דלא מעכבא וכמאן כו' כצ\"ל:",
+              "ref": "Chokhmat Shlomo on Niddah 23b:3",
+              "sourceHeRef": "חכמת שלמה על נדה כ״ג ב:ג",
+              "sourceRef": "Chokhmat Shlomo on Niddah 23b:3"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואיבעית אימא לעולם כמאן דאמר מצורת.</b> פירש והא דתניא אפילו פרצוף אחד אין לא לעכב אלא להכשיר באחד, ומאי אחד, אחד אחד.",
+              "ref": "Rashba on Niddah 23b:3",
+              "sourceHeRef": "רשב״א על נדה כ״ג ב:ג",
+              "sourceRef": "Rashba on Niddah 23b:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר אביי כי תניא ההיא לעכב תניא</strong> - כלומר צורת פנים שאמרו חכמים דמעכבים אפילו אבר אחד כבהמה מעכבא חוץ מן האוזן דלא מעכבא וכמ\"ד לרבנן כל צורת מתוקמא ואע\"ג דמצי לאוקמי כדאיתא וכדר\"מ דאמר כל דהו צורת ניחא ליה לאוקומי כרבנן:",
+              "ref": "Rashi on Niddah 23b:13:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:יג:א",
+              "sourceRef": "Rashi on Niddah 23b:13:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואיבעית אימא לעולם כמ\"ד מצורת</strong> - ולא קשיא לחסא:",
+              "ref": "Rashi on Niddah 23b:13:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:יג:ב",
+              "sourceRef": "Rashi on Niddah 23b:13:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומאי אחד אחד אחד</strong> - כלומר מכל ראשי איברים יהיה אחד דומה לאדם כחסא דאמר העין והלסת כו' וכמ\"ד מצורת:",
+              "ref": "Rashi on Niddah 23b:13:3",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:יג:ג",
+              "sourceRef": "Rashi on Niddah 23b:13:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואב״א לעולם כמ״ד מצורת ומאי א׳ א'.</b> וק״ל מאי אב״א הוא למדחק מתני׳ וי״ל משום דלא מסתבר דלהוי אבר א׳ בלחוד מעכב בכל צורת וכדכתיבנא לעיל.",
+              "ref": "Ritva on Niddah 23b:5",
+              "sourceHeRef": "ריטב\"א על נדה כ״ג ב:ה",
+              "sourceRef": "Ritva on Niddah 23b:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר אביי</b> בתשובה: <b>כי תניא</b> <span class=\"hebrew-emphasis\">[כאשר נשנתה</span> הברייתא<span class=\"hebrew-emphasis\">]</span> <b>ההיא</b> רק <b>לעכב תניא</b> <span class=\"hebrew-emphasis\">[נשנתה].</span> שאין די שצורת צד אחד של פני הולד דומה לשל אדם, כדי שתיטמא האשה בכך. אלא חייב שיהיו באותו צד כל האיברים דומים לשל אדם. ואם היה אחד בהם אינו דומה לשל אדם, אין האשה נטמאת בכך. <b>וכמאן דאמר</b> <span class=\"hebrew-emphasis\">[וכמי שאומר]</span> כי לדעת חכמים אינה נטמאת עד שיהיו פני הולד דומים ב<b>כל</b> לצורת פני אדם. <b>ואיבעית אימא</b> <span class=\"hebrew-emphasis\">[ואם תרצה אמור</span> תירוץ אחר<span class=\"hebrew-emphasis\">]:</span> <b>לעולם</b> סבורה ברייתא זו <b>כמאן דאמר</b> <span class=\"hebrew-emphasis\">[כמי שאומר]</span> שהאשה נטמאת אף כאשר היו פני הולד דומים כחלק <b>מצורת</b> פני אדם, <b>ומאי</b> <span class=\"hebrew-emphasis\">[ומה]</span> פירוש השנוי בברייתא \"אפילו פרצוף <b>אחד\" —</b> <b>אחד אחד</b> מכל האיברים הכפולים בפני אדם, שדי בעין אחת ובלסת אחת ובגבה אחת.",
+              "ref": "Steinsaltz on Niddah 23b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:יג",
+              "sourceRef": "Steinsaltz on Niddah 23b:13"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> says: When that</b> <i>baraita</i> <b>is taught, it is taught with regard to</b> the <i>halakha</i> of <b>rendering</b> all of the facial features <b>indispensable</b> for the fetus to be defined as human, except for the ear. <b>And</b> this ruling <b>is in accordance with the one who says</b> that the Rabbis require that <b>the entire form of</b> the face must be human. <b>And if you wish, say</b> that <b>actually</b> this ruling <b>is in accordance with the one who says</b> that the Rabbis require only a recognizable part <b>of the form of</b> a human face. <b>And what</b> is the meaning of the claim that it is sufficient for the fetus to have <b>one</b> facial feature of a human? It means <b>one of each</b> facial feature of which a human has two, i.e., one eye, one eyebrow, and so on.",
+      "he": "אמר <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אביי</span> כי תניא ההיא לעכב תניא וכמ\"ד כל צורת ואיבעית אימא לעולם כמ\"ד מצורת ומאי אחד אחד אחד",
+      "ref": "Niddah 23b:13"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> מן הצד כו' וירכו בצדו בשאר כו' כצ\"ל:",
+              "ref": "Chokhmat Shlomo on Niddah 23b:4",
+              "sourceHeRef": "חכמת שלמה על נדה כ״ג ב:ד",
+              "sourceRef": "Chokhmat Shlomo on Niddah 23b:4"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a woman miscarries and discharges something resembling a snake, the mother is impure due to birth. [The rationale is that] the form of its eye is round like that of a human. When a woman miscarries and discharges a human form that has wings of flesh, the mother is impure due to birth.<br>[The following rules apply when a fetus] is created with one eye and one thigh. If they are on the side, it is considered as half a human and the mother is impure due to birth. If they are in the center, the mother is pure, because this is another creature.",
+              "he": "הַמַּפֶּלֶת דְּמוּת נָחָשׁ אִמּוֹ טְמֵאָה לֵדָה מִפְּנֵי שֶׁגַּלְגַּל עֵינָיו עָגל כְּשֶׁל אָדָם. הַמַּפֶּלֶת דְּמוּת אָדָם שֶׁיֵּשׁ לוֹ כְּנָפַיִם שֶׁל בָּשָׂר אִמּוֹ טְמֵאָה לֵדָה. נִבְרָא בְּעַיִן אַחַת וְיָרֵךְ אַחַת אִם הָיוּ מִן הַצַּד הֲרֵי הוּא כַּחֲצִי אָדָם וְאִמּוֹ טְמֵאָה לֵדָה. וְאִם הָיוּ בָּאֶמְצַע אִמּוֹ טְהוֹרָה שֶׁהֲרֵי זוֹ בְּרִיָּה אַחֶרֶת:",
+              "ref": "Mishneh Torah, Forbidden Intercourse 10:10",
+              "sourceHeRef": "הלכות איסורי ביאה י:י",
+              "sourceRef": "Forbidden Intercourse 10:10"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מן הצד</strong> - שעינו בצדו וירכו בצדו כשאר בני אדם:",
+              "ref": "Rashi on Niddah 23b:14:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:יד:א",
+              "sourceRef": "Rashi on Niddah 23b:14:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ד</big> ועוד בענין דומה, <b>אמר רבא:</b> הפילה ולד ש<b>נברא בעין אחת</b> בלבד, <b>ובירך אחד</b> בלבד, אם נמצאות עין זו וירך זו <b>מן הצד</b> של הגוף, וכדרך שנמצאים הם בגופו של אדם רגיל — <b>אמו טמאה</b> טומאת לידה, שולד אדם הוא. ואם נמצאות הן <b>באמצע</b> הגוף — הרי <b>אמו טהורה,</b> שאינו נחשב כולד אדם.",
+              "ref": "Steinsaltz on Niddah 23b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:יד",
+              "sourceRef": "Steinsaltz on Niddah 23b:14"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a woman discharges a fetus that has only one eye or one thigh, if it is located in the part of the body where it is supposed to be located, i.e., the eye is to the side on the middle of the face and the thigh is at the side of the hip, the fetus is considered half-human, and the woman is impure with the impurity of a woman after childbirth. If the eye or thigh is located in the middle of the face or hip, the fetus is considered a separate entity, and the woman is pure (Rambam <i>Sefer Kedusha</i>, <i>Hilkhot Issurei Bia </i>10:10).",
+              "he": "<SP0.36><MIN0.75><MAX2>נברא בעין אחת וירך אחת, אם היו מן הצד — הרי הוא כחצי אדם, ואמו טמאה לידה. ואם היו באמצע — אמו טהורה, שהרי זו בריה אחרת. כרבא. (רמב\"ם שם ה\"י).",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:14",
+              "sourceHeRef": "נִבְרָא בְּעַיִן אַחַת וְיָרֵךְ אֶחָד",
+              "sourceRef": "Where a fetus was created with one eye or with one thigh"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> says:</b> In a case where a fetus <b>was created with one eye or with one thigh,</b> if the eye is located <b>to the side</b> on the middle of the face, or the thigh is located at the side of the hip, where a human eye or thigh is normally located, the fetus is considered human, and <b>its mother is impure.</b> If it appears <b>in the middle</b> of the face or hip, the fetus is not considered human, and <b>its mother is pure.</b>",
+      "he": "אמר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רבא</span> נברא בעין אחת ובירך אחד מן הצד אמו טמאה באמצע אמו טהורה",
+      "ref": "Niddah 23b:14",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">וֶשֶׁט</strong> m. (<span dir=\"rtl\">יָשַׁט</span>) [<i>something stretched and narrow</i>,] <br><b>1)</b> <i>gullet</i>. <span class=\"refLink\" data-ref=\"Mishnah Chullin 3:1\" href=\"/Mishnah_Chullin.3.1\">Chullin III, 1</span> <span dir=\"rtl\">נקובת הו׳</span> an animal whose gullet is found to have been perforated.—<span class=\"refLink\" data-ref=\"Niddah 23b:44\" href=\"/Niddah.23b.44\">Niddah 23ᵇ</span> <span dir=\"rtl\">וֶשְׁטוֹ נקוב</span> if the infant’s gullet is perforated (there being a hole in the throat); <span dir=\"rtl\">ו׳ אטום</span> if its gullet is closed; and from—<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 687\" href=\"/Yalkut_Shimoni_on_Nach.687\">Yalkut Psalms 687</span> (translating <span dir=\"rtl\">מלקוחי</span>, <span class=\"refLink\" data-ref=\"Psalms 22:16\" href=\"/Psalms.22.16\">Psalms XXII, 16</span>) <span dir=\"rtl\">לוִושְׁטִי</span>; Midrash Till. to Psalms l. common gender. <span dir=\"rtl\">לויסיטי</span> (correct accordingly; compare Lat. fauces) to my throat. <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, בְּלוּעָה 1\" dir=\"rtl\" href=\"/Jastrow,_בְּלוּעָה.1\">בְּלוּעָה</span>, <span class=\"refLink\" data-ref=\"Jastrow, בְּלִיעֵי 1\" dir=\"rtl\" href=\"/Jastrow,_בְּלִיעֵי.1\">בְּלִיעֵי</span>) <i>straits, canal</i>. <span class=\"refLink\" data-ref=\"Berakhot 8a:13\" href=\"/Berakhot.8a.13\">Berakhot 8ᵃ</span> (Rashi: <i>loop-hole</i> for the rope), see <span class=\"refLink\" data-ref=\"Jastrow, פִּיטּוּרִין 1\" dir=\"rtl\" href=\"/Jastrow,_פִּיטּוּרִין.1\">פִּיטוּרִין</span> and <span class=\"refLink\" data-ref=\"Jastrow, צִיפּוֹרֵי 1\" dir=\"rtl\" href=\"/Jastrow,_צִיפּוֹרֵי.1\">צִיפּוּרִין</span>; Moʿed Katan end; <span class=\"refLink\" data-ref=\"Vayikra Rabbah 4\" href=\"/Vayikra_Rabbah.4\">Vayikra Rabbah section (Parashah) 4</span>; Midrash Tanḥuma Mikk. 10; ed. Bub. 15; <span class=\"refLink\" data-ref=\"Kohelet Rabbah 6:6\" href=\"/Kohelet_Rabbah.6.6\">Kohelet Rabbah to VI, 6</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, וֶשֶׁט 1",
+              "sourceHeRef": "מילון יסטרוב, וֶשֶׁט א׳",
+              "sourceRef": "Jastrow, וֶשֶׁט 1"
+            }
+          ]
+        },
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ד\"ה</b> אמר רבא וכו' עד ובפרק קמא דבכורות פלוגתא אפכא גבי מקנה לעובד כוכבים וכו' עד ואומר ר\"ת דהוי כאיכא דאמרי. נ\"ל דר\"ל דיש מהפכין דרב חסדא לדרבא ודרבא לדרב חסדא וכן כתבו התוספות שם בתמורה שזה מן הסוגיות ההפוכות שבגמרא ע\"ש:",
+              "ref": "Maharam on Niddah 23b:5",
+              "sourceHeRef": "מהר\"ם על נדה כ״ג ב:ה",
+              "sourceRef": "Maharam on Niddah 23b:5"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "[The following laws apply when a fetus] is created with its windpipe closed, its body lacking [form] from the navel downward, but instead is a mass of flesh, its skull being merely a mass of flesh, its face was amorphous and its features could not be distinguished, it has two backs and two backbones, the contours of the head of the fetus she discharged could not be distinguished, or the contours of its hand could not be distinguished, the mother is not impure due to birth.<br>If, however, she miscarried and discharged a hand or a foot that was cut off, we operate under the assumption that it came from a complete fetus and it is included in the sum of the majority of its limbs.",
+              "he": "נִבְרָא וֵשֶׁט שֶׁלּוֹ אָטוּם אוֹ שֶׁהָיָה חָסֵר מִטִּבּוּרוֹ וּלְמַטָּה וַהֲרֵי הוּא אָטוּם. אוֹ שֶׁהָיְתָה גֻּלְגָּלְתּוֹ אֲטוּמָה. אוֹ שֶׁהָיוּ פָּנָיו טוּחוֹת וְאֵין בָּהֶן הֶכֵּר פָּנִים. אוֹ שֶׁיֵּשׁ לוֹ שְׁנֵי גַּבִּין וּשְׁתֵּי שְׁדֵרוֹת. אוֹ שֶׁהִפִּילָה בְּרִיַּת רֹאשׁ שֶׁאֵינוֹ חָתוּךְ. אוֹ יָד שֶׁאֵינוֹ חָתוּךְ. כָּל נֵפֶל מֵאֵלּוּ אֵינוֹ וָלָד וְאֵין אִמּוֹ טְמֵאָה לֵדָה. אֲבָל אִם הִפִּילָה יָד חֲתוּכָה וְרֶגֶל חֲתוּכָה הֲרֵי חֶזְקָתָהּ מִוָּלָד שָׁלֵם וּמִצְטָרְפִין לְרֹב אֵיבָרָיו:",
+              "ref": "Mishneh Torah, Forbidden Intercourse 10:11",
+              "sourceHeRef": "הלכות איסורי ביאה י:יא",
+              "sourceRef": "Forbidden Intercourse 10:11"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא ושטו נקוב אמו טמאה.</b> פרש\"י ז\"ל דקסבר רבא טרפה חיה, והזקיקו לפ' כן הא דתניא בסמוך המפלת גוף אטום אמו טהורה ואי זהו גוף אטום א\"ר כדי שינטל מן החי וימות ואמרינן עלה בגמרא וכמה שינטל מן החי וימות ר' זכאי אומר עד לרכובה ר' ינאי אומר עד לנקביו ואמרינן בין ר' ינאי בין ר' זכאי קא מיפלגי בטרפה חיה אלמא משמע לכאורה דכל שנולד בטרפות למאן דאית ליה טרפה אינה חיה אמו טהורה ואינו מחוור דקשה להעמיד רבא דלא כהלכתא דקי\"ל כמ\"ד טרפה אינה חיה, ועוד דמי גרע מנפל שאמו טמאה לידה ואפילו תאמר התם הוא דמתחלת ברייתו היה ראוי לבריאת נשמה דילמא האי נמי מתחלה ראוי היה אלא שלאחר זמן ניקב ושטו דמי גרע מיצא מחותך. לכך פירש הרמב\"ן נר\"ו דרבא אפילו כמ\"ד טרפה אינה חיה אמרה דזה ראוי היה לברית נשמה ולחיות פחות קצת מי\"ב חדש ועוד דדילמא מתחילה שלם נולד אלא שלאחר זמן נקב כדאמרן והא דאמרינן לקמן קמיפלגי בטרפה חיה לאו למימרא שיהא זה עיקר טעמא לבריית' ולומר דמשום דטרפה אינה חיה אינו מטמא את אמו משום ולד, אלא סימנא בעלמא, דקתני במתניתין איזו גוף אטום שאמו טהורה כל שינטל מן החי וימות קא מפרשינן ובפירושי' דכל שינטל מן החי וימות פליגי הני אמוראי חד אמר כל שינטל ארכובותיו אינו חי ואידך אמר אכתי הוא יכול לחיות ומכלל דבריהם שמעינן מאי דס\"ל בעלמא גבי טרפה דמאן דאמר עד רכובתו סבר אינה חיה ומאן דאמר עד לנקבותו אית ליה בעלמא טרפה חיה.",
+              "ref": "Rashba on Niddah 23b:4",
+              "sourceHeRef": "רשב״א על נדה כ״ג ב:ד",
+              "sourceRef": "Rashba on Niddah 23b:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ושטו נקוב אמו טמאה</strong> - קסבר טרפה חיה:",
+              "ref": "Rashi on Niddah 23b:15:1",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:טו:א",
+              "sourceRef": "Rashi on Niddah 23b:15:1"
+            },
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "any animal that has true hoofs, with clefts through the hoofs, and that chews the cud—such you may eat.",
+                      "he": "כֹּ֣ל <b>׀</b> מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֙סַע֙ פְּרָסֹ֔ת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ תֹּאכֵֽלוּ׃",
+                      "link": "/Leviticus/11",
+                      "ref": "Leviticus 11:3",
+                      "sourceHeRef": "ויקרא יא:ג",
+                      "sourceRef": "Leviticus 11:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ושטו אטום</strong> - סתום:",
+              "ref": "Rashi on Niddah 23b:15:2",
+              "sourceHeRef": "רש\"י על נדה כ״ג ב:טו:ב",
+              "sourceRef": "Rashi on Niddah 23b:15:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא ושטו נקוב אמו טמאה.</b> פרש״י ז״ל דס״ל טרפה חיה והקשה עליו הרמב״ן ז״ל חדא דמוקים ליה לרבא דלא כהלכתא ועוד דכי לא היה י״ב חדש מאי הוי מיגרע מנפל דאמו טמאה כיון דראוי לברית נשמה והא נמי לא סגיא שלא היה ראוי לברית נשמה מפני שיהא ושטו נקוב מתחלתו וכ״ש דאפשר דניקב לאחר זמן ולא גרע מיצא מחותך לכן פי׳ רבי׳ ז״ל דרבא אמ׳ אפי׳ למ״ד טרפה אינה חיה ואליבא דהלכתא והא דאמר בסמוך דאיכא בין ר׳ ינאי ובין ר׳ זכאי טרפה חיה לאו למימר דדין טומאה דהכא תלויה בדין טרפה חיה כלל אלא דר׳ נקט לסימן בעלמא כדי שייטל מן החי וימות דהיינו נטילת ארכובה עליונה העושה טרפה דס״ל טרפה אינה חיה ור׳ ינאי סבר דטרפה חיה.",
+              "ref": "Ritva on Niddah 23b:6",
+              "sourceHeRef": "ריטב\"א על נדה כ״ג ב:ו",
+              "sourceRef": "Ritva on Niddah 23b:6"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>ושט</big></b> [שפייזרעהר שלונד קעהלע] <span class=\"parenthesized\">(חולין יב)</span> שחט את הושט <span class=\"parenthesized\">(ברכות סה)</span> ושט מכניס כל מיני מאכל <span class=\"parenthesized\">(נדה כג)</span> ושטו אטום אמו טהורה פי' כיון דאין מכניס אוכלין ומשקין אע\"פ שפניו דומין לאדם כאבן הוא ואמו טהורה:.",
+              "ref": "Sefer HeArukh, Letter Vav 17",
+              "sourceHeRef": "ספר הערוך, אות הו\"ו י״ז",
+              "sourceRef": "Sefer HeArukh, Letter Vav 17"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Similarly, when [a fetus] resembling a fowl is found within a [slaughtered] animal, it is forbidden to be eaten. [This applies] even if it resembles a kosher fowl. [For when a fetus] is discovered in an animal, only one which has a hoof is permitted.",
+                      "he": "וְכֵן בְּהֵמָה שֶׁנִּמְצָא בָּהּ דְּמוּת עוֹף אַף עַל פִּי שֶׁהוּא עוֹף טָהוֹר הֲרֵי זֶה אָסוּר בַּאֲכִילָה. לֹא הֻתַּר מִן הַנִּמְצָא בַּבְּהֵמָה אֶלָּא מַה שֶּׁיֵּשׁ לוֹ פַּרְסָה:",
+                      "ref": "Mishneh Torah, Forbidden Foods 1:7",
+                      "sourceHeRef": "הלכות מאכלות אסורות א:ז",
+                      "sourceRef": "Forbidden Foods 1:7"
+                    }
+                  ]
+                }
+              },
+              "en": "Seif 5 If after slaughtering an animal we find (a fetus) that resembles a fowl, although it resembles a kosher fowl, it is forbidden to eaten; When a fetus is found in an animal it is not allowed unless it has hooves.",
+              "he": "השוחט את הבהמה ומצא בה דמות עוף. אע\"פ שהוא עוף טהור. הרי זה אסור באכילה. לא הותר מן הנמצא בבהמה אלא מה שיש לו פרסה: <span class=\"hebrew-emphasis\">הגה וי\"א דאפילו פרסותיו קלוטות רק שיהא דומה לבהמה שבמינה מין שיש לו פרסה (עיין ס\"ק ך'):</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 13:5",
+              "sourceHeRef": "יורה דעה יג:ה - בעלי חיים שאינם צריכים שחיטה.",
+              "sourceRef": "Yoreh De'ah 13:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ועוד בענין זה, <b>אמר רבא:</b> אם הפילה ולד ש<b>ושטו נקוב,</b> אף שהוא נחשב כטריפה — <b>אמו טמאה</b> טומאת לידה, ואולם אם <b>ושטו אטום</b> (סתום) — <b>אמו טהורה,</b> שכאמור הלאה — אינו נידון כאדם.",
+              "ref": "Steinsaltz on Niddah 23b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:טו",
+              "sourceRef": "Steinsaltz on Niddah 23b:15"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If the esophagus of a fetus is sealed from its formation, it is not considered an offspring, and its mother is not impure with the impurity of a woman after childbirth (Rambam <i>Sefer Kedusha</i>, <i>Hilkhot Issurei Bia </i>10:11).",
+              "he": "יש שאמרו כי רבא סבור שהטריפה (כל שמחמת פצע או מחלה שיש בה אינה עתידה לחיות יותר משנים עשר חדשים) הריהי חיה (וכשיטתו בכמה מקומות. ויעוין בתוס' שהראו כי יש מקומות שדעתו של רבא הפוכה בזאת), ולכן אמו טמאת לידה. ואכן לדעת הסבורים כי הטריפה אינה חיה — אין אמו טמאה לידה (רש\"י, תוס'). ויש שאמרו שאפילו הסבורים שהטריפה אינה חיה, מכל מקום אף לדעתם אמו טמאת לידה, כיון שעל כל פנים ראוי הוא לחיות תקופת זמן אף כי פחות משנים עשר חודש. ועוד, שאין זה כמי שלא ראוי לחיות מתחילת ברייתו, כי אפשר וניקב ושטו רק לאחר מכן (רמב\"ן, רשב\"א).<br><br><P46><XS1>עיונים",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:15",
+              "sourceHeRef": "וִשְׁטוֹ אָטוּם",
+              "sourceRef": "Its esophagus is sealed"
+            },
+            {
+              "en": "Some explain that Rava conforms to his opinion elsewhere that it is possible for a <i>tereifa </i>to live beyond twelve months. By contrast, according to the opinion that a <i>tereifa</i> is not capable of surviving beyond twelve months, the mother is not impure (Rashi; <i>Tosafot</i>). Nevertheless, <i>Tosafot</i> demonstrate that there are places where Rava rules in accordance with the opinion that a <i>tereifa</i> cannot live for more than twelve months. Others explain that even according to the opinion that a <i>tereifa</i> is not capable of surviving beyond twelve months, still the mother is impure, due to the capability of the newborn to survive for a significant period of time, even if less than twelve months. Furthermore, it is possible that the esophagus was punctured after the baby was born, in which case the blemish is irrelevant to the status of the woman (Ramban; Rashba).",
+              "he": "<SP0.33><MIN0.75><MAX2>נברא הושט שלו כשהוא אטום, אינו ולד, ואין אמו טמאה לידה. כרבא. (שם הי\"א).",
+              "ref": "Steinsaltz comment #2 on Niddah 23b:15",
+              "sourceHeRef": "אָמַר רָבָא וִשְׁטוֹ נָקוּב אִמּוֹ טְמֵאָה",
+              "sourceRef": "Rava says: If its esophagus is punctured its mother is impure"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה אמר רבא ושטו נקוב כו' רגל של זו עולה כולה עולה כו' מקנה לעובד כוכבים מקצת כו' כצ\"ל:",
+                      "ref": "Chidushei Halachot on Niddah 23b:2",
+                      "sourceHeRef": " חידושי הלכות על מסכת נדה כ״ג ב:ב",
+                      "sourceRef": "Chidushei Halachot on Niddah 23b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבא ושטו נקוב אמו טמאה לידה</strong> - קסבר טרפה חיה וכן בפ\"ק דתמורה <span class=\"parenthesized\">(דף יא:)</span> גבי רגל של זו עולה <span class=\"parenthesized\">(או)</span> כולה עולה דקאמר רב חסדא דבדבר שעושה אותה טרפה כולה עולה דטרפה אינה חיה ורבא אמר דוקא דבר שעושה אותה נבלה כולה עולה דטרפה חיה ובפ\"ק דבכורות <span class=\"parenthesized\">(דף ג.)</span> פלוגתא איפכא גבי מקצת לעובד כוכבים מקצתה להפקיע מן הבכורה דרב חסדא אמר דבר שעושה אותה נבלה דטרפה חיה ורבא אמר דבר שעושה אותה נמי טריפה דטרפה אינה חיה ואומר ר\"ת דהוי כאיכא דאמרי:",
+              "ref": "Tosafot on Niddah 23b:15:1",
+              "sourceHeRef": "תוספות על נדה כ״ג ב:טו:א",
+              "sourceRef": "Tosafot on Niddah 23b:15:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> says:</b> If <b>its esophagus is punctured,</b> although the fetus is considered a <i>tereifa</i>, i.e., one that has a wound that will cause it to die within twelve months, <b>its mother is impure.</b> But if <b>its esophagus is sealed,</b> i.e., it is closed at one end, it does not have the status of a human fetus, and therefore <b>its mother is pure.</b>",
+      "he": "אמר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רבא</span> ושטו נקוב אמו טמאה ושטו אטום אמו טהורה",
+      "ref": "Niddah 23b:15"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "[The following laws apply when a fetus] is created with its windpipe closed, its body lacking [form] from the navel downward, but instead is a mass of flesh, its skull being merely a mass of flesh, its face was amorphous and its features could not be distinguished, it has two backs and two backbones, the contours of the head of the fetus she discharged could not be distinguished, or the contours of its hand could not be distinguished, the mother is not impure due to birth.<br>If, however, she miscarried and discharged a hand or a foot that was cut off, we operate under the assumption that it came from a complete fetus and it is included in the sum of the majority of its limbs.",
+              "he": "נִבְרָא וֵשֶׁט שֶׁלּוֹ אָטוּם אוֹ שֶׁהָיָה חָסֵר מִטִּבּוּרוֹ וּלְמַטָּה וַהֲרֵי הוּא אָטוּם. אוֹ שֶׁהָיְתָה גֻּלְגָּלְתּוֹ אֲטוּמָה. אוֹ שֶׁהָיוּ פָּנָיו טוּחוֹת וְאֵין בָּהֶן הֶכֵּר פָּנִים. אוֹ שֶׁיֵּשׁ לוֹ שְׁנֵי גַּבִּין וּשְׁתֵּי שְׁדֵרוֹת. אוֹ שֶׁהִפִּילָה בְּרִיַּת רֹאשׁ שֶׁאֵינוֹ חָתוּךְ. אוֹ יָד שֶׁאֵינוֹ חָתוּךְ. כָּל נֵפֶל מֵאֵלּוּ אֵינוֹ וָלָד וְאֵין אִמּוֹ טְמֵאָה לֵדָה. אֲבָל אִם הִפִּילָה יָד חֲתוּכָה וְרֶגֶל חֲתוּכָה הֲרֵי חֶזְקָתָהּ מִוָּלָד שָׁלֵם וּמִצְטָרְפִין לְרֹב אֵיבָרָיו:",
+              "ref": "Mishneh Torah, Forbidden Intercourse 10:11",
+              "sourceHeRef": "הלכות איסורי ביאה י:יא",
+              "sourceRef": "Forbidden Intercourse 10:11"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Similarly, when [a fetus] resembling a fowl is found within a [slaughtered] animal, it is forbidden to be eaten. [This applies] even if it resembles a kosher fowl. [For when a fetus] is discovered in an animal, only one which has a hoof is permitted.",
+                      "he": "וְכֵן בְּהֵמָה שֶׁנִּמְצָא בָּהּ דְּמוּת עוֹף אַף עַל פִּי שֶׁהוּא עוֹף טָהוֹר הֲרֵי זֶה אָסוּר בַּאֲכִילָה. לֹא הֻתַּר מִן הַנִּמְצָא בַּבְּהֵמָה אֶלָּא מַה שֶּׁיֵּשׁ לוֹ פַּרְסָה:",
+                      "ref": "Mishneh Torah, Forbidden Foods 1:7",
+                      "sourceHeRef": "הלכות מאכלות אסורות א:ז",
+                      "sourceRef": "Forbidden Foods 1:7"
+                    }
+                  ]
+                }
+              },
+              "en": "Seif 5 If after slaughtering an animal we find (a fetus) that resembles a fowl, although it resembles a kosher fowl, it is forbidden to eaten; When a fetus is found in an animal it is not allowed unless it has hooves.",
+              "he": "השוחט את הבהמה ומצא בה דמות עוף. אע\"פ שהוא עוף טהור. הרי זה אסור באכילה. לא הותר מן הנמצא בבהמה אלא מה שיש לו פרסה: <span class=\"hebrew-emphasis\">הגה וי\"א דאפילו פרסותיו קלוטות רק שיהא דומה לבהמה שבמינה מין שיש לו פרסה (עיין ס\"ק ך'):</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 13:5",
+              "sourceHeRef": "יורה דעה יג:ה - בעלי חיים שאינם צריכים שחיטה.",
+              "sourceRef": "Yoreh De'ah 13:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ה</big> ומביאים עוד בענין זה. <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים</span> בברייתא<span class=\"hebrew-emphasis\">]:</span> <b>המפלת גוף אטום</b> (סתום) — <b>אין אמו טמאה לידה.</b> <b>ו</b>מסבירים: <b>איזהו גוף אטום? רבי אומר:</b> כל שחסר בו איבר חיוני עד <b>כדי שינטל</b> כרגיל <b>מן</b> האדם החי וימות כתוצאה מכך.",
+              "ref": "Steinsaltz on Niddah 23b:16",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:טז",
+              "sourceRef": "Steinsaltz on Niddah 23b:16"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a woman discharges a fetus lacking the part of the body below the navel, it is not considered an offspring, and its mother is not impure with the impurity of a woman after childbirth. This is in accordance with the interpretation of the <i>baraita</i> by Rabbi Yoĥanan, citing Rabbi Yosei ben Yehoshua (Rambam <i>Sefer Kedusha</i>, <i>Hilkhot Issurei Bia </i>10:11).",
+              "he": "נברא כשהוא חסר מטיבורו ולמטה והרי הוא אטום — אינו ולד, ואין אמו טמאה לידה. כברייתא וכפירוש ר' יוחנן בשם ר' יוסי בן יהושע לה. (רמב\"ם שם).<br><br><P46><XS1>אורח ההלכה",
+              "ref": "Steinsaltz comment #1 on Niddah 23b:16",
+              "sourceHeRef": "הַמַּפֶּלֶת גּוּף אָטוּם",
+              "sourceRef": "A woman who discharges a fetus that has a sealed body"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "המפלת בריית גוף שאינו חתוך ובריית ראש שאינו חתוך אינו ולד יד חתוכה הרי זה ולד. יד אטומה ורגל אטומה אינו ולד גוף אטום ולד. איזהו גוף אטום כדי שניטל מן החי ויחיה הרי זה ולד מן החי וימות אינו ולד.",
+              "ref": "Tosefta Niddah 4:7",
+              "sourceHeRef": "תוספתא נדה ד:ז",
+              "sourceRef": "Tosefta Niddah 4:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>The Sages taught</b> in a <i>baraita</i>: In the case of a woman <b>who discharges</b> a fetus that has <b>a sealed body, its mother is not impure</b> with the impurity of a woman after <b>childbirth. And what is a sealed body? <span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi</span></b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\"> Yehuda HaNasi</span> <b>says:</b> It is a body which is lacking a limb that <b>when removed from a living</b> person would cause him to <b>die.</b>",
+      "he": "ת\"ר המפלת גוף אטום אין אמו טמאה לידה ואיזהו גוף אטום רבי אומר כדי שינטל מן החי וימות",
+      "ref": "Niddah 23b:16",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומפרטים: <b>וכמה</b> (איזה שיעור) <b>ינטל מן החי, ו</b>על ידי כך <b>ימות,</b> שאי אפשר לו לגוף להתקיים באופן זה? <b>ר' זכאי אומר:</b>",
+              "ref": "Steinsaltz on Niddah 23b:17",
+              "sourceHeRef": "ביאור שטיינזלץ על נדה כ״ג ב:יז",
+              "sourceRef": "Steinsaltz on Niddah 23b:17"
+            }
+          ]
+        }
+      },
+      "en": "<b>And how much</b> of the lower part of a person’s body <b>when removed from a living</b> person would cause him to <b>die,</b> because one cannot survive such a wound? <b><span href=\"/topics/rabbi-zakkai\" class=\"namedEntityLink\" data-slug=\"rabbi-zakkai\">Rabbi Zakkai</span> says:</b>",
+      "he": "וכמה ינטל מן החי וימות רבי זכאי אומר",
+      "ref": "Niddah 23b:17"
+    }
+  ],
+  "title": "Niddah 23b",
+  "titleHebrew": "נדה כג,ב",
+  "topics": []
+}

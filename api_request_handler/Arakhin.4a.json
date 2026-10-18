@@ -1,0 +1,1792 @@
+{
+  "id": "4a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וגואלין לעולם</strong> - אם מכרו שדה גואלין אותה מיד וישראל אינו מותר לגאול פחות מב' שנים כדכתיב במספר שני תבואות ימכר לך:",
+              "ref": "Rashi on Arakhin 4a:1:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:א:א",
+              "sourceRef": "Rashi on Arakhin 4a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נהי דליתנהו בהשמטת קרקעות</strong> - כלומר בכל דין השמטת קרקעות דהא תנן מוכרין לעולם:",
+              "ref": "Rashi on Arakhin 4a:1:2",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:א:ב",
+              "sourceRef": "Rashi on Arakhin 4a:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וגואלין לעולם</b> שדה שמכרו, ואפילו מיד, שלא כישראלים, <b>אימא</b> <span class=\"hebrew-emphasis\">[אמור]</span> ש<b>במצות</b> תקיעת שופר ביובל וב<b>ראש השנה נמי לא ליחייבו</b> <span class=\"hebrew-emphasis\">[גם כן לא יתחייבו],</span> על כן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[משמיע לנו]:</span> <b>נהי דליתנהו</b> <span class=\"hebrew-emphasis\">[גם אם אמנם אינם</span> שייכים<span class=\"hebrew-emphasis\">]</span> <b>בהשמטת קרקע</b> של יובל, <b>בהשמטת כספים</b> ו<b>בשילוח עבדים</b> עבריים <b>מיהא איתנהו</b> <span class=\"hebrew-emphasis\">[על כל פנים ישנם]</span> ביובל, ולכן חייבים הם בתקיעה ביובל ובראש השנה.",
+              "ref": "Steinsaltz on Arakhin 4a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:א",
+              "sourceRef": "Steinsaltz on Arakhin 4a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אם מדובר בהקשר המסויים של שנת היובל, עליו מדובר כאן, הכוונה היא לענין גאולה מן ההקדש, שישראל המקדיש שדהו, אם לא גאלה מיד ההקדש עד היובל — הריהי מתחלקת בין הכהנים, ואינה חוזרת אליו עוד. ואילו כהן ולוי, אם הקדישו שדה יכולים לגואלה לעולם, גם לאחר היובל. אבל רש\"י פירש \"לעולם\" במובן — בכל עת, שהמוכר שדהו אינו רשאי לגואלה מיד הקונה בפחות משתי שנים, מה שאין כן בכהן ולוי. ולפי זה, אין מדובר כאן בדיני שנת היובל עצמה, אלא במכלול הדינים הקשורים לזמן שהיובל נוהג. וכיוצא בזה יש לפרש לגבי המוכר בית בבתי ערי חומה, שאם לא גאלה — שוב אין לו גאולה, ואילו הכהנים והלויים יכולים לגאול את בתיהם לעולם, וכן הם חוזרים אליהם ביובל (ראה תוס' ד\"ה מוכרין בשם רש\"י ראש השנה כט,א).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:1",
+              "sourceHeRef": "וגואלין לעולם",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "כלומר, לא יתחייבו במצות תקיעת שופר ביובל, שהרי עיקרה של תקיעה זו הוא סימן לשילוח עבדים וחזרת הקרקעות לבעליהן, ומתוך כך גם לא יתחייבו בתקיעת השופר בראש השנה, שהרי דיניהן נלמדו זה מזה בגזירה שווה. ומה שנזכר כאן דווקא ראש השנה, הרי זה משום שדין זה מצוי יותר, וכן משום שסוגיה זו מצויה בעיקרה במסכת ראש השנה (טורי אבן ראש השנה כט,א).",
+              "ref": "Steinsaltz comment #2 on Arakhin 4a:1",
+              "sourceHeRef": "אימא במצות ראש השנה נמי לא ליחייבו",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "במסכת ראש השנה (כט,א) מחק רש\"י משפט זה מגרסת הגמרא, שהרי גם הכהנים והלויים מחזירים ביובל קרקע שקנו מן הישראל. ואילו כאן פירש כי הכוונה היא שלא כל דיני השמטת קרקע חלים עליהם, שהרי אם מכרו שדה בשנת היובל עצמה — הריהי מכורה (כשיטתו לעיל בפירוש \"מוכרין לעולם\"). ומכל מקום, תמהו בתוס' על הזכרת שמיטת כספים, שהרי אינה נוהגת ביובל, והסבירו כי הכוונה היא שדין שמיטה, ובכלל זה שמיטת כספים, נוהג מן התורה רק כשהיובל נוהג (וראה בריטב\"א ר\"ה שם).",
+              "ref": "Steinsaltz comment #3 on Arakhin 4a:1",
+              "sourceHeRef": "נהי דליתנהו בהשמטת קרקע וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וגואלין לעולם</strong> - אם מכרו שדה גואלין אותו מיד וישראל אינו מותר לגאול פחות מב' שנים דכתיב <span class=\"parenthesized\">(שם)</span> במספר שני תבואות וגו' נהי דליתנהו בהשמטת קרקע כלומר בכל דין משפט השמטת קרקע דהא תנן ומוכרין לעולם ל\"ה ובר\"ה <span class=\"parenthesized\">(דף כט.)</span> לא גריס רש\"י נהי דליתנהו בהשמטת קרקע משום דמשמע שאין חוזרת לכהנים ביובל והא ליתא ומיהו הכא פי' יפה וקצת קשה מה שייכי השמטת קרקע גבי יובל דהא תניא בספרי בשנת היובל הזאת זאת מוציאה עבדים <span class=\"parenthesized\">(כנענים)</span> ואין השביעית מוציאה עבדים <span class=\"parenthesized\">(כנענים)</span> ק\"ו ליובל שמשמט ומה אם השביעית שאינו מוציא עבדים משמטת יובל שמוציא עבדים אינו דין שמשמט ת\"ל וזה דבר השמטה שמטה משמטת ואין יובל משמט אלמא אין יובל משמט כספים ומיהו י\"ל מקצת שייך השמטת כספים גבי יובל דאין שביעית נוהג אלא בזמן שהיובל נוהג: <br><b>והך</b> דאכילת קדשים משום כפרה היא דכתיב ואכלו אותם אשר כופר בהם וגו' מלמד שהכהנים אוכלים והבעלים מתכפרים אימא לא תיבעי זימון כו' מצטרפין אי אכלו חד כהן וחד לוי וחד ישראל כהן בהדי זר מצי אכיל מן החולין הלכך מצטרפין ל\"ה. ומכאן נראה דג' בני אדם המודרים הנאה זה מזה אינן מצטרפין כיון דאין אחד מהן יכול לאכול עם חבירו ומיהו נראה דג' בני אדם המודרין אינה ראיה ברורה דשאני תרומה שאין לה היתר לזר אפי' בשאלה מה שאין במודר הנאה ובברכות <span class=\"parenthesized\">(ד' מה. ד\"ה אכל)</span> הארכתי:",
+              "ref": "Tosafot on Arakhin 4a:1:1",
+              "sourceHeRef": "תוספות על ערכין ד׳ א:א:א",
+              "sourceRef": "Tosafot on Arakhin 4a:1:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": [
+                "The L<small>ORD</small> spoke to Moses on Mount Sinai:",
+                "Speak to the Israelite people and say to them:<br>When you enter the land that I assign to you, the land shall observe a sabbath of the L<small>ORD</small>.",
+                "Six years you may sow your field and six years you may prune your vineyard and gather in the yield.",
+                "But in the seventh year the land shall have a sabbath of complete rest, a sabbath of the L<small>ORD</small>: you shall not sow your field or prune your vineyard.",
+                "You shall not reap the aftergrowth of your harvest or gather the grapes of your untrimmed vines; it shall be a year of complete rest for the land.",
+                "But you may eat whatever the land during its sabbath will produce—you, your male and female slaves, the hired and bound laborers who live with you,",
+                "and your cattle and the beasts in your land may eat all its yield.",
+                "You shall count off seven weeks of years—seven times seven years—so that the period of seven weeks of years gives you a total of forty-nine years.",
+                "Then you shall sound the horn loud; in the seventh month, on the tenth day of the month—the Day of Atonement—you shall have the horn sounded throughout your land",
+                "and you shall hallow the fiftieth year. You shall proclaim release throughout the land for all its inhabitants. It shall be a jubilee for you: each of you shall return to his holding and each of you shall return to his family.",
+                "That fiftieth year shall be a jubilee for you: you shall not sow, neither shall you reap the aftergrowth or harvest the untrimmed vines,",
+                "for it is a jubilee. It shall be holy to you: you may only eat the growth direct from the field.",
+                "In this year of jubilee, each of you shall return to his holding.",
+                "When you sell property to your neighbor, or buy any from your neighbor, you shall not wrong one another.",
+                "In buying from your neighbor, you shall deduct only for the number of years since the jubilee; and in selling to you, he shall charge you only for the remaining crop years:",
+                "the more such years, the higher the price you pay; the fewer such years, the lower the price; for what he is selling you is a number of harvests.",
+                "Do not wrong one another, but fear your God; for I the L<small>ORD</small> am your God.",
+                "You shall observe My laws and faithfully keep My rules, that you may live upon the land in security;",
+                "the land shall yield its fruit and you shall eat your fill, and you shall live upon it in security.",
+                "And should you ask, “What are we to eat in the seventh year, if we may neither sow nor gather in our crops?”",
+                "I will ordain My blessing for you in the sixth year, so that it shall yield a crop sufficient for three years.",
+                "When you sow in the eighth year, you will still be eating old grain of that crop; you will be eating the old until the ninth year, until its crops come in.",
+                "But the land must not be sold beyond reclaim, for the land is Mine; you are but strangers resident with Me.",
+                "Throughout the land that you hold, you must provide for the redemption of the land.",
+                "If your kinsman is in straits and has to sell part of his holding, his nearest redeemer shall come and redeem what his kinsman has sold.",
+                "If a man has no one to redeem for him, but prospers and acquires enough to redeem with,",
+                "he shall compute the years since its sale, refund the difference to the man to whom he sold it, and return to his holding.",
+                "If he lacks sufficient means to recover it, what he sold shall remain with the purchaser until the jubilee; in the jubilee year it shall be released, and he shall return to his holding.",
+                "If a man sells a dwelling house in a walled city, it may be redeemed until a year has elapsed since its sale; the redemption period shall be a year.",
+                "If it is not redeemed before a full year has elapsed, the house in the walled city shall pass to the purchaser beyond reclaim throughout the ages; it shall not be released in the jubilee.",
+                "But houses in villages that have no encircling walls shall be classed as open country: they may be redeemed, and they shall be released through the jubilee.",
+                "As for the cities of the Levites, the houses in the cities they hold—the Levites shall forever have the right of redemption.",
+                "Such property as may be redeemed from the Levites—houses sold in a city they hold—shall be released through the jubilee; for the houses in the cities of the Levites are their holding among the Israelites.",
+                "But the unenclosed land about their cities cannot be sold, for that is their holding for all time.",
+                "If your kinsman, being in straits, comes under your authority, and you hold him as though a resident alien, let him live by your side:",
+                "do not exact from him advance or accrued interest, but fear your God. Let him live by your side as your kinsman.",
+                "Do not lend him your money at advance interest, or give him your food at accrued interest.",
+                "I the L<small>ORD</small> am your God, who brought you out of the land of Egypt, to give you the land of Canaan, to be your God.",
+                "If your kinsman under you continues in straits and must give himself over to you, do not subject him to the treatment of a slave.",
+                "He shall remain with you as a hired or bound laborer; he shall serve with you only until the jubilee year.",
+                "Then he and his children with him shall be free of your authority; he shall go back to his family and return to his ancestral holding.—",
+                "For they are My servants, whom I freed from the land of Egypt; they may not give themselves over into servitude.—",
+                "You shall not rule over him ruthlessly; you shall fear your God.",
+                "Such male and female slaves as you may have—it is from the nations round about you that you may acquire male and female slaves.",
+                "You may also buy them from among the children of aliens resident among you, or from their families that are among you, whom they begot in your land. These shall become your property:",
+                "you may keep them as a possession for your children after you, for them to inherit as property for all time. Such you may treat as slaves. But as for your Israelite kinsmen, no one shall rule ruthlessly over the other.",
+                "If a resident alien among you has prospered, and your kinsman being in straits, comes under his authority and gives himself over to the resident alien among you, or to an offshoot of an alien’s family,",
+                "he shall have the right of redemption even after he has given himself over. One of his kinsmen shall redeem him,",
+                "or his uncle or his uncle’s son shall redeem him, or anyone of his family who is of his own flesh shall redeem him; or, if he prospers, he may redeem himself.",
+                "He shall compute with his purchaser the total from the year he gave himself over to him until the jubilee year; the price of his sale shall be applied to the number of years, as though it were for a term as a hired laborer under the other’s authority.",
+                "If many years remain, he shall pay back for his redemption in proportion to his purchase price;",
+                "and if few years remain until the jubilee year, he shall so compute: he shall make payment for his redemption according to the years involved.",
+                "He shall be under his authority as a laborer hired by the year; he shall not rule ruthlessly over him in your sight.",
+                "If he has not been redeemed in any of those ways, he and his children with him shall go free in the jubilee year.",
+                "For it is to Me that the Israelites are servants: they are My servants, whom I freed from the land of Egypt, I the L<small>ORD</small> your God."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Leviticus 25:1",
+                "Leviticus 25:2",
+                "Leviticus 25:3",
+                "Leviticus 25:4",
+                "Leviticus 25:5",
+                "Leviticus 25:6",
+                "Leviticus 25:7",
+                "Leviticus 25:8",
+                "Leviticus 25:9",
+                "Leviticus 25:10",
+                "Leviticus 25:11",
+                "Leviticus 25:12",
+                "Leviticus 25:13",
+                "Leviticus 25:14",
+                "Leviticus 25:15",
+                "Leviticus 25:16",
+                "Leviticus 25:17",
+                "Leviticus 25:18",
+                "Leviticus 25:19",
+                "Leviticus 25:20",
+                "Leviticus 25:21",
+                "Leviticus 25:22",
+                "Leviticus 25:23",
+                "Leviticus 25:24",
+                "Leviticus 25:25",
+                "Leviticus 25:26",
+                "Leviticus 25:27",
+                "Leviticus 25:28",
+                "Leviticus 25:29",
+                "Leviticus 25:30",
+                "Leviticus 25:31",
+                "Leviticus 25:32",
+                "Leviticus 25:33",
+                "Leviticus 25:34",
+                "Leviticus 25:35",
+                "Leviticus 25:36",
+                "Leviticus 25:37",
+                "Leviticus 25:38",
+                "Leviticus 25:39",
+                "Leviticus 25:40",
+                "Leviticus 25:41",
+                "Leviticus 25:42",
+                "Leviticus 25:43",
+                "Leviticus 25:44",
+                "Leviticus 25:45",
+                "Leviticus 25:46",
+                "Leviticus 25:47",
+                "Leviticus 25:48",
+                "Leviticus 25:49",
+                "Leviticus 25:50",
+                "Leviticus 25:51",
+                "Leviticus 25:52",
+                "Leviticus 25:53",
+                "Leviticus 25:54"
+              ],
+              "he": [
+                "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר׃",
+                "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּ֤י תָבֹ֙אוּ֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֣ן לָכֶ֑ם וְשָׁבְתָ֣ה הָאָ֔רֶץ שַׁבָּ֖ת לַיהֹוָֽה׃",
+                "שֵׁ֤שׁ שָׁנִים֙ תִּזְרַ֣ע שָׂדֶ֔ךָ וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְמֹ֣ר כַּרְמֶ֑ךָ וְאָסַפְתָּ֖ אֶת־תְּבוּאָתָֽהּ׃",
+                "וּבַשָּׁנָ֣ה הַשְּׁבִיעִ֗ת שַׁבַּ֤ת שַׁבָּתוֹן֙ יִהְיֶ֣ה לָאָ֔רֶץ שַׁבָּ֖ת לַיהֹוָ֑ה שָֽׂדְךָ֙ לֹ֣א תִזְרָ֔ע וְכַרְמְךָ֖ לֹ֥א תִזְמֹֽר׃",
+                "אֵ֣ת סְפִ֤יחַ קְצִֽירְךָ֙ לֹ֣א תִקְצ֔וֹר וְאֶת־עִנְּבֵ֥י נְזִירֶ֖ךָ לֹ֣א תִבְצֹ֑ר שְׁנַ֥ת שַׁבָּת֖וֹן יִהְיֶ֥ה לָאָֽרֶץ׃",
+                "וְ֠הָיְתָ֠ה שַׁבַּ֨ת הָאָ֤רֶץ לָכֶם֙ לְאׇכְלָ֔ה לְךָ֖ וּלְעַבְדְּךָ֣ וְלַאֲמָתֶ֑ךָ וְלִשְׂכִֽירְךָ֙ וּלְתוֹשָׁ֣בְךָ֔ הַגָּרִ֖ים עִמָּֽךְ׃",
+                "וְלִ֨בְהֶמְתְּךָ֔ וְלַֽחַיָּ֖ה אֲשֶׁ֣ר בְּאַרְצֶ֑ךָ תִּהְיֶ֥ה כׇל־תְּבוּאָתָ֖הּ לֶאֱכֹֽל׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "וְסָפַרְתָּ֣ לְךָ֗ שֶׁ֚בַע שַׁבְּתֹ֣ת שָׁנִ֔ים שֶׁ֥בַע שָׁנִ֖ים שֶׁ֣בַע פְּעָמִ֑ים וְהָי֣וּ לְךָ֗ יְמֵי֙ שֶׁ֚בַע שַׁבְּתֹ֣ת הַשָּׁנִ֔ים תֵּ֥שַׁע וְאַרְבָּעִ֖ים שָׁנָֽה׃",
+                "וְהַֽעֲבַרְתָּ֞ שׁוֹפַ֤ר תְּרוּעָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִעִ֔י בֶּעָשׂ֖וֹר לַחֹ֑דֶשׁ בְּיוֹם֙ הַכִּפֻּרִ֔ים תַּעֲבִ֥ירוּ שׁוֹפָ֖ר בְּכׇל־אַרְצְכֶֽם׃",
+                "וְקִדַּשְׁתֶּ֗ם אֵ֣ת שְׁנַ֤ת הַחֲמִשִּׁים֙ שָׁנָ֔ה וּקְרָאתֶ֥ם דְּר֛וֹר בָּאָ֖רֶץ לְכׇל־יֹשְׁבֶ֑יהָ יוֹבֵ֥ל הִוא֙ תִּהְיֶ֣ה לָכֶ֔ם וְשַׁבְתֶּ֗ם אִ֚ישׁ אֶל־אֲחֻזָּת֔וֹ וְאִ֥ישׁ אֶל־מִשְׁפַּחְתּ֖וֹ תָּשֻֽׁבוּ׃",
+                "יוֹבֵ֣ל הִ֗וא שְׁנַ֛ת הַחֲמִשִּׁ֥ים שָׁנָ֖ה תִּהְיֶ֣ה לָכֶ֑ם לֹ֣א תִזְרָ֔עוּ וְלֹ֤א תִקְצְרוּ֙ אֶת־סְפִיחֶ֔יהָ וְלֹ֥א תִבְצְר֖וּ אֶת־נְזִרֶֽיהָ׃",
+                "כִּ֚י יוֹבֵ֣ל הִ֔וא קֹ֖דֶשׁ תִּהְיֶ֣ה לָכֶ֑ם מִ֨ן־הַשָּׂדֶ֔ה תֹּאכְל֖וּ אֶת־תְּבוּאָתָֽהּ׃",
+                "בִּשְׁנַ֥ת הַיּוֹבֵ֖ל הַזֹּ֑את תָּשֻׁ֕בוּ אִ֖ישׁ אֶל־אֲחֻזָּתֽוֹ׃",
+                "וְכִֽי־תִמְכְּר֤וּ מִמְכָּר֙ לַעֲמִיתֶ֔ךָ א֥וֹ קָנֹ֖ה מִיַּ֣ד עֲמִיתֶ֑ךָ אַל־תּוֹנ֖וּ אִ֥ישׁ אֶת־אָחִֽיו׃",
+                "בְּמִסְפַּ֤ר שָׁנִים֙ אַחַ֣ר הַיּוֹבֵ֔ל תִּקְנֶ֖ה מֵאֵ֣ת עֲמִיתֶ֑ךָ בְּמִסְפַּ֥ר שְׁנֵֽי־תְבוּאֹ֖ת יִמְכׇּר־לָֽךְ׃",
+                "לְפִ֣י <b>׀</b> רֹ֣ב הַשָּׁנִ֗ים תַּרְבֶּה֙ מִקְנָת֔וֹ וּלְפִי֙ מְעֹ֣ט הַשָּׁנִ֔ים תַּמְעִ֖יט מִקְנָת֑וֹ כִּ֚י מִסְפַּ֣ר תְּבוּאֹ֔ת ה֥וּא מֹכֵ֖ר לָֽךְ׃",
+                "וְלֹ֤א תוֹנוּ֙ אִ֣ישׁ אֶת־עֲמִית֔וֹ וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+                "וַעֲשִׂיתֶם֙ אֶת־חֻקֹּתַ֔י וְאֶת־מִשְׁפָּטַ֥י תִּשְׁמְר֖וּ וַעֲשִׂיתֶ֣ם אֹתָ֑ם וִֽישַׁבְתֶּ֥ם עַל־הָאָ֖רֶץ לָבֶֽטַח׃",
+                "וְנָתְנָ֤ה הָאָ֙רֶץ֙ פִּרְיָ֔הּ וַאֲכַלְתֶּ֖ם לָשֹׂ֑בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח עָלֶֽיהָ׃",
+                "וְכִ֣י תֹאמְר֔וּ מַה־נֹּאכַ֖ל בַּשָּׁנָ֣ה הַשְּׁבִיעִ֑ת הֵ֚ן לֹ֣א נִזְרָ֔ע וְלֹ֥א נֶאֱסֹ֖ף אֶת־תְּבוּאָתֵֽנוּ׃",
+                "וְצִוִּ֤יתִי אֶת־בִּרְכָתִי֙ לָכֶ֔ם בַּשָּׁנָ֖ה הַשִּׁשִּׁ֑ית וְעָשָׂת֙ אֶת־הַתְּבוּאָ֔ה לִשְׁלֹ֖שׁ הַשָּׁנִֽים׃",
+                "וּזְרַעְתֶּ֗ם אֵ֚ת הַשָּׁנָ֣ה הַשְּׁמִינִ֔ת וַאֲכַלְתֶּ֖ם מִן־הַתְּבוּאָ֣ה יָשָׁ֑ן עַ֣ד <b>׀</b> הַשָּׁנָ֣ה הַתְּשִׁיעִ֗ת עַד־בּוֹא֙ תְּב֣וּאָתָ֔הּ תֹּאכְל֖וּ יָשָֽׁן׃",
+                "וְהָאָ֗רֶץ לֹ֤א תִמָּכֵר֙ לִצְמִתֻ֔ת כִּי־לִ֖י הָאָ֑רֶץ כִּֽי־גֵרִ֧ים וְתוֹשָׁבִ֛ים אַתֶּ֖ם עִמָּדִֽי׃",
+                "וּבְכֹ֖ל אֶ֣רֶץ אֲחֻזַּתְכֶ֑ם גְּאֻלָּ֖ה תִּתְּנ֥וּ לָאָֽרֶץ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "כִּֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָכַ֖ר מֵאֲחֻזָּת֑וֹ וּבָ֤א גֹֽאֲלוֹ֙ הַקָּרֹ֣ב אֵלָ֔יו וְגָאַ֕ל אֵ֖ת מִמְכַּ֥ר אָחִֽיו׃",
+                "וְאִ֕ישׁ כִּ֛י לֹ֥א יִֽהְיֶה־לּ֖וֹ גֹּאֵ֑ל וְהִשִּׂ֣יגָה יָד֔וֹ וּמָצָ֖א כְּדֵ֥י גְאֻלָּתֽוֹ׃",
+                "וְחִשַּׁב֙ אֶת־שְׁנֵ֣י מִמְכָּר֔וֹ וְהֵשִׁיב֙ אֶת־הָ֣עֹדֵ֔ף לָאִ֖ישׁ אֲשֶׁ֣ר מָֽכַר־ל֑וֹ וְשָׁ֖ב לַאֲחֻזָּתֽוֹ׃",
+                "וְאִ֨ם לֹֽא־מָצְאָ֜ה יָד֗וֹ דֵּי֮ הָשִׁ֣יב לוֹ֒ וְהָיָ֣ה מִמְכָּר֗וֹ בְּיַד֙ הַקֹּנֶ֣ה אֹת֔וֹ עַ֖ד שְׁנַ֣ת הַיּוֹבֵ֑ל וְיָצָא֙ בַּיֹּבֵ֔ל וְשָׁ֖ב לַאֲחֻזָּתֽוֹ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "וְאִ֗ישׁ כִּֽי־יִמְכֹּ֤ר בֵּית־מוֹשַׁב֙ עִ֣יר חוֹמָ֔ה וְהָיְתָה֙ גְּאֻלָּת֔וֹ עַד־תֹּ֖ם שְׁנַ֣ת מִמְכָּר֑וֹ יָמִ֖ים תִּהְיֶ֥ה גְאֻלָּתֽוֹ׃",
+                "וְאִ֣ם לֹֽא־יִגָּאֵ֗ל עַד־מְלֹ֣את לוֹ֮ שָׁנָ֣ה תְמִימָה֒ וְ֠קָ֠ם הַבַּ֨יִת אֲשֶׁר־בָּעִ֜יר אֲשֶׁר־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[ל֣וֹ]</span> <span class=\"mam-kq-k\"><span class=\"parenthesized\">(לא)</span></span></span> חֹמָ֗ה לַצְּמִיתֻ֛ת לַקֹּנֶ֥ה אֹת֖וֹ לְדֹרֹתָ֑יו לֹ֥א יֵצֵ֖א בַּיֹּבֵֽל׃",
+                "וּבָתֵּ֣י הַחֲצֵרִ֗ים אֲשֶׁ֨ר אֵין־לָהֶ֤ם חֹמָה֙ סָבִ֔יב עַל־שְׂדֵ֥ה הָאָ֖רֶץ יֵחָשֵׁ֑ב גְּאֻלָּה֙ תִּהְיֶה־לּ֔וֹ וּבַיֹּבֵ֖ל יֵצֵֽא׃",
+                "וְעָרֵי֙ הַלְוִיִּ֔ם בָּתֵּ֖י עָרֵ֣י אֲחֻזָּתָ֑ם גְּאֻלַּ֥ת עוֹלָ֖ם תִּהְיֶ֥ה לַלְוִיִּֽם׃",
+                "וַאֲשֶׁ֤ר יִגְאַל֙ מִן־הַלְוִיִּ֔ם וְיָצָ֧א מִמְכַּר־בַּ֛יִת וְעִ֥יר אֲחֻזָּת֖וֹ בַּיֹּבֵ֑ל כִּ֣י בָתֵּ֞י עָרֵ֣י הַלְוִיִּ֗ם הִ֚וא אֲחֻזָּתָ֔ם בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+                "וּֽשְׂדֵ֛ה מִגְרַ֥שׁ עָרֵיהֶ֖ם לֹ֣א יִמָּכֵ֑ר כִּֽי־אֲחֻזַּ֥ת עוֹלָ֛ם ה֖וּא לָהֶֽם׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "וְכִֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָ֥טָה יָד֖וֹ עִמָּ֑ךְ וְהֶֽחֱזַ֣קְתָּ בּ֔וֹ גֵּ֧ר וְתוֹשָׁ֛ב וָחַ֖י עִמָּֽךְ׃",
+                "אַל־תִּקַּ֤ח מֵֽאִתּוֹ֙ נֶ֣שֶׁךְ וְתַרְבִּ֔ית וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ וְחֵ֥י אָחִ֖יךָ עִמָּֽךְ׃",
+                "אֶ֨ת־כַּסְפְּךָ֔ לֹֽא־תִתֵּ֥ן ל֖וֹ בְּנֶ֑שֶׁךְ וּבְמַרְבִּ֖ית לֹא־תִתֵּ֥ן אׇכְלֶֽךָ׃",
+                "אֲנִ֗י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לָתֵ֤ת לָכֶם֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִֽים׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "וְכִֽי־יָמ֥וּךְ אָחִ֛יךָ עִמָּ֖ךְ וְנִמְכַּר־לָ֑ךְ לֹא־תַעֲבֹ֥ד בּ֖וֹ עֲבֹ֥דַת עָֽבֶד׃",
+                "כְּשָׂכִ֥יר כְּתוֹשָׁ֖ב יִהְיֶ֣ה עִמָּ֑ךְ עַד־שְׁנַ֥ת הַיֹּבֵ֖ל יַעֲבֹ֥ד עִמָּֽךְ׃",
+                "וְיָצָא֙ מֵֽעִמָּ֔ךְ ה֖וּא וּבָנָ֣יו עִמּ֑וֹ וְשָׁב֙ אֶל־מִשְׁפַּחְתּ֔וֹ וְאֶל־אֲחֻזַּ֥ת אֲבֹתָ֖יו יָשֽׁוּב׃",
+                "כִּֽי־עֲבָדַ֣י הֵ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת עָֽבֶד׃",
+                "לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָ֑רֶךְ וְיָרֵ֖אתָ מֵאֱלֹהֶֽיךָ׃",
+                "וְעַבְדְּךָ֥ וַאֲמָתְךָ֖ אֲשֶׁ֣ר יִהְיוּ־לָ֑ךְ מֵאֵ֣ת הַגּוֹיִ֗ם אֲשֶׁר֙ סְבִיבֹ֣תֵיכֶ֔ם מֵהֶ֥ם תִּקְנ֖וּ עֶ֥בֶד וְאָמָֽה׃",
+                "וְ֠גַ֠ם מִבְּנֵ֨י הַתּוֹשָׁבִ֜ים הַגָּרִ֤ים עִמָּכֶם֙ מֵהֶ֣ם תִּקְנ֔וּ וּמִמִּשְׁפַּחְתָּם֙ אֲשֶׁ֣ר עִמָּכֶ֔ם אֲשֶׁ֥ר הוֹלִ֖ידוּ בְּאַרְצְכֶ֑ם וְהָי֥וּ לָכֶ֖ם לַֽאֲחֻזָּֽה׃",
+                "וְהִתְנַחַלְתֶּ֨ם אֹתָ֜ם לִבְנֵיכֶ֤ם אַחֲרֵיכֶם֙ לָרֶ֣שֶׁת אֲחֻזָּ֔ה לְעֹלָ֖ם בָּהֶ֣ם תַּעֲבֹ֑דוּ וּבְאַ֨חֵיכֶ֤ם בְּנֵֽי־יִשְׂרָאֵל֙ אִ֣ישׁ בְּאָחִ֔יו לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָֽרֶךְ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ֖יךָ עִמּ֑וֹ וְנִמְכַּ֗ר לְגֵ֤ר תּוֹשָׁב֙ עִמָּ֔ךְ א֥וֹ לְעֵ֖קֶר מִשְׁפַּ֥חַת גֵּֽר׃",
+                "אַחֲרֵ֣י נִמְכַּ֔ר גְּאֻלָּ֖ה תִּהְיֶה־לּ֑וֹ אֶחָ֥ד מֵאֶחָ֖יו יִגְאָלֶֽנּוּ׃",
+                "אוֹ־דֹד֞וֹ א֤וֹ בֶן־דֹּדוֹ֙ יִגְאָלֶ֔נּוּ אֽוֹ־מִשְּׁאֵ֧ר בְּשָׂר֛וֹ מִמִּשְׁפַּחְתּ֖וֹ יִגְאָלֶ֑נּוּ אֽוֹ־הִשִּׂ֥יגָה יָד֖וֹ וְנִגְאָֽל׃",
+                "וְחִשַּׁב֙ עִם־קֹנֵ֔הוּ מִשְּׁנַת֙ הִמָּ֣כְרוֹ ל֔וֹ עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְהָיָ֞ה כֶּ֤סֶף מִמְכָּרוֹ֙ בְּמִסְפַּ֣ר שָׁנִ֔ים כִּימֵ֥י שָׂכִ֖יר יִהְיֶ֥ה עִמּֽוֹ׃",
+                "אִם־ע֥וֹד רַבּ֖וֹת בַּשָּׁנִ֑ים לְפִיהֶן֙ יָשִׁ֣יב גְּאֻלָּת֔וֹ מִכֶּ֖סֶף מִקְנָתֽוֹ׃",
+                "וְאִם־מְעַ֞ט נִשְׁאַ֧ר בַּשָּׁנִ֛ים עַד־שְׁנַ֥ת הַיֹּבֵ֖ל וְחִשַּׁב־ל֑וֹ כְּפִ֣י שָׁנָ֔יו יָשִׁ֖יב אֶת־גְּאֻלָּתֽוֹ׃",
+                "כִּשְׂכִ֥יר שָׁנָ֛ה בְּשָׁנָ֖ה יִהְיֶ֣ה עִמּ֑וֹ לֹֽא־יִרְדֶּ֥נּֽוּ בְּפֶ֖רֶךְ לְעֵינֶֽיךָ׃",
+                "וְאִם־לֹ֥א יִגָּאֵ֖ל בְּאֵ֑לֶּה וְיָצָא֙ בִּשְׁנַ֣ת הַיֹּבֵ֔ל ה֖וּא וּבָנָ֥יו עִמּֽוֹ׃",
+                "כִּֽי־לִ֤י בְנֵֽי־יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃"
+              ],
+              "link": "/Leviticus/25",
+              "ref": "Leviticus 25",
+              "sourceHeRef": "ויקרא כ״ה",
+              "sourceRef": "Leviticus 25"
+            }
+          ]
+        }
+      },
+      "en": "<b>and they</b> may also <b>redeem</b> lands that they sold <b>at any time,</b> i.e., even right after selling the field, and are not bound by the <i>halakhot</i> of the Jubilee Year, one might <b>say</b> that <b>they should</b> also <b>not be obligated to fulfill the mitzva of</b> blowing the shofar on <b>Rosh HaShana.</b> Therefore, the <i>baraita</i> <b>teaches us</b> that this is not the case. This is due to the fact that <b>although</b> priests <b>are not</b> included <b>in</b> the <b>release of land, in any event they are</b> included <b>in</b> the <b>release of money</b> and in the <b>release of slaves</b> in the Jubilee Year. Therefore, the priests are obligated in the sounding of the shofar on Rosh HaShana.",
+      "he": "וגואלין לעולם אימא במצות ר\"ה נמי לא ליחייבו קמשמע לן נהי דליתנהו בהשמטת קרקע בהשמטת כספים בשילוח עבדים מיהא איתנהו:",
+      "ref": "Arakhin 4a:1"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "After this digression, the Gemara returns to the exposition of a verse cited above. <b>Now</b> that <b>you have said</b> that the phrases <b>“every province” and “every city”</b> appear <b>for</b> the purposes of midrashic <b>exposition, for what</b> exposition do the words <b>“every family”</b> appear in that same verse (Esther 9:28)? <b>Rabbi Yosei bar Ḥanina said:</b> These words come <b>to include the priestly and Levitical families,</b> and indicate <b>that they cancel their service</b> in the Temple <b>and come to hear the reading of the Megilla.</b>",
+                  "<b>As Rav Yehuda said</b> that <b>Rav said: The priests at their</b> Temple <b>service, the Levites on their platform</b> in the Temple, where they sung the daily psalm, <b>and the Israelites at their watches,</b> i.e., the group of Israelites, corresponding to the priestly watches, who would come to Jerusalem and gather in other locations as representatives of the entire nation to observe or pray for the success of the Temple service, <b>all cancel their service and come to hear the reading of the Megilla.</b>",
+                  "<b>This is also taught</b> in a <i>baraita</i>: <b>The priests at their service, the Levites on the platform, and the Israelites at their watches, all cancel their service and come to hear the reading of the Megilla.</b> The Sages of <b>the house of Rabbi</b> Yehuda HaNasi <b>relied</b> upon the <i>halakha</i> stated <b>here</b> and determined <b>that one cancels his Torah study and comes to hear the reading of the Megilla.</b> They derived this principle by means of <b>an <i>a fortiori</i></b> inference <b>from the</b> Temple <b>service: Just as</b> one who is engaged in performing <b>service</b> in the Temple, <b>which is</b> very <b>important, cancels</b> his service in order to hear the Megilla, is it <b>not all the more so</b> obvious that one who is engaged in <b>Torah study</b> cancels his study to hear the Megilla?",
+                  "The Gemara asks: <b>Is the</b> Temple <b>service more important than Torah study? Isn’t it written: “And it came to pass when Joshua was by Jericho that he lifted up his eyes and looked, and behold, a man stood over against him</b> with his sword drawn in his hand. And Joshua went over to him and said to him: Are you for us, or for our adversaries? And he said, No, but I am captain of the host of the Lord, I have come now. And Joshua fell on his face to the earth, <b>and bowed down”</b> (Joshua 5:13–14).",
+                  "The Gemara first seeks to clarify the incident described in the verse. <b>How did</b> Joshua <b>do this,</b> i.e., how could he bow to a figure he did not recognize? <b>Didn’t Rabbi Yehoshua ben Levi say: It is prohibited for a person to greet his fellow at night</b> if he does not recognize him, as <b>we are concerned that perhaps it is a demon?</b> How did Joshua know that it was not a demon? The Gemara answers: <b>There it was different, as</b> the visitor <b>said to him: But I am captain of the host of the Lord.</b>",
+                  "The Gemara asks: <b>Perhaps</b> this was a demon <b>and he lied?</b> The Gemara answers: It <b>is learned</b> as a tradition that demons <b>do not utter the name of Heaven for naught,</b> and therefore since the visitor had mentioned the name of God, Joshua was certain that this was indeed an angel.",
+                  "As for the angel’s mission, the Gemara explains that the angel <b>said to</b> Joshua: <b>Yesterday,</b> i.e., during the afternoon, <b>you neglected the afternoon daily offering</b> due to the impending battle, <b>and now,</b> at night, <b>you have neglected Torah study,</b> and I have come to rebuke you. Joshua <b>said to him: For which of these</b> sins <b>have you come? He said to him: I have come now,</b> indicating that neglecting Torah study is more severe than neglecting to sacrifice the daily offering. Joshua <b>immediately</b> determined to rectify the matter, as the verses states: <b>“And Joshua lodged that night”</b> (Joshua 8:9) <b>“in the midst of the valley</b> [<b><i>ha’emek</i></b>]” (Joshua 8:13), and <b>Rabbi Yoḥanan said:</b>"
+                ],
+                [
+                  "This <b>teaches that he spent the night in the depths</b> [<b><i>be’umeka</i></b>] <b>of <i>halakha</i>,</b> i.e., that he spent the night studying Torah with the Jewish people. <b>And Rav Shmuel bar Unya said: Torah study is greater than sacrificing the daily offerings, as it is stated: “I have come now”</b> (Joshua 5:14), indicating that the angel came to rebuke Joshua for neglecting Torah study and not for neglecting the daily offering. Consequently, how did the Sages of the house of Rabbi Yehuda HaNasi determine that the Temple service is more important than Torah study?",
+                  "The Gemara explains that it is <b>not difficult. This</b> statement, with regard to the story of Joshua, is referring to Torah study <b>by the masses,</b> which is greater than the Temple service. <b>That</b> statement of the Sages of the house of Rabbi Yehuda HaNasi is referring to Torah study <b>by an individual,</b> which is less significant than the Temple service.",
+                  "The Gemara asks: Is the Torah study <b>of an individual a light</b> matter? <b>Didn’t we learn</b> in a mishna: <b>On</b> the intermediate days of <b>a Festival, women may lament</b> the demise of the deceased in unison, <b>but they may not clap</b> their hands in mourning? <b>Rabbi Yishmael says: Those that are close to the bier may clap. On the New Moon, on Hanukkah, and on Purim,</b> which are not mandated by Torah law, <b>they may</b> both <b>lament and clap</b> their hands in mourning. However, <b>on both</b> groups of days, <b>they may not wail</b> responsively, a form of wailing where one woman wails and the others repeat after her.",
+                  "<b>And Rabba bar Huna said:</b> All these regulations were said with regard to an ordinary person, but <b>there are no</b> restrictions on expressions of mourning on the intermediate days of <b>a Festival in the presence of a</b> deceased <b>Torah scholar.</b> If a Torah scholar dies on the intermediate days of a Festival, the women may lament, clap, and wail responsively as on any other day, <b>and all the more so on Hanukkah and Purim.</b> This indicates that even the Torah study of an individual is of great importance.",
+                  "The Gemara rejects this argument: <b>You speak of the honor</b> that must be shown <b>to the Torah,</b> and indeed, <b>the honor</b> that must be shown to <b>the Torah</b> in the case of <b>an individual</b> Torah scholar <b>is important;</b> but <b>the Torah study of an individual</b> in itself <b>is light</b> and is less significant than the Temple service."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Megillah 3a:15",
+                "Megillah 3a:16",
+                "Megillah 3a:17",
+                "Megillah 3a:18",
+                "Megillah 3a:19",
+                "Megillah 3a:20",
+                "Megillah 3a:21",
+                "Megillah 3b:1",
+                "Megillah 3b:2",
+                "Megillah 3b:3",
+                "Megillah 3b:4",
+                "Megillah 3b:5"
+              ],
+              "he": [
+                [
+                  "וְהַשְׁתָּא דְּאָמְרַתְּ ״מְדִינָה וּמְדִינָה וְעִיר וָעִיר״ — לִדְרָשָׁה, ״מִשְׁפָּחָה וּמִשְׁפָּחָה״ לְמַאי אֲתָא? אָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא: לְהָבִיא מִשְׁפְּחוֹת כְּהוּנָּה וּלְוִיָּה, שֶׁמְּבַטְּלִין עֲבוֹדָתָן וּבָאִין לִשְׁמוֹעַ מִקְרָא מְגִילָּה.",
+                  "דְּאָמַר רַב יְהוּדָה אָמַר רַב: כֹּהֲנִים בַּעֲבוֹדָתָן וּלְוִיִּם בְּדוּכָנָן וְיִשְׂרָאֵל בְּמַעֲמָדָן — כּוּלָּן מְבַטְּלִין עֲבוֹדָתָן וּבָאִין לִשְׁמוֹעַ מִקְרָא מְגִילָּה.",
+                  "תַּנְיָא נָמֵי הָכִי: כֹּהֲנִים בַּעֲבוֹדָתָן, וּלְוִיִּם בְּדוּכָנָן, וְיִשְׂרָאֵל בְּמַעֲמָדָן — כּוּלָּן מְבַטְּלִין עֲבוֹדָתָן וּבָאִין לִשְׁמוֹעַ מִקְרָא מְגִילָּה. מִכָּאן סָמְכוּ שֶׁל בֵּית רַבִּי שֶׁמְּבַטְּלִין תַּלְמוּד תּוֹרָה וּבָאִין לִשְׁמוֹעַ מִקְרָא מְגִילָּה, קַל וָחוֹמֶר מֵעֲבוֹדָה: וּמָה עֲבוֹדָה שֶׁהִיא חֲמוּרָה — מְבַטְּלִינַן, תַּלְמוּד תּוֹרָה לֹא כׇּל שֶׁכֵּן.",
+                  "וַעֲבוֹדָה חֲמוּרָה מִתַּלְמוּד תּוֹרָה? וְהָכְתִיב: ״וַיְהִי בִּהְיוֹת יְהוֹשֻׁעַ בִּירִיחוֹ וַיִּשָּׂא עֵינָיו וַיַּרְא וְהִנֵּה אִישׁ עוֹמֵד לְנֶגְדּוֹ [וְגוֹ׳] וַיִּשְׁתָּחוּ <span class=\"parenthesized\">(לְאַפָּיו)</span>״.",
+                  "וְהֵיכִי עָבֵיד הָכִי? וְהָאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: אָסוּר לְאָדָם שֶׁיִּתֵּן שָׁלוֹם לַחֲבֵירוֹ בַּלַּיְלָה, חָיְישִׁינַן שֶׁמָּא שֵׁד הוּא! שָׁאנֵי הָתָם דְּאָמַר לֵיהּ: ״כִּי אֲנִי שַׂר צְבָא ה׳״.",
+                  "וְדִלְמָא מְשַׁקְּרִי? גְּמִירִי דְּלָא מַפְּקִי שֵׁם שָׁמַיִם לְבַטָּלָה.",
+                  "אָמַר לוֹ: אֶמֶשׁ בִּטַּלְתֶּם תָּמִיד שֶׁל בֵּין הָעַרְבַּיִם, וְעַכְשָׁיו בִּטַּלְתֶּם תַּלְמוּד תּוֹרָה. אָמַר לוֹ: עַל אֵיזֶה מֵהֶן בָּאתָ? אָמַר לוֹ: ״עַתָּה בָאתִי״, מִיָּד: ״וַיָּלֶן יְהוֹשֻׁעַ בַּלַּיְלָה הַהוּא בְּתוֹךְ הָעֵמֶק״, אָמַר רַבִּי יוֹחָנָן:"
+                ],
+                [
+                  "מְלַמֵּד שֶׁלָּן בְּעוּמְקָהּ שֶׁל הֲלָכָה. וְאָמַר רַב שְׁמוּאֵל בַּר אוּנְיָא: גָּדוֹל תַּלְמוּד תּוֹרָה יוֹתֵר מֵהַקְרָבַת תְּמִידִין, שֶׁנֶּאֱמַר: ״עַתָּה בָאתִי״!",
+                  "לָא קַשְׁיָא: הָא דְּרַבִּים, וְהָא דְּיָחִיד.",
+                  "וּדְיָחִיד קַל? וְהָתְנַן: נָשִׁים בַּמּוֹעֵד מְעַנּוֹת אֲבָל לֹא מְטַפְּחוֹת, רַבִּי יִשְׁמָעֵאל אוֹמֵר: אִם הָיוּ סְמוּכוֹת לַמִּטָּה — מְטַפְּחוֹת. בְּרָאשֵׁי חֳדָשִׁים בַּחֲנוּכָּה וּבְפוּרִים, מְעַנּוֹת וּמְטַפְּחוֹת בָּזֶה וּבָזֶה, אֲבָל לֹא מְקוֹנְנוֹת.",
+                  "וְאָמַר רַבָּה בַּר הוּנָא: אֵין מוֹעֵד בִּפְנֵי תַּלְמִיד חָכָם — כׇּל שֶׁכֵּן חֲנוּכָּה וּפוּרִים.",
+                  "כְּבוֹד תּוֹרָה קָאָמְרַתְּ. כְּבוֹד תּוֹרָה דְּיָחִיד — חָמוּר, תַּלְמוּד תּוֹרָה דְּיָחִיד — קַל."
+                ]
+              ],
+              "link": "/Megillah/3a",
+              "originalRefsBeforeRewriting": [
+                "Megillah 3a:16"
+              ],
+              "ref": "Megillah 3a:15-3b:5",
+              "sourceHeRef": "מגילה ג׳ א",
+              "sourceRef": "Megillah 3a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "It is a positive mitzvah ordained by the Rabbis to read the Megillah at the appointed time. It is well-known that this was ordained by the Prophets.<br>Everyone is obligated in this reading: men, women, converts, and freed slaves. Children should also be trained to read it. Even the priests should neglect their service in the Temple and come to hear the reading of the Megillah.<br>Similarly, Torah study should be neglected to hear the reading of the Megillah. Surely, this applies to the other mitzvot of the Torah: the observance of all of them is superseded by the reading of the Megillah. There is nothing that takes priority over the reading of the Megillah except the burial of a <i>meit mitzvah</i> - a corpse that has no one to take care of it. A person who encounters such a corpse should bury it and then read the Megillah.",
+              "he": "קְרִיאַת הַמְּגִלָּה בִּזְמַנָּהּ מִצְוַת עֲשֵׂה מִדִּבְרֵי סוֹפְרִים. וְהַדְּבָרִים יְדוּעִים שֶׁהִיא תַּקָּנַת הַנְּבִיאִים. וְהַכּל חַיָּבִים בִּקְרִיאָתָהּ אֲנָשִׁים וְנָשִׁים וְגֵרִים וַעֲבָדִים מְשֻׁחְרָרִים. וּמְחַנְּכִין אֶת הַקְּטַנִּים לִקְרוֹתָהּ. וַאֲפִלּוּ כֹּהֲנִים בַּעֲבוֹדָתָן מְבַטְּלִין עֲבוֹדָתָן וּבָאִין לִשְׁמֹעַ מִקְרָא מְגִלָּה. וְכֵן מְבַטְּלִים תַּלְמוּד תּוֹרָה לִשְׁמֹעַ מִקְרָא מְגִלָּה קַל וָחֹמֶר לִשְׁאָר מִצְוֹת שֶׁל תּוֹרָה שֶׁכֻּלָּן נִדְחִין מִפְּנֵי מִקְרָא מְגִלָּה. וְאֵין לְךָ דָּבָר שֶׁנִּדְחֶה מִקְרָא מְגִלָּה מִפָּנָיו חוּץ מִמֵּת מִצְוָה שֶׁאֵין לוֹ קוֹבְרִין שֶׁהַפּוֹגֵעַ בּוֹ קוֹבְרוֹ תְּחִלָּה וְאַחַר כָּךְ קוֹרֵא:",
+              "ref": "Mishneh Torah, Scroll of Esther and Hanukkah 1:1",
+              "sourceHeRef": "הלכות מגילה וחנוכה א:א",
+              "sourceRef": "Scroll of Esther and Hanukkah 1:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b><span class=\"parenthesized\">(שם סעיף ב')</span> </b> מבטלין תלמוד תורה לשמוע מקרא מגלה וכו'. נ\"ב הנה בש\"ס אמרינן דמכאן סמכו של בית רבי ממה דאמרינן משפחה ומשפחה לרבות כהנים בעבודתן וכו' ומה עבודה שחמורה מבטלין תלמוד תורה לא כ\"ש. ופרכינן שם ועבודה חמירא מת\"ת והא כתיב ויהי בהיות יהושע ביריחו וכו'. והנה גוף מאמר זה מה שסיים מיד וילן יהושע וכו' ואח\"כ אר\"ש גדולה ת\"ת עמ\"ש ביאור מאמר זה ע\"ג בחיבורי על עין יעקב. אך הנה כעת ראיתי שיש מקום לתמוה על הש\"ס דמה פריך מיהושע הרי מוכח במנחות ד\"נ וכן פסק הרמב\"ם דמה דלא הקריבו בו תמיד של שחר יקריבו של בין הערביים היינו דוקא בנתחנך המזבח אבל אם לא נתחנך המזבח עדיין לא יקריבו תמיד של בין הערבים שאין מחנכין את המזבח אלא בתמיד של שחר ע\"ש. א\"כ מוכח דתמיד של שחר עדיף משל תמיד של בין הערבים. ובפרט לשיטת רבי דקאמר ביומא דף ל\"ד ע\"ב דילפינן של ערבית משל שחרית ועיין בתו' שם דמ\"ד דיליף של ערבית משל שחרית ס\"ל דשל שחרית עדיף ואם אין לו רק נסכים של אחד יקריבו בשחרית וא\"כ קשה כיון דבע\"כ הך קרא דמשפחה ומשפחה דכהנים בעבודם מבטלין לשמוע מקרא מגלה היינו בע\"כ בתמיד של שחרית דשל בין הערבים לא שייך דקריאה של לילה לא נזכר במגלה כלל ואינו מדברי קבלה רק מדרבנן כמ\"ש בספר טורי אבן ואף אם הוי מדברי קבלה מ\"מ הוי בלילה ממש ואינו זמן עבודת התמיד של השחיטה והזריקה שזה עיקר העבודה ובע\"כ מיירי מתמיד של שחר וא\"כ נימא דרבי לשיטתו דס\"ל של ערבית משחרית ילפינן וא\"כ ס\"ל דשל שחרית עדיף וא\"כ י\"ל דשל שחרית עדיף מת\"ת ולכך יליף ק\"ו לתורה אבל ביהושע דמיירי להדיא מתמיד של בין הערבים. ובזה י\"ל דתלמוד תורה חמור ומה פריך וצ\"ע ודו\"ק ועיין בטור שכתב תחלה דמבטלין עבודה לשמוע מקרא מגלה ואפילו תלמוד תורה מבטלין. וראיתי בדרישה ופרישה שתמה דמה אפילו ת\"ת הרי בש\"ס מוכח דעבודה חמורה מת\"ת וא\"ל דמיירי מת\"ת דרבים דעדיף מעבודה דזה מנ\"ל כיון דעיקר לימודו הוי ממשפחה ומשפחה ע\"ש שנדחק בזה. אבל לדעתי נראה ליישב ברווחא דהנה דניהו דתלמוד תורה דיחיד קיל מעבודה היינו אם אינו לומד דיני עבודה. אבל אם לומד דיני עבודה הרי אחז\"ל כל העוסק בפרשת עולה כאלו הקריב עולה א\"כ הוי כאן שניהם דהוי עבודה ות\"ת א\"כ זה עדיף מעבודה לבד. ומה שלמד הטור כן י\"ל עפמ\"ש בספרי ספר החיים ליישב קושית העולם מה רבותא הוי דמבטלין תלמוד תורה הרי מגלה נמי הוי תורה וכתבתי ליישב דדכוונה לשני דברים לא מהני ואם מכווין לתלמוד תורה אינו עולה לשם מצות מקרא מגלה ואם מכוין למקרא מגלה אינו מקיים בו תלמוד תורה ע\"ש שהבאתי ראיות לזה. ולכך לפ\"ז מדוייקים דברי הטור דשפיר כתב דאפילו תלמוד תורה של עבודה וקאי הך ת\"ת על עבודה דרישא כלו' אפילו ת\"ת של עבודה ומי נדחה מפני מקרא מגלה מכח ממ\"נ אם כוונה עולה לב' דברים א\"כ הוי כאן תורה ועבודה א\"כ גם מגלה נמי הוי תורה ואינו נחסר רק עבודה ועבודה כבר נלמד דנדחה מפני מקרא מגלה ואם אין כוונה עולה לב' דברים ואין במגלה קיום תלמוד תורה אם כן גם בלומד הלכות עבודה הוי נמי רק דבר אחד אם מכוין לעבודה הוי רק עבודה ואם מכוין לתורה הוי רק תורה וא\"נ אחד כבר נלמד מקרא דעבודה נדחה מפני מקרא מגלה ומכ\"ש תלמוד תורה דיחיד וא\"ש ממ\"נ. ויש ראיה לדברינו בספר החיים דכוונה אחת אינו עולה לב' דברים ע\"ש ואתי שפיר ודו\"ק והיא עצה נכונה בעזה\"י:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 687:2",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אורח חיים תרפז:ב",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 687:2"
+                    }
+                  ]
+                },
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ז)</span> מבטלים ת\"ת וכו'</strong> - ר\"ל אף דת\"ת שקול כנגד כל המצות ואפילו היתה ת\"ת של חבורה גדולה של ק' אנשים שלומדים באיזה בית אפ\"ה צריך לבטל ולילך לקרותה בצבור משום ברב עם הדרת מלך. וכתב הח\"א מ\"מ מי שמתפלל כל השנה בקביעות במנין המיוחד לו להתפלל שם א\"צ לילך לביהכ\"נ:",
+                      "ref": "Mishnah Berurah 687:7",
+                      "sourceHeRef": "משנה ברורה תרפז:ז",
+                      "sourceRef": "Mishnah Berurah 687:7"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ח)</span> כדי צרכו</strong> - מלשון זה מוכח דאף שהוא בעיר שיש לו קוברין דשוב אינו מוטל בבזיון והזריזות לקוברו קודם הוא רק תוספות כבוד לו אפ\"ה מותר להקדימו קודם מקרא מגילה וכ\"מ בהג\"ה סוף סי' תרצ\"ו דס\"ל דקבורת מתו קודם אבל במ\"א הביא בשם כמה פוסקים דס\"ל דוקא מת מצוה משמע שמצאו בשדה שהוא מוטל בבזיון שאין לו קוברין כלל אבל בעיר שיש לו אנשים שדואגין בעבורו מקרא מגילה קודם [אם לא בת\"ח שקבורתו קודם למקרא מגילה] וכן הסכים בביאור הגר\"א להלכה אכן כתב שאם התחילו להוציאו אין מפסיקין באמצע ואז נדחה מקרא מגילה לגמרי אפילו א\"א לקראה אח\"כ וכעין זה כתב הפר\"ח ג\"כ עי\"ש:",
+                      "ref": "Mishnah Berurah 687:8",
+                      "sourceHeRef": "משנה ברורה תרפז:ח",
+                      "sourceRef": "Mishnah Berurah 687:8"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ט)</span> בדאיכא שהות וכו'</strong> - וה\"ה לענין מילה ומגילה איכא שהות לעשות שתיהן מגילה קודם משום פרסומי ניסא [פר\"ח ופרמ\"ג] והעולם נוהגין למול קודם המגילה וכדלקמן בסוף סימן תרצ\"ג [ח\"א]:",
+                      "ref": "Mishnah Berurah 687:9",
+                      "sourceHeRef": "משנה ברורה תרפז:ט",
+                      "sourceRef": "Mishnah Berurah 687:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(י)</span> אבל אם א\"א וכו'</strong> - ר\"ל שיתבטל המצוה דאורייתא לגמרי אם לא יעשנה ביום ההוא ומה שכתב לקמיה דאם א\"א לו לקראה אח\"כ יקראנה קודם התם לא יתבטל לגמרי המצות קבורה דיהיה אפשר לו לקברו בלילה ואה\"נ דאם לא יהיה אפשר לו לקברו אח\"כ כגון מפני לסטים וכה\"ג בודאי מת מצוה קודם:",
+                      "ref": "Mishnah Berurah 687:10",
+                      "sourceHeRef": "משנה ברורה תרפז:י",
+                      "sourceRef": "Mishnah Berurah 687:10"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יא)</span> אין שום מצוה דאורייתא נדחית וכו'</strong> - מפני שמקרא מגילה הוא רק מדרבנן ועיין בט\"ז שהביא בשם רש\"ל וב\"ח דתמיד מקרא מגילה קודם משום פרסומי ניסא והגר\"א בביאורו ג\"כ סובר הכי עי\"ש:",
+                      "ref": "Mishnah Berurah 687:11",
+                      "sourceHeRef": "משנה ברורה תרפז:יא",
+                      "sourceRef": "Mishnah Berurah 687:11"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יב)</span> בדאפשר לו לקראה</strong> - אבל אם הוא סמוך לחשיכה יקרא המגילה דהא מת מצוה אפשר לקוברו בלילה. והנה זה העתיק הרמ\"א בשם מהר\"א מזרחי אבל כמה אחרונים חולקין ע\"ז וסוברין דאפילו באופן שידחה המגילה לגמרי ג\"כ מת מצוה קודם משום בכבוד הבריות אכן כבר ביארנו לעיל דדוקא במת מצוה משמת אבל לא בשאר מתים ואפילו אם נפסוק שם דבשאר מתים ג\"כ מצוה להקדים קבורתו לקריאת המגילה עכ\"פ היכא דידחה עי\"ז קריאת המגילה לגמרי בודאי מגילה קודם ויקבר מתו בלילה:",
+                      "ref": "Mishnah Berurah 687:12",
+                      "sourceHeRef": "משנה ברורה תרפז:יב",
+                      "sourceRef": "Mishnah Berurah 687:12"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "Therefore, the members of a synagogue that usually hosts several <i>minyanim</i> every day should try to gather together on Purim and hear the <i>Megilla</i> with a large number of people. However, one who generally prays in a small synagogue need not change his fixed practice in order to hear the <i>Megilla</i> in a large synagogue, provided that there will be a <i>minyan </i>at the reading he attends (SA 687:2, <i>Ḥayei Adam</i>, MB <i>ad loc. </i>7, SHT <i>ad loc. </i>8, 10).",
+                      "he": "לפיכך, בית כנסת שרגילים לקיים בו בכל יום כמה מניינים, ראוי שבפורים יתאספו כולם יחד לקריאת המגילה ברוב עם. אמנם מי שרגיל להתפלל בבית כנסת קטן, למרות שמספר המתפללים בו מועט, אינו צריך לבטל את קביעותו כדי לשמוע מקרא מגילה בבית כנסת גדול, ובתנאי שישמע את קריאת המגילה במניין <span class=\"parenthesized\">(שו\"ע או\"ח תרפז, ב, ח\"א, משנה ברורה ז, שעה\"צ ח, י)</span>.",
+                      "ref": "Peninei Halakhah, Zemanim 15:5:5",
+                      "sourceHeRef": "זמנים טו:ה:ה",
+                      "sourceRef": "Zemanim 15:5:5"
+                    }
+                  ]
+                }
+              },
+              "en": "2. We cancel Torah learning to hear the megillah, all the more so for the rest of the mitzvot of the Torah, that all of them are pushed aside because of the reading of the megillah, for there isn't anything that pushes aside megillah reading, except for an unclaimed dead body that does not have anyone to bury it (according to its need), in that the one who happens upon it buries it first and afterwards reads [the megillah]. <i>RAMA: And all of this is only dealing with [a situation] in which one is able to do the two of them. But if it is impossible to do the two of them, there is no Torah mitzvah that is pushed aside because of megillah reading (Ran and Beit Yosef in the name of the Tosafot and Mehar''a Mizrachi). And the fact that an unclaimed dead body comes first, this is specifically when it is possible for him to read afterwards (Mehar''a Mizrachi).</i>",
+              "he": "מבטלים תלמוד תורה לשמוע מקרא מגילה קל וחומר לשאר מצות של תורה שכלם נדחים מפני מקרא מגילה שאין לך דבר שנדחה מקרא מגילה מפניו חוץ ממת מצוה שאין לו קוברין <span class=\"hebrew-emphasis\">[כדי צרכו] </span> שהפוגע בו קוברו תחלה ואח\"כ קורא: <span class=\"hebrew-emphasis\">הגה וכל זה לא מיירי אלא בדאיכא שהות לעשות שתיהן אבל אם אי אפשר לעשות שתיהן אין שום מצוה דאורייתא נדחית מפני מקרא מגילה [ר\"ן וב\"י בשם תוס' ומהר\"א מזרחי] והא דמת מצוה קודם היינו דוקא בדאפשר לו לקראה אח\"כ [מהר\"א מזרחי]</span>:",
+              "ref": "Shulchan Arukh, Orach Chayim 687:2",
+              "sourceHeRef": "אורח חיים תרפז:ב - דיני חיוב קריאת המגילה",
+              "sourceRef": "Orach Chayim 687:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו בברייתא: <b>הכל חייבים במקרא מגילה, כהנים לוים וישראלים.</b> ושואלים: <b>פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט]</span> הדבר! ומשיבים: <b>לא צריכא</b> <span class=\"hebrew-emphasis\">[לא נצרכה]</span> אלא להשמיע שחייבים <b>ליבטיל</b> <span class=\"hebrew-emphasis\">[לבטל]</span> את <b>עבודתם</b> כדי לשומעה, <b>וכ</b>מו שאמר <b>רב יהודה אמר שמואל,</b> ש<b>אמר רב יהודה אמר שמואל: כהנים</b> כשהם <b>בעבודתם</b> במקדש, <b>ו</b>כן <b>לוים</b> העומדים <b>בדוכנן</b> במקדש כדי לשיר, <b>ו</b>כן <b>ישראל</b> העומדים <b>במעמדן</b> על קרבנות הציבור, <b>מבטלין עבודתם</b> במקדש, <b>ובאין לשמוע מקרא מגילה.</b>",
+              "ref": "Steinsaltz on Arakhin 4a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:ב",
+              "sourceRef": "Steinsaltz on Arakhin 4a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Everyone is obligated in the reading of the Megilla. Even priests who are occupied with the Temple service interrupt their service to come and hear the reading of the Megilla. This <i>halakha </i>is in accordance with the statement of Shmuel (Rambam <i>Sefer Zemanim</i>, <i>Hilkhot Megilla VaĤanukka</i> 1:1; see <i>Shulĥan Arukh</i>,<i> Oraĥ Ĥayyim</i> 687:2 in the comment of Rema and the other commentaries there).",
+              "he": "הואיל ואי אפשר שיהיה קרבנו של אדם קרב והוא אינו עומד על גביו, וקרבנות הציבור הן קרבן של כל ישראל, לפיכך, תיקנו נביאים הראשונים שיבררו מישראל אנשים כשרים ויראי חטא ויהיו שלוחי כל ישראל לעמוד על קרבנות הציבור. וחילקו את הארץ לעשרים וארבעה מעמדות כמנין משמרות כהונה ולויה, וכשמגיע זמן המעמד, אלו המצויים בירושלים ובסביבתה היו נכנסים למקדש ושם היו מתפללים וקוראים בתורה במעשה בראשית, וכך היו עושים גם המרוחקים שנשארו במקומם (עפ\"י משנה תענית כו,א. רמב\"ם הלכות כלי המקדש פרק ו).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:2",
+              "sourceHeRef": "לִיבַטֵּיל עֲבוֹדָתָם",
+              "sourceRef": "Cancel their service"
+            },
+            {
+              "en": "In the Temple era, priests and Levites were divided into twenty-four watches. Each watch served in the Temple for one week at a time, two or three times a year. The entire nation was also divided into twenty-four watches, with each watch attached to a specific group of priests. During the week when a given priestly watch was on duty in the Temple, some members of the corresponding non-priestly watch were dispatched to Jerusalem to serve in the Temple, while others would assemble in various cities throughout the land. The representatives of the non-priestly watch would perform certain rituals, such as reading special portions of the Torah and fasting several days that week. Vestiges of the customs of the non-priestly watch can be found in various prayer books.",
+              "he": "עניינה של קריאת המגילה הוא פרסום הנס ברבים, וקידוש השם שיש בדבר מעמיד אותו בחשיבות גדולה במיוחד, מעבר לקיום פרטי של מצוה, וכמה וכמה הלכות בענייני מגילה נובעות מעקרון זה. ויש שאומרים כי מדובר כאן רק בדחייה זמנית של העבודה, וכגון שהכהנים מקריבים תמיד של שחר, ועליהם ללכת לשמוע מגילה עם הרבים, ואחר כך לחזור ולהקריב (תוס' מגילה ג,א ועוד, ראה ב\"י או\"ח תרפז ורמ\"א שם סעיף ב), אבל באופן אחר — אין קריאת מגילה, שהיא מדברי חכמים, דוחה מצוה מן התורה. ויש אומרים כי מדובר כאן גם במקרה שתיבטל לגמרי העבודה (ראה גר\"א על שו\"ע שם, טורי אבן מגילה ג,א).",
+              "ref": "Steinsaltz comment #2 on Arakhin 4a:2",
+              "sourceHeRef": "מַעֲמָדוֹת",
+              "sourceRef": "Non-priestly watches"
+            },
+            {
+              "en": "Some commentaries hold that this merely refers to delaying their service, e.g., postponing their sacrifice of the daily offering until after hearing the communal reading of the Megilla (<i>Tosafot</i> on <i>Megilla</i> 3a; see <i>Beit Yosef </i>on <i>Tur</i>, <i>Oraĥ Ĥayyim</i> 687 and <i>Shulĥan Arukh</i>, <i>Oraĥ Ĥayyim</i> 687:2 in the comment of Rema). Others hold that this <i>halakha</i> applies even in a case where the priests will completely neglect the service (see <i>Beur HaGra</i> on <i>Shulĥan Arukh</i>,<i> Oraĥ Ĥayyim</i> 687:2; <i>Turei Aven</i> on <i>Megilla </i>3a).",
+              "he": "הכל חייבים בקריאת המגילה, ואפילו כהנים כשהם בעבודת המקדש מבטלים עבודתם ובאים לשמוע מקרא מגילה. כשמואל. (רמב\"ם ספר זמנים הלכות מגילה פ\"א ה\"א. וראה שו\"ע או\"ח תרפז, ב בהגהה ונושאי הכלים).",
+              "ref": "Steinsaltz comment #3 on Arakhin 4a:2",
+              "sourceHeRef": "מְבַטְּלִין עֲבוֹדָתָם וּבָאִין לִשְׁמוֹעַ מִקְרָא מְגִילָּה",
+              "sourceRef": "Cancel their service and come to hear the reading of the Megilla"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites another similar <i>baraita</i>: <b>Everyone is obligated in the reading of the Megilla</b> including <b>priests, Levites, and <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Israelites</span>.</b> The Gemara asks as before: Isn’t that <b>obvious?</b> The Gemara answers: <b>No,</b> it is <b>necessary to</b> teach that they <b>cancel their service</b> in the Temple and come to hear the reading of the Megilla, <b>and</b> this is <b>in accordance</b> with <b>that</b> which <b><span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span></b> says that <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> says. As <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> says</b> that <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> says: The priests at their</b> Temple <b>service, and the Levites on their platform</b> in the Temple where they sang the daily psalm, <b>and the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Israelites</span> at their</b> non-priestly <b>watches</b> for the offerings of the community, all <b>cancel their service and come to hear the reading of the Megilla.</b>",
+      "he": "הכל חייבים במקרא מגילה כהנים לוים <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">וישראלים</span> פשיטא לא צריכא ליבטיל עבודתם <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">וכדרב יהודה</span> אמר <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">שמואל</span> דאמר <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">רב יהודה</span> אמר <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">שמואל</span> כהנים בעבודתם ולוים בדוכנן <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">וישראל</span> במעמדן מבטלין עבודתם ובאין לשמוע מקרא מגילה",
+      "ref": "Arakhin 4a:2",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּכָן</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ II 1\" href=\"/Jastrow,_דּוּךְ II.1\"><span dir=\"rtl\">דּוּךְ</span> II</span>) <i>place to stand on, stand, stage</i>, especially <i>Dukhan</i>, the priests’stage from which they pronounce the benediction. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span>; and from—<span dir=\"rtl\">עלה לד׳</span> to go up the stage, <i>to officiate as priest</i>. <span class=\"refLink\" data-ref=\"Shabbat 118b:3\" href=\"/Shabbat.118b.3\">Shabbat 118ᵇ</span><br>; and e.—2) <i>religious service from the stand, the Levite’s singing, teaching</i>. <span class=\"refLink\" data-ref=\"Megillah 3a:18\" href=\"/Megillah.3a.18\">Megillah 3ᵃ</span>; <span class=\"refLink\" data-ref=\"Arakhin 4a:55\" href=\"/Arakhin.4a.55\">Arakhin 4ᵃ</span> the Levites <span dir=\"rtl\">מִדּוּכָנָן</span> Manuscript Munich (ed. <span dir=\"rtl\">בר׳</span>) must interrupt their services.—plural <span dir=\"rtl\">דּוּכָנִים</span>, <span dir=\"rtl\">דּוּכָנִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ III 1\" href=\"/Jastrow,_דּוּךְ III.1\"><span dir=\"rtl\">דּוּךְ</span> III</span>. Cmp. <span class=\"refLink\" data-ref=\"Jastrow, דָּכוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_דָּכוֹן.1\">דָּכוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּכָן 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּכָן א׳",
+              "sourceRef": "Jastrow, דּוּכָן 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והך אכילת קדשים משום כפרה הוא דכתיב ואכלו אותם אשר כופר בהם מלמד שהכהנים אוכלין והבעלים מתכפרין <span class=\"parenthesized\">(יומא סח:)</span> אימא לא תיבעי זימון קמ\"ל כו':",
+              "ref": "Rashi on Arakhin 4a:3:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:ג:א",
+              "sourceRef": "Rashi on Arakhin 4a:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שנינו בברייתא: <b>הכל חייבין בזימון</b> להצטרף יחד לברכת המזון, <b>כהנים לוים וישראלים.</b> ושואלים: <b>פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט],</span> הדבר! ומשיבים: <b>לא צריכא</b> <span class=\"hebrew-emphasis\">[לא נצרכה]</span> הלכה זו אלא לשעה <b>דקאכלי</b> <span class=\"hebrew-emphasis\">[שאוכלים]</span> הכהנים בשר <b>קדשים,</b> <b>סלקא דעתך אמינא</b> <span class=\"hebrew-emphasis\">[יעלה על דעתך לומר]:</span> <b>\"ואכלו אותם אשר כפר בהם\"</b> (שמות כט, לג) <b>אמר רחמנא</b> <span class=\"hebrew-emphasis\">[אמרה התורה],</span> שאכילת הכהנים מבשר הקרבן יש בה כפרה לבעלים, <b>והא</b> <span class=\"hebrew-emphasis\">[ו</span>אכילה <span class=\"hebrew-emphasis\">זו]</span> אכילת חובה לשם <b>כפרה היא,</b> ואין זה נחשב כסעודה משותפת המחייבת בזימון, על כן",
+              "ref": "Steinsaltz on Arakhin 4a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:ג",
+              "sourceRef": "Steinsaltz on Arakhin 4a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Everyone is obligated to form a <i>zimmun</i>, just as they are obligated to recite the Grace after Meals. This includes priests who ate offerings of the most sacred order in the Temple courtyard (Rambam<i> Sefer Ahava</i>,<i> Hilkhot Berakhot</i> 5:6).",
+              "he": "והואיל ואין חובת זימון אלא כאשר אנשים קובעים סעודה יחד, יש מקום לומר שאכילת קדשים בעזרה, שכל עניינה הוא מצוה וכפרה — אין להתיחס אליה כאל קביעת סעודה משותפת לכהנים (ראה חידושים וביאורים. וכבר העירו כי הפסוק המובא \"ואכלת ושבעת וברכת\" מהוה מקור מן התורה לברכת המזון, וגם הדגש על \"ושבעת\" (ואכן יש מי שרצה לפרש שמדובר כאן על ברכת המזון. כלי חמדה פרשת עקב). ואולם לפי הברייתא המובאת במסכת ברכות (מח,ב), מקור ברכת הזימון גם הוא בפסוק זה.",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:3",
+              "sourceHeRef": "דְּקָאָכְלִי קָדָשִׁים",
+              "sourceRef": "Where they partake of sacrificial meat"
+            },
+            {
+              "en": "",
+              "he": "הכל חייבין בברכת הזימון כדרך שחייבין בברכת המזון, אפילו כהנים שאכלו קדשי הקדשים בעזרה (רמב\"ם ספר אהבה הלכות ברכות פ\"ה ה\"ו).",
+              "ref": "Steinsaltz comment #2 on Arakhin 4a:3",
+              "sourceHeRef": "דקאכלי קדשים",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "These things shall be eaten only by those for whom expiation was made with them when they were ordained and consecrated; they may not be eaten by a layman, for they are holy.",
+              "he": "וְאָכְל֤וּ אֹתָם֙ אֲשֶׁ֣ר כֻּפַּ֣ר בָּהֶ֔ם לְמַלֵּ֥א אֶת־יָדָ֖ם לְקַדֵּ֣שׁ אֹתָ֑ם וְזָ֥ר לֹא־יֹאכַ֖ל כִּי־קֹ֥דֶשׁ הֵֽם׃",
+              "link": "/Exodus/29",
+              "ref": "Exodus 29:33",
+              "sourceHeRef": "שמות כט:לג",
+              "sourceRef": "Exodus 29:33"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites yet another similar <i>baraita</i>: <b>Everyone is obligated to form a <i>zimmun</i></b> and recite Grace after Meals, including <b>priests, Levites, and <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Israelites</span>.</b> The Gemara asks: Isn’t that <b>obvious?</b> The Gemara answers: <b>No,</b> it is <b>necessary to</b> teach this <i>halakha</i> in a case <b>where</b> the priests <b>partake of sacrificial</b> meat. It might <b>enter your mind to say</b> that since <b>the Merciful One states</b> in the Torah: <b>“And they shall eat those things with which atonement was made”</b> (Exodus 29:33), indicating that the owners of those offerings thereby achieve atonement, <b>and</b> therefore <b>this</b> consumption <b>is</b> an obligatory ritual act to bring about <b>atonement,</b> consequently, it is not considered a social meal requiring one to form a <i>zimmun</i>.",
+      "he": "הכל חייבין בזימון כהנים לוים <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">וישראלים</span> פשיטא לא צריכא דקאכלי קדשים סד\"א (שמות כט, לג) ואכלו אותם אשר כופר בהם אמר רחמנא והא כפרה היא",
+      "ref": "Arakhin 4a:3"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּכָן</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ II 1\" href=\"/Jastrow,_דּוּךְ II.1\"><span dir=\"rtl\">דּוּךְ</span> II</span>) <i>place to stand on, stand, stage</i>, especially <i>Dukhan</i>, the priests’stage from which they pronounce the benediction. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span>; and from—<span dir=\"rtl\">עלה לד׳</span> to go up the stage, <i>to officiate as priest</i>. <span class=\"refLink\" data-ref=\"Shabbat 118b:3\" href=\"/Shabbat.118b.3\">Shabbat 118ᵇ</span><br>; and e.—2) <i>religious service from the stand, the Levite’s singing, teaching</i>. <span class=\"refLink\" data-ref=\"Megillah 3a:18\" href=\"/Megillah.3a.18\">Megillah 3ᵃ</span>; <span class=\"refLink\" data-ref=\"Arakhin 4a:55\" href=\"/Arakhin.4a.55\">Arakhin 4ᵃ</span> the Levites <span dir=\"rtl\">מִדּוּכָנָן</span> Manuscript Munich (ed. <span dir=\"rtl\">בר׳</span>) must interrupt their services.—plural <span dir=\"rtl\">דּוּכָנִים</span>, <span dir=\"rtl\">דּוּכָנִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ III 1\" href=\"/Jastrow,_דּוּךְ III.1\"><span dir=\"rtl\">דּוּךְ</span> III</span>. Cmp. <span class=\"refLink\" data-ref=\"Jastrow, דָּכוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_דָּכוֹן.1\">דָּכוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּכָן 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּכָן א׳",
+              "sourceRef": "Jastrow, דּוּכָן 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[משמיע לנו]</span> כי <b>\"ואכלת ושבעת</b> וברכת\" (דברים ח, י) <b>אמר רחמנא</b> <span class=\"hebrew-emphasis\">[אמרה התורה],</span> החיוב בברכה תלוי בשביעה, <b>והא איתנהו</b> <span class=\"hebrew-emphasis\">[והרי ישנם</span> בשביעה<span class=\"hebrew-emphasis\">],</span> ולכן חייבים בזימון.",
+              "ref": "Steinsaltz on Arakhin 4a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:ד",
+              "sourceRef": "Steinsaltz on Arakhin 4a:4"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "When you have eaten your fill, give thanks to the L<small>ORD</small> your God for the good land which He has given you.",
+              "he": "וְאָכַלְתָּ֖ וְשָׂבָ֑עְתָּ וּבֵֽרַכְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ עַל־הָאָ֥רֶץ הַטֹּבָ֖ה אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃",
+              "link": "/Deuteronomy/8",
+              "ref": "Deuteronomy 8:10",
+              "sourceHeRef": "דברים ח:י",
+              "sourceRef": "Deuteronomy 8:10"
+            }
+          ]
+        }
+      },
+      "en": "Therefore, the <i>baraita</i> <b>teaches us</b> that since <b>the Merciful One states</b> in the Torah: <b>“And you shall eat, and be satisfied,</b> and bless the Lord your God” (Deuteronomy 8:10), the obligation to recite Grace after Meals is contingent upon eating and being satisfied. Since <b>there is</b> eating and satisfaction in the case of priests partaking of the sacrificial meat, they are obligated to form a <i>zimmun</i>, despite the fact that the purpose of the meal is to bring about atonement.",
+      "he": "קמ\"ל (דברים ח, י) ואכלת ושבעת אמר רחמנא והא איתנהו:",
+      "ref": "Arakhin 4a:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מצטרפין כו'</strong> - אי אכיל חד כהן וחד לוי וחד ישראל. כהן בהדי זר מצי למיכל מן החולין הלכך מצטרפין:",
+              "ref": "Rashi on Arakhin 4a:5:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:ה:א",
+              "sourceRef": "Rashi on Arakhin 4a:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שנינו בבריתא: <b>הכל מצטרפין</b> יחד <b>לזימון, כהנים לוים וישראלים.</b> ושואלים: <b>פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט],</span> הדבר! ומשיבים: <b>לא צריכא</b> <span class=\"hebrew-emphasis\">[לא נצרכה]</span> הלכה זו אלא למקרה <b>דקאכלי</b> <span class=\"hebrew-emphasis\">[שאוכלים]</span> <b>כהנים תרומה או קדשים, ו</b>אילו ה<b>זר</b> שעימם <b>קאכיל</b> <span class=\"hebrew-emphasis\">[אוכל]</span> <b>חולין;</b>",
+              "ref": "Steinsaltz on Arakhin 4a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:ה",
+              "sourceRef": "Steinsaltz on Arakhin 4a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If priests and Israelites eat together, they are required to form a <i>zimmun </i>and recite Grace after Meals. This applies even if the priests partake of <i>teruma</i> while the Israelites eat non-sacred food (Rambam<i> Sefer Ahava</i>,<i> Hilkhot Berakhot</i> 5:6; <i>Shulĥan Arukh</i>,<i> Oraĥ Ĥayyim</i> 196:3).",
+              "he": "כהנים וישראלים שאכלו כאחד, ואכלו הכהנים תרומה, והישראלים חולין — חייבים בזימון. כגמרא. (רמב\"ם שם. שו\"ע או\"ח קצו, ג).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:5",
+              "sourceHeRef": "דְּקָאָכְלִי כֹּהֲנִים תְּרוּמָה",
+              "sourceRef": "Priests are partaking of <i>teruma</i>"
+            },
+            {
+              "en": "Whenever the term <i>teruma</i> appears without qualification, it is referring to <i>teruma gedola</i>, which is given to the priest. The Torah commands that <i>teruma</i> be separated from grain, wine, and oil, and the Sages extended the scope of this mitzva, which applies only in Eretz Yisrael, to include all produce. While the Torah does not specify the amount of <i>teruma</i> that must be set aside, and one may theoretically fulfill his obligation by giving even a single kernel of grain from an entire crop, the Sages established the following measures: One-fortieth of the produce for a generous gift, one-fiftieth for an average gift, and one-sixtieth for a miserly gift.  One should first separate <i>teruma</i> and only afterward set aside other tithes. Since <i>teruma</i> is considered sanctified and may be eaten only by a priest and his household in a state of ritual purity (see Leviticus 22:9–15), the Sages emphasized this <i>halakha </i>by obligating the priests to wash their hands before partaking of it. This is the source for the practice of washing one’s hands before eating bread. A ritually impure priest, or a non-priest, who eats <i>teruma</i> is subject to the penalty of death at the hand of Heaven. If <i>teruma</i> contracts ritual impurity, it may no longer be eaten and must be burned, although it remains the property of the priest and he may derive benefit from its being burned. Nowadays <i>teruma</i> is not given to the priests, because they have no definite proof of their priestly lineage. Nevertheless, the obligation to separate <i>teruma</i> remains, although in practice only a small portion of the produce is separated.",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Arakhin 4a:5",
+              "sourceHeRef": "תְּרוּמָה",
+              "sourceRef": "<i>Teruma</i>"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites another <i>baraita</i>: <b>Everyone joins a <i>zimmun</i>: Priests, Levites, and <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Israelites</span>.</b> The Gemara asks again: Isn’t that <b>obvious?</b> The Gemara answers: <b>No,</b> it is <b>necessary to</b> teach this <i>halakha</i> in a case <b>where</b> the <b>priests are partaking of <i>teruma</i>,</b> the portion of produce designated for priests, <b>or sacrificial</b> meat, <b>and a non-priest is eating non-sacred</b> food.",
+      "he": "הכל מצטרפין לזימון כהנים לוים <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">וישראלים</span> פשיטא לא צריכא דקאכלי כהנים תרומה או קדשים וזר קאכיל חולין",
+      "ref": "Arakhin 4a:5"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>סלקא דעתך אמינא</b> <span class=\"hebrew-emphasis\">[יעלה על דעתך לומר]:</span> <b>הואיל ואי בעי</b> <span class=\"hebrew-emphasis\">[ואם רוצה]</span> ה<b>זר למיכל בהדי</b> <span class=\"hebrew-emphasis\">[לאכול יחד עם]</span> ה<b>כהן</b> מהתרומה <b>לא מצי אכיל</b> <span class=\"hebrew-emphasis\">[אינו יכול לאכול],</span> שהיא אסורה עליו — <b>אימא לא ליצטרף</b> <span class=\"hebrew-emphasis\">[אמור שלא יצטרף עמם</span> לזימון<span class=\"hebrew-emphasis\">],</span> לכן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[משמיע לנו]:</span> <b>נהי דזר בהדי כהן לא מצי אכיל, כהן בהדי זר מצי אכיל</b> <span class=\"hebrew-emphasis\">[</span>גם <span class=\"hebrew-emphasis\">אם אמנם זר ביחד עם הכהן אינו יכול לאכול</span> מהתרומה, <span class=\"hebrew-emphasis\">כהן ביחד עם הזר יכול לאכול</span> מהחולין<span class=\"hebrew-emphasis\">],</span> ולכן הם מצטרפים לזימון.",
+              "ref": "Steinsaltz on Arakhin 4a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:ו",
+              "sourceRef": "Steinsaltz on Arakhin 4a:6"
+            }
+          ]
+        }
+      },
+      "en": "In such a case, it might <b>enter your mind to say</b> that <b>since if the non-priest wants to eat together with the priest he cannot eat</b> with him from the <i>teruma</i>, as it is forbidden to him, one could <b>say</b> that <b>he cannot join</b> with the priests for a <i>zimmun</i>. Therefore, the <i>baraita</i> <b>teaches us</b> that he can join them, as <b>although a non-priest cannot eat together with a priest</b> from his <i>teruma</i>, nevertheless, <b>a priest can eat together with a non-priest</b> from his food. Consequently, they can join together to form a <i>zimmun</i>.",
+      "he": "סד\"א הואיל ואי בעי זר למיכל בהדי כהן לא מצי אכיל אימא לא ליצטרף קמ\"ל נהי דזר בהדי כהן לא מצי אכיל כהן בהדי זר מצי אכיל",
+      "ref": "Arakhin 4a:6"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>The Sages taught</b> in a <i>baraita</i> (<i>Tosefta</i> 6:4): With regard to <b>salt that is on the limb</b> of an offering, one who derives benefit <b>from it</b> is liable for <b>misuse</b> of consecrated property, but in the case of salt <b>that is on the ramp or that is on top of the altar,</b> one who derives benefit <b>from it</b> is <b>not</b> liable for <b>misuse</b> of consecrated property. <b>And Rav Mattana said: What is the verse</b> from which it is derived that the salt found upon a sacrificial limb is subject to the <i>halakhot</i> of misuse of consecrated property? The verse states: <b>“And you shall sacrifice them before the Lord, and the priests shall cast salt upon them, and they shall offer them up for a burnt offering to the Lord”</b> (Ezekiel 43:24). In this verse, the limbs, together with the salt, are termed a burnt offering, and therefore the salt on the limb is also subject to the <i>halakhot</i> of misuse of consecrated property.",
+                  "With regard to the <i>halakha</i> that salt is not subject to the <i>halakhot</i> of misuse of consecrated property, <b>we learned</b> in a mishna <b>elsewhere</b> (<i>Shekalim</i> 7:7): The court instituted an ordinance <b>about the salt and about the wood</b> in the Temple to the effect <b>that the priests may derive benefit from them. Shmuel says: They taught only</b> that the priests may derive benefit from the salt <b>for</b> use on <b>their offerings, but not for eating</b> it.",
+                  "The Gemara comments: <b>It enters our mind</b> to say: <b>What</b> did Shmuel mean by the expression: <b>For</b> use on <b>their offerings?</b> He meant that the priests were permitted <b>to salt their</b> personal <b>offerings.</b> And when Shmuel states that <b>for</b> the purpose of <b>eating</b> it is not permitted for the priests to derive benefit from the salt, he is referring to adding salt when <b>eating</b> the meat <b>of sacrificial</b> animals, e.g., the portions of the sin offering and guilt offering that are given to the priests. The Gemara challenges this explanation: <b>Now,</b> if <b>we give</b> the priests salt in order <b>to salt the hides of sacrificial</b> animals that are given to the priests to keep, so that they can process them, is it reasonable to rule that <b>we do not give them</b> salt in order <b>to</b> add it when they <b>eat</b> the meat of <b>sacrificial</b> animals?",
+                  "The Gemara explains its challenge: <b>As it is taught</b> in a <i>baraita</i> (<i>Tosefta</i> 6:2): <b>You are found</b> to be <b>saying</b> that <b>the salt is placed in three locations</b> in the Temple: <b>In the Chamber of the Salt, and on the ramp, and on top of</b> the <b>altar.</b> It is placed <b>in the Chamber of the Salt, since</b> the priests <b>salted there the hides of sacrificial</b> animals that are given to them. It is placed <b>on the ramp, since</b> the priests <b>salted there the</b> sacrificial <b>limbs.</b> It is placed <b>on top of</b> the <b>altar, since</b> the priests <b>salted there the handful</b> of the meal offering, <b>the frankincense, the incense, the meal offering of priests, the meal offering of</b> the <b>anointed priest, the meal offering</b> that accompanies the <b>libations, and the bird burnt offering.</b> Evidently, it was permitted for the priests to add salt to their portions of sacrificial meat.",
+                  "The Gemara suggests a different explanation of Shmuel’s statement: <b>Rather, what</b> did Shmuel mean by the expression: <b>For</b> use on <b>their offerings?</b> He meant that it is permitted for the priests <b>to</b> add salt when they <b>eat</b> the meat of <b>their offerings,</b> e.g., the portions of the guilt offerings and sin offerings that are given to the priests, as well as when they eat the remainder of the meal offering. <b>And what</b> is meant when Shmuel states that <b>for</b> the purpose of <b>eating</b> it is not permitted for the priests to derive benefit from the salt? He is referring to using the salt for the purpose of <b>eating non-sacred</b> food.",
+                  "The Gemara objects: Isn’t it <b>obvious</b> that the salt is not to be eaten with <b>non-sacred</b> food? <b>What</b> would non-sacred food be <b>doing there</b> in the Temple courtyard? The Gemara answers: <b>Even though the Master says</b> in the <i>baraita</i> that the verse stated with regard to the meal offering: “And that which is left of it Aaron and his sons <b>shall eat”</b> (Leviticus 6:9), teaching <b>that</b> the priests <b>shall eat non-sacred</b> food <b>and <i>teruma</i> along with</b> the remainder of the meal offering <b>so that</b> the remainder of the meal offering <b>will be eaten in</b> a manner that the priest will be <b>satiated</b> when he finishes eating it, demonstrating that non-sacred food may be brought to the Temple courtyard, <b>even so we do not give them consecrated salt.</b>",
+                  "<b>Ravina said to Rav Ashi: So too, it is reasonable</b> to explain that Shmuel’s explanation of the mishna in <i>Shekalim</i> is that the ordinance of the court permitted the priests to eat the salt with sacrificial foods. <b>As, if it enters your mind</b> to say: <b>What</b> did Shmuel mean by the expression: <b>For</b> use on <b>their offerings?</b> He meant that the priests were permitted <b>to salt</b> their personal offerings; then one must extrapolate from the mishna that <b>the reason</b> this is permitted is <b>that the court stipulated</b> that it should be, <b>but had the court not stipulated</b> this, it would <b>not</b> be permitted. That cannot be, as <b>now</b> that <b>we give</b> salt <b>to Israelites</b> to salt their offerings, will <b>we not give</b> salt <b>to priests</b> for the same purpose?",
+                  "<b>As it is taught</b> in a <i>baraita</i> that we provide salt for the offerings of Israelites: One <b>might</b> have thought that <b>one who says: It</b> is incumbent <b>upon me</b> to bring <b>a meal offering, must bring salt from his home,</b> i.e., his own salt, to salt the handful that is burned on the altar, <b>just as he brings frankincense from his home</b> for his meal offering. <b>And</b> this would seem to be <b>a logical inference:</b> It <b>is stated</b> in the Torah that one shall <b>bring a meal offering, and</b> it is stated that one shall <b>bring salt,</b> as it is written: “And every meal offering of yours you shall season with salt” (Leviticus 2:13); <b>and</b> it <b>is stated</b> that one shall <b>bring a meal offering, and</b> it is stated that one shall <b>bring frankincense.</b> Therefore, <b>just as</b> one brings <b>frankincense from his home,</b> as it is written: “And put frankincense on it. And he shall bring it to Aaron’s sons the priests” (Leviticus 2:1–2), <b>so too,</b> one must bring <b>salt from his home.</b>",
+                  "<b>Or</b> perhaps, <b>go this way:</b> It <b>is stated</b> in the Torah that one shall <b>bring a meal offering and</b> that one shall <b>bring salt, and</b> it <b>is stated</b> that one shall <b>bring a meal offering and</b> that one shall <b>bring wood,</b> as the meal offering cannot be burned on the altar without the wood. Therefore, <b>just as</b> the <b>wood</b> comes <b>from communal</b> supplies, <b>so too,</b> the <b>salt</b> shall come <b>from communal</b> supplies.",
+                  "The <i>baraita</i> continues: <b>Let us see to which</b> salt <b>is</b> more <b>similar,</b> i.e., which comparison seems more reasonable: <b>We derive</b> the <i>halakha</i> of salt, which is <b>a matter that applies to all offerings, from</b> the <i>halakha</i> of wood, which is also <b>a matter that applies to all offerings. And</b> do <b>not</b> let the <i>halakha</i> of <b>frankincense prove</b> otherwise, <b>as it does not apply to all offerings,</b> only to the meal offerings.",
+                  "<b>Or</b> perhaps, <b>go this way: We derive</b> the <i>halakha</i> of salt, which is <b>a matter that accompanies</b> the meal offering <b>in one vessel, from</b> the <i>halakha</i> of frankincense, which is also <b>a matter that accompanies</b> the meal offering <b>in one vessel. And</b> do <b>not</b> let the <i>halakha</i> of <b>wood prove</b> otherwise, <b>as it does not accompany</b> the meal offering <b>in one vessel.</b>",
+                  "The <i>baraita</i> continues: <b>The verse states: “It is an everlasting covenant of salt”</b> (Numbers 18:19), <b>and there,</b> with regard to the shewbread, <b>it states: “It is from the children of Israel, an everlasting covenant”</b> (Leviticus 24:8); Therefore, <b>just as</b> the phrase written <b>there:</b> “From the children of Israel, an everlasting covenant,” means that it is brought <b>from communal</b> supplies, as the shewbread is a communal offering, <b>so too here,</b> the verse that speaks of the everlasting covenant of salt means that the salt is brought <b>from communal</b> supplies. Evidently, salt is provided for offerings of Israelites, and should likewise be provided for the offerings of priests. Accordingly, there would have been no need for the court to permit the priests to salt their offerings, and it must be that the ordinance of the court permitted the priests to use salt when eating sacrificial foods.",
+                  "<b>Rav Mordekhai said to Rav Ashi: This</b> is what <b>Rav Sheisha, son of Rav Idi, says:</b> The initial understanding of Shmuel’s interpretation of the mishna is correct, i.e., that the ordinance of the court permitted the priests to salt their offerings; and the ruling of the mishna <b>is necessary only according to</b> the opinion of <b>ben Bukhri,</b> who holds that priests are not obligated to contribute a yearly half-shekel to purchase the communal supplies.",
+                  "<b>As we learned</b> in a mishna (<i>Shekalim</i> 1:4): <b>Rabbi Yehuda said</b> that <b>ben Bukhri testified in Yavne: Any priest who contributes his shekel is not</b> considered <b>a sinner,</b> despite the fact that he is not obligated to do so. Rabbi Yehuda added that <b>Rabban Yoḥanan ben Zakkai said to</b> ben Bukhri: <b>That is not</b> the case; <b>rather, any priest who does not contribute his shekel</b> is considered <b>a sinner,</b> as they are obligated in this mitzva like all other Jews. <b>But the priests</b> who do not contribute the shekel <b>interpret this</b> following <b>verse to their own</b> advantage in order to excuse themselves from the mitzva.",
+                  "The verse states: <b>“And every meal offering of the priest shall be wholly made to smoke; it shall not be eaten”</b> (Leviticus 6:16). Those priests claim as follows: <b>Since</b> the <b><i>omer</i></b> offering <b>and the two loaves,</b> i.e., the public offering of two loaves from the new wheat, brought on the festival of <i>Shavuot</i>, <b>and the shewbread</b> placed on the Table in the Sanctuary each Shabbat, which are all meal offerings, are <b>ours,</b> then if we contribute shekels we will have partial ownership of these communal offerings, as they are purchased with the shekels. <b>How,</b> then, <b>can they be eaten?</b> They would then be regarded as priests’ meal offerings, which must be wholly burned.",
+                  "The Gemara clarifies: <b>But according to</b> the opinion of <b>ben Bukhri,</b> why is a priest who contributes a half-shekel not considered a sinner? <b>Since he is not obligated to bring</b> it <b><i>ab initio</i>, when he brings</b> the half-shekel <b>he is also a sinner, since he is</b> causing the <b>bringing</b> of <b>a non-sacred</b> item <b>into the</b> Temple <b>courtyard.</b> He is not contributing the half-shekel as part of the communal offering, as he is exempt from this obligation. Therefore, his donation is the donation of an individual, and a communal offering cannot be brought on behalf of an individual. His donation should disqualify all offerings brought from the communal funds. The Gemara answers: The priest <b>brings and transfers</b> the half-shekel <b>to the community,</b> so it is considered part of the communal funds.",
+                  "The Gemara states the relevance of the opinion of ben Bukhri to the statement of Shmuel: According to the opinion of ben Bukhri it might <b>enter your mind to say</b> that"
+                ],
+                [
+                  "<b>when the Merciful One granted</b> the Jewish people the right to use the salt when eating their offerings, he granted this <b>to Israelites, who have</b> an obligation to donate their half-shekels to the <b>chamber,</b> as this fund supplies the salt that is applied to the offerings. With regard <b>to the priests, who do not have</b> an obligation to donate their half-shekels to the <b>chamber, the Merciful One did not grant them</b> the right to make use of the salt. To counter this, the mishna in tractate <i>Shekalim</i> <b>teaches us</b> that the court granted to the priests the right to use the salt when eating their offerings.",
+                  "The Gemara asks: <b>And</b> with regard to the <b>wood,</b> concerning <b>which</b> it is <b>obvious to the <i>tanna</i></b> of the <i>baraita</i> <b>that</b> it is brought <b>from communal</b> supplies, <b>from where do we</b> derive this <i>halakha</i>? The Gemara answers: <b>As it is taught</b> in a <i>baraita</i>: One <b>might</b> have thought that <b>one who says: It</b> is incumbent <b>upon me</b> to bring <b>a burnt offering, must bring wood from his home</b> on which the burnt offering will be sacrificed, <b>just as he brings libations from his home</b> along with a burnt offering (see Numbers, chapter 15). Therefore, <b>the verse states</b> with regard to the burnt offering: <b>“On the wood that is on the fire which is upon the altar”</b> (Leviticus 1:12); the Torah juxtaposes the wood to the altar, teaching that <b>just as</b> the <b>altar</b> was built <b>from communal</b> funds, <b>so too,</b> the <b>wood and fire</b> are brought <b>from communal</b> supplies. This is <b>the statement of Rabbi Elazar bar Rabbi Shimon.</b>",
+                  "The <i>baraita</i> continues: <b>Rabbi Elazar ben Shammua says: Just as</b> the <b>altar was not used by an ordinary</b> person, as it was built for the purpose of serving as an altar for God, <b>so too,</b> the <b>wood and fire</b> should <b>not have been used</b> previously <b>by an ordinary</b> person, so one does not bring the wood from his home. The Gemara asks: <b>What</b> is the difference <b>between</b> the two opinions? The Gemara answers: The difference <b>between</b> the two <b>is whether</b> there is a requirement that the wood be <b>new,</b> i.e., that it had never been used. According to the opinion of Rabbi Elazar bar Rabbi Shimon, the wood is fit provided that it comes from communal supplies, even if it is not new wood, whereas according to Rabbi Elazar ben Shammua it must be new wood.",
+                  "The Gemara asks: <b>And</b> is it in fact the <i>halakha</i> that <b>old,</b> i.e., previously used, wood is <b>not</b> fit to be burned on the altar? <b>But isn’t it written: “And Araunah said to David: Let my lord the king take and offer up what seems good to him; behold the oxen for the burnt offering, and the threshing instruments [<i>morigim</i>] and the equipment of the oxen for the wood”</b> (II Samuel 24:22)? Despite the fact that the threshing instruments and equipment of the oxen have been used previously, apparently they are fit to be used when offering a burnt offering. The Gemara answers: <b>Here too,</b> the verse is speaking <b>of new</b> instruments and equipment that had not been previously used.",
+                  "Tangentially, the Gemara asks: <b>What</b> is the meaning of the term <b><i>morigim</i></b> mentioned in this verse? <b>Ulla said:</b> It is <b>a <i>turbal</i> bed.</b> This was not a known expression in Babylonia, so the Gemara asks: <b>What</b> is <b>a <i>turbal</i> bed? Rav Yehuda said:</b> It is referring to <b>a serrated [<i>dekurkesa</i>] board that the threshers use for threshing,</b> which is dragged over the grain by an animal in order to separate the kernels from the stalks. <b>Rav Yosef said: What is the verse</b> from which the meaning of <i>morigim</i> is derived? It is the verse that states: <b>“Behold, I have made you a new threshing sledge [<i>morag</i>] having sharp teeth; you shall thresh the mountains”</b> (Isaiah 41:15)."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Menachot 21b:1",
+                "Menachot 21b:2",
+                "Menachot 21b:3",
+                "Menachot 21b:4",
+                "Menachot 21b:5",
+                "Menachot 21b:6",
+                "Menachot 21b:7",
+                "Menachot 21b:8",
+                "Menachot 21b:9",
+                "Menachot 21b:10",
+                "Menachot 21b:11",
+                "Menachot 21b:12",
+                "Menachot 21b:13",
+                "Menachot 21b:14",
+                "Menachot 21b:15",
+                "Menachot 21b:16",
+                "Menachot 21b:17",
+                "Menachot 22a:1",
+                "Menachot 22a:2",
+                "Menachot 22a:3",
+                "Menachot 22a:4",
+                "Menachot 22a:5"
+              ],
+              "he": [
+                [
+                  "תנו רבנן מלח שעל גבי האבר מועלין בו שע\"ג הכבש ושבראשו של מזבח אין מועלין בו ואמר רב מתנה מאי קראה <span class=\"parenthesized\">(יחזקאל מג, כד)</span> והקרבתם לפני ה' והשליכו הכהנים עליהם מלח והעלו אותם עולה לה':",
+                  "תנן התם על המלח ועל העצים שיהו הכהנים נאותין בהן אמר שמואל לא שנו אלא לקרבנם אבל לאכילה לא",
+                  "קא ס\"ד מאי לקרבנם למלוח קרבנם לאכול אכילת קדשים השתא למלוח עורות קדשים יהבינן לאכילת קדשים לא יהבינן",
+                  "דתניא נמצאת אתה אומר בשלשה מקומות המלח נתונה בלשכת המלח ועל גבי הכבש ובראשו של מזבח בלשכת המלח ששם מולחין עורות קדשים על גבי הכבש ששם מולחים את האברים בראשו של מזבח ששם מולחין הקומץ והלבונה והקטורת ומנחת כהנים ומנחת כהן משיח ומנחת נסכים ועולת העוף",
+                  "אלא מאי לקרבנם לאכילת קרבנם ומאי לאכילה אכילה דחולין",
+                  "חולין פשיטא מאי בעו התם אע\"ג דאמר מר יאכלו שיאכלו עמה חולין ותרומה כדי שתהא נאכלת על השובע אפילו הכי מלח דקדשים לא יהבינן להו",
+                  "אמר ליה רבינא לרב אשי ה\"נ מסתברא דאי סלקא דעתך מאי לקרבנם למלוח טעמא דאתני בית דין הא לא אתני בית דין לא השתא לישראל יהבינן לכהנים לא יהבינן",
+                  "דתניא יכול האומר הרי עלי מנחה יביא מלח מתוך ביתו כדרך שמביא לבונה מתוך ביתו ודין הוא נאמר הביא מנחה והביא מלח ונאמר הביא מנחה והביא לבונה מה לבונה מתוך ביתו אף מלח מתוך ביתו",
+                  "או כלך לדרך זו נאמר הביא מנחה והביא מלח ונאמר הביא מנחה והביא עצים מה עצים משל ציבור אף מלח משל ציבור",
+                  "נראה למי דומה דנין דבר הנוהג בכל הזבחים מדבר הנוהג בכל הזבחים ואל תוכיח לבונה שאינה נוהגת בכל הזבחים",
+                  "או כלך לדרך זו דנין דבר הבא עמה בכלי אחד מדבר הבא עמה בכלי אחד ואל יוכיחו עצים שאינן באין עמה בכלי אחד",
+                  "ת\"ל <span class=\"parenthesized\">(במדבר יח, יט)</span> ברית מלח עולם הוא ולהלן הוא אומר <span class=\"parenthesized\">(ויקרא כד, ח)</span> מאת בני ישראל ברית עולם מה להלן משל ציבור אף כאן משל ציבור",
+                  "אמר ליה רב מרדכי לרב אשי הכי קאמר רב שישא בריה דרב אידי לא נצרכא אלא לבן בוכרי",
+                  "דתנן אמר רבי יהודה העיד בן בוכרי ביבנה כל כהן ששוקל אינו חוטא אמר לו רבן יוחנן בן זכאי לא כי אלא כל כהן שאינו שוקל חוטא אלא שהכהנים דורשין מקרא זה לעצמן",
+                  "<span class=\"parenthesized\">(ויקרא ו, טז)</span> וכל מנחת כהן כליל תהיה לא תאכל הואיל ועומר ושתי הלחם ולחם הפנים שלנו היא היאך נאכלין",
+                  "ולבן בוכרי כיון דלכתחילה לא מיחייב לאיתויי כי מייתי נמי חוטא הוא דקא מעייל חולין לעזרה דמייתי ומסר להון לציבור",
+                  "סלקא דעתך אמינא"
+                ],
+                [
+                  "כי זכי להו רחמנא לישראל דאית להו לשכה לכהנים דלית להו לשכה לא זכי להו רחמנא קמ\"ל",
+                  "ועצים דפשיטא ליה לתנא דמשל ציבור מנלן דתניא יכול האומר הרי עלי עולה יביא עצים מתוך ביתו כדרך שמביא נסכים מתוך ביתו ת\"ל <span class=\"parenthesized\">(ויקרא א, ח)</span> על העצים אשר על האש אשר על המזבח מה מזבח משל ציבור אף עצים ואש משל ציבור דברי רבי אלעזר בר ר\"ש",
+                  "רבי אלעזר בן שמוע אומר מה מזבח שלא נשתמש בו הדיוט אף עצים ואש שלא נשתמש בהן הדיוט מאי בינייהו איכא בינייהו חדתי",
+                  "ועתיקי לא והכתיב <span class=\"parenthesized\">(שמואל ב כד, כב)</span> ויאמר ארונה אל דוד יקח ויעל אדוני המלך הטוב בעיניו ראה הבקר לעולה והמוריגים וכלי הבקר לעצים הכא נמי בחדתי",
+                  "מאי מוריגים אמר עולא מטה של טרבל מאי מטה של טרבל אמר רב יהודה עיזא דקורקסא דדשו בה דשתאי אמר רב יוסף מאי קראה <span class=\"parenthesized\">(ישעיהו מא, טו)</span> הנה שמתיך למורג חרוץ חדש בעל פיפיות תדוש הרים:"
+                ]
+              ],
+              "link": "/Menachot/21b",
+              "originalRefsBeforeRewriting": [
+                "Menachot 21b:13",
+                "Menachot 21b:14",
+                "Menachot 21b:15",
+                "Menachot 21b:16"
+              ],
+              "ref": "Menachot 21b:1-22a:5",
+              "sourceHeRef": "מנחות כ״א ב",
+              "sourceRef": "Menachot 21b"
+            },
+            {
+              "en": [
+                "The mishna teaches that according to Rabbi Akiva failure to sacrifice the two sheep brought as peace offerings does not prevent sacrifice of the loaves. Consequently, if there are no sheep, the loaves are sacrificed by themselves. Concerning this <b>the Sages taught</b> in a <i>baraita</i>: In a case where <b>the two loaves</b> are <b>brought by themselves, they should be waved.</b> They should then be left overnight so that <b>their form decays,</b> i.e., they become disqualified, <b>and they are</b> then <b>brought out to the place of burning,</b> like any disqualified offering.",
+                "The Gemara challenges: <b>Whichever way you</b> look at it, this is difficult: <b>If</b> the loaves are <b>brought</b> and waved in order <b>to be eaten, let</b> the priests <b>eat them</b> rather than burn them. <b>If</b> they are <b>brought</b> only <b>to be burned, let</b> the priests <b>burn them immediately. Why are they</b> left overnight so that they undergo <b>a decay of form,</b> i.e., become disqualified?",
+                "<b>Rabba said: Actually,</b> the loaves are <b>brought</b> and waved in order <b>to be eaten.</b> Nevertheless, the Sages instituted a rabbinic <b>decree</b> that they not be eaten out of concern <b>lest sheep become available to</b> the nation <b>the following year, and they</b> might <b>say: Didn’t we eat the loaves without</b> any accompanying <b>sheep last year [<i>eshtakad</i>]? Now too, we will eat</b> the loaves without sacrificing sheep.",
+                "<b>And they will not know that</b> the reason they were permitted to eat the loaves without sacrificing sheep <b>last year</b> is that <b>there were no sheep,</b> and therefore the two loaves <b>permitted themselves</b> to be eaten, i.e., they could be eaten without the sacrifice of the sheep. But <b>now that there are sheep, it is</b> the sacrifice of <b>the sheep that permits</b> the loaves to be eaten. Since loaves brought without sheep are fit by Torah law and may not be eaten due to rabbinic decree, they may not be burned until they become disqualified by remaining overnight.",
+                "<b>Rabba said: From where do I say</b> this, i.e., what is the source for my statement? It is <b>as we learned</b> in a mishna (<i>Shekalim</i> 1:4): <b>Rabbi Yehuda said</b> that <b>ben Bukhri testified</b> before the Sages <b>in Yavne: Any priest who contributes his</b> half-<b>shekel is not</b> considered <b>a sinner,</b> despite the fact that he is not obligated to do so.",
+                "Rabbi Yehuda added that <b>Rabban Yoḥanan ben Zakkai said to</b> ben Bukhri: <b>That is not</b> the case, <b>rather, any priest who does not contribute his</b> half-<b>shekel</b> is considered <b>a sinner,</b> as they are obligated in this mitzva like all other Jews. <b>But the priests</b> who do not contribute the half-shekel <b>interpret this</b> following <b>verse to their own</b> advantage in order to excuse themselves from the mitzva.",
+                "The verse states: <b>“And every meal offering of the priest shall be wholly made to smoke; it shall not be eaten”</b> (Leviticus 6:16). Those priests claim as follows: <b>Since the <i>omer</i></b> offering <b>and the two loaves,</b> i.e., the public offering of two loaves from the new wheat, brought on the festival of <i>Shavuot</i>, <b>and the shewbread</b> placed on the Table in the Sanctuary each Shabbat, which are all meal offerings, <b>are ours,</b> then if we contribute half-shekels we will have partial ownership of these communal offerings, as they are purchased with the half-shekels. <b>How,</b> then, <b>can they be eaten?</b> They would then be regarded as priests’ meal offerings, which must be wholly burned.",
+                "Rabba discusses this mishna: <b>What are the circumstances</b> of <b>these two loaves? If we say</b> that the mishna is referring <b>to</b> a case <b>where</b> they are <b>brought with the animal offering,</b> i.e., the two sheep brought as peace offerings, why shouldn’t the loaves be eaten? <b>Is that to say</b> that <b>priests cannot volunteer</b> to bring <b>a thanks offering and its loaves and eat them?</b> Just as the loaves that accompany a thanks offering may be eaten, even if brought by a priest, the same <i>halakha</i> should apply to the two loaves when they accompany sheep brought as peace offerings.",
+                "<b>Rather,</b> is it <b>not</b> referring to a case <b>where</b> the two loaves are <b>brought by themselves,</b> and the mishna <b>teaches</b> that the priests claimed: <b>How</b> can <b>they be eaten? Apparently,</b> in principle the loaves <b>come to be eaten,</b> but due to rabbinic decree they are not eaten and are left overnight until their form decays.",
+                "<b>Abaye said to</b> Rabba in response: <b>Actually,</b> the mishna can be interpreted as referring <b>to</b> loaves <b>brought with the animal offering,</b> and therefore it does not prove that when the two loaves are brought by themselves they may be eaten. <b>And as for that which</b> is <b>difficult for you</b> based <b>on</b> the case of <b>a thanks offering and its loaves,</b> the resolution is that the <b>loaves of a thanks offering are not called a meal offering,</b> and therefore even when a priest brings a thanks offering, the loaves may be eaten. By contrast, <b>the two loaves</b> of <i>Shavuot</i> <b>are called a meal offering, as it is stated</b> with regard to the two loaves: “Also in the day of the first fruits, <b>when you bring a new meal offering to the Lord”</b> (Numbers 28:26). Therefore, the priests held that if they would donate half-shekels, the two loaves would not be permitted to be eaten.",
+                "<b>Rav Yosef said</b> a different response to Rabba’s proof: <b>Actually,</b> when the two loaves of <i>Shavuot</i> are brought by themselves <b>they come to be burned,</b> i.e., they may not be eaten. <b>And this is the reason that we do not burn them</b> until the following day: It is <b>because one may not burn consecrated</b> items <b>on a Festival.</b>",
+                "<b>Abaye said to</b> Rav Yosef: <b>Is</b> the burning of the two loaves <b>comparable</b> to the burning of other consecrated items, such that the loaves may not be burned right away for this reason? <b>There,</b> in the case of other consecrated items, <b>this is not their mitzva,</b> i.e., they are supposed to be eaten, but if they become disqualified they must be burned. Conversely, <b>here,</b> in the case of the two loaves of <i>Shavuot</i> that are brought by themselves, <b>where this is their mitzva,</b> i.e., they are supposed to be burned, <b>let</b> the priests <b>burn them</b> on the Festival, <b>just as is</b> the <i>halakha</i> in the case <b>of the bull and the goat of Yom Kippur,</b> which are burned on Yom Kippur despite the fact that it is a Festival.",
+                "<b>Rather, Rav Yosef said:</b> The reason the loaves are left overnight is due to a rabbinic <b>decree</b> not to burn them immediately, <b>lest sheep become available to</b> the nation <b>afterward,</b> i.e., later in the day, in which case the loaves could be waved with them and then eaten. <b>Abaye said to</b> Rav Yosef: That <b>works out well</b> for the <b>entire time</b> period when <b>they</b> may be <b>sacrificed,</b> i.e., until the afternoon daily offering is sacrificed. But <b>after that, let them burn</b> the loaves immediately and not wait until the next day. Rav Yosef replied: <b>What</b> is the meaning of the phrase in the <i>baraita</i> <b>that teaches</b> that the loaves must be left until <b>their form decays?</b> It means that they must be left until <b>the form of their sacrifice</b> has passed, i.e., until after the time when the sheep could be sacrificed.",
+                "<b>Rava said</b> that there is a different response to Rabba’s proof: When the two loaves of <i>Shavuot</i> are brought by themselves, by Torah law <b>they come to be eaten, but</b> due to rabbinic <b>decree</b> they are not eaten and are left overnight until they are disqualified. The reason for the decree is <b>due to</b> that <b>which Rabba</b> said, i.e., due to the concern that the following year sheep will be available and nevertheless the nation will bring the two loaves without sheep. <b>But</b> the proof that by Torah law the loaves may be eaten is <b>not from</b> Rabba’s line of <b>reasoning,</b> i.e., from the mishna in <i>Shekalim</i>; <b>rather,</b> it is <b>from a verse.</b>",
+                "<b>And Rava said</b> by way of explanation: <b>From where do I state</b> this <i>halakha</i>? From the fact <b>that it is written</b> with regard to the two loaves: <b>“You shall bring out of your dwellings</b> two <b>loaves of waving</b> of two tenth parts of an ephah; they shall be of fine flour, they shall be baked with leaven, <b>for first fruits to the Lord”</b> (Leviticus 23:17). <b>Just as first fruits</b> are brought <b>by themselves,</b> without an accompanying animal offering, <b>so too the two loaves</b> are brought <b>by themselves</b> when there are no sheep available. <b>And</b> learn <b>from this</b> comparison to first fruits that <b>just as first fruits</b> are brought <b>to be eaten, so too the two loaves</b> are <b>also</b> brought <b>to be eaten,</b> even in the absence of the sheep brought as peace offerings."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Menachot 46b:12",
+                "Menachot 46b:13",
+                "Menachot 46b:14",
+                "Menachot 46b:15",
+                "Menachot 46b:16",
+                "Menachot 46b:17",
+                "Menachot 46b:18",
+                "Menachot 46b:19",
+                "Menachot 46b:20",
+                "Menachot 46b:21",
+                "Menachot 46b:22",
+                "Menachot 46b:23",
+                "Menachot 46b:24",
+                "Menachot 46b:25",
+                "Menachot 46b:26"
+              ],
+              "he": [
+                "תנו רבנן שתי הלחם הבאות בפני עצמן יונפו ותעובר צורתן ויצאו לבית השריפה",
+                "מה נפשך אי לאכילה אתיין ליכלינהו אי לשריפה אתיין לשרפינהו לאלתר למה להו עיבור צורה",
+                "אמר רבה לעולם לאכילה אתיין גזירה שמא יזדמנו להן כבשים לשנה הבאה ויאמרו אשתקד לא אכלנו לחם בלא כבשים עכשיו נמי ניכול",
+                "ואינהו לא ידעי דאשתקד לא הוו כבשים אינהו שריין נפשייהו השתא דאיכא כבשים כבשים הוא דשרו להו",
+                "אמר רבה מנא אמינא לה דתנן א\"ר יהודה העיד בן בוכרי ביבנה כל כהן ששוקל אינו חוטא",
+                "אמר לו רבן יוחנן בן זכאי לא כי אלא כל כהן שאינו שוקל חוטא אלא שהכהנים דורשין מקרא זה לעצמן",
+                "<span class=\"parenthesized\">(ויקרא ו, טז)</span> וכל מנחת כהן כליל תהיה לא תאכל הואיל ועומר ושתי הלחם ולחם הפנים שלנו הן היאך נאכלין",
+                "הני שתי הלחם היכי דמי אילימא בבאות עם הזבח אטו תודה ולחמה מי לא מנדבי כהנים ואכלי להו",
+                "אלא לאו בבאות בפני עצמן וקתני היאך הן נאכלין אלמא לאכילה אתיין",
+                "אמר ליה אביי לעולם בבאות עם הזבח ודקא קשיא לך מתודה ולחמה לחמי תודה לא איקרו מנחה שתי הלחם איקרו מנחה שנא' <span class=\"parenthesized\">(במדבר כח, כו)</span> בהקריבכם מנחה חדשה לה'",
+                "רב יוסף אמר לעולם לשריפה אתיין והיינו טעמא דלא שרפינן לפי שאין שורפין קדשים ביו\"ט",
+                "א\"ל אביי מי דמי התם לאו מצותן בכך הכא דמצותן בכך לישרפינהו מידי דהוה אפר ושעיר של יום הכיפורים",
+                "אלא אמר רב יוסף גזירה שמא יזדמנו להם כבשים לאחר מכאן א\"ל אביי תינח כל זמן הקרבתם לבתר הכי לשרפינהו מאי תעובר צורתן נמי דקתני צורת הקרבתם",
+                "רבא אמר לאכילה אתיין וגזירה משום דרבה ולאו מטעמיה אלא מקרא",
+                "ואמר רבא מנא אמינא לה דכתיב <span class=\"parenthesized\">(ויקרא כג, יז)</span> ממושבותיכם תביאו לחם תנופה [וגו'] בכורים לה' מה בכורים בפני עצמן אף שתי הלחם בפני עצמן ומינה מה בכורים לאכילה אף שתי הלחם נמי לאכילה"
+              ],
+              "link": "/Menachot/46b",
+              "originalRefsBeforeRewriting": [
+                "Menachot 46b:16",
+                "Menachot 46b:17",
+                "Menachot 46b:18"
+              ],
+              "ref": "Menachot 46b:12-26",
+              "sourceHeRef": "מנחות מ״ו ב",
+              "sourceRef": "Menachot 46b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "<b>Rabbi Yehuda said</b> that <b>ben Bukhri testified in Yavne: Any priest who contributes</b> the half-shekel <b>is not</b> considered <b>a sinner,</b> despite the fact that he is not obligated to do so. Rabbi Yehuda added that <b>Rabban Yoḥanan ben Zakkai said to</b> ben Bukhri: <b>Not so; rather, any priest who does not contribute</b> the half-shekel is considered <b>a sinner,</b> as they are obligated like all other Jews. <b>However,</b> Rabban Yoḥanan ben Zakkai continued, <b>the priests</b> who do not contribute <b>interpret this verse to their own</b> advantage: <b>“And every meal-offering of the priest shall be wholly made to smoke; it shall not be eaten”</b> (Leviticus 6:16). Those priests claim as follows: <b>Since the <i>omer</i></b> offering <b>and the two loaves,</b> i.e., the public offering of two loaves from the new wheat brought on the festival of <i>Shavuot</i>, <b>and the shewbread</b> placed on the sacred table in the Sanctuary each Shabbat, which are all meal-offerings, are <b>ours,</b> then if we contribute shekels we will have partial ownership of these communal offerings, as they are purchased with the shekels. <b>How,</b> then, <b>can</b> they <b>be eaten?</b> They ought to be regarded as priests’ meal-offerings, which must be wholly burnt. But since these offerings are eaten, the priests concluded that they are not obligated to contribute the half-shekel. This argument does not, however, take into account the fact that communal offerings belong to the public, which is understood as its own entity, and are not regarded as shared offerings of all who contribute to the public purse.",
+              "he": "אָמַר רַבִּי יְהוּדָה, הֵעִיד בֶּן בּוּכְרִי בְּיַבְנֶה, כָּל כֹּהֵן שֶׁשּׁוֹקֵל אֵינוֹ חוֹטֵא. אָמַר לוֹ רַבָּן יוֹחָנָן בֶּן זַכַּאי, לֹא כִּי, אֶלָּא כָּל כֹּהֵן שֶׁאֵינוֹ שׁוֹקֵל חוֹטֵא, אֶלָּא שֶׁהַכֹּהֲנִים דּוֹרְשִׁים מִקְרָא זֶה לְעַצְמָן, <span class=\"parenthesized\">(ויקרא ו)</span> וְכָל מִנְחַת כֹּהֵן כָּלִיל תִּהְיֶה לֹא תֵאָכֵל, הוֹאִיל וְעֹמֶר וּשְׁתֵּי הַלֶּחֶם וְלֶחֶם הַפָּנִים שֶׁלָּנוּ, הֵיאָךְ נֶאֱכָלִים:",
+              "link": "/Mishnah Shekalim/1",
+              "ref": "Mishnah Shekalim 1:4",
+              "sourceHeRef": "משנה שקלים א:ד",
+              "sourceRef": "Mishnah Shekalim 1:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא נצרכא אלא לבן בוכרי</strong> - בסיפא דמילתא מפרש הא דרבא:",
+              "ref": "Rashi on Arakhin 4a:7:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:ז:א",
+              "sourceRef": "Rashi on Arakhin 4a:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ששוקל</strong> - שקלים באחד באדר:",
+              "ref": "Rashi on Arakhin 4a:7:2",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:ז:ב",
+              "sourceRef": "Rashi on Arakhin 4a:7:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אינו חוטא</strong> - כדמפרש לקמן דלא הוו חולין בעזרה אע\"ג דלכתחילה לא מיחייב דכתיב <span class=\"parenthesized\">(שמו' לח)</span> לכל העובר על הפקודים ושבט לוי לא נפקד:",
+              "ref": "Rashi on Arakhin 4a:7:3",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:ז:ג",
+              "sourceRef": "Rashi on Arakhin 4a:7:3"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> <b>Everyone takes</b> vows of <b>valuation</b> and is thereby obligated to donate to the Temple treasury the value fixed by the Torah (see Leviticus 27:3–7) for the age and sex of the person valuated. <b>And</b> similarly, everyone <b>is valuated,</b> and therefore one who vowed to donate his fixed value is obligated to pay. Likewise, everyone <b>vows</b> to donate to the Temple treasury the assessment of a person, based on his market value to be sold as a slave, and is thereby obligated to pay; <b>and</b> everyone is the object of <b>a vow</b> if others vowed to donate his assessment. This includes <b>priests, Levites and Israelites, women, and</b> Canaanite <b>slaves.</b>",
+                "<b>A <i>tumtum</i>,</b> whose sexual organs are concealed, <b>and a hermaphrodite [<i>androginos</i>], vow, and</b> are the object of <b>a vow, and take</b> vows of <b>valuation, but they are not valuated.</b> Consequently, if one says, with regard to a <i>tumtum</i>: The valuation of so-and-so is incumbent upon me to donate to the Temple treasury, he is not obligated to pay anything, <b>as only a definite male or a definite female are valuated.</b>",
+                "<b>A deaf-mute, an imbecile, and a minor</b> are the object of <b>a vow and are valuated, but neither vow</b> to donate the assessment of a person <b>nor take</b> a vow of <b>valuation, because they lack the</b> presumed <b>mental competence</b> to make a commitment."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Arakhin 2a:1",
+                "Arakhin 2a:2",
+                "Arakhin 2a:3"
+              ],
+              "he": [
+                "<big><strong>הכל</strong></big> מעריכין ונערכין נודרין ונידרין כהנים לוים וישראלים נשים ועבדים",
+                "טומטום ואנדרוגינוס נודרין ונידרין ומעריכין אבל לא נערכין שאינו נערך אלא הזכר ודאי ונקבה ודאית",
+                "חרש שוטה וקטן נידרין ונערכין אבל לא נודרין ולא מעריכין מפני שאין בהם דעת:"
+              ],
+              "link": "/Arakhin/2a",
+              "ref": "Arakhin 2a:1-3",
+              "sourceHeRef": "unused",
+              "sourceRef": "Arakhin 2a:1-3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> שנינו במשנתנו: <b>הכל מעריכין, כהנים לוים וישראלים.</b> ושואלים: <b>פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט],</span> שכל אלו מעריכים! <b>אמר רבא: לא נצרכא</b> <span class=\"hebrew-emphasis\">[לא נצרכה]</span> הלכה זו <b>אלא ל</b>שיטת <b>בן בוכרי,</b> הסבור שהכהנים פטורים מלתת מחצית השקל, ולפי זה היה מקום לומר שאינם בכלל ערכין, כאשר יבואר להלן. ומהי שיטתו? <b>דתנן</b> <span class=\"hebrew-emphasis\">[ששנינו</span> במשנה<span class=\"hebrew-emphasis\">]:</span> <b>אמר ר' יהודה, העיד בן בוכרי ביבנה</b> בשם חכמים: <b>כל כהן ששוקל,</b> כלומר, שנותן מחצית השקל לצורך קרבנות הציבור — <b>אינו חוטא,</b> למרות שאינו חייב לתת.",
+              "ref": "Steinsaltz on Arakhin 4a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:ז",
+              "sourceRef": "Steinsaltz on Arakhin 4a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כלומר, למרות שאינו חייב — אין בכך חשש של הבאת חולין לעזרה, כמבואר בהמשך (רש\"י). ובירושלמי (שקלים פ\"א ה\"ג) אמרו כי לבן בוכרי מסייע הכתוב בפרשת מחצית השקל שבתורה: \"זה יתנו כל העובר על הפקודים\" (שמות ל, יג), הרי שהכהנים (והלויים) שלא נמנו בין פקודי ישראל במדבר — לא היו חייבים במחצית השקל שבמדבר, ומתוך כך גם לא במחצית השקל שבזמן המקדש (ולשיטה זו ניתן היה לומר כי לא רק הכהנים, אלא גם הלויים, לא יהיו בכלל ערכין, חשק שלמה. אבל ראה רמב\"ן שמות ל, יב בסוף דבריו). ומצד אחר סבורים חכמים, כי אף שלא היו בכלל תרומת האדנים למשכן, הרי היו שלוש תרומות במדבר, ובזו של קרבנות הציבור (במדבר פרק א) היה שותף גם שבט לוי (ש\"מ. וראה רש\"י ותוס').",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:7",
+              "sourceHeRef": "כל כהן ששוקל אינו חוטא",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל כהן שאינו שוקל חוטא</strong> - דדריש זה יתנו י\"ב שבטים בגימטריא ז\"ה וה\"נ מצי למימר כל לוי שאינו שוקל אלא משום דלא מצי למימר משום שדורשין מקרא זה לעצמן:",
+              "ref": "Tosafot on Arakhin 4a:7:1",
+              "sourceHeRef": "תוספות על ערכין ד׳ א:ז:א",
+              "sourceRef": "Tosafot on Arakhin 4a:7:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara applies the same line of questioning to the mishna here: <b>Everyone takes</b> vows of <b>valuation…priests, Levites, and <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Israelites</span>.</b> Isn’t that <b>obvious? <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said:</b> This <i>halakha</i> <b>is necessary only according to</b> the opinion of <b>ben Bukhri,</b> who holds that priests are not obligated to contribute a yearly half-shekel to purchase the communal supplies. Therefore, one might have thought that they are not subject to the <i>halakha</i> of valuations, as the Gemara will explain. <b>As we learned</b> in a mishna (<i>Shekalim</i> 1:4) that <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> said</b> that <b>ben Bukhri testified</b> before the Sages <b>in Yavne: Any priest who contributes</b> the half-<b>shekel</b> for communal offerings <b>is not</b> considered <b>a sinner,</b> despite the fact that he is not obligated to contribute.",
+      "he": "הכל מעריכין כהנים לוים <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">וישראלים</span> פשיטא אמר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רבא</span> לא נצרכא אלא לבן בוכרי דתנן <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">א\"ר יהודה</span> העיד בן בוכרי ביבנה כל כהן ששוקל אינו חוטא",
+      "ref": "Arakhin 4a:7",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּכָן</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ II 1\" href=\"/Jastrow,_דּוּךְ II.1\"><span dir=\"rtl\">דּוּךְ</span> II</span>) <i>place to stand on, stand, stage</i>, especially <i>Dukhan</i>, the priests’stage from which they pronounce the benediction. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span>; and from—<span dir=\"rtl\">עלה לד׳</span> to go up the stage, <i>to officiate as priest</i>. <span class=\"refLink\" data-ref=\"Shabbat 118b:3\" href=\"/Shabbat.118b.3\">Shabbat 118ᵇ</span><br>; and e.—2) <i>religious service from the stand, the Levite’s singing, teaching</i>. <span class=\"refLink\" data-ref=\"Megillah 3a:18\" href=\"/Megillah.3a.18\">Megillah 3ᵃ</span>; <span class=\"refLink\" data-ref=\"Arakhin 4a:55\" href=\"/Arakhin.4a.55\">Arakhin 4ᵃ</span> the Levites <span dir=\"rtl\">מִדּוּכָנָן</span> Manuscript Munich (ed. <span dir=\"rtl\">בר׳</span>) must interrupt their services.—plural <span dir=\"rtl\">דּוּכָנִים</span>, <span dir=\"rtl\">דּוּכָנִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ III 1\" href=\"/Jastrow,_דּוּךְ III.1\"><span dir=\"rtl\">דּוּךְ</span> III</span>. Cmp. <span class=\"refLink\" data-ref=\"Jastrow, דָּכוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_דָּכוֹן.1\">דָּכוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּכָן 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּכָן א׳",
+              "sourceRef": "Jastrow, דּוּכָן 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Everyone is obligated to give a half-shekel: priests, Levites, Israelites, converts, and freed slaves. Women, slaves, and children are not obligated. Nevertheless, if they give [a half-shekel], it may be accepted. By contrast, if a Samaritan gives a half-shekel, it should not be accepted.<br>A father who began giving a half-shekel on behalf of a child should not stop. Instead, he should [continue to] give a half-shekel on the child's behalf every year until he comes of age and gives [the half-shekel] by himself.",
+              "he": "הַכּל חַיָּבִין לִתֵּן מַחֲצִית הַשֶּׁקֶל כֹּהֲנִים לְוִיִּים וְיִשְׂרְאֵלִים וְגֵרִים וַעֲבָדִים מְשֻׁחְרָרִים. אֲבָל לֹא נָשִׁים וְלֹא עֲבָדִים וְלֹא קְטַנִּים. וְאִם נָתְנוּ מְקַבְּלִין מֵהֶם. אֲבָל הַכּוּתִים שֶׁנָּתְנוּ מַחֲצִית הַשֶּׁקֶל אֵין מְקַבְּלִין מֵהֶם. קָטָן שֶׁהִתְחִיל אָבִיו לִתֵּן עָלָיו מַחֲצִית הַשֶּׁקֶל שׁוּב אֵינוֹ פּוֹסֵק אֶלָּא נוֹתֵן עָלָיו בְּכָל שָׁנָה וְשָׁנָה עַד שֶׁיַּגְדִּיל וְיִתֵּן עַל עַצְמוֹ:",
+              "ref": "Mishneh Torah, Sheqel Dues 1:7",
+              "sourceHeRef": "הלכות שקלים א:ז",
+              "sourceRef": "Sheqel Dues 1:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא שהכהנים דורשין מקרא זה לעצמן</strong> - להנאתן ושלא כדין:",
+              "ref": "Rashi on Arakhin 4a:8:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:ח:א",
+              "sourceRef": "Rashi on Arakhin 4a:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר לו רבן יוחנן בן זכאי: לא כן, אלא כל כהן שאינו שוקל</b> — <b>חוטא,</b> שאף הכהנים חייבים במחצית השקל, <b>אלא שהכהנים,</b> שנהגו שלא לתרום, <b>דורשין מקרא זה ל</b>טובת <b>עצמן:</b> הלא נאמר בתורה <b>\"וכל מנחת כהן כליל תהיה לא תאכל\"</b> (ויקרא ו, טז), שמנחת כהן, שלא כמנחה רגילה, אינה נאכלת אלא קריבה כולה.",
+              "ref": "Steinsaltz on Arakhin 4a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:ח",
+              "sourceRef": "Steinsaltz on Arakhin 4a:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Priests and Levites are obligated to give the half-shekel like all other Jews (Rambam <i>Sefer Zemanim</i>, <i>Hilkhot Shekalim</i> 1:7).",
+              "he": "כהנים ולויים, חייבים לתת מחצית השקל כשאר ישראל. (רמב\"ם שם הלכות שקלים פ\"א ה\"ז).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:8",
+              "sourceHeRef": "כָּל כֹּהֵן שֶׁאֵינוֹ שׁוֹקֵל חוֹטֵא",
+              "sourceRef": "Any priest who does not contribute his shekel is considered a sinner"
+            },
+            {
+              "en": "During the Second Temple period there were times when the priesthood was controlled by Sadducees, and the position of the High Priest was even sold by the authorities to unworthy individuals. In addition, it is clear from a number of sources that the priests, who maintained their own courts, did not always agree with the halakhic rulings of the Sages. This tension between the Sages and the priests is reflected in this discussion.",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Arakhin 4a:8",
+              "sourceHeRef": "כֹּהֲנִים דּוֹרְשִׁין מִקְרָא זֶה לְעַצְמָן",
+              "sourceRef": "Priests interpret this verse to their own advantage"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "So, too, every meal offering of a priest shall be a whole offering: it shall not be eaten.",
+              "he": "וְכׇל־מִנְחַ֥ת כֹּהֵ֛ן כָּלִ֥יל תִּהְיֶ֖ה לֹ֥א תֵאָכֵֽל׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+              "link": "/Leviticus/6",
+              "ref": "Leviticus 6:16",
+              "sourceHeRef": "ויקרא ו:טז",
+              "sourceRef": "Leviticus 6:16"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> added that <b><span href=\"/topics/rabban-yochanan-b-zakkai\" class=\"namedEntityLink\" data-slug=\"rabban-yochanan-b-zakkai\">Rabban Yoḥanan ben Zakkai</span> said to</b> ben Bukhri: <b>That is not</b> the case; <b>rather, any priest who does not contribute his</b> half-<b>shekel</b> is considered <b>a sinner,</b> as they are obligated in this mitzva like all other Jews. <b>But</b> with regard to <b>the priests</b> who do not contribute the half-shekel, in order to excuse themselves from the mitzva they <b>interpret this verse to their own</b> advantage: <b>“And every meal offering of the priest shall be wholly made to smoke; it shall not be eaten”</b> (Leviticus 6:16).",
+      "he": "אמר לו <span href=\"/topics/rabban-yochanan-b-zakkai\" class=\"namedEntityLink\" data-slug=\"rabban-yochanan-b-zakkai\">רבן יוחנן בן זכאי</span> לא כן אלא כל כהן שאינו שוקל חוטא אלא שהכהנים דורשין מקרא זה לעצמן (ויקרא ו, טז) וכל מנחת כהן כליל תהיה לא תאכל",
+      "ref": "Arakhin 4a:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלנו הוא</strong> - שהרי מתרומת הלשכה הן באין ואם אנו שוקלין ללשכה נמצאת מנחת העומר ושתי הלחם ולחם הפנים משלנו והיאך נאכלין הכתיב לא תאכל. ולדידן לית לן הך דרשא דהאי כליל תהיה במנחת כהן גרידתא כתיב אבל במנחת צבור זיל בתר רובא:",
+              "ref": "Rashi on Arakhin 4a:9:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:ט:א",
+              "sourceRef": "Rashi on Arakhin 4a:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואם כן, <b>הואיל ועומר ושתי הלחם ולחם הפנים,</b> שהן מנחות הציבור, גם <b>שלנו הם,</b> אם ניתן מחצית השקל, היאך הם נאכלין על ידינו? הלא מנחת כהן הם! ולגופם של דברים מבררים: <b>ולבן</b>",
+              "ref": "Steinsaltz on Arakhin 4a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:ט",
+              "sourceRef": "Steinsaltz on Arakhin 4a:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The other Sages maintain that there is a difference between the meal offering of an individual priest, which may not be consumed, and a communal meal offering, which may be eaten, because the priest is merely one of the contributors (Rabbi Ovadya Bartenura on  <i>Shekalim </i>1:4).",
+              "he": "וחכמים סבורים כי יש להבחין בין מנחת יחיד של כהן, שלגביה נאמר \"לא תאכל\", לבין מנחה שיש לו בה שותפות עם הציבור, והיא נאכלת (רע\"ב שקלים פ\"א ה\"ד). ורש\"י כאן הסביר כי הולכים אחר רוב המעות, שהם של ישראל.",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:9",
+              "sourceHeRef": "הֵיאָךְ הֵם נֶאֱכָלִין",
+              "sourceRef": "How can they be eaten"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "You shall bring from your settlements two loaves of bread as an elevation offering; each shall be made of two-tenths of a measure of choice flour, baked after leavening, as first fruits to the L<small>ORD</small>.",
+              "he": "מִמּוֹשְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ <b>׀</b> לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽיהֹוָֽה׃",
+              "link": "/Leviticus/23",
+              "ref": "Leviticus 23:17",
+              "sourceHeRef": "ויקרא כג:יז",
+              "sourceRef": "Leviticus 23:17"
+            },
+            {
+              "en": "And on the table you shall set the bread of display, to be before Me always.",
+              "he": "וְנָתַתָּ֧ עַֽל־הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+              "link": "/Exodus/25",
+              "ref": "Exodus 25:30",
+              "sourceHeRef": "שמות כה:ל",
+              "sourceRef": "Exodus 25:30"
+            }
+          ]
+        }
+      },
+      "en": "Those priests claim as follows: <b>Since</b> the <b><i>omer</i></b> offering, the measure of barley brought as a communal offering on the sixteenth of Nisan, <b>and the two loaves,</b> i.e., the public offering of two loaves from the new wheat, brought on the festival of <i>Shavuot</i>, <b>and the shewbread</b> placed on the Table in the Sanctuary each Shabbat, which are all meal offerings, <b>are ours,</b> i.e., if we would contribute half-shekels we would have partial ownership of these communal offerings, as they are purchased with the half-shekels, <b>how</b> then <b>can they be eaten?</b> They would be regarded as priests’ meal offerings, which must be wholly burnt, in accordance with the aforementioned verse.",
+      "he": "הואיל ועומר ושתי הלחם ולחם הפנים שלנו הם היאך הם נאכלין",
+      "ref": "Arakhin 4a:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דמסר להו לצבור וכו'</strong> - והלכך לבן בוכרי דפטר להו לכהנים משקלים איצטריך מתני' למתני דכהן שהעריך עצמו או את אחר נותן את הערך כישראל דסד\"א כו' קמ\"ל <span class=\"parenthesized\">(דלא גמירי)</span>:",
+              "ref": "Rashi on Arakhin 4a:10:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:י:א",
+              "sourceRef": "Rashi on Arakhin 4a:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בוכרי נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> קשה, <b>כיון</b> ש<b>לכתחילה לא מיחייבי לאיתויי</b> <span class=\"hebrew-emphasis\">[אין</span> הכהנים <span class=\"hebrew-emphasis\">מחוייבים להביא]</span> מחצית השקל, <b>כי מייתי נמי</b> <span class=\"hebrew-emphasis\">[כאשר</span> הכהן <span class=\"hebrew-emphasis\">מביא גם כן]</span> — <b>חוטא הוא, דקא מעייל</b> <span class=\"hebrew-emphasis\">[ש</span>הרי <span class=\"hebrew-emphasis\">הוא מכניס]</span> <b>חולין לעזרה!</b> ומשיבים: מדובר <b>דמייתי להו</b> <span class=\"hebrew-emphasis\">[שמביא אותם]</span> <b>ומסר</b> <span class=\"hebrew-emphasis\">[ומוסר]</span> אותם מנדבת ליבו <b>לצבור.</b>",
+              "ref": "Steinsaltz on Arakhin 4a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:י",
+              "sourceRef": "Steinsaltz on Arakhin 4a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מן הסתם לא היו כספי השקלים מגיעים לעזרה עצמה (ואף איסור הבאת חולין בעזרה נוגע דווקא למה שניתן להקריבו כקרבן, ולא לכסף. ראה בראשונים ב\"ב פא,ב ונדרים ט,ב). אלא הכוונה היא לקרבנות שייקנו בשקלי הכהנים (רבינו גרשום). שהיה מקום לומר כי כיון שאינם חייבים בנתינה עם הציבור — אין תרומתם מהוה חלק מכספי הציבור (או שאינם נותנים את שקליהם כחלק מתרומת הציבור, אלא מתכוונים לתת מנדבת לבם, באופן פרטי. רע\"ב שקלים שם), והואיל ואין קרבנות ציבור באים אלא מכספי הציבור ולא מתרומת היחיד, נמצא שקרבן ציבור שנקנה בכספי הכהנים הריהו חולין. ותשובת הגמרא היא, שהכהנים אינם תורמים ישירות ללשכה, אלא מוסרים את שקליהם תחילה לציבור. או שכיון שהכהנים נותנים מחצית השקל יחד עם כל ישראל — כוונתם מתחילה למסור את שקליהם לציבור כראוי (ראה ראשון לציון שקלים שם).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:10",
+              "sourceHeRef": "דקא מעייל חולין לעזרה",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara clarifies: <b>But according to</b> the opinion of <b>ben Bukhri, as well,</b> why is a priest who contributes a half-shekel not considered a sinner? <b>Since he is not obligated to bring</b> the half-shekel <b><i>ab initio</i>, when he brings</b> the half-shekel <b>he is also a sinner, since he is</b> causing the <b>bringing</b> of <b>a non-sacred</b> item <b>into the</b> Temple <b>courtyard.</b> The Gemara answers <b>that</b> the priest <b>brings and transfers</b> the half-shekel as a consecrated gift <b>to the community,</b> so it is considered part of the communal funds.",
+      "he": "ולבן בוכרי נמי כיון דלכתחילה לא מיחייבי לאיתויי כי מייתי נמי חוטא הוא דקא מעייל חולין לעזרה דמייתי להו ומסר לצבור",
+      "ref": "Arakhin 4a:10"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּכָן</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ II 1\" href=\"/Jastrow,_דּוּךְ II.1\"><span dir=\"rtl\">דּוּךְ</span> II</span>) <i>place to stand on, stand, stage</i>, especially <i>Dukhan</i>, the priests’stage from which they pronounce the benediction. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span>; and from—<span dir=\"rtl\">עלה לד׳</span> to go up the stage, <i>to officiate as priest</i>. <span class=\"refLink\" data-ref=\"Shabbat 118b:3\" href=\"/Shabbat.118b.3\">Shabbat 118ᵇ</span><br>; and e.—2) <i>religious service from the stand, the Levite’s singing, teaching</i>. <span class=\"refLink\" data-ref=\"Megillah 3a:18\" href=\"/Megillah.3a.18\">Megillah 3ᵃ</span>; <span class=\"refLink\" data-ref=\"Arakhin 4a:55\" href=\"/Arakhin.4a.55\">Arakhin 4ᵃ</span> the Levites <span dir=\"rtl\">מִדּוּכָנָן</span> Manuscript Munich (ed. <span dir=\"rtl\">בר׳</span>) must interrupt their services.—plural <span dir=\"rtl\">דּוּכָנִים</span>, <span dir=\"rtl\">דּוּכָנִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ III 1\" href=\"/Jastrow,_דּוּךְ III.1\"><span dir=\"rtl\">דּוּךְ</span> III</span>. Cmp. <span class=\"refLink\" data-ref=\"Jastrow, דָּכוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_דָּכוֹן.1\">דָּכוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּכָן 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּכָן א׳",
+              "sourceRef": "Jastrow, דּוּכָן 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וחוזרים לעיקר הדברים: ומפני שלדעת בן בוכרי, הכהנים פטורים מן השקלים, <b>סלקא דעתך אמינא</b> <span class=\"hebrew-emphasis\">[יעלה על דעתך לומר]:</span> <b>הואיל וכתיב</b> <span class=\"hebrew-emphasis\">[ונאמר]</span> <b>\"וכל ערכך יהיה בשקל הקדש\"</b> (ויקרא כז, כה), יש ללמוד משם כי <b>כל דאיתיה</b> <span class=\"hebrew-emphasis\">[שישנו]</span> מצות <b>שקלים</b> — <b>איתיה</b> <span class=\"hebrew-emphasis\">[ישנו]</span> מצות <b>ערכין, והני</b> <span class=\"hebrew-emphasis\">[ואותם]</span> <b>כהנים, הואיל וליתנהו</b> <span class=\"hebrew-emphasis\">[ואינם]</span> <b>בשקלים</b> — <b>ליתנהו</b> <span class=\"hebrew-emphasis\">[אינם]</span> <b>בערכין,</b> על כן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[משמיע לנו]</span> התנא שאפילו לשיטת בן בוכרי שייכים הכהנים בערכין.",
+              "ref": "Steinsaltz on Arakhin 4a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:יא",
+              "sourceRef": "Steinsaltz on Arakhin 4a:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "All male Jews over the age of twenty were required to contribute a half-shekel to the Temple annually, before the first day of the month of Nisan, which was the beginning of the new Temple year. This money was used to cover the Temple’s expenses, including purchases of communal offerings and payment for repairs to the Temple structure. It was also used to maintain and repair the walls of Jerusalem. Starting from the beginning of the month of Adar, the public was served notice that the half-shekel contributions would soon be due. Nowadays, it is customary to make a charitable donation toward the end of the Fast of Esther on the thirteenth of Adar, in commemoration of the half-shekel contribution. The <i>halakhot</i> of the half-shekel contributions to the Temple are discussed in tractate <i>Shekalim</i>.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:11",
+              "sourceHeRef": "שְׁקָלִים",
+              "sourceRef": "Shekels"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "All assessments shall be by the sanctuary weight, the shekel being twenty <i>gerah</i>s.",
+              "he": "וְכׇ֨ל־עֶרְכְּךָ֔ יִהְיֶ֖ה בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֥ים גֵּרָ֖ה יִהְיֶ֥ה הַשָּֽׁקֶל׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:25",
+              "sourceHeRef": "ויקרא כז:כה",
+              "sourceRef": "Leviticus 27:25"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains the relevance of ben Bukhri’s opinion to the question of the priests’ status with respect to valuations. According to ben Bukhri, who exempts the priests from contributing the half-shekel, <b>it might enter your mind to say</b> that <b>since it is written: “And all your valuations shall be according to the shekel of the Sanctuary”</b> (Leviticus 27:25), perhaps this juxtaposition teaches that <b>anyone who is</b> included <b>in</b> the obligation to contribute half-<b>shekels is</b> included <b>in</b> the <i>halakha</i> of <b>valuations. But</b> with regard to <b>these priests, since they are not</b> included <b>in</b> the obligation to contribute half-<b>shekels, they are</b> also <b>not</b> included <b>in</b> the <i>halakha</i> of <b>valuations.</b> Therefore, the mishna <b>teaches us</b> that even according to the opinion of ben Bukhri, priests are included in the <i>halakha</i> of valuations.",
+      "he": "סד\"א הואיל וכתיב (ויקרא כז, כה) וכל ערכך יהי' בשקל הקדש כל דאיתיה בשקלים איתי' בערכין והני כהנים הואיל וליתנהו בשקלים ליתנהו בערכין קמ\"ל",
+      "ref": "Arakhin 4a:11"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא יהו פחותין מסלע</strong> - דעני בערכין נידון בהשג יד דכתיב <span class=\"parenthesized\">(ויקרא כז)</span> על פי אשר תשיג יד הנודר וגו' ופחות מסלע לא יתן לעולם כדאמר בפ' שני <span class=\"parenthesized\">(לקמן ערכין ז:)</span> אין בערכין פחות מסלע ומייתי טעמא מהאי קרא וכיון דלהכי אתא לא הוה ס\"ד למדרש לדרשא אחריתי למפטר כהנים מערכין ומתני' לא איצטריך:",
+              "ref": "Rashi on Arakhin 4a:12:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יב:א",
+              "sourceRef": "Rashi on Arakhin 4a:12:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>אביי</b> לרבא: וכיצד ניתן היה לפטור את הכהנים על פי כתוב זה? והלא <b>האי</b> <span class=\"hebrew-emphasis\">[</span>כתוב <span class=\"hebrew-emphasis\">זה]</span> <b>\"וכל ערכך</b> יהיה בשקל הקדש\", ללמד <b>לכל ערכין שאתה מעריך</b> ש<b>לא יהו פחותין מסלע הוא דאתא</b> <span class=\"hebrew-emphasis\">[שבא].</span> כלומר, שאם המעריך עני ונותן לפי השגת ידו אינו יוצא ידי חובתו בפחות משקל (סלע)!",
+              "ref": "Steinsaltz on Arakhin 4a:12",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:יב",
+              "sourceRef": "Steinsaltz on Arakhin 4a:12"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one pledged to give a valuation but cannot afford the full amount specified by the Torah, he may give as little as one <i>sela</i>. If he does not have a <i>sela</i>, he must wait until he has more money, as the minimal amount given for valuations is a <i>sela</i>. This ruling is in accordance with the mishna on 7b (Rambam<i> Sefer Hafla’a</i>,<i> Hilkhot Arakhin VaĤaramim</i> 3:3).",
+              "he": "מי שאין ידו משגת לתת את מלוא הערך הקצוב בתורה — יכול לתת אפילו סלע אחד, אבל אם אין לו אלא פחות מסלע — לא יתן עד שיעשיר, שאין בערכין פחות מסלע. כמשנה להלן (ז,ב). (רמב\"ם ספר הפלאה הלכות ערכין וחרמין פ\"ג ה\"ג).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:12",
+              "sourceHeRef": "לֹא יְהוּ פְּחוּתִין מִסֶּלַע",
+              "sourceRef": "Should not be less than the value of a <i>sela</i>"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "All assessments shall be by the sanctuary weight, the shekel being twenty <i>gerah</i>s.",
+              "he": "וְכׇ֨ל־עֶרְכְּךָ֔ יִהְיֶ֖ה בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֥ים גֵּרָ֖ה יִהְיֶ֥ה הַשָּֽׁקֶל׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:25",
+              "sourceHeRef": "ויקרא כז:כה",
+              "sourceRef": "Leviticus 27:25"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said to</b> <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>: One could not have thought that <b>this</b> phrase: <b>“And all your valuations</b> shall be according to the shekel of the Sanctuary” (Leviticus 27:25), might be coming to exempt the priests, as <b>it comes to</b> teach something else, namely that <b>all valuations that you assess should not be less than</b> the value of <b>a <i>sela</i></b> coin. In other words, a poor person, who gives according to his means rather than the amount prescribed in the Torah, does not fulfill his obligation unless he gives at least a shekel, which is a <i>sela</i> coin.",
+      "he": "א\"ל <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אביי</span> האי וכל ערכך לכל ערכין שאתה מעריך לא יהו פחותין מסלע הוא דאתא",
+      "ref": "Arakhin 4a:12"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּכָן</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ II 1\" href=\"/Jastrow,_דּוּךְ II.1\"><span dir=\"rtl\">דּוּךְ</span> II</span>) <i>place to stand on, stand, stage</i>, especially <i>Dukhan</i>, the priests’stage from which they pronounce the benediction. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span>; and from—<span dir=\"rtl\">עלה לד׳</span> to go up the stage, <i>to officiate as priest</i>. <span class=\"refLink\" data-ref=\"Shabbat 118b:3\" href=\"/Shabbat.118b.3\">Shabbat 118ᵇ</span><br>; and e.—2) <i>religious service from the stand, the Levite’s singing, teaching</i>. <span class=\"refLink\" data-ref=\"Megillah 3a:18\" href=\"/Megillah.3a.18\">Megillah 3ᵃ</span>; <span class=\"refLink\" data-ref=\"Arakhin 4a:55\" href=\"/Arakhin.4a.55\">Arakhin 4ᵃ</span> the Levites <span dir=\"rtl\">מִדּוּכָנָן</span> Manuscript Munich (ed. <span dir=\"rtl\">בר׳</span>) must interrupt their services.—plural <span dir=\"rtl\">דּוּכָנִים</span>, <span dir=\"rtl\">דּוּכָנִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ III 1\" href=\"/Jastrow,_דּוּךְ III.1\"><span dir=\"rtl\">דּוּךְ</span> III</span>. Cmp. <span class=\"refLink\" data-ref=\"Jastrow, דָּכוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_דָּכוֹן.1\">דָּכוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּכָן 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּכָן א׳",
+              "sourceRef": "Jastrow, דּוּכָן 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כהנים נפטרו מפדיון הבן בפ\"ק דבכורות <span class=\"parenthesized\">(ד.)</span> מק\"ו אם פטרו את של ישראל במדבר ק\"ו את של עצמן:",
+              "ref": "Rashi on Arakhin 4a:13:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יג:א",
+              "sourceRef": "Rashi on Arakhin 4a:13:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא אמר אביי:</b> מטעם זה <b>איצטריך</b> <span class=\"hebrew-emphasis\">[הוצרך]</span> התנא להשמיענו שכהנים מעריכים, שכן <b>סלקא דעתך אמינא</b> <span class=\"hebrew-emphasis\">[יעלה על דעתך לומר]:</span> <b>הואיל וכתיב</b> <span class=\"hebrew-emphasis\">[ונאמר]</span> ביחס לפדיון הבן: <b>\"ופדויו מבן חדש תפדה בערכך</b> כסף חמשת שקלים\" (במדבר יח, טז), היה מקום לומר כי <b>כל דאיתיה</b> <span class=\"hebrew-emphasis\">[שישנו]</span> <b>ב</b>חיוב <b>פדיון הבן</b> — <b>איתיה</b> <span class=\"hebrew-emphasis\">[ישנו]</span> <b>בערכין, והני</b> <span class=\"hebrew-emphasis\">[ואותם]</span> <b>כהנים, הואיל וליתנהו</b> <span class=\"hebrew-emphasis\">[ואינם]</span> <b>בפדיון הבן</b> — <b>ליתנהו</b> <span class=\"hebrew-emphasis\">[אינם]</span> <b>בערכין,</b> על כן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[משמיע לנו]</span> התנא, שגם הם בכלל ערכין.",
+              "ref": "Steinsaltz on Arakhin 4a:13",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:יג",
+              "sourceRef": "Steinsaltz on Arakhin 4a:13"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Priests and Levites are exempt from the mitzva of redemption of the firstborn son (Rambam <i>Sefer Zera’im</i>, <i>Hilkhot Bikkurim</i> 11:9; <i>Shulĥan Arukh</i>,<i> Yoreh De’a</i> 305:18).",
+              "he": "כהנים ולויים פטורים מפדיון הבן. (רמב\"ם ספר זרעים הלכות ביכורים פי\"א ה\"ט. שו\"ע יו\"ד שה, יח).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:13",
+              "sourceHeRef": "הוֹאִיל וְלֵיתְנְהוּ בְּפִדְיוֹן הַבֵּן",
+              "sourceRef": "Since they are not in redemption of the firstborn son"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Take as their redemption price, from the age of one month up, the money equivalent of five shekels by the sanctuary weight, which is twenty <i>gerah</i>s.",
+              "he": "וּפְדוּיָו֙ מִבֶּן־חֹ֣דֶשׁ תִּפְדֶּ֔ה בְּעֶ֨רְכְּךָ֔ כֶּ֛סֶף חֲמֵ֥שֶׁת שְׁקָלִ֖ים בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֥ים גֵּרָ֖ה הֽוּא׃",
+              "link": "/Numbers/18",
+              "ref": "Numbers 18:16",
+              "sourceHeRef": "במדבר יח:טז",
+              "sourceRef": "Numbers 18:16"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said:</b> It <b>was necessary</b> for the mishna to teach that priests are included in the <i>halakha</i> of valuation, as <b>it might enter your mind to say: Since it is written</b> with regard to a firstborn: <b>“And their redemption money, from a month old you shall redeem them, shall be, according to your valuation,</b> five shekels of silver” (Numbers 18:16), one might have said that <b>anyone</b> included <b>in</b> the mitzva of <b>redemption of the</b> firstborn <b>son is</b> included <b>in</b> the <i>halakha</i> of <b>valuations; but</b> with regard to <b>these priests, since they are not</b> included <b>in</b> the mitzva of <b>redemption of the</b> firstborn <b>son,</b> they <b>are</b> also <b>not</b> included <b>in</b> the <i>halakha</i> of <b>valuations.</b> Therefore, the mishna <b>teaches us</b> that priests are also included in the <i>halakha</i> of valuations.",
+      "he": "אלא אמר <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אביי</span> איצטריך סד\"א הואיל וכתיב (במדבר יח, טז) ופדויו מבן חדש תפדה בערכך כל דאיתיה בפדיון הבן איתיה בערכין והני כהנים הואיל וליתנהו בפדיון הבן ליתנהו בערכין קמ\"ל",
+      "ref": "Arakhin 4a:13"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּכָן</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ II 1\" href=\"/Jastrow,_דּוּךְ II.1\"><span dir=\"rtl\">דּוּךְ</span> II</span>) <i>place to stand on, stand, stage</i>, especially <i>Dukhan</i>, the priests’stage from which they pronounce the benediction. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span>; and from—<span dir=\"rtl\">עלה לד׳</span> to go up the stage, <i>to officiate as priest</i>. <span class=\"refLink\" data-ref=\"Shabbat 118b:3\" href=\"/Shabbat.118b.3\">Shabbat 118ᵇ</span><br>; and e.—2) <i>religious service from the stand, the Levite’s singing, teaching</i>. <span class=\"refLink\" data-ref=\"Megillah 3a:18\" href=\"/Megillah.3a.18\">Megillah 3ᵃ</span>; <span class=\"refLink\" data-ref=\"Arakhin 4a:55\" href=\"/Arakhin.4a.55\">Arakhin 4ᵃ</span> the Levites <span dir=\"rtl\">מִדּוּכָנָן</span> Manuscript Munich (ed. <span dir=\"rtl\">בר׳</span>) must interrupt their services.—plural <span dir=\"rtl\">דּוּכָנִים</span>, <span dir=\"rtl\">דּוּכָנִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ III 1\" href=\"/Jastrow,_דּוּךְ III.1\"><span dir=\"rtl\">דּוּךְ</span> III</span>. Cmp. <span class=\"refLink\" data-ref=\"Jastrow, דָּכוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_דָּכוֹן.1\">דָּכוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּכָן 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּכָן א׳",
+              "sourceRef": "Jastrow, דּוּכָן 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"נ דליתנהו באיל אשם</strong> - והא ישראל נינהו אלא ודאי הכי לא דרשי' ואכתי מתני' למה לי למיתני כהנים ולוים וישראלים:",
+              "ref": "Rashi on Arakhin 4a:14:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יד:א",
+              "sourceRef": "Rashi on Arakhin 4a:14:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רבא: אלא מעתה,</b> לשיטתך, שהיה מקום ללמוד כן מן המלה \"בערכך\" האמורה בפדיון הבן, <b>גבי</b> <span class=\"hebrew-emphasis\">[אצל]</span> <b>איל אשם,</b> שצריך להביא מי שגזל את חבירו ונשבע על כך לשקר, <b>דכתיב</b> <span class=\"hebrew-emphasis\">[שנאמר]</span> בו: <b>\"ואת אשמו יביא לה' איל תמים מן הצאן בערכך\"</b> (ויקרא ה, כה) — <b>הכי נמי</b> <span class=\"hebrew-emphasis\">[כך גם כן</span> נאמר<span class=\"hebrew-emphasis\">]</span> <b>דכל דאיתיה</b> <span class=\"hebrew-emphasis\">[שכל שישנו]</span> <b>בערכין איתיה</b> <span class=\"hebrew-emphasis\">[ישנו]</span> <b>באיל האשם,</b> ולכן <b>טומטום ואנדרוגינוס דליתנהו</b> <span class=\"hebrew-emphasis\">[שאינם]</span> <b>בערכין, כמבואר במשנתנו</b> שאינם נערכים — <b>ליתנהו</b> <span class=\"hebrew-emphasis\">[אינם]</span> חייבים <b>באיל האשם?</b> והרי אין חולק על כך שגם הם חייבים באיל אשם!",
+              "ref": "Steinsaltz on Arakhin 4a:14",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:יד",
+              "sourceRef": "Steinsaltz on Arakhin 4a:14"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "לכאורה אין קושיה ממה שאין פוסקים כן, שהרי אין זו אלא \"הוה אמינא\", וכמבואר כאן — אין לומדים באופן זה מן המלה \"בערכך\"! ויש לומר כי הקושיה אינה ממה שאין פוסקים כן, אלא מתוך שלא מצאנו שהוצרך התנא בשום מקום ללמד על טומטום ואנדרוגינוס שגם הם חייבים באשם גזילות, מכאן יש להסיק שאין מקום לסברה זו (ש\"מ).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:14",
+              "sourceHeRef": "טומטום ואנדרוגינוס דליתנהו בערכין ליתנהו באיל האשם",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Then he shall bring to the priest, as his penalty to the L<small>ORD</small>, a ram without blemish from the flock, or the equivalent, as a guilt offering.",
+              "he": "וְאֶת־אֲשָׁמ֥וֹ יָבִ֖יא לַיהֹוָ֑ה אַ֣יִל תָּמִ֧ים מִן־הַצֹּ֛אן בְּעֶרְכְּךָ֥ לְאָשָׁ֖ם אֶל־הַכֹּהֵֽן׃",
+              "link": "/Leviticus/5",
+              "ref": "Leviticus 5:25",
+              "sourceHeRef": "ויקרא ה:כה",
+              "sourceRef": "Leviticus 5:25"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said to</b> <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span>: <b>If that is so,</b> that one can expound the term “according to your valuation” in this manner, one could expound similarly <b>with regard to</b> the <b>ram of</b> the <b>guilt offering</b> brought by one who robs and then takes a false oath. <b>As it is written</b> with regard to that offering: <b>“And he shall bring his guilt offering to the Lord, a ram without blemish out of the flock, according to your valuation”</b> (Leviticus 5:25). One can argue that <b>so too, anyone</b> who <b>is</b> included <b>in</b> the <i>halakha</i> of <b>valuations is</b> included <b>in the ram of the guilt offering.</b> Therefore, <b>a <i>tumtum</i> or a hermaphrodite, who are not</b> included <b>in</b> the <i>halakha</i> of <b>valuations,</b> as stated in the mishna, should also <b>not</b> be included <b>in the ram of the guilt offering.</b> But that is not so, as there is no opinion that exempts them from this offering.",
+      "he": "א\"ל <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רבא</span> אלא מעתה גבי איל אשם דכתיב (ויקרא ה, כה) ואת אשמו יביא לה' איל תמים מן הצאן בערכך ה\"נ דכל דאיתיה בערכין איתיה באיל האשם טומטום ואנדרוגינוס דליתנהו בערכין ליתנהו באיל האשם",
+      "ref": "Arakhin 4a:14"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּכָן</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ II 1\" href=\"/Jastrow,_דּוּךְ II.1\"><span dir=\"rtl\">דּוּךְ</span> II</span>) <i>place to stand on, stand, stage</i>, especially <i>Dukhan</i>, the priests’stage from which they pronounce the benediction. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span>; and from—<span dir=\"rtl\">עלה לד׳</span> to go up the stage, <i>to officiate as priest</i>. <span class=\"refLink\" data-ref=\"Shabbat 118b:3\" href=\"/Shabbat.118b.3\">Shabbat 118ᵇ</span><br>; and e.—2) <i>religious service from the stand, the Levite’s singing, teaching</i>. <span class=\"refLink\" data-ref=\"Megillah 3a:18\" href=\"/Megillah.3a.18\">Megillah 3ᵃ</span>; <span class=\"refLink\" data-ref=\"Arakhin 4a:55\" href=\"/Arakhin.4a.55\">Arakhin 4ᵃ</span> the Levites <span dir=\"rtl\">מִדּוּכָנָן</span> Manuscript Munich (ed. <span dir=\"rtl\">בר׳</span>) must interrupt their services.—plural <span dir=\"rtl\">דּוּכָנִים</span>, <span dir=\"rtl\">דּוּכָנִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ III 1\" href=\"/Jastrow,_דּוּךְ III.1\"><span dir=\"rtl\">דּוּךְ</span> III</span>. Cmp. <span class=\"refLink\" data-ref=\"Jastrow, דָּכוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_דָּכוֹן.1\">דָּכוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּכָן 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּכָן א׳",
+              "sourceRef": "Jastrow, דּוּכָן 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והעמידו לפני הכהן</strong> - עני שהעריך את עצמו או את אחר:",
+              "ref": "Rashi on Arakhin 4a:15:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:טו:א",
+              "sourceRef": "Rashi on Arakhin 4a:15:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא כהן לפני כהן</strong> - הלכך כהן ליתיה בערכין דאי עני הוא לא קרינא ביה והעמידו לפני הכהן קמ\"ל מתני':",
+              "ref": "Rashi on Arakhin 4a:15:2",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:טו:ב",
+              "sourceRef": "Rashi on Arakhin 4a:15:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא אמר רבא, ואיתימא</b> <span class=\"hebrew-emphasis\">[ויש אומרים]</span> שאמר זאת <b>רב אשי: איצטריך</b> <span class=\"hebrew-emphasis\">[הוצרך]</span> להשמיענו שגם כהנים מעריכים, שכן <b>סלקא דעתך אמינא</b> <span class=\"hebrew-emphasis\">[יעלה על דעתך לומר]:</span> <b>הואיל וכתיב</b> <span class=\"hebrew-emphasis\">[ונאמר]</span> בענין ערכין: \"ואם מך הוא מערכך <b>והעמידו לפני הכהן\"</b> (ויקרא כז, ח), יש לדייק משם שמעמידים את העני לפני כהן — <b>ולא</b> מעמידים <b>כהן לפני כהן,</b> על כן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[משמיע לנו]</span> התנא שגם כהנים חייבים בערכין.",
+              "ref": "Steinsaltz on Arakhin 4a:15",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:טו",
+              "sourceRef": "Steinsaltz on Arakhin 4a:15"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שהרי הפרשה פותחת ב\"דבר אל בני ישראל\" (ויקרא כז, א), ויש לומר כי רק את ישראל המוזכר מתחילה מעמידים לפני הכהן, לכן השמיע התנא כי גם הכהנים בכלל ישראל האמורים באותה פרשה (רבינו גרשום). וראה בגרסות, משם משמע כי הלימוד הוא מן החזרה בפסוק זה על לשון \"הכהן\" — \"והעמידו לפני הכהן... והעריך אותו הכהן... יעריכנו הכהן\".",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:15",
+              "sourceHeRef": "והעמידו לפני הכהן ולא כהן לפני כהן",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But if one cannot afford the equivalent, he shall be presented before the priest, and the priest shall assess him; the priest shall assess him according to what the vower can afford.",
+              "he": "וְאִם־מָ֥ךְ הוּא֙ מֵֽעֶרְכֶּ֔ךָ וְהֶֽעֱמִידוֹ֙ לִפְנֵ֣י הַכֹּהֵ֔ן וְהֶעֱרִ֥יךְ אֹת֖וֹ הַכֹּהֵ֑ן עַל־פִּ֗י אֲשֶׁ֤ר תַּשִּׂיג֙ יַ֣ד הַנֹּדֵ֔ר יַעֲרִיכֶ֖נּוּ הַכֹּהֵֽן׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:8",
+              "sourceHeRef": "ויקרא כז:ח",
+              "sourceRef": "Leviticus 27:8"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said, and some say</b> it was <b><span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span>:</b> It <b>was necessary</b> to teach that priests are included in the <i>halakha</i> of valuation because <b>it might enter your mind to say: Since it is written</b> concerning valuations: “But if he is too poor for your valuation, <b>then he shall be set before the priest”</b> (Leviticus 27:8), this indicates that a poor man is placed before the priest for valuation, <b>but a priest is not</b> placed <b>before</b> another <b>priest</b> for valuation. Therefore, the mishna <b>teaches us</b> that priests are also included in the <i>halakha</i> of valuations.",
+      "he": "אלא אמר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רבא</span> ואיתימא <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">רב אשי</span> איצטריך סד\"א הואיל וכתיב (ויקרא כז, ח) והעמידו לפני הכהן ולא כהן לפני כהן קמ\"ל",
+      "ref": "Arakhin 4a:15"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נערכין לאתויי כו'</strong> - כלומר אמר מר לעיל הכל נערכין לאתויי מנוול ומוכה שחין:",
+              "ref": "Rashi on Arakhin 4a:16:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:טז:א",
+              "sourceRef": "Rashi on Arakhin 4a:16:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג</big> ושבים למה שדייקנו בתחילת פרק זה, ש\"הכל <b>נערכין\"</b> שנאמר במשנתנו בא <b>לאתויי</b> <span class=\"hebrew-emphasis\">[להביא]</span> <b>מנוול ומוכה שחין,</b> שמעריכים אותם לפי הערך הקצוב בתורה לפי גילם ומינם, למרות שאינם שווים מאומה בשוק. ושואלים: <b>מנא הני מילי</b> <span class=\"hebrew-emphasis\">[מנין דברים אלה]?</span>",
+              "ref": "Steinsaltz on Arakhin 4a:16",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:טז",
+              "sourceRef": "Steinsaltz on Arakhin 4a:16"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אחד המעריך את היפה הבריא ואחד המעריך את הכעור החולה, אפילו היה הנערך מוכה שחין או סומא או גידם, או יש בו כל מום — נותן את ערכו הקצוב בתורה לפי שניו. כגמרא. (רמב\"ם ספר הפלאה הלכות ערכין וחרמין פ\"א ה\"ח).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:16",
+              "sourceHeRef": "מנוול ומוכה שחין",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara stated (2a) that the mishna’s statement: And everyone <b>is valuated,</b> serves <b>to add</b> that <b>a repulsive</b> man <b>and one afflicted with boils</b> are valuated in accordance with the Torah’s categories of age and sex despite their lack of market value. The Gemara asks: <b>From where is this matter</b> derived?",
+      "he": "נערכין לאתויי מנוול ומוכה שחין מנה\"מ",
+      "ref": "Arakhin 4a:16",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "5) \"in your valuation\": to include an unspecified valuation. Variantly: He gives his entire value and not the value of individual limbs.",
+              "he": "[ה] \"בערכך\" – להביא ערך הסתום. דבר אחר: \"בערכך\" – ערך כולו הוא נותן ואינו נותן ערך איבריו.",
+              "ref": "Sifra, Bechukotai, Section 3 5",
+              "sourceHeRef": "ספרא, בחוקתי, פרשה ג ה׳",
+              "sourceRef": "Sifra, Bechukotai, Section 3 5"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Whether a person pledges the <i>airech</i> of an attractive, healthy person or one who is ugly and infirm, he must give the fixed amount specified by the Torah according to the age of that person. [This applies] even if that person has leprous blotches, is blind, lacking a limb, or possesses any type of blemish.",
+              "he": "אֶחָד הַמַּעֲרִיךְ אֶת הַיָּפֶה הַבָּרִיא וְאֶחָד הַמַּעֲרִיךְ אֶת הַכָּעוּר הַחוֹלֶה. אֲפִלּוּ הָיָה הַנֶּעֱרָךְ מֻכֶּה שְׁחִין אוֹ סוּמָא אוֹ גִּדֵּם וְיֵשׁ בּוֹ כָּל מוּם נוֹתֵן לְפִי שָׁנָיו כְּמוֹ שֶׁכָּתוּב בַּתּוֹרָה:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 1:8",
+              "sourceHeRef": "הלכות ערכים וחרמין א:ח",
+              "sourceRef": "Appraisals and Devoted Property 1:8"
+            },
+            {
+              "en": "When a person says: \"I pledge the <i>airech</i> of my hand,\" \"...my eye,\" or \"...my foot,\" or \"...that person's hand\" or \"...that person's eye,\" his words are of no consequence. [If he says:] \"I pledge the <i>airech</i> of my heart\" or \"...my liver\" or \"...that person's heart\" or \"...that person's liver,\" he must pay the entire <i>airech</i>. Similarly, with regard to any limb which if removed would cause the person to die, if one says: \"I pledge its <i>airech</i>,\" he must pay the <i>airech</i> of the entire person.",
+              "he": "הָאוֹמֵר עֵרֶךְ יָדִי אוֹ עֵרֶךְ עֵינִי אוֹ רַגְלִי עָלַי אוֹ שֶׁאָמַר עֵרֶךְ יָד זֶה אוֹ עֵינוֹ עָלַי לֹא אָמַר כְּלוּם. עֵרֶךְ לִבִּי אוֹ כְּבֵדִי עָלַי אוֹ עֵרֶךְ לִבּוֹ שֶׁל פְּלוֹנִי אוֹ כְּבֵדוֹ עָלַי נוֹתֵן עֵרֶךְ כֻּלּוֹ. וְכֵן כָּל אֵיבָר שֶׁאִם יִנָּטֵל מִן הַחַי יָמוּת אִם אָמַר עֶרְכּוֹ עָלַי נוֹתֵן עֵרֶךְ כֻּלּוֹ:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 2:1",
+              "sourceHeRef": "הלכות ערכים וחרמין ב:א",
+              "sourceRef": "Appraisals and Devoted Property 2:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ערך סתום</strong> - לקמן מפרש וכולה ברייתא מפרש לקמן:",
+              "ref": "Rashi on Arakhin 4a:17:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יז:א",
+              "sourceRef": "Rashi on Arakhin 4a:17:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ערך אבריו</strong> - אמר ערך ידי עלי לא אמר כלום דאין ערך לאיברים אבל אם אמר דמי ידי עלי נותן דמי ידו:",
+              "ref": "Rashi on Arakhin 4a:17:2",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יז:ב",
+              "sourceRef": "Rashi on Arakhin 4a:17:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>דתנו רבנן</b> <span class=\"hebrew-emphasis\">[ששנו חכמים]:</span> \"איש כי יפליא נדר <b>בערכך</b> נפשות לה' \" (ויקרא כז, ב) — <b>להביא ערך סתום,</b> כלומר, שלא פירש ערכו של מי, אלא אמר סתם: \"הרי עלי ערך\". <b>דבר אחר: \"בערכך\"</b> — <b>ערך כולו הוא נותן ולא ערך אברים,</b> ואם אמר \"ערך ידי עלי\" — אינו נותן כלום.",
+              "ref": "Steinsaltz on Arakhin 4a:17",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:יז",
+              "sourceRef": "Steinsaltz on Arakhin 4a:17"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one says: It is incumbent upon me to donate the valuation of my forearm, or of my eye, or of my leg, or of so-and-so’s forearm, or of so-and-so’s eye, or of so-and-so’s leg, he has not said anything of consequence. If he says: It is incumbent upon me to donate the valuation of my heart, or of my liver, or of so-and-so’s heart, or of so-and-so’s liver, he gives the valuation of the entire person. Likewise, if he valuates any limb upon which a person’s life is dependent and without which that person will die, he gives the valuation of the entire person, as stated in the <i>baraita</i> (Rambam <i>Sefer Hafla’a</i>, <i>Hilkhot Arakhin VaĤaramim</i> 2:1).",
+              "he": "האומר: \"ערך ידי עלי\", או \"ערך עיני\", או \"ערך רגלי\", או שאמר על אחר: \"ערך ידו עלי\" או \"ערך עינו עלי\" — לא אמר כלום. ואם אמר \"ערך לבי עלי\", או \"ערך כבדי עלי\", או \"ערך לבו של פלוני\", או \"ערך כבדו עלי\" — נותן ערך כולו, וכן בכל איבר שאם ינטל מן החי ימות. כברייתא. (רמב\"ם שם פ\"ב ה\"א).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:17",
+              "sourceHeRef": "וְלֹא עֶרֶךְ אֵבָרִים",
+              "sourceRef": "And not the valuation of limbs"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ערך כולו הוא נותן ואינו נותן ערך אברים</strong> - דס\"ד לרבויי משום דאדם יודע דאין ערך לאברים וגמר ואמר לשם כל האברים כולם קמשמע לן ועוד י\"ל דסד\"א הואיל [ואיתנהו] אברים <span class=\"parenthesized\">(ישנו)</span> בדמים <span class=\"parenthesized\">(באברים)</span> איתנהו [נמי] בערכין:",
+              "ref": "Tosafot on Arakhin 4a:17:1",
+              "sourceHeRef": "תוספות על ערכין ד׳ א:יז:א",
+              "sourceRef": "Tosafot on Arakhin 4a:17:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Speak to the Israelite people and say to them: When anyone explicitly vows to the L<small>ORD</small> the equivalent for a human being,",
+              "he": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם אִ֕ישׁ כִּ֥י יַפְלִ֖א נֶ֑דֶר בְּעֶרְכְּךָ֥ נְפָשֹׁ֖ת לַֽיהֹוָֽה׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:2",
+              "sourceHeRef": "ויקרא כז:ב",
+              "sourceRef": "Leviticus 27:2"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers that it is <b>as the Sages taught</b> in a <i>baraita</i>: The verse states: “When a man shall clearly utter a vow of persons to the Lord, <b>according to your valuation”</b> (Leviticus 27:2). The term serves <b>to include an unspecified valuation,</b> as explained below. <b>Alternatively,</b> the verse teaches that <b>one gives the valuation of his entire</b> self <b>and not the valuation of</b> his <b>limbs.</b> If someone vows that he will give the valuation of a limb, he is not obligated to give anything.",
+      "he": "דת\"ר בערכך להביא ערך סתום ד\"א בערכך ערך כולו הוא נותן ולא ערך אברים",
+      "ref": "Arakhin 4a:17"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "6) I might think that I (also) exclude (from valuation even) an organ that one's life is dependent upon; it is, therefore, written \"souls\" (i.e., if he dedicates such an organ, he pays the value of his entire \"soul.\") \"souls\": and not (if he dedicates the value of) a dead body. I would then exclude a dead body, but I would not exclude one who is at the point of death. It is, therefore, written (Vayikra 27:8) \"then he shall be stood … and the Cohein shall valuate him.\" One who can be \"stood\" is subject to valuation; one who cannot be \"stood\" is not subject to valuation.",
+              "he": "[ו] או יכול שאני מוציא דבר שהנשמה תלויה בו? תלמוד לומר \"נפשות\". \"נפשות\" – ולא המת. אוציא את המת ולא אוציא את הגוסס? תלמוד לומר 'והעמיד..והעריך' – את שיש לו 'העמדה' יש לו 'הערכה', ואת שאין לו 'העמדה' אין לו 'הערכה'.",
+              "ref": "Sifra, Bechukotai, Section 3 6",
+              "sourceHeRef": "ספרא, בחוקתי, פרשה ג ו׳",
+              "sourceRef": "Sifra, Bechukotai, Section 3 6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שהנשמה תלויה בו</strong> - שאם אמר ערך ראשי או ערך כבידי:",
+              "ref": "Rashi on Arakhin 4a:18:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יח:א",
+              "sourceRef": "Rashi on Arakhin 4a:18:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ת\"ל נפשות</strong> - בנפש תלה רחמנא ואם העריך דבר שהנשמה תלויה בו נותן ערך כולו:",
+              "ref": "Rashi on Arakhin 4a:18:2",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יח:ב",
+              "sourceRef": "Rashi on Arakhin 4a:18:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא את המת</strong> - שאם אמר ערך מת זה עלי לא אמר כלום:",
+              "ref": "Rashi on Arakhin 4a:18:3",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יח:ג",
+              "sourceRef": "Rashi on Arakhin 4a:18:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>יכול שאני מוציא אף דבר שהנשמה תלויה בו,</b> כגון שאמר: \"ערך כבדי עלי\"? <b>תלמוד לומר:</b> <b>\"נפשת\",</b> ואם העריך איבר שהנפש תלויה בו — חייב בכל הערך. ועוד דורשים: <b>\"נפשת\"</b> — <b>ולא המת,</b> ואם העריך את המת — פטור.",
+              "ref": "Steinsaltz on Arakhin 4a:18",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:יח",
+              "sourceRef": "Steinsaltz on Arakhin 4a:18"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נפשות ולא המת</strong> - ואף על גב דאסור בהנאה מן התורה ואינו בדמים סד\"א דאיתיה בערכין הואיל ואתרבי מנוול ומוכה שחין דליתיה בדמים:",
+              "ref": "Tosafot on Arakhin 4a:18:1",
+              "sourceHeRef": "תוספות על ערכין ד׳ א:יח:א",
+              "sourceRef": "Tosafot on Arakhin 4a:18:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Speak to the Israelite people and say to them: When anyone explicitly vows to the L<small>ORD</small> the equivalent for a human being,",
+              "he": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם אִ֕ישׁ כִּ֥י יַפְלִ֖א נֶ֑דֶר בְּעֶרְכְּךָ֥ נְפָשֹׁ֖ת לַֽיהֹוָֽה׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:2",
+              "sourceHeRef": "ויקרא כז:ב",
+              "sourceRef": "Leviticus 27:2"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> continues: One <b>might</b> have thought <b>that I</b> should <b>exclude even</b> the valuation of <b>an item upon which the soul is dependent,</b> without which one would die, e.g., the liver. Therefore, <b>the verse states: “Persons [<i>nefashot</i>],”</b> which teaches that if one valuated a limb upon which the soul [<i>nefesh</i>] is dependent, he is obligated to give the valuation of his entire self. The Gemara further derives from the term <b>“persons”</b> that one is obligated to pay the valuation only of a live person, <b>and not</b> the valuation of <b>the dead.</b> If one valuates a deceased person, his statement is of no effect.",
+      "he": "יכול שאני מוציא אף דבר שהנשמה תלויה בו ת\"ל נפשות נפשות ולא המת",
+      "ref": "Arakhin 4a:18"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּכָן</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ II 1\" href=\"/Jastrow,_דּוּךְ II.1\"><span dir=\"rtl\">דּוּךְ</span> II</span>) <i>place to stand on, stand, stage</i>, especially <i>Dukhan</i>, the priests’stage from which they pronounce the benediction. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span>; and from—<span dir=\"rtl\">עלה לד׳</span> to go up the stage, <i>to officiate as priest</i>. <span class=\"refLink\" data-ref=\"Shabbat 118b:3\" href=\"/Shabbat.118b.3\">Shabbat 118ᵇ</span><br>; and e.—2) <i>religious service from the stand, the Levite’s singing, teaching</i>. <span class=\"refLink\" data-ref=\"Megillah 3a:18\" href=\"/Megillah.3a.18\">Megillah 3ᵃ</span>; <span class=\"refLink\" data-ref=\"Arakhin 4a:55\" href=\"/Arakhin.4a.55\">Arakhin 4ᵃ</span> the Levites <span dir=\"rtl\">מִדּוּכָנָן</span> Manuscript Munich (ed. <span dir=\"rtl\">בר׳</span>) must interrupt their services.—plural <span dir=\"rtl\">דּוּכָנִים</span>, <span dir=\"rtl\">דּוּכָנִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דּוּךְ III 1\" href=\"/Jastrow,_דּוּךְ III.1\"><span dir=\"rtl\">דּוּךְ</span> III</span>. Cmp. <span class=\"refLink\" data-ref=\"Jastrow, דָּכוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_דָּכוֹן.1\">דָּכוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּכָן 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּכָן א׳",
+              "sourceRef": "Jastrow, דּוּכָן 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person is in his death throes, he has no <i>airech</i>, nor has he any worth. Since most people in their death throes will die, he is considered as if he is [already] dead. Similarly, if a person was sentenced by a Jewish court to be executed because of a transgression that he committed and another person pledged his <i>airech</i>, he pledged his own <i>airech</i>, or he pledged his worth or another person pledged his worth, none of the above are liable for anything. For the person is considered as if he is already dead and a deceased person has no <i>airech</i>, nor any worth. With regard to this, [Leviticus 27:29] states: \"Any condemned person who is condemned from mankind shall not be redeemed,\" i.e., there is no redemption for him and he is considered as if he is dead.",
+              "he": "הַגּוֹסֵס אֵין לוֹ לֹא עֵרֶךְ וְלֹא דָּמִים הוֹאִיל וְרֹב הַגּוֹסְסִין לְמִיתָה הֲרֵי הוּא כְּמֵת. וְכֵן מִי שֶׁנִּגְמַר דִּינוֹ בְּבֵית דִּין שֶׁל יִשְׂרָאֵל לְהָרְגוֹ עַל עֲבֵרָה שֶׁעָבַר וְהֶעֱרִיכוֹ אַחֵר אוֹ שֶׁהֶעֱרִיךְ עַצְמוֹ אוֹ שֶׁאָמַר דָּמַי עָלַי אוֹ שֶׁאָמַר אַחֵר דְּמֵי זֶה עָלַי אֵינוֹ חַיָּב כְּלוּם שֶׁזֶּה כְּמֵת הוּא וְהַמֵּת אֵין לוֹ עֵרֶךְ וְלֹא דָּמִים. וְעַל זֶה נֶאֱמַר <span class=\"hebrew-emphasis\">(ויקרא כז כט)</span> \"כָּל חֵרֶם אֲשֶׁר יָחֳרַם מִן הָאָדָם לֹא יִפָּדֶה\" כְּלוֹמַר אֵין לוֹ פִּדְיוֹן אֶלָּא הֲרֵי הוּא כְּמֵת:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 1:13",
+              "sourceHeRef": "הלכות ערכים וחרמין א:יג",
+              "sourceRef": "Appraisals and Devoted Property 1:13"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והעמיד והעריך</strong> - גבי עני שהעריך כתיב:",
+              "ref": "Rashi on Arakhin 4a:19:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:יט:א",
+              "sourceRef": "Rashi on Arakhin 4a:19:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ועדיין יש לשאול: שמא <b>אוציא</b> רק <b>את המת, ולא אוציא</b> גם <b>את הגוסס</b> העומד למות, שהרי הוא עדיין בכלל \"נפשות\"? <b>תלמוד לומר: \"והעמיד... והעריך\"</b> (\"והעמידו לפני הכהן והעריך אותו הכהן\", שם פסוק ח) ומשם יש ללמוד כי <b>כל שישנו בהעמדה,</b> שניתן להעמידו — <b>ישנו בהערכה, וכל שאינו בהעמדה,</b> כגון גוסס שאינו מסוגל לעמוד — <b>אינו בהערכה,</b> ולפיכך גם המעריך את הגוסס פטור.",
+              "ref": "Steinsaltz on Arakhin 4a:19",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:יט",
+              "sourceRef": "Steinsaltz on Arakhin 4a:19"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one valuates a person who is dying, or if such a person valuated himself, it is considered as though he valuated the dead. Therefore, no obligation is incurred, as stated in the <i>baraita</i> (Rambam <i>Sefer Hafla’a</i>, <i>Hilkhot Arakhin VaĤaramim</i> 1:13).",
+              "he": "בתוס' התקשו: לפי דיון הגמרא לעיל משמע כי כתוב זה עוסק במעריך, שאם דל הוא ואין ידו משגת — מעמידים אותו לפני הכהן, ואילו לפי דרשה זו משמע שכוונת הפסוק לומר שמעמידים את הנערך (כפי שאכן פירש רש\"י על התורה)! ויש שכתב כי ביסודה פרשה זו כולה עוסקת במי שהעריך את עצמו, ולפיכך יש לפרשה גם על המעריך וגם על הנערך (שפת אמת. וראה העמק דבר ומלבי\"ם על פסוק זה).",
+              "ref": "Steinsaltz comment #1 on Arakhin 4a:19",
+              "sourceHeRef": "כָּל שֶׁאֵינוֹ בְּהַעֲמָדָה",
+              "sourceRef": "Anyone not in the category of setting"
+            },
+            {
+              "en": "",
+              "he": "המעריך את הגוסס, או שהעריך הגוסס את עצמו — הרי כמי שהעריך את המת, ואינו חייב כלום. כברייתא. (רמב\"ם שם פ\"א הי\"ג).",
+              "ref": "Steinsaltz comment #2 on Arakhin 4a:19",
+              "sourceHeRef": "כל שאינו בהעמדה אינו בהערכה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' ד\"ה ולא וכו' ועדיין היא מפרכסת.</b> ע' ב\"ק דף עו ע\"א תוס' ד\"ה שחיטה. ושם ע\"ב תוס' ד\"ה בשוחט. חולין דף פד ע\"א תוס' ד\"ה בעינן:",
+                      "ref": "Gilyon HaShas on Arakhin 4a:1",
+                      "sourceHeRef": "גליון הש\"ס על ערכין ד׳ א:א",
+                      "sourceRef": "Gilyon HaShas on Arakhin 4a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא אוציא את הגוסס ת\"ל והעמיד והעריך</strong> - וא\"ת והא פ\"ב דחולין <span class=\"parenthesized\">(דף ל.)</span> שחט בה שנים או רוב שנים ועדיין היא מפרכסת דהויא בכלל העמדה והערכה וי\"ל דבהמה אית בה חיותא טפי ויכולה לעמוד והא דנקט מפרכסת משום דלא הויא נבילה נקט לה וצריך עיון דפשטיה דקרא דהעמיד והעריך גבי נודר דכתיב בההוא קרא ע\"פ אשר תשיג יד הנודר יעריכנו וגוסס הוא נודר ומעריך כדתנן במס' שמחות ומנא לן לומר מוהעמיד ע\"פ [דכתיב] בההוא קרא גבי מעריך לומר שלא יהא נערך:",
+              "ref": "Tosafot on Arakhin 4a:19:1",
+              "sourceHeRef": "תוספות על ערכין ד׳ א:יט:א",
+              "sourceRef": "Tosafot on Arakhin 4a:19:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But if one cannot afford the equivalent, he shall be presented before the priest, and the priest shall assess him; the priest shall assess him according to what the vower can afford.",
+              "he": "וְאִם־מָ֥ךְ הוּא֙ מֵֽעֶרְכֶּ֔ךָ וְהֶֽעֱמִידוֹ֙ לִפְנֵ֣י הַכֹּהֵ֔ן וְהֶעֱרִ֥יךְ אֹת֖וֹ הַכֹּהֵ֑ן עַל־פִּ֗י אֲשֶׁ֤ר תַּשִּׂיג֙ יַ֣ד הַנֹּדֵ֔ר יַעֲרִיכֶ֖נּוּ הַכֹּהֵֽן׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:8",
+              "sourceHeRef": "ויקרא כז:ח",
+              "sourceRef": "Leviticus 27:8"
+            },
+            {
+              "en": "If [the vow concerns] any unclean animal that may not be brought as an offering to the L<small>ORD</small>, the animal shall be presented before the priest,",
+              "he": "וְאִם֙ כׇּל־בְּהֵמָ֣ה טְמֵאָ֔ה אֲ֠שֶׁ֠ר לֹא־יַקְרִ֧יבוּ מִמֶּ֛נָּה קׇרְבָּ֖ן לַֽיהֹוָ֑ה וְהֶֽעֱמִ֥יד אֶת־הַבְּהֵמָ֖ה לִפְנֵ֥י הַכֹּהֵֽן׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:11",
+              "sourceHeRef": "ויקרא כז:יא",
+              "sourceRef": "Leviticus 27:11"
+            }
+          ]
+        }
+      },
+      "en": "Furthermore, one might have thought that <b>I should exclude</b> only <b>the dead</b> from valuation, <b>but I should not exclude a moribund</b> person, who is about to die but is still alive, and who is therefore included in the category of “persons.” Therefore, <b>the verse states: “Then he shall be set</b> before the priest, <b>and</b> the priest <b>shall value</b> him” (Leviticus 27:8). This teaches that <b>anyone who is</b> included <b>in</b> the category of <b>setting,</b> i.e., he can stand, <b>is</b> included <b>in</b> the <i>halakha</i> of <b>valuation. And anyone not</b> included <b>in</b> the category of <b>setting,</b> who cannot stand, e.g., one who is on his deathbed, is <b>not</b> included <b>in</b> the <i>halakha</i> of <b>valuation.</b> Therefore, one who valuates a moribund individual is not obligated to pay anything.",
+      "he": "אוציא את המת ולא אוציא את הגוסס ת\"ל (ויקרא כז, ח) והעמיד והעריך כל שישנו בהעמדה ישנו בהערכה וכל שאינו בהעמדה אינו בהערכה",
+      "ref": "Arakhin 4a:19"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "7) Variantly: What is the intent of \"souls\"? I might think (that the valuation takes effect) only if one (pronounced the formula of) valuation for one. Whence do I derive the same for one who valuated for one hundred? From \"souls.\" Variantly: What is the intent of \"souls\"? I might think (that the valuation is valid) only if a man valuated either a man or a woman. Whence do I derive (the same for) a woman who valuated a man or a woman? From \"souls.\" Variantly: What is the intent of \"souls\"? I might think that all who are included in money (value) are included in valuations, but those who are (physically) repulsive or covered with boils, and not included in money (value), are not included in valuations. It is, therefore, written \"souls.\"",
+              "he": "[ז] דבר אחר: מה תלמוד לומר \"נפשות\"? שיכול אין לי אלא אחד שהעריך את אחד; אחד שהעריך את מאה מנין? תלמוד לומר \"נפשות\". [ס\"א דבר אחר: מה תלמוד לומר \"נפשות\"?] שיכול אין לי אלא איש שהעריך את האיש והאשה; אשה שהעריכה את האיש והאשה מנין? תלמוד לומר \"נפשות\". דבר אחר: מה תלמוד לומר \"נפשות\"? שיכול, כל שהוא בכלל דמים יהיה בכלל עירוכין; מנוול ומוכה שחין שלא היו בכלל דמים לא יהיו בכלל עירוכין… תלמוד לומר \"נפשות\".",
+              "ref": "Sifra, Bechukotai, Section 3 7",
+              "sourceHeRef": "ספרא, בחוקתי, פרשה ג ז׳",
+              "sourceRef": "Sifra, Bechukotai, Section 3 7"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person says: \"I pledge my <i>airech</i>\" and then repeats: \"I pledge my <i>airech</i>\" - even if he makes this statement several times - he must pay an <i>airech</i> for each pledge. If he says: \"I pledge two of my <i>arechim,</i> he must pay two <i>arechim</i>. This also applies if he pledges four, or even 1000, <i>arechim</i>, he must pay the number that he pledged.",
+              "he": "הָאוֹמֵר עֶרְכִּי עָלַי וְחָזַר וְאָמַר עֶרְכִּי עָלַי וְכֵן אִם אָמַר אֲפִלּוּ כַּמָּה פְּעָמִים חַיָּב עַל כָּל אַחַת וְאַחַת. אָמַר שְׁנֵי עֶרְכִּי עָלַי נוֹתֵן שְׁנֵי עֲרָכִין. וְכֵן אִם אָמַר אַרְבָּעָה אֲפִלּוּ אֶלֶף נוֹתֵן כַּמִּנְיָן שֶׁנָּדַר:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 1:19",
+              "sourceHeRef": "הלכות ערכים וחרמין א:יט",
+              "sourceRef": "Appraisals and Devoted Property 1:19"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ד\"א נפשות</strong> - למה נאמר שאם לא נאמר נפשות אלא נפש הייתי אומר אין לי אלא אחד שהעריך אחד כדכתיב <span class=\"parenthesized\">(ויקרא כ״ז:ב׳)</span> איש כי יפליא [נדר] בערכך נפשות דהיינו אחד שהעריך אחד:",
+              "ref": "Rashi on Arakhin 4a:20:1",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:כ:א",
+              "sourceRef": "Rashi on Arakhin 4a:20:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דבר אחר נפשות</strong> - למה נאמר שאם אמר נפש הייתי אומר אין לי אלא איש שהעריך בין איש ובין אשה דכתיב <span class=\"parenthesized\">(ויקרא כ״ז:ב׳)</span> איש כי יפליא בערכך נפשות דמשמע שהאיש מעריך נפש כל שהוא:",
+              "ref": "Rashi on Arakhin 4a:20:2",
+              "sourceHeRef": "רש\"י על ערכין ד׳ א:כ:ב",
+              "sourceRef": "Rashi on Arakhin 4a:20:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דבר אחר: \"נפשת\"</b> מדוע נאמר בלשון רבים? שאם היה נאמר \"נפש\" <b>אין לי</b> ללמוד <b>אלא</b> על <b>אחד שהעריך אחד, אחד שהעריך מאה מנין</b> שמביא ערך של כל אחד ואחד? <b>תלמוד לומר: \"נפשת\",</b> בלשון רבים. <b>דבר אחר:</b> מדוע נאמר <b>\"נפשת\"</b> בלשון רבים?",
+              "ref": "Steinsaltz on Arakhin 4a:20",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין ד׳ א:כ",
+              "sourceRef": "Steinsaltz on Arakhin 4a:20"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אחד שהעריך מאה מנין</strong> - כגון שאמר ערך פלוני ופלוני ופלוני עלי דהזכיר ערך בלשון יחיד דס\"ד לא הוי ערך קמ\"ל:",
+              "ref": "Tosafot on Arakhin 4a:20:1",
+              "sourceHeRef": "תוספות על ערכין ד׳ א:כ:א",
+              "sourceRef": "Tosafot on Arakhin 4a:20:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Alternatively,</b> since the verse states: <b>“Persons,”</b> in the plural, it is expounded as follows: Were the verse to have written: A person, <b>I</b> would <b>have</b> derived <b>only</b> that this applies to <b>one</b> person <b>who valuated one</b> person. <b>From where</b> is it derived that even if <b>one</b> person <b>valuated a hundred</b> people, it is also an effective evaluation? <b>The verse states: “Persons,”</b> in the plural. This teaches that in such a case he must pay the valuation of each and every one of the hundred. <b>Alternatively,</b> one interprets the plural form of <b>“persons”</b> as follows: Were the verse to have written only: A person, one might have said that",
+      "he": "ד\"א נפשות אין לי אלא אחד שהעריך אחד אחד שהעריך מאה מנין ת\"ל נפשות דבר אחר נפשות",
+      "ref": "Arakhin 4a:20"
+    }
+  ],
+  "title": "Arakhin 4a",
+  "titleHebrew": "ערכין ד,א",
+  "topics": []
+}

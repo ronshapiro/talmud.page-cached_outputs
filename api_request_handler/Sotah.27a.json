@@ -1,0 +1,939 @@
+{
+  "id": "27a",
+  "sections": [
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּמָה I</strong> f. (see <span class=\"refLink\" data-ref=\"Jastrow, דּוּם 1\" dir=\"rtl\" href=\"/Jastrow,_דּוּם.1\">דּוּם</span>) <br><b>1)</b> <i>evil report, rumor</i>. <span class=\"refLink\" data-ref=\"Niddah 66a\" href=\"/Niddah.66a\">Niddah 66ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דמי 1\" dir=\"rtl\" href=\"/Jastrow,_דמי.1\">דִּימָה</span>. <br><b><br>—2)</b> <i>a woman of ill repute</i>. <span class=\"refLink\" data-ref=\"Sotah 27a:4\" href=\"/Sotah.27a.4\">Sotah 27ᵃ</span>. <span class=\"refLink\" data-ref=\"Gittin 69b:17\" href=\"/Gittin.69b.17\">Gittin 69ᵇ</span> <span dir=\"rtl\">דשדתיה ד׳ בת ד׳</span> which an ill reputed daughter of an ill-reputed mother has spun."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּמָה I 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּמָה I א׳",
+              "sourceRef": "Jastrow, דּוּמָה I 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> בד\"ה דומה נטענת כו' גנאי כדאמר הס\"ד ונמחק שמקלסין אותו:",
+                      "ref": "Chokhmat Shlomo on Sotah 27a:1",
+                      "sourceHeRef": "חכמת שלמה על סוטה כ״ז א:א",
+                      "sourceRef": "Chokhmat Shlomo on Sotah 27a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דומה</strong> - נטענת ונדברת בפי כל על ניאופיה דומה לשון קלסה ודיבור כדאמרי' בנדה <span class=\"parenthesized\">(דף סו.)</span> דומת עירך עלתה ביך וההוא לאו חשד הוא אלא דיבור יתר שהיו נדברים בה על חביבותה של בעלה ואף קלסה לשון דיבור יתר הוא לפיכך הוא נהפך ללשון שבח וללשון גנאי כדאמר <span class=\"parenthesized\">(שמקלסין אותו)</span>:",
+              "ref": "Rashi on Sotah 27a:1:1",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:א:א",
+              "sourceRef": "Rashi on Sotah 27a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וזו באה מביאה פסולה</strong> - שמא מעובד כוכבים או ממזר:",
+              "ref": "Rashi on Sotah 27a:1:2",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:א:ב",
+              "sourceRef": "Rashi on Sotah 27a:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דומה,</b> כלומר, מוטב לו לשאת אשה שהכל מדברים בה, שהיא חשודה בזנות, <b>ואל ישא בת דומה</b> בתה של אשה כזו. <b>שזו,</b> החשודה עצמה, <b>באה מטיפה כשרה,</b> שהיא על כל פנים נולדה בכשרות, <b>וזו,</b> בתה, <b>באה מטיפה פסולה,</b> שיש בה חשש ממזרות.",
+              "ref": "Steinsaltz on Sotah 27a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:א",
+              "sourceRef": "Steinsaltz on Sotah 27a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Sages use this term with regard to anything that serves as the subject of gossip and rumors. It is usually, though not always, used in a negative sense.",
+              "he": "ראה ברש\"י ותוס' הסברים בענין דומה. וראה במפרשי השו\"ע (ט\"ז, ב\"ש, ח\"מ) שהאריכו לדון האם יש להבחין בין קול היוצא עליה שהיא פרוצה, לרינון מוגדר שהיא מזנה עם אדם מסויים.",
+              "ref": "Steinsaltz comment #1 on Sotah 27a:1",
+              "sourceHeRef": "דּוּמָה",
+              "sourceRef": "A woman whose suspected promiscuity is publicly spoken of [<i>duma</i>]"
+            },
+            {
+              "en": "",
+              "he": "לפי רש\"י ואחרים הכל מודים שאין כאן חשש להלכה, אלא ענין של זהירות להתרחק מן הכיעור ומן הדומה לו. ולפי זה יש לומר שהמחלוקת בין שמואל ור' יוחנן היא האם יש להתרחק מבת דומה, שאף שלהלכה אינה פסולה, מכל מקום יש בה חשש יוחסין שאינו עשוי להיבטל, או שמא יש לחשוש יותר לאם, שמצד מעשיה יש לחשוש שתזנה תחתיו, וראוי להתרחק ממנה (דבר שאול). וראה במאירי שכתב שהרוצה להתרחק מן הכיעור יתרחק משתיהן, לפי שיש לחשוש שמעשי הבת כמעשי האם. וראה ברמב\"ם שמדבריו עולה שנושא אדם בת דומה אף לכתחילה.",
+              "ref": "Steinsaltz comment #2 on Sotah 27a:1",
+              "sourceHeRef": "בת דומה",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "מלה ארמית זו, ומקבילתה העברית דומה, וכן השרש \"דום\" או \"דים\" קשורים כנראה לשורש הערבי @yaֶ (ד'אם) שמשמעו: להיות חשוד, להיות נאשם בדבר. ובלשון חז\"ל — כל דבר המשמש נושא לרכילות ולשמועות, בעיקר שמועות רעות, אך גם נושא לשיחת הבריות בכללה.",
+              "ref": "Steinsaltz comment #3 on Sotah 27a:1",
+              "sourceHeRef": "דומה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דומה</strong> - פירש ר\"ח שמלעיזין עליה בני אדם שהיא מזנה כדגרסינן <span class=\"parenthesized\">(ביבמות דף כה.)</span> [אמר אביי אמרה לי אם] דומי דמתא יומא ופלגא והוא עד שישאו ויתנו בה מוזרות בלבנה פי' מוזרות נשים שטוות פשתן משזר כך מפרש בגמרת א\"י. מה שהביא רבינו חננאל דומי דמתא יומא ופלגא לא הביא אלא לראיה דלשון דומה לזות שפתים הוא ומיהו הכא לא מיירי בדומה כה\"ג דא\"כ אפי' כנס יוציא דהא פסקינן התם בפ\"ב דיבמות <span class=\"parenthesized\">(דף כה.)</span> כרבי בקלא דלא פסיק היכא דדומי מתא יומא ופלגא דקאמר הואיל ומכוער הדבר תצא ואפילו רבי יוחנן מודי הכא אם כנס דלא יוציא:",
+              "ref": "Tosafot on Sotah 27a:1:1",
+              "sourceHeRef": "תוספות על סוטה כ״ז א:א:א",
+              "sourceRef": "Tosafot on Sotah 27a:1:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>a woman whose suspected promiscuity is publicly spoken of [<i>duma</i>], and not marry the daughter of a woman suspected of promiscuity, as this</b> woman, who is herself suspected of promiscuity, <b>comes from seed</b> of <b>unflawed</b> lineage; <b>but that</b> woman, the daughter of a woman suspected of promiscuity, <b>comes from seed</b> of <b>flawed</b> lineage, as she might be a <i>mamzeret</i>.",
+      "he": "דּוּמָה, וְאַל יִשָּׂא בַּת דּוּמָה. שֶׁזּוֹ בָּאָה מִטִּיפָּה כְּשֵׁרָה, וְזוֹ בָּאָה מִטִּיפָּה פְּסוּלָה.",
+      "ref": "Sotah 27a:1"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּמָה I</strong> f. (see <span class=\"refLink\" data-ref=\"Jastrow, דּוּם 1\" dir=\"rtl\" href=\"/Jastrow,_דּוּם.1\">דּוּם</span>) <br><b>1)</b> <i>evil report, rumor</i>. <span class=\"refLink\" data-ref=\"Niddah 66a\" href=\"/Niddah.66a\">Niddah 66ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דמי 1\" dir=\"rtl\" href=\"/Jastrow,_דמי.1\">דִּימָה</span>. <br><b><br>—2)</b> <i>a woman of ill repute</i>. <span class=\"refLink\" data-ref=\"Sotah 27a:4\" href=\"/Sotah.27a.4\">Sotah 27ᵃ</span>. <span class=\"refLink\" data-ref=\"Gittin 69b:17\" href=\"/Gittin.69b.17\">Gittin 69ᵇ</span> <span dir=\"rtl\">דשדתיה ד׳ בת ד׳</span> which an ill reputed daughter of an ill-reputed mother has spun."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּמָה I 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּמָה I א׳",
+              "sourceRef": "Jastrow, דּוּמָה I 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">[שזו]</strong> - הבת עומדת בחזקת כשרות ומותרת לבעלה ולטיפה פסולה לא חיישינן דרוב בעילות אחר הבעל ומבעלה נתעברה:",
+              "ref": "Rashi on Sotah 27a:2:1",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ב:א",
+              "sourceRef": "Rashi on Sotah 27a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וזו אינה עומדת בחזקת כשרות</strong> - שמזנה תחתיו ונאסרת עליו והוא אינו רואה ואינו מגרשה ובא עליה באיסור:",
+              "ref": "Rashi on Sotah 27a:2:2",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ב:ב",
+              "sourceRef": "Rashi on Sotah 27a:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ור' יוחנן אמר</b> להיפך: <b>ישא אדם בת דומה ואל ישא דומה. שזו,</b> הבת, <b>עומדת בחזקת כשרות</b> עצמה, <b>וזו,</b> החשודה, <b>אינה עומדת בחזקת כשרות.</b>",
+              "ref": "Steinsaltz on Sotah 27a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:ב",
+              "sourceRef": "Steinsaltz on Sotah 27a:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>And <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> says:</b> It is better that <b>a man marry the daughter of a woman suspected of promiscuity, and not marry a woman suspected of promiscuity, as this</b> daughter <b>maintains</b> the <b>presumptive status of virtuousness, but that</b> woman suspected of promiscuity <b>does not maintain</b> the <b>presumptive status of virtuousness.</b>",
+      "he": "<span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">וְרַבִּי יוֹחָנָן</span> אָמַר: יִשָּׂא אָדָם בַּת דּוּמָה, וְאַל יִשָּׂא דּוּמָה. שֶׁזּוֹ עוֹמֶדֶת בְּחֶזְקַת כַּשְׁרוּת, וְזוֹ אֵינָהּ עוֹמֶדֶת בְּחֶזְקַת כַּשְׁרוּת.",
+      "ref": "Sotah 27a:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּמָה I</strong> f. (see <span class=\"refLink\" data-ref=\"Jastrow, דּוּם 1\" dir=\"rtl\" href=\"/Jastrow,_דּוּם.1\">דּוּם</span>) <br><b>1)</b> <i>evil report, rumor</i>. <span class=\"refLink\" data-ref=\"Niddah 66a\" href=\"/Niddah.66a\">Niddah 66ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דמי 1\" dir=\"rtl\" href=\"/Jastrow,_דמי.1\">דִּימָה</span>. <br><b><br>—2)</b> <i>a woman of ill repute</i>. <span class=\"refLink\" data-ref=\"Sotah 27a:4\" href=\"/Sotah.27a.4\">Sotah 27ᵃ</span>. <span class=\"refLink\" data-ref=\"Gittin 69b:17\" href=\"/Gittin.69b.17\">Gittin 69ᵇ</span> <span dir=\"rtl\">דשדתיה ד׳ בת ד׳</span> which an ill reputed daughter of an ill-reputed mother has spun."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּמָה I 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּמָה I א׳",
+              "sourceRef": "Jastrow, דּוּמָה I 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ותסברא נושא לכתחילה</strong> - הא ודאי מקלקלה ליה אלא על כרחך משבשתא היא ובעית לתרוצה ולמתני אם נשא אדם דומה מותר וכיון דבעית לתרוצה אלמא תנא לאו דוקא ולא מותבינן מינה דאיכא למימר בהא נמי טעה ותני נמי בת דומה ואנן נמי כי אמרינן ישא אדם זו ולא ישא זו לאו לכתחילה אם ימצא אחרת אבל מי שאינו מוצא אלא שתים אלו ישא זו ואל ישא זו:",
+              "ref": "Rashi on Sotah 27a:3:1",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ג:א",
+              "sourceRef": "Rashi on Sotah 27a:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי</b> <span class=\"hebrew-emphasis\">[מקשים]</span> על ר' יוחנן ממה ששנינו בברייתא: <b>נושא אדם דומה! אמר רבא: ותסברא</b> <span class=\"hebrew-emphasis\">[ו</span>כי <span class=\"hebrew-emphasis\">סבור אתה]</span> שאפשר לקבל גירסה זו <b>\"נושא\"</b> שמשמעה <b>לכתחילה,</b> שכך ראוי לו לאדם לעשות?! <b>אלא,</b> שאין לשון ברייתא זאת מדוייקת, וחייב אתה לתקן ולגרוס: <b>\"אם נשא\",</b> אם כן <b>תני נמי</b> <span class=\"hebrew-emphasis\">[שנה גם כן]</span> ותקן: <b>\"בת דומה\".</b> ואין להוכיח מברייתא זו שלשונה אינה מדוייקת.",
+              "ref": "Steinsaltz on Sotah 27a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:ג",
+              "sourceRef": "Steinsaltz on Sotah 27a:3"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara <b>raises an objection</b> to <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span>’s statement from a <i>baraita</i>: <b>A man</b> may <b>marry a woman suspected of promiscuity. <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said</b> in response: <b>And</b> how can <b>you understand</b> the <i>baraita</i> at face value? The <i>baraita</i> states that a man <b>may marry</b> her <b><i>ab initio</i>,</b> yet clearly it is undesirable to do so. <b>Rather,</b> the wording of the <i>baraita</i> is imprecise, and one must render it: <b>If one married</b> a woman suspected of promiscuity, she is permitted to him. Since the <i>baraita</i> is imprecise, one should <b>also</b> correct it and <b>teach: The daughter of a woman suspected of promiscuity.</b>",
+      "he": "מֵיתִיבִי: נוֹשֵׂא אָדָם דּוּמָה! אָמַר רָבָא: וְתִסְבְּרָא נוֹשֵׂא לְכַתְּחִלָּה?! אֶלָּא: אִם נָשָׂא, תְּנִי נָמֵי: ״בַּת דּוּמָה״.",
+      "ref": "Sotah 27a:3"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דּוּמָה I</strong> f. (see <span class=\"refLink\" data-ref=\"Jastrow, דּוּם 1\" dir=\"rtl\" href=\"/Jastrow,_דּוּם.1\">דּוּם</span>) <br><b>1)</b> <i>evil report, rumor</i>. <span class=\"refLink\" data-ref=\"Niddah 66a\" href=\"/Niddah.66a\">Niddah 66ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דמי 1\" dir=\"rtl\" href=\"/Jastrow,_דמי.1\">דִּימָה</span>. <br><b><br>—2)</b> <i>a woman of ill repute</i>. <span class=\"refLink\" data-ref=\"Sotah 27a:4\" href=\"/Sotah.27a.4\">Sotah 27ᵃ</span>. <span class=\"refLink\" data-ref=\"Gittin 69b:17\" href=\"/Gittin.69b.17\">Gittin 69ᵇ</span> <span dir=\"rtl\">דשדתיה ד׳ בת ד׳</span> which an ill reputed daughter of an ill-reputed mother has spun."
+              ],
+              "he": [],
+              "ref": "Jastrow, דּוּמָה I 1",
+              "sourceHeRef": "מילון יסטרוב, דּוּמָה I א׳",
+              "sourceRef": "Jastrow, דּוּמָה I 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Although there is a rumor circulating to the fact that a woman has committed adultery and everyone is gossiping about her, we do not suspect that her children are <i>mamzerim</i>. [The rationale is that] the person who most frequently has relations with her is her husband. It is permitted to marry her daughter, even as an initial and preferred option. With regard to her own status, we suspect that she is a <i>zonah</i>. If her conduct was very lewd, we also suspect the lineage of her children.",
+              "he": "אֵשֶׁת אִישׁ שֶׁיָּצָא עָלֶיהָ קוֹל שֶׁהָיְתָה זוֹנָה תַּחַת בַּעְלָהּ וְהַכּל מְרַנְּנִין אַחֲרֶיהָ אֵין חוֹשְׁשִׁין לְבָנֶיהָ שֶׁמָּא מַמְזֵרִים הֵם שֶׁרֹב בְּעִילוֹת אֵצֶל הַבַּעַל. וּמֻתָּר לִשָּׂא בִּתָּהּ לְכַתְּחִלָּה. אֲבָל הִיא עַצְמָהּ חוֹשְׁשִׁין לָהּ מִשּׁוּם זוֹנָה. וְאִם הָיְתָה פְּרוּצָה יוֹתֵר מִדַּאי אַף לְבָנֶיהָ חוֹשְׁשִׁין:",
+              "ref": "Mishneh Torah, Forbidden Intercourse 15:20",
+              "sourceHeRef": "הלכות איסורי ביאה טו:כ",
+              "sourceRef": "Forbidden Intercourse 15:20"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דתני רב תחליפא כו'</strong> - הלכך בת דומה כיון דכשרה היא טוב לו שישאנה שתהא תחתיו בחזקת היתר ואל ישא דומה שמקלקלתו לשמש עמה משנאסרה לו:",
+              "ref": "Rashi on Sotah 27a:4:1",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ד:א",
+              "sourceRef": "Rashi on Sotah 27a:4:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "If a rumor spreads that a married woman committed adultery, and everyone is talking about her, we do not need to be concerned that her children are mamzerim, because we rely on the assumption that most of her cohabitation was with her husband. With regard to herself, however, we must be concerned that she is a harlot, and if her husband is a kohen the concern is a at a Torah level (Rem\"a: If her husband is a kohen, we are concerned that her children are disgraced from the priesthood), and if he is a regular Jew, he may elect to distance himself from the repulsive. If she is extremely loose, we must even be concerned about her children. Rem\"a: Nevertheless, she is believed if she says here children are legitimate. If she was loose when she was single or betrothed, but not after she married, even if she was seen committing an act of adultery, her children are legitimate.",
+              "he": "אשת איש שיצא עליה קול שהיתה מזנה תחת בעלה והכל מרננים אחריה אין חוששין לבניה שמא הם ממזרים שרוב בעילות תולים בבעל אבל היא בעצמה חוששין לה משום זונה וכהן חושש לה מדין תורה <span class=\"hebrew-emphasis\"> (ואם בעלה כהן חוששין על בניה שהם חללים) (מהרי\"ו סי' כ\"ד) </span> וישראל אם רוצה להתרחק מן הכיעור ואם היא פרוצה ביותר חוששין אף לבנים: <span class=\"hebrew-emphasis\">הגה ומ\"מ היא נאמנת לומר על בניה שהם כשרים (מהר\"מ פדוואה סי' ל\"ג) היתה פרוצה כשהיתה פנויה או ארוסה ולא היתה פרוצה לאחר נישואין אע\"פ שראוה מנאפת פעם אחת בניה כשרים: (ג\"ז שם)</span>",
+              "ref": "Shulchan Arukh, Even HaEzer 4:15",
+              "sourceHeRef": "אבן העזר ד:טו - מי הם האסורים לבא בקהל ואיזהו הנקרא ממזר",
+              "sourceRef": "Even HaEzer 4:15"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומסכמים, <b>והלכתא</b> <span class=\"hebrew-emphasis\">[והלכה]</span> היא: <b>ישא אדם בת דומה, ואל ישא דומה. דתני</b> <span class=\"hebrew-emphasis\">[ששנה]</span> <b>רב תחליפא בר מערבא</b> <span class=\"hebrew-emphasis\">[בן ארץ ישראל]</span> <b>קמיה</b> <span class=\"hebrew-emphasis\">[לפני]</span> <b>ר' אבהו: אשה</b> ה<b>מזנה</b> על בעלה — בכל זאת <b>בניה כשרין,</b> שאנו מייחסים את <b>רוב בעילות</b> שנבעלה <b>אחר הבעל,</b> ומן הסתם הילדים נולדו מבעילתו של הבעל ולא מבעילת הנואף.",
+              "ref": "Steinsaltz on Sotah 27a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:ד",
+              "sourceRef": "Steinsaltz on Sotah 27a:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a woman is rumored to have committed adultery, one need not be concerned that perhaps her children are <i>mamzerim</i>, even if she is the subject of communal gossip, in accordance with the ruling of Rav Taĥalifa. However, there is reason for concern that perhaps she has acquired the status of a <i>zona</i>, i.e., a woman who has engaged in sexual intercourse with a man forbidden to her, and if her husband is a priest he is forbidden by Torah law to remain married to her. Furthermore, even an Israelite should refrain from marrying her in order to distance himself from alleged impropriety. If she is extremely promiscuous, her children’s lineage is also considered uncertain, as the Gemara’s dilemma concerning whether the husband will ensure she does not become impregnated by another man stands unresolved. The Rema writes that even so, if she states that her children are of unflawed lineage, her testimony is accepted. If she behaved extremely licentiously before her marriage but not afterward, then even if she was once seen committing adultery, her children are considered of unflawed lineage (Rambam <i>Sefer Kedusha</i>,<i> Hilkhot Issurei Bia</i> 15:20; <i>Shulĥan Arukh</i>,<i> Even HaEzer</i> 4:15).",
+              "he": "אשת איש שיצא עליה קול שהיא מזנה תחת בעלה והכל מרננים אחריה — אין חוששים לבניה שהם ממזרים, אבל לה עצמה חוששים משום זונה וכהן חושש לה מדין תורה, וכן ישראל אם רוצה להתרחק מן הכיעור. כמסקנת הגמרא וכפי ששנה רב תחליפא בר מערבא. ואם היתה פרוצה ביותר חושששים אף לבנים — שהבעיה לא נפתרה בגמרא ונשארה בתיקו, הרי שיש מקום לחשוש בזה.<br><br>וכתב הרמ\"א שאף במקרה זה היא נאמנת לומר על בניה שהם כשרים. ועוד כתב הרמ\"א שאם היתה פרוצה בהיותה פנויה ולא היתה פרוצה לאחר נישואין, אף שראוה מנאפת פעם אחת — בניה כשרים. (רמב\"ם ספר קדושה הלכות איסורי ביאה פט\"ו ה\"כ. שו\"ע אה\"ע ד, טו).",
+              "ref": "Steinsaltz comment #1 on Sotah 27a:4",
+              "sourceHeRef": "אִשָּׁה מְזַנָּה בָּנֶיהָ כְּשֵׁרִין",
+              "sourceRef": "If a married woman engages in adulterous sexual intercourse her children are considered of unflawed lineage"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> רוב בעילות אחר הבעל לא איירי אלא בקלא כו' דרוב בעילות אחר הבעל כו' בפרק אלמנה דכ\"ע כו' כצ\"ל:",
+                      "ref": "Chokhmat Shlomo on Sotah 27a:4",
+                      "sourceHeRef": "חכמת שלמה על סוטה כ״ז א:ד",
+                      "sourceRef": "Chokhmat Shlomo on Sotah 27a:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רוב בעילות אחר הבעל</strong> - לא איירי אלא בקלא דפסק דפסקינן כרב <span class=\"parenthesized\">(יבמות כה.)</span> דלא תצא דרוב בעילות אחר הבעל ואע\"ג דרב דאמר בסוף פרק אלמנה ביבמות <span class=\"parenthesized\">(דף סט:)</span> הבא על ארוסתו בבית חמיו הולד ממזר ומוקי בגמרא בדדיימא מיניה ומעלמא ולא שדינן לה בתר דידיה דוקא ארוס שאין מצוי אצלה אבל בבעל שכנסה מודי ולשמואל ל\"ש דלעולם הולד שתוקי וכגון דליתא לדומה גופא קמן דלישיילה אבל איתא קמן ואמרה לכשר נבעלתי נאמנת דאמרינן בפרק עשרה יוחסין <span class=\"parenthesized\">(קדושין דף עה.)</span> גבי ארוסה שעיברה אע\"ג דמוקמינן לה בפרק אלמנה לכ\"ג <span class=\"parenthesized\">(יבמות סט:)</span> כגון דדיימא מעלמא מאי שתוקי דאמר שמואל בדוקי שבודקין את אמו ואומרת לכשר נבעלתי דאמר רב יהודה אמר שמואל הלכה כרבן גמליאל דאמר היא נאמנת דאפילו ברוב פסולין אצלה והוא הדין האי דקאמר הכא אל ישא בת דומה כגון דליתא לדומה קמן דנישיילה אבל איכא למתמה ללישנא בתרא דאמר בפרק אלמנה בבא עליה דכ\"ע לא פליגי דבתר דידיה שדינן והא הכא דבעלה קבוע אצלה כל שעה לא שדי ליה שמואל בתריה דבעל בתר ארוס לא כל שכן ואפי' אם תמצא לומר דשאני התם דידעינן בברור דבא עליה ארוס אבל הכא גבי בעל לא ידעינן ביאה ודאית דבא עליה מ\"מ לרבא תקשה דאמר אפי' בארוסה שעיברה אמר מסתברא דלא דיימא מיניה בהא קאמר רב הולד ממזר ושמואל אמר הולד שתוקי אבל דיימא מיניה בתר דידיה שדינן ליה ואפי' לרב וכ\"ש לשמואל והא הכא אע\"ג דאית לה בעל קבוע והוה לן למימר רוב בעילות אחר הבעל ולא שדי ליה בדידיה כ\"ש התם:",
+              "ref": "Tosafot on Sotah 27a:4:1",
+              "sourceHeRef": "תוספות על סוטה כ״ז א:ד:א",
+              "sourceRef": "Tosafot on Sotah 27a:4:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara concludes: <b>And the <i>halakha</i></b> is that it is better that <b>a man marry the daughter of a woman suspected of promiscuity, and not marry a woman suspected of promiscuity.</b> This is <b>as <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> Taḥalifa, from the West,</b> i.e., <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>, <b>taught before <span href=\"/topics/rabbi-abahu\" class=\"namedEntityLink\" data-slug=\"rabbi-abahu\">Rabbi Abbahu</span>:</b> If a married <b>woman engages in adulterous sexual intercourse, her children are</b> considered of <b>unflawed</b> lineage, as <b>most</b> instances of <b>sexual intercourse are attributed to the husband,</b> and consequently it is presumed that the children were conceived by the husband and not by the paramour. Therefore, the daughter of a woman suspected of promiscuity is not suspected of being a <i>mamzeret</i>.",
+      "he": "וְהִלְכְתָא: יִשָּׂא אָדָם בַּת דּוּמָה, וְאַל יִשָּׂא דּוּמָה. דְּתָנֵי רַב תַּחְלִיפָא בַּר מַעְרְבָא קַמֵּיהּ דְּרַבִּי אֲבָהוּ: אִשָּׁה מְזַנָּה — בָּנֶיהָ כְּשֵׁרִין, רוֹב בְּעִילוֹת אַחַר הַבַּעַל.",
+      "ref": "Sotah 27a:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> היתה פרוצה כו' משל אחרים הס\"ד:",
+                      "ref": "Chokhmat Shlomo on Sotah 27a:2",
+                      "sourceHeRef": "חכמת שלמה על סוטה כ״ז א:ב",
+                      "sourceRef": "Chokhmat Shlomo on Sotah 27a:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">היתה פרוצה ביותר</strong> - דאיכא למיחש דרוב בעילותיה משל אחרים:",
+              "ref": "Rashi on Sotah 27a:5:1",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ה:א",
+              "sourceRef": "Rashi on Sotah 27a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מהו</strong> - שיהו בניה כשרים:",
+              "ref": "Rashi on Sotah 27a:5:2",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ה:ב",
+              "sourceRef": "Rashi on Sotah 27a:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין אשה מתעברת אלא סמוך לווסתה</strong> - לפני ווסת נדותה יום אחד דלא ידע הבעל את ווסת נדתה דלנטרה אותו היום מלזנות שלא תתעבר בזנות:",
+              "ref": "Rashi on Sotah 27a:5:3",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ה:ג",
+              "sourceRef": "Rashi on Sotah 27a:5:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בעי</b> <span class=\"hebrew-emphasis\">[שאל]</span> <b>רב עמרם:</b> אם <b>היתה</b> האשה <b>פרוצה ביותר</b> שכבר אין לתלות את רוב בעילות בבעל, <b>מהו?</b> האם יש לחשוש לכשרות הילדים? ומסבירים: <b>אליבא דמאן דאמר</b> <span class=\"hebrew-emphasis\">[לשיטת מי שאומר]</span> <b>אין אשה מתעברת אלא</b> בזמן <b>סמוך לווסתה —</b> <b>לא תיבעי</b> <span class=\"hebrew-emphasis\">[תישאל]</span> <b>לך</b> שאלה זו, שהרי <b>לא ידע</b> <span class=\"hebrew-emphasis\">[יודע]</span> <b>בה</b> הבעל מתי ווסתה ולכן <b>לא מנטר לה</b> <span class=\"hebrew-emphasis\">[שומר אותה]</span> מלזנות באותו יום, ובודאי אין בניה כשרים.",
+              "ref": "Steinsaltz on Sotah 27a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:ה",
+              "sourceRef": "Steinsaltz on Sotah 27a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A woman can become pregnant only at the time of ovulation, which usually occurs around fourteen days before she menstruates. The time of a woman’s immersion is seven days after she ceases to menstruate. Consequently, the duration of the time between ovulation and the time of menstruation or the time of immersion depends on the length of a woman’s menstrual cycle. A woman with a regular menstrual cycle of approximately a month will ovulate around two weeks after the beginning of menstruation, close to the time of her immersion, while a woman with a much shorter menstrual cycle will ovulate closer to the time she ceased  menstruating.",
+              "he": "עיבורה של אשה תלוי בביוץ, ודבר זה קורה בדרך כלל כארבעה עשר יום לפני התחלת מחזור הוסת הבא. המרחק בין זמן זה ובין זמן וסתה או טבילתה תלוי גם באורך המחזור. באשה שיש לה מחזור נורמלי, של חודש בערך, הביוץ יהא כשבועיים לאחר הוסת, שהוא זמן הסמוך לזמן הטבילה בפועל (כאשר מוסיפים, כמנהג בנות ישראל, עוד שבעה ימים נקיים לימי שתיתת הדם). אולם אצל אשה שמחזורה קצר מזה בהרבה יהא זמן הביוץ קרוב יותר לזמן וסתה.",
+              "ref": "Steinsaltz comment #1 on Sotah 27a:5",
+              "sourceHeRef": "אִשָּׁה מִתְעַבֶּרֶת",
+              "sourceRef": "A woman becomes pregnant"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' ד\"ה אליבא דמ\"ד וכו' ונראה דמ\"ד וכו'.</b> עי' נדה דף י ע\"ב תד\"ה דהויא:",
+                      "ref": "Gilyon HaShas on Sotah 27a:1",
+                      "sourceHeRef": "גליון הש\"ס על סוטה כ״ז א:א",
+                      "sourceRef": "Gilyon HaShas on Sotah 27a:1"
+                    }
+                  ]
+                },
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> אליביה דמ\"ד כו' ותימה לרבי כו' כצ\"ל:",
+                      "ref": "Chokhmat Shlomo on Sotah 27a:5",
+                      "sourceHeRef": "חכמת שלמה על סוטה כ״ז א:ה",
+                      "sourceRef": "Chokhmat Shlomo on Sotah 27a:5"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אליבא דמ\"ד אין אשה מתעברת אלא סמוך לווסתה וכו'</strong> - י\"ל כגון שלא קבעה ווסת וה\"ה דהמ\"ל וכגון דלא קבעה ווסת לא תבעי לך כי תבעי לך היכא דקבעה ווסת אלא מילתא דפסיקא נקט תימה לרבי והא אמרי' התם בפ' המפלת <span class=\"parenthesized\">(נדה דף כה:)</span> ההוא שפירא דאתא לקמיה דמר שמואל אמר האי בר מ\"א יומא הוא וחשיב מיום דאזלה לטבילה עד ההוא יומא ולא הוה אלא מ' יומא אמר האי בנדותה בעל וכפתיה ואודי ותקשה למ\"ד סמוך לווסתה ונראה דמ\"ד סמוך לווסתה רוב עיבורין קאמר מיהו מודי דזימנין מיקרי דמיעברה נמי סמוך לטבילתה או באחד מאותן הימים שבין טבילתה לווסתה וכן למ\"ד סמוך לטבילתה:",
+              "ref": "Tosafot on Sotah 27a:5:1",
+              "sourceHeRef": "תוספות על סוטה כ״ז א:ה:א",
+              "sourceRef": "Tosafot on Sotah 27a:5:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-amram\" class=\"namedEntityLink\" data-slug=\"rav-amram\">Rav Amram</span> raises a dilemma: What is</b> the <i>halakha</i> if the woman <b>was extremely promiscuous</b> and one cannot reasonably attribute most instances of intercourse to the husband? Are her children considered of unflawed lineage, or is their lineage uncertain? <b>According to</b> the opinion of <b>the one who says</b> that <b>a woman becomes pregnant only close to</b> the time of the onset of <b>her menstruation, you do not</b> need to <b>raise this dilemma, as</b> the husband <b>does not know</b> the time of <b>this,</b> i.e., the time of her menstruation, in advance, <b>and</b> he <b>does not watch her</b> actions in order to prevent her from conceiving from another man. Her children are therefore of uncertain lineage.",
+      "he": "בָּעֵי <span href=\"/topics/rav-amram\" class=\"namedEntityLink\" data-slug=\"rav-amram\">רַב עַמְרָם</span>: הָיְתָה פְּרוּצָה בְּיוֹתֵר, מַהוּ? אַלִּיבָּא דְּמַאן דְּאָמַר אֵין אִשָּׁה מִתְעַבֶּרֶת אֶלָּא סָמוּךְ לְוִוסְתָּהּ — לָא תִּיבְּעֵי לָךְ, דְּלָא יָדַע בַּהּ וְלָא מְנַטַּר לַהּ.",
+      "ref": "Sotah 27a:5"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Although there is a rumor circulating to the fact that a woman has committed adultery and everyone is gossiping about her, we do not suspect that her children are <i>mamzerim</i>. [The rationale is that] the person who most frequently has relations with her is her husband. It is permitted to marry her daughter, even as an initial and preferred option. With regard to her own status, we suspect that she is a <i>zonah</i>. If her conduct was very lewd, we also suspect the lineage of her children.",
+              "he": "אֵשֶׁת אִישׁ שֶׁיָּצָא עָלֶיהָ קוֹל שֶׁהָיְתָה זוֹנָה תַּחַת בַּעְלָהּ וְהַכּל מְרַנְּנִין אַחֲרֶיהָ אֵין חוֹשְׁשִׁין לְבָנֶיהָ שֶׁמָּא מַמְזֵרִים הֵם שֶׁרֹב בְּעִילוֹת אֵצֶל הַבַּעַל. וּמֻתָּר לִשָּׂא בִּתָּהּ לְכַתְּחִלָּה. אֲבָל הִיא עַצְמָהּ חוֹשְׁשִׁין לָהּ מִשּׁוּם זוֹנָה. וְאִם הָיְתָה פְּרוּצָה יוֹתֵר מִדַּאי אַף לְבָנֶיהָ חוֹשְׁשִׁין:",
+              "ref": "Mishneh Torah, Forbidden Intercourse 15:20",
+              "sourceHeRef": "הלכות איסורי ביאה טו:כ",
+              "sourceRef": "Forbidden Intercourse 15:20"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כי תיבעי לך כו'</strong> - פלוגתא במס' נדה <span class=\"parenthesized\">(דף לא:)</span>:",
+              "ref": "Rashi on Sotah 27a:6:1",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ו:א",
+              "sourceRef": "Rashi on Sotah 27a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סמוך לטבילתה</strong> - לאחר שטבלה ביום טבילתה או ליום מחר:",
+              "ref": "Rashi on Sotah 27a:6:2",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ו:ב",
+              "sourceRef": "Rashi on Sotah 27a:6:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או דלמא כיון דפרוצה היא ביותר</strong> - לא מצי מינטר לה שנשמטת מאצלו פתאום:",
+              "ref": "Rashi on Sotah 27a:6:3",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ו:ג",
+              "sourceRef": "Rashi on Sotah 27a:6:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "If a rumor spreads that a married woman committed adultery, and everyone is talking about her, we do not need to be concerned that her children are mamzerim, because we rely on the assumption that most of her cohabitation was with her husband. With regard to herself, however, we must be concerned that she is a harlot, and if her husband is a kohen the concern is a at a Torah level (Rem\"a: If her husband is a kohen, we are concerned that her children are disgraced from the priesthood), and if he is a regular Jew, he may elect to distance himself from the repulsive. If she is extremely loose, we must even be concerned about her children. Rem\"a: Nevertheless, she is believed if she says here children are legitimate. If she was loose when she was single or betrothed, but not after she married, even if she was seen committing an act of adultery, her children are legitimate.",
+              "he": "אשת איש שיצא עליה קול שהיתה מזנה תחת בעלה והכל מרננים אחריה אין חוששין לבניה שמא הם ממזרים שרוב בעילות תולים בבעל אבל היא בעצמה חוששין לה משום זונה וכהן חושש לה מדין תורה <span class=\"hebrew-emphasis\"> (ואם בעלה כהן חוששין על בניה שהם חללים) (מהרי\"ו סי' כ\"ד) </span> וישראל אם רוצה להתרחק מן הכיעור ואם היא פרוצה ביותר חוששין אף לבנים: <span class=\"hebrew-emphasis\">הגה ומ\"מ היא נאמנת לומר על בניה שהם כשרים (מהר\"מ פדוואה סי' ל\"ג) היתה פרוצה כשהיתה פנויה או ארוסה ולא היתה פרוצה לאחר נישואין אע\"פ שראוה מנאפת פעם אחת בניה כשרים: (ג\"ז שם)</span>",
+              "ref": "Shulchan Arukh, Even HaEzer 4:15",
+              "sourceHeRef": "אבן העזר ד:טו - מי הם האסורים לבא בקהל ואיזהו הנקרא ממזר",
+              "sourceRef": "Even HaEzer 4:15"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אלא <b>כי תיבעי</b> <span class=\"hebrew-emphasis\">[כאשר תישאל]</span> <b>לך</b> השאלה, הרי זה <b>אליבא דמאן דאמר</b> <span class=\"hebrew-emphasis\">[לשיטת מי שאומר]</span> ש<b>אין אשה מתעברת אלא סמוך לטבילתה, מאי</b> <span class=\"hebrew-emphasis\">[מה]</span> יהא הדין? האם נסמוך על כך ש<b>כיון דידע</b> <span class=\"hebrew-emphasis\">[ש</span>בעלה <span class=\"hebrew-emphasis\">יודע]</span> <b>בה</b> מהו זמן טבילתה, <b>נטורי מנטר לה</b> <span class=\"hebrew-emphasis\">[שומר אותה]</span> באותו יום שלא תתעבר מאחר, <b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> <b>כיון</b> ש<b>פרוצה</b> היא <b>ביותר לא</b> נאמר שבניה כשרים, שאי אפשר לסמוך גם על שמירה זו? שאלה זו לא נפתרה, ועל כן <b>תיקו</b> <span class=\"hebrew-emphasis\">[תעמוד]</span> במקומה.",
+              "ref": "Steinsaltz on Sotah 27a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:ו",
+              "sourceRef": "Steinsaltz on Sotah 27a:6"
+            }
+          ]
+        }
+      },
+      "en": "<b>When do you</b> need to <b>raise this dilemma?</b> It is necessary <b>according to</b> the opinion of <b>the one who says</b> that <b>a woman becomes pregnant only close to</b> the time of <b>her immersion. What</b> is the <i>halakha</i>? Can it be assumed that <b>since he knows</b> the time of <b>this,</b> i.e., of her immersion, <b>he watches her</b> actions on that day in order to prevent her from conceiving from another man; <b>or perhaps, since</b> she <b>is extremely promiscuous,</b> her husband <b>cannot</b> adequately watch her and her children are considered of uncertain lineage? The Gemara concludes: The dilemma <b>shall stand</b> unresolved.",
+      "he": "כִּי תִּיבְּעֵי לָךְ, אַלִּיבָּא דְּמַאן דְּאָמַר אֵין אִשָּׁה מִתְעַבֶּרֶת אֶלָּא סָמוּךְ לִטְבִילָתָהּ, מַאי? כֵּיוָן דְּיָדַע בָּהּ, נַטּוֹרֵי מְנַטַּר לָהּ, אוֹ דִלְמָא כֵּיוָן דִּפְרוּצָה בְּיוֹתֵר — לָא? תֵּיקוּ.",
+      "ref": "Sotah 27a:6"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">שִׁעֲמוּם</strong>, <strong dir=\"rtl\">שִׁי׳</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, שִׁעְמֵם 1\" dir=\"rtl\" href=\"/Jastrow,_שִׁעְמֵם.1\">שִׁעֲמֵם</span>) <br><b>1)</b> <i>dullness, idiocy</i>. <span class=\"refLink\" data-ref=\"Mishnah Ketubot 5:5\" href=\"/Mishnah_Ketubot.5.5\">Ketubot V, 5</span> <span dir=\"rtl\">הבטלה מביאתה לידי ש׳</span> idleness may lead her to idiocy; [corr. acc. quot. section (Parashah) see <span class=\"refLink\" data-ref=\"Jastrow, בַּטָּלָה 1\" dir=\"rtl\" href=\"/Jastrow,_בַּטָּלָה.1\">בַּטָּלָה</span>]. <br><b><br>—2)</b> (= <span dir=\"rtl\">בעל ש׳</span>) <i>dull-minded man, idiot</i>. <span class=\"refLink\" data-ref=\"Sotah 24a\" href=\"/Sotah.24a\">Sotah 24ᵃ</span> sq.; <span class=\"refLink\" data-ref=\"Sotah 27a:7\" href=\"/Sotah.27a.7\">27ᵃ</span>; <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 9:28\" href=\"/Bamidbar_Rabbah.9.28\">Bamidabar Rabbah section (Parashah) 9</span><sup>28</sup> <span dir=\"rtl\">אשת ש׳</span> the wife of an idiot."
+              ],
+              "he": [],
+              "ref": "Jastrow, שִׁעֲמוּם 1",
+              "sourceHeRef": "מילון יסטרוב, שִׁעֲמוּם א׳",
+              "sourceRef": "Jastrow, שִׁעֲמוּם 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "<b>“Speak to the children of Israel, and say to them: If the wife of any man will stray and commit a trespass against him” (Numbers 5:12).</b> <br>“Any man…” – only his married wife is indicated for warning. From where is it derived that you include his betrothed and one with a levirate bond, that he warns them in order to cause them to drink after they are married, and to warn all the women with whom there is betrothal, e.g., a widow to a High Priest, a divorcée or a <i>ḥalutza</i> to a common priest, a <i>mamzeret</i> or a Givonite to an Israelite, an Israelite woman to a <i>mamzer </i>and a Givonite, in order to prohibit them to the paramour like they are to the husband? “Speak to the children of Israel, and say to them.” <br>Because it is stated: “The man shall bring his wife to the priest” (Numbers 5:15), the man causes to drink, but the court does not cause to drink, or perhaps, the man warns, but the court does not warn? “Speak to the children of Israel…and he warned” (Numbers 5:12, 14) – this includes the court, that it warns. <br>“Speak to the children of Israel” – one warns by means of an Israelite, but not by means of an idolater, and not by means of a <i>ger toshav</i>; or perhaps, the children of Israel to the exclusion of proselytes? Rav said: “Any man [<i>ish ish</i>]” – to include the proselytes. <br>Another matter: “<i>Ish ish</i>” – this is to render a woman like a man; this is the statement of Rabbi Akiva. <br>Another matter: “<i>Ish ish</i>” – this is to include a deaf and mute man, an insane man, the wife of an idiot, one whose husband traveled overseas, or was incarcerated in prison, that the court warns on their behalf to disqualify them [their wives] from their marriage contract. Is it perhaps to cause them even to drink? The verse states: “The man shall bring his wife…” (Numbers 5:15). <br>“If the wife [of any man] will stray” – the verse is speaking regarding one who is fit for her husband, to the exclusion of a widow [married] to a High Priest, or a divorcée or<i> ḥalutza</i> to a common priest, and, in accordance with the statement of Akavya ben Mahalalel, even a liberated maidservant and a convert. The Rabbis say: They cause them to drink. They said to him: ‘But Karkemit, a liberated maidservant, was in Jerusalem, and Shemaya and Avtalyon caused her to drink.’ In this language he said to them: ‘They gave her to drink because she was like them.’ They ostracized him, he died in his ostracism, and the court stoned his coffin. <br>What are we discussing? If it is an Israelite who married a proselyte woman, it is already written: “The children of Israel” – but not proselytes. If it is a proselyte who married an Israelite woman, it is already written: “The man shall bring his wife” (Numbers 5:15). Rather, we are discussing a proselyte who married a proselyte. What is the reason of Akavya? “The children of Israel” – but not proselytes. What is the reason of the Rabbis? “And say to them” – to include everyone who is stated in the portion. What is stated in the portion? “And a man had lain with her” (Numbers 5:13) – one whose lying with another man renders her forbidden to her husband, [the husband] warns and causes to drink. <br>“And commit a trespass against him” – a trespass regarding a matter of licentiousness or a trespass regarding money? When it states: “And a man had lain with her carnally” (Numbers 5:13) – it is trespass regarding a matter of licentiousness and not regarding money. <br>“And commit a trespass against him” – trespass [<i>maal</i>], everywhere, is nothing other than treachery. Likewise it says: “They trespassed [<i>vayimalu</i>] against the God of their fathers [and strayed after the gods of the peoples of the land]” (I Chronicles 5:25); “the children of Israel committed a trespass [<i>vayimalu</i>] concerning the proscribed spoils…” (Joshua 7:1).",
+              "he": "אִישׁ אִישׁ וגו' <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב)</span></span>, אֵין בְּמַשְׁמַע אֶלָּא אִשְׁתּוֹ הַנְּשׂוּאָה לַקִּנּוּי, וּמִנַּיִן אַתְּ מַרְבֶּה אֲרוּסָתוֹ וְשׁוֹמֶרֶת יָבָם שֶׁהוּא מְקַנֵּא לָהֶן לְהַשְׁקוֹתָן כְּשֶׁיִּנָּשְׂאוּ, וּלְקַנֹּאות כָּל הַנָּשִׁים שֶׁיֵּשׁ בָּהֶן הֲוָיָה, כְּגוֹן אַלְמָנָה לְכֹהֵן גָּדוֹל, גְּרוּשָׁה וַחֲלוּצָה לְכֹהֵן הֶדְיוֹט, מַמְזֶרֶת וּנְתִינָה לְיִשְׂרָאֵל, בַּת יִשְׂרָאֵל לְמַמְזֵר וּלְנָתִין כְּדֵי לְאָסְרָן אַבּוֹעֵל כַּבַּעַל, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב)</span></span>: דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵיהֶם, לְפִי שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, טו)</span></span>: וְהֵבִיא הָאִישׁ אֶת אִשְׁתּוֹ, הָאִישׁ מַשְׁקֶה וְאֵין בֵּית דִּין מַשְׁקִין, אוֹ הָאִישׁ מְקַנֵּא וְאֵין בֵּית דִּין מְקַנְאִין, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב יד)</span></span>: דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל, וְקִנֵּא, לְרַבּוֹת בֵּית דִּין שֶׁיְּקַנְאוּ. דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל, עַל יְדֵי יִשְׂרָאֵל מְקַנְאִין וְאֵין מְקַנְאִין לֹא עַל יְדֵי עוֹבְדֵי כּוֹכָבִים לֹא עַל יְדֵי תּוֹשָׁבִים. אוֹ בְּנֵי יִשְׂרָאֵל, פְּרַט לַגֵּרִים, אָמַר רַב אִישׁ אִישׁ, לְרַבּוֹת אֶת הַגֵּרִים. דָּבָר אַחֵר, אִישׁ אִישׁ, לַעֲשׂוֹת אִשָּׁה כְּאִישׁ, דִּבְרֵי רַבִּי עֲקִיבָא. דָּבָר אַחֵר, אִישׁ אִישׁ, לְרַבּוֹת חֶרֶשׁ, שׁוֹטֶה, וְאֵשֶׁת שִׁעֲמוּם, וְשֶׁהָלַךְ בַּעְלָהּ לִמְדִינַת הַיָּם וְהָיָה חָבוּשׁ בְּבֵית הָאֲסוּרִין, שֶׁבֵּית דִּין מְקַנְאִין לָהֶם לְפָסְלָן מִכְּתֻבָּתָן, יָכוֹל אַף לְהַשְׁקוֹתָן, תַּלְמוּד לוֹמַר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, טו)</span></span>: וְהֵבִיא הָאִישׁ אֶת אִשְׁתּוֹ וגו' <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב)</span></span>: כִּי תִשְׂטֶה אִשְׁתּוֹ, בִּרְאוּיָה לְאִישָׁהּ הַכָּתוּב מְדַבֵּר, לְהוֹצִיא אַלְמָנָה לְכֹהֵן גָּדוֹל גְּרוּשָׁה וַחֲלוּצָה לְכֹהֵן הֶדְיוֹט, וּכְדִבְרֵי עֲקַבְיָא בֶּן מַהֲלַלְאֵל אַף הַמְשֻׁחְרֶרֶת וְהַגִּיּוֹרֶת. וַחֲכָמִים אוֹמְרִים, מַשְׁקִים. אָמְרוּ לוֹ וַהֲרֵי כַּרְכְּמִית שִׁפְחָה מְשֻׁחְרֶרֶת הָיְתָה בִּירוּשָׁלַיִם וְהִשְׁקוּהָ שְׁמַעְיָה וְאַבְטַלְיוֹן. כַּלָּשׁוֹן הַזֶּה אָמַר לָהֶם דּוּגְמָא הִשְׁקוּהָ, וְנִדּוּהוּ וּמֵת בְּנִדּוּיוֹ, וְסָקְלוּ בֵּית דִּין אֶת אֲרוֹנוֹ. מָה אֲנַן קָיְמִין, אִם בְּיִשְׂרָאֵל שֶׁנָּשָׂא גִּיּוֹרֶת, כְּבָר כְּתִיב <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב)</span></span>: בְּנֵי יִשְׂרָאֵל, וְלֹא גֵרִים. אִם בְּגֵר שֶׁנָּשָׂא בַּת יִשְׂרָאֵל, כְּבָר כְּתִיב <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, טו)</span></span>: וְהֵבִיא הָאִישׁ אֶת אִשְׁתּוֹ, אֶלָּא כָּן אָנוּ קָיְמִין בְּגֵר שֶׁנָּשָׂא גִּיּוֹרֶת. מַה טַּעְמֵיהּ דַּעֲקַבְיָא, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב)</span></span>: בְּנֵי יִשְׂרָאֵל, וְלֹא גֵרִים. מַה טַּעְמַיְהוּ דְּרַבָּנָן, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב)</span></span>: וְאָמַרְתָּ אֲלֵהֶם, לְרַבּוֹת כָּל הָאָמוּר בַּפָּרָשָׁה, מָה אָמוּר בַּפָּרָשָׁה, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יג)</span></span>: וְשָׁכַב אִישׁ אֹתָהּ, מִי שֶׁשְּׁכִיבָתָהּ אוֹסַרְתָּהּ עַל בַּעֲלָהּ מְקַנֵּא וּמַשְׁקֶה. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב)</span></span>: וּמָעֲלָה בוֹ מָעַל, מְעִילָה עַל דְּבַר עֶרְוָה אוֹ מְעִילָה עַל דְּבַר מָמוֹן, כְּשֶׁהוּא אוֹמֵר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יג)</span></span>: וְשָׁכַב אִישׁ אֹתָהּ שִׁכְבַת זֶרַע, הֲרֵי מְעִילָה עַל דְּבַר עֶרְוָה וְלֹא עַל דְּבַר מָמוֹן. וּמָעֲלָה בוֹ מָעַל, אֵין מַעַל בְּכָל מָקוֹם אֶלָּא שִׁקּוּר, וְכֵן הוּא אוֹמֵר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(דברי הימים א ה, כה)</span></span>: וַיִּמְעֲלוּ בֵּאלֹהֵי אֲבֹתֵיהֶם וגו', <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(יהושע ז, ב)</span></span>: וַיִּמְעֲלוּ בְנֵי יִשְׂרָאֵל מַעַל בַּחֵרֶם וגו'.",
+              "ref": "Bamidbar Rabbah 9:28",
+              "sourceHeRef": "במדבר רבה ט:כח",
+              "sourceRef": "Bamidbar Rabbah 9:28"
+            },
+            {
+              "en": "(Bamidbar 5:29) \"This is the law of the rancors\": This tells me (that this is the law) only for that time. Whence do I derive (that it is also the law for succeeding generations? From (the construction) \"zoth torath,\" (connoting one law for all generations). These are the words of R. Yoshiyah. R. Yonathan says: (\"zoth torath\" is) conventional terminology (for conclusion of a subject, and not indicative of a new learning.) \"for a woman who goes astray under her husband\": to liken the woman to the man and the man to the woman (e.g., if either the man or the woman were blind, she does not drink). — But perhaps (the thrust of \"under her husband\" is) to exclude (from drinking,) a woman awaiting levirate marriage (shomereth yavam). It is, therefore, written (5:12) \"a man, a man\" (twice) to include (in drinking,) a shomereth yavam. — But perhaps I should also include a betrothed woman. It is, therefore, written \"under her husband\" — to exclude a betrothed woman. These are the words of R. Yoshiyah. R. Yonathan says (Ibid. 19) \"under your husband\" — to exclude a shomereth yavam. I would then exclude a shomereth yavam, but I would not exclude a betrothed woman. It is, therefore, written (Ibid.) \"for a woman (connoting a married woman) who goes astray under her husband\" — to exclude one who was (only) betrothed. If so, why is it written \"a man, a man\" — to include the wife of an imbecile, a deaf-mute, a dullard, one who had gone abroad, and one who had been incarcerated, in which instance beth-din forewarn her to the end of disqualifying her from (receiving) her kethubah. I might think, even to the end of making her drink. It is, therefore, written (in that regard) (Ibid. 15) \"Then the man shall bring his wife to the Cohein.\" R. Yossi says also to the end of making her drink when her husband is released from prison.",
+              "he": "זאת תורת הקנאות אין לי אלא לשעה לדורות מניין תלמוד לומר זאת תורת, דברי ר' יאשיה. ר' יונתן אומר בחותם הדברים. אשר תשטה אשה [תחת אישה ונטמאה] להביא אשת חרש ואשת שיעמום שבית דין מקנאים להם. <span class=\"parenthesized\">(אף)</span> לפוסלן מכתובתם או אף להשקותם, תלמוד לומר והביא האיש את אשתו אל הכהן האיש משקה ואין בית דין משקה. תחת אישה להוציא את הארוסה משמע מוציא את הארוסה או מוציא את <span class=\"parenthesized\">(נמי)</span> את היבמה תלמוד לומר איש איש כי תשטה אשתו להביא היבמה דברי רבי יאשיה. ר' יונתן אומר איש איש כי תשטה אשתו היבמה משמע מוצא היבמה ומביא את הארוסה תלמוד לומר תחת אישה להוציא את הארוסה:",
+              "ref": "Sifrei Bamidbar 20:1",
+              "sourceHeRef": "ספרי במדבר כ:א",
+              "sourceRef": "Sifrei Bamidbar 20:1"
+            },
+            {
+              "en": "<b>“This is the law of jealousy when a woman will stray while married to her husband, and become defiled” (Numbers 5:29).</b> <br>“This is the law of jealousy” – I have derived only for the present; for all generations, from where is it derived? The verse states: “This is the law of jealousy [<i>hakenaot</i>]” – the jealous man [<i>hamekaneh</i>] shall warn [<i>yekaneh</i>] in Shilo and in the eternal Temple. Is it, perhaps, at private altars, as well? The verse states: “This [<i>zot</i>].” <br>“When a woman will stray” – this is to include one whose husband became a deaf mute, went insane, or was incarcerated in prison, that the court warns on their behalf to disqualify them from their marriage contract. Can the court cause them even to drink? The verse states: “The man shall bring his wife to the priest” (Numbers 5:15) – the man causes to drink, but the court does not cause to drink. <br>“While married to her husband, and become defiled” – to exclude the betrothed woman and the woman with a levirate bond.",
+              "he": "זֹאת תּוֹרַת הַקְּנָאֹת <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, כט)</span></span>, אֵין לִי אֶלָּא לְשָׁעָה, לְדוֹרוֹת מִנַּיִן, תַּלְמוּד לוֹמַר: זֹאת תּוֹרַת הַקְּנָאֹת. הַקְּנָאֹת, הַמְקַנֵּא יְקַנֵּא בְּשִׁילוֹ וּבְבֵית עוֹלָמִים, יָכוֹל אַף בַּבָּמָה, תַּלְמוּד לוֹמַר: זֹאת. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, כט)</span></span>: אֲשֶׁר תִּשְׂטֶה אִשָּׁה, לְהָבִיא אֶת מִי שֶׁנִּתְחָרֵשׁ בַּעֲלָהּ אוֹ שֶׁנִּשְׁתַּטָה אוֹ שֶׁהָיָה חָבוּשׁ בְּבֵית הָאֲסוּרִים, שֶׁבֵּית דִּין מְקַנְאִין לָהֶם לְפָסְלָן מִכְּתֻבָּתָן, אוֹ אַף לְהַשְׁקוֹתָן, תַּלְמוּד לוֹמַר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, טו)</span></span>: וְהֵבִיא הָאִישׁ אֶת אִשְׁתּוֹ אֶל הַכֹּהֵן, הָאִישׁ מַשְׁקֶה וְאֵין בֵּית דִּין מַשְׁקִין. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, כט)</span></span>: תַּחַת אִישָׁהּ וְנִטְמָאָה, לְהוֹצִיא אֶת הָאֲרוּסָה וְאֶת הַיְבָמָה.",
+              "ref": "Bamidbar Rabbah 9:26",
+              "sourceHeRef": "במדבר רבה ט:כו",
+              "sourceRef": "Bamidbar Rabbah 9:26"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> With regard to <b>a betrothed woman</b> who secluded herself with another man after being warned by her betrothed, <b>and a widow waiting for her brother-in-law [<i>yavam</i>]</b> to perform levirate marriage who secluded herself with another man after being warned by her <i>yavam</i>, <b>they neither drink</b> the bitter water <b>nor collect</b> payment of their <b>marriage contracts.</b> The reason they are not entitled to payment of their marriage contracts is that the betrothed woman became forbidden to her betrothed or the widow became forbidden to her <i>yavam</i> due to her own actions of entering into seclusion with the paramour. And the fact that they do not drink the bitter water is <b>as it is stated:</b> “This is the law of jealousy, <b>when a wife, while under her husband, goes astray,</b> and is defiled” (Numbers 5:29). The verse <b>excludes a betrothed woman and a widow awaiting her <i>yavam</i>;</b> since they are not yet married, neither is considered as “under her husband.”",
+                  "The mishna delineates cases where the woman’s marriage was prohibited in the first place: With regard to <b>a widow</b> who was married <b>to a High Priest,</b> or <b>a divorcée or <i>ḥalutza</i></b> who was married <b>to a common priest,</b> or <b>a <i>mamzeret</i></b>"
+                ],
+                [
+                  "<b>or Gibeonite woman</b> who was married <b>to a Jew</b> of unflawed lineage, <b>or a Jewish woman</b> of unflawed lineage who was married <b>to a <i>mamzer</i> or a Gibeonite,</b> all of these women <b>neither drink</b> the bitter water <b>nor collect</b> payment of their <b>marriage contracts,</b> as the <i>sota</i> ritual applies only to permitted marriages.",
+                  "<b>And the following</b> women <b>neither drink</b> the bitter water <b>nor collect</b> payment of their <b>marriage contracts:</b> A woman <b>who</b> confesses and <b>says: I am defiled, and</b> a woman <b>with regard to whom witnesses came</b> and testified <b>that she is defiled, and</b> a woman <b>who says: I will not drink</b> the bitter water, even if she does not confess her guilt.",
+                  "However, a woman whose <b>husband said: I will not have</b> her <b>drink, and</b> a woman <b>whose husband engaged in sexual intercourse with her on the way</b> to the Temple, <b>collect</b> payment of their <b>marriage contracts</b> even though <b>they do not drink</b> the bitter water, as it is due to the husbands that they do not drink.",
+                  "If <b>the husbands</b> of <i>sota</i> women <b>died before</b> their wives <b>drank</b> the bitter water, <b>Beit Shammai say: They collect</b> payment of their <b>marriage contracts and they do not drink</b> the bitter water. <b>And Beit Hillel say: They either drink</b> the bitter water <b>or they do not collect</b> payment of <b>their marriage contracts.</b>",
+                  "<b>A woman who was pregnant</b> with the child <b>of another</b> man at the time of her marriage <b>and a woman who was nursing</b> the child <b>of another</b> man at the time of her marriage <b>neither drink</b> the bitter water <b>nor collect</b> payment of their <b>marriage contracts.</b> This is because by rabbinic law they may not marry for twenty-four months after the baby’s birth, and therefore these also constitute prohibited marriages. This is <b>the statement of Rabbi Meir. And the Rabbis say: He can separate</b> from <b>her, and remarry her after</b> the <b>time</b> of twenty-four months has elapsed, and therefore these are considered permitted marriages, and the women can drink the bitter water.",
+                  "<b>A sexually underdeveloped woman</b> who is incapable of bearing children <b>[<i>ailonit</i>], and an elderly woman, and</b> a woman <b>who is incapable of giving birth</b> for other reasons, <b>neither collect</b> payment of their <b>marriage contracts nor drink</b> the bitter water, as marrying a woman who cannot give birth constitutes a violation of the mitzva to be fruitful and multiply. <b>Rabbi Elazar says: He can marry another woman and procreate through her;</b> therefore, these are considered permitted marriages, and women in these categories can drink the bitter water.",
+                  "<b>And all other women either drink</b> the bitter water <b>or do not collect</b> payment of their <b>marriage contracts. The wife of a priest drinks, and</b> if she is found to be innocent of adultery, she <b>is permitted to her husband. The wife of a eunuch</b> also <b>drinks.</b>",
+                  "A husband <b>can issue a warning</b> to his wife forbidding her to seclude herself with any man, even <b>with regard to all those</b> men <b>with whom relations are forbidden,</b> e.g., her father or brother, with the <b>exception of a minor and of one who is not a man,</b> i.e., in a situation where a man suspects his wife of bestiality.",
+                  "<b>And these</b> are the women <b>to whom the court issues a warning</b> in place of their husbands: <b>One whose husband became a deaf-mute or became an imbecile, or was incarcerated in prison.</b> The Sages <b>said</b> that the court warns her <b>not</b> in order <b>to have her drink</b> the bitter water if she disobeys the warning, <b>but</b> in order <b>to disqualify her from</b> receiving payment of <b>her marriage contract. Rabbi Yosei says:</b> The court’s warning <b>also</b> serves <b>to have her drink,</b> and <b>when her husband is released from prison he has her drink.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Sotah 23b:14",
+                "Sotah 23b:15",
+                "Sotah 24a:1",
+                "Sotah 24a:2",
+                "Sotah 24a:3",
+                "Sotah 24a:4",
+                "Sotah 24a:5",
+                "Sotah 24a:6",
+                "Sotah 24a:7",
+                "Sotah 24a:8",
+                "Sotah 24a:9"
+              ],
+              "he": [
+                [
+                  "<big><strong>אֲרוּסָה</strong></big> וְשׁוֹמֶרֶת יָבָם — לֹא שׁוֹתוֹת וְלֹא נוֹטְלוֹת כְּתוּבָה, שֶׁנֶּאֱמַר: ״אֲשֶׁר תִּשְׂטֶה אִשָּׁה תַּחַת אִישָׁהּ״, פְּרָט לַאֲרוּסָה וְשׁוֹמֶרֶת יָבָם.",
+                  "אַלְמָנָה לְכֹהֵן גָּדוֹל, גְּרוּשָׁה וַחֲלוּצָה לְכֹהֵן הֶדְיוֹט, מַמְזֶרֶת"
+                ],
+                [
+                  "וּנְתִינָה לְיִשְׂרָאֵל, וּבַת יִשְׂרָאֵל לְמַמְזֵר וּלְנָתִין — לֹא שׁוֹתוֹת וְלֹא נוֹטְלוֹת כְּתוּבָה.",
+                  "וְאֵלּוּ לֹא שׁוֹתוֹת וְלֹא נוֹטְלוֹת כְּתוּבָה: הָאוֹמֶרֶת ״טְמֵאָה אֲנִי״, וְשֶׁבָּאוּ לָהּ עֵדִים שֶׁהִיא טְמֵאָה, וְהָאוֹמֶרֶת ״אֵינִי שׁוֹתָה״.",
+                  "אָמַר בַּעְלָהּ ״אֵינִי מַשְׁקָהּ״, וְשֶׁבַּעְלָהּ בָּא עָלֶיהָ בַּדֶּרֶךְ — נוֹטְלוֹת כְּתוּבָּה וְלֹא שׁוֹתוֹת.",
+                  "מֵתוּ בַּעְלֵיהֶן עַד שֶׁלֹּא שָׁתוּ, בֵּית שַׁמַּאי אוֹמְרִים: נוֹטְלוֹת כְּתוּבָּה וְלֹא שׁוֹתוֹת, וּבֵית הִלֵּל אוֹמְרִים: אוֹ שׁוֹתוֹת אוֹ לֹא נוֹטְלוֹת כְּתוּבָּתָן.",
+                  "מְעוּבֶּרֶת חֲבֵירוֹ וּמְנִיקַת חֲבֵירוֹ — לֹא שׁוֹתוֹת וְלֹא נוֹטְלוֹת כְּתוּבָּה, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים: יָכוֹל הוּא לְהַפְרִישָׁהּ וּלְהַחְזִירָהּ לְאַחַר זְמַן.",
+                  "אַיְילוֹנִית וּזְקֵינָה, וְשֶׁאֵינָהּ רְאוּיָה לֵילֵד — לֹא נוֹטְלוֹת כְּתוּבָּה וְלֹא שׁוֹתוֹת. רַבִּי אֶלְעָזָר אוֹמֵר: יָכוֹל הוּא לִישָּׂא אִשָּׁה אַחֶרֶת וְלִפְרוֹת וְלִרְבּוֹת הֵימֶנָּה.",
+                  "וּשְׁאָר כׇּל הַנָּשִׁים — אוֹ שׁוֹתוֹת אוֹ לֹא נוֹטְלוֹת כְּתוּבָּה. אֵשֶׁת כֹּהֵן שׁוֹתָה — וּמוּתֶּרֶת לְבַעְלָהּ. אֵשֶׁת סָרִיס שׁוֹתָה.",
+                  "עַל יְדֵי כׇּל עֲרָיוֹת מְקַנִּין, חוּץ מִן הַקָּטָן וּמִמִּי שֶׁאֵינוֹ אִישׁ.",
+                  "וְאֵלּוּ שֶׁבֵּית דִּין מְקַנִּין לָהֶן: מִי שֶׁנִּתְחָרֵשׁ בַּעְלָהּ, אוֹ נִשְׁתַּטָּה, אוֹ שֶׁהָיָה חָבוּשׁ בְּבֵית הָאֲסוּרִין. לֹא לְהַשְׁקוֹתָהּ אָמְרוּ, אֶלָּא לְפוֹסְלָהּ מִכְּתוּבָּתָהּ. רַבִּי יוֹסֵי אוֹמֵר: אַף לְהַשְׁקוֹתָהּ. לִכְשֶׁיֵּצֵא בַּעְלָהּ מִבֵּית הָאֲסוּרִין יַשְׁקֶנָּה."
+                ]
+              ],
+              "link": "/Sotah/23b",
+              "ref": "Sotah 23b:14-24a:9",
+              "sourceHeRef": "unused",
+              "sourceRef": "Sotah 23b:14-24a:9"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו במשנה: ואלו שבית דין מקנין להם. <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> נאמר בפרשת סוטה <b>\"איש\", מה תלמוד לומר</b> כפל הלשון <b>\"איש איש</b> כי תשטה אשתו\" <span class=\"hebrew-emphasis\">(במדבר ה, יב) —</span> <b>לרבות אשת חרש, ואשת שוטה, ואשת שעמום</b> (משוגע), <b>ושהלך בעלה למדינת הים, ושהיה חבוש בבית האסורין —</b> <b>שבית דין מקנין להן לפוסלן מכתובתן</b> אם נסתרו.",
+              "ref": "Steinsaltz on Sotah 27a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:ז",
+              "sourceRef": "Steinsaltz on Sotah 27a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ובתלמוד הירושלמי דרש מן הכתוב \"דבר אל בני ישראל\", ולמדו המפרשים שכוונתו שדיבור זה אינו רק לאדם הפרטי המקנא לאשתו אלא ל\"בני ישראל\" בכללם, כלומר לבית דין (וראה גם בתורה תמימה).",
+              "ref": "Steinsaltz comment #1 on Sotah 27a:7",
+              "sourceHeRef": "מה תלמוד לומר איש איש",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "ויש ברשימה זו שני צדדים של חידוש, משני האופנים שבהם ניתן לדון בדבר. שמצד אחד יש חידוש באשת חרש ושעמום, שאף שהוא עצמו אינו יכול לקנא לה שהרי אינו מסוגל לכך, מכל מקום בית דין מקנאים. ומצד שני יש חידוש במי שהוא בבית האסורים או במדינת הים, שלמרות שיש בכוחו לעשות זאת, שמא אין אז כוח ביד בית דין לעשות את הדבר במקומו (דבר שאול).",
+              "ref": "Steinsaltz comment #2 on Sotah 27a:7",
+              "sourceHeRef": "אשת חרש וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איש איש לרבות אשת חרש וכו'</strong> - נראה דעיקר קרא לא איצטריך אלא לאוסרה לבעל ולבועל ע\"י קינוי זה אבל משום לפוסלה מכתובתה לא צריך קרא דהא אפילו רבן שמעון בן גמליאל דאמר בפרק בתרא דכתובות <span class=\"parenthesized\">(דף קי:)</span> כתובת אשה דאורייתא לאו ממש דאורייתא אלא אית ליה סמך מדאורייתא כדאמרינן התם בפ\"ק <span class=\"parenthesized\">(דף י.)</span> מכאן סמכו חכמים לכתובת אשה מן התורה אלא תנא דנקט כתובה מילתא אגב אורחיה קמ\"ל דעוברת על דת צריכה התראה להפסיד כתובתה:",
+              "ref": "Tosafot on Sotah 27a:7:1",
+              "sourceHeRef": "תוספות על סוטה כ״ז א:ז:א",
+              "sourceRef": "Tosafot on Sotah 27a:7:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Speak to the Israelite people and say to them:<br>If any man’s wife has gone astray and broken faith with him",
+              "he": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֥ישׁ אִישׁ֙ כִּֽי־תִשְׂטֶ֣ה אִשְׁתּ֔וֹ וּמָעֲלָ֥ה ב֖וֹ מָֽעַל׃",
+              "link": "/Numbers/5",
+              "ref": "Numbers 5:12",
+              "sourceHeRef": "במדבר ה:יב",
+              "sourceRef": "Numbers 5:12"
+            }
+          ]
+        }
+      },
+      "en": "The mishna states (24a): <b>And these</b> are the women <b>to whom the court issues a warning</b> in place of their husbands: One whose husband became a deaf-mute or became an imbecile, or if he were incarcerated in prison. <b>The Sages taught:</b> The verse states: “If the wife of any man goes astray” (Numbers 5:12). As the verse could have said: The wife of <b>a man, what</b> is the meaning when <b>the verse states:</b> “The wife of <b>any man”?</b> It serves <b>to include the wife of a deaf-mute, and the wife of an imbecile, and the wife of an insane person, and</b> one <b>whose husband went overseas, and</b> one <b>whose</b> husband <b>was incarcerated in prison;</b> and it teaches <b>that the court issues a warning to</b> these women in order <b>to disqualify them from</b> receiving payment of <b>their marriage contract.</b>",
+      "he": "וְאֵלּוּ שֶׁבֵּית דִּין כּוּ׳. תָּנוּ רַבָּנַן: ״אִישׁ״, מָה תַּלְמוּד לוֹמַר ״אִישׁ אִישׁ״ — לְרַבּוֹת אֵשֶׁת חֵרֵשׁ, וְאֵשֶׁת שׁוֹטֶה, וְאֵשֶׁת שַׁעֲמוּם, וְשֶׁהָלַךְ בַּעְלָהּ לִמְדִינַת הַיָּם, וְשֶׁהָיָה חָבוּשׁ בְּבֵית הָאֲסוּרִין — שֶׁבֵּית דִּין מְקַנִּין לָהֶן לְפוֹסְלָן מִכְּתוּבָּתָן.",
+      "ref": "Sotah 27a:7",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>יכול</b> שקינוי בית דין מועיל <b>אף להשקותן —</b> <b>תלמוד לומר: \"והביא האיש את אשתו\"</b> (במדבר ה, טו), דווקא הבעל ולא אחר יכול להשקות את האשה. <b>ר' יוסי אומר:</b> מועיל הדבר <b>אף להשקותה,</b> כלומר, <b>ולכשיצא בעלה מבית האסורין ישקנה.</b>",
+              "ref": "Steinsaltz on Sotah 27a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:ח",
+              "sourceRef": "Steinsaltz on Sotah 27a:8"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "the man shall bring his wife to the priest. And he shall bring as an offering for her one-tenth of an <i>ephah</i> of barley flour. No oil shall be poured upon it and no frankincense shall be laid on it, for it is a meal offering of jealousy, a meal offering of remembrance which recalls wrongdoing.",
+              "he": "וְהֵבִ֨יא הָאִ֣ישׁ אֶת־אִשְׁתּוֹ֮ אֶל־הַכֹּהֵן֒ וְהֵבִ֤יא אֶת־קׇרְבָּנָהּ֙ עָלֶ֔יהָ עֲשִׂירִ֥ת הָאֵיפָ֖ה קֶ֣מַח שְׂעֹרִ֑ים לֹֽא־יִצֹ֨ק עָלָ֜יו שֶׁ֗מֶן וְלֹֽא־יִתֵּ֤ן עָלָיו֙ לְבֹנָ֔ה כִּֽי־מִנְחַ֤ת קְנָאֹת֙ ה֔וּא מִנְחַ֥ת זִכָּר֖וֹן מַזְכֶּ֥רֶת עָוֺֽן׃",
+              "link": "/Numbers/5",
+              "ref": "Numbers 5:15",
+              "sourceHeRef": "במדבר ה:טו",
+              "sourceRef": "Numbers 5:15"
+            }
+          ]
+        }
+      },
+      "en": "One <b>might</b> have thought that the court’s warning is effective <b>even to have</b> the women <b>drink</b> the bitter water; therefore, <b>the verse states: “Then the man shall bring his wife</b> to the priest” (Numbers 5:15), indicating that only the warning issued by the husband causes his wife to drink. <b><span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> says:</b> The court’s warning is effective <b>even to have her drink, and when her husband is released from prison he has her drink.</b>",
+      "he": "יָכוֹל אַף לְהַשְׁקוֹתָן — תַּלְמוּד לוֹמַר: ״וְהֵבִיא הָאִישׁ אֶת אִשְׁתּוֹ״. רַבִּי יוֹסֵי אוֹמֵר: אַף לְהַשְׁקוֹתָהּ, וְלִכְשֶׁיֵּצֵא בַּעְלָהּ מִבֵּית הָאֲסוּרִין יַשְׁקֶנָּה.",
+      "ref": "Sotah 27a:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וקינא והביא</strong> - המקנא לה ישקנה ואי קשיא בקינוי נמי הא כתיב את אשתו דמשמע דבעלה מקנא לה ולא אחר הא מתרבי מאיש איש:",
+              "ref": "Rashi on Sotah 27a:9:1",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:ט:א",
+              "sourceRef": "Rashi on Sotah 27a:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>במאי קא מיפלגי</b> <span class=\"hebrew-emphasis\">[במה,</span> באיזה עקרון, <span class=\"hebrew-emphasis\">חלוקים</span> הם<span class=\"hebrew-emphasis\">]</span> ומשיבים, <b>רבנן סברי</b> <span class=\"hebrew-emphasis\">[חכמים סבורים]:</span> <b>בעינן</b> <span class=\"hebrew-emphasis\">[צריכים אנו]</span> לקיים את הכתוב <b>\"וקנא</b> את אשתו... <b>והביא\"</b> (במדבר ה, יד-טו) שהמקנא לה הוא המביא אותה להשקותה, <b>ור' יוסי סבר</b> <span class=\"hebrew-emphasis\">[סבור]:</span> <b>לא בעינן</b> <span class=\"hebrew-emphasis\">[אין אנו צריכים]</span> לקיים <b>\"וקנא... והביא\",</b> אלא יכול הבעל להשקותה אף שבית הדין הוא המקנא.",
+              "ref": "Steinsaltz on Sotah 27a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:ט",
+              "sourceRef": "Steinsaltz on Sotah 27a:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יש ששאלו לגבי עצם הדברים, מדוע לא נאמר שיש בכך דין שליחות, שיוכל אחר לקנא לאשת חבירו והרי זה כאילו הוא עצמו עשה זאת ששלוחו של אדם כמותו? ויש שהסביר כי מכל מקום גזירת הכתוב היא \"וקינא... והביא\", שאין שליחות מועילה לענין ההשקאה (מנחה חרבה). ועוד שאלו: מדוע לא נאמר שיש בכך משום \"זכין לאדם שלא בפניו\"? ותירצו כי התנהגות זו של האשה יש בה חציפות יתירה רק כאשר היא תחת בעלה, אבל כשאין בעלה במקום ואין מוראו עליה שמא אין לומר שיש בכך פריצות יתירה (חזו\"א).",
+              "ref": "Steinsaltz comment #1 on Sotah 27a:9",
+              "sourceHeRef": "בעינן וקנא והביא",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "but a fit of jealousy comes over him and he is wrought up about the wife who has defiled herself; or if a fit of jealousy comes over one and he is wrought up about his wife although she has not defiled herself—",
+              "he": "וְעָבַ֨ר עָלָ֧יו רֽוּחַ־קִנְאָ֛ה וְקִנֵּ֥א אֶת־אִשְׁתּ֖וֹ וְהִ֣וא נִטְמָ֑אָה אוֹ־עָבַ֨ר עָלָ֤יו רֽוּחַ־קִנְאָה֙ וְקִנֵּ֣א אֶת־אִשְׁתּ֔וֹ וְהִ֖יא לֹ֥א נִטְמָֽאָה׃",
+              "link": "/Numbers/5",
+              "ref": "Numbers 5:14",
+              "sourceHeRef": "במדבר ה:יד",
+              "sourceRef": "Numbers 5:14"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>With regard to what do they disagree?</b> The Gemara answers: <b>The Rabbis hold</b> that <b>we require</b> the same person who issues the warning to bring the woman to the Temple, as the verse states: <b>“And he warned</b> his wife…<b>then</b> the man <b>shall bring</b> his wife to the priest” (Numbers 5:14–15). <b>And <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> holds</b> that <b>we do not require</b> that the actions stated in the verse, i.e., <b>“And he warned…then</b> the man <b>shall bring,”</b> be performed by the same person; and although only the husband may bring the woman to the priest to drink the bitter water, the warning may be issued by the court.",
+      "he": "בְּמַאי קָא מִיפַּלְגִי, רַבָּנַן סָבְרִי: בָּעֵינַן ״וְקִנֵּא ... וְהֵבִיא״, וְרַבִּי יוֹסֵי סָבַר: לָא בָּעֵינַן ״וְקִנֵּא ... וְהֵבִיא״.",
+      "ref": "Sotah 27a:9"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "<b>“This is the law of jealousy when a woman will stray while married to her husband, and become defiled” (Numbers 5:29).</b> <br>“This is [<i>zot</i>] the law [<i>torat</i>] of jealousy [<i>hakenaot</i>]”: “<i>Hakenaot</i>” – that he warns her in the eternal Temple, and in Shilo, in Nov, and in Givon. <br>“<i>Torat</i>” – it teaches that a woman drinks and repeats, whether in the case of one husband and two paramours, in the case of two husbands and one paramour, or in the case of two husbands and two paramours. Is it so, perhaps, even in the case of one husband and one paramour? The verse states: “<i>Zot</i>.” <br>“When a woman will stray while married to her husband” – this is to draw a parallel from a man to a woman and a woman to a man, to say: Just as, if he was blind he does not cause her to drink, as it is written: \"And it was hidden from the eyes of her husband” (Numbers 5:13), so too, if she was blind, she would not drink. And just as, if she was missing a leg, or a missing a hand, or mute she would not drink, as it is written: “The priest shall have the woman stand…and he shall place on her palms” (Numbers 5:18), “and the woman shall say” (Numbers 5:22), so, if he was missing a hand or a leg, or mute he would not cause her to drink. <br>“And become defiled” – Rabbi Akiva would say: The four times that it is stated in the portion: “If she was defiled” (Numbers 5:27), “and if [the woman] was not defiled” (Numbers 5:28), “defiled” (Numbers 5:14), “and become defiled” – one for the husband, one for the paramour, one for <i>teruma</i>, one for the priesthood.",
+              "he": "זֹאת תּוֹרַת הַקְּנָאֹת <span class=\"parenthesized\">(במדבר ה, כט)</span>, הַקְּנָאֹת, שֶׁהוּא מְקַנֵּא לָהּ בְּבֵית עוֹלָמִים וּבְשִׁילוֹ וּבְנוֹב וְגִבְעוֹן. תּוֹרַת, מְלַמֵּד שֶׁהָאִשָּׁה שׁוֹתָה וְשׁוֹנָה בֵּין בְּאִישׁ אֶחָד וּשְׁנֵי בּוֹעֲלִין, בֵּין בִּשְׁנֵי אֲנָשִׁים וּבוֹעֵל אֶחָד, בֵּין בִּשְׁנֵי אֲנָשִׁים וּשְׁנֵי בּוֹעֲלִין. יָכוֹל אַף בְּאִישׁ אֶחָד וּבוֹעֵל אֶחָד, תַּלְמוּד לוֹמַר, זֹאת. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, כט)</span></span>: אֲשֶׁר תִּשְׂטֶה אִשָּׁה תַּחַת אִישָׁהּ, לְהַקִּישׁ אִישׁ לְאִשָּׁה וְאִשָּׁה לְאִישׁ, לוֹמַר לְךָ כְּשֵׁם שֶׁאִם הָיָה הוּא סוּמָא לֹא הָיָה מַשְׁקֶה, דִּכְתִיב <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יג)</span></span>: וְנֶעְלַם מֵעֵינֵי אִישָׁהּ, כָּךְ אִם הָיְתָה הִיא סוּמָא לֹא הָיְתָה שׁוֹתָה. וּכְשֵׁם שֶׁאִם הָיְתָה הִיא חִגֶּרֶת גִּדֶּמֶת וְאִלֶּמֶת לֹא הָיְתָה שׁוֹתָה, דִּכְתִיב <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: וְהֶעֱמִיד הַכֹּהֵן אֶת הָאִשָּׁה, וְנָתַן עַל כַּפֶּיהָ, וְאָמְרָה הָאִשָּׁה, כָּךְ הוּא אִם הָיָה חִגֵּר אוֹ גִּדֵם אוֹ אִלֵּם לֹא הָיָה מַשְׁקֶה. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, כט)</span></span>: וְנִטְמָאָה, הָיָה רַבִּי עֲקִיבָא אוֹמֵר, אַרְבַּע פְּעָמִים הָאֲמוּרִים בַּפָּרָשָׁה <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, כז כח)</span></span>: אִם נִטְמְאָה, וְאִם לֹא נִטְמְאָה, נִטְמְאָה וְנִטְמָאָה, אֶחָד לַבַּעַל, אֶחָד לַבּוֹעֵל, וְאֶחָד לַתְּרוּמָה, וְאֶחָד לַכְּהֻנָּה.",
+              "ref": "Bamidbar Rabbah 9:42",
+              "sourceHeRef": "במדבר רבה ט:מב",
+              "sourceRef": "Bamidbar Rabbah 9:42"
+            },
+            {
+              "en": "<b>“The priest shall have the woman stand before the Lord, and he shall expose the woman’s head, and he shall place on her palms the meal offering of remembrance – it is a meal offering of jealousy; and in the hand of the priest shall be the water of bitterness that causes curse” (Numbers 5:18).</b> <br>“The priest shall have the woman stand” – initially the verse characterized her as his wife, as it is stated: “If the wife of any man will stray” (Numbers 5:12); “the man shall bring his wife” (Numbers 5:15). Why? God is concerned for the honor of Israel. God says: Even though he warned her, she remains in his domain. Perhaps she will recant. If she does not recant, she leaves his domain. “The priest shall have the woman stand”; “he shall expose the woman’s head”; “he shall give the woman to drink” (Numbers 5:24), et al. If she drank and was found to be pure “she will be absolved” (Numbers 5:28) – she is absolved and returns to her husband. “When a woman will stray while married to her husband” (Numbers 5:29) – God is concerned for the honor of Israel. Why? “Who have been borne since birth” (Isaiah 46:3) – if at the time of their corruption God is concerned for Israel’s honor and strives for their wellbeing, when they will perform His will all the more so. <br>“Before the Lord…” – it is written: “If man sins against man, God will try him, but if a man sins against the Lord, who will try him?” (I Samuel 2:25). Rabbi Ḥiyya bar Abba interpreted the verse regarding the paramour. This one is feeding and sustaining, and you come and take what is ready. Rabbi Yehoshua ben Levi interpreted the verse regarding the woman. This one is feeding and sustaining, but you direct your eyes to another. <br>“And he shall expose the woman’s head” – does one demean another on the basis of uncertainty? Rabbi Simlai said: Everywhere you find harlotry, you find chaos in the world. <br>“The priest shall have the woman stand” – if she was lame she does not drink. <br>It is taught: They would take her up to the High Court in Jerusalem and would intimidate her in the manner that they would intimidate witnesses in capital cases. They would say to her: My daughter, wine causes a great deal, levity causes a great deal, immaturity causes a great deal<i>,</i> evil neighbors cause a great deal. Act for the sake of the great Name that was written in sanctity, so that it will not be erased in the water. He says before her matters that neither she nor her entire patrilineal family deserves to hear. Just as they intimidate her to recant, so they intimidate her not to recant. They would say to her: My daughter, if you are pure and you are certain that you are pure, stand behind your certainty, as this water is comparable to nothing other than dry poison. If it is placed on healthy skin it causes no harm. If, though, it encounters a wound, it begins seeping in and descending. If she said: I was defiled, she writes a receipt for her marriage contract and leaves. If she said: I am pure, they take her up to the eastern gate, the Gate of Nikanor, as there they give the <i>sotot </i>to drink, purify the birthing mothers, and purify the leper. The priest seizes her garments; if they ripped, they ripped; if their seam split, their seam split. <br>It is taught: “And he shall expose the woman’s head” – the priest goes behind the woman and exposes her, in order to fulfill the mitzva<i> </i>of exposure; this is the statement of Rabbi Yishmael. Another matter: It teaches regarding Jewish women that they should cover their heads. Even though there is no proof of the matter, there is an allusion to the matter: “Tamar took ashes on her head and rent the embroidered tunic that was upon her” (II Samuel 13:19). <br>It is taught: “And he shall expose the woman’s head” – I have derived only her head; her body, from where is it derived? The verse states: “The woman.” If so, why does the verse state: “And he shall expose [the woman’s] head”? It teaches that the priest unravels her hair. <br>If she was covered in white, he covers her in black. If she had on her gold jewelry, necklaces, nose rings, and rings, one removes them from her to render her unattractive. Just as she displayed no concern for the honor of the Omnipresent, so, one displays no concern for her honor. Then he brings a rope crafted from trees and ties it above her breasts. Why a rope crafted from trees [<i>hamitzri</i>]? Rabbi Yitzḥak said: It is because she performed an act characteristic of Egypt [<i>Mitzrayim</i>]. Anyone who wishes to watch her may watch except for her slaves and maidservants, because she is emboldened by them. All the women may watch her, as it is stated: “All the women will be chastised, and they will not act in accordance with your lewdness” (Ezekiel 23:48). <br>“And he shall place on her palms” – from here that if she was missing her hands she would not drink. <br>It is taught: He would bring her meal offering in a wicker basket and place it on her hand in order to exhaust her, so that she will recant. <br>“And in the hand of the priest shall be the water of bitterness that causes curse” – he shows her the water in order to instill fear in her.",
+              "he": "וְהֶעֱמִיד הַכֹּהֵן אֶת הָאִשָּׁה <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: בַּתְּחִלָּה קְרָאָהּ הַכָּתוּב אִשְׁתּוֹ, שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יב)</span></span>: אִישׁ אִישׁ כִּי תִשְׂטֶה אִשְׁתּוֹ <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, טו)</span></span>: וְהֵבִיא הָאִישׁ אֶת אִשְׁתּוֹ. לָמָּה, חָס אֱלֹהִים עַל כְּבוֹדָן שֶׁל יִשְׂרָאֵל, אוֹמֵר הָאֱלֹהִים אַף עַל פִּי שֶׁקִּנֵּא לָהּ, עַד עַכְשָׁיו בִּרְשׁוּתוֹ הִיא, שֶׁמָּא תַּחְזֹר בָּהּ. וְאִם לֹא חָזְרָה בָהּ, הֲרֵי הִיא יוֹצֵאת מֵרְשׁוּתוֹ, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: וְהֶעֱמִיד הַכֹּהֵן אֶת הָאִשָּׁה, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: וּפָרַע אֶת רֹאשׁ הָאִשָּׁה, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, כד)</span></span>: וְהִשְׁקָה אֶת הָאִשָּׁה, וְכֵן כֻּלָּם. וְאִם שָׁתְתָה וְנִמְצֵאת טְהוֹרָה וְנִקְתָה, מִתְנַקָּה וְחוֹזֶרֶת לְבַעְלָהּ. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, כט)</span></span>: אֲשֶׁר תִּשְׂטֶה אִשָּׁה תַּחַת אִישָׁהּ, הָאֱלֹהִים חָס עַל כְּבוֹדָן שֶׁל יִשְׂרָאֵל, לָמָּה <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(ישעיה מו, ג)</span></span>: הָעֲמֻסִים מִנִּי בֶטֶן, וּמָה אִם בִּשְׁעַת הַקַּלְקָלָה חָס עַל כְּבוֹדָן וְשָׁקַד לְטוֹבָתָן, כְּשֶׁיַּעֲשׂוּ רְצוֹנוֹ עַל אַחַת כַּמָּה וְכַמָּה. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: לִפְנֵי ה' וגו', כָּתוּב <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(שמואל א ב, כה)</span></span>: אִם יֶחֱטָא אִישׁ לְאִישׁ וּפִלְלוֹ אֱלֹהִים וְאִם לַה' יֶחֱטָא אִישׁ מִי יִתְפַּלֶּל לוֹ, רַבִּי חִיָּא בַּר אַבָּא פָּתַר קְרָיָה בַּבּוֹעֵל אֲהָן זָיֵן וּמְפַרְנֵס וְאַתְּ אָתֵי לָךְ עַל עָתִיד. וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי פָּתַר קְרָיָה בְּאִשָּׁה אֲהָן זָיֵן וּמְפַרְנֵס וְאַתְּ תָּלְיָה עֵינִין עַל חֳרָן. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: וּפָרַע אֶת רֹאשׁ הָאִשָּׁה, וּמְבַזִּין עַל הַסָּפֵק, אָמַר רַבִּי שִׂמְלָאי כָּל מָקוֹם שֶׁאַתְּ מוֹצֵא זְנוּת אַתְּ מוֹצֵא אַנְדְּרוֹלוֹמוֹסְיָא בָּעוֹלָם. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: וְהֶעֱמִיד הַכֹּהֵן, שֶׁאִם הָיְתָה חִגֶּרֶת אֵינָהּ שׁוֹתָה. תָּנֵי הָיוּ מַעֲלִין אוֹתָהּ לְבֵית דִּין הַגָּדוֹל שֶׁבִּירוּשָׁלַיִם וּמְאַיְמִין עָלֶיהָ כְּדֶרֶךְ שֶׁמְאַיְמִין עַל עֵדֵי נְפָשׁוֹת, אוֹמְרִין לָהּ בִּתִּי הַרְבֵּה יַיִן עוֹשֶׂה, הַרְבֵּה שְׂחוֹק עוֹשֶׂה, הַרְבֵּה יַלְדוּת עוֹשָׂה, הַרְבֵּה שְׁכֵנִים רָעִים עוֹשִׂים. עֲשִׂי לְמַעַן שְׁמוֹ הַגָּדוֹל שֶׁנִּכְתַּב בִּקְדֻשָּׁה שֶׁלֹא יִמָּחֶה עַל הַמַּיִם, וְאוֹמֵר לְפָנֶיהָ דְּבָרִים שֶׁאֵין כְּדַאי לְשָׁמְעָן הִיא וְכָל מִשְׁפְּחוֹת בֵּית אָבִיהָ. וּכְשֵׁם שֶׁמְּאַיְמִין עָלֶיהָ שֶׁתַּחֲזֹר בָּהּ, כָּךְ מְאַיְמִין עָלֶיהָ שֶׁלֹא תַּחְזֹר בָּהּ, אוֹמְרִים לָהּ בִּתִּי אִם טְהוֹרָה אַתְּ וּבָרִי לָךְ שֶׁאַתְּ טְהוֹרָה, עִמְדִי עַל בָּרְיֵךְ, שֶׁאֵין הַמַּיִם הַלָּלוּ דּוֹמִין אֶלָּא לְסַם יָבֵשׁ שֶׁהוּא נָתוּן עַל גַּבֵּי בָּשָׂר הַחַי וְאֵינוֹ מַזִּיקוֹ, מָצָא שָׁם מַכָּה הִתְחִיל מְחַלְחֵל וְיוֹרֵד. אִם אָמְרָה טְמֵאָה אֲנִי שׁוֹבֶרֶת כְּתֻבָּתָהּ וְיוֹצֵאת, אִם אָמְרָה טְהוֹרָה אֲנִי מַעֲלִין אוֹתָהּ לְשַׁעֲרֵי מִזְרָח לְשַׁעֲרֵי נִיקָנוֹר שֶׁשָּׁם מַשְׁקִין אֶת הַסּוֹטוֹת וּמְטַהֲרִין אֶת הַיּוֹלְדוֹת וּמְטַהֲרִין אֶת הַמְּצֹרָע, וְהַכֹּהֵן אוֹחֵז בִּבְגָדֶיהָ, אִם נִקְרְעוּ, נִקְרְעוּ. אִם נִפְרְמוּ, נִפְרְמוּ. תָּנֵי <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(ספרי נשא יא)</span></span>: וּפָרַע אֶת רֹאשׁ הָאִשָּׁה, כֹּהֵן נִפְנֶה לַאֲחוֹרֶיהָ וּפוֹרְעָהּ, כְּדֵי לְקַיֵּם בָּהּ מִצְוַת פְּרִיעָה, דִּבְרֵי רַבִּי יִשְׁמָעֵאל. דָּבָר אַחֵר, לִמֵּד עַל בְּנוֹת יִשְׂרָאֵל שֶׁיִּהְיוּ מְכַסּוֹת רָאשֵׁיהֶן, אַף עַל פִּי שֶׁאֵין רְאָיָה לַדָּבָר זֵכֶר לַדָּבָר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(שמואל ב יג, יט)</span></span>: וַתִּקַּח תָּמָר אֵפֶר עַל רֹאשָׁה וּכְתֹנֶת הַפַּסִּים אֲשֶׁר עָלֶיהָ קָרָעָה. תָּנֵי <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(גמרא סוטה ח-א)</span></span>: וּפָרַע אֶת רֹאשׁ הָאִשָּׁה, אֵין לִי אֶלָּא רֹאשָׁהּ, גּוּפָהּ מִנַּיִן, תַּלְמוּד לוֹמַר: הָאִשָּׁה, אִם כֵּן מַה תַּלְמוּד לוֹמַר: וּפָרַע אֶת רֹאשׁ, מְלַמֵּד שֶׁהַכֹּהֵן סוֹתֵר אֶת שְׂעָרָהּ. הָיְתָה מְכֻסָּה לְבָנִים, מְכַסָּהּ שְׁחוֹרִים. הָיוּ עָלֶיהָ כְּלֵי זָהָב וְקַטְלָאוֹת וּנְזָמִים וְטַבָּעוֹת, מַעֲבִירִין מִמֶּנָּהּ כְּדֵי לְנַוְלָהּ, כְּשֵׁם שֶׁלֹא חָסָה עַל כְּבוֹד הַמָּקוֹם כָּךְ אֵין חָסִין עַל כְּבוֹדָהּ, וְאַחַר כָּךְ מֵבִיא חֶבֶל הַמִּצְרִי וְקוֹשֵׁר לְמַעְלָה מִדַּדֶּיהָ, וְלָמָּה חֶבֶל הַמִּצְרִי, אָמַר רַבִּי יִצְחָק לְפִי שֶׁעָשְׂתָה מַעֲשֵׂה מִצְרַיִם, וְכָל הָרוֹצֶה לִרְאוֹת בָּהּ רוֹאֶה חוּץ מֵעֲבָדֶיהָ וְשִׁפְחוֹתֶיהָ מִפְּנֵי שֶׁלִּבָּהּ גַּס בָּהֶן, וְכָל הַנָּשִׁים מֻתָּרִין לִרְאוֹת, שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(יחזקאל כג, מח)</span></span>: וְנִוַּסְּרוּ כָּל הַנָּשִׁים וְלֹא תַעֲשֶׂינָה כְּזִמַּתְכֶנָה, <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: וְנָתַן עַל כַּפֶּיהָ, מִכָּאן שֶׁאִם הָיְתָה גִּדֶּמֶת לֹא הָיְתָה שׁוֹתָה. תָּנֵי <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(גמרא סוטה יד-א)</span></span>: הָיָה מֵבִיא אֶת מִנְחָתָהּ בְּתוֹךְ כְּפִיפָה מִצְרִית וְנוֹתְנָהּ עַל יָדָהּ כְּדֵי לְיַגְעָהּ, כְּדֵי שֶׁתַּחְזֹר בָּהּ. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ה, יח)</span></span>: וּבְיַד הַכֹּהֵן יִהְיוּ מֵי הַמָּרִים הַמְאָרְרִים, יַרְאֶה אוֹתָהּ הַמַּיִם, כְּדֵי לְהַטִּיל אֵימָה עָלֶיהָ.",
+              "ref": "Bamidbar Rabbah 9:33",
+              "sourceHeRef": "במדבר רבה ט:לג",
+              "sourceRef": "Bamidbar Rabbah 9:33"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following women are not fit to drink [the bitter water] even though they desire to drink, and their husbands desire to have them drink. Instead, once witnesses testify that [such women] entered into privacy with the men in question after witnesses testify that a warning was granted, they are forbidden to their husbands and must be divorced without receiving [the money due them by virtue of] their <i>ketubah</i>. There are fifteen such women; they are:<br>a woman who was consecrated but the marriage bond was not consummated,<br>a <i>yevamah</i> who is waiting for her husband's brother to perform <i>yibbum</i>,<br>a minor married to a man past the age of majority,<br>a woman who is past majority who is married to a minor,<br>the wife of an <i>androgynous</i>,<br>the wife of a blind man,<br>the wife of a man who limps,<br>who cannot speak, who is deaf, or whose hand has been cut off, and<br>similarly, a woman who limps, who cannot speak, who is blind, whose hand has been cut off, or who is deaf.<br>All the above are not fit to drink [the bitter water].",
+              "he": "וְאֵלּוּ הֵן הַנָּשִׁים שֶׁאֵינָן רְאוּיוֹת לִשְׁתּוֹת אַף עַל פִּי שֶׁהֵן רוֹצוֹת לִשְׁתּוֹת וּבַעְלֵיהֶן רוֹצִים לְהַשְׁקוֹתָן אֶלָּא יוֹצְאוֹת בְּלֹא כְּתֻבָּה מִשֶּׁיָּבוֹאוּ עֵדֵי סְתִירָה אַחַר עֵדֵי קִנּוּי וְיֵאָסְרוּ עַל בַּעְלֵיהֶן לְעוֹלָם. וַחֲמֵשׁ עֶשְׂרֵה נָשִׁים הֵן. וְאֵלּוּ הֵן. אֲרוּסָה. וְשׁוֹמֶרֶת יָבָם. וּקְטַנָּה אֵשֶׁת הַגָּדוֹל. וּגְדוֹלָה אֵשֶׁת הַקָּטָן. וְאֵשֶׁת אַנְדְּרוֹגִינוּס. וְאֵשֶׁת הַסּוּמָא. וְאֵשֶׁת הַחִגֵּר אוֹ הָאִלֵּם. אוֹ מִי שֶׁאֵינוֹ שׁוֹמֵעַ. אוֹ שֶׁהוּא כְּרוּת יָד. וְכֵן הַחִגֶּרֶת. וְהָאִלֶּמֶת. וְהַסּוּמָא. וּכְרוּתַת יָד. וְשֶׁאֵינָהּ שׁוֹמַעַת. כָּל אַחַת מֵאֵלּוּ אֵינָהּ רְאוּיָה לִשְׁתּוֹת:",
+              "ref": "Mishneh Torah, Woman Suspected of Infidelity 2:2",
+              "sourceHeRef": "הלכות סוטה ב:ב",
+              "sourceRef": "Woman Suspected of Infidelity 2:2"
+            },
+            {
+              "en": "What are the sources that exclude these women from drinking [the bitter water]? [Numbers 5:29] states: \"When a woman deviates [from the paths of modesty] while married to her husband....\"<br>\"While married\" excludes a woman who was consecrated, but the marriage bond was not consummated, and a <i>yevamah</i> who is waiting for her husband's brother to perform <i>yibbum</i>. \"Her husband\" excludes a minor married to a man past the age of majority. \"While married to her husband\" excludes a woman who is past majority who is married to a minor, and the wife of an <i>androgynous</i>, for he is not a man.<br>[Numbers 5:13 states:] \"And it was hidden from the eyes of her husband\" - This excludes the wife of a blind man. \"And the priest shall have the woman stand\" [<i>Ibid.</i>:18] - This excludes a woman who limps. \"And he shall place on her palm\" [<i>Ibid.</i>] - This excludes a woman who does not have a hand or whose hand is crooked or shrunk to the extent that she cannot hold [the meal offering]. This applies even if only one hand is in this condition, for the verse uses the plural form of the word palm, [indicating that both hands must be fit to perform this act].<br>\"And the woman shall say\" [<i>Ibid.</i>:22] - This excludes a woman who cannot speak. \"And he shall say to the woman\" [<i>Ibid.</i>:19] - This excludes a woman who cannot hear. And [the passage continues, <i>Ibid.</i>:20:] \"When a woman deviates [from the path of modesty] while married to her husband...\" - This indicates that she must be of sound body, possessing all the physical characteristics [mentioned previously] that he possesses, and he [must possess the characteristics mentioned that she possesses].<br>This teaches that any physical factor that prevents her from drinking [the bitter water] prevents her husband from compelling her to drink. And any factor that prevents her husband from compelling her to drink prevents her from drinking.",
+              "he": "וּמִנַּיִן שֶׁאֵינָהּ רְאוּיָה לִשְׁתּוֹת שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר ה כט)</span> \"אֲשֶׁר תִּשְׂטֶה אִשָּׁה תַּחַת אִישָׁהּ\". תַּחַת פְּרָט לַאֲרוּסָה וְשׁוֹמֶרֶת יָבָם שֶׁאֵינָהּ תַּחַת אִישָׁהּ. אִשָּׁה פְּרָט לִקְטַנָּה. תַּחַת אִישָׁהּ פְּרָט לְאֵשֶׁת קָטָן וְאֵשֶׁת אַנְדְּרוֹגִינוּס שֶׁאֵינוֹ אִישׁ. <span class=\"hebrew-emphasis\">(במדבר ה יג)</span> \"וְנֶעֱלָם מֵעֵינֵי אִישָׁהּ\" פְּרָט לְאֵשֶׁת סוּמָא. <span class=\"hebrew-emphasis\">(במדבר ה יח)</span> \"וְהֶעֱמִיד הַכֹּהֵן אֶת הָאִשָּׁה\" פְּרָט לְחִגֶּרֶת. <span class=\"hebrew-emphasis\">(במדבר ה יח)</span> \"וְנָתַן עַל כַּפֶּיהָ\" פְּרָט לְמִי שֶׁאֵין לָהּ כַּף אוֹ שֶׁהָיְתָה עֲקֻמָּה אוֹ יְבֵשָׁה שֶׁאֵינָהּ יְכוֹלָה לִקַּח בָּהּ. וַאֲפִלּוּ כַּפָּהּ אַחַת שֶׁנֶּאֱמַר כַּפֶּיהָ. וְאָמְרָה הָאִשָּׁה פְּרָט לְאִלֶּמֶת. <span class=\"hebrew-emphasis\">(במדבר ה יט)</span> \"וְאָמַר אֶל הָאִשָּׁה\" פְּרָט לְמִי שֶׁאֵינָהּ שׁוֹמַעַת. וַהֲרֵי הוּא אוֹמֵר אֲשֶׁר תִּשְׂטֶה אִשָּׁה תַּחַת אִישָׁהּ עַד שֶׁתִּהְיֶה שְׁלֵמָה כָּמוֹהוּ וְהוּא שָׁלֵם כְּמוֹתָהּ. הָא לָמַדְתָּ שֶׁכָּל דָּבָר שֶׁמְּעַכֵּב אוֹתָהּ מִלִּשְׁתּוֹת מְעַכֵּב אֶת בַּעְלָהּ מִלְּהַשְׁקוֹתָהּ. וְכָל הַמְעַכֵּב אֶת הַבַּעַל מִלְּהַשְׁקוֹתָהּ מוּם כָּמוֹהוּ מְעַכֵּב אוֹתָהּ מִלִּשְׁתּוֹת:",
+              "ref": "Mishneh Torah, Woman Suspected of Infidelity 2:3",
+              "sourceHeRef": "הלכות סוטה ב:ג",
+              "sourceRef": "Woman Suspected of Infidelity 2:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אשר תשטה אשה תחת אישה</strong> - קרא יתירא הוא לדרשה בסוף הפרשה זאת תורת הקנאות וגו':",
+              "ref": "Rashi on Sotah 27a:10:1",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:י:א",
+              "sourceRef": "Rashi on Sotah 27a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">להקיש איש לאשה</strong> - כדמפרש ואזיל למאי הלכתא:",
+              "ref": "Rashi on Sotah 27a:10:2",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:י:ב",
+              "sourceRef": "Rashi on Sotah 27a:10:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב אשי אמר כו'</strong> - מר מפרש היקישא דאיש לאשה ומר מפרש היקישא דאשה לאיש ולא פליגי:",
+              "ref": "Rashi on Sotah 27a:10:3",
+              "sourceHeRef": "רש\"י על סוטה כ״ז א:י:ג",
+              "sourceRef": "Rashi on Sotah 27a:10:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> מה שנאמר \"זאת תורת הקנאות <b>אשר תשטה אשה תחת אישה</b>\" <span class=\"hebrew-emphasis\">(במדבר ה, כט)</span>, בא כתוב יתר זה <b>להקיש</b> (להשוות) <b>איש לאשה ואשה לאיש.</b> ושואלים: <b>למאי הלכתא</b> <span class=\"hebrew-emphasis\">[לאיזו הלכה],</span> לאיזה ענין באה השוואה זו? <b>אמר רב ששת: כשם שאם</b> היה <b>הוא</b> הבעל <b>סומא</b> (עיוור) <b>לא היה משקה, דכתיב</b> <span class=\"hebrew-emphasis\">[שנאמר]:</span> <b>\"ונעלם מעיני אישה\" </b> <span class=\"hebrew-emphasis\">(במדבר ה, יג)</span>, כלומר, דווקא אם יכול היה לראות ונעלם ממנו, <b>כך היא, אם היתה סומא</b> (עיוורת) <b>—</b> <b>לא היתה שותה.</b> ולשם כך הועילה ההשוואה, שהיא גזירת הכתוב, אף שאין בה צד של סברה. <b>רב אשי אמר: כשם שחיגרת וגידמת לא היתה שותה, דכתיב</b> <span class=\"hebrew-emphasis\">[שנאמר]:</span>",
+              "ref": "Steinsaltz on Sotah 27a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על סוטה כ״ז א:י",
+              "sourceRef": "Steinsaltz on Sotah 27a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "במנחת חינוך ועוד דנו בשאלה מה הדין אם היה סומא בעין אחת, האם יש להקפיד שיתקיים הכתוב כמשמעו ושם נאמר \"מעיני\", או שמא \"ונעלם מעיני אשה\" מתקיים גם כשהוא רואה בעין אחת, שהרי רואה הוא והדבר נעלם מעיניו.",
+              "ref": "Steinsaltz comment #1 on Sotah 27a:10",
+              "sourceHeRef": "שאם הוא סומא",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "ראה בתוס' (ד\"ה דכתיב) שדנו בשאלה האם סבורים חכמים אלה כי יש לקיים כל כתוב כפי שהוא, כלומר בהקפדה על הפרטים שיהיו בדיוק כפי שהם כתובים במקרא. וראה שהעלו כי יש לומר שיש במקראות אלה ייתור, שמכוחו אנו עומדים על קיום הדברים ככתבם. אבל מדברי התלמוד הירושלמי נראה שאף אשה גידמת שותה (ואם אין לה ידים מעמידים כהן נוסף שיחזיק את המנחה במקומה). ומשמע שהם לא דרשו שיתקיימו הכתובים כדיוקם, ולשיטה זו לא נאמרו הדברים אלא משום שכך דרך העולם, ואין לדקדק בקיומם כפי שהם כתובים.",
+              "ref": "Steinsaltz comment #2 on Sotah 27a:10",
+              "sourceHeRef": "כשם שחיגרת וגידמת וכו'",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "כיון שהקיש הכתוב אשה לאיש ואיש לאשה בפרשת סוטה, הרי כל מום שאם נמצא באחד מהם מעכב מלקיים הכתוב כמשמעו — אף אם היה בבן הזוג מעכב. ולכן אשת הסומא והחרש והחיגר והאילם וכרות היד אינן שותות, וכן אשה שהיתה חיגרת או אילמת או סומא או כרותת יד אינה שותה. כדברי האמוראים בגמרא כאן. (רמב\"ם ספר נשים הלכות סוטה פ\"ב ה\"ב-ג).",
+              "ref": "Steinsaltz comment #3 on Sotah 27a:10",
+              "sourceHeRef": "להקיש אשה לאיש וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה רב אשי אמר וכו' ותירץ מדרבי רחמנא בן חדש.</b> וי\"ל כצ\"ל. וכ\"ה בתי\"ט פ\"א דערכין מ\"ג:",
+                      "ref": "Gilyon HaShas on Sotah 27a:2",
+                      "sourceHeRef": "גליון הש\"ס על סוטה כ״ז א:ב",
+                      "sourceRef": "Gilyon HaShas on Sotah 27a:2"
+                    }
+                  ]
+                },
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> רב אשי אמר כו' דלא קפיד קרא אעמידתו עכ\"ל הס\"ד ואח\"כ מה\"ד דכתיב והעמיד הכהן כו' לרב אשי ומי לא בעינן קרא כדכתיב כו' עכ\"ל כצ\"ל:",
+                      "ref": "Chidushei Halachot on Sotah 27a:2",
+                      "sourceHeRef": "חדושי הלכות על סוטה כ״ז א:ב",
+                      "sourceRef": "Chidushei Halachot on Sotah 27a:2"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": [
+                        "When there is a dispute between men and they go to law, and a decision is rendered declaring the one in the right and the other in the wrong—",
+                        "if the guilty one is to be flogged, the magistrate shall have him lie down and be given lashes in his presence, by count, as his guilt warrants.",
+                        "He may be given up to forty lashes, but not more, lest being flogged further, to excess, your brother be degraded before your eyes.",
+                        "You shall not muzzle an ox while it is threshing.",
+                        "When brothers dwell together and one of them dies and leaves no son, the wife of the deceased shall not be married to a stranger, outside the family. Her husband’s brother shall unite with her: he shall take her as his wife and perform the levir’s duty.",
+                        "The first son that she bears shall be accounted to the dead brother, that his name may not be blotted out in Israel.",
+                        "But if the man does not want to marry his brother’s widow, his brother’s widow shall appear before the elders in the gate and declare, “My husband’s brother refuses to establish a name in Israel for his brother; he will not perform the duty of a levir.”",
+                        "The elders of his town shall then summon him and talk to him. If he insists, saying, “I do not want to marry her,”",
+                        "his brother’s widow shall go up to him in the presence of the elders, pull the sandal off his foot, spit in his face, and make this declaration: Thus shall be done to the man who will not build up his brother’s house!",
+                        "And he shall go in Israel by the name of “the family of the unsandaled one.”",
+                        "If two men get into a fight with each other, and the wife of one comes up to save her husband from his antagonist and puts out her hand and seizes him by his genitals,",
+                        "you shall cut off her hand; show no pity.",
+                        "You shall not have in your pouch alternate weights, larger and smaller.",
+                        "You shall not have in your house alternate measures, a larger and a smaller.",
+                        "You must have completely honest weights and completely honest measures, if you are to endure long on the soil that the L<small>ORD</small> your God is giving you.",
+                        "For everyone who does those things, everyone who deals dishonestly, is abhorrent to the L<small>ORD</small> your God.",
+                        "Remember what Amalek did to you on your journey, after you left Egypt—",
+                        "how, undeterred by fear of God, he surprised you on the march, when you were famished and weary, and cut down all the stragglers in your rear.",
+                        "Therefore, when the L<small>ORD</small> your God grants you safety from all your enemies around you, in the land that the L<small>ORD</small> your God is giving you as a hereditary portion, you shall blot out the memory of Amalek from under heaven. Do not forget!"
+                      ],
+                      "expandedRefsAfterRewriting": [
+                        "Deuteronomy 25:1",
+                        "Deuteronomy 25:2",
+                        "Deuteronomy 25:3",
+                        "Deuteronomy 25:4",
+                        "Deuteronomy 25:5",
+                        "Deuteronomy 25:6",
+                        "Deuteronomy 25:7",
+                        "Deuteronomy 25:8",
+                        "Deuteronomy 25:9",
+                        "Deuteronomy 25:10",
+                        "Deuteronomy 25:11",
+                        "Deuteronomy 25:12",
+                        "Deuteronomy 25:13",
+                        "Deuteronomy 25:14",
+                        "Deuteronomy 25:15",
+                        "Deuteronomy 25:16",
+                        "Deuteronomy 25:17",
+                        "Deuteronomy 25:18"
+                      ],
+                      "he": [
+                        "כִּֽי־יִהְיֶ֥ה רִיב֙ בֵּ֣ין אֲנָשִׁ֔ים וְנִגְּשׁ֥וּ אֶל־הַמִּשְׁפָּ֖ט וּשְׁפָט֑וּם וְהִצְדִּ֙יקוּ֙ אֶת־הַצַּדִּ֔יק וְהִרְשִׁ֖יעוּ אֶת־הָרָשָֽׁע׃",
+                        "וְהָיָ֛ה אִם־בִּ֥ן הַכּ֖וֹת הָרָשָׁ֑ע וְהִפִּיל֤וֹ הַשֹּׁפֵט֙ וְהִכָּ֣הוּ לְפָנָ֔יו כְּדֵ֥י רִשְׁעָת֖וֹ בְּמִסְפָּֽר׃",
+                        "אַרְבָּעִ֥ים יַכֶּ֖נּוּ לֹ֣א יֹסִ֑יף פֶּן־יֹסִ֨יף לְהַכֹּת֤וֹ עַל־אֵ֙לֶּה֙ מַכָּ֣ה רַבָּ֔ה וְנִקְלָ֥ה אָחִ֖יךָ לְעֵינֶֽיךָ׃",
+                        "לֹא־תַחְסֹ֥ם שׁ֖וֹר בְּדִישֽׁוֹ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּֽי־יֵשְׁב֨וּ אַחִ֜ים יַחְדָּ֗ו וּמֵ֨ת אַחַ֤ד מֵהֶם֙ וּבֵ֣ן אֵֽין־ל֔וֹ לֹֽא־תִהְיֶ֧ה אֵֽשֶׁת־הַמֵּ֛ת הַח֖וּצָה לְאִ֣ישׁ זָ֑ר יְבָמָהּ֙ יָבֹ֣א עָלֶ֔יהָ וּלְקָחָ֥הּ ל֛וֹ לְאִשָּׁ֖ה וְיִבְּמָֽהּ׃",
+                        "וְהָיָ֗ה הַבְּכוֹר֙ אֲשֶׁ֣ר תֵּלֵ֔ד יָק֕וּם עַל־שֵׁ֥ם אָחִ֖יו הַמֵּ֑ת וְלֹֽא־יִמָּחֶ֥ה שְׁמ֖וֹ מִיִּשְׂרָאֵֽל׃",
+                        "וְאִם־לֹ֤א יַחְפֹּץ֙ הָאִ֔ישׁ לָקַ֖חַת אֶת־יְבִמְתּ֑וֹ וְעָלְתָה֩ יְבִמְתּ֨וֹ הַשַּׁ֜עְרָה אֶל־הַזְּקֵנִ֗ים וְאָֽמְרָה֙ מֵאֵ֨ן יְבָמִ֜י לְהָקִ֨ים לְאָחִ֥יו שֵׁם֙ בְּיִשְׂרָאֵ֔ל לֹ֥א אָבָ֖ה יַבְּמִֽי׃",
+                        "וְקָֽרְאוּ־ל֥וֹ זִקְנֵי־עִיר֖וֹ וְדִבְּר֣וּ אֵלָ֑יו וְעָמַ֣ד וְאָמַ֔ר לֹ֥א חָפַ֖צְתִּי לְקַחְתָּֽהּ׃",
+                        "וְנִגְּשָׁ֨ה יְבִמְתּ֣וֹ אֵלָיו֮ לְעֵינֵ֣י הַזְּקֵנִים֒ וְחָלְצָ֤ה נַעֲלוֹ֙ מֵעַ֣ל רַגְל֔וֹ וְיָרְקָ֖ה בְּפָנָ֑יו וְעָֽנְתָה֙ וְאָ֣מְרָ֔ה כָּ֚כָה יֵעָשֶׂ֣ה לָאִ֔ישׁ אֲשֶׁ֥ר לֹא־יִבְנֶ֖ה אֶת־בֵּ֥ית אָחִֽיו׃",
+                        "וְנִקְרָ֥א שְׁמ֖וֹ בְּיִשְׂרָאֵ֑ל בֵּ֖ית חֲל֥וּץ הַנָּֽעַל׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּֽי־יִנָּצ֨וּ אֲנָשִׁ֤ים יַחְדָּו֙ אִ֣ישׁ וְאָחִ֔יו וְקָֽרְבָה֙ אֵ֣שֶׁת הָֽאֶחָ֔ד לְהַצִּ֥יל אֶת־אִישָׁ֖הּ מִיַּ֣ד מַכֵּ֑הוּ וְשָׁלְחָ֣ה יָדָ֔הּ וְהֶחֱזִ֖יקָה בִּמְבֻשָֽׁיו׃",
+                        "וְקַצֹּתָ֖ה אֶת־כַּפָּ֑הּ לֹ֥א תָח֖וֹס עֵינֶֽךָ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "לֹֽא־יִהְיֶ֥ה לְךָ֛ בְּכִֽיסְךָ֖ אֶ֣בֶן וָאָ֑בֶן גְּדוֹלָ֖ה וּקְטַנָּֽה׃",
+                        "לֹא־יִהְיֶ֥ה לְךָ֛ בְּבֵיתְךָ֖ אֵיפָ֣ה וְאֵיפָ֑ה גְּדוֹלָ֖ה וּקְטַנָּֽה׃",
+                        "אֶ֣בֶן שְׁלֵמָ֤ה וָצֶ֙דֶק֙ יִֽהְיֶה־לָּ֔ךְ אֵיפָ֧ה שְׁלֵמָ֛ה וָצֶ֖דֶק יִֽהְיֶה־לָּ֑ךְ לְמַ֙עַן֙ יַאֲרִ֣יכוּ יָמֶ֔יךָ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃",
+                        "כִּ֧י תוֹעֲבַ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ כׇּל־עֹ֣שֵׂה אֵ֑לֶּה כֹּ֖ל עֹ֥שֵׂה עָֽוֶל׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+                        "זָכ֕וֹר אֵ֛ת אֲשֶׁר־עָשָׂ֥ה לְךָ֖ עֲמָלֵ֑ק בַּדֶּ֖רֶךְ בְּצֵאתְכֶ֥ם מִמִּצְרָֽיִם׃",
+                        "אֲשֶׁ֨ר קָֽרְךָ֜ בַּדֶּ֗רֶךְ וַיְזַנֵּ֤ב בְּךָ֙ כׇּל־הַנֶּחֱשָׁלִ֣ים אַֽחֲרֶ֔יךָ וְאַתָּ֖ה עָיֵ֣ף וְיָגֵ֑עַ וְלֹ֥א יָרֵ֖א אֱלֹהִֽים׃",
+                        "וְהָיָ֡ה בְּהָנִ֣יחַ יְהֹוָ֣ה אֱלֹהֶ֣יךָ <span class=\"hebrew-emphasis\">׀</span> לְ֠ךָ֠ מִכׇּל־אֹ֨יְבֶ֜יךָ מִסָּבִ֗יב בָּאָ֙רֶץ֙ אֲשֶׁ֣ר יְהֹוָה־אֱ֠לֹהֶ֠יךָ נֹתֵ֨ן לְךָ֤ נַחֲלָה֙ לְרִשְׁתָּ֔הּ תִּמְחֶה֙ אֶת־זֵ֣כֶר עֲמָלֵ֔ק מִתַּ֖חַת הַשָּׁמָ֑יִם לֹ֖א תִּשְׁכָּֽח׃ <span class=\"mam-spi-pe\">{פ}</span><br>"
+                      ],
+                      "link": "/Deuteronomy/25",
+                      "ref": "Deuteronomy 25",
+                      "sourceHeRef": "דברים כ״ה",
+                      "sourceRef": "Deuteronomy 25"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב אשי אמר כשם שחיגרת וגידמת אינה שותה דכתיב והעמיד הכהן את האשה</strong> - תימה לר\"י מאי שנא הכא דממעט מוהעמיד חיגרת וגבי ערכין דכתיב והעמיד והעריך לא ממעט אלא גוסס בפ\"ק דערכין <span class=\"parenthesized\">(דף ד.)</span> וכן העמדה דכתיב בקדשים בעלי מומין דאמרי' בפרק השוחט <span class=\"parenthesized\">(חולין ל.)</span> שחטה ועדיין מפרכסת דבת העמדה והערכה היא וגבי יבם כתיב <span class=\"parenthesized\">(דברים כה)</span> ועמד ואמר ואפ\"ה חליץ נחתכו רגליו [למטה] מן הארכובה מיהו מחליצה לא תקשי דהתם מפרש טעמא משום דכתיב בה מעל רגלו ועיקר קרא דועמד ואמר כדדריש ליה בספרי מלמד שאינו אומר דבריו אלא בעמידה ותירץ מדרבי רחמנא בן חדש לערכין ש\"מ דאהעמדה ממש לא קפיד רחמנא וכן בהמה בעלת מום עיקרה לפדיון עומדת ולא חילק בה הכתוב בין בעלת מום אפי' נשברו או נחתכו רגליה דלא עדיפא מאדם דלא קפיד קרא אעמידתו:",
+              "ref": "Tosafot on Sotah 27a:10:1",
+              "sourceHeRef": "תוספות על סוטה כ״ז א:י:א",
+              "sourceRef": "Tosafot on Sotah 27a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דכתיב והעמיד הכהן את האשה ונתן על כפיה</strong> - אי קשיא דהכא משמע דרב אשי בעי קרא כדכתיב ובפרק נגמר הדין <span class=\"parenthesized\">(סנהדרין מה:)</span> אמרי' אמר ליה מר קשישא בריה דרב חסדא לרב אשי ומי לא בעינן קרא כדכתיב והתנן היה אחד מהם גידם או חיגר וכו' מאי טעמא לאו משום דבעינן קרא כדכתיב לא משום דכוליה קרא יתירא הוא דמשמע אי לאו דהוי יתירא דלא בעינן קרא כדכתיב בשלמא דרב ששת דממעט סומא מעיני איכא למימר קרא יתירא דהוה מצי למימר ונעלם מאישה וכן והעמיד דאמר רב אשי איכא למימר קרא יתירא הוא דהא כתיב והעמידה לפני ה' וכן הא דאמר מר בר רב אשי דאילמת אינה שותה משום דכתיב ואמרה ואפי' למ\"ד <span class=\"parenthesized\">(סנהדרין דף מה:)</span> לא בעינן קרא כדכתיב מודה דאילמת אינה שותה משום דלא מציא לקבולי שבועה ואפי' גבי חליצה דקרייה לא מעכבא אילם ואילמת שחלצו חליצתן פסולה משום דר' זירא כל הראוי לבילה אלא ונתן על כפיה אע\"ג דלאו קרא יתירא הוא בעי קרא כדכתיב והכי משמע בפרק שלשה מינין בנזיר <span class=\"parenthesized\">(דף מו:)</span> דמאן דבעי קרא כדכתיב דנזיר ממורט או אין לו כפים אין לו תקנה משום דכתיב ונתן על כפי הנזיר וכן אין לו בהן יד משום דכתיב על בהן ידו תריץ דרב אשי מהדר למר קשישא לפום סברתו דבעי למידק ממתני' דבעינן קרא כדכתיב וא\"ל רב אשי מהכא ליכא למידק מידי דהתם קרא יתירא מיהו רב אשי ס\"ל דבעינן קרא כדכתיב:",
+              "ref": "Tosafot on Sotah 27a:10:2",
+              "sourceHeRef": "תוספות על סוטה כ״ז א:י:ב",
+              "sourceRef": "Tosafot on Sotah 27a:10:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "This is the ritual in cases of jealousy, when a woman goes astray while married to her husband and defiles herself,",
+              "he": "זֹ֥את תּוֹרַ֖ת הַקְּנָאֹ֑ת אֲשֶׁ֨ר תִּשְׂטֶ֥ה אִשָּׁ֛ה תַּ֥חַת אִישָׁ֖הּ וְנִטְמָֽאָה׃",
+              "link": "/Numbers/5",
+              "ref": "Numbers 5:29",
+              "sourceHeRef": "במדבר ה:כט",
+              "sourceRef": "Numbers 5:29"
+            },
+            {
+              "en": "in that a man has had carnal relations with her unbeknown to her husband, and she keeps secret the fact that she has defiled herself without being forced, and there is no witness against her—",
+              "he": "וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת־זֶ֒רַע֒ וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא נִטְמָ֑אָה וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה׃",
+              "link": "/Numbers/5",
+              "ref": "Numbers 5:13",
+              "sourceHeRef": "במדבר ה:יג",
+              "sourceRef": "Numbers 5:13"
+            }
+          ]
+        }
+      },
+      "en": "<b>The Sages taught</b> that the verse: “This is the law of jealousy, <b>when a wife, while under her husband, goes astray</b> and is defiled” (Numbers 5:29), is superfluous, and serves <b>to compare a man to a woman and a woman to a man.</b> The Gemara asks: <b>With regard to what <i>halakha</i></b> is this comparison necessary? <b><span href=\"/topics/rav-sheshet\" class=\"namedEntityLink\" data-slug=\"rav-sheshet\">Rav Sheshet</span> says:</b> This teaches that <b>just as if</b> the husband <b>was blind he would not have her drink, as it is written: “And it was hidden from the eyes of her husband”</b> (Numbers 5:13), indicating that the <i>sota</i> ritual applies only if the husband was capable of seeing her infidelity but did not do so; <b>so</b> too, with regard to the woman, <b>if she were blind, she would not drink. <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span></b> also <b>says: Just as a lame woman and a woman without hands would not drink, as it is written:</b>",
+      "he": "תָּנוּ רַבָּנַן: ״אֲשֶׁר תִּשְׂטֶה אִשָּׁה תַּחַת אִישָׁהּ״, לְהַקִּישׁ אִישׁ לְאִשָּׁה וְאִשָּׁה לְאִישׁ. לְמַאי הִלְכְתָא? אָמַר רַב שֵׁשֶׁת: כְּשֵׁם שֶׁאִם הוּא סוֹמֵא לֹא הָיָה מַשְׁקָהּ, דִּכְתִיב: ״וְנֶעְלַם מֵעֵינֵי אִישָׁהּ״, כָּךְ הִיא, אִם הָיְתָה סוֹמָא — לֹא הָיְתָה שׁוֹתָה. רַב אָשֵׁי אָמַר: כְּשֵׁם שֶׁחִיגֶּרֶת וְגִידֶּמֶת לֹא הָיְתָה שׁוֹתָה, דִּכְתִיב:",
+      "ref": "Sotah 27a:10",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Sotah 27a",
+  "titleHebrew": "סוטה כז,א",
+  "topics": []
+}

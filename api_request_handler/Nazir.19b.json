@@ -1,0 +1,687 @@
+{
+  "id": "19b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבא מאי טעמא דר' אליעזר</strong> - אליבא דעולא:",
+              "ref": "Rashi on Nazir 19b:1:1",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:א:א",
+              "sourceRef": "Rashi on Nazir 19b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר קרא והימים הראשונים מכלל דאיכא אחרונים וזה אין לו אחרונים</strong> - לפיכך אינו סותר כולן אלא שלשים ורבי אליעזר לטעמיה כדאמרינן בפירקא קמא <span class=\"parenthesized\">(לעיל נזיר דף ו:)</span> זאת תורת הנזיר:",
+              "ref": "Rashi on Nazir 19b:1:2",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:א:ב",
+              "sourceRef": "Rashi on Nazir 19b:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא: מאי טעמא</b> <span class=\"hebrew-emphasis\">[מה הטעם</span><span class=\"hebrew-emphasis\">]</span> של <b>ר' אליעזר</b> לפי שיטת עולא? — <b>אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב</span><span class=\"hebrew-emphasis\">]</span> בנזיר טמא: <b>\"</b>והימים הראשונים יפלו <b>כי טמא נזרו\"</b> (במדבר ו, יב), והוא מפרש: מדוע יפלו הימים הראשונים — <b>משום</b> ש<b>בטומאה נזר,</b> שכבר מתחילה היתה נזירותו בטומאה.",
+              "ref": "Steinsaltz on Nazir 19b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:א",
+              "sourceRef": "Steinsaltz on Nazir 19b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יש שפירש שלמדים דבר זה מדיוק הכתוב \"כי טמא\" ולא אמר \"כי נטמא\", שנטמא משמעו שהיה טהור ואחר כך נטמא, ואילו \"טמא\" משמעו טמא מעיקרו, שנזר בטומאה (ר\"פ).",
+              "ref": "Steinsaltz comment #1 on Nazir 19b:1",
+              "sourceHeRef": "כי טמא נזרו",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "and rededicate to the L<small>ORD</small> his term as nazirite; and he shall bring a lamb in its first year as a penalty offering. The previous period shall be void, since his consecrated hair was defiled.",
+              "he": "וְהִזִּ֤יר לַֽיהֹוָה֙ אֶת־יְמֵ֣י נִזְר֔וֹ וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־שְׁנָת֖וֹ לְאָשָׁ֑ם וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:12",
+              "sourceHeRef": "במדבר ו:יב",
+              "sourceRef": "Numbers 6:12"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: What is the reason</b> for the opinion <b>of <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>,</b> according to <span href=\"/topics/ulla\" class=\"namedEntityLink\" data-slug=\"ulla\">Ulla</span>’s explanation? <b>The verse states:</b> “But the first days shall be void <b>because his consecration was ritually impure”</b> (Numbers 6:12), which he explains as follows: Why are his first days rendered void? They are void <b>because he took a vow of naziriteship,</b> consecrating himself, <b>when</b> he was <b>in</b> a state of <b>ritual impurity.</b>",
+      "he": "אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: מַאי טַעְמָא דְּרַבִּי אֱלִיעֶזֶר? אָמַר קְרָא: ״כִּי טָמֵא נִזְרוֹ״ — מִשּׁוּם דִּבְטוּמְאָה נְזַר.",
+      "ref": "Nazir 19b:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If he becomes impure on the day he took the [nazirite] vow or on the second day, [these days] are not invalidated. Instead, he completes [the days of his vow including] them after he brings his sacrifices. [This is derived from the prooftext cited above:] \"The days will fall.\" [The use of the plural implies that] there must be at least two [full] days. Therefore if he becomes impure from the third day onward, he invalidates all the previous days.",
+              "he": "נִטְמָא בַּיּוֹם שֶׁנָּדַר אוֹ בַּשֵּׁנִי אֵינוֹ סוֹתֵר אֶלָּא מַשְׁלִים עֲלֵיהֶם אַחַר שֶׁיָּבִיא קָרְבָּנוֹ שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר ו יב)</span> \"וְהַיָּמִים הָרִאשׁוֹנִים יִפְּלוּ\" עַד שֶׁיִּהְיוּ שָׁם שְׁנֵי יָמִים רִאשׁוֹנִים. לְפִיכָךְ אִם נִטְמָא מִשְּׁלִישִׁי וָהָלְאָה סוֹתֵר כָּל הַקּוֹדְמִין:",
+              "ref": "Mishneh Torah, Nazariteship 6:6",
+              "sourceHeRef": "הלכות נזירות ו:ו",
+              "sourceRef": "Nazariteship 6:6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>איתיביה</b> <span class=\"hebrew-emphasis\">[הקשה לו</span><span class=\"hebrew-emphasis\">]</span> <b>אביי</b> לרבא, שהלך בשיטת עולא, ממה ששנינו: האומר <b>\"הריני נזיר מאה יום\" ונטמא</b> מיד <b>בתחלת</b> מנין ה<b>מאה, יכול יהא סותר</b> נזירותו ומונה מחדש? <b>תלמוד לומר: \"והימים הראשנים יפלו\"</b> (במדבר ו, יב), לומר: <b>עד שיהו לו ימים ראשונים, וזה אין לו</b> ימים <b>ראשונים.</b>",
+              "ref": "Steinsaltz on Nazir 19b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:ב",
+              "sourceRef": "Steinsaltz on Nazir 19b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one became ritually impure on the first or second day of his term of naziriteship, although the Rambam rules that he must bring the offerings of impurity, it does not negate his previous days as a nazirite, and he continues to count from where he left off after he has brought his offerings. It is only if he contracted ritual impurity from the third day onward that it negates all the previous days, as the Rambam’s text is like that of the Commentary on<i> Nazir</i> (<i>Kesef Mishne</i>). The <i>halakha </i>follows Rabbi Eliezer, as his opinion is discussed by the <i>amora’im</i> (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>6:6).",
+              "he": "כתבו המפרשים שאף שלא נאמר שברייתא זו היא בדברי ר' אליעזר, מכל מקום לא מצאנו אחר שמחזיק בשיטה זו שאינו סותר אם נטמא בו ביום אלא ר' אליעזר בלבד (ר\"פ, רע\"ז ועוד). אכן, בכ\"מ מסביר שאף חכמים למדים מדיוק המילים \"והימים הראשונים\", אלא שלדעתם אין הדברים אמורים אלא בנזיר טהור שנטמא, ולא בטמא שנזר. ומכל מקום הדין האמצעי שבברייתא, בנטמא ביום מאה אינו אלא כדעת ר' אליעזר, שלדעת חכמים בוודאי סותר הכל, וכמפורש במשנה לעיל (טז, א). וראה במרומי שדה.",
+              "ref": "Steinsaltz comment #1 on Nazir 19b:2",
+              "sourceHeRef": "וְזֶה אֵין לוֹ רִאשׁוֹנִים",
+              "sourceRef": "And this nazirite does not have first days"
+            },
+            {
+              "en": "",
+              "he": "וכבר העירו ר\"ט ור\"פ בשם התוס' שבאמת היה יכול לנקוט גם בנזיר שנזר שלושים יום, אלא שנקט מאה משום המקרה השני (נטמא ביום מאה) שאם בנזירות שלושים אי אפשר לומר שאינו סותר הכל (ר\"פ ור\"ט, ובקרן אורה כיוון לדבריהם). והוסיף בקרן אורה כי לשיטת הרמב\"ם, שאף אם אין ימים ראשונים ואינו סותר מכל מקום מביא קרבן, מובן מדוע אינו נוקט בנזירות שלושים, שהרי ממילא צריך לנהוג שלושים יום של גידול שיער, ואין משמעות מעשית לכך שאינו סותר.",
+              "ref": "Steinsaltz comment #2 on Nazir 19b:2",
+              "sourceHeRef": "נזיר מאה יום",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "מי שנטמא ביום הראשון או השני לנדר נזירותו, אף שלדעת הרמב\"ם מביא קרבן טומאה — אינו סותר, אלא משלים אותם אחר שיביא קרבנו. לפיכך רק אם נטמא מיום שלישי והלאה סותר את הקודמים. שהרמב\"ם גרס כגירסת המפרש (כ\"מ) ופסק הלכה כר' אליעזר שאמוראים דנו בדבריו (כ\"מ. וכן בפיה\"מ). (רמב\"ם ספר הפלאה הלכות נזירות פ\"ו ה\"ו).",
+              "ref": "Steinsaltz comment #3 on Nazir 19b:2",
+              "sourceHeRef": "וזה אין לו ראשונים",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "On the completion of her period of purification, for either son or daughter, she shall bring to the priest, at the entrance of the Tent of Meeting, a lamb in its first year for a burnt offering, and a pigeon or a turtledove for a sin offering.",
+                      "he": "וּבִמְלֹ֣את <b>׀</b> יְמֵ֣י טׇהֳרָ֗הּ לְבֵן֮ א֣וֹ לְבַת֒ תָּבִ֞יא כֶּ֤בֶשׂ בֶּן־שְׁנָתוֹ֙ לְעֹלָ֔ה וּבֶן־יוֹנָ֥ה אוֹ־תֹ֖ר לְחַטָּ֑את אֶל־פֶּ֥תַח אֹֽהֶל־מוֹעֵ֖ד אֶל־הַכֹּהֵֽן׃",
+                      "link": "/Leviticus/12",
+                      "ref": "Leviticus 12:6",
+                      "sourceHeRef": "ויקרא יב:ו",
+                      "sourceRef": "Leviticus 12:6"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכי גרסינן ונטמא בתחילה</strong> - פירוש ביום ראשון וזה אין לו [ראשונים] הילכך יום שנטמא ממנין נזירותו הוא וימנה צ\"ט לזה ויגלח ביום מאה שהוא יום ק\"א למנינו נטמא בסוף מאה ביום אחרון יכול יהא סותר הכל ת\"ל והימים הראשונים יפלו מכלל דאיכא אחרונים לבא עליו כשנטמא ומסתמא שנים בעינן דומיא דראשונים ולכך אינו סותר הכל ואם תאמר והא תנן <span class=\"parenthesized\">(לעיל נזיר דף טז.)</span> במתניתין <span class=\"parenthesized\">(כו')</span> נטמא ביום מאה סותר שלשים לר\"א וי\"ל דהכי נמי קאמר יכול יסתור הכל ת\"ל והימים הראשונים יפלו וזה אין לו אחרונים ולכך לא יסתור הכל אבל שלשים מיהא סותר מדרשא דדרשינן בפ\"ק <span class=\"parenthesized\">(דף ו:)</span> וזאת תורת הנזיר ביום מלאת נטמא ביום מלאת תן לו תורת נזיר וצריכי הני תרי קראי דאי לאו זאת תורת הנזיר ה\"א דכי נטמא ביום אחרון שהוא יום מלאת לא יסתור כלל ואפילו שלשים יום כתב רחמנא זאת תורת הנזיר וא\"ת א\"כ לכתוב זאת תורת הנזיר ולשתוק מוהימים הראשונים יפלו וי\"ל א\"כ הוה אמינא דיום מלאת היינו יום ק\"א כמו ובמלאת ימי טהרה <span class=\"parenthesized\">(ויקרא י״ב:ו׳)</span> דהוי לאחר שמלאו ימי טהרה שהוא יום התגלחת שמלאו ימיו כבר וההוא סותר שלשים יום אבל נטמא יום מאה יסתור כולם כתב רחמנא והימים הראשונים יפלו דאפילו נטמא ביום מאה [אינו] סותר כולם ועוד דלא סגי דלא לכתוב והימים לאפוקי תחלת המאה שלא היו לו ראשונים:",
+              "ref": "Tosafot on Nazir 19b:2:1",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ב:א",
+              "sourceRef": "Tosafot on Nazir 19b:2:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "and rededicate to the L<small>ORD</small> his term as nazirite; and he shall bring a lamb in its first year as a penalty offering. The previous period shall be void, since his consecrated hair was defiled.",
+              "he": "וְהִזִּ֤יר לַֽיהֹוָה֙ אֶת־יְמֵ֣י נִזְר֔וֹ וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־שְׁנָת֖וֹ לְאָשָׁ֑ם וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:12",
+              "sourceHeRef": "במדבר ו:יב",
+              "sourceRef": "Numbers 6:12"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> raised an objection to</b> <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> from a <i>baraita</i> that is not in accordance with the opinion of <span href=\"/topics/ulla\" class=\"namedEntityLink\" data-slug=\"ulla\">Ulla</span>: One who said: <b>I am hereby a nazirite</b> for <b>one hundred days, and he became ritually impure</b> immediately, <b>at the beginning</b> of the <b>one hundred</b> days, one <b>might</b> have thought <b>it should negate</b> the time he spent as a nazirite. <b>The verse</b> therefore <b>states: “But the first days shall be void”</b> (Numbers 6:12), which indicates that this <i>halakha</i> does not apply <b>until he will have “first days”</b> as a nazirite, <b>and</b> in <b>this</b> case the nazirite <b>does not have</b> his <b>first</b> days completed, as he became ritually impure right away.",
+      "he": "אֵיתִיבֵיהּ <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אַבָּיֵי</span>: ״הֲרֵינִי נָזִיר מֵאָה יוֹם״, וְנִטְמָא בִּתְחִלַּת מֵאָה, יָכוֹל יְהֵא סוֹתֵר, תַּלְמוּד לוֹמַר: ״וְהַיָּמִים הָרִאשׁוֹנִים יִפְּלוּ״ — עַד שֶׁיְּהוּ לוֹ יָמִים רִאשׁוֹנִים, וְזֶה אֵין לוֹ רִאשׁוֹנִים.",
+      "ref": "Nazir 19b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נטמא ביום מאה חסר אחת</strong> - דהשתא איכא תרי מקצת יום צ\"ט וכל יום מאה:",
+              "ref": "Rashi on Nazir 19b:3:1",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:ג:א",
+              "sourceRef": "Rashi on Nazir 19b:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>נטמא בסוף מאה,</b> כלומר, ביום המאה, <b>יכול יהא סותר? תלמוד לומר: \"והימים הראשנים יפלו\" —</b> <b>מכלל</b> שאמר \"ראשונים\" משמע <b>דאיכא</b> <span class=\"hebrew-emphasis\">[שיש</span><span class=\"hebrew-emphasis\">]</span> ימים אחרים שהם <b>אחרונים, וזה אין לו אחרונים,</b> שהרי כבר השלים נזירותו. <b>נטמא ביום מאה חסר אחת, יכול לא יהא סותר —</b> <b>תלמוד לומר: \"והימים הראשנים יפלו\"</b> — <b>מכלל דאיכא</b> <span class=\"hebrew-emphasis\">[שיש</span><span class=\"hebrew-emphasis\">]</span> <b>אחרונים, וזה יש לו ראשונים ואחרונים.</b>",
+              "ref": "Steinsaltz on Nazir 19b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:ג",
+              "sourceRef": "Steinsaltz on Nazir 19b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "<i>Tosafot</i> write that this does not mean that no days are negated if he became ritually impure on the one hundredth day, but rather he is required to observe only an additional thirty days, and not a full hundred, as stated in the mishna on 16a.",
+              "he": "וכתבו המפרשים (תוס' ועוד) שאין הכוונה שאם נטמא ביום מאה שאינו סותר כלום, אלא הכוונה שסותר שלושים יום בלבד, כפי שמפורש בדבריו במשנה לעיל (טז, א). וכל אלה הם מדברי התלמוד הבבלי, אבל בתלמוד הירושלמי סבורים שלגבי ימים אחרונים אין מדקדקים לשיטת ר' אליעזר, ואפילו לא היו לו ימים אחרונים מכל מקום סותר. אלא שנסתפקו האם מביא קרבן טומאה אם נטמא בימים אלו.",
+              "ref": "Steinsaltz comment #1 on Nazir 19b:3",
+              "sourceHeRef": "נִטְמָא בְּסוֹף מֵאָה וכו׳",
+              "sourceRef": "If one became ritually impure at the end of one hundred days, etc."
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג וזה יש לו אחרונים</strong> - יום טומאה ויום מאה שאחריו שהוא כולו ממנין הנזירות כל כמה שלא הביא קרבנותיו דאפילו לרב מתנא דאמר מקצת היום ככולו מצוה עליו להשלים לכתחלה כדאמר בפ\"ק <span class=\"parenthesized\">(דף ו.)</span>:",
+              "ref": "Tosafot on Nazir 19b:3:1",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ג:א",
+              "sourceRef": "Tosafot on Nazir 19b:3:1"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> continues: If one <b>became ritually impure at the end of one hundred</b> days, that is, on the hundredth day, one <b>might</b> have thought <b>it should negate</b> the days he had counted. <b>The verse</b> therefore <b>states: “But the first days shall be void,”</b> indicating <b>by inference that there are</b> other days that can be called the <b>last</b> ones, <b>while this</b> nazirite <b>does not have last</b> days, as he has already completed the tally of his naziriteship. If <b>he became impure on the one hundredth day less one,</b> one <b>might</b> have thought <b>it should not negate</b> the days he had counted. <b>Therefore, the verse states: “But the first days shall be void,”</b> indicating <b>by inference that there are last</b> ones, <b>and this</b> nazirite <b>has first</b> ones <b>and last</b> ones.",
+      "he": "נִטְמָא בְּסוֹף מֵאָה, יָכוֹל יְהֵא סוֹתֵר, תַּלְמוּד לוֹמַר: ״וְהַיָּמִים הָרִאשׁוֹנִים יִפְּלוּ״ — מִכְּלָל דְּאִיכָּא אַחֲרוֹנִים, וְזֶה אֵין לוֹ אַחֲרוֹנִים. נִטְמָא בְּיוֹם מֵאָה חָסֵר אַחַת, יָכוֹל לֹא יְהֵא סוֹתֵר, תַּלְמוּד לוֹמַר: ״וְהַיָּמִים הָרִאשׁוֹנִים יִפְּלוּ״ — מִכְּלָל דְּאִיכָּא אַחֲרוֹנִים, וְזֶה יֵשׁ לוֹ רִאשׁוֹנִים וְאַחֲרוֹנִים.",
+      "ref": "Nazir 19b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומדקתני הריני נזיר מאה יום ונטמא בתחילת מאה</strong> - דהיינו בו ביום וקתני שיהו לו ימים הראשונים אלמא שמעינן מהא דבנזיר טהור שנטמא נמי אמר ר' אליעזר דבעינן ימים הראשונים ותיובתא דעולא:",
+              "ref": "Rashi on Nazir 19b:4:1",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:ד:א",
+              "sourceRef": "Rashi on Nazir 19b:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>והא</b> <span class=\"hebrew-emphasis\">[ו</span>דבר זה<span class=\"hebrew-emphasis\">]</span> ששנו בברייתא, <b>בטמא שנזר לא מצית אמרת</b> <span class=\"hebrew-emphasis\">[אין אתה יכול לומר</span><span class=\"hebrew-emphasis\">],</span> <b>מדקתני</b> <span class=\"hebrew-emphasis\">[ממה ש</span>הוא שונה<span class=\"hebrew-emphasis\">]</span> <b>\"הריני נזיר מאה\" ונטמא בתחלת מאה,</b> הרי מדובר במי שהחל בנזירות ואחר כך נטמא, <b>וקתני</b> <span class=\"hebrew-emphasis\">[ושנה</span><span class=\"hebrew-emphasis\">]</span> <b>\"עד שיהו לו ימים ראשונים\"</b> ומכאן שלדעת ר' אליעזר נאמר דין זה אפילו בנזיר טהור שנטמא, והרי זו <b>תיובתא</b> <span class=\"hebrew-emphasis\">[קושיה חמורה</span><span class=\"hebrew-emphasis\">]</span> לעולא ונדחו דבריו.",
+              "ref": "Steinsaltz on Nazir 19b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:ד",
+              "sourceRef": "Steinsaltz on Nazir 19b:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מדקתני הריני נזיר ק' יום ונטמא</strong> - אלמא שנדר בטהרה והדר נטמא:",
+              "ref": "Tosafot on Nazir 19b:4:1",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ד:א",
+              "sourceRef": "Tosafot on Nazir 19b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> now concludes his objection to <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>: <b>But</b> with regard to <b>this</b> <i>halakha</i> of the <i>baraita</i>, <b>you cannot say</b> it is referring <b>to an impure</b> person <b>who took a vow of naziriteship from</b> the fact <b>that it teaches: I am hereby a nazirite</b> for <b>one hundred</b> days, <b>and he became impure</b> immediately <b>at the beginning</b> of the <b>one hundred,</b> indicating that it is discussing one who became impure after his term had already started. <b>And it</b> further <b>teaches: Until he will have “first days,”</b> which proves that <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> states his <i>halakha</i> even with regard to a pure nazirite who later became impure. This is <b>a conclusive refutation</b> of <span href=\"/topics/ulla\" class=\"namedEntityLink\" data-slug=\"ulla\">Ulla</span>, and his opinion is rejected.",
+      "he": "וְהָא, בְּטָמֵא שֶׁנָּזַר לָא מָצֵית אָמְרַתְּ, מִדְּקָתָנֵי ״הֲרֵינִי נָזִיר מֵאָה״, וְנִטְמָא בִּתְחִלַּת מֵאָה, וְקָתָנֵי ״עַד שֶׁיְּהוּ לוֹ יָמִים רִאשׁוֹנִים״, תְּיוּבְתָּא.",
+      "ref": "Nazir 19b:4"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If he becomes impure on the day he took the [nazirite] vow or on the second day, [these days] are not invalidated. Instead, he completes [the days of his vow including] them after he brings his sacrifices. [This is derived from the prooftext cited above:] \"The days will fall.\" [The use of the plural implies that] there must be at least two [full] days. Therefore if he becomes impure from the third day onward, he invalidates all the previous days.",
+              "he": "נִטְמָא בַּיּוֹם שֶׁנָּדַר אוֹ בַּשֵּׁנִי אֵינוֹ סוֹתֵר אֶלָּא מַשְׁלִים עֲלֵיהֶם אַחַר שֶׁיָּבִיא קָרְבָּנוֹ שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר ו יב)</span> \"וְהַיָּמִים הָרִאשׁוֹנִים יִפְּלוּ\" עַד שֶׁיִּהְיוּ שָׁם שְׁנֵי יָמִים רִאשׁוֹנִים. לְפִיכָךְ אִם נִטְמָא מִשְּׁלִישִׁי וָהָלְאָה סוֹתֵר כָּל הַקּוֹדְמִין:",
+              "ref": "Mishneh Torah, Nazariteship 6:6",
+              "sourceHeRef": "הלכות נזירות ו:ו",
+              "sourceRef": "Nazariteship 6:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הלין ימים דבעינן</strong> - אליבא דרבי אליעזר מפיק חד ומתחילין תרין שעומד ביום שני כשנטמא:",
+              "ref": "Rashi on Nazir 19b:5:1",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:ה:א",
+              "sourceRef": "Rashi on Nazir 19b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או נפקין תרין ומתחילין תלתא</strong> - דבעינן שני ימים שלימין:",
+              "ref": "Rashi on Nazir 19b:5:2",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:ה:ב",
+              "sourceRef": "Rashi on Nazir 19b:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר ליה יפלו כתיב</strong> - דמשמע דליהוון תרין בנפילה וכגון דנפקין תרין ועיילין תלת:",
+              "ref": "Rashi on Nazir 19b:5:3",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:ה:ג",
+              "sourceRef": "Rashi on Nazir 19b:5:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו</span><span class=\"hebrew-emphasis\">]</span> <b>רב פפא לאביי: הלין</b> <span class=\"hebrew-emphasis\">[אותם</span><span class=\"hebrew-emphasis\">]</span> <b>ימים דקאמרינן</b> <span class=\"hebrew-emphasis\">[שאמרנו</span><span class=\"hebrew-emphasis\">]</span> לשיטת ר' אליעזר, שצריך שיהו ימים ראשונים בטהרה, האם הכוונה היא <b>דנפק חד ומתחילין תרין</b> <span class=\"hebrew-emphasis\">[שיוצא,</span> שנגמר, יום אחד, ומתחילים שניים<span class=\"hebrew-emphasis\">]</span> ואם נטמא ביום השני סותר, <b>או דלמא דנפקין תרין ומתחילין תלתא</b> <span class=\"hebrew-emphasis\">[שמא שיוצאים,</span> נגמרים, שניים ומתחילים שלושה<span class=\"hebrew-emphasis\">],</span> שרק אם נטמא לאחר שהחל היום השלישי סותר? <b>לא הוה בידיה</b> <span class=\"hebrew-emphasis\">[היתה בידו</span><span class=\"hebrew-emphasis\">]</span> של אביי תשובה, <b>אתא שייליה</b> <span class=\"hebrew-emphasis\">[הלך</span> רב פפא ושאל<span class=\"hebrew-emphasis\">]</span> את <b>רבא. אמר ליה</b> <span class=\"hebrew-emphasis\">[לו</span><span class=\"hebrew-emphasis\">]:</span> <b>\"יפלו\" כתיב</b> <span class=\"hebrew-emphasis\">[נאמר</span><span class=\"hebrew-emphasis\">]</span> לשון רבים, ומיעוט רבים שניים.",
+              "ref": "Steinsaltz on Nazir 19b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:ה",
+              "sourceRef": "Steinsaltz on Nazir 19b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Commentary on<i> Nazir</i> explains that the plural form of “shall be void” indicates at least two days; that is, he must have counted at least two days of his naziriteship. This explanation is in accordance with the standard text of the Gemara, which reads: I would say that the <i>halakha </i>applies only if two days have finished and a third has started. Conversely, the Rosh and others follow Rabbeinu Tam’s opinion that “shall be void” indicates any number of days, even less than one. This explanation is in accordance with the variant text of the Gemara, which reads: I would say that the <i>halakha</i> applies if one day has finished and a second has started, as this can occur in less than a day, e.g., if he began his naziriteship in the afternoon.",
+              "he": "והסבירו בתוס' כי רב פפא לא יכול היה ללמוד דבר זה מלשון הברייתא, שמשמע ממנה שאם נטמא ביום שני סותר, שהרי הנטמא ביום תשעים ותשעה סותר, משום שיש מקום לומר שצריך בכל מקרה יום אחד שלם, ובנטמא בתחילה — ביום השני פעמים שאין אלא שני חצאי ימים. ואחרים הביאו בשם רבינו תם שזאת היא בעייתו של רב פפא — האם יש צורך ביום שלם, ולפיכך יחול הדין רק אם נטמא ביום השלישי, או שדי בשני ימים כלשהם (רא\"ש, ר\"פ). ועוד אמרו, שאף שאולי ניתן ללמוד מלשון הברייתא, מכל מקום רצה רב פפא ראיה מלשון המקרא.",
+              "ref": "Steinsaltz comment #1 on Nazir 19b:5",
+              "sourceHeRef": "יִפְּלוּ כְּתִיב",
+              "sourceRef": "It is written: Shall be void"
+            },
+            {
+              "en": "",
+              "he": "המפרש מסביר שלשון \"יפלו\" שהיא לשון רבים משמעה לפחות שנים, ומסביר שצריך שיהיו שני ימים ממניינו שנפלו, שרק ביום השלישי סותר על ידי טומאה. ואילו הרא\"ש ועוד מסבירים כשיטת ר\"ת, ש\"יפלו\" משמע נפילה כלשהי, ואפילו אין יום אחד שלם בכלל זה (וגם המפרש הביא שיטה זו). והבדלי הפירושים תלויים בגרסות, אם גורסים להלן ככתוב לפנינו \"הוה אמינא עד דנפקין תרין ועייל תלתא\" כפירוש הרא\"ש, או כגרסה אחרת שעמדה לפני המפרש \"עד דנפק חד ועייל תרי\" (כפי שיש בגרסות, וכן בב\"ח) וראה גם ב\"אורח ההלכה\".",
+              "ref": "Steinsaltz comment #2 on Nazir 19b:5",
+              "sourceHeRef": "יפלו כתיב",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר ליה רב פפא לאביי הלין ימים</strong> - הראשונים דקאמר ר' אליעזר דנפק חד ומתחילין תרין דהיינו ביום שני לנזירותו או דלמא דבעינן יום אחד שלם כי היכי דבימים אחרונים איכא חד יום שלם דהיינו יום המאה ה\"נ בימים הראשונים כי מתחיל תלת אבל כי נטמא ביום שני דפעמים אינו אלא שני חצאי ימים כגון דקבל נזירות אתמול בחצי היום והיום נטמא בחצי היום ואם תאמר ונפשוט ליה ממתניתין דקתני ר\"א [אומר] לא לבו ביום מכלל דיום שלאחריו סותר וי\"ל דלא חש ר' אליעזר להזכיר רק ממה דפליג אדרבנן דאמרי בו ביום מביא קרבן טומאה ואמר להו ר' אליעזר לא לבו ביום וה\"ה נמי לא ביום שני עד שלישי ואם תאמר ולפשוט ליה מברייתא דאייתי לעיל גופא נטמא בתחילת מאה יכול יהא סותר וכו' מכלל דכי נטמא ביום שני ודאי סותר וי\"ל תחילת מאה היינו נמי יום שני [קרא] תחילת מאה ועי\"ל דמשום דלרבנן סותר אפילו ביום ראשון קאמר להו ר\"א [דאינו] סותר וא\"ת ונפשוט ליה מסיפא דקאמר כי נטמא ביום מאה חסר אחת דסותר אלמא דבתרי יומי סגי ליה וה\"ה בתחילת נזירות דמסתמא אחרונים דומיא דראשונים וי\"ל דאחרונים פשיטא ליה דבתרי יומי סגי ליה לפי שיש שם יום שלם דהיינו יום מאה אבל בתחילת נזירות פעמים דליכא אלא שני חצאי ימים כגון אם נדר בחצי יום לכך מספקא ליה אי לכך בעינן דנפקא תרין וקאי בתלת אבל קשה דליפשוט ליה מברייתא דלעיל דמתחיל ומונה מיד פי' משביעי וכי נטמא בשמיני דליכא אלא ב' ימים מביא קרבן טומאה <span class=\"parenthesized\">(לו)</span> לר\"א וצריך לומר דלא שמיע ליה לההיא ברייתא דלעיל אי נמי שמיע ליה וקבעי טעמא מקרא א\"נ י\"ל כדפרישית לעיל דהא דבעינן דנפקא תרין וקאי אתלת משום דבעינן יום שלם שחל עליו נזירות דומיא דאחרונים אבל לעיל כיון דנזירות חל עליו משביעי דנטמא בשמיני יש כאן שביעי שלם ולכך כיון דנטמא בשמיני מביא קרבן טומאה וקצת קשה הא שביעי אינו שלם שצריך להזות ולטבול קודם שיחול הנזירות: לשון הג\"ה א\"ל יפלו כתיב משמע נפילה כל דהו לרבות שלא בא נמי יום שלם ואיצטריך למיכתב ימים ואיצטריך למיכתב יפלו דמצי למיכתב הכי וקדש ראש נזרו ביום ההוא מלבד ימים הראשונים ולשתוק מיפלו עד דנפקי תרין ועיילי תלת דימים משמע הכי דבעינן דומיא דאחרון דאיכא יום שלם כתב רחמנא יפלו דמשמע כל דהו דנפק חד וקאי בתרין ואי כתב רחמנא יפלו הראשונים ולא כתב ימים דמצי למיכתב והראשונים יפלו ה\"א ואפילו לבו ביום כת\"ק ולשון יפלו קאי אנזירות דעלמא כתב רחמנא ימים:",
+              "ref": "Tosafot on Nazir 19b:5:1",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ה:א",
+              "sourceRef": "Tosafot on Nazir 19b:5:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "and rededicate to the L<small>ORD</small> his term as nazirite; and he shall bring a lamb in its first year as a penalty offering. The previous period shall be void, since his consecrated hair was defiled.",
+              "he": "וְהִזִּ֤יר לַֽיהֹוָה֙ אֶת־יְמֵ֣י נִזְר֔וֹ וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־שְׁנָת֖וֹ לְאָשָׁ֑ם וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:12",
+              "sourceHeRef": "במדבר ו:יב",
+              "sourceRef": "Numbers 6:12"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said to <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span>: Those</b> first <b>days that we said</b> he must observe in ritual purity according to <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>, does it mean <b>that one</b> day <b>has finished and a second has started,</b> so that if he became impure on the second day it negates his tally, <b>or perhaps</b> it means <b>that two</b> days <b>have finished, and a third has started,</b> which would mean it negates his tally only if he became impure after the beginning of the third day? An answer <b>was not available to him,</b> so <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> <b>went</b> to <b>ask <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>,</b> who <b>said to him:</b> It <b>is written:</b> “But the former days <b>shall be void [<i>yippelu</i>]”</b> (Numbers 6:12) in the plural, which means at least two days need to have passed.",
+      "he": "אֲמַר לֵיהּ <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">רַב פָּפָּא</span> <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">לְאַבָּיֵי</span>: הָלֵין יָמִים דְּקָאָמְרִינַן, דְּנָפֵק חַד וּמַתְחִילִין תְּרֵין, אוֹ דִּלְמָא דְּנָפְקִין תְּרֵין וּמַתְחִילִין תְּלָתָא? לָא הֲוָה בִּידֵיהּ, אֲתָא שַׁיְילֵיהּ לְרָבָא. אֲמַר לֵיהּ: ״יִפְּלוּ״ כְּתִיב.",
+      "ref": "Nazir 19b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי כתב רחמנא ימים ולא כתב יפלו</strong> - אלא והימים הראשונים יעזוב ה\"א האי דכתיב ימים משמע כגון דנפיק חד ועיילין תרין ואפילו הכי אקיים ימים דהא כבר עייל יום שני כתב רחמנא יפלו דמשמע ימים שלימים:",
+              "ref": "Rashi on Nazir 19b:6:1",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:ו:א",
+              "sourceRef": "Rashi on Nazir 19b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי כתב יפלו ולא כתב ימים הוה אמינא אפילו חד</strong> - כלומר הוה אמינא דהאי דכתיב יפלו משמע אכולהו ימים שכבר מנה או ארבעה או תלתא או תרין או חד ואית דמפרשי אי כתב יפלו ולא כתב ימים ה\"א האי דכתיב יפלו אפילו חד משמע והאי דכתיב יפלו אנזירים דעלמא קאי כלומר ונפיק חד ועיילין תרין ואיקיים לו יפלו. לשון אחר דאי כתב רחמנא ימים ולא כתב יפלו הוה אמינא עד דנפקין תרין ועיילין תלת דב' ימים שלימין בעינן ואי כתב יפלו ולא כתב ימים הוה אמינא דאפילו חד דיפלו משמע נפילה והאיכא נפילה דחד יומא להכי כתב רחמנא ימים דבעינן דנפיק חד ועיילין תרין:",
+              "ref": "Rashi on Nazir 19b:6:2",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:ו:ב",
+              "sourceRef": "Rashi on Nazir 19b:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>ואיצטריך למיכתב</b> <span class=\"hebrew-emphasis\">[והוצרך לכתוב</span><span class=\"hebrew-emphasis\">]</span> <b>\"ימים\" ואיצטריך למיכתב</b> <span class=\"hebrew-emphasis\">[והוצרך לכתוב</span><span class=\"hebrew-emphasis\">]</span> <b>\"יפלו\", דאי כתב רחמנא</b> <span class=\"hebrew-emphasis\">[שאם היתה כותבת התורה</span><span class=\"hebrew-emphasis\">]</span> רק <b>\"ימים\" ולא כתב</b> <span class=\"hebrew-emphasis\">[היתה כותבת</span><span class=\"hebrew-emphasis\">]</span> <b>\"יפלו\", הוה אמינא</b> <span class=\"hebrew-emphasis\">[הייתי אומר</span><span class=\"hebrew-emphasis\">]:</span> <b>עד דנפקין תרין ועיילין תלתא</b> <span class=\"hebrew-emphasis\">[שיוצאים שניים ונכנסים שלושה</span><span class=\"hebrew-emphasis\">],</span> לכן <b>כתב רחמנא</b> <span class=\"hebrew-emphasis\">[כתבה תורה</span><span class=\"hebrew-emphasis\">]</span> <b>\"יפלו\". ואי כתב</b> <span class=\"hebrew-emphasis\">[ואם היתה</span> התורה כותבת<span class=\"hebrew-emphasis\">]</span> רק <b>\"יפלו\" ולא כתב</b> <span class=\"hebrew-emphasis\">[היתה כותבת</span><span class=\"hebrew-emphasis\">]</span> <b>\"ימים\", הוה אמינא</b> <span class=\"hebrew-emphasis\">[הייתי אומר</span><span class=\"hebrew-emphasis\">]</span> <b>אפילו</b> יום <b>חד</b> <span class=\"hebrew-emphasis\">[אחד</span><span class=\"hebrew-emphasis\">],</span> כלומר, אפילו אם נטמא ביום הראשון, לכן <b>כתב רחמנא</b> <span class=\"hebrew-emphasis\">[כתבה תורה</span><span class=\"hebrew-emphasis\">]</span> <b>\"ימים\",</b> שמיעוט רבים שניים, שדי ביום אחד ומקצת השני בלבד.",
+              "ref": "Steinsaltz on Nazir 19b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:ו",
+              "sourceRef": "Steinsaltz on Nazir 19b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "That is, the verse had instead written “and the first days shall be left” (Commentary on<i> Nazir</i>) or “apart from the first days” (<i>Tosafot</i>).",
+              "he": "אלא \"והימים הראשונים יעזוב\" (מפרש), או \"מלבד הימים הראשונים\" (הגהה בתוס' ועוד).",
+              "ref": "Steinsaltz comment #1 on Nazir 19b:6",
+              "sourceHeRef": "וְלָא כְּתַב יִפְּלוּ",
+              "sourceRef": "And had not also written shall be void"
+            },
+            {
+              "en": "If  this were the meaning, then the usage of the plural form of “shall be void” would be understood as a general term for all of the days he had counted, whether many, few, or even one. Alternatively, it might refer to nazirites in general, meaning that whenever this occurs to any nazirite the days they have observed are negated.",
+              "he": "ואף שכתוב בלשון רבים \"יפלו\" היה אפשר לפרש שאומר בלשון כללית: כל מספר ימים שמנה יפלו, בין שהם רבים או מעטים, ואפילו יום אחד. או שיש לפרש \"יפלו\" כלשון כללית לגבי נזירים שונים, שבכל מקרה שקורה להם דבר זה יפלו הימים שמנו.",
+              "ref": "Steinsaltz comment #2 on Nazir 19b:6",
+              "sourceHeRef": "הֲוָה אָמִינָא אֲפִילּוּ חַד",
+              "sourceRef": "I would say even one"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara comments: <b>And it was necessary</b> for the verse <b>to write “days” and it was</b> also <b>necessary</b> for it <b>to write “shall be void”</b> in the plural. <b>For if the Merciful One wrote</b> in the Torah only <b>“days” and had not</b> also <b>written “shall be void”</b> in the plural, <b>I would say that</b> the <i>halakha</i> applies only <b>if two</b> days <b>have finished and a third has started. The Merciful One</b> therefore <b>wrote</b> in the Torah the plural form of <b>“shall be void.” And if</b> the Merciful One <b>wrote</b> in the Torah <b>“shall be void” and had not</b> also <b>written “days,” I would say even one</b> day, that is, the <i>halakha</i> applies even if he became ritually impure on the first day. <b>The Merciful One</b> therefore <b>wrote</b> in the Torah <b>“days,”</b> indicating that he must have observed at least part of the second day.",
+      "he": "וְאִיצְטְרִיךְ לְמִיכְתַּב ״יָמִים״ וְאִיצְטְרִיךְ לְמִיכְתַּב ״יִפְּלוּ״, דְּאִי כְּתַב רַחֲמָנָא ״יָמִים״ וְלָא כְּתַב ״יִפְּלוּ״, הֲוָה אָמֵינָא: עַד דְּנָפְקִין תְּרֵין וְעָיְילִין תְּלָתָא, כְּתַב רַחֲמָנָא ״יִפְּלוּ״. וְאִי כְּתַב ״יִפְּלוּ״ וְלָא כְּתַב ״יָמִים״, הֲוָה אָמֵינָא אֲפִילּוּ חַד, כְּתַב רַחֲמָנָא ״יָמִים״.",
+      "ref": "Nazir 19b:6"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "One who vowed [to keep] a longer naziriteship [than ordinary] and he completed his naziriteship and afterwards came to the [holy] land: Beth Shammai says: [he must be] a nazirite [only] thirty days, But Beth Hillel says: [he must be] a nazirite [the full time vowed as] in the beginning. One who has two groups of witnesses who testify about him, these testifying that he vowed two naziriteships and these testifying that he vowed five: Beth Shammai says: their testimony is divided, and there is no [obligation to perform] naziriteship. But Beth Hillel says: within the five, two are included, so that he must be a nazirite twice.",
+              "he": "מִי שֶׁנָּדַר נְזִירוּת מְרֻבָּה וְהִשְׁלִים נְזִירוּתוֹ וְאַחַר כָּךְ בָּא לָאָרֶץ, בֵּית שַׁמַּאי אוֹמְרִים, נָזִיר שְׁלֹשִׁים יוֹם. וּבֵית הִלֵּל אוֹמְרִים, נָזִיר בַּתְּחִלָּה. מִי שֶׁהָיוּ שְׁתֵּי כִתֵּי עֵדִים מְעִידוֹת אוֹתוֹ, אֵלּוּ מְעִידִים שֶׁנָּדַר שְׁתַּיִם וְאֵלּוּ מְעִידִים שֶׁנָּדַר חָמֵשׁ, בֵּית שַׁמַּאי אוֹמְרִים, נֶחְלְקָה הָעֵדוּת וְאֵין כָּאן נְזִירוּת. וּבֵית הִלֵּל אוֹמְרִים, יֵשׁ בִּכְלָל חָמֵשׁ שְׁתַּיִם, שֶׁיִּהְיֶה נָזִיר שְׁתָּיִם:",
+              "link": "/Mishnah Eduyot/4",
+              "ref": "Mishnah Eduyot 4:11",
+              "sourceHeRef": "משנה עדיות ד:יא",
+              "sourceRef": "Mishnah Eduyot 4:11"
+            },
+            {
+              "en": "<b>One who vowed many</b> days of <b>naziriteship</b> while outside Eretz Yisrael, <b>and completed his naziriteship, and afterward came to Eretz</b> Yisrael, in order to bring the offerings at the end of his naziriteship, <b>Beit Shammai say:</b> He must be <b>a nazirite</b> for <b>thirty days,</b> so that he has observed a term of naziriteship in ritual purity in Eretz Yisrael, <b>and Beit Hillel say:</b> He is <b>a nazirite from the beginning,</b> that is, he must observe his entire naziriteship again. The mishna cites a related story: <b>An incident</b> occurred <b>with regard to Queen Helene, whose son had gone to war, and she said: If my son will return from war safely, I will be a nazirite</b> for <b>seven years. And her son returned</b> safely <b>from the war, and she was a nazirite</b> for <b>seven years. And at the end of seven years, she ascended to Eretz</b> Yisrael, <b>and Beit Hillel instructed her,</b> in accordance with their opinion, <b>that she should be a nazirite for an additional seven years. And at the end of</b> those <b>seven years she became ritually impure,</b> and was therefore required to observe yet another seven years of naziriteship, as ritual impurity negates the tally of a nazirite. <b>And she was found to be a nazirite</b> for <b>twenty-one years. Rabbi Yehuda said: She was a nazirite</b> for <b>only fourteen years</b> and not twenty-one.",
+              "he": "מִי שֶׁנָּזַר נְזִירוּת הַרְבֵּה וְהִשְׁלִים אֶת נְזִירוּתוֹ, וְאַחַר כָּךְ בָּא לָאָרֶץ, בֵּית שַׁמַּאי אוֹמְרִים, נָזִיר שְׁלשִׁים יוֹם, וּבֵית הִלֵּל אוֹמְרִים, נָזִיר בַּתְּחִלָּה. מַעֲשֶׂה בְהִילְנִי הַמַּלְכָּה, שֶׁהָלַךְ בְּנָהּ לַמִּלְחָמָה, וְאָמְרָה, אִם יָבֹא בְנִי מִן הַמִּלְחָמָה בְשָׁלוֹם אֱהֵא נְזִירָה שֶׁבַע שָׁנִים, וּבָא בְנָהּ מִן הַמִּלְחָמָה, וְהָיְתָה נְזִירָה שֶׁבַע שָׁנִים. וּבְסוֹף שֶׁבַע שָׁנִים עָלְתָה לָאָרֶץ, וְהוֹרוּהָ בֵית הִלֵּל שֶׁתְּהֵא נְזִירָה עוֹד שֶׁבַע שָׁנִים אֲחֵרוֹת. וּבְסוֹף שֶׁבַע שָׁנִים נִטְמֵאת, וְנִמְצֵאת נְזִירָה עֶשְׂרִים וְאַחַת שָׁנָה. אָמַר רַבִּי יְהוּדָה, לֹא הָיְתָה נְזִירָה אֶלָּא אַרְבַּע עֶשְׂרֵה שָׁנָה:",
+              "link": "/Mishnah Nazir/3",
+              "ref": "Mishnah Nazir 3:6",
+              "sourceHeRef": "משנה נזיר ג:ו",
+              "sourceRef": "Mishnah Nazir 3:6"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A nazirite vow may be observed only in <i>Eretz Yisrael</i>. When a person takes a nazirite vow in the Diaspora, he is penalized and obligated to ascend to <i>Eretz Yisrael</i> and observe his nazirite vow there for as long as he vowed. Accordingly, when a person takes a nazirite vow in the Diaspora in the present era, we compel him to ascend to <i>Eretz Yisrael</i> and observe his nazirite vow there until he dies or until the Temple is built and he brings his sacrifices there at the conclusion of the span of his vow.",
+              "he": "אֵין הַנְּזִירוּת נוֹהֶגֶת אֶלָּא בְּאֶרֶץ יִשְׂרָאֵל. וּמִי שֶׁנָּזַר בְּחוּצָה לָאָרֶץ קוֹנְסִין אוֹתוֹ וּמְחַיְּבִין אוֹתוֹ לַעֲלוֹת לְאֶרֶץ יִשְׂרָאֵל וְלִהְיוֹת נָזִיר בְּאֶרֶץ יִשְׂרָאֵל כְּמִנְיַן הַיָּמִים שֶׁנָּזַר. לְפִיכָךְ מִי שֶׁנָּדַר בַּזְּמַן הַזֶּה בְּחוּצָה לָאָרֶץ כּוֹפִין אוֹתוֹ לַעֲלוֹת לְאֶרֶץ יִשְׂרָאֵל וְלִהְיוֹת נוֹהֵג שָׁם נְזִירוּת עַד שֶׁיָּמוּת אוֹ עַד שֶׁיִּבָּנֶה הַמִּקְדָּשׁ וְיָבִיא קָרְבְּנוֹתָיו בִּמְלֹאת יְמֵי נִזְרוֹ:",
+              "ref": "Mishneh Torah, Nazariteship 2:21",
+              "sourceHeRef": "הלכות נזירות ב:כא",
+              "sourceRef": "Nazariteship 2:21"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> <b>מי ש</b>היה בחוצה לארץ, ו<b>נזר נזירות הרבה,</b> כלומר, יותר משלושים יום. <b>והשלים את נזירותו, ואחר כך בא לארץ</b> (ארץ ישראל) להביא קרבנותיו ולסיים את נזירותו, <b>בית שמאי אומרים:</b> אף שנהג נזירות בחוץ לארץ כפי שנדר, מכל מקום הוא צריך להיות <b>נזיר שלשים יום</b> בארץ ישראל כדי שתהיה לו נזירות בטהרת ארץ ישראל, <b>ובית הילל אומרים:</b> הריהו צריך להיות <b>נזיר בתחלה,</b> כלומר, צריך להתחיל את כל ימי נזירותו מתחילתה.",
+              "ref": "Steinsaltz on Nazir 19b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:ז",
+              "sourceRef": "Steinsaltz on Nazir 19b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Naziriteship can be observed only in Eretz Yisrael, and one who vowed to be a nazirite outside Eretz Yisrael is obligated to ascend to Eretz Yisrael and observe his naziriteship there for the term he had specified, in accordance with the opinion of Beit Hillel. However, the vow of naziriteship<i> </i>itself takes effect outside Eretz Yisrael, and he is prohibited to drink wine, become ritually impure through contact with a corpse, or to shave, despite the fact that these days do not count as part of his term of naziriteship. Consequently, one who takes a vow of naziriteship nowadays must ascend to Eretz Yisrael and observe naziriteship<i> </i>there until his death, or until the Temple is rebuilt and he can bring his offerings. The Ra’avad claims that since all are considered ritually impure from the dead at this time, even those living in Eretz Yisrael, observing one’s naziriteship in Eretz Yisrael has no advantage (Rambam Sefer<i> Hafla’a</i>,<i> Hilkhot Nezirut </i>2:21–22).",
+              "he": "אף שלשון זו משמעה בדרך כלל הרבה נזירויות, הסכימו המפרשים (ראה תוס') שיש לפרש דבר זה כבלשון המשנה בעדויות \"נזירות מרובה\", וכן יש שגרסו גם כאן כך. שאם בנזירויות רבות מדובר כאן — הרי לא הספיק להשלים את הראשונה עדיין, כיון שלא עלה לבית המקדש והקריב קרבנותיו (קרן אורה, אבל ראה באר משה).",
+              "ref": "Steinsaltz comment #1 on Nazir 19b:7",
+              "sourceHeRef": "וְאַחַר כָּךְ בָּא לָאָרֶץ",
+              "sourceRef": "And afterward came to Eretz Yisrael"
+            },
+            {
+              "en": "",
+              "he": "וכתבו התוס' שבעל כרחו (ולא במקרה) בא לארץ, שהרי אין יכול להקריב קרבנות נזירותו ולהשלימה אלא בארץ ישראל. והרמב\"ם אמר שמחייבים אותו לעלות לארץ ולנהוג שם נזירות טהרה, ולדעתו אף הנוזר גם בזמן הזה מחייבים אותו לעלות לארץ. והטעם שאין נזירות שבחוץ לארץ נחשבת הוא משום \"טומאת ארץ העמים\" שגזרו שתהא ארץ העמים טמאה, ואף שחל נדר נזירות בנוזר בה (וחלים עליו כל איסורי נזיר), ובעצם מדין תורה כבר השלים נזירותו (כמפורש במשנה), מכל מקום גזרו עליו שישלים נזירות בטהרה.",
+              "ref": "Steinsaltz comment #2 on Nazir 19b:7",
+              "sourceHeRef": "ואחר כך בא לארץ",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "אין הנזירות נוהגת אלא בארץ ישראל, ומי שנזר בחוץ לארץ מחייבים אותו לעלות לארץ ולהיות שם נזיר כמנין הימים שנזר. כדברי בית הלל. אבל נזירות שנזר בחוץ לארץ חלה עליו, ואסור לשתות יין ולהיטמא למתים ולגלח וכל דקדוקי נזירות עליו — אף שאין ימים אלה עולים לו לענין נזירותו, ולפיכך, מי שנדר נדר נזירות בזמן הזה כופים אותו לעלות לארץ ישראל ולהיות נוהג שם נזירות עד שימות או שייבנה בית המקדש ויביא קרבנותיו (וראה בהשגת הראב\"ד שם שהכל טמאי מתים, אף בארץ ישראל. וראה בכ\"מ שכתב שמכל מקום צריך לעלות ולהיזהר גם מלהיטמא למת). (רמב\"ם ספר הפלאה הלכות נזירות פ\"ב הכ\"א-כ\"ב).",
+              "ref": "Steinsaltz comment #3 on Nazir 19b:7",
+              "sourceHeRef": "ואחר כך בא לארץ",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי שנדר בחוצה לארץ נזירות הרבה מל' יום והשלים נזירותו בחוצה לארץ ואח\"כ בא לארץ</strong> - לאו דוקא במקרה בעלמא דלא סגי דלא אתי לארץ ישראל להקריב קרבנותיו ולהשלים נזירותו למר כדאית ליה ולמר כדאית ליה:",
+              "ref": "Tosafot on Nazir 19b:7:1",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ז:א",
+              "sourceRef": "Tosafot on Nazir 19b:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נזיר שלשים יום</strong> - בגמרא מפרש דמדרבנן קנסא בעלמא הוא שגזרו בארץ העמים דגזרו עליהם טומאה ומן התורה ודאי טהור ויצא ידי נזירותו:",
+              "ref": "Tosafot on Nazir 19b:7:2",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ז:ב",
+              "sourceRef": "Tosafot on Nazir 19b:7:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נזיר בתחילה</strong> - לחזור ולהתחיל כל מניינו גם דברי ב\"ה קנס ומדרבנן והכי מפורש בגמרא:",
+              "ref": "Tosafot on Nazir 19b:7:3",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ז:ג",
+              "sourceRef": "Tosafot on Nazir 19b:7:3"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> <b>One who vowed many</b> days of <b>naziriteship</b> while outside <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>, <b>and completed his naziriteship, and afterward came to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span>, in order to bring the offerings at the end of his naziriteship, <b><span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> say:</b> He must be <b>a nazirite</b> for <b>thirty days,</b> so that he has observed a term of naziriteship in ritual purity in <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>, <b>and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> say:</b> He is <b>a nazirite from the beginning,</b> that is, he must observe his entire naziriteship again.",
+      "he": "<big><strong>מַתְנִי׳</strong></big> מִי שֶׁנָּזַר נְזִירוּת הַרְבֵּה, וְהִשְׁלִים אֶת נְזִירוּתוֹ, וְאַחַר כָּךְ בָּא לָאָרֶץ, בֵּית שַׁמַּאי אוֹמְרִים: נָזִיר שְׁלֹשִׁים יוֹם, וּבֵית הִילֵּל אוֹמְרִים: נָזִיר בַּתְּחִלָּה.",
+      "ref": "Nazir 19b:7",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומסופר בענין זה: <b>מעשה בהילני המלכה שהלך בנה למלחמה, ואמרה: אם יבוא בני מן המלחמה בשלום —</b> <b>אהא נזירה שבע שנים. ובא בנה מן המלחמה, והיתה נזירה שבע שנים. ובסוף שבע שנים עלתה לארץ, והורוה בית הלל</b> כשיטתם <b>שתהא נזירה עוד שבע שנים אחרות. ובסוף שבע שנים</b> אלה <b>נטמאת</b> ונהגה עוד שבע שנים של נזירות, כדין נזיר שנטמא — שסותר ומונה מחדש את נזירותו. <b>ונמצאת</b> שהיתה <b>נזירה עשרים ואחת שנה. אמר ר' יהודה: לא היתה נזירה אלא ארבע עשרה שנה</b> ולא עשרים ואחת.",
+              "ref": "Steinsaltz on Nazir 19b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:ח",
+              "sourceRef": "Steinsaltz on Nazir 19b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Helene, or in Greek <greek>Ἑλένη</greek>, <i>Helenē</i>, was queen of Adiabene, a small country subjugated to the Parthian Empire. Located on the Tigris River, it was situated in what is today northern Syria. More than a generation prior to the destruction of the Second Temple, Helene and her two sons, Munbaz and Izats, converted to Judaism, apparently along with much of the local nobility. Queen Helene and her two sons maintained strong ties to the Jewish community in Eretz Yisrael. They would send substantial gifts to the Temple and enormous sums of money to assist the poor in years of drought. It is plausible that members of the royal family of Adiabene are buried in the magnificent Graves of the Kings in Jerusalem. As mentioned in the Talmud, Queen Helene was a righteous proselyte who accepted upon herself all elements of <i>halakha</i> as taught to her by the Sages.",
+              "he": "הילני היתה המלכה של מדינת חדייב, מדינה קטנה תחת השלטון העליון הפרתי, שהיתה סמוכה לנהר חידקל, בצפון סוריה של ימינו.\nלמעלה מימי דור לפני חורבן הבית השני התגיירו המלכה הילני ובניה מונבז ובזוטוס (איזאטס) וכנראה עוד רבים מבני האצולה המקומית.\nהילני המלכה ובניה היו קשורים קשר הדוק ביישוב היהודי בארץ ישראל, ושלחו מתנות נכבדות למקדש וסכומי כסף עצומים לעזרת עניים בשנות בצורת. כנראה, בני משפחת המלוכה של חדייב הם הקבורים בקברי המלכים המפוארים שבירושלים.\nכפי המוזכר בתלמוד היתה המלכה הילני גיורת צדק שקיבלה על עצמה את כל דיני ההלכה כפי שהורוה חכמי ישראל.",
+              "ref": "Steinsaltz comment #1 on Nazir 19b:8",
+              "sourceHeRef": "הֵילֶנֵי הַמַּלְכָּה",
+              "sourceRef": "Queen Helene"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ובסוף שבע שנים באה ואחר כך נטמאת</strong> - וי\"מ בגמרא דלא נבלעו [אלו] באלו [מדמנינן] אחת ועשרים שנה:",
+              "ref": "Tosafot on Nazir 19b:8:1",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ח:א",
+              "sourceRef": "Tosafot on Nazir 19b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבי יהודה לא היתה נזירה אלא י\"ד שנה</strong> - בגמ' מפרש לה:",
+              "ref": "Tosafot on Nazir 19b:8:2",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ח:ב",
+              "sourceRef": "Tosafot on Nazir 19b:8:2"
+            }
+          ]
+        }
+      },
+      "en": "The mishna cites a related story: <b>An incident</b> occurred <b>with regard to Queen Helene, whose son had gone to war, and she said: If my son will return from war safely, I will be a nazirite</b> for <b>seven years. And her son returned</b> safely <b>from the war, and she was a nazirite</b> for <b>seven years. And at the end of seven years, she ascended to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span>, <b>and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> instructed her,</b> in accordance with their opinion, <b>that she should be a nazirite for an additional seven years. And at the end of</b> those <b>seven years she became ritually impure,</b> and was therefore required to observe yet another seven years of naziriteship, as ritual impurity negates the tally of a nazirite. <b>And she was found to be a nazirite</b> for <b>twenty-one years. <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> said: She was a nazirite</b> for <b>only fourteen years</b> and not twenty-one.",
+      "he": "מַעֲשֶׂה בְּהֵילֵנִי הַמַּלְכָּה שֶׁהָלַךְ בְּנָהּ לְמִלְחָמָה, וְאָמְרָה: אִם יָבוֹא בְּנִי מִן הַמִּלְחָמָה בְּשָׁלוֹם — אֱהֵא נְזִירָה שֶׁבַע שָׁנִים. וּבָא בְּנָהּ מִן הַמִּלְחָמָה, וְהָיְתָה נְזִירָה שֶׁבַע שָׁנִים, וּבְסוֹף שֶׁבַע שָׁנִים עָלְתָה לָאָרֶץ, וְהוֹרוּהָ בֵּית הִלֵּל שֶׁתְּהֵא נְזִירָה עוֹד שֶׁבַע שָׁנִים אֲחֵרוֹת. וּבְסוֹף שֶׁבַע שָׁנִים נִטְמֵאת. וְנִמְצֵאת נְזִירָה עֶשְׂרִים וְאַחַת שָׁנָה. אָמַר רַבִּי יְהוּדָה: לֹא הָיְתָה נְזִירָה אֶלָּא אַרְבַּע עֶשְׂרֵה שָׁנָה.",
+      "ref": "Nazir 19b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">גּוּשָׁא</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, גּוּשׁ II 1\" href=\"/Jastrow,_גּוּשׁ II.1\">same</span> , especially <i>ground, soil</i>, contradistinguished to air, atmosphere. <span class=\"refLink\" data-ref=\"Nazir 54b:3\" href=\"/Nazir.54b.3\">Nazir 54ᵇ</span>; <span class=\"refLink\" data-ref=\"Nazir 55a:1\" href=\"/Nazir.55a.1\">55ᵃ</span> (<span class=\"refLink\" data-ref=\"Nazir 19b:9\" href=\"/Nazir.19b.9\">ib. 19ᵇ</span> <span dir=\"rtl\">גושה</span>). <span class=\"refLink\" data-ref=\"Shabbat 15b\" href=\"/Shabbat.15b\">Shabbat 15ᵇ</span>.—plural <span dir=\"rtl\">גּוּשַׁיָּיא</span>. <span class=\"refLink\" data-ref=\"Niddah 20a:79\" href=\"/Niddah.20a.79\">Niddah 20ᵃ</span> <span dir=\"rtl\">בגוּשַׁיְיהוּ</span> with their clods of ground. V. <span class=\"refLink\" data-ref=\"Jastrow, גַּרְגִּשְׁתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_גַּרְגִּשְׁתָּא.1\">גַּרְגֶּשְׁתָּא</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, גּוּשָׁא 1",
+              "sourceHeRef": "מילון יסטרוב, גּוּשָׁא א׳",
+              "sourceRef": "Jastrow, גּוּשָׁא 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>GEMARA:</strong> The Gemara explains the terms hangings and projections by citing a mishna (<i>Oholot</i> 8:2). <b>And these are the hangings: A tree that overhangs the earth. And</b> the <b>projections</b> are stones <b>that protrude from a fence.</b>",
+                  "The mishna further taught: <b>And the land of the nations</b> does not render a nazirite obligated to shave, despite the fact that it is considered ritually impure. The Gemara inquires with regard to the nature of this impurity. <b>A dilemma was raised before</b> the Sages: Did the Sages <b>decree the land of the nations</b> impure <b>with regard to the air,</b> i.e., is one rendered impure merely by being there? <b>Or perhaps they decreed</b> it impure <b>with regard to the earth,</b> i.e., one who touches the ground or overlays it becomes impure.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> a resolution to this question from the mishna, which lists one who enters the land of the nations and states: <b>And one sprinkles</b> on him <b>on the third and on the seventh</b> days. <b>And if you say</b> that the decree was <b>with regard to the air, why do I</b> need this <b>sprinkling?</b> He neither touched something ritually impure nor overlaid it.",
+                  "<b>Rather, is it not with regard to the earth</b> that the land of the nations was decreed impure? The Gemara rejects this proof: <b>No, actually I</b> could <b>say to you</b> that the decree is <b>due to the air, and when</b> the mishna <b>teaches</b> that he receives the sprinkling, it is referring <b>to the other</b> items listed in the mishna, e.g., the grave cover, the grave walls, and a quarter-<i>log</i> of blood.",
+                  "The Gemara comments: <b>So too, it is reasonable</b> that this is the case, <b>from</b> the fact <b>that</b> the mishna also <b>teaches: And vessels that are touching a corpse.</b> Now do people who touch <b>these vessels require sprinkling?</b> Does one who touches a vessel that is ritually impure from a corpse require the sprinkling of purification water? This individual is impure only until that evening. <b>Rather, learn from this</b> that the <i>halakha</i> that he is sprinkled on the third and on the seventh days does not refer to all the cases in the mishna but only <b>to</b> some of <b>the others.</b>"
+                ],
+                [
+                  "<b>Let us say</b> that this is <b>parallel to</b> a dispute between <b><i>tanna’im</i>,</b> as it is taught: With regard to <b>one who enters the land of the nations</b> not on foot but <b>in a chest, a box, or a cabinet, Rabbi</b> Yehuda HaNasi <b>deems</b> him ritually <b>impure. And Rabbi Yosei, son of Rabbi Yehuda, deems</b> him <b>pure. What, is it not</b> correct to say that they disagree in this regard: <b>Rabbi</b> Yehuda HaNasi, who deems him impure, <b>holds</b> that the Sages decreed impurity <b>with regard to the air, and Rabbi Yosei, son of Rabbi Yehuda, holds</b> that the Sages decreed impurity <b>with regard to the earth,</b> and consequently he is not impure, as the container prevents him from overlying the impurity?",
+                  "The Gemara rejects this suggestion: This is <b>not</b> necessarily the correct interpretation of their dispute, as one can say <b>that everyone</b> agrees that the decree is <b>with regard to the earth,</b> and their dispute concerns only the case of one who enters in a chest, a box, or a cabinet. One <b>Sage,</b> Rabbi Yosei, son of Rabbi Yehuda, <b>holds</b> that <b>a moving tent,</b> an item that serves as a tent as it passes over ritual impurity, <b>is called a tent,</b> and therefore a person who enters the land of the nations in a large container is protected from its impurity. <b>And</b> one <b>Sage,</b> Rabbi Yehuda HaNasi, <b>holds</b> that <b>a moving tent is not called a tent.</b> Consequently, nothing separates this individual from the impurity, and he becomes impure by overlying the land of the nations.",
+                  "The Gemara asks: <b>But isn’t it taught</b> in a <i>baraita</i> that <b>Rabbi Yosei, son of Rabbi Yehuda, says: A box that is full of utensils that one threw over a corpse in a tent,</b> in such a manner that it overlay the corpse, <b>is impure,</b> and everything inside it is also rendered ritually impure, as it does not provide the protection of a tent. <b>And if it was placed down</b> and positioned as a tent over a corpse, <b>it is pure,</b> and its contents are protected from the impurity. This shows that according to the opinion of Rabbi Yosei, son of Rabbi Yehuda, a moving tent is not considered a tent, which contradicts the above claim.",
+                  "In light of this argument, the Gemara concedes that the previous explanation of the dispute is incorrect. <b>Rather,</b> one must say <b>that everyone</b> agrees that the decree of impurity concerning the land of the nations is <b>with regard to its air, and</b> one <b>Sage,</b> Rabbi Yosei, son of Rabbi Yehuda, <b>holds</b> that <b>since it is not common</b> for one to move around in an enclosure, <b>the Sages did not decree</b> impurity <b>with regard to</b> this case. <b>And</b> one <b>Sage,</b> Rabbi Yehuda HaNasi, <b>holds</b> that <b>although it is not common the Sages</b> nevertheless <b>decreed</b> impurity <b>with regard to it.</b>",
+                  "The Gemara adds: <b>And it is taught</b> in the <i>Tosefta</i> (<i>Oholot</i> 18:5) in accordance with this explanation of the opinion of Rabbi Yosei, son of Rabbi Yehuda: <b>One who enters the land of the nations in a chest, a box, or a cabinet</b> is <b>ritually pure.</b> If he was <b>in a wagon [<i>karon</i>], boat, or raft [<i>iskareya</i>],</b> he is <b>ritually impure.</b> The difference is that the latter vessels are commonly used to convey people.",
+                  "<b>And if you wish, say</b> an alternative explanation of the dispute between Rabbi Yehuda HaNasi and Rabbi Yosei, son of Rabbi Yehuda. Both agree that the ritual impurity of the land of the nations is with regard to the earth, and a moving tent is considered a tent. Therefore, the person in question should be ritually pure according to both opinions. However, <b>here they disagree</b> with regard to a different issue, the concern <b>lest he remove his head and the majority of his body</b> from the chest, box, or cabinet <b>into there,</b> i.e., the land of the nations.",
+                  "<b>And it is taught</b> likewise in a <i>baraita</i> that <b>Rabbi Yosei, son of Rabbi Yehuda, says: One who enters the land of the nations in a chest, a box, or a cabinet is pure, unless he</b> actually <b>removes his head or the majority of his body into</b> the land of the nations. By contrast, Rabbi Yehuda HaNasi renders him ritually impure due to concern that one’s head might protrude from the container."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nazir 54b:2",
+                "Nazir 54b:3",
+                "Nazir 54b:4",
+                "Nazir 54b:5",
+                "Nazir 54b:6",
+                "Nazir 55a:1",
+                "Nazir 55a:2",
+                "Nazir 55a:3",
+                "Nazir 55a:4",
+                "Nazir 55a:5",
+                "Nazir 55a:6",
+                "Nazir 55a:7"
+              ],
+              "he": [
+                [
+                  "<big><strong>גְּמָ׳</strong></big> וְאֵלּוּ הֵן הַסְּכָכוֹת — אִילָן הַמֵּיסֵךְ עַל הָאָרֶץ. וּפְרָעוֹת — הַיּוֹצְאוֹת מִן הַגָּדֵר.",
+                  "וְאֶרֶץ הָעַמִּים. אִיבַּעְיָא לְהוּ: אֶרֶץ הָעַמִּים, מִשּׁוּם אַוֵּירָא גָּזְרוּ עָלֶיהָ, אוֹ דִילְמָא מִשּׁוּם גּוּשָּׁא גָּזְרוּ עָלֶיהָ?",
+                  "תָּא שְׁמַע: וּמַזֶּה בַּשְּׁלִישִׁי וּבַשְּׁבִיעִי. וְאִי אָמְרַתְּ מִשּׁוּם אַוֵּירָא, הַזָּאָה לְמָה לִי?",
+                  "אֶלָּא לָאו, מִשּׁוּם גּוּשָּׁא? לָא, לְעוֹלָם אֵימָא לָךְ מִשּׁוּם אַוֵּירָא, וְכִי קָתָנֵי — אַשְּׁאָרָא.",
+                  "הָכִי נָמֵי מִסְתַּבְּרָא, מִדְּקָתָנֵי: וְכֵלִים הַנּוֹגְעִים בְּמֵת. הָנֵי כֵּלִים בְּנֵי הַזָּאָה אִינּוּן? אֶלָּא שְׁמַע מִינַּהּ אַשְּׁאָרָא."
+                ],
+                [
+                  "לֵימָא כְּתַנָּאֵי: הַנִּכְנָס לְאֶרֶץ הָעַמִּים בְּשִׁידָּה תֵּיבָה וּמִגְדָּל, רַבִּי מְטַמֵּא, וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה מְטַהֵר. מַאי לָאו: רַבִּי סָבַר מִשּׁוּם אַוֵּירָא, וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה סָבַר מִשּׁוּם גּוּשָּׁא?",
+                  "לָא, דְּכוּלֵּי עָלְמָא מִשּׁוּם גּוּשָּׁא. מָר סָבַר: אֹהֶל זָרוּק — שְׁמֵיהּ אֹהֶל, וּמָר סָבַר: לָא שְׁמֵיהּ אֹהֶל.",
+                  "וְהָתַנְיָא, רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: תֵּיבָה שֶׁהִיא מְלֵאָה כֵּלִים, וּזְרָקָהּ עַל פְּנֵי הַמֵּת בְּאֹהֶל — טְמֵאָה, וְאִם הָיְתָה מוּנַּחַת — טְהוֹרָה.",
+                  "אֶלָּא: דְּכוּלֵּי עָלְמָא מִשּׁוּם אַוֵּירָא, וּמָר סָבַר: כֵּיוָן דְּלָא שְׁכִיחָא — לָא גְּזַרוּ בֵּיהּ רַבָּנַן, וּמָר סָבַר: אַף עַל גַּב דְּלָא שְׁכִיחָא — גְּזַרוּ בֵּיהּ רַבָּנַן.",
+                  "וְהַתַּנְיָא: הַנִּכְנָס לְאֶרֶץ הָעַמִּים בְּשִׁידָּה תֵּיבָה וּמִגְדָּל — טָהוֹר, בְּקָרוֹן וּבִסְפִינָה וּבְאִיסְקַרְיָא — טָמֵא.",
+                  "וְאִיבָּעֵית אֵימָא: הָכָא שֶׁמָּא יוֹצִיא רֹאשׁוֹ וְרוּבּוֹ לְשָׁם פְּלִיגִי.",
+                  "וְהָתַנְיָא, רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: הַנִּכְנָס לְאֶרֶץ הָעַמִּים בְּשִׁידָּה תֵּיבָה וּמִגְדָּל — טָהוֹר, עַד שֶׁיּוֹצִיא לְשָׁם רֹאשׁוֹ אוֹ רוּבּוֹ."
+                ]
+              ],
+              "link": "/Nazir/54b",
+              "originalRefsBeforeRewriting": [
+                "Nazir 54b:3"
+              ],
+              "ref": "Nazir 54b:2-55a:7",
+              "sourceHeRef": "נזיר נ״ד ב",
+              "sourceRef": "Nazir 54b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לימא בהא קמיפלגי דב\"ש סברי משום גושה גזרו</strong> - ולא משום אוירא והויא קלישא טומאתה ומשום הכי סגי לה בשלשים יום:",
+              "ref": "Rashi on Nazir 19b:9:1",
+              "sourceHeRef": "רש\"י על נזיר י״ט ב:ט:א",
+              "sourceRef": "Rashi on Nazir 19b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> <b>קתני רישא</b> <span class=\"hebrew-emphasis\">[שנה בראשה</span><span class=\"hebrew-emphasis\">]</span> של המשנה: <b>בית שמאי אומרים: נזיר שלשים יום, ובית הלל אומרים: נזיר בתחלה.</b> ומציעים הסבר לשיטותיהם: <b>לימא בהא קמיפלגי</b> <span class=\"hebrew-emphasis\">[האם לומר</span> שבבעיה זו הם חלוקים<span class=\"hebrew-emphasis\">]</span> ש<b>בית שמאי סברי</b> <span class=\"hebrew-emphasis\">[סבורים</span><span class=\"hebrew-emphasis\">]</span> בענין <b>ארץ העמים</b> שגזרו עליה חכמים טומאה, ש<b>משום גושה גזרו עליה,</b> כלומר, העפר של ארץ העמים הוא טמא, אבל האויר, החלל, של ארץ העמים אינו טמא. ואם כן טומאת ארץ העמים אינה טומאה חמורה, ולכן אין לומר שיהא הנזיר שנהג נזירות בחוץ לארץ נחשב כטמא ממש ולהצריכו בשל כך לנהוג מחדש את כל ימי נזירותו.",
+              "ref": "Steinsaltz on Nazir 19b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ט ב:ט",
+              "sourceRef": "Steinsaltz on Nazir 19b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Although the ritual impurity of land outside of Eretz Yisrael is not by Torah law, it is a very ancient rabbinic decree. It is mentioned already in the Bible, with regard to those exiled from the Eretz Yisrael: “You shall die in an unclean land” (Amos<i> </i>7:17). The Sages, however, increased the severity of this ritual impurity. As for the reason for the decree, the early authorities discuss whether it is because they were concerned about unknown burial sites of Jews, or whether it was a decree in its own right, in order to emphasize the ritual purity of Eretz Yisrael.",
+              "he": "העירו המפרשים שלא היה צריך לומר כן, שהרי מפרש והולך את המשנה מראשיתה, אלא שלשון נזיר משונה, ויש בה שימושי לשון בלתי רגילים (רא\"ש, ר\"פ).",
+              "ref": "Steinsaltz comment #1 on Nazir 19b:9",
+              "sourceHeRef": "אֶרֶץ הָעַמִּים",
+              "sourceRef": "The land of the nations"
+            },
+            {
+              "en": "If it is only its actual earth that imparts impurity through contact and the airspace is pure, then it does not have the same severity of impurity as a corpse, which renders ritually impure anything found inside a structure with it. Therefore, the Sages were not as stringent in this case as with one who takes a vow of naziriteship while in a cemetery. This is the standard version of the text, and has been accepted by several early authorities.  However, there is a variant text that reads that Beit Shammai hold that the decree was with regard to the airspace. This means that anyone who passes through the land of the nations, even if he does not come into contact with its earth, such as one who travels in a chest, a box, or a cabinet, is nevertheless ritually impure. According to this reading, this impurity is not due to the presence of graves, as graves do not impart impurity in this way; rather, it is a special form of impurity. Therefore, the <i>halakha</i> of a nazirite outside of Eretz Yisrael is not like that of one who takes a vow of naziriteship while in a cemetery, whose days in the cemetery do not count as part of his tally (Rosh; see Rabbeinu Azriel and <i>Tosafot</i> on 20a). The text of the Gemara on the following page would also be modified according to this reading.",
+              "he": "טומאה זו שגזרו על ארץ העמים (כלומר, חוץ לארץ) אף שאינה מדברי תורה, מכל מקום היא גזירת חכמים קדומה ביותר, שהרי מצאנו כבר במקרא שעל הגולה מארץ ישראל נאמר \"על אדמה טמאה תמות\" (עמוס ז, יז). אלא שהחמירו חכמים והוסיפו טומאה על טומאתה. וכבר נחלקו ראשונים למצוא מה הוא המקור לטומאה זו, אם מפני חשש טומאת מת שיש בה במקומות רבים, או שהיא גזירה בפני עצמה, להבליט את טהרת ארץ ישראל.",
+              "ref": "Steinsaltz comment #2 on Nazir 19b:9",
+              "sourceHeRef": "מִשּׁוּם גּוּשָׁהּ",
+              "sourceRef": "With regard to its earth"
+            },
+            {
+              "en": "The Sages initially decreed that the status of ritual impurity applied only to the earth of the land of the nations, which meant that only one who walked there or touched or carried its earth became ritually impure. Later, they also decreed that its airspace would be ritually impure, so that even one who did not touch or carry the dirt, but merely entered his head and the majority of his body into the airspace of the land of nations was considered to be ritually impure (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>11:1).",
+              "he": "וכיון שרק גושה, כלומר אדמתה ממש, טמאה במגע ובמשא, ולא גזרו טומאה על אוירה, משמעה שאינה טומאה חמורה כטומאת מת ממש שמטמאה באוהל מה שמעליה — באוירה, ולכן לא החמירו בדבר כדין הנוזר בבית הקברות. זו היא הגרסה שלפנינו, וכן גרסו גם כמה מן הראשונים. אכן, יש גם גרסה הפוכה, שלדעת בית שמאי משום אוירא גזרו עליה. והכוונה שכל העובר בה, אפילו לא נגע בעפרה, אלא היה בחללה בלבד (כגון המהלך בשידה תיבה ומגדל), הריהו נטמא. ומכאן הוכחה שאין טומאה זו משום טומאת המת (שהרי בבית הקברות אינו נטמא בכגון זה), אלא טומאה מסוג מיוחד הוא שגזרו, ולכן אין דינו של הנזיר שם כדין הנוזר בבית הקברות שאין הימים ששהה שם עולים לו (רא\"ש, וראה בסגנון אחר קצת ברע\"ז ובתוס' בעמוד הבא). ולדרך זו משנים את הגרסה גם בהמשך הדברים. וראה עוד בגיטין ח, ב ב\"עיונים\".",
+              "ref": "Steinsaltz comment #3 on Nazir 19b:9",
+              "sourceHeRef": "מִשּׁוּם גּוּשָׁה גָּזְרוּ וכו׳",
+              "sourceRef": "They decreed with regard to its earth, etc."
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קתני רישא ב\"ש כו'</strong> - כל זה לא היה צריך דודאי ברישא קיימינן ולשון נזיר משונה:",
+              "ref": "Tosafot on Nazir 19b:9:1",
+              "sourceHeRef": "תוספות על נזיר י״ט ב:ט:א",
+              "sourceRef": "Tosafot on Nazir 19b:9:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b>The first clause</b> of the mishna <b>teaches</b> that <b><span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> say:</b> He must be <b>a nazirite</b> for <b>thirty days, and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> say:</b> He is <b>a nazirite from the beginning.</b> The Gemara suggests a possible explanation of their dispute: <b>Let us say that they disagree about this,</b> that <b><span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> hold</b> that when the Sages declared that the <b>land of the nations</b> outside of <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span> is impure, <b>they decreed</b> so <b>with regard to its earth.</b> In other words, they decreed that only the earth of the land of the nations is impure, but its airspace remains pure. If so, it is not a severe level of ritual impurity, and one who observed a vow of naziriteship outside of <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span> is not considered to be impure to the extent that he would be required to start his naziriteship afresh once entering <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>,",
+      "he": "<big><strong>גְּמָ׳</strong></big> קָתָנֵי רֵישָׁא: בֵּית שַׁמַּאי אוֹמְרִים: נָזִיר שְׁלֹשִׁים יוֹם, וּבֵית הִלֵּל אוֹמְרִים: נָזִיר בַּתְּחִלָּה. לֵימָא בְּהָא קָמִיפַּלְגִי, דְּבֵית שַׁמַּאי סָבְרִי: אֶרֶץ הָעַמִּים מִשּׁוּם גּוּשָׁהּ גָּזְרוּ עָלֶיהָ,",
+      "ref": "Nazir 19b:9",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Nazir 19b",
+  "titleHebrew": "נזיר יט,ב",
+  "topics": []
+}

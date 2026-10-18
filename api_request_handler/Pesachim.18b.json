@@ -1,0 +1,925 @@
+{
+  "id": "18b",
+  "sections": [
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>GEMARA:</strong> <b>The mishna is not in accordance with</b> the opinion of <b>Rabbi Shimon ben Menasya, as it is taught</b> in a <i>baraita</i>: With regard to <b>a non-sacred ox that gored a consecrated ox, or a consecrated</b> ox <b>that gored a non-sacred ox,</b> the owner of the ox is <b>exempt</b> from liability, <b>as it is stated: “The ox of another,”</b> indicating: <b>But not a consecrated ox. Rabbi Shimon ben Menasya says:</b> With regard to <b>a consecrated ox that gored a non-sacred ox,</b> the Temple treasury is <b>exempt</b> from liability; <b>but</b> with regard to <b>a non-sacred</b> ox <b>that gored a consecrated ox, whether</b> it was <b>innocuous or forewarned,</b> the owner <b>pays the full</b> cost of the <b>damage.</b>",
+                  "The Sages <b>said: What does Rabbi Shimon</b> ben Menasya <b>hold?</b> Why does he distinguish between a consecrated ox that gored a non-sacred ox and a non-sacred ox that gored a consecrated ox? <b>If</b> the phrase <b>“of another”</b> is meant in <b>a precise</b> manner, then <b>even</b> with regard to <b>a non-sacred</b> ox <b>that gored a consecrated ox</b> the owner of the belligerant ox <b>should be exempt</b> from liability, as the victim is not the ox of another, but belongs to the Temple treasury. <b>And if</b> the phrase <b>“of another”</b> is <b>not</b> meant in <b>a precise</b> manner, but rather, includes all oxen, then <b>a consecrated</b> ox <b>that gored a non-sacred</b> ox <b>should render</b> the Temple treasury <b>liable as well.</b>",
+                  "<b>And if you would say</b> that <b>actually</b> Rabbi Shimon ben Menasya <b>holds</b> that <b>“of another”</b> is meant in <b>a precise</b> manner, and accordingly, if a consecrated ox gores a non-sacred ox the Temple treasury is exempt from liability; <b>but nevertheless, when a non-sacred</b> ox <b>gores a consecrated</b> ox, <b>this is the reason</b> its owner <b>is liable: Because</b> Rabbi Shimon ben Menasya <b>infers it <i>a fortiori</i> from</b> the case of <b>a non-sacred</b> ox, as follows: <b>If</b> in the case of <b>a non-sacred</b> ox <b>that gores</b> another <b>non-sacred</b> ox the owner of the belligerent ox <b>is liable,</b> is it <b>not</b> clear <b>all the more so that when it gores a consecrated</b> ox the owner of the ox <b>is liable?</b>",
+                  "If this is Rabbi Shimon ben Menasya’s reasoning, then his ruling that the owner of the ox pays the Temple treasury the full cost of the damage, whether his ox was innocuous or forewarned, is problematic, as <b>it is sufficient for the</b> conclusion that <b>emerges from</b> an <i>a fortiori</i> <b>inference to be like</b> its <b>source.</b> In other words, a <i>halakha</i> derived by means of an <i>a fortiori</i> inference cannot be more stringent than the <i>halakha</i> of the source from which it is derived. Therefore, <b>just as there,</b> in a case where an individual’s <b>innocuous</b> non-sacred ox gores another non-sacred ox, the owner pays only <b>half</b> the cost of <b>the damage, here too,</b> if an innocuous non-sacred ox gores a consecrated ox, its owner should be liable to pay only <b>half</b> the cost of <b>the damage.</b>",
+                  "<b>Rather, Reish Lakish said</b> that Rabbi Shimon ben Menasya’s reasoning is as follows: In principle, <b>all</b> cases of damage <b>were included</b> among those <b>in</b> which the owner pays the <b>full</b> cost of the <b>damage.</b> The <i>halakha</i> that in a case of an innocuous ox the owner pays only half the cost of the damage is an exception to the rule, and <b>when the verse specified</b> the term <b>“of another” with regard to an innocuous</b> ox, it intended <b>that</b> it <b>is</b> specifically when one’s <b>innocuous</b> ox gores the ox of <b>another</b> that the owner <b>pays</b> only <b>half</b> the cost of <b>the damage.</b> And <b>by inference,</b> if it gores <b>a consecrated</b> ox, <b>whether</b> the belligerent ox <b>is innocuous or forewarned</b> its owner <b>pays the full</b> cost of the <b>damage.</b>"
+                ],
+                [
+                  "<b>Because if so,</b> if one whose ox gores a consecrated ox is exempt from liability, <b>let the verse write this</b> phrase: <b>“Of another,” with regard to</b> the case of <b>a forewarned</b> ox. One could then infer that the owner is exempt from liability in the case of an innocuous ox as well, as the liability with regard to an innocuous ox is less severe than with regard to a forewarned ox. The stating of this exemption specifically in the context of an innocuous ox indicates that the exemption is only concerning the leniency stated in the verse, that if the gored ox belongs to another person, the owner of the belligerent ox is liable to pay only half the cost of the damage."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Kamma 37b:13",
+                "Bava Kamma 37b:14",
+                "Bava Kamma 37b:15",
+                "Bava Kamma 37b:16",
+                "Bava Kamma 37b:17",
+                "Bava Kamma 38a:1"
+              ],
+              "he": [
+                [
+                  "<big><strong>גּמ׳</strong></big> מַתְנִיתִין דְּלָא כְּרַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא, דְּתַנְיָא: שׁוֹר שֶׁל הֶדְיוֹט שֶׁנָּגַח שׁוֹר שֶׁל הֶקְדֵּשׁ, וְשֶׁל הֶקְדֵּשׁ שֶׁנָּגַח שׁוֹר שֶׁל הֶדְיוֹט – פָּטוּר, שֶׁנֶּאֱמַר: ״שׁוֹר רֵעֵהוּ״ – וְלֹא שׁוֹר שֶׁל הֶקְדֵּשׁ. רַבִּי שִׁמְעוֹן בֶּן מְנַסְיָא אוֹמֵר: שׁוֹר שֶׁל הֶקְדֵּשׁ שֶׁנָּגַח שׁוֹר שֶׁל הֶדְיוֹט – פָּטוּר; וְשֶׁל הֶדְיוֹט שֶׁנָּגַח שׁוֹר שֶׁל הֶקְדֵּשׁ – בֵּין תָּם בֵּין מוּעָד, מְשַׁלֵּם נֶזֶק שָׁלֵם.",
+                  "אָמְרִי: מַאי קָא סָבַר רַבִּי שִׁמְעוֹן? אִי ״רֵעֵהוּ״ דַּוְקָא – אֲפִילּוּ שֶׁל הֶדְיוֹט שֶׁנָּגַח שֶׁל הֶקְדֵּשׁ לִיפְּטַר! וְאִי ״רֵעֵהוּ״ לָאו דַּוְקָא – אֲפִילּוּ דְּהֶקְדֵּשׁ נָמֵי, כִּי נָגַח דְּהֶדְיוֹט לִיחַיַּיב!",
+                  "וְכִי תֵּימָא: לְעוֹלָם קָסָבַר ״רֵעֵהוּ״ דַּוְקָא, וּמִיהוּ דְּהֶדְיוֹט כִּי נָגַח דְּהֶקְדֵּשׁ הַיְינוּ טַעְמָא דְּמִיחַיַּיב – מִשּׁוּם דְּקָא מַיְיתֵי לֵיהּ מִקַּל וָחוֹמֶר דְּהֶדְיוֹט: וּמָה הֶדְיוֹט שֶׁנָּגַח שֶׁל הֶדְיוֹט – חַיָּיב, כִּי נָגַח דְּהֶקְדֵּשׁ – לֹא כׇּל שֶׁכֵּן דְּמִיחַיַּיב?",
+                  "דַּיּוֹ לַבָּא מִן הַדִּין – לִהְיוֹת כַּנִּדּוֹן! מָה לְהַלָּן – תָּם חֲצִי נֶזֶק, הָכָא נָמֵי חֲצִי נֶזֶק!",
+                  "אֶלָּא אָמַר רֵישׁ לָקִישׁ: הַכֹּל הָיוּ בִּכְלַל נֶזֶק שָׁלֵם; כְּשֶׁפָּרַט לְךָ הַכָּתוּב: ״רֵעֵהוּ״ גַּבֵּי תָם – רֵעֵהוּ הוּא דְּתָם מְשַׁלֵּם חֲצִי נֶזֶק; מִכְּלָל דְּהֶקְדֵּשׁ – בֵּין תָּם בֵּין מוּעָד מְשַׁלֵּם נֶזֶק שָׁלֵם;"
+                ],
+                [
+                  "דְּאִם כֵּן, נִכְתּוֹב קְרָא לְהַאי ״רֵעֵהוּ״ גַּבֵּי מוּעָד."
+                ]
+              ],
+              "link": "/Bava Kamma/37b",
+              "originalRefsBeforeRewriting": [
+                "Bava Kamma 37b:15",
+                "Bava Kamma 37b:16"
+              ],
+              "ref": "Bava Kamma 37b:13-38a:1",
+              "sourceHeRef": "בבא קמא ל״ז ב",
+              "sourceRef": "Bava Kamma 37b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומשני משקין הבאין מחמת שרץ מי כתיבי</strong> - באוריית' ממשקין מחמת כלי הוא דאתו ומה כו' וכיון דמינייהו הוא דילפי דיו למשקין שנגעו בשרץ הבאין מן הדין דמשקין שנגעו בכלי להיות כנדון מה אלו אין מטמאין כלי אף אלו אין מטמאין כלי:",
+              "ref": "Rashi on Pesachim 18b:1:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:א:א",
+              "sourceRef": "Rashi on Pesachim 18b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ולאו</b> <span class=\"hebrew-emphasis\">[ו</span>כי <span class=\"hebrew-emphasis\">לא]</span> <b>מקל וחומר קאתי</b> <span class=\"hebrew-emphasis\">[בא],</span> ובדרך זו: <b>ומה משקין הבאין</b> לטומאתן <b>מחמת כלי</b> שנטמא מן השרץ — <b>מטמאין, משקין הבאין</b> לטומאה <b>מחמת שרץ — לא כל שכן</b> שיטמאו אף כלי!",
+              "ref": "Steinsaltz on Pesachim 18b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:א",
+              "sourceRef": "Steinsaltz on Pesachim 18b:1"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולאו מק\"ו קאתי ומה משקין הבאין מחמת כלי</strong> - וא\"ת נילף מק\"ו דאוכל ומה אוכל הבא מחמת שרץ מטמא משקין שרץ גופיה לא כל שכן והשתא נימא דבין משקין ובין אוכל מטמא כלי וי\"ל דע\"כ אין אוכל מטמא כלי אפילו בא מחמת שרץ מק\"ו דמשקין הבאין מחמת כלי שמטמא אוכל ואין מטמא כלי אוכל הבא מחמת שרץ שאין מטמא אוכל [מהוא טמא] אינו דין שלא יטמא כלי:",
+              "ref": "Tosafot on Pesachim 18b:1:1",
+              "sourceHeRef": "תוספות על פסחים י״ח ב:א:א",
+              "sourceRef": "Tosafot on Pesachim 18b:1:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And doesn’t</b> the impurity of liquids that came into contact with a creeping animal <b>come from an <i>a fortiori</i></b> inference: <b>Just as liquids that come to</b> a state of impurity <b>due to</b> contact with <b>a vessel,</b> which itself became impure due to contact with a creeping animal, <b>transmit impurity,</b> with regard to <b>liquids that come to</b> a state of impurity <b>due to</b> contact with <b>a creeping animal, all the more so</b> is it <b>not</b> clear that they transmit impurity to a vessel?",
+      "he": "וְלָאו מִקַּל וָחוֹמֶר קָאָתֵי: וּמָה מַשְׁקִין הַבָּאִין מֵחֲמַת כְּלִי — מְטַמְּאִין, מַשְׁקִין הַבָּאִין מֵחֲמַת שֶׁרֶץ — לֹא כׇּל שֶׁכֵּן!",
+      "ref": "Pesachim 18b:1"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אך מאחר שעיקר דין משקים אלה נלמד בקל וחומר, אין להוסיף חומרה במשקים שנטמאו מחמת שרץ, על פי הכלל: <b>דיו לבא מן הדין להיות כנדון,</b> כלומר: דבר הנלמד מקל וחומר אין להחמיר בו יותר מן הדבר שממנו הוא נלמד, ולכן משקים הבאים מחמת שרץ מטמאים רק כמשקים הבאין מחמת כלי.",
+              "ref": "Steinsaltz on Pesachim 18b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:ב",
+              "sourceRef": "Steinsaltz on Pesachim 18b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This halakhic principle, referred to in shorthand as <i>dayyo</i>, restricts the conclusion that may be derived from an <i>a fortiori </i>inference. It prevents establishing limitless leniencies or stringencies from an <i>a fortiori </i>inference by creating parameters for its implementation. <i>Dayyo </i>is an extension of another principle: If you grasped the maximum, you did not grasp the proper interpretation; if you grasped the minimum, you grasped the proper interpretation. The principle of <i>dayyo</i> establishes that an <i>a fortiori</i> inference teaches in the following manner: Just as X is more stringent than Y with regard to point A, X is no less stringent than Y with regard to point B. It does not teach: Just as X is more stringent than Y with regard to point A, X is similarly more stringent than Y with regard to point B. If that were the case, there would be no limits to the conclusion derived from the inference.",
+              "he": "כלל הלכתי זה (בקצור \"דיו\") הוא הכלל המגביל את מדת \"קל וחומר\". שעל ידי הלימוד ב\"קל וחומר\". לא יווצר מצב של דרישות בלתי מוגבלות כאשר אין יודעים מה הוא תחום ההקלה או ההחמרה האפשרית. לעומת זאת ה\"דיו\" הוא בבחינה מסויימת שמירת האיזון. על פי הכלל של \"תפסת מרובה לא תפסת, תפסת מועט תפסת\" שעל ידי כך מבטיחים כי אין הקל וחומר חורג מתחומו כלל.",
+              "ref": "Steinsaltz comment #1 on Pesachim 18b:2",
+              "sourceHeRef": "דַּיּוֹ לַבָּא מִן הַדִּין לִהְיוֹת כַּנִּדּוֹן",
+              "sourceRef": "It is sufficient [<i>dayyo</i>] for the conclusion that emerged from the <i>a fortiori</i>"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דיו לבא מן הדין להיות כנדון</strong> - הקשה הרב רבי יעקב דאורלינ\"ש אם כן יהיו משקין הבאין מחמת שרץ שניים כמשקין הבאין מחמת כלי ואהני קל וחומר דמטמו ואהני דיו דהוו שניים דכה\"ג אמרינן בכיצד הרגל <span class=\"parenthesized\">(ב\"ק כה:)</span> גבי קל וחומר דמפץ במת לימא אהני קל וחומר לטומאת ערב ואהני דיו לאפוקי מטומאת ז' וגבי קרן בחצר הניזק אמרינן נמי אהני קל וחומר לנזק שלם ואהני דיו למגופו ואומר ר\"י דלא קשה דהכא לא אשכחן מידי שנגע בשרץ שלא יהיה ראשון הלכך אין לחלק אבל גבי מת אשכחן דבר הנוגע בו שלא יהיה אלא ראשון כגון אוכלים וכלי חרס ונזק שלם מגופו תרי מילי נינהו אבל אין לתרץ משום דאיכא למימר ק\"ו הכי ומה אדם וכלים שאין מיטמא מאויר כלי חרס מיטמא משרץ משקין שמיטמא מאויר כלי חרס לא כל שכן שמיטמא משרץ דהשתא נמי איכא למימר דיו כדמוכח בכיצד הרגל <span class=\"parenthesized\">(שם)</span>:",
+              "ref": "Tosafot on Pesachim 18b:2:1",
+              "sourceHeRef": "תוספות על פסחים י״ח ב:ב:א",
+              "sourceRef": "Tosafot on Pesachim 18b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: Since the basic <i>halakha</i> of these liquids is derived by means of an <i>a fortiori</i> inference, no stringencies are added to it, in accordance with the principle: <b>It is sufficient [<i>dayyo</i>]</b> for the conclusion that <b>emerged from the</b> <i>a fortiori</i> <b>inference</b> to <b>be like the source of the inference.</b> In other words, a <i>halakha</i> derived by means of an <i>a fortiori</i> inference is no more stringent than the source from which it is derived. In this case, liquid that became impure through contact with a creeping animal transmits impurity to the same extent that liquid that became impure through contact with a vessel does.",
+      "he": "דַּיּוֹ לַבָּא מִן הַדִּין לִהְיוֹת כַּנִּדּוֹן.",
+      "ref": "Pesachim 18b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בפירש\"י</b> בד\"ה יטמא דרישא כו' אלא משום כו' ואימא הנ\"מ אוכל הבא מחמת כלי כו' נראה לקיים פירושו שנתכוין כדברי התוס' דאוכל [הבא] מחמת שרץ בהדיא כתיב בקרא אפילו לטמא אחרים דמדכתיב טמא הוא למעט דאין עושה כיוצא בו שמעינן דמשקה מטמא וכפרש\"י לעיל ומהרש\"ל לא הבין מפרש\"י כן וק\"ל:",
+                      "ref": "Chidushei Halachot on Pesachim 18b:4",
+                      "sourceHeRef": "חדושי הלכות על פסחים י״ח ב:ד",
+                      "sourceRef": "Chidushei Halachot on Pesachim 18b:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יטמא דרישא</strong> - גבי אוכל היכי דריש ליה ר\"ע:",
+              "ref": "Rashi on Pesachim 18b:3:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:ג:א",
+              "sourceRef": "Rashi on Pesachim 18b:3:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>עליל</big></b> [געאייגניט] <span class=\"parenthesized\">(פסחים יח)</span> יטמא לטמא את המשקין שהן עלולין לקבל טומאה. מן חרורין ומן עלולי כבר פי' בערך טצהר. זה מערך על שלישי:",
+              "ref": "Sefer HeArukh, Letter Ayin 128",
+              "sourceHeRef": "ספר הערוך, אות העי\"ן קכ״ח",
+              "sourceRef": "Sefer HeArukh, Letter Ayin 128"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>\"יטמא\" דרישא היכי דריש</b> <span class=\"hebrew-emphasis\">[שבתחילת</span> הפסוק <span class=\"hebrew-emphasis\">כיצד דורשו</span> ר' עקיבא<span class=\"hebrew-emphasis\">]?</span> <b>\"מכל האכל אשר יאכל אשר יבא עליו מים יטמא\"</b> (ויקרא יא, לד), ונלמד: <b>יטמא</b> — כלומר, <b>לטמא את המשקין. אתה אומר</b> שאפשר ללמוד מכאן <b>לטמא את המשקין, או אינו</b> בא ללמד <b>אלא לטמא את הכלי?</b>",
+              "ref": "Steinsaltz on Pesachim 18b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:ג",
+              "sourceRef": "Steinsaltz on Pesachim 18b:3"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "As to any food that may be eaten, it shall become unclean if it came in contact with water; as to any liquid that may be drunk, it shall become unclean if it was inside any vessel.",
+              "he": "מִכׇּל־הָאֹ֜כֶל אֲשֶׁ֣ר יֵאָכֵ֗ל אֲשֶׁ֨ר יָב֥וֹא עָלָ֛יו מַ֖יִם יִטְמָ֑א וְכׇל־מַשְׁקֶה֙ אֲשֶׁ֣ר יִשָּׁתֶ֔ה בְּכׇל־כְּלִ֖י יִטְמָֽא׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:34",
+              "sourceHeRef": "ויקרא יא:לד",
+              "sourceRef": "Leviticus 11:34"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>How does</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>interpret</b> the term: <b>Shall be impure, in the first</b> portion of the verse: <b>“From all food which may be eaten, upon which water has come, shall be impure”</b> (Leviticus 11:34)? He interprets the term: <b>Shall be impure,</b> as: Shall render impure. Food <b>transmits ritual impurity to liquids.</b> Do <b>you say</b> that the term teaches that food <b>transmits impurity to liquids, or perhaps</b> the term teaches <b>only</b> that food <b>transmits impurity to a vessel?</b>",
+      "he": "״יִטְמָא״ דְּרֵישָׁא הֵיכִי דָּרֵישׁ? ״מִכׇּל הָאֹכֶל אֲשֶׁר יֵאָכֵל אֲשֶׁר יָבוֹא עָלָיו מַיִם יִטְמָא״, יִטְמָא — לְטַמֵּא אֶת הַמַּשְׁקִין. אַתָּה אוֹמֵר לְטַמֵּא אֶת הַמַּשְׁקִין, אוֹ אֵינוֹ אֶלָּא לְטַמֵּא אֶת הַכְּלִי?",
+      "ref": "Pesachim 18b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> בד\"ה משקה שמטמא כו' וניחא ליה למילף ממשקה כו'. נ\"ב קצת משמע שיכול שפיר לסיים ולגמור הק\"ו ההוא ולהשיב אח\"כ אוכל הבא מחמת כלי מי כתיב כו' אלא דיו כו' אלא דניחא ליה לתלמודא לקצר כך הוא משמע ואינו כן דהא אוכל משרץ בהדיא כתיב בקרא וכן הוא בתוס' <span class=\"parenthesized\">(עיין במהרש\"א)</span>:",
+                      "ref": "Chokhmat Shlomo on Pesachim 18b:1",
+                      "sourceHeRef": "חכמת שלמה על פסחים י״ח ב:א",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 18b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משקה שמטמא אוכל</strong> - כדאמרן לעיל אינו מטמא כלי כדאמרן אוכל שאין מטמא אוכל דאין טומאה עושה כיוצא בה אינו דין כו' והוא הדין דמצי למימר נמי קל וחומר מיניה וביה כדאמרן גבי משקין דנימא הכי מה כלי שמטמא את האוכל הזה אינו מטמא כלי אוכל שבא מחמת כלי כו' אלא משום דהדר מצטריך ליה למימר כדלעיל ואימא הני מילי אוכל הבא מחמת כלי אבל אוכל הבא מחמת שרץ לטמא כלי וניחא ליה למילף ממשקה דאוקימנא בהו דלא שנא נגעו בשרץ לא שנא נטמאו מן הכלי לא מטמאו כלי:",
+              "ref": "Rashi on Pesachim 18b:4:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:ד:א",
+              "sourceRef": "Rashi on Pesachim 18b:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמרת קל וחומר</b> לשלול אפשרות זו: <b>ומה משקה</b> שיפה כוחו <b>שמטמא אוכל,</b> בכל זאת <b>אינו מטמא כלי. אוכל שאין מטמא אוכל — אינו דין שלא יטמא כלי. הא מה אני מקיים \"יטמא\"</b> שמשמעו שמוסיף טומאה גם למשהו אחר — <b>לטמא את המשקין שהן עלולין לקבל טומאה,</b> כלומר הם רגישים ומסוגלים לקבלת הטומאה.",
+              "ref": "Steinsaltz on Pesachim 18b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:ד",
+              "sourceRef": "Steinsaltz on Pesachim 18b:4"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b>You</b> can <b>say an <i>a fortiori</i></b> inference that negates this possibility: <b>Just as liquid, which transmits impurity to food, does not transmit impurity to a vessel,</b> with regard to <b>food, which does not transmit impurity to food, is it not right that it</b> should <b>not transmit impurity to a vessel?</b> If so, <b>how</b> then <b>do I establish</b> the meaning of the term: <b>Shall be impure,</b> which in this context indicates that food impurifies other items? This term indicates that food <b>transmits impurity to liquids, which are susceptible to contracting impurity.</b>",
+      "he": "אָמַרְתָּ קַל וָחוֹמֶר: וּמָה מַשְׁקֶה שֶׁמְּטַמֵּא אוֹכֶל — אֵינוֹ מְטַמֵּא כְּלִי, אוֹכֶל שֶׁאֵין מְטַמֵּא אוֹכֶל — אֵינוֹ דִּין שֶׁלֹּא יְטַמֵּא כְּלִי?! הָא מָה אֲנִי מְקַיֵּים ״יִטְמָא״ — לְטַמֵּא אֶת הַמַּשְׁקִין שֶׁהֵן עֲלוּלִין לְקַבֵּל טוּמְאָה.",
+      "ref": "Pesachim 18b:4"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "על הוכחה זו שואלים: <b>מאי איריא</b> <span class=\"hebrew-emphasis\">[מה שייך,</span> מדוע שנה<span class=\"hebrew-emphasis\">]</span> <b>משקין משום</b> ש<b>עלולין לקבל טומאה, תיפוק ליה</b> <span class=\"hebrew-emphasis\">[תצא לו]</span> הוכחה זו מטעם אחר <b>משום דליכא מידי אחרינא</b> <span class=\"hebrew-emphasis\">[שאין דבר אחר]</span> שיטמא, שאם אוכל אינו מטמא אוכל, לא נותר אלא שיטמא משקים!",
+              "ref": "Steinsaltz on Pesachim 18b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:ה",
+              "sourceRef": "Steinsaltz on Pesachim 18b:5"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>Why did</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> mention <b>specifically</b> that food impurifies <b>liquids due to</b> the fact that <b>they are susceptible to contracting impurity? Let him derive</b> this proof from the simple fact <b>that there is no other item</b> that food could render impure. As food does not transmit impurity to food, the only remaining alternative is that food impurifies liquids.",
+      "he": "מַאי אִירְיָא מַשְׁקִין מִשּׁוּם דַּעֲלוּלִין לְקַבֵּל טוּמְאָה, תִּיפּוֹק לֵיהּ מִשּׁוּם דְּלֵיכָּא מִידֵּי אַחֲרִינָא!",
+      "ref": "Pesachim 18b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכי תימא אוכל חמור</strong> - ממשקה דאילו משקה אין מטמא משקה ואילו אוכל קאמרת מטמא משקה הלכך אע\"ג דאין משקה מטמא כלי יהא אוכל מטמא כלי:",
+              "ref": "Rashi on Pesachim 18b:6:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:ו:א",
+              "sourceRef": "Rashi on Pesachim 18b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ההוא</strong> - דאוקימנא האי יטמא דאוכל לטמא משקה חומרא דמשקין היא דעלולין לקבל טומאה:",
+              "ref": "Rashi on Pesachim 18b:6:2",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:ו:ב",
+              "sourceRef": "Rashi on Pesachim 18b:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומתרצים: <b>הכי קאמר</b> <span class=\"hebrew-emphasis\">[כך אמר,</span> כך יש להבין<span class=\"hebrew-emphasis\">],</span> <b>וכי תימא</b> <span class=\"hebrew-emphasis\">[ואם תאמר]</span> <b>אוכל</b> כיון ש<b>חמור</b> כח טומאתו, שכן הוא <b>מטמא משקין</b> אף שמשקים עצמם אינן מטמאים משקים, אם כן אף <b>ניטמייה</b> <span class=\"hebrew-emphasis\">[יטמא]</span> <b>לכלי,</b> אף שאין המשקה מטמא כלי. על כן מסבירים כי <b>ההוא</b> <span class=\"hebrew-emphasis\">[דבר זה]</span> שמטמא משקים <b>חומרא</b> של <b>משקין הוא.</b> שאין להבין שבאוכל יש טומאה חמורה, אלא <b>משום</b> רגישותם של ה<b>משקין</b> לטומאה כי הם <b>עלולין לקבל טומאה.</b>",
+              "ref": "Steinsaltz on Pesachim 18b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:ו",
+              "sourceRef": "Steinsaltz on Pesachim 18b:6"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה וכ\"ת אוכל כו' ה\"מ למילף דאין כו' ומה כלי שמטמא אוכל אין מטמא כלי כו' עכ\"ל מהאי ק\"ו ה\"מ למילף נמי לעיל דמשקה אין מטמא כלי ומה כלי שמטמא משקה אין מטמא כלי משקה שאין מטמא משקה א\"ד שלא יטמא כלי אלא דק\"ו דלעיל אלים ליה טפי שהוא בא מכחו ואינו דין שיהא חמור ממנו משא\"כ בק\"ו דהכא אדרבה ניחא טפי למילף אוכל מכלי גופיה מדניליף ממשקה ודו\"ק:",
+                      "ref": "Chidushei Halachot on Pesachim 18b:6",
+                      "sourceHeRef": "חדושי הלכות על פסחים י״ח ב:ו",
+                      "sourceRef": "Chidushei Halachot on Pesachim 18b:6"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכי תימא אוכל חמור דמטמא משקין</strong> - הוי מצי למילף דאין אוכל מטמא כלי מקל וחומר ומה כלי שמטמא אוכל אין מטמא כלי אוכל שאינו מטמא אוכל אינו דין שלא יטמא כלי:",
+              "ref": "Tosafot on Pesachim 18b:6:1",
+              "sourceHeRef": "תוספות על פסחים י״ח ב:ו:א",
+              "sourceRef": "Tosafot on Pesachim 18b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers that <b>this is</b> what <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>is saying: And lest you say</b> that the impurity of <b>food is severe,</b> as evidenced by the fact <b>that</b> it <b>transmits ritual impurity to liquids</b> despite the fact that liquids do not transfer impurity to other liquids, and therefore <b>let</b> food <b>transmit impurity to a vessel,</b> despite the fact that liquid does not transmit impurity to a vessel; therefore, the Gemara states <b>that</b> the fact that food transmits impurity to liquids <b>is</b> actually <b>a stringency</b> characteristic of <b>liquids,</b> not of food. The impurity of food is not more severe than that of liquids; rather, food transmits impurity to liquids <b>due to</b> the fact <b>that liquids</b> are <b>susceptible to contracting impurity.</b>",
+      "he": "הָכִי קָאָמַר: וְכִי תֵּימָא אוֹכֶל חָמוּר, דִּמְטַמֵּא מַשְׁקִין, נִיטַמְּיֵיהּ לִכְלִי. הַהוּא חוּמְרָא דְמַשְׁקִין הוּא, מִשּׁוּם דְּמַשְׁקִין עֲלוּלִין לְקַבֵּל טוּמְאָה.",
+      "ref": "Pesachim 18b:6"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ומה היא עלילתן</b> <span class=\"hebrew-emphasis\">[</span>אותה <span class=\"hebrew-emphasis\">רגישות שבהם]</span> — <b>שמקבלין טומאה שלא בהכשר,</b> שהרי דבר מאכל אינו מקבל טומאה אלא אם כן היו עליו קודם מים או שאר משקים, שהכשירוהו לקבל טומאה. אבל משקים אינם צריכים כל הכשר לקבלת טומאה.",
+              "ref": "Steinsaltz on Pesachim 18b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:ז",
+              "sourceRef": "Steinsaltz on Pesachim 18b:7"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומהו עלילותן שמקבלין טומאה בלא הכשר</strong> - תימה לר\"י דאכתי לא הוי קל וחומר דהא עלילותן לא מהני להו לקבל טומאה ממשקין ולענין אוכל מהני להו א\"כ אוכל חמור ולעיל דיליף דמשקה לא מטמא כלי לא מצי למילף בק\"ו מאוכל שמטמא משקה ואין מטמא כלי משקה דלא מטמא משקה לא כ\"ש דהיא גופא מנלן דאוכל לא מטמא כלי ועוד דמשקין חמור מאוכל דמטמא אוכל והכא לא מצי למיעבד ק\"ו כדלעיל דמה כלי שמטמא אוכל אין מטמא כלי אוכל הבא מחמת כלי לא כ\"ש דמ\"מ אוכל הבא מחמת שרץ מנלן:",
+              "ref": "Tosafot on Pesachim 18b:7:1",
+              "sourceHeRef": "תוספות על פסחים י״ח ב:ז:א",
+              "sourceRef": "Tosafot on Pesachim 18b:7:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> in <b>what</b> manner <b>is their susceptibility</b> manifest? It is manifest in the fact <b>that they become ritually impure without</b> being first rendered <b>susceptible</b> to impurity. Foods can become impure only after first coming into contact with one of seven liquids. Liquids do not require any preparatory stage before becoming impure.",
+      "he": "וּמָה הִיא עֲלִילָתָן — שֶׁמְּקַבְּלִין טוּמְאָה שֶׁלֹּא בְּהֶכְשֵׁר.",
+      "ref": "Pesachim 18b:7"
+    },
+    {
+      "commentary": {
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בגמ'</b> יטמא שאין עושה כיוצא בה וכו' לפירוש <span class=\"rashi-quotation\">הקונטרס</span> קאי קושיא זו ארב פפא דמשני לעיל לא מצינו טומאה שעושה כיוצא בה ופירש\"י משום דקרינן יטמא וכו' ולפירוש התוס' קאי קושיא זו ארבינא דאמר גופיה דקרא וכו' מיתורא דיטמא יטמא ב' פעמים ולא משום דכתיב טמא הוא ומכח זה מוכרח דיטמא דרישא במשקין וא\"כ יטמא דסיפא באוכלין דאל\"כ לערבינהו כו' כמו שפירש\"י אלא בלאו הכי מיתורא דיטמא ילפינן דאין טומאה עושה כיוצא בה:",
+              "ref": "Maharam on Pesachim 18b:1",
+              "sourceHeRef": "מהר\"ם על פסחים י״ח ב:א",
+              "sourceRef": "Maharam on Pesachim 18b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יטמא דאין עושה כיוצא בה</strong> - כלומר השתא דרשינן יטמא יטמא והאי דקרינן בתרוייהו יטמא ללמדך מיעוט דאין מטמא כיוצא בו כגון אוכל אוכל ומשקה משקה:",
+              "ref": "Rashi on Pesachim 18b:8:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:ח:א",
+              "sourceRef": "Rashi on Pesachim 18b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הוא</strong> - מיעוטא ואוכל דכוותיה קא ממעט:",
+              "ref": "Rashi on Pesachim 18b:8:2",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:ח:ב",
+              "sourceRef": "Rashi on Pesachim 18b:8:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חד</strong> - למעוטי משקין הבאין מחמת שרץ אע\"ג דלא כתיבי בהאי קרא משקין דכי יותן מים על זרע וגו' דמשמע אפילו שנגע בהן שרץ לאחר שניגבו מיהו גלי באוכל והוא הדין למשקה:",
+              "ref": "Rashi on Pesachim 18b:8:3",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:ח:ג",
+              "sourceRef": "Rashi on Pesachim 18b:8:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחד במשקין הבאין מחמת כלי</strong> - ההוא יטמא דלעיל איירי בבאין מחמת כלי:",
+              "ref": "Rashi on Pesachim 18b:8:4",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:ח:ד",
+              "sourceRef": "Rashi on Pesachim 18b:8:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: כיון שחזר הכתוב והדגיש \"יטמא\" ולמדנו מכאן ש<b>יטמא</b> כוונתו — ש<b>אין עושה</b> טומאה <b>כיוצא בה</b> שאין אוכל מטמא אוכל וכו', האם <b>מהכא נפקא</b> <span class=\"hebrew-emphasis\">[מכאן</span> מפסוק זה, היא <span class=\"hebrew-emphasis\">יוצאת,</span> נלמדת<span class=\"hebrew-emphasis\">]?</span> הרי <b>מהתם נפקא</b> <span class=\"hebrew-emphasis\">[משם</span> היא <span class=\"hebrew-emphasis\">יוצאת</span> נלמדת<span class=\"hebrew-emphasis\">]</span> שנאמר <b>\"וכי יתן מים על זרע ונפל מנבלתם עליו טמא הוא</b> לכם<b>\"</b> (ויקרא יא, לח), ומדקדקים מן ההדגשה \"הוא\", שמשמעו: <b>הוא</b> עצמו <b>טמא, ו</b>אולם <b>אין עושה טומאה כיוצא בה,</b> ולשם מה אם כן צריך הדגשה נוספת לאותו ענין? ומתרצים: יש צורך בשני לימודים, <b>אחד</b> בא ללמדנו הלכה זו <b>במשקין הבאין</b> לטומאה <b>מחמת שרץ</b> שנגעו בו, והאחר <b>במשקין הבאין</b> לטומאה <b>מחמת כלי</b> טמא שנגעו בו.",
+              "ref": "Steinsaltz on Pesachim 18b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:ח",
+              "sourceRef": "Steinsaltz on Pesachim 18b:8"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "but if water is put on the seed and any part of a carcass falls upon it, it shall be unclean for you.",
+              "he": "וְכִ֤י יֻתַּן־מַ֙יִם֙ עַל־זֶ֔רַע וְנָפַ֥ל מִנִּבְלָתָ֖ם עָלָ֑יו טָמֵ֥א ה֖וּא לָכֶֽם׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:38",
+              "sourceHeRef": "ויקרא יא:לח",
+              "sourceRef": "Leviticus 11:38"
+            }
+          ]
+        }
+      },
+      "en": "<b>Is</b> the principle: <b>Shall be impure</b> teaches <b>that</b> ritual impurity <b>does not render a similar</b> item impure, e.g., that food does not transfer ritual impurity to other food, <b>derived from here?</b> It is <b>derived from there: “But if water is put upon the seed, and any of their carcass falls upon it, it is impure for you”</b> (Leviticus 11:38), from which it is inferred: <b>It is impure;</b> however, <b>it does not transmit impurity</b> to a <b>similar</b> item. Why is an additional source necessary to teach this same principle? The Gemara explains: Both verses are necessary, as <b>one</b> refers <b>to liquids that come to</b> a state of impurity <b>due to</b> contact with <b>a creeping animal,</b> while <b>one</b> verse refers <b>to liquids that come to</b> a state of impurity <b>due to</b> contact with an impure <b>vessel.</b>",
+      "he": "״יִטְמָא״ — דְּאֵין עוֹשָׂה כַּיּוֹצֵא בָּהּ, מֵהָכָא נָפְקָא? מֵהָתָם נָפְקָא: ״וְכִי יֻתַּן מַיִם עַל זֶרַע וְנָפַל מִנִּבְלָתָם עָלָיו טָמֵא הוּא״ — הוּא טָמֵא, וְאֵין עוֹשֶׂה טוּמְאָה כַּיּוֹצֵא בָּהּ! חַד בְּמַשְׁקִין הַבָּאִין מֵחֲמַת שֶׁרֶץ, וְחַד בְּמַשְׁקִין הַבָּאִין מֵחֲמַת כְּלִי.",
+      "ref": "Pesachim 18b:8"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וצריכי</b> <span class=\"hebrew-emphasis\">[ונצרכו]</span> שני הפסוקים, ואינם למדים זה מזה. כיצד? <b>דאי אשמועינן</b> <span class=\"hebrew-emphasis\">[שאם היה משמיע לנו]</span> <b>במשקין הבאין מחמת כלי</b> בלבד היינו אומרים שאינם עושים כיוצא בהם <b>משום</b> ש<b>לא חמירי</b> <span class=\"hebrew-emphasis\">[חמורים]</span> שהרי לא קבלו טומאתם במישרין מאב הטומאה. <b>אבל במשקין הבאין מחמת שרץ דחמירי</b> <span class=\"hebrew-emphasis\">[ש</span>הם <span class=\"hebrew-emphasis\">חמורים],</span> שהרי נטמאו מאב הטומאה, <b>אימא</b> <span class=\"hebrew-emphasis\">[אמור]</span> <b>עושה טומאה כיוצא בה.</b>",
+              "ref": "Steinsaltz on Pesachim 18b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:ט",
+              "sourceRef": "Steinsaltz on Pesachim 18b:9"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara adds: <b>And</b> both verses <b>are necessary,</b> as neither of the <i>halakhot</i> could have been derived from the other. <b>As, had</b> the verse <b>taught us</b> only the <i>halakha</i> <b>with regard to liquids that come</b> to a state of impurity <b>due to</b> contact with <b>a vessel,</b> one might have thought that liquids do not transfer impurity to similar items only <b>due to</b> the fact that <b>their</b> impurity is <b>not severe,</b> as it did not result from contact with a primary source of impurity; <b>however, with regard to liquids that come</b> to a state of impurity <b>due to</b> contact with <b>a creeping animal, which are</b> impure with a <b>severe</b> form of impurity that resulted from contact with a primary source of impurity, <b>say that</b> they <b>transmit impurity</b> to a <b>similar</b> item.",
+      "he": "וּצְרִיכִי? דְּאִי אַשְׁמוֹעִינַן בְּמַשְׁקִין הַבָּאִין מֵחֲמַת כְּלִי — מִשּׁוּם דְּלָא חֲמִירִי. אֲבָל בְּמַשְׁקִין הַבָּאִין מֵחֲמַת שֶׁרֶץ — דַּחֲמִירִי, אֵימָא עוֹשֶׂה טוּמְאָה כַּיּוֹצֵא בָּהּ.",
+      "ref": "Pesachim 18b:9"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara returns to <b>the</b> matter <b>itself:</b> The <i>baraita</i> states with regard to a Hebrew maidservant: <b>“Then shall she go out for nothing,” these are the days of adulthood; “without money,” these are the days of</b> her <b>youth.</b> The Gemara asks: <b>And let the Merciful One write</b> that she leaves her master when she reaches her <b>youth, and it would not be necessary</b> to state that she leaves upon reaching <b>adulthood.</b> If she has already left her master when she becomes a young woman, it is not necessary to state that she leaves him upon reaching adulthood.",
+                  "<b>Rabba says: This</b> phrase <b>comes and teaches about that</b> phrase. In other words, since it is not explicitly stated that this particular verse is referring to her departure when she becomes a young woman, if there was only one superfluous phrase one would conclude that it is referring to adulthood, as the <i>halakha</i> that she leaves the master when she becomes an adult is a lesser novelty. Therefore, two extraneous verses are required.",
+                  "Rabba cites an analogous case. This is <b>just as it is</b> with regard to <b>a tenant and a hired worker. As it is taught</b> in a <i>baraita</i> concerning <i>teruma</i>: The verse states: “A tenant of a priest or a hired worker shall not eat of the consecrated” (Leviticus 22:10). <b>“A tenant”; this</b> is referring to a Hebrew slave <b>who has been acquired as a permanent acquisition,</b> i.e., one who said he wishes to stay with his master. This Hebrew slave has his ear pierced and he remains with his master until the Jubilee Year. <b>“A hired worker”; this</b> is referring to a Hebrew slave who has been <b>acquired for an acquisition of</b> six <b>years,</b> the standard period of servitude for a Hebrew slave.",
+                  "The <i>baraita</i> asks: <b>Let</b> the verse <b>say “tenant” and let it not say “hired worker,” and I</b> would <b>say:</b> If one who is acquired <b>as a permanent acquisition does not partake</b> of his owner’s, i.e., the priest’s, <i>teruma</i>, as despite his status as a Hebrew slave he is not considered his owner’s property, is it <b>not all the more so</b> that <b>one who is acquired for an acquisition of</b> six <b>years</b> should not be permitted to partake of <i>teruma</i>?",
+                  "The <i>baraita</i> answers: <b>If so,</b> that the verse were stated in this manner, <b>I would say: “A tenant”; this is one who was acquired for an acquisition of</b> six <b>years,</b> as the term itself is ambiguous. <b>But one who was acquired as a permanent acquisition may partake</b> of <i>teruma</i>. Therefore, the term <b>“hired worker,”</b> which is certainly referring to one who is less permanent than a tenant, <b>comes and teaches about</b> the meaning of the term <b>“tenant,” that even if</b> a Hebrew slave <b>was acquired as a permanent acquisition he may not partake</b> of <i>teruma</i>. A similar line of reasoning applies in the above case of a young woman and an adult.",
+                  "<b>Abaye said to</b> Rabba: <b>Are</b> these cases really <b>comparable? There,</b> the tenant and the hired worker <b>are two bodies.</b> This is significant, <b>as even if the Merciful One had written</b> explicitly that <b>a pierced tenant may not partake</b> of <i>teruma</i>, from which the <i>halakha</i> of a Hebrew slave for six years could have been inferred, <b>and then</b> the Merciful One <b>wrote the other</b> case of a Hebrew slave acquired temporarily, this would not present a serious difficulty. The reason is that, although the <i>halakha</i> of <b>a hired worker is a matter</b> that could <b>be derived by</b> means of <b>an <i>a fortiori</i></b> inference, and therefore it does not have to be stated explicitly, there is a principle: Sometimes with regard to <b>a matter that can be derived through an <i>a fortiori</i></b> inference, the <b>verse</b> nevertheless <b>takes the trouble and writes it</b> explicitly.",
+                  "<b>But here,</b> with regard to a woman, <b>she is one body,</b> i.e., it is the same Hebrew maidservant. <b>Once she has left upon</b> the arrival of her <b>youth, what</b> is she <b>doing in his</b> authority as <b>an adult?</b> It is entirely unnecessary for the verse to teach that she leaves her master upon becoming an adult, as she has already left him.",
+                  "<b>Rather, Abaye</b> rejects the previous suggestion that one verse teaches about the other, and <b>said:</b> The claim that the verse “Then shall she go out for nothing” is referring to adulthood <b>is necessary only for the adulthood of a sexually underdeveloped woman</b> who is incapable of bearing children <b>[<i>ailonit</i>].</b> An <i>ailonit</i> will never develop the physical signs of maturity, i.e., two pubic hairs. Consequently, she does not go through the halakhic stage of a young woman. Instead, she remains a minor until the age of twenty, at which point she immediately becomes an adult.",
+                  "Consequently, if the Torah did not teach that a Hebrew maidservant leaves her master upon becoming an adult, it might <b>enter your mind to say: She leaves</b> only <b>when</b> entering her <b>youth,</b> but <b>when</b> entering <b>adulthood</b> directly <b>she does not leave.</b> Since an <i>ailonit</i> is never classified as a young woman, she would never leave servitude. Therefore, the verse <b>teaches us</b> that a Hebrew maidservant leaves her master even if she reaches adulthood directly.",
+                  "<b>Mar bar Rav Ashi objects to this: But is it not an <i>a fortiori</i></b> inference? <b>And if the signs</b> indicating that a young woman has entered <b>puberty do not</b> fully <b>release</b> a young woman <b>from her father’s authority,</b> as he can still betroth her, nevertheless, <b>they do release</b> her <b>from the master’s authority; is it not logical that adulthood, which</b> completely <b>releases</b> her <b>from her father’s authority, should release</b> her <b>from</b> the <b>master’s authority?</b> If so, one can derive by this reasoning that an <i>ailonit</i> leaves her master in adulthood, which means the verse is unnecessary.",
+                  "<b>Rather, Mar bar Rav Ashi says:</b> This verse <b>is necessary only with regard to the basic</b> <i>halakha</i> of the <b>sale of an <i>ailonit</i></b> as a Hebrew maidservant. As it might <b>enter your mind to say that</b> if a female <b>will show</b> the <b>signs of a young woman,</b> i.e., puberty, her sale <b>is</b> a valid <b>sale,</b> whereas in a case <b>where</b> she <b>will not show</b> the <b>signs of a young woman, her sale is not</b> a valid <b>sale.</b> The reason one might think this is the case is that if the maidservant turns out to be an <i>ailonit</i>, one cannot fulfill the requirements of the verse, as she will never become a young woman."
+                ],
+                [
+                  "Therefore the superfluous phrase: <b>“Then shall she go out for nothing,</b> without money” (Exodus 21:11), <b>teaches us</b> that even an <i>ailonit</i> can be sold as a Hebrew maidservant and is released upon reaching adulthood.",
+                  "The Gemara asks: <b>And according to</b> the opinion of <b>Mar bar Rav Ashi, who said: But is it not an <i>a fortiori</i></b> inference that adulthood releases a woman from her master’s authority, how does he respond to the fact that <b>we say</b> in general, with regard to <b>a matter that can be derived through an <i>a fortiori</i></b> inference, the <b>verse</b> nevertheless <b>takes the trouble and writes it</b> explicitly? The Gemara answers: <b>That matter</b> applies only where there <b>is no</b> other way <b>to resolve</b> the difficulty of why a <i>halakha</i> is written when it could be derived through an <i>a fortiori</i> inference. <b>But when there is</b> another, more substantial way <b>to resolve</b> the difficulty, <b>one resolves</b> it in that manner."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 4a:11",
+                "Kiddushin 4a:12",
+                "Kiddushin 4a:13",
+                "Kiddushin 4a:14",
+                "Kiddushin 4a:15",
+                "Kiddushin 4a:16",
+                "Kiddushin 4a:17",
+                "Kiddushin 4a:18",
+                "Kiddushin 4a:19",
+                "Kiddushin 4a:20",
+                "Kiddushin 4a:21",
+                "Kiddushin 4b:1",
+                "Kiddushin 4b:2"
+              ],
+              "he": [
+                [
+                  "גּוּפָא: ״וְיָצְאָה חִנָּם״ – אֵלּוּ יְמֵי בַּגְרוּת, ״אֵין כֶּסֶף״ – אֵלּוּ יְמֵי נַעֲרוּת. וְלִכְתּוֹב רַחֲמָנָא נַעֲרוּת, וְלָא בָּעֵי בַּגְרוּת!",
+                  "אָמַר רַבָּה: בָּא זֶה וְלִמֵּד עַל זֶה.",
+                  "מִידֵּי דְּהָוֵה אַתּוֹשָׁב וְשָׂכִיר. דְּתַנְיָא: ״תּוֹשָׁב״ – זֶה קָנוּי קִנְיַן עוֹלָם, ״שָׂכִיר״ – זֶה קָנוּי קִנְיַן שָׁנִים.",
+                  "יֵאָמֵר ״תּוֹשָׁב״ וְלֹא יֵאָמֵר ״שָׂכִיר״, וַאֲנִי אוֹמֵר: קָנוּי קִנְיַן עוֹלָם אֵינוֹ אוֹכֵל, קָנוּי קִנְיַן שָׁנִים לֹא כׇּל שֶׁכֵּן?",
+                  "אִילּוּ כֵּן, הָיִיתִי אוֹמֵר: ״תּוֹשָׁב״ – זֶה קָנוּי קִנְיַן שָׁנִים. אֲבָל קְנוּי קִנְיַן עוֹלָם – אוֹכֵל. בָּא ״שָׂכִיר״ וְלִימֵּד עַל ״תּוֹשָׁב״, שֶׁאַף עַל פִּי שֶׁקָּנוּי קִנְיַן עוֹלָם – אֵינוֹ אוֹכֵל.",
+                  "אֲמַר לֵיהּ אַבָּיֵי: מִי דָּמֵי? הָתָם תְּרֵי גוּפֵי נִינְהוּ, דְּכִי נָמֵי כְּתַב רַחֲמָנָא ״תּוֹשָׁב נִרְצָע לֹא יֹאכַל״ וַהֲדַר כְּתַב אִידַּךְ, הֲוָה שָׂכִיר מִילְּתָא דְּאָתְיָא בְּקַל וָחוֹמֶר, וּמִילְּתָא דְּאָתְיָא בְּקַל וָחוֹמֶר טָרַח וְכָתַב לַהּ קְרָא.",
+                  "אֶלָּא הָכָא, חַד גּוּפָא הִיא – כִּי נָפְקָא לַהּ בְּנַעֲרוּת, בַּגְרוּת מַאי בָּעֲיָא גַּבֵּיהּ?",
+                  "אֶלָּא אָמַר אַבָּיֵי: לֹא נִצְרְכָה אֶלָּא לְבֶגֶר דְּאַיְלוֹנִית,",
+                  "סָלְקָא דַּעְתָּךְ אָמֵינָא: בְּנַעֲרוּת תִּיפּוֹק, בְּבַגְרוּת לָא תִּיפּוֹק, קָא מַשְׁמַע לַן.",
+                  "מַתְקֵיף לַהּ מָר בַּר רַב אָשֵׁי: וְלָאו קַל וָחוֹמֶר הוּא? וּמָה סִימָנִין שֶׁאֵין מוֹצִיאִין מֵרְשׁוּת אָב – מוֹצִיאִין מֵרְשׁוּת אָדוֹן, בַּגְרוּת שֶׁמּוֹצִיאָה מֵרְשׁוּת אָב – אֵינוֹ דִּין שֶׁמּוֹצִיאָה מֵרְשׁוּת אָדוֹן?",
+                  "אֶלָּא אָמַר מָר בַּר רַב אָשֵׁי: לֹא נִצְרְכָה אֶלָּא לְעִיקַּר זְבִינָא דְאַיְלוֹנִית, סָלְקָא דַּעְתָּךְ אָמֵינָא: דְּאַתְיָא סִימָנֵי נַעֲרוּת – הָוֵי זְבִינָא, דְּלָא אַתְיָא סִימָנֵי נַעֲרוּת – לָא הָוֵי זְבִינַהּ זְבִינָא,"
+                ],
+                [
+                  "קָא מַשְׁמַע לַן ״וְיָצְאָה חִנָּם כּוּ׳״.",
+                  "וּלְמָר בַּר רַב אָשֵׁי, דְּאָמַר: וְלָאו קַל וָחוֹמֶר הוּא, הָא אָמְרִינַן מִילְּתָא דְּאָתְיָא בְּקַל וָחוֹמֶר טָרַח וְכָתַב לַהּ קְרָא! הָנֵי מִילֵּי הֵיכָא דְּלֵיכָּא לְשַׁנּוֹיֵי, אֲבָל הֵיכָא דְּאִיכָּא לְשַׁנּוֹיֵי – מְשַׁנִּינַן."
+                ]
+              ],
+              "link": "/Kiddushin/4a",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 4a:16"
+              ],
+              "ref": "Kiddushin 4a:11-4b:2",
+              "sourceHeRef": "קידושין ד׳ א",
+              "sourceRef": "Kiddushin 4a"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ו</b>אם כן, <b>לשמעינן</b> <span class=\"hebrew-emphasis\">[ושישמיע לנו]</span> הלכה זו רק ב<b>משקין הבאין מחמת שרץ</b> שאין עושים טומאה כיוצא בהם, <b>ו</b>נלמד <b>כל שכן</b> לענין <b>משקין הבאין מחמת כלי!</b> ומשיבים: זו אינה קושיה, כי לפעמים <b>מילתא דאתיא</b> <span class=\"hebrew-emphasis\">[דבר הבא,</span> הנלמד<span class=\"hebrew-emphasis\">]</span> <b>בקל וחומר — טרח וכתב לה קרא</b> <span class=\"hebrew-emphasis\">[אותו המקרא]</span> במפורש ואין לראות בכך ייתור.",
+              "ref": "Steinsaltz on Pesachim 18b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:י",
+              "sourceRef": "Steinsaltz on Pesachim 18b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Some commentaries explain that this rule can also be applied to other hermeneutic principles of Torah exposition, such as verbal analogy,<i> </i>juxtaposition, and analogy. In these cases, too, the Torah sometimes writes a <i>halakha</i> explicitly even though it could have been derived by means of one of these principles (Rabbeinu Gershom). Many commentaries add that there is nonetheless a difference between a <i>halakha</i> derived by means of an <i>a fortiori </i>inference and one written explicitly in the Torah, as a greater level of stringency applies to <i>halakhot</i> that appear in the Torah. In other words, the reason the Torah unnecessarily wrote it explicitly, in the Gemara’s words, was to underscore its significance (<i>Tosafot</i>; Rabbi Yehuda Mintz; see <i>Yad Malakhi</i>).",
+              "he": "חכמים רבים סבורים כי כלל זה נאמר גם בשאר מדות שהתורה נדרשת בהן כמו גזרה שוה והקש ומה מצינו, שפעמים הכתוב אומר אותן במפורש (ר\"ג). ורוב המפרשים סבורים כי יש בכל זאת הבדל אם דבר מסויים נלמד בקל וחומר או שטרח וכתבו המקרא. שדבר הכתוב במקרא — יש להחמיר בו יותר, ומשום כך טרח המקרא לכתבו, ללמדנו על חשיבותו (תוס', ר\"י מינץ. ועיין ביד מלאכי).",
+              "ref": "Steinsaltz comment #1 on Pesachim 18b:10",
+              "sourceHeRef": "מִילְּתָא דְּאַתְיָא בְּקַל וָחוֹמֶר",
+              "sourceRef": "A matter that could be derived by means of an <i>a fortiori</i>"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And let</b> the verse <b>teach us</b> that liquids do not transmit impurity with regard to <b>liquids that come</b> to a state of impurity <b>due to</b> contact with <b>a creeping animal, and all the more so</b> will that be the case with regard to <b>liquids that come</b> to a state of impurity <b>due to</b> contact with <b>a vessel.</b> The Gemara answers: This is not difficult, as at times with regard to <b>a matter that</b> could be <b>derived by</b> means of <b>an <i>a fortiori</i> inference, the verse</b> nevertheless <b>unnecessarily wrote it</b> explicitly.",
+      "he": "וְלַשְׁמְעִינַן מַשְׁקִין הַבָּאִין מֵחֲמַת שֶׁרֶץ, וְכׇל שֶׁכֵּן מַשְׁקִין הַבָּאִין מֵחֲמַת כְּלִי! מִילְּתָא דְּאָתְיָא בְּקַל וָחוֹמֶר טָרַח וְכָתֵב לַהּ קְרָא.",
+      "ref": "Pesachim 18b:10"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא אמר רבא לא רבי יוסי</strong> - דלקמן דדריש ק\"ו ממחוסר כפורים סבר לה כר' עקיבא שיהא שני עושה שלישי בחולין ולא רבי עקיבא סבר לה כרבי יוסי במאי דמייתי לקמן רביעי בקודש מקל וחומר ממחוסר כפורים ומלתיה דרבא פרשוה רב אשי ורב כהנא לקמן בסמוך וכיון דאית ליה לרבי יוסי משקין מטמאין אחרים דאורייתא לא משכח ראיה אלא מיטמא דדריש יטמא על כרחך אית ליה שני עושה שלישי בחולין דהא בין יטמא דאוכלין בין יטמא דמשקין אשני כתיבי:",
+              "ref": "Rashi on Pesachim 18b:11:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:יא:א",
+              "sourceRef": "Rashi on Pesachim 18b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רבינא לרב אשי: והא</b> <span class=\"hebrew-emphasis\">[והרי]</span> <b>אמר רבא: לא ר' יוסי סבר כר' עקיבא</b> לענין דיני טומאת שלישי בחולין, שלדעתו — בניגוד לדעת ר' עקיבא — שני עושה שלישי בחולין מן התורה,",
+              "ref": "Steinsaltz on Pesachim 18b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:יא",
+              "sourceRef": "Steinsaltz on Pesachim 18b:11"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span> said to <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span>: But didn’t <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> say</b> that <b><span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> does not hold in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span></b> with regard to the third-degree ritual impurity status of non-sacred items? Contrary to the opinion of <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>, <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> maintains that an item with second-degree ritual impurity does not confer third-degree impurity status upon non-sacred items by Torah law.",
+      "he": "אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: וְהָא אָמַר רָבָא: לָא רַבִּי יוֹסֵי סָבַר כְּרַבִּי עֲקִיבָא,",
+      "ref": "Pesachim 18b:11",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ולא ר' עקיבא סבר כר' יוסי</b> לענין טומאת רביעי בקודש!",
+              "ref": "Steinsaltz on Pesachim 18b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:יב",
+              "sourceRef": "Steinsaltz on Pesachim 18b:12"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> similarly, <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> does not hold in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span></b> with regard to the fourth-degree impurity of consecrated property. The relevance of these observations to the issue at hand is that if <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> maintains that the impurity of liquids is by Torah law, he evidently interprets the verse as: <i>Yetamme</i>, just as <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> does. However, in that case, he would also hold that second-degree ritual impurity confers upon another non-sacred item third-degree impurity status, as that <i>halakha</i> is also derived from the term: <i>Yetamme</i>.",
+      "he": "וְלָא רַבִּי עֲקִיבָא סָבַר כְּרַבִּי יוֹסֵי!",
+      "ref": "Pesachim 18b:12"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בשיטת רבי עקיבא רבו אמרה</strong> - להא דאמר טומאת משקין לטמא אחרים דאורייתא מיבעי ליה למדרש יטמא יטמא אליבא דר\"ע אמרה דדריש ליה גבי אוכלין וקא\"ר יוסי הואיל ודריש ר\"ע יטמא יטמא אית ליה דמשקין מטמאין אחרים דאורייתא אבל רבי יוסי לא סבירא ליה טומאת משקין לטמא אחרים דאורייתא ולא דריש יטמא יטמא:",
+              "ref": "Rashi on Pesachim 18b:13:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:יג:א",
+              "sourceRef": "Rashi on Pesachim 18b:13:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]:</span> <b>ר' יוסי בשיטת ר' עקיבא רבו אמרה</b> להלכה זו, <b>וליה לא סבירא ליה</b> <span class=\"hebrew-emphasis\">[והוא עצמו אינו סבור אותה],</span> ואינו מקבל הלכה זו, ולדבריו אין טומאת משקים לטמא אחרים מן התורה.",
+              "ref": "Steinsaltz on Pesachim 18b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:יג",
+              "sourceRef": "Steinsaltz on Pesachim 18b:13"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This oft-recurring comment means that although a certain Sage expands upon or explains an opinion, he himself disagrees with it. In actuality, many of the discussions in the Gemara are of this type, as the Gemara often analyzes and clarifies opinions that are ultimately rejected as <i>halakha</i>.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Pesachim 18b:13",
+              "sourceHeRef": "לֵיהּ לָא סְבִירָא לֵיהּ",
+              "sourceRef": "He himself does not hold accordingly"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> <b>said to him: <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> said</b> this <i>halakha</i> that liquids transmit impurity by Torah law <b>in accordance with the opinion of <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>, his teacher;</b> however, <b>he himself does not hold</b> accordingly, as <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> is of the opinion that liquids do not transmit impurity to other items by Torah law.",
+      "he": "אֲמַר לֵיהּ: רַבִּי יוֹסֵי בְּשִׁיטַת רַבִּי עֲקִיבָא רַבּוֹ אֲמָרָהּ, וְלֵיהּ לָא סְבִירָא לֵיהּ.",
+      "ref": "Pesachim 18b:13"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "2) This tells me (as not imparting tumah by carrying) only of the lesser forms of tumah (such as that of a sheretz (a creeping thing) or of carrion, which do not make a man tamei). Whence do I derive the same for graver forms of tumah, such as dead-body tumah, and that of cohabiting with a niddah, and all (forms of tumah) which make a man tamei? From \"anything that is tamei\" (imparts tumah to consecrated flesh) — even one who is lacking atonement (viz. Vayikra 12:7). R. Yossi said: Whence is it derived that fourth-degree tumah invalidates consecrated offerings, and that it follows a fortiori? (From the following:) If one lacking atonement, who is permitted to eat terumah, invalidates consecrated offerings, then third-degree tumah, which does invalidate terumah, does it not follow that it should invalidate offerings (in rendering it fourth-degree tumah)? We derive, then, (the invalidation of) third-degree tumah from the verse (\"and the flesh that shall touch, etc.\"), and of fourth-degree tumah from the argument a fortiori.",
+              "he": "[ב] אין לי אלא טומאות הקלות; טומאות חמורות – טומאת מת ובועל נדה וכל המטמאין את האדם מנין? תלמוד לומר \"בכל טמא\" – בכל טמא ואפילו במחוסר כפורים. אמר ר' יוסי מנין לרביעי בקדש היא פסול? ודין הוא! ומה אם מחוסר כפורים – שאינו פוסל בתרומה – פוסל בקדש, שלישי – שפוסל בתרומה – אינו דין שפוסל בקדש?! למדנו לשלישי מן הכתוב ולרביעי מקל וחומר.",
+              "ref": "Sifra, Tzav, Section 9 2",
+              "sourceHeRef": "ספרא, צו, פרשה ט ב׳",
+              "sourceRef": "Sifra, Tzav, Section 9 2"
+            },
+            {
+              "en": [
+                [
+                  "<b>It is taught</b> in a <i>baraita</i> (<i>Tosefta</i>, <i>Ḥagiga</i> 3:18) that <b>Rabbi Yosei said: From where</b> is it derived with regard <b>to sacrificial</b> food with <b>fourth-</b>degree ritual impurity <b>that it is disqualified</b> although it is not capable of imparting impurity to other items?",
+                  "<b>It is</b> derived through <b>logical</b> inference: <b>Just as one who is lacking atonement,</b> e.g., a <i>zav</i> or leper who immersed at the conclusion of his period of impurity but has not yet brought an offering for his atonement, <b>who is permitted</b> to partake <b>of <i>teruma</i>,</b> nevertheless <b>disqualifies sacrificial</b> food if he comes into contact with it, so too, with regard to an item of <b>third-</b>degree impurity status, <b>which disqualifies <i>teruma</i></b> and is therefore more severe than one who is lacking atonement, <b>is it not logical that it should render sacrificial</b> food with which it comes into contact as having <b>fourth-</b>degree impurity?",
+                  "The <i>baraita</i> concludes: <b>And we have</b> therefore <b>derived</b> that <b>third-</b>degree impurity applies <b>to sacrificial</b> food <b>from</b> an explicit verse in <b>the Torah, and</b> we have derived that <b>fourth-</b>degree impurity applies to sacrificial food <b>by</b> means of the above <b><i>a fortiori</i></b> inference.",
+                  "The Gemara asks: <b>From where in the Torah do we</b> derive that third-degree impurity applies <b>to sacrificial</b> food? The Gemara answers: <b>As it is written: “And the flesh that touches any impure thing shall not be eaten”</b> (Leviticus 7:19). <b>Are we not dealing</b> in the verse with meat <b>that touches</b> even an item of <b>second-</b>degree impurity? <b>And the Merciful One states</b> that it <b>“shall not be eaten,”</b> indicating that it assumes third-degree impurity. Therefore, <b>fourth-</b>degree impurity can be derived <b>by</b> means of the <b><i>a fortiori</i></b> inference of Rabbi Yosei, <b>as we stated</b> above.",
+                  "<b>Rabbi Yoḥanan says:</b> With regard to <b>the reasoning</b> behind <b>the Distinguished</b> Rabbi Yosei’s <i>a fortiori</i> inference, <b>I do not know what it is, as the response to his</b> inference <b>is</b> right <b>by its side: Food whose</b> impurity <b>came from</b> contact with <b>one who immersed that day can prove</b> that a degree of impurity that disqualifies <i>teruma</i> does not necessarily impart fourth-degree impurity to sacrificial food, <b>as</b> this food <b>disqualifies <i>teruma</i></b> upon contact, <b>but it does not impart fourth-</b>degree impurity <b>upon sacrificial</b> food.",
+                  "<b>As it is taught</b> in a <i>baraita</i> (<i>Tosefta</i>, <i>Teharot</i> 1:4) that <b>Abba Shaul says:</b> With regard to <b>one who immersed that day,</b> until sunset he is treated as one who is impure with <b>first-</b>degree impurity <b>vis-à-vis sacrificial</b> food, in that he is able <b>to render two</b> items of sacrificial food <b>impure and to disqualify one</b> additional item. In other words, the first item of sacrificial food that he touches assumes the status of a second-degree impurity. A second item that comes into contact with the first one assumes third-degree impurity. A third item that comes into contact with the second assumes fourth-degree impurity and is therefore disqualified from being eaten, though it cannot impart impurity to other items.",
+                  "<b>Rabbi Meir says:</b> One who immersed that day is considered impure with second-degree impurity, even vis-à-vis sacrificial food, and as such <b>renders</b> only <b>one</b> item <b>impure and disqualifies one</b> additional item. <b>And the Rabbis say: Just as he</b> merely <b>disqualifies <i>teruma</i> foods and <i>teruma</i> liquids,</b> without transferring to them impurity that can then be transferred further, <b>so too, he</b> merely <b>disqualifies sacrificial foods and sacrificial liquids.</b> In other words, the impurity imparted by one who immersed that day can reach only third-degree impurity and not fourth-degree impurity, contrary to the opinion of Rabbi Yosei.",
+                  "<b>Rav Pappa objects to</b> Rabbi Yoḥanan’s argument: <b>From where</b> is the presumption derived <b>that Rabbi Yosei holds in accordance with</b> the opinion of <b>the Rabbis? Perhaps he holds in accordance with</b> the opinion of <b>Abba Shaul, who says</b> that one who immersed that day is able <b>to render two</b> items of sacrificial food <b>impure, and to disqualify one</b> additional item.",
+                  "The Gemara answers: <b>If it enters your mind</b> that Rabbi Yosei <b>holds in accordance with</b> the opinion of <b>Abba Shaul, he should have brought</b> proof <b>for</b> the existence of a <b>fourth</b> degree of ritual impurity <b>with regard to sacrificial</b> food <b>from</b> the case of <b>food whose</b> impurity <b>came from one who immersed that day,</b> as follows:",
+                  "<b>Just as</b> with regard to <b>food whose</b> impurity <b>came from one who immersed that day, while the one who immersed that day is himself permitted to</b> consume <b>non-sacred</b> food, nevertheless <b>you say</b> that the food <b>imparts fourth-</b>degree impurity status <b>upon sacrificial</b> food, then with regard to <b>food</b>"
+                ],
+                [
+                  "<b>whose third-</b>degree impurity <b>came from</b> contact with an item of <b>second-</b>degree impurity, in <b>which</b> case the item with the <b>second-</b>degree impurity <b>is itself forbidden,</b> i.e. impure, even if it is <b>non-sacred</b> food, <b>isn’t it logical</b> to infer <b>that it should</b> be able to <b>impart fourth-</b>degree impurity <b>upon sacrificial</b> food?",
+                  "<b>And if you would say</b> that the reason Rabbi Yosei did not employ this <i>a fortiori</i> inference is <b>because it can be refuted</b> as follows: <b>What</b> is unique <b>about one who immersed that day is that</b> prior to his immersion he was <b>a primary source of impurity,</b> this cannot be, as Rabbi Yosei <b>brought</b> proof for the existence of a fourth degree of impurity <b>from</b> the case of <b>one who has not yet</b> brought an <b>atonement</b> offering, who was also a primary source of impurity prior to his immersion, <b>and</b> Rabbi Yosei clearly <b>did not refute</b> the proof due to this factor. Therefore, the reason Rabbi Yosei did not employ an <i>a fortiori</i> inference from the case of food that contracted impurity from one who immersed that day is clearly that he disagrees with the opinion of Abba Shaul. Consequently, Rabbi Yoḥanan concluded that he cannot understand Rabbi Yosei’s reasoning."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Sotah 29b:9",
+                "Sotah 29b:10",
+                "Sotah 29b:11",
+                "Sotah 29b:12",
+                "Sotah 29b:13",
+                "Sotah 29b:14",
+                "Sotah 29b:15",
+                "Sotah 29b:16",
+                "Sotah 29b:17",
+                "Sotah 29b:18",
+                "Sotah 30a:1",
+                "Sotah 30a:2"
+              ],
+              "he": [
+                [
+                  "תַּנְיָא, אָמַר רַבִּי יוֹסֵי: מִנַּיִן לִרְבִיעִי בַּקּוֹדֶשׁ שֶׁפָּסוּל?",
+                  "וְדִין הוּא: מָה מְחוּסַּר כִּיפּוּרִים, שֶׁמּוּתָּר בַּתְּרוּמָה — פָּסוּל בַּקּוֹדֶשׁ. שְׁלִישִׁי, שֶׁפָּסוּל בַּתְּרוּמָה — אֵינוֹ דִּין הוּא שֶׁיַּעֲשֶׂה רְבִיעִי בַּקּוֹדֶשׁ?",
+                  "וְלָמַדְנוּ שְׁלִישִׁי לַקּוֹדֶשׁ מִן הַתּוֹרָה, וּרְבִיעִי מִקַּל וָחוֹמֶר.",
+                  "שְׁלִישִׁי לַקּוֹדֶשׁ מִן הַתּוֹרָה מְנָלַן — דִּכְתִיב: ״וְהַבָּשָׂר אֲשֶׁר יִגַּע בְּכׇל טָמֵא לֹא יֵאָכֵל״. מִי לָא עָסְקִינַן דִּנְגַע בְּשֵׁנִי — וְאָמַר רַחֲמָנָא ״לֹא יֵאָכֵל״. רְבִיעִי מִקַּל וָחוֹמֶר — כְּדַאֲמַרַן.",
+                  "אָמַר רַבִּי יוֹחָנָן: טַעַם בְּרִיבִּי אֵינִי יוֹדֵעַ מָה הוּא, שֶׁהֲרֵי תְּשׁוּבָתוֹ בְּצִדּוֹ: אוֹכֶל הַבָּא מֵחֲמַת טְבוּל יוֹם יוֹכִיחַ, שֶׁפָּסוּל בִּתְרוּמָה וְאֵינוֹ עוֹשֶׂה רְבִיעִי בַּקּוֹדֶשׁ.",
+                  "דְּתַנְיָא, אַבָּא שָׁאוּל אוֹמֵר: טְבוּל יוֹם תְּחִילָּה לַקּוֹדֶשׁ, לְטַמֵּא שְׁנַיִם, וְלִפְסוֹל אֶחָד.",
+                  "רַבִּי מֵאִיר אוֹמֵר: מְטַמֵּא אֶחָד, וּפוֹסֵל אֶחָד. וַחֲכָמִים אוֹמְרִים: כְּשֵׁם שֶׁפּוֹסֵל אוֹכְלֵי תְרוּמָה וּמַשְׁקֵי תְרוּמָה — כָּךְ פּוֹסֵל אוֹכְלֵי קוֹדֶשׁ וּמַשְׁקֵי קוֹדֶשׁ!",
+                  "מַתְקֵיף לַהּ רַב פָּפָּא: מִמַּאי דְּרַבִּי יוֹסֵי כְּרַבָּנַן סְבִירָא לֵיהּ? דִּילְמָא כְּאַבָּא שָׁאוּל סְבִירָא לֵיהּ, דְּאָמַר לְטַמֵּא שְׁנַיִם וְלִפְסוֹל אֶחָד!",
+                  "אִי סָלְקָא דַעְתָּךְ כְּאַבָּא שָׁאוּל סְבִירָא לֵיהּ, לַיְיתֵיהּ לִרְבִיעִי בַּקּוֹדֶשׁ מֵאוֹכֶל שֶׁבָּא מֵחֲמַת טְבוּל יוֹם.",
+                  "וּמָה אוֹכֶל הַבָּא מֵחֲמַת טְבוּל יוֹם, דִּטְבוּל יוֹם גּוּפֵיהּ מוּתָּר בְּחוּלִּין — אָמְרַתְּ עוֹשֶׂה רְבִיעִי בַּקּוֹדֶשׁ, אוֹכֶל"
+                ],
+                [
+                  "שְׁלִישִׁי הַבָּא מֵחֲמַת שֵׁנִי, דְּשֵׁנִי גּוּפֵיהּ אָסוּר בְּחוּלִּין — אֵינוֹ דִּין שֶׁעוֹשֶׂה רְבִיעִי בַּקּוֹדֶשׁ?",
+                  "וְכִי תֵּימָא מִשּׁוּם דְּאִיכָּא לְמִיפְרַךְ: מָה לִטְבוּל יוֹם שֶׁכֵּן אַב הַטּוּמְאָה — הָא אַיְיתִינֵהּ מִמְּחוּסַּר כִּיפּוּרִים, וְלָא פַּרְכֵיהּ!"
+                ]
+              ],
+              "link": "/Sotah/29b",
+              "originalRefsBeforeRewriting": [
+                "Sotah 29b:9",
+                "Sotah 29b:10",
+                "Sotah 29b:11"
+              ],
+              "ref": "Sotah 29b:9-30a:2",
+              "sourceHeRef": "סוטה כ״ט ב",
+              "sourceRef": "Sotah 29b"
+            },
+            {
+              "en": [
+                "It was taught in the mishna: <b>The fourth degree</b> of impurity, <b>with regard to sacrificial</b> food, is <b>disqualified. It is taught</b> in a <i>baraita</i>: <b>Rabbi Yosei said: From where</b> is it derived with regard <b>to the fourth degree</b> of ritual impurity, that <b>with regard to sacrificial</b> food it <b>is disqualified? It is a logical derivation,</b> by <i>a fortiori</i>: <b>If one who is lacking atonement,</b> an impure person who is obligated to bring an offering to complete his purification process, <b>who is permitted to</b> eat <b><i>teruma</i>,</b> is nevertheless <b>disqualified with regard to</b> the consumption of <b>sacrificial</b> food, as specified in the Torah, then concerning something that is impure to the <b>third</b> degree of ritual impurity, <b>which is disqualified</b> if it is <b><i>teruma</i>, is it not right that it should engender a fourth</b> degree of ritual impurity when it touches <b>sacrificial</b> food? Therefore, <b>we have learned</b> that there is a <b>third</b> degree of impurity with regard <b>to sacrificial food from the Torah, and</b> that there is a <b>fourth</b> degree of impurity <b>from <i>a fortiori</i></b> reasoning.",
+                "The above <i>baraita</i> taught that there is a <b>third</b> degree of impurity <b>for sacrificial</b> food <b>from the Torah.</b> The Gemara asks: <b>From where</b> is this derived? <b>As it is written: “And the meat that touches any impure thing shall not be eaten”</b> (Leviticus 7:19). <b>Is it not</b> so that <b>we are not dealing</b> in that verse with meat that touches any “impure thing” at all, even <b>if it touched</b> something that is of the <b>second</b> degree of ritual impurity, which is also called an “impure thing”? <b>And</b> yet <b>the Merciful One states</b> with regard to that meat, which having touched a second-degree impurity is now impure to the third degree: <b>“It shall not be eaten,”</b> meaning that it has been rendered unfit due to impurity. And as for the <i>baraita’s</i> statement that the <b>fourth</b> level of impurity is derived <b>by an <i>a fortiori</i> inference –</b> it is <b>as we said</b> just above, the <i>a fortiori</i> inference put forth by Rabbi Yosei."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Chagigah 24a:5",
+                "Chagigah 24a:6"
+              ],
+              "he": [
+                "הָרְבִיעִי בַּקֹּדֶשׁ פָּסוּל. תַּנְיָא, אָמַר רַבִּי יוֹסֵי: מִנַּיִן לָרְבִיעִי בַּקֹּדֶשׁ שֶׁהוּא פָּסוּל — וְדִין הוּא: וּמָה מְחוּסַּר כִּפּוּרִים שֶׁמּוּתָּר בַּתְּרוּמָה — פָּסוּל בַּקֹּדֶשׁ, שְׁלִישִׁי שֶׁפָּסוּל בַּתְּרוּמָה — אֵינוֹ דִּין שֶׁיַּעֲשֶׂה רְבִיעִי לַקֹּדֶשׁ? וְלָמַדְנוּ שְׁלִישִׁי לַקֹּדֶשׁ מִן הַתּוֹרָה, וּרְבִיעִי בְּקַל וָחוֹמֶר.",
+                "שְׁלִישִׁי לַקֹּדֶשׁ מִן הַתּוֹרָה מִנַּיִן? דִּכְתִיב: ״וְהַבָּשָׂר אֲשֶׁר יִגַּע בְּכׇל טָמֵא לֹא יֵאָכֵל״, מִי לָא עָסְקִינַן דִּנְגַע בְּשֵׁנִי, וְקָאָמַר רַחֲמָנָא ״לֹא יֵאָכֵל״. רְבִיעִי מִקַּל וָחוֹמֶר — הָא דַּאֲמַרַן."
+              ],
+              "link": "/Chagigah/24a",
+              "originalRefsBeforeRewriting": [
+                "Chagigah 24a:5"
+              ],
+              "ref": "Chagigah 24a:5-6",
+              "sourceHeRef": "חגיגה כ״ד א",
+              "sourceRef": "Chagigah 24a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בשלמא רבי יוסי לא סבר ליה כר\"ע</strong> - דשני עושה שלישי בחולין:",
+              "ref": "Rashi on Pesachim 18b:14:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:יד:א",
+              "sourceRef": "Rashi on Pesachim 18b:14:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דתניא אמר רבי יוסי מניין לרביעי בקודש שפסול ודין הוא מה מחוסר כפורים שמותר בתרומה</strong> - כדילפינן ביבמות פרק הערל <span class=\"parenthesized\">(יבמות ד' עד:)</span> מקראי טבל ועלה אוכל במעשר העריב שמשו אוכל בתרומה כדכתיב ובא השמש וטהר ואחר יאכל מן הקדשים:",
+              "ref": "Rashi on Pesachim 18b:14:2",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:יד:ב",
+              "sourceRef": "Rashi on Pesachim 18b:14:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור בקודש</strong> - כדיליף התם מוכפר עליה הכהן וטהרה מכלל שהיא טמאה עד עכשיו:",
+              "ref": "Rashi on Pesachim 18b:14:3",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:יד:ג",
+              "sourceRef": "Rashi on Pesachim 18b:14:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רב אשי לרב כהנא</b> על דברי רבא: <b>בשלמא</b> <span class=\"hebrew-emphasis\">[נניח]</span> ממה שאמרנו כי <b>ר' יוסי לא סבר לה כר' עקיבא,</b> יש הוכחה לדבר מן הברייתא. <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>הרי <span class=\"hebrew-emphasis\">שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]:</span> <b>אמר ר' יוסי: מניין לרביעי בקודש שהוא פסול</b> בלבד, ואינו מטמא אחרים?",
+              "ref": "Steinsaltz on Pesachim 18b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:יד",
+              "sourceRef": "Steinsaltz on Pesachim 18b:14"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "Said Rabbi Yosei, from where [is it derived that] the consecrated food [of sacrifices] is rendered disqualified through fourth-degree impurity (see Chag. 3:2)? It is a logical deduction: If one who lacks atonement is not disqualified from [partaking of] Terumah [but is disqualified from consecrated food which carries] fourth-degree impurity, [then with respect to] one who is disqualified as to Terumah [which carries only third-level Terumah], is it not logical that he would [also] be disqualified from consecrated foods? We have learned third-degree impurity from what is written [in the Torah], and fourth-degree impurity from a <i>kal v'chomer</i> (<i>a fortiori</i> reasoning).",
+              "he": "אמר רבי יוסי מנין לרביעי בקדש שהוא פסול ודין הוא ומה מחוסר כפורים שאין פסול בתרומה פוסל רביעי שהוא פסול בתרומה אינו דין שיפסול בקדש למדנו לשלישי מן הכתוב ולרביעי מקל וחומר.",
+              "ref": "Tosefta Chagigah 3:7",
+              "sourceHeRef": "תוספתא חגיגה ג:ז",
+              "sourceRef": "Tosefta Chagigah 3:7"
+            },
+            {
+              "en": "3:18: R. Yosé questions how we know that food in the fourth remove from the original source of uncleanness for Holy Things is invalid. He suggests that if one who hasn't completed their atonement rites is invalid for Holy Things but isn't for heave-offering, it is reasonable that the fourth remove, which is invalid for heave-offering, should also be invalid for Holy Things. Using a scriptural reference, he argues that if the third remove is invalid, then a fortiori, the fourth should be.",
+              "he": "אמ' ר' יוסה מנין לרביעי בקודש שהוא פסול, ודין הוא, ומה מחוסר כפורים שאין פסול בתרומה, פסול בקודש, רביעי שפסול בתרומה, אינו דין שפוסל. למדנו לשלישי מן הכת', ולרביעי מקל וחומר.",
+              "ref": "Tosefta Chagigah (Lieberman) 3:18",
+              "sourceHeRef": "תוספתא חגיגה (ליברמן) ג:יח",
+              "sourceRef": "Tosefta Chagigah (Lieberman) 3:18"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> said to <span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">Rav Kahana</span></b> with regard to <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>’s statement: <b>Granted, <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> does not hold in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>, as it was taught</b> in a <i>baraita</i> that <b><span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> said: From where</b> is it derived with regard <b>to a consecrated</b> item with <b>fourth-</b>degree ritual impurity <b>that it is</b> only <b>disqualified</b> and does not transfer impurity to other objects?",
+      "he": "אֲמַר לֵיהּ רַב אָשֵׁי לְרַב כָּהֲנָא: בִּשְׁלָמָא רַבִּי יוֹסֵי לָא סָבַר לַהּ כְּרַבִּי עֲקִיבָא, דְּתַנְיָא: אָמַר רַבִּי יוֹסֵי: מִנַּיִין לָרְבִיעִי בַּקּוֹדֶשׁ שֶׁהוּא פָּסוּל?",
+      "ref": "Pesachim 18b:14"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> שלישי שפסול בתרומה לרבנן דפליגי אדר\"ע ונפקא לן בק\"ו מט\"י כו' עכ\"ל לפי האמת לר\"ע נמי ג' פסול בתרומה ולא ד' אלא דלא יליף מק\"ו רק מגופיה דקרא ורש\"י קיצר כאן דה\"נ בהאי ק\"ו דט\"י דדין הוא דשני יעשה ג' בתרומה ולא נימא דיו היינו נמי משום דא\"כ מפריך ק\"ו דשני פוסל בתרומה למדנו מן התורה דלא גרע מחולין וק\"ל:",
+                      "ref": "Chidushei Halachot on Pesachim 18b:5",
+                      "sourceHeRef": "חדושי הלכות על פסחים י״ח ב:ה",
+                      "sourceRef": "Chidushei Halachot on Pesachim 18b:5"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלישי שפסול בתרומה</strong> - לרבנן דפליגי אדר' עקיבא ונפקא לן בקל וחומר מטבול יום ומה טבול יום דמותר בחולין אסור בתרומה שני שפסול בחולין אינו דין שיעשה שלישי בתרומה במסכת סוטה בפרק כשם שהמים בודקין ובקודש דין הוא שיעשה בה רביעי מקל וחומר ממחוסר כפורים:",
+              "ref": "Rashi on Pesachim 18b:15:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:טו:א",
+              "sourceRef": "Rashi on Pesachim 18b:15:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "נלמד דבר זה כך: <b>ודין הוא, ומה מחוסר כפורים</b> שהוא אדם שטבל לטהרתו אבל עדיין לא הביא את קרבן כפרתו (כגון זב ומצורע) <b>שמותר</b> באכילת <b>תרומה,</b> ואם נגע בקודש הרי הוא <b>פסול בקודש. שלישי</b> לטומאה <b>שפסול בתרומה,</b> ואם כן חמור הוא ממחוסר כיפורים — <b>אינו דין שיעשה רביעי בקודש?</b> לפחות כמו מחוסר כיפורים.",
+              "ref": "Steinsaltz on Pesachim 18b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:טו",
+              "sourceRef": "Steinsaltz on Pesachim 18b:15"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> ומה מחוסר כו' דמחוסר כפורים כשלישי הוא כו' עכ\"ל ק\"ק לקמן לר\"ע דבעי למיעבד ק\"ו ממחוסר כפורים דחמישי פסול בקודש נימא דיו אפילו אי מפריך ק\"ו דבמה מצינו ליכא למילף רביעי דמחוסר כפורים אינו רק כשלישי ויש ליישב [א] ודו\"ק:",
+                      "ref": "Chidushei Halachot on Pesachim 18b:7",
+                      "sourceHeRef": "חדושי הלכות על פסחים י״ח ב:ז",
+                      "sourceRef": "Chidushei Halachot on Pesachim 18b:7"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומה מחוסר כפורים</strong> - אפי' מאן דאית ליה דיו אפילו היכא דמיפרך קל וחומר הכא מודה דבמה מצינו ילפינן שלישי ממחוסר כפורים דמחוסר כפורים כשלישי הוא שאינו עושה כלום בתרומה ופוסל בקודש והוא הדין בכל שלישי הלכך אלים קל וחומר דהכא ולא שייך למימר דיו מה התם שלישי ותו לא אף כאן שלישי ותו לא:",
+              "ref": "Tosafot on Pesachim 18b:15:1",
+              "sourceHeRef": "תוספות על פסחים י״ח ב:טו:א",
+              "sourceRef": "Tosafot on Pesachim 18b:15:1"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> continues: <b>And</b> this <i>halakha</i> <b>is a logical</b> <i>a fortiori</i> <b>inference: Just as one who lacks atonement,</b> e.g., a <i>zav</i> or leper who immersed at the conclusion of his period of impurity but has not yet brought an offering for his atonement, <b>who is permitted</b> to eat <b><i>teruma</i>, disqualifies</b> a <b>consecrated</b> item if he comes into contact with it, with regard to <b>third-</b>degree ritual impurity, <b>which disqualifies <i>teruma</i>,</b> and in that way is more severe than one who lacks atonement, <b>is it not right that it</b> should <b>confer fourth-</b>degree ritual impurity status <b>upon a consecrated</b> item? The status of an item with third-degree ritual impurity should be no less severe than that of a person who lacks atonement.",
+      "he": "וְדִין הוּא: וּמָה מְחוּסַּר כִּפּוּרִים שֶׁמּוּתָּר בִּתְרוּמָה, פָּסוּל בַּקּוֹדֶשׁ. שְׁלִישִׁי שֶׁפָּסוּל בִּתְרוּמָה — אֵינוֹ דִּין שֶׁיַּעֲשֶׂה רְבִיעִי בַּקּוֹדֶשׁ?",
+      "ref": "Pesachim 18b:15"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולמדנו שלישי בקודש מן התורה</strong> - ודלא תימא דיו לבא מן הדין להיות כנדון מה תרומה עושה שלישי ותו לא אף זה קודש יעשה שלישי ותו לא דמשום שלישי לא איצטריך לן קל וחומר דמן התורה למדנו שלישי וכי אתא ק\"ו לרביעי הוא דאתא דקיימא לן בב\"ק פ' שני <span class=\"parenthesized\">(ד' כה.)</span> דהיכא דמיפרך ק\"ו לא אמרינן דיו:",
+              "ref": "Rashi on Pesachim 18b:16:1",
+              "sourceHeRef": "רש\"י על פסחים י״ח ב:טז:א",
+              "sourceRef": "Rashi on Pesachim 18b:16:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: הרי <b>למדנו שלישי בקודש מן התורה, ורביעי</b> בקודש <b>מקל וחומר</b> זה, ודיו לבא מן הדין להיות כנידון, ואף קודש לא יעשה רביעי אלא שלישי בלבד, כמו תרומה ממנה הוא נלמד.",
+              "ref": "Steinsaltz on Pesachim 18b:16",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:טז",
+              "sourceRef": "Steinsaltz on Pesachim 18b:16"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> למדנו שלישי כו' וה\"מ למדרש שלישי לקודש ק\"ו מט\"י כו' עכ\"ל לפי דרכם דמחוסר כפורים כשלישי המ\"ל נמי שלישי לקודש במה מצינו ממחוסר כפורים וצ\"ל לשיטת רש\"י דלא אמרינן היכא דמפריך ק\"ו לא אמרי' דיו אלא היכא דאיכא בהך מלתא קרא מפורש ואי אמרי' דיו לא היה צריך קרא דמק\"ו נמי קאתי ואין סברא לומר דמלתא דאתיא בק\"ו טרח וכתב לה קרא אלא יתורא דקרא אשמעינן דנילף בק\"ו בלמד אפילו מאי דליתא במלמד אבל היכא דליכא יתורא דקרא ודאי דנימא דיו ולא עדיף הלמד מן המלמד דאתי מחמתיה וכן מוכחת הסוגיא דפ' כיצד הרגל בהאי ק\"ו דלעיל בט\"י אע\"ג דליכא יתורא דקרא דפוסל שני בתרומה דאצטריך למכתביה משום חולין מ\"מ כיון דסתם הכתוב בשני דפוסל ולא מפורש ביה דאצטריך למכתביה משום חולין ה\"ל כאילו מפורש ביה תרומה ולא אצטריך ליה אי לאו דנימא דאשמעי' דליהוי הלמד עדיף מן המלמד ודו\"ק:",
+                      "ref": "Chidushei Halachot on Pesachim 18b:8",
+                      "sourceHeRef": "חדושי הלכות על פסחים י״ח ב:ח",
+                      "sourceRef": "Chidushei Halachot on Pesachim 18b:8"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">למדנו שלישי מן התורה</strong> - ניחא ליה להביא מקרא וה\"מ למידרש שלישי לקודש קל וחומר מטבול יום ורש\"י פירש דלהכי איצטריך למימר למדנו שלישי מן התורה דלא תימא דיו אבל השתא דלמדנו מן התורה לא אמרינן דיו משום דמיפרך קל וחומר:",
+              "ref": "Tosafot on Pesachim 18b:16:1",
+              "sourceHeRef": "תוספות על פסחים י״ח ב:טז:א",
+              "sourceRef": "Tosafot on Pesachim 18b:16:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara notes: <b>And we derived third-</b>degree impurity <b>with regard to consecrated</b> items <b>from the Torah, and fourth-</b>degree impurity of consecrated items <b>by</b> means of the above <b><i>a fortiori</i> inference.</b> In light of the <i>dayyo</i> principle, one might have thought that this <i>a fortiori</i> inference cannot serve as the basis of the <i>halakha</i> that consecrated property can assume fourth-degree impurity status. Since the source of this inference is third-degree impurity status, the conclusion that emerges can be only that consecrated objects can assume third-degree impurity status, like <i>teruma</i> itself. The Gemara explains that the <i>dayyo</i> principle does not apply in this case. If the <i>a fortiori</i> inference is rendered moot as a result of applying that principle, the principle is not applied. Because the fact that consecrated objects can assume third-degree impurity status is derived from the verse, if that which emerges from the inference is that <i>halakha</i> itself, the <i>a fortiori</i> inference is moot. Therefore, the principle does not apply and the fact that consecrated objects can assume fourth-degree impurity status is derived from the inference.",
+      "he": "וְלָמַדְנוּ שְׁלִישִׁי בַּקּוֹדֶשׁ מִן הַתּוֹרָה, וּרְבִיעִי מִקַּל וָחוֹמֶר.",
+      "ref": "Pesachim 18b:16"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומבארים: <b>שלישי מן התורה</b> כיצד? <b>דכתיב</b> <span class=\"hebrew-emphasis\">[שנאמר]</span> <b>\"והבשר אשר יגע</b>",
+              "ref": "Steinsaltz on Pesachim 18b:17",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים י״ח ב:יז",
+              "sourceRef": "Steinsaltz on Pesachim 18b:17"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Flesh that touches anything unclean shall not be eaten; it shall be consumed in fire. As for other flesh, only he who is clean may eat such flesh.",
+              "he": "וְהַבָּשָׂ֞ר אֲשֶׁר־יִגַּ֤ע בְּכׇל־טָמֵא֙ לֹ֣א יֵֽאָכֵ֔ל בָּאֵ֖שׁ יִשָּׂרֵ֑ף וְהַ֨בָּשָׂ֔ר כׇּל־טָה֖וֹר יֹאכַ֥ל בָּשָֽׂר׃",
+              "link": "/Leviticus/7",
+              "ref": "Leviticus 7:19",
+              "sourceHeRef": "ויקרא ז:יט",
+              "sourceRef": "Leviticus 7:19"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara elaborates. The fact that consecrated objects can assume third-degree impurity status is derived <b>from the Torah, as it is written: “And the flesh that touches</b>",
+      "he": "שְׁלִישִׁי מִן הַתּוֹרָה, דִּכְתִיב ״וְהַבָּשָׂר אֲשֶׁר יִגַּע",
+      "ref": "Pesachim 18b:17"
+    }
+  ],
+  "title": "Pesachim 18b",
+  "titleHebrew": "פסחים יח,ב",
+  "topics": []
+}

@@ -1,0 +1,969 @@
+{
+  "id": "65a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וצריך שיהא בודק ממנו ולהלן עשרים אמה</strong> - שהיא כמנין שני מערות והחצר שביניהם והתם מתרגם לה רב ששת בריה דרב אידי אליבא דר\"ש דאמר פותח בה שתי מערות של שש על שמונה דחדא מנייהו בנפלי ואידך מוקים לה כרבנן דאמרי שאין אורך המערה אלא ד' אמות על ו' אמות ותמני סרי הוא דהויין וקא מוקים לה דחדא מנייהו באלכסונה והויין להו עשרים והתם פרישית לכולה מילתא דמתניתין דהכא:",
+              "ref": "Rashi on Nazir 65a:1:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:א:א",
+              "sourceRef": "Rashi on Nazir 65a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חזר ומצא אחד בתוך עשרים בודק ממנו ולהלן עשרים אמה</strong> - משום דאיכא למימר שכונת קברות היא זו:",
+              "ref": "Rashi on Nazir 65a:1:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:א:ב",
+              "sourceRef": "Rashi on Nazir 65a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שרגלים לדבר</strong> - שהיא שכונת קברות מדאשכח ג' בתוך כ' אמה שיש בין זה לזה מד' אמות ועד ח' ועכשיו מצא אחד בתוך כ' ולא אמרינן אתרמויי איתרמי דלא נקבר שם אלא אחד שאילו זה יחידי אם מצאו מתחילה היה רשאי לפנותו למקום אחר ונוטלו ואת תפוסתו אבל עכשיו שמצא ג' בתוך כ' ואחד בסוף עשרים יש לומר שהיא שכונת קברות:",
+              "ref": "Rashi on Nazir 65a:1:3",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:א:ג",
+              "sourceRef": "Rashi on Nazir 65a:1:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בודק הימנו</b> (ממנו) מאותו מקום <b>ולהלן</b> (והלאה) <b>עשרים אמה,</b> אם <b>מצא</b> עוד <b>אחד בסוף עשרים אמה —</b> <b>בודק הימנו ולהלן</b> עוד <b>עשרים אמה. שרגלים לדבר</b> שהיה שם בית קברות, והוא נתקל בבית קברות עתיק. ואז אין לפנות את המקום, אף <b>שאילו תחילה מצאו</b> אותו מת לבדו — <b>נוטלו ואת תפוסתו</b> ומוציאו משם.",
+              "ref": "Steinsaltz on Nazir 65a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:א",
+              "sourceRef": "Steinsaltz on Nazir 65a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Some commentaries state that one examines twenty cubits from the last grave (Rambam). Others maintain that it refers to the first grave, based on the Gemara in <i>Bava Batra</i> (102a), which explains that the concern is that there may be another burial cave adjacent to it (Ra’avad). The interpretation of the Ra’avad fits the Gemara in <i>Bava Batra</i>, at least according to the standard version of the Gemara there (<i>Kesef Mishne</i>; see Meiri).",
+              "he": "הרמב\"ם מפרש שבודק מן האחרון שבהם עוד עשרים אמה. ואילו הראב\"ד מסביר כי לפי הגמרא בבבא בתרא (קב, א), שפירשה דין זה לענין מערות קבורה, צריך לומר שבודק מן הראשון. וכתב בכ\"מ שלפחות לנוסח הגמרא שלפנינו דברי הראב\"ד מתאימים למה שנתבאר במסכת בבא בתרא. ואולי לדעת הרמב\"ם כיון ששיעור זה של עשרים אמה הוא רק מסורת בידינו ואין לו טעם ברור, הרי אין הוכחה ממה שנאמר לענין מערות קבורה (ראה מאירי).",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:1",
+              "sourceHeRef": "בּוֹדֵק הֵימֶנּוּ",
+              "sourceRef": "Examine from that spot"
+            },
+            {
+              "en": "The commentaries explain, based on the Gemara in <i>Bava Batra </i>(102a), that if these caves were six by eight cubits, then in accordance with the opinion of Rabbi Shimon, one must examine the length of two caves, sixteen cubits, and the intervening courtyard of six cubits. The amount stated here is less than that because it might be a smaller cave for children or stillborn babies. The Rabbis, however, claim that a cave measures four by six cubits, which means that the two caves and the courtyard amount to only eighteen cubits. According to their opinion, there is a concern that one cave might have been positioned at a diagonal from the other, and therefore the extra space for the diagonal must be taken into account. The entire area of the twenty cubits must be searched, as the second cave might be alongside the other, which would mean that the space between the grave is less than twenty cubits.",
+              "he": "בפשטות הכוונה היא שבודק לכל צד, שהרי אינו יודע אם קברים אלה שמצא שייכים למערה בקצה האחד או האחר של בית הקברות. ויש שפירשו שבודק רק לצד רגלי המתים, לפי שכך היו נוהגים לסדר את המערות (רא\"ש). ובשטמ\"ק מביא בשם ר\"ת שמה שמשמע כאן שבודק לצד אחד הוא כאשר היה בצד אחר סלע או מים, שאין מקום לחשוש למערת קברים נוספת.",
+              "ref": "Steinsaltz comment #2 on Nazir 65a:1",
+              "sourceHeRef": "עֶשְׂרִים אַמָּה",
+              "sourceRef": "Twenty cubits"
+            },
+            {
+              "en": "If one found only a single body in his search of those twenty cubits, it may be moved, in accordance with the <i>halakha</i> of an isolated corpse. In the case in the mishna, however, since the twenty cubits were examined due to the discovery of three graves, there is a basis to anticipate that there was an ancient cemetery there. Consequently, further examination is required.",
+              "he": "וביארו המפרשים (על פי דברי הגמרא בבבא בתרא) שאם כשיטת ר' שמעון שמערה היא שש אמות על שמונה, צריך לבדוק כדי אורך שתי מערות (שש עשרה אמה) והחצר שביניהן (שש אמות). ואף שאמרו ששיעור זה גדול יותר, שמא במערה אחת קברו ילדים או נפלים ועשו מערה קטנה יותר. ואילו לדברי חכמים ששיעור המערה הוא ארבע אמות על שש, ושתי מערות עם החצר הן שמונה עשרה אמות בלבד, הרי יש לחשוש שמא היתה מערה אחת באלכסון כלפי הקודמת לה, ולכן צריך להוסיף כדי אלכסון של מערה. ובכלל בדיקה זו שבודק מה שבאמצע, שהרי ייתכן שמערה שניה היתה לרוחב הראשונה ואין המרחק בינה לאחרת עשרים אמה אלא פחות מכן.",
+              "ref": "Steinsaltz comment #3 on Nazir 65a:1",
+              "sourceHeRef": "שֶׁרַגְלַיִם לַדָּבָר שֶׁאִילּוּ תְּחִילָּה מְצָאוֹ וכו׳",
+              "sourceRef": "As there is a basis for anticipating the matter, that if he had found the single body by itself at first, etc."
+            },
+            {
+              "en": "If one finds three corpses lying in the usual manner for burial, which necessitates the examination of twenty cubits, and he subsequently finds another body at the end of twenty cubits, he must check a further twenty cubits. This is because there is a basis to anticipate that this is a graveyard (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:3).",
+              "he": "ואמרו בתלמוד הירושלמי שאם מצא שם מערת קברים לא הזקיקוהו להמשיך ולבדוק עוד פעם מעבר לארבעים אמה.",
+              "ref": "Steinsaltz comment #4 on Nazir 65a:1",
+              "sourceHeRef": "בּוֹדֵק הֵימֶנּוּ וכו׳",
+              "sourceRef": "Examine from that spot, etc."
+            },
+            {
+              "en": "",
+              "he": "שהרי לאחר עשרים אמה לא מצא אלא מת אחד בלבד, וכבר אמרנו שמת אחד שמצא, מפנהו ממקומו. אלא כיון שמצא כבר שלושה קברים הנראים כמערה, וחזר ומצא מערה אחרת, הרי יש מקום לחשוש (\"רגלים לדבר\") שהיה שם בית קברות עתיק וצריך בדיקה נוספת.",
+              "ref": "Steinsaltz comment #5 on Nazir 65a:1",
+              "sourceHeRef": "שרגלים לדבר שאילו תחילה וכו'",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "מצא שלושה מתים באופן שצריך לבדוק עשרים אמה, אם מצא מת בסוף עשרים אמה, צריך לבדוק ממנו עשרים אמה אחרות, שרגלים לדבר. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"ג).",
+              "ref": "Steinsaltz comment #6 on Nazir 65a:1",
+              "sourceHeRef": "בודק הימנו וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בודק הימנו ולהלן כ' אמה</strong> - בפרק המוכר פירות <span class=\"parenthesized\">(ב\"ב דף קב.)</span> פריך עשרים ותרתין הויין לשתי מערות ששה עשר וחצר הקבר אמרינן התם לר\"ש ורבנן שש אמה ומשני בנפלים שרגילות הוא כשאחת מן המערות גדולות השניה של נפלים ולכך בשנית סגי בארבע על שש ואיכא דמוקי התם למתני' <span class=\"parenthesized\">(דהתם ומתני')</span> דהכא כרבנן דאמרי תוכה של מערה ארבע על שש ופריך תמני סרי הויין ומשני שבדק מערה ראשונה באלכסון ולחפש ולבדוק היטב ומה שהוא מתעקם עולה לשתי אמות:",
+              "ref": "Tosafot on Nazir 65a:1:1",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:א:א",
+              "sourceRef": "Tosafot on Nazir 65a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מצא א' בסוף כ' בודק הימנו ולהלן עשרים שרגלים לדבר שאילמלי בתחילה מצאו נוטלו ואת תפוסתו</strong> - אבל עתה שמצא כבר ג' מתים אף כשמצא אחד יש לחוש לשכונת הקברות וצריך לבדוק עד עשרים:",
+              "ref": "Tosafot on Nazir 65a:1:2",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:א:ב",
+              "sourceRef": "Tosafot on Nazir 65a:1:2"
+            }
+          ]
+        }
+      },
+      "en": "One must therefore <b>examine from that</b> spot <b>outward</b> for <b>twenty cubits.</b> If one <b>finds</b> another corpse <b>at the end of twenty cubits,</b> he <b>examines</b> from that spot <b>outward twenty cubits, as there is a basis for</b> anticipating <b>the matter.</b> It is likely that he has stumbled upon an ancient gravesite. He is not permitted to relocate the corpses, despite the fact <b>that if he had found</b> the single corpse by itself <b>at first</b> he could have <b>removed it and its surrounding</b> earth.",
+      "he": "בּוֹדֵק הֵימֶנּוּ וּלְהַלָּן עֶשְׂרִים אַמָּה, מָצָא אֶחָד בְּסוֹף עֶשְׂרִים אַמָּה — בּוֹדֵק הֵימֶנּוּ וּלְהַלָּן עֶשְׂרִים אַמָּה. שֶׁרַגְלַיִם לַדָּבָר. שֶׁאִילּוּ תְּחִילָּה מְצָאוֹ — נוֹטְלוֹ וְאֶת תְּפוּסָתוֹ.",
+      "ref": "Nazir 65a:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When one finds three corpses buried in an ordinary manner at the outset, three hollows in the wall of a cave, or a hollow, a grave, and a crypt, it is considered as a burial area.<br>If one finds two and the existence of one had been known previously, there is a requirement to remove the <i>tevusah</i>, but there is no obligation to check the area around the grave. The rationale is that a grave whose existence is known does not cause a place to be considered as a burial area. It was said only that when one finds three graves at the outset, then an inspection is required.<br>How should the inspection of the twenty cubits mentioned be carried out? One should dig until he reaches a rock or virgin earth, i.e., earth that appears that it has never been tilled. If one dug even 100 cubits deep and discovered earth that was plowed, the original requirement remains and one must dig deeper until he reaches virgin earth. If one reaches water, it is as if he reached virgin earth.",
+              "he": "אֶחָד הַמּוֹצֵא שְׁלֹשָׁה מֵתִים כְּדַרְכָּן בַּתְּחִלָּה אוֹ שֶׁמָּצָא שְׁלֹשָׁה כּוּכִין אוֹ כּוּךְ וּנְקִיעַ וּמְעָרָה הֲרֵי זוֹ שְׁכוּנַת קְבָרוֹת. מָצָא שְׁנַיִם וְאֶחָד הָיָה יָדוּעַ יֵשׁ לָהֶם תְּבוּסָה וְאֵין לָהֶם שְׁכוּנַת קְבָרוֹת שֶׁהַקֶּבֶר הַיָּדוּעַ אֵינוֹ עוֹשֶׂה שְׁכוּנָה. וְלֹא אָמְרוּ אֶלָּא הַמּוֹצֵא שְׁלֹשָׁה בַּתְּחִלָּה הוּא שֶׁצָּרִיךְ בְּדִיקָה. כֵּיצַד בּוֹדֵק הָעֶשְׂרִים אַמָּה שֶׁאָמַרְנוּ. חוֹפֵר עַד שֶׁהוּא מַגִּיעַ לְסֶלַע אוֹ לִבְתוּלָה. וְהִיא הַקַּרְקַע שֶׁנִּרְאֵית שֶׁאֵינָהּ עֲבוּדָה. הֶעְמִיק אֲפִלּוּ מֵאָה אַמָּה וּמָצָא חֶרֶשׂ הֲרֵי זוֹ כְּבַתְּחִלָּה וְצָרִיךְ לְהַעֲמִיק עַד שֶׁיַּגִּיעַ לִבְתוּלָה. הִגִּיעַ לְמַיִם הֲרֵי זוֹ כִּבְתוּלָה:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 9:6",
+              "sourceHeRef": "הלכות טומאת מת ט:ו",
+              "sourceRef": "Defilement by a Corpse 9:6"
+            },
+            {
+              "en": "If one was digging and he discovered a corpse buried in an ordinary manner, he should remove it and the earth of their <i>tevusah</i>. Similarly, if he discovered two corpses buried in an ordinary manner, he should remove both of them and the earth of their <i>tevusah</i>, and the entire field is pure. More stringent laws apply when one finds three corpses, each one lying in the manner in which corpses are usually buried. If there are between four and eight cubits between one grave and the other - i.e., the space for a bier and the buriers - it is necessary to check an additional twenty cubits - i.e., the space for two burial crypts and the open space between them from the last grave. If he does not find another corpse in this space, those twenty cubits that he checked are pure, even though they are in an area close to graves.<br>If he finds another corpse at the end of the 20 cubit area, it is necessary to check another twenty cubits from it, for there is a basis for the assumption that other graves will be found.<br>If one of the corpses that was found originally or ultimately had been slain, was sitting, or lying in an unordinary manner, e.g., its head was between its knees, it is not necessary to check another twenty cubits. Instead, one must merely remove the remains of the corpse and its <i>tevusah</i>, The rationale is that we operate on the presumption that the corpses are of gentiles.",
+              "he": "הָיָה חוֹפֵר וּמָצָא מֵת מֻשְׁכָּב כְּדֶרֶךְ שֶׁקּוֹבְרִין הַמֵּתִים נוֹטְלוֹ וְאֶת תְּבוּסָתוֹ. וְכֵן אִם מָצָא שְׁנַיִם נוֹטֵל כָּל אֶחָד מֵהֶן וּתְבוּסָתוֹ עִמּוֹ וְכָל הַשָּׂדֶה טְהוֹרָה. מָצָא שְׁלֹשָׁה מֵתִים כָּל אֶחָד מֵהֶן מֻטָּל כְּדֶרֶךְ הַנִּקְבָּרִין אִם יֵשׁ בֵּין זֶה לָזֶה מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה כִּמְלוֹא מִטָּה וְקוֹבְרֶיהָ הֲרֵי זֶה חוֹשֵׁשׁ שֶׁמָּא בֵּית הַקְּבָרוֹת הוּא זֶה וְצָרִיךְ לִבְדֹּק מִן הָאַחֲרוֹן עֶשְׂרִים אַמָּה שֶׁהֵן כִּשְׁתֵּי מְעָרוֹת וְחָצֵר שֶׁבֵּינֵיהֶן. וְאִם לֹא מָצָא שָׁם מֵת אַחֵר הֲרֵי אוֹתָן הָעֶשְׂרִים שֶׁבָּדַק טְהוֹרוֹת אַף עַל פִּי שֶׁהֵן שְׁכוּנַת קְבָרוֹת. מָצָא מֵת אֶחָד בְּסוֹף עֶשְׂרִים אַמָּה צָרִיךְ לִבְדֹּק מִמֶּנּוּ עֶשְׂרִים אַמָּה אֲחֵרוֹת לְפִי שֶׁרַגְלַיִם לַדָּבָר. וְאִם הָיָה אֶחָד מֵאֵלּוּ שֶׁמָּצָא בַּתְּחִלָּה אוֹ בַּסּוֹף הָרוּג אוֹ יוֹשֵׁב אוֹ מֻשְׁכָּב שֶׁלֹּא כְּדַרְכּוֹ שֶׁיִּהְיֶה רֹאשׁוֹ בֵּין יַרְכוֹתָיו אֵינוֹ בּוֹדֵק עֶשְׂרִים אַמָּה אֶלָּא נוֹטְלָן וְאֶת תְּבוּסָתָן בִּלְבַד שֶׁחֶזְקָתָן עַכּוּ\"ם:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 9:3",
+              "sourceHeRef": "הלכות טומאת מת ט:ג",
+              "sourceRef": "Defilement by a Corpse 9:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רב יהודה מצא פרט למצוי</strong> - דהא דתנן מצא ג' מתים מושכבין כדרכן דקנו מקומן ויש להן שכונת קברות פרט למצוי שאם היה יודע קודם לכן שאחד מהן נקבר לשם אין זו שכונת קברות ונוטלן ואת תפוסתן ומותר לו לפנותן למקום אחר שלא קנו מקומן:",
+              "ref": "Rashi on Nazir 65a:2:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ב:א",
+              "sourceRef": "Rashi on Nazir 65a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מת פרט להרוג</strong> - שאם מצא א' מגוייד או שלשתן מגויידין אמרינן דהכי איתרמי שנהרגו לשם ונקברו שם שלא בבית הקברות ולא מחזקינן ליה כשכונת קברות אלא נוטלן ואת תפוסתן:",
+              "ref": "Rashi on Nazir 65a:2:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ב:ב",
+              "sourceRef": "Rashi on Nazir 65a:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מושכב פרט ליושב</strong> - שאם מצאן יושבין הואיל ואין מושכבין כשאר מתים נוטלן ואת תפוסתן:",
+              "ref": "Rashi on Nazir 65a:2:3",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ב:ג",
+              "sourceRef": "Rashi on Nazir 65a:2:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כדרכו פרט לראשו מונח לו בין ירכותיו</strong> - שאם מצא אחד מהם ראשו מונח לו בין ירכותיו אמרינן דהכי איתרמי שנזרק לשם:",
+              "ref": "Rashi on Nazir 65a:2:4",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ב:ד",
+              "sourceRef": "Rashi on Nazir 65a:2:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א גמרא</big> <b>אמר רב יהודה</b> ודייק מלשון המשנה: <b>מצא</b> שלושה הרי זו שכונת קברות, כוונתו — <b>פרט למצוי,</b> שאם היה יודע שקבור שם מת אחד לא היה צריך לחשוש לבית קברות, אף אם יש שם שלושה. וכן מה ששנינו <b>מת</b> — הרי זה בא להדגיש: <b>פרט להרוג,</b> שאם יש סימנים שנהרג אותו אדם, בודאי אין זה סימן לשכונת קברות. וכן מה ששנינו <b>מושכב —</b> <b>פרט ליושב,</b> משום שאין דרך לקבור אדם מישראל בישיבה. וכן מה ששנינו <b>כדרכו —</b> <b>פרט ל</b>זה <b>שראשו מונח בין ירכותיו,</b> שאינו דרך קבורה של יהודים.",
+              "ref": "Steinsaltz on Nazir 65a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:ב",
+              "sourceRef": "Steinsaltz on Nazir 65a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Most commentaries maintain that this refers to the second <i>halakha</i> of the mishna: If he found three…this is a graveyard, and explain that if one body was known to be buried there, it is permitted to move all three. The problem with this explanation is that it is unclear why the first body itself should be moved, as a corpse acquires the place of its burial. Therefore, some commentaries add that it was also known that this body was interred there only on a temporary basis, which is why one may move it (Rabbi Avraham min HaHar; Meiri; see Commentary on <i>Nazir</i>). Others state that the Gemara is referring to the first <i>halakha</i> of the mishna: One who finds a corpse must remove it and its surrounding earth. It is from this statement that Rav Yehuda inferred that one may remove it only if he discovered the body, but if its presence was known it is prohibited to remove it (<i>Tosafot</i>; <i>Shita Mekubbetzet</i>). An entirely different interpretation is that the phrase: Excluding one that had been found, is referring to a corpse discovered that was not buried at all lying in a field (Rambam). According to this explanation, the exclusion is referring to the entire mishna, as one is permitted to remove this body without taking its surrounding earth. Additionally, three corpses of this kind would not constitute a graveyard.",
+              "he": "רוב המפרשים מסבירים כי כאן מתייחסים להלכה השניה במשנה \"מצא שלשה... הרי זו שכונת קברות\", פרט למצוי — שהיה ידוע שיש שם אחד קבור. וכיון שכך מותר לפנות את שלושתם. וכבר תהו מפני מה יפנה מת זה עצמו? והרי המת קונה מקומו! והר\"א מן ההר (וכן המאירי) כתב שהיה ידוע שמת זה נקבר שם קבורה זמנית, ולכן מותר לפנותו. ונרמז הדבר גם בדברי המפרש. ואילו בתוס' פירשו בשם ר\"י כי מדובר כאן על הדין הראשון של המשנה \"המוצא מת נוטלו את תפוסתו\", ועל כך דייק רב יהודה — דווקא מצוי נוטלו, אבל אם היה ידוע — אסור לפנותו (וכך גורס בשיטה: \"המוצא\" — פרט למצוי). אכן, הרמב\"ם מפרש פרט למצוי — שהיה מוטל על פני השדה, שלא נקבר כלל. וענין זה נוגע לכל המשנה, לומר שבמקרה כזה נוטלו ואינו צריך ליטול תפוסתו, ואם היו שלושה במצב כזה אינם נעשים שכונת קברות.",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:2",
+              "sourceHeRef": "מָצָא, פְּרָט לְמָצוּי",
+              "sourceRef": "He found, excludes a corpse that had been found"
+            },
+            {
+              "en": "The <i>halakhot</i> of a graveyard and the surrounding earth do not apply to corpses found lying in an open field. One merely collects all of the bones to bury elsewhere, and the rest of the area is pure (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:5).",
+              "he": "וכיון שהיה הרוג מן הסתם לפי שעה קברוהו שם סמוך למקום שנהרג, ועל מנת לפנותו לקברי אבותיו (ראה במפרש). והרא\"ש כתב שהרוג נחשב כמת שחסר, ומשום כך אינו נמנה עם האחרים, ואין לו דין תפוסה.",
+              "ref": "Steinsaltz comment #2 on Nazir 65a:2",
+              "sourceHeRef": "פְּרָט לְמָצוּי",
+              "sourceRef": "Excludes a corpse that had been found"
+            },
+            {
+              "en": "If one was digging and discovered a corpse of one who was killed, or a corpse buried in a sitting position or with its head between its thighs, not in the manner of Jewish burial, then he need not be concerned that this might be a cemetery, even if the body was one of three within the proper distance for a gravesite. Instead, he removes the bodies and their surrounding earth, and the rest of the field remains pure (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:1; 3).",
+              "he": "שאין זו דרך קבורה של ישראל. ומן התלמוד הירושלמי משמע שכל שלא נקבר כדרכו יש לשער שלא נקבר כלל, אלא גל אדמה נפל עליו ונשאר מונח כדרך שהיה בחייו.",
+              "ref": "Steinsaltz comment #3 on Nazir 65a:2",
+              "sourceHeRef": "פְּרָט לְהָרוּג…פְּרָט לְיוֹשֵׁב",
+              "sourceRef": "Excludes a killed person…excludes a sitting person"
+            },
+            {
+              "en": "",
+              "he": "ובתלמוד הירושלמי פירשו שדרך קבורת מתי ישראל שרגליו פשוטות וידיו מונחות על לבו, וכל שנקבר בדרך אחרת יש לשער שאינו אדם מישראל. והוא הדין למי שראשו של זה בצד מרגלות חבירו, שדרך ישראל שכל המתים נקברים בכיוון אחד.",
+              "ref": "Steinsaltz comment #4 on Nazir 65a:2",
+              "sourceHeRef": "כדרכו",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "מתים הנמצאים גלויים על פני השדה — אין להם שכונת קברות ולא תבוסה, אלא מלקט עצם עצם והשאר טהור. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"ה).",
+              "ref": "Steinsaltz comment #5 on Nazir 65a:2",
+              "sourceHeRef": "פרט למצוי",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "חפר ומצא הרוג, או שמצאו קבור כשהוא יושב או מושכב שלא כדרך קבורת ישראל (כגון שהיה ראשו בין ירכיו) — אינו חושש שמא היה זה בית הקברות, ואף אם היה זה אחד מתוך שלושה שהיו קבורים במרחק הראוי לבית קברות. אלא נוטל המתים ומוציא את תבוסתם, ושאר השדה נשאר בחזקת טהרה. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"א וה\"ג).",
+              "ref": "Steinsaltz comment #6 on Nazir 65a:2",
+              "sourceHeRef": "פרט להרוג... פרט ליושב וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מצא פרט למצוי</strong> - פי' ר\"י שאם היה ידוע לא יהא נוטלו כדאמרינן בפרק נגמר הדין <span class=\"parenthesized\">(סנהדרין דף מז:)</span> [קבר הנמצא מותר לפנותו] קבר הידוע אסור לפנותו והא דאמרינן התם פינה מקומו טהור והכא משמע דיש לו תפוסה אמר ר\"י דהתם לא בתפוסה איירי דתפוסה היינו לצד הקרקע בעומק אבל התם בטומאה דרבנן איירי דמדרבנן מטמינן לתוך כל הקבר לד' רוחות אבל רשב\"ם פירש פרט למצוי דהיינו א' ידוע ושנים בתחילה דבסמוך וקשיא לשיטתו דא\"כ בחנם נקט המוצא דהוא הדין לשלשתן ידועין דיש לו שכונת קברות:",
+              "ref": "Tosafot on Nazir 65a:2:1",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:ב:א",
+              "sourceRef": "Tosafot on Nazir 65a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פרט להרוג</strong> - כדאמרינן בסמוך דמת שחסר אין לו תפוסה ואין לו שכונת קברות:",
+              "ref": "Tosafot on Nazir 65a:2:2",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:ב:ב",
+              "sourceRef": "Tosafot on Nazir 65a:2:2"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b><span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> said</b> the following inferences from the mishna: The phrase: He <b>found, excludes</b> a corpse <b>that</b> already had <b>been found.</b> If it was known that there was one corpse buried in a certain place, the discovery of two previously unknown corpses does not raise the concern that perhaps it is a forgotten graveyard. Similarly, the term <b>corpse [<i>met</i>] excludes a killed [<i>harug</i>]</b> person. Even if there were three corpses found, if there are signs that these people were killed, the area is not assumed to be a graveyard, as they may have been buried where they were found killed. Likewise, the term <b>lying excludes a sitting</b> person, as Jews were not generally buried in a seated position. The phrase: <b>In</b> the usual <b>manner, excludes</b> one <b>whose head was placed between his thighs,</b> as that is not the way Jews are buried.",
+      "he": "<big><strong>גְּמָ׳</strong></big> אָמַר <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">רַב יְהוּדָה</span>: מָצָא — פְּרָט לְמָצוּי. מֵת — פְּרָט לְהָרוּג. מוּשְׁכָּב — פְּרָט לְיוֹשֵׁב. כְּדַרְכּוֹ — פְּרָט לְשֶׁרֹאשׁוֹ מוּנָּח בֵּין יַרְכוֹתָיו.",
+      "ref": "Nazir 65a:2",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">תְּבוּסָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, בּוּס 1\" dir=\"rtl\" href=\"/Jastrow,_בּוּס.1\">בּוּס</span>, see <span class=\"refLink\" data-ref=\"Ezekiel 16:22\" href=\"/Ezekiel.16.22\">Ezekiel XVI, 22</span>) <br><b>1)</b> <i>weltering</i>; <span dir=\"rtl\">דם ת׳</span> <i>the blood flowing out of a dying body</i>, which is partly live blood (levitically clean) and partly dead blood (levitically unclean), <i>mixed blood</i>. Oholot II, 2 <span dir=\"rtl\">רביעית דם ורביעית דם ת׳</span> one fourth (of a Log) of blood (of a dead body), and one fourth of mixed blood (make unclean). Ib. III, 5 <span dir=\"rtl\">איזהו דם ת׳ המת וכ׳</span> what is <i>dam t’busah</i>? The blood of a dead body of which one eighth (of a Log) flowed out while it was yet alive, and one eighth after death; ib. <span dir=\"rtl\">איזהו דם ת׳ צלוב וכ׳</span> what is <i>dam t’busah</i>? The blood of an impaled body which flowed uninterruptedly (see <span class=\"refLink\" data-ref=\"Jastrow, שָׁתַת I 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁתַת I.1\">שָׁתַת</span>) &c. <span class=\"refLink\" data-ref=\"Tosefta Megillah 1:10\" href=\"/Tosefta_Megillah.1.10\">Tosefta Megillah I, 10</span> <span dir=\"rtl\">אין בין דם המת לדם ת׳ וכ׳</span> there is no legal difference between the blood of a dead man and that of a dying man, except &c.; <span class=\"refLink\" data-ref=\"Tosefta Ohalot 4:12\" href=\"/Tosefta_Ohalot.4.12\">Tosefta Oholot IV, 12</span>; and e. <br><b><br>—2)</b> <i>pressing, the ground which is pressed by a body in the grave</i>, and which is considered the dead man’s property. <span class=\"refLink\" data-ref=\"Mishnah Nazir 9:3\" href=\"/Mishnah_Nazir.9.3\">Nazir IX, 3</span> (<span class=\"refLink\" data-ref=\"Nazir 64b:11\" href=\"/Nazir.64b.11\">64ᵇ</span>) <span dir=\"rtl\">המוצא … נוטלו ואת תְּבוּסָתוֹ</span> (Bavli ed. <span dir=\"rtl\">תְּפוּסָתוֹ</span>; Yerushalmi ed. <span class=\"refLink\" data-ref=\"Jastrow, תְּפוּסָה 1\" dir=\"rtl\" href=\"/Jastrow,_תְּפוּסָה.1\">תְּפוּשָׂ׳</span>) if one finds in his field a body in the usual position of a buried man, the first time, he may remove it with the ground which it occupies (for burial in another place); <span dir=\"rtl\">מצא שנים … ואת תְּבוּסָתָן</span> (Bavli ed. <span dir=\"rtl\">תפוס׳</span>; Yerushalmi ed. <span dir=\"rtl\">תפוש׳</span>) if he finds two, he may still remove them and their ground; Oholot XVI, 3 <span dir=\"rtl\">תב׳</span>; <span class=\"refLink\" data-ref=\"Bava Batra 101b\" href=\"/Bava_Batra.101b\">Bava Batra 101ᵇ</span> sq. <span dir=\"rtl\">תב׳</span> Manuscript Hamburg and Arukh (ed. <span class=\"refLink\" data-ref=\"Jastrow, תַּפְרָא 1\" dir=\"rtl\" href=\"/Jastrow,_תַּפְרָא.1\">תפ׳</span>); Yerushalmi ib. V, beginning 15ᵃ, explained <span dir=\"rtl\">עד שלש וכ׳</span> up to three fingers’ lengths of the ground, as far as the serial secretion penetrates. <span class=\"refLink\" data-ref=\"Nazir 65a:3\" href=\"/Nazir.65a.3\">Nazir 65ᵃ</span> <span dir=\"rtl\">אין לו ת׳</span> has no right of <i>t’busah</i> (<i>t’fusah</i>), i.e. the ground does not belong to the body. <span class=\"refLink\" data-ref=\"Nazir 65a:7\" href=\"/Nazir.65a.7\">Ib.</span> <span dir=\"rtl\">וכמה שיעור ת׳</span> how large is the quantity of the dead man’s ground?; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, תְּבוּסָה 1",
+              "sourceHeRef": "מילון יסטרוב, תְּבוּסָה א׳",
+              "sourceRef": "Jastrow, תְּבוּסָה 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>Ulla bar Ḥanina teaches: A corpse that lacks</b> a part <b>does not have</b> the <i>halakha</i> of <b>dust,</b> which imparts ritual impurity in the amount of a full ladle, <b>nor</b> the <i>halakha</i> of earth that is <b>caught [<i>tefusa</i>]</b> and considered part of a corpse. If a deficient corpse is moved, the surrounding earth is not considered part of it and need not be moved together with the body, as must be performed for a whole corpse. <b>Nor</b> does the <i>halakha</i> of <b>a graveyard</b> apply. If three corpses are discovered in close proximity and one of them is deficient in some way, one need not search for more bodies out of concern that the location might have been a cemetery, as must be done if three intact corpses are found. Rather, the bodies are considered isolated corpses.",
+                "The Gemara <b>raises an objection</b> from a mishna (<i>Eduyyot</i> 6:3) that addresses the question of whether an olive-bulk of flesh that came from a living person imparts ritual impurity as it would were it to come from a corpse: <b>No, if you say</b> that an olive-bulk of flesh imparts impurity <b>with regard to a corpse, whose</b> <i>halakhot</i> of impurity are stringent, as <b>the majority</b> of its structure or the majority of the number of its bones, <b>or a quarter-</b><i>kav</i> of its bones, <b>or</b> even <b>a full ladle of</b> its <b>dust</b> impart impurity, <b>shall you</b> also <b>say</b> that it imparts impurity <b>with regard to a living</b> person, <b>who does not have</b> the <i>halakha</i> of <b>the majority</b> of structure or the majority of the number of its bones, <b>nor a quarter-</b><i>kav</i>, <b>nor a full ladle of dust?</b>",
+                "The Gemara analyzes this passage: <b>What are the circumstances</b> of that mishna that deals with a limb from a living person? If you say <b>that one limb</b> of a living person <b>decayed,</b> and the mishna is indicating <b>that in the corresponding</b> situation <b>with regard to a corpse, there is dust even</b> from <b>one limb.</b> This shows that the <i>halakha</i> of dust applies to a corpse that is missing a limb and not just to a complete corpse. The Gemara rejects this argument: <b>Did</b> the mishna <b>teach that this corpse</b> in that particular case of an isolated limb has the <i>halakha</i> of dust? That is merely an inference, as it is not stated explicitly in the mishna itself. Rather, the mishna <b>teaches us this: The name,</b> i.e., the category, <b>of a corpse has dust.</b> However, <b>the name of a living</b> person <b>does not have dust.</b>",
+                "<b>Rava raised a dilemma:</b> If a limb of a body <b>decayed when he was alive, and</b> that individual <b>subsequently died, what is</b> the <i>halakha</i>? Do we say that <b>when</b> this <b>is learned</b> as a tradition that <b>dust</b> imparts ritual impurity, this applies only <b>if</b> the body <b>decayed when he was dead,</b> but not when he was alive, and therefore this corpse is considered deficient and its dust does not impart impurity? <b>Or perhaps, now in any event he is dead,</b> and his whole body has decomposed, and consequently its dust does impart impurity.",
+                "The Gemara suggests: <b>Come</b> and <b>hear</b> the aforementioned mishna: <b>No, if you say</b> that an olive-bulk of flesh imparts impurity <b>with regard to a corpse, whose</b> <i>halakhot</i> of impurity are stringent, as <b>the majority</b> of its structure or the majority of the number of its bones, <b>or a quarter-</b><i>kav</i> of its bones, <b>or</b> even <b>a full ladle of</b> its <b>dust</b> imparts impurity, <b>shall you</b> also <b>say</b> that it imparts impurity <b>with regard to a living</b> person, who does not have the <i>halakha</i> of the majority of structure or the majority of the number of its bones, nor a quarter-<i>kav</i>, nor a full ladle of dust.",
+                "The Gemara infers from this passage: <b>The reason</b> the olive-bulk of flesh does not impart impurity <b>is due to</b> the fact that it is from <b>a living</b> person, from which it may be inferred that in a corresponding situation involving <b>a corpse,</b> the corpse <b>has</b> the <i>halakha</i> of <b>dust,</b> even if the limb had decomposed during the deceased’s lifetime. The Gemara rejects this contention as above: <b>Did</b> the mishna <b>teach that this corpse</b> in that particular case of an isolated limb has the <i>halakha</i> of dust? That is merely an inference, as it is not stated explicitly in the mishna itself. Rather, the mishna <b>teaches us this: The name,</b> i.e., the category, <b>of a corpse has dust.</b> However, <b>the name of a living</b> person <b>does not have dust.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nazir 51b:5",
+                "Nazir 51b:6",
+                "Nazir 51b:7",
+                "Nazir 51b:8",
+                "Nazir 51b:9",
+                "Nazir 51b:10"
+              ],
+              "he": [
+                "תָּנֵי עוּלָּא בַּר חֲנִינָא: מֵת שֶׁחָסַר — אֵין לוֹ רָקָב וְלֹא תְּפוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת.",
+                "מֵיתִיבִי: לֹא, אִם אָמַרְתָּ בְּמֵת שֶׁיֵּשׁ לוֹ רוֹב וְרוֹבַע אוֹ מְלֹא תַרְווֹד רָקָב — תֹּאמַר בְּחַי, שֶׁאֵין לוֹ לֹא רוֹב, וְלֹא רוֹבַע, וְלֹא מְלֹא תַרְווֹד רָקָב?!",
+                "הֵיכִי דָּמֵי — דְּאַרְקִיב חַד אֵבֶר, דִּכְווֹתֵיהּ גַּבֵּי מֵת: אֲפִילּוּ חַד אֵבֶר אִיכָּא רָקָב! מִי קָתָנֵי הָא מֵת? הָא קָא מַשְׁמַע לַן: שׁוּם מֵת — יֵשׁ לוֹ רָקָב, שׁוּם חַי — אֵין לוֹ רָקָב.",
+                "בָּעֵי רָבָא: הִרְקִיב כְּשֶׁהוּא חַי, וְחָזַר וּמֵת, מַהוּ? כִּי גְּמִירִי רָקָב, דְּאִירְקִיב כְּשֶׁהוּא מֵת. אוֹ דִלְמָא הַשְׁתָּא מִיהָא הָא מָיֵית?",
+                "תָּא שְׁמַע: לֹא אִם אָמַרְתָּ בְּמֵת שֶׁיֵּשׁ לוֹ רוֹב וְרוֹבַע וּמְלֹא תַרְווֹד רָקָב, תֹּאמַר בְּחַי כּוּ׳.",
+                "טַעְמָא מִשּׁוּם חַי, הָא מֵת יֵשׁ לוֹ רָקָב! מִי קָתָנֵי הָא מֵת? הָא קָא מַשְׁמַע לַן דְּשׁוּם מֵת — יֵשׁ לוֹ רָקָב, שׁוּם חַי — אֵין לוֹ רָקָב."
+              ],
+              "link": "/Nazir/51b",
+              "originalRefsBeforeRewriting": [
+                "Nazir 51b:5"
+              ],
+              "ref": "Nazir 51b:5-10",
+              "sourceHeRef": "נזיר נ״א ב",
+              "sourceRef": "Nazir 51b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a corpse is lacking a limb or an organ that, were it to be removed from a living person, he would die, there is no requirement to remove the <i>tevusah</i>, nor is there an obligation to check the area around the grave. When corpses are found lying openly on the surface of a field, there is no requirement to remove the <i>tevusah</i>, nor is there an obligation to check the area around the grave. Instead, one should merely gather bone after bone, and the area is pure.<br>When a corpse is buried without permission of the owner of the field, there is a requirement to remove the <i>tevusah</i>, but there is no obligation to check the area around the grave.",
+              "he": "מֵת שֶׁחָסֵר אֵיבָר שֶׁאִם יִנָּטֵל מִן הַחַי יָמוּת אֵין לוֹ תְּבוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת. וּמֵתִים הַנִּמְצָאִים גְּלוּיִים עַל פְּנֵי הַשָּׂדֶה אֵין לָהֶם שְׁכוּנַת קְבָרוֹת וְלֹא תְּבוּסָה אֶלָּא מְלַקֵּט עֶצֶם עֶצֶם וְהַכּל טָהוֹר. וְהַנִּקְבָּר שֶׁלֹּא בִּרְשׁוּת יֵשׁ לוֹ תְּבוּסָה וְאֵין לוֹ שְׁכוּנַת קְבָרוֹת:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 9:5",
+              "sourceHeRef": "הלכות טומאת מת ט:ה",
+              "sourceRef": "Defilement by a Corpse 9:5"
+            },
+            {
+              "en": "If one was digging and he discovered a corpse buried in an ordinary manner, he should remove it and the earth of their <i>tevusah</i>. Similarly, if he discovered two corpses buried in an ordinary manner, he should remove both of them and the earth of their <i>tevusah</i>, and the entire field is pure. More stringent laws apply when one finds three corpses, each one lying in the manner in which corpses are usually buried. If there are between four and eight cubits between one grave and the other - i.e., the space for a bier and the buriers - it is necessary to check an additional twenty cubits - i.e., the space for two burial crypts and the open space between them from the last grave. If he does not find another corpse in this space, those twenty cubits that he checked are pure, even though they are in an area close to graves.<br>If he finds another corpse at the end of the 20 cubit area, it is necessary to check another twenty cubits from it, for there is a basis for the assumption that other graves will be found.<br>If one of the corpses that was found originally or ultimately had been slain, was sitting, or lying in an unordinary manner, e.g., its head was between its knees, it is not necessary to check another twenty cubits. Instead, one must merely remove the remains of the corpse and its <i>tevusah</i>, The rationale is that we operate on the presumption that the corpses are of gentiles.",
+              "he": "הָיָה חוֹפֵר וּמָצָא מֵת מֻשְׁכָּב כְּדֶרֶךְ שֶׁקּוֹבְרִין הַמֵּתִים נוֹטְלוֹ וְאֶת תְּבוּסָתוֹ. וְכֵן אִם מָצָא שְׁנַיִם נוֹטֵל כָּל אֶחָד מֵהֶן וּתְבוּסָתוֹ עִמּוֹ וְכָל הַשָּׂדֶה טְהוֹרָה. מָצָא שְׁלֹשָׁה מֵתִים כָּל אֶחָד מֵהֶן מֻטָּל כְּדֶרֶךְ הַנִּקְבָּרִין אִם יֵשׁ בֵּין זֶה לָזֶה מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה כִּמְלוֹא מִטָּה וְקוֹבְרֶיהָ הֲרֵי זֶה חוֹשֵׁשׁ שֶׁמָּא בֵּית הַקְּבָרוֹת הוּא זֶה וְצָרִיךְ לִבְדֹּק מִן הָאַחֲרוֹן עֶשְׂרִים אַמָּה שֶׁהֵן כִּשְׁתֵּי מְעָרוֹת וְחָצֵר שֶׁבֵּינֵיהֶן. וְאִם לֹא מָצָא שָׁם מֵת אַחֵר הֲרֵי אוֹתָן הָעֶשְׂרִים שֶׁבָּדַק טְהוֹרוֹת אַף עַל פִּי שֶׁהֵן שְׁכוּנַת קְבָרוֹת. מָצָא מֵת אֶחָד בְּסוֹף עֶשְׂרִים אַמָּה צָרִיךְ לִבְדֹּק מִמֶּנּוּ עֶשְׂרִים אַמָּה אֲחֵרוֹת לְפִי שֶׁרַגְלַיִם לַדָּבָר. וְאִם הָיָה אֶחָד מֵאֵלּוּ שֶׁמָּצָא בַּתְּחִלָּה אוֹ בַּסּוֹף הָרוּג אוֹ יוֹשֵׁב אוֹ מֻשְׁכָּב שֶׁלֹּא כְּדַרְכּוֹ שֶׁיִּהְיֶה רֹאשׁוֹ בֵּין יַרְכוֹתָיו אֵינוֹ בּוֹדֵק עֶשְׂרִים אַמָּה אֶלָּא נוֹטְלָן וְאֶת תְּבוּסָתָן בִּלְבַד שֶׁחֶזְקָתָן עַכּוּ\"ם:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 9:3",
+              "sourceHeRef": "הלכות טומאת מת ט:ג",
+              "sourceRef": "Defilement by a Corpse 9:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מת שחסר אין לו תפוסה</strong> - שנוטלו בלא תפוסתו:",
+              "ref": "Rashi on Nazir 65a:3:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ג:א",
+              "sourceRef": "Rashi on Nazir 65a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא שכונת קברות</strong> - שאם חסר א' מאותן ג' אין להם שכונת קברות דלא קנו מקומן:",
+              "ref": "Rashi on Nazir 65a:3:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ג:ב",
+              "sourceRef": "Rashi on Nazir 65a:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכל הני מאי טעמא לא</strong> - הוי שכונת קברות בשלמא א' מצוי דהכי הוא דגמירי דבעי' שלשה ידועין או שלשה שמצאן תחילה כדאמרינן לקמן אלא כי מצאן אחד הרוג או יושב או ראשו מונחת לו בין ירכותיו או חסר הואיל ושלשתן מצאם תחילה שיש להן שכונת קברות מ\"ט:",
+              "ref": "Rashi on Nazir 65a:3:3",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ג:ג",
+              "sourceRef": "Rashi on Nazir 65a:3:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דילמא עובד כוכבים הוא</strong> - ואיקבר להכא ועובד כוכבים אינו עולה מן המנין ולא פש להו להכא אלא תרי ותנן מצא שנים נוטלן ואת תפוסתן משום הכי לא קנו מקומן:",
+              "ref": "Rashi on Nazir 65a:3:4",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ג:ד",
+              "sourceRef": "Rashi on Nazir 65a:3:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תני</b> <span class=\"hebrew-emphasis\">[שנה</span><span class=\"hebrew-emphasis\">]</span> <b>עולא בר חנינא: מת שחסר אין לו</b> לא <b>תפוסה</b> שאין צריך ליטול עמו את תפוסתו, <b>ולא שכונת קברות,</b> שאינו מצטרף עם שנים אחרים לענין זה. ושואלים: <b>וכל הני</b> <span class=\"hebrew-emphasis\">[אלה</span><span class=\"hebrew-emphasis\">]</span> שאמרנו, יושב או ראשו מונח בין ירכותיו, <b>מאי טעמא</b> <span class=\"hebrew-emphasis\">[מה טעם</span><span class=\"hebrew-emphasis\">]</span> <b>לא</b> יחשבו? ומשיבים: <b>אמרינן</b> <span class=\"hebrew-emphasis\">[אומרים אנו</span><span class=\"hebrew-emphasis\">]</span> <b>דילמא</b> <span class=\"hebrew-emphasis\">[שמא</span><span class=\"hebrew-emphasis\">]</span> <b>גוי הוא,</b> שאין דרך ישראל לקבור כך, ואם הוא קבור כך — שמא גוי הוא.",
+              "ref": "Steinsaltz on Nazir 65a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:ג",
+              "sourceRef": "Steinsaltz on Nazir 65a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "<i>Tosafot</i> inquire into the reason for this <i>halakha</i> and conclude that it is apparently a <i>halakha</i> learned by tradition, for which no justification is provided. The <i>Tosefta</i> in tractate <i>Oholot</i> defines the word: Lacking, in this context as missing a part whose absence would cause the death of a living person.",
+              "he": "בתוס' תהו מה טעמו של דבר, ואמרו שנראה שהיא הלכה מקובלת ואין לנו טעם בה. ואמרו בתוספתא (אהלות) כי הגדרת חסר לענין זה היא: כל שאם יינטל אותו דבר מן החי היה מת.",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:3",
+              "sourceHeRef": "מֵת שֶׁחָסֵר",
+              "sourceRef": "A corpse that is lacking"
+            },
+            {
+              "en": "If a body is missing a vital limb, the <i>halakhot</i> of the surrounding earth and a graveyard do not apply to it, as stated in the <i>Tosefta</i> in tractate <i>Oholot</i> (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:5).",
+              "he": "מת שחסר אבר באופן שאם היה ניטל מן החי היה מת — אין לו תבוסה ולא שכונת קברות. כהגדרת התוספתא באהלות. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"ה).",
+              "ref": "Steinsaltz comment #2 on Nazir 65a:3",
+              "sourceHeRef": "מֵת שֶׁחָסֵר",
+              "sourceRef": "A corpse that is lacking"
+            },
+            {
+              "en": "The ritual impurity of graves does not apply to gentiles, as the impurity of their corpses is not imparted in a tent. Consequently, one who touches their graves remains pure, unless he came into contact with or carried the corpse itself. This <i>halakha</i> is indicated by the Gemara here (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:4<i> </i>and <i>Kesef Mishne </i>there).",
+              "he": "הגוים אין להם טומאת קברות הואיל ואינם מטמאים במותם באוהל. והנוגע בקברם טהור עד שיגע במת עצמו או שישאנו. שכך עולה מדברי הגמרא כאן (כ\"מ). (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"ד).",
+              "ref": "Steinsaltz comment #3 on Nazir 65a:3",
+              "sourceHeRef": "דִּילְמָא גּוֹי הוּא",
+              "sourceRef": "Perhaps he was a gentile"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מת שחסר אין לו שכונת קברות</strong> - קשה להבין למה ושמא הלכה למשה מסיני הוא:",
+              "ref": "Tosafot on Nazir 65a:3:1",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:ג:א",
+              "sourceRef": "Tosafot on Nazir 65a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עובד כוכבים הוא</strong> - דישראל אין קוברין אותו בענין זה:",
+              "ref": "Tosafot on Nazir 65a:3:2",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:ג:ב",
+              "sourceRef": "Tosafot on Nazir 65a:3:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>Ulla bar Ḥanina taught</b> a <i>baraita</i> (<i>Tosefta</i>, <i>Oholot</i> 16:2): <b>A corpse that is lacking</b> a part of his body indispensable to life <b>has no</b> <i>halakha</i> of <b>surrounding</b> earth, i.e., there is no need to remove the nearby earth along with the corpse. <b>Nor</b> does it have the <i>halakha</i> of <b>a graveyard,</b> i.e., it does not join with two other corpses to establish this site as a cemetery. The Gemara asks: <b>And</b> with regard to <b>all these</b> listed above, i.e., a corpse that was buried in a sitting position or with its head between its thighs, <b>what is the reason</b> that they are <b>not</b> considered part of a graveyard? The Gemara answers: <b>We say</b> that <b>perhaps</b> the deceased <b>was a gentile,</b> as Jews are not usually buried in these ways.",
+      "he": "תָּנֵי עוּלָּא בַּר חֲנִינָא: מֵת שֶׁחָסַר, אֵין לוֹ תְּפוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת. וְכׇל הָנֵי מַאי טַעְמָא לָא? אָמְרִינַן דִּילְמָא גּוֹי הוּא.",
+      "ref": "Nazir 65a:3"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If one was digging and he discovered a corpse buried in an ordinary manner, he should remove it and the earth of their <i>tevusah</i>. Similarly, if he discovered two corpses buried in an ordinary manner, he should remove both of them and the earth of their <i>tevusah</i>, and the entire field is pure. More stringent laws apply when one finds three corpses, each one lying in the manner in which corpses are usually buried. If there are between four and eight cubits between one grave and the other - i.e., the space for a bier and the buriers - it is necessary to check an additional twenty cubits - i.e., the space for two burial crypts and the open space between them from the last grave. If he does not find another corpse in this space, those twenty cubits that he checked are pure, even though they are in an area close to graves.<br>If he finds another corpse at the end of the 20 cubit area, it is necessary to check another twenty cubits from it, for there is a basis for the assumption that other graves will be found.<br>If one of the corpses that was found originally or ultimately had been slain, was sitting, or lying in an unordinary manner, e.g., its head was between its knees, it is not necessary to check another twenty cubits. Instead, one must merely remove the remains of the corpse and its <i>tevusah</i>, The rationale is that we operate on the presumption that the corpses are of gentiles.",
+              "he": "הָיָה חוֹפֵר וּמָצָא מֵת מֻשְׁכָּב כְּדֶרֶךְ שֶׁקּוֹבְרִין הַמֵּתִים נוֹטְלוֹ וְאֶת תְּבוּסָתוֹ. וְכֵן אִם מָצָא שְׁנַיִם נוֹטֵל כָּל אֶחָד מֵהֶן וּתְבוּסָתוֹ עִמּוֹ וְכָל הַשָּׂדֶה טְהוֹרָה. מָצָא שְׁלֹשָׁה מֵתִים כָּל אֶחָד מֵהֶן מֻטָּל כְּדֶרֶךְ הַנִּקְבָּרִין אִם יֵשׁ בֵּין זֶה לָזֶה מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה כִּמְלוֹא מִטָּה וְקוֹבְרֶיהָ הֲרֵי זֶה חוֹשֵׁשׁ שֶׁמָּא בֵּית הַקְּבָרוֹת הוּא זֶה וְצָרִיךְ לִבְדֹּק מִן הָאַחֲרוֹן עֶשְׂרִים אַמָּה שֶׁהֵן כִּשְׁתֵּי מְעָרוֹת וְחָצֵר שֶׁבֵּינֵיהֶן. וְאִם לֹא מָצָא שָׁם מֵת אַחֵר הֲרֵי אוֹתָן הָעֶשְׂרִים שֶׁבָּדַק טְהוֹרוֹת אַף עַל פִּי שֶׁהֵן שְׁכוּנַת קְבָרוֹת. מָצָא מֵת אֶחָד בְּסוֹף עֶשְׂרִים אַמָּה צָרִיךְ לִבְדֹּק מִמֶּנּוּ עֶשְׂרִים אַמָּה אֲחֵרוֹת לְפִי שֶׁרַגְלַיִם לַדָּבָר. וְאִם הָיָה אֶחָד מֵאֵלּוּ שֶׁמָּצָא בַּתְּחִלָּה אוֹ בַּסּוֹף הָרוּג אוֹ יוֹשֵׁב אוֹ מֻשְׁכָּב שֶׁלֹּא כְּדַרְכּוֹ שֶׁיִּהְיֶה רֹאשׁוֹ בֵּין יַרְכוֹתָיו אֵינוֹ בּוֹדֵק עֶשְׂרִים אַמָּה אֶלָּא נוֹטְלָן וְאֶת תְּבוּסָתָן בִּלְבַד שֶׁחֶזְקָתָן עַכּוּ\"ם:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 9:3",
+              "sourceHeRef": "הלכות טומאת מת ט:ג",
+              "sourceRef": "Defilement by a Corpse 9:3"
+            },
+            {
+              "en": "When one finds three corpses buried in an ordinary manner at the outset, three hollows in the wall of a cave, or a hollow, a grave, and a crypt, it is considered as a burial area.<br>If one finds two and the existence of one had been known previously, there is a requirement to remove the <i>tevusah</i>, but there is no obligation to check the area around the grave. The rationale is that a grave whose existence is known does not cause a place to be considered as a burial area. It was said only that when one finds three graves at the outset, then an inspection is required.<br>How should the inspection of the twenty cubits mentioned be carried out? One should dig until he reaches a rock or virgin earth, i.e., earth that appears that it has never been tilled. If one dug even 100 cubits deep and discovered earth that was plowed, the original requirement remains and one must dig deeper until he reaches virgin earth. If one reaches water, it is as if he reached virgin earth.",
+              "he": "אֶחָד הַמּוֹצֵא שְׁלֹשָׁה מֵתִים כְּדַרְכָּן בַּתְּחִלָּה אוֹ שֶׁמָּצָא שְׁלֹשָׁה כּוּכִין אוֹ כּוּךְ וּנְקִיעַ וּמְעָרָה הֲרֵי זוֹ שְׁכוּנַת קְבָרוֹת. מָצָא שְׁנַיִם וְאֶחָד הָיָה יָדוּעַ יֵשׁ לָהֶם תְּבוּסָה וְאֵין לָהֶם שְׁכוּנַת קְבָרוֹת שֶׁהַקֶּבֶר הַיָּדוּעַ אֵינוֹ עוֹשֶׂה שְׁכוּנָה. וְלֹא אָמְרוּ אֶלָּא הַמּוֹצֵא שְׁלֹשָׁה בַּתְּחִלָּה הוּא שֶׁצָּרִיךְ בְּדִיקָה. כֵּיצַד בּוֹדֵק הָעֶשְׂרִים אַמָּה שֶׁאָמַרְנוּ. חוֹפֵר עַד שֶׁהוּא מַגִּיעַ לְסֶלַע אוֹ לִבְתוּלָה. וְהִיא הַקַּרְקַע שֶׁנִּרְאֵית שֶׁאֵינָהּ עֲבוּדָה. הֶעְמִיק אֲפִלּוּ מֵאָה אַמָּה וּמָצָא חֶרֶשׂ הֲרֵי זוֹ כְּבַתְּחִלָּה וְצָרִיךְ לְהַעֲמִיק עַד שֶׁיַּגִּיעַ לִבְתוּלָה. הִגִּיעַ לְמַיִם הֲרֵי זוֹ כִּבְתוּלָה:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 9:6",
+              "sourceHeRef": "הלכות טומאת מת ט:ו",
+              "sourceRef": "Defilement by a Corpse 9:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ראשו של זה בצד מרגלותיו של זה אין להם תפוסה</strong> - דעובדי כוכבים הם שנקברים בכך וכן אם הן ג' וב' מהן נקברים כענין הזה אין להם שכונת קברות:",
+              "ref": "Rashi on Nazir 65a:4:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ד:א",
+              "sourceRef": "Rashi on Nazir 65a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">א'</strong> - מהללו ג' מתים ידוע כבר וב' מהן שמצאו עכשיו תחילה או אחד מהן עכשיו תחילה הוא מצוי:",
+              "ref": "Rashi on Nazir 65a:4:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ד:ב",
+              "sourceRef": "Rashi on Nazir 65a:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ועוד נאמר בברייתא: <b>מצא שנים</b> (שני מתים) <b>ראשו של זה בצד מרגלותיו של זה, וראשו של זה בצד מרגלותיו של זה —</b> <b>אין להן</b> לא <b>תפוסה ולא שכונת קברות,</b> שאין דרך לקבור אנשים מישראל באופן זה, שכן בבית קברות קוברים את כל המתים באותו כיוון. <b>מצא שלשה</b> מתים, <b>האחד</b> היה <b>ידוע</b> קודם לכן, שידעו שהיה שם קבר, <b>ושנים תחילה</b> שגילה אותם זה עתה. <b>או שנים תחילה ושנים ידועים —</b> <b>אין להם תפוסה, ואין להם שכונת קברות.</b> שאין דנים את כולם כאחד.",
+              "ref": "Steinsaltz on Nazir 65a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:ד",
+              "sourceRef": "Steinsaltz on Nazir 65a:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If bodies were found lying one atop the other or in a row, the surrounding earth is removed, but one need not be concerned that a graveyard has been discovered (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:1).",
+              "he": "הלכה זו תמוהה, שהרי הברייתא שבה לדון במתים ישראלים. ומן הראשונים מבואר שלא גרסו כך בברייתא. ויש שגרסו במפורש להיפך \"יש להם תפוסה ואין להם שכונת קברות\", כפי שהוא בתוספתא, וכמבואר מהמשך הדברים.",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:4",
+              "sourceHeRef": "רֹאשׁוֹ שֶׁל זֶה וכו׳",
+              "sourceRef": "The head of this one, etc."
+            },
+            {
+              "en": "If one discovered two corpses, and one  more corpse whose presence was previously known, the <i>halakha</i> of surrounding earth does apply to them, but the  <i>halakha</i> of a graveyard does not apply (Rambam). This is in accordance with the ruling of Rabbi Akiva that all three corpses must have been previously unknown for the <i>halakha</i> of a graveyard to go into effect. The Rambam’s text of the Gemara evidently read: They have surrounding earth (<i>Kesef Mishne</i>). The Rambam further indicates that if all three were known, the <i>halakha</i> of a graveyard does not apply, in accordance with the <i>Tosefta</i> rather than with the Gemara here (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:6).",
+              "he": "מצא מתים שהיו מונחים זה על גב זה, או זה בצד זה — נוטל תבוסתן, אבל אינו חושש שמא מצא שכונת קברות. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"א).",
+              "ref": "Steinsaltz comment #2 on Nazir 65a:4",
+              "sourceHeRef": "מָצָא  שְׁלֹשָׁה, הָאֶחָד יָדוּעַ וכו׳",
+              "sourceRef": "If one found three, one of which was known, etc."
+            },
+            {
+              "en": "This <i>halakha</i> is puzzling, as the <i>baraita</i> is referring to Jewish corpses. Why should the <i>halakha</i> of surrounding earth not apply to these corpses? Some commentaries cite an alternative version of the text, which states: They have surrounding earth and they do not have a graveyard. This follows the ruling of the <i>Tosefta</i>.",
+              "he": "מצא שנים, ואחד שעימם היה ידוע — יש להם תבוסה ואין להם שכונת קברות. שאין חוששים לשכונת קברות אלא כאשר מוצא שלושה שלא היו ידועים. וכדברי ר' עקיבא. שהרמב\"ם גרס בגמרא \"יש להם תבוסה\" (כ\"מ). ומדברי הרמב\"ם מבואר שאף אם היו שלושה ידועים אין להם דין שכונת קברות. כתוספתא, ולא כדברי הגמרא כאן. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"ו).",
+              "ref": "Steinsaltz comment #3 on Nazir 65a:4",
+              "sourceHeRef": "מָצָא שְׁלֹשָׁה…אֵין לָהֶם תְּפוּסָה",
+              "sourceRef": "If one found three…they do not have the <i>halakha</i> of surrounding earth"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אחד ידוע ושנים הוא מוצא עתה בתחילה אין לו שכונת קברות</strong> - רשב\"ם פי' הלכה למשה מסיני הוא ור\"י פי' טעם בדבר דאין לנו [לומר] שכונת קברות ובית הקברות היה הואיל ונקברו שם ג' מתים כיון דא' נודע תחילה אי איתא דאין דעתו היה לפנותם ולישאם שם [לקברו] כי היכי דידוע לנו האחד יהיו ידועים לנו אותם שעמו ולא אמרו שכונת קברות אלא או [לשלשה] ידועים או לשלשה תחילה:",
+              "ref": "Tosafot on Nazir 65a:4:1",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:ד:א",
+              "sourceRef": "Tosafot on Nazir 65a:4:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אחד המוציא שלשה מתים ואחד המוציא שלשה כוכין ואחד המוציא כוך בקוע ומהרה ואחד מצא עשרה ואין ביניהן מארבע אמות ועד שמונה יש להם תפיסה ואין להן שכונה קברות דברי ר\"ש וחכ\"א רואה את האמצעיים כאילו אינן והחיצונים מצטרפין מארבע אמות ועד שמנה. מצא ראשו בצד מרגלותיו אין לו תפיסה ואין לו שכונת קברות ראשו של זה בצד מרגלותיו של זה וראשו של זה בצד מרגלותיו של זה יש להן תפיסה ואין להן שכונת קברות. והחסר אין לו תפיסה ואין לו שכונת קברות ואי זהו חסר כל שניטל מן החי וימות. מצא שנים בתחלה ואחד ידוע יש להן תפיסה ואין להן שכונת קברות. מעשה בר' ישבב שבדק ומצא שנים בתחלה ואחד היה ידוע עשה להן תפישה עשה להן שכונת קברות כשבא אצל ר\"ע אמר כל שיגעת לריק אף אתה היית צריך לבדוק כל קברי ארץ ישראל הידועין ולא אמרו המוצא שלש כתחלה.",
+              "ref": "Tosefta Oholot 16:2",
+              "sourceHeRef": "תוספתא אהלות טז:ב",
+              "sourceRef": "Tosefta Oholot 16:2"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> further states: If one <b>found two</b> corpses, with <b>the head of this</b> one <b>by the feet of that</b> one <b>and the head of that</b> one <b>by the feet of this</b> one, <b>they do not have</b> the <i>halakha</i> of <b>surrounding earth, nor</b> do they have the <i>halakha</i> of <b>a graveyard.</b> This is not the way Jews are buried, as corpses in a Jewish cemetery always face the same direction. If one <b>found three</b> corpses, <b>one</b> of which was previously <b>known, while</b> the other <b>two</b> were found <b>for the first</b> time now, <b>or</b> if one found <b>two for the first</b> time <b>and two</b> that were <b>known, they do not have</b> the <i>halakha</i> of <b>surrounding</b> earth, <b>and they</b> also <b>do not have</b> the <i>halakha</i> of <b>a graveyard.</b> One does not view these corpses as connected.",
+      "he": "מָצָא שְׁנַיִם, רֹאשׁוֹ שֶׁל זֶה בְּצַד מַרְגְּלוֹתָיו שֶׁל זֶה, וְרֹאשׁוֹ שֶׁל זֶה בְּצַד מַרְגְּלוֹתָיו שֶׁל זֶה — אֵין לָהֶן תְּפוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת. מָצָא שְׁלֹשָׁה, הָאֶחָד יָדוּעַ וּשְׁנַיִם תְּחִילָּה, אוֹ שְׁנַיִם תְּחִילָּה וּשְׁנַיִם יְדוּעִים — אֵין לָהֶם תְּפוּסָה, וְאֵין לָהֶם שְׁכוּנַת קְבָרוֹת.",
+      "ref": "Nazir 65a:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וביקש לעשותן שכונת קברות</strong> - דקנו מקומן:",
+              "ref": "Rashi on Nazir 65a:5:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ה:א",
+              "sourceRef": "Rashi on Nazir 65a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לג' ידועין או לג' שמצאן תחילה</strong> - שלא היו ידועין קודם לכן דהכי הוא דגמירי אבל באידך גיסא לא:",
+              "ref": "Rashi on Nazir 65a:5:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ה:ב",
+              "sourceRef": "Rashi on Nazir 65a:5:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מעשה בר' ישבב שבדק ומצא שנים ידועין ואחד תחילה, וביקש לעשותן</b> את כל אלה <b>שכונת קברות. אמר לו ר' עקיבא: כל שיגעת —</b> <b>לריק יגעת. לא אמרו שכונת קברות אלא לשלשה</b> מתים <b>ידועין</b> שנקברו במקום, <b>או לשלשה</b> שמצא אותם ב<b>תחילה.</b> אבל אם היו חלק כך וחלק כך — אינם מצטרפים יחד.",
+              "ref": "Steinsaltz on Nazir 65a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:ה",
+              "sourceRef": "Steinsaltz on Nazir 65a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Rabbi Yeshevav was a third-generation <i>tanna</i> and scribe who was a disciple of Rabbi Yehoshua and a contemporary of Rabbi Akiva. He was exceedingly generous, to the extent that Rabbi Akiva criticized him for giving too much of his money to charity. Rabbi Yeshevav was one of the ten martyrs who were killed by the Romans during the bar Kokheva rebellion, and according to tradition, in his last message the ninety-year-old Sage told his disciples to support each other and uphold justice and peace. He was then thrown to the dogs and was denied burial (<i>Midrash Eleh Ezkera</i>).",
+              "he": "יש מפרשים שכך היתה הלכה מקובלת בידם (המפרש, רשב\"ם מובא בתוס'). ואחרים פירשו שאם היתה זו שכונת קברות מתחילתה, הרי אם עשאוה בזמן קרוב — היו כולם צריכים להיות ידועים, ואם היה זה בית קברות עתיק שנשכח — היו כולם צריכים להיות בלתי ידועים. וכיון שרק שנים ידועים או נמצאו בתחילה — אין לדונם אלא כשנים ולא כשכונת קברות, והאחרים שנמצאו — בדרך מקרה נזדמן שקברום במקום שקברו את האחרים.",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:5",
+              "sourceHeRef": "רַבִּי יְשֵׁבָב",
+              "sourceRef": "Rabbi Yeshevav"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> relates: <b>An incident</b> occurred <b>involving <span href=\"/topics/rabbi-yeshevav\" class=\"namedEntityLink\" data-slug=\"rabbi-yeshevav\">Rabbi Yeshevav</span>, who examined and found two known</b> corpses <b>and one</b> corpse discovered <b>for the first</b> time, <b>and he wished to deem</b> the three corpses <b>a graveyard. <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> said to him: All your toil is in vain. They said</b> it is <b>a graveyard only</b> in a case <b>of three known</b> corpses buried in one spot <b>or three</b> corpses found <b>for the first</b> time. However, if some were known and others were discovered for the first time, one does not combine them.",
+      "he": "מַעֲשֶׂה <span href=\"/topics/rabbi-yeshevav\" class=\"namedEntityLink\" data-slug=\"rabbi-yeshevav\">בְּרַבִּי יְשֵׁבָב</span> שֶׁבָּדַק וּמָצָא שְׁנַיִם יְדוּעִין וְאֶחָד תְּחִילָּה, וּבִיקֵּשׁ לַעֲשׂוֹתָן שְׁכוּנַת קְבָרוֹת. אָמַר לוֹ רַבִּי עֲקִיבָא: כׇּל שֶׁיָּגַעְתָּ — לָרִיק יָגַעְתָּ. לֹא אָמְרוּ שְׁכוּנַת קְבָרוֹת אֶלָּא לִשְׁלֹשָׁה יְדוּעִין, אוֹ לִשְׁלֹשָׁה תְּחִילָּה.",
+      "ref": "Nazir 65a:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ממצרים</strong> - מעפר מצרים טול עמי:",
+              "ref": "Rashi on Nazir 65a:6:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ו:א",
+              "sourceRef": "Rashi on Nazir 65a:6:1"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> <b>One who finds a corpse for the first</b> time, i.e., he discovers a single corpse in a place that was not previously established as a cemetery, if the corpse is <b>lying in</b> the <b>usual manner</b> of Jewish burial, <b>he removes it</b> from there <b>and</b> also <b>its surrounding</b> earth. It is assumed that this corpse was buried there alone. There is no concern that this area is a cemetery and therefore the corpse may not be moved, nor does one take into account the possibility that another corpse may be buried in the vicinity.",
+                  "Similarly, if he found <b>two</b> corpses, <b>he removes them and their surrounding</b> earth. In a case where he <b>found three</b> corpses, <b>if there is</b> a space <b>between this</b> corpse <b>and that</b> corpse <b>of four to eight cubits,</b> in a standard design, <b>this is a graveyard.</b> There is a concern that this might be an ancient cemetery."
+                ],
+                [
+                  "One must therefore <b>examine from that</b> spot <b>outward</b> for <b>twenty cubits.</b> If one <b>finds</b> another corpse <b>at the end of twenty cubits,</b> he <b>examines</b> from that spot <b>outward twenty cubits, as there is a basis for</b> anticipating <b>the matter.</b> It is likely that he has stumbled upon an ancient gravesite. He is not permitted to relocate the corpses, despite the fact <b>that if he had found</b> the single corpse by itself <b>at first</b> he could have <b>removed it and its surrounding</b> earth."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nazir 64b:11",
+                "Nazir 64b:12",
+                "Nazir 65a:1"
+              ],
+              "he": [
+                [
+                  "<big><strong>מַתְנִי׳</strong></big> הַמּוֹצֵא מֵת בַּתְּחִילָּה, מוּשְׁכָּב כְּדַרְכּוֹ — נוֹטְלוֹ וְאֶת תְּפוּסָתוֹ.",
+                  "שְׁנַיִם — נוֹטְלָן וְאֶת תְּפוּסָתָן. מָצָא שְׁלֹשָׁה, אִם יֵשׁ בֵּין זֶה לָזֶה מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה — הֲרֵי זוֹ שְׁכוּנַת קְבָרוֹת."
+                ],
+                [
+                  "בּוֹדֵק הֵימֶנּוּ וּלְהַלָּן עֶשְׂרִים אַמָּה, מָצָא אֶחָד בְּסוֹף עֶשְׂרִים אַמָּה — בּוֹדֵק הֵימֶנּוּ וּלְהַלָּן עֶשְׂרִים אַמָּה. שֶׁרַגְלַיִם לַדָּבָר. שֶׁאִילּוּ תְּחִילָּה מְצָאוֹ — נוֹטְלוֹ וְאֶת תְּפוּסָתוֹ."
+                ]
+              ],
+              "link": "/Nazir/64b",
+              "ref": "Nazir 64b:11-65a:1",
+              "sourceHeRef": "unused",
+              "sourceRef": "Nazir 64b:11-65a:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> שנינו במשנה <b>\"נוטלן ואת תפוסתן\"</b> ושואלים: <b>היכי דמי</b> <span class=\"hebrew-emphasis\">[כיצד היא</span> בדיוק<span class=\"hebrew-emphasis\">]</span> <b>תפוסה? אמר רב יהודה: אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב</span><span class=\"hebrew-emphasis\">]</span> שציווה יעקב את יוסף שיעבירנו אחר מותו לארץ <b>\"ונשאתני ממצרים\"</b> (בראשית מז, ל) וכוונתו — <b>טול עמי</b> גם \"ממצרים\" — חלק מאדמת מצרים, שהיא ליד המת.",
+              "ref": "Steinsaltz on Nazir 65a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:ו",
+              "sourceRef": "Steinsaltz on Nazir 65a:6"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "When I lie down with my fathers, take me up from Egypt and bury me in their burial-place.” He replied, “I will do as you have spoken.”",
+              "he": "וְשָֽׁכַבְתִּי֙ עִם־אֲבֹתַ֔י וּנְשָׂאתַ֙נִי֙ מִמִּצְרַ֔יִם וּקְבַרְתַּ֖נִי בִּקְבֻרָתָ֑ם וַיֹּאמַ֕ר אָנֹכִ֖י אֶֽעֱשֶׂ֥ה כִדְבָרֶֽךָ׃",
+              "link": "/Genesis/47",
+              "ref": "Genesis 47:30",
+              "sourceHeRef": "בראשית מז:ל",
+              "sourceRef": "Genesis 47:30"
+            }
+          ]
+        }
+      },
+      "en": "The mishna taught that <b>he removes them and their surrounding</b> earth. The Gemara asks: <b>What are the circumstances</b> of <b>surrounding</b> earth? <b><span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> said: The verse states</b> with regard to <span href=\"/topics/jacob\" class=\"namedEntityLink\" data-slug=\"jacob\">Jacob</span>’s instruction to <span href=\"/topics/joseph\" class=\"namedEntityLink\" data-slug=\"joseph\">Joseph</span> to transfer his remains to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>: <b>“You shall carry me out from Egypt”</b> (Genesis 47:30), which indicates: <b>Take</b> some earth out from Egypt <b>with me,</b> i.e., take the earth that is near the corpse.",
+      "he": "נוֹטְלָן וְאֶת תְּפוּסָתָן. הֵיכִי דָּמֵי תְּפוּסָה? אָמַר רַב יְהוּדָה: אָמַר קְרָא ״וּנְשָׂאתַנִי מִמִּצְרַיִם״ — טוֹל עִמִּי.",
+      "ref": "Nazir 65a:6",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">תְּבוּסָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, בּוּס 1\" dir=\"rtl\" href=\"/Jastrow,_בּוּס.1\">בּוּס</span>, see <span class=\"refLink\" data-ref=\"Ezekiel 16:22\" href=\"/Ezekiel.16.22\">Ezekiel XVI, 22</span>) <br><b>1)</b> <i>weltering</i>; <span dir=\"rtl\">דם ת׳</span> <i>the blood flowing out of a dying body</i>, which is partly live blood (levitically clean) and partly dead blood (levitically unclean), <i>mixed blood</i>. Oholot II, 2 <span dir=\"rtl\">רביעית דם ורביעית דם ת׳</span> one fourth (of a Log) of blood (of a dead body), and one fourth of mixed blood (make unclean). Ib. III, 5 <span dir=\"rtl\">איזהו דם ת׳ המת וכ׳</span> what is <i>dam t’busah</i>? The blood of a dead body of which one eighth (of a Log) flowed out while it was yet alive, and one eighth after death; ib. <span dir=\"rtl\">איזהו דם ת׳ צלוב וכ׳</span> what is <i>dam t’busah</i>? The blood of an impaled body which flowed uninterruptedly (see <span class=\"refLink\" data-ref=\"Jastrow, שָׁתַת I 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁתַת I.1\">שָׁתַת</span>) &c. <span class=\"refLink\" data-ref=\"Tosefta Megillah 1:10\" href=\"/Tosefta_Megillah.1.10\">Tosefta Megillah I, 10</span> <span dir=\"rtl\">אין בין דם המת לדם ת׳ וכ׳</span> there is no legal difference between the blood of a dead man and that of a dying man, except &c.; <span class=\"refLink\" data-ref=\"Tosefta Ohalot 4:12\" href=\"/Tosefta_Ohalot.4.12\">Tosefta Oholot IV, 12</span>; and e. <br><b><br>—2)</b> <i>pressing, the ground which is pressed by a body in the grave</i>, and which is considered the dead man’s property. <span class=\"refLink\" data-ref=\"Mishnah Nazir 9:3\" href=\"/Mishnah_Nazir.9.3\">Nazir IX, 3</span> (<span class=\"refLink\" data-ref=\"Nazir 64b:11\" href=\"/Nazir.64b.11\">64ᵇ</span>) <span dir=\"rtl\">המוצא … נוטלו ואת תְּבוּסָתוֹ</span> (Bavli ed. <span dir=\"rtl\">תְּפוּסָתוֹ</span>; Yerushalmi ed. <span class=\"refLink\" data-ref=\"Jastrow, תְּפוּסָה 1\" dir=\"rtl\" href=\"/Jastrow,_תְּפוּסָה.1\">תְּפוּשָׂ׳</span>) if one finds in his field a body in the usual position of a buried man, the first time, he may remove it with the ground which it occupies (for burial in another place); <span dir=\"rtl\">מצא שנים … ואת תְּבוּסָתָן</span> (Bavli ed. <span dir=\"rtl\">תפוס׳</span>; Yerushalmi ed. <span dir=\"rtl\">תפוש׳</span>) if he finds two, he may still remove them and their ground; Oholot XVI, 3 <span dir=\"rtl\">תב׳</span>; <span class=\"refLink\" data-ref=\"Bava Batra 101b\" href=\"/Bava_Batra.101b\">Bava Batra 101ᵇ</span> sq. <span dir=\"rtl\">תב׳</span> Manuscript Hamburg and Arukh (ed. <span class=\"refLink\" data-ref=\"Jastrow, תַּפְרָא 1\" dir=\"rtl\" href=\"/Jastrow,_תַּפְרָא.1\">תפ׳</span>); Yerushalmi ib. V, beginning 15ᵃ, explained <span dir=\"rtl\">עד שלש וכ׳</span> up to three fingers’ lengths of the ground, as far as the serial secretion penetrates. <span class=\"refLink\" data-ref=\"Nazir 65a:3\" href=\"/Nazir.65a.3\">Nazir 65ᵃ</span> <span dir=\"rtl\">אין לו ת׳</span> has no right of <i>t’busah</i> (<i>t’fusah</i>), i.e. the ground does not belong to the body. <span class=\"refLink\" data-ref=\"Nazir 65a:7\" href=\"/Nazir.65a.7\">Ib.</span> <span dir=\"rtl\">וכמה שיעור ת׳</span> how large is the quantity of the dead man’s ground?; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, תְּבוּסָה 1",
+              "sourceHeRef": "מילון יסטרוב, תְּבוּסָה א׳",
+              "sourceRef": "Jastrow, תְּבוּסָה 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If while one was checking, within the twenty cubits, he reached a river, an irrigation channel, or a public thoroughfare, he should cease. There is no need to search further, because the burial area has been interrupted.",
+              "he": "הָיָה בּוֹדֵק וְהִגִּיעַ בְּתוֹךְ הָעֶשְׂרִים לְנָהָר אוֹ לִשְׁלוּלִית אוֹ לְדֶרֶךְ הָרַבִּים יַפְסִיק וְאֵינוֹ צָרִיךְ לִבְדֹּק שֶׁהֲרֵי נִפְסְקָה שְׁכוּנַת הַקְּבָרוֹת:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 9:8",
+              "sourceHeRef": "הלכות טומאת מת ט:ח",
+              "sourceRef": "Defilement by a Corpse 9:8"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נוטל עפר תיחוח</strong> - שנעשה מחמת הדם שיצא ממנו ומחמת מוהל שיצא מן המת:",
+              "ref": "Rashi on Nazir 65a:7:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ז:א",
+              "sourceRef": "Rashi on Nazir 65a:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחופר</strong> - בבתולת קרקע ג' אצבעות דאמרינן כשיעור ג' אצבעות נבלע בקרקע:",
+              "ref": "Rashi on Nazir 65a:7:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ז:ב",
+              "sourceRef": "Rashi on Nazir 65a:7:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>וכמה שיעור תפוסה? פירש ר' אלעזר (ברבי צדוק): נוטל עפר תיחוח</b> (רך) הסמוך למת, שיש לשער שהוא רך מפני שיש בו מדמו וליחתו, <b>וחופר ב</b>קרקע <b>בתולה</b> (שלא נעבדה מעולם) <b>שלש אצבעות</b> שעד לעומק זה יש לחשוש שנספג מן הדם.",
+              "ref": "Steinsaltz on Nazir 65a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:ז",
+              "sourceRef": "Steinsaltz on Nazir 65a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "משום שיש לשער שנוצר מרקב דמו של המת. או שהוא תיחוח משום שנספג בתוכו מדם המת.",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:7",
+              "sourceHeRef": "נוטל עפר תיחוח",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "כאשר מוצא מת נוטל כל העפר התיחוח שתחתיו וחופר בבתולת הקרקע שלוש אצבעות, ועפר זה עם שלש אצבעות שחפר הוא הקרוי תבוסת המת. כדברי ר' יוחנן בשם בן עזאי. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"א).",
+              "ref": "Steinsaltz comment #2 on Nazir 65a:7",
+              "sourceHeRef": "נוטל עפר תיחוח וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כמה שיעור תפוסה פי' ר' אלעזר</strong> - הוא ר\"א בן פדת שהוא אמורא נוטל עפר תיחוח וחופר בקרקע בתולה שלש אצבעות בירושלמי מפרש שמוהל המת יורד בקרקע עד ג' אצבעות:",
+              "ref": "Tosafot on Nazir 65a:7:1",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:ז:א",
+              "sourceRef": "Tosafot on Nazir 65a:7:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara further asks: <b>And what is the measure of surrounding</b> earth? <b><span href=\"/topics/rabbi-elazar-b-tzadok-(i)\" class=\"namedEntityLink\" data-slug=\"rabbi-elazar-b-tzadok-(i)\">Rabbi Elazar, son of Rabbi Tzadok</span>, explained: One takes loose dirt</b> from near the corpse, as it is assumed it has been loosened by the blood and moisture from the corpse, <b>and digs virgin,</b> uncultivated, ground to a depth of <b>three fingerbreadths,</b> in case this earth has absorbed the blood.",
+      "he": "וְכַמָּה שִׁיעוּר תְּפוּסָה? פֵּירֵשׁ רַבִּי אֶלְעָזָר (בְּרַבִּי צָדוֹק): נוֹטֵל עָפָר תִּיחוּחַ, וְחוֹפֵר בַּבְּתוּלָה שָׁלֹשׁ אֶצְבָּעוֹת.",
+      "ref": "Nazir 65a:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קְסָסָה</strong> f. , plural <span dir=\"rtl\">קְסָסוֹת</span> (<span class=\"refLink\" data-ref=\"Jastrow, קָסַס 1\" href=\"/Jastrow,_קָסַס.1\">preceding</span>) <i>lumps, balls</i> (compare <span dir=\"rtl\">קְזוֹזוֹת</span>). <span class=\"refLink\" data-ref=\"Nazir 65a:8\" href=\"/Nazir.65a.8\">Nazir 65ᵃ</span> <span dir=\"rtl\">נוטל את הקיסמין ואת הק׳</span> he takes up the chips (of the coffin) and the lumps of earth (formed by congealed blood and secretions from the decaying body) &c."
+              ],
+              "he": [],
+              "ref": "Jastrow, קְסָסָה 1",
+              "sourceHeRef": "מילון יסטרוב, קְסָסָה א׳",
+              "sourceRef": "Jastrow, קְסָסָה 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נוטל את הקיסמין</strong> - של נסרים שנעשו מן הארון כשהרקיבו ואמרי לה קיסמין של עצי בשמים כדכתיב באסא בדברי הימים <span class=\"parenthesized\">(ב' יז)</span> וישכיבוהו במשכב אשר מלא בשמים:",
+              "ref": "Rashi on Nazir 65a:8:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ח:א",
+              "sourceRef": "Rashi on Nazir 65a:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואת הקססות</strong> - קוזזות של אדמה שנדבקו מן הדם ומן המוהל שקורין בלישטי\"ט <span class=\"parenthesized\">(בלישטי\"ש: גושי אדמה)</span> בלע\"ז:",
+              "ref": "Rashi on Nazir 65a:8:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ח:ב",
+              "sourceRef": "Rashi on Nazir 65a:8:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי</b> <span class=\"hebrew-emphasis\">[מקשים</span><span class=\"hebrew-emphasis\">]</span> על כך מברייתא אחרת: <b>וכמה שיעור תפוסה? פירש ר' אלעזר בר' צדוק: נוטל את הקיסמין</b> (עצים קטנים) הסמוכים למת שהיו אולי חלק מארונו. <b>ואת הקססות</b> (גושי אדמה) שמא נספגו בהם דם וליחה מן המת,",
+              "ref": "Steinsaltz on Nazir 65a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:ח",
+              "sourceRef": "Steinsaltz on Nazir 65a:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One explanation is that these splinters might be part of a rotted coffin. Some commentaries maintain that they might come from fragrant pieces of wood that were sometimes placed on graves (see <i>Tosafot</i> and Commentary on <i>Nazir</i>).",
+              "he": "יש מפרשים — שמא היה המת נתון בארון של עץ וקיסמים אלה הם חלק מארונו שנרקב. ויש מסבירים שאלה היו קיסמים של עצי בושם שהיו לעתים מניחים עם הנקברים (וראה במפרש ובתוס').",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:8",
+              "sourceHeRef": "נוֹטֵל אֶת הַקִּסְמִין",
+              "sourceRef": "One takes wood chips"
+            },
+            {
+              "en": "The concern is that these lumps might have been formed by the earth absorbing blood from the corpse (Commentary on <i>Nazir</i>). Alternatively, this term is referring to a worn-out piece of clothing or to spices placed alongside a corpse (<i>Tosafot</i>).",
+              "he": "גושי אדמה, שיש לחשוש שנוצרו כתוצאה מכך שנספג בעפר מדם המת (המפרש ועוד). ויש מפרשים שהכוונה היא לדבר בלוי, שהוא חלק מלבושו,??? או שהכוונה לבשמים שמניחים יחד עם המת (תוס'???).",
+              "ref": "Steinsaltz comment #2 on Nazir 65a:8",
+              "sourceHeRef": "קְסָסוֹת",
+              "sourceRef": "Lumps of earth"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Say: Thus said the Lord G<small>OD</small>: Will it thrive? Will he not tear out its roots and rip off its crown, so that its entire foliage withers? It shall wither, despite any strong arm or mighty army [that may come] to remove it from its roots.",
+                      "he": "אֱמֹ֗ר כֹּ֥ה אָמַ֛ר אֲדֹנָ֥י יֱהֹוִ֖ה תִּצְלָ֑ח הֲלוֹא֩ אֶת־שׇׁרָשֶׁ֨יהָ יְנַתֵּ֜ק וְאֶת־פִּרְיָ֣הּ <b>׀</b> יְקוֹסֵ֣ס וְיָבֵ֗שׁ כׇּל־טַרְפֵּ֤י צִמְחָהּ֙ תִּיבָ֔שׁ וְלֹֽא־בִזְרֹ֤עַ גְּדוֹלָה֙ וּבְעַם־רָ֔ב לְמַשְׂא֥וֹת אוֹתָ֖הּ מִשׇּׁרָשֶֽׁיהָ׃",
+                      "link": "/Ezekiel/17",
+                      "ref": "Ezekiel 17:9",
+                      "sourceHeRef": "יחזקאל יז:ט",
+                      "sourceRef": "Ezekiel 17:9"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מיתיבי כמה שיעור תפוסה פירש ר' אלעזר ברבי צדוק נוטל את הקיסמין</strong> - פי' מן הארון של שיש שנכתת. ואת הקססות י\"א כמו קוזזות אדמה וזורק את הוודאים פירוש מה שודאי לן שאינו מן המת ומניח את הספיקות מה שהוא מסופק אם היו מן המת אם לאו מניח במקום המוצנע שלא יטמאו עושי טהרות והשאר שהוא ברור לו שהוא מן המת מצטרפין לרוב בנין או לרוב מנין ולרובע רובע הקב לטמא באהל ולמלא תרווד רקב כמו יין קוסס <span class=\"parenthesized\">(ב\"ב דף צז:)</span> מיני קיהוי ובשמים שמשימין בארון וקשה דא\"כ אין לו רקב דנעשה גלגלין מידי דהוה אנקבר בארון עץ דאף שערו העומד ליגזז איבעיא לן פ' כ\"ג <span class=\"parenthesized\">(לעיל נזיר דף נא.)</span> אי נעשה גלגלין עוד מפרש קססות היינו לשון דבר בלוי כמו ופריו יקוסס <span class=\"parenthesized\">(יחזקאל יז)</span> אלמא תפוסה לר\"א ברבי צדוק אינו זקוק ליטול עפר דאין לו לחפור בקרקע בתולה כי אסורה ודאי המת וספיקו:",
+              "ref": "Tosafot on Nazir 65a:8:1",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:ח:א",
+              "sourceRef": "Tosafot on Nazir 65a:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הוא דאמר כי האי תנא דתניא כמה שיעור תפוסה פי' ר' יוחנן</strong> - לאו היינו ר' יוחנן האמורא אלא רבי יוחנן בן נורי:",
+              "ref": "Tosafot on Nazir 65a:8:2",
+              "sourceHeRef": "תוספות על נזיר ס״ה א:ח:ב",
+              "sourceRef": "Tosafot on Nazir 65a:8:2"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara <b>raises an objection</b> to this ruling from a different <i>baraita</i>: <b>And what is the measure of surrounding</b> earth? <b><span href=\"/topics/rabbi-elazar-b-tzadok-(i)\" class=\"namedEntityLink\" data-slug=\"rabbi-elazar-b-tzadok-(i)\">Rabbi Elazar, son of Rabbi Tzadok</span>, explained: One takes wood chips</b> found nearby, which might have been part of the coffin, <b>and lumps</b> of earth that might have absorbed the blood and moisture from a corpse.",
+      "he": "מֵיתִיבִי: וְכַמָּה שִׁיעוּר תְּפוּסָה? פֵּירֵשׁ רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק: נוֹטֵל אֶת הַקֵּיסָמִין וְאֶת הַקְּסָסוֹת.",
+      "ref": "Nazir 65a:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וזורק את הוודאין</strong> - דבר שהוא ודאי לו שאינו מן המת שלא יחוש להן משום טומאה:",
+              "ref": "Rashi on Nazir 65a:9:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ט:א",
+              "sourceRef": "Rashi on Nazir 65a:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומניח את הספיקות</strong> - שיהא מפנן למקום אחד דחוששין להן משום טומאה:",
+              "ref": "Rashi on Nazir 65a:9:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ט:ב",
+              "sourceRef": "Rashi on Nazir 65a:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והשאר</strong> - דברים שהן מן המת וקיסמין מצטרפין לרוב בניינו של מת דאהל:",
+              "ref": "Rashi on Nazir 65a:9:3",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ט:ג",
+              "sourceRef": "Rashi on Nazir 65a:9:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולרובע עצמות למלא תרווד רקב</strong> - ודקא אמר לעיל בפרק כ\"ג ונזיר <span class=\"parenthesized\">(נזיר דף נא.)</span> נקבר בארון של עץ אין לו רקב הני מילי בעיניה אבל <span class=\"parenthesized\">(לא)</span> לאיצטרופי לאחריני שנקברו ערומים בארון של שיש מצטרף:",
+              "ref": "Rashi on Nazir 65a:9:4",
+              "sourceHeRef": "רש\"י על נזיר ס״ה א:ט:ד",
+              "sourceRef": "Rashi on Nazir 65a:9:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וזורק את הוודאין</b> מה שברור לו שאינו חלק מן המת (כגון אבנים) <b>ומניח את הספיקות</b> ואינו צריך ליטלם עם המת, <b>והשאר</b> כל מה שנראה שהוא מן המת <b>מצטרף לרוב בנינו של מת, ולרובע עצמות, למלא תרווד רקב.</b> שמצרפים כל אלה לענין טומאה. ולענייננו ברור שהוא מגדיר תפוסת המת בדרך אחרת.",
+              "ref": "Steinsaltz on Nazir 65a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:ט",
+              "sourceRef": "Steinsaltz on Nazir 65a:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "However, one must set them aside in a protected place (Commentary on <i>Nazir</i>) so that others do not contract uncertain impurity (<i>Tosafot</i>). Some commentaries maintain that one may discard the aforementioned items that certainly did not absorb any part of the blood, e.g., wood chips, whereas one may leave the uncertain items together with the body in the fresh grave (Meiri; see Gra).",
+              "he": "ומפנה אותם ממקומם (המפרש). שאם יניחם במקום ולא יצניעם הרי יש בהם חשש טומאה ויהיו אלה מכשול לנשמרים בטהרה (תוס' ועוד). והמאירי פירש שדבר זה נאמר כהמשך להלכה הקודמת, שלדעתו יש לפרשה שזורק את הוודאין מן האמורים לעיל — קיסמין וכו' שברור שלא נספג בהם מדם המת, ואת הספק מניח יחד עם המת בקבר החדש. וכדבריו מפורש בתוספתא (ראה הגהות הגר\"א).",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:9",
+              "sourceHeRef": "וּמַנִּיחַ אֶת הַסְּפֵיקוֹת",
+              "sourceRef": "And he sets aside the uncertain"
+            },
+            {
+              "en": "The commentaries are puzzled by this ruling, as it was taught earlier (51a) that the <i>halakha</i> of a ladleful of dust applies only to a marble coffin, which is clearly not the case here. The Commentary on <i>Nazir</i> answers that the prior Gemara is referring to a single body buried in a wooden coffin, whereas here the Gemara is dealing with the question of whether the dust of one corpse can combine with that of another. Others claim that this <i>halakha</i> refers to a marble coffin that broke, revealing dirt underneath it. In this situation, it is uncertain if the dirt is impure, while the remaining dust inside the marble coffin is considered a definite ladleful of dust from a corpse (Rosh). Yet others contend that there is no need to explain this case in such a contrived manner, as one can simply say that the Gemara here follows an alternative opinion with regard to the <i>halakha </i>of a ladleful of dust, one that is not accepted as <i>halakha</i> (Meiri; see Gra).",
+              "he": "וכבר תהה המפרש: הרי כבר אמרנו שאין דין רקב במת אלא כאשר היה קבור בארון שיש, וברור שלא היה שם דבר אחר! ותירץ ששם מדובר לענין מת אחד שנקבר בארון עץ, אבל כאן מדברים על צירוף, שהרקב הוודאי שבו מצטרף לרקב ברור ממת אחר. והרא\"ש מסביר שמדובר בהלכה זו במי שנקבר בארון שיש, אלא שארון זה נשבר ונמצא תחתיו עפר, שאז אנו דנים על אותו עפר כעל הספיקות, ומה שנותר בתוך ארון השיש הוא רקב ודאי לענין מלוא תרוד. והמאירי כתב שאין צורך להידחק בכך, אלא כאן יש שיטה אחת בענין רקב, ואין היא כשיטת ההלכה. וראה בהגהות הגר\"א.",
+              "ref": "Steinsaltz comment #2 on Nazir 65a:9",
+              "sourceHeRef": "מְלֹא תַּרְוָוד רָקָב",
+              "sourceRef": "A full ladle of dust"
+            }
+          ]
+        }
+      },
+      "en": "<b>And he discards</b> that which is <b>certainly</b> not from the corpse, e.g., stones. And <b>he sets aside the</b> items with regard to which it is <b>uncertain</b> if they have a connection with the corpse. <b>And the rest,</b> i.e., anything that is apparently from the corpse, <b>combine to</b> reach the amount <b>of the majority of the structure of a corpse, or of a quarter-</b><i>kav</i> <b>of bones,</b> or <b>of a full ladle of dust</b> from a corpse. The remains of a corpse impart ritual impurity in a tent only if they meet one of those three qualifications. Anything which is apparently the remains of the corpse is considered dust of a corpse with regard to this <i>halakha</i>. In any event, it is clear that this <i>baraita</i> presents a different definition of surrounding earth.",
+      "he": "וְזוֹרֵק אֶת הַוַּודָּאִין וּמַנִּיחַ אֶת הַסְּפֵיקוֹת. וְהַשְּׁאָר מִצְטָרֵף לְרוֹב בִּנְיָנוֹ שֶׁל מֵת, וּלְרוֹבַע עֲצָמוֹת, לִמְלֹא תַּרְווֹד רָקָב.",
+      "ref": "Nazir 65a:9"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>הוא</b> ר' אלעזר ש<b>אמר</b> הסתמך על מקור אחר והוא <b>כי האי תנא</b> <span class=\"hebrew-emphasis\">[כ</span>שיטת תנא זה<span class=\"hebrew-emphasis\">]</span> בן עזאי, <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>כן שנינו בברייתא אחרת<span class=\"hebrew-emphasis\">]:</span> <b>וכמה שיעור תפוסה? אמר ר' יוחנן משום בן עזאי: נוטל עפר תיחוח, וחופר בבתולה שלש אצבעות.</b>",
+              "ref": "Steinsaltz on Nazir 65a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:י",
+              "sourceRef": "Steinsaltz on Nazir 65a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One who finds a corpse must take all the loose earth from beneath it and dig a further three fingerbreadths into the uncultivated ground. All this dirt is called the surrounding earth of a corpse, in accordance with the opinion of Rabbi Yoĥanan in the name of ben Azzai (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:1).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Nazir 65a:10",
+              "sourceHeRef": "נוֹטֵל עָפָר תִּיחוֹחַ וכו׳",
+              "sourceRef": "One takes loose earth, etc."
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: With regard to the first statement of <span href=\"/topics/rabbi-elazar-b-shamua\" class=\"namedEntityLink\" data-slug=\"רא-(ambiguous)\">Rabbi Elazar</span>, it was <b>he who said in accordance with</b> the opinion of <b>that <i>tanna</i>,</b> <span href=\"/topics/shimon-b-azzai\" class=\"namedEntityLink\" data-slug=\"shimon-b-azzai\">ben Azzai</span>, <b>as it is taught</b> in a <i>baraita</i>: <b>And how much is the measure of surrounding</b> earth? <b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> says in the name of <span href=\"/topics/shimon-b-azzai\" class=\"namedEntityLink\" data-slug=\"shimon-b-azzai\">ben Azzai</span>: One takes loose earth and digs virgin</b> ground to a depth of <b>three fingerbreadths.</b>",
+      "he": "הוּא דְּאָמַר כִּי הַאי תַּנָּא, דְּתַנְיָא: וְכַמָּה שִׁיעוּר תְּפוּסָה? אָמַר רַבִּי יוֹחָנָן מִשּׁוּם בֶּן עַזַּאי: נוֹטֵל עָפָר תִּיחוּחַ, וְחוֹפֵר בַּבְּתוּלָה שָׁלֹשׁ אֶצְבָּעוֹת.",
+      "ref": "Nazir 65a:10"
+    },
+    {
+      "commentary": {
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> <b>One who finds a corpse for the first</b> time, i.e., he discovers a single corpse in a place that was not previously established as a cemetery, if the corpse is <b>lying in</b> the <b>usual manner</b> of Jewish burial, <b>he removes it</b> from there <b>and</b> also <b>its surrounding</b> earth. It is assumed that this corpse was buried there alone. There is no concern that this area is a cemetery and therefore the corpse may not be moved, nor does one take into account the possibility that another corpse may be buried in the vicinity.",
+                  "Similarly, if he found <b>two</b> corpses, <b>he removes them and their surrounding</b> earth. In a case where he <b>found three</b> corpses, <b>if there is</b> a space <b>between this</b> corpse <b>and that</b> corpse <b>of four to eight cubits,</b> in a standard design, <b>this is a graveyard.</b> There is a concern that this might be an ancient cemetery."
+                ],
+                [
+                  "One must therefore <b>examine from that</b> spot <b>outward</b> for <b>twenty cubits.</b> If one <b>finds</b> another corpse <b>at the end of twenty cubits,</b> he <b>examines</b> from that spot <b>outward twenty cubits, as there is a basis for</b> anticipating <b>the matter.</b> It is likely that he has stumbled upon an ancient gravesite. He is not permitted to relocate the corpses, despite the fact <b>that if he had found</b> the single corpse by itself <b>at first</b> he could have <b>removed it and its surrounding</b> earth."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nazir 64b:11",
+                "Nazir 64b:12",
+                "Nazir 65a:1"
+              ],
+              "he": [
+                [
+                  "<big><strong>מַתְנִי׳</strong></big> הַמּוֹצֵא מֵת בַּתְּחִילָּה, מוּשְׁכָּב כְּדַרְכּוֹ — נוֹטְלוֹ וְאֶת תְּפוּסָתוֹ.",
+                  "שְׁנַיִם — נוֹטְלָן וְאֶת תְּפוּסָתָן. מָצָא שְׁלֹשָׁה, אִם יֵשׁ בֵּין זֶה לָזֶה מֵאַרְבַּע אַמּוֹת וְעַד שְׁמוֹנֶה — הֲרֵי זוֹ שְׁכוּנַת קְבָרוֹת."
+                ],
+                [
+                  "בּוֹדֵק הֵימֶנּוּ וּלְהַלָּן עֶשְׂרִים אַמָּה, מָצָא אֶחָד בְּסוֹף עֶשְׂרִים אַמָּה — בּוֹדֵק הֵימֶנּוּ וּלְהַלָּן עֶשְׂרִים אַמָּה. שֶׁרַגְלַיִם לַדָּבָר. שֶׁאִילּוּ תְּחִילָּה מְצָאוֹ — נוֹטְלוֹ וְאֶת תְּפוּסָתוֹ."
+                ]
+              ],
+              "link": "/Nazir/64b",
+              "ref": "Nazir 64b:11-65a:1",
+              "sourceHeRef": "unused",
+              "sourceRef": "Nazir 64b:11-65a:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג</big> שנינו במשנה: <b>בודק הימנו</b> ולהלן עשרים אמה.",
+              "ref": "Steinsaltz on Nazir 65a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ה א:יא",
+              "sourceRef": "Steinsaltz on Nazir 65a:11"
+            }
+          ]
+        }
+      },
+      "en": "The mishna taught that one must <b>examine</b> the ground for up to twenty cubits <b>from that</b> spot where a corpse was found.",
+      "he": "בּוֹדֵק הֵימֶנּוּ.",
+      "ref": "Nazir 65a:11",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Nazir 65a",
+  "titleHebrew": "נזיר סה,א",
+  "topics": []
+}

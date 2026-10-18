@@ -1,0 +1,592 @@
+{
+  "id": "29b",
+  "sections": [
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>We learned</b> in a mishna <b>there</b> (<i>Tamid</i> 28b): <b>There was</b> a circular <b>mound</b> of ashes <b>in the center of the altar,</b> and <b>sometimes there was</b> as much <b>as three hundred <i>kor</i></b> of ashes <b>upon it. Rava said:</b> This description is <b>an exaggeration [<i>guzma</i>];</b> the <i>tanna</i> means merely that there was a significant quantity of ashes.",
+                "Similarly, it is taught in a mishna (<i>Tamid</i> 30a) that before slaughtering the daily offering the priests <b>gave</b> the lamb selected for <b>the daily offering</b> water <b>to drink in a golden cup,</b> in order to render the animal easier to flay after slaughter. With regard to this mishna, <b>Rava said:</b> It is <b>an exaggeration,</b> as the priests did not actually let the animal drink from a golden vessel.",
+                "The Gemara provides other examples of statements not meant literally. <b>Rabbi Ami says:</b> In some instances, <b>the Torah spoke</b> employing <b>exaggerated [<i>havai</i>] language, the Prophets spoke</b> employing <b>exaggerated language,</b> and <b>the Sages spoke</b> employing <b>exaggerated language.</b> The fact that <b>the Sages spoke</b> employing <b>exaggerated language</b> is evident from <b>that which we stated above,</b> concerning the mound of ashes and the lamb of the daily offering.",
+                "<b>The Torah spoke</b> employing <b>exaggerated language,</b> as it is written: “Hear, Israel: You are passing over the Jordan this day, to go in to dispossess nations greater and mightier than you, <b>cities great and fortified up to heaven”</b> (Deuteronomy 9:1), whereas the fortifications obviously did not actually reach up to heaven. <b>The Prophets spoke</b> employing <b>exaggerated language,</b> as it is written with regard to the coronation of King Solomon: “And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, <b>so that the earth rent with the sound of them”</b> (I Kings 1:40), where the verse means merely that the sound was very loud.",
+                "<b>Rabbi Yitzḥak bar Naḥmani says</b> that <b>Shmuel says: In three places the Sages spoke</b> in <b>exaggerated language, and they are</b> with regard to the circular <b>mound</b> of ashes on the altar; the <b>vine; and</b> the <b>Curtain</b> separating the Sanctuary and Holy of Holies. The case of the circular <b>mound</b> of ashes <b>is that which we said.</b>",
+                "The case of the <b>vine</b> is <b>as we learned</b> in a mishna (<i>Middot</i> 36a): <b>A golden</b> ornament in the form of <b>a vine was standing at the entrance to the Sanctuary,</b> and it was <b>hung upon poles. And whoever would donate</b> an ornamental golden leaf, <b>grape, or cluster</b> of grapes to the Temple would <b>bring</b> it to the Temple <b>and hang</b> it <b>upon</b> the vine. <b>Rabbi Elazar, son of Rabbi Tzadok, said: There was</b> once <b>an incident, and three hundred priests were enlisted to move</b> the vine because of its immense weight. According to Shmuel, this description is also an exaggeration.",
+                "The case of the <b>Curtain</b> is <b>as we learned</b> in a mishna (<i>Shekalim</i> 8:2): <b>Rabban Shimon ben Gamliel says in the name of Rabbi Shimon, the deputy</b> High Priest: The <b>Curtain</b> is the <b>thickness of a handbreadth [<i>tefaḥ</i>]. It is woven from seventy-two strands [<i>nirim</i>]</b> of yarn, <b>and each and every strand [<i>nima</i>]</b> of those seventy-two is made from <b>twenty-four threads</b> consisting of six threads each of sky-blue wool, purple wool, scarlet wool, and fine linen. <b>Its length</b> is <b>forty cubits,</b> the height of the Sanctuary, <b>and its width</b> is <b>twenty cubits,</b> the width of the entrance. <b>And</b> it <b>is made from eighty-two ten-thousands,</b> i.e., 820,000 dinars. <b>And</b> the overseers of the Temple <b>make two</b> new Curtains every <b>year. And</b> the Curtain was so heavy that when it was immersed, <b>three hundred priests would immerse it.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Chullin 90b:9",
+                "Chullin 90b:10",
+                "Chullin 90b:11",
+                "Chullin 90b:12",
+                "Chullin 90b:13",
+                "Chullin 90b:14",
+                "Chullin 90b:15"
+              ],
+              "he": [
+                "תנן התם תפוח היה באמצע המזבח פעמים היה עליו כשלש מאות כור אמר רבא גוזמא",
+                "השקו את התמיד בכוס של זהב אמר רבא גוזמא",
+                "אמר רבי אמי דברה תורה לשון הואי דברו נביאים לשון הואי דברו חכמים לשון הואי דברו חכמים לשון הואי הא דאמרן",
+                "דברה תורה לשון הואי <span class=\"parenthesized\">(דברים א, כח)</span> ערים גדולות ובצורות בשמים דברו נביאים לשון הואי <span class=\"parenthesized\">(מלכים א א, מ)</span> ותבקע הארץ לקולם",
+                "אמר ר' יצחק בר נחמני אמר שמואל בשלשה מקומות דברו חכמים לשון הואי אלו הן תפוח גפן ופרוכת תפוח הא דאמרן",
+                "גפן דתנן גפן של זהב היתה עומדת על פתחו של היכל ומודלה על גבי כלונסות וכל מי שהיה מתנדב גרגיר או אשכול מביא ותולה בה אמר רבי אלעזר ברבי צדוק מעשה היה ונמנו עליה שלש מאות כהנים לפנותה",
+                "פרוכת דתנן רבן שמעון בן גמליאל אומר משום רבי שמעון הסגן פרוכת עוביה טפח ועל שבעים ושנים נירים נארגת ועל כל נימה ונימה עשרים וארבעה חוטין ארכה ארבעים באמה ורחבה עשרים באמה ומשמונים ושתי רבוא נעשת ושתים עושים בשנה ושלש מאות כהנים מטבילין אותה:"
+              ],
+              "link": "/Chullin/90b",
+              "originalRefsBeforeRewriting": [
+                "Chullin 90b:14",
+                "Chullin 90b:15"
+              ],
+              "ref": "Chullin 90b:9-15",
+              "sourceHeRef": "חולין צ׳ ב",
+              "sourceRef": "Chullin 90b"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>או</b> בשיעור גדול יותר, כ<b>גרגיר</b> (ענבה יחידה), <b>או</b> שיעור גדול יותר כעין <b>אשכול</b> ענבים — היה <b>מביא</b> למקדש, <b>ו</b>היה הכהן <b>תולה</b> אותה תרומה <b>בה,</b> בצורת גפן זו. ועל כך <b>אמר ר' אלעזר בר' צדוק: מעשה היה</b> במקדש, <b>ו</b>כה גדולה וכבדה היתה גפן זהב זו, עד שהיה צורך ש<b>נמנו עליה שלש מאות כהנים</b> כדי <b>לפנותה</b> ממקומה למקום אחר, ליטול את כל הזהב שבה. והרי זו לשון גוזמה, הבא להורות שהיה בה זהב רב מאוד, ואולם לא בשיעור זה של משא שלש מאות כהנים.",
+              "ref": "Steinsaltz on Tamid 29b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:א",
+              "sourceRef": "Steinsaltz on Tamid 29b:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>or grape, or cluster</b> of grapes, would <b>bring</b> it to the Temple <b>and</b> a priest would <b>hang it on</b> the vine. <b><span href=\"/topics/rabbi-elazar-b-tzadok-(i)\" class=\"namedEntityLink\" data-slug=\"rabbi-elazar-b-tzadok-(i)\">Rabbi Elazar, son of Rabbi Tzadok</span>, said: There was</b> once <b>an incident and three hundred priests were enlisted to</b> lift the vine in order <b>to move it,</b> due to its immense weight. This description is an exaggeration, as although the vine was extremely heavy, it did not require three hundred priests to lift it.",
+      "he": "אוֹ גַרְגִּיר, אוֹ אֶשְׁכּוֹל – מֵבִיא וְתוֹלֶה בָּהּ. אֲמַר רַבִּי אֶלְעָזָר בְּרַבִּי צָדוֹק: מַעֲשֶׂה הָיָה, וְנִמְנוּ עָלֶיהָ שְׁלֹשׁ מֵאוֹת כֹּהֲנִים לְפַנּוֹתָהּ.",
+      "ref": "Tamid 29b:1"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">נִיר IV</strong> m. (see <span class=\"refLink\" data-ref=\"Jastrow, נִיר III 1\" href=\"/Jastrow,_נִיר III.1\">preceding</span>; compare jugum and ζυγόν, see Smith, Dictionary of Greek and Roman Antiquities, Third American Edition, New-York 1858 section (Parashah) see Tela) <i>cross-beam of the loom</i>, also <i>the cross-rod</i> under the cross-beam (liciatorium) to which the ends of the leashes are fastened; trnsf (mostly plural) <span dir=\"rtl\">נִירִים</span>, <span dir=\"rtl\">נִירִין</span> <i>the leashes</i> or <i>thrums</i> to which the threads of the warp are fastened; also <i>the warp</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 94:8\" href=\"/Bereishit_Rabbah.94.8\">Breishit Rabbah section (Parashah) 94</span>, see <span class=\"refLink\" data-ref=\"Jastrow, פָּתַל 1\" dir=\"rtl\" href=\"/Jastrow,_פָּתַל.1\">פָּתַל</span>. <span class=\"refLink\" data-ref=\"Bava Kamma 119b:7\" href=\"/Bava_Kamma.119b.7\">Bava Kamma 119ᵇ</span> <span dir=\"rtl\">אין לוקחין … ולא נ׳</span> you must not buy from the weaver remnants of woof or of warp threads. <span class=\"refLink\" data-ref=\"Mishnah Kelim 21:1\" href=\"/Mishnah_Kelim.21.1\">Kelim XXI, 1</span> <span dir=\"rtl\">הנוגע בנ׳ …</span> he who touches the upper beam … or the rods, contradistinguished to <span class=\"refLink\" data-ref=\"Jastrow, קֵירוֹס I 1\" dir=\"rtl\" href=\"/Jastrow,_קֵירוֹס I.1\">קֵירוֹס</span>.—<span dir=\"rtl\">בית נ׳</span> that portion of the web produced by passing the spool with the woof across the warp, <i>mesh, slip</i>. <span class=\"refLink\" data-ref=\"Mishnah Shabbat 13:2\" href=\"/Mishnah_Shabbat.13.2\">Shabbat XIII, 2</span> (<span class=\"refLink\" data-ref=\"Shabbat 105a:13\" href=\"/Shabbat.105a.13\">105ᵃ</span>) <span dir=\"rtl\">העושה שני בתי נ׳ בנִירַיִּים וכ׳</span> Manuscript Munich (ed. <span dir=\"rtl\">בנירין</span>) he who starts a web by making two meshes, attaching them either to the cross-pieces or to the slips <span class=\"refLink\" data-ref=\"Jastrow, קֵירוֹס I 1\" dir=\"rtl\" href=\"/Jastrow,_קֵירוֹס I.1\">(קֵירוֹס</span>). Ib. 105ᵃ <span dir=\"rtl\">ברוחב ג׳ בתי נ׳</span> within a distance of three meshes; (Tosefta ib. XII (XIII), 1 <span dir=\"rtl\">על ג׳ בתים</span>). Yerushalmi ib. VII, 10ᶜ <span dir=\"rtl\">שני נ׳ בחף … בניר אחד</span> two sets of warp threads fastened to one old border web (licium) or two borders fastened to one set of warp threads. <span class=\"refLink\" data-ref=\"Mishnah Shekalim 8:5\" href=\"/Mishnah_Shekalim.8.5\">Shekalim VIII, 5</span> על ע\"ב נ׳ וכ׳ Manuscript Munich and Arukh (ed. <span dir=\"rtl\">נימין</span>; see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l., p. <span dir=\"rtl\">לד</span>, note) the curtain was woven on seventy-two leashes, and each twist of the warp (<span class=\"refLink\" data-ref=\"Jastrow, נִימָה 1\" dir=\"rtl\" href=\"/Jastrow,_נִימָה.1\">נִימָה</span>) contained twenty four threads; <span class=\"refLink\" data-ref=\"Chullin 90b:15\" href=\"/Chullin.90b.15\">Chullin 90ᵇ</span>; <span class=\"refLink\" data-ref=\"Tamid 29b:6\" href=\"/Tamid.29b.6\">Tamid 29ᵇ</span> <span dir=\"rtl\">נימין</span>; <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 4:13\" href=\"/Bamidbar_Rabbah.4.13\">Bamidabar Rabbah section (Parashah) 4</span> <span dir=\"rtl\">נימין</span>; Midrash Tanḥuma Vayaḳh. 7 <span dir=\"rtl\">נימין</span>; ed. Bub. 10 <span dir=\"rtl\">נירים</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, נִיר IV 1",
+              "sourceHeRef": "מילון יסטרוב, נִיר IV א׳",
+              "sourceRef": "Jastrow, נִיר IV 1"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "The Gemara discusses the aforementioned curtain that separated the Holy of Holies from the Sanctuary. <b>Rabban Shimon ben Gamliel says in the name of Rabbi Shimon the son of the deputy</b> High Priest: The <b>curtain</b> has the <b>thickness of a handbreadth,</b> and <b>it is woven from seventy-two strands</b> of yarn. And <b>each and every strand</b> from those seventy-two is made from <b>twenty-four threads.</b> The curtain was made from four materials: Sky-blue wool, purple wool, scarlet wool, and fine linen, and a strand was made up of six threads of each type of material. And with regard to the dimensions of the curtain, <b>its length</b> was <b>forty cubits,</b> as the height of the ceiling of the Sanctuary; <b>and its width</b> was <b>twenty</b> cubits, to match the width of the entrance; <b>and</b> it <b>was made from eighty-two ten-thousands,</b> i.e., 820,000 golden dinar. <b>And they</b> used to <b>make two</b> new curtains <b>every year. And</b> the curtain was so heavy that they needed <b>three hundred priests</b> to carry it when they would <b>immerse it.</b>",
+              "he": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן הַסְּגַן, פָּרֹכֶת עָבְיָהּ טֶפַח, וְעַל שִׁבְעִים וּשְׁתַּיִם נִימִין נֶאֱרֶגֶת, וְעַל כָּל נִימָא וְנִימָא עֶשְׂרִים וְאַרְבָּעָה חוּטִין. אָרְכָּהּ אַרְבָּעִים אַמָּה וְרָחְבָּהּ עֶשְׂרִים אַמָּה, וּמִשְּׁמוֹנִים וּשְׁתֵּי רִבּוֹא נַעֲשֵׂית. וּשְׁתַּיִם עוֹשִׂין בְּכָל שָׁנָה, וּשְׁלשׁ מֵאוֹת כֹּהֲנִים מַטְבִּילִין אוֹתָהּ:",
+              "link": "/Mishnah Shekalim/8",
+              "ref": "Mishnah Shekalim 8:5",
+              "sourceHeRef": "משנה שקלים ח:ה",
+              "sourceRef": "Mishnah Shekalim 8:5"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The one [appointed] to supervise [the making of] the curtains would be in charge of all those who wove the curtains and embroidered [designs] on them so that they would be prepared for the Temple and the gates.<br>Each year, they would make two curtains to separate between the Sanctuary and the Holy of Holies. The strands of these curtains were all six-fold. They were of four types of fabric: linen, sky-blue dyed wool, purple dyed wool, and crimson dyed wool. Each one was six fold. Thus there were 24 strings. The curtains were a hand-breadth thick. They were woven with 72 heddles. Its length was forty cubits and its width was 20 cubits.",
+              "he": "זֶה שֶׁעַל הַפָּרֹכֶת מְמֻנֶּה עַל כָּל אוֹרְגֵי הַפָּרֹכוֹת וְהַרוֹקְמִין בָּהֶן שֶׁיִּהְיוּ מוּכָנוֹת לַהֵיכָל וְלַשְּׁעָרִים. וּשְׁתֵּי פָּרֹכוֹת הָיוּ עוֹשִׂין בְּכָל שָׁנָה לְהַבְדִּיל בֵּין הַקֹּדֶשׁ לְקֹדֶשׁ הַקֳדָשִׁים. וְחוּטֵי הַפָּרֹכֶת כְּפוּלִין שִׁשָּׁה שִׁשָּׁה. וְאַרְבָּעָה מִינִין הָיוּ בָּהּ שֵׁשׁ וּתְכֵלֶת וְאַרְגָּמָן וְתוֹלַעַת שָׁנִי. וְכָל אֶחָד מֵהֶן כָּפוּל שִׁשָּׁה הֲרֵי אַרְבָּעָה וְעֶשְׂרִים חוּטִין. וְטֶפַח הָיָה עָבְיָהּ וְעַל שְׁנַיִם וְשִׁבְעִים) נִירִין הָיְתָה נֶאֱרֶגֶת אָרְכָּהּ אַרְבָּעִים אַמָּה וְרָחְבָּהּ עֶשְׂרִים אַמָּה:",
+              "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 7:16",
+              "sourceHeRef": "הלכות כלי המקדש והעובדין בו ז:טז",
+              "sourceRef": "Vessels of the Sanctuary and Those Who Serve Therein 7:16"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>פרוכת,</b> מה עניינה? — <b>דתנן</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו]</span> <b>רבן שמעון בן גמליאל אומר משום</b> <span class=\"hebrew-emphasis\">[בשם]</span> <b>ר' שמעון הסגן</b> (סגן הכהנים): ה<b>פרוכת</b> שבמקדש היה <b>עביה</b> כשיעור <b>טפח,</b> ו<b>על שבעים ושנים נימין</b> (חוטי שתי) היתה <b>נארגת, ועל כל נימה ונימה</b> מאותן שבעים ושתים נדרשו <b>עשרים וארבעה חוטין</b> כדי לעשותה, שכן היתה הפרוכת עשויה מארבעה מינים: תכלת, ארגמן, תולעת שני, ושש. וחוטו של כל אחד מארבעת אלה היה כפול ששה חוטים.",
+              "ref": "Steinsaltz on Tamid 29b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:ב",
+              "sourceRef": "Steinsaltz on Tamid 29b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Every year two Curtains were fashioned for the purpose of separating between the Sanctuary and the Holy of Holies. Each Curtain contained four types of material: Sky-blue wool, purple wool, scarlet wool, and fine linen, and each strand consisted of six threads of each material, for a total of twenty-four threads. The Curtain was one handbreadth thick, and it was woven from seventy-two strands of yarn. Its length was forty cubits, and it was twenty cubits wide (Rambam<i> Sefer Avoda</i>,<i> Hilkhot Kelei HaMikdash</i> 7:16).",
+              "he": "למדו חכמים ממדרש הכתובים שבכל מקום שנאמר במעשה אריגי קודש \"שש\" הריהו ללמד על החומר שיהא שש = פשתן, ושיהיה החוט שזור מששה חוטים. ולא רק בבגדים שנאמר בהם \"שש\" כך הוא הדין, אלא אף בשאר בגדים; וכאן שהפרוכת עשויה מארבעה מינים (שש, ארגמן, תולעת שני ותכלת) הרי זה מובן (ובלשון הגמרא: \"לית דין ולית דיינא\" — אין דין ואין דיין היכולים להשיב על כך) שהריהי עשויה מעשרים וארבעה חוטים (יומא עא,ב—עב,א).",
+              "ref": "Steinsaltz comment #1 on Tamid 29b:2",
+              "sourceHeRef": "הַפָּרוֹכֶת",
+              "sourceRef": "The Curtain"
+            },
+            {
+              "en": "",
+              "he": "שתי פרוכות היו עושים בכל שנה להבדיל בין הקדש לקודש הקדשים. וארבעה מינים היו בה: שש, תכלת, ארגמן ותולעת שני. וכל אחד מהן היה עשוי כפול ששה חוטים, הרי עשרים וארבעה חוטים. וטפח היה עביה, ועל שבעים ושנים נירים היתה נארגת. וארכה — ארבעים אמה, ורחבה — עשרים אמה. כמשנה. (רמב\"ם ספר עבודה הלכות כלי המקדש והעובדים בו פ\"ז הט\"ז).",
+              "ref": "Steinsaltz comment #2 on Tamid 29b:2",
+              "sourceHeRef": "הפרוכת",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "With regard to <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span>’s statement that the Sages exaggerated with regard to the weight of the <b>Curtain,</b> it is <b>as we learned</b> in a mishna (<i>Shekalim</i> 21b) that <b><span href=\"/topics/rabban-shimon-b-gamliel\" class=\"namedEntityLink\" data-slug=\"רשבג-(ambiguous)\">Rabban Shimon ben Gamliel</span> says in the name of <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> the deputy</b> High Priest: With regard to the <b>Curtain, its thickness is</b> one <b>handbreadth. It is woven from seventy-two strands</b> of yarn, <b>and each and every strand</b> of those seventy-two strands is made <b>from twenty-four threads.</b> The Curtain is fashioned from four materials: Sky-blue wool, purple wool, scarlet wool, and fine linen, and every strand comprises six threads of each material.",
+      "he": "פָּרוֹכֶת – דִּתְנַן רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר מִשּׁוּם רַבִּי שִׁמְעוֹן הַסְּגָן: פָּרוֹכֶת עׇבְיָהּ טֶפַח, עַל שִׁבְעִים וּשְׁנַיִם נִימִין נֶאֱרֶגֶת, וְעַל כׇּל נִימָה וְנִימָה עֶשְׂרִים וְאַרְבָּעָה חוּטִין.",
+      "ref": "Tamid 29b:2"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "The Gemara discusses the aforementioned curtain that separated the Holy of Holies from the Sanctuary. <b>Rabban Shimon ben Gamliel says in the name of Rabbi Shimon the son of the deputy</b> High Priest: The <b>curtain</b> has the <b>thickness of a handbreadth,</b> and <b>it is woven from seventy-two strands</b> of yarn. And <b>each and every strand</b> from those seventy-two is made from <b>twenty-four threads.</b> The curtain was made from four materials: Sky-blue wool, purple wool, scarlet wool, and fine linen, and a strand was made up of six threads of each type of material. And with regard to the dimensions of the curtain, <b>its length</b> was <b>forty cubits,</b> as the height of the ceiling of the Sanctuary; <b>and its width</b> was <b>twenty</b> cubits, to match the width of the entrance; <b>and</b> it <b>was made from eighty-two ten-thousands,</b> i.e., 820,000 golden dinar. <b>And they</b> used to <b>make two</b> new curtains <b>every year. And</b> the curtain was so heavy that they needed <b>three hundred priests</b> to carry it when they would <b>immerse it.</b>",
+              "he": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן הַסְּגַן, פָּרֹכֶת עָבְיָהּ טֶפַח, וְעַל שִׁבְעִים וּשְׁתַּיִם נִימִין נֶאֱרֶגֶת, וְעַל כָּל נִימָא וְנִימָא עֶשְׂרִים וְאַרְבָּעָה חוּטִין. אָרְכָּהּ אַרְבָּעִים אַמָּה וְרָחְבָּהּ עֶשְׂרִים אַמָּה, וּמִשְּׁמוֹנִים וּשְׁתֵּי רִבּוֹא נַעֲשֵׂית. וּשְׁתַּיִם עוֹשִׂין בְּכָל שָׁנָה, וּשְׁלשׁ מֵאוֹת כֹּהֲנִים מַטְבִּילִין אוֹתָהּ:",
+              "link": "/Mishnah Shekalim/8",
+              "ref": "Mishnah Shekalim 8:5",
+              "sourceHeRef": "משנה שקלים ח:ה",
+              "sourceRef": "Mishnah Shekalim 8:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומדותיה של הפרוכת: <b>ארכה</b> היה <b>ארבעים אמה,</b> כגובהו של פתח האולם שהיה גבוה ארבעים אמה, <b>ורחבה</b> היה <b>עשרים אמה,</b> כרוחבו של פתח האולם. <b>ומשמונים ושתים ריבוא</b> דינרים היתה <b>נעשית, ושתים</b> פרוכות חדשות היו <b>עושין בכל שנה ושנה, ו</b>כה כבדה היתה הפרוכת עד שהוצרכו ל<b>שלש מאות כהנים</b> לשאתה כשהיו <b>מטבילין אותה</b> ואף זו לשון גוזמה הבאה להורות שהיתה כבדה מאד, ואולם לא בשיעור זה של משא שלש מאות כהנים.",
+              "ref": "Steinsaltz on Tamid 29b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:ג",
+              "sourceRef": "Steinsaltz on Tamid 29b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The text follows the interpretation of the Rambam that this number is referring to the cost of the Curtain. Another interpretation is that it is referring to the number of threads in the Curtain (Rabbeinu Barukh). Some commentaries claim that this is referring to the number of weavers who were needed to weave the Curtain. These weavers were young girls who had not yet menstruated and who were therefore certainly ritually pure. According to this opinion, the text should read eighty-two <i>rivot</i>, meaning girls, rather than <i>ribo</i>, meaning ten-thousands. Weaving was traditionally women’s work, and women were paid to weave the Curtain for the Temple (Commentary on <i>Tamid</i>).",
+              "he": "נחלקו המפרשים בכוונת הדברים, באלו שמונה מאות ועשרים אלף אמורים הדברים. שיש שאמרו שהכוונה למספרן של הבנות הצעירות (שלא הגיעו עדיין לכלל ראיית דם נדה, והריהן טהורות בודאי) שהיו עוסקות באריגתה של הפרוכת. שכן מלאכת האריגה מלאכתן של נשים היתה, ואף במקדש היו הנשים אורגות בפרוכת ומקבלות שכר על כך (המפרש), ולפירוש זה יש אף הגורסים \"ובשמונים ושתים ריבות (= נערות, במקום \"ריבוא\") היתה נעשית\". ויש שפירשו שהכוונה למספר החוטים שהיו בפרוכת (ר\"ב). ועוד יש שפירשו (כבפירוש) שהכוונה לסכום הכסף שנדרש לצורך עשיית הפרוכת, שהוא שמונה מאות ועשרים אלף דינרי זהב (רמב\"ם פיהמ\"ש).",
+              "ref": "Steinsaltz comment #1 on Tamid 29b:3",
+              "sourceHeRef": "וּמִשְּׁמוֹנִים וּשְׁתַּיִם רִיבּוֹא נַעֲשֵׂית",
+              "sourceRef": "And it is made of eighty-two ten-thousands"
+            },
+            {
+              "en": "Some commentaries explain that this is referring to the fact that in the Second Temple the barrier between the Sanctuary and the Holy of Holies consisted of two separate Curtains, with space between them. Others explain that both Curtains were fashioned for the Entrance Hall. Some suggest that a new Curtain was required annually because of the copious smoke from the incense, which would stain the Curtain (Rosh).",
+              "he": "יש שפירשו שהכוונה לשתי פרוכות (וביניהן רווח) ששימשו בבית המקדש השני כמחיצה בין קדש הקדשים וההיכל, ובאו מחיצות אלה בבית שני במקומו של קיר האבנים שרוחבו היה אמה (\"אמה טרקסין\") ששימש לכך בבית המקדש הראשון. והטעם לכך שלא הקימו בבית שני קיר זה והציבו תחתיו פרוכות — שכן גובהו של המקדש השני היה מאה אמה (ויש האומרים שהיה גובהו ארבעים אמה. רש\"י בבא בתרא ג,א), ובגובה שכזה, אין קיר אבנים שרוחבו אמה בלבד יכול להתקיים. ולא יכלו בוני המקדש בבית שני להגדיל את רוחב קיר זה באופן שיוכל להתקיים, שכן נאמר \"הכל בכתב מיד ה' עלי השכיל כל מלאכות התבנית\" (דברי הימים א כח, יט), לומר שכל פרט בבית המקדש נקבע בנבואה ואין לשנותו (יעוין עירובין קד,א ועוד). ומשום כך עשו שתי פרוכות מכאן ומכאן וריוח ביניהן, ורוחב הכל היה אמה (של בנין בת ששה טפחים). שכן כל פרוכת היתה בעובי טפח, והריוח שביניהן שהיה ברוחב ארבעה טפחים איפשר לכהן להלך ביניהן (המפרש). ויש שפירשו שהכוונה לפרוכת אחת לדביר (קודש הקדשים) ופרוכת אחת לאולם (רש\"י חולין צ,ב). ובטעם עשייתן מדי שנה יש שכתבו שהוא משום עשן הקטורת המרובה שהיה משחירן (רא\"ש).",
+              "ref": "Steinsaltz comment #2 on Tamid 29b:3",
+              "sourceHeRef": "וּשְׁתַּיִם עוֹשִׂין בְּכָל שָׁנָה וְשָׁנָה",
+              "sourceRef": "And two are made in each and every year"
+            },
+            {
+              "en": "The early authorities discuss the reason for this immersion. Some claim that the last step in the preparation of a ritually pure vessel for consecrated use was to immerse it in a ritual bath (Rosh). Others maintain that the Curtain can be rendered ritually impure, and this immersion was performed only when that happened (Rosh; Rashi on <i>Ĥullin</i> 90b). They explain that although the Curtain is considered attached to the earth, it may nevertheless become impure because in a certain aspect it is a tent, as the Sages said that the Curtain should not be completely straight; rather, it must be slightly horizontal at its top.",
+              "he": "דנו ראשונים בטעמה של הטבלה זו. יש שאמרו כי הטבלה זו של הפרוכת היא כנוהג בכל הכלים הנגמרים בטהרה, שקודם שימושם בקודש היו מטבילים אותם (רא\"ש). והקשו על הסבר זה, שהרי אין הפרוכת מקבלת טומאה, כיוון שהיא שייכת לבנין ולא לשימוש אדם ודינה כקרקע שאינה מקבלת טומאה (ראה משנה שביעית פ\"י מ\"ז). ויש שהסבירו כי אף שהיא כקרקע מכל מקום הריהי מקבלת טומאה משום היותה אוהל, שכן נאמר בפרוכת \"וסכות על הארון את הפרוכת\" (שמות מ, ג), ואמרו חכמים בפירוש כתוב זה שלא תהא הפרוכת מחיצה ישרה לגמרי, אלא תהא כפופה בראשה במקצת, כעין סכך (סוכה ז,ב). ויש מן הראשונים מהם משמע כי הפרוכת היתה יכולה להיטמא, והטבלה זו אינה אלא אם נטמאה הפרוכת (רא\"ש. רש\"י חולין שם). ויש שאמרו שהטבילו את הפרוכת לאחר שנארגה וקודם ששמו אותה על הפתח, משום החשש (הקרוב לודאי) שמא אחת האורגות נטמאה בנדה בלא ששמה לבה לכך, ונטמאה בכך הפרוכת הנעשית על ידה (המפרש). ואף שהאורגות, כאמור, היו צעירות שלא הגיעו עדיין לכלל ראיית נדות, יש לחשוש שמא אחת מהן ראתה נידה, ואין היא מודעת לכך.",
+              "ref": "Steinsaltz comment #3 on Tamid 29b:3",
+              "sourceHeRef": "וּשְׁלֹשׁ מֵאוֹת כֹּהֲנִים מַטְבִּילִין אוֹתָהּ",
+              "sourceRef": "Three hundred priests would immerse it"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "The curtain is 40 cubits long and 20 cubits wide, It was weaves “of blue and crimson and byssus, fine linen, goats’ hair - work of art weaving”. A second [curtain] there was, 20 cubits long and 10 cubits wide. It was woven “of blue and crimson and byssus, fine linen, goats’ hair - work of art weaving” and was spread out over the entrance to the sanctuary from outside R. Judah says: The one that was taken out from within was folded double and fourfold, and spread it [then] from without over the entrance to the sanctuary. It was said to him: Can something that has served the purpose of what is strictly holy serve for what is less holy?",
+              "he": "פרוכת ארכה ארבעי' אמה ורחבה עשרים אמה, והיתה נארגת תכלת וארגמן ותולעת שני ושש משזר מעשה חשב. אחרת היתה שם, ארכה עשרים אמה ורחבה עשר אמות והיתה נארגת תכלת וארגמן ותולעת שני ושש משזר מעשה רוקם. והיתה פרוסה על פתחו של היכל מבחוץ, ר' יהודה או' זו שמוציאין אותה מבפנים היתה מקופלת אחד לשנים ושנים לארבעה, היתה פרוסה על פתחו של היכל מבחוץ. אמרו לו מי ששימש בקדושה חמורה יחזור וישמש בקדושה קלה?",
+              "ref": "Tosefta Shekalim (Lieberman) 3:13",
+              "sourceHeRef": "תוספתא שקלים (ליברמן) ג:יג",
+              "sourceRef": "Tosefta Shekalim (Lieberman) 3:13"
+            },
+            {
+              "en": "",
+              "he": "פרוכת ארכה ארבעים אמה ורחבה עשרים אמה והיתה נארגת תכלת וארגמן [תולעת] שני ושש משזר מעשה חושב אחרת היתה שם ארכה עשרים אמה ורחבה עשר [אמות] והיתה נארגת תכלת וארגמן ותולעת שני ושש משזר מעשה רוקם והיתה פרוסה על פתחו של היכל מבחוץ רבי יהודה אומר זו שמוציאין אותה מבפנים [היה] מקופלת אחד לשנים ושנים לארבעה היתה פרוסה על פתחו של היכל מבחוץ אמרו לו מי ששימש בקדושה חמורה [יחזור לשמש] בקדושה קלה דבר אחר בזו כתוב <span class=\"parenthesized\">(שמות כו)</span> מעשה חושב ובזו כתוב <span class=\"parenthesized\">(שם)</span> מעשה רוקם רבי נחמיה אומר מעשה חושב שני פרצופות מעשה רוקם פרצוף אחד אלא שמוציאין אותה מבפנים היתה מקופלת אחד לשנים ושנים לארבעה והיתה נתונה בעלייה כנגד התחתונה שנאמר <span class=\"parenthesized\">(שם)</span> והבדילה הפרוכת לכם בין הקדש וגו' ר' חנינא בן אנטיגנוס אומר שתי פרוכת היו שם אחת פרוסה ואחת מקופלת נטמאה פרוסה פורסין את המקופלת בערב יום הכפורים מכניסין את החדשה ומוציאין את הישנה.",
+              "ref": "Tosefta Shekalim 3:11",
+              "sourceHeRef": "תוספתא שקלים ג:יא",
+              "sourceRef": "Tosefta Shekalim 3:11"
+            }
+          ]
+        }
+      },
+      "en": "<b>Its length</b> is <b>forty cubits,</b> corresponding to the height of the entrance to the Sanctuary, <b>and its width</b> is <b>twenty cubits,</b> matching the width of the entrance. <b>And it is made</b> at the cost <b>of eighty-two ten-thousands,</b> i.e., 820,000, gold dinars,<b>and two</b> new Curtains <b>are made in each and every year. And</b> the Curtain was so heavy that when it was immersed <b>three hundred priests</b> would <b>immerse it.</b>",
+      "he": "אׇרְכָּהּ אַרְבָּעִים אַמָּה, וְרׇחְבָּהּ עֶשְׂרִים אַמָּה. וּמִשְּׁמוֹנִים וּשְׁתַּיִם רִיבּוֹא נַעֲשֵׂית, וּשְׁתַּיִם עוֹשִׂין בְּכׇל שָׁנָה וְשָׁנָה, וּשְׁלֹשׁ מֵאוֹת כֹּהֲנִים מַטְבִּילִין אוֹתָהּ.",
+      "ref": "Tamid 29b:3"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">יִשּׁוּב</strong>, <strong dir=\"rtl\">יִישּׁוּב</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, יָשַׁב 1\" dir=\"rtl\" href=\"/Jastrow,_יָשַׁב.1\">יָשַׁב</span>) <br><b>1)</b> <i>settlement, inhabited land</i>, opposed <span dir=\"rtl\">מדבר</span> or <span class=\"refLink\" data-ref=\"Jastrow, יָם 1\" dir=\"rtl\" href=\"/Jastrow,_יָם.1\">ים</span>; <i>cultivation, social world, civilization; public welfare</i>. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 1:15:1\" href=\"/Kohelet_Rabbah.1.15.1\">Kohelet Rabbah to I, 15</span>; Ruth. R. to I, 17 <span dir=\"rtl\">אם אין אדם מתקן ביי׳ וכ׳</span> if man does not prepare provision in the inhabited settlement (this world), what will he have to eat in the desert (the hereafter)?—<span class=\"refLink\" data-ref=\"Jerusalem Talmud Bava Kamma 5:8:3\" href=\"Jerusalem_Talmud_Bava_Kamma.5.8.3\">Yerushalmi Bava Kamma V, end, 5ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אָוָוז 1\" dir=\"rtl\" href=\"/Jastrow,_אָוָוז.1\">אָוָוז</span>. <span class=\"refLink\" data-ref=\"Berakhot 31a\" href=\"/Berakhot.31a\">Berakhot 31ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יָשַׁב 1\" dir=\"rtl\" href=\"/Jastrow,_יָשַׁב.1\">יָשַׁב</span>. <span class=\"refLink\" data-ref=\"Berakhot 58b:1\" href=\"/Berakhot.58b.1\">Ib. 58ᵇ</span> <span dir=\"rtl\">הרואה בתי … ביִשּׁוּבָן</span> he who sees Israelitish places in their inhabitable condition (restoration), opposed <span dir=\"rtl\">בחורבנן</span>. <span class=\"refLink\" data-ref=\"Berakhot 58b:4\" href=\"/Berakhot.58b.4\">Ib.</span> <span dir=\"rtl\">עתיד הקב\"ה להחזירו ליִשּׁוּבוֹ</span> the Lord will restore it again. <span class=\"refLink\" data-ref=\"Tamid 29b:27\" href=\"/Tamid.29b.27\">Tamid 29ᵇ</span>; <span class=\"refLink\" data-ref=\"Bava Kamma 80b:15\" href=\"/Bava_Kamma.80b.15\">Bava Kamma 80ᵇ</span> <span dir=\"rtl\">משום י׳ א\"י</span> in order to maintain the cultivation of Palestine. Yerushalmi Bava Batra II, end, 13ᶜ <span dir=\"rtl\">י׳ עולם בבורות</span> social welfare depends on wells; <span dir=\"rtl\">באילנות</span> on trees. <span class=\"refLink\" data-ref=\"Mishnah Kiddushin 1:10\" href=\"/Mishnah_Kiddushin.1.10\">Kiddushin I, 10</span> <span dir=\"rtl\">אינו מן הי׳</span> does not belong to the civilized world. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 35:3\" href=\"/Bereishit_Rabbah.35.3\">Breishit Rabbah section (Parashah) 35</span> <span dir=\"rtl\">בני אדם של י׳</span> civilized (polite) people; and from <br><b><br>—2)</b> (with or without <span class=\"refLink\" data-ref=\"Jastrow, דַּעַת 1\" dir=\"rtl\" href=\"/Jastrow,_דַּעַת.1\">דעת</span>) <i>ease of mind, calmness</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 19:5\" href=\"/Bereishit_Rabbah.19.5\">Breishit Rabbah section (Parashah) 19</span> <span dir=\"rtl\">בי׳ הדעת באת עליו</span> she came to him with deliberation (logical arguments). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Nedarim 1:1:14\" href=\"Jerusalem_Talmud_Nedarim.1.1.14\">Yerushalmi Nedarim I, 36ᵈ</span> bottom of page; <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 10:7\" href=\"/Bamidbar_Rabbah.10.7\">Bamidabar Rabbah section (Parashah) 10</span> <span dir=\"rtl\">מתיך י׳</span> (<span dir=\"rtl\">הדעת</span>) in a calm state of mind, opposed <span class=\"refLink\" data-ref=\"Jastrow, אַקְפָּדָה 1\" dir=\"rtl\" href=\"/Jastrow,_אַקְפָּדָה.1\">אקפדה</span>; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, יִשּׁוּב 1",
+              "sourceHeRef": "מילון יסטרוב, יִשּׁוּב א׳",
+              "sourceRef": "Jastrow, יִשּׁוּב 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">קְטַם II</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, קָטַם II 1\" href=\"/Jastrow,_קָטַם II.1\">same</span> <span class=\"refLink\" data-ref=\"Tamid 29b:12\" href=\"/Tamid.29b.12\">Tamid 29ᵇ</span> <span dir=\"rtl\">משום דקָטְמֵי</span> version of Ḳorban Ahăron and of Rabad to Sifra Vayikra, N’dab., Parah 4, Chaldaic VI (ed. <span dir=\"rtl\">דקטרי</span>) because these kinds of wood cover up the flames with their ashes."
+              ],
+              "he": [],
+              "ref": "Jastrow, קְטַם II 1",
+              "sourceHeRef": "מילון יסטרוב, קְטַם II א׳",
+              "sourceRef": "Jastrow, קְטַם II 1"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> The previous mishna described the performance of the removal of the ashes by the priest who was selected to perform this task. This mishna continues: <b>The brethren</b> of the priest who removed the ashes, i.e., the other members of the patrilineal family, <b>saw that he had descended</b> from the altar with the coal pan, <b>and they</b> would <b>run and come</b> to the Basin. <b>They made haste and sanctified their hands and their feet with</b> the water in <b>the Basin,</b> and then <b>they took the shovels and the forks and ascended</b> with them <b>to the top of the altar.</b> The shovels were for shoveling the ashes to the center of the altar, while the forks were required to remove from the altar those limbs that had not been consumed.",
+                  "With regard to <b>the limbs</b> of burnt offerings <b>and the fats</b> of other offerings <b>that had not been consumed</b> and burned to ashes during the time <b>from the</b> previous <b>evening,</b> the priests would <b>clear them to the sides of the altar. If</b> the remaining limbs and fats were so abundant that the <b>sides</b> of the altar were <b>unable to hold</b> them, the priests would <b>arrange them on the ramp, opposite the surrounding ledge</b> of the altar.",
+                  "The priests then <b>began raising the ashes onto</b> the <b>circular heap</b> upon which the ashes were piled. The <b>circular heap was in the middle of the altar. Sometimes there was</b> as much <b>as three hundred <i>kor</i></b> of ashes <b>upon it.</b> When the heap of ashes became excessively large, the priests would remove the ashes and pour them outside the city. <b>But during the Festivals they would not remove the ashes</b> from the altar, <b>as</b> the ashes <b>were</b> considered <b>an adornment to the altar,</b> since they were a sign of the great number of offerings that were sacrificed on it. <b>In all the days</b> of the altar, even when there was an abundance of ashes upon it,"
+                ],
+                [
+                  "<b>the priest</b> tasked with removing the ashes from the circular heap <b>was never indolent in removing the ashes.</b>",
+                  "After the ashes were cleared to the middle of the altar, the priests <b>began raising logs</b> onto the altar in order <b>to assemble the arrangement</b> of wood on which the offerings were burned. The <i>tanna</i> asks: <b>And is</b> wood from <b>all the trees fit for the arrangement?</b> The <i>tanna</i> replies: Wood from <b>all the trees is fit for the arrangement, except for</b> wood <b>from</b> the <b>vine and from</b> the <b>olive</b> tree, <b>but</b> the priests <b>were accustomed</b> to assemble the arrangement <b>with</b> wood from <b>these</b> trees: <b>With young branches of</b> the <b>fig</b> tree, <b>of</b> the <b>nut</b> tree, <b>and of pinewood.</b>",
+                  "The priest who removed the ashes then <b>assembled the large arrangement</b> of wood upon which the daily offering and the sacrificial portions of the other offerings are burned. It was assembled <b>on the eastern</b> side of the altar, <b>and its opening</b> was <b>on the eastern</b> side of the altar, <b>and the inner end of</b> the <b>logs would touch the circular heap</b> of ashes. <b>And there was space between the logs,</b> in which the priests placed twigs, <b>as they would ignite the kindling [<i>ha’alita</i>] from there,</b> so that the fire would spread to the logs.",
+                  "The priests <b>selected from</b> among the logs that were <b>there fine</b> logs from <b>fig trees,</b> as when this type of wood was burned it would become coals rather than ashes. The priest who removed the ashes then <b>assembled the second arrangement</b> of wood, from which the coals were taken to the golden altar in the Sanctuary <b>for</b> the burning of <b>the incense.</b> The second arrangement was assembled <b>next to the southwestern</b> corner of the altar and was <b>removed from the corner toward the north</b> side of the altar by a distance of <b>four cubits.</b>",
+                  "The second arrangement was assembled <b>of</b> an amount of wood <b>estimated</b> to produce <b>five <i>se’a</i> of coals. And on Shabbat,</b> it was assembled <b>of</b> an amount of wood <b>estimated</b> to produce <b>eight <i>se’a</i> of coals, as there</b> the priests <b>would place</b> the <b>two bowls of frankincense that</b> accompanied <b>the shewbread</b> and that were burned on the altar on Shabbat. With regard to <b>the limbs and the fats that were not consumed</b> during the time <b>from the</b> previous <b>evening,</b> the priests would <b>return them to the</b> large <b>arrangement</b> to be burned. <b>And</b> the priests <b>kindled</b> those <b>two arrangements with fire</b> and <b>descended</b> from the altar. <b>And they</b> then <b>came to the Chamber of Hewn Stone,</b> where they would conduct the second lottery in order to determine who would perform the subsequent rites."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Tamid 28b:8",
+                "Tamid 28b:9",
+                "Tamid 28b:10",
+                "Tamid 29a:1",
+                "Tamid 29a:2",
+                "Tamid 29a:3",
+                "Tamid 29a:4",
+                "Tamid 29a:5"
+              ],
+              "he": [
+                [
+                  "מַתְנִי׳ <strong><big>רָאוּהוּ אֶחָיו</big></strong> שֶׁיָּרַד, וְהֵם רָצִים וּבָאִים. מִהֲרוּ וְקִדְּשׁוּ יְדֵיהֶם וְרַגְלֵיהֶם מִן הַכִּיּוֹר, נָטְלוּ אֶת הַמַּגְרֵפוֹת וְאֶת הַצִּינּוֹרוֹת וְעָלוּ לְרֹאשׁ הַמִּזְבֵּחַ.",
+                  "הָאֵבָרִים וְהַפְּדָרִים שֶׁלֹּא נִתְעַכְּלוּ מִבָּעֶרֶב – סוֹלְקִין אוֹתָן עַל צִדֵּי הַמִּזְבֵּחַ, אִם אֵין צְדָדִים מַחְזִיקִין – סוֹדְרִים אוֹתָם בַּסּוֹבֵב עַל הַכֶּבֶשׁ.",
+                  "הֵחֵלּוּ מַעֲלִין בָּאֵפֶר עַל גַּב תַּפּוּחַ. תַּפּוּחַ הָיָה בְּאֶמְצַע הַמִּזְבֵּחַ, פְּעָמִים שֶׁהָיוּ עָלָיו כִּשְׁלֹשׁ מֵאוֹת כּוֹר. וּבָרְגָלִים לֹא הָיוּ מְדַשְּׁנִין אוֹתוֹ, מִפְּנֵי שֶׁהוּא נוֹי לַמִּזְבֵּחַ. וּמִיָּמָיו"
+                ],
+                [
+                  "לֹא נִתְעַצֵּל הַכֹּהֵן מִלְּהוֹצִיא אֶת הַדֶּשֶׁן.",
+                  "הֵחֵלּוּ מַעֲלִין בַּגְּזִירִין לְסַדֵּר אֶת הַמַּעֲרָכָה. וְכִי כׇּל הָעֵצִים כְּשֵׁרִין לַמַּעֲרָכָה הֵן? כׇּל הָעֵצִים כְּשֵׁרִין לַמַּעֲרָכָה חוּץ מִשֶּׁל גֶּפֶן וְשֶׁל זַיִת. אֲבָל בְּאֵלּוּ הָיוּ רְגִילִין: בְּמֻרְבִּיּוֹת שֶׁל תְּאֵנָה, שֶׁל אֱגוֹז, וְשֶׁל עֵץ שֶׁמֶן.",
+                  "סִידֵּר אֶת הַמַּעֲרָכָה גְּדוֹלָה מִזְרָחָה, וַחֲזִיתָהּ מִזְרָחָה. וְרָאשֵׁי גְזִירִין הַפְּנִימִים הָיוּ נוֹגְעִין בַּתַּפּוּחַ. וְרֶיוַח הָיָה בֵּין הַגְּזִירִים, שֶׁהָיוּ מַצִּיתִים אֶת הָאֲלִיתָא מִשָּׁם.",
+                  "בֵּרְרוּ מִשָּׁם עֲצֵי תְאֵנָה יָפִים, סִידֵּר אֶת הַמַּעֲרָכָה שְׁנִיָּה לִקְטוֹרֶת כְּנֶגֶד מַעֲרָבִית דְּרוֹמִית, מָשׁוּךְ מִן הַקֶּרֶן כְּלַפֵּי צָפוֹן אַרְבַּע אַמּוֹת.",
+                  "בְּעוֹמֶד חָמֵשׁ סְאִין גֶּחָלִים. וּבְשַׁבָּת – בְּעוֹמֶד שְׁמוֹנֶה סְאִין גֶּחָלִים. שֶׁשָּׁם הָיוּ נוֹתְנִים שְׁנֵי בְּזִיכֵי לְבוֹנָה שֶׁל לֶחֶם הַפָּנִים. הָאֵבָרִים וְהַפְּדָרִים שֶׁלֹּא <span class=\"parenthesized\">(הָיוּ)</span> נִתְעַכְּלוּ מִבָּעֶרֶב, מַחֲזִירִין אוֹתָן לַמַּעֲרָכָה, וְהִצִּיתוּ שְׁתֵּי מַעֲרָכוֹת בָּאֵשׁ. יָרְדוּ וּבָאוּ לָהֶם לְלִשְׁכַּת הַגָּזִית."
+                ]
+              ],
+              "link": "/Tamid/28b",
+              "ref": "Tamid 28b:8-29a:5",
+              "sourceHeRef": "unused",
+              "sourceRef": "Tamid 28b:8-29a:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו במשנתנו כי הכהנים <b>החלו מעלין בגזירין לסדר את</b> אש <b>המערכה</b> הגדולה. ולאחר מכן שנינו כי כל העצים ראויים לשמש כעצי המערכה, <b>חוץ משל זית ומשל גפן,</b> אבל היו רגילים להשתמש במורביות של עצי תאנה, אגוז ועץ שמן. ושואלים: <b>הני מאי טעמא</b> <span class=\"hebrew-emphasis\">[אלה,</span> זית וגפן, <span class=\"hebrew-emphasis\">מה טעם]</span> אסורים בשימוש לעצי המערכה? <b>רב פפא אמר:</b> טעם הדבר, <b>משום דקטרי</b> <span class=\"hebrew-emphasis\">[ש</span>יש בהם בעצי הזית והגפן <span class=\"hebrew-emphasis\">קשרים,</span> מקומות מעובים<span class=\"hebrew-emphasis\">]</span> שבהם תלוי הענף, ובשריפתם הם גורמים לעשן מרובה. <b>רב אחא בר יעקב אמר:</b> אף כי אכן עיקר הטעם הוא משום הקשרים מכל מקום נוסף טעם בדבר, <b>משום</b> הדאגה ל<b>ישוב ארץ ישראל,</b> שלא למעט עצים אלה. מיתיבי <span class=\"hebrew-emphasis\">[מקשים]</span> על כך ממה ששנינו על האמור בעצי המערכה: \"ונתנו בני אהרן אש על המזבח וערכו עצים על האש.",
+              "ref": "Steinsaltz on Tamid 29b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:ד",
+              "sourceRef": "Steinsaltz on Tamid 29b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The knots are those areas where branches are attached to each other, rendering the wood in these places thicker and harder than in the other parts of the branches. Young branches grow without any appendages or knotting. Vines and olive trees are predominantly tangled and knotty.",
+              "he": "יש שפירשו שמשום הקשרים ומקומות ההסתעפות המצויים בעצים הללו, אין הם נשרפים יפה, שכן באותם מקומות מעובים שבעץ רבה יותר הלחות, ומתוך כך הם מעלים עשן מרובה, ואין זה מכבודו של מקום שיביאו עצים שאינם נשרפים יפה, ושיהא העשן עולה במקדש (המפרש). ונמצא איפוא זיקת לשון בין המשמעים השונים של \"קטרי\" כקשרים וכעשן. ויש שפירשו (שכן עמדה לפניהם הגירסה \"קטמי\") שהכוונה לאפר המרובה הנותר לאחר שריפתם של עצים אלה, ואין זה מן הראוי (שלא בשלשת הרגלים) להרבות אפר על המזבח שיטרחו בו לאחר מכן הכהנים לפנותו (רא\"ש).",
+              "ref": "Steinsaltz comment #1 on Tamid 29b:4",
+              "sourceHeRef": "קָטְרִי",
+              "sourceRef": "Knots"
+            },
+            {
+              "en": "",
+              "he": "הסבירו המפרשים כי אף השיטה שטעם איסור עצי הזית ועצי הגפן הוא משום ישוב ארץ ישראל, מסכימה כי יסוד האיסור בעצים הללו הוא משום הקשרים שבהם, ולא באה אלא לומר שיש טעם נוסף, והוא משום ישוב ארץ ישראל. שאם יקצצו עצים אלה לשריפה על המזבח — לא ימצאו יין לשתות ושמן לסוך בו, ותחרב בכך ארץ ישראל (המפרש). ודנו אחרונים בשאלה מדוע לא אמרו בטעם האיסור להשתמש בעצים אלה משום \"בל תשחית\" (שהרי יכול היה להשתמש להדלקה על המזבח אף בעצים שאינם עושים פרי). ויש שהסבירו כי אין מקום ל\"בל תשחית\" אלא בקוצץ את האילן כולו, מה שאין כן בקוצץ ענפים ממנו (משל\"מ). עוד אמרו שאין קציצת עצים למזבח נחשבת \"השחתה\", שכן לצורך מצוה גדולה היא נעשית (באר שבע).",
+              "ref": "Steinsaltz comment #2 on Tamid 29b:4",
+              "sourceHeRef": "משום ישוב ארץ ישראל",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches: The priests <b>began raising logs</b> onto the altar <b>to assemble the arrangement</b> of wood. Wood from all the trees is fit for the arrangement, <b>except for</b> wood <b>from</b> the <b>olive</b> tree <b>and from</b> the <b>vine.</b> The Gemara asks: <b>What is the reason</b> that wood from <b>these</b> trees is not fit for the arrangement? <b><span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said:</b> It is <b>due to</b> the fact <b>that they have</b> thick <b>knots</b> in their branches, which cause the wood to burn poorly and produce excessive smoke. <b><span href=\"/topics/rav-aha-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-yaakov\">Rav Aḥa bar Ya’akov</span> said:</b> Although these trees are unfit for the arrangement primarily because they burn poorly, there is an additional reason: They are not used <b>because</b> using them would deplete the olive trees and grapevines, which would be detrimental to the <b>settlement of <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>.</b>",
+      "he": "הֵחֵלּוּ מַעֲלִין בַּגְּזִירִין לְסַדֵּר אֶת הַמַּעֲרָכָה [וְכוּ׳]. חוּץ מִשֶּׁל זַיִת וּמִשֶּׁל גֶּפֶן [וְכוּ׳]. הָנֵי מַאי טַעְמָא? רַב פָּפָּא אָמַר: מִשּׁוּם דִּקְטִרִי. רַב אַחָא בַּר יַעֲקֹב אָמַר: מִשּׁוּם יִשּׁוּב דְּאֶרֶץ יִשְׂרָאֵל.",
+      "ref": "Tamid 29b:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וערכו בני אהרן הכהנים את הנתחים את הראש ואת הפדר <b>על העצים אשר על האש</b> אשר על המזבח\" (ויקרא א, ז—ח), ומהלשון \"על העצים אשר על האש\" למדו חכמים כי ב<b>עצים הנתוכים</b> (הניתכים, הנשרפים כליל) <b>להיות</b> כאש עצמה דבר הכתוב, <b>ומאי ניהו</b> <span class=\"hebrew-emphasis\">[ומה הוא]</span> באיזה עצים מדובר? — <b>דוקרי</b> <span class=\"hebrew-emphasis\">[קני]</span> <b>שפוד דלא קטרי ואזלי מקטר</b> <span class=\"hebrew-emphasis\">[שאינם</span> מסוג העצים <span class=\"hebrew-emphasis\">ההולכים ונקשרים]</span> אלא חלוקים לגמרי, והרי שהטעם הוא משום הקשרים!",
+              "ref": "Steinsaltz on Tamid 29b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:ה",
+              "sourceRef": "Steinsaltz on Tamid 29b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "From the Greek <greek>σποδός</greek>, <i>spodos</i>, meaning embers or ashes from wood.",
+              "he": "מקור המלה הוא ביוונית <eng>óðïäïò</eng> (שפודוס) שמשמעו — שיפוד עץ או מתכת שתוחבים בתוך הבשר לצלותו על האש.",
+              "ref": "Steinsaltz comment #1 on Tamid 29b:5",
+              "sourceHeRef": "שִׁפּוּד",
+              "sourceRef": "Skewer [<i>shipud</i>]"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "and Aaron’s sons, the priests, shall lay out the sections, with the head and the suet, on the wood that is on the fire upon the altar.",
+              "he": "וְעָרְכ֗וּ בְּנֵ֤י אַהֲרֹן֙ הַכֹּ֣הֲנִ֔ים אֵ֚ת הַנְּתָחִ֔ים אֶת־הָרֹ֖אשׁ וְאֶת־הַפָּ֑דֶר עַל־הָעֵצִים֙ אֲשֶׁ֣ר עַל־הָאֵ֔שׁ אֲשֶׁ֖ר עַל־הַמִּזְבֵּֽחַ׃",
+              "link": "/Leviticus/1",
+              "ref": "Leviticus 1:8",
+              "sourceHeRef": "ויקרא א:ח",
+              "sourceRef": "Leviticus 1:8"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara <b>raises an objection</b> to the explanation of <span href=\"/topics/rav-aha-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-yaakov\">Rav Aḥa bar Ya’akov</span> from a <i>baraita</i>: The verse states with regard to the wood of the arrangement: “And the sons of <span href=\"/topics/aaron\" class=\"namedEntityLink\" data-slug=\"aaron\">Aaron</span> the priest shall put fire upon the altar, and lay wood in order upon the fire. And <span href=\"/topics/aaron\" class=\"namedEntityLink\" data-slug=\"aaron\">Aaron</span>’s sons, the priests, shall lay the pieces, and the head, and the fat, in order <b>upon the wood that is on the fire</b> which is upon the altar” (Leviticus 1:7–8). The verse indicates that the arrangement must be composed of <b>wood that burns completely, until</b> it <b>becomes</b> like the <b>fire</b> itself. <b>And what is that</b> type of wood? This is referring to <b>branches</b> that are as smooth as <b>a skewer [<i>shipud</i>], which do not become knotted from within.</b> Evidently, the primary qualification of the wood is that it does not have knots.",
+      "he": "מֵיתִיבִי: ״עַל הָעֵצִים אֲשֶׁר עַל הָאֵשׁ״ – עֵצִים הַנִּתּוֹכִים לִהְיוֹת אֵשׁ, וּמַאי נִיהוּ? דּוּקְרֵי שַׁפּוּד דְּלָא קְטִרִי וְאָזְלִי מִקְּטַר מִתּוֹכוֹ!",
+      "ref": "Tamid 29b:5"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דֶּקֶל</strong> m. (compare <span dir=\"rtl\">דקר</span>) l) <i>palm-tree</i>. <span class=\"refLink\" data-ref=\"Mishnah Peah 4:1\" href=\"/Mishnah_Peah.4.1\">Peah IV, 1</span>. <span class=\"refLink\" data-ref=\"Tamid 29b:29\" href=\"/Tamid.29b.29\">Tamid 29ᵇ</span>; and from—<span class=\"refLink\" data-ref=\"Bava Batra 36b:7\" href=\"/Bava_Batra.36b.7\">Bava Batra 36ᵇ</span> <span dir=\"rtl\">ד׳ נערה</span> (Manuscript Hamburg and O. <span dir=\"rtl\">נעורה</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 3) a young palm bearing more than once a year (oth. opinion: one dropping its fruits prematurely). <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 1:5\" href=\"/Mishnah_Avodah_Zarah.1.5\">Pirkei Avot Zar. I, 5</span> <span dir=\"rtl\">ד׳ טב</span> a variety called <i>dekel tab</i> (Chald.: <i>good palm</i>). Sifra Thazr., Negaim, Parah 5, Chaldaic XIII <span dir=\"rtl\">ד׳ הרים אתה</span> thou art a mountain-palm (too rash, see <span class=\"refLink\" data-ref=\"Menachot 84b\" href=\"/Menachot.84b\">Menachot 84ᵇ</span> top; Variant in Rabbenu Shimshon to <span class=\"refLink\" data-ref=\"Mishnah Negaim 11:7\" href=\"/Mishnah_Negaim.11.7\">Negaim XI, 7</span> <span dir=\"rtl\">דוקר וכ׳</span> cutting through mountains, sophistical; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 552:2\" href=\"/Yalkut_Shimoni_on_Torah.552.2\">Yalkut Vayikra 552</span> <span dir=\"rtl\">עוקר</span>).—plural <span dir=\"rtl\">דְּקָלִים</span>, <span dir=\"rtl\">דְּקָלִין</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 38:8\" href=\"/Bereishit_Rabbah.38.8\">Breishit Rabbah section (Parashah) 38</span>.—<span class=\"refLink\" data-ref=\"Tosefta Moed Kattan 2:10\" href=\"/Tosefta_Moed_Kattan.2.10\">Tosefta Moʿed Katan II, 10</span>; <span class=\"refLink\" data-ref=\"Mishnah Shabbat 14:3\" href=\"/Mishnah_Shabbat.14.3\">Shabbat XIV, 3</span> <span dir=\"rtl\">מי דקלים</span> (Variant <span dir=\"rtl\">דקרים</span>, <span class=\"refLink\" data-ref=\"Tosefta Shabbat 12\" href=\"/Tosefta_Shabbat.12\">Tosefta ib. XII</span> (<span class=\"refLink\" data-ref=\"Tosefta Shabbat 13:13\" href=\"/Tosefta_Shabbat.13.13\">XIII), 13</span> <span dir=\"rtl\">דקר׳</span>, Variant ed. Zuckermandel (see Tosefefta) <span dir=\"rtl\">דקלין</span>) a potion used as <i>apurgative</i> (said to be the water of a well springing forth between two date-trees); Yerushalmi ib. XIV, 14ᶜ; Bavli ib. 110ᵃ; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 6:8:3\" href=\"Jerusalem_Talmud_Berakhot.6.8.3\">Yerushalmi Berakhot VI, end, 10ᵈ</span><br>.—2) = <span dir=\"rtl\">דֶּקֶר</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sotah 2:2:10\" href=\"Jerusalem_Talmud_Sotah.2.2.10\">Yerushalmi Sotah II, 18ᵃ</span>"
+              ],
+              "he": [],
+              "ref": "Jastrow, דֶּקֶל 1",
+              "sourceHeRef": "מילון יסטרוב, דֶּקֶל א׳",
+              "sourceRef": "Jastrow, דֶּקֶל 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">מַיִישׁ</strong> m. <i>mayish</i>, name of a tree, <i>Celtis</i> (see Löw Löw, Aramäische Pflanzennamen, Leipzig 1881, p. 250) ‘<i>a tall tree with fruits like myrtle-berries</i>’. Sifra Vayikra, N’dab., Parah 4, Chaldaic VI; <span class=\"refLink\" data-ref=\"Tosefta Menahot 9:14\" href=\"/Tosefta_Menahot.9.14\">Tosefta Menachot IX, 14</span>; <span class=\"refLink\" data-ref=\"Tamid 29b:20\" href=\"/Tamid.29b.20\">Tamid 29ᵇ</span>.—plural <span dir=\"rtl\">מַיְישִׁין</span> <i>fruits of the mayish</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 72\" href=\"/Bereishit_Rabbah.72\">Breishit Rabbah section (Parashah) 72</span>, beginning (explained <span class=\"refLink\" data-ref=\"Jastrow, דּוֹדָנִים 1\" dir=\"rtl\" href=\"/Jastrow,_דּוֹדָנִים.1\">דּוֹדָאִים</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, מַיִישׁ 1",
+              "sourceHeRef": "מילון יסטרוב, מַיִישׁ א׳",
+              "sourceRef": "Jastrow, מַיִישׁ 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "4) (Vayikra 1:8): \"upon the wood, upon the fire\": wood which is readily flammable. Now is all wood kasher for the woodpile? Yes, all woods are kasher except olive-wood and grape-vine, but most commonly used are young boughs of fig, nut, and pine. R. Eliezer adds carob, palm, sycamore, mayish, and oak.",
+              "he": "[ד] \"על העצים אשר על האש\" – עצים הנתונים להיות אש. וכי כל העצים כשרים למערכה? הן. כל העצים כשרים למערכה חוץ משל זית ושל גפן; אבל באלו רגילין: במורביות של תאנה ושל אגוז ושל עץ שמן. ר' אליעזר מוסיף אף של חרוב ושל דקל ושל שקמה ושל מייש ושל אלון.",
+              "ref": "Sifra, Vayikra Dibbura DeNedavah, Chapter 6 4",
+              "sourceHeRef": "ספרא, ויקרא דבורא דנדבה, פרק ו ד׳",
+              "sourceRef": "Sifra, Vayikra Dibbura DeNedavah, Chapter 6 4"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "After the ashes were cleared to the middle of the altar, the priests <b>began raising logs</b> onto the altar in order <b>to assemble the arrangement</b> of wood on which the offerings were burned. The <i>tanna</i> asks: <b>And is</b> wood from <b>all the trees fit for the arrangement?</b> The <i>tanna</i> replies: Wood from <b>all the trees is fit for the arrangement, except for</b> wood <b>from</b> the <b>vine and from</b> the <b>olive</b> tree, <b>but</b> the priests <b>were accustomed</b> to assemble the arrangement <b>with</b> wood from <b>these</b> trees: <b>With young branches of</b> the <b>fig</b> tree, <b>of</b> the <b>nut</b> tree, <b>and of pinewood.</b>",
+              "he": "הֵחֵלּוּ מַעֲלִין בְּגִזְרִין לְסַדֵּר אֵשׁ הַמַּעֲרָכָה. וְכִי כָל הָעֵצִים כְּשֵׁרִים לַמַּעֲרָכָה. הֵן, כָּל הָעֵצִים כְּשֵׁרִין לַמַּעֲרָכָה, חוּץ מִשֶּׁל זַיִת וְשֶׁל גֶּפֶן. אֲבָל בְּאֵלּוּ רְגִילִין, בְּמֻרְבִּיּוֹת שֶׁל תְּאֵנָה וְשֶׁל אֱגוֹז וְשֶׁל עֵץ שָׁמֶן:",
+              "link": "/Mishnah Tamid/2",
+              "ref": "Mishnah Tamid 2:3",
+              "sourceHeRef": "משנה תמיד ב:ג",
+              "sourceRef": "Mishnah Tamid 2:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים עוד ממה ששנינו בברייתא בדינם של עצי המערכה: <b>וכי כל העצים כשרים למערכה הן?</b> — <b>כל העצים כשרים, חוץ מן זית וגפן. אבל באלו היו רגילין: במרביות של תאנה, ושל אגוז, ושל עץ שמן. ר' אליעזר מוסיף</b> על הפסולים להבאה למערכה <b>אף של</b> עץ ה<b>מייש, ושל</b> עץ ה<b>אלון, ושל דקל, ושל חרוב, ושל שקמה.</b>",
+              "ref": "Steinsaltz on Tamid 29b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:ו",
+              "sourceRef": "Steinsaltz on Tamid 29b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "<i>Celtis australis</i>, the Mediterranean hackberry, is a tall and leafy cultivated tree, which can grow to a height of 30 m. The tree produces small black fruits that resemble serrated eggs. Although these fruits are edible, the tree is used primarily for decorative purposes and for carpentry, as its wood is hard and durable. The hackberry has a long life span, and there are very old trees of this variety in the Samaria and Galilee regions in Eretz Yisrael.",
+              "he": "נראה כי שם זה קרוב לשמו הערבי של האילן ֲ֡ג (מיס).",
+              "ref": "Steinsaltz comment #1 on Tamid 29b:6",
+              "sourceHeRef": "מַיִישׁ",
+              "sourceRef": "Hackberry tree"
+            },
+            {
+              "en": "",
+              "he": "(<eng>Celtis australis</eng> = מיש דרומי) המייש הוא עץ תרבותי גבוה (עד ל—30 מ') בעל עלוה. יש לו פירות שחורים קטנים הניתנים לאכילה, דמויי ביצה ומשוננים, אבל הוא משמש בעיקר לנוי או למלאכת נגרות (משום שהעץ הוא קשה ועמיד).\nעץ המייש מאריך ימים וקיימים בארץ עצים עתיקים מסוג זה בשומרון ובגליל.",
+              "ref": "Steinsaltz comment #2 on Tamid 29b:6",
+              "sourceHeRef": "מייש",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara continues: <b>And is</b> wood from <b>all the trees fit for the arrangement?</b> The <i>baraita</i> explains: Wood from <b>all the trees is fit for the arrangement, except for olive</b> wood <b>and</b> wood from the <b>vine, but</b> the priests <b>were accustomed</b> to assemble the arrangement <b>with</b> wood from <b>these</b> trees: <b>With young branches of</b> the <b>fig</b> tree, <b>of</b> the <b>nut</b> tree, <b>and of pinewood. <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> adds</b> that the following types of wood are <b>also</b> unfit: The wood <b>of</b> the <b>hackberry tree, of</b> the <b>oak, of</b> the <b>palm</b> tree, <b>of</b> the <b>carob</b> tree, <b>and of</b> the <b>sycamore.</b>",
+      "he": "וְכִי כׇּל הָעֵצִים כְּשֵׁרִים לַמַּעֲרָכָה הֵן? כׇּל הָעֵצִים כְּשֵׁרִים, חוּץ מִן זַיִת וְגֶפֶן. אֲבָל בְּאֵלּוּ הָיוּ רְגִילִין: בְּמֻרְבִּיּוֹת שֶׁל תְּאֵנָה, וְשֶׁל אֱגוֹז, וְשֶׁל עֵץ שֶׁמֶן. רַבִּי אֱלִיעֶזֶר מוֹסִיף אַף שֶׁל מַיִישׁ, וְשֶׁל אַלּוֹן, וְשֶׁל דֶּקֶל, וְשֶׁל חָרוּב, וְשֶׁל שִׁקְמָה.",
+      "ref": "Tamid 29b:6"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ויש לשאול: <b>בשלמא למאן דאמר</b> <span class=\"hebrew-emphasis\">[זה נוח ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> בטעם איסור עצי הזית ועצי הגפן שהוא <b>משום דקטרי</b> <span class=\"hebrew-emphasis\">[שנקשרים,</span> שיש בהם קשרים<span class=\"hebrew-emphasis\">],</span> לשיטת רב פפא, יש מקום לומר כי <b>בהא קמיפלגי</b> <span class=\"hebrew-emphasis\">[בזה נחלקו]</span> תנא קמא ור' אליעזר: <b>דמר סבר</b> <span class=\"hebrew-emphasis\">[שחכם זה,</span> ר' אליעזר, <span class=\"hebrew-emphasis\">סבור]</span> כי <b>אף על גב דלא קטרי מגואי</b> <span class=\"hebrew-emphasis\">[אף על פי שאין</span> העצים הללו, המייש והאלון ושאר המנויים בדבריו, <span class=\"hebrew-emphasis\">נקשרים מתוכם,</span> שאין בהם קשר פנימי<span class=\"hebrew-emphasis\">],</span> <b>כיון דקטרי מבראי</b> <span class=\"hebrew-emphasis\">[ש</span>הם <span class=\"hebrew-emphasis\">נקשרים מבחוץ]</span> — <b>לא מייתינן</b> <span class=\"hebrew-emphasis\">[אין אנו מביאים]</span> מהם לעצי המערכה. <b>ו</b>אילו <b>מר סבר</b> <span class=\"hebrew-emphasis\">[חכם זה,</span> התנא הראשון <span class=\"hebrew-emphasis\">סבור]</span> כי <b>כיון דלא קטרי מגואי</b> <span class=\"hebrew-emphasis\">[שאין</span> העצים הללו <span class=\"hebrew-emphasis\">נקשרים מבפנים],</span> <b>אף על גב דמבראי קטרי</b> <span class=\"hebrew-emphasis\">[אף על פי שמבחוץ</span> הם <span class=\"hebrew-emphasis\">נקשרים]</span> — <b>מייתינן</b> <span class=\"hebrew-emphasis\">[מביאים אנו]</span> מהם.",
+              "ref": "Steinsaltz on Tamid 29b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:ז",
+              "sourceRef": "Steinsaltz on Tamid 29b:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains the difficulty: <b>Granted, according to the one who said</b> that the wood of the olive and of the vine are not used <b>because they have knots,</b> one can explain that the first <i>tanna</i> of the <i>baraita</i> and <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> <b>disagree with regard to this</b> matter: One <b>Sage,</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>, <b>holds</b> that <b>although</b> the wood of the trees that he deems unfit for the arrangement, e.g., the hackberry tree and the oak, <b>are not knotted from within, since they are knotted on the outside, we do not bring</b> wood from these trees for the arrangement. <b>And</b> one <b>Sage,</b> the first <i>tanna</i>, <b>holds</b> that <b>since</b> these <b>are not knotted from within, even though they are knotted on the outside, we do bring</b> wood from these trees for the arrangment.",
+      "he": "בִּשְׁלָמָא לְמַאן דְּאָמַר מִשּׁוּם דִּקְטִרִי, בְּהָא קָמִיפַּלְגִי: דְּמָר סָבַר: אַף עַל גַּב דְּלָא קְטִרִי מִגַּוַּאי, כֵּיוָן דִּקְטִרִי מִבָּרַאי – לָא מַיְיתִינַן. וּמָר סָבַר: כֵּיוָן דְּלָא קְטִרִי מִגַּוַּאי, אַף עַל גַּב דְּמִבָּרַאי קְטִרִי – מַיְיתִינַן.",
+      "ref": "Tamid 29b:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דֶּקֶל</strong> m. (compare <span dir=\"rtl\">דקר</span>) l) <i>palm-tree</i>. <span class=\"refLink\" data-ref=\"Mishnah Peah 4:1\" href=\"/Mishnah_Peah.4.1\">Peah IV, 1</span>. <span class=\"refLink\" data-ref=\"Tamid 29b:29\" href=\"/Tamid.29b.29\">Tamid 29ᵇ</span>; and from—<span class=\"refLink\" data-ref=\"Bava Batra 36b:7\" href=\"/Bava_Batra.36b.7\">Bava Batra 36ᵇ</span> <span dir=\"rtl\">ד׳ נערה</span> (Manuscript Hamburg and O. <span dir=\"rtl\">נעורה</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 3) a young palm bearing more than once a year (oth. opinion: one dropping its fruits prematurely). <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 1:5\" href=\"/Mishnah_Avodah_Zarah.1.5\">Pirkei Avot Zar. I, 5</span> <span dir=\"rtl\">ד׳ טב</span> a variety called <i>dekel tab</i> (Chald.: <i>good palm</i>). Sifra Thazr., Negaim, Parah 5, Chaldaic XIII <span dir=\"rtl\">ד׳ הרים אתה</span> thou art a mountain-palm (too rash, see <span class=\"refLink\" data-ref=\"Menachot 84b\" href=\"/Menachot.84b\">Menachot 84ᵇ</span> top; Variant in Rabbenu Shimshon to <span class=\"refLink\" data-ref=\"Mishnah Negaim 11:7\" href=\"/Mishnah_Negaim.11.7\">Negaim XI, 7</span> <span dir=\"rtl\">דוקר וכ׳</span> cutting through mountains, sophistical; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 552:2\" href=\"/Yalkut_Shimoni_on_Torah.552.2\">Yalkut Vayikra 552</span> <span dir=\"rtl\">עוקר</span>).—plural <span dir=\"rtl\">דְּקָלִים</span>, <span dir=\"rtl\">דְּקָלִין</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 38:8\" href=\"/Bereishit_Rabbah.38.8\">Breishit Rabbah section (Parashah) 38</span>.—<span class=\"refLink\" data-ref=\"Tosefta Moed Kattan 2:10\" href=\"/Tosefta_Moed_Kattan.2.10\">Tosefta Moʿed Katan II, 10</span>; <span class=\"refLink\" data-ref=\"Mishnah Shabbat 14:3\" href=\"/Mishnah_Shabbat.14.3\">Shabbat XIV, 3</span> <span dir=\"rtl\">מי דקלים</span> (Variant <span dir=\"rtl\">דקרים</span>, <span class=\"refLink\" data-ref=\"Tosefta Shabbat 12\" href=\"/Tosefta_Shabbat.12\">Tosefta ib. XII</span> (<span class=\"refLink\" data-ref=\"Tosefta Shabbat 13:13\" href=\"/Tosefta_Shabbat.13.13\">XIII), 13</span> <span dir=\"rtl\">דקר׳</span>, Variant ed. Zuckermandel (see Tosefefta) <span dir=\"rtl\">דקלין</span>) a potion used as <i>apurgative</i> (said to be the water of a well springing forth between two date-trees); Yerushalmi ib. XIV, 14ᶜ; Bavli ib. 110ᵃ; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 6:8:3\" href=\"Jerusalem_Talmud_Berakhot.6.8.3\">Yerushalmi Berakhot VI, end, 10ᵈ</span><br>.—2) = <span dir=\"rtl\">דֶּקֶר</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sotah 2:2:10\" href=\"Jerusalem_Talmud_Sotah.2.2.10\">Yerushalmi Sotah II, 18ᵃ</span>"
+              ],
+              "he": [],
+              "ref": "Jastrow, דֶּקֶל 1",
+              "sourceHeRef": "מילון יסטרוב, דֶּקֶל א׳",
+              "sourceRef": "Jastrow, דֶּקֶל 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">יִשּׁוּב</strong>, <strong dir=\"rtl\">יִישּׁוּב</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, יָשַׁב 1\" dir=\"rtl\" href=\"/Jastrow,_יָשַׁב.1\">יָשַׁב</span>) <br><b>1)</b> <i>settlement, inhabited land</i>, opposed <span dir=\"rtl\">מדבר</span> or <span class=\"refLink\" data-ref=\"Jastrow, יָם 1\" dir=\"rtl\" href=\"/Jastrow,_יָם.1\">ים</span>; <i>cultivation, social world, civilization; public welfare</i>. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 1:15:1\" href=\"/Kohelet_Rabbah.1.15.1\">Kohelet Rabbah to I, 15</span>; Ruth. R. to I, 17 <span dir=\"rtl\">אם אין אדם מתקן ביי׳ וכ׳</span> if man does not prepare provision in the inhabited settlement (this world), what will he have to eat in the desert (the hereafter)?—<span class=\"refLink\" data-ref=\"Jerusalem Talmud Bava Kamma 5:8:3\" href=\"Jerusalem_Talmud_Bava_Kamma.5.8.3\">Yerushalmi Bava Kamma V, end, 5ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אָוָוז 1\" dir=\"rtl\" href=\"/Jastrow,_אָוָוז.1\">אָוָוז</span>. <span class=\"refLink\" data-ref=\"Berakhot 31a\" href=\"/Berakhot.31a\">Berakhot 31ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יָשַׁב 1\" dir=\"rtl\" href=\"/Jastrow,_יָשַׁב.1\">יָשַׁב</span>. <span class=\"refLink\" data-ref=\"Berakhot 58b:1\" href=\"/Berakhot.58b.1\">Ib. 58ᵇ</span> <span dir=\"rtl\">הרואה בתי … ביִשּׁוּבָן</span> he who sees Israelitish places in their inhabitable condition (restoration), opposed <span dir=\"rtl\">בחורבנן</span>. <span class=\"refLink\" data-ref=\"Berakhot 58b:4\" href=\"/Berakhot.58b.4\">Ib.</span> <span dir=\"rtl\">עתיד הקב\"ה להחזירו ליִשּׁוּבוֹ</span> the Lord will restore it again. <span class=\"refLink\" data-ref=\"Tamid 29b:27\" href=\"/Tamid.29b.27\">Tamid 29ᵇ</span>; <span class=\"refLink\" data-ref=\"Bava Kamma 80b:15\" href=\"/Bava_Kamma.80b.15\">Bava Kamma 80ᵇ</span> <span dir=\"rtl\">משום י׳ א\"י</span> in order to maintain the cultivation of Palestine. Yerushalmi Bava Batra II, end, 13ᶜ <span dir=\"rtl\">י׳ עולם בבורות</span> social welfare depends on wells; <span dir=\"rtl\">באילנות</span> on trees. <span class=\"refLink\" data-ref=\"Mishnah Kiddushin 1:10\" href=\"/Mishnah_Kiddushin.1.10\">Kiddushin I, 10</span> <span dir=\"rtl\">אינו מן הי׳</span> does not belong to the civilized world. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 35:3\" href=\"/Bereishit_Rabbah.35.3\">Breishit Rabbah section (Parashah) 35</span> <span dir=\"rtl\">בני אדם של י׳</span> civilized (polite) people; and from <br><b><br>—2)</b> (with or without <span class=\"refLink\" data-ref=\"Jastrow, דַּעַת 1\" dir=\"rtl\" href=\"/Jastrow,_דַּעַת.1\">דעת</span>) <i>ease of mind, calmness</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 19:5\" href=\"/Bereishit_Rabbah.19.5\">Breishit Rabbah section (Parashah) 19</span> <span dir=\"rtl\">בי׳ הדעת באת עליו</span> she came to him with deliberation (logical arguments). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Nedarim 1:1:14\" href=\"Jerusalem_Talmud_Nedarim.1.1.14\">Yerushalmi Nedarim I, 36ᵈ</span> bottom of page; <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 10:7\" href=\"/Bamidbar_Rabbah.10.7\">Bamidabar Rabbah section (Parashah) 10</span> <span dir=\"rtl\">מתיך י׳</span> (<span dir=\"rtl\">הדעת</span>) in a calm state of mind, opposed <span class=\"refLink\" data-ref=\"Jastrow, אַקְפָּדָה 1\" dir=\"rtl\" href=\"/Jastrow,_אַקְפָּדָה.1\">אקפדה</span>; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, יִשּׁוּב 1",
+              "sourceHeRef": "מילון יסטרוב, יִשּׁוּב א׳",
+              "sourceRef": "Jastrow, יִשּׁוּב 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא למאן דאמר</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> בטעם איסור עצי הזית ועצי הגפן שהוא <b>משום ישוב ארץ ישראל,</b> יש לשאול: מדוע התיר התנא הראשון את עצי ה<b>דקל</b> לעצי המערכה, <b>מי לית ביה</b> <span class=\"hebrew-emphasis\">[האם אין בו,</span> בדקל<span class=\"hebrew-emphasis\">]</span> גם כן אותו טעם שלא יקצצוהו <b>משום ישוב ארץ ישראל?</b>",
+              "ref": "Steinsaltz on Tamid 29b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:ח",
+              "sourceRef": "Steinsaltz on Tamid 29b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שאלו המפרשים: מדוע הקשה דווקא מדקל ולא מן החרוב, שאף הוא עץ העושה פירות?! והשיבו, כי סבור היה המקשן שתקנת חכמים לאסור קציצת אילנות פרי בארץ היא רק בעצים שהשתבחה בהם ארץ ישראל: גפן, תאנה ודקל, אבל בשאר עצי פרי, כגון אגוז וחרוב אף שהם גדלים בארץ ישראל, אין בהם משום תקנה זו (המפרש).",
+              "ref": "Steinsaltz comment #1 on Tamid 29b:8",
+              "sourceHeRef": "דקל מי לית ביה משום ישוב דארץ ישראל",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>But according to the one who said</b> that the wood of the olive and of the vine are not used <b>because</b> it would be detrimental to the <b>settlement of <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>,</b> the <b>palm</b> tree should also be unfit for the arrangement. <b>Isn’t it</b> also <b>subject to</b> the consideration that cutting it down would be detrimental to the <b>settlement of <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>?</b> It is also one of the species about which <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span> is praised. If so, why does the first <i>tanna</i> deem the palm tree fit for the arrangement?",
+      "he": "אֶלָּא לְמַאן דְּאָמַר מִשּׁוּם יִשּׁוּב דְּאֶרֶץ יִשְׂרָאֵל: דֶּקֶל מִי לֵית בֵּיהּ מִשּׁוּם יִשּׁוּב דְּאֶרֶץ יִשְׂרָאֵל?",
+      "ref": "Tamid 29b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דֶּקֶל</strong> m. (compare <span dir=\"rtl\">דקר</span>) l) <i>palm-tree</i>. <span class=\"refLink\" data-ref=\"Mishnah Peah 4:1\" href=\"/Mishnah_Peah.4.1\">Peah IV, 1</span>. <span class=\"refLink\" data-ref=\"Tamid 29b:29\" href=\"/Tamid.29b.29\">Tamid 29ᵇ</span>; and from—<span class=\"refLink\" data-ref=\"Bava Batra 36b:7\" href=\"/Bava_Batra.36b.7\">Bava Batra 36ᵇ</span> <span dir=\"rtl\">ד׳ נערה</span> (Manuscript Hamburg and O. <span dir=\"rtl\">נעורה</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 3) a young palm bearing more than once a year (oth. opinion: one dropping its fruits prematurely). <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 1:5\" href=\"/Mishnah_Avodah_Zarah.1.5\">Pirkei Avot Zar. I, 5</span> <span dir=\"rtl\">ד׳ טב</span> a variety called <i>dekel tab</i> (Chald.: <i>good palm</i>). Sifra Thazr., Negaim, Parah 5, Chaldaic XIII <span dir=\"rtl\">ד׳ הרים אתה</span> thou art a mountain-palm (too rash, see <span class=\"refLink\" data-ref=\"Menachot 84b\" href=\"/Menachot.84b\">Menachot 84ᵇ</span> top; Variant in Rabbenu Shimshon to <span class=\"refLink\" data-ref=\"Mishnah Negaim 11:7\" href=\"/Mishnah_Negaim.11.7\">Negaim XI, 7</span> <span dir=\"rtl\">דוקר וכ׳</span> cutting through mountains, sophistical; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 552:2\" href=\"/Yalkut_Shimoni_on_Torah.552.2\">Yalkut Vayikra 552</span> <span dir=\"rtl\">עוקר</span>).—plural <span dir=\"rtl\">דְּקָלִים</span>, <span dir=\"rtl\">דְּקָלִין</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 38:8\" href=\"/Bereishit_Rabbah.38.8\">Breishit Rabbah section (Parashah) 38</span>.—<span class=\"refLink\" data-ref=\"Tosefta Moed Kattan 2:10\" href=\"/Tosefta_Moed_Kattan.2.10\">Tosefta Moʿed Katan II, 10</span>; <span class=\"refLink\" data-ref=\"Mishnah Shabbat 14:3\" href=\"/Mishnah_Shabbat.14.3\">Shabbat XIV, 3</span> <span dir=\"rtl\">מי דקלים</span> (Variant <span dir=\"rtl\">דקרים</span>, <span class=\"refLink\" data-ref=\"Tosefta Shabbat 12\" href=\"/Tosefta_Shabbat.12\">Tosefta ib. XII</span> (<span class=\"refLink\" data-ref=\"Tosefta Shabbat 13:13\" href=\"/Tosefta_Shabbat.13.13\">XIII), 13</span> <span dir=\"rtl\">דקר׳</span>, Variant ed. Zuckermandel (see Tosefefta) <span dir=\"rtl\">דקלין</span>) a potion used as <i>apurgative</i> (said to be the water of a well springing forth between two date-trees); Yerushalmi ib. XIV, 14ᶜ; Bavli ib. 110ᵃ; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 6:8:3\" href=\"Jerusalem_Talmud_Berakhot.6.8.3\">Yerushalmi Berakhot VI, end, 10ᵈ</span><br>.—2) = <span dir=\"rtl\">דֶּקֶר</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sotah 2:2:10\" href=\"Jerusalem_Talmud_Sotah.2.2.10\">Yerushalmi Sotah II, 18ᵃ</span>"
+              ],
+              "he": [],
+              "ref": "Jastrow, דֶּקֶל 1",
+              "sourceHeRef": "מילון יסטרוב, דֶּקֶל א׳",
+              "sourceRef": "Jastrow, דֶּקֶל 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">יִשּׁוּב</strong>, <strong dir=\"rtl\">יִישּׁוּב</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, יָשַׁב 1\" dir=\"rtl\" href=\"/Jastrow,_יָשַׁב.1\">יָשַׁב</span>) <br><b>1)</b> <i>settlement, inhabited land</i>, opposed <span dir=\"rtl\">מדבר</span> or <span class=\"refLink\" data-ref=\"Jastrow, יָם 1\" dir=\"rtl\" href=\"/Jastrow,_יָם.1\">ים</span>; <i>cultivation, social world, civilization; public welfare</i>. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 1:15:1\" href=\"/Kohelet_Rabbah.1.15.1\">Kohelet Rabbah to I, 15</span>; Ruth. R. to I, 17 <span dir=\"rtl\">אם אין אדם מתקן ביי׳ וכ׳</span> if man does not prepare provision in the inhabited settlement (this world), what will he have to eat in the desert (the hereafter)?—<span class=\"refLink\" data-ref=\"Jerusalem Talmud Bava Kamma 5:8:3\" href=\"Jerusalem_Talmud_Bava_Kamma.5.8.3\">Yerushalmi Bava Kamma V, end, 5ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אָוָוז 1\" dir=\"rtl\" href=\"/Jastrow,_אָוָוז.1\">אָוָוז</span>. <span class=\"refLink\" data-ref=\"Berakhot 31a\" href=\"/Berakhot.31a\">Berakhot 31ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יָשַׁב 1\" dir=\"rtl\" href=\"/Jastrow,_יָשַׁב.1\">יָשַׁב</span>. <span class=\"refLink\" data-ref=\"Berakhot 58b:1\" href=\"/Berakhot.58b.1\">Ib. 58ᵇ</span> <span dir=\"rtl\">הרואה בתי … ביִשּׁוּבָן</span> he who sees Israelitish places in their inhabitable condition (restoration), opposed <span dir=\"rtl\">בחורבנן</span>. <span class=\"refLink\" data-ref=\"Berakhot 58b:4\" href=\"/Berakhot.58b.4\">Ib.</span> <span dir=\"rtl\">עתיד הקב\"ה להחזירו ליִשּׁוּבוֹ</span> the Lord will restore it again. <span class=\"refLink\" data-ref=\"Tamid 29b:27\" href=\"/Tamid.29b.27\">Tamid 29ᵇ</span>; <span class=\"refLink\" data-ref=\"Bava Kamma 80b:15\" href=\"/Bava_Kamma.80b.15\">Bava Kamma 80ᵇ</span> <span dir=\"rtl\">משום י׳ א\"י</span> in order to maintain the cultivation of Palestine. Yerushalmi Bava Batra II, end, 13ᶜ <span dir=\"rtl\">י׳ עולם בבורות</span> social welfare depends on wells; <span dir=\"rtl\">באילנות</span> on trees. <span class=\"refLink\" data-ref=\"Mishnah Kiddushin 1:10\" href=\"/Mishnah_Kiddushin.1.10\">Kiddushin I, 10</span> <span dir=\"rtl\">אינו מן הי׳</span> does not belong to the civilized world. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 35:3\" href=\"/Bereishit_Rabbah.35.3\">Breishit Rabbah section (Parashah) 35</span> <span dir=\"rtl\">בני אדם של י׳</span> civilized (polite) people; and from <br><b><br>—2)</b> (with or without <span class=\"refLink\" data-ref=\"Jastrow, דַּעַת 1\" dir=\"rtl\" href=\"/Jastrow,_דַּעַת.1\">דעת</span>) <i>ease of mind, calmness</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 19:5\" href=\"/Bereishit_Rabbah.19.5\">Breishit Rabbah section (Parashah) 19</span> <span dir=\"rtl\">בי׳ הדעת באת עליו</span> she came to him with deliberation (logical arguments). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Nedarim 1:1:14\" href=\"Jerusalem_Talmud_Nedarim.1.1.14\">Yerushalmi Nedarim I, 36ᵈ</span> bottom of page; <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 10:7\" href=\"/Bamidbar_Rabbah.10.7\">Bamidabar Rabbah section (Parashah) 10</span> <span dir=\"rtl\">מתיך י׳</span> (<span dir=\"rtl\">הדעת</span>) in a calm state of mind, opposed <span class=\"refLink\" data-ref=\"Jastrow, אַקְפָּדָה 1\" dir=\"rtl\" href=\"/Jastrow,_אַקְפָּדָה.1\">אקפדה</span>; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, יִשּׁוּב 1",
+              "sourceHeRef": "מילון יסטרוב, יִשּׁוּב א׳",
+              "sourceRef": "Jastrow, יִשּׁוּב 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר לך</b> <span class=\"hebrew-emphasis\">[יכול לומר,</span> להשיב <span class=\"hebrew-emphasis\">לך]</span> רב אחא בר יעקב על שאלה זו בשאלה דומה: <b>וליטעמיך</b> <span class=\"hebrew-emphasis\">[ולטעמך,</span> לשיטתך<span class=\"hebrew-emphasis\">]</span> עד שאתה מקשה עלי כך מדברי הברייתא, אפשר לשאול בדומה לכך מדברי משנתנו, ששנינו בה שהיו רגילים להביא מענפי תאנה לעצי המערכה, ואפשר לשאול: וכי <b>תאנה לית</b> <span class=\"hebrew-emphasis\">[אין]</span> לאסור את השימוש <b>בה</b> לעצי המערכה <b>משום ישוב ארץ ישראל,</b> ומדוע אם כן לא אסרוה?! <b>אלא מאי אית לך למימר</b> <span class=\"hebrew-emphasis\">[מה יש לך לומר]?</span> — שמדובר בה <b>בתאנה דלא עבידא פירא</b> <span class=\"hebrew-emphasis\">[שאינה עושה פירות],</span> ומעתה בעצי <b>דקל</b> האמורים בברייתא <b>נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> — מדובר <b>בדלא עביד פירא</b> <span class=\"hebrew-emphasis\">[בשאינם עושים פירות],</span> ומשום כך מותרים לעצי המערכה.",
+              "ref": "Steinsaltz on Tamid 29b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:ט",
+              "sourceRef": "Steinsaltz on Tamid 29b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Palm trees may be male or female, and the male trees do not bear fruit. Therefore, some of these trees are left undisturbed for propagation, while the rest are available for their wood.",
+              "he": "כיון שבדקלים יש עצי זכר ועצי נקבה, ועץ זכר אינו עושה פירות כלל, משאירים מקצת מן העצים הללו לצורך רביה, והשאר עומדים לקציצה.",
+              "ref": "Steinsaltz comment #1 on Tamid 29b:9",
+              "sourceHeRef": "לָא עֲבִיד פֵּירָא",
+              "sourceRef": "Does not bear fruit"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains that <span href=\"/topics/rav-aha-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-yaakov\">Rav Aḥa bar Ya’akov</span> could <b>say to you:</b> It is unnecessary to cite the <i>baraita</i> in order to raise this difficulty, as the mishna itself states that the fig tree is a preferred source of firewood. <b>And according to your reasoning, isn’t</b> the <b>fig</b> tree <b>subject to</b> the consideration that cutting it down would be detrimental to the <b>settlement of <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>?</b> It is also one of the species about which <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span> is praised. <b>Rather, what have you to say?</b> One must say that the mishna is referring <b>to a fig</b> tree <b>that does not bear fruit.</b> With regard to the <b>palm</b> tree <b>as well,</b> the <i>baraita</i> is referring <b>to</b> a variety <b>that does not bear fruit.</b>",
+      "he": "אָמַר לָךְ: וְלִיטַעְמָיךְ: תְּאֵנָה לֵית בָּהּ מִשּׁוּם יִשּׁוּב דְּאֶרֶץ יִשְׂרָאֵל?! אֶלָּא מַאי אִית לָךְ לְמֵימַר? בִּתְאֵנָה דְּלָא עֲבִדָא פֵּירָא, דֶּקֶל נָמֵי – בִּדְלָא עָבֵיד פֵּירָא.",
+      "ref": "Tamid 29b:9"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רֹחַב</strong>, <strong dir=\"rtl\">רוֹחַב</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, רְחַב 1\" href=\"/Jastrow,_רְחַב.1\">preceding</span> wds.) <i>width</i>. <span class=\"refLink\" data-ref=\"Mishnah Middot 2:6\" href=\"/Mishnah_Middot.2.6\">Middot II, 6</span> <span dir=\"rtl\">אורך … על ר׳ וכ׳</span> one hundred and twenty-five cubits in length by eleven in width. <span class=\"refLink\" data-ref=\"Mishnah Middot 4:1\" href=\"/Mishnah_Middot.4.1\">Ib. IV, 1</span> <span dir=\"rtl\">ורָחְבּוֹ וכ׳</span> and its width was ten cubits. <span class=\"refLink\" data-ref=\"Tamid 29b:31\" href=\"/Tamid.29b.31\">Tamid 29ᵇ</span>; <span class=\"refLink\" data-ref=\"Mishnah Shekalim 8:5\" href=\"/Mishnah_Shekalim.8.5\">Shekalim VIII, 5</span> <span dir=\"rtl\">ורָחְבָּהּ</span>; and from—<span class=\"refLink\" data-ref=\"Sifrei Devarim 120\" href=\"/Sifrei_Devarim.120\">Sifré Devarim 120</span> <span dir=\"rtl\">בר׳ יד</span> with liberality."
+              ],
+              "he": [],
+              "ref": "Jastrow, רֹחַב 1",
+              "sourceHeRef": "מילון יסטרוב, רֹחַב א׳",
+              "sourceRef": "Jastrow, רֹחַב 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ותוהים: <b>ומי איכא</b> <span class=\"hebrew-emphasis\">[והאם ישנה]</span> <b>תאנה דלא עבדא פירא</b> <span class=\"hebrew-emphasis\">[שאינה עושה פירות]?</span> ומשיבים: <b>אין</b> <span class=\"hebrew-emphasis\">[כן],</span> יש תאנה שאינה עושה פירות, ו<b>כ</b>דרך שאמר <b>רחבה</b> על שיטת גידול של עצי תאנה. שכן <b>אמר רחבה: מייתי תאיני חיורתא</b> <span class=\"hebrew-emphasis\">[מביאים</span> נטיעות של <span class=\"hebrew-emphasis\">תאנים לבנות],</span> שזן גרוע הוא,",
+              "ref": "Steinsaltz on Tamid 29b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על תמיד כ״ט ב:י",
+              "sourceRef": "Steinsaltz on Tamid 29b:10"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>But is there a fig</b> tree <b>that does not bear fruit?</b> The Gemara answers: <b>Yes,</b> there are fig trees that do not bear fruit, and this is <b>in accordance with</b> a statement <b>of <span href=\"/topics/rahava\" class=\"namedEntityLink\" data-slug=\"rahava\">Raḥava</span></b> with regard to a method of cultivating fig trees, <b>as <span href=\"/topics/rahava\" class=\"namedEntityLink\" data-slug=\"rahava\">Raḥava</span> said:</b> The growers <b>bring</b> saplings of <b>white figs,</b> which are an inferior variety,",
+      "he": "וּמִי אִיכָּא תְּאֵנָה דְּלָא עָבְדָא פֵּירָא? אִין, כִּדְרַחֲבָה. דְּאָמַר רַחֲבָה: מַיְיתִי תְּאֵינֵי חִיוָּרָתָא,",
+      "ref": "Tamid 29b:10"
+    }
+  ],
+  "title": "Tamid 29b",
+  "titleHebrew": "תמיד כט,ב",
+  "topics": []
+}

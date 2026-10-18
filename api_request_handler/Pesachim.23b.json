@@ -1,0 +1,841 @@
+{
+  "id": "23b",
+  "sections": [
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מאי לאו בהא קמיפלגי</b> <span class=\"hebrew-emphasis\">[האם לא ב</span>דבר <span class=\"hebrew-emphasis\">זה נחלקו],</span> ש<b>ר' יוסי הגלילי סבר: \"לא תאכלו\" משמע בין איסור אכילה בין איסור הנאה</b> הרי שנבילה אסורה בהנאה, <b>וכי אתא קרא</b> <span class=\"hebrew-emphasis\">[וכאשר בא המקרא]</span> \"יעשה לכל מלאכה\" <b>למישרייה</b> <span class=\"hebrew-emphasis\">[להתירה]</span> <b>לנבילה</b> — <b>בהנאה הוא דאתא</b> <span class=\"hebrew-emphasis\">[שבא].</span> <b>ור' עקיבא סבר:</b> \"לא תאכלו\" — <b>איסור אכילה</b> בלבד <b>משמע, ואיסור הנאה לא משמע.</b> ולכן אין צורך בכתוב מיוחד להתיר נבילה בהנאה, ולכן <b>כי אתא קרא</b> <span class=\"hebrew-emphasis\">[כאשר בא המקרא]</span> \"יעשה לכל מלאכה\" כוונתו <b>ל</b>ענין דיני <b>טומאה וטהרה,</b> ונמצא שכבר נחלקו התנאים בשאלת משמעות האיסור \"לא תאכל\".",
+              "ref": "Steinsaltz on Pesachim 23b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:א",
+              "sourceRef": "Steinsaltz on Pesachim 23b:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>What, is it not that they disagree about this,</b> the following issue? <b><span href=\"/topics/rabbi-yose-hagelili\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-hagelili\">Rabbi Yosei HaGelili</span> holds: “You shall not eat” indicates both the prohibition of eating and the prohibition of</b> deriving <b>benefit;</b> therefore, one may not derive benefit from an animal carcass. <b>And when the verse came</b> and said: “For any other service,” <b>it came to permit</b> one to derive <b>benefit</b> from <b>an animal carcass. And <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> holds: “You shall not eat” indicates</b> that there is only <b>a prohibition of eating; it does not indicate a prohibition of</b> deriving <b>benefit.</b> Therefore, no verse is necessary to learn that it is permitted to derive benefit from an animal carcass. <b>When the verse came</b> and said: “For any other service,” <b>it came</b> to teach about the <i>halakhot</i> of <b>ritual purity and impurity.</b> Apparently, there is a tannaitic dispute about the meaning of the words: “You shall not eat.”",
+      "he": "מַאי לָאו בְּהָא קָמִיפַּלְגִי, דְּרַבִּי יוֹסֵי הַגְּלִילִי סָבַר: ״לֹא תֹאכְלוּ״ מַשְׁמַע בֵּין אִיסּוּר אֲכִילָה בֵּין אִיסּוּר הֲנָאָה, וְכִי אֲתָא קְרָא לְמִישְׁרְיַיהּ לִנְבֵילָה — בַּהֲנָאָה הוּא דַּאֲתָא. וְרַבִּי עֲקִיבָא סָבַר: אִיסּוּר אֲכִילָה — מַשְׁמַע, אִיסּוּר הֲנָאָה לָא מַשְׁמַע. וְכִי אֲתָא קְרָא — לְטוּמְאָה וְטׇהֳרָה.",
+      "ref": "Pesachim 23b:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חלבה וגידה לא הותרו</strong> - דחלב אינו בכלל בשר הלכך לא הוה במשמע תתננה ואכלה וגבי נוגע בנבלתה נמי לאו חלב במשמע הלכך יעשה לכל מלאכה לא הוצרך לטהרו אלא להתירו מכלל הנאות לא תאכל חלב:",
+              "ref": "Rashi on Pesachim 23b:2:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ב:א",
+              "sourceRef": "Rashi on Pesachim 23b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורבי עקיבא סבר</strong> - חלב בכלל נבילה בין להיתר הנאה בין לטמא הלכך כי איצטריך קרא לטהרו איצטריך:",
+              "ref": "Rashi on Pesachim 23b:2:2",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ב:ב",
+              "sourceRef": "Rashi on Pesachim 23b:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "את ההנחה הזו דוחים: <b>לא,</b> אפשר לומר כי לדעת <b>כולי עלמא</b> <span class=\"hebrew-emphasis\">[הכל]</span> <b>\"לא תאכלו\" משמע בין איסור אכילה בין איסור הנאה.</b> ואילו <b>הכא, בהא קמיפלגי</b> <span class=\"hebrew-emphasis\">[כאן, ב</span>דבר <span class=\"hebrew-emphasis\">זה נחלקו],</span> <b>ר' יוסי הגלילי סבר: כשהותרה נבילה</b> בהנאה, <b>היא</b> עצמה <b>הותרה</b> ואולם <b>חלבה וגידה לא הותרו</b> יחד עמה. <b>וכי איצטריך קרא</b> <span class=\"hebrew-emphasis\">[וכאשר הוצרך המקרא]</span> \"יעשה לכל מלאכה\" הרי <b>להיתר הנאה הוא דאתא</b> <span class=\"hebrew-emphasis\">[שבא],</span> שהרי לא ידענו קודם שהחלב מותר בהנאה. <b>ו</b>אילו <b>ר' עקיבא סבר: כשהותרה נבילה</b> בהנאה — <b>חלבה וגידה נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>הותרו</b> בהנאה. <b>ו</b>לכן <b>כי איצטריך קרא</b> <span class=\"hebrew-emphasis\">[וכאשר הוצרך המקרא]</span> הרי זה <b>לטומאה וטהרה.</b>",
+              "ref": "Steinsaltz on Pesachim 23b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:ב",
+              "sourceRef": "Steinsaltz on Pesachim 23b:2"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara rejects this assumption. <b>No,</b> it is possible to say <b>that everyone</b> holds that <b>“You shall not eat” indicates both a prohibition of eating and a prohibition of</b> deriving <b>benefit. And here, they disagree about this: <span href=\"/topics/rabbi-yose-hagelili\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-hagelili\">Rabbi Yosei HaGelili</span> holds that when it was permitted</b> to derive benefit from <b>an animal carcass,</b> the carcass itself <b>was permitted;</b> however, <b>its fat and its sinews were not permitted. And the</b> phrase “for any other service” in the <b>verse is necessary to permit</b> one to derive <b>benefit</b> from this fat. However, <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> holds: When it was permitted</b> to derive benefit <b>from an animal carcass, it was also permitted</b> to derive benefit from <b>its fat and sinews.</b> Therefore, the phrase “for any other service” in <b>the verse is necessary for</b> the issue of <b>purity and impurity.</b>",
+      "he": "לָא, דְּכוּלֵּי עָלְמָא ״לֹא תֹאכְלוּ״ מַשְׁמַע בֵּין אִיסּוּר אֲכִילָה בֵּין אִיסּוּר הֲנָאָה. וְהָכָא בְּהָא קָמִיפַּלְגִי, רַבִּי יוֹסֵי הַגְּלִילִי סָבַר: כְּשֶׁהוּתְּרָה נְבֵילָה — הִיא הוּתְּרָה, חֶלְבָּהּ וְגִידָהּ — לֹא הוּתְּרוּ. וְכִי אִיצְטְרִיךְ קְרָא — לְהֶיתֵּר הֲנָאָה הוּא דַּאֲתָא. וְרַבִּי עֲקִיבָא סָבַר: כְּשֶׁהוּתְּרָה נְבֵילָה — חֶלְבָּהּ וְגִידָהּ נָמֵי הוּתְּרוּ. וְכִי אִיצְטְרִיךְ קְרָא — לְטוּמְאָה וְטׇהֳרָה.",
+      "ref": "Pesachim 23b:2"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא גיד נימא דאסור.</b> ק\"ל לפמ\"ש תוס' חולין ר\"פ ג\"ה דחלב הוא דחדשים גרמי דכתי' חלב שור אבל גיד חל מיד א\"כ י\"ל דדוקא בחלב ל\"א כשהותרה דהא משכחת לה הקרא דלגר אשר בשעריך תתננה דנותן לו כולו עם החלב כגון שהפילה הבהמה דליכא איסור חלב אבל גיד דל\"ש כן י\"ל דאמרינן כשהותרה ועי':",
+              "ref": "Gilyon HaShas on Pesachim 23b:1",
+              "sourceHeRef": "גליון הש\"ס על פסחים כ״ג ב:א",
+              "sourceRef": "Gilyon HaShas on Pesachim 23b:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ו</b>לשיטת <b>ר' יוסי הגלילי, אשכחן</b> <span class=\"hebrew-emphasis\">[מצאנו</span> במפורש<span class=\"hebrew-emphasis\">]</span> ב<b>חלב דשרייה רחמנא</b> <span class=\"hebrew-emphasis\">[שהתירו הכתוב]</span> <b>בהנאה, אלא גיד</b> הנשה <b>נימא</b> <span class=\"hebrew-emphasis\">[נאמר]</span> ש<b>אסור,</b> שהרי לשיטה זו לא הותרה הנאתו! ומתרצים: <b>איבעית אימא</b> <span class=\"hebrew-emphasis\">[אם תרצה אמור]</span> <b>הכי נמי</b> <span class=\"hebrew-emphasis\">[כך גם כן]</span> ש<b>אסור,</b> שבאמת לשיטה זו גיד הנשה אסור בהנאה. <b>איבעית אימא</b> <span class=\"hebrew-emphasis\">[אם תרצה אמור]</span> שגיד הנשה אכן מותר בהנאה, ו<b>מייתי לה</b> <span class=\"hebrew-emphasis\">[מביא,</span> לומד הוא, דבר <span class=\"hebrew-emphasis\">זה]</span> היתר הנאת גיד הנשה <b>בקל וחומר</b> זה: <b>ומה חלב שענוש כרת</b> על אכילתו במזיד — <b>מותר בהנאה, גיד</b> הנשה <b>שאינו ענוש כרת</b> על אכילתו במזיד — <b>לא כל שכן</b> שמותר בהנאה.",
+              "ref": "Steinsaltz on Pesachim 23b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:ג",
+              "sourceRef": "Steinsaltz on Pesachim 23b:3"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> ומה חלב כו' דלטומאה לא הוה צריך קרא דאדרבה לטהרו מידי כו' עכ\"ל אין זו ראיה לדבריהם אלא דלא תימא דלריה\"ג הוה חלב בכלל נבילה כיון דלא מוקי קרא לטהר כדמוקי לה ר\"ע ומש\"ה קאמרי דודאי לר\"י הגלילי נמי הכי הוא דלטומאה לא צריך קרא דהוי בכלל נבילה ואדרבה צריך קרא לטהרו כמו לר\"ע ולדידיה ליכא קרא לטהרו דניחא ליה לאוקמא קרא להיתר הנאה והא דקאמר היא הותרה וחלבה לא הותר והוצרך קרא להיתר הנאה לאו משום דלא הוי בכלל נבילה דהא לענין טומאה הוי בכלל נבילה אלא דלענין היתר הנאה ה\"א דלא הוי בכלל נבילה משום דלא הותר הנאה בנבילה אלא מה שהותר באכילה בטהורה ולאפוקי חלב ולכך אצטריך קרא להתירו בהנאה לר\"י הגלילי ומהרש\"ל הבין השמועה בענין אחר ואין להאריך ודו\"ק:",
+                      "ref": "Chidushei Halachot on Pesachim 23b:1",
+                      "sourceHeRef": "חדושי הלכות על פסחים כ״ג ב:א",
+                      "sourceRef": "Chidushei Halachot on Pesachim 23b:1"
+                    }
+                  ]
+                },
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה ומה חלב כו' דאדרבה לטהרו מידי כו'. נ\"ב וא\"ל א\"כ שמא המקרא בא לטהרו מידי נבילה די\"ל מ\"מ לא צריך ריבוי דכל לטהרו אף לגבוה דס\"ל לר\"י הגלילי מאחר דטיהרו הכתוב מידי נבילה שוב אין לו טומאה בין להדיוט בין לגבוה:",
+                      "ref": "Chokhmat Shlomo on Pesachim 23b:2",
+                      "sourceHeRef": "חכמת שלמה על פסחים כ״ג ב:ב",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 23b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומה חלב שענוש כרת מותר בהנאה</strong> - וא\"ת לימא שור הנסקל ושאר איסורי הנאה יוכיחו שאינן בכרת ואפ\"ה אסורין בהנאה וי\"ל דה\"פ ומה חלב שענוש כרת ואסור באכילה ומותר בהנאה כמו נבילה עצמה גיד שאין ענוש כרת לכ\"ש שיהא בכלל היתר נבילה והשתא לא שייך למימר תוכיח ולא מצי למיעבד נמי ק\"ו מדם דדם אינו בכלל נבילה ואפילו טומאה אין בו מטעם נבילה כדפרישי' לעיל <span class=\"parenthesized\">(פסחים דף כב.)</span> אבל חלב הוה שפיר בכלל נבילה דלטומאה לא הוה צריך קרא דאדרבה לטהרו מידי נבילה מצריך קרא והא דקאמר היא הותרה וחלבה לא הותרה לאו משום דלא הוי בכלל נבילה אלא משום דלא הותרה בנבילה אלא מה שהותר בטהורה באכילה והשתא א\"ש הא דקאמר ואידך אנן בבהמה קיימינן דלא ילפינן אלא שיהא בכלל היתר נבילה אבל בעלמא מודה דפריך שפיר:",
+              "ref": "Tosafot on Pesachim 23b:3:1",
+              "sourceHeRef": "תוספות על פסחים כ״ג ב:ג:א",
+              "sourceRef": "Tosafot on Pesachim 23b:3:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And</b> according to the opinion of <b><span href=\"/topics/rabbi-yose-hagelili\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-hagelili\">Rabbi Yosei HaGelili</span>, we find that the Merciful One</b> explicitly <b>permits</b> one to derive <b>benefit from fat; however, let us say</b> that <b>the sinew</b> of the sciatic nerve <b>is prohibited.</b> The Gemara answers: <b>If you wish, say</b> that <b>it is indeed so that it is prohibited</b> to derive benefit from the sciatic nerve. And <b>if you wish, say</b> instead that one is permitted to derive benefit from the sciatic nerve, and <span href=\"/topics/rabbi-yose-hagelili\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-hagelili\">Rabbi Yosei HaGelili</span> <b>derives that</b> the sciatic nerve is permitted <b>through</b> an <b><i>a fortiori</i></b> inference: <b>If</b> with regard to forbidden <b>fat, for which one is punished with <i>karet</i></b> if he eats it intentionally, <b>it is permitted</b> to derive <b>benefit,</b> with regard to the sciatic <b>nerve,</b> for which <b>the punishment</b> for one who eats it <b>is not <i>karet</i>, all the more so</b> is it <b>not</b> clear that it is permitted to derive benefit?",
+      "he": "וְרַבִּי יוֹסֵי הַגְּלִילִי, אַשְׁכְּחַן חֵלֶב דְּשַׁרְיֵיהּ רַחֲמָנָא בַּהֲנָאָה, אֶלָּא גִּיד נֵימָא דְּאָסוּר! אִיבָּעֵית אֵימָא: הָכִי נָמֵי דְּאָסוּר. אִיבָּעֵית אֵימָא, מַיְיתֵי לַהּ בְּקַל וָחוֹמֶר: וּמָה חֵלֶב שֶׁעָנוּשׁ כָּרֵת — מוּתָּר בַּהֲנָאָה, גִּיד שֶׁאֵינוֹ עָנוּשׁ כָּרֵת — לֹא כׇּל שֶׁכֵּן.",
+      "ref": "Pesachim 23b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורבי שמעון</strong> - דאמר לעיל גיד אסור בהנאה משום דסבירא ליה אין בגידין בנותן טעם ולא הותר בכלל נבילה מאי טעמא לא מייתי ליה כרבי יוסי להתיר הנאה מקל וחומר מחלב:",
+              "ref": "Rashi on Pesachim 23b:4:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ד:א",
+              "sourceRef": "Rashi on Pesachim 23b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מכללו</strong> - אף באכילה:",
+              "ref": "Rashi on Pesachim 23b:4:2",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ד:ב",
+              "sourceRef": "Rashi on Pesachim 23b:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ור' שמעון</b> ש<b>אסר</b> כל גיד הנשה בהנאה, מדוע אינו מקבל קל וחומר זה שעל פיו יש להתיר בהנאה כל גיד הנשה? ומשיבים: לדעתו <b>איכא</b> <span class=\"hebrew-emphasis\">[יש]</span> מקום <b>למיפרך</b> <span class=\"hebrew-emphasis\">[לפרוך,</span> לשבור<span class=\"hebrew-emphasis\">]</span> קל וחומר זה, כיון שאין ללמוד מאיסור חלב לענין איסור גיד הנשה מתוך הנחה שאיסור חלב חמור יותר, שכן <b>מה לחלב שכן הותר מכללו אצל חיה,</b> שהרי איסור זה חל רק על בהמה טהורה, אבל חלב חיות טהורות מותר באכילה, <b>תאמר בגיד שלא הותר מכללו אצל חיה.</b> ונמצא שיש חומרה באיסור גיד הנשה שאינה באיסור חלב, ואין איפוא ללמוד קל וחומר.",
+              "ref": "Steinsaltz on Pesachim 23b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:ד",
+              "sourceRef": "Steinsaltz on Pesachim 23b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Even though an <i>a fortiori </i>inference appears to be one of the most straightforward methods for expounding upon the Torah, its application is no simple matter. One of the ways to reject an <i>a fortiori </i>inference is through the type of refutation brought here. An <i>a fortiori </i>inference is based on the assumption that one case is more stringent than another. If one can prove that the supposed lenient case has a more stringent element, or that the stringent case has a more lenient element, then the <i>a fortiori </i>inference has been undermined. Even if the refutation does not undermine the overall imbalance in stringency between the cases, it still may be enough to prove that the <i>a fortiori </i>inference cannot serve as a basis for halakhic deductions in this case.",
+              "he": "מידת קל וחומר, אף שהיא לכאורה הפשוטה והבהירה במידות שהתורה נדרשת בהן, למעשה אינה פשוטה כל עיקר. מבין בעיותיה נזכיר את ענין \"פריכת\" קל וחומר. אחת הדרכים הפשוטות והרגילות בשבירת קל וחומר היא בדרך של: \"מה ל... שכן...\" כלומר, בהוכחה שהקל אינו קל כל כך, או שהחמור יש בו צד קל. כאשר אפשר להביא ראיה כגון זו, הרי ממילא אין עוד מקום לקל וחומר. ואף שיתכן שבשיקול כולל עדיין אין הפירכה מוכיחה ביטולו של הבדל חומרה בין המקרים, מכל מקום מספקת היא להוכיח שאין ללמוד מן ההבדל כל לימוד מחייב.",
+              "ref": "Steinsaltz comment #1 on Pesachim 23b:4",
+              "sourceHeRef": "אִיכָּא לְמִיפְרַךְ",
+              "sourceRef": "This can be refuted"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And</b> why does <b><span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span>, who prohibits</b> deriving benefit from the sciatic nerve, not accept this <i>a fortiori</i> inference? The Gemara answers: This inference <b>can be refuted,</b> as it is possible to say: <b>What</b> is unique <b>to fat?</b> It is <b>that it is released from its general</b> prohibition <b>with regard to non-domesticated animals,</b> as the prohibition only applies to the fats of kosher domesticated animals. <b>Can you say</b> the same <b>with regard to the</b> sciatic <b>nerve, which is not released from its general</b> prohibition <b>with regard to non-domesticated animals</b> and remains prohibited? Apparently, in some ways the prohibition of the sciatic nerve is more stringent than that of fat.",
+      "he": "וְרַבִּי שִׁמְעוֹן דְּאָסַר? אִיכָּא לְמִיפְרַךְ, מָה לְחֵלֶב שֶׁכֵּן הוּתַּר מִכְּלָלוֹ אֵצֶל חַיָּה, תֹּאמַר בְּגִיד שֶׁלֹּא הוּתַּר מִכְּלָלוֹ אֵצֶל חַיָּה.",
+      "ref": "Pesachim 23b:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואידך</strong> - רבי יוסי אמר לך אנא בחלב בהמה קא מייתינא קרא להתיר בהנאה דקרא בחלב שור וכשב קאי וקא שרי ליה בהנאה ובבהמה לא הותר מכללו באכילה הלכך אתי גיד הנשה מיניה:",
+              "ref": "Rashi on Pesachim 23b:5:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ה:א",
+              "sourceRef": "Rashi on Pesachim 23b:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ואידך</b> <span class=\"hebrew-emphasis\">[והאחר,</span> ר' יוסי<span class=\"hebrew-emphasis\">]</span> המתיר את הגיד על ידי קל וחומר זה, מה משיב הוא לפירכה זו? ואומרים: <b>בבהמה קאמרינן</b> <span class=\"hebrew-emphasis\">[אומרים אנו]</span> שהרי קל וחומר זה <b>בבהמה מיהת</b> <span class=\"hebrew-emphasis\">[על כל פנים]</span> <b>לא אישתרי</b> <span class=\"hebrew-emphasis\">[הותר]</span> חלב, ובבהמה יש בו איסור חמור יותר מאשר בגיד, ולכן אפשר ללמוד מכאן קל וחומר.",
+              "ref": "Steinsaltz on Pesachim 23b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:ה",
+              "sourceRef": "Steinsaltz on Pesachim 23b:5"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בבהמה מיהא לא אישתרי</strong> - אין להקשות דגיד חיה מיהא ליתסר דכיון דשל בהמה לא מיתסר בהנאה אם כן לא יאכל דכתיב גבי גיד הנשה באכילה דוקא קאמר ומהיכא תיתי לן לאסור של חיה בהנאה:",
+              "ref": "Tosafot on Pesachim 23b:5:1",
+              "sourceHeRef": "תוספות על פסחים כ״ג ב:ה:א",
+              "sourceRef": "Tosafot on Pesachim 23b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And</b> how does <b>the other</b> Sage, <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span>, who permits one to derive benefit from the sciatic nerve based on this <i>a fortiori</i> inference, respond? The Gemara says: When <b>we state</b> this <i>a fortiori</i> inference, it is <b>with regard to a domesticated animal; in any case, with regard to a domesticated animal</b> its fat <b>is not permitted.</b> Since with regard to a domesticated animal the prohibition of fat is more stringent than that of the sciatic nerve, the <i>a fortiori</i> inference is valid.",
+      "he": "וְאִידַּךְ? בִּבְהֵמָה קָאָמְרִינַן — בִּבְהֵמָה מִיהַת לָא אִישְׁתְּרִי.",
+      "ref": "Pesachim 23b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מכדי אותבינהו כל הנך קראי</strong> - דכל איסורין שנאמ' בהן לא תאכל ומותרין בהנאה:",
+              "ref": "Rashi on Pesachim 23b:6:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ו:א",
+              "sourceRef": "Rashi on Pesachim 23b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ושנינהו</strong> - רבי אבהו ואשכח בהו פרטא להיתר לא מצינו באחד מכולם שהחמיר בו ר' אבהו ויאמר שאסור בהנאה ולחזקיה לישתרו אלא דבר האסור אסור לדברי שניהן והמותר מותר לדברי שניהן:",
+              "ref": "Rashi on Pesachim 23b:6:2",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ו:ב",
+              "sourceRef": "Rashi on Pesachim 23b:6:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">במאי פליגי</strong> - דאין לך איסורי הנאה בדבר שנאמר בו לאו באכילתו שלא נאמר בו פרט להתיר אלא הנך שני דברים דכתיב בהן לא יאכל כגון שור הנסקל וחמץ בפסח ובין למר ובין למר אסורין:",
+              "ref": "Rashi on Pesachim 23b:6:3",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ו:ג",
+              "sourceRef": "Rashi on Pesachim 23b:6:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואליבא דרבנן</strong> - דפליגי עליה דרבי יוסי דאמר לעיל חמץ בפסח מותר בהנאה:",
+              "ref": "Rashi on Pesachim 23b:6:4",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ו:ד",
+              "sourceRef": "Rashi on Pesachim 23b:6:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מנבילה</strong> - מדאיצטריך קרא למישרי נבילה ואי הוה כתיב לא תאכל נמי הוה מיתסרי:",
+              "ref": "Rashi on Pesachim 23b:6:5",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ו:ה",
+              "sourceRef": "Rashi on Pesachim 23b:6:5"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מכדי אותבינהו לכל הני קראי ושנינהו חזקיה וכו'</b> עד <b>איכא בינייהו.</b> ולענין פסק הדין כתב הרי\"ט ז\"ל דודאי הלכה כר' אבוהו דרב פפא ורב אשי הכי סבירא להו ופריקו אליבא דידיה ההיא דתרומה ונזיר וי\"א דכיון שכן ואקשינן לעיל לר' אבוהו מגיד הנשה ופרכינן הניחא למ\"ד יש בגידין בנ\"ט אלא למ\"ד אין בגידין בנ\"ט ופריק דלדידיה נמי אסור ואנן קי\"ל אין בגידין בנ\"ט ה\"ה דקיימא לן בגיד הנשה אסור בהנאה וכתב הרי\"ט ז\"ל ומיהו סוגיין בפ' גיד הנשה בכולה פירקא דגיד הנשה מותר בהנאה. וי\"ל דמייתינן גיד הנשה מטעמא דאמרי הכא בכולה שמעתין אליבא דר' יוסי הגלילי מק\"ו דחלב ע\"כ. והרשב\"א ז\"ל כתב בספר תורת הבית יש מרבותי שאמרו שהגיד אסור בהנאה ויש מרבותי מתירין אותו וכן נראה וכן נהגו ע\"כ. ואמר הרא\"ה ז\"ל בשם רבו ז\"ל דאפי' לדעת האוסרין דוקא גיד עצמו. אבל שמנו שאינו אלא משום מנהג קדושים הרי לא נהגו בו איסור הנאה ושרי הלכך מותר לתת לגוי גיד ושמנו דאי משום שומנו לא מתסר ואי משום גיד עץ בעלמא הוא ולא שייך איסורא אלא בשולחו עד היכן שהוא נהנה דמשתריש מקומה ונראית חשובה יותר. וכתב הרי\"ט ז\"ל נראין הדברים להלכהאבל למעשה ראוי להחמיר והמחמיר תבוא עליו ברכה:",
+              "ref": "Ritva on Pesachim 23b:1",
+              "sourceHeRef": "ריטב\"א על פסחים כ״ג ב:א",
+              "sourceRef": "Ritva on Pesachim 23b:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> לאחר שביררו ודנו בענינים מרובים בדיני איסורי אכילה והנאה, שואלים: <b>מכדי אותבינהו כל הני קראי ושנינהו</b> <span class=\"hebrew-emphasis\">[הרי הקשינו כל המקראות הללו ותירצנום],</span> ומצאנו שבכל המקרים אין שום הבדל לבסוף, מצד הענין, ובכל מקום שנאמר \"לא תאכל\" אין בו איסור הנאה. ואם כן, <b>חזקיה ור' אבהו במאי פליגי</b> <span class=\"hebrew-emphasis\">[במה</span> באיזו נושא<span class=\"hebrew-emphasis\">, נחלקו]</span> שהרי לכאורה אין כל הבדל ביניהם! ומשיבים: נחלקו <b>בחמץ בפסח ואליבא רבנן</b> <span class=\"hebrew-emphasis\">[ועל פי</span> שיטת <span class=\"hebrew-emphasis\">חכמים]</span> האוסרים אותו בהנאה, וכן <b>בשור הנסקל ואליבא</b> <span class=\"hebrew-emphasis\">[ולפי</span> שיטת<span class=\"hebrew-emphasis\">]</span> <b>דברי הכל.</b> ומפרשים: <b>חזקיה נפיק ליה</b> <span class=\"hebrew-emphasis\">[יוצא לו]</span> ענין איסור זה <b>מ\"לא יאכל\", ור' אבהו נפיק</b> <span class=\"hebrew-emphasis\">[יוצא לו]</span> ענין זה <b>מ</b>תוך שהתירה התורה הנאת <b>נבילה,</b> ובפירושי פסוקים אלה נחלקו שני האמוראים.",
+              "ref": "Steinsaltz on Pesachim 23b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:ו",
+              "sourceRef": "Steinsaltz on Pesachim 23b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This question is surprising in this case, as the difference in principle between the two opinions, which is the typical answer to this question, is clear. The principle underlying each opinion is clearly presented, given all the exceptions that have been cited, and it seems that the principle each one advances is actually quite limited, resulting only in each finding different sources for the same <i>halakhot</i>. The more pertinent question is the next question asked by the Gemara: What is the practical difference between the two opinions? Nonetheless, it appears that this question is asked here as a means to summarize the lengthy discussion in the Gemara.",
+              "he": "שאלה זו לכאורה תמוהה, שכן ההבדל בין השיטות (שהוא התשובה ל\"במאי פליגי\") הוא פשוט. והשאלה החמורה יותר היא השאלה \"מאי בינייהו\" (מה ההבדל ביניהם הלכה למעשה). אלא שבכל זאת, למרות שכל אחד מן החולקים קבע דעתו בבירור מסתבר מניתוח המקרים הבודדים כשלעצמם כי הכללים של שני החולקים אינם משמשים הרבה, ובמקומם דורשים דרשות אחרות, בשיטות שונות. ולא בא \"במאי פליגי\" כאן אלא לסכם את הדיון שהיה בסוגיא זו.",
+              "ref": "Steinsaltz comment #1 on Pesachim 23b:6",
+              "sourceHeRef": "בְּמַאי פְּלִיגִי",
+              "sourceRef": "With regard to what do they disagree"
+            }
+          ]
+        }
+      },
+      "en": "After discussing numerous cases that involve prohibitions of eating and deriving benefit, the Gemara asks: <b>Since we raised objections from all of these verses and answered them,</b> and in every case it is apparent that despite the fact that the verse said: “You shall not eat” there was no dispute as to whether or not one may derive benefit from these items, then <b>with regard to what</b> issue <b>do <span href=\"/topics/hizkiyah-b-hiyya\" class=\"namedEntityLink\" data-slug=\"hizkiyah-b-hiyya\">Ḥizkiya</span> and <span href=\"/topics/rabbi-abahu\" class=\"namedEntityLink\" data-slug=\"rabbi-abahu\">Rabbi Abbahu</span> disagree?</b> The Gemara answers: They disagree <b>with</b> regard to <b>leavened bread on Passover, in accordance with</b> the opinion of <b>the Rabbis,</b> who prohibit one to derive benefit from it; and they disagree <b>with</b> regard to <b>an ox that is stoned, in accordance with everyone.</b> The Gemara explains: <b><span href=\"/topics/hizkiyah-b-hiyya\" class=\"namedEntityLink\" data-slug=\"hizkiyah-b-hiyya\">Ḥizkiya</span> derived</b> that it is prohibited to derive benefit in this case <b>from</b> the words: <b>“It shall not be eaten,” and <span href=\"/topics/rabbi-abahu\" class=\"namedEntityLink\" data-slug=\"rabbi-abahu\">Rabbi Abbahu</span> derived</b> that it is prohibited <b>from</b> the fact that the Torah explicitly had to permit one to derive benefit in the case of <b>an animal carcass.</b>",
+      "he": "מִכְּדֵי אוֹתְבִינְהוּ כׇּל הָנֵי קְרָאֵי וְשַׁנִּינְהוּ. חִזְקִיָּה וְרַבִּי אֲבָהוּ בְּמַאי פְּלִיגִי! בְּחָמֵץ בַּפֶּסַח וְאַלִּיבָּא דְרַבָּנַן, בְּשׁוֹר הַנִּסְקָל וְאַלִּיבָּא דְּדִבְרֵי הַכֹּל. חִזְקִיָּה נָפֵיק לֵיהּ מִ״לֹּא יֵאָכֵל״, וְרַבִּי אֲבָהוּ נָפֵיק לֵיהּ מִנְּבֵילָה.",
+      "ref": "Pesachim 23b:6",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna states: <b>If the</b> appointed <b>time</b> for the wedding <b>arrived and they did not get married,</b> she may partake of <i>teruma</i>. <b>Ulla said: By Torah law, the daughter of a non-priest betrothed</b> to a priest <b>may partake of <i>teruma</i></b> immediately, even before the wedding date arrives, <b>as it is stated: “If a priest buy any soul, the acquisition of his money,</b> he may eat of it” (Leviticus 22:11), <b>and this</b> woman <b>is also an acquisition of his money</b> through the betrothal. Therefore, she is entitled to partake of <i>teruma</i>. <b>What,</b> then, <b>is the reason</b> the Sages <b>said</b> that <b>she may not partake?</b> It is <b>lest someone pour her a cup</b> of <i>teruma</i> wine while she is <b>in her father’s house.</b> Although she may drink it as the betrothed of a priest, since she is still living in her father’s house there is a concern that <b>she will give her brother or sister to drink</b> from the wine, which is prohibited, as they are non-priests.",
+                  "The Gemara asks: <b>If so,</b> then <b>if the time arrived and they did not get married,</b> there should <b>also</b> be concern that she might give it to members of her family, as she is still in her father’s house. Why, then, does the mishna say that she is permitted to partake of <i>teruma</i> at that time? The Gemara answers: <b>There,</b> after the time for the wedding has arrived, <b>he designates</b> a specific <b>place for her.</b> Since her husband is obligated to provide for her sustenance, he will want to ensure that she receives her food in a particular place so that she not use it to feed her family. This mitigates the concern that she may inadvertently give it to her brother or sister to drink.",
+                  "The Gemara asks: <b>However, if that is so,</b> then the <i>halakha</i> should also be that <b>a gleaner</b> who is <b>a priest</b> and is employed <b>by an Israelite may not partake of <i>teruma</i>, lest</b> the other members of the household <b>come to eat with him</b> from the <i>teruma</i>. The Gemara rejects this: <b>Now,</b> even though the members of the Israelite household <b>feed</b> the priest <b>from their</b> food, as he is their employee, <b>would they eat from his</b> food? They would not. Therefore, there is no reason for concern and no reason to prohibit him from eating <i>teruma</i>. This is Ulla’s opinion.",
+                  "However, <b>Rav Shmuel bar Rav Yehuda said:</b> The reason for the rabbinic decree is <b>due to abrogation [<i>simfon</i>],</b> cancellation of the contract. It may become known after the betrothal that she has blemishes that can retroactively annul the betrothal, and it would then become apparent that she had partaken of <i>teruma</i> unlawfully.",
+                  "The Gemara asks: <b>If so,</b> if the rabbinic decree that prohibits a woman betrothed to a priest from partaking of <i>teruma</i> is due to concern for possible abrogation of the marriage, then a woman who <b>entered the wedding canopy but has not</b> yet <b>engaged in sexual intercourse</b> should <b>also</b> be prohibited from partaking of <i>teruma</i>, as the husband does not yet know whether she has blemishes. The Gemara answers: <b>There,</b> in that situation, <b>he investigates her</b> through the agency of his female relatives <b>and</b> only <b>then enters</b> the wedding canopy. Consequently, there is no longer any concern about abrogation.",
+                  "The Gemara asks: <b>However, if that is so,</b> then according to this rationale, <b>a priest’s slave whom</b> the priest <b>purchased from an Israelite should not partake of <i>teruma</i>, due to</b> concern of <b>abrogation.</b> Perhaps the priest will discover a defect in the slave, resulting in the retroactive cancellation of the acquisition and causing the slave to return to his Israelite master after he had mistakenly eaten <i>teruma</i>. The Gemara answers: <b>There is no abrogation with regard to slaves,</b> since no type of defect could cause the cancellation of the transaction. The reason for this is <b>that if</b> the defect <b>is external, then he sees it</b> at the point of sale and accepts it. <b>And if</b> the defect <b>is internal,</b> since <b>he needs him for labor, concealed</b> defects <b>do not concern him.</b> With regard to other types of defects, e.g., if <b>he was discovered</b> to be <b>a thief or</b>"
+                ],
+                [
+                  "<b>a gambler [<i>kuvyustus</i>], it has come to him,</b> meaning that the seller has caught the buyer in a binding transaction, and he cannot annul the sale due to this kind of defect, as these characteristics are common in slaves. <b>What is</b> the <i>halakha</i> if it was discovered that the slave was <b>an armed bandit or</b> that <b>the king</b> had <b>signed</b> his death warrant, and there is a danger that the government will catch him and execute him? These are serious and uncommon defects that in principle could invalidate a sale. However, <b>these</b> defects <b>generate publicity.</b> In such unusual and severe circumstances, everyone is aware of them. Therefore, it is assumed that the buyer knew about them as well and nevertheless acquiesced to buy the slave. Consequently, there is no reason to revoke the sale of a slave.",
+                  "The Gemara asks: <b>After all, according to this Sage,</b> Ulla, <b>and according to that Sage,</b> Rav Shmuel bar Rav Yehuda, <b>she may not partake</b> of <i>teruma</i>, so <b>what is</b> the difference <b>between them?</b> The Gemara answers: The practical difference <b>between them is</b> in cases where <b>he accepted,</b> or <b>he transferred or went.</b> If the husband explicitly accepted her blemishes, there is no concern with regard to abrogation, but there is still a concern that she will give her family members <i>teruma</i> wine. Conversely, if the father transferred his daughter to the agents of the husband and entrusted her to their care, or if the father’s own agents went with the girl and the agents of the husband, there is no longer concern that she might give her family members <i>teruma</i>, as she is not with them, but there is still a concern about abrogation."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Ketubot 57b:11",
+                "Ketubot 57b:12",
+                "Ketubot 57b:13",
+                "Ketubot 57b:14",
+                "Ketubot 57b:15",
+                "Ketubot 57b:16",
+                "Ketubot 58a:1",
+                "Ketubot 58a:2"
+              ],
+              "he": [
+                [
+                  "הִגִּיעַ זְמַן וְלֹא נִישְּׂאוּ. אָמַר עוּלָּא: דְּבַר תּוֹרָה, אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה, שֶׁנֶּאֱמַר: ״וְכֹהֵן כִּי יִקְנֶה נֶפֶשׁ קִנְיַן כַּסְפּוֹ״, וְהַאי נָמֵי קִנְיַן כַּסְפּוֹ הוּא. מָה טַעַם אָמְרוּ אֵינָהּ אוֹכֶלֶת — שֶׁמָּא יִמְזְגוּ לָהּ כּוֹס בְּבֵית אָבִיהָ, וְתַשְׁקֶה לְאָחִיהָ וְלַאֲחוֹתָהּ.",
+                  "אִי הָכִי, הִגִּיעַ זְמַן וְלֹא נִישְּׂאוּ נָמֵי! הָתָם, דּוּכְתָּא מְיַיחֵד לַהּ.",
+                  "אֶלָּא מֵעַתָּה, לָקִיט כֹּהֵן לְיִשְׂרָאֵל לָא לֵיכוֹל בִּתְרוּמָה, דִּלְמָא אָתוּ לְמֵיכַל בַּהֲדֵיהּ! הַשְׁתָּא מִדִּידְהוּ סָפוּ לֵיהּ — מִדִּידֵיהּ אָכְלִי?!",
+                  "רַב שְׁמוּאֵל בַּר רַב יְהוּדָה אָמַר: מִשּׁוּם סִימְפּוֹן.",
+                  "אִי הָכִי, נִכְנְסָה לְחוּפָּה וְלֹא נִבְעֲלָה נָמֵי! הָתָם, מִיבְדָּק בָּדֵיק לַהּ וַהֲדַר מְעַיֵּיל.",
+                  "אֶלָּא מֵעַתָּה, עֶבֶד כֹּהֵן שֶׁלְּקָחוֹ מִיִּשְׂרָאֵל לָא לֵיכוֹל בִּתְרוּמָה, מִשּׁוּם סִימְפּוֹן! סִימְפּוֹן בַּעֲבָדִים לֵיכָּא, דְּאִי דְּאַבָּרַאי — הָא קָחָזֵי לֵיהּ. וְאִי דְּגַוַּאי — לִמְלָאכָה קָא בָּעֵי, וְשֶׁבַּסֵּתֶר לָא אִיכְפַּת לֵיהּ. נִמְצָא גַּנָּב אוֹ"
+                ],
+                [
+                  "קוּבְיוּסְטוּס — הִגִּיעוֹ. מַאי אִיכָּא — לִסְטִים מְזוּיָּין אוֹ מוּכְתָּב לַמַּלְכוּת, הָנְהוּ קָלָא אִית לְהוּ.",
+                  "מִכְּדִי, בֵּין לְמָר וּבֵין לְמָר לָא אָכְלָה, מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ קִבֵּל, מָסַר, וְהָלַךְ."
+                ]
+              ],
+              "link": "/Ketubot/58a",
+              "originalRefsBeforeRewriting": [
+                "Ketubot 58a:2"
+              ],
+              "ref": "Ketubot 57b:11-58a:2",
+              "sourceHeRef": "כתובות נ״ח א",
+              "sourceRef": "Ketubot 58a"
+            },
+            {
+              "en": [
+                "<b>Rabbi Ḥanina said: Whoever passes a shield</b> over himself <b>at a time of arrogance,</b> i.e., whoever suppresses his evil inclination as though it were covered with a shield when he is arrogant, e.g., when he is intoxicated or the like (Rabbeinu Ḥananel), <b>troubles will be closed and sealed from him, as it is stated: “The channels of [<i>afikei</i>] his scales are his pride, closed together as with a tight [<i>tzar</i>] seal”</b> (Job 41:7). The verse is interpreted homiletically: When at a time of arrogance a person passes a shield [<i>mapik</i>] over his evil inclination, his troubles [<i>tzarot</i>] will be closed and sealed before him.",
+                "The Gemara poses a question: <b>From where may it be inferred that</b> the meaning of <b>this</b> word <b><i>afik</i> is a formulation</b> denoting <b>passing [<i>aborei</i>]?</b> The Gemara answers: <b>As it is written: “My brothers have dealt deceitfully like a wadi, like the channel [<i>afik</i>] of brooks that pass by [<i>ya’avoru</i>]”</b> (Job 6:15). This implies that the term <i>afik</i> is synonymous with the verb <i>ya’avoru</i>, which refers to something that travels and passes by.",
+                "<b>Rabbi Yoḥanan said:</b> This is not the correct interpretation; rather, <b>it was stated</b> that <b>whoever does not</b> cover, but <b>draws out [<i>mapik</i>]</b> a shield at a time of arrogance, troubles will be closed and sealed from him. In other words, a person must draw his weapons and shield in order to fight his evil inclination when it tries to overpower him (Rabbeinu Ḥananel).",
+                "The Gemara poses a question: <b>From where may it be inferred that this</b> word <b><i>mapik</i> is a formulation</b> denoting <b>revealing?</b> The Gemara answers: <b>As it is written: “The channels of [<i>afikei</i>] waters were seen, and the foundations of the world were laid bare”</b> (Psalms 18:16).",
+                "The Gemara asks: <b>Now, since the verses may be interpreted both in accordance with</b> the opinion <b>of</b> this <b>Master and in accordance with</b> the opinion of the other <b>Master, what is</b> the practical difference <b>between them?</b> The Gemara answers: <b>The</b> practical difference <b>between them is</b> with regard to the following practice of <b>Rav Sheshet, as Rav Sheshet gave</b> the responsibility for monitoring <b>his sleep to his attendant,</b> instructing the attendant to wake him when the time for prayer arrived. One <b>Sage,</b> Rabbi Ḥanina, <b>is of</b> the opinion that the practice of <b>Rav Sheshet</b> is correct, as Rabbi Ḥanina maintains that if one is in great need of sleep, it is better to nap for a while and then wake up with renewed vigor. <b>And one Sage,</b> Rabbi Yoḥanan, <b>is not of</b> the opinion that the practice of <b>Rav Sheshet</b> is correct. He holds that a person must marshal his strength and pray, rather than succumb to the need for sleep.",
+                "<b>Rav Ḥiyya bar Ashi said</b> that <b>Rav said: Anyone whose mind is unsettled should not pray, as it is stated: When distressed, one should not issue decisions.</b> The Gemara relates that <b>Rabbi Ḥanina, on a day that he was angry,</b> would <b>not pray,</b> as <b>he said that it is written: When distressed, one should not issue decisions.</b> The Gemara similarly relates that <b>Mar Ukva, on a day of a south wind, would not venture out to the court,</b> for this hot and harsh wind would disturb his usual clarity of mind.",
+                "<b>Rav Naḥman bar Yitzḥak said:</b> The study of <b><i>halakha</i> requires clarity, as</b> on <b>a day</b> when <b>a north wind</b> blows and clears the skies. <b>Abaye said</b> similarly that <b>if my stepmother says to me: Bring</b> me a dish of <b><i>kutaḥ</i>, I can no</b> longer <b>study</b> Torah in my usual fashion, as even a simple task such as this troubles me and distracts me from my Torah study.",
+                "Similarly, <b>Rava said: If I am bitten by a louse, I can no</b> longer <b>learn</b> in my usual manner. The Gemara relates that <b>the mother of Mar, son of Ravina, would prepare seven garments for him for the seven days</b> of the week, so that he would not be bitten by the lice found in old clothes (Rabbeinu Ḥananel).",
+                "<b>Rav Yehuda said: Night was created only for sleep. Rabbi Shimon ben Lakish said: The moon was created only for</b> Torah <b>study</b> by its light. When people <b>said to Rabbi Zeira: Your teachings are</b> exceedingly <b>sharp, he said to them: They were</b> formulated <b>during the daytime</b> hours. This teaches that Torah study during the day is most beneficial to clarity of the mind.",
+                "<b>Rav Ḥisda’s daughter said to</b> her father, <b>Rav Ḥisda,</b> who would spend his nights in study: <b>Doesn’t the Master wish to sleep a little?</b> He <b>said to her: Days that are long</b> in quantity <b>but short</b> in the opportunity to study Torah and perform mitzvot <b>will soon arrive, and we will sleep a lot.</b> After I die, there will be more than enough time for sleep.",
+                "<b>Rav Naḥman bar Yitzḥak said: We,</b> Torah scholars, <b>are day workers,</b> as our study is performed primarily during the day. The Gemara relates that <b>Rav Aḥa bar Ya’akov</b> would <b>borrow and repay,</b> i.e., if for some reason he neglected to study during the day, he would use the night hours to compensate for the missed time.",
+                "<b>Rabbi Elazar said: One who returns</b> home <b>from a journey should not pray for three days</b> while recovering from the hardship of being on the road, <b>as it is stated: “And I gathered them together at the river that runs to Aḥava, and we encamped there for three days, and I inspected the people”</b> (Ezra 8:15), after which it is stated: “Then I proclaimed a fast there, at the river of Aḥava, that we might afflict ourselves before our God, to seek of Him a safe journey for us” (Ezra 8:21), which teaches that they rested three days before praying.",
+                "The Gemara relates that <b>Shmuel’s father, when he would return</b> home <b>from his journey, would not pray</b> for <b>three days,</b> as he would have to rest from his journey. <b>Shmuel</b> himself <b>would not pray in a house that contained an alcoholic beverage,</b> as the scent of the alcohol would disturb his concentration during prayer. Similarly, <b>Rav Pappa would not pray in a house that contained small</b> fried <b>fish,</b> due to their smell."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Eruvin 65a:5",
+                "Eruvin 65a:6",
+                "Eruvin 65a:7",
+                "Eruvin 65a:8",
+                "Eruvin 65a:9",
+                "Eruvin 65a:10",
+                "Eruvin 65a:11",
+                "Eruvin 65a:12",
+                "Eruvin 65a:13",
+                "Eruvin 65a:14",
+                "Eruvin 65a:15",
+                "Eruvin 65a:16",
+                "Eruvin 65a:17"
+              ],
+              "he": [
+                "אָמַר רַבִּי חֲנִינָא: כׇּל הַמֵּפִיק מָגֵן בִּשְׁעַת גַּאֲוָה, סוֹגְרִין וְחוֹתְמִין צָרוֹת בַּעֲדוֹ, שֶׁנֶּאֱמַר: ״גַּאֲוָה אֲפִיקֵי מָגִנִּים סָגוּר חוֹתָם צָר״.",
+                "מַאי מַשְׁמַע דְּהַאי ״אָפִיק״ לִישָּׁנָא דְעַבּוֹרֵי הוּא? דִּכְתִיב: ״אַחַי בָּגְדוּ כְמוֹ נָחַל כַּאֲפִיק נְחָלִים יַעֲבוֹרוּ״.",
+                "רַבִּי יוֹחָנָן אָמַר: ״כֹּל שֶׁאֵינוֹ מֵפִיק״ אִתְּמַר.",
+                "מַאי מַשְׁמַע דְּהַאי ״מֵפִיק״ לִישָּׁנָא דְגַלּוֹיֵי הוּא? דִּכְתִיב: ״וַיֵּרָאוּ אֲפִיקֵי מַיִם וַיִּגָּלוּ מוֹסְדוֹת תֵּבֵל״.",
+                "מִכְּדֵי, קְרָאֵי מַשְׁמַע בֵּין לְמָר וּבֵין לְמָר, מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ דְּרַב שֵׁשֶׁת. דְּרַב שֵׁשֶׁת מָסַר שִׁינְתֵּיהּ לְשַׁמָּעֵיהּ. מָר אִית לֵיהּ דְּרַב שֵׁשֶׁת, וּמָר לֵית לֵיהּ דְּרַב שֵׁשֶׁת.",
+                "אָמַר רַב חִיָּיא בַּר אָשֵׁי אָמַר רַב: כֹּל שֶׁאֵין דַּעְתּוֹ מְיוּשֶּׁבֶת עָלָיו אַל יִתְפַּלֵּל, מִשּׁוּם שֶׁנֶּאֱמַר: ״בְּצָר אַל יוֹרֶה״. רַבִּי חֲנִינָא בְּיוֹמָא דְּרָתַח לָא מְצַלֵּי, אָמַר: ״בְּצָר אַל יוֹרֶה״ כְּתִיב. מָר עוּקְבָא בְּיוֹמָא דְשׁוּתָא לָא הֲוָה נָפֵיק לְבֵי דִינָא.",
+                "אָמַר רַב נַחְמָן בַּר יִצְחָק: הִלְכְתָא בָּעֲיָא צִילּוּתָא כְּיוֹמָא דְאִסְתָּנָא. אָמַר אַבָּיֵי: אִי אָמְרָה לִי אֵם קָרֵיב כּוּתָּחָא — לָא תְּנַאי.",
+                "אָמַר רָבָא: אִי קְרַצְתַּן כִּינָּה לָא תְּנַאי. מָר בְּרֵיהּ דְּרָבִינָא עֲבַדָה לֵיהּ אִמֵּיהּ שִׁבְעָה מָנֵי לְשִׁבְעָה יוֹמֵי.",
+                "אָמַר רַב יְהוּדָה: לָא אִיבְּרִי לֵילְיָא אֶלָּא לְשִׁינְתָּא. אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: לָא אִיבְּרִי סֵיהֲרָא אֶלָּא לְגִירְסָא. אָמְרִי לֵיהּ לְרַבִּי זֵירָא: מְחַדְּדָן שְׁמַעְתָּךְ. אֲמַר לְהוּ: דִּימָמֵי נִינְהוּ.",
+                "אֲמַרָה לֵיהּ בַּרְתֵּיהּ דְּרַב חִסְדָּא לְרַב חִסְדָּא: לָא בָּעֵי מָר מֵינַם פּוּרְתָּא? אֲמַר לַהּ: הַשְׁתָּא אָתוּ יוֹמֵי דַּאֲרִיכֵי וְקַטִּינֵי, וְנֵינוּם טוּבָא.",
+                "אָמַר רַב נַחְמָן בַּר יִצְחָק: אֲנַן פּוֹעֲלֵי דִּימָמֵי אֲנַן. רַב אַחָא בַּר יַעֲקֹב יָזֵיף וּפָרַע.",
+                "אָמַר רַבִּי אֶלְעָזָר: הַבָּא מִן הַדֶּרֶךְ, אַל יִתְפַּלֵּל שְׁלֹשָׁה יָמִים, שֶׁנֶּאֱמַר: ״וָאֶקְבְּצֵם אֶל הַנָּהָר הַבָּא אֶל אַחֲוָא וַנַּחֲנֶה שָׁם יָמִים שְׁלֹשָׁה וָאָבִינָה בָּעָם וְגוֹ׳״.",
+                "אֲבוּהּ דִּשְׁמוּאֵל, כִּי אָתֵי בְּאוֹרְחָא, לָא מְצַלֵּי תְּלָתָא יוֹמֵי. שְׁמוּאֵל לָא מְצַלֵּי בְּבֵיתָא דְּאִית בֵּיהּ שִׁיכְרָא. רַב פָּפָּא לָא מְצַלֵּי בְּבֵיתָא דְּאִית בֵּיהּ הַרְסָנָא."
+              ],
+              "link": "/Eruvin/65a",
+              "originalRefsBeforeRewriting": [
+                "Eruvin 65a:9"
+              ],
+              "ref": "Eruvin 65a:5-17",
+              "sourceHeRef": "עירובין ס״ה א",
+              "sourceRef": "Eruvin 65a"
+            },
+            {
+              "en": [
+                [
+                  "Additionally, <b>a dilemma was raised before</b> the Sages: Does the <b>sexual intercourse</b> that is performed to effect betrothal <b>effect marriage</b> at the same time that it effects betrothal, <b>or</b> does it <b>effect</b> only <b>betrothal? The practical difference</b> that arises from this question concerns all cases where it matters whether a woman is betrothed or married. For example, one issue is whether the act allows him <b>to inherit</b> property from <b>her.</b> If he betroths her through intercourse, does he inherit her property when she dies as he would if they were married?",
+                  "<b>And</b> if he is a priest, is he required <b>to become ritually impure to</b> bury <b>her,</b> as he must do for his wife? <b>And</b> similarly, does a betrothal through intercourse allow him <b>to nullify her vows</b> by himself, without her father’s participation? <b>If you say</b> that intercourse <b>effects marriage, he inherits</b> property from <b>her, and he becomes impure to</b> bury <b>her, and he nullifies her vows</b> alone. <b>And if you say</b> that <b>it effects</b> only <b>betrothal, he does not inherit</b> property from <b>her, and he does not become ritually impure to</b> bury <b>her, and he cannot nullify her vows</b> alone. <b>What,</b> then, is the <i>halakha</i>?",
+                  "<b>Abaye said: Come</b> and <b>hear</b> a resolution from the following mishna (<i>Ketubot</i> 46b): <b>A father has authority</b> over <b>his daughter with regard to her betrothal,</b> whether it is <b>through money, through a document, or through sexual intercourse.</b> Likewise, a father <b>has a right to items she</b> has <b>found, and to her earnings, and to</b> effect <b>the nullification of her vows,</b> i.e., a father may nullify his daughter’s vows. <b>And he accepts her bill of divorce</b> on her behalf if she is divorced from betrothal before she becomes a grown woman. <b>And</b> although he inherits her property when she dies, e.g., property she inherited from her mother’s family, <b>he does not enjoy the profits</b> of her property <b>during her lifetime.</b> If the daughter <b>married, the husband has more</b> rights and obligations <b>than</b> her father had before the marriage, <b>as he enjoys the profits</b> of her property <b>during her lifetime.</b>",
+                  "The mishna <b>teaches</b> that a man has rights to his daughter’s betrothal through <b>sexual intercourse, and</b> it subsequently <b>teaches:</b> If the daughter <b>married.</b> This indicates that intercourse effects only betrothal. The Gemara rejects this claim: <b>When it teaches:</b> If the daughter <b>married,</b> that is referring <b>to the other</b> modes mentioned here, i.e., betrothal by means of money or a document. In these cases there is a difference between betrothal and marriage, while it is possible that betrothal through intercourse effects marriage as well.",
+                  "<b>Rava said: Come</b> and <b>hear</b> a resolution from a <i>baraita</i>: A girl who is <b>three years and one day old can be betrothed through intercourse, and if</b> her <b><i>yavam</i> engaged in intercourse with her, he has acquired her. And</b> if she is married, <b>one is liable</b> if he engages in intercourse <b>with her, due to</b> her status as <b>a married woman. And</b> if she is impure as a menstruating woman, <b>she renders one who engages in intercourse with her ritually impure</b> for seven days."
+                ],
+                [
+                  "And he <b>renders impure the object upon which he lies like the upper one.</b> One who engages in sexual intercourse with a menstruating woman renders the objects upon which he lies ritually impure even if he has no direct contact with them.",
+                  "<b>And if she marries a priest she may partake of <i>teruma</i></b> from that point onward. <b>And if one of those with whom sexual relations are forbidden by the Torah</b> (see Leviticus, chapter 18) <b>engages in intercourse with her, he is put to death due to</b> his sin with <b>her, and she is exempt</b> from punishment as a minor. <b>And if someone of unfit</b> lineage, i.e., a man who would disqualify her from marrying a priest if he engaged in sexual intercourse with her, <b>engages in intercourse with her, he has disqualified her from</b> marrying into <b>the priesthood.</b> This concludes the <i>baraita</i>.",
+                  "The Gemara analyzes this source. <b>It is taught</b> in that <i>baraita</i>: She can be betrothed through <b>sexual intercourse, and it is taught</b> separately: And if <b>she marries</b> a priest. This indicates that intercourse does not effect marriage. The Gemara rejects this: <b>This is what</b> the <i>baraita</i> <b>said: If this</b> betrothal through intercourse <b>is a marriage to a priest, she may partake of <i>teruma</i>.</b> It is possible that there are not two separate stages here but a single action, as sexual intercourse effects marriage.",
+                  "<b>Come</b> and <b>hear</b> a proof from a <i>baraita</i>: <b>And Yoḥanan ben Bag Bag already sent</b> a message <b>to Rabbi Yehuda ben Beteira in</b> the city of <b>Netzivin: I heard about you that you say</b> that <b>the daughter of a non-priest betrothed</b> to a priest <b>may partake of <i>teruma</i>.</b> Rabbi Yehuda ben Beteira <b>sent</b> back this reply <b>to him: And do you not say so? I know about you that you are an expert in</b> many <b>areas of Torah; do you not know how to teach</b> <i>halakhot</i> <b>based on an <i>a fortiori</i></b> inference?",
+                  "The <i>a fortiori</i> inference is as follows: <b>If</b> in the case of <b>a Canaanite maidservant, whose sexual intercourse</b> with a priest <b>does not allow her to partake of <i>teruma</i>,</b> as she is not betrothed to him, <b>her money,</b> i.e., if a priest acquires her through money, <b>allows her to partake of <i>teruma</i>, is it not logical</b> with regard to <b>this</b> betrothed woman, <b>whose sexual intercourse</b> with a priest <b>allows her to partake of <i>teruma</i>,</b> that <b>her</b> betrothal <b>money</b> from the priest should <b>allow her to partake of <i>teruma</i>?</b> If this is indeed the case, the daughter of a non-priest betrothed to a priest should be permitted to partake of <i>teruma</i>. <b>But what can I do, as the Sages said:</b> By rabbinic law, <b>the daughter of a non-priest betrothed</b> to a priest <b>may not partake of <i>teruma</i> until she enters the</b> wedding <b>canopy.</b>",
+                  "The Gemara clarifies: <b>What are the circumstances</b> of the comparison between money and sexual intercourse? <b>If</b> it is referring to a case <b>of sexual intercourse by means of</b> a wedding <b>canopy,</b> i.e., after they are married, <b>and</b> betrothal through <b>money</b> where the marriage is then completed <b>by means of</b> a wedding <b>canopy, in both</b> cases <b>she may partake of</b> <i>teruma</i> even by rabbinic law, as she is a full-fledged married woman.",
+                  "<b>Or rather</b> one could say that this comparison is referring to <b>sexual intercourse by means of</b> a wedding <b>canopy, and</b> betrothal through <b>money not by means of</b> a wedding <b>canopy.</b> If so, the <i>a fortiori</i> inference is not valid, as <b>here,</b> in the case of intercourse, there are <b>two</b> stages of acquisition, intercourse followed by the wedding canopy, <b>and here,</b> in the case of money, there is only <b>one</b> stage. <b>Rather, is it not</b> correct to say that the comparison between money and intercourse is referring <b>to sexual intercourse not by means of</b> a wedding <b>canopy and</b> also <b>money not by means of</b> a wedding <b>canopy?</b>",
+                  "<b>Granted, if you say</b> that intercourse by itself <b>effects marriage,</b> it is <b>due to that</b> reason that it <b>is obvious to</b> Rabbi Yehuda ben Beteira <b>that</b> the mode of <b>sexual intercourse is stronger than money,</b> and allows her to partake of <i>teruma</i>. <b>But if you say</b> that sexual intercourse <b>effects</b> only <b>betrothal, what is different here,</b> in the case of betrothal through intercourse, <b>that it is obvious to him</b> that it allows her to partake of <i>teruma</i>, <b>and what is different here,</b> in the case of betrothal through money, <b>that he is uncertain</b> and must derive the matter through an <i>a fortiori</i> inference? In both cases she is only betrothed.",
+                  "<b>Rav Naḥman bar Yitzḥak said: Actually, I will say to you</b> that he is speaking <b>about sexual intercourse by means of</b> a wedding <b>canopy and money not by means of</b> a wedding <b>canopy. And</b> as for <b>that which you said</b> in opposition to this <i>a fortiori</i> inference: <b>Here</b> there are <b>two</b> stages of acquisition, <b>and here</b> there is only <b>one</b> stage. <b>In any event, there is</b> a valid <b><i>a fortiori</i></b> inference.",
+                  "<b>And this is what</b> Rabbi Yehuda ben Beteira <b>sent him,</b> i.e., his statement should be understood as follows: <b>If a Canaanite maidservant, whose intercourse</b> with a priest <b>does not allow her to partake of <i>teruma</i>, even by means of</b> a wedding <b>canopy,</b> and yet <b>her money allows her to partake</b> of <i>teruma</i> <b>without</b> the means of a wedding <b>canopy, is it not logical</b> with regard to <b>this</b> betrothed woman, <b>whose intercourse</b> with a priest <b>allows her to partake of <i>teruma</i> by means of</b> a wedding <b>canopy,</b> that <b>her</b> betrothal <b>money</b> from the priest should <b>allow her to partake of <i>teruma</i> without</b> the means of a wedding <b>canopy?</b>",
+                  "<b>But what can I do, as the Sages said:</b> By rabbinic law, <b>the daughter of a non-priest betrothed</b> to a priest <b>may not partake of <i>teruma</i> until she enters the</b> wedding <b>canopy, due to</b> the reason stated <b>by Ulla.</b> According to Ulla, there is a concern that she may feed her siblings or members of her family <i>teruma</i> while she is still living in her father’s house.",
+                  "<b>And ben Bag Bag</b> explains why one cannot accept this <i>a fortiori</i> inference involving a Canaanite maidservant: <b>With regard to a Canaanite maidservant</b> who is purchased with money, the buyer <b>does not leave out</b> anything <b>from her acquisition,</b> i.e., he completes the purchase in full. <b>Here,</b> in the case of betrothal, <b>he leaves out</b> part <b>of her acquisition,</b> as the stage of marriage has yet to be performed. Therefore, these two cases are dissimilar.",
+                  "<b>Ravina said</b> that <b>by Torah law, it is obvious to</b> Yoḥanan ben Bag Bag <b>that</b> she <b>may partake of</b> <i>teruma</i> also when she is betrothed to a priest through money alone, as she is acquired with his money. <b>And</b> the question <b>that he sent him</b> is referring to the <i>halakha</i> <b>by rabbinic law.</b>",
+                  "Ravina elaborates: <b>And this is</b> the question <b>that he sent to him: I heard about you that you say</b> that in practice <b>the daughter of a non-priest betrothed</b> to a priest <b>may partake of <i>teruma</i>, and we are not concerned about an annulling factor [<i>simfon</i>],</b> i.e., that he might find some blemish in her through which the betrothal would be considered retroactively invalid. If so, she would have eaten <i>teruma</i> when she was not permitted to do so. And it was with regard to this issue that Rabbi Yehuda ben Beteira <b>sent to him: And do you not say this? I know about you that you are an expert in</b> many <b>areas of Torah; do you not know how to teach</b> <i>halakhot</i> <b>based on an <i>a fortiori</i></b> inference?",
+                  "The <i>a fortiori</i> inference is as follows: <b>If a Canaanite maidservant, whose</b> engaging in <b>intercourse</b> with a priest <b>does not allow her to partake of <i>teruma</i>,</b> and yet <b>her</b> receiving purchase <b>money allows her to partake of <i>teruma</i>, and we are not concerned about <i>simfon</i>,</b> i.e., that the Canaanite maidservant may have some physical blemish that nullifies her purchase retroactively, <b>is it not logical</b> with regard to <b>this</b> betrothed woman, <b>whose intercourse</b> with a priest <b>allows her to partake of <i>teruma</i>, that her</b> receiving betrothal <b>money</b> from the priest should <b>allow her to partake of <i>teruma</i></b> even before entering the wedding canopy, <b>and we should not be concerned about <i>simfon</i>? But what can I do, as the Sages said:</b> By rabbinic law <b>the daughter of a non-priest betrothed</b> to a priest <b>may not partake of <i>teruma</i></b>"
+                ],
+                [
+                  "<b>until she enters the</b> wedding <b>canopy, due to</b> the reason <b>of Ulla,</b> lest she feed her non-priestly family members the <i>teruma</i> that her husband has given her.",
+                  "The Gemara asks: <b>And ben Bag Bag,</b> what does he say about this <i>a fortiori</i> inference? The Gemara answers that he maintains that this <i>a fortiori</i> inference is invalid because <b>he does not accept</b> that there can be a claim of <b><i>simfon</i> with regard to</b> the acquisition <b>of slaves.</b> The reason is that <b>if it is an exposed blemish</b> that the master found on the slave, <b>he saw</b> the blemish and purchased him regardless. Therefore, he cannot later claim that the transaction was unfair. <b>If</b> it is <b>due to hidden blemishes</b> on his slave, <b>what difference does that make to him?</b> Why should it matter if a slave has hidden blemishes? <b>He needs him</b> only <b>for labor,</b> and <b>he does not care</b> if he has hidden blemishes that do not impair his ability to perform labor.",
+                  "And even if this slave <b>is discovered</b> to be <b>a thief or a gambler [<i>kuvyustus</i>],</b> which are considered hidden blemishes that affect his work, <b>it has come to him,</b> i.e., the slave is acquired by the one who purchased him and the transaction is non-refundable. The reason is that the buyer should have suspected behavior of this kind, which is common among slaves, and therefore he suffers the loss. <b>What do you say?</b> Perhaps he discovered that the slave is <b>an armed bandit</b> and subject to be killed by the government for this, <b>or sentenced</b> to death <b>by the government</b> for another reason, and is sought by the authorities. This is not a valid claim, since <b>these</b> matters <b>generate publicity,</b> and therefore he is assumed to have taken the risk into consideration.",
+                  "The Gemara asks: <b>Now, both according to</b> the one <b>Master,</b> Yoḥanan ben Bag Bag, <b>and according to</b> the other <b>Master,</b> Rabbi Yehuda ben Beteira, the daughter of a non-priest betrothed to a priest <b>may not partake</b> of <i>teruma</i> by rabbinic decree. <b>What,</b> then, <b>is</b> the difference <b>between them?</b>",
+                  "The Gemara answers: <b>The</b> difference <b>between them</b> involves three cases. The Gemara elaborates: If the husband initially <b>accepted</b> her blemishes, there is no concern that an annulling factor might lead to the nullification of the betrothal, but there is still concern that she might feed <i>teruma</i> to the members of her family. If her father <b>transferred</b> her to the betrothed husband’s agents, <b>or</b> if the father’s agents <b>walked</b> with the husband’s messenger, and therefore she is no longer in her father’s house, there is no concern that she might feed her family members <i>teruma</i>, but it remains possible that the betrothal will be nullified."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 10a:6",
+                "Kiddushin 10a:7",
+                "Kiddushin 10a:8",
+                "Kiddushin 10a:9",
+                "Kiddushin 10a:10",
+                "Kiddushin 10b:1",
+                "Kiddushin 10b:2",
+                "Kiddushin 10b:3",
+                "Kiddushin 10b:4",
+                "Kiddushin 10b:5",
+                "Kiddushin 10b:6",
+                "Kiddushin 10b:7",
+                "Kiddushin 10b:8",
+                "Kiddushin 10b:9",
+                "Kiddushin 10b:10",
+                "Kiddushin 10b:11",
+                "Kiddushin 10b:12",
+                "Kiddushin 10b:13",
+                "Kiddushin 10b:14",
+                "Kiddushin 10b:15",
+                "Kiddushin 11a:1",
+                "Kiddushin 11a:2",
+                "Kiddushin 11a:3",
+                "Kiddushin 11a:4",
+                "Kiddushin 11a:5"
+              ],
+              "he": [
+                [
+                  "אִיבַּעְיָא לְהוּ: בִּיאָה נִשּׂוּאִין עוֹשָׂה, אוֹ אֵירוּסִין עוֹשָׂה? נָפְקָא מִינַּהּ – לְיוֹרְשָׁהּ,",
+                  "וְלִיטַמֵּא לָהּ, וּלְהָפֵר נְדָרֶיהָ. אִי אָמְרַתְּ נִשּׂוּאִין עוֹשָׂה – יוֹרְשָׁהּ וּמִיטַּמֵּא לָהּ וּמֵיפֵר נְדָרֶיהָ, וְאִי אָמְרַתְּ אֵירוּסִין עוֹשָׂה – אֵינוֹ יוֹרְשָׁהּ וְאֵינוֹ מִיטַּמֵּא לָהּ וְאֵינוֹ מֵיפֵר נְדָרֶיהָ. מַאי?",
+                  "אָמַר אַבָּיֵי: תָּא שְׁמַע: הָאָב זַכַּאי בְּבִתּוֹ בְּקִדּוּשֶׁיהָ בְּכֶסֶף בִּשְׁטָר וּבְבִיאָה, וְזַכַּאי בִּמְצִיאָתָהּ וּבְמַעֲשֵׂה יָדֶיהָ, וּבַהֲפָרַת נְדָרֶיהָ, וּמְקַבֵּל אֶת גִּיטָּהּ, וְאֵינוֹ אוֹכֵל פֵּירוֹת בְּחַיֶּיהָ. נִישֵּׂאת – יָתֵר עָלָיו הַבַּעַל שֶׁאוֹכֵל פֵּירוֹת בְּחַיֶּיהָ.",
+                  "קָתָנֵי ״בִּיאָה״, וְקָתָנֵי ״נִישֵּׂאת״! כִּי קָתָנֵי ״נִישֵּׂאת״ – אַשְּׁאָרָא.",
+                  "אָמַר רָבָא: תָּא שְׁמַע: בַּת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד מִתְקַדֶּשֶׁת בְּבִיאָה, וְאִם בָּא עָלֶיהָ יָבָם – קְנָאָהּ, וְחַיָּיבִין עָלֶיהָ מִשּׁוּם אֵשֶׁת אִישׁ, וּמְטַמְּאָה אֶת בּוֹעֲלָהּ"
+                ],
+                [
+                  "לְטַמֵּא מִשְׁכָּב תַּחְתּוֹן כְּעֶלְיוֹן,",
+                  "וְאִם נִישֵּׂאת לְכֹהֵן – אוֹכֶלֶת בִּתְרוּמָה, וְאִם בָּא עָלֶיהָ אֶחָד מִכׇּל עֲרָיוֹת שֶׁבַּתּוֹרָה – מוּמָתִין עַל יָדָהּ, וְהִיא פְּטוּרָה. וְאִם בָּא עָלֶיהָ אֶחָד מִן הַפְּסוּלִין – פְּסָלָהּ מִן הַכְּהוּנָּה.",
+                  "קָתָנֵי ״בִּיאָה״, וְקָתָנֵי ״נִישֵּׂאת״! הָכִי קָאָמַר: אִי הָנֵי נִשּׂוּאִין דְּכֹהֵן נִינְהוּ – אוֹכֶלֶת בִּתְרוּמָה.",
+                  "תָּא שְׁמַע: וּכְבָר שָׁלַח יוֹחָנָן בֶּן בַּג בַּג אֵצֶל רַבִּי יְהוּדָה בֶּן בְּתִירָה לִנְצִיבִין: שָׁמַעְתִּי עָלֶיךָ שֶׁאַתָּה אוֹמֵר אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה. שָׁלַח לוֹ: וְאַתָּה אִי אַתָּה אוֹמֵר כֵּן? מוּחְזְקַנִי בְּךָ שֶׁאַתָּה בָּקִי בְּחַדְרֵי תוֹרָה, לִדְרוֹשׁ בְּקַל וָחוֹמֶר אִי אַתָּה יוֹדֵעַ?!",
+                  "וּמָה שִׁפְחָה כְּנַעֲנִית, שֶׁאֵין בִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – כַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה, זוֹ, שֶׁבִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – אֵינוֹ דִּין שֶׁכַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה? אֲבָל מָה אֶעֱשֶׂה שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֵין אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה עַד שֶׁתִּכָּנֵס לַחוּפָּה.",
+                  "הֵיכִי דָמֵי? אִי בְּבִיאָה שֶׁעַל יְדֵי חוּפָּה, וְכֶסֶף שֶׁעַל יְדֵי חוּפָּה – בְּתַרְוַיְיהוּ מֵיכָל אָכְלָה!",
+                  "וְאֶלָּא, בְּבִיאָה שֶׁעַל יְדֵי חוּפָּה, וְכֶסֶף שֶׁלֹּא עַל יְדֵי חוּפָּה – הָכָא תַּרְתֵּי, וְהָכָא חֲדָא! אֶלָּא לָאו בְּבִיאָה שֶׁלֹּא עַל יְדֵי חוּפָּה, וְכֶסֶף שֶׁלֹּא עַל יְדֵי חוּפָּה.",
+                  "אִי אָמְרַתְּ בִּשְׁלָמָא נִשּׂוּאִין עוֹשָׂה – מִשּׁוּם הָכִי פְּשִׁיטָא לֵיהּ דַּאֲלִימָא לַהּ בִּיאָה מִכֶּסֶף. אֶלָּא אִי אָמְרַתְּ קִדּוּשִׁין עוֹשָׂה, מַאי שְׁנָא הָכָא דִּפְשִׁיטָא לֵיהּ, וּמַאי שְׁנָא הָכָא דִּמְסַפְּקָא לֵיהּ?",
+                  "אָמַר רַב נַחְמָן בַּר יִצְחָק: לְעוֹלָם אֵימָא לָךְ בְּבִיאָה שֶׁעַל יְדֵי חוּפָּה וְכֶסֶף שֶׁלֹּא עַל יְדֵי חוּפָּה. וּדְקָאָמְרַתְּ: ״הָכָא תַּרְתֵּי וְהָכָא חֲדָא״ – קַל וָחוֹמֶר מִיהָא אִיתֵיהּ;",
+                  "וְהָכִי שְׁלַח לֵיהּ: וּמָה שִׁפְחָה כְּנַעֲנִית, שֶׁאֵין בִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה אֲפִילּוּ עַל יְדֵי חוּפָּה – כַּסְפָּהּ מַאֲכִילָתָהּ בְּלֹא חוּפָּה, זוֹ, שֶׁבִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה עַל יְדֵי חוּפָּה – אֵינוֹ דִּין שֶׁכַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה בְּלֹא חוּפָּה?",
+                  "אֲבָל מָה אֶעֱשֶׂה שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֵין אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה עַד שֶׁתִּכָּנֵס לַחוּפָּה, מִשּׁוּם דְּעוּלָּא.",
+                  "וּבֶן בַּג בַּג? גַּבֵּי שִׁפְחָה כְּנַעֲנִית לָא שַׁיַּיר בְּקִנְיָנַהּ, הָכָא, שַׁיֵּיר בְּקִנְיָנַהּ.",
+                  "רָבִינָא אָמַר: מִדְּאוֹרָיְיתָא – מִיפְשָׁט פְּשִׁיטָא לֵיהּ דְּאָכְלָה, וּמִדְּרַבָּנַן הוּא דִּשְׁלַח לֵיהּ.",
+                  "וְהָכִי שְׁלַח לֵיהּ: שָׁמַעְתִּי עָלֶיךָ שֶׁאַתָּה אוֹמֵר אֲרוּסָה בַּת יִשְׂרָאֵל אוֹכֶלֶת בִּתְרוּמָה, וְלָא חָיְישַׁתְּ לְסִימְפּוֹן. שְׁלַח לֵיהּ: וְאַתָּה אִי אַתָּה אוֹמֵר כֵּן? מוּחְזְקַנִי בְּךָ שֶׁאַתָּה בָּקִי בְּחַדְרֵי תוֹרָה, לִדְרוֹשׁ בְּקַל וָחוֹמֶר אִי אַתָּה יוֹדֵעַ?!",
+                  "וּמָה שִׁפְחָה כְּנַעֲנִית שֶׁאֵין בִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – כַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה, וְלָא חָיְישִׁינַן לְסִימְפּוֹן, זוֹ שֶׁבִּיאָתָהּ מַאֲכִילָתָהּ בִּתְרוּמָה – אֵינוֹ דִּין שֶׁכַּסְפָּהּ מַאֲכִילָתָהּ בִּתְרוּמָה, וְלֹא נֵיחוּשׁ לְסִימְפּוֹן? אֲבָל מָה אֶעֱשֶׂה שֶׁהֲרֵי אָמְרוּ חֲכָמִים: אֲרוּסָה בַּת יִשְׂרָאֵל אֵינָהּ אוֹכֶלֶת בִּתְרוּמָה"
+                ],
+                [
+                  "עַד שֶׁתִּכָּנֵס לַחוּפָּה, מִשּׁוּם דְּעוּלָּא.",
+                  "וּבֶן בַּג בַּג? סִימְפּוֹן, בַּעֲבָדִים לֵית לֵיהּ. אִי מוּמִין שֶׁבַּגָּלוּי הוּא – הָא קָא חָזֵי לֵיהּ. אִי מִשּׁוּם מוּמִין שֶׁבַּסֵּתֶר – מַאי נָפְקָא לֵיהּ מִינֵּיהּ? לִמְלָאכָה קָא בָעֵי לֵיהּ לָא אִיכְפַּת לֵיהּ.",
+                  "נִמְצָא גַּנָּב אוֹ קוּבְיוּסְטוּס – הִגִּיעוֹ. מַאי אָמְרַתְּ, לִסְטִים מְזוּיָּין אוֹ <span class=\"parenthesized\">(נִכְתַּב)</span> [מוּכְתָּב] לַמַּלְכוּת? הָנְהוּ קָלָא אִית לְהוּ!",
+                  "מִכְּדִי, בֵּין לְמָר וּבֵין לְמָר לָא אָכְלָה, מַאי בֵּינַיְיהוּ?",
+                  "אִיכָּא בֵּינַיְיהוּ: קִיבֵּל, מָסַר, וְהָלַךְ."
+                ]
+              ],
+              "link": "/Kiddushin/11a",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 11a:4",
+                "Kiddushin 11a:5"
+              ],
+              "ref": "Kiddushin 10a:6-11a:5",
+              "sourceHeRef": "קידושין י״א א",
+              "sourceRef": "Kiddushin 11a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איכא בינייהו חולין שנשחטו בעזרה</strong> - ואליבא דר' יהודה דאמר מנבילה לא מצי למיגמר דלדברים ככתבן אתא דחזקיה סבר הני תרי מדשני בדיבוריה איתסר ולכלב תשליכון אותו לא הוצרך למעט את אלו ולאוסרן בהנאה וכי אתא למעוטי חולין שנשחטו בעזרה אתא וכדפרישית לעיל ורבי אבהו סבר אין חילוק בין לא יאכל בין לא יאכל ואצטריך אותו למעוטי הני והכי משמע טריפה אף על גב שכתבתי לך לאו באכילתה אני מתיר לך הנאתה אבל לא חמץ ושור הנסקל שלא פרטתי לך בהן היתר:",
+              "ref": "Rashi on Pesachim 23b:7:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ז:א",
+              "sourceRef": "Rashi on Pesachim 23b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>מכדי</b> <span class=\"hebrew-emphasis\">[הרי]</span> <b>בין למר</b> <span class=\"hebrew-emphasis\">[לחכם זה]</span> <b>ובין למר</b> <span class=\"hebrew-emphasis\">[לחכם זה]</span> <b>אסורין</b> הן <b>בהנאה</b> אף שאינם מסכימים לאותו מקור בפסוק, ואם כן <b>מאי בינייהו</b> <span class=\"hebrew-emphasis\">[מה</span> ההבדל המעשי <span class=\"hebrew-emphasis\">ביניהם]</span> ומתרצים: <b>איכא בינייהו</b> <span class=\"hebrew-emphasis\">[יש</span> הבדל מעשי <span class=\"hebrew-emphasis\">ביניהם]</span> לענין <b>חולין שנשחטו בעזרה. חזקיה סבר: \"לא יאכל\" — למעוטי הני</b> <span class=\"hebrew-emphasis\">[למעט</span> את <span class=\"hebrew-emphasis\">אלה]</span> שיש בהם איסור אכילה בלבד, <b>\"אתו\" — למעוטי</b> <span class=\"hebrew-emphasis\">[למעט]</span> <b>חולין שנשחטו בעזרה.</b>",
+              "ref": "Steinsaltz on Pesachim 23b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:ז",
+              "sourceRef": "Steinsaltz on Pesachim 23b:7"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי בינייהו</strong> - תימה לרשב\"א לימא דאיכא בינייהו חמץ נוקשה וחמץ דגן גמור ע\"י תערובות דמרבינן בריש אלו עוברין <span class=\"parenthesized\">(לקמן פסחים מג.)</span> מכל מחמצת לא תאכלו דלחזקיה מותר בהנאה ולרבי אבהו כל מקום שנאמר לא תאכלו משמע איסור הנאה וכי תימא כיון דמרבינן ליה לאכילה ה\"ה להנאה אם כן כרת נמי ליחייב:",
+              "ref": "Tosafot on Pesachim 23b:7:1",
+              "sourceHeRef": "תוספות על פסחים כ״ג ב:ז:א",
+              "sourceRef": "Tosafot on Pesachim 23b:7:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>Now, both according to</b> the one <b>Master and according to</b> the other <b>Master, it is prohibited</b> to derive <b>benefit</b> from these items. The fact that they disagree about the source of this <i>halakha</i> notwithstanding, <b>what is</b> the practical difference <b>between them?</b> The Gemara answers: The practical difference <b>between them is</b> with regard to <b>non-sacrificial animals that were slaughtered in the</b> Temple <b>courtyard. <span href=\"/topics/hizkiyah-b-hiyya\" class=\"namedEntityLink\" data-slug=\"hizkiyah-b-hiyya\">Ḥizkiya</span> holds: “It shall not be eaten”</b> comes <b>to exclude these</b> cases of leavened bread and the ox that is stoned. Although in most cases a prohibition against eating does not extend to a prohibition against deriving benefit, the language of the verse in these cases indicates that there is a prohibition against deriving benefit as well. Furthermore, <b>“It</b> shall be thrown to the dog” comes <b>to exclude non-sacrificial animals slaughtered in the</b> Temple <b>courtyard,</b> indicating that it is prohibited to derive benefit from them.",
+      "he": "מִכְּדִי בֵּין לְמָר וּבֵין לְמָר אֲסוּרִין בַּהֲנָאָה, מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ חוּלִּין שֶׁנִּשְׁחֲטוּ בָּעֲזָרָה. חִזְקִיָּה סָבַר: ״לֹא יֵאָכֵל״ — לְמַעוֹטֵי הָנֵי, ״אֹתוֹ״ — לְמַעוֹטֵי חוּלִּין שֶׁנִּשְׁחֲטוּ בַּעֲזָרָה.",
+      "ref": "Pesachim 23b:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חולין בעזרה לאו דאורייתא</strong> - וכי אמר רבי אבהו לא יאכל איסור הנאה משמע אליבא דרבי מאיר אמרה דלית ליה לדברים ככתבן ומדאיצטריך למישרי נבילה מכלל דשאר איסורין כגון חמץ ושור הנסקל אסירי ולאו משום שינוי הלשון שאין חילוק בין לא יאכל ללא יאכל לרבי אבהו אלא מדאיצטריך למישרי נבילה ואותו לר\"מ למעוטי חולין בעזרה:",
+              "ref": "Rashi on Pesachim 23b:8:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ח:א",
+              "sourceRef": "Rashi on Pesachim 23b:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואילו <b>ר' אבהו סבר: \"אתו\" — למעוטי הני</b> <span class=\"hebrew-emphasis\">[למעט</span> את <span class=\"hebrew-emphasis\">אלה],</span> ואילו <b>חולין שנשחטו בעזרה — לאו דאורייתא נינהו</b> <span class=\"hebrew-emphasis\">[לא מן התורה הם]</span> אלא מגזירת חכמים. נמצא שחולקים הם ביחס לדין חולין שנשחטו בעזרה אם הוא מן התורה, ובכך יש גם הבדל הלכה למעשה.",
+              "ref": "Steinsaltz on Pesachim 23b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:ח",
+              "sourceRef": "Steinsaltz on Pesachim 23b:8"
+            }
+          ]
+        }
+      },
+      "en": "However, <b><span href=\"/topics/rabbi-abahu\" class=\"namedEntityLink\" data-slug=\"rabbi-abahu\">Rabbi Abbahu</span> holds</b> that according to <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, who maintained that the prohibition against eating an animal carcass cannot be used to derive the prohibition against deriving benefit: <b>“It</b> shall be thrown to the dog” comes <b>to exclude these</b> two cases, leavened bread and an ox that is stoned, where deriving benefit is prohibited. And the prohibition to derive benefit from <b>non-sacrificial animals slaughtered in the</b> Temple <b>courtyard is not by Torah law,</b> as there is no source from which to derive this prohibition. Therefore, the only practical difference between them is whether the prohibition of deriving benefit from non-sacrificial animals slaughtered in the Temple courtyard is by Torah law or by rabbinic law.",
+      "he": "רַבִּי אֲבָהוּ סָבַר: ״אֹתוֹ״ — לְמַעוֹטֵי הָנֵי, חוּלִּין שֶׁנִּשְׁחֲטוּ בַּעֲזָרָה לָאו דְּאוֹרָיְיתָא נִינְהוּ.",
+      "ref": "Pesachim 23b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">נַחְמָנִי</strong> proper noun of a male person <i>Naḥmani</i>. <span class=\"refLink\" data-ref=\"Pesachim 23b:9\" href=\"/Pesachim.23b.9\">Pesachim 23ᵇ</span>, and from <span dir=\"rtl\">שמואל בר נ׳</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Shabbat 1:4:18\" href=\"Jerusalem_Talmud_Shabbat.1.4.18\">Yerushalmi Shabbat I, 3ᵈ</span> bottom of page <span dir=\"rtl\">נחמן בריה דר׳ שמואל בר נ׳</span>; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Megillah 1:1:10\" href=\"Jerusalem_Talmud_Megillah.1.1.10\">Yerushalmi Megillah I, 70ᵇ</span> top <span dir=\"rtl\">נחמן בריה דר׳ ש׳ בר נחמן</span>; see preceding—<span class=\"refLink\" data-ref=\"Rosh Hashanah 34b:15\" href=\"/Rosh_Hashanah.34b.15\">Rosh Hashanah 34ᵇ</span>, and from <span dir=\"rtl\">רבה בר נ׳</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, נַחְמָנִי 1",
+              "sourceHeRef": "מילון יסטרוב, נַחְמָנִי א׳",
+              "sourceRef": "Jastrow, נַחְמָנִי 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ה\"ג ומאי נינהו חמץ בפסח ושור הנסקל:",
+              "ref": "Rashi on Pesachim 23b:9:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:ט:א",
+              "sourceRef": "Rashi on Pesachim 23b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> מסופר: <b>יתיב ההוא מרבנן קמיה</b> <span class=\"hebrew-emphasis\">[ישב אחד החכמים לפני]</span> <b>ר' שמואל בר נחמני, ויתיב וקאמר משמיה</b> <span class=\"hebrew-emphasis\">[וישב ואמר משמו]</span> של <b>ר' יהושע בן לוי: מנין לכל איסורין שבתורה דכי היכי</b> <span class=\"hebrew-emphasis\">[שכמו]</span> ש<b>אסורין באכילה הכי נמי</b> <span class=\"hebrew-emphasis\">[כך גם כן]</span> <b>אסורין בהנאה? ומאי ניהו</b> <span class=\"hebrew-emphasis\">[ומה הם]</span> אותם איסורים שאנו רוצים להוכיח עליהם — <b>חמץ בפסח ושור הנסקל?</b> ותוהים מיד: מה משמעה של השאלה <b>מנין?! תיפוק ליה</b> <span class=\"hebrew-emphasis\">[יצא</span> ילמד <span class=\"hebrew-emphasis\">לו]</span> אותו האיסור <b>מ</b>הכתוב <b>\"לא יאכל\"!</b> ומשיבים: <b>\"לא יאכל\"</b> רק <b>איסור אכילה משמע ליה</b> <span class=\"hebrew-emphasis\">[נשמע</span> מובן <span class=\"hebrew-emphasis\">לו]</span> מכאן, ואילו <b>איסור הנאה לא משמע ליה</b> <span class=\"hebrew-emphasis\">[נשמע</span> מובן <span class=\"hebrew-emphasis\">לו]</span> מכאן.",
+              "ref": "Steinsaltz on Pesachim 23b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:ט",
+              "sourceRef": "Steinsaltz on Pesachim 23b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It appears that Rabbi Yehoshua ben Levi is presenting an alternate opinion of how to understand the verses. Rabbi Abbahu contends that “You shall not eat” indicates that it is prohibited both to eat and to derive benefit from the item, while according to Ĥizkiya this means that one is prohibited only to eat the item. However, Rabbi Abbahu and Ĥizkiya agree that the expression “It shall not be eaten” indicates that one is prohibited to derive benefit from a certain item as well. Rabbi Yehoshua ben Levi, on the other hand, claims that even this phrase indicates only that it is prohibited to eat the given item; however, deriving benefit from it is permitted.",
+              "he": "מבחינת פירושי המקראות נראה כי לר' יהושע בן לוי שיטה נוספת בהבנתם, שר' אבהו סבור ש\"לא תאכל\" הוא איסור אכילה והנאה, ולדעת חזקיה הוא איסור אכילה בלבד. ולגבי \"לא יאכל\" הסבירו הכל שהוא גם איסור הנאה. ואילו ר' יהושע בן לוי אומר שאף \"לא יאכל\" אינו אלא איסור אכילה בלבד ולא הנאה.",
+              "ref": "Steinsaltz comment #1 on Pesachim 23b:9",
+              "sourceHeRef": "אִיסּוּר הֲנָאָה לֹא מַשְׁמַע לֵיהּ",
+              "sourceRef": "He did not derive a prohibition of deriving benefit"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates: <b>One of the Sages sat before <span href=\"/topics/rabbi-shmuel-b-nahmani\" class=\"namedEntityLink\" data-slug=\"rabbi-shmuel-b-nahmani\">Rabbi Shmuel bar Naḥmani</span>, and he sat and said in the name of <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span>: From where is it derived</b> with regard <b>to all the prohibitions in the Torah that just as it is prohibited to eat them, so too, it is prohibited to benefit from them? And what are</b> the prohibited objects to which this statement refers? They are <b>leavened bread on Passover and an ox that is stoned.</b> The Gemara asks: Why ask <b>from where? Derive</b> the prohibition from the phrase: <b>“It shall not be eaten.”</b> The Gemara answers that <b>he derived a prohibition of eating</b> this item from: <b>“It shall not be eaten”;</b> however, <b>he did not derive a prohibition of</b> deriving <b>benefit</b> from this phrase.",
+      "he": "יָתֵיב הָהוּא מֵרַבָּנַן קַמֵּיהּ דְּרַבִּי שְׁמוּאֵל בַּר נַחְמָנִי, וְיָתֵיב וְקָאָמַר מִשְּׁמֵיהּ דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: מִנַּיִן לְכׇל אִיסּוּרִין שֶׁבַּתּוֹרָה דְּכִי הֵיכִי דַּאֲסוּרִין בַּאֲכִילָה הָכִי נָמֵי אֲסוּרִין בַּהֲנָאָה? וּמַאי נִיהוּ — חָמֵץ בַּפֶּסַח וְשׁוֹר הַנִּסְקָל. מִנַּיִן?! תִּיפּוֹק לֵיהּ מִ״לֹּא יֵאָכֵל״! ״לֹא יֵאָכֵל״, אִיסּוּר אֲכִילָה — מַשְׁמַע לֵיהּ, אִיסּוּר הֲנָאָה — לָא מַשְׁמַע לֵיהּ.",
+      "ref": "Pesachim 23b:9",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> ותיפוק ליה מנבילה ס\"ל כר\"י דאמר דברים כו' ק\"ק דאכתי ת\"ל מדכתיב לכם גבי מינין טמאין לאפוקי ממשמעות דלא יאכל ע\"כ דאיסור הנאה משמע ומיהו מדאיצטריך תרומתכם וקצירכם לא קשה מידי דאימא דס\"ל כחזקיה דכל ישראל קאמר ודו\"ק:",
+              "ref": "Chidushei Halachot on Pesachim 23b:2",
+              "sourceHeRef": "חדושי הלכות על פסחים כ״ג ב:ב",
+              "sourceRef": "Chidushei Halachot on Pesachim 23b:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: <b>תיפוק ליה</b> <span class=\"hebrew-emphasis\">[יצא</span> ילמד <span class=\"hebrew-emphasis\">לו]</span> אותו האיסור <b>מ</b>תוך שהותרה הנאת <b>נבילה</b> במפורש?! ומשיבים: <b>סבר לה</b> <span class=\"hebrew-emphasis\">[סבור הוא]</span> <b>כר' יהודה</b> ש<b>אמר</b> בענין נבילה: הרי זה <b>דברים ככתבן</b> ואינו בא ללמד דבר.",
+              "ref": "Steinsaltz on Pesachim 23b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:י",
+              "sourceRef": "Steinsaltz on Pesachim 23b:10"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara challenges: <b>Derive</b> this general prohibition against deriving benefit <b>from</b> the fact that the Torah had to explicitly permit one to benefit from an <b>animal carcass.</b> The Gemara answers: <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span> <b>holds in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, who said</b> with regard to an animal carcass: The <b>matters are as they are written,</b> and the words in the verse do not indicate anything beyond their simple meaning.",
+      "he": "תִּיפּוֹק לֵיהּ מִנְּבֵילָה?! סָבַר לַהּ כְּרַבִּי יְהוּדָה, דְּאָמַר: דְּבָרִים כִּכְתָבָן.",
+      "ref": "Pesachim 23b:10"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ותיפוק ליה מהיכא דנפקא ליה לרבי יהודה</strong> - לעיל אליבא דרבי אבהו דמייתי ליה מאותו אתה משליך לכלב ואי אתה משליך שאר איסורין:",
+              "ref": "Rashi on Pesachim 23b:11:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:יא:א",
+              "sourceRef": "Rashi on Pesachim 23b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: <b>אי סבר לה</b> <span class=\"hebrew-emphasis\">[אם סבור הוא]</span> <b>כר' יהודה,</b> אם כן <b>תיפוק ליה מהיכא דנפקא ליה</b> <span class=\"hebrew-emphasis\">[תצא לו</span> הלכה זו <span class=\"hebrew-emphasis\">מהיכן שיצאה לו]</span> <b>לר' יהודה,</b> מן הכתוב <b>\"</b>ובשר בשדה טרפה לא תאכלו <b>לכלב תשלכון אתו\"</b> (שמות כב, ל) שדרש: אותו משליכים לכלב, אבל אין משליכים לכלב שאר איסורים שבתורה, ולמדנו מכאן איסור הנאה לחמץ בפסח וכיוצא בו!",
+              "ref": "Steinsaltz on Pesachim 23b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:יא",
+              "sourceRef": "Steinsaltz on Pesachim 23b:11"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "You shall be holy people to Me: you must not eat flesh torn by beasts in the field; you shall cast it to the dogs.",
+              "he": "וְאַנְשֵׁי־קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב תַּשְׁלִכ֥וּן אֹתֽוֹ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Exodus/22",
+              "ref": "Exodus 22:30",
+              "sourceHeRef": "שמות כב:ל",
+              "sourceRef": "Exodus 22:30"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara challenges: <b>If he holds in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>,</b> then <b>let him derive</b> this <i>halakha</i> <b>from where <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> derives it,</b> i.e., <b>from</b> the verse: “And you shall be sacred men unto Me; therefore you shall not eat any flesh that is torn of beasts in the field; <b>you shall cast it to the dog”</b> (Exodus 22:30). <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> expounded that one may throw it to a dog, but one may not throw any of the other prohibited items mentioned in the Torah to a dog. From this he infers that it is prohibited to derive benefit from leavened bread on Passover or from other similar items.",
+      "he": "אִי סָבַר לַהּ כְּרַבִּי יְהוּדָה, תִּיפּוֹק לֵיהּ מֵהֵיכָא דְּנָפְקָא לֵיהּ לְרַבִּי יְהוּדָה, מִ״לַּכֶּלֶב תַּשְׁלִיכוּן אֹתוֹ״!",
+      "ref": "Pesachim 23b:11"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קא סבר</strong> - האי תנא:",
+              "ref": "Rashi on Pesachim 23b:12:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:יב:א",
+              "sourceRef": "Rashi on Pesachim 23b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חולין שנשחטו בעזרה</strong> - אסורין בהנאה מדאורייתא ונפקא ליה מאותו ומיבעי ליה קרא אחרינא לשאר איסורין:",
+              "ref": "Rashi on Pesachim 23b:12:2",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:יב:ב",
+              "sourceRef": "Rashi on Pesachim 23b:12:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל חטאת אשר יובא מדמה</strong> - לאו בחטאות הפנימיות שהובא דמן כמצוותן לפנים כתיב דהא בהדיא כתיב בהן בפר כהן משיח והעלם דבר שריפתן מחוץ למחנה אלא ללמד על חטאת החיצונה דאם הכניס דמה לפנים פסולה:",
+              "ref": "Rashi on Pesachim 23b:12:3",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:יב:ג",
+              "sourceRef": "Rashi on Pesachim 23b:12:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>קסבר</b> <span class=\"hebrew-emphasis\">[סבור הוא]</span> חכם זה כי <b>חולין שנשחטו בעזרה</b> אסורים בהנאה <b>דאורייתא</b> <span class=\"hebrew-emphasis\">[מן התורה],</span> ו\"אותו\" שנאמר בכתוב בא ללמד לענין איסור הנאתם. ו<b>מנין</b> למד הוא איסור הנאה בשאר דברים, <b>דכתיב</b> <span class=\"hebrew-emphasis\">[שנאמר]</span> <b>\"וכל חטאת אשר יובא מדמה</b> אל אוהל מועד לכפר בקודש לא תאכל באש תשרף<b>\"</b> (ויקרא ו, כג),",
+              "ref": "Steinsaltz on Pesachim 23b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:יב",
+              "sourceRef": "Steinsaltz on Pesachim 23b:12"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But no sin offering may be eaten from which any blood is brought into the Tent of Meeting for expiation in the sanctuary; any such shall be consumed in fire.",
+              "he": "וְכׇל־חַטָּ֡את אֲשֶׁר֩ יוּבָ֨א מִדָּמָ֜הּ אֶל־אֹ֧הֶל מוֹעֵ֛ד לְכַפֵּ֥ר בַּקֹּ֖דֶשׁ לֹ֣א תֵאָכֵ֑ל בָּאֵ֖שׁ תִּשָּׂרֵֽף׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+              "link": "/Leviticus/6",
+              "ref": "Leviticus 6:23",
+              "sourceHeRef": "ויקרא ו:כג",
+              "sourceRef": "Leviticus 6:23"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara responds: This Sage <b>holds</b> that the prohibition to derive benefit from <b>non-sacrificial animals that were slaughtered in the</b> Temple <b>courtyard is by Torah law,</b> and that it is the word “it” in the verse that indicates they are prohibited. And <b>from where</b> is it derived that this prohibition against deriving benefit applies to leavened bread and to an ox that is stoned as well? <b>As it is written: “And no sin-offering, of which any of the blood is brought</b> into the Tent of Meeting to make atonement in the sacred place, shall be eaten; it shall be burnt with fire” (Leviticus 6:23).",
+      "he": "קָסָבַר: חוּלִּין שֶׁנִּשְׁחֲטוּ בָּעֲזָרָה דְּאוֹרָיְיתָא. מִנַּיִן, דִּכְתִיב: ״כׇּל חַטָּאת אֲשֶׁר יוּבָא מִדָּמָהּ וְגוֹ׳״.",
+      "ref": "Pesachim 23b:12"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אם אינו ענין לגופו דהא כתיב והנה שורף</strong> - בשעיר נחשון בויהי ביום השמיני וקאמר להו משה למה שרפתם אותו הן לא הובא את דמה אל הקדש פנימה מכלל דאם הובא שפיר עבוד דשרפוה אלמא בת שריפה היא:",
+              "ref": "Rashi on Pesachim 23b:13:1",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:יג:א",
+              "sourceRef": "Rashi on Pesachim 23b:13:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לכל איסורין</strong> - שנאמר בהן לאו באכילתן כזה ועל כרחיך לא מייתי אלא חמץ בפסח ושור הנסקל דבשאר איסורים כתיב פרטא להיתירא:",
+              "ref": "Rashi on Pesachim 23b:13:2",
+              "sourceHeRef": "רש\"י על פסחים כ״ג ב:יג:ב",
+              "sourceRef": "Rashi on Pesachim 23b:13:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שאין תלמוד לומר \"באש תשרף\",</b> כאשר יבואר, <b>ו</b>אלא <b>מה תלמוד לומר \"באש תשרף\"? אם אינו ענין לגופו,</b> שדבר זה יודעים אנו כבר ממה <b>דכתיב</b> <span class=\"hebrew-emphasis\">[ש</span>הרי כבר <span class=\"hebrew-emphasis\">נאמר]</span> <b>\"</b>ואת שעיר החטאת דרוש דרש משה <b>והנה שרף\"</b> (ויקרא י, טז), ולמדנו שאילו הובא היה נשרף, ואין צורך בחזרה על הלכה זו, לכן <b>תנהו ענין לכל איסורין שבתורה</b> שנאסרו באכילה,",
+              "ref": "Steinsaltz on Pesachim 23b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים כ״ג ב:יג",
+              "sourceRef": "Steinsaltz on Pesachim 23b:13"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה דכתיב והנה כו' ובת\"כ דרש בהדיא אשעיר דר\"ח מדכתיב ואותה וגו' עכ\"ל גם בתלמוד דידן במס' זבחים פרק ט\"י איתא בהדיא דשעיר ר\"ח הוה ומייתי לה נמי מהאי קרא ואותה נתן וגו' ע\"ש וק\"ל:",
+                      "ref": "Chidushei Halachot on Pesachim 23b:3",
+                      "sourceHeRef": "חדושי הלכות על פסחים כ״ג ב:ג",
+                      "sourceRef": "Chidushei Halachot on Pesachim 23b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דכתיב והנה שורף</strong> - פרש\"י בשעיר נחשון ובת\"כ דריש בהדיא אשעיר דראש חודש מדכתיב ואותה נתן לכם וגו' והיינו של ר\"ח דמכפר עון על טומאת מקדש וקדשיו:",
+              "ref": "Tosafot on Pesachim 23b:13:1",
+              "sourceHeRef": "תוספות על פסחים כ״ג ב:יג:א",
+              "sourceRef": "Tosafot on Pesachim 23b:13:1"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> דהא כתיב כו' כל שפסולו בקדש בשריפה. נ\"ב ומה שאמר דכתיב והנה שורף הכי פירושו אם אינו ענין לגופו דהא קיימא לן כל שפסולו בקדש כו' ולא נכתב אצל אהרן אלא משום מעשה שהיה הוא מספר דכתיב והנה שורף כלומר דרך מעשה עיין לקמן <span class=\"parenthesized\">(פסחים ד' ס\"ג:)</span>",
+                      "ref": "Chokhmat Shlomo on Pesachim 23b:3",
+                      "sourceHeRef": "חכמת שלמה על פסחים כ״ג ב:ג",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 23b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דהא כתיב והנה שורף</strong> - פרש\"י ואמר להו משה הן לא הובא את דמה אל הקדש פנימה מכלל דאם הובא שפיר עבוד דשרפוה הקשה הרב רבינו שלמה מטרויש הא על כרחיך לאו שפיר עבוד דשרפוה דהא שרפוה בלא עיבור צורה ואמר בפרק כיצד צולין <span class=\"parenthesized\">(לקמן פסחים פב:)</span> כל שפסולו בגופו ישרף מיד בדם ובבעלים תעובר צורתו ויצא לשריפה וקרא ה\"ק מדוע לא אכלתם את החטאת הן לא הובא את דמה הא אם הובא שפיר עבוד דלא אכלוה ואומר ר\"י דה\"פ אם אינו ענין לגופה דהא קיי\"ל בפרק כיצד צולין <span class=\"parenthesized\">(גם זה שם)</span> כל שפסולו בקדש בשריפה וחטאת דאהרן משום מעשה שהיה תנהו לכל איסורים:",
+              "ref": "Tosafot on Pesachim 23b:13:2",
+              "sourceHeRef": "תוספות על פסחים כ״ג ב:יג:ב",
+              "sourceRef": "Tosafot on Pesachim 23b:13:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Then Moses inquired about the goat of sin offering, and it had already been burned! He was angry with Eleazar and Ithamar, Aaron’s remaining sons, and said,",
+              "he": "וְאֵ֣ת <b>׀</b> שְׂעִ֣יר הַֽחַטָּ֗את דָּרֹ֥שׁ דָּרַ֛שׁ מֹשֶׁ֖ה וְהִנֵּ֣ה שֹׂרָ֑ף וַ֠יִּקְצֹ֠ף עַל־אֶלְעָזָ֤ר וְעַל־אִֽיתָמָר֙ בְּנֵ֣י אַהֲרֹ֔ן הַנּוֹתָרִ֖ם לֵאמֹֽר׃",
+              "link": "/Leviticus/10",
+              "ref": "Leviticus 10:16",
+              "sourceHeRef": "ויקרא י:טז",
+              "sourceRef": "Leviticus 10:16"
+            }
+          ]
+        }
+      },
+      "en": "<b>As</b> there is <b>no</b> need for <b>the verse to state: “It shall be burnt with fire”; And</b> for <b>what</b> purpose then does <b>the verse state: “It shall be burnt with fire”? If it does not</b> apply to the subject <b>matter itself</b> in its context, <b>as it is</b> already <b>written:</b> “And <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moshe</span> diligently inquired about the goat of the sin-offering, <b>and, behold, it was burnt”</b> (Leviticus 10:16), <b>apply it to the matter of all the prohibitions in the Torah.</b>",
+      "he": "שֶׁאֵין תַּלְמוּד לוֹמַר ״בָּאֵשׁ תִּשָּׂרֵף״, וּמָה תַּלְמוּד לוֹמַר ״בָּאֵשׁ תִּשָּׂרֵף״? אִם אֵינוֹ עִנְיָן לְגוּפוֹ, דִּכְתִיב ״וְהִנֵּה שֹׂרָף״, תְּנֵהוּ עִנְיָן לְכׇל אִיסּוּרִין שֶׁבַּתּוֹרָה.",
+      "ref": "Pesachim 23b:13"
+    }
+  ],
+  "title": "Pesachim 23b",
+  "titleHebrew": "פסחים כג,ב",
+  "topics": []
+}

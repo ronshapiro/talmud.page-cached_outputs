@@ -1,0 +1,741 @@
+{
+  "id": "18b",
+  "sections": [
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>\"ביום ההוא\" למה לי?</b> אלא, <b>אם אינו ענין ל</b>יום ה<b>שמיני,</b> שאין צורך לומר \"ביום ההוא\" שהרי בו מדובר, <b>תנהו ענין ל</b>יום ה<b>שביעי</b> והכוונה: \"ביום ההוא\" — ביום שהשלים ימי טהרתו. ושואלים: <b>ו</b>לדעת <b>רבי נמי</b> <span class=\"hebrew-emphasis\">[גם כן</span><span class=\"hebrew-emphasis\">]</span> <b>הכתיב</b> <span class=\"hebrew-emphasis\">[הרי נאמר</span><span class=\"hebrew-emphasis\">]</span> <b>\"ביום ההוא\"</b> ומה למד הוא ממילים נוספות אלה? ומשיבים: <b>אמר</b> <span class=\"hebrew-emphasis\">[</span>יכול היה לומר<span class=\"hebrew-emphasis\">]</span> <b>לך רבי:</b> הכתוב <b>ההוא להכי</b> <span class=\"hebrew-emphasis\">[לכך</span><span class=\"hebrew-emphasis\">]</span> <b>הוא דאתא</b> <span class=\"hebrew-emphasis\">[שבא</span><span class=\"hebrew-emphasis\">] —</span> <b>לומר לך: אף על פי</b> ש<b>לא הביא קרבנותיו</b> מתחיל למנות נזירות טהרה מן היום השמיני. ולכן ההדגשה \"וקידש את ראשו ביום ההוא\" שהדבר תלוי ביום ולא בקרבן.",
+              "ref": "Steinsaltz on Nazir 18b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:א",
+              "sourceRef": "Steinsaltz on Nazir 18b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The exegetic method of: If it does not apply to the matter, does not propose to link two unrelated matters. Rather, it applies one verse to a similar matter whose <i>halakha</i> is not explicit in the Torah. In this case, some commentaries understand that the derivation that “on that day” refers to the seventh day is due to the fact that these words seem superfluous (<i>Tosafot</i>; Rabbeinu Peretz). Others explain that this should be understood as an application of the exegetic principle: One restrictive expression after another restrictive expression serves to amplify, as the verse says “on that day,” which is a restriction, after already having stated that he must start counting from that day, another restriction. The double restriction therefore comes to include the seventh day (<i>Tosafot</i>; Rosh; Rabbeinu Peretz).",
+              "he": "דרך הלימוד במדת \"אם אינו ענין\" בכללה אינה שרירותית לגמרי, ואין מצמידים בה דבר לענין אחר בלא קשר, אלא שלמדים בדרך זו לדבר הקשור באותו נושא, אף שאינו מפורש בכתוב. ובפרטי הדרשה יש מסבירים שהלימוד כאן הוא מייתור הכתוב, שאינו נחוץ לעניינו (תוס', ר\"פ). ויש מסבירים שיש לראות כאן מעין דרך הלימוד של \"אין מיעוט אחר מיעוט אלא לרבות\", שכיון שכבר נאמר מתי מתחיל למנות, וחוזר וממעט בהדגשה \"ביום ההוא\" ולא באחר, הרי ממיעוט אחר מיעוט למדים אנו לרבות אף יום השביעי (תוס'. רא\"ש. ר\"פ).",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:1",
+              "sourceHeRef": "אִם אֵינוֹ עִנְיָן לַשְּׁמִינִי",
+              "sourceRef": "If it does not apply to the matter of the eighth"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורבי ביום ההוא למה לי</strong> - דממילא ידעינן דאשמיני קאי:",
+              "ref": "Tosafot on Nazir 18b:1:1",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:א:א",
+              "sourceRef": "Tosafot on Nazir 18b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אע\"פ שלא הביא קרבנותיו</strong> - דפשטיה דקרא משמע דלא חייל עליה נזירות עד שיכפר בעולה ובחטאת דכתיב בקרא [קודם] וקדש ראשו והשתא אתי יתורא דביום ההוא לאשמועינן דחייל עליה נזירות ביום שמיני אע\"פ שלא הביא קרבנותיו:",
+              "ref": "Tosafot on Nazir 18b:1:2",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:א:ב",
+              "sourceRef": "Tosafot on Nazir 18b:1:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation on his behalf for the guilt that he incurred through the corpse. That same day he shall reconsecrate his head",
+              "he": "וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א עַל־הַנָּ֑פֶשׁ וְקִדַּ֥שׁ אֶת־רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:11",
+              "sourceHeRef": "במדבר ו:יא",
+              "sourceRef": "Numbers 6:11"
+            }
+          ]
+        }
+      },
+      "en": "<b>Why do I</b> need the extra phrase <b>“on that day”</b> (Numbers 6:11)? This teaches that <b>if it does not</b> apply <b>to the matter</b> of the <b>eighth</b> day, since the verse is speaking of that day anyway, <b>apply it to the matter of</b> the <b>seventh</b> day, so that “on that day” means the day when he becomes ritually purified, even before he brings his offerings. The Gemara asks: <b>And</b> according to <b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi</span></b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\"> Yehuda HaNasi</span> <b>also, isn’t it written “on that day”?</b> What <i>halakha</i> does he derive from these additional words? The Gemara answers: <b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi</span></b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\"> Yehuda HaNasi</span> could have <b>said to you: That</b> verse <b>comes for this</b> purpose, <b>to tell you</b> that <b>even though he did not</b> yet <b>bring his offerings,</b> he starts counting his naziriteship of purity from the eighth day. This is derived from the verse’s emphasis of: “And he shall sanctify his head on that day,” indicating that it depends on the day itself, rather than the bringing of the offerings.",
+      "he": "״בְּיוֹם הַהוּא״ לְמָה לִי? אִם אֵינוֹ עִנְיָן לִשְׁמִינִי, תְּנֵהוּ עִנְיָן לִשְׁבִיעִי. וְרַבִּי נָמֵי, הָכְתִיב ״בַּיּוֹם הַהוּא״? אָמַר לְךָ רַבִּי: הָהוּא לְהָכִי הוּא דַּאֲתָא — לוֹמַר לָךְ: אַף עַל פִּי שֶׁלֹּא הֵבִיא קׇרְבְּנוֹתָיו.",
+      "ref": "Nazir 18b:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורב חסדא מאי דוחקיה לאוקמיה כרבי יוסי ברבי יהודה לוקמה כרבי</strong> - ומשכחת לה דאית בהו טומאות הרבה:",
+              "ref": "Rashi on Nazir 18b:2:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ב:א",
+              "sourceRef": "Rashi on Nazir 18b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כגון דחזיא בליל שמיני</strong> - כלומר דנטמא בליל שמיני והאי דאמר דחזיא לאו דוקא הכא אלא איידי דנקיט לה במס' כריתות נקטיה להכא וחזר ונטמא בליל שמיני דטומאות הרבה איכא מכיון דנטמא בליל ח' וחיילא עליה טהרה ואינו חייב עליהן אלא קרבן אחד לפי שעדיין לא הגיע יום שמיני שהיתה שעה הראויה להביא בה קרבן:",
+              "ref": "Rashi on Nazir 18b:2:2",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ב:ב",
+              "sourceRef": "Rashi on Nazir 18b:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ורב חסדא מאי דוחקיה לאוקמיה</b> <span class=\"hebrew-emphasis\">[מה דוחקו להעמיד</span><span class=\"hebrew-emphasis\">]</span> משנה זו דווקא <b>כר' יוסי בר' יהודה? לוקמה</b> <span class=\"hebrew-emphasis\">[שיעמיד אותה</span><span class=\"hebrew-emphasis\">]</span> שמדובר <b>כגון</b> ש<b>נטמא דחזיא</b> <span class=\"hebrew-emphasis\">[שראה</span><span class=\"hebrew-emphasis\">]</span> כל פעם טומאה <b>בליל שמיני,</b> ויש כאן מצד אחד טומאות הרבה, כיון שחלה עליו כבר נזירות טהרה מאותו זמן. ובכל זאת אינו מביא אלא קרבן אחד על כולן משום שבכל פעם היתה הטומאה בלילה, בזמן שאין ראוי עדיין להביא בו קרבן על הטומאה הקודמת, שהרי אין קרבן קרב אלא ביום. <b>ו</b>אם כן יתפרש שהמשנה כשיטת <b>רבי היא!</b>",
+              "ref": "Steinsaltz on Nazir 18b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:ב",
+              "sourceRef": "Steinsaltz on Nazir 18b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The word seeing is problematic in this context, as the only type of ritual impurity relevant to a nazirite is ritual impurity contracted by coming into contact with or close proximity to a corpse, and the word seeing, in the context of ritual impurity, is referring to one who experiences a ritually impure discharge. The early commentaries have offered various explanations for the usage of this term. The Commentary on<i> Nazir</i> states that the quotation is taken in its entirety from the parallel discussion in tractate <i>Karetot</i> (8a) that refers to the ritual impurity of a <i>zava</i>, where the term is entirely appropriate.",
+              "he": "לשון \"דחזיא\" אינה מתאימה כאן וכבר התקשו בה ראשונים (ראה בגרסות, וראה בתוס'). וכתב המפרש שלשון זו הובאה בשלימותה מן הסוגיה המקבילה במסכת כריתות, ושם מדובר בטומאת זיבה. ואילו כאן מדובר במי שנטמא בטומאת מת.",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:2",
+              "sourceHeRef": "דְּנִטְמָא דְּחַזְיָא בְּלֵיל שְׁמִינִי",
+              "sourceRef": "One became impure by seeing impurity on the night preceding the eighth"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לוקמה כרבי וכגון שנטמא בליל שמיני</strong> - דחייל עליה נזירות קודם הבאת קרבנותיו ול\"ג [דחזא] פי' כיון [דמרבינן] לרבי ביום השמיני אע\"פ שלא הביא קרבנותיו א\"כ גם בליל שמיני חייל עליה נזירות ושייך ליום שמיני ומעתה נוקי למתני' כרבי דנטמא בליל ח' דכיון דחייל עליה נזירות טומאות הרבה יש כאן ומ\"מ פוטר עצמו בקרבן אחד לפי שלא יצא שעה אחת הראויה להביא קרבנותיו דאין מקריבין קרבנות בלילה מביום צוותו מדלא מוקי לה הכי נימא קסבר ליליא לאו מחוסר זמן הוא פי' ולא לענין שיוכל להקריבו בלילה אלא דחשבינן ליה כיצא לשעה שראוי להקריב קרבנותיו ולא יפטר בקרבן טומאה אחד:",
+              "ref": "Tosafot on Nazir 18b:2:1",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ב:א",
+              "sourceRef": "Tosafot on Nazir 18b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And what forced <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> to establish</b> this mishna <b>in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-yose-b-yehudah\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-yehudah\">Rabbi Yosei, son of Rabbi Yehuda</span>? Let him establish it</b> as referring to a case <b>where</b> one <b>became impure by seeing,</b> i.e., contracting, impurity <b>on the night</b> preceding <b>the eighth</b> day each time. Even according to <span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi Yehuda HaNasi</span>, the naziriteship of purity begins at the start of, presumably the night preceding, the eighth day. Therefore, this case will be one of a nazirite contracting ritual impurity many times. Nevertheless, the nazirite will be obligated to bring only one set of offerings for all of them, because each case of ritual impurity occurred at night, when he is unable to bring the offerings for his previous ritual impurity, as offerings can be brought only during the day. <b>And</b> therefore <b>it is</b> in accordance with the opinion of <b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi</span></b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\"> Yehuda HaNasi</span>.",
+      "he": "<span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">וְרַב חִסְדָּא</span>, מַאי דּוּחְקֵיהּ לְאוֹקֹמַיהּ כְּרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה? לוֹקְמַהּ כְּגוֹן דְּנִטְמָא דְּחַזְיָא בְּלֵיל שְׁמִינִי, וְרַבִּי הִיא!",
+      "ref": "Nazir 18b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומדלא מוקים לה</strong> - רב חסדא בכה\"ג ואליבא דרבי תיפשוט מינה דאית ליה לרב חסדא דלילה לאו מחוסר זמן הוא דאם נטמא בליל שמיני הוה כנטמא ביום שמיני דנטמא בשעה שראויה להביא קרבן אע\"ג דאינו קרב עד היום דמיא הלילה ליום וחייב קרבן על כל אחת ואחת:",
+              "ref": "Rashi on Nazir 18b:3:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ג:א",
+              "sourceRef": "Rashi on Nazir 18b:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים: <b>מ</b>תוך זה ש<b>לא מוקים לה</b> <span class=\"hebrew-emphasis\">[העמיד אותה</span><span class=\"hebrew-emphasis\">]</span> <b>כרבי</b> ובדרך הסבר זו, <b>לימא קסבר</b> <span class=\"hebrew-emphasis\">[האם לומר ש</span>הוא, רב חסדא, סבור<span class=\"hebrew-emphasis\">]</span> כי <b>ליליא לאו</b> <span class=\"hebrew-emphasis\">[לילה לא</span><span class=\"hebrew-emphasis\">]</span> <b>מחוסר זמן הוא</b> נחשב, שאף שאינו יכול להביא קרבנו בפועל, אינו נקרא מחוסר זמן, אלא הוא נחשב כחלק מן היום הראוי להבאת קרבן, ולכן הנטמא בערב שלפני יום שמיני דינו כנטמא ביום השמיני עצמו, שצריך להביא קרבן נוסף?",
+              "ref": "Steinsaltz on Nazir 18b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:ג",
+              "sourceRef": "Steinsaltz on Nazir 18b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אין הכוונה לומר לענין שניתן להקריב בו קרבנות, שבודאי אין הלילה זמן קרבן (כפי שאנו למדים מן הכתובים), אלא לענין שייחשב לו כזמן הראוי להביא בו קרבן (תוס'), והנטמא בלילה דינו כמי שנטמא ביום שאחריו (מפרש).",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:3",
+              "sourceHeRef": "ליליא לאו מחוסר זמן",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara suggests: <b>Since he did not establish it in accordance with</b> the opinion of <b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi</span></b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\"> Yehuda HaNasi</span> in this way, <b>shall we say that</b> <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> <b>holds</b> that <b>night is not</b> considered <b>premature?</b> In other words, although he cannot in practice bring his offerings until the morning, as the Temple service was performed only in the daytime, the night is not considered a premature time, but rather it is viewed as part of the day in which it is appropriate to bring his offerings. Consequently, the <i>halakha</i> of one who becomes ritually impure on the night preceding the eighth day is the same as that of one who contracted ritual impurity on the eighth day itself, and they are both required to bring an additional set of offerings.",
+      "he": "מִדְּלָא מוֹקֵים לַהּ <span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">כְּרַבִּי</span>, לֵימָא קָסָבַר לֵילְיָא לָאו מְחוּסַּר זְמַן הוּא?",
+      "ref": "Nazir 18b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רב אדא בר אהבה</strong> - אפילו אי אית ליה לרב חסדא דלילה מחוסר זמן הוא אכתי לא מתוקמא ליה כרבי דהא בהא תליא:",
+              "ref": "Rashi on Nazir 18b:4:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ד:א",
+              "sourceRef": "Rashi on Nazir 18b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאי אמרת לרבי מחוסר זמן הויא אימת מיתחזי לקרבן לצפרא ונזירות טהרה נמי לא חיילא עליה עד צפרא</strong> - והילכך כי מיטמי בליל שמיני כולה טומאה אריכתא היא ולית לך למימר בהו טומאות הרבה ואי אמרת דלרבי אינו מחוסר זמן דלילה נמי זמן הקרבה ואית בהו טומאות הרבה נזירות טהרה נמי חיילא מאורתא וחייב קרבן על כל טומאה וטומאה הילכך לא מיתוקמא כרבי כלל:",
+              "ref": "Rashi on Nazir 18b:4:2",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ד:ב",
+              "sourceRef": "Rashi on Nazir 18b:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב אדא בר אהבה:</b> יש לדחות את הדברים, שהרי אף אם היה רב חסדא סבור שלילה מחוסר זמן, לא יכול היה להעמיד את המשנה כרבי, שכן הקרבן והנזירות החדשה <b>הא בהא תליא</b> <span class=\"hebrew-emphasis\">[זה בזה תלוי</span><span class=\"hebrew-emphasis\">],</span> <b>אי אמרת</b> <span class=\"hebrew-emphasis\">[אם אומר אתה</span><span class=\"hebrew-emphasis\">]</span> <b>ליליא</b> <span class=\"hebrew-emphasis\">[הלילה</span><span class=\"hebrew-emphasis\">]</span> <b>מחוסר זמן,</b> אם כן <b>אימת מיחזי</b> <span class=\"hebrew-emphasis\">[מתי</span> הוא נעשה ראוי<span class=\"hebrew-emphasis\">]</span> <b>לקרבן —</b> <b>לצפרא</b> <span class=\"hebrew-emphasis\">[בבוקר</span><span class=\"hebrew-emphasis\">]</span> בלבד, בהתאם לכך <b>נזירות נמי</b> <span class=\"hebrew-emphasis\">[גם כן</span><span class=\"hebrew-emphasis\">]</span> <b>לא חיילא</b> <span class=\"hebrew-emphasis\">[חלה</span><span class=\"hebrew-emphasis\">]</span> <b>עד צפרא</b> <span class=\"hebrew-emphasis\">[הבוקר</span><span class=\"hebrew-emphasis\">].</span> <b>ואי אמרת</b> <span class=\"hebrew-emphasis\">[ואם אומר אתה</span><span class=\"hebrew-emphasis\">]</span> ש<b>ליליא</b> <span class=\"hebrew-emphasis\">[הלילה</span><span class=\"hebrew-emphasis\">]</span> <b>אינו מחוסר זמן</b> וכבר נתחייב בקרבן — אם כן <b>נזירות טהרה חיילא מאורתא</b> <span class=\"hebrew-emphasis\">[חלה מהערב</span><span class=\"hebrew-emphasis\">],</span> ובטומאה זו שנטמא בלילה מתחייב בקרבן נוסף. ואם כן, בכל אופן שנדון בהלכה של מחוסר זמן בלילה, אי אפשר להעמיד את המשנה כשיטת רבי, וממילא גם אי אפשר ללמוד מכאן על דעתו של רב חסדא.",
+              "ref": "Steinsaltz on Nazir 18b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:ד",
+              "sourceRef": "Steinsaltz on Nazir 18b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "זב שספר שבעה ימי טהרה, ועליו להביא קרבן ביום השמיני, ובליל השמיני ראה זוב באופן המחייבו קרבן — אף שאין זיבתו סותרת, שיצא מכלל שבעת ימי טהרתו, אינו מביא קרבן נוסף על מה שראה באותו לילה. לפי שלא יצא לזמן שראוי לקרבן, והלילה מחוסר זמן הוא לכל ענין קרבנות (חוץ מיולדת שהפילה בליל שמונים ואחד שמביאה קרבן שני, ודבר זה נלמד מפי הקבלה). (רמב\"ם ספר קרבנות הלכות מחוסרי כפרה פ\"ג ה\"ד).",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:4",
+              "sourceHeRef": "ליליא מחוסר זמן",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא בהא תליא</strong> - ולא מצי אתיא כרבי:",
+              "ref": "Tosafot on Nazir 18b:4:1",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ד:א",
+              "sourceRef": "Tosafot on Nazir 18b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג אי אמרת לילה מחוסר זמן אימת מייתי קרבן עד צפרא נזירות נמי לא חייל עד צפרא</strong> - דכפר וקדש כתיב בשעה שראויה להביא קרבן חייל נזירות טהרה כי נטמא בלילה לא הוו טומאות הרבה אלא טומאה אריכתא ואי קסבר לילה לאו מחוסר זמן להחשב כשעה שראויה להקריב בלילה נזירות נמי חייל מחמתה ומיחייב קרבן טומאה על כל אחת ואחת:",
+              "ref": "Tosafot on Nazir 18b:4:2",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ד:ב",
+              "sourceRef": "Tosafot on Nazir 18b:4:2"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-adda-b-ahavah-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-אדא-בר-אהבה-(ambiguous)\">Rav Adda bar Ahava</span> said:</b> This conclusion is incorrect, as even if <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> holds that the night is considered to be premature, he could not establish the mishna in accordance with the opinion of <span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi Yehuda HaNasi</span>, as the offerings and his new term of naziriteship <b>depend on each other: If you say night is</b> considered <b>premature, when is</b> he <b>fit to</b> bring his <b>offerings?</b> Only <b>in the morning.</b> Accordingly, <b>naziriteship also does not take effect until the morning. And if you say night is not</b> considered <b>premature,</b> and he is already obligated in his offerings at night, in that case <b>naziriteship of purity takes effect from the evening,</b> which means that the ritual impurity he suffered at night renders him obligated to bring an additional set of offerings. Consequently, the mishna does not follow the opinion of <span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi Yehuda HaNasi</span>, whether night is considered premature or not, and nothing can be inferred from here with regard to <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span>’s opinion in that matter.",
+      "he": "אָמַר <span href=\"/topics/rav-adda-b-ahavah-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-אדא-בר-אהבה-(ambiguous)\">רַב אַדָּא בַּר אַהֲבָה</span>: הָא בְּהָא תַּלְיָא. אִי אָמְרַתְּ לֵילְיָא מְחוּסַּר זְמַן, אֵימַת מִיחְזֵי לְקׇרְבָּן — לְצַפְרָא, נְזִירוּת נָמֵי לָא חָיְילָא עַד צַפְרָא. וְאִי אָמְרַתְּ לֵילְיָא אֵינוֹ מְחוּסַּר זְמַן — נְזִירוּת טׇהֳרָה חָיְילָא מֵאוּרְתָּא.",
+      "ref": "Nazir 18b:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג ת\"ר נטמא בשביעי וחזר ונטמא כו'</strong> - ואית ספרים דגרסי ביה גופא נטמא בשביעי כו' ושבושא הוא דקי\"ל דכל היכא דכתב גופא דכבר נשנית ההיא שמעתא לעיל ואילו הכא לא נשנית כלל:",
+              "ref": "Rashi on Nazir 18b:5:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ה:א",
+              "sourceRef": "Rashi on Nazir 18b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מתחיל ומונה</strong> - לנזירות טהרה מיד כיון שהגיע שמיני ואפילו שלא הביא קרבנותיו דברי ר' אליעזר:",
+              "ref": "Rashi on Nazir 18b:5:2",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ה:ב",
+              "sourceRef": "Rashi on Nazir 18b:5:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> <b>גופא</b> <span class=\"hebrew-emphasis\">[לגופא</span><span class=\"hebrew-emphasis\">]</span> של הלכה שהזכרנו, מביאים ברייתא: נזיר שנטמא וחזר ו<b>נטמא בשביעי</b> לטהרתו, <b>וחזר ונטמא בשביעי —</b> <b>אינו מביא אלא קרבן אחד. נטמא בשמיני</b> <b>וחזר ונטמא בשמיני —</b> <b>מביא קרבן על כל אחד ואחד</b> מהפעמים שנטמא. ומכל מקום <b>מתחיל ומונה מיד</b> ביום השמיני לנזירות טהרה, אף שלא הביא קרבנותיו, אלו <b>דברי ר' אליעזר.</b>",
+              "ref": "Steinsaltz on Nazir 18b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:ה",
+              "sourceRef": "Steinsaltz on Nazir 18b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The early commentaries are puzzled by the use of this term, which is usually used to indicate that the Gemara is returning to analyze in detail a <i>baraita</i> or mishna that was previously cited in passing. In this case the <i>baraita</i> now discussed was not quoted earlier at all. For this reason, some early commentaries (see Commentary on<i> Nazir</i> and <i>Tosafot</i>) emend the text and replace this term with: The Sages taught. However, the Rosh and others point out that the language of <i>Nazir </i>is peculiar in many respects, and it is possible that the standard text is correct, and the word here is used to mean that the Gemara is returning to analyze the topic mentioned earlier, even though this <i>baraita</i> was not quoted.",
+              "he": "ראשונים תהו על לשון זו, לפי שמשמעות ביטוי זה בתלמוד היא שכאשר מובא בסוגיה קודמת דבר מן המשנה או הברייתא, ואחר כך רוצים לדון בו בהרחבה לעצמו אומרים \"גופא\". אבל כאן לא הוזכרה ברייתא זו כלל! ומשום כך היו מן הראשונים (ראה במפרש ובתוס') שמחקוה וגרסו במקום זה \"תנו רבנן\" (וראה בגרסות). אכן, הרא\"ש (וכן אחרים) סבור שבכלל לשון מסכת נזיר משונה, ויתכן כי הגרסה היא במקומה, ואף שלא הוזכרה ברייתא זו עצמה קודם לכן, הרי הנושא הוזכר כבר קודם.",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:5",
+              "sourceHeRef": "גּוּפָא",
+              "sourceRef": "The matter itself"
+            },
+            {
+              "en": "The Commentary on<i> Nazir</i> explains that this is referring to the eighth day, since Rabbi Eliezer holds that the time that his ritually pure naziriteship begins is dependent on the start of the day on which he can bring his offerings, rather than the bringing of the offerings in actuality. However, <i>Tosafot</i> and many other early commentaries question this explanation, since Rabbi Eliezer stated in the mishna (16b) that one is obligated to bring offerings for impurity only if he had observed more than one day of ritually pure naziriteship. If he became impure immediately after starting to count on the eighth day, he would not incur an obligation to bring an additional set of offerings. Consequently, they explain that this means that he begins counting his naziriteship on the seventh day, so that his seventh day and part of the eighth are considered his first days. Some early commentaries (see <i>Shita Mekubbetzet</i>) emend the text to read: This is the statement of Rabbi Yehuda HaNasi. This would fit with Rabbi Yehuda HaNasi’s earlier opinion that he begins counting at the start of the eighth day.",
+              "he": "וכתבו התוס' שאף שסבור ר' אליעזר שנזירות טהרה חלה עליו מן היום השביעי כיון שעדיין לא הגיע זמן הבאת קרבנותיו, הרי על כל מה שנטמא מביא רק קרבן אחד.",
+              "ref": "Steinsaltz comment #2 on Nazir 18b:5",
+              "sourceHeRef": "מַתְחִיל וּמוֹנֶה מִיָּד",
+              "sourceRef": "He begins counting immediately"
+            },
+            {
+              "en": "",
+              "he": "המפרש ועוד פירשו: ביום השמיני, כי לשיטתו אין התחלת נזירות הטהרה תלויה בהבאת הקרבן אלא ביום הראוי לכך (מפרש). אבל בתוס' (ועוד הרבה ראשונים) נדחקו בפירוש פרטי הדברים לשיטת ר' אליעזר, לפי שהוא סבור במשנה שאינו מביא קרבן על טומאה עד שיהו לו ימים ראשונים, ולפיכך פירשו כי מדובר כאן ביום השביעי, וכך עולים לו יום השביעי ומקצת היום השמיני ל\"ימים ראשונים\". אכן, לפני כמה מן הראשונים (ראה בשטמ\"ק) היתה הגרסה \"דברי רבי\", ולפיה מתפרשים הדברים בלי דוחק (וראה בהגהות הגר\"א).",
+              "ref": "Steinsaltz comment #3 on Nazir 18b:5",
+              "sourceHeRef": "מתחיל ומונה מיד",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אית ספרים דגרסי ביה גופא נטמא בשביעי כו'</strong> - ולא גרסינן דבכולה הש\"ס לא גרסינן גופא אלא כשהש\"ס הביא מימרא או ברייתא תחילה ומייתי אותה אגב גררא אז חוזר ואומר גופא לפרש המימרא או הברייתא אבל ברייתא לא הביא הש\"ס כלל לעיל אלא מלישנא דהש\"ס לעיל דקאמר אילימא שנטמא בשביעי:",
+              "ref": "Tosafot on Nazir 18b:5:1",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ה:א",
+              "sourceRef": "Tosafot on Nazir 18b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אינו מביא אלא קרבן אחד</strong> - אע\"ג דס\"ל דחייל עליה נזירות טהרה משביעי כיון דנטמא עד שלא האיר השמיני שעה הראויה להביא קרבנותיו נפטר בקרבן אחד על טומאות הרבה אבל כשנטמא בשמיני וחזר ונטמא בח' כיון שיצא לשעה הראויה להביא קרבנותיו מביא קרבן על כל אחד ואחד:",
+              "ref": "Tosafot on Nazir 18b:5:2",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ה:ב",
+              "sourceRef": "Tosafot on Nazir 18b:5:2"
+            },
+            {
+              "commentary": {
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' ד\"ה מתחיל ומונה מיד כו' אלא א\"א לומר כן.</b> ע' לקמן ד' נד ע\"א:",
+                      "ref": "Gilyon HaShas on Nazir 18b:2",
+                      "sourceHeRef": "גליון הש\"ס על נזיר י״ח ב:ב",
+                      "sourceRef": "Gilyon HaShas on Nazir 18b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מתחיל ומונה מיד דברי ר' אליעזר וכו'</strong> - לכאורה הוה משמע דמתחיל מנין נזירות טהרה שלו בשמיני אלא אי אפשר לומר כן דאי לא חייל עליה נזירות טהרה שלו אלא בשמיני א\"כ כי נטמא בשמיני לא סותר אלא יום אחד ולא הוה מתחייב קרבן טומאה לרבי אליעזר [כדתנן] במתני' ר\"א אומר לא [בו] ביום אלא מתחיל ומונה מיד בשביעי דאז חייל עליה נזירות טהרה מכי הזה וטבל <span class=\"parenthesized\">(מכי הזה וטבל)</span> וכי נטמא בשמיני סותר ב' ימים ומתחייב שפיר בקרבן ובטומאה לרבי אליעזר:",
+              "ref": "Tosafot on Nazir 18b:5:3",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ה:ג",
+              "sourceRef": "Tosafot on Nazir 18b:5:3"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מצורע שנתנגע חזר ונתנגע חזר ונתנגע מביא קרבן א' על הכל הביא צפריו ונתנגע הביא צפריו ונתנגע מביא קרבן על כל אחד ואחד דברי ר' אליעזר וחכמים אומרים קרבן אחד על הכל עד שיביא אשמו הביא אשמו ונתנגע הביא אשמו ונתנגע מביא קרבן על כל אחד ואחד רבי שמעון אומר קרבן אחד על הכל עד שיביא חטאתו. נזיר שנטמא וחזר ונטמא מביא קרבן אחד על הכל נטמא יום שביעי שלו וחזר ונטמא יום שביעי שלו מביא קרבן אחד על כל אחד ואחד דברי רבי. וחכ\"א קרבן אחד על הכל עד שיביא חטאתו.",
+              "ref": "Tosefta Keritot 1:7",
+              "sourceHeRef": "תוספתא כריתות א:ז",
+              "sourceRef": "Tosefta Keritot 1:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites a <i>baraita</i> (<i>Tosefta</i> 4:8) concerning <b>the</b> matter of a nazirite who contracted ritual impurity many times <b>itself:</b> If a nazirite became impure, and then <b>became impure on the seventh</b> day of his purification process, <b>and again became impure on the</b> following <b>seventh</b> day of his purification process, <b>he brings only one</b> set of <b>offerings.</b> If <b>he became impure on the eighth</b> day, <b>and again became impure on the</b> following <b>eighth</b> day, <b>he brings</b> a set of <b>offerings for each and every</b> time he became impure. Nevertheless, he <b>begins counting</b> his ritually pure naziriteship <b>immediately</b> on the eighth day, even if he has not yet brought his offerings. This is <b>the statement of <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>.</b>",
+      "he": "גּוּפָא: נִטְמָא בַּשְּׁבִיעִי, וְחָזַר וְנִטְמָא בַּשְּׁבִיעִי — אֵינוֹ מֵבִיא אֶלָּא קׇרְבָּן אֶחָד. נִטְמָא בַּשְּׁמִינִי, וְחָזַר וְנִטְמָא בַּשְּׁמִינִי — מֵבִיא קׇרְבָּן עַל כׇּל אֶחָד וְאֶחָד. מַתְחִיל וּמוֹנֶה מִיָּד, דִּבְרֵי רַבִּי אֱלִיעֶזֶר.",
+      "ref": "Nazir 18b:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הביא חטאתו.</b> עיין לקמן דף נז ע\"א תד\"ה וסופרין:",
+              "ref": "Gilyon HaShas on Nazir 18b:1",
+              "sourceHeRef": "גליון הש\"ס על נזיר י״ח ב:א",
+              "sourceRef": "Gilyon HaShas on Nazir 18b:1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a nazirite becomes impure through contact with a corpse on several occasions, whether he was warned about each individual time or he was not warned about each individual time, he brings only one [set of] sacrifices for all the times he became impure.<br>When does the above apply? When he becomes impure a second time before he brings the sacrifices [associated with emerging from] impurity the first time, but was delayed for several days after he regain ritual purity from bringing his sin offering and contracted impurity in those days. [In such a situation], he only brings one sacrifice. When, however, he contracted impurity, became ritually pure, and brought his sin offering, should he contract impurity a second time after bringing his sin offering, he is required to bring a second set of sacrifices even though he has not brought his guilt offering or his burnt offering.",
+              "he": "נָזִיר שֶׁנִּטְמָא טֻמְאוֹת הַרְבֵּה בֵּין שֶׁהִתְרוּ בּוֹ עַל כָּל אַחַת וְאַחַת וּבֵין שֶׁלֹּא הִתְרוּ בּוֹ עַל כָּל אַחַת וְאַחַת אֵינוֹ מֵבִיא עַל טֻמְאוֹתָיו אֶלָּא קָרְבָּן אֶחָד. בַּמֶּה דְּבָרִים אֲמוּרִים שֶׁנִּטְמָא פַּעַם שְׁנִיָּה קֹדֶם שֶׁיָּבִיא קָרְבְּנוֹת טֻמְאָה הָרִאשׁוֹנָה וְאַף עַל פִּי שֶׁנִּתְאַחֵר כַּמָּה יָמִים אַחַר טָהֳרָתוֹ קֹדֶם הֲבָאַת חַטָּאתוֹ וְנִטְמָא בְּאוֹתָן הַיָּמִים אֵינוֹ מֵבִיא אֶלָּא קָרְבָּן אֶחָד. אֲבָל אִם נִטְמָא וְטָהַר וְהֵבִיא חַטָּאתוֹ וְנִטְמָא פַּעַם שְׁנִיָּה אַחַר שֶׁהֵבִיא חַטָּאתוֹ אַף עַל פִּי שֶׁעֲדַיִן לֹא הֵבִיא אֲשָׁמוֹ וְעוֹלָתוֹ חַיָּב בְּקָרְבָּנוֹת אֲחֵרוֹת:",
+              "ref": "Mishneh Torah, Nazariteship 6:15",
+              "sourceHeRef": "הלכות נזירות ו:טו",
+              "sourceRef": "Nazariteship 6:15"
+            },
+            {
+              "en": "When does he begin counting [the days of his nazirite vow]? When he brings his sin offering. His burnt offering and his guilt offering, by contrast, do not hold him back from [beginning] his counting.",
+              "he": "מֵאֵימָתַי מַתְחִיל לִמְנוֹת מִשֶּׁיָּבִיא חַטָּאתוֹ. אֲבָל עוֹלָתוֹ וַאֲשָׁמוֹ אֵין מְעַכְּבִין אוֹתוֹ מִלִּמְנוֹת:",
+              "ref": "Mishneh Torah, Nazariteship 6:12",
+              "sourceHeRef": "הלכות נזירות ו:יב",
+              "sourceRef": "Nazariteship 6:12"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וחכ\"א קרבן אחד על הכל עד שיביא חטאתו הביא חטאתו ונטמא מביא קרבן על כל אחת ואחת הביא חטאתו ולא הביא אשמו מונה נזירות דטהרה אבל אם לא הביא חטאתו אינו מונה לעולם אין מתחילין למנות לנזירות טהרה עד שיביא חטאתו אחד מהללו שני תורים שמביא אחד לחטאת שאם נטמא קודם שהביא חטאתו אינו מביא אלא קרבן טומאה אחד אבל אם הביא חטאתו ולא הביא אשמו כבש בן שנתו לאשם מונה לנזירות ימי טהרה:",
+              "ref": "Rashi on Nazir 18b:6:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ו:א",
+              "sourceRef": "Rashi on Nazir 18b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וחכמים אומרים:</b> אם לא הספיק להביא קרבן ביום השמיני עד שנטמא, הרי זו כטומאה ארוכה, ומביא <b>קרבן אחד על הכל,</b> על כל הפעמים שנטמא, <b>עד שיביא</b> קרבן <b>חטאתו</b> לגמר נזירות הטומאה, שרק אז מתחיל למנות את הנזירות הבאה. לפיכך, <b>הביא חטאתו ונטמא, והביא חטאתו ונטמא —</b> <b>מביא קרבן על כל אחד ואחד. הביא חטאתו ולא הביא אשמו</b> קרבן אשם שמביא נזיר טמא — <b>מונה,</b> מתחיל למנות את מנין הימים של נזירות הטהרה.",
+              "ref": "Steinsaltz on Nazir 18b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:ו",
+              "sourceRef": "Steinsaltz on Nazir 18b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A nazirite who became ritually impure many times is obligated to bring only one set of offerings. This applies only if he became ritually impure the second time before he brought the sin-offering for his first instance of ritual impurity. If he contracts ritual impurity after he had already brought his sin-offering, even if he had yet to bring his guilt-offering and burnt-offering, he must bring a second set of offerings for his ritual impurity, in accordance with the opinion of the Rabbis (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>6:15).",
+              "he": "<EM>נזיר שנטמא טומאות הרבה מביא רק קרבן אחד על טומאותיו, במה דברים אמורים — שנטמא פעם שניה קודם שהביא קרבן עבור טומאה ראשונה. אבל אם נטמא וטהר והביא חטאתו (אף שלא הביא עדיין את אשמו ועולתו) וחזר ונטמא — חייב להביא קרבנות טומאה שניה. וכדברי חכמים. (רמב\"ם ספר הפלאה הלכות נזירות פ\"ו הט\"ו).",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:6",
+              "sourceHeRef": "עַד שֶׁיָּבִיא חַטָּאתוֹ",
+              "sourceRef": "Until he has brought his sin-offering"
+            },
+            {
+              "en": "A nazirite who became ritually impure begins counting his term of naziriteship afresh from the moment he brings his sin-offering. His guilt-offering and burnt-offering are not indispensable to the start of his new term (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>6:12–13).",
+              "he": "מאימתי מתחיל הנזיר שנטמא ונטהר למנות ימי נזירות — משעה שיביא קרבן חטאתו. אבל אשמו ועולתו אינם מעכבים. כדברי חכמים. (רמב\"ם ספר הפלאה הלכות נזירות פ\"ו הי\"ב והי\"ג).",
+              "ref": "Steinsaltz comment #2 on Nazir 18b:6",
+              "sourceHeRef": "הֵבִיא חַטָּאתוֹ וְלֹא הֵבִיא אֲשָׁמוֹ מוֹנֶה",
+              "sourceRef": "If he brought his sin-offering and did not yet bring his guilt-offering, he begins to count"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחכ\"א קרבן אחד על הכל עד שיביא חטאתו כו'</strong> - רבנן סבירא להו דלא חייל נזירות טהרה עליה עד שיביא חטאתו הביא חטאתו ולא הביא אשמו מונה נזירות טהרה [וטעמייהו] יליף בסמוך:",
+              "ref": "Tosafot on Nazir 18b:6:1",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ו:א",
+              "sourceRef": "Tosafot on Nazir 18b:6:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "[נזיר שנטמא וחזר ונטמא וחזר ונטמא מביא קרבן אחד על הכל נטמא ביום הז' שלו וחזר ונטמא ביום הח' שלו מביא קרבן על כל א' ואחד] דברי ר\"א ר\"ש אומר קרבן אחד על הכל עד שיביא אשמו הביא אשמו ונטמא אשמו ונטמא חייב קרבן על כל אחד ואחד וחכמים אומרים קרבן אחד על הכל עד שיביא חטאתו הביא חטאתו [ונטמאת חייב קרבן על כל אחד ואחד ואין מתחיל למנות עד שיביא חטאתו הביא חטאתו ולא הביא אשמו מתחיל למנות הביא אשמו ולא הביא חטאתו אינו מתחיל למנות] ר' ישמעאל [ב\"ר] יוחנן בן ברוקה אומר כשם שחטאתו [מעכבת] כך אשמו [מעכבת].",
+              "ref": "Tosefta Nazir 4:7",
+              "sourceHeRef": "תוספתא נזיר ד:ז",
+              "sourceRef": "Tosefta Nazir 4:7"
+            },
+            {
+              "en": "",
+              "he": "מצורע שנתנגע וחזר ונתנגע מביא קרבן אחד על הכל הביא צפרו ונתנגע מביא קרבן על כל אחד ואחד דברי ר\"א וחכ\"א קרבן אחד על הכל עד שיביא אשמו הביא אשמו ונתנגע הביא אשמו ונתנגע מביא קרבן על כל אחד ואחד ר\"ש אומר קרבן אחד על הכל עד שיביא חטאתו הביא חטאתו ונתנגע הביא חטאתו ונתנגע מביא קרבן על כל אחד ואחד.",
+              "ref": "Tosefta Negaim 9:5",
+              "sourceHeRef": "תוספתא נגעים ט:ה",
+              "sourceRef": "Tosefta Negaim 9:5"
+            }
+          ]
+        }
+      },
+      "en": "<b>And the Rabbis say:</b> If he had not yet brought his offerings on the eighth day when he became impure, it is considered one long period of ritual impurity, and he brings <b>one</b> set of <b>offerings for all</b> the times he became impure, <b>until he has brought his sin-offering</b> at the end of his period of ritual impurity. It is only then that he can begin counting his next term of naziriteship. Therefore, if he <b>brought his sin-offering and</b> then <b>became impure, and</b> again <b>brought his sin-offering and</b> then again <b>became impure, he brings</b> a set of <b>offerings for each and every one. If he brought his sin-offering and did not</b> yet <b>bring his guilt-offering,</b> he begins to <b>count</b> his term of naziriteship in ritual purity.",
+      "he": "וַחֲכָמִים אוֹמְרִים: קׇרְבָּן אֶחָד עַל הַכֹּל, עַד שֶׁיָּבִיא חַטָּאתוֹ. הֵבִיא חַטָּאתוֹ וְנִטְמָא, וְהֵבִיא חַטָּאתוֹ וְנִטְמָא — מֵבִיא קׇרְבָּן עַל כׇּל אֶחָד וְאֶחָד. הֵבִיא חַטָּאתוֹ וְלֹא הֵבִיא אֲשָׁמוֹ — מוֹנֶה.",
+      "ref": "Nazir 18b:6"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כך אשמו מעכבו</strong> - שלא יתחיל למנות עד שיביא אשמו:",
+              "ref": "Rashi on Nazir 18b:7:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ז:א",
+              "sourceRef": "Rashi on Nazir 18b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' ישמעאל בנו של ר' יוחנן בן ברוקה אומר: כשם שחטאתו עיכבתו</b> מלהתחיל מנין ימי נזירות שניה, <b>כן אשמו מעכבו,</b> ואם נטמא שוב עד שלא הביא אשם — מביא קרבן אחד על הכל.",
+              "ref": "Steinsaltz on Nazir 18b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:ז",
+              "sourceRef": "Steinsaltz on Nazir 18b:7"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כך אשמו מעכבתו</strong> - דלא חייל עליה נזירות טהרה עד שיביא גם אשמו וטעמיה מפרש בסמוך:",
+              "ref": "Tosafot on Nazir 18b:7:1",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ז:א",
+              "sourceRef": "Tosafot on Nazir 18b:7:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "נזיר שנטמא וחזר ונטמא וחזר ונטמא מביא קרבן אחד על הכל. נטמא ביום השביעי שלו וחזר ונטמא ביום השמיני שלו מביא קרבן על כל אחד ואחד דברי ר' ליעזר, ר' שמעון אומ' קרבן אחד על הכל עד שיביא אשמו. הביא אשמו ונטמא, אשמו ונטמא, חייב קרבן על כל אחד ואחד, [וחכמים אומרים קרבן אח' על הכל], עד שיביא חטאת. הביא חטאתו ונטמאה, חטאתו ונטמאה, חייב קרבן על כל אחת ואחת. ואין מתחיל לימנות עד שיביא חטאתו. הביא חטאתו ולא הביא אשמו מתחיל לימנות. ר' ישמעאל בי ר' יוחנן בן ברוקה אומ' כשם שחטאתו מעכבתו כך אשמו מעכבו. מודה ר' שמעון שאם גילח על חטאתו שלא לשמה, ואחר כך הביא קרבנותיו לשמן, תגלחתו פסולה, וזבחיו לא עלו לו.",
+              "ref": "Tosefta Nazir (Lieberman) 4:8",
+              "sourceHeRef": "תוספתא נזיר (ליברמן) ד:ח",
+              "sourceRef": "Tosefta Nazir (Lieberman) 4:8"
+            },
+            {
+              "en": "",
+              "he": "[נזיר שנטמא וחזר ונטמא וחזר ונטמא מביא קרבן אחד על הכל נטמא ביום הז' שלו וחזר ונטמא ביום הח' שלו מביא קרבן על כל א' ואחד] דברי ר\"א ר\"ש אומר קרבן אחד על הכל עד שיביא אשמו הביא אשמו ונטמא אשמו ונטמא חייב קרבן על כל אחד ואחד וחכמים אומרים קרבן אחד על הכל עד שיביא חטאתו הביא חטאתו [ונטמאת חייב קרבן על כל אחד ואחד ואין מתחיל למנות עד שיביא חטאתו הביא חטאתו ולא הביא אשמו מתחיל למנות הביא אשמו ולא הביא חטאתו אינו מתחיל למנות] ר' ישמעאל [ב\"ר] יוחנן בן ברוקה אומר כשם שחטאתו [מעכבת] כך אשמו [מעכבת].",
+              "ref": "Tosefta Nazir 4:7",
+              "sourceHeRef": "תוספתא נזיר ד:ז",
+              "sourceRef": "Tosefta Nazir 4:7"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-yishmael-b-yohanan-b-berokah\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-yohanan-b-berokah\">Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka</span>, says: Just as</b> not bringing <b>his sin-offering precludes him</b> from starting his naziriteship in ritual purity, <b>so</b> too, not bringing <b>his guilt-offering precludes him</b> from starting his naziriteship in ritual purity, and if he became impure again before he brought his guilt-offering, he only brings one set of offerings for all his impurities.",
+      "he": "<span href=\"/topics/rabbi-yishmael-b-yohanan-b-berokah\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-yohanan-b-berokah\">רַבִּי יִשְׁמָעֵאל בְּנוֹ שֶׁל רַבִּי יוֹחָנָן בֶּן בְּרוֹקָה</span> אוֹמֵר: כְּשֵׁם שֶׁחַטָּאתוֹ עִיכְּבַתּוּ, כֵּן אֲשָׁמוֹ מְעַכְּבוֹ.",
+      "ref": "Nazir 18b:7"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "1) \"all that shall pass under the staff\": to exclude a treifah (an animal with an organic defect), which does not pass. This tells me only of his counting them with the staff. If he did not count them with the staff, or if he counted them lying down or standing, whence do I derive (that it is valid)? From \"shall be holy\" (in any event). This tells me only of his calling it \"the tenth.\" Whence do I derive (that it is valid) even if he did not call it \"the tenth\"? From \"the tenth shall be holy.\" I might think that even if he had one hundred and took ten (at random), or ten and took one (that it is valid); it is, therefore, written \"the tenth,\" and this is not ma'aser (lit., the tenth). R. Yossi b. R. Yehudah says: It is ma'aser.",
+              "he": "[א] \"כֹּל אֲשֶׁר יַעֲבֹר תַּחַת הַשָּׁבֶט\" – פרט לטריפה שאינה עוברת. אין לי אלא בזמן שמונים בשבט; רבוצים או עומדים מנין? תלמוד לומר \"העשירי יהיה קדש\". אין לי אלא בזמן שקרא שמו \"עשירי\"; מנין אף על פי שלא קרא שמו \"עשירי\"? תלמוד לומר \"העשירי יהיה קדש\". יכול אפילו היו לו מאה ונטל עשרה? עשרה ונטל אחד? תלמוד לומר \"העשירי\" – אין זה מעשר. ר' יוסי בר' יהודה אומר – מעשר.",
+              "ref": "Sifra, Bechukotai, Chapter 13 1",
+              "sourceHeRef": "ספרא, בחוקתי, פרק יג א׳",
+              "sourceRef": "Sifra, Bechukotai, Chapter 13 1"
+            },
+            {
+              "en": "4) (\"It is) Yovel\": even if they did not \"release\" (the land, i.e., shemitah), even if they did not blow the shofar. I might think, even if they did not free the bondsmen; it is, therefore, written \"It\" (to exclude that). These are the words of R. Yehudah. R. Yossi says: \"Yovel\" — even if they did not release, even if they did not free the bondsmen. I might think, even if they did not blow the shofar; it is, therefore, written \"It\" (to exclude that). R. Yossi said: After one verse includes (something as being Yovel even in the absence of the factor it adduces), and another verse excludes it (from being Yovel in the absence of the factor it adduces), why do I say that it is Yovel even if the bondsmen were not released, but it is not Yovel unless they blew the shofar? For Yovel is possible without the freeing of the bondsmen, but Yovel is not possible without the blowing of the shofar, whereas the freeing of the bondsmen is in the hands of individuals, (and, naturally, the institution of Yovel would not be made dependent upon the latter).",
+              "he": "[ד] \"יובל\" – אף על פי שלא השמיטו, אף על פי שלא תקעו בשופר. או יכול אף על פי שלא שלחו העבדים? תלמוד לומר \"הִוא\", דברי ר' יהודה. ר' יוסי אומר, \"יובל\" – אף על פי שלא השמיטו, אף על פי שלא שלחו העבדים. או יכול אף על פי שלא תקעו בשופר? תלמוד לומר \"הִוא\". אמר ר' יוסי, אחר שהכתוב תולה אותה לענין תקיעת שופר וכתוב אחד תולה אותה לענין שילוח עבדים, מכל מקום אני אומר יובל שלא בשילוח עבדים, שאפשר ליובל שלא בשילוח עבדים, אבל אי אפשר שלא בתקיעת שופר. דבר אחר, תקיעת שופר תלויה בבית דין ושילוח עבדים תלויה בכל אדם.",
+              "ref": "Sifra, Behar, Chapter 2 4",
+              "sourceHeRef": "ספרא, בהר, פרק ב ד׳",
+              "sourceRef": "Sifra, Behar, Chapter 2 4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בשלמא לר' אליעזר</strong> - דאמר מתחיל ומונה מיד:",
+              "ref": "Rashi on Nazir 18b:8:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ח:א",
+              "sourceRef": "Rashi on Nazir 18b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אע\"פ שלא הביא קרבנות</strong> - מתחיל למנות מבו ביום ולרבנן אתא ליה ההוא אע\"פ שלא הביא את אשמו:",
+              "ref": "Rashi on Nazir 18b:8:2",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ח:ב",
+              "sourceRef": "Rashi on Nazir 18b:8:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שואלים: <b>בשלמא</b> <span class=\"hebrew-emphasis\">[נניח</span><span class=\"hebrew-emphasis\">]</span> <b>ל</b>דעת <b>ר' אליעזר</b> טעמו כי <b>אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב</span><span class=\"hebrew-emphasis\">]</span> <b>\"וקדש את ראשו ביום ההוא\"</b> (במדבר ו, יא), לומר: <b>אף על פי</b> ש<b>לא הביא קרבנותיו,</b> שהיום השמיני הוא הקובע לתחילת נזירות הטהרה, ולא הבאת הקרבנות. <b>ורבנן</b> <span class=\"hebrew-emphasis\">[וחכמים</span><span class=\"hebrew-emphasis\">]</span> סבורים כי הכתוב <b>\"</b>ביום <b>ההוא\"</b> בא למעט, ולומר <b>אף על פי</b> ש<b>לא הביא אשמו</b> מונה מן היום ההוא, אבל קרבן חטאת חייב להביא.",
+              "ref": "Steinsaltz on Nazir 18b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:ח",
+              "sourceRef": "Steinsaltz on Nazir 18b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בתוס' מסבירים לשיטתם שהכוונה היא לא להבאת קרבנות ממש, אלא לשיטת ר' אליעזר — שלא הגיע היום השביעי הראוי להבאתם. ואילו למעלה בדברי רבי יש להבין כפשוטו — שלא הביא קרבנותיו. משום שמדברי רבי משמע שאין הדבר תלוי כלל בקרבנות, אלא רק בהגיע היום השמיני. אכן, לגרסה שאף כאן אלה הם דברי רבי אין צורך להידחק בכך, ויהא הפירוש כאן בפשטות לשיטתו: אף שעדיין לא הביא קרבנו.",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:8",
+              "sourceHeRef": "אף על פי שלא הביא קרבנותיו",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בשלמא לר' אליעזר אמר קרא וקדש ראשו ביום ההוא</strong> - מיותר ביום ההוא לרבות ביום השביעי דמשביעי חייל עליה נזירות טהרה כדפרישית לעיל לר\"א ולשון הש\"ס דקאמר אע\"פ שלא הביא קרבנותיו הוי פירושו אע\"פ שלא הגיע יום הראוי קצת להביא קרבנותיו דהיינו יום ז' ולא הוי פירושו כההוא דלעיל דקאמר הש\"ס אליבא דרבי ביום ההוא מיותר לומר לך אע\"פ שלא הביא קרבנותיו דההוא ודאי הוי פירושו לרבות יום שמיני דוקא משהאיר הבקר אבל אליבא דר\"א אתא [לרבות] אפילו יום השביעי כדפי':",
+              "ref": "Tosafot on Nazir 18b:8:1",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ח:א",
+              "sourceRef": "Tosafot on Nazir 18b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולרבנן ההוא אע\"פ שלא הביא אשמו</strong> - אע\"ג שכל אשמות שבתורה מעכבות הכא מרבינן מההוא דלא מעכב ליה מלחול עליה נזירות טהרה: אלא לר' ישמעאל ההוא מאי אתא לרבויי אמר לך אע\"פ שלא הביא עולתו:",
+              "ref": "Tosafot on Nazir 18b:8:2",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ח:ב",
+              "sourceRef": "Tosafot on Nazir 18b:8:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation on his behalf for the guilt that he incurred through the corpse. That same day he shall reconsecrate his head",
+              "he": "וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א עַל־הַנָּ֑פֶשׁ וְקִדַּ֥שׁ אֶת־רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:11",
+              "sourceHeRef": "במדבר ו:יא",
+              "sourceRef": "Numbers 6:11"
+            }
+          ]
+        }
+      },
+      "en": "After having quoted the <i>baraita</i>, the Gemara proceeds to analyze the three opinions: <b>Granted, according to <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>,</b> his reason is that <b>the verse states: “And he shall sanctify his head on that day”</b> (Numbers 6:11), which indicates: <b>Even though he has not brought his offerings,</b> the eighth day determines the start of his ritually pure naziriteship. <b>And the Rabbis</b> agree that the phrase “on <b>that</b> day” is extra, and it teaches that he begins counting from that day <b>even though he has not brought his guilt-offering,</b> but he does not begin counting until after bringing his sin-offering.",
+      "he": "בִּשְׁלָמָא <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">לְרַבִּי אֱלִיעֶזֶר</span>, אָמַר קְרָא ״וְקִדַּשׁ אֶת רֹאשׁוֹ בַּיּוֹם הַהוּא״ — אַף עַל פִּי שֶׁלֹּא הֵבִיא קׇרְבְּנוֹתָיו. וְרַבָּנַן: ״הַהוּא״ — אַף עַל פִּי שֶׁלֹּא הֵבִיא אֲשָׁמוֹ.",
+      "ref": "Nazir 18b:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אע\"פ שלא הביא עולתו</strong> - שהאחד לעולה ובלבד שהביא אשמו וחטאתו מתחיל למנות:",
+              "ref": "Rashi on Nazir 18b:9:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ט:א",
+              "sourceRef": "Rashi on Nazir 18b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משום עולה לא מיבעיא</strong> - דהיא לא אתיא לא משום עולה ולא משום נזירות אלא לדורון בעלמא:",
+              "ref": "Rashi on Nazir 18b:9:2",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:ט:ב",
+              "sourceRef": "Rashi on Nazir 18b:9:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> לדעת <b>ר' ישמעאל</b> הכתוב <b>\"</b>ביום <b>ההוא\" למה לי?</b> הרי לשיטתו הדבר תלוי בקרבן ולא ביום! ומשיבים: <b>אמר</b> <span class=\"hebrew-emphasis\">[יכול היה לומר</span><span class=\"hebrew-emphasis\">]</span> <b>לך</b> ר' ישמעאל: <b>\"</b>ביום <b>ההוא\"</b> בא ללמד ש<b>אף על פי</b> ש<b>לא הביא עולתו,</b> מתחיל למנות ואין העולה מעכבת. <b>ורבנן</b> <span class=\"hebrew-emphasis\">[וחכמים</span><span class=\"hebrew-emphasis\">]</span> אומרים על כך: <b>עולה לא בעי מיעוטא</b> <span class=\"hebrew-emphasis\">[צריכה מיעוט</span><span class=\"hebrew-emphasis\">]</span> מיוחד בכתוב להודיע שאינה מעכבת, ומדוע — <b>דורון</b> (מתנה) <b>בעלמא</b> <span class=\"hebrew-emphasis\">[בלבד</span><span class=\"hebrew-emphasis\">]</span> <b>הוא</b> ואיננה חלק מכפרתו.",
+              "ref": "Steinsaltz on Nazir 18b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:ט",
+              "sourceRef": "Steinsaltz on Nazir 18b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ולשיטה זו אין הבאת העולה חלק מסדר הכפרה של הנזיר על חטאו, אלא היא כמתנה הנוספת לשאר הקרבנות, שהיא בבחינת מנחת רצון לה', ולכן אף אינה מעכבת לענין כפרה כלל.",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:9",
+              "sourceHeRef": "דורון בעלמא הוא",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורבנן עולה לא בעיא מיעוטא דדורון בעלמא הוא</strong> - וא\"ת מ\"ט דרבי ישמעאל שפיר קאמרי ליה רבנן וי\"ל משום דחטאת ועולה כתיבי בחד קרא והדר כתיב וכפר עליו וקדש ראשו דס\"ד דאע\"ג דעולה דורון הוא כיון דאקדמיה קרא לוקדש ראשו לא חייל עליה נזירות טהרה עד דמייתי לעולה נמי קא משמע לן ההוא לומר אע\"פ שלא הביא עולתו ומסתברא לאוקמי לעולה ולא לחטאת דעיקר כפרה בחטאת וא\"ת מנא ליה להש\"ס לעיל לומר בפשיטות אליבא דרבי דההוא <span class=\"parenthesized\">(מפרש)</span> מרבה אע\"פ שלא הביא קרבנותיו פי' משהאיר השמיני חייל עליה נזירות טהרה דלמא לא מרבה רבי אלא הביא חטאתו ולא אשמו או כר' ישמעאל וי\"ל משום דרבי לא אדכר במילתיה כ\"א דבהבאת קרבן הכתוב מדבר משמע דלא קפיד עליה אלא איום שמיני ולמעוטי שביעי דבר פלוגתי' אבל הני תנאי מפרשי דמיחל נזירות תלוי בקרבנות עצמו למר כדאית ליה ולמר כדאית ליה:",
+              "ref": "Tosafot on Nazir 18b:9:1",
+              "sourceHeRef": "תוספות על נזיר י״ח ב:ט:א",
+              "sourceRef": "Tosafot on Nazir 18b:9:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>But</b> according to <b><span href=\"/topics/rabbi-yishmael-b-elisha\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-elisha\">Rabbi Yishmael</span>, why do I</b> need the phrase “on <b>that</b> day”? According to his opinion the issue depends on the offerings, not the day. The Gemara answers: <span href=\"/topics/rabbi-yishmael-b-elisha\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-elisha\">Rabbi Yishmael</span> could have <b>said to you:</b> The phrase “on <b>that</b> day” teaches that he can begin counting <b>even though he has not brought his burnt-offering,</b> as he agrees that not bringing the burnt-offering does not preclude him from counting his naziriteship. <b>And the Rabbis</b> respond to this: <b>A burnt-offering does not require a limitation</b> in the text to teach that its omission does not preclude the start of his naziriteship in ritual purity, since <b>it is merely a gift</b> and not part of his atonement process.",
+      "he": "אֶלָּא <span href=\"/topics/rabbi-yishmael-b-elisha\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-elisha\">רַבִּי יִשְׁמָעֵאל</span>, ״הָהוּא״ לְמָה לִי? אָמַר לָךְ: ״הַהוּא״ — אַף עַל פִּי שֶׁלֹּא הֵבִיא עוֹלָתוֹ. וְרַבָּנַן: עוֹלָה לָא בָּעֵי מִיעוּטָא — דּוֹרוֹן בְּעָלְמָא הוּא.",
+      "ref": "Nazir 18b:9"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "“He shall dedicate to the Lord the days of his naziriteship.” All the guilt offerings in the Torah prevent atonement [if they are not brought] except for this one. Could it be, perhaps, that this one prevents it? The verse states: He shall dedicate…and shall bring” – even though he has not brought [the guilt offering], he has dedicated. In the name of Rabbi Yishmael they said: This one, too, prevents it, as it is stated: “He shall dedicate to the Lord.” When? “And he shall bring a lamb in its first year as a guilt offering.” <br>“He shall dedicate to the Lord the days of his naziriteship.” From where is it derived that he is prohibited from becoming impure due to a corpse on the days following his naziriteship like [during] the days of his naziriteship, until the bringing of the offering? The verse states: “Then the nazirite may drink wine” (Numbers 6:20). Does the nazirite drink wine? Rather, it is here in order to derive and learn a verbal analogy from it. Here, nazirite is stated, and there nazirite is stated. Just as regarding the nazirite stated elsewhere, it rendered the days after naziriteship like the days during naziriteship until the bringing of the offering, so, too, regarding the nazirite stated here, it renders the days after naziriteship like the days during naziriteship until the bringing of the offering, <br>“He shall bring a sheep,” and not a ram. “In its first year,” of its own, and not one year according to the years of the world. <br>“As a guilt offering,” this is a penalty. Rabbi Shimon said: We have not found a guilt offering that comes to void, other than this one alone, as it is written after it: “And the first days shall be void.” <br>“And the first days shall be void” – one who has earlier and later days voids it. From where is it derived that if one said: ‘I am a nazirite for one hundred days’ and became impure after one hundred minus one day, from where is it derived that it voids it all? The verse states: “And the first days shall be void” – one who has later days, voids, and this one has latter days. If he became impure on day one hundred, does it, perhaps, void everything? The verse states: “And the [first] days…” – by inference, there are later days, and this has no latter days. Or even if he became impure at the beginning of the one hundred, does it void everything? The verse states: “And the first days shall be void” – one who has earlier days, voids, and this one has no earlier days. <br>“As his naziriteship was impure,” – impurity voids everything, but shaving does not void everything, but only thirty days, as we require “shall grow long” (Numbers 6:5). Impurity voids, but wine does not void.",
+              "he": "וְהִזִּיר לַה' אֶת יְמֵי נִזְרוֹ <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ו, יב)</span></span>, כָּל אֲשָׁמוֹת שֶׁבַּתּוֹרָה מְעַכְּבִין אֶת הַכַּפָּרָה חוּץ מִזֶּה. יָכוֹל אַף זֶה מְעַכֵּב, תַּלְמוּד לוֹמַר וְהִזִּיר וְהֵבִיא, אַף עַל פִּי שֶׁלֹא הֵבִיא הִזִּיר. מִשֵּׁם רַבִּי יִשְׁמָעֵאל אָמְרוּ אַף זֶה מְעַכֵּב, שֶׁנֶּאֱמַר וְהִזִּיר לַה', אֵימָתַי <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ו, יב)</span></span>: וְהֵבִיא כֶּבֶשׂ בֶּן שְׁנָתוֹ לְאָשָׁם, וְהִזִּיר לַה' אֶת יְמֵי נִזְרוֹ, מִנַּיִן שֶׁהוּא אָסוּר לִטַּמָּא לְמֵתִים בַּיָּמִים שֶׁל אַחַר נְזִירוּתוֹ כַּיָּמִים שֶׁבְּתוֹךְ נְזִירוּתוֹ עַד הֲבָאַת קָרְבָּן, תַּלְמוּד לוֹמַר <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ו, כ)</span></span>: וְאַחַר יִשְׁתֶּה הַנָּזִיר יַיִן. וְכִי נָזִיר שׁוֹתֶה יַיִן, אֶלָּא מֻפְנֶה לְהַקִּישׁ, לָדוּן מִמֶּנּוּ גְּזֵרָה שָׁוָה, נֶאֱמַר כָּאן נָזִיר, וְנֶאֱמַר לְהַלָּן נָזִיר, מַה נָּזִיר הָאָמוּר לְהַלָּן עָשָׂה בוֹ יָמִים שֶׁל אַחַר נְזִירוּת כַּיָּמִים שֶׁבְּתוֹךְ נְזִירוּת עַד הֲבָאַת קָרְבָּן, אַף נָזִיר הָאָמוּר כָּאן נַעֲשָׂה בוֹ יָמִים שֶׁל אַחַר נְזִירוּת כַּיָּמִים שֶׁבְּתוֹךְ נְזִירוּת עַד הֲבָאַת קָרְבָּן. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ו, יב)</span></span>: וְהֵבִיא כֶּבֶשׂ, וְלֹא אַיִל. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ו, יב)</span></span>: בֶּן שְׁנָתוֹ לְעַצְמוֹ וְלֹא בֶּן שָׁנָה לִשְׁנֵי עוֹלָם. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ו, יב)</span></span>: לְאָשָׁם, הֲרֵי זֶה קְנַס. אָמַר רַבִּי שִׁמְעוֹן לֹא מָצִינוּ אָשָׁם שֶׁיָּבוֹא לְבַטֵּל אֶלָּא זֶה בִּלְבָד, שֶׁכֵּן כְּתִיב אַחֲרָיו <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ו, יב)</span></span>: וְהַיָּמִים הָרִאשֹׁנִים יִפְּלוּ. וְהַיָּמִים הָרִאשֹׁנִים יִפְּלוּ, מִי שֶׁיֵּשׁ לוֹ רִאשׁוֹנִים וְאַחֲרוֹנִים סוֹתְרוֹ, מִנַּיִן אִם אָמַר הֲרֵינִי נָזִיר מֵאָה יוֹם וְנִטְמָא סוֹף מֵאָה חָסֵר יוֹם אֶחָד, מִנַּיִן שֶׁהוּא סוֹתֵר אֶת הַכֹּל, תַּלְמוּד לוֹמַר: וְהַיָּמִים הָרִאשֹׁנִים יִפְּלוּ, מִי שֶׁיֵּשׁ לוֹ אַחֲרוֹנִים סוֹתֵר וְזֶה יֵשׁ לוֹ אַחֲרוֹנִים. נִטְמָא בְּיוֹם מֵאָה, יָכוֹל יְהֵא סוֹתֵר הַכֹּל, תַּלְמוּד לוֹמַר: וְהַיָּמִים וגו', מִכְּלַל דְּאִיכָּא אַחֲרוֹנִים, וְזֶה אֵין לוֹ אַחֲרוֹנִים. אוֹ אֲפִלּוּ נִטְמָא בִּתְחִלַּת מֵאָה סוֹתֵר אֶת הַכֹּל, תַּלְמוּד לוֹמַר: וְהַיָּמִים הָרִאשֹׁנִים יִפְּלוּ, מִי שֶׁיֵּשׁ לוֹ רִאשׁוֹנִים, וְזֶה אֵין לוֹ רִאשׁוֹנִים. <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(במדבר ו, יב)</span></span>: כִּי טָמֵא נִזְרוֹ, הַטֻּמְאָה סוֹתֶרֶת אֶת הַכֹּל וְאֵין הַתִּגְלַחַת סוֹתֶרֶת אֶת הַכֹּל אֶלָּא שְׁלשִׁים יוֹם, דִּבְעֵינַן גַּדֵּל פֶּרַע, הַטֻּמְאָה סוֹתֶרֶת וְאֵין הַיַּיִן סוֹתֵר.",
+              "ref": "Bamidbar Rabbah 10:16",
+              "sourceHeRef": "במדבר רבה י:טז",
+              "sourceRef": "Bamidbar Rabbah 10:16"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל האשמות שבתורה מעכבין</strong> - כדאמרינן <span class=\"parenthesized\">(יבמות דף עד:)</span> הביא כפרתו אוכל בקדשים:",
+              "ref": "Rashi on Nazir 18b:10:1",
+              "sourceHeRef": "רש\"י על נזיר י״ח ב:י:א",
+              "sourceRef": "Rashi on Nazir 18b:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומסבירים עוד: <b>מאי טעמייהו דרבנן</b> <span class=\"hebrew-emphasis\">[מה טעמם של חכמים</span><span class=\"hebrew-emphasis\">]</span> שסבורים שרק הבאת החטאת מעכבת ממנין חדש של ימי נזירות? <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>כן שנינו בברייתא<span class=\"hebrew-emphasis\">]:</span> נאמר בנזיר שנטמא <b>\"והזיר לה' את ימי נזרו והביא כבש בן שנתו לאשם\"</b> (במדבר ו, יב), <b>מה תלמוד לומר?</b> והרי נוהג הוא בנזירות חדשה רק לאחר שיקריב את כל קרבנותיו! אלא, <b>לפי שמצינו שכל אשמות שבתורה שהן מעכבין</b> את הכפרה, ולפני שהביא את האשם עדיין הוא מחוסר כפרה ואינו יכול לאכול בקדשים, <b>יכול אף</b> אשם <b>זה מעכבו</b> ממנין חדש לנזירותו —",
+              "ref": "Steinsaltz on Nazir 18b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר י״ח ב:י",
+              "sourceRef": "Steinsaltz on Nazir 18b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "All guilt-offerings in the Torah are indispensable for one’s atonement, apart from that of a nazirite, as ruled by the Rabbis (Rambam <i>Sefer Korbanot</i>,<i> Hilkhot Shegagot </i>3:11).",
+              "he": "אף שכבר הביא קודם את דרך דרשתם של חכמים, עדיין צריך הוא לחזור ולבססה, משום שהלימוד מ\"וקידש ביום ההוא\" נראה כמיותר, שהרי ממילא מוזכר אשם רק לאחר מלים אלה, וממילא מובן שאינו מעכב את התחלת הנזירות. ואם כן יש לומר שלא לכך הוא בא (רא\"ש ועוד).",
+              "ref": "Steinsaltz comment #1 on Nazir 18b:10",
+              "sourceHeRef": "כָּל אֲשָׁמוֹת שֶׁבַּתּוֹרָה",
+              "sourceRef": "All guilt-offerings that are mentioned in the Torah"
+            },
+            {
+              "en": "",
+              "he": "ועיקר הראיה הוא ממה שנאמר כתוב זה שלא במקומו, שלכאורה היה ראוי לומר \"והזיר לה'\" קודם לקרבנות שמביא הנזיר, או לאחר כל הקרבנות. וכיון שהכתוב אומר דברים אלה לפני קרבן האשם דווקא — משמע שיכול תחילה להתחיל למנות עוד לפני שמקריב קרבן זה (ר\"ט, רע\"ז, ר\"פ).",
+              "ref": "Steinsaltz comment #2 on Nazir 18b:10",
+              "sourceHeRef": "והזיר לה' וכו'",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "שכן הנזיר שלא הביא אשם מצורע עדיין מחוסר כפרה הוא, שאינו יכול לאכול קדשים. וכן הדין באשם גזילות ואשם מעילות, שכל עוד אינו מביא את האשם הריהו עדיין צריך כפרה (רא\"ש, בשטמ\"ק).",
+              "ref": "Steinsaltz comment #3 on Nazir 18b:10",
+              "sourceHeRef": "אשמות מעכבין",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "כל אשמות שבתורה מעכבים את הכפרה חוץ מאשם נזיר. וכדברי חכמים. (רמב\"ם ספר קרבנות הלכות שגגות פ\"ג הי\"א).",
+              "ref": "Steinsaltz comment #4 on Nazir 18b:10",
+              "sourceHeRef": "כל אשמות שבתורה וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "and rededicate to the L<small>ORD</small> his term as nazirite; and he shall bring a lamb in its first year as a penalty offering. The previous period shall be void, since his consecrated hair was defiled.",
+              "he": "וְהִזִּ֤יר לַֽיהֹוָה֙ אֶת־יְמֵ֣י נִזְר֔וֹ וְהֵבִ֛יא כֶּ֥בֶשׂ בֶּן־שְׁנָת֖וֹ לְאָשָׁ֑ם וְהַיָּמִ֤ים הָרִאשֹׁנִים֙ יִפְּל֔וּ כִּ֥י טָמֵ֖א נִזְרֽוֹ׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:12",
+              "sourceHeRef": "במדבר ו:יב",
+              "sourceRef": "Numbers 6:12"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains: <b>What is the reason of the Rabbis</b> for ruling that only refraining from bringing his sin-offering precludes the start of his new count of naziriteship? <b>As it is taught</b> in a <i>baraita</i>: The verse states with regard to a nazirite who became ritually impure: <b>“And he shall consecrate to the Lord the days of his naziriteship, and he shall bring a lamb in its first year for a guilt-offering”</b> (Numbers 6:12). <b>What does this teach?</b> Doesn’t he wait to begin the days of his naziriteship until after he has brought all of his offerings? Rather, <b>since we have found that all guilt-offerings that are</b> mentioned <b>in the Torah are indispensable</b> for atonement, and before he has brought his guilt-offering he is forbidden from partaking of any sacred offerings, one <b>might</b> have thought that not having brought <b>this</b> guilt-offering <b>also precludes him</b> from counting his ritually pure naziriteship,",
+      "he": "מַאי טַעְמַיְיהוּ דְּרַבָּנַן? דְּתַנְיָא: ״וְהִזִּיר לַה׳ אֶת יְמֵי נִזְרוֹ וְהֵבִיא כֶּבֶשׂ בֶּן שְׁנָתוֹ לְאָשָׁם״, מָה תַּלְמוּד לוֹמַר? לְפִי שֶׁמָּצִינוּ שֶׁכׇּל אֲשָׁמוֹת שֶׁבַּתּוֹרָה שֶׁהֵן מְעַכְּבִין, יָכוֹל אַף זֶה מְעַכְּבוֹ —",
+      "ref": "Nazir 18b:10"
+    }
+  ],
+  "title": "Nazir 18b",
+  "titleHebrew": "נזיר יח,ב",
+  "topics": []
+}

@@ -1,0 +1,1544 @@
+{
+  "id": "25b",
+  "sections": [
+    {
+      "commentary": {
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> If <b>one consecrated</b> his ancestral field <b>and</b> then <b>redeemed it</b> himself, <b>it is not removed from his possession</b> to be divided among the priests <b>during the Jubilee</b> Year. If <b>his son redeemed it,</b> the field <b>is removed</b> from the son’s possession and returns <b>to his father during the Jubilee</b> Year. But if <b>another</b> person <b>or one of his</b> other <b>relatives redeemed</b> the field <b>and</b> the owner subsequently <b>redeemed it from his possession,</b> the field is <b>removed</b> from the owner’s possession and given <b>to the priests during the Jubilee</b> Year.",
+                "If <b>one of the priests redeemed</b> the field <b>and</b> when the Jubilee arrived <b>it</b> was <b>in his possession, he may not say: Since it is removed</b> from the possession of the one who redeemed it and given <b>to the priests during the Jubilee</b> Year, <b>and</b> since <b>it is</b> already <b>in my possession, it is mine. Rather,</b> the field <b>is removed from his possession and is divided among all his brethren, the priests.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Arakhin 25a:16",
+                "Arakhin 25a:17"
+              ],
+              "he": [
+                "<big><strong>מתני׳</strong></big> הקדישה וגאלה אינה יוצאה מידו ביובל גאלה בנו יוצאה לאביו ביובל גאלה אחר או אחד מהקרובים וגאלה מידו יוצאה לכהנים ביובל",
+                "גאלה אחד מן הכהנים והרי היא תחת ידו לא יאמר הואיל והיא יוצאה לכהנים ביובל והרי היא תחת ידי הרי היא שלי אלא יוצאה מתחת ידו ומתחלקת לכל אחיו הכהנים:"
+              ],
+              "link": "/Arakhin/25a",
+              "ref": "Arakhin 25a:16-17",
+              "sourceHeRef": "unused",
+              "sourceRef": "Arakhin 25a:16-17"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א גמרא</big> שנינו במשנתנו, כי המקדיש שדה אחוזתו, ולא גאלה מיד ההקדש, אם גאלה הוא או בנו — הריהי של האב ביובל, ואם גאלה אחר — יוצאה לכהנים ביובל. ובענין זה <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים</span> בברייתא<span class=\"hebrew-emphasis\">],</span> נאמר בתורה: \"ואם לא יגאל את השדה ואם מכר את השדה לאיש אחר...",
+              "ref": "Steinsaltz on Arakhin 25b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:א",
+              "sourceRef": "Steinsaltz on Arakhin 25b:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": [
+                "But if he does not redeem the land, and the land is sold to another, it shall no longer be redeemable:",
+                "when it is released in the jubilee, the land shall be holy to the L<small>ORD</small>, as land proscribed; it becomes the priest’s holding."
+              ],
+              "he": [
+                "וְאִם־לֹ֤א יִגְאַל֙ אֶת־הַשָּׂדֶ֔ה וְאִם־מָכַ֥ר אֶת־הַשָּׂדֶ֖ה לְאִ֣ישׁ אַחֵ֑ר לֹ֥א יִגָּאֵ֖ל עֽוֹד׃",
+                "וְהָיָ֨ה הַשָּׂדֶ֜ה בְּצֵאת֣וֹ בַיֹּבֵ֗ל קֹ֛דֶשׁ לַֽיהֹוָ֖ה כִּשְׂדֵ֣ה הַחֵ֑רֶם לַכֹּהֵ֖ן תִּהְיֶ֥ה אֲחֻזָּתֽוֹ׃"
+              ],
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:20-21",
+              "sourceHeRef": "ויקרא כז:כ-כא",
+              "sourceRef": "Leviticus 27:20-21"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> The mishna teaches that if one consecrated his ancestral field and his son redeemed it from the Temple treasury, the field returns to the original owner when the Jubilee arrives. By contrast, if another person redeemed it, the field is transferred to the priests during the Jubilee Year. With regard to this matter, <b>the Sages taught</b> a <i>baraita</i> analyzing the verse: “And if he will not redeem the field, or if he sold the field to another man, it shall not be redeemed anymore. But the field, when it goes out in the Jubilee, shall be holy for the Lord, as a dedicated field; his ancestral possession shall be for the priest” (Leviticus 27:20–21).",
+      "he": "<big><strong>גמ׳</strong></big> ת\"ר",
+      "ref": "Arakhin 25b:1",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והיה השדה בצאתו ביובל קודש לה' כשדה החרם — לכהן תהיה אחוזתו\" (ויקרא כז, כ—כא), \"ו <b>אם לא יגאל את השדה\"</b> — מדבר ב<b>בעלים</b> שלא גאלה, <b>\"ואם מכר את השדה\"</b> — מדבר ב<b>גיזבר</b> של ההקדש שמכרה לאיש אחר, ללמד שבשני מקרים אלה יוצאת השדה לידי הכהנים.",
+              "ref": "Steinsaltz on Arakhin 25b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:ב",
+              "sourceRef": "Steinsaltz on Arakhin 25b:2"
+            }
+          ]
+        },
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואם לא יגאל וגו'. </b>ת\"ר, ואם לא יגאל – בעלים, ואם מכר – גזבר .<br><span class=\"parenthesized\">(ערכין כ\"ה ב')</span>",
+              "ref": "Torah Temimah on Torah, Leviticus 27:20:1",
+              "sourceHeRef": "תורה תמימה על התורה, ויקרא כז:כ:א",
+              "sourceRef": "Torah Temimah on Torah, Leviticus 27:20:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But if he does not redeem the land, and the land is sold to another, it shall no longer be redeemable:",
+              "he": "וְאִם־לֹ֤א יִגְאַל֙ אֶת־הַשָּׂדֶ֔ה וְאִם־מָכַ֥ר אֶת־הַשָּׂדֶ֖ה לְאִ֣ישׁ אַחֵ֑ר לֹ֥א יִגָּאֵ֖ל עֽוֹד׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:20",
+              "sourceHeRef": "ויקרא כז:כ",
+              "sourceRef": "Leviticus 27:20"
+            }
+          ]
+        }
+      },
+      "en": "The phrase “and <b>if he will not redeem the field”</b> is referring to a case where the <b>owner</b> did not redeem it and it remained in the possession of the Temple treasury, and the phrase <b>“or if he sold the field”</b> is referring to a situation where the Temple <b>treasurer</b> sold it to another person. The verse indicates that in both of these instances, possession of the field goes to the priests.",
+      "he": "(ויקרא כז, כ) אם לא יגאל את השדה בעלים (ויקרא כז, כ) ואם מכר את השדה גיזבר",
+      "ref": "Arakhin 25b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לאיש אחר</strong> - והיה השדה בצאתו ביובל לכהנים:",
+              "ref": "Rashi on Arakhin 25b:3:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ג:א",
+              "sourceRef": "Rashi on Arakhin 25b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא לבן</strong> - שאם גאלה בנו אינה יוצאה לכהנים אלא לאביו:",
+              "ref": "Rashi on Arakhin 25b:3:2",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ג:ב",
+              "sourceRef": "Rashi on Arakhin 25b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הרי אח אמור</strong> - שיהא כאחר ותצא לכהנים:",
+              "ref": "Rashi on Arakhin 25b:3:3",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ג:ג",
+              "sourceRef": "Rashi on Arakhin 25b:3:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומה שנאמר <b>\"לאיש אחר\"</b> בא ללמדנו — דוקא <b>לאחר, ולא לבן</b> של המקדיש, שאם מכרה הגזבר לבן — יוצאת השדה לאביו ביובל ולא לכהנים. ושואלים, <b>אתה אומר: לאחר</b> כוונתו — <b>ולא לבן, או אינו</b> כך, <b>אלא: לאחר</b> — <b>ולא לאח</b> של המקדיש! ודוחים: <b>כשהוא אומר</b> \"ל <b>איש\"</b> — <b>הרי אח אמור,</b> שהוא כלול ב\"איש\", <b>הא מה אני מקיים \"אחר\"</b> — <b>ולא לבן.</b>",
+              "ref": "Steinsaltz on Arakhin 25b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:ג",
+              "sourceRef": "Steinsaltz on Arakhin 25b:3"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But if he does not redeem the land, and the land is sold to another, it shall no longer be redeemable:",
+              "he": "וְאִם־לֹ֤א יִגְאַל֙ אֶת־הַשָּׂדֶ֔ה וְאִם־מָכַ֥ר אֶת־הַשָּׂדֶ֖ה לְאִ֣ישׁ אַחֵ֑ר לֹ֥א יִגָּאֵ֖ל עֽוֹד׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:20",
+              "sourceHeRef": "ויקרא כז:כ",
+              "sourceRef": "Leviticus 27:20"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> continues: <b>“To another man,”</b> indicates that the field is transferred to the priests during the Jubilee Year only if it had been sold <b>to another, and not to</b> the <b>son</b> of the one who consecrated it. The <i>baraita</i> asks: <b>Do you say</b> that the verse is referring <b>to another and not to</b> his <b>son? Or</b> perhaps the verse means <b>only</b> that it was sold <b>to another and not to</b> his <b>brother?</b> The <i>baraita</i> rejects this suggestion: <b>When it says: “Man,”</b> the <b>brother is stated,</b> i.e., he is included in the category of a man. <b>How do I realize</b> the meaning of: <b>“Another</b> man”? It must mean: Another, <b>but not</b> his <b>son.</b>",
+      "he": "(ויקרא כז, כ) לאיש אחר לאחר ולא לבן אתה אומר לאחר ולא לבן או אינו אלא לאחר ולא לאח כשהוא אומר איש הרי אח אמור הא מה אני מקיים אחר ולא לבן",
+      "ref": "Arakhin 25b:3"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>GEMARA:</strong> The Gemara begins by clarifying the order of the list in the mishna. <b>What is different,</b> i.e., what is the reason, <b>that</b> the mishna <b>teaches: A father</b> with regard to his <b>sons,</b> as <b>the first</b> example? <b>Let</b> it <b>teach: Sons</b> with regard to their <b>father,</b> as <b>the first</b> example. The Gemara explains why this would be preferable: <b>One</b> reason is <b>that we do not</b> want to <b>begin with a calamity,</b> as the death of a son during his father’s lifetime is a calamity; therefore, it would have been appropriate to begin with the example of sons inheriting from their father."
+                ],
+                [
+                  "<b>And furthermore,</b> the verse first states that a son inherits from his father, <b>as it is written</b> in the portion concerning inheritance: <b>“If a man dies, and has no son,</b> then you shall pass his inheritance to his daughter” (Numbers 27:8).",
+                  "The Gemara answers: <b>And</b> as for the <b><i>tanna</i></b> of the mishna who listed the father inheriting first, <b>since</b> the <i>halakha</i> that a father inherits from his son <b>is learned through a derivation</b> and is not explicitly mentioned in the verse, this <i>halakha</i> is <b>dear to him;</b> therefore, he listed it first.",
+                  "<b>And what</b> is the <b>derivation? As it is taught</b> in a <i>baraita</i> concerning the verse: “And if his father has no brothers, then you shall give his inheritance to his kinsman who is next to him of his family, and he shall inherit it” (Numbers 27:11): <b>“His kinsman”; this</b> is referring to <b>the father,</b> and the Torah <b>teaches that the father precedes the brothers</b> of the deceased in inheriting from him. One <b>might</b> have thought that the father of the deceased <b>should precede the son</b> of the deceased in inheriting from him; <b>the verse</b> therefore <b>states: “Next [<i>hakkarov</i>]</b> to him,” teaching that the <b>closer [<i>karov</i>]</b> one is to the deceased, the <b>earlier</b> one is in the order of inheritance, and a son of the deceased is considered to be a closer relative to the deceased than the father of the deceased.",
+                  "The Gemara asks: <b>And what did you see to include the son</b> as the closer relative than the father <b>and to exclude the brother?</b> The Gemara answers: <b>I include the son, as he stands in place of his father to designate</b> a Hebrew maidservant as a wife for himself, which a brother cannot do. <b>And</b> similarly, he stands in place of his father <b>with regard to an ancestral field.</b> If a son redeems a field consecrated by his father, it is considered as though the father himself redeemed it and the field returns to the family in the Jubilee Year. By contrast, if the brother of the one who consecrated it redeems the field, it does not return to the family (see Leviticus 27:16–21).",
+                  "The Gemara asks: <b>On the contrary, I</b> should <b>include the brother</b> as the closer relative, <b>as he stands in his brother’s place with regard to levirate marriage,</b> and a son does not. The Gemara answers: This is not a valid claim, as <b>is there levirate marriage except in a case where there is no son? In a case where there is a son, there is no levirate marriage.</b> This indicates that a son stands in place of the deceased before a brother even with regard to levirate marriage.",
+                  "The Gemara comments: <b>The reason</b> that a son is considered to be a closer relative than a brother <b>is</b> specifically <b>due to this refutation,</b> that where there is a son there is no levirate marriage. This indicates that <b>without this</b> refutation <b>I would say</b> that <b>a brother is superior</b> to a son in terms of how close a relative he is. The Gemara therefore asks: Why not <b>derive</b> that a son is closer to the deceased than a brother"
+                ],
+                [
+                  "from the fact <b>that here,</b> there are <b>two</b> examples of the superiority of a son, designation and an ancestral field, <b>and here,</b> there is only <b>one</b> demonstration of the superiority of a brother, levirate marriage?",
+                  "The Gemara answers: With regard to <b>an ancestral field itself, the <i>tanna</i> establishes his</b> ruling <b>from this</b> same <b>reason: Is there levirate marriage except in a case where there is no son? In a case where there is a son, there is no levirate marriage.</b> The determination that the redemption of the ancestral field by a son is in place of the redemption of the field by the father, whereas the redemption of the field by a brother is not, is based on the reasoning that the <i>halakha</i> of levirate marriage is not an indication that a brother is a closer relative than a son. Therefore, the <i>halakha</i> of an ancestral field cannot be regarded as a second example of the son’s superiority, as it stems from the first example, that of levirate marriage.",
+                  "The Gemara suggests an alternative derivation: Why should the father of the deceased inherit before only the brothers? <b>Say</b> that he should inherit before the daughter of the deceased as well by interpreting the verse as follows: <b>“His kinsman”</b> (Numbers 27:11), <b>this</b> is referring to <b>the father,</b> and the Torah <b>teaches that the father precedes the daughter</b> of the deceased in inheriting from him. One <b>might</b> have thought that the father of the deceased <b>should precede the son</b> of the deceased in inheriting from him. <b>The verse</b> therefore <b>states: “Next [<i>hakkarov</i>]</b> to him,” teaching that the <b>closer [<i>karov</i>]</b> one is to the deceased, the <b>earlier</b> one is in the order of inheritance.",
+                  "This suggestion is rejected: <b>Since with regard to the matter of levirate marriage a son and a daughter are equivalent,</b> as levirate marriage is not performed if the deceased had either a son or a daughter, it stands to reason that <b>with regard to the matter of inheritance as well, a son and a daughter are equivalent</b> in that the father does not precede the daughter.",
+                  "The Gemara suggests an alternative derivation: Why should the father of the deceased inherit before the brothers of the deceased? <b>Say</b> that he should inherit only before his own brothers by interpreting the verse as follows: <b>“His kinsman”</b> ( Numbers 27:11), <b>this</b> is referring to <b>the father,</b> and the Torah <b>teaches that the father precedes the father’s brothers</b> in inheriting from the deceased. One <b>might</b> have thought that the father of the deceased <b>should precede the brothers</b> of the deceased in inheriting from him. <b>The verse states: “Next [<i>hakkarov</i>]</b> to him,” teaching that the <b>closer [<i>karov</i>]</b> one is to the deceased, the <b>earlier</b> one is in the order of inheritance.",
+                  "The Gemara responds: <b>A verse is not necessary</b> to teach that the father of the deceased inherits before <b>the father’s brothers,</b> for the following reason: <b>By whose virtue do the father’s brothers come</b> to inherit from the deceased? <b>By virtue</b> of the <b>father,</b> as their right to inherit is a result of their being brothers of the father of the deceased. Could it be that while the <b>father is still alive, his brothers should inherit?</b> The Gemara therefore concludes that the father precedes the brothers of the deceased.",
+                  "The Gemara challenges: <b>But the verses are not written that way, as it is written:</b> “And if he has no brothers, then you shall give his inheritance to his father’s brothers” (Numbers 27:10), and only later is it written: <b>“And if his father has no brothers,</b> then you shall give his inheritance to his kinsman who is next to him” (Numbers 27:11), indicating that the father, whose right to inherit is derived from the term “kinsman,” inherits only after the brothers of the deceased and his own brothers. The Gemara explains: The <b>verses are not written in order,</b> since as explained earlier, it is not reasonable that the father’s brothers inherit before the father. Therefore, it must be that the inheritance of the father is not written in its proper place, and he may inherit even before the brothers of the deceased."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 108a:5",
+                "Bava Batra 108b:1",
+                "Bava Batra 108b:2",
+                "Bava Batra 108b:3",
+                "Bava Batra 108b:4",
+                "Bava Batra 108b:5",
+                "Bava Batra 108b:6",
+                "Bava Batra 109a:1",
+                "Bava Batra 109a:2",
+                "Bava Batra 109a:3",
+                "Bava Batra 109a:4",
+                "Bava Batra 109a:5",
+                "Bava Batra 109a:6",
+                "Bava Batra 109a:7"
+              ],
+              "he": [
+                [
+                  "<big><strong>גְּמָ׳</strong></big> מַאי שְׁנָא דְּקָתָנֵי ״הָאָב אֶת הַבָּנִים״ בְּרֵישָׁא? לִיתְנֵי ״הַבָּנִים אֶת הָאָב״ בְּרֵישָׁא – חֲדָא, דְּאַתְחוֹלֵי בְּפוּרְעֲנוּתָא לָא מַתְחֲלִינַן;"
+                ],
+                [
+                  "וְעוֹד, כְּדִכְתִיב: ״אִישׁ כִּי יָמוּת וּבֵן אֵין לוֹ״ –",
+                  "וְתַנָּא, אַיְּידֵי דְּאָתְיָא לֵיהּ מִדְּרָשָׁא – חֲבִיבָא לֵיהּ!",
+                  "וּמַאי דְּרָשָׁא? דְּתַנְיָא: ״שְׁאֵרוֹ״ – זֶה הָאָב; מְלַמֵּד שֶׁהָאָב קוֹדֶם לָאַחִין. יָכוֹל יְהֵא קוֹדֶם לַבֵּן? תַּלְמוּד לוֹמַר: ״הַקָּרוֹב״ – קָרוֹב קָרוֹב קוֹדֵם.",
+                  "וּמָה רָאִיתָ לְרַבּוֹת אֶת הַבֵּן, וּלְהוֹצִיא אֶת הָאָח? מְרַבֶּה אֲנִי אֶת הַבֵּן – שֶׁכֵּן קָם תַּחַת אָבִיו לִיעִדָה וְלִשְׂדֵה אֲחוּזָּה.",
+                  "אַדְּרַבָּה! מְרַבֶּה אֲנִי אֶת הָאָח, שֶׁכֵּן קָם תַּחַת אָחִיו לְיִבּוּם! כְּלוּם יֵשׁ יִבּוּם – אֶלָּא בְּמָקוֹם שֶׁאֵין בֵּן, הָא בְּמָקוֹם שֶׁיֵּשׁ בֵּן – אֵין יִבּוּם.",
+                  "טַעְמָא דְּאִיכָּא הַאי פִּירְכָא, הָא לָאו הָכִי – הֲוָה אָמֵינָא אָח עֲדִיף? תִּיפּוֹק לֵיהּ"
+                ],
+                [
+                  "דְּהָכָא תַּרְתֵּי, וְהָכָא חֲדָא!",
+                  "שְׂדֵה אֲחוּזָּה גּוּפַהּ, מֵהַאי טַעְמָא הוּא; דְּקָא קַיְימָא לֵיהּ לְתַנָּא – כְּלוּם יֵשׁ יִבּוּם אֶלָּא בְּמָקוֹם שֶׁאֵין בֵּן, הָא יֵשׁ בֵּן אֵין יִבּוּם.",
+                  "אֵימָא: ״שְׁאֵרוֹ״ – זֶה הָאָב, מְלַמֵּד שֶׁהָאָב קוֹדֵם לַבַּת. יָכוֹל יַקְדִּים לַבֵּן? תַּלְמוּד לוֹמַר: ״הַקָּרוֹב״ – קָרוֹב קָרוֹב קוֹדֵם!",
+                  "כֵּיוָן דִּלְעִנְיַן יִבּוּם – בֵּן וּבַת כִּי הֲדָדֵי נִינְהוּ; לְעִנְיַן נַחֲלָה נָמֵי, בֵּן וּבַת כִּי הֲדָדֵי נִינְהוּ.",
+                  "וְאֵימָא: ״שְׁאֵרוֹ״ – זֶה הָאָב, מְלַמֵּד שֶׁהָאָב קוֹדֵם לַאֲחֵי הָאָב. יָכוֹל יַקְדִּים לָאַחִין? תַּלְמוּד לוֹמַר: ״הַקָּרוֹב״ – קָרוֹב קָרוֹב קוֹדֵם!",
+                  "אַחֵי הָאָב לָא צְרִיכִי קְרָא; אַחֵי הָאָב מִכֹּחַ מַאן קָא אָתוּ – מִכֹּחַ אָב; קָאֵי אָב, קָא יָרְתִי אַחֵי הָאָב?!",
+                  "וְהָא קְרָאֵי לָאו הָכִי כְּתִיבִי – דִּכְתִיב: ״וְאִם אֵין אַחִים לְאָבִיו וְגוֹ׳״! קְרָאֵי שֶׁלֹּא כְּסִדְרָן כְּתִיבִי."
+                ]
+              ],
+              "link": "/Bava Batra/108b",
+              "originalRefsBeforeRewriting": [
+                "Bava Batra 108b:4",
+                "Bava Batra 108b:5"
+              ],
+              "ref": "Bava Batra 108a:5-109a:7",
+              "sourceHeRef": "בבא בתרא ק״ח ב",
+              "sourceRef": "Bava Batra 108b"
+            },
+            {
+              "en": [
+                "<b>The Sages taught: A Hebrew slave serves the son</b> of his deceased master <b>but does not serve the daughter. A Hebrew maidservant serves neither the son nor the daughter,</b> but only the master. <b>A pierced</b> slave <b>and</b> a Hebrew slave <b>sold to a gentile serve neither the son nor the daughter. The Master said</b> above: <b>A Hebrew slave serves the son but does not serve the daughter.</b> The Gemara asks: <b>From where is this matter</b> derived?",
+                "<b>As the Sages taught,</b> with regard to a verse that deals with a Hebrew slave: <b>“And he shall serve you six years”</b> (Deuteronomy 15:12). This indicates that he serves <b>you and not an heir,</b> i.e., if the master dies his slave does not serve one who inherits his estate. Do <b>you say: You and not an heir, or</b> perhaps <b>is it even: You and not a son?</b> The Gemara answers: <b>When it says: “Six years he shall labor”</b> (Exodus 21:2), which does not indicate any exclusion, the inclusion of <b>a son is</b> thereby <b>stated. How</b> then <b>do I uphold</b> the other verse: <b>“And he shall serve you six years”?</b> The expression “serve you” emphasizes that he serves only <b>you but</b> he does <b>not</b> serve <b>an heir</b> other than a son.",
+                "The Gemara asks: <b>What did you see</b> that led you <b>to include the son</b> who inherits a Hebrew slave <b>and to exclude the brother</b> from inheriting his brother’s slave? The Gemara answers: <b>I include the son, as he stands in place of his father to designate her.</b> Just as a father can designate a Hebrew maidservant as a wife for himself, so too can he betroth her on behalf of his son. <b>And</b> similarly, he replaces his father with regard <b>to an ancestral field</b> (see Leviticus 27:16–21). If one redeems a field consecrated by his father, it is considered as though the father himself had redeemed it, which means that the field returns to the family in the Jubilee Year. If someone else redeems the field, including a brother, it does not return to the family.",
+                "The Gemara asks: <b>On the contrary, I</b> should <b>include the brother, as he stands in his brother’s place with regard to levirate marriage.</b> The Gemara responds: This is insufficient proof, as <b>is there levirate marriage other</b> than <b>in a case when there is no son?</b> If <b>there is a son, there is no levirate marriage.</b> This indicates that a son replaces the deceased before a brother, even with regard to levirate marriage.",
+                "The Gemara asks: <b>Rather, the reason for</b> this <i>halakha</i> is specifically that <b>there is this refutation</b> that a levirate marriage applies only when there is no son. Does that not indicate that <b>without this</b> consideration I would say that <b>a brother is preferable</b> to a son? <b>But let me derive</b> that a son has a greater claim of standing in place of his father than a brother <b>from</b> the fact that <b>here,</b> with regard to the preference of a son, there are <b>two</b> cases: Designation of a Hebrew maidservant and an ancestral field, <b>and here,</b> in the case of a brother, there is only <b>one:</b> Levirate marriage.",
+                "The Gemara answers: With regard to <b>an ancestral field too, the <i>tanna</i> derives</b> the <i>halakha</i> <b>from this</b> same <b>refutation.</b> The <i>tanna</i> learns from the case of levirate marriage that only the son, not the brother, takes the place of his father for the redemption of the field, employing the same reasoning mentioned above: <b>Is there levirate marriage other</b> than <b>in a case when there is no son?</b> Therefore, without this consideration there is only one supporting example for each claim."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 17b:4",
+                "Kiddushin 17b:5",
+                "Kiddushin 17b:6",
+                "Kiddushin 17b:7",
+                "Kiddushin 17b:8",
+                "Kiddushin 17b:9"
+              ],
+              "he": [
+                "תָּנוּ רַבָּנַן: עֶבֶד עִבְרִי עוֹבֵד אֶת הַבֵּן, וְאֵינוֹ עוֹבֵד אֶת הַבַּת. אָמָה עִבְרִיָּה אֵינָהּ עוֹבֶדֶת לֹא אֶת הַבֵּן וְלֹא אֶת הַבַּת. הַנִּרְצָע וְהַנִּמְכָּר לְנׇכְרִי אֵינוֹ עוֹבֵד לֹא אֶת הַבֵּן וְלֹא אֶת הַבַּת. אָמַר מָר: עֶבֶד עִבְרִי עוֹבֵד אֶת הַבֵּן, וְאֵינוֹ עוֹבֵד אֶת הַבַּת. מְנָהָנֵי מִילֵּי?",
+                "דְּתָנוּ רַבָּנַן: ״וַעֲבָדְךָ שֵׁשׁ שָׁנִים״ – לְךָ וְלֹא לַיּוֹרֵשׁ. אַתָּה אוֹמֵר: לְךָ וְלֹא לַיּוֹרֵשׁ, אוֹ אֵינוֹ אֶלָּא: לְךָ וְלֹא לַבֵּן? כְּשֶׁהוּא אוֹמֵר: שֵׁשׁ שָׁנִים יַעֲבֹד״, הֲרֵי לַבֵּן אָמוּר, הָא מָה אֲנִי מְקַיֵּים: ״וַעֲבָדְךָ שֵׁשׁ שָׁנִים״ לְךָ – וְלֹא לַיּוֹרֵשׁ.",
+                "מָה רָאִיתָ לְרַבּוֹת אֶת הַבֵּן, וּלְהוֹצִיא אֶת הָאָח? מְרַבֶּה אֲנִי אֶת הַבֵּן – שֶׁכֵּן קָם תַּחַת אָבִיו לִיעִדָה וְלִשְׂדֵה אֲחוּזָּה.",
+                "אַדְּרַבָּה, מְרַבֶּה אֲנִי אֶת הָאָח שֶׁכֵּן קָם תַּחַת אָחִיו לְיִבּוּם! כְּלוּם יֵשׁ יִבּוּם אֶלָּא בְּמָקוֹם שֶׁאֵין בֵּן? הָא יֵשׁ בֵּן – אֵין יִבּוּם.",
+                "אֶלָּא טַעְמָא דְּאִיכָּא הָא פִּירְכָא, הָא לָאו הָכִי אָח עֲדִיף? וְתִיפּוֹק לִי דְּהָכָא תַּרְתֵּי, וְהָכָא חֲדָא!",
+                "שְׂדֵה אֲחוּזָּה נָמֵי, מֵהַאי פִּירְכָא הוּא דְּקָא נָפְקָא לֵיהּ לְתַנָּא: כְּלוּם יֵשׁ יִבּוּם אֶלָּא בְּמָקוֹם שֶׁאֵין בֵּן?"
+              ],
+              "link": "/Kiddushin/17b",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 17b:6",
+                "Kiddushin 17b:7"
+              ],
+              "ref": "Kiddushin 17b:4-9",
+              "sourceHeRef": "קידושין י״ז ב",
+              "sourceRef": "Kiddushin 17b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If the master of a Hebrew maid-servant designates her as a wife for himself or for his son, she is like any other consecrated woman. She is not released because of any of the reasons mentioned above - but only because of the death of her husband or through a bill of divorce. The mitzvah of designating a maid-servant as a wife takes precedence over the mitzvah of redeeming the maid-servant.<br>How is the mitzvah of designating a maid-servant as a wife performed? The master tells the maid-servant in the presence of two witnesses: \"Behold, you are consecrated to me,\" \"You are betrothed to me,\" or \"Behold, you are my wife.\" This may be done even at the conclusion of the six years of her servitude before the setting of the sun. He need not give her anything, for the first moneyswere given with the intent that they could serve for the purpose of consecration.From this point onward, he must treat her as a wife, and not as a servant.<br>He may not designate two maid-servants as wives at the same time, for Exodus 21:8 states: \"He will designate her.\"<br>How does a master designate a maid-servant as a wife for his son? If his son is past majority and gives his father permission to designate the maid-servant as his wife, the father tells the maid-servant in the presence of two witnesses: \"Behold you are consecrated to my son.\"",
+              "he": "יִעֵד אוֹתָהּ הָאָדוֹן לְעַצְמוֹ אוֹ לִבְנוֹ הֲרֵי הִיא כִּשְׁאָר אֲרוּסוֹת וְאֵינָהּ יוֹצְאָה בְּאֶחָד מִכָּל אֵלּוּ אֶלָּא בְּמִיתַת הַבַּעַל אוֹ בְּגֵט. וּמִצְוַת יִעוּד קוֹדֶמֶת לְמִצְוַת פְּדִיָּה. כֵּיצַד מִצְוַת יִעוּד. אוֹמֵר לָהּ בִּפְנֵי שְׁנַיִם הֲרֵי אַתְּ מְקֻדֶּשֶׁת לִי הֲרֵי אַתְּ מְאֹרֶסֶת לִי הֲרֵי אַתְּ לִי לְאִשָּׁה אֲפִלּוּ בְּסוֹף שֵׁשׁ סָמוּךְ לִשְׁקִיעַת הַחַמָּה. וְאֵינוֹ צָרִיךְ לִתֵּן לָהּ כְּלוּם שֶׁמָּעוֹת הָרִאשׁוֹנוֹת לְקִדּוּשִׁין נִתְּנוּ וְנוֹהֵג בָּהּ מִנְהַג אִישׁוּת וְאֵינוֹ נוֹהֵג בָּהּ מִנְהַג שְׁפָחוֹת. וְאֵינוֹ מְיַעֵד שְׁתַּיִם כְּאַחַת שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(שמות כא ח)</span> \"יְעָדָהּ\". וְכֵיצַד מְיַעֲדָהּ לִבְנוֹ. אִם הָיָה בְּנוֹ גָּדוֹל וְנָתַן רְשׁוּת לְאָבִיו לְיַעֲדָהּ לוֹ הֲרֵי הָאָב אוֹמֵר לָהּ בִּפְנֵי שְׁנַיִם הֲרֵי אַתְּ מְקֻדֶּשֶׁת לִבְנִי:",
+              "ref": "Mishneh Torah, Slaves 4:7",
+              "sourceHeRef": "הלכות עבדים ד:ז",
+              "sourceRef": "Slaves 4:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ליעידה</strong> - שאם קנה אביו אמה העבריה ורוצה בה ליעדה לו מיעדה ואין צריך לקדשה בכסף אחר אלא באותו כסף שנתן בה אביו כשקנאה היא מקודשת לו כדמפרש בפ\"ק דקדושין <span class=\"parenthesized\">(דף יט:)</span>:",
+              "ref": "Rashi on Arakhin 25b:4:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ד:א",
+              "sourceRef": "Rashi on Arakhin 25b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולעבד עברי</strong> - דעובד את הבן אם מת אדוניו בתוך ו' שנים ואינו עובד את האח אם מת אדוניו בלא בן ואחיו יורשו אין זה עובדו כדאמרינן בפ\"ק דקדושין <span class=\"parenthesized\">(דף יז:)</span> ה\"נ מוקמינן בן במקום אב לשדה אחוזה דכי היכי דאינה יוצאה מיד אביו להתחלק לכהנים אם גאלו בנו לא תצא לכהנים ביובל:",
+              "ref": "Rashi on Arakhin 25b:4:2",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ד:ב",
+              "sourceRef": "Rashi on Arakhin 25b:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ומה ראית לרבות את הבן</b> שדינו כדין האב, <b>ולהוציא את האח?</b> ומשיבים: <b>מרבה אני</b> את <b>הבן, שכן קם תחת אביו ליעידה,</b> שהקונה אמה עבריה מאביה יכול לקדשה לאשה, לעצמו או לבנו, אבל אינו יכול ליעדה לאחר, <b>ולעבד עברי,</b> שכאשר הבן יורש את אביו — חייב העבד העברי לעבוד אותו, ואינו משתחרר במות הבעלים, מה שאין כן כשהיורש הוא האח.",
+              "ref": "Steinsaltz on Arakhin 25b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:ד",
+              "sourceRef": "Steinsaltz on Arakhin 25b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It is permitted, even a mitzva, for one who purchases a Hebrew maidservant to designate her for himself as a wife (see Exodus 21:8–11). The money of her purchase may simultaneously serve as the betrothal payment. Even if he designates her as a wife after the sale, he may say to her: You are hereby betrothed to me with the money that your father received as payment for your monetary value. The verse also states: “And if he designates her for his son” (Exodus 21:9), which teaches that his son may betroth this maidservant with the money paid to her father.",
+              "he": "הקונה אמה עבריה מאביה יכול (ואף מצווה) ליעדה לעצמו כאשה (ראה שמות כא, ח—יא). וכסף הקנין משמש גם ככסף קידושין (אם רצונו של הקונה בכך. ואף לאחר זמן, כל זמן שהיא תחתיו יכול לומר לה: \"הרי את מקודשת לי בכסף שקיבל אביך בדמיך\"). ונאמר באותה פרשה: \"ואם לבנו ייעדנה\" (שם ט), לומר שניתן לקדשה בכסף זה לבנו.",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:4",
+              "sourceHeRef": "לִיעִידָה",
+              "sourceRef": "With regard to designating"
+            },
+            {
+              "en": "A Hebrew slave is an adult male Jew who becomes the slave of another Jew. There are two ways in which a Jew can enter into servitude: The court may sell a thief as a slave if he does not possess the means to make restitution for his theft (Exodus 22:2); or, if a Jew becomes impoverished he may choose to sell himself to seek relief from his poverty (Leviticus 25:39). A Hebrew slave sold by the court goes free after serving his master for six years (Exodus 21:2). In the event of his master’s death, a Hebrew slave is required to continue serving his master’s son until the end of the period for which he was originally sold. If the master had no sons, the slave is not obligated to continue serving other heirs. In the Jubilee Year, all Hebrew slaves are freed, irrespective of how long they have served (Leviticus 25:40). When a Hebrew slave attains his freedom, his master or his master’s heirs must give him a severance gift (Deuteronomy 15:13–14). A Hebrew slave may also attain his freedom by paying his master the value of the remainder of the term for which he was sold. It is prohibited to give a Hebrew slave humiliating work, even if there are freemen willing to perform such tasks, and likewise it is prohibited to overwork him (see Leviticus 25:39–43). In all matters relating to the slave’s accommodations, e.g., food and sleeping quarters, the Hebrew slave and his family must be treated like the master himself.",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Arakhin 25b:4",
+              "sourceHeRef": "עֶבֶד עִבְרִי",
+              "sourceRef": "Hebrew slave"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(שייך לע\"ב)</span> ליעידה ולעבד עברי</strong> - וא\"ת אמאי לא חשיב נמי לנחלה ואין לומר דמשום דלא ידעינן נחלה אלא מטעם זה שהוא קודם לשדה אחוזה כדאיתא בפרק יש נוחלין <span class=\"parenthesized\">(ב\"ב דף קח:)</span> הא ליתא דאפילו יהא שוים בשאר דברים כמו עבד עברי ושדה אחוזה מכל מקום ליעידה הבן קודם לאח בקרא בהדיא ומיניה ידעינן שפיר נחלה לכן נראה לפרש דלא נקט אלא דלא שייכא באח כלל אבל נחלה שייכא באח מיהא היכא דליכא לא בן ולא בת <span class=\"parenthesized\">(ולא אב)</span>:",
+              "ref": "Tosafot on Arakhin 25b:4:1",
+              "sourceHeRef": "תוספות על ערכין כ״ה ב:ד:א",
+              "sourceRef": "Tosafot on Arakhin 25b:4:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "And if he designated her for his son, he shall deal with her as is the practice with free maidens.",
+              "he": "וְאִם־לִבְנ֖וֹ יִֽיעָדֶ֑נָּה כְּמִשְׁפַּ֥ט הַבָּנ֖וֹת יַעֲשֶׂה־לָּֽהּ׃",
+              "link": "/Exodus/21",
+              "ref": "Exodus 21:9",
+              "sourceHeRef": "שמות כא:ט",
+              "sourceRef": "Exodus 21:9"
+            },
+            {
+              "en": "When you acquire a Hebrew slave, he shall serve six years; in the seventh year he shall go free, without payment.",
+              "he": "כִּ֤י תִקְנֶה֙ עֶ֣בֶד עִבְרִ֔י שֵׁ֥שׁ שָׁנִ֖ים יַעֲבֹ֑ד וּבַ֨שְּׁבִעִ֔ת יֵצֵ֥א לַֽחׇפְשִׁ֖י חִנָּֽם׃",
+              "link": "/Exodus/21",
+              "ref": "Exodus 21:2",
+              "sourceHeRef": "שמות כא:ב",
+              "sourceRef": "Exodus 21:2"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> asks: <b>And what did you see to include the son</b> in the same category as the father, <b>and to exclude the brother?</b> The <i>baraita</i> answers: <b>I include the son, as he stands in place of his father with regard to designating</b> a Hebrew maidservant as a wife for himself, in a case where the father purchased the Hebrew maidservant and designates her as a wife for his son, which he cannot do for his brother. <b>And</b> he also stands in place of his father <b>with regard to a Hebrew slave,</b> as when one inherits a Hebrew slave from his father, the slave is obligated to serve the son and does not go free, whereas if the deceased’s brother inherits the servant, he goes free.",
+      "he": "ומה ראית לרבות את הבן ולהוציא את האח מרבה אני הבן שכן קם תחת אביו ליעידה ולעבד עברי",
+      "ref": "Arakhin 25b:4"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "It is a positive commandment of Scriptural law for a man to marry the widow of his paternal brother if he died without leaving children, as [Deuteronomy 25:5] states: \"[And one of them dies] childless,... her husband's brother should cohabit with her.\" [This applies to a widow] from <i>nisu'in</i>, or from <i>erusin</i>.<br>[The childless widow is referred to as a <i>yevamah</i>; the rite through which they marry, <i>yibbum</i>.]<br>Scriptural law does not require a man to consecrate his <i>yevamah</i>, for she is his wife that heaven acquired for him. [All that is necessary] is that he cohabit with her. Her deceased husband's estate is responsible for her marriage contract.",
+              "he": "מִצְוַת עֲשֵׂה מִן הַתּוֹרָה שֶׁיְּיַבֵּם אָדָם אֵשֶׁת אָחִיו מֵאָבִיו בֵּין מִן הַנִּשּׂוּאִין בֵּין מִן הָאֵרוּסִין אִם מֵת בְּלֹא זֶרַע שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(דברים כה ה)</span> ״וּבֵן אֵין לוֹ״‎‎ <span class=\"hebrew-emphasis\">(דברים כה ה)</span> ״יְבָמָהּ יָבֹא עָלֶיהָ״‎‎. וּמִן הַתּוֹרָה אֵין צָרִיךְ לְקַדֵּשׁ יְבִמְתּוֹ שֶׁזּוֹ אִשְׁתּוֹ הִיא שֶׁהִקְנוּ אוֹתָהּ לוֹ מִן הַשָּׁמַיִם אֶלָּא יָבוֹא עָלֶיהָ. וּכְתֻבָּתָהּ עַל נִכְסֵי בַּעְלָהּ שֶׁמֵּת:",
+              "ref": "Mishneh Torah, Levirate Marriage and Release 1:1",
+              "sourceHeRef": "הלכות יבום וחליצה א:א",
+              "sourceRef": "Levirate Marriage and Release 1:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "If the <i>yavam</i> does not want to perform the rite of <i>yibbum</i>, or if the woman does not consent, he should [free her from this obligation through the rite of] <i>chalitzah</i>. [Only] afterwards is she permitted to marry another man.<br>It is a positive commandment of Scriptural law for [a brother] to perform <i>chalitzah</i> for [the deceased's widow], if he does not want to perform the rite of <i>yibbum</i>, as [Deuteronomy 25:9] states: \"She shall... remove his shoe.\"<br>The mitzvah of <i>yibbum</i> takes precedence over the mitzvah of <i>chalitzah</i>.",
+                      "he": "לֹא רָצָה לְיַבֵּם אוֹ שֶׁלֹּא רָצְתָה הִיא. הֲרֵי זֶה חוֹלֵץ לָהּ וְאַחַר כָּךְ תִּהְיֶה מֻתֶּרֶת לְהִנָּשֵׂא לְאַחֵר. וּמִצְוַת עֲשֵׂה מִן הַתּוֹרָה לַחֲלֹץ אִם לֹא רָצָה לְיַבֵּם שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(דברים כה ט)</span> ״וְחָלְצָה נַעֲלוֹ״‎‎ וְגוֹ'. וּמִצְוַת יִבּוּם קוֹדֶמֶת לְמִצְוַת חֲלִיצָה:",
+                      "ref": "Mishneh Torah, Levirate Marriage and Release 1:2",
+                      "sourceHeRef": "הלכות יבום וחליצה א:ב",
+                      "sourceRef": "Levirate Marriage and Release 1:2"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "When brothers dwell together and one of them dies and leaves no son, the wife of the deceased shall not be married to a stranger, outside the family. Her husband’s brother shall unite with her: he shall take her as his wife and perform the levir’s duty.",
+                      "he": "כִּֽי־יֵשְׁב֨וּ אַחִ֜ים יַחְדָּ֗ו וּמֵ֨ת אַחַ֤ד מֵהֶם֙ וּבֵ֣ן אֵֽין־ל֔וֹ לֹֽא־תִהְיֶ֧ה אֵֽשֶׁת־הַמֵּ֛ת הַח֖וּצָה לְאִ֣ישׁ זָ֑ר יְבָמָהּ֙ יָבֹ֣א עָלֶ֔יהָ וּלְקָחָ֥הּ ל֛וֹ לְאִשָּׁ֖ה וְיִבְּמָֽהּ׃",
+                      "link": "/Deuteronomy/25",
+                      "ref": "Deuteronomy 25:5",
+                      "sourceHeRef": "דברים כה:ה",
+                      "sourceRef": "Deuteronomy 25:5"
+                    }
+                  ]
+                }
+              },
+              "en": "Someone whose brother by his father died and did not leave descendants, it is a commandment to perform levirate marriage with his wife, whether she is his wife from marriage or his wife from betrothal, as it is written: \"When brothers dwell together and one of them dies and has no son, her yavam shall go in unto her\" (Devarim 25:5)",
+              "he": "מי שמת אחיו מאביו ולא הניח זרע מצוה לייבם את אשתו בין שהיא אשתו מן הנישואין בין שהיא אשתו מן האירוסין דכתיב כי ישבו אחים יחדיו ומת אחד מהם ובן אין לו יבמה יבא עליה:",
+              "ref": "Shulchan Arukh, Even HaEzer 156:1",
+              "sourceHeRef": "אבן העזר קנו:א - איזו נקרא זרע קיימא לפטור מן היבום",
+              "sourceRef": "Even HaEzer 156:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואומרים: <b>אדרבה</b> <span class=\"hebrew-emphasis\">[גדולה מזו,</span> להיפך<span class=\"hebrew-emphasis\">],</span> <b>מרבה אני את האח,</b> <b>שכן קם תחת אחיו לייבום,</b> שאם מת אחיו בלא בנים עליו לייבם את אשתו! ודוחים: <b>כלום יש יבום אלא במקום שאין בן</b> לאחיו שמת, <b>הא</b> אם <b>יש</b> לו <b>בן</b> — <b>אין יבום,</b> ומכאן שהבן קם תחת אביו יותר מן האח!",
+              "ref": "Steinsaltz on Arakhin 25b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:ה",
+              "sourceRef": "Steinsaltz on Arakhin 25b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A man whose brother died without children is obligated by Torah law to marry his deceased brother’s widow or free her of her levirate bonds by performing the ritual of <i>ĥalitza</i> (see Deuteronomy 25:5–10). As long as neither levirate marriage nor <i>ĥalitza</i> has taken place, it is prohibited for her to marry another man. Sexual intercourse consummates the marriage between the widow and the brother of the deceased, and she is thereafter considered his wife in all respects. Nowadays, in most Jewish communities the brother-in-law frees his brother’s widow of her obligation through <i>ĥalitza</i>, and he is not allowed to marry her through levirate marriage.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:5",
+              "sourceHeRef": "יִבּוּם",
+              "sourceRef": "Levirate marriage"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כלום יש יבום אלא במקום שאין בן</strong> - פי' ועדיף טפי בן מאח בהאי מילתא אבל אין לפרש כדמשמע לפום ריהטא דשוים הם בדבר הזה והוה ליה בן עדיף ביעידה ועבד עברי דלא משמע כך ביש נוחלין <span class=\"parenthesized\">(ב\"ב דף קט.)</span> דמסיק דבת קודמת לאב ולאח מטעם זה דלענין יבום בן ובת כי הדדי נינהו לענין נחלה נמי בן ובת כי הדדי נינהו אלמא ע\"כ אנו צריכין לומר דמטעם זה בן עדיף טפי מאח:",
+              "ref": "Tosafot on Arakhin 25b:5:1",
+              "sourceHeRef": "תוספות על ערכין כ״ה ב:ה:א",
+              "sourceRef": "Tosafot on Arakhin 25b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> objects: <b>On the contrary, I</b> should <b>include the brother, as he stands in his brother’s place with regard to levirate marriage,</b> which a son does not. The <i>baraita</i> rejects this suggestion: <b>Is there ever a case of levirate marriage other than a case where there is no son? In a case where there is a son there is no levirate marriage.</b> This indicates that with regard to levirate marriage as well, a son stands in place of the deceased more than a brother of the deceased.",
+      "he": "אדרבה מרבה אני את האח שכן קם תחת אחיו לייבום כלום יש יבום אלא במקום שאין בן הא יש בן אין יבום",
+      "ref": "Arakhin 25b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ותיפוק ליה דהכא תרתי כו'</strong> - ול\"ל לתרוצי כלום יש יבום כו':",
+              "ref": "Rashi on Arakhin 25b:6:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ו:א",
+              "sourceRef": "Rashi on Arakhin 25b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: לשם מה צריך לפרוך באופן זה? <b>ותיפוק ליה</b> <span class=\"hebrew-emphasis\">[ותצא לו</span> הוכחה<span class=\"hebrew-emphasis\">]</span> שהבן עדיף על האח, משום <b>דהכא תרתי</b> <span class=\"hebrew-emphasis\">[שכאן,</span> בבן, יש <span class=\"hebrew-emphasis\">שני</span> טעמים<span class=\"hebrew-emphasis\">],</span> יעידה ועבד עברי, <b>והכא חדא</b> <span class=\"hebrew-emphasis\">[וכאן,</span> באח רק טעם <span class=\"hebrew-emphasis\">אחד],</span> יבום!",
+              "ref": "Steinsaltz on Arakhin 25b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:ו",
+              "sourceRef": "Steinsaltz on Arakhin 25b:6"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: Why is it necessary to answer the question in this way? Let one <b>derive</b> the <i>halakha</i> that the son stands in place of the father, and the brother does not, from the simple fact <b>that here,</b> in support of extending the father’s status to the son, there are <b>two</b> justifications, i.e., the <i>halakha</i> of designation of the Hebrew maidservant and the <i>halakha</i> of the Hebrew slave, <b>and there,</b> in support of extending it to the brother, there is only <b>one</b> justification, i.e., the <i>halakha</i> of levirate marriage?",
+      "he": "ותיפוק ליה דהכא תרתי והכא חדא",
+      "ref": "Arakhin 25b:6"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משום</strong> - דהא דבן קם תחת אביו לעבד עברי לא נפקא לן מקרא אלא מהאי פירכא דכלום יש יבום וכו' דאמרי' בקדושין <span class=\"parenthesized\">(דף יז:)</span> מה ראית לרבות את הבן לעבד עברי ולהוציא את האח מרבה אני את הבן שכן קם תחת אביו ליעידה אדרבה מרבה אני את האח שכן קם תחת אחיו ליבום ומשני כלום יש יבום אלא במקום שאין בן ואי לאו האי פירכא דכלום יש יבום כו' לא נפקא ליה בעבד עברי והוה ליה הכא חדא והכא חדא:",
+              "ref": "Rashi on Arakhin 25b:7:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ז:א",
+              "sourceRef": "Rashi on Arakhin 25b:7:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>עבד</big></b> [בעארבייטען. דינער] <span class=\"parenthesized\">(כלאים פ\"ג)</span> היתה שדהו זרועה תבואה וביקש ליטע בתוכה שורה של דילועין נותנין לה עבודתה ו' טפחים ר' יוסי אומר נותנין לה עבודתה ד' אמות <span class=\"parenthesized\">(שם פ\"ז)</span> חריץ שהוא עמוק י' ורחב ד' נותנין לו עבודתו ד' אמות וכמה היא עבודת הכרם ו' טפחים לכל רוח רבי עקיבא אומר שלשה. <span class=\"parenthesized\">(ב\"ב סג)</span> בגמ' קנה שלשה ותני עלה ד' אמות שאמרו כדי עבודת הכרם. עבדא דנורא כבר פירשנו בערך נר <span class=\"parenthesized\">(תמורה כח)</span> המוקצה והנעבד איזהו נעבד כל שעובדין אותו הוא ומה שעליו אסור וזה וזה מותרין באכילה פי' בהמה נעבדת ונעשית עבודה <span class=\"parenthesized\">(ב\"ק קט)</span> נותנה לכהן שבאותו משמר עבודתה ועורה שלו פי' עבודתה מתנותיה שנאמר עבודת מתנה <span class=\"parenthesized\">(ב\"ר פרשת נז)</span> אמר לשני נעריו רואין אתם מה שאני רואה אמרו לו לא אמר הואיל ואינכם רואין כחמור שנאמר שבו לכם פה עם החמור שאתם דומין לחמור מיכן שהעבדים דומין לחמור <span class=\"parenthesized\">(בילמדנו)</span> פרשת ושרי אשת אברם למדונו רבותינו בשם ר' ירמיה שאמר בשם רב העבד עולה למנין ז' בשעה שישראל קורין בתורה בשבת. <span class=\"parenthesized\">(קדושין כב)</span> כי לי בני ישראל עבדים ולא עבדים לעבדים. <span class=\"parenthesized\">(ערכין כה)</span> עבד עברי מהאי פירכא הוא דקיימא ליה לתנא כלום יש ייבום אלא במקום שאין בן:",
+              "ref": "Sefer HeArukh, Letter Ayin 7",
+              "sourceHeRef": "ספר הערוך, אות העי\"ן ז׳",
+              "sourceRef": "Sefer HeArukh, Letter Ayin 7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>משום</b> שהדין שהבן ולא האח משתעבד ב<b>עבד עברי</b> לא נכתב במפורש בתורה, אלא <b>מהאי פירכא נמי הוא דנפקא ליה</b> <span class=\"hebrew-emphasis\">[מאותה פירכה</span> עצמה <span class=\"hebrew-emphasis\">גם כן הוא שיוצא לו</span> הדין<span class=\"hebrew-emphasis\">]:</span> <b>כלום יש יבום אלא במקום שאין בן,</b> ונמצא שזהו הבסיס העיקרי לדין זה.",
+              "ref": "Steinsaltz on Arakhin 25b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:ז",
+              "sourceRef": "Steinsaltz on Arakhin 25b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Sages derived from the verses that there is a certain instance in which a Hebrew slave remains enslaved until the completion of six years even if his master died. When the Gemara (<i>Kiddushin </i>17b) seeks to determine whether this applies when the slave is inherited by one’s son or brother, an exchange similar to the one that appears here is cited.",
+              "he": "שכמו כאן, גם לענין ירושת עבד עברי, עולה מדיוק הכתובים כי יש מקרה אחד בו העבד ממשיך לעבוד עד תום שש השנים, למרות שמת אדוניו, וכשדנו באיזה מקרה מדובר, האם באח או בבן, נאמר: מה ראית לרבות את הבן ולהוציא את האח? ועל כך השיבו: מרבה אני את הבן, שכן קם תחת אביו ליעדה ולשדה אחוזה. והקשו: אדרבה, מרבה אני את האח, שכן קם תחת אחיו ליבום! והסיקו: כלום יש יבום אלא במקום שאין בן, הא יש בן אין יבום (קדושין יז,ב).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:7",
+              "sourceHeRef": "מֵהַאי פִּירְכָא נַמִי הוּא דְּנָפְקָא לֵיהּ",
+              "sourceRef": "He also derives it from this refutation"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara responds: That answer is invalid <b>because</b> the <i>halakha</i> <b>that</b> a son, but not a brother, stands in place of his father with regard to <b>a Hebrew slave</b> is not written explicitly in the Torah, but the <i>tanna</i> <b>also derives it from this</b> same <b>refutation,</b> namely: <b>Is there ever a case of levirate marriage other than a case where there is no son.</b> Without this refutation there would not be more justifications in support of extending the father’s status to the son rather than to the brother. Accordingly, this last refutation is the basis for the conclusion.",
+      "he": "משום דעבד עברי מהאי פירכא נמי הוא דנפקא ליה כלום יש יבום אלא במקום שאין בן",
+      "ref": "Arakhin 25b:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מהו שתעמיד כו'</strong> - אם גאלתה בתו לשדה אחוזה מיד גזבר מהו שיצא לאביה ביובל ולא לכהנים:",
+              "ref": "Rashi on Arakhin 25b:8:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ח:א",
+              "sourceRef": "Rashi on Arakhin 25b:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> <b>בעי</b> <span class=\"hebrew-emphasis\">[שאל]</span> <b>רבה בר אבוה: בת</b> שגאלה מן ההקדש שדה אחוזה שהקדיש אביה, <b>מהו שתעמיד</b> את ה<b>שדה לאביה</b> ביובל? וצדדי השאלה: <b>כיון</b> ש<b>לענין</b> מצות <b>יבום,</b> אם נותר למת <b>בן</b> או <b>בת כי הדדי פטרי</b> <span class=\"hebrew-emphasis\">[זו כמו זה פוטרים]</span> את אשת האב מיבום, לפיכך <b>מוקמה</b> <span class=\"hebrew-emphasis\">[מעמידה]</span> כאן הבת את השדה לאביה. <b>או דילמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> <b>כיון</b> ש<b>לענין נחלה בת במקום</b> שיש <b>בן כי</b> <span class=\"hebrew-emphasis\">[כמו]</span> <b>אחר דמיא</b> <span class=\"hebrew-emphasis\">[נחשבת]</span> ואינה יורשת, לפיכך אף כאן <b>לא מוקמה</b> <span class=\"hebrew-emphasis\">[אינה מעמידה]</span> את השדה לאביה?",
+              "ref": "Steinsaltz on Arakhin 25b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:ח",
+              "sourceRef": "Steinsaltz on Arakhin 25b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "In a case where one consecrated his ancestral field and his daughter redeemed it, if it is still in her possession when the Jubilee Year arrives, it leaves her possession and is given to the priests (Rambam<i> Sefer Hafla’a</i>,<i> Hilkhot Arakhin VaĤaramim</i> 4:20).",
+              "he": "המקדיש שדה אחוזתו וגאלה אותה בתו, וכשהגיע היובל הריהי תחת ידה — הריהי יוצאה להקדש וניתנת לכהנים. כמסקנת הגמרא. (רמב\"ם ספר הפלאה הלכות ערכין וחרמין פ\"ד ה\"כ).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:8",
+              "sourceHeRef": "בַּת מַהוּ שֶׁתַּעֲמִיד",
+              "sourceRef": "A daughter, what is the <i>halakha</i>, does she preserve"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbah-b-avuha\" class=\"namedEntityLink\" data-slug=\"rabbah-b-avuha\">Rabba bar Avuh</span> raises a dilemma:</b> If <b>a daughter</b> redeemed the ancestral field that her father consecrated, <b>what is</b> the <i>halakha</i>? Does <b>she</b> thereby <b>preserve</b> possession of the <b>field for her father</b> at the Jubilee Year, like a son? <span href=\"/topics/rabbah-b-avuha\" class=\"namedEntityLink\" data-slug=\"rabbah-b-avuha\">Rabba bar Avuh</span> explains the two sides of the dilemma: Perhaps the <i>halakha</i> is that <b>since with regard to levirate marriage, a son and a daughter</b> are <b>like one another,</b> as both <b>exempt</b> their father’s widow from the obligation of levirate marriage, the daughter <b>preserves</b> possession of the field for her father. <b>Or perhaps</b> the <i>halakha</i> is that <b>since with regard to inheritance, when</b> there is <b>a son, a daughter is considered like another</b> person, as she does not inherit a share of her father’s estate, she <b>does not preserve</b> possession of the field for her father.",
+      "he": "בעי <span href=\"/topics/rabbah-b-avuha\" class=\"namedEntityLink\" data-slug=\"rabbah-b-avuha\">רבה בר אבוה</span> בת מהו שתעמיד שדה לאביה כיון דלענין יבום בן ובת כי הדדי פטרי מוקמה או דילמא כיון דלענין נחלה בת במקום בן כי אחר דמיא לא מוקמה",
+      "ref": "Arakhin 25b:8",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If the person who consecrated it redeemed it before the Jubilee, it returns to its owner [in the Jubilee]. The <i>airech</i> which he pays is given for improvements to the Temple, as we have explained. Similarly, if the son of the person who consecrated it redeemed it, it returns to his father in the Jubilee. If, however, his daughter, another relative, or an unrelated person redeemed it, [different laws apply]. If the person who consecrated it redeems it from them, it returns to him at all times [before the Jubilee year]. If, however, he did not redeem it from their possession and when the Jubilee arrived it is in the possession of the daughter, another relative, or an unrelated person, it is expropriated from them [and becomes the property of] the Temple treasury. It never returns to its owners again. Instead, it becomes the ancestral property of the priests, as [Leviticus 27:21] states: \"When the field departs [from the purchaser's domain] in the Jubilee, it shall become the priests.\" The priests do not have to pay its value, because it was already redeemed from the Temple treasury and [the Temple treasury] received its <i>airech</i> from another person. Hence, it is returned to the priests as if they are its owners.",
+              "he": "גְּאָלָהּ הַמַּקְדִּישׁ קֹדֶם שֶׁיַּגִּיעַ הַיּוֹבֵל הֲרֵי זוֹ חוֹזֶרֶת לִבְעָלֶיהָ וְהָעֵרֶךְ שֶׁנָּתַן יִפּל לְבֶדֶק הַבַּיִת כְּמוֹ שֶׁבֵּאַרְנוּ. וְכֵן אִם גְּאָלָהּ בְּנוֹ שֶׁל מַקְדִּישׁ הֲרֵי זוֹ חוֹזֶרֶת לְאָבִיו בַּיּוֹבֵל. אֲבָל אִם גָּאֲלָה אוֹתָהּ בִּתּוֹ אוֹ שְׁאָר קְרוֹבָיו אוֹ נָכְרִי מִיַּד הַהֶקְדֵּשׁ. אִם חָזַר הַמַּקְדִּישׁ וּגְאָלָהּ מִיָּדָן חוֹזֶרֶת לוֹ לְעוֹלָם. וְאִם לֹא גְּאָלָהּ מִיָּדָן אֶלָּא הִגִּיעַ הַיּוֹבֵל וְהִיא תַּחַת יַד הַבַּת אוֹ שְׁאָר קְרוֹבִים אוֹ נָכְרִי הֲרֵי זוֹ יוֹצְאָה לַהֶקְדֵּשׁ וְאֵינָהּ חוֹזֶרֶת לַבְּעָלִים לְעוֹלָם. אֶלָּא תִּהְיֶה אֲחֻזָּה לַכֹּהֲנִים שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(ויקרא כז כא)</span> \"וְהָיָה הַשָּׂדֶה בְּצֵאתוֹ בַיֹּבֵל לַכֹּהֵן\" וְגוֹ'. וְאֵין הַכֹּהֲנִים צְרִיכִין לִתֵּן דָּמִים שֶׁכְּבָר נִפְדֵית מִיַּד הַהֶקְדֵּשׁ וְלָקַח עֶרְכָּהּ מְאֻחָר אֶלָּא תַּחְזֹר לַכֹּהֲנִים כְּאִלּוּ הֵם בְּעָלֶיהָ:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 4:20",
+              "sourceHeRef": "הלכות ערכים וחרמין ד:כ",
+              "sourceRef": "Appraisals and Devoted Property 4:20"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל שהוא אחר במקום בן</strong> - דהיכא דיש בן חשוב זה כאחר אינו מעמיד:",
+              "ref": "Rashi on Arakhin 25b:9:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:ט:א",
+              "sourceRef": "Rashi on Arakhin 25b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים: <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> ראיה ממה <b>דתנא דבי</b> <span class=\"hebrew-emphasis\">[ששנה</span> החכם <span class=\"hebrew-emphasis\">מבית</span> מדרשו<span class=\"hebrew-emphasis\">]</span> של <b>ר' ישמעאל: כל</b> מי <b>שהוא</b> נחשב <b>אחר במקום</b> שיש <b>בן</b> — אינו מעמיד את השדה ביד האב, <b>והא נמי</b> <span class=\"hebrew-emphasis\">[וזו גם כן,</span> הבת<span class=\"hebrew-emphasis\">]</span> <b>במקום בן כי</b> <span class=\"hebrew-emphasis\">[כמו]</span> <b>אחר דמיא</b> <span class=\"hebrew-emphasis\">[נחשבת],</span> ולכן אינה מעמידה.",
+              "ref": "Steinsaltz on Arakhin 25b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:ט",
+              "sourceRef": "Steinsaltz on Arakhin 25b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ולא רק במקום שיש בן, אלא גם בת יורשת נחלה (שאין לאביה בנים), למרות שהיא פוטרת את אשת אביה מן היבום — אינה מעמידה את השדה לאביה, אלא אם גאלה את השדה מיד ההקדש — יוצאת השדה ומתחלקת לכהנים ביובל (רבינו גרשום, קדשי דוד, הגהות רד\"ל).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:9",
+              "sourceHeRef": "כל שהוא אחר במקום בן וכו' כי אחר דמיא",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara suggests: <b>Come</b> and <b>hear</b> a proof from a <i>baraita</i> <b>that the school of <span href=\"/topics/rabbi-yishmael-b-elisha\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-elisha\">Rabbi Yishmael</span> taught: Anyone who is</b> considered like <b>another</b> person <b>when</b> there is <b>a son</b> does not preserve possession of the field for the owner. <b>And</b> with regard to <b>this,</b> i.e., a daughter, <b>as well, when</b> there is <b>a son,</b> she is <b>considered like another</b> person.",
+      "he": "ת\"ש דתנא דבי <span href=\"/topics/rabbi-yishmael-b-elisha\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-elisha\">ר' ישמעאל</span> כל שהוא אחר במקום בן והא נמי במקום בן כי אחר דמיא",
+      "ref": "Arakhin 25b:9"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a woman consecrated her ancestral field, her husband redeemed it from the Temple treasury, and it is in his possession when the Jubilee arrives, there is an unresolved question whether it returns to the woman or it is given to the priests. Therefore if the woman came first and took possession of it after the arrival of the Jubilee, the priests cannot expropriate it from her domain. If the priests took possession of it first, she cannot expropriate it from their possession.",
+              "he": "הָאִשָּׁה שֶׁהִקְדִּישָׁה שְׂדֵה אֲחֻזָּתָהּ וּגְאָלָהּ בַּעְלָהּ מִיַּד הַהֶקְדֵּשׁ וְהִגִּיעַ הַיּוֹבֵל וְהִיא תַּחַת יַד הַבַּעַל הֲרֵי הַדָּבָר סָפֵק אִם תַּחְזֹר לָאִשָּׁה אוֹ תֵּצֵא לַכֹּהֲנִים. לְפִיכָךְ קָדְמָה הָאִשָּׁה וְהֶחֱזִיקָה בָּהּ אַחַר הַיּוֹבֵל אֵין הַכֹּהֲנִים יְכוֹלִין לְהוֹצִיא מִיָּדָהּ. וְכֵן אִם קָדְמוּ הַכֹּהֲנִים וְהֶחֱזִיקוּ בָּהּ אֵינָהּ יְכוֹלָה לְהוֹצִיא מִיָּדָם:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 4:22",
+              "sourceHeRef": "הלכות ערכים וחרמין ד:כב",
+              "sourceRef": "Appraisals and Devoted Property 4:22"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אשה</strong> - שהקדישה שדה מלוג מי יפדנה מיד הקדש שלא תצא לכהנים ביובל אם היא אינה יכולה לפדותה:",
+              "ref": "Rashi on Arakhin 25b:10:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:י:א",
+              "sourceRef": "Rashi on Arakhin 25b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שכן יורשה</strong> - דהוא ירית לה אפי' יש לה בן בעלה יורשה ולא בן כדכתיב וירש אותה מלמד שהבעל יורש את אשתו <span class=\"parenthesized\">(ב\"ב דף קיא:)</span>:",
+              "ref": "Rashi on Arakhin 25b:10:2",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:י:ב",
+              "sourceRef": "Rashi on Arakhin 25b:10:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">א\"ד בן מוקים לה</strong> - דהא היכא דאין בעל ובנה יורשה נוטל בנכסים הראוים ליפול לאחר מיתה כבמוחזק לה לפני מיתה אבל בעל היורש את אשתו אינו נוטל בראוי כבמוחזק כדאמרינן בפרק יש נוחלין <span class=\"parenthesized\">(ב\"ב דף קיג.)</span>:",
+              "ref": "Rashi on Arakhin 25b:10:3",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:י:ג",
+              "sourceRef": "Rashi on Arakhin 25b:10:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בעי</b> <span class=\"hebrew-emphasis\">[שאל]</span> <b>ר' זירא: אשה</b> שהקדישה שדה אחוזה שלה, <b>מי</b> מיורשיה <b>מעמיד לה</b> את ה<b>שדה</b> ביובל, אם פודה אותה מיד ההקדש? האם <b>הבעל מוקים</b> <span class=\"hebrew-emphasis\">[מעמיד]</span> <b>לה, שכן</b> הוא זה ש<b>יורשה</b> אם מתה בחייו, ולא בנה. <b>או דילמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> ה<b>בן</b> הוא <b>מוקים</b> <span class=\"hebrew-emphasis\">[מעמיד]</span> <b>לה</b> שדה שהקדישה, <b>שכן</b> כאשר הבן יורשה הריהו <b>נוטל</b> <b>ב</b>נכס ש<b>ראוי</b> היה ליפול לידיה (כגון בירושה) <b>כ</b>פי שהוא יורש <b>ב</b>נכס שכבר <b>מוחזק</b> בידה? שאלה זו לא נפתרה ונשארה ב<b>תיקו</b> <span class=\"hebrew-emphasis\">[תעמוד]</span> השאלה במקומה.",
+              "ref": "Steinsaltz on Arakhin 25b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:י",
+              "sourceRef": "Steinsaltz on Arakhin 25b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Rambam apparently had a different version of the text, according to which the dilemma applies only with regard to the husband, i.e., it is clear that if her son redeems the field, he maintains the field for her during the Jubilee Year. Accordingly, Rabbi Zeira is asking: With regard to a husband, does he maintain the field for her because he inherits from her in place of her son? Or perhaps he is considered like another person, relative to the son, and therefore the field goes to the priests (<i>Kesef Mishne </i>on Rambam<i> Sefer Hafla’a</i>,<i> Hilkhot Arakhin VaĤaramim </i>4:22; see also Rabbeinu Gershom Meor HaGola).",
+              "he": "ומדובר באשה שהקדישה שדה מלוג שלה, דהיינו שדה שהבעל אוכל את פירותיה (רש\"י). ושאלת ר' זירא מתבססת לכאורה על מה שנאמר שכל שהוא \"אחר\" במקום בן אינו מעמיד שדה ביד הבעלים. ולפיכך יש לשאול מה מעמדו של הבעל, שהרי הוא אינו נחשב אחר, אלא יורש את אשתו במקום הבן. ומדברי הרמב\"ם משמע כי היתה לו גרסה אחרת, ולפיה אין כאן שאלה מי מעמיד שדה ביד האשה, האם הבעל או הבן. ובוודאי שאם בנה גואל את השדה — אינה יוצאת ביובל לכהנים, וכל השאלה היתה לגבי בעל, האם (\"מי\") גם הוא נחשב כבן מפני שהוא יורשה, או האם הוא נחשב כ\"אחר\" והשדה יוצאת לכהנים ביובל (כסף משנה הלכות ערכין וחרמין פ\"ד הכ\"ב. וכן נראה מרבינו גרשום).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:10",
+              "sourceHeRef": "אִשָּׁה מִי מַעֲמִיד לָהּ שָׂדֶה",
+              "sourceRef": "A woman, which of her heirs can preserve the field for her"
+            },
+            {
+              "en": "If a woman consecrated her ancestral field and her husband redeemed it from the Temple treasury, and it was in his possession when the Jubilee Year arrived, it is uncertain whether the field returns to the woman or whether it is given to the priests. Therefore, if she proceeds to take control of the field from her husband after the arrival of the Jubilee Year, the priests may not remove it from her possession. Similarly, if the priests proceed to take control of the field from her husband, she may not remove it from their possession. The Rambam rules in this manner because the dilemma of Rabbi Zeira remains unresolved. By contrast, the Ra’avad writes that as a husband’s possession is considered like the possession of his wife, the woman is considered to be in possession of the field and the priests may not remove it from her control (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Arakhin VaĤaramim </i>4:22).",
+              "he": "האשה שהקדישה שדה אחוזתה, וגאלה בעלה מיד ההקדש, והגיע היובל והיא תחת יד הבעל — הרי הדבר ספק אם תחזור לאשה או תצא לכהנים. לפיכך, אם קדמה האשה והחזיקה בה אחר היובל — אין הכהנים יכולים להוציא מידה. ואם קדמו הכהנים והחזיקו בה — אינה יכולה להוציא מידם. שלא נפתרה שאלת ר' זירא. וכתב הראב\"ד שהואיל ויד הבעל כיד האשה בכל נכסיה — נחשבת האשה כמוחזקת, ואין הכהנים מוציאים מידה. (רמב\"ם שם הכ\"ב).",
+              "ref": "Steinsaltz comment #2 on Arakhin 25b:10",
+              "sourceHeRef": "אִשָּׁה מִי מַעֲמִיד לָהּ שָׂדֶה",
+              "sourceRef": "A woman, which of her heirs can preserve the field for her"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rabbi Zeira</span> raises a dilemma:</b> If <b>a woman</b> consecrated her ancestral field, <b>which</b> of her heirs can redeem the field and thereby <b>preserve</b> possession of the <b>field for her</b> during the Jubilee Year? Can her <b>husband preserve</b> it <b>for her, as</b> he <b>inherits</b> from <b>her</b> if she dies during his lifetime? <b>Or perhaps</b> her <b>son</b> can <b>preserve</b> if <b>for her, as</b> if the son inherits from his mother, when she was not married at the time of her death, he <b>takes</b> in inheritance the property <b>due</b> to her <b>as</b> he does the property she <b>possessed?</b> There is a <i>halakha</i> that if someone dies and his heir is a woman who is already deceased, her son inherits that property, not her late husband. No resolution is offered, and therefore the Gemara states that the dilemma <b>shall stand</b> unresolved.",
+      "he": "בעי <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">ר' זירא</span> אשה מי מעמיד לה שדה בעל מוקים לה שכן יורשה א\"ד בן מוקים לה שכן נוטל בראוי כבמוחזק תיקו",
+      "ref": "Arakhin 25b:10"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הקדישה פחות משתי שנים לפני היובל</strong> - ובא אחר וגאלה ולא בגירוע אלא חמשים שלימין מהו שתצא לכהנים ביובל כשאר שדה אחוזה:",
+              "ref": "Rashi on Arakhin 25b:11:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:יא:א",
+              "sourceRef": "Rashi on Arakhin 25b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג</big> ועוד בעניינים אלה, <b>בעא מיניה</b> <span class=\"hebrew-emphasis\">[שאל אותו]</span> <b>רמי בר חמא מרב חסדא:</b> <b>הקדישה</b> את שדה אחוזתו <b>פחות משתי שנים לפני היובל,</b> ולא גאלה, <b>מהו שתצא</b> <b>לכהנים?</b>",
+              "ref": "Steinsaltz on Arakhin 25b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:יא",
+              "sourceRef": "Steinsaltz on Arakhin 25b:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one consecrated his ancestral field less than two years before the Jubilee Year, it is consecrated. If he does not redeem it before the Jubilee Year, it goes to the priests (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Arakhin VaĤaramim </i>4:9; see <i>Leĥem Mishne </i>on<i> </i>4:22).",
+              "he": "המקדיש שדהו בפחות משתי שנים לפני היובל — הרי זו מוקדשת, ואם לא פדאה — הרי זו יוצאה לכהנים ביובל. כמסקנת הגמרא (ראה לח\"מ שם הכ\"ב). (רמב\"ם שם ה\"ט).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:11",
+              "sourceHeRef": "הִקְדִּישָׁהּ פָּחוֹת מִשְּׁתֵּי שָׁנִים וכו׳",
+              "sourceRef": "One consecrated his ancestral field less than two years, etc."
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rami-b-hama\" class=\"namedEntityLink\" data-slug=\"rami-b-hama\">Rami bar Ḥama</span> raised a dilemma</b> before <b><span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span>:</b> If one <b>consecrated</b> his ancestral field <b>less than two years before the Jubilee</b> Year and did not redeem it, <b>what is</b> the <i>halakha</i> with regard to whether or not <b>it is</b> to be <b>removed</b> from his possession during the Jubilee and given <b>to the priests?</b>",
+      "he": "בעא מיניה <span href=\"/topics/rami-b-hama\" class=\"namedEntityLink\" data-slug=\"rami-b-hama\">רמי בר חמא</span> <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">מרב חסדא</span> הקדישה פחות משתי שנים לפני היובל מהו שתצא לכהנים",
+      "ref": "Arakhin 25b:11",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">גֵּירָעוֹן</strong>, <strong dir=\"rtl\">גֵּרָ׳</strong> m. (= <span class=\"refLink\" data-ref=\"Jastrow, גֵּירוּעַ I 1\" href=\"/Jastrow,_גֵּירוּעַ I.1\"><span dir=\"rtl\">גֵּירוּעַ</span> I</span>) <i>deduction</i>. <span class=\"refLink\" data-ref=\"Arakhin 25b:30\" href=\"/Arakhin.25b.30\">Arakhin 25ᵇ</span> <span dir=\"rtl\">בת ג׳</span> subject to the law of deduction. <span class=\"refLink\" data-ref=\"Mishnah Arakhin 9:7\" href=\"/Mishnah_Arakhin.9.7\">Ib. IX, 7</span> (<span class=\"refLink\" data-ref=\"Arakhin 33a:29\" href=\"/Arakhin.33a.29\">33ᵃ</span>) <span dir=\"rtl\">ובג׳ כסף … יוצאים</span> go back to their owners in the year of Jubilee or with a deduction from the purchasing price (<span class=\"refLink\" data-ref=\"Leviticus 25:27\" href=\"/Leviticus.25.27\">Vayikra XXV, 27</span>). <span class=\"refLink\" data-ref=\"Mishnah Kiddushin 1:2\" href=\"/Mishnah_Kiddushin.1.2\">Kiddushin I, 2</span> (of the Hebrew slave); and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, גֵּירָעוֹן 1",
+              "sourceHeRef": "מילון יסטרוב, גֵּירָעוֹן א׳",
+              "sourceRef": "Jastrow, גֵּירָעוֹן 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי דעתיך</strong> - דתיבעי למימר דלא נפקא:",
+              "ref": "Rashi on Arakhin 25b:12:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:יב:א",
+              "sourceRef": "Rashi on Arakhin 25b:12:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רב חסדא: <b>מאי דעתיך</b> <span class=\"hebrew-emphasis\">[מה דעתך],</span> מדוע אתה סבור שתחזור אליו? שהרי לאחר שנאמר: <b>\"ונגרע מערכך\"</b> (ויקרא כז, יח), ללמד שהשדה נגאלת בגרעון כסף לפי השנים הנותרות עד היובל, אומר הכתוב: <b>\"והיה השדה בצאתו ביובל</b> קדש לה'... לכהן תהיה אחוזתו\" (שם, כא), ומכאן אתה למד ששדה שהיא <b>בת גירעון</b> — <b>אין</b> <span class=\"hebrew-emphasis\">[כן],</span> יוצאת ביובל לכהנים, אבל שדה <b>דלאו</b> <span class=\"hebrew-emphasis\">[שאינה]</span> <b>בת גירעון,</b> וכגון שהקדישוה בתוך שנתיים לפני היובל, ואפשר לפדותה רק במחיר מלא של חמישים שקל לבית זרע כור שעורים (ראה לעיל כד,א) — <b>לא</b> תצא ביובל לכהנים, אלא תחזור לבעליה.",
+              "ref": "Steinsaltz on Arakhin 25b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:יב",
+              "sourceRef": "Steinsaltz on Arakhin 25b:12"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But if he consecrates his land after the jubilee, the priest shall compute the price according to the years that are left until the jubilee year, and its assessment shall be so reduced;",
+              "he": "וְאִם־אַחַ֣ר הַיֹּבֵל֮ יַקְדִּ֣ישׁ שָׂדֵ֒הוּ֒ וְחִשַּׁב־ל֨וֹ הַכֹּהֵ֜ן אֶת־הַכֶּ֗סֶף עַל־פִּ֤י הַשָּׁנִים֙ הַנּ֣וֹתָרֹ֔ת עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְנִגְרַ֖ע מֵֽעֶרְכֶּֽךָ׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:18",
+              "sourceHeRef": "ויקרא כז:יח",
+              "sourceRef": "Leviticus 27:18"
+            },
+            {
+              "en": "when it is released in the jubilee, the land shall be holy to the L<small>ORD</small>, as land proscribed; it becomes the priest’s holding.",
+              "he": "וְהָיָ֨ה הַשָּׂדֶ֜ה בְּצֵאת֣וֹ בַיֹּבֵ֗ל קֹ֛דֶשׁ לַֽיהֹוָ֖ה כִּשְׂדֵ֣ה הַחֵ֑רֶם לַכֹּהֵ֖ן תִּהְיֶ֥ה אֲחֻזָּתֽוֹ׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:21",
+              "sourceHeRef": "ויקרא כז:כא",
+              "sourceRef": "Leviticus 27:21"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> <b>said to him: What is your reasoning?</b> Is it that since the verse states: <b>“And a deduction shall be made from your valuation”</b> (Leviticus 27:18), which indicates that the field is redeemed with a deduction according to the years remaining until the Jubilee Year, and the verse also states: <b>“But the field, when it goes out in the Jubilee,</b> shall be holy for the Lord…his ancestral possession shall be for the priest” (Leviticus 27:21), this indicates <b>that</b> if the field <b>is fit for deduction,</b> then <b>yes,</b> when it is not redeemed by the owner it is given to the priests at the Jubilee Year, but with regard to a field <b>that is not fit for deduction,</b> i.e., one consecrated less than two years before the Jubilee Year, which must be redeemed according to its full valuation (24a), <b>no,</b> it is not given to the priests but rather is returned to the owner?",
+      "he": "א\"ל מאי דעתיך (ויקרא כז, יח) ונגרע מערכך והיה השדה בצאתו ביובל דבת גירעון אין דלאו בת גירעון לא",
+      "ref": "Arakhin 25b:12"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "על כך יש להשיב: <b>אדרבה</b> <span class=\"hebrew-emphasis\">[גדולה מזו,</span> להיפך<span class=\"hebrew-emphasis\">],</span> כאשר הכתוב מגדיר מתי יוצאת השדה לכהנים, נאמר: \"ו <b>אם לא יגאל השדה</b> וכו' <b>והיה השדה בצאתו ביובל</b> קדש לה'... לכהן תהיה אחוזתו\" (שם כ—כא), ומכאן אתה למד שכל שדה שניתן לגואלה בכלל זה, <b>והאי נמי</b> <span class=\"hebrew-emphasis\">[וזו גם כן],</span> השדה שהקדישוה בתוך שנתיים לפני היובל — <b>בת גאולה היא,</b> ולפיכך תצא ביובל לכהנים.",
+              "ref": "Steinsaltz on Arakhin 25b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:יג",
+              "sourceRef": "Steinsaltz on Arakhin 25b:13"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": [
+                "But if he does not redeem the land, and the land is sold to another, it shall no longer be redeemable:",
+                "when it is released in the jubilee, the land shall be holy to the L<small>ORD</small>, as land proscribed; it becomes the priest’s holding."
+              ],
+              "he": [
+                "וְאִם־לֹ֤א יִגְאַל֙ אֶת־הַשָּׂדֶ֔ה וְאִם־מָכַ֥ר אֶת־הַשָּׂדֶ֖ה לְאִ֣ישׁ אַחֵ֑ר לֹ֥א יִגָּאֵ֖ל עֽוֹד׃",
+                "וְהָיָ֨ה הַשָּׂדֶ֜ה בְּצֵאת֣וֹ בַיֹּבֵ֗ל קֹ֛דֶשׁ לַֽיהֹוָ֖ה כִּשְׂדֵ֣ה הַחֵ֑רֶם לַכֹּהֵ֖ן תִּהְיֶ֥ה אֲחֻזָּתֽוֹ׃"
+              ],
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:20-21",
+              "sourceHeRef": "ויקרא כז:כ-כא",
+              "sourceRef": "Leviticus 27:20-21"
+            },
+            {
+              "en": "But if he does not redeem the land, and the land is sold to another, it shall no longer be redeemable:",
+              "he": "וְאִם־לֹ֤א יִגְאַל֙ אֶת־הַשָּׂדֶ֔ה וְאִם־מָכַ֥ר אֶת־הַשָּׂדֶ֖ה לְאִ֣ישׁ אַחֵ֑ר לֹ֥א יִגָּאֵ֖ל עֽוֹד׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:20",
+              "sourceHeRef": "ויקרא כז:כ",
+              "sourceRef": "Leviticus 27:20"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> responds: <b>On the contrary,</b> the verse states: “And <b>if he will not redeem the field,</b> or if he sold the field to another man, it shall not be redeemed anymore. <b>But the field, when it goes out in the Jubilee,</b> shall be holy for the Lord…his ancestral possession shall be for the priest” (Leviticus 27:20–21). This indicates that any field that could have been redeemed but was not redeemed becomes the possession of the priests. <b>And this</b> field, which was consecrated less than two years before the Jubilee Year, <b>is also fit for redemption.</b> Therefore, if it was not redeemed it is given to the priests.",
+      "he": "אדרבה אם לא יגאל השדה והיה השדה בצאתו ביובל והאי נמי בת גאולה היא:",
+      "ref": "Arakhin 25b:13"
+    },
+    {
+      "commentary": {
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> If <b>one consecrated</b> his ancestral field <b>and</b> then <b>redeemed it</b> himself, <b>it is not removed from his possession</b> to be divided among the priests <b>during the Jubilee</b> Year. If <b>his son redeemed it,</b> the field <b>is removed</b> from the son’s possession and returns <b>to his father during the Jubilee</b> Year. But if <b>another</b> person <b>or one of his</b> other <b>relatives redeemed</b> the field <b>and</b> the owner subsequently <b>redeemed it from his possession,</b> the field is <b>removed</b> from the owner’s possession and given <b>to the priests during the Jubilee</b> Year.",
+                "If <b>one of the priests redeemed</b> the field <b>and</b> when the Jubilee arrived <b>it</b> was <b>in his possession, he may not say: Since it is removed</b> from the possession of the one who redeemed it and given <b>to the priests during the Jubilee</b> Year, <b>and</b> since <b>it is</b> already <b>in my possession, it is mine. Rather,</b> the field <b>is removed from his possession and is divided among all his brethren, the priests.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Arakhin 25a:16",
+                "Arakhin 25a:17"
+              ],
+              "he": [
+                "<big><strong>מתני׳</strong></big> הקדישה וגאלה אינה יוצאה מידו ביובל גאלה בנו יוצאה לאביו ביובל גאלה אחר או אחד מהקרובים וגאלה מידו יוצאה לכהנים ביובל",
+                "גאלה אחד מן הכהנים והרי היא תחת ידו לא יאמר הואיל והיא יוצאה לכהנים ביובל והרי היא תחת ידי הרי היא שלי אלא יוצאה מתחת ידו ומתחלקת לכל אחיו הכהנים:"
+              ],
+              "link": "/Arakhin/25a",
+              "ref": "Arakhin 25a:16-17",
+              "sourceHeRef": "unused",
+              "sourceRef": "Arakhin 25a:16-17"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ד</big> שנינו במשנה: <b>גאלה אחד מן הכהנים,</b> והרי היא תחת ידו, לא יאמר: הואיל והיא יוצאה לכהנים ביובל, והרי היא תחת ידי — הרי היא שלי, אלא יוצאה מתחת ידו ומתחלקת לכל אחיו הכהנים. ומביאים בענין זה, <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים</span> בברייתא<span class=\"hebrew-emphasis\">]:</span> מה שנאמר במקדיש שדה אחוזתו ולא גאלה: \"והיה השדה בצאתו ביובל קדש לה'... <b>לכהן תהיה אחזתו\"</b> (ויקרא כז, כא), <b>מה תלמוד לומר?</b> והרי די לומר \"לכהן תהיה\"!",
+              "ref": "Steinsaltz on Arakhin 25b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:יד",
+              "sourceRef": "Steinsaltz on Arakhin 25b:14"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Since it is clear that the verse is referring to one who consecrated his ancestral field and did not redeem it, the term “his ancestral possession” is superfluous. Accordingly, the Sages interpret “his ancestral possession shall be for the priest” as an independent phrase that is referring to the ancestral field of the priest (see <i>Torat Kohanim </i>and the commentary of Rabbi Shimshon of Saens at the beginning of the chapter in <i>Torat Kohanim</i>).",
+              "he": "פשט הכתוב מורה לכאורה כי מדובר על אחוזתו של אותו אדם שהקדישה ולא גאלה. אלא ש\"אחוזתו\" יתירה היא. ועוד, ש\"שדה\" בתורה לשון זכר היא. ואם כן, יש לראות את \"תהיה אחוזתו\" כמשפט נפרד, המדבר על אחוזתו של הכהן (ראה תו\"כ ובפירוש ר\"ש משאנץ בתחילת הפרק בתו\"כ).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:14",
+              "sourceHeRef": "לַכֹּהֵן תִּהְיֶה אֲחֻזָּתוֹ וכו׳",
+              "sourceRef": "His ancestral possession shall be for the priest, etc."
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "when it is released in the jubilee, the land shall be holy to the L<small>ORD</small>, as land proscribed; it becomes the priest’s holding.",
+              "he": "וְהָיָ֨ה הַשָּׂדֶ֜ה בְּצֵאת֣וֹ בַיֹּבֵ֗ל קֹ֛דֶשׁ לַֽיהֹוָ֖ה כִּשְׂדֵ֣ה הַחֵ֑רֶם לַכֹּהֵ֖ן תִּהְיֶ֥ה אֲחֻזָּתֽוֹ׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:21",
+              "sourceHeRef": "ויקרא כז:כא",
+              "sourceRef": "Leviticus 27:21"
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches: If <b>one of the priests redeemed</b> the field and when the Jubilee Year arrived it was in his possession, he may not say: Since it is removed from the possession of the one who redeemed it and given to the priests during the Jubilee Year, and since it is already in my possession, it is mine. Rather, the field is removed from his possession and is divided among all of his brethren, the priests. With regard to this <i>halakha</i>, <b>the Sages taught</b> in a <i>baraita</i>: <b>Why</b> must <b>the verse state:</b> “But the field, when it goes out in the Jubilee, shall be holy for the Lord…<b>his ancestral possession shall be for the priest”</b> (Leviticus 27:21)?",
+      "he": "גאלה אחד מן הכהנים כו': תנו רבנן (ויקרא כז, כא) לכהן תהיה אחוזתו מה ת\"ל",
+      "ref": "Arakhin 25b:14",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "With regard to the payment to priests in the case of one who robbed a convert who then died without heirs, <b>the Sages taught:</b> The verse states: “Restitution for guilt that is made <b>shall be the Lord’s, even the priest’s”</b> (Numbers 5:8), teaching that <b>the Name,</b> i.e., God, <b>acquired it and gave it to the priest who is in that priestly watch.</b> Do <b>you say</b> that it is given only <b>to the priest who is on that priestly watch? Or</b> perhaps that is <b>not</b> the case, and <b>rather</b> he may give it <b>to any priest that he wishes? When it says</b> in that verse: <b>“Besides the ram of the atonement, whereby atonement shall be made for him,”</b> this teaches that <b>the verse speaks of</b> giving it <b>to the priest who is on that priestly watch.</b> Just as the ram that the robber brings is given only to the priest on duty who sacrifices it, so too, the money is also given only to the priest on duty.",
+                  "Concerning this payment, <b>the Sages taught:</b> In a case <b>where</b> the one who <b>robs</b> the convert <b>was a priest, from where</b> is it derived <b>that he shall not say: Since</b> the payment usually <b>is removed</b> from the robber and given <b>to the priests and it is</b> now <b>in my possession, it should be mine. And</b> there is <b>a logical derivation</b> to support this reasoning, as follows: <b>If</b> a priest <b>has the right to acquire</b> the payment <b>belonging to others</b> who stole from a convert, then with regard to payment <b>belonging to himself,</b> which is already in his possession, is it <b>not all the more so</b> that he should keep it?",
+                  "The <i>baraita</i> continues: <b>Rabbi Natan states</b> this logical inference <b>with different wording: And just as</b> with regard to <b>a matter in which</b> a priest <b>has no portion until it enters his possession,</b> e.g., <i>teruma</i>, which can be given to any priest, <b>once it enters his possession</b> another priest <b>cannot remove it from his possession;</b> so too, with regard to <b>a matter in which</b> a priest <b>has a portion</b> even <b>before it enters his possession,</b> e.g., an item stolen from a convert, in which he has a portion as one of the priests on the priestly watch, <b>isn’t it logical that another</b> priest <b>cannot remove it from his possession</b> once it is in his possession?",
+                  "The <i>baraita</i> continues, countering that this logical inference is not correct: <b>No, if you said</b> this <b>concerning a matter in which</b> a priest <b>has no portion,</b> where the reason why once it enters his possession another priest cannot remove it from his possession is <b>that just as he has no portion in it, so too, others have no portion in it; would you say</b> the same <b>concerning</b> an item <b>robbed</b> from a convert? As there it could be said <b>that just as</b> the priest who robbed him <b>has a portion in it</b> as one of the priests on the priestly watch, <b>so too, other</b> priests on that watch <b>have a portion in it. Rather,</b> the <i>halakha</i> is that <b>the item he stole is removed from his possession and is distributed to all of his brethren, the priests.</b>",
+                  "The Gemara raises an objection: <b>But isn’t it written: “And every man’s hallowed things shall be his;</b> whatsoever any man gives to the priest, it shall be his” (Numbers 5:10), indicating that a priest is not required to give to the other priests the offerings he sacrifices? Therefore, just as he has the right to the flesh of the guilt-offering that he brings to atone for robbing the convert, shouldn’t he also have the right to the payment? The Gemara answers: <b>With what are we dealing here,</b> in this case? We are dealing <b>with a ritually impure priest,</b> who is unfit to sacrifice the guilt-offering and therefore does not have rights to the flesh of the offering. In this case, he will not be able to keep the payment for himself.",
+                  "The Gemara asks: <b>If</b> the <i>baraita</i> states its ruling specifically <b>with regard to an impure priest,</b> how can it describe the payment as <b>a matter in which</b> the priest <b>has a portion? Does he have</b> a portion in it? Therefore, the <i>baraita</i> must not be referring to an impure priest. <b>Rather,</b> there is another reason why he has no right to the payment. This <i>halakha</i> is <b>derived</b> through a verbal analogy between the phrase <b>“even the priest’s [<i>lakohen</i>]”</b> (Numbers 5:8) written in this context, and the phrase <b>“to the priest [<i>lakohen</i>]”</b> (Leviticus 27:21) <b>from</b> the verse stated concerning <b>an ancestral field,</b> which, if consecrated and then redeemed by another does not revert to its original owner in the Jubilee Year, but is given to the priests, as the <i>baraita</i> will now explain.",
+                  "<b>As it is taught</b> in a <i>baraita</i> that the verse states: “But the field, when it goes out in the Jubilee, shall be holy unto the Lord, as a field dedicated; the possession thereof shall be to the priest” (Leviticus 27:21). The <i>baraita</i> asks: <b>What</b> is the meaning when <b>the verse states</b> the term: <b>“The possession thereof”? From where</b> is it derived <b>that</b> with regard to <b>a field that goes out to the priests in the Jubilee</b> Year <b>and one of the priests redeemed it</b> before the Jubilee Year, <b>from where</b> is it derived <b>that</b> a priest <b>shall not say: Since</b> a field that is redeemed by another <b>goes out to the priests in the Jubilee</b> Year, <b>and</b> the field that I redeemed <b>is</b> now <b>in my possession, it should be mine,</b> and not be given to the priests in general?",
+                  "The <i>baraita</i> continues: <b>And</b> there is <b>a logical derivation</b> to support this reasoning, as follows: If <b>I acquire</b> the field <b>belonging to others,</b> who consecrated it and it was then redeemed, then with regard to a field <b>belonging to me,</b> which is already in my possession, is it <b>not all the more so</b> that I should keep it?",
+                  "The <i>baraita</i> continues, countering that this logical inference is not correct. <b>The verse states: “As a field dedicated; the possession thereof shall be to the priest”</b> (Leviticus 27:21), indicating that a field of which the priest has <b>possession</b> from his ancestors <b>is his, but this</b> field that he redeemed <b>is not his. How so?</b> It <b>is removed from his possession and is distributed to all of his brethren, the priests.</b>",
+                  "The Gemara records another <i>baraita</i> concerning the rights of a priest to offerings he sacrifices. <b>The Sages taught</b> (<i>Tosefta</i>, <i>Menaḥot</i> 13:17): <b>From where</b> is it derived <b>that a priest</b> may <b>come and sacrifice his offerings at any time and at any hour that he wishes</b> and does not have to wait for his priestly watch to serve in the Temple? <b>The verse states:</b> “And if a Levite comes from any of your gates out of all Israel, where he sojourns, <b>and comes with all the desire of his soul</b> unto the place that the Lord shall choose; <b>then he shall minister</b> in the name of the Lord his God” (Deuteronomy 18:6–7).",
+                  "The <i>baraita</i> continues: <b>And from where</b> is it derived <b>that the performance of</b> the offering’s <b>service,</b> i.e., eating the meat of the animal he sacrifices, <b>and</b> the offering’s <b>hide, belong to him? The verse states: “And every man’s hallowed things shall be his”</b> (Numbers 5:10). <b>How so? If</b> this priest <b>was blemished, he gives</b> his offering <b>to</b> another <b>priest that is on the same priestly watch</b> as him to sacrifice it, <b>but the performance of its service and its hide belong to him.</b>"
+                ],
+                [
+                  "The <i>baraita</i> continues: <b>And if he was old or sick,</b> so that he cannot perform the Temple service or eat from the offering, <b>he gives it to any priest he wishes</b> to sacrifice it, even to one not on his priestly watch, <b>and performance of its service and its hide</b> are given <b>to the members of the priestly watch.</b>",
+                  "The Gemara clarifies: <b>What are the circumstances</b> of <b>this old or sick</b> priest? <b>If</b> he is in a condition <b>that he is able to perform</b> the Temple <b>service,</b> then <b>performance of its service and its hide should be his as well,</b> as the priest that sacrificed it was acting as his agent. <b>And if</b> he is in a condition <b>that he is not able to perform</b> the Temple <b>service, how can he appoint an agent?</b> The <i>baraita</i> stated that he may give it to any priest he wishes, indicating that he chooses which priest he will appoint as his agent.",
+                  "<b>Rav Pappa said:</b> The <i>baraita</i> is referring to a case <b>where he is able to do</b> it <b>with difficulty.</b> With regard to the Temple <b>service, where</b> the <i>halakha</i> is that if <b>he performs it with difficulty it is</b> still considered performance of the Temple <b>service,</b> he is therefore able to <b>appoint an agent</b> to do it for him. With regard to <b>eating</b> the offering, <b>where</b> the <i>halakha</i> says that <b>if he eats</b> it <b>with difficulty it is excessive eating, and excessive eating is nothing,</b> i.e., he does not thereby fulfill the mitzva to eat the sacrificial portion, he is not able to appoint an agent to eat it for him. <b>Due to that</b> reason, <b>performance of its service and its hide</b> are given <b>to the members of the priestly watch.</b>",
+                  "<b>Rav Sheshet says: If a priest</b> of the priestly watch <b>was ritually impure,</b> then <b>with regard to a communal offering he gives it to any</b> priest <b>he wishes, and performance of its service and its hide</b> are given <b>to the members of the priestly watch.</b> The Gemara asks: <b>What are the circumstances</b> where this <i>halakha</i> applies? <b>If there are ritually pure</b> priests available, then <b>can impure ones perform</b> the Temple service, and by extension appoint an agent to perform it in their stead? <b>And if there are no ritually pure</b> priests there, as all members of the priestly watch are impure, is the <b>performance of its service and its hide</b> given <b>to the members of the priestly watch?</b> Even though communal offerings are sacrificed in such a circumstance, the priests <b>are impure and are not able</b> to <b>eat</b> the offering, even though they may sacrifice it.",
+                  "<b>Rava said</b> in explanation: <b>Say</b> that they are given <b>to blemished</b> but <b>ritually pure</b> priests <b>who are on that priestly watch.</b> Even though blemished priests are disqualified from performing the Temple service and therefore the offering must be sacrificed by impure priests, the blemished priests are permitted to eat the sacrifice, as they are ritually pure.",
+                  "<b>Rav Ashi says: If a High Priest was an acute mourner,</b> i.e., one whose immediate relative died on that day but had yet to be buried, and he had an offering to sacrifice on his own behalf, <b>he gives</b> the offering <b>to any priest that he wishes</b> to sacrifice it, <b>and performance of its service and its hide</b> are given <b>to the members of the priestly watch.</b> The Gemara asks: <b>What is</b> Rav Ashi’s statement <b>teaching us? We</b> already <b>learned</b> in a <i>baraita</i> (<i>Tosefta</i>, <i>Zevaḥim</i> 11:3): <b>A High Priest may sacrifice</b> an offering even when he is <b>an acute mourner, but he does not eat</b> it during that day while he is an acute mourner <b>and does not</b> receive <b>a portion</b> of the sacrifice <b>to eat at night</b> after his acute mourning is finished. It follows from this <i>baraita</i> that since he sacrifices it by himself he is able to appoint another priest in his stead, and since he may not eat it, it is given to the priestly watch to eat. What, then, was the novelty of Rav Ashi’s statement?",
+                  "The Gemara answers: It might <b>enter your mind to say</b> that <b>when the Merciful One had compassion on the High Priest,</b> permitting him to continue serving in the Temple even while in a state of acute mourning, it was for <b>him to sacrifice; but</b> with regard <b>to appointing an agent, he is not able</b> to <b>appoint</b> one. Therefore, Rav Ashi <b>teaches us</b> that he is able to appoint an agent, since he himself is permitted to perform the Temple service."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Kamma 109b:6",
+                "Bava Kamma 109b:7",
+                "Bava Kamma 109b:8",
+                "Bava Kamma 109b:9",
+                "Bava Kamma 109b:10",
+                "Bava Kamma 109b:11",
+                "Bava Kamma 109b:12",
+                "Bava Kamma 109b:13",
+                "Bava Kamma 109b:14",
+                "Bava Kamma 109b:15",
+                "Bava Kamma 109b:16",
+                "Bava Kamma 110a:1",
+                "Bava Kamma 110a:2",
+                "Bava Kamma 110a:3",
+                "Bava Kamma 110a:4",
+                "Bava Kamma 110a:5",
+                "Bava Kamma 110a:6",
+                "Bava Kamma 110a:7"
+              ],
+              "he": [
+                [
+                  "תָּנוּ רַבָּנַן: ״לַה׳ לַכֹּהֵן״ – קְנָאוֹ הַשֵּׁם, וּנְתָנוֹ לַכֹּהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר. אַתָּה אוֹמֵר לַכֹּהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר; אוֹ אֵינוֹ אֶלָּא לְכׇל כֹּהֵן שֶׁיִּרְצֶה? כְּשֶׁהוּא אוֹמֵר ״מִלְּבַד אֵיל הַכִּפֻּרִים אֲשֶׁר יְכַפֶּר בּוֹ עָלָיו״ – הֲרֵי לַכֹּהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר הַכָּתוּב מְדַבֵּר.",
+                  "תָּנוּ רַבָּנַן: הֲרֵי שֶׁהָיָה גּוֹזֵל כֹּהֵן, מִנַּיִן שֶׁלֹּא יֹאמַר: הוֹאִיל וְיוֹצֵא לַכֹּהֲנִים, וַהֲרֵי הוּא תַּחַת יָדִי – יְהֵא שֶׁלִּי? וְדִין הוּא – אִי בְּשֶׁל אֲחֵרִים הוּא זוֹכֶה, בְּשֶׁל עַצְמוֹ לֹא כׇּל שֶׁכֵּן?",
+                  "רַבִּי נָתָן אוֹמֵר בְּלָשׁוֹן אַחֵר: וּמָה דָּבָר שֶׁאֵין לוֹ חֵלֶק בּוֹ עַד שֶׁיִּכָּנֵס בִּרְשׁוּתוֹ – כְּשֶׁיִּכָּנֵס לִרְשׁוּתוֹ אֵינוֹ יָכוֹל לְהוֹצִיאוֹ מִיָּדוֹ; דָּבָר שֶׁיֵּשׁ לוֹ חֵלֶק בּוֹ עַד שֶׁלֹּא יִכָּנֵס בִּרְשׁוּתוֹ – מִשֶּׁנִּכְנַס לִרְשׁוּתוֹ אֵינוֹ דִּין דְּאֵין אַחֵר יָכוֹל לְהוֹצִיאוֹ מִיָּדוֹ?",
+                  "לֹא; אִם אָמַרְתָּ בְּדָבָר שֶׁאֵין לוֹ חֵלֶק בּוֹ – שֶׁכְּשֵׁם שֶׁאֵין לוֹ חֵלֶק בּוֹ כָּךְ אֵין לַאֲחֵרִים חֵלֶק בּוֹ, תֹּאמַר בְּגָזֵל – שֶׁכְּשֵׁם שֶׁיֵּשׁ לוֹ חֵלֶק בּוֹ, כָּךְ יֵשׁ לַאֲחֵרִים חֵלֶק בּוֹ?! אֶלָּא גְּזֵילוֹ יוֹצֵא מִתַּחַת יָדוֹ, וּמִתְחַלֵּק לְכׇל אֶחָיו הַכֹּהֲנִים.",
+                  "וְהָכְתִיב: ״וְאִישׁ אֶת קֳדָשָׁיו לוֹ יִהְיוּ״! הָכָא בְּמַאי עָסְקִינַן – בְּכֹהֵן טָמֵא.",
+                  "אִי בְּכֹהֵן טָמֵא, ״דָּבָר שֶׁיֵּשׁ לוֹ חֵלֶק בּוֹ״ מִי אִית לֵיהּ?! אֶלָּא אָתְיָא ״לַכֹּהֵן״–״לַכֹּהֵן״ מִשְּׂדֵה אֲחוּזָּה.",
+                  "דְּתַנְיָא: ״אֲחֻזָּתוֹ״ – מָה תַּלְמוּד לוֹמַר? מִנַּיִן לְשָׂדֶה הַיּוֹצְאָה לַכֹּהֲנִים בַּיּוֹבֵל – וּגְאָלָהּ אֶחָד מִן הַכֹּהֲנִים, מִנַּיִן שֶׁלֹּא יֹאמַר: הוֹאִיל וְיוֹצְאָה לַכֹּהֲנִים בַּיּוֹבֵל, וַהֲרֵי הִיא תַּחַת יָדִי, תְּהֵא שֶׁלִּי?",
+                  "וְדִין הוּא – בְּשֶׁל אֲחֵרִים אֲנִי זוֹכֶה, בְּשֶׁל עַצְמִי לֹא כׇּל שֶׁכֵּן?!",
+                  "תַּלְמוּד לוֹמַר: ״כִּשְׂדֵה הַחֵרֶם לַכֹּהֵן תִּהְיֶה אֲחֻזָּתוֹ״ – אֲחוּזָּה שֶׁלּוֹ, וְאֵין זוֹ שֶׁלּוֹ. הָא כֵּיצַד? יוֹצְאָה מִתַּחַת יָדוֹ, וּמִתְחַלֶּקֶת לְכׇל אֶחָיו הַכֹּהֲנִים.",
+                  "תָּנוּ רַבָּנַן: מִנַּיִן לְכֹהֵן – שֶׁבָּא וּמַקְרִיב קׇרְבְּנוֹתָיו בְּכׇל עֵת וּבְכׇל שָׁעָה שֶׁיִּרְצֶה? תַּלְמוּד לוֹמַר: ״וּבָא בְּכׇל אַוַּת נַפְשׁוֹ״, ״וְשֵׁרֵת״.",
+                  "וּמִנַּיִין שֶׁעֲבוֹדָתָהּ וְעוֹרָהּ שֶׁלּוֹ? תַּלְמוּד לוֹמַר: ״וְאִישׁ אֶת קֳדָשָׁיו לוֹ יִהְיוּ״. הָא כֵּיצַד? אִם הָיָה בַּעַל מוּם – נוֹתְנָהּ לְכֹהֵן שֶׁבְּאוֹתוֹ מִשְׁמָר, וַעֲבוֹדָתָהּ וְעוֹרָהּ שֶׁלּוֹ."
+                ],
+                [
+                  "וְאִם הָיָה זָקֵן אוֹ חוֹלֶה – נוֹתְנָהּ לְכׇל כֹּהֵן שֶׁיִּרְצֶה, וַעֲבוֹדָתָהּ וְעוֹרָהּ לְאַנְשֵׁי מִשְׁמָר.",
+                  "הַאי זָקֵן אוֹ חוֹלֶה, הֵיכִי דָמֵי? אִי דְּמָצֵי עָבֵיד עֲבוֹדָה – עֲבוֹדָתָהּ וְעוֹרָהּ נָמֵי תֶּיהְוֵי דִּידֵיהּ! וְאִי דְּלָא מָצֵי עָבֵיד עֲבוֹדָה – שָׁלִיחַ הֵיכִי מְשַׁוֵּי?",
+                  "אָמַר רַב פָּפָּא: שֶׁיָּכוֹל לַעֲשׂוֹת עַל יְדֵי הַדְּחָק. עֲבוֹדָה – דְּכִי עָבֵיד לֵיהּ עַל יְדֵי הַדְּחָק עֲבוֹדָה הִיא, וּמְשַׁוֵּי שָׁלִיחַ; אֲכִילָה – דְּכִי אָכֵיל עַל יְדֵי הַדְּחָק אֲכִילָה גַּסָּה הִיא, וַאֲכִילָה גַּסָּה לָאו כְּלוּם הוּא; מִשּׁוּם הָכִי עֲבוֹדָתָהּ וְעוֹרָהּ לְאַנְשֵׁי מִשְׁמָר.",
+                  "אָמַר רַב שֵׁשֶׁת: אִם הָיָה כֹּהֵן טָמֵא בְּקׇרְבַּן צִבּוּר – נוֹתְנָהּ לְכׇל מִי שֶׁיִּרְצֶה, וַעֲבוֹדָתָהּ וְעוֹרָהּ לְאַנְשֵׁי מִשְׁמָר. הֵיכִי דָמֵי? אִי דְּאִיכָּא טְהוֹרִים, טְמֵאִים מִי מָצוּ עָבְדִי?! וְאִי דְּלֵיכָּא טְהוֹרִים, עֲבוֹדָתָהּ וְעוֹרָהּ לְאַנְשֵׁי מִשְׁמָר?! הָא טְמֵאִים נִינְהוּ, וְלָא מָצוּ אָכְלִי!",
+                  "אָמַר רָבָא, אֵימָא: לְבַעֲלֵי מוּמִין טְהוֹרִין שֶׁבְּאוֹתוֹ מִשְׁמָר.",
+                  "אָמַר רַב אָשֵׁי: אִם הָיָה כֹּהֵן גָּדוֹל אוֹנֵן – נוֹתְנָהּ לְכׇל כֹּהֵן שֶׁיִּרְצֶה, וַעֲבוֹדָתָהּ וְעוֹרָהּ לְאַנְשֵׁי מִשְׁמָר. מַאי קָא מַשְׁמַע לַן? תְּנֵינָא: כֹּהֵן גָּדוֹל מַקְרִיב אוֹנֵן, וְאֵינוֹ אוֹכֵל, וְאֵינוֹ חוֹלֵק לֶאֱכוֹל לָעֶרֶב!",
+                  "סָלְקָא דַּעְתָּךְ אָמֵינָא: כִּי חָס רַחֲמָנָא עֲלֵיהּ דְּכֹהֵן גָּדוֹל – לְקָרוֹבֵי הוּא, אֲבָל לְשַׁוּוֹיֵי שָׁלִיחַ – לָא מָצֵי מְשַׁוֵּי; קָא מַשְׁמַע לַן."
+                ]
+              ],
+              "link": "/Bava Kamma/109b",
+              "originalRefsBeforeRewriting": [
+                "Bava Kamma 109b:7"
+              ],
+              "ref": "Bava Kamma 109b:6-110a:7",
+              "sourceHeRef": "בבא קמא ק״ט ב",
+              "sourceRef": "Bava Kamma 109b"
+            },
+            {
+              "en": [
+                "<b>The Sages taught:</b> The verse states, with regard to one who consecrated his ancestral field but failed to redeem it before the Jubilee Year: “But the field, when it goes out in the Jubilee, shall be holy unto the Lord, <b>as a field dedicated; his ancestral field shall be for the priest”</b> (Leviticus 27:21). <b>What</b> is the meaning when <b>the verse states:</b> “As a field dedicated”? The <i>baraita</i> explains: <b>From where</b> is it derived with regard <b>to a priest who consecrated his dedicated field,</b> i.e., a field that was dedicated to the priests by an Israelite, and the Jubilee Year arrived, <b>that he may not say: Since</b> a field that was consecrated by its owners and was not redeemed <b>leaves to</b> the possession of <b>the priests</b> in the Jubilee Year, <b>and this</b> field that I consecrated <b>is</b> already <b>in my possession, it is</b> therefore <b>mine.</b>",
+                "The <i>baraita</i> continues: <b>And</b> this is the <i>halakha</i> despite the fact that the claim of the priest <b>is</b> based on <b>logical inference:</b> If <b>I acquire</b> the fields <b>of others</b> that were consecrated and not redeemed before the Jubilee Year, then with regard to <b>my own</b> property, should I <b>not all the more so</b> acquire it? Therefore, <b>the verse states: “As a field dedicated, his ancestral field shall be for the priest,”</b> which teaches that this is not the case.",
+                "The <i>baraita</i> elaborates: <b>But what</b> have <b>we learned</b> about a consecrated ancestral field <b>from a dedicated field from now?</b> The Torah does not explicitly state the <i>halakha</i> with regard to dedicated fields. Rather, <b>this</b> case of a dedicated field <b>came to teach</b> a <i>halakha</i> with regard to an ancestral field, <b>and it turns out</b> that in addition <b>it derives</b> a <i>halakha</i> from that case, i.e., the verse <b>juxtaposes the dedicated field</b> of a priest <b>to the ancestral field of an Israelite: Just as the ancestral field of an Israelite</b> that was redeemed by a priest from the Temple treasury <b>leaves from his possession</b> at the arrival of the Jubilee Year <b>and is divided among</b> all <b>the priests</b> (see 25a), <b>so too, the dedicated field</b> of a priest that he consecrated <b>leaves from his possession and is divided among his brothers, the priests,</b> at the beginning of the Jubilee Year.",
+                "The Gemara analyzes this <i>baraita</i>: <b>The Master said:</b> And this claim of the priest is based on logical inference: If <b>I acquire</b> the fields <b>of others</b> that were consecrated, then with regard to my own property, should I not acquire it all the more so? The Gemara asks: <b>Are</b> these cases <b>comparable? There,</b> with regard to an ancestral field that was consecrated and leaves to the possession of the priests, he <b>merely acquires</b> it as one of the priests, whereas <b>here,</b> with regard to a dedicated field that he consecrated, <b>he</b> seeks to <b>take</b> the entire field for himself. If so, there is no need for the verse to teach that the priest may not do so.",
+                "<b>Rami bar Ḥama said:</b> Nevertheless, the verse <b>was necessary,</b> as it might <b>enter your mind to say</b> that <b>since it is written: “And every man’s hallowed things shall be his”</b> (Numbers 5:10), from which it is derived that a priest who brings an offering may sacrifice it and take for himself those portions intended for the priests and he is not required to give them to the members of the current priestly watch, perhaps <b>this too,</b> i.e., his dedicated field that he consecrated, <b>is considered like his hallowed things,</b> and he may take it for himself. Therefore, the verse serves to indicate that this is not the case.",
+                "The Gemara asks: <b>Are</b> these cases <b>comparable? His hallowed things,</b> i.e., offerings brought by the priest, <b>are not in his possession;</b> rather, the priest receives the priestly portions from the table of the Most High, in exchange for performing the sacrificial rites. <b>Here,</b> the priest seeks to return the field to <b>his possession.</b>",
+                "<b>Rather, Rav Naḥman said:</b> The verse <b>was necessary,</b> as it might <b>enter your mind to say</b> that <b>since it is written</b> with regard to the fields of Levites and priests: <b>“For that is their perpetual possession”</b> (Leviticus 25:34), from which it is derived that if a priest consecrated his ancestral field he may always redeem it, so too <b>this</b> dedicated field received by the priest <b>is also</b> considered <b>his ancestral</b> field, and if he consecrated it he may always redeem it. The juxtaposition of the dedicated field of a priest to the ancestral field of an Israelite <b>teaches us</b> that this is not the <i>halakha</i>, as the verse states: <b>“His ancestral field</b> shall be for the priest” (Leviticus 27:31). The verse teaches that with regard to the <b>ancestral field</b> of a priest that he inherited from his father, <b>yes,</b> it remains in the possession of that priest in perpetuity, but with regard to <b>his dedicated</b> field, it does <b>not</b> remain in his possession in perpetuity; rather, it is divided among the members of the priestly watch serving at the beginning of the Jubilee Year.",
+                "We will return to you, “One who sold his field”..."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Arakhin 34a:2",
+                "Arakhin 34a:3",
+                "Arakhin 34a:4",
+                "Arakhin 34a:5",
+                "Arakhin 34a:6",
+                "Arakhin 34a:7",
+                "Arakhin 34a:8",
+                "Arakhin 34a:9"
+              ],
+              "he": [
+                "תנו רבנן <span class=\"parenthesized\">(ויקרא כז, כא)</span> כשדה החרם לכהן תהיה אחוזתו מה תלמוד לאמר מנין לכהן שהקדיש שדה חרמו שלא יאמר הואיל ויוצא לכהנים והרי היא תחת ידי תהא שלי",
+                "ודין הוא בשל אחרים אני זוכה בשל עצמי לא כל שכן תלמוד לאמר והיה השדה בצאתו ביובל קודש לה' כשדה החרם",
+                "וכי מה למדנו משדה החרם מעתה הרי זה בא ללמד ונמצא למד מקיש שדה חרמו לשדה אחוזה של ישראל מה שדה אחוזה של ישראל יוצא מתחת ידו ומתחלקת לכהנים אף שדה חרמו יוצא מתחת ידו ומתחלקת לאחיו הכהנים",
+                "אמר מר בשל אחרים אני זוכה מי דמי התם זוכה בעלמא הכא קא שקיל ליה",
+                "אמר רמי בר חמא איצטריך סלקא דעתך אמינא הואיל וכתיב <span class=\"parenthesized\">(במדבר ה, י)</span> ואיש את קדשיו לו יהיו הא נמי כי קדשיו דמיא",
+                "מי דמי קדשיו לאו ברשותו הכא ברשותו",
+                "אלא אמר רב נחמן איצטריך סלקא דעתך אמינא הואיל וכתיב <span class=\"parenthesized\">(ויקרא כה, לד)</span> כי אחוזת עולם הוא להם הא נמי אחוזתו היא קא משמע לן אחוזתו אחוזתו אין חרמו לא",
+                "<br><br><big><strong>הדרן עלך המוכר שדהו וסליקא לן מסכת ערכין</strong></big><br><br>"
+              ],
+              "link": "/Arakhin/34a",
+              "originalRefsBeforeRewriting": [
+                "Arakhin 34a:2",
+                "Arakhin 34a:3"
+              ],
+              "ref": "Arakhin 34a:2-9",
+              "sourceHeRef": "ערכין ל״ד א",
+              "sourceRef": "Arakhin 34a"
+            },
+            {
+              "en": [
+                "The mishna teaches: <b>Rabbi Yehuda ben Beteira says dedications</b> donated <b>without specification</b> are designated <b>for Temple maintenance,</b> as it is stated: “Every dedicated item is most sacred to the Lord” (Leviticus 27:28). And the Rabbis say they are designated for priests, as it is stated: “As a field dedicated; its possession shall be to the priest” (Leviticus 27:21), whereas the verse cited by Rabbi Yehuda ben Beteira teaches that dedication takes effect on offerings of the most sacred order and offerings of lesser sanctity. The Gemara asks: <b>Granted,</b> the opinion of <b>the Rabbis</b> is clear, <b>as they explain their reason and the reason of Rabbi Yehuda ben Beteira,</b> i.e., they interpret the verse he cited as his proof. <b>But</b> as for <b>Rabbi Yehuda ben Beteira, this</b> verse: <b>“As a field dedicated;</b> its possession shall be to the priest,” <b>what does he do with it,</b> i.e., what does he derive from it?",
+                "The Gemara responds: The verse <b>is necessary for him for that which is taught</b> in a <i>baraita</i> that discusses the case of one who consecrated his ancestral field and failed to redeem it. This field becomes the possession of the priests at the Jubilee Year. The <i>baraita</i> teaches: <b>Why</b> must <b>the verse state</b> at its end: <b>“As a field dedicated; its possession shall be to the priest”?</b> The <i>baraita</i> explains: <b>From where</b> is it derived <b>with regard to a priest who consecrated his dedicated field,</b> i.e., a field that was dedicated by an Israelite and was given to him and he then consecrated it, and then the Jubilee Year arrived, <b>that he may not say: Since</b> a field that was consecrated by its owners and was not redeemed <b>goes out</b> of the owner’s possession and passes <b>to</b> the possession of <b>the priests at the Jubilee</b> Year, <b>and</b> this field that I consecrated <b>is</b> already <b>in my possession, it is</b> therefore <b>mine.</b>",
+                "The <i>baraita</i> adds: <b>And</b> this claim of the priest <b>is</b> based on <b>logical inference:</b> If <b>I acquire</b> the fields <b>of others</b> that were consecrated and not redeemed at the Jubilee Year, then with regard to <b>my own</b> property, <b>all the more so</b> is it <b>not</b> clear that I should acquire it? Therefore, <b>the verse states,</b> with regard to an ancestral field that one consecrated: <b>“As a field dedicated; its possession shall be to the priest,”</b> which teaches that this priest does not acquire the field.",
+                "The <i>baraita</i> explains the derivation: <b>But what</b> have <b>we now learned</b> about a consecrated ancestral field <b>from a dedicated field?</b> In other words, the verse, which is dealing with an ancestral field, says an ancestral field is like a dedicated field, but it does not explicitly state the <i>halakha</i> of dedicated fields. Rather, <b>this</b> case of a dedicated field <b>comes to teach</b> a <i>halakha</i> about an ancestral field <b>but is found to derive</b> a <i>halakha</i> from that case, i.e., the verse <b>juxtaposes a dedicated field</b> of a priest <b>to the ancestral field of an Israelite.</b>",
+                "The <i>baraita</i> clarifies how the <i>halakha</i> is derived from the juxtaposition: <b>Just as the ancestral field of an Israelite,</b> which was redeemed by a priest from the Temple treasury, <b>goes out</b> of <b>his possession</b> at the arrival of the Jubilee Year <b>and is divided among</b> all <b>the priests</b> of the watch serving at the beginning of the Jubilee Year (see 25b), <b>so too, the dedicated field</b> of a priest that remained in his possession <b>goes out</b> of <b>his possession and is divided among his brothers, the priests</b> of the watch serving at the beginning of the Jubilee Year.",
+                "The Gemara asks: <b>And the other,</b> i.e., the Rabbis, from where do they derive this <i>halakha</i>? The Gemara responds: They derive it <b>from</b> a superfluous term in the verse, as it could have stated merely: <b>Dedicated [<i>ḥerem</i>],</b> from which one would have derived that unspecified dedications are designated for the priests. Yet the verse actually states: <b>“<i>Haḥerem</i>,”</b> with the definite article, and therefore both <i>halakhot</i> are derived from this verse. The Gemara notes: <b>And</b> as for <b>the other,</b> Rabbi Yehuda ben Beteira, <b>he does not learn</b> anything from the difference between <b><i>ḥerem</i></b> and <b><i>haḥerem</i>.</b> Accordingly, he derives from here only that if a priest consecrated his dedicated field it is removed from his possession.",
+                "The Gemara asks: <b>And</b> as for <b>Rabbi Yehuda ben Beteira, from where does he</b> derive <b>that</b> a dedication <b>takes effect on offerings of the most sacred order and offerings of lesser sanctity,</b> which, according to the Rabbis, is learned from the verse: “Every dedicated item is most sacred to the Lord” (Leviticus 27:28)? The Gemara answers: <b>He holds in accordance with</b> the opinion of <b>Rabbi Yishmael,</b> who derives this <i>halakha</i> from another source, as explained in the mishna below."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Arakhin 29a:2",
+                "Arakhin 29a:3",
+                "Arakhin 29a:4",
+                "Arakhin 29a:5",
+                "Arakhin 29a:6",
+                "Arakhin 29a:7",
+                "Arakhin 29a:8"
+              ],
+              "he": [
+                "ר' יהודה בן בתירא אומר סתם חרמים לבדק הבית כו': בשלמא רבנן כדקא מפרשי טעמייהו וטעמא דרבי יהודה בן בתירא אלא רבי יהודה בן בתירא האי כשדה החרם מאי עביד ליה",
+                "מיבעיא ליה לכדתניא <span class=\"parenthesized\">(ויקרא כז, כא)</span> כשדה החרם לכהן תהיה אחוזתו מה תלמוד לומר מנין לכהן שהקדיש שדה חרמו שלא יאמר הואיל ויוצאה לכהנים והרי היא תחת ידי תהא שלי",
+                "ודין הוא בשל אחרים אני זוכה בשל עצמי לא כל שכן ת\"ל כשדה החרם לכהן תהיה אחוזתו",
+                "וכי מה למדנו משדה חרם מעתה הרי זה בא ללמד ונמצא למד מקיש שדה חרמו לשדה אחוזה של ישראל",
+                "מה שדה אחוזה של ישראל יוצאה מתחת ידו ומתחלקת לכהנים אף שדה חרמו יוצאה מתחת ידו ומתחלקת לאחיו הכהנים",
+                "ואידך מחרם החרם ואידך חרם החרם לא משמע ליה",
+                "ורבי יהודה בן בתירא דחל על קדשי קדשים ועל קדשים קלים מנא ליה סבר ליה כרבי ישמעאל:"
+              ],
+              "link": "/Arakhin/29a",
+              "originalRefsBeforeRewriting": [
+                "Arakhin 29a:3",
+                "Arakhin 29a:4"
+              ],
+              "ref": "Arakhin 29a:2-8",
+              "sourceHeRef": "ערכין כ״ט א",
+              "sourceRef": "Arakhin 29a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לשדה היוצאה לכהנים</strong> - שראוי לתת לכהנים ביובל שהקדישה בעלים ולא גאלה:",
+              "ref": "Rashi on Arakhin 25b:15:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:טו:א",
+              "sourceRef": "Rashi on Arakhin 25b:15:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וגאלה אחד מן הכהנים</strong> - מיד גזבר:",
+              "ref": "Rashi on Arakhin 25b:15:2",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:טו:ב",
+              "sourceRef": "Rashi on Arakhin 25b:15:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בשל אחרים אני זוכה</strong> - אם גאלה ישראל היתה יוצאה מידו ואני זוכה בה עם שאר אחיי:",
+              "ref": "Rashi on Arakhin 25b:15:3",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:טו:ג",
+              "sourceRef": "Rashi on Arakhin 25b:15:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אלא דבר זה למדנו מכאן: <b>מנין לשדה שיוצא לכהנים ביובל, וגאלה</b> לפני כן <b>אחד מן הכהנים, מנין שלא יאמר: \"הואיל ו</b>דין שדה זו ש<b>יוצאה לכהן,</b> ו<b>הרי</b> היא כבר <b>תחת ידי, ו</b>לפיכך <b>תהא</b> <b>שלי? ו</b>הרי <b>דין</b> (קל וחומר) <b>הוא:</b> אם <b>ב</b>שדה <b>של אחרים,</b> שקנו מן ההקדש ולא גאלו — <b>אני זוכה</b> ביובל, <b>בשל עצמי,</b> שקניתי מן ההקדש — <b>לא כל שכן</b> שאזכה ביובל?",
+              "ref": "Steinsaltz on Arakhin 25b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:טו",
+              "sourceRef": "Steinsaltz on Arakhin 25b:15"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> explains: <b>From where</b> is it derived, <b>with regard to a field that</b> was consecrated and not redeemed by the owner, and therefore <b>was</b> to have been <b>removed</b> from the possession of the owner and given <b>to the priests during the Jubilee</b> Year, <b>and one of the priests redeemed it</b> before the Jubilee, <b>from where</b> is it derived <b>that he may not say: Since it is removed</b> from the possession of the owner and given <b>to the priest</b> at the Jubilee, <b>and</b> since it is already <b>in my possession,</b> it <b>should</b> therefore <b>be mine? And this</b> claim is supported by <b>a logical inference:</b> Since in the Jubilee Year <b>I obtain</b> fields <b>of others</b> that I did not previously redeem, is it <b>not all the more so</b> clear <b>that</b> I should retain <b>my own</b> field that I redeemed from the Temple treasury myself?",
+      "he": "מנין לשדה שיוצא לכהנים ביובל וגאלה אחד מן הכהנים מנין שלא יאמר הואיל ויוצאה לכהן הרי תחת ידי ותהא שלי ודין הוא בשל אחרים אני זוכה בשל עצמי לא כ\"ש",
+      "ref": "Arakhin 25b:15"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If a person consecrated a field and a priest redeemed it from the Temple treasury and it is in his domain when the Jubilee arrives, he should not say: \"Since it is expropriated for the sake of the priests and it is in my possession, I should acquire it.\" Instead, it is given to all of his brethren, the priestly family.",
+              "he": "הַמַּקְדִּישׁ שָׂדֵהוּ וּפָדָה אוֹתָהּ כֹּהֵן מִיַּד הַהֶקְדֵּשׁ וְהִגִּיעַ הַיּוֹבֵל וְהִיא תַּחַת יַד הַכֹּהֵן לֹא יֹאמַר הוֹאִיל וַהֲרֵי הִיא יוֹצְאָה לַכֹּהֲנִים הֲרֵי הִיא תַּחַת יָדִי וְזָכִיתִי בָּהּ אֶלָּא יוֹצְאָה לְכָל אֶחָיו הַכֹּהֲנִים:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 4:23",
+              "sourceHeRef": "הלכות ערכים וחרמין ד:כג",
+              "sourceRef": "Appraisals and Devoted Property 4:23"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ת\"ל לכהן תהיה אחוזתו</strong> - ואיכא למידרש הכי אחוזתו של כהן שירש מאביו תהא שלו אבל זו אינה שלו:",
+              "ref": "Rashi on Arakhin 25b:16:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:טז:א",
+              "sourceRef": "Rashi on Arakhin 25b:16:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תלמוד לומר: \"אחזתו\",</b> לדייק: דווקא שדה <b>אחוזה</b> שירש מאבותיו, היא <b>שלו, ואין</b> שדה <b>זה</b> שלא גאלה בעליה <b>שלו. הא כיצד</b> יהא דין השדה? <b>יוצא מתחת ידו ומתחלקת לאחיו הכהנים.</b>",
+              "ref": "Steinsaltz on Arakhin 25b:16",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:טז",
+              "sourceRef": "Steinsaltz on Arakhin 25b:16"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אחוזתו שלו ואין זו שלו</strong> - וא\"ת ל\"ל אחוזתו בלא קרא נוכל לסתור הק\"ו כדאיתא בסוף מכילתין גבי שדה חרמין דדייק ק\"ו כה\"ג דהכא ומסיק מי דמי התם קא זכי בעלמא הכא שקיל ליה ה\"נ הוה מצי למסתר ק\"ו וי\"ל דאי לאו אחוזתו ה\"א מג\"ש דכהן כהן מגזל הגר דאינה יוצאה מתחת ידו וכן משמע הסוגיא התם פרק הגוזל קמא <span class=\"parenthesized\">(ב\"ק דף קט: ושם)</span> דת\"ר הרי שהיה כהן גוזל הגר מנין שלא יאמר הואיל ויוצא לכהנים והרי הוא תחת ידי תהא שלי ודין הוא אם בשל אחרים זוכה בשל עצמו לא כ\"ש [וכו'] והכתיב איש את קדשיו לו יהיה פירוש דמיניה ילפינן <span class=\"parenthesized\">(שם)</span> דכהן מקריב קרבנותיו בכל עת ובכל שעה שירצה ואפי' במשמר שאינו שלו וא\"כ דין הוא שיקריב אשמו שהוא חייב על גזל הגר וישאר גם הקרן בידו [ומשני] דילפינן כהן כהן משדה אחוזה דיוצא מתחת ידו ומתחלקת לכל [אחיו] הכהנים והתם מנלן ומייתי סוגיא דהכא אלמא אי לא דכתיב אחוזתו ה\"א בגזל הגר דאינו יוצא מתחת ידו משום דכתיב ואיש את קדשיו לו יהיה וילפינן נמי שדה שהיא אחוזה דאינה יוצאה מיד כהן מש\"ה איצטריך אחוזתו שלו ואין זו שלו וילפינן גזל הגר מיניה מג\"ש דכהן כהן:",
+              "ref": "Tosafot on Arakhin 25b:16:1",
+              "sourceHeRef": "תוספות על ערכין כ״ה ב:טז:א",
+              "sourceRef": "Tosafot on Arakhin 25b:16:1"
+            }
+          ]
+        }
+      },
+      "en": "Therefore, <b>the verse states: “His ancestral possession,”</b> which can be interpreted to mean that only <b>his ancestral</b> field, i.e., one that the priest inherited from his own ancestors, is automatically his, <b>but this</b> field <b>is not his. How so,</b> i.e., how is this field treated? <b>It is removed from his possession and is divided among</b> all of <b>his brethren, the priests.</b>",
+      "he": "ת\"ל אחוזתו אחוזה שלו ואין זה שלו הא כיצד יוצא מתחת ידו ומתחלקת לאחיו הכהנים:",
+      "ref": "Arakhin 25b:16"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "2) We are hereby taught that the Cohanim (of the Yovel watch) enter it and pay its value (as indicated). These are the words of R. Yehudah. R. Shimon says: They enter, but do not pay. R. Elazar says: They neither enter nor pay, but it is called \"an abandoned field\" until the second Yovel. If the second Yovel arrived and it had not been redeemed, it is called \"doubly abandoned\" until the third Yovel. The Cohanim may not enter it until another redeems it.",
+              "he": "[ב] מלמד שהכהנים נכנסים לתוכה ונותנים את דמיה, דברי ר' יהודה. ר' שמעון אומר נכנסים אבל לא נותנים. ר' אלעזר אומר לא נכנסים ולא נותנים אלא נקראת שדה רטושין עד היובל השני; לא נגאלה – נקראת רטושי רטושין עד היובל השלישי; לעולם אין הכהנים נכנסים בה עד שיגאלנה אחר.",
+              "ref": "Sifra, Bechukotai, Chapter 11 2",
+              "sourceHeRef": "ספרא, בחוקתי, פרק יא ב׳",
+              "sourceRef": "Sifra, Bechukotai, Chapter 11 2"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "If one consecrated his ancestral field and the <b>Jubilee</b> Year <b>arrived and it was not redeemed</b> by the owner or anyone else, <b>the priests enter into</b> the field <b>and give its</b> redemption <b>payment</b> to the Temple treasury; this is <b>the statement of Rabbi Yehuda. Rabbi Shimon says: They enter</b> into the field, <b>but they do not give</b> its redemption payment to the Temple treasury. <b>Rabbi Eliezer says:</b> The priests <b>do not enter</b> into the field, <b>and</b> they also <b>do not give</b> its redemption payment to the Temple treasury. <b>Rather,</b> the field remains in the possession of the Temple treasury, and <b>it is called: An abandoned field, until the second Jubilee</b> Year. If <b>the second Jubilee arrived and it was</b> still <b>not redeemed, it is called: An abandoned</b> field from among the <b>abandoned</b> fields, meaning one that was abandoned twice, <b>until the third Jubilee.</b> In any case, <b>the priests never enter into</b> a consecrated field during the Jubilee Year <b>until another</b> person <b>redeems it</b> first.",
+              "he": "הִגִּיעַ הַיּוֹבֵל וְלֹא נִגְאֲלָה, הַכֹּהֲנִים נִכְנָסִים לְתוֹכָהּ וְנוֹתְנִים אֶת דָּמֶיהָ, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי שִׁמְעוֹן אוֹמֵר, נִכְנָסִין, אֲבָל לֹא נוֹתְנִין. רַבִּי אֱלִיעֶזֶר אוֹמֵר, לֹא נִכְנָסִין וְלֹא נוֹתְנִין, אֶלָּא נִקְרֵאת שְׂדֵה רְטוּשִׁים, עַד הַיּוֹבֵל הַשֵּׁנִי. הִגִּיעַ הַיּוֹבֵל הַשֵּׁנִי וְלֹא נִגְאֲלָה, נִקְרֵאת רְטוּשֵׁי רְטוּשִׁין עַד הַיּוֹבֵל הַשְּׁלִישִׁי. לְעוֹלָם אֵין הַכֹּהֲנִים נִכְנָסִין לְתוֹכָהּ, עַד שֶׁיִּגְאָלֶנָּה אַחֵר:",
+              "link": "/Mishnah Arakhin/7",
+              "ref": "Mishnah Arakhin 7:4",
+              "sourceHeRef": "משנה ערכין ז:ד",
+              "sourceRef": "Mishnah Arakhin 7:4"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person consecrates an ancestral field and the Jubilee arrives without it being redeemed, but instead, it has remained in the domain of the Temple treasury, the priests [of the watch in which the Jubilee falls] must pay its <i>airech</i> and it becomes their ancestral heritage. [They are required to pay, because] consecrated property is never released without being redeemed. The money paid is given to the Temple treasury for improvements to its structure.",
+              "he": "הַמַּקְדִּישׁ שְׂדֵה אֲחֻזָּתוֹ וְהִגִּיעַ הַיּוֹבֵל וְלֹא נִפְדֵית אֶלָּא הֲרֵי הִיא תַּחַת יַד הַקֹּדֶשׁ. הַכֹּהֲנִים נוֹתְנִין אֶת דָּמֶיהָ וְתִהְיֶה אֲחֻזָּה לָהֶם. שֶׁאֵין הֶקְדֵּשׁ יוֹצֵא בְּלֹא פִּדְיוֹן. וְאוֹתָן הַדָּמִים יִפְּלוּ לְהֶקְדֵּשׁ בֶּדֶק הַבַּיִת:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 4:19",
+              "sourceHeRef": "הלכות ערכים וחרמין ד:יט",
+              "sourceRef": "Appraisals and Devoted Property 4:19"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כהנים נכנסין לתוכה כו'</strong> - כהנים של משמר היובל נכנסין לתוכה כו' והיא חלוטה בידם:",
+              "ref": "Rashi on Arakhin 25b:17:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:יז:א",
+              "sourceRef": "Rashi on Arakhin 25b:17:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ה משנה</big> המקדיש שדה אחוזתו, ו<b>הגיע יובל ולא נגאלה</b> השדה מיד ההקדש, לא על ידי המקדיש ולא על ידי אדם אחר, <b>הכהנים נכנסין לתוכה ונותנין את דמיה</b> להקדש, אלו <b>דברי ר' יהודה. ר' שמעון אומר: נכנסין</b> לתוכה <b>ולא נותנין</b> את דמיה.",
+              "ref": "Steinsaltz on Arakhin 25b:17",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:יז",
+              "sourceRef": "Steinsaltz on Arakhin 25b:17"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "According to Rashi, the priests give fifty silver shekels per unit of area required for sowing one <i>kor </i>of barley seed. Some commentaries explain that according to the Rambam the priests give the monetary value of the field, as is typically the <i>halakha </i>with regard to redeeming an item from the Temple treasury (<i>Mishne LaMelekh</i> on Rambam<i> Sefer Hafla’a</i>,<i> Hilkhot Arakhin VaĤaramim </i>4:26).",
+              "he": "דין זה, שהכהנים נותנים את דמיה, הוא דווקא במקרה שלא נגאלה כלל, מפני שהשדה שייכת להקדש, ואין הקדש יוצא בלא פדיון, וכפי שמסבירה הגמרא את טעמו של ר' יהודה. הכהנים הוא כדינו של פדיון בית מיד ההקדש. אבל במקרה שכבר נגאלה שדה זו — אינם צריכים לתת עבורה דמים, לפי שכבר נפדית מיד ההקדש, וקיבל עליה דמים, אלא תינתן לכהנים כאילו הם בעליה (רש\"י בגמרא. רמב\"ם הל' ערכין וחרמין פ\"ד ה\"כ).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:17",
+              "sourceHeRef": "נוֹתְנִין אֶת דָּמֶיהָ",
+              "sourceRef": "Give its payment"
+            },
+            {
+              "en": "",
+              "he": "לפי רש\"י (בגמרא) — חמישים שקל לבית זרע כור שעורים. אבל יש שדייקו כי לדעת הרמב\"ם — נותנים את שוויה, כדין הפודה מן ההקדש (מל\"מ הלכות ערכין וחרמין פ\"ד הכ\"ו). והוסיפו כי כן משמע מטעמו של ר' יהודה — לפי שאין ההקדש יוצא בלא פדיון (ליקוטי הלכות).",
+              "ref": "Steinsaltz comment #2 on Arakhin 25b:17",
+              "sourceHeRef": "נותנין את דמיה",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "המקדיש שדה אחוזתו והגיע היובל ולא נפדית, אלא הרי היא תחת יד הקדש — הכהנים נותנים את דמיה ותהיה אחוזה להם, שאין הקדש יוצא בלא פדיון, ואותם הדמים יפלו להקדש בדק הבית. כרבי יהודה. (רמב\"ם ספר הפלאה הלכות ערכין וחרמין פ\"ד הי\"ט).",
+              "ref": "Steinsaltz comment #3 on Arakhin 25b:17",
+              "sourceHeRef": "הגיע יובל ולא נגאלה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>קדש לה'. </b>תניא, הגיע יובל ולא נגאלה, הכהנים נכנסין לתוכה ונותנין את דמיה , דברי ר' יהודה, מאי טעמא, יליף קודש קודש ממקדיש בית, מה להלן בדמים, אף כאן בדמים .<br><span class=\"parenthesized\">(ערכין כ\"ה ב')</span>",
+              "ref": "Torah Temimah on Torah, Leviticus 27:21:4",
+              "sourceHeRef": "תורה תמימה על התורה, ויקרא כז:כא:ד",
+              "sourceRef": "Torah Temimah on Torah, Leviticus 27:21:4"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הקדישה וגאלה אין יוצא מידו ביובל גאלה יוצא לאביו ביובל גאלה אחר או אחד מן הקרובים גאלה מידו אינו יוצא לו ביובל. אין לך קם תחת האב ליעידה ולעבד עברי ולשדה אחוזה אלא הבן בלבד הגיע היובל ולא נגאלה הכהנים נכנסים לתוכה ונותנין לו את דמיה דברי ר' יהודה ר\"ש אומר נכנסין ולא נותנין אלא נקראת שדה רטושין עד יובל שני הגיע יובל שני ולא נגאלה נקראת שדה רטושין רטושין עד יובל ג' לעולם אין הכהנים נכנסים לתוכה עד שיגאלנה אחר בד\"א בשדה אחוזה של ישראל אבל בשדה מקנה של ישראל מקדישין בכל שעה שירצו וגואלין בכל שעה שירצו גאלה אחר יוצא לבעלים ביובל. שדה היוצא מיד הקדש לכהנים ביובל הרי היא כשדה אחוזה של ישראל הכהנים ולוים בשדה בערי מגרשיהן מקדשין בכל שעה שירצו וגואלין בכל שעה שירצו. גאלה אחר יוצא לבעלים ביובל שדה היוצא מיד הקדש לכהנים הרי היא כשדה אחוזה של ישראל. הכהנים ולוים בשדה אחוזתן בערי מגרשיהן מקדשין בכל שעה שירצו וגואלין בכל שעה שירצו גאלה אחר יוצא לבעלים ביובל.",
+              "ref": "Tosefta Arakhin 4:6",
+              "sourceHeRef": "תוספתא ערכין ד:ו",
+              "sourceRef": "Tosefta Arakhin 4:6"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> If one consecrated his ancestral field and the <b>Jubilee</b> Year <b>arrived and it was not redeemed</b> by the owner or anyone else, <b>the priests enter into</b> the field <b>and give its</b> redemption <b>payment</b> to the Temple treasury; this is <b>the statement of <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>. <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> says: They enter</b> into the field, <b>but they do not give</b> its redemption payment to the Temple treasury.",
+      "he": "<big><strong>מתני׳</strong></big> הגיע יובל ולא נגאלה הכהנים נכנסין לתוכה ונותנין את דמיה דברי <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">ר' יהודה</span> <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">ר\"ש</span> אומר נכנסין ולא נותנין",
+      "ref": "Arakhin 25b:17",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָטוּשׁ</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, רְטַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_רְטַשׁ.1\">רָטַשׁ</span>; see <span class=\"refLink\" data-ref=\"Jastrow, רְטַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_רְטַשׁ.1\">רְטַשׁ</span>) <i>an emigrant</i> or <i>fugitive whose estate is abandoned</i>, see <span class=\"refLink\" data-ref=\"Jastrow, נָטוּשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_נָטוּשׁ.1\">נָטוּשׁ</span>.—plural <span dir=\"rtl\">רְטוּשִׁים</span>, <span class=\"refLink\" data-ref=\"Jastrow, רְחוּשִׁין 1\" dir=\"rtl\" href=\"/Jastrow,_רְחוּשִׁין.1\">רְטוּשִׁין</span>. <span class=\"refLink\" data-ref=\"Tosefta Ketubot 8:3\" href=\"/Tosefta_Ketubot.8.3\">Tosefta Ketubot VIII, 3</span> אלו הן ר׳ כל שאינו יודע וכ׳ <i>r’ṭushin</i> (in law) are those whose whereabouts is unknown, contradistinguished to <span dir=\"rtl\">נטושין</span>; Yerushalmi ib. IV, 29ᵃ <span dir=\"rtl\">אלו הן נכסי ר׳ כל שהלך אביו וכ׳</span> estate of <i>r’ṭushin</i> is, if one’s father, or … any of those whom he would be entitled to succeed, have gone abroad &c.; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Yevamot 15:3:9\" href=\"Jerusalem_Talmud_Yevamot.15.3.9\">Yerushalmi Yevamot XV, 15ᵃ</span> top; <span class=\"refLink\" data-ref=\"Bava Metzia 38b:19\" href=\"/Bava_Metzia.38b.19\">Bava Metzia 38ᵇ</span>. <span class=\"refLink\" data-ref=\"Bava Metzia 39a:1\" href=\"/Bava_Metzia.39a.1\">Ib. 39ᵃ</span> ר׳ דמדעתן <i>r’ṭushin</i> are those who leave (or run away) of their own accord (reference. to <span class=\"refLink\" data-ref=\"Hosea 10:14\" href=\"/Hosea.10.14\">Hosea X, 14</span>; different interpretation or differently interpreted in Yerushalmi l. common gender. <span dir=\"rtl\">נטוש זה שיצא לדעת</span>). <span class=\"refLink\" data-ref=\"Mishnah Arakhin 7:4\" href=\"/Mishnah_Arakhin.7.4\">Arakhin VII, 4</span> (<span class=\"refLink\" data-ref=\"Arakhin 25b:46\" href=\"/Arakhin.25b.46\">25ᵇ</span>) (of a field dedicated to the sanctuary) <span dir=\"rtl\">הגיע היובל … נקראת שְׂדֵה ר׳</span> if the year of jubilee arrives, and it is not redeemed …, it is called a field of the absentees until the next jubilee; <span dir=\"rtl\">הגיע … נקראת רְטוּשֵׁי ר׳</span> (Bavli ed. <span dir=\"rtl\">רטושה</span>, correct accordingly) if the second jubilee comes, and it is not redeemed, it is called a field of the absentees in the second degree, until the third jubilee; Tosefta ib. IV, 15 <span dir=\"rtl\">רטושין ר׳</span> (correct accordingly); Sifra Bechukotai, Parah 4, Chaldaic XI; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 677:5\" href=\"/Yalkut_Shimoni_on_Torah.677.5\">Yalkut Vayikra 677</span>.—[רְטוּשִׁין Chald., see <span class=\"refLink\" data-ref=\"Jastrow, רְטַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_רְטַשׁ.1\">רְטַשׁ</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, רָטוּשׁ 1",
+              "sourceHeRef": "מילון יסטרוב, רָטוּשׁ א׳",
+              "sourceRef": "Jastrow, רָטוּשׁ 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שדה רטושין</strong> - עזובה עד שיגאלנה אחר וכשיגיע יובל תצא מידו לכהנים:",
+              "ref": "Rashi on Arakhin 25b:18:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:יח:א",
+              "sourceRef": "Rashi on Arakhin 25b:18:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' אליעזר אומר: לא נכנסין ולא נותנין, אלא</b> נשארת ביד ההקדש, ו<b>נקראת \"שדה רטושין\"</b> (שדה עזובה) <b>עד היובל השני.</b> אם <b>הגיע היובל השני ו</b>עדיין <b>לא נגאלה, נקראת</b> <b>\"רטושי רטושין\" עד היובל השלישי,</b> ו<b>לעולם אין הכהנים נכנסין לתוכה</b> ביובל <b>עד שיגאלנה אחר</b> תחילה מיד ההקדש.",
+              "ref": "Steinsaltz on Arakhin 25b:18",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:יח",
+              "sourceRef": "Steinsaltz on Arakhin 25b:18"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Some commentaries have a version of the text that states: Rabbi Elazar says, which refers to Rabbi Elazar ben Shammua, a <i>tanna </i>who lived during the generation of Rabbi Meir and Rabbi Yehuda (Rabbeinu Gershom Meor HaGola; <i>Melekhet Shlomo</i>).",
+              "he": "יש הגורסים \"רבי אלעזר אומר\", שהוא ר' אלעזר בן שמוע, בן דורם של ר' מאיר ור' יהודה (רבינו גרשום, מלאכת שלמה).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:18",
+              "sourceHeRef": "רַבִּי אֱלִיעֶזֶר אוֹמֵר",
+              "sourceRef": "Rabbi Eliezer says"
+            },
+            {
+              "en": "According to Rabbi Eliezer, the field must be referred to as an abandoned field in order to publicize the fact that it has not been redeemed, and that when it is redeemed it will be given to the priests during the Jubilee Year (<i>Tosefot Yom Tov</i>). Perhaps such a declaration would serve to motivate the owner or one of his relatives to redeem the field so that it would no longer be known as abandoned.",
+              "he": "במסכת בבא מציעא (לח,ב) מבואר כי \"רטושין\" הוא כמו \"נטושין\", כלומר, עזובים על ידי בעליהם, וכך יש להבין את הכתוב \"אם על בנים רוטשה\" (הושע י, יד). אלא ש\"נטושים\" משמעו עזיבה בעל כרחם של הבעלים, ואילו \"רטושים\" — עזיבה מכוונת. וכוונת ר' אליעזר לומר שיש צורך לקרוא להם בשם זה, על מנת שיהא הדבר ידוע לכל וכשיבוא אדם ויגאלנה תהא לכהנים (תוי\"ט). ואולי יש בכך כדי לגרום לבעלים או לזרעו לגאול את השדה, על מנת שלא להשאירה בשם זה.",
+              "ref": "Steinsaltz comment #2 on Arakhin 25b:18",
+              "sourceHeRef": "רְטוּשֵׁי רְטוּשִׁין",
+              "sourceRef": "An abandoned field from among the abandoned fields"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> says:</b> The priests <b>do not enter</b> into the field, <b>and</b> they also <b>do not give</b> its redemption payment to the Temple treasury. <b>Rather,</b> the field remains in the possession of the Temple treasury, and <b>it is called: An abandoned field, until the second Jubilee</b> Year. If <b>the second Jubilee arrived and it was</b> still <b>not redeemed, it is called: An abandoned</b> field from among the <b>abandoned</b> fields, meaning one that was abandoned twice, <b>until the third Jubilee.</b> In any case, <b>the priests never enter into</b> a consecrated field during the Jubilee Year <b>until another</b> person <b>redeems it</b> first.",
+      "he": "<span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">ר\"א</span> אומר לא נכנסין ולא נותנין אלא נקראת שדה רטושין עד היובל השני הגיע היובל השני ולא נגאלה נקראת רטושי רטושין עד היובל השלישי לעולם אין הכהנים נכנסין לתוכה עד שיגאלנה אחר:",
+      "ref": "Arakhin 25b:18"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ממקדיש בית</strong> - במקדיש בית כתיב כי יקדיש את ביתו קדש ובשדה אחוזה כתיב <span class=\"parenthesized\">(ויקרא כ״ז:י״ד)</span> בצאתו ביובל קודש וגו' מה בית לא תצא לעולם מיד הקדש בלא דמים כדכתיב התם והעריכו הכהן וגו' ובית לא נפקא לכהנים לעולם אלא שדה אחוזה לחודה דגזירת מלך היא אף שדה אחוזה לא תצא מיד הקדש בלא דמים הילכך כי פריק לה אחר הרי דמיה לבדק הבית הקדש וכי מטי יובל נפקא בחנם לכהנים ואי לא נגאלה יהבי כהנים דמי חמשים שקל ושקלי לה:",
+              "ref": "Rashi on Arakhin 25b:19:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:יט:א",
+              "sourceRef": "Rashi on Arakhin 25b:19:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ו גמרא</big> ושואלים: <b>מאי טעמא</b> <span class=\"hebrew-emphasis\">[מה טעמו]</span> של <b>ר' יהודה,</b> שהכהנים הנכנסים לשדה הקדש ביובל נותנים את דמיה להקדש? ומשיבים: <b>גמר</b> <span class=\"hebrew-emphasis\">[למד]</span> הוא בגזירה שווה <b>\"קדש\" \"קדש\" ממקדיש בית,</b>",
+              "ref": "Steinsaltz on Arakhin 25b:19",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:יט",
+              "sourceRef": "Steinsaltz on Arakhin 25b:19"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "If anyone consecrates his house to the L<small>ORD</small>, the priest shall assess it. Whether high or low, as the priest assesses it, so it shall stand;",
+              "he": "וְאִ֗ישׁ כִּֽי־יַקְדִּ֨שׁ אֶת־בֵּית֥וֹ קֹ֙דֶשׁ֙ לַֽיהֹוָ֔ה וְהֶעֱרִיכוֹ֙ הַכֹּהֵ֔ן בֵּ֥ין ט֖וֹב וּבֵ֣ין רָ֑ע כַּאֲשֶׁ֨ר יַעֲרִ֥יךְ אֹת֛וֹ הַכֹּהֵ֖ן כֵּ֥ן יָקֽוּם׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:14",
+              "sourceHeRef": "ויקרא כז:יד",
+              "sourceRef": "Leviticus 27:14"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> The Gemara asks: <b>What is the reason for <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>’s</b> opinion that the priests who enter into an unredeemed consecrated field during the Jubilee Year must give its redemption payment to the Temple treasury? The Gemara answers: <b>He derives</b> this <i>halakha</i> from a verbal analogy <b>from</b> the word <b>“holy”</b> stated in reference to an ancestral field, and the word <b>“holy”</b> that appears with regard to one who <b>consecrates a house.</b>",
+      "he": "<big><strong>גמ׳</strong></big> מ\"ט <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">דרבי יהודה</span> גמר קודש קודש ממקדיש בית",
+      "ref": "Arakhin 25b:19",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מה להלן,</b> במקדיש בית, שנאמר בו: \"ואיש כי יקדיש את ביתו קודש לה' \" (ויקרא כז, יד), אינו יוצא מיד ההקדש אלא <b>בדמים,</b> שנאמר: \"כאשר יעריך אותו הכהן כן יקום\" (שם) — <b>אף כאן,</b> בשדה היוצאת לכהנים, שנאמר בה: \"והיה השדה בצאתו ביובל קודש לה'... לכהן תהיה אחוזתו\" (שם כא) — אינה יוצאת מיד ההקדש אלא <b>בדמים.</b>",
+              "ref": "Steinsaltz on Arakhin 25b:20",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:כ",
+              "sourceRef": "Steinsaltz on Arakhin 25b:20"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מה להלן בדמים אף כאן בדמים</strong> - וא\"ת מנלן דיש להן לכהנים עליה טפי מאחר דלמא דומיא דמקדיש בית דיוצא בדמים לכל מי שירצה וכהן וישראל שוין בו ה\"נ הוה לן למימר בזה וי\"ל דמשמע ליה פשטיה דקרא הכי ואם לא יגאל את השדה פי' הבעלים אלא עומד ביד הגזבר עד יובל ואם מכר השדה לאיש אחר שגאלו אחר בשני דרכים אלו לא יגאל עוד הבעלים מיד הקדש אלא והיה בצאתו ביובל קדש לה' לכהנים יהיה אלמא משמע מתוך הפסוקים שיוצא ליד כהנים ואתיא ג\"ש לר' יהודה לאשמועינן שיוצא בדמים ולא בחנם היכא דלא גאלה אחר:",
+              "ref": "Tosafot on Arakhin 25b:20:1",
+              "sourceHeRef": "תוספות על ערכין כ״ה ב:כ:א",
+              "sourceRef": "Tosafot on Arakhin 25b:20:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "If anyone consecrates his house to the L<small>ORD</small>, the priest shall assess it. Whether high or low, as the priest assesses it, so it shall stand;",
+              "he": "וְאִ֗ישׁ כִּֽי־יַקְדִּ֨שׁ אֶת־בֵּית֥וֹ קֹ֙דֶשׁ֙ לַֽיהֹוָ֔ה וְהֶעֱרִיכוֹ֙ הַכֹּהֵ֔ן בֵּ֥ין ט֖וֹב וּבֵ֣ין רָ֑ע כַּאֲשֶׁ֨ר יַעֲרִ֥יךְ אֹת֛וֹ הַכֹּהֵ֖ן כֵּ֥ן יָקֽוּם׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:14",
+              "sourceHeRef": "ויקרא כז:יד",
+              "sourceRef": "Leviticus 27:14"
+            },
+            {
+              "en": "when it is released in the jubilee, the land shall be holy to the L<small>ORD</small>, as land proscribed; it becomes the priest’s holding.",
+              "he": "וְהָיָ֨ה הַשָּׂדֶ֜ה בְּצֵאת֣וֹ בַיֹּבֵ֗ל קֹ֛דֶשׁ לַֽיהֹוָ֖ה כִּשְׂדֵ֣ה הַחֵ֑רֶם לַכֹּהֵ֖ן תִּהְיֶ֥ה אֲחֻזָּתֽוֹ׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:21",
+              "sourceHeRef": "ויקרא כז:כא",
+              "sourceRef": "Leviticus 27:21"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains: <b>Just as there,</b> with regard to one who consecrates a house, where the verse states: “And when a man shall consecrate his house to be holy for the Lord” (Leviticus 27:14), it can be redeemed from the Temple treasury only <b>by</b> payment of <b>money,</b> as the verse concludes: “As the priest shall value it, so shall it stand,” <b>so too here,</b> where the verse states with regard to the priests entering into an ancestral field: “But the field, when it goes out in the Jubilee, shall be holy for the Lord…his ancestral possession shall be for the priest” (Leviticus 27:21), the priests can enter the field only <b>by</b> payment of <b>money.</b>",
+      "he": "מה להלן בדמים אף כאן בדמים",
+      "ref": "Arakhin 25b:20"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בכבשי עצרת כתיב <span class=\"parenthesized\">(ויקרא כ״ג:כ׳-כ״א)</span> קודש יהיו לה' לכהן: כבשי עצרת ושדה אחוזה מכ\"ד מתנות כהונה נינהו <span class=\"parenthesized\">(במדבר יח)</span> אבל בית לא הויא לעולם לכהנים ואפי' גאלה אחר מיד הקדש:",
+              "ref": "Rashi on Arakhin 25b:21:1",
+              "sourceHeRef": "רש\"י על ערכין כ״ה ב:כא:א",
+              "sourceRef": "Rashi on Arakhin 25b:21:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ו</b>אילו <b>ר' שמעון,</b> הסבור כי אין הכהנים צריכים לתת את דמי השדה להקדש, הוא <b>גמר</b> <span class=\"hebrew-emphasis\">[למד]</span> בגזירה שווה <b>\"קדש\" \"קדש\" מכבשי עצרת,</b> הבאים יחד עם שתי הלחם, <b>מה להלן,</b> בכבשי עצרת, שנאמר בהם: \"קודש יהיו לה' לכהן\" (שם כג, כ) הריהם ניתנים לכהנים <b>בחנם,</b> ככל מתנות הכהנים — <b>אף כאן,</b> שדה היוצאת ביובל, שנאמר בה \"קודש\" — ניתנת לכהנים <b>בחנם.</b>",
+              "ref": "Steinsaltz on Arakhin 25b:21",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:כא",
+              "sourceRef": "Steinsaltz on Arakhin 25b:21"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בין עשרים וארבע מתנות כהונה נמנים זבחי שלמי ציבור (פיה\"מ לרמב\"ם סוף מס' חלה, רמב\"ם הל' ביכורים פ\"א ה\"ד), ובכל הקרבנות אין שלמי ציבור פרט לשני הכבשים הבאים עם שתי הלחם בחג השבועות (רמב\"ם הל' מעשה הקרבנות פ\"ט ה\"ג). וסדר הקרבתם כשלמי יחיד, שאימוריהם קרבים על גבי מזבח, ושאר הבשר נאכל כקדשי קדשים בעזרה לזכרי כהונה (רמב\"ם שם ה\"ד).",
+              "ref": "Steinsaltz comment #1 on Arakhin 25b:21",
+              "sourceHeRef": "מכבשי עצרת",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורבי שמעון מ\"ט</strong> - תימה שהרי בתחילה שואל הספר מ\"ט דר' יהודה אלמא טעמא דר\"ש מסתבר טפי בלא ג\"ש ואח\"כ שואל מה טעם דר' שמעון אלמא דרבי יהודה מסתבר טפי וי\"ל דאשכחן נמי כי האי גוונא בבא קמא <span class=\"parenthesized\">(דף י:)</span> גבי הכוהו עשרה בני אדם בעשר מקלות דלמר משמע כי יכה כל נפש עד שיכה כל נפש ולמר משמע כל דהו נפש ונ\"ל דלפי מה דפירשתי ניחא דפשטיה דקרא משתמע שיצא לכהנים ולא איצטריך גזירה שוה לומר דיוצא בדמים ולמר אצטריך גזרה שוה דיוצא בחנם:",
+              "ref": "Tosafot on Arakhin 25b:21:1",
+              "sourceHeRef": "תוספות על ערכין כ״ה ב:כא:א",
+              "sourceRef": "Tosafot on Arakhin 25b:21:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The priest shall elevate these—the two lambs—together with the bread of first fruits as an elevation offering before the L<small>ORD</small>; they shall be holy to the L<small>ORD</small>, for the priest.",
+              "he": "וְהֵנִ֣יף הַכֹּהֵ֣ן <span class=\"hebrew-emphasis\">׀</span> אֹתָ֡ם עַל֩ לֶ֨חֶם הַבִּכֻּרִ֤ים תְּנוּפָה֙ לִפְנֵ֣י יְהֹוָ֔ה עַל־שְׁנֵ֖י כְּבָשִׂ֑ים קֹ֛דֶשׁ יִהְי֥וּ לַיהֹוָ֖ה לַכֹּהֵֽן׃",
+              "link": "/Leviticus/23",
+              "ref": "Leviticus 23:20",
+              "sourceHeRef": "ויקרא כג:כ",
+              "sourceRef": "Leviticus 23:20"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And</b> what is the source for the opinion of <b><span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span>,</b> who maintains that the priests are not required to give the redemption payment to the Temple treasury? The Gemara answers: He <b>derives</b> the <i>halakha</i> <b>from</b> the word <b>“holy”</b> used with regard to an ancestral field, and the word <b>“holy”</b> used with regard to the communal peace offering of two <b>lambs</b> that accompanies the two loaves on <b><i>Shavuot</i>. Just as there,</b> with regard to the offering of two lambs, where the verse states: “They shall be holy to the Lord for the priest” (Leviticus 23:20), the lambs are given to the priests <b>for free,</b> as is the <i>halakha</i> with regard to all offerings to which members of the priesthood are entitled, <b>so too here,</b> the consecrated and unredeemed ancestral field is given to the priests <b>for free.</b>",
+      "he": "<span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">ור\"ש</span> גמר קודש קודש מכבשי עצרת מה להלן בחנם אף כאן בחנם",
+      "ref": "Arakhin 25b:21"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> <b>There are</b> elements that apply <b>to</b> animals <b>consecrated for the altar that do not</b> apply <b>to</b> items <b>consecrated for Temple maintenance, and there are</b> elements that apply <b>to</b> items <b>consecrated for Temple maintenance that do not</b> apply <b>to</b> animals <b>consecrated for the altar.</b>",
+                  "One element exclusive to animals consecrated for the altar is <b>that</b> animals <b>consecrated for the altar render</b> an animal exchanged for them <b>a substitute, and</b> items <b>consecrated for Temple maintenance do not render</b> an animal exchanged for them <b>a substitute.</b> In addition, if one slaughters an animal <b>consecrated for the altar</b> with the intention to eat it beyond its designated time, or if he ate the offering after its designated time, or if he ate the offering while ritually impure, <b>he is liable</b> to receive <i>karet</i> <b>for eating it due to</b> violation of the prohibitions of <b><i>piggul</i>, <i>notar</i>, and</b> eating while <b>ritually impure,</b> respectively."
+                ],
+                [
+                  "If animals consecrated for the altar became pregnant and then became blemished and gave birth after redemption, <b>their offspring and their milk are forbidden after their redemption. And one who slaughters them outside</b> the Temple courtyard is <b>liable</b> to receive <i>karet</i>. And the Temple treasurer <b>does not give compensation to craftsmen from</b> money designated for purchasing animals consecrated for the altar. And in all these instances, <b>that is not so with regard to</b> money <b>consecrated for Temple maintenance.</b>",
+                  "<b>There are</b> elements that apply <b>to</b> items <b>consecrated for Temple maintenance</b> that do not apply to animals consecrated for the altar, in <b>that unspecified consecrations are</b> designated <b>for Temple maintenance; consecration for Temple maintenance takes effect on all</b> items; <b>and one</b> is liable to bring a guilt offering and pay an additional payment of one-fifth for <b>misuse</b> of consecrated property, not only for the items themselves, but <b>for their by-products,</b> e.g., milk of a consecrated animal or eggs of a consecrated chicken; <b>and there is no benefit for the owner</b> from items consecrated for Temple maintenance, in contrast to some animals consecrated for the altar, e.g., a peace offering, from which there is benefit for the owner."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Temurah 31a:13",
+                "Temurah 31a:14",
+                "Temurah 31b:1",
+                "Temurah 31b:2"
+              ],
+              "he": [
+                [
+                  "<big><strong>יש</strong></big> בקדשי מזבח שאין בקדשי בדק הבית ויש בקדשי בדק הבית שאין בקדשי מזבח",
+                  "שקדשי מזבח עושין תמורה וקדשי בדק הבית אין עושין תמורה קדשי מזבח חייבין עליו משום פיגול נותר וטמא"
+                ],
+                [
+                  "ולדן וחלבן אסור לאחר פדיונן והשוחטן בחוץ חייב אין נותנין מהן לאומנין בשכרן מה שאין כן בקדשי בדק הבית",
+                  "יש בקדשי בדק הבית שסתם הקדשות לבדק הבית הקדש בדק הבית חל על הכל ומועלין בגידוליהן ואין בהן הנאה לבעלים"
+                ]
+              ],
+              "link": "/Temurah/31b",
+              "originalRefsBeforeRewriting": [
+                "Temurah 31b:1",
+                "Temurah 31b:2"
+              ],
+              "ref": "Temurah 31a:13-31b:2",
+              "sourceHeRef": "תמורה ל״א ב",
+              "sourceRef": "Temurah 31b"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ור' יהודה נמי ניליף</b> <span class=\"hebrew-emphasis\">[גם כן שילמד]</span> <b>מכבשי עצרת!</b> ומשיבים: <b>דנין קדשי בדק הבית</b>",
+              "ref": "Steinsaltz on Arakhin 25b:22",
+              "sourceHeRef": "ביאור שטיינזלץ על ערכין כ״ה ב:כב",
+              "sourceRef": "Steinsaltz on Arakhin 25b:22"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And</b> as for <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, let him also derive</b> the <i>halakha</i> by a verbal analogy <b>from</b> the two <b>lambs</b> brought on <b><i>Shavuot</i>.</b> Why does he disagree with <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span>? The Gemara answers: <b>One derives</b> the <i>halakha</i> with regard to items <b>consecrated</b> for <b>Temple maintenance,</b> such as an ancestral field,",
+      "he": "ורבי [יהודה] נמי ניליף מכבשי עצרת דנין קדשי בדק הבית",
+      "ref": "Arakhin 25b:22"
+    }
+  ],
+  "title": "Arakhin 25b",
+  "titleHebrew": "ערכין כה,ב",
+  "topics": []
+}

@@ -1,0 +1,945 @@
+{
+  "id": "60a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או דילמא בשתי עבודות תנן</strong> - אחת חישב לשמו ובשניה שלא לשמו והכא ליכא למימר תפוס לשון ראשון שהרי ארבעתן העבודות חשובות זו כזו ליפסול את הזבח באחת מהן ואפילו לרבי מאיר מיפסיל:",
+              "ref": "Rashi on Pesachim 60a:1:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:א:א",
+              "sourceRef": "Rashi on Pesachim 60a:1:1"
+            },
+            {
+              "en": "",
+              "he": "ומהדר גמרא אהייא מהני לישני דסיפא דמתניתין קיימא הך בעיא:",
+              "ref": "Rashi on Pesachim 60a:1:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:א:ב",
+              "sourceRef": "Rashi on Pesachim 60a:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>או דילמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> <b>בשתי עבודות תנן</b> <span class=\"hebrew-emphasis\">[שנינו</span> במשנה<span class=\"hebrew-emphasis\">]</span> שבעבודה אחת חשב מחשבה אחת, ובשניה מחשבה אחרת, ונאמר כי <b>אפילו</b> לשיטת <b>ר' מאיר</b> ש<b>אמר</b> בכלל <b>\"תפוס לשון ראשון\" — הני מילי</b> <span class=\"hebrew-emphasis\">[דברים אלה]</span> שאמר, אמורים <b>בעבודה אחת, אבל בשתי עבודות מודה דמיפסיל</b> <span class=\"hebrew-emphasis\">[שנפסל],</span> שכיון שאמר דיבור שני בזמן עבודה אחרת הרי גם הוא נחשב.",
+              "ref": "Steinsaltz on Pesachim 60a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:א",
+              "sourceRef": "Steinsaltz on Pesachim 60a:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Or perhaps</b> the mishna meant to <b>teach</b> a case of <b>two rites.</b> During the first rite, one had a particular intent, and during the second rite he had a different intent. Then, <b>even</b> according to <b><span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>, who said</b> that in general we <b>hold</b> one accountable for <b>the first expression, this</b> rule <b>applies</b> only <b>in one rite, but in two rites</b> even <b>he concedes that it disqualifies.</b> Since the second statement was made during a different rite, it too is significant.",
+      "he": "אוֹ דִילְמָא בִּשְׁתֵּי עֲבוֹדוֹת תְּנַן, וַאֲפִילּוּ לְרַבִּי מֵאִיר דְּאָמַר תְּפוֹס לָשׁוֹן רִאשׁוֹן — הָנֵי מִילֵּי בַּעֲבוֹדָה אַחַת, אֲבָל בִּשְׁתֵּי עֲבוֹדוֹת — מוֹדֶה דְּמִיפְּסִיל.",
+      "ref": "Pesachim 60a:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי נימא אשלא לשמו</strong> - ברישא והדר לשמו הא בין לר' מאיר בין לר' יוסי אפילו בעבודה אחת מיפסיל לר' מאיר דהא אמר תפוס לשון ראשון לרבי יוסי נמי מיפסיל דהא ר' יוסי אף בגמר אית ליה כלומר תחלת דבריו של אדם וסופן בכולן דעתו נתפסת וכולן מתקיימין:",
+              "ref": "Rashi on Pesachim 60a:2:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ב:א",
+              "sourceRef": "Rashi on Pesachim 60a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלשמו ושלא לשמו</strong> - דאי בעבודה אחת נמי פסיל ליה מתני' תו לא מיתוקמא כרבי מאיר דאמר תפוס לשון ראשון ולשון אחרון לא חייל:",
+              "ref": "Rashi on Pesachim 60a:2:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ב:ב",
+              "sourceRef": "Rashi on Pesachim 60a:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמרי</b> <span class=\"hebrew-emphasis\">[אומרים,</span> שואלים<span class=\"hebrew-emphasis\">]:</span> <b>אהייא</b> <span class=\"hebrew-emphasis\">[על איזה]</span> קטע מן המשנה בעצם דנים אנו? <b>אי נימא</b> <span class=\"hebrew-emphasis\">[אם נאמר]</span> על מה שאמרנו <b>שלא לשמו ולשמו,</b> הרי <b>בין</b> שהיה הדבר <b>בעבודה אחת בין בשתי עבודות, בין</b> לשיטת <b>ר' מאיר בין</b> לשיטת <b>ר' יוסי — איפסיל ליה מקמייתא</b> <span class=\"hebrew-emphasis\">[נפסל לו מן</span> האמירה <span class=\"hebrew-emphasis\">הראשונה],</span> <b>דהא</b> <span class=\"hebrew-emphasis\">[שהרי]</span> <b>לר' יוסי נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>\"אף בגמר דבריו אדם נתפס\" אית ליה</b> <span class=\"hebrew-emphasis\">[יש לו],</span> אבל אין דעתו שהדיבור האחרון דווקא הוא העיקרי, אלא שמוסיף, שגם דיבור אחרון יש לו ערך מסויים. ולכן כיון שחשב על הפסח בתחילה שלא לשמו — מיד נפסל. <b>אלא</b> הבעיה היתה בענין <b>לשמו ושלא לשמו מאי</b> <span class=\"hebrew-emphasis\">[מה</span> בדיוק ענינו<span class=\"hebrew-emphasis\">]?</span>",
+              "ref": "Steinsaltz on Pesachim 60a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:ב",
+              "sourceRef": "Steinsaltz on Pesachim 60a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שיטתו של ר' יוסי בענין \"בגמר דבריו אדם נתפס\", יש מקום לחלק בה בין מקרים שונים. ר' יוסי עצמו מחלק בין מי שהתחרט, שאין ממש בדבריו האחרונים, ובין מי שהיה בדעתו לומר שני דברים יחד אלא שבעל כרחו חייב להקדים דיבור אחד, שאז יש תוקף גם לדבריו השניים. וכל זה משום שאנו אומרים, כי דבריו הראשונים מיד קבעו קדושה (או פסול) ואין כוח בדבריו השניים לשנותם. מה שאין כן במקרים אחרים, שיש אפשרות לאדם לחזור בו מדבריו הראשונים (לפחות בתוך כדי דבור). אכן, היתה גם שיטה (ר\"ש בן ננס) האומרת שבכלל אדם נתפס רק בדבריו האחרונים, משום שהם מבטאים את דעתו האחרונה והסופית.",
+              "ref": "Steinsaltz comment #1 on Pesachim 60a:2",
+              "sourceHeRef": "אף בגמר דבריו",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוספות</b> בד\"ה אבל בשתי כו' הא קתני סיפא טמאים וטהורים כשר כו' ובעבודה א' מיירי דאין מחשבת כו' עכ\"ל ר\"ל לרבי יוסי ניחא טמאים וטהורים בעבודה א' דתרווייהו חיילי דאף בגמר דבריו אדם נתפס וה\"ל מקצת טומאה דפסיקא ליה דכשר כדלקמן וק\"ל:",
+                      "ref": "Chidushei Halachot on Pesachim 60a:3",
+                      "sourceHeRef": "חדושי הלכות על פסחים ס׳ א:ג",
+                      "sourceRef": "Chidushei Halachot on Pesachim 60a:3"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>בא\"ד</b> דבע\"א לא משכחת מקצת ערלה דלא פסלה לר\"מ כו' עכ\"ל נראה דלאו היינו ברייתא דלקמן דמייתי להכשיר מקצת ערלה מקרא דבהך ברייתא גופא פסיקא ליה טפי להכשיר מקצת טומאה ומיניה וביה ה\"ל לאוכחי הכי אלא דאיכא למימר דאתיא כר' יוסי אבל ר\"ל בהך ברייתא דלקמן דקתני אחרים אומרים הקדים מולין לערלים כשר ערלים למולין פסול ומדקדק תלמודא מ\"ש מולין לערלים דכשר דכולה ערלה בעינן וליכא משמע דס\"ל לאחרים דמקצת ערלה כשר ואחרים היינו ר\"מ וליכא לאשכוחי לר\"מ אלא בכה\"ג דקיימי קמיה ערלים ומולין ודקאמר לקמן בשמעתין הא בעבודה א' כו' והא קי\"ל דמקצת אוכלין לא פסלא כו' לרבא צ\"ל דהיינו נמי באומר לאלו דבאינו אומר לאלו לרבא כשר משום תפוס לשון קמא דהיינו לאוכליו ובלאו האי דיוקא ה\"מ לדיוקא לקמן בפשיטות מלמנויו ושלא למנויו דפסול בב' עבודות דה\"ל שינוי בעלים בזריקה דפסול וע\"כ איירי בעבודה א' ודו\"ק:",
+                      "ref": "Chidushei Halachot on Pesachim 60a:4",
+                      "sourceHeRef": "חדושי הלכות על פסחים ס׳ א:ד",
+                      "sourceRef": "Chidushei Halachot on Pesachim 60a:4"
+                    }
+                  ]
+                },
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה אבל בשתי כו' לא משכחת מקצת ערלה נ\"ב פי' לקמן ממעטינן מקצת ערלה לכ\"ע מקרא דמשמע לכ\"ע מקצת ערלה אינה פוסלת דאי איירי שהקדים מולין לערלים ומשום תפוס לשון ראשון א\"כ לא הוי מקצת ערלה אלא [ה\"ל כולה] מולין וא\"כ באיזה ענין משכחת מקצת ערלה ממש דכשר אף לר\"מ אלא בכה\"ג ודו\"ק:",
+                      "ref": "Chokhmat Shlomo on Pesachim 60a:3",
+                      "sourceHeRef": "חכמת שלמה על פסחים ס׳ א:ג",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 60a:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל בשתי עבודות אפי' ר' מאיר מודה</strong> - וא\"ת והיכי מיתוקמא מתני' כר' מאיר הא קתני סיפא לטמאים ולטהורים כשר ואמאי נימא תפוס לשון ראשון ובעבודה אחת מיירי דאין מחשבת טמאים אלא בשחיטה וי\"ל דמתני' מיירי כגון דקיימי קמיה טמאים וטהורים ואמר הריני שוחט לאלו דבענין אחר לא משכחת מקצת ערלה דלא פסלה לר' מאיר אליבא דרבא דאמר אינה לשחיטה אלא לבסוף:",
+              "ref": "Tosafot on Pesachim 60a:2:1",
+              "sourceHeRef": "תוספות על פסחים ס׳ א:ב:א",
+              "sourceRef": "Tosafot on Pesachim 60a:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>They said: To which</b> part of the mishna <b>does this</b> discussion refer? <b>If we say</b> that the discussion pertains to the case in the mishna of slaughtering an offering first <b>for a different purpose and</b> then <b>for its own purpose,</b> then <b>whether</b> these intentions are verbalized <b>during one rite or during two rites, whether according to</b> the opinion of <b><span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> or according to</b> the opinion of <b><span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span>,</b> the offering <b>is disqualified from the first</b> statement, <b>as also <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> holds that a person is held accountable even for the conclusion of his statement.</b> That does not mean that the final statement is primary but that it too has value and complements the previous one. Therefore, since one initially intended to offer the Paschal lamb for a different purpose, it was immediately disqualified. <b>Rather,</b> the question is concerning the case of slaughtering an animal first <b>for its own purpose and</b> then <b>for a different purpose; what</b> exactly are the parameters of that case?",
+      "he": "אָמְרִי: אַהֵיָיא? אִי נֵימָא אַשֶּׁלֹּא לִשְׁמוֹ וְלִשְׁמוֹ, בֵּין בַּעֲבוֹדָה אַחַת בֵּין בִּשְׁתֵּי עֲבוֹדוֹת, בֵּין לְרַבִּי מֵאִיר בֵּין לְרַבִּי יוֹסֵי — אִיפְּסִיל לֵיהּ מִקַּמָּיְיתָא, דְּהָא לְרַבִּי יוֹסֵי נָמֵי, אַף בִּגְמַר דְּבָרָיו אָדָם נִתְפָּס אִית לֵיהּ. אֶלָּא: אַלִּשְׁמוֹ וְשֶׁלֹּא לִשְׁמוֹ — מַאי?",
+      "ref": "Pesachim 60a:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי נימא כדקתני</strong> - שחט וקיבל והלך וזרק כולן שלא לשמו ולאו או קאמר למה לי בכולהו הא בחדא קי\"ל בזבחי' בשמעתא קמייתא דהזבח נפסל:",
+              "ref": "Rashi on Pesachim 60a:3:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ג:א",
+              "sourceRef": "Rashi on Pesachim 60a:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כדי לפתור בעיה זו מביאים מקורות שונים. <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> פתרון לשאלה ממה ששנינו במשנתנו: <b>הפסח ששחטו שלא לשמו, וקבל והלך וזרק שלא לשמו</b> — פסול. ונברר: <b>היכי דמי</b> <span class=\"hebrew-emphasis\">[כיצד</span> בדיוק <span class=\"hebrew-emphasis\">היה</span> הדבר<span class=\"hebrew-emphasis\">]?</span> <b>אי נימא כדקתני</b> <span class=\"hebrew-emphasis\">[אם תאמר שהיה</span> בדיוק <span class=\"hebrew-emphasis\">כפי ששנינו]</span> שכל ארבע עבודות אלו היו שלא לשמו, אם כן <b>למה לי</b> לומר <b>עד דמחשב לכולהו</b> <span class=\"hebrew-emphasis\">[שחשב</span> בעבודות <span class=\"hebrew-emphasis\">כולן]</span> בשחיטה, בקבלה, בהולכה ובזריקה? הלוא כבר <b>מקמייתא איפסיל ליה</b> <span class=\"hebrew-emphasis\">[מן הראשונה נפסל לו]</span> במחשבה ראשונה של פסול, בשעת שחיטה!",
+              "ref": "Steinsaltz on Pesachim 60a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:ג",
+              "sourceRef": "Steinsaltz on Pesachim 60a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "פסח ששחטו שלא לשמו או ששחטו לשמו אבל חשב בשאר עבודות שלא לשמו, כל שהיתה מחשבתו אף באחת העבודות שלא לשמו — פסל את הקרבן. כגמרא. (רמב\"ם ספר עבודה הלכות פסולי המוקדשין פט\"ו ה\"א).",
+              "ref": "Steinsaltz comment #1 on Pesachim 60a:3",
+              "sourceHeRef": "פסח ששחטו שלא לשמו",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites a series of sources in order to resolve this question. <b>Come</b> and <b>hear</b> a resolution to the question from what is taught in the mishna: <b>A Paschal lamb</b> that one <b>sacrificed for a different purpose, and he received</b> the blood, <b>and carried</b> it to the altar, <b>and sprinkled</b> it <b>for a different purpose,</b> is disqualified. This needs clarification: <b>What</b> exactly <b>are the circumstances? If we say</b> that the case is exactly <b>as it was taught,</b> that these four rites are all performed for a different purpose, <b>why do I need</b> to say that <b>he intended</b> to perform <b>all of them,</b> i.e., the slaughter, receiving of the blood, carrying the blood to the altar, and sprinkling it upon the altar, for a different purpose? The offering has been <b>disqualified from the first</b> improper intention during slaughter.",
+      "he": "תָּא שְׁמַע: הַפֶּסַח שֶׁשְּׁחָטוֹ שֶׁלֹּא לִשְׁמוֹ, וְקִבֵּל וְהִלֵּךְ וְזָרַק שֶׁלֹּא לִשְׁמוֹ. הֵיכִי דָּמֵי? אִי נֵימָא כִּדְקָתָנֵי, לְמָה לִי עַד דִּמְחַשֵּׁב לְכוּלְּהוּ? מִקַּמָּיְיתָא אִיפְּסִיל לֵיהּ!",
+      "ref": "Pesachim 60a:3"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> <b>This is the principle:</b> With regard to <b>anyone who slaughters</b> the animal, <b>or who collects</b> the blood, <b>or who conveys</b> the blood, <b>or who sprinkles</b> the blood, with intent <b>to partake of an item whose</b> typical <b>manner</b> is such that one <b>partakes</b> of it, e.g., the meat of the offering, <b>or to burn an item whose</b> typical <b>manner</b> is such that one <b>burns</b> it on the altar, if his intent was to partake of or to burn the measure of <b>an olive-bulk outside its</b> designated <b>area,</b> the offering is <b>disqualified, but there is no</b> liability for <b><i>karet</i> for</b> burning or partaking of <b>it.</b> If his intent was to do so <b>beyond its</b> designated <b>time,</b> the offering is <b><i>piggul</i> and one is liable</b> to receive <b><i>karet</i> for</b> burning or partaking of <b>it, provided that the permitting factor,</b> the blood, <b>is sacrificed in accordance with its mitzva.</b>",
+                "<b>How</b> is <b>the permitting factor sacrificed in accordance with its mitzva?</b> If one <b>slaughtered</b> the animal <b>in silence</b> with no specific intent, and <b>he collected and conveyed and sprinkled</b> the blood with intent to burn or partake of the offering <b>beyond its</b> designated <b>time; or</b> if one <b>slaughtered</b> it with intent to burn or partake of the offering <b>beyond its</b> designated <b>time, and he collected and conveyed and sprinkled</b> the blood <b>in silence; or</b> if one <b>slaughtered</b> the animal <b>and collected and conveyed and sprinkled</b> the blood with intent to burn or partake of the offering <b>beyond its</b> designated <b>time, that is</b> the case <b>where</b> one <b>sacrifices the permitting factor in accordance with its mitzva.</b>",
+                "<b>How</b> is <b>the permitting factor not sacrificed in accordance with its mitzva?</b> If one <b>slaughtered</b> the animal with intent to burn it or partake of it <b>outside its</b> designated <b>area,</b> and <b>he collected and conveyed and sprinkled</b> the blood with intent to burn it or partake of it <b>beyond its</b> designated <b>time; or</b> if one <b>slaughtered</b> the animal with intent to burn it or partake of it <b>beyond its</b> designated <b>time,</b> and <b>collected and conveyed and sprinkled</b> the blood with intent to burn it or partake of it <b>outside its</b> designated <b>area; or</b> if one <b>slaughtered</b> the animal <b>and collected and conveyed and sprinkled</b> the blood with intent to burn it or partake of it <b>outside its</b> designated <b>area,</b> these are cases in which the permitting factor is not sacrificed in accordance with the mitzva.",
+                "Similarly, in the case of <b>the Paschal offering and the sin offering that one slaughtered not for their sake, and</b> one <b>collected and conveyed and sprinkled</b> the blood with intent to burn it or partake of it <b>beyond its</b> designated <b>time; or</b> if one <b>slaughtered</b> the Paschal offering or sin offering with intent to burn it or partake of it <b>beyond its</b> designated <b>time,</b> and <b>he collected and conveyed and sprinkled</b> the blood <b>not for their sake; or that one slaughtered</b> the Paschal offering or sin offering <b>and collected and conveyed and sprinkled their blood not for their sake, that is</b> the case of an offering <b>whose permitting factor is not sacrificed in accordance with its mitzva.</b>",
+                "If one performed one of the sacrificial rites with the intent <b>to eat an olive-bulk outside</b> its designated area and <b>an olive-bulk the next day,</b> or <b>an olive-bulk the next day</b> and <b>an olive-bulk outside</b> its designated area, or <b>half an olive-bulk outside</b> its designated area and <b>half an olive-bulk the next day,</b> or <b>half an olive-bulk the next day</b> and <b>half an olive-bulk outside</b> its designated area, the offering is <b>disqualified and there is no</b> liability for <b><i>karet</i> for</b> burning or partaking of <b>it.</b>",
+                "<b>Rabbi Yehuda said</b> that <b>this is the principle:</b> In <b>any</b> case <b>where the intent</b> with regard to <b>the time preceded the intent</b> with regard to <b>the area,</b> the offering is <b><i>piggul</i> and one is liable</b> to receive <b><i>karet</i> for</b> burning or partaking of <b>it. And if the intent</b> with regard to <b>the area preceded the intent</b> with regard to <b>the time,</b> the offering is <b>disqualified and there is no</b> liability for <b><i>karet</i> for</b> burning or partaking of <b>it. And the Rabbis say:</b> In both <b>this</b> case <b>and that</b> case, the offering is <b>disqualified and there is no</b> liability for <b><i>karet</i> for</b> burning or partaking of <b>it.</b> If his intent was <b>to eat half an olive-bulk</b> and <b>to burn half an olive-bulk</b> not at the appropriate time or in the appropriate area, the offering is <b>fit because eating and burning do not join together.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Zevachim 29b:10",
+                "Zevachim 29b:11",
+                "Zevachim 29b:12",
+                "Zevachim 29b:13",
+                "Zevachim 29b:14",
+                "Zevachim 29b:15"
+              ],
+              "he": [
+                "<big><strong>מתני׳</strong></big> זה הכלל כל השוחט והמקבל והמהלך והזורק לאכול דבר שדרכו לאכול ולהקטיר דבר שדרכו להקטיר כזית חוץ למקומו פסול ואין בו כרת חוץ לזמנו פגול וחייבין עליו כרת ובלבד שיקריב המתיר כמצותו",
+                "כיצד קרב המתיר כמצותו שחט בשתיקה קבל והלך וזרק חוץ לזמנו או ששחט חוץ לזמנו וקבל והלך וזרק בשתיקה או ששחט וקבל והלך וזרק חוץ לזמנו זהו שמקריב המתיר כמצותו",
+                "כיצד לא קרב המתיר כמצותו שחט חוץ למקומו קבל והלך וזרק חוץ לזמנו או ששחט חוץ לזמנו קבל והלך וזרק חוץ למקומו או ששחט וקבל והלך וזרק חוץ למקומו <span class=\"parenthesized\">(ולזמנו)</span>",
+                "הפסח והחטאת ששחטן שלא לשמן וקבל והלך וזרק חוץ לזמנו או ששחט חוץ לזמנו קיבל והלך וזרק שלא לשמן או ששחט וקבל והלך וזרק דמן שלא לשמן זהו שלא קרב המתיר כמצותו",
+                "לאכול כזית בחוץ כזית למחר כזית למחר כזית בחוץ כחצי זית בחוץ כחצי זית למחר כחצי זית למחר כחצי זית בחוץ פסול ואין בו כרת",
+                "אמר רבי יהודה זה הכלל כל שמחשבת הזמן קדמה למחשבת המקום פגול וחייבין עליו כרת ואם מחשבת המקום קדמה למחשבת הזמן פסול ואין בו כרת וחכמים אומרים זה וזה פסול ואין בו כרת לאכול כחצי זית להקטיר כחצי כזית כשר שאין אכילה והקטרה מצטרפין:"
+              ],
+              "link": "/Zevachim/29b",
+              "originalRefsBeforeRewriting": [
+                "Zevachim 29b:13"
+              ],
+              "ref": "Zevachim 29b:10-15",
+              "sourceHeRef": "זבחים כ״ט ב",
+              "sourceRef": "Zevachim 29b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "<b>How</b> is <b>the permitting factor sacrificed in accordance with its mitzva?</b> If one <b>slaughtered</b> the animal <b>in silence</b> with no specific intent, and <b>he collected and conveyed and sprinkled</b> the blood with intent to burn or partake of the offering <b>beyond its</b> designated <b>time; or</b> if one <b>slaughtered</b> it with intent to burn or partake of the offering <b>beyond its</b> designated <b>time, and he collected and conveyed and sprinkled</b> the blood <b>in silence; or</b> if one <b>slaughtered</b> the animal <b>and collected and conveyed and sprinkled</b> the blood with intent to burn or partake of the offering <b>beyond its</b> designated <b>time, that is</b> the case <b>where</b> one <b>sacrifices the permitting factor in accordance with its mitzva.</b> <b>How</b> is <b>the permitting factor not sacrificed in accordance with its mitzva?</b> If one <b>slaughtered</b> the animal with intent to burn it or partake of it <b>outside its</b> designated <b>area,</b> and <b>he collected and conveyed and sprinkled</b> the blood with intent to burn it or partake of it <b>beyond its</b> designated <b>time; or</b> if one <b>slaughtered</b> the animal with intent to burn it or partake of it <b>beyond its</b> designated <b>time,</b> and <b>collected and conveyed and sprinkled</b> the blood with intent to burn it or partake of it <b>outside its</b> designated <b>area; or</b> if one <b>slaughtered</b> the animal <b>and collected and conveyed and sprinkled</b> the blood with intent to burn it or partake of it <b>outside its</b> designated <b>area,</b> these are cases in which the permitting factor is not sacrificed in accordance with the mitzva. Similarly, in the case of <b>the Paschal offering and the sin offering that one slaughtered not for their sake, and</b> one <b>collected and conveyed and sprinkled</b> the blood with intent to burn it or partake of it <b>beyond its</b> designated <b>time; or</b> if one <b>slaughtered</b> the Paschal offering or sin offering with intent to burn it or partake of it <b>beyond its</b> designated <b>time,</b> and <b>he collected and conveyed and sprinkled</b> the blood <b>not for their sake; or that one slaughtered</b> the Paschal offering or sin offering <b>and collected and conveyed and sprinkled their blood not for their sake, that is</b> the case of an offering <b>whose permitting factor is not sacrificed in accordance with its mitzva.</b>",
+              "he": "כֵּיצַד קָרַב הַמַּתִּיר כְּמִצְוָתוֹ. שָׁחַט בִּשְׁתִיקָה, קִבֵּל וְהִלֵּךְ וְזָרַק חוּץ לִזְמַנּוֹ. אוֹ שֶׁשָּׁחַט חוּץ לִזְמַנּוֹ, קִבֵּל וְהִלֵּךְ וְזָרַק בִּשְׁתִיקָה. אוֹ שֶׁשָּׁחַט, וְקִבֵּל וְהִלֵּךְ וְזָרַק חוּץ לִזְמַנּוֹ, זֶה הוּא שֶׁקָּרַב הַמַּתִּיר כְּמִצְוָתוֹ. כֵּיצַד לֹא קָרַב הַמַּתִּיר כְּמִצְוָתוֹ. שָׁחַט חוּץ לִמְקוֹמוֹ, קִבֵּל וְהִלֵּךְ וְזָרַק חוּץ לִזְמַנּוֹ. אוֹ שֶׁשָּׁחַט חוּץ לִזְמַנּוֹ, קִבֵּל וְהִלֵּךְ וְזָרַק חוּץ לִמְקוֹמוֹ. אוֹ שֶׁשָּׁחַט, קִבֵּל, וְהִלֵּךְ, וְזָרַק, חוּץ לִמְקוֹמוֹ. הַפֶּסַח וְהַחַטָּאת שֶׁשְּׁחָטָן שֶׁלֹּא לִשְׁמָן, קִבֵּל וְהִלֵּךְ וְזָרַק חוּץ לִזְמַנּוֹ. אוֹ שֶׁשָּׁחַט חוּץ לִזְמַנּוֹ, קִבֵּל וְהִלֵּךְ וְזָרַק שֶׁלֹּא לִשְׁמָן. אוֹ שֶּׁשָּׁחַט, קִבֵּל, וְהִלֵּךְ, וְזָרַק, שֶׁלֹּא לִשְׁמָן. זֶה הוּא שֶׁלֹּא קָרַב הַמַּתִּיר כְּמִצְוָתוֹ:",
+              "link": "/Mishnah Zevachim/2",
+              "ref": "Mishnah Zevachim 2:4",
+              "sourceHeRef": "משנה זבחים ב:ד",
+              "sourceRef": "Mishnah Zevachim 2:4"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Any of the sacrifices - whether individual sacrifices or communal sacrifices - that were sacrificed for a different purpose than that for which they were originally designated are acceptable, but they did not satisfy the obligation incumbent on their owner with the exception of a sin-offering and the Paschal sacrifice. If they are offered for a different purpose, they are unacceptable. [This applies whether] one changes the purpose of the sacrifice at the time of slaughter, at the time he receives its blood, at the time he brings it to the altar, or when he casts it upon it, as we explained.<br>What is meant by saying that [the owner] does not fulfill his obligation through such [a sacrifice]? For example, one slaughtered [an animal designated as] a burnt-offering as a peace-offering. It does not fulfill the obligation of the owner, neither for the burnt-offering for which he is obligated or for a sin-offering. Instead, he is obligated to bring another sacrifice. Similarly, if one slaughtered a burnt-offering brought by Reuven for the sake of Shimon, it does not fulfill the obligation either of Reuven or of Shimon.<br>When does the above apply? When one changed the purpose of the sacrifice intentionally. If, however, one erred and had the impression that the [animal designated as] a burnt-offering was [designated as] a peace-offering and carried out all of its services for the sake of a peace-offering, the owner is considered to have fulfilled his obligation. Similarly, when one offered a sin-offering or a Paschal sacrifice for a different purpose in error, they are acceptable. For supplanting [a purpose] mistakenly is of no consequence.<br>Similarly, if one performs <i>melikah</i> on a fowl [designated as] a burnt-offering or squeezed out its blood for a different purpose, it is acceptable, but does not fulfill the obligation of the owner. And a sin-offering of fowl [brought for a different purpose] is unacceptable.",
+              "he": "כָּל הַזְּבָחִים שֶׁנִּשְׁחֲטוּ בְּמַחִשֶׁבֶת שִׁנּוּי הַשֵּׁם. בֵּין בְּקָרְבְּנוֹת יָחִיד בֵּין בְּקָרְבְּנוֹת צִבּוּר. כְּשֵׁרִים אֶלָּא שֶׁלֹּא עָלוּ לַבְּעָלִים לְשֵׁם חוֹבָה. חוּץ מִן הַחַטָּאת וְהַפֶּסַח שֶׁאִם נַעֲשׂוּ בְּמַחְשֶׁבֶת שִׁנּוּי הַשֵּׁם פְּסוּלִין. וְאֶחָד הַמְשַׁנֶּה שֵׁם הַזֶּבַח בִּשְׁעַת שְׁחִיטָה אוֹ בִּשְׁעַת קַבָּלָה אוֹ בִּשְׁעַת הוֹלָכָה אוֹ בִּזְרִיקָה כְּמוֹ שֶׁבֵּאַרְנוּ. כֵּיצַד לֹא עָלוּ לְשֵׁם חוֹבָה. כְּגוֹן שֶׁשָּׁחַט עוֹלָה לְשֵׁם שְׁלָמִים לֹא עָלְתָה לַבְּעָלִים לֹא מִשּׁוּם עוֹלָה שֶׁהֵם חַיָּבִין בָּהּ וְלֹא מִשּׁוּם שְׁלָמִים. אֶלָּא חַיָּבִין לְהָבִיא זֶבַח אַחֵר. וְכֵן אִם שָׁחַט עוֹלַת רְאוּבֵן לְשֵׁם שִׁמְעוֹן לֹא עָלְתָה לֹא לִרְאוּבֵן וְלֹא לְשִׁמְעוֹן. בַּמֶּה דְּבָרִים אֲמוּרִים כְּשֶׁעָקַר שֵׁם הַזֶּבַח בְּזָדוֹן. אֲבָל אִם טָעָה וְדִמָּה שֶׁזּוֹ הָעוֹלָה שְׁלָמִים הִיא וְעָשָׂה כָּל עֲבוֹדוֹתֶיהָ לְשֵׁם שְׁלָמִים עָלְתָה לַבְּעָלִים לְשֵׁם חוֹבָה. וְכֵן הַחַטָּאת וְהַפֶּסַח שֶׁעֲשָׂאָן בְּמַחְשֶׁבֶת שִׁנּוּי הַשֵּׁם בְּטָעוּת כְּשֵׁרִים. שֶׁעֲקִירָה בְּטָעוּת אֵינָהּ עֲקִירָה. וְכֵן עוֹלַת הָעוֹף שֶׁמְּלָקָהּ אוֹ שֶׁמִּצָּה דָּמָהּ בְּמַחְשֶׁבֶת שִׁנּוּי הַשֵּׁם כְּשֵׁרָה וְלֹא עָלְתָה לַבְּעָלִים. וְחַטַּאת הָעוֹף פְּסוּלָה:",
+              "ref": "Mishneh Torah, Sacrifices Rendered Unfit 15:1",
+              "sourceHeRef": "הלכות פסולי המוקדשין טו:א",
+              "sourceRef": "Sacrifices Rendered Unfit 15:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא לאו הכי קתני</b> <span class=\"hebrew-emphasis\">[האם לא כך שנה],</span> וכך צריך להבין: <b>הפסח ששחטו שלא לשמו, אי נמי</b> <span class=\"hebrew-emphasis\">[או גם כן]</span> <b>שחטו לשמו וקבל והלך וזרק שלא לשמו. אי נמי</b> <span class=\"hebrew-emphasis\">[או גם כן]</span> <b>שחטו וקבל והלך לשמו, וזרק שלא לשמו</b> — נפסל. ואם כן <b>הויא לה</b> <span class=\"hebrew-emphasis\">[הרי הוא]</span> מחשבה ב<b>שתי עבודות,</b> ונפתרה בעייתנו, שלפי זה המשנה היא אף כשיטת ר' מאיר.",
+              "ref": "Steinsaltz on Pesachim 60a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:ד",
+              "sourceRef": "Steinsaltz on Pesachim 60a:4"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, is this not what</b> the mishna <b>is teaching: A Paschal lamb</b> that one <b>slaughtered for a different purpose, or alternatively,</b> he <b>slaughtered it for its own purpose, but received</b> the blood, <b>and carried</b> the blood, <b>and sprinkled</b> the blood <b>for a different purpose, or alternatively, he slaughtered it, and received</b> the blood, <b>and carried</b> the blood <b>for its own purpose, but sprinkled</b> the blood <b>for a different purpose,</b> in all these situations the offering is disqualified? If so, <b>it is</b> a case of different intentions in <b>two rites,</b> and the mishna can also be in accordance with the opinion of <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>.",
+      "he": "אֶלָּא לָאו, הָכִי קָתָנֵי: הַפֶּסַח שֶׁשְּׁחָטוֹ שֶׁלֹּא לִשְׁמוֹ, אִי נָמֵי שְׁחָטוֹ לִשְׁמוֹ וְקִבֵּל וְהִלֵּךְ וְזָרַק שֶׁלֹּא לִשְׁמוֹ. אִי נָמֵי שְׁחָטוֹ וְקִבֵּל וְהִלֵּךְ לִשְׁמוֹ, וְזָרַק שֶׁלֹּא לִשְׁמוֹ. דְּהָוְיָא לַהּ שְׁתֵּי עֲבוֹדוֹת.",
+      "ref": "Pesachim 60a:4"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: אם כן <b>אימא סיפא</b> <span class=\"hebrew-emphasis\">[אמור את סופה]</span> של המשנה: <b>לשמו ושלא לשמו,</b> ונברר <b>היכי דמי</b> <span class=\"hebrew-emphasis\">[כיצד</span> בדיוק <span class=\"hebrew-emphasis\">היה</span> הדבר<span class=\"hebrew-emphasis\">]?</span> <b>אי נימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> <b>בשתי עבודות — היינו רישא</b> <span class=\"hebrew-emphasis\">[הרי זו</span> בדיוק <span class=\"hebrew-emphasis\">התחלת המשנה]</span> ואין טעם לחזור על כך, <b>אלא לאו</b> <span class=\"hebrew-emphasis\">[האם לא]</span> על כורחנו נאמר שבפיסקה זו הכוונה שחשב <b>בעבודה אחת,</b> ואם כן המשנה כשיטת <b>ר' יוסי היא</b> ש<b>אמר אף בגמר דבריו אדם נתפס,</b> ולא נפתרה איפוא השאלה ששאלנו.",
+              "ref": "Steinsaltz on Pesachim 60a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:ה",
+              "sourceRef": "Steinsaltz on Pesachim 60a:5"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי בשתי עבודות היינו רישא</strong> - וא\"ת ולימא דרישא איירי כששחט סתמא ולכך כשזרק שלא לשמו אמר הוכיח סופו על תחלתו אבל אם אמר בהדיא הריני שוחט לשמו ה\"א דלא עקר שלא לשמו אפי' בשתי עבודות להכי איצטריך סיפא וי\"ל דסברא הוא דבשתי עבודות אינו מועיל מפרש יותר מסתם:",
+              "ref": "Tosafot on Pesachim 60a:5:1",
+              "sourceHeRef": "תוספות על פסחים ס׳ א:ה:א",
+              "sourceRef": "Tosafot on Pesachim 60a:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: If so, <b>say the latter clause</b> of the mishna: <b>For its own purpose and for a different purpose.</b> The Gemara clarifies: <b>What are the circumstances? If we say</b> that one had these two intentions <b>during two</b> different <b>rites, that is</b> precisely the meaning of <b>the first clause</b> and there is no need to repeat it. <b>Rather, must we not</b> say that in this part of the mishna, one had both intentions <b>during one rite,</b> and the mishna is <b>according to</b> the opinion of <b><span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span>, who said that a person is held accountable even for the conclusion of his statement?</b>",
+      "he": "אֵימָא סֵיפָא: לִשְׁמוֹ וְשֶׁלֹּא לִשְׁמוֹ, הֵיכִי דָּמֵי? אִי נֵימָא בִּשְׁתֵּי עֲבוֹדוֹת — הַיְינוּ רֵישָׁא! אֶלָּא לָאו, בַּעֲבוֹדָה אַחַת וְרַבִּי יוֹסֵי הִיא, דְּאָמַר: אַף בִּגְמַר דְּבָרָיו אָדָם נִתְפָּס.",
+      "ref": "Pesachim 60a:5"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> ורישא דקאי בשחיטה וקא מחשב כו' כצ\"ל. ונ\"ב זהו רישא דכולה הפסח ששחטו שלא לשמו ומה ששנה אח\"כ או קבל והלך כו' איירי ששחט לשמו אלא שעומד בזריקה וחשיב בזריקה דהיינו ב' עבודות ואותם ב' עבודות מפרש רש\"י אבל מרישא דכולה דאיירי בעבודה א' לא הזכיר רש\"י ודו\"ק <span class=\"parenthesized\">(עיין במהרש\"א)</span>:",
+              "ref": "Chokhmat Shlomo on Pesachim 60a:1",
+              "sourceHeRef": "חכמת שלמה על פסחים ס׳ א:א",
+              "sourceRef": "Chokhmat Shlomo on Pesachim 60a:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בפרש\"י</b> בד\"ה לעולם סיפא כו' רישא מיירי דכי שחיט חישב בה לשמו וכשזרק חישב כו' עכ\"ל נקט במלתיה סיפא דרישא דהיינו שחט לשמו וקבל והלך וזרק שלא לשמו משום דמההיא הוא פריך ליה וה\"ה רישא דרישא דקתני הפסח ששחט שלא לשמו היינו שקבל והלך וזרק לשמו איירי נמי בכה\"ג בב' עבודות ממש דהיינו דכי שחיט חישב בה שלא לשמו וכשזורק חישב לשמו ותלמודא דקאמר ורישא דקאי בשחיטה קא מחשב בשחיטה א\"נ קאי בזריקה כו' ר\"ל דבין רישא דרישא ובין סיפא דרישא איירי בב' עבודות ממש דבשחיטה קא מחשב על השחיטה ובזריקה קא מחשב בזריקה אבל הסיפא דקאי בשחיטה וקמחשב בזריקה ונקט התלמוד במלתיה רישא דסיפא לשמו ושלא לשמו משום דמההיא הוי פריך ליה וה\"ה דסיפא דסיפא שלא לשמו ולשמו בכה\"ג איירי כדמסיק לקמן ומהרש\"ל הבין בזה דרך אחרת ואינו מבורר לי וק\"ל:",
+                      "ref": "Chidushei Halachot on Pesachim 60a:1",
+                      "sourceHeRef": "חדושי הלכות על פסחים ס׳ א:א",
+                      "sourceRef": "Chidushei Halachot on Pesachim 60a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לעולם</strong> - סיפא נמי דקתני לשמו ושלא לשמו בשתי עבודות ודקשיא לך היינו רישא לא תיקשי רישא מיירי דכי שחט חישב בה לשמו וכשזרק חישב בה שלא לשמו וסיפא מיירי דבשעת שחיטה חישב תרתי מחשבות חדא על השחיטה לשמו וחדא על הזריקה שלא לשמו:",
+              "ref": "Rashi on Pesachim 60a:6:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ו:א",
+              "sourceRef": "Rashi on Pesachim 60a:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>לא, לעולם</b> אפשר להסביר שמדובר גם בסוף המשנה שחשב <b>בשתי עבודות,</b> ומהו ההבדל בין תחילת המשנה לסופה: <b>רישא</b> <span class=\"hebrew-emphasis\">[בתחילה]</span> מדובר <b>דקאי</b> <span class=\"hebrew-emphasis\">[שעומד]</span> בזמן עבודת <b>שחיטה וקא מחשב</b> <span class=\"hebrew-emphasis\">[ומחשב]</span> בה שתהא <b>שחיטה</b> שלא לשמה, <b>אי נמי</b> <span class=\"hebrew-emphasis\">[או גם כן]</span> <b>קאי</b> <span class=\"hebrew-emphasis\">[עומד]</span> בזמן <b>זריקה וקא מחשב</b> <span class=\"hebrew-emphasis\">[ומחשב]</span> בזמן עבודת ה<b>זריקה</b> שתהא שלא לשמה.",
+              "ref": "Steinsaltz on Pesachim 60a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:ו",
+              "sourceRef": "Steinsaltz on Pesachim 60a:6"
+            }
+          ]
+        }
+      },
+      "en": "This proof is refuted: <b>No, actually</b> it is possible to explain that even the latter clause of the mishna is referring to a case in which one has conflicting intentions <b>during two</b> different <b>rites, and</b> the difference between the first clause and the latter clause of the mishna is as follows: <b>The first clause</b> is referring to a case in which <b>one is standing at</b> the time of <b>the slaughter and thinking about slaughtering</b> the animal as a different offering; <b>alternatively, he is standing</b> at the time of the <b>sprinkling</b> of the blood <b>and thinking about sprinkling</b> for a different purpose.",
+      "he": "לָא, לְעוֹלָם בִּשְׁתֵּי עֲבוֹדוֹת, וְרֵישָׁא — דְּקָאֵי בִּשְׁחִיטָה וְקָא מְחַשֵּׁב בִּשְׁחִיטָה, אִי נָמֵי, קָאֵי בִּזְרִיקָה וְקָא מְחַשֵּׁב בִּזְרִיקָא.",
+      "ref": "Pesachim 60a:6"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If one slaughtered [a sacrificial animal] with the desired intent, but at the time of slaughter had the intent to cast its blood on the altar for a different purpose, it is disqualified, for the intent one has for one service during the performance of another service [is significant]. Thus the intent one had during the time of slaughter is considered as if it was in [the priest's] mind at the time he cast [the blood on the altar]. Therefore [the sacrifice] is disqualified.",
+              "he": "שְׁחָטָהּ לִשְׁמָהּ וְחִשֵּׁב בִּשְׁעַת הַשְּׁחִיטָה לִזְרֹק דָּמָהּ שֶׁלֹּא לִשְׁמָהּ הֲרֵי זוֹ פְּסוּלָה. לְפִי שֶׁמְּחַשְּׁבִין מֵעֲבוֹדָה לַעֲבוֹדָה. וְזֹאת הַמַּחְשָׁבָה שֶׁחִשֵּׁב בִּשְׁעַת הַשְּׁחִיטָה כְּאִלּוּ חִשְּׁבָהּ בִּשְׁעַת זְרִיקָה וּלְפִיכָךְ פְּסוּלָה:",
+              "ref": "Mishneh Torah, Sacrifices Rendered Unfit 15:10",
+              "sourceHeRef": "הלכות פסולי המוקדשין טו:י",
+              "sourceRef": "Sacrifices Rendered Unfit 15:10"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאמר הריני שוחט לשמו</strong> - על מנת לזרוק שלא לשמו והכא ליכא למימר תפוס לשון ראשון דהא אעבודה אחריתי קאי לשון שני וקא משמע לן מתני' דמחשבין מעבודה לעבודה כלומר דמחשב בשעת עבודה זו על חברתה לעשותה במחשבת פסול נפסל מיד ואפילו לא עשה השניה במחשבת פסול כמו שחיטה:",
+              "ref": "Rashi on Pesachim 60a:7:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ז:א",
+              "sourceRef": "Rashi on Pesachim 60a:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והיינו בעיא דרב פפא</strong> - דאמר מחשבים מעבודה לעבודה בשחיטת קדשים בפ\"ק <span class=\"parenthesized\">(ד' י)</span> דאמרינן התם מתקיף לה רב פפא דילמא הא קמ\"ל דמחשבין מעבודה לעבודה:",
+              "ref": "Rashi on Pesachim 60a:7:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ז:ב",
+              "sourceRef": "Rashi on Pesachim 60a:7:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואילו ב<b>סיפא</b> <span class=\"hebrew-emphasis\">[סופה]</span> של המשנה מדובר <b>דקאי</b> <span class=\"hebrew-emphasis\">[שעומד]</span> בזמן עבודת ה<b>שחיטה וקחשיב</b> <span class=\"hebrew-emphasis\">[ומחשב]</span> על ה<b>זריקה</b> שתהא שלא לשמה, כגון ש<b>אמר הריני שוחט את הפסח</b> מתוך כוונה שיהיה <b>לשמו,</b> אבל כוונתי <b>לזרוק</b> את <b>דמו שלא לשמו. וקמשמע לן</b> <span class=\"hebrew-emphasis\">[והשמיע לנו]</span> בכך חידוש בהלכה ש<b>מחשבין מעבודה לעבודה</b> כלומר, שאפשר לפסול קרבן אף על ידי מחשבה כזו, שבשעת עבודה אחת חושב לפסול עבודה אחרת, <b>והיינו בעיא</b> <span class=\"hebrew-emphasis\">[וזוהי השאלה]</span> ששאל <b>רב פפא</b> בזמנו: האם מחשבים מעבודה לעבודה.",
+              "ref": "Steinsaltz on Pesachim 60a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:ז",
+              "sourceRef": "Steinsaltz on Pesachim 60a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בעיה זו במחשב מעבודה לעבודה, מקומה הוא דווקא בפסול המיוחד הזה, כאשר חושב על הקרבן שלא לשמו. שהרי פסול זה מיוחד רק לקרבנות מסויימים (פסח וחטאת) בלבד. כי פסול המחשבה של פיגול ברור לנו שהוא פסול מעבודה לעבודה. ונראה, כי מחלוקת האמוראים ר' יוחנן וריש לקיש אם מחשבים מעבודה לעבודה, קשורה באמת בהשוואת דיני פסול שלא לשמו לפיגול (וראה בירושלמי).",
+              "ref": "Steinsaltz comment #1 on Pesachim 60a:7",
+              "sourceHeRef": "מחשב מעבודה לעבודה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> והיינו בעיא כו' היינו כגון שוחט לשמו. נ\"ב אין לפרש אבל בב' עבודות ממש אינו נפסל דודאי בכל אחד נפסל אפילו הוו אינך כולהו לשמו אלא אף בהכי קמנעי ליה אי אמרינן דר\"מ מודה בב' עבודות כה\"ג דהוי כעבודה אחת ודו\"ק <span class=\"parenthesized\">(עי' במהרש\"א)</span>:",
+                      "ref": "Chokhmat Shlomo on Pesachim 60a:4",
+                      "sourceHeRef": "חכמת שלמה על פסחים ס׳ א:ד",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 60a:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והיינו בעיא דרב פפא</strong> - <span class=\"rashi-quotation\">פי' הקונט'</span> דחוק דנקט רב פפא ולא נקט ר' יוחנן דאמר התם בהדיא מחשבין מעבודה לעבודה ונראה לריב\"א דגר' לעיל בעי רב פפא בעבודה אחת תנן ומסיק היינו בעיא דרב פפא פי' שפיר מתוקמא בעיא דרב פפא שאינו יכול לפושט' מן המשנה וכן מצא רבי בספר ישן וכן גר\"ח ורשב\"א מפרש והיינו בעיא דרב פפא מה ששאל בעבודה אחת תנן או בשתי עבודות הנך שתי עבודו' היינו כגון שוחט לשמו על מנת לזרוק שלא לשמו:",
+              "ref": "Tosafot on Pesachim 60a:7:1",
+              "sourceHeRef": "תוספות על פסחים ס׳ א:ז:א",
+              "sourceRef": "Tosafot on Pesachim 60a:7:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>The latter clause</b> of the mishna, on the other hand, is referring to a case in which <b>one is standing at</b> the time of <b>the slaughter and thinking about sprinkling</b> for a different purpose. For example, where <b>he said: I am hereby slaughtering the Paschal lamb for its own purpose,</b> but my intent is <b>to sprinkle its blood for a different purpose. And</b> the mishna <b>teaches us</b> a new <i>halakha</i>, <b>that one can intend from one rite to another rite,</b> meaning that one can disqualify an offering through an improper intention about an upcoming rite while performing an earlier rite. <b>And this was the question</b> raised <b>by <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span></b> on a different occasion. He asked if intent during one rite concerning the performance of a different rite can disqualify an offering.",
+      "he": "סֵיפָא — דְּקָאֵי בִּשְׁחִיטָה וְקָחָשֵׁיב בִּזְרִיקָה, דְּאָמַר: הֲרֵינִי שׁוֹחֵט אֶת הַפֶּסַח לִשְׁמוֹ לִזְרוֹק דָּמוֹ שֶׁלֹּא לִשְׁמוֹ. וְקָא מַשְׁמַע לַן דִּמְחַשְּׁבִין מֵעֲבוֹדָה לַעֲבוֹדָה, וְהַיְינוּ בַּעְיָא דְּרַב פָּפָּא.",
+      "ref": "Pesachim 60a:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">השתא לשמו ושלא לשמו</strong> - דעבודה ראשונה בכשרות אמרת פסול במחשבת עבודה שניה:",
+              "ref": "Rashi on Pesachim 60a:8:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ח:א",
+              "sourceRef": "Rashi on Pesachim 60a:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלא לשמו ולשמו מיבעיא</strong> - דכיון דנפסל בעבודה ראשונה מהיכן יחזור ויוכשר:",
+              "ref": "Rashi on Pesachim 60a:8:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ח:ב",
+              "sourceRef": "Rashi on Pesachim 60a:8:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כיון שלא נפתרה השאלה שלנו עדיין, יש צורך להביא ראיה אחרת; <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> שנינו במשנתנו: <b>או שלא לשמו ולשמו — פסול,</b> ונדקדק: <b>היכי דמי</b> <span class=\"hebrew-emphasis\">[כיצד</span> בדיוק <span class=\"hebrew-emphasis\">היה</span> הדבר<span class=\"hebrew-emphasis\">]</span> <b>אי נימא</b> <span class=\"hebrew-emphasis\">[אם נאמר]</span> שמדובר <b>בשתי עבודות, השתא</b> <span class=\"hebrew-emphasis\">[</span>הרי, <span class=\"hebrew-emphasis\">עכשיו]</span> <b>לשמו ושלא לשמו אמרת</b> כבר ש<b>פסול</b> הוא, <b>שלא לשמו ולשמו מיבעיא</b> <span class=\"hebrew-emphasis\">[נצרכה לומר]</span> שנפסל?! הרי ברור שנפסל מיד במחשבה ראשונה!",
+              "ref": "Steinsaltz on Pesachim 60a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:ח",
+              "sourceRef": "Steinsaltz on Pesachim 60a:8"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלא לשמו ולשמו מיבעיא</strong> - וא\"ת כי נמי אמרי' בעבודה אחת תיקשי ליה הכי השתא לשמו ושלא לשמו פסול שלא לשמו ולשמו מבעיא דאפי' ר' מאיר דפליג בלשמו ושלא לשמו בשלא לשמו ולשמו מודה דלכ\"ע תפוס לשון ראשון וי\"ל דאי בעבודה אחת מיירי קא משמע לן כמו שפירש בקונ' דלא אזלינן בתר לשון אחרון [דוקא] לאפוקי מבן ננס דאית ליה בפרק בית כור <span class=\"parenthesized\">(בבא בתרא ד' קה.)</span> תפוס לשון אחרון לגמרי לבטל הראשון ור\"י מפרש דבעבודה אחת אתי שפיר דתני שלא לשמו ולשמו אגב לשמו ושלא לשמו כיון דשניהם בעבודה אחת אבל בשתי עבודות דרישא הפסול בזריקה וסיפא הפסול בשחיטה לא דמו אהדדי ולית ליה למתניי' אגב רישא:",
+              "ref": "Tosafot on Pesachim 60a:8:1",
+              "sourceHeRef": "תוספות על פסחים ס׳ א:ח:א",
+              "sourceRef": "Tosafot on Pesachim 60a:8:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "Rabbi Shimon says, [if] the Passover offering [is offered] on the fourteenth [along with chametz (see Minchat Yitzchak)] for its purpose, he is liable because [the offering] is valid [to be sacrificed on Passover], and [if] not for its purpose, he is exempt because it is disqualified. And [a Passover offering] on the intermediate days of the Festival -- for its purpose, he is exempt, because it is disqualified, but for a different purpose, he is liable, because it is valid. <i>When does this apply?</i> When they are fit to be brought as a Passover offering, but if they are not fit to be brought as a Passover offering, whether [it is sacrificed] for its purpose or not for its purpose, he is liable, because it is valid. Said Rabbi Shimon, a Passover offering on the fourteenth in its purpose is valid, and not for its purpose is disqualified. On the intermediate days of the Festival -- for its purpose, it is disqualified, and not for its purpose, it is valid. <i>And when [else] does this apply?</i> When it is fit to bring as a Passover offering, but if it is not fit to bring as a Passover offering, whether for its purpose or not for its purpose, it is valid.",
+              "he": "ר\"ש אומר <כשר> הפסח בי\"ד לשמו חייב מפני שהוא כשר שלא לשמו פטור מפני שהוא פסול [ובמועד לשמו פטור מפני שהוא פסול שלא לשמו חייב מפני שהוא כשר] אימתי בזמן שהן ראויין לבא [פסח] אבל אין ראויין [לבא] פסח בין לשמו בין שלא לשמו [חייב מפני שהוא] כשר [אמר רבי שמעון פסח בארבעה עשר לשמו כשר שלא לשמו פסול בחולו של מועד לשמו פסול שלא לשמו כשר ואימתי בזמן שראוי להביא פסח אבל אין ראוי להביא פסח בין לשמו בין שלא לשמו כשר].",
+              "ref": "Tosefta Pesachim 4:5",
+              "sourceHeRef": "תוספתא פסחים ד:ה",
+              "sourceRef": "Tosefta Pesachim 4:5"
+            }
+          ]
+        }
+      },
+      "en": "Since our question has not been resolved, it is necessary to bring another proof: <b>Come</b> and <b>hear</b> that which is taught in the last clause of the mishna: <b>Or for a different purpose and for its own purpose,</b> the offering <b>is disqualified.</b> The Gemara analyzes this statement: <b>What</b> exactly <b>are the circumstances? If we say</b> that it speaks <b>about two rites,</b> there is a difficulty: <b>Now</b> that <b>you</b> have already <b>said that</b> if the priest first performed a rite while intending that the offering be <b>for its own purpose, and</b> then performed a rite with the intention that it be <b>for a different purpose,</b> the Paschal lamb <b>is disqualified, is it necessary to say</b> that it is disqualified when the priest first performed a rite while intending that the offering be <b>for a different purpose, and</b> then performed a rite with the intention that it be <b>for its own purpose?</b> It is obvious that the offering is disqualified immediately with the first expression of intent.",
+      "he": "תָּא שְׁמַע: אוֹ שֶׁלֹּא לִשְׁמוֹ וְלִשְׁמוֹ פָּסוּל. הֵיכִי דָּמֵי? אִי נֵימָא בִּשְׁתֵּי עֲבוֹדוֹת, הַשְׁתָּא לִשְׁמוֹ וְשֶׁלֹּא לִשְׁמוֹ אָמְרַתְּ פָּסוּל, שֶׁלֹּא לִשְׁמוֹ וְלִשְׁמוֹ מִיבַּעְיָא?!",
+      "ref": "Pesachim 60a:8"
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> ומדסיפא בעבודה א' רישא נמי כו' ר\"ל רישא דסיפא דהיינו המציעתא ואע\"ג דרישא דכולה מתניתין ע\"כ בשתי עבודות קמיירי מ\"מ כיון דהמציעתא לא מצי איירי בב' עבודות ממש דומיא דרישא <span class=\"parenthesized\">(דכולה)</span> אלא בחישב מעבודה לעבודה טפי ניחא לן למימר דהמציעתא איירי בעבודה א' ממש דומיא דסיפא דלאוכליו כו' וק\"ל:",
+              "ref": "Chidushei Halachot on Pesachim 60a:2",
+              "sourceHeRef": "חדושי הלכות על פסחים ס׳ א:ב",
+              "sourceRef": "Chidushei Halachot on Pesachim 60a:2"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>The Master said</b> above: The fact that the verse does not just say <b>“<i>zav</i>”</b> but rather the inclusive expression <b>“and any <i>zav</i>”</b> comes <b>to include a person who experienced a seminal emission.</b> The Gemara notes: This exposition <b>supports</b> the opinion of <b>Rabbi Yoḥanan, for Rabbi Yoḥanan said: The tunnels</b> under the Temple <b>were not sanctified</b> with the sanctity of the Temple; <b>and a person who experienced a seminal emission is sent outside the two camps</b> just like a <i>zav</i>. The exposition quoted above supports this second ruling of Rabbi Yoḥanan.",
+                  "The Gemara <b>raises an objection</b> based on what we learned in a mishna: The law governing <b>a person who experienced a seminal emission is like</b> the law governing someone who became ritually impure through <b>contact with a creeping animal. What, is</b> the intent <b>not</b> to compare them with regard to <b>their</b> respective <b>camps,</b> that one who experienced a seminal emission is prohibited from the same camps that are prohibited to one who touched a creeping animal? Thus, it follows that a person who experienced a seminal emission is permitted to enter the Levite camp. The Gemara answers: <b>No,</b> they are compared with regard to <b>their impurity,</b> in that each is impure only until the evening.",
+                  "The Gemara expresses surprise: Why did the mishna need to teach that they are comparable with regard to <b>their impurity? Impurity until evening is</b> explicitly <b>written</b> in the Torah <b>about this one,</b> meaning that one who came into contact with a creeping animal is impure until the evening and then must undergo ritual immersion in order to become pure, as it states: “And for these you shall be unclean; whoever touches the carcass of them shall be unclean until evening” (Leviticus 11:24). <b>And impurity until evening is</b> explicitly <b>written about that one,</b> one who experienced a seminal emission, as it states: “And if semen goes out from a man, then shall he bathe all his flesh in water and be unclean until evening” (Leviticus 15:16). <b>Rather, is it not</b> that they are compared with regard to <b>their camps,</b> which is not explicit in the Torah?",
+                  "The Gemara answers: <b>No, actually</b> it is possible to say that the comparison relates to <b>their impurity, and it teaches us that a person who experienced seminal emission is</b> governed by <b>the same</b> law <b>as</b> someone who became ritually impure through <b>contact with a creeping animal</b> in another regard: <b>Just as contact with a creeping animal imparts ritual impurity through an accident,</b> even when the contact is unintentional, <b>so too a person who experienced a seminal emission becomes ritually impure through an accident,</b> even when the emission of semen is unintentional, unlike the law governing a <i>zav</i>.",
+                  "The Gemara <b>raises an objection:</b>"
+                ],
+                [
+                  "We learned in the continuation of the previously cited mishna that the law governing <b>one who had relations with a menstruating woman is like</b> the law governing <b>one who is ritually impure due to a corpse. With regard to what</b> did they formulate this comparison? <b>If we say</b> they made the comparison with regard to <b>their impurity,</b> that they are both impure for seven days, <b>impurity for seven days is</b> explicitly <b>written about this one,</b> someone who had relations with a menstruating woman, <b>and impurity for seven days is</b> explicitly <b>written about that one,</b> someone who is impure due to a corpse, and so there would be no need for the mishna to inform us of these laws.",
+                  "<b>Rather, is it not</b> that they are compared with regard to <b>their camps,</b> to teach that one who had relations with a menstruating woman is sent out from the same camp as someone ritually impure due to a corpse? <b>And from the</b> fact that the comparison in <b>the latter clause</b> of the mishna relates to <b>their camps,</b> it stands to reason that the comparison in <b>the earlier clause</b> of that same mishna between one who experienced a seminal emission and one who became ritually impure through contact with a creeping animal <b>also</b> relates to <b>their camps,</b> and not as we explained it earlier. The Gemara rejects this argument: <b>Are</b> the cases <b>comparable? This</b> case is <b>as it is, and that</b> case is <b>as it is;</b> each part of the mishna formulates its own comparison.",
+                  "<b>The Gemara raises an objection</b> from that which was taught: The legal status of <b>a leper is more severe than a <i>zav</i> and</b> the legal status of <b>a <i>zav</i> is more severe than one who is ritually impure</b> with impurity imparted by <b>a corpse,</b> with regard to which camps they are prohibited to enter; <b>to the exclusion of a person who experienced a seminal emission, for</b> the legal status of <b>one who is ritually impure</b> with impurity imparted by <b>a corpse is more severe than his</b> status.",
+                  "The Gemara wishes to clarify this enigmatic statement: <b>What</b> is the meaning of the words, <b>to the exclusion</b> of a person who experienced a seminal emission? <b>Is</b> the intent <b>not</b> that <b>he is excluded from the category of a <i>zav</i> and enters the category of one who is ritually impure</b> with impurity imparted by <b>a corpse, for</b> the legal status of <b>one who is ritually impure</b> with impurity imparted <b>by a corpse is more severe than his</b> status, as his impurity lasts for seven days, <b>and</b> nonetheless <b>he is permitted in the Levite camp.</b> We should therefore learn from here that someone who experienced a seminal emission is also permitted in the Levite camp.",
+                  "The Gemara rejects this proof: <b>No,</b> the intent is that one who experienced a seminal emission is <b>excluded from the camp of one who is ritually impure</b> with impurity imparted by <b>a corpse, and he enters the camp of a <i>zav</i>,</b> meaning that he is excluded from the Levite camp, just like a <i>zav</i>. <b>And although</b> the legal status of <b>one who is ritually impure</b> with impurity imparted by <b>a corpse is more severe than his</b> status <b>and</b> he <b>is permitted in the Levite camp,</b> and so it would seem that one who experienced a seminal emission should similarly be permitted, nonetheless, <b>we compare him to that to which he is similar.</b> The ritual impurity of one who experienced a seminal emission is fundamentally similar to that of a <i>zav</i>, and different from that of one who is ritually impure due to a corpse.",
+                  "<b>A <i>tanna</i> taught</b> a <i>baraita</i> <b>before Rav Yitzḥak bar Avdimi:</b> “If there be among you a man that is impure by reason of a nocturnal occurrence, he shall go outside the camp, he shall not come within the camp” (Deuteronomy 23:11). This verse may be expounded as follows: <b>“He shall go outside the camp,” this is the camp of the Divine Presence. “He shall not come within the camp,” this is the Levite camp. From here</b> we derive that <b>a person who experienced a seminal emission must go out from two camps.</b>",
+                  "Rav Yitzḥak <b>said to</b> the <i>tanna</i>: Something is amiss in the wording of this <i>baraita</i>: <b>You have not yet brought him in</b> and <b>you</b> already <b>send him out?</b> In other words, in order to say that the words “he shall not come within the camp” teach that a person who experienced a seminal emission must leave the Levite camp, you must first prove that he was there to begin with. <b>Another version,</b> which differs from the previous one only in formulation but not in substance: <b>You have not yet sent him out</b> and <b>you</b> already <b>bring him in?</b> In other words, how can you say that the words “he shall not come within the camp” refer to the Levite camp if we have not yet learned that he must leave that camp in the first place? <b>Rather,</b> emend the <i>baraita</i> and <b>say</b> that it reads as follows: <b>“Outside the camp,” this is the Levite camp. “He shall not come within the camp,” this is the camp of the Divine Presence.</b>",
+                  "<b>Ravina strongly objects to</b> this exposition of the verse: <b>Say</b> that both <b>this and that</b> refer <b>to the camp of the Divine Presence,</b> that he must leave the camp of the Divine Presence and may not enter it; and the repetition comes to teach <b>that he violates a positive</b> command to leave the camp <b>and a negative</b> command barring entry into the camp. The Gemara answers: <b>If so, let the verse say</b> only: <b>“He shall go outside the camp, he shall not come within,”</b> or “within it.” <b>Why do I</b> need the repetition of the word <b>“the camp”? Conclude from this</b> that it is <b>to give him a different camp;</b> it refers not to the same camp that he left but rather to a different one."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Pesachim 67b:9",
+                "Pesachim 67b:10",
+                "Pesachim 67b:11",
+                "Pesachim 67b:12",
+                "Pesachim 67b:13",
+                "Pesachim 68a:1",
+                "Pesachim 68a:2",
+                "Pesachim 68a:3",
+                "Pesachim 68a:4",
+                "Pesachim 68a:5",
+                "Pesachim 68a:6",
+                "Pesachim 68a:7",
+                "Pesachim 68a:8"
+              ],
+              "he": [
+                [
+                  "אָמַר מָר: ״זָב״, ״וְכׇל זָב״ — לְרַבּוֹת בַּעַל קֶרִי. מְסַיַּיע לֵיהּ לְרַבִּי יוֹחָנָן. דְּאָמַר רַבִּי יוֹחָנָן: מְחִילּוֹת לֹא נִתְקַדְּשׁוּ, וּבַעַל קֶרִי מִשְׁתַּלֵּחַ חוּץ לִשְׁתֵּי מַחֲנוֹת.",
+                  "מֵיתִיבִי: בַּעַל קֶרִי כְּמַגַּע שֶׁרֶץ, מַאי לָאו לְמַחֲנוֹתָם? לֹא, לְטוּמְאָתָם.",
+                  "לְטוּמְאָתָם?! הַאי טוּמְאַת עֶרֶב כְּתִיב בֵּיהּ, וְהַאי טוּמְאַת עֶרֶב כְּתִיב בֵּיהּ! אֶלָּא לָאו, לְמַחֲנוֹתָם!",
+                  "לָא, לְעוֹלָם לְטוּמְאָתָם, וְהָא קָמַשְׁמַע לַן דְּבַעַל קֶרִי כְּמַגַּע שֶׁרֶץ: מָה מַגַּע שֶׁרֶץ מְטַמֵּא בְּאוֹנֶס — אַף בַּעַל קֶרִי מְטַמֵּא בְּאוֹנֶס.",
+                  "מֵיתִיבִי:"
+                ],
+                [
+                  "בּוֹעֵל נִדָּה כִּטְמֵא מֵת. לְמַאי? אִילֵימָא לְטוּמְאָתָם, הַאי טוּמְאַת שִׁבְעָה כְּתִיב בֵּיהּ, וְהַאי טוּמְאַת שִׁבְעָה כְּתִיב בֵּיהּ.",
+                  "אֶלָּא לָאו, לְמַחֲנוֹתָם. וּמִדְּסֵיפָא לְמַחֲנוֹתָם הָוֵי — רֵישָׁא נָמֵי לְמַחֲנוֹתָם! מִידֵּי אִירְיָא?! הָא כִּדְאִיתָא וְהָא כִּדְאִיתָא.",
+                  "מֵיתִיבִי: מְצוֹרָע חָמוּר מִזָּב, וְזָב חָמוּר מִטְּמֵא מֵת, יָצָא בַּעַל קֶרִי שֶׁטְּמֵא מֵת חָמוּר מִמֶּנּוּ.",
+                  "מַאי יָצָא? לָאו: יָצָא מִכְּלַל זָב וּבָא לִכְלַל טְמֵא מֵת, דְּהָא טְמֵא מֵת חָמוּר מִמֶּנּוּ — וּמוּתָּר בְּמַחֲנֵה לְוִיָּה!",
+                  "לֹא, יָצָא מִמַּחֲנֵה טְמֵא מֵת וְנִכְנַס לְמַחֲנֵה זָב, וְאַף עַל גַּב דִּטְמֵא מֵת חָמוּר מִמֶּנּוּ <span class=\"parenthesized\">(דְּמוּתָּר)</span> בְּמַחֲנֵה לְוִיָּה — לְמַאי דְּדָמֵי לֵיהּ מְדַמֵּינַן לֵיהּ.",
+                  "תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב יִצְחָק בַּר אַבְדִּימִי: ״וְיָצָא אֶל מִחוּץ לַמַּחֲנֶה״ — זוֹ מַחֲנֵה שְׁכִינָה. ״לֹא יָבֹא אֶל תּוֹךְ הַמַּחֲנֶה״ — זוֹ מַחֲנֵה לְוִיָּה. מִכָּאן לְבַעַל קֶרִי שֶׁיֵּצֵא חוּץ לִשְׁתֵּי מַחֲנוֹת.",
+                  "אֲמַר לֵיהּ: אַכַּתִּי לָא עַיֵּילְתֵּיהּ, אַפֵּיקְתֵּיהּ. לִישָּׁנָא אַחֲרִינָא: אַכַּתִּי לָא אַפֵּיקְתֵּיהּ, עַיֵּילְתֵּיהּ. אֶלָּא אֵימָא: ״מִחוּץ לַמַּחֲנֶה״ — זוֹ מַחֲנֵה לְוִיָּה. ״לָא יָבֹא אֶל תּוֹךְ הַמַּחֲנֶה״ — זוֹ מַחֲנֵה שְׁכִינָה.",
+                  "מַתְקֵיף לַהּ רָבִינָא: אֵימָא אִידֵּי וְאִידֵּי לְמַחֲנֵה שְׁכִינָה, וְלַעֲבוֹר עָלָיו בַּעֲשֵׂה וְלֹא תַעֲשֶׂה! אִם כֵּן, לֵימָא קְרָא: ״וְיָצָא אֶל מִחוּץ לַמַּחֲנֶה וְלֹא יָבֹא אֶל תּוֹךְ״, ״הַמַּחֲנֶה״ לְמָה לִי? שְׁמַע מִינַּהּ לִיתֵּן לוֹ מַחֲנֶה אַחֶרֶת."
+                ]
+              ],
+              "link": "/Pesachim/68a",
+              "originalRefsBeforeRewriting": [
+                "Pesachim 68a:2"
+              ],
+              "ref": "Pesachim 67b:9-68a:8",
+              "sourceHeRef": "פסחים ס״ח א",
+              "sourceRef": "Pesachim 68a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לאו בעבודה אחת</strong> - ותנא לשמו ושלא לשמו לאפוקי מדרבי מאיר דאמר תפוס לשון ראשון ותנא שלא לשמו ולשמו דלא תימא תפוס לשון אחרון דהא הדר ביה מקמא וכי שחיט אהאי בתרא קא שחיט קמ\"ל דר' יוסי הוא דאמר בכל דבריו אדם נתפס ולא הדר ביה אלא אתרוייהו איכוין:",
+              "ref": "Rashi on Pesachim 60a:9:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ט:א",
+              "sourceRef": "Rashi on Pesachim 60a:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומדסיפא</strong> - שלא לשמו ולשמו בעבודה אחת קאמר דבשתי עבודות לא איצטריך:",
+              "ref": "Rashi on Pesachim 60a:9:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ט:ב",
+              "sourceRef": "Rashi on Pesachim 60a:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רישא</strong> - דלשמו ושלא לשמו נמי אף בעבודה אחת ור' יוסי היא:",
+              "ref": "Rashi on Pesachim 60a:9:3",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:ט:ג",
+              "sourceRef": "Rashi on Pesachim 60a:9:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא לאו</b> <span class=\"hebrew-emphasis\">[האם לא]</span> מדובר כאן שחשב את שתי המחשבות <b>בעבודה אחת, ומדסיפא</b> <span class=\"hebrew-emphasis\">[ומ</span>כיון <span class=\"hebrew-emphasis\">שסופה</span> של המשנה<span class=\"hebrew-emphasis\">]</span> מדברת <b>בעבודה אחת רישא נמי</b> <span class=\"hebrew-emphasis\">[תחילתה</span> של המשנה <span class=\"hebrew-emphasis\">גם כן]</span> <b>בעבודה אחת</b> ומשנתנו כר' יוסי!",
+              "ref": "Steinsaltz on Pesachim 60a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:ט",
+              "sourceRef": "Steinsaltz on Pesachim 60a:9"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, isn’t</b> the mishna addressing a case in which the priest has two intentions <b>during one rite? And since the last clause</b> of the mishna talks <b>about one rite, the earlier clause</b> of the mishna must <b>also</b> speak <b>about one rite,</b> and the mishna is according to <span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span>.",
+      "he": "אֶלָּא לָאו, בַּעֲבוֹדָה אַחַת. וּמִדְּסֵיפָא בַּעֲבוֹדָה אַחַת — רֵישָׁא נָמֵי בַּעֲבוֹדָה אַחַת!",
+      "ref": "Pesachim 60a:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לעולם בשתי עבודות</strong> - ודקשיא לך פשיטא הא איפסיל ליה מעבודה קמייתא:",
+              "ref": "Rashi on Pesachim 60a:10:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:י:א",
+              "sourceRef": "Rashi on Pesachim 60a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איידי דתנא לשמו ושלא לשמו</strong> - לאשמעינן דמחשבין מעבודה לעבודה כדלעיל תנא נמי שלא לשמו ולשמו:",
+              "ref": "Rashi on Pesachim 60a:10:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:י:ב",
+              "sourceRef": "Rashi on Pesachim 60a:10:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>לא, לעולם</b> אפשר לפרש שמדובר <b>בשתי עבודות, ובדין הוא דלא איצטריך</b> <span class=\"hebrew-emphasis\">[שלא היה צריך לו]</span> לפרש דבר זה, ואפשר היה ללמדו מקל וחומר מן ההתחלה, אולם דבר זה הוא דבר שבסגנון ולא לצורך, ונשנה בגלל גרר הלשון <b>ואיידי דתנא</b> <span class=\"hebrew-emphasis\">[ומתוך ששנה]</span> <b>לשמו ושלא לשמו, תנא נמי</b> <span class=\"hebrew-emphasis\">[שנה גם כן]</span> <b>שלא לשמו ולשמו.</b>",
+              "ref": "Steinsaltz on Pesachim 60a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:י",
+              "sourceRef": "Steinsaltz on Pesachim 60a:10"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara refutes this proof: <b>No, actually</b> it is possible to explain that the last clause speaks <b>about two rites, and by right it was not necessary</b> to include this case, as it could have been inferred from the previous case. It was included for stylistic considerations: <b>Since</b> the mishna <b>taught</b> the case in which the rites are performed <b>for its own purpose and for a different purpose, it also taught</b> the case in which the rites are performed <b>for a different purpose and for its own purpose.</b>",
+      "he": "לָא, לְעוֹלָם בִּשְׁתֵּי עֲבוֹדוֹת, וּבְדִין הוּא דְּלָא אִיצְטְרִיךְ לֵיהּ, וְאַיְּידֵי דִּתְנָא לִשְׁמוֹ וְשֶׁלֹּא לִשְׁמוֹ, תְּנָא נָמֵי שֶׁלֹּא לִשְׁמוֹ וְלִשְׁמוֹ.",
+      "ref": "Pesachim 60a:10"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלא לאוכליו</strong> - לחולה ולזקן שאין יכולין לאכול כזית ואין בו מנויין אחרים אלא הן:",
+              "ref": "Rashi on Pesachim 60a:11:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יא:א",
+              "sourceRef": "Rashi on Pesachim 60a:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פסול</strong> - דאיש לפי אכלו כתיב <span class=\"parenthesized\">(שמות י״ב:ד׳)</span> הראוי לאכול:",
+              "ref": "Rashi on Pesachim 60a:11:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יא:ב",
+              "sourceRef": "Rashi on Pesachim 60a:11:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלא למנוייו</strong> - נימנו עליו חבורה זו ושחטה לשם חבורה אחרת:",
+              "ref": "Rashi on Pesachim 60a:11:3",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יא:ג",
+              "sourceRef": "Rashi on Pesachim 60a:11:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לערלים</strong> - ישראל שמתו אחיו מחמת מילה והן פסולין מלאכול פסח דכתיב כל ערל לא יאכל בו <span class=\"parenthesized\">(שם)</span>:",
+              "ref": "Rashi on Pesachim 60a:11:4",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יא:ד",
+              "sourceRef": "Rashi on Pesachim 60a:11:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">טמאים</strong> - נמי אסורים בקדשים ובכרת הן על אכילתן:",
+              "ref": "Rashi on Pesachim 60a:11:5",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יא:ה",
+              "sourceRef": "Rashi on Pesachim 60a:11:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכא פשיטא בעבודה אחת קאי</strong> - דהא חדא מחשבה הוא דאיכא:",
+              "ref": "Rashi on Pesachim 60a:11:6",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יא:ו",
+              "sourceRef": "Rashi on Pesachim 60a:11:6"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רישא נמי בעבודה אחת</strong> - כלומר אפילו בעבודה אחת ודלא כר' מאיר:",
+              "ref": "Rashi on Pesachim 60a:11:7",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יא:ז",
+              "sourceRef": "Rashi on Pesachim 60a:11:7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושוב מנסים להביא ראיה <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> מה ששנינו במשנה אחרת: <b>שחטו</b> את הפסח <b>שלא לאוכליו</b> לצורך אנשים שאינם מסוגלים מבחינה גופנית לאכול אותו, או <b>שלא למנוייו</b> לאלה שלא נמנו מתחילה על קרבן מסוים זה, או <b>לערלים ולטמאין</b> שנאמר בתורה שאסור להם לאכול מקרבן הפסח — <b>פסול. הכא פשיטא</b> <span class=\"hebrew-emphasis\">[כאן פשוט]</span> שמדובר שחשב מחשבה זו <b>בעבודה אחת</b> והיא עבודת השחיטה כמפורש, <b>ומדסיפא</b> <span class=\"hebrew-emphasis\">[ומ</span>כיון <span class=\"hebrew-emphasis\">שהסוף]</span> שהיא המשנה הבאה, מדברת <b>בעבודה אחת — רישא נמי</b> <span class=\"hebrew-emphasis\">[ההתחלה,</span> משנתנו, <span class=\"hebrew-emphasis\">גם כן]</span> מדברת אפילו <b>בעבודה אחת</b> שלא כר' מאיר!",
+              "ref": "Steinsaltz on Pesachim 60a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:יא",
+              "sourceRef": "Steinsaltz on Pesachim 60a:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If the Paschal lamb is slaughtered for people who cannot eat it or for people who did not register for it, it is disqualified. If it is slaughtered for people who cannot eat it as well as for people who can eat it, or for people who did not register for it and also for people who did register for it, it is valid, in accordance with the mishna (Rambam <i>Sefer Korbanot</i>,<i> Hilkhot Korban Pesaĥ </i>2:5).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Pesachim 60a:11",
+              "sourceHeRef": "שְׁחָטוֹ שֶׁלֹּא לְאוֹכְלָיו",
+              "sourceRef": "If one slaughtered the Paschal lamb for people who cannot eat it"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שחטו שלא לאוכליו</strong> - פי' רש\"י לחולה ולזקן ואין מנויין עליו אלא הן וקשה אם כן מאי איריא שלא לאוכליו אפי' סתם נמי פסול כיון שאין לו אוכלין ונראה דמיירי דיש נמי מנויים אחרים:",
+              "ref": "Tosafot on Pesachim 60a:11:1",
+              "sourceHeRef": "תוספות על פסחים ס׳ א:יא:א",
+              "sourceRef": "Tosafot on Pesachim 60a:11:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But if the household is too small for a lamb, let him share one with a neighbor who dwells nearby, in proportion to the number of persons: you shall contribute for the lamb according to what each household will eat.",
+              "he": "וְאִם־יִמְעַ֣ט הַבַּ֘יִת֮ מִהְי֣וֹת מִשֶּׂה֒ וְלָקַ֣ח ה֗וּא וּשְׁכֵנ֛וֹ הַקָּרֹ֥ב אֶל־בֵּית֖וֹ בְּמִכְסַ֣ת נְפָשֹׁ֑ת אִ֚ישׁ לְפִ֣י אׇכְל֔וֹ תָּכֹ֖סּוּ עַל־הַשֶּֽׂה׃",
+              "link": "/Exodus/12",
+              "ref": "Exodus 12:4",
+              "sourceHeRef": "שמות יב:ד",
+              "sourceRef": "Exodus 12:4"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara again attempts to bring a proof: <b>Come</b> and <b>hear</b> that which is taught in a different mishna: <b>If</b> one <b>slaughtered</b> the Paschal lamb with the intent that it be <b>for</b> those <b>who cannot eat it,</b> i.e., for people who physically cannot consume it; or <b>for</b> those who were <b>not registered for it,</b> i.e., for people who did not register in advance for this particular offering; or <b>for uncircumcised or ritually impure</b> people, whom the Torah forbids from consuming the Paschal lamb, <b>it is disqualified. Here,</b> in the mishna cited, <b>it is obvious</b> that one had this intent <b>during one rite,</b> as the mishna explicitly states that he had this intent during the slaughtering. <b>And since the latter clause,</b> which is the next mishna, speaks <b>about one rite, the first clause,</b> which is the current mishna, must <b>also</b> speak <b>about one rite,</b> and it is not in accordance with the opinion of <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>.",
+      "he": "תָּא שְׁמַע: שְׁחָטוֹ שֶׁלֹּא לְאוֹכְלָיו, וְשֶׁלֹּא לִמְנוּיָו, לַעֲרֵלִים וְלִטְמֵאִין — פָּסוּל. הָכָא פְּשִׁיטָא בַּעֲבוֹדָה אַחַת, וּמִדְּסֵיפָא בַּעֲבוֹדָה אַחַת — רֵישָׁא נָמֵי בָּעֲבוֹדָה אַחַת!",
+      "ref": "Pesachim 60a:11"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>GEMARA:</strong> With regard to the disagreement between Rabbi Yehuda and the Rabbis concerning a case where one has intent with regard to both time and area, <b>Ilfa says:</b> There is <b>a disagreement</b> only <b>with regard to two</b> sacrificial <b>rites,</b> i.e., where each intent was held during a different rite, <b>but</b> if both were held <b>in</b> the course of <b>one rite, all agree</b> that <b>it constitutes a combination of intentions,</b> and the offering is not rendered <i>piggul</i>. <b>And Rabbi Yoḥanan says: Even</b> if the intentions were both held <b>in</b> the course of <b>one rite,</b> there is still <b>a disagreement.</b>",
+                  "The Gemara asks: <b>Granted,</b> the mishna is understandable <b>according to Ilfa, since the first clause</b> of the mishna: If one slaughtered the animal in silence with no specific intent and collected…beyond its designated time, etc., is referring to different intentions held <b>in</b> the course of <b>two</b> sacrificial <b>rites,</b> one can assume that <b>the latter clause</b> is referring <b>to two rites as well. But according to Rabbi Yoḥanan,</b> could it be that <b>the first clause</b> is referring <b>to two rites, and the latter clause</b> is referring <b>to</b> only <b>one rite?</b>"
+                ],
+                [
+                  "The Gemara responds: <b>Yes,</b> it can be explained that <b>the first clause</b> is referring <b>to two</b> sacrificial <b>rites,</b> while <b>the latter clause,</b> i.e., the disagreement between Rabbi Yehuda and the Rabbis, applies <b>to both one rite and two rites.</b>",
+                  "The Gemara suggests a proof: <b>We learned</b> in the mishna: <b>Rabbi Yehuda says</b> that <b>this is the principle: If the intent</b> with regard to <b>the time preceded the intent</b> with regard to <b>the area,</b> the offering is <b><i>piggul</i> and one is liable</b> to receive <b><i>karet</i> for</b> burning or partaking of <b>it. Granted, according to Rabbi Yoḥanan,</b> who says that the disagreement applies even to one rite, <b>this</b> is the reason <b>that</b> the <i>tanna</i> <b>teaches: This is the principle,</b> indicating that the principle is broad. <b>But according to Ilfa, what</b> is added by the phrase: <b>This is the principle?</b> The Gemara responds: This indeed poses <b>a difficulty</b> to the opinion of Ilfa."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Zevachim 29b:16",
+                "Zevachim 29b:17",
+                "Zevachim 30a:1",
+                "Zevachim 30a:2"
+              ],
+              "he": [
+                [
+                  "<big><strong>גמ׳</strong></big> אמר אילפא מחלוקת בשתי עבודות אבל בעבודה אחת דברי הכל עירוב מחשבות הוי ורבי יוחנן אמר אף בעבודה אחת מחלוקת",
+                  "בשלמא לאילפא מדרישא בשתי עבודות סיפא נמי בשתי עבודות אלא לרבי יוחנן רישא בשתי עבודות וסיפא בעבודה אחת"
+                ],
+                [
+                  "אין רישא בשתי עבודות סיפא בין בעבודה אחת בין בשתי עבודות:",
+                  "תנן אמר רבי יהודה זה הכלל אם מחשבת הזמן קדמה למחשבת המקום פיגול וחייבין עליו כרת בשלמא לרבי יוחנן היינו דקתני זה הכלל אלא לאילפא מאי זה הכלל קשיא:"
+                ]
+              ],
+              "link": "/Zevachim/29b",
+              "originalRefsBeforeRewriting": [
+                "Zevachim 29b:17",
+                "Zevachim 30a:1"
+              ],
+              "ref": "Zevachim 29b:16-30a:2",
+              "sourceHeRef": "זבחים כ״ט ב",
+              "sourceRef": "Zevachim 29b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מידי איריא</strong> - וכי ראיה היא זו:",
+              "ref": "Rashi on Pesachim 60a:12:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יב:א",
+              "sourceRef": "Rashi on Pesachim 60a:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סיפא</strong> - דבמחשבה אחת מיירי ליכא לאוקומה אלא בעבודה אחת:",
+              "ref": "Rashi on Pesachim 60a:12:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יב:ב",
+              "sourceRef": "Rashi on Pesachim 60a:12:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רישא</strong> - דמיירי בשתי מחשבות איכא לאוקומא אי אף בעבודה אחת ודלא כר' מאיר:",
+              "ref": "Rashi on Pesachim 60a:12:3",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יב:ג",
+              "sourceRef": "Rashi on Pesachim 60a:12:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי בשתי עבודות</strong> - ולא בעבודה אחת ור' מאיר:",
+              "ref": "Rashi on Pesachim 60a:12:4",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יב:ד",
+              "sourceRef": "Rashi on Pesachim 60a:12:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>מידי איריא</b> <span class=\"hebrew-emphasis\">[וכי שייך]</span> וכי בהכרח הדברים צמודים וזהים?! <b>הא כדאיתא והא כדאיתא</b> <span class=\"hebrew-emphasis\">[זו כפי שהיא וזו כפי שהיא]</span> <b>סיפא</b> <span class=\"hebrew-emphasis\">[הסוף]</span> המשנה הבאה — מדברת <b>בעבודה אחת, ורישא</b> <span class=\"hebrew-emphasis\">[ההתחלה]</span> משנתנו <b>אי</b> <span class=\"hebrew-emphasis\">[או]</span> מדברת <b>בעבודה אחת</b> ושלא כר' מאיר, <b>אי</b> <span class=\"hebrew-emphasis\">[או]</span> מדברת <b>בשתי עבודות,</b> וכר' מאיר.",
+              "ref": "Steinsaltz on Pesachim 60a:12",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:יב",
+              "sourceRef": "Steinsaltz on Pesachim 60a:12"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara refutes this proof. <b>Are</b> the two cases <b>comparable?</b> Need they be exactly parallel? Perhaps <b>this</b> case is <b>as it is, and that</b> case is <b>as it is. The latter clause,</b> the next mishna, speaks <b>about one rite,</b> whereas <b>the first clause,</b> the current mishna, speaks <b>either about one rite</b> and is not according to <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> <b>or about two rites</b> and is even according to <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>.",
+      "he": "מִידֵּי אִירְיָא?! הָא כִּדְאִיתָא וְהָא כִּדְאִיתָא: סֵיפָא — בַּעֲבוֹדָה אַחַת, רֵישָׁא — אִי בַּעֲבוֹדָה אַחַת, אִי בִּשְׁתֵּי עֲבוֹדוֹת.",
+      "ref": "Pesachim 60a:12"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לאוכליו ושלא לאוכליו</strong> - כדמפרש ואזיל:",
+              "ref": "Rashi on Pesachim 60a:13:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יג:א",
+              "sourceRef": "Rashi on Pesachim 60a:13:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">היכי דמי אי נימא בשתי עבודות</strong> - שחטו לאוכליו ע\"מ לזרוק שלא לאוכליו ואשמעי' דכשר:",
+              "ref": "Rashi on Pesachim 60a:13:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יג:ב",
+              "sourceRef": "Rashi on Pesachim 60a:13:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וטעמא מאי משום דאין מחשבת אוכלין</strong> - אין מחשבת פסול האוכלין כגון חולה וזקן פוסלת בזריקה דבשחיטה הוא דכתיבי אוכלין לפי אכלו תכוסו והיינו תשחוט כדמתרגמי' ושחט ויכוס:",
+              "ref": "Rashi on Pesachim 60a:13:3",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יג:ג",
+              "sourceRef": "Rashi on Pesachim 60a:13:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושוב מציעים; <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> פתרון ממה ששנינו באותה משנה: שאם שחט <b>לאוכליו ושלא לאוכליו — כשר.</b> ויש לברר: <b>היכי דמי</b> <span class=\"hebrew-emphasis\">[כיצד</span> בדיוק <span class=\"hebrew-emphasis\">היה הדבר]?</span> <b>אי נימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> שחישב <b>בשתי עבודות</b> ששחטו לאוכליו על מנת לזרוק שלא לאוכליו, <b>וטעמא</b> <span class=\"hebrew-emphasis\">[והטעם]</span> שכשר, דווקא מפני <b>דחשיב</b> <span class=\"hebrew-emphasis\">[שחשב]</span> מחשבת פסול בשעת עבודה אחרת כגון <b>בזריקה,</b> ומדוע — לפי ש<b>אין מחשבת אוכלין בזריקה</b> שהמחשבה להאכיל את הפסח למי שאינו ראוי אינה פוסלת בשעת זריקה אלא בשעת שחיטה בלבד.",
+              "ref": "Steinsaltz on Pesachim 60a:13",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:יג",
+              "sourceRef": "Steinsaltz on Pesachim 60a:13"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> אי בב' עבודות כו' וי\"ל דסברא הוא דבב' עבודות אינו מועיל מפרש כו' עכ\"ל היינו בב' עבודות אבל בעבודה אחת ודאי דמועיל מפרש יותר מסתם לר\"מ דשלא לשמו גרידא מפיק ליה מסתמא דלשמו קאי ולא מפיק ליה מידי לשמו כמ\"ש התוס' לקמן:",
+                      "ref": "Chidushei Halachot on Pesachim 60a:5",
+                      "sourceHeRef": "חדושי הלכות על פסחים ס׳ א:ה",
+                      "sourceRef": "Chidushei Halachot on Pesachim 60a:5"
+                    }
+                  ]
+                },
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> אילימא כו' שיתכפרו בו ערלים כשר. נ\"ב פירוש בזריקה ומשום דס\"ל דאין מחשבת אוכלין בזריקה מש\"ה קיל נמי שאפילו חשב הזריקה לכולה ערלים שאינו פסול ע\"ש:",
+                      "ref": "Chokhmat Shlomo on Pesachim 60a:5",
+                      "sourceHeRef": "חכמת שלמה על פסחים ס׳ א:ה",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 60a:5"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אילימא בב' עבודות טעמא דחשיב בזריקה</strong> - נראה לר\"י דהכא איירי אליבא דרבה דאמר לקמן <span class=\"parenthesized\">(פסחים ד' סא:)</span> שחטו למולין על מנת שיתכפרו בו ערלים כשר דלרב חסדא דאמר פסול לא מצי מיירי בשתי עבודות מיהו לקמן משמע במסקנא דאף לרבה פסול:",
+              "ref": "Tosafot on Pesachim 60a:13:1",
+              "sourceHeRef": "תוספות על פסחים ס׳ א:יג:א",
+              "sourceRef": "Tosafot on Pesachim 60a:13:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara further proposes: <b>Come</b> and <b>hear</b> a solution based on what was taught later in that other mishna: If one slaughtered the Paschal lamb with the intent that it be <b>for those who can eat it and for those who cannot eat it, it is valid.</b> This ruling must be clarified: <b>What</b> exactly <b>are the circumstances? If we say</b> that one had two intentions <b>during two</b> different <b>rites,</b> e.g., he slaughtered it for those who can eat it and sprinkled the blood for those who cannot eat it, <b>then the reason</b> that the sacrifice is valid <b>is that he had the</b> disqualifying <b>intention at</b> the time of the <b>sprinkling,</b> which does not invalidate the offering <b>because there is no intent concerning those who can eat it during the sprinkling.</b> That is, intent to feed the Paschal lamb to those who are unable to eat it invalidates the offering only during the slaughter but not during the sprinkling.",
+      "he": "תָּא שְׁמַע: לְאוֹכְלָיו וְשֶׁלֹּא לְאוֹכְלָיו — כָּשֵׁר. הֵיכִי דָּמֵי? אִי נֵימָא בִּשְׁתֵּי עֲבוֹדוֹת, וְטַעְמָא דְּחַשֵּׁיב בִּזְרִיקָה, דְּאֵין מַחְשְׁבֶת אוֹכְלִין בִּזְרִיקָה —",
+      "ref": "Pesachim 60a:13"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג בעבודה אחת כגון בשחיטה דמהני' בה מחשבת אוכלין פסול</strong> - ואפי' כה\"ג דאמר לאוכליו ושלא לאוכליו:",
+              "ref": "Rashi on Pesachim 60a:14:1",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יד:א",
+              "sourceRef": "Rashi on Pesachim 60a:14:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא קיימא לן</strong> - לקמן <span class=\"parenthesized\">(פסחים דף סא.)</span>:",
+              "ref": "Rashi on Pesachim 60a:14:2",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יד:ב",
+              "sourceRef": "Rashi on Pesachim 60a:14:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מקצת אוכלין</strong> - כגון הכא דנימנו בו ראויין לאכול ושחטו לשם כולן כשר דהא כולה שחיטה נמי משום אוכלין צריכה דאי אפשר לכזית בשר בלא שחיטה ולקמן מפרש מאי שנא דלשמו ושלא לשמו פסול ולאוכליו ושלא לאוכליו כשר:",
+              "ref": "Rashi on Pesachim 60a:14:3",
+              "sourceHeRef": "רש\"י על פסחים ס׳ א:יד:ג",
+              "sourceRef": "Rashi on Pesachim 60a:14:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הא</b> <span class=\"hebrew-emphasis\">[הרי]</span> מכאן נסיק כי <b>בעבודה אחת כגון בשחיטה דמהניא ביה</b> <span class=\"hebrew-emphasis\">[שמועילה בה]</span> <b>מחשבת אוכלין</b> יהא <b>פסול, והא קיימא לן</b> <span class=\"hebrew-emphasis\">[והרי מוחזק בידינו]</span> ש<b>מקצת אוכלין לא פסלא,</b> שאם רק מקצת מאוכלי הפסח פסולים מלאוכלו כמו במקרה זה אינו נפסל על ידי כך!",
+              "ref": "Steinsaltz on Pesachim 60a:14",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס׳ א:יד",
+              "sourceRef": "Steinsaltz on Pesachim 60a:14"
+            }
+          ]
+        }
+      },
+      "en": "<b>But</b> if one had both intentions <b>during one rite, such as the slaughter, during which intent with regard to those who will eat</b> the offering <b>is effective,</b> the sacrifice <b>is disqualified.</b> However, this conclusion is difficult, <b>for we maintain that</b> if only <b>some of those who are to eat</b> the Paschal lamb are unable to do so, such as in this case, the offering is <b>not disqualified.</b>",
+      "he": "הָא בַּעֲבוֹדָה אַחַת, כְּגוֹן בִּשְׁחִיטָה דְּמַהְנְיָא בַּיהּ מַחְשְׁבֶת אוֹכְלִין — פָּסוּל, וְהָא קַיְימָא לַן מִקְצָת אוֹכְלִין לָא פָּסְלָא!",
+      "ref": "Pesachim 60a:14"
+    }
+  ],
+  "title": "Pesachim 60a",
+  "titleHebrew": "פסחים ס,א",
+  "topics": []
+}

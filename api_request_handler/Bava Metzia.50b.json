@@ -1,0 +1,968 @@
+{
+  "id": "50b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולרבי טרפון נמי לאלתר הוי מחילה</strong> - פחות משליש:",
+              "ref": "Rashi on Bava Metzia 50b:1:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:א:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמאי חזרו</strong> - הא כל היום דר' טרפון בשליש הוא דקאמר להו ויזהרו מאונאת שליש ויהא הכל מחילה לאלתר:",
+              "ref": "Rashi on Bava Metzia 50b:1:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:א:ב",
+              "sourceRef": "Rashi on Bava Metzia 50b:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ולר' טרפון נמי לאלתר הויא</b> <span class=\"hebrew-emphasis\">[גם כן מיד היא]</span> <b>מחילה</b> <span class=\"hebrew-emphasis\">[מחילה],</span> <b>אמאי</b> <span class=\"hebrew-emphasis\">[משום מה]</span> <b>חזרו?</b> הלא <b>ב</b>אותה הוראה של <b>ר' טרפון ניחא להו טפי</b> <span class=\"hebrew-emphasis\">[נוח להם יותר],</span> <b>דמאי דרבנן קא משוי להו</b> <span class=\"hebrew-emphasis\">[ש</span>הרי <span class=\"hebrew-emphasis\">מה שחכמים מחשיבים]</span> <b>אונאה ל</b>דעת <b>ר' טרפון הויא</b> <span class=\"hebrew-emphasis\">[הרי זו]</span> <b>מחילה,</b> ונמצאו מרויחים לפי שיטה זו?",
+              "ref": "Steinsaltz on Bava Metzia 50b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:א",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>and according to <span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span> too,</b> there <b>is a waiver</b> of the disparity of less than one-third and the transaction is finalized <b>immediately, why did they revert</b> to following the statement of the Rabbis? <b>In</b> that case, the ruling <b>of <span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span></b> would be <b>preferable for them, as that which the Rabbis deem exploitation,</b> i.e., a discrepancy of one-sixth, <b>is waived according to <span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span>.</b>",
+      "he": "וּלְרַבִּי טַרְפוֹן נָמֵי לְאַלְתַּר הָוְיָא מְחִילָה, אַמַּאי חָזְרוּ? בִּדְרַבִּי טַרְפוֹן נִיחָא לְהוּ טְפֵי, דְּמַאי דְּרַבָּנַן קָא מְשַׁוֵּי לְהוּ אוֹנָאָה לְרַבִּי טַרְפוֹן הָוְיָא מְחִילָה?",
+      "ref": "Bava Metzia 50b:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משתות ועד שליש לרבי טרפון</strong> - הויא אונאה כשתות עצמה לרבנן ואינו חולק על חכמים אלא דבטול מקח דידהו משוי להו אונאה וידו על העליונה ואליבא דרבנן שניהם חוזרין:",
+              "ref": "Rashi on Bava Metzia 50b:2:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ב:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי הכי</strong> - דר' טרפון אבטול מקח לחודיה פליג:",
+              "ref": "Rashi on Bava Metzia 50b:2:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ב:ב",
+              "sourceRef": "Rashi on Bava Metzia 50b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">במאי שמחו</strong> - מעיקרא:",
+              "ref": "Rashi on Bava Metzia 50b:2:3",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ב:ג",
+              "sourceRef": "Rashi on Bava Metzia 50b:2:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>מי סברת</b> <span class=\"hebrew-emphasis\">[האם סבור אתה]</span> ש<b>פחות משליש ל</b>דעת <b>ר' טרפון כפחות משתות לרבנן דמי</b> <span class=\"hebrew-emphasis\">[מששית ל</span>דעת <span class=\"hebrew-emphasis\">חכמים נחשב]?</span> <b>לא, משתות</b> <span class=\"hebrew-emphasis\">[ששית]</span> <b>ועד שליש ל</b>שיטת <b>ר' טרפון</b> — <b>כשתות</b> <span class=\"hebrew-emphasis\">[כששית]</span> <b>עצמה לרבנן דמי</b> <span class=\"hebrew-emphasis\">[ל</span>דעת <span class=\"hebrew-emphasis\">חכמים נחשב],</span> שמקבל בחזרה את דמי ההונאה. ושואלים: <b>אי הכי, במאי</b> <span class=\"hebrew-emphasis\">[אם כך, במה]</span> <b>שמחו מעיקרא</b> <span class=\"hebrew-emphasis\">[מתחילה],</span> הרי נמצא שלא הרוויחו מאומה?",
+              "ref": "Steinsaltz on Bava Metzia 50b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:ב",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Gemara rejects this understanding, based on its general approach that it is preferable to minimize the scope of disputes between differing opinions. Based on the Gemara’s new explanation, the differences between the opinions of Rabbi Tarfon and the Rabbis are less pronounced (<i>Shita Mekubbetzet</i>).",
+              "he": "וטעם דחייה זו משום שעל ידי כך הולך בדרך הגמרא למעט את המחלוקת ככל האפשר, שמקרב את הדעות זו לזו (שטמ\"ק).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 50b:2",
+              "sourceHeRef": "מִי סָבְרַתְּ פָּחוֹת מִשְּׁלִישׁ וכו׳",
+              "sourceRef": "Do you maintain that the status of a disparity of less than one-third, etc."
+            },
+            {
+              "en": "According to  this understanding, when Rabbi Tarfon cites the case of a disparity of one-third he is not establishing a minimum disparity for exploitation. Rather, he extends the limits of exploitation beyond those established by the Rabbis and determines that the disparity that constitutes exploitation ranges from one-sixth to one-third (<i>Talmid Rabbeinu Peretz</i>).",
+              "he": "ולפי זה יש לפרש את דברי ר' טרפון שאונאה עד שליש שאינו קוצב בכך את הגבול התחתון של האונאה, אלא סבור שיש לה גבול עליון שהוא למעלה ממה שקבעו חכמים, והוא משתות ועד שליש (תלמיד הר\"פ).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 50b:2",
+              "sourceHeRef": "מִשְּׁתוּת וְעַד שְׁלִישׁ…כִּשְׁתוּת",
+              "sourceRef": "A disparity ranging from one-sixth until one-third…is like a disparity of one-sixth"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara rejects this proof: <b>Do you maintain</b> that the legal status of a disparity of <b>less than one-third according to</b> the opinion of <b><span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span> is like</b> the legal status of a disparity of <b>less than one-sixth according to</b> the opinion of <b>the Rabbis? No,</b> the legal status of a disparity ranging <b>from one-sixth until one-third according to</b> the opinion of <b><span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span> is like</b> the legal status of a disparity of <b>one-sixth itself according to</b> the opinion of <b>the Rabbis,</b> and the exploited party receives the sum of the exploitation in return. The Gemara asks: <b>If so, for what</b> reason <b>did</b> the merchants of Lod <b>rejoice initially?</b> They gained nothing relative to the ruling of the Rabbis.",
+      "he": "מִי סָבְרַתְּ פָּחוֹת מִשְּׁלִישׁ לְרַבִּי טַרְפוֹן כְּפָחוֹת מִשְּׁתוּת לְרַבָּנַן דָּמֵי? לָא, מִשְּׁתוּת וְעַד שְׁלִישׁ לְרַבִּי טַרְפוֹן כִּשְׁתוּת עַצְמָהּ לְרַבָּנַן דָּמֵי. אִי הָכִי, בְּמַאי שָׂמְחוּ מֵעִיקָּרָא?",
+      "ref": "Bava Metzia 50b:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מִקָּח</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\">לָקַח</span>) <br><b>1)</b> <i>taking.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:22\" href=\"/Pirkei_Avot.4.22\">Pirkei Avot IV, 22</span> <span dir=\"rtl\">מִקַּח שוחד</span> bribe-taking. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 9:5\" href=\"/Mishnah_Pesachim.9.5\">Pesachim IX, 5</span> <span dir=\"rtl\">מִקְּחוֹ מבעשור</span> it must be selected (designated) on the tenth day of the month (<span class=\"refLink\" data-ref=\"Exodus 12:3\" href=\"/Exodus.12.3\">Shemot XII, 3</span>). <br><b><br>—2)</b> (traditional pronunc.) <span class=\"refLink\" data-ref=\"Jastrow, מִקָּח 1\" dir=\"rtl\" href=\"/Jastrow,_מִקָּח.1\">מֶקַח</span> <i>buying, purchase, bargain</i>. Ib. 112ᵇ <span dir=\"rtl\">אל תעמוד על המ׳ וכ׳</span> do not stand bargaining when you have no money. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 4:3\" href=\"/Mishnah_Bava_Metzia.4.3\">Bava Metzia IV, 3</span> <span dir=\"rtl\">שתות למ׳</span> if the overcharge amounts to one sixth of the price paid. <span class=\"refLink\" data-ref=\"Bava Metzia 50a:1\" href=\"/Bava_Metzia.50a.1\">Ib. 50ᵃ</span> <span dir=\"rtl\">תן לי מִקְחִי</span> give me back my goods. <span class=\"refLink\" data-ref=\"Bava Metzia 50b:9\" href=\"/Bava_Metzia.50b.9\">Ib. 50ᵇ</span> <span dir=\"rtl\">ביטול מ׳</span> annulment of the bargain. <span class=\"refLink\" data-ref=\"Bava Metzia 51a:5\" href=\"/Bava_Metzia.51a.5\">Ib. 51ᵃ</span> <span dir=\"rtl\">לוקח מקחו בידו</span> the purchaser has his purchase in his possession (and can show it to his friends to have it valued); and see from—אבן המ׳ <i>auction-stone</i> for slaves. Sifra B’har Chaldaic VII, Parah 6 (<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 667:2\" href=\"/Yalkut_Shimoni_on_Torah.667.2\">Yalkut Vayikra 667</span> <span dir=\"rtl\">הלקח</span>), see <span class=\"refLink\" data-ref=\"Jastrow, סִימְטָא ² 1\" href=\"/Jastrow,_סִימְטָא ².1\"><span dir=\"rtl\">סִימְטָא</span> I</span>.—<span dir=\"rtl\">מ׳ וממכר</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מִמְכָּר 1\" dir=\"rtl\" href=\"/Jastrow,_מִמְכָּר.1\">מִמְכָּר</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, מִקָּח 1",
+              "sourceHeRef": "מילון יסטרוב, מִקָּח א׳",
+              "sourceRef": "Jastrow, מִקָּח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">תפשוט</strong> - דמדשמחו:",
+              "ref": "Rashi on Bava Metzia 50b:3:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ג:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ביטול מקח לרבנן</strong> - דמיבעיא לן לקמן אי לעולם חוזר או בכדי שיראה. תפשוט דמדשמחו דלרבנן לעולם חוזר וכי אמר להו ר' טרפון אונאה והם היו סבורין דבכדי שיראה ס\"ל באונאה שמחו:",
+              "ref": "Rashi on Bava Metzia 50b:3:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ג:ב",
+              "sourceRef": "Rashi on Bava Metzia 50b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כי אמר להו כל היום חזרו</strong> - חדא דבין לעולם חוזר ובין שהות כל היום הנאה פורתא היא לדידהו דשהות הרבה יש לימלך כל היום ועוד אונאה יתר על שתות לא שכיחא וקמפסיד להו בשתות עצמה לרבנן בכדי שיראה ולדידיה כל היום:",
+              "ref": "Rashi on Bava Metzia 50b:3:3",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ג:ג",
+              "sourceRef": "Rashi on Bava Metzia 50b:3:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "האם <b>תפשוט</b> <span class=\"hebrew-emphasis\">[תפתור]</span> מכאן את השאלה שנשאלת להלן, ותאמר ש<b>בטול מקח לרבנן</b> <span class=\"hebrew-emphasis\">[ל</span>דעת <span class=\"hebrew-emphasis\">חכמים]</span> <b>לעולם חוזר</b> ואז אפשר להבין את תגרי לוד, ש<b>כיון</b> ש<b>אמר להו</b> <span class=\"hebrew-emphasis\">[להם]</span> <b>ר' טרפון הויא</b> <span class=\"hebrew-emphasis\">[</span>ש<span class=\"hebrew-emphasis\">הוא]</span> <b>אונאה</b> <b>שמחו</b> התגרים, <b>כי</b> <span class=\"hebrew-emphasis\">[</span>ו<span class=\"hebrew-emphasis\">כאשר]</span> <b>אמר להו</b> <span class=\"hebrew-emphasis\">[להם]</span> שמותר לחזור <b>כל היום</b> — <b>חזרו.</b>",
+              "ref": "Steinsaltz on Bava Metzia 50b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:ג",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:3"
+            }
+          ]
+        }
+      },
+      "en": "<b>Resolve,</b> based on this difficulty, the dilemma raised below, and conclude <b>that</b> in cases of <b>nullification of the transaction according to the Rabbis, one may always renege</b> on the transaction. Therefore, the reaction of the merchants of Lod is understandable, <b>as, since <span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span> said to them</b> that a disparity between one-sixth and one-third <b>is</b> merely <b>exploitation, they rejoiced,</b> as this would mean that the buyer has only the time it takes to show the merchandise to a merchant or a relative to renege. <b>When he said to them</b> that the exploited person can renege on the transaction for <b>the entire day, they reverted</b> to following the statement of the Rabbis.",
+      "he": "תִּפְשׁוֹט דְּבִטּוּל מִקָּח לְרַבָּנַן לְעוֹלָם חוֹזֵר, דְּכֵיוָן דַּאֲמַר לְהוּ רַבִּי טַרְפוֹן הָוְיָא אוֹנָאָה – שָׂמְחוּ, כִּי אֲמַר לְהוּ כׇּל הַיּוֹם – חָזְרוּ.",
+      "ref": "Bava Metzia 50b:3"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מִקָּח</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\">לָקַח</span>) <br><b>1)</b> <i>taking.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:22\" href=\"/Pirkei_Avot.4.22\">Pirkei Avot IV, 22</span> <span dir=\"rtl\">מִקַּח שוחד</span> bribe-taking. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 9:5\" href=\"/Mishnah_Pesachim.9.5\">Pesachim IX, 5</span> <span dir=\"rtl\">מִקְּחוֹ מבעשור</span> it must be selected (designated) on the tenth day of the month (<span class=\"refLink\" data-ref=\"Exodus 12:3\" href=\"/Exodus.12.3\">Shemot XII, 3</span>). <br><b><br>—2)</b> (traditional pronunc.) <span class=\"refLink\" data-ref=\"Jastrow, מִקָּח 1\" dir=\"rtl\" href=\"/Jastrow,_מִקָּח.1\">מֶקַח</span> <i>buying, purchase, bargain</i>. Ib. 112ᵇ <span dir=\"rtl\">אל תעמוד על המ׳ וכ׳</span> do not stand bargaining when you have no money. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 4:3\" href=\"/Mishnah_Bava_Metzia.4.3\">Bava Metzia IV, 3</span> <span dir=\"rtl\">שתות למ׳</span> if the overcharge amounts to one sixth of the price paid. <span class=\"refLink\" data-ref=\"Bava Metzia 50a:1\" href=\"/Bava_Metzia.50a.1\">Ib. 50ᵃ</span> <span dir=\"rtl\">תן לי מִקְחִי</span> give me back my goods. <span class=\"refLink\" data-ref=\"Bava Metzia 50b:9\" href=\"/Bava_Metzia.50b.9\">Ib. 50ᵇ</span> <span dir=\"rtl\">ביטול מ׳</span> annulment of the bargain. <span class=\"refLink\" data-ref=\"Bava Metzia 51a:5\" href=\"/Bava_Metzia.51a.5\">Ib. 51ᵃ</span> <span dir=\"rtl\">לוקח מקחו בידו</span> the purchaser has his purchase in his possession (and can show it to his friends to have it valued); and see from—אבן המ׳ <i>auction-stone</i> for slaves. Sifra B’har Chaldaic VII, Parah 6 (<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 667:2\" href=\"/Yalkut_Shimoni_on_Torah.667.2\">Yalkut Vayikra 667</span> <span dir=\"rtl\">הלקח</span>), see <span class=\"refLink\" data-ref=\"Jastrow, סִימְטָא ² 1\" href=\"/Jastrow,_סִימְטָא ².1\"><span dir=\"rtl\">סִימְטָא</span> I</span>.—<span dir=\"rtl\">מ׳ וממכר</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מִמְכָּר 1\" dir=\"rtl\" href=\"/Jastrow,_מִמְכָּר.1\">מִמְכָּר</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, מִקָּח 1",
+              "sourceHeRef": "מילון יסטרוב, מִקָּח א׳",
+              "sourceRef": "Jastrow, מִקָּח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאי ס\"ד בטול מקח לרבנן</strong> - כאונאה בכדי שיראה ואין בין אונאה לבטול מקח אלא דבאונאה ידו על העליונה ובבטול מקח שניהם חוזרין כי משוי רבי טרפון לבטול מקח אונאה אין זו טובה להם:",
+              "ref": "Rashi on Bava Metzia 50b:4:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ד:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שמחו בשתות עצמה כו'</strong> - דהא דאמרן משתות ועד שליש לר\"ט כשתות לרבנן משתות ומעלה אמרו ולא שתות עצמה:",
+              "ref": "Rashi on Bava Metzia 50b:4:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ד:ב",
+              "sourceRef": "Rashi on Bava Metzia 50b:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דאי סלקא דעתך</b> <span class=\"hebrew-emphasis\">[שאם עולה על דעתך</span> לומר<span class=\"hebrew-emphasis\">]</span> ש<b>בטול מקח</b> לדעת חכמים אף זמנו <b>בכדי שיראה לתגר או לקרובו במאי</b> <span class=\"hebrew-emphasis\">[במה]</span> אם כן <b>שמחו</b> בשיטת ר' טרפון? ומשיבים: <b>שמחו בשתות</b> <span class=\"hebrew-emphasis\">[בששית]</span> <b>עצמה,</b> שמחו לענין טעות בשתות בדיוק, שלשיטת <b>ר' טרפון</b> הרי זו <b>מחילה</b> ולדעת חכמים הרי זו <b>אונאה.</b> ומטעם זה רצו לקבל את שיטתו, אלא שלבסוף חזרו בהם.",
+              "ref": "Steinsaltz on Bava Metzia 50b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:ד",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:4"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains why the dilemma is resolved: <b>As, if it enters your mind</b> to say <b>that nullification of the transaction according to the Rabbis</b> is limited to only <b>within the time that</b> it takes for the buyer <b>to show</b> the merchandise <b>to a merchant or to his relative, for what</b> reason <b>did they rejoice</b> over the ruling of <span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span>? His ruling did not enable them to sell the merchandise at a higher price than the ruling of the Rabbis did. The Gemara rejects this proof: <b>They</b> initially <b>rejoiced over the</b> case of a disparity of <b>one-sixth itself, as according to <span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span></b> there is <b>a waiver</b> of the disparity, <b>and according to the Rabbis</b> it is <b>exploitation.</b>",
+      "he": "דְּאִי סָלְקָא דַעְתָּךְ דְּבִטּוּל מִקָּח לְרַבָּנַן בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ, בְּמַאי שָׂמְחוּ? שָׂמְחוּ בְּשֶׁתּוּת עַצְמָהּ, דִּלְרַבִּי טַרְפוֹן מְחִילָה, וּלְרַבָּנַן אוֹנָאָה.",
+      "ref": "Bava Metzia 50b:4"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מִקָּח</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\">לָקַח</span>) <br><b>1)</b> <i>taking.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:22\" href=\"/Pirkei_Avot.4.22\">Pirkei Avot IV, 22</span> <span dir=\"rtl\">מִקַּח שוחד</span> bribe-taking. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 9:5\" href=\"/Mishnah_Pesachim.9.5\">Pesachim IX, 5</span> <span dir=\"rtl\">מִקְּחוֹ מבעשור</span> it must be selected (designated) on the tenth day of the month (<span class=\"refLink\" data-ref=\"Exodus 12:3\" href=\"/Exodus.12.3\">Shemot XII, 3</span>). <br><b><br>—2)</b> (traditional pronunc.) <span class=\"refLink\" data-ref=\"Jastrow, מִקָּח 1\" dir=\"rtl\" href=\"/Jastrow,_מִקָּח.1\">מֶקַח</span> <i>buying, purchase, bargain</i>. Ib. 112ᵇ <span dir=\"rtl\">אל תעמוד על המ׳ וכ׳</span> do not stand bargaining when you have no money. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 4:3\" href=\"/Mishnah_Bava_Metzia.4.3\">Bava Metzia IV, 3</span> <span dir=\"rtl\">שתות למ׳</span> if the overcharge amounts to one sixth of the price paid. <span class=\"refLink\" data-ref=\"Bava Metzia 50a:1\" href=\"/Bava_Metzia.50a.1\">Ib. 50ᵃ</span> <span dir=\"rtl\">תן לי מִקְחִי</span> give me back my goods. <span class=\"refLink\" data-ref=\"Bava Metzia 50b:9\" href=\"/Bava_Metzia.50b.9\">Ib. 50ᵇ</span> <span dir=\"rtl\">ביטול מ׳</span> annulment of the bargain. <span class=\"refLink\" data-ref=\"Bava Metzia 51a:5\" href=\"/Bava_Metzia.51a.5\">Ib. 51ᵃ</span> <span dir=\"rtl\">לוקח מקחו בידו</span> the purchaser has his purchase in his possession (and can show it to his friends to have it valued); and see from—אבן המ׳ <i>auction-stone</i> for slaves. Sifra B’har Chaldaic VII, Parah 6 (<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 667:2\" href=\"/Yalkut_Shimoni_on_Torah.667.2\">Yalkut Vayikra 667</span> <span dir=\"rtl\">הלקח</span>), see <span class=\"refLink\" data-ref=\"Jastrow, סִימְטָא ² 1\" href=\"/Jastrow,_סִימְטָא ².1\"><span dir=\"rtl\">סִימְטָא</span> I</span>.—<span dir=\"rtl\">מ׳ וממכר</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מִמְכָּר 1\" dir=\"rtl\" href=\"/Jastrow,_מִמְכָּר.1\">מִמְכָּר</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, מִקָּח 1",
+              "sourceHeRef": "מילון יסטרוב, מִקָּח א׳",
+              "sourceRef": "Jastrow, מִקָּח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אם תמצא לומר כו'</strong> - כלומר אם באת לומר פשיטא דלעולם חוזר דאי בכדי שיראה מאי איכא כו':",
+              "ref": "Rashi on Bava Metzia 50b:5:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ה:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איכא דאילו שתות כו'</strong> - כי נמי אמרינן תרוייהו בכדי שיראה עדיין יש חילוק זה ביניהם:",
+              "ref": "Rashi on Bava Metzia 50b:5:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ה:ב",
+              "sourceRef": "Rashi on Bava Metzia 50b:5:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רב חסדא מכר לו שוה חמש בשש והוקרו ועמדו על שמנה מי נתאנה לוקח לוקח יכול לחזור בו ולא מוכר משום דאמר ליה אי לאו דאוניתן לא מצית הדרת בך השתא דאוניתן מצית הדרת בך ולא קיימא לן כרב חסדא בהא דאמר לוקח יכול לחזור דאיהו סבר כמתני' דפרק הזהב <span class=\"parenthesized\">(בבא מציעא דף נא.)</span> דתנן מי שהוטל עליו אונאה ידו על העליונה רצה אומר לו תן לי מעותי או תן לי מה שאוניתני וההיא מתניתין אתיא כר' יהודה הנשיא ואנן קיימא לן כרבא דפסק הלכה כרבי נתן דאמר שתות קנה ומחזיר אונאה. ומיהו קי\"ל כעיקר מלתיה דרב חסדא דאתא לאשמועינן דאין מוכר יכול לחזור אע\"פ שהוקרו מדחזינן בסוף שמעתי' הוה אמינא הא דרב חסדא תרוייהו מצי הדרי בהו אלמא אי לאו דרב חסדא ה\"א דאפילו מוכר יכול לחזור בו ואע\"ג דכ\"ע באונאה אין המאנה יכול לחזור בו שאני הכא שחזר המקח להיות בטול מקח לגבי המוכר קודם שנתקיים המקח לגבי לוקח דהיינו בתוך בכרי שיראה לתגר או שיאמר רוצה אני במקח הלכך גם המוכר יכול לחזור בו כיון שלא קיים הלוקח עדיין את המקח קמ\"ל רב חסדא דאין יכול לחזור בו משום דא\"ל אי לאו דאוניתני וכו' ואע\"ג דלדידן דקי\"ל דשתות קנה לא שייך האי טעמא שהרי נתקיים המקח אצל הלוקח. כתב רב אלפס ז\"ל דנ\"מ לענין ביטול מקח כגון שמכר לו שוה ד' בחמש ולא הספיק בכדי שיראה לתגר או לקרובי עד שהוקרו ועמדו בשבע לא מצי מוכר הדר ביה דא\"ל אי לאו דאוניתן וכו' וכן מוכר שמכר שוה חמש בד' והוזלו ועמדו על שלש לא מצי לוקח הדר ביה משום דאמר ליה אי לאו דאוניתן וכו' ואע\"ג דדחינן ואמרינן דלמא הא דרב חסדא תרוייהו מצי הדרי בהו ומתני' היינו טעמא משום דרע רע יאמר הקונה לא בטילה להא דרב חסדא דלא דחינן מימרא בדלמא וטעמא דרב חסדא טעמא דמסתבר הוא וא\"ת בביטול מקח דאמר בפרק הזהב <span class=\"parenthesized\">(בבא מציעא דף נ:)</span> דשניהן חוזרין אמאי לא קאמר מתאנה למאנה אי לאו דאוניתן כו' כמו דאמר בשתות. וי\"ל לפי שרחוק מן המקח יותר ואין דרך בני אדם לטעות לא נקרא עליו שם מקח ונתבטל המקח מעיקרא. והריב\"ם פירש דביתר משתות אין המאנה חוזר אלא אם כן המתאנה תובע אונאתו אבל אם המתאנה רוצה לעמוד במקחו ופוטר את המאנה מדמי אונאתו אין המאנה יכול לבטל המקח משום דא\"ל אי לאו דאוניתני כו'. דאי לא תימא הכי נמצא יפה כח המאנה לפי שאינהו ביתר משתות יותר מבשתות ואע\"ג שגם עכשיו יפה כחו דבשתות ידו על התחתונה וביתר ידו כיד המתאנה שאם המתאנה תובע את אונאתי יכול הוא לבטל את המקח בזה אין כל כך תימה דאונאת שתות אין חשוב כל כך כמו מקח טעות הלכך אפילו כשתובע המתאנה את אונאתו אין המאנה יכול לבעל המקח אבל ביתר משתות דהוי אונאה מרובה כשבא המתאנה להתרעם על אונאתו חשיב כמקח טעות ויכול אף המאנה לחזור ואין חשוב מקח כלל אבל כשלא בא המתאנה להתרעם על המקח אלא רוצה להעמיד מקחו ולמחול על אונאתו היאך יתכן שהמוכר יערער ויאמר איני רוצה שיתקיים המקח הואיל והלוקח משך מקחו ונתרצה וכו'. ונראה שרב אלפס סובר כן מדמפרש דלדידן נפקא מיניה במילתיה דרב חסדא לענין בטול מקח דלא מצי מוכר הדר ביה משום דא\"ל אי לאו דאוניתן וכו' אלמא דבטול מקח ליתא חזרה לגבי מוכר אם אין המתאנה תובע אונאתו. והקשה ה\"ר יונה ז\"ל דהא דקאמר גמ' בפרק הזהב דאילו יותר משתות שניהן חוזרין אי אפשר לפרש כן דשניהן חוזרין סתמא קאמר וסתמא לאו בתובע אונאתו מיירי שהרי אין יכול לתבוע אונאתו ביותר משתות אלא או יבטל המקח או יתרצה בו דבאונאת שתות דוקא הוא דיכול לתבוע אונאתו הלכך אין להעמיד חזרת המאנה כשתובע המתאנה מה שאין יכול מן הדין לתבוע וטפי הוי מסתבר דהיכא דתובע אונאתו הרי גילה בדעתו שחפץ בקיום המקח אלא שתובע להחזיר לו דמי אונאתו וכיון שחפץ בקיום המקח לא מסתבר שהמאנה יבטל המקח. ופירש ה\"ר יונה ז\"ל דהא דקאמר דשניהם חוזרין היינו כל זמן שהמתאנה יכול לחזור גם המאנה יכול לחזור בו וה\"ט דלא מצי א\"ל אי לאו דאוניתן וכו' משום דאין חזרת המאנה אלא משום לתא דחזרת המתאנה דמקח שיש בו טעות ביתר משתות מסתמא יחזור בו המתאנה דכיון שאין יכול לתבוע אונאתו ודאי יבטל המקח שאין אדם מוחל על אונאה יותר משתות ואפילו על אונאת שתות אין אדם מוחל הלכך כיון דמסתמא מקח טעות הוא גם המאנה חוזר דהא לא שייך למימר אי לאו דאוניתן וכו' שהרי כנושא ונותן בלא משיכה דמי אבל אם נתרצה המתאנה במכר אין המאנה יכול לחזור בו אחרי כן וכן אם נתאנה הלוקח ביתר משתות ושהה בכדי שיראה אע\"ג דאמור רבנן מוכר לעולם חוזר הכא אין המוכר יכול לחזור בו כיון שנתקיים המקח לגבי הלוקח שנתאנה דכיון דאמור רבנן דהלוקח שנתאנה אין יכול לחזור בו אפילו בביטול מקח אחר בכדי שיראה אלמא שנתקיים המקח הלכך אין המאנה יכול לחזור בו דהא ליכא למימר מקח טעות הוא כיון דאותו שנתאנה אין יכול לחזור בו דודאי לא תיקנו רבנן חזרה לגבי המאנה משום דא\"ל אי לאו דאוניתן וכו'. והשתא לא צריכינן למימר דרב אלפס ז\"ל סבר שאין המאנה יכול לבטל המקח אלא כשהמתאנה תובע אונאתו דלמאי דפרישנא דהיכא שנתרצה המתאנה במקח עד שלא חזר בו המאנה שוב אין המאנה חוזר ניחא נמי הכא דמסתמא כיון דהוקרו אין הלוקח עומד לחזור בו ומכל מקום לוקח יכול לחזור בו אע\"פ שאין כאן עוד אונאה ולא אמר לאלתר כשהוקרו כמי שנתרצה בפירוש דמי דכיון דנתנו חכמים כח בידו לחזור עד זמן ידוע אין רוצה לקיים המקח לגמרי וטוב לו שיהא בידו לחזור הלכך אם ירצה לוקח יכול לחזור ולא מוכר ואם אין הלוקח רוצה לחזור בו אלא תובע אונאתו מן. המוכר יש אומרים שצריך להחזיר לו אונאתו דכיון שאם תבע קודם שהוקרו היה צריך להחזיר לו אונאה גם עתה נמי כשהוקרו ברשותא דידיה אייקור. וה\"ר יונה ז\"ל כתב שאין יכול לתבוע אונאתו דכיון שהיה יכול לחזור בו לא נתקיים המקח עד עתה ואין המתאנה יכול לתבוע אונאתו אלא כשיש שם אונאה בשעה שהמקח מתקיים. ועוד דקדק מלשון הטעם שנתן רב חסדא לדבריו דאם איתא דסבר רב חסדא דכל זמן שהלוקח חפץ במקח איגלאי מילתא שנתקיים המקח מתחלה ולעצמו הוקר א\"כ למה ליה דדחיק ונסיב טעמא משום דא\"ל אי לאו דאוניתן וכו' דה\"ל למימר כיון דהשתא איתרצאי במקח ברשותי אייקר דאיגלאי מילתא למפרע שחל המקח מתחלה וחייב נמי ליתן דמי אונאתו אלא ודאי לא חל המקח אלא בשעה שמקיים אותו מי שנתאנה וע\"כ למאי דבעי למימר דהא דרב חסדא תרוייהו מצי הדרי בהו לא אמרינן דחל המקח למפרע כשמקיים אותו עכשיו ורב חסדא לא פליג על סברא זו אלא בהא דקאמר שהמקח קיים לגבי מוכר שאין יכול לחזור אבל במאי דלא פליג לא פליג:",
+              "ref": "Rosh on Bava Batra 5:14:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ה:יד:א",
+              "sourceRef": "Rosh on Bava Batra 5:14:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> ומעתה מבררים אותה שאלה שהוזכרה קודם בדרך אגב. <b>איבעיא להו</b> <span class=\"hebrew-emphasis\">[נשאלה להם]</span> ללומדים שאלה זו: <b>בטול מקח לרבנן</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">חכמים]</span> האם <b>לעולם חוזר</b> בו, <b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> זמנו רק <b>בכדי שיראה לתגר או לקרובו? ואם תמצא</b> <span class=\"hebrew-emphasis\">[תרצה]</span> <b>לומר</b> ותגיע למסקנה כי הכוונה היא <b>בכדי שיראה לתגר או לקרובו,</b> יש מקום לשאול: <b>מה איכא</b> <span class=\"hebrew-emphasis\">[מה יש,</span> הבדל<span class=\"hebrew-emphasis\">]</span> <b>בין שתות</b> <span class=\"hebrew-emphasis\">[ששית]</span> <b>ליתר על שתות</b> <span class=\"hebrew-emphasis\">[ששית]?</span> ומשיבים: <b>איכא</b> <span class=\"hebrew-emphasis\">[יש</span> הבדל<span class=\"hebrew-emphasis\">]:</span> ש<b>אילו שתות</b> <span class=\"hebrew-emphasis\">[ששית]</span> — <b>מי שנתאנה</b> (רומה) הוא בלבד <b>חוזר, ואילו</b> היה <b>יתר על שתות</b> <span class=\"hebrew-emphasis\">[ששית]</span> — <b>שניהם חוזרין.</b> ומכאן אין להוכיח.",
+              "ref": "Steinsaltz on Bava Metzia 50b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:ה",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Both the early and later commentaries discuss the relationship between the various dilemmas raised. Some maintain that this dilemma with regard to nullification of the transaction actually precedes the dilemma cited earlier, both essentially and chronologically (Responsa<i> Divrei Rivot</i>). Others contend that the Gemara raises this dilemma in an effort to resolve the previous, unresolved one (Ritva). Rashi indicates that the two dilemmas do not share common assumptions with regard to whether in a disparity of less than one-sixth there is immediate waiver, and with regard to the relationship between a disparity of one-sixth and a disparity of less than one-sixth.",
+              "he": "כבר דנו ראשונים ואחרונים בדבר הקשר הפנימי בין השאלות השונות. שיש שאמרו ששאלה זו בדבר ביטול מקח מוקדמת היא בזמנה ועניינה לשאלה הקודמת (שו\"ת דברי ריבות). ויש שפירשו שעל ידי בעיה זו מנסה למצוא תשובה לבעיה קודמת שלא הגיעה לידי בירור (ריטב\"א). ומדעת רש\"י נראה שאין בסיס שווה להנחה הראשונה בשתי הבעיות לגבי פחות משתות אם היא מחילה לאלתר או לא, ומה היחס בין שתות לפחות משתות.",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 50b:5",
+              "sourceHeRef": "אִיבַּעֲיָא…בִּטּוּל מִקָּח",
+              "sourceRef": "A dilemma was raised…with regard to nullification of the transaction"
+            },
+            {
+              "en": "According to Rashi, nullification of the transaction in the cases of matters not subject to the <i>halakhot</i> of exploitation is no different from the other cases cited in the Gemara, when the disparity between the market value and price paid is more than one-sixth. Rabbeinu Ĥananel cites proof from several sources that there is nullification of the transaction in these cases only if the disparity is extreme, i.e., half the value of the item in question. Others claim, based on the Jerusalem Talmud, that in these cases, the transaction is nullified if the disparity is one-third (see <i>Milĥamot Hashem</i>).",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 50b:5",
+              "sourceHeRef": "בִּטּוּל מִקָּח",
+              "sourceRef": "Nullification of the transaction"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואילו יתר על שתות שניהם חוזרי'</strong> - וא\"ת דבפרק הספינה <span class=\"parenthesized\">(ב\"ב דף פג: ושם פד. ד\"ה אי לא)</span> אמר רב חסדא מכר לו שוה ה' בו' והוקר ועמד על ח' לוקח יכול לחזור בו ולא מוכר דאמר ליה לוקח אי לאו דאוניתני לא מצית הדר בך כו' וה\"נ אמאי מאנה יכול לחזור נימא ליה נמי המתאנה אי לאו דאוניתני כו' וי\"ל דהכא כיון שהוא יותר משתות ה\"ל רחוק מן המקח יותר מדאי וכאילו לא מכר כלל דה\"ל כיין ונמצא חומץ חומץ ונמצא יין דשניהם חוזרין <span class=\"parenthesized\">(שם דף פג:)</span> וה\"ר יצחק בר' מרדכי תירץ דהתם כשאין הלוקח תובע אונאתו לכך אין המוכר יכול לחזור בו אבל הכא מיירי כשמתאנה תובע אונאתו ולכך המאנה יכול לבטל המקח:",
+              "ref": "Tosafot on Bava Metzia 50b:5:1",
+              "sourceHeRef": "תוספות על בבא מציעא נ׳ ב:ה:א",
+              "sourceRef": "Tosafot on Bava Metzia 50b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites the dilemma referenced above. <b>A dilemma was raised before</b> the Sages: With regard to <b>nullification of the transaction according to the Rabbis,</b> may one <b>always renege</b> on the transaction? <b>Or perhaps</b> he can renege only <b>within the time that</b> it takes him <b>to show</b> the merchandise <b>to a merchant or to his relative. And if you say</b> that the transaction is nullified only <b>within the time that</b> it takes him <b>to show</b> the merchandise <b>to a merchant or to his relative, what</b> difference <b>is there between</b> a disparity of <b>one-sixth and</b> a disparity of <b>greater than one-sixth?</b> The Gemara answers: <b>There is</b> a difference, <b>as</b> in the case of a disparity of <b>one-sixth,</b> only the one <b>who was exploited can renege</b> on the transaction, <b>while</b> in the case where the disparity is <b>greater than one-sixth, both can renege</b> on the transaction.",
+      "he": "אִיבַּעְיָא לְהוּ: בִּטּוּל מִקָּח לְרַבָּנַן, לְעוֹלָם חוֹזֵר, אוֹ דִלְמָא בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ? וְאִם תִּמְצָא לוֹמַר בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ, מָה אִיכָּא בֵּין שְׁתוּת לְיָתֵר עַל שְׁתוּת? אִיכָּא: דְּאִילּוּ שְׁתוּת – מִי שֶׁנִּתְאַנָּה חוֹזֵר, וְאִילּוּ יָתֵר עַל שְׁתוּת – שְׁנֵיהֶם חוֹזְרִים.",
+      "ref": "Bava Metzia 50b:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מִקָּח</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\">לָקַח</span>) <br><b>1)</b> <i>taking.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:22\" href=\"/Pirkei_Avot.4.22\">Pirkei Avot IV, 22</span> <span dir=\"rtl\">מִקַּח שוחד</span> bribe-taking. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 9:5\" href=\"/Mishnah_Pesachim.9.5\">Pesachim IX, 5</span> <span dir=\"rtl\">מִקְּחוֹ מבעשור</span> it must be selected (designated) on the tenth day of the month (<span class=\"refLink\" data-ref=\"Exodus 12:3\" href=\"/Exodus.12.3\">Shemot XII, 3</span>). <br><b><br>—2)</b> (traditional pronunc.) <span class=\"refLink\" data-ref=\"Jastrow, מִקָּח 1\" dir=\"rtl\" href=\"/Jastrow,_מִקָּח.1\">מֶקַח</span> <i>buying, purchase, bargain</i>. Ib. 112ᵇ <span dir=\"rtl\">אל תעמוד על המ׳ וכ׳</span> do not stand bargaining when you have no money. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 4:3\" href=\"/Mishnah_Bava_Metzia.4.3\">Bava Metzia IV, 3</span> <span dir=\"rtl\">שתות למ׳</span> if the overcharge amounts to one sixth of the price paid. <span class=\"refLink\" data-ref=\"Bava Metzia 50a:1\" href=\"/Bava_Metzia.50a.1\">Ib. 50ᵃ</span> <span dir=\"rtl\">תן לי מִקְחִי</span> give me back my goods. <span class=\"refLink\" data-ref=\"Bava Metzia 50b:9\" href=\"/Bava_Metzia.50b.9\">Ib. 50ᵇ</span> <span dir=\"rtl\">ביטול מ׳</span> annulment of the bargain. <span class=\"refLink\" data-ref=\"Bava Metzia 51a:5\" href=\"/Bava_Metzia.51a.5\">Ib. 51ᵃ</span> <span dir=\"rtl\">לוקח מקחו בידו</span> the purchaser has his purchase in his possession (and can show it to his friends to have it valued); and see from—אבן המ׳ <i>auction-stone</i> for slaves. Sifra B’har Chaldaic VII, Parah 6 (<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 667:2\" href=\"/Yalkut_Shimoni_on_Torah.667.2\">Yalkut Vayikra 667</span> <span dir=\"rtl\">הלקח</span>), see <span class=\"refLink\" data-ref=\"Jastrow, סִימְטָא ² 1\" href=\"/Jastrow,_סִימְטָא ².1\"><span dir=\"rtl\">סִימְטָא</span> I</span>.—<span dir=\"rtl\">מ׳ וממכר</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מִמְכָּר 1\" dir=\"rtl\" href=\"/Jastrow,_מִמְכָּר.1\">מִמְכָּר</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, מִקָּח 1",
+              "sourceHeRef": "מילון יסטרוב, מִקָּח א׳",
+              "sourceRef": "Jastrow, מִקָּח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משום הכי חזרו</strong> - מעיקרא כי שוי להו ר' טרפון יתר על שתות אונאה דלרבנן בטול מקח ולא הרחיב זמן החזרה שמחו בשתות עצמה דמחילה לאלתר כדאמרן וכי הדר אמר להו כל היום חזרו דהחמיר להם ביתר על שתות ופגם להם יותר ממה שהשביחם בשתות עצמה כדפרישית:",
+              "ref": "Rashi on Bava Metzia 50b:6:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ו:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:6:1"
+            },
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> ד\"ה הלכתא פחות משתות וכו' כצ\"ל:",
+                      "ref": "Maharam on Bava Metzia 50b:1",
+                      "sourceHeRef": "מהר\"ם על בבא מציעא נ׳ ב:א",
+                      "sourceRef": "Maharam on Bava Metzia 50b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא אי אמרת לעולם חוזר</strong> - נהי נמי דשתות עצמה משוי להו אונאה כרבנן דהאי דאמר לעיל שמחו בשתות עצמה שינויא דחיקא הוה משום שמחה דמעיקרא דקשיא לן במאי שמחו והשתא אמרת לי דשמחה מעיקרא משום בטול מקח היא דהואי דלרבנן לעולם ולר' טרפון היו סבורין בכדי שיראה כדין אונאה דרבנן כי הדר אמר להו כל היום אכתי שמחה איכא דלרבנן לעולם ולר' טרפון כל היום ותו לא ואי משום שתות עצמה דלרבנן בכדי שיראה ולדידיה כל היום הרבה הוא שבח שמשביח רבי טרפון ביתר על השתות מפגם שפוגם בשתות עצמה שהרי יכולין ליזהר בשתות עצמה יפחתו לו מעט ותהא מחילה נמצאו משתכרין בשל רבי טרפון כל אונאה שיתר על שתות:",
+              "ref": "Rashi on Bava Metzia 50b:6:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ו:ב",
+              "sourceRef": "Rashi on Bava Metzia 50b:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואנו חוזרים לשאלה הראשונה, <b>מאי</b> <span class=\"hebrew-emphasis\">[מה</span> פתרונה<span class=\"hebrew-emphasis\">]?</span> ומציעים: <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> ממה ששנינו שסוחרי לוד <b>חזרו לדברי חכמים. אי אמרת בשלמא</b> <span class=\"hebrew-emphasis\">[נניח אם אומר אתה]</span> ש<b>בטול מקח לרבנן</b> <span class=\"hebrew-emphasis\">[ל</span>דעת <span class=\"hebrew-emphasis\">חכמים]</span> זמנו <b>בכדי שיראה לתגר או לקרובו, ו</b>לדעת <b>ר' טרפון כל היום</b> — <b>משום הכי</b> <span class=\"hebrew-emphasis\">[כך]</span> <b>חזרו. אלא אי אמרת</b> <span class=\"hebrew-emphasis\">[אם אומר אתה]</span> ש<b>בטול מקח לרבנן לעולם חוזר, אמאי</b> <span class=\"hebrew-emphasis\">[מדוע]</span> אם כן <b>חזרו</b> בהם? הלא בסופו של דבר <b>ב</b>שיטת <b>ר' טרפון ניחא להו טפי</b> <span class=\"hebrew-emphasis\">[נוח להם יותר]</span> משום <b>דקא משוי להו</b> <span class=\"hebrew-emphasis\">[שעושה</span> <b>זאת]</b> <b>אונאה כל היום ותו לא</b> <span class=\"hebrew-emphasis\">[ולא עוד],</span> ולא כחכמים שהוא בטול מקח, ולעולם!",
+              "ref": "Steinsaltz on Bava Metzia 50b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:ו",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:6"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara returns to discuss the dilemma: <b>What</b> is the <i>halakha</i>? The Gemara suggests: <b>Come</b> and <b>hear</b> a resolution of the dilemma from the mishna: The merchants of Lod <b>reverted to</b> following <b>the statement of the Rabbis. Granted, if you say</b> that one can claim <b>nullification of the transaction according to the Rabbis</b> only <b>within the time that</b> it takes the buyer <b>to show</b> the merchandise <b>to a merchant or to his relative, and according to <span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span></b> one can do so for <b>the entire day,</b> it is <b>due to that</b> reason that <b>they reverted</b> to following the statement of the Rabbis. <b>But if you say</b> that one can claim <b>nullification of the transaction according to the Rabbis</b> and <b>always renege</b> on the transaction, <b>why</b> did <b>they revert</b> to following the statement of the Rabbis? <b>In</b> that case, the ruling <b>of <span href=\"/topics/rabbi-tarfon\" class=\"namedEntityLink\" data-slug=\"rabbi-tarfon\">Rabbi Tarfon</span></b> is <b>preferable for them, as he deems</b> such a disparity <b>exploitation</b> and rules that one can claim nullification of the transaction for <b>the entire day and no more,</b> which is more beneficial to the merchant.",
+      "he": "מַאי? תָּא שְׁמַע, חָזְרוּ לְדִבְרֵי חֲכָמִים. אִי אָמְרַתְּ בִּשְׁלָמָא בִּטּוּל מִקָּח לְרַבָּנַן בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ, וּלְרַבִּי טַרְפוֹן כׇּל הַיּוֹם – מִשּׁוּם הָכִי חָזְרוּ. אֶלָּא אִי אָמְרַתְּ בִּטּוּל מִקָּח לְרַבָּנַן לְעוֹלָם חוֹזֵר, אַמַּאי חָזְרוּ? בִּדְרַבִּי טַרְפוֹן נִיחָא לְהוּ טְפֵי, דְּקָא מְשַׁוֵּי לְהוּ אוֹנָאָה כׇּל הַיּוֹם וְתוּ לָא!",
+      "ref": "Bava Metzia 50b:6"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מִקָּח</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\">לָקַח</span>) <br><b>1)</b> <i>taking.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:22\" href=\"/Pirkei_Avot.4.22\">Pirkei Avot IV, 22</span> <span dir=\"rtl\">מִקַּח שוחד</span> bribe-taking. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 9:5\" href=\"/Mishnah_Pesachim.9.5\">Pesachim IX, 5</span> <span dir=\"rtl\">מִקְּחוֹ מבעשור</span> it must be selected (designated) on the tenth day of the month (<span class=\"refLink\" data-ref=\"Exodus 12:3\" href=\"/Exodus.12.3\">Shemot XII, 3</span>). <br><b><br>—2)</b> (traditional pronunc.) <span class=\"refLink\" data-ref=\"Jastrow, מִקָּח 1\" dir=\"rtl\" href=\"/Jastrow,_מִקָּח.1\">מֶקַח</span> <i>buying, purchase, bargain</i>. Ib. 112ᵇ <span dir=\"rtl\">אל תעמוד על המ׳ וכ׳</span> do not stand bargaining when you have no money. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 4:3\" href=\"/Mishnah_Bava_Metzia.4.3\">Bava Metzia IV, 3</span> <span dir=\"rtl\">שתות למ׳</span> if the overcharge amounts to one sixth of the price paid. <span class=\"refLink\" data-ref=\"Bava Metzia 50a:1\" href=\"/Bava_Metzia.50a.1\">Ib. 50ᵃ</span> <span dir=\"rtl\">תן לי מִקְחִי</span> give me back my goods. <span class=\"refLink\" data-ref=\"Bava Metzia 50b:9\" href=\"/Bava_Metzia.50b.9\">Ib. 50ᵇ</span> <span dir=\"rtl\">ביטול מ׳</span> annulment of the bargain. <span class=\"refLink\" data-ref=\"Bava Metzia 51a:5\" href=\"/Bava_Metzia.51a.5\">Ib. 51ᵃ</span> <span dir=\"rtl\">לוקח מקחו בידו</span> the purchaser has his purchase in his possession (and can show it to his friends to have it valued); and see from—אבן המ׳ <i>auction-stone</i> for slaves. Sifra B’har Chaldaic VII, Parah 6 (<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 667:2\" href=\"/Yalkut_Shimoni_on_Torah.667.2\">Yalkut Vayikra 667</span> <span dir=\"rtl\">הלקח</span>), see <span class=\"refLink\" data-ref=\"Jastrow, סִימְטָא ² 1\" href=\"/Jastrow,_סִימְטָא ².1\"><span dir=\"rtl\">סִימְטָא</span> I</span>.—<span dir=\"rtl\">מ׳ וממכר</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מִמְכָּר 1\" dir=\"rtl\" href=\"/Jastrow,_מִמְכָּר.1\">מִמְכָּר</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, מִקָּח 1",
+              "sourceHeRef": "מילון יסטרוב, מִקָּח א׳",
+              "sourceRef": "Jastrow, מִקָּח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בטול מקח לא שכיח</strong> - ואין שבח זה חשוב להם במידי דלא שכיח וכי מיקרי והוי נמי הרי נתן לו שהות כל היום לחזור ורוב הנמלכים נמלכים בו ביום הלכך פגם דשתות עצמה עדיף להו:",
+              "ref": "Rashi on Bava Metzia 50b:7:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ז:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>בטול מקח לא שכיח</b> <span class=\"hebrew-emphasis\">[אינו מצוי]</span> ולא הביאו בחשבון להעמיד את מסחרם בהתחשב בטעויות בלתי מצויות.",
+              "ref": "Steinsaltz on Bava Metzia 50b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:ז",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b>Nullification of the transaction is uncommon,</b> and therefore the merchants of Lod did not take that into consideration when calculating which ruling was most advantageous.",
+      "he": "בִּטּוּל מִקָּח לָא שְׁכִיחַ.",
+      "ref": "Bava Metzia 50b:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מִקָּח</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\">לָקַח</span>) <br><b>1)</b> <i>taking.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:22\" href=\"/Pirkei_Avot.4.22\">Pirkei Avot IV, 22</span> <span dir=\"rtl\">מִקַּח שוחד</span> bribe-taking. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 9:5\" href=\"/Mishnah_Pesachim.9.5\">Pesachim IX, 5</span> <span dir=\"rtl\">מִקְּחוֹ מבעשור</span> it must be selected (designated) on the tenth day of the month (<span class=\"refLink\" data-ref=\"Exodus 12:3\" href=\"/Exodus.12.3\">Shemot XII, 3</span>). <br><b><br>—2)</b> (traditional pronunc.) <span class=\"refLink\" data-ref=\"Jastrow, מִקָּח 1\" dir=\"rtl\" href=\"/Jastrow,_מִקָּח.1\">מֶקַח</span> <i>buying, purchase, bargain</i>. Ib. 112ᵇ <span dir=\"rtl\">אל תעמוד על המ׳ וכ׳</span> do not stand bargaining when you have no money. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 4:3\" href=\"/Mishnah_Bava_Metzia.4.3\">Bava Metzia IV, 3</span> <span dir=\"rtl\">שתות למ׳</span> if the overcharge amounts to one sixth of the price paid. <span class=\"refLink\" data-ref=\"Bava Metzia 50a:1\" href=\"/Bava_Metzia.50a.1\">Ib. 50ᵃ</span> <span dir=\"rtl\">תן לי מִקְחִי</span> give me back my goods. <span class=\"refLink\" data-ref=\"Bava Metzia 50b:9\" href=\"/Bava_Metzia.50b.9\">Ib. 50ᵇ</span> <span dir=\"rtl\">ביטול מ׳</span> annulment of the bargain. <span class=\"refLink\" data-ref=\"Bava Metzia 51a:5\" href=\"/Bava_Metzia.51a.5\">Ib. 51ᵃ</span> <span dir=\"rtl\">לוקח מקחו בידו</span> the purchaser has his purchase in his possession (and can show it to his friends to have it valued); and see from—אבן המ׳ <i>auction-stone</i> for slaves. Sifra B’har Chaldaic VII, Parah 6 (<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 667:2\" href=\"/Yalkut_Shimoni_on_Torah.667.2\">Yalkut Vayikra 667</span> <span dir=\"rtl\">הלקח</span>), see <span class=\"refLink\" data-ref=\"Jastrow, סִימְטָא ² 1\" href=\"/Jastrow,_סִימְטָא ².1\"><span dir=\"rtl\">סִימְטָא</span> I</span>.—<span dir=\"rtl\">מ׳ וממכר</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מִמְכָּר 1\" dir=\"rtl\" href=\"/Jastrow,_מִמְכָּר.1\">מִמְכָּר</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, מִקָּח 1",
+              "sourceHeRef": "מילון יסטרוב, מִקָּח א׳",
+              "sourceRef": "Jastrow, מִקָּח 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>Rav Naḥman says:</b> With regard to <b>brothers who divided</b> property received as an inheritance, <b>they are</b> considered <b>like</b> they are <b>purchasers</b> from each other, and the <i>halakhot</i> of fraud are like those for regular transactions: If there was an error of <b>less than one-sixth</b> in the distribution, the <b>transaction is acquired,</b> i.e., valid. If it was <b>more than one-sixth,</b> the <b>transaction is void.</b> If the error was precisely <b>one-sixth,</b> it is <b>acquired, and</b> the one who received more than his fair share <b>must return</b> the amount of the <b>fraud.</b>",
+                "<b>Rava says: That which we said,</b> that with regard to <b>less than one-sixth</b> the <b>transaction</b> is valid and the item <b>is acquired, we said only</b> in a case <b>where</b> the brother receiving a smaller share <b>did not appoint an agent</b> to deal with the distribution on his behalf. <b>But if</b> the brother receiving a smaller share <b>appointed an agent,</b> this <i>halakha</i> does not apply, as the one who appointed the agent can <b>say: I sent you to</b> act for <b>my benefit and not to my detriment.</b> The agent’s right to act in this capacity did not extend to a case where it was to the detriment of the one who appointed him.",
+                "Rava continues: <b>And that which we said,</b> that if the brothers erred by <b>more than one-sixth</b> the <b>transaction is void, we said only when</b> the brother receiving a smaller share <b>did not say: Let us divide</b> the estate <b>by an appraisal of the court. But</b> if <b>he said: Let us divide</b> it <b>by an appraisal of the court, the transaction is valid, as we learned</b> in a mishna (<i>Ketubot</i> 99b): This is the <i>halakha</i> with regard to <b>the appraisal</b> of an article’s value in order to sell it, as done by <b>the judges:</b> In a case <b>where they decreased</b> the price by <b>one-sixth</b> of its market value <b>or added one-sixth</b> to its market value, <b>their sale is void. Rabban Shimon ben Gamliel says: Their sale is valid.</b>",
+                "Rava continues: <b>And that which we said,</b> that if the brothers erred by <b>one-sixth</b> the one receiving a larger share <b>acquired</b> it <b>and he must return</b> the amount of the <b>fraud, we said only with regard to movable property. But with regard to land,</b> the <i>halakha</i> is that <b>there is no fraud with regard to land. And with regard to land, we said</b> that the <i>halakha</i> of fraud does not apply <b>only when they divided</b> it <b>according to the value</b> of the land. <b>But</b> if <b>they divided</b> it <b>by measure</b> and erred in the measurement, we do <b>not</b> say that there is no fraud. This is in accordance <b>with</b> the statement <b>of Rabba, as Rabba said: Any matter that is according to measure, or according to weight, or according to number,</b> if it turned out to be in error, <b>even</b> if the error was <b>less than the amount</b> that constitutes <b>fraud,</b> it <b>is also returned.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 42b:2",
+                "Kiddushin 42b:3",
+                "Kiddushin 42b:4",
+                "Kiddushin 42b:5"
+              ],
+              "he": [
+                "אָמַר רַב נַחְמָן: הָאַחִין שֶׁחָלְקוּ הֲרֵי הֵן כְּלָקוֹחוֹת. פָּחוֹת מִשְּׁתוּת – נִקְנֶה מִקָּח. יָתֵר עַל שְׁתוּת – בָּטֵל מִקָּח. שְׁתוּת – קָנָה, וּמַחְזִיר אוֹנָאָה.",
+                "אָמַר רָבָא: הָא דַּאֲמַרַן ״פָּחוֹת מִשְּׁתוּת – נִקְנֶה מִקָּח״ – לָא אֲמַרַן אֶלָּא דְּלָא שַׁוְּיֵהּ שָׁלִיחַ, אֲבָל שַׁוְּיֵהּ שָׁלִיחַ, אָמַר: לְתַקּוֹנֵי שַׁדַּרְתָּיךָ וְלָא לְעַוּוֹתֵי.",
+                "וְהָא דַּאֲמַרַן ״יָתֵר מִשְּׁתוּת – בָּטֵל מִקָּח״ – לָא אֲמַרַן אֶלָּא דְּלָא אָמַר <span class=\"parenthesized\">(נִיפְלִיגַן)</span> [נִפְלוֹג] בְּשׁוּמָא דְּבֵי דִינָא, אֲבָל אָמַר נִפְלוֹג בְּשׁוּמָא דְּבֵי דִינָא – מִכְרָן קַיָּים, דִּתְנַן: שׁוּם הַדַּיָּינִים שֶׁפִּיחֲתוּ שְׁתוּת אוֹ הוֹתִירוּ שְׁתוּת – מִכְרָן בָּטֵל. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: מִכְרָן קַיָּים.",
+                "וְהָא דַּאֲמַרַן ״שְׁתוּת – קָנָה, וּמַחְזִיר אוֹנָאָה״ – לָא אֲמַרַן אֶלָּא בְּמִטַּלְטְלֵי, אֲבָל בִּמְקַרְקְעֵי – אֵין אוֹנָאָה לְקַרְקָעוֹת. וּבִמְקַרְקְעֵי לָא אֲמַרַן, אֶלָּא דִּפְלוּג בְּעִילּוּיָא, אֲבָל פְּלוּג בְּמִשְׁחֲתָא – לָא, כִּדְרַבָּה. דְּאָמַר רַבָּה: כׇּל דָּבָר שֶׁבְּמִדָּה וְשֶׁבְּמִשְׁקָל וְשֶׁבְּמִנְיָן, אֲפִילּוּ פָּחוֹת מִכְּדֵי אוֹנָאָה – נָמֵי חוֹזֵר."
+              ],
+              "link": "/Kiddushin/42b",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 42b:2"
+              ],
+              "ref": "Kiddushin 42b:2-5",
+              "sourceHeRef": "קידושין מ״ב ב",
+              "sourceRef": "Kiddushin 42b"
+            },
+            {
+              "en": [
+                [
+                  "<b>Rav Huna says: If</b> the buyer <b>comes to sift</b> the produce to check if there is more than the acceptable proportion of impurities and he finds that there is too much, <b>he sifts all of it</b> and returns all the impurities to the seller, not just the amount in excess of a quarter-<i>kav</i> per <i>se’a</i>. The seller must instead provide produce that is free of any impurities. <b>Some say</b> that this is the strict <b><i>halakha</i>, and some say</b> that it is <b>a penalty.</b>",
+                  "The Gemara elaborates: <b>Some say</b> that this is the strict <b><i>halakha</i>,</b> as <b>one who gives money</b> for produce <b>gives</b> it <b>for good-quality produce</b> containing no impurities at all. Even so, where there is just <b>a quarter</b>-<i>kav</i> of impurities per <i>se’a</i>, <b>a person will not take the trouble</b> to sift the grain to remove the impurities; instead, he accepts the small quantity of impurities that are present. By contrast, where there is <b>more than a quarter-</b><i>kav</i> of impurities per <i>se’a</i>, <b>a person will take the trouble</b> to sift the grain to remove the impurities, <b>and once he takes the trouble</b> to sift the grain, he does not stop once he reduces the proportion of impurities to a quarter-<i>kav</i> per <i>se’a</i>; rather, <b>he takes the trouble</b> to sift <b>all of it.</b> Accordingly, once he has sifted out the impurities, he never agrees to accept any quantity of impurities, and so the seller must take back all the impurities.",
+                  "<b>And some say</b> it is <b>a penalty.</b> They understand that it is <b>usual</b> for <b>a quarter-</b><i>kav</i> of impurities to be present in each <i>se’a</i> of produce, and so it is presumed that a buyer accepts that quantity. <b>More</b> than a quarter-<i>kav</i> <b>is unusual, and</b> consequently the seller is suspected of having deceitfully <b>mixed</b> additional impurities into the produce that he sold. <b>And since</b> the seller deceitfully <b>mixed</b> in impurities, <b>the Sages penalized him</b> by requiring him to pay for <b>all of</b> the impurities present, even those which he did not add.",
+                  "The Gemara presents <b>a mnemonic</b> for the cases it will cite: <b>All two documents of Ravin bar Rav Naḥman</b> are <b>exploitation and a contract.</b>",
+                  "The Gemara <b>raises an objection</b> to Rav Huna’s ruling from a mishna (<i>Kilayim</i> 2:1): With regard to <b>any <i>se’a</i></b> of seeds <b>that contains a quarter</b>-<i>kav</i> or more of seeds <b>of a different kind,</b> before sowing such seeds <b>one must reduce</b> the quantity of the other kind of seeds in the mixture so as not to violate the prohibition against growing a mixture of diverse kinds (see Leviticus 19:19). The Gemara explains: It can be <b>assumed that</b> the presence of <b>a quarter-</b><i>kav</i> of seeds of a different kind per <i>se’a</i> <b>with regard to</b> the prohibition of <b>diverse kinds is as</b> problematic as <b>more than a quarter-</b><i>kav</i> of impurities per <i>se’a</i> <b>with regard to</b> a sale, as discussed <b>here, and</b> therefore, since the mishna <b>teaches</b> with regard to diverse kinds only that <b>one must reduce</b> the additional amount, but not that one is required to remove all the seeds of a different kind, it follows that the same is true in the case of a sale, and the seller should not have to take back all of the impurities. This contradicts Rav Huna’s ruling.",
+                  "The Gemara deflects the challenge: <b>No,</b> this assumption is not necessarily correct; perhaps the presence of <b>a quarter-</b><i>kav</i> of seeds of a different kind per <i>se’a</i> <b>with regard to diverse kinds is comparable to a quarter-</b><i>kav</i> of impurities per <i>se’a</i> <b>with regard to</b> a sale, as discussed <b>here,</b> and both are considered acceptable levels of admixture.",
+                  "The Gemara asks: <b>If</b> it is <b>so</b> that a quarter-<i>kav</i> of seeds of a different kind per <i>se’a</i> is acceptable, <b>why</b> does the mishna teach that <b>one must reduce</b> the quantity of seeds of a different kind? The Gemara answers: The requirement is a rabbinic decree <b>due to the severity of</b> the prohibition of <b>diverse kinds.</b>",
+                  "The Gemara challenges this answer: <b>If so,</b>"
+                ],
+                [
+                  "<b>say the latter clause</b> of the mishna: <b>Rabbi Yosei says:</b> It is insufficient to merely reduce the quantity of seeds of a different kind; rather, <b>one must pick out</b> all the seeds of a different kind.",
+                  "The Gemara explains the difficulty: <b>Granted, if you say</b> that a quarter-<i>kav</i> of seeds of a different kind per <i>se’a</i> with regard to diverse kinds <b>is comparable to more than a quarter-</b><i>kav</i> <b>of impurities</b> per <i>se’a</i> with regard to a sale, then it is <b>about this that they disagree: The first <i>tanna</i> holds that we do not penalize</b> one by requiring him to remove <b>that which is permitted due to that which is prohibited,</b> and consequently it is sufficient to merely reduce the quantity of seeds of a different kind to an acceptable level, <b>whereas Rabbi Yosei holds</b> that <b>we</b> do <b>penalize</b> one by requiring him to remove that which is permitted due to that which is prohibited. <b>But if you say</b> that a quarter-<i>kav</i> of seeds of a different kind per <i>se’a</i> with regard to diverse kinds <b>is comparable to a quarter-</b><i>kav</i> of impurities per <i>se’a</i> with regard to a sale, then <b>why</b> does Rabbi Yosei rule that <b>one must pick out</b> all the seeds of a different kind?",
+                  "The Gemara answers: <b>There,</b> with regard to diverse kinds, <b>this is the reasoning of Rabbi Yosei:</b> One must pick out all the seeds, <b>because</b> once he is purifying the admixture of seeds, if he deliberately leaves a quantity of seeds of a different kind mixed in, <b>it appears as though he is</b> intentionally planting and <b>maintaining diverse kinds</b> in his field.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> another challenge to Rav Huna’s ruling from a mishna (<i>Bava Metzia</i> 37a): In the case of <b>two</b> people <b>who deposited</b> money <b>with one</b> person, and <b>this</b> one deposited <b>one hundred dinars and that</b> one deposited <b>two hundred</b> dinars, and when they return to collect their deposits, <b>this</b> one <b>says: My</b> deposit was <b>two hundred</b> dinars, <b>and that</b> one <b>says: My</b> deposit was <b>two hundred</b> dinars, the bailee <b>gives one hundred dinars to this</b> one <b>and one hundred dinars to that</b> one, <b>and the rest</b> of the money, i.e., the contested one hundred dinars, <b>will be placed</b> in a safe place <b>until Elijah comes</b> and prophetically determines the truth. In this case, one of the parties is certainly lying, but nevertheless, the Sages did not penalize the parties by placing all of the money in a safe place. Similarly, in the case of a sale, where a seller deceitfully mixed additional impurities into the produce he sold, he should not be penalized and required to take back all of the impurities.",
+                  "The Gemara rejects this challenge: <b>How can</b> these cases <b>be compared? There,</b> in the case of the deposits, <b>it is certain</b> that at least <b>one hundred dinars</b> belongs <b>to</b> this <b>Master and one hundred dinars</b> belongs <b>to</b> that <b>Master. Here,</b> in the case of a sale where there is an unacceptable proportion of impurities mixed in, <b>who can say that</b> the seller <b>did not mix in the entire</b> amount intentionally? Accordingly, no proof can be drawn from the mishna.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> a support for Rav Huna’s ruling <b>from the latter clause</b> of that mishna: <b>Rabbi Yosei says: If so, what did the swindler lose?</b> He lost nothing by claiming the one hundred dinars that belongs to another, and he has no incentive to admit the truth. <b>Rather, the entire</b> deposit <b>will be placed</b> in a safe place <b>until Elijah comes.</b> Since through his lie the swindler risks losing even the one hundred dinars that he deposited, perhaps that will induce him to admit his deceit. According to Rabbi Yosei, the Sages did penalize one who acts deceitfully, which accords with Rav Huna’s ruling.",
+                  "The Gemara rejects the proof: <b>How can</b> these cases <b>be compared? There,</b> in the case of the deposits, <b>there is certainly a swindler,</b> and it is reasonable to penalize both parties in order to induce the swindler to admit his deceit. <b>Here,</b> in the case of a sale where there is an unacceptable level of impurities mixed in with the produce, <b>who can say that</b> the seller intentionally <b>mixed in</b> anything? Perhaps the impurities were inadvertently mixed in during the processing. Accordingly, no proof can be drawn from the mishna.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> another support for Rav Huna’s ruling from a <i>baraita</i>: In the case of a promissory <b>note in which</b> the details of a loan with <b>interest</b> were written, the court <b>penalizes</b> the creditor, <b>and he may collect neither the principal nor the interest;</b> this is <b>the statement of Rabbi Meir.</b> According to Rabbi Meir, the Sages did penalize one who acts improperly, which accords with Rav Huna’s ruling.",
+                  "The Gemara rejects the proof: <b>How can</b> these cases <b>be compared? There,</b> in the case of a loan with interest, it is already <b>at the time of the writing</b> of the bill that the lender <b>performed the</b> transgression of <b>placing</b> interest upon the borrower. Since he certainly committed a transgression, it is reasonable that the Sages penalized him. But <b>here,</b> in the case of a sale where there is an unacceptable proportion of impurities mixed in with the produce, <b>who can say that</b> the seller intentionally <b>mixed in</b> anything? Perhaps the impurities were inadvertently mixed in during the processing. Accordingly, no proof can be drawn from the <i>baraita</i>.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> a challenge to Rav Huna’s ruling <b>from the latter clause</b> of the <i>baraita</i>: <b>But the Rabbis say: He may collect the principal but may not collect the interest.</b> According to Rabbi Meir, the Sages did not penalize one who acts improperly, contrary to Rav Huna’s ruling.",
+                  "The Gemara rejects this challenge: <b>How can</b> these cases <b>be compared? There,</b> in the case of a loan with interest, according to strict <i>halakha</i> it <b>is certainly permitted</b> to collect <b>the principal,</b> so the Sages did not penalize him with regard to it. But <b>here,</b> in the case of a sale where there is an unacceptable proportion of impurities mixed in, <b>who can say that</b> the seller <b>did not mix in the entire</b> amount intentionally? Accordingly, no proof can be drawn from the mishna.",
+                  "<b>Come</b> and <b>hear</b> further support for Rav Huna’s ruling from <b>that</b> which <b>Ravin bar Rav Naḥman teaches</b> (104b). Ravin bar Rav Naḥman’s statement is with regard to a situation when land that was sold is later found to be larger than stated at the time of the sale. If the deviation is not more than an area required to sow a quarter-<i>kav</i> of seed per <i>beit se’a</i> of land, then the buyer need not return any land to the seller. If the proportion of extra land is larger than this, <b>not only must</b> the buyer <b>return the extra</b> land that is beyond the limit of a quarter-<i>kav</i> area per <i>beit se’a</i>, <b>but he must</b> also <b>return to him every one of the</b> extra <b>quarter-</b><i>kav</i> areas of land that he received beyond the stated area of a <i>beit kor</i>. The Gemara infers: <b>Apparently, when one is required to return</b> part of a sale because of a discrepancy that is beyond the acceptable limit of deviation, then <b>one is required to return</b> the <b>entire</b> discrepancy and not just the amount that is beyond the acceptable limit. This supports Rav Huna’s ruling.",
+                  "The Gemara rejects this: <b>How can</b> these cases <b>be compared?</b>"
+                ],
+                [
+                  "<b>There,</b> in the case of the sale of land, the reason the buyer may keep the extra land when it is less than the acceptable limit is that the seller <b>said to him:</b> I am selling you this piece of land <b>whether it is</b> slightly <b>less or</b> slightly <b>more</b> than a <i>beit kor</i>, i.e., he agrees to accept a small deviation from the stated area. <b>But</b> while an extra <b>quarter</b>-<i>kav</i> area per <i>beit se’a</i> is <b>not significant,</b> and therefore the seller is willing to forgo it, <b>more than a quarter</b>-<i>kav</i> area per <i>beit se’a</i> <b>is significant,</b> and the seller is not willing to forgo any of it. Consequently, all of the extra land must be returned. By contrast, in the case of Rav Huna’s ruling, the buyer is aware that it is normal to have a certain proportion of impurities mixed in and accepts this possibility from the outset. Accordingly, even if the proportion of impurities is greater than the acceptable limit, it might be sufficient if the seller takes back only the quantity of impurities above the acceptable limit.",
+                  "The Gemara explains why more than an area required to sow a quarter-<i>kav</i> of seed per <i>beit se’a</i> of land is significant: The reason is <b>that since</b> all those extra areas of land <b>are fit to combine together to</b> form an area in which one could sow <b>nine <i>kav</i></b> of seed, the extra land <b>is a significant plot of land in its own right, and</b> therefore <b>it must</b> all <b>be returned.</b> The land that was sold was stated to be a <i>beit kor</i>, which is thirty <i>beit se’a</i>. If the area of the extra land was of a proportion somewhat more than an area required to sow a quarter-<i>kav</i> of seed per <i>beit se’a</i> of land, then thirty such areas would collectively be about equal to an area required to sow nine <i>kav</i>.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> a support for Rav Huna’s ruling from a <i>baraita</i>: <b>The</b> <i>halakha</i> of price <b>exploitation</b> is that if the disparity is <b>less than one-sixth</b> of the value of the merchandise, the <b>merchandise is acquired</b> immediately and the sum of the exploitation need not be returned. If the disparity is <b>greater than one-sixth,</b> then <b>the transaction is nullified.</b> If the disparity is precisely <b>one-sixth,</b> the buyer has <b>acquired</b> the merchandise, <b>and</b> the one who benefited from the exploitation <b>returns</b> the entire sum of the <b>exploitation.</b>",
+                  "The Gemara explains the proof: <b>Why,</b> in the case where the disparity is precisely one-sixth, is the entire sum of the exploitation returned? Instead, <b>let him return</b> only a small amount of the exploitation <b>until</b> the difference is <b>less than one-sixth.</b> The Gemara concludes: <b>Learn from</b> the fact that he must return the entire sum that <b>when one is required to return</b> part of a sale because of a discrepancy that is beyond the acceptable limit of deviation, <b>one is required to return</b> the <b>entire</b> discrepancy and not just the amount that is beyond the acceptable limit. This supports Rav Huna’s ruling.",
+                  "The Gemara rejects this: <b>How can</b> these cases <b>be compared? There,</b> in the case of exploitation, the seller <b>initially said to</b> the buyer that he would sell the merchandise for a sum <b>equal to its value.</b> Any price difference should be unacceptable. <b>But</b> a disparity of <b>less than one-sixth is not recognizable in</b> a sale worth <b>one hundred dinars, and a person</b> will <b>forgo</b> it. By contrast, a disparity of <b>one-sixth is considered</b> significant, <b>and a person will not forgo</b> it. Consequently, the entire sum of the exploitation must be returned. If the disparity is <b>greater than one-sixth, it is a mistaken transaction and the transaction is nullified.</b> By contrast, in the case of Rav Huna’s ruling, the buyer is aware that it is normal to have a certain proportion of impurities mixed in and accepted that possibility from the outset. Accordingly, even if the proportion of impurities was greater than the acceptable limit, it might be sufficient if the seller takes back only the quantity of impurities above the acceptable limit.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> a support for Rav Huna’s ruling from a <i>baraita</i>: When <b>one receives a field from another</b> under a contract <b>to plant</b> trees in it, then <b>this</b> field owner <b>accepts upon himself</b> that there may be <b>ten deficient trees per</b> every <b>hundred</b> trees planted, as he is aware that not every tree planted will necessarily flourish. If the number of deficient trees is <b>more than this,</b> the court <b>imposes upon him</b> the responsibility to replace <b>all</b> of those trees, and not only the number of trees above the acceptable limit. This supports Rav Huna’s ruling.",
+                  "<b>Rav Huna, son of Rav Yehoshua, said:</b> There is no proof from this case, because <b>any</b> time there are <b>more than this</b> number of deficient trees, the overall area that contains the deficient trees is of a size equivalent to a whole field. Therefore, the contractor is <b>comparable to one who comes to plant</b> a whole field <b>from the outset,</b> who has not fulfilled his remit if he plants only a few trees; rather, he must plant the entire area. But in the case of Rav Huna’s ruling, the impurities never constitute an independent unit; consequently, it might be sufficient if the seller takes back only the quantity of impurities that is above the acceptable limit."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 94a:7",
+                "Bava Batra 94a:8",
+                "Bava Batra 94a:9",
+                "Bava Batra 94a:10",
+                "Bava Batra 94a:11",
+                "Bava Batra 94a:12",
+                "Bava Batra 94a:13",
+                "Bava Batra 94a:14",
+                "Bava Batra 94b:1",
+                "Bava Batra 94b:2",
+                "Bava Batra 94b:3",
+                "Bava Batra 94b:4",
+                "Bava Batra 94b:5",
+                "Bava Batra 94b:6",
+                "Bava Batra 94b:7",
+                "Bava Batra 94b:8",
+                "Bava Batra 94b:9",
+                "Bava Batra 94b:10",
+                "Bava Batra 94b:11",
+                "Bava Batra 94b:12",
+                "Bava Batra 94b:13",
+                "Bava Batra 95a:1",
+                "Bava Batra 95a:2",
+                "Bava Batra 95a:3",
+                "Bava Batra 95a:4",
+                "Bava Batra 95a:5",
+                "Bava Batra 95a:6",
+                "Bava Batra 95a:7"
+              ],
+              "he": [
+                [
+                  "אָמַר רַב הוּנָא: אִם בָּא לְנַפּוֹת, מְנַפֶּה אֶת כּוּלּוֹ. אָמְרִי לַהּ דִּינָא, וְאָמְרִי לַהּ קִנְסָא.",
+                  "אָמְרִי לַהּ דִּינָא – מַאן דְּיָהֵיב זוּזֵי, אַפֵּירֵי שַׁפִּירֵי יָהֵיב; וְרוֹבַע לָא טָרַח אִינִישׁ, יוֹתֵר מֵרוֹבַע טָרַח אִינִישׁ; וְכֵיוָן דְּטָרַח – טָרַח בְּכוּלֵּיהּ.",
+                  "וְאָמְרִי לַהּ קִנְסָא – רוֹבַע שְׁכִיחַ, יוֹתֵר לָא שְׁכִיחַ; וְאִיהוּ הוּא דְּעָרֵיב; וְכֵיוָן דְּעָרֵיב – קַנְסוּהוּ רַבָּנַן בְּכוּלֵּיהּ.",
+                  "<span class=\"parenthesized\">(סִימָן: כֹּל תְּרֵי שְׁטָרֵי דְּרָאבִין בַּר רַב נַחְמָן, אוֹנָאָה וְקַבְּלָנוּתָא.)</span>",
+                  "מֵיתִיבִי: כׇּל סְאָה שֶׁיֵּשׁ בָּהּ רוֹבַע מִמִּין אַחֵר – יְמַעֵט. סַבְרוּהָ דְּרוֹבַע דְּכִלְאַיִם – כְּיוֹתֵר מֵרוֹבַע דְּהָכָא, וְקָא תָנֵי: יְמַעֵט!",
+                  "לֹא, רוֹבַע דְּכִלְאַיִם – כִּי רוֹבַע דְּהָכָא דָּמֵי.",
+                  "אִי הָכִי, אַמַּאי יְמַעֵט? מִשּׁוּם חוּמְרָא דְכִלְאַיִם.",
+                  "אִי הָכִי,"
+                ],
+                [
+                  "אֵימָא סֵיפָא – רַבִּי יוֹסֵי אוֹמֵר: יָבוֹר.",
+                  "אִי אָמְרַתְּ בִּשְׁלָמָא כְּיוֹתֵר מֵרוֹבַע טִנּוֹפֶת דָּמֵי, בְּהָא קָא מִיפַּלְגִי – תַּנָּא קַמָּא סָבַר: לָא קָנְסִינַן הֶתֵּירָא אַטּוּ אִיסּוּרָא, וְרַבִּי יוֹסֵי סָבַר: קָנְסִינַן. אֶלָּא אִי אָמְרַתְּ כְּרוֹבַע דָּמֵי, אַמַּאי יָבוֹר?",
+                  "הָתָם הַיְינוּ טַעְמָא דְּרַבִּי יוֹסֵי – מִשּׁוּם דְּמִיחֲזֵי כִּי מְקַיֵּים כִּלְאַיִם.",
+                  "תָּא שְׁמַע: שְׁנַיִם שֶׁהִפְקִידוּ אֵצֶל אֶחָד, זֶה מָנֶה וְזֶה מָאתַיִם; זֶה אוֹמֵר: ״מָאתַיִם שֶׁלִּי״, וְזֶה אוֹמֵר: ״מָאתַיִם שֶׁלִּי״ – נוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה, וְהַשְּׁאָר יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ!",
+                  "הָכִי הַשְׁתָּא?! הָתָם, וַדַּאי מָנֶה לְמָר וּמָנֶה לְמָר; הָכָא, מִי יֵימַר דְּלָאו כּוּלֵּיהּ עָרוֹבֵי עָרֵיב?",
+                  "תָּא שְׁמַע מִסֵּיפָא – אָמַר רַבִּי יוֹסֵי: אִם כֵּן, מָה הִפְסִיד הָרַמַּאי? אֶלָּא הַכֹּל יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+                  "הָכִי הַשְׁתָּא?! הָתָם וַדַּאי אִיכָּא רַמַּאי, הָכָא מִי יֵימַר דְּעָרוֹבֵי עָרֵיב.",
+                  "תָּא שְׁמַע: שְׁטָר שֶׁיֵּשׁ בּוֹ רִבִּית – קוֹנְסִין אוֹתוֹ, וְאֵינוֹ גּוֹבֶה לֹא אֶת הַקֶּרֶן וְלֹא אֶת הָרִבִּית; דִּבְרֵי רַבִּי מֵאִיר!",
+                  "הָכִי הַשְׁתָּא?! הָתָם מִשְּׁעַת כְּתִיבָה הוּא דַּעֲבַד לֵיהּ שׂוּמָא, הָכָא מִי יֵימַר דְּעָרוֹבֵי עָרֵיב.",
+                  "תָּא שְׁמַע מִסֵּיפָא – וַחֲכָמִים אוֹמְרִים: גּוֹבֶה אֶת הַקֶּרֶן, וְאֵינוֹ גּוֹבֶה אֶת הָרִבִּית!",
+                  "הָכִי הַשְׁתָּא?! הָתָם וַדַּאי קַרְנָא דְּהֶתֵּירָא הוּא, הָכָא מִי יֵימַר דְּכוּלֵּיהּ לָא עָרוֹבֵי עָרֵיב.",
+                  "תָּא שְׁמַע, דְּתָנֵי רָבִין בַּר רַב נַחְמָן: לֹא אֶת הַמּוֹתָר בִּלְבַד הוּא מַחֲזִיר, אֶלָּא מַחֲזִיר לוֹ אֶת כָּל הָרְבָעִין כּוּלָּן. אַלְמָא הֵיכָא דְּבָעֵי אַהְדּוֹרֵי – כּוּלַּהּ מַהְדַּר!",
+                  "הָכִי הַשְׁתָּא?!"
+                ],
+                [
+                  "הָתָם, ״הֵן חָסֵר הֵן יָתֵיר״ אֲמַר לֵיהּ, מִיהוּ רְבִיעַ לָא חֲשִׁיב; יָתֵר מֵרְבִיעַ – חֲשִׁיב,",
+                  "דְּכֵיוָן דַּחֲזֵי לֵיהּ לְאִיצְטְרוֹפֵי בְּתִשְׁעַת קַבִּין, הָוְיָא לַהּ אַרְעָא חֲשִׁיבְתָּא בְּאַפֵּי נַפְשָׁא; וְהָדְרָא.",
+                  "תָּא שְׁמַע: הָאוֹנָאָה; פָּחוֹת מִשְּׁתוּת – נִקְנֶה מִקָּח, יוֹתֵר מִשְּׁתוּת – בָּטֵל מִקָּח. שְׁתוּת – קָנָה, וּמַחְזִיר אוֹנָאָה.",
+                  "אַמַּאי? לַיהְדַּר עַד פָּחוֹת מִשְּׁתוּת! שְׁמַע מִינַּהּ, כׇּל הֵיכִי דְּבָעֵי לְאַהְדּוֹרֵי – כּוּלַּהּ מַהְדַּר!",
+                  "הָכִי הַשְׁתָּא?! הָתָם, מֵעִיקָּרָא שָׁוֶה בְּשָׁוֶה אֲמַר לֵיהּ, מִיהוּ, פָּחוֹת מִשְּׁתוּת לָא יְדִיעָה בְּמָנֶה, וּמָחֵיל אִינִישׁ; שְׁתוּת – יְדִיעָה, וְלָא מָחֵיל אִינִישׁ, יָתֵר מִשְּׁתוּת – מִקָּח טָעוּת הוּא, וּבָטֵל מִקָּח.",
+                  "תָּא שְׁמַע: הַמְקַבֵּל שָׂדֶה מֵחֲבֵרוֹ לִיטַּע – הֲרֵי זֶה מְקַבֵּל עָלָיו עֶשֶׂר בּוֹרִיּוֹת לְמֵאָה. יוֹתֵר מִכָּאן – מְגַלְגְּלִין עָלָיו אֶת הַכֹּל.",
+                  "אָמַר רַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ: כׇּל יָתֵר מִכָּאן, כְּבָא לִיטַּע מִתְּחִלָּה דָּמֵי."
+                ]
+              ],
+              "link": "/Bava Batra/95a",
+              "originalRefsBeforeRewriting": [
+                "Bava Batra 95a:3"
+              ],
+              "ref": "Bava Batra 94a:7-95a:7",
+              "sourceHeRef": "בבא בתרא צ״ה א",
+              "sourceRef": "Bava Batra 95a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If the unfair gain was even the slightest amount less than that - e.g., the person sold an article worth sixty <i>dinarim</i> for fifty <i>dinarim</i> and a <i>p'rutah,</i> he is not required to return anything. For it is common for people to waive any loss less than one sixth of the article's value.",
+              "he": "הָיְתָה הַהוֹנָיָה פָּחוֹת מִזֶּה בְּכָל שֶׁהוּא. כְּגוֹן שֶׁמָּכַר שְׁוֵה שִׁשִּׁים דִּינָר בַּחֲמִשִּׁים וּפְרוּטָה. אֵינוֹ חַיָּב לְהַחְזִיר כְּלוּם. שֶׁכָּל פָּחוֹת מִשְּׁתוּת דֶּרֶךְ הַכּל לִמְחל בּוֹ:",
+              "ref": "Mishneh Torah, Sales 12:3",
+              "sourceHeRef": "הלכות מכירה יב:ג",
+              "sourceRef": "Sales 12:3"
+            },
+            {
+              "en": "If the unfair gain was even the slightest amount more than one sixth - e.g., one sold an object worth 60 <i>dinarim</i> for 50 minus a <i>p'rutah,</i> the transaction is nullified. The purchaser may return the object without the transaction being completed at all.<br>The person who took the unfair gain, however, is not entitled to retract if the purchaser desires and seeks to maintain possession of the article, even though the transaction is nullified. The person who received the unfair gain is not obligated to return it unless the unfair gain exceeds a <i>p'rutah.</i> If the unfair gain was exactly a <i>p'rutah,</i> he is not obligated to return it, because the laws of <i>ona'ah</i> do not apply with regard to a <i>p'rutah.</i>",
+              "he": "הָיְתָה הַהוֹנָיָה יְתֵרָה עַל הַשְּׁתוּת בְּכָל שֶׁהוּא. כְּגוֹן שֶׁמָּכַר שְׁוֵה שִׁשִּׁים בַּחֲמִשִּׁים פָּחוֹת פְּרוּטָה. בָּטֵל מִקָּח. וְהַמִּתְאַנֶּה יָכוֹל לְהַחְזִיר הַחֵפֶץ וְלֹא יִקְנֶה כְּלָל. אֲבָל הַמְאַנֶּה אוֹתוֹ אֵינוֹ יָכוֹל לַחְזֹר אִם רָצָה זֶה וְקִבֵּל. וְאַף עַל פִּי שֶׁבָּטַל הַמִּקָּח. אֵין הַמְאַנֶּה חַיָּב לְהַחְזִיר עַד שֶׁתִּהְיֶה הַהוֹנָיָה יֶתֶר עַל פְּרוּטָה. הָיְתָה פְּרוּטָה בְּשָׁוֶה אֵינוֹ מַחְזִיר שֶׁאֵין הוֹנָיָה לִפְרוּטוֹת:",
+              "ref": "Mishneh Torah, Sales 12:4",
+              "sourceHeRef": "הלכות מכירה יב:ד",
+              "sourceRef": "Sales 12:4"
+            },
+            {
+              "en": "How much unfair gain must there be in a transaction for the one who profits to be required to return it? An even sixth.<br>What is implied? If a person sold an article worth six <i>zuz</i> for five, or for seven, or one worth five <i>zuz</i> for six, or one worth seven <i>zuz</i> for six, it is considered to be unfair gain. The transaction is completed, and the person who profited is required to return the entire amount of unfair gain to the one who suffered the loss.",
+              "he": "וְכַמָּה תְּהֵא הוֹנָיָה וְיִהְיֶה חַיָּב לְהָשִׁיב. שְׁתוּת בְּשָׁוֶה. כֵּיצַד. הֲרֵי שֶׁמָּכַר שְׁוֵה שֵׁשׁ בְּחָמֵשׁ. אוֹ שְׁוֵה שֶׁבַע בְּשֵׁשׁ. אוֹ שְׁוֵה חָמֵשׁ בְּשֵׁשׁ. אוֹ שְׁוֵה שֵׁשׁ בְּשֶׁבַע. הֲרֵי זֶה הוֹנָיָה וְנִקְנֶה הַמִּקָּח וְחַיָּב הַמְאַנֶּה לְשַׁלֵּם אֶת הַהוֹנָיָה וּלְהַחֲזִירָהּ כֻּלָּהּ לַמִּתְאַנֶּה:",
+              "ref": "Mishneh Torah, Sales 12:2",
+              "sourceHeRef": "הלכות מכירה יב:ב",
+              "sourceRef": "Sales 12:2"
+            },
+            {
+              "en": "Until when does the purchaser have the right to demand the return of the unfair gain or the nullification of the transaction? Until he has time to show the article to a merchant or to a relative. If he waits longer, even if he purchased an article worth 100 <i>zuz</i> for 200, he may not nullify the transaction.",
+              "he": "עַד מָתַי יִהְיֶה לוֹ לַחְזֹר וְלִתְבֹּעַ הַהוֹנָיָה אוֹ לְבַטֵּל הַמִּקָּח. עַד כְּדֵי שֶׁיַּרְאֶה לְתַגָּר אוֹ לִקְרוֹבוֹ. וְאִם שָׁהָה יוֹתֵר מִזֶּה אֲפִלּוּ לָקַח שְׁוֵה מֵאָה בְּמָאתַיִם אֵינוֹ חוֹזֵר:",
+              "ref": "Mishneh Torah, Sales 12:5",
+              "sourceHeRef": "הלכות מכירה יב:ה",
+              "sourceRef": "Sales 12:5"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שתות קנה ומחזיר אונאה.</b> יש מפרשים, קנה, אם רצה מי שנתאנה קאמר, וגרסינן לקמן [בבא מציעא נא, א] אמר רבא לעולם ר' נתן היא ותני בברייתא רצה. וליתא, דהשתא ברייתא גופה קשיא לן ומשמע לן בין רצה בין לא רצה, וכי מתרצינן ליה, אצטריך רבא למימר דמחסרא, איהו דהוא אמורא מסתם לישניה ומחסר ליה ולא תני רצה, אלא רבא מקח קיים קאמר, וקנה לגמרי אלא דמחזיר אונאה. ולקמן רבה גרסינן דהוא רביה דאביי, והכא גרסינן רבא דהוא רבא בריה דרב יוסף בר חמא. ולי נראה להביא עוד ראיה, מדאמרינן בפרק הספינה <span class=\"parenthesized\">(ב\"ב צ, א)</span> אין מוסיפין על המדות יותר על שתות, ואמרינן עלה מאי טעמא אילימא כי היכי דלא להוי ביטול מקח, והאמר רבא כל דבר שבמדה ושבמנין ושבמשקל אפילו בפחות מכדי אונאה חוזר, ואלו היה אפילו שתות בטל מקח אלו רצה המתאנה, מאי נפקא לן מינה, שאפילו בשתות [יבטל המקח אותו שנתאנה. וא\"ת פעמים שיתאנה מוכר, ורוצה בקיום ממכרו ובלבד] שיחזיר לו לוקח אונאה, ואלו היה מקח בטל היה לוקח חוזר בו לגמרי קודם שיחזיר אונאה, סתמא דמילתא מוכר אינו מתאנה, דאינהו בקיאי בתרעא, וכענין שאמרו בתגרי לוד, ובתגרי לוד לאו דוקא. ומכל מקום הסכמת הגאונים ז\"ל תכריע, שהם ז\"ל הסכימו בדבר זה, דקנה בעל כרחו קאמר.",
+              "ref": "Rashba on Bava Metzia 50b:1",
+              "sourceHeRef": "רשב״א על בבא מציעא נ׳ ב:א",
+              "sourceRef": "Rashba on Bava Metzia 50b:1"
+            },
+            {
+              "en": "",
+              "he": "<b>וזה וזה בכדי שיראה לתגר או לקרובו.</b> פי' שתות ויתר על שתות, אבל פחות משתות לאלתר הויא מחילה, וכדמוכח בסמוך <span class=\"parenthesized\">(נא, א)</span> בעובדי דורשכי וכיפי.",
+              "ref": "Rashba on Bava Metzia 50b:2",
+              "sourceHeRef": "רשב״א על בבא מציעא נ׳ ב:ב",
+              "sourceRef": "Rashba on Bava Metzia 50b:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "איתמר רב כהנא אמר שתות למקח שנינו. ושמואל אמר שתות מעות נמי שנינו. שוי שיתא בחמשא או שוי שיתא בשבע כ\"ע לא פליגי דאזלינן בתר מקח והויא לה אונאה. כי פליגי שוי חמשא בשיתא. או שוי שבעה בשיתא. לשמואל דאמר בתר מעות אזלינן אידי ואידי אונאה הוא. לרב כהנא דאמר בתר מקח אזלינן שוי חמשא בשיתא הוי בטול מקח. שוי שבעה בשיתא הוי מחילה. ושמואל אמר כי אמרי' מחילה ובטול מקח היכא דליכא שתות משני צדדין. אבל היכא דאיכא צד אחד אונאה הויא. והלכתא כוותיה דשמואל. דקי\"ל הלכתא כוותיה בדיני. ועוד דתניא כוותיה. ועוד ראיה מהנהו תרי עובדא דוורשכי ודכיפי דקאמר אתן שית ואתבעיה לדינא מסתמא כוונתו היתה להוציא ממנו ולקיים המקח ולרב כהנא המקח בטל דהוי חומש המקח: אמר רבא הלכתא פחות משתות נקנה מקח ולאלתר הויא מחילה יתר על שתות בטל מקח ויכול המתאנה לבטל המקח ולחזור בו אפי' אם ירצה המאנה להחזיר לו אונאתו. אבל אם רצה הלוקח למחול אונאתו ולעמוד במקחו כגון שהוקר המקח אין המוכר יכול לבטל המקח. דא\"ל לוקח למוכר אי לאו דאוניתני לא מצית הדרת בך השתא דאוניתני מצית הדרת בך. אבל אם המתאנה רוצה לקיים המקח אלא שתובע אונאתו מן המאנה מצי מאנה למימר ליה אם רצונך לעמוד במקח ולוותר על אונאתך הרי טוב ואם לאו החזיר מקחי ואחזיר לך מעותיך. ובכה\"ג אמר יתר על שתות שניהם חוזרין דעל המאנה לחזור אם המתאנה תובע אונאתו. ובפ' המוכר את הספינה כתב בע\"א וכמו שכתבתי שם בשם הר\"ר יונה ז\"ל הוא עיקר. שתות קנה ומחזיר אונאה זה וזה שתות ויתר משתות כדי שיראה לתגר או לקרובו. וכן הלכתא. והיכא דזבין איניש מידי לחבריה ולאחר זמן איתגלי דאית ביה מומא דהוה ביה מעיקרא מקמיה דליזבנה אית ליה לאהדורי למרה. ולא אמרינן בכי האי גוונא שהה ליה כדי שיראה לתגר או לקרובו. דלא אמור רבנן הכי אלא גבי אונאה אבל גבי מומין מקח טעות הוא וכל אימת דמגלי ליה מהדר ליה למריה. והכי כתב רב האי גאון ז\"ל: עד מתי מותר להחזיר עד כדי שיראה לתגר או לקרובו. אמר ר\"נ ל\"ש אלא לוקח אבל מוכר לעולם חוזר. מאי טעמא לוקח נקיט מקחו בידיה וכל היכא דאזיל מחוי ליה ואמרי ליה אי טעה אי לא טעה הלכך עליה דידיה רמי להדורי לאלתר ולידע אם נתאנה. ואם נתעצל ולא חקר לידע אם נתאנה בלא עיכוב אונס מוחל על אונאתו. מוכר ליתיה למקחיה בידיה אלא עד דמתרמי ליה זבינא כזבינתיה וידע אם טעה אי לא טעה הלכך לעולם חוזר עד דמיתבריר דאיתרמי ליה זבינא וידע דטעה ולא הדר ביה:",
+              "ref": "Rosh on Bava Metzia 4:15:2",
+              "sourceHeRef": "פסקי הרא\"ש על בבא מציעא ד:טו:ב",
+              "sourceRef": "Rosh on Bava Metzia 4:15:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "If the defrauded amount is less than this (1/6) by even the smallest amount, for example an item worth seventy went for 60 plus one perutah, he is not obligated to return anything; as anything less than exactly one sixth, as a rule is forgiven by all.",
+              "he": "היתה האונאה פחות מזה בכל שהוא כגון שמכר שוה שבעים בששים ופרוטה אינו חייב להחזיר כלום שכל פחות משתות דרך הכל למחול בו:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 227:3",
+              "sourceHeRef": "חושן משפט רכז:ג - עד כמה הוה מחילה או חזרת האונאה ושליח שטעה ואחים שחלקו וטעו",
+              "sourceRef": "Choshen Mishpat 227:3"
+            },
+            {
+              "en": "",
+              "he": "היתה האונאה יתירה על השתות כל שהוא כגון שמכר שוה ששים בחמשים פחות פרוטה בטל המקח והמתאנה יכול להחזיר החפץ ולא יקנה כלל אבל המאנה אינו יכול לחזור אם רצה זה וקבל <span class=\"hebrew-emphasis\">(וי\"א דאף המאנה יכול לחזור בו אא\"כ נתרצה המתאנה פעם אחת או ששתק יותר מן השיעור שיתבאר בסמוך סעיף ז' (טור בשם הר\"י והרא\"ש) מכר לו שוה ס' בנ\"א או להיפוך דליכא כאן אונאה שתות ולגבי א' הוי ביטול מקח ולגבי שני מחילה אזלינן בתר המקח הן לענין בטול מקח הן לענין מחילה דטעו אינשי במקח ולא במעות) (מרדכי פ' הזהב)</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 227:4",
+              "sourceHeRef": "חושן משפט רכז:ד - עד כמה הוה מחילה או חזרת האונאה ושליח שטעה ואחים שחלקו וטעו",
+              "sourceRef": "Choshen Mishpat 227:4"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ס\"ב </b>כמה תהי' האונאה. נ\"ב מעשה בא לידי בסוחר תבואה אחד שלקח שלשים קארץ חטים וטחן אותם על קמח וכשכבר נעשה הקמח מכרו לאחר כפי ערך שיווי כל ק' חטים בכך וכך כמה יעלה דמי למ\"ד ק' חטים ככה ישלם לו הקונה וידעו מזה המוכר והקונה שכבר נעשה קמח ואח\"כ טוען הקונה שהיה מן החטים הללו מעט קמח שאין דרך להיות מלמ\"ד קארץ חטים מעט קמח כזה ויהי' לו הפסד רב בקני' זו ובאו לפני לדין. ופסקתי כך דודאי המוכר חטים לחברו בעת שהם חטים אף שעשאו אח\"כ קמח מיעוטא אין למוכר בכך כלום. שחטים מכר לו קמח לא מכר לו. ואזלינן בתר שימת החטין ואם נראה לבקיאין שכן חטין כזה שוה כך כפי דמי ממכרו או פחות מעט שאין בו שיעור או אונאה אין ביד הקונה לבטל המקח לא בטענת אונאה ולא בטענת ביטול המקח כי לא ערב לו על קמח אך בנ\"ד שכבר לא הי' כאן חטין רק קמח קודם המכירה א\"כ ממ\"נ לומר שהמכירה חל על חטין זה דבר נמנע שהרי אין החטין בעולם כעת הקני' ובמה יחול המכירה רק על הקמח ובקמח אם ישלם לו כפי חשבון שיעלה דמי למ\"ד ק' חטין כפי קצבתו יהי' בו יותר משיעור אונאה לכי מעט הקמח שישנו בעולם ולכך בזה מחזיר אונאה בשתות ובטל המקח ביותר משתות ז\"ב ונכון לדינא. אמנם בזה אני נבוך קצת היכי שסמך על דבריו שאמר שיש שם למ\"ד ק' חטים ואח\"כ טוען שאינו מאמין לי שהי' שם כל כך ואולי הוי פחות מזה מה דינו. והנה אם לא אמר בפירוש שסומך על נאמנתו וקונה על נאמנות שלו ודאי דיכול לטעון אח\"כ שאינו מאמין לו שיש שם כ\"כ רק אף גם באם התנה בתחלת המקח שקונהו על נאמנות שלו שיש שם למ\"ד ק' וכדומה מ\"מ נראה דיכול לחזור בו כל שלא קנה בק\"ס דאף שנתן מעות ות\"כ הנהוג בי הסוחרים או משך וכדומה מ\"מ קני' כזו לא מהני רק לגוף החפץ הנקנה מה שישנו בעולם אבל בזה אם נימא דהאמת הוא שאין שם שלשים ק' א\"כ זה שאינו בעולם ל\"ש שם קנין משיכה או מעות רק דנאמר דנתחייב מכח שנתן לו נאמנות והוי כנאמן עלי אבא וכו'. וא\"כ כיון שמצד שנתן לו הנאמנות נחייב אותו בזה צריך קנין כדין נאמנות המפורש בסי' כ\"ב וע\"א אבל בלא\"ה יכול לחזור בו. כן נלפענ\"ד ברור ונכון ודבר זה כלל הוא במקומות רבות לפענ\"ד: <span class=\"parenthesized\">(שם)</span> ס\"ז במחבר עד מתי יכול לחזור וכו' עד כדי שיראה לתגר. נ\"ב צ\"ע מ\"ט השמיטו הפוסקים דברי התוס' בפ\"ד דב\"מ דמ\"ט ע\"ב ד\"ה בכדי שיראה לתגר שכתבו וזה\"ל וא\"ת ונתת דבריך לשיעורין דפעמים שהם רחוקים הרבה ופעמים שהם קרובים. וי\"ל דלעולם יש שיעור אחד לפי מה שמצוי רוב פעמים שיוכל להראות לתגר או לקרובו. ואם הם קרובים או רחוקים בשביל כך לא יתנו לו שהות לא פחות ולא יותר עכ\"ל. וא\"כ קשה למה לא הביאו הפוסקים דין זה שחידוש הוא והתוי\"ט מביאו ויותר תימא על הטו\"ז מ\"ש בסעיף זה דאם לא הי' שם תגרים ובאו משערינן מזמן ביאתם וכ\"ז הוא להיפך ממשמעות התוס' הנ\"ל וצע\"ג בזה ולא ראיתי מי שחולק על דעת התוס' הנ\"ל ודו\"ק: שם בהג\"ה דהי' יודע הלוקח וכו'. נ\"ב עיין בחיבורי לתורה פ' תולדות תדי\"ר לפ\"ק שכתבנו לשם דהיינו בלוקח אבל במוכר אם ידע הוי מחילה מיד והטעם דהרי בלא\"ה דעת ר\"י דבעה\"ב המוכר כליו אין בו אונאה. ובע\"כ כיון דמוכר מכח דחקו אגב אונסו גמר ונתרצה א\"כ נהי דלא קיי\"ל כן מ\"מ אם ידע שיתאנה ומכר אמרינן אגב אונסא גמר ונתרצה והוי מחילה עיי\"ש והוא נכון לפענ\"ד. שוב מצאתי באור החיים פ' הנ\"ל שהביא בשם המוהרי\"ק כעין זה:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 227:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, חושן משפט רכז:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 227:1"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "What is implied? If a golden <i>dinar</i> was valued at 24 silver <i>dinarim,</i> and it was exchanged for 20 <i>dinarim</i> or 28 <i>dinarim,</i> the unfair gain must be returned. If the unfair gain was more than that, the exchange is nullified. If it is less than that, it is considered as if the other party waived his right to that money.",
+                      "he": "כֵּיצַד. הֲרֵי שֶׁהָיָה דִּינָר שֶׁל זָהָב בְּעֶשְׂרִים וְאַרְבָּעָה דִּינָר שֶׁל כֶּסֶף וְצֵרְפָה בְּעֶשְׂרִים דִּינָר אוֹ בְּעֶשְׂרִים וּשְׁמוֹנָה הֲרֵי זֶה מַחְזִיר אֶת הַהוֹנָיָה. הָיָה יָתֵר עַל זֶה בָּטֵל הַצֵּרוּף. פָּחוֹת מִכָּאן מְחִילָה:",
+                      "ref": "Mishneh Torah, Sales 12:9",
+                      "sourceHeRef": "הלכות מכירה יב:ט",
+                      "sourceRef": "Sales 12:9"
+                    },
+                    {
+                      "en": "It is forbidden for a seller or a purchaser to take unfair advantage of a colleague, as Leviticus 25:14 states: \"When you sell an entity to your colleague or purchase an entity from a colleague, one man should not take unfair advantage of his brother.\"<br>Even though such a person transgresses a negative commandment, he is not punished by lashes, because the funds can be returned. Whether the person intentionally deceived his colleague or did not know that this transaction involved taking unfair advantage, he is obligated to pay the unwarranted gain.",
+                      "he": "אָסוּר לַמּוֹכֵר אוֹ לַקּוֹנֶה לְהוֹנוֹת אֶת חֲבֵרוֹ שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(ויקרא כה יד)</span> \"וְכִי תִמְכְּרוּ מִמְכָּר לַעֲמִיתֶךָ אוֹ קָנֹה מִיַּד עֲמִיתֶךָ אַל תּוֹנוּ\". וְאַף עַל פִּי שֶׁהוּא עוֹבֵר בְּלֹא תַּעֲשֶׂה אֵינוֹ לוֹקֶה מִפְּנֵי שֶׁנִּתָּן לְהִשָּׁבוֹן. וּבֵין שֶׁהוֹנָה בְּמֵזִיד בֵּין שֶׁלֹּא יָדַע שֶׁיֵּשׁ בְּמֶכֶר זֶה הוֹנָיָה חַיָּב לְשַׁלֵּם:",
+                      "ref": "Mishneh Torah, Sales 12:1",
+                      "sourceHeRef": "הלכות מכירה יב:א",
+                      "sourceRef": "Sales 12:1"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "ואם טעו בפחות משישית מערך המכירה, המקח קיים, ואין הצד המרוויח צריך להחזיר את מה שהרוויח, כיוון שהוא פחות משישית, ודרך העולם למחול על טעות שכזו, מפני שקשה ללוקח ולמוכר לכוון את דמי המקח באופן מדויק <span class=\"parenthesized\">(שו\"ע חו\"מ רכז, א-ד)</span>.",
+                      "ref": "Peninei Halakhah, Likkutim II 4:17:6",
+                      "sourceHeRef": "ליקוטים ב ד:יז:ו",
+                      "sourceRef": "Likkutim II 4:17:6"
+                    }
+                  ]
+                }
+              },
+              "en": "How much must the defrauding be, for one to be required to return it? One sixth, exactly. How so? If one sold an item worth six for five, or an item worth seven for six; or worth five for six, or worth six for seven; these are cases of defrauding. And the item is purchased and the party that defrauded is obligated to return the defrauded amount to the one defrauded.",
+              "he": "כמה תהיה אונאה ויהיה חייב להשיב שתות בשוה כיצד הרי שמכר שוה שש בחמש או שוה שבע בשש או שוה חמש בשש או שוה שש בשבע ה\"ז אונאה ונקנה המקח וחייב המאנה לשלם האונאה ולהחזירה כולה למתאנה:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 227:2",
+              "sourceHeRef": "חושן משפט רכז:ב - עד כמה הוה מחילה או חזרת האונאה ושליח שטעה ואחים שחלקו וטעו",
+              "sourceRef": "Choshen Mishpat 227:2"
+            },
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "With regard to whom does the above apply? To a purchaser. For the article he purchased is in his possession, and it is common for him to show it to others.<br>The seller, by contrast, always has the opportunity to demand the return of the unfair gain. Needless to say, this applies with regard to the nullification of the sale. For he does not know the correct price of the article he sold until he sees a comparable article being sold. Accordingly, if the merchandise was a standard article that does not vary -e.g., peppers, or the like - he is given merely the time it takes to check the current market price.",
+                      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים בְּלוֹקֵחַ שֶׁהֲרֵי הַמִּקָּח בְּיָדוֹ וּמַרְאֵהוּ. אֲבָל הַמּוֹכֵר חוֹזֵר בְּהוֹנָיָה לְעוֹלָם. וְאֵין צָרִיךְ לוֹמַר בְּבִטּוּל מִקָּח שֶׁאֵינוֹ יוֹדֵעַ דְּמֵי זֶה שֶׁמָּכַר עַד שֶׁיִּרְאֶה כְּמוֹתוֹ שֶׁנִּמְכַּר בַּשּׁוּק. לְפִיכָךְ אִם הָיָה הַמִּקָּח דָּבָר שֶׁאֵין בְּמִינוֹ שִׁנּוּי וְהוּא כֻּלּוֹ שָׁוֶה כְּגוֹן פִּלְפְּלִין וְכַיּוֹצֵא בָּהֶן הֲרֵי זֶה אֵינוֹ חוֹזֵר אֶלָּא עַד כְּדֵי שֶׁיִּשְׁאַל עַל שַׁעַר שֶׁבַּשּׁוּק בִּלְבַד:",
+                      "ref": "Mishneh Torah, Sales 12:6",
+                      "sourceHeRef": "הלכות מכירה יב:ו",
+                      "sourceRef": "Sales 12:6"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "עד מתי יכול לחזור ולתבוע אונאתו בשתות ולבטל המקח ביותר משתות עד כדי שיראה לתגר או לקרובו ואם שהה יותר אינו יכול לחזור ולא לתבוע אונאתו ואם יברר שהיה לו אונס ועל כן לא חקר בתוך זמן זה לידע אם נתאנה יכול לחזור בו עדיין <span class=\"hebrew-emphasis\">היה יודע הלוקח בשעה שלקחו שנתאנה ושתק ומיד אחר הלקיחה קודם (זמן) שיראה לתגר או לקרובו תובע אונאתו לא אמרינן דמחל הואיל וידע (מרדכי ס\"פ הזהב)</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 227:7",
+              "sourceHeRef": "חושן משפט רכז:ז - עד כמה הוה מחילה או חזרת האונאה ושליח שטעה ואחים שחלקו וטעו",
+              "sourceRef": "Choshen Mishpat 227:7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ולסיכום הלכתי של השאלות הללו, <b>אמר רבא: הלכתא</b> <span class=\"hebrew-emphasis\">[הלכה]</span> היא אם היה ההבדל <b>פחות משתות</b> <span class=\"hebrew-emphasis\">[מששית]</span> — <b>נקנה</b> ה<b>מקח</b> מיד, ואם היה ההבדל <b>יותר על שתות</b> <span class=\"hebrew-emphasis\">[ששית]</span> — הרי יש בזה <b>ביטול מקח, שתות</b> <span class=\"hebrew-emphasis\">[ששית]</span> בדיוק — <b>קנה ומחזיר אונאה, וזה וזה,</b> מחילה, ביטול מקח, ואונאה — זמנו <b>בכדי שיראה לתגר או לקרובו.</b>",
+              "ref": "Steinsaltz on Bava Metzia 50b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:ח",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The authorities discuss this passage at length. Does the term: Acquired, in this context mean, as Rashi explains, that the transaction takes effect even if one of the parties reneges on the transaction? Or does it mean that the transaction takes effect only if the exploited party chooses, and if he does not the transaction is nullified? They also discuss  the matter of flawed merchandise. According to the Rambam, even if the disparity due to flawed merchandise was less than the measure of exploitation, a flaw is comparable to a factor that can be determined precisely, e.g., number, weight, or measure, and therefore the transaction is nullified. In general, the commentaries discuss whether the option to nullify a transaction is the exclusive prerogative of the exploited party, or whether the party guilty of exploitation can opt to nullify the transaction as well (see Ra’avad and Meiri).",
+              "he": "הרבה עסקו הפוסקים בבירור פיסקה זו, אם יש להבינה בהכרח כרש\"י הסבור ש\"קנה\" פירושו: הושלם המקח, אף אם אחד הצדדים חוזר בו. או פירושו \"קנה\" — אם רצה, ואם לאו — מבטל את המקח. אף דנו בשאלה אחרת ביחס למום שנמצא במקח, שלדעת הרמב\"ם למשל, גם אם היה ערכו בפחות משיעור אונאה, כיוון שהוא דבר מסויים — דינו כטעות בעובדות (מדה ומשקל) וחוזר המקח. ובכלל דנו אם כשיש ביטול מקח תלוי הדבר רק בידי המתאנה, או שבמקרה כזה גם המאנה רשאי לחזור בו ולבטל את המקח (ראה בראב\"ד ובמאירי ועוד).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 50b:8",
+              "sourceHeRef": "קָנָה וּמַחֲזִיר אוֹנָאָה",
+              "sourceRef": "The buyer has acquired the merchandise and the one who benefited returns the sum gained by the exploitation"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> אמר רבא כו' דאדרבא ה\"ל לאתויי מתני' כו' עכ\"ל לישנא דאדרבא הוא מגומגם דר\"י הנשיא היינו מתני' והיא היא ויש ליישב דה\"ק דהשתא דמייתי ברייתא משתמע אדרבה דהא רבא נקט בלישניה מלתיה דר' נתן דלא קתני רצה וטפי ה\"ל לאתויי מתניתין דלא תני בה לישנא מלתיה דר' נתן ולולי שיראתי מלהגיה דברי התוספות היה נ\"ל דטעות נפל בהם מתניתין במקום מר' נתן ואז ניחא טפי לישנא דאדרבה דטפי אית לן למימר ולאתויי לרבא מר\"נ דנקט לישניה ולא קאמר רצה ודו\"ק:",
+                      "ref": "Chidushei Halachot on Bava Metzia 50b:1",
+                      "sourceHeRef": "חדושי הלכות על בבא מציעא נ׳ ב:א",
+                      "sourceRef": "Chidushei Halachot on Bava Metzia 50b:1"
+                    }
+                  ]
+                },
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה אמר רבא כו' כיון שהוקר בכדי שיראה כו' נ\"ב סברא זו היא מגומגמת מאד ולית דחש לה לא הרי\"ף ולא הרא\"ש וס\"ל דלא קיימא לן כרב חסדא אלא מ\"מ איכא נפקותא בהא דרב חסדא לענין ביטול מקח:",
+                      "ref": "Chokhmat Shlomo on Bava Metzia 50b:1",
+                      "sourceHeRef": "חכמת שלמה על בבא מציעא נ׳ ב:א",
+                      "sourceRef": "Chokhmat Shlomo on Bava Metzia 50b:1"
+                    }
+                  ]
+                },
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה</b> אמר רבא הלכתא וכו' ורבא אית ליה שפיר דרב חסדא דקאמר בפרק הספינה מכר לו שוה ה' בו' כו' והוקר וכו' לוקח יכול לחזור בו וכו'. ר\"ל והתם לא הוי כי אם שתות מעות כדלעיל ובשתות ס\"ל לרבא דקנה בעל כרחו ומחזיר אונאה ואין אחד מהם יכול לחזור בו ותירצו דשפיר סבר רבא כרב חסדא והתם הוי טעמא משום דבתוך שיעור דהיה יכול הלוקה לתבוע אונאתו הוקר ועמד על שיעור ביטול מקח ולכך הוי כאלו הוה מתחלה האונאה כשיעור ביטול מקח הלכך יכול הלוקח לחזור בו ואף המוכר היה בדין שיוכל לחזור אי לאו דאמר ליה לוקח אי לאו דאיניתני וכו':",
+                      "ref": "Maharam on Bava Metzia 50b:3",
+                      "sourceHeRef": "מהר\"ם על בבא מציעא נ׳ ב:ג",
+                      "sourceRef": "Maharam on Bava Metzia 50b:3"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>בא\"ד</b> ולא חש לפרש בהדיא רצה משום וכו' כצ\"ל:",
+                      "ref": "Maharam on Bava Metzia 50b:4",
+                      "sourceHeRef": "מהר\"ם על בבא מציעא נ׳ ב:ד",
+                      "sourceRef": "Maharam on Bava Metzia 50b:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבא הלכתא שתות קנה ומחזיר אונאה</strong> - פ\"ה קנה בע\"כ כר' נתן דבסמוך לפי זה פחות משתות לאלתר הויא מחילה וזה יש בין שתות לפחות משתות וכן משמע לקמן <span class=\"parenthesized\">(בבא מציעא דף נא.)</span> גבי ההוא גברא דנקט ורשכי לזבוני אמר אי יהיבנא ליה חמשא ופלגא הויא מחילה משמע דלאלתר הוי מחילה ודקאמר זה וזה בכדי שיראה איתר משתות ושתות קאי ולא אפחות משתות ורבא אית ליה שפיר דרב חסדא דקאמר בפ' הספינה <span class=\"parenthesized\">(ב\"ב דף פג:)</span> מכר לו שוה ה' בו' לוקח יכול. לחזור בו ולא מוכר כיון שהוקר בכדי שיראה שזהו זמן שלוקח יכול לתבוע אונאתו והוקר על בטול מקח לכך לוקח יכול לחזור בו ולכך קאמר ועמדו על ח' ולא קאמר ועמדו על ז' שאין זה בטול מקח וק' לר\"ת וכי חולק רבא על סתם מתניתין <span class=\"parenthesized\">(לקמן בבא מציעא נא.)</span> דקתני מי שהוטל עליו ידו על העליונה ועוד דהלכה כרבי מחבירו ועוד דרבא גופיה מוקי מתני' כר' יהודה הנשיא ולא כר' נתן א\"כ משמע דסבר ליה כוותיה ועוד מה שייך למימר תניא כוותיה בדבר שיש מחלוקת תנאים כתוב באותה ברייתא ומפ' ר\"ת דרבא דאמר שתות קנה היינו אם רצה כר' יהודה ולא חש לפרש בהדיא רצה משום דקאי אמתני' ותניא כוותיה מייתי משום דקתני בברייתא זה וזה בכדי שיראה כדרבא אבל מרבי יהודה הנשיא לא מייתי דאמר רצה אמר לו כו' דאדרבה ה\"ל לאתויי מתניתין ולקמן <span class=\"parenthesized\">(בבא מציעא דף נא.)</span> פריך שפיר אי ר' נתן מתניתין קתני רצה ברייתא לא קתני רצה משום דר' נתן לא קאי אמתניתין וה\"ל לפרושי אבל רבא דקאי אמתני' לא חש לפרש ואע\"ג דרבא נקיט לישנא דמילתא דרבי נתן אין פי' קנה דהכא כקנה דרבי נתן:",
+              "ref": "Tosafot on Bava Metzia 50b:8:1",
+              "sourceHeRef": "תוספות על בבא מציעא נ׳ ב:ח:א",
+              "sourceRef": "Tosafot on Bava Metzia 50b:8:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites the halakhic resolutions of these dilemmas. <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said:</b> The <b><i>halakha</i></b> is that if the disparity is <b>less than one-sixth,</b> the <b>merchandise is acquired</b> immediately. If the disparity is <b>greater than one-sixth,</b> either party can demand <b>nullification of the transaction.</b> If the disparity is precisely <b>one-sixth,</b> the buyer has <b>acquired</b> the merchandise, <b>and</b> the one who benefited from the exploitation <b>returns</b> the sum gained by the <b>exploitation. And</b> one may claim both <b>this,</b> nullification of the transaction, <b>and that,</b> return of the sum gained, only <b>within the time that</b> it takes <b>to show</b> the merchandise <b>to a merchant or to his relative.</b>",
+      "he": "אָמַר רָבָא, הִלְכְתָא: פָּחוֹת מִשְּׁתוּת – נִקְנֶה מִקָּח, יוֹתֵר עַל שְׁתוּת – בִּיטּוּל מִקָּח, שְׁתוּת – קָנָה וּמַחְזִיר אוֹנָאָה, וְזֶה וָזֶה – בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ.",
+      "ref": "Bava Metzia 50b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מִקָּח</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\"></span><span class=\"refLink\" data-ref=\"Jastrow, לָקַח 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַח.1\">לָקַח</span>) <br><b>1)</b> <i>taking.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:22\" href=\"/Pirkei_Avot.4.22\">Pirkei Avot IV, 22</span> <span dir=\"rtl\">מִקַּח שוחד</span> bribe-taking. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 9:5\" href=\"/Mishnah_Pesachim.9.5\">Pesachim IX, 5</span> <span dir=\"rtl\">מִקְּחוֹ מבעשור</span> it must be selected (designated) on the tenth day of the month (<span class=\"refLink\" data-ref=\"Exodus 12:3\" href=\"/Exodus.12.3\">Shemot XII, 3</span>). <br><b><br>—2)</b> (traditional pronunc.) <span class=\"refLink\" data-ref=\"Jastrow, מִקָּח 1\" dir=\"rtl\" href=\"/Jastrow,_מִקָּח.1\">מֶקַח</span> <i>buying, purchase, bargain</i>. Ib. 112ᵇ <span dir=\"rtl\">אל תעמוד על המ׳ וכ׳</span> do not stand bargaining when you have no money. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 4:3\" href=\"/Mishnah_Bava_Metzia.4.3\">Bava Metzia IV, 3</span> <span dir=\"rtl\">שתות למ׳</span> if the overcharge amounts to one sixth of the price paid. <span class=\"refLink\" data-ref=\"Bava Metzia 50a:1\" href=\"/Bava_Metzia.50a.1\">Ib. 50ᵃ</span> <span dir=\"rtl\">תן לי מִקְחִי</span> give me back my goods. <span class=\"refLink\" data-ref=\"Bava Metzia 50b:9\" href=\"/Bava_Metzia.50b.9\">Ib. 50ᵇ</span> <span dir=\"rtl\">ביטול מ׳</span> annulment of the bargain. <span class=\"refLink\" data-ref=\"Bava Metzia 51a:5\" href=\"/Bava_Metzia.51a.5\">Ib. 51ᵃ</span> <span dir=\"rtl\">לוקח מקחו בידו</span> the purchaser has his purchase in his possession (and can show it to his friends to have it valued); and see from—אבן המ׳ <i>auction-stone</i> for slaves. Sifra B’har Chaldaic VII, Parah 6 (<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 667:2\" href=\"/Yalkut_Shimoni_on_Torah.667.2\">Yalkut Vayikra 667</span> <span dir=\"rtl\">הלקח</span>), see <span class=\"refLink\" data-ref=\"Jastrow, סִימְטָא ² 1\" href=\"/Jastrow,_סִימְטָא ².1\"><span dir=\"rtl\">סִימְטָא</span> I</span>.—<span dir=\"rtl\">מ׳ וממכר</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מִמְכָּר 1\" dir=\"rtl\" href=\"/Jastrow,_מִמְכָּר.1\">מִמְכָּר</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, מִקָּח 1",
+              "sourceHeRef": "מילון יסטרוב, מִקָּח א׳",
+              "sourceRef": "Jastrow, מִקָּח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הלכתא פחות משתות נקנה מקח</strong> - לאלתר:",
+              "ref": "Rashi on Bava Metzia 50b:9:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ט:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יתר על שתות בטל מקח</strong> - ושניהם חוזרין:",
+              "ref": "Rashi on Bava Metzia 50b:9:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ט:ב",
+              "sourceRef": "Rashi on Bava Metzia 50b:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שתות קנה</strong> - ואין אחד מהן יכול לחזור:",
+              "ref": "Rashi on Bava Metzia 50b:9:3",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ט:ג",
+              "sourceRef": "Rashi on Bava Metzia 50b:9:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומחזיר אונאה</strong> - ולית ליה לרבא ידו על העליונה דמתניתין דס\"ל כר' נתן דברייתא דקיימא לן ר' נתן דיינא הוא ונחית לעומקא דדינא בפרק הבית והעלייה <span class=\"parenthesized\">(לעיל בבא מציעא דף קיז: ובב\"ק נג.)</span>:",
+              "ref": "Rashi on Bava Metzia 50b:9:4",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ט:ד",
+              "sourceRef": "Rashi on Bava Metzia 50b:9:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">זה וזה</strong> - אונאה ובטול מקח:",
+              "ref": "Rashi on Bava Metzia 50b:9:5",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ט:ה",
+              "sourceRef": "Rashi on Bava Metzia 50b:9:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יד מוכר על העליונה</strong> - אם נתאנה מוכר והוא הדין אם נתאנה לוקח יד לוקח על העליונה והכי מוקמינן לה לקמן <span class=\"parenthesized\">(בבא מציעא דף נא)</span> מאי דשייר במתניתין תני בברייתא:",
+              "ref": "Rashi on Bava Metzia 50b:9:6",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ט:ו",
+              "sourceRef": "Rashi on Bava Metzia 50b:9:6"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">זה וזה</strong> - אונאה ובטול מקח:",
+              "ref": "Rashi on Bava Metzia 50b:9:7",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:ט:ז",
+              "sourceRef": "Rashi on Bava Metzia 50b:9:7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים, <b>תניא כוותיה</b> <span class=\"hebrew-emphasis\">[שנויה</span> ברייתא <span class=\"hebrew-emphasis\">כשיטתו]</span> של <b>רבא:</b> אם היתה ה<b>אונאה פחות משתות</b> <span class=\"hebrew-emphasis\">[מששית]</span> — <b>נקנה מקח, יתר על שתות</b> <span class=\"hebrew-emphasis\">[ששית]</span> — <b>בטל מקח, שתות</b> <span class=\"hebrew-emphasis\">[ששית]</span> בדיוק — <b>קנה ומחזיר אונאה,</b> אלו דברי <b>ר' נתן. ר' יהודה הנשיא אומר: יד</b> ה<b>מוכר על העליונה, רוצה</b> — <b>אומר לו</b> המוכר ללוקח: <b>\"תן לי מקחי\", או</b> אומר <b>\"תן לי מה שאניתני\"</b> (רימיתני). ועל כל פנים שיעורם <b>זה וזה בכדי שיראה לתגר או לקרובו.</b>",
+              "ref": "Steinsaltz on Bava Metzia 50b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:ט",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:9"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara comments: <b>It is taught</b> in a <i>baraita</i> <b>in accordance with</b> the opinion <b>of <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>:</b> In cases of <b>exploitation,</b> if the disparity is <b>less than one-sixth,</b> the <b>merchandise is acquired</b> immediately. If the disparity is <b>greater than one-sixth, the transaction is nullified.</b> If the disparity is precisely <b>one-sixth,</b> the buyer has <b>acquired</b> the merchandise, <b>and</b> the one who benefited from the exploitation <b>returns</b> the sum gained by the <b>exploitation.</b> This is <b>the statement of <span href=\"/topics/rabbi-natan-habavli\" class=\"namedEntityLink\" data-slug=\"rabbi-natan-habavli\">Rabbi Natan</span>. <span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi Yehuda HaNasi</span> says:</b> In a case where the seller was exploited, the <b>seller is at an advantage.</b> If he <b>wishes,</b> he reneges on the transaction and <b>says to</b> the buyer: <b>Give me my merchandise, or</b> he can say: <b>Give me</b> the sum <b>that you</b> gained by <b>exploiting me. And</b> one may claim both <b>this,</b> nullification of the transaction, <b>and that,</b> return of the sum gained, only <b>within the time that</b> it takes <b>to show</b> the merchandise <b>to a merchant or to his relative.</b>",
+      "he": "תַּנְיָא כְּווֹתֵיהּ דְּרָבָא: אוֹנָאָה פָּחוֹת מִשְּׁתוּת – נִקְנֶה מִקָּח. יָתֵר עַל שְׁתוּת – בָּטֵל מִקָּח. שְׁתוּת – קָנָה וּמַחְזִיר אוֹנָאָה, דִּבְרֵי רַבִּי נָתָן. רַבִּי יְהוּדָה הַנָּשִׂיא אוֹמֵר: יָד מוֹכֵר עַל הָעֶלְיוֹנָה, רוֹצֶה – אוֹמֵר לוֹ: ״תֵּן לִי מִקָּחִי״, אוֹ ״תֵּן לִי מַה שֶּׁאֹנֵיתַנִי״. וְזֶה וָזֶה בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ.",
+      "ref": "Bava Metzia 50b:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא שנו</strong> - בכדי שיראה:",
+              "ref": "Rashi on Bava Metzia 50b:10:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:י:א",
+              "sourceRef": "Rashi on Bava Metzia 50b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לוקח</strong> - שמקחו בידו ויכול להראות':",
+              "ref": "Rashi on Bava Metzia 50b:10:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:י:ב",
+              "sourceRef": "Rashi on Bava Metzia 50b:10:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מוכר</strong> - שאין בידו מה להראות ולימלך אינו מכיר באונאתו עד שיראה טלית אחרת כדמותה נמכרת בדמים יקרים הלכך לעולם חוזר אם לא נתייקרו טליתות בינתים:",
+              "ref": "Rashi on Bava Metzia 50b:10:3",
+              "sourceHeRef": "רש\"י על בבא מציעא נ׳ ב:י:ג",
+              "sourceRef": "Rashi on Bava Metzia 50b:10:3"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> <b>The</b> measure of <b>exploitation</b> for which one can claim that he was exploited is <b>four silver</b> <i>ma’a</i> <b>from</b> the <b>twenty-four silver</b> <i>ma’a</i> <b>in a <i>sela</i>,</b> or <b>one-sixth of the transaction. Until when</b> is it <b>permitted</b> for the buyer <b>to return</b> the item? He may return it only <b>until a period</b> of time has passed <b>that</b> would allow him to <b>show</b> the merchandise <b>to a merchant or to his relative</b> who is more familiar with the market price of merchandise. If more time has elapsed he can no longer return the item, as the assumption is that he waived his right to receive the sum of the disparity.",
+                "The mishna continues: <b>Rabbi Tarfon ruled in Lod: Exploitation</b> is a measure of <b>eight silver</b> <i>ma’a</i> <b>from</b> the <b>twenty-four silver</b> <i>ma’a</i> <b>of a <i>sela</i>, one-third of the transaction. And the merchants of Lod rejoiced,</b> as this ruling allowed them a greater profit margin and rendered the nullification of a transaction less likely. Rabbi Tarfon <b>said to them:</b> Throughout <b>the entire day</b> it is permitted <b>to renege</b> on the transaction and not merely for the period of time it takes to show the purchase item to a merchant or a relative. The merchants of Lod <b>said to him: Let Rabbi Tarfon leave us as we were,</b> with the previous ruling, <b>and they reverted to</b> following <b>the statement of the Rabbis</b> in the mishna with regard to both rulings."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Metzia 49b:5",
+                "Bava Metzia 49b:6"
+              ],
+              "he": [
+                "<strong><big>מַתְנִי׳</big></strong> הָאוֹנָאָה, אַרְבָּעָה כֶּסֶף מֵעֶשְׂרִים וְאַרְבָּעָה כֶּסֶף לַסֶּלַע, שְׁתוּת לְמִקָּח. עַד מָתַי מוּתָּר לְהַחְזִיר? עַד כְּדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ.",
+                "הוֹרָה רַבִּי טַרְפוֹן בְּלוֹד: הָאוֹנָאָה שְׁמוֹנָה כֶּסֶף מֵעֶשְׂרִים וְאַרְבַּע כֶּסֶף לַסֶּלַע, שְׁלִישׁ לְמִקָּח. וְשָׂמְחוּ תַּגָּרֵי לוֹד. אָמַר לָהֶם: כׇּל הַיּוֹם מוּתָּר לַחְזוֹר. אָמְרוּ לוֹ יַנִּיחַ לָנוּ רַבִּי טַרְפוֹן בִּמְקוֹמֵינוּ, וְחָזְרוּ לְדִבְרֵי חֲכָמִים."
+              ],
+              "link": "/Bava Metzia/49b",
+              "ref": "Bava Metzia 49b:5-6",
+              "sourceHeRef": "unused",
+              "sourceRef": "Bava Metzia 49b:5-6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> שנינו במשנה <b>עד מתי מותר להחזיר</b> — עד שיראה לתגר או לקרובו. <b>אמר רב נחמן: לא שנו אלא</b> ב<b>לוקח</b> שנתנו לו זמן מוגבל לבדיקה, <b>אבל מוכר</b> — <b>לעולם חוזר.</b> ומציעים: <b>נימא מסייע ליה</b> <span class=\"hebrew-emphasis\">[האם נאמר שמסייע לו]</span> ממה ששנינו על תגרי לוד אשר <b>חזרו לדברי חכמים. אי אמרת בשלמא</b> <span class=\"hebrew-emphasis\">[נניח אם אומר אתה]</span> ש<b>מוכר לעולם חוזר</b>",
+              "ref": "Steinsaltz on Bava Metzia 50b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ׳ ב:י",
+              "sourceRef": "Steinsaltz on Bava Metzia 50b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The word: Always, is not meant in a literal sense, as he too is limited; he may renege only until he ascertains the value of the item that he sold. The term: Always, is relative in this context and means that there is no fixed interval from the outset (Rif).",
+              "he": "\"לעולם\" שאמרו הוא לאו דווקא, ואף לו יש<TIE>גבול מסויים — עד שיוודע לו ערכו של מה שמכר, ולא אמרו \"לעולם\" אלא כדי לומר שאין בזה זמן קצוב מראש. (רי\"ף).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 50b:10",
+              "sourceHeRef": "מוֹכֵר לְעוֹלָם חוֹזֵר",
+              "sourceRef": "A seller may always renege on the transaction"
+            },
+            {
+              "en": "Only a buyer is limited in the amount of time after a sale when he can demand repayment of the discrepancy or nullify the transaction. Since the merchandise is in his possession wherever he goes, he can show it to others to ascertain its value at his convenience. By contrast, the seller no longer has the merchandise in his possession, and consequently he must wait until he comes across a similar item in order to determine its value. Therefore, he may always demand repayment for exploitation or nullify the transaction. If the transaction involved a standard item with a consistent market price, he can renege on it only until an amount of time has passed wherein he could have ascertained the price. Likewise, if it is discovered that the seller had previous experience with merchandise similar to the sale item, and he was aware of the disparity and did not demand repayment, he can no longer demand repayment, as he is considered to have waived the right to receive repayment at the time of the sale (<i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 227:8).",
+              "he": "שיעור הזמן שנתנו לתבוע אונאה או ביטול מקח הוא בקונה שמקחו בידו ויכול לשאול עליו. אבל המוכר חוזר באונאה ובביטול מקח לעולם. ואם היה המקח דבר שאין במינו שינוי והוא כולו שווה — אינו חוזר אלא עד כדי שישאל על השער שבשוק. וכן אם נודע שראה המוכר סחורה דומה לזו שמכר וידע שטעה ולא תבע — אינו יכול לחזור ולתבוע, שהרי כבר מחל. כדברי רב נחמן, וכביאור הדברים בפוסקים. (שו\"ע שו\"ע חו\"מ רכז, סעיף ח).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 50b:10",
+              "sourceHeRef": "מוֹכֵר לְעוֹלָם חוֹזֵר",
+              "sourceRef": "A seller may always renege on the transaction"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי אמרת בשלמא מוכר לעולם חוזר משום הכי חזרו</strong> - אע\"פ שגם תגרי לוד היו לוקחים ולא היה להם לחזור מ\"מ חזרו משום דתגרי לוד היו מוכרים תמיד במעט מעט והיו לוקחים בבת אחת:",
+              "ref": "Tosafot on Bava Metzia 50b:10:1",
+              "sourceHeRef": "תוספות על בבא מציעא נ׳ ב:י:א",
+              "sourceRef": "Tosafot on Bava Metzia 50b:10:1"
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches: <b>Until when</b> is it <b>permitted</b> for the buyer <b>to return</b> the item? He may return it only until a period of time has passed that would allow him to show the merchandise to a merchant or to his relative. <b><span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> says:</b> The Sages <b>taught</b> this <i>halakha</i> <b>only</b> with regard to <b>a buyer, but a seller may always renege</b> on the transaction. The Gemara suggests: <b>Let us say</b> that the mishna <b>supports his</b> opinion, as the merchants of Lod <b>reverted to</b> following <b>the statement of the Rabbis. Granted, if you say</b> that <b>a seller may always renege</b> on a transaction,",
+      "he": "עַד מָתַי מוּתָּר לְהַחֲזִיר כּוּ׳. אָמַר רַב נַחְמָן: לֹא שָׁנוּ אֶלָּא לוֹקֵחַ, אֲבָל מוֹכֵר – לְעוֹלָם חוֹזֵר. נֵימָא מְסַיַּיע לֵיהּ: חָזְרוּ לְדִבְרֵי חֲכָמִים. אִי אָמְרַתְּ בִּשְׁלָמָא מוֹכֵר לְעוֹלָם חוֹזֵר,",
+      "ref": "Bava Metzia 50b:10",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Bava Metzia 50b",
+  "titleHebrew": "בבא מציעא נ,ב",
+  "topics": []
+}

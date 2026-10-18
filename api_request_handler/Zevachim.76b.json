@@ -1,0 +1,828 @@
+{
+  "id": "76b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שחיטה בצפון ובהונות</strong> - כחומר אשם:",
+              "ref": "Rashi on Zevachim 76b:1:1",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:א:א",
+              "sourceRef": "Rashi on Zevachim 76b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וסמיכה ונסכים ותנופת חזה ושוק</strong> - כחומר שלמים והא הכא דלמא לאו מצורע הוא והוי שלמים וקתני ונאכל ליום ולילה אלמא לכתחלה נמי שרי ר\"ש:",
+              "ref": "Rashi on Zevachim 76b:1:2",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:א:ב",
+              "sourceRef": "Rashi on Zevachim 76b:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואם לאו</b> <span class=\"hebrew-emphasis\">[לא</span> שאין הוא מצורע — איל <b>אשם זה</b> יהא <b>של שלמי נדבה,</b> שכן דרך הקרבתם שווה. <b>ו</b>כיצד נוהגים ב<b>אותו אשם</b> של ספק? הריהו <b>טעון</b> (צריך) <b>שחיטה בצפון</b> העזרה, כדין האשם, <b>ומתן</b> מדמו על <b>בהונות</b> המיטהר ועל אוזנו (ראה ויקרא יד, יד), <b>וסמיכה, ונסכים, ותנופת</b> (הנפת) <b>חזה ושוק</b> כדין שלמים,",
+              "ref": "Steinsaltz on Zevachim 76b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:א",
+              "sourceRef": "Steinsaltz on Zevachim 76b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Both the lamb of the peace offering and the lamb of the guilt offering require libations, i.e., the meal offering accompanied by libations, which is a tenth of an ephah of fine flour for a meal offering mixed with three <i>log</i> of oil and three <i>log</i> of wine (see Leviticus 14:10 and Numbers 15:4–5). As for placing hands, some maintain that the guilt offering of a leper does not require placing of the hands by Torah law (33b; see <i>Tosafot</i>). According to this opinion, placing hands is necessary here only due to the possibility that this lamb might be a peace offering. In any case, he merely touches the offering in order to fulfill the basic requirement of the placing of hands (<i>Tosafot</i>).",
+              "he": "לא הוזכרו כאן אלא עבודות הקרבן שמשחיטה ואילך, אף כי נראה שיש צורך במקרה זה גם בהנפת הכבש בחיים, כדין אשם מצורע (לפי הרמב\"ם — על ידי הכהן, אבל לפי התוספתא — על ידי הכהן והבעלים).",
+              "ref": "Steinsaltz comment #1 on Zevachim 76b:1",
+              "sourceHeRef": "סְמִיכָה וּנְסָכִים",
+              "sourceRef": "It requires placing hands and the accompanying libations"
+            },
+            {
+              "en": "",
+              "he": "בין כבש שלמים ובין כבש האשם טעונים נסכים (כלומר, מנחה הבאה עם נסכים), עשירית האיפה סולת למנחה בלולה בשלושה לוגים שמן, ושלושה לוגים יין (לגבי שלמים — ראה במדבר טו, ד—ה. ולגבי אשם מצורע — ויקרא יד, י). ולגבי הסמיכה, יש הסבורים שאשם מצורע אינו טעון סמיכה מן התורה (לעיל לג,ב, ראה בתוס' שם), ולשיטה זו לא הוצרכה הסמיכה כאן אלא משום הספק שמא כבש זה של שלמים הוא. ומכל מקום, משום שהמצורע טמא הוא, ואינו יכול להכניס את גופו לעזרה ולסמוך כראוי בכל כוחו, הריהו רק נוגע בקרבן, כדי לקיים בו דין סמיכה (תוס').",
+              "ref": "Steinsaltz comment #2 on Zevachim 76b:1",
+              "sourceHeRef": "סמיכה ונסכים",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "ואף שבמקרה זה, הכבש נאכל כולו על ידי הכהנים, כדין אשם (תוספתא נזיר פ\"ו א), ולא רק החזה והשוק, מכל מקום עצם תנופת החזה והשוק מצוה היא לעצמה בקרבן שלמים.",
+              "ref": "Steinsaltz comment #3 on Zevachim 76b:1",
+              "sourceHeRef": "ותנופת חזה ושוק",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אשם זו יהא שלמי נדבה</strong> - וא\"ת והא אמרן לעיל בפ' איזהו מקומן <span class=\"parenthesized\">(זבחים דף מז:)</span> דאשם מצורע שני כהנים מקבלין את דמו אחד ביד ואחד בכלי ושלמים אמרי' לעיל <span class=\"parenthesized\">(זבחים דף כה.)</span> דצריך שיקבל בכלי את כל דמו <span class=\"parenthesized\">(של פר)</span> וי\"ל דתקוני גברא שאני:",
+              "ref": "Tosafot on Zevachim 76b:1:1",
+              "sourceHeRef": "תוספות על זבחים ע״ו ב:א:א",
+              "sourceRef": "Tosafot on Zevachim 76b:1:1"
+            },
+            {
+              "en": "",
+              "he": "וסמיכה -למ\"ד <span class=\"parenthesized\">(לעיל זבחים דף לג.)</span> סמיכת אשם מצורע לאו דאורייתא הוא בהקפת יד ואע\"ג דשלמים בעו סמיכה גמר משום תקוני גברא התירו כדפרישית לעיל ולמאן דאמר דאורייתא הזכיר בחנם סמיכה וכן נסכים דבין אשם בין שלמים טעונין סמיכה ונסכים:",
+              "ref": "Tosafot on Zevachim 76b:1:2",
+              "sourceHeRef": "תוספות על זבחים ע״ו ב:א:ב",
+              "sourceRef": "Tosafot on Zevachim 76b:1:2"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ספק נזיר טמא ספק נזיר טהור אבל נזיר ודאי <היה> ספק מצורע טמא ספק מצורע טהור אבל מצורע ודאי <היה> אוכל בקדשים אחר [שלשים יום] שותה יין ומטמא למתים לאחר מאה ועשרים יום כיצד אמרו לו נזיר טמא אתה ואין נזיר טמא מגלח אלא עד שבעה צא ומנה שבעה הזה ושנה גלח והביא קרבן מנה שבעה ובקש לגלח [ואמר] לו נזיר טהור אתה ואין נזיר טהור מגלח אלא עד שלשים צא ומנה עשרים ושלשה להשלים שלשים גילח והביא קרבן מנה שלשים [ובקשו] לגלח אמרו לו נזיר טהור אתה ואין נזיר טהור מגלח אלא על הדמים כיצד הוא עושה מביא עולת בהמה ומתנה עליה ואומר אם טהור אני ה\"ז חובה ואם לאו ה\"ז נדבה כיצד תעשה לו להחמיר עליו מביא פילי של חרס [חדשה] ונותן לתוכה רביעית מים חיים ומביא שתי צפרים ושחט את אחת מהן אל כלי חרס על מים חיים [חפר] וקברה בפניו ואסורה בהנאה ומביא חטאת העוף ומתנה עליה ואומר אם טמא אני חטאת מחובתי ועולה נדבה אם טהור אני עולה מחובתי וחטאת ספק [ומגלח] ראשו וזקנו וגבות עיניו כדרך שמצורעים מגלחין ומונה שלשים ומביא עולת בהמה אחרת ומתנה עליה ואומר אם טהור הייתי עולה הראשונה חובה וזו נדבה והחטאת [העוף] ספק מחובתי ואם טהור אני עולה הראשונה נדבה וזו חובה וחטאת עוף ספק ומגלח ראשו וזקנו וגבות עיניו כדרך שהמצורעין מגלחין ר\"ש אומר למחרת מביא אשמו ולוגו בידו ומעמידן על שערי נקנור ומתנה עליהן [ויאמר] אם מצורע אני ה\"ז אשמי ואם לאו ה\"ז שלמי נדבה אשם זה נשחט בצפון וטעון מתן בהונות וסמיכה ונסכים [ותנופה] חזה ושוק ונאכל לזכרי כהונה ולא הודו לו חכמים לרבי שמעון שמביא קדשים לבית הפסול להביא חטאת בהמה אין יכול שאין חטאת בהמה באה על הספק להביא חטאת העוף אין יכול שהעשיר שהביא קרבן עני לא יצא כיצד עושה יכתוב נכסיו לאחר [ויביא] קרבן עני נמצא עני [מביא] חטאת העוף ומתנה עליהם ואומר אם מצורע אני ה\"ז חטאת אם לאו ה\"ז ספקו ואוכל בקדשים מיד אבל לשתות יין ולטמא אין יכול שאין ימי נזרו עולין לו בתוך ימי צרעתו כיצד [תעשה] לו כדברי בן זומא סופר שלשים יום ומביא עולת בהמה ומגלח ומביא חטאת העוף ומתנה עליה ואומר אם טמא אני חטאת מחובתי ועולה נדבה ואם טהור אני עולה מחובתי וחטאת ספק וסופר שלשים יום ומביא קרבנותיו שלמים [ומביא עולה] ומתנה עליה ואומר אם טמא אני עולה הראשונה חובה וזו נדבה והחטאת העוף מחובתי [אם] טהור אני עולה הראשונה [נדבה] וזו חובה והחטאת העוף ספק ומגלח ואוכל בקדשים לאחר ס' יום ושותה יין ומטמא למתים מיד במה דברים אמורים בזמן שנזר שלשים אבל נזר שנים עשר חודש אוכל בקדשים לאחר שתי שנים ושותה יין ומטמא למתים לאחר ארבעה שנים.",
+              "ref": "Tosefta Nazir 6:1",
+              "sourceHeRef": "תוספתא נזיר ו:א",
+              "sourceRef": "Tosefta Nazir 6:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The priest shall take some of the blood of the guilt offering, and the priest shall put it on the ridge of the right ear of him who is being cleansed, and on the thumb of his right hand, and on the big toe of his right foot.",
+              "he": "וְלָקַ֣ח הַכֹּהֵן֮ מִדַּ֣ם הָאָשָׁם֒ וְנָתַן֙ הַכֹּהֵ֔ן עַל־תְּנ֛וּךְ אֹ֥זֶן הַמִּטַּהֵ֖ר הַיְמָנִ֑ית וְעַל־בֹּ֤הֶן יָדוֹ֙ הַיְמָנִ֔ית וְעַל־בֹּ֥הֶן רַגְל֖וֹ הַיְמָנִֽית׃",
+              "link": "/Leviticus/14",
+              "ref": "Leviticus 14:14",
+              "sourceHeRef": "ויקרא יד:יד",
+              "sourceRef": "Leviticus 14:14"
+            }
+          ]
+        }
+      },
+      "en": "<b>And if</b> he is <b>not</b> a leper, <b>this</b> animal that is brought for <b>a guilt offering</b> shall be <b>a voluntary peace offering,</b> because their sacrificial rites are equivalent. <b>And that</b> uncertain <b>guilt offering requires slaughter in the north</b> of the Temple courtyard as a guilt offering, <b>and placement</b> of the blood on the right <b>thumb</b> and <b>big toe</b> and right ear of the leper, as described in Leviticus 14:14, <b>and</b> it requires <b>placing hands</b> on the head of the animal, <b>and</b> the accompanying wine <b>libations and waving of</b> the <b>breast and thigh</b> like a peace offering.",
+      "he": "ואם לאו אשם זה של שלמי נדבה ואותו אשם טעון שחיטה בצפון ומתן בהונות וסמיכה ונסכים ותנופת חזה ושוק",
+      "ref": "Zevachim 76b:1"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">תְּקֵן</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, תָּקַן 1\" href=\"/Jastrow,_תָּקַן.1\">same</span> , <i>to be firm, stand</i> (corresp. to Biblical Hebrew <span class=\"refLink\" data-ref=\"Jastrow, כּוּן 1\" dir=\"rtl\" href=\"/Jastrow,_כּוּן.1\">כּוּן</span>, <span class=\"refLink\" data-ref=\"Jastrow, כָּנַן 1\" dir=\"rtl\" href=\"/Jastrow,_כָּנַן.1\">כָּנן</span>). <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 90:17\" href=\"/Aramaic_Targum_to_Psalms.90.17\">Targum Psalms XC, 17</span> <span dir=\"rtl\">יִתְקְנַן</span> ed. Venice (Manuscript <span dir=\"rtl\">יְתַקְנַן</span>; ed. Vilna <span dir=\"rtl\">יִתּקְּנוּן</span> <i>Ithpaal</i>). <span class=\"refLink\" data-ref=\"Aramaic Targum to Proverbs 22:18\" href=\"/Aramaic_Targum_to_Proverbs.22.18\">Targum Mishlei XXII, 18</span> <span dir=\"rtl\">נִיתְקְנִין</span> (ed. Vilna <span dir=\"rtl\">נִתּקְּנוּן</span> <i>Ithpaal</i>).<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">תַּקֵּין</strong> <br><b>1)</b> <i>to establish</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 9:8\" href=\"/Aramaic_Targum_to_Psalms.9.8\">Targum Psalms IX, 8</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 74:16\" href=\"/Aramaic_Targum_to_Psalms.74.16\">Ib. LXXIV, 16</span> Manuscript (ed. <i>Af</i>.). <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 62:7\" href=\"/Targum_Jonathan_on_Isaiah.62.7\">Targum Isaiah LXII, 7</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on II Samuel 7:12\" href=\"/Targum_Jonathan_on_II_Samuel.7.12\">Targum Sheni (to Esther) Samuel VII, 12</span>; and from—Part. pass. <span dir=\"rtl\">מְתַקַּן</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Judges 16:26\" href=\"/Targum_Jonathan_on_Judges.16.26\">Targum Judges XVI, 26</span> (not <span class=\"refLink\" data-ref=\"Jastrow, קֵן ² 1\" dir=\"rtl\" href=\"/Jastrow,_קֵן ².1\">קֵן …</span>). <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 89:38\" href=\"/Aramaic_Targum_to_Psalms.89.38\">Targum Psalms LXXXIX, 38</span> (ed. Lag. <span dir=\"rtl\">מִיתַּקַּן</span> <i>Ithpaal</i>); and e. <br><b><br>—2)</b> <i>to prepare, arrange, set in order; to improve, do a thing properly</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 40:13\" href=\"/Targum_Jonathan_on_Isaiah.40.13\">Targum Isaiah XL, 13</span> (h. text <span class=\"refLink\" data-ref=\"Jastrow, תְּכַן 1\" dir=\"rtl\" href=\"/Jastrow,_תְּכַן.1\">תכן</span>). <span class=\"refLink\" data-ref=\"Onkelos Exodus 16:5\" href=\"/Onkelos_Exodus.16.5\">Targum Onkelos Shemot XVI, 5</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Proverbs 6:8\" href=\"/Aramaic_Targum_to_Proverbs.6.8\">Targum Mishlei VI, 8</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 11:2\" href=\"/Aramaic_Targum_to_Psalms.11.2\">Targum Psalms XI, 2</span>; and e.—[<span class=\"refLink\" data-ref=\"Onkelos Deuteronomy 22:5\" href=\"/Onkelos_Deuteronomy.22.5\">Targum Onkelos Devarim XXII, 5</span>, read with ed. Berliner (editor of Targum Onkelos) <span dir=\"rtl\">יִתָּקַן</span>.]—Part. pass. as ab. <span class=\"refLink\" data-ref=\"Targum Jonathan on Ezekiel 16:13\" href=\"/Targum_Jonathan_on_Ezekiel.16.13\">Targum Ezekiel XVI, 13</span> (not <span class=\"refLink\" data-ref=\"Jastrow, קֵן ² 1\" dir=\"rtl\" href=\"/Jastrow,_קֵן ².1\">קֵן …</span>). <span class=\"refLink\" data-ref=\"Targum Jonathan on Ezekiel 18:12\" href=\"/Targum_Jonathan_on_Ezekiel.18.12\">Ib. XVIII, 12</span>; and from—<span class=\"refLink\" data-ref=\"Ketubot 112a:18\" href=\"/Ketubot.112a.18\">Ketubot 112ᵃ</span> bottom of page <span dir=\"rtl\">מְתַקֵּן מתקליה</span> repaired its offences (dangerous places on the road to Palestine); <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 855\" href=\"/Yalkut_Shimoni_on_Nach.855\">Yalkut Psalms 855</span>. <span class=\"refLink\" data-ref=\"Tamid 27b:39\" href=\"/Tamid.27b.39\">Tamid 27ᵇ</span> <span dir=\"rtl\">תַּקֵּין נפשך</span> put thyself in order (regulate thy bowels). <span class=\"refLink\" data-ref=\"Shabbat 33b:10\" href=\"/Shabbat.33b.10\">Shabbat 33ᵇ</span> איזיל אֲתַקֵּין מילתא I will go and remedy something (do something to benefit the community). <span class=\"refLink\" data-ref=\"Shabbat 33b:10\" href=\"/Shabbat.33b.10\">Ib.</span> <span dir=\"rtl\">איכא מילתא דבעי לתַקּוּנֵי</span> is there anything that requires to be remedied? <span class=\"refLink\" data-ref=\"Zevachim 15a:1\" href=\"/Zevachim.15a.1\">Zevachim 15ᵃ</span> <span dir=\"rtl\">אפשר לתַקּוּנָהּ</span> it can be remedied. <span class=\"refLink\" data-ref=\"Zevachim 76b:2\" href=\"/Zevachim.76b.2\">Ib. 76ᵇ</span> <span dir=\"rtl\">תַּקּוּנֵי גברא שאני</span> when a person is to be made fit (restored from a disqualification), we make an exception; <span class=\"refLink\" data-ref=\"Menachot 105b\" href=\"/Menachot.105b\">Menachot 105ᵇ</span>. <span class=\"refLink\" data-ref=\"Ketubot 85a\" href=\"/Ketubot.85a\">Ketubot 85ᵃ</span>, and from <span dir=\"rtl\">לתקוני שדרתיך</span>, see <span class=\"refLink\" data-ref=\"Jastrow, עֲוַת 1\" dir=\"rtl\" href=\"/Jastrow,_עֲוַת.1\">עֲוַת</span>; and from—Esp. <i>to make fit for use by separating the priestly gifts</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 60:8\" href=\"/Bereishit_Rabbah.60.8\">Breishit Rabbah section (Parashah) 60</span> <span dir=\"rtl\">תַּקְּנַת אילין וכ׳</span> hast thou tithed those figs? <span class=\"refLink\" data-ref=\"Bereishit Rabbah 60\" href=\"/Bereishit_Rabbah.60\">Ib.</span> <span dir=\"rtl\">תַּקַּנְתּוּהוּ</span> have you tithed it (the barley)?; and from—Part. pass. as ab. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 60\" href=\"/Bereishit_Rabbah.60\">Ib.</span> <span dir=\"rtl\">אפשר … דלא מְתַקְּנַן</span> is it possible that R. Z. should have eaten of them when they were not tithed?; and from <br><b><br>—3)</b> <i>to introduce, ordain, innovate, reform</i>. <span class=\"refLink\" data-ref=\"Berakhot 33b:22\" href=\"/Berakhot.33b.22\">Berakhot 33ᵇ</span> <span dir=\"rtl\">אי לאו … ותַקְּנִינְהוּ בתפלה וכ׳</span> were it not that Moses had said them (the words, ‘O God, great, mighty and terrible’), and the men of the Great Assembly had come and introduced them in the prayers, we could not dare to say them. <span class=\"refLink\" data-ref=\"Berakhot 33b:8\" href=\"/Berakhot.33b.8\">Ib.</span> <span dir=\"rtl\">תמני סרי תַּקּוּן וכ׳</span> eighteen benedictions they have ordained, nineteen they have not. <span class=\"refLink\" data-ref=\"Berakhot 40b:5\" href=\"/Berakhot.40b.5\">Ib. 40ᵇ</span> <span dir=\"rtl\">ברכה דלא תַקִּינוּ רבנן</span> a benediction which the Rabbis have not introduced. <span class=\"refLink\" data-ref=\"Bava Batra 90b:2\" href=\"/Bava_Batra.90b.2\">Bava Batra 90ᵇ</span> רב פפא … ת׳ כיילא וכ׳ Rab Papa … introduced a measure of three Ḳ’fizas. <span class=\"refLink\" data-ref=\"Bava Batra 90b:2\" href=\"/Bava_Batra.90b.2\">Ib.</span> <span dir=\"rtl\">אנא … תַּקִּינִי</span> I have introduced a new measure; and see from<br></br> <strong>Af.</strong> - <strong dir=\"rtl\">אַתְקֵין</strong> <br><b>1)</b> <i>to establish</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Proverbs 3:19\" href=\"/Aramaic_Targum_to_Proverbs.3.19\">Targum Mishlei III, 19</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 30:33\" href=\"/Targum_Jonathan_on_Isaiah.30.33\">Targum Isaiah XXX, 33</span>; and e. <br><b><br>—2)</b> <i>to prepare, arrange, set in order</i> &c. (see <i>Pa.</i>).). <span class=\"refLink\" data-ref=\"Onkelos Numbers 10:33\" href=\"/Onkelos_Numbers.10.33\">Targum Bamidbar X, 33</span>. <span class=\"refLink\" data-ref=\"Onkelos Genesis 43:16\" href=\"/Onkelos_Genesis.43.16\">Targum Breishit XLIII, 16</span>. <span class=\"refLink\" data-ref=\"Onkelos Exodus 30:7\" href=\"/Onkelos_Exodus.30.7\">Targum Shemot XXX, 7</span>; and from <br><b><br>—3)</b> <i>to introduce, ordain, innovate, reform.</i> <span class=\"refLink\" data-ref=\"Rosh Hashanah 34a\" href=\"/Rosh_Hashanah.34a\">Rosh Hashanah 34ᵃ</span> <span dir=\"rtl\">איתקין ר׳ אבהו וכ׳</span> (read: <span class=\"refLink\" data-ref=\"Jastrow, אִיתְכָּלָא 1\" dir=\"rtl\" href=\"/Jastrow,_אִיתְכָּלָא.1\">אַתְ׳</span>; Manuscript Munich <span class=\"refLink\" data-ref=\"Jastrow, תָּקַן 1\" dir=\"rtl\" href=\"/Jastrow,_תָּקַן.1\">הִתְקִין</span> Hebr.) R. A. introduced the custom in Cæsaræa of sounding one T’ḳiʿah, three notes of Sh’barim, and one T’ḳiʿah. <span class=\"refLink\" data-ref=\"Rosh Hashanah 34a:22\" href=\"/Rosh_Hashanah.34a.22\">Ib.</span> <span dir=\"rtl\">מאי א׳</span> what has he improved (what has he achieved with his ordinance)? <span class=\"refLink\" data-ref=\"Gittin 86a:2\" href=\"/Gittin.86a.2\">Gittin 86ᵃ</span> א׳ רב יהודה וכ׳ Rab Judah introduced the formula for the sale of slaves: ‘this slave &c.’ Yerushalmi Ḥag. I, 76ᶜ <span dir=\"rtl\">ר׳ יודה … למַתְקְנָא לון וכ׳</span> (or <span dir=\"rtl\">למְתַקְּנָא</span>, <i>Pa.</i>) R. Judah the Nasi sent out R. Ḥ…, that they should pass the towns … to institute teachers of Bible and of Mishnah for them; <span class=\"refLink\" data-ref=\"Midrash Tehillim 127\" href=\"/Midrash_Tehillim.127\">Midrash Till. to Psalms CXXVII</span>; Eicha Rabbah introduction, beginning <span dir=\"rtl\">דיפקון ויַתְקְנוּן קרייתא וכ׳</span> (or <span dir=\"rtl\">ויתַקְּנוּן</span>) that they should go and improve (the education of) the towns in Palestine; and from<br></br> <strong>Ithpaal</strong> - <strong dir=\"rtl\">אִתַּקֵּין</strong>, <strong dir=\"rtl\"> אִיתַּקַּן</strong> ; <i>Ithpeel</i> <span dir=\"rtl\">אִיתְּקֵין</span>, <span class=\"refLink\" data-ref=\"Jastrow, אַתְקַפְתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_אַתְקַפְתָּא.1\">אִיתְ׳</span> <br><b>1)</b> <i>to be established, confirmed; to be prepared, arranged</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on I Kings 2:46\" href=\"/Targum_Jonathan_on_I_Kings.2.46\">Targum I Kings II, 46</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Proverbs 12:19\" href=\"/Aramaic_Targum_to_Proverbs.12.19\">Targum Mishlei XII, 19</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Proverbs 19:29\" href=\"/Aramaic_Targum_to_Proverbs.19.29\">Ib. XIX, 29</span> (ed. Vilna <span class=\"refLink\" data-ref=\"Jastrow, מְתַרְכָא 1\" dir=\"rtl\" href=\"/Jastrow,_מְתַרְכָא.1\">מְתַ׳</span>, participle pass. <i>Pa.</i>); and from <br><b><br>—2)</b> <i>to be prepared, dressed; to dress, adorn one’s self</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Hosea 2:15\" href=\"/Targum_Jonathan_on_Hosea.2.15\">Targum Hosea II, 15</span>. Targum Sheni (to Esther) Esther V, 1; and from <br><b><br>—3)</b> <i>to be instituted, ordained</i>. <span class=\"refLink\" data-ref=\"Bava Kamma 82a:5\" href=\"/Bava_Kamma.82a.5\">Bava Kamma 82ᵃ</span> עזרא תיקן … מִיתַּקְּנָא Ezra introduced this? was it not introduced before that (by Moses)?; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, תְּקֵן 1",
+              "sourceHeRef": "מילון יסטרוב, תְּקֵן א׳",
+              "sourceRef": "Jastrow, תְּקֵן 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ונאכל ליום ולילה</b> כדין אשם (ולא לשני ימים, כשלמים). הרי שבמקרה של ספק מתיר ר' שמעון לכתחילה להביא קדשים לבית הפסול, ולא רק במקרה שנתערבו בהמות העומדות להקרבה! ומשיבים: <b>תקוני גברא שאני</b> <span class=\"hebrew-emphasis\">[תיקון האדם שונה],</span> שכיון שאין לו דרך להיטהר לגמרי מצרעתו, אלא אם יביא קרבנו — אין חוששים למיעוט אכילת הקדשים.",
+              "ref": "Steinsaltz on Zevachim 76b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:ב",
+              "sourceRef": "Steinsaltz on Zevachim 76b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וכן הוא נאכל דווקא לכהנים זכרים, ובעזרה, וכדין אשם (תוספתא נזיר פ\"ו א).",
+              "ref": "Steinsaltz comment #1 on Zevachim 76b:2",
+              "sourceHeRef": "ונאכל ליום ולילה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ונאכל ליום ולילה</strong> - ובתודה דאין נאכלת אלא ליום ולילה אין יכול להתנות משום דבעינן לחם ובלחם אי אפשר לעשות תקנה כדמוכח בפ' התודה <span class=\"parenthesized\">(מנחות דף פ:)</span>:",
+              "ref": "Tosafot on Zevachim 76b:2:1",
+              "sourceHeRef": "תוספות על זבחים ע״ו ב:ב:א",
+              "sourceRef": "Tosafot on Zevachim 76b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> lastly, <b>it is eaten</b> by males of the priesthood <b>on</b> the <b>day</b> it is sacrificed <b>and</b> the following <b>night,</b> in the Temple courtyard, like a guilt offering, not for two days and one night in the manner of a peace offering. This indicates that <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> permits one to bring sacrificial animals to the status of unfitness even <i>ab initio</i>, not only when the animals became intermingled. The Gemara answers that <b>the remedy of a man is different</b> from the case discussed by <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span>. Since this person has no way of purifying himself from his leprosy other than by bringing the offering, the concern of reducing the time available for its consumption is disregarded.",
+      "he": "ונאכל ליום ולילה תקוני גברא שאני",
+      "ref": "Zevachim 76b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא תינח אשם כו'</strong> - מלתיה דר\"ש קא מפרש ואזיל ולאו לרבא קא מותיב:",
+              "ref": "Rashi on Zevachim 76b:3:1",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ג:א",
+              "sourceRef": "Rashi on Zevachim 76b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לוג זה יהא נדבה</strong> - אם אינו מצורע דאמרי' לקמן בפ' כל התדיר <span class=\"parenthesized\">(זבחים דף צא.)</span> מתנדבין שמן בפני עצמו:",
+              "ref": "Rashi on Zevachim 76b:3:2",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ג:ב",
+              "sourceRef": "Rashi on Zevachim 76b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ובעי מיקמץ</strong> - המתנדב שמן קומצו ומקטיר הקומץ ושיריו נאכלין כדיליף ליה מקרבן מנחה <span class=\"parenthesized\">(קרבן)</span> מלמד שמתנדבין שמן כמנחה כו':",
+              "ref": "Rashi on Zevachim 76b:3:3",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ג:ג",
+              "sourceRef": "Rashi on Zevachim 76b:3:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ולגופה של שיטת ר' שמעון שואלים: פתרון זה של ר' שמעון על ידי תנאי <b>התינח</b> <span class=\"hebrew-emphasis\">[זה נוח]</span> לגבי ה<b>אשם,</b> ואולם ביחס ל<b>לוג</b> שמן שצריך המצורע להביא <b>מאי איכא למימר</b> <span class=\"hebrew-emphasis\">[מה יש לומר]?</span> שהרי אין לוג שמן בא עם השלמים! ומשיבים: <b>דאמר</b> <span class=\"hebrew-emphasis\">[ש</span>הוא מתנה ו<span class=\"hebrew-emphasis\">אומר]</span> שאם אינו מצורע <b>לוג זה יהא נדבה,</b> שכן ניתן להקדיש שמן כנדבה. ושואלים: <b>ודילמא</b> <span class=\"hebrew-emphasis\">[ושמא]</span> באמת <b>לאו</b> <span class=\"hebrew-emphasis\">[לא]</span> <b>מצורע הוא,</b> <b>ו</b>אם כן, <b>בעי מקמץ</b> <span class=\"hebrew-emphasis\">[צריך להיות נקמץ],</span> כפי שנוטלים קומץ מסולת המנחה, ולהקטיר אותו על המזבח כדי להתירו לכהנים באכילה! ומשיבים: מדובר <b>דמקמיץ</b> <span class=\"hebrew-emphasis\">[ש</span>לוג זה אכן <span class=\"hebrew-emphasis\">נקמץ]</span> תחילה.",
+              "ref": "Steinsaltz on Zevachim 76b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:ג",
+              "sourceRef": "Steinsaltz on Zevachim 76b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If he is not obligated to bring the offering of a leper, it would have turned out that he has brought non-sacred oil into the Temple courtyard. Although the act of bringing a non-sacred substance into the courtyard is not prohibited in of itself, the sprinkling of the oil is considered a sacrificial rite, as the Gemara will explain (<i>Tosafot</i>). With regard to the prohibition against bringing non-sacred animals into the courtyard, see <i>Bava Batra</i> 81b and the early commentaries there.",
+              "he": "שאם אינו חייב בקרבן המצורע נמצא שהכניס שמן חולין לעזרה. ואף שהכנסת חולין לעזרה כשלעצמה אינה אסורה, אלא דווקא כשיש בה מעשה של הקרבה, מכל מקום ההזיה מן השמן לפני ה' מעשה של הקרבה הוא, כמבואר להלן (תוס'. ולגופו של איסור הכנסת חולין לעזרה, ראה ב\"ב פא,ב ובראשונים שם).",
+              "ref": "Steinsaltz comment #1 on Zevachim 76b:3",
+              "sourceHeRef": "לוֹג מַאי אִיכָּא לְמֵימַר",
+              "sourceRef": "With regard to the <i>log</i> of oil what can be said"
+            },
+            {
+              "en": "",
+              "he": "שדינו של שמן נדבה כדין מנחה, שהכהן קומץ ממנה בקומצו כדי להקטירה על המזבח, והשיריים נאכלים על ידי הכהנים (ראה להלן צא,ב). וכן דינו של לוג שמן של מצורע. ואף שלא נתפרש הדבר בכתוב, מכל מקום הלכה מוסכמת היא, ששייריו (לאחר ההזיות לפני ה', וכן המתנות על המצורע) הריהם של הכהנים (ראה להלן צא,ב).",
+              "ref": "Steinsaltz comment #2 on Zevachim 76b:3",
+              "sourceHeRef": "ובעי מקמץ",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לוג מאי איכא למימר</strong> - פי' דשמא אינו מצורע והוי חולין בעזרה כיון דעביד מינה עבודה שמזה שבע כנגד פתח אהל מועד ונותן על הבהונות ועל ראש המצורע ותימה ליזיל ליקדיש ליה קדושת דמים על תנאי אם אינו מצורע דהשתא נמי מייתי פורתא להשלים הלוג וליקדוש ליה קדושת דמים וכי בעי למיכל השיריים פריק להו כדאיתא בסמוך ויש לומר דהכי עדיף טפי לעשות קדושת הגוף בכל מה שיכול ותימה לי היאך נותן מתן שבע ועל הבהונות מההוא פורתא שקדוש קדושת דמים דשמא אינו מצורע וזורקו לאיבוד שמן הקדש. ברו\"ך:",
+              "ref": "Tosafot on Zevachim 76b:3:1",
+              "sourceHeRef": "תוספות על זבחים ע״ו ב:ג:א",
+              "sourceRef": "Tosafot on Zevachim 76b:3:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks a question with regard to the resolution suggested by <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> of bringing the offerings and stating a stipulation. This <b>works out well</b> with regard to the <b>guilt offering,</b> but with regard to the <b><i>log</i></b> of oil <b>what can be said?</b> A <i>log</i> of oil does not accompany a peace offering. The Gemara explains <b>that</b> the individual bringing the offering <b>says:</b> If I am not a leper, then <b>this <i>log</i> shall be a gift</b> to the Temple, as one can dedicate oil to the Temple. The Gemara questions this resolution: <b>But perhaps he is not</b> in fact <b>a leper, and</b> if so, it is <b>required</b> that a priest <b>remove a handful</b> of the donated oil and sacrifice a handful of it on the altar before the rest of the oil may be consumed by the priests, as is the <i>halakha</i> with regard to oil brought as an offering. The Gemara explains that this is referring to a case <b>where</b> the priest already <b>removed a handful.</b>",
+      "he": "התינח אשם לוג מאי איכא למימר דאמר לוג זה יהא נדבה ודילמא לאו מצורע הוא ובעי מקמץ דמקמיץ",
+      "ref": "Zevachim 76b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "And the priest shall dip his right finger in the oil that is in the palm of his left hand and sprinkle some of the oil with his finger seven times before the L<small>ORD</small>.",
+                      "he": "וְטָבַ֤ל הַכֹּהֵן֙ אֶת־אֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־כַּפּ֖וֹ הַשְּׂמָאלִ֑ית וְהִזָּ֨ה מִן־הַשֶּׁ֧מֶן בְּאֶצְבָּע֛וֹ שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהֹוָֽה׃",
+                      "link": "/Leviticus/14",
+                      "ref": "Leviticus 14:16",
+                      "sourceHeRef": "ויקרא יד:טז",
+                      "sourceRef": "Leviticus 14:16"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מתן שבע</strong> - כדכתיב קרא בלוג של מצורע והזה מן השמן באצבעו [וגו'] <span class=\"parenthesized\">(ויקרא י״ד:ט״ז)</span>:",
+              "ref": "Rashi on Zevachim 76b:4:1",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ד:א",
+              "sourceRef": "Rashi on Zevachim 76b:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ודילמא</b> <span class=\"hebrew-emphasis\">[ושמא]</span> באמת <b>מצורע הוא, ובעי</b> <span class=\"hebrew-emphasis\">[וצריך]</span> <b>מתן שבע</b> הזיות מלוג השמן לפני ה' (ראה ויקרא יד, טו— טז)! ומשיבים: <b>דיהיב</b> <span class=\"hebrew-emphasis\">[ש</span>הכהן אכן <span class=\"hebrew-emphasis\">נותן]</span> את המתנות הללו.",
+              "ref": "Steinsaltz on Zevachim 76b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:ד",
+              "sourceRef": "Steinsaltz on Zevachim 76b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שנאמר: \"ולקח הכהן מלוג השמן ויצק על כף הכהן השמאלית. וטבל הכהן את אצבעו הימנית מן השמן אשר על כפו השמאלית והזה מן השמן באצבעו שבע פעמים לפני ה'\" (ויקרא יד, טו—טז), כלומר, כנגד בית קדש הקדשים (נגעים פי\"ד מ\"י). ובתוס' הבינו כי הכוונה היא שהכהן נכנס לתוך ההיכל ומזה (ראה ד\"ה \"ואי\"). אבל מפרשי המשנה הסבירו כי הכהן עומד בעזרה ומזה כנגד קדש הקדשים (ר\"ש משאנץ ועוד).",
+              "ref": "Steinsaltz comment #1 on Zevachim 76b:4",
+              "sourceHeRef": "ובעי מתן שבע",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": [
+                "The priest shall then take some of the <i>log</i> of oil and pour it into the palm of his own left hand.",
+                "And the priest shall dip his right finger in the oil that is in the palm of his left hand and sprinkle some of the oil with his finger seven times before the L<small>ORD</small>."
+              ],
+              "he": [
+                "וְלָקַ֥ח הַכֹּהֵ֖ן מִלֹּ֣ג הַשָּׁ֑מֶן וְיָצַ֛ק עַל־כַּ֥ף הַכֹּהֵ֖ן הַשְּׂמָאלִֽית׃",
+                "וְטָבַ֤ל הַכֹּהֵן֙ אֶת־אֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־כַּפּ֖וֹ הַשְּׂמָאלִ֑ית וְהִזָּ֨ה מִן־הַשֶּׁ֧מֶן בְּאֶצְבָּע֛וֹ שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהֹוָֽה׃"
+              ],
+              "link": "/Leviticus/14",
+              "ref": "Leviticus 14:15-16",
+              "sourceHeRef": "ויקרא יד:טו-טז",
+              "sourceRef": "Leviticus 14:15-16"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara further questions: <b>But perhaps he is</b> in fact <b>a leper, and he requires the placement of seven</b> sprinklings of oil before the Lord (see Leviticus 14:15–16). The Gemara answers <b>that</b> the priest does <b>place</b> these sprinklings.",
+      "he": "ודילמא מצורע הוא ובעי מתן שבע דיהיב",
+      "ref": "Zevachim 76b:4"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "[The priest] then took some [of the contents] of the log of oil and poured it into his colleague's hand; And if he poured it into his own hand, the obligation is fulfilled. He then dipped [his right forefinger] in the oil and sprinkled it seven times towards the Holy of Holies, dipping it for every sprinkling. He then approached the metzora, to the same places that he applied the blood he now applied the oil, as it is said, \"Over the same places as the blood of the guilt offering; 29 and what is left of the oil in his palm the priest shall put on the head of the one being cleansed, to make expiation for him before the Lord.\" (Leviticus 14:28-29). If he \"put upon,\" he has made atonement, but if he did not \"put upon,\" he did not make atonement, the words of Rabbi Akiba. Rabbi Yohanan ben Nuri says: these are but the remainders of the mitzvah. Whether he \"put upon\" or did not \"put upon,\" atonement is made, only it is accounted to him as if he did not make atonement. If any oil was missing from the log before it was poured out it may be filled up again; if after it was poured out, other oil must be brought anew, the words of Rabbi Akiva. Rabbi Shimon says: if any oil was missing from the log before it was applied, it may be filled up; but if after it had been applied, other oil must be brought anew.",
+              "he": "נָטַל מִלֹּג הַשֶּׁמֶן וְיָצַק לְתוֹךְ כַּפּוֹ שֶׁל חֲבֵרוֹ. וְאִם יָצַק לְתוֹךְ כַּף עַצְמוֹ, יָצָא. טָבַל וְהִזָּה שֶׁבַע פְּעָמִים כְּנֶגֶד בֵּית קֹדֶשׁ הַקֳּדָשִׁים, עַל כָּל הַזָּיָה טְבִילָה. בָּא לוֹ אֵצֶל הַמְּצֹרָע, מְקוֹם שֶׁהוּא נוֹתֵן אֶת הַדָּם, שָׁם הוּא נוֹתֵן אֶת הַשֶּׁמֶן, שֶׁנֶּאֱמַר <span class=\"parenthesized\">(ויקרא יד)</span>, עַל מְקוֹם דַּם הָאָשָׁם. וְהַנּוֹתָר מִן הַשֶּׁמֶן אֲשֶׁר עַל כַּף הַכֹּהֵן יִתֵּן עַל רֹאשׁ הַמִּטַּהֵר לְכַפֵּר. אִם נָתַן, כִּפֵּר. וְאִם לֹא נָתַן, לֹא כִפֵּר, דִּבְרֵי רַבִּי עֲקִיבָא. רַבִּי יוֹחָנָן בֶּן נוּרִי אוֹמֵר, שְׁיָרֵי מִצְוָה הֵן, בֵּין שֶׁנָּתַן בֵּין שֶׁלֹּא נָתַן, כִּפֵּר, וּמַעֲלִין עָלָיו כְּאִלּוּ לֹא כִפֵּר. חָסַר הַלֹּג עַד שֶׁלֹּא יָצַק, יְמַלְאֶנּוּ. מִשֶּׁיָּצַק, יָבִיא אַחֵר בַּתְּחִלָּה, דִּבְרֵי רַבִּי עֲקִיבָא. רַבִּי שִׁמְעוֹן אוֹמֵר, חָסַר הַלֹּג עַד שֶׁלֹּא נָתַן, יְמַלְאֶנּוּ. מִשֶּׁנָּתַן, יָבִיא אַחֵר בַּתְּחִלָּה:",
+              "link": "/Mishnah Negaim/14",
+              "ref": "Mishnah Negaim 14:10",
+              "sourceHeRef": "משנה נגעים יד:י",
+              "sourceRef": "Mishnah Negaim 14:10"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A person may bring his guilt-offering one day and his <i>log</i> of oil even after ten days. If he desires to alter the designation of the <i>log</i> and designate it for the guilt-offering of another afflicted person, he may although he has already had it consecrated in a sacred utensil. If the amount of oil decreased before it was poured into the priest's hand and was less than a <i>log</i>, the measure should be refilled. If it decreased after it was poured, another <i>log</i> should be brought instead.",
+              "he": "יֵשׁ לְאָדָם לְהָבִיא אֲשָׁמוֹ הַיּוֹם וְלוֹגוֹ אַחַר עֲשָׂרָה יָמִים. וְאִם רָצָה לְשַׁנּוֹת הַלּוֹג לַאֲשַׁם מְצֹרָע אַחֵר מְשַׁנֶּה אַף עַל פִּי שֶׁקָּדַשׁ בִּכְלִי. חָסַר הַלּוֹג עַד שֶׁלֹּא יָצַק יְמַלְּאֶנּוּ. חָסַר מֵאַחַר שֶׁיָּצַק יָבִיא אַחֵר בַּתְּחִלָּה:",
+              "ref": "Mishneh Torah, Offerings for Those with Incomplete Atonement 5:4",
+              "sourceHeRef": "הלכות מחוסרי כפרה ה:ד",
+              "sourceRef": "Offerings for Those with Incomplete Atonement 5:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא חסר ליה</strong> - ע\"י קמיצה ולוג חסר פסול כדכתיב <span class=\"parenthesized\">(שם)</span> ולוג שמן:",
+              "ref": "Rashi on Zevachim 76b:5:1",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ה:א",
+              "sourceRef": "Rashi on Zevachim 76b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עד שלא יצק</strong> - מן הלוג על כפו השמאלית כדכתיב ומן השמן יצק הכהן על כף הכהן השמאלית והזה הכהן באצבעו הימנית מן השמן אשר על כפו השמאלית <span class=\"parenthesized\">(שם)</span>:",
+              "ref": "Rashi on Zevachim 76b:5:2",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ה:ב",
+              "sourceRef": "Rashi on Zevachim 76b:5:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: וכיצד הוא יכול להזות? <b>והא חסר ליה</b> <span class=\"hebrew-emphasis\">[והרי</span> כבר <span class=\"hebrew-emphasis\">נחסר לו]</span> לוג השמן על ידי הקמיצה, ואין מזים אלא מלוג שלם! ומשיבים: <b>דמייתי פורתא ומלי ליה</b> <span class=\"hebrew-emphasis\">[ש</span>לאחר הקמיצה <span class=\"hebrew-emphasis\">מביא מעט</span> שמן נוסף, <span class=\"hebrew-emphasis\">וממלא,</span> משלים, <span class=\"hebrew-emphasis\">אותו</span> לכדי שיעור לוג<span class=\"hebrew-emphasis\">].</span> <b>דתנן</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו]:</span> <b>חסר הלוג עד שלא</b> <b>יצק</b> הכהן מן השמן על כפו השמאלית, על מנת להזות ממנה על המצורע באצבעו הימנית — <b>ימלאנו.</b>",
+              "ref": "Steinsaltz on Zevachim 76b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:ה",
+              "sourceRef": "Steinsaltz on Zevachim 76b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If the <i>log</i> of oil became lacking before the priest poured from it into his  palm in order to place it on the right thumb and big toe of the leper, he refills it. If it became lacking after the priest poured it into his palm, he should bring another <i>log</i> and start afresh, as stated in the mishna in  <i>Nega’im</i> 14:10 (Rambam<i> Sefer Korbanot</i>,<i> Hilkhot Meĥusrei Kappara</i> 5:4).",
+              "he": "ולוג שמן של מצורע שחסר פסול הוא, כפי שדייקו בתורת כהנים מן המלה \"הוא\" (ויקרא יד, יג) — פרט לשחסר כל שהוא. וראה ברש\"י שהביא לכך מקור אחר.",
+              "ref": "Steinsaltz comment #1 on Zevachim 76b:5",
+              "sourceHeRef": "חָסַר הַלּוֹג",
+              "sourceRef": "The <i>log </i>lacked<i> </i>"
+            },
+            {
+              "en": "",
+              "he": "חסר הלוג לפני שיצק — ימלאנו. ואם חסר אחרי שיצק — יביא לוג אחר בתחילה. כמשנה בנגעים (פי\"ד מ\"י). (רמב\"ם ספר קרבנות הלכות מחוסרי כפרה פ\"ה ה\"ד).",
+              "ref": "Steinsaltz comment #2 on Zevachim 76b:5",
+              "sourceHeRef": "חסר הלוג",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חסר הלוג עד שלא יצק ימלאנו</strong> - משנה זו במס' נגעים פ' בתרא <span class=\"parenthesized\">(מ\"י)</span>:",
+              "ref": "Tosafot on Zevachim 76b:5:1",
+              "sourceHeRef": "תוספות על זבחים ע״ו ב:ה:א",
+              "sourceRef": "Tosafot on Zevachim 76b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara raises a difficulty: How can the priest sprinkle the oil? <b>But it is lacking,</b> as a handful has been removed from the oil, and one sprinkles only from a whole <i>log</i>. The Gemara explains <b>that</b> after the handful is removed the priest <b>brings a little</b> more oil to the container <b>and fills it</b> up to a <i>log</i>. This is <b>as we learned</b> in a mishna (<i>Nega’im</i> 14:10): In a case where <b>the <i>log</i> lacked</b> a full measure, then <b>if</b> it became lacking <b>before</b> the priest <b>poured</b> from it into his palm in order to place it on the right thumb and big toe of the leper, <b>he shall fill it.</b>",
+      "he": "והא חסר ליה דמייתי פורתא ומלי ליה דתנן חסר הלוג עד שלא יצק ימלאנו",
+      "ref": "Zevachim 76b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא בעי קומץ הקטרה</strong> - דדלמא נדבה הוא:",
+              "ref": "Rashi on Zevachim 76b:6:1",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ו:א",
+              "sourceRef": "Rashi on Zevachim 76b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דמקטיר ליה</strong> - ושיריים נאכלין ממ\"נ אי דמצורע הוא הרי הוא נאכל כדאמרי' בפ' בית שמאי <span class=\"parenthesized\">(לעיל זבחים דף מד:)</span> לכל קרבנם לרבות לוג שמן של מצורע ואי נדבה הוא הרי הוא כשירי מנחה:",
+              "ref": "Rashi on Zevachim 76b:6:2",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ו:ב",
+              "sourceRef": "Rashi on Zevachim 76b:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וחוזרים ושואלים: <b>ו</b>אם אין הוא מצורע, ואותו לוג שמן הריהו נדבה, <b>הא בעי</b> <span class=\"hebrew-emphasis\">[הרי</span> הקומץ שקמץ ממנו <span class=\"hebrew-emphasis\">צריך]</span> <b>הקטרה</b> על המזבח, כדי להתיר את השיריים באכילה לכהנים! ומשיבים: <b>דאקטר ליה</b> <span class=\"hebrew-emphasis\">[ש</span>באמת הכהן <span class=\"hebrew-emphasis\">מקטיר אותו].</span>",
+              "ref": "Steinsaltz on Zevachim 76b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:ו",
+              "sourceRef": "Steinsaltz on Zevachim 76b:6"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara poses yet another question: <b>But</b> if he is not a leper, and that <i>log</i> of oil is a gift, that handful removed from the oil <b>requires burning</b> on the altar for the remainder of the oil to be permitted to the priests. The Gemara explains <b>that</b> the priest does in fact <b>burn</b> the handful.",
+      "he": "והא בעי הקטרה דאקטר ליה",
+      "ref": "Zevachim 76b:6"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>Rabbi Yoḥanan said</b> that <b>Rabbi Yehoshua ben Uza’a raised a dilemma: What</b> is the <i>halakha</i> with regard to the flour that remains <b>between</b> the fingers <b>of his handfuls?</b> Is this flour considered to be part of his handful, or is it considered part of the remainder of the meal-offering? The Gemara elaborates: <b>Rav Pappa said</b> that with regard to the flour <b>that is on the inside,</b> toward the hand, <b>do not raise the dilemma, as it</b> is <b>certainly</b> part of <b>the handful.</b> Likewise, with regard to the flour <b>that is on the outside, do not raise the dilemma, as it</b> is <b>certainly</b> part of the <b>remainder</b> of the flour, like the rest of the meal-offering.",
+                "Rather, <b>let the dilemma be raised</b> with regard to the flour <b>between</b> the inside and the outside. <b>What is</b> the status of this flour? <b>Rav Yoḥanan said: Yehoshua ben Uza’a then resolved</b> his own dilemma: The flour that is <b>between is doubtful,</b> and should be treated as questionable in status.",
+                "The Gemara asks: <b>How does one perform</b> the Temple service in this doubtful case? <b>Rabbi Ḥanina said:</b> The priest <b>first burns the handful by itself, and then</b> he burns the flour that was <b>between. For if you say</b> that he should <b>first</b> burn the flour that was <b>between, perhaps they are remainders, and they are</b> therefore considered like <b>remainders that became reduced between taking the handful and burning,</b> as the priest has taken flour from the remainders of the meal-offering. <b>And the Master said:</b> With regard to <b>remainders that became reduced between taking the handful and the burning, one</b> may <b>not burn the handful on their</b> account.",
+                "The Gemara asks: <b>If so,</b> that there is uncertainty as to whether or not this flour is considered part of the remainder of the meal-offering, <b>now too,</b> if the priest burns the in-between flour after burning the handful, one should <b>apply here</b> the principle: <b>Whatever is partly</b> burned <b>in</b> the <b>fire</b> of the altar <b>is subject to</b> the prohibition <b>do not burn.</b> This principle states that if part of an item is burned on the altar, one who burns any other part of it, which is not designated for burning, has violated a prohibition. In this case, if the in-between flour is considered part of the remainder of the meal-offering, the priest who burns it transgresses that prohibition.",
+                "<b>Rav Yehuda, son of Rabbi Shimon ben Pazi, said that</b> the priest does not burn the flour as part of the meal-offering but <b>burns it for the purpose of wood.</b> In other words, he does not burn the flour as part of an offering but merely as fuel for the altar, which is permitted <b>in accordance with</b> the opinion of <b>Rabbi Eliezer. As it was taught</b> in a <i>baraita</i> that <b>Rabbi Eliezer says:</b> “But they shall not come up <b>for a sweet savor</b> on the altar” (Leviticus 2:12). This verse indicates that <b>you</b> may <b>not bring up</b> leaven and honey as a “sweet savor,” an offering. <b>However, you</b> may <b>bring up</b> leaven and honey and other materials <b>for the purpose of wood.</b>",
+                "The Gemara asks: It works out <b>well according to</b> the opinion of <b>Rabbi Eliezer, but according to</b> the opinion of <b>the Rabbis,</b> who reject Rabbi Eliezer’s <i>halakha</i>, <b>what can be said? Rav Mari said:</b> The solution is <b>that fat</b> priests <b>take</b> the <b>handfuls</b> of meal-offerings, as their fleshy fingers press against everything between them, and therefore no flour remains between the fingers. The Gemara states: <b>Now that you have arrived at this</b> conclusion, according to <b>Rabbi Eliezer as well,</b> it is appropriate <b>that fat</b> priests should <b>take</b> the <b>handfuls <i>ab initio</i>,</b> to avoid a situation of doubt."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Yoma 47b:2",
+                "Yoma 47b:3",
+                "Yoma 47b:4",
+                "Yoma 47b:5",
+                "Yoma 47b:6",
+                "Yoma 47b:7"
+              ],
+              "he": [
+                "אָמַר רַבִּי יוֹחָנָן, בָּעֵי רַבִּי יְהוֹשֻׁעַ בֶּן עוּזָּאָה: בֵּין הַבֵּינַיִם שֶׁל מְלֹא קוּמְצוֹ, מַהוּ? אָמַר רַב פָּפָּא: דְּגַוַּאי לָא תִּיבְּעֵי לָךְ — דְּוַדַּאי קוֹמֶץ הוּא. דְּבָרַאי לָא תִּיבְּעֵי לָךְ — דְּוַדַּאי שִׁירַיִם הוּא.",
+                "כִּי תִּיבְּעֵי לָךְ דְּבֵינֵי בֵּינֵי מַאי. אָמַר רַבִּי יוֹחָנָן: הֲדַר פַּשְׁטַהּ יְהוֹשֻׁעַ [בֶּן] עוּזָּאָה: בֵּין הַבֵּינַיִם סָפֵק נִינְהוּ.",
+                "הֵיכִי עָבֵיד? אָמַר רַבִּי חֲנִינָא: מַקְטִיר קוֹמֶץ לְחוֹדֵיהּ תְּחִלָּה, וַהֲדַר בֵּין הַבֵּינַיִם. דְּאִי אָמְרַתְּ בֵּין הַבֵּינַיִם בְּרֵישָׁא — דִּילְמָא שִׁירַיִם נִינְהוּ וְהָווּ לְהוּ שִׁירַיִם שֶׁחָסְרוּ בֵּין קְמִיצָה [לְהַקְטָרָה], וְאָמַר מָר: שִׁירַיִם שֶׁחָסְרוּ בֵּין קְמִיצָה לְהַקְטָרָה אֵין מַקְטִירִין עֲלֵיהֶן אֶת הַקּוֹמֶץ.",
+                "אִי הָכִי, הַשְׁתָּא נָמֵי אִיקְּרִי כָּאן: כֹּל שֶׁמִּמֶּנּוּ לָאִשִּׁים — הֲרֵי הוּא בְּבַל תַּקְטִירוּ.",
+                "אָמַר רַבִּי יְהוּדָה בְּרֵיהּ דְּרַבִּי שִׁמְעוֹן בֶּן פַּזִּי: דְּמַקְטֵיר לֵיהּ לְשׁוּם עֵצִים, כְּרַבִּי אֱלִיעֶזֶר. דְּתַנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: ״לְרֵיחַ נִיחוֹחַ״ אִי אַתָּה מַעֲלֶה, אֲבָל אַתָּה מַעֲלֶה לְשׁוּם עֵצִים.",
+                "הָנִיחָא לְרַבִּי אֱלִיעֶזֶר, אֶלָּא לְרַבָּנַן מַאי אִיכָּא לְמֵימַר? אָמַר רַב מָרִי: דְּקָמְצִי שַׁמִּינֵי. הַשְׁתָּא דְּאָתֵית לְהָכִי, רַבִּי אֱלִיעֶזֶר נָמֵי לְכַתְּחִילָּה דְּקָמְצִי שַׁמִּינֵי."
+              ],
+              "link": "/Yoma/47b",
+              "originalRefsBeforeRewriting": [
+                "Yoma 47b:4"
+              ],
+              "ref": "Yoma 47b:2-7",
+              "sourceHeRef": "יומא מ״ז ב",
+              "sourceRef": "Yoma 47b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי בתר מתנות שבע</strong> - דלמא נדבה הוא וכי יהיב מתן שבע בתר קמיצה הוו להו שיריים שחסרו בין קמיצה להקטרה וקי\"ל במנחות בפ\"ק <span class=\"parenthesized\">(דף ט:)</span> אין מקטירין הקומץ עליהן דכתיב מן המנחה פרט לשחסרה היא כו':",
+              "ref": "Rashi on Zevachim 76b:7:1",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ז:א",
+              "sourceRef": "Rashi on Zevachim 76b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>אימת</b> <span class=\"hebrew-emphasis\">[מתי]</span> מקטיר הכהן את הקומץ? <b>אי בתר</b> <span class=\"hebrew-emphasis\">[אם אחר]</span> <b>מתנות שבע</b> שלפני ה', לטהרת המצורע — אינו יכול לעשות זאת, שהרי בהזאות אלו נחסר לוג השמן, ומה שנותר <b>הוו להו</b> <span class=\"hebrew-emphasis\">[נהיו</span> בכך<span class=\"hebrew-emphasis\">]</span> כ<b>שיריים</b> של מנחה <b>שחסרו בין קמיצה להקטרה, ואין מקטירין</b> עוד <b>את הקומץ עליהן</b> כדי להתירם באכילה.",
+              "ref": "Steinsaltz on Zevachim 76b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:ז",
+              "sourceRef": "Steinsaltz on Zevachim 76b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שנאמר: \"והרים הכהן מן המנחה את אזכרתה והקטיר המזבחה\" (ויקרא ב, ט), ודרשו את ההדגשה \"מן המנחה\" — שיקטיר רק כשכל המנחה קיימת (מנחות ט, ב). ואף שנחלקו בענין זה ר' יוחנן וריש לקיש (מנחות ט עמוד א), ולדעת ר' יוחנן שהלכה כמותו מקטירים את הקומץ, מכל מקום גם לדעתו השיריים עצמם אסורים באכילה על ידי הכהנים.",
+              "ref": "Steinsaltz comment #1 on Zevachim 76b:7",
+              "sourceHeRef": "שיריים שחסרו בין קמיצה להקטרה ואין מקטירין וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אימת אי בתר מתנות שבע הוה להו שיריים שחסרו בין קמיצה להקטרה כו'</strong> - וא\"ת והא ר' יוחנן הוא דאמר בפ\"ק דמנחות <span class=\"parenthesized\">(דף ט.)</span> דמקטירין קומץ עליהם ואפי' ר\"ל דאמר אין מקטירין אליבא דר\"א מודה דמקטירין כדאיתא התם וכר' אליעזר משני הכא לבסוף דמסיק לשם עצים ויש לומר אע\"ג דמקטירין מ\"מ לענין אכילה לא משכחת תקנה דהא אסירי שיריים באכילה כדנפקא ליה התם מוהנותרת ולא הנותרת מן הנותרת:",
+              "ref": "Tosafot on Zevachim 76b:7:1",
+              "sourceHeRef": "תוספות על זבחים ע״ו ב:ז:א",
+              "sourceRef": "Tosafot on Zevachim 76b:7:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>When</b> does the priest burn the handful? <b>If</b> he does so <b>after the placement of seven</b> sprinklings for the leper’s purification, in such a case the <i>log</i> will be lacking due to the sprinklings. That which remains <b>is</b> akin to the <b>remainder</b> of a meal offering <b>that was lacking between</b> the <b>removal of</b> the <b>handful and</b> the <b>burning, and one may not burn the handful for that</b> remainder. Similar to a gift of oil, in a meal offering a handful is removed from the offering and then sacrificed on the altar. If after the handful is removed but before it is sacrificed some of the remainder of the meal offering is separated, the handful may not be sacrificed. The same should apply if some of the oil was sprinkled after the handful was removed.",
+      "he": "אימת אי בתר מתנות שבע הוו להו שיריים שחסרו בין קמיצה להקטרה ואין מקטירין את הקומץ עליהן",
+      "ref": "Zevachim 76b:7"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>GEMARA:</strong> <b>The Sages taught</b> (<i>Tosefta</i> 2:6): <b>All</b> the women <b>who are married into the priesthood, their meal-offerings are burned. How so?</b> With regard to <b>the daughter of a priest,</b> or <b>the daughter of a Levite or an Israelite woman who is married to a priest, her meal-offering is not eaten due to</b> the fact <b>that</b> her father or husband, respectively, <b>has a share in</b> the meal-offering, and it is therefore treated as the meal-offering of a priest, which is not eaten. <b>But it is not completely burned</b> without removing a handful from it, as the Torah states with regard to the meal-offering of a priest, <b>due to</b> the fact <b>that she</b> also <b>has a share in it. Rather, the handful is sacrificed by itself, and the remainder</b> of the meal-offering <b>is sacrificed by itself.</b>",
+                  "The Gemara asks: One should <b>apply here</b> the principle that in the case of <b>any</b> offering <b>that is</b> meant to be <b>partly</b> burned <b>on the flames</b> of the altar, one who burns the remainder of the offering <b>is</b> subject <b>to</b> the prohibition: <b>Do not burn.</b> This prohibition is derived from the verse: “You shall not burn of it as an offering made by fire unto the Lord” (Leviticus 2:11). <b>Yehuda, son of Rabbi Shimon ben Pazi, said that</b> the priest <b>burns</b> the remainder not as an offering but <b>for the purpose of firewood.</b> This is permitted, <b>in accordance with</b> the opinion of <b>Rabbi Eliezer, as it is taught</b> in a <i>baraita</i> that <b>Rabbi Eliezer says:</b> With regard to those parts of an offering which may not be burned, <b>for a pleasing aroma you may not burn</b> them; <b>however, you may burn them</b> on the altar <b>for the purpose of firewood.</b>",
+                  "The Gemara continues: <b>This works out well according to</b> the opinion of <b>Rabbi Eliezer, who holds</b> in accordance with <b>this reasoning</b> and permits burning the remainder of an offering as firewood; <b>however,</b> according <b>to the Rabbis, who do not hold</b> in accordance with <b>this reasoning, what can be said?</b> How is the remainder burned on the altar? The Gemara answers: <b>With regard to</b> the remainder, <b>they act in accordance with</b> the opinion of <b>Rabbi Elazar, son of Rabbi Shimon, as it is taught</b> in a <i>baraita</i>: <b>Rabbi Elazar, son of Rabbi Shimon, says</b> with regard to the meal-offering of a sinner who is a priest: <b>The handful is</b> removed from the meal-offering and <b>sacrificed by itself, and the remainder</b> is neither eaten nor burned on the altar; rather, it <b>is scattered on the place of the ashes.</b>"
+                ],
+                [
+                  "<b>And even the Rabbis do not disagree with Rabbi Elazar, son of Rabbi Shimon, except with regard to the meal-offering of a sinner</b> who is <b>a priest, as</b> they hold that <b>it is fit to be sacrificed</b> in its entirety without removing a handful. <b>However, in this</b> case, i.e., in the case of the meal-offering of a <i>sota</i> who is married to a priest, <b>even the Rabbis agree</b> that its remainder is scattered on the place of the ashes, since the handful is removed from the offering."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Sotah 23a:7",
+                "Sotah 23a:8",
+                "Sotah 23a:9",
+                "Sotah 23b:1"
+              ],
+              "he": [
+                [
+                  "<big><strong>גְּמָ׳</strong></big> תָּנוּ רַבָּנַן: כׇּל הַנְּשׂוּאוֹת לַכְּהוּנָּה מִנְחוֹתֵיהֶן נִשְׂרָפוֹת. כֵּיצַד? כֹּהֶנֶת לְוִיָּה וְיִשְׂרְאֵלִית שֶׁנִּשֵּׂאת לְכֹהֵן — אֵין מִנְחָתָהּ נֶאֱכֶלֶת, מִפְּנֵי שֶׁיֵּשׁ לוֹ חֵלֶק בָּהּ. וְאֵינָהּ עוֹלָה כָּלִיל — מִפְּנֵי שֶׁיֵּשׁ לָהּ חֵלֶק בָּהּ. אֶלָּא — הַקּוֹמֶץ קָרֵב בְּעַצְמוֹ, וְהַשִּׁירַיִם קְרֵיבִין בְּעַצְמָן.",
+                  "אִיקְּרִי כָּאן: כֹּל שֶׁהוּא מִמֶּנּוּ לָאִישִּׁים — הֲרֵי הוּא בְּ״בַל תַּקְטִירוּ״! אָמַר יְהוּדָה בְּרֵיהּ דְּרַבִּי שִׁמְעוֹן בֶּן פַּזִּי: דְּמַסֵּיק לְהוּ לְשׁוּם עֵצִים, כְּרַבִּי אֱלִיעֶזֶר. דְּתַנְיָא, רַבִּי אֱלִיעֶזֶר אוֹמֵר: לְרֵיחַ נִיחוֹחַ אִי אַתָּה מַעֲלֶה, אֲבָל אַתָּה מַעֲלֵיהוּ לְשׁוּם עֵצִים.",
+                  "הָנִיחָא לְרַבִּי אֱלִיעֶזֶר דְּאִית לֵיהּ הַאי סְבָרָא, אֶלָּא לְרַבָּנַן דְּלֵית לְהוּ הַאי סְבָרָא, מַאי אִיכָּא לְמֵימַר? דְּעָבְדִי לְהוּ כְּרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן. דְּתַנְיָא, רַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אוֹמֵר: הַקּוֹמֶץ קָרֵב בְּעַצְמוֹ, וְהַשִּׁירַיִם מִתְפַּזְּרִים עַל בֵּית הַדֶּשֶׁן."
+                ],
+                [
+                  "וַאֲפִילּוּ רַבָּנַן לָא פְּלִיגִי עֲלֵיהּ דְּרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אֶלָּא בְּמִנְחַת חוֹטֵא שֶׁל כֹּהֲנִים, דְּבַת הַקְרָבָה הִיא. אֲבָל בְּהָא, אֲפִילּוּ רַבָּנַן מוֹדוּ."
+                ]
+              ],
+              "link": "/Sotah/23a",
+              "originalRefsBeforeRewriting": [
+                "Sotah 23a:8"
+              ],
+              "ref": "Sotah 23a:7-23b:1",
+              "sourceHeRef": "סוטה כ״ג א",
+              "sourceRef": "Sotah 23a"
+            },
+            {
+              "en": [
+                "It is stated in the mishna that <b>we place upon them</b> both <b>the stringencies of priests and the stringencies of Israelites.</b> The Gemara asks: <b>With regard to what <i>halakha</i></b> is this stated, beyond those cited specifically in the mishna? <b>Rav Pappa said:</b> It is stated with regard <b>to their meal-offering: The handful is taken from it like the meal-offering of an Israelite,</b> unlike that of a priest, which is burned in its entirety. <b>However,</b> the offering <b>does not get eaten, like the meal-offering of priests. How so?</b> How is the practice performed so that both stringencies are kept? <b>The handful is sacrificed</b> and burned <b>by itself, and the remainder</b> of the offering <b>is offered by itself.</b>",
+                "The Gemara asks: How can it be performed in this manner? There is a principle that should <b>apply here,</b> that <b>whatever is partly</b> burned <b>in</b> the <b>fire</b> on the altar <b>is subject to</b> the prohibition of <b>“you may not make…as an offering”</b> (Leviticus 2:11). This principle states that if part of an item, e.g., the blood of an animal offering or the handful of a meal-offering, is burned on the altar, then burning any of its other parts, which are not designated for burning, is prohibited. How, then, can the remainder of the meal-offering be sacrificed?",
+                "<b>Rabbi Yehuda, son of Rabbi Shimon ben Pazi, said that</b> the remainder <b>is brought up</b> to the altar only <b>for the purpose of wood,</b> i.e., as fuel for the altar, not as an offering. In this manner, it is permitted. This answer is <b>in accordance with</b> the opinion of <b>Rabbi Elazar, as it is taught</b> in a <i>baraita</i> that <b>Rabbi Elazar said:</b> “But they shall not come up <b>for a sweet savor</b> on the altar” (Leviticus 2:12). This verse indicates that <b>you may not bring up</b> leaven and honey as a “sweet savor,” i.e., an offering. <b>However, you may bring up</b> leaven, and honey, and other materials <b>for the purpose of wood.</b>",
+                "The Gemara asks: <b>This works out well according to Rabbi Elazar. However, according to the Rabbis,</b> who disagree with Rabbi Elazar and hold that it may not be burned for the purpose of fuel, <b>what can be said?</b> What is to be done with the remainder? The Gemara answers <b>that</b> the offering <b>is treated in accordance with</b> the opinion of <b>Rabbi Elazar, son of Rabbi Shimon, as it is taught</b> in a <i>baraita</i> that <b>Rabbi Elazar, son of Rabbi Shimon, says: The handful is sacrificed by itself, and the remainder is scattered over the place of the ashes. And even the Rabbis disagree with Rabbi Elazar, son of Rabbi Shimon, only with regard to a sinner’s meal-offering that belongs to priests, as it is fit to be sacrificed</b> in its entirety. <b>However, here,</b> in the case of an uncertain priest, <b>even the Rabbis agree</b> that the remainder is scattered over the ashes, as it cannot be offered in case he is a non-priest."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Yevamot 100a:10",
+                "Yevamot 100a:11",
+                "Yevamot 100a:12",
+                "Yevamot 100a:13"
+              ],
+              "he": [
+                "נוֹתְנִין עֲלֵיהֶם חוּמְרֵי וְכוּ׳. לְמַאי הִלְכְתָא? אָמַר רַב פָּפָּא: לְמִנְחָתָם נִקְמֶצֶת כְּמִנְחַת יִשְׂרָאֵל וְאֵינָהּ נֶאֱכֶלֶת כְּמִנְחַת כֹּהֲנִים. הָא כֵּיצַד? הַקּוֹמֶץ קָרֵב בְּעַצְמוֹ, וְהַשִּׁירַיִם קְרֵיבִין בְּעַצְמָן.",
+                "אִיקְּרִי כָּאן: כֹּל שֶׁמִּמֶּנּוּ לָאִישִּׁים, הֲרֵי הוּא בְּ״בַל תַּקְטִירוּ״.",
+                "אָמַר רַבִּי יְהוּדָה בְּרֵיהּ דְּרַבִּי שִׁמְעוֹן בֶּן פַּזִּי: דְּמַסֵּיק לְהוּ לְשׁוּם עֵצִים, כְּרַבִּי אֶלְעָזָר. דְּתַנְיָא, רַבִּי אֶלְעָזָר אוֹמֵר: ״לְרֵיחַ נִיחוֹחַ״ אִי אַתָּה מַעֲלֶה, אֲבָל אַתָּה מַעֲלֶה לְשׁוּם עֵצִים.",
+                "הָנִיחָא לְרַבִּי אֶלְעָזָר. אֶלָּא לְרַבָּנַן, מַאי אִיכָּא לְמֵימַר? דְּעָבֵיד לַהּ כְּרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן. דְּתַנְיָא, רַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אוֹמֵר: הַקּוֹמֶץ קָרֵב לְעַצְמוֹ, וְהַשִּׁירַיִם מִתְפַּזְּרִין עַל בֵּית הַדֶּשֶׁן. וַאֲפִילּוּ רַבָּנַן לָא פְּלִיגִי עֲלֵיהּ דְּרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אֶלָּא בְּמִנְחַת חוֹטֵא שֶׁל כֹּהֲנִים, דְּבַת הַקְרָבָה הִיא, אֲבָל הָכָא — אֲפִילּוּ רַבָּנַן מוֹדוּ."
+              ],
+              "link": "/Yevamot/100a",
+              "originalRefsBeforeRewriting": [
+                "Yevamot 100a:11",
+                "Yevamot 100a:12"
+              ],
+              "ref": "Yevamot 100a:10-13",
+              "sourceHeRef": "יבמות ק׳ א",
+              "sourceRef": "Yevamot 100a"
+            },
+            {
+              "en": [
+                [
+                  "The mishna teaches: If one says: <b>I specified a meal offering of tenths</b> of an ephah but I do not remember how many I specified, according to the Rabbis he must bring a meal offering of sixty-tenths of an ephah. According to Rabbi Yehuda HaNasi he must bring sixty meal offerings, each with a different number of tenths, from one to sixty.",
+                  "<b>The Sages taught</b> in a <i>baraita</i>: If one says: <b>I specified</b> that I would bring <b>a meal offering, and I established</b> that they must be brought <b>in</b> one <b>vessel of tenths</b> of an ephah, <b>but I do not know what</b> number of tenths <b>I specified, he must bring</b> one <b>meal offering of sixty-tenths</b> of an ephah. This is <b>the statement of the Rabbis. Rabbi</b> Yehuda HaNasi <b>says: He must bring</b> sixty <b>meal offerings of tenths</b> in sixty vessels, each containing an amount <b>from one</b>-tenth <b>until sixty</b>-tenths, <b>which are</b> in total <b>1,830</b> tenths of an ephah.",
+                  "The <i>baraita</i> continues: If one said: <b>I specified</b> a certain type of meal offering with a certain number of tenths of an ephah to be brought in one vessel, <b>but I do not know what I specified, or which</b> type <b>of</b> meal offering <b>I specified, and I do not know how many</b> tenths of an ephah <b>I specified, he must bring</b> the <b>five</b> different types <b>of meal offerings,</b> and each one must contain <b>sixty-tenths</b> of an ephah, <b>which are</b> in total <b>three-hundred-</b>tenths of an ephah. This is <b>the statement of the Rabbis. Rabbi</b> Yehuda HaNasi <b>says: He must bring five</b> different types of <b>meal offerings,</b> and for each type he must bring <b>sixty</b> meal offerings, each with a different number of tenths, <b>from one until sixty, which are</b> in total <b>9,150</b> tenths of an ephah.",
+                  "The Gemara asks: <b>With regard to what</b> principle <b>do</b> the Rabbis and Rabbi Yehuda HaNasi <b>disagree? Rav Ḥisda said: They disagree with regard to</b> whether it is <b>permitted to bring non-sacred</b> items <b>into the</b> Temple <b>courtyard. Rabbi</b> Yehuda HaNasi <b>holds</b> that <b>it is prohibited to bring non-sacred</b> items <b>into the</b> Temple <b>courtyard.</b> Therefore, it is necessary to bring sixty meal offerings of each type, as if one merely brings one meal offering of sixty-tenths of an ephah in a single vessel, he may be in violation of this prohibition, as it is possible that he vowed to bring less than that amount, and the surplus amount is non-sacred. <b>And the Rabbis hold</b> that <b>it is permitted to bring non-sacred</b> items <b>into the</b> Temple <b>courtyard.</b> Therefore, even if the meal offering is of a greater volume than necessary, it is inconsequential.",
+                  "<b>Rava said</b> that the dispute between the Rabbis and Rabbi Yehuda HaNasi is with regard to a different issue: <b>Everyone</b> agrees that <b>it is prohibited to bring non-sacred</b> items <b>into the</b> Temple <b>courtyard, and here they disagree with regard to</b> whether it is permitted <b>to mix</b> an offering that fulfills <b>an obligation</b> together <b>with a gift</b> offering.",
+                  "<b>The Rabbis hold</b> that <b>it is permitted to mix</b> an offering that fulfills <b>an obligation</b> together <b>with a gift</b> offering, and therefore one may bring sixty-tenths in one vessel and stipulate that the amount beyond his obligation will be a gift offering. <b>And Rabbi</b> Yehuda HaNasi <b>holds</b> that <b>it is prohibited to mix</b> an offering that fulfills <b>an obligation</b> together <b>with a gift</b> offering, and therefore one cannot make such a stipulation; every possible meal offering requires its own vessel. Concerning each vessel, he stipulates that if this one can fulfill his vow, it should count as fulfillment of his vow, and otherwise it should serve as a gift offering.",
+                  "<b>Abaye said to Rava: According to the Rabbis, who say</b> that <b>it is permitted to mix</b> an offering that fulfills <b>an obligation</b> together <b>with a gift</b> offering, and one vessel with sixty-tenths of an ephah can serve in part to fulfill the obligation and in part as a gift offering, there is a difficulty: <b>Don’t we require</b> the removal of <b>two handfuls,</b> one for the obligatory meal offering and one for the gift offering? Rava answered: According to the Rabbis, it is required <b>that</b> the priest <b>removes a handful and again removes a handful.</b>",
+                  "Abaye said to Rava: <b>But</b> if so, since the tenths that fulfill an obligation and the tenths that are a gift are mixed together in a single vessel, when the priest removes a handful, <b>isn’t he removing a handful from</b> tenths that fulfill <b>an obligation</b> to account <b>for</b> tenths that are <b>a gift</b> offering, <b>and</b> removing a handful <b>from</b> tenths that are <b>a gift</b> offering to account <b>for</b> tenths that fulfill <b>an obligation?</b>",
+                  "Rava answered Abaye: This is not difficult, <b>as</b> the one who brings the meal offering <b>renders it dependent on the intent of the priest, as he says: Wherever the priest’s hand reaches now,</b> when he removes the first handful, shall be the location of the tenths that fulfill my <b>obligation, and</b> wherever his hand reaches <b>at the end,</b> when removing the second handful, shall be <b>a gift</b> offering.",
+                  "Abaye asked Rava: <b>But how does</b> the priest <b>burn</b> the handful upon the altar? If the priest <b>will burn</b> the handful from the <b>gift</b> offering <b>first, how can he</b> then <b>burn</b> the handful <b>of the</b> tenths that fulfill the <b>obligation? Perhaps the entire</b> meal offering <b>is</b> for the <b>obligation,</b> as the vow was to bring sixty-tenths of an ephah, and everything apart from the first handful, including the second handful, is the remainder, <b>and</b> by burning part of it the priest causes <b>the remainder to be lacking.</b>",
+                  "<b>And the Master said:</b> With regard to the <b>remainder</b> of a meal offering <b>that became lacking between the removal of the handful and the burning</b> of the handful upon the altar, the <i>halakha</i> is that <b>one does not burn the handful on its</b> account, as it is not considered a valid meal offering.",
+                  "Alternatively, if the priest <b>will burn</b> the handful that fulfills the <b>obligation first, how can he burn</b> the handful <b>of the gift</b> offering?"
+                ],
+                [
+                  "<b>But perhaps</b> the vow was to bring sixty-tenths of an ephah, in which case <b>the entire</b> meal offering <b>is</b> necessary to fulfill the <b>obligation.</b> Consequently, only one handful may be removed, and all the rest is considered the remainder. <b>And</b> there is a principle: <b>Whatever is partly</b> burned <b>in the fire</b> on the altar <b>is subject to</b> the prohibition of: <b>You may not make as an offering</b> (see Leviticus 2:11). This principle states that if part of an item, such as the blood of an animal offering or the handful of a meal offering, has been sacrificed, one who sacrifices any other part of it that is not designated for sacrifice has violated a prohibition. In this case, the second handful is considered part of the remainder of the meal offering, and burning it is prohibited.",
+                  "<b>Rabbi Yehuda, son of Rabbi Shimon ben Pazi, said:</b> The priest does not burn the oil as an offering but <b>burns it for the sake of wood,</b> i.e., not as a sacrificial rite, <b>in accordance with</b> the opinion of <b>Rabbi Eliezer. As it is taught</b> in a <i>baraita</i> that <b>Rabbi Eliezer says:</b> The verse states: “No meal offering that you shall bring unto the Lord shall be made with leaven; for you shall make no leaven, nor any honey, smoke from it as an offering made by fire unto the Lord. As an offering of first fruits you may bring them unto the Lord; but they shall not come up for a pleasing aroma on the altar” (Leviticus 2:11–12). This verse indicates that <b>you may not offer up</b> leaven and honey <b>as a pleasing aroma,</b> i.e., as an offering. <b>But you may offer up</b> leaven and honey and other substances <b>for the sake of wood,</b> not as an offering."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Menachot 106a:12",
+                "Menachot 106a:13",
+                "Menachot 106a:14",
+                "Menachot 106a:15",
+                "Menachot 106a:16",
+                "Menachot 106a:17",
+                "Menachot 106a:18",
+                "Menachot 106a:19",
+                "Menachot 106a:20",
+                "Menachot 106a:21",
+                "Menachot 106a:22",
+                "Menachot 106a:23",
+                "Menachot 106b:1",
+                "Menachot 106b:2"
+              ],
+              "he": [
+                [
+                  "פירשתי מנחה של עשרונים:",
+                  "תנו רבנן פירשתי מנחה וקבעתי בכלי אחד של עשרונים ואיני יודע מה פירשתי יביא מנחה של ששים עשרונים דברי חכמים רבי אומר יביא מנחות של עשרונים מאחד ועד ששים שהן אלף ושמונה מאות ושלשים",
+                  "פירשתי ואיני יודע מה פירשתי ואי זו מהן פירשתי ואיני יודע כמה פירשתי יביא חמש מנחות של ששים ששים עשרונים שהן שלש מאות דברי חכמים רבי אומר יביא חמש מנחות של ששים עשרונים מאחד ועד ששים שהן תשעה אלפים ומאה וחמשים",
+                  "במאי קא מיפלגי אמר רב חסדא במותר להכניס חולין לעזרה קא מיפלגי רבי סבר אסור להכניס חולין לעזרה ורבנן סברי מותר להכניס חולין לעזרה",
+                  "רבא אמר דכולי עלמא אסור להכניס חולין לעזרה והכא במותר לערב חובה בנדבה קא מיפלגי",
+                  "רבנן סברי מותר לערב חובה בנדבה ורבי סבר אסור לערב חובה בנדבה",
+                  "אמר ליה אביי לרבא לרבנן דאמרי מותר לערב חובה בנדבה הא בעינן שני קמצים דקמיץ והדר קמיץ",
+                  "והא קא קמיץ מחובה אנדבה ומנדבה אחובה",
+                  "דתלי ליה בדעת כהן דאמר כל היכא דמטיא ידא דכהן השתא חובה ולבסוף נדבה",
+                  "ואקטורי היכי מקטר ליקטר נדבה ברישא דחובה היכי מקטר לה דלמא כולה חובה היא וחסרו להו שירים",
+                  "ואמר מר שירים שחסרו בין קמיצה להקטרה אין מקטיר קומץ עליהן",
+                  "ליקטר חובה ברישא דנדבה היכי מקטר לה"
+                ],
+                [
+                  "ודלמא כולה חובה היא וכל שהוא ממנו לאישים הרי הוא בבל תקטירו",
+                  "אמר ר' יהודה בריה דרבי שמעון בן פזי דמסיק להו לשום עצים וכרבי אליעזר דתניא רבי אליעזר אומר <span class=\"parenthesized\">(ויקרא ב, יב)</span> לריח ניחוח אי אתה מעלה אבל אתה מעלה לשום עצים"
+                ]
+              ],
+              "link": "/Menachot/106b",
+              "originalRefsBeforeRewriting": [
+                "Menachot 106b:1",
+                "Menachot 106b:2"
+              ],
+              "ref": "Menachot 106a:12-106b:2",
+              "sourceHeRef": "מנחות ק״ו ב",
+              "sourceRef": "Menachot 106b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Similarly, it is forbidden to offer on the altar any entity from all those listed that is not fit to be consumed by fire, e.g., the meat of a sin-offering or a guilt-offering, the remains of the meal offering, or the like. According to the Oral Tradition, we learned that when there is an entity from which a portion is designated to be consumed by fire, it is forbidden to have the remainder [of that entity] consumed by fire.",
+              "he": "וְכֵן אָסוּר לְהַקְטִיר עַל הַמִּזְבֵּחַ דָּבָר מִכָּל דְּבָרִים אֵלּוּ שֶׁאֵינָן רְאוּיִין לְהַקְטָרָה. כְּגוֹן בְּשַׂר חַטָּאוֹת וַאֲשָׁמוֹת וּשְׁיָרֵי מְנָחוֹת וְכַיּוֹצֵא בָּהֶן. מִפִּי הַשְּׁמוּעָה לָמְדוּ שֶׁכָּל דָּבָר שֶׁמִּקְצָתוֹ לָאִשִּׁים הֲרֵי שְׁאֵרִיתוֹ בְּבַל תַּקְטִירוּ:",
+              "ref": "Mishneh Torah, Things Forbidden on the Altar 5:5",
+              "sourceHeRef": "הלכות איסורי המזבח ה:ה",
+              "sourceRef": "Things Forbidden on the Altar 5:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי קודם מתן שבע</strong> - היכי מצי למיתב תו מיניה מתן שבע דלמא נדבה היא והקטרת הקומץ הקטרה והנך הוו להו שיריים וכי הדר מעייל מידי מינייהו קא עבר משום בל תקטירו כדכתיב <span class=\"parenthesized\">(ויקרא ב׳:י״א)</span> כי כל שאור וכל דבש וגו' והאי ממנו יתירא הוא ודרשינן ביה נמי לא תקטירו כל שממנו אשה לה' יש בכלל הזה קדשים ושירי מנחה ולחם הפנים שקרב מהן כבר לאישים האימורים וכן הקומץ וכן הבזיכין קיימי שירים בבל תקטירו והנך הזאות במקום הקטרה קיימי:",
+              "ref": "Rashi on Zevachim 76b:8:1",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ח:א",
+              "sourceRef": "Rashi on Zevachim 76b:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> הכוונה היא שמקטיר הכהן את הקומץ <b>קודם מתנות שבע</b> שלפני ה', הרי מאחר והקטיר את הקומץ מלוג השמן — שוב אינו יכול להזות ממנו לפני ה', שהרי כלל הוא: <b>כל שממנו לאישים</b> — <b>הרי הוא ב\"בל תקטירו,</b> כלומר, כל דבר שחלק ממנו קרב על המזבח (\"לאישים\"), החלק האחר שבו אסור בהקרבה. והזיה זו מעין הקטרה היא!",
+              "ref": "Steinsaltz on Zevachim 76b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:ח",
+              "sourceRef": "Steinsaltz on Zevachim 76b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Although the sprinkling of oil is not a rite of burning, Rashi explains that it is the equivalent rite to burning in this case, as none of the <i>log</i> is burned upon the altar. Other commentaries add that any part of the service of an offering is included in the phrase: You may not make as an offering (see<i> Shita Mekubbetzet</i>). An alternative explanation is cited by additional commentaries, who reject the application of the prohibition: You shall not make as an offering, to the sprinkling of the oil. Instead, they claim that this prohibition is violated by the burning of the handful, since the priest will subsequently sprinkle from the <i>log</i> of oil, which renders the oil tantamount to an item that is partly burned on the fire (<i>Tosafot</i>).",
+              "he": "נאמר: \"כי כל שאור וכל דבש לא תקטירו ממנו אשה לה'\" (ויקרא ב, יא), והמלה \"ממנו\" נראית כמיותרת. ולכך דרשו את הפסוק כשני איסורים שונים: האחד — כי כל שאור וכל דבש לא תקטירו אשה לה', והשני — לא תקטירו כל דבר שחלק ממנו עולה כאשה לה'. ובכלל זה, בשר קדשים הנאכלים, שאימוריהם קרבים על המזבח, וכן שיירי מנחות שקרב מהם הקומץ, ועוד (ראה מנחות נז,ב). ולפי זה נמצא כי לאחר שנקמץ הקומץ מלוג השמן — השיריים אסורים בהזאה משום \"כל שממנו לאשים הריהו בבל תקטירו\". ואף שהזאת השמן אינה הקטרה, הסביר רש\"י שהיא באה במקום הקטרה, שהרי אין מקטירים מלוג השמן על המזבח. ועוד הסבירו כי כל דבר שהוא עבודת קרבן הריהו בכלל \"בל תקטירו\" (ראה ש\"מ). וראה בתוס', שהתקשו בלשון \"בל תקטירו\" לגבי הזאת השמן, ופירשו את הקושיה להיפך: הואיל ועתידים להזות מלוג השמן לפני ה' (\"ממנו לאישים\"), מספק שמא אדם זה מצורע הוא — הרי כבר מתחילה יש איסור של \"בל תקטירו\" על הקומץ. וראה בש\"מ שדנו בקשיים שיש בכל אחד מן ההסברים.",
+              "ref": "Steinsaltz comment #1 on Zevachim 76b:8",
+              "sourceHeRef": "כָּל שֶׁמִּמֶּנּוּ לָאִישִּׁים הֲרֵי הוּא בְּבַל תַּקְטִירוּ",
+              "sourceRef": "Whatever is partly burned in the fire on the altar is subject to the prohibition of: You may not make as an offering"
+            },
+            {
+              "en": "With regard to any offering part of which was sacrificed on the altar, its remainder may not be sacrificed on the altar, e.g., the flesh of offerings whose portions have been burned, or the remainder of meal offerings. One who does so violates a prohibition (Rambam <i>Sefer Avoda</i>,<i> Hilkhot Issurei Mizbe’aĥ</i> 5:5).",
+              "he": "אסור להקטיר על גבי המזבח דבר מן הדברים שאינם ראויים להקטרה, וכגון בשר קרבנות חטאת ואשם או שיירי מנחות. שלמדו חכמים מפי השמועה שכל דבר שמקצתו עולה לאישים, שאריתו היא ב\"בל יקטירו\". (רמב\"ם ספר עבודה הלכות איסורי מזבח פ\"ה ה\"ה).<br><br>",
+              "ref": "Steinsaltz comment #2 on Zevachim 76b:8",
+              "sourceHeRef": "כָּל שֶׁמִּמֶּנּוּ לָאִישִּׁים",
+              "sourceRef": "Whatever is partly burned in the fire"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי קודם מתן שבע</strong> - דלמא נדבה היא והקטרתו הקטרה והני הוו להו שיריים וכי הדר מעייל מינייהו לפנים להזות קא עבר משום כל שממנו לאישים קיימו שיריים בבל תקטירו והנך הזאות נמי בשמן כהקטרה במזבח בדבר הראוי להקטיר דמי <span class=\"rashi-quotation\">כך פי' בקונטרס</span> והא דמשני דמסיק להו לשם עצים הוה ליה למינקט דמדי לשם מיא בעלמא ודוחק <span class=\"rashi-quotation\">בקונטרס</span> לפרש [כך] משום לישנא דקרא דאותביה מכל שממנו לאישים ועוד אי שייך כל שממנו לאישים הרי הוא בבל תקטירו אפי' בהזאות א\"כ קשה הא דאמרי' לקמן <span class=\"parenthesized\">(זבחים דף פ.)</span> הניתנים במתנה אחת שנתערבו במתן ארבע ר' אליעזר אומר ינתנו במתן ארבע הא כיון דניתן במתנה אחת אידך הוו להו שיריים וקא עבר משום בל תקטירו מיהו יש לומר דר' אליעזר לטעמיה דאית ליה <span class=\"parenthesized\">(שם עט:)</span> רואין כאילו הוא מים ועוד כיון דשירי הדם למזבח ליסוד מש\"ה כי יהיב ליה למעלה לא עבר בבל תקטירו כיון דבלאו הכי טעונין מזבח ועוד קשה לימא דיהיב מתן שבע ברישא והדר ממלא ליה וקמיץ ואע\"ג דאמר ר\"ל בפ\"ק דמנחות <span class=\"parenthesized\">(ג\"ז שם)</span> מנחה שחסרה קודם קמיצה לא יביא מתוך ביתו וימלאנה הא איתותב התם ונראה לפרש דמהקטרה ממש פריך דמקטיר מלוג שמן של מצורע חייב כר' עקיבא דאמר בפ' כל המנחות באות מצה <span class=\"parenthesized\">(מנחות דף נח.)</span> כל ששמו קרבן ור' אליעזר פליג עליה ואע\"ג דהך סוגיא כר' אליעזר כדמשני דמסיק לשם עצים באידך לא מסתברא כר' אליעזר דשמותי הוא אלא כר' עקיבא ואף על גב דקודם מתן שבע איירי שמו קרבן מיקרי כיון דעתיד להיות קרבן כמה דמקטיר בשר חטאת קודם זריקת דם דמסתמא חייב ומעיקרא פריך אי לאחר מתן שבע כו' הוי מצי למיפרך נמי מכל שממנו לאישים ובלאו הכי שפיר פריך ליה תימה והא קדוש קדושת הגוף דלוג הוי כלי שרת כדאמרי' בפ\"ק דמנחות <span class=\"parenthesized\">(דף ז.)</span> ובפ' שתי מדות <span class=\"parenthesized\">(מנחות דף צ.)</span> וי\"ל דכלי שרת אין מקדשין אלא מלאין דלא מצטרף להתקדש האי פורתא עם האחר שכבר נתקדש אי נמי האי פורתא מנא ליה בלוג לשם קדושת דמים והשתא משמע הכא דאע\"ג דלא קדיש למזבח לא הוי כחולין בעזרה מאחר דקדוש קדושת דמים כדמסיק:",
+              "ref": "Tosafot on Zevachim 76b:8:1",
+              "sourceHeRef": "תוספות על זבחים ע״ו ב:ח:א",
+              "sourceRef": "Tosafot on Zevachim 76b:8:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "No meal offering that you offer to the L<small>ORD</small> shall be made with leaven, for no leaven or honey may be turned into smoke as an offering by fire to the L<small>ORD</small>.",
+              "he": "כׇּל־הַמִּנְחָ֗ה אֲשֶׁ֤ר תַּקְרִ֙יבוּ֙ לַיהֹוָ֔ה לֹ֥א תֵעָשֶׂ֖ה חָמֵ֑ץ כִּ֤י כׇל־שְׂאֹר֙ וְכׇל־דְּבַ֔שׁ לֹֽא־תַקְטִ֧ירוּ מִמֶּ֛נּוּ אִשֶּׁ֖ה לַֽיהֹוָֽה׃",
+              "link": "/Leviticus/2",
+              "ref": "Leviticus 2:11",
+              "sourceHeRef": "ויקרא ב:יא",
+              "sourceRef": "Leviticus 2:11"
+            }
+          ]
+        }
+      },
+      "en": "<b>If,</b> alternatively, the priest burns the handful <b>before the placement of seven</b> sprinklings, once he has burned the handful he may no longer perform the sprinklings, in accordance with the principle: <b>Whatever is partly</b> burned <b>in the fire</b> on the altar <b>is subject to</b> the prohibition of: <b>You may not make as an offering</b> (see Leviticus 2:11). This principle states that if part of an item, such as the blood of an animal offering or the handful of a meal offering, has been sacrificed, one who sacrifices any other part of it that is not designated for sacrifice has violated a prohibition. The sprinkling of the oil is equivalent to sacrifice in this regard.",
+      "he": "אי קודם מתנות שבע כל שממנו לאישים הרי הוא בבל תקטירו",
+      "ref": "Zevachim 76b:8"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If one brought a leavening agent or a sweetener on the altar alone as kindling fuel, he is exempt, as [<i>ibid</i>:12] states: \"They should not be brought to the altar as a pleasant fragrance.\" [Implied is that] they should not be brought as \"a pleasant fragrance,\" i.e., as a sacrifice, but they may be brought as kindling fuel. Even if one set afire an entity that is not ordained to be set afire together with a leavening agent or with a sweetener, he is liable since it is part of a sacrifice.",
+              "he": "הֶעֱלָה שְׂאוֹר אוֹ דְּבַשׁ בִּפְנֵי עַצְמָן לַמִּזְבֵּחַ לְשֵׁם עֵצִים פָּטוּר שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(ויקרא ב׳:י״ב)</span> \"וְאֶל הַמִּזְבֵּחַ לֹא יַעֲלוּ לְרֵיחַ נִיחֹחַ\". לְרֵיחַ נִיחוֹחַ אִי אַתָּה מַעֲלֶה אֲבָל אַתָּה מַעֲלֶה לְשֵׁם עֵצִים. אֲפִלּוּ הִקְטִיר דָּבָר שֶׁאֵינוֹ רָאוּי לְהַקְטָרָה בִּדְבַשׁ אוֹ בִּשְׂאוֹר הוֹאִיל וְהוּא מִן הַקָּרְבָּן לוֹקֶה:",
+              "ref": "Mishneh Torah, Things Forbidden on the Altar 5:3",
+              "sourceHeRef": "הלכות איסורי המזבח ה:ג",
+              "sourceRef": "Things Forbidden on the Altar 5:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לשם עצים</strong> - דאמר הכי אם מצורע הוא דאין הקטרת הקומץ הקטרה דהא לאו נדבה הואי הרי מזה מאלו שאינן שיריים ואם אינו מצורע והקטרת הקומץ הקטרה ויש ממנו לאישים ואלו שיריים הם ובבל תקטירו הרי הזאות האלו כאילו הם מים שהרי רשאי להעלות שירי מנחה על המזבח:",
+              "ref": "Rashi on Zevachim 76b:9:1",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ט:א",
+              "sourceRef": "Rashi on Zevachim 76b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לשם עצים</strong> - והאי דנקט לישנא דעצים ולא נקט לשם מים משום לישנא דקרא דאותביה מבל תקטירו נקט לה:",
+              "ref": "Rashi on Zevachim 76b:9:2",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ט:ב",
+              "sourceRef": "Rashi on Zevachim 76b:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לריח ניחוח אי אתה מעלה</strong> - בתריה דההוא קרא דכל שממנו לאישים כתיב קרבן ראשית תקריבו אותם ואל המזבח לא יעלו לריח ניחוח קרבן ראשית אשאור ודבש הכתוב בראש המקרא העליון קאי וקאמר יש לך להביא מהן ביכורים מן הדבש ושתי הלחם מהשאור ואל המזבח לא יעלו אכוליה קרא קאי ואדרשה דבל תקטירו:",
+              "ref": "Rashi on Zevachim 76b:9:3",
+              "sourceHeRef": "רש\"י על זבחים ע״ו ב:ט:ג",
+              "sourceRef": "Rashi on Zevachim 76b:9:3"
+            }
+          ]
+        },
+        "Sefer HaChinukh": {
+          "comments": [
+            {
+              "en": "The laws of the commandment: That which they, may their memory be blessed, said (Menachot 52b) that all meal-offerings that are offered on top of the altar come [as] matsah, as we said. And so [too, that] the remainders of the meal-offerings that the priests eat are not eaten chamets — even though [the priests] are permitted to eat them with any food or with honey — as it is stated (Leviticus 6:10), “You shall not bake their portion chamets,” and [included] in its understanding is [that] even their portion they shall not render chamets. And if he renders its remainders chamets, he is lashed. And we administer lashes for each and every doing within it. How is this? [If] he kneaded it chamets or set it up chamets or cut it up chamets or broke it up chamets or baked it chamets, he is lashed — as it is stated, “you shall not make chamets,” “you shall not bake chamets,” to make liable for a single action in making it chamets; [he is] liable for lashes. And we do not dampen wheat kernels of meal-offerings lest they become chamets (Rashi on Pesachim 36a). And nonetheless they, may their memory be blessed, said (Menachot 55a) that baked meal-offerings were kneaded in lukewarm water, and they would guard them that they not become chamets, as priests are alacritous. And leaven and honey are forbidden (forbid) with the smallest amount, as it is stated, “you shall not burn from it” — meaning to say, even the smallest amount. And he is not liable unless he burns them with the offering or for the sake of the offering (Mishneh Torah, Laws of Things Forbidden on the Altar 5:1). And it is one whether he burns them by themselves or their mixture — he is lashed (Menachot 58a). But if he burned them on their own for the sake of [fire]wood, he is exempted; as it is stated (Leviticus 2:12), “upon the altar they shall not be brought up as a pleasing smell” — for a pleasing smell you shall not bring up, but you may bring up for the sake of wood (Zevachim 76b). And the rest of its details are elucidated in Tractate <i>Menachot. </i>",
+              "he": "דִּינֵי הַמִּצְוָה. מָה שֶׁאָמְרוּ זִכְרוֹנָם לִבְרָכָה שֶׁכָּל הַמְּנָחוֹת <span class=\"parenthesized\">(מנחות נב ב)</span> הַקְּרֵבוֹת לְגַבֵּי הַמִּזְבֵּחַ בָּאוֹת מַצָּה כְּמוֹ שֶׁאָמַרְנוּ. וְכֵן שְׁיָרֵי הַמְּנָחוֹת שֶׁאוֹכְלִין הַכֹּהֲנִים אַף עַל פִּי שֶׁהֵם מֻתָּרִין לֶאֱכֹל אוֹתָם בְּכָל מַאֲכָל וּבִדְבַשׁ, אֵין אוֹכְלִים אוֹתָן חָמֵץ. שֶׁנֶּאֱמַר <span class=\"parenthesized\">(שם ו י)</span> לֹא תֵאָפֶה חָמֵץ חֶלְקָם. וְיֵשׁ בַּמַּשְׁמָע אֲפִלּוּ חֶלְקָם לֹא יַחְמִיצוּ. וְאִם הֶחְמִיץ שְׁיָרֶיהָ לוֹקֶה. וְלוֹקִין עַל כָּל עֲשִׂיָּה וַעֲשִׂיָּה שֶׁבָּהּ. כֵּיצַד? לָשָׁהּ חָמֵץ אוֹ עֲרָכָהּ חָמֵץ אוֹ קִטְּפָהּ חָמֵץ אוֹ אֲפָאָהּ חָמֵץ לוֹקֶה, שֶׁנֶּאֱמַר לֹא תֵעָשֶׂה חָמֵץ לֹא תֵאָפֶה חָמֵץ, לְחַיֵּב עַל מַעֲשֶׂה יְחִידִי, שֶׁבַּעֲשִׂיָּתָהּ חָמֵץ חַיָּב מַלְקוּת. וְאֵין לוֹתְתִין <span class=\"parenthesized\">(רש\"י פסחים לו א)</span> חִטִּים שֶׁל מְנָחוֹת שֶׁמָּא יַחְמִיצוּ. וְאַף עַל פִּי כֵן אָמְרוּ זִכְרוֹנָם לִבְרָכָה <span class=\"parenthesized\">(מנחות נה א)</span> שֶׁהַמְּנָחוֹת הַנֶּאֱפוֹת הָיוּ נִלּוֹשׁוֹת בְּפוֹשְׁרִין, וּמְשַׁמְּרִין אוֹתָן שֶׁלֹּא יַחְמִיצוּ, שֶׁהַכֹּהֲנִים זְרִיזִים הֵן. וּשְׂאֹר וּדְבַשׁ אִסּוּרָן בְּכָל שֶׁהוּא, שֶׁנֶּאֱמַר לֹא תַקְטִירוּ מִמֶּנּוּ. כְּלוֹמַר אֲפִלּוּ כָּל שֶׁהוּא. וְאֵינוֹ חַיָּב <span class=\"parenthesized\">(רמב\"ם פ\"ה איסורי מזבח ה\"א)</span> אֶלָּא אִם כֵּן הִקְטִירָן עִם הַקָּרְבָּן אוֹ לְשֵׁם הַקָּרְבָּן. וְאֶחָד הַמַּקְטִיר עַצְמָן אוֹ תַּעֲרָבְתָּן <span class=\"parenthesized\">(מנחות נח א)</span> לוֹקֶה. אֲבָל הִקְטִירָן בִּפְנֵי עַצְמָן לְשֵׁם עֵצִים <span class=\"parenthesized\">(זבחים עו ב)</span> פָּטוּר, שֶׁנֶּאֱמַר וְאֶל הַמִּזְבֵּחַ לֹא יַעֲלוּ לְרֵיחַ נִיחֹחַ. לְרֵיחַ נִיחוֹחַ אִי אַתָּה מַעֲלֶה, אֲבָל אַתָּה מַעֲלֶה לְשֵׁם עֵצִים. וְיֶתֶר פְּרָטֶיהָ מְבֹאָרִים בְּמַסֶּכֶת מְנָחוֹת <span class=\"parenthesized\">(נב ב נח ב)</span>.",
+              "ref": "Sefer HaChinukh 117:6",
+              "sourceHeRef": "ספר החינוך קיז:ו",
+              "sourceRef": "Sefer HaChinukh 117:6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב יהודה בריה</b> <span class=\"hebrew-emphasis\">[בנו]</span> של <b>ר' שמעון בן פזי:</b> כשהוא מזה שבע הזיות הריהו מתנה שאם אינו מצורע — אינו מתכוון להקרבה אלא לשפיכה סתם, כמו דברים האסורים בהקטרה <b>דמסיק להו</b> <span class=\"hebrew-emphasis\">[שמעלה אותם]</span> <b>לשם עצים</b> (להסקה) בלבד. <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנויה</span> ברייתא<span class=\"hebrew-emphasis\">],</span> <b>ר' אליעזר אומר:</b> אותם דברים שאסורים בהקטרה על המזבח — <b>לריח ניחוח אי</b> (אין) <b>אתה מעלה</b> אותם למזבח, <b>אבל אתה מעלה</b>",
+              "ref": "Steinsaltz on Zevachim 76b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על זבחים ע״ו ב:ט",
+              "sourceRef": "Steinsaltz on Zevachim 76b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Although Rav Yehuda, son of Rabbi Shimon ben Pazi, is referring to the sprinkling of oil toward the Holy of Holies, the Gemara cites the example of burning for the sake of wood on the altar because the questioner cited the <i>halakha</i> of: Whatever is partly burned in the fire on the altar is subject to the prohibition of: You may not make as an offering. Furthermore, Rabbi Eliezer discusses burning on the altar. The wording here fits better according to the interpretation of <i>Tosafot</i> that the discussion concerns the prohibition against burning the handful on the altar.",
+              "he": "למרות שמדובר על הזאת השמן כנגד קדש הקדשים, הגמרא כאן משתמשת בניסוח זה של העלאה על המזבח כעצים, משום שהמקשה השתמש בלשון \"בל תקטירו\", וכן משום דברי ר' אליעזר המובאים כאן כהסבר. ולשיטת התוס', שהדיון הוא לגבי הקטרת הקומץ על גבי המזבח (ראה לעיל), הלשון נוחה יותר.<br><br>",
+              "ref": "Steinsaltz comment #1 on Zevachim 76b:9",
+              "sourceHeRef": "דְּמַסֵּיק לְהוּ לְשֵׁם עֵצִים",
+              "sourceRef": "That he burns it for the sake of wood"
+            },
+            {
+              "en": "It is prohibited to bring leaven or honey onto the altar. Nevertheless, one is liable only if he burned them together with an offering or for the purpose of an offering. If one offered leaven or honey by themselves to the altar to serve as fuel, he is exempt (Mahari Kurkus). If he offers them together with an offering he is liable to be flogged, even if he offers them together with portions of the offering that are unsuitable for burning, such as the meat of a sin offering or the meat of a guilt offering. The <i>halakha</i> is in accordance with the opinion of the Rabbis (Rambam <i>Sefer Avoda</i>,<i> Hilkhot Issurei Mizbe’aĥ</i> 5:3–4).",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Zevachim 76b:9",
+              "sourceHeRef": "לְרֵיחַ נִיחוֹחַ אִי אַתָּה מַעֲלֶה וכו׳",
+              "sourceRef": "You may not offer up leaven and honey as a pleasing aroma, etc."
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "You may bring them to the L<small>ORD</small> as an offering of choice products; but they shall not be offered up on the altar for a pleasing odor.",
+              "he": "קׇרְבַּ֥ן רֵאשִׁ֛ית תַּקְרִ֥יבוּ אֹתָ֖ם לַיהֹוָ֑ה וְאֶל־הַמִּזְבֵּ֥חַ לֹא־יַעֲל֖וּ לְרֵ֥יחַ נִיחֹֽחַ׃",
+              "link": "/Leviticus/2",
+              "ref": "Leviticus 2:12",
+              "sourceHeRef": "ויקרא ב:יב",
+              "sourceRef": "Leviticus 2:12"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-yehudah-b-pazi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-pazi\">Rav Yehuda, son of Rabbi Shimon ben Pazi</span>, says that</b> the priest does not sprinkle the oil as a definite rite but stipulates that if the man is not a leper he is sprinkling it in a manner analogous to other items that one <b>burns for the sake of wood,</b> i.e., as fuel for the altar and not as a sacrificial rite. <b>As it is taught</b> in a <i>baraita</i> that <b><span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> says:</b> The verse states: “No meal offering that you shall bring to the Lord shall be made with leaven; for you shall make no leaven, nor any honey, smoke from it as an offering made by fire to the Lord. As an offering of first fruits you may bring them to the Lord; but they shall not come up for a pleasing aroma on the altar” (Leviticus 2:11–12). This verse indicates that <b>you may not offer up</b> leaven and honey <b>as a pleasing aroma,</b> an offering. <b>But you may offer up</b> leaven and honey and other substances",
+      "he": "אמר רב יהודה בריה דר\"ש בן פזי דמסיק להו לשם עצים דתניא <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">רבי אליעזר</span> אומר (ויקרא ב, יב) לריח ניחוח אי אתה מעלה אבל אתה מעלה",
+      "ref": "Zevachim 76b:9"
+    }
+  ],
+  "title": "Zevachim 76b",
+  "titleHebrew": "זבחים עו,ב",
+  "topics": []
+}

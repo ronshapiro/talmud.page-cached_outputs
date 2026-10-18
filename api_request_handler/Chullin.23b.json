@@ -1,0 +1,938 @@
+{
+  "id": "23b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מייתי ומתני</strong> - דסבירא ליה ספק הוא והכא קא מבעיא לן אליבא דבר פדא במאי מסתפק ומאי מתני ואו לאיל דריש ליה לדרשא אחרינא במנחות בפרק שתי מדות <span class=\"parenthesized\">(מנחות דף צא:)</span> וקא מיבעיא לן הכא מאי מתני מי פשיטא ליה לבר פדא דלאו בריה הוא אלא ספק איל ספק כבש הוא וכי מתני איל וכבש הוא דמתני אי איל הוא ליהוי כוליה דידיה ואי כבש הוא עשרון סולת רביעית היין ליהוי דידיה ואינך לנדבה אבל בבריה לא צריך לאתנויי ולמימר אי בריה הוא ואינו ראוי לנסכים ליהוי כולהו לנדבה וגבי בעיין דלעיל כיון דודאי לאו בריה הוא יוצא ידי נדרו ממ\"נ דהא או כבש או איל הוא והוא נדר באיזה שירצה:",
+              "ref": "Rashi on Chullin 23b:1:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:א:א",
+              "sourceRef": "Rashi on Chullin 23b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דאמר</b> <span class=\"hebrew-emphasis\">[ש</span>הוא <span class=\"hebrew-emphasis\">אומר]:</span> המקריב פלגס <b>מייתי ומתני</b> <span class=\"hebrew-emphasis\">[מביא</span> נסכים של איל <span class=\"hebrew-emphasis\">ומתנה],</span> שאם איל הוא — הרי אלו נסכיו, ואם כבש הוא, שנסכיו מועטים משל איל — יהא המותר נדבה; לשיטתו,",
+              "ref": "Steinsaltz on Chullin 23b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:א",
+              "sourceRef": "Steinsaltz on Chullin 23b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בר פדא אינו דורש כר' יוחנן \"או לאיל\" לרבות נסכי פלגס, אלא דורש יתור זה לרבות דבר אחר, שדרשו חכמים במסכת מנחות (צא,ב) (רש\"י). והוא מבין שמה ששנינו במשנה \"הקריבו — מביא עליו נסכי איל\", הוא מספק, ובדרך של תנאי.<br><br>ובאופן המדוייק שעושה את התנאי, כתב רש\"י (בעמוד הקודם) שמביא שלישית ההין (ארבעה לוגים) יין, כנסכי איל, ומתנה שאם הוא כבש שנסכיו רביעית ההין (שלושה לוגים) — יהא הלוג הנותר לנדבה. ואף שאין אדם רשאי לנדב לוג אחד של יין לנסכים, אלא רק כשיעור נסכים של אחד מן הקרבנות — שלושה כנסכי כבש, ארבעה כנסכי איל, או ששה (כנסכי שור), כאן שאין הלוג בא בפני עצמו, אלא כתוספת לנסכי קרבן — מותר הדבר. אכן ביחס למנחה שצריך להביא עם הנסכים, כתבו בתוס' שאינו יכול לעשות כן, שכן בלילתה של מנחת נסכי כבש (שלושה לוגים שמן לכל עשרון סולת) דקה יותר משל מנחת נסכי האיל (שני לוגים לעשרון), ויש איסור לרבות שמנה של מנחת הכבש (מנחות יא,א). ולכן צריך להביא שתי מנחות ולהתנות עליהן, שזו שאינה באה לחובת הפלגס — הריהי נדבה (אבל רמב\"ן כתב כי אין בכך צורך, מפני שבאופן זה אינו עובר על האיסור לרבות שמנה של מנחת הכבש, שהרי אין זה שמנה, אלא שמן חבירתה). ויש שהציע בדומה לדברי התוס', שגם בנסכי היין יביא שתי מנות נסכים, של איל ושל כבש, ויתנה עליהן (שפת אמת מנחות צא,ב). אבל מפרשים אחרים כתבו כי לשון המשנה \"מביא עליו נסכי איל\" אין משמעה כן (יד דוד).",
+              "ref": "Steinsaltz comment #1 on Chullin 23b:1",
+              "sourceHeRef": "דאמר מייתי ומתני",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה</b> דאמר מייתי ומתנה וכו' וכי תימא דמייתי שיעור מנחת כבש בכלי אחד וכו' אי אפשר לעשות כן וכו'. דברי התוס' אינם מסודרים דסתירה זו אינו מקושרת עם הוכי תימא דהא בלא וזה נמי אפי' איירי דמייתי הכל בכלי אחד נמי חיה יכול להקשות היאך יכול להתנות שיהא המותר לנדבה הא אינם שוים דמותר נסכים כולה כליל ומנחת נדבה היא נקמצת וק\"ל:",
+                      "ref": "Maharam on Chullin 23b:1",
+                      "sourceHeRef": "מהר\"ם על חולין כ״ג ב:א",
+                      "sourceRef": "Maharam on Chullin 23b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאמר מייתי ומתני</strong> - הקשה ריב\"א בשלמא נסכים יכול להביא שיעור נסכי איל ולהתנות שאם הוא כבש שיהא המותר לנדבה כרבי עקיבא דאמר בפרק כל התדיר <span class=\"parenthesized\">(זבחים דף צא:)</span> המתנדב יין מנסכו לספלים ואפילו לרבי טרפון דאמר לאישים משמע דלא פליגי אלא באומר הרי עלי יין סתם ולא פירש לנסכים אבל אם פירש מודה דאזיל לספלים אבל במנחה היכי מתני הא אין בלילתן שוה דשל כבש בלילתו רכה שלש לוגין לעשרון ושל איל בלילתו עבה שני לוגין לעשרון ותנן פ\"ק דמנחות <span class=\"parenthesized\">(דף יא.)</span> ריבה שמנה או שחיסר פסולה ותנן נמי אין מערבין מנחת כבשים בשל אילים ופרים וכי תימא דמייתי שיעור מנחת כבש בכלי אחד ושיעור מנחת איל בכלי אחד ומתנה שהאחד מהן יהיה נדבה אי אפשר לעשות כן דמנחת נדבה נקמצת ומנחת נסכים כולה כליל כדתניא בהדיא בפרק אלו מנחות <span class=\"parenthesized\">(מנחות דף עד:)</span> ותירץ ריב\"א דודאי כשמתנדב מנחה סתם אז היא נקמצת אבל אם מפרש מנחת נסכים הויא כולה כליל ואמרינן מתנדב אדם מנחת נסכים בכל יום והשתא יכול להתנות שפיר:",
+              "ref": "Tosafot on Chullin 23b:1:1",
+              "sourceHeRef": "תוספות על חולין כ״ג ב:א:א",
+              "sourceRef": "Tosafot on Chullin 23b:1:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>as he says</b> that one who sacrifices a <i>palges</i> <b>brings</b> the meal offering and the libation of a ram <b>and stipulates:</b> If it is a ram, this is its meal offering and libation, and if it is a lamb, whose meal offering and libation are less than that of the ram, then the remainder will be a gift offering.",
+      "he": "דאמר מייתי ומתני",
+      "ref": "Chullin 23b:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או דלמא בבריה נמי</strong> - מספקא ליה לבר פדא דלמא בריה הוא וגבי נסכים מייתי ומתני דאי בריה הוא ליהוי כולהו נדבה וגבי בעיין נמי לא נפיק דדלמא לאו איל ולאו כבש הוא:",
+              "ref": "Rashi on Chullin 23b:2:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ב:א",
+              "sourceRef": "Rashi on Chullin 23b:2:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מי אמרינן</b> <span class=\"hebrew-emphasis\">[האם אומרים אנו]:</span> ב<b>איל וכבש מתנה, בבריה</b> בפני עצמה, שאינה לא זה ולא זה — <b>לא מתנה,</b> שלדעתו ודאי אינו בריה לעצמה, אלא רק ספק כבש או איל. <b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> לשיטתו <b>בבריה נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>מתנה,</b> <b>דאמר</b> <span class=\"hebrew-emphasis\">[שאומר]:</span> <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> <b>בריה הוה</b> <span class=\"hebrew-emphasis\">[היא],</span> שאינו איל ולא כבש, ואינו חייב בנסכים האמורים בהם — <b>ליהוי כוליה</b> <span class=\"hebrew-emphasis\">[שיהיה כולו]</span> <b>נדבה.</b> ולדרך זו, גם לשיטתו, אם נדר שיביא איל או כבש והביא פלגס — מספק לא יצא ידי חובתו? בעיה זו לא נפתרה, ולכן <b>תיקו</b> <span class=\"hebrew-emphasis\">[תעמוד]</span> במקומה.",
+              "ref": "Steinsaltz on Chullin 23b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:ב",
+              "sourceRef": "Steinsaltz on Chullin 23b:2"
+            }
+          ]
+        }
+      },
+      "en": "The dilemma is: <b>Do we say</b> that he <b>stipulates</b> only if it is <b>a ram or</b> if it is <b>a lamb,</b> but <b>he does not stipulate</b> the possibility that it is <b>an entity</b> in and of itself, as <span href=\"/topics/bar-pedaiah\" class=\"namedEntityLink\" data-slug=\"בר-פדא-(ambiguous)\">bar Padda</span> does not accept such a possibility? If so, <span href=\"/topics/bar-pedaiah\" class=\"namedEntityLink\" data-slug=\"בר-פדא-(ambiguous)\">bar Padda</span> holds that one who vowed to bring a ram or a lamb can fulfill his obligation by bringing a <i>palges</i> and stipulating accordingly. <b>Or perhaps</b> <span href=\"/topics/bar-pedaiah\" class=\"namedEntityLink\" data-slug=\"בר-פדא-(ambiguous)\">bar Padda</span> holds that <b>he also stipulates</b> the possibility that it is <b>an entity</b> in and of itself, and in <b>that</b> case <b>he says: If</b> it <b>is an entity, let the entire</b> libation <b>be a gift</b> offering. According to that possibility, even according to <span href=\"/topics/bar-pedaiah\" class=\"namedEntityLink\" data-slug=\"בר-פדא-(ambiguous)\">bar Padda</span>, if one vowed to bring a ram or a lamb and brought a <i>palges</i>, due to the uncertainty he does not fulfill his obligation. The Gemara concludes: The dilemma <b>shall stand</b> unresolved.",
+      "he": "מי אמרינן איל וכבש מתנה בבריה לא מתנה או דלמא בבריה נמי מתנה דאמר אי בריה הוה ליהוי כוליה נדבה תיקו",
+      "ref": "Chullin 23b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "תודה טעונה מ' חלות שלשים של מצה וי' של חמץ:",
+              "ref": "Rashi on Chullin 23b:3:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ג:א",
+              "sourceRef": "Rashi on Chullin 23b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מן החמץ או מן המצה</strong> - י' חלות מאיזה מין שארצה ולקמן בעי היכי מייתי י' חלות לחודייהו:",
+              "ref": "Rashi on Chullin 23b:3:2",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ג:ב",
+              "sourceRef": "Rashi on Chullin 23b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שיאור</strong> - שיצא מכלל מצה ולכלל חמץ לא בא:",
+              "ref": "Rashi on Chullin 23b:3:3",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ג:ג",
+              "sourceRef": "Rashi on Chullin 23b:3:3"
+            },
+            {
+              "en": "",
+              "he": "ר\"מ ורבי יהודה פליגי באלו עוברין <span class=\"parenthesized\">(פסחים מח:)</span> לר\"מ שיאור בהכספת פנים ואפילו אין שם סדק ואם נסדק אפי' כקרני חגבים מיקרי סידוק וחייב כרת ושיאור בהכספת פנים אמרינן בריש אלו עוברין <span class=\"parenthesized\">(שם)</span> דר\"מ חייב מלקות ורבי יהודה אית ליה תרי קולי חדא דהכסיפו פניו אפילו שיאור לא מיקרי וכקרני חגבים הוא דמקרי שיאור ועוד קולא אחריתי דבהא דקרי ליה ר' יהודה שיאור לא מחייב עליה מלקות:",
+              "ref": "Rashi on Chullin 23b:3:4",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ג:ד",
+              "sourceRef": "Rashi on Chullin 23b:3:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> ענין \"בריה בפני עצמה\" נדון גם ביחס לקרבן תודה שצריך להביא עמו עשרים עשרון ללחמי התודה, עשרה עשרונים למצה ועשרה לחמץ. <b>בעי</b> <span class=\"hebrew-emphasis\">[שאל]</span> <b>רבי זירא: האומר \"הרי עלי</b> עשרה עשרונים <b>לחמי תודה, מן החמץ או מן המצה\"</b> מאיזה שארצה, <b>והביא</b> <b>שיאור,</b> שהוא ספק מצה ספק חמץ, <b>מהו</b> דינו? האם יוצא בו ידי חובת נדרו?",
+              "ref": "Steinsaltz on Chullin 23b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:ג",
+              "sourceRef": "Steinsaltz on Chullin 23b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One who says: It is incumbent upon me to bring loaves of a thanks offering, is obligated to bring a thanks offering with its loaves, as it is known that loaves are not brought without the thanks offering, in accordance with the opinion of Rav Huna (Rambam <i>Sefer Avoda</i>, <i>Hilkhot Ma’aseh HaKorbanot </i>17:11).",
+              "he": "המביא קרבן תודה, צריך להביא עמה עשרים עשרון סולת, עשרה לחמץ ועשרה למצה. ואת המצה מחלקים לשלושים חלות (עשר מכל סוג, חלות ורקיקים ורבוכה), ואת החמץ מחלקים לעשר חלות. והפירוש בפנים הוא על פי רש\"י, שגרס כאן כנראה \"עשר לחמי תודה\" (ראה גרסות), והעירו מפרשים שלפי זה יש מעט קושי בפירוש הדברים להלן (תוהרא\"ש). ולכן הציעו לפרש שמדובר במי שהתנדב עשרה עשרונים למצה או לחמץ, והביא עיסה של עשרה עשרונים שיאור (ראה תורת חיים), וכן הפירוש בפנים.",
+              "ref": "Steinsaltz comment #1 on Chullin 23b:3",
+              "sourceHeRef": "הֲרֵי עָלַי לַחְמֵי תוֹדָה",
+              "sourceRef": "It is incumbent upon me to bring loaves of a thanks offering"
+            },
+            {
+              "en": "The Torah (see Leviticus 7:12–14) states that four types of loaves accompany the thanks offering, including leavened bread and three types of <i>matza</i>: Wafers, loaves, and boiled loaves. One loaf of each type is given to a priest. The Sages taught that in order to do so, one should bake ten loaves of each type <i>ab initio </i>so that one will give one-tenth to the priest.",
+              "he": "האומר הרי עלי לחמי תודה — יביא תודה ולחמה, שהדבר ידוע שאין מקריבים לחם בלא תודה. כדברי רב הונא. (רמב\"ם ספר עבודה הלכות מעשה הקרבנות פי\"ז הי\"א).",
+              "ref": "Steinsaltz comment #2 on Chullin 23b:3",
+              "sourceHeRef": "לַחְמֵי תוֹדָה",
+              "sourceRef": "Loaves of a thanks offering"
+            }
+          ]
+        }
+      },
+      "en": "The concept of an entity in and of itself is mentioned with regard to a thanks offering, with which one must bring twenty tenths of an ephah for the accompanying loaves: Ten tenths of an ephah for <i>matza</i> and ten for leavened bread. <b><span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rabbi Zeira</span> raises a dilemma:</b> With regard to <b>one who says: It</b> is incumbent <b>upon me</b> to bring <b>loaves of a thanks offering of leavened bread or of <i>matza</i>, and he brought leavening</b> dough [<b><i>siur</i></b>], <b>what is</b> the <i>halakha</i>?",
+      "he": "בעי <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">רבי זירא</span> האומר הרי עלי לחמי תודה מן החמץ או מן המצה והביא שיאור מהו",
+      "ref": "Chullin 23b:3",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>GEMARA:</strong> <b>Rabbi Perida raised a dilemma before Rabbi Ami: From where</b> is it derived with regard <b>to all the meal offerings that they come</b> to be offered as <b><i>matza</i>?</b> Rabbi Ami was puzzled by this question, and replied: What do you mean when you say: <b>From where do we</b> derive this? Concerning every meal offering <b>with regard to which it is written</b> explicitly in the Torah that it comes as <i>matza</i>, <b>it is written with regard to it,</b> and therefore the dilemma does not arise. And concerning any meal offering where <b>it is not written</b> explicitly <b>with regard to it</b> that it must be <i>matza</i>, nevertheless <b>it is written with regard to it:</b>"
+                ],
+                [
+                  "<b>“And this is the law of the meal offering: The sons of Aaron shall sacrifice it before the Lord in front of the altar…And that which is left of it Aaron and his sons shall eat; it shall be eaten as <i>matzot</i>”</b> (Leviticus 6:7–9). These verses demonstrate that there is a general requirement that meal offerings must be brought as <i>matza</i>. Rabbi Perida <b>said to</b> Rabbi Ami: <b>I do not raise the dilemma</b> with regard to the source of the <b>mitzva</b> <i>ab initio</i>, as that is clearly derived from these verses. <b>Where I raise the dilemma,</b> it is <b>with regard to</b> the source that indicates this requirement is <b>indispensable,</b> i.e., that if one violated the mitzva and brought a meal offering not as <i>matza</i> the offering is not valid.",
+                  "Rabbi Ami <b>said to</b> Rabbi Perida: <b>With regard to</b> the <i>halakha</i> that the requirement that meal offerings must come as <i>matza</i> is <b>indispensable, it is also written: “It shall not be baked as leavened bread”</b> (Leviticus 6:10), <b>but</b> rather must come as <b><i>matza</i>.</b> This additional verse indicates that even after the fact, if a meal offering was not made as <i>matza</i> it is not valid.",
+                  "Rav <b>Ḥisda objects to this: But</b> one can <b>say</b> that the verse should be interpreted as follows: <b>“It shall not be baked as leavened bread,”</b> i.e., fully leavened, <b>but</b> it can be brought even if it has been leavened slightly with <b>leavening [<i>siur</i>]</b> dough. Although it does not have the status of leavened bread and is therefore not prohibited by the verse, it also does not have the status of <i>matza</i>.",
+                  "The Gemara analyzes Rav Ḥisda’s objection, as there is a dispute among the Sages with regard to the definition of <i>siur</i> (see <i>Pesaḥim</i> 48b). According to Rabbi Meir, <i>siur</i> is dough at the beginning of the leavening process, when its surface has become pale. Conversely, Rabbi Yehuda maintains that <i>siur</i> is dough that has been leavened to the point that it has cracks that look like the antennae of locusts. In this light, the Gemara inquires: This <b><i>siur</i>,</b> mentioned by Rav Ḥisda in his suggested interpretation of the verse, is in accordance <b>with whose</b> opinion? <b>If</b> he is referring to <i>siur</i> as defined <b>by Rabbi Meir,</b> then <b>according to</b> the opinion of <b>Rabbi Yehuda</b> Rav Ḥisda’s objection does not arise, as Rabbi Yehuda maintains this <b>is full-fledged <i>matza</i>.</b> And <b>if</b> Rav Ḥisda is referring to <i>siur</i> as defined <b>by Rabbi Yehuda,</b> then <b>according to</b> the opinion of <b>Rabbi Meir</b> Rav Ḥisda’s objection does not arise either, as Rabbi Meir holds that it <b>is full-fledged leavened bread.</b>",
+                  "Furthermore, <b>if</b> Rav Ḥisda is referring to <i>siur</i> as defined <b>by Rabbi Meir,</b> then even <b>according to</b> the opinion of <b>Rabbi Meir</b> himself the objection does not arise. The reason is that <b>from</b> the fact that Rabbi Meir rules <b>that</b> one who eats this <i>siur</i> on Passover <b>is flogged for it,</b> this indicates that <b>it is</b> deemed <b>full-fledged leavened bread. Rather,</b> Rav Ḥisda’s objection arises with regard to leavening dough as defined <b>by Rabbi Yehuda, according to</b> the opinion of <b>Rabbi Yehuda,</b> who maintains that this dough is not considered full-fledged leavened bread.",
+                  "<b>Rav Naḥman bar Yitzḥak</b> also <b>objects to</b> Rabbi Ami’s explanation: <b>But</b> one can <b>say</b> that the verse can be interpreted as follows: <b>“It shall not be baked as leavened bread,” but</b> one may bring a meal offering that has been <b>boiled,</b> as this is not leavened bread; although it is also not <i>matza</i>. The Gemara asks: This <b>boiled</b> dough, <b>what is it?</b> It is <b>poached [<i>revikha</i>],</b> as described in the verse: “In a pan it shall be made of oil, when it is soaked [<i>murbekhet</i>]” (Leviticus 6:14). If so, there is no need to derive the <i>halakha</i> of boiled dough from the verse: “It shall not be baked as leavened bread.” <b>If</b> it is a meal offering that must be <b>poached, it is</b> explicitly <b>written with regard to it</b> that it must be <b>poached. And</b> if it is a meal offering that is not to be poached, <b>it is not written with regard to it</b> that it is <b>poached.</b>",
+                  "The Gemara challenges: <b>But</b> one can <b>say</b> that the verse: “It shall not be baked as leavened bread,” indicates that with regard to a meal offering <b>about which it is written</b> explicitly that it must be <b>poached,</b> it is a <b>mitzva that</b> it be <b>poached, and</b> with regard to a meal offering <b>about which it is not written</b> that it must be <b>poached,</b> the one who brings the offering can decide: <b>If he wants, let him bring</b> it <b>poached,</b> and <b>if he wants, let him bring</b> it as <b><i>matza</i>.</b> Accordingly, Rabbi Ami’s proof from the verse is inconclusive.",
+                  "<b>Ravina</b> also <b>objects to</b> Rabbi Ami’s explanation: <b>But</b> one can <b>say</b> that the verse: <b>“It shall not be baked as leavened bread,”</b> serves <b>to determine</b> that this <b>man</b> who brings a meal offering as leavened bread <b>is</b> liable <b>for</b> violating <b>a mere prohibition, but</b> the meal offering itself is <b>not invalid.</b>",
+                  "All these objections indicate that the verse: “It shall not be baked as leavened bread,” can be interpreted in ways other than that suggested by Rabbi Ami. Accordingly, the Gemara asks: <b>Rather, from where do we</b> derive that all meal offerings not brought as <i>matza</i> are not valid? The Gemara answers: We derive it <b>as it is taught</b> in a <i>baraita</i> discussing a verse concerning meal offerings: “It shall be of <b><i>matza</i>”</b> (Leviticus 2:5): One <b>might</b> have thought that it is only <b>a mitzva</b> <i>ab initio</i> for a meal offering to be of <i>matza</i>. Therefore, <b>the verse states: “It shall be,”</b> which indicates that <b>the verse established it</b> as <b>an obligation,</b> i.e., if the meal offering was not brought as <i>matza</i> it is not valid."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Menachot 52b:15",
+                "Menachot 53a:1",
+                "Menachot 53a:2",
+                "Menachot 53a:3",
+                "Menachot 53a:4",
+                "Menachot 53a:5",
+                "Menachot 53a:6",
+                "Menachot 53a:7",
+                "Menachot 53a:8",
+                "Menachot 53a:9"
+              ],
+              "he": [
+                [
+                  "<big><strong>גמ׳</strong></big> בעא מיניה רבי פרידא מרבי אמי מנין לכל המנחות שהן באות מצה מנלן דכתיב בה כתיב בה דלא כתיב בה כתיב בה"
+                ],
+                [
+                  "<span class=\"parenthesized\">(ויקרא ו, ז)</span> זאת תורת המנחה הקרב אותה בני אהרן לפני ה' אל פני המזבח והנותרת ממנה יאכלו אהרן ובניו מצות תאכל אמר ליה מצוה לא קא מיבעיא לי כי קא מיבעיא לי לעכב",
+                  "אמר ליה לעכב נמי כתיב <span class=\"parenthesized\">(ויקרא ו, י)</span> לא תאפה חמץ אלא מצה",
+                  "מתקיף לה רב חסדא ואימא לא תאפה חמץ אלא שיאור",
+                  "שיאור דמאן אי דר\"מ לר' יהודה מצה מעליא היא אי דרבי יהודה לר\"מ חמץ מעליא הוא",
+                  "אי דר\"מ לר\"מ מדלקי עליה חמץ הוא אלא דר' יהודה לר' יהודה",
+                  "מתקיף לה רב נחמן בר יצחק ואימא לא תאפה חמץ אלא חלוט חלוט מאי ניהו רביכה אי דאיכא רביכה כתיב בה רביכה והא לא כתיב בה רביכה",
+                  "ואימא דכתיב בה רביכה מצוה ברביכה ודלא כתיב בה רביכה אי בעי רביכה לייתי אי בעי מצה לייתי",
+                  "מתקיף לה רבינא ואימא לא תאפה חמץ למיקם גברא בלאו בעלמא ואיפסולי לא מיפסלא",
+                  "אלא מנלן כדתניא מצה יכול מצוה תלמוד לומר תהיה הכתוב קבעה חובה"
+                ]
+              ],
+              "link": "/Menachot/53a",
+              "originalRefsBeforeRewriting": [
+                "Menachot 53a:4",
+                "Menachot 53a:5"
+              ],
+              "ref": "Menachot 52b:15-53a:9",
+              "sourceHeRef": "מנחות נ״ג א",
+              "sourceRef": "Menachot 53a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שיאור דמאן אי שיאור דר\"מ</strong> - דהכסיפו פניו:",
+              "ref": "Rashi on Chullin 23b:4:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ד:א",
+              "sourceRef": "Rashi on Chullin 23b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לרבי יהודה</strong> - כלומר וקא מיבעיא לן אליבא דרבי יהודה אי נפיק בהאי שיאור אי לא הא ודאי לרבי יהודה מצה מעליא הוא ונפיק משום מצה:",
+              "ref": "Rashi on Chullin 23b:4:2",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ד:ב",
+              "sourceRef": "Rashi on Chullin 23b:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והואיל ונחלקו חכמים בהגדרת השיאור, שואלים תחילה: <b>ב</b><b>שיאור דמאן</b> <span class=\"hebrew-emphasis\">[של מי]?</span> לדעת מי מדובר? <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> תאמר ב<b>שיאור</b> לדעת <b>ר' מאיר,</b> שפניו של הבצק הכסיפו (החווירו), ו<b>ל</b>שיטת <b>רבי יהודה</b> הסבור שאינו חמץ כלל — הרי <b>מצה מעלייתא</b> <span class=\"hebrew-emphasis\">[מעולה]</span> <b>היא,</b> ויצא ידי חובת נדרו במצה!",
+              "ref": "Steinsaltz on Chullin 23b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:ד",
+              "sourceRef": "Steinsaltz on Chullin 23b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This passage is based on a mishna in tractate <i>Pesaĥim </i>(48b) and its explanation in the <i>baraita </i>and in the Gemara there with regard to leavened bread on Passover, the consumption of which is punishable by <i>karet</i>. One who eats <i>siur</i>, which is dough that did not completely leaven, on Passover is exempt from <i>karet</i>. By contrast, one who eats <i>sidduk</i>, which<i> </i>is dough that leavened and whose surface cracked, is liable to receive <i>karet</i>.  There is a dispute between Rabbi Meir and Rabbi Yehuda with regard to two matters related to <i>siur</i>: First, they disagree with regard to the definitions of <i>siur </i>and <i>sidduk</i>. Rabbi Meir defines <i>siur </i>as dough whose surface turned pale like the face of a person who is afraid, and he defines <i>sidduk</i> as when the dough develops cracks going in different directions like the antennae of grasshoppers. In contrast, Rabbi Yehuda holds that any dough whose surface paled is defined as <i>matza</i>, <i>siur </i>is defined as when the dough develops cracks like the antennae of grasshoppers, and <i>sidduk</i> for which one is liable to receive <i>karet</i> is defined as when the cracks in the dough intertwine. Second, they dispute the <i>halakha</i> with regard to one who consumes <i>siur </i>on Passover. According to Rabbi Meir, although one is not liable to receive <i>karet</i>, one violates a prohibition and is flogged. According to Rabbi Yehuda, one is not flogged for consuming <i>siur</i> at all, even if the dough develops cracks like the antennae of grasshoppers. In any case, even according to Rabbi Yehuda, <i>siur </i>must be burned, as there is certainly concern that it might be leavened.",
+              "he": "דברים אלו מבוססים על המשנה במסכת פסחים (מח,ב) וכביאורה בברייתא ובגמרא שם, שהאוכל בפסח שיאור, והוא בצק שלא החמיץ כל צרכו — פטור, ואילו האוכל סידוק, שהחמיץ ונסדקו פניו — חייב כרת. ונחלקו ר' מאיר ור' יהודה בשנים: האחד — בהגדרת השיאור והסידוק, שלדעת ר' מאיר שיאור הוא בצק שהכסיפו (החוירו) פניו כפני אדם מפוחד, וסידוק הוא כאשר מתהווים בבצק סדקים לכאן ולכאן (כקרני חגבים). ואילו ר' יהודה סבור שכל שהכסיפו פניו — מצה הוא, ושיאור הוא זה שנסדקו פניו כקרני חגבים. ולשיטתו, סידוק המחייב על אכילתו כרת, הוא כאשר הסדקים שבבצק מתערבים זה בזה. ועוד נחלקו לענין דין המביא שיאור, שלדעת ר' מאיר, אף שאין חייבים עליו כרת, מכל מקום לאו יש בו, ולוקים עליו. ולדעת ר' יהודה אין לוקים כלל על שיאור, ואפילו לא על בצק שנסדקו פניו כקרני חגבים, שהוא מגדיר כשיאור. ועל כל פנים, גם לשיטתו שיאור חייב שריפה, שבוודאי יש בו חשש חמץ.",
+              "ref": "Steinsaltz comment #1 on Chullin 23b:4",
+              "sourceHeRef": "שִׂיאוּר דְּמַאן",
+              "sourceRef": "<i>Siur</i> according to whose opinion"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי שיאור דר\"מ לרבי יהודה מצה מעלייתא היא</strong> - וא\"ת והא בפרק אלו עוברין <span class=\"parenthesized\">(פסחים דף מג.)</span> תניא שיאור ישרף ונותנו לפני כלבו ומפרש התם דהיינו שיאור דר\"מ לרבי יהודה משמע דאסור באכילה וי\"ל דמדרבנן בעלמא אסור דמדשרי ליתנו לפני כלבו שמע מינה דהוי מצה מעלייתא:",
+              "ref": "Tosafot on Chullin 23b:4:1",
+              "sourceHeRef": "תוספות על חולין כ״ג ב:ד:א",
+              "sourceRef": "Tosafot on Chullin 23b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b><i>Siur</i></b> according <b>to whose</b> opinion? <b>If</b> the reference is to the <b><i>siur</i> of <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>,</b> who says that it is dough at the stage when its surface pales, according <b>to <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span></b> it is not leavened bread at all; <b>it is full-fledged <i>matza</i></b> and one fulfills his vow to bring <i>matza</i>.",
+      "he": "שיאור דמאן אי שיאור <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">דר\"מ</span> <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">לרבי יהודה</span> מצה מעלייתא היא",
+      "ref": "Chullin 23b:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי שיאור דרבי יהודה</strong> - דקרני חגבים ומיבעי לך אליבא דרבי מאיר הא ודאי לרבי מאיר יצא ידי נדרו ונפיק משום חמץ:",
+              "ref": "Rashi on Chullin 23b:5:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ה:א",
+              "sourceRef": "Rashi on Chullin 23b:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> בשיאור לדעת <b>רבי יהודה,</b> שכבר נתהוו בו סדקים כקרני חגבים, ו<b>ל</b>פי שיטת <b>ר' מאיר</b> — הרי לשיטת ר' מאיר <b>חמץ</b> גמור <b>הוא,</b> ויצא ידי חובת נדרו בחמץ!",
+              "ref": "Steinsaltz on Chullin 23b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:ה",
+              "sourceRef": "Steinsaltz on Chullin 23b:5"
+            }
+          ]
+        }
+      },
+      "en": "<b>If</b> the reference is to the <i>siur</i> <b>of <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>,</b> who says that it is dough at the stage when it has cracks that look like the antennae of locusts and is <b>in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>,</b> <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> holds that <b>it is</b> full-fledged <b>leavened bread,</b> and one fulfills his vow to bring leavened bread.",
+      "he": "אי <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">דרבי יהודה</span> <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">לר\"מ</span> חמץ הוא",
+      "ref": "Chullin 23b:5"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תוס'</b> בד\"ה ואי דר\"מ כו' ונראה דיש שום יתור כתוב. נמחק כתוב:",
+              "ref": "Chokhmat Shlomo on Chullin 23b:1",
+              "sourceHeRef": "חכמת שלמה על חולין כ״ג ב:א",
+              "sourceRef": "Chokhmat Shlomo on Chullin 23b:1"
+            }
+          ]
+        },
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ד\"ה</b> ואי דר\"מ לר\"מ וכו' מיהו מצינו לפרש דה\"ק וכו'. ר\"ל דאין כוונת המקשה שהקשה מדלקי חמץ הוא דר\"ל פשיטא דיוצא בה משום חמץ אלא ר\"ל פשיטא ראינו יוצא בה משום מצה וחמץ גמור נמי לא הוי א\"כ פשיטא דלא יצא בה כלל ואי פשיטא לך דילפינן חמץ דתודה מחמץ דפסח אע\"ג דאינו חמץ גמור א\"כ פשיטא דיצא בה משום חמץ כן הוא כוונת המקשה וק\"ל:",
+              "ref": "Maharam on Chullin 23b:2",
+              "sourceHeRef": "מהר\"ם על חולין כ״ג ב:ב",
+              "sourceRef": "Maharam on Chullin 23b:2"
+            },
+            {
+              "en": "",
+              "he": "<b>בא\"ד</b> והא דמשמע התם דלכ\"ע אין מחמיצין בחמץ נוקשה וכו'. והתם משמע דחמץ נוקשה הוי היינו לכתחלה וכו' כצ\"ל וע\"ש במנחות ריש דף נ\"ד:",
+              "ref": "Maharam on Chullin 23b:3",
+              "sourceHeRef": "מהר\"ם על חולין כ״ג ב:ג",
+              "sourceRef": "Maharam on Chullin 23b:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי דר\"מ</strong> - דהכסיפו פניו וקא מיבעיא לך אליבא דר\"מ:",
+              "ref": "Rashi on Chullin 23b:6:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ו:א",
+              "sourceRef": "Rashi on Chullin 23b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מדלקי עליה</strong> - דאמרינן התם האוכלו במ':",
+              "ref": "Rashi on Chullin 23b:6:2",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ו:ב",
+              "sourceRef": "Rashi on Chullin 23b:6:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חמץ הוא</strong> - ואע\"ג דכרת לא מחייב משום דלאו חמץ הראוי לאכילה הוא מיהו חמץ נוקשה מיקרי מדקא מיחייב עליה מלקות ולענין נדר יצא ידי נדרו שהרי הביא חמץ:",
+              "ref": "Rashi on Chullin 23b:6:3",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ו:ג",
+              "sourceRef": "Rashi on Chullin 23b:6:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ו</b>גם <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> מדובר בשיאור לדעת <b>ר' מאיר,</b> ו<b>ל</b>שיטת <b>ר' מאיר,</b> הרי למרות שאינו חייב על אכילתו כרת, מכל מקום <b>מדלקי עליה</b> <span class=\"hebrew-emphasis\">[מכיון ש</span>לדעת ר' מאיר <span class=\"hebrew-emphasis\">הוא לוקה עליו]</span> מן התורה — ודאי <b>חמץ הוא,</b> ואם כן יצא ידי חובת נדרו בחמץ!",
+              "ref": "Steinsaltz on Chullin 23b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:ו",
+              "sourceRef": "Steinsaltz on Chullin 23b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואין לומר להיפך: ממה שאינו חייב עליו כרת — נלמד לענין מנחות שמצה הוא. שיש כמה דברים שהם חמץ ואין האוכלם חייב כרת, כגון חמץ נוקשה, וחמץ שעל ידי תערובת (תוס' הר\"ף). ושאלו בתוס': והרי איסורי חמץ שאינו גמור נלמדו מריבוי הכתוב לענין פסח, ומנין שכן הוא גם לגבי הגדרת חמץ במנחה? וכתבו כי בהכרח יש לכך מקור בכתוב (וראה בחת\"ס שהביא מקור לכך בשם ברכת הזבח).",
+              "ref": "Steinsaltz comment #1 on Chullin 23b:6",
+              "sourceHeRef": "מדלקי עליה חמץ הוא",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי דר\"מ לר\"מ מדלקי עליה חמץ הוא</strong> - וא\"ת ודילמא שאני לענין פסח דרבייה קרא בפרק אלו עוברין <span class=\"parenthesized\">(פסחים דף מג.)</span> מדכתיב כל וכי תימא נילף חמץ דתודה מחמץ דפסח דלמא מחמץ גמור דחייב כרת גמרינן אבל האי דלא חשיב חמץ גמור לענין פסח לא חשיב חמץ לענין תודה מיהו מצינו לפרש דהכי קאמר דפשיטא דלא יצא משום מצה דלענין מצה ילפינן תודה מפסח אבל קשה דבריש כל המנחות באות מצה <span class=\"parenthesized\">(מנחות נג.)</span> קאמר ואימא לא תאפה חמץ אלא שיאור וקאמר שיאור דמאן כו' ואי דר\"מ לרבי מאיר מדלקי עליה חמץ הוא ומאי קושיא גבי פסח הוא דחשיב חמץ דרבייה קרא ונראה דיש שום יתור <span class=\"parenthesized\">(כתוב)</span> בתודה ובמנחות דחמץ נוקשה חשיב חמץ גבייהו והא דמשמע התם דלכולי עלמא אין מחמיצין בחמץ נוקשה גבי תודה דקאמר אין מחמיצין בתפוחים והתם משמע דחמץ נוקשה הוי <span class=\"parenthesized\">(גבי תודה)</span> היינו לכתחלה דכשבא לחמץ שתי הלחם וחלות תודה מצוה לעשות בחמץ גמור:",
+              "ref": "Tosafot on Chullin 23b:6:1",
+              "sourceHeRef": "תוספות על חולין כ״ג ב:ו:א",
+              "sourceRef": "Tosafot on Chullin 23b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>And if</b> the reference is to the <i>siur</i> <b>of <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span></b> and is <b>in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>,</b> although one is not liable to receive <i>karet</i> for eating it on Passover, <b>from</b> the <i>halakha</i> <b>that one is flogged for</b> eating <b>it</b> on Passover it <b>is</b> clearly <b>leavened bread,</b> with which one fulfills his vow to bring leavened bread.",
+      "he": "ואי <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">דר\"מ</span> <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">לר' מאיר</span> מדלקי עליה חמץ הוא",
+      "ref": "Chullin 23b:6"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא דרבי יהודה</strong> - דקרני חגבים ומבעיא לן אליבא דרבי יהודה דאמר בשיאור דידיה ישרף אלמא יש בו צד חמץ וקאמר האוכלו פטור אלמא לאו ודאי חמץ הוא והויא התראת ספק:",
+              "ref": "Rashi on Chullin 23b:7:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ז:א",
+              "sourceRef": "Rashi on Chullin 23b:7:1"
+            },
+            {
+              "en": "",
+              "he": "מאי ספק הוי ונפיק ממה נפשך או דלמא בריה הויא ולא נפיק:",
+              "ref": "Rashi on Chullin 23b:7:2",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ז:ב",
+              "sourceRef": "Rashi on Chullin 23b:7:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> צריך לומר ששאלת ר' זירא היא במי שהביא עשר חלות שיאור לדעת <b>רבי יהודה,</b> ו<b>ל</b>שיטת <b>רבי יהודה,</b> שאינו לוקה עליו, ומכל מקום צריך לשרוף אותו, ומכאן שיש בו צד חמץ, <b>מאי</b> <span class=\"hebrew-emphasis\">[מה</span> דינו<span class=\"hebrew-emphasis\">]?</span> האם <b>ספיקא הויא</b> <span class=\"hebrew-emphasis\">[ספק הוא],</span> <b>ונפיק</b> <span class=\"hebrew-emphasis\">[ויוצא]</span> ידי חובת נדרו <b>ממה נפשך</b> <span class=\"hebrew-emphasis\">[מאיזה צד שתרצה],</span> שאם מצה הוא — יוצא ידי חובת חלות תודה מן המצה, ואם חמץ — יוצא ידי חובת חלות תודה חמץ. <b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> שיאור <b>בריה</b> לעצמו <b>הוא,</b> לא מצה ולא חמץ, <b>ולא נפיק</b> <span class=\"hebrew-emphasis\">[ואינו יוצא]</span> בו ידי חובתו כלל? ומקשים: וגם אם ספק הוא, כיצד ייתכן שיצא אדם ידי נדרו באותו שיאור?",
+              "ref": "Steinsaltz on Chullin 23b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:ז",
+              "sourceRef": "Steinsaltz on Chullin 23b:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> the dilemma is with regard to the <i>siur</i> <b>of <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span></b> and is <b>in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>,</b> who holds that although one is obligated to destroy it before Passover, one is not liable to receive lashes for eating it on Passover. It is unclear whether this is due to uncertainty or due to <i>siur</i> having a unique status. Therefore, <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rabbi Zeira</span> raises the dilemma: <b>What</b> is its status? <b>Is</b> it a case of <b>uncertainty, and</b> consequently one who vowed to bring loaves of <i>matza</i> or leavened bread and brings <i>siur</i> <b>fulfills</b> his obligation <b>whichever</b> way <b>you</b> look at it, because if it is <i>matza</i>, he fulfills his vow to bring <i>matza</i>, and if it is leavened bread, he fulfills his vow to bring leavened bread? <b>Or perhaps</b> <i>siur</i> <b>is an entity</b> in and of itself, neither <i>matza</i> nor leavened bread, <b>and he does not fulfill</b> his obligation at all.",
+      "he": "אלא <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">דרבי יהודה</span> <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">לרבי יהודה</span> מאי ספיקא הויא ונפיק ממה נפשך או דלמא בריה הוא ולא נפיק",
+      "ref": "Chullin 23b:7"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person says: \"I promise to bring the bread of a thanksgiving-offering,\" He must bring a thanksgiving offering and its bread. [The rationale is that] it is known that the bread is never offered without the thanksgiving-offering and he mentioned merely the conclusion of the sacrifice. If he said: 'I promise to bring the bread to fulfill the obligation for so-and-so's thanksgiving offering,\" he should bring the bread for a thanksgiving offering together with the offering of his friend.",
+              "he": "הָאוֹמֵר הֲרֵי עָלַי לַחְמֵי תּוֹדָה יָבִיא תּוֹדָה וְלַחְמָהּ. שֶׁהַדָּבָר יָדוּעַ שֶׁאֵין מַקְרִיבִין לֶחֶם בְּלֹא תּוֹדָה וְסוֹף הַקָּרְבָּן הִזְכִּיר. אָמַר הֲרֵי עָלַי לֶחֶם לִפְטֹר תּוֹדָתוֹ שֶׁל פְּלוֹנִי יָבִיא לֶחֶם תּוֹדָה עִם תּוֹדַת חֲבֵרוֹ:",
+              "ref": "Mishneh Torah, Sacrificial Procedure 17:11",
+              "sourceHeRef": "הלכות מעשה הקרבנות יז:יא",
+              "sourceRef": "Sacrificial Procedure 17:11"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג והא א\"ר הונא האומר הרי עלי לחמי תודה מביא תודה ולחמה</strong> - דאדם יודע דאין לחם בלא תודה וכיון דאיחייב בכולהו נהי נמי דלאו בריה הוא היכי נפיק:",
+              "ref": "Rashi on Chullin 23b:8:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ח:א",
+              "sourceRef": "Rashi on Chullin 23b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא לא ידע אי חמץ אייתי</strong> - דלוסיף עליה ולייתי מצה אי מצה היא דלייתי חמץ ועל כרחו יביא חלות כשרים ובהן יוצא ידי נדרו שהרי הביא עשר שנדר וגם הוסיף עלייהו:",
+              "ref": "Rashi on Chullin 23b:8:2",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ח:ב",
+              "sourceRef": "Rashi on Chullin 23b:8:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>והאמר</b> <span class=\"hebrew-emphasis\">[והרי אמר]</span> <b>רב הונא: האומר \"הרי עלי לחמי תודה\"</b> — <b>מביא תודה ולחמה</b> בשלימות, עשרה עשרונים מצה ועשרה עשרונים חמץ; <b>וכיון דאיחייב ליה</b> <span class=\"hebrew-emphasis\">[שהתחייב הוא]</span> <b>בתודה ו</b>כל <b>לחמה, הא לא ידע האי גברא</b> <span class=\"hebrew-emphasis\">[הרי אין יודע אותו אדם]</span> שהביא שיאור <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> אותו שיאור <b>חמץ הוא, דליתי</b> <span class=\"hebrew-emphasis\">[שיביא]</span> <b>מצה</b> להשלים את חובת לחמי התודה, <b>אי</b> <span class=\"hebrew-emphasis\">[</span>או <span class=\"hebrew-emphasis\">אם]</span> <b>מצה הוא, דליתי</b> <span class=\"hebrew-emphasis\">[שיביא]</span> <b>חמץ</b> להשלים אותו. ובכל מקרה אינו יוצא ידי חובת קרבן תודתו עד שיביא עוד קרבן שלם של לחמי תודה, חמץ ומצה!",
+              "ref": "Steinsaltz on Chullin 23b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:ח",
+              "sourceRef": "Steinsaltz on Chullin 23b:8"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: Even if it is a case of uncertainty, how can a person fulfill his vow with that <i>siur</i>? <b>But doesn’t <span href=\"/topics/rav-huna\" class=\"namedEntityLink\" data-slug=\"rav-huna\">Rav Huna</span> say</b> that <b>one who says: It</b> is incumbent <b>upon me</b> to bring <b>loaves of a thanks offering,</b> is obligated to <b>bring a thanks offering and</b> all <b>its loaves,</b> twenty tenths of an ephah, ten for matza and ten for leavened bread? <b>And since he is obligated to</b> bring <b>a thanks offering and</b> all <b>its loaves, but this man does not know whether</b> the <i>siur</i> that he brought <b>is leavened bread so that he will bring <i>matza</i>,</b> or <b>whether</b> the <i>siur</i> that he brought <b>is <i>matza</i> so that he will bring leavened bread,</b> so how can he fulfill his vow? In any case, the only way that he could fulfill his vow would be to bring an additional twenty tenths of an ephah.",
+      "he": "והאמר <span href=\"/topics/rav-huna\" class=\"namedEntityLink\" data-slug=\"rav-huna\">רב הונא</span> האומר הרי עלי לחמי תודה מביא תודה ולחמה וכיון דאיחייב ליה בתודה ולחמה הא לא ידע האי גברא אי חמץ הוא דליתי מצה אי מצה הוא דליתי חמץ",
+      "ref": "Chullin 23b:8"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person says: \"I promise to bring the bread of a thanksgiving-offering,\" He must bring a thanksgiving offering and its bread. [The rationale is that] it is known that the bread is never offered without the thanksgiving-offering and he mentioned merely the conclusion of the sacrifice. If he said: 'I promise to bring the bread to fulfill the obligation for so-and-so's thanksgiving offering,\" he should bring the bread for a thanksgiving offering together with the offering of his friend.",
+              "he": "הָאוֹמֵר הֲרֵי עָלַי לַחְמֵי תּוֹדָה יָבִיא תּוֹדָה וְלַחְמָהּ. שֶׁהַדָּבָר יָדוּעַ שֶׁאֵין מַקְרִיבִין לֶחֶם בְּלֹא תּוֹדָה וְסוֹף הַקָּרְבָּן הִזְכִּיר. אָמַר הֲרֵי עָלַי לֶחֶם לִפְטֹר תּוֹדָתוֹ שֶׁל פְּלוֹנִי יָבִיא לֶחֶם תּוֹדָה עִם תּוֹדַת חֲבֵרוֹ:",
+              "ref": "Mishneh Torah, Sacrificial Procedure 17:11",
+              "sourceHeRef": "הלכות מעשה הקרבנות יז:יא",
+              "sourceRef": "Sacrificial Procedure 17:11"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא צריכא דאמר הרי עלי</strong> - י' חלות לפטור תודתו של פלוני דלא מיחייב עליה בכולהו מ':",
+              "ref": "Rashi on Chullin 23b:9:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:ט:א",
+              "sourceRef": "Rashi on Chullin 23b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>לא צריכא</b> <span class=\"hebrew-emphasis\">[לא נצרכה]</span> שאלתו של ר' זירא, אלא במי ש<b>אמר \"הרי עלי חלה</b> (חלות) מן החמץ או מן המצה, על מנת <b>לפטור</b> חובת לחמי <b>תודתו של פלוני\",</b> ונמצא שהוא עצמו יוצא ידי חובת נדרו, שהרי לא חייב עצמו בקרבן תודה.",
+              "ref": "Steinsaltz on Chullin 23b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:ט",
+              "sourceRef": "Steinsaltz on Chullin 23b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one said: It is incumbent upon me to bring a loaf to exempt the thanks offering of so-and-so, he is obligated to bring loaves with that person’s thanks offering (Rambam <i>Sefer Avoda</i>, <i>Hilkhot Ma’aseh HaKorbanot </i>17:11 and <i>Kesef Mishne</i>).",
+              "he": "אמר \"הרי עלי לחם לפטור תודתו של פלוני\" — יביא לחם תודה עם תודת חבירו. על פי סוגייתנו (כס\"מ). (רמב\"ם ספר עבודה הלכות מעשה הקרבנות פי\"ז הי\"א).",
+              "ref": "Steinsaltz comment #1 on Chullin 23b:9",
+              "sourceHeRef": "הֲרֵי עָלַי חַלָּה לִפְטוֹר תּוֹדָתוֹ שֶׁל פְּלוֹנִי",
+              "sourceRef": "It is incumbent upon me to bring a loaf to exempt the thanks offering of so-and-so"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b>No,</b> the dilemma of <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rabbi Zeira</span> is <b>necessary</b> only in a case <b>where one said: It</b> is incumbent <b>upon me</b> to bring the <b>loaf</b> element of the thanks offering <b>to exempt the thanks offering of so-and-so</b> from the obligation to bring loaves, as in that case he can fulfill his vow because he did not obligate himself to bring a thanks offering.",
+      "he": "לא צריכא דאמר הרי עלי חלה לפטור תודתו של פלוני",
+      "ref": "Chullin 23b:9"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הכא במאי עסקינן דלא אמר לפטור מיפק גברא ידי נדריה נפיק או לא נפיק. </b>פירש רש\"י ז\"ל: מי נפיק ידי נדריה ויפלו דמיהם לנדבה לתודה אחרת או לא נפיק. ובתוס' אמרו שאי אפשר כמו שפירש רש\"י ז\"ל, דכיון דנדר זה להביא על חברו עשר לחמים אם הוא פודה קודם שישחט הזבח לא עשה ולא כלום, שאין הלחם קדוש אלא בשחיטתה זבח, וכיון דלא קדשי קודם שישחוט הזבח אם הוא פודה אותה לא הביא בשביל חבירו כלום. ואם שחט עליהן הזבח קודם פדיה, שוב אין להן פדיון עולמית. ועל כן אמרו בתוספות שדין עשר חלות אלו כדין אותן שנחלקו בהן חזקיה, ורבי יוחנן <span class=\"parenthesized\">(מנחות עח ,א)</span> דאיתמר תודה ששחטה על שמונים חלות חזקיה אמר קדשו ארבעים מתוך שמונים ורבי יוחנן אמר לא קדשו וכדין אותן ארבעים הנותרים לדעת חזקיה כן דין עשר חלות אלו, ומיהו אותן ארבעים לא נתפרש מה יעשה בהן.",
+              "ref": "Rashba on Chullin 23b:1",
+              "sourceHeRef": "רשב״א על חולין כ״ג ב:א",
+              "sourceRef": "Rashba on Chullin 23b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סוף סוף</strong> - כיון דאמר לפטור לא נפיק עד דפטר ליה לההוא פלוני מי' חלות והאי לא מצי פטר ליה בהאי שיאור דלא ידע ההוא פלוני מאי אייתי האיך דלוסיף עלייהו:",
+              "ref": "Rashi on Chullin 23b:10:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:י:א",
+              "sourceRef": "Rashi on Chullin 23b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא צריכא דלא אמר לפטור</strong> - אלא הרי עלי י' חלות לתודתו של פלוני דכיון דאמר לתודתו של פלוני לא איחייב ליה בתודה ולחמה אלא בעשר והא ודאי פשיטא לן דההוא פלוני לא מיפטר בהאי שיאור ואיהו נמי לא מקבל עליה למפטריה אלא לאתויינהו בעלמא וכסבור שיוכלו ליקרב עם המצה של חבירו:",
+              "ref": "Rashi on Chullin 23b:10:2",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:י:ב",
+              "sourceRef": "Rashi on Chullin 23b:10:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מיפק גברא ידי נדרו נפיק</strong> - ויפדו ויפלו דמיהם לנדבה לתודה אחרת או לא נפיק תיקו:",
+              "ref": "Rashi on Chullin 23b:10:3",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:י:ג",
+              "sourceRef": "Rashi on Chullin 23b:10:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: <b>סוף סוף הא לא ידע האי גברא</b> <span class=\"hebrew-emphasis\">[הרי אין יודע אותו אדם],</span> החבר, <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> מה שהביא <b>חמץ הוא, דליתי</b> <span class=\"hebrew-emphasis\">[שיביא]</span> <b>מצה</b> להשלים את חובת תודתו, <b>אי</b> <span class=\"hebrew-emphasis\">[</span>או <span class=\"hebrew-emphasis\">אם]</span> <b>מצה הוא, דליתי</b> <span class=\"hebrew-emphasis\">[ש</span>יוסיף ו<span class=\"hebrew-emphasis\">יביא]</span> <b>חמץ,</b> ונמצא שהנודר אינו מקיים את נדרו לפטור תודתו של חבירו, שהרי החבר לא יצא ידי קרבן תודתו במה שהביא עבורו! ומשיבים: <b>לא צריכא</b> <span class=\"hebrew-emphasis\">[לא נצרכה]</span> שאלתו של ר' זירא, אלא במקרה שאמר \"הרי עלי חלות לתודתו של פלוני\", ו<b>לא אמר</b> \"על מנת <b>לפטור</b> תודתו\", שאינו בא לפטור את חבירו מחובתו, אלא רק להוסיף עליו, ואם כן אין כאן אלא שאלה ביחס לנודר עצמו, האם <b>מיפק גברא</b> <span class=\"hebrew-emphasis\">[לצאת האיש]</span> <b>ידי נדרו נפיק</b> <span class=\"hebrew-emphasis\">[יוצא],</span> <b>או לא נפיק</b> <span class=\"hebrew-emphasis\">[אינו יוצא]?</span> גם שאלה זו לא נפתרה ולכן <b>תיקו</b> <span class=\"hebrew-emphasis\">[תעמוד]</span> במקומה.",
+              "ref": "Steinsaltz on Chullin 23b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:י",
+              "sourceRef": "Steinsaltz on Chullin 23b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Rather, he said that he is bringing the loaves for the thanks offering of so-and-so, as he believes that he can add additional loaves to another’s thanks offering. Rashi explains that although one cannot add his loaves to another’s thanks offering, he fulfills his vow by redeeming those loaves and using the money to purchase a gift thanks offering (see Rashash). <i>Tosafot </i>find this difficult, as he vowed to bring loaves for the thanks offering of so-and-so. Therefore, if he redeemed them before that person slaughtered his thanks offering, he has brought nothing for the thanks offering of that person, as slaughter of the animal consecrates the loaves with inherent sanctity and renders them part of the offering. After slaughter he can no longer redeem the loaves because items of inherent sanctity cannot be redeemed. Therefore, <i>Tosafot </i>explain that his intent was to add to the number of loaves that the other person is obligated to bring with his thanks offering, and in their opinion the status of those loaves is like that of the loaves of one who slaughters his thanks offering with eighty loaves (<i>Menaĥot</i> 78b), in accordance with the opinion of Ĥizkiyya who holds that all the loaves are consecrated. Others agree with Rashi and hold that the conclusion of the Gemara is that at the moment the loaves were consecrated with sanctity that inheres in their value, he has already fulfilled his vow (<i>Tosefot HaRosh</i>).",
+              "he": "אלא אמר סתם \"לתודתו של פלוני\", שהיה סבור שיכול לצרף חלות נוספות לקרבן תודתו של חבירו. והסביר רש\"י כי אף שאינו יכול לצרף אותן חלות לתודתו של חבירו, מכל מקום יוצא ידי חובת נדרו כשפודה אותן חלות, ודמיהן נופלים לנדבה לתודה אחרת שיביא (רש\"ש הגיה: \"או לתודה\", שהרי \"נדבה\" עניינה עולות נדבה של ציבור). אבל בתוספות (שאינן לפנינו) התקשו בדבר, שהרי נדר חלות אלו לתודתו של פלוני, ואם פדה אותן קודם שחיטת התודה — נמצא שלא הביא כלום בשביל חבירו, שהרי השחיטה היא המקדשת את החלות בקדושת הגוף להיות חלק מן הקרבן. ולאחר שחיטה אינו יכול לפדותן, שמשעה שקדשו החלות בקדושת הגוף אין להן פדיון! ולכן פירשו כי כוונתו היתה להוסיף על מספר החלות שצריך השני להביא לתודתו, ולדעתם דין אותן חלות הוא כדין שוחט תודתו על שמונים חלות (מנחות עח,ב), וכדעת חזקיה הסבור שכולן קדושות (ראה חידושי הרשב\"א). ואילו מדברי הרא\"ש בתוספותיו עולה כי למסקנת הגמרא, בעצם העובדה שנתקדשו החלות בקדושת דמים, כבר יצא ידי חובת נדרו, וכרש\"י.",
+              "ref": "Steinsaltz comment #1 on Chullin 23b:10",
+              "sourceHeRef": "לָא צְרִיכָא דְּלָא אֲמַר לִפְטוֹר",
+              "sourceRef": "It is necessary only in a case where he did not say: To exempt his thanks offering"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara objects: <b>Ultimately, this man</b> who brings the thanks offering <b>does not know whether</b> the <i>siur</i> that the other contributed <b>is leavened bread so that he will bring <i>matza</i>,</b> or <b>whether</b> the <i>siur</i> that the other contributed <b>is <i>matza</i> so that he will bring leavened bread.</b> Therefore, the man bringing the thanks offering must bring both matza and unleavened bread in addition to the <i>siur</i>, and the one who vowed has then not exempted him from any obligation by contributing the <i>siur</i>. The Gemara responds: <b>No,</b> the dilemma of <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rabbi Zeira</span> is <b>necessary</b> only in a case <b>where</b> he said: It is incumbent upon me to bring loaves of leavened bread or <i>matza</i> for the thanks offering of so-and-so, but <b>did not say: To exempt</b> his thanks offering. In that case, he is not obligated to fulfill the other’s obligation, and the dilemma is: <b>Does the man fulfill his vow</b> by bringing the loaves of <i>siur</i> <b>or does he not fulfill</b> his vow? The Gemara concludes: The dilemma <b>shall stand</b> unresolved.",
+      "he": "סוף סוף הא לא ידע האי גברא אי חמץ הוא דליתי מצה אי מצה הוא דליתי חמץ לא צריכא דלא אמר לפטור מיפק גברא ידי נדרו נפיק או לא נפיק תיקו:",
+      "ref": "Chullin 23b:10"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "That which is <b>fit in</b> a red <b>heifer</b> is <b>unfit in a heifer</b> whose neck is broken; that which is <b>fit in a heifer</b> whose neck is broken is <b>unfit in</b> a red <b>heifer.</b> There is an element with which <b>priests</b> remain <b>fit</b> and <b>Levites are unfit,</b> and there is also an element with which <b>Levites</b> remain <b>fit</b> and <b>priests are unfit.</b> That which is <b>ritually pure in an earthenware vessel</b> is <b>ritually impure in all the</b> other types of <b>vessels;</b> that which is <b>ritually pure in all the</b> other types of <b>vessels</b> is <b>ritually impure in an earthenware vessel.</b> That which is <b>ritually pure in wooden vessels</b> is <b>ritually impure in metal vessels;</b> that which is <b>ritually pure in metal vessels</b> is <b>ritually impure in wooden vessels.</b> With regard to the obligation of separating <i>teruma</i> and tithes, the stage of development <b>that</b> is <b>obligated in bitter almonds</b> is <b>exempt in sweet</b> almonds; and the stage in development <b>that</b> is <b>obligated in sweet</b> almonds is <b>exempt in bitter</b> almonds.",
+              "he": "כָּשֵׁר בַּפָּרָה, פָּסוּל בָּעֶגְלָה. כָּשֵׁר בָּעֶגְלָה, פָּסוּל בַּפָּרָה. כָּשֵׁר בַּכֹּהֲנִים, פָּסוּל בַּלְוִיִּם. כָּשֵׁר בַּלְוִיִּם, פָּסוּל בַּכֹּהֲנִים. טָהוֹר בִּכְלֵי חֶרֶשׂ, טָמֵא בְכָל הַכֵּלִים. טָהוֹר בְּכָל הַכֵּלִים, טָמֵא בִכְלֵי חָרֶשׂ. טָהוֹר בִּכְלֵי עֵץ, טָמֵא בִכְלֵי מַתָּכוֹת. טָהוֹר בִּכְלֵי מַתָּכוֹת, טָמֵא בִכְלֵי עֵץ. הַחַיָּב בַּשְּׁקֵדִים הַמָּרִים, פָּטוּר בַּמְּתוּקִים. הַחַיָּב בַּמְּתוּקִים, פָּטוּר בַּמָּרִים:",
+              "link": "/Mishnah Chullin/1",
+              "ref": "Mishnah Chullin 1:6",
+              "sourceHeRef": "משנה חולין א:ו",
+              "sourceRef": "Mishnah Chullin 1:6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב משנה</big> מה שהוא <b>כשר בפרה</b> אדומה <b>—</b> <b>פסול בעגלה</b> ערופה, ומה ש<b>כשר בעגלה</b> — <b>פסול בפרה.</b>",
+              "ref": "Steinsaltz on Chullin 23b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:יא",
+              "sourceRef": "Steinsaltz on Chullin 23b:11"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": [
+                "The L<small>ORD</small> spoke to Moses and Aaron, saying:",
+                "This is the ritual law that the L<small>ORD</small> has commanded:<br>Instruct the Israelite people to bring you a red cow without blemish, in which there is no defect and on which no yoke has been laid.",
+                "You shall give it to Eleazar the priest. It shall be taken outside the camp and slaughtered in his presence.",
+                "Eleazar the priest shall take some of its blood with his finger and sprinkle it seven times toward the front of the Tent of Meeting.",
+                "The cow shall be burned in his sight—its hide, flesh, and blood shall be burned, its dung included—",
+                "and the priest shall take cedar wood, hyssop, and crimson stuff, and throw them into the fire consuming the cow.",
+                "The priest shall wash his garments and bathe his body in water; after that the priest may reenter the camp, but he shall be unclean until evening.",
+                "He who performed the burning shall also wash his garments in water, bathe his body in water, and be unclean until evening.",
+                "A man who is clean shall gather up the ashes of the cow and deposit them outside the camp in a clean place, to be kept for water of lustration for the Israelite community. It is for cleansing.",
+                "He who gathers up the ashes of the cow shall also wash his clothes and be unclean until evening.<br>This shall be a permanent law for the Israelites and for the strangers who reside among you.",
+                "He who touches the corpse of any human being shall be unclean for seven days.",
+                "He shall cleanse himself with it on the third day and on the seventh day, and then be clean; if he fails to cleanse himself on the third and seventh days, he shall not be clean.",
+                "Whoever touches a corpse, the body of a person who has died, and does not cleanse himself, defiles the L<small>ORD</small>’s Tabernacle; that person shall be cut off from Israel. Since the water of lustration was not dashed on him, he remains unclean; his uncleanness is still upon him.",
+                "This is the ritual: When a person dies in a tent, whoever enters the tent and whoever is in the tent shall be unclean seven days;",
+                "and every open vessel, with no lid fastened down, shall be unclean.",
+                "And in the open, anyone who touches a person who was killed or who died naturally, or human bone, or a grave, shall be unclean seven days.",
+                "Some of the ashes from the fire of cleansing shall be taken for the unclean person, and fresh water shall be added to them in a vessel.",
+                "A person who is clean shall take hyssop, dip it in the water, and sprinkle on the tent and on all the vessels and people who were there, or on him who touched the bones or the person who was killed or died naturally or the grave.",
+                "The clean person shall sprinkle it upon the unclean person on the third day and on the seventh day, thus cleansing him by the seventh day. He shall then wash his clothes and bathe in water, and at nightfall he shall be clean.",
+                "If anyone who has become unclean fails to cleanse himself, that person shall be cut off from the congregation, for he has defiled the L<small>ORD</small>’s sanctuary. The water of lustration was not dashed on him: he is unclean.",
+                "That shall be for them a law for all time. Further, he who sprinkled the water of lustration shall wash his clothes; and whoever touches the water of lustration shall be unclean until evening.",
+                "Whatever that unclean person touches shall be unclean; and the person who touches him shall be unclean until evening."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Numbers 19:1",
+                "Numbers 19:2",
+                "Numbers 19:3",
+                "Numbers 19:4",
+                "Numbers 19:5",
+                "Numbers 19:6",
+                "Numbers 19:7",
+                "Numbers 19:8",
+                "Numbers 19:9",
+                "Numbers 19:10",
+                "Numbers 19:11",
+                "Numbers 19:12",
+                "Numbers 19:13",
+                "Numbers 19:14",
+                "Numbers 19:15",
+                "Numbers 19:16",
+                "Numbers 19:17",
+                "Numbers 19:18",
+                "Numbers 19:19",
+                "Numbers 19:20",
+                "Numbers 19:21"
+              ],
+              "he": [
+                "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+                "זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לֵאמֹ֑ר דַּבֵּ֣ר <b>׀</b> אֶל־בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֣וּ אֵלֶ֩יךָ֩ פָרָ֨ה אֲדֻמָּ֜ה תְּמִימָ֗ה אֲשֶׁ֤ר אֵֽין־בָּהּ֙ מ֔וּם אֲשֶׁ֛ר לֹא־עָלָ֥ה עָלֶ֖יהָ עֹֽל׃",
+                "וּנְתַתֶּ֣ם אֹתָ֔הּ אֶל־אֶלְעָזָ֖ר הַכֹּהֵ֑ן וְהוֹצִ֤יא אֹתָהּ֙ אֶל־מִח֣וּץ לַֽמַּחֲנֶ֔ה וְשָׁחַ֥ט אֹתָ֖הּ לְפָנָֽיו׃",
+                "וְלָקַ֞ח אֶלְעָזָ֧ר הַכֹּהֵ֛ן מִדָּמָ֖הּ בְּאֶצְבָּע֑וֹ וְהִזָּ֞ה אֶל־נֹ֨כַח פְּנֵ֧י אֹֽהֶל־מוֹעֵ֛ד מִדָּמָ֖הּ שֶׁ֥בַע פְּעָמִֽים׃",
+                "וְשָׂרַ֥ף אֶת־הַפָּרָ֖ה לְעֵינָ֑יו אֶת־עֹרָ֤הּ וְאֶת־בְּשָׂרָהּ֙ וְאֶת־דָּמָ֔הּ עַל־פִּרְשָׁ֖הּ יִשְׂרֹֽף׃",
+                "וְלָקַ֣ח הַכֹּהֵ֗ן עֵ֥ץ אֶ֛רֶז וְאֵז֖וֹב וּשְׁנִ֣י תוֹלָ֑עַת וְהִשְׁלִ֕יךְ אֶל־תּ֖וֹךְ שְׂרֵפַ֥ת הַפָּרָֽה׃",
+                "וְכִבֶּ֨ס בְּגָדָ֜יו הַכֹּהֵ֗ן וְרָחַ֤ץ בְּשָׂרוֹ֙ בַּמַּ֔יִם וְאַחַ֖ר יָבֹ֣א אֶל־הַֽמַּחֲנֶ֑ה וְטָמֵ֥א הַכֹּהֵ֖ן עַד־הָעָֽרֶב׃",
+                "וְהַשֹּׂרֵ֣ף אֹתָ֔הּ יְכַבֵּ֤ס בְּגָדָיו֙ בַּמַּ֔יִם וְרָחַ֥ץ בְּשָׂר֖וֹ בַּמָּ֑יִם וְטָמֵ֖א עַד־הָעָֽרֶב׃",
+                "וְאָסַ֣ף <b>׀</b> אִ֣ישׁ טָה֗וֹר אֵ֚ת אֵ֣פֶר הַפָּרָ֔ה וְהִנִּ֛יחַ מִח֥וּץ לַֽמַּחֲנֶ֖ה בְּמָק֣וֹם טָה֑וֹר וְ֠הָיְתָ֠ה לַעֲדַ֨ת בְּנֵֽי־יִשְׂרָאֵ֧ל לְמִשְׁמֶ֛רֶת לְמֵ֥י נִדָּ֖ה חַטָּ֥את הִֽוא׃",
+                "וְ֠כִבֶּ֠ס הָאֹסֵ֨ף אֶת־אֵ֤פֶר הַפָּרָה֙ אֶת־בְּגָדָ֔יו וְטָמֵ֖א עַד־הָעָ֑רֶב וְֽהָיְתָ֞ה לִבְנֵ֣י יִשְׂרָאֵ֗ל וְלַגֵּ֛ר הַגָּ֥ר בְּתוֹכָ֖ם לְחֻקַּ֥ת עוֹלָֽם׃",
+                "הַנֹּגֵ֥עַ בְּמֵ֖ת לְכׇל־נֶ֣פֶשׁ אָדָ֑ם וְטָמֵ֖א שִׁבְעַ֥ת יָמִֽים׃",
+                "ה֣וּא יִתְחַטָּא־ב֞וֹ בַּיּ֧וֹם הַשְּׁלִישִׁ֛י וּבַיּ֥וֹם הַשְּׁבִיעִ֖י יִטְהָ֑ר וְאִם־לֹ֨א יִתְחַטָּ֜א בַּיּ֧וֹם הַשְּׁלִישִׁ֛י וּבַיּ֥וֹם הַשְּׁבִיעִ֖י לֹ֥א יִטְהָֽר׃",
+                "כׇּֽל־הַנֹּגֵ֡עַ בְּמֵ֣ת בְּנֶ֩פֶשׁ֩ הָאָדָ֨ם אֲשֶׁר־יָמ֜וּת וְלֹ֣א יִתְחַטָּ֗א אֶת־מִשְׁכַּ֤ן יְהֹוָה֙ טִמֵּ֔א וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִיִּשְׂרָאֵ֑ל כִּי֩ מֵ֨י נִדָּ֜ה לֹא־זֹרַ֤ק עָלָיו֙ טָמֵ֣א יִהְיֶ֔ה ע֖וֹד טֻמְאָת֥וֹ בֽוֹ׃",
+                "זֹ֚את הַתּוֹרָ֔ה אָדָ֖ם כִּֽי־יָמ֣וּת בְּאֹ֑הֶל כׇּל־הַבָּ֤א אֶל־הָאֹ֙הֶל֙ וְכׇל־אֲשֶׁ֣ר בָּאֹ֔הֶל יִטְמָ֖א שִׁבְעַ֥ת יָמִֽים׃",
+                "וְכֹל֙ כְּלִ֣י פָת֔וּחַ אֲשֶׁ֛ר אֵין־צָמִ֥יד פָּתִ֖יל עָלָ֑יו טָמֵ֖א הֽוּא׃",
+                "וְכֹ֨ל אֲשֶׁר־יִגַּ֜ע עַל־פְּנֵ֣י הַשָּׂדֶ֗ה בַּֽחֲלַל־חֶ֙רֶב֙ א֣וֹ בְמֵ֔ת אֽוֹ־בְעֶ֥צֶם אָדָ֖ם א֣וֹ בְקָ֑בֶר יִטְמָ֖א שִׁבְעַ֥ת יָמִֽים׃",
+                "וְלָֽקְחוּ֙ לַטָּמֵ֔א מֵעֲפַ֖ר שְׂרֵפַ֣ת הַֽחַטָּ֑את וְנָתַ֥ן עָלָ֛יו מַ֥יִם חַיִּ֖ים אֶל־כֶּֽלִי׃",
+                "וְלָקַ֨ח אֵז֜וֹב וְטָבַ֣ל בַּמַּ֘יִם֮ אִ֣ישׁ טָהוֹר֒ וְהִזָּ֤ה עַל־הָאֹ֙הֶל֙ וְעַל־כׇּל־הַכֵּלִ֔ים וְעַל־הַנְּפָשׁ֖וֹת אֲשֶׁ֣ר הָֽיוּ־שָׁ֑ם וְעַל־הַנֹּגֵ֗עַ בַּעֶ֙צֶם֙ א֣וֹ בֶֽחָלָ֔ל א֥וֹ בַמֵּ֖ת א֥וֹ בַקָּֽבֶר׃",
+                "וְהִזָּ֤ה הַטָּהֹר֙ עַל־הַטָּמֵ֔א בַּיּ֥וֹם הַשְּׁלִישִׁ֖י וּבַיּ֣וֹם הַשְּׁבִיעִ֑י וְחִטְּאוֹ֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י וְכִבֶּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָהֵ֥ר בָּעָֽרֶב׃",
+                "וְאִ֤ישׁ אֲשֶׁר־יִטְמָא֙ וְלֹ֣א יִתְחַטָּ֔א וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִתּ֣וֹךְ הַקָּהָ֑ל כִּי֩ אֶת־מִקְדַּ֨שׁ יְהֹוָ֜ה טִמֵּ֗א מֵ֥י נִדָּ֛ה לֹא־זֹרַ֥ק עָלָ֖יו טָמֵ֥א הֽוּא׃",
+                "וְהָיְתָ֥ה לָהֶ֖ם לְחֻקַּ֣ת עוֹלָ֑ם וּמַזֵּ֤ה מֵֽי־הַנִּדָּה֙ יְכַבֵּ֣ס בְּגָדָ֔יו וְהַנֹּגֵ֙עַ֙ בְּמֵ֣י הַנִּדָּ֔ה יִטְמָ֖א עַד־הָעָֽרֶב׃",
+                "וְכֹ֛ל אֲשֶׁר־יִגַּע־בּ֥וֹ הַטָּמֵ֖א יִטְמָ֑א וְהַנֶּ֥פֶשׁ הַנֹּגַ֖עַת תִּטְמָ֥א עַד־הָעָֽרֶב׃ <span class=\"mam-spi-pe\">{פ}</span><br>"
+              ],
+              "link": "/Numbers/19",
+              "ref": "Numbers 19",
+              "sourceHeRef": "במדבר י״ט",
+              "sourceRef": "Numbers 19"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> That which is <b>fit in</b> a red <b>heifer</b> is <b>unfit in a heifer</b> whose neck is broken; that which is <b>fit in a heifer</b> whose neck is broken is <b>unfit in</b> a red <b>heifer.</b>",
+      "he": "<big><strong>מתני׳</strong></big> כשר בפרה פסול בעגלה כשר בעגלה פסול בפרה:",
+      "ref": "Chullin 23b:11",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna teaches: In the case of <b>a definite guilt offering,</b> that is <b>not so,</b> and likewise in the case of a heifer whose neck is broken that is not so. If the identity of the murderer is discovered before the heifer’s neck was broken, it shall go out and graze among the flock as a non-sacred animal. But if the identity of the murderer was discovered after the heifer’s neck was broken, it shall be buried in its place. It <b>was stated</b> that there is a related dispute between <i>amora’im</i>: <b>From when</b> is it <b>prohibited</b> to derive benefit from <b>a heifer whose neck is broken? Rav Hamnuna says:</b> The prohibition takes effect <b>from</b> when the animal is still <b>alive. Rava says:</b> The prohibition goes into effect <b>after</b> the <b>breaking of the neck</b> of the animal.",
+                  "The Gemara raises a difficulty: <b>Granted, according to Rava</b> the prohibition takes effect <b>from the moment that an action,</b> i.e., breaking of the neck, <b>was performed on</b> the heifer. <b>But according to Rav Hamnuna, from when</b> exactly does the prohibition take effect?"
+                ],
+                [
+                  "<b>Rabbi Yannai says: I heard</b> an answer with regard to the <b>boundary,</b> i.e., the stage, beyond which <b>it</b> is prohibited, <b>but I have forgotten</b> what it is; <b>and</b> the members of the <b>group</b> of Sages <b>were inclined to say</b> that <b>its descent to</b> the <b>rough,</b> dried-up <b>stream,</b> where its neck is broken, is the action that <b>renders it prohibited.</b>",
+                  "<b>Rav Hamnuna said: From where do I say</b> that the prohibition takes effect when the animal is alive? I say it from that <b>which we learned</b> in a mishna (<i>Ḥullin</i> 81b): With regard to one <b>who slaughters the</b> red <b>heifer of purification, or an ox that</b> was sentenced to be <b>stoned, or a heifer whose neck is broken,</b> all of which are animals from which deriving benefit is prohibited, <b>Rabbi Shimon exempts</b> one who slaughters them from receiving lashes for violating the prohibition of the slaughter of a mother and its offspring, if the mother was slaughtered on that same day; <b>and the Rabbis deem</b> him <b>liable.</b>",
+                  "Rav Hamnuna explains his proof: <b>Granted, according to my</b> opinion, <b>that I say</b> the prohibition takes effect <b>from</b> the time when the animal is <b>alive, Rabbi Shimon and the Rabbis disagree with regard to this</b> matter, as <b>Rabbi Shimon holds: Slaughter that does not</b> render the animal <b>fit</b> for consumption <b>is not considered slaughter.</b> The slaughter of the heifer does not render it fit for consumption, as it was already prohibited to derive benefit from the animal while it is alive. Therefore, he does not violate the prohibition against slaughtering a mother and its offspring.",
+                  "Rav Hamnuna continues: <b>And the Rabbis say: Slaughter that does not</b> render the animal <b>fit</b> for consumption <b>is considered slaughter,</b> and therefore he is liable for the slaughter of a mother and its offspring. <b>But if you say</b> that the prohibition does not take effect until <b>after the breaking of the neck</b> of the heifer, <b>why does Rabbi Shimon exempt</b> him; <b>it is a slaughter that</b> renders the animal <b>fit</b> for consumption?",
+                  "<b>And if you would say</b> the reason is that <b>Rabbi Shimon holds</b> that one who performs the breaking of the neck of the <b>heifer by slaughter</b> has performed the mitzva in <b>a fit</b> manner, and consequently that slaughter rendered the heifer prohibited with regard to deriving benefit from it and it is therefore unfit for consumption, that suggestion cannot be correct. <b>Didn’t we learn</b> in a mishna (<i>Ḥullin</i> 23b): That which is <b>fit in</b> a red <b>heifer</b> is <b>unfit in a heifer</b> whose neck is broken; that which is <b>fit in a heifer</b> whose neck is broken is <b>unfit in</b> a red <b>heifer.</b> How so? With regard to the red <b>heifer,</b> it is <b>fit with slaughter;</b> it is <b>unfit with breaking the neck.</b> With regard to the <b>heifer</b> whose neck is to be broken, it is <b>fit with breaking the neck;</b> it is <b>unfit with slaughter.</b>",
+                  "Rava, who holds that the prohibition takes effect only from when the heifer’s neck is broken, <b>was silent,</b> as he had no immediate answer. <b>After</b> Rav Hamnuna <b>left</b> the study hall, Rava <b>said: What is the reason I did not say to him that Rabbi Shimon</b> disagrees with the ruling of that mishna and <b>holds</b> that a heifer whose neck is to be broken is <b>fit</b> even if it is killed <b>by slaughtering?</b>",
+                  "The Gemara notes: <b>But</b> if Rava had given that answer, <b>Rav Hamnuna</b> could have <b>said to you</b> in response to that claim: The mishna would <b>not have left out</b> the opinion of <b>the <i>tanna</i> who teaches us</b> that <b>a heifer</b> whose neck is to be broken is <b>fit</b> if it is killed <b>by slaughtering.</b> In other words, there should be some source for this opinion, and in the absence of a source, there is no basis <b>for saying</b> that this <b>is</b> the opinion of <b>Rabbi Shimon.</b>",
+                  "<b>Rava said: From where do I say</b> that the prohibition takes effect when the animal’s neck is broken? I say it <b>from that</b> which <b>we learned</b> in the mishna: In the case of <b>a heifer whose neck is broken,</b> that is <b>not so;</b> if the identity of the murderer is discovered <b>before</b> the heifer’s <b>neck was broken, it shall go out and graze among the flock,</b> as it is not consecrated, like all other animals. <b>And if you say</b> that the prohibition takes effect <b>from</b> the time when the animal is <b>alive, why</b> does <b>it go out and graze among the flock? Wasn’t</b> the animal <b>prohibited</b> already <b>from</b> when it was <b>alive?</b>",
+                  "The Gemara rejects this proof: One should <b>teach</b> the mishna as follows: If the identity of the murderer is discovered <b>before</b> the heifer <b>was fit for having</b> its <b>neck broken,</b> i.e., before it descended to a rough, dried-up stream, it shall go out and graze among the flock, but after that time it is prohibited to derive benefit from the animal. Rava raises a further difficulty: <b>Say the latter clause</b> of the mishna: But if the identity of the murderer was discovered <b>after</b> the heifer’s <b>neck was broken, it shall be buried in its place.</b> This indicates that the prohibition takes effect only after the heifer’s neck is broken. The Gemara rejects this proof in a similar manner: <b>Teach</b> that the mishna says: If the identity of the murderer was discovered <b>after</b> the heifer <b>was fit for having</b> its <b>neck broken</b> it shall be buried.",
+                  "Rava continues to ask: <b>If so, say the latter clause</b> of the mishna: The reason for this <i>halakha</i> is <b>that from the outset,</b> the heifer whose neck is broken <b>comes</b> to atone <b>for</b> a situation of <b>uncertainty.</b> If its neck was broken before the identity of the murderer was revealed, its mitzva was fulfilled, as <b>it atoned for its uncertainty and</b> that uncertainty <b>is gone. And if</b> the mishna is discussing a case <b>where</b> the animal is <b>alive,</b> the heifer <b>has still not atoned</b> for <b>its uncertainty.</b> Rather, it is clear from the last clause of the mishna that the prohibition takes effect when the heifer’s neck is broken.",
+                  "The Gemara explains: Although it is evident that the mishna rules that the prohibition takes effect when the heifer’s neck is broken, this matter <b>is</b> a dispute between <b><i>tanna’im</i>, as it is taught</b> in a <i>baraita</i> in accordance with the opinion of Rav Hamnuna: It <b>is stated</b> in the Torah that there are offerings that <b>enable</b> one to partake of sacrificial foods, e.g., the guilt offering of a leper, <b>and</b> there are offerings that <b>atone,</b> e.g., a sin offering or guilt offering, all of which are brought <b>inside</b> the Temple. <b>And</b> it <b>is</b> also <b>stated</b> in the Torah that there are offerings that <b>enable</b> one to partake of sacrificial foods, e.g., the birds of a leper’s purification ritual, <b>and</b> offerings that <b>atone,</b> e.g., the heifer whose neck is broken, that are brought <b>outside</b> the Temple.",
+                  "The <i>baraita</i> continues: Therefore, the offerings brought outside the Temple are compared to those offered inside: <b>Just as</b> with regard to the offerings that <b>enable or atone which are stated</b> in the Torah that are sacrificed <b>inside</b> the Temple, the Torah <b>made</b> the offering that <b>enables like</b> the offering that <b>atones,</b> as even the former has portions of it that are burned on the altar, <b>so too,</b> with regard to offerings that <b>enable or atone which are stated</b> in the Torah that are sacrificed <b>outside</b> the Temple, the Torah <b>made</b> the offering that <b>enables,</b> e.g., the birds of a leper, <b>like</b> the offering that <b>atones,</b> e.g., the heifer whose neck is broken, in that one is prohibited from deriving benefit from either while they are still alive. According to this <i>baraita</i>, the heifer whose neck is broken is prohibited while it is still alive."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Keritot 24b:17",
+                "Keritot 24b:18",
+                "Keritot 25a:1",
+                "Keritot 25a:2",
+                "Keritot 25a:3",
+                "Keritot 25a:4",
+                "Keritot 25a:5",
+                "Keritot 25a:6",
+                "Keritot 25a:7",
+                "Keritot 25a:8",
+                "Keritot 25a:9",
+                "Keritot 25a:10",
+                "Keritot 25a:11",
+                "Keritot 25a:12"
+              ],
+              "he": [
+                [
+                  "אָשָׁם וַדַּאי אֵינוֹ כֵּן כּוּ׳. אִיתְּמַר: עֶגְלָה עֲרוּפָה אֵימָתַי נֶאֱסֶרֶת? רַב הַמְנוּנָא אָמַר: מֵחַיִּים, רָבָא אָמַר: לְאַחַר עֲרִיפָה.",
+                  "בִּשְׁלָמָא לְרָבָא – מֵעִידָּנָא דְּאִיתְעֲבִיד בַּהּ מַעֲשֶׂה, אֶלָּא לְרַב הַמְנוּנָא, מֵאֵימָתַי?"
+                ],
+                [
+                  "אָמַר רַבִּי יַנַּאי: גְּבוּל שָׁמַעְתִּי בָּהּ וְשָׁכַחְתִּי, וְנָסְבִין חַבְרַיָּיא לְמֵימַר: יְרִידָתָהּ לְנַחַל אֵיתָן אוֹסַרְתָּהּ.",
+                  "אָמַר רַב הַמְנוּנָא: מְנָא אָמֵינָא לַהּ? דִּתְנַן: הַשּׁוֹחֵט פָּרַת חַטָּאת, וְשׁוֹר הַנִּסְקָל, וְעֶגְלָה עֲרוּפָה – רַבִּי שִׁמְעוֹן פּוֹטֵר, וַחֲכָמִים מְחַיְּיבִין.",
+                  "בִּשְׁלָמָא לְדִידִי, דְּאָמֵינָא מֵחַיִּים, בְּהָא פְּלִיגִי רַבִּי שִׁמְעוֹן וְרַבָּנַן, דְּרַבִּי שִׁמְעוֹן סָבַר: שְׁחִיטָה שֶׁאֵינָהּ רְאוּיָה – לֹא שְׁמָהּ שְׁחִיטָה.",
+                  "וְרַבָּנַן אָמְרִי: שְׁחִיטָה שֶׁאֵינָהּ רְאוּיָה – שְׁמָהּ שְׁחִיטָה. אֶלָּא אִי אָמְרַתְּ לְאַחַר עֲרִיפָה, אַמַּאי פָּטַר רַבִּי שִׁמְעוֹן? שְׁחִיטָה רְאוּיָה הִיא!",
+                  "וְכִי תֵּימָא: סָבַר רַבִּי שִׁמְעוֹן עֶגְלָה בִּשְׁחִיטָה כְּשֵׁרָה, וְהָתְנַן: כָּשֵׁר בַּפָּרָה פָּסוּל – בְּעֶגְלָה עֲרוּפָה, פָּסוּל בַּפָּרָה – כָּשֵׁר בְּעֶגְלָה עֲרוּפָה. פָּרָה, בִּשְׁחִיטָה – כְּשֵׁרָה, בַּעֲרִיפָה – פְּסוּלָה, עֶגְלָה, בַּעֲרִיפָה – כְּשֵׁרָה, בִּשְׁחִיטָה – פְּסוּלָה!",
+                  "אִישְׁתִּיק. לְבָתַר דִּנְפַק, אֲמַר: מַאי טַעְמָא לָא אָמֵינָא לֵיהּ דְּרַבִּי שִׁמְעוֹן סָבַר: עֶגְלָה בִּשְׁחִיטָה כְּשֵׁירָה!",
+                  "וְרַב הַמְנוּנָא אָמַר לָךְ: לָא נִשְׁתְּמִיט תַּנָּא דְּנַשְׁמְעִינַן עֶגְלָה בִּשְׁחִיטָה כְּשֵׁרָה, דְּתֵימָא רַבִּי שִׁמְעוֹן הִיא.",
+                  "אָמַר רָבָא: מְנָא אָמֵינָא לַהּ? מִדִּתְנַן: עֶגְלָה עֲרוּפָה אֵינָהּ כֵּן, עַד שֶׁלֹּא נֶעֶרְפָה – תֵּצֵא וְתִרְעֶה בָּעֵדֶר. וְאִי אָמְרַתְּ מֵחַיִּים, אַמַּאי תֵּצֵא וְתִרְעֶה בָּעֵדֶר? הָא אִיתַּסְרָא לַהּ מֵחַיִּים!",
+                  "תְּנִי: עַד שֶׁלֹּא נִרְאֵית לַעֲרִיפָה. אֵימָא סֵיפָא: מִשֶּׁנֶּעֶרְפָה – תִּקָּבֵר בִּמְקוֹמָהּ! תְּנִי: מִשֶּׁנִּרְאֵית לַעֲרִיפָה.",
+                  "אִם כֵּן, אֵימָא סֵיפָא: שֶׁעַל הַסָּפֵק בָּאָה מִתְּחִלָּה, כִּיפְּרָה סְפֵיקָהּ וְהָלְכָה לָהּ. וְאִי מֵחַיִּים, עֲדַיִין לֹא כִּיפְּרָה סְפֵיקָהּ!",
+                  "תַּנָּאֵי הִיא, דְּתַנְיָא: נֶאֱמַר מַכְשִׁיר וּמְכַפֵּר בִּפְנִים, וְנֶאֱמַר מַכְשִׁיר וּמְכַפֵּר בַּחוּץ.",
+                  "מָה מַכְשִׁיר וּמְכַפֵּר הָאָמוּר בִּפְנִים, עָשָׂה בּוֹ מַכְשִׁיר כִּמְכַפֵּר – אַף מַכְשִׁיר [וּמְכַפֵּר] הָאָמוּר בַּחוּץ, עָשָׂה מַכְשִׁיר כִּמְכַפֵּר."
+                ]
+              ],
+              "link": "/Keritot/25a",
+              "originalRefsBeforeRewriting": [
+                "Keritot 25a:5"
+              ],
+              "ref": "Keritot 24b:17-25a:12",
+              "sourceHeRef": "כריתות כ״ה א",
+              "sourceRef": "Keritot 25a"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": [
+                "It is written with regard to bird offerings: “He shall bring his offering of doves, or of young pigeons” (Leviticus 1:14). The age that is <b>fit</b> for sacrifice <b>in doves,</b> mature birds, is <b>unfit</b> for sacrifice <b>in pigeons,</b> immature birds;the age that is <b>fit</b> for sacrifice <b>in pigeons</b> is <b>unfit</b> for sacrifice <b>in doves.</b> At the intermediate stage of <b>the beginning of the yellowing</b> of its plumage (see 22b), a bird <b>is unfit</b> both <b>as this,</b> a pigeon, <b>and as that,</b> a dove, since it is no longer a fledgling but is not yet a mature bird.",
+                "That which is <b>fit in</b> a red <b>heifer</b> is <b>unfit in a heifer</b> whose neck is broken; that which is <b>fit in a heifer</b> whose neck is broken is <b>unfit in</b> a red <b>heifer.</b> There is an element with which <b>priests</b> remain <b>fit</b> and <b>Levites are unfit,</b> and there is also an element with which <b>Levites</b> remain <b>fit</b> and <b>priests are unfit.</b> That which is <b>ritually pure in an earthenware vessel</b> is <b>ritually impure in all the</b> other types of <b>vessels;</b> that which is <b>ritually pure in all the</b> other types of <b>vessels</b> is <b>ritually impure in an earthenware vessel.</b> That which is <b>ritually pure in wooden vessels</b> is <b>ritually impure in metal vessels;</b> that which is <b>ritually pure in metal vessels</b> is <b>ritually impure in wooden vessels.</b> With regard to the obligation of separating <i>teruma</i> and tithes, the stage of development <b>that</b> is <b>obligated in bitter almonds</b> is <b>exempt in sweet</b> almonds; and the stage in development <b>that</b> is <b>obligated in sweet</b> almonds is <b>exempt in bitter</b> almonds."
+              ],
+              "he": [
+                "כָּשֵׁר בַּתּוֹרִין, פָּסוּל בִּבְנֵי יוֹנָה. כָּשֵׁר בִּבְנֵי יוֹנָה, פָּסוּל בַּתּוֹרִין. תְּחִלַּת הַצִּהוּב, בָּזֶה וּבָזֶה פָּסוּל:",
+                "כָּשֵׁר בַּפָּרָה, פָּסוּל בָּעֶגְלָה. כָּשֵׁר בָּעֶגְלָה, פָּסוּל בַּפָּרָה. כָּשֵׁר בַּכֹּהֲנִים, פָּסוּל בַּלְוִיִּם. כָּשֵׁר בַּלְוִיִּם, פָּסוּל בַּכֹּהֲנִים. טָהוֹר בִּכְלֵי חֶרֶשׂ, טָמֵא בְכָל הַכֵּלִים. טָהוֹר בְּכָל הַכֵּלִים, טָמֵא בִכְלֵי חָרֶשׂ. טָהוֹר בִּכְלֵי עֵץ, טָמֵא בִכְלֵי מַתָּכוֹת. טָהוֹר בִּכְלֵי מַתָּכוֹת, טָמֵא בִכְלֵי עֵץ. הַחַיָּב בַּשְּׁקֵדִים הַמָּרִים, פָּטוּר בַּמְּתוּקִים. הַחַיָּב בַּמְּתוּקִים, פָּטוּר בַּמָּרִים:"
+              ],
+              "link": "/Mishnah Chullin/1",
+              "ref": "Mishnah Chullin 1:5-6",
+              "sourceHeRef": "משנה חולין א:ה-ו",
+              "sourceRef": "Mishnah Chullin 1:5-6"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If it was slaughtered to be used as an ordinary animal, it should be redeemed and it does not bring about atonement. If it was slaughtered on top of the arrangement of wood set up for burning it, it can never be redeemed.",
+              "he": "נִשְׁחֲטָה לְשֵׁם חֻלִּין תִּפָּדֶה וְאֵינָהּ מְכַפֶּרֶת. נִשְׁחֲטָה עַל גַּב מַעֲרַכְתָּהּ אֵין לָהּ פִּדְיוֹן עוֹלָמִית:",
+              "ref": "Mishneh Torah, Red Heifer 1:9",
+              "sourceHeRef": "הלכות פרה אדומה א:ט",
+              "sourceRef": "Red Heifer 1:9"
+            },
+            {
+              "en": "It should be decapitated there with a cleaver, from behind. The court of that city and all the elders of the city, even if they are 100 in number, must wash their hands at the place where the calf was decapitated.<br>There, in the midst of the river, the elders declare in the holy tongue Deuteronomy 21:7: \"Our hands did not shed this blood, nor did we see this with our eyes.\" Their intent is that the murdered person did not come into their city and they let him leave without giving him provisions for the way, nor did they see him go and they let him leave without accompaniment.<br>The priests then say in the Holy Tongue <i>Ibid.</i>:8: \"Atone for Your nation Israel....\" They depart. The Holy One, blessed be He, then forgives the shedding of the blood, as the above verse continues: \"And the blood will be atoned.\"",
+              "he": "וְעוֹרְפִין אוֹתָהּ שָׁם בְּקוֹפִיץ מֵאַחֲרֶיהָ. וּבֵית דִּין שֶׁל אוֹתָהּ הָעִיר עִם כָּל זְקֵנֶיהָ אֲפִלּוּ הֵם מֵאָה כֻּלָּן רוֹחֲצִין אֶת יְדֵיהֶן שָׁם בִּמְקוֹם עֲרִיפָתָהּ וְאוֹמְרִים שָׁם בְּתוֹךְ הַנַּחַל בִּלְשׁוֹן הַקֹּדֶשׁ <span class=\"hebrew-emphasis\">(דברים כא ז)</span> \"יָדֵינוּ לֹא שָׁפְכוּ אֶת הַדָּם הַזֶּה וְעֵינֵינוּ לֹא רָאוּ\". כְּלוֹמַר שֶׁלֹּא בָּא לְיָדֵינוּ הַנֶּהֱרָג הַזֶּה וּפְטָרְנוּהוּ בְּלֹא מְזוֹנוֹת וְלֹא רְאִינוּהוּ וּפְטָרְנוּהוּ בְּלֹא לְוָיָה. וְהַכֹּהֲנִים אוֹמְרִים בִּלְשׁוֹן הַקֹּדֶשׁ <span class=\"hebrew-emphasis\">(דברים כא ח)</span> \"כַּפֵּר לְעַמְּךָ יִשְׂרָאֵל\". וְהוֹלְכִין לָהֶן. וְהַקָּדוֹשׁ בָּרוּךְ הוּא מְכַפֵּר עַל הַדָּם שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(דברים כא ח)</span> \"וְנִכַּפֵּר לָהֶם הַדָּם\":",
+              "ref": "Mishneh Torah, Murderer and the Preservation of Life 9:3",
+              "sourceHeRef": "הלכות רוצח ושמירת נפש ט:ג",
+              "sourceRef": "Murderer and the Preservation of Life 9:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג גמרא</big> בפירוש משנתנו מביאים מה ש<b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> <b>פרה</b> אדומה — <b>בשחיטה כשרה, בעריפה פסולה; עגלה</b> — <b>בעריפה כשרה, בשחיטה פסולה. נמצאת</b> אומר: <b>כשר בפרה</b> — <b>פסול בעגלה, כשר בעגלה</b> — <b>פסול בפרה.</b>",
+              "ref": "Steinsaltz on Chullin 23b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:יב",
+              "sourceRef": "Steinsaltz on Chullin 23b:12"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b>The Sages taught</b> in a <i>baraita</i> in explanation of the mishna: With regard to the red <b>heifer, with slaughter</b> it is <b>fit; with breaking the neck</b> it is <b>unfit.</b> With regard to the <b>heifer</b> whose neck is broken, <b>with breaking the neck</b> it is <b>fit; with slaughter</b> it is <b>unfit. Consequently,</b> that which is <b>fit in</b> a red <b>heifer</b> is <b>unfit in a heifer</b> whose neck is broken; that which is <b>fit in a heifer</b> whose neck is broken is <b>unfit in</b> a red <b>heifer.</b>",
+      "he": "<big><strong>גמ׳</strong></big> תנו רבנן פרה בשחיטה כשרה בעריפה פסולה עגלה בעריפה כשרה בשחיטה פסולה נמצאת כשר בפרה פסול בעגלה כשר בעגלה פסול בפרה",
+      "ref": "Chullin 23b:12",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> ותהא פרה כו' כיון דאיכא למיעבד ק\"ו הכי ואיכא למיעבד ק\"ו איפכא כו' עכ\"ל ובהנך ק\"ו דתורים ובני יונים דלעיל לא קשיא להו הכי לשיטתם דהתם בלא ק\"ו נמי הוה תורים משמע בין גדולים בין קטנים וכה\"ג כתבו התוס' לקמן גבי אויר כלי חרס ע\"ש אבל בתוס' פ\"ב דזבחים הקשו כן גם אתורים ובני יונה וצ\"ל דהיינו לשיטת רש\"י דלעיל ודו\"ק:",
+              "ref": "Chidushei Halachot on Chullin 23b:1",
+              "sourceHeRef": "חדושי הלכות על חולין כ״ג ב:א",
+              "sourceRef": "Chidushei Halachot on Chullin 23b:1"
+            },
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> פרה שהיא כשרה בשחיטה אין ללמוד בענין זה מק\"ו שתהא פרה כשרה במליקה מק\"ו כו' עכ\"ל לכאורה מאי קושיא דאימא דתלמודא לית ליה הכא שום סברא לעשות ק\"ו א' יותר מהאחר בהני ק\"ו דפרה ועוף ולהכי כל חד וחד תיקום אדוכתיה אלא דהאמת קאמרי דליכא למילף הכי ק\"ו דפרה מעוף וק\"ל:",
+              "ref": "Chidushei Halachot on Chullin 23b:2",
+              "sourceHeRef": "חדושי הלכות על חולין כ״ג ב:ב",
+              "sourceRef": "Chidushei Halachot on Chullin 23b:2"
+            },
+            {
+              "en": "",
+              "he": "<b>בא\"ד</b> דלמאן דיליף רוב ב' מהלכה אין דנין כו' עכ\"ל ויש לדקדק דא\"כ היכא בעי תלמודא למילף בק\"ו להכשיר שחיטה בעגלה הא רוב שנים דגבי פרה הלכה היא ואין דנין כו' ויש ליישב דודאי עגלה דבהמה הוא כיון דגמרינן בק\"ו שהוכשרו בשחיטה אין דנין רוב שנים בק\"ו אלא אוקמא אדין שחיטה דבהמה דהוי רוב שנים אבל בעוף ליכא לאוקמא אדינא דאיכא למ\"ד דליכא כלל שחיטה בעוף מן התורה ולמ\"ד נמי דיש שחיטה לעוף מן התורה היינו בסימן אחד והשתא אי הוה גמרינן בק\"ו בעוף דקדשים להכשיר ביה שחיטה מפרה ע\"כ כדין פרה הוה גמרינן ליה ברוב שנים ואין דנין ק\"ו מהלכה ודו\"ק:",
+              "ref": "Chidushei Halachot on Chullin 23b:3",
+              "sourceHeRef": "חדושי הלכות על חולין כ״ג ב:ג",
+              "sourceRef": "Chidushei Halachot on Chullin 23b:3"
+            }
+          ]
+        },
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ד\"ה</b> פרה שהיא כשרה וכו' ול\"נ דכיון דאיכא מיעוטא בפרה וכו' כצ\"ל וגליון הוא ואינו מדברי התוס':",
+              "ref": "Maharam on Chullin 23b:5",
+              "sourceHeRef": "מהר\"ם על חולין כ״ג ב:ה",
+              "sourceRef": "Maharam on Chullin 23b:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומה עגלה שלא הוכשרה בשחיטה</strong> - כדיליף לקמן <span class=\"parenthesized\">(חולין דף כד.)</span>:",
+              "ref": "Rashi on Chullin 23b:13:1",
+              "sourceHeRef": "רש\"י על חולין כ״ג ב:יג:א",
+              "sourceRef": "Rashi on Chullin 23b:13:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים: <b>ותהא פרה כשרה בעריפה מקל וחומר, ומה עגלה שלא הוכשרה בשחיטה,</b> כפי שיילמד להלן (כד,א) — <b>הוכשרה בעריפה, פרה שהוכשרה בשחיטה,</b> שנאמר \"ושחט אותה\" (במדבר יט, ג) — <b>אינה דין שהוכשרה בעריפה?</b>",
+              "ref": "Steinsaltz on Chullin 23b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על חולין כ״ג ב:יג",
+              "sourceRef": "Steinsaltz on Chullin 23b:13"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יכול היה לשאול לא רק על פרה אדומה, אלא על כל בהמת חולין או קדשים, שבכולן קיים קל וחומר זה. אלא יש כאן השוואה של פרה ועגלה, שיש בהן צדדים משותפים, שהן משמשות לכפרה, ושתיהן מעין קדשים הנשחטים בחוץ, ועוד כמה צדדי דמיון, כגון שאסור שיעלה עליהן עול, ובכל אופן שונה דינם לענין הכשרתם למצוותם, בשחיטה או בעריפה (תוס').<br><br>ושאלו בתוס': והרי לעומת חומרה זו שיש בפרה — שהיא כשרה בשחיטה, יש חומרה בעגלה ערופה — שהיא מכפרת. וכן להיפך, יש בפרה חומרה יתירה על העגלה, שהיא מטהרת! והסבירו כי באמת אין כאן השוואה של פרה לעגלה, אלא של שחיטה לעריפה, כאילו נאמר כך: ומה במקום שאין כח בשחיטה להכשיר — עריפה מכשירה, מקום שהשחיטה מכשירה — אינו דין שעריפה תכשיר? ויש שיישב את שתי שאלות התוס' בכך שההשוואה כאן בין פרה לעגלה מבוססת על גזירה שווה שיש ביניהן: \"עול\" \"עול\" (תוס' הר\"ף).<br><br>אלא שמצד אחר שאלו בתוס': והרי במקרים מעין אלו, שיש בכל אחד מן הצדדים קולה וחומרה שאין בשני, אמרה הגמרא במקום אחר (זבחים יז,א) שיעמוד כל אחד במקומו! והסבירו כי שם מדובר בשתי אפשרויות הסותרות זו את זו, שהמסקנה של קל וחומר אחד סותרת את הקל וחומר השני. אבל כאן אין מדובר בקל וחומר ממש, אלא בכעין בנין אב (\"מה מצינו\") שעניינו שהדבר האמור בזה יהא גם באחר, ואלמלא מיעוט הכתובים, הרי גם אם היינו אומרים שפרה כשרה בעריפה — אין זה סותר את המסקנה שעגלה כשרה גם בשחיטה.",
+              "ref": "Steinsaltz comment #1 on Chullin 23b:13",
+              "sourceHeRef": "ותהא פרה כשרה בעריפה בקל וחומר וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ותהא פרה כשרה בעריפה מק\"ו</strong> - והוא הדין דה\"מ למפרך הכי אצל חולין וקדשים אבל נקט פרה ועגלה ששניהם ענין אחד דשניהם קדשים הנשחטים בחוץ ודמו אהדדי ליפסל בעול וכמה דברים וא\"ת למה לי הנך מיעוטי למעוטי פרה מעריפה ועגלה משחיטה נימא כיון דאיכא למעבד ק\"ו הכי ואיכא למעבד ק\"ו איפכא כדעביד בסמוך כל חד וחד תיקום אדוכתיה כדאמרינן בפ\"ב דזבחים <span class=\"parenthesized\">(דף יז:)</span> גבי ותותר אנינות אצל כהן הדיוט בקרבן צבור מק\"ו וי\"ל דהתם כל ק\"ו סותר את חבירו לגמרי שבתחלה אומר ותותר אנינות אצל כהן הדיוט בקרבן ציבור מק\"ו דכהן גדול שהותר אנינות אפילו בקרבן יחיד ואח\"כ עושה ק\"ו להפך דלא תותר אנינות אצל כהן גדול בקרבן יחיד מק\"ו וכן אחריני דהתם להכי קאמר כיון דאיכא למימר הכי ואיכא למימר הכי כל חד וחד תיקום אדוכתיה אבל הכא גבי פרה ועגלה שבא ליתן את האמור של זה בזה ולא הוי ק\"ו אלא כמו מה מצינו לא שייך למימר הכי דאי לאו מיעוט הייתי לומד זה מזה במה מצינו ואי הוה עביד ק\"ו לא תותר פרה בשחיטה אז הוי כההיא דזבחים וכן תהא אשה יוצאה בחליצה מק\"ו או יבמה בגט מק\"ו הוי כמו מה מצינו וא\"ת מה לעגלה שכן אינה מטהרת וכמה חומרות יש בזה מה שאין בזה וי\"ל דלא עביד ק\"ו מכח עגלה ופרה אלא מכח שחיטה ועריפה ומה שחיטה שאינה מכשרת בעגלה מכשרת בפרה כו' אבל קשה דא\"כ ק\"ו גמור הוא ולא מה מצינו דשחיטה מעריפה ליכא למילף במה מצינו אלא מק\"ו א\"כ נימא כל חד וחד תיקום בדוכתיה וי\"ל דבכל מקום דעבד ק\"ו הכי והכי כגון הכא ולקמן <span class=\"parenthesized\">(חולין ד' כה.)</span> גבי אויר כלי חרס וגבי כהנים ולוים ובפ\"ב דבבא קמא <span class=\"parenthesized\">(ד' כה:)</span> גבי ותהא שן ורגל חייבין ברה\"ר מק\"ו והדר קאמר לא תהא שן ורגל חייבין ברשות הניזק אלא חצי נזק צריך לומר דיש שום סברא או קולא או חומרא לעשות ק\"ו אחד יותר מאחר וכיון שהיינו עושין ק\"ו אחד אצטריך קרא למעוטי מעתה היינו עושין ק\"ו להפך:",
+              "ref": "Tosafot on Chullin 23b:13:1",
+              "sourceHeRef": "תוספות על חולין כ״ג ב:יג:א",
+              "sourceRef": "Tosafot on Chullin 23b:13:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פרה שהיא כשרה בשחיטה</strong> - אין ללמוד בענין זה מק\"ו שתהא פרה כשרה במליקה מק\"ו מעוף שלא הוכשר בשחיטה הוכשר במליקה דהא לקמן בריש השוחט <span class=\"parenthesized\">(חולין ד' כז:)</span> דרשינן ראשו של זה ממול עורף ולא ראשו של אחר ואין ללמוד בעוף שיוכשר בשחיטה מק\"ו דבהמה שלא הוכשר במליקה דלמאן דיליף רוב שנים מהלכה אין דנין ק\"ו ובנין אב מהלכה כדתנן בנזיר בפ' כהן גדול <span class=\"parenthesized\">(נזיר דף נו:)</span> ונ\"ל דכיון דאיכא מיעוטי בפרה ובעגלה לענין שחיטה ועריפה תו לא מצי למילף עוף מבהמה ובהמה מעוף לענין שחיטה ומליקה דאיכא למימר עריפה תוכיח שאינה כשרה בפרה וכשרה בעגלה ואפ\"ה אין שחיטה כשרה בה אף אני אביא מליקה וכן איפכא:",
+              "ref": "Tosafot on Chullin 23b:13:2",
+              "sourceHeRef": "תוספות על חולין כ״ג ב:יג:ב",
+              "sourceRef": "Tosafot on Chullin 23b:13:2"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And let</b> it be derived that the red <b>heifer</b> is <b>fit with breaking the neck by means of an <i>a fortiori</i></b> inference: <b>If a heifer</b> whose neck is broken, <b>which is not rendered fit with slaughter, is rendered fit with breaking the neck,</b> then with regard to a red <b>heifer, which is rendered fit with slaughter, isn’t it logical that it is rendered fit with breaking the neck?</b>",
+      "he": "ותהא פרה כשרה בעריפה מק\"ו ומה עגלה שלא הוכשרה בשחיטה הוכשרה בעריפה פרה שהוכשרה בשחיטה אינה דין שהוכשרה בעריפה",
+      "ref": "Chullin 23b:13"
+    }
+  ],
+  "title": "Chullin 23b",
+  "titleHebrew": "חולין כג,ב",
+  "topics": []
+}

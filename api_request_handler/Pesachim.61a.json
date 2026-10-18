@@ -1,0 +1,977 @@
+{
+  "id": "61a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וישנו לאחר מיתה</strong> - מת בנו מביא קרבן אביו ואם שחטו שלא לשמו לא עלה לשם חובה ואחריות הקרבן מוטל על נכסי המת וצריך להביא אחר וישנו בקרבן צבור כקרבן יחיד:",
+              "ref": "Rashi on Pesachim 61a:1:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:א:א",
+              "sourceRef": "Rashi on Pesachim 61a:1:1"
+            },
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ברש\"י</b> ד\"ה ואינו בד' עבודות וכו' והכי אמרינן התם אמר רב אשי ק\"ו ומה אם במקום שאמר הריני שוחט לשם פלוני כשר לזרוק דמו לשם פלוני פסול מקום כו' כצ\"ל:",
+                      "ref": "Maharam on Pesachim 61a:1",
+                      "sourceHeRef": "מהר\"ם על פסחים ס״א א:א",
+                      "sourceRef": "Maharam on Pesachim 61a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל בשינוי בעלים</strong> - מחשב בדבר אחר הוא ואינו בארבע עבודות בשאר זבחים דלאו פסח דלאו עיקרן לאכילה אתי אלא לכפרה לא שייך שינוי בעלים אלא בזריקה שאין לו בקרבן אלא כפרתו וכפרה ליתא אלא בזריקה וכי מרבינן שאר עבודות לפוסלה בשינוי בעלים בפ\"ק דזבחים לא מרבינן אלא שוחט להתכפר אחר בזריקת דמו או מוליך או מקבל לזרוק לשם אחר או זרק ממנו לשם אחר אבל שוחט לשם אחר שתהא השחיטה לבדה לשם אחרים אבל בשעת שחיטה אין דעתו על הזריקה אלא לבעליו כשר והכי אמרי' התם אמר רב אשי ק\"ו ומה אם במקום שאמר הריני שוחט לשם פלוני דכשר שחטו לזרוק לשם פלוני פסול מקום שאם אמר כו' ש\"מ מיהא דאין מחשבת שינוי בעלים בשאר עבודות אא\"כ מחשבין באחת מהן על מנת לזרוק אבל בשינוי קודש שחט שלא לשמו פסול דכתיב זבח שלמים זביחה לשם שלמים וכן בחטאת ושחט אותה לחטאת וכן פסח זבח פסח הוא ומיהו ודאי פסח שעיקרו לבעליו ליאכל בא שחטו שלא לשם בעליו להאכילו למנויין אחרים פסול כדקתני מתני' שחטו שלא למנויו פסול וע\"כ בחישב על השחיטה לחודא קאמר לא על מנת לזרוק מדאיפלגו בה אמוראי בגמרא שחטו למולין על מנת שיתכפרו בו ערלים מכלל דשחטו לערלים דמתניתין במחשב על השחיטה קאמר ושלא למנויו דומיא דלערלים דהא גבי הדדי קתני להו:",
+              "ref": "Rashi on Pesachim 61a:1:2",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:א:ב",
+              "sourceRef": "Rashi on Pesachim 61a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואינו לאחר מיתה</strong> - דאין שם בעליו עליו מאחר שמת ואם שינה שמו כשר:",
+              "ref": "Rashi on Pesachim 61a:1:3",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:א:ג",
+              "sourceRef": "Rashi on Pesachim 61a:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואינו בצבור</strong> - דלשם מי ישנה אותו שלא יהא בעליו אם לשם נכרים לא מיפסיל כדאמרי' התם ולקמן בשמעתין דאין שנוי בעלים פוסל אא\"כ שינהו למחויב כפרה כמותו דיליף מלכפר עליו עליו ולא על חבירו אלמא שינוי בעלים פסול בחבירו דומיא דידיה ומחויב כפרה כמותו ואי לא לא פסיל:",
+              "ref": "Rashi on Pesachim 61a:1:4",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:א:ד",
+              "sourceRef": "Rashi on Pesachim 61a:1:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וישנו לאחר מיתה</b> שאם הקדיש אדם קרבן ומת, מביא בנו את הקרבן במקומו, וקרבן זה יכול להיפסל על ידי מחשבה בשינוי קודש וצריך להביא קרבן אחר, וישנו פסול זה של שינוי קודש בקרבן <b>צבור</b> כמו בקרבן <b>יחיד. תאמר בשינוי בעלים</b> שאינו כן, ש<b>אין פסולו בגופו ואינו בארבע עבודות</b> אלא בשחיטה בלבד <b>ואינו לאחר מיתה</b> שהרי אין בעלים ממש לקרבן זה שהרי הוא מת ואם שינה שמו כשר, <b>ואינו בצבור כביחיד</b> שהרי לא שייך לשנות את שם בעליו שהוא הציבור לשם אחר.",
+              "ref": "Steinsaltz on Pesachim 61a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:א",
+              "sourceRef": "Steinsaltz on Pesachim 61a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Even though the priests perform many rites in all sacrifices, an offering can be disqualified only when the priest performs one of four specific rites with improper intent: Slaughtering the offering, receiving its blood in a consecrated vessel, carrying the blood to the altar, and sprinkling the blood on the altar.  Slaughter: The <i>halakhot</i> of slaughtering a sacrificial animal are similar to those of ordinary kosher slaughter, and this stage of the ritual need not be performed by a priest. Nevertheless it was common practice for priests to slaughter all sacrificial animals. Receiving its blood: This refers to the act of receiving the blood that spurts from the neck of a sacrificial animal when it is slaughtered. This blood is received in a bowl, one of the holy vessels used in the Temple. Receiving could be performed only by a priest. Carrying<i> </i>the blood to the altar: This term is specifically defined as the carrying of the blood of a sacrifice to the altar in a bowl, from the place where it was received after the animal’s slaughter. Some <i>tanna’im</i> did not think that an improperly performed act of carrying the blood to the altar could invalidate an offering, but the prevailing opinion is that if it were performed improperly it would indeed invalidate the offering. Sprinkling: This term refers to the presentation of sacrificial blood on the altar. The manner in which the blood was presented on the altar varied according to the nature of the particular offering. The presentation of blood on the altar was the essential element necessary for an offering to bring about atonement. Accordingly, as soon as the blood was presented as required on the altar, the person who brought the offering was granted atonement, even if the later sacrificial rites connected with the offering were not completed in the  required manner.",
+              "he": "דין זה שמביאים קרבן שהפריש המת, אינו קיים בכל הקרבנות כולם. שדבר זה נאמר רק בקרבנות נדבה, כגון קרבן עולה או שלמים, אבל לא בקרבן כפרה, כגון קרבן אשם או קרבן חטאת. כי אף שנכסי המת נשתעבדו להביא מהם קרבן — הריהו רק באופן שאפשר להקריב אותו קרבן עצמו בלא שיהא לו קשר מסוים לבעליו. ואילו קרבן העשוי לכפרה, אין לו מקום לאחר מיתה — שאין כפרה למתים. וקרבן כזה ירעה עד שיסתאב או ימות.",
+              "ref": "Steinsaltz comment #1 on Pesachim 61a:1",
+              "sourceHeRef": "אַרְבַּע עֲבוֹדוֹת",
+              "sourceRef": "Four rites"
+            },
+            {
+              "en": "The <i>halakha</i> that an offering consecrated by a person who subsequently passed away is sacrificed by the heirs applies only to voluntary offerings, such as burnt-offerings or peace-offerings, but not to atonement offerings, such as guilt-offerings or sin-offerings. Although the estate of the deceased must provide an animal if the deceased was obligated to bring an offering, this is applicable only if the offering may be brought when it is no longer connected to its original owner. Atonement offerings cannot be brought after death because the deceased can no longer achieve atonement. In this circumstance, the animal that was already consecrated must be left to graze until it develops a blemish and is slaughtered or until it dies.",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Pesachim 61a:1",
+              "sourceHeRef": "יֶשְׁנוֹ לְאַחַר מִיתָה",
+              "sourceRef": "It applies after death"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וישנו לאחר מיתה</strong> - ושינוי בעלים אינו לאחר מיתה שמא משום דכתיב לכפר עליו ולא על חבירו ומת לאו בר כפרה גמורה הוא אלא שנתחייב להביאו והך דשמעתין אתיא להדיא כמ\"ד שיעבודא דאוריי' וכרב אסי אמר רב בפ\"ק דקדושין <span class=\"parenthesized\">(ד' יג:)</span> דמוקי הא דתנן האשה שמתה יביאו יורשין עולתה אע\"פ שלא הפרישתה מחיים אבל לרב יהוד' אמר שמואל דאמר והוא שהפרישתה מחיים אבל לא הפרישתה לא משום דשיעבודא לאו דאורייתא לכאורה אינו נפקותא בין שינוי קודש לשינוי בעלים דלאחר מיתה כיון דבשינוי קודש [נמי] אין היורש חייב להפריש אחר תחתיו ומיהו י\"ל דנ\"מ אם הפרישו בעלים שתי עולות לאחריות שאם תפסל האחת יביא השניה ואם לאו תהא השניה חולין אי נמי שינוי קודש אסור לשנות אחר מיתה דאמר בריש זבחים <span class=\"parenthesized\">(ד' ב:)</span> ונדבה מי שרי לשנויי בה אבל שינוי בעלים ליכא אפי' איסור כיון דאינו לאחר מיתה:",
+              "ref": "Tosafot on Pesachim 61a:1:1",
+              "sourceHeRef": "תוספות על פסחים ס״א א:א:א",
+              "sourceRef": "Tosafot on Pesachim 61a:1:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> furthermore, the disqualification following from a change in sanctity <b>applies after death.</b> If one consecrates an offering and dies, his son must bring the offering in his place, and it can be invalidated through a change in sanctity. Moreover, <b>it applies to communal</b> offerings <b>as it does to</b> the offerings of <b>an individual.</b> However, <b>can you</b> necessarily <b>say</b> the same thing <b>with regard to a change in owner</b> that does not have these characteristics? <b>Its disqualification is not in</b> the offering <b>itself; and it does not</b> apply <b>to all four rites</b> but only to the sprinkling of the blood on the altar; <b>and it does not</b> apply <b>after death,</b> for after the owner has died there is no true owner of the offering, and therefore, if the priest intends to offer it for someone else the offering remains valid; <b>and it does not</b> apply <b>to communal</b> offerings <b>as it does to</b> the offerings of <b>an individual,</b> since it is not possible to have in mind a different owner, as it is owned by the whole community.",
+      "he": "וְיֶשְׁנוֹ לְאַחַר מִיתָה, וְיֶשְׁנוֹ בְּצִבּוּר כְּבַיָּחִיד. תֹּאמַר בְּשִׁינּוּי בְּעָלִים — דְּאֵין פְּסוּלוֹ בְּגוּפוֹ, וְאֵינוֹ בְּאַרְבַּע עֲבוֹדוֹת, וְאֵינוֹ לְאַחַר מִיתָה, וְאֵינוֹ בְּצִבּוּר כְּבַיָּחִיד.",
+      "ref": "Pesachim 61a:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואע\"ג דתרתי</strong> - מהנך פירכי:",
+              "ref": "Rashi on Pesachim 61a:2:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ב:א",
+              "sourceRef": "Rashi on Pesachim 61a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לאו דווקא</strong> - כלומר לאו פירכי נינהו תרתי מיהא דווקא ומפרש ואזיל הי תרתי לאו דווקא: פסול מחשבה לא מיקרי פסול הגוף:",
+              "ref": "Rashi on Pesachim 61a:2:2",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ב:ב",
+              "sourceRef": "Rashi on Pesachim 61a:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואף על גב דתרתי לאו דוקא</b> <span class=\"hebrew-emphasis\">[ואף על פי ששנים</span> מן ההבדלים <span class=\"hebrew-emphasis\">אינם מדויקים]</span> ואפשר לערער עליהם כאשר יבואר, <b>תרתי מיהא דוקא</b> <span class=\"hebrew-emphasis\">[שנים מכל מקום מדויקים].</span> ומסבירים את חוסר הדיוק: <b>דמאי שנא</b> <span class=\"hebrew-emphasis\">[שמה שונה]</span> <b>שינוי בעלים</b> שאמרנו <b>דלא הוי?</b> <span class=\"hebrew-emphasis\">[שאין]</span> <b>פסולו בגופו</b> משום ש<b>פסולו מחשבה בעלמא</b> <span class=\"hebrew-emphasis\">[בלבד]</span> <b>היא</b> ואין הפסול בגופו של הקרבן, ואם כן אפשר לומר כי <b>שינוי קודש נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>פסולו מחשבה בעלמא</b> <span class=\"hebrew-emphasis\">[בלבד]</span> היא ואין גופו של הקרבן נפסל, ואם כן אין זה הבדל אמיתי.",
+              "ref": "Steinsaltz on Pesachim 61a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:ב",
+              "sourceRef": "Steinsaltz on Pesachim 61a:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>And even though two</b> of these differences <b>are not</b> fully <b>accurate</b> and can be disputed, as will be explained, <b>two, at least, are accurate.</b> The Gemara explains the lack of accuracy: <b>For what is different about a change in owner</b> that defines <b>its disqualification</b> as <b>not being in</b> the offering <b>itself? Is it that its disqualification is merely</b> due to <b>thought?</b> If so, it is possible to say that <b>a change of sanctity is also merely a disqualification</b> due to <b>thought</b> and not in the offering itself, and therefore there is no real difference.",
+      "he": "וְאַף עַל גַּב דְּתַרְתֵּי לָאו דַּוְקָא, תַּרְתֵּי מִיהָא דַּוְקָא. דְּמַאי שְׁנָא שִׁינּוּי בְּעָלִים דְּלָא הָוֵי פְּסוּלוֹ בְּגוּפוֹ — דִּפְסוּלוֹ מַחְשָׁבָה בְּעָלְמָא הִיא. שִׁינּוּי קוֹדֶשׁ נָמֵי — פְּסוּלוֹ מַחְשָׁבָה בְּעָלְמָא הִיא.",
+      "ref": "Pesachim 61a:2"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>And Rava says:</b> With regard to <b>a burnt offering that is brought</b> by its owner’s heirs <b>after</b> his <b>death,</b> if one <b>slaughtered it with a deviation</b> from the type of <b>offering,</b> i.e., for the sake of another type of offering, it is <b>unfit,</b> i.e., it does not satisfy the owner’s obligation, and the heirs must therefore bring another offering. But if it was slaughtered <b>with a deviation</b> with regard to the <b>owner,</b> i.e., for the sake of another person, it is <b>fit, as</b> the offering <b>has no</b> legal <b>owner after</b> the owner’s <b>death.</b>",
+                "<b>And Rav Pineḥas, son of Rav Ami, says</b> that an offering <b>has an owner after</b> its owner’s <b>death,</b> specifically, the heir. <b>Rav Ashi said to Rav Pineḥas, son of Rav Ami: Is the Master saying</b> that an offering <b>actually has an owner after</b> its owner’s <b>death, and</b> that if it was slaughtered for the sake of the wrong owner, the heir <b>must bring another burnt offering,</b> contrary to the opinion of Rava? <b>Or perhaps</b> the Master is merely saying <b>that if</b> the heir <b>has several</b> violations of <b>positive mitzvot,</b> the offering <b>atones</b> for them, but still if it was slaughtered for the sake of the wrong owner, the heir is not required to bring another offering.",
+                "Rav Pineḥas <b>said to him: I am saying</b> that the heir is <b>actually</b> the owner, and if the offering was slaughtered for someone else, he must bring another offering."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Zevachim 7b:4",
+                "Zevachim 7b:5",
+                "Zevachim 7b:6"
+              ],
+              "he": [
+                "ואמר רבא עולה הבאה לאחר מיתה שחטה בשינוי קודש פסולה בשינוי בעלים כשרה דאין בעלים לאחר מיתה",
+                "ורב פנחס בריה דרב אמי אמר יש בעלים לאחר מיתה אמר ליה רב אשי לרב פנחס בריה דרב אמי דוקא קאמר מר יש בעלים לאחר מיתה ובעי לאיתויי עולה אחריתי או דלמא דאי איכא כמה עשה גביה מכפרא",
+                "א\"ל דוקא קאמינא"
+              ],
+              "link": "/Zevachim/7b",
+              "originalRefsBeforeRewriting": [
+                "Zevachim 7b:5"
+              ],
+              "ref": "Zevachim 7b:4-6",
+              "sourceHeRef": "זבחים ז׳ ב",
+              "sourceRef": "Zevachim 7b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולרב פנחס</strong> - בפ\"ק דזבחים אמרה:",
+              "ref": "Rashi on Pesachim 61a:3:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ג:א",
+              "sourceRef": "Rashi on Pesachim 61a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יש בעלים לאחר מיתה</strong> - ואם שחטו לשם בעלים אחרים צריך היורש להביא אחר:",
+              "ref": "Rashi on Pesachim 61a:3:2",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ג:ב",
+              "sourceRef": "Rashi on Pesachim 61a:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ותו</b> <span class=\"hebrew-emphasis\">[ועוד]:</span> <b>הא</b> <span class=\"hebrew-emphasis\">[זה]</span> ש<b>אמר</b> ש<b>שינוי בעלים אינו לאחר מיתה</b> אולם לשיטת <b>רב פנחס בריה</b> <span class=\"hebrew-emphasis\">[בנו]</span> של <b>רב אמי</b> ש<b>אמר</b> (זבחים ד,ב. וזבחים ז,ב): <b>יש שינוי בעלים לאחר מיתה</b> ואם נשתנה שמו של הבעלים צריך בנו להביא קרבן אחר לשמו, <b>מאי איכא למימר</b> <span class=\"hebrew-emphasis\">[מה יש לומר]?</span> ולשיטה זו אין הבדל אף בנקודה זו. אולם <b>תרתי מיהת דוקא נינהו</b> <span class=\"hebrew-emphasis\">[שנים</span> מן ההבדלים <span class=\"hebrew-emphasis\">בכל אופן מדוייקים הם].</span>",
+              "ref": "Steinsaltz on Pesachim 61a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:ג",
+              "sourceRef": "Steinsaltz on Pesachim 61a:3"
+            }
+          ]
+        }
+      },
+      "en": "<b>And furthermore,</b> with regard to <b>that which was said,</b> that <b>a change in owner does not</b> apply <b>after death,</b> there is the following difficulty: <b>According to <span href=\"/topics/rav-pinehas-b-rav-ami\" class=\"namedEntityLink\" data-slug=\"rav-pinehas-b-rav-ami\">Rav Pineḥas, son of Rav Ami</span>, who said that</b> the disqualification resulting from <b>a change in owner applies after death,</b> so that if the offering of the deceased was brought for a different person, the son of the deceased must bring another offering in his father’s name, <b>what is there to say?</b> However, <b>at least two</b> of these differences <b>are accurate.</b>",
+      "he": "וְתוּ, הָא דְּאָמַר שִׁינּוּי בְּעָלִים אֵינוֹ לְאַחַר מִיתָה, וּלְרַב פִּנְחָס בְּרֵיהּ דְּרַב אַמֵּי דְּאָמַר יֵשׁ שִׁינּוּי בְּעָלִים לְאַחַר מִיתָה, מַאי אִיכָּא לְמֵימַר? תַּרְתֵּי מִיהַת דַּוְקָא נִינְהוּ.",
+      "ref": "Pesachim 61a:3"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A Paschal sacrifice that was slaughtered for a different intent - whether for the sake of another sacrifice or whether as an ordinary animal - it is unacceptable, as it is written: \"And you shall say, 'It is a Paschal sacrifice unto God,'<br>When does the above apply? When it was slaughtered on its appropriate time, the day of the fourteenth of Nisan. Moreover, even if it was slaughtered in the morning of that day for a different intent, it is unacceptable. If, however, one slaughtered it with a different intent at a time not appropriate for its [sacrifice], it is acceptable.<br>[If it was slaughtered] for the sake of others and not for its owner, it is considered as if it did not have an owner on the day [when it should be sacrificed] and it is unacceptable.",
+              "he": "הַפֶּסַח שֶׁשְּׁחָטוֹ בְּמַחְשֶׁבֶת שִׁנּוּי הַשֵּׁם. בֵּין שֶׁשִּׁנָּה שְׁמוֹ לְשֵׁם זֶבַח אַחֵר בֵּין שֶׁשִּׁנָּהוּ לְשֵׁם חֻלִּין פָּסוּל שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(שמות יב כז)</span> \"וַאֲמַרְתֶּם זֶבַח פֶּסַח הוּא לַה'\". בַּמֶּה דְּבָרִים אֲמוּרִים שֶׁשְּׁחָטוֹ בִּזְמַנּוֹ שֶׁהוּא יוֹם אַרְבָּעָה עָשָׂר בְּנִיסָן אֲפִלּוּ שְׁחָטוֹ בְּשַׁחֲרִית בְּמַחְשֶׁבֶת שִׁנּוּי הַשֵּׁם פָּסוּל. אֲבָל אִם שְׁחָטוֹ שֶׁלֹּא בִּזְמַנּוֹ בְּמַחְשָׁבָה שֶׁלֹּא לִשְׁמוֹ כָּשֵׁר. שֶׁלֹּא לְשֵׁם בְּעָלָיו נַעֲשָׂה כְּמִי שֶׁאֵין לוֹ בְּעָלִים בִּזְמַנּוֹ וּפָסוּל:",
+              "ref": "Mishneh Torah, Sacrifices Rendered Unfit 15:11",
+              "sourceHeRef": "הלכות פסולי המוקדשין טו:יא",
+              "sourceRef": "Sacrifices Rendered Unfit 15:11"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כמי שאין לו בעלים</strong> - כמי ששחטו בזמנו שלא לשם בעלים ואני שמעתי שינוי בעלים אינו בזריקה כדאמרי' אין מחשבת אוכלים בזריקה ואי אפשר לומר כן דמחשבת שלא לאוכליו מנויין עליו הן ובשחיטה הוא דגלי רחמנא ולא בשאר עבודות אבל מחשבת שלא למנויו דהיינו שינוי בעלים עיקרה בזריקה הוא כדיליף לקמן בשמעתין בזריקה וכפר עליו ולא על חבירו:",
+              "ref": "Rashi on Pesachim 61a:4:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ד:א",
+              "sourceRef": "Rashi on Pesachim 61a:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> יש לדחות את הצעת רב פפא, <b>אמר רבא: פסח ששחטו בשאר ימות השנה בשינוי בעלים — נעשה כמי שאין לו בעלים</b> כלומר, ששחטו שלא לשם בעליו <b>בזמנו</b> ואף הוא <b>פסול.</b>",
+              "ref": "Steinsaltz on Pesachim 61a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:ד",
+              "sourceRef": "Steinsaltz on Pesachim 61a:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה נעשה כמי כו' ואי לא חייש להני פירכי כו' ואומר ר\"י דה\"פ אפי' ליתנהו להני פירכי כו' עכ\"ל כצ\"ל ולא ניחא להו למימר בתירוצם דלא חייש להני פירכי כיון דסתמא דתלמודא מסיק דתרתי דוקא ופירכי נינהו וק\"ל:",
+                      "ref": "Chidushei Halachot on Pesachim 61a:1",
+                      "sourceHeRef": "חדושי הלכות על פסחים ס״א א:א",
+                      "sourceRef": "Chidushei Halachot on Pesachim 61a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נעשה כמי שאין לו בעלים בזמנו ופסול</strong> - תימה לר\"י ל\"ל למימר נעשה כיון דתרתי דוקא לימא דפסול משום דאין כאן עקירה ואי לא חייש להני פירכי וסבר דדמי לשינוי קודש הואיל ופוסלו בזמנו וחשיב עקיר' א\"כ אמאי הוי כמי שאין לו בעלים בזמנו הלא בשינוי קודש לא חשבי' משנה כבזמנו לפסול ואור\"י דהכי פי' אפי' ליתנהו להנהו פירכי מ\"מ לא הוי עקירה דנעשה כפסח בזמנו שמתו בעליו דאמר בסוף אלו דברים <span class=\"parenthesized\">(פסחים ד' עג:)</span> דבעי עקירה וכששחטו סתם פסול אע\"פ שהוא כמפרש שלא לשם בעליו שהרי מתו ה\"נ שלא בזמנו שינוי בעלי' לא חשיב עקירה וכן מוכיח הלשון דקאמר שאין לו בעלים ולא קאמר כמי ששחטו בשינוי בעלים:",
+              "ref": "Tosafot on Pesachim 61a:4:1",
+              "sourceHeRef": "תוספות על פסחים ס״א א:ד:א",
+              "sourceRef": "Tosafot on Pesachim 61a:4:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span>’s suggestion should be rejected, and <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: A Paschal lamb that one slaughtered on the rest of the days of the year with a change of owner is considered like one that does not have an owner.</b> In other words, it is considered like a Paschal lamb that was slaughtered not for the sake of its owner <b>at its</b> proper <b>time</b> on Passover eve, <b>and it is disqualified.</b>",
+      "he": "אֶלָּא, אָמַר רָבָא: פֶּסַח שֶׁשְּׁחָטוֹ בִּשְׁאָר יְמוֹת הַשָּׁנָה בְּשִׁינּוּי בְּעָלִים — נַעֲשָׂה כְּמִי שֶׁאֵין לוֹ בְּעָלִים בִּזְמַנּוֹ, וּפְסוּל.",
+      "ref": "Pesachim 61a:4"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מני</strong>, <strong dir=\"rtl\">מָנָה</strong> (Biblical Hebrew) <i>to divide, distribute</i>; <i>to count</i>. <span class=\"refLink\" data-ref=\"Mishnah Bekhorot 9:7\" href=\"/Mishnah_Bekhorot.9.7\">Bekhoroth IX, 7</span> <span dir=\"rtl\">ומוֹנֶה בשבט אחד וכ׳</span> (Bavli ed. 58ᵇ <span dir=\"rtl\">ומונין א׳</span>) and he counts with the rod, one, two &c. Ib. <span dir=\"rtl\">מְנָאָם רביצין</span> if he counted them while they were crouching. <span class=\"refLink\" data-ref=\"Shevuot 34a:22\" href=\"/Shevuot.34a.22\">Shevuot 34ᵃ</span> bottom of page <span dir=\"rtl\">מָנֶה מָנִיתִי לך וכ׳</span> (not <span dir=\"rtl\">מְנִיתִיךָ</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note) I counted (delivered) to thee a Maneh (as a loan) in the presence &c.; <span class=\"refLink\" data-ref=\"Shevuot 34b:5\" href=\"/Shevuot.34b.5\">ib.ᵇ</span> <span class=\"refLink\" data-ref=\"Rosh Hashanah 12a:5\" href=\"/Rosh_Hashanah.12a.5\">Rosh Hashanah 12ᵃ</span> <span dir=\"rtl\">חכמי ישראל מוֹנִין למבול וכ׳</span> the Jewish scholars count the dates of the flood in accordance with R. El. (beginning the year with Tishri), and the astronomical calendar in accordance with R. J. (beginning with Nisan), <span class=\"refLink\" data-ref=\"Pesikta Rabbati 15:1\" href=\"/Pesikta_Rabbati.15.1\">Pesikta d'Rav Kahana R. section (Parashah) 15</span>, beginning <span dir=\"rtl\">אין מונין ללבנה וכ׳</span> we count by the moon (fix the date of the new month) only when seen after sunset. <span class=\"refLink\" data-ref=\"Sukkah 29a\" href=\"/Sukkah.29a\">Sukkah 29ᵃ</span>, and from <span dir=\"rtl\">מונין ללבנה</span> regulate the seasons by the moon (have a lunar year). <span class=\"refLink\" data-ref=\"Menachot 65b:6\" href=\"/Menachot.65b.6\">Menachot 65ᵇ</span>, and e. <span dir=\"rtl\">מְנֵה ימים וכ׳</span> count the required number of days and proclaim (one day as) the New Moon Day. <span class=\"refLink\" data-ref=\"Mishnah Yoma 5:3\" href=\"/Mishnah_Yoma.5.3\">Yoma V, 3</span>; and from—Part. pass. <span dir=\"rtl\">מָנוּי</span>; f. <span dir=\"rtl\">מְנוּיָה</span>; plural <span dir=\"rtl\">מְנוּיִים</span>, <span dir=\"rtl\">מְנוּיִין</span>, <span dir=\"rtl\">מְנוּיִן</span>; <span dir=\"rtl\">מְנוּיוֹת</span> a) <i>counted</i>. <span class=\"refLink\" data-ref=\"Taanit 8b\" href=\"/Taanit.8b\">Taanit 8ᵇ</span> <span dir=\"rtl\">דבר המ׳</span> that which has been counted (is known by number). <span class=\"refLink\" data-ref=\"Mishnah Bekhorot 9:7\" href=\"/Mishnah_Bekhorot.9.7\">Bekhoroth IX, 7</span> <span dir=\"rtl\">אחד מן המ׳</span> one of the sheep already counted.—b) <i>classified</i>; (<i>plural</i>) <i>class</i>. <span class=\"refLink\" data-ref=\"Chagigah 17b:7\" href=\"/Chagigah.17b.7\">Chagigah 17ᵇ</span> <span dir=\"rtl\">מה חדש למְנוּיָיו אף עצרת למְנוּיָיו</span> (<span class=\"refLink\" data-ref=\"Jastrow, עֲצֶרֶת 1\" dir=\"rtl\" href=\"/Jastrow,_עֲצֶרֶת.1\">עצרת</span> = <span dir=\"rtl\">שבוע של ע׳</span>) as the New Moon festival belongs to its class (of days), so does the Pentecost (which is determined by counting weeks) belong to its class (of weeks), i.e. the pilgrim’s sacrifice (<span class=\"refLink\" data-ref=\"Jastrow, חֲגִיגָה 1\" dir=\"rtl\" href=\"/Jastrow,_חֲגִיגָה.1\">חגיגה</span>) may be offered during the entire eighth week from Passover; <span class=\"refLink\" data-ref=\"Rosh Hashanah 5a:4\" href=\"/Rosh_Hashanah.5a.4\">Rosh Hashanah 5ᵃ</span> <span dir=\"rtl\">למְנוּיָו</span>.—c) (see <i>Nifal</i>) <i>entered for a share in the sacrifice</i>. <span class=\"refLink\" data-ref=\"Mishnah Zevachim 5:8\" href=\"/Mishnah_Zevachim.5.8\">Zevachim V, 8</span> <span dir=\"rtl\">אינו נאכל אלא למנויו</span> can be partaken of only by those registered for it. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 5:3\" href=\"/Mishnah_Pesachim.5.3\">Pesachim V, 3</span> (<span class=\"refLink\" data-ref=\"Pesachim 61a:5\" href=\"/Pesachim.61a.5\">61ᵃ</span>) <span dir=\"rtl\">שחטו שלא לאוכליו ושלא למנוייו</span> (Bavli ed. <span dir=\"rtl\">למנויו</span>) if while slaughtering he had in mind such as were unable to partake of it (sick persons &c.) or such as had not been registered for it. Ib. 61ᵃ bottom of page <span dir=\"rtl\">איתקש אוכלין למנויין</span> (Manuscript Munich <span dir=\"rtl\">אוכליו למנוייו</span>) the partakers (to be held in mind) are analogous to the registered. Ib. 70ᵃ אינה … למְנוּיֶהָ Manuscript Munich (ed. incorr. <span dir=\"rtl\">למנוייו</span>, <span dir=\"rtl\">למנויו</span>) it (the pilgrim’s sacrifice) can only be partaken of by those registered for it; and from<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִמְנֶה</strong>, <strong dir=\"rtl\"> נִי׳</strong> <br><b>1)</b> <i>to be counted</i>. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 1:12\" href=\"/Bamidbar_Rabbah.1.12\">Bamidabar Rabbah section (Parashah) 1</span> <span dir=\"rtl\">אינן נִמְנִים ולא נמדדין</span> are neither numbered nor measured. <span class=\"refLink\" data-ref=\"Beitzah 3b\" href=\"/Beitzah.3b\">Beitzah 3ᵇ</span>, and e. <span dir=\"rtl\">את שדרכו לִימָּנוֹת</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אֵת 1\" dir=\"rtl\" href=\"/Jastrow,_אֵת.1\">אֵת</span>. <span class=\"refLink\" data-ref=\"Mishnah Gittin 5:6\" href=\"/Mishnah_Gittin.5.6\">Gittin V, 6</span> <span dir=\"rtl\">נִמְנוּ</span> (usually <span dir=\"rtl\">נמנו וגמרו</span>) they (their votes) were counted, they resolved, see <span class=\"refLink\" data-ref=\"Jastrow, גָּמַר II 1\" href=\"/Jastrow,_גָּמַר II.1\"><span dir=\"rtl\">גָּמַר</span> II</span>; and from <br><b><br>—2)</b> <i>to be counted on for a share in the Passover lamb, to be registered</i> (<span class=\"refLink\" data-ref=\"Exodus 12:4\" href=\"/Exodus.12.4\">Shemot XII, 4</span>). <span class=\"refLink\" data-ref=\"Mishnah Pesachim 8:3\" href=\"/Mishnah_Pesachim.8.3\">Pesachim VIII, 3</span> <span dir=\"rtl\">לעולם נִימְנִין עליו וכ׳</span> persons may continually be entered for a share in it, as long as there remains for each &c. Ib. <span dir=\"rtl\">נימנין ומושכין וכ׳</span> they may be entered and withdraw again. Ib. 89ᵃ <span dir=\"rtl\">אבל לִימָּנוֹת</span> but as for registering (additional names). Tosefta ib. VII, 7 <span dir=\"rtl\">רצו להמשך ולהִמָּנוֹת וכ׳</span> (ed. Zuckermandel (see Tosefefta) incorr.) if some of them wish to withdraw and have others entered on their share &c.; and from <br><b><br>—3)</b> <i>to be specified</i>. Yerushalmi Taanit IV, 68ᵇ (reference. to Mishnah <span class=\"refLink\" data-ref=\"Mishnah Taanit 4:5\" href=\"/Mishnah_Taanit.4.5\">ib. IV, 5</span>) <span dir=\"rtl\">מה ראה … להִימָּנוֹת</span> what reason was there for that specification of the time when each family of priests and the people had to offer wood?; Yerushalmi Shekalim IV, beginning 47ᵈ; Yerushalmi Megillah I, 70ᶜ top.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִמְנָה</strong>, <strong dir=\"rtl\"> הִי׳</strong> <i>to cause to be entered; to add to the number of sharers; to transmit one’s share to another person</i>. Yerushalmi Pesachim VIII, 36ᵃ top <span dir=\"rtl\">הי׳ אותו על חנם</span> he gave him a share gratuitously. Tosefta ib. l. common gender. <span dir=\"rtl\">בני חבורה שרצו להַמְנוֹת וכ׳</span> (ed. Zuckermandel (see Tosefefta) <span dir=\"rtl\">לַמְנוֹת</span>) members of a party who desire to give others a share in their own portion. Ib. <span dir=\"rtl\">המַמְנֶה אחרים על חלקו</span> (ed. Zuckermandel (see Tosefefta) <span dir=\"rtl\">פסחו</span>) he who assigns to others a share in his portion; and from<br></br> <strong>Hof.</strong> - <strong dir=\"rtl\">הוּמְנֶה</strong> <i>to be added to the number; to be entered as a member of a group or of a family</i>. Tosefta ib. VIII, 3 <span dir=\"rtl\">ה׳ על אחד מהם</span> if he (the orphan) has been entered as his guest by one of the guardians. Ib. 6 <span dir=\"rtl\">בני חבורה שהוּמְנוּ וכ׳</span> ed. Zuckermandel (see Tosefefta) (oth. ed. <span dir=\"rtl\">שנמנו</span>) members of a group who have been entered (in a body) in addition to the original participants; and e.<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">מִנָּה</strong>, <strong dir=\"rtl\"> מִי׳</strong> <i>to appoint, elect.</i> <span class=\"refLink\" data-ref=\"Mishnah Gittin 5:4\" href=\"/Mishnah_Gittin.5.4\">Gittin V, 4</span> <span dir=\"rtl\">שמי׳ להן אביהן וכ׳</span> for whom their father had appointed an executor. Ib. <span dir=\"rtl\">שמִינָּהוּ אבי וכ׳</span> whom the father … has appointed. <span class=\"refLink\" data-ref=\"Taanit 10b:2\" href=\"/Taanit.10b.2\">Taanit 10ᵇ</span> <span dir=\"rtl\">כל שראוי למַנּוֹתוֹ וכ׳</span> who is worthy to be elected manager &c.; and from—Part. pass. <span class=\"refLink\" data-ref=\"Jastrow, מְמוּנֶּה 1\" dir=\"rtl\" href=\"/Jastrow,_מְמוּנֶּה.1\">מְמוּנֶּה</span>; plural <span dir=\"rtl\">מְמוּנִּים</span>. <span class=\"refLink\" data-ref=\"Sotah 42a:14\" href=\"/Sotah.42a.14\">Sotah 42ᵃ</span> <span dir=\"rtl\">למה סגן ממ׳</span> for what purpose is a deputy high priest appointed?; <span class=\"refLink\" data-ref=\"Yoma 39a:14\" href=\"/Yoma.39a.14\">Yoma 39ᵃ</span> <span dir=\"rtl\">מימינו</span> ed. (correct accordingly; see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note); and from—<span class=\"refLink\" data-ref=\"Horayot 13b\" href=\"/Horayot.13b\">Horayot 13ᵇ</span> שאביהם ממונים פרנס וכ׳ Manuscript Munich (ed. <span dir=\"rtl\">שממ׳ אביהם</span>, = <span dir=\"rtl\">מן הממונים</span>) whose father is of those worthy to be elected manager (see Taanit l. common gender.).—V. <span class=\"refLink\" data-ref=\"Jastrow, מְמוּנֶּה 1\" dir=\"rtl\" href=\"/Jastrow,_מְמוּנֶּה.1\">מְמוּנֶּה</span>.—Esp. <i>to ordain as teacher and judge</i>. Yerushalmi Sanhedrin I, 19ᵃ bottom of page <span dir=\"rtl\">ב\"ד שמי׳ שלא וכ׳</span> a court that ordained without the consent of the Nasi. <span class=\"refLink\" data-ref=\"Yoma 2a\" href=\"/Yoma.2a\">Ib.</span> <span dir=\"rtl\">היה כל אחד מְמַנֶּה וכ׳</span> each teacher used to ordain his own pupils; and from<br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">הִתְמַנֶּה</strong>, <strong dir=\"rtl\"></strong><br></br> <strong>Nithpaël</strong> - <strong dir=\"rtl\">נִתְמַנֶּה</strong> <br><b>1)</b> <i>to be appointed, designated as deputy, to be ordained</i>. Sifra Aḥăré Parah 5, Chaldaic VIII <span dir=\"rtl\">לרבות כהן אחר המִתְמַנֶּה</span> to imply the other priest that is designated as a deputy. Yerushalmi Bikkurim III, 65ᵈ top <span dir=\"rtl\">חכם שנ׳ וכ׳</span> when a scholar is ordained, his sins are forgiven. <span class=\"refLink\" data-ref=\"Yoma 2a\" href=\"/Yoma.2a\">Ib.</span> <span dir=\"rtl\">זה שהוא מתמ׳ בכסף וכ׳</span> (not <span dir=\"rtl\">מתמני</span>) before him who has been ordained for money, we must not stand up, nor do we call him rabbi, and the cloak upon him is like the cover of ass. <span class=\"refLink\" data-ref=\"Yoma 22b:8\" href=\"/Yoma.22b.8\">Yoma 22ᵇ</span>. Yerushalmi Shekalim V, 48ᵈ bottom of page <span dir=\"rtl\">מאי אם זה שנ׳ על … אתם שאתם מִתְמַנִּין וכ׳</span> if this one appointed superintendent of wicks, was privileged to be counted among the great of the generation, how much more you who are to be appointed over the preservation of lives (as directors of charities). <span class=\"refLink\" data-ref=\"Mishnah Rosh Hashanah 2:9\" href=\"/Mishnah_Rosh_Hashanah.2.9\">Rosh Hashanah II, 9</span> (<span class=\"refLink\" data-ref=\"Rosh Hashanah 25a:5\" href=\"/Rosh_Hashanah.25a.5\">25ᵃ</span>) <span dir=\"rtl\">שנִתְמַנּוּ ב\"ד על וכ׳</span> Manuscript Oxford (ed. <span dir=\"rtl\">שעמדו</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 90) who have been ordained as a court for all Israel; and from <br><b><br>—2)</b> (of things) <i>to be assigned</i>. <span class=\"refLink\" data-ref=\"Tosefta Sotah 7:20\" href=\"/Tosefta_Sotah.7.20\">Tosefta Sotah VII, 20</span> <span dir=\"rtl\">נִתְמַנָּה לאדם פרנסה וכ׳</span> if a livelihood has been assigned to a man (by Providence, i.e. if he has succeeded in establishing a livelihood), he must buy a house; <span dir=\"rtl\">חזר נ׳ לו יקח וכ׳</span> (see ed. Zuckermann Talmudische Münzen und Gewichte, Breslau 1862 note) if more has been provided for him, he must buy a field … and then marry a wife."
+              ],
+              "he": [],
+              "ref": "Jastrow, מני 1",
+              "sourceHeRef": "מילון יסטרוב, מני א׳",
+              "sourceRef": "Jastrow, מני 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The mishna continues with another <i>halakha</i> with regard to the Paschal lamb: <b>If one slaughtered</b> a Paschal lamb on Shabbat and mistakenly intended it <b>for those who cannot eat it,</b> such as sick or elderly people who are unable to eat the meat, <b>or for those who did not register for it,</b> or <b>for</b> the sake of <b>the uncircumcised or for those ritually impure,</b> the offering is disqualified and <b>he is liable</b> to bring a sin-offering for his unnecessary act of slaughter. If, however, he slaughtered it <b>for those who can eat it and for those who cannot eat it,</b> or <b>for those who registered for it and for those who did not register for it,</b> or <b>for the circumcised and for those who are uncircumcised,</b> or <b>for those who are ritually impure and those who are ritually pure, he is exempt.</b> Since a Paschal lamb slaughtered with dual intentions of these types is valid, the act of slaughter was justified.",
+                "If <b>he slaughtered it and it was found to have a blemish,</b> the offering is disqualified, and <b>he is liable</b> to bring a sin-offering for having unwittingly performed a prohibited labor on Shabbat, as he should have examined the animal before it was slaughtered. If <b>he slaughtered it and it was found to have a hidden condition that would cause it to die within twelve months [<i>tereifa</i>]</b> and that could not have been discovered before the slaughter even if it were examined properly, the offering is disqualified, but <b>he is exempt</b> from bringing a sin-offering. This is not a case of <i>shogeg</i>, unwitting violation of Shabbat, but rather of <i>ones</i>, an unavoidable accident.",
+                "If <b>he slaughtered it and</b> afterward <b>it became known that the owners had withdrawn</b> from it and registered for a different Paschal lamb, in which case this one was slaughtered unnecessarily, as no one was registered for it, <b>or</b> it became known that <b>they had died or became ritually impure,</b> in all these cases <b>he is exempt</b> from bringing a sin-offering, <b>because he slaughtered with permission.</b> At the time of the slaughter, he did not know and had no reason to suspect that the offering would be disqualified."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Pesachim 71b:12",
+                "Pesachim 71b:13",
+                "Pesachim 71b:14"
+              ],
+              "he": [
+                "שְׁחָטוֹ שֶׁלֹּא לְאוֹכְלָיו וְשֶׁלֹּא לִמְנוּיָו, לַעֲרֵלִין וְלִטְמֵאִין — חַיָּיב. לְאוֹכְלָיו וְשֶׁלֹּא לְאוֹכְלָיו, לִמְנוּיָו וְשֶׁלֹּא לִמְנוּיָו, לְמוּלִין וְלַעֲרֵלִים, לִטְמֵאִין וְלִטְהוֹרִין — פָּטוּר.",
+                "שְׁחָטוֹ וְנִמְצָא בַּעַל מוּם — חַיָּיב. שְׁחָטוֹ וְנִמְצָא טְרֵיפָה בַּסֵּתֶר — פָּטוּר.",
+                "שְׁחָטוֹ וְנוֹדַע שֶׁמָּשְׁכוּ הַבְּעָלִים אֶת יָדָם, אוֹ שֶׁמֵּתוּ אוֹ שֶׁנִּטְמְאוּ — פָּטוּר, מִפְּנֵי שֶׁשָּׁחַט בִּרְשׁוּת."
+              ],
+              "link": "/Pesachim/71b",
+              "originalRefsBeforeRewriting": [
+                "Pesachim 71b:12"
+              ],
+              "ref": "Pesachim 71b:12-14",
+              "sourceHeRef": "פסחים ע״א ב",
+              "sourceRef": "Pesachim 71b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "The mishna continues with another <i>halakha</i> with regard to the Paschal lamb: <b>If one slaughtered</b> a Paschal lamb on Shabbat and mistakenly intended it <b>for those who cannot eat it,</b> such as sick or elderly people who are unable to eat the meat, <b>or for those who did not register for it,</b> or <b>for</b> the sake of <b>the uncircumcised or for those ritually impure,</b> the offering is disqualified and <b>he is liable</b> to bring a sin-offering for his unnecessary act of slaughter. If, however, he slaughtered it <b>for those who can eat it and for those who cannot eat it,</b> or <b>for those who registered for it and for those who did not register for it,</b> or <b>for the circumcised and for those who are uncircumcised,</b> or <b>for those who are ritually impure and those who are ritually pure, he is exempt.</b> Since a Paschal lamb slaughtered with dual intentions of these types is valid, the act of slaughter was justified. If <b>he slaughtered it and it was found to have a blemish,</b> the offering is disqualified, and <b>he is liable</b> to bring a sin-offering for having unwittingly performed a prohibited labor on Shabbat, as he should have examined the animal before it was slaughtered. If <b>he slaughtered it and it was found to have a hidden condition that would cause it to die within twelve months [<i>tereifa</i>]</b> and that could not have been discovered before the slaughter even if it were examined properly, the offering is disqualified, but <b>he is exempt</b> from bringing a sin-offering. This is not a case of <i>shogeg</i>, unwitting violation of Shabbat, but rather of <i>ones</i>, an unavoidable accident. If <b>he slaughtered it and</b> afterward <b>it became known that the owners had withdrawn</b> from it and registered for a different Paschal lamb, in which case this one was slaughtered unnecessarily, as no one was registered for it, <b>or</b> it became known that <b>they had died or became ritually impure,</b> in all these cases <b>he is exempt</b> from bringing a sin-offering, <b>because he slaughtered with permission.</b> At the time of the slaughter, he did not know and had no reason to suspect that the offering would be disqualified.",
+              "he": "שְׁחָטוֹ שֶׁלֹּא לְאוֹכְלָיו וְשֶׁלֹּא לִמְנוּיָיו, לַעֲרֵלִין וְלִטְמֵאִין, חַיָּב. לְאוֹכְלָיו וְשֶׁלֹּא לְאוֹכְלָיו, לִמְנוּיָיו וְשֶׁלֹּא לִמְנוּיָיו, לְמוּלִין וְלַעֲרֵלִין, לִטְהוֹרִים וְלִטְמֵאִים, פָּטוּר. שְׁחָטוֹ וְנִמְצָא בַעַל מוּם, חַיָּב. שְׁחָטוֹ וְנִמְצָא טְרֵפָה בַסֵּתֶר, פָּטוּר. שְׁחָטוֹ וְנוֹדַע שֶׁמָּשְׁכוּ הַבְּעָלִים אֶת יָדָם, אוֹ שֶׁמֵּתוּ אוֹ שֶׁנִּטְמְאוּ, פָּטוּר, מִפְּנֵי שֶׁשָּׁחַט בִּרְשׁוּת:",
+              "link": "/Mishnah Pesachim/6",
+              "ref": "Mishnah Pesachim 6:6",
+              "sourceHeRef": "משנה פסחים ו:ו",
+              "sourceRef": "Mishnah Pesachim 6:6"
+            },
+            {
+              "en": "If one <b>slaughtered</b> the Paschal lamb <b>for</b> people <b>who cannot eat it</b> or for <b>those who did not register</b> in advance to eat it, or if one slaughtered it for <b>people who are uncircumcised or for those who are ritually impure,</b> whom the Torah prohibits from eating the Paschal lamb, it <b>is disqualified.</b> However, if one slaughtered it <b>for those who can eat it and for those who cannot eat it; for those who have registered for it and for those who have not registered for it; for the circumcised and for the uncircumcised; for the ritually impure and for the ritually pure, it is valid,</b> for a partially invalid intent does not disqualify the offering. If one <b>slaughtered</b> the Paschal lamb <b>before midday it is disqualified, as it is stated:</b> “And the whole assembly of the congregation of Israel shall slaughter it <b>in the afternoon”</b> (Exodus 12:6). If he <b>slaughtered it before the daily</b> afternoon <b>offering it is valid, as long as another</b> person <b>stirs its blood</b> in order to prevent it from congealing <b>until the</b> blood of the <b>daily offering is sprinkled. And if</b> the blood of the Paschal lamb <b>is sprinkled</b> before the blood of the daily offering, <b>it is</b> nonetheless <b>valid,</b> as this change does not disqualify the offering.",
+              "he": "שְׁחָטוֹ שֶׁלֹּא לְאוֹכְלָיו וְשֶׁלֹּא לִמְנוּיָיו, לַעֲרֵלִים וְלִטְמֵאִים, פָּסוּל. לְאוֹכְלָיו וְשֶׁלֹּא לְאוֹכְלָיו, לִמְנוּיָיו וְשֶׁלֹּא לִמְנוּיָיו, לְמוּלִים וְלַעֲרֵלִים, לִטְמֵאִים וְלִטְהוֹרִים, כָּשֵׁר. שְׁחָטוֹ קֹדֶם חֲצוֹת, פָּסוּל, מִשּׁוּם שֶׁנֶּאֱמַר <span class=\"parenthesized\">(שמות יב)</span> בֵּין הָעַרְבָּיִם. שְׁחָטוֹ קֹדֶם לַתָּמִיד, כָּשֵׁר, וּבִלְבַד שֶׁיְּהֵא אֶחָד מְמָרֵס בְּדָמוֹ עַד שֶׁיִּזָּרֵק דַּם הַתָּמִיד. וְאִם נִזְרַק, כָּשֵׁר:",
+              "link": "/Mishnah Pesachim/5",
+              "ref": "Mishnah Pesachim 5:3",
+              "sourceHeRef": "משנה פסחים ה:ג",
+              "sourceRef": "Mishnah Pesachim 5:3"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If a Paschal sacrifice was slaughtered for people who were not enumerated upon it or for individuals whom none could eat an olive-sized portion or it was slaughtered for the uncircumcised or those impure, it is unacceptable. If it was slaughtered for one who could partake of it and one who could not partake of an olive-sized portion, for those enumerated on it and for others not enumerated on it, for circumcised and uncircumcised, for the pure and the impure, it is acceptable. Those who are fit to partake of it eat according to law; it is as if he did not have the others in mind.",
+              "he": "שְׁחָטוֹ שֶׁלֹּא לִמְנוּיָיו אוֹ לְמִי שֶׁאֵין כָּל אֶחָד מֵהֶן יָכוֹל לֶאֱכל כְּזַיִת אוֹ שֶׁשְּׁחָטוֹ לַעֲרֵלִים אוֹ לִטְמֵאִים פָּסוּל. שְׁחָטוֹ לְמִי שֶׁיָּכוֹל לֶאֱכל וּלְמִי שֶׁאֵינוֹ יָכוֹל לֶאֱכל כְּזַיִת. לִמְנוּיָיו וְשֶׁלֹּא לִמְנוּיָיו. לְמוּלִים וְלַעֲרֵלִים. לִטְהוֹרִים וְלִטְמֵאִין. כָּשֵׁר. שֶׁאֵלּוּ הָרְאוּיִין לוֹ אוֹכְלִין כַּהֲלָכָה וְהָאֲחֵרִים כְּאִלּוּ לֹא חָשַׁב עֲלֵיהֶם:",
+              "ref": "Mishneh Torah, Paschal Offering 2:5",
+              "sourceHeRef": "הלכות קרבן פסח ב:ה",
+              "sourceRef": "Paschal Offering 2:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לאוכליו ושלא לאוכליו כשר</strong> - דמקצת אוכלין לא פסלי ולקמן מפרש טעמא:",
+              "ref": "Rashi on Pesachim 61a:5:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ה:א",
+              "sourceRef": "Rashi on Pesachim 61a:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> שחטו את הפסח, <b>שלא לאוכליו</b> כלומר לשם אנשים שאינם מסוגלים לאוכלו, או <b>שלא למנויו</b> לשם אלה שלא נמנו מקודם לאכול ממנו, או שחטו <b>לערלים ולטמאים</b> שנאמר בתורה שאסור להם לאכול מן הפסח — הרי זה <b>פסול.</b> אולם אם שחטו <b>לאוכליו ושלא לאוכליו למנויו ושלא למנויו, למולים ולערלים, לטמאים ולטהורים</b> — הרי זה <b>כשר,</b> שאין מחשבה חלקית של פסול פוסלת.",
+              "ref": "Steinsaltz on Pesachim 61a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:ה",
+              "sourceRef": "Steinsaltz on Pesachim 61a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The order of the mishna is puzzling: It first mentions the category of acceptable, circumcised people, and then the category of unacceptable, uncircumcised people. Then in the second example, the mishna mentions first the unacceptable, ritually impure people, and then the acceptable, ritually pure people. The author of the <i>Melekhet Shlomo</i> explains that this change in form is not accidental. Rather, it teaches that as opposed to the case where the priest offers a sacrifice for its own purpose and a different purpose, when he offers the sacrifice for acceptable and unacceptable people, the order does not matter. Provided that he intends the offering to be for both an acceptable group of people and an unacceptable group, the offering is valid, regardless of which group he had in mind first.",
+              "he": "קרבן פסח ששחטו לשם מי שאינו יכול לאוכלו או לשם מי שלא נמנה עליו — פסול, ואם שחטו לאוכליו ושלא לאוכליו, למנויו ושלא למנויו — כשר. כמשנה. (רמב\"ם ספר קרבנות הלכות קרבן פסח פ\"ב ה\"ה).",
+              "ref": "Steinsaltz comment #1 on Pesachim 61a:5",
+              "sourceHeRef": "לַמּוּלִים וְלָעֲרֵלִים, לַטְּמֵאִים וְלַטְּהוֹרִים",
+              "sourceRef": "For the circumcised and for the uncircumcised; for the ritually impure and for the ritually pure"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> If one <b>slaughtered</b> the Paschal lamb <b>for</b> people <b>who cannot eat it</b> or for <b>those who did not register</b> in advance to eat it, or if one slaughtered it for <b>people who are uncircumcised or for those who are ritually impure,</b> whom the Torah prohibits from eating the Paschal lamb, it <b>is disqualified.</b> However, if one slaughtered it <b>for those who can eat it and for those who cannot eat it; for those who have registered for it and for those who have not registered for it; for the circumcised and for the uncircumcised; for the ritually impure and for the ritually pure, it is valid,</b> for a partially invalid intent does not disqualify the offering.",
+      "he": "<big><strong>מַתְנִי׳</strong></big> שְׁחָטוֹ שֶׁלֹּא לְאוֹכְלָיו, וְשֶׁלֹּא לִמְנוּיָו, לַעֲרֵלִים וְלִטְמֵאִים — פָּסוּל. לְאוֹכְלָיו וְשֶׁלֹּא לְאוֹכְלָיו לִמְנוּיָו וְשֶׁלֹּא לִמְנוּיָו, לְמוּלִים וְלַעֲרֵלִים, לִטְמֵאִים וְלִטְהוֹרִים — כָּשֵׁר.",
+      "ref": "Pesachim 61a:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "An additional <b>dilemma</b> with regard to precedence <b>was raised before</b> the Sages: If the priest had two offerings to sacrifice, <b>a frequent</b> offering <b>and an infrequent</b> offering, <b>and</b> although he should have initially sacrificed the frequent offering <b>he slaughtered the infrequent</b> offering <b>first, what</b> is the <i>halakha</i>? <b>Do we say</b> that <b>since</b> he already <b>slaughtered</b> the infrequent offering he also proceeds to <b>sacrifice it? Or perhaps</b> he does not yet sacrifice it but <b>gives</b> it <b>to another</b> priest, <b>who stirs its blood</b> to prevent it from congealing, <b>until</b> he <b>sacrifices</b> the <b>frequent</b> offering; <b>and then</b> he <b>sacrifices the infrequent</b> offering.",
+                "<b>Rav Huna from Sura said: Come</b> and <b>hear</b> an answer from the mishna: If one has <b>a peace offering from yesterday</b> and <b>a sin offering or a guilt offering from today,</b> the peace offering <b>from yesterday precedes</b> the sin offering <b>from today.</b> It can be assumed that the mishna is not discussing a case where none of the offerings have been slaughtered, as the peace offering would not take precedence in this situation. Rather, it is discussing a peace offering from yesterday that was slaughtered but its blood has not yet been presented. One can infer from this that only a peace offering from yesterday takes precedence in this situation, <b>but</b> in the case of a peace offering <b>from today</b> that is <b>similar</b> in other aspects <b>to</b> a peace offering <b>from yesterday,</b> the peace offering does not take precedence.",
+                "The Gemara explains: <b>And what are the circumstances</b> of this case? This is a situation <b>where</b> one <b>first slaughtered the peace offering</b> from today. In this case the <b>sin offering or guilt offering takes precedence,</b> although the peace offering is already slaughtered, as both of them are of greater sanctity. The same should apply to an infrequent offering that was slaughtered before a frequent offering: The frequent offering is slaughtered before the blood of the infrequent offering is presented.",
+                "The Gemara rejects this answer: <b>Perhaps</b> when the mishna makes reference to <b>a peace offering from yesterday and a sin offering or a guilt offering from today,</b> the circumstances should be understood differently. <b>How can you find these</b> other circumstances? The mishna discusses a case <b>where</b> the priest already <b>slaughtered both of them,</b> the peace offering and the sin- or guilt offering, and the blood of both awaits presentation on the altar. <b>But</b> had he <b>not</b> yet <b>slaughtered both of them,</b> but only the peace offering, <b>you</b> can still <b>raise the dilemma</b> of whether the priest should set aside the blood of the peace offering in order to slaughter the sin offering first, due to its greater sanctity.",
+                "The Gemara cites another proof: <b>Come</b> and <b>hear</b> the aforementioned <i>baraita</i>: <b>Alternatively,</b> Beit Hillel say: With regard to the order of blessings in <i>kiddush</i>, <b>the blessing on wine</b> is recited <b>frequently and the blessing of the day is not</b> recited <b>frequently, and</b> there is a principle: When <b>a frequent</b> practice <b>and an infrequent</b> practice clash, the <b>frequent</b> practice <b>takes precedence</b> over the infrequent practice. The obligation to recite the blessing of the day is due to the sanctity of Shabbat and applies at the start of Shabbat, before wine is placed on the table. Nevertheless, the blessing on the wine takes precedence due to its frequency. So too, the slaughtering of the frequent offering should take precedence, even if the priest had already commenced the sacrificial rites of the infrequent offering.",
+                "The Gemara rejects this proof: <b>Here too,</b> with regard to <i>kiddush</i>, the circumstances are different, <b>since</b> wine is available when one recites <i>kiddush</i>, and therefore the obligation of both blessings <b>come</b> together. This means that it is <b>comparable to</b> a situation <b>where one</b> already <b>slaughtered both</b> animals.",
+                "The Gemara cites yet another proof: <b>Come</b> and <b>hear, as Rabbi Yoḥanan says:</b> The <b><i>halakha</i></b> is that <b>a person prays the afternoon prayer and afterward the additional prayer,</b> despite the fact that the obligation of the additional prayer applies first, which is similar to an offering slaughtered first. The Gemara rejects this proof: <b>Here too, since the time of the afternoon prayer has</b> now <b>arrived,</b> one is obligated in both prayers, and again this is <b>comparable to</b> a situation <b>where one</b> already <b>slaughtered both</b> animals.",
+                "<b>Rav Aḥa, son of Rav Ashi, said to Ravina</b> that an answer to this dilemma can be found in a mishna (<i>Pesaḥim</i> 61a): If one <b>slaughtered</b> the Paschal offering <b>before midday</b> it is <b>disqualified, because it is stated in its regard: “In the afternoon”</b> (Exodus 12:6). If he slaughtered it <b>before the daily</b> afternoon <b>offering</b> was slaughtered it is <b>valid,</b> even though the daily offering should be sacrificed first, <b>but</b> someone <b>should stir its blood</b> to prevent it from congealing <b>until</b> he slaughters and <b>sprinkles the blood</b> of the daily offering. Although the infrequent Paschal offering is already slaughtered, the priest first slaughters the frequent daily offering and then sprinkles the blood of the Paschal offering.",
+                "The Gemara rejects this proof as well: <b>Here we are dealing with</b> a case <b>where</b> he <b>gave precedence to the daily offering</b> and <b>slaughtered it first,</b> and then slaughtered the Paschal offering before sprinkling the blood of the daily offering. Since the blood of both offerings requires sprinkling on the altar, the blood of the daily offering takes precedence. <b>Rav Aḥa the Elder said to Rav Ashi</b> that the wording of <b>the mishna is also precise, as it teaches: Until the blood of the daily offering is sprinkled, and does not teach: Until he slaughters and sprinkles the blood.</b> This indicates that the daily afternoon offering has already been slaughtered. The Gemara affirms: <b>Conclude from</b> its wording that this is the meaning of the mishna."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Zevachim 91a:10",
+                "Zevachim 91a:11",
+                "Zevachim 91a:12",
+                "Zevachim 91a:13",
+                "Zevachim 91a:14",
+                "Zevachim 91a:15",
+                "Zevachim 91a:16",
+                "Zevachim 91a:17",
+                "Zevachim 91a:18"
+              ],
+              "he": [
+                "איבעיא להו תדיר ושאינו תדיר וקדים ושחט לשאינו תדיר מאי מי אמרינן כיון דשחטיה מקריב ליה או דלמא יהיב לאחר דממרס בדמו עד דמקריב ליה לתדיר והדר מקריב לשאינו תדיר",
+                "אמר רב הונא מסורא ת\"ש שלמים של אמש חטאת ואשם של יום של אמש קודם לשל יום הא דיום דומיא דאמש",
+                "וה\"ד דקדים שחטיה לשלמים חטאת ואשם קדמי",
+                "דלמא שלמים דאמש וחטאת ואשם דיום היכי משכחת לה דשחטינהו לתרוייהו אבל לא שחטינהו לתרוייהו תיבעי לך",
+                "ת\"ש ד\"א ברכת היין תדירה וברכת היום אינה תדירה ותדיר ושאינו תדיר תדיר קודם",
+                "ה\"נ דכיון דאתיין כמאן דשחיטי תרוייהו דמי",
+                "ת\"ש דא\"ר יוחנן הלכה מתפלל אדם של מנחה ואח\"כ של מוספין ה\"נ כיון דמטי זמן תפלת מנחה כמאן דשחיטי תרוייהו דמי",
+                "אמר ליה רב אחא בריה דרב אשי לרבינא שחטו קודם חצות פסול מפני שנאמר בו <span class=\"parenthesized\">(שמות יב, ו)</span> בין הערבים קודם לתמיד כשר ויהא ממרס בדמו עד שיזרוק הדם",
+                "הכא במאי עסקינן כגון דקדים שחטיה לתמיד ברישא אמר ליה רב אחא סבא לרב אשי מתניתין נמי דיקא דקתני עד שיזרק הדם <span class=\"parenthesized\">(תמיד)</span> ולא קתני עד שישחוט ויזרק דם ש\"מ:"
+              ],
+              "link": "/Zevachim/91a",
+              "originalRefsBeforeRewriting": [
+                "Zevachim 91a:17"
+              ],
+              "ref": "Zevachim 91a:10-18",
+              "sourceHeRef": "זבחים צ״א א",
+              "sourceRef": "Zevachim 91a"
+            },
+            {
+              "en": "",
+              "he": "<b>והיה לכם</b> בן עזאי אומר שלא יצא וירעה בעדר: ר' יוסי הגלילי אומר שיהיו קשורין בכרעי המטה ומצריים נכנסין ורואין אותן ונפשם יוצאה שהיו יראים לטלאים וכן הוא אומר <span class=\"parenthesized\">(שמות ח' כ\"ב)</span> הן נזבח את תועבת מצרים לעיניהם ולא יסקלונו: למשמרת. ר' עקיבא אומר נאמר כאן שמירה ונאמר להלן <span class=\"parenthesized\">(במדבר כ\"ח ב')</span> שמירה מה שמירה שנאמרה כאן שיהיו מבוקרין ועומדין קודם שחיטה שלשה ימים אף שמירה האמור להלן שיהיו מבוקרין ועומדין קודם שחיטה שלשה ימים מיכאן אמרו אין פוחתין מששה טלאים במבוקרין בלשכת הטלאים כדי לשבת ולשני ימים טובים של ראש השנה: עד ארבעה עשר יום לחדש הזה. זה שאמרו פסח שני אין מקחו מבעשור: ושחטו אותה שלא ישחט עמו חולין ושלא ישחט עמו חגיגה: ולדורות שוחטין עמו חגיגה אימתי בזמן שהוא בא בחול בטהרה ובמועט: כל קהל עדת ישראל. מלמד שפסח מצרים נשחט בשלש כתות בקהל ועדה וישראל: בין הערבים. יכול משתחשך ת\"ל יום או יום יכול משתי שעות ת\"ל בין הערבים הא כאיזה צד משש שעות ולמעלה שבית שמאי אומרין אין בערב אלא משפנה יום חנינא בן חכינאי אומר בין הערבים בין שני ערבים בין אור ארבעה עשר לאור חמשה עשר ויום ולילה באמצע כשהוא אומר יום כבר יצא לילה יכול שחרית של בין הערבים מה בין הערבים משפנה יום אף כשאמר יום משפנה יום משש שעות ולמעלה וכן הוא אומר <span class=\"parenthesized\">(ירמיה ו' ד')</span> אוי לנו כי פנה היום כי ינטו צללי ערב מיכאן אמרו שחטו קודם חצות פסול שנאמר בו בין הערבים: שחטו קודם לתמיד כשר ובלבד שיהא אחד ממרס בדמו עד שערק רם התמיד ואם נזרק כשר:",
+              "ref": "Mekhilta DeRabbi Shimon Ben Yochai 12:6",
+              "sourceHeRef": "מכילתא דרבי שמעון בן יוחאי יב:ו",
+              "sourceRef": "Mekhilta DeRabbi Shimon Ben Yochai 12:6"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The slaughter of the Paschal sacrifice takes place after midday. It should not be slaughtered until the afternoon daily offering is slaughtered. After the afternoon incense offering is brought and the lamps of the <i>Menorah</i> are kindled, they begin slaughtering the Paschal sacrifices and continue until the end of the day.<br>If one slaughtered the Paschal sacrifice after midday, but before the afternoon daily sacrifice was offered, it is acceptable, but one should stir the blood of the Paschal sacrifice until the blood of the daily offering is cast on the altar. Afterwards, the blood of the Paschal sacrifice should be cast after it. If, however, the blood of the Paschal sacrifice is cast before the blood of the daily offering, it is acceptable.",
+              "he": "שְׁחִיטַת הַפֶּסַח אַחַר חֲצוֹת. וְאִם שְׁחָטוֹ קֹדֶם חֲצוֹת פָּסוּל. וְאֵין שׁוֹחֲטִין אוֹתוֹ אֶלָּא אַחַר תָּמִיד שֶׁל בֵּין הָעַרְבַּיִם. אַחַר שֶׁמַּקְטִירִין קְטֹרֶת שֶׁל בֵּין הָעַרְבַּיִם וְאַחַר שֶׁמֵּיטִיבִין אֶת הַנֵּרוֹת מַתְחִילִין לִשְׁחֹט אֶת הַפְּסָחִים עַד סוֹף הַיּוֹם. וְאִם שְׁחָטוֹ אַחַר חֲצוֹת קֹדֶם תָּמִיד שֶׁל בֵּין הָעַרְבַּיִם כָּשֵׁר וְיִהְיֶה אֶחָד מְמָרֵס בְּדַם הַפֶּסַח עַד שֶׁיִּזָּרֵק דַּם הַתָּמִיד וְאַחַר כָּךְ יִזְרֹק דַּם הַפֶּסַח אַחֲרָיו. וְאִם נִזְרַק דַּם הַפֶּסַח קֹדֶם דַּם הַתָּמִיד כָּשֵׁר:",
+              "ref": "Mishneh Torah, Paschal Offering 1:4",
+              "sourceHeRef": "הלכות קרבן פסח א:ד",
+              "sourceRef": "Paschal Offering 1:4"
+            },
+            {
+              "en": "When a Paschal sacrifice was slaughtered with the proper intent on the fourteenth of Nisan before noon, it is unacceptable, because this is not the time of the sacrifice. If it was older than one year and it was slaughtered at the appropriate time for the sake of a Paschal sacrifice and similarly, if one of the other sacrifices were slaughtered for the sake of a Paschal sacrifice, even if it was slaughtered after noon, they are acceptable, but the owners do not fulfill their obligation.",
+              "he": "פֶּסַח שֶׁשְּׁחָטוֹ לִשְׁמוֹ בְּאַרְבָּעָה עָשָׂר קֹדֶם חֲצוֹת פָּסוּל לְפִי שֶׁאֵינוֹ זְמַנּוֹ. עָבְרָה שְׁנָתוֹ וְשָׁחַט בִּזְמַנּוֹ לְשֵׁם פֶּסַח וְכֵן הַשּׁוֹחֵט שְׁאָר זְבָחִים לְשֵׁם פֶּסַח אֲפִלּוּ שְׁחָטָן אַחַר חֲצוֹת הֲרֵי אֵלּוּ כְּשֵׁרִים וְלֹא עָלוּ לַבְּעָלִים לְשֵׁם חוֹבָה:",
+              "ref": "Mishneh Torah, Sacrifices Rendered Unfit 15:12",
+              "sourceHeRef": "הלכות פסולי המוקדשין טו:יב",
+              "sourceRef": "Sacrifices Rendered Unfit 15:12"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ממרס בדמו</strong> - שלא יקרוש כדי שיהא ראוי לזריקה:",
+              "ref": "Rashi on Pesachim 61a:6:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ו:א",
+              "sourceRef": "Rashi on Pesachim 61a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואם נזרק</strong> - קודם לתמיד כשר דאע\"ג דאמרן <span class=\"parenthesized\">(לעיל פסחים ד' נט.)</span> יאוחר דבר שנאמר בו בערב ובין הערבים וגו' לא מיפסיל בהכי:",
+              "ref": "Rashi on Pesachim 61a:6:2",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ו:ב",
+              "sourceRef": "Rashi on Pesachim 61a:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שחטו</b> את הפסח <b>קודם חצות</b> היום — <b>פסול, משום שנאמר \"</b>ושחטו אותו כל קהל עדת ישראל <b>בין הערבים\"</b> (שמות יב, ו). <b>שחטו קודם לתמיד</b> של בין הערבים — <b>כשר, ובלבד שיהא אחד ממרס</b> (בוחש) <b>בדמו</b> למניעת קרישתו <b>עד שיזרק</b> דם קרבן <b>התמיד</b> ואחר כך יזרקו את דם הפסח. <b>ואם נזרק</b> דם הפסח לפני דם התמיד — בכל זאת <b>כשר,</b> שאין שינוי זה פוסל את הקרבן.",
+              "ref": "Steinsaltz on Pesachim 61a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:ו",
+              "sourceRef": "Steinsaltz on Pesachim 61a:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a Paschal lamb is slaughtered for its own purpose before midday on the fourteenth of Nisan, it is disqualified (Rambam <i>Sefer Korbanot</i>,<i> Hilkhot Korban Pesaĥ </i>1:4; <i>Sefer Avoda</i>,<i> Hilkhot Pesulei HaMukdashin </i>15:12).",
+              "he": "שחט את הפסח לשמו לפני חצות יום ארבעה עשר בניסן — פסול. (רמב\"ם ספר קרבנות הלכות קרבן פסח פ\"א ה\"ד. ורמב\"ם ספר עבודה הלכות פסולי המוקדשין פט\"ו הי\"ב).",
+              "ref": "Steinsaltz comment #1 on Pesachim 61a:6",
+              "sourceHeRef": "שְׁחָטוֹ קוֹדֶם חֲצוֹת",
+              "sourceRef": "If one slaughtered the Paschal lamb before midday"
+            },
+            {
+              "en": "If one slaughters the Paschal lamb after the daily afternoon offering has been slaughtered but before its blood has been sprinkled on the altar, one of the priests should stir the blood of the Paschal lamb until the blood of the daily offering has been sprinkled. After that, the priest should sprinkle the blood of the Paschal lamb (Rambam <i>Sefer Korbanot</i>,<i> Hilkhot Korban Pesaĥ </i>1:4).",
+              "he": "שחט את הפסח קודם הקרבת התמיד (וכבר נשחט התמיד אך לא נזרק דמו) — יהא אחד ממרס בדם הפסח עד זריקת דם התמיד, ואחר כך יזרקו את דם הפסח. (רמב\"ם ספר קרבנות הלכות קרבן פסח פ\"א ה\"ד).",
+              "ref": "Steinsaltz comment #2 on Pesachim 61a:6",
+              "sourceHeRef": "שְׁחָטוֹ קוֹדֶם לַתָּמִיד",
+              "sourceRef": "If he slaughtered it before the daily afternoon offering"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "You shall keep watch over it until the fourteenth day of this month; and all the assembled congregation of the Israelites shall slaughter it at twilight.",
+              "he": "וְהָיָ֤ה לָכֶם֙ לְמִשְׁמֶ֔רֶת עַ֣ד אַרְבָּעָ֥ה עָשָׂ֛ר י֖וֹם לַחֹ֣דֶשׁ הַזֶּ֑ה וְשָׁחֲט֣וּ אֹת֗וֹ כֹּ֛ל קְהַ֥ל עֲדַֽת־יִשְׂרָאֵ֖ל בֵּ֥ין הָעַרְבָּֽיִם׃",
+              "link": "/Exodus/12",
+              "ref": "Exodus 12:6",
+              "sourceHeRef": "שמות יב:ו",
+              "sourceRef": "Exodus 12:6"
+            }
+          ]
+        }
+      },
+      "en": "If one <b>slaughtered</b> the Paschal lamb <b>before midday it is disqualified, as it is stated:</b> “And the whole assembly of the congregation of <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"אפי-(ambiguous)\">Israel</span> shall slaughter it <b>in the afternoon”</b> (Exodus 12:6). If he <b>slaughtered it before the daily</b> afternoon <b>offering it is valid, as long as another</b> person <b>stirs its blood</b> in order to prevent it from congealing <b>until the</b> blood of the <b>daily offering is sprinkled. And if</b> the blood of the Paschal lamb <b>is sprinkled</b> before the blood of the daily offering, <b>it is</b> nonetheless <b>valid,</b> as this change does not disqualify the offering.",
+      "he": "שְׁחָטוֹ קוֹדֶם חֲצוֹת — פָּסוּל, מִשּׁוּם שֶׁנֶּאֱמַר ״בֵּין הָעַרְבַּיִם״. שְׁחָטוֹ קוֹדֶם לַתָּמִיד — כָּשֵׁר, וּבִלְבַד שֶׁיְּהֵא אַחֵר מְמָרֵס בְּדָמוֹ עַד שֶׁיִּזָּרֵק הַתָּמִיד. וְאִם נִזְרַק — כָּשֵׁר.",
+      "ref": "Pesachim 61a:6"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים</span> בתוספתא<span class=\"hebrew-emphasis\">]:</span> <b>כיצד שלא לאוכליו?</b> שחטו <b>לשום חולה או לשום זקן</b> שאינם מסוגלים לאכול ממנו אפילו כזית. <b>כיצד שלא למנויו?</b> אם <b>נמנו עליו חבורה זו</b> של אוכלים, <b>ושחטו לשם חבורה אחרת.</b>",
+              "ref": "Steinsaltz on Pesachim 61a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:ז",
+              "sourceRef": "Steinsaltz on Pesachim 61a:7"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כל הקדשים שהקריבן קודם תמיד של שחר, או שעיכבן אחר תמיד של בין הערבים, הרי אילו פסולין, שאין לך קודם לתמיד של שחר אלא קטרת, ואין לך שמתעכב אחר תמיד של בין הערבים, אלא קטרת ופסח בערבי פסחי', ומחוסרי כפרה, כדי שיאכלו בפסחים לערב. ר' ישמעאל בי ר' יוחנן בן ברוקה או' מחוסרי כפרה מביא קרבנותיהן עם תמיד של בין הערבים, כדי שיאכלו בקדשים לערב. שחטו לשמו ומורקו שלא לשמו כשר, מפני שהכשר בשחיטה. כיצד שלא לאוכליו, שחטו לחולה, ולזקן, שאין יכולין לוכל כזית. שלא למנויו, שחטו לבני חבורה אחרת. שחטו למולין ולערלים, לטמאים ולטהורים, כשר. אבא שאול פוסל, והדין נותן שיהא פוסל, הואיל וזמן פוסל, וערלה פוסלת, מה הזמן עשה בו מקצתו ככולו, אף ערלה נעשה בה מקצתה ככולה. או כלך לדרך זו, הואיל וטומאה פוסלת, וערלה פוסלת, מה טומאה לא עשה בה מקצתה ככולה, אף ערלה לא נעשה בה מקצתה ככולה, נראה למי דומה, דנין דבר שנוהג בכל הזבחים מדבר שנוהג בכל הזבחים, ואל יוכיח זמן, שאין נוהג בכל הזבחים. או כלך לדרך זו, דנין דבר שלא הותר מכללו מדבר שלא הותר מכללו, ואל תוכיח טומאה שהותרה מכללה.",
+              "ref": "Tosefta Pesachim (Lieberman) 4:2",
+              "sourceHeRef": "תוספתא פסחים (ליברמן) ד:ב",
+              "sourceRef": "Tosefta Pesachim (Lieberman) 4:2"
+            },
+            {
+              "en": "One who slaughtered [the Passover offering] for its purpose but completed [the rituals associated with the sacrifice] for a different purpose -- it is valid because [a sacrifice] is rendered valid through the slaughter. <i>How is it \"slaughtered for those who cannot eat it\" (Pes. 5:3)?</i> [This applies where] he slaughtered for a sick person or for an elderly person who cannot eat an olive's-bulk. <i>How is it [slaughtered] for \"those who are not registered\" (ibid.)?</i> [This applies where] he slaughtered it for members of a different collective. [If] he slaughtered for [both] circumcised and uncircumcised, or for [both] impure persons and for pure persons, it is valid. Abba Shaul disqualifies it, and it is logical that it should be disqualified, since [a person's unfit status] at the time [of the sacrifice] disqualifies [a sacrifice], and an uncircumcised person is disqualified *and an impure person is disqualified (following the GR\"A). Just as \"the time\" (i.e., where the butcher both intends that sacrifice be eaten in its proper time and not at its proper time, see Minchat Bikkurim) makes it [disqualified under the principle of] \"the part is like the whole,\" so too an uncircumcised person makes it [disqualified under] \"the part is like the whole.\" Or perhaps look at it this way: Since an impure person and an uncircumcised person are disqualified, just as [partial] impurity does not cause [application of the principle] \"the part is like the whole,\" thus so too a [partially] uncircumcised person does not cause [application of the principle] \"the part is like the whole.\" Let us see to what case it is similar: We derive a matter that does not apply to every offering (i.e., lack of circumcision), from a [different] matter that does not apply to every offering (i.e., impurity), and it is proven from \"time,\" which [also] does not apply to all offerings. Or perhaps look at it this way: We derive a matter which does not permit exception to a general prohibition, from a [different] matter which does not permit an exception to a general prohibition, and it is not proven from impurity, which does permit an exception to a general prohibition.",
+              "he": "שחטו לשמו ומירק שלא לשמו כשר מפני שהוכשר בשחיטה כיצד שלא לאוכליו שחטו לחולה ולזקן [שאין] יכולין לאכול כזית כיצד שלא למנוייו [שחטו לבני] חבורה אחרת שחטו למולין ולערלין [ולטמאין ולטהורין] כשר אבא שאול [פוסל] והדין נותן שיהא פסול הואיל [וזמן] פוסל [וערלה פוסלת] מה [הזמן] עשה בו מקצתו ככולו אף ערלה נעשה בה מקצתה ככולה או כלך לדרך זו הואיל [וטומאה] וערלה פוסלת מה טומאה [לא] עשה בה מקצתה ככולה אף ערלה לא נעשה בה מקצתה ככולה נראה למי דומה דנין דבר [שנוהג] בכל הזבחים מדבר [שנוהג] בכל הזבחים ואל יוכיח זמן [שאינו נוהג] בכל הזבחים או כלך לדרך זו דנין דבר שלא הותר מכללו מדבר שלא הותר מכללו ואל תוכיח טומאה [שהותר] מכללה.",
+              "ref": "Tosefta Pesachim 4:3",
+              "sourceHeRef": "תוספתא פסחים ד:ג",
+              "sourceRef": "Tosefta Pesachim 4:3"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b>The Sages taught</b> in the <i>Tosefta</i>: <b>How so</b> the case of slaughtering the Paschal lamb <b>for those who cannot eat it?</b> It is a case where one slaughtered it <b>for the sake of a sick person or for the sake of an old person</b> who is unable to eat even an olive-sized portion of the Paschal lamb. <b>How so</b> the case of slaughtering the Paschal lamb <b>for those who did not register for it?</b> It is a case where <b>one group registered for it, and one slaughtered it for the sake of a different group.</b>",
+      "he": "<big><strong>גְּמָ׳</strong></big> תָּנוּ רַבָּנַן: כֵּיצַד שֶׁלֹּא לְאוֹכְלָיו? לְשׁוּם חוֹלֶה אוֹ לְשׁוּם זָקֵן. כֵּיצַד שֶׁלֹּא לִמְנוּיָו? נִמְנוּ עָלָיו חֲבוּרָה זוֹ, וּשְׁחָטוֹ לְשֵׁם חֲבוּרָה אַחֶרֶת.",
+      "ref": "Pesachim 61a:7",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna teaches that a ritually <b>impure</b> priest is <b>unfit</b> for Temple service and disqualifies rites he performs. <b>The Elders of the South said: They taught</b> this <b>only</b> with regard to one who became <b>impure due to</b> contact with the carcass of <b>a creeping animal. But</b> with regard to a priest who became <b>impure due to</b> contact with <b>a corpse, since he can effect acceptance</b> of his rites <b>for communal</b> offerings <i>ab initio</i> if the majority of the community has contracted impurity from a corpse, <b>he can effect acceptance</b> of his rites <b>for individual</b> offerings <b>as well</b> after the fact.",
+                  "The Gemara asks: <b>If so, let</b> it <b>be derived</b> that <b>one impure due to</b> the carcass of <b>a creeping animal</b> can also effect acceptance for communal offerings in cases of communal impurity <i>ab initio</i>, and for individual offerings after the fact, <b>by <i>a fortiori</i></b> inference <b>from one impure due to a corpse: Just as</b> a priest who is <b>impure due to a corpse, who requires sprinkling</b> of the water containing the ashes of the red heifer on the <b>third and seventh</b> day to be purified, still <b>effects acceptance,</b> then with regard to <b>one</b> who is <b>impure due to</b> the carcass of <b>a creeping animal, who does not require sprinkling</b> on the <b>third and seventh</b> day, <b>is it not right that he</b> should also <b>effect acceptance?</b>",
+                  "The Gemara responds: <b>The Elders of the South hold</b> that the <i>halakha</i> with regard to <b>those who effect atonement</b> is <b>like those who achieve atonement: Just as</b> with regard to <b>those who achieve atonement</b> through communal offerings, i.e., the community, only if a majority is <b>impure due to a corpse may</b> the offering be sacrificed in a state of impurity, but if they are <b>impure due to</b> the carcass of <b>a creeping animal</b> it may <b>not, so too</b> with regard to <b>those who effect atonement,</b> i.e., the priests, if they serve when they are <b>impure due to a corpse, yes,</b> their service achieves atonement, but if they serve when they are <b>impure due to the carcass of a creeping animal,</b> it does <b>not.</b>",
+                  "The response of the Gemara assumes that communal offerings may not be brought when the majority of the community is impure due to a creeping animal. The Gemara therefore asks: <b>What do</b> the Elders of the South <b>hold</b> with regard to the Paschal offering? <b>If they hold</b> that <b>one may not slaughter</b> it <b>nor sprinkle</b> its blood on the altar <b>for</b> an owner who is <b>impure due to a creeping animal,</b> even though he can immerse and become pure in time to eat the offering that night, then one may ask: <b>Why can’t</b> the <b>community perform</b> communal offerings <b>in</b> such a state of <b>impurity? Isn’t</b> it a principle that for <b>any</b> impurity <b>for which an individual</b> may not sacrifice the Paschal offering and <b>is deferred</b> to the second <i>Pesaḥ</i>, the <b>community may perform</b> its offerings <b>in</b> such a state of <b>impurity?</b>",
+                  "<b>Rather, they</b> must <b>hold</b> that <b>one may slaughter</b> the Paschal offering <b>and sprinkle</b> its blood <b>for</b> an owner who is <b>impure due to a creeping animal.</b> Accordingly, the community may not offer the Paschal offering in such a state of impurity.",
+                  "<b>Ulla says: Reish Lakish shouted [<i>teka</i>] to</b> the Elders <b>of the South: But which power is greater</b> to overcome impurity with respect to offerings, <b>the power of those who effect atonement,</b> i.e., the priests, <b>or the power of those who achieve atonement,</b> the offerings’ owners? Since the Elders of the South hold that the Paschal offering may be sacrificed for an owner who is impure due to a creeping animal, while a priest who is similarly impure may not sacrifice any offering, <b>you must say</b> that <b>the power of those who achieve atonement</b> is greater.",
+                  "If so, your initial statement that a priest who contracted impurity from a corpse can effect acceptance for individual offerings can be refuted <i>a fortiori</i>: <b>And just as in a case where</b> the <b>owner became impure due to a creeping animal,</b> he <b>may send his offerings</b> for sacrifice, and yet <b>a priest who became impure due to a creeping animal cannot effect acceptance,</b> then in <b>a case where the owner became impure due to a corpse, where he may not send his offerings</b> for sacrifice, <b>is it not right that a priest who became impure due to a corpse cannot effect acceptance?</b>",
+                  "The Gemara responds: <b>The Elders of the South hold</b> that an owner who is <b>impure due to a corpse may also send his offerings,</b> even though he will not be able to partake of his Paschal offering. Therefore, the <i>a fortiori</i> inference does not stand.",
+                  "The Gemara protests: <b>But isn’t it written: “If any man of you or of your generations shall be impure</b> by reason of a dead body, or be in a journey afar off, <b>he shall perform the Paschal offering</b> to the Lord. <b>In the second month</b> on the fourteenth day at dusk they shall perform it” (Numbers 9:10–11)? Apparently, one impure due to a corpse in the first month must defer his Paschal offering to the second month. The Gemara responds: The verse intends this <b>as a mitzva</b> <i>ab initio</i>. But if he sends his offering in the first month, it is accepted, and he is not required to sacrifice a Paschal offering in the second month.",
+                  "The Gemara asks: <b>But isn’t it written:</b> “And if the household be too little for a lamb, then shall he and his neighbor next to his house take one according to the number of the souls; <b>a man,</b>"
+                ],
+                [
+                  "<b>according to his eating,</b> you shall make your count for the lamb” (Exodus 12:4)? This teaches that one may bring the Paschal offering only if he is able to partake of it. The Gemara responds: This requirement is also meant <b>as a mitzva</b> <i>ab initio</i>; it does not disqualify the offering if not fulfilled.",
+                  "The Gemara asks: <b>And</b> is this requirement <b>not indispensable</b> even after the fact? <b>But isn’t it taught</b> in a <i>baraita</i> that the phrase <b>“according to the number of the souls” teaches that the Paschal offering may be slaughtered only for those who registered for it</b> in advance. If the Paschal offering was <b>slaughtered for</b> individuals <b>who did not register for it,</b> one <b>might</b> have thought that <b>it would</b> only <b>be like transgressing a mitzva,</b> but the offering would not be disqualified. Therefore, <b>the verse states: “You shall make your count”; the verse repeats</b> the issue of counting <b>to</b> stress that the <i>halakha</i> is <b>indispensable,</b> and if one slaughters the offering for one who is not registered, it is disqualified. The Gemara concludes: <b>And those who eat</b> the offering <b>are juxtaposed to those registered</b> for it, as the verse states: “According to the number of the souls; a man, according to his eating.” Accordingly, if one slaughters the Paschal offering for one who cannot partake of it, the offering is disqualified.",
+                  "The Gemara responds: <b>The Elders of the South do not juxtapose</b> the phrases, i.e., they do not interpret the verse’s juxtaposition of the two phrases as significant. The Gemara asks: <b>But even if they do not juxtapose</b> the phrases, <b>there is a refutation to</b> their statement <b>from this</b> inference <b>as well: And just as in a case where the owner became impure due to a creeping animal, where he may send his offerings</b> for sacrifice <b><i>ab initio</i>, a priest who became impure due to a creeping animal</b> nevertheless <b>cannot effect acceptance,</b> then in <b>a case where the owner became impure due to a corpse, where he may not send his offerings <i>ab initio</i>, is it not right that a priest who became impure due to a corpse cannot effect acceptance?</b>",
+                  "Furthermore, the Gemara <b>raises an objection</b> from a mishna (<i>Pesaḥim</i> 80b): <b>As</b> the Sages <b>said</b> that with regard to <b>a nazirite and one who performs</b> the rite of the <b>Paschal offering, the frontplate effects acceptance for</b> offerings sacrificed in a state of <b>impurity of</b> the <b>blood, but the frontplate does not effect acceptance for</b> offerings sacrificed in a state of <b>impurity of the body</b> of the individual bringing it.",
+                  "The Gemara continues: <b>To what</b> impurity is it referring? <b>If we say</b> that it is referring <b>to impurity due to a creeping animal, didn’t you say</b> above that according to the Elders of the South, <b>one may slaughter</b> the Paschal offering <b>and sprinkle</b> its blood <b>for</b> an owner who is in a state of <b>impurity due to a creeping animal? Rather,</b> it must be referring to <b>impurity due to a corpse, and</b> the mishna <b>teaches: The frontplate does not effect acceptance. Evidently,</b> if the <b>owner became impure due to a corpse, he may not send his offerings</b> for sacrifice, contrary to the opinion ascribed to the Elders of the South.",
+                  "The Gemara responds: <b>No, if the owner became impure due to a corpse,</b> the frontplate <b>indeed</b> effects acceptance for the offering. The mishna is not referring to the owners of the offerings at all; rather, <b>here we are dealing with</b> a case <b>where</b> the officiating <b>priest became impure due to a creeping animal.</b>",
+                  "The Gemara asks: <b>If so, say the latter clause</b> of the mishna: If it became known after the offering was brought that he had <b>contracted ritual impurity</b> imparted <b>in the depths,</b> i.e., a source of impurity that had been unknown at the time, <b>the frontplate effects acceptance</b> for the offering. This clause cannot be reconciled with the suggested interpretation of the mishna, since <b>Rabbi Ḥiyya teaches: They stated</b> this <i>halakha</i> of <b>impurity</b> imparted <b>in the depths only with regard to</b> impurity due to <b>a corpse.</b> Now, when he says that it applies only <b>to</b> impurity due to <b>a corpse,</b> he means <b>to exclude what?</b> Does he <b>not</b> mean <b>to exclude impurity</b> imparted by the carcass of <b>a creeping animal in the depths?</b> If so, the mishna cannot be referring to impurity due to a creeping animal.",
+                  "The Gemara responds: <b>No,</b> Rabbi Ḥiyya means <b>to exclude impurity</b> imparted <b>by</b> a gonorrhea-like <b>discharge [<i>ziva</i>] in the depths.</b> Impurity due to the corpse of a creeping animal, by contrast, is within the scope of the mishna.",
+                  "The Gemara asks: <b>But</b> how is one to understand <b>this dilemma that Rami bar Ḥama raises:</b> With regard to <b>a priest who effects acceptance for the offerings of</b> the nazirite and the Paschal offering, <b>was impurity</b> imparted <b>in the depths permitted for him or was impurity</b> imparted <b>in the depths not permitted for him?</b> According to the Elders of the South, why not <b>resolve</b> the dilemma and conclude <b>that impurity</b> imparted <b>in the depths was permitted for him, since</b> they hold that <b>we interpret</b> the mishna <b>here</b> as referring <b>to</b> an impure <b>priest?</b>",
+                  "The Gemara responds: The premise of this dilemma <b>of Rami bar Ḥama certainly disagrees</b> with the opinion of the Elders of the South, and Rami bar Ḥama does not interpret the mishna in this manner.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> a proof from a verse written about the frontplate: “And it shall be upon Aaron’s forehead, <b>and Aaron shall bear the sin committed with the sacred</b> items, which the children of Israel shall consecrate, even all their sacred gifts; and it shall be always upon his forehead, that they may be accepted before God” (Exodus 28:38). <b>And</b> the Sages expounded: <b>Which sin does</b> Aaron <b>bear?</b>"
+                ],
+                [
+                  "<b>If</b> the verse means that he bears <b>the sin of <i>piggul</i>, it is already stated:</b> “And if any of the flesh of his peace offerings be at all eaten on the third day, it shall not be accepted, <b>neither shall it be credited</b> to he who offers it” (Leviticus 7:18). <b>If</b> he bears <b>the sin of <i>notar</i>, it is already stated</b> in the same verse: <b>“It shall not be accepted.”</b>",
+                  "Rather, the frontplate <b>bears only the sin of impurity, whose general prohibition was permitted in</b> cases involving <b>the pub-lic.</b> The verse indicates that the frontplate effects acceptance for individual offerings sacrificed in a state of ritual impurity.",
+                  "The Gemara clarifies: <b>What</b> is the <b>impurity</b> borne by the frontplate? <b>If we say</b> that it effects acceptance <b>for impurity due to a creeping animal, where</b> does one find that the general prohibition was <b>permitted</b> in cases involving the public? <b>Rather,</b> it must be referring to <b>impurity due to a corpse. And</b> is it <b>not</b> referring to a case <b>where the owner</b> of the offerings <b>became impure from a corpse? Evidently,</b> if <b>the owner became impure from a corpse, he may send his offerings</b> for sacrifice, as the frontplate effects acceptance for them.",
+                  "<b>And to what</b> offering is this statement referring? <b>If</b> it is referring <b>to</b> the offering of <b>a nazirite,</b> doesn’t <b>the Merciful One state: “And if any man die</b> very suddenly <b>beside him,</b> and he defile his consecrated head” (Numbers 6:9)? The passage indicates that even if a nazirite contracts impurity against his will, he still cannot bring his offerings until he is pure. <b>Rather,</b> it must be referring <b>to one who performs</b> the rite of the <b>Paschal offering.</b> This proves the claim of the Elders of the South that one who is impure due to a corpse may send his Paschal offering for sacrifice.",
+                  "The Gemara responds: <b>Actually,</b> the statement is referring <b>to</b> impurity due to <b>a creeping animal,</b> not due to a corpse. <b>And</b> although the general prohibition with regard to impurity due to a creeping animal was not permitted in cases involving the public, nevertheless, one finds that <b>the category of impurity in general</b> was permitted in such cases.",
+                  "The Gemara notes: <b>And some infer</b> the opposite <b>and derive like this:</b> The verse states of the frontplate: “And it shall be upon Aaron’s forehead, and Aaron shall bear the sin committed with the sacred items” (Exodus 28:38). That is, it <b>does</b> bear <b>the iniquity of the sacred items,</b> but it does <b>not</b> bear <b>the iniquity of those who consecrate</b> or sacrifice them, i.e., the owners of the offering or the priests involved in its sacrifice. And to <b>what impurity</b> is this verse referring? <b>If we say</b> that it is referring to <b>impurity</b> due to <b>a creeping animal, is</b> such impurity <b>permitted in</b> cases involving the <b>public? Rather, is it not</b> referring to <b>impurity</b> due to <b>a corpse, and</b> the verse indicates that the frontplate <b>does</b> bear <b>the iniquity of</b> the <b>sacred items</b> but does <b>not</b> bear <b>the iniquity of those who consecrate</b> them? This refutes the opinion of the Elders of the South that owners who are impure due to a corpse may send their offerings.",
+                  "The Gemara responds: <b>Actually,</b> the verse is referring to <b>impurity due to a creeping animal, and</b> although the general prohibition with regard to impurity due to a creeping animal was not permitted in cases involving the public, <b>the category of impurity in general</b> was permitted in such cases."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Zevachim 22b:7",
+                "Zevachim 22b:8",
+                "Zevachim 22b:9",
+                "Zevachim 22b:10",
+                "Zevachim 22b:11",
+                "Zevachim 22b:12",
+                "Zevachim 22b:13",
+                "Zevachim 22b:14",
+                "Zevachim 22b:15",
+                "Zevachim 22b:16",
+                "Zevachim 23a:1",
+                "Zevachim 23a:2",
+                "Zevachim 23a:3",
+                "Zevachim 23a:4",
+                "Zevachim 23a:5",
+                "Zevachim 23a:6",
+                "Zevachim 23a:7",
+                "Zevachim 23a:8",
+                "Zevachim 23a:9",
+                "Zevachim 23a:10",
+                "Zevachim 23a:11",
+                "Zevachim 23b:1",
+                "Zevachim 23b:2",
+                "Zevachim 23b:3",
+                "Zevachim 23b:4",
+                "Zevachim 23b:5",
+                "Zevachim 23b:6",
+                "Zevachim 23b:7"
+              ],
+              "he": [
+                [
+                  "טמא פסול: אמרו זקני דרום לא שנו אלא טמא שרץ אבל טמא מת מתוך שמרצה בציבור מרצה נמי ביחיד",
+                  "אי הכי טמא שרץ נמי ליתי בקל וחומר מטמא מת מה טמא מת שטעון הזאה שלישי ושביעי מרצה טמא שרץ שאינו טעון הזאה ג' ושביעי אינו דין שמרצה",
+                  "קסברי זקני דרום מכפרין כמתכפרין מה מתכפרין טמא מת אין טמא שרץ לא אף מכפרין טמא מת אין טמא שרץ לא",
+                  "מאי קסברי אי קסברי אין שוחטין וזורקין על טמא שרץ אמאי לא עבדי ציבור בטומאה הא כל שביחיד נדחה ציבור עבדי בטומאה",
+                  "אלא קסברי שוחטין וזורקין על טמא שרץ",
+                  "אמר עולא תקע להו ר\"ל לדרומאי וכי איזה כח מרובה כח מכפרין או כח מתכפרין הוי אומר כח מתכפרין",
+                  "ומה במקום שנטמאו בעלים בשרץ משלחין קרבנותיהן כהן שנטמא בשרץ אינו מרצה מקום שנטמאו בעלים במת שאין משלחין קרבנותיהן כהן שנטמא במת אינו דין שאינו מרצה",
+                  "קסברי זקני דרום טמא מת [נמי] משלח קרבנותיו",
+                  "והכתיב <span class=\"parenthesized\">(במדבר ט, י)</span> איש איש כי יהיה טמא ועשה פסח בחדש השני וגו' למצוה",
+                  "והא כתיב <span class=\"parenthesized\">(שמות יב, ד)</span> איש"
+                ],
+                [
+                  "לפי אכלו למצוה",
+                  "ולעכובי לא והתניא <span class=\"parenthesized\">(שמות יב, ד)</span> במכסת נפשות מלמד שאין הפסח נשחט אלא למנוייו שחטו שלא למנוייו יכול יהא כעובר על המצוה תלמוד לומר תכוסו הכתוב שנה עליו לעכב ואיתקש אוכלין למנויין",
+                  "זקני דרום לא מקשי וכי לא מקשי נמי מהא נמי אית להו פירכא ומה במקום שנטמאו בעלים בשרץ שמשלחין קרבנותיהם לכתחילה כהן שנטמא בשרץ אינו מרצה מקום שנטמאו בעלים במת שאין משלחין קרבנותיהן לכתחילה כהן שנטמא במת אינו דין שאינו מרצה",
+                  "מיתיבי מפני שאמרו נזיר ועושה פסח הציץ מרצה על טומאת דם ואין הציץ מרצה על טומאת הגוף",
+                  "במאי אילימא בטומאת שרץ האמרת שוחטין וזורקין על טומאת שרץ אלא טומאת מת וקתני אין הציץ מרצה אלמא נטמאו בעלים במת אין משלחין קרבנותיהם",
+                  "לא אי דאיטמו בעלים במת ה\"נ הכא במאי עסקינן כגון שנטמא כהן בשרץ",
+                  "אי הכי אימא סיפא ניטמא טומאת התהום הציץ מרצה הא תני רבי חייא לא אמרו טומאת התהום אלא למת בלבד למת למעוטי מאי לאו למעוטי טומאת התהום דשרץ",
+                  "לא למעוטי טומאת התהום דזיבה",
+                  "ואלא הא דבעי רמי בר חמא כהן המרצה בקרבנותיהם הותרה לו טומא' התהום או לא הותרה לו טומאת התהום תפשוט דטומאת התהום הותרה לו דהא הכא בכהן קיימינא",
+                  "דרמי בר חמא ודאי פליגי",
+                  "תא שמע <span class=\"parenthesized\">(שמות כח, לח)</span> ונשא אהרן את עון הקדשי' וכי איזהו עון נושא"
+                ],
+                [
+                  "אם עון פיגול הרי כבר נאמר <span class=\"parenthesized\">(ויקרא ז, יח)</span> לא יחשב אם עון נותר הרי כבר נאמר <span class=\"parenthesized\">(ויקרא ז, יח)</span> לא ירצה",
+                  "הא אינו נושא אלא עון טומאה שהותרה מכללה בצבור",
+                  "מאי טומאה אילימא מטומאת שרץ היכא אישתרי אלא טומאת מת ולאו כגון שנטמאו בעלים במת אלמא נטמאו בעלים במת משלחין קרבנותיהן",
+                  "ובמאי אי בנזיר <span class=\"parenthesized\">(במדבר ו, ט)</span> וכי ימות מת עליו אמר רחמנא אלא לעושה פסח <span class=\"parenthesized\">(ולאו כגון שנטמאו בעלים במת)</span>",
+                  "לעולם בשרץ ושם טומאה בעולם",
+                  "ואיכא דדייק ומייתי הכי עון הקדשים אין עון מקדישין לא מאי טומאה אילימא טומאת שרץ מי אישתריא בציבור אלא לאו טומאת מת ועון קדשים אין עון מקדישים לא",
+                  "לעולם טומאת שרץ ושם טומאה בעולם:"
+                ]
+              ],
+              "link": "/Zevachim/23a",
+              "originalRefsBeforeRewriting": [
+                "Zevachim 23a:2"
+              ],
+              "ref": "Zevachim 22b:7-23b:7",
+              "sourceHeRef": "זבחים כ״ג א",
+              "sourceRef": "Zevachim 23a"
+            },
+            {
+              "en": [
+                "<strong>GEMARA:</strong> <b>Rav Giddel said</b> that <b>Rav said: If one sprinkled</b> the blood despite the fact that the meat was ritually impure, <b>it was</b> nonetheless <b>accepted;</b> one is not obligated to observe the second <i>Pesaḥ</i>. The Gemara asks: <b>Don’t we require</b> that the Paschal lamb be <b>eaten,</b> which could not occur in this case? The Gemara answers: Failure to engage in <b>eating</b> the offering <b>does not preclude</b> it from being accepted.",
+                "The Gemara asks: <b>Isn’t it written:</b> “And if the household be too little for a lamb, then he and his neighbor who is close to his house shall take one according to the number of the souls; <b>according to every man’s eating</b> you shall make your count for the lamb” (Exodus 12:4)? This indicates that the Torah requires one to eat the Paschal lamb. The Gemara responds: This verse is stated <b>as a mitzva</b> only. It should be fulfilled, but it does not preclude acceptance of the offering.",
+                "The Gemara asks: <b>And</b> was it <b>not</b> stated <b>to preclude</b> acceptance of the offering if it cannot be eaten? <b>Wasn’t it taught</b> in a <i>baraita</i>: <b>“According to the number of</b> the souls”; this <b>teaches that the Paschal lamb is slaughtered only for those who have registered for it</b> and have thereby included themselves in advance in the number of the souls? I <b>might</b> have thought that if <b>one slaughtered it for those who have not registered for it, he is</b> merely <b>like one who violates a mitzva,</b> but the offering is still <b>valid</b> after the fact. Therefore, <b>the verse states: “According to every man’s eating you shall make your count”; the verse repeated</b> that the Paschal lamb is eaten only by those registered in order <b>to</b> underscore that failure to register <b>precludes</b> the offering from being valid.",
+                "<b>And those who</b> are able to <b>eat</b> the offering, as opposed to the sick or elderly who are unable to eat it, <b>are juxtaposed</b> in the verse <b>to those who registered.</b> Therefore, just as a Paschal lamb is disqualified if it is slaughtered for those who did not register for it, it is disqualified if it cannot be eaten. This poses a difficulty for the opinion of Rav.",
+                "The Gemara answers: <b>Rather, Rav said</b> his statement <b>in accordance with</b> the opinion of <b>Rabbi Natan, who said</b> that failure to engage in <b>eating the Paschal lamb does not preclude</b> one from fulfilling one’s obligation to bring the offering, as the eating is a separate mitzva.",
+                "The Gemara asks: <b>Which</b> statement of <b>Rabbi Natan</b> is this referring to? <b>If we say</b> it is <b>this</b> statement of <b>Rabbi Natan, as it was taught</b> in a <i>baraita</i> that <b>Rabbi Natan says: From where</b> is it derived <b>that all Jews</b> may <b>fulfill</b> their obligation after the fact <b>with one Paschal lamb? The verse states: “And the whole assembly of the congregation of Israel shall slaughter it in the afternoon”</b> (Exodus 12:6). He asked: <b>And does the entire assembly slaughter</b> it? Is it a mitzva for each individual to slaughter his own Paschal lamb? <b>Is it not</b> true that <b>only one</b> person <b>slaughters</b> for the entire group? <b>Rather,</b> this formulation of the verse <b>teaches that all Jews</b> may <b>fulfill their obligation with one Paschal lamb.</b> It is considered as though they all slaughtered it and fulfilled their obligation, although they cannot all eat an olive-bulk of the offering.",
+                "The Gemara responds that this is not comparable to the case at hand: <b>Perhaps it is different there, as, if these withdraw</b> from the offering, <b>it is fit for those, and if those withdraw it is fit for these.</b> Although it is impossible for all Jews to partake of the same offering, the offering is fit for each individual, who could eat an olive-bulk of it if enough other people would withdraw.",
+                "<b>Rather,</b> it is <b>this</b> statement of <b>Rabbi Natan, as it was taught</b> in a <i>baraita</i>: If <b>one group registered for</b> a Paschal lamb <b>and then another group registered for it,</b> and there was not enough meat to allow each person to eat an olive-bulk, <b>the first ones, who have an olive-bulk</b> of the Paschal lamb for each person, <b>eat and are exempt from performing</b> the ritual of the Paschal lamb on <b>the second <i>Pesaḥ</i>; the latter ones, who do not have an olive-bulk</b> available from the Paschal lamb for each person, <b>do not eat and are obligated to perform</b> the ritual of the Paschal lamb on <b>the second <i>Pesaḥ</i>.</b>",
+                "<b>Rabbi Natan says:</b> Both <b>these and those are exempt from performing</b> the ritual of the Paschal lamb on <b>the second <i>Pesaḥ</i>, as the blood has already been sprinkled.</b> Therefore, they have all fulfilled their obligation. This indicates that, according to the opinion of Rabbi Natan, eating is not essential.",
+                "The Gemara responds that one can <b>still</b> ask: <b>Perhaps it is different there, as, if these</b> members of the first group <b>withdraw, it is fit for</b> the members of the second group. The Gemara rejects the question: <b>If so, let it teach</b> that the second group is exempt from the second <i>Pesaḥ</i> <b>since</b> the members of the first group <b>are fit to withdraw. What</b> is the reason for the statement of the <i>baraita</i> that <b>the blood has already been sprinkled? Learn from this that the matter depends on the blood, but</b> failure to engage in <b>eating</b> the Paschal lamb <b>does not preclude</b> one from fulfilling his obligation.",
+                "The Gemara asks: <b>What compelled Rav to establish the mishna</b> as teaching that the blood may not be sprinkled on the altar <b><i>ab initio</i>,</b> in accordance with the opinion of <b>Rabbi Natan? Let us establish</b> the mishna in accordance with the view of <b>the Rabbis and</b> say that <b>even after the fact, no,</b> one does not fulfill his obligation. The Gemara answers: <b>Rav had difficulty with the mishna: Why does it teach</b> that <b>one</b> may <b>not sprinkle the blood? It should teach that</b> the offering <b>is disqualified. Rather, learn from this</b> use of language that <b>one</b> may <b>not sprinkle</b> the blood on the altar <b><i>ab initio</i>, but after the fact it seems well.</b>",
+                "The Gemara asks: <b>And according to</b> the opinion of <b>Rabbi Natan, why do I</b> need the phrase <b>“according to every man’s eating,”</b> if it does not teach that the eating is essential? The Gemara answers: It is necessary, even according to the opinion of Rabbi Natan, to teach <b>that we require a person who is fit for eating.</b> Although it is possible to fulfill one’s obligation without actually eating the Paschal lamb, if one is physically unable to eat some of it, e.g., one who is sick or elderly, he does not fulfill his obligation."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Pesachim 78b:5",
+                "Pesachim 78b:6",
+                "Pesachim 78b:7",
+                "Pesachim 78b:8",
+                "Pesachim 78b:9",
+                "Pesachim 78b:10",
+                "Pesachim 78b:11",
+                "Pesachim 78b:12",
+                "Pesachim 78b:13",
+                "Pesachim 78b:14",
+                "Pesachim 78b:15",
+                "Pesachim 78b:16"
+              ],
+              "he": [
+                "<big><strong>גְּמָ׳</strong></big> אָמַר רַב גִּידֵּל אָמַר רַב: אִם זָרַק — הוּרְצָה. וְהָא בָּעֵינַן אֲכִילָה! אֲכִילָה לָא מְעַכְּבָא.",
+                "וְהָא כְּתִיב: ״אִישׁ לְפִי אׇכְלוֹ״?! לְמִצְוָה.",
+                "וּלְעַכֵּב לָא? וְהָתַנְיָא: ״בְּמִכְסַת״, מְלַמֵּד שֶׁאֵין הַפֶּסַח נִשְׁחָט אֶלָּא לִמְנוּיָו. יָכוֹל שְׁחָטוֹ שֶׁלֹּא לִמְנוּיָו יְהֵא כְּעוֹבֵר עַל הַמִּצְוָה וְכָשֵׁר — תַּלְמוּד לוֹמַר: ״אִישׁ לְפִי אׇכְלוֹ תָּכֹסּוּ״, הַכָּתוּב שָׁנָה עָלָיו לְעַכֵּב.",
+                "וְאִיתַּקַּשׁ אוֹכְלִין לִמְנוּיִין.",
+                "אֶלָּא רַב דְּאָמַר כְּרַבִּי נָתָן, דְּאָמַר: אֲכִילַת פְּסָחִים לָא מְעַכְּבָא.",
+                "הֵי רַבִּי נָתָן? אִילֵּימָא הָא רַבִּי נָתָן דְּתַנְיָא, רַבִּי נָתָן אוֹמֵר: מִנַּיִן שֶׁכׇּל יִשְׂרָאֵל יוֹצְאִין בְּפֶסַח אֶחָד — תַּלְמוּד לוֹמַר: ״וְשָׁחֲטוּ אֹתוֹ כֹּל קְהַל עֲדַת יִשְׂרָאֵל בֵּין הָעַרְבָּיִם״, וְכִי כָּל הַקָּהָל שׁוֹחֲטִין? וַהֲלֹא אֵין שׁוֹחֵט אֶלָּא אֶחָד! אֶלָּא מְלַמֵּד שֶׁכׇּל יִשְׂרָאֵל יוֹצְאִין בְּפֶסַח אֶחָד.",
+                "דִּילְמָא שָׁאנֵי הָתָם, דְּאִי מִמַּשְׁכִי הָנֵי חֲזֵי לְהָנֵי, וְאִי מִמַּשְׁכִי הָנֵי חֲזֵי לְהָנֵי!",
+                "אֶלָּא, הָא רַבִּי נָתָן דְּתַנְיָא: נִמְנוּ עָלָיו חֲבוּרָה אַחַת, וְחָזְרוּ וְנִמְנוּ עָלָיו חֲבוּרָה אַחֶרֶת, רִאשׁוֹנִים שֶׁיֵּשׁ לָהֶן כְּזַיִת, אוֹכְלִין — וּפְטוּרִין מִלַּעֲשׂוֹת פֶּסַח שֵׁנִי, אַחֲרוֹנִים שֶׁאֵין לָהֶם כַּזַּיִת, אֵין אוֹכְלִין — וְחַיָּיבִין לַעֲשׂוֹת פֶּסַח שֵׁנִי.",
+                "רַבִּי נָתָן אוֹמֵר: אֵלּוּ וְאֵלּוּ פְּטוּרִין מִלַּעֲשׂוֹת פֶּסַח שֵׁנִי, שֶׁכְּבָר נִזְרַק הַדָּם.",
+                "אַכַּתִּי: דִּילְמָא שָׁאנֵי הָתָם, דְּאִי מִמַּשְׁכִי הָנֵי חֲזֵי לְהוּ. אִם כֵּן, לִיתְנֵי: הוֹאִיל וּרְאוּיִים לִימָּשֵׁךְ, מַאי ״שֶׁכְּבָר נִזְרַק הַדָּם״? שְׁמַע מִינַּהּ בְּדָם תַּלְיָא מִילְּתָא, אֲבָל אֲכִילָה לָא מְעַכְּבָא.",
+                "מַאי דּוּחְקֵיהּ דְּרַב דְּמוֹקֵים לַהּ מַתְנִיתִין לְכַתְּחִלָּה, וְרַבִּי נָתָן? נוֹקְמַהּ כְּרַבָּנַן, וַאֲפִילּוּ דִּיעֲבַד נָמֵי לָא! רַב מַתְנִיתִין קְשִׁיתֵיהּ: אַמַּאי <span class=\"parenthesized\">(תָּנֵי)</span> ״אֵין זוֹרֵק אֶת הַדָּם״? לִיתְנֵי ״פָּסוּל״. אֶלָּא שְׁמַע מִינַּהּ: ״אֵין זוֹרֵק״ — לְכַתְּחִלָּה, אֲבָל דִּיעֲבַד שַׁפִּיר דָּמֵי.",
+                "וּלְרַבִּי נָתָן, ״אִישׁ לְפִי אׇכְלוֹ״ לְמָה לִי? דְּבָעֵינַן גַּבְרָא דַּחֲזֵי לַאֲכִילָה."
+              ],
+              "link": "/Pesachim/78b",
+              "originalRefsBeforeRewriting": [
+                "Pesachim 78b:7"
+              ],
+              "ref": "Pesachim 78b:5-16",
+              "sourceHeRef": "פסחים ע״ח ב",
+              "sourceRef": "Pesachim 78b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The Paschal sacrifice should be slaughtered only for the sake of those who were enumerated for partaking of it, as Exodus 13:4 states: \"Everyone... should be enumerated on the lamb.\" The implication is that one should be enumerated on it while it is alive. Those enumerated on a Paschal sacrifice are referred to as \"the members of the company.\"",
+              "he": "אֵין שׁוֹחֲטִין אֶת הַפֶּסַח אֶלָּא לִמְנוּיָיו שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(שמות יב ד)</span> \"תָּכֹסּוּ עַל הַשֶּׂה\" מְלַמֵּד שֶׁמִּתְמַנִּים עָלָיו כְּשֶׁהוּא חַי. וְאֵלּוּ הַמִּתְמַנִּים עַל הַפֶּסַח הֵם הַנִּקְרָאִים בְּנֵי חֲבוּרָה:",
+              "ref": "Mishneh Torah, Paschal Offering 2:1",
+              "sourceHeRef": "הלכות קרבן פסח ב:א",
+              "sourceRef": "Paschal Offering 2:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "the priest shall compute for him the proportionate assessment up to the jubilee year, and he shall pay the assessment as of that day, a sacred donation to the L<small>ORD</small>.",
+                      "he": "וְחִשַּׁב־ל֣וֹ הַכֹּהֵ֗ן אֵ֚ת מִכְסַ֣ת הָֽעֶרְכְּךָ֔ עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְנָתַ֤ן אֶת־הָעֶרְכְּךָ֙ בַּיּ֣וֹם הַה֔וּא קֹ֖דֶשׁ לַיהֹוָֽה׃",
+                      "link": "/Leviticus/27",
+                      "ref": "Leviticus 27:23",
+                      "sourceHeRef": "ויקרא כז:כג",
+                      "sourceRef": "Leviticus 27:23"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מכסת</strong> - לשון מנויין כמו את מכסת הערכך <span class=\"parenthesized\">(ויקרא כ״ז:כ״ג)</span>:",
+              "ref": "Rashi on Pesachim 61a:8:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:ח:א",
+              "sourceRef": "Rashi on Pesachim 61a:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: הלכה זו שאינה כתובה במפורש בתורה <b>מנהני מילי</b> <span class=\"hebrew-emphasis\">[מנין דברים אלה]?</span> ומביאים ממה <b>דתנו רבנן</b> <span class=\"hebrew-emphasis\">[ששנו חכמים]</span> על הכתוב \"ואם ימעט הבית מהיות משה ולקח הוא ושכנו הקרוב אל ביתו, במכסת נפשות איש לפי אכלו תכוסו על השה\" (שמות יב, ד), ואמרו: <b>\"במכסת\" — מלמד שאין הפסח נשחט אלא למנויו</b> שהכל נעשה לפי מכסת = מנין הנפשות שנמנו עליו לפני שחיטה,",
+              "ref": "Steinsaltz on Pesachim 61a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:ח",
+              "sourceRef": "Steinsaltz on Pesachim 61a:8"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But if the household is too small for a lamb, let him share one with a neighbor who dwells nearby, in proportion to the number of persons: you shall contribute for the lamb according to what each household will eat.",
+              "he": "וְאִם־יִמְעַ֣ט הַבַּ֘יִת֮ מִהְי֣וֹת מִשֶּׂה֒ וְלָקַ֣ח ה֗וּא וּשְׁכֵנ֛וֹ הַקָּרֹ֥ב אֶל־בֵּית֖וֹ בְּמִכְסַ֣ת נְפָשֹׁ֑ת אִ֚ישׁ לְפִ֣י אׇכְל֔וֹ תָּכֹ֖סּוּ עַל־הַשֶּֽׂה׃",
+              "link": "/Exodus/12",
+              "ref": "Exodus 12:4",
+              "sourceHeRef": "שמות יב:ד",
+              "sourceRef": "Exodus 12:4"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>From where are these matters,</b> which are not explicitly written in the Torah, derived? The Gemara answers: <b>As the Sages taught</b> with regard to the verse: “And if the household be too little for a lamb, then he and his neighbor who is close to his house shall take one according to the number of the souls; according to every man’s eating you shall make your count for the lamb” (Exodus 12:4). <b>“According to the number of” teaches that the Paschal lamb is slaughtered only for those who have registered for it.</b> Everything is done according to the number of people who have registered before the slaughtering.",
+      "he": "מְנָהָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן: ״בְּמִכְסַת״ — מְלַמֵּד שֶׁאֵין הַפֶּסַח נִשְׁחָט אֶלָּא לִמְנוּיָו,",
+      "ref": "Pesachim 61a:8"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>יכול</b> שאם <b>שחטו שלא למנויו יהא כעובר על המצוה</b> ובכל זאת יהא <b>כשר</b> בדיעבד — <b>תלמוד לומר</b> מן ההכפלה בלשון שנאמר שם פעמיים גם <b>\"במכסת\"</b> וגם <b>\"תכסו\", הכתוב</b> חזר ו<b>שנה עליו</b> כדי <b>לעכב.</b>",
+              "ref": "Steinsaltz on Pesachim 61a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:ט",
+              "sourceRef": "Steinsaltz on Pesachim 61a:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The halakhic midrash concerning offerings differs in various ways from the halakhic midrash concerning other issues. In other areas of <i>halakha</i>, if the Torah teaches a particular law, it is presumed that this requirement is indispensable, and one does not fulfill one’s obligation without it. With regard to the laws of offerings, however, this is not the case. There, repetition is an indication of the indispensability of the law. Indeed, if a verse states a requirement only once, it is often interpreted as referring only to the <i>ab initio</i> performance. If one did not follow a <i>halakha</i> of that sort, “He would be as one who violated the command; and the offering is still valid.” Consequently, it is necessary to emphasize that a requirement is indispensable and that if it is not followed, the offering is disqualified. At times, this is taught by repeating a particular term. On other occasions, it is taught through use of certain key words, such as: Statute, this, and others.",
+              "he": "בכמה וכמה דברים נשתנו מדרשי ההלכה העוסקים בתורת הקרבנות ממדרשי ההלכה שבנושאים אחרים; ואחד מהם הוא ענין \"שנה לעכב\". כי בשאר הענינים, אם כתוב בתורה לעשות דבר מסויים, ממילא ברור שכל שאינו עושה כן עובר על המצוה ולא יצא ידי חובה. ואינו כן בדיני הקרבנות, שפעמים רבות אם כתוב רק מקרא אחד אומרים אנו כי אינו אלא מצוה בלבד, לכתחילה, אבל אם לא עשה כן \"יהא כעובר על המצוה וכשר\". ויש צורך בהוראה מיוחדת לומר כי הכתוב בא גם לעכב, כלומר שאם לא נעשה הדבר בדרך זו — נפסל. ופעמים שלמדים \"עיכוב\" על ידי החזרה על אותו מלים, ופעמים שלמדים \"עיכוב\" על ידי מלות מפתח מיוחדות (\"חוקה\" \"זאת\" ועוד).",
+              "ref": "Steinsaltz comment #1 on Pesachim 61a:9",
+              "sourceHeRef": "הַכָּתוּב שָׁנָה עָלָיו לְעַכֵּב",
+              "sourceRef": "The verse repeated it to make it indispensable"
+            }
+          ]
+        }
+      },
+      "en": "I <b>might</b> have thought that if <b>he slaughtered it for those who did not register for it, he would be</b> considered <b>as one who has violated a commandment,</b> but nonetheless the offering would be <b>valid</b> after the fact. Therefore, <b>the Torah teaches</b> this law with the double formulation of <b>“according to the number”</b> and <b>“you shall make your count”; the verse repeated it to make</b> this requirement <b>indispensable,</b> so that the offering is disqualified if it is slaughtered for those who did not register for it.",
+      "he": "יָכוֹל שְׁחָטוֹ שֶׁלֹּא לִמְנוּיָו יְהֵא כְּעוֹבֵר עַל הַמִּצְוָה וְכָשֵׁר — תַּלְמוּד לוֹמַר: ״בְּמִכְסַת ... תָּכֹסּוּ״, הַכָּתוּב שָׁנָה עָלָיו לְעַכֵּב.",
+      "ref": "Pesachim 61a:9"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">סוּרְסִי</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, סָרַס I 1\" dir=\"rtl\" href=\"/Jastrow,_סָרַס I.1\">סָרַס</span>) <br><b>1)</b> (compare meanings of ἀπόκοπος and ἀποκοπή) [<i>castrated</i>,] <span dir=\"rtl\">לשון ס׳</span> <i>aphæresis, dropping of a radical letter</i>. Mekhilta Bo, section (Parashah) 3; <span class=\"refLink\" data-ref=\"Pesachim 61a:10\" href=\"/Pesachim.61a.10\">Pesachim 61ᵃ</span>; Yerushalmi ib. V, 32ᵃ bottom of page explained <span dir=\"rtl\">תכסו</span> (<span class=\"refLink\" data-ref=\"Exodus 12:4\" href=\"/Exodus.12.4\">Shemot XII, 4</span>) = <span dir=\"rtl\">תנכסו</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נָכַס 1\" dir=\"rtl\" href=\"/Jastrow,_נָכַס.1\">נָכַס</span>. <span class=\"refLink\" data-ref=\"Shemot Rabbah 42:8\" href=\"/Shemot_Rabbah.42.8\">Shemot Rabbah section (Parashah) 42</span>, end <span dir=\"rtl\">לשון סרדיוטין</span> (correct accordingly), see <span class=\"refLink\" data-ref=\"Jastrow, *מַסֵּכָה III 1\" href=\"/Jastrow,_*מַסֵּכָה III.1\"><span dir=\"rtl\">מַסֵּכָה</span> III</span>. <br><b><br>—2)</b> (a contemptuous perversion of <span dir=\"rtl\">סוּרְיִי</span>) <span dir=\"rtl\">לשון ס׳</span> <i>Syrian</i>, in gen. <i>Aramæan language</i>. <span class=\"refLink\" data-ref=\"Sotah 49b:11\" href=\"/Sotah.49b.11\">Sotah 49ᵇ</span>; <span class=\"refLink\" data-ref=\"Bava Kamma 82b\" href=\"/Bava_Kamma.82b\">Bava Kamma 82ᵇ</span> sq. <span dir=\"rtl\">בא\"י ל׳ ס׳ למה וכ׳</span> what has the Syrian tongue to do in Palestine? Speak either Hebrew or Greek. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sotah 7:2:3\" href=\"Jerusalem_Talmud_Sotah.7.2.3\">Yerushalmi Sotah VII, 21ᶜ</span> top <span dir=\"rtl\">לא יהא ל׳ ס׳ קל וכ׳</span> do not despise the Syrian language, for it is employed in the Torah (<span class=\"refLink\" data-ref=\"Genesis 31:47\" href=\"/Genesis.31.47\">Breishit XXXI, 47</span>) &c.; <span class=\"refLink\" data-ref=\"Bereishit Rabbah 74:17\" href=\"/Bereishit_Rabbah.74.17\">Breishit Rabbah section (Parashah) 74</span> <span dir=\"rtl\">פרסי</span> (correct accordingly); <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 130:15\" href=\"/Yalkut_Shimoni_on_Torah.130.15\">Yalkut Breishit 130</span> <span dir=\"rtl\">פרסי</span> (correct accordingly); (<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 286\" href=\"/Yalkut_Shimoni_on_Nach.286\">Yalkut Jeremiah 286</span>; Yalkut Daniel 1060 <span dir=\"rtl\">ארמי</span>). Yerushalmi Sotah l. common gender.; Yerushalmi Megillah I, 71ᵇ bottom of page, see <span class=\"refLink\" data-ref=\"Jastrow, אִילְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_אִילְיָא.1\">אִילְיָא</span>; <span class=\"refLink\" data-ref=\"Esther Rabbah 4:12\" href=\"/Esther_Rabbah.4.12\">Esther Rabbah to I, 22</span> <span dir=\"rtl\">פרסי</span> (correct accordingly).—plural <span class=\"refLink\" data-ref=\"Jastrow, סוּרְסִי 1\" dir=\"rtl\" href=\"/Jastrow,_סוּרְסִי.1\">סוּרְסִין</span> <i>Syrian cakes</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Pesachim 2:4:10\" href=\"Jerusalem_Talmud_Pesachim.2.4.10\">Yerushalmi Pesachim II, 29ᵇ</span> bottom of page; see <span class=\"refLink\" data-ref=\"Jastrow, סְרִיקִין 1\" dir=\"rtl\" href=\"/Jastrow,_סְרִיקִין.1\">סְרִיקִין</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, סוּרְסִי 1",
+              "sourceHeRef": "מילון יסטרוב, סוּרְסִי א׳",
+              "sourceRef": "Jastrow, סוּרְסִי 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סורסי</strong> - ארמי חכמי האומות קורין לו לינג\"א שוריי\"א <span class=\"parenthesized\">(שפה סורית)</span> :",
+              "ref": "Rashi on Pesachim 61a:10:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:י:א",
+              "sourceRef": "Rashi on Pesachim 61a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כוס</strong> - שחוט למימרא דבשעת שחיטה צריך להתכוין למנויו:",
+              "ref": "Rashi on Pesachim 61a:10:2",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:י:ב",
+              "sourceRef": "Rashi on Pesachim 61a:10:2"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>כס</big></b> [שאכטען] <span class=\"parenthesized\">(פסחים סא)</span> ד\"א לשון סורסי הוא כאדם שאומר לחברו כוס לי טלה זה. <span class=\"parenthesized\">(חולין נז)</span> נבלה וטרפה לא אכלתי שלא אכלתי בשר כוס כוס מעולם פי' מהר שחוט אותה קודם שתמות והיינו מסוכנת דאין צדין כגון גוססת. ואמרתם זבח פסח הוא לה' תרגום ירושלמי מיכס פיסחא הוא:",
+              "ref": "Sefer HeArukh, Letter Kaf 216",
+              "sourceHeRef": "ספר הערוך, אות הכ\"ף רט״ז",
+              "sourceRef": "Sefer HeArukh, Letter Kaf 216"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רבי אומר:</b> \"תכוסו\" זה <b>לשון סורסי</b> (ארמי) <b>הוא, כאדם שאומר לחבירו כוס לי</b> משמע: שחוט לי <b>טלה זה,</b> ללמד שמכסת הנפשות וקביעת המנויים צריכה להיות בזמן שחיטה.",
+              "ref": "Steinsaltz on Pesachim 61a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:י",
+              "sourceRef": "Steinsaltz on Pesachim 61a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "From the Greek <greek>σύρος</greek>, <i>suros</i>, referring to a Syrian or to an item connected to Syria.",
+              "he": "שינוי צורה מן היוונית <eng>Óõñóò</eng> (סורסי) ומשמעה: סורי. השייך לארץ סוריה.",
+              "ref": "Steinsaltz comment #1 on Pesachim 61a:10",
+              "sourceHeRef": "סוּרְסִי",
+              "sourceRef": "Aramaic [<i>Sursi </i>]"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבי אומר לשון סורסי הוא זה</strong> - אור\"י דרבי לא פליג את\"ק ומודה דאיכא עיכובא באוכליו ומנויו ואינו אלא מפרש דבריו דלא פסלי אוכליו ומנויו אלא בשחיטה וכן משמע בכיצד צולין <span class=\"parenthesized\">(ד עח:)</span> דמסיק רב דאמר אכילה לא מעכבי כרבי נתן ולא קאמר כר' והיינו משום דלפרושי אתא כדפי':",
+              "ref": "Tosafot on Pesachim 61a:10:1",
+              "sourceHeRef": "תוספות על פסחים ס״א א:י:א",
+              "sourceRef": "Tosafot on Pesachim 61a:10:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi</span></b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\"> Yehuda HaNasi</span> <b>says:</b> The term “you shall make your count [<i>takhosu</i>]” <b>is Aramaic [<i>Sursi</i>], like one who says to his fellow: Slaughter [<i>kos</i>] me this lamb,</b> to teach that the registration must take place before the slaughtering.",
+      "he": "רַבִּי אוֹמֵר: לָשׁוֹן סוּרְסִי הוּא, כְּאָדָם שֶׁאוֹמֵר לַחֲבֵירוֹ ״כּוֹס לִי טָלֶה זֶה״.",
+      "ref": "Pesachim 61a:10"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The Paschal sacrifice should be slaughtered only for those who are fit to partake of it. If one of the members of the company was a minor, an elder person, or infirm, he may be counted among those for whom the Paschal sacrifice is slaughtered if he is capable of eating an olive-sized portion. If not, he may not be counted among them, as implied by Exodus 12:4: \"A person according to his capacity to eat,\" indicating that he must be fit to partake of it. Even if the company includes 100, if any one of them is not capable of eating an olive-sized portion, he may not be counted among those for whom it is slaughtered.",
+              "he": "אֵין שׁוֹחֲטִין אֶת הַפֶּסַח אֶלָּא עַל מִי שֶׁרָאוּי לֶאֱכל. הָיָה אֶחָד מִבְּנֵי חֲבוּרָה קָטָן אוֹ זָקֵן אוֹ חוֹלֶה אִם יָכוֹל לֶאֱכל כְּזַיִת שׁוֹחֲטִין עָלָיו וְאִם לָאו אֵין שׁוֹחֲטִין עָלָיו שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(שמות יב ד)</span> \"אִישׁ לְפִי אָכְלוֹ\" עַד שֶׁיִּהְיֶה רָאוּי לֶאֱכל. אֲפִלּוּ חֲבוּרָה שֶׁל מֵאָה וְאֵין כָּל אֶחָד מֵהֶן יָכוֹל לֶאֱכל כְּזַיִת אֵין שׁוֹחֲטִין עֲלֵיהֶן:",
+              "ref": "Mishneh Torah, Paschal Offering 2:3",
+              "sourceHeRef": "הלכות קרבן פסח ב:ג",
+              "sourceRef": "Paschal Offering 2:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לפי אכלו</strong> - הראוי לאכול פרט לחולה ולזקן ולערל ואפילו הן מנויין:",
+              "ref": "Rashi on Pesachim 61a:11:1",
+              "sourceHeRef": "רש\"י על פסחים ס״א א:יא:א",
+              "sourceRef": "Rashi on Pesachim 61a:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אשכחן</b> <span class=\"hebrew-emphasis\">[מצאנו]</span> ולמדנו מכאן שאם שחטו את הפסח <b>שלא למנויו</b> הרי הוא פסול, אבל שחטו <b>שלא לאוכליו מנא לן</b> <span class=\"hebrew-emphasis\">[מנין לנו]</span> שהוא פסול? ומשיבים: <b>אמר קרא</b> <span class=\"hebrew-emphasis\">[המקרא]</span> <b>\"איש לפי אכלו תכסו\",</b> הרי ש<b>איתקש</b> <span class=\"hebrew-emphasis\">[הושוו]</span> <b>אוכלין למנויין,</b> כשם שפסול כששחטו שלא למנויו כך פסול כששחטו שלא לאוכליו.",
+              "ref": "Steinsaltz on Pesachim 61a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ס״א א:יא",
+              "sourceRef": "Steinsaltz on Pesachim 61a:11"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> ואתקש אוכליו כו' מה מנויין פסלה בד' עבודות כו' אף אוכליו כו' עכ\"ל מפי' מהרש\"ל כל ד' עבודות על הזריקה כו' ונילף שגבי אוכליו יפסלו כך וע\"ק למה חשיב מנויו גבי פסח דוקא ויליף מקרא אם הוא שינוי בעלים אף בשאר קרבנות יפסול עכ\"ל אבל לשון בד' עבודות שכתבו התוס' לא משמע כן אלא בד' עבודות ממש כמו גבי פסול לשמו דקאמר בשמעתין דישנו בד' עבודות אבל בשינוי בעלים דלא הוה אלא בזריקה מקרי אינו בד' עבודות בשמעתין ולישנא נמי דקאמרי ובשאר קרבנות נמי יפסלו כו' לא משמע כן דהל\"ל ובשאר עבודות נמי פסול ולא אצטריך ליה לקרא גבי פסח ועוד דהא אצטריך גבי פסח לעכב כדאמרי' פ\"ק דזבחים ונראה שהם הבינו לכאורה מפירש\"י דשלא למנויו היינו שינוי בעלים ובחישב על השחיטה לחודה קאמר במתניתין פסול שלא למנויו וכן בחישב על הזריקה פסול דעיקר שינוי בעלים בזריקה הוא כפרש\"י ומינה דה\"ה בשאר ב' עבודות דהיינו בהולכה או בקבלה לחודא דפסול שלא למנויו דהיינו שינוי בעלים ואהא קשיא להו כיון דאתקש שלא לאוכליו לשלא למנויו אימא דיפסול שלא לאוכליו נמי בכל ד' עבודות ממש ועוד דבשאר קרבנות נמי יפסלו ד' עבודות ממש דהיינו שינוי בעלים והיינו שלא למנויו דאינו חילוק בשינוי בעלים בין פסח לשאר קרבנות אלא דבפסח הוא לעכב ובשאר קרבנות אינו אלא למצוה כדאמרי' בהדיא פ\"ק דזבחים ויפסלו דקאמרי לאו דוקא אלא למצוה כדאמרינן בהדיא התם ובכולה תלמודא לא קאמר בשאר קרבנות שינוי בעלים אלא בזריקה כפרש\"י ואהא תירצו היכא דקאמר שלא למנויו לאו היינו דין שינוי בעלים דאינו אלא בזריקה כגון שוחט כו' ודין שלא למנויו דקאמר אינו אלא בפסח ודוקא בשחיטה ואינו בד' עבודות דהיינו בקבלה והולכה אלא בזריקה איתא משום דין שינוי בעלים כמ\"ש התוס' לקמן ואיך שיהיה ק\"ק דהיאך בעו למימר דאוכליו יפסלו בד' עבודות הא איכא שום מיעוטא דאין מחשבת אוכלין בזריקה כמ\"ש התוס' לקמן ודו\"ק:",
+                      "ref": "Chidushei Halachot on Pesachim 61a:2",
+                      "sourceHeRef": "חדושי הלכות על פסחים ס״א א:ב",
+                      "sourceRef": "Chidushei Halachot on Pesachim 61a:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לאוכליו מנא לן</strong> - אור\"י דערלים וטמאים כולהו נפקי מהאי קרא דאיש לפי אכלו דכיון דלא מצו אכלי ליה חשיבי כולהו שלא לאוכליו וכן משמע בפ\"ב דזבחים <span class=\"parenthesized\">(ד' כב:)</span> דקאמר קסברי זקני דרום טמא משלח קרבנותיו פי' פסח והתניא במכסת נפשות מכאן שאין הפסח נשחט אלא למנויו ואיתקש אוכליו למנויו משמע בהדיא דטמא נפקא לן מאיש לפי אכלו:",
+              "ref": "Tosafot on Pesachim 61a:11:1",
+              "sourceHeRef": "תוספות על פסחים ס״א א:יא:א",
+              "sourceRef": "Tosafot on Pesachim 61a:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואיתקש אוכליו למנויו</strong> - תימה לר\"י א\"כ מה מנויו פסלי בד' עבודות דהיינו שינוי בעלים אף אוכליו יפסלו בד' עבודות ובשאר קרבנות נמי יפסלו במנויו וי\"ל דשלא למנויו אין זה שינוי בעלים דשינוי בעלים לא פסיל אלא בזריקה כגון שוחט או מקבל ומוליך על מנת לזרוק לשם אחרים או זורק לשם אחרים אבל שוחט ומקבל ומוליך לשם אחרים כשר דמוכפר עליו נפקא לן ושלא למנויו היינו שוחט שלא למנויו ולא פסיל אלא בשחיטה דווקא כדכתיב תכוסו ודווקא בפסח ולא בשאר קרבנות וא\"ת ונימא הואיל וגלי שלא לאוכליו בשחיטה ה\"ה בשאר עבודות כדאי' בפ\"ק דזבחים <span class=\"parenthesized\">(ד' ז:)</span> פסח שלא לשמו מזבח פסח שאר עבודות מנא לן הואיל וגלי גלי ואור\"י דלא דמי כיון דגלי בכל הקרבנות דלא עלו לבעלים לשם חובה וגבי פסח אשכחן פסול בחד מינייהו אין לנו לחלק:",
+              "ref": "Tosafot on Pesachim 61a:11:2",
+              "sourceHeRef": "תוספות על פסחים ס״א א:יא:ב",
+              "sourceRef": "Tosafot on Pesachim 61a:11:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "But if the household is too small for a lamb, let him share one with a neighbor who dwells nearby, in proportion to the number of persons: you shall contribute for the lamb according to what each household will eat.",
+              "he": "וְאִם־יִמְעַ֣ט הַבַּ֘יִת֮ מִהְי֣וֹת מִשֶּׂה֒ וְלָקַ֣ח ה֗וּא וּשְׁכֵנ֛וֹ הַקָּרֹ֥ב אֶל־בֵּית֖וֹ בְּמִכְסַ֣ת נְפָשֹׁ֑ת אִ֚ישׁ לְפִ֣י אׇכְל֔וֹ תָּכֹ֖סּוּ עַל־הַשֶּֽׂה׃",
+              "link": "/Exodus/12",
+              "ref": "Exodus 12:4",
+              "sourceHeRef": "שמות יב:ד",
+              "sourceRef": "Exodus 12:4"
+            }
+          ]
+        }
+      },
+      "en": "<b>We have found</b> a source for the <i>halakha</i> that a Paschal lamb slaughtered <b>for those who have not registered for it</b> is disqualified. But <b>from where do we</b> derive the <i>halakha</i> that it is similarly disqualified if it is slaughtered <b>for those who cannot eat it?</b> The Gemara answers that <b>the verse says: “According to every man’s eating you shall make your count”; those who eat it are juxtaposed,</b> and thereby equated, <b>to those who are registered</b> for it. This teaches that just as the offering is disqualified if it is slaughtered for those who did not register for it, it is likewise disqualified if it is slaughtered for those who cannot eat it.",
+      "he": "אַשְׁכְּחַן שֶׁלֹּא לִמְנוּיָו, שֶׁלֹּא לְאוֹכְלָיו מְנָא לַן? אָמַר קְרָא ״אִישׁ לְפִי אׇכְלוֹ תָּכוֹסּוּ״, אִיתַּקַּשׁ אוֹכְלִין לִמְנוּיִין.",
+      "ref": "Pesachim 61a:11"
+    }
+  ],
+  "title": "Pesachim 61a",
+  "titleHebrew": "פסחים סא,א",
+  "topics": []
+}

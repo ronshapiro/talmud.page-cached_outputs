@@ -1,0 +1,961 @@
+{
+  "id": "21b",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person says: \"My hand is a nazirite\" or \"My foot is a nazirite,\" his words are of no consequence. If, however, he says: \"My head is a nazirite\" or \"My liver is a nazirite,\" he is a nazarite.\" This is the general principle: Whenever a person designates as a nazirite an organ upon whose removal from a living person would cause him to die, he is a nazirite.",
+              "he": "הָאוֹמֵר הֲרֵי יָדִי נְזִירָה הֲרֵי רַגְלִי נְזִירָה לֹא אָמַר כְּלוּם. הֲרֵי רֹאשִׁי נָזִיר כְּבֵדִי נְזִירָה הֲרֵי זֶה נָזִיר. זֶה הַכְּלָל כָּל אֵיבָר שֶׁאִם יִנָּטֵל מִן הַחַי יָמוּת אִם אָמַר הֲרֵי הוּא נָזִיר הֲרֵי זֶה נָזִיר:",
+              "ref": "Mishneh Torah, Nazariteship 1:16",
+              "sourceHeRef": "הלכות נזירות א:טז",
+              "sourceRef": "Nazariteship 1:16"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורמינהו כו' זה הכלל כו'</strong> - ופה ושיער לא הוי דבר שהנשמה תלויה בו דאי גייז לשיער וחתיך לניב שפתים לא מיית:",
+              "ref": "Rashi on Nazir 21b:1:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:א:א",
+              "sourceRef": "Rashi on Nazir 21b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ורמינהו</b> <span class=\"hebrew-emphasis\">[ומשליכים,</span> מראים סתירה לכך<span class=\"hebrew-emphasis\">]</span> ממה ששנינו: אם אמר <b>\"ידי נזירה\" ו</b>כן אם אמר <b>\"רגלי נזירה\" —</b> <b>לא אמר כלום,</b> אבל אם אמר <b>\"ראשי נזירה\"</b> או <b>\"כבדי נזירה\" —</b> <b>הרי זה נזיר. זה הכלל:</b> קיבל נזירות על <b>דבר</b> (אבר, חלק מן הגוף) <b>שהנשמה תלויה בו,</b> כלומר, שאי אפשר לחיות בלעדיו — <b>הרי זה נזיר.</b> ואם קיבל נזירות על חלק בגוף שאפשר להתקיים אף בלעדיו — אינו נזיר. ואם כן אף האומר על שערו, שוודאי אין הנשמה תלויה בו — לא היה צריך להיות נזיר!",
+              "ref": "Steinsaltz on Nazir 21b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:א",
+              "sourceRef": "Steinsaltz on Nazir 21b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One who says: My hand is a nazirite, or: My foot is a nazirite, his statement is of no consequence. If he said: My head is a nazirite, or: My liver is a nazirite, he is a nazirite. This is the principle: If he mentions any limb whose removal would lead to his death, he is a nazirite (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nedarim </i>1:16).",
+              "he": "האומר \"ידי נזירה\" או \"רגלי נזירה\" — לא אמר כלום. אמר \"ראשי נזיר\" או \"כבדי נזיר\" — הרי זה נזיר. זה הכלל: כל אבר שאם יינטל מן החי ימות, אם אמר הריהו נזיר — הרי זה נזיר. (רמב\"ם ספר הפלאה הלכות נזירות פ\"א הט\"ז).",
+              "ref": "Steinsaltz comment #1 on Nazir 21b:1",
+              "sourceHeRef": "יָדִי נְזִירָה וכו׳",
+              "sourceRef": "My hand is a nazirite, etc."
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ידי נזירה כו'</strong> - וה\"ה במתניתין אי לא פי כפיו אלא פי נזיר ושערי נזיר לא אמר כלום דאין הנשמה תלויה בו:",
+              "ref": "Tosafot on Nazir 21b:1:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:א:א",
+              "sourceRef": "Tosafot on Nazir 21b:1:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הריני נזיר, ושמע חבירו ואמ' פי כפיו, ושערי כשערו, הרי זה נזיר. ידי כידו, רגלי כרגלו, הרי זה נזיר. ידי נזירה, ורגלי נזירה אין נזיר. ראשי נזיר, וכבידי נזירה, הרי זה נזיר. זה הכלל, דבר שהנשמה תלויה בו, נזיר, דבר שאין הנשמה תלויה בו, אין נזיר.",
+              "ref": "Tosefta Nazir (Lieberman) 3:3",
+              "sourceHeRef": "תוספתא נזיר (ליברמן) ג:ג",
+              "sourceRef": "Tosefta Nazir (Lieberman) 3:3"
+            },
+            {
+              "en": "",
+              "he": "הריני נזיר ושמע חבירו ואמר פי כפיו ושערי כשערו הרי זה נזיר ידי כידו רגלי כרגלו הרי זה נזיר ידי נזירה ורגלי נזירה [אין נזיר] ראשי נזירה כבידי נזירה ה\"ז נזיר זה הכלל דבר שהנשמה תלויה בו נזיר דבר שאין הנשמה תלויה בו אין נזיר.",
+              "ref": "Tosefta Nazir 3:3",
+              "sourceHeRef": "תוספתא נזיר ג:ג",
+              "sourceRef": "Tosefta Nazir 3:3"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> the Gemara <b>raises a contradiction</b> against this. If one said: <b>My hand is a nazirite, and</b> similarly, if he said: <b>My foot is a nazirite, he has not said anything</b> of consequence. However, if he said: <b>My head is a nazirite,</b> or: <b>My liver is a nazirite, he is a nazirite. This is the principle:</b> If one accepted naziriteship by means of <b>an entity upon which life depends,</b> i.e., a limb or a body part that he cannot survive without, <b>he is a nazirite.</b> Conversely, if he mentioned part of the body that is not essential for life, he is not a nazirite. In this case, as he referred to his hair, which is certainly not a vital part of him, he should not be a nazirite.",
+      "he": "וּרְמִינְהוּ: ״יָדִי נְזִירָה״ וְ״רַגְלִי נְזִירָה״ — לֹא אָמַר כְּלוּם, ״רֹאשִׁי נְזִירָה״, ״כְּבֵדִי נְזִירָה״ — הֲרֵי זֶה נָזִיר. זֶה הַכְּלָל: דָּבָר שֶׁהַנְּשָׁמָה תְּלוּיָה בּוֹ — הֲרֵי זֶה נָזִיר.",
+      "ref": "Nazir 21b:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If a nazirite was passing before him and he said: \"I am like him,\" he is a nazirite. If a colleague of his took a nazirite vow and he said: \"My mouth is like his mouth with regard to wine\" or \"My hair is like his hair with regard to cutting it,\" he is a nazirite. Similarly, if he heard him [take a nazirite vow] and said: \"And also I\" immediately thereafter, [he is a nazirite]. And if a third person said: \"And also I\" immediately after the second person's statement - even if this continues for 100 individuals - they are all nazirites.",
+              "he": "הָיָה נָזִיר עוֹבֵר לְפָנָיו וְאָמַר הֲרֵינִי כָּזֶה הֲרֵי זֶה נָזִיר. נָדַר חֲבֵרוֹ בְּנָזִיר וְאָמַר הוּא פִּי כְּפִיו מִיַּיִן אוֹ שֶׁאָמַר שְׂעָרִי כִּשְׂעָרוֹ מִלְּהִגָּזֵז הֲרֵי זֶה נָזִיר. וְכֵן אִם שָׁמַע וְאָמַר וַאֲנִי בְּתוֹךְ כְּדֵי דִּבּוּר [וְשָׁמַע שְׁלִישִׁי בְּתוֹךְ כְּדֵי דִּבּוּר] שֶׁל שֵׁנִי וְאָמַר וַאֲנִי וַאֲפִלּוּ הֵן מֵאָה כֻּלָּן נְזִירִין:",
+              "ref": "Mishneh Torah, Nazariteship 2:4",
+              "sourceHeRef": "הלכות נזירות ב:ד",
+              "sourceRef": "Nazariteship 2:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רב יהודה דאמר הכי יעשה פי כפיו מיין</strong> - דהואיל דפריש הכי הוי נזיר:",
+              "ref": "Rashi on Nazir 21b:2:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ב:א",
+              "sourceRef": "Rashi on Nazir 21b:2:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב יהודה:</b> יש להבין ש<b>אמר הכי</b> <span class=\"hebrew-emphasis\">[כך</span><span class=\"hebrew-emphasis\">],</span> שכך היתה כוונתו: <b>יעשה פי כפיו</b> להיאסר <b>מיין, ושערי כשערו מלגוז.</b>",
+              "ref": "Steinsaltz on Nazir 21b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:ב",
+              "sourceRef": "Steinsaltz on Nazir 21b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one vowed to be a nazirite and another said: My mouth is like his mouth with regard to wine, or: My hair is like his hair with regard to cutting, the second person is also a nazirite (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>2:4).",
+              "he": "יש מסבירים כי הכוונה היא שאמר הנודר כן במפורש, ובמקרה זה בוודאי חל הנדר (המפרש ועוד). וטעמו של דבר, שכיון שניתן לקבל עיקר נזירות בדרך זו \"ייאסר פי מיין\" וכדו' גם אם מתפיס בלשון זו מועיל הדבר (ר\"א מן ההר). ויש שפירשו שאין הכוונה שאומר כן במפורש, אלא כיון שבמשנתנו מדובר במי שחבירו נדר נזירות, אין ספק שכוונתו היתה לאסור עצמו ביין וגילוח כמותו (תוס' בסוף העמוד הקודם), ואין זה גרוע מידות נזירות.",
+              "ref": "Steinsaltz comment #1 on Nazir 21b:2",
+              "sourceHeRef": "פִּי כְּפִיו מִיַּיִן",
+              "sourceRef": "Let my mouth be like his mouth with regard to abstention from wine"
+            },
+            {
+              "en": "Some commentaries explain that he explicitly adds: With regard to the prohibition of wine (Commentary on <i>Nazir</i>). The reason the vow takes effect is that he himself can vow by saying: Let my mouth be prohibited from wine, etc., and therefore he can associate himself with the vow of another in a similar manner (Rabbi Avraham min HaHar). Others maintain that even if he did not actually mention wine, as his friend has just vowed naziriteship he clearly intends to prohibit himself from consuming wine and shaving, like the other person (<i>Tosafot</i>). This is no worse than intimations of naziriteship (see Chapter One).",
+              "he": "והוא הדין אם אמר \"ידי כידו\" (מטומאה), \"רגלי כרגלו\" (מללכת לבית הקברות) וכיוצא בזה. וכן מבואר בתוספתא (תוס', לשיטתם). ולשיטה האחרת — במפרש את האיסור (מאירי).",
+              "ref": "Steinsaltz comment #2 on Nazir 21b:2",
+              "sourceHeRef": "יַעֲשֶׂה פִּי כְּפִיו",
+              "sourceRef": "Let my mouth be like his mouth"
+            },
+            {
+              "en": "",
+              "he": "נדר חבירו בנזיר, ואמר הוא \"פי כפיו מיין\" או \"שערי כשערו מלהיגזז\" — הרי זה נזיר. וכדברי רב יהודה. (רמב\"ם ספר הפלאה הלכות נזירות פ\"ב ה\"ד).",
+              "ref": "Steinsaltz comment #3 on Nazir 21b:2",
+              "sourceHeRef": "פי כפיו מיין",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאמר פי כפיו מיין</strong> - כלומר במתניתין שאני הואיל ושמע חבירו שנדר ודאי קאמר הכי לענין איסור יין אבל בברייתא דקאמר מעצמו בלא שמיעה דחבירו נזיר לאו כלום הוא כיון דאין הנשמה [תלויה בו] ופי כפיו מיין מהני אפילו לרבי שמעון דאמר לעיל <span class=\"parenthesized\">(נזיר דף ג:)</span> עד שיזיר מכולן הכא מודה דלא גרע מידות וכן מהריני מסלסל ומכלכל דפ\"ק <span class=\"parenthesized\">(לעיל נזיר דף ב.)</span> דהוי נזיר וא\"ת כי אמר נמי ידי נזיר [נימא] דה\"ק ידי כידו מלהטמאות למתים ורגלי כרגלו מלהכנס בבית הקברות וי\"ל דאה\"נ דאי שמע לחבירו שנדר בנזיר ואמר ידי כידו מהני וה\"נ תניא בתוספתא <span class=\"parenthesized\">(פ\"ג)</span> ברישא דברייתא בהדיא ידי כידו רגלי כרגלו הרי זה נזיר:",
+              "ref": "Tosafot on Nazir 21b:2:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:ב:א",
+              "sourceRef": "Tosafot on Nazir 21b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> said</b> that it means <b>that he said like this;</b> this is what he intended: <b>Let my mouth be like his mouth</b> with regard to abstention <b>from wine, and my hair</b> be <b>like his hair</b> with regard to abstention <b>from cutting</b> it.",
+      "he": "אָמַר <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">רַב יְהוּדָה</span>, דְּאָמַר הָכִי: יֵעָשֶׂה פִּי כְּפִיו מִיַּיִן, וּשְׂעָרִי כִּשְׂעָרוֹ מִלָּגוֹז.",
+      "ref": "Nazir 21b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמרה הריני נזירה ושמע בעלה ואמר ואני שניהם נזירין ואינו יכול להפר לה</strong> - דכיון דאמר ואני גלי אדעתיה דניחא ליה במאי דקא נדרה איהי והשתא מקיים לה:",
+              "ref": "Rashi on Nazir 21b:3:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ג:א",
+              "sourceRef": "Rashi on Nazir 21b:3:1"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> With regard to <b>one who said: I am hereby a nazirite, and another heard</b> this vow <b>and said: And I,</b> and a third person added: <b>And I, they are all nazirites.</b> If the vow of <b>the first was dissolved</b> by a halakhic authority, <b>they are all dissolved.</b> However, if the vow of <b>the last</b> individual <b>was dissolved</b> by a halakhic authority, the vow of <b>the last</b> individual alone <b>is dissolved, and all</b> the others remain <b>bound</b> by their nazirite vows. If someone <b>said: I am hereby a nazirite, and another heard and said: My mouth is like his mouth and my hair is like his hair, he is a nazirite.</b>",
+                "If one said: <b>I am hereby a nazirite, and his wife heard</b> him <b>and said: And I,</b> he can <b>nullify her</b> vow of naziriteship if he so chooses (see Numbers 30:7–16). <b>But his</b> vow remains <b>intact,</b> as his naziriteship is not dependent on hers. However, if the wife said: <b>I am hereby a nazirite, and her husband heard and said: And I, he cannot nullify</b> her vow of naziriteship, as he would thereby be nullifying his own vow, which he made dependent on hers, and he does not have the ability to nullify his own vow. If he said to his wife: <b>I am hereby a nazirite, and you,</b> i.e., you shall be a nazirite as well, <b>and she said: Amen,</b> in acceptance of this vow, <b>he can nullify her</b> vow, <b>and his</b> vow remains <b>intact.</b> However, if the wife said: <b>I am hereby a nazirite, and you, and he said: Amen, he cannot nullify</b> her vow."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nazir 20b:3",
+                "Nazir 20b:4"
+              ],
+              "he": [
+                "<big><strong>מִי שֶׁאָמַר</strong></big> ״הֲרֵינִי נָזִיר״ וְשָׁמַע חֲבֵירוֹ וְאָמַר ״וַאֲנִי״, ״וַאֲנִי״ — כּוּלָּם נְזִירִים. הוּתַּר הָרִאשׁוֹן — הוּתְּרוּ כּוּלָּן. הוּתַּר הָאַחֲרוֹן — הָאַחֲרוֹן מוּתָּר וְכוּלָּם אֲסוּרִין. אָמַר ״הֲרֵינִי נָזִיר״, וְשָׁמַע חֲבֵירוֹ וְאָמַר ״פִּי כְּפִיו וּשְׂעָרִי כִּשְׂעָרוֹ״ — הֲרֵי זֶה נָזִיר.",
+                "״הֲרֵינִי נָזִיר״, וְשָׁמְעָה אִשְׁתּוֹ וְאָמְרָה ״וַאֲנִי״ — מֵיפֵר אֶת שֶׁלָּהּ, וְשֶׁלּוֹ קַיָּים. ״הֲרֵינִי נְזִירָה״, וְשָׁמַע בַּעֲלָהּ וְאָמַר ״וַאֲנִי״ — אֵינוֹ יָכוֹל לְהָפֵר. ״הֲרֵינִי נָזִיר וְאַתְּ״, וְאָמְרָה ״אָמֵן״ — מֵיפֵר אֶת שֶׁלָּהּ, וְשֶׁלּוֹ קַיָּים. ״הֲרֵינִי נְזִירָה וְאַתָּה״, וְאָמַר ״אָמֵן״ — אֵינוֹ יָכוֹל לְהָפֵר."
+              ],
+              "link": "/Nazir/20b",
+              "ref": "Nazir 20b:3-4",
+              "sourceHeRef": "unused",
+              "sourceRef": "Nazir 20b:3-4"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>גז</big></b> [שניידען] <span class=\"parenthesized\">(פסחים כ)</span> גוז משקין דרישא. <span class=\"parenthesized\">(שבת קנ)</span> משכחת לה דמחשיך למיזגא ליה אסא. <span class=\"parenthesized\">(נדרים סט)</span> שמע מניה דבית שמאי מיגז גייז. <span class=\"parenthesized\">(נזיר כא)</span> איבעיא להו בעל מיעקר עקר או מיגז גייז פי' מיעקר עקר מעיקרא או מיחתך חתיך מהשתא ומזה הערך אתו גוזאי וקא מחיה ליה שהוא בערך שלפני זה:",
+              "ref": "Sefer HeArukh, Letter Gimel 104",
+              "sourceHeRef": "ספר הערוך, אות הגימ\"ל ק״ד",
+              "sourceRef": "Sefer HeArukh, Letter Gimel 104"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו במשנה אם אמרה אשה <b>\"הריני נזירה\", ושמע בעלה ואמר \"ואני\" —</b> <b>אינו יכול להפר</b> את נדרה. <b>איבעיא להו</b> <span class=\"hebrew-emphasis\">[נשאלה להם</span> ללומדים<span class=\"hebrew-emphasis\">]</span> שאלה זו: האם <b>בעל</b> המפר את נדר אשתו <b>מיעקר עקר</b> <span class=\"hebrew-emphasis\">[עוקר</span><span class=\"hebrew-emphasis\">]</span> את הנדר מעיקרו כאילו לא היה, <b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא</span><span class=\"hebrew-emphasis\">]</span> הוא רק <b>מיגז גייז</b> <span class=\"hebrew-emphasis\">[גוזז</span> אותו<span class=\"hebrew-emphasis\">],</span> כלומר, עוקר אותו מכאן ולהבא? ומסבירים: <b>למאי נפקא מינה</b> <span class=\"hebrew-emphasis\">[מה</span> הבדל דין יוצא מזה<span class=\"hebrew-emphasis\">]</span> אם נאמר כצד זה או כצד זה —",
+              "ref": "Steinsaltz on Nazir 21b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:ג",
+              "sourceRef": "Steinsaltz on Nazir 21b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "When a husband or father nullifies the vow of a wife or daughter he does not uproot it retroactively but merely from that moment onward. Consequently, if a wife vowed and another person took a vow by associating himself with her vow, and her husband subsequently nullified her vow, her vow is dissolved but the second person remains bound by his vow. The <i>Shakh</i> explains the Rambam’s opinion, as his wording indicates the opposite conclusion (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>13:2; <i>Shulĥan Arukh</i>,<i> Yoreh De’a</i> 234:51, 37).",
+              "he": "הרמב\"ם בפירוש המשניות מפרש, שאין מדובר בשאלה ממתי — מאיזה שלב מופר הנדר, אלא האם הבעל מבטל את הנדר מעיקרו, או רק במה שנוגע לאשה עצמה. וראה מה שדן בדבריו בקרן אורה ועוד.",
+              "ref": "Steinsaltz comment #1 on Nazir 21b:3",
+              "sourceHeRef": "מֵיגַז גָּיֵיז",
+              "sourceRef": "He severs"
+            },
+            {
+              "en": "",
+              "he": "העירו בתוס' כי אפשר היה להוסיף עוד צדדים של הבדל המפורשים לקמן בסוגיה, כגון שהיפר לה בעלה לאחר זמן והיא שתתה יין במזיד — תהא לוקה על כך, וכן אם נטמאה לפני שהפר לה בעלה, שטתצטרך להביא קרבן כדין נזיר שנטמא. והר\"א מן ההר מסביר שנקט בדוגמה זו דווקא משום שרצה להוכיח מן המשנה שלנו, וכיון שעניינה בהתפסת נדרים זה בדברי זה נקט דוגמה זו.",
+              "ref": "Steinsaltz comment #2 on Nazir 21b:3",
+              "sourceHeRef": "למאי נפקא מינה",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "הבעל או האב המפירים נדר של האשה או של הבת אינם עוקרים את הנדר מעיקרו, אלא מבטלים אותו מאותה שעה. ולכן אם נדרה אשה והתפיס אחר בנדרה, ואחר כך היפר בעלה את הנדר — הרי היא מותרת, והמתפיס בה אסור. וכמסקנת הדברים בגמרא. (וראה בש\"ך שפירש ותירץ דברי הרמב\"ם (הלכות נדרים פי\"ג ה\"ב), שלשונו מורה לכאורה על מסקנה הפוכה). (שו\"ע יו\"ד רלד, נא. שו\"ע יו\"ד רלד, לז).",
+              "ref": "Steinsaltz comment #3 on Nazir 21b:3",
+              "sourceHeRef": "מיגז גייז",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעל מיעקר קא עקר</strong> - הנדר מעיקרא כשמפר לאשתו והוי כאילו לא חל מעולם כמו חכם שעוקר הנדר מעיקרו או מיגז גייז מהפרה ואילך הוא דמתבטל הנדר ועד ההפרה היה מקויים:",
+              "ref": "Tosafot on Nazir 21b:3:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:ג:א",
+              "sourceRef": "Tosafot on Nazir 21b:3:1"
+            }
+          ]
+        }
+      },
+      "en": "The mishna taught that if a woman said: <b>I am hereby a nazirite, and her husband heard and said: And I, he cannot nullify</b> her vow. <b>A dilemma was raised before</b> the Sages: When <b>a husband</b> nullifies the vow of his wife, does he <b>uproot</b> his wife’s vow, making it as though she never vowed, <b>or perhaps</b> he merely <b>severs</b> her vow from that point onward, but her vow was still in effect until he nullified it? The Gemara asks: <b>What difference is there</b> resulting from this dilemma?",
+      "he": "״הֲרֵינִי נְזִירָה״, וְשָׁמַע בַּעְלָהּ וַאֲמַר ״וַאֲנִי״ אֵינוֹ יָכוֹל לְהָפֵר. אִיבַּעְיָא לְהוּ: בַּעַל מִיעְקָר עָקַר, אוֹ דִּלְמָא מִיגָּז גָּיֵיז? לְמַאי נָפְקָא מִינַּהּ —",
+      "ref": "Nazir 21b:3",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי אמרת מיעקר עקר</strong> - בעל את הנדר מעיקרו אישתכח דבההיא שעתא דקאמרה חבירתה ואני דלא חייל עלה נזירות כלל:",
+              "ref": "Rashi on Nazir 21b:4:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ד:א",
+              "sourceRef": "Rashi on Nazir 21b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי אמרת מיגז גייז</strong> - דמכאן ולהבא לא חייל עלה נזירות אבל למפרע הוות נזירה:",
+              "ref": "Rashi on Nazir 21b:4:2",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ד:ב",
+              "sourceRef": "Rashi on Nazir 21b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איהי אישתראי וחבירתה אסירא</strong> - דלכי אמרה ואני הוות חבירתה נזירה מעליא:",
+              "ref": "Rashi on Nazir 21b:4:3",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ד:ג",
+              "sourceRef": "Rashi on Nazir 21b:4:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>לאשה שנדרה בנזיר</b> (נדר נזירות), <b>ושמעה חברתה ואמרה \"ואני\", ושמע בעלה של ראשונה והפר לה.</b> ומעתה, <b>אי אמרת מיעקר עקר</b> <span class=\"hebrew-emphasis\">[אם אומר אתה שעוקר</span><span class=\"hebrew-emphasis\">]</span> הבעל את הנדר מעיקרו — <b>ההיא,</b> השניה, <b>נמי אישתראי</b> <span class=\"hebrew-emphasis\">[גם כן הותרה</span><span class=\"hebrew-emphasis\">],</span> שהרי תלתה בנדר שמתברר כעת שלא היה קיים כלל. <b>ואי אמרת מיגז גייז</b> <span class=\"hebrew-emphasis\">[ואם אתה אומר</span> שהוא רק גוזז<span class=\"hebrew-emphasis\">]</span> מכאן ולהבא — <b>איהי אשתראי</b> <span class=\"hebrew-emphasis\">[היא הותרה</span><span class=\"hebrew-emphasis\">]</span> אבל <b>חברתה אסירא</b> <span class=\"hebrew-emphasis\">[חברתה</span> עדיין אסורה<span class=\"hebrew-emphasis\">],</span> שהרי לא נעקר הנדר משעה שתלתה בו את נדרה. ואם כן <b>מאי</b> <span class=\"hebrew-emphasis\">[מה</span><span class=\"hebrew-emphasis\">]</span> הפתרון לשאלה זו?",
+              "ref": "Steinsaltz on Nazir 21b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:ד",
+              "sourceRef": "Steinsaltz on Nazir 21b:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי אמרינן מיעקר עקר חבירתה נמי מישתראי</strong> - שהרי הוא כאילו לא חל הנדר מעולם ואי אמרינן מיגז גייז היא מישתראי וחבירתה אסורה לפי שהיתה הראשונה בכל דין נזירות עד ההפרה ושפיר מיתפיס בה שניה והפרת הראשונה אינה מועלת לשניה ונהי דלגבי חכם הותר הנדר הראשון הותרו כולם היינו משום דחכם עוקר הנדר מעיקרו ונמצא כאילו לא חל מעולם אבל בעל שמיפר בלא חרטה אינו עוקר הנדר מעיקרו אלא מיגז גייז וה\"ה דמצי למימר דנפקא מינה אם שתתה ביין ונטמאה וגלחה במזיד ואח\"כ היפר לה דאי מיעקר עקר אינה לוקה ואי מיגז גייז לוקה וכן לענין אם נטמאה בשוגג ואח\"כ היפר אי מיעקר עקר לא תביא עולת העוף ואשם ואי מיגז גייז מביאה עולת העוף ואשם שהרי חל הנזירות עד עתה:",
+              "ref": "Tosafot on Nazir 21b:4:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:ד:א",
+              "sourceRef": "Tosafot on Nazir 21b:4:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "האשה שנדרה בנזיר ושמעה חברתה ואמרה ואני ואח\"כ בא בעלה של [זו] והפר לה היא מותרת וחברתה אסורה ר' שמעון אומר אם אמרה אף אני לא [נתכוונתי] אלא כמותה [שתיהן] מותרות שבועה [לבית שאיני] נכנסת ושגגה ונכנסה מותרת לשעבר ואסורה לעתיד לבא.",
+              "ref": "Tosefta Nazir 3:5",
+              "sourceHeRef": "תוספתא נזיר ג:ה",
+              "sourceRef": "Tosefta Nazir 3:5"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains that the difference is <b>with regard to a woman who vowed to be a nazirite, and another</b> woman <b>heard and said: And I, and the husband of the first</b> woman <b>heard and nullified her</b> vow. <b>If you say</b> that the husband <b>uproots</b> the vow entirely, the vow of <b>that</b> second woman should <b>also be dissolved,</b> as she associated herself with a non-existent vow. <b>And if you say</b> he <b>severs</b> it from this point, the vow of his wife <b>is dissolved,</b> but the <b>other</b> woman remains <b>bound</b> by her vow, as the first vow was intact when she associated herself with it. <b>What,</b> then, is the answer to this dilemma?",
+      "he": "לְאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְשָׁמְעָה חֲבֶרְתָּהּ וְאָמְרָה ״וַאֲנִי״, וְשָׁמַע בַּעְלָהּ שֶׁל רִאשׁוֹנָה וְהֵפֵר לָהּ. אִי אָמְרַתְּ מִיעְקָר עָקַר — הַהִיא נָמֵי אִישְׁתְּרַאי. וְאִי אָמְרַתְּ מִיגָּז גָּיֵיז — אִיהִי אִישְׁתְּרַאי, חֲבֶרְתַּהּ אֲסִירָא. מַאי?",
+      "ref": "Nazir 21b:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי ס\"ד בעל מיגז גייז</strong> - את הנדר מכאן ולהבא אמאי אינו יכול להפר משום דקאמר ואני נימא דהאי דאמר ואני להכי הוא דקאמר הכי דתהוי נזירה לפי שעה עד דליקבל עליה נזירות וליגזייה לנזירות אשתו מכאן ולהבא ונזירות דידיה תיחול עליה כדמעיקרא דהא אינו מיפר מכאן ולמפרע:",
+              "ref": "Rashi on Nazir 21b:5:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ה:א",
+              "sourceRef": "Rashi on Nazir 21b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לאו שמע מינה</strong> - הבעל כי מיפר לנזירות אשתו מיעקר עקר לה ומשום הכי אינו יכול להפר לה שאם יהא מיפר לה נמצא מיפר את שלו דמיעקר עקר והיינו טעמא דאינו יכול להפר את שלה משום דבההיא שעתא דאמר ואני ניחא ליה דתהוי נזירה עד דחייל עליה נזירות דהא קיים לה לפי שעה ומההיא שעתא ואילך לא מצי מיפר משום דבעל מיעקר עקר דלעולם אינו יכול להפר מכאן ולהבא בלא מפרע והכא למפרע לא מצי מיפר דהא קיים לה לפי שעה:",
+              "ref": "Rashi on Nazir 21b:5:2",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ה:ב",
+              "sourceRef": "Rashi on Nazir 21b:5:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים: <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ושמע<span class=\"hebrew-emphasis\">]</span> ראיה לדבר ממה ששנינו: אמרה <b>\"הריני נזירה\" ושמע בעלה ואמר \"ואני\" —</b> <b>אינו יכול להפר. ואי סלקא דעתך בעל מיגז גייז</b> <span class=\"hebrew-emphasis\">[ואם עולה על דעתך</span> שהבעל רק גוזז<span class=\"hebrew-emphasis\">]</span> את הנדר — <b>ליפר</b> <span class=\"hebrew-emphasis\">[שיפר</span><span class=\"hebrew-emphasis\">]</span> <b>לאשתו והוא ליתסר</b> <span class=\"hebrew-emphasis\">[ייאסר</span><span class=\"hebrew-emphasis\">],</span> שהרי לנדרה היה חלות בשעה שתלה בו את נדרו, ולא נעקר למפרע מאותה שעה. <b>אלא לאו שמע מינה</b> <span class=\"hebrew-emphasis\">[האם לא תלמד מכאן</span><span class=\"hebrew-emphasis\">]</span> כי ה<b>בעל מיעקר עקר</b> <span class=\"hebrew-emphasis\">[עוקר</span><span class=\"hebrew-emphasis\">]</span> את הנדר מעיקרו, וכיון שעל ידי כך נמצא שעוקר את נדרו שלו — אינו יכול להפר לה?",
+              "ref": "Steinsaltz on Nazir 21b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:ה",
+              "sourceRef": "Steinsaltz on Nazir 21b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The plain meaning of this statement is that if the husband merely severs the vow from this point onward, since she was a nazirite beforehand he can nullify her vow without affecting his own. However, if the husband uproots the vow entirely he would thereby be attempting to uproot his own vow, which he made dependent on hers, and one cannot, or according to the opinion of <i>Tosafot</i> may not, nullify his own vow in any manner.  Some commentaries ask: This principle that one cannot nullify his own vows applies only to one who vows and then nullifies the vow himself. By contrast, in this case the husband did not nullify his vow but merely that of his wife. Although it is true that ultimately he nullifies his own vow as well, there is no reason why this should prevent him from nullifying his wife’s vow or why this act should be prohibited (<i>Tosafot</i>). Consequently, they suggest a more complex interpretation: If the husband uproots the vow, his statement: And I, must be considered a confirmation of her vow, as otherwise he would nullify his own vow when he nullifies hers, which would mean that his statement was of no consequence. For this reason he cannot nullify her vow, as he has already upheld it. Conversely, if the husband severs the vow only from this moment onward, his addition of: And I, is not an absolute confirmation of her vow, as his own vow would not be affected even if he were to nullify hers in respect to the future. Consequently, he has not upheld her vow and therefore he can nullify it later (<i>Tosafot</i>; Commentary on <i>Nazir</i>; see Meiri).",
+              "he": "ובפשטות משמעות הדברים היא שאם הבעל רק מיגז גייז — הרי קודם לכן היתה נזירה, וכיון שכך כאשר מיפר את נדרה אין נדרו בטל, ובוודאי יכול להפר לה. אבל אם הבעל עוקר את הנדר מעיקרו נמצא שהוא מיפר על ידי כך גם את נדר עצמו, שתלה בנדרה, ואולם אדם אינו יכול (או אינו רשאי, כדברי התוס' על המשנה) להפר נדרי עצמו כלל. ובתוס' שאלו: הרי ענין זה שאדם אינו יכול להפר נדרי עצמו אינו אלא כאשר הוא נודר נדר, ואחר כך הוא עצמו מבטלו. אבל במקרה שלפנינו, הרי הבעל לא ביטל את נדרו שלו, אלא רק היפר לאשתו. ואף שעל ידי כך ביטל גם נדרו — לא מצאנו שלא יופר נדר אשתו משום כך (או באופן אחר — שדבר זה אסור)! ומשום כך פירשו בשם ר' אליהו בדרך מורכבת יותר (שמופיעה בניסוח שונה גם במפרש). שאם היינו אומרים שהבעל עוקר את הנדר בהפרתו יש להניח כי מה שאמר לה \"ואני\" הרי היה זה כקיום נדרה, שאם לא כן על ידי הפרת נדרה ייעקר אף נדרו, ויימצא שלא היה ממש בדבריו. ומשום כך אינו יכול להפר — לפי שכבר קיים לה. אבל אם אומרים שהבעל רק \"מיגז גייז\" נמצא שכאשר אמר \"ואני\" לא היה כאן קיום מוחלט של נדרה, שהרי אף אם יפר לה אין הדבר נוגע לנדרה שהיה עליה בשעה שאמר \"ואני\", אלא רק מכאן ולהבא, ואין זו אלא התפסה של עצמו בנדרה, ולכן יכול להפר לה, שהרי לא קיים. ובדרך דומה לזו מביא גם המאירי בשם בעלי התוס'.",
+              "ref": "Steinsaltz comment #1 on Nazir 21b:5",
+              "sourceHeRef": "לֵיפֵר לְאִישְׁתּוֹ וְהוּא לִיתַּסַר",
+              "sourceRef": "Let him nullify for his wife and he will remain bound by his vow"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא ש\"מ בעל מיעקר עקר</strong> - ובהתרתה הוא מותר כמותה דלא חל הנדר מעולם ולכך אינו מיפר דאינו מיפר לעצמו אלא אחרים מוחלין לו וצ\"ע דלא דמי לאחרים דכיון דרשאי להפר לאשתו ותירץ הר\"ר אליהו דה\"פ אא\"ב מיעקר עקר אינו יכול להפר דפשיטא דקיים לה שאם לא קיים לה לא היה דיבורו שום דבר אא\"א מיגז גייז א\"כ אינו תלוי בדבורו וכיון שאין תלוי בדבורו ממילא הוי מופר:",
+              "ref": "Tosafot on Nazir 21b:5:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:ה:א",
+              "sourceRef": "Tosafot on Nazir 21b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara suggests: <b>Come</b> and <b>hear</b> the statement of the mishna: If she said: <b>I am hereby a nazirite, and her husband heard and said: And I, he cannot nullify</b> her vow. <b>And if it should enter your mind</b> that the <b>husband severs</b> the vow from that moment onward, <b>let him nullify</b> the vow <b>for his wife and he will</b> remain <b>bound</b> by his vow, since if the vow is not nullified retroactively, her vow was intact when he associated himself with it. <b>Rather,</b> must one <b>not conclude from</b> the mishna that <b>the husband uproots</b> the vow entirely, which means he would also uproot his own vow by nullifying hers, and that is why he is unable do so?",
+      "he": "תָּא שְׁמַע: ״הֲרֵינִי נְזִירָה״ וְשָׁמַע בַּעְלָהּ וְאָמַר ״וַאֲנִי״ — אֵינוֹ יָכוֹל לְהָפֵר. וְאִי סָלְקָא דַּעְתָּךְ בַּעַל מִיגָּז גָּיֵיז — לֵיפַר לְאִישְׁתּוֹ וְהוּא לִיתְּסַר. אֶלָּא לָאו שְׁמַע מִינַּהּ, בַּעַל מִיעְקָר עָקַר.",
+      "ref": "Nazir 21b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא לעולם מיגז גייז</strong> - אלא היינו טעמא דלא מצי מיפר לה דכיון דאמר לה ואני כמ\"ד לה קיים נזירותיך דמי והלכך אי מיתשיל אהקמתו אהא דקא מקיים לה ברישא מצי מיפר ואי לא לא מצי מיפר:",
+              "ref": "Rashi on Nazir 21b:6:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ו:א",
+              "sourceRef": "Rashi on Nazir 21b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>לא, לעולם</b> יכול אתה לומר שהבעל <b>מיגז גייז</b> <span class=\"hebrew-emphasis\">[גוזז</span><span class=\"hebrew-emphasis\">]</span> את הנדר מכאן ולהבא. <b>ו</b>אם רק משום ענין זה, <b>בדין הוא דליפר</b> <span class=\"hebrew-emphasis\">[שיפר</span><span class=\"hebrew-emphasis\">]</span> <b>לה. והיינו טעמא דלא מצי מיפר</b> <span class=\"hebrew-emphasis\">[ו</span>אולם זה הטעם שאינו יכול להפר<span class=\"hebrew-emphasis\">],</span> כי <b>כיון</b> ש<b>אמר לה \"ואני\"</b> הרי <b>כמאן</b> <span class=\"hebrew-emphasis\">[כמי</span><span class=\"hebrew-emphasis\">]</span> ש<b>אמר \"קיים ליכי\"</b> <span class=\"hebrew-emphasis\">[לך</span><span class=\"hebrew-emphasis\">]</span> <b>דמי</b> <span class=\"hebrew-emphasis\">[נחשב</span><span class=\"hebrew-emphasis\">]</span> ובעל שקיים את נדר אשתו שוב אינו יכול להפירו. ולכן, <b>אי מתשיל אהקמתו</b> <span class=\"hebrew-emphasis\">[אם הוא נשאל</span> לחכם על הקמתו<span class=\"hebrew-emphasis\">],</span> שמבקש שיתירו לו בית דין את מה שהקים — <b>מצי מיפר</b> <span class=\"hebrew-emphasis\">[יכול להפר</span><span class=\"hebrew-emphasis\">],</span> <b>ואי</b> <span class=\"hebrew-emphasis\">[ואם</span><span class=\"hebrew-emphasis\">]</span> <b>לא —</b> <b>לא מצי מיפר</b> <span class=\"hebrew-emphasis\">[יכול להפר</span><span class=\"hebrew-emphasis\">].</span> ואם כן אין מכאן ראיה.",
+              "ref": "Steinsaltz on Nazir 21b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:ו",
+              "sourceRef": "Steinsaltz on Nazir 21b:6"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כמאן דאמר קיים ליכי דמי אי איתשיל אהקמתו מצי מיפר</strong> - [במאי] שאמר קיים ליכי דאמת הוא דנשאלין על ההקמה דהכי אמר רבי יוחנן בנדרים <span class=\"parenthesized\">(דף סט.)</span>:",
+              "ref": "Tosafot on Nazir 21b:6:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:ו:א",
+              "sourceRef": "Tosafot on Nazir 21b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara refutes this argument: <b>No; actually,</b> one can say that the husband <b>severs</b> the vow from that point onward. <b>And</b> if there were no other points to consider, <b>by right</b> the mishna should have taught <b>that he can nullify</b> her vow <b>for her; and this is the reason why he cannot nullify</b> it: <b>Since he said to her: And I,</b> he is <b>considered like one who said: It is upheld for you,</b> and once a husband has upheld his wife’s vow he can no longer nullify it. Consequently, <b>if he requested</b> to have <b>his upholding</b> dissolved by a Sage, <b>he can nullify</b> her vow, <b>and if not, he cannot nullify</b> it. Consequently, the ruling of the mishna does not resolve the dilemma.",
+      "he": "לָא, לְעוֹלָם מִיגָּז גָּיֵיז. וּבְדִין הוּא דְּלֵיפַר לַהּ. וְהַיְינוּ טַעְמָא דְּלָא מָצֵי מֵיפַר, כֵּיוָן דְּאָמַר לַהּ ״וַאֲנִי״, כְּמַאן דְּאָמַר ״קַיָּים לִיכִי״ דָּמֵי. אִי מִתְּשִׁיל אַהֲקָמָתוֹ, — מָצֵי מֵיפַר, וְאִי לָא — לָא מָצֵי מֵיפַר.",
+      "ref": "Nazir 21b:6"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>Rav Yehuda said</b> that <b>Shmuel said:</b> In a case where a woman <b>vowed</b> that <b>two loaves</b> are forbidden to her, and if she abstains <b>from one</b> of them she would <b>deprive herself,</b> as it is a fine-quality loaf, <b>and</b> if she abstains <b>from</b> the other <b>one</b> she would <b>not deprive herself,</b> as it is a poor-quality loaf, then, <b>since</b> the husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself,</b> like any other vow of affliction, <b>he can</b> also <b>nullify</b> the vow <b>with regard to the</b> loaf that would <b>not</b> cause her to <b>deprive herself. And Rav Asi said</b> that <b>Rabbi Yoḥanan said:</b> The husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself, but he cannot nullify</b> the vow <b>with regard to the</b> loaf that would <b>not</b> cause her to <b>deprive herself.</b>",
+                  "<b>And some say</b> a different version of this dispute, according to which <b>Rav Asi raised a dilemma before Rabbi Yoḥanan:</b> In a case where a woman <b>vowed</b> not to eat <b>from two loaves</b> of bread, and if she abstains <b>from one</b> of them she would <b>deprive herself, and</b> if she abstains <b>from</b> the other <b>one</b> she would <b>not deprive herself, what is</b> the <i>halakha</i>? Rabbi Yoḥanan <b>said to him:</b> The husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself, but he cannot nullify</b> the vow <b>with regard to the</b> loaf that would <b>not</b> cause her to <b>deprive herself.</b>",
+                  "Rav Asi <b>raised an objection</b> against Rabbi Yoḥanan from the following mishna (<i>Nazir</i> 23a): With regard to <b>a woman who vowed</b> to be <b>a nazirite, and she</b> transgressed her vow and <b>drank wine or became impure</b> by coming into contact <b>with the dead,</b>"
+                ],
+                [
+                  "<b>she incurs [<i>sofeget</i>] the forty</b> lashes, the penalty for one who transgresses a Torah prohibition, as she violated the terms of her nazirite vow. If <b>her husband nullified</b> the vow <b>for her, but she did not know that he nullified it for her, and she drank wine or became impure through</b> contact with <b>the dead, she does not incur the forty</b> lashes. She did not commit a transgression, as her nazirite vow was nullified.",
+                  "<b>And if you say</b> that the husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself, but he cannot nullify</b> the vow <b>with regard to the</b> loaf that would <b>not</b> cause her to <b>deprive herself,</b> the same reasoning should apply to a nazirite vow: <b>Perhaps</b> the husband <b>nullified for her</b> the vow that rendered <b>wine</b> forbidden <b>to</b> her, <b>as she suffers pain</b> when she refrains from drinking it. But as for her vow that rendered grape <b>seeds and</b> grape <b>skins</b> forbidden <b>to</b> her, <b>he did not nullify</b> it <b>for her, as she suffers no pain</b> when she abstains from them. And since even grape seeds and grape skins are forbidden to a nazirite, if the woman ate of them, <b>she should receive the forty</b> lashes, even if her husband nullified her vow.",
+                  "<b>Rav Yosef said:</b> Here it is different, as <b>naziriteship cannot take effect partially.</b> Since one cannot be a nazirite and accept only some of the prohibitions of naziriteship, the husband’s nullification cancels the entire vow. In the case of an ordinary vow, on the other hand, the husband can nullify only the part that causes his wife suffering.",
+                  "<b>Abaye said to him:</b> The wording of your statement suggests that naziriteship cannot take effect partially, <b>but</b> that <b>an offering is</b> brought <b>for partial</b> observance of <b>naziriteship. Rather, Abaye said</b> that one should say as follows: <b>Naziriteship cannot take effect partially, and no offering is</b> brought <b>for partial</b> observance of naziriteship.",
+                  "The Gemara <b>raises an objection</b> from the following statement: With regard to <b>a woman who vowed to be a nazirite and she designated her animal</b> for her nazirite offering, <b>and afterward her husband nullified</b> her vow <b>for her, she must bring a bird sin-offering but she does not bring a bird burnt-offering. And if you say</b> that <b>no offering is</b> brought <b>for partial</b> observance of <b>naziriteship, why must she bring a bird sin-offering?</b>",
+                  "The Gemara rejects this argument: <b>But rather, what</b> will you say? That <b>an offering is</b> brought <b>for partial</b> observance of <b>naziriteship?</b> If so, she <b>should be required to bring three animals</b> as offerings, <b>a sin-offering, a burnt-offering, and a peace-offering,</b> in accordance with the <i>halakha</i> governing a nazirite who has completed the period of his vow. <b>Rather,</b> say as follows: <b>Actually, no offering is</b> brought <b>for partial</b> observance of <b>naziriteship, and</b> as for <b>the bird sin-offering that she must bring,</b> this is <b>because</b> a bird <b>sin-offering</b> can be brought <b>in</b> a case of <b>uncertainty.</b> She must therefore bring a sin-offering for the partial naziriteship that she observed.",
+                  "Rav Asi <b>raised an objection</b> against the opinion of Rabbi Yoḥanan from the following <i>baraita</i>: With regard to <b>a woman who vowed to be a nazirite and she became ritually impure</b> through contact with the dead, <b>and afterward her husband nullified</b> her vow <b>for her, she must bring a bird sin-offering but does not bring a bird burnt-offering. And if you say</b> that the husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself, but he cannot nullify</b> the vow <b>with regard to</b> the loaf that would <b>not</b> cause her to <b>deprive herself,</b> the same reasoning should apply here:"
+                ],
+                [
+                  "<b>Perhaps</b> the husband <b>nullified for her</b> the vow that rendered <b>wine</b> forbidden <b>to</b> her, <b>as she suffers pain</b> when she refrains from drinking it. But as for her vow that <b>impurity</b> imparted <b>by the dead</b> is forbidden to her, <b>he did not nullify</b> it <b>for her, as she suffers no pain</b> by not becoming impure through contact with the dead. Why, then, does she not bring the offerings that must be brought by a nazirite who became ritually impure through contact with the dead? This implies that since the husband can nullify a vow with regard to a matter that would cause her to deprive herself, he can also nullify a vow with regard to a matter that would not cause her to deprive herself.",
+                  "The Gemara rejects this argument: The Sages <b>say</b> in response that a woman who vows that <b>impurity</b> imparted <b>by the dead</b> is forbidden <b>to</b> her <b>also suffers pain</b> as a result. How so? <b>As it is written: “And the living shall lay it to his heart”</b> (Ecclesiastes 7:2), <b>and it is taught</b> in a <i>baraita</i> that <b>Rabbi Meir would say: What</b> is the meaning of that <b>which is written: “And the living shall lay it to his heart”?</b> This means that one <b>who eulogizes</b> others when they die <b>will</b> in turn <b>be eulogized</b> when he himself dies; one <b>who weeps</b> for others <b>will be wept for</b> when he himself passes away; and one <b>who buries</b> others <b>will</b> himself <b>be buried</b> upon his passing. A woman who cannot participate in the funerals of others because she is barred from contracting impurity through contact with a corpse is distressed by the thought that she will receive similar treatment when she dies. Therefore, her vow involves affliction and can be nullified by her husband. The conclusion is that this case does not present a difficulty for Rabbi Yoḥanan."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nedarim 82b:2",
+                "Nedarim 82b:3",
+                "Nedarim 82b:4",
+                "Nedarim 83a:1",
+                "Nedarim 83a:2",
+                "Nedarim 83a:3",
+                "Nedarim 83a:4",
+                "Nedarim 83a:5",
+                "Nedarim 83a:6",
+                "Nedarim 83a:7",
+                "Nedarim 83b:1",
+                "Nedarim 83b:2"
+              ],
+              "he": [
+                [
+                  "אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: נָדְרָה מִשְׁתֵּי כִכָּרוֹת, בְּאַחַת מִתְעַנָּה, וּבְאַחַת אֵין מִתְעַנָּה, מִתּוֹךְ שֶׁהוּא מֵפֵר לַמִּתְעַנָּה — מֵפֵר לְשֶׁאֵינוֹ מִתְעַנָּה. וְרַב אַסִּי אָמַר רַבִּי יוֹחָנָן: מֵפֵר לַמִּתְעַנָּה, וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה.",
+                  "וְאִיכָּא דְּאָמְרִי, בְּעָא מִינֵּיהּ רַב אַסִּי מֵרַבִּי יוֹחָנָן: נָדְרָה מִשְׁתֵּי כִכָּרוֹת, בְּאַחַת מִתְעַנָּה וּבְאַחַת אֵין מִתְעַנָּה, מַהוּ? אֲמַר לֵיהּ: מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה.",
+                  "אֵיתִיבֵיהּ: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְהָיְתָה שׁוֹתֶה יַיִן, וּמִטַּמְּאָה לְמֵתִים"
+                ],
+                [
+                  "הֲרֵי זוֹ סוֹפֶגֶת אֶת הָאַרְבָּעִים. הֵפֵר לָהּ בַּעְלָהּ וְהִיא לֹא יָדְעָה שֶׁהֵפֵר לָהּ, וְהָיְתָה שׁוֹתָה יַיִן וּמִיטַּמְּאָהּ לְמֵתִים — אֵינָהּ סוֹפֶגֶת אֶת הָאַרְבָּעִים.",
+                  "וְאִי אָמְרַתְּ מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה, דִּלְמָא מִן יַיִן דְּאִית לַהּ צַעֲרָא — הֵפֵר לָהּ, מִן חַרְצָן וּמִן זַג — לֹא הֵפֵר לָהּ, דְּהָא לָא אִית לַהּ צַעֲרָא. וְתִסְפּוֹג אֶת הָאַרְבָּעִים!",
+                  "אָמַר רַב יוֹסֵף: אֵין נְזִירוּת לַחֲצָאִין.",
+                  "אֲמַר לֵיהּ אַבָּיֵי: הָא קׇרְבָּן לַחֲצִי נְזִירוּת אִיכָּא?! אֶלָּא אָמַר אַבָּיֵי: אֵין נְזִירוּת לַחֲצָאִין, וְאֵין קׇרְבָּן לַחֲצָאִין.",
+                  "מֵיתִיבִי: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְהִפְרִישָׁה בְּהֶמְתָּהּ וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵינָהּ מְבִיאָה עוֹלַת הָעוֹף. וְאִי אָמְרַתְּ אֵין קׇרְבָּן לַחֲצִי נְזִירוּת, אַמַּאי מְבִיאָה חַטָּאת הָעוֹף?",
+                  "וְאֶלָּא מַאי — יֵשׁ קׇרְבָּן לַחֲצִי נְזִירוּת? שָׁלֹשׁ בְּהֵמוֹת בָּעֵי לְאֵתוֹיֵי: חַטָּאת, עוֹלָה, וּשְׁלָמִים! אֶלָּא, לְעוֹלָם אֵין קׇרְבָּן לַחֲצִי נְזִירוּת. וְחַטַּאת הָעוֹף דְּמַתְיָא — מִשּׁוּם דְּחַטָּאת עַל הַסָּפֵק.",
+                  "אֵיתִיבֵיהּ: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְנִטְמֵאת, וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵין מְבִיאָה עוֹלַת הָעוֹף. וְאִי אָמְרַתְּ מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה,"
+                ],
+                [
+                  "דִּלְמָא מִיַּיִן דְּאִית לַהּ צַעֲרָא — הֵפֵר לָהּ, מִטּוּמְאַת מֵת, דְּלֵית לַהּ צַעֲרָא — לֹא הֵפֵר לָהּ?",
+                  "אָמְרִי: מִטּוּמְאַת מֵת נָמֵי אִית לַהּ צַעֲרָא — דִּכְתִיב: ״וְהַחַי יִתֵּן אֶל לִבּוֹ״, וְתַנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: מַאי דִּכְתִיב ״וְהַחַי יִתֵּן אֶל לִבּוֹ״, דְּיִסְפּוֹד — יִסְפְּדוּן לֵיהּ, דְּיִבְכּוּן — יִבְכּוּן לֵיהּ, דְּיִקְבַּר — יִקְבְּרוּנֵיהּ."
+                ]
+              ],
+              "link": "/Nedarim/83a",
+              "originalRefsBeforeRewriting": [
+                "Nedarim 83a:5"
+              ],
+              "ref": "Nedarim 82b:2-83b:2",
+              "sourceHeRef": "נדרים פ״ג א",
+              "sourceRef": "Nedarim 83a"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "With regard to <b>a woman who vowed to be a nazirite and separated her animals</b> for her offerings of purity at the end of her term, <b>and afterward her husband nullified her vow,</b> which means that she is not in fact a nazirite, what becomes of these animals? <b>If the animal was his, it shall go out and graze among</b> the <b>flock</b> until it becomes blemished, like regular non-consecrated animals. <b>And if the animal was hers,</b> different <i>halakhot</i> apply to the various offerings: <b>The</b> animal she set aside as <b>a sin-offering must</b> be left to <b>die</b> by being shut in an enclosed area and deprived of food and water, as will be explained in the Gemara. <b>And</b> the animal separated for <b>a burnt-offering is sacrificed</b> on the altar as <b>a burnt-offering,</b> as in any case one may bring a voluntary burnt-offering. As for the one designated for <b>a peace-offering,</b> it is <b>sacrificed</b> as a voluntary <b>peace-offering. And</b> this peace-offering <b>is eaten for</b> only <b>one day,</b> in accordance with the <i>halakha</i> of the nazirite’s peace-offering, despite the fact that regular peace-offerings may be eaten for two days. <b>But</b> the offering <b>does not require bread,</b> i.e., loaves and wafers, unlike that of a nazirite. If <b>she had unallocated funds,</b> i.e., she had separated money for her offerings but had not stated which coins were designated for which offering, all the money <b>will be earmarked for</b> communal <b>gift</b> offerings. If she had <b>allocated funds,</b> i.e., she had decided which coins were for the payment of each offering, even if she had not yet purchased the animals, <b>the money for the sin-offering</b> is <b>taken</b> and cast <b>into the Dead Sea,</b> i.e., it must be destroyed, either by being thrown into the sea or by some other means. One may <b>not benefit</b> from it, as it possesses a measure of sanctity, <b>but</b> one also does <b>not misuse</b> property consecrated to the Temple <b>with it.</b> In other words, if one did derive benefit from this money he is not liable to bring an offering for misusing consecrated property. As for <b>the money for the burnt-offering, a burnt-offering is brought</b> with those coins, <b>and</b> one who benefits <b>from it</b> is liable for <b>misuse</b> of consecrated property, as it is sacred since it can be used toward the purchase of a gift offering. Similarly, with regard to <b>the money for a peace-offering, a peace-offering is brought</b> with those coins, <b>and</b> it <b>is eaten for one day and does not require bread.</b>",
+              "he": "הָאִשָּׁה שֶׁנָּדְרָה בְנָזִיר וְהִפְרִישָׁה אֶת בְּהֶמְתָּהּ וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ, אִם שֶׁלּוֹ הָיְתָה בְהֶמְתָּהּ, תֵּצֵא וְתִרְעֶה בָעֵדֶר. וְאִם שֶׁלָּהּ הָיְתָה בְהֶמְתָּהּ, הַחַטָּאת תָּמוּת, וְעוֹלָה תִּקְרַב עוֹלָה, וְהַשְּׁלָמִים יִקְרְבוּ שְׁלָמִים, וְנֶאֱכָלִין לְיוֹם אֶחָד, וְאֵינָן טְעוּנִין לָחֶם. הָיוּ לָהּ מָעוֹת סְתוּמִים, יִפְּלוּ לִנְדָבָה. מָעוֹת מְפֹרָשִׁים, דְּמֵי חַטָּאת, יֵלְכוּ לְיַם הַמֶּלַח, לֹא נֶהֱנִים וְלֹא מוֹעֲלִים בָּהֶן. דְּמֵי עוֹלָה, יָבִיאוּ עוֹלָה, וּמוֹעֲלִים בָּהֶן. דְּמֵי שְׁלָמִים, יָבִיאוּ שְׁלָמִים, וְנֶאֱכָלִין לְיוֹם אֶחָד, וְאֵינָן טְעוּנִין לָחֶם:",
+              "link": "/Mishnah Nazir/4",
+              "ref": "Mishnah Nazir 4:4",
+              "sourceHeRef": "משנה נזיר ד:ד",
+              "sourceRef": "Mishnah Nazir 4:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואם שלה היתה הבהמה</strong> - וכגון שהקנה לה אחר לנזירותה ואמר לה על מנת שאין לבעליך רשות בה:",
+              "ref": "Rashi on Nazir 21b:7:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ז:א",
+              "sourceRef": "Rashi on Nazir 21b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים עוד ראיה: <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ושמע<span class=\"hebrew-emphasis\">]</span> ראיה לדבר ממה ששנינו: <b>האשה שנדרה בנזיר</b> (נדר נזירות), <b>והפרישה את בהמתה</b> לקרבן הנזירות, <b>ואחר כך הפר לה בעלה</b> את נדרה, ושוב אינה צריכה בהמה זו לקרבן, <b>אם</b> מ<b>שלו היתה הבהמה</b> ונתן לה לצורך הקרבן בלבד — הרי זה כאילו לא הוקדשה כלל, ו<b>תצא ותרעה בעדר</b> עם שאר הבהמות, כבהמת חולין גמורה. <b>ואם שלה היתה הבהמה,</b> זו המיועדת לקרבן <b>החטאת —</b> <b>תמות</b> כדין כל בהמת חטאת שאי אפשר להקריבה, שהיא מומתת.",
+              "ref": "Steinsaltz on Nazir 21b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:ז",
+              "sourceRef": "Steinsaltz on Nazir 21b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Since the animal belonged to the husband, from the outset he gave it to her only to be used as an offering. Consequently, once it is established that she does not need the animal she no longer owns it, which means the sanctity of the animal is canceled as well (<i>Tosafot</i>, based on 24a). <i>Tosafot</i> add that even according to the opinion of Rabbi Yehuda that a husband is obligated to provide his wife with all the offerings she requires, this <i>halakha</i> applies only to her obligations, not to an animal that she does not need.",
+              "he": "כי מאחר שהבהמה היתה של הבעל, הרי מעיקר לא הוקנתה לה אלא לצורך, וכיון שנתברר שלא היה בה צורך בטלה ההקניה, ועמה בטלה גם הקדשת הבהמה (תוס', ועל פי האמור להלן בדף כד, א). והעירו כי אף לשיטת ר' יהודה שהבעל משועבד משעת הנישואין לספק לאשתו כל קרבנות שהיא מחוייבת בהם, מכל מקום אין שיעבוד זה אלא על דבר שיש חיוב בו, ולא על קרבן שאינו צריך.",
+              "ref": "Steinsaltz comment #1 on Nazir 21b:7",
+              "sourceHeRef": "אִם שֶׁלּוֹ הָיְתָה הַבְּהֵמָה",
+              "sourceRef": "If the animal was his"
+            },
+            {
+              "en": "If a woman who took a vow of naziriteship became ritually impure during her term, and afterward her husband heard of her vow and nullified it, she must bring an offering for her impurity. Some commentaries maintain that this is in accordance with the opinion that a husband uproots his wife’s vows (<i>Mishne LaMelekh</i>). According to the conclusion of the Gemara that he merely severs the vows from that point onward, she must also bring the burnt-offering, and apparently the guilt-offering as well. The Jerusalem Talmud indicates likewise (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>9:11).",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Nazir 21b:7",
+              "sourceHeRef": "הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וכו׳",
+              "sourceRef": "A woman who vowed to be a nazirite, etc."
+            },
+            {
+              "en": "With regard to a woman who took a vow of naziriteship, set aside animals for this purpose, and afterward her husband nullified her vow, if the animals belonged to him they are set free to graze with the rest of the flock. If she had exclusive ownership of the animals, the sin-offering must be left to die, the burnt-offering is sacrificed as a burnt-offering, and the peace-offering is sacrificed as a peace-offering. However, this peace-offering must be eaten in one day and does not require bread, unlike standard peace-offerings (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>9:9).",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Nazir 21b:7",
+              "sourceHeRef": "הָאִשָּׁה שֶׁנָּדְרָה וכו׳",
+              "sourceRef": "A woman who vowed, etc."
+            },
+            {
+              "en": "A nazirite who completes the term of naziriteship must bring two lambs as offerings: One female as a sin-offering and one male as a burnt-offering, and a ram as a peace-offering (Numbers 6:13–21). The nazirite must be shorn of all hair of the head, which is burned beneath the pot in which the ram sacrificed as a peace-offering is cooked.",
+              "he": "",
+              "ref": "Steinsaltz comment #4 on Nazir 21b:7",
+              "sourceHeRef": "נָזִיר וְהִפְרִישָׁה אֶת בְּהֶמְתָּהּ",
+              "sourceRef": "A nazirite…separated her animals at the end of her term"
+            },
+            {
+              "en": "Although one might think that the animal should be considered entirely non-sacred, as it was consecrated in error, this is not the case, as explained by the Gemara earlier (21b), in accordance with the variant readings and interpretations of the discussion there. Some commentaries explain that this is in accordance with the opinion of Rabbi Elazar HaKappar that a nazirite sins through the very acceptance of naziriteship, and therefore the animal retains a measure of sanctity and does not revert to its earlier state (<i>Tosafot</i>). Others maintain that the animal is considered a sin-offering whose owner has gained atonement by means of another, as she is no longer in need of it (Commentary on <i>Nazir</i>). In the Jerusalem Talmud it is similarly stated that the reason is that the husband’s nullification does not uproot the vow entirely. Consequently, although she need not observe naziriteship at this stage, because the consecration of the sin-offering was proper at the time it must now be left to die rather than be set free as a non-sacred animal.",
+              "he": "",
+              "ref": "Steinsaltz comment #5 on Nazir 21b:7",
+              "sourceHeRef": "הַחַטָּאת תָּמוּת",
+              "sourceRef": "The sin-offering must be left to die"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">האשה שנדרה בנזיר והפרישה בהמתה</strong> - חטאת עולה ושלמים אם שלו היתה הבהמה פי' מבהמות של בעלה תצא ותרעה בעדר כלומר חולין היא כיון שהיפר לה בעלה וכדמפרש לקמן <span class=\"parenthesized\">(נזיר דף כד.)</span> דכי [מקנה] לה בעלה מילתא דצריך לה כלומר אם לא היפר לה שצריכה לקרבנות נזיר במילתא דלא צריכה כגון שהיפר לה בעלה ואינה צריכה לקרבנות נזיר לא מקני לה:",
+              "ref": "Tosafot on Nazir 21b:7:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:ז:א",
+              "sourceRef": "Tosafot on Nazir 21b:7:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "This is the ritual for the nazirite: On the day that his term as nazirite is completed, he shall be brought to the entrance of the Tent of Meeting.",
+              "he": "וְזֹ֥את תּוֹרַ֖ת הַנָּזִ֑יר בְּי֗וֹם מְלֹאת֙ יְמֵ֣י נִזְר֔וֹ יָבִ֣יא אֹת֔וֹ אֶל־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:13",
+              "sourceHeRef": "במדבר ו:יג",
+              "sourceRef": "Numbers 6:13"
+            },
+            {
+              "en": "As his offering to the L<small>ORD</small> he shall present: one male lamb in its first year, without blemish, for a burnt offering; one ewe lamb in its first year, without blemish, for a sin offering; one ram without blemish for an offering of well-being;",
+              "he": "וְהִקְרִ֣יב אֶת־קׇרְבָּנ֣וֹ לַיהֹוָ֡ה כֶּ֩בֶשׂ֩ בֶּן־שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה וְכַבְשָׂ֨ה אַחַ֧ת בַּת־שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את וְאַֽיִל־אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:14",
+              "sourceHeRef": "במדבר ו:יד",
+              "sourceRef": "Numbers 6:14"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara cites another mishna (24a): <b>Come</b> and <b>hear:</b> With regard to <b>a woman who vowed to be a nazirite and separated her animal</b> for this purpose (see Numbers 6:13–14), <b>and afterward her husband nullified her</b> vow, which means that she is no longer obligated to bring an offering, <b>if the animal was his,</b> which he had given to her, it is as though it were never consecrated at all, and <b>it shall go out and graze among</b> the <b>flock</b> like a regular, non-consecrated animal, until it becomes blemished. <b>And if the animal was hers,</b> and it was designated for <b>a sin-offering, it must</b> be placed in isolation for it to <b>die,</b> in accordance with the general <i>halakha</i> that a sin-offering that may not be sacrificed must be left to die.",
+      "he": "תָּא שְׁמַע: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְהִפְרִישָׁה אֶת בְּהֶמְתָּהּ, וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ, אִם שֶׁלּוֹ הָיְתָה הַבְּהֵמָה — תֵּצֵא וְתִרְעֶה בָּעֵדֶר. וְאִם שֶׁלָּהּ הָיְתָה הַבְּהֵמָה — הַחַטָּאת תָּמוּת.",
+      "ref": "Nazir 21b:7"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואי סלקא דעתך</b> <span class=\"hebrew-emphasis\">[ואם עולה על דעתך</span><span class=\"hebrew-emphasis\">]</span> לומר שה<b>בעל מיעקר עקר</b> <span class=\"hebrew-emphasis\">[עוקר</span><span class=\"hebrew-emphasis\">]</span> את הנדר מעיקרו — <b>תיפוק</b> <span class=\"hebrew-emphasis\">[תצא</span><span class=\"hebrew-emphasis\">]</span> גם החטאת שהפרישה היא משלה <b>לחולין,</b> כדין חטאת נזיר שהתירו חכמים את נדרו (להלן נזיר לא, ב)! <b>אלא לאו שמע מינה</b> <span class=\"hebrew-emphasis\">[האם לא תלמד מכאן</span><span class=\"hebrew-emphasis\">]</span> כי ה<b>בעל</b> רק <b>מיגז גייז</b> <span class=\"hebrew-emphasis\">[גוזז</span><span class=\"hebrew-emphasis\">]</span> את הנדר, ובשעה שהפרישה בהמה היתה אכן נזירה, ולא נעקר דבר זה!",
+              "ref": "Steinsaltz on Nazir 21b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:ח",
+              "sourceRef": "Steinsaltz on Nazir 21b:8"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains the difficulty from this mishna: <b>And if it should enter your mind</b> that <b>the husband uproots</b> the vow, the sin-offering should <b>be released as a non-sacred</b> animal, in accordance with the <i>halakha</i> of a sin-offering of a nazirite whose vow was nullified (31a). <b>Rather,</b> must one <b>not conclude from</b> the mishna that <b>the husband</b> merely <b>severs</b> the vow, which means that she was a nazirite when she separated the animal, and therefore it is consecrated?",
+      "he": "וְאִי סָלְקָא דַעְתָּךְ בַּעַל מִיעְקָר עָקַר — תִּיפּוֹק לְחוּלִּין! אֶלָּא לָאו שְׁמַע מִינַּהּ, בַּעַל מִיגָּז גָּיֵיז!",
+      "ref": "Nazir 21b:8"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "[All of the following:]<br>a) the offspring of [an animal designated as] a sin-offering,<br>b) an animal exchanged for [an animal designated as] a sin-offering,<br>c)[an animal designated as] a sin-offering whose owner dies, and<br>d) such animal that was lost and then found only after the owner secured atonement, should be consigned to die.<br>[In the latter instance, if the first animal designated as a sin-offering] was found after the second that was set aside was slaughtered, but before its blood was presented on the altar, there is an unresolved doubt if it should be consigned to death or left to pasture until it contracts a disqualifying blemish. Therefore it should be consigned to death.<br>What is meant by being consigned to death? Not that one should kill them with a utensil or by hand. Instead, they should be brought into a room, locked inside, [and left] until they die. All of these matters were conveyed by Moses our teacher.<br>All of the above applies only to a sin-offering designated by an individual. [An animal designated as] a communal sin-offering, by contrast, which was lost and then discovered after atonement was secured - whether it is fit [to be offered as a sacrifice] or unfit- should be left to pasture until it contracts a blemish and then sold. The proceeds should be used for freewill offerings.<br>With regard to communal sin-offerings, it is impossible to speak of offspring, exchanges, or the owners dying, because all of the communal offerings are male. The community cannot exchange one sacrificial animal for another as will be explained. And the entire Jewish people will not die.",
+              "he": "וְלַד חַטָּאת וּתְמוּרַת חַטָּאת וְחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ וְחַטָּאת שֶׁאָבְדָה וְנִמְצֵאת אַחַר שֶׁכִּפְּרוּ הַבְּעָלִים הֲרֵי אֵלּוּ יָמוּתוּ. נִמְצֵאת אַחַר שֶׁנִּשְׁחֲטָה הַחַטָּאת הַשְּׁנִיָּה שֶׁהִפְרִישׁ קֹדֶם שֶׁיִּזָּרֵק דָּמָהּ. הֲרֵי זוֹ סָפֵק אִם תָּמוּת אִם תִּרְעֶה עַד שֶׁיִּפּל בָּהּ מוּם. לְפִיכָךְ תָּמוּת. וְכֵיצַד הֵן מֵתוֹת. לֹא שֶׁיַּהַרְגֵם בִּכְלִי אוֹ בְּיָדוֹ אֶלָּא יַכְנִיסֵם לְבַיִת וְנוֹעֵל עֲלֵיהֶם עַד שֶׁיָּמוּתוּ. וּדְבָרִים אֵלּוּ כֻּלָּם מִפִּי משֶׁה רַבֵּנוּ נִשְׁמְעוּ. אֵין כָּל הַדְּבָרִים אֲמוּרִים אֶלָּא בְּחַטַּאת יָחִיד בִּלְבַד. אֲבָל חַטַּאת צִבּוּר שֶׁאָבְדָה וְנִמְצֵאת אַחַר כַּפָּרָה בֵּין רְאוּיָה בֵּין אֵינָהּ רְאוּיָה תִּרְעֶה עַד שֶׁיִּפּל בָּהּ מוּם וְתִמָּכֵר וְיִפְּלוּ דָּמֶיהָ לִנְדָבָה. וְאֵין אַתָּה יָכוֹל לוֹמַר בְּחַטַּאת צִבּוּר וָלָד אוֹ תְּמוּרָה אוֹ שֶׁמֵּתוּ בְּעָלֶיהָ. שֶׁכָּל קָרְבְּנוֹת הַצִּבּוּר זְכָרִים וְאֵין הַצִּבּוּר עוֹשִׂין תְּמוּרָה כְּמוֹ שֶׁיִּתְבָּאֵר וְאֵין כָּל יִשְׂרָאֵל מֵתִים:",
+              "ref": "Mishneh Torah, Sacrifices Rendered Unfit 4:1",
+              "sourceHeRef": "הלכות פסולי המוקדשין ד:א",
+              "sourceRef": "Sacrifices Rendered Unfit 4:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והיינו טעמא</strong> - דתמות דכיון שהפרישה לשם חטאת מעיקרא והשתא לא מצטרכה לכפרה דהא היפר לה בעלה ועקר את הנדר מעיקרו הויא לה כחטאת שמתו בעליה דגמירי דלמיתה אזלא לפי שאין כפרה למתים ואית דמפרשי כיון דצריכה כפרה על שציערה עצמה מן היין והשתא לא צריכה דהיפר לה בעלה מעיקרא הויא לה כחטאת שמתו בעליה דגמירי דלמיתה אזלא דאפילו ר\"א הקפר מודה דלא קרבה אפי' על הצער משום דהויא לה כחטאת שמתו בעליה משום דבחטאת בהמה גמרינן דתמות אבל בחטאת העוף לא גמרינן דתמות:",
+              "ref": "Rashi on Nazir 21b:9:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:ט:א",
+              "sourceRef": "Rashi on Nazir 21b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>לעולם אימא</b> <span class=\"hebrew-emphasis\">[</span>יכול אני אומר<span class=\"hebrew-emphasis\">]</span> <b>לך</b> שה<b>בעל מיעקר עקר</b> <span class=\"hebrew-emphasis\">[עוקר</span><span class=\"hebrew-emphasis\">]</span> את הנדר מעיקרו, <b>והיינו טעמא</b> <span class=\"hebrew-emphasis\">[וזה הטעם</span><span class=\"hebrew-emphasis\">]:</span> <b>כיון</b> ש<b>לא צריכה כפרה</b> עוד, שהרי הנדר בטל מעתה, <b>הות</b> <span class=\"hebrew-emphasis\">[הריהי</span><span class=\"hebrew-emphasis\">]</span> בהמה זו נדונה <b>כ</b>דין בהמת <b>חטאת שמתו בעליה</b> שאין צורך עוד בכפרתה, <b>וגמירי</b> <span class=\"hebrew-emphasis\">[ולמודים אנו</span> במסורת<span class=\"hebrew-emphasis\">]</span> ש<b>חטאת שמתו בעליה</b> — <b>תמות.</b>",
+              "ref": "Steinsaltz on Nazir 21b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:ט",
+              "sourceRef": "Steinsaltz on Nazir 21b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Once her husband has nullified her vow she is no longer in need of atonement, which means the animal is considered like a sin-offering whose owner has died, and therefore it is left to die (Commentary on <i>Nazir</i>). Some commentaries maintain that by right, no sanctity should apply to the animal at all, as she does not require atonement; however, as her act of consecration was valid at the time, the Sages decreed that the animal should not return to its initial state, and instead it should be considered like an offering whose owner has died. This decree was established to prevent people from treating consecrated objects lightly (Rid).  Other commentaries had a variant reading of the text: Since she requires atonement (<i>Tosafot</i>). They explain that her very acceptance of naziriteship is considered a sin due to her self-denial, in accordance with Rabbi Elazar HaKappar’s dictum (19a) that a nazirite is called a sinner. Therefore, she still requires atonement, and consequently the animal is sacred. When her husband nullifies her vow, since in practice she can no longer bring the animal for her atonement, it is considered an animal whose owner has died without gaining atonement.",
+              "he": "כי אחרי שהיפר לה הבעל נמצא שאינה צריכה עוד כפרה, והרי זה כקרבן חטאת שמתו בעליו, שהרי האשה כאן מסולקת מחובת הקרבן וכאילו אינה קיימת, ולכן הבהמה שהוקדשה כבר דינה כחטאת שמתו בעליה, ותמות (מפרש). והרי\"ד מסביר כי מאחר שאינה צריכה כפרה אכן היה מן הראוי שתיבטל הקדשת הבהמה לגמרי, אולם מאחר שהאשה עשתה מעשה הקדשה ובשעתו היה במעשה זה ממש — גזרו חכמים שלא תחזור לחולין, אלא תיחשב כקרבן שהופרש ומתו בעליו, כדי שלא יבואו לזלזל בהקדש. אכן, התוס' ועוד הראשונים גרסו כאן \"דכיון דצריכה כפרה\", שכיון שבעצם קבלת הנזירות שהיא מצערת את עצמה יש משום חטא (וכדברי ר' אלעזר הקפר שנזיר נקרא חוטא), הריהי צריכה כפרה, וחלה קדושה על הבהמה, אולם מאחר שהיפר הבעל ואינה צריכה כפרה מן הדין — הרי זו כחטאת שמתו בעליה.",
+              "ref": "Steinsaltz comment #1 on Nazir 21b:9",
+              "sourceHeRef": "דְּלָא צְרִיכָה כַּפָּרָה",
+              "sourceRef": "Since she requires no atonement"
+            },
+            {
+              "en": "A sin-offering whose owner has died must be left to die (Rambam <i>Sefer Avoda</i>,<i> Hilkhot Pesulei HaMukdashin </i>4:1).",
+              "he": "חטאת שמתו בעליה — הרי זו תמות. (רמב\"ם ספר עבודה הלכות פסולי המוקדשין פ\"ד ה\"א).",
+              "ref": "Steinsaltz comment #2 on Nazir 21b:9",
+              "sourceHeRef": "חַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ",
+              "sourceRef": "A sin-offering whose owners have died"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והיינו טעמא דכיון דצריכה כפרה</strong> - על שציערה עצמה מן היין וכרבי אלעזר הקפר דאמר דנזיר חוטא הוא הוה ליה חטאת <span class=\"parenthesized\">(העוף)</span> שמתו בעליה אע\"ג דהפר לה לענין [איסור] על הבהמה דין חטאת אם הבהמה [שלה] היא דגמרה ומקדיש לה:",
+              "ref": "Tosafot on Nazir 21b:9:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:ט:א",
+              "sourceRef": "Tosafot on Nazir 21b:9:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara rejects this proof: <b>Actually, I</b> could <b>say to you</b> that the <b>husband uproots</b> the vow, <b>and this is the reason</b> for the above ruling: <b>Since she requires no atonement,</b> as the vow is no longer in effect, this animal <b>is</b> treated <b>as a sin-offering whose owners have died, and</b> it <b>is learned</b> as a tradition <b>that a sin-offering whose owners have died must</b> be left to <b>die.</b>",
+      "he": "לְעוֹלָם אֵימָא לָךְ בַּעַל מִיעְקָר עָקַר, וְהַיְינוּ טַעְמָא: כֵּיוָן דְּלֹא צְרִיכָה כַּפָּרָה, הֲוָת כְּחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ, וּגְמִירִי דְּחַטָּאת שֶׁמֵּתוּ בְּעָלֶיהָ — תָּמוּת.",
+      "ref": "Nazir 21b:9"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>Rav Yehuda said</b> that <b>Shmuel said:</b> In a case where a woman <b>vowed</b> that <b>two loaves</b> are forbidden to her, and if she abstains <b>from one</b> of them she would <b>deprive herself,</b> as it is a fine-quality loaf, <b>and</b> if she abstains <b>from</b> the other <b>one</b> she would <b>not deprive herself,</b> as it is a poor-quality loaf, then, <b>since</b> the husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself,</b> like any other vow of affliction, <b>he can</b> also <b>nullify</b> the vow <b>with regard to the</b> loaf that would <b>not</b> cause her to <b>deprive herself. And Rav Asi said</b> that <b>Rabbi Yoḥanan said:</b> The husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself, but he cannot nullify</b> the vow <b>with regard to the</b> loaf that would <b>not</b> cause her to <b>deprive herself.</b>",
+                  "<b>And some say</b> a different version of this dispute, according to which <b>Rav Asi raised a dilemma before Rabbi Yoḥanan:</b> In a case where a woman <b>vowed</b> not to eat <b>from two loaves</b> of bread, and if she abstains <b>from one</b> of them she would <b>deprive herself, and</b> if she abstains <b>from</b> the other <b>one</b> she would <b>not deprive herself, what is</b> the <i>halakha</i>? Rabbi Yoḥanan <b>said to him:</b> The husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself, but he cannot nullify</b> the vow <b>with regard to the</b> loaf that would <b>not</b> cause her to <b>deprive herself.</b>",
+                  "Rav Asi <b>raised an objection</b> against Rabbi Yoḥanan from the following mishna (<i>Nazir</i> 23a): With regard to <b>a woman who vowed</b> to be <b>a nazirite, and she</b> transgressed her vow and <b>drank wine or became impure</b> by coming into contact <b>with the dead,</b>"
+                ],
+                [
+                  "<b>she incurs [<i>sofeget</i>] the forty</b> lashes, the penalty for one who transgresses a Torah prohibition, as she violated the terms of her nazirite vow. If <b>her husband nullified</b> the vow <b>for her, but she did not know that he nullified it for her, and she drank wine or became impure through</b> contact with <b>the dead, she does not incur the forty</b> lashes. She did not commit a transgression, as her nazirite vow was nullified.",
+                  "<b>And if you say</b> that the husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself, but he cannot nullify</b> the vow <b>with regard to the</b> loaf that would <b>not</b> cause her to <b>deprive herself,</b> the same reasoning should apply to a nazirite vow: <b>Perhaps</b> the husband <b>nullified for her</b> the vow that rendered <b>wine</b> forbidden <b>to</b> her, <b>as she suffers pain</b> when she refrains from drinking it. But as for her vow that rendered grape <b>seeds and</b> grape <b>skins</b> forbidden <b>to</b> her, <b>he did not nullify</b> it <b>for her, as she suffers no pain</b> when she abstains from them. And since even grape seeds and grape skins are forbidden to a nazirite, if the woman ate of them, <b>she should receive the forty</b> lashes, even if her husband nullified her vow.",
+                  "<b>Rav Yosef said:</b> Here it is different, as <b>naziriteship cannot take effect partially.</b> Since one cannot be a nazirite and accept only some of the prohibitions of naziriteship, the husband’s nullification cancels the entire vow. In the case of an ordinary vow, on the other hand, the husband can nullify only the part that causes his wife suffering.",
+                  "<b>Abaye said to him:</b> The wording of your statement suggests that naziriteship cannot take effect partially, <b>but</b> that <b>an offering is</b> brought <b>for partial</b> observance of <b>naziriteship. Rather, Abaye said</b> that one should say as follows: <b>Naziriteship cannot take effect partially, and no offering is</b> brought <b>for partial</b> observance of naziriteship.",
+                  "The Gemara <b>raises an objection</b> from the following statement: With regard to <b>a woman who vowed to be a nazirite and she designated her animal</b> for her nazirite offering, <b>and afterward her husband nullified</b> her vow <b>for her, she must bring a bird sin-offering but she does not bring a bird burnt-offering. And if you say</b> that <b>no offering is</b> brought <b>for partial</b> observance of <b>naziriteship, why must she bring a bird sin-offering?</b>",
+                  "The Gemara rejects this argument: <b>But rather, what</b> will you say? That <b>an offering is</b> brought <b>for partial</b> observance of <b>naziriteship?</b> If so, she <b>should be required to bring three animals</b> as offerings, <b>a sin-offering, a burnt-offering, and a peace-offering,</b> in accordance with the <i>halakha</i> governing a nazirite who has completed the period of his vow. <b>Rather,</b> say as follows: <b>Actually, no offering is</b> brought <b>for partial</b> observance of <b>naziriteship, and</b> as for <b>the bird sin-offering that she must bring,</b> this is <b>because</b> a bird <b>sin-offering</b> can be brought <b>in</b> a case of <b>uncertainty.</b> She must therefore bring a sin-offering for the partial naziriteship that she observed.",
+                  "Rav Asi <b>raised an objection</b> against the opinion of Rabbi Yoḥanan from the following <i>baraita</i>: With regard to <b>a woman who vowed to be a nazirite and she became ritually impure</b> through contact with the dead, <b>and afterward her husband nullified</b> her vow <b>for her, she must bring a bird sin-offering but does not bring a bird burnt-offering. And if you say</b> that the husband <b>can nullify</b> the vow <b>with regard to the</b> loaf that would cause her to <b>deprive herself, but he cannot nullify</b> the vow <b>with regard to</b> the loaf that would <b>not</b> cause her to <b>deprive herself,</b> the same reasoning should apply here:"
+                ],
+                [
+                  "<b>Perhaps</b> the husband <b>nullified for her</b> the vow that rendered <b>wine</b> forbidden <b>to</b> her, <b>as she suffers pain</b> when she refrains from drinking it. But as for her vow that <b>impurity</b> imparted <b>by the dead</b> is forbidden to her, <b>he did not nullify</b> it <b>for her, as she suffers no pain</b> by not becoming impure through contact with the dead. Why, then, does she not bring the offerings that must be brought by a nazirite who became ritually impure through contact with the dead? This implies that since the husband can nullify a vow with regard to a matter that would cause her to deprive herself, he can also nullify a vow with regard to a matter that would not cause her to deprive herself.",
+                  "The Gemara rejects this argument: The Sages <b>say</b> in response that a woman who vows that <b>impurity</b> imparted <b>by the dead</b> is forbidden <b>to</b> her <b>also suffers pain</b> as a result. How so? <b>As it is written: “And the living shall lay it to his heart”</b> (Ecclesiastes 7:2), <b>and it is taught</b> in a <i>baraita</i> that <b>Rabbi Meir would say: What</b> is the meaning of that <b>which is written: “And the living shall lay it to his heart”?</b> This means that one <b>who eulogizes</b> others when they die <b>will</b> in turn <b>be eulogized</b> when he himself dies; one <b>who weeps</b> for others <b>will be wept for</b> when he himself passes away; and one <b>who buries</b> others <b>will</b> himself <b>be buried</b> upon his passing. A woman who cannot participate in the funerals of others because she is barred from contracting impurity through contact with a corpse is distressed by the thought that she will receive similar treatment when she dies. Therefore, her vow involves affliction and can be nullified by her husband. The conclusion is that this case does not present a difficulty for Rabbi Yoḥanan."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nedarim 82b:2",
+                "Nedarim 82b:3",
+                "Nedarim 82b:4",
+                "Nedarim 83a:1",
+                "Nedarim 83a:2",
+                "Nedarim 83a:3",
+                "Nedarim 83a:4",
+                "Nedarim 83a:5",
+                "Nedarim 83a:6",
+                "Nedarim 83a:7",
+                "Nedarim 83b:1",
+                "Nedarim 83b:2"
+              ],
+              "he": [
+                [
+                  "אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: נָדְרָה מִשְׁתֵּי כִכָּרוֹת, בְּאַחַת מִתְעַנָּה, וּבְאַחַת אֵין מִתְעַנָּה, מִתּוֹךְ שֶׁהוּא מֵפֵר לַמִּתְעַנָּה — מֵפֵר לְשֶׁאֵינוֹ מִתְעַנָּה. וְרַב אַסִּי אָמַר רַבִּי יוֹחָנָן: מֵפֵר לַמִּתְעַנָּה, וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה.",
+                  "וְאִיכָּא דְּאָמְרִי, בְּעָא מִינֵּיהּ רַב אַסִּי מֵרַבִּי יוֹחָנָן: נָדְרָה מִשְׁתֵּי כִכָּרוֹת, בְּאַחַת מִתְעַנָּה וּבְאַחַת אֵין מִתְעַנָּה, מַהוּ? אֲמַר לֵיהּ: מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה.",
+                  "אֵיתִיבֵיהּ: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְהָיְתָה שׁוֹתֶה יַיִן, וּמִטַּמְּאָה לְמֵתִים"
+                ],
+                [
+                  "הֲרֵי זוֹ סוֹפֶגֶת אֶת הָאַרְבָּעִים. הֵפֵר לָהּ בַּעְלָהּ וְהִיא לֹא יָדְעָה שֶׁהֵפֵר לָהּ, וְהָיְתָה שׁוֹתָה יַיִן וּמִיטַּמְּאָהּ לְמֵתִים — אֵינָהּ סוֹפֶגֶת אֶת הָאַרְבָּעִים.",
+                  "וְאִי אָמְרַתְּ מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה, דִּלְמָא מִן יַיִן דְּאִית לַהּ צַעֲרָא — הֵפֵר לָהּ, מִן חַרְצָן וּמִן זַג — לֹא הֵפֵר לָהּ, דְּהָא לָא אִית לַהּ צַעֲרָא. וְתִסְפּוֹג אֶת הָאַרְבָּעִים!",
+                  "אָמַר רַב יוֹסֵף: אֵין נְזִירוּת לַחֲצָאִין.",
+                  "אֲמַר לֵיהּ אַבָּיֵי: הָא קׇרְבָּן לַחֲצִי נְזִירוּת אִיכָּא?! אֶלָּא אָמַר אַבָּיֵי: אֵין נְזִירוּת לַחֲצָאִין, וְאֵין קׇרְבָּן לַחֲצָאִין.",
+                  "מֵיתִיבִי: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְהִפְרִישָׁה בְּהֶמְתָּהּ וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵינָהּ מְבִיאָה עוֹלַת הָעוֹף. וְאִי אָמְרַתְּ אֵין קׇרְבָּן לַחֲצִי נְזִירוּת, אַמַּאי מְבִיאָה חַטָּאת הָעוֹף?",
+                  "וְאֶלָּא מַאי — יֵשׁ קׇרְבָּן לַחֲצִי נְזִירוּת? שָׁלֹשׁ בְּהֵמוֹת בָּעֵי לְאֵתוֹיֵי: חַטָּאת, עוֹלָה, וּשְׁלָמִים! אֶלָּא, לְעוֹלָם אֵין קׇרְבָּן לַחֲצִי נְזִירוּת. וְחַטַּאת הָעוֹף דְּמַתְיָא — מִשּׁוּם דְּחַטָּאת עַל הַסָּפֵק.",
+                  "אֵיתִיבֵיהּ: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְנִטְמֵאת, וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ — מְבִיאָה חַטַּאת הָעוֹף, וְאֵין מְבִיאָה עוֹלַת הָעוֹף. וְאִי אָמְרַתְּ מֵפֵר לַמִּתְעַנָּה וְאֵין מֵפֵר לְשֶׁאֵין מִתְעַנָּה,"
+                ],
+                [
+                  "דִּלְמָא מִיַּיִן דְּאִית לַהּ צַעֲרָא — הֵפֵר לָהּ, מִטּוּמְאַת מֵת, דְּלֵית לַהּ צַעֲרָא — לֹא הֵפֵר לָהּ?",
+                  "אָמְרִי: מִטּוּמְאַת מֵת נָמֵי אִית לַהּ צַעֲרָא — דִּכְתִיב: ״וְהַחַי יִתֵּן אֶל לִבּוֹ״, וְתַנְיָא, הָיָה רַבִּי מֵאִיר אוֹמֵר: מַאי דִּכְתִיב ״וְהַחַי יִתֵּן אֶל לִבּוֹ״, דְּיִסְפּוֹד — יִסְפְּדוּן לֵיהּ, דְּיִבְכּוּן — יִבְכּוּן לֵיהּ, דְּיִקְבַּר — יִקְבְּרוּנֵיהּ."
+                ]
+              ],
+              "link": "/Nedarim/82b",
+              "originalRefsBeforeRewriting": [
+                "Nedarim 82b:4",
+                "Nedarim 83a:1"
+              ],
+              "ref": "Nedarim 82b:2-83b:2",
+              "sourceHeRef": "נדרים פ״ב ב",
+              "sourceRef": "Nedarim 82b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "With regard to <b>a woman who vowed to be a nazirite, and</b> she transgressed her vow since <b>she was drinking wine and rendering herself ritually impure by</b> contact with <b>the dead, she incurs the forty</b> lashes for each of the Torah prohibitions she transgressed. If <b>her husband nullified her</b> vow, <b>and she did not know that her husband had nullified her</b> vow, <b>and she was drinking wine and rendering herself impure by</b> contact with <b>the dead, she does not incur the forty</b> lashes, as she is no longer a nazirite. <b>Rabbi Yehuda says:</b> Even <b>if she does not incur the forty</b> lashes by Torah law, <b>she should incur lashes for rebelliousness [<i>makat mardut</i>],</b> an extrajudicial punishment imposed by the Sages, for her intention to commit a transgression, since she believed that it was prohibited to her.",
+              "he": "הָאִשָּׁה שֶׁנָּדְרָה בְנָזִיר, וְהָיְתָה שׁוֹתָה בְיַיִן וּמִטַּמְּאָה לְמֵתִים, הֲרֵי זוֹ סוֹפֶגֶת אֶת הָאַרְבָּעִים. הֵפֵר לָהּ בַּעְלָהּ וְהִיא לֹא יָדְעָה שֶׁהֵפֵר לָהּ בַּעְלָהּ, וְהָיְתָה שׁוֹתָה בְיַיִן וּמִטַּמְּאָה לְמֵתִים, אֵינָהּ סוֹפֶגֶת אֶת הָאַרְבָּעִים. רַבִּי יְהוּדָה אוֹמֵר, אִם אֵינָהּ סוֹפֶגֶת אֶת הָאַרְבָּעִים, תִּסְפֹּג מַכַּת מַרְדּוּת:",
+              "link": "/Mishnah Nazir/4",
+              "ref": "Mishnah Nazir 4:3",
+              "sourceHeRef": "משנה נזיר ד:ג",
+              "sourceRef": "Mishnah Nazir 4:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים עוד: <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ושמע<span class=\"hebrew-emphasis\">]</span> ראיה לדבר ממה ששנינו במשנה הבאה: <b>האשה שנדרה בנזיר</b> (נדר נזירות), <b>ו</b>בכל זאת <b>היתה שותה יין ומטמאה למתים —</b> <b>הרי זו סופגת</b> (לוקה) <b>את הארבעים</b> מלקות שלוקה בהם העובר על \"לאו\" מן התורה. ומעתה נברר, <b>היכי דמי</b> <span class=\"hebrew-emphasis\">[כיצד בדיוק היה הדבר</span><span class=\"hebrew-emphasis\">]?</span> <b>אילימא</b> <span class=\"hebrew-emphasis\">[אם תאמר</span><span class=\"hebrew-emphasis\">]</span> ש<b>לא היפר לה</b> ה<b>בעל</b> — וכי <b>צריכא למימר</b> <span class=\"hebrew-emphasis\">[צריך לומר</span><span class=\"hebrew-emphasis\">]</span> שהיא לוקה? הרי כל נזיר שעובר על נזרו לוקה!",
+              "ref": "Steinsaltz on Nazir 21b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:י",
+              "sourceRef": "Steinsaltz on Nazir 21b:10"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">היכי דמי אילימא דלא היפר לה בעל</strong> - כלל צריכא למימר דלוקה דהא נזירה היא ופשיטה הוא דלוקה אלא פשיטא דהיפר לה הבעל אחר שנטמאה ואחר ששתתה ואפילו הכי לוקה דבההיא שעתא דשתתה ביין הוי נזירה וש\"מ הבעל מיגז גייז:",
+              "ref": "Tosafot on Nazir 21b:10:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:י:א",
+              "sourceRef": "Tosafot on Nazir 21b:10:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara continues to cite relevant sources. <b>Come</b> and <b>hear</b> the following mishna (23a): With regard to <b>a woman who vowed to be a nazirite and</b> nevertheless <b>was drinking wine and rendering herself ritually impure</b> by contact <b>with the dead, she incurs the forty</b> lashes for violating a Torah prohibition. The Gemara analyzes this mishna: <b>What are the circumstances</b> of this case? <b>If we say that</b> her <b>husband did not nullify her</b> vow, <b>need this be said</b> that she is liable to receive lashes? After all, every nazirite who transgresses their vow incurs lashes.",
+      "he": "תָּא שְׁמַע: הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְהָיְתָה שׁוֹתָה יַיִן וּמִטַּמְּאָה לְמֵתִים — הֲרֵי זוֹ סוֹפֶגֶת אֶת הָאַרְבָּעִים. הֵיכִי דָמֵי? אִילֵּימָא דְּלָא הֵיפַר לַהּ בַּעַל — צְרִיכָא לְמֵימַר?",
+      "ref": "Nazir 21b:10"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא פשיטא דהיפר לה בעל</strong> - וקתני דסופגת את הארבעים על שהיתה שותה יין ומטמאה למתים קודם שהיפר לה:",
+              "ref": "Rashi on Nazir 21b:11:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:יא:א",
+              "sourceRef": "Rashi on Nazir 21b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט</span><span class=\"hebrew-emphasis\">]</span> שמדובר כש<b>היפר לה</b> ה<b>בעל. ואי סלקא דעתך</b> <span class=\"hebrew-emphasis\">[ואם עולה על דעתך</span><span class=\"hebrew-emphasis\">]</span> לומר שה<b>בעל מיעקר עקר</b> <span class=\"hebrew-emphasis\">[עוקר</span><span class=\"hebrew-emphasis\">]</span> את הנדר מעיקרו — <b>אמאי</b> <span class=\"hebrew-emphasis\">[מדוע</span><span class=\"hebrew-emphasis\">]</span> <b>סופגת ארבעים</b> מלקות? הלא היא כאילו לא נדרה כלל! <b>אלא לאו שמע מינה</b> <span class=\"hebrew-emphasis\">[האם לא תלמד מכאן</span><span class=\"hebrew-emphasis\">]</span> שהבעל רק <b>מיגז גייז</b> <span class=\"hebrew-emphasis\">[גוזז</span><span class=\"hebrew-emphasis\">]</span> את הנדר, ולכן כיון שחל עליה הנדר במשך זמן מסויים, הריהי לוקה על מה שעברה?",
+              "ref": "Steinsaltz on Nazir 21b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:יא",
+              "sourceRef": "Steinsaltz on Nazir 21b:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והרי מצאנו (בשבועות כח, א) במי שהותר נדר נזירותו על ידי חכם, שעוקר את הנדר מעיקרו, שאינו לוקה? (ר\"פ).",
+              "ref": "Steinsaltz comment #1 on Nazir 21b:11",
+              "sourceHeRef": "אמאי סופגת ארבעים",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> it <b>is obvious</b> that the <b>husband nullified her</b> vow. <b>And if it should enter your mind</b> that the <b>husband uproots</b> his wife’s vow, <b>why</b> does <b>she incur the forty</b> lashes? It is as though she never vowed at all. <b>Rather,</b> must one <b>not conclude from</b> the mishna that the <b>husband severs</b> the vow, and therefore she is liable for her earlier transgression?",
+      "he": "אֶלָּא פְּשִׁיטָא דְּהֵיפַר לַהּ בַּעַל. וְאִי סָלְקָא דַעְתָּךְ בַּעַל מִיעְקָר עָקַר — אַמַּאי סוֹפֶגֶת אַרְבָּעִים? אֶלָּא לָאו שְׁמַע מִינַּהּ, בַּעַל מִיגָּז גָּיֵיז?",
+      "ref": "Nazir 21b:11"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara relates: <b>Those captive</b> women <b>who were brought to Neharde’a,</b> where they were redeemed, <b>were brought up to the house of Rav Amram the Pious. They removed the ladder from before them</b> to prevent men from climbing up after them to the attic where they were to sleep. <b>When one of them passed</b> by the entrance to the upper chamber, it was as though <b>a light shone in the aperture</b> due to her great beauty. Out of his desire for her, <b>Rav Amram grabbed a ladder that ten</b> men <b>together could not lift, lifted it on his own</b> and <b>began climbing.</b>",
+                  "<b>When he was halfway</b> up <b>the ladder, he strengthened</b> his legs against the sides of the ladder to stop himself from climbing further, <b>raised his voice,</b> and cried out: There is <b>a fire in the house of Amram.</b> Upon hearing this, <b>the Sages came</b> and found him in that position. <b>They said to him: You have embarrassed us,</b> since everyone sees what you had intended to do. Rav Amram <b>said to them: It is better that you be shamed in Amram’s house in this world, and not be ashamed of him in the World-to-Come. He took an oath that</b> his evil inclination <b>should emerge from him, and</b> an apparition <b>similar to a pillar of fire emerged from him. He said to</b> his evil inclination: <b>See, as you are fire and I am</b> mere <b>flesh, and</b> yet, <b>I am</b> still <b>superior to you,</b> as I was able to overcome you.",
+                  "The Gemara relates: <b>Rabbi Meir would ridicule transgressors</b> by saying it is easy to avoid temptation. <b>One day, Satan appeared to him as a woman</b> standing <b>on the other side of the river.</b> Since <b>there was no ferry</b> to cross the river, <b>he took hold of a rope bridge and crossed</b> the river. <b>When he reached halfway</b> across <b>the rope bridge,</b> the evil inclination <b>left him and said</b> to him: <b>Were it not for</b> the fact that <b>they proclaim about you in heaven: Be careful with regard to Rabbi Meir and his Torah, I would have made your blood like two <i>ma’a</i>,</b> i.e., completely worthless, since you would have fallen completely from your spiritual level.",
+                  "<b>Rabbi Akiva would</b> likewise <b>ridicule transgressors. One day, Satan appeared to him as a woman at the top of a palm tree.</b> Rabbi Akiva <b>grabbed hold of the palm tree and began climbing. When he was halfway up the palm tree,</b> the evil inclination <b>left him and said</b> to him: <b>Were it not for</b> the fact that <b>they proclaim about you in heaven: Be careful with regard to Rabbi Akiva and his Torah, I would have made your blood like two <i>ma’a</i>.</b>",
+                  "The Sage <b>Peleimu had the habit to say every day: An arrow in the eye of Satan,</b> mocking the temptations of the evil inclination. <b>One day, it was the eve of Yom Kippur,</b> and Satan <b>appeared to him as a pauper</b> who <b>came and called</b> him <b>to the door,</b> requesting alms. Peleimu <b>brought out bread to him.</b> Satan <b>said to him: On a day like today, everyone is inside</b> eating, <b>and</b> shall <b>I</b> stand <b>outside</b> and eat? Peleimu <b>brought him inside and gave him bread. He said to him: On a day like today, everyone</b> is sitting <b>at the table, and</b> shall <b>I</b> sit <b>by myself? They brought him and sat him at the table. He was sitting</b> and had <b>covered himself with boils and pus, and he was doing repulsive things</b> at the table. Peleimu <b>said to</b> the pauper:"
+                ],
+                [
+                  "<b>Sit properly</b> and do not act in a revolting manner. Satan then <b>said to him: Give me a cup. They gave him a cup. He coughed up his phlegm and spat it into</b> the cup. <b>They berated him</b> for acting this way, at which point Satan pretended to <b>sink</b> down <b>and die. They heard</b> people around them <b>saying: Peleimu killed a man! Peleimu killed a man!</b> Peleimu <b>fled and hid himself in the bathroom.</b> Satan <b>followed him</b> and <b>fell before him. Upon seeing that</b> Peleimu <b>was suffering, he revealed himself to him.</b> Satan <b>said to him: What is the reason that you spoke this way,</b> provoking me by saying: An arrow in the eye of Satan? He replied: <b>But what then should I say?</b> Satan <b>said to him: Let the Master,</b> i.e., Peleimu, <b>say:</b> Let <b>the Merciful One rebuke the Satan.</b>",
+                  "The Gemara relates: <b>Rabbi Ḥiyya bar Ashi was accustomed to say, whenever he would fall on his face</b> in prayer: <b>May the Merciful One save us from the evil inclination. One day his wife heard him</b> saying this prayer. <b>She said: After all, it has been several years since he has withdrawn from</b> engaging in intercourse with <b>me</b> due to his advanced years. <b>What is the reason that he says this</b> prayer, as there is no concern that he will engage in sinful sexual behavior?",
+                  "<b>One day,</b> while <b>he was studying in his garden, she adorned herself and repeatedly walked past him. He said: Who are you? She said: I am Ḥaruta,</b> a well-known prostitute, <b>returning from my day</b> at work. <b>He propositioned her. She said to him: Give me that pomegranate from the top of the tree</b> as payment. <b>He leapt up, went,</b> and <b>brought it to her,</b> and they engaged in intercourse.",
+                  "<b>When he came home, his wife was lighting</b> a fire in the <b>oven. He went and sat inside it. She said to him: What is this? He said to her: Such and such an incident</b> occurred; he told her that he engaged in intercourse with a prostitute. <b>She said to him: It was I. He paid no attention to her,</b> thinking she was merely trying to comfort him, <b>until she gave him signs</b> that it was indeed she. <b>He said to her: I, in any event, intended to transgress.</b> The Gemara relates: <b>All the days of that righteous man he would fast</b> for the transgression he intended to commit, <b>until he died by that death</b> in his misery.",
+                  "The Gemara explains the source that one who intended to transgress is punished even though he did not actually sin. <b>As it is taught</b> in a <i>baraita</i> concerning a husband who nullified the vow of his wife: <b>“Her husband has made them null; and the Lord will forgive her”</b> (Numbers 30:13). <b>With regard to what</b> case <b>is the verse speaking?</b> Why would the woman require forgiveness if her husband has nullified her vow? It is referring <b>to a woman who vowed</b> to <b>be a nazirite, and her husband heard and nullified her</b> vow. <b>And she did not know that her husband had nullified her</b> vow, <b>and she drank wine and contracted impurity from a corpse,</b> violating her presumed vow.",
+                  "The Gemara relates: <b>When Rabbi Akiva came to this verse he would cry. He said: And if</b> with regard to <b>one who intended to eat pork, and</b> kosher <b>lamb came up in his hand,</b> like this woman who intended to violate her vow but in fact did not, <b>the Torah</b> nevertheless <b>says: She requires atonement and forgiveness, all the more so</b> does <b>one who intended to eat pork and pork came up in his hand</b> require atonement and forgiveness.",
+                  "<b>In a similar manner, you</b> can <b>say</b> that the same lesson can be derived from the verse: <b>“Though he know it not, yet is he guilty, and shall bear his iniquity”</b> (Leviticus 5:17). <b>When Rabbi Akiva came to this verse he would cry.</b> He said: <b>And if</b> with regard to <b>one who intended to eat</b> permitted <b>fat, and</b> forbidden <b>fat</b> mistakenly <b>came up in his hand, the Torah states: “Though he know it not, yet is he guilty, and shall bear his iniquity,” all the more so</b> is this true for <b>one who intended to eat</b> forbidden <b>fat and</b> forbidden <b>fat came up in his hand. Isi ben Yehuda says</b> with regard to the verse <b>“Though he know it not, yet is he guilty, and shall bear his iniquity”: With regard to this matter all sufferers shall grieve,</b> since the verse teaches that one is punished even for sinning unawares."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 81a:11",
+                "Kiddushin 81a:12",
+                "Kiddushin 81a:13",
+                "Kiddushin 81a:14",
+                "Kiddushin 81a:15",
+                "Kiddushin 81b:1",
+                "Kiddushin 81b:2",
+                "Kiddushin 81b:3",
+                "Kiddushin 81b:4",
+                "Kiddushin 81b:5",
+                "Kiddushin 81b:6",
+                "Kiddushin 81b:7"
+              ],
+              "he": [
+                [
+                  "הָנָךְ שְׁבוּיָיתָא דַּאֲתַאי לִנְהַרְדְּעָא. אַסְּקִינְהוּ לְבֵי רַב עַמְרָם חֲסִידָא, אַשְׁקוּלוּ דַּרְגָּא מִקַּמַּיְיהוּ. בַּהֲדֵי דְּקָא חָלְפָה חֲדָא מִנַּיְיהוּ נְפַל נְהוֹרָא בְּאִיפּוּמָּא. שַׁקְלֵיהּ רַב עַמְרָם לְדַרְגָּא דְּלָא הֲווֹ יָכְלִין בֵּי עַשְׂרָה לְמִדְלְיֵיהּ, דַּלְיֵיהּ לְחוֹדֵיהּ, סָלֵיק וְאָזֵיל.",
+                  "כִּי מְטָא לְפַלְגָא [דְּ]דַרְגָּא אִיפְּשַׁח, רְמָא קָלָא: נוּרָא בֵּי עַמְרָם! אֲתוֹ רַבָּנַן, אֲמַרוּ לֵיהּ: כַּסֵּיפְתִּינַן. אֲמַר לְהוּ: מוּטָב תִּיכַּסְפוּ בֵּי עַמְרָם בְּעָלְמָא הָדֵין וְלָא תִּיכַּסְפוּ מִינֵּיהּ לְעָלְמָא דְּאָתֵי. אַשְׁבְּעֵיהּ דְּיִנְפַּק מִינֵּיהּ, נְפַק מִינֵּיהּ כִּי עַמּוּדָא דְנוּרָא. אֲמַר לֵיהּ: חֲזִי, דְּאַתְּ נוּרָא וַאֲנָא בִּישְׂרָא, וַאֲנָא עֲדִיפְנָא מִינָּךְ.",
+                  "רַבִּי מֵאִיר הֲוָה מִתְלוֹצֵץ בְּעוֹבְרֵי עֲבֵירָה. יוֹמָא חַד אִידְּמִי לֵיהּ שָׂטָן כְּאִיתְּתָא בְּהָךְ גִּיסָא דְנַהֲרָא, לָא הֲוָה מַבָּרָא – נְקַט מִצְרָא וְקָא עָבַר. כִּי מְטָא פַּלְגָא מִצְרָא שַׁבְקֵיהּ, אָמַר: אִי לָאו דְּקָא מַכְרְזִי בִּרְקִיעָא ״הִזָּהֲרוּ בְּרַבִּי מֵאִיר וְתוֹרָתוֹ״ שַׁוֵּיתֵיהּ לִדְמָךְ תַּרְתֵּי מָעֵי.",
+                  "רַבִּי עֲקִיבָא הֲוָה מִתְלוֹצֵץ בְּעוֹבְרֵי עֲבֵירָה. יוֹמָא חַד אִידְּמִי לֵיהּ שָׂטָן כְּאִיתְּתָא בְּרֵישׁ דִּיקְלָא. נַקְטֵיהּ לְדִיקְלָא וְקָסָלֵיק וְאָזֵיל. כִּי מְטָא לְפַלְגֵיהּ דְּדִיקְלָא שַׁבְקֵיהּ, אָמַר: אִי לָאו דְּמַכְרְזִי בִּרְקִיעָא ״הִזָּהֲרוּ בְּרַבִּי עֲקִיבָא וְתוֹרָתוֹ״ שַׁוֵּיתֵיהּ לִדְמָךְ תַּרְתֵּי מָעֵי.",
+                  "פְּלֵימוֹ הֲוָה רְגִיל לְמֵימַר כׇּל יוֹמָא ״גִּירָא בְּעֵינֵיהּ דְּשָׂטָן״. יוֹמָא חַד מַעֲלֵי יוֹמָא דְכִיפּוּרֵי הֲוָה. אִידְּמִי לֵיהּ כְּעַנְיָא. אֲתָא קְרָא אַבָּבָא, אַפִּיקוּ לֵיהּ רִיפְתָּא. אֲמַר לֵיהּ: יוֹמָא כִּי הָאִידָּנָא כּוּלֵּי עָלְמָא גַּוַּאי וַאֲנָא אַבָּרַאי? עַיְּילֵיהּ וְקָרִיבוּ לֵיהּ רִיפְתָּא. אֲמַר לֵיהּ: יוֹמָא כִּי הָאִידָּנָא כּוּלֵּי עָלְמָא אַתַּכָּא וַאֲנָא לְחוֹדַאי? אַתְיוּהּ אוֹתְבוּהּ אַתַּכָּא. הֲוָה יָתֵיב מְלָא נַפְשֵׁיהּ שִׁיחְנָא וְכִיבֵי <span class=\"parenthesized\">(עֲלֵיהּ)</span> וַהֲוָה קָעָבֵיד בֵּיהּ מִילֵּי דִּמְאִיס. אֲמַר לֵיהּ:"
+                ],
+                [
+                  "תִּיב שַׁפִּיר. אֲמַר לֵיהּ: הַבוּ לִי כָּסָא, יְהַבוּ לֵיהּ כָּסָא. אַכְמַר שְׁדָא בֵּיהּ כִּיחוֹ. נְחַרוּ בֵּיהּ. שְׁקָא וּמִית. שְׁמַעוּ דַּהֲווֹ קָאָמְרִי: פְּלֵימוֹ קְטַל גַּבְרָא! פְּלֵימוֹ קְטַל גַּבְרָא! עֲרַק וּטְשָׁא נַפְשֵׁיהּ בְּבֵית הַכִּסֵּא. אָזֵיל בָּתְרֵיהּ, נְפַל קַמֵּיהּ. כִּי דְּחַזְיֵיהּ דַּהֲוָה מִצְטַעַר גַּלִּי לֵיהּ נַפְשֵׁיהּ. אֲמַר לֵיהּ: מַאי טַעְמָא אָמְרַתְּ הָכִי? וְאֶלָּא הֵיכִי אֵימָא? אֲמַר לֵיהּ: לֵימָא מָר ״רַחֲמָנָא נִגְעַר בֵּיהּ בְּשָׂטָן״.",
+                  "רַבִּי חִיָּיא בַּר אָשֵׁי הֲוָה רְגִיל כׇּל עִידָּן דַּהֲוָה נָפֵל לְאַפֵּיהּ הֲוָה אָמַר: ״הָרַחֲמָן יַצִּילֵנוּ מִיֵּצֶר הָרָע״. יוֹמָא חַד <span class=\"parenthesized\">(שְׁמַעְתִּינְהוּ)</span> [שְׁמַעְתֵּיהּ] דְּבֵיתְהוּ, אֲמַרָה: מִכְּדֵי הָא כַּמָּה שְׁנֵי דְּפָרֵישׁ לֵיהּ מִינַּאי, מַאי טַעְמָא קָאָמַר הָכִי?",
+                  "יוֹמָא חֲדָא הֲוָה קָא גָרֵיס בְּגִינְּתֵיהּ. קַשִּׁטָה נַפְשַׁהּ, חָלְפָה וְתָנְיָיה קַמֵּיהּ. אֲמַר לַהּ: מַאן אַתְּ? אֲמַרָה: אֲנָא חָרוּתָא דַּהֲדַרִי מִיּוֹמָא. תַּבְעַהּ. אֲמַרָה לֵיהּ: אַיְיתִי נִיהֲלַי לְהָךְ רוּמָּנָא דְּרֵישׁ צוּצִיתָא. שְׁוַור, אֲזַל אַתְיֵיהּ נִיהֲלַהּ.",
+                  "כִּי אֲתָא לְבֵיתֵיהּ הֲוָה קָא שָׁגְרָא דְּבֵיתְהוּ תַּנּוּרָא, סָלֵיק וְקָא יָתֵיב בְּגַוֵּיהּ. אֲמַרָה לֵיהּ: מַאי הַאי? אֲמַר לַהּ: הָכִי וְהָכִי הֲוָה מַעֲשֶׂה. אָמְרָה לֵיהּ: אֲנָא הֲוַאי. לָא אַשְׁגַּח בַּהּ, עַד דִּיהַבָה לֵיהּ סִימָנֵי. אָמַר לַהּ: אֲנָא מִיהָא לְאִיסּוּרָא אִיכַּוַּונִי. כׇּל יָמָיו שֶׁל אוֹתוֹ צַדִּיק הָיָה מִתְעַנֶּה עַד שֶׁמֵּת בְּאוֹתָהּ מִיתָה.",
+                  "דְּתַנְיָא: ״אִישָׁהּ הֲפֵרָם וַה׳ יִסְלַח לָהּ״, בַּמָּה הַכָּתוּב מְדַבֵּר? בְּאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר, וְשָׁמַע בַּעְלָהּ וְהֵפֵר לָהּ, וְהִיא לֹא יָדְעָה שֶׁהֵפֵר לָהּ בַּעְלָהּ, וְהָיְתָה שׁוֹתָה יַיִן וּמִטַּמְּאָה לְמֵתִים.",
+                  "רַבִּי עֲקִיבָא כִּי הֲוָה מָטֵי לְהַאי פְּסוּקָא הֲוָה בָּכֵי, אָמַר: וּמָה מִי שֶׁנִּתְכַּוֵּין לֶאֱכוֹל בְּשַׂר חֲזִיר וְעָלָה בְּיָדוֹ בְּשַׂר טָלֶה, אָמְרָה תּוֹרָה: צְרִיכָה כַּפָּרָה וּסְלִיחָה, מִי שֶׁנִּתְכַּוֵּין לֶאֱכוֹל בְּשַׂר חֲזִיר וְעָלָה בְּיָדוֹ בְּשַׂר חֲזִיר – עַל אַחַת כַּמָּה וְכַמָּה.",
+                  "כַּיּוֹצֵא בַּדָּבָר אַתָּה אוֹמֵר ״וְלֹא יָדַע וְאָשֵׁם וְנָשָׂא עֲוֹנוֹ״. כְּשֶׁהָיָה רַבִּי עֲקִיבָא מַגִּיעַ לְפָסוּק זֶה הָיָה בּוֹכֶה: וּמָה מִי שֶׁנִּתְכַּוֵּין לֶאֱכוֹל שׁוּמָּן וְעָלָה בְּיָדוֹ חֵלֶב – אָמְרָה תּוֹרָה: ״וְלֹא יָדַע וְאָשֵׁם וְנָשָׂא עֲוֹנוֹ״, מִי שֶׁנִּתְכַּוֵּין לֶאֱכוֹל חֵלֶב וְעָלָה בְּיָדוֹ חֵלֶב – עַל אַחַת כַּמָּה וְכַמָּה. אִיסִי בֶּן יְהוּדָה אוֹמֵר: ״וְלֹא יָדַע וְאָשֵׁם וְנָשָׂא עֲוֹנוֹ״ – עַל דָּבָר זֶה יִדְווּ כׇּל הַדּוֹוִים."
+                ]
+              ],
+              "link": "/Kiddushin/81b",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 81b:5"
+              ],
+              "ref": "Kiddushin 81a:11-81b:7",
+              "sourceHeRef": "קידושין פ״א ב",
+              "sourceRef": "Kiddushin 81b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לעולם אימא לך מיעקר עקר לה בעל</strong> - והכא במאי עסקינן דסופגת את הארבעים כגון דלא היפר לה ודקאמרת אי לא היפר לה בעל צריכא למימר ודאי לא צריכא אלא משום דקתני סיפא כו':",
+              "ref": "Rashi on Nazir 21b:12:1",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:יב:א",
+              "sourceRef": "Rashi on Nazir 21b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אינה סופגת</strong> - דצריכא למימר דס\"ד דתספוג כיון דנתכוונה לאיסורא:",
+              "ref": "Rashi on Nazir 21b:12:2",
+              "sourceHeRef": "רש\"י על נזיר כ״א ב:יב:ב",
+              "sourceRef": "Rashi on Nazir 21b:12:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>לעולם אימא</b> <span class=\"hebrew-emphasis\">[</span>יכול אני לומר<span class=\"hebrew-emphasis\">]</span> <b>לך</b> שה<b>בעל מיעקר עקר</b> <span class=\"hebrew-emphasis\">[עוקר</span><span class=\"hebrew-emphasis\">]</span> את הנדר מעיקרו, <b>ו</b>אולם <b>משום דקתני סיפא</b> <span class=\"hebrew-emphasis\">[ששנה בסוף</span><span class=\"hebrew-emphasis\">]:</span> <b>היפר לה בעלה והיא לא ידעה, והיתה שותה יין ומטמאה למתים</b> — למרות שהיא התכוונה לעבירה, <b>אינה סופגת את הארבעים</b> מלקות כיון שלא היתה כאן עבירה בפועל, משום כך",
+              "ref": "Steinsaltz on Nazir 21b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר כ״א ב:יב",
+              "sourceRef": "Steinsaltz on Nazir 21b:12"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לעולם מיעקר עקר</strong> - ומיירי שלא היפר ודקאמרת צריכא למימר משום סיפא דאיצטריך ליה למיתני אינה סופגת תני רישא אגב סיפא דסופגת וסיפא איצטריכא ליה למיתני לאפוקי מדרבי יהודה דאמר דכי נמי היפר לה בעלה ושתתה יין לוקה מכת מרדות ואם תאמר מאי איריא היפר לה ואחר כך היתה שותה לאשמועינן שתתה ונטמאה ואח\"כ <span class=\"parenthesized\">(שתתה)</span> היפר לה [דאינה] סופגת כיון דמיעקר עקר וי\"ל דמשום רבי יהודה נקט הכי דאפילו בהיפר ואח\"כ שתתה סופגת מכת מרדות אע\"ג דכבר היפר כיון דלאיסורא נתכוונה:",
+              "ref": "Tosafot on Nazir 21b:12:1",
+              "sourceHeRef": "תוספות על נזיר כ״א ב:יב:א",
+              "sourceRef": "Tosafot on Nazir 21b:12:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "האשה שנדרה בנזיר ושמע בעלה ולא הפר לה ר\"מ [ור\"י] אומרים הוא נתן [אצבעו] בין שיניה שאם רצה להפר יפר ואם אמר אי אפשי באשה נדרנית יוציא ויתן כתובה ר\"י ור\"ש אומרים היא נתנה [אצבעה] בין שיניו שאם רצה להפר אינו יכול [אמר] אי אפשי באשה נזירה תצא שלא בכתובה האשה שנדרה בנזיר ושמע בעלה והפר לה והיא לא ידעה שהפר [לה] בעלה והיתה שותה יין ומיטמאה למתים הרי זו סופגת את ארבעים כשהיה ר' עקיבה מגיע לדבר זה היה אומר ומה [נתכוון] לעלות בידו בשר חזיר ועלה בידו בשר טלה ואכלו צריך כפרה וסליחה המתכוון לעלות בידו בשר חזיר ועלה בידו בשר חזיר על אחת כמה וכמה שצריך כפרה וסליחה.",
+              "ref": "Tosefta Nazir 3:6",
+              "sourceHeRef": "תוספתא נזיר ג:ו",
+              "sourceRef": "Tosefta Nazir 3:6"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara refutes this argument: <b>Actually, I</b> could <b>say to you</b> that the <b>husband uproots</b> the vow, <b>and</b> the reason that the mishna teaches in this manner is <b>due to</b> the fact <b>that</b> the <i>tanna</i> <b>teaches</b> in <b>the latter clause</b> of the mishna: If the <b>husband nullified her</b> vow <b>and she did not know, and she was drinking wine and rendering herself ritually impure</b> by contact <b>with the dead, she does not incur the forty</b> lashes, despite her intention to sin, as she did not commit a transgression in practice.",
+      "he": "לְעוֹלָם אֵימָא לָךְ בַּעַל מִיעְקָר עָקַר, וּמִשּׁוּם דְּקָתָנֵי סֵיפָא: הֵיפֵר לָהּ בַּעְלָהּ וְהִיא לֹא יָדְעָה, וְהָיְתָה שׁוֹתָה יַיִן וּמִטַּמְּאָה לְמֵתִים — אֵינָהּ סוֹפֶגֶת אֶת הָאַרְבָּעִים,",
+      "ref": "Nazir 21b:12"
+    }
+  ],
+  "title": "Nazir 21b",
+  "titleHebrew": "נזיר כא,ב",
+  "topics": []
+}

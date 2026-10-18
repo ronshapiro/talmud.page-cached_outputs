@@ -1,0 +1,940 @@
+{
+  "id": "45a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור ללות דינר בדינר</strong> - שמא יוקירו ויבא לידי רבית ובדינר זהב קאמר כדמפרש ואזיל:",
+              "ref": "Rashi on Bava Metzia 45a:1:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:א:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:1:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "A person should not tell a colleague: \"Lend me a <i>kor</i> of wheat and I will return a <i>kor</i> to you at the time when wheat is brought to the granaries.\" He may, however, tell him: \"Lend me wheat until my son comes, or until I find the key to my storehouse.\"",
+                      "he": "לֹא יֹאמַר אָדָם לַחֲבֵרוֹ הַלְוֵינִי כּוֹר חִטִּים וַאֲנִי אַחְזִיר לְךָ כּוֹר לַגֹּרֶן אֶלָּא אוֹמֵר לוֹ הַלְוֵינִי עַד שֶׁיָּבוֹא בְּנִי אוֹ עַד שֶׁאֶמְצָא הַמַּפְתֵּחַ:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 10:3",
+                      "sourceHeRef": "הלכות מלווה ולווה י:ג",
+                      "sourceRef": "Creditor and Debtor 10:3"
+                    },
+                    {
+                      "en": "The following rules apply if a person lent out produce until a fixed date: If the produce diminished in value, the borrower should return the produce at the time set. If the produce increased in value, the borrower should pay him the money that it was worth at the time of the loan.",
+                      "he": "לָוָה פֵּרוֹת עַד זְמַן קָבוּעַ אִם הוּזְלוּ מַחְזִיר לוֹ פֵּרוֹת בַּזְּמַן שֶׁקָּבַע וְאִם הוּקְרוּ נוֹתֵן לוֹ דָּמִים שֶׁהָיוּ שָׁוִין בִּשְׁעַת הַהַלְוָאָה:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 10:4",
+                      "sourceHeRef": "הלכות מלווה ולווה י:ד",
+                      "sourceRef": "Creditor and Debtor 10:4"
+                    },
+                    {
+                      "en": "If the borrower possesses some of the type of produce that he seeks to borrow, it is permissible for him to borrow this produce without any conditions, to be returned without any conditions, without establishing a time when it is due. Even if he possesses only a <i>se'ah,</i> he may borrow many <i>se'ah</i> because of it. Even if he possesses only a drop of oil or wine, he may borrow several jugs of wine and oil because of it.<br>If he did not possess any of that type of produce and the market price was not established yet, or the borrower and the lender did not know the market price, it is forbidden to lend a <i>se'ah</i> of produce for a <i>se'ah</i> to be returned at a later date. Similarly, with regard to other types of produce, a person should not lend them out until he establishes a financial equivalent. The following rules apply when a person makes a loan of produce without establishing a financial equivalent, and it decreases in value. The borrower must return the measure or the weight of the fruit he borrowed. If they increased in value, the lender may take only the amount they were worth at the time of the loan.<br>Even if a person possesses that type of produce, or the market price had already been established, it is forbidden to make a loan of produce that must be repaid on a specific date. Instead, the loan must be made without any stipulation, and it can be repaid whenever the borrower desires to repay it.",
+                      "he": "הָיָה לוֹ מֵאוֹתוֹ הַמִּין שֶׁלָּוָה הֲרֵי זֶה מֻתָּר לִלְווֹת סְתָם בְּלֹא קְבִיעַת זְמַן וּפוֹרֵעַ סְתָם אַף עַל פִּי שֶׁעֲדַיִן לֹא יָצָא הַשַּׁעַר. וַאֲפִלּוּ הָיְתָה לוֹ סְאָה בִּלְבַד לוֶֹה עָלֶיהָ כַּמָּה סְאִין. הָיְתָה לוֹ טִפָּה אַחַת שֶׁל שֶׁמֶן אוֹ שֶׁל יַיִן לוֶֹה עָלֶיהָ כַּמָּה גַרְבֵּי יַיִן וְשֶׁמֶן. לֹא הָיְתָה לוֹ מֵאוֹתוֹ הַמִּין כְּלוּם וְלֹא נִקְבַּע שַׁעַר הַשּׁוּק עֲדַיִן אוֹ שֶׁלֹּא יָדְעוּ שַׁעַר הַשּׁוּק הֲרֵי זֶה אָסוּר לִלְווֹת סְאָה בִּסְאָה. וְכֵן בִּשְׁאָר הַפֵּרוֹת לֹא יַלְוֶה אוֹתָן עַד שֶׁיַּעֲשֶׂה אוֹתָן דָּמִים. וְאִם לָוָה וְלֹא עָשָׂה אוֹתָן [דָּמִים] וְהוּזְלוּ מַחְזִיר לוֹ פֵּרוֹת כַּמִּדָּה שֶׁלָּוָה אוֹ כַּמִּשְׁקָל. וְאִם הוּקַר נוֹטֵל דָּמִים שֶׁהָיוּ שָׁוִין בִּשְׁעַת הַלְוָאָה. אַף עַל פִּי שֶׁיֵּשׁ לוֹ מֵאוֹתוֹ הַמִּין אוֹ שֶׁהָיָה הַשַּׁעַר קָבוּעַ בַּשּׁוּק הֲרֵי זֶה אָסוּר לִלְווֹת פֵּרוֹת בְּפֵרוֹת עַד זְמַן קָבוּעַ אֶלָּא לוֶֹה סְתָם וּפוֹרֵעַ בְּאֵיזֶה זְמַן שֶׁיִּפְרַע:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 10:2",
+                      "sourceHeRef": "הלכות מלווה ולווה י:ב",
+                      "sourceRef": "Creditor and Debtor 10:2"
+                    }
+                  ]
+                }
+              },
+              "en": "<b>De la défense de prêter une séah de blé sous condition qu’une même mesure de blé sera rendue par le débiteur à son créancier</b><br>Il est interdit de prêter une séah de blé sous condition que l’emprunteur rendra la même mesure; l'interdiction existe même si aucune condition n’a été faite entre les intéressés et s'ils n’ont pas fixé le jour où le prêt sera rendu. Car la valeur du blé étant susceptible de changer et de devenir plus grande, le créancier aurait pour ainsi dire un intérêt lorsqu'on lui paierait sa dette. Ce prêt n’est autorisé qu’à la condition que le débiteur rendra au prêteur une somme équivalant au prix du blé au moment où il l’a emprunté, si la valeur du blé a augmenté; si, au contraire, cette valeur a diminué, l’emprunteur devra rendre une mesure de blé, et non pas une valeur en espèces. Il est permis de prêter de l’argent dont le cours n’est pas susceptible de changer.<br><small>G<small>LOSE</small>: Un auteur dit qu’il est également permis de prêter une pièce d’or, sous condition qu’une même valeur sera rendue par le débiteur, parce que la valeur de l’or de nos jours n’est pas plus susceptible de changer que celle de l’argent. On peut aussi prêter un pain sous condition qu’il soit rendu, sans s'occuper du pain en augmentation ou en diminution, la valeur totale du pain étant une bagatelle.</small>",
+              "he": "אסור ללוות סאה בסאה אפילו לא קצב לו זמן לפרעון וכן כל דבר חוץ ממטבע כסף היוצא <span class=\"hebrew-emphasis\">(אז) </span>בהוצאה דשמא יתייקרו ונמצא שנותן לו יותר ממה שהלוהו אם לא שיעשנו דמים שאם יתייקרו יתן לו אותם הדמים ואם לא עשהו דמים ונתייקרו נותן לו הדמים שהיו שוים בשעת הלואה ואם הוזלו נותן לו הסאה שהלוהו: <span class=\"hebrew-emphasis\">הגה יש מי שכתב דבזמן הזה מטבע של זהב דינו ככסף ולוין זהוב בזהוב וכן נוהגין להקל ואין למחות בידם כי יש להם על מי שיסמוכו (פסקי מהרא\"י סי' נ\"ד) יש מי שאומר דמותר ללוות ככר לחם בככר לחם כמטבע של כסף דמאחר דדבר מועט הוא לא קפדי בני אדם להדדי בזה (הטור והרבה פוסקי' ועב\"י) וכן נוהגין להקל:</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 162:1",
+              "sourceHeRef": "יורה דעה קסב:א - שלא להלוות סאה בסאה.",
+              "sourceRef": "Yoreh De'ah 162:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אסור ללוות דנר בדינר,</b> שמא יתייקרו ונמצא משלם ריבית.",
+              "ref": "Steinsaltz on Bava Metzia 45a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:א",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It is prohibited to borrow any item whose value is subject to fluctuating market prices, e.g., a <i>se’a</i> of produce, and to commit to repay an equivalent item, e.g., a <i>se’a</i> of produce, due to the concern that the item may increase in value, which would be tantamount to an interest-bearing loan. It is permitted to lend minted silver coins whose value is fixed, or other items, provided that their monetary value is assessed at the time of the loan. One may not even borrow a gold coin and commit to repay a gold coin. The Rema cites an opinion that the legal status of gold coins today is that of minted coins, and it is customary to be lenient in this regard (<i>Shulĥan Arukh</i>,<i> Yoreh De’a</i> 162:1).",
+              "he": "אסור ללוות כל חפץ סאה בסאה וכיוצא בו, שיש חשש שמא בשעת פירעון יתייקר החפץ ונמצא כמוסיף ריבית. אבל מותר ללוות מטבעות כסף (או שאר דברים, כשמעריכם מיד בכסף). ולכן אין לווים אף מטבע זהב במטבע זהב. וכתב הרמ\"א שיש אומרים שבזמננו אף מטבע זהב דינו ככסף, וכן נוהגים להקל. וראה באחרונים. (שו\"ע יו\"ד קסב, א).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 45a:1",
+              "sourceHeRef": "לִלְווֹת דִּינָר בְּדִינָר",
+              "sourceRef": "To borrow a dinar and repay with a dinar"
+            }
+          ]
+        }
+      },
+      "en": "<b>It is prohibited</b> for one <b>to borrow a dinar</b> and repay the loan <b>with a dinar,</b> because if the value of the dinar changes in the interim, both the borrower and the lender will have violated the prohibition against interest.",
+      "he": "אָסוּר לִלְווֹת דִּינָר בְּדִינָר.",
+      "ref": "Bava Metzia 45a:1"
+    },
+    {
+      "commentary": {
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "A person should not tell a colleague: \"Lend me a <i>kor</i> of wheat and I will return a <i>kor</i> to you at the time when wheat is brought to the granaries.\" He may, however, tell him: \"Lend me wheat until my son comes, or until I find the key to my storehouse.\"",
+                      "he": "לֹא יֹאמַר אָדָם לַחֲבֵרוֹ הַלְוֵינִי כּוֹר חִטִּים וַאֲנִי אַחְזִיר לְךָ כּוֹר לַגֹּרֶן אֶלָּא אוֹמֵר לוֹ הַלְוֵינִי עַד שֶׁיָּבוֹא בְּנִי אוֹ עַד שֶׁאֶמְצָא הַמַּפְתֵּחַ:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 10:3",
+                      "sourceHeRef": "הלכות מלווה ולווה י:ג",
+                      "sourceRef": "Creditor and Debtor 10:3"
+                    },
+                    {
+                      "en": "The following rules apply if a person lent out produce until a fixed date: If the produce diminished in value, the borrower should return the produce at the time set. If the produce increased in value, the borrower should pay him the money that it was worth at the time of the loan.",
+                      "he": "לָוָה פֵּרוֹת עַד זְמַן קָבוּעַ אִם הוּזְלוּ מַחְזִיר לוֹ פֵּרוֹת בַּזְּמַן שֶׁקָּבַע וְאִם הוּקְרוּ נוֹתֵן לוֹ דָּמִים שֶׁהָיוּ שָׁוִין בִּשְׁעַת הַהַלְוָאָה:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 10:4",
+                      "sourceHeRef": "הלכות מלווה ולווה י:ד",
+                      "sourceRef": "Creditor and Debtor 10:4"
+                    },
+                    {
+                      "en": "If the borrower possesses some of the type of produce that he seeks to borrow, it is permissible for him to borrow this produce without any conditions, to be returned without any conditions, without establishing a time when it is due. Even if he possesses only a <i>se'ah,</i> he may borrow many <i>se'ah</i> because of it. Even if he possesses only a drop of oil or wine, he may borrow several jugs of wine and oil because of it.<br>If he did not possess any of that type of produce and the market price was not established yet, or the borrower and the lender did not know the market price, it is forbidden to lend a <i>se'ah</i> of produce for a <i>se'ah</i> to be returned at a later date. Similarly, with regard to other types of produce, a person should not lend them out until he establishes a financial equivalent. The following rules apply when a person makes a loan of produce without establishing a financial equivalent, and it decreases in value. The borrower must return the measure or the weight of the fruit he borrowed. If they increased in value, the lender may take only the amount they were worth at the time of the loan.<br>Even if a person possesses that type of produce, or the market price had already been established, it is forbidden to make a loan of produce that must be repaid on a specific date. Instead, the loan must be made without any stipulation, and it can be repaid whenever the borrower desires to repay it.",
+                      "he": "הָיָה לוֹ מֵאוֹתוֹ הַמִּין שֶׁלָּוָה הֲרֵי זֶה מֻתָּר לִלְווֹת סְתָם בְּלֹא קְבִיעַת זְמַן וּפוֹרֵעַ סְתָם אַף עַל פִּי שֶׁעֲדַיִן לֹא יָצָא הַשַּׁעַר. וַאֲפִלּוּ הָיְתָה לוֹ סְאָה בִּלְבַד לוֶֹה עָלֶיהָ כַּמָּה סְאִין. הָיְתָה לוֹ טִפָּה אַחַת שֶׁל שֶׁמֶן אוֹ שֶׁל יַיִן לוֶֹה עָלֶיהָ כַּמָּה גַרְבֵּי יַיִן וְשֶׁמֶן. לֹא הָיְתָה לוֹ מֵאוֹתוֹ הַמִּין כְּלוּם וְלֹא נִקְבַּע שַׁעַר הַשּׁוּק עֲדַיִן אוֹ שֶׁלֹּא יָדְעוּ שַׁעַר הַשּׁוּק הֲרֵי זֶה אָסוּר לִלְווֹת סְאָה בִּסְאָה. וְכֵן בִּשְׁאָר הַפֵּרוֹת לֹא יַלְוֶה אוֹתָן עַד שֶׁיַּעֲשֶׂה אוֹתָן דָּמִים. וְאִם לָוָה וְלֹא עָשָׂה אוֹתָן [דָּמִים] וְהוּזְלוּ מַחְזִיר לוֹ פֵּרוֹת כַּמִּדָּה שֶׁלָּוָה אוֹ כַּמִּשְׁקָל. וְאִם הוּקַר נוֹטֵל דָּמִים שֶׁהָיוּ שָׁוִין בִּשְׁעַת הַלְוָאָה. אַף עַל פִּי שֶׁיֵּשׁ לוֹ מֵאוֹתוֹ הַמִּין אוֹ שֶׁהָיָה הַשַּׁעַר קָבוּעַ בַּשּׁוּק הֲרֵי זֶה אָסוּר לִלְווֹת פֵּרוֹת בְּפֵרוֹת עַד זְמַן קָבוּעַ אֶלָּא לוֶֹה סְתָם וּפוֹרֵעַ בְּאֵיזֶה זְמַן שֶׁיִּפְרַע:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 10:2",
+                      "sourceHeRef": "הלכות מלווה ולווה י:ב",
+                      "sourceRef": "Creditor and Debtor 10:2"
+                    }
+                  ]
+                }
+              },
+              "en": "<b>De la défense de prêter une séah de blé sous condition qu’une même mesure de blé sera rendue par le débiteur à son créancier</b><br>Il est interdit de prêter une séah de blé sous condition que l’emprunteur rendra la même mesure; l'interdiction existe même si aucune condition n’a été faite entre les intéressés et s'ils n’ont pas fixé le jour où le prêt sera rendu. Car la valeur du blé étant susceptible de changer et de devenir plus grande, le créancier aurait pour ainsi dire un intérêt lorsqu'on lui paierait sa dette. Ce prêt n’est autorisé qu’à la condition que le débiteur rendra au prêteur une somme équivalant au prix du blé au moment où il l’a emprunté, si la valeur du blé a augmenté; si, au contraire, cette valeur a diminué, l’emprunteur devra rendre une mesure de blé, et non pas une valeur en espèces. Il est permis de prêter de l’argent dont le cours n’est pas susceptible de changer.<br><small>G<small>LOSE</small>: Un auteur dit qu’il est également permis de prêter une pièce d’or, sous condition qu’une même valeur sera rendue par le débiteur, parce que la valeur de l’or de nos jours n’est pas plus susceptible de changer que celle de l’argent. On peut aussi prêter un pain sous condition qu’il soit rendu, sans s'occuper du pain en augmentation ou en diminution, la valeur totale du pain étant une bagatelle.</small>",
+              "he": "אסור ללוות סאה בסאה אפילו לא קצב לו זמן לפרעון וכן כל דבר חוץ ממטבע כסף היוצא <span class=\"hebrew-emphasis\">(אז) </span>בהוצאה דשמא יתייקרו ונמצא שנותן לו יותר ממה שהלוהו אם לא שיעשנו דמים שאם יתייקרו יתן לו אותם הדמים ואם לא עשהו דמים ונתייקרו נותן לו הדמים שהיו שוים בשעת הלואה ואם הוזלו נותן לו הסאה שהלוהו: <span class=\"hebrew-emphasis\">הגה יש מי שכתב דבזמן הזה מטבע של זהב דינו ככסף ולוין זהוב בזהוב וכן נוהגין להקל ואין למחות בידם כי יש להם על מי שיסמוכו (פסקי מהרא\"י סי' נ\"ד) יש מי שאומר דמותר ללוות ככר לחם בככר לחם כמטבע של כסף דמאחר דדבר מועט הוא לא קפדי בני אדם להדדי בזה (הטור והרבה פוסקי' ועב\"י) וכן נוהגין להקל:</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 162:1",
+              "sourceHeRef": "יורה דעה קסב:א - שלא להלוות סאה בסאה.",
+              "sourceRef": "Yoreh De'ah 162:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעתה נברר: <b>דינר דמאי</b> <span class=\"hebrew-emphasis\">[של מה]?</span> <b>אילימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> <b>דינר של כסף בדינר של כסף, לגבי,</b> בפני <b>נפשיה</b> <span class=\"hebrew-emphasis\">[עצמו]</span> <b>מי איכא למאן</b> ש<b>אמר לאו טבעא הוי</b> <span class=\"hebrew-emphasis\">[האם יש מי שאומר שאיננו מטבע]?</span> <b>אלא פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט]</span> שאמר שאין ללוות <b>דינר של זהב בדינר של זהב,</b> ומעתה נברר: <b>ולמאן</b> <span class=\"hebrew-emphasis\">[ול</span>שיטת <span class=\"hebrew-emphasis\">מי]?</span> <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> לפי שיטת <b>בית הלל</b> — <b>הא אמרי טבעא הוי</b> <span class=\"hebrew-emphasis\">[הרי אומרים</span> הם <span class=\"hebrew-emphasis\">מטבע הוא],</span> <b>אלא לאו</b> <span class=\"hebrew-emphasis\">[האם לא]</span> — <b>ל</b>דעת <b>בית שמאי, ושמע מינה</b> <span class=\"hebrew-emphasis\">[ולמד מכאן]</span> כי <b>ר' יוחנן הוא</b> ש<b>אמר, אין מחללינן</b> <span class=\"hebrew-emphasis\">[אין מחללין]</span> על דינרי זהב, שלדעתו אינם נחשבים כמטבע גמורה.",
+              "ref": "Steinsaltz on Bava Metzia 45a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:ב",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Ra’avad writes that it is clear from the Torah as well as from experience that merchandise is purchased with silver. Indeed, it is written: “If you lend silver to My people” (Exodus 22:24), indicating that not only is it permitted to lend silver, it is a mitzva (see Rosh).",
+              "he": "וכתב הראב\"ד שברור לנו לא רק מן הסברה (וראה ברא\"ש) אלא גם מן הכתובים שדברים נמכרים בכסף, ויתר על כן: הלא אמרה תורה במפורש \"אם כסף תלוה את עמי\" משמע שלא זו בלבד שהדבר מותר, אלא שהוא אף מצוה.",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 45a:2",
+              "sourceHeRef": "דִּינָר שֶׁל כֶּסֶף לְגַבֵּי נַפְשֵׁיהּ",
+              "sourceRef": "A silver dinar…relative to itself"
+            },
+            {
+              "en": "Although there are many prohibitions in the Torah that incur specific punishments, the Gemara’s use of this term in this context refers specifically to those prohibitions whose violation  does not incur the death penalty or death at the hand of Heaven.",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 45a:2",
+              "sourceHeRef": "לָאו",
+              "sourceRef": "Prohibition"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לגבי נפשיה מי איכא למ\"ד לאו טבעא הוי</strong> - וא\"ת א\"כ היכי מוכח לעיל <span class=\"parenthesized\">(בבא מציעא דף מד:)</span> דרבי חייא סבר דהבא הוי טבעא דלמא היינו דוקא לגבי נפשיה ולא לגבי כספא וי\"ל דלעיל סבר כמסקנא דהכא דאי לענין מקח וממכר פירא הוי לגבי הלואה נמי פירא הוי:",
+              "ref": "Tosafot on Bava Metzia 45a:2:1",
+              "sourceHeRef": "תוספות על בבא מציעא מ״ה א:ב:א",
+              "sourceRef": "Tosafot on Bava Metzia 45a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לב\"ש</strong> - ולא שיסבור כמותו אלא אליבייהו קאמר אי נמי ר' יוחנן סבר לה כמתני' דהזהב קונה את הכסף:",
+              "ref": "Tosafot on Bava Metzia 45a:2:2",
+              "sourceHeRef": "תוספות על בבא מציעא מ״ה א:ב:ב",
+              "sourceRef": "Tosafot on Bava Metzia 45a:2:2"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara elaborates: The reference is to <b>a dinar of what</b> type of metal? <b>If we say</b> the reference is to one who borrowed <b>a silver dinar</b> and repaid the loan <b>with a silver dinar, is there anyone who says</b> that silver <b>relative to itself is not currency? Rather,</b> it is <b>obvious</b> that the reference is to one who borrowed <b>a gold dinar</b> and repaid the loan <b>with a gold dinar.</b> The Gemara continues its analysis: <b>And in accordance with whose</b> opinion does <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> state this <i>halakha</i>? <b>If</b> it is <b>in accordance with</b> the opinion of <b><span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>, don’t they say</b> that a gold dinar <b>is currency? Rather, isn’t it in accordance with</b> the opinion of <b><span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span>? And learn from it</b> that <b>it is <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> who said</b> that according to <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> <b>we do not desacralize</b> produce with gold dinars, as he holds that they are not considered currency.",
+      "he": "דִּינָר דְּמַאי? אִילֵּימָא דִּינָר שֶׁל כֶּסֶף בְּדִינָר שֶׁל כֶּסֶף, לְגַבֵּי נַפְשֵׁיהּ מִי אִיכָּא לְמַאן דְּאָמַר לָאו טִבְעָא הָוֵי? אֶלָּא פְּשִׁיטָא דִּינָר שֶׁל זָהָב בְּדִינָר שֶׁל זָהָב, וּלְמַאן? אִי לְבֵית הִלֵּל – הָא אָמְרִי טִבְעָא הָוֵי. אֶלָּא לָאו לְבֵית שַׁמַּאי, וּשְׁמַע מִינַּהּ רַבִּי יוֹחָנָן הוּא דְּאָמַר: אֵין מְחַלְּלִין!",
+      "ref": "Bava Metzia 45a:2"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> ושאני הלואה כיון כו' נ\"ב קצת תימה דהל\"ל בהאי לישנא דס\"ל דהבא פירא הוי ומכל מקום מחללין עליו דלגבי פירות טיבעא הוה מידי דהוה אכסף כבית הלל ונראה דהשתא דקא סלקא דעתא דמקשה דגבי כספא לכ\"ע טיבעא הוה לגבי נפשיה א\"כ לא שייך למימר מידי דהוה אכסף לבית הלל כו' דשאני כסף דהוי טיבעא לגבי נפשיה לכ\"ע ע\"כ מוכרח לומר תחלה כיון דלענין מקח וממכר פירא הוי לגבי הלואה נמי פירא הוי א\"כ אזלה האי סלקא דעתא דמקשה דכספא לכ\"ע טיבעא הוי לגביה נפשיה ואסור נמי להלוות דינר כסף בכסף לבית הלל כמו שפירשו התוס' והשתא הוי זהב לבית שמאי כמו כסף לבית הלל ודו\"ק:",
+              "ref": "Chokhmat Shlomo on Bava Metzia 45a:1",
+              "sourceHeRef": "חכמת שלמה על בבא מציעא מ״ה א:א",
+              "sourceRef": "Chokhmat Shlomo on Bava Metzia 45a:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>לא, לעולם ר' יוחנן הוא דאמר מחללין.</b> ודינר של זהב בדינר של זהב קאמר, כדקאמרינן שאני הלואה, דכיון דלגבי מקח וממכר שויוה רבנן כפירא לבית שמאי, לענין הלואה נמי שויוה רבנן כפירא לבית שמאי, לענין הלואה נמי שויוה רבנן כפירא לבית שמאי אבל לבית הלל שרי, דהא לדידהו אפילו לענין מקח וממכר דהבא טיבעא הוי. ומיהו כספא בין לבית שמאי בין לבית הלל לענין הלואה שרי, דלגבי נפשיה ליכא מאן דאמר דלאו טבעא הוי, כיון דלגבי נחשא מיהא הוי טבעא אפילו לב\"ה. ואנן דקיימא לן כזקנותיה דרבי וכסתמא דמתניתין, חלוקא דב\"ש וב\"ה איפכא תנינן לה, ב\"ש אומרים עושה אותן סלעין דנרים, וב\"ה אוסרים, דההיא מתניתין נמי בילדותיה תנא לה, ובזקנותיה דאפיך מתניתין, ההיא מתניתין [נמי] מפכינן, ואיהו נמי [אפכה], כי היכי דלא תיקום מתניתין דהזהב כב\"ש, אלא דמשנה לא זזה ממקומה. וכיון שכן קיימא לן בפסק הלכה, כי הא דר' יוחנן דאמר אסור ללות דינר בדינר.",
+              "ref": "Rashba on Bava Metzia 45a:1",
+              "sourceHeRef": "רשב״א על בבא מציעא מ״ה א:א",
+              "sourceRef": "Rashba on Bava Metzia 45a:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לעולם אימא לך ר' יוחנן הוא דאמר דברי הכל מחללינן</strong> - דלגבי פירא טבעא הוי:",
+              "ref": "Rashi on Bava Metzia 45a:3:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ג:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיון דלענין מקח וממכר שויוהו רבנן כי פירא</strong> - כדתנן <span class=\"parenthesized\">(לעיל בבא מציעא דף מד.)</span> הזהב קונה את הכסף:",
+              "ref": "Rashi on Bava Metzia 45a:3:2",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ג:ב",
+              "sourceRef": "Rashi on Bava Metzia 45a:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>לא, לעולם אימא</b> <span class=\"hebrew-emphasis\">[אומר]</span> <b>לך</b> כי <b>ר' יוחנן הוא</b> ש<b>אמר מחללינן</b> <span class=\"hebrew-emphasis\">[מחללים אנו]</span> על דינרי זהב, <b>ושאני</b> <span class=\"hebrew-emphasis\">[ושונה]</span> דין <b>הלואה</b> <b>כיון</b> ש<b>לענין מקח וממכר שויוהו רבנן כי פירא</b> <span class=\"hebrew-emphasis\">[עשו אותו,</span> את דינר הזהב, <span class=\"hebrew-emphasis\">חכמים כמו פרי],</span> <b>דאמרינן</b> <span class=\"hebrew-emphasis\">[שאנו אומרים]:</span> <b>איהו ניהו דאוקיר וזיל</b> <span class=\"hebrew-emphasis\">[הוא הוא שהתייקר והוזל]</span> וכפי שאמרנו הזהב קונה את הכסף, ו<b>לגבי</b> דיני <b>הלואה</b> בריבית <b>נמי פירא הוי</b> <span class=\"hebrew-emphasis\">[גם כן כפרי הוא]</span> ויש בו חשש ריבית.",
+              "ref": "Steinsaltz on Bava Metzia 45a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:ג",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "While the Torah encourages lending money to the needy as a positive act, it renders it prohibited to take interest on that loan. Interest is defined as any sum added to the principal when returning the loan to compensate the lender for the period that the money was in the borrower’s possession. By Torah law, it is prohibited to lend or borrow money with interest (Exodus 22:24; Leviticus 25:36–37; Deuteronomy 23:20). This prohibition applies to the borrower, the lender, and any scribe, witness, or guarantor who facilitates the loan. The prohibition against interest applies both to a monetary loan and to loans of any item in a case where the borrower is not required to return the item that he borrowed and instead may return the value of the item in money or merchandise. An instance where one borrows an item and commits to return a comparable item could involve a form of interest if the value of the article to be returned is greater than the value of the loaned item at the time it was given to the borrower. All of these <i>halakhot</i> are discussed at length in the fifth chapter of this tractate.",
+              "he": "והסברה בדבר היא, שכיון שרואים שאין דינרי הזהב נחשבים תמיד כמטבע אלא במקרה מסויים דינם כסחורה (\"פירי\"), יש לחשוש שמא שינוי במחירם לגבי דינרים הוא כשינוי בערך הסחורה, ומפני חומר איסור ריבית יש לאסור אף בהלוואה כזו (רמב\"ן).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 45a:3",
+              "sourceHeRef": "הַלְוָאָה",
+              "sourceRef": "Loan"
+            },
+            {
+              "en": "The logic of this claim is that since it is clear that the legal status of a gold dinar is not always that of currency but in some cases is that of a commodity, the concern is that a change in its value relative to silver dinars is like a change in the value of a commodity, and due to the severity of the prohibition against interest, executing this kind of loan is prohibited (Ramban).",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 45a:3",
+              "sourceHeRef": "לְגַבֵּי הַלְוָאָה נַמִי פֵּירָא הָוֵי",
+              "sourceRef": "With regard to a loan as well, a gold dinar is like a commodity"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ושאני הלואה</strong> - השתא מצי מיירי בדינר כסף וכבית הלל וא\"ת היכי מוכח בסמוך ה\"נ מסתברא דר' יוחנן דאמר מחללין מדאמר ר' יוחנן אע\"פ שאמרו אסור ללוות דינר בדינר אבל מחללין מעשר שני עליו מנ\"ל דאיירי בדינר זהב וכבית שמאי דלמא בדינר כסף וכב\"ה וי\"ל דעל כרחך בדינר זהב איירי דאי בשל כסף ולבית הלל פשיטא דמחללין דמתניתין היא <span class=\"parenthesized\">(מע\"ש פ\"ב מ\"ז)</span> לא יעשה סלעין דינרי זהב א\"כ אותן סלעין חילל פירות עליהן ולב\"ש דוקא אסור ללוות דסברי דהבא פירא הוי אבל לב\"ה מותר ללוות דדהבא טבעא הוי דהא מחללין סלעין עליו ולב\"ש נמי הוי טבעא לחלל פירות עליו וכן לקמן <span class=\"parenthesized\">(בבא מציעא דף מח.)</span> ר\"ש אומר אין דינר זהב קונה טלית אלמא לגבי פירא טבעא הוי ואפילו לגבי כספא מקרי טבעא דשמא כילדותו מסתברא ומיהו ר\"ח פירש דהכי אמר רב האי גאון דדהבא פירא הוי לכל מילי ושמא בימי האמוראים היה זהב יוצא בהוצאה והוה טבעא ובימי הגאון לא היה יוצא כלל ולכך אמר דהבא פירא:",
+              "ref": "Tosafot on Bava Metzia 45a:3:1",
+              "sourceHeRef": "תוספות על בבא מציעא מ״ה א:ג:א",
+              "sourceRef": "Tosafot on Bava Metzia 45a:3:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara rejects this proof: <b>No, actually I will say to you</b> that <b>it is <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> who said</b> that even according to <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> <b>we desacralize</b> produce with gold dinars. <b>And</b> the <i>halakha</i> of <b>a loan is different</b> from the <i>halakha</i> of desacralizing second tithe, <b>as with regard to buying and selling, the Sages deemed</b> the legal status of a gold dinar <b>like</b> that of <b>a commodity. As we say: It is</b> the gold <b>that appreciates and depreciates</b> in value, in accordance with the <i>halakha</i> in the mishna: When one party takes possession of the gold coins, the other party acquires the silver coins. <b>With regard to a loan as well,</b> the legal status of a gold dinar <b>is like</b> that of <b>a commodity,</b> and therefore there is concern that they may violate the prohibition against interest.",
+      "he": "לָא, לְעוֹלָם אֵימָא לָךְ רַבִּי יוֹחָנָן הוּא דְּאָמַר מְחַלְּלִין, וְשָׁאנֵי הַלְוָאָה כֵּיוָן דִּלְעִנְיַן מִקָּח וּמִמְכָּר שַׁוְּיוּהּו רַבָּנַן כִּי פֵירָא, דְּאָמְרִינַן: אִיהוּ נִיהוּ דְּאוֹקֵיר וְזִיל – לְגַבֵּי הַלְוָאָה נָמֵי פֵּירָא הָוֵי.",
+      "ref": "Bava Metzia 45a:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכי נמי מסתברא</strong> - דרבי יוחנן הוא דאמר מחללינן:",
+              "ref": "Rashi on Bava Metzia 45a:4:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ד:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:4:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "תניא הזהב קונה את הכסף כיצד. נתן לו דינר של זהב בכ\"ה דינרים של כסף הרי זה קונה כסף בכל מקום שהוא. אבל אם נתן כ\"ה דינרים כסף בדינר של זהב הרי זה לא קנה עד שימשוך הזהב. והנחשת קונה את הכסף כיצד. נתך לו שלשים איסר בדינר כסף הרי זה קונה כסף בכל מקום שהוא. אבל אם נתן לו דינר של כסף בשלשים איסר לא קנה עד שימשוך האיסרין. ותרצינן בגמרא מאי בכל מקום שהוא כמות שהוא. דאי א\"ל מארנקי חדשה יהבינא לך לא מצי יהיב ליה מארנקי ישנה דא\"ל לישנן בעינא להו: מתני לה רבי לר' שמעון בריה הזהב קונה את הכסף. א\"ל רבי שנית לנו בילדותך הכסף קונה את הזהב. וקי\"ל כזקנותו. דהדר ביה ממה ששנה בילדותו וסתם לן הזהב קונה את הכסף. דכספא דחריף הוי טיבעא. דהבא דלא חריף הוי פירא. ואע\"ג דקאמר רב אשי כילדותיה מסתברא. הא דחי ליה גמרא. וגם הא דבעי למימר דר' חייא סבר דהבא טיבעא הוי אידחי והך ברייתא דתניא פרוטה אחד משמנה באיסר האטלקי וכו' שנאה ר' חייא לפום מה דהוה תנא רבי בילדותו ור' יוחנן סבר כזקנותו. דכי אתי רבין א\"ר יוחנן אע\"פ שאמרו אסור ללות דינר בדינר אבל מחללין מעשר שני עליו וע\"כ בדינר זהב קאמר דאי בדינר כסף מאי קמ\"ל דמחללין מעשר שני עליו מתני' היא ב\"ש אומרים לא יעשה אדם סלעים דינרים אלמא מתחלה חילל המעשר על סלעים. אלא ודאי בדינר זהב איירי ואשמעינן אע\"ג דלענין מקח וממכר ולענין הלואה פירא הוי לענין חילול הוי טיבעא. וההיא מתני' דלא יעשה אדם סלעין דינרין נשנית לפום מאי דהוה תני בילדותו. ולסברת זקנותו צ\"ל דלא נחלקו ב\"ש וב\"ה בדבר זה. וכן פסק ר\"ח דדהבא פירא הוי ואסור ללות דינר של זהב בדינר של זהב שמא ילוונו דינר ששוה בשעת הלואה כ\"ד דינרי כסף ובשעת פרעון שוה כ\"ה. ולא אמר דכספא הוא דזל דכספא טיבעא הוי לגבי דהבא. ואסור ללות דינר בדינר כמו שאסור ללות סאה בסאה. ודוקא לגבי כספא הוי פירא אבל לגבי שאר מטלטלי חשיב טיבעא. דהא לר' יוחנן להני תרי לישני קמאי מחללין פירות על דינר. וללישנא בתרא אפי' לר\"ל מחללין פירות על דינרים מדאורייתא. וה\"נ אמר לקמן ואין דינר זהב קונה טלית וגם אינו נעשה חליפין למ\"ד אין מטבע נעשה חליפין כדמוכח לקמן דפריך הזהב קונה את הכסף מאי לאו בחליפין. וכן מוכח מתני' דקתני מטלטלין קונים את המטבע ואין מטבע קונה המטלטלין והאי מטבע אכולהו מטבע השנויין ברישא קאי דכולהו קרויין מטבע כל זמן שלא נפסלו. ואשמעי' דאע\"ג דגבי טיבעא דחשיב מינייהו חשיב פירי. לגבי מטלטלין חשיב טיבעא. ודינרין דאמר דהוי טיבעא לגבי פירא ושאר מטלטלין היינו דוקא דינרין דסגיין בההוא אתרא וזבני ומזבני בהו אינשי. אבל דינרין דמיפסלו ולא זביני ומזבני בהו אינשי אלא מי שישנן בידו הולך אל השולחני להחליפן או מוליכן למקום שהם ניתנין או מוכרן למי שהולך למקום שהן ניתנין לא הוו טיבעא. אלא פירי הוו לכל מילי. וכן הדין נמי במטבע של כסף באתרא דלא סגי פירא הוי. כדתנן כל המטלטלין קונין זה את זה דף מו: ואמר ר\"ל אפי' כיס מלא מעות בכיס מלא מעות. ותרגמא ר' אבא בדינר אנקא ואנגרא חד פסלתו מלכות וחד פסלתו מדינה וכיון דלא סגי הוי ליה פירא ומיקני בחליפין. ואע\"ג דאין הלכה כר\"ל דאיהו סבר כרב ששת דפירי עבדי חליפין. מ\"מ שפיר מייתינן ראיה מינה דמטבע דלא סגי הוי פירא. ודוקא מטבע דלא סגי קונין זה את זה אבל מטבע דסגי כגון זהב ונחשת מעות והרעות ומעות היפות אינן קונין זה את זה ואע\"ג דמטבע חשוב כלי לענין קנין כסף. חד לגבי דחבריה טיבעא הוי ולא קני טיבעא לטיבעא ואע\"ג דלענין הלואה חשיב דהבא לגבי דהבא פירא ואסור ללות דינר בדינר. שאני התם כיון שהיוקר והזול תליי בו ולא בדינר כסף הוי כמו סאה בסאה. כתבו התוס' דנחשת הוי טיבעא לגבי דהבא והביאו ראיה מדהוה ס\"ד דאפי' לגבי כספא הוי טיבעא. ואע\"ג דדחי לה מ\"מ כיון דס\"ד להחשיבו אפי' מכסף אע\"ג שזה נדחה מ\"מ אכתי נשאר לו החשיבות טיבעא נגד זהב. ויראה לי דפירא הוי לגבי דהבא דנהי דאהני לכספא חריפיה לבטל חשיבות הזהב ולשוייה פירא. שאני כספא דאיהו נמי חשיב וגם חריף טפי דסגי בכל דוכתא. אבל נחשת דלא חשיב. אע\"ג דסגי בכל אתרא לא אהני ליה חריפותיה לבטל חשיבות הזהב. וכן משמע סידרא דמתני' דאחרון אחרון גריעא וחשיב פירא טפי מן הראשון. נחשת גריעי מזהב ומעות הרעות גריעי מנחשת דואסימון גרע ממעות הרעות שנסדקו:",
+              "ref": "Rosh on Bava Metzia 4:1:2",
+              "sourceHeRef": "פסקי הרא\"ש על בבא מציעא ד:א:ב",
+              "sourceRef": "Rosh on Bava Metzia 4:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>הכי נמי מסתברא</b> <span class=\"hebrew-emphasis\">[כך גם כן מסתבר]</span> לומר שזו דעתו של ר' יוחנן, <b>דכי אתא</b> <span class=\"hebrew-emphasis\">[שכאשר</span> <b>בא]</b> <b>רבין</b> מארץ ישראל לבבל <b>אמר</b> בשם <b>ר' יוחנן: אף על פי שאמרו אסור ללוות דינר בדינר, אבל מחללין מעשר שני עליו,</b> ואם כן <b>שמע מינה</b> <span class=\"hebrew-emphasis\">[למד מכאן]</span> במפורש שר' יוחנן הוא שאמר שמחללים.",
+              "ref": "Steinsaltz on Bava Metzia 45a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:ד",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "An abbreviation of Rabbi Avin, who is called Rabbi Bun in the Jerusalem Talmud. He was the most important among those who descended from Eretz Yisrael to Babylonia during the time of the third and fourth generations of Babylonian <i>amora’im</i>. Rabbi Avin was born in Babylonia and immigrated to Eretz Yisrael in his youth. There he studied Torah under Rabbi Yoĥanan, who lived to a very old age. After Rabbi Yoĥanan’s death, Ravin studied under his many students. Rabbi Avin was appointed to be one of the Sages who were sent to Babylonia to disseminate both innovative Torah insights from Eretz Yisrael and various traditions of Eretz Yisrael that were unknown in other lands. Rav Dimi was the emissary from Eretz Yisrael before Ravin. Ravin transmitted new and revised formulations of the <i>halakhot</i>. Therefore, he is considered an authority, and, as a rule, the <i>halakha</i> was decided in accordance with his opinion. Ravin returned to Eretz Yisrael several times. There he served as transmitter of the Torah studied in Babylonia. His statements are often cited in the Jerusalem Talmud. Little is known about his family and the rest of his life. It is known that his father died even before he was born and that his mother died when he was born. Some say that his father’s name was also Rabbi Avin and that he was named after him. Some believe that the <i>amora</i> of Eretz Yisrael Rabbi Yosei bar Bun was his son.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 45a:4",
+              "sourceHeRef": "רָבִין",
+              "sourceRef": "Ravin"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara comments: <b>So too, it is reasonable</b> to say that this is <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span>’s opinion, <b>as when <span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">Ravin</span> came</b> from <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span> he said that <b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> says: Even though they said</b> that <b>it is prohibited to borrow</b> a gold <b>dinar</b> and repay the loan <b>with</b> a gold <b>dinar, yet, one may desacralize second tithe with</b> a gold dinar. <b>Conclude from it</b> that it is <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> who said that one desacralizes second-tithe produce with a gold dinar.",
+      "he": "הָכִי נָמֵי מִסְתַּבְּרָא, דְּכִי אֲתָא רָבִין אָמַר רַבִּי יוֹחָנָן: אַף עַל פִּי שֶׁאָמְרוּ אָסוּר לִלְווֹת דִּינָר בְּדִינָר, אֲבָל מְחַלְּלִין מַעֲשֵׂר שֵׁנִי עָלָיו. שְׁמַע מִינַּהּ.",
+      "ref": "Bava Metzia 45a:4"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הפורט סלע ממעות מע\"ש.</b> עיין לקמן דף נג ע\"א תוס' ד\"ה דלמא אתי:",
+              "ref": "Gilyon HaShas on Bava Metzia 45a:1",
+              "sourceHeRef": "גליון הש\"ס על בבא מציעא מ״ה א:א",
+              "sourceRef": "Gilyon HaShas on Bava Metzia 45a:1"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "One who changes copper coins of second tithe for a sela: Bet Shammai says: he may change copper coins for a whole sela. But Bet Hillel says: a shekel of silver and a shekel’s worth of copper coins [can be exchanged for the sela]. Rabbi Meir says: one may not exchange silver and produce for silver. But the sages allow it.",
+              "he": "הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי, בֵּית שַׁמַּאי אוֹמְרִים, כָּל הַסֶּלַע מָעוֹת. וּבֵית הִלֵּל אוֹמְרִים, שֶׁקֶל כֶּסֶף וְשֶׁקֶל מָעוֹת. רַבִּי מֵאִיר אוֹמֵר, אֵין מְחַלְּלִין כֶּסֶף וּפֵרוֹת עַל הַכֶּסֶף, וַחֲכָמִים מַתִּירִים:",
+              "link": "/Mishnah Maaser Sheni/2",
+              "ref": "Mishnah Maaser Sheni 2:8",
+              "sourceHeRef": "משנה מעשר שני ב:ח",
+              "sourceRef": "Mishnah Maaser Sheni 2:8"
+            },
+            {
+              "en": "One who exchanges a sela from second tithe in Jerusalem: Beth Shammai says: “Copper coin for the whole sela.” And Beth Hillel says: “Silver for one shekel and copper coin for one shekel.” The disputants before the Sages say: “Silver for three denars and copper coin for one denar.” Rabbi Akiva says: “Silver for three denars and for the fourth silver, copper coin.” Rabbi Tarfon says: “Four aspers in silver.” Shammai says: “He must leave it in the shop and eat on the credit thereof.”",
+              "he": "הַפּוֹרֵט סֶלַע שֶׁל מַעֲשֵׂר שֵׁנִי בִּירוּשָׁלַיִם, בֵּית שַׁמַּאי אוֹמְרִים, בְּכָל הַסֶּלַע מָעוֹת, וּבֵית הִלֵּל אוֹמְרִים, בְּשֶׁקֶל כֶּסֶף וּבְשֶׁקֶל מָעוֹת. הַדָּנִים לִפְנֵי חֲכָמִים אוֹמְרִים, בִּשְׁלֹשָׁה דִינָרִים כֶּסֶף וּבְדִינָר מָעוֹת. רַבִּי עֲקִיבָא אוֹמֵר, בִּשְׁלֹשָׁה דִינָרִים כֶּסֶף וּבִרְבִיעִית כֶּסֶף בִּרְבִיעִית מָעוֹת. וְרַבִּי טַרְפוֹן אוֹמֵר, אַרְבָּעָה אַסְפְּרֵי כָסֶף. שַׁמַּאי אוֹמֵר, יַנִּיחֶנָּה בַחֲנוּת וְיֹאכַל כְּנֶגְדָּהּ:",
+              "link": "/Mishnah Eduyot/1",
+              "ref": "Mishnah Eduyot 1:10",
+              "sourceHeRef": "משנה עדיות א:י",
+              "sourceRef": "Mishnah Eduyot 1:10"
+            },
+            {
+              "en": "One who changes for a sela copper coins from second tithe: Beth Shammai says: “Copper coin for the whole sela.” And Beth Hillel say: “Silver for one shekel and copper coin for one shekel.” Rabbi Meir says: “Silver and fruits may not be substituted for silver.” But the sages allow it.",
+              "he": "הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי, בֵּית שַׁמַּאי אוֹמְרִים, בְּכָל הַסֶּלַע מָעוֹת, וּבֵית הִלֵּל אוֹמְרִים, בְּשֶׁקֶל כֶּסֶף וּבְשֶׁקֶל מָעוֹת. רַבִּי מֵאִיר אוֹמֵר, אֵין מְחַלְּלִין כֶּסֶף וּפֵרוֹת עַל הַכֶּסֶף. וַחֲכָמִים מַתִּירִין:",
+              "link": "/Mishnah Eduyot/1",
+              "ref": "Mishnah Eduyot 1:9",
+              "sourceHeRef": "משנה עדיות א:ט",
+              "sourceRef": "Mishnah Eduyot 1:9"
+            },
+            {
+              "en": "One who exchanges a sela of second tithe in Jerusalem:Bet Shammai says: he may exchange the whole sela for copper coins. Bet Hillel says: a shekel of silver and a shekel’s worth of copper coins [can be exchanged for the sela]. Those discussing before the sages say: silver for three dinars and copper coins for one denar. Rabbi Akiva says: silver for three denars and copper coins for a fourth [of the fourth denar]. Rabbi Tarfon says: four aspers in silver. Shammai says: he must leave it in a shop and eat as much as it is worth.",
+              "he": "הַפּוֹרֵט סֶלַע שֶׁל מַעֲשֵׂר שֵׁנִי בִּירוּשָׁלַיִם, בֵּית שַׁמַּאי אוֹמְרִים, כָּל הַסֶּלַע מָעוֹת. וּבֵית הִלֵּל אוֹמְרִים, שֶׁקֶל כֶּסֶף וְשֶׁקֶל מָעוֹת. הַדָּנִין לִפְנֵי חֲכָמִים אוֹמְרִים, בִּשְׁלֹשָׁה דִינָרֵי כֶּסֶף וְדִינָר מָעוֹת. רַבִּי עֲקִיבָא אוֹמֵר, שְׁלֹשָׁה דִינָרִין כֶּסֶף, וּרְבִיעִית מָעוֹת. רַבִּי טַרְפוֹן אוֹמֵר, אַרְבָּעָה אַסְפְּרֵי כֶסֶף. שַׁמַּאי אוֹמֵר, יַנִּיחֶנָּה בַחֲנוּת וְיֹאכַל כְּנֶגְדָּהּ:",
+              "link": "/Mishnah Maaser Sheni/2",
+              "ref": "Mishnah Maaser Sheni 2:9",
+              "sourceHeRef": "משנה מעשר שני ב:ט",
+              "sourceRef": "Mishnah Maaser Sheni 2:9"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person exchanges a <i>sela</i> of money from the second tithe - whether in Jerusalem or outside the city - he should not exchange it entirely for brass coins. Instead, it should be divided into a <i>shekel's</i> worth of silver coins and a <i>shekel's</i> worth of brass coins.",
+              "he": "הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי בֵּין בִּירוּשָׁלַיִם בֵּין חוּץ לִירוּשָׁלַיִם לֹא יְצָרְפֶנָּה כֻּלָּהּ בְּמָעוֹת נְחשֶׁת אֶלָּא בְּשֶׁקֶל מָעוֹת כֶּסֶף וּבְשֶׁקֶל מָעוֹת נְחשֶׁת:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 5:14",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ה:יד",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 5:14"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הפורט סלע ממעות מעשר וכו'.</b> פירש\"י ז\"ל אם בא לפורטן כולן יפרוט. וב\"ה אומרים לא יפרוט אלא חציין. ואינו מחוור, דאם כן הוו להו בית שמאי לקולא ובית הלל לחומרא, והתם הוה לן לאחשביה בהדי אינך דמסכת עדיות [פ\"ד ה'] עם קולי בית שמאי וחומרי בית הלל אלא הכי פירושו, בכל סלע חייב לפרוט, כדי שלא יעלו הפרוטות חלודה בידו ויגיע הפסד למעשר בכך, ובית הלל אומרים אינו צריך, אלא יכול הוא לשייר חציין, כדי שיהא בידו פרוטות מצויות בירושלם. ואע\"ג דהפורט קתני, ומשמע דרשות קתני, איכא למימר דאין הכי נמי, דאלו לא רצה לפרוט כלל, לא הטריחוהו חכמים לפרוט בסלעין, דאם כן אף לכתחלה לא יחלל פירות על הפרוטות, אלא שלא הטריחוהו לחזר על הסלעים לעולם, אבל כל שטרח ובא לפרוט, פורט את הכל לב\"ש, ולבית הלל חציין. והא דתנן נמי, הפורט סלע של מעשר שני בירושלים, בית שמאי אומרים בכל סלע מעות, ובית הלל אומרים בשקל כסף בשקל מעות, בית שמאי לחומרא ובית הלל לקולא, והכי קאמרי, על כרחו בכל סלע יקח מעות, כדי שיהא מצויות בידו ויוכל להוציאם בכל עת בירושלם, שאלו לא היו מצויות כל כך, חוששין שמא יותיר וישכח ויוציאם מירושלם. ובתוספות [ד\"ה בכל] פירוש כדי שלא יתן [הכרע] אחר, כשיפרוט החצי השני, ובית הלל אומרים אינו חייב לפרוט הכל בפרוטות, דחוששין שמא יעלו חלודה.",
+              "ref": "Rashba on Bava Metzia 45a:2",
+              "sourceHeRef": "רשב״א על בבא מציעא מ״ה א:ב",
+              "sourceRef": "Rashba on Bava Metzia 45a:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הפורט סלע ממעות מעשר שני</strong> - מי שיש לו מעות נחשת של מעשר שני ובא לפורטן בסלע כסף להעלות לירושלים מפני משאוי הדרך:",
+              "ref": "Rashi on Bava Metzia 45a:5:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ה:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ב\"ש אומרים בכל הסלע מעות</strong> - אם בא לפורטן יפרוט כולן ויתן מעות בשביל כל הסלע:",
+              "ref": "Rashi on Bava Metzia 45a:5:2",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ה:ב",
+              "sourceRef": "Rashi on Bava Metzia 45a:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וב\"ה אומרים לא יפרוט</strong> - אלא חציין שהפרוטות יוצאות בירושלים וכשיבא שם יהא צריך לפרוטות מיד לקנות צרכי סעודה ואם ירוצו הכל אצל שולחני לפרוט יוקירו הפרוטות ונמצא מעשר שני נפסד לפיכך ישאו פרוטות עמהן להוציא במקצת לכשיכלו יפרוט הכסף שבידו מעט מעט:",
+              "ref": "Rashi on Bava Metzia 45a:5:3",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ה:ג",
+              "sourceRef": "Rashi on Bava Metzia 45a:5:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">השתא לב\"ש כו'</strong> - דמדקתני ממעות מעשר שני ש\"מ חילל פירות על הפרוטות:",
+              "ref": "Rashi on Bava Metzia 45a:5:4",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ה:ד",
+              "sourceRef": "Rashi on Bava Metzia 45a:5:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לגבי דהבא מיבעיא</strong> - דמחללין פירות ותיובתא דמ\"ד אף בפירות על דינרין מחלוקת:",
+              "ref": "Rashi on Bava Metzia 45a:5:5",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ה:ה",
+              "sourceRef": "Rashi on Bava Metzia 45a:5:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעתה שבים לעצם הבעיה בדבר חילול מעשר של זהב <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> פתרון לבעיה ממה ששנינו במשנה: <b>הפורט סלע ממעות מעשר שני</b> שרוצה לצרף כספים קטנים למטבעות גדולים יותר, <b>בית שמאי אומרים: בכל הסלע</b> מחליף ל<b>מעות</b> כסף, <b>ובית הלל אומרים: בשקל</b> (חצי סלע) <b>כסף, בשקל</b> פורט ל<b>מעות</b> קטנות יותר. ומעתה, <b>השתא</b> <span class=\"hebrew-emphasis\">[עכשיו]</span> <b>ל</b>דעת <b>בית שמאי</b> אפילו <b>לגבי פריטי</b> <span class=\"hebrew-emphasis\">[פרוטות]</span> של נחושת אמרו הם כי <b>מחללינן</b> <span class=\"hebrew-emphasis\">[מחללים אנו]</span> עליהם את פירות המעשר, <b>לגבי דהבא מיבעיא</b> <span class=\"hebrew-emphasis\">[לגבי זהב נצרכה לומר]</span> שמחללין? ודוחים: <b>שאני פריטי, באתרא דסגיין חריפי</b> <span class=\"hebrew-emphasis\">[שונות הפרוטות, שבמקום שהן מהלכות הן חריפות,</span> עוברות לסוחר<span class=\"hebrew-emphasis\">]</span> יותר ממטבע כסף<span class=\"hebrew-emphasis\">].</span>",
+              "ref": "Steinsaltz on Bava Metzia 45a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:ה",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Most commentaries explain, like Rashi, that this refers to amassing coins of smaller denominations, e.g., copper <i>perutot</i>, and exchanging them for a coin of a larger denomination. The Ritva points out that there are several places where this term <i>poret</i> is employed in the sense of exchanging several less valuable coins for a coin of greater value. The Rambam and the Meiri maintain that the meaning here is consistent with the standard usage of changing a more valuable coin into coins of lesser value. According to their opinion, both this mishna and the one concerning an individual who exchanges money in Jerusalem which follows are referring to exchanging more valuable coins for ones of lesser value, and the only difference is with regard to the location where the money is changed. Rabbeinu Tam asks: Apparently in this dispute, the ruling of Beit Shammai is more lenient than the ruling of Beit Hillel, as they do not seem to place any restrictions on the exchanging of the coins. Why then is this dispute not included in the list of rulings in the fourth chapter of tractate <i>Eduyyot</i> where Beit Shammai rule more leniently than Beit Hillel?<i> </i>The commentaries answer that Beit Shammai do not merely permit exchanging the <i>perutot</i> for a more valuable coin (Rashi), but they require him to do so, as it is more likely that the many copper coins will corrode. Therefore, there is also a stringency in the opinion of Beit Shammai (Ramban).",
+              "he": "רוב המפרשים פירשו, כרש\"י, ש\"הפורט\" כאן כוונתו שמצרף מעות קטנות (כגון פרוטות נחושת) למטבע גדול, וכבר כתב הריטב\"א שמצאנו לשון \"פורט\" גם לגבי מצרף כספים. אכן, הרמב\"ם (והמאירי) פירשו גם כאן \"פורט\" כפשוטו, ולשיטות אלה גם כאן וגם במשנה הבאה (פורט מעות מעשר שני בירושלים) מדובר בפריטה ממש, ואין הבדל אלא לגבי המקום.<br><br>ולגוף הענין שואל רבינו תם: הלא מכאן נראה לכאורה שבית שמאי מקילים ובית הלל מחמירים, ולא נמנתה משנה זו במסכת עדיות בין קולי בית שמאי! ותירצו, כי בית שמאי מחייבים (ולא רק מתירים, כדעת רש\"י) להחליף הפרוטות כולן, כדי שלא יבואו לידי עיפוש (רש\"י, רמב\"ן).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 45a:5",
+              "sourceHeRef": "הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי",
+              "sourceRef": "With regard to one who exchanges [<i>happoret</i>] copper coins of second-tithe money for a <i>sela</i>"
+            },
+            {
+              "en": "",
+              "he": "הפורט סלע ממעות מעשר שני, בין מחוץ לירושלים ובין בירושלים לא יפרוט הכל למטבעות נחושת. אלא בחציו מעות כסף ובחציו מעות נחושת. וכבית הלל. (רמב\"ם ספר זרעים הלכות מעשר שני פ\"ה הי\"ד).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 45a:5",
+              "sourceHeRef": "הפורט סלע ממעות מעשר שני",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בכל הסלע מעות</strong> - רש\"י פי' טעם בדברי ב\"ה ובדברי ב\"ש לא נתן טעם משמע לב\"ש יכול לעשות מה שירצה וכן לקמן בהפורט סלע בירושלים וקשה דבמסכת עדיות <span class=\"parenthesized\">(פ\"א מ\"ט)</span> תני להו בהדי דברים דב\"ש לחומרא והוי ליה למתנינהו בהדי קולי ב\"ש לכך נראה דב\"ש דוקא בכל הסלע קאמרי ולא יחליף ב' וג' פעמים שבכל פעם משתכר החנוני ונמצא מפסיד מעשר שני ועי\"ל דהכא דוקא יתן בכל הסלע מעות שלא יתעפשו בדרך קודם שיגיע שם:",
+              "ref": "Tosafot on Bava Metzia 45a:5:1",
+              "sourceHeRef": "תוספות על בבא מציעא מ״ה א:ה:א",
+              "sourceRef": "Tosafot on Bava Metzia 45a:5:1"
+            }
+          ]
+        }
+      },
+      "en": "Apropos redemption of second-tithe produce with gold, the Gemara cites proof from a mishna (<i>Ma’aser Sheni</i> 2:8). <b>Come</b> and <b>hear:</b> With regard to <b>one who exchanges</b> copper coins <b>of second-tithe</b> money for a silver <i>sela</i> coin to ease its transport to Jerusalem, <b><span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> say:</b> He may exchange the copper <b>coins for the entire</b> silver <b><i>sela</i>. And <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> say:</b> He may exchange the copper coins <b>for a silver shekel,</b> which is equivalent to half a <i>sela</i>, <b>and with regard to</b> the other <b>shekel,</b> he must retain the copper <b>coins. Now,</b> if <b>according to <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> we desacralize</b> second-tithe produce <b>with</b> copper <b><i>perutot</i>, is</b> it <b>necessary</b> to mention the fact that it may be desacralized <b>with gold</b> coins? The Gemara rejects that proof: <b><i>Perutot</i> are different,</b> as <b>in a place where they are in circulation, they circulate</b> more easily than silver coins.",
+      "he": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי, בֵּית שַׁמַּאי אוֹמְרִים: בְּכׇל הַסֶּלַע מָעוֹת, וּבֵית הִלֵּל אוֹמְרִים: בְּשֶׁקֶל כֶּסֶף, בְּשֶׁקֶל מָעוֹת. הַשְׁתָּא לְבֵית שַׁמַּאי לְגַבֵּי פְּרִיטֵי מְחַלְּלִינַן, לְגַבֵּי דַּהֲבָא מִיבַּעְיָא? שָׁאנֵי פְּרִיטֵי בְּאַתְרָא דְּסָגַיִין חֲרִיפֵי.",
+      "ref": "Bava Metzia 45a:5"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The holiness of coins [used to redeem produce from] the second tithe should not be transferred to other coins. [This applies] whether both sets of coins were silver or both were brass, the first set was silver and the second brass, or the first set was brass and the second silver. If one transgressed and transferred the holiness, the transfer is effective.",
+              "he": "אֵין מְחַלְּלִין מְעוֹת מַעֲשֵׂר שֵׁנִי עַל מָעוֹת אֲחֵרוֹת. בֵּין שֶׁהָיוּ אֵלּוּ וְאֵלּוּ כֶּסֶף אוֹ אֵלּוּ וְאֵלּוּ נְחשֶׁת. [אוֹ הָרִאשׁוֹנוֹת כֶּסֶף וְהַשְּׁנִיּוֹת נְחשֶׁת. אוֹ] הָרִאשׁוֹנוֹת נְחשֶׁת וְהַשְּׁנִיּוֹת כֶּסֶף. וְאִם עָבַר וְחִלֵּל הֲרֵי אֵלּוּ מְחֻלָּלִין:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 4:5",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ד:ה",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 4:5"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דבית שמאי סברי הכסף כסף ראשון ולא כסף שני, ובית הלל סברי הכסף כסף ריבה.</b> פירוש בין לבית שמאי בין לבית הלל מחללין סלעין אדינרים, דאלמא דהבא לגבי כספא טבעא, כילודתיה דרבי, דעד כאן לא אסרי בית שמאי אלא משום כסף שני, הא לאו הכי מחללין, ואי אמרת דתרוייהו הוו טבעא לגבי מעשר ומחללין זה על זה אבל לענין מקח וממכר כלהו סבירא להו כזקנותיה דרבי, הא מנא לן. ומאי שנא מעשר, ואי משום כסף ריבה, הא לא משמע הכין, דבית שמאי הא לית להו כסף כסף ריבה, ועוד דאפילו לבית הלל לא שמעינן אלא דמרבינן מיניה כסף שני, אבל לרבות מה שאינו כסף בעלמא שיהא כאן כסף, הא לא שמעינן. ומיהו לדעת ר\"ח והרי\"ף ז\"ל, דסבירא להו דדהבא בעלמא הוי טבעא, הא לא קשיא, דכיון דבעלמא לגבי פירי ומטלטלי טבעא הוי, ולגבי כספא ונחשא בלחוד הוא דחשיב פירא, שפיר קא מרבינן ליה לגבי מעשר מלשון כסף, אלא דאכתי תקשי לן, דהא לא שמעינן לחד מינייהו דמרבה מיניה כספים מכסף כסף, אלא כספים שניים קא מרבו כנ\"ל, ואם זה אמת, דלהאי לישנא לכולי עלמא אית להו כילדותיה דרבי אליבא דר' יוחנן, דהוא ניהו דמוקים לה לפלוגתייהו בהכין, ופלוגתייהו דוקא בסלעים על דינרין, אבל איפכא, כלומר דינרין אסלעין, כולי עלמא אית להו דאין מחללין, דכספא לגבי דהבא פירא הוי, ולהאי פירושא לא תהא לנו ראיה מכאן כלל שיהא דהבא טבעא לשאר מילי לזקנותיה דרבן דהכא משום דתרוייהו אית להו דהבא טבעא הוי כילודתיה דרבי, הוא דקאמרי דמחללין סלעין אדינרין.",
+              "ref": "Rashba on Bava Metzia 45a:3",
+              "sourceHeRef": "רשב״א על בבא מציעא מ״ה א:ג",
+              "sourceRef": "Rashba on Bava Metzia 45a:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכסף</strong> - וצרת הכסף והלכת <span class=\"parenthesized\">(דברים י״ד:כ״ה)</span>:",
+              "ref": "Rashi on Bava Metzia 45a:6:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ו:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כסף ראשון</strong> - שחללת הפירות עליהם אתה צריך לצור בידך ולהוליך ולא שתחלל אותו כסף על כסף אחר:",
+              "ref": "Rashi on Bava Metzia 45a:6:2",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ו:ב",
+              "sourceRef": "Rashi on Bava Metzia 45a:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> <b>לישנא אחרינא</b> <span class=\"hebrew-emphasis\">[לשון אחרת]</span> <b>אמרי לה</b> <span class=\"hebrew-emphasis\">[אומרים אותה],</span> את מחלוקת <b>ר' יוחנן וריש לקיש,</b> בצורה שונה. <b>חד</b> <span class=\"hebrew-emphasis\">[אחד</span> מהם<span class=\"hebrew-emphasis\">]</span> <b>אמר</b> שה<b>מחלוקת</b> היא <b>בסלעין על דינרים,</b> ש<b>בית שמאי סברי</b> <span class=\"hebrew-emphasis\">[סבורים]</span> שמה שנאמר בכתוב <b>\"</b>וצרת <b>הכסף\"</b> (דברים יד, כה) כוונתו <b>כסף ראשון ולא כסף שני,</b> כלומר, אותו כסף עצמו שנתקבל עבור חילול פירות המעשר הוא הכסף שצריך להביא לירושלים, ואין להחליף כסף זה באחר.",
+              "ref": "Steinsaltz on Bava Metzia 45a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:ו",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אין מחללים מעות מעשר שני על מטבעות אחרים, בין כסף על כסף ובין כסף על נחושת או נחושת על כסף, ואם עבר ועשה כן — הרי אלו מחוללים. (וראה בכ\"מ ורדב\"ז). ונראה שהתירו להחליף כסף ראשון בכסף שני כאשר הכסף השני הוא מטבעות כסף החריפים יותר בהוצאה (ראה ברש\"י). (רמב\"ם ספר זרעים הלכות מעשר שני פ\"ד ה\"ה).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 45a:6",
+              "sourceHeRef": "כסף ראשון ולא שני",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "you may convert them into money. Wrap up the money and take it with you to the place that the L<small>ORD</small> your God has chosen,",
+              "he": "וְנָתַתָּ֖ה בַּכָּ֑סֶף וְצַרְתָּ֤ הַכֶּ֙סֶף֙ בְּיָ֣דְךָ֔ וְהָֽלַכְתָּ֙ אֶל־הַמָּק֔וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּֽוֹ׃",
+              "link": "/Deuteronomy/14",
+              "ref": "Deuteronomy 14:25",
+              "sourceHeRef": "דברים יד:כה",
+              "sourceRef": "Deuteronomy 14:25"
+            }
+          ]
+        }
+      },
+      "en": "There is <b>another version</b> of this discussion, and <b>some say</b> that this is the dispute between <b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-shimon-b-lakish\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-lakish\">Reish Lakish</span>. One said:</b> The <b>dispute</b> between <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> is <b>with regard to</b> exchanging silver <b><i>sela</i> coins for</b> gold <b>dinars, as <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> hold</b> that when the verse states: “And you shall bestow the money and you shall bind the money in your hand” (Deuteronomy 14:25), the term <b>“the money”</b> is referring to the <b>first money,</b> i.e., the very money with which the second-tithe produce was desacralized, <b>and</b> it is <b>not</b> referring to the <b>second money,</b> e.g., gold coins that became second-tithe money by virtue of their being exchanged with second-tithe silver <i>sela</i> coins. Evidently, the money with which the second-tithe produce was desacralized must be taken to Jerusalem and it may not be exchanged for other coins.",
+      "he": "לִישָּׁנָא אַחֲרִינָא אָמְרִי לַהּ, רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ. חַד אָמַר: מַחְלוֹקֶת בִּסְלָעִין עַל דִּינָרִים, דְּבֵית שַׁמַּאי סָבְרִי: ״הַכֶּסֶף״ – כֶּסֶף רִאשׁוֹן וְלֹא כֶּסֶף שֵׁנִי.",
+      "ref": "Bava Metzia 45a:6",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכסף כסף ריבה</strong> - כסף יתירא כתיב בפרשה:",
+              "ref": "Rashi on Bava Metzia 45a:7:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ז:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ובית הלל סברי</b> <span class=\"hebrew-emphasis\">[סבורים]</span> כיון שנאמר <b>\"הכסף\",</b> וגם <b>\"כסף\", ריבה</b> הכתוב, בחזרה זו, ללמד שמותר להביא לירושלים <b>אפילו כסף שני. אבל פירות על דינרין</b> — <b>דברי הכל מחללינן</b> <span class=\"hebrew-emphasis\">[מחללים אנו],</span> <b>דאכתי</b> <span class=\"hebrew-emphasis\">[שעדיין]</span> <b>כסף ראשון הוא,</b> ומותר לחלל את הפירות בכל סוג כסף.",
+              "ref": "Steinsaltz on Bava Metzia 45a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:ז",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>And <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> hold</b> that since it is written: <b>“The money,”</b> and this second mention of <b>money</b> in that verse is superfluous, the term <b>“the money”</b> serves to <b>include even second money.</b> Accordingly, the verse teaches that money with which the produce was desacralized may be exchanged for other money that will be brought to Jerusalem. The Gemara continues its citation of this first explanation of the dispute between <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>: <b>But</b> with regard to desacralizing <b>produce with dinars, everyone agrees</b> that <b>we desacralize</b> produce in that manner, <b>as</b> the gold dinars <b>are still</b> the <b>first money</b> used for desacralizing, as any type of money can be used for desacralizing second-tithe produce.",
+      "he": "וּבֵית הִלֵּל סָבְרִי: ״הַכֶּסֶף״, ״כֶּסֶף״, רִיבָּה – וַאֲפִילּוּ כֶּסֶף שֵׁנִי. אֲבָל פֵּירוֹת עַל דִּינָרִין – דִּבְרֵי הַכֹּל מְחַלְּלִינַן, דְּאַכַּתִּי כֶּסֶף רִאשׁוֹן הוּא.",
+      "ref": "Bava Metzia 45a:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אף בפירות על דינרין מחלוקת</strong> - וטעמא דב\"ש משום דדהבא פירא הוא ולא מתחלל עליה מעשר:",
+              "ref": "Rashi on Bava Metzia 45a:8:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ח:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וחד</b> <span class=\"hebrew-emphasis\">[אחד</span> מהם<span class=\"hebrew-emphasis\">]</span> <b>אמר</b> כי <b>אף בפירות על דינרין נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>מחלוקת</b> היא אם מותר בכסף דווקא או גם בזהב.",
+              "ref": "Steinsaltz on Bava Metzia 45a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:ח",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:8"
+            }
+          ]
+        }
+      },
+      "en": "<b>And one said:</b> There is <b>a dispute</b> between <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> <b>even with regard to</b> the desacralizing of <b>produce with dinars,</b> as to whether desacralizing must be accomplished with silver or if it can be accomplished even with gold.",
+      "he": "וְחַד אָמַר: אַף בְּפֵירוֹת עַל דִּינָרִין נָמֵי מַחְלוֹקֶת.",
+      "ref": "Bava Metzia 45a:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולמ\"ד בסלעין על דינרין</strong> - דוקא פליגי וטעמא דב\"ש משום כסף שני הוי ולא משום דדהבא פירא הוא:",
+              "ref": "Rashi on Bava Metzia 45a:9:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ט:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אדמיפלגי בסלעין על דינרין</strong> - שיש לטעות ולומר טעמא משום דדהבא חשיב ליה פירא הוא ניפלגו בסלעין על סלעין ששניהם של כסף:",
+              "ref": "Rashi on Bava Metzia 45a:9:2",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:ט:ב",
+              "sourceRef": "Rashi on Bava Metzia 45a:9:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ולמאן דאמר</b> <span class=\"hebrew-emphasis\">[</span><span class=\"hebrew-emphasis\">ול</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> שב<b>סלעין על דינרין מחלוקת, אדמיפלגי</b> <span class=\"hebrew-emphasis\">[עד שהם חלוקים]</span> <b>בסלעין על דינרין, לפלגי</b> <span class=\"hebrew-emphasis\">[שיחלקו]</span> במקרה יסודי יותר וברור יותר ב<b>סלעין על סלעין,</b> שהרי לשיטת האוסרים גם דבר זה אסור!",
+              "ref": "Steinsaltz on Bava Metzia 45a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:ט",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:9"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לפלגי בסלעים על סלעים</strong> - ריב\"ן ל\"ג ליה דאמאי יחלל על סלעין אחרים מיהו הא לא קשיא שהראשונים אינם חריפים להוציאם בירושלים כמו השניים שהם מטבע אחר והא דאמר בהגוזל [קמא] <span class=\"parenthesized\">(ב\"ק דף צז:)</span> התקינו שיהו כל המעות יוצאות בירושלים מ\"מ אלו חריפין מאלו אך קשה דלקמן <span class=\"parenthesized\">(בבא מציעא דף נה:)</span> אמרי' ותנן לה במסכת מעשר שני <span class=\"parenthesized\">(פ\"ב מ\"ו)</span> סלע של חולין ושל מעשר שני שנתערבו מביא בסלע מעות ומחלל עליהם מפני שאמרו מחללין כסף על נחשת מדוחק ופרש\"י אבל לא יקח אחד מהסלעין ויאמר אם מעשר הוא מוטב ואם לאו חבירו יהא מחולל עליו משום דאין מחללין כסף על כסף אפילו מדוחק וי\"ל דהתם הסלעים שוין זה כזה ולכך אין מחללין אבל מטבע שאינו חריף על החריף מחללין אי נמי אתיא כר' מאיר דתנן <span class=\"parenthesized\">(שם מ\"ח)</span> בתר בבא דהפורט סלע אין מחללין כסף על כסף דברי ר' מאיר וחכמים מתירין [לפנינו שם במס' מעשר שני לא נמצא כך וע\"ש בתוי\"ט שכתב דנוסחא אחרת היתה לפניהם]:",
+              "ref": "Tosafot on Bava Metzia 45a:9:1",
+              "sourceHeRef": "תוספות על בבא מציעא מ״ה א:ט:א",
+              "sourceRef": "Tosafot on Bava Metzia 45a:9:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara challenges: <b>But according to the one who says:</b> The <b>dispute</b> between <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> is <b>with regard to</b> exchanging silver <b><i>sela</i> coins for</b> gold <b>dinars, rather than disagreeing with regard to</b> exchanging of silver <b><i>sela</i> coins for</b> gold <b>dinars, let</b> <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> <b>disagree with regard to</b> the more straightforward case of exchanging <b><i>sela</i> coins for <i>sela</i> coins,</b> as according to those who forbid exchanging a <i>sela</i> for dinars, exchanging a <i>sela</i> for a <i>sela</i> is also forbidden, as one may not convert the second-tithe sanctity to second money.",
+      "he": "וּלְמַאן דְּאָמַר סְלָעִין עַל דִּינָרִין מַחְלוֹקֶת, אַדְּמִיפַּלְגִי בִּסְלָעִין עַל דִּינָרִין, לִיפְלוֹג בִּסְלָעִין עַל סְלָעִין!",
+      "ref": "Bava Metzia 45a:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הוה אמינא</strong> - בסלעין על סלעין הוא דפליג בית הלל עלייהו דלית להו כסף ראשון ולא כסף שני:",
+              "ref": "Rashi on Bava Metzia 45a:10:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:י:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל בסלעין על דינרין אימא מודו להו</strong> - דלא מיתחלי משום דדהבא פירא הוא קמ\"ל:",
+              "ref": "Rashi on Bava Metzia 45a:10:2",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:י:ב",
+              "sourceRef": "Rashi on Bava Metzia 45a:10:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>אי אפלגי</b> <span class=\"hebrew-emphasis\">[אם</span> היו <span class=\"hebrew-emphasis\">חלוקים]</span> <b>בסלעין על סלעין, הוה אמינא</b> <span class=\"hebrew-emphasis\">[הייתי אומר]:</span> <b>הני מילי</b> <span class=\"hebrew-emphasis\">[דברים אלה</span> אמורים<span class=\"hebrew-emphasis\">]</span> דווקא שמחלל <b>סלעין על סלעין, אבל בסלעין על דינרין</b> — <b>מודו להו</b> <span class=\"hebrew-emphasis\">[מודים להם]</span> <b>בית הלל לבית שמאי, דדהבא</b> <span class=\"hebrew-emphasis\">[שזהב]</span> <b>לגבי כספא</b> <span class=\"hebrew-emphasis\">[כסף]</span> <b>פירא הוי ולא מחללינן</b> <span class=\"hebrew-emphasis\">[</span>כ<span class=\"hebrew-emphasis\">פרי הוא ואין אנו מחללים],</span> על כן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[השמיע לנו]</span> שלא כן הוא, ואין הבדל.",
+              "ref": "Steinsaltz on Bava Metzia 45a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:י",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:10"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains: <b>Had they disagreed with regard to</b> the exchange of <b><i>sela</i> coins for <i>sela</i> coins, I would say: This matter</b> applies only <b>with regard to</b> exchanging <b><i>sela</i> coins for <i>sela</i> coins, but with regard to</b> exchanging <b><i>sela</i> coins for dinars, <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> concede to <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> that gold</b> coins <b>relative to silver</b> coins <b>are a commodity, and we do not desacralize</b> currency with a commodity. Therefore, the <i>tanna</i> <b>teaches us</b> that they disagree in the case of exchanging silver <i>sela</i> coins for gold dinars as well.",
+      "he": "אִי אִפְּלוּג בִּסְלָעִין עַל סְלָעִין, הֲוָה אָמֵינָא: הָנֵי מִילֵּי בִּסְלָעִין עַל סְלָעִין, אֲבָל בִּסְלָעִין עַל דִּינָרִין – מוֹדוּ לְהוּ בֵּית הִלֵּל לְבֵית שַׁמַּאי דְּדַהֲבָא לְגַבֵּי כַּסְפָּא פֵּירָא הָוֵי וְלָא מְחַלְּלִינַן, קָא מַשְׁמַע לַן.",
+      "ref": "Bava Metzia 45a:10"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person exchanges a <i>sela</i> of money from the second tithe - whether in Jerusalem or outside the city - he should not exchange it entirely for brass coins. Instead, it should be divided into a <i>shekel's</i> worth of silver coins and a <i>shekel's</i> worth of brass coins.",
+              "he": "הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי בֵּין בִּירוּשָׁלַיִם בֵּין חוּץ לִירוּשָׁלַיִם לֹא יְצָרְפֶנָּה כֻּלָּהּ בְּמָעוֹת נְחשֶׁת אֶלָּא בְּשֶׁקֶל מָעוֹת כֶּסֶף וּבְשֶׁקֶל מָעוֹת נְחשֶׁת:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 5:14",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ה:יד",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 5:14"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תא שמע, הפורט סלע של מעשר שני בירושלם בית שמאי אומרים בכל סלע מעות וכו'.</b> השתא קא פריך לתרוייהו, דמהכא שמעינן שמחללין כסף ראשון אכסף שני ואפילו לבית שמאי, וקשיא לר' יוחנן דמוקי פלוגתייהו בהכי. וכן נמי שמעינן מינה דמחללין נמי פירא אדהבא לבית שמאי, דהשתא כספא לגבי נחשא מחללינן, אע\"ג דנחשא לגבי כספא פירא הוי לכולי עלמא כל שכן דפירא אדהבא מחללינן, אע\"ג דדהבא בעלמא הוי פירא לגבי כספא. וגדולה מזו שמעינן מינה, דאפילו <span class=\"parenthesized\">(פירא אטבעא)</span> [טבעא אפירא] מחללינן, דהא כספא טבעא ונחשא פירא ואפילו הכי מחללינן, אלא ודאי ב\"ש על כרחין טעמא אחרינא אית להו במעשר, דלא כמר ודלא כמר. ומשני דהכא ליכא לאקשויי כלל לא למר ולא למר, דבירושלם אדרבה טבעא אפירא הוא דמחללין, ומשום הכי מחללין כספא אפרוטות.",
+              "ref": "Rashba on Bava Metzia 45a:4",
+              "sourceHeRef": "רשב״א על בבא מציעא מ״ה א:ד",
+              "sourceRef": "Rashba on Bava Metzia 45a:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג הפורט סלע של מעשר שני בירושלים</strong> - שהיה מחליף סלעים שבידו ונוטל פרוטות להוציאם לצרכי סעודות מעשר:",
+              "ref": "Rashi on Bava Metzia 45a:11:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:יא:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בית שמאי אומרים</strong> - אם בא להחליף כל הסלעין שבידו במעות יחליף:",
+              "ref": "Rashi on Bava Metzia 45a:11:2",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:יא:ב",
+              "sourceRef": "Rashi on Bava Metzia 45a:11:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וב\"ה אומרים לא יחליף אלא חציין</strong> - שמא לא ישהה בעיר עד שיוציא את כולן ויפקיד בעיר עד רגל אחר והפרוטות מתעפשות ואם יחזור ויחליפם בסלעין נמצא שולחני משתכר שתי פעמים ומעשר שני נפסד:",
+              "ref": "Rashi on Bava Metzia 45a:11:3",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:יא:ג",
+              "sourceRef": "Rashi on Bava Metzia 45a:11:3"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>זוז</big></b> [איינע מינצע] <span class=\"parenthesized\">(שבת סו)</span> לאשתא בת יומא לישקול זוזא חיורא פי' זוז של כסף צרוף. רבע שקל כסף תרגום זוזא חד דכספא פי' שקל של תורה הוא סלע וכן תרגום שקל סילעא ויש בו ארבעה דינרין ודינר וזוז אחד הן שקל דרבנן הוא חצי סלע ויש בו ב' דינרין כדגרסינן <span class=\"parenthesized\">(ב\"מ מה)</span> תנן <span class=\"parenthesized\">(מעשר שני פ\"ב)</span> הפורט סלע של מעשר שני ב\"ה אומרים בכל הסלע מעות וב\"ה אומרים בשקל כסף בשקל מעות. <span class=\"parenthesized\">(חגיגה ה)</span> זוזי לעללא לא שכיח לתילותא שכיח פירוש הממציא מעות לעני בשעה שהנוגשים עליו ומלוה אותן לו ונוגשין באין ולוקחין הממון וכי מסתלקי הוא בא ונושה אותו בכל יום היינו דאמרי אנשי זוזי לקנות התבואה אינו מצוי ולמי שתולין אותו הנוגשים מצוי <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב פי' בלשון יוני שם אליל על כל האלילים וצורתו נטבעה במטבע הנקרא על שמו ולכן רבי מנחם בר סימאי בצורתא דזוזא לא הוה מסתכל <span class=\"parenthesized\">(בריש פ' דר' ישמעאל במסכת ע\"ז)</span>)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Zayin 51",
+              "sourceHeRef": "ספר הערוך, אות הזי\"ן נ״א",
+              "sourceRef": "Sefer HeArukh, Letter Zayin 51"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומביאים עוד ראיה, <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> ממה ששנינו במשנה: <b>הפורט סלע של מעשר שני בירושלים</b> עצמה, <b>בית שמאי אומרים:</b> יפרוט ויטול <b>בכל הסלע מעות, ובית הלל אומרים: בשקל</b> לוקח <b>כסף</b> ו<b>בשקל</b> לוקח <b>מעות.</b> ומעתה, <b>השתא כספא לגבי פריטי מחללינן</b> <span class=\"hebrew-emphasis\">[עכשיו</span> הרי, <span class=\"hebrew-emphasis\">כסף על פרוטות מחללים אנו],</span> <b>ולא אמרינן</b> <span class=\"hebrew-emphasis\">[ואין אנו אומרים]</span> שגזירת הכתוב היא שיהא זה <b>כסף ראשון ולא כסף שני, לגבי דהבא דחשיב מיניה</b> <span class=\"hebrew-emphasis\">[זהב שחשוב ממנו,</span> מן הכסף<span class=\"hebrew-emphasis\">],</span> <b>מי אמרינן</b> <span class=\"hebrew-emphasis\">[האם אומרים אנו],</span> האם יכולים לומר אז שדווקא <b>כסף ראשון ולא כסף שני?</b>",
+              "ref": "Steinsaltz on Bava Metzia 45a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:יא",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One who exchanges the equivalent of a <i>sela</i> in second-tithe money may not exchange the entire sum for copper <i>perutot</i>, whether or not he is in Jerusalem. Rather, he exchanges half into copper <i>perutot</i> and the other half into silver coins, which are more durable, in accordance with the opinion of Beit Hillel (Rambam <i>Sefer Zera’im</i>,<i> Hilkhot Ma’aser Sheni</i> 5:14).",
+              "he": "וצריך לומר שבית שמאי מחייבים לפרוט את הסלע כולו כדי שלא יצטרך המחליף לשלם פעמיים לשולחני עבור ההחלפה. וטעם בית הלל כנראה שיש לחשוש לעיפוש, ולכן תלוי הדבר בדעתו (ראה בראב\"ד ובר\"ש). אכן, בתלמוד הירושלמי מפרש שבית שמאי מתירים לעשות כפי שירצה בלא כל הגבלה, וכי משנה זו היא כאמור מקולי בית שמאי.",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 45a:11",
+              "sourceHeRef": "הַפּוֹרֵט סֶלַע שֶׁל מַעֲשֵׂר שֵׁנִי",
+              "sourceRef": "One who exchanges a silver <i>sela</i> of second-tithe money"
+            },
+            {
+              "en": "One may not desacralize second-tithe coins by exchanging them with other coins, neither silver coins for silver coins, nor silver coins for copper coins, nor copper coins for silver coins. If he did so, the coins are desacralized (see <i>Kesef Mishne</i> and Radbaz). Apparently, the Sages permitted exchange of coins for other coins if the second coins had greater circulation than the first (Rambam <i>Sefer Zera’im</i>,<i> Hilkhot Ma’aser Sheni</i> 4:5).",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 45a:11",
+              "sourceHeRef": "כֶּסֶף רִאשׁוֹן וְלֹא כֶּסֶף שֵׁנִי",
+              "sourceRef": "First money and not second money"
+            },
+            {
+              "en": "Apparently, Beit Shammai hold that one exchanging the <i>sela</i> for <i>perutot</i> must exchange<i> </i>the entire <i>sela</i> in a single transaction to avoid paying a service charge to the money changer twice. Beit Hillel are concerned that the copper coins could corrode, and therefore they allow him to exchange the <i>sela </i>at his discretion (see Ra’avad and Rash). It is stated in the Jerusalem Talmud that Beit Shammai hold one can exchange the <i>sela </i>as he wishes, and that this dispute should certainly be included in the list of lenient rulings of Beit Shammai in tractate <i>Eduyyot</i>.",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Bava Metzia 45a:11",
+              "sourceHeRef": "הַפּוֹרֵט סֶלַע שֶׁל מַעֲשֵׂר שֵׁנִי בִּירוּשָׁלַיִם",
+              "sourceRef": "One who exchanges a silver <i>sela</i> of second-tithe money into copper coins in Jerusalem"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה</b> השתא כספא לגבי פריטי וכו' ולכך לא פריך מינה ללישנא קמא ולא למאן דאמר אף בפירות על דינרין מחלוקת וכו'. ר\"ל דלא פריך מינה אלישנא קמא וגם בלישנא בתרא זה לא פריך מינה למאן דאמר אף בפירות על דינרין מחלוקת א\"כ ס\"ל דפליגי אי דהבא הוי פירא:",
+                      "ref": "Maharam on Bava Metzia 45a:1",
+                      "sourceHeRef": "מהר\"ם על בבא מציעא מ״ה א:א",
+                      "sourceRef": "Maharam on Bava Metzia 45a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">השתא כספא לגבי פריטי מחללין</strong> - הא פשיטא ליה שיש חלוק בין ירושלים לחוץ לירושלים דחוץ לירושלים עיקר חלול הוא פירות על פריטי או על סלעים כדי להקל משאו ובירושלים עיקר החלול הוא כסף על פירות כדי לאכלם או על פריטי כדי לקנות בהם צורך אכילה ולכך לא פריך מינה ללישנא קמא ולא למ\"ד אף בפירות על דינרין מחלוקת ופליגי אי דהבא פירא הוי אי לאו ולא פריך אלא למ\"ד דטעמייהו דב\"ש משום כסף ראשון ולא כסף שני דלענין ראשון ושני סבור שאין לחלק בין תוך ירושלים לחוצה לה:",
+              "ref": "Tosafot on Bava Metzia 45a:11:1",
+              "sourceHeRef": "תוספות על בבא מציעא מ״ה א:יא:א",
+              "sourceRef": "Tosafot on Bava Metzia 45a:11:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara suggests: <b>Come</b> and <b>hear</b> proof to the correct ruling in this dispute from a mishna (<i>Ma’aser Sheni</i> 2:9): With regard to <b>one who exchanges</b> a silver <b><i>sela</i> of second-tithe</b> money for copper coins <b>in Jerusalem, <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> say: With the entire <i>sela</i></b> he executes the exchange for copper <b>coins; and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> say:</b> He may exchange half the <i>sela</i> <b>for a silver shekel, and</b> half the <i>sela</i> for copper <b>coins</b> having the value of <b>a shekel.</b> The Gemara analyzes the mishna: <b>Now</b> if <b>we</b> allow him to <b>desacralize silver</b> coins <b>for <i>perutot</i>, and we do not say</b> that there is a Torah decree of <b>first money and not second money,</b> then <b>with regard to gold, which is more valuable than</b> silver, <b>do we say</b> that there is a Torah decree of <b>first money and not second money?</b>",
+      "he": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע שֶׁל מַעֲשֵׂר שֵׁנִי בִּירוּשָׁלַיִם, בֵּית שַׁמַּאי אוֹמְרִים: בְּכׇל הַסֶּלַע מָעוֹת, וּבֵית הִלֵּל אוֹמְרִים: בְּשֶׁקֶל כֶּסֶף, בְּשֶׁקֶל מָעוֹת. הַשְׁתָּא כַּסְפָּא לְגַבֵּי פְּרִיטֵי מְחַלְּלִינַן, וְלָא אָמְרִינַן ״כֶּסֶף רִאשׁוֹן וְלֹא כֶּסֶף שֵׁנִי״, לְגַבֵּי דַּהֲבָא דַּחֲשִׁיב מִינֵּיהּ, מִי אָמְרִינַן ״כֶּסֶף רִאשׁוֹן וְלֹא כֶּסֶף שֵׁנִי״?",
+      "ref": "Bava Metzia 45a:11"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והא דמייתינן:<b> מדכתיב בכל אשר תאוה נפשך בבקר ובצאן.</b> פי' הראב\"ד ז\"ל בבקר ובצאן, כל דבר שהוא צורך האכילה, והם הפרוטות שהן צריכות להוצאה. ואיני מבין טעמו, ואדרבה, דרשינן ליה <span class=\"parenthesized\">(בפרט וכלל)</span> [בכלל ופרט], ואמרינן <span class=\"parenthesized\">(לקמן בבא מציעא כז, ב)</span> מה הפרט מפורש פרי מפרי וגדולי קרקע אף כל פרי מפרי וגדולי קרקע. אלא נראה לי דלא מבקר וצאן קא מרבינן הכא פרוטות, אלא הכי פירושו, שאני ירושלם דבירושלם מחללין טבעא אפירא, [שעיקרן – ש\"מ] להוצאה הוליכן לירושלם, ואפירי הוא דמחללינן להו דכתיב בבקר ובצאן, והילכך אי משום דאין מחללין טבעא אפירא בעלמא, הכא לא אכפת לן, ואי משום דרחמנא אמר בקר וצאן וגדולי קרקע דוקא, הני מילי מידי דהוצאה, דלא מצי זבין ומפיק אלא לכעין הפרט, אבל לא ליקח [ממנו חלוק – ש\"מ] ולא סנדלין לרגליו, אבל פרוטות לא לצורך עצמן קנאן, אלא לצורך הוצאות מידי דכעין הפרט, ולא אסרה תורה כי הא, כך נראה לי.",
+              "ref": "Rashba on Bava Metzia 45a:5",
+              "sourceHeRef": "רשב״א על בבא מציעא מ״ה א:ה",
+              "sourceRef": "Rashba on Bava Metzia 45a:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא:</b> מ<b>ירושלים קמותבת</b> <span class=\"hebrew-emphasis\">[אתה מקשה]?!</span> <b>שאני</b> <span class=\"hebrew-emphasis\">[שונה]</span> הדין ב<b>ירושלים, דכתיב ביה</b> <span class=\"hebrew-emphasis\">[שנאמר בו]</span> <b>\"ונתתה הכסף בכל אשר תאוה נפשך בבקר ובצאן\"</b> (שם כו) שכן בירושלים יכול לעשות בכסף ככל שירצה.",
+              "ref": "Steinsaltz on Bava Metzia 45a:12",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:יב",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:12"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Doesn’t the verse: “And you shall bestow the money,” refer only to the acquisition of food? How can one derive from it that one may exchange the coin for <i>perutot</i>? The Ra’avad explains that since <i>perutot</i> are the currency used to purchase the food listed in the verse, they are included in the instruction of the verse to purchase food, and no additional source is necessary. The Rosh writes that although the details listed in the verse are foods, the verse subsequently states: “For whatever your soul desires,” indicating that the money may also be exchanged for items other than food.",
+              "he": "והקשו: הלא מן הפסוק \"ונתת הכסף וכו'\" למדים רק לקניית מיני מאכל בלבד, וכיצד ילמדו גם לענין החלפה לפרוטות? ותירצו, כי מאחר והפרוטות הן צורך אכילה של צאן ובקר וכו', שהם נקנים בכל פעם במעות קטנות, ולכך צריך הלא בפריטה ואין זה צריך ללימוד מיוחד (ראב\"ד). והרא\"ש כתב שכל המיעוטים בכתוב נאמרו רק לגבי חפצי אוכל, אבל בשאר דברים הלא יש ריבוי של \"בכל אשר תאוה נפשך\".",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 45a:12",
+              "sourceHeRef": "שָׁאנֵי יְרוּשָׁלַיִם",
+              "sourceRef": "Jerusalem is different"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בכל אשר תאוה נפשך</strong> - ואם תאמר והא בעינן פרי מפרי וגדולי קרקע וי\"ל דלא ממעטין אלא מים ומלח אבל לא פרוטה דבפרוטה קונה בקר וצאן דהוו פרי מפרי:",
+              "ref": "Tosafot on Bava Metzia 45a:12:1",
+              "sourceHeRef": "תוספות על בבא מציעא מ״ה א:יב:א",
+              "sourceRef": "Tosafot on Bava Metzia 45a:12:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "and spend the money on anything you want—cattle, sheep, wine, or other intoxicant, or anything you may desire. And you shall feast there, in the presence of the L<small>ORD</small> your God, and rejoice with your household.",
+              "he": "וְנָתַתָּ֣ה הַכֶּ֡סֶף בְּכֹל֩ אֲשֶׁר־תְּאַוֶּ֨ה נַפְשְׁךָ֜ בַּבָּקָ֣ר וּבַצֹּ֗אן וּבַיַּ֙יִן֙ וּבַשֵּׁכָ֔ר וּבְכֹ֛ל אֲשֶׁ֥ר תִּֽשְׁאָלְךָ֖ נַפְשֶׁ֑ךָ וְאָכַ֣לְתָּ שָּׁ֗ם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְשָׂמַחְתָּ֖ אַתָּ֥ה וּבֵיתֶֽךָ׃",
+              "link": "/Deuteronomy/14",
+              "ref": "Deuteronomy 14:26",
+              "sourceHeRef": "דברים יד:כו",
+              "sourceRef": "Deuteronomy 14:26"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said</b> in response: <b>Are you raising an objection from</b> the <i>halakha</i> of exchanging coins within <b>Jerusalem</b> in order to apply it to the <i>halakha</i> of exchanging coins outside of Jerusalem? The legal status of <b>Jerusalem is different</b> with regard to exchanging second-tithe coins, <b>as it is written with regard to</b> Jerusalem: <b>“And you shall bestow the money for whatever your soul desires, for cattle or for sheep”</b> (Deuteronomy 14:26). One may utilize the money in Jerusalem in any manner he chooses.",
+      "he": "אָמַר רָבָא: יְרוּשָׁלַיִם קָמוֹתְבַתְּ? שָׁאנֵי יְרוּשָׁלַיִם, דִּכְתִיב בֵּיהּ ״וְנָתַתָּה הַכֶּסֶף בְּכֹל אֲשֶׁר תְּאַוֶּה נַפְשְׁךָ בַּבָּקָר וּבַצֹּאן״.",
+      "ref": "Bava Metzia 45a:12"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ת\"ש</strong> - מההיא קמייתא דלא מיירי בירושלים דמחליף פרוטות ונוטל סלע:",
+              "ref": "Rashi on Bava Metzia 45a:13:1",
+              "sourceHeRef": "רש\"י על בבא מציעא מ״ה א:יג:א",
+              "sourceRef": "Rashi on Bava Metzia 45a:13:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים עוד: <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> ראיה ממה ששנינו במשנה נוספת: <b>הפורט סלע ממעות מעשר שני,</b> כלומר, מכסף שנתקבל מחילול פירות המעשר — <b>בית שמאי אומרים:</b> יפרוט ויטול <b>בכל הסלע מעות, ובית הלל אומרים: בשקל</b> יטול <b>כסף</b> ו<b>בשקל</b> יטול <b>מעות.</b> והרי זו הוכחה נצחת שהכל מסכימים שמותר להחליף כסף מעשר בכסף אחר!",
+              "ref": "Steinsaltz on Bava Metzia 45a:13",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:יג",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:13"
+            }
+          ]
+        }
+      },
+      "en": "<b>Come</b> and <b>hear</b> proof from the mishna (<i>Ma’aser Sheni</i> 2:8): With regard to <b>one who exchanges</b> copper coins <b>of second-tithe</b> money for a silver <i>sela</i> coin to ease its transport to Jerusalem, <b><span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> say:</b> He may exchange the copper <b>coins for the entire</b> silver <b><i>sela</i>. And <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> say:</b> He may exchange the copper coins <b>for a silver shekel,</b> which is equivalent to half a <i>sela</i>, <b>and with regard to</b> the other <b>shekel,</b> he must retain the copper <b>coins.</b> This constitutes proof that everyone agrees one may exchange second-tithe coins for other coins.",
+      "he": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי – בֵּית שַׁמַּאי אוֹמְרִים: בְּכׇל הַסֶּלַע מָעוֹת, וּבֵית הִלֵּל אוֹמְרִים: בְּשֶׁקֶל כֶּסֶף, בְּשֶׁקֶל מָעוֹת!",
+      "ref": "Bava Metzia 45a:13"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא דכולי עלמא הכסף כסף ריבה ואפילו כסף שני ואי איתמר הכי איתמר כו', דבית שמאי סברי גזרינן שמא ישהה עליותיו וכו'.</b> תמהני מי דחקו לומר כך, לוקמה כאוקימתא קמייתא, דבדהבא פירא או טבעא פליגי בילדותיה וזקנותיה דרבי, ובפירות על דינרין נמי מחלוקת, ושאני פריטי דחריפי טפי. ומכאן נראה לי גם כן, דלכולי עלמא כילודתיה דרבי סבירא להו, ומשום הכי לא בעי לאוקומה בהכין אלא בגזרינן ולא גזרינן. ואין נראה כן מדברי הרי\"ף ז\"ל. ואי נמי איכא למימר, דלא בעא לאוקומה השתא כאוקימתא קמייתא, משום דקשיא ליה יעשה ולא יעשה, דהוה ליה למתני מחללין ולא מחללין, וכאסיק [ע\"ב] מחללין ולא מחללין מבעי ליה, וזה [בש\"מ – יותר] נכון.<br><b></b>ולענין פסק הלכה קיימא לן כזקנותיה דרבי וכסתמא דמתניתין. ואע\"ג דמתניתין דמעשר כילדותיה דרבי רהטא, <span class=\"parenthesized\">(ההיא נמי)</span> כיון דאפיך רבי מתניתין, ההיא נמי אפכינן, ואיהו נמי אפכא כי היכי דתיקום מתניתין כבית הלל, אלא דמשנה לא זזה ממקומה.<br><b></b>ופסקו ר\"ח והרי\"ף ז\"ל, דוקא לגבי כספא ונחשא הוא דהוי דהבא פירא, אבל לגבי פירא ומטלטלי דהבא טבעא הוי. והביא הרי\"ף ז\"ל ראיה ממתניתין דמעשר, דליכא מאן דאמר אין מחללין פירי אדינרין אלא ב\"ש ואליבא <span class=\"parenthesized\">(דר\"ח)</span> [דריש לקיש] בלבד, אבל אליבא דר' יוחנן אפילו ב\"ש מודו דמחללין, וקיימא לן כר' יוחנן, ומכאן ראיה דדהבא לגבי פירי טבעא הוי, דאינהו לאו לענין מעשר דוקא פליגי, אלא הוא הדין לענין מקח וממכר, וכמו שכתבתי למעלה <span class=\"parenthesized\">(מד, ב ד\"ה מחלוקת)</span>. אבל מה שכתב רבינו ז\"ל בהלכות, וכל שכן דבית שמאי במקום בית הלל אינה משנה, אינו מחוור, דהתם לאו בדהבא פירא לגבי פירי פליגי, אלא דבית הלל סברי טבעא הוי אפילו לגבי כספא כילדותיה דרבי, אבל לזקנותיה דרבי דילמא אף בית הלל הוו מודו דאפילו לגבי פירי ומטלטלי, כפירא משוינן ליה. ועוד, דלההוא לישנא ודאי דבית שמאי משנה, דסתמא דמתניתין כותיה וקיימא לן כסתם מתניתין דכזקנותו דרבי. וכן מה שכתב הוא ז\"ל ראיה מלישנא בתרא, דלכולי עלמא מוקמינן טעמייהו בגזרה שמא ישהא עליותיו, דאלמא כספא ודהבא תרוייהו טיבעא נינהו, וליכא חד מינייהו פירא לגבי חבריה וכל שכן לגבי פירי, אינו רואה מכאן ראיה כלל, חדא דמנא לן דלהאי לישנא סבירא להו לבית שמאי ולב\"ה כספא ודהבא טבעא הוו, דילמא טעמייהו משום דסבירא להו כילדותיה דרבי דדהביא טבעא וכספא פירא, ודוקא סעלין אדינרין אבל דינרין אסלעין לא וכדכתיבנא לעיל. ועוד דהא רבינו ז\"ל סבור ונראין דבריו דכמחלוקתן של בית שמאי ובית הלל לענין מעשר, כך מחלוקתן במקח וממכר, ואם כן היאך אפשר לומר דתרוייהו הוו טבעא, הא לא כילדותיה דרבי ולא כזקנותיה הוא. ואם דעת הרב ז\"ל לומר, דלהאי לישנא בתרא מחלוקתן לגבי מעשר דוקא, לומר דלענין מעשר דוקא הוו בין דהבא ובין כספא טבעא, הא לענין מקח וממכר דהבא פירא וכספא טבעא כזקנותיה, אם כן אין ראיה מכאן לפירי ומטלטלי דעלמא. וראיתי להרמב\"ן ז\"ל <span class=\"parenthesized\">(ד\"ה לא)</span> שטרח להעמיד ראיתו מכאן, וכתב דכונת הרב בזה לומר, דמכל מקום כיון דאיתרבי זהב אפילו לגבי כסף מכסף הכסף, שמעינן דטבעא הוא לגבי פירי ומטלטלי לענין כל מילי, דאי סלקא דעתך פירא הוא לכל מילי, היכי איתרבי מכסף הכסף, והא לא נקרא כסף כלל, ע\"כ. ואין לשון ההלכות מוכיח כן. ועוד דאכתי לאו ראיה היא, דמנא לן דמרבינן מיניה כסף מכסף הכסף, דלמא לא מרבינן מיניה אלא כסף שני, וכי מחללי בכספא אדהבא, משום דאית להו כילדותיה דרבי, אבל לעולם <span class=\"parenthesized\">(אבל)</span> [אי] סבירא להו כזקנותיה, לא הוה סבירא להו דנחיל סלעין אדינרין, אלא סלעין אסלעין, אי נמי, פריטי אסלעין משום כסף הכסף לרבות כסף שני. ועוד דואי ליכא מאן דאמר דלא להוי דהבא טביע [ו]חשיב קצת משום צורתיה, דאי לא, בכדי לא טרחי ביה ולא טבעי ליה, והילכך כסף מקרי משום דדמי למטבע דחשיב משום צורתיה, והיינו דקיימא לן דאין דינר זהב נעשה חליפין ואין נקנין בחליפין כדאיתא בסמוך <span class=\"parenthesized\">(ע\"ב)</span>, ומטבע נמי קרי ליה. וזה שלא כדברי רבינו האיי גאון ז\"ל, דאמר דפירי הוי לגמרי ונעשה חליפין ונקנה בחליפין, וליתא, כדאיתא בגמרא בהדיא, ומכל מקום כיון דיוקרא וזולא שייכי ביה תדיר, שויוה כפירא לגמרי.<br><b></b>וגם הרמב\"ן ז\"ל <span class=\"parenthesized\">(בד\"ה ובתוספתא)</span> מביא ראיה לדברי הרב ז\"ל מדתניא בתוספתא <span class=\"parenthesized\">(פ\"ג פ\"ז)</span>, כל שנקנה קונה. כלומר כל שהוא נקנה ואינו דמים, כגון המטלטלין שהן הנקנין, קונין במשיכתן את הדמים, ולא הדמים שהן הקונין, קונין אותן במשיכתן, וזהו כלל לכל מטבע שבעולם כנגד המטלטלין, בין של זהב בין של נחשת. ולולי שאין דעתי מכריע איני רואה מכאן ראיה, שהרי זה כמתניתין דקתני קונה את המטבע בלא חסר ובלא יתר. והא דגרסינן נמי בירושלמי [דפרקין ה\"א] כל הירוד מחברו קונה את חברו, אין מכאן ראיה, דאע\"ג דמטלטלין ופירות ירודין מן הזהב, אין מכאן ראיה, דההיא כילדותיה דרבי אתיא, כדאיתא התם בהדיא, אמר <span class=\"parenthesized\">(רב בר רב אשי)</span> [לפנינו: ר' חייה בר אשי] מאן תניתה ר' שמעון ברבי, כלומר, דסבירא ליה דכסף קונה את הזהב, ולההיא סברא ודאי דהבא טבעא גמור הוי ולא קני מידי, דכל שהוא ירוד כנחשת, קונה את שהוא למעלה ממנו כגון את הכסף, דבתר חשיבותא אזלינן לגמרי, אבל לזקנותיה דלא אזלינן בתר חשיבותא, מנא לן דדהבא טבעא אפילו לגבי פירי ומטלטלי. ואי אמרת מכל מקום דהבא לזקנותיה דרבי ככספא לילדותיה, וכי היכי דכספא לילדותיה הוי טבעא לגבי פירי ומטלטלי, דהבא נמי לזקנותיה טבעא הוי לפירי ומטלטלי. לא היא, דלא דמי דהבא לכספא, דכספא אפילו לילדותיה דרבי חריף הוא, <span class=\"parenthesized\">(וכן)</span> [ובו] קונין כל מילי, וכתיב נמי <span class=\"parenthesized\">(ויקרא כז)</span> ונתן הכסף וקם לו, אלא דלגבי דהבא בלחוד, משום דדהבא חשיב מיניה, שויוה רבנן כפירא להשוות מדותיהן, דירוד מחבירו קונה את חברו. אבל לזקנותיה דאזלינן בתר חריפות, כיון דדהבא לא חריף כשאר מטבעות, דלמא לא שויוה טבעא כלל לענין מקח וממכר. ותדע לך, דהא ללישנא קמא דמעשר, ב\"ש וב\"ה בזקנותיה וילדותיה דרבי פליגי, ב\"ש כזקנותיה וב\"ה כילדותיה, ואפילו הכי מחללין פירות אסלעין לכולי עלמא, ואע\"ג דר' יוחנן הוא דאמר מחללין פירות אדנרין, דגמרינן מכסף לב\"ה, מכל מקום שמעינן מינה דלא דמי דהבא לזקנותיה לכסף לילדותיה, דהתם ליכא מאן דפליג ביה וטבעא הוי לגבי פירי, והכא פליגי.<br><b></b>עוד הביא רבינו ז\"ל ראיה, מדתניא לקמן <span class=\"parenthesized\">(בבא מציעא מח, א)</span>, ר' שמעון אומר טלית קונה דינר זהב ואין דינר זהב קונה טלית. והר\"ז הלוי ז\"ל דחה דר' שמעון סבר לה כילדותיה דרבי, אלא שאין זה דחוי, דאי הכי אדמהדרינן בתר דיוקי לאשכוחי תנא דסבירא ליה כילדותיה דרבי, לימא ר' שמעון דאמר הכי מפורש. ועוד דהא לא פליגי רבנן עליה כלל, ולא הא מילתא אתא לאשמועינן כי היכי דנימא פלוגתייהו היא, אלא משום אבל אמרו נקט לה, ואיהו אמר מכל מקום כך הלכה, אלמא מילתא פשיטא היא וליכא מאן דפליג עלה. זה תירץ הרמב\"ן ז\"ל [בד\"ה ובתוספתא] ונכון הוא. ולפי דברי ר\"ח והרי\"ף ז\"ל, הא דאמר לעיל כיון דלגבי מקח וממכר שויוה רבנן כפירא, לאו כולה מקח וממכר קאמר, אלא לגבי דהבא ונחשא בלבד, ומשום דלגבי כלהו מטבעות שויוה כפירא וליכא חד מינייהו דקני ליה, סתם לישניה ואמר דלגבי מקח וממכר שויוה רבנן כפירא, ולגבי הלואה נמי חשבינן ליה כפירא מהאי טעמא, אע\"ג דכספא לילדותיה דרבי, ונחשא בין לילדותיה בין לזקנותיה, לא הוי כפירא לענין הלואה, וכמו שכתבתי למעלה <span class=\"parenthesized\">(מד, ב ד\"ה אלא אי אמרת פירא הוי)</span>.<br><b></b>כתב בעל העיטור, יש לבעל הדין לחלוק דכילדותיה דרבי מסתברא, וסתם מתניתין הכסף קונה את הזהב גרסינן, וכן כתוב במשניות מדוייקות שלנו, כך נראה לי. ולכאורה ודאי כך היה נראה, דהא רב אשי דהוא בתרא, אמר כילדותיה דרבי מסתברא, ואע\"ג דדחינן לה, דחויא הוא. ועוד דהא מתניתין דמעשר ללישנא קמא ב\"ה כילדותיה וב\"ש כזקנותיה, וב\"ש במקום ב\"ה אינה משנה. וללישני בתראי כלהו לכאורה כילדותיה דרבי רהטי, כדכתיבנא לעיל [בד\"ה דב\"ש]. וגרסינן נמי בירושלמי [דפרקין ה\"א] זהו כללו של דבר כל הירוד מחברו קונה את חברו <span class=\"parenthesized\">(רב אשי)</span> [ר' חייא בר אשי] מאן תנינא ר' שמעון ברבי תניתא. אמר ליה אבוי חזור בך ותני כהדא דתני ר' חייא הזהב קונה את הכסף, אמר ליה לית אנא חזר בי, דעד הילך כן אתני[ת] יתי הכסף קונה את הזהב. א\"ר אידי אבא אבוי דשמואל בעא קומי רבי דנרין בדנרין מאי, אמר ליה מותר ללוות דינרין בדינרין, אמר ר' יעקב בר אבא [לפנינו אחא] <span class=\"parenthesized\">(אמר)</span> [אוף] ר' יוחנן ור\"ל תרויהון אמרין מותר ללות דינרין בדינרין, קרט בקרט שרי לקן בלקן אסירי.",
+              "ref": "Rashba on Bava Metzia 45a:6",
+              "sourceHeRef": "רשב״א על בבא מציעא מ״ה א:ו",
+              "sourceRef": "Rashba on Bava Metzia 45a:6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> יש לחזור ממה שהסברנו ולומר <b>דכולי עלמא</b> <span class=\"hebrew-emphasis\">[לדעת הכל]</span> במה שנאמר <b>\"הכסף\" כסף ריבה</b> בתורה, ואפילו כסף שני. אלא <b>אי איתמר</b> <span class=\"hebrew-emphasis\">[אם נאמר]</span> שחלקו <b>ר' יוחנן ור' שמעון בן לקיש הכי איתמר</b> <span class=\"hebrew-emphasis\">[כך נאמר]:</span> <b>חד</b> <span class=\"hebrew-emphasis\">[אחד</span> מהם<span class=\"hebrew-emphasis\">]</span> <b>אמר:</b> <b>מחלוקת בסלעין</b> שמחליפים <b>על דינרין,</b> ש<b>בית שמאי סברי</b> <span class=\"hebrew-emphasis\">[סבורים]:</span> <b>גזרינן</b> <span class=\"hebrew-emphasis\">[גוזרים אנו]</span> לאסור,",
+              "ref": "Steinsaltz on Bava Metzia 45a:14",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא מ״ה א:יד",
+              "sourceRef": "Steinsaltz on Bava Metzia 45a:14"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> the Gemara abandons its previous explanation of the dispute and states <b>that everyone agrees</b> that since it is written: <b>“The money,”</b> and this second mention of <b>money</b> in that verse is superfluous, the term <b>“the money”</b> serves to <b>include even second money. Rather, if</b> the dispute <b>between <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-shimon-b-lakish\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-lakish\">Rabbi Shimon ben Lakish</span> was stated, it was stated like this: One said:</b> The <b>dispute</b> between <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> is <b>with regard to</b> the exchange of silver <b><i>sela</i> coins for</b> gold <b>dinars. As <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> hold: We issue a decree</b> rendering it prohibited to do so,",
+      "he": "אֶלָּא דְּכוּלֵּי עָלְמָא ״הַכֶּסֶף״ ״כֶּסֶף״ רִיבָּה, וַאֲפִילּוּ כֶּסֶף שֵׁנִי. אֶלָּא אִי אִיתְּמַר דְּרַבִּי יוֹחָנָן וְרַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, הָכִי אִיתְּמַר: חַד אָמַר מַחְלוֹקֶת בִּסְלָעִין עַל דִּינָרִין, דְּבֵית שַׁמַּאי סָבְרִי: גָּזְרִינַן",
+      "ref": "Bava Metzia 45a:14"
+    }
+  ],
+  "title": "Bava Metzia 45a",
+  "titleHebrew": "בבא מציעא מה,א",
+  "topics": []
+}

@@ -1,0 +1,887 @@
+{
+  "id": "50b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אווש עליה כולי עלמא</strong> - והוא לא פי' דבנים יורשין דקאמר כתובת בנין דיכרין היא וסבורים שסתם ירושה קאמר שאין הבנים יורשין מטלטלין:",
+              "ref": "Rashi on Ketubot 50b:1:1",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:א:א",
+              "sourceRef": "Rashi on Ketubot 50b:1:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>והא דאמרינן יתיב ר' יוסף קמיה דרב המנונא ויתיב וקאמר</b> ומשמע דרב המנונא גדול מרב יוסף קשיא להו לתוספ' דהא בפ\"ק דקדושין בעובדא דפומבדיתא דלא אתו לפירקא דרב חסדא משמע דרב המנונא שמע מרב חסדא שהוא חברו של ר' יוסף והיינו דאמר ליה רב יוסף מר דגברא רבה ולא ידע מה דקאמינא.",
+              "ref": "Ritva on Ketubot 50b:1",
+              "sourceHeRef": "ריטב\"א על כתובות נ׳ ב:א",
+              "sourceRef": "Ritva on Ketubot 50b:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>יתיב</b> <span class=\"hebrew-emphasis\">[ישב]</span> <b>רב יוסף קמיה</b> <span class=\"hebrew-emphasis\">[לפני]</span> <b>רב המנונא</b> בבית המדרש, <b>ויתיב</b> <span class=\"hebrew-emphasis\">[וישב]</span> <b>רב המנונא וקאמר</b> <span class=\"hebrew-emphasis\">[ואמר]</span> הלכה זו: <b>כשם שאין הבנים יורשין אלא מן הקרקע — כך אין בנות ניזונות אלא מן הקרקע.</b> כאשר רב המנונא אמר הלכה זו <b>אווש עליה כולי עלמא</b> <span class=\"hebrew-emphasis\">[רעש עליו כל העולם],</span> כלומר, כל השומעים התחילו בינם לבין עצמם להביע את תמיהתם: <b>דשביק ארעא</b> <span class=\"hebrew-emphasis\">[</span>מי <span class=\"hebrew-emphasis\">שמניח קרקע] —</span> <b>הוא דירתי ליה בניה</b> <span class=\"hebrew-emphasis\">[שיורשים אותו בניו],</span> ומי <b>דלא שביק ארעא</b> <span class=\"hebrew-emphasis\">[שאינו מניח קרקע] —</span> <b>לא ירתי ליה בניה</b> <span class=\"hebrew-emphasis\">[אין יורשים אותו בניו]?!</span> שהרי מדברי רב המנונא יוצא שהבנים יורשים רק קרקע ולא דבר אחר.",
+              "ref": "Steinsaltz on Ketubot 50b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:א",
+              "sourceRef": "Steinsaltz on Ketubot 50b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This story exemplifies some of the conventions in the academies in those days. The leading Sage would sit and expound before his audience. The prominent Sages in attendance would typically sit in the front row, with the other scholars seated behind them. If it was not a lecture open to the wider public, e.g., the public lectures on Festivals, the Sages sitting in front would ask questions and challenge the leading Sage, exchanges that were considered an integral part of the discourse.",
+              "he": "בתלמוד הירושלמי בסוגייתנו מובאת מחלוקת באותו ענין עצמו, ואף היא בין חכמי בבל, שמואל ורב הונא, אבל מתוך גישה שונה לחלוטין. כי שם מובאת סברתו של רב הונא שכשם שירושת הבנים היא בין בקרקעות בין במטלטלין — אף מזון הבנות הוא בין בקרקעות ובין במטלטלין. שנראה שרב הונא הבין תחילה כי \"הבנים יירשו\" במשנה מדבר בדין הירושה בכללו, ולא בתנאי כתובה. ויש שאומרים כי הסברה בהנחה זו היא שהחובה לזון את הבנות היא כעין פיצוי על כך שאין הן יורשות (ואכן אמרו כי בת יורשת אין לה בעצם זכות במזונות, ומטעם זה יפה כוח האלמנה הניזונת בתנאי כתובה מכוח הבת היורשת). ומשום כך יש לדון במזונותיהן כמו בירושת הבנים. ואף שגם רב הונא חזר בו מדבריו אלה, הרי הם מאירים את דברי רב המנונא כאן.",
+              "ref": "Steinsaltz comment #1 on Ketubot 50b:1",
+              "sourceHeRef": "יָתֵיב רַב יוֹסֵף קַמֵּיהּ דְּרַב הַמְנוּנָא וכו׳",
+              "sourceRef": "Rav Yosef sat before Rav Hamnuna, etc."
+            },
+            {
+              "en": "This Aramaic term is related to the Middle Persian",
+              "he": "בשטמ\"ק שואל: הלא גם בדין כתובת בנין דיכרין אין הדבר מפורש בכתובה שהוא דווקא מקרקעות, ומדוע היתה הלכה זו ברורה לרב המנונא יותר מדין מזונות הבנות? ומסביר, כי רש\"י רומז לפתרון בעיה זו, ומשום כך מאריך רש\"י בהסבר אותה הלכה, משום שיש משנה מפורשת שממנה עולה שאין כתובת בנין דיכרין נגבית אלא מקרקע. ועל סמך המשנה (שמניחים שהיא ידועה לכל) יכול היה להעמיד הלכה נוספת זו. ובהפלאה דן בבעיה דומה, שהרי לכאורה גם כתובת בנין דיכרין וגם מזונות הבנות הם מתנאי כתובה, וכשם שכתובה עצמה נגבית מקרקע בלבד — הרי ידוע לנו כי תנאי כתובה הם ככתובה. ולפי זה אין כל חידוש בדברים. ומסביר כי אף שקיים כלל זה, מכל מקום אנו מוצאים שאין כל תנאי כתובה דומים זה לזה, שכן מזונות האשה — שאף הם מתנאי כתובה נגבים גם ממטלטלין.",
+              "ref": "Steinsaltz comment #2 on Ketubot 50b:1",
+              "sourceHeRef": "אֲוַושׁ",
+              "sourceRef": "Clamored [<i>avash</i>]"
+            },
+            {
+              "en": "",
+              "he": "הרבה מפרשים תמהו על הנחה זו עצמה, שהרי אף השומעים יכלו להבין שאין רב המנונא מתכוון לומר שאין ירושה במטלטלין. ומסבירים בכמה צורות, ויש אומרים כי השומעים חשבו שרב המנונא רצה לפסוק הלכה שדין התורה, שהבנים הם היורשים ולא הבנות, אינו אלא בקרקע משום שהכתובים הקובעים דיני ירושה (במדבר כז, ו-יא) מדברים במפורש רק באחוזת נחלה, ושמא בירושת מטלטלין דין הבנות והבנים שווה (חת\"ס, רשב\"ץ).",
+              "ref": "Steinsaltz comment #3 on Ketubot 50b:1",
+              "sourceHeRef": "דשביק ארעא הוא דירתי וכו'",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "במעשה זה משתקפת דרך ההוראה בישיבות באותם הימים. החכם האומר את הדברים היה יושב ודורש בפני הקהל, וכרגיל ישבו בשורה הראשונה חכמים חשובים, ואחריהם שאר תלמידי החכמים. כאשר לא היתה זו דרשה פומבית (כגון \"שבתא דרגלא\") היו החכמים היושבים בראש מעירים הערות לחכם הדורש, והמשא והמתן ביניהם נעשה חלק מן הדרשה.",
+              "ref": "Steinsaltz comment #4 on Ketubot 50b:1",
+              "sourceHeRef": "יתיב רב יוסף קמיה וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יתיב רב יוסף קמיה דרב המנונא</strong> - משמע דרב יוסף היה קטן מרב המנונא ובפ\"ק דקידושין <span class=\"parenthesized\">(דף כה. ושם)</span> משמע דרב המנונא תלמידו של רב חסדא היה גבי סבי דנזייתא דלא אתו לפירקיה דרב חסדא אמר ליה לרב המנונא זיל צנעינהו ורב יוסף חבירו של רב חסדא היה אלא צ\"ל דתרי רב המנונא הוו:",
+              "ref": "Tosafot on Ketubot 50b:1:1",
+              "sourceHeRef": "תוספות על כתובות נ׳ ב:א:א",
+              "sourceRef": "Tosafot on Ketubot 50b:1:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates: <b><span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> sat before <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">Rav Hamnuna</span></b> in the study hall, <b>and <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">Rav Hamnuna</span> sat and said</b> the following <i>halakha</i>: <b>Just as sons inherit only from land, so too, daughters are sustained only from land.</b> When <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">Rav Hamnuna</span> taught this <i>halakha</i>, <b>everyone clamored [<i>avash</i>] against him,</b> i.e., all his listeners whispered their surprise to one another: Is it only one <b>who leaves</b> behind <b>land whose sons inherit</b> from <b>him,</b> whereas in the case of one <b>who does not leave land, his sons do not inherit</b> from <b>him?</b> <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">Rav Hamnuna</span>’s statement indicates that sons inherit only land and nothing else.",
+      "he": "יָתֵיב <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span> קַמֵּיהּ <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">דְּרַב הַמְנוּנָא</span> וְיָתֵיב <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">רַב הַמְנוּנָא</span>, וְקָאָמַר: כְּשֵׁם שֶׁאֵין הַבָּנִים יוֹרְשִׁין אֶלָּא מִן הַקַּרְקַע — כָּךְ אֵין הַבָּנוֹת נִיזּוֹנוֹת אֶלָּא מִן הַקַּרְקַע. אֲוַושׁ עֲלֵיהּ כּוּלֵּי עָלְמָא: דְּשָׁבֵיק אַרְעָא — הוּא דְּיָרְתִי לֵיהּ בְּנֵיהּ, דְּלָא שָׁבֵיק אַרְעָא — לָא יָרְתִי לֵיהּ בְּנֵיהּ?!",
+      "ref": "Ketubot 50b:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The <i>geonim</i> of all the <i>yeshivot</i> ordained that after the death of a man, a woman should be able to collect her [money due her by virtue of her] <i>ketubah</i> from movable property, just as they ordained that a creditor can collect the debt owed him from movable property. This mandate spread throughout the majority of the Jewish people.<br>Similarly, the other conditions of a woman's <i>ketubah</i> are governed by the same rules as [the fundamental requirement of] the <i>ketubah</i>, and they are binding on the movable property of the deceased's estate, as well as on the landed property. There is, however, one exception - the right of the sons to inherit their mother's <i>ketubah</i>. Since the custom of granting them this inheritance was not universally accepted by all the <i>yeshivot</i>, I maintain that the law of the Talmud should be applied in this instance, and they should inherit the money due their mother by virtue of her <i>ketubah</i> only from the landed property [within the estate].",
+              "he": "תִּקְּנוּ הַגְּאוֹנִים בְּכָל הַיְשִׁיבוֹת שֶׁתִּהְיֶה הָאִשָּׁה גּוֹבָה כְּתֻבָּתָהּ אַחֲרֵי מוֹת בַּעְלָהּ אַף מִן הַמִּטַּלְטְלִין כְּדֶרֶךְ שֶׁהִתְקִינוּ לְבַעַל חוֹב לִגְבּוֹת מִן הַמִּטַּלְטְלִין. וּפָשְׁטָה תַּקָּנָה זוֹ בְּרֹב יִשְׂרָאֵל. וְכֵן שְׁאָר תְּנָאֵי כְּתֻבָּה כֻּלָּן כִּכְתֻבָּה הֵן וְיֶשְׁנָן בְּמִטַּלְטְלִין כְּבַקַּרְקַע. חוּץ מִכְּתֻבַּת בְּנִין דִּכְרִין שֶׁלֹּא מָצָאנוּ מִנְהַג יְרֻשָּׁתָן פָּשׁוּט בְּכָל הַיְשִׁיבוֹת. לְפִיכָךְ אֲנִי אוֹמֵר מַעֲמִידִין אוֹתָהּ עַל דִּין הַגְּמָרָא שֶׁאֵין יוֹרְשִׁין כְּתֻבַּת אִמָּן אֶלָּא מִן הַקַּרְקַע:",
+              "ref": "Mishneh Torah, Marriage 16:7",
+              "sourceHeRef": "הלכות אישות טז:ז",
+              "sourceRef": "Marriage 16:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> בד\"ה דלמא כתובת בנין דיכרין כו'. דתנן ר\"ש אומר כו'. נ\"ב פי' ואף רבנן מודים ולא פליגי אלא במותר דינר עיין לקמן <span class=\"parenthesized\">(כתובות דף נ\"ג ע\"א)</span> בהגהתי:",
+                      "ref": "Chokhmat Shlomo on Ketubot 50b:3",
+                      "sourceHeRef": "חכמת שלמה על כתובות נ׳ ב:ג",
+                      "sourceRef": "Chokhmat Shlomo on Ketubot 50b:3"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>בא\"ד</b> להלכתא בנין כו'. נ\"ב ס\"א לכתובת:",
+                      "ref": "Chokhmat Shlomo on Ketubot 50b:4",
+                      "sourceHeRef": "חכמת שלמה על כתובות נ׳ ב:ד",
+                      "sourceRef": "Chokhmat Shlomo on Ketubot 50b:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דלמא כתובת בנין דיכרין קאמר מר</strong> - לפי ששתי תקנות הללו שתקנו חכמים בתנאי כתובה לומדות זו מזו ובכתובת בנין דכרין תנן בפרק מי שהיה נשוי <span class=\"parenthesized\">(לקמן כתובות דף צא.)</span> דאין נגבית מן המטלטלין דתנן ר' שמעון אומר אפי' יש שם נכסים שאין להם אחריות אינן כלום עד שיהא שם נכסים שיש להן אחריות מותר על שתי הכתובות דינר והתם מפרש להילכתא כתובת בנין דיכרין דתנן מי שהיה נשוי שתי נשים ומתו ואח\"כ מת הוא ויתומין של כל אחת מבקשין כתובת אמן כגון שכתובת האחת מרובה או אם שתיהן שוות פעמים שבני האחת רבים ובני האחת מועטין ואותן המועטין מבקשים כתובת אמן לחלקוה ביניהן ובני השניה יחלקו את כתובת אמן ביניהן ובאין עליהם מכח תנאי כתובת אמן שכתוב בה כתובת בנין דכרין דיהווין ליכי מינאי אינון ירתון כסף כתובתיך כו' אם יש מותר דינר על שתי הכתובות שתתקיים בו נחלה דאורייתא אלו נוטלין כתובת אמן ואלו נוטלין כתובת אמן ואם לאו חולקין בשוה למנין גולגלותם דבמקום דמיעקרא נחלה דאורייתא לא תקון רבנן:",
+              "ref": "Rashi on Ketubot 50b:2:1",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ב:א",
+              "sourceRef": "Rashi on Ketubot 50b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מר דגברא רבה הוא ידע</strong> - שאין ללמוד מזון בנות מירושת בנים אלא מירושת כתובת בנין דכרין שבאה מכח תנאי כתובה כמותה:",
+              "ref": "Rashi on Ketubot 50b:2:2",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ב:ב",
+              "sourceRef": "Rashi on Ketubot 50b:2:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "There are those who say that specifically regarding real estate, that when there is enough land to pay for two marriage contracts, then we carry out the contract of the male sons. But if there is no property other than movable property, we do not. However, even if there is no extra [on top of the marriage contract] other than movable property, that is good enough. There is someone who says that nowadays when we write in marriage contracts that movable property is given via transfer of real estate, the contract of the male sons can be collected from movable property, as a condition added on to the marriage contract is considered as the marriage contract itself.",
+              "he": "י\"א דוקא במקרקעי שיש שם קרקע כדי ב' הכתובות נהיגא כתובת בנין דכרין אבל אם אין שם אלא מטלטלי לא ומיהו אפילו אין המותר אלא מטלטלי שפיר דמי ויש מי שאומר דהאידנא דכתבינן בכתובות דילן מטלטלי אגב מקרקעי גם כתובות בנין דכרין נגבית ממטלטלים דתנאי כתובה ככתובה:",
+              "ref": "Shulchan Arukh, Even HaEzer 111:14",
+              "sourceHeRef": "אבן העזר קיא:יד - דין כתובת בנין דכרין",
+              "sourceRef": "Even HaEzer 111:14"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רב יוסף: ודלמא</b> <span class=\"hebrew-emphasis\">[ושמא]</span> בענין <b>כתובת בנין דכרין</b> <span class=\"hebrew-emphasis\">[בנים זכרים]</span> <b>קאמר מר</b> <span class=\"hebrew-emphasis\">[אמר אדוני],</span> שאחד מתנאי הכתובה הוא שהבנים הזכרים מאשה זו יורשים את סכום כתובתה יותר על חלקם בירושת האב עם שאר אחיהם, ובענין זה אמר רב המנונא ש\"כתובת בנים זכרים\" אינה אלא מן הקרקע?! <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רב המנונא: <b>מר, דגברא רבה</b> <span class=\"hebrew-emphasis\">[אדוני, שאדם גדול]</span> <b>הוא, ידע מאי קאמינא</b> <span class=\"hebrew-emphasis\">[יודע מה אמרתי],</span> כי אכן זו היתה כוונתו, ואחרים לא הבינו אותה.",
+              "ref": "Steinsaltz on Ketubot 50b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:ב",
+              "sourceRef": "Steinsaltz on Ketubot 50b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a woman predeceases her husband, her sons inherit the sum stipulated in her marriage contract in addition to their share of the father’s estate alongside any other brothers. However, they may inherit this additional sum only from land. The Rambam maintains that even after the <i>ge’onim</i> decreed that a woman may collect the payment of her marriage contract from movable property, an ordinance which applies equally to other stipulations of the marriage contract, the stipulation that sons inherit their mother’s marriage settlement remains an exception to this principle. Some authorities rule that nowadays even the sons may inherit the sum stipulated in their mother’s marriage contract from movable property, like the other stipulations of the marriage contract (Rivash). Others maintain that the institution of<i> </i>the marriage document concerning male children is not practiced at all nowadays (Rema; Rosh; <i>Maggid Mishne</i>, citing <i>ge’onim</i>). The reason for this is that it is customary to give a far larger dowry to daughters than was customary when the institution was originally established, and the whole point of this institution was to encourage fathers to give their daughters a generous dowry (Rambam <i>Sefer Nashim</i>,<i> Hilkhot Ishut </i>16:7; <i>Shulĥan Arukh</i>,<i> Even HaEzer </i>111:14, 16).",
+              "he": "אין כתובת בנין דיכרין נגבית אלא מן הקרקעות. ולדעת הרמב\"ם אף לאחר שתקנו הגאונים שכתובת אשה נגבית אף מן המטלטלין, וכן שאר תנאי כתובה הם ככתובה ונגבים מן המטלטלין, חוץ מכתובת בנין דכרין. ויש אומרים שבימינו אף כתובת \"בנין דיכרין\" הריהי כשאר תנאי כתובה ונגבית אף ממטלטלין. וכתב הרמ\"א (בסעיף טז) שיש אומרים (רא\"ש. וראה במ\"מ שמביא כן בשם מקצת גאונים) שבימינו אין כתובת בנין דיכרין נוהגת כלל, לפי שבימינו נוהגים לתת נדוניה לבנות הרבה יותר מן השיעור שקבעו חכמים מתחילה. (רמב\"ם ספר נשים הלכות אישות פט\"ז ה\"ז. שו\"ע אה\"ע קיא, יד).",
+              "ref": "Steinsaltz comment #1 on Ketubot 50b:2",
+              "sourceHeRef": "כְּתוּבַּת בְּנִין דִּכְרִין",
+              "sourceRef": "The marriage document concerning male children"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> said to</b> <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">Rav Hamnuna</span>: <b>Perhaps the Master was speaking</b> of the <b>marriage document</b> ensuring the inheritance rights of a woman’s <b>male children,</b> i.e., her sons’ right to inherit the sum stipulated in her marriage contract in addition to their share of the father’s estate alongside any other brothers. <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">Rav Hamnuna</span> <b>said to him: The Master, who is a great man, knows what I said,</b> i.e., that was indeed my intention, while the others failed to understand me properly.",
+      "he": "אֲמַר לֵיהּ <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>: וְדִלְמָא כְּתוּבַּת בְּנִין דִּכְרִין קָאָמַר מָר?! אֲמַר לֵיהּ: מָר, דְּגַבְרָא רַבָּא הוּא, יָדַע מַאי קָאָמֵינָא.",
+      "ref": "Ketubot 50b:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">עִילּוּיָא</strong>, <strong dir=\"rtl\">עִלּ׳</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, עִילּוּי 1\" href=\"/Jastrow,_עִילּוּי.1\">same</span> <br><b>1)</b> <i>rise, improved stage</i>. <span class=\"refLink\" data-ref=\"Berakhot 36a:7\" href=\"/Berakhot.36a.7\">Berakhot 36ᵃ</span> <span dir=\"rtl\">אית ליה ע׳ אחרינא בפת</span> (flour) is capable of a still higher stage by being made into bread; <span dir=\"rtl\">לית ליה ע׳ אחרינא</span> (oil) has no higher stage. Ib. 35ᵇ <span dir=\"rtl\">דאשתני לע׳</span> (wine) which has changed (from grapes) to a higher stage. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Avodah Zarah 5:4:4\" href=\"Jerusalem_Talmud_Avodah_Zarah.5.4.4\">Yerushalmi Pirkei Avot Zar. V, 44ᵈ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יַקִּיר 1\" dir=\"rtl\" href=\"/Jastrow,_יַקִּיר.1\">יַקִּיר</span> Chaldaic <br><b><br>—2)</b> <i>valuation</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Job 28:13\" href=\"/Aramaic_Targum_to_Job.28.13\">Targum Job XXVIII, 13</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Leviticus 27:2\" href=\"/Targum_Jonathan_on_Leviticus.27.2\">Targum Yonatan Vayikra XXVII, 2</span> (ed. Vienna <span dir=\"rtl\">עִילוֹי</span>); <span class=\"refLink\" data-ref=\"Targum Jonathan on Leviticus 27:3\" href=\"/Targum_Jonathan_on_Leviticus.27.3\">ib. 3</span> (ed. Vienna <span dir=\"rtl\">עֲלוֹיֵיה</span>; <span class=\"refLink\" data-ref=\"Targum Jonathan on Leviticus 27:4\" href=\"/Targum_Jonathan_on_Leviticus.27.4\">ib. 4</span>, sq. <span dir=\"rtl\">עֲלוֹיָהּ</span>, <span dir=\"rtl\">עִילוֹיָהּ</span>, correct accordingly).—<span class=\"refLink\" data-ref=\"Bava Batra 12b:12\" href=\"/Bava_Batra.12b.12\">Bava Batra 12ᵇ</span> <span dir=\"rtl\">מעלינן ליה ע׳ וכ׳</span> (Manuscript Munich <span dir=\"rtl\">מעלינן עליה וכ׳</span>) we value it as high as &c. <span class=\"refLink\" data-ref=\"Kiddushin 42b:5\" href=\"/Kiddushin.42b.5\">Kiddushin 42ᵇ</span> <span dir=\"rtl\">פלוג בע׳</span> they divided the estate according to value, opposed <span dir=\"rtl\">במשחתא</span> by measure (irrespective of value). <br><b><br>—3)</b> <i>the best thing</i>. <span class=\"refLink\" data-ref=\"Ketubot 50b:3\" href=\"/Ketubot.50b.3\">Ketubot 50ᵇ</span> <span dir=\"rtl\">עילוייא דאב</span>, see <span class=\"refLink\" data-ref=\"Jastrow, עֲלִיָּה 1\" dir=\"rtl\" href=\"/Jastrow,_עֲלִיָּה.1\">עְלִיָּה</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, עִילּוּיָא 1",
+              "sourceHeRef": "מילון יסטרוב, עִילּוּיָא א׳",
+              "sourceRef": "Jastrow, עִילּוּיָא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">פַּרְנָסָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, פַּרְנָסָא II 1\" href=\"/Jastrow,_פַּרְנָסָא II.1\">preceding</span> wds.) <i>provision, maintenance, outfit</i>. <span class=\"refLink\" data-ref=\"Mishnah Peah 8:7\" href=\"/Mishnah_Peah.8.7\">Peah VIII, 7</span> <span dir=\"rtl\">פַּרְנָסַת לינה</span> the necessary arrangement for a night’s lodging (for the poor), explained <span class=\"refLink\" data-ref=\"Shabbat 118a\" href=\"/Shabbat.118a\">Shabbat 118ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, פּוּרְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_פּוּרְיָא.1\">פּוּרְיָא</span> II Chaldaic; <span class=\"refLink\" data-ref=\"Bava Batra 9a\" href=\"/Bava_Batra.9a\">Bava Batra 9ᵃ</span>; <span class=\"refLink\" data-ref=\"Tosefta Peah 4:8\" href=\"/Tosefta_Peah.4.8\">Tosefta Peah IV, 8</span>. <span class=\"refLink\" data-ref=\"Ketubot 50b:3\" href=\"/Ketubot.50b.3\">Ketubot 50ᵇ</span> (reference. to <span class=\"refLink\" data-ref=\"Jastrow, זַן 1\" dir=\"rtl\" href=\"/Jastrow,_זַן.1\">זן</span> ib.) <span dir=\"rtl\">פ׳ הויא וכ׳</span> does this mean (bridal) outfit … or sustenance proper? <span class=\"refLink\" data-ref=\"Ketubot 50b:6\" href=\"/Ketubot.50b.6\">Ib.</span> <span dir=\"rtl\">התם לפ׳ הואי</span> there it was about the outfit. <span class=\"refLink\" data-ref=\"Ketubot 68a\" href=\"/Ketubot.68a\">Ib. 68ᵃ</span>, and e. <span dir=\"rtl\">לפ׳ שמון באב</span> as to the amount for which the heirs are to be assessed for a daughter’s outfit, we are guided by the disposition of her deceased father. <span class=\"refLink\" data-ref=\"Ketubot 68a:9\" href=\"/Ketubot.68a.9\">Ib.</span> (reference. to <span dir=\"rtl\">מתפרנסות</span>, ib.) <span dir=\"rtl\">מאי לאו פרנסת הבעל</span> does it not mean the outfit for the husband (dower)? <span dir=\"rtl\">לא בפרנסת עצמה</span> no, it refers to her own support. <span class=\"refLink\" data-ref=\"Ketubot 68b:3\" href=\"/Ketubot.68b.3\">Ib.ᵇ</span> <span dir=\"rtl\">איבדו מזונותיהן ולא איבדו פַרְנָסָתָן</span> they have lost their claim on alimentation (from the estate), but not their claim on an outfit. <span class=\"refLink\" data-ref=\"Berakhot 3b:29\" href=\"/Berakhot.3b.29\">Berakhot 3ᵇ</span> עמך ישראל צריכין פ׳ Israel, thy people, need a living. <span class=\"refLink\" data-ref=\"Taanit 9a:13\" href=\"/Taanit.9a.13\">Taanit 9ᵃ</span> <span dir=\"rtl\">מטר … פ׳ בשביל רבים</span> rain is granted for the sake of an individual, support (prosperity) for the sake of the many (in public prayers). <span class=\"refLink\" data-ref=\"Bereishit Rabbah 20:9\" href=\"/Bereishit_Rabbah.20.9\">Breishit Rabbah section (Parashah) 20</span>; <span class=\"refLink\" data-ref=\"Midrash Tehillim 106\" href=\"/Midrash_Tehillim.106\">Midrash Till. to Psalms CVI</span>, beginning, see <span class=\"refLink\" data-ref=\"Jastrow, פֶּלֶא 1\" dir=\"rtl\" href=\"/Jastrow,_פֶּלֶא.1\">פֶּלֶא</span>. <span class=\"refLink\" data-ref=\"Taanit 19b:11\" href=\"/Taanit.19b.11\">Taanit 19ᵇ</span> <span dir=\"rtl\">עבד שנתן לו רבו פַּרְנָסָתוֹ באחד וכ׳</span> a slave to whom his master gives his fare (for the week) on the first day of the week; and see from"
+              ],
+              "he": [],
+              "ref": "Jastrow, פַּרְנָסָה 1",
+              "sourceHeRef": "מילון יסטרוב, פַּרְנָסָה א׳",
+              "sourceRef": "Jastrow, פַּרְנָסָה 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב זן מחיטי דעלייה</strong> - יתומות באו לפניו ותובעות מזונות מחיטי דאביהן שלא היו שם קרקעות אלא מטלטלין ונתן להם:",
+              "ref": "Rashi on Ketubot 50b:3:1",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ג:א",
+              "sourceRef": "Rashi on Ketubot 50b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פרנסה הואי</strong> - לא מזונות היו אלא פרנסת נדוניא לינשא וההיא גביא ממטלטלי:",
+              "ref": "Rashi on Ketubot 50b:3:2",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ג:ב",
+              "sourceRef": "Rashi on Ketubot 50b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מעילוייא דאב</strong> - לפי אומד עילוי דעת וותרנותו:",
+              "ref": "Rashi on Ketubot 50b:3:3",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ג:ג",
+              "sourceRef": "Rashi on Ketubot 50b:3:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכדשמואל דאמר לפרנסה שמין באב</strong> - אומדין לפי וותרנותו של אב או לפי קמצנותו אם היה קיים כך וכך היה נותן להם מנכסים הללו וכיון דאומד דעתו שיימינן מקרקעי ומטלטלי שוים בכך:",
+              "ref": "Rashi on Ketubot 50b:3:4",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ג:ד",
+              "sourceRef": "Rashi on Ketubot 50b:3:4"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>לפרנסה שמין באב</b> פי' רש\"י ז\"ל ואפילו להוסיף על עישור נכסים ומשמע דלהכי קרי ליה עלייה דאב ואפילו תימא אפילו מן המטלטלין קרי ליה עליהו מ\"מ שמעי' מיניה כי היכי דמעלינן לה דהא משום אומדנא דאב ה\"ה להוסיף על עישור נכסים אינו אלא בקרקעות כך פי' בתוס' וכן עיקר ודלא כדברי רבינו חננאל שכתב שאין מוסיפין על עישור נכסים משום אומדנא דאב:",
+              "ref": "Ritva on Ketubot 50b:2",
+              "sourceHeRef": "ריטב\"א על כתובות נ׳ ב:ב",
+              "sourceRef": "Ritva on Ketubot 50b:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר שמואל לפרנסה שמין באב אומדין אילו האב היה קיים כמה היה נותן לבתו לפרנסת הבעל ונותנין לה ואותבינן עלה דשמואל ממתני' דקתני פעמים שאדם עשיר והעני או עני והעשיר אלא שמין הנכסים ונותנין לה. מאי עני והעשיר אילימא עני עני בנכסים עשיר עשיר בנכסים מכלל דת\"ק סבר אפילו עשיר והעני כדמעיקרא יהבינן לה הא לית ליה אלא לאו עני עני בדעת עשיר עשיר בדעת וקתני שמין את הנכסים ונותנין לה אלמא לא אזלינן בתר אומדנא ופרקינן הוא דאמר כרבי יהודה דתנן רבי יהודה אומר אם השיא בת ראשונה ינתן לשניה כדרך שנתן לראשונה ולימא הלכה כרבי יהודה אי אמר הלכה כר' יהודה הוה אמינא דוקא השיא דגלי דעתיה אבל לא השיא לא קמ\"ל דטעמיה דרבי יהודה דאזלינן בתר אומדנא לא שנא השיא ול\"ש לא השיא והא דקתני השיא להודיעך כחן דרבנן דאע\"ג דהשיא דגלי דעתיה לא אזלינן בתר אומדנא. א\"ל רבא לרב חסדא דרשינן משמך הלכה כרבי יהודה א\"ל יהא רעוא דכל כי הני מילי מעלייתא תדרשון משמי ומי אמר רבא הכי והתניא רבי אומר בת הניזונת מן האחין נוטלת עישור נכסים ואמר רבא הלכתא כרבי לא קשיא הא דאמידניה הא דלא אמידניה וה\"נ מסתברא דא\"ר אדא בר אהבה מעשה ונתן לה רבי אחד משנים עשר בנכסים ש\"מ הא דאמידניה הא דלא אמידניה ש\"מ. וחזינן לגאון דכתב הא דאזלינן בתר אומדן דעתיה דאב לגרועי מעישור הוא אבל לאוסופי על העישור לא דלא אשכחן בהדיא מאן דמוסיף על העישור ובפ' נערה שנתפתתה <span class=\"parenthesized\">(כתובות דף נב:)</span> אמרי' א\"ר יוחנן משום רבי שמעון בן יוחאי מפני מה תקנו כתובת בנין דיכרין כדי שיקפוץ אדם ויתן לבתו כבנו וכמה אביי ורבא דאמרי תרוייהו עד עישור נכסים הלכך לית לן לאפוקי מנכסי יתום טפי מעישור נכסים. וגאון אחר אמר דר' יהודה דאמר אם השיא בת ראשונה ינתן לשניה כדרך שנתן לראשונה דאזלינן בתר אומדן דעתיה דאב סתמא קאמר לא שנא לפחות מן העישור ולא שנא להוסיף על העישור וכיון דאיפסיקא הלכה כרבי יהודה כוותיה עבדינן והיכא דידעינן מה אומדן דעתיה דאב יהבינן לה כמה דאמיד בין לפחות מעישור בין להוסיף על העישור ואי לא ידעינן אומדן דעתיה יהבינן לה עישור נכסים ויש מביאין ראיה לסברא קמייתא מהא דאמרי' לקמן בשמעתין פרנסה טרפא ממשעבדי ותנאי כתובה לא טרפא ממשעבדי משום דפרנסה אית לה קצבה ומזונות אין להם קצבה ואם איתא דלהוסיף נמי שמין באב <span class=\"parenthesized\">(כו')</span> פרנסה נמי אין לה קצבה אלא וודאי להוסיף אין שמין אלא לפחות ויכולין לקוחות ליזהר שיניחו מבני חרי עישור נכסים ומיהו אינה ראיה כ\"כ דתיקשי לך מהאי טעמא נמי יוציאו למזונות ממשעבדי דהא יש להן קצבה למעלה טפי מכדי עד דתיבגרן וא\"ת אין קצבה למזונות שמא תלקה ותהא צריכה רפואה ואמרינן לעיל <span class=\"parenthesized\">(כתובות דף נב:)</span> דרפואה שאין לה קצבה בכלל מזונות דא\"כ אמאי חשיב ליה קצבה לקמן בפרק הנושא <span class=\"parenthesized\">(כתובות דף קא.)</span> כשפסק לזונה חמש שנים דקתני ניזונת מנכסים משועבדים אלא ודאי היינו טעמא דאע\"פ שהם קצובין למעלה עד בגר כיון דאפשר שלא יעלו כל כך המזונות שתנשא קודם בגר לא חשיבי כקצובין כי הלקוחות לא נזהרו להניח בני חרי עד בגר כי אמרו שמא תנשא קודם אבל פרנסה יש לה קצבה אי לא אמידניה עישור נכסי ואי אמידניה יכולין הלקוחות לברר הדבר ע\"י ב\"ד דעתו של אב בין למעלה בין למטה ונ\"ל דמזונות אין להם קצבה בשביל רפואה ולא תיקשי מההיא דהנושא שפסק לזונה חמש שנים דהא דאמרי' דרפואה שאין לה קצבה בכלל מזונות היינו בבתו דניזונת בתנאי כתובה מידי דהוה אאשה אבל אם אדם קבל עליו לזון איש נכרי לא מסתבר כלל שיתחייב ברפואתו ואם תקשי לך ממתני' דקאמרו חכמים פעמים שאדם עני בדעת ולא יהיב עישור נכסי והעשיר בדעת ויהיב טפי מעישור נכסי או שהיה עשיר והעני לא יהיב כולי האי אלא שמין את הנכסים ונותנין עישור נכסי וקאמר ר' יהודה ינתן לשניה כדרך שנתן לראשונה ואפי' טפי מעישור נכסי וי\"ל דודאי לא קאמר ר' יהודה ינתן לשניה כדרך שנתן לראשונה אפי' טפי מעישור נכסי אלא כשנתן לה עישור נכסי או פחות וקאמרי רבנן פעמים שאדם עני בדעת כשהשיא את הראשונה ולא נתן לה עישור נכסי והעשיר בדעת ועכשיו היה נותן לה עישור נכסי ופעמים שאדם עשיר בדעת כשהשיא את הראשונה ונתן לה עישור נכסי והעני בדעת שעכשיו היה נותן לה פחות לא נוכל לאמוד דעתו הלכך לעולם יתנו עישור נכסי ורבי יהודה סבר דשמין באב לפחות. ואם תקשי לך הא דאמרינן לעיל <span class=\"parenthesized\">(כתובות דף נ:)</span> רב זן מחיטי דעלייה איבעיא להו לפרנתה הויא ומאי עלייה מעילויא דאב וכדשמואל דאמר שמואל לפרנסה שמין באב אלמא משמע דשמואל לעילויא אמרה וי\"ל דה\"ק עלייה מעילויא דאב כלומר מה שזן אותה מחיטי היינו מעילויא דאב וכדשמואל ושמואל תרתי אמר ששמין באב לעילויא לגבות מטלטלי אם השיא ראשונה ונתן לה מטלטלי ולהורע כחה לענין שומא ושמין לפחות ולא להותיר ודעת התוס' נוטה לסברא זו וכיון דאיכא פלוגתא <span class=\"parenthesized\">(דמתני')</span> דרבוותא לא מפקינן מיתמי טפי מעישור נכסי: גופא בת הניזונית מן האחין נוטלת עישור נכסים אמרו לו לדבריך מי שיש לו עשר בנות ובן אין לו לבן במקום בנות כלום אמר להם כך אני אומר ראשונה נוטלת עישור נכסים שניה במה ששיירה שלישית במה ששיירה וחוזרות וחולקות בשוה אמאי כל חדא וחדא דנפשה שקלה הכי קאמר אם באו לינשא כאחת חולקות בשוה וכן הלכה:",
+              "ref": "Rosh on Ketubot 6:12:2",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות ו:יב:ב",
+              "sourceRef": "Rosh on Ketubot 6:12:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ר' חייא בר יוסף: רב</b> היה <b>זן</b> יתומות <b>מחיטי</b> <span class=\"hebrew-emphasis\">[מחיטים]</span> שב<b>עלייה,</b> כשלא היו לאב קרקעות. <b>איבעיא להו</b> <span class=\"hebrew-emphasis\">[נשאלה להם</span> ללומדים<span class=\"hebrew-emphasis\">]:</span> האם דבר זה שפסק רב לתת <b>פרנסה הויא</b> <span class=\"hebrew-emphasis\">[היתה],</span> כלומר, פרנסה של נדוניה, <b>ו</b>לפי זה יש לפרש <b>מאי</b> <span class=\"hebrew-emphasis\">[מה</span> פירוש<span class=\"hebrew-emphasis\">]</span> שזן מחיטים שב<b>עלייה</b> — <b>מעילוייא</b> <span class=\"hebrew-emphasis\">[</span>לפי <span class=\"hebrew-emphasis\">מעלת]</span> ה<b>אב, וכ</b>דברי <b>שמואל.</b> ש<b>אמר שמואל: לפרנסה,</b> כלומר, לענין נדוניה <b>שמין באב,</b> שמעריכים לפי מעלתו, אופיו, וכוחו הכלכלי של האב ולפי זה נותנים לבנות מנכסיו לאחר מותו.",
+              "ref": "Steinsaltz on Ketubot 50b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:ג",
+              "sourceRef": "Steinsaltz on Ketubot 50b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "In the case of one who died and left a daughter, the court estimates how much he would have been willing to give her for her dowry, and she takes that sum from his estate. How do they determine his mind-set? They interview his companions and close friends, and examine his manner of conducting business and his social status. If he had married off a different daughter in his lifetime, they give the remaining daughter the same amount he gave his other daughter, as stated by Shmuel (Rambam <i>Sefer Nashim</i>,<i> Hilkhot Ishut </i>20:3; <i>Shulĥan Arukh</i>,<i> Even HaEzer </i>113:1).",
+              "he": "לכאורה תמוה מפני מה הוצרכו לפרש \"עלייה\" כאן כלשון רמז, ולא אמרו בפשטות כמשמעות המלה שזן מחיטים שהיו מונחות בעלייה. אבל נראה כי בבבל לא היו רגילים בבניית עליות, ואם בנו עלייה השתמשו בה לדיור ולא כמחסן (כדרך שהיו עושים לעתים בארץ־ישראל, כאשר הבתים היו בנויים באבן, והיו העליות מצויות יותר). ומשום כך הפירוש הפשוט של \"חיטי דעלייה\" לא היה כמשמעו.",
+              "ref": "Steinsaltz comment #1 on Ketubot 50b:3",
+              "sourceHeRef": "לְפַרְנָסָה שָׁמִין בְּאָב",
+              "sourceRef": "With regard to the daughters’ livelihood the court assesses in accordance with the temperament of the father"
+            },
+            {
+              "en": "Rabbeinu Ĥananel, cited by <i>Tosafot</i>, explains that the maximum amount that would be given to the daughter as a dowry was one-tenth of the estate, and the assessment was conducted in order to determine whether she should receive less than that amount. The ruling authorities discuss whether <i>Tosafot</i> accept this opinion, or whether they agree with Rashi, who maintains that one-tenth of the estate was an average amount, and the court would assess whether the father was likely to have given more. Some commentaries contend that a daughter’s dowry is basically collected from land alone, and it was collected from movable property only if the court had undertaken to oversee the orphans’ assets (see Meiri).",
+              "he": "ראה בתוס' (ד\"ה ומאי) וכמה מן הראשונים שמביאים את שיטת הר\"ח שעילויו של האב יש לו גבול, שתקנת פרנסה היתה לתת עשירית מן הנכסים או פחות. ואין השומה אלא להעריך כמה היה האב רוצה לפחות משיעור זה. והפוסקים דנים בשאלה האם דברי התוספות נוטים לשיטה זו או שמא הם מצדדים בדעת רש\"י האומר שעישור נכסים הוא מידה בינונית, וייתכן שיוסיף אדם הרבה על שיעור זה. וכמבואר בתוס' המחלוקת העניינית היא: האם יש לראות במתן פרנסה כעין שינוי או צמצום של דין הירושה שמן התורה. ויש סבורים כי לפרנסה גובים בעיקרו של דבר מן הקרקעות בלבד, ולא אמרו שגובים מן המטלטלים אלא כאשר בית הדין הוא הנזקק להזדקק לפרנסת היתומים בכללה. ויש בכך כמה דעות חלוקות (וראה במאירי).",
+              "ref": "Steinsaltz comment #2 on Ketubot 50b:3",
+              "sourceHeRef": "מֵעִילּוּיָיא דְּאָב",
+              "sourceRef": "The status of the father"
+            },
+            {
+              "en": "",
+              "he": "מי שמת והניח בת — אומדין דעתו כמה היה ברצונו לתת לה לשם נדוניה — ונותנים לה. וכיצד יודעים דבר זה — מדברי ריעיו ומיודעיו ודרך משאו ומתנו וכבודו, ואם השיא בת בחייו — אומדין לפיה. כדברי שמואל. (רמב\"ם ספר נשים הלכות אישות פ\"כ ה\"ג. שו\"ע אה\"ע קיג, א).",
+              "ref": "Steinsaltz comment #3 on Ketubot 50b:3",
+              "sourceHeRef": "לפרנסה שמין באב",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומאי עלייה מעילוייא דאב</strong> - לקמן בפרק מציאת האשה <span class=\"parenthesized\">(כתובות דף סח.)</span> פר\"ח דהא דאמר שמואל שמין באב לא ליפות כח הבת ליתן לה יותר מעשור נכסים אם האב היה וותרן אלא לגרוע כחה וליתן לה פחות מעשור נכסים אם אנו יודעין שהוא עצרן דלא מצינו שומא לעלוייא אלא לגריעותא כדאמרי' בפ' מציאת האשה <span class=\"parenthesized\">(ג\"ז שם)</span> מעשה ונתן לה רבי עד שנים עשר בנכסים ולקמן <span class=\"parenthesized\">(כתובות דף נב:)</span> נמי משמע דדוקא עד עישור נכסים שרו רבנן אבל טפי איכא עבורי אחסנתא דפריך מי איכא מידי דרחמנא אמר ברא לירות ברתא לא תירות ומתקני רבנן כו' ומסיק עד כמה משמע עד כמה שרו רבנן אע\"ג דדמי לעבורי אחסנתא עד עישור נכסים ומיהו הכא משמע עלוייא דאב דשמואל לעלוייא קאמר ויש לומר דלענין מטלטלי דוקא הוי לעלוייא דכיון דשמין בדעת האב גביא נמי ממטלטלי אבל לענין כמה בדעת האב ליתן הוי לגריעותא שלא להוסיף על עישור אלא לפחות וא\"ת דבפרק מציאת האשה <span class=\"parenthesized\">(ג\"ז שם)</span> תנן רבי יהודה אומר אם השיא בת הראשונה ינתן לשניה כדרך שנתן לראשונה משמע אפילו נתן לראשונה יותר מעישור נכסים מדקא מהדרי ליה רבנן פעמים שאדם עשיר והעני פירוש עשיר בדעת והעני בדעת ולא יתן לזאת כמו שנתן לראשונה אלא שמין את הנכסים ועישור נכסים יתנו ולא יותר ושמואל דאמר שמין באב כר\"י סבירא ליה ואור\"י דלעולם לא קאמר רבי יהודה ינתן לשניה כדרך שנתן לראשונה אלא דווקא כשנתן לראשונה עישור נכסים או פחות ורבנן מהדרו ליה דאין ללכת אחר דעתו הראשונה כיון שדעת האדם משתנה הילכך לעולם יתנו עישור נכסים ויש להביא ראיה דרבי אית ליה בהדיא כר\"י בפרק מציאת האשה <span class=\"parenthesized\">(שם)</span> וקאמר רבי בההיא שמעתתא דפרנסה טרפא ממשעבדי ולא מזונות לפי שמזונות אינן קצובים כדאמרינן בהניזקין <span class=\"parenthesized\">(גיטין דף נא. ושם)</span> ופרנסה מיקץ קייצא כדאמר התם ואם איתא דלהוסיף על עישור נכסים נמי שמין באב אם כן פרנסה נמי אינה קצובה אבל אם אין שמין אלא לפחות מעישור נכסים ניחא אע\"פ שאין לה קצבה למטה כיון דלמעלה מיהא יש לה קצבה יכולין הלקוחות ליזהר ולהניח מבני חרי כדי עישור נכסים ומיהו אין ראיה דאם כן מהאי טעמא נמי יש קצבה למזונות כששיעבדו האחים דהא יש קצבה למעלה עד בגר ואין לומר דהתם איכא למימר שמא תלקה ותצטרך רפואה ואמרינן בפרקין דרפואה שאין לה קצבה היא בכלל מזונות דהא חשיב בהניזקין <span class=\"parenthesized\">(ג\"ז שם)</span> פסק לזון ה' שנים בת אשתו יש לה קצבה דקתני והיא ניזונת מנכסים משועבדים אלא ודאי אע\"פ שקצובים למעלה עד בגר כיון שאין קצובין למטה דאפשר שתנשא קודם לא חשיבי קצובין אבל פרנסה יש לה קצבה שאפשר ללקוחות לברר הדברים ע\"י ב\"ד ולשום דעתו של אב בין למעלה בין למטה:",
+              "ref": "Tosafot on Ketubot 50b:3:1",
+              "sourceHeRef": "תוספות על כתובות נ׳ ב:ג:א",
+              "sourceRef": "Tosafot on Ketubot 50b:3:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-hiyya-b-yosef\" class=\"namedEntityLink\" data-slug=\"rav-hiyya-b-yosef\">Rabbi Ḥiyya bar Yosef</span> said: <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span></b> would <b>sustain</b> orphan girls <b>with wheat according to the <i>aliyya</i></b> if their fathers did not leave land for them. <b>A dilemma was raised before</b> the scholars: <b>Was</b> this sustenance that <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> provided in the form of <b>livelihood,</b> i.e., a dowry so that they could marry, <b>and what is</b> the meaning of the term <b><i>aliyya</i>?</b> It means: In keeping with <b>the status [<i>illuyya</i>] of the father, and</b> this is <b>in accordance with</b> the opinion <b>of <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span>. As <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> said: With regard to</b> the daughters’ <b>livelihood,</b> i.e., their dowry, the court <b>assesses</b> the amount they receive from their father’s estate after his death <b>in accordance with</b> the temperament and social and financial status of <b>the father.</b>",
+      "he": "אָמַר <span href=\"/topics/rav-hiyya-b-yosef\" class=\"namedEntityLink\" data-slug=\"rav-hiyya-b-yosef\">רַבִּי חִיָּיא בַּר יוֹסֵף</span>: רַב זָן מֵחִיטֵּי דַעֲלִיָּיה. אִיבַּעְיָא לְהוּ: פַּרְנָסָה הֲוַיא, וּמַאי עֲלִיָּיה — מֵעִילּוּיָיא דְאָב, וּכְדִשְׁמוּאֵל. דְּאָמַר שְׁמוּאֵל: לְפַרְנָסָה, שָׁמִין בָּאָב.",
+      "ref": "Ketubot 50b:3"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">עֲלִיָּה</strong>, <strong dir=\"rtl\">עֲלִיָּיה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, עָלָה 1\" dir=\"rtl\" href=\"/Jastrow,_עָלָה.1\">עָלָה</span>) <br><b>1)</b> (Biblical Hebrew) <i>upper chamber, upper story</i>. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 10:1\" href=\"/Mishnah_Bava_Metzia.10.1\">Bava Metzia X, 1</span> <span dir=\"rtl\">הבית והע׳ של שנים</span> the house (lower compartment) and the upper story belonging severally to two persons. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 10:2\" href=\"/Mishnah_Bava_Metzia.10.2\">Ib. 2</span> <span dir=\"rtl\">הבית והע׳ נפחתה הע׳</span> (not <span dir=\"rtl\">של שנים</span>) if there is a lower story (in which the owner lives) and an upper story (inhabited by a tenant), and the upper story is out of repair. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 10:3\" href=\"/Mishnah_Bava_Metzia.10.3\">Ib. 3</span>. <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 3:7\" href=\"/Mishnah_Bava_Batra.3.7\">Bava Batra III, 7</span>. <span class=\"refLink\" data-ref=\"Mishnah Nedarim 7:4\" href=\"/Mishnah_Nedarim.7.4\">Nedarim VII, 4</span> <span dir=\"rtl\">הנודר מן הבית מותר בע׳</span> he who vows abstinence from ‘house’, is permitted to use an upper story (see <span class=\"refLink\" data-ref=\"Jastrow, עִירוֹנִי 1\" dir=\"rtl\" href=\"/Jastrow,_עִירוֹנִי.1\">עִירוֹנִי</span>). <span class=\"refLink\" data-ref=\"Mishnah Shabbat 1:4\" href=\"/Mishnah_Shabbat.1.4\">Shabbat I, 4</span> <span dir=\"rtl\">בעֲלִיַּית חנניה וכ׳</span> in the upper chamber of Ḥananiah &c. <span class=\"refLink\" data-ref=\"Ketubot 50b:4\" href=\"/Ketubot.50b.4\">Ketubot 50ᵇ</span> <span dir=\"rtl\">דברים טובים שנאמרו בע׳</span> the good things (in favor of females) that were said at the meeting in an upper chamber; and see from—בני ע׳ <i>sons of heaven, those enjoying the Divine Presence in the hereafter</i>. <span class=\"refLink\" data-ref=\"Sukkah 45b:5\" href=\"/Sukkah.45b.5\">Sukkah 45ᵇ</span>; <span class=\"refLink\" data-ref=\"Sanhedrin 97b:12\" href=\"/Sanhedrin.97b.12\">Sanhedrin 97ᵇ</span>.—plural <span dir=\"rtl\">עֲלִיּוֹת</span>, <span dir=\"rtl\">עֲלִיּיוֹת</span>. <span class=\"refLink\" data-ref=\"Bava Metzia 117a:4\" href=\"/Bava_Metzia.117a.4\">Bava Metzia 117ᵃ</span> <span dir=\"rtl\">שתי ע׳ זו וכ׳</span> two upper stories, one above the other; and e. <br><b><br>—2)</b> <i>going up, rising</i>, opposed <span class=\"refLink\" data-ref=\"Jastrow, יְרִידָה I 1\" dir=\"rtl\" href=\"/Jastrow,_יְרִידָה I.1\">ירידה</span>; also <i>flight of stairs</i>. Ib. (in Chald. dict.) <span dir=\"rtl\">ע׳ קבילי עלאי ע׳ וירידה וכ׳</span> when I rented the upper story, I was prepared to go up, but to go up and go down again I was not prepared. Ib. <span dir=\"rtl\">חדא ע׳ קבילית עלי שתי עליות וכ׳</span> Manuscript Munich (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note) I was prepared for one flight of stairs but not for two flights; and from—Esp. <i>going up to Jerusalem, pilgrimage</i>. <span class=\"refLink\" data-ref=\"Pesachim 8b:10\" href=\"/Pesachim.8b.10\">Pesachim 8ᵇ</span> <span dir=\"rtl\">ע׳ שלא לשמה</span> a pilgrimage not for its own sake; and e.—<i>plural</i> as ab. Bava Metzia l. common gender., see supra. <br><b><br>—3)</b> <i>elevation</i> (to a higher dignity), <i>promotion</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Horayot 3:1:2\" href=\"Jerusalem_Talmud_Horayot.3.1.2\">Yerushalmi Horayot III, beginning 47ᵃ</span> <span dir=\"rtl\">עֲלִיָּיתוֹ וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יְרִידָה II 1\" href=\"/Jastrow,_יְרִידָה II.1\"><span dir=\"rtl\">יְרִידָה</span> II</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 68\" href=\"/Bereishit_Rabbah.68\">Breishit Rabbah section (Parashah) 68</span> <span dir=\"rtl\">ע׳ תהא להם</span> they shall rise (to power). <span class=\"refLink\" data-ref=\"Ketubot 61a:3\" href=\"/Ketubot.61a.3\">Ketubot 61ᵃ</span> (play on <span dir=\"rtl\">בעלת בעל</span>, <span class=\"refLink\" data-ref=\"Genesis 20:3\" href=\"/Genesis.20.3\">Breishit XX, 3</span>) <span dir=\"rtl\">בעלייתו של בעל וכ׳</span> the wife partakes of the comforts of the husband’s higher position, but is not bound to share the restrictions of his lower position, see <span class=\"refLink\" data-ref=\"Jastrow, עָלָה 1\" dir=\"rtl\" href=\"/Jastrow,_עָלָה.1\">עָלָה</span>; and from <br><b><br>—4)</b> <i>carrying up</i>, especially <i>putting on the altar, offering</i>. <span class=\"refLink\" data-ref=\"Mishnah Zevachim 13:1\" href=\"/Mishnah_Zevachim.13.1\">Zevachim XIII, 1</span> <span dir=\"rtl\">חייב על הע׳</span> is punishable for the offering (outside of the Temple precincts). <span class=\"refLink\" data-ref=\"Mishnah Zevachim 13:3\" href=\"/Mishnah_Zevachim.13.3\">Ib. 3</span>; and from <br><b><br>—5)</b> (see <span class=\"refLink\" data-ref=\"Jastrow, עָלָה 1\" dir=\"rtl\" href=\"/Jastrow,_עָלָה.1\">עָלָה</span>, c) <i>neutralization, loss of identity</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Bikkurim 2:2:8\" href=\"Jerusalem_Talmud_Bikkurim.2.2.8\">Yerushalmi Bikkurim II, 65ᵃ</span> top <span dir=\"rtl\">מעשר אין לו ע׳</span> tithes (mixed up with secular food) are not neutralized. <br><b><br>—6)</b> <i>the most valuable property</i> (compare <span class=\"refLink\" data-ref=\"Jastrow, עִידִּית 1\" dir=\"rtl\" href=\"/Jastrow,_עִידִּית.1\">עִידִית</span>). <span class=\"refLink\" data-ref=\"Mishnah Bava Kamma 1:4\" href=\"/Mishnah_Bava_Kamma.1.4\">Bava Kamma I, 4</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מְעוּלֶה 1\" dir=\"rtl\" href=\"/Jastrow,_מְעוּלֶה.1\">מְעוּלֶּה</span>. <span class=\"refLink\" data-ref=\"Bava Kamma 91a:5\" href=\"/Bava_Kamma.91a.5\">Ib. 91ᵃ</span> <span dir=\"rtl\">רידיא ע׳ דמרה הוא</span> the compensation for damages which is won by using the noxious ox for ploughing, is equal to a collection from the owner’s best possessions, (opposed to <span dir=\"rtl\">מגופו</span> the indemnity collected from a sale of the animal). <span class=\"refLink\" data-ref=\"Nedarim 56a:1\" href=\"/Nedarim.56a.1\">Nedarim 56ᵃ</span> if one says, <span dir=\"rtl\">בית בביתי … מראהו ע׳</span> I sell thee a room in my house, he may show (assign) to him an upper chamber (see supra); modified: <span dir=\"rtl\">מאי ע׳ מעולה וכ׳</span> <i>ʿăliya</i> means here (he must assign to him) the best room; <span class=\"refLink\" data-ref=\"Menachot 108b:24\" href=\"/Menachot.108b.24\">Menachot 108ᵇ</span>. Ketubot l. common gender. 50ᵇ <span dir=\"rtl\">ומאי ע׳ מעילוייא דאב</span> and does <i>ʿăliya</i> mean ‘of the father’s best things’?; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, עֲלִיָּה 1",
+              "sourceHeRef": "מילון יסטרוב, עֲלִיָּה א׳",
+              "sourceRef": "Jastrow, עֲלִיָּה 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או דלמא מזוני ממש</strong> - ואע\"ג דתנאי כתובה ככתובה ואין נגבית ממטלטלי דכל אסמכתא דשטרי אקרקעות היא לפי שעומדות בעין רב סבר לה כתקנת עלייה והיינו דקאמר מחיטי דעלייה:",
+              "ref": "Rashi on Ketubot 50b:4:1",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ד:א",
+              "sourceRef": "Rashi on Ketubot 50b:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> מה שאמרו שזן את הבנות <b>מזוני</b> <span class=\"hebrew-emphasis\">[מזונות]</span> <b>ממש הוה</b> <span class=\"hebrew-emphasis\">[היו],</span> <b>ומאי</b> <span class=\"hebrew-emphasis\">[ומה</span> פירוש<span class=\"hebrew-emphasis\">]</span> <b>\"עלייה\"</b> זו שאמרנו — <b>מדברים טובים שנאמרו בעלייה,</b> כלומר, על סמך ההלכות שנאמרו בעלייה. ש<b>אמר רב יצחק בר יוסף: בעלייה</b> כאשר ישבו חכמים בעלייה, כשלא יכלו מחמת הגזירה לשבת בבית המדרש, ופסקו כמה הלכות, <b>התקינו שיהו בנות ניזונות מן המטלטלין</b> ולא רק מן הקרקעות.",
+              "ref": "Steinsaltz on Ketubot 50b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:ד",
+              "sourceRef": "Steinsaltz on Ketubot 50b:4"
+            }
+          ]
+        }
+      },
+      "en": "<b>Or perhaps</b> it <b>was actual sustenance,</b> i.e., provisions so that they would have food, <b>and what is</b> the meaning of the term <b><i>aliyya</i>?</b> It indicates that this <i>halakha</i> is one <b>of the good statements said in the upper chamber [<i>aliyya</i>], as <span href=\"/topics/rav-yitzhak-b-yosef\" class=\"namedEntityLink\" data-slug=\"rav-yitzhak-b-yosef\">Rav Yitzḥak bar Yosef</span> said:</b> When the Sages sat <b>in the upper chamber</b> to rule on certain <i>halakhot</i>, which they could not do in the study hall at that time due to persecution by gentiles, <b>they instituted that daughters should be sustained from movable property</b> in addition to land.",
+      "he": "אוֹ דִלְמָא מְזוֹנֵי מַמָּשׁ הֲוָה, וּמַאי עֲלִיָּיה — מִדְּבָרִים טוֹבִים שֶׁנֶּאֶמְרוּ בָּעֲלִיָּיה. דְּאָמַר רַב יִצְחָק בַּר יוֹסֵף: בָּעֲלִיָּיה הִתְקִינוּ שֶׁיְּהוּ בָּנוֹת נִיזּוֹנוֹת מִן הַמִּטַּלְטְלִין.",
+      "ref": "Ketubot 50b:4"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בַּנַּאי II</strong>, <strong dir=\"rtl\">בַּנָּאָה</strong>, <strong dir=\"rtl\">רַבַּנַּאי</strong> (= <span dir=\"rtl\">רב ב׳</span>) proper noun of a male person <i>Bannai, Bannaah, Rabbannai</i>, name of an Amora. <span class=\"refLink\" data-ref=\"Ketubot 50b:5\" href=\"/Ketubot.50b.5\">Ketubot 50ᵇ</span>. <span class=\"refLink\" data-ref=\"Berakhot 38b:3\" href=\"/Berakhot.38b.3\">Berakhot 38ᵇ</span>. [<span class=\"refLink\" data-ref=\"Berakhot 55b:16\" href=\"/Berakhot.55b.16\">Ib. 55ᵇ</span> Manuscript Munich <span class=\"refLink\" data-ref=\"Jastrow, נְהוֹרַאי 1\" dir=\"rtl\" href=\"/Jastrow,_נְהוֹרַאי.1\">נהוראי</span>. <span class=\"refLink\" data-ref=\"Bava Metzia 2a:7\" href=\"/Bava_Metzia.2a.7\">Bava Metzia 2ᵃ</span>, and e. <span dir=\"rtl\">רב׳</span>, Manuscript Munich <span class=\"refLink\" data-ref=\"Jastrow, רָבִינָא 1\" dir=\"rtl\" href=\"/Jastrow,_רָבִינָא.1\">רבינא</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, בַּנַּאי II 1",
+              "sourceHeRef": "מילון יסטרוב, בַּנַּאי II א׳",
+              "sourceRef": "Jastrow, בַּנַּאי II 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">זיל זון</strong> - את הבנות:",
+              "ref": "Rashi on Ketubot 50b:5:1",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ה:א",
+              "sourceRef": "Rashi on Ketubot 50b:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים: <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ו<span class=\"hebrew-emphasis\">שמע]</span> פתרון לשאלה זו: <b>בידיה</b> <span class=\"hebrew-emphasis\">[בידיו]</span> של <b>ר' בנאי אחוה</b> <span class=\"hebrew-emphasis\">[אחיו]</span> של <b>ר' חייא בר אבא הוו</b> <span class=\"hebrew-emphasis\">[היו]</span> <b>מטלטלין דיתמי</b> <span class=\"hebrew-emphasis\">[של יתומים]</span> שהופקדו אצלו על ידי האב. <b>אתו לקמיה</b> <span class=\"hebrew-emphasis\">[באו לפני]</span> <b>שמואל</b> בנותיו של אותו אדם שמת. <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> שמואל לר' בנאי: <b>זיל זון</b> <span class=\"hebrew-emphasis\">[לך</span> ו<span class=\"hebrew-emphasis\">פרנס]</span> אותן מאותם מטלטלים ששייכים ליתומים.",
+              "ref": "Steinsaltz on Ketubot 50b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:ה",
+              "sourceRef": "Steinsaltz on Ketubot 50b:5"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואמר ליה זיל זון כו'</strong> - ואם תאמר ומאי אולמיה הא דשמואל יותר מההיא דרב יצחק בר יוסף דמבעיא לן אי סבר רב כוותיה וי\"ל משום דשמואל עביד עובדא מייתי מיניה ולא מסתבר ליה דרב פליג אדשמואל דהא בלאו הכי משמע דרב זן היינו מזונות אלא דמבעיא ליה משום דלא ניחא ליה למימר שיחלוק רב על המשנה דקתני דמזונות הבנות הוי כירושת בנין דיכרין ומייתי ראייה משמואל דעביד עובדא והכי נמי מצי סבר רב כדמשמע לישנא דזן רב וסברי דאחרי כן שינו התקנה וא\"ת והיכי משמע מילתא דשמואל דאמר זיל זון דמזונות ממש קאמר יותר ממילתיה דרבי חייא בר יוסף דקאמר רב זן וי\"ל דסברא הוא בשעה שפוסק הוראה יש לו לפסוק בלשון דליכא למיטעי הילכך איכא למימר טפי דזיל זון ממש קאמר אבל רבי חייא בר יוסף היה שונה קבלתו ולא היה כל כך מדקדק בלשונו:",
+              "ref": "Tosafot on Ketubot 50b:5:1",
+              "sourceHeRef": "תוספות על כתובות נ׳ ב:ה:א",
+              "sourceRef": "Tosafot on Ketubot 50b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara suggests: <b>Come</b> and <b>hear</b> a resolution to this dilemma: <b>In the possession of Rabbi Banai, the brother of <span href=\"/topics/rabbi-chiyya-b-abba\" class=\"namedEntityLink\" data-slug=\"rabbi-chiyya-b-abba\">Rabbi Ḥiyya bar Abba</span>, there was movable property</b> belonging <b>to orphans,</b> deposited with him by their father. The orphan daughters <b>came before <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span>,</b> who <b>said to</b> Rabbi Banai: <b>Go</b> and <b>sustain</b> the daughters from the property.",
+      "he": "תָּא שְׁמַע: בִּידֵיהּ דְּרַבִּי בַּנַּאי אֲחוּהּ דְּרַבִּי חִיָּיא בַּר אַבָּא הֲווֹ מִטַּלְטְלִין דְּיַתְמֵי. אֲתוֹ לְקַמֵּיהּ דִּשְׁמוּאֵל. אֲמַר לֵיהּ: זִיל זוּן.",
+      "ref": "Ketubot 50b:5"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">פַּרְנָסָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, פַּרְנָסָא II 1\" href=\"/Jastrow,_פַּרְנָסָא II.1\">preceding</span> wds.) <i>provision, maintenance, outfit</i>. <span class=\"refLink\" data-ref=\"Mishnah Peah 8:7\" href=\"/Mishnah_Peah.8.7\">Peah VIII, 7</span> <span dir=\"rtl\">פַּרְנָסַת לינה</span> the necessary arrangement for a night’s lodging (for the poor), explained <span class=\"refLink\" data-ref=\"Shabbat 118a\" href=\"/Shabbat.118a\">Shabbat 118ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, פּוּרְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_פּוּרְיָא.1\">פּוּרְיָא</span> II Chaldaic; <span class=\"refLink\" data-ref=\"Bava Batra 9a\" href=\"/Bava_Batra.9a\">Bava Batra 9ᵃ</span>; <span class=\"refLink\" data-ref=\"Tosefta Peah 4:8\" href=\"/Tosefta_Peah.4.8\">Tosefta Peah IV, 8</span>. <span class=\"refLink\" data-ref=\"Ketubot 50b:3\" href=\"/Ketubot.50b.3\">Ketubot 50ᵇ</span> (reference. to <span class=\"refLink\" data-ref=\"Jastrow, זַן 1\" dir=\"rtl\" href=\"/Jastrow,_זַן.1\">זן</span> ib.) <span dir=\"rtl\">פ׳ הויא וכ׳</span> does this mean (bridal) outfit … or sustenance proper? <span class=\"refLink\" data-ref=\"Ketubot 50b:6\" href=\"/Ketubot.50b.6\">Ib.</span> <span dir=\"rtl\">התם לפ׳ הואי</span> there it was about the outfit. <span class=\"refLink\" data-ref=\"Ketubot 68a\" href=\"/Ketubot.68a\">Ib. 68ᵃ</span>, and e. <span dir=\"rtl\">לפ׳ שמון באב</span> as to the amount for which the heirs are to be assessed for a daughter’s outfit, we are guided by the disposition of her deceased father. <span class=\"refLink\" data-ref=\"Ketubot 68a:9\" href=\"/Ketubot.68a.9\">Ib.</span> (reference. to <span dir=\"rtl\">מתפרנסות</span>, ib.) <span dir=\"rtl\">מאי לאו פרנסת הבעל</span> does it not mean the outfit for the husband (dower)? <span dir=\"rtl\">לא בפרנסת עצמה</span> no, it refers to her own support. <span class=\"refLink\" data-ref=\"Ketubot 68b:3\" href=\"/Ketubot.68b.3\">Ib.ᵇ</span> <span dir=\"rtl\">איבדו מזונותיהן ולא איבדו פַרְנָסָתָן</span> they have lost their claim on alimentation (from the estate), but not their claim on an outfit. <span class=\"refLink\" data-ref=\"Berakhot 3b:29\" href=\"/Berakhot.3b.29\">Berakhot 3ᵇ</span> עמך ישראל צריכין פ׳ Israel, thy people, need a living. <span class=\"refLink\" data-ref=\"Taanit 9a:13\" href=\"/Taanit.9a.13\">Taanit 9ᵃ</span> <span dir=\"rtl\">מטר … פ׳ בשביל רבים</span> rain is granted for the sake of an individual, support (prosperity) for the sake of the many (in public prayers). <span class=\"refLink\" data-ref=\"Bereishit Rabbah 20:9\" href=\"/Bereishit_Rabbah.20.9\">Breishit Rabbah section (Parashah) 20</span>; <span class=\"refLink\" data-ref=\"Midrash Tehillim 106\" href=\"/Midrash_Tehillim.106\">Midrash Till. to Psalms CVI</span>, beginning, see <span class=\"refLink\" data-ref=\"Jastrow, פֶּלֶא 1\" dir=\"rtl\" href=\"/Jastrow,_פֶּלֶא.1\">פֶּלֶא</span>. <span class=\"refLink\" data-ref=\"Taanit 19b:11\" href=\"/Taanit.19b.11\">Taanit 19ᵇ</span> <span dir=\"rtl\">עבד שנתן לו רבו פַּרְנָסָתוֹ באחד וכ׳</span> a slave to whom his master gives his fare (for the week) on the first day of the week; and see from"
+              ],
+              "he": [],
+              "ref": "Jastrow, פַּרְנָסָה 1",
+              "sourceHeRef": "מילון יסטרוב, פַּרְנָסָה א׳",
+              "sourceRef": "Jastrow, פַּרְנָסָה 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a father dies and leaves [at least one son and] a daughter [she is provided with a dowry from his estate]. We estimate what the father would have desired to give the daughter as a dowry, and she is given [that sum].<br>How is it possible to arrive at such an estimate? [We survey the habits of] his friends and acquaintances, his business affairs and his standard of living. If he married off a daughter during his lifetime, we base our estimate [on what she was given]. If the court is unable to determine what he would have desired [to give his daughter], she is given a tenth of his estate as a dowry.",
+              "he": "הָאָב שֶׁמֵּת וְהִנִּיחַ בַּת אוֹמְדִין דַּעְתּוֹ כַּמָּה הָיָה בְּלִבּוֹ לִתֵּן לָהּ לְפַרְנָסָה וְנוֹתְנִין לָהּ. וּמִנַּיִן יוֹדְעִין אֻמְדַּן דַּעְתּוֹ. מֵרֵעָיו וּמְיֻדָּעָיו וּמַשָּׂאוֹ וּמַתָּנוֹ וּכְבוֹדוֹ. וְכֵן אִם הִשִּׂיא בַּת בְּחַיָּיו אוֹמְדִין בָּהּ. וְאִם לֹא יָדְעוּ לוֹ בֵּית דִּין אֻמְדַּן דַּעַת נוֹתְנִין לָהּ מִנְּכָסָיו עִשּׂוּר לְפַרְנָסָתָהּ:",
+              "ref": "Mishneh Torah, Marriage 20:3",
+              "sourceHeRef": "הלכות אישות כ:ג",
+              "sourceRef": "Marriage 20:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Our Sages decreed that a man give a certain portion of his holdings to his daughter as a dowry. This is referred to as <i>parnasah</i>. When [a man] marries off his daughter, he should provide her with at least the wardrobe that is given to the wife of a poor Jewish man, as we have explained.<br>When does the above apply? When [the bride's] father is poor. If he is wealthy, he should provide for his daughter according to his standards.",
+                      "he": "צִוּוּ חֲכָמִים שֶׁיִּתֵּן אָדָם מִנְּכָסָיו מְעַט לְבִתּוֹ כְּדֵי שֶׁתִּנָּשֵׂא בּוֹ וְזֶה הוּא הַנִּקְרָא פַּרְנָסָה. הַמַּשִּׂיא אֶת בִּתּוֹ סְתָם לֹא יִפְחֹת לָהּ מִכְּסוּת שֶׁפּוֹסְקִין לְאֵשֶׁת עָנִי שֶׁבְּיִשְׂרָאֵל כְּמוֹ שֶׁבֵּאַרְנוּ. בַּמֶּה דְּבָרִים אֲמוּרִים בְּשֶׁהָיָה הָאָב עָנִי אֲבָל אִם הָיָה עָשִׁיר הֲרֵי זֶה רָאוּי לִתֵּן לָהּ כְּפִי עָשְׁרוֹ:",
+                      "ref": "Mishneh Torah, Marriage 20:1",
+                      "sourceHeRef": "הלכות אישות כ:א",
+                      "sourceRef": "Marriage 20:1"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "Since a woman fulfills a tremendously important mitzva by marrying and having children, the Torah commands parents to do their best to help their daughters marry. The Sages even instruct people to put aside approximately one-tenth of their assets to help a daughter get married (Ketubot 52b; SA EH 113:1). Nevertheless, the beit din does not get involved in compelling parents to do so (Rema, EH 70:1).",
+                      "he": "כיוון שיש לאשה מצווה גדולה ועצומה להתחתן וללדת ילדים, צוותה התורה את ההורים לסייע לבנותיהם להתחתן באופן המיטבי, ואף הורו חכמים שיקדיש אדם כעשירית מרכושו כדי לסייע לבתו להתחתן <span class=\"parenthesized\">(כתובות נב, ב; שו\"ע אה\"ע קיג, א)</span>, אלא שאין בית הדין מתערב לכפות את ההורים בכך <span class=\"parenthesized\">(רמ\"א אה\"ע ע, א)</span>.",
+                      "ref": "Peninei Halakhah, Simchat Habayit U'Virkhato 5:10:3",
+                      "sourceHeRef": "שמחת הבית וברכתו ה:י:ג",
+                      "sourceRef": "Simchat Habayit U'Virkhato 5:10:3"
+                    },
+                    {
+                      "en": "The second responsibility is that of the parents. The Sages teach that it is the parents’ responsibility to marry off their children (Kiddushin 29a-30b), as it says, “Take wives and beget sons and daughters; take wives for your sons and give your daughters to husbands, that they may bear sons and daughters” (Yirmiyahu 29:6). In other words, the mitzva of procreation does not end with the birth of the children, but continues. When children mature and reach marriageable age, the parents must encourage them to get married, and provide them with both advice and financial help. This makes the parents partners in ensuring continuity. The Sages instruct parents to set aside a tenth of their assets for the marriage of each child. It would seem that nowadays, a significant part of the parents’ support should be directed toward helping their children to successfully navigate the challenge of combining marriage, professional training, and in some cases childcare as well.",
+                      "he": "החובה השנייה מוטלת על ההורים, וכפי שאמרו חכמים <span class=\"parenthesized\">(קידושין כט, א; ל, ב)</span>, שחובה על ההורים להשיא את ילדיהם, שנאמר <span class=\"parenthesized\">(ירמיה כט, ו)</span>: \"קְחוּ נָשִׁים וְהוֹלִידוּ בָּנִים וּבָנוֹת, וּקְחוּ לִבְנֵיכֶם נָשִׁים וְאֶת בְּנוֹתֵיכֶם תְּנוּ לַאֲנָשִׁים וְתֵלַדְנָה בָּנִים וּבָנוֹת\". כלומר, מצוות פרו ורבו אינה נגמרת בהולדת הילדים, אלא היא נמשכת אח\"כ, כשילדיהם יגיעו לפרקם, שאז ההורים צריכים לעודד אותם להתחתן ולסייע להם בעצה ובעזרה כספית, ובזה הם שותפים בהמשכת הדורות. והורו חכמים להורים להקדיש כעשירית מנכסיהם עבור חתונת כל אחד מילדיהם. ונראה שכיום, חלק משמעותי מהעזרה של ההורים צריך להיות מכוון כדי להקל על ילדיהם לעמוד באתגר הגדול המשלב יחד, נישואין עם לימודים מקצועיים, ולעיתים גם טיפול בתינוקות.",
+                      "ref": "Peninei Halakhah, Simchat Habayit U'Virkhato 5:12:4",
+                      "sourceHeRef": "שמחת הבית וברכתו ה:יב:ד",
+                      "sourceRef": "Simchat Habayit U'Virkhato 5:12:4"
+                    },
+                    {
+                      "en": "",
+                      "he": "למעשה נהגו שמעת שהבחורה היתה בשלה לנישואין והסכימה ורצתה להתחתן עם הבחור שהציעו לה, היו מתחילים לתכנן את החתונה. ושלא כמו הבחור שהיה צריך להתחיל לעבוד כדי להכין לאשתו בית ומטע שממנו יפרנס אותה <span class=\"parenthesized\">(סוטה מד, א)</span>, האשה לא היתה חייבת בהכנות הללו לקראת החתונה. אלא צוותה התורה את ההורים לסייע לבנותיהם להתחתן באופן המיטבי, והורו חכמים שעל ההורים להקדיש כעשירית מרכושם כדי לסייע לבנותיהם להתחתן <span class=\"parenthesized\">(כתובות נב, ב; שו\"ע אה\"ע קיג, א)</span>. וממילא יכלו הבנות להתחתן צעירות, בסביבות גיל חמש עשרה.",
+                      "ref": "Peninei Halakhah, Family 2:11:3",
+                      "sourceHeRef": "משפחה ב:יא:ג",
+                      "sourceRef": "Family 2:11:3"
+                    }
+                  ]
+                }
+              },
+              "en": "Someone who died and was survived by a daughter, we estimate his frame of mind as to how much he would have set aside for her dowry and give it to her. How can we know his frame of mind? From his friends, acquaintances, business dealings, and honor. Similarly if he married off a daughter in his lifetime, we estimate by her. Note: If he was rich and became poor, or was always indulgent and changed his mind, we follow his most recent status (Tur). If the court could not estimate his frame of mind, we grant her one tenth of his property for her dowry. Note: Just like we give a dowry to the daughter from her father's estate, so do we give her support from the property of the mother (Nimukei Yosef, chapter Yesh Nochalin). Some argue (Maharil chapter 75). Some say that even when the father is alive, he should not grant his daughter a dowry more than one tenth of his property (Ran chapter Metziat haIsha), but we do not act this way.",
+              "he": "מי שמת והניח בת אומדים דעתו כמה היה בלבו ליתן לה לפרנסת נדונייתא ונותנים לה ומנין יהיו יודעים אומדן דעתו מריעיו ומיודעיו ומשאו ומתנו וכבודו וכן אם השיא בת בחייו אומדים בה: <span class=\"hebrew-emphasis\">הגה ואם היה עשיר והעני או ותרן ונשתנה דעתו הולכין אחר דעתו האחרונה (טור) </span> ואם לא ידעו ב\"ד אומדן דעתו נותנים לה מנכסיו עישור לפרנסת נדונייתה: <span class=\"hebrew-emphasis\">הגה וכשם שנותנין לבת פרנסה לנדוניא מנכסי האב כך נותנים לה פרנסה מנכסי האם (נ\"י פ' יש נוחלין) ויש חולקין (מהרי\"ל סי' ע\"ה) י\"א דאף האב בחיים אין לו [להוסיף] לבתו יותר מעישור נכסים (הר\"ן פ' מציאת האשה) ואין נוהגין כן:</span>",
+              "ref": "Shulchan Arukh, Even HaEzer 113:1",
+              "sourceHeRef": "אבן העזר קיג:א - עישור נכסים ממה נגבים",
+              "sourceRef": "Even HaEzer 113:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מאי לאו למזוני</b> <span class=\"hebrew-emphasis\">[האם אין</span> הכוונה לתת להן <span class=\"hebrew-emphasis\">מזונות]</span> מהמטלטלים, <b>וכ</b>דברי <b>רב יצחק בר יוסף סבירא ליה</b> <span class=\"hebrew-emphasis\">[סבור הוא]?</span> שהיתה תקנה בעלייה ליזון אף ממטלטלים. ודוחים: <b>לא, התם</b> <span class=\"hebrew-emphasis\">[שם]</span> <b>ל</b>ענין <b>פרנסה הואי</b> <span class=\"hebrew-emphasis\">[היה]</span> שאמר לו לתת. <b>ושמואל לטעמיה</b> <span class=\"hebrew-emphasis\">[לטעמו,</span> לשיטתו<span class=\"hebrew-emphasis\">],</span> ש<b>אמר שמואל: לפרנסה שמין באב</b> לפי מצבו, ואפילו ממטלטלים.",
+              "ref": "Steinsaltz on Ketubot 50b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:ו",
+              "sourceRef": "Steinsaltz on Ketubot 50b:6"
+            }
+          ]
+        }
+      },
+      "en": "<b>What, is it not</b> correct to say that this means he should provide them <b>with sustenance, and</b> this would indicate that <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> <b>holds in accordance with</b> the opinion of <b><span href=\"/topics/rav-yitzhak-b-yosef\" class=\"namedEntityLink\" data-slug=\"rav-yitzhak-b-yosef\">Rav Yitzḥak bar Yosef</span>,</b> that the Sages instituted an ordinance in the upper chamber that daughters are entitled to their sustenance even from movable property? The Gemara refutes this claim: <b>No, there it is</b> stated in reference <b>to</b> their <b>livelihood, and <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span></b> conforms <b>to his</b> standard line of <b>reasoning, as <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> said: With regard to livelihood,</b> i.e., the dowry granted to daughters from their father’s estate, the court <b>assesses</b> the amount they receive <b>in accordance with</b> the status of <b>the father.</b>",
+      "he": "מַאי לָאו לִמְזוֹנֵי, וְכִדְרַב יִצְחָק בַּר יוֹסֵף סְבִירָא לֵיהּ? לָא, הָתָם לְפַרְנָסָה הֲוַאי. וּשְׁמוּאֵל לְטַעְמֵיהּ, דְּאָמַר שְׁמוּאֵל: לְפַרְנָסָה שָׁמִין בָּאָב.",
+      "ref": "Ketubot 50b:6"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> בפומבדיתא ואגבי רב חנא בר ביזנא כו'. נ\"ב פי' במטלטלי:",
+              "ref": "Chokhmat Shlomo on Ketubot 50b:1",
+              "sourceHeRef": "חכמת שלמה על כתובות נ׳ ב:א",
+              "sourceRef": "Chokhmat Shlomo on Ketubot 50b:1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara cites additional <i>halakhot</i> taught by Ulla, citing Rabbi Elazar: When a woman gives birth or miscarries a fetus she is thereby rendered ritually impure (see Leviticus 12:1–5). Even if she delivers only the afterbirth, with no discernible fetus, she is rendered ritually impure due to the possibility that the fetus was dissolved in the afterbirth, and it is therefore considered as though she delivered it (<i>Nidda</i> 24b). The length of the period of impurity depends on the sex of the child. In the case where it is unclear what the sex is, she must observe the longer period of fourteen days (<i>Nidda</i> 29a). At the end of that period she may purify herself by immersing in a ritual bath. <b>And Ulla says</b> that <b>Rabbi Elazar says:</b> If <b>part of</b> the <b>afterbirth [<i>shilya</i>] emerged on the first day</b> of a woman’s miscarriage <b>and part of it</b> emerged <b>on the second day, one counts</b> the period of ritual impurity <b>from the first</b> day.",
+                  "<b>Rava said to him,</b> to Ulla: <b>What</b> is the rationale for <b>your opinion</b> to begin counting from the first day? It would appear to be based on the following: Ritual impurity is engendered only once the woman has delivered the fetus. This is defined as the emergence of the majority of the fetus or its head. Since in this case the fetus is not discernible, one must consider the possibility that it had already emerged on the first day, and therefore one is required <b>to act stringently</b> and regard her as impure from the first day.",
+                  "Rava questions the propriety of acting stringently in this case, as it is <b>a stringency that results in a leniency, because</b> if she begins counting from the first day, <b>you will</b> also <b>render her</b> fit to immerse and become <b>pure from</b> fourteen days <b>after the first</b> day. This is a leniency because it is possible that the majority of the fetus emerged only on the second day and therefore her period of impurity began only then. She will therefore remain impure until the fifteenth day.",
+                  "<b>Rather, Rava said:</b> With regard <b>to being concerned</b> for the possibility that she is impure from the first day, <b>she should be concerned.</b> But with regard to <b>counting</b> the period of impurity, <b>one counts only from the second</b> day.",
+                  "The Gemara asks: <b>What is</b> Ulla <b>teaching us</b> through this <i>halakha</i>? Does he mean to teach us <b>that part of the afterbirth</b> does not emerge <b>without</b> part of the <b>fetus</b> inside? But <b>we</b> already <b>learned</b> that in a mishna (<i>Ḥullin</i> 77a): When an animal is ritually slaughtered, the animal and everything inside it becomes permitted for consumption. This applies to an unborn fetus as well. If prior to the slaughter the majority of the fetus emerged, it is considered to have been born, and therefore the entire fetus, even the part that is still within its mother, is not rendered permitted for consumption by the slaughter. Accordingly, if <b>part of the afterbirth emerged</b> prior to the slaughter, <b>it is prohibited to eat</b> it, because an afterbirth is <b>a sign of a fetus in a woman</b> and <b>a sign of a fetus in an animal.</b>",
+                  "The Gemara explains: <b>If</b> I would know this only <b>from the mishna, I would say</b>"
+                ],
+                [
+                  "<b>that there is</b> a possibility that <b>part of the afterbirth</b> will emerge <b>without</b> part of <b>the fetus</b> inside, and the reason that the Sages forbid eating the afterbirth is due to a rabbinic <b>decree</b> prohibiting a case where <b>part of</b> an afterbirth emerges from the womb and part of it remains inside, <b>due to</b> the possibility that one may confuse it with a case where <b>all of</b> the afterbirth emerges. Therefore, Ulla <b>teaches us</b> that, in fact, part of the afterbirth does not emerge without part of the fetus inside.",
+                  "The Gemara cites another <i>halakha</i> taught by Ulla, citing Rabbi Elazar: <b>And Ulla says</b> that <b>Rabbi Elazar says:</b> With regard to a male <b>firstborn</b> child <b>who was mauled</b> by an animal <b>within thirty days</b> of his birth and died, one is <b>not required to redeem him,</b> as the requirement to do so, by paying five <i>sela</i> to a priest, applies only once the child is thirty days old (see Numbers 18:15–16).",
+                  "<b>And</b> similarly, <b>Rami bar Ḥama taught</b> a <i>baraita</i>: <b>Since it is stated:</b> “Yet <b>you shall redeem”</b> (Numbers 18:15), one <b>might</b> have thought that <b>even</b> if a male firstborn child was <b>mauled</b> by an animal <b>within thirty days</b> of his birth one should redeem him. Therefore, <b>the verse states “yet</b> you shall redeem”; the addition of the word “yet” serves to <b>differentiate</b> and limit the requirement to redeem the firstborn male.",
+                  "The Gemara cites another <i>halakha</i> taught by Ulla, citing Rabbi Elazar: <b>And Ulla says</b> that <b>Rabbi Elazar says: A large animal,</b> such as a cow or a horse, <b>is acquired by</b> the buyer <b>pulling</b> the animal.",
+                  "The Gemara asks: <b>But didn’t we learn</b> in a mishna (<i>Kiddushin</i> 25b): A large animal is acquired <b>by passing</b> the reins of the animal to the buyer? The Gemara explains: Rabbi Elazar <b>states</b> his opinion <b>in accordance with</b> the opinion of <b>that <i>tanna</i>,</b> i.e., the Rabbis, <b>as it is taught</b> in a <i>baraita</i>: <b>And the Rabbis say: This and that,</b> i.e., both large and small animals, are acquired <b>through</b> the buyer <b>pulling</b> the animal. <b>Rabbi Shimon says: This and that</b> are acquired <b>through</b> the buyer <b>lifting</b> the animal.",
+                  "The Gemara cites another <i>halakha</i> taught by Ulla, citing Rabbi Elazar: <b>And Ulla says</b> that <b>Rabbi Elazar says:</b> With regard to <b>brothers who divide</b> the estate they inherited, the court <b>appraises whatever</b> clothes are <b>upon them</b> if those clothes came from, or if they were purchased with money from, the deceased’s estate, and that sum is considered part of the portion they receive. But the court does <b>not appraise whatever is upon their sons and daughters.</b> In order to save the children from the humiliation of having to appear in court, the brothers waive their rights to the clothes the children are wearing.",
+                  "<b>Rav Pappa said: Sometimes, it does not even appraise whatever is upon</b> the brothers. <b>You find such</b> a case <b>with</b> the <b>eldest brother</b> where the other brothers waive their rights to the value of his clothes, <b>as it is beneficial for them</b> to have the eldest brother appear well dressed in order <b>that</b> when he represents their interests in dealings with others, <b>his words will be listened to</b> and respected.",
+                  "The Gemara cites another <i>halakha</i> taught by Ulla, citing Rabbi Elazar: <b>And Ulla says</b> that <b>Rabbi Elazar says:</b> In the case of <b>a bailee who conveyed</b> a deposit that was entrusted to him <b>to</b> another <b>bailee,</b> the first bailee is <b>exempt</b> for any occurrence for which he would have been exempt had he kept the deposit with him. The Gemara adds: <b>And it is not necessary</b> to state this in the case of <b>an unpaid bailee who conveyed</b> a deposit <b>to a paid bailee, thereby increasing</b> the level of <b>its safeguarding,</b> since the paid bailee has a greater level of accountability than an unpaid bailee. <b>Rather,</b> this is the <i>halakha</i> <b>even</b> in a case of <b>a paid bailee who conveyed</b> a deposit <b>to an unpaid bailee, thereby decreasing</b> the level of <b>its safeguarding.</b> In this case, the first bailee is <b>exempt</b> for any occurrence for which he would have been exempt had he kept the deposit with him, <b>because he conveyed</b> it <b>to a mentally competent person</b> and thereby fulfilled his responsibility to ensure the deposit is safeguarded.",
+                  "<b>Rava said:</b> With regard to <b>a bailee who conveyed</b> a deposit <b>to</b> another <b>bailee,</b> the first bailee becomes <b>liable</b> to pay for any loss to the item, even for mishaps for which he would not have been liable had he kept the deposit with him. The Gemara adds: <b>And it is not necessary</b> to state this in a case of <b>a paid bailee who conveyed</b> a deposit <b>to an unpaid bailee, thereby decreasing</b> the level of <b>its safeguarding. Rather,</b> this is the <i>halakha</i> <b>even</b> in the case of <b>an unpaid bailee who conveyed</b> a deposit <b>to a paid bailee,</b> thereby increasing the level of its safeguarding; he is <b>liable.</b>",
+                  "The reason he is liable is <b>that</b> the owner of the deposit <b>can say to him: You are credible to me with regard to</b> taking <b>an oath,</b> but <b>this</b> other bailee, to whom you conveyed my item, <b>is not credible to me with regard to</b> taking <b>an oath.</b> If an occurrence for which a bailee does not carry liability occurs, damaging the deposit, in order to release himself from an obligation to pay the bailee must take an oath to the item’s owner that none of the types of occurrences for which he bears liability occurred. Rava rules that the owner is required to accept an oath only from the bailee with whom he entrusted his item, but not from anyone else. Accordingly, since the first bailee was not present when the event occurred, he is unable to attest to what happened, and even if the second bailee takes an oath to that effect, the owner is not expected to accept his oath. Consequently, the first bailee bears full liability for any loss.",
+                  "The Gemara cites another <i>halakha</i> taught by Ulla, citing Rabbi Elazar: <b>And Ulla says</b> that <b>Rabbi Elazar says: The <i>halakha</i></b> is that <b>one can collect from</b> the debtor <b>the slaves</b> that he owns as payment for a debt.",
+                  "<b>Rav Naḥman said to Ulla:</b> Did <b>Rabbi Elazar say</b> that this <i>halakha</i> applies <b>even</b> when collecting <b>from</b> a debtor’s <b>orphans?</b> A creditor can collect the debt from orphans only by taking the land the debtor bequeathed to his children. Rav Naḥman asked whether this also extends to collecting any slaves the children inherited. Ulla replied: <b>No,</b> a creditor collects a debt by taking slaves only when he collects directly <b>from</b> the debtor himself. Rav Naḥman challenges this: But when the creditor collects <b>from him,</b> he can collect the debt <b>even from the cloak that is upon his shoulders,</b> and therefore he can certainly also collect the debt by taking his slaves, so what is the novelty of this ruling?",
+                  "Ulla explains: <b>With what are we dealing here?</b> We are dealing with a case in <b>which</b> the debtor <b>set aside</b> his slave <b>as designated repayment [<i>appoteiki</i>].</b> Consequently, if the slave was subsequently sold to a third party and the debtor was later unable to repay the debt, the creditor can seize the slave from the third party as payment of the debt. Even though generally only land can be seized from a buyer as payment for the seller’s debt, a slave is considered to have similar status to land in this regard. This is <b>in accordance with</b> the opinion <b>of Rava, as Rava says:</b> If a master <b>set aside his slave</b> as <b>designated repayment</b> of a debt <b>and</b> then <b>sold him,</b> the master’s <b>creditor collects</b> the debt <b>by</b> taking the slave; but if one set aside <b>his ox</b> as <b>designated repayment and</b> then <b>sold it,</b> the <b>creditor does not collect</b> the debt <b>by</b> taking the ox.",
+                  "The Gemara asks: <b>What is the reason</b> for this difference? The Gemara explains: The designation of <b>this</b> slave generates <b>publicity,</b> since a slave is significant and identifiable, therefore any prospective buyer is assumed to have been aware of the status of the slave and accepted the consequences of purchasing him. <b>But</b> the designation of <b>this</b> ox <b>does not</b> generate <b>publicity,</b> since one ox is not easily distinguishable from another, and a buyer cannot be assumed to be aware that the ox was set aside as designated repayment. Therefore it is unfair that one who purchases such an ox should have it seized from him. Therefore, the Sages enacted that a creditor cannot do so."
+                ],
+                [
+                  "The Gemara relates: <b>After</b> Rav Naḥman <b>exited</b> the study hall, <b>Ulla said to</b> the remaining Sages in the study hall: In truth, <b>this</b> is what <b>Rabbi Elazar said:</b> A slave can be collected as payment <b>even</b> when collecting <b>from</b> the debtor’s <b>orphans.</b> Generally, when collecting a debt from the debtor’s orphans the creditor can collect only from the land that they inherited from their father, which is liened to the debt. Rabbi Elazar rules that a creditor can also collect from the slaves they inherited, as he holds that in this regard, the legal status of slaves is like that of land. Ulla did not reveal this fact to Rav Naḥman, as he knew that Rav Naḥman disagreed and held that the legal status of slaves is like that of movable property. When he heard of Ulla’s revelation, <b>Rav Naḥman said: Ulla evaded me,</b> as had he told me Rabbi Elazar’s full opinion, I would have brought proofs against his opinion.",
+                  "The Gemara relates: <b>There was an incident in Neharde’a, and the judges of Neharde’a collected,</b> on behalf of a creditor, slaves that orphans had inherited from the debtor. <b>There was an incident in Pumbedita, and Rav Ḥana bar Bizna collected</b> slaves from orphans as repayment for a debt. <b>Rav Naḥman said to</b> those judges: <b>Go and return</b> those slaves to the orphans, <b>and if</b> you do <b>not</b> do so, <b>we will collect</b> the value of the slaves <b>from</b> the proceeds of <b>your own mansions</b> in order to compensate the orphans for their loss, as you have made an elementary mistake in your ruling and therefore you are responsible to rectify it.",
+                  "<b>Rava said to Rav Naḥman: There is Ulla, there is Rabbi Elazar, there are the judges of Neharde’a, and there is Rav Ḥana bar Bizna,</b> all of whom ruled based on the assumption that the legal status of slaves is like that of land. <b>In accordance with whose</b> opinion <b>does the Master,</b> i.e., you, Rav Naḥman, <b>hold?</b>",
+                  "Rav Naḥman <b>said to him: I know a <i>baraita</i></b> that supports my opinion, <b>as Avimi teaches: A document that prevents the Sabbatical Year from abrogating an outstanding debt [<i>prosbol</i>] takes effect upon</b> a debt assumed by one who owns <b>land, but</b> a <i>prosbol</i> <b>does not take effect upon</b> a debt assumed by one who owns <b>slaves</b> of the debtor. And <b>movable property is acquired together with the land</b> one acquires through the act of acquisition performed on the land, <b>but</b> movable property <b>cannot be acquired together with the slaves</b> that one acquires. Both <i>halakhot</i> assume that in these cases the legal status of slaves is not like that of land.",
+                  "The Gemara suggests: <b>Let us say</b> that this issue is the <b>subject of</b> a dispute between <b><i>tanna’im</i></b> in the following <i>baraitot</i>.",
+                  "One <i>baraita</i> teaches: If <b>one sold slaves and land to</b> a buyer and the buyer <b>took possession of the slaves</b> alone, he <b>does not</b> thereby <b>acquire</b> the <b>land.</b> If he took possession <b>of the land</b> alone, he <b>does not</b> thereby <b>acquire</b> the <b>slaves.</b> If one sold <b>land and movable property to</b> a buyer and the buyer <b>took possession of the land</b> alone, he thereby also <b>acquires the movable property.</b> If he took possession <b>of the movable property</b> alone, he <b>does not</b> thereby <b>acquire the land.</b> If one sold <b>slaves and movable property to</b> a buyer and the buyer <b>took possession of the slaves</b> alone, he <b>does not</b> thereby <b>acquire the movable property.</b> If he took possession <b>of the movable property</b> alone, he <b>does not</b> thereby <b>acquire the slaves.</b>",
+                  "<b>But isn’t it taught</b> in another <i>baraita</i>: If the buyer <b>took possession of the slaves</b> alone, he thereby also <b>acquires the movable property?</b> This directly contradicts the ruling in the parallel clause of the previous <i>baraita</i>.",
+                  "<b>What, is it not</b> the case <b>that it is about this</b> that <b>they disagree, that</b> one <b>Sage,</b> the <i>tanna</i> of the second <i>baraita</i>, <b>holds</b> that the legal status of <b>slaves is like</b> that of <b>land,</b> and the other <b>Sage,</b> the <i>tanna</i> of the first <i>baraita</i>, <b>holds</b> that the legal status of <b>slaves is like</b> that of <b>movable property?</b>",
+                  "The Gemara rejects this: <b>Rav Ika, son of Rav Ami, said: According to everyone,</b> the legal status of <b>slaves is</b> generally <b>like</b> that of <b>land, and</b> therefore, <b>that which is taught</b> in the second <i>baraita</i>, that by taking possession of the slaves <b>he</b> also <b>acquires</b> the movable property, is <b>properly</b> understood. <b>And that which is taught</b> in the first <i>baraita</i>, that in such a case he <b>does not acquire</b> the movable property, the reason for this ruling is that the <i>tanna</i> of that <i>baraita</i> holds that in order for movable property to be acquired together with land, <b>we require</b> that he acquire <b>land similar to “fortified cities in Judea”</b> (II Chronicles 21:3), <b>which do not move around.</b> Slaves, even if their legal status is generally like that of land, do not fulfill this requirement.",
+                  "The reason behind the need for land to be like the “fortified cities in Judea” is that the <i>halakha</i> that one can acquire movable property together with land is derived from this verse, <b>as we learned</b> in a mishna (<i>Kiddushin</i> 26a): <b>Property that does not serve as a guarantee,</b> i.e., movable property, <b>is acquired together with property that does serve as a guarantee,</b> i.e., land, be it <b>through</b> the buyer giving <b>money</b> to the seller, by the seller giving the buyer <b>a bill</b> of sale, <b>or by</b> the buyer performing an act of <b>taking possession.</b> The Gemara asks: <b>From where is this matter</b> derived? <b>Ḥizkiyya said: As the verse states: “And their father gave them great gifts, of silver, and of gold, and of precious things, with fortified cities in Judea”</b> (II Chronicles 21:3). The verse indicates that the acquisition of the movable property was done together with that of the cities of Judea.",
+                  "<b>There are</b> those <b>who say</b> that Rav Ika stated a different answer: <b>Rav Ika, son of Rav Ami, said: According to everyone,</b> the legal status of <b>slaves is</b> generally <b>like</b> that of <b>movable property, and</b> therefore, <b>that which is taught</b> in the first <i>baraita</i>, that by taking possession of the slaves <b>he does not</b> also <b>acquire</b> the movable property, is <b>properly</b> understood. <b>And that which is taught</b> in the second <i>baraita</i>, that in such a case he <b>acquires</b> the movable property, applies to a case in which at the moment the slave was acquired, the movable property was <b>still upon him,</b> e.g., the slave was holding it, and it could therefore be acquired together with the slave. This is because one’s slave is considered like one’s courtyard, and any item that is placed within it is acquired for its owner.",
+                  "The Gemara asks: <b>But even if</b> the movable property was <b>still upon him, what of it?</b> Even if one claims a slave is like a courtyard, he <b>is a mobile courtyard, and a mobile courtyard does not acquire</b> items placed upon it. <b>And if you would say</b> that the case is one <b>where the slave is standing</b> at the time of the transaction, that is still insufficient, as <b>didn’t Rava say: Anything that does not acquire when moving</b> also <b>does not acquire</b> when it is <b>standing or sitting.</b> The fact that the slave can move gives him the status of a mobile courtyard, regardless if he is currently moving or not.",
+                  "The Gemara concludes: <b>And the <i>halakha</i> is</b> that <b>where</b> a slave is <b>bound up</b> and is unable to walk, his status is like that of an immobile courtyard, and his master will acquire anything that is placed upon him at that time.",
+                  "The Gemara presents another contradiction to the first <i>baraita</i> cited above, which explicitly states that one cannot acquire slaves by taking possession of land: <b>But isn’t it taught</b> in another <i>baraita</i>: If <b>he took possession of the land</b> alone, he thereby also <b>acquires</b> the <b>slaves?</b>",
+                  "The Gemara resolves the contradiction: <b>There,</b> in the <i>baraita</i> just cited, the case is one <b>where</b> the slaves <b>are standing within</b> the borders of the land that was acquired.",
+                  "The Gemara notes: <b>By inference,</b> the ruling of <b>this</b> first <i>baraita</i>, which states that <b>he does not acquire</b> the slaves, is stated with regard to a case <b>where they are not standing within</b> the borders of the land that was acquired.",
+                  "<b>This works out well according to that</b> second <b>formulation of</b> that which <b>Rav Ika, son of Rav Ami, said,</b> that the legal status of <b>slaves is like</b> that of <b>movable property. This is</b> the reason <b>that if</b> the slaves <b>are standing within</b> the borders of the land, <b>yes,</b> they are acquired together with the land, but <b>if not, no,</b> they are not acquired. The Gemara assumes that movable property is acquired together with land only if at the time of the acquisition it is placed upon the land.",
+                  "<b>But according to that</b> first <b>formulation</b> of that which Rav Ika, son of Rav Ami, <b>said, that</b> the legal status of <b>slaves is like</b> that of <b>land, why do I</b> need the slaves to be <b>standing within</b> the borders of the land? As <b>doesn’t Shmuel say:</b> If someone <b>sold him ten fields,</b> located <b>in ten</b> different <b>countries, once he takes possession of one of them, he has acquired all of them?</b> If the legal status of slaves is like that of land, then the same principle should apply to them, and it should be unnecessary for them to be standing within the land’s borders.",
+                  "The Gemara reconsiders: <b>But</b> even <b>according to your reasoning,</b> one can ask: <b>According to</b> the second <b>formulation of</b> that which Rav Ika, son of Rav Ami, <b>said, that</b> the legal status of <b>slaves is like</b> that of <b>movable property, why do I</b> need the slaves to be <b>standing within</b> the borders of the land?"
+                ],
+                [
+                  "Don’t <b>we maintain</b> that the <i>halakha</i> is <b>that we do not need</b> movable property <b>to be piled up</b> upon the land one acquires in order to acquire the movable property together with it?",
+                  "<b>Rather, what have you to say?</b> Perforce, <b>movable property that moves around</b> by itself, such as slaves, <b>is different from movable property that does not move around</b> by itself, i.e., inanimate objects. The <i>halakha</i> that movable property does not need to be piled up upon the land applies only to the latter. Accordingly, in order to acquire slaves together with land, they must be standing within its borders.",
+                  "Given this distinction, one can say that <b>here, also,</b> an entity legally classified as <b>land that moves around,</b> such as a slave, <b>is different from land that does not move around.</b> Accordingly, <b>a slave,</b> which is classified as <b>land that moves around,</b> is not included in Shmuel’s ruling, as in his ruling <b>there,</b> he refers only to acquiring multiple plots of land, which is possible only because the <b>crust [<i>sadna</i>] of the earth is one</b> block, and therefore each field is really only one part of a bigger whole. This rationale does not permit acquiring land and slaves together, as a slave is not attached to the earth and is separate from the land."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Kamma 11a:14",
+                "Bava Kamma 11a:15",
+                "Bava Kamma 11a:16",
+                "Bava Kamma 11a:17",
+                "Bava Kamma 11a:18",
+                "Bava Kamma 11a:19",
+                "Bava Kamma 11b:1",
+                "Bava Kamma 11b:2",
+                "Bava Kamma 11b:3",
+                "Bava Kamma 11b:4",
+                "Bava Kamma 11b:5",
+                "Bava Kamma 11b:6",
+                "Bava Kamma 11b:7",
+                "Bava Kamma 11b:8",
+                "Bava Kamma 11b:9",
+                "Bava Kamma 11b:10",
+                "Bava Kamma 11b:11",
+                "Bava Kamma 11b:12",
+                "Bava Kamma 11b:13",
+                "Bava Kamma 11b:14",
+                "Bava Kamma 12a:1",
+                "Bava Kamma 12a:2",
+                "Bava Kamma 12a:3",
+                "Bava Kamma 12a:4",
+                "Bava Kamma 12a:5",
+                "Bava Kamma 12a:6",
+                "Bava Kamma 12a:7",
+                "Bava Kamma 12a:8",
+                "Bava Kamma 12a:9",
+                "Bava Kamma 12a:10",
+                "Bava Kamma 12a:11",
+                "Bava Kamma 12a:12",
+                "Bava Kamma 12a:13",
+                "Bava Kamma 12a:14",
+                "Bava Kamma 12a:15",
+                "Bava Kamma 12a:16",
+                "Bava Kamma 12a:17",
+                "Bava Kamma 12a:18",
+                "Bava Kamma 12a:19",
+                "Bava Kamma 12b:1",
+                "Bava Kamma 12b:2",
+                "Bava Kamma 12b:3"
+              ],
+              "he": [
+                [
+                  "וְאָמַר עוּלָּא אָמַר רַבִּי אֶלְעָזָר: שִׁלְיָא שֶׁיָּצְתָה מִקְצָתָהּ בְּיוֹם רִאשׁוֹן וּמִקְצָתָהּ בְּיוֹם שֵׁנִי, מוֹנִין לָהּ מִן הָרִאשׁוֹן.",
+                  "אֲמַר לֵיהּ רָבָא: מָה דַעְתָּךְ, לְחוּמְרָא?!",
+                  "חוּמְרָא דְּאָתֵי לִידֵי קוּלָּא הוּא – דְּקָא מְטַהֲרַתְּ לַהּ מֵרִאשׁוֹן!",
+                  "אֶלָּא אָמַר רָבָא: לָחוֹשׁ – חוֹשֶׁשֶׁת; מִימְנָא לָא <span class=\"parenthesized\">(מ)</span>מָנְיָא אֶלָּא לְשֵׁנִי.",
+                  "מַאי קָא מַשְׁמַע לַן – דְּאֵין מִקְצָת שִׁלְיָא בְּלֹא וָלָד? תְּנֵינָא: שִׁלְיָא שֶׁיָּצְתָה מִקְצָתָהּ – אֲסוּרָה בַּאֲכִילָה; סִימָן וָלָד בְּאִשָּׁה, סִימָן וָלָד בִּבְהֵמָה!",
+                  "אִי מִמַּתְנִיתָא, הֲוָה אָמֵינָא"
+                ],
+                [
+                  "דְּיֵשׁ מִקְצָת שִׁלְיָא בְּלֹא וָלָד, וּגְזֵירָה מִקְצָתַהּ אַטּוּ כּוּלַּהּ; קָא מַשְׁמַע לַן.",
+                  "וְאָמַר עוּלָּא אָמַר רַבִּי אֶלְעָזָר: בְּכוֹר שֶׁנִּטְרַף בְּתוֹךְ שְׁלֹשִׁים יוֹם – אֵין פּוֹדִין אוֹתוֹ.",
+                  "וְכֵן תָּנֵי רָמֵי בַּר חָמָא, מִתּוֹךְ שֶׁנֶּאֱמַר: ״פָּדֹה תִפְדֶּה״, יָכוֹל אֲפִילּוּ נִטְרַף בְּתוֹךְ שְׁלֹשִׁים יוֹם? תַּלְמוּד לוֹמַר: ״אַךְ״ – חִלֵּק.",
+                  "וְאָמַר עוּלָּא אָמַר רַבִּי אֶלְעָזָר: בְּהֵמָה גַּסָּה נִקְנֵית בִּמְשִׁיכָה.",
+                  "וְהָא אֲנַן תְּנַן בִּמְסִירָה! הוּא דְּאָמַר – כִּי הַאי תַּנָּא: דְּתַנְיָא, וַחֲכָמִים אוֹמְרִים: זוֹ וָזוֹ בִּמְשִׁיכָה. רַבִּי שִׁמְעוֹן אוֹמֵר: זוֹ וָזוֹ בְּהַגְבָּהָה.",
+                  "וְאָמַר עוּלָּא אָמַר רַבִּי אֶלְעָזָר: הָאַחִין שֶׁחָלְקוּ, מַה שֶּׁעֲלֵיהֶן – שָׁמִין, וּמַה שֶּׁעַל בְּנֵיהֶן וּבְנוֹתֵיהֶן – אֵין שָׁמִין.",
+                  "אָמַר רַב פָּפָּא: פְּעָמִים אַף מַה שֶּׁעֲלֵיהֶן אֵין שָׁמִין – מַשְׁכַּחַתְּ לַהּ בִּגְדוֹל אַחֵי, דְּנִיחָא לְהוּ דְּלִשְׁתַּמְעוּן מִילֵּיהּ.",
+                  "וְאָמַר עוּלָּא אָמַר רַבִּי אֶלְעָזָר: שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר – פָּטוּר. וְלָא מִיבַּעְיָא שׁוֹמֵר חִנָּם שֶׁמָּסַר לְשׁוֹמֵר שָׂכָר – דְּעַלּוֹיֵי עַלְּיַיהּ לִשְׁמִירָתוֹ; אֶלָּא אֲפִילּוּ שׁוֹמֵר שָׂכָר שֶׁמָּסַר לְשׁוֹמֵר חִנָּם – דְּהַשְׁתָּא גָּרוֹעֵי גָּרְעַיהּ לִשְׁמִירָתוֹ, נָמֵי פָּטוּר, שֶׁהֲרֵי מָסַר לְבֶן דַּעַת.",
+                  "רָבָא אָמַר: שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר – חַיָּיב. וְלָא מִיבַּעְיָא שׁוֹמֵר שָׂכָר שֶׁמָּסַר לְשׁוֹמֵר חִנָּם – דְּגָרוֹעֵי גָּרְעַיהּ לִשְׁמִירָתוֹ; אֶלָּא אֲפִילּוּ שׁוֹמֵר חִנָּם שֶׁמָּסַר לְשׁוֹמֵר שָׂכָר – חַיָּיב,",
+                  "דְּאָמַר לֵיהּ: אַתְּ מְהֵימְנַתְּ לִי בִּשְׁבוּעָה, הַאי לָא מְהֵימַן לִי בִּשְׁבוּעָה.",
+                  "וְאָמַר עוּלָּא אָמַר רַבִּי אֶלְעָזָר, הִלְכְתָא: גּוֹבִין מִן הָעֲבָדִים.",
+                  "אֲמַר לֵיהּ רַב נַחְמָן לְעוּלָּא: אָמַר רַבִּי אֶלְעָזָר אֲפִילּוּ מִיַּתְמֵי? לָא, מִינֵּיהּ. מִינֵּיהּ?! אֲפִילּוּ מִגְּלִימָא דְּעַל כַּתְפֵּיהּ!",
+                  "הָכָא בְּמַאי עָסְקִינַן – שֶׁעֲשָׂאוֹ אַפּוֹתֵיקֵי. כִּדְרָבָא, דְּאָמַר רָבָא: עָשָׂה עַבְדּוֹ אַפּוֹתֵיקֵי, וּמְכָרוֹ – בַּעַל חוֹב גּוֹבֶה הֵימֶנּוּ. שׁוֹרוֹ אַפּוֹתֵיקֵי, וּמְכָרוֹ – אֵין בַּעַל חוֹב גּוֹבֶה הֵימֶנּוּ.",
+                  "מַאי טַעְמָא? הָא אִית לֵיהּ קָלָא, וְהָא לֵית לֵיהּ קָלָא."
+                ],
+                [
+                  "לְבָתַר דִּנְפַק, אֲמַר לְהוּ עוּלָּא, הָכִי אָמַר רַבִּי אֶלְעָזָר: אֲפִילּוּ מִיַּתְמֵי. אָמַר רַב נַחְמָן: אִשְׁתְּמִיטַן עוּלָּא.",
+                  "הֲוָה עוֹבָדָא בִּנְהַרְדְּעָא, וְאַגְבּוֹ דַּיָּינֵי דִנְהַרְדְּעָא. הֲוָה עוֹבָדָא בְּפוּמְבְּדִיתָא, וְאַגְבְּיֵהּ רַב חָנָא בַּר בִּיזְנָא. אֲמַר לְהוּ רַב נַחְמָן: זִילוּ אַהֲדוּרוּ, וְאִי לָא – מַגְבִּינַן לְכוּ לְאַפַּדְנַיְיכוּ.",
+                  "אֲמַר לֵיהּ רָבָא לְרַב נַחְמָן: הָא עוּלָּא, הָא רַבִּי אֶלְעָזָר, הָא דַּיָּינֵי דִנְהַרְדְּעָא וְהָא רַב חָנָא בַּר בִּיזְנָא; מָר – כְּמַאן סְבִירָא לֵיהּ?",
+                  "אֲמַר לֵיהּ: אֲנָא מַתְנִיתָא יָדַעְנָא – דְּתָנֵי אֲבִימִי: פְּרוֹזְבּוּל חָל עַל הַקַּרְקַע, וְאֵינוֹ חָל עַל הָעֲבָדִים. מִטַּלְטְלִין נִקְנִין עִם הַקַּרְקַע, וְאֵינָן נִקְנִין עִם הָעֲבָדִים.",
+                  "לֵימָא כְּתַנָּאֵי –",
+                  "מָכַר לוֹ עֲבָדִים וְקַרְקָעוֹת; הֶחְזִיק בַּעֲבָדִים – לֹא קָנָה קַרְקָעוֹת, בְּקַרְקָעוֹת – לֹא קָנָה עֲבָדִים. קַרְקָעוֹת וּמִטַּלְטְלִין; הֶחְזִיק בְּקַרְקַע – קָנָה מִטַּלְטְלִין, בְּמִטַּלְטְלִין – לֹא קָנָה קַרְקַע. עֲבָדִים וּמִטַּלְטְלִין; הֶחְזִיק בַּעֲבָדִים – לֹא קָנָה מִטַּלְטְלִין, בְּמִטַּלְטְלִין – לֹא קָנָה עֲבָדִים.",
+                  "וְהָתַנְיָא: הֶחְזִיק בַּעֲבָדִים – קָנָה מִטַּלְטְלִין!",
+                  "מַאי, לָאו בְּהָא קָמִפַּלְגִי – דְּמָר סָבַר: עֲבָדִים כִּמְקַרְקְעֵי דָּמֵי, וּמָר סָבַר: עֲבָדִים כְּמִטַּלְטְלִין דָּמֵי?",
+                  "אָמַר רַב אִיקָא בְּרֵיהּ דְּרַב אַמֵּי: דְּכוּלֵּי עָלְמָא – עֲבָדִים כִּמְקַרְקְעֵי דָּמֵי. וְהָדְתַנְיָא קָנָה – שַׁפִּיר; וְהָדְתַנְיָא לֹא קָנָה – בָּעֵינַן קַרְקַע דֻּומְיָא דְּ״עָרִים מְצוּרוֹת בִּיהוּדָה״ – דְּלָא נָיְידִי.",
+                  "דִּתְנַן: נְכָסִים שֶׁאֵין לָהֶם אַחְרָיוּת נִקְנִין עִם נְכָסִים שֶׁיֵּשׁ לָהֶם אַחְרָיוּת – בְּכֶסֶף, בִּשְׁטָר וּבַחֲזָקָה. מְנָהָנֵי מִילֵּי? אָמַר חִזְקִיָּה, דְּאָמַר קְרָא: ״וַיִּתֵּן לָהֶם אֲבִיהֶם מַתָּנוֹת רַבּוֹת לְכֶסֶף וּלְזָהָב וּלְמִגְדָּנוֹת, עִם עָרֵי מְצֻרוֹת בִּיהוּדָה״.",
+                  "אִיכָּא דְּאָמְרִי, אָמַר רַב אִיקָא בְּרֵיהּ דְּרַב אַמֵּי: דְּכוּלֵּי עָלְמָא – עַבְדֵי כְּמִטַּלְטְלִין דָּמֵי. וְהָדְתַנְיָא לֹא קָנָה – שַׁפִּיר; הָא דְּתַנְיָא קָנָה – בְּעוֹדָן עָלָיו.",
+                  "וְכִי עוֹדָן עָלָיו מַאי הָוֵי? חָצֵר מְהַלֶּכֶת הִיא, וְחָצֵר מְהַלֶּכֶת – לֹא קָנָה! וְכִי תֵּימָא בְּעוֹמֵד, וְהָא אָמַר רָבָא: כֹּל שֶׁאִילּוּ מְהַלֵּךְ לֹא קָנָה – עוֹמֵד וְיוֹשֵׁב לֹא קָנָה!",
+                  "וְהִלְכְתָא בְּכָפוּת.",
+                  "וְהָתַנְיָא: הֶחְזִיק בְּקַרְקַע – קָנָה עֲבָדִים!",
+                  "הָתָם בְּעוֹמְדִין בְּתוֹכָהּ.",
+                  "מִכְּלָל דְּהַאי ״לֹא קָנָה״ – כְּשֶׁאֵין עוֹמְדִין בְּתוֹכָהּ?",
+                  "הָנִיחָא לְהָךְ לִישָּׁנָא דְּאָמַר רַב אִיקָא בְּרֵיהּ דְּרַב אַמֵּי: עַבְדָּא כְּמִטַּלְטְלִי דָּמֵי; הַיְינוּ דְּאִי עוֹמְדִין בְּתוֹכָהּ – אִין, אִי לָא – לָא.",
+                  "אֶלָּא לְהָךְ לִישָּׁנָא דְּאָמַר: עַבְדָּא כִּמְקַרְקְעֵי דָּמֵי; לְמָה לִי עוֹמְדִין בְּתוֹכָהּ? הָא אָמַר שְׁמוּאֵל: מָכַר לוֹ עֶשֶׂר שָׂדוֹת בְּעֶשֶׂר מְדִינוֹת, כֵּיוָן שֶׁהֶחְזִיק בְּאַחַת מֵהֶן – קָנָה כּוּלָּן!",
+                  "וְלִיטַעְמָיךְ, לְהָךְ לִישָּׁנָא דְּאָמַר: עַבְדָּא כְּמִטַּלְטְלִין דָּמֵי; לְמָה לִי עוֹמֵד בְּתוֹכָהּ?"
+                ],
+                [
+                  "הָא קַיְימָא לַן דְּלָא בָּעֵינַן צְבוּרִין!",
+                  "אֶלָּא מַאי אִית לָךְ לְמֵימַר – שָׁאנֵי מִטַּלְטְלִי דְּנָיְידִי מִמִּטַּלְטְלִי דְּלָא נָיְידִי;",
+                  "הָכָא נָמֵי, שָׁאנֵי מְקַרְקְעֵי דְּנָיְידִי מִמְּקַרְקְעֵי דְּלָא נָיְידִי. עַבְדָּא – מְקַרְקְעֵי דְּנָיְידִי הוּא, הָתָם – סַדָּנָא דְאַרְעָא חַד הוּא."
+                ]
+              ],
+              "link": "/Bava Kamma/12a",
+              "originalRefsBeforeRewriting": [
+                "Bava Kamma 12a:2"
+              ],
+              "ref": "Bava Kamma 11a:14-12b:3",
+              "sourceHeRef": "בבא קמא י״ב א",
+              "sourceRef": "Bava Kamma 12a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הוה עובדא ודון דייני</strong> - לזון מן המטלטלין:",
+              "ref": "Rashi on Ketubot 50b:7:1",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:ז:א",
+              "sourceRef": "Rashi on Ketubot 50b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מספרים: <b>הוה עובדא</b> <span class=\"hebrew-emphasis\">[היה מעשה]</span> <b>ב</b>עיר <b>נהרדעא,</b> שבאה בעיה כזו של מזונות הבת לפני בית הדין <b>ודון</b> <span class=\"hebrew-emphasis\">[ודנו]</span> אותו <b>דייני</b> העיר <b>נהרדעא,</b> וכן היה מעשה <b>ב</b>עיר <b>פומבדיתא ואגבי</b> <span class=\"hebrew-emphasis\">[והגבה]</span> את הסכום הזה מן המטלטלים <b>רב חנא בר ביזנא. אמר להו</b> <span class=\"hebrew-emphasis\">[להם]</span> <b>רב נחמן</b> לדיינים: <b>זילו אהדרו</b> <span class=\"hebrew-emphasis\">[לכו</span> ו<span class=\"hebrew-emphasis\">החזירו]</span> את מה שהוצאתם מרכוש היתומים, <b>ואי</b> <span class=\"hebrew-emphasis\">[ואם]</span> <b>לא — מגבינא לכו לאפדנייכו מינייכו</b> <span class=\"hebrew-emphasis\">[אגבה אני את בתיכם מכם],</span> שדיינים שדנו שלא כדין גובים מהם כדי לשלם את הנזק שגרמו.",
+              "ref": "Steinsaltz on Ketubot 50b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:ז",
+              "sourceRef": "Steinsaltz on Ketubot 50b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מלשון תקיפה זו משמע (וכדברי התוס' ד\"ה אמר) שסבר רב נחמן שדיינים אלה טעו בדבר משנה, שבכגון זה מחזירים את הדין. ויש שאומרים שרב נחמן סבר כי המחלוקת בענין כתובת בנין דיכרין אם נגבית ממטלטלים יש לה הכרעה לפי כללי ההלכה, וממנה עולה כי אינה אלא בקרקע בלבד, ומשום כך דברי רב המנונא הם פשוטים ביותר והטועה בהם הוא כטועה בדבר משנה. ולענין לשונו שאם לא יחזירו את הדין יגבה את הסכום מבתיהם, יש אומרים שסבר כר' מאיר שמשום דיני דגרמי הדיין הוא שגרם להיזק ומחוייב בתשלום (ראה בתוס' סנהדרין לג, א ד\"ה השתא). ולשיטת הרמב\"ם שבכגון זה אין מחייבים את הדיין לשלם את הנזק, יש לומר שאמר דברים אלה רק כדי להפחידם (ברכת אברהם).",
+              "ref": "Steinsaltz comment #1 on Ketubot 50b:7",
+              "sourceHeRef": "מגבינא לכו לאפדנייכו וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר להו זילו אהדרו כו'</strong> - טועין בדבר משנה חשיב להו רב נחמן והוא בעצמו היה יכול להחזיר הדין אלא שבעלי דינין לא היו שומעין לו כמו לדיינין לכך קאמר להו זילו אהדרו:",
+              "ref": "Tosafot on Ketubot 50b:7:1",
+              "sourceHeRef": "תוספות על כתובות נ׳ ב:ז:א",
+              "sourceRef": "Tosafot on Ketubot 50b:7:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates: <b>There was an incident</b> of this kind that came before the court <b>in Neharde’a, and the judges of Neharde’a ruled</b> that the daughters must be supported from the movable property that their father had left. Likewise, a case occurred <b>in Pumbedita, and <span href=\"/topics/rabbi-chana-b-bizna\" class=\"namedEntityLink\" data-slug=\"rabbi-chana-b-bizna\">Rav Ḥana bar Bizna</span> collected</b> the sum from movable property. <b><span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> said to</b> the judges: <b>Go reverse</b> your decisions, <b>and if not, I will collect your houses [<i>appadnaikhu</i>] from you</b> in order to compensate those you ruled against.",
+      "he": "הֲוָה עוֹבָדָא בִּנְהַרְדְּעָא, וְדוּן דַּיָּינֵי דִנְהַרְדְּעָא. בְּפוּמְבְּדִיתָא, וְאַגְבִּי רַב חָנָא בַּר בִּיזְנָא. אֲמַר לְהוּ רַב נַחְמָן: זִילוּ אַהְדַּרוּ, וְאִי לָא — מַגְבֵּינָא לְכוּ לְאַפַּדְנַיְיכוּ מִינַּיְיכוּ.",
+      "ref": "Ketubot 50b:7"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מסופר: <b>ר' אמי ור' אסי סבור למיזן ממטלטלי</b> <span class=\"hebrew-emphasis\">[חשבו לזון</span> את הבנות היתומות <span class=\"hebrew-emphasis\">מן המטלטלים]</span> שהשאיר אביהן, <b>אמר להו</b> <span class=\"hebrew-emphasis\">[להם]</span> <b>ר' יעקב בר אידי: מילתא</b> <span class=\"hebrew-emphasis\">[דבר]</span> ש<b>ר' יוחנן וריש לקיש לא עבדו</b> <span class=\"hebrew-emphasis\">[עשו]</span> <b>בה עובדא</b> <span class=\"hebrew-emphasis\">[מעשה]</span> <b>אתון עבדין</b> <span class=\"hebrew-emphasis\">[אתם עושים]</span> <b>בה עובדא</b> <span class=\"hebrew-emphasis\">[מעשה]?!</span> שאם חכמים גדולים אלה לא היו בטוחים מה הדין, ולא הגיעו בו לכלל מעשה, האם ייתכן שאתם תחליטו בו?!",
+              "ref": "Steinsaltz on Ketubot 50b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:ח",
+              "sourceRef": "Steinsaltz on Ketubot 50b:8"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara further relates: <b><span href=\"/topics/rabbi-ami-and-rabbi-asi\" class=\"namedEntityLink\" data-slug=\"rabbi-ami-and-rabbi-asi\">Rabbi Ami and Rabbi Asi</span> thought</b> to issue a ruling requiring a man’s heirs <b>to sustain</b> his daughters <b>from</b> the man’s <b>movable property. <span href=\"/topics/rabbi-yaakov-b-idi\" class=\"namedEntityLink\" data-slug=\"rabbi-yaakov-b-idi\">Rabbi Ya’akov bar Idi</span> said to them:</b> This is <b>a matter</b> about <b>which <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-shimon-b-lakish\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-lakish\">Reish Lakish</span> did not take action,</b> i.e., they did not issue a ruling to this effect; will <b>you take action in</b> this regard? If those great Sages were not sure enough of the <i>halakha</i> to issue a practical ruling, how can you do so?",
+      "he": "<span href=\"/topics/rabbi-ami-and-rabbi-asi\" class=\"namedEntityLink\" data-slug=\"rabbi-ami-and-rabbi-asi\">רַבִּי אַמֵּי וְרַבִּי אַסִּי</span> סְבוּר לְמֵיזַן מִמִּטַּלְטְלֵי. אֲמַר לְהוּ רַבִּי יַעֲקֹב בַּר אִידִי: מִילְּתָא דְּרַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ לָא עֲבַדוּ בָּהּ עוֹבָדָא אַתּוּן עָבְדִין בַּהּ עוֹבָדָא?!",
+      "ref": "Ketubot 50b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רַחֲמָנוּת</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, רַחֲמָן ² 1\" href=\"/Jastrow,_רַחֲמָן ².1\">preceding</span>) <i>love, mercifulness, compassion</i>. <span class=\"refLink\" data-ref=\"Sukkah 14a:9\" href=\"/Sukkah.14a.9\">Sukkah 14ᵃ</span> <span dir=\"rtl\">מדת ר׳</span> divine mercy, opposed <span class=\"refLink\" data-ref=\"Jastrow, אַכְזְרִיּוּת 1\" dir=\"rtl\" href=\"/Jastrow,_אַכְזְרִיּוּת.1\">אכזריות</span>. <span class=\"refLink\" data-ref=\"Ketubot 50b:9\" href=\"/Ketubot.50b.9\">Ketubot 50ᵇ</span> יודע אני … אלא מידת ר׳ I know that thou decidest so not as a matter of justice but as a matter of humanity. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 56\" href=\"/Bereishit_Rabbah.56\">Breishit Rabbah section (Parashah) 56</span> <span dir=\"rtl\">ונופלות … מרַחֲמָנוּתוֹ של אבא</span> and tears of paternal love fell upon Isaac’s eyes; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, רַחֲמָנוּת 1",
+              "sourceHeRef": "מילון יסטרוב, רַחֲמָנוּת א׳",
+              "sourceRef": "Jastrow, רַחֲמָנוּת 1"
+            }
+          ]
+        },
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שם</b> אלא מדת רחמנות כו'. נ\"ב נ\"ל פי' שהיה כופה בדברים ודו\"ק:",
+              "ref": "Chokhmat Shlomo on Ketubot 50b:2",
+              "sourceHeRef": "חכמת שלמה על כתובות נ׳ ב:ב",
+              "sourceRef": "Chokhmat Shlomo on Ketubot 50b:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וכן מסופר: <b>ר' אלעזר סבר למיזן</b> <span class=\"hebrew-emphasis\">[חשב לזון]</span> את הבנות <b>ממטלטלין. אמר לפניו ר' שמעון בן אליקים: רבי, יודע אני בך שאין מדת הדין אתה עושה,</b> שאין אתה נוהג כך משום שזו ההלכה, <b>אלא מדת רחמנות,</b> שאתה חס על הבנות הללו, ורוצה לפרנסן. <b>אלא,</b> אל תעשה זאת, <b>שמא יראו התלמידים ויקבעו הלכה לדורות,</b> ואין הלכה כן.",
+              "ref": "Steinsaltz on Ketubot 50b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:ט",
+              "sourceRef": "Steinsaltz on Ketubot 50b:9"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מעשה בר' ישמעאל ור' אלעזר בן עזריה שהיו שרויין במקום אחד, והיה ר' ישמעאל מוטה ור' אלעזר בן עזריה זקוף. הגיע זמן קרית שמע, נזקף ר' ישמעאל והטה ר' אלעזר בן עזריה. אמ' לו ר' ישמעאל, מה זה אלעזר. אמ' לו, ישמעאל אחי, לאחד או' לו מפני מה זקנך מגודל, והוא או' להם יהיה כנגד המשחיתים, אני שהייתי זקוף הטיתי, ואת שהייתה מוטה נזקפתה. אמ' לו אתה הטיתה לקיים דברי בית שמאי, ואני נזקפתי לקיים [דברי] בית הלל. דבר אחר שלא יראו התלמידים ויעשו קבע הלכה כדבריך.",
+              "ref": "Tosefta Berakhot (Lieberman) 1:4",
+              "sourceHeRef": "תוספתא ברכות (ליברמן) א:ד",
+              "sourceRef": "Tosefta Berakhot (Lieberman) 1:4"
+            },
+            {
+              "en": "It happened with Rebbi Yishmael and Rebbi Elazar Ben Azaryah that they were resting in the same place and Rebbi Yishmael was laying down and Rebbi Elazar Ben Azaryah was [standing up] straight. It came time to say Shema. Rebbi Yishmael stood up straight and Rebbi Elazar laid down. Said to him Rebbi Yishmael: “What is this Elazar?” He said [back] to him: “Yishmael, my brother! They say to a person, ‘Why is your beard all grown [so nice]?’ He said [back to them], ‘[it should be sent] against the destroyers’ (i.e. cut off by the scissors). [So too with us] I (Rebbi Elazar Ben Azaryah) who was straight, laid down, you that was laying down, stood up straight?” [So Rebbi Yishmael] said to him: “You laid down to fulfill the words of Bet Shamai, I stood up straight to fulfill the words of Bet Hillel. A different explanation, that the students should not see [that you did like Bet Shamai] and make your words [a] permanent [law].",
+              "he": "מעשה בר' ישמעאל ובר' אלעזר בן עזריה שהיו שרוין במקום אחד והיה ר' ישמעאל מוטה ור' אלעזר זקוף והגיע זמן ק\"ש ונזקף ר' ישמעאל והטה רבי אלעזר אמר לו רבי ישמעאל מה זה אלעזר אמר לו ישמעאל אחי אומרים לאחד מפני מה זקנך מגודל אמר להם יהיה כנגד המשחיתים אני שהייתי זקוף הטיתי אתה שהיית מוטה זקפת אמר לו אתה הטיתה [לקיים] כדברי בית שמאי אני נזקפתי לקיים דברי בית הלל ד\"א שלא יראו התלמידים ויקבעו כדבריך הלכה לדורות.",
+              "ref": "Tosefta Berakhot 1:6",
+              "sourceHeRef": "תוספתא ברכות א:ו",
+              "sourceRef": "Tosefta Berakhot 1:6"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates that <b><span href=\"/topics/rabbi-elazar-b-shamua\" class=\"namedEntityLink\" data-slug=\"רא-(ambiguous)\">Rabbi Elazar</span> thought</b> to issue a ruling requiring a man’s heirs <b>to sustain</b> his daughters <b>from</b> his <b>movable property. <span href=\"/topics/rabbi-shimon-b-eliyakim\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-eliyakim\">Rabbi Shimon ben Elyakim</span> said before him: My teacher, I know about you that you are not acting</b> according to <b>the letter of the law,</b> but <b>rather</b> out of <b>pity</b> for these daughters, who have no other source of support. <b>However,</b> you should still not do this, <b>lest the students observe and</b> mistakenly <b>establish</b> the <b><i>halakha</i></b> accordingly <b>for</b> future <b>generations.</b>",
+      "he": "<span href=\"/topics/rabbi-elazar-b-shamua\" class=\"namedEntityLink\" data-slug=\"רא-(ambiguous)\">רַבִּי אֶלְעָזָר</span> סָבַר לְמֵיזַן מִמִּטַּלְטְלִין. אָמַר לְפָנָיו רַבִּי שִׁמְעוֹן בֶּן אֶלְיָקִים: רַבִּי, יוֹדֵעַ אֲנִי בְּךָ שֶׁאֵין מִדַּת הַדִּין אַתָּה עוֹשֶׂה, אֶלָּא מִדַּת רַחְמָנוּת. אֶלָּא, שֶׁמָּא יִרְאוּ הַתַּלְמִידִים וְיִקְבְּעוּ הֲלָכָה לְדוֹרוֹת.",
+      "ref": "Ketubot 50b:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מתמרי דעל בודיא</strong> - שהן מטלטלין:",
+              "ref": "Rashi on Ketubot 50b:10:1",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:י:א",
+              "sourceRef": "Rashi on Ketubot 50b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בודיא</strong> - מחצלות שנותנין תחת הדקלין כשגודרין התמרים:",
+              "ref": "Rashi on Ketubot 50b:10:2",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:י:ב",
+              "sourceRef": "Rashi on Ketubot 50b:10:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אילו בעל חוב הוה</strong> - כלומר אפילו בעל חוב שיפה כחו לטרוף ממשועבדין אינו גובה ממטלטלין של יתומים וזו תגבה למזון הבנות שהורע כחן אצל משועבדים:",
+              "ref": "Rashi on Ketubot 50b:10:3",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:י:ג",
+              "sourceRef": "Rashi on Ketubot 50b:10:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מסופר: <b>ההוא דאתא לקמיה</b> <span class=\"hebrew-emphasis\">[אחד שבא לפני]</span> <b>רב יוסף</b> לשאול בנושא זה, <b>אמר להו</b> <span class=\"hebrew-emphasis\">[להם]</span> ליתומים: <b>הבו</b> <span class=\"hebrew-emphasis\">[תנו]</span> <b>לה</b> לבת <b>מתמרי דעל בודיא</b> <span class=\"hebrew-emphasis\">[מהתמרים ש</span>מונחים לייבוש <span class=\"hebrew-emphasis\">על המחצלות]</span> שהם מטלטלים גמורים, <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>אביי</b> לרב יוסף: <b>אילו בעל חוב הוה כי האי גוונא</b> <span class=\"hebrew-emphasis\">[היה, כגון זה],</span> <b>מי הוה יהיב ליה מר</b> <span class=\"hebrew-emphasis\">[האם היה נותן לו אדוני]?</span> כלומר, אפילו בעל חוב הטורף מנכסים משועבדים אינו גובה ממטלטלים שהם עכשיו נכסי היתומים, וכל שכן מזון הבנות, שאף הוא כעין חוב, שהרי הוא כתוב בשטר הכתובה, ובכל זאת אינן גובות מנכסים משועבדים, ודאי שאינן זכאיות ליטול ממטלטלים השייכים ליתומים!",
+              "ref": "Steinsaltz on Ketubot 50b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:י",
+              "sourceRef": "Steinsaltz on Ketubot 50b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Some varieties of dates must be harvested as soon as they ripen, as otherwise they will spoil. Others do not need to be harvested as quickly. It was common to spread mats underneath trees of this latter type, and to allow the dates to fall on their own, after which the dates would be left to dry on the mats. This is what Rav Yosef was referring to.",
+              "he": "בחת\"ס העיר על כמה דברים תמוהים בענין זה. מצד אחד תמוה שרב יוסף שהוא עצמו קיבל ופירש את דברי רב המנונא יבוא לזון ממטלטלין. ועוד יש לשאול: הרי השוואה זו לבעל חוב פשוטה היא ומדוע לא העלו אותה קודם כלל. ומשום כך מפרש כי אביי חשב שהיה זה מקרה מיוחד שהפירות היו מחוברים בזמן מותו של האב אבל נתלשו לאחר מכן. וסבר שבמקרה זה אין גם לבעל חוב זכות בפירות.",
+              "ref": "Steinsaltz comment #1 on Ketubot 50b:10",
+              "sourceHeRef": "תַּמְרֵי דְּעַל בּוּדְיָא",
+              "sourceRef": "Dates laid out to dry on the mats"
+            },
+            {
+              "en": "An alternative reading is <i>burya</i>. This is the Aramaic form, which is derived from the Akkadian",
+              "he": "יש גורסים \"בוריא\", וכן היא המלה בארמית וממנה הושאלה גם לפרסית ולערבית בצורה זו. ויש שדימו אותו ללטינית המאוחרת <eng>buda</eng>. ובכל אלה המובן הוא אחד — מין מחצלת.\nתמרי דעל בודיא\nמיני התמרים מתחלקים לזנים לחים ויבשים. את הזנים הלחים יש לקטוף מיד עם הבשלתם (שאם לא כן הם מתקלקלים). אבל המינים היבשים אינם צריכים קטיפה מהירה כזו, והיו נוהגים לשטוח מחצלות מתחת לעצי הדקל כדי שהתמרים הבשלים יפלו עליהם, ואחר כך היו שוטחים את היבול כולו לייבוש סופי על מחצלות אלה. ואלו הם תמרי דעל בודיא.",
+              "ref": "Steinsaltz comment #2 on Ketubot 50b:10",
+              "sourceHeRef": "בּוּדְיָא",
+              "sourceRef": "Mats [<i>budya</i>]"
+            }
+          ]
+        }
+      },
+      "en": "<b>A certain</b> person <b>came before <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span></b> to inquire about this matter. <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> <b>said to</b> the sons of the deceased man: <b>Give</b> the daughter her sustenance <b>from the dates</b> that are laid out to dry <b>on the mats [<i>budya</i>].</b> These fruits are certainly movable property. <b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said to</b> <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span>: <b>If it was a creditor</b> who came to collect a debt, <b>would the Master give him</b> the right to collect it <b>in this</b> manner? Even a creditor, who may collect his claim by repossessing property that the debtor has sold, cannot take movable property from the possession of orphans. A daughter, who cannot collect her sustenance from property that her father sold, should certainly not have the right to collect her sustenance from movable property that belongs to the male orphans.",
+      "he": "הָהוּא דַּאֲתָא לְקַמֵּיהּ <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">דְּרַב יוֹסֵף</span>, אֲמַר לְהוּ: הַבוּ לַהּ מִתַּמְרֵי דְּעַל בּוּדְיָא, אֲמַר לֵיהּ אַבָּיֵי: אִילּוּ בַּעַל חוֹב הֲוָה כִּי הַאי גַּוְונָא, מִי הֲוָה יָהֵיב לֵיהּ מָר?",
+      "ref": "Ketubot 50b:10"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דחזו לבודיא</strong> - הקרובות לגדור ועדיין מחוברות:",
+              "ref": "Rashi on Ketubot 50b:11:1",
+              "sourceHeRef": "רש\"י על כתובות נ׳ ב:יא:א",
+              "sourceRef": "Rashi on Ketubot 50b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]:</span> לא התכוונתי לתמרים ממש המונחים במחצלות אלא <b>דחזייא לבודיא קאמינא</b> <span class=\"hebrew-emphasis\">[</span>תמרים בשלים <span class=\"hebrew-emphasis\">הראויים למחצלות,</span> שעומדים להקצץ <span class=\"hebrew-emphasis\">אמרתי],</span> שכיון שעדיין הם מחוברים, אינם נחשבים כמטלטלים.",
+              "ref": "Steinsaltz on Ketubot 50b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות נ׳ ב:יא",
+              "sourceRef": "Steinsaltz on Ketubot 50b:11"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> <b>said to</b> <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span>: I did not mean actual dates lying on mats; rather, <b>I spoke</b> of ripe dates ready for plucking, <b>which are fit for mats.</b> Since they are still attached to the ground, they are not considered movable property.",
+      "he": "אֲמַר לֵיהּ: דְּחַזְיָיא לְבוּדְיָא קָאָמֵינָא.",
+      "ref": "Ketubot 50b:11"
+    }
+  ],
+  "title": "Ketubot 50b",
+  "titleHebrew": "כתובות נ,ב",
+  "topics": []
+}

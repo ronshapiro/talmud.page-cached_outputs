@@ -1,0 +1,982 @@
+{
+  "id": "53b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואפי' בירושלים</strong> - שאין מעשר טהור נפדה שם דכתיב <span class=\"parenthesized\">(דברים יד)</span> כי ירחק ממך [וגו'] ונתת בכסף ולא כשהיה בירושלים:",
+              "ref": "Rashi on Bava Metzia 53b:1:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:א:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אפילו בירושלים</b> עצמה שאין מעשר טהור נפדה שם — <b>שנאמר: \"כי לא תוכל שאתו...</b> ונתת בכסף, וצרת הכסף בידך<b>\"</b> (דברים יד, כד–כה). <b>ואין</b> משמעות לשון <b>\"שאת\" אלא אכילה, שנאמר: \"וישא משאת מאת פניו\"</b> (בראשית מג, לד).",
+              "ref": "Steinsaltz on Bava Metzia 53b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:א",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Rashi in tractate <i>Sanhedrin</i> (112b) explains that it should be understood from the verse in Deuteronomy (14:24) that there are different reasons that one redeems second-tithe produce, either if the way is too long, or if one is unable to eat it.",
+              "he": "וכבר הסבירו ראשונים כי לפירוש זה כך שיעורו של הכתוב: שיש סיבות שונות שבשלהן פודים מעשר שני: \"כי ירחק ממך הדרך\", או \"כי לא תוכל שאתו\", כלומר, לא תוכל לאכלו (רש\"י סנהדרין).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 53b:1",
+              "sourceHeRef": "אֵין שְׂאֵת אֶלָּא אֲכִילָה",
+              "sourceRef": "<i>Se’et</i> means nothing other than eating"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Should the distance be too great for you, should you be unable to transport them, because the place where the L<small>ORD</small> your God has chosen to establish His name is far from you and because the L<small>ORD</small> your God has blessed you,",
+              "he": "וְכִֽי־יִרְבֶּ֨ה מִמְּךָ֜ הַדֶּ֗רֶךְ כִּ֣י לֹ֣א תוּכַל֮ שְׂאֵתוֹ֒ כִּֽי־יִרְחַ֤ק מִמְּךָ֙ הַמָּק֔וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לָשׂ֥וּם שְׁמ֖וֹ שָׁ֑ם כִּ֥י יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃",
+              "link": "/Deuteronomy/14",
+              "ref": "Deuteronomy 14:24",
+              "sourceHeRef": "דברים יד:כד",
+              "sourceRef": "Deuteronomy 14:24"
+            },
+            {
+              "en": "Portions were served them from his table; but Benjamin’s portion was several times that of anyone else. And they drank their fill with him.",
+              "he": "וַיִּשָּׂ֨א מַשְׂאֹ֜ת מֵאֵ֣ת פָּנָיו֮ אֲלֵהֶם֒ וַתֵּ֜רֶב מַשְׂאַ֧ת בִּנְיָמִ֛ן מִמַּשְׂאֹ֥ת כֻּלָּ֖ם חָמֵ֣שׁ יָד֑וֹת וַיִּשְׁתּ֥וּ וַֽיִּשְׁכְּר֖וּ עִמּֽוֹ׃",
+              "link": "/Genesis/43",
+              "ref": "Genesis 43:34",
+              "sourceHeRef": "בראשית מג:לד",
+              "sourceRef": "Genesis 43:34"
+            }
+          ]
+        }
+      },
+      "en": "<b>even in Jerusalem,</b> although ritually pure second tithe cannot be desacralized in Jerusalem? It is <b>as it is stated: “For you are unable to carry [<i>se’et</i>] it…</b>and you shall turn it into money, and bind up the money in your hand” (Deuteronomy 14:24–25). <b>And <i>se’et</i> means nothing other than eating, as it is stated: “And he took portions [<i>masot</i>] from before him”</b> (Genesis 43:34). Since ritually impure second-tithe produce may not be consumed, <span href=\"/topics/rabbi-elazar-b-shamua\" class=\"namedEntityLink\" data-slug=\"רא-(ambiguous)\">Rabbi Elazar</span> holds that one may desacralize it even if it had been brought into Jerusalem.",
+      "he": "אֲפִילּוּ בִּירוּשָׁלַיִם – שֶׁנֶּאֱמַר: ״כִּי לֹא תוּכַל שְׂאֵתוֹ״, וְאֵין ״שְׂאֵת״ אֶלָּא אֲכִילָה, שֶׁנֶּאֱמַר: ״וַיִּשָּׂא מַשְׂאֹת מֵאֵת פָּנָיו״.",
+      "ref": "Bava Metzia 53b:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Produce that was purchased with money from the second tithe should not be redeemed outside Jerusalem unless they contracted ritual impurity from a primary source of ritual impurity. Instead, they should be brought to Jerusalem and eaten there.",
+              "he": "פֵּרוֹת הַנִּלְקָחוֹת בְּכֶסֶף מַעֲשֵׂר שֵׁנִי אֵינָן נִפְדִּין בְּרִחוּק מָקוֹם אֶלָּא אִם כֵּן נִטְמְאוּ בְּאַב הַטֻּמְאָה אֶלָּא יַעֲלוּ הֵן עַצְמָן וְיֵאָכְלוּ בִּירוּשָׁלַיִם:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 7:1",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ז:א",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 7:1"
+            },
+            {
+              "en": "This is the stringency of produce purchased with money from the second tithe over the produce of the second tithe itself. If, however, it contracted ritual impurity from a secondary source of ritual impurity, it should be redeemed and eaten in Jerusalem.",
+              "he": "זֶה חֹמֶר בְּלָקוּחַ בְּכֶסֶף מַעֲשֵׂר מִפֵּרוֹת מַעֲשֵׂר עַצְמָן. וְאִם נִטְמָא בִּוְלַד הַטֻּמְאָה מִדִּבְרֵיהֶם יִפָּדוּ וְיֵאָכְלוּ בִּירוּשָׁלַיִם:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 7:2",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ז:ב",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 7:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בלקוח</strong> - מעשר זה ולא הוא עצמו היה מעשר אלא צרכי סעודה שלקח בירושלים בכסף מעשר:",
+              "ref": "Rashi on Bava Metzia 53b:2:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ב:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יקבר</strong> - דקא סבר לא אלים למיתפס פדיונו:",
+              "ref": "Rashi on Bava Metzia 53b:2:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ב:ב",
+              "sourceRef": "Rashi on Bava Metzia 53b:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> לא זה ההסבר, ויש לומר ששם מדובר <b>בלקוח</b> (קנוי) <b>בכסף מעשר שני,</b> שלא היה פרי זה עצמו מעשר, אלא נקנה בכספי מעשר, ושמא אין קדושתו מרובה דייה שתוכל להתחלל שנית. ומקשים: <b>לקוח בכסף מעשר נמי ליפרקיה</b> <span class=\"hebrew-emphasis\">[גם כן שיפדנו],</span> <b>דתנן</b> <span class=\"hebrew-emphasis\">[ש</span>הרי <span class=\"hebrew-emphasis\">שנינו</span> במשנה<span class=\"hebrew-emphasis\">]:</span> <b>הלקוח בכסף מעשר שני שנטמא</b> — <b>יפדה!</b> ומשיבים: השיטה בברייתא שלנו היא <b>כ</b>שיטת <b>ר' יהודה</b> ש<b>אמר</b> שהלקוח בכסף מעשר אם נטמא <b>יקבר,</b> שאין יכולים לפדותו.",
+              "ref": "Steinsaltz on Bava Metzia 53b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:ב",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Although this <i>halakha </i>appears illogical because the opposite could be inferred <i>a fortiori</i>, i.e., if second-tithe produce itself can be redeemed, all the more so that food acquired with second-tithe money can be redeemed, as its degree of sanctity is lower, nevertheless, according to Rashi, that factor itself is the reason for the distinction: Only an item with full-fledged sanctity can be redeemed; an item with lesser sanctity cannot be redeemed. <i>Tosafot</i>, based on a <i>baraita</i>, maintain that Rabbi Yehuda derives his opinion from the verses, and the <i>halakha</i> that there is a distinction between second-tithe produce and food acquired with second-tithe money is a Torah edict.",
+              "he": "ואף שלכאורה קל וחומר הוא, שאם מעשר עצמו נפדה — הלקוח בכסף מעשר על אחת כמה כמה. הרי לשיטת רש\"י היא הנותנת, שמפני שהלקוח בכסף מעשר יש בו פחות קדושה מבמעשר עצמו אין קדושה זו יכולה עוד לחול על פדיונו. ולתוספות (וכן הוא בברייתא) טעמו של ר' יהודה הוא ממדרש הכתובים. והוא לשיטה זו גזירת הכתוב.",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 53b:2",
+              "sourceHeRef": "הַלָּקוּחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא…יִקָּבֵר",
+              "sourceRef": "Food acquired with second-tithe money that became ritually impure…must be buried"
+            },
+            {
+              "en": "Food acquired with second-tithe money can be redeemed outside the city walls only if it became ritually impure by means of a primary source of ritual impurity. Otherwise, it must be brought to Jerusalem and eaten inside the city. In this regard, the <i>halakha</i> of food acquired with second-tithe money is more stringent than the <i>halakha</i> of second-tithe produce itself (Rambam <i>Sefer Zera’im</i>,<i> Hilkhot Ma’aser Sheni</i> 7:1–2).",
+              "he": "פירות שנלקחו בכסף מעשר שני אינם נפדים בריחוק מקום, אלא אם כן נטמאו באב הטומאה. אלא יעלו ויאכלו בירושלים. וזה חומר בלקוח בכסף מעשר מבמעשר עצמו. (רמב\"ם ספר זרעים הלכות מעשר שני, פ\"ז ה\"א–ב).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 53b:2",
+              "sourceHeRef": "הַלּוֹקֵחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא",
+              "sourceRef": "Food acquired with second-tithe money that became ritually impure"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה</b> כרבי יהודה כו' עד תאמרו בלקוח שאינו נפדה ברחוק מקום וכו'. פירוש אפילו אם קנה פירות במעות מעשר שני רהוק מירושלים כדי לאוכלן בירושלים הוי כאלו קנאם בירושלים ואינן נפדין וע\"ש במסכת מעשר שני משנה י' בפי' ר\"מ ור\"ש:",
+                      "ref": "Maharam on Bava Metzia 53b:1",
+                      "sourceHeRef": "מהר\"ם על בבא מציעא נ״ג ב:א",
+                      "sourceRef": "Maharam on Bava Metzia 53b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כרבי יהודה דאמר יקבר</strong> - בספרי מפיק טעמא משום דכתיב הכסף כסף ראשון ולא כסף שני וא״ת דבריש פירקין <span class=\"parenthesized\">(בבא מציעא דף מה.)</span> אמרינן כסף ראשון ואפי' כסף שני וי״ל דה״מ כסף על כסף אבל לחלל ב' פעמים פירות על כסף לא וא״ת דבפרק שלישי דמעשר שני <span class=\"parenthesized\">(מ״י)</span> תנן אמרו לו לר' יהודה ומה מעשר שנטמא נפדה לקוח לא כל שכן אמר להם לא אם אמרתם במעשר שנפדה טהור ברחוק מקום תאמרו בלקוח שאינו נפדה כו' אם כן טעמא אחרינא אית ליה ולמה לי קרא בספרי וי״ל דאסמכתא בעלמא הוא אי נמי טרח וכתב לה קרא:",
+              "ref": "Tosafot on Bava Metzia 53b:2:1",
+              "sourceHeRef": "תוספות על בבא מציעא נ״ג ב:ב:א",
+              "sourceRef": "Tosafot on Bava Metzia 53b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> the <i>halakha</i> of the <i>baraita</i> is taught not with regard to second-tithe produce, but <b>with regard to</b> food <b>acquired with second-tithe money,</b> which cannot be desacralized. The Gemara asks: With regard to food <b>acquired with second-tithe money too, let him redeem it, as we learned</b> in a mishna (<i>Ma’aser Sheni</i> 3:10): Food <b>acquired with second-tithe money that became ritually impure should be redeemed.</b> The Gemara answers: The <i>baraita</i> is <b>in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, who says:</b> Food acquired with second-tithe money that became ritually impure <b>must be buried</b> and may not be redeemed.",
+      "he": "אֶלָּא בְּלָקוּחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי. לָקוּחַ בְּכֶסֶף מַעֲשֵׂר נָמֵי לִיפְרְקֵיהּ, דִּתְנַן: הַלָּקוּחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא – יִפָּדֶה! כְּרַבִּי יְהוּדָה דְּאָמַר יִקָּבֵר.",
+      "ref": "Bava Metzia 53b:2"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>Rabbi Asi says</b> that <b>Rabbi Yoḥanan says:</b> With regard to <b>second-tithe</b> produce, <b>from when is one liable</b> to receive lashes <b>for</b> eating <b>it</b> outside the walls of Jerusalem? It is <b>from when</b> the produce <b>entered within the wall</b> of Jerusalem. <b>What is the reason</b> for this? It is derived <b>as the verse states</b> with regard to second-tithe produce: <b>“Before the Lord your God you shall eat it”</b> (Deuteronomy 12:18), <b>and it is written</b> in the previous verse: <b>“You may not eat within your gates”</b> (Deuteronomy 12:17), from which it is derived: <b>Anywhere that we read concerning it: “Before the Lord your God you shall eat it,” we read concerning it</b> the prohibition: <b>“You may not eat within your gates,”</b> i.e., it may not be eaten outside the walls of Jerusalem; <b>and anywhere that we do not read concerning it: “Before the Lord your God you shall eat it,”</b> as the produce remained outside the walls, <b>we do not read concerning it</b> the prohibition: <b>“You may not eat within your gates.”</b>",
+                  "<b>The Gemara raises an objection</b> from that which <b>Rabbi Yosei says:</b> With regard to <b>a priest that a fig of untithed produce came into his possession,</b> and he seeks to separate <i>terumot</i> and tithes from it, <b>he says: This fig,</b> I designate <b>its <i>teruma</i> at its stem,</b> I designate its <b>first tithe at its north</b> side, <b>and</b> I designate its <b>second tithe at its south</b> side; <b>and it is a year</b> when <b>second tithe</b> is separated, i.e., the first, second, fourth, or fifth years of the Sabbatical Year cycle, <b>and he is in Jerusalem,</b> when he recites this formula. <b>Or</b> he says that poor man’s tithe shall be designated at its south side if it is a year of <b>poor man’s tithe,</b> i.e., the third or sixth years of the Sabbatical Year cycle, <b>and he is</b> located anywhere <b>in the outlying areas,</b> not in Jerusalem. In those cases, if <b>he ate</b> the fig,"
+                ],
+                [
+                  "<b>he is flogged</b> with <b>one</b> set of lashes, because he ate it without separating <i>teruma</i> of the tithe from the first tithe and is consequently liable for eating untithed produce. Had he separated <i>teruma</i> of the tithe, it would have been permitted for him to eat the entire fig, as it is permitted for a priest to partake of both <i>teruma gedola</i> and <i>teruma</i> of the tithe.",
+                  "<b>And a non-priest who eats</b> the fig <b>is flogged</b> with <b>two</b> sets of lashes, for both eating untithed produce and eating the <i>teruma</i> therein, which is forbidden for all non-priests. The <i>baraita</i> notes: <b>As if</b> the non-priest <b>ate</b> the fig <b>initially,</b> before separating <i>teruma</i> and tithes, <b>he is flogged</b> with <b>only one</b> set of lashes, for eating untithed produce. Once he separated the <i>teruma</i> and tithes, he is flogged for eating <i>teruma</i> as well.",
+                  "The Gemara infers from the statement in the <i>baraita</i>: And it is a year when second tithe is separated and he is in Jerusalem, that <b>the reason</b> he is flogged with two sets of lashes <b>is that he is</b> currently <b>in Jerusalem,</b> where it is permitted to partake of second-tithe produce. <b>But</b> if he ate the fig <b>in the outlying areas,</b> outside of Jerusalem, and he designated second tithe in the fig, <b>he is flogged</b> with <b>three</b> sets of lashes. It is apparent <b>that even if</b> this second-tithe produce <b>has not entered within the wall</b> of Jerusalem, one is liable to receive lashes for its consumption. This contradicts Rabbi Yoḥanan’s opinion, as he holds that one is liable to receive lashes for eating second-tithe produce only if it entered Jerusalem. The Gemara answers: The case in the <i>baraita</i> is one <b>where they took</b> the fig <b>into</b> Jerusalem <b>and</b> then <b>took it out</b> of Jerusalem. That is why he is liable to receive a third set of lashes.",
+                  "The Gemara asks: <b>If so, what</b> is the purpose <b>of stating</b> this <i>halakha</i>? If the fig entered and exited Jerusalem there is no novel element in the fact that one is liable to receive lashes. The Gemara answers: There is a novel element in this <i>halakha</i>, as <b>what are we dealing with here?</b> We are dealing with a case <b>where one took</b> figs into the city while <b>they</b> had the status of <b>untithed produce,</b> before <i>terumot</i> and tithes were separated, <b>and</b> Rabbi Yosei <b>holds</b> that the status of <b>gifts that were not</b> yet <b>separated</b> from the produce is <b>like</b> that of gifts <b>that were</b> already <b>separated.</b> The novel element is that although second tithe was not separated in practice, all the <i>halakhot</i> of second tithe are in effect with regard to the portion that he intends to separate as second tithe. Therefore, if after taking the untithed produce into Jerusalem he took it outside of Jerusalem, and ate it, he is liable to receive lashes.",
+                  "The Gemara asks: <b>And</b> does <b>Rabbi Yosei hold</b> that the status of <b>gifts that were not</b> yet <b>separated</b> from the produce is <b>like</b> that of gifts <b>that were</b> already <b>separated? But isn’t it taught</b> in a <i>baraita</i> that <b>Rabbi Shimon ben Yehuda says in the name of Rabbi Yosei: Beit Shammai and Beit Hillel did not disagree with regard to produce whose labor was not completed</b> and the obligation to tithe had consequently not yet taken effect, <b>and</b> which at that stage <b>passed through Jerusalem, that its second-tithe</b> produce <b>may be redeemed and may be eaten anywhere.</b> As long as the obligation to tithe has not taken effect, the sanctity of Jerusalem does not affect the produce.",
+                  "<b>With regard to what</b> case <b>did they disagree?</b> It is <b>with regard to produce whose labor was</b> already <b>completed and it passed through Jerusalem</b> before <i>terumot</i> and tithes were separated from it, <b>as Beit Shammai say:</b> Since one is obligated to separate second tithe from this produce, and the produce was in Jerusalem, <b>he must bring its second-tithe</b> produce <b>back</b> to Jerusalem, <b>and it shall be eaten</b> it <b>in Jerusalem; and Beit Hillel say:</b> The produce <b>may be redeemed and eaten anywhere. And if it enters your mind</b> to say the status of <b>gifts that were not</b> yet <b>separated</b> from the produce is <b>like</b> that of gifts <b>that were</b> already <b>separated,</b> how can Beit Hillel hold that the second-tithe produce may be redeemed; <b>wasn’t</b> the produce <b>admitted</b> by <b>the walls</b> of Jerusalem? Therefore, even though second tithe was not yet separated, it can no longer be redeemed. Apparently, Rabbi Yosei, who certainly holds in accordance with the opinion of Beit Hillel, holds that the status of gifts that were not yet separated from the produce is not like that of gifts that were already separated.",
+                  "<b>Rabba said:</b> The <i>halakha</i> of the <b>wall with regard to eating</b> second-tithe produce, i.e., that second-tithe produce may not be eaten outside the wall of Jerusalem, is <b>by Torah law;</b> the <i>halakha</i> of the <b>wall with regard to the admitting</b> of second-tithe produce, i.e., that once the produce enters within the wall of Jerusalem, it may not be redeemed or taken beyond the wall, is <b>by rabbinic law. And when the Sages issued the decree</b> that one may not remove from Jerusalem second-tithe produce that entered within the walls, they did so <b>when</b> the tithe <b>is in its unadulterated form</b> after it was separated; but in a case where it is <b>in its</b> status of <b>untithed produce, the Sages did not issue a decree.</b>",
+                  "<b>Ravina said:</b> Rabbi Yosei is referring to the case of second-tithe produce that was already separated and brought into Jerusalem, and the novel element of his statement is that he is referring to a fig that was not physically taken into Jerusalem; rather, it is a case <b>where one is holding</b> the fig <b>on a reed</b> outside Jerusalem, while he is standing inside Jerusalem. <b>And resolve the dilemma of Rav Pappa</b> (19b) and conclude that if one is standing inside Jerusalem and holding second tithe outside the city on a reed, it is as though the produce entered the city."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Makkot 19b:15",
+                "Makkot 19b:16",
+                "Makkot 20a:1",
+                "Makkot 20a:2",
+                "Makkot 20a:3",
+                "Makkot 20a:4",
+                "Makkot 20a:5",
+                "Makkot 20a:6",
+                "Makkot 20a:7",
+                "Makkot 20a:8"
+              ],
+              "he": [
+                [
+                  "אָמַר רַבִּי אַסִּי אָמַר רַבִּי יוֹחָנָן: מַעֲשֵׂר שֵׁנִי מֵאֵימָתַי חַיָּיבִין עָלָיו – מִשֶּׁרָאָה פְּנֵי הַחוֹמָה. מַאי טַעְמָא? דְּאָמַר קְרָא ״לִפְנֵי ה׳ אֱלֹהֶיךָ תֹאכְלֶנּוּ <span class=\"parenthesized\">(שָׁנָה בְשָׁנָה)</span>״, וּכְתִיב ״<span class=\"parenthesized\">(כִּי)</span> לֹא תוּכַל לֶאֱכֹל בִּשְׁעָרֶיךָ״, כֹּל הֵיכָא דְּקָרֵינַן בֵּיהּ ״לִפְנֵי ה׳ אֱלֹהֶיךָ תֹאכְלֶנּוּ״ – קָרֵינַן בֵּיהּ ״לֹא תוּכַל לֶאֱכוֹל בִּשְׁעָרֶיךָ״. וְכֹל הֵיכָא דְּלָא קָרֵינַן בֵּיהּ ״לִפְנֵי ה׳ אֱלֹהֶיךָ תֹאכְלֶנּוּ״ – לָא קָרֵינַן בֵּיהּ ״לֹא תוּכַל לֶאֱכוֹל בִּשְׁעָרֶיךָ״.",
+                  "מֵיתִיבִי, רַבִּי יוֹסֵי אוֹמֵר: כֹּהֵן שֶׁעָלְתָה בְּיָדוֹ תְּאֵנָה שֶׁל טֶבֶל, אָמַר: תְּאֵנָה זוֹ, תְּרוּמָתָהּ בְּעוּקְצָהּ, מַעֲשֵׂר רִאשׁוֹן בִּצְפוֹנָהּ, וּמַעֲשֵׂר שֵׁנִי לִדְרוֹמָהּ. וְהִיא שְׁנַת מַעֲשֵׂר שֵׁנִי וְהוּא בִּירוּשָׁלַיִם, אוֹ מַעְשַׂר עָנִי וְהוּא בִּגְבוּלִין, אֲכָלָהּ –"
+                ],
+                [
+                  "לוֹקֶה אַחַת.",
+                  "וְזָר שֶׁאֲכָלָהּ – לוֹקֶה שְׁתַּיִם. שֶׁאִילּוּ בַּתְּחִלָּה אֲכָלָהּ – אֵינוֹ לוֹקֶה אֶלָּא אַחַת.",
+                  "טַעְמָא דְּאִיתֵיהּ בִּירוּשָׁלַיִם, הָא בִּגְבוּלִין – לוֹקֶה שָׁלֹשׁ, דְּאַף עַל גַּב דְּלָאו רוֹאֶה פְּנֵי חוֹמָה! דְּעַיְּילַי[הּ] וְאַפְּקַי[הּ].",
+                  "אִי הָכִי מַאי לְמֵימְרָא? הָכָא בְּמַאי עָסְקִינַן – כְּגוֹן דְּעַיְּילִינְהוּ בְּטִיבְלַיְיהוּ, וְקָסָבַר: מַתָּנוֹת שֶׁלֹּא הוּרְמוּ – כְּמִי שֶׁהוּרְמוּ דָּמְיָין.",
+                  "וְסָבַר רַבִּי יוֹסֵי מַתָּנוֹת שֶׁלֹּא הוּרְמוּ כְּמִי שֶׁהוּרְמוּ דָּמֵי? וְהָתַנְיָא: רַבִּי שִׁמְעוֹן בֶּן יְהוּדָה אוֹמֵר מִשּׁוּם רַבִּי יוֹסֵי: לֹא נֶחְלְקוּ בֵּית שַׁמַּאי וּבֵית הִלֵּל עַל פֵּירוֹת שֶׁלֹּא נִגְמְרָה מְלַאכְתָּן וְעָבְרוּ בִּירוּשָׁלַיִם – שֶׁיִּפָּדֶה מַעֲשֵׂר שֵׁנִי שֶׁלָּהֶן וְיֵאָכֵל בְּכׇל מָקוֹם.",
+                  "וְעַל מָה נֶחְלְקוּ – עַל פֵּירוֹת שֶׁנִּגְמְרָה מְלַאכְתָּן וְעָבְרוּ בִּירוּשָׁלַיִם, שֶׁבֵּית שַׁמַּאי אוֹמְרִים: יַחְזִיר מַעֲשֵׂר שֵׁנִי שֶׁלָּהֶם וְיֵאָכֵל בִּירוּשָׁלַיִם, וּבֵית הִלֵּל אוֹמְרִים: יִפָּדֶה וְיֵאָכֵל בְּכׇל מָקוֹם. וְאִי סָלְקָא דַעְתָּךְ מַתָּנוֹת שֶׁלֹּא הוּרְמוּ כְּמִי שֶׁהוּרְמוּ דָּמְיָין – הָא קְלָטוּהוּ מְחִיצוֹת!",
+                  "אָמַר רַבָּה: מְחִיצָה לֶאֱכוֹל דְּאוֹרָיְיתָא, מְחִיצָה לִקְלוֹט – דְּרַבָּנַן. וְכִי גְזוּר רַבָּנַן – כִּי אִיתֵיהּ בְּעֵינֵיהּ, בְּטִבְלֵיהּ לָא גְּזוּר רַבָּנַן.",
+                  "רָבִינָא אָמַר: כְּגוֹן דְּנָקֵיט לֵיהּ בְּקַנְיָא. וְתִפְשׁוֹט בַּעְיָא דְּרַב פָּפָּא."
+                ]
+              ],
+              "link": "/Makkot/20a",
+              "originalRefsBeforeRewriting": [
+                "Makkot 20a:6",
+                "Makkot 20a:7"
+              ],
+              "ref": "Makkot 19b:15-20a:8",
+              "sourceHeRef": "מכות כ׳ א",
+              "sourceRef": "Makkot 20a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לעולם בטהור</strong> - בין מעשר בין לקוח ודקאמר נעייליה וניכליה:",
+              "ref": "Rashi on Bava Metzia 53b:3:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ג:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי יצא</strong> - נמי דקאמר דנפול מחיצות חומת ירושלים ושוב אין מעשר נאכל שם עד שיעמדו מחיצות דבעינן לפני ה' תאכלנו <span class=\"parenthesized\">(שם יב)</span> ובפדייה נמי לא דקלטוהו מחיצות מלפדותו עוד משנכנס לתוכו:",
+              "ref": "Rashi on Bava Metzia 53b:3:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ג:ב",
+              "sourceRef": "Rashi on Bava Metzia 53b:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> כשיטת <b>ר' יהודה, מאי איריא</b> <span class=\"hebrew-emphasis\">[מה שייך,</span> מדוע למד דווקא<span class=\"hebrew-emphasis\">]</span> ב<b>\"יצא\"? אפילו לא יצא נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> זה דינו, שהרי לדעתו מיד כשנטמא, כבר אין לו תקנה, <b>אלא, לעולם</b> יש לומר שהמדובר במעשר שני <b>טהור, ומאי</b> <span class=\"hebrew-emphasis\">[ומה</span> פירוש<span class=\"hebrew-emphasis\">]</span> <b>\"יצא\"</b> — אין משמעו שיצא ממש, אלא <b>דנפול</b> <span class=\"hebrew-emphasis\">[שנפלו]</span> <b>מחיצות</b> העיר שנהרסה בינתיים חומת ירושלים, שהיא המחיצה שבתוכה אפשר לאכול מעשר. ולפיכך דינו כיוצא.",
+              "ref": "Steinsaltz on Bava Metzia 53b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:ג",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:3"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אפילו לא יצא נמי</strong> - מעיקרא דשני בשנטמא ה\"מ למפרך הכי אלא דעדיפא מיניה פריך:",
+              "ref": "Tosafot on Bava Metzia 53b:3:1",
+              "sourceHeRef": "תוספות על בבא מציעא נ״ג ב:ג:א",
+              "sourceRef": "Tosafot on Bava Metzia 53b:3:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>If</b> the <i>baraita</i> is in accordance with the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, why</b> did the <i>tanna</i> teach <b>specifically</b> a case where the food <b>exited</b> Jerusalem? <b>Even</b> if it <b>did not exit</b> Jerusalem, that <i>halakha</i> <b>also</b> applies, as he holds that once the food becomes ritually impure it must be buried. <b>Rather, actually,</b> it is taught in the <i>baraita</i> <b>with regard to</b> second tithe that is <b>ritually pure, and what</b> is the meaning of <b>exited?</b> It is not that the produce actually exited Jerusalem. Rather, the <i>baraita</i> is discussing a case <b>where the partitions,</b> i.e., the walls, surrounding the city <b>fell.</b> The legal status of that second-tithe produce is that of produce that exited the city.",
+      "he": "אִי רַבִּי יְהוּדָה, מַאי אִירְיָא ״יָצָא״? אֲפִילּוּ לֹא יָצָא נָמֵי, אֶלָּא: לְעוֹלָם בְּטָהוֹר, וּמַאי ״יָצָא״ – דִּנְפוּל מְחִיצוֹת.",
+      "ref": "Bava Metzia 53b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והאמר רבא</strong> - במסכת מכות <span class=\"parenthesized\">(דף כ.)</span>:",
+              "ref": "Rashi on Bava Metzia 53b:4:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ד:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחיצה לאכול דאורייתא מחיצה לקלוט דרבנן</strong> - מחיצה שנאמרה בתורה לא הוזכרה אלא לאכול בתוכה ושאמרו במשנה מחיצות קולטות אותם מלפדות עוד אם יצא דרבנן היא:",
+              "ref": "Rashi on Bava Metzia 53b:4:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ד:ב",
+              "sourceRef": "Rashi on Bava Metzia 53b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכי גזור רבנן כו'</strong> - לאו רבא קאמר לה אלא המקשה קאמר מדאמר רבא קליטת מחיצות מדרבנן בעלמא היא והשתא דנפול מחיצות ליתא לההיא גזירה דכי גזור רבנן היכא דאיתנהו וזה הוציא את המעשר לחוץ אבל כי ליתנהו לא גזור הלכך ניפרקיה ואמאי בטלי:",
+              "ref": "Rashi on Bava Metzia 53b:4:3",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ד:ג",
+              "sourceRef": "Rashi on Bava Metzia 53b:4:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומשני לא פלוג רבנן</strong> - בין יוצא מתוכן לנפלו דקליטת מחיצות גזרו בסתם בין איתנהו בין ליתנהו:",
+              "ref": "Rashi on Bava Metzia 53b:4:4",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ד:ד",
+              "sourceRef": "Rashi on Bava Metzia 53b:4:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>והאמר</b> <span class=\"hebrew-emphasis\">[והרי אמר]</span> <b>רבא:</b> דין זה שצריך <b>מחיצה לאכול</b> בתוכה הריהו <b>דאורייתא</b> <span class=\"hebrew-emphasis\">[מן התורה],</span> אולם <b>מחיצות לקלוט</b> לענין זה שיחשב דבר מסויים כקלוט בתוך התחום, הן רק <b>דרבנן</b> <span class=\"hebrew-emphasis\">[מדברי חכמים],</span> <b>וכי גזרו רבנן</b> <span class=\"hebrew-emphasis\">[וכאשר גזרו חכמים]</span> בענין מחיצות הקולטות את המעשר, לענין יציאה מן התחום, וכשהייה בתוכו הרי זה <b>כי איתנהו</b> <span class=\"hebrew-emphasis\">[כאשר ישנן,</span> מצויות<span class=\"hebrew-emphasis\">]</span> ה<b>מחיצות.</b> אבל <b>כי ליתנהו</b> <span class=\"hebrew-emphasis\">[כאשר אין]</span> <b>למחיצות</b> — <b>לא גזרו רבנן</b> <span class=\"hebrew-emphasis\">[חכמים]!</span> ומשיבים: <b>לא פלוג רבנן</b> <span class=\"hebrew-emphasis\">[חלקו חכמים]</span> בדינם, <b>בין איתנהו</b> <span class=\"hebrew-emphasis\">[שיש]</span> <b>למחיצות, בין ליתנהו</b> <span class=\"hebrew-emphasis\">[שאין]</span> <b>למחיצות,</b> שכיון שקבעו חכמים דין מחיצה וקליטה — שוב לא חלקו בפרטים, וגזרו בכל מקרה, זו היתה שיטה אחת של הסבר,",
+              "ref": "Steinsaltz on Bava Metzia 53b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:ד",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The verses address the matter of transporting the  produce to Jerusalem and consuming it in the city (see Deuteronomy 14:24–25). According to this opinion, though, the matter of gathering within the partitions of the city was adopted by the Sages, who established that the status of any produce that enters within the walls of Jerusalem changes and it can no longer be redeemed.",
+              "he": "שהרי הכתוב עצמו דן בהעלאת הפירות ובאכילתם בירושלים. וחכמים הם שקבלו — לשיטה זו — שיש גם דין \"קליטה\" על ידי מחיצות, שכל שנכנס לבין חומות ירושלים נשתנה דינו ואין בו עוד פדיון.",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 53b:4",
+              "sourceHeRef": "מְחִיצּוֹת לִקְלוֹט",
+              "sourceRef": "Partitions of the city to gather"
+            },
+            {
+              "en": "<i>Tosafot</i> analyze at length the difference between the Gemara here and the parallel discussion in tractate <i>Sanhedrin</i> (112b). The Meiri states simply that the two sources reflect different opinions. The Ramban explains that here the Gemara is not dealing with produce that emerged from within the partitions but rather with a case where the produce is not within the partitions because the partitions fell. Since the produce remains within the city, the Sages did not distinguish with regard to this detail.",
+              "he": "ראה בתוס' (ד\"ה לא פלוג) שהאריכו בביאור ההבדל בין סוגיה זו והסוגיה בסנהדרין. והמאירי כותב בפשטות שיש כאן שיטות חלוקות. ואילו הרמב\"ן מפרש שכיון שכאן מדובר לא ביציאה ממש מחוץ למחיצות אלא בנפילת מחיצות (שבגללה הדבר נחשב יוצא) לא חלקו חכמים בפרט זה.",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 53b:4",
+              "sourceHeRef": "לָא פְּלוּג רַבָּנַן",
+              "sourceRef": "The Sages did not distinguish"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> לא פלוג רבנן כו' והשתא א\"ש טפי בפשיטות כי איתנהו בשעת ג\"ד גזור כו' עכ\"ל דלפי תירוץ הראשון לא אתי שפיר בפשיטות דכי ליתנהו לא גזור דהא כי ליתנהו למחיצות קודם ג\"ד גזור ודו\"ק:",
+                      "ref": "Chidushei Halachot on Bava Metzia 53b:1",
+                      "sourceHeRef": "חדושי הלכות על בבא מציעא נ״ג ב:א",
+                      "sourceRef": "Chidushei Halachot on Bava Metzia 53b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא פלוג רבנן</strong> - תימה דבסוף פרק חלק <span class=\"parenthesized\">(סנהדרין ד' קיג.)</span> משני כי גזרו רבנן כי איתנהו למחיצות ולא קאמר דלא פלוג רבנן כדקאמר הכא ולא קשה מידי דהתם קאי אמאי דקאמר אלא דעיר הנדחת ואסקוה לירושלים והיה שם בשעת גמר דין ליתאכיל דהא קלטוהו מחיצות וה\"ל שלל ירושלים בשעת גמר דין כו' ומסיק לעולם בטהור ואסקיה לירושלים ונגמר הדין דעיר הנדחת ודקא קשיא לך ליתאכיל כגון דנפול מחיצות אמר גמר דין וכדרבא דאמר מחיצה לקלוט דרבנן שלא לפדות אפילו נפול מחיצה דלא פלוג רבנן כדקאמר בשמעתין דכיון דלקלוט לא הוי אלא מדרבנן מן התורה חל עליו גמר דין אפילו לא נפול מחיצה כלל כיון שיכול לאוכלו אם ירצה ולא מיקרי נמי שלל ירושלי' כיון שיכול להוציאו ולפדותו אלא דרבנן אמור מחיצה לקלוט אפילו לקרות שלל ירושלים ולאכול דהעמידו דבריהם על דין תורה אהא מסיים כי גזרו רבנן היכא דאיתנהו למחיצות פירוש לא העמידו דבריהם על דין תורה למיקרי שלל ירושלים ולאכול אלא כי איתנהו למחיצות ולא נפול כלל אבל נפול מחיצות אחר גמר דין לא גזור רבנן להעמיד דבריהם על דין תורה לקרות שלל ירושלים ולאכול אע\"ג דבשעת גמר דין קלטוהו מחיצות כיון דנפול מחיצות אחר גמר דין אבל אי נפול מחיצות קודם גמר דין אע\"ג דלא הוי שלל ירושלים מ\"מ לא חל עליו גמר דין דה\"ל כגבולים וה\"ל שלל שמים כיון שאינו ראוי לאכול ולא לפדות כדאמר בשמעתין דלא פלוג רבנן ויעלוהו כשיעשו מחיצות א\"נ דוקא מיירי בנפול מחיצות קודם גמר דין ולא הוי כמו בגבולים דכיון שהיה ראוי לאכלו שעה אחת הוה ליה ממון הדיוט ושלל ירושלים לא הוי כיון דנפול מחיצות בשעת גמר דין אבל נפול מחיצות אחר גמר דין כיון דהוי שלל ירושלים בשעת גמר דין תו לא פקע והשתא אתי שפיר טפי בפשיטות כי איתנהו בשעת גמר דין גזור למיהוי שלל ירושלים כי ליתנהו בשעת גמר דין לא גזור ואם תאמר דמשמע דיגנזו משום דחל עלייהו גמר דין אבל היכא דלא חל עלייהו גמר דין יאכלו אם תבנה החומה והא אמרינן בפרק קדשי קדשים <span class=\"parenthesized\">(זבחים דף נט.)</span> כשהיה מזבח שלם ונפגם ונבנה אין חוזרין ונראין וי\"ל דדוקא זבחים שעושין מהם עבודות אבל מעשר או בשר זבח לאחר העבודה או שירי מנחה חוזרין ונראין:",
+              "ref": "Tosafot on Bava Metzia 53b:4:1",
+              "sourceHeRef": "תוספות על בבא מציעא נ״ג ב:ד:א",
+              "sourceRef": "Tosafot on Bava Metzia 53b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>But doesn’t <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> say:</b> The <i>halakha</i> that <b>a partition</b> enables one <b>to eat</b> second-tithe produce is <b>by Torah law,</b> and the <i>halakha</i> with regard to the capability of <b>partitions</b> of the city <b>to gather</b> second-tithe produce into the city is <b>by rabbinic law, and when the Sages issued a decree</b> that partitions gather second-tithe produce in terms of their being considered within the city, they did so only <b>where there are</b> intact <b>partitions,</b> but <b>where there are no</b> intact <b>partitions, the Sages did not issue a decree?</b> The Gemara answers: Once they issued the decree, <b>the Sages did not distinguish between</b> cases where <b>there are</b> intact <b>partitions</b> and cases where <b>there are not</b> intact <b>partitions.</b> Once the Sages issued the decree with regard to partitions and the produce being gathered they applied it globally. This is one manner of explaining the <i>baraita</i>.",
+      "he": "וְהָאָמַר רָבָא: מְחִיצָה לֶאֱכוֹל – דְּאוֹרָיְיתָא, מְחִיצוֹת לִקְלוֹט – דְּרַבָּנַן. וְכִי גְּזַרוּ דְּרַבָּנַן: כִּי אִיתַנְהוּ לִמְחִיצוֹת. כִּי לֵיתַנְהוּ לִמְחִיצוֹת – לָא גְּזַרוּ רַבָּנַן! לָא פְּלוּג רַבָּנַן בֵּין אִיתַנְהוּ לִמְחִיצוֹת, בֵּין לֵיתַנְהוּ לִמְחִיצוֹת.",
+      "ref": "Bava Metzia 53b:4"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בַּר</strong>, <strong dir=\"rtl\">בָּר</strong>, <strong dir=\"rtl\">בָּרָא</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, בַּר I 1\" href=\"/Jastrow,_בַּר I.1\">same</span> <br><b>1)</b> (= h. <span class=\"refLink\" data-ref=\"Jastrow, שָׂדֶה 1\" dir=\"rtl\" href=\"/Jastrow,_שָׂדֶה.1\">שָׂדֶה</span>, <span class=\"refLink\" data-ref=\"Jastrow, יַעַר 1\" dir=\"rtl\" href=\"/Jastrow,_יַעַר.1\">יַעַר</span>) <i>forest, prairie</i> &c. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 50:10\" href=\"/Aramaic_Targum_to_Psalms.50.10\">Targum Psalms L, 10</span> sq. &c. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 50:10\" href=\"/Aramaic_Targum_to_Psalms.50.10\">Targum Psalms L, 10</span> sq. <span class=\"refLink\" data-ref=\"Onkelos Genesis 3:1\" href=\"/Onkelos_Genesis.3.1\">Targum Onkelos Breishit III, 1</span>; and e. <br><b><br>—2)</b> (adjective) <i>living in the forest</i> &c., <i>wild</i>. Targum Psalms l. common gender. Variant <span dir=\"rtl\">תרנגול ברא</span>; <span class=\"refLink\" data-ref=\"Shabbat 78a:5\" href=\"/Shabbat.78a.5\">Shabbat 78ᵃ</span> תרנגולא ב׳ Manuscript Munich (ed. … <span class=\"refLink\" data-ref=\"Jastrow, לַת 1\" dir=\"rtl\" href=\"/Jastrow,_לַת.1\">לת</span>) woodcock (hen of the prairie).— <br><b>*3)</b> <i>peel</i>. Ib. 139ᵇ <span dir=\"rtl\">ב׳ דתומא</span> the peel of garlic; [Rashi, explained <span dir=\"rtl\">צלע</span>, must have read <span dir=\"rtl\">אברא</span>]. <br><b><br>—4)</b> (= h. <span class=\"refLink\" data-ref=\"Jastrow, חוּץ 1\" dir=\"rtl\" href=\"/Jastrow,_חוּץ.1\">חוּץ</span>) <i>outside, outdoors, street</i>. <span class=\"refLink\" data-ref=\"Onkelos Genesis 34:31\" href=\"/Onkelos_Genesis.34.31\">Targum Breishit XXXIV, 31</span> <span dir=\"rtl\">נפקת ב׳</span> a prostitute, see <span class=\"refLink\" data-ref=\"Jastrow, חוּץ II 1\" href=\"/Jastrow,_חוּץ II.1\"><span dir=\"rtl\">חוּץ</span> II</span>; and from—<span class=\"refLink\" data-ref=\"Jerusalem Talmud Kilayim 9:3:8\" href=\"Jerusalem_Talmud_Kilayim.9.3.8\">Yerushalmi Kilayim IX, 32ᵇ</span> <span dir=\"rtl\">מאן בעי לך לבר</span> who wants thee outside? (an intimation to leave the room). <span class=\"refLink\" data-ref=\"Sanhedrin 62a:28\" href=\"/Sanhedrin.62a.28\">Sanhedrin 62ᵃ</span>; <span class=\"refLink\" data-ref=\"Sanhedrin 62b\" href=\"/Sanhedrin.62b\">62ᵇ</span>; <span class=\"refLink\" data-ref=\"Shabbat 106a:6\" href=\"/Shabbat.106a.6\">Shabbat 106ᵃ</span>, and e. <span dir=\"rtl\">פוק תני לברא</span> go out and teach it in the street (i.e. your tradition is rejected).—<span dir=\"rtl\">תנא ברא</span> a Tannai not recorded in the Mishnah, see <span class=\"refLink\" data-ref=\"Jastrow, בָּרַיְיתָא 1\" dir=\"rtl\" href=\"/Jastrow,_בָּרַיְיתָא.1\">בָּרַיְיתָא</span>. <span class=\"refLink\" data-ref=\"Moed Katan 17b:7\" href=\"/Moed_Katan.17b.7\">Moʿed Katan 17ᵇ</span> (Rashi: <span dir=\"rtl\">האי תנא דברייתא</span>); <span class=\"refLink\" data-ref=\"Bava Batra 93b:15\" href=\"/Bava_Batra.93b.15\">Bava Batra 93ᵇ</span> Arukh (ed. <span class=\"refLink\" data-ref=\"Jastrow, בַּתְרָא 1\" dir=\"rtl\" href=\"/Jastrow,_בַּתְרָא.1\">בתרא</span>); compare <span class=\"refLink\" data-ref=\"Jastrow, בָּרָאָה 1\" dir=\"rtl\" href=\"/Jastrow,_בָּרָאָה.1\">בָּרָאָה</span><br>.—4) (preposition and adverb) <i>outside;</i> בר מן <i>outside of, except, without</i>. <span class=\"refLink\" data-ref=\"Onkelos Genesis 14:24\" href=\"/Onkelos_Genesis.14.24\">Targum Onkelos Breishit XIV, 24</span>; and from—<span class=\"refLink\" data-ref=\"Berakhot 38b:10\" href=\"/Berakhot.38b.10\">Berakhot 38ᵇ</span> <span dir=\"rtl\">ב׳ מן דין וב׳ וכ׳</span> without this and without that, i.e. apart from these two arguments. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Eruvin 7:10:3\" href=\"Jerusalem_Talmud_Eruvin.7.10.3\">Yerushalmi Eruvin VII, end 24ᵈ</span> <span dir=\"rtl\">ב׳ מדעתיה</span> without his knowledge; and from—<span class=\"refLink\" data-ref=\"Chullin 62b:4\" href=\"/Chullin.62b.4\">Chullin 62ᵇ</span> <span dir=\"rtl\">וסימניך ב̇ר̇ מיניה</span> and thy mnemonical sign (as to <span class=\"refLink\" data-ref=\"Jastrow, צַרְדָּא 1\" dir=\"rtl\" href=\"/Jastrow,_צַרְדָּא.1\">צרדא</span> and <span dir=\"rtl\">ב̇ר̇דא</span>, the one being forbidden, the other permitted) be: keep aloof from it <span dir=\"rtl\">(ב̇ר̇דא</span>).—Transferred <i>restriction</i> (everywhere except …), <i>proviso</i>. <span class=\"refLink\" data-ref=\"Sukkah 45b:12\" href=\"/Sukkah.45b.12\">Sukkah 45ᵇ</span>; <span class=\"refLink\" data-ref=\"Sanhedrin 97b:9\" href=\"/Sanhedrin.97b.9\">Sanhedrin 97ᵇ</span> who enter the heavenly courts <span dir=\"rtl\">בב׳</span> with certain qualifications (by special grant), <span dir=\"rtl\">בלא ב׳</span> without any restrictions.—<span dir=\"rtl\">לְבַר</span>, <span dir=\"rtl\">מִלְּבַר</span> <i>apart from, outside, exclusively</i>. <span class=\"refLink\" data-ref=\"Shir HaShirim Rabbah 7:8:1\" href=\"/Shir_HaShirim_Rabbah.7.8.1\">Shir HaShirim Rabbah to VII, 8</span> <span dir=\"rtl\">לב׳ מישראל</span> except the Israelites. <span class=\"refLink\" data-ref=\"Chullin 98a:17\" href=\"/Chullin.98a.17\">Chullin 98ᵃ</span> sixty one, <span dir=\"rtl\">בהדי דידה או … לב׳ מינה</span> the one (egg) included or excluded? <span class=\"refLink\" data-ref=\"Bava Batra 90b:4\" href=\"/Bava_Batra.90b.4\">Bava Batra 90ᵇ</span> <span dir=\"rtl\">שתותא מלב׳</span> the sixth part (as an addition) is outside, i.e. to each five portions one is added, an addition of twenty percent, opposed <span dir=\"rtl\">מִלְגֵו</span>. <span class=\"refLink\" data-ref=\"Bava Metzia 53b:5\" href=\"/Bava_Metzia.53b.5\">Bava Metzia 53ᵇ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, חוּמְשָׁא 1\" dir=\"rtl\" href=\"/Jastrow,_חוּמְשָׁא.1\">חוּמְשָׁא</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, בַּר 1",
+              "sourceHeRef": "מילון יסטרוב, בַּר א׳",
+              "sourceRef": "Jastrow, בַּר 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When produce from the second tithe is mixed with other substances, it is considered as nullified when mixed with a simple majority.<br>To which produce from the second tithe does this apply? To produce that entered Jerusalem and then departed from there and afterwards, the walls of the city fell. Thus it is impossible to return it to [the holy city] and it is impossible to redeem since it has already entered that place. [This applies] even though [its fifth] is not worth a <i>p'rutah</i>. It is a substance that has no way to be permitted and is therefore nullified by a simple majority, as stated in <i>Hilchot Issurei Ma'achalot</i>.",
+              "he": "מַעֲשֵׂר שֵׁנִי בָּטֵל בְּרֹב. בְּאֵיזֶה מַעֲשֵׂר אָמְרוּ בְּמַעֲשֵׂר שֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא וְנָפְלוּ מְחִצּוֹת. שֶׁהֲרֵי אֵין שָׁם מְחִצּוֹת לְהַחֲזִירוֹ לְשָׁם וְאִי אֶפְשָׁר לִפְדּוֹתוֹ מֵאַחַר שֶׁנִּכְנַס וְאַף עַל פִּי שֶׁאֵין בּוֹ שְׁוֵה פְּרוּטָה וְנִמְצָא דָּבָר שֶׁאֵין לוֹ מַתִּירִין וּבָטֵל בְּרֹב כְּמוֹ שֶׁבֵּאַרְנוּ בְּהִלְכוֹת אִסּוּרֵי מַאֲכָלוֹת:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 6:16",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ו:טז",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 6:16"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב הונא ברבי יהודה אמר</strong> - הא דאותבת לחזקיה מרישא דקתני באיזה מעשר אמרו שאין בו שוה פרוטה וקשיא לך ליעבד כדחזקיה לא קשיא:",
+              "ref": "Rashi on Bava Metzia 53b:5:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ה:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חדא קתני אין בו שוה פרוטה שנכנס לירושלים ויצא</strong> - דקליטת מחיצות מעכבת מלחללו עוד על מעות הראשונות:",
+              "ref": "Rashi on Bava Metzia 53b:5:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ה:ב",
+              "sourceRef": "Rashi on Bava Metzia 53b:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וניהדר ונעייליה וניכליה</strong> - בירושלים עם תערובתו:",
+              "ref": "Rashi on Bava Metzia 53b:5:3",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ה:ג",
+              "sourceRef": "Rashi on Bava Metzia 53b:5:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דנפול מחיצות</strong> - והיינו יצא דקתני:",
+              "ref": "Rashi on Bava Metzia 53b:5:4",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ה:ד",
+              "sourceRef": "Rashi on Bava Metzia 53b:5:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואילו <b>רב הונא בר יהודה אמר רב ששת: חדא קתני</b> <span class=\"hebrew-emphasis\">[</span>דבר <span class=\"hebrew-emphasis\">אחד שנינו]</span> בברייתא, שאין שם שני פרטים נבדלים, אלא הלכה אחת היא, וכך יש להבינה: <b>מעשר שני שאין בו שוה פרוטה שנכנס לירושלים ויצא</b> שכיון שהוא פחות משוה פרוטה אין בו דרך פדיון. ושואלים: <b>אמאי</b> <span class=\"hebrew-emphasis\">[מדוע]?</span> <b>וניהדר ונעייליה וניכליה</b> <span class=\"hebrew-emphasis\">[שיחזירנו ויכניסנו ויאכלנו]!</span> ומשיבים: <b>דנפול</b> <span class=\"hebrew-emphasis\">[שנפלו]</span> ה<b>מחיצות.</b>",
+              "ref": "Steinsaltz on Bava Metzia 53b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:ה",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מעשר שני שנכנס לירושלים ויצא, ונפלו מחיצות, כיון שאין מחיצות אי אפשר להחזירו ואי אפשר לפדותו, הרי אף אם אין בו שווה פרוטה הריהו כדבר שאין לו מתירים ובטל ברוב. וכפירוש רב הונא בר יהודה. (רמב\"ם ספר זרעים הלכות מעשר שני, פ\"ו הט\"ז).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 53b:5",
+              "sourceHeRef": "מעשר שני שאין בו שוה פרוטה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ממעשרו. </b>ת\"ר, ואם גאל יגאל איש ממעשרו ולא כל מעשרו, פרט למעשר שני שאין בו שוה פרוטה .<br><span class=\"parenthesized\">(ב\"מ נ\"ג ב')</span>",
+              "ref": "Torah Temimah on Torah, Leviticus 27:31:4",
+              "sourceHeRef": "תורה תמימה על התורה, ויקרא כז:לא:ד",
+              "sourceRef": "Torah Temimah on Torah, Leviticus 27:31:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דנפול מחיצות</strong> - פי' רוב מחיצות דאי נפול מקצתם אע\"ג דאסור לטלטל בשבת מ\"מ מקרי מחיצה לענין אכילת מעשר וקדשים קלים כדאמרינן ריש פרק אלו דברים <span class=\"parenthesized\">(פסחים דף סו. ושם ד\"ה תוחב ודף סז)</span> דההיא שמעתתא דהלל צריך להעמיד אחר שנפרצו בה פרצות לכך לא היו יכולין להוליך סכיניהם בשבת לעזרה לשחוט פסחיהם דקודם שנפרצו היו מותרים לטלטל כדאמר רבי יוחנן <span class=\"parenthesized\">(עירובין דף ו:)</span> ירושלים אלמלא דלתותיה נעולות בלילה חייבין עליה משום רה\"ר ואעפ\"כ בלילה היו אוכלין פסחיהם:",
+              "ref": "Tosafot on Bava Metzia 53b:5:1",
+              "sourceHeRef": "תוספות על בבא מציעא נ״ג ב:ה:א",
+              "sourceRef": "Tosafot on Bava Metzia 53b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rav Huna bar Yehuda</b> said that <b><span href=\"/topics/rav-sheshet\" class=\"namedEntityLink\" data-slug=\"rav-sheshet\">Rav Sheshet</span> said:</b> The <i>tanna</i> of the <i>baraita</i> <b>is teaching one</b> <i>halakha</i>: It is <b>with regard to second-tithe</b> produce <b>that is not worth</b> even <b>one <i>peruta</i></b> and <b>which</b> both <b>entered Jerusalem and</b> then <b>exited</b> it. It cannot be redeemed because it is worth less than one <i>peruta</i>. The Gemara asks: <b>Why? And let him bring it back</b> into Jerusalem <b>and partake of it</b> there. The Gemara answers: It is a case <b>where the partitions</b> surrounding the city <b>fell.</b>",
+      "he": "רַב הוּנָא בַּר יְהוּדָה אָמַר רַב שֵׁשֶׁת: חֲדָא קָתָנֵי: מַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה שֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא. אַמַּאי? וְנִיהְדַּר וּנְעַיְּילֵיהּ וְנֵיכְלֵיהּ! דִּנְפוּל מְחִיצוֹת.",
+      "ref": "Bava Metzia 53b:5"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ונפרקיה</b> <span class=\"hebrew-emphasis\">[ושיפדהו]?</span> <b>האמר</b> <span class=\"hebrew-emphasis\">[הרי אמר]</span> <b>רבא: מחיצה לאכול דאורייתא</b> <span class=\"hebrew-emphasis\">[מן התורה],</span> <b>מחיצה לקלוט דרבנן</b> <span class=\"hebrew-emphasis\">[מדברי חכמים],</span> <b>וכי</b> <span class=\"hebrew-emphasis\">[וכאשר]</span> <b>גזרו רבנן</b> <span class=\"hebrew-emphasis\">[חכמים]</span> — <b>כי איתנהו</b> <span class=\"hebrew-emphasis\">[כאשר ישנן]</span> <b>למחיצות; כי ליתנהו</b> <span class=\"hebrew-emphasis\">[</span>ו<span class=\"hebrew-emphasis\">כאשר אין]</span> <b>למחיצות</b> — <b>לא גזרו רבנן</b> <span class=\"hebrew-emphasis\">[חכמים].</span> ומשיבים: <b>לא פלוג רבנן</b> <span class=\"hebrew-emphasis\">[חלקו חכמים].</span>",
+              "ref": "Steinsaltz on Bava Metzia 53b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:ו",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:6"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And let him redeem</b> the second-tithe produce, as <b>doesn’t <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> say:</b> The <i>halakha</i> that <b>a partition</b> enables one <b>to eat</b> second-tithe produce is <b>by Torah law,</b> and the <i>halakha</i> with regard to the capability of <b>partitions</b> of the city <b>to gather</b> second-tithe produce into the city is <b>by rabbinic law, and when the Sages issued a decree</b> that partitions gather second-tithe produce in terms of their being considered within the city, they did so only <b>where there are</b> intact <b>partitions,</b> but <b>where there are no</b> intact <b>partitions, the Sages did not issue a decree?</b> The Gemara answers: <b>The Sages did not distinguish</b> between cases where there are intact partitions and cases where there are not intact partitions.",
+      "he": "וְנִפְרְקֵיהּ? הָאָמַר רָבָא: מְחִיצָה לֶאֱכוֹל דְּאוֹרָיְיתָא, מְחִיצָה לִקְלוֹט דְּרַבָּנַן, וְכִי גְּזַרוּ רַבָּנַן – כִּי אִיתַנְהוּ לִמְחִיצוֹת. כִּי לֵיתַנְהוּ לִמְחִיצוֹת – לָא גְּזַרוּ רַבָּנַן. לָא פְּלוּג רַבָּנַן.",
+      "ref": "Bava Metzia 53b:6"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קָלַט</strong> (Biblical Hebrew) [<i>to surround</i>,] <br><b>1)</b> <i>to close, press</i>.—Part. pass. <span dir=\"rtl\">קָלוּט</span>; f. <span dir=\"rtl\">קְלוּטָה</span>; plural <span dir=\"rtl\">קְלוּטִים</span>; <span dir=\"rtl\">קְלוּטיֹת</span>. Sifra Emor, Parah 7, Chaldaic VII (explained <span dir=\"rtl\">קלוט</span>, <span class=\"refLink\" data-ref=\"Leviticus 22:23\" href=\"/Leviticus.22.23\">Vayikra XXII, 23</span>) <span dir=\"rtl\">פרסוֹת וכ׳</span> an animal whose hoofs resemble those of a horse &c.; <span class=\"refLink\" data-ref=\"Mishnah Bekhorot 6:7\" href=\"/Mishnah_Bekhorot.6.7\">Bekhoroth VI, 7</span> (<span class=\"refLink\" data-ref=\"Bekhorot 40a:14\" href=\"/Bekhorot.40a.14\">40ᵃ</span>) <span dir=\"rtl\">שרגליו ק׳ וכ׳</span>. <span class=\"refLink\" data-ref=\"Bekhorot 6a:18\" href=\"/Bekhorot.6a.18\">Bekhoroth 6ᵃ</span> <span dir=\"rtl\">פרסותיה ק׳</span> its hoofs are closed, opposed <span dir=\"rtl\">סדוקות</span> cloven. <span class=\"refLink\" data-ref=\"Mishnah Bekhorot 7:6\" href=\"/Mishnah_Bekhorot.7.6\">Ib. VII, 6</span> <span dir=\"rtl\">אצבעותיו … או ק׳ וכ׳</span> if his fingers lie one above the other or are grown together up to the root <span class=\"refLink\" data-ref=\"Jastrow, פֶּרֶק 1\" dir=\"rtl\" href=\"/Jastrow,_פֶּרֶק.1\">(פֶּרֶק</span>). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sotah 9:5:5\" href=\"Jerusalem_Talmud_Sotah.9.5.5\">Yerushalmi Sotah IX, 23ᵈ</span>; and e.—In gen. <span dir=\"rtl\">קָלוּט</span> <i>an animal with uncloven hoofs</i> (having the sign of uncleanness) <i>born of a clean animal, monster</i> or <i>hybrid</i>. <span class=\"refLink\" data-ref=\"Bekhorot 7a:14\" href=\"/Bekhorot.7a.14\">Bekhoroth 7ᵃ</span> <span dir=\"rtl\">ק׳ בן פרה</span> a <i>ḳaluṭ</i> born of a cow; <span class=\"refLink\" data-ref=\"Chullin 68b:9\" href=\"/Chullin.68b.9\">Chullin 68ᵇ</span>. <span class=\"refLink\" data-ref=\"Chullin 68b:8\" href=\"/Chullin.68b.8\">Ib.</span> <span dir=\"rtl\">ק׳ במעי פרה</span> a <i>ḳaluṭ</i> found in a cow (after ritual slaughtering); <span class=\"refLink\" data-ref=\"Chullin 69a:2\" href=\"/Chullin.69a.2\">ib. 69ᵃ</span>. <span class=\"refLink\" data-ref=\"Shabbat 67a:6\" href=\"/Shabbat.67a.6\">Shabbat 67ᵃ</span> <span dir=\"rtl\">זרעיך כק׳ וכפרדה וכ׳</span> thy seed be like a <i>ḳ</i>. and like a mule &c. (Rashi: ‘like one whose semen is locked up’); and e. <br><b><br>—2)</b> <i>to clutch, intercept, receive; to conceive, retain, absorb</i>. <span class=\"refLink\" data-ref=\"Chullin 65a:3\" href=\"/Chullin.65a.3\">Chullin 65ᵃ</span> <span dir=\"rtl\">כל עוף הקוֹלֵט מן האויר וכ׳</span> any bird that snatches in the air (for things thrown to it) is unclean. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 41:6\" href=\"/Bereishit_Rabbah.41.6\">Breishit Rabbah section (Parashah) 41</span> <span dir=\"rtl\">אינה קוֹלֶטֶת</span>, see <span class=\"refLink\" data-ref=\"Jastrow, פֶּרֶד II 1\" href=\"/Jastrow,_פֶּרֶד II.1\"><span dir=\"rtl\">פֶּרֶד</span> II</span>. <span class=\"refLink\" data-ref=\"Keritot 5a:101\" href=\"/Keritot.5a.101\">Keritot 5ᵃ</span> <span dir=\"rtl\">וק׳ את הריח</span> and the oil retained (absorbed) the scent. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 5:3\" href=\"/Bereishit_Rabbah.5.3\">Breishit Rabbah section (Parashah) 5</span> <span dir=\"rtl\">קְלָטָן הים</span> the sea absorbed them (the waters of the rivers); <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 848:1\" href=\"/Yalkut_Shimoni_on_Nach.848.1\">Yalkut Psalms 848</span> <span dir=\"rtl\">קְלָטָם</span>. <span class=\"refLink\" data-ref=\"Pirkei Avot 5:15\" href=\"/Pirkei_Avot.5.15\">Pirkei Avot V, 15</span> <span dir=\"rtl\">שמוציאה את היין וקולטת וכ׳</span> which passes the wine and retains the lees; <span dir=\"rtl\">שמוציאה … וק׳ את הסולת</span> which passes the common flour and retains the fine flour (see <span class=\"refLink\" data-ref=\"Jastrow, צוּף 1\" dir=\"rtl\" href=\"/Jastrow,_צוּף.1\">צוּף</span>). <span class=\"refLink\" data-ref=\"Sanhedrin 108b:7\" href=\"/Sanhedrin.108b.7\">Sanhedrin 108ᵇ</span> <span dir=\"rtl\">כל שהתיבה קוֹלַטְתּוֹ</span> whatever animal the ark received. <span class=\"refLink\" data-ref=\"Mishnah Shabbat 1:6\" href=\"/Mishnah_Shabbat.1.6\">Shabbat I, 6</span> <span dir=\"rtl\">כדי שיִקְלוֹט העין</span> when there is time enough before the Sabbath for the wool to assume the color of the dye. <span class=\"refLink\" data-ref=\"Vayikra Rabbah 14:8\" href=\"/Vayikra_Rabbah.14.8\">Vayikra Rabbah section (Parashah) 14</span> <span dir=\"rtl\">אין האשה קולטת וכ׳</span> a woman conceives only shortly after menstruation. <span class=\"refLink\" data-ref=\"Mishnah Sheviit 2:6\" href=\"/Mishnah_Sheviit.2.6\">Sheviit II, 6</span> <span dir=\"rtl\">כל הרכבה שאינה קולטת וכ׳</span> a grafting which does not take root within three days, will never do so; and see from—<span class=\"refLink\" data-ref=\"Shemot Rabbah 1:32\" href=\"/Shemot_Rabbah.1.32\">Shemot Rabbah section (Parashah) 1</span> <span dir=\"rtl\">ק׳ דרך וכ׳</span> he (Moses) adopted the manner of his ancestors (finding wives at the well); Midrash Tanḥuma Sh’moth 10 <span dir=\"rtl\">לקח</span>.—Esp. (see <span class=\"refLink\" data-ref=\"Jastrow, מִקְלָט 1\" dir=\"rtl\" href=\"/Jastrow,_מִקְלָט.1\">מִקְלָט</span>) <i>to protect, give the shelter of an asylum</i>. <span class=\"refLink\" data-ref=\"Makkot 12a:3\" href=\"/Makkot.12a.3\">Makkot 12ᵃ</span> <span dir=\"rtl\">אינו קולט אלא גגו</span> only the top of the altar protects him that flees to it; <span dir=\"rtl\">אינו קולט … עולמים</span> only the altar of the permanent sanctuary (in Jerusalem) offers protection; <span dir=\"rtl\">אינו קולט אלא כהן וכ׳</span> protects only the priest while at service &c. Ib. <span dir=\"rtl\">אינה קולטת אלא בצר</span> only Bezer is an asylum (but not Bozrah). Ib.ᵇ <span dir=\"rtl\">פלכו קוֹלְטוֹ</span> his (the Levite’s) district protects him. Ib. <span dir=\"rtl\">עיר שקְלָטַתּוּ כבר</span> a town which has received him once before. <span class=\"refLink\" data-ref=\"Sifrei Bamidbar 160:2\" href=\"/Sifrei_Bamidbar.160.2\">Sifré Bamidbar 160</span> <span dir=\"rtl\">אין לי אלא שקוֹלְטוֹת בארץ</span> this would indicate only that they (these cities) offer asylum for manslaughter committed in Palestine. <span class=\"refLink\" data-ref=\"Sifrei Bamidbar 160:2\" href=\"/Sifrei_Bamidbar.160.2\">Ib.</span> <span dir=\"rtl\">לא קָלְטָה אחת מהם עד וכ׳</span> none of those cities had the right of asylum until all of them had been designated; and from—<span class=\"refLink\" data-ref=\"Makkot 10a:11\" href=\"/Makkot.10a.11\">Makkot 10ᵃ</span> <span dir=\"rtl\">מנין … קוֹלְטִין</span> whence do you learn that the words of the Law offer protection (to its students)?; <span class=\"refLink\" data-ref=\"Makkot 10a:13\" href=\"/Makkot.10a.13\">ib.</span> <span dir=\"rtl\">קולטין ממלאך וכ׳</span> they protect from the angel of death. <br><b><br>—3)</b> (of sacred precincts) <i>to retain; to make export illegal</i>. Ib. 19ᵇ <span dir=\"rtl\">קְלָטוּהוּ מחיצות</span> the sacred precincts have retained it (and it cannot be redeemed and taken out of Jerusalem again); ib. 20ᵃ. Ib. <span dir=\"rtl\">מחיצה לִקְלוֹט דרבנן</span> that the precincts have retaining power is merely a rabbinical enactment; <span class=\"refLink\" data-ref=\"Sanhedrin 113a\" href=\"/Sanhedrin.113a\">Sanhedrin 113ᵃ</span>; <span class=\"refLink\" data-ref=\"Bava Metzia 53b:7\" href=\"/Bava_Metzia.53b.7\">Bava Metzia 53ᵇ</span>.—Part. pass. as ab. <span class=\"refLink\" data-ref=\"Shabbat 4a\" href=\"/Shabbat.4a\">Shabbat 4ᵃ</span>, and from <span dir=\"rtl\">קלוטה כמי שהונחה דמיא</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נוּחַ 1\" dir=\"rtl\" href=\"/Jastrow,_נוּחַ.1\">נוּחַ</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, קָלַט 1",
+              "sourceHeRef": "מילון יסטרוב, קָלַט א׳",
+              "sourceRef": "Jastrow, קָלַט 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When produce from the second tithe is mixed with other substances, it is considered as nullified when mixed with a simple majority.<br>To which produce from the second tithe does this apply? To produce that entered Jerusalem and then departed from there and afterwards, the walls of the city fell. Thus it is impossible to return it to [the holy city] and it is impossible to redeem since it has already entered that place. [This applies] even though [its fifth] is not worth a <i>p'rutah</i>. It is a substance that has no way to be permitted and is therefore nullified by a simple majority, as stated in <i>Hilchot Issurei Ma'achalot</i>.",
+              "he": "מַעֲשֵׂר שֵׁנִי בָּטֵל בְּרֹב. בְּאֵיזֶה מַעֲשֵׂר אָמְרוּ בְּמַעֲשֵׂר שֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא וְנָפְלוּ מְחִצּוֹת. שֶׁהֲרֵי אֵין שָׁם מְחִצּוֹת לְהַחֲזִירוֹ לְשָׁם וְאִי אֶפְשָׁר לִפְדּוֹתוֹ מֵאַחַר שֶׁנִּכְנַס וְאַף עַל פִּי שֶׁאֵין בּוֹ שְׁוֵה פְּרוּטָה וְנִמְצָא דָּבָר שֶׁאֵין לוֹ מַתִּירִין וּבָטֵל בְּרֹב כְּמוֹ שֶׁבֵּאַרְנוּ בְּהִלְכוֹת אִסּוּרֵי מַאֲכָלוֹת:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 6:16",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ו:טז",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 6:16"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אפי' יש בו שוה פרוטה</strong> - נמי לאו בר אכילה ולאו בר חילול הוא ואמאי תני באיזה מעשר אמרו בשאין בו שוה פרוטה כו':",
+              "ref": "Rashi on Bava Metzia 53b:7:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ז:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא מבעיא יש בו</strong> - דכיון דבר פדייה הוא חיילא עליו קליטת מחיצות דרבנן ולא מיפרוק תו אבל אין בו אימא בכה\"ג לא לגזור רבנן קליטת מחיצות לפדייה דמילתא דלא שכיח היא לחללו על מעות הראשונות וניעבד ליה כדחזקיה קמ\"ל:",
+              "ref": "Rashi on Bava Metzia 53b:7:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ז:ב",
+              "sourceRef": "Rashi on Bava Metzia 53b:7:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>אי הכי</b> <span class=\"hebrew-emphasis\">[אם כך]</span> אתה מפרש ענין זה, אם כן <b>מאי איריא</b> <span class=\"hebrew-emphasis\">[מה שייך,</span> מדוע דווקא<span class=\"hebrew-emphasis\">]</span> מדובר כאשר <b>אין בו שוה פרוטה? אפילו יש בו נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> יהיה זה דינו! ומשיבים: בסגנון <b>\"לא מיבעיא</b> <span class=\"hebrew-emphasis\">[נצרכה]</span> <b>\" קאמר</b> <span class=\"hebrew-emphasis\">[אמר],</span> וכך יש להבין: <b>לא מיבעיא</b> <span class=\"hebrew-emphasis\">[נצרכה]</span> לומר בש <b>יש בו</b> שווה פרוטה שדינו <b>דקלטן ליה</b> <span class=\"hebrew-emphasis\">[שקולטות אותו]</span> ה<b>מחיצות</b> ואינו ניתן להפדות שנית. <b>אבל אין בו</b> שווה פרוטה, <b>אימא</b> <span class=\"hebrew-emphasis\">[אמור]</span> ש<b>לא קלטו ליה</b> <span class=\"hebrew-emphasis\">[יקלטו אותו]</span> ה<b>מחיצות,</b> על כן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[השמיע לנו]</span> שאף זה המחיצות קלטוהו, ואין לו תקנה.",
+              "ref": "Steinsaltz on Bava Metzia 53b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:ז",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "When a mishna discusses a specific case, the tendency is to infer that the <i>halakha </i>in the mishna applies exclusively to that case and not to others that were omitted. Occasionally, the Gemara suggests that the mishna discussed a less obvious case and the <i>halakha </i>would all the more so apply to the more obvious case that was omitted. There is no need to mention the obvious case, as the mishna teaches that the <i>halakha </i>applies even in the less obvious case.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 53b:7",
+              "sourceHeRef": "לָא מִיבָּעֲיָא קָאָמַר",
+              "sourceRef": "The <i>tanna</i> is speaking utilizing the style of, It is not necessary"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין בו שוה פרוטה</strong> - אין תופס פדיון ולא בעי למדרש אין בו שוה פרוטה אין מוסיף חומש אבל פדיון תופס דסברא לאוקמא מיעוטא בגופה ולא בחומש דפחות משוה פרוטה לא חשיב ממון לתפוס פדיון אבל למ\"ד אין בחומשו קשה דטפי הוה ליה למדרש דאינו מוסיף חומש:",
+              "ref": "Tosafot on Bava Metzia 53b:7:1",
+              "sourceHeRef": "תוספות על בבא מציעא נ״ג ב:ז:א",
+              "sourceRef": "Tosafot on Bava Metzia 53b:7:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara comments: <b>If so, why</b> did the <i>tanna</i> teach <b>specifically</b> a case where the produce <b>does not have the value of one <i>peruta</i>?</b> The same would hold true <b>even if it has</b> the value of one <i>peruta</i>. The Gemara answers: The <i>tanna</i> <b>is speaking</b> utilizing the style of: <b>It is not necessary. It is not necessary</b> to state that if the produce <b>has</b> the value of one <i>peruta</i> the <i>halakha</i> is <b>that the partitions gather it</b> and it can no longer be redeemed, <b>but</b> if <b>it does not have</b> the value of one <i>peruta</i>, <b>say</b> that <b>the partitions do not gather it.</b> Therefore, <b>he teaches us</b> that the partitions gather even second-tithe produce worth less than one <i>peruta</i>, and it cannot be redeemed.",
+      "he": "אִי הָכִי, מַאי אִירְיָא אֵין בּוֹ שָׁוֶה פְּרוּטָה? אֲפִילּוּ יֵשׁ בּוֹ נָמֵי! לָא מִיבַּעְיָא קָאָמַר. לָא מִיבַּעְיָא יֵשׁ בּוֹ, דְּקָלְטָן לֵיהּ מְחִיצוֹת. אֲבָל אֵין בּוֹ, אֵימָא: לָא קְלַטוּ לֵיהּ מְחִיצוֹת, קָא מַשְׁמַע לַן.",
+      "ref": "Bava Metzia 53b:7"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "10) (Vayikra 27:31) (\"And if redeem, will redeem, a man of his ma'aser, its fifth shall he add upon it.\") \"redeem, will redeem\": to include his wife. \"and if redeem will redeem\": to include his heir. \"a man\": to exclude a minor. I might think to include one who is nine years and one day (and above); it is, therefore, written \"and if redeem will redeem, a man.\" \"of his ma'aser\": and not all of his ma'aser — to exclude (from redemption) ma'aser which was brought into Jerusalem and then taken out. (Once it was in Jerusalem, the mitzvah of eating it in Jerusalem devolved upon it, and it can no longer be redeemed), and to exclude (from redemption, ma'aser) which does not have (in itself or in the fifth) the value of a perutah. \"shall he add upon it\": so that it and its fifth are five (equal parts. See 2) above).",
+              "he": "[י] \"ואם גאל יגאל\" – לרבות את האשה. \"ואם גאל יגאל\" – לרבות את היורש. \"איש\" – פרט לכהן. או יכול שאני מוציא בן תשע שנים ויום אחד? תלמוד לומר \"גאל יגאל\". \"ממעשרו\" – אין לי אלא מעשר שנכנס משדותיו; לקח, ירש, ניתן לו במתנה מנין? תלמוד לומר \"ואם גאל יגאל\". \"ממעשרו\" – ולא כל מעשרו; פרט למעשר שנכנס לירושלים ויצא ופרט לפחות משוה פרוטה. \"יֹסֵף עָלָיו\" – שיהא הוא וחומשו חמשה.",
+              "ref": "Sifra, Bechukotai, Chapter 12 10",
+              "sourceHeRef": "ספרא, בחוקתי, פרק יב י׳",
+              "sourceRef": "Sifra, Bechukotai, Chapter 12 10"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When the fifth of the produce of the second tithe is not worth a <i>p'rutah</i>, [the person redeeming it] need not add a fifth. Similarly, when the worth of the produce of the second tithe is unknown, it is sufficient for him to say: \"The holiness of the produce and its fifth are transferred to this <i>sela</i>.\" Whenever a person does not redeem produce from the second tithe with his own money, he need not add a fifth. [When one redeems] produce from the second tithe that is <i>demai</i>, he need not add a fifth.",
+              "he": "מַעֲשֵׂר שֵׁנִי שֶׁאֵין בְּחֻמְשׁוֹ שְׁוֵה פְּרוּטָה אֵינוֹ מוֹסִיף עָלָיו חֹמֶשׁ. וְכֵן מַעֲשֵׂר שֶׁאֵין דָּמָיו יְדוּעִין דַּיּוֹ שֶׁיֹּאמַר הוּא וְחֻמְשׁוֹ מְחֻלָּל עַל הַסֶּלַע הַזֶּה. וְכָל מַעֲשֵׂר שֶׁהוּא אֵינוֹ פּוֹדֵהוּ מִשֶּׁלּוֹ אֵינוֹ מוֹסִיף חֹמֶשׁ. וּמַעֲשֵׂר שֵׁנִי שֶׁל דְּמַאי אֵינוֹ מוֹסִיף עָלָיו חֹמֶשׁ:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 5:4",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ה:ד",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 5:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פרט לשאין בו שוה פרוטה</strong> - שאינו בכלל גאולה ולימדך שאינה תופסת פרוטה:",
+              "ref": "Rashi on Bava Metzia 53b:8:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ח:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב אמי אמר אין בו שוה פרוטה</strong> - שנינו אבל אם יש בו שוה פרוטה בר גאולה הוא ותופס פדיונו:",
+              "ref": "Rashi on Bava Metzia 53b:8:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ח:ב",
+              "sourceRef": "Rashi on Bava Metzia 53b:8:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורב אסי אמר אין בחומשו שוה פרוטה</strong> - שנינו דלאו בר גאולה הוא עד שיהא בו שוה ארבע פרוטות כדי שיהא ראוי לתוספת חומש דכתיב בהאי קרא:",
+              "ref": "Rashi on Bava Metzia 53b:8:3",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ח:ג",
+              "sourceRef": "Rashi on Bava Metzia 53b:8:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> נאמר <b>\"אם גאל יגאל איש ממעשרו</b> חמישיתו יוסף עליו<b>\"</b> (ויקרא כז, לא), ודיוק הלשון: <b>\"ממעשרו\"</b> — <b>ולא כל מעשרו.</b> שלשון זו באה למעט דברים מסויימים; פרט <b>למעשר שני שאין בו שוה פרוטה,</b> שאין לו גאולה (פדיון). <b>איתמר</b> <span class=\"hebrew-emphasis\">[נאמר],</span> שנחלקו אמוראים בפירוש הלכה זו. <b>רב אמי אמר:</b> הכוונה היא ש<b>אין בו,</b> שהמעשר עצמו אינו <b>שוה פרוטה.</b> ואילו <b>רב אסי אמר: אין בחומשו.</b> שאף אם המעשר עצמו שווה פרוטה, אם החומש שצריך להוסיף עליו אינו שווה פרוטה, אין בו דין פדיון. וכיוצא בזה נחלקו גם חכמים אחרים בבעיה זו. <b>ר' יוחנן אמר: אין בו. ר' שמעון בן לקיש אמר: אין בחומשו.</b>",
+              "ref": "Steinsaltz on Bava Metzia 53b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:ח",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one-fifth of the principal of second tithe is less than one <i>peruta</i>, one who redeems his produce need not add a payment of one-fifth. This is the ruling of the Ramban, as it is supported by the <i>baraita </i>(Rambam <i>Sefer Zera’im</i>,<i> Hilkhot Ma’aser Sheni</i> 5:4).",
+              "he": "לא כל הפוסקים הסכימו בדבר זה, אבל הרמב\"ם (ע\"פ התלמוד הירושלמי) סבור שכיון שאין בחומשו שווה פרוטה, אף אין דין פדיון בקרן. אבל חלה קדושה עליו מעיקרו, ואילו הראב\"ד כנראה סבור שבכלל לא חלה קדושת מעשר שני בכמות שכזו.",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 53b:8",
+              "sourceHeRef": "אֵין בְּחוּמְשׁוֹ",
+              "sourceRef": "Its payment of one-fifth does not have the value of one <i>peruta </i>"
+            },
+            {
+              "en": "Although not all authorities agree, the Rambam, based on the Jerusalem Talmud, maintains that if one-fifth of the principal is less than one <i>peruta</i>, even the principal cannot be redeemed, although the sanctity of second tithe took effect upon that produce. The Ra’avad seems to maintain that in a case where one-fifth of the value of the produce would not equal at least one <i>peruta</i>, the sanctity of second tithe does not take effect upon even that produce.",
+              "he": "מעשר שני שאין בחומשו שווה פרוטה — אינו מוסיף עליו חומש. ופסק הרמב\"ם כשיטה זו שהברייתא מסייעת לה. (רמב\"ם ספר זרעים הלכות מעשר שני, פ\"ח ה\"ד).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 53b:8",
+              "sourceHeRef": "אֵין בְּחוּמְשׁוֹ",
+              "sourceRef": "Its additional payment of one-fifth does not have the value of one <i>peruta</i>"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "If anyone wishes to redeem any of his tithes, he must add one-fifth to them.",
+              "he": "וְאִם־גָּאֹ֥ל יִגְאַ֛ל אִ֖ישׁ מִמַּֽעַשְׂר֑וֹ חֲמִשִׁית֖וֹ יֹסֵ֥ף עָלָֽיו׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:31",
+              "sourceHeRef": "ויקרא כז:לא",
+              "sourceRef": "Leviticus 27:31"
+            }
+          ]
+        }
+      },
+      "en": "<b>The Sages taught</b> that it is written: <b>“And if a man will redeem of his tithe,</b> he shall add to it the fifth part thereof” (Leviticus 27:31), from which it is inferred: <b>Of his tithe, but not all his tithe.</b> This serves <b>to exclude second tithe that does not have the value of one <i>peruta</i>,</b> which cannot be redeemed. <b>It was stated</b> that there is an amoraic dispute with regard to this <i>halakha</i>. <b><span href=\"/topics/rabbi-ammi\" class=\"namedEntityLink\" data-slug=\"rabbi-ammi\">Rav Ami</span> says:</b> The second tithe cannot be redeemed in a case where the produce itself <b>does not have</b> the value of one <i>peruta</i>. <b><span href=\"/topics/rabbi-assi\" class=\"namedEntityLink\" data-slug=\"רב-אסי-(ambiguous)\">Rav Asi</span> says:</b> The second tithe cannot be redeemed in a case where <b>its</b> additional payment of <b>one-fifth does not have</b> the value of one <i>peruta</i>. Other <i>amora’im</i> dispute the same issue. <b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> says:</b> The produce itself <b>does not have</b> the value of one <i>peruta</i>. <b><span href=\"/topics/rabbi-shimon-b-lakish\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-lakish\">Rabbi Shimon ben Lakish</span> says: Its</b> additional payment of <b>one-fifth does not have</b> the value of one <i>peruta</i>.",
+      "he": "תָּנוּ רַבָּנַן: ״אִם גָּאֹל יִגְאַל אִישׁ מִמַּעַשְׂרוֹ״, מִמַּעַשְׂרוֹ – וְלֹא כׇּל מַעַשְׂרוֹ. פְּרָט לְמַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה. אִיתְּמַר. רַב אַמֵּי אָמַר: אֵין בּוֹ. רַב אַסִּי אָמַר: אֵין בְּחוּמְשׁוֹ. רַבִּי יוֹחָנָן אָמַר: אֵין בּוֹ. רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אָמַר: אֵין בְּחוּמְשׁוֹ.",
+      "ref": "Bava Metzia 53b:8",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person is redeeming produce of the second tithe and he has other produce from the second tithe that was not redeemed whose fifth is not worth a <i>p'rutah</i>, it is sufficient for him to say: \"The holiness of it and its fifth are transferred to the money [set aside] originally.\" [This leniency is granted,] because it is impossible to require a person to be precise with his money.",
+              "he": "הַפּוֹדֶה מַעֲשֵׂר שֵׁנִי וְהָיָה לוֹ מַעֲשֵׂר שֵׁנִי אַחֵר שֶׁלֹּא נִפְדָּה. אִם אֵין בְּחֻמְשׁוֹ שְׁוֵה פְּרוּטָה דַּיּוֹ שֶׁיֹּאמַר הוּא וְחֻמְשׁוֹ מְחֻלָּל עַל מָעוֹת הָרִאשׁוֹנוֹת לְפִי שֶׁאִי אֶפְשָׁר לְאָדָם לְצַמְצֵם אֶת מְעוֹתָיו:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 5:5",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ה:ה",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 5:5"
+            }
+          ]
+        },
+        "Peninei Halakhah": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אם שוויו של ה'מעשר שני' פחות מפרוטה, אין אפשרות לפדותו <span class=\"parenthesized\">(ב\"מ נג, ב)</span>, מפני שכל שהוא שווה פחות מפרוטה, אין בו חשיבות כדי שאפשר יהיה לבצע בו פעולה של קניין או פדיון. וכיוון שאי אפשר לפדותו, וגם אסור לאוכלו או לאבדו או לבזותו, יש לעוטפו ולהניחו בפח, כשם שנוהגים בתרומות. והרוצה להקל, יכול להחליט בדעתו שמבחינתו הוא שווה פרוטה ולפדותו על פרוטה. אבל הרעיון של 'פרוטה חמורה' דחוק ואין בו תועלת, ולכן אין להשתמש בו, כמבואר בהערה.",
+              "ref": "Peninei Halakhah, Kashrut 9:14:2",
+              "sourceHeRef": "כשרות ט:יד:ב",
+              "sourceRef": "Kashrut 9:14:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דיו שיאמר כו'</strong> - כדחזקיה ולא אמרינן ימתין עד שיעלנו לירושלים או ימתין עד שיצרפנו עם אחר דכיון דבחומשיה ליכא [פרוטה] לא קחשיב ודיו בכך:",
+              "ref": "Rashi on Bava Metzia 53b:9:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:ט:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי</b> <span class=\"hebrew-emphasis\">[מקשים]</span> על כך ממה ששנינו בברייתא: <b>מעשר שני שאין בו שוה פרוטה</b> — <b>דיו שיאמר \"הוא וחומשו מחולל על מעות ראשונות\".</b>",
+              "ref": "Steinsaltz on Bava Metzia 53b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:ט",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:9"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "3:4 R. Judah suggests that one might profit a roba' (half a dinar) when transporting a gold dinar from one place to another, while R. Eliezer limits the potential profit to a silver dinar. When dealing with second tithe produce that has no value, the requirement is to say, “It and its added fifth are deconsecrated with this issur (one-twenty-fourth of a dinar).”",
+              "he": "היה מוליכו ממקום למקום, ומשתכר עליו יתר על שיויו רובע <span class=\"parenthesized\">(על שיואו רבע)</span> דברי ר' יהודה. ר' אלעזר אמ' עד דינר. מעשר שיני אין לו דמים, דין הוא שיאמר, הוא וחומשו מחולל על איסר זה.",
+              "ref": "Tosefta Maaser Sheni (Lieberman) 3:4",
+              "sourceHeRef": "תוספתא מעשר שני (ליברמן) ג:ד",
+              "sourceRef": "Tosefta Maaser Sheni (Lieberman) 3:4"
+            },
+            {
+              "en": "",
+              "he": "פודין מעשר שני כשער הזול כמו שחנוני לוקח [ולא כמו שהוא מוכר ר\"ש בן אלעזר אומר כמו שחנוני לוקח באותו המין] הפורט [דינר כסף] למעשר שני כמו שחנוני לוקח ולא כמו שהוא מוכר המצרף דינר [זהב] למעשר שני כמו ששולחני פורט ולא כמו שהוא מצרף היה מוליכו ממקום למקום ומשתכר עליו על שויו רבע דברי ר' יהודה [רא\"א] עד דינר מע\"ש [אין לו דמים דין הוא] שיאמר הוא וחומשו מחולל על איסר זה.",
+              "ref": "Tosefta Maaser Sheni 3:2",
+              "sourceHeRef": "תוספתא מעשר שני ג:ב",
+              "sourceRef": "Tosefta Maaser Sheni 3:2"
+            },
+            {
+              "en": "",
+              "he": "<span class=\"hebrew-emphasis\">9.</span> <b>אין לו דמים דין הוא שיאמר וכו'. </b>וכ\"ה בד. והנכון בכפו\"פ <span class=\"parenthesized\">(פ\"מ סוף עמ' תקמ\"ח)</span>: וזהו שהזכירה התוספתא מעשר שני שאין לו דמים דיו שיאמר וכו', וכן בכי\"ע: שאין לו זיתים <span class=\"parenthesized\">(צ\"ל: דמים)</span> דיו שיאמר וכו'. ובירושלמי פ\"ד ה\"ג, נ\"ד ע\"ד: מעשר שני שאין דמיו ידועין, דייו שיאמר הוא וחומשו מחולל על הסלע הזה וכו'. בסלע של מעשר שני היא מתניתא <span class=\"parenthesized\">(כלומר, מחלל על סלע של מע\"ש)</span>, אי אפשר שלא יהא שם חולין כל שהן. ומכיון שהמעשר מתחלל כאן על חולין כל שהן, הרי מוכח שאין דמיו ידועין מחמת מיעוטו ופחיתות מחירו. ועיין בשנות אליהו פ\"ד מ\"ג. ובכפו\"פ הנ\"ל פירש שמדברים בפירות שהרקיבו וכו', עיי\"ש. ובבבלי <span class=\"parenthesized\">(ב\"מ נ\"ג ב')</span> מפורש: מעשר שני שאין בו שוה פרוטה דיו שיאמר הוא וחומשו מחולל על מעות הראשונות <span class=\"parenthesized\">(ועיין תו\"כ בחוקותי פי\"ב ה\"י, קט\"ו ע\"ב)</span>.",
+              "ref": "Tosefta Kifshutah on Maaser Sheni 3:4:4",
+              "sourceHeRef": "תוספתא כפשוטה על מעשר שני ג:ד:ד",
+              "sourceRef": "Tosefta Kifshutah on Maaser Sheni 3:4:4"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara <b>raises an objection</b> from a <i>baraita</i>: With regard to <b>second-tithe</b> produce <b>that does not have the value of one <i>peruta</i>,</b> it is <b>sufficient that he will say: It and its</b> additional payment of <b>one-fifth are desacralized upon the first coins</b> upon which I already redeemed second-tithe produce.",
+      "he": "מֵיתִיבִי: מַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה – דַּיּוֹ שֶׁיֹּאמַר ״הוּא וְחוּמְשׁוֹ מְחוּלָּל עַל מָעוֹת רִאשׁוֹנוֹת״.",
+      "ref": "Bava Metzia 53b:9"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person is redeeming produce of the second tithe and he has other produce from the second tithe that was not redeemed whose fifth is not worth a <i>p'rutah</i>, it is sufficient for him to say: \"The holiness of it and its fifth are transferred to the money [set aside] originally.\" [This leniency is granted,] because it is impossible to require a person to be precise with his money.",
+              "he": "הַפּוֹדֶה מַעֲשֵׂר שֵׁנִי וְהָיָה לוֹ מַעֲשֵׂר שֵׁנִי אַחֵר שֶׁלֹּא נִפְדָּה. אִם אֵין בְּחֻמְשׁוֹ שְׁוֵה פְּרוּטָה דַּיּוֹ שֶׁיֹּאמַר הוּא וְחֻמְשׁוֹ מְחֻלָּל עַל מָעוֹת הָרִאשׁוֹנוֹת לְפִי שֶׁאִי אֶפְשָׁר לְאָדָם לְצַמְצֵם אֶת מְעוֹתָיו:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 5:5",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ה:ה",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 5:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא למ\"ד אין בו מאי דיו</strong> - מאי רבותיה דאצטריך למתני דיו ליתני אומר הוא וחומשו כו':",
+              "ref": "Rashi on Bava Metzia 53b:10:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:י:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בשלמא למאן דאמר</b> <span class=\"hebrew-emphasis\">[נניח ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> <b>אין בחומשו</b> — <b>היינו דקתני</b> <span class=\"hebrew-emphasis\">[זהו</span> הטעם <span class=\"hebrew-emphasis\">ששנה]</span> <b>\"דיו\",</b> ששינה בלשון, ואמר שלמרות הכל דיו בכך, להשמיענו <b>דאף על גב דבדידיה אית ביה</b> <span class=\"hebrew-emphasis\">[שאף על פי שהוא בעצמו יש בו]</span> שווה פרוטה, <b>כיון דבחומשיה ליכא</b> <span class=\"hebrew-emphasis\">[שבחומשו אין]</span> — <b>שפיר</b> <span class=\"hebrew-emphasis\">[יפה,</span> טוב עשה<span class=\"hebrew-emphasis\">].</span> ודי לו אם יחללנו בתוך מעות מעשר אחרות, או יבליענו בצורה דומה. <b>אלא למאן דאמר</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> <b>\"אין בו\"</b> עצמו, <b>מאי</b> <span class=\"hebrew-emphasis\">[מה]</span> לשון <b>\"דיו\"?</b> הרי מתחילה אין בו ערך חשוב שיהא צד פדיון כלל! ומעירים: אכן <b>קשיא</b> <span class=\"hebrew-emphasis\">[קשה]</span> הדבר, שאין הלשון מדוקדקת על פי שיטה זו.",
+              "ref": "Steinsaltz on Bava Metzia 53b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:י",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וכבר שאלו אחרונים מפני מה לא אמר בלשון \"תיובתא\", שהרי זו קושיא שאין לה תירוץ, ונדחתה השיטה האחרת להלכה (כפסק הרמב\"ם. אף על פי שיש אומרים שהרמב\"ם פסק לפי נוסחת התלמוד הירושלמי המחליפה דעות החולקים). ותירצו שיש מחלוקת תנאים בהקדשות בנושא זה עצמו, וכן אפשר היה לתרץ ולומר שברייתא זו היא כשיטת התנא האחר (נפש חיה, הלכה למשה).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 53b:10",
+              "sourceHeRef": "קשיא",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains the objection: <b>Granted, according to the one who says:</b> There is <b>not</b> the value of a <i>peruta</i> <b>in its</b> additional payment of <b>one-fifth, this</b> is the reason <b>that the</b> <i>tanna</i> <b>teaches: It is sufficient,</b> which indicates <b>that even though in</b> the produce <b>itself it has</b> the value of one <i>peruta</i>, <b>since</b> there is <b>not</b> the value of a <i>peruta</i> <b>in its one-fifth</b> payment, it works out <b>well,</b> as it is sufficient if he redeems the produce with other second-tithe produce. <b>But according to the one who says:</b> It is in a case where the produce itself <b>does not have</b> the value of one <i>peruta</i> that the second tithe cannot be redeemed, <b>what</b> is the meaning of: <b>It is sufficient?</b> From the outset, there was never sufficient value for there to be any element of redemption. The Gemara concludes: Indeed, it is <b>difficult</b> to explain the <i>baraita</i> according to that opinion.",
+      "he": "בִּשְׁלָמָא לְמַאן דְּאָמַר ״אֵין בְּחוּמְשׁוֹ״ – הַיְינוּ דְּקָתָנֵי ״דַּיּוֹ״, דְּאַף עַל גַּב דִּבְדִידֵיהּ אִית בֵּיהּ, כֵּיוָן דִּבְחוּמְשֵׁיהּ לֵיכָּא – שַׁפִּיר. אֶלָּא לְמַאן דְּאָמַר ״אֵין בּוֹ״, מַאי ״דַּיּוֹ״? קַשְׁיָא.",
+      "ref": "Bava Metzia 53b:10"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">חוּמְשָׁא</strong>, <strong dir=\"rtl\">חוֹמֶשׁ</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, חוֹמֶשׁ 1\" href=\"/Jastrow,_חוֹמֶשׁ.1\">same</span>. <span class=\"refLink\" data-ref=\"Onkelos Leviticus 5:24\" href=\"/Onkelos_Leviticus.5.24\">Targum Vayikra V, 24</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Genesis 47:26\" href=\"/Targum_Jonathan_on_Genesis.47.26\">Targum Yonatan Breishit XLVII, 26</span>; and e.—<span class=\"refLink\" data-ref=\"Bava Metzia 53b:11\" href=\"/Bava_Metzia.53b.11\">Bava Metzia 53ᵇ</span> <span dir=\"rtl\">ח׳ מלגיו</span> the one fifth is included in the amount, i.e. the addition is one fifth of the principal (see <span class=\"refLink\" data-ref=\"Jastrow, חוֹמֶשׁ 1\" href=\"/Jastrow,_חוֹמֶשׁ.1\">preceding word</span>); <span dir=\"rtl\">ח׳ מלבר</span> the one fifth is excluded, i.e. the addition must form one fifth of the principal plus the addition (25 percent), see <span class=\"refLink\" data-ref=\"Jastrow, בַּר 1\" dir=\"rtl\" href=\"/Jastrow,_בַּר.1\">בַּר</span> I Chaldaic—Ib. 54ᵇ <span dir=\"rtl\">ח׳ דח׳</span> a fine of one fifth for misappropriating the addition of one fifth; and from—plural <span dir=\"rtl\">חוּמְשֵׁי</span>. <span class=\"refLink\" data-ref=\"Bava Kamma 108a:9\" href=\"/Bava_Kamma.108a.9\">Bava Kamma 108ᵃ</span>"
+              ],
+              "he": [],
+              "ref": "Jastrow, חוּמְשָׁא 1",
+              "sourceHeRef": "מילון יסטרוב, חוּמְשָׁא א׳",
+              "sourceRef": "Jastrow, חוּמְשָׁא 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "1) (Vayikra 27:14) \"then the Cohein shall valuate it, good or bad\": Consecrations are not redeemed by approximation. \"As the Cohein valuates it, so shall it stand\": If the owner says (I redeem it) for twenty, and another: for twenty, the owner takes precedence, for he adds a fifth. If one said: It is mine for twenty-one, the owner gives twenty-six; (If he said) twenty-two, the owner gives twenty-seven; twenty-three, the owner gives twenty-eight; twenty-four, the owner gives twenty-nine; twenty-five, the owner gives thirty, for a fifth is not added to the other's \"raising.\" If he (the other) said: It is mine for twenty-six — If the owner wishes to give thirty-one plus a dinar, he takes precedence; if not, he (the other) is told \"It is yours.\"",
+              "he": "[א] \"והעריכו הכהן בין טוב ובין רע\" – אין פודין את ההקדשות אכסרה. \"כאשר יעריך אֹתו הכהן כן יקום\": הבעלים אומרים בעשרים וכל אדם בעשרים – הבעלים קודמים מפני שהם מוסיפים חמישית. אמר אחד \"הרי הוא שלי בעשרים ואחד\" – הבעלים נותנים עשרים ושש. \"עשרים ושנים\" – הבעלים נותנים עשרים ושבע. \"עשרים ושלש\" – הבעלים נותנים עשרים ושמונה. \"עשרים וארבע\" – הבעלים נותנים עשרים ותשע. \"עשרים וחמש\" – הבעלים נותנים שלשים, שאין מוסיפים חמישית על עלויו של זה. אמר אחד \"הרי הוא שלי בעשרים ושש\" – אם רצו הבעלים ליתן שלשים ואחד ודינר, הבעלים קודמים; ואם לאו, אומרים לו \"הגעתיך\".",
+              "ref": "Sifra, Bechukotai, Chapter 10 1",
+              "sourceHeRef": "ספרא, בחוקתי, פרק י א׳",
+              "sourceRef": "Sifra, Bechukotai, Chapter 10 1"
+            },
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> If <b>one said:</b> The field is <b>hereby mine for ten <i>sela</i>, and one</b> other person <b>said:</b> It is mine <b>for twenty, and one said for thirty, and one said for forty, and one said for fifty;</b> and then the one who bid <b>fifty reneged</b> on his offer, the treasurer <b>repossesses from his property up to ten</b> <i>sela</i> and the field is redeemed by the one who bid forty. This ensures that the Temple treasury does not lose. If the one who bid <b>forty</b> <i>sela</i> subsequently <b>reneged</b> on his offer, the treasurer <b>repossesses from his property up to ten</b> <i>sela</i> and the field is redeemed by the one who bid thirty.",
+                  "If the one who bid <b>thirty</b> subsequently <b>reneged</b> on his offer, the treasurer <b>repossesses from his property up to ten</b> <i>sela</i> and the field is redeemed by the one who bid twenty. If the one who bid <b>twenty reneged</b> on his offer, the treasurer <b>repossesses from his property up to ten</b> <i>sela</i> and it is redeemed by the one who bid ten. If the one who bid <b>ten reneged</b> on his offer, the treasurer <b>sells</b> the field <b>at its value and collects the remainder from</b> the property <b>of the one</b> who bid <b>ten,</b> to complete the sum of ten <i>sela</i>.",
+                  "If <b>the owner says</b> he will pay <b>twenty</b> <i>sela</i> <b>and any</b> other <b>person says</b> he will pay <b>twenty</b> <i>sela</i>, the offer of <b>the owner takes precedence, due to</b> the fact <b>that</b> he <b>adds one-fifth.</b> If the owner says he will pay twenty <i>sela</i> and <b>one</b> other person <b>said:</b> The field <b>is hereby mine for</b> a payment of <b>twenty-one</b> <i>sela</i>,"
+                ],
+                [
+                  "<b>the owner gives twenty-six</b> <i>sela</i> and takes the field. He pays the twenty that he initially offered; plus five <i>sela</i>, which is one-fifth of the total future sum, i.e., one-quarter of his initial offer. In addition, he adds one <i>sela</i>, the difference between his initial offer and that of the other person, so that the Temple treasury will not receive less than the twenty-one <i>sela</i> offer proposed by the other person. If the owner says he will pay twenty <i>sela</i> and another person said: The field is hereby mine for a payment <b>of twenty-two</b> <i>sela</i>, <b>the owner gives twenty-seven</b> <i>sela</i> and takes the field.",
+                  "If the owner says he will pay twenty <i>sela</i> and another said: The field is hereby mine for a payment <b>of twenty-three</b> <i>sela</i>, <b>the owner gives twenty-eight</b> <i>sela</i> and takes the field. If the owner says he will pay twenty <i>sela</i> and another said: The field is hereby mine for a payment <b>of twenty-four</b> <i>sela</i>, <b>the owner gives twenty-nine</b> <i>sela</i> and takes the field. If the owner says he will pay twenty <i>sela</i> and another said: The field is hereby mine for a payment <b>of twenty-five</b> <i>sela</i>, <b>the owner gives thirty</b> <i>sela</i>, <b>as</b> the owner adds one-fifth only to the amount that he bid, and <b>does not add one-fifth to the addition of that</b> other person.",
+                  "If the owner said he will pay twenty <i>sela</i> and <b>one</b> other person <b>said:</b> The field is <b>hereby mine</b> for a payment <b>of twenty-six</b> <i>sela</i>, <b>if the owner wished to pay thirty-one</b> <i>sela</i> <b>and a dinar the owner takes precedence; and if not,</b> the treasurer <b>says to the other person:</b> The field <b>has come into your</b> possession based on your bid, as it is more than the Temple treasury can compel the owner to pay."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Arakhin 27a:15",
+                "Arakhin 27a:16",
+                "Arakhin 27a:17",
+                "Arakhin 27b:1",
+                "Arakhin 27b:2",
+                "Arakhin 27b:3"
+              ],
+              "he": [
+                [
+                  "<big><strong>מתני׳</strong></big> אמר אחד הרי היא שלי בעשר סלעים ואחד אומר בעשרים ואחד אומר בשלשים ואחד אומר בארבעים ואחד אומר בחמשים חזר בו של חמשים ממשכנין מנכסיו עד עשר חזר בו של ארבעים ממשכנין מנכסיו עד עשר",
+                  "חזר בו של שלשים ממשכנין מנכסיו עד עשר חזר בו של עשרים ממשכנין מנכסיו עד עשר חזר בו של עשר מוכרין אותו בשוויו ונפרעין משל עשר את המותר",
+                  "הבעלים אומרים בעשרים וכל אדם אומרים בעשרים הבעלים קודמין מפני שהם מוסיפין חומש אמר אחד הרי היא שלי בעשרים ואחת"
+                ],
+                [
+                  "הבעלים נותנין עשרים ושש בעשרים ושתים הבעלים נותנין עשרים ושבע",
+                  "בעשרים ושלש הבעלים נותנין עשרים ושמונה בעשרים וארבע הבעלים נותנין עשרים ותשע בעשרים וחמש הבעלים נותנין שלשים שאין מוסיפין חומש על עלויו של זה",
+                  "אמר אחד הרי שלי בעשרים ושש אם רצו הבעלים ליתן שלשים ואחד ודינר הבעלים קודמין ואם לאו אומר לו הגעתיך:"
+                ]
+              ],
+              "link": "/Arakhin/27a",
+              "originalRefsBeforeRewriting": [
+                "Arakhin 27a:17",
+                "Arakhin 27b:1",
+                "Arakhin 27b:2"
+              ],
+              "ref": "Arakhin 27a:15-27b:3",
+              "sourceHeRef": "ערכין כ״ז א",
+              "sourceRef": "Arakhin 27a"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "If <b>one said:</b> The field is <b>hereby mine for ten <i>sela</i>, and one</b> other person <b>said:</b> It is mine <b>for twenty, and one said for thirty, and one said for forty, and one said for fifty;</b> and then the one who bid <b>fifty reneged</b> on his offer, the treasurer <b>repossesses from his property up to ten</b> <i>sela</i> and the field is redeemed by the one who bid forty. This ensures that the Temple treasury does not lose. If the one who bid <b>forty</b> <i>sela</i> subsequently <b>reneged</b> on his offer, the treasurer <b>repossesses from his property up to ten</b> <i>sela</i> and the field is redeemed by the one who bid thirty. If the one who bid <b>thirty</b> subsequently <b>reneged</b> on his offer, the treasurer <b>repossesses from his property up to ten</b> <i>sela</i> and the field is redeemed by the one who bid twenty. If the one who bid <b>twenty reneged</b> on his offer, the treasurer <b>repossesses from his property up to ten</b> <i>sela</i> and it is redeemed by the one who bid ten. If the one who bid <b>ten reneged</b> on his offer, the treasurer <b>sells</b> the field <b>at its value and collects the remainder from</b> the property <b>of the one</b> who bid <b>ten,</b> to complete the sum of ten <i>sela</i>. If <b>the owner says</b> he will pay <b>twenty</b> <i>sela</i> <b>and any</b> other <b>person says</b> he will pay <b>twenty</b> <i>sela</i>, the offer of <b>the owner takes precedence, due to</b> the fact <b>that</b> he <b>adds one-fifth.</b>",
+              "he": "אָמַר אֶחָד, הֲרֵי הִיא שֶׁלִּי בְעֶשֶׂר סְלָעִים, וְאֶחָד אוֹמֵר בְּעֶשְׂרִים, וְאֶחָד אוֹמֵר בִּשְׁלשִׁים, וְאֶחָד אוֹמֵר בְּאַרְבָּעִים, וְאֶחָד אוֹמֵר בַּחֲמִשִּׁים. חָזַר בּוֹ שֶׁל חֲמִשִּׁים, מְמַשְׁכְּנִין מִנְּכָסָיו עַד עָשֶׂר. חָזַר בּוֹ שֶׁל אַרְבָּעִים, מְמַשְׁכְּנִין מִנְּכָסָיו עַד עָשֶׂר. חָזַר בּוֹ שֶׁל שְׁלשִׁים, מְמַשְׁכְּנִין מִנְּכָסָיו עַד עָשֶׂר. חָזַר בּוֹ שֶׁל עֶשְׂרִים, מְמַשְׁכְּנִים מִנְּכָסָיו עַד עָשֶׂר. חָזַר בּוֹ שֶׁל עֶשֶׂר, מוֹכְרִים אוֹתָהּ בְּשָׁוְיָהּ וְנִפְרָעִים מִשֶּׁל עֶשֶׂר אֶת הַמּוֹתָר. הַבְּעָלִים אוֹמְרִים בְּעֶשְׂרִים, וְכָל אָדָם אוֹמְרִים בְּעֶשְׂרִים, הַבְּעָלִים קוֹדְמִים, מִפְּנֵי שֶׁהֵן מוֹסִיפִין חֹמֶשׁ:",
+              "link": "/Mishnah Arakhin/8",
+              "ref": "Mishnah Arakhin 8:2",
+              "sourceHeRef": "משנה ערכין ח:ב",
+              "sourceRef": "Mishnah Arakhin 8:2"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When the owner of the produce bids a <i>sela</i> to redeem it and another person also bids a <i>sela</i>, the owner is given precedence, because he is required to add a fifth. If, however, the owner bids a <i>sela</i> and another person bids a <i>sela</i> and a <i>p'rutah</i>, that other person is given precedence, because he increases the principal.",
+              "he": "בַּעַל הַבַּיִת אוֹמֵר בְּסֶלַע וְאַחֵר אוֹמֵר בְּסֶלַע. בַּעַל הַבַּיִת קֹדֶם מִפְּנֵי שֶׁהוּא מוֹסִיף חֹמֶשׁ. בַּעַל הַבַּיִת אוֹמֵר בְּסֶלַע וְאַחֵר אוֹמֵר בְּסֶלַע וּפְרוּטָה. הָאַחֵר קֹדֶם מִפְּנֵי שֶׁמּוֹסִיף עַל הַקֶּרֶן:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 5:7",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי ה:ז",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 5:7"
+            },
+            {
+              "en": "The [original] owners [of the consecrated article] are [given the opportunity to redeem the consecrated article] before all others, because they [are required to] add a fifth. They are not, however, required to add a fifth to the sum that they bid above other [potential] redeemers, only to what they initially pledged.<br>What is implied? The owners said: \"We will [redeem] it for 20 [<i>selaim</i>],\" and another person says: \"I will redeem it for 20,\" the owners are given the option, because they add a fifth and pay 25.\" If another person comes and says: \"I will redeem it for 21,\" and the [original] owners remain silent and do not add anything, we sell it to them for 25.<br>If the owners increased [the bid of] 21, adding even a <i>p'rutah</i>, they are required to pay 26 [<i>selaim</i>] and a <i>p'rutah</i>: the 21 and a <i>p'rutah</i> which they pledged on their own initiative and the five which are the fifth from their original bid.<br>Similarly, if the second person said: \"I will redeem it for 22,\" a third said, \"...for 23,\" a fourth said, \"...for 24,\" a fifth said, \"...for 25,\" and [the original owner] added even a <i>p'rutah</i> to the sum of 25, they are compelled to give 30 and a <i>p'rutah</i>: the 25 and a <i>p'rutah</i> which they pledged on their own initiative and the five which are the fifth that they are obligated. For the owner is not required to add a fifth to the additions of the others. Instead, they must add the fifth from their original pledge to the final sum that they pledged.",
+              "he": "הַבְּעָלִים קוֹדְמִין לְכָל אָדָם מִפְּנֵי שֶׁהֵן מוֹסִיפִין חֹמֶשׁ. וְאֵין מוֹסִיפִין חֹמֶשׁ עַל עִלּוּיָן שֶׁל שְׁאָר הַפּוֹדִים אֶלָּא עַל מַה שֶּׁנָּתְנוּ הֵם תְּחִלָּה. כֵּיצַד. אָמְרוּ הַבְּעָלִים הֲרֵי זֶה שֶׁלָּנוּ בְּעֶשְׂרִים וּבָא אַחֵר וְאָמַר הֲרֵי הוּא שֶׁלִּי בְּעֶשְׂרִים הַבְּעָלִים קוֹדְמִין מִפְּנֵי שֶׁהֵן מוֹסִיפִין חֹמֶשׁ וְנוֹתְנִין חָמֵשׁ וְעֶשְׂרִים. בָּא אֶחָד וְאָמַר הֲרֵי הוּא שֶׁלִּי בְּאַחַת וְעֶשְׂרִים אִם שָׁתְקוּ הַבְּעָלִים וְלֹא הוֹסִיפוּ כְּלוּם מוֹכְרִין אוֹתָהּ לָהֶם בְּחָמֵשׁ וְעֶשְׂרִים. וְאִם הוֹסִיפוּ הַבְּעָלִים עַל עֶשְׂרִים וְאַחַת אֲפִלּוּ פְּרוּטָה אַחַת הֲרֵי אֵלּוּ נוֹתְנִין שֵׁשׁ וְעֶשְׂרִים וּפְרוּטָה אַחַת. אַחַת וְעֶשְׂרִים וּפְרוּטָה שֶׁנָּתְנוּ מֵעַצְמָן וְחָמֵשׁ שֶׁהֵן חַיָּבִין בּוֹ מִשּׁוּם חֹמֶשׁ הַמַּתָּן שֶׁנָּתְנוּ תְּחִלָּה. וְכֵן אִם בָּא הַשֵּׁנִי וְאָמַר הֲרֵי הוּא שֶׁלִּי בְּעֶשְׂרִים וּשְׁתַּיִם. וּבָא שְׁלִישִׁי וְאָמַר בְּעֶשְׂרִים וְשָׁלֹשׁ. וּבָא רְבִיעִי וְאָמַר בְּעֶשְׂרִים וְאַרְבַּע. וּבָא הַחֲמִישִׁי וְאָמַר בְּעֶשְׂרִים וְחָמֵשׁ. וְהוֹסִיפוּ הֵן עַל הָעֶשְׂרִים וְחָמֵשׁ אֲפִלּוּ פְּרוּטָה אַחַת כּוֹפִין אוֹתָן לִתֵּן שְׁלֹשִׁים וּפְרוּטָה. חָמֵשׁ וְעֶשְׂרִים וּפְרוּטָה שֶׁנָּתְנוּ מֵעַצְמָן. וְחָמֵשׁ מֵחֹמֶשׁ שֶׁהֵן חַיָּבִין בּוֹ. לְפִי שֶׁאֵין הַבְּעָלִים מוֹסִיפִין חֹמֶשׁ עַל עִלּוּיוֹ שֶׁל זֶה אֶלָּא חֹמֶשׁ מַה שֶּׁנָּתְנוּ תְּחִלָּה מוֹסִיפִין עַל מַה שֶּׁנָּתַן הָאַחֲרוֹן אִם רָצוּ:",
+              "ref": "Mishneh Torah, Appraisals and Devoted Property 8:5",
+              "sourceHeRef": "הלכות ערכים וחרמין ח:ה",
+              "sourceRef": "Appraisals and Devoted Property 8:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חומשא מלגיו</strong> - על שוה עשרים זוז מוסיף ארבע שהן חומשו של קרן:",
+              "ref": "Rashi on Bava Metzia 53b:11:1",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:יא:א",
+              "sourceRef": "Rashi on Bava Metzia 53b:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או חומשא מלבר</strong> - על ארבעה רבעי' מוסיף החמישית מן החוץ דהוו להו לעשרים זוז חמשא זוזי:",
+              "ref": "Rashi on Bava Metzia 53b:11:2",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:יא:ב",
+              "sourceRef": "Rashi on Bava Metzia 53b:11:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הבעלים אומרים בעשרים</strong> - גבי מקדיש ופודה הקדשו תנן לה במסכת ערכין <span class=\"parenthesized\">(דף כז.)</span>:",
+              "ref": "Rashi on Bava Metzia 53b:11:3",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:יא:ג",
+              "sourceRef": "Rashi on Bava Metzia 53b:11:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מפני שמוסיפין חומש</strong> - ועשרים שלהן הוו כ\"ה דאילו שאר כל אדם לא יוסיף חומש:",
+              "ref": "Rashi on Bava Metzia 53b:11:4",
+              "sourceHeRef": "רש\"י על בבא מציעא נ״ג ב:יא:ד",
+              "sourceRef": "Rashi on Bava Metzia 53b:11:4"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>חמש</big></b> [פיניף] <span class=\"parenthesized\">(ב\"מ נג)</span> איבעיא להו חומשא מלבר או חומשא מלגו פי' חפץ שדמיו שמונים כספים צריך להביא כ' מבחוץ להשלימם ק' זה חומשא מלבר דהא מחוץ הבאת חמישיתם כ' והשלמתם ק' ואם דמיו ק' והוספת עליו כ' זהו חומשא מלגו שהוא חומש הקרן ואסיקנא שיהא הוא ותומכיו ה' וזה חומשא מלבר: <span class=\"parenthesized\">(שם סד)</span> היכי דמי בכדי שהדעת טועה אמר רב אחא בריה דרב יוסף עישורייתא וחומשייתא פי' שהיה מונה ה' ה' ומצא ה' טפי אמר טעה בה' ולא מצאם והוא הדין אם מונה י' י' פי' אחר כגון שמונה י' ומניח א' כדי לידע כמה עשרות הן יש לומר חזר וכללן במנויין ושכח ואין אינן מן המנויין לפיכך חייב להחזיר והוא הדין לחומשייתא. הבגד מטמא משום ה' שמות וכו' <span class=\"parenthesized\">(פ' כז בכלים)</span> פירוש מפני שהוא כלי קיבול ומושב ואהל ומטמא משום אריג שהשתי והערב אינו מטמא אלא בצרעתו משום ג' על ג' השק משום ד' שהוא כלי קיבול ומושב ומטמא באהל ומשום אריג העור משום ג' שהוא כלי קיבול ומושב ומטמא באהל והעץ משום ב' שהיא כלי קיבול ומושב כלי חרש משום אחד שהוא כלי קיבול. <span class=\"parenthesized\">(כתובות נא ב\"ק נה)</span> חמשה גובין מן המשוחררין ואלו הן פירות ושבח והמקבל עליו לזון בן אשתו ובת אשתו וגט חוב שאין בו אחריות וכתובת אשה שאין בה אחריות האי פירות ושבת היכי דמי וכו' פי' לשון חירות כלו' לא מן המשועבדין. <span class=\"parenthesized\">(בילמדנו בריש אמור אל הכהנים)</span> ה' דברים חייבין בחלה מן המקרא וכבר פירשתי בערך חט. ה' לא יתרומו ואם תרמו אין תרומתן תרומה החרש והשוטה וכו' <span class=\"parenthesized\">(בריש תרומות ומפורש בירושלמי ובילמדנו בריש ויקחו לי תרומה)</span> רבי שמואל בר נחמן שמע לכולהון מן הכא דבר אל בני ישראל ויקחו לי תרומה פרט לעכו\"ם מאת כל איש פרט לקטן אשר ידבנו לבו פרט לחרש שוטה וזאת התרומ' אשר תקחו מאתם פרט לתורם את שאינו שלו <span class=\"parenthesized\">(ב\"ך עט)</span> ה' בקר ישלם תחת השור וד' צאן תחת השה תניא א\"ר מאיר בוא וראה כמה גדולה כוחה של מלאכה שור שבטלו ממלאכתו ה' שה שלא ביטלו ממלאכתו ד'. אמר רבן יוחנן בן זכאי בוא וראה כמה גדול כבוד הבריות שור שהולך ברגליו ה' שה שהרכיבו על כתיפו ד'. ה' פעמים כתובים ישראל בפסוק אחד <span class=\"parenthesized\">(בריש ויקרא רבה פרשת הבן יקיר לי אפרים. ובילמדנו בריש כי תשא ובפסיק' דכי תשא)</span> אמר רב יודן בוא וראה כמה חיבב וכו'. ה' אצבעות שנ יד ימינו של הקב\"ה כולן לסוד הגאולות אצבע קטנה בה הראה את נח התיבה שנאמר וזה אשר תעשה אותה וכו' ה' אותיות שנכפלו מכל אותיות שבתורה כולן לסוד הגאולה כ\"כ בו נגאל אברהם אבינו מאור כשדים שנאמר לך לך מ\"מ בו נגאל יצחק מארץ פלשתים שנא' לך מעמנו כי עצמת מחד נ\"נ בו נגאל יעקב מיד עשו שנאמר הצילני נא פ\"פ בו נגאלו ישראל ממצרים שנאמר פקד פקדתי צ\"צ עתיד הקב\"ה לגאול את ישראל שנא' הנה איש צמח שמו ומתחתיו יצמח. ה' שיעורן טפח שליא שופר שדרו של לולב אזוב ודופן סוכה <span class=\"parenthesized\">(נדה כו)</span> בגמ' שליא ושם מפורשים <span class=\"parenthesized\">(מנחות מה)</span> כל האמור בחומש הפקודים קרב במדבר כל האמור בתורת כהנים אינו קרב במדבר משבאו לארץ קרבו אלו ואלו. <span class=\"parenthesized\">(סוטה לו)</span> רבי חנינא בן גמליאל אומר לא כדרך שחלוקין בחומש הפקודים חלוקין באבני אפוד אלא כדרך שחלוקין בחומש שני פי' חומש הפקודים הוא ספר וידבר חומש שני הוא ספר ואלה שמות. <span class=\"parenthesized\">(הוריות יג)</span> חמשה דברים משיבין את התלמוד האוכל פת חיטין כל שכן חיטין עצמן והאוכל ביצה מגולגלת בלא מלח והרגיל ביין ובשמים והשותה מים של שירי עיסה וכו'. ה' חטאות מתות <span class=\"parenthesized\">(בסיפרי בפרשת חטאת נשיא)</span>:",
+              "ref": "Sefer HeArukh, Letter Chet 242",
+              "sourceHeRef": "ספר הערוך, אות החי\"ת רמ״ב",
+              "sourceRef": "Sefer HeArukh, Letter Chet 242"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> לגופה של ההלכה בדבר תוספת החומש במעשר ובדינים אחרים, <b>איבעיא להו</b> <span class=\"hebrew-emphasis\">[נשאלה להם]</span> ללומדים שאלה זו: האם <b>חומשא מלגיו</b> <span class=\"hebrew-emphasis\">[החומש מבפנים],</span> שמחשבים ומוסיפים חמישית ערכו של הדבר הנפדה, <b>או חומשא מלבר</b> <span class=\"hebrew-emphasis\">[חומש מבחוץ]</span> שהוא רבע ערכו של הדבר הנפדה, אבל הוא חומש של הסכום הכולל ערך הדבר הנפדה והתוספת יחד? <b>אמר רבינא: תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ו<span class=\"hebrew-emphasis\">שמע],</span> פתרון לדבר ממה ששנינו בברייתא: <b>הבעלים אומרים בעשרים,</b> שהם עצמם מוכנים לקנות או לפדות את ההקדש בעשרים דינר <b>וכל אדם</b> המוכן לקנות, מוכן גם הוא לקנותו <b>בעשרים</b> — <b>הבעלים קודמין מפני שמוסיפים חומש,</b> ונמצא שההקדש מקבל מידם יותר משהציע כל אדם אחר. <b>אמר אחד: הרי עלי</b> סחורה זו <b>בעשרים ואחד.</b>",
+              "ref": "Steinsaltz on Bava Metzia 53b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא נ״ג ב:יא",
+              "sourceRef": "Steinsaltz on Bava Metzia 53b:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If consecrated items are to be redeemed, and the owner and others each offer twenty dinars to redeem them, the owner takes precedence, as he would need to pay twenty-five dinars. Even if others offer more, the owner continues to take precedence as long as the others do not offer more than twenty-five dinars. If the owner initially offers twenty dinars, and another offers twenty-one dinars, and then the owner offers twenty-one dinars and one <i>peruta</i>, he pays twenty-six dinars and one <i>peruta</i>, i.e., the price that he offered, twenty-one dinars and one <i>peruta</i>, plus five dinars, one-fifth of his initial offer. The Ra’avad seems to agree with Rashi that even if the owner did not make a counteroffer, he pays the sum offered by the other party and adds one-fifth to it. This is not the case with regard to second-tithe produce. There, the one who offers the highest sum for the principal receives the produce, and the additional payment of one-fifth does not factor into the decision (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Arakhin VaĤaramim </i>8:5 and <i>Sefer Zera’im</i>,<i> Hilkhot Ma’aser  Sheni</i> 5:7).",
+              "he": "והיו ששאלו: כיון שזו משנה מפורשת כיצד אפשר היה בכלל להעלות את השאלה, וכי לא ידע השואל משנה זו? ותירצו שהמשנה מדברת בהקדשות, ומפני טעמים שונים (שינוי בלשון הכתובים, הבדל להלכה) אפשר היה לומר שבמעשר שני אינו בהכרח כמו בהקדש (מגן גבורים, אמרי זוטרי ועיי\"ש).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 53b:11",
+              "sourceHeRef": "הַבְּעָלִים אוֹמְרִים בְּעֶשְׂרִים וכו׳",
+              "sourceRef": "The owner says for twenty dinars, etc."
+            },
+            {
+              "en": "Some commentaries ask: Since this matter appears explicitly in a mishna, how can it be raised as a dilemma? Was the one who raised the dilemma unaware of the mishna? They answer that the mishna refers to consecrated items, with regard to which, for various reasons, e.g., different formulation of the verses or different halakhic status, the <i>halakha</i> concerning second tithe might differ from the <i>halakha</i> concerning consecrated items (<i>Magen Gibborim</i>; see <i>Imrei Zutrei</i>).",
+              "he": "הקדש העומד לפדיון והבעלים אומרים עשרים וכל אדם בעשרים — בעלים קודמים, מפני שהם נותנים עשרים וחמשה. ואם העלו אחרים את המחיר, כל עוד שלא העלוהו יותר מעשרים וחמשה — הריהו לבעלים. ואם אמרו הבעלים תחילה עשרים ואמר אחר עשרים ואחד, וחזרו הבעלים ואמרו בעשרים ואחד ופרוטה משלמים הבעלים עשרים ושש ופרוטה, שמשלמים מה שקבעו במחיר (עשרים ואחת ופרוטה) ועוד חמשה סלעים משום חומש בסכום שאמרו תחילה וכן כיוצא בזה. אכן, נראה שהראב\"ד מפרש כרש\"י שאף אם לא העלו הבעלים את המחיר הריהם משלמים את המחיר שהציע האחר ועוד חומש על הצעתם שלהם. (רמב\"ם ספר הפלאה הלכות ערכין פ\"ח ה\"ה). ובמעשר שני אינו כן, אלא המוסיף על הקרן זוכה בה ואין מתחשבים בחומש של הבעלים. (רמב\"ם ספר זרעים הלכות מעשר שני, פ\"ח ה\"ז).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 53b:11",
+              "sourceHeRef": "חוּמְשָׁא מִלְּגָיו אוֹ חוּמְשָׁא מִלְּבַר",
+              "sourceRef": "One-fifth from within or one-fifth from without"
+            },
+            {
+              "en": "Once this <i>halakha</i> was derived with regard to consecrated property, it was applied to all cases where there is an additional payment of one-fifth. Although the details of the various additional payments differ and each requires its own derivation, this is a general indication that this is the manner in which the additional one-fifth payment mentioned in the Torah is calculated (<i>Penei Yehoshua</i>).",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Bava Metzia 53b:11",
+              "sourceHeRef": "חוּמְשָׁא מִלְּבַר",
+              "sourceRef": "One-fifth is calculated from without"
+            },
+            {
+              "en": "One who redeems his own second-tithe produce adds one-fifth to the payment. If the produce was worth four dinars he pays five. The <i>halakha</i> is the same with regard to all matters to which an additional payment of one-fifth is added (Rambam <i>Sefer Zera’im</i>,<i> Hilkhot Ma’aser Sheni</i> 5:1).",
+              "he": "",
+              "ref": "Steinsaltz comment #4 on Bava Metzia 53b:11",
+              "sourceHeRef": "חוּמְשָׁא מִלְּבַר",
+              "sourceRef": "One-fifth is calculated from without"
+            }
+          ]
+        }
+      },
+      "en": "Apropos the additional payment of one-fifth, <b>a dilemma was raised before</b> the Sages: Is the payment of <b>one-fifth</b> calculated <b>from within,</b> i.e., one-fifth of the value of the redeemed item, <b>or</b> is the payment of <b>one-fifth</b> calculated <b>from without,</b> meaning one-quarter of the value of the redeemed item, which is one-fifth of the eventual payment, i.e., the principal plus the additional one-fifth? <b><span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span> says: Come</b> and <b>hear</b> a resolution of the dilemma from a <i>baraita</i>: In a case where <b>the owner says</b> he is willing to redeem consecrated property <b>for twenty</b> dinars, <b>and any</b> other <b>person</b> is willing to purchase the property <b>for twenty</b> dinars, <b>the owners take precedence</b> and redeem the property <b>due to</b> the fact <b>that they</b> are obligated to <b>add one-fifth,</b> and the Temple treasury profits more from the owner than from anyone else. If <b>one</b> who is not the owner <b>said: It is</b> incumbent <b>upon me</b> to desacralize it <b>for twenty-one</b> dinars,",
+      "he": "אִיבַּעְיָא לְהוּ: חוּמְשָׁא מִלְּגָיו, אוֹ חוּמְשָׁא מִלְּבַר? אָמַר רָבִינָא, תָּא שְׁמַע: הַבְּעָלִים אוֹמְרִים בְּעֶשְׂרִים, וְכׇל אָדָם בְּעֶשְׂרִים – הַבְּעָלִים קוֹדְמִין מִפְּנֵי שֶׁמּוֹסִיפִין חוֹמֶשׁ. אָמַר אֶחָד: הֲרֵי עָלַי בְּעֶשְׂרִים וְאֶחָד –",
+      "ref": "Bava Metzia 53b:11",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Bava Metzia 53b",
+  "titleHebrew": "בבא מציעא נג,ב",
+  "topics": []
+}

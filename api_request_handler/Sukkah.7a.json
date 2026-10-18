@@ -1,0 +1,1558 @@
+{
+  "id": "7a",
+  "sections": [
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>כנגד ראש תור.</b> מלשון המשנה כלאים פ\"ב מ\"ז:",
+              "ref": "Gilyon HaShas on Sukkah 7a:1",
+              "sourceHeRef": "גליון הש\"ס על סוכה ז׳ א:א",
+              "sourceRef": "Gilyon HaShas on Sukkah 7a:1"
+            },
+            {
+              "en": "",
+              "he": "<b>שם שתיק רב.</b> כעין זה ביצה דף ו ע\"א ודף לז ע\"ב ב\"ק דף יא ע\"א ב\"מ דף סט ע\"ב:",
+              "ref": "Gilyon HaShas on Sukkah 7a:2",
+              "sourceHeRef": "גליון הש\"ס על סוכה ז׳ א:ב",
+              "sourceRef": "Gilyon HaShas on Sukkah 7a:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> בד\"ה ויעמידנו כנגד ראש תור ראש שור כו' נמחק ראש שור ונ\"ב בס\"א אינו וטעות הוא דהא אח\"כ פרש\"י שהוא לשון תלם ושורה והיינו מלשון תורי זהב וק\"ל ועוד התנא לא דיבר בלשון ארמי אלא בלשון הקודש והיה לו לכתוב ראש שור בפרק ג' דכלאים והרמב\"ם פי' עדי שישימו הנשים באזניהם כמו תורי זהב ותבניתו משולש על כן יקראו הזוית המחודדת מכל תבנית ראש תור ע\"כ אבל בפרק רבי עקיבא דף פ\"ו פרש\"י ראש שור וכן בסמ\"ג ותימה הוא בעיני. <span class=\"parenthesized\">(עיין במהרש\"א)</span>:",
+                      "ref": "Chokhmat Shlomo on Sukkah 7a:1",
+                      "sourceHeRef": "חכמת שלמה על סוכה ז׳ א:א",
+                      "sourceRef": "Chokhmat Shlomo on Sukkah 7a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ויעמידנו כנגד ראש תור</strong> - <span class=\"parenthesized\">(ראש שורה)</span> במקצוע צפונית מערבית באלכסון או מזרחית דרומית כשהמחיצות מערבית צפונית <span class=\"image-ref-container\"><span class=\"image-ref-text\">(*):</span><span class=\"image-ref\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJkAAACNCAYAAACkG9g3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAgqSURBVHhe7ZxLqE1RGMfvwEDeSsj7MfAsUkpCkjIghPKYMCBG8pgwutSlDEQeKRMGpBhIyiulkEd5JAOPRAbyfuaV19K3/V3OXmvvc84++ztn77X/v1qDe61y13/9Wmft9e11mgwhylAyog4lI+pQMqJOiWQXLlwwBw8eDNr+/fvN1q1bW38uapNMSClfvnwxR48exU/lKZFs2bJlpl27dmz/tU2bNiGdfzQ3N5umpiY2NMkjjlbJ7t27Z6ZOneoMusiNkpVvI0eONE+fPkU6Nq2S7du3z4wYMcIZdJEbJSvf2rRpU5lkL168MHPmzHEGXeRGycq3cePGIRk31p5s8ODBzrD79Oljhg4d6nVzjZuSlW9r165FMm5KJHv//r1Zs2ZNIFQ47PXr16OXnzx+/Ngas7QDBw6gRymusH3m5s2bzjFv27YNPaKxkrl8+bKZNGmSFbZs7m7fvo1e/kHJ4pGPxPB4e/bsGRxnlMOZjNjZvXv3krC7detmFi1aZD59+oRefkHJopEzMdd4K1nFBGcyf48zOnbsWBK47NeqOYTLE5QsmtGjR1tjld9VSmQyu3fvtvZmHTp0MPPnzzefP39GL3+gZG727NnjHGviE///+fr1q1m8eHEg1v+hDx8+PCg3+QYls5H9luy7wuOsZhUTYpM5ffq0tTfr0qWLmTlzpnnw4AF6+QEls5E9l2uc8nBYDbHJfP/+3cybN88KXvZm27dvRy8/oGSlyAm+LCjhMc6ePRs9KqdsMlevXjWdO3e2wp8xY0bVRmcZSlbKqlWrnGOU87JqqSiZBQsWWOH369cvOPn25SGAkv1DVrG2bdta41uxYgV6VEdFyciRRnhvJk0ObS9duoRe+YaS/WPJkiXW2ES6uCJ4HBUnI8tn+/btSyZAztHkSfPdu3folV8o2R+iykcy/0mpOJn79++bUaNGWZMwYcIEL/ZmlOwPsrEPj0uOMd6+fYse1VNxMvKkuWPHDmsS5AmkpaXFPH/+HD3zCSUz5ty5c85xVVo+iqKqZJ48eWImT55sTYS8JnP27Fn0yieUzF0+qrQIHkdVych/dujQIedDgGwW37x5g575o+iSRRXB5Y3pWqk6GXnSXLhwoTUZcqRx6tSp4GM1jxRZMlk85NMoPJ5qy0dRJErmzJkzgVThCZED2qSPuY2myJJFlY/SeuMmUTIPHz40K1eutIrncqSxc+dO8+vXL/TMD0WVLKoILnvvtEiUjEh0/Pjx4I2M8KSMHTs2eI07bxRVsqj7CknKR1EkTkZE2rBhg+natas1MXKkkTeKKFlU+ShJETyOmpKRQ9gpU6ZYEzNo0CBz7do19MoHRZTMVQQX6e7cuYMe6VBTMvJ5LquWazVbvnw5euWDokkmIrlWsVrKR1HUnIysWFIoDz8ESLt16xZ6ZZ+iSeYqH9VSBI8jlWS2bNlievfubU3QrFmzzLdv39Ar2xRJsqgi+Lp169AjXVJJ5u7du86vOJAjDamH5YEiSSbHE+G/PY3yURSpJSO3m+RuZniSpk2blou7mkWRrNY7lElILRk50pDP+fAkybW6zZs3o1d2KYpkriL4gAED1FYxIdVkDh8+bIYMGWJN1JgxYzJ/u6kIksnLDa6/W/vCdurJyF3N8ETJx6isZll+CPBdsqjyUVpF8DhST0be0ujfv781WRMnTjQ3btxAr+zhu2RRRfCTJ0+ihx4qyaxevdo6N+vRo0dQJ8vqauazZPLqtGsVS7t8FIVKMh8/fjQDBw60Jmz8+PHmxIkT6JUtfJYszTuUSVBLZu/evdaEyX2ApUuXmmfPnqFXdvBVsnoVweNQS0bOxlxfkTls2LDgKTRr+CqZXMgN/51a5aMoVJM5duyY9R1n0qR4LlfssoSPkmncoUyCejLTp0+3Jk5WuF27dmXqIcBHyepZBI9DPRnZ6Hfq1MmaPPmmbal5ZgXfJJN3/Vx/o2b5KAr1ZF6/fu0snvfq1cscOXLE/PjxAz0bi2+Sad2hTIJ6Mj9//gy+Nbtv377WBM6dO9dcv34dPRuLT5I1oggeR12SefXqldm4cWPrxMkXt8iVOik1vXz5Er0ai0+SPXr0yNqP1aN8FEXdkjl//nzw7r8s2VIRuHLlivnw4QP+tfH4uPGXp8u/745pF8HjqFsy8vVSFy9ezOw3APko2V8anXl2k6kzPkvWaJgMoGR6MBlAyfRgMoCS6cFkACXTg8kASqYHkwGUTA8mAyiZHkwGUDI9mAygZHowGUDJ9GAygJLpwWQAJdODyQBKpgeTAZRMDyYDKJkeTAZQMj2YDKBkejAZQMn0YDKAkunBZAAl04PJAEqmB5MBlEwPJgMomR5MBlAyPZgMoGR6MBlAyfRgMoCS6cFkACXTg8kASqYHkwGUTA8mAyiZHkwGUDI9mAygZHowGUDJ9GAygJLpwWQAJdODyQBKpgeTAZRMDyYDKJkeTAZQMj2YDKBkejAZQMn0YDKAkunBZAAl04PJAEqmB5MBlEwPJgMomR5MBlAyPZgMoGR6MBlAyfRgMoCS6cFkACXTg8kASqYHkwGUTA8mAyiZHkwGUDI9mAygZHowGUDJ9GAygJLpwWQAJdODyQBKpgeTAZRMDyYDKJkeTAZQMj2YDKBkejAZQMn0YDKAkunBZAAl04PJAEqmB5MBlEwPJgMomR5MBlAyPZgMoGR6MBlAyfRgMoCS6cFkACXTg8kASqYHkwGUTA8mAyiZHkwGUDI9mAwQyVpaWqwmv3fR3NxsNeKGkhF1KBlRh5IRdSgZUYeSEXUoGVHGmN/jnjsT8OW18AAAAABJRU5ErkJggg==\"></span></span><span class=\"image-pointer\">(*)</span> דנראה נוטה לב' מחיצות ומיחזי כארבע מחיצות ראש תור היא תלם מענה של סוף שדה שהתלמים כלים והולכין באלכסון זה ארוך מזה מעט:",
+              "ref": "Rashi on Sukkah 7a:1:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:א:א",
+              "sourceRef": "Rashi on Sukkah 7a:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ויעמידנו</b> את הטפח העודף <b>כנגד ראש תור?!</b> כלומר: מדוע לא יניחנו באלכסון ובכך יצור כעין משולש, כך שתראה הסוכה דומה יותר לבית גמור! <b>שתיק</b> <span class=\"hebrew-emphasis\">[שתק]</span> <b>רב</b> ולא ענה דבר.",
+              "ref": "Steinsaltz on Sukkah 7a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:א",
+              "sourceRef": "Steinsaltz on Sukkah 7a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The early commentaries dispute the meaning of the term <i>rosh tor</i>. Some explain that it means to place the handbreadth-wide wall diagonal to one of the two standing walls (Rashi; others). Others maintain that this beam is positioned opposite the standing walls in the empty corner, to serve as a marker to indicate that the walls of the <i>sukka</i> extend from the standing walls lengthwise and widthwise to that point (<i>ge’onim</i>; <i>Me’iri</i>; others).",
+              "he": "בפירושו של \"ראש תור\" נחלקו הראשונים. יש הסבורים (כרש\"י ואחרים) שהכוונה היא שמעמידו באלכסון ליד אחת הדפנות, ויש הסבורים כי היה מעמידו בפינה הפנויה מכל מחיצות, שיהא טפח זה כעין סימן לכך שהסוכה נמשכת באורך וברוחב עד לשם, (גאונים. ובמאירי ועוד).",
+              "ref": "Steinsaltz comment #1 on Sukkah 7a:1",
+              "sourceHeRef": "רֹאשׁ תּוֹר",
+              "sourceRef": "The diagonal line formed by the end [<i>rosh tor</i>] of the furrows"
+            },
+            {
+              "en": "Similar reactions appear elsewhere in the Talmud, and the meaning behind them is not always the same. At times, a Sage is silent when he does not have a satisfactory answer to the question posed. At other times the Sage remains silent if in his view the question raised is not particularly difficult or is not worthy of discussion at all. Some hold that Rav believes that their suggestion is included in his statement.",
+              "he": "כעין זה מוצאים פעמים אחדות בתלמוד ולא תמיד משמען שווה. שלעיתים שותק החכם מפני שאין בידו תשובה מספקת, אך לעיתים יש לשתיקתו מובן שונה, אם משום שאינו סבור שהקושיה היא כה חמורה (ולעניננו יש מי שסובר כי רב חושב שבכלל דבריהם דבריו) ולעיתים שותק מפני שאיננו חושב שבכלל יש מקום לדון בקושיא זו.",
+              "ref": "Steinsaltz comment #2 on Sukkah 7a:1",
+              "sourceHeRef": "שָׁתֵיק רַב",
+              "sourceRef": "Rav was silent"
+            },
+            {
+              "en": "",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Sukkah 7a:1",
+              "sourceHeRef": "כְּנֶגֶד רֹאשׁ תּוֹר",
+              "sourceRef": "Opposite the wall that emerges like the diagonal line formed by the end of the furrows"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ויעמידנו כנגד ראש תור</strong> - אע\"ג דאכיוצא בזה אמר פ' קמא דעירובין <span class=\"parenthesized\">(דף י:)</span> אתי אוירא דהאי גיסא ודהאי גיסא ומבטל ליה גבי והרחב מעשר אמות וגבי עור העסלא הכא דטפח מחיצה דאורייתא והלכתא גמירי לה לא אתי אוירא ומבטל לה:",
+              "ref": "Tosafot on Sukkah 7a:1:1",
+              "sourceHeRef": "תוספות על סוכה ז׳ א:א:א",
+              "sourceRef": "Tosafot on Sukkah 7a:1:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>And let him position</b> the wall measuring one handbreadth <b>opposite</b> the wall that emerges like the diagonal <b>line</b> formed by <b>the end</b> of the furrows as the field gradually narrows. This third partition would represent the third side of a triangle and would make the <i>sukka</i> appear more like a full-fledged structure, as the diagonal would represent closure of both unwalled directions. <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> was silent</b> and did not respond.",
+      "he": "וְיַעֲמִידֶנּוּ כְּנֶגֶד רֹאשׁ תּוֹר?! שְׁתֵיק <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">רַב</span>.",
+      "ref": "Sukkah 7a:1"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>איתמר נמי</b> <span class=\"hebrew-emphasis\">[נאמר גם כן];</span> <b>אמר שמואל משמיה</b> <span class=\"hebrew-emphasis\">[משמו]</span> של <b>לוי: מעמידו</b> לדופן השלישית <b>כנגד היוצא. וכן מורין בי מדרשא</b> <span class=\"hebrew-emphasis\">[</span>היו <span class=\"hebrew-emphasis\">מורים בבית המדרש]:</span> <b>מעמידו כנגד היוצא.</b>",
+              "ref": "Steinsaltz on Sukkah 7a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:ב",
+              "sourceRef": "Steinsaltz on Sukkah 7a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Sukkah 7a:2",
+              "sourceHeRef": "כְּנֶגֶד הַיּוֹצֵא",
+              "sourceRef": "Opposite the wall that emerges"
+            }
+          ]
+        }
+      },
+      "en": "<b>It was also stated</b> that <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> said in the name of <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>: He positions it</b> at the end of one of the standing walls <b>opposite</b> the wall <b>that emerges</b> from the other end of that wall. <b>And similarly, they rule in the study hall: He positions it</b> at the end of one of the standing walls <b>opposite</b> the wall <b>that emerges</b> from the other end of that wall.",
+      "he": "אִיתְּמַר נָמֵי, אָמַר <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">שְׁמוּאֵל</span> מִשְּׁמֵיהּ <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">דְּלֵוִי</span>: מַעֲמִידוֹ כְּנֶגֶד הַיּוֹצֵא. וְכֵן מוֹרִין בֵּי מִדְרְשָׁא: מַעֲמִידוֹ כְּנֶגֶד הַיּוֹצֵא.",
+      "ref": "Sukkah 7a:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">טֶפַח</strong> m. (Biblical Hebrew; see <span class=\"refLink\" data-ref=\"Jastrow, טָפַח I 1\" href=\"/Jastrow,_טָפַח I.1\"><span dir=\"rtl\">טָפַח</span> I</span>) <i>hand-breadth, breadth of four fingers joined</i>. <span class=\"refLink\" data-ref=\"Sukkah 4b:17\" href=\"/Sukkah.4b.17\">Sukkah 4ᵇ</span>, and from <span dir=\"rtl\">ארון תשעה וכפרת ט׳</span> the Ark was nine handbreadths high, and the lid one. <span class=\"refLink\" data-ref=\"Sukkah 7a:16\" href=\"/Sukkah.7a.16\">Ib. 7ᵃ</span> <span dir=\"rtl\">ט׳ שוחק</span> a liberal hand-breadth (four fingers not closely joined). see <span class=\"refLink\" data-ref=\"Jastrow, אַמָּה 1\" dir=\"rtl\" href=\"/Jastrow,_אַמָּה.1\">אַמָּה</span>.—<span class=\"refLink\" data-ref=\"Yoma 55a:1\" href=\"/Yoma.55a.1\">Yoma 55ᵃ</span> top <span dir=\"rtl\">טִיפְחָהּ של כפורת</span> Arukh and Manuscript Munich 2 and Manuscript Oxford (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 9, ed. <span class=\"refLink\" data-ref=\"Jastrow, עוּבְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_עוּבְיָא.1\">עוביה</span>) the hand-breadth, i.e. the hight, of the lid, see supra.; and see from—plural <span dir=\"rtl\">טְפָחִים</span>, <i>Dual</i> <span dir=\"rtl\">טְפָחַיִים</span>. <span class=\"refLink\" data-ref=\"Taanit 25b:11\" href=\"/Taanit.25b.11\">Taanit 25ᵇ</span>; and see from [<span dir=\"rtl\">טְפָחִין</span>, or <span dir=\"rtl\">טִפְחִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, טְפִיחַ II 1\" href=\"/Jastrow,_טְפִיחַ II.1\"><span dir=\"rtl\">טְפִיחַ</span> II</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, טֶפַח 1",
+              "sourceHeRef": "מילון יסטרוב, טֶפַח א׳",
+              "sourceRef": "Jastrow, טֶפַח 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">שָׂחַק</strong>, <strong dir=\"rtl\">סָחַק</strong> (Biblical Hebrew; interch. with <span class=\"refLink\" data-ref=\"Jastrow, צָחַק 1\" dir=\"rtl\" href=\"/Jastrow,_צָחַק.1\">צָחַק</span> see as well) <i>to be bright; to laugh, jest, play</i>. <span class=\"refLink\" data-ref=\"Tosefta Bava Kamma 2:2\" href=\"/Tosefta_Bava_Kamma.2.2\">Tosefta Bava Kamma II, 2</span> <span dir=\"rtl\">ס׳ בין הבקר וכ׳</span> ed. Zuckermandel (see Tosefefta) (Variant <span dir=\"rtl\">צחבין</span>, <span dir=\"rtl\">צהבין</span>, read: <span dir=\"rtl\">צחק בין</span>) if he (the ox) sported among the herd three times (doing no harm). <span class=\"refLink\" data-ref=\"Devarim Rabbah 3\" href=\"/Devarim_Rabbah.3\">Devarim Rabbah section (Parashah) 3</span>, end <span dir=\"rtl\">ראה … שׂוֹחַקַת לעבד</span> the king saw her smile at one of his servants. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Kiddushin 3:2:4\" href=\"Jerusalem_Talmud_Kiddushin.3.2.4\">Yerushalmi Kiddushin III, 63ᵈ</span> <span dir=\"rtl\">מימי לא ש׳ וכ׳</span> never did a person have his sport with me, except this man. Midrash Tanḥuma Naso 5 <span dir=\"rtl\">באותו שבפנים שָׂחַקְתָּ אבל … לִשְׂחוֹק</span> thou didst fool him (the watchman) that was inside, but thou canst not fool me. <span class=\"refLink\" data-ref=\"Tractate Derekh Eretz Zuta 5:5\" href=\"/Tractate_Derekh_Eretz_Zuta.5.5\">Der. Er. Zuṭṭa Chaldaic V</span> <span dir=\"rtl\">ולא בוכה בין השׂוֹחֲקִים ולא שׂוֹחֵק וכ׳</span> nor should one weep among those who laugh, nor laugh among those who weep; and from—Transferred (of fingers) <i>to be spread</i>, opposed <span dir=\"rtl\">עצב</span>. <span class=\"refLink\" data-ref=\"Sukkah 7a:3\" href=\"/Sukkah.7a.3\">Sukkah 7ᵃ</span> <span dir=\"rtl\">טפח שוחק</span> (Manuscript Munich and Arukh <span class=\"refLink\" data-ref=\"Jastrow, ס׳ 1\" dir=\"rtl\" href=\"/Jastrow,_ס׳.1\">ס׳</span>); <span class=\"refLink\" data-ref=\"Eruvin 3b:21\" href=\"/Eruvin.3b.21\">Eruvin 3ᵇ</span> <span dir=\"rtl\">שׂוֹחֲקוֹת</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אַמָּה 1\" dir=\"rtl\" href=\"/Jastrow,_אַמָּה.1\">אַמָּה</span>; and e.<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">שִׂיחֵק</strong>, <strong dir=\"rtl\"> סִ׳</strong> <span class=\"refLink\" data-ref=\"Jastrow, שַׁחֲצָנִית 1\" href=\"/Jastrow,_שַׁחֲצָנִית.1\">same</span>. Midrash Tanḥuma l. common gender. <span dir=\"rtl\">באישך את מְשַׂחֶקֶת וכ׳</span> thou canst fool thy husband, but thou canst not fool me. Ib. <span dir=\"rtl\">ואני יושב ומְשַׂחֵק על וכ׳</span> but I sit laughing at my creatures. <span class=\"refLink\" data-ref=\"Tosefta Ketubot 9:2\" href=\"/Tosefta_Ketubot.9.2\">Tosefta Ketubot IX, 2</span> <span dir=\"rtl\">מְסַחֵק הוא בה</span> ed. Zuckermandel (see Tosefefta) (Variant <span dir=\"rtl\">מְצַ׳</span>) he may laugh at her (and take the sham sale seriously); (<span class=\"refLink\" data-ref=\"Ketubot 79a:5\" href=\"/Ketubot.79a.5\">Ketubot 79ᵃ</span> <span dir=\"rtl\">רצה מצחק</span>), see <span class=\"refLink\" data-ref=\"Jastrow, פִּיסְטִין 1\" dir=\"rtl\" href=\"/Jastrow,_פִּיסְטִין.1\">פִּיסְטִין</span>. Midrash Tanḥuma Noah 5 <span dir=\"rtl\">והיו משחקין ממנו</span> they laughed at him (Noah). <span class=\"refLink\" data-ref=\"Berakhot 7b\" href=\"/Berakhot.7b\">Berakhot 7ᵇ</span>, and e. <span dir=\"rtl\">השעה משחקת לו</span> the hour smiles on him, i.e. he is in luck; and from<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִשְׂחִיק</strong> <i>to cause to laugh, lead to sport</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 22\" href=\"/Bereishit_Rabbah.22\">Breishit Rabbah section (Parashah) 22</span> <span dir=\"rtl\">אם בא … להַשְׂחִיקְךָ שמחהו וכ׳</span> if thy inclination comes to incite thee to merriment, rejoice it with words of the Law; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 296\" href=\"/Yalkut_Shimoni_on_Nach.296\">Yalkut Isaiah 296</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, שָׂחַק 1",
+              "sourceHeRef": "מילון יסטרוב, שָׂחַק א׳",
+              "sourceRef": "Jastrow, שָׂחַק 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>Rav Ḥisda said</b> that <b>Avimi said: A mat</b> that is <b>four handbreadths and a bit</b> wide can <b>permit</b> the use of a <i>sukka</i> <b>as a wall.</b> The Gemara explains: <b>How does one accomplish</b> this? <b>He suspends it in the middle</b> of a space ten handbreadths high, with <b>less than three</b> handbreadths <b>below</b> it <b>and less than three</b> handbreadths <b>above</b> it. <b>And</b> the principle states: The legal status of <b>any</b> objects that have a gap of <b>less than three</b> handbreadths between them <b>is as if</b> they were <b>joined [<i>lavud</i>].</b> Therefore, a mat four handbreadths and a bit wide can constitute a fit partition of ten handbreadths.",
+                "The Gemara asks: This is <b>obvious.</b> The principle of joining with regard to a gap of less than three handbreadths is well known. There is no need to teach this <i>halakha</i>. The Gemara answers: <b>Lest you say</b> that <b>we state</b> the principle of <b><i>lavud</i> once</b> with regard to a particular surface but <b>we do not state</b> the principle of <i>lavud</i> <b>twice</b> to consider it joined in different directions, Avimi <b>teaches us</b> that one may implement the principle twice.",
+                "The Gemara <b>raises an objection</b> to the opinion of Avimi from a <i>baraita</i>: <b>A mat</b> that is <b>seven handbreadths and a bit</b> wide can <b>permit</b> use of a <i>sukka</i> <b>as a wall.</b> Apparently, a mat can serve as the wall of a <i>sukka</i> only when the principle of joined objects is implemented once. The Gemara answers: <b>When that <i>baraita</i> was taught, it was with regard to a large <i>sukka</i>,</b> one considerably higher than ten handbreadths. One suspends the mat from a bit less than three handbreadths from the roofing, and it is considered a fit <i>sukka</i> wall although it is a significant distance off the ground. <b>And what does it teach us?</b> It teaches <b>that one</b> may <b>lower walls from up downward, in accordance with</b> the opinion of <b>Rabbi Yosei.</b>",
+                "Apropos forming a <i>sukka</i> wall based on the principle of <i>lavud</i>, the Gemara cites that <b>Rabbi Ami said: A board</b> that measures <b>four</b> handbreadths <b>and a bit</b> can <b>permit</b> the use <b>of a <i>sukka</i>,</b> serving <b>as a wall, and</b> it is effective if <b>one establishes it less than three</b> handbreadths <b>from the</b> adjacent <b>wall. And</b> the principle states: The legal status of <b>any</b> objects with a gap of <b>less than three</b> handbreadths between them <b>is as if</b> they were <b>joined.</b>",
+                "The Gemara asks: <b>What is he teaching us?</b> The principle of <i>lavud</i> is well known. The Gemara answers: <b>He comes to teach us</b> that the minimum <b>measure</b> of the horizontal <b>extension</b> of the wall <b>of a small <i>sukka</i> is seven</b> handbreadths. Therefore, it is possible to establish a wall for the <i>sukka</i> using a board that measures four handbreadths and a bit."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Sukkah 16b:9",
+                "Sukkah 16b:10",
+                "Sukkah 16b:11",
+                "Sukkah 16b:12",
+                "Sukkah 16b:13"
+              ],
+              "he": [
+                "אָמַר רַב חִסְדָּא אָמַר אֲבִימִי: מַחְצֶלֶת אַרְבָּעָה וּמַשֶּׁהוּ — מַתֶּרֶת בְּסוּכָּה מִשּׁוּם דּוֹפֶן. הֵיכִי עָבֵיד? תָּלֵי לֵיהּ בָּאֶמְצַע, פָּחוֹת מִשְּׁלֹשָׁה לְמַטָּה וּפָחוֹת מִשְּׁלֹשָׁה לְמַעְלָה, וְכׇל פָּחוֹת מִשְּׁלֹשָׁה כְּלָבוּד דָּמֵי.",
+                "פְּשִׁיטָא? מַהוּ דְּתֵימָא: חַד לָבוּד אָמְרִינַן, תְּרֵי לָבוּד לָא אָמְרִינַן — קָא מַשְׁמַע לַן.",
+                "מֵיתִיבִי: מַחְצֶלֶת שִׁבְעָה וּמַשֶּׁהוּ מַתֶּרֶת בְּסוּכָּה מִשּׁוּם דּוֹפֶן. כִּי תַּנְיָא הָהִיא, בְּסוּכָּה גְּדוֹלָה. וּמַאי קָא מַשְׁמַע לַן — דִּמְשַׁלְשְׁלִין דְּפָנוֹת מִלְמַעְלָה לְמַטָּה כְּרַבִּי יוֹסֵי.",
+                "אָמַר רַבִּי אַמֵּי: פַּס אַרְבָּעָה וּמַשֶּׁהוּ — מַתִּיר בְּסוּכָּה מִשּׁוּם דּוֹפֶן. וּמוֹקֵים לֵיהּ בְּפָחוֹת מִשְּׁלֹשָׁה טְפָחִים סָמוּךְ דּוֹפֶן, וְכׇל פָּחוֹת מִשְּׁלֹשָׁה סָמוּךְ לַדּוֹפֶן כְּלָבוּד דָּמֵי.",
+                "מַאי קָא מַשְׁמַע לַן? הָא קָא מַשְׁמַע לַן — שִׁיעוּר מֶשֶׁךְ סוּכָּה קְטַנָּה שִׁבְעָה."
+              ],
+              "link": "/Sukkah/16b",
+              "originalRefsBeforeRewriting": [
+                "Sukkah 16b:12"
+              ],
+              "ref": "Sukkah 16b:9-13",
+              "sourceHeRef": "סוכה ט״ז ב",
+              "sourceRef": "Sukkah 16b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A sukkah which does not possess three walls is invalid. However, if it has two complete walls perpendicular to each other in the shape of [the Greek letter] <i>gamma</i>, it is sufficient to construct a third wall that is [only] slightly more than a handbreadth wide and place it within three handbreadths of one of the two walls. Also, one must construct the likeness of an entrance, since it does not possess three complete walls.<br>We have already explained in <i>Hilchot Shabbat</i> that wherever the term \"a likeness of an entrance\" is used, it may be a rod on one side, another rod on the opposite side, and a third above, even though it does not touch them.",
+              "he": "סֻכָּה שֶׁאֵין לָהּ שָׁלֹשׁ דְּפָנוֹת פְּסוּלָה. הָיוּ לָהּ שְׁתֵּי דְּפָנוֹת גְּמוּרוֹת זוֹ בְּצַד זוֹ כְּמִין גַּ\"ם עוֹשֶׂה דֹּפֶן שֶׁיֵּשׁ בְּרָחְבּוֹ יֶתֶר עַל טֶפַח וּמַעֲמִידוֹ בְּפָחוֹת מִשְּׁלֹשָׁה סָמוּךְ לְאֶחָד מִשְּׁתֵּי הַדְּפָנוֹת וְדַיּוֹ. וְצָרִיךְ לַעֲשׂוֹת לָהּ צוּרַת פֶּתַח מִפְּנֵי שֶׁאֵין לָהּ שָׁלֹשׁ דָּפְנוֹת גְּמוּרוֹת. וּכְבָר בֵּאַרְנוּ בְּהִלְכוֹת שַׁבָּת שֶׁצּוּרַת פֶּתַח הָאָמוּר בְּכָל מָקוֹם אֲפִלּוּ קָנֶה מִכָּאן וְקָנֶה מִכָּאן וְקָנֶה עַל גַּבֵּיהֶן אַף עַל פִּי שֶׁאֵינוֹ מַגִּיעַ לָהֶן:",
+              "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 4:2",
+              "sourceHeRef": "הלכות שופר וסוכה ולולב ד:ב",
+              "sourceRef": "Shofar, Sukkah and Lulav 4:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">טפח שוחק</strong> - מודדין בד' אצבעות שאינם נוגעות זו בזו דהוי טפח ומשהו:",
+              "ref": "Rashi on Sukkah 7a:3:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ג:א",
+              "sourceRef": "Rashi on Sukkah 7a:3:1"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> ומעמידה כו' מצוייר ציור זה א:",
+                      "ref": "Chokhmat Shlomo on Sukkah 7a:2",
+                      "sourceHeRef": "חכמת שלמה על סוכה ז׳ א:ב",
+                      "sourceRef": "Chokhmat Shlomo on Sukkah 7a:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומעמידו בפחות מג'</strong> - סמוך לאחת הדפנות <span class=\"image-ref-container\"><span class=\"image-ref-text\">(*):</span><span class=\"image-ref\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAB1CAYAAAAGPhw3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE3SURBVHhe7dCxDcAgEARB+m8aJxTwKzIzK10BN2trHKwQrBCsEKwQrFDCWmv9dpNgnU2CdTYJ1tmkK6zXghWCFYIVghWCFYIVghWCFYIVghWCFYIVghV6Gqv+gRX+wAp/YIU/sMIfWOEPrPAHVvgDK/yBFf7ACn9ghT+wwh9Y4Q+s8AdW+AMr/IEV/sAKf2CFP7DCH1jhD6zwB1b4Ayv8gRX+wAp/YIU/sMIfWOEPrPAHVvgDK/yBFf7ACn9ghT+wwp+nsWqwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQrBCsEKwQu89vghWCFYIVghWCNa4vT9FhJdirjhZegAAAABJRU5ErkJggg==\"></span></span><span class=\"image-pointer\">(*)</span> ופחות מג' כלבוד והויא ליה כמחיצה של ד' טפחים ומשך סוכה שבעה נמצא רובו של דופן עשוי:",
+              "ref": "Rashi on Sukkah 7a:3:2",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ג:ב",
+              "sourceRef": "Rashi on Sukkah 7a:3:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף ב' בהג\"ה </b>ואם הטפח והדופן מגיע לסכך א\"צ קנה על גביהן. נ\"ב עיין במג\"א סק\"ב מה שהקשה מן הירושלמי שמפורש שם דבעינן שיהיה נעשה לשם צוה\"פ ולמה הקילו הם אף בלא נעשה לשם כך ועיין בא\"ר שחולק עליו. ולפענ\"ד נראה דדין זה מוכח בש\"ס דלא בעינן כוונה לשם צוה\"פ בזה והוא ממ\"ש בש\"ס שם דף זיי\"ן ר\"א אשכחיה להרב כהנא דקא עביד טפח שוחק וקעביד צורת הפתח א\"ל לאו סבר לה מר להא דאמר רבא וניתרת נמי בצה\"פ א\"ל אנא כאידך לישנא דרבא ס\"ל דאמר וצריכה נמי צוה\"פ עכ\"ל הש\"ס. וקשה לי מנ\"ל דהני תרתי לישני פליגי דלמא לא פליגי כלל ומה דקאמר רבא ונתירת נמי בצה\"פ היינו שעושה בכוונה לשם צוה\"פ בזה די בצה\"פ לבד אף בלי טפח שוחק ומה דקאמר וצריכה נמי צוה\"פ היינו היכא דאינו מכוין לשם צוה\"פ רק דהוה ממילא כעין דינו של המרדכי והרמ\"א באם הטפח ודופן מגיע עד הסכך בזה בעינן תרוויוהו טפח שוחק וגם צוה\"פ ולא פליגי כלל ואם כן רב כהנא דעשה בכוונה צוה\"פ כדמשמע בש\"ס דקאמר וקעביד נמי צוה\"פ שפיר א\"ל ד\"א דלמ\"ל עוד טפח שוחק ומה השיב לו אנא כאידך לישנא דרבא ס\"ל וצריכה נמי צוה\"פ דלמא לא פליגי כלל ומנ\"ל לעשות פלוגתא ובפרט בדברי רבא עצמו א\"א דס\"ל להש\"ס בפשיטות דאין סברא כלל לחלק בין עשה לשם צוה\"פ בכוונה או לא כדברי הא\"ר כיון דעושה לשם סכך הוי ככוונה ובע\"כ דפליגי וזו ראיה ברורה וגדולה מן הש\"ס דלא כהמג\"א והירושלמי ודו\"ק היטב. גם י\"ל דבשבת ודאי לא בעינן כוונה לשם צוה\"פ רק בסוכה כיון דהחמירו ביה טפי כמ\"ש התוס' כעין זה דלכך בעינן טפח שלם כמו כן ס\"ל להירושלמי דסבר דלא אמרינן מיגו דהוי דופן לשבת הוי דופן לסוכה. אבל אנן קיי\"ל דאמרינן מגו וכיון דמהני צוה\"פ לגבי שבת מהני לסוכה אף בחול כדס\"ל כן גבי מבוי שיש בו לחי ודו\"ק והבן. עוד נלפענ\"ד ליישב קושיית הירושלמי שהביא המג\"א הנ\"ל לפמ\"ש לקמן סי' תרל\"ה דאין לעשות הסכך ואח\"כ הדפנות ואם עשה כן כשר והט\"ז פוסל. ועיקר ראייתו ממ\"ש בש\"ס וצריך לנענע ע\"ש. ולפ\"ז למ\"ד א\"צ לנענע מותר לעשות הסכך תחלה ואחר כך הדפנות ולכך אתי שפיר דהירושלמי יסבור כרב וממילא מותר לעשות הסכך תחלה ואחר כך הדפנות ולכך הוא מיירי דהיה עושה הסכך תחלה ואם כן אז לא הוי ניכר אם יצטרך לצוה\"פ או יעשה ד' או ג' שלימות ולכך אף דעשה אחר כך ב' והשלישית טפח ומוכח דבעינן צוה\"פ בזה ניהו דמשום תעשה ולא מן העשוי לא מיפסיל לרב עכ\"פ תורת צוה\"פ לא הוי כיון דלא עשאו לכך. אבל לדידן דקיי\"ל דצריך לנענע ואם כן אי אפשר דלסכך בלתי שיהיו תחלה הדפנות ואם כן בע\"כ היה התחלה הטפח והדופן דאל\"כ ליכא דפנות ואם כן כיון דסכך עלייהו הוי הוכחה דכוון שיהיה זה לצוה\"פ כיון דבעינן צוה\"פ בזה הוי סתמא כפירושו דנתכוין לכך ועוד אם לא יהיה כן הדר פסל הסכך כיון דעדיין ליכא ג' דפנות כהלכתן ואף שיעשה אחר כך צוה\"פ יהיה מן העשוי ובע\"כ מדמסכך טרם שעשה צוה\"פ הוי כוונתו שזה יהיה צוה\"פ בעצמו ושפיר פסקו דכשר בכה\"ג ויהי' מוכח דס\"ל כהט\"ז דפסול בע\"א וא\"ש ודוק: והנה ראיתי להא\"ר שמתרץ קושית המג\"א דזה שאני כיון דנעשה להיתר סכך מהני נמי לצוה\"פ ע\"ש. והנה לפי דבריו ולפי דברי הט\"ז דסבירא ליה בעשה הסכך ואחר כך הדפנות פסולה מכח תעשה ולא מן העשוי נתחדש לי קושיא במה דפריך הש\"ס דף י\"א לרב דס\"ל א\"צ לנענע ממתניתין הדלה עליו וכו' ה\"ד אילימא בשלא קצצן מאי איריא משום תעשה ולא מן העשוי ת\"ל דמחוברין נינהו אלא בשקצצן וכו' ומה פריך נימא דמיירי שהיה רק ב' דפנות והג' טפח והצוה\"פ הי' הדלעת והגפן אם כן מתחלה לא הוי עליה דין צוה\"פ כיון דהיה מחובר מכבר ולכך ניהו דקצצן וקציצתן זו עשייתן. מכל מקום עדיין אין לו צוה\"פ כיון דלא נעשה מתחלה לכך מאי אמרת כיון דנעשה להיתר סכך מהני נמי לצוה\"פ ואם כן אי אפשר שיחול עליו שם דופן בלתי אם חל עליו מתחלה לשם סכך ואם כן צריך תחלה לחול עליו שם סכך ואחר כך צוה\"פ ואם כן נעשה הסכך קודם הדופן והוי תולמ\"ה לדעת הט\"ז בשלמא בשלא מחובר יש לומר כמ\"ש כיון דכשירה בכך אנן סהדי דהוי כאילו כיון מתחלה לכך אבל במחובר ממ\"נ קודם קציצה לא מהני אף אם כיון לשם צוה\"פ דהרי מחובר הוא ומתחלה לא נטעו לכך ושוב דאחר כך קצצו לא מהני לצוה\"פ כיון דלא נעשה מתחלה לכך ולומר כיון דנעשה להיתר סכך מהני נמי לצוה\"פ אם כן צריך לחול תחלה שם סכך ואחר כך נעשה צוה\"פ ודופן ופסול מכח תולמ\"ה לדעת הט\"ז ואף דלמ\"ד א\"צ לנענע מודה הט\"ז דכשר בסכך תחלה היינו מכח דעשיית הדפנות אחר כך הוי עשייתו אבל בזה הרי לא נעשה דופן וקציצתן יש לומר לחדא מהני ולתרתי לא מהני להכשירו בתורת סכך גם בתורת דופן לתרתי לא מהני קציצתן ומה פריך וצ\"ע ודו\"ק ועיין בחיבורי על או\"ח משנת תרי\"ב בהלכות עירובין סי' שסב מ\"ש בכוונת דברי המג\"א הנ\"ל ואין ללמוד מזה לצוה\"פ דבעינן כוונה ע\"ש כמה טעמים בעזה\"י ודו\"ק:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 630:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אורח חיים תרל:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 630:1"
+                    }
+                  ]
+                },
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ו)</span> דפנות הסוכה וכו'</strong> - כדי להבין היטיב אקדים לכאן כמה עקרים להלכה זו א)</span> דשיעור סוכה הוא שתהא מחזקת ז' על ז' טפחים לפחות כדלקמן בסימן תרל\"ד. ב)</span> דילפינן בגמרא מקראי דלא קרוי סוכה ע\"י הסכך לבד אא\"כ יש לה ג' דפנות והלכה למשה מסיני דאחת מן הדפנות סגי בטפח אחת. ג)</span> דמ\"מ בעינן שיהיה נראה כדופן דהיינו אם יש לו שתי דפנות סמוכות זו אצל זו כמין ד יקח דף שיש ברחבו טפח מרווח דהיינו טפח ומשהו ויעמידו בריחוק מקום פחות מג\"ט לאחד משתי הדפנות וכל פחות מן ג' טפחים כלבוד דמי ונמצא שיש כאן ד\"ט והוא רוב דופן מהכשר סוכה שהוא ז\"ט כנ\"ל וכדי להשלים שיעור כל הדופן יעשה עוד צורת הפתח דהיינו שיעמוד קנה כנגד אותו טפח וירחיקו ממנו עד סוף הכותל שכנגדו שמחזיק שבעה טפחים ומניח קנה מן הטפח עד הקנה שכנגדו למעלה על גביהן או אפילו למעלה מהן ואינו נוגע בהן רק שיהיה כנגדן כמבואר לעיל בדיני צורת הפתח בסי' שס\"ב ונמצא שיש כאן דופן שלם של ז' טפחים. ועתה נתחיל לבאר בעזה\"י כל פרט בפ\"ע:",
+                      "ref": "Mishnah Berurah 630:6",
+                      "sourceHeRef": "משנה ברורה תרל:ו",
+                      "sourceRef": "Mishnah Berurah 630:6"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ז)</span> יותר על טפח</strong> - במ\"א מבואר שמותר לעשות דפנות הסוכה בקנים שמעמידם פחות פחות מג\"ט רחוק זה מזה והוא בעושה כן ד' דפנות דהיינו קנים כזה מארבעה רוחות אבל כשאין רוצה לעשות רק ג' דפנות בעינן שתי מחיצות שסמוכות זה לזה ושלמות והשלישית בטפח:",
+                      "ref": "Mishnah Berurah 630:7",
+                      "sourceHeRef": "משנה ברורה תרל:ז",
+                      "sourceRef": "Mishnah Berurah 630:7"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ח)</span> ומעמידו בפחות מג' וכו'</strong> - דאז הוי לבוד וא\"כ יש כאן ד' טפחים דהוא רוב הכשר סוכה דאע\"ג דבסתם טפח יהיה ג\"כ רוב דופן דהוי טפי מג\"ט ומחצה אכן משום דבציר מארבעה טפחים לא חשיב בשום דוכתא להכי הצריכו טפח מרווח [ר\"ן]:",
+                      "ref": "Mishnah Berurah 630:8",
+                      "sourceHeRef": "משנה ברורה תרל:ח",
+                      "sourceRef": "Mishnah Berurah 630:8"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ט)</span> כנגד הכותל</strong> - היינו כנגד סוף המקצוע השני של הכותל שכנגדו שסתמו מחזיק ז' טפחים וי\"א דירחיקו עוד טפח יותר כדי שיהיה הצורת הפתח על ד' טפחים:",
+                      "ref": "Mishnah Berurah 630:9",
+                      "sourceHeRef": "משנה ברורה תרל:ט",
+                      "sourceRef": "Mishnah Berurah 630:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(י)</span> ויעשה לה צוה\"פ וכו'</strong> - כדי להשלים שיעור הכותל ועיין בב\"ח שכתב דזה הוא מדרבנן אבל הטפח מרווח שאמרנו מתחלה הוא מדאורייתא:",
+                      "ref": "Mishnah Berurah 630:10",
+                      "sourceHeRef": "משנה ברורה תרל:י",
+                      "sourceRef": "Mishnah Berurah 630:10"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יא)</span> וכשרה</strong> - ואז מותר לטלטל בתוכו ולהוציא מן הבית דרך חלון הפתוח לסוכה בשבת שבתוך החג דאע\"ג דבשאר שבתות אסור לטלטל אא\"כ יש תיקון ברוח רביעית מ\"מ בשבת שבתוך החג אומרים מגו דהוי דופן לענין סוכה הוי נמי דופן לענין שבת ומ\"מ שלא בשעת הדחק ראוי להחמיר:",
+                      "ref": "Mishnah Berurah 630:11",
+                      "sourceHeRef": "משנה ברורה תרל:יא",
+                      "sourceRef": "Mishnah Berurah 630:11"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יב)</span> ואם הטפח והקנה וכו'</strong> - כצ\"ל:",
+                      "ref": "Mishnah Berurah 630:12",
+                      "sourceHeRef": "משנה ברורה תרל:יב",
+                      "sourceRef": "Mishnah Berurah 630:12"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יג)</span> א\"צ קנה ע\"ג</strong> - דהסכך גופא יחשב כקנה ע\"ג ועיין במ\"א שהקשה על זה מירושלמי ודעתו דראוי להחמיר משום דאינו נעשה הסכך לכך אבל האחרונים יישבו קושיתו וע\"כ הסומך על רמ\"א לא הפסיד:",
+                      "ref": "Mishnah Berurah 630:13",
+                      "sourceHeRef": "משנה ברורה תרל:יג",
+                      "sourceRef": "Mishnah Berurah 630:13"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "<i>Le-khatḥila</i> it is better to build a <i>sukka</i> with four full walls and a door that can be closed, so the <i>sukka</i> is comfortable and provides shelter from the sun and wind (see Rema 630:5.) Technically, however, since a <i>sukka</i> is a temporary residence, it is not required to have four walls; three suffice. Moreover, the third wall need not be full; technically, one <i>tefaḥ</i> suffices. The Sages said that this <i>tefaḥ</i> must be within 3 <i>tefaḥim</i> of one of the other walls, and the one-<i>tefaḥ</i> wall must extend by means of a doorway (<i>tzurat ha-petaḥ</i>, explained in the note). Since this law is complicated, someone who wants to save on <i>sukka</i> walls should be advised to put up two complete walls, and a third one which is 7 <i>tefaḥim</i> long (about 56 centimeters). Then, even if his <i>sukka</i> is large, and even if the two walls aren’t connected to one another but rather face each other, the <i>sukka</i> is kosher (Rema 630:3).",
+                      "he": "לכתחילה טוב לבנות סוכה מהודרת בעלת ארבע דפנות שלימות, ולעשות לה פתח שאפשר לסוגרו, כדי שהסוכה תהיה נוחה ומוגנת משמש ורוחות <span class=\"parenthesized\">(עיין רמ\"א תרל, ה)</span>. אולם מעיקר הדין, כיוון שהסוכה היא דירת ארעי, אין חובה שיהיו לה ארבע דפנות, אלא מספיק שיהיו לה שלוש דפנות. ואין צורך שהדופן השלישית תהיה שלימה, אלא מעיקר הדין די שרוחבה יהיה טפח, ואמרו חכמים שצריך להניח טפח זה במרחק של פחות משלושה טפחים מהדופן השנייה, וכהמשך לטפח זה צריך לעשות 'צורת פתח' <span class=\"parenthesized\">(כמבואר בהערה)</span>. וכיוון שדין זה מורכב, נכון להדריך את מי שרוצה לחסוך בדפנות הסוכה, שיקים שתי דפנות שלימות, ובשלישית יעשה דופן שרוחבה שבעה טפחים <span class=\"parenthesized\">(כ-56 ס\"מ)</span>. ואז בכל אופן, גם אם סוכתו תהיה גדולה, וגם אם שתי הדפנות לא יהיו מחוברות זו לזו, אלא יעמדו זו כנגד זו, כיוון שבדופן השלישית יש מחיצה שרוחבה שבעה טפחים, הסוכה כשרה <span class=\"parenthesized\">(רמ\"א תרל, ג)</span>.",
+                      "ref": "Peninei Halakhah, Sukkot 2:6:3",
+                      "sourceHeRef": "סוכות ב:ו:ג",
+                      "sourceRef": "Sukkot 2:6:3"
+                    }
+                  ]
+                }
+              },
+              "en": "2. Regarding the walls of the sukkah, if there are two walls adjacent to each other like a gamma, one makes a wall that has its width greater than a tefach and puts it within three [tefachim] from one wall. One then places a rod <i>(parallel to the wall) (Tur)</i> over this tefach[-wide pseudo-wall] to make the form of a doorway, placing a rod on top of [the real wall] and on top of the tefach[-wide pseudo-wall], and it is kosher, even if the rod does not touch them. <i>Rem\"a: And if the tefach [pseudo-wall] and the wall reach schach, no rod is needed above them (Mordechai, Hagahot Maimoni ch. 4). And the custom that the form of the doorway is circular is just for decorative reasons (so wrote Mordechai).</i>",
+              "he": "דפנות הסוכה אם היו שתים זו אצל זו כמין ג\"ם עושה דופן שיש ברחבו יותר על טפח ומעמידו בפחות משלשה לאחד מהדפנות ויעמוד קנה <span class=\"hebrew-emphasis\"> (כנגד הכותל) (טור) </span> כנגד אותו טפח ויעשה לה צורת הפתח שיעמיד קנה עליו ועל הטפח וכשרה אע\"פ שהקנה שעל גביהן אינו נוגע בהן: <span class=\"hebrew-emphasis\">הגה ואם הטפח והדופן מגיע לסכך א\"צ קנה על גביהן (מרדכי והגהות מיימוני פ\"ד) ומה שנהגו שצורת הפתח עגולה הוא לנוי בעלמא (כ\"כ המרדכי)</span>:",
+              "ref": "Shulchan Arukh, Orach Chayim 630:2",
+              "sourceHeRef": "אורח חיים תרל:ב - דיני דפנות הסוכה",
+              "sourceRef": "Orach Chayim 630:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' סימון ואיתימא</b> <span class=\"hebrew-emphasis\">[ויש אומרים]</span> ש<b>ר' יהושע בן לוי אמר,</b> שיש להשלים את המחיצה באופן אחר; <b>עושה לו</b> את הטפח של דופן שלישית <b>טפח שוחק,</b> כלומר: טפח שמידתו שלימה ועודפת במקצת, <b>ומעמידו בפחות משלשה טפחים סמוך לדופן וכל פחות משלשה סמוך לדופן כלבוד דמי</b> <span class=\"hebrew-emphasis\">[הוא נחשב],</span> שנידון כאילו הוא מחובר, ומצטרף החלל עם הדופן לעשות מחיצה בת ארבעה טפחים, שהיא רוב דופן סוכה קטנה.",
+              "ref": "Steinsaltz on Sukkah 7a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:ג",
+              "sourceRef": "Steinsaltz on Sukkah 7a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Hebrew term <i>soĥek</i>, which means laughing or smiling, also means expansive because when one smiles his mouth widens. All measures slightly larger than the standard are referred to in this manner (<i>Arukh</i>). Some quantify the addition to the standard handbreadth at half a fingerbreadth, approximately 1–1.5 cm (Rav Yehuda ben Rav Binyamin HaRofeh).",
+              "he": "לשון שוחק — כאדם הצוחק שמרחיב קצת את פיו בצחוקו, ומכאן כל לשון שוחק ככינוי למידה גדולה קצת יותר מן המקובל (ערוך). ויש מי שנותן מידה לתוספת זו שהיא כחצי אצבע (בערך ס\"מ — עד ס\"מ וחצי) (ריבב\"ן).",
+              "ref": "Steinsaltz comment #1 on Sukkah 7a:3",
+              "sourceHeRef": "טֶפַח שׂוֹחֵק",
+              "sourceRef": "An expansive [<i>soĥek</i>] handbreadth"
+            },
+            {
+              "en": "If the <i>sukka</i> has two adjacent walls, the third wall may be even just somewhat more than a handbreadth wide. One places it less than three handbreadths from one of the walls. In addition, he must position a pole at least seven handbreadths removed from that adjacent wall and complete the form of a doorway by placing a crossbeam from the top of the wall that is slightly more than a handbreadth to the pole. The <i>halakha</i> is ruled in accordance with the opinion of Rabbi Yehoshua ben Levi, as apparently the later <i>amora’im</i>, Rava and Rav Kahana, held in accordance with his opinion. The <i>halakha</i> was also ruled in accordance with the latter version of Rava’s statement and the custom of Rav Kahana that the form of a doorway is also required. Apparently that is a requirement by rabbinic law, as by Torah law a wall measuring one handbreadth is sufficient (<i>Baĥ</i>; <i>Shulĥan Arukh</i>,<i> Oraĥ Ĥayyim </i>630:2).",
+              "he": "אם היו בסוכה שתי דפנות סמוכות כהלכתן, עושה דופן שיש ברוחבה טפח ומשהו ומעמידה בפחות משלושה טפחים סמוך לאחת הדפנות. אולם נוסף לכך עושה גם קנה נוסף ומעליו צורת הפתח. כדי להשלים את הדופן השלישית על ידי צורת הפתח. ונפסקה הלכה כר' יהושע בן לוי, לפי שנראה שאמוראים אחרונים (רבא ורב כהנא) נהגו כדבריו ולפי לשון אחרונה (שהלכה כמותה) בדברי רבא, וכמנהג רב כהנא אף עושים צורת הפתח. ונראה כי תיקון זה בצורת הפתח הוא מדברי סופרים בלבד, שלדין תורה די בטפח בלבד (ב\"ח). (שו\"ע או\"ח תרל, ב).",
+              "ref": "Steinsaltz comment #2 on Sukkah 7a:3",
+              "sourceHeRef": "עוֹשֶׂה לוֹ טֶפַח שׂוֹחֵק",
+              "sourceRef": "He establishes for the third side a wall that measures an expansive handbreadth"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עושה לו טפח שוחק</strong> - קנה בפחות מג' סמוך <span class=\"parenthesized\">(ליה)</span> לדופן לא יועיל ליחשב כטפח מחמת לבוד דהא לכך בעי טפח שוחק כדי שיהא דופן זה רחב ארבעה טפחים <span class=\"rashi-quotation\">כדפירש בקונטרס</span> כדי שיהא רוב דופן דשיעורו בשבעה טפחים ומשהו ועוד דקנה מבטל ליה אוירא:",
+              "ref": "Tosafot on Sukkah 7a:3:1",
+              "sourceHeRef": "תוספות על סוכה ז׳ א:ג:א",
+              "sourceRef": "Tosafot on Sukkah 7a:3:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-simon\" class=\"namedEntityLink\" data-slug=\"rabbi-simon\">Rabbi Simon</span></b> said, <b>and some say</b> it was <b><span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span></b> who <b>said,</b> that the third wall is positioned differently. <b>He establishes for</b> the third side a wall that measures <b>an expansive handbreadth,</b> measured with the fingers spread apart, which is slightly larger than a standard handbreadth. <b>And he</b> then <b>positions it less than three handbreadths</b> from and <b>adjacent to the wall</b> opposite the second wall. <b>And</b> the legal status of <b>any</b> item positioned <b>less than three</b> handbreadths from and <b>adjacent to the wall is like</b> an item <b>joined</b> to that wall. In this way, the handbreadth-wide wall is joined to the adjacent wall, and it is as if it is a wall of four handbreadths, which is the majority of the minimum measure of the wall of a full-fledged <i>sukka</i>, seven handbreadths.",
+      "he": "רַבִּי סִימוֹן, וְאִיתֵּימָא <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי</span> אָמַר: עוֹשֶׂה לוֹ טֶפַח שׂוֹחֵק, וּמַעֲמִידוֹ בְּפָחוֹת מִשְּׁלֹשָׁה טְפָחִים סָמוּךְ לַדּוֹפֶן, וְכׇל פָּחוֹת מִשְּׁלֹשָׁה סָמוּךְ לַדּוֹפֶן כְּלָבוּד דָּמֵי.",
+      "ref": "Sukkah 7a:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "Like an open alley - so that the two walls [are erected] opposite one another.",
+                      "he": "",
+                      "ref": "Translation on Rashi on Sukkah 7a:4:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> כמבוי כו' מצוייר ציור זה ב:",
+                      "ref": "Chokhmat Shlomo on Sukkah 7a:3",
+                      "sourceHeRef": "חכמת שלמה על סוכה ז׳ א:ג",
+                      "sourceRef": "Chokhmat Shlomo on Sukkah 7a:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כמבוי המפולש</strong> - ששתי הדפנות זו כנגד זו: <span class=\"image-ref-container\"><span class=\"image-ref-text\">(*):</span><span class=\"image-ref\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAB1CAYAAADax2gAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADySURBVHhe7c4xCgAxEIDA/P/TuTqdheyxoGA/5y4s9FShp3rQ55znPyKG0EbEENqIGEIbEUNoI2IIbUQMoY2IIbQRMYQ2IobQRsQQ2ogYQhsRQ2gjYghtRAyhjYghtBExhDYihtBGxBDaiBhCGxFDaCNiCG1EDKGNiCG0ETGENiKG0EbEENqIGEIbEUNoI2IIbUQMoY2IIbQRMYQ2IobQRsQQ2ogYQhsRQ2gjYghtRAyhjYghtBExhDYihtBGxBDaiBhCGxFDaCNiCG1EDKGNiCG0ETGENiKG0EbEENqIGEIbEcN+9JZCTxV6qtBTLUTf+wGrkT+1UiBUqQAAAABJRU5ErkJggg==\"></span></span><span class=\"image-pointer\">(*)</span>",
+              "ref": "Rashi on Sukkah 7a:4:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ד:א",
+              "sourceRef": "Rashi on Sukkah 7a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כשרה</strong> - דהא נמי קרי כהלכתן:",
+              "ref": "Rashi on Sukkah 7a:4:2",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ד:ב",
+              "sourceRef": "Rashi on Sukkah 7a:4:2"
+            },
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "In any place that he wants - for look, there are four [unattached] ends [of walls] and at any of those ends that he wants he may build [the third wall].",
+                      "he": "",
+                      "ref": "Translation on Rashi on Sukkah 7a:4:3",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לכל רוח שירצה</strong> - שהרי יש כאן ארבעה יוצאין ולאיזה יוצא שירצה יעשנו:",
+              "ref": "Rashi on Sukkah 7a:4:3",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ד:ג",
+              "sourceRef": "Rashi on Sukkah 7a:4:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב יהודה: סוכה העשויה כמבוי,</b> כלומר: שיש בה שתי דפנות שלימות זו כנגד זו — <b>כשרה, ואותו טפח</b> של דופן שלישית <b>מעמידו</b> בצמוד <b>לכל רוח</b> (צד) <b>שירצה,</b> שאין צורך אלא להיכר בלבד, ודיו בכך.",
+              "ref": "Steinsaltz on Sukkah 7a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:ד",
+              "sourceRef": "Steinsaltz on Sukkah 7a:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a <i>sukka</i> has two parallel walls, then in order to complete the <i>sukka</i> one establishes a wall measuring somewhat more than four handbreadths perpendicular to and less than three handbreadths from the edge of one of the standing walls. In addition, here too one must erect the form of a doorway along that third wall, as Rava’s ruling applies to this case as well (Rif; Rambam; others). Some hold that the form of a doorway is not required (<i>Tosefot Rabbeinu Peretz</i>; Rosh). If the third wall measures a bit more than seven handbreadths and there is no reliance on the principle of <i>lavud</i>, the form of a doorway is certainly not required (<i>Shulĥan Arukh</i>,<i> Oraĥ Ĥayyim </i>630:3, and in the comment of the Rema).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Sukkah 7a:4",
+              "sourceHeRef": "סוּכָּה הָעֲשׂוּיָה כְּמָבוֹי",
+              "sourceRef": "A <i>sukka</i> constructed like an alleyway"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> said: A <i>sukka</i> constructed like an alleyway,</b> with two parallel full-fledged walls, is <b>fit, and</b> with regard to <b>that</b> third wall that measures one <b>handbreadth, he positions it</b> adjacent to one of the walls <b>in any direction that he chooses,</b> as it is merely a conspicuous marker.",
+      "he": "אָמַר <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">רַב יְהוּדָה</span>: סוּכָּה הָעֲשׂוּיָה כְּמָבוֹי — כְּשֵׁרָה, וְאוֹתוֹ טֶפַח מַעֲמִידוֹ לְכׇל רוּחַ שֶׁיִּרְצֶה.",
+      "ref": "Sukkah 7a:4"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The mishna teaches: <b>And if the city preceded</b> the tree he <b>cuts down</b> the tree, <b>and</b> the city <b>does not give money.</b> The Gemara asks: <b>What is different with regard to a cistern, that</b> the <i>tanna</i> of another mishna (25b) <b>teaches</b> that if one plants a tree next to a neighbor’s existing cistern, the owner of the tree <b>cuts down</b> the tree <b>and</b> the owner of the cistern <b>gives money; and what is different here that</b> the mishna <b>teaches</b> that the owner of the tree <b>cuts down</b> the tree <b>and</b> the city <b>does not give money?</b>",
+                "<b>Rav Kahana said,</b> citing a popular aphorism: <b>A pot belonging to partners is neither hot nor cold,</b> i.e., no one takes responsibility for an item that belongs to several people, as opposed to a single individual. Here too, there is no specific person who will pay for the tree.",
+                "The Gemara asks: <b>And what is the difficulty</b> to begin with? <b>Perhaps damage</b> caused <b>to public</b> property <b>is different from damage</b> caused to the property <b>of an individual.</b> Consequently, when one’s tree causes damage to the public he is not compensated for having to cut it down, whereas he does receive payment when his tree damages a private cistern.",
+                "<b>Rather, if Rav Kahana’s</b> comment <b>was stated</b> in this context, <b>it was stated about the latter clause: If the tree preceded</b> the city, he <b>cuts down</b> the tree <b>and</b> the city <b>gives money</b> to its owner. Concerning this <i>halakha</i> one could ask: <b>And let</b> the tree owner <b>say to</b> the city residents: <b>Give me money first and then I will cut down</b> the tree. In this context, <b>Rav Kahana said: A pot belonging to partners is neither hot nor cold.</b> If the owner of the tree is entitled to wait until he had first collects money, a good deal of time would pass before the tree would be cut down. Therefore, a community need not collect money and pay immediately, unlike an individual."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 24b:8",
+                "Bava Batra 24b:9",
+                "Bava Batra 24b:10",
+                "Bava Batra 24b:11"
+              ],
+              "he": [
+                "וְאִם הָעִיר קָדְמָה – קוֹצֵץ וְאֵינוֹ נוֹתֵן דָּמִים וְכוּ׳. מַאי שְׁנָא גַּבֵּי בּוֹר, דְּקָתָנֵי – קוֹצֵץ וְנוֹתֵן דָּמִים; וּמַאי שְׁנָא הָכָא, דְּקָתָנֵי: קוֹצֵץ וְאֵינוֹ נוֹתֵן דָּמִים?",
+                "אָמַר רַב כָּהֲנָא: קִידְרָא דְּבֵי שׁוּתָּפֵי – לָא חַמִּימָא וְלָא קָרִירָא.",
+                "וּמַאי קוּשְׁיָא? דִּלְמָא שָׁאנֵי הֶזֵּיקָא דְּרַבִּים מֵהֶזֵּיקָא דְּיָחִיד!",
+                "אֶלָּא אִי אִיתְּמַר דְּרַב כָּהֲנָא, אַסֵּיפָא אִיתְּמַר – אִם הָאִילָן קָדַם, קוֹצֵץ וְנוֹתֵן דָּמִים. וְלֵימָא לְהוּ: הַבוּ לִי בְּרֵישָׁא דְּמֵי, וַהֲדַר אִיקּוֹץ! אָמַר רַב כָּהֲנָא: קִידְרָא דְּבֵי שׁוּתָּפֵי – לָא חַמִּימָא וְלָא קָרִירָא."
+              ],
+              "link": "/Bava Batra/24b",
+              "originalRefsBeforeRewriting": [
+                "Bava Batra 24b:8"
+              ],
+              "ref": "Bava Batra 24b:8-11",
+              "sourceHeRef": "בבא בתרא כ״ד ב",
+              "sourceRef": "Bava Batra 24b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If the two walls were parallel to each other and there was an open space between them, one should construct a wall slightly more than four handbreadths wide and place it within three handbreadths of one of the two walls; then, [the sukkah] is kosher. However, it is necessary to construct \"the likeness of an entrance.\"<br>If the rods of the <i>s'chach</i> of the sukkah extend beyond the sukkah and one wall extends with them, they are considered to be [part of] the sukkah.",
+              "he": "הָיוּ לָהּ שְׁתֵּי דְּפָנוֹת זוֹ כְּנֶגֶד זוֹ וּבֵינֵיהֶן מְפֻלָּשׁ. עוֹשֶׂה דֹּפֶן שֶׁיֵּשׁ בְּרָחְבּוֹ אַרְבָּעָה טְפָחִים וּמַשֶּׁהוּ וּמַעֲמִידוֹ בְּפָחוֹת מִשְּׁלֹשָׁה סָמוּךְ לְאַחַת מִשְּׁתֵּי הַדְּפָנוֹת וּכְשֵׁרָה. וְצָרִיךְ לַעֲשׂוֹת לָהּ צוּרַת פֶּתַח. קָנִים הַיּוֹצְאִים מִסְּכַךְ הַסֻּכָּה לִפְנֵי הַסֻּכָּה וְדֹפֶן אַחַת נִמְשֶׁכֶת עִמָּהֶן הֲרֵי הֵן כְּסֻכָּה:",
+              "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 4:3",
+              "sourceHeRef": "הלכות שופר וסוכה ולולב ד:ג",
+              "sourceRef": "Shofar, Sukkah and Lulav 4:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> עושר פס כו' מצוייר ציור זה ג:",
+                      "ref": "Chokhmat Shlomo on Sukkah 7a:4",
+                      "sourceHeRef": "חכמת שלמה על סוכה ז׳ א:ד",
+                      "sourceRef": "Chokhmat Shlomo on Sukkah 7a:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עושה פס</strong> - דופן גמור של ד' טפחים ומעמידו בפחות מג' סמוך לדופן <span class=\"image-ref-container\"><span class=\"image-ref-text\">(*):</span><span class=\"image-ref\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAABzCAYAAADnqTAeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD8SURBVHhe7c5BCsMwAMRA///T7jkpGAUUg1sJ9raHGfPQgu8u+O6+4GOMy1bdv0+2inyDP90q8v1P+FsRQ3AzYghuRgzBzYghuBkxBDcjhuBmxBDcjBiCmxFDcDNiCG5GDMHNiCG4GTEENyOG4GbEENyMGIKbEUNwM2IIbkYMwc2IIbgZMQQ3I4bgZsQQ3IwYgpsRQ3AzYghuRgzBzYghuBkxBDcjhuBmxBDcjBiCmxFDcDNiCG5GDMHNiCG4GTEENyOG4GbEENyMGIKbEUNwM2IIbkYMwc2IIbgZMQQ3I4bgZsQQ3IwYgpsRQ3AzYvgd+CkF313w3R0Kn/MDmavv9ipnFYgAAAAASUVORK5CYII=\"></span></span><span class=\"image-pointer\">(*)</span> אצל מקצוע פס ארבעה דכי אמרינן לבוד איכא ז' טפחים ארוך כדי סוכה קטנה:",
+              "ref": "Rashi on Sukkah 7a:5:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ה:א",
+              "sourceRef": "Rashi on Sukkah 7a:5:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יד)</span> עושה דופן וכו'</strong> - ומה דלמעלה די בטפח דהתם השתי דפנות סמוכות להדדי וע\"כ די בשלישי בטפח בעלמא משא\"כ בזה דהם רחוקים זה מזה ע\"כ צריך לעשות דופן של ד' טפחים ומשהו ולהעמידו בפחות מג' סמוך לדופן אחד דהוי כלבוד ונחשב כאלו היה דופן שלם של ז' טפחים סמוך לדופן וממילא גם בזה יש שתי דפנות סמוכות להדדי כמו למעלה:",
+                      "ref": "Mishnah Berurah 630:14",
+                      "sourceHeRef": "משנה ברורה תרל:יד",
+                      "sourceRef": "Mishnah Berurah 630:14"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(טו)</span> וגם בזה צריך לעשות צו\"פ וכו'</strong> - עיין במ\"א שמסתפק אולי דוקא בסוכה קטנה כשר אבל בסוכה גדולה שהשלישית רחוקה ממנה הרבה לא מהני אפי' ע\"י צורת הפתח אבל הרבה אחרונים הסכימו דאין לחלק בזה:",
+                      "ref": "Mishnah Berurah 630:15",
+                      "sourceHeRef": "משנה ברורה תרל:טו",
+                      "sourceRef": "Mishnah Berurah 630:15"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(טז)</span> וי\"א שאין זה צריך צורת הפתח</strong> - דלא דמי לס\"ב ששם התיקון בפס רחב טפח שהתיקון הוא גרוע ע\"כ צריך צוה\"פ להשלים השיעור משא\"כ כאן שיש תיקון טוב בפס ד' ע\"כ ס\"ל דאין צריך צוה\"פ וכתבו האחרונים דיש להחמיר כסברא הראשונה:",
+                      "ref": "Mishnah Berurah 630:16",
+                      "sourceHeRef": "משנה ברורה תרל:טז",
+                      "sourceRef": "Mishnah Berurah 630:16"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יז)</span> אבל אם איכא וכו'</strong> - ר\"ל דבזה לכו\"ע א\"צ צוה\"פ אפילו לדעה הראשונה:",
+                      "ref": "Mishnah Berurah 630:17",
+                      "sourceHeRef": "משנה ברורה תרל:יז",
+                      "sourceRef": "Mishnah Berurah 630:17"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יח)</span> הואיל ואיכא דופן שבעה וכו'</strong> - אף שהכותל שלישי שהוא עומד נגדו הוא מרוחק ממנו הואיל שעכ\"פ איכא ג' דפנות בסוכה. ומסתברא דדוקא אם הריחוק הוא לא יותר מעשרה אמות דנחשב זה כפתח ועיין לקמן בס\"ה:",
+                      "ref": "Mishnah Berurah 630:18",
+                      "sourceHeRef": "משנה ברורה תרל:יח",
+                      "sourceRef": "Mishnah Berurah 630:18"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יט)</span> וכל שכן שאין צריכים צורת הפתח וכו'</strong> - ר\"ל בדופן רביעי:",
+                      "ref": "Mishnah Berurah 630:19",
+                      "sourceHeRef": "משנה ברורה תרל:יט",
+                      "sourceRef": "Mishnah Berurah 630:19"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "<i>Le-khatḥila</i> it is better to build a <i>sukka</i> with four full walls and a door that can be closed, so the <i>sukka</i> is comfortable and provides shelter from the sun and wind (see Rema 630:5.) Technically, however, since a <i>sukka</i> is a temporary residence, it is not required to have four walls; three suffice. Moreover, the third wall need not be full; technically, one <i>tefaḥ</i> suffices. The Sages said that this <i>tefaḥ</i> must be within 3 <i>tefaḥim</i> of one of the other walls, and the one-<i>tefaḥ</i> wall must extend by means of a doorway (<i>tzurat ha-petaḥ</i>, explained in the note). Since this law is complicated, someone who wants to save on <i>sukka</i> walls should be advised to put up two complete walls, and a third one which is 7 <i>tefaḥim</i> long (about 56 centimeters). Then, even if his <i>sukka</i> is large, and even if the two walls aren’t connected to one another but rather face each other, the <i>sukka</i> is kosher (Rema 630:3).",
+                      "he": "לכתחילה טוב לבנות סוכה מהודרת בעלת ארבע דפנות שלימות, ולעשות לה פתח שאפשר לסוגרו, כדי שהסוכה תהיה נוחה ומוגנת משמש ורוחות <span class=\"parenthesized\">(עיין רמ\"א תרל, ה)</span>. אולם מעיקר הדין, כיוון שהסוכה היא דירת ארעי, אין חובה שיהיו לה ארבע דפנות, אלא מספיק שיהיו לה שלוש דפנות. ואין צורך שהדופן השלישית תהיה שלימה, אלא מעיקר הדין די שרוחבה יהיה טפח, ואמרו חכמים שצריך להניח טפח זה במרחק של פחות משלושה טפחים מהדופן השנייה, וכהמשך לטפח זה צריך לעשות 'צורת פתח' <span class=\"parenthesized\">(כמבואר בהערה)</span>. וכיוון שדין זה מורכב, נכון להדריך את מי שרוצה לחסוך בדפנות הסוכה, שיקים שתי דפנות שלימות, ובשלישית יעשה דופן שרוחבה שבעה טפחים <span class=\"parenthesized\">(כ-56 ס\"מ)</span>. ואז בכל אופן, גם אם סוכתו תהיה גדולה, וגם אם שתי הדפנות לא יהיו מחוברות זו לזו, אלא יעמדו זו כנגד זו, כיוון שבדופן השלישית יש מחיצה שרוחבה שבעה טפחים, הסוכה כשרה <span class=\"parenthesized\">(רמ\"א תרל, ג)</span>.",
+                      "ref": "Peninei Halakhah, Sukkot 2:6:3",
+                      "sourceHeRef": "סוכות ב:ו:ג",
+                      "sourceRef": "Sukkot 2:6:3"
+                    }
+                  ]
+                }
+              },
+              "en": "3. If one has two walls parallel to each other with an opening in between them, one makes a wall that is a bit more than four tefachim wide, places it within three [tefachim] of one of the two walls, and it is valid. Also here one needs to make a form of a doorway, placing a rod from the strip to the other wall. There are those who say that this does not need a form of a doorway. <i>Rem\"a: However, if the [added] wall is seven [tefachim] without counting the empty space, no form of a doorway is needed to the end of the [other] wall, given that seven is the minimum measurement for a [wall of a] sukkah. Obviously no form of a doorway is needed when the wall is full. The practice of making a form of a doorway when the walls are full is just for decorative reasons (R\"an, Maggid ch.4, Kol Bo, Beit Yosef in the name of the Mordechai).</i>",
+              "he": "היו לה שני דפנות זו כנגד זו וביניהם מפולש עושה דופן שיש ברחבו ארבעה טפחי' ומשהו ומעמידו בפחות משלשה סמוך לא' משתי הדפנות וכשרה וגם בזה צריך לעשות צורת פתח שיתן קנה מהפס על הדופן האחר וי\"א שאין זה צריך צורת פתח: <span class=\"hebrew-emphasis\">הגה אבל אם איכא דופן ז' בלא לבוד א\"צ כאן צורת הפתח עד סוף הכותל הואיל ואיכא דופן ז' שהוא שיעור הכשר סוכה וכ\"ש שאין צריכים צורת הפתח כשהדופן שלימה ומה שנהגו בצורת הפתח כשיש לה דפנות שלימות אינו אלא לנוי בעלמא: (ר\"ן והמגיד פ\"ד וכל בו וב\"י בשם מרדכי)</span>:",
+              "ref": "Shulchan Arukh, Orach Chayim 630:3",
+              "sourceHeRef": "אורח חיים תרל:ג - דיני דפנות הסוכה",
+              "sourceRef": "Orach Chayim 630:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' סימון ואיתימא</b> <span class=\"hebrew-emphasis\">[ויש אומרים]</span> <b>ר' יהושע בן לוי אמר:</b> בסוכה העשויה כמבוי מפולש לא די בדופן בת טפח, אלא <b>עושה לו פס</b> רחב <b>ארבעה</b> טפחים <b>ומשהו, ומעמידו בפחות משלשה</b> טפחים <b>סמוך לדופן</b> לסתום אחד מפתחי סוכה זו וכיון ש<b>כל פחות משלשה</b> טפחים <b>סמוך לדופן, כלבוד דמי</b> <span class=\"hebrew-emphasis\">[הוא נחשב],</span> הרי כאן שלוש מחיצות גמורות.",
+              "ref": "Steinsaltz on Sukkah 7a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:ה",
+              "sourceRef": "Steinsaltz on Sukkah 7a:5"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-simon\" class=\"namedEntityLink\" data-slug=\"rabbi-simon\">Rabbi Simon</span></b> said, <b>and some say</b> it was <b><span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span></b> who <b>said:</b> In the case of a <i>sukka</i> built like an alleyway open on two ends, a third wall measuring a single handbreadth is insufficient. Rather, <b>one establishes for</b> the third side <b>a board</b> with a width of <b>four</b> handbreadths <b>and a bit and positions it less than three</b> handbreadths from and <b>adjacent to</b> either <b>wall,</b> as a wall on either of the open ends. <b>And</b> the legal status of <b>any</b> item positioned <b>less than three</b> handbreadths from and <b>adjacent to the wall is like</b> an item <b>joined</b> to that wall. The result is a full-fledged seven-handbreadth <i>sukka</i> wall.",
+      "he": "רַבִּי סִימוֹן, וְאִיתֵּימָא <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי</span> אָמַר: עוֹשֶׂה לוֹ פַּס אַרְבָּעָה וּמַשֶּׁהוּ, וּמַעֲמִידוֹ בְּפָחוֹת מִשְּׁלֹשָׁה סָמוּךְ לַדּוֹפֶן, וְכׇל פָּחוֹת מִשְּׁלֹשָׁה סָמוּךְ לַדּוֹפֶן כְּלָבוּד דָּמֵי.",
+      "ref": "Sukkah 7a:5"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">טֶפַח</strong> m. (Biblical Hebrew; see <span class=\"refLink\" data-ref=\"Jastrow, טָפַח I 1\" href=\"/Jastrow,_טָפַח I.1\"><span dir=\"rtl\">טָפַח</span> I</span>) <i>hand-breadth, breadth of four fingers joined</i>. <span class=\"refLink\" data-ref=\"Sukkah 4b:17\" href=\"/Sukkah.4b.17\">Sukkah 4ᵇ</span>, and from <span dir=\"rtl\">ארון תשעה וכפרת ט׳</span> the Ark was nine handbreadths high, and the lid one. <span class=\"refLink\" data-ref=\"Sukkah 7a:16\" href=\"/Sukkah.7a.16\">Ib. 7ᵃ</span> <span dir=\"rtl\">ט׳ שוחק</span> a liberal hand-breadth (four fingers not closely joined). see <span class=\"refLink\" data-ref=\"Jastrow, אַמָּה 1\" dir=\"rtl\" href=\"/Jastrow,_אַמָּה.1\">אַמָּה</span>.—<span class=\"refLink\" data-ref=\"Yoma 55a:1\" href=\"/Yoma.55a.1\">Yoma 55ᵃ</span> top <span dir=\"rtl\">טִיפְחָהּ של כפורת</span> Arukh and Manuscript Munich 2 and Manuscript Oxford (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 9, ed. <span class=\"refLink\" data-ref=\"Jastrow, עוּבְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_עוּבְיָא.1\">עוביה</span>) the hand-breadth, i.e. the hight, of the lid, see supra.; and see from—plural <span dir=\"rtl\">טְפָחִים</span>, <i>Dual</i> <span dir=\"rtl\">טְפָחַיִים</span>. <span class=\"refLink\" data-ref=\"Taanit 25b:11\" href=\"/Taanit.25b.11\">Taanit 25ᵇ</span>; and see from [<span dir=\"rtl\">טְפָחִין</span>, or <span dir=\"rtl\">טִפְחִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, טְפִיחַ II 1\" href=\"/Jastrow,_טְפִיחַ II.1\"><span dir=\"rtl\">טְפִיחַ</span> II</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, טֶפַח 1",
+              "sourceHeRef": "מילון יסטרוב, טֶפַח א׳",
+              "sourceRef": "Jastrow, טֶפַח 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>Rabba bar Rav Huna said: Now that Rabban Gamliel has said</b> that <b>the tithe</b> year <b>of an <i>etrog</i></b> follows <b>the time of the picking</b> of its fruit, <b>like a vegetable, its new year</b> for tithing <b>is Tishrei,</b> like other vegetables.",
+                  "The Gemara <b>raises an objection</b> from the following <i>baraita</i>: <b>Rabbi Shimon ben Elazar says:</b> If <b>one picked</b> the fruit of <b>an <i>etrog</i></b> tree <b>on the eve of the fifteenth of Shevat before the sun had set, and</b> then <b>he picked more</b> fruit <b>after sunset, one may not set aside <i>teruma</i> and tithes from the one for the other, as one may not set aside <i>teruma</i> and tithes from the new</b> crop <b>for the old or from the old</b> crop <b>for the new.</b> If he did this when it <b>was the third</b> year of the Sabbatical cycle <b>going into the fourth</b> year, the <i>halakha</i> is as follows: From what he picked in <b>the third</b> year he must set aside <b>first tithe and poor man’s tithe,</b> and from what he picked in <b>the fourth year</b> he must set aside <b>first tithe and second tithe.</b>"
+                ],
+                [
+                  "The Gemara clarifies this ruling: <b>Whom did you hear that</b> said the tithe year of an <i>etrog</i> <b>follows</b> the time of the <b>picking</b> of its fruit? It was <b>Rabban Gamliel. And</b> yet this <i>baraita</i> <b>is teaching</b> that the new year for tithing an <i>etrog</i> is the fifteenth of <b>Shevat,</b> against the opinion of Rabba bar Rav Huna, who says that according to Rabban Gamliel it is the first of Tishrei.",
+                  "<b>Rather, if this was said, it was said as follows: Rabba bar Rav Huna said: Even though Rabban Gamliel said</b> that the tithe year of <b>an <i>etrog</i> follows</b> the time of the <b>picking</b> of its fruit, <b>like a vegetable, its new year is</b> in <b>Shevat,</b> like a tree.",
+                  "The Gemara asks: <b>What is different there,</b> in the <i>baraita</i> with regard to one who picked vegetables on the eve of Rosh HaShana, such <b>that it teaches</b> the case when <b>it was the second</b> year of the Sabbatical cycle <b>going into the third</b> year, <b>and what is different here,</b> in the <i>baraita</i> dealing with one who was picking the fruit of an <i>etrog</i> tree on the eve of the fifteenth of Shevat, such <b>that it teaches</b> the case when <b>it was the third</b> year <b>going into the fourth</b> year? Why is the same example not brought in both cases?",
+                  "The Gemara answers: <b>It teaches us a matter in passing, that it is damaging</b> for an <b><i>etrog</i></b> when the tree <b>is handled, and since everyone handles it in the Sabbatical Year,</b> as all the orchards are declared ownerless and everyone is permitted to enter and pick produce, the tree <b>does not bear fruit</b> that is fit for eating <b>for</b> another <b>three years.</b>",
+                  "<b>Rabbi Yoḥanan inquired of Rabbi Yannai:</b> With regard to <b>an <i>etrog</i>, when is its new year?</b> Rabbi Yannai <b>said to him:</b> It is in <b>Shevat.</b> Rabbi Yoḥanan asked again: Are you referring to <b>the lunar month of Shevat or</b> to <b>the Shevat</b> of the solar <b>season,</b> which begins thirty days after the winter solstice, but on a different date each year? Rabbi Yannai <b>said to him:</b> I am referring to <b>the lunar month</b> of Shevat.",
+                  "<b>Rava inquired of Rav Naḥman, and some say</b> that it was <b>Rabbi Yoḥanan</b> who inquired <b>of Rabbi Yannai: If it was a leap year, what is</b> the <i>halakha</i>? Does the new year for trees then move to the First Adar, which is the penultimate month in a leap year? <b>He said to him: Follow the majority of years.</b> Even in a leap year the new year for trees is in Shevat."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Rosh Hashanah 14b:10",
+                "Rosh Hashanah 14b:11",
+                "Rosh Hashanah 15a:1",
+                "Rosh Hashanah 15a:2",
+                "Rosh Hashanah 15a:3",
+                "Rosh Hashanah 15a:4",
+                "Rosh Hashanah 15a:5",
+                "Rosh Hashanah 15a:6"
+              ],
+              "he": [
+                [
+                  "אָמַר רַבָּה בַּר רַב הוּנָא: הַשְׁתָּא דְּאָמַר רַבָּן גַּמְלִיאֵל אֶתְרוֹג אַחַר לְקִיטָתוֹ עִישּׂוּרוֹ כְּיָרָק, רֹאשׁ הַשָּׁנָה שֶׁלּוֹ תִּשְׁרִי.",
+                  "מֵיתִיבִי, רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: לִיקֵּט אֶתְרוֹג עֶרֶב חֲמִשָּׁה עָשָׂר בִּשְׁבָט עַד שֶׁלֹּא תָּבוֹא הַשֶּׁמֶשׁ, וְחָזַר וְלִיקֵּט מִשֶּׁתָּבוֹא הַשֶּׁמֶשׁ — אֵין תּוֹרְמִין וּמְעַשְּׂרִין מִזֶּה עַל זֶה, לְפִי שֶׁאֵין תּוֹרְמִין וּמְעַשְּׂרִין לֹא מִן הֶחָדָשׁ עַל הַיָּשָׁן וְלֹא מִן הַיָּשָׁן עַל הֶחָדָשׁ. הָיְתָה שְׁלִישִׁית נִכְנֶסֶת לִרְבִיעִית — שְׁלִישִׁית מַעֲשֵׂר רִאשׁוֹן וּמַעְשַׂר עָנִי, רְבִיעִית מַעֲשֵׂר רִאשׁוֹן וּמַעֲשֵׂר שֵׁנִי."
+                ],
+                [
+                  "מַאן שָׁמְעַתְּ לֵיהּ דְּאָזֵיל בָּתַר לְקִיטָה — רַבָּן גַּמְלִיאֵל, וְקָתָנֵי שְׁבָט!",
+                  "אֶלָּא, אִי אִתְּמַר הָכִי אִתְּמַר: אָמַר רַבָּה בַּר רַב הוּנָא: אַף עַל גַּב דְּאָמַר רַבָּן גַּמְלִיאֵל אֶתְרוֹג אַחַר לְקִיטָה כְּיָרָק — רֹאשׁ הַשָּׁנָה שֶׁלּוֹ שְׁבָט.",
+                  "מַאי שְׁנָא הָתָם דְּקָתָנֵי ״אִם הָיְתָה שְׁנִיָּה נִכְנֶסֶת לִשְׁלִישִׁית״ וּמַאי שְׁנָא הָכָא דְּקָתָנֵי ״אִם הָיְתָה שְׁלִישִׁית נִכְנֶסֶת לִרְבִיעִית״?",
+                  "מִילְּתָא אַגַּב אוֹרְחֵיהּ קָא מַשְׁמַע לַן, דְּאֶתְרוֹג קַשְׁיָא לֵיהּ יְדָא וְאַיְּידֵי דִּמְמַשְׁמְשִׁי בֵּיהּ כּוּלֵּי עָלְמָא בִּשְׁבִיעִית, לָא טָעֵין פֵּרֵי עַד תְּלָת שְׁנִין.",
+                  "בְּעָא מִינֵּיהּ רַבִּי יוֹחָנָן מֵרַבִּי יַנַּאי: אֶתְרוֹג, רֹאשׁ הַשָּׁנָה שֶׁלּוֹ אֵימָתַי? אֲמַר לֵיהּ: שְׁבָט. שְׁבָט דָּחֳדָשִׁים, אוֹ שְׁבָט דִּתְקוּפָה? אֲמַר לֵיהּ: דָּחֳדָשִׁים.",
+                  "בְּעָא מִינֵּיהּ רָבָא מֵרַב נַחְמָן, וְאָמְרִי לַהּ רַבִּי יוֹחָנָן מֵרַבִּי יַנַּאי: הָיְתָה שָׁנָה מְעוּבֶּרֶת, מַהוּ? אֲמַר לֵיהּ: הַלֵּךְ אַחַר רוֹב שָׁנִים."
+                ]
+              ],
+              "link": "/Rosh Hashanah/15a",
+              "originalRefsBeforeRewriting": [
+                "Rosh Hashanah 15a:3"
+              ],
+              "ref": "Rosh Hashanah 14b:10-15a:6",
+              "sourceHeRef": "ראש השנה ט״ו א",
+              "sourceRef": "Rosh Hashanah 15a"
+            },
+            {
+              "en": [
+                [
+                  "<strong>GEMARA:</strong> <b>The Sages taught:</b> Consider the case where the owner of a field <b>sold it to the first</b> buyer <b>for one hundred</b> dinars <b>and the first</b> buyer then <b>sold it to the second</b> buyer <b>for two hundred</b> dinars. <b>From where</b> is it derived <b>that</b> when the original owner redeems the field, <b>he calculates</b> the payment <b>only</b> according to the price that he set <b>with the first</b> buyer? <b>The verse states:</b> “And he calculates the years of its sale, and he returns the remainder to the man <b>to whom he sold it”</b> (Leviticus 25:27).",
+                  "Now consider the case where the owner of a field <b>sold it to the first</b> buyer <b>for two hundred</b> dinars <b>and the first</b> buyer then <b>sold</b> it <b>to the second</b> buyer <b>for one hundred</b> dinars. <b>From where</b> is it derived <b>that</b> when the original owner redeems the field, the payment <b>is calculated only</b> according to the price that was paid <b>by the second</b> buyer? <b>The verse states:</b> “And he returns the remainder <b>to the man</b> to whom he sold it.” The superfluous term <b>“to the man”</b> indicates that the verse is referring to the man <b>who is</b> currently <b>in</b> possession of the field. This is <b>the statement of Rabbi</b> Yehuda HaNasi.",
+                  "<b>Rabbi Dostai ben Yehuda says</b> that the verse should be interpreted differently: Consider the case where the owner of a field <b>sold it to</b> the buyer <b>for one hundred</b> dinars, <b>and</b> the field <b>appreciated</b> in value while in the buyer’s possession <b>and</b> its value <b>stood at two hundred</b> dinars. <b>From where</b> is it derived <b>that</b> when the seller redeems the field <b>he calculates</b> the payment <b>only</b> according <b>to</b> the <b>one hundred</b> dinars he originally received for the field?<b>As it is stated: “And he returns the remainder</b> to the man to whom he sold it,” that is, the seller returns only <b>the remainder</b> of the original payment <b>that is in his possession.</b>",
+                  "Rabbi Dostai ben Yehuda continues: Consider the case where the owner of a field <b>sold it to</b> the buyer <b>for two hundred</b> dinars, <b>and</b> the field <b>depreciated</b> in value while in the buyer’s possession <b>and</b> its value <b>stood at one hundred</b> dinars. <b>From where</b> is it derived <b>that</b> when the seller redeems the field, the payment <b>is calculated only</b> according <b>to</b> the <b>one hundred</b> dinars the field is currently worth? <b>As it is stated: “And he returns the remainder</b> to the man to whom he sold it,” i.e., he returns <b>that which</b> now <b>remains of the</b> value of the <b>land.</b>",
+                  "The Gemara asks: <b>What is</b> the practical difference <b>between</b> the opinions of Rabbi Yehuda HaNasi and Rabbi Dostai ben Yehuda? The Gemara responds: The practical difference between them is in a case <b>where</b> the field’s value <b>was high</b> at the time of the first sale, e.g., it was worth two hundred dinars, <b>and</b> when the field was sold a second time it had <b>depreciated</b> in value and was worth only one hundred dinars. <b>And</b> when the original owner came to redeem it, it again <b>appreciated</b> in value until it was worth two hundred dinars. According to Rabbi Yehuda HaNasi, the redemption payment is calculated according to the one hundred dinars paid by the second buyer for the field. According to Rabbi Dostai ben Yehuda, it is calculated either according to the remainder of the original payment or according to that which now remains of the value of the land. Either way, it is calculated according to the remainder of two hundred dinars.",
+                  "The aforementioned practical difference aside, Rabbi Yehuda HaNasi and Rabbi Dostai ben Yehuda agree that the verses are interpreted in a manner that benefits the original owner. The Gemara asks: <b>And from where</b> is it derived <b>that</b> the verses should be interpreted <b>as a leniency</b> for the seller? <b>Perhaps</b> they should be interpreted <b>as a stringency</b> for the seller.",
+                  "The Gemara responds: Such a possibility should <b>not enter your mind, as it is learned</b> by means of a verbal analogy between the term <b>“redemption”</b> written in this context and <b>“redemption” from</b> the passage discussing <b>a Hebrew slave</b> that the Torah is lenient with regard to the redeemer. The verse states with regard to the redemption of a field: “And he prospers and finds sufficient means to redeem it” (Leviticus 25:26), and with regard to the redemption of a slave who was sold to a gentile, the verse states: “After he is sold he shall attain redemption” (Leviticus 25:48). Accordingly, just as the Torah is lenient with regard to the redemption of a Hebrew slave, so too the Torah is lenient with regard to redeeming a field.",
+                  "The Gemara asks: <b>And there,</b> in the case of a Hebrew slave, <b>from where do we</b> derive that the Torah is lenient with regard to his redemption? The Gemara responds: <b>As it is taught</b> in a <i>baraita</i>: Consider the case of a Hebrew slave who <b>was sold for one hundred</b> dinars, <b>and he appreciated</b> in value during his term of servitude <b>and</b> his value <b>stood at two hundred</b> dinars. <b>From where</b> is it derived <b>that</b> if he redeems himself, the sum he pays for the remaining years of his service <b>is calculated only</b> according <b>to</b> the <b>one hundred</b> dinars for which he was originally sold? <b>As it is stated:</b> “If there are yet many years, according to them he shall return the price of his redemption <b>from the money of his purchase”</b> (Leviticus 25:51).",
+                  "The <i>baraita</i> continues: Consider the case of a Hebrew slave who <b>was sold for two hundred</b> dinars, <b>and he depreciated</b> in value during his term <b>and</b> his value <b>stood at one hundred</b> dinars. <b>From where</b> is it derived <b>that</b> if he redeems himself, the sum he pays for the remaining years of his service <b>is calculated only</b> according <b>to</b> the <b>one hundred</b> dinars he is currently worth? <b>As it is stated: “According to his years</b> he shall return the price of his redemption” (Leviticus 25:52). The verse indicates that the sum is calculated according to the value of his remaining years of service.",
+                  "The <i>baraita</i> continues: <b>And I have</b> derived <b>only</b> with regard to <b>a Hebrew slave who was sold to a gentile, that he is redeemed and</b> that <b>he has the advantage,</b> as the price of his redemption is always calculated according to the lesser value. <b>From where</b> is it derived that this <i>halakha</i> also applies in the case of a Hebrew slave who was <b>sold to a Jew? The verse states: “Hired worker,” “hired worker,”</b> in order <b>to</b> derive <b>a verbal analogy,</b> indicating that this <i>halakha</i> applies both to a slave sold to a gentile and to one sold to a Jew. The verse states with regard to a slave sold to a gentile: “According to the time of a hired worker shall he be with him” (Leviticus 25:50), and with regard to a slave sold to a Jew, the verse states: “For double the hire of a hired worker he served you six years” (Deuteronomy 15:18).",
+                  "The Gemara relates that <b>Abaye said:</b>"
+                ],
+                [
+                  "<b>I am</b> ready to answer any questions put to me <b>like</b> those of the intellectually sharp <b>ben Azzai,</b> who would regularly expound <b>in the markets of Tiberias. One of the Sages said to Abaye:</b> The verses discussing the redemption of a Hebrew slave <b>can be interpreted as a leniency</b> for the slave, <b>and they can</b> also <b>be interpreted as a stringency</b> for him. <b>From where</b> is it derived <b>that</b> the verses should be interpreted <b>as a leniency</b> for the slave? <b>Say</b> that they should be interpreted <b>as a stringency</b> for him.",
+                  "Abaye explained: Such a possibility should <b>not enter your mind, due to</b> the fact <b>that the Merciful One was</b> explicitly <b>lenient with regard to</b> a slave. <b>As it is taught</b> in a <i>baraita</i>: The verse states with regard to a Hebrew slave: “And it shall be, if he says to you I will not leave <b>you…because he fares well with you”</b> (Deuteronomy 15:16). The term “with you” indicates that the slave must be <b>with you,</b> i.e., treated as your equal, <b>with regard to food,</b> and <b>with you with regard to drink.</b> This means <b>that you should not be eating fine bread</b> while <b>he eats inferior bread [<i>kibbar</i>],</b> bread from coarse flour mixed with bran. Likewise, <b>you</b> should not <b>drink old wine</b> while <b>he drinks</b> inferior <b>new wine. You</b> should not <b>sleep on</b> bedding made from <b>soft sheets</b> while <b>he sleeps on the ground. From here</b> the Sages <b>stated: One who acquires a Hebrew slave</b> is considered <b>like one who acquires a master for himself,</b> as he must ensure that the slave’s living conditions are equal to his own.",
+                  "That Sage raised an objection to Abaye: <b>On the contrary, let us impose a stringency upon</b> the slave, <b>due to</b> the statement <b>of Rabbi Yosei, son of Rabbi Ḥanina. As Rabbi Yosei, son of Rabbi Ḥanina, says</b> in explanation of the juxtaposition of several passages in the Torah (Leviticus, chapter 25): <b>Come and see how severe</b> is even <b>the hint of</b> violation of the prohibition of <b>the Sabbatical</b> Year, as the prohibition against engaging in commerce with produce of the Sabbatical Year is not one of the primary prohibitions of the Sabbatical Year, and yet its punishment is harsh.",
+                  "Rabbi Yosei, son of Rabbi Ḥanina, continues: If <b>a person has commercial dealings with produce</b> of the <b>Sabbatical</b> Year or of the Jubilee Year, <b>ultimately</b> he will become so poor that <b>he will</b> be compelled to <b>sell his movable property, as it is stated: “In this Jubilee Year you shall return every man to his possession”</b> (Leviticus 25:13), <b>and it is written</b> in the subsequent verse: <b>“And if you sell something to your neighbor or buy from your neighbor’s hand,”</b> which is referring to <b>an item acquired</b> by passing it <b>from hand to hand.</b> The juxtaposition of the two verses indicates that if one violates the <i>halakhot</i> of the Jubilee Year or the Sabbatical Year, he will eventually have to sell his movable property.",
+                  "If <b>he does not feel</b> remorse and he does not repent, <b>ultimately he will</b> be compelled to <b>sell his fields, as it is stated</b> in an adjacent verse: <b>“If your brother becomes poor and sells part of his ancestral land”</b> (Leviticus 25:25).",
+                  "If consciousness of his sins <b>does not come to him, ultimately he will</b> be compelled to <b>sell his house, as it is stated: “And if a man sells a dwelling house in a walled city”</b> (Leviticus 25:29). The Gemara asks: <b>What is different there,</b> in the previous clause, <b>where</b> the <i>tanna</i> <b>says</b> that the sinner <b>does not sense</b> remorse, <b>and what is different here, where he says</b> that consciousness of his sins <b>does not come to him?</b> The Gemara responds: This is <b>in accordance with</b> the statement <b>of Rav Huna, as Rav Huna says: Once a person commits a transgression and repeats it, it is permitted to him.</b>",
+                  "The Gemara asks: Can it <b>enter your mind</b> to say that <b>it is</b> actually <b>permitted to him</b> because he has transgressed twice? <b>Rather, say</b> that <b>it becomes as</b> though it were <b>permitted to him,</b> that is, after transgressing the prohibition twice he becomes accustomed to this behavior and no longer feels that it is a sin. If one transgresses the prohibition only once, he is apt to feel remorse. Once he repeats his transgression, he loses this sensibility concerning his sins and will no longer feel any remorse.",
+                  "Rabbi Yosei, son of Rabbi Ḥanina, continues: If consciousness of his sins <b>does not come to him, ultimately he</b> will be compelled to <b>borrow with interest, as it is stated: “And if your brother becomes poor</b> and his means fail with you, then you shall uphold him” (Leviticus 25:35), <b>and it is written</b> in the subsequent verse: <b>“You shall take no interest or increase from him.”</b>",
+                  "One <b>does not come to</b> borrow with interest <b>until he</b> has already been compelled to <b>sell his daughter, as it is stated: “And when a man sells his daughter as a maidservant”</b> (Exodus 21:7). The Gemara explains: <b>And even though his daughter is not</b> mentioned <b>in that context</b> in Leviticus, nevertheless, <b>a person prefers to sell his daughter and not to borrow</b> money <b>with interest.</b> This is <b>because there,</b> when one sells his daughter, the sum required in order to redeem her <b>continuously decreases, while here,</b> where one borrows with interest, his debt <b>continuously increases.</b> One may therefore assume that if one borrows with interest, he has already sold his daughter.",
+                  "If consciousness of his sins <b>does not come to him, ultimately he will</b> be compelled <b>to sell himself, as it is stated: “And when your brother becomes poor with you and sells himself to you”</b> (Leviticus 25:39). <b>Not</b> only will he be sold <b>to you,</b> a born Jew; <b>rather,</b> he will even be sold <b>to a stranger, as it is stated:</b> “And sells himself <b>to the stranger”</b> (Leviticus 25:47). <b>And not</b> only <b>to</b> a stranger who is <b>a convert, but</b> even <b>to a gentile who resides in Eretz Yisrael and observes the seven Noahide mitzvot [<i>ger toshav</i>], as it is stated:</b> “And sells himself <b>to a <i>ger toshav</i></b> with you” (Leviticus 25:47).",
+                  "When the verse further states: “Or to the offshoot of <b>a stranger’s family,” this is</b> referring to <b>the gentile</b> relatives of a <i>ger toshav</i>, who are idolaters. <b>When it says: “Or to the offshoot [<i>le’eker</i>] of a stranger’s family,” this is</b> referring to <b>one who is sold and becomes a servant to idol worship itself,</b> i.e., he is put to work in a temple dedicated to idolatry. In any event, the <i>baraita</i> teaches that it is only due to an individual’s sins that he reaches such a low point that he must sell himself as a slave. If so, the verses dealing with a Hebrew slave should be interpreted in a stringent manner, so that the slave cannot easily be redeemed.",
+                  "Abaye <b>said to</b> that Sage: <b>But the verse</b> subsequently <b>restores him,</b> i.e., it requires that one strive to redeem him from slavery. As the <i>tanna</i> of <b>the school of Rabbi Yishmael taught: Since he went and sold himself to</b> a temple dedicated to <b>idol worship, should I throw a stone after the fallen?</b> In other words, perhaps he should be left to his own devices? <b>The verse states: He shall have a perpetual right of redemption, and he shall leave in the Jubilee</b> (see Leviticus 25:31, 48). The Gemara objects: Even so, you can <b>say</b> that <b>he shall have a redemption</b> so <b>that he will not be assimilated among the gentiles, but actually, with regard to his redemption we will be stringent,</b> as it is due only to his sins that he is enslaved.",
+                  "<b>Rav Naḥman bar Yitzḥak said:</b> Two verses are written with regard to redeeming someone who was sold to a gentile. <b>It is written: “If there are yet many in the years,</b> according to them he shall return the price of his redemption from the money that he was bought for” (Leviticus 25:51). <b>And it is written</b> in the next verse: “And <b>if there remain but few in the years</b> until the Jubilee Year, then he shall reckon with him; according to his years he shall return the price of his redemption.”",
+                  "Now, <b>are there years with much</b> time <b>and years with little</b> time? Every year is the same length. <b>Rather,</b> this means that if <b>his monetary</b> value <b>appreciated</b> during the years of his service, he is redeemed according to <b>“the money that he was bought for,”</b> which is the lower sum. And if <b>his monetary</b> value <b>depreciated</b> over time, one determines his value <b>“according to his years,”</b> i.e., according to his current value rather than according to his previous worth. The verse indicates that one acts leniently when calculating the redemption payment of a Hebrew slave.",
+                  "The Gemara asks: <b>But say</b> that the verses should be interpreted as follows: “If there are yet many in the years,” is referring to a case <b>where he served</b> for <b>two</b> years, <b>and four</b> years of servitude <b>remain.</b> In this situation <b>let him return to</b> his master the value of <b>four</b> years of his servitude according to <b>“the money that he was bought for.” And</b> the phrase “if there remain but few in the years” is referring to a case <b>where he served</b> for <b>four</b> years <b>and two</b> years of servitude <b>remain.</b> In this situation <b>let him return to</b> his master the value of <b>two</b> years of his servitude <b>“according to his years.”</b>",
+                  "The Gemara rejects this suggestion: <b>If so, let</b> the verse <b>write: If there are yet many years. What</b> is the meaning of the phrase <b>“in the years”?</b> Rather, this indicates that if <b>his monetary</b> value <b>appreciated in the years</b> of his service, he is redeemed according to <b>“the money that he was bought for,”</b> which is the lower sum. If <b>his monetary</b> value <b>depreciated in the years,</b> one determines his value <b>“according to his years,”</b> i.e., according to his current value. Upon hearing this explanation, <b>Rav Yosef said: Rav Naḥman</b> bar Yitzḥak <b>interpreted these verses as</b> truly as if the interpretation had been transmitted to Moses from <b>Sinai.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Arakhin 30a:10",
+                "Arakhin 30a:11",
+                "Arakhin 30a:12",
+                "Arakhin 30a:13",
+                "Arakhin 30a:14",
+                "Arakhin 30a:15",
+                "Arakhin 30a:16",
+                "Arakhin 30a:17",
+                "Arakhin 30a:18",
+                "Arakhin 30a:19",
+                "Arakhin 30a:20",
+                "Arakhin 30b:1",
+                "Arakhin 30b:2",
+                "Arakhin 30b:3",
+                "Arakhin 30b:4",
+                "Arakhin 30b:5",
+                "Arakhin 30b:6",
+                "Arakhin 30b:7",
+                "Arakhin 30b:8",
+                "Arakhin 30b:9",
+                "Arakhin 30b:10",
+                "Arakhin 30b:11",
+                "Arakhin 30b:12",
+                "Arakhin 30b:13",
+                "Arakhin 30b:14",
+                "Arakhin 30b:15",
+                "Arakhin 30b:16"
+              ],
+              "he": [
+                [
+                  "<big><strong>גמ׳</strong></big> תנו רבנן מכרה לראשון במנה ומכרה ראשון לשני במאתים מנין שאינו מחשב אלא עם הראשון ת\"ל [לאיש] אשר מכר לו",
+                  "מכרה לראשון במאתים ומכר הראשון לשני במנה מנין שאין מחשבין אלא עם השני ת\"ל לאיש [לאיש] אשר בתוכו דברי רבי",
+                  "רבי דוסתאי בן יהודה אומר מכרה לו במנה והשביחה ועמדה על מאתים מנין שאינו מחשב אלא במנה שנאמר והשיב את העודף העודף שבידו",
+                  "מכרה לו במאתים והכסיפה ועמדה על מנה מנין שאין מחשבין אלא במנה שנאמר והשיב את העודף העודף שבקרקע",
+                  "מאי בינייהו דאייקר וזל ואייקר",
+                  "וממאי דלקולא דלמא לחומרא",
+                  "לא ס\"ד דגמר {ויקרא כה } גאולה {ויקרא כה } גאולה מעבד עברי",
+                  "והתם מנלן דתניא נמכר במנה והשביח ועמד על מאתים מנין שאין מחשבין אלא ממנה שנאמר <span class=\"parenthesized\">(ויקרא כה, נא)</span> מכסף מקנתו",
+                  "נמכר במאתים והכסיף ועמד על מנה מנין שאין מחשבין אלא ממנה שנאמר <span class=\"parenthesized\">(ויקרא כה, נב)</span> כפי שניו",
+                  "ואין לי אלא עבד עברי הנמכר לעובד כוכבים שנגאל וידו על העליונה נמכר לישראל מנין ת\"ל {ויקרא כה } שכיר {דברים טו } שכיר לגזירה שוה",
+                  "אמר אביי"
+                ],
+                [
+                  "הריני כבן עזאי בשוקי טבריא אמר ליה ההוא מרבנן לאביי איכא למידרשינהו לקולא ואיכא למידרשינהו לחומרא ממאי דלקולא אימא לחומרא",
+                  "לא סלקא דעתיך מדאקיל רחמנא גביה דתניא <span class=\"parenthesized\">(דברים טו, טז)</span> כי טוב לו עמך עמך במאכל עמך במשתה שלא תהא אוכל פת נקיה והוא אוכל פת קיבר אתה שותה יין ישן והוא שותה יין חדש אתה ישן על גבי מוכין והוא ישן על גבי קרקע מיכן אמרו הקונה עבד עברי כקונה אדון לעצמו",
+                  "אדרבה נחמיר עליה מדרבי יוסי ברבי חנינא דאמר רבי יוסי בר' חנינא בא וראה כמה קשה אבקה של שביעית",
+                  "אדם נושא ונותן בפירות שביעית לסוף מוכר את מטלטליו שנאמר בשנת היובל הזאת תשובו איש אל אחוזתו וכתיב <span class=\"parenthesized\">(ויקרא כה, יד)</span> וכי תמכרו ממכר לעמיתך או קנה מיד עמיתך דבר הנקנה מיד ליד",
+                  "לא הרגיש לסוף מוכר את שדותיו שנאמר <span class=\"parenthesized\">(ויקרא כה, כה)</span> וכי ימוך אחיך ומכר מאחוזתו",
+                  "לא באת לידו לסוף מוכר את ביתו שנאמר <span class=\"parenthesized\">(ויקרא כה, כט)</span> ואיש כי ימכור בית מושב עיר חומה מאי שנא התם דקאמר לא הרגיש ומאי שנא הכא דקאמר לא באת לידו כדרב הונא דאמר רב הונא כיון שעבר אדם עבירה ושנה בה הותרה לו",
+                  "הותרה לו ס\"ד אלא אימא נעשית לו כהיתר",
+                  "<span class=\"parenthesized\">(לא באת לידו לסוף שלוה ברבית שנאמר <span class=\"parenthesized\">(ויקרא כה, כה)</span> וכי ימוך אחיך וגו' וכתיב אל תקח מאתו נשך ותרבית)</span>",
+                  "לא באת לידו עד שמוכר את בתו שנאמר <span class=\"parenthesized\">(שמות כא, ז)</span> וכי ימכור איש [את] בתו לאמה ואע\"ג דבתו בהאי ענינא ליתא ניחא לאיניש דליזבין ברתיה ולא ליזיף בריביתא דאילו התם מיגרעא ואזלא ואילו הכא קא מוספא ואזלא",
+                  "לא באת לידו לסוף שמוכר את עצמו שנאמר <span class=\"parenthesized\">(ויקרא כה, לט)</span> כי ימוך אחיך עמך ונמכר לך לא לך אלא לגר שנאמר לגר ולא לגר צדק אלא לגר תושב שנאמר לגר תושב",
+                  "משפחת גר זה העובד כוכבים כשהוא אומר או לעקר <span class=\"parenthesized\">(משפחת גר)</span> זה הנמכר ונעשה משרת לעבודת כוכבים עצמה",
+                  "א\"ל הא אהדריה קרא ותנא דבי רבי ישמעאל הואיל והלך ומכר עצמו לעבודת כוכבים אידחה אבן אחר הנופל ת\"ל <span class=\"parenthesized\">(<span class=\"parenthesized\">(ויקרא כה, לב)</span> גאולת עולם תהיה לו וביובל יצא)</span> אימא גאולה תהיה לו דלא ליטמע בעובדי כוכבים ולעולם לענין פדיונו נחמיר",
+                  "אמר רב נחמן בר יצחק כתיב <span class=\"parenthesized\">(ויקרא כה, נא)</span> אם עוד רבות בשנים וכתיב <span class=\"parenthesized\">(ויקרא כה, נב)</span> אם מעט נשאר בשנים",
+                  "וכי יש שנים מרובות ויש שנים מועטות אלא נתרבה כספו מכסף מקנתו נתמעט כספו כפי שניו",
+                  "ואימא היכא דעבד תרתי ופיישי ארבעי ליתב ליה ארבע מכסף מקנתו והיכא דעבד ארבע ופיישי תרתי ליתב ליה תרתי כפי שניו",
+                  "א\"כ נכתוב אם עוד רבות שנים מאי בשנים נתרבה כספו בשנים מכסף מקנתו נתמעט כספו בשנים כפי שניו אמר רב יוסף דרשינהו רב נחמן להני קראי כסיני:"
+                ]
+              ],
+              "link": "/Arakhin/30b",
+              "originalRefsBeforeRewriting": [
+                "Arakhin 30b:6"
+              ],
+              "ref": "Arakhin 30a:10-30b:16",
+              "sourceHeRef": "ערכין ל׳ ב",
+              "sourceRef": "Arakhin 30b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שתי דפנות</strong> - שלמות כהלכתן כמין גאם דאין נראות מפולשות כי האי:",
+              "ref": "Rashi on Sukkah 7a:6:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ו:א",
+              "sourceRef": "Rashi on Sukkah 7a:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ומאי שנא התם</b> <span class=\"hebrew-emphasis\">[ומה שונה שם]</span> כשיש שתי מחיצות צמודות <b>דקאמרת סגיא</b> <span class=\"hebrew-emphasis\">[שאומר אתה כי די</span> לו<span class=\"hebrew-emphasis\">]</span> ב<b>טפח שוחק</b> כדי להכשירו כדופן שלישית, <b>ומאי שנא הכא דקאמרת בעיא</b> <span class=\"hebrew-emphasis\">[ומה שונה כאן שאתה אומר</span> ש<span class=\"hebrew-emphasis\">צריך]</span> <b>פס ארבעה?</b> ומשיבים: יש הבדל; <b>התם דאיכא</b> <span class=\"hebrew-emphasis\">[שם שיש]</span> <b>שתי דפנות כהלכתן</b> והן צמודות זו לזו ויוצרות כעין מבנה — <b>סגי ליה</b> <span class=\"hebrew-emphasis\">[די לו]</span> <b>בטפח שוחק</b> כדי להשלים לדופן שלישית ובכך להכשיר את הסוכה, אבל <b>הכא דליכא</b> <span class=\"hebrew-emphasis\">[כאן שאין],</span> <b>שתי דפנות</b> כהלכתן, כיון שאין הדפנות צמודות זו לזו ואין קשר ביניהן, <b>אי איכא</b> <span class=\"hebrew-emphasis\">[אם יש]</span> <b>פס ארבעה</b> כדי להתיר — <b>אין</b> <span class=\"hebrew-emphasis\">[כן],</span> ו<b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> <b>לא — לא.</b>",
+              "ref": "Steinsaltz on Sukkah 7a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:ו",
+              "sourceRef": "Steinsaltz on Sukkah 7a:6"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>What is different there,</b> in the case of two attached walls, <b>where you say</b> that a wall with the dimension of <b>an expansive handbreadth suffices</b> to complete the third wall, <b>and what is different here where you say</b> that <b>it requires a board</b> that measures <b>four</b> handbreadths and a bit? The Gemara answers: <b>There, where there are two walls in the standard sense,</b> as they are attached forming a type of structure, <b>it is sufficient to have</b> the third wall measure <b>an expansive handbreadth</b> in order to render the <i>sukka</i> fit; however, <b>here, where there are not two walls</b> in the standard sense, as they are not attached, <b>if there is a board</b> that measures <b>four</b> handbreadths as the third wall, <b>yes,</b> it is fit, and <b>if not, no,</b> it is unfit.",
+      "he": "וּמַאי שְׁנָא הָתָם דְּקָאָמְרַתְּ סַגִּיא טֶפַח שׂוֹחֵק, וּמַאי שְׁנָא הָכָא דְּקָאָמְרַתְּ בָּעֲיָא פַּס אַרְבָּעָה? הָתָם דְּאִיכָּא שְׁתֵּי דְפָנוֹת כְּהִלְכָתָן — סַגִּי לֵיהּ בְּטֶפַח שׂוֹחֵק, הָכָא דְּלֵיכָּא שְׁתֵּי דְפָנוֹת, אִי אִיכָּא פַּס אַרְבָּעָה — אֵין, אִי לָא — לָא.",
+      "ref": "Sukkah 7a:6"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבא ואינה נתרת אלא בצורת הפתח</strong> - בעירובין <span class=\"parenthesized\">(דף יא:)</span> אמר היכי דמי צורת הפתח קנה מכאן וקנה מכאן וקנה על גביהן והכא קאמר רבא דטפח ששנינו בברייתא שמתיר בדופן שלישית אינו מתיר אלא אם כן עשאו לאותו טפח צורת הפתח על פני כל הדופן כולו <span class=\"image-ref-container\"><span class=\"image-ref-text\">(*):</span><span class=\"image-ref\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAABvCAYAAADv2+4nAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH1SURBVHhe7dHBCcQwAMTA9N907m9irI9PNmhgG1g9b45XpAsU6QKfkZ7naX/cSpEO2EqRDthKkQ7YCooUV5EuUKQLFOkCRdpk/JBspkibjB+SzRRpk/FDspkibTJ+SDZTJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUgi+nORRPTnIonoz0US0Z+LJKI/F0lEfy6SiP5cJBH9uUibjB+SzRRpk/FDspkibTJ+SDZTgU2+Iqw2U6QLFOkCRTre+/4AHHYaEstQglQAAAAASUVORK5CYII=\"></span></span><span class=\"image-pointer\">(*)</span> כיצד קנה של חצי טפח אצל היוצא וקנה של חצי טפח במקצוע שכנגדו וקנה על גביהם מזה לזה הוה ליה כאילו כל הדופן סתום דפתח שיש לו צורת פתח סתימה מעלייתא היא בפרק קמא דעירובין <span class=\"parenthesized\">(דף ב:)</span> וזהו טפח שאמרו חכמים:",
+              "ref": "Rashi on Sukkah 7a:7:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ז:א",
+              "sourceRef": "Rashi on Sukkah 7a:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא: ואינה נתרת</b> אותה סוכה העשויה כמבוי בדופן שלישית בת טפח <b>אלא בצורת הפתח,</b> כלומר: שיחלק את אותו דופן בת טפח לשתים ויצמיד את אחד מחלקיה לצידו האחד של אחד הצדדים הפתוחים ואת חלקו האחר בצידו השני של צד זה ויניח קנה על גביהם ובכך תיעשה צורת הפתח שהיא כעין שער פתוח, ונחשבת בהלכה כעין מחיצה.",
+              "ref": "Steinsaltz on Sukkah 7a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:ז",
+              "sourceRef": "Steinsaltz on Sukkah 7a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This mechanism appears in different areas of <i>halakha</i> where partitions are required. In essence, a doorway is formed by placing two poles of any width upright and placing a third pole across the top. This type of doorway is deemed a fit partition for halakhic<i> </i>purposes even in cases where other mechanisms for creating halakhic partitions are ineffective.",
+              "he": "צורת הפתח מצויה בכמה הלכות שיש בהן חשיבות למחיצה. ועיקרה — שיוצרים תבנית על ידי שני קנים (כלומר: מוטות בעובי כלשהו) ומניחים על גביהם קנה נוסף ונוצר על ידי כך כעין פתח. וצורת הפתח חשובה בהלכה כמחיצה חשובה, שתיקון זה מועיל גם כאשר תיקונים שונים אחרים אינם נחשבים.",
+              "ref": "Steinsaltz comment #1 on Sukkah 7a:7",
+              "sourceHeRef": "צוּרַת הַפֶּתַח",
+              "sourceRef": "The form of a doorway"
+            },
+            {
+              "en": "",
+              "he": "רש\"י מצרף את השיטות גם לענין טפח. וגם לענין צורת הפתח, ולשיטתו מחלק אותו טפח לשנים ועושה על גביו צורת הפתח. אבל רוב המפרשים דחו שיטה זו מכל וכל מטעמים שונים.",
+              "ref": "Steinsaltz comment #2 on Sukkah 7a:7",
+              "sourceHeRef": "ואינה ניתרת אלא בצורת הפתח",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואינה ניתרת אלא בצורת פתח</strong> - פירוש אלא אם כן עשאו לאותו טפח צורת הפתח על פני כל הדופן כולו כיצד קנה של חצי טפח אצל היוצא וקנה חצי טפח במקצוע שכנגדו וקנה על גביהם דהוה ליה כאילו כל הדופן סתום דאע\"ג דבפ' קמא דעירובין <span class=\"parenthesized\">(ד' יא:)</span> לא יהבינן שיעורא לקנה של צורת פתח אלא אפילו קנה משהו מכאן וקנה משהו מכאן וקנה על גביהם אלא שתהא בריאה כדי לעמוד בה דלת ואפילו דלת של קשין גבי סוכה החמירו דבעינן מחיצות הניכרות:",
+              "ref": "Tosafot on Sukkah 7a:7:1",
+              "sourceHeRef": "תוספות על סוכה ז׳ א:ז:א",
+              "sourceRef": "Tosafot on Sukkah 7a:7:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: And</b> the <i>sukka</i> consisting of two adjacent walls with a third wall measuring one handbreadth <b>is permitted</b> and fit <b>only</b> if the third wall is <b>in</b> the <b>form of a doorway.</b> One can render the sukka fit only by splitting the one-handbreadth wall and attaching one half to the standing wall and one half across from the other wall that emerges from the standing wall, and then placing a pole across the two halves. By creating the form of a doorway, that third wall becomes like an open gate, which is considered a halakhic partition.",
+      "he": "אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: וְאֵינָהּ נִתֶּרֶת אֶלָּא בְּצוּרַת הַפֶּתַח.",
+      "ref": "Sukkah 7a:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ונתרת נמי בצורת הפתח</strong> - משמע דטפח ששנינו היינו כדפריש רבי סימון לעיל עושה סתימה טפח אצל היוצא ואתא רבא למימר דאם עשה צורת הפתח על פני כל הדופן בשני קנים כל שהוא וקנה על גביהם קאי ליה במקום טפח ומכשר ליה כוותיה דאו האי או האי מכשר:",
+              "ref": "Rashi on Sukkah 7a:8:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ח:א",
+              "sourceRef": "Rashi on Sukkah 7a:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>איכא דאמרי</b> <span class=\"hebrew-emphasis\">[יש אומרים]</span> בנוסח שונה במקצת, ש<b>אמר רבא: ונתרת</b> סוכה זו העשויה כמבוי <b>נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>בצורת הפתח,</b> שלא דחה את הפתרון של ר' יהושע בן לוי, אלא אמר שאפשר להכשירה גם בצורת הפתח.",
+              "ref": "Steinsaltz on Sukkah 7a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:ח",
+              "sourceRef": "Steinsaltz on Sukkah 7a:8"
+            }
+          ]
+        }
+      },
+      "en": "<b>Some say</b> that <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: And</b> a <i>sukka</i> consisting of two adjacent walls <b>is also permitted</b> and fit if the third wall is <b>in</b> the <b>form of a doorway.</b> In other words, <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> does not reject the remedy of the expansive-handbreadth wall suggested by <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span>; rather, he suggests an alternative.",
+      "he": "אִיכָּא דְּאָמְרִי, אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: וְנִתֶּרֶת נָמֵי בְּצוּרַת הַפֶּתַח.",
+      "ref": "Sukkah 7a:8"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A sukkah which does not possess three walls is invalid. However, if it has two complete walls perpendicular to each other in the shape of [the Greek letter] <i>gamma</i>, it is sufficient to construct a third wall that is [only] slightly more than a handbreadth wide and place it within three handbreadths of one of the two walls. Also, one must construct the likeness of an entrance, since it does not possess three complete walls.<br>We have already explained in <i>Hilchot Shabbat</i> that wherever the term \"a likeness of an entrance\" is used, it may be a rod on one side, another rod on the opposite side, and a third above, even though it does not touch them.",
+              "he": "סֻכָּה שֶׁאֵין לָהּ שָׁלֹשׁ דְּפָנוֹת פְּסוּלָה. הָיוּ לָהּ שְׁתֵּי דְּפָנוֹת גְּמוּרוֹת זוֹ בְּצַד זוֹ כְּמִין גַּ\"ם עוֹשֶׂה דֹּפֶן שֶׁיֵּשׁ בְּרָחְבּוֹ יֶתֶר עַל טֶפַח וּמַעֲמִידוֹ בְּפָחוֹת מִשְּׁלֹשָׁה סָמוּךְ לְאֶחָד מִשְּׁתֵּי הַדְּפָנוֹת וְדַיּוֹ. וְצָרִיךְ לַעֲשׂוֹת לָהּ צוּרַת פֶּתַח מִפְּנֵי שֶׁאֵין לָהּ שָׁלֹשׁ דָּפְנוֹת גְּמוּרוֹת. וּכְבָר בֵּאַרְנוּ בְּהִלְכוֹת שַׁבָּת שֶׁצּוּרַת פֶּתַח הָאָמוּר בְּכָל מָקוֹם אֲפִלּוּ קָנֶה מִכָּאן וְקָנֶה מִכָּאן וְקָנֶה עַל גַּבֵּיהֶן אַף עַל פִּי שֶׁאֵינוֹ מַגִּיעַ לָהֶן:",
+              "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 4:2",
+              "sourceHeRef": "הלכות שופר וסוכה ולולב ד:ב",
+              "sourceRef": "Shofar, Sukkah and Lulav 4:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וצריכא נמי צורת הפתח</strong> - משמע דתרוייהו בעינן טפח אצל היוצא וקנה בזוית שכנגדו וקנה שעל גביהם קאי מטפח זה לקנה של זוית:",
+              "ref": "Rashi on Sukkah 7a:9:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:ט:א",
+              "sourceRef": "Rashi on Sukkah 7a:9:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אתמר סיכך ע\"ג אכסדרה שיש לה פצימין פי' הניח הסכך על האכסדרה והסכך מהלך על פני כל החצר לפרש\"י גג האכסדרה רחב ד' אמות דליכא למימר דופן עקומה ולפר\"י אין הסכך מהלך על פני כל החצר אלא יש לסוכה שתי דפנות ובשלישית סיכך על גבי אכסדרה ודבריו כתבתי במסכת עירובין. אם יש לאכסדרה פצימין והן עומדין כמין חלונות וביניהם פחות משלשה טפחים ד\"ה כשרה דאמרינן לבוד אין לה פצימין אביי אמר כשרה דאמרינן פי תקרה יורד וסותם ורבא אמר פסולה לא אמרינן פי תקרה יורד וסותם משום דפי תקרה זה נעשה להיות מחיצה לחלל שבפנים ולא לאויר שחוצה להם אבל אם יש להם פצימין אע\"ג דלגואי עבידין אמרינן לבוד דפחות מג' כסתום דמי ומחיצה מעלייתא היא: רב אשי אשכחיה לרב כהנא דקא מסכך על גבי אכסדרה שאין לה פצימין א\"ל לא סבר לה מר להא דרבא דאמר יש לה פצימין כשרה אין לה פצימין פסולה אחוי ליה נראה מבחוץ ושוה מבפנים כזה ואתמר נראה מבחוץ ושוה מבפנים נידון משום לחי וקשה מה ענין מבוי לסוכה במבוי איכא ג' מחיצות ולא בעינן לחי אלא להיכרא בעלמא הלכך סגי בנראה מבחוץ ושוה מבפנים דבהיכרא כל דהו סגי אבל בסוכה דופן שלישי צריך להיות ליושבי בסוכה כמו שתי הדפנות וכי תימא דאמרינן מיגו דמהני לשבת מהני נמי לסוכה לאו מילתא היא דלא אמרינן מיגו מדרבנן לדאורייתא. ועוד וכי לא עשה סוכה זו אלא לשבת של ימי הסוכה וי\"ל דמיירי כשעשה צורת הפתח לדופן השלישית ורב כהנא דהכא לטעמיה דאמר לעיל <span class=\"parenthesized\">(סוכה דף ז.)</span> וצריכא נמי צורת הפתח וכיון דהוה ליה צורת הפתח מדאורייתא סגי לה בהכי דבכ\"מ צורת הפתח חשיב כמחיצה ולא בעי טפח שוחק אלא מדרבנן הלכך מהני ליה נראה מבחוץ מיגו דמהני לענין שבת מהני הכא כל שבעת ימי הסוכה א\"נ הא דאמר רבא דלא מהני פי תקרה כיון דמחיצות לגואי עבידין ולא לבראי היינו מדרבנן בעלמא הלכך לענין טפח שוחק מהני נראה מבחוץ.",
+              "ref": "Rosh on Sukkah 1:33:1",
+              "sourceHeRef": "פסקי הרא\"ש על סוכה א:לג:א",
+              "sourceRef": "Rosh on Sukkah 1:33:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף ב' בהג\"ה </b>ואם הטפח והדופן מגיע לסכך א\"צ קנה על גביהן. נ\"ב עיין במג\"א סק\"ב מה שהקשה מן הירושלמי שמפורש שם דבעינן שיהיה נעשה לשם צוה\"פ ולמה הקילו הם אף בלא נעשה לשם כך ועיין בא\"ר שחולק עליו. ולפענ\"ד נראה דדין זה מוכח בש\"ס דלא בעינן כוונה לשם צוה\"פ בזה והוא ממ\"ש בש\"ס שם דף זיי\"ן ר\"א אשכחיה להרב כהנא דקא עביד טפח שוחק וקעביד צורת הפתח א\"ל לאו סבר לה מר להא דאמר רבא וניתרת נמי בצה\"פ א\"ל אנא כאידך לישנא דרבא ס\"ל דאמר וצריכה נמי צוה\"פ עכ\"ל הש\"ס. וקשה לי מנ\"ל דהני תרתי לישני פליגי דלמא לא פליגי כלל ומה דקאמר רבא ונתירת נמי בצה\"פ היינו שעושה בכוונה לשם צוה\"פ בזה די בצה\"פ לבד אף בלי טפח שוחק ומה דקאמר וצריכה נמי צוה\"פ היינו היכא דאינו מכוין לשם צוה\"פ רק דהוה ממילא כעין דינו של המרדכי והרמ\"א באם הטפח ודופן מגיע עד הסכך בזה בעינן תרוויוהו טפח שוחק וגם צוה\"פ ולא פליגי כלל ואם כן רב כהנא דעשה בכוונה צוה\"פ כדמשמע בש\"ס דקאמר וקעביד נמי צוה\"פ שפיר א\"ל ד\"א דלמ\"ל עוד טפח שוחק ומה השיב לו אנא כאידך לישנא דרבא ס\"ל וצריכה נמי צוה\"פ דלמא לא פליגי כלל ומנ\"ל לעשות פלוגתא ובפרט בדברי רבא עצמו א\"א דס\"ל להש\"ס בפשיטות דאין סברא כלל לחלק בין עשה לשם צוה\"פ בכוונה או לא כדברי הא\"ר כיון דעושה לשם סכך הוי ככוונה ובע\"כ דפליגי וזו ראיה ברורה וגדולה מן הש\"ס דלא כהמג\"א והירושלמי ודו\"ק היטב. גם י\"ל דבשבת ודאי לא בעינן כוונה לשם צוה\"פ רק בסוכה כיון דהחמירו ביה טפי כמ\"ש התוס' כעין זה דלכך בעינן טפח שלם כמו כן ס\"ל להירושלמי דסבר דלא אמרינן מיגו דהוי דופן לשבת הוי דופן לסוכה. אבל אנן קיי\"ל דאמרינן מגו וכיון דמהני צוה\"פ לגבי שבת מהני לסוכה אף בחול כדס\"ל כן גבי מבוי שיש בו לחי ודו\"ק והבן. עוד נלפענ\"ד ליישב קושיית הירושלמי שהביא המג\"א הנ\"ל לפמ\"ש לקמן סי' תרל\"ה דאין לעשות הסכך ואח\"כ הדפנות ואם עשה כן כשר והט\"ז פוסל. ועיקר ראייתו ממ\"ש בש\"ס וצריך לנענע ע\"ש. ולפ\"ז למ\"ד א\"צ לנענע מותר לעשות הסכך תחלה ואחר כך הדפנות ולכך אתי שפיר דהירושלמי יסבור כרב וממילא מותר לעשות הסכך תחלה ואחר כך הדפנות ולכך הוא מיירי דהיה עושה הסכך תחלה ואם כן אז לא הוי ניכר אם יצטרך לצוה\"פ או יעשה ד' או ג' שלימות ולכך אף דעשה אחר כך ב' והשלישית טפח ומוכח דבעינן צוה\"פ בזה ניהו דמשום תעשה ולא מן העשוי לא מיפסיל לרב עכ\"פ תורת צוה\"פ לא הוי כיון דלא עשאו לכך. אבל לדידן דקיי\"ל דצריך לנענע ואם כן אי אפשר דלסכך בלתי שיהיו תחלה הדפנות ואם כן בע\"כ היה התחלה הטפח והדופן דאל\"כ ליכא דפנות ואם כן כיון דסכך עלייהו הוי הוכחה דכוון שיהיה זה לצוה\"פ כיון דבעינן צוה\"פ בזה הוי סתמא כפירושו דנתכוין לכך ועוד אם לא יהיה כן הדר פסל הסכך כיון דעדיין ליכא ג' דפנות כהלכתן ואף שיעשה אחר כך צוה\"פ יהיה מן העשוי ובע\"כ מדמסכך טרם שעשה צוה\"פ הוי כוונתו שזה יהיה צוה\"פ בעצמו ושפיר פסקו דכשר בכה\"ג ויהי' מוכח דס\"ל כהט\"ז דפסול בע\"א וא\"ש ודוק: והנה ראיתי להא\"ר שמתרץ קושית המג\"א דזה שאני כיון דנעשה להיתר סכך מהני נמי לצוה\"פ ע\"ש. והנה לפי דבריו ולפי דברי הט\"ז דסבירא ליה בעשה הסכך ואחר כך הדפנות פסולה מכח תעשה ולא מן העשוי נתחדש לי קושיא במה דפריך הש\"ס דף י\"א לרב דס\"ל א\"צ לנענע ממתניתין הדלה עליו וכו' ה\"ד אילימא בשלא קצצן מאי איריא משום תעשה ולא מן העשוי ת\"ל דמחוברין נינהו אלא בשקצצן וכו' ומה פריך נימא דמיירי שהיה רק ב' דפנות והג' טפח והצוה\"פ הי' הדלעת והגפן אם כן מתחלה לא הוי עליה דין צוה\"פ כיון דהיה מחובר מכבר ולכך ניהו דקצצן וקציצתן זו עשייתן. מכל מקום עדיין אין לו צוה\"פ כיון דלא נעשה מתחלה לכך מאי אמרת כיון דנעשה להיתר סכך מהני נמי לצוה\"פ ואם כן אי אפשר שיחול עליו שם דופן בלתי אם חל עליו מתחלה לשם סכך ואם כן צריך תחלה לחול עליו שם סכך ואחר כך צוה\"פ ואם כן נעשה הסכך קודם הדופן והוי תולמ\"ה לדעת הט\"ז בשלמא בשלא מחובר יש לומר כמ\"ש כיון דכשירה בכך אנן סהדי דהוי כאילו כיון מתחלה לכך אבל במחובר ממ\"נ קודם קציצה לא מהני אף אם כיון לשם צוה\"פ דהרי מחובר הוא ומתחלה לא נטעו לכך ושוב דאחר כך קצצו לא מהני לצוה\"פ כיון דלא נעשה מתחלה לכך ולומר כיון דנעשה להיתר סכך מהני נמי לצוה\"פ אם כן צריך לחול תחלה שם סכך ואחר כך נעשה צוה\"פ ודופן ופסול מכח תולמ\"ה לדעת הט\"ז ואף דלמ\"ד א\"צ לנענע מודה הט\"ז דכשר בסכך תחלה היינו מכח דעשיית הדפנות אחר כך הוי עשייתו אבל בזה הרי לא נעשה דופן וקציצתן יש לומר לחדא מהני ולתרתי לא מהני להכשירו בתורת סכך גם בתורת דופן לתרתי לא מהני קציצתן ומה פריך וצ\"ע ודו\"ק ועיין בחיבורי על או\"ח משנת תרי\"ב בהלכות עירובין סי' שסב מ\"ש בכוונת דברי המג\"א הנ\"ל ואין ללמוד מזה לצוה\"פ דבעינן כוונה ע\"ש כמה טעמים בעזה\"י ודו\"ק:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 630:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אורח חיים תרל:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 630:1"
+                    }
+                  ]
+                },
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ו)</span> דפנות הסוכה וכו'</strong> - כדי להבין היטיב אקדים לכאן כמה עקרים להלכה זו א)</span> דשיעור סוכה הוא שתהא מחזקת ז' על ז' טפחים לפחות כדלקמן בסימן תרל\"ד. ב)</span> דילפינן בגמרא מקראי דלא קרוי סוכה ע\"י הסכך לבד אא\"כ יש לה ג' דפנות והלכה למשה מסיני דאחת מן הדפנות סגי בטפח אחת. ג)</span> דמ\"מ בעינן שיהיה נראה כדופן דהיינו אם יש לו שתי דפנות סמוכות זו אצל זו כמין ד יקח דף שיש ברחבו טפח מרווח דהיינו טפח ומשהו ויעמידו בריחוק מקום פחות מג\"ט לאחד משתי הדפנות וכל פחות מן ג' טפחים כלבוד דמי ונמצא שיש כאן ד\"ט והוא רוב דופן מהכשר סוכה שהוא ז\"ט כנ\"ל וכדי להשלים שיעור כל הדופן יעשה עוד צורת הפתח דהיינו שיעמוד קנה כנגד אותו טפח וירחיקו ממנו עד סוף הכותל שכנגדו שמחזיק שבעה טפחים ומניח קנה מן הטפח עד הקנה שכנגדו למעלה על גביהן או אפילו למעלה מהן ואינו נוגע בהן רק שיהיה כנגדן כמבואר לעיל בדיני צורת הפתח בסי' שס\"ב ונמצא שיש כאן דופן שלם של ז' טפחים. ועתה נתחיל לבאר בעזה\"י כל פרט בפ\"ע:",
+                      "ref": "Mishnah Berurah 630:6",
+                      "sourceHeRef": "משנה ברורה תרל:ו",
+                      "sourceRef": "Mishnah Berurah 630:6"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ז)</span> יותר על טפח</strong> - במ\"א מבואר שמותר לעשות דפנות הסוכה בקנים שמעמידם פחות פחות מג\"ט רחוק זה מזה והוא בעושה כן ד' דפנות דהיינו קנים כזה מארבעה רוחות אבל כשאין רוצה לעשות רק ג' דפנות בעינן שתי מחיצות שסמוכות זה לזה ושלמות והשלישית בטפח:",
+                      "ref": "Mishnah Berurah 630:7",
+                      "sourceHeRef": "משנה ברורה תרל:ז",
+                      "sourceRef": "Mishnah Berurah 630:7"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ח)</span> ומעמידו בפחות מג' וכו'</strong> - דאז הוי לבוד וא\"כ יש כאן ד' טפחים דהוא רוב הכשר סוכה דאע\"ג דבסתם טפח יהיה ג\"כ רוב דופן דהוי טפי מג\"ט ומחצה אכן משום דבציר מארבעה טפחים לא חשיב בשום דוכתא להכי הצריכו טפח מרווח [ר\"ן]:",
+                      "ref": "Mishnah Berurah 630:8",
+                      "sourceHeRef": "משנה ברורה תרל:ח",
+                      "sourceRef": "Mishnah Berurah 630:8"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ט)</span> כנגד הכותל</strong> - היינו כנגד סוף המקצוע השני של הכותל שכנגדו שסתמו מחזיק ז' טפחים וי\"א דירחיקו עוד טפח יותר כדי שיהיה הצורת הפתח על ד' טפחים:",
+                      "ref": "Mishnah Berurah 630:9",
+                      "sourceHeRef": "משנה ברורה תרל:ט",
+                      "sourceRef": "Mishnah Berurah 630:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(י)</span> ויעשה לה צוה\"פ וכו'</strong> - כדי להשלים שיעור הכותל ועיין בב\"ח שכתב דזה הוא מדרבנן אבל הטפח מרווח שאמרנו מתחלה הוא מדאורייתא:",
+                      "ref": "Mishnah Berurah 630:10",
+                      "sourceHeRef": "משנה ברורה תרל:י",
+                      "sourceRef": "Mishnah Berurah 630:10"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יא)</span> וכשרה</strong> - ואז מותר לטלטל בתוכו ולהוציא מן הבית דרך חלון הפתוח לסוכה בשבת שבתוך החג דאע\"ג דבשאר שבתות אסור לטלטל אא\"כ יש תיקון ברוח רביעית מ\"מ בשבת שבתוך החג אומרים מגו דהוי דופן לענין סוכה הוי נמי דופן לענין שבת ומ\"מ שלא בשעת הדחק ראוי להחמיר:",
+                      "ref": "Mishnah Berurah 630:11",
+                      "sourceHeRef": "משנה ברורה תרל:יא",
+                      "sourceRef": "Mishnah Berurah 630:11"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יב)</span> ואם הטפח והקנה וכו'</strong> - כצ\"ל:",
+                      "ref": "Mishnah Berurah 630:12",
+                      "sourceHeRef": "משנה ברורה תרל:יב",
+                      "sourceRef": "Mishnah Berurah 630:12"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יג)</span> א\"צ קנה ע\"ג</strong> - דהסכך גופא יחשב כקנה ע\"ג ועיין במ\"א שהקשה על זה מירושלמי ודעתו דראוי להחמיר משום דאינו נעשה הסכך לכך אבל האחרונים יישבו קושיתו וע\"כ הסומך על רמ\"א לא הפסיד:",
+                      "ref": "Mishnah Berurah 630:13",
+                      "sourceHeRef": "משנה ברורה תרל:יג",
+                      "sourceRef": "Mishnah Berurah 630:13"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "<i>Le-khatḥila</i> it is better to build a <i>sukka</i> with four full walls and a door that can be closed, so the <i>sukka</i> is comfortable and provides shelter from the sun and wind (see Rema 630:5.) Technically, however, since a <i>sukka</i> is a temporary residence, it is not required to have four walls; three suffice. Moreover, the third wall need not be full; technically, one <i>tefaḥ</i> suffices. The Sages said that this <i>tefaḥ</i> must be within 3 <i>tefaḥim</i> of one of the other walls, and the one-<i>tefaḥ</i> wall must extend by means of a doorway (<i>tzurat ha-petaḥ</i>, explained in the note). Since this law is complicated, someone who wants to save on <i>sukka</i> walls should be advised to put up two complete walls, and a third one which is 7 <i>tefaḥim</i> long (about 56 centimeters). Then, even if his <i>sukka</i> is large, and even if the two walls aren’t connected to one another but rather face each other, the <i>sukka</i> is kosher (Rema 630:3).",
+                      "he": "לכתחילה טוב לבנות סוכה מהודרת בעלת ארבע דפנות שלימות, ולעשות לה פתח שאפשר לסוגרו, כדי שהסוכה תהיה נוחה ומוגנת משמש ורוחות <span class=\"parenthesized\">(עיין רמ\"א תרל, ה)</span>. אולם מעיקר הדין, כיוון שהסוכה היא דירת ארעי, אין חובה שיהיו לה ארבע דפנות, אלא מספיק שיהיו לה שלוש דפנות. ואין צורך שהדופן השלישית תהיה שלימה, אלא מעיקר הדין די שרוחבה יהיה טפח, ואמרו חכמים שצריך להניח טפח זה במרחק של פחות משלושה טפחים מהדופן השנייה, וכהמשך לטפח זה צריך לעשות 'צורת פתח' <span class=\"parenthesized\">(כמבואר בהערה)</span>. וכיוון שדין זה מורכב, נכון להדריך את מי שרוצה לחסוך בדפנות הסוכה, שיקים שתי דפנות שלימות, ובשלישית יעשה דופן שרוחבה שבעה טפחים <span class=\"parenthesized\">(כ-56 ס\"מ)</span>. ואז בכל אופן, גם אם סוכתו תהיה גדולה, וגם אם שתי הדפנות לא יהיו מחוברות זו לזו, אלא יעמדו זו כנגד זו, כיוון שבדופן השלישית יש מחיצה שרוחבה שבעה טפחים, הסוכה כשרה <span class=\"parenthesized\">(רמ\"א תרל, ג)</span>.",
+                      "ref": "Peninei Halakhah, Sukkot 2:6:3",
+                      "sourceHeRef": "סוכות ב:ו:ג",
+                      "sourceRef": "Sukkot 2:6:3"
+                    }
+                  ]
+                }
+              },
+              "en": "2. Regarding the walls of the sukkah, if there are two walls adjacent to each other like a gamma, one makes a wall that has its width greater than a tefach and puts it within three [tefachim] from one wall. One then places a rod <i>(parallel to the wall) (Tur)</i> over this tefach[-wide pseudo-wall] to make the form of a doorway, placing a rod on top of [the real wall] and on top of the tefach[-wide pseudo-wall], and it is kosher, even if the rod does not touch them. <i>Rem\"a: And if the tefach [pseudo-wall] and the wall reach schach, no rod is needed above them (Mordechai, Hagahot Maimoni ch. 4). And the custom that the form of the doorway is circular is just for decorative reasons (so wrote Mordechai).</i>",
+              "he": "דפנות הסוכה אם היו שתים זו אצל זו כמין ג\"ם עושה דופן שיש ברחבו יותר על טפח ומעמידו בפחות משלשה לאחד מהדפנות ויעמוד קנה <span class=\"hebrew-emphasis\"> (כנגד הכותל) (טור) </span> כנגד אותו טפח ויעשה לה צורת הפתח שיעמיד קנה עליו ועל הטפח וכשרה אע\"פ שהקנה שעל גביהן אינו נוגע בהן: <span class=\"hebrew-emphasis\">הגה ואם הטפח והדופן מגיע לסכך א\"צ קנה על גביהן (מרדכי והגהות מיימוני פ\"ד) ומה שנהגו שצורת הפתח עגולה הוא לנוי בעלמא (כ\"כ המרדכי)</span>:",
+              "ref": "Shulchan Arukh, Orach Chayim 630:2",
+              "sourceHeRef": "אורח חיים תרל:ב - דיני דפנות הסוכה",
+              "sourceRef": "Orach Chayim 630:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>איכא דאמרי</b> <span class=\"hebrew-emphasis\">[יש אומרים]</span> גירסה שלישית ש<b>אמר רבא: וצריכה</b> סוכה זו כדי להכשירה <b>נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> ל<b>צורת הפתח,</b> שנוסף לתיקון הדופן כשיטת ר' יהושע בן לוי, יש צורך גם בצורת הפתח כדי להכשירה.",
+              "ref": "Steinsaltz on Sukkah 7a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:ט",
+              "sourceRef": "Steinsaltz on Sukkah 7a:9"
+            }
+          ]
+        }
+      },
+      "en": "<b>Some say</b> a third version of that which <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: And</b> a <i>sukka</i> consisting of two adjacent walls, even with a third that is an expansive handbreadth wide as suggested by <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span>, <b>also requires the form of a doorway</b> to be fit. In other words, in addition to <span href=\"/topics/rabbi-yehoshua-b-levi\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-levi\">Rabbi Yehoshua ben Levi</span>’s remedy, one must also create the form of a doorway to render the <i>sukka</i> fit.",
+      "he": "אִיכָּא דְּאָמְרִי, אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: וּצְרִיכָא נָמֵי צוּרַת הַפֶּתַח.",
+      "ref": "Sukkah 7a:9"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">טֶפַח</strong> m. (Biblical Hebrew; see <span class=\"refLink\" data-ref=\"Jastrow, טָפַח I 1\" href=\"/Jastrow,_טָפַח I.1\"><span dir=\"rtl\">טָפַח</span> I</span>) <i>hand-breadth, breadth of four fingers joined</i>. <span class=\"refLink\" data-ref=\"Sukkah 4b:17\" href=\"/Sukkah.4b.17\">Sukkah 4ᵇ</span>, and from <span dir=\"rtl\">ארון תשעה וכפרת ט׳</span> the Ark was nine handbreadths high, and the lid one. <span class=\"refLink\" data-ref=\"Sukkah 7a:16\" href=\"/Sukkah.7a.16\">Ib. 7ᵃ</span> <span dir=\"rtl\">ט׳ שוחק</span> a liberal hand-breadth (four fingers not closely joined). see <span class=\"refLink\" data-ref=\"Jastrow, אַמָּה 1\" dir=\"rtl\" href=\"/Jastrow,_אַמָּה.1\">אַמָּה</span>.—<span class=\"refLink\" data-ref=\"Yoma 55a:1\" href=\"/Yoma.55a.1\">Yoma 55ᵃ</span> top <span dir=\"rtl\">טִיפְחָהּ של כפורת</span> Arukh and Manuscript Munich 2 and Manuscript Oxford (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 9, ed. <span class=\"refLink\" data-ref=\"Jastrow, עוּבְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_עוּבְיָא.1\">עוביה</span>) the hand-breadth, i.e. the hight, of the lid, see supra.; and see from—plural <span dir=\"rtl\">טְפָחִים</span>, <i>Dual</i> <span dir=\"rtl\">טְפָחַיִים</span>. <span class=\"refLink\" data-ref=\"Taanit 25b:11\" href=\"/Taanit.25b.11\">Taanit 25ᵇ</span>; and see from [<span dir=\"rtl\">טְפָחִין</span>, or <span dir=\"rtl\">טִפְחִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, טְפִיחַ II 1\" href=\"/Jastrow,_טְפִיחַ II.1\"><span dir=\"rtl\">טְפִיחַ</span> II</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, טֶפַח 1",
+              "sourceHeRef": "מילון יסטרוב, טֶפַח א׳",
+              "sourceRef": "Jastrow, טֶפַח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דקעביד טפח שוחק</strong> - אצל היוצא כדרבי סימון:",
+              "ref": "Rashi on Sukkah 7a:10:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:י:א",
+              "sourceRef": "Rashi on Sukkah 7a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא סבר לה מר ונתרת נמי</strong> - או האי או האי:",
+              "ref": "Rashi on Sukkah 7a:10:2",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:י:ב",
+              "sourceRef": "Rashi on Sukkah 7a:10:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מסופר: <b>רב אשי אשכחיה</b> <span class=\"hebrew-emphasis\">[מצא]</span> את <b>רב כהנא דקא עביד</b> <span class=\"hebrew-emphasis\">[שהוא עושה]</span> תיקון בסוכה העשויה כמבוי, על ידי <b>טפח שוחק, וקא עביד</b> <span class=\"hebrew-emphasis\">[ועושה]</span> גם <b>צורת הפתח. אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רב אשי לרב כהנא: וכי <b>לא סבר מר להא דרבא</b> <span class=\"hebrew-emphasis\">[סבור אדוני לזו,</span> לשיטתו <span class=\"hebrew-emphasis\">של רבא]?</span> ש<b>אמר רבא: ונתרת נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>בצורת הפתח,</b> ולשם מה לך תיקון נוסף בטפח? <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רב כהנא: <b>אנא כאידך לישנא</b> <span class=\"hebrew-emphasis\">[אני כלשון האחרת]</span> שמסרו בשם <b>רבא סבירא לי</b> <span class=\"hebrew-emphasis\">[סבור אני].</span> ש<b>אמר רבא: וצריכה נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>צורת הפתח,</b> שיש צורך בשני תיקונים יחד.",
+              "ref": "Steinsaltz on Sukkah 7a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:י",
+              "sourceRef": "Steinsaltz on Sukkah 7a:10"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates: <b><span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> found <span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">Rav Kahana</span></b> establishing his <i>sukka</i>, which had two adjacent walls, <b>and establishing</b> a third wall that was <b>an expansive handbreadth</b> wide <b>and establishing the form of a doorway</b> as well. <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> <b>said to</b> him: <b>And does the Master not hold</b> in accordance <b>with that</b> opinion <b>of <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>, as <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: And</b> the <i>sukka</i> <b>is also permitted</b> and fit if the third wall is <b>in</b> the <b>form of a doorway?</b> Why are you establishing a wall that is an expansive handbreadth wide as well? <span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">Rav Kahana</span> <b>said to him: I hold</b> in accordance <b>with the other version</b> of the opinion of <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>, as <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: And</b> the <i>sukka</i> <b>also requires the form of a doorway,</b> in addition to the expansive handbreadth, to be fit.",
+      "he": "<span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">רַב אָשֵׁי</span> אַשְׁכְּחֵיהּ <span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">לְרַב כָּהֲנָא</span> דְּקָא עָבֵיד טֶפַח שׂוֹחֵק, וְקָא עָבֵיד צוּרַת הַפֶּתַח. אֲמַר לֵיהּ: לָא סָבַר מָר לְהָא <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">דְּרָבָא</span>, דְּאָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: וְנִתֶּרֶת נָמֵי בְּצוּרַת הַפֶּתַח? אֲמַר לֵיהּ: אֲנָא כְּאִידַּךְ לִישָּׁנָא <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">דְּרָבָא</span> סְבִירָא לִי. דְּאָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: וּצְרִיכָא נָמֵי צוּרַת הַפֶּתַח.",
+      "ref": "Sukkah 7a:10"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If it does not have projections [extending from its pillars] it is not valid, because it resembles a sukkah constructed in an alley, because it has [walls on] only the two sides of the <i>exedrah</i>. The middle of the <i>exedrah</i> does not have a wall and there are no projections opposite it.",
+              "he": "לֹא הָיוּ לָהּ פְּצִימִין פְּסוּלָה מִפְּנֵי שֶׁהִיא סֻכָּה הָעֲשׂוּיָה כְּמָבוֹי שֶׁהֲרֵי אֵין לָהּ אֶלָּא שְׁנֵי צִדֵּי הָאַכְסַדְרָה וְאֶמְצַע הָאַכְסַדְרָה אֵין בּוֹ כֹּתֶל וְשֶׁכְּנֶגְדּוֹ אֵין בּוֹ פְּצִימִין:",
+              "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 4:9",
+              "sourceHeRef": "הלכות שופר וסוכה ולולב ד:ט",
+              "sourceRef": "Shofar, Sukkah and Lulav 4:9"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכן לשבת</strong> - אע\"פ שצריך לשבת שלש מחיצות ליעשות רשות היחיד שבת של סוכות מותר לסמוך על מחיצות הסוכה אם עשה ברה\"ר סמוך לפתחו סוכה דאין בה אלא שתים כהלכתן ושלישית אפילו טפח מכניס ומוציא הימנה לביתו ואע\"ג דבשאר שבתות לא מישתרי אי נמי בשאר מחיצות שאינן של סוכה לא מישתרו בהכי לשבת דסוכה שריא דמיגו דההוא טפח אגמריה רחמנא למשה במחיצות סוכה דליהוי ליה דופן שלימה לסוכה הוי דופן נמי בשבת דסוכה לענין שבת:",
+              "ref": "Rashi on Sukkah 7a:11:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יא:א",
+              "sourceRef": "Rashi on Sukkah 7a:11:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שתים כהלכתן ושלישית וכו'. אמר רבה וכן לשבת מיגו דהוי דופן לענין סוכה הוי נמי מחיצה לענין שבת. הרב אלפסי השמיט מימרא זו דרבה וכתב ב' מימרות אחרות דרבה והיינו טעמא משום דפסק דבעי נמי צורת הפתח ומילתא דפשיטא היא כיון דאיכא שלשה מחיצות מעלייתא דאמרינן מגו ואם איתא דסוכה העשויה כמבוי לא בעיא צורת הפתח לא היה לו להשמיט מימרא זו:",
+              "ref": "Rosh on Sukkah 1:7:1",
+              "sourceHeRef": "פסקי הרא\"ש על סוכה א:ז:א",
+              "sourceRef": "Rosh on Sukkah 1:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו בתוספתא כי אם היו דפנות הסוכה <b>שתים כהלכתן</b> והשלישית אפילו טפח — הרי זו סוכה כשרה. <b>אמר רבא: וכן ל</b>ענין <b>שבת</b> החלה בתוך חג הסוכות, שאם עשה סוכה מעין זו ברשות הרבים סמוך לפתח ביתו, הריהי נחשבת בשבת זו אף כרשות היחיד לענין היתר הטלטול ממנה לביתו ולהיפך, אף שבכל שבת אחרת, אין בכך כדי להחשיב את המקום כרשות היחיד. וטעמו: <b>מגו דהויא</b> <span class=\"hebrew-emphasis\">[מתוך שהיא</span> נחשבת<span class=\"hebrew-emphasis\">]</span> כ<b>דופן לענין סוכה</b> — <b>הויא</b> <span class=\"hebrew-emphasis\">[הרי היא</span> נחשבת<span class=\"hebrew-emphasis\">]</span> כ<b>דופן</b> גם <b>לענין שבת.</b>",
+              "ref": "Steinsaltz on Sukkah 7a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:יא",
+              "sourceRef": "Steinsaltz on Sukkah 7a:11"
+            }
+          ]
+        }
+      },
+      "en": "It is taught in the <i>Tosefta</i> that if the <i>sukka</i> has <b>two walls in the standard sense</b> and a third wall that measures one handbreadth, it is fit. <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: And likewise</b> with regard <b>to Shabbat</b> that occurs during the festival of <i>Sukkot</i>, <b>since it is</b> considered <b>a wall with regard to</b> the <i>halakhot</i> of <b><i>sukka</i> it is</b> considered <b>a partition with regard to</b> the <i>halakhot</i> of <b>Shabbat.</b> Were one to construct a <i>sukka</i> in that manner in a public domain adjacent to the entrance to his house, its legal status would be that of a private domain and one would be permitted to move objects from it to his house and vice versa on Shabbat that occurs during the Festival. However, that structure is not considered a private domain on any other Shabbat.",
+      "he": "שְׁתַּיִם כְּהִלְכָתָן כּוּ׳. אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: וְכֵן לְשַׁבָּת, מִגּוֹ דְּהָוְיָא דּוֹפֶן לְעִנְיַן סוּכָּה — הָוְיָא דּוֹפֶן לְעִנְיַן שַׁבָּת.",
+      "ref": "Sukkah 7a:11",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דופן סוכה כדופן שבת</strong> - כל צידי דפנות שהתירו חכמים לשבת כגון מחיצה של שתי בלא ערב כדאמר בעירובין <span class=\"parenthesized\">(ד' טז:)</span> מקיפין בקנים ובלבד שלא יהא בין קנה לחבירו שלשה טפחים ואע\"פ שרחב קנה אינו אלא מלא אצבע ויש בין קנה לקנה שלשה טפחים חסר משהו ואיכא פרוץ מרובה על העומד שפיר דמי דאמרינן לבוד והוה ליה כולו עומד או של ערב בלא שתי כדתנן התם <span class=\"parenthesized\">(שם)</span> מקיפין שלשה חבלים הוי היקף נמי לדופן סוכה ובלבד שיהא זהיר שלא יהא בין קנה לחבירו שלשה טפחים כשהוא מקיף כי היכי דאמר לענין שבת דאם כן נפיק ליה מתורת לבוד ודווקא במקומות הרבה דהוי ליה פרוץ מרובה על העומד אבל מקום אחד או שני מקומות הוו להו כפתחים:",
+              "ref": "Rashi on Sukkah 7a:12:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יב:א",
+              "sourceRef": "Rashi on Sukkah 7a:12:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "תניא דופן סוכה כדופן שבת. ירושלמי יש דברים כשרים בסוכה ופסולין במבוי פסולין בסוכה וכשרין במבוי דוקרנין כשרים בסוכה ופסולין במבוי ותני' כן הביא ד' דוקרנין וסיכך על גבן במבוי פסול בסוכה כשירה שתי דפנות כשירות בסוכה ופסולות במבוי. ותני כן שתים כהלכתן ושלישית אפי' טפח ובמבוי עד שיהא מגופף מארבע רוחותיו. רחב מעשר אמה בסוכה כשרה במבוי פסול. חמתה מרובה מצלתה בסוכה פסולה ובמבוי כשר. תניא דופן סוכה כדופן שבת ובלבד שלא יהא בין קנה לחבירו ג\"ט. יתירה שבת על הסוכה שהסוכה ניתרת בטפח ובשבת אינה ניתרת אלא בעומד מרובה על הפרוץ פי' אם הי' בהיקף פתחים שאין בהן צורת הפתח מצטרפין עם הפרוץ לבטל העומד מה שאין כן בסוכה דהא סגי ליה בב' כהלכתן וכו' ואפילו יש בב' הדפנות פתחים הרבה ואין להן צורת הפתח כן פרש\"י והרמב\"ם ז\"ל כתב שם הל' י\"ב ובלבד שלא יהא שם פתח יותר על עשר אבל אם היה שם פתח יותר על עשר אע\"פ שיש לו צורת הפתח צריך שלא יהא פרוץ מרובה על העומד. וכן כתוב בספר המצות. ודברי תימה הן דהא תנן ואם יש לו צורת הפתח אין צריך למעט ואין הלכה כרב דאמר אתנייה צריך למעט ואין חילוק בצורת הפתח בין עשר ליותר מעשר:",
+              "ref": "Rosh on Sukkah 1:8:1",
+              "sourceHeRef": "פסקי הרא\"ש על סוכה א:ח:א",
+              "sourceRef": "Rosh on Sukkah 1:8:1"
+            },
+            {
+              "en": "",
+              "he": "המשלשל דפנות מלמעלה למטה אם גבוהות מן הארץ ג' טפחים פסולה מלמטה למעלה אם גבוהות מן הארץ י' טפחים כשירה. רבי יוסי אומר כשם שמלמטה למעלה י' טפחים כך מלמעלה למטה י' טפחים הרחיק את הסיכוך מן הדפנות שלשה טפחים פסולה. ה\"ג ורב נטרונאי והרמב\"ן ז\"ל וה\"ר ישעיה ז\"ל פסקו כרבנן. ורב עמרם ור\"ח ורבינו אבי העזרי פסקו כרבי יוסי דנמוקו עמו אע\"ג דאין הלכה כרבי יוסי אלא מחבירו ולא מחביריו הא תניא לקמן <span class=\"parenthesized\">(סוכה דף טז:)</span> כוותיה ומחצלת שבעה ומשהו מתרת בסוכה משום דופן והיינו לפי הספרים דגרסינן ומאי קמ\"ל דמשלשלין דפנות מלמעלה למטה וכן בעל העיטור פסק כרבי יוסי מההיא ברייתא ופירש קמ\"ל דמשלשלין מלמעלה למטה אפילו לכתחילה כרבי יוסי דאי ממתניתין הוה אמינא דוקא בדיעבד אבל לכתחילה לא וזו הגירסא היא ברוב הספרים אבל לגירסת רש\"י אין ראיה משם דרש\"י גריס כי תניא ההיא בסוכה גדולה ותו לא פירוש בסוכה גבוהה הרבה שאין יכול לומר בה שני לבודין הלכך בעי מחצלת ז' ומשהו ומעמידה בפחות מג' סמוך לקרקע ואתיא כרבנן. ורי\"ץ גיאות ז\"ל פסק כרבנן דקי\"ל לעיל <span class=\"parenthesized\">(סוכה דף ז.)</span> דופן סוכה כדופן שבת וקי\"ל בשבת דאין מחיצה תלויה מתרת אלא במים קל הוא שהקילו חכמים במים וכן דעת ה\"ר אלפסי ז\"ל מדלא פסק כרבי יוסי אלמא סבר דהלכה כרבים וכן הלכתא: דף טז ע\"ב",
+              "ref": "Rosh on Sukkah 1:30:1",
+              "sourceHeRef": "פסקי הרא\"ש על סוכה א:ל:א",
+              "sourceRef": "Rosh on Sukkah 1:30:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>איתיביה</b> <span class=\"hebrew-emphasis\">[הקשה לו]</span> <b>אביי: ומי אמרינן מגו</b> <span class=\"hebrew-emphasis\">[והאם אומרים אנו \"מתוך\"]</span> בהלכות אלה, לומר שאם לענין תחום אחד נחשב דבר כדופן, יחשב כן אף לענין תחומים אחרים? <b>והתניא</b> <span class=\"hebrew-emphasis\">[והרי שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]:</span> דיניה והגדרותיה של <b>דופן</b> לענין <b>סוכה</b> הריהם <b>כדופן</b> לענין <b>שבת,</b> שכשם שלענין שבת אפשר ליצור מחיצה על ידי העמדת קנים סמוכים זה לזה — כן גם לענין סוכה. <b>ובלבד שלא יהא בין קנה לחברו</b> מרחק <b>שלשה טפחים,</b> שביותר משלושה טפחים שוב אינם נחשבים כצמודים זה לזה.",
+              "ref": "Steinsaltz on Sukkah 7a:12",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:יב",
+              "sourceRef": "Steinsaltz on Sukkah 7a:12"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלא יהא בין קנה לחברו שלשה טפחים</strong> - אין זה כר' יאשיה דבסמוך דבעי מחיצות כסכך צלתו מרובה מחמתו:",
+              "ref": "Tosafot on Sukkah 7a:12:1",
+              "sourceHeRef": "תוספות על סוכה ז׳ א:יב:א",
+              "sourceRef": "Tosafot on Sukkah 7a:12:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> raised an objection to</b> <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>’s opinion from a <i>baraita</i>: <b>And do we say</b> that this principle: <b>Since</b> it is considered, etc., applies in this area of <i>halakha</i>? <b>But isn’t it taught</b> in a <i>baraita</i>: The specifications of the <b>wall of a <i>sukka</i></b> are <b>like</b> those of a <b>partition</b> with regard to the <i>halakhot</i> <b>of Shabbat.</b> Just as with regard to the <i>halakhot</i> of Shabbat, one forms a partition by establishing adjacent reeds, so too, one forms the wall of a <i>sukka</i> in the same manner, <b>provided that</b> the gap <b>from one reed to another will not be</b> as much as <b>three handbreadths.</b> If the gap is three handbreadths or greater, the legal status of the reeds is that they are not considered joined.",
+      "he": "אֵיתִיבֵיהּ <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אַבָּיֵי</span>: וּמִי אָמְרִינַן מִגּוֹ? וְהָתַנְיָא: דּוֹפֶן סוּכָּה כְּדוֹפֶן שַׁבָּת, וּבִלְבַד שֶׁלֹּא יְהֵא בֵּין קָנֶה לַחֲבֵרוֹ שְׁלֹשָׁה טְפָחִים.",
+      "ref": "Sukkah 7a:12"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A sukkah which has many entrances and many windows in its walls is kosher even though the open portion exceeds the closed portion, provided there is no opening larger than ten cubits.<br>If there is an opening larger than ten cubits, it is necessary that the closed portion exceed the open portion, even though [the opening] is constructed in the form of an entrance.",
+              "he": "סֻכָּה שֶׁיֵּשׁ לָהּ פְּתָחִים רַבִּים וְיֵשׁ בִּכְתָלֶיהָ חַלּוֹנוֹת הַרְבֵּה הֲרֵי זוֹ כְּשֵׁרָה. וְאַף עַל פִּי שֶׁפָּרוּץ מְרֻבֶּה עַל הָעוֹמֵד. וּבִלְבַד שֶׁלֹּא יִהְיֶה שָׁם פֶּתַח יֶתֶר עַל עֶשֶׂר. אֲבָל אִם הָיָה שָׁם פֶּתַח יֶתֶר עַל עֶשֶׂר אַף עַל פִּי שֶׁיֵּשׁ לָהּ צוּרַת פֶּתַח צָרִיךְ שֶׁלֹּא יִהְיֶה הַפָּרוּץ מְרֻבֶּה עַל הָעוֹמֵד:",
+              "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 4:12",
+              "sourceHeRef": "הלכות שופר וסוכה ולולב ד:יב",
+              "sourceRef": "Shofar, Sukkah and Lulav 4:12"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שהשבת אינה נתרת</strong> - אם יש בה פתחים הרבה שאין בהם צורת הפתח ורבים על העומד ומבטלי ליה לעומד:",
+              "ref": "Rashi on Sukkah 7a:13:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יג:א",
+              "sourceRef": "Rashi on Sukkah 7a:13:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מה שאין כן בסוכה</strong> - דסגי ליה בשתים כהלכתן ושלישית אפילו טפח ואפילו היו לה פתחים בשתי הדפנות אחד או שנים דכי מצטרפת להו בהדי שתים הפרוצות הוה ליה פרוץ מרובה שריא:",
+              "ref": "Rashi on Sukkah 7a:13:2",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יג:ב",
+              "sourceRef": "Rashi on Sukkah 7a:13:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(מב)</span> בפחות משלשה וכו'</strong> - דאמרינן לבוד והוי כסתום ונמצא שיש כאן י\"ט:",
+                      "ref": "Mishnah Berurah 630:42",
+                      "sourceHeRef": "משנה ברורה תרל:מב",
+                      "sourceRef": "Mishnah Berurah 630:42"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(מג)</span> אפילו הגג גבוה הרבה</strong> - דאמרינן גוד אסיק מחיצתא והוי כאלו המחיצות מגיעות לסכך:",
+                      "ref": "Mishnah Berurah 630:43",
+                      "sourceHeRef": "משנה ברורה תרל:מג",
+                      "sourceRef": "Mishnah Berurah 630:43"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(מד)</span> רק שהוא בתוך ג'</strong> - דאמרינן לבוד מן הצד אבל אם היה ג\"ט פסולה דאפילו אם היו מחיצות מגיעות ממש לסכך קי\"ל דאם הם מרוחקים מן הסכך ג\"ט פסול וכ\"ש בזה:",
+                      "ref": "Mishnah Berurah 630:44",
+                      "sourceHeRef": "משנה ברורה תרל:מד",
+                      "sourceRef": "Mishnah Berurah 630:44"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(מה)</span> פסולה</strong> - אפילו היו הדפנות גבוהות י\"ט ויותר דכל מחיצה שהגדיים יכולות לבקוע תחתיו אינה חשובה מחיצה כלל:",
+                      "ref": "Mishnah Berurah 630:45",
+                      "sourceHeRef": "משנה ברורה תרל:מה",
+                      "sourceRef": "Mishnah Berurah 630:45"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Walls which are connected to the roof of the sukkah, but do not reach the earth: If they are more than three handbreadths above the earth, they are invalid; if the distance is less than that, they are kosher.<br>[The following rules apply] should the walls be connected to the earth, without reaching the <i>s'chach</i>: If they are ten handbreadths high, they are kosher even though are removed several cubits from the roof, provided they are positioned below the end of the roof. If the roof was separated from the wall by more than three handbreadths, it is invalid; less than this amount is kosher.<br>If one suspended a partition which is slightly more than four handbreadths high at a distance of less than three handbreadths from the earth and a distance of less than three handbreadths from the roof, it is kosher.",
+                      "he": "דְּפָנוֹת שֶׁהָיוּ דְּבוּקוֹת בְּגַג הַסֻּכָּה וְלֹא הָיוּ מַגִּיעוֹת לָאָרֶץ אִם הָיוּ גְּבוֹהוֹת מִן הָאָרֶץ שְׁלֹשָׁה טְפָחִים פְּסוּלָה. פָּחוֹת מִכֵּן כְּשֵׁרָה. הָיוּ הַדְּפָנוֹת דְּבוּקוֹת לָאָרֶץ וְלֹא הָיוּ מַגִּיעוֹת לַסְּכָךְ אִם גְּבוֹהוֹת עֲשָׂרָה טְפָחִים אַף עַל פִּי שֶׁהֵן רְחוֹקִין מִן הַגַּג כַּמָּה אַמּוֹת כְּשֵׁרָה וּבִלְבַד שֶׁיִּהְיוּ הַדְּפָנוֹת מְכֻוָּנוֹת תַּחַת שְׂפַת הַגַּג. הִרְחִיק אֶת הַגַּג מִן הַדֹּפֶן שְׁלֹשָׁה טְפָחִים פְּסוּלָה. פָּחוֹת מִכֵּן כְּשֵׁרָה. תָּלָה מְחִצָּה שֶׁגְּבוֹהָה אַרְבָּעָה וּמַשֶּׁהוּ בְּאֶמְצַע בְּפָחוֹת מִשְּׁלֹשָׁה סָמוּךְ לָאָרֶץ וּבְפָחוֹת מִשְּׁלֹשָׁה סָמוּךְ לַגַּג הֲרֵי זוֹ כְּשֵׁרָה:",
+                      "ref": "Mishneh Torah, Shofar, Sukkah and Lulav 4:4",
+                      "sourceHeRef": "הלכות שופר וסוכה ולולב ד:ד",
+                      "sourceRef": "Shofar, Sukkah and Lulav 4:4"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "As we have seen (section 1), the minimum height of the walls is 10 <i>tefaḥim</i> (c. 80 cm). They must be close to the ground; if there is a gap of 3 <i>tefaḥim</i> (c. 22 cm) between the ground and the walls, the wall is invalid. However, there is no maximum gap between the top of the wall and the <i>sekhakh</i>, as we view the wall as if it continues up to the <i>sekhakh</i> (SA 630:9).",
+                      "he": "כפי שלמדנו <span class=\"parenthesized\">(בהלכה א)</span>, גובה הדפנות צריך להיות לכל הפחות עשרה טפחים <span class=\"parenthesized\">(כ-80 ס\"מ)</span>. וצריך להקימן סמוך לקרקע, ואם נוצר רווח של שלושה טפחים <span class=\"parenthesized\">(כ-22 ס\"מ)</span> בין הקרקע לדפנות, הדופן פסולה. אבל אין שום הגבלה לרווח שבין הדופן לסכך, מפני שרואים את הדופן כאילו היא ממשיכה לעלות עד לסכך <span class=\"parenthesized\">(שו\"ע או\"ח תרל, ט)</span>.",
+                      "ref": "Peninei Halakhah, Sukkot 2:7:2",
+                      "sourceHeRef": "סוכות ב:ז:ב",
+                      "sourceRef": "Sukkot 2:7:2"
+                    }
+                  ]
+                }
+              },
+              "en": "9. If its walls are taller than seven tefachs and a bit and they are erected less than three tefachs from the ground, it is valid even if the roof is much higher, as long as they are directly under it. Even if they are not precisely under it, as long as they are within three [tefachim] it is kosher. If [the roof] is only ten tefachim high, even if the wall is only four and two bits tall, it is kosher when it is placed in the middle. We [legally consider it to] extend above and below, and it is considered closed. If the walls are more than three tefachim above the ground, it is invalid.",
+              "he": "היו דפנותיה גבוהים שבעה ומשהו והעמידם בפחות משלשה סמוך לארץ כשרה אפי' הגג גבוה הרבה ובלבד שיהא מכוון כנגדן ואפי' אינן מכוון ממש רק שהוא בתוך שלשה כנגדו כשרה ואם אינה גבוה אלא י' טפחים אפילו אין בדופן אלא ארבע ושני משהויין כשרה שמעמידה באמצע ואמרינן לבוד למעלה ולמטה וחשוב כסתום היו הדפנות גבוהות מן הארץ שלשה טפחים פסולה:",
+              "ref": "Shulchan Arukh, Orach Chayim 630:9",
+              "sourceHeRef": "אורח חיים תרל:ט - דיני דפנות הסוכה",
+              "sourceRef": "Orach Chayim 630:9"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ויתירה</b> כלומר, חמורה דין מחיצה לענין <b>שבת על</b> זו המיועדת להכשר <b>סוכה, ש</b>מחיצה לענין <b>השבת אינה נתרת אלא ב</b>כשחלק המחיצה ה<b>עומד מרובה על הפרוץ,</b> שכדי שגדר תיחשב כמחיצה נחוץ שהחלק העומד (כלומר: הקיים בפועל במחיצה זו), יהיה מרובה על הפרוץ, <b>מה שאין כן בסוכה,</b> שאף אם מרובה בה החלק הפרוץ על העומד (וכגון סוכה שאין לה אלא שתי דפנות ואף הן אינן שלימות, אלא בהן קיימים פתחים, והשלישית אינה אלא בת טפח) — כשרה.",
+              "ref": "Steinsaltz on Sukkah 7a:13",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:יג",
+              "sourceRef": "Steinsaltz on Sukkah 7a:13"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "When rendering a <i>sukka</i> fit by means of mechanisms like a one-handbreadth wall and the form of a doorway, it is fit even if there are breaches in the two complete walls, provided that no individual breach exceeds ten cubits. This is the ruling even if the total area of the breached segments exceeds the total area of the standing segments (Rashi; others). According to the Rambam, if all of the breaches together exceed ten cubits, then even if they are built in the form of a doorway, they still render the wall and the <i>sukka </i>unfit unless the standing segments exceed the breached segments. However, most authorities disagree (<i>Me’iri</i>; Rosh). Nowadays, the practice is to use full-fledged walls because not everyone is well versed in the details of the <i>halakhot</i> of partitions (<i>Shulĥan Arukh</i>,<i> Oraĥ Ĥayyim </i>630:5, and in the comment of the Rema).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Sukkah 7a:13",
+              "sourceHeRef": "פָּרוּץ מְרוּבֶּה עַל הַעוֹמֵד",
+              "sourceRef": "The breached segments total more than the standing segments"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שהשבת אינה ניתרת אלא בעומד מרובה על הפרוץ</strong> - משמע הא כפרוץ אסור והוי מצי לאקשויי מהכא לרב פפא דאמר פ\"ק דעירובין <span class=\"parenthesized\">(ד' טו:)</span> פרוץ כעומד מותר ובלאו הכי איתותב התם אף על גב דהלכתא כוותיה כדאמרינן התם משום דדייקינן מתניתין כוותיה כדאמר התם ואי גרסינן הכא שהשבת אינה ניתרת בפרוץ מרובה על העומד אתי שפיר:",
+              "ref": "Tosafot on Sukkah 7a:13:1",
+              "sourceHeRef": "תוספות על סוכה ז׳ א:יג:א",
+              "sourceRef": "Tosafot on Sukkah 7a:13:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>But</b> the stringency of the <i>halakha</i> with regard to <b>Shabbat</b> goes <b>beyond</b> the stringency of the <i>halakha</i> with regard to <b><i>sukka</i>,</b> in terms of the criteria for effective partitions, <b>as</b> with regard to <b>Shabbat,</b> carrying <b>is permitted only in</b> a case where the total of <b>the standing</b> segments of the partition, the actual wall, <b>is greater than</b> the total of <b>the breached</b> segments of the partition, the gaps that are less than three handbreadths. <b>That is not so with regard to the <i>sukka</i>,</b> where, even if the breached segments total more than the standing segments, e.g., a <i>sukka</i> consisting of two walls in which there are gaps and a third wall measuring only a single handbreadth, it is still fit.",
+      "he": "וִיתֵירָה, שַׁבָּת עַל סוּכָּה, שֶׁהַשַּׁבָּת אֵינָהּ נִתֶּרֶת אֶלָּא בְּעוֹמֵד מְרוּבֶּה עַל הַפָּרוּץ, מַה שֶּׁאֵין כֵּן בְּסוּכָּה.",
+      "ref": "Sukkah 7a:13"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי לאו</strong> - אפילו בשבת שבתוך החג קאמר דלא מישתריא לטלטולי והכי קאמר יתירה הלכות טלטול שבת דסוכה אהלכות הכשר סוכה לאכול ולישן ולצאת ידי חובת סוכה דלענין מיפק ידי חובתו נפיק ובלבד שלא יטלטל בה אלא ארבעה ולא יכניס מתוכה לבית:",
+              "ref": "Rashi on Sukkah 7a:14:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יד:א",
+              "sourceRef": "Rashi on Sukkah 7a:14:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ונדייק: <b>מאי לאו</b> <span class=\"hebrew-emphasis\">[האם לא]</span> הכוונה בברייתא זו: <b>יתירה</b> חומרת <b>שבת דסוכה</b> (שבת שבחג הסוכות) על זו של <b>סוכה, ולא אמרינן</b> <span class=\"hebrew-emphasis\">[ואין אנו אומרים]</span> <b>\"מגו\"</b> <span class=\"hebrew-emphasis\">[מתוך]</span> שנחשבת מחיצה זו כדופן לענין סוכה, תיחשב כמחיצה אף לענין דיני שבת, וקשה איפוא לדברי רבא, שהסתמך על טענה זו!",
+              "ref": "Steinsaltz on Sukkah 7a:14",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:יד",
+              "sourceRef": "Steinsaltz on Sukkah 7a:14"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara analyzes the <i>baraita</i>. <b>What, isn’t</b> the <i>baraita</i> <b>teaching that</b> the stringency with regard to <b>Shabbat that</b> occurs <b>during</b> the festival of <b><i>Sukkot</i></b> goes <b>beyond</b> the stringency with regard to the rest of the festival of <b><i>Sukkot</i>? And</b> apparently, <b>we do not say</b> the principle: <b>Since</b> it is considered a fit partition for <i>sukka</i> let it also be considered a fit partition for Shabbat. This is difficult according to <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>, in whose opinion that principle is applied in this case.",
+      "he": "מַאי לָאו: יְתֵירָה שַׁבָּת דְּסוּכָּה אַסּוּכָּה, וְלָא אָמְרִינַן מִגּוֹ!",
+      "ref": "Sukkah 7a:14"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא</strong> - הכי קאמר יתירה הלכות טלטול שבת דעלמא אהלכות טלטול שבת דסוכה ששבת דעלמא אינה נתרת אלא בעומד מרובה דליכא למימר בה מיגו ושבת דסוכה נתרת משום מיגו:",
+              "ref": "Rashi on Sukkah 7a:15:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:טו:א",
+              "sourceRef": "Rashi on Sukkah 7a:15:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודחה רבא: <b>לא,</b> כך יש להבין את הברייתא: <b>יתירה שבת דעלמא</b> <span class=\"hebrew-emphasis\">[שבכלל,</span> של כל ימות השנה<span class=\"hebrew-emphasis\">]</span> <b>על שבת דסוכה</b> (זו שחלה בחג הסוכות), כי בשבת שבחג הסוכות מחיצה שהפרוץ מרובה בה, כיון שנחשבת כדופן לענין סוכה, יש איפוא להחשיבה כדופן אף לענין שבת, מה שאין כן בשבת אחרת, שאז אין מחיצה זו נחשבת.",
+              "ref": "Steinsaltz on Sukkah 7a:15",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:טו",
+              "sourceRef": "Steinsaltz on Sukkah 7a:15"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> rejects that interpretation of the <i>baraita</i>. <b>No,</b> the <i>baraita</i> is teaching <b>that</b> the stringency with regard to <b>Shabbat in general</b> goes <b>beyond</b> the stringency with regard to <b>Shabbat that</b> occurs <b>during</b> the festival of <b><i>Sukkot</i>.</b> On Shabbat during the festival of <i>Sukkot</i>, a partition where the total of the breached segments of the partition is greater than the total of the standing segments is effective, as, since it is effective as a wall in a <i>sukka</i>, it is effective as a partition for Shabbat as well. That is not the case on Shabbat during the rest of the year, when a partition of that sort is ineffective on Shabbat.",
+      "he": "לָא: יְתֵירָה שַׁבָּת דְּעָלְמָא עַל שַׁבָּת דְּסוּכָּה.",
+      "ref": "Sukkah 7a:15"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">טֶפַח</strong> m. (Biblical Hebrew; see <span class=\"refLink\" data-ref=\"Jastrow, טָפַח I 1\" href=\"/Jastrow,_טָפַח I.1\"><span dir=\"rtl\">טָפַח</span> I</span>) <i>hand-breadth, breadth of four fingers joined</i>. <span class=\"refLink\" data-ref=\"Sukkah 4b:17\" href=\"/Sukkah.4b.17\">Sukkah 4ᵇ</span>, and from <span dir=\"rtl\">ארון תשעה וכפרת ט׳</span> the Ark was nine handbreadths high, and the lid one. <span class=\"refLink\" data-ref=\"Sukkah 7a:16\" href=\"/Sukkah.7a.16\">Ib. 7ᵃ</span> <span dir=\"rtl\">ט׳ שוחק</span> a liberal hand-breadth (four fingers not closely joined). see <span class=\"refLink\" data-ref=\"Jastrow, אַמָּה 1\" dir=\"rtl\" href=\"/Jastrow,_אַמָּה.1\">אַמָּה</span>.—<span class=\"refLink\" data-ref=\"Yoma 55a:1\" href=\"/Yoma.55a.1\">Yoma 55ᵃ</span> top <span dir=\"rtl\">טִיפְחָהּ של כפורת</span> Arukh and Manuscript Munich 2 and Manuscript Oxford (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 9, ed. <span class=\"refLink\" data-ref=\"Jastrow, עוּבְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_עוּבְיָא.1\">עוביה</span>) the hand-breadth, i.e. the hight, of the lid, see supra.; and see from—plural <span dir=\"rtl\">טְפָחִים</span>, <i>Dual</i> <span dir=\"rtl\">טְפָחַיִים</span>. <span class=\"refLink\" data-ref=\"Taanit 25b:11\" href=\"/Taanit.25b.11\">Taanit 25ᵇ</span>; and see from [<span dir=\"rtl\">טְפָחִין</span>, or <span dir=\"rtl\">טִפְחִין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, טְפִיחַ II 1\" href=\"/Jastrow,_טְפִיחַ II.1\"><span dir=\"rtl\">טְפִיחַ</span> II</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, טֶפַח 1",
+              "sourceHeRef": "מילון יסטרוב, טֶפַח א׳",
+              "sourceRef": "Jastrow, טֶפַח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואי שבת דעלמא קאמר אבל שבת דסוכה והלכות הכשר סוכה שוין משום מיגו ליתני נמי יתירה הלכות הכשר סוכה דעלמא דחול אהלכות הכשר סוכה דשבת:",
+              "ref": "Rashi on Sukkah 7a:16:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:טז:א",
+              "sourceRef": "Rashi on Sukkah 7a:16:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואילו סוכה דשבת</strong> - אם עשויה כמבוי שתי דפנותיה זו כנגד זו סגי לה בלחי זקוף אצל היוצא אע\"ג דאין רחבו טפח דמיגו דהוי דופן לשבת הוי נמי דופן לסוכה דהא מר משום דאית ליה מיגו אמר הכי לדידך דאמרת לחי משום מחיצה והזורק למבוי מפולש שיש לו לחי חייב אלמא מדאורייתא מחיצה היא ומתוכו לרשות היחיד נהי דמדרבנן אסור מדאורייתא מיהא מותר דהא מר משום דאית ליה מיגו אמר הכי:",
+              "ref": "Rashi on Sukkah 7a:16:2",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:טז:ב",
+              "sourceRef": "Rashi on Sukkah 7a:16:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הקשה לו אביי: <b>אי הכי</b> <span class=\"hebrew-emphasis\">[אם כך]</span> שההשוואה היא לא בין דיני שבת ודיני סוכה בכלל, אלא במקרה מיוחד של שבת שבחג הסוכות, אם כן <b>ליתני נמי</b> <span class=\"hebrew-emphasis\">[שישנה גם כן]</span> חידוש אחר הנובע מצירוף זה, ויאמר ש<b>יתירה</b> וחמורה הכשרה של <b>סוכה דעלמא</b> <span class=\"hebrew-emphasis\">[בכלל]</span> על <b>סוכה</b> זו של <b>שבת,</b> ש<b>אילו סוכה דעלמא</b> <span class=\"hebrew-emphasis\">[בכלל]</span> בשאר ימות החול, אם היתה זו סוכה מפולשת <b>בעיא</b> <span class=\"hebrew-emphasis\">[צריכה]</span> <b>טפח שוחק</b> כדי להיות דופן שלישית לסוכה, <b>ואילו סוכה</b> העומדת ב<b>שבת, לא בעיא</b> <span class=\"hebrew-emphasis\">[צריכה]</span> <b>טפח שוחק</b> לצורך זה, <b>וסגי</b> <span class=\"hebrew-emphasis\">[ודי</span> לה<span class=\"hebrew-emphasis\">]</span> <b>בלחי,</b> שהוא פס גבוה עשרה טפחים ורחב כל שהוא, שדי בו כדי לסמל שזו תחילתה של מחיצה שלישית, שכיון שלחי כזה מועיל לענין שבת, יהא אף כשר למצוות סוכה ביום השבת אף שאין ברוחבו טפח ואינו גבוה דיו,",
+              "ref": "Steinsaltz on Sukkah 7a:16",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:טז",
+              "sourceRef": "Steinsaltz on Sukkah 7a:16"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> asked: <b>If</b> it is <b>so</b> that the distinction in the <i>baraita</i> is not a fundamental distinction between the <i>halakhot</i> of <i>sukka</i> and the <i>halakhot</i> of Shabbat, but is instead a distinction between the <i>halakhot</i> of Shabbat in general and the specific case of Shabbat during the festival of <i>Sukkot</i>, then <b>let</b> the <i>baraita</i> <b>also teach</b> a novel distinction involving Shabbat that occurs during the festival of <i>Sukkot</i>. The stringency with regard to <b><i>sukka</i> in general</b> during the rest of <i>Sukkot</i> goes <b>beyond</b> the stringency with regard to <b><i>sukka</i> on Shabbat</b> that occurs during the festival of <i>Sukkot</i>, <b>as a <i>sukka</i> in general</b> consisting of two parallel walls, like an alleyway, <b>requires</b> that its third wall measure <b>an expansive handbreadth, while a <i>sukka</i> on Shabbat</b> does <b>not require an expansive handbreadth</b> for this purpose, <b>and</b> it is <b>sufficient</b> for the third wall to be established <b>with a side post</b> ten handbreadths high and any width.",
+      "he": "אִי הָכִי, לִיתְנֵי נָמֵי: יְתֵירָה סוּכָּה דְעָלְמָא אַסּוּכָּה דְשַׁבָּת, דְּאִילּוּ סוּכָּה דְעָלְמָא בָּעֲיָא טֶפַח שׂוֹחֵק, וְאִילּוּ סוּכָּה דְשַׁבָּת לָא בָּעֲיָא טֶפַח שׂוֹחֵק, וְסַגִּי בְּלֶחִי.",
+      "ref": "Sukkah 7a:16"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סיכך על גבי מבוי מפולש שיש לו לחי כשרה</strong> - בשבת ולא בחול דמיגו דהוי דופן לשבת למהוי רשות היחיד הוי דופן לענין סוכה:",
+              "ref": "Rashi on Sukkah 7a:17:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יז:א",
+              "sourceRef": "Rashi on Sukkah 7a:17:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דהא את</b> <span class=\"hebrew-emphasis\">[שהרי אתה]</span> עצמך <b>הוא דאמרת</b> <span class=\"hebrew-emphasis\">[שאמרת]:</span> <b>סיכך על גבי מבוי שיש לו לחי</b> העשוי כדי להכשירו לענין טלטול בשבת — <b>כשר</b> הוא גם לענין סוכה באותה שבת, אף על פי שאינו כשר לימות החול. וזאת מתוך שכשר לענין שבת, כשר אף לענין סוכה!",
+              "ref": "Steinsaltz on Sukkah 7a:17",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:יז",
+              "sourceRef": "Steinsaltz on Sukkah 7a:17"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "See Halakha note, where it is noted that the commentaries and the halakhic authorities dispute the matter of this alleyway. Most hold that it refers even to an open-ended alleyway that has a vertical post at one end. Although it is prohibited by rabbinic law to carry in such an alleyway on Shabbat, since by Torah law it is permitted to carry there, it is fit as a <i>sukka</i>. Others maintain that this <i>halakha</i> is limited to an alleyway that is open to the public domain at one end and closed at the other. The question arises because the roofing was not placed at the closed end of the alleyway where there are three walls, as that is clearly a fit sukka. Rather, it was placed at the open end of the alleyway, where there are only two parallel walls and a vertical post on the third side.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Sukkah 7a:17",
+              "sourceHeRef": "סִיכֵּךְ עַל גַּבֵּי מָבוֹי",
+              "sourceRef": "One placed roofing over an alleyway"
+            },
+            {
+              "en": "If one places roofing over an alleyway with a side post at its entrance, the resulting <i>sukka</i> is fit for use on Shabbat during the Festival; since the post is considered a partition with regard to the <i>halakhot</i> of Shabbat it is considered a wall with regard to the <i>halakhot</i> of <i>sukka</i> as well. This is in accordance with the opinion of Rava. There is a dispute about the nature of this alleyway. Some hold that this is the <i>halakha</i> even in the case of an open-ended alleyway (Rashi; Rambam; Rosh), while others maintain that this is the <i>halakha</i> only in a case where the alleyway is closed on three sides (<i>Tosafot</i>; Ran; <i>Me’iri</i>; Rema as explained by the Vilna Gaon; <i>Shulĥan Arukh</i>,<i> Oraĥ  Ĥayyim </i>630:7).",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Sukkah 7a:17",
+              "sourceHeRef": "סִיכֵּךְ עַל גַּבֵּי מָבוֹי",
+              "sourceRef": "One placed roofing over an alleyway"
+            }
+          ]
+        }
+      },
+      "en": "Since the side post is effective as a partition with regard to the <i>halakhot</i> of Shabbat, it should also be effective as a wall with regard to the <i>halakhot</i> of <i>sukka</i> although it is less than one handbreadth wide, <b>as you are</b> the <b>one who said: If one placed roofing over an alleyway which has a side post</b> on one of the open ends to permit carrying in that alleyway on Shabbat, <b>it is fit</b> as a <i>sukka</i> for that same Shabbat, although it would not be fit during the rest of the week of the Festival.",
+      "he": "דְּהָא אַתְּ הוּא דְּאָמְרַתְּ: סִיכֵּךְ עַל גַּבֵּי מָבוֹי שֶׁיֵּשׁ לוֹ לֶחִי — כָּשֵׁר!",
+      "ref": "Sukkah 7a:17"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ההוא לא איצטריך ליה</strong> - לאשמעינן דיתירה סוכה דעלמא אסוכה דשבת משום דמרישא שמעינן ליה:",
+              "ref": "Rashi on Sukkah 7a:18:1",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יח:א",
+              "sourceRef": "Rashi on Sukkah 7a:18:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דהשתא מקילתא לחמירתא אמר מיגו</strong> - מיגו דהוי דופן לסוכה דקילא הוי דופן לשבת דחמירא:",
+              "ref": "Rashi on Sukkah 7a:18:2",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יח:ב",
+              "sourceRef": "Rashi on Sukkah 7a:18:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחמירתא לקילתא מיבעיא</strong> - דמבוי שיש לו לחי זקוף דכשר לסוכה בשבת:",
+              "ref": "Rashi on Sukkah 7a:18:3",
+              "sourceHeRef": "רש\"י על סוכה ז׳ א:יח:ג",
+              "sourceRef": "Rashi on Sukkah 7a:18:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והשיב לו רבא: אכן כך סבור אני, אבל העובדה שאין הדבר נזכר בברייתא אינה מהוה כל קושי, כי <b>ההוא לא אצטריכא ליה</b> <span class=\"hebrew-emphasis\">[דבר זה לא הוצרך לו]</span> להיאמר שיש מקרה שיתירה וחמורה הדרישה בדין סוכה בכלל על דין סוכה של שבת, שאין חידוש בכך שדבר הכשר להלכות שבת מועיל גם להלכות סוכה, <b>השתא מקילתא לחמירתא אמרינן</b> <span class=\"hebrew-emphasis\">[עכשיו מ</span>דבר <span class=\"hebrew-emphasis\">קל ל</span>דבר <span class=\"hebrew-emphasis\">חמור אומרים אנו],</span> שהרי כיון שאמרנו שדבר הכשר לדין סוכה, שאינה אלא מצות עשה, יש לו תוקף גם לדין שבת החמורה שאיסורה איסור כרת, <b>מחמירתא לקילתא</b> <span class=\"hebrew-emphasis\">[מחמורה לקלה]</span> <b>לא כל שכן,</b> שוודאי שדבר שיש לו תוקף לדין שבת החמור, כל שכן שיש לו תוקף לדין סוכה שאינו חמור עד כדי כך. ולכן לא היה צורך להזכיר את הדבר בברייתא.",
+              "ref": "Steinsaltz on Sukkah 7a:18",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:יח",
+              "sourceRef": "Steinsaltz on Sukkah 7a:18"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> replied to him: That is indeed my statement; however, the fact is that the <i>baraita</i> does not cite that distinction, because <b>it is not necessary</b> to state that there are circumstances in which the general <i>halakhot</i> of <i>sukka</i> are stricter than its <i>halakhot</i> on Shabbat, as there is no novelty in the concept that the <i>halakhot</i> of partitions on Shabbat should apply to a <i>sukka</i>. <b>Now</b> that <b>we say</b> that <i>halakhot</i> may be derived <b>from a leniency to a stringency,</b> as a <i>halakha</i> that applies to <i>sukka</i>, which is a positive mitzva, is applied to the <i>halakhot</i> of Shabbat, which is a stringent prohibition punishable by <i>karet</i>; then <b>from a stringency,</b> the <i>halakhot</i> of Shabbat, <b>to a leniency, all the more so</b> may <i>halakhot</i> be derived. Therefore, there is no reason for the <i>baraita</i> to mention that distinction explicitly.",
+      "he": "הָהוּא לָא אִצְטְרִיכָא לֵיהּ, הַשְׁתָּא מִקִּילְּתָא לַחֲמִירְתָּא אָמְרִינַן, מֵחֲמִירְתָּא לְקִילְּתָא לֹא כׇּל שֶׁכֵּן.",
+      "ref": "Sukkah 7a:18"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גופא,</b> כיון שהוזכרה ההלכה בענין סיכוך על גבי מבוי, מעירים לגופה של אותה ההלכה. <b>אמר רבא:</b>",
+              "ref": "Steinsaltz on Sukkah 7a:19",
+              "sourceHeRef": "ביאור שטיינזלץ על סוכה ז׳ א:יט",
+              "sourceRef": "Steinsaltz on Sukkah 7a:19"
+            }
+          ]
+        }
+      },
+      "en": "Apropos roofing over an alleyway, the Gemara elaborates about <b>the</b> matter <b>itself. <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said:</b>",
+      "he": "גּוּפָא. אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>:",
+      "ref": "Sukkah 7a:19"
+    }
+  ],
+  "title": "Sukkah 7a",
+  "titleHebrew": "סוכה ז,א",
+  "topics": []
+}

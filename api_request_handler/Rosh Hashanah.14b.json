@@ -1,0 +1,1201 @@
+{
+  "id": "14b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אחד כדברי ב\"ש</strong> - שאמרו נתחדשה שנה וכבר נכנסת שלישית משחשיכה:",
+              "ref": "Rashi on Rosh Hashanah 14b:1:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:א:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואחד כדברי ב\"ה</strong> - האומרין לא נתחדשה שנה עד חמשה עשר בו:",
+              "ref": "Rashi on Rosh Hashanah 14b:1:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:א:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומדוע נהג בו כך? <b>אחד</b> מחמת הספק אם באחד בשבט כבר נתחדשה שנת האילן כדברי בית שמאי, ואחד מחמת הספק שמא אינה שאינה מתחדשת אלא בחמישה עשר בשבט <b>כדברי בית הלל.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:א",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "In the Jerusalem Talmud the question is raised: How could he actually follow two opinions? Objectively, he was required to separate either the second tithe or the poor man’s tithe. If he set aside the wrong tithe, not only would it have no effect, but that tithe itself would need to have the correct tithes removed from it (see <i>Turei Even</i>). Furthermore, the amount of the second tithe would be insufficient, since he would have set aside one-tenth of the remainder after separating the poor man’s tithe, which is less than one-tenth of the entire measure. The answer given in the Jerusalem Talmud is that Rabbi Akiva set aside only one tithe as second tithe, which he then redeemed, and he gave that value to poor people. The later authorities ask why it was necessary to give the money to poor people if he separated it only due to doubt, since the principle is that the burden of proof falls upon the claimant. Rav Nissim Gaon writes in tractate <i>Eiruvin</i> that Rabbi Akiva acted beyond the letter of the law in order to cover all possibilities.",
+              "he": "בתלמוד הירושלמי שואלים, כיצד עשה למעשה, שכן יש כאן חשש של קלקול מעשרות (שהרי אם מפריש מעשר אחד שאינו צריך לא תיקן כלל, ואותו מעשר עצמו צריך תיקון. וראה בטו\"א ועוד הדנים בצד זה) וגם חשש שהמעשר השני שמפריש אינו כשיעורו (שהרי מפריש רק עשירית ממה שנשאר. שהוא פחות מעשירית מן הכל). ומתרצים, שהפריש מעשר אחד לשם מעשר שני ופדאו ונתן את הכסף לעניים. ושואלים אחרונים מפני מה הוצרך לתת לעניים, שהרי המוציא מחבירו עליו הראיה, אכן רב נסים גאון כתב (במסכת עירובין) שר' עקיבא עשה זאת לפנים משורת הדין לצאת ידי כל הספקות.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 14b:1",
+              "sourceHeRef": "אֶחָד כְּדִבְרֵי בֵית שַׁמַּאי",
+              "sourceRef": "One in accordance with the statement of Beit Shammai"
+            }
+          ]
+        }
+      },
+      "en": "<b>One</b> tithe was <b>in accordance with the statement of <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span></b> that the new year for trees is on the first of Shevat, in which case it was already the third or sixth year, when one must set aside poor man’s tithe; <b>and one</b> tithe was <b>in accordance with the statement of <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span></b> that the new year for trees is on the fifteenth of Shevat, so it was still the second or fifth year, when one must set aside second tithe.",
+      "he": "אֶחָד כְּדִבְרֵי <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">בֵּית שַׁמַּאי</span>, וְאֶחָד כְּדִבְרֵי <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">בֵּית הִלֵּל</span>.",
+      "ref": "Rosh Hashanah 14b:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא מנהג ב\"ש כו'</strong> - שני עישורין שנהג בה לאו משום ספק כב\"ש ספק כב\"ה אלא משום ספק הלכה כרבן גמליאל דאמר אתרוג אחר לקיטה כירק משום דדרכו ליגדל על כל מים והרי נלקט בשלישית או שמא כר\"א דאמר אחרי חנטה הלכו בו כשאר אילנות והרי חנט בשניה ולקמיה פריך א\"כ פשיטא ליה דכבר נכנסה שלישית כב\"ש:",
+              "ref": "Rashi on Rosh Hashanah 14b:2:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ב:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:2:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר׳ יוסי בר יהודה וכו'.</b> פי׳ דמספקא ליה אי אזלינן בתר חנטה או בתר לקיטה ולקמן פרכינן וכי אזלינן בתר לקיטה מאי האי דהא לב״ה לא נכנסה שלישית עד ט״ו בשבט <span class=\"parenthesized\">(למ״ד)</span> [אלא] כב״ש והא ר״ע מתלמידי ב״ה הוא ועוד ב״ש במקום ב״ה אינה משנה ומפרש לה תלמודא שפיר:",
+              "ref": "Ritva on Rosh Hashanah 14b:1",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ד ב:א",
+              "sourceRef": "Ritva on Rosh Hashanah 14b:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' יוסי בר יהודה אומר: לא מנהג בית שמאי ובית הלל נהג בה,</b> כלומר, לא מחמת ספק זה עשה כן, <b>אלא מנהג רבן גמליאל ור' אליעזר נהג בה.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:ב",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "In the Jerusalem Talmud Rabbi Yosei bar Yehuda’s opinion is explained as follows: If the uncertainty had been with regard to the  opinions of Beit Shammai and Beit Hillel, it would not have been necessary to discuss an <i>etrog</i> specifically.<i> </i>Therefore,  the doubt is with regard to an <i>etrog</i> because of its unique status.",
+              "he": "ובתלמוד הירושלמי מבואר גם טעם לדבריו, שהוא אומר שאם היה הספק בדברי בית שמאי ובית הלל לא היה צריך להזכיר אתרוג דווקא, אלא ודאי הוזכר אתרוג משום שיש בו ספק המיוחד רק לו.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 14b:2",
+              "sourceHeRef": "רַבִּי יוֹסֵי בַּר יְהוּדָה",
+              "sourceRef": "Rabbi Yosei bar Yehuda"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-yose-b-yehudah\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-yehudah\">Rabbi Yosei bar Yehuda</span> says: He did not act</b> as he did in order to conform <b>with the</b> conflicting <b>practices of <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>. Rather, he acted</b> as he did in order to conform <b>with the</b> conflicting <b>practices of <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> and <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>.</b>",
+      "he": "<span href=\"/topics/rabbi-yose-b-yehudah\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-yehudah\">רַבִּי יוֹסֵי בַּר יְהוּדָה</span> אוֹמֵר: לֹא מִנְהַג <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">בֵּית שַׁמַּאי</span> <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">וּבֵית הִלֵּל</span> נָהַג בָּהּ, אֶלָּא מִנְהַג <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">רַבָּן גַּמְלִיאֵל</span> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">וְרַבִּי אֱלִיעֶזֶר</span> נָהַג בָּהּ.",
+      "ref": "Rosh Hashanah 14b:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">לְקִיטָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, לָקַט 1\" dir=\"rtl\" href=\"/Jastrow,_לָקַט.1\">לָקַט</span>) <i>picking, collecting, harvesting.</i> <span class=\"refLink\" data-ref=\"Mishnah Peah 1:4\" href=\"/Mishnah_Peah.1.4\">Peah I, 4</span> <span dir=\"rtl\">ולְקִיטָתוֹ כאחת</span> and such fruits as are harvested all at once (not singly as they become ripe). <span class=\"refLink\" data-ref=\"Rosh Hashanah 14b:3\" href=\"/Rosh_Hashanah.14b.3\">Rosh Hashanah 14ᵇ</span> <span dir=\"rtl\">בשעת לְקִיטָתוֹ עישורו</span> the duty of giving tithes begins when it is being cut. <span class=\"refLink\" data-ref=\"Rosh Hashanah 15a:2\" href=\"/Rosh_Hashanah.15a.2\">Ib. 15ᵃ</span>; <span class=\"refLink\" data-ref=\"Tosefta Shevi'it 4:21\" href=\"/Tosefta_Shevi'it.4.21\">Tosefta Sheviit IV, 21</span> <span dir=\"rtl\">אחר לקיטתו למעשר</span> after it is harvested begins the duty &c.; <span class=\"refLink\" data-ref=\"Sukkah 40a:3\" href=\"/Sukkah.40a.3\">Sukkah 40ᵃ</span> <span dir=\"rtl\"><span dir=\"rtl\">אחר</span> (<span dir=\"rtl\">בתר</span>) <span class=\"refLink\" data-ref=\"Jastrow, לְקִיטָה 1\" dir=\"rtl\" href=\"/Jastrow,_לְקִיטָה.1\">לקיטה</span></span>. <span class=\"refLink\" data-ref=\"Sukkah 11b:9\" href=\"/Sukkah.11b.9\">Ib. 11ᵇ</span> <span dir=\"rtl\">לְקִיטָתָן זו היא עשייתן</span> the cutting them is their making (preparing for the religious ceremony); and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, לְקִיטָה 1",
+              "sourceHeRef": "מילון יסטרוב, לְקִיטָה א׳",
+              "sourceRef": "Jastrow, לְקִיטָה 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara asks: <b>If so,</b> if one may not purchase produce from an <i>am ha’aretz</i> lest he misuse the money, it should <b>also</b> be prohibited to give him money and purchase <b>a <i>lulav</i></b> from him during the Sabbatical Year. The Gemara answers: The mishna is dealing with a case where the <b><i>lulav</i> is of the sixth</b> year <b>that is entering the seventh</b> year. As it grew during the sixth year, it is permitted, even though it was removed from the tree during the seventh year. The fact that it remained on the tree between Rosh HaShana and <i>Sukkot</i> does not render it Sabbatical-Year produce. The Gemara objects: <b>If so,</b> the <b><i>etrog</i>, too, is</b> an object <b>of the sixth</b> year <b>that is entering the seventh</b> year and should have the same status. The Gemara answers: With regard to <b>an <i>etrog</i>,</b> as opposed to a <i>lulav</i>, in determining its status <b>we go</b> according to its <b>picking</b> and not when it grew. Therefore, in that case, the <i>etrog</i> is considered to be Sabbatical-Year produce.",
+                  "The Gemara objects: <b>But both Rabban Gamliel and Rabbi Eliezer,</b> who disagree about the status of an <i>etrog</i> that grew in one year and was picked in the following year in terms of determining its year for the <i>halakhot</i> of tithing, agree with regard to the <i>halakhot</i> <b>of</b> the <b>Sabbatical Year</b> that with regard to <b>an <i>etrog</i> we go</b> according to its <b>ripening, as we learned in a mishna</b> (<i>Bikkurim</i> 2:6): The halakhic status of the fruit of <b>an <i>etrog</i></b> tree <b>is like</b> that <b>of</b> a typical fruit <b>tree in three manners and</b> like that <b>of a vegetable in one manner.</b>",
+                  "The mishna elaborates: Its halakhic status is like that <b>of a tree in three manners:</b> With regard <b>to <i>orla</i>,</b> i.e., it is prohibited to eat of its fruit during the first three years after its planting; with regard <b>to fourth-</b>year produce, i.e., fruits that grow during the fourth year after the tree’s planting, which may not be used outside of Jerusalem unless they are deconsecrated by means of redemption; <b>and</b> with regard <b>to the Sabbatical Year.</b> With regard to all those <i>halakhot</i>, the year to which the fruit is ascribed is determined by when it ripens. And its halakhic status is like that <b>of a vegetable in one manner:</b>"
+                ],
+                [
+                  "It is like a vegetable in <b>that at the time of its picking it is tithed;</b> this is <b>the statement of Rabban Gamliel.</b> If it was picked in the third year of the Sabbatical cycle, poor man’s tithe is separated although it ripened in the second year, when the obligation is to separate second tithe and not poor man’s tithe. <b>Rabbi Eliezer says:</b> The halakhic status of the fruit of <b>an <i>etrog</i></b> tree <b>is like</b> that <b>of</b> a typical fruit <b>tree in every matter.</b> In any case, with regard to ascribing the status of Sabbatical-Year produce to the fruits, it is apparent from the mishna that the status of an <i>etrog</i> of the sixth year that was picked in the seventh year is that of sixth-year produce.",
+                  "The Gemara answers: <b>It was</b> the <i>tanna</i> of the mishna that distinguishes between the <i>lulav</i> and the <i>etrog</i> <b>who stated</b> his opinion <b>in accordance with</b> the statement of that <b><i>tanna</i>, as it is taught</b> in a <i>baraita</i> that <b>Rabbi Yosei said</b> that <b>Avtolemos,</b> one of the Sages, <b>testified in the name of five Elders:</b> The status of an <b><i>etrog</i></b> is determined <b>by</b> the time of its <b>picking</b> with regard <b>to</b> the <i>halakhot</i> of <b>tithes. And our Sages were counted in Usha,</b> reached a decision, <b>and said:</b> The status of an <i>etrog</i> is determined by the time of its picking <b>both</b> with regard <b>to</b> the <i>halakhot</i> of <b>tithes and</b> with regard <b>to</b> the <i>halakhot</i> of <b>the Sabbatical Year.</b>",
+                  "The Gemara questions the formulation of the <i>baraita</i>: With regard to the <b>Sabbatical Year, who mentioned it?</b> As no previous mention was made of the Sabbatical Year, the discussion of the status of an <i>etrog</i> during the Sabbatical Year is a non sequitur. The Gemara answers: The <i>baraita</i> <b>is incomplete, and this</b> is what <b>it is teaching:</b> The status of <b>an <i>etrog</i></b> is determined <b>by</b> the time of its <b>picking</b> with regard <b>to</b> the <i>halakhot</i> of <b>tithes and</b> determined <b>by</b> the time of its <b>ripening</b> with regard <b>to</b> the <b>Sabbatical Year. And our Sages were counted in Usha and said:</b> The status of <b>an <i>etrog</i></b> is determined <b>by</b> the time of its picking <b>both</b> with regard <b>to</b> the <i>halakhot</i> of <b>tithes and</b> with regard <b>to</b> the <i>halakhot</i> of <b>the Sabbatical Year.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Sukkah 39b:5",
+                "Sukkah 39b:6",
+                "Sukkah 39b:7",
+                "Sukkah 40a:1",
+                "Sukkah 40a:2",
+                "Sukkah 40a:3"
+              ],
+              "he": [
+                [
+                  "אִי הָכִי, לוּלָב נָמֵי! לוּלָב בַּר שִׁשִּׁית הַנִּכְנָס לִשְׁבִיעִית הוּא. אִי הָכִי אֶתְרוֹג נָמֵי — בַּת שִׁשִּׁית הַנִּכְנֶסֶת לִשְׁבִיעִית הִיא! אֶתְרוֹג, בָּתַר לְקִיטָה אָזְלִינַן.",
+                  "וְהָא בֵּין רַבָּן גַּמְלִיאֵל וּבֵין רַבִּי אֱלִיעֶזֶר, לְעִנְיַן שְׁבִיעִית אֶתְרוֹג בָּתַר חֲנָטָה אָזְלִינַן! דִּתְנַן: אֶתְרוֹג שָׁוֶה לָאִילָן בִּשְׁלֹשָׁה דְּרָכִים, וְלַיָּרָק בְּדֶרֶךְ אֶחָד.",
+                  "שָׁוֶה לָאִילָן בִּשְׁלֹשָׁה דְּרָכִים — לְעׇרְלָה וְלִרְבָעִי וְלִשְׁבִיעִית. וּלְיָרָק בְּדֶרֶךְ אֶחָד —"
+                ],
+                [
+                  "שֶׁבִּשְׁעַת לְקִיטָתוֹ עִישּׂוּרוֹ, דִּבְרֵי רַבָּן גַּמְלִיאֵל. רַבִּי אֱלִיעֶזֶר אוֹמֵר: אֶתְרוֹג שָׁוֶה לָאִילָן לְכׇל דָּבָר.",
+                  "הוּא דְּאָמַר כִּי הַאי תַּנָּא דְּתַנְיָא: אָמַר רַבִּי יוֹסֵי: אַבְטוּלְמוֹס הֵעִיד מִשּׁוּם חֲמִשָּׁה זְקֵנִים: אֶתְרוֹג אַחַר לְקִיטָה לַמַּעֲשֵׂר, וְרַבּוֹתֵינוּ נִמְנוּ בְּאוּשָׁא וְאָמְרוּ בֵּין לַמַּעֲשֵׂר בֵּין לַשְּׁבִיעִית.",
+                  "שְׁבִיעִית מַאן דְּכַר שְׁמֵיהּ? חַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: אֶתְרוֹג אַחַר לְקִיטָה לַמַּעֲשֵׂר, וְאַחַר חֲנָטָה לַשְּׁבִיעִית. וְרַבּוֹתֵינוּ נִמְנוּ בְּאוּשָׁא וְאָמְרוּ: אֶתְרוֹג בָּתַר לְקִיטָה, בֵּין לַמַּעֲשֵׂר בֵּין לַשְּׁבִיעִית."
+                ]
+              ],
+              "link": "/Sukkah/39b",
+              "originalRefsBeforeRewriting": [
+                "Sukkah 39b:6",
+                "Sukkah 39b:7",
+                "Sukkah 40a:1"
+              ],
+              "ref": "Sukkah 39b:5-40a:3",
+              "sourceHeRef": "סוכה ל״ט ב",
+              "sourceRef": "Sukkah 39b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "An etrog is similar in three ways to [the fruit of an ordinary] tree, and in one way to a vegetable. It is similar to a tree in respect of orlah, fourth year plantings, and [the law of] the seventh year; And it is similar to a vegetable in one thing: that its tithing goes according to the time it is harvested, the words of Rabban Gamaliel. Rabbi Eliezer says: it is similar to a tree in all ways.",
+              "he": "אֶתְרוֹג שָׁוֶה לָאִילָן בִּשְׁלֹשָׁה דְרָכִים, וְלַיָּרָק בְּדֶרֶךְ אֶחָד. שָׁוֶה לָאִילָן, בָּעָרְלָה וּבָרְבָעִי וּבַשְּׁבִיעִית. וְלַיָּרָק בְּדֶרֶךְ אֶחָד, שֶׁבִּשְׁעַת לְקִיטָתוֹ עִשּׂוּרוֹ, דִּבְרֵי רַבָּן גַּמְלִיאֵל. רַבִּי אֱלִיעֶזֶר אוֹמֵר, שָׁוֶה לָאִילָן בְּכָל דָּבָר:",
+              "link": "/Mishnah Bikkurim/2",
+              "ref": "Mishnah Bikkurim 2:6",
+              "sourceHeRef": "משנה ביכורים ב:ו",
+              "sourceRef": "Mishnah Bikkurim 2:6"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Similarly, among fruit from trees, only an esrog is like a vegetable, [i.e., the laws governing it] whether for tithes or the Sabbatical year are dependent on when it is harvested.<br>What is implied? If it was harvested in the third year after the fifteenth of Shvat, the tithe for the poor should be separated from it even though its growth was completed in the second year. Similarly, if it was gathered in the fourth year before the fifteenth of Shvat, the tithe for the poor should be separated from it. If it was harvested in the fourth year after the fifteenth of Shvat, the second tithe should be separated from it.",
+              "he": "וְכֵן הָאֶתְרוֹג בִּלְבַד מִשְּׁאָר פֵּרוֹת הָאִילָן הֲרֵי הוּא כְּיָרָק וְהוֹלְכִין אַחַר לְקִיטָתוֹ בֵּין לְמַעֲשֵׂר בֵּין לִשְׁבִיעִית. כֵּיצַד. אִם נִלְקַט בַּשְּׁלִישִׁית אַחַר ט\"ו בִּשְׁבָט מַפְרִישִׁין מִמֶּנּוּ מַעֲשַׂר עָנִי אַף עַל פִּי שֶׁנִּגְמְרָה בַּשְּׁנִיָּה. וְכֵן אִם נִלְקַט בָּרְבִיעִית קֹדֶם ט\"ו בִּשְׁבָט מַפְרִישִׁין מִמֶּנּוּ מַעֲשַׂר עָנִי. נִלְקַט בָּרְבִיעִית אַחַר ט\"ו בִּשְׁבָט מַפְרִישִׁין מִמֶּנּוּ מַעֲשֵׂר שֵׁנִי:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 1:5",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי א:ה",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 1:5"
+            },
+            {
+              "en": "[The ruling regarding] vegetables [depends] on the time they were harvested.<br>With regard to an esrog, even if it was the size of a bean before Rosh HaShanah [of the Sabbatical year] and grew to the size of a loaf of bread in the Sabbatical year, it is obligated to be tithed like the produce of the sixth year. [Conversely,] even if it had reached the size of a loaf of bread in the sixth year, since it was reaped in the Sabbatical year, it is considered as the produce of the Sabbatical year. As a stringency, the tithes are separated like the produce of the sixth year.",
+              "he": "הַיָּרָק בִּשְׁעַת לְקִיטָתוֹ. וְהָאֶתְרוֹג אֲפִלּוּ הָיָה כְּפוֹל קֹדֶם רֹאשׁ הַשָּׁנָה וְנַעֲשָׂה כְּכִכָּר בַּשְּׁבִיעִית חַיָּב בְּמַעַשְׂרוֹת כְּפֵרוֹת שִׁשִּׁית. וַאֲפִלּוּ הָיָה כְּכִכָּר בַּשִּׁשִּׁית הוֹאִיל וְנִלְקַט בַּשְּׁבִיעִית הֲרֵי הוּא כְּפֵרוֹת שְׁבִיעִית. וּמִתְעַשֵּׂר כְּפֵרוֹת שִׁשִּׁית לְהַחֲמִיר:",
+              "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 4:12",
+              "sourceHeRef": "הלכות שמיטה ויובל ד:יב",
+              "sourceRef": "Sabbatical Year and the Jubilee 4:12"
+            }
+          ]
+        },
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "פי' לערלה ולרבעי ולשביעי' שוה האתרוג לאילן דאזיל בתר חנטה. כל הענין פשוט הוא ונתברר בדרך קצרה מתלמוד א\"י דגרסי' [התם] מעשה בר\"ע שליקט אתרוג ונתן עליו חומרי ב\"ש וב\"ה. ולמה לי אתרוג אפילו שאר כל אילן תני חומרי ר\"ג וחומרי ר' אליעזר. ור\"ג ור\"א לא על דב\"ה אינון היו.",
+              "ref": "Rabbeinu Chananel on Rosh Hashanah 14b:1",
+              "sourceHeRef": "רבינו חננאל על מסכת ראש השנה י״ד ב:א",
+              "sourceRef": "Rabbeinu Chananel on Rosh Hashanah 14b:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הא <b>דתנן אתרוג שוה לאילן בשלשה דרכים ולירק בדרך אחד.</b> פירושו: שוה לאילן דאזלינן בתר חנטה כאילן בשלשה דרכים כדמפרש ואזיל, ושוה בדרך אחד לירק דאזלינן ביה בתר לקיטה כירק, וכן פירש רש\"י ז\"ל כאן. אבל בריש פרק קמא דקדושין <span class=\"parenthesized\">(ב, ב)</span> פירש שהוא מונה כל הדרכים שהוא כאילן והדרכים שהוא כירק, ואי אפשר דהא שוה לאילן בכמה דרכים אחרים, שהרי אינו כלאים בכרם כאילן וחייב בפאה כאילן. ומה שפירש כאן הוא עיקר. ושם כתבתי יותר בארוכה בסייעתא דשמיא.",
+              "ref": "Rashba on Rosh Hashanah 14b:1",
+              "sourceHeRef": "רשב״א על ראש השנה י״ד ב:א",
+              "sourceRef": "Rashba on Rosh Hashanah 14b:1"
+            },
+            {
+              "en": "",
+              "he": "<b>ולשביעית.</b> כלומר, דבתר שנת חנטתו שדינן ליה, ואי אתרוג הנכנס מששית לשביעית הוא אינו חייב בביעור ואע\"פ שנלקט בשביעית, ואילו היה שוה לירק היה חייב בבעור כשעת לקיטתו, ואי אתרוג הנכנס משביעית לשמינית חייב בביעור הואיל וחנט בשביעית. ואם תאמר, הכא משמע דירק הנכנס משישית לשביעית אסור כשעת לקיטתו, ואנן תנן <span class=\"parenthesized\">(שביעית פ\"ט, מ\"א)</span> כל הספיחים מותרים חוץ מספיחי כרוב, ופירושו הספיחים הנכנסים משישית ושביעית. יש לומר דהתם בשנגמר לגמרי בשישית שאע\"פ שלא נלקטו אלא בשביעית מותרין הואיל ולא גדלו בשביעית כלל, וטעמא משום דבתר גמר פרי אזלינן, דהא דאזלינן בירק בתר לקיטה עיקר טעמא הוא משום דמסתמא בשעת לקיטתו נגמר הפרי. והיינו נמי דשמואל דאמר לעיל <span class=\"parenthesized\">(ראש השנה יג, ב)</span> גבי פול המצרי, הכל הולך אחר גמר הפרי, ולומר דאזלינן ביה בתר לקיטה כירקות, אבל הכא בירק שלא נגמר קודם שביעית לגמרי אלא עדיין מתגדל והולך משנכנס בשביעית, ואפילו כן באתרוג דכותיה הנכנס משישית לשביעית פטור מן הביעור. אבל אתרוג שנגמר בשולו לגמרי בשישית, אפילו לכשתמצא לומר שהוא כירק לשביעית היה פטור מן הביעור, דירק כי האי גונא פטור כדאמרן. ואם תאמר והא מוקמינן בסמוך ההוא דר' עקיבא באתרוג שחנטו פירותיו קודם חמשה עשר דאידך שבט ואפילו הכי נהג בו שני עשורין משום ספיקו דר\"ג, דאלמא דאע\"פ שנגמר בישולו בשנה שנייה אפילו הכי כיון שהוא נלקט בשנה שלישית אילו אזלינן ביה בתר לקיטה כר\"ג היה מתעשר מעשר עני. ויש לומר דאתרוג כל זמן שהוא דר באילנו הוא מתגדל והולך, והרי הוא כירק שלא נגמר בישולו לגמרי. ואי נמי יש לומר, דלפעמים אתרוג שחנט בשבט דאשתקד אינו נגמר בשבט דהשתא.",
+              "ref": "Rashba on Rosh Hashanah 14b:3",
+              "sourceHeRef": "רשב״א על ראש השנה י״ד ב:ג",
+              "sourceRef": "Rashba on Rosh Hashanah 14b:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שוה לאילן</strong> - לילך אחר חנטה לענין ערלה ורבעי ושביעית:",
+              "ref": "Rashi on Rosh Hashanah 14b:3:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ג:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שבשעת לקיטתו עישורו</strong> - שאם חנטה בשניה ונלקטת בשלישית מתעשר כדת שנה שלישית כירק לפי שאף הוא דרכו ליגדל על כל מים הכי מפרש לה בשמעתא קמייתא דקדושין:",
+              "ref": "Rashi on Rosh Hashanah 14b:3:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ג:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:3:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דתנן אתרוג שוה לאילן וכו'.</b> פי׳ [רש״י] שהולכין בדברים אלו אחר חנטה כאילן ואין פי׳ זה מדוקדק דמשמע דאלו הי׳ דינו כירק לא היו הולכין בו אחר חנטה והניחא לענין שביעית דשייכא בירק אלא לענין ערלה ורבעי [ואינן] נוהגין אלא באילן לכן יש לפרש שוה לאילן לערלה ולרבעי שנוהגין בו כאילן ומינה נמי שהולכין בו אחר חנטה כמותו ושוה לאילן לשביעית שהולכין בו אחר חנטה כאילן ולא אחר לקיטה כירק דבהא ליכא לפרושי שנוהגת בו שביעית באילן כדפרישית בערלה ורבעי דהא שביעית בכל דבר הוא נוהג אלא ודאי לענין חנטה הוא בין לאתרוג בת ששית הנכנסת לשביעית שהיא מותרת ובין לאתרוג בת שביעית הנכנסת לשמינית שהיא אסורה דאלו הוה דיניה כירק למיזל בתר לקיטה הי׳ הדין בהיפך. וא״ת וכיון שמונה לערלה ולרבעי לפי שנוהג בו כאילן ליתני דרכים אחרים ששוה לו כגון לענין כלאים בכרם שהוא כאילן וכן לענין פיאה וי״ל דהא לא מני הדרכים ששוה לאילן או לירק מענינים תלויין בשנים ר״ל שמשתנה דינם לפי השנים ואיכא חילוק בין לקיטה וחנטה כנ״ל. ויש מקשים דהכא משמע דירק בת ששית הנכנסת לשביעית אסור כשעת לקיטתו והא אנן תנן כל הספיחין מותרין חוץ מספיחי כרוב ופי׳ ספיחין הנכנסין משישית לשביעית אלמא לא אפיקו מכללא לאיסורא אלא ספחי כרוב בלבד מטעמא דמפרש בירושלמי שלא יאמרו מן האמהות לקטתי ותירצו דהתם הוא <span class=\"parenthesized\">(בשעמד)</span> [כשנגמר] לגמרי בשישית שאע״פ שלא נלקטו אלא בשביעית מותרין הואיל ולא גדלו בשביעית כלל וטעמא משום דבתר גמר פרי אזלינן וכל עיקר לא הלכו בירק אחר לקיטה אלא משום דמסתמא בשעת לקיטתו נגמר פריו וכדאמר שמואל לעיל הכל הולך אחר גמר פרי אבל הכא בירק שלא נגמר קודם שביעית לגמרי אלא עדיין מתגדל והולך משנכנס בשביעית ואפי׳ כן באתרוג דכוותיה הנכנס משישית לשביעית פטור מן הביעור ואע״פ שלא נגמר בישולו כסתם אתרוגין שכל זמן שהוא דר באילנו מתגדל והולך ומתבשל שהוא כירק שלא נגמר בישולו לגמרי ובזה הוצרכנו לדונו כאילן דאלו נגמר בישולו לגמרי קודם שביעית אפי׳ הי׳ דינו כירק הי׳ מותר בשישית הנכנס לשביעית:",
+              "ref": "Ritva on Rosh Hashanah 14b:2",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ד ב:ב",
+              "sourceRef": "Ritva on Rosh Hashanah 14b:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Vegetables should be tithed according to the year when they are harvested. What is implied? If they are harvested on the day of Rosh HaShanah of the third year, the tithe for the poor should be separated from them even though they reached \"the phase of tithing\" and [indeed,] fully matured in the second year. If they were harvested in the fourth year, the second tithe should be separated from them.",
+                      "he": "הַיָּרָק בִּשְׁעַת לְקִיטָתוֹ עִשּׂוּרוֹ. כֵּיצַד. אִם נִלְקַט בְּיוֹם רֹאשׁ הַשָּׁנָה שֶׁל שְׁלִישִׁית אַף עַל פִּי שֶׁבָּא לְעוֹנַת הַמַּעַשְׂרוֹת וְנִגְמַר בַּשְּׁנִיָּה מַפְרִישִׁין מִמֶּנּוּ מַעֲשַׂר עָנִי. וְאִם נִלְקַט בָּרְבִיעִית מַעֲשֵׂר שֵׁנִי:",
+                      "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 1:4",
+                      "sourceHeRef": "הלכות מעשר שני ונטע רבעי א:ד",
+                      "sourceRef": "Second Tithes and Fourth Year's Fruit 1:4"
+                    },
+                    {
+                      "en": "The first of Tishrei is the beginning of the year with regard to the reckoning of the tithes for grain, legumes, and vegetables. Whenever the term Rosh HaShanah is used [with regard to crops], the intent is the first of Tishrei. The fifteenth of Shvat is the beginning of the year with regard to reckoning the tithes for fruit-trees.<br>What is implied? If grain or legumes reach \"the phase of tithing\" before Rosh HaShanah of the third year, the second tithe should be separated from them even though they became fully developed and were gathered in the third year. If, however, they did not reach \"the phase of tithing\" until after Rosh HaShanah of the third year, the tithe for the poor should be separated from them. Similarly, if fruit from trees reaches \"the phase of tithing\" before the fifteenth of Shvat in the third year, it should be tithed according to the previous year and the second tithe should be separated from it even though it became fully developed and was gathered at the end of the third year. Similarly, if it reaches \"the phase of tithing\" before the fifteenth of Shvat in the fourth year, the tithe for the poor should be separated from it even though it became fully developed and was gathered at the end of the fourth year. If it reaches \"the phase of tithing\" after the fifteenth of Shvat, it should be tithed like the produce of the coming year.",
+                      "he": "בְּאֶחָד בְּתִשְׁרֵי הוּא רֹאשׁ הַשָּׁנָה לְמַעֲשַׂר תְּבוּאוֹת וְקִטְנִיּוֹת וִירָקוֹת. וְכָל מָקוֹם שֶׁנֶּאֱמַר רֹאשׁ הַשָּׁנָה הוּא אֶחָד בְּתִשְׁרֵי. וּבְט\"ו בִּשְׁבָט הוּא רֹאשׁ הַשָּׁנָה לְמַעֲשַׂר הָאִילָנוֹת. כֵּיצַד. תְּבוּאָה וְקִטְנִיּוֹת שֶׁהִגִּיעוּ לְעוֹנַת הַמַּעַשְׂרוֹת לִפְנֵי רֹאשׁ הַשָּׁנָה שֶׁל שְׁלִישִׁית אַף עַל פִּי שֶׁנִּגְמְרוּ וְנֶאֶסְפוּ בַּשְּׁלִישִׁית מַפְרִישִׁין מֵהֶן מַעֲשֵׂר שֵׁנִי. וְאִם לֹא בָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת אֶלָּא לְאַחַר רֹאשׁ הַשָּׁנָה שֶׁל שְׁלִישִׁית מַפְרִישִׁין מֵהֶן מַעֲשַׂר עָנִי. וְכֵן פֵּרוֹת הָאִילָן שֶׁבָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת קֹדֶם ט\"ו בִּשְׁבָט שֶׁל שְׁלִישִׁית אַף עַל פִּי שֶׁנִּגְמְרוּ וְנֶאֶסְפוּ אַחַר כֵּן בְּסוֹף שָׁנָה שְׁלִישִׁית מִתְעַשְּׂרִין לְשֶׁעָבַר וּמַפְרִישִׁין מֵהֶן מַעֲשֵׂר שֵׁנִי. וְכֵן אִם בָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת קֹדֶם ט\"ו בִּשְׁבָט שֶׁל רְבִיעִית אַף עַל פִּי שֶׁנִּגְמְרוּ וְנֶאֶסְפוּ בִּרְבִיעִית מַפְרִישִׁין מֵהֶן מַעֲשֵׂר עָנִי. וְאִם בָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת אַחַר ט\"ו בִּשְׁבָט מִתְעַשְּׂרִין לְהַבָּא:",
+                      "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 1:2",
+                      "sourceHeRef": "הלכות מעשר שני ונטע רבעי א:ב",
+                      "sourceRef": "Second Tithes and Fourth Year's Fruit 1:2"
+                    },
+                    {
+                      "en": "Although the laws governing an esrog depend on when it was reaped, when an esrog that grew in the sixth year entered the seventh year, tithes must be separated from it. [This applies] even though it was only an olive size [at the beginning of the Sabbatical year] and became the size of a loaf of bread [during that year].",
+                      "he": "וְאַף עַל פִּי שֶׁהוֹלְכִין אַחַר לְקִיטָתוֹ אֶתְרוֹג בַּת שִׁשִּׁית שֶׁנִּכְנְסָה לַשְּׁבִיעִית אֲפִלּוּ הָיְתָה כְּזַיִת וְנַעֲשֵׂית כְּכִכָּר חַיֶּבֶת בְּמַעַשְׂרוֹת:",
+                      "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 1:6",
+                      "sourceHeRef": "הלכות מעשר שני ונטע רבעי א:ו",
+                      "sourceRef": "Second Tithes and Fourth Year's Fruit 1:6"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "גם אתרוג כמו ירקות גדל על כל מים, שכאשר משקים אותו הוא ממשיך לגדול מעבר לעונתו הטבעית, ולכן שנת המעשר שלו נקבעת לפי זמן לקיטתו. אלא שהואיל והוא עץ, ראש השנה שלו בט\"ו בשבט. אבל דין שאר פירות הדר כדין שאר העצים שהשנה שלהם נקבעת לפי החנטה, הואיל ויש להם עונה קבועה שבה הם גדלים ונקטפים.",
+                      "ref": "Peninei Halakhah, Kashrut 8:5:9",
+                      "sourceHeRef": "כשרות ח:ה:ט",
+                      "sourceRef": "Kashrut 8:5:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "הזמן הקובע לפירות העץ הוא החנטה, שזה הזמן שניתן לאוכלם בשעת הדחק, וזה הזמן שבו הם מתחייבים במעשרות, ונקרא בלשון חכמים שהגיעו לשליש בישולם. נמצא שהפירות שחנטו בשביעית חלה עליהם קדושת שביעית אף שהמשיכו לגדול בשנה השמינית, ואם חנטו בשנה השישית, אף שהמשיכו לגדול בשביעית, אין עליהם קדושת שביעית ומותר לבעל המטע לקטוף אותם כבכל השנים. אמנם מעת שנכנסה השנה השביעית, אסור לבצע מלאכות שמשביחות את העץ וגידול הפירות <span class=\"parenthesized\">(יש סוברים שהחנטה היא תחילת צמיחת הפרי. ודין אתרוג ופירות הדר יבוארו בהערה)</span>.",
+                      "ref": "Peninei Halakhah, Shemitah and Yovel 3:5:2",
+                      "sourceHeRef": "שביעית ויובל ג:ה:ב",
+                      "sourceRef": "Shemitah and Yovel 3:5:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "הירק בשעת לקיטתו עישורו כיצד אם נלקט ביום ר\"ה של שלישית אע\"פ שבא לעונת המעשרות ונגמר בשניה מפרישין ממנו מעשר עני ואם נלקט ברביעית מעשר שני וכן האתרוג בלבד משאר פירות האילן הרי הוא כירק והולכין אחר לקיטתו בין למעשר בין לשביעית כיצד אם נלקט בשלישית אחר ט\"ו בשבט מפרישין ממנו מעשר עני אע\"פ שנגמרה בשניה וכן אם נלקט ברביעית קודם ט\"ו בשבט מפרישין ממנו מעשר עני נלקט בחמישית אחר ט\"ו בשבט מפרישין ממנו מעשר שני ואע\"פ שהולכין אחר לקיטתו אתרוג בת ששית שנכנסה לשביעית אפי' היתה כזית ונעשית כככר חייבת במעשרות:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 331:126",
+              "sourceHeRef": "יורה דעה שלא:קכו - דין נתינתם באיזה מקום וכיצד הכהן מקבלם ואם הם דאורייתא או דרבנן.",
+              "sourceRef": "Yoreh De'ah 331:126"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דתנן</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> במשנה<span class=\"hebrew-emphasis\">]:</span> <b>אתרוג שוה לאילן בשלשה דרכים, ולירק</b> הוא שוה <b>בדרך אחד.</b> כיצד? <b>שוה לאילן בשלשה דרכים: לערלה</b> שבשלוש השנים הראשונות, פירותיו אסורים באכילה כאילן, <b>ול</b>ענין נטע <b>רבעי,</b> שכדין האילן, אף פירותיו בשנה הרביעית צריכים פדיון, <b>ול</b>ענין <b>שביעית</b> לגבי קביעת שנת השמיטה. ובכל שלושת הדינים הללו הזמן הקובע הוא תאריך חנטת האתרוג, כדין פירות האילן. ושווה האתרוג <b>לירק בדרך אחד</b> — <b>שבשעת לקיטתו עישורו</b> שלענין שנות המעשר, אנו הולכים לא אחר חנטת הפרי אלא לאחר לקיטתו, אלו <b>דברי רבן גמליאל.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:ג",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "<i>Tosafot</i> explain that the mishna does not discuss all the ways that an <i>etrog</i> tree is like an ordinary tree. For example, it does not mention that the prohibition of diverse kinds [<i>kilayim</i>]<i> </i>and the obligation to leave produce of the corners [<i>pe’a</i>] apply to both <i>etrog</i> trees and other kinds of trees. It mentions those differences only with regard to the time of the formation of the fruit (see Ran). In his Commentary on the Mishna, the Rambam explains that an <i>etrog</i> tree is like an ordinary tree with regard to the Sabbatical Year, and an orchard of <i>etrog</i> trees is treated like an orchard of fruit trees with regard to the prohibition against cultivating it from the end of the sixth year and with regard to the allowance to water it at the end of the sixth year  (see Ritva).",
+              "he": "בתוספות מפרשים שדבר זה לא נאמר לכל צדדים של דמיון האתרוג לאילן (כגון לענין כלאים או פאה) אלא רק בדברים שיש חלוקה כגון חנטה (וראה גם בר\"נ). אכן בפירוש לרמב\"ם מסביר, שמה שאמרו שדינו כאילן לשביעית הוא לענין שפרדס אתרוגים נחשב כשדה אילן הן לענין עיבודו ערב שביעית, והן לענין היתר השקאתו בערב שביעית אם היה בו כדי שלושה אילנות לבית סאה (ראה בריטב\"א).",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 14b:3",
+              "sourceHeRef": "שָׁוֶה לָאִילָן בִּשְׁלֹשָׁה דְּרָכִים",
+              "sourceRef": "Like a tree in three ways"
+            },
+            {
+              "en": "",
+              "he": "עץ האתרוג (<eng>Citrus medica L.</eng>) נבדל בכמה תכונות מרוב עצי הפרי שהיו מצויים בארץ ישראל בזמן העתיק. אחת מהן היא צורכו של עץ זה (כשאר מיני הדרים שמוצאם מאיזורים טרופיים) להשקאה מתמדת, לפי שאינו מסתפק בגשמי עונת החורף. צד אחר של יחוד שהוא פורח ומוציא פרי כמעט כל השנה כולה, כאשר מצויים על אותו אילן פירות קטנים ופירות בשלים בעת ובעונה אחת. מפני טעמים אלה היה מקום לדמות את האתרוג לירק, שהרי אף הירקות זקוקים להשקאת\u0015עזר מתמדת, ומהם אף ניתנים ללקיטה ואכילה לא בעונה מסויימת קבועה.",
+              "ref": "Steinsaltz comment #2 on Rosh Hashanah 14b:3",
+              "sourceHeRef": "אתרוג",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לרבעי</strong> - הך משנה אתיא כמאן דתני נטע רבעי בריש כ\"מ . <span class=\"parenthesized\">(ברכות דף לה.)</span>:",
+              "ref": "Tosafot on Rosh Hashanah 14b:3:1",
+              "sourceHeRef": "תוספות על ראש השנה י״ד ב:ג:א",
+              "sourceRef": "Tosafot on Rosh Hashanah 14b:3:1"
+            },
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> ולשביעית ירק נמי אית כו' ופי' הר\"ש שם על פי כו' ולר\"ע נמי כו' אע\"ג דנגמר הפירי דהרי כו' כצ\"ל וכל דבריהם אלו הם בפ' לולב הגזול ע\"ש ומה שיש לדקדק על דבריהם תמצא בחידושי הלכות פרק לולב הגזול ע\"ש:",
+                      "ref": "Chidushei Halachot on Rosh Hashanah 14b:1",
+                      "sourceHeRef": "חדושי הלכות על ראש השנה י״ד ב:א",
+                      "sourceRef": "Chidushei Halachot on Rosh Hashanah 14b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולשביעית</strong> - ירק נמי אית ביה שביעית אלא מפרש בירושלמי דביכורים פרק ב' כגון אתרוג בת ששית הנכנסת לשביעית הרי היא לבעלים כאילן בתר חנטה ופטור ממעשר כירק דבתר לקיטה והא דלא תנא שוה לאילן לענין כלאים דלא הוי כלאים בכרם משא\"כ בירק ולענין ר\"ה שלו שבט כאילן כדאמר בשמעתין לא תניא הכא אלא מידי דבהאי אזלי בתר חנטה ובהאי בתר לקיטה וא\"ת אמאי לא אזלינן באתרוג בתר לקיטה לכל דבר כיון שגדל על כל מים כירק למאי דפרישית לעיל דההיא דרשה צריכא בשביעית דאורייתא וי\"ל משום דדרשינן לעיל <span class=\"parenthesized\">(ראש השנה דף י.)</span> גבי ערלה פעמים שברביעית ועדיין אסורין משום ערלה וא\"ת דהכא משמע דאזלינן בירק בתר לקיטה לענין שביעית ובמסכת שביעית <span class=\"parenthesized\">(פ\"ט מ\"א)</span> תנן כל הספיחין מותרין חוץ מספיחי כרוב ופירש הר\"ש שם ע\"פ הירושלמי דאיירי בספיחי ששית הנכנסת לשביעית ומתרץ בהכי ההיא דפרק מקום שנהגו <span class=\"parenthesized\">(פסחים דף נא: ושם)</span> דתניא איפכא כולם אסורין חוץ מספיחי כרוב ונראה לפרש דהא דאמר בירק בתר לקיטה היינו כשלא נגמר גדולם בששית אבל נגמר גדולם בששית שרו בין לר\"ע בין לר' יוסי הגלילי מידי דהוה אבצלים הסריסים דלעיל שמנע מהם מים שלשים יום לפני ר\"ה דאפי' מאן דפליג התם הכא מודה דלר' יוסי הגלילי כיון דנגמר גדולם נמצאו גדילים על מי שנה שעברה ותו לא גדלי על מי שנה הבאה ולר\"ע נמי כיון דתו לא גדלי על כל מים יוצאין מתורת ירקות הגדילים על כל מים כדאמרי' בירושלמי כדמפרש לעיל גבי בצלים דנעשו כשדה הבעל שמסתפקת במי גשמים ומתעשרים לשעבר וכן לעיל <span class=\"parenthesized\">(ראש השנה דף יג:)</span> גבי אורז ודוחן דיהיב להו שמואל דין ירק דבתר לקיטה וקאמר הכל הולך אחר גמר פרי אלמא גמר פרי עיקר אלא דנקט בכל דוכתי לקיטה משום דדרך ללקט בתר גמר פרי והנהו גמרי פריים ביחד אלא שאין מתייבשין ביחד כדאמרי' דעשויין פרכין פרכין ומיהו קשה מאתרוג דבסמוך דאמר הכא באתרוג שחנטו פירותיו קודם ט\"ו דאידך שבט ומשמע משום דמספקא ליה אי אזלינן בתר חנטה באתרוג כר\"א או בתר לקיטה כר\"ג נהג בו שני עישורין אלמא דאזלי' בתר לקיטה אף על גב דנגמר הפרי <span class=\"parenthesized\">(נמי)</span> דהרי חנט בשבט של שנה שעברה ולא נלקט עד שבט אחר ושמא אתרוג חלוק משאר פירות לפי שדרכו לעמוד באילן שתים ושלש שנים וכל זמן שמתקיים באילן גדל בכל שנה ושנה אי נמי אף על פי שחנט בשבט זמנין דאין נגמר גדולו עד שבט אחר וניחא השתא דנקט רבי יוחנן לקמן <span class=\"parenthesized\">(ראש השנה דף טו:)</span> גבי אתרוג אפילו כזית ונעשית ככר כלומר דעל ידי מי שנה הבאה גדילה ומיהו כזית ודאי לאו דוקא דהא ר' יוחנן בתר חנטה אזיל ושמא לא חשיב חנטה באתרוג בפחות מכזית:",
+              "ref": "Tosafot on Rosh Hashanah 14b:3:2",
+              "sourceHeRef": "תוספות על ראש השנה י״ד ב:ג:ב",
+              "sourceRef": "Tosafot on Rosh Hashanah 14b:3:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>As we learned</b> in a mishna: The <b><i>etrog</i></b> tree <b>is like</b> an ordinary <b>tree in three ways and like a vegetable in one way.</b> How so? <b>It is like</b> an ordinary <b>tree in three ways: With regard to <i>orla</i>,</b> that the fruit of the first three years after the tree is planted is forbidden; <b>with regard to fourth-year produce,</b> that the fruit that grows in the fourth year after the tree is planted must be brought to Jerusalem and eaten there or else it must be redeemed; <b>and with regard to the Sabbatical Year,</b> that the year is determined by the time of the formation of its fruit. <b>And</b> the <i>etrog</i> is like <b>a vegetable in one way,</b> which is <b>that its tithe</b> year follows <b>the time of the picking</b> of its fruit; this is <b>the statement of <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span>.</b>",
+      "he": "דִּתְנַן: אֶתְרוֹג שָׁוֶה לָאִילָן בִּשְׁלֹשָׁה דְּרָכִים, וְלַיָּרָק בְּדֶרֶךְ אֶחָד. שָׁוֶה לָאִילָן בִּשְׁלֹשָׁה דְּרָכִים: לְעׇרְלָה וְלִרְבָעִי וְלִשְׁבִיעִית וּלְיָרָק בְּדֶרֶךְ אֶחָד — שֶׁבִּשְׁעַת לְקִיטָתוֹ עִישּׂוּרוֹ, דִּבְרֵי <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">רַבָּן גַּמְלִיאֵל</span>.",
+      "ref": "Rosh Hashanah 14b:3"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' אליעזר אומר: אתרוג שוה לאילן לכל דבר.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:ד",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:4"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> says: The <i>etrog</i> is like</b> fruit of <b>a tree with regard to all matters,</b> and so its tithe year also follows the time of the formation of its fruit. Since <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> was in doubt whether the <i>halakha</i> is ruled in accordance with the opinion of <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> or <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>, he set aside two tithes in order to follow both of their opinions.",
+      "he": "<span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">רַבִּי אֱלִיעֶזֶר</span> אוֹמֵר: אֶתְרוֹג שָׁוֶה לָאִילָן לְכׇל דָּבָר.",
+      "ref": "Rosh Hashanah 14b:4"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara poses a question: <b>But do we adopt the</b> respective <b>stringencies of two</b> authorities who disagree on a series of issues? <b>Wasn’t it taught</b> in a <i>baraita</i>: The <b><i>halakha</i> is always in accordance with</b> the opinion of <b>Beit Hillel, but one who wishes to act in accordance with the opinion of Beit Shammai may do so,</b> and one who wishes to act <b>in accordance with the opinion of Beit Hillel may do so.</b> If he wishes to adopt both <b>the leniencies of Beit Shammai and</b> also <b>the leniencies of Beit Hillel,</b> he is <b>a wicked person.</b> And if he wishes to adopt both <b>the stringencies of Beit Shammai and</b> also <b>the stringencies of Beit Hillel, with regard to him the verse states: “The fool walks in darkness”</b> (Ecclesiastes 2:14). <b>Rather,</b> he should act <b>either in accordance with Beit Shammai,</b> following both <b>their leniencies and their stringencies, or in accordance with Beit Hillel,</b> following both <b>their leniencies and their stringencies.</b>",
+                  "The Gemara first raises a problem concerning the wording of the <i>baraita</i>: The <i>baraita</i> <b>is itself difficult</b> to understand, because it contains an internal contradiction between its clauses: <b>You</b> first <b>said</b> that the <b><i>halakha</i> is always in accordance with</b> the opinion of <b>Beit Hillel, and then you reversed</b> that and <b>said</b> that <b>one who wishes to act in accordance with the view of Beit Shammai may do so.</b>",
+                  "The Gemara answers: This is <b>not difficult. Here,</b> the <i>baraita’s</i> statement that a person may act as he wishes was made <b>before the Divine Voice</b> emerged and announced that the <i>halakha</i> is always in accordance with Beit Hillel; and <b>here,</b> the statement that the <i>halakha</i> is always in accordance with Beit Hillel was made <b>after the Divine Voice</b> issued this ruling.",
+                  "<b>And if you wish, say</b> a different answer: Both <b>this</b> statement <b>and that</b> statement were made <b>after the Divine Voice</b> announced that the <i>halakha</i> is in accordance with Beit Hillel,"
+                ],
+                [
+                  "<b>and</b> the latter statement <b>is</b> in accordance with the opinion of <b>Rabbi Yehoshua, who does not pay attention to a Divine Voice</b> that attempts to intervene in matters of <i>halakha</i>, for according to him, the dispute between Beit Shammai and Beit Hillel has not yet been decided.",
+                  "The Gemara suggests yet another resolution: <b>And if you wish, say</b> instead that <b>this is</b> what the <i>baraita</i> <b>is saying: Wherever you find two <i>tanna’im</i> or two <i>amora’im</i> who disagree with each other in the manner of the disputes between Beit Shammai and Beit Hillel, one should not act either in accordance with the leniency of the</b> one <b>Master and in accordance with the leniency of</b> the other <b>Master,</b> nor should one act <b>in accordance with the stringency of</b> the one <b>Master and in accordance with the stringency of</b> the other <b>Master. Rather, one should act either in accordance with</b> both <b>the leniencies and the stringencies of</b> the one <b>Master, or in accordance with</b> both <b>the leniencies and the stringencies</b> of the other <b>Master.</b>",
+                  "All of this is suggested to explain the wording of the <i>baraita</i>. <b>In any case, it is difficult</b> to explain the law with regard to the alleyway in Neharde’a, concerning which they simultaneously adopted the stringencies of both Rav and Shmuel.",
+                  "<b>Rav Naḥman bar Yitzḥak said:</b> In fact, <b>they acted entirely in accordance with</b> the opinion of <b>Rav,</b> and the reason that they required doors and did not rely on the opening in the form of a doorway alone is due to that <b>which Rav Huna said</b> that <b>Rav said:</b> This is the <b><i>halakha</i>; however, a</b> public <b>ruling is not issued to that effect</b> <i>ab initio</i>. Although Rav maintains that an opening in the form of a doorway is sufficient in an open alleyway, a public ruling is not issued to that effect; rather, the ruling is stringent, in accordance with Ḥananya’s position, and requires doors.",
+                  "The Gemara asks: <b>And according to</b> the statement of <b>Rav Adda bar Ahava</b> that <b>Rav said, as</b> Rav Adda bar Ahava <b>said</b> that Rav said with regard to the same issue: This is the <b><i>halakha</i> and a</b> public <b>ruling is issued to that effect, what can be said?</b> Why did the residents of Neharde’a adopt the stringencies of the two authorities?",
+                  "<b>Rav Sheizvi said:</b> The principle of dictating <b>when we do not act in accordance with the stringencies of two</b> authorities applies only in a case <b>where</b> the two stringencies <b>contradict one another.</b> In these types of cases, following both stringencies would result in an internal contradiction.",
+                  "The Gemara illustrates this principle with <b>an example</b> from the laws governing <b>the spine and skull. As we learned</b> in a mishna: <b>The spine and the skull</b> of a corpse that are <b>incomplete</b> do not impart ritual impurity via a tent as a corpse would; rather, they impart impurity only through contact or if they are carried as individual bones. This basic law was unanimously accepted, but the details were the subject of dispute: <b>How much</b> is considered <b>a deficiency in the spine</b> for this purpose? <b>Beit Shammai say:</b> If it is missing <b>two vertebrae, and Beit Hillel say:</b> Even if it is missing only <b>one vertebra. And</b> similarly, they argued over the deficiency <b>in the skull: Beit Shammai say:</b> It must be missing piece the <b>size of a drill hole, and Beit Hillel say:</b> It must be missing an amount that, <b>when removed from a living</b> person, would cause him <b>to die,</b> which is a larger amount.",
+                  "<b>And Rav Yehuda said</b> that <b>Shmuel said:</b> Beit Shammai and Beit Hillel argued <b>likewise with respect to a <i>tereifa</i>,</b> a kosher animal suffering from a wound or illness that will cause it to die within twelve months, and which is prohibited to be eaten even after the required ritual slaughter. Beit Shammai say that an animal is regarded as a <i>tereifa</i> if it is missing two vertebrae, while Beit Hillel hold that it is a <i>tereifa</i> if it lacks even one. In such a situation, a person must not be stringent with regard to the <i>halakhot</i> of <i>tereifa</i> in accordance with the view of Beit Hillel, and at the same time be stringent with regard to the <i>halakhot</i> of ritual impurity of a corpse in accordance with the view of Beit Shammai, for the two disputes relate to the same issue, and one must not act in accordance with two contradictory opinions.",
+                  "Rav Sheizvi continues: <b>However, in a case where</b> the two stringencies <b>do not contradict one another, we may</b> indeed <b>act</b> in accordance with the stringencies of two authorities. Therefore, the stringencies adopted in the case of the alleyway in Neharde’a were legitimate, for the two stringencies related to two separate issues: Rav’s stringency was that an L-shaped alleyway is regarded like an open alleyway, and Shmuel’s stringency was that an open alleyway requires a door.",
+                  "The Gemara challenges Rav Sheizvi’s assertion: Is it true that <b>we do not act</b> in accordance with the stringencies of two authorities in a case <b>where</b> the two stringencies <b>contradict one another? Rav Mesharshiya raised an objection</b> from a <i>baraita</i>: There was <b>an incident involving Rabbi Akiva, who gathered</b> the fruit of <b>a citron</b> tree <b>on the first of</b> the month of <b>Shevat and applied</b> the laws of <b>two tithes to it.</b> After <i>teruma</i> and the first tithe have been separated, an additional tithe is separated from what is left. During the first, second, fourth, and fifth years of the Sabbatical cycle, second tithe is set aside to be taken to Jerusalem and eaten there by its owner, while during the third and sixth years, poor man’s tithe is set aside to be distributed to the needy. When tithing the fruit picked on the first of Shevat, Rabbi Akiva set aside both additional tithes, second tithe and poor man’s tithe: He set aside <b>one in accordance with the statement of Beit Shammai,</b> who say that the new year for trees begins on the first of Shevat, and as that day belongs to the new year, a tithe must be set aside in accordance with the law of that year; and he set aside <b>one in accordance with the statement of Beit Hillel,</b> that the new year for trees is the fifteenth of Shevat, and any fruit picked prior to that date must be tithed in accordance with the law of the previous year. Apparently, Rabbi Akiva adopted for himself two contradictory stringencies.",
+                  "The Gemara answers: <b>Rabbi Akiva</b> did not act in this way in order to be stringent in accordance with both opinions, but because <b>he was in doubt with regard to his tradition and did not know whether Beit Hillel said</b> the New Year for trees falls <b>on the first of Shevat or on the fifteenth of Shevat, and</b> therefore <b>he acted stringently here and stringently there.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Eruvin 6b:12",
+                "Eruvin 6b:13",
+                "Eruvin 6b:14",
+                "Eruvin 6b:15",
+                "Eruvin 7a:1",
+                "Eruvin 7a:2",
+                "Eruvin 7a:3",
+                "Eruvin 7a:4",
+                "Eruvin 7a:5",
+                "Eruvin 7a:6",
+                "Eruvin 7a:7",
+                "Eruvin 7a:8",
+                "Eruvin 7a:9",
+                "Eruvin 7a:10",
+                "Eruvin 7a:11"
+              ],
+              "he": [
+                [
+                  "וּמִי עָבְדִינַן כִּתְרֵי חוּמְרֵי? וְהָא תַּנְיָא: לְעוֹלָם הֲלָכָה כְּבֵית הִלֵּל, וְהָרוֹצֶה לַעֲשׂוֹת כְּדִבְרֵי בֵּית שַׁמַּאי עוֹשֶׂה, כְּדִבְרֵי בֵּית הִלֵּל עוֹשֶׂה. מִקּוּלֵּי בֵּית שַׁמַּאי וּמִקּוּלֵּי בֵּית הִלֵּל — רָשָׁע. מֵחוּמְרֵי בֵּית שַׁמַּאי וּמֵחוּמְרֵי בֵּית הִלֵּל — עָלָיו הַכָּתוּב אוֹמֵר: ״הַכְּסִיל בְּחֹשֶׁךְ הוֹלֵךְ״. אֶלָּא, אִי כְּבֵית שַׁמַּאי כְּקוּלֵּיהוֹן וּכְחוּמְרֵיהוֹן, אִי כְּבֵית הִלֵּל כְּקוּלֵּיהוֹן וּכְחוּמְרֵיהוֹן.",
+                  "הָא גוּפָא קַשְׁיָא. אָמְרַתְּ: לְעוֹלָם הֲלָכָה כְּבֵית הִלֵּל, וַהֲדַר אָמְרַתְּ: הָרוֹצֶה לַעֲשׂוֹת כְּדִבְרֵי בֵּית שַׁמַּאי עוֹשֶׂה?!",
+                  "לָא קַשְׁיָא: כָּאן — קוֹדֶם בַּת קוֹל. כָּאן — לְאַחַר בַּת קוֹל.",
+                  "וְאִיבָּעֵית אֵימָא: הָא וְהָא — לְאַחַר בַּת קוֹל,"
+                ],
+                [
+                  "וְרַבִּי יְהוֹשֻׁעַ הִיא דְּלָא מַשְׁגַּח בְּבַת קוֹל.",
+                  "וְאִיבָּעֵית אֵימָא, הָכִי קָאָמַר: כׇּל הֵיכָא דְּמַשְׁכַּחַתְּ תְּרֵי תַּנָּאֵי וּתְרֵי אָמוֹרָאֵי דִּפְלִיגִי אַהֲדָדֵי כְּעֵין מַחֲלוֹקֶת בֵּית שַׁמַּאי וּבֵית הִלֵּל — לָא לֶיעְבַּד כִּי קוּלֵּיהּ דְּמָר וְכִי קוּלֵּיהּ דְּמָר, וְלָא כְּחוּמְרֵיהּ דְּמָר וְכִי חוּמְרֵיהּ דְּמָר. אֶלָּא, אוֹ כִּי קוּלֵּיהּ דְּמָר וּכְחוּמְרֵיהּ עָבֵיד, אוֹ כְּקוּלֵּיהּ דְּמָר וּכְחוּמְרֵיהּ עָבֵיד.",
+                  "מִכׇּל מָקוֹם קַשְׁיָא!",
+                  "אָמַר רַב נַחְמָן בַּר יִצְחָק: כּוּלֵּיהּ כְּרַב עַבְדוּהּ. דְּאָמַר רַב הוּנָא אָמַר רַב: הֲלָכָה וְאֵין מוֹרִין כֵּן.",
+                  "וּלְרַב אַדָּא בַּר אַהֲבָה אָמַר רַב, דְּאָמַר: הֲלָכָה וּמוֹרִין כֵּן, מַאי אִיכָּא לְמֵימַר?",
+                  "אָמַר רַב שֵׁיזְבִי: כִּי לָא עָבְדִינַן כְּחוּמְרֵי דְּבֵי תְרֵי — הֵיכָא דְּסָתְרִי אַהֲדָדֵי.",
+                  "כְּגוֹן שִׁדְרָה וְגוּלְגּוֹלֶת. דִּתְנַן: הַשִּׁדְרָה וְהַגּוּלְגּוֹלֶת שֶׁחָסְרוּ — וְכַמָּה חֶסְרוֹן? בַּשִּׁדְרָה, בֵּית שַׁמַּאי אוֹמְרִים: שְׁתֵּי חוּלְיוֹת, וּבֵית הִלֵּל אוֹמְרִים: חוּלְיָא אַחַת. וּבַגּוּלְגּוֹלֶת, בֵּית שַׁמַּאי אוֹמְרִים: כִּמְלֹא מַקְדֵּחַ, וּבֵית הִלֵּל אוֹמְרִים: כְּדֵי שֶׁיִּנָּטֵל מִן הַחַי וְיָמוּת.",
+                  "וְאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: וְכֵן לְעִנְיַן טְרֵיפָה.",
+                  "אֲבָל הֵיכָא דְּלָא סָתְרִי אַהֲדָדֵי עָבְדִינַן.",
+                  "וְהֵיכָא דְּסָתְרִי אַהֲדָדֵי לָא עָבְדִינַן?! מֵתִיב רַב מְשַׁרְשְׁיָא: מַעֲשֶׂה בְּרַבִּי עֲקִיבָא שֶׁלִּיקֵּט אֶתְרוֹג בְּאֶחָד בִּשְׁבָט, וְנָהַג בּוֹ שְׁנֵי עִישּׂוּרִין: אֶחָד כְּדִבְרֵי בֵּית שַׁמַּאי, וְאֶחָד כְּדִבְרֵי בֵּית הִלֵּל?!",
+                  "רַבִּי עֲקִיבָא גְּמָרֵיהּ אִיסְתַּפֵּיק לֵיהּ, וְלָא יְדַע אִי בֵּית הִלֵּל בְּחַד בִּשְׁבָט אֲמוּר, אִי בַּחֲמֵיסַר בִּשְׁבָט אֲמוּר, וַעֲבַד הָכָא לְחוּמְרָא וְהָכָא לְחוּמְרָא."
+                ]
+              ],
+              "link": "/Eruvin/6b",
+              "originalRefsBeforeRewriting": [
+                "Eruvin 6b:12"
+              ],
+              "ref": "Eruvin 6b:12-7a:11",
+              "sourceHeRef": "עירובין ו׳ ב",
+              "sourceRef": "Eruvin 6b"
+            },
+            {
+              "en": [
+                [
+                  "The mishna teaches that if the gullet was perforated, the animal is a <i>tereifa</i>. <b>It was stated:</b> In a case where <b>the entrance [<i>turbatz</i>] of the gullet</b> from the pharynx was perforated, <b>Rav says:</b> The animal is a <i>tereifa</i> if <b>any</b> part of the gullet was perforated. <b>And Shmuel says:</b> It is a <i>tereifa</i> only if <b>its majority</b> was perforated. <b>Rav says:</b> If <b>any</b> part was perforated, because he holds that the entrance of the gullet <b>is a location</b> fit for <b>slaughter</b> and is therefore considered part of the gullet. <b>And Shmuel says:</b> If <b>its majority</b> was perforated, because he holds that <b>it is not a location</b> fit for <b>slaughter</b> and is not considered part of the gullet.",
+                  "The Gemara clarifies: <b>Which</b> area <b>is the entrance of the gullet? Mari bar Mar Ukva said</b> that <b>Shmuel said: All</b> of the area <b>that widens</b> outward <b>when cut</b> along its width, <b>this is the entrance of the gullet;</b> all the area that <b>remains in place when cut, this is the gullet itself. Rav Pappi said to them: Master did not say so. And who is</b> that Master? It is <b>Rav Beivai bar Abaye. Rather,</b> he said that <b>all</b> of the area <b>that remains in place when cut, this is the entrance of the gullet. But which</b> area, then, <b>is the gullet itself?</b> It is <b>all</b> of the area <b>that constricts when cut</b> and closes inward. The Sage <b>Yona says</b> in the name of Rabbi <b>Zeira:</b> The entrance of the gullet is only the area of the <b>throat immediately</b> bordering the gullet. <b>And how much</b> of the throat qualifies as the entrance of the gullet? <b>Rav Avya said: Less than</b> the length of <b>a barley</b> kernel <b>and more than</b> the length of <b>a wheat</b> kernel.",
+                  "The Gemara relates an incident involving <b>a certain bull that belonged to the sons of Rav Ukva, where</b> its <b>slaughter began</b> with a small incision <b>in the entrance of the gullet and concluded</b> in its majority <b>in the gullet. Rava said: I impose upon it the stringencies of Rav and the stringencies of Shmuel, and deem it a <i>tereifa</i>.</b>",
+                  "I impose the <b>stringencies of Rav, as Rav said:</b> The animal is a <i>tereifa</i> if <b>any</b> part of the entrance of the gullet was perforated before slaughter. Such is the case here, since the incision began in the entrance of the gullet. Perhaps one will ask: <b>But doesn’t Rav say</b> that the entrance of the gullet <b>is a location</b> fit for <b>slaughter,</b> in which case the initial incision should be considered the beginning of the act of slaughter? To this I will respond: I hold <b>in accordance with</b> the opinion of <b>Shmuel, who says</b> that it is <b>not a location</b> fit for <b>slaughter.</b> If one asks: <b>If</b> I hold in accordance with the opinion of <b>Shmuel, doesn’t he say:</b> It is a <i>tereifa</i> only if it was perforated <b>in its majority?</b> To this I will respond: I hold <b>in accordance with</b> the opinion of <b>Rav, who says:</b> If <b>any</b> part was perforated. Consequently, I deem the animal a <i>tereifa</i>.",
+                  "The Gemara relates that <b>the matter circulated,</b> and <b>it came before Rabbi Abba,</b> who <b>said to</b> his students: This <b>bull is permitted</b> for consumption, <b>both according to Rav,</b> who holds that the entrance of the gullet is a location fit for slaughter, <b>and according to Shmuel,</b> who holds that it is not a <i>tereifa</i> unless it is perforated in its majority. Therefore, <b>go tell the son of Rav Yosef bar Ḥama,</b> i.e., Rava, <b>that</b> he is <b>to pay the value of the bull to its owner,</b> since he improperly deemed it a <i>tereifa</i>.",
+                  "<b>Mar, son of Ravina, said: I offer a conclusive refutation to the enemies of Rava,</b> a euphemism for Rava himself, from a <i>baraita</i>: <b>The <i>halakha</i></b> is <b>always in accordance with the statement of Beit Hillel, but one who wishes to act in accordance with the statement of Beit Shammai may do so,</b> and one who wishes to act <b>in accordance with the statement of Beit Hillel may do so.</b> But if one wishes to adopt both <b>the leniencies of Beit Shammai and</b> also <b>the leniencies of Beit Hillel, he is a wicked person.</b>"
+                ],
+                [
+                  "And one who wishes to adopt both <b>the stringencies of Beit Shammai and the stringencies of Beit Hillel, with regard to him the verse states: “The fool walks in darkness”</b> (Ecclesiastes 2:14). <b>Rather,</b> one should act <b>either in accordance with Beit Shammai,</b> following both <b>their leniencies and their stringencies, or in accordance with Beit Hillel,</b> following both <b>their leniencies and their stringencies.</b>",
+                  "The Gemara objects to the wording of the <i>baraita</i>: <b>This</b> <i>baraita</i> <b>itself</b> is <b>difficult.</b> First <b>you say</b> that the <b><i>halakha</i></b> is <b>always in accordance with the statement of Beit Hillel, and then</b> you <b>teach</b> that <b>one who wishes to act in accordance with the statement of Beit Shammai may do so.</b>",
+                  "The Gemara responds: This is <b>not difficult. Here,</b> the statement that a person may act as he wishes was made <b>before the Divine Voice</b> emerged and announced that the <i>halakha</i> is always in accordance with Beit Hillel. <b>There,</b> the statement that the <i>halakha</i> is always in accordance with Beit Hillel was made <b>after the Divine Voice</b> issued this ruling.",
+                  "<b>And if you wish, say</b> instead that <b>even</b> the statement that a person may act as he wishes was made <b>after the Divine Voice</b> announced that the <i>halakha</i> is in accordance with Beit Hillel, <b>and</b> this statement <b>is</b> in accordance with the opinion of <b>Rabbi Yehoshua, who says: One disregards a Divine Voice</b> that attempts to intervene in matters of <i>halakha</i>. According to him, the dispute between Beit Shammai and Beit Hillel has not yet been decided.",
+                  "The Gemara notes: <b>In any case,</b> Rava’s ruling is <b>difficult.</b> How could he rule in accordance with two contradictory stringencies in order to deem the animal a <i>tereifa</i>?",
+                  "<b>Rav Tavut said:</b> Rava <b>acted entirely in accordance with</b> the opinion of <b>Rav. As when Rami bar Yeḥezkel came, he said: Do not listen to those principles that</b> Rav <b>Yehuda, my brother, formulated in the name of Rav.</b> Although Rav holds that a perforation of any part of the entrance of the gullet renders an animal a <i>tereifa</i>, this is not because it is a location fit for slaughter. Rather, <b>this</b> is what <b>Rav said: The Sages gave a measure</b> defining the portion of the <b>gullet</b> that is valid for slaughter. <b>By inference,</b> one learns that <b>the entrance of the gullet is not a location</b> fit for <b>slaughter. And</b> nevertheless, <b>he says</b> that a perforation <b>in any amount</b> renders the animal a <i>tereifa</i>.",
+                  "Since it was mentioned that the Sages gave a measure defining the portion of the gullet that is valid for slaughter, the Gemara asks: <b>How far up</b> the gullet is the upper boundary for valid slaughter? <b>Rav Naḥman said:</b> It is <b>until</b> the point that there remains only <b>sufficient</b> space for <b>a hand</b> to <b>grip</b> the gullet. The Gemara asks: <b>How far down</b> is the lower boundary? <b>Rav Naḥman said</b> that <b>Rabba bar Avuh said: Until</b> the gullet <b>becomes hairy,</b> i.e., until the opening of the rumen, whose lining is hairy.",
+                  "The Gemara asks: <b>Is that so? But doesn’t Ravina say</b> that <b>Geneiva says in the name of Rav:</b> The lowermost <b>handbreadth in the gullet, adjacent to the rumen, this is the inner rumen?</b> If so, <b>why</b> does Rav Naḥman permit slaughter until the opening of the rumen? <b>When one slaughters</b> within the bottom handbreadth, <b>he is slaughtering in the rumen,</b> and his slaughter should be invalid.",
+                  "Rather, <b>say</b> that Rav’s statement should be amended, as follows: The uppermost <b>handbreadth in the rumen, adjacent to the gullet, this is the inner rumen,</b> which is not a valid location for slaughter. By contrast, the lowermost handbreadth of the gullet is a valid location for slaughter. And <b>if you wish, say</b> instead that <b>when Rav says</b> that the lowermost handbreadth of the gullet is considered the rumen, he is referring specifically <b>to a bull, which is especially hairy,</b> and hairs appear even within the lowermost handbreadth of the gullet itself. By contrast, in other animals, the entire lower gullet is a valid location for slaughter."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Chullin 43b:10",
+                "Chullin 43b:11",
+                "Chullin 43b:12",
+                "Chullin 43b:13",
+                "Chullin 43b:14",
+                "Chullin 43b:15",
+                "Chullin 44a:1",
+                "Chullin 44a:2",
+                "Chullin 44a:3",
+                "Chullin 44a:4",
+                "Chullin 44a:5",
+                "Chullin 44a:6",
+                "Chullin 44a:7",
+                "Chullin 44a:8",
+                "Chullin 44a:9"
+              ],
+              "he": [
+                [
+                  "איתמר תורבץ הוושט רב אמר במשהו ושמואל אמר ברובו רב אמר במשהו מקום שחיטה הוא ושמואל אמר ברובו לאו מקום שחיטה הוא",
+                  "הי ניהו תורבץ הוושט אמר מרי בר מר עוקבא אמר שמואל כל שחותכו ומרחיב זה הוא תורבץ הוושט חותכו ועומד במקומו זהו וושט עצמו אמר להו רב פפי מר לא אמר הכי ומנו רב ביבי בר אביי אלא כל שחותכו ועומד במקומו זה תורבץ הוושט אלא איזהו וושט עצמו כל שחותכו וכויץ יונה אמר זירא מבלעתא וכמה אמר רב אויא פחות משערתא ועדיף מחיטתא",
+                  "ההוא תורא דהוה לבני רב עוקבא דאתחיל ביה שחיטה בתורבץ הוושט וגמר בוושט אמר רבא רמינא עליה חומרי דרב וחומרי דשמואל וטריפנא ליה",
+                  "חומרי דרב דאמר רב במשהו והאמר רב מקום שחיטה הוא כשמואל דאמר לאו מקום שחיטה הוא אי שמואל האמר ברובו כרב דאמר במשהו",
+                  "איגלגל מילתא מטאי לקמיה דר' אבא אמר להו תורא בין לרב בין לשמואל שרי זילו אמרו ליה לבריה דרב יוסף בר חמא דלשלים דמי תורא למריה",
+                  "אמר מר בריה דרבינא מותבינא תיובתא כלפי סנאיה דרבא לעולם הלכתא כדברי ב\"ה והרוצה לעשות כדברי בית שמאי עושה כדברי בית הלל עושה מקולי בית שמאי ומקולי ב\"ה רשע"
+                ],
+                [
+                  "מחומרי בית שמאי ומחומרי בית הלל עליו הכתוב אומר <span class=\"parenthesized\">(קהלת ב, יד)</span> הכסיל בחושך הולך אלא אי כבית שמאי כקוליהן וכחומריהן אי כבית הלל כקוליהן וכחומריהן",
+                  "הא גופא קשיא אמרת לעולם הלכה כדברי ב\"ה והדר תני והרוצה לעשות כדברי ב\"ש יעשה",
+                  "לא קשיא כאן קודם בת קול כאן לאחר בת קול",
+                  "ואי בעית אימא אף לאחר בת קול ורבי יהושע היא דאמר אין משגיחין בבת קול",
+                  "מכל מקום קשיא",
+                  "אמר רב טבות כולה כרב עבדא דכי אתא רמי בר יחזקאל אמר לא תציתו להו להני כללי דכייל יהודה אחי משמיה דרב הכי אמר רב וושט נתנו [בו] חכמים שיעור מכלל דתורבץ הוושט לאו מקום שחיטה הוא וקאמר במשהו",
+                  "למעלה עד כמה אמר רב נחמן עד כדי תפיסת יד למטה עד כמה אמר רב נחמן אמר רבה בר אבוה עד כדי שישעיר",
+                  "איני והאמר רבינא אמר גניבא משמיה דרב טפח בוושט סמוך לכרס זהו כרס הפנימי אמאי כי קא שחט בכרס קא שחיט",
+                  "אימא טפח בכרס סמוך לוושט זהו כרס הפנימי איבעית אימא כי קאמר רב בתורא דמשעיר טפי"
+                ]
+              ],
+              "link": "/Chullin/43b",
+              "originalRefsBeforeRewriting": [
+                "Chullin 43b:15",
+                "Chullin 44a:1"
+              ],
+              "ref": "Chullin 43b:10-44a:9",
+              "sourceHeRef": "חולין מ״ג ב",
+              "sourceRef": "Chullin 43b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והרוצה לעשות וכו'</strong> - בעלמא <span class=\"parenthesized\">(עירובין ו:)</span> פרכינן סיפא ארישא ומשנינן כאן קודם בת קול כאן לאחר בת קול:",
+              "ref": "Rashi on Rosh Hashanah 14b:5:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ה:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מקולי ב\"ש כו'</strong> - בעירובין מפרש לה במחלוקת אחת שיש מקום שנוטין בה דברי בית שמאי להקל ויש מקום שנוטין בה דברי בית הלל להקל כגון כמה חסרון בשדרה שלא תטמא באהל ב\"ש אומרים ב' חוליות וב\"ה אומרים חוליה אחת וכן לטרפה נמצאו דברי ב\"ש מקילין בטריפה ואומר עד שתחסר שתי חוליות וב\"ה מחמירין בה ומקילין לענין טומאה לומר שכיון שחסרה חוליא אחת אינה מטמאה והאוחז בזו קולי ב\"ש וקולי ב\"ה רשע שהרי דבריו סותרין זה את זה כדי להקל והאוחז בחומרי שניהם כסיל בחשך הולך הוא שאינו יודע להבחין על מי לסמוך אבל בב' מחלוקות שהקילו אלו בזו ואלו בזו אין כאן לא משום רשע ולא משום סכלות דסבירא ליה בהא כב\"ש ובהא כבית הלל:",
+              "ref": "Rashi on Rosh Hashanah 14b:5:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ה:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי כבית שמאי בקוליהון ובחומריהון</strong> - אי לענין טומאה לא חשיב לה חסרון בחוליא אחת לענין טריפה נמי לאו חסרון הוא:",
+              "ref": "Rashi on Rosh Hashanah 14b:5:3",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ה:ג",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:5:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי כב\"ה</strong> - דאמרו חסרון הוא ליחשבה חסרון הכא והכא והך דר\"ע נמי סתרן אהדדי דקא חשיב ליה שניה וקא חשיב ליה שלישית:",
+              "ref": "Rashi on Rosh Hashanah 14b:5:4",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ה:ד",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:5:4"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ומי עבדינן כתרי.</b> פי׳ אדת״ק מקשי׳ דס״ד דבעי למימר דר״ע בעי למעבד חדא כב״ש וחדא כב״ה ואע״ג דסתרן אהדדי והיינו דפרכינן ליה מהא דתנינן שהעושה כחומרי ב״ש וכחומרי [ב״ה] עליו הכתוב אומר והכסיל בחשך הולך ואוקמינא בעירובין בתרתי דסתרי אהדדי כגון חסרון שדרה וגלגלת לענין טומאה ולענין טריפה וכדפרש״י וה״נ כשאנו דנין באתרוג דין שניה ודין שלישית תרתי דסתרן אהדדי הוא. ופרקי׳ דר״ע מספקא ליה סברא דב״ה ועביד תרתי כי היכא דלעבד כב״ה ממה נפשך אבל בדר׳ יוסי בר יהודא לא חשיב סתרן אהדדי דהא אלו רצה הכתוב אפשר הוא לשניהם להיות בשנה אחת שאין האחד הפך חבירו ודוק שכן פרש״י ז״ל. והא דאמרינן לעולם הלכה כב״ה והרוצה לעשות כדברי ב״ש עושה אוקמי׳ התם כאן קודם בת קול כאן לאחר בת קול א״נ כר׳ יהושע דאמר אין משגיחין בבת קול דאע״ג דב״ה נפישי טפי ב״ש מחדדי טפי וכדאיתא בפ״ק דיבמות ואמר הרוצה לעשות כב״ש עושה ואע״ג דמאי דהוה הוה לאשמועינן בכל כיוצא בהן בשני בתי דינין דעלמא דהני נפישי והני מחדדי כנ״ל. ופרכינן אדר׳ יוסי בר יהודא באחד בשבט כב״ש ופרקינן דהכא באתרוג שחנטו פירותיו אשתקד קודם ט״ו בשבט שהיתה שנה שניה ועכשיו נלקטו בא׳ בשבט שהיא עדיין שנה שלישית אליבא דב״ה דהלכתא כב״ה ולהכי מספקא ליה אי אזלינן בתר חנטה כר׳ אליעזר או בתר לקיטה כר״ג ובדין הוא דה״ל האי ספיקא בכל החדשים שעברו מט״ו בשבט שעבר עד עכשיו אלא דמעשה שהי׳ כך היה:",
+              "ref": "Ritva on Rosh Hashanah 14b:3",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ד ב:ג",
+              "sourceRef": "Ritva on Rosh Hashanah 14b:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "לפני שבאים לדון בפרטים תוהים על עיקרו של המעשה: <b>ומי עבדינן כתרי חומרי</b> <span class=\"hebrew-emphasis\">[והאם עושים,</span> נוהגים <span class=\"hebrew-emphasis\">אנו כשתי חומרות]</span> הסותרות זו את זו? <b>והתניא</b> <span class=\"hebrew-emphasis\">[הרי שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]:</span> <b>לעולם הלכה כדברי בית הלל, ו</b>אולם <b>הרוצה לעשות כדברי בית שמאי</b> — <b>עושה,</b> ואם רוצה לעשות <b>כדברי בית הלל</b> — <b>עושה.</b> אולם, אם הוא עושה <b>מקולי בית שמאי ומקולי בית הלל</b> יחד — הרי זה <b>רשע,</b> ואם הוא עושה <b>מחומרי בית שמאי ומחומרי בית הלל</b> — <b>עליו הכתוב אומר \"והכסיל בחשך הולך\"</b> (קהלת ב, יד). <b>אלא</b> ינהג <b>אי</b> <span class=\"hebrew-emphasis\">[או]</span> <b>כבית שמאי בקוליהון ובחומריהון</b> <span class=\"hebrew-emphasis\">[בקולותיהם ובחומרותיהם],</span> או <b>כבית הלל בקוליהון ובחומריהון</b> <span class=\"hebrew-emphasis\">[בקולותיהם ובחומרותיהם].</span> ואם כן, כיצד זה נהג ר' עקיבא כשתי החומרות?",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:ה",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Rashi cites tractate <i>Eiruvin</i> (<i>daf </i>6b) with regard to the latter part of this statement. He explains that the permission to follow either Beit Hillel or Beit Shammai as long as one is consistent predates the establishment that the <i>halakha</i> is always in accordance with Beit Hillel. The first part of the statement, that the <i>halakha</i> is always in accordance with Beit Hillel, is referring to a later date, when the <i>halakha</i> had been determined to be in accordance with Beit Hillel. The Ritva writes that the latter section is mentioned, despite the fact that nowadays one may not act in accordance with the opinion of Beit Shammai, because it applies to similar disputes in any period. If the majority of the Sages hold a certain opinion, but those who disagree are more incisive in their logic, as were Beit Shammai, one is permitted to decide for himself which opinion to follow.",
+              "he": "רש\"י מביא את המוסבר במסכת עירובין, שהקטע הראשון היא לאחר שנפסקה הלכה כבית הלל, והשני היא משנה ראשונה, קודם שנפסקה הלכה כשיטתם. וכתב הריטב\"א שהובאו גם דברים אחרונים אלה אף שבימינו אין לנהוג כבית שמאי, מכל מקום אפשר ללמוד מכאן למחלוקות דומות בכל זמן, שאם יש דעת רוב החכמים מצד אחד, והחולקים מצד שני הם חריפים יותר (כפי שהיו בית שמאי) מותר לאדם לבחור באיזו שיטה ינהג.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 14b:5",
+              "sourceHeRef": "לְעוֹלָם הַלָכָה כְּדִבְרֵי בֵית הִלֵּל",
+              "sourceRef": "The <i>halakha</i> is always in accordance with the statement of Beit Hillel"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכסיל בחשך הולך</strong> - אפילו יודע כמאן הלכה ומחמיר על עצמו ולא בעי לשנויי דר\"ע מספקא ליה הלכתא כמאן ועבד לחומרא דמסתמא יודע היה דהלכה כב\"ה:",
+              "ref": "Tosafot on Rosh Hashanah 14b:5:1",
+              "sourceHeRef": "תוספות על ראש השנה י״ד ב:ה:א",
+              "sourceRef": "Tosafot on Rosh Hashanah 14b:5:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מעשה באנשי ירושלם שהיו משלשלין מטותיהן בחלונות שגבוהין עשרה טפחים, ומסככין על גביהן, וישנין תחתיהן. פסל היוצא מן הסוכה נדון כסוכה. שומרי העיר ביום, פטורין מן הסוכה ביום, וחייבין בלילה, שומרי העיר בלילה, פטורין בלילה, וחייבין ביום. שומרי העיר בין ביום בין בלילה, פטורין בין ביום ובין בלילה. הולכי דרכים פטורין מן הסוכה ביום, וחייבין בלילה. שומרי גנות ופרדסין פטורין בלילה, וחייבין ביום. אמ' ר' לעזר בי ר' צדוק כשהייתי למד אצל יוחנן בן החרנית ראיתיו שהוא אוכל פת חריבה, שהיו שני בצרות, באתי ואמרתי לאבא, ואמ' לי הילך זיתים לו, הולכתי לו זיתים, נטלן והסתכל בהן וראן שהן לחין, אמ' איני אוכל זיתים. באתי ואמרתי לאבא, אמ' לי לך אמור לו, מנוקבת היתה כדברי בית הלל, אלא שסתמוה שמרים, להודיעך שהיה אוכל חוליו בטהרה, שאע\"פ שהוא מתלמידי בית שמיי לא היה נוהג אלא כדברי בית הלל. לעולם הלכה כדברי בית הלל, הרוצה להחמי' על עצמו לנהוג כדברי בית שמיי וכדברי בית הלל על זה נאמ' והכסיל בחשך ילך. התופס קולי בית שמיי וקולי בית הלל, רשע, אלא אם כדברי בית שמיי כקוליהן וכחומריהן אם כדברי בית הלל כקוליהן וכחומריהן.",
+              "ref": "Tosefta Sukkah (Lieberman) 2:3",
+              "sourceHeRef": "תוספתא סוכה (ליברמן) ב:ג",
+              "sourceRef": "Tosefta Sukkah (Lieberman) 2:3"
+            },
+            {
+              "en": "Said Rabbi Eliezer ben Rabbi Zadok: When I was studying Torah with Rabbi Yohanan the Horohite, I observed him eating his bread dry, for those were years of scarcity. I went and told my father, who said to me: Take him some olives. So I took some to him. He took them and looked at them; but when he saw that they were moist he said to me, I do not eat moist olives. So I went and told my father, who said to me, go and tell him that the olive (bottle) is perforated according to the laws of the school of Hillel, but the lees have stopped it up, to show that one may eat profane things from no impure motive. So though he was a disciple of the school of Shammai he was guided by the opinions of the school of Hillel.",
+              "he": "אמר רבי אלעזר ברבי צדוק כשהייתי למד [אצל יוחנן בן החרבית ראיתיו שהוא אוכל פת חרבה שהיו שני בצורת באתי ואמרתי לאבא ואמר לי הילך זיתים הולכתי לו זיתים ונטלן והסתכל בהן וראה שהן לחין אמר איני אוכל זיתים לחין באתי ואמרתי לאבא אמר לי לך אמור לו מנוקבת היתה כדברי בית הלל אלא שסתמוה שמרים להודיעך שהיה אוכל חולין בטהרה שאע\"פ שהוא מתלמידי בית שמאי לא היה נוהג אלא כדברי ב\"ה לעולם הלכה כדברי ב\"ה הרוצה להחמיר על עצמו לנהוג כדברי ב\"ש וכדברי ב\"ה עליו נאמר <span class=\"parenthesized\">(קהלת ב׳:י״ד)</span> הכסיל בחושך הולך התופס קולי ב\"ה וקולי ב\"ש הרי זה רשע אלא כדברי ב\"ש בקוליהון ובחומריהון או כדברי ב\"ה בקוליהון ובחומריהון].",
+              "ref": "Tosefta Sukkah 2:4",
+              "sourceHeRef": "תוספתא סוכה ב:ד",
+              "sourceRef": "Tosefta Sukkah 2:4"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "A wise man has his eyes in his head,<br>Whereas a fool walks in darkness.<br>But I also realized that the same fate awaits them both.",
+              "he": "הֶֽחָכָם֙ עֵינָ֣יו בְּרֹאשׁ֔וֹ וְהַכְּסִ֖יל בַּחֹ֣שֶׁךְ הוֹלֵ֑ךְ וְיָדַ֣עְתִּי גַם־אָ֔נִי שֶׁמִּקְרֶ֥ה אֶחָ֖ד יִקְרֶ֥ה אֶת־כֻּלָּֽם׃",
+              "link": "/Ecclesiastes/2",
+              "ref": "Ecclesiastes 2:14",
+              "sourceHeRef": "קהלת ב:יד",
+              "sourceRef": "Ecclesiastes 2:14"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara questions <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>’s conduct: <b>But do we adopt the</b> respective <b>stringencies of two</b> authorities who disagree on a series of issues? <b>Isn’t it taught</b> in a <i>baraita</i>: The <b><i>halakha</i> is always in accordance with the statement of <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>, but one who wishes to act in accordance with the statement of <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> may do so,</b> and one who wishes to act <b>in accordance with the statement of <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> may do so.</b> If he adopts both <b>the leniencies of <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and</b> also <b>the leniencies of <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>,</b> he is <b>a wicked person.</b> And if he adopts both <b>the stringencies of <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and the stringencies of <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>, with regard to him the verse states: “The fool walks in darkness”</b> (Ecclesiastes 2:14). <b>Rather,</b> one should act <b>either in accordance with <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span>,</b> following both <b>their leniencies and their stringencies, or in accordance with <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>,</b> following both <b>their leniencies and their stringencies.</b> If so, why did <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> follow two contradictory stringencies?",
+      "he": "וּמִי עָבְדִינַן כִּתְרֵי חוּמְרֵי? וְהָתַנְיָא: לְעוֹלָם הֲלָכָה כְּדִבְרֵי <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">בֵּית הִלֵּל</span>, וְהָרוֹצֶה לַעֲשׂוֹת כְּדִבְרֵי <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">בֵּית שַׁמַּאי</span> — עוֹשֶׂה. כְּדִבְרֵי <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">בֵּית הִלֵּל</span> — עוֹשֶׂה. מִקּוּלֵּי <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">בֵּית שַׁמַּאי</span> וּמִקּוּלֵּי <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">בֵּית הִלֵּל</span> — רָשָׁע. מֵחוּמְרֵי <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">בֵּית שַׁמַּאי</span> וּמֵחוּמְרֵי <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">בֵּית הִלֵּל</span> — עָלָיו הַכָּתוּב אוֹמֵר: ״וְהַכְּסִיל בַּחֹשֶׁךְ הוֹלֵךְ״. אֶלָּא: אִי <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">כְּבֵית שַׁמַּאי</span> — בְּקוּלֵּיהוֹן וּבְחוּמְרֵיהוֹן. אִי <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">כְּבֵית הִלֵּל</span> — בְּקוּלֵּיהוֹן וּבְחוּמְרֵיהוֹן.",
+      "ref": "Rosh Hashanah 14b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גמרא אסתפק ליה וכו'</strong> - כב\"ה בעא למעבד:",
+              "ref": "Rashi on Rosh Hashanah 14b:6:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ו:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>ר' עקיבא גמריה אסתפק ליה</b> <span class=\"hebrew-emphasis\">[לימודו הסתפק לו]</span> <b>ולא ידע</b> מה היא שיטת בית הלל, <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> <b>בית הלל באחד בשבט אומר, אי</b> <span class=\"hebrew-emphasis\">[אם]</span> <b>בחמישה עשר בשבט אומר,</b> ומשום כך נהג כשתי השיטות, אבל בעצם רצה לנהוג כדעת בית הלל.",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:ו",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The same question about following two stringencies can be asked with regard to Rabbi Yosei bar Yehuda’s explanation of Rabbi Akiva’s behavior as well. Why didn’t the Gemara explain how Rabbi Akiva could follow the stringencies of both Rabban Gamliel and Rabbi Eliezer? The author of the <i>Turei Even</i> answers that since Rabbi Eliezer was a follower of Beit Shammai, the same answer with regard to Rabbi Akiva’s uncertainty as  to Beit Hillel’s opinion applies to Rabbi Yosei bar Yehuda’s explanation as well. The Ritva writes that the question does not arise in Rabbi Yosei bar Yehuda’s explanation. The opinions of  Beit Shammai and Beit Hillel comprise two contradictory stringencies, whereas the opinions of Rabbi Eliezer and Rabban Gamliel are not contradictory, and it is possible for both opinions to be valid, one for tithes and the other for the Sabbatical  Year.",
+              "he": "ושואלים: הלא שאלה זו על ר' עקיבא שנהג כתרי חומרי היא גם על ר' יוסי בר' יהודה, ומדוע לא תירצו כן גם לשיטתו? ויש מי שכותב, שכיון שידוע שר' אליעזר הוא שמותי (מחזיק בדעות בית שמאי) ממילא דברים שאמרו בענין מחלוקת בית שמאי ובית הלל שייכים גם לדבריו (טו\"א). והריטב\"א כתב שאין הדברים דומים, כי בדברי בית שמאי ובית הלל יש כאן תרי חומרי הסותרים זה את זה, ואילו דברי ר' אליעזר ורבן גמליאל אינם סתירה מהותית, שהרי יתכן שיהו שני הדינים קיימים (וכפי שאכן עושים לענין מעשר ושביעית, ראה להלן).",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 14b:6",
+              "sourceHeRef": "גְּמָרֵיהּ אִסְתַּפַּק לֵיהּ",
+              "sourceRef": "He was in doubt about his tradition"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span></b> wished to act in accordance with the opinion of <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>, but he <b>was in doubt about his tradition and did not know whether <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span> said</b> that the new year for trees is <b>on the first of Shevat or</b> whether they <b>said</b> that it is <b>on the fifteenth of Shevat,</b> and so he set aside two tithes in order to conform with both possibilities.",
+      "he": "<span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">רַבִּי עֲקִיבָא</span> גְּמָרֵיהּ אִסְתַּפַּק לֵיהּ, וְלָא יְדַע אִי <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">בֵּית הִלֵּל</span> בְּאֶחָד בִּשְׁבָט אוֹמֵר, אִי בַּחֲמִשָּׁה עָשָׂר בִּשְׁבָט אוֹמֵר.",
+      "ref": "Rosh Hashanah 14b:6"
+    },
+    {
+      "commentary": {
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "א\"ר יוסי ב\"ר אבין תיפתר שנחנטו פירותיו קודם ט\"ו בשבט של שנה שניה ונכנסה שלישית על דעתיה דר\"ג מעשר עני על דעתיה דר\"א מעשר שני. מה עשה עישר וקראו מע\"ש ופדאו ונתנו לעניים:<br>",
+              "ref": "Rabbeinu Chananel on Rosh Hashanah 14b:2",
+              "sourceHeRef": "רבינו חננאל על מסכת ראש השנה י״ד ב:ב",
+              "sourceRef": "Rabbeinu Chananel on Rosh Hashanah 14b:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כב\"ש נהג בה</strong> - לר' יוסי בר יהודה דאמר משום דנהג בה מנהג רבן גמליאל עישרה במעשר עני כדין שלישית א\"כ כב\"ש ס\"ל דנתחדשה שנה היום דאי כב\"ה לקיטתה וחנטתה בשנה אחת הוה:",
+              "ref": "Rashi on Rosh Hashanah 14b:7:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ז:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומבררים עוד את הברייתא: <b>ר' יוסי בר יהודה אומר: לא מנהג בית שמאי ובית הלל נהג בה אלא מנהג רבן גמליאל ור' אליעזר נהג בה.</b> ותוהים: אם כן, מאחר שעשה זאת <b>באחד בשבט</b> משמע ש<b>כבית שמאי נהג בה,</b> שהרי לדעת בית הלל אחד בשבט שייך בבירור לשנה שעברה, ואף אם חשש לדעת ר' אליעזר לא היה צריך להפריש מעשר נוסף!",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:ז",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara further clarifies the <i>baraita</i>, which states: <b><span href=\"/topics/rabbi-yose-b-yehudah\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-yehudah\">Rabbi Yosei bar Yehuda</span> says: He did not act</b> as he did in order to conform <b>with the</b> conflicting <b>practices of <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>; rather, he acted</b> as he did in order to conform <b>with the</b> conflicting <b>practices of <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> and <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>.</b> The Gemara asks: Seeing that he did this <b>on the first of Shevat,</b> it would seem that <b>he acted in accordance with</b> the practice of <b><span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span>.</b> According to <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>, both the formation of the fruit and its picking took place in the same year, as the new year does not begin until the fifteenth of Shevat, and so there would have been no need to set aside two tithes.",
+      "he": "<span href=\"/topics/rabbi-yose-b-yehudah\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-yehudah\">רַבִּי יוֹסֵי בַּר יְהוּדָה</span> אוֹמֵר: לֹא מִנְהַג <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">בֵּית שַׁמַּאי</span> <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">וּבֵית הִלֵּל</span> נָהַג בָּהּ, אֶלָּא מִנְהַג <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">רַבָּן גַּמְלִיאֵל</span> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">וְרַבִּי אֱלִיעֶזֶר</span> נָהַג בָּהּ. בְּאֶחָד בִּשְׁבָט — <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">כְּבֵית שַׁמַּאי</span> נָהַג בָּהּ!",
+      "ref": "Rosh Hashanah 14b:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">חָנַט</strong> (Biblical Hebrew) <br><b>1)</b> <i>to assume shape, form a texture;</i> (of trees) <i>to show a distinct shape of fruits, to form fruits;</i> (of fruits and leaves) <i>to assume a distinct shape</i> (see <span class=\"refLink\" data-ref=\"Jastrow, חֲנָטָה 1\" dir=\"rtl\" href=\"/Jastrow,_חֲנָטָה.1\">חֲנָטָה</span>). <span class=\"refLink\" data-ref=\"Rosh Hashanah 14b:8\" href=\"/Rosh_Hashanah.14b.8\">Rosh Hashanah 14ᵇ</span> אתרוג שחָנְטוּ פירותיו Manuscript Munich (ed. <span dir=\"rtl\">פירותיה</span>) an Ethrog-tree whose fruits were formed before the fifteenth of Shebat. <span class=\"refLink\" data-ref=\"Rosh Hashanah 14b\" href=\"/Rosh_Hashanah.14b\">Ib.</span> <span dir=\"rtl\">אילן שחנטו וכ׳</span> a tree whose fruits &c. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sheviit 5:1:3\" href=\"Jerusalem_Talmud_Sheviit.5.1.3\">Yerushalmi Sheviit V, beginning 35ᵈ</span> <span dir=\"rtl\">אילן שח׳</span> a tree which formed fruits. <span class=\"refLink\" data-ref=\"Tosefta Shevi'it 4:20\" href=\"/Tosefta_Shevi'it.4.20\">Tosefta Sheviit IV, 20</span>; and from <br><b><br>—2)</b> [<i>to be handsome;</i> (Arab.) <i>to be red</i>,] <i>to make handsome</i>, or <i>flagrant</i>, especially <i>toembalm</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 100:3\" href=\"/Bereishit_Rabbah.100.3\">Breishit Rabbah section (Parashah) 100</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, חָנַט 1",
+              "sourceHeRef": "מילון יסטרוב, חָנַט א׳",
+              "sourceRef": "Jastrow, חָנַט 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאידך שבט</strong> - דאשתקד שהאתרוג דר באילנו שתים ושלש שנים ובט\"ו בשבט דאשתקד נכנסה שנה שלישית ועדיין לא יצאת שלישית נמצאת שחנטה בשניה ונלקטה בשלישית:",
+              "ref": "Rashi on Rosh Hashanah 14b:8:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ח:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ובדין הוא</strong> - דאם לקטה קודם לכן או בכסליו או בטבת נמי הוה נוהג בה ב' עישורין משום מנהג ר\"ג ור\"א:",
+              "ref": "Rashi on Rosh Hashanah 14b:8:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ח:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:8:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא מעשה שהיה</strong> - בא' בשבט היה:",
+              "ref": "Rashi on Rosh Hashanah 14b:8:3",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ח:ג",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:8:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ר' חנינא ואיתימא</b> <span class=\"hebrew-emphasis\">[ויש אומרים]</span> שאמר זאת <b>ר' חנניא: הכא</b> <span class=\"hebrew-emphasis\">[כאן]</span> מדובר <b>באתרוג שחנטו פירותיו קודם חמישה עשר דאידך שבט עסקינן</b> <span class=\"hebrew-emphasis\">[של שבט האחר</span> בשנה שעברה, <span class=\"hebrew-emphasis\">עוסקים אנו]</span> ואם כן מצד זמן החנטה ברור שאותו אתרוג שייך לשנה השניה, אלא שחשש ר' עקיבא לדעת רבן גמליאל ההולך אחר הלקיטה, ולקיטה זו הרי היתה בשלישית. <b>ובדין הוא אפילו קודם לכן</b> שבעצם לא היה ספק זה תלוי באחד בשבט דווקא וגם אם היה קוטפם זמן רב קודם לכן היה ספק זה קיים אלא <b>מעשה שהיה כך היה</b> שנזדמן הדבר באחד בשבט.",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:ח",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מכל פירות האילן אתרוג בלבד דינו כירק, והולכים אחר לקיטתו לענין מעשר ושביעית. אלא שלענין שביעית מחמירים באתרוג; שאתרוג שכבר חנט בשישית, אף על פי שנלקט בשביעית, חייב בהפרשת מעשרות. (שו\"ע יו\"ד שלא, קכו).",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 14b:8",
+              "sourceHeRef": "דין אתרוג",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span> said, and some say</b> that it was <b><span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"rabbi-ananya-(ambiguous)\">Rabbi Ḥananya</span></b> who said: <b>Here we are dealing with an <i>etrog</i></b> tree <b>whose fruit was formed prior to the fifteenth of the other,</b> previous, <b>Shevat,</b> in the second year, and it was picked on the first of the following Shevat, in the third year. According to the opinion of <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> that the tithe year of an <i>etrog</i> follows the time of the formation of its fruit, the fruit was obligated in second tithe, whereas according to the opinion of <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> that the tithe year of an <i>etrog</i> follows the time of its picking, it was obligated in poor man’s tithe, and so <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> set aside two tithes. <b>And by right it</b> should have taught that <b>even</b> if the fruit had been picked <b>earlier,</b> any time after the fifteenth of the previous Shevat, <b>but the incident that took place, took place in this way,</b> that the fruit was picked on the first of Shevat.",
+      "he": "אָמַר <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">רַבִּי חֲנִינָא</span> וְאִיתֵּימָא <span href=\"/topics/rabbi-hananyah\" class=\"namedEntityLink\" data-slug=\"rabbi-hananyah\">רַבִּי חֲנַנְיָא</span>: הָכָא בְּאֶתְרוֹג שֶׁחָנְטוּ פֵּירוֹתָיו קוֹדֶם חֲמִשָּׁה עָשָׂר דְּאִידַּךְ שְׁבָט עָסְקִינַן. וּבְדִין הוּא אֲפִילּוּ קוֹדֶם לָכֵן, וּמַעֲשֶׂה שֶׁהָיָה כָּךְ הָיָה.",
+      "ref": "Rosh Hashanah 14b:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כרוך ותני</strong> - כפול את דברי ר' יוסי ושנה בה שתי מחלוקות:",
+              "ref": "Rashi on Rosh Hashanah 14b:9:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ט:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא אחד בשבט היה</strong> - שאין בה חידוש שנה:",
+              "ref": "Rashi on Rosh Hashanah 14b:9:2",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ט:ב",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא ט\"ו בשבט היה</strong> - לדברי הכל נתחדשה שנה:",
+              "ref": "Rashi on Rosh Hashanah 14b:9:3",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:ט:ג",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:9:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רבינא אמר כרוך ותני.</b> כלומר הוסף בדברי ר׳ יוסי וכפול המחלוקת בינו ובין ת״ק וכן פרש״י וזה מן הלשונות שבתלמוד שפירושו מתחלף דבעלמא לא אמרינן הכא היכא דבעי לאוסופי לישנא על מתניתא אלא בתרי בבי דעבדי׳ מיניהו חדא בבא:",
+              "ref": "Ritva on Rosh Hashanah 14b:4",
+              "sourceHeRef": "ריטב\"א על ראש השנה י״ד ב:ד",
+              "sourceRef": "Ritva on Rosh Hashanah 14b:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רבינא אמר: כרוך ותני</b> <span class=\"hebrew-emphasis\">[ושנה]</span> ותקן את הגירסה בנוסח זה: <b>לא אחד בשבט היה אלא חמישה עשר בשבט היה, ולא מנהג בית שמאי ובית הלל נהג בה אלא מנהג רבן גמליאל ור' אליעזר נהג בה</b> ולפי שיטת בית הלל.",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:ט",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Ritva notes that the phrase: Combine and teach, usually means: Combine the two statements to form a single ruling. Here, however, the expression has a different meaning: Add to and thereby complete the statement of Rabbi Yosei bar Yehuda. See also the Jerusalem Talmud, where the added words are brought not as an addition but as an explanation.",
+              "he": "והריטב\"א מעיר, שלשון \"כרוך ותני\" פירושה כרגיל: צירוף שני משפטים להלכה אחת, ואילו כאן יש לביטוי פירוש אחר, שיש להוסיף ולהשלים דברים בדברי ר' יוסי בר' יהודה. וראה בתלמוד הירושלמי שתוספת זו מובאת לא כהוספת דברים, אלא כפירוש בלבד.",
+              "ref": "Steinsaltz comment #1 on Rosh Hashanah 14b:9",
+              "sourceHeRef": "כְּרוֹךְ וּתְנֵי",
+              "sourceRef": "Combine and teach"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span> said: Combine</b> the two statements <b>and teach</b> the <i>baraita</i> as follows: <b>It was not on the first of Shevat</b> that <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> picked the fruit, <b>but on the fifteenth of Shevat, and he did not act</b> as he did in order to conform <b>with the</b> conflicting <b>practices</b> of <b><span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">Beit Shammai</span> and <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>, but rather, he acted</b> as he did in order to conform <b>with the</b> conflicting <b>practices</b> of <b><span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> and <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>,</b> both in accordance with the practice of <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">Beit Hillel</span>.",
+      "he": "<span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">רָבִינָא</span> אָמַר, כְּרוֹךְ וּתְנִי: לֹא אֶחָד בִּשְׁבָט הָיָה — אֶלָּא חֲמִשָּׁה עָשָׂר בִּשְׁבָט הָיָה, וְלֹא מִנְהַג <span href=\"/topics/beit-shammai\" class=\"namedEntityLink\" data-slug=\"beit-shammai\">בֵּית שַׁמַּאי</span> <span href=\"/topics/beit-hillel\" class=\"namedEntityLink\" data-slug=\"beit-hillel\">וּבֵית הִלֵּל</span> נָהַג בָּהּ — אֶלָּא מִנְהַג <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">רַבָּן גַּמְלִיאֵל</span> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">וְרַבִּי אֱלִיעֶזֶר</span> נָהַג בָּהּ.",
+      "ref": "Rosh Hashanah 14b:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ר\"ה שלו תשרי</strong> - כדין ירק ולענין מעשר קאמר:",
+              "ref": "Rashi on Rosh Hashanah 14b:10:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:י:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> לעצם דין עישור האתרוג <b>אמר רבה בר רב הונא: השתא</b> <span class=\"hebrew-emphasis\">[עכשיו]</span> ש<b>אמר רבן גמליאל</b> כי <b>אתרוג אחר לקיטתו עישורו כירק,</b> יש לומר ש<b>ראש השנה שלו</b> לגבי מנין שנות המעשר הוא <b>תשרי</b> כמו שאר הירקות, וכפי ששנינו שאחד בתשרי הוא ראש השנה למעשר ירקות.",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:י",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:10"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbah-b-rav-huna\" class=\"namedEntityLink\" data-slug=\"rabbah-b-rav-huna\">Rabba bar Rav Huna</span> said: Now that <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> has said</b> that <b>the tithe</b> year <b>of an <i>etrog</i></b> follows <b>the time of the picking</b> of its fruit, <b>like a vegetable, its new year</b> for tithing <b>is Tishrei,</b> like other vegetables.",
+      "he": "אָמַר <span href=\"/topics/rabbah-b-rav-huna\" class=\"namedEntityLink\" data-slug=\"rabbah-b-rav-huna\">רַבָּה בַּר רַב הוּנָא</span>: הַשְׁתָּא דְּאָמַר <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">רַבָּן גַּמְלִיאֵל</span> אֶתְרוֹג אַחַר לְקִיטָתוֹ עִישּׂוּרוֹ כְּיָרָק, רֹאשׁ הַשָּׁנָה שֶׁלּוֹ תִּשְׁרִי.",
+      "ref": "Rosh Hashanah 14b:10",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "(Bamidbar 18:26) \"And to the Levites shall you speak, and you shall say to them: When you take from the children of Israel the tithe (ma'aser) that I have given to you from their inheritance, (then you shall separate from it the terumah of the L-rd, ma'aser from the ma'aser.\") Why is this written? To teach that (Ibid. 21) \"And to the sons of Levi, behold, I have given every tithe\" speaks of (one-tenth of) the produce (of the land, and not of [one-tenth of] the land itself.) You say, the produce, but perhaps (the reference is to) the land (itself)! It is, therefore, written (26) \"And to the Levites you shall speak and you shall say to them (… that I have given to you from them in their inheritance\"). \"that I have given to you from them in their inheritance\": Because they have not been given a portion in the land, there has been given to them one-tenth of the produce. \"then you shall separate from it\": From one kind (of produce) for its kind, and not from one kind for a different kind, and not from what is rooted for what is unrooted, and not from what is unrooted for what is rooted, and not from the new (crop) for the old, and not from the old for the new. And whence is it derived that one is not to take terumah from produce of the land (Eretz Yisrael) for produce outside the land or from produce outside the land for produce of the land? From (Vayikra 27:30) \"And all the tithe of the land, etc.)\" Variantly: \"from it\": This is \"extra\" (mufneh) for formulating an identity (gezeirah shavah ) viz.: It is written here \"from it,\" and, in respect to the Paschal lamb, (Shemot 12:9) (\"Do not eat) from it, etc.\" Just as re \"with it\" mentioned here (in respect to ma'aser), it (ma'aser) is forbidden to a mourner, (viz. Devarim 26:14), so, re \"with it\" mentioned in respect to Pesach, it (the Paschal lamb) is forbidden to a mourner.",
+              "he": "ואל הלוים תדבר ואמרת אליהם כי תקחו מאת בני ישראל את המעשר אשר נתתי לכם. למה נאמר? לפי שהוא אומר \"ולבני לוי הנה נתתי את כל מעשר\" – בפירות הכתוב מדבר. אתה אומר בפירות, או אינו אלא באחד מעשרה בארץ? ת\"ל ואל הלוים תדבר ואמרת אליהם, מגיד שבפירות הכתוב מדבר, לפי שלא ניתן להם חלק בארץ – ניתן להם אחד מעשר בפירות: והרמותם ממנו. ממין על מינו, ולא ממין על שאינו מינו. והרמותם ממנו. מופנה, להקיש ולדון ממנו גזירה שוה: והרמותם ממנו. שלא יתרום מן המחובר על התלוש, ולא מן התלוש על המחובר, ולא מן החדש על הישן, ולא מן הישן על החדש. והרמותם ממנו – שלא יתרום מפירות הארץ על פירות חו\"ל, ולא מפירות חו\"ל על פירות הארץ. ת\"ל <span class=\"parenthesized\">(ויקרא כז)</span> וכל מעשר הארץ, שלא יתרום מפירות הארץ על פירות חו\"ל, ולא מפירות חו\"ל על פירות הארץ: והרמותם ממנו תרומת ה'. וכי מה למדנו לתרומת מעשר? – מעתה אלא הרי זה בא ללמד ונמצא למד: מה תרומת מעשר חובה – אף מעשר ראשון חובה:",
+              "ref": "Sifrei Bamidbar 120:1",
+              "sourceHeRef": "ספרי במדבר קכ:א",
+              "sourceRef": "Sifrei Bamidbar 120:1"
+            },
+            {
+              "en": [
+                [
+                  "<b>Ravin bar Ḥinnana says</b> that <b>Ulla says</b> that <b>Rabbi Ḥanina says:</b> The <b><i>halakha</i></b> is <b>in accordance with</b> the opinion of <b>Rabbi Shimon Shezuri; and moreover,</b> not only is the <i>halakha</i> in accordance with his opinion with regard to this matter, but in <b>any place where Rabbi Shimon Shezuri taught</b> a <i>halakha</i>, the <b><i>halakha</i></b> is <b>in accordance with his</b> opinion.",
+                  "The Gemara asks: <b>To which</b> statement of Rabbi Shimon Shezuri is this referring? <b>If we say</b> that it is referring <b>to</b> the statement <b>here,</b> where <b>Rabbi Shimon Shezuri says:</b> A scribe <b>may suspend the entire name</b> of God above the line, but he <b>may not suspend part of</b> the name of God above the line, that is difficult: <b>But wasn’t it stated with regard to that</b> <i>baraita</i> that <b>Rav Ḥananel says</b> that <b>Rav says:</b> The <b><i>halakha</i></b> is that one <b>suspends the name</b> of God above the line, <b>and Rabba bar bar Ḥana says</b> that <b>Rabbi Yitzḥak bar Shmuel</b> says: The <b><i>halakha</i></b> is that one may even <b>wipe away</b> the word while the ink is still wet <b>and write</b> the name of God in its place?",
+                  "<b>And if it is so</b> that when Rabbi Ḥanina said that the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri he was referring to this matter, then <b>let</b> Ravin bar Ḥinnana <b>also say</b> along with those <i>amora’im</i> that the <i>halakha</i> is that one suspends the entire name of God above the line, but not a part of the name.",
+                  "<b>Rather,</b> say that Rabbi Ḥanina’s statement that the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri was referring not to the discussion here, but was stated <b>with regard to this</b> mishna (<i>Ḥullin</i> 74b): <b>Rabbi Shimon Shezuri says:</b> If one ritually slaughtered a pregnant cow and the calf was then removed alive, the ritual slaughter of the mother is effective with regard to the calf as well. And <b>even</b> if the calf is <b>five years old and plowing the field</b> when one wants to eat it, <b>the</b> earlier <b>slaughter of its mother renders it permitted,</b> and it does not require ritual slaughter before it is eaten.",
+                  "The Gemara asks: <b>But wasn’t it</b> already <b>stated with regard to that</b> mishna that <b>Ze’eiri says</b> that <b>Rabbi Ḥanina</b> says: The <b><i>halakha</i></b> is <b>in accordance with</b> the opinion of <b>Rabbi Shimon Shezuri? And if it is so</b> that when Rabbi Ḥanina said that the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri he was referring to this matter, then <b>let</b> Ravin bar Ḥinnana <b>also say</b> along with Ze’eiri that the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri.",
+                  "<b>Rather,</b> say that Rabbi Ḥanina’s statement was <b>with regard to this</b> mishna (<i>Gittin</i> 65b): <b>Initially</b> the Sages <b>would say:</b> With regard to <b>one who was taken out in a collar [<i>kolar</i>]</b> to be executed <b>and said: Write a bill of divorce for my wife, these</b> people <b>should write and give</b> her the document. Although he did not explicitly say the word give, this is understood to have been his intention, in order to release her from the obligation to perform levirate marriage or <i>ḥalitza</i>. <b>They then said</b> that this <i>halakha</i> applies <b>even</b> to <b>one who sets sail and one who departs with a caravan</b> to a distant place. A bill of divorce is given to his wife under these circumstances even if her husband said only: Write a bill of divorce for my wife. <b>Rabbi Shimon Shezuri says: Even</b> in the case of <b>one who is dangerously ill</b> who gives that instruction, they write the bill of divorce and give it to his wife.",
+                  "<b>Alternatively,</b> Rabbi Ḥanina’s statement was <b>with regard to this</b> <i>halakha</i>: In the case of <b><i>teruma</i> of the tithe of <i>demai</i>,</b> which is separated from the produce received from an <i>am ha’aretz</i>, who is suspected of not separating tithes properly, <b>that returned to its</b> original <b>place,</b> i.e., it became mixed with the produce from which it had been separated, <b>Rabbi Shimon Shezuri says:</b> In this situation, not only did the Sages permit one to ask the <i>am ha’aretz</i> whether he had set aside his tithes in the proper manner and to rely on his response on Shabbat, a day when it is not permitted to separate tithes, but <b>one may ask him and eat based on his</b> statement <b>even on a weekday.</b>",
+                  "The Gemara asks: <b>But wasn’t it</b> already <b>stated with regard to</b> those <i>mishnayot</i> that <b>Rabbi Yoḥanan says:</b> The <b><i>halakha</i></b> is <b>in accordance with</b> the opinion of <b>Rabbi Shimon Shezuri in</b> the case of one who is <b>dangerously ill, and in</b> the case of <b><i>teruma</i> of the tithe of <i>demai</i>? And if it is so</b> that when Rabbi Ḥanina said that the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri he was referring to these <i>mishnayot</i>, then <b>let</b> Ravin bar Ḥinnana <b>also say</b> along with Rabbi Yoḥanan that the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri.",
+                  "<b>Rather,</b> say that Rabbi Ḥanina’s statement was made <b>with regard to this</b> <i>halakha</i>: <b>Rabbi Yosei ben Keifar says in the name of Rabbi Shimon Shezuri:</b> If one <b>planted a cowpea</b> plant <b>for</b> its <b>seed,</b> i.e., not to be eaten as a vegetable but for one to either eat or plant its seeds, and <b>some of</b> the plants <b>took root before Rosh HaShana, while some of</b> them took root only <b>after Rosh HaShana, one may not separate <i>teruma</i></b> or tithes <b>from this for that, as one may not separate <i>teruma</i> or tithes from the new</b> crop <b>for the old or from the old</b> crop <b>for the new.</b>",
+                  "<b>How,</b> then, <b>shall one act</b> so that he not err and set aside <i>teruma</i> and tithes incorrectly? It is difficult to know when the plants took root. He shall <b>pile</b> the entire stock onto <b>his threshing floor, into</b> the middle of <b>it,</b> mix the stock together, and then separate <i>teruma</i> and tithes; <b>and</b> consequently <b>it will turn out</b> that he has <b>separated <i>teruma</i> and tithes from the new</b> crop <b>in</b> the mixture <b>for the new</b> crop <b>in it, and from the old</b> crop <b>in</b> the mixture <b>for the old</b> crop <b>in it.</b>",
+                  "The Gemara asks: <b>Wasn’t it</b> already <b>stated with regard to that</b> <i>baraita</i> that <b>Rabbi Shmuel bar Naḥmani says that Rabbi Yoḥanan says:</b> The <b><i>halakha</i></b> is <b>in accordance with</b> the opinion of <b>Rabbi Shimon Shezuri? And if it is so</b> that when Rabbi Ḥanina said that the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri he was referring to this <i>baraita</i>, then <b>let</b> Ravin bar Ḥinnana <b>also say</b> along with Rabbi Shmuel bar Naḥmani that the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri.",
+                  "<b>Rather, Rav Pappa said:</b> Rabbi Ḥanina’s statement was <b>with regard to a chest. Rav Naḥman bar Yitzḥak said</b> that it was <b>with regard to wine.</b> The Gemara elaborates: <b>Rav Pappa said</b>"
+                ],
+                [
+                  "that Rabbi Ḥanina’s statement was <b>with regard to a chest, as we learned</b> in a mishna (<i>Kelim</i> 18:1): A wooden chest that is large enough to contain forty <i>se’a</i> is not susceptible to contracting ritual impurity, since it is no longer considered a vessel. In determining its capacity, <b>Beit Shammai say</b> that <b>it is measured on the inside, and Beit Hillel say</b> that <b>it is measured on the outside</b> so that the volume of the walls of the chest itself is included in the measurement. <b>And</b> both Beit Shammai <b>and</b> Beit Hillel <b>concede that the volume of the legs and the volume of the rims [<i>halevazbazin</i>]</b> are <b>not measured.</b>",
+                  "<b>Rabbi Yosei says: They concede that the volume of the legs and the volume of the rims</b> are <b>measured, but</b> the space enclosed <b>between</b> the rims and the legs <b>is not measured. Rabbi Shimon Shezuri says: If</b> the <b>legs were</b> one <b>handbreadth high</b> then the space <b>between</b> the legs <b>is not measured,</b> since the area has an independent significance, <b>but if</b> the space is <b>not</b> one handbreadth high, the space <b>between</b> the legs <b>is measured</b> as part of the chest. It is with regard to this statement that Rabbi Ḥanina said the <i>halakha</i> is in accordance with the opinion of Rabbi Shimon Shezuri.",
+                  "<b>Rav Naḥman bar Yitzḥak said</b> that Rabbi Ḥanina’s statement was <b>with regard to wine, as we learned</b> in a mishna (<i>Teharot</i> 3:2): <b>Rabbi Meir says: Oil,</b> an example of a liquid, that contracted impurity, is <b>always</b> considered to have <b>first</b>-degree ritual impurity, even if it came into contact with an item that was impure with second-degree ritual impurity, which, according to the standard <i>halakhot</i> of ritual impurity, should result in it having third-degree ritual impurity. <b>And the Rabbis say</b> that this is the <i>halakha</i> <b>even</b> with regard to <b>honey. Rabbi Shimon Shezuri says:</b> This is the <i>halakha</i> <b>even</b> with regard to <b>wine.</b> The Gemara asks: <b>By inference,</b> is that to say <b>that the first <i>tanna</i> holds</b> that <b>wine</b> is <b>not</b> considered a liquid? Rather, <b>say</b> as follows: <b>Rabbi Shimon Shezuri says: Wine</b> is considered a liquid, but oil and honey are not."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Menachot 30b:6",
+                "Menachot 30b:7",
+                "Menachot 30b:8",
+                "Menachot 30b:9",
+                "Menachot 30b:10",
+                "Menachot 30b:11",
+                "Menachot 30b:12",
+                "Menachot 30b:13",
+                "Menachot 30b:14",
+                "Menachot 30b:15",
+                "Menachot 30b:16",
+                "Menachot 30b:17",
+                "Menachot 31a:1",
+                "Menachot 31a:2",
+                "Menachot 31a:3"
+              ],
+              "he": [
+                [
+                  "אמר רבין בר חיננא אמר עולא א\"ר חנינא הלכה כר\"ש שזורי ולא עוד אלא כל מקום ששנה ר\"ש שזורי הלכה כמותו",
+                  "אהייא אילימא אהא ר\"ש שזורי אומר כל השם כולו תולין מקצתו אין תולין והא איתמר עלה אמר רב חננאל אמר רב הלכה תולין את השם ורבה בר בר חנה אמר רב יצחק בר שמואל הלכה מוחק וכותב",
+                  "ואם איתא הוא נמי לימא",
+                  "אלא אהא ר\"ש שזורי אומר אפי' בן חמש שנים וחורש בשדה שחיטת אמו מטהרתו",
+                  "הא איתמר עלה זעירי א\"ר חנינא הלכה כר\"ש שזורי ואם איתא הוא נמי לימא",
+                  "אלא אהא בראשונה היו אומרים היוצא בקולר ואמר כתבו גט לאשתי הרי אלו יכתבו ויתנו חזרו לומר אף המפרש והיוצא בשיירא ר\"ש שזורי אומר אף המסוכן",
+                  "אי נמי אהא תרומת מעשר של דמאי שחזרה למקומה ר\"ש שזורי אומר אף בחול שואלו ואוכלו על פיו",
+                  "והא איתמר עלה א\"ר יוחנן הלכה כר\"ש שזורי במסוכן ובתרומת מעשר של דמאי ואם איתא הוא נמי לימא",
+                  "אלא אהא רבי יוסי בן כיפר אומר משום ר\"ש שזורי פול המצרי שזרעו לזרע מקצתו השריש לפני ר\"ה ומקצתו אחר ר\"ה אין תורמין מזה על זה לפי שאין תורמין ומעשרין לא מן החדש על הישן ולא מן הישן על החדש",
+                  "כיצד יעשה צובר גרנו לתוכו ונמצא תורם ומעשר מן החדש שבו על החדש שבו ומן הישן שבו על הישן שבו",
+                  "הא איתמר עלה אמר רבי שמואל בר נחמני אמר רבי יוחנן הלכה כרבי שמעון שזורי ואם איתא הוא נמי לימא",
+                  "אלא אמר רב פפא אשידה רב נחמן בר יצחק אמר איין רב פפא אמר"
+                ],
+                [
+                  "אשידה דתנן [השידה] ב\"ש אומרים נמדדת מבפנים ובית הלל אומרים מבחוץ ומודים אלו ואלו שאין עובי הרגלים ועובי הלבזבזין נמדד",
+                  "ר' יוסי אומר מודים שעובי הרגלים ועובי הלבזבזין נמדד וביניהן אין נמדד ר\"ש שזורי אומר אם היו רגלים גבוהות טפח אין ביניהן נמדד ואם לאו ביניהן נמדד",
+                  "רב נחמן בר יצחק אמר איין דתנן רבי מאיר אומר שמן תחלה לעולם וחכ\"א אף הדבש ר\"ש שזורי אומר אף היין מכלל דת\"ק סבר יין לא אימא רבי שמעון שזורי אומר יין"
+                ]
+              ],
+              "link": "/Menachot/30b",
+              "originalRefsBeforeRewriting": [
+                "Menachot 30b:14"
+              ],
+              "ref": "Menachot 30b:6-31a:3",
+              "sourceHeRef": "מנחות ל׳ ב",
+              "sourceRef": "Menachot 30b"
+            },
+            {
+              "en": [
+                [
+                  "The mishna taught: <b>And</b> the first of Tishrei is the new year <b>for vegetables.</b> It <b>is taught</b> in a <i>baraita</i>: The first of Tishrei is the new year <b>for vegetables, and for tithes, and for vows.</b> The Gemara asks: <b>What is</b> meant by the term: <b>For vegetables?</b> It means <b>for</b> the <b>vegetable tithe,</b> i.e., one may not take <i>teruma</i> or tithes from vegetables picked before Rosh HaShana in order to fulfill the obligation for vegetables picked after Rosh HaShana.",
+                  "The Gemara asks: If so, <b>this is the same as</b> the meaning of the term <b>for tithes,</b> and yet the <i>baraita</i> distinguishes between them. The Gemara answers: The <i>baraita</i> <b>taught</b> first about a tithe that is <b>by rabbinic</b> law, i.e., the vegetable tithe, that its new year is the first of Tishrei, <b>and</b> then <b>it teaches</b> about a tithe that is <b>by Torah</b> law, i.e., the tithe of grain, wine, and oil, that its new year is also the first of Tishrei.",
+                  "The Gemara asks: If so, <b>let</b> the <i>tanna</i> of the <i>baraita</i> <b>teach</b> that which is <b>by Torah</b> law <b>in the first clause.</b> The Gemara explains: <b>Since</b> the <i>halakha</i> with regard to vegetable tithes <b>was dear to him, he mentioned it first.</b> He taught first about the tithe that is by rabbinic decree, as it involves a greater novelty, and afterward he taught about the tithe that is by Torah law. The Gemara asks further: <b>And</b> with regard to <b>the <i>tanna</i></b> of <b>our</b> mishna, who mentioned only vegetables but not tithes, what is his reasoning? The Gemara explains: <b>He taught</b> vegetable tithes, which are <b>by rabbinic decree, and</b> from which one may infer <b>all the more so</b> that the first of Tishrei is the new year for the tithe of grain, wine, and oil, which is by Torah law.",
+                  "The Gemara raises a question about the <i>baraita</i>: <b>But let</b> the <i>tanna</i> of the <i>baraita</i> <b>teach: Tithe,</b> in the singular. Why teach tithes in the plural? The Gemara answers: He uses this formulation to include <b>both</b> the <b>animal tithe and</b> the <b>grain tithe.</b> The Gemara asks further: <b>But let him teach: Vegetable,</b> in the singular. Why teach: Vegetables, in the plural? The Gemara answers: He means to include <b>two categories of vegetables, as we learned</b> in a mishna: With regard to <b>a</b> type of <b>vegetable that is</b> usually <b>made into bundles</b> before being sold, the time of tithing is <b>from when it is bundled; and</b> with regard to a type of vegetable <b>that is not</b> usually <b>made into</b> such <b>bundles,</b> the time of tithing is <b>from when one fills a vessel</b> with it.",
+                  "<b>The Sages taught</b> in a <i>baraita</i>: If <b>one picked vegetables on the eve of Rosh HaShana before the sun had set,</b> so that they belong to the previous year, <b>and</b> then <b>he returned and he picked</b> more vegetables"
+                ],
+                [
+                  "<b>after sunset,</b> so that they belong to the new year, <b>one may not set aside <i>teruma</i> and tithe from the one to the other, as one may not set aside <i>teruma</i> and tithe from the new</b> crop <b>for the old nor from the old</b> crop <b>for the new. If it was the second</b> year of the Sabbatical cycle <b>going into the third</b> year, the <i>halakha</i> is: From what he picked in <b>the second</b> year he must set aside <b>first tithe,</b> which he gives to a Levite, <b>and second tithe,</b> which he eats in Jerusalem; from what he picked in <b>the third</b> year, he must set aside <b>first tithe and poor man’s tithe,</b> which he gives to one who is needy."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Rosh Hashanah 12a:6",
+                "Rosh Hashanah 12a:7",
+                "Rosh Hashanah 12a:8",
+                "Rosh Hashanah 12a:9",
+                "Rosh Hashanah 12a:10",
+                "Rosh Hashanah 12b:1"
+              ],
+              "he": [
+                [
+                  "וְלַיְּרָקוֹת. תָּנָא: לַיְּרָקוֹת וְלַמַּעַשְׂרוֹת וְלַנְּדָרִים. לַיְּרָקוֹת מַאי נִינְהוּ? מַעֲשֵׂר יָרָק.",
+                  "הַיְינוּ מַעַשְׂרוֹת? תְּנָא דְּרַבָּנַן וְקָתָנֵי דְּאוֹרָיְיתָא.",
+                  "וְלִיתְנֵי דְּאוֹרָיְיתָא בְּרֵישָׁא! אַיְּידֵי דַּחֲבִיבָא לֵיהּ — אַקְדְּמַהּ. וְתַנָּא דִּידַן? תְּנָא דְּרַבָּנַן, וְכׇל שֶׁכֵּן דְּאוֹרָיְיתָא.",
+                  "וְלִיתְנֵי ״מַעֲשֵׂר״! אֶחָד מַעְשַׂר בְּהֵמָה וְאֶחָד מַעְשַׂר דָּגָן. וְלִיתְנֵי ״יָרָק״! תְּרֵי גַּוְונֵי יָרָק, דִּתְנַן: יָרָק הַנֶּאֱגָד — מִשֶּׁיֵּאָגֵד, וְשֶׁאֵינוֹ נֶאֱגָד — מִשֶּׁיְּמַלֵּא אֶת הַכְּלִי.",
+                  "תָּנוּ רַבָּנַן: לִיקֵּט יָרָק עֶרֶב רֹאשׁ הַשָּׁנָה עַד שֶׁלֹּא תָּבֹא הַשֶּׁמֶשׁ, וְחָזַר וְלִיקֵּט"
+                ],
+                [
+                  "מִשֶּׁתָּבֹא הַשֶּׁמֶשׁ — אֵין תּוֹרְמִין וּמְעַשְּׂרִין מִזֶּה עַל זֶה, לְפִי שֶׁאֵין תּוֹרְמִין וּמְעַשְּׂרִין, לֹא מִן הֶחָדָשׁ עַל הַיָּשָׁן, וְלֹא מִן הַיָּשָׁן עַל הֶחָדָשׁ. אִם הָיְתָה שְׁנִיָּה נִכְנֶסֶת לִשְׁלִישִׁית — שְׁנִיָּה מַעֲשֵׂר רִאשׁוֹן וּמַעֲשֵׂר שֵׁנִי, שְׁלִישִׁית — מַעֲשֵׂר רִאשׁוֹן וּמַעְשַׂר עָנִי."
+                ]
+              ],
+              "link": "/Rosh Hashanah/12a",
+              "originalRefsBeforeRewriting": [
+                "Rosh Hashanah 12a:10",
+                "Rosh Hashanah 12b:1"
+              ],
+              "ref": "Rosh Hashanah 12a:6-12b:1",
+              "sourceHeRef": "ראש השנה י״ב א",
+              "sourceRef": "Rosh Hashanah 12a"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "“According to all Your commandments which You have commanded me,” thus, if he took out maaser sheni before the first tithe he cannot make the confession. “I have not transgressed any of Your commandments” I have not set apart [tithes] from one kind for a different kind, nor from plucked [produce] for [produce still] joined [to the soil], nor from new [produce] for old [produce], nor from old [produce] for new. “Neither have I forgotten” I have not forgotten to bless You, nor to make mention of Your name over it.",
+              "he": "כְּכָל מִצְוָתְךָ אֲשֶׁר צִוִּיתָנִי <span class=\"parenthesized\">(שם)</span>, הָא אִם הִקְדִּים מַעֲשֵׂר שֵׁנִי לָרִאשׁוֹן, אֵינוֹ יָכוֹל לְהִתְוַדּוֹת. לֹא עָבַרְתִּי מִמִּצְוֹתֶיךָ, לֹא הִפְרַשְׁתִּי מִמִּין עַל שֶׁאֵינוֹ מִינוֹ, וְלֹא מִן הַתָּלוּשׁ עַל הַמְחֻבָּר, וְלֹא מִן הַמְחֻבָּר עַל הַתָּלוּשׁ, וְלֹא מִן הֶחָדָשׁ עַל הַיָּשָׁן, וְלֹא מִן הַיָּשָׁן עַל הֶחָדָשׁ. וְלֹא שָׁכָחְתִּי, לֹא שָׁכַחְתִּי מִלְּבָרֶכְךָ וּמִלְּהַזְכִּיר שִׁמְךָ עָלָיו:",
+              "link": "/Mishnah Maaser Sheni/5",
+              "ref": "Mishnah Maaser Sheni 5:11",
+              "sourceHeRef": "משנה מעשר שני ה:יא",
+              "sourceRef": "Mishnah Maaser Sheni 5:11"
+            },
+            {
+              "en": "They do not take terumah from ‘gleanings’, from ‘the forgotten sheaf’, from peah or from ownerless produce. [Neither is it taken] from first tithe from which terumah had already been taken, nor from second tithe and dedicated produce that had been redeemed. [Nor is it taken] from that which is subject [to terumah] for that which is exempt [from terumah], nor from that which is exempt for that which is subject. Nor from produce already plucked [from the soil] for that attached to it, nor from that attached [to the soil] for that already plucked. Nor from new produce for old, nor from old for new. Nor from produce from the land of Israel for produce grown outside the land, nor from that grown out of the land for that grown in the land. [In all these cases] if they did take terumah, their terumah is not terumah.",
+              "he": "אֵין תּוֹרְמִין מִן הַלֶּקֶט, וּמִן הַשִּׁכְחָה, וּמִן הַפֵּאָה, וּמִן הַהֶפְקֵר, וְלֹא מִמַּעֲשֵׂר רִאשׁוֹן שֶׁנִּטְּלָה תְּרוּמָתוֹ, וְלֹא מִמַּעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁנִּפְדּוּ, וְלֹא מִן הַחַיָּב עַל הַפָּטוּר, וְלֹא מִן הַפָּטוּר עַל הַחַיָּב, וְלֹא מִן הַתָּלוּשׁ עַל הַמְחֻבָּר, וְלֹא מִן הַמְחֻבָּר עַל הַתָּלוּשׁ, וְלֹא מִן הֶחָדָשׁ עַל הַיָּשָׁן, וְלֹא מִן הַיָּשָׁן עַל הֶחָדָשׁ, וְלֹא מִפֵּרוֹת הָאָרֶץ עַל פֵּרוֹת חוּצָה לָאָרֶץ, וְלֹא מִפֵּרוֹת חוּצָה לָאָרֶץ עַל פֵּרוֹת הָאָרֶץ. וְאִם תָּרְמוּ, אֵין תְּרוּמָתָן תְּרוּמָה:",
+              "link": "/Mishnah Terumot/1",
+              "ref": "Mishnah Terumot 1:5",
+              "sourceHeRef": "משנה תרומות א:ה",
+              "sourceRef": "Mishnah Terumot 1:5"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "One may not separate produce from the present year as <i>terumah</i> for produce of the previous year, nor may one separate produce from the previous year as <i>terumah</i> for produce of the present year. If one made such a separation, it is not effective, as [indicated by Deuteronomy 14:22]: \"From year to year.\"Thus if one harvested a vegetable on the day preceding Rosh HaShanah before sunset and harvested another after sunset, one may not separate <i>terumah</i> from one for the other. For one is considered \"old\" and the other, \"new.\"<br>Similarly, if one harvested an esrog on the day before the fifteenth of Shvat on the evening before sunset and harvested another one after sunset [that day], one may not separate <i>terumah</i> from one for the other. [The rationale is that] the first of Tishrei is the Rosh HaShanah for tithing grain, legumes, and vegetables and the fifteenth of Shvat is Rosh HaShanah for tithing [of the produce] of trees.",
+              "he": "אֵין תּוֹרְמִין מִפֵּרוֹת שָׁנָה זוֹ עַל פֵּרוֹת שָׁנָה שֶׁעָבְרָה. וְלֹא מִפֵּרוֹת שָׁנָה שֶׁעָבְרָה עַל פֵּרוֹת שָׁנָה זוֹ. וְאִם תָּרַם אֵינָהּ תְּרוּמָה שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(דברים יד כב)</span> \"שָׁנָה שָׁנָה\". לִקֵּט יָרָק עֶרֶב רֹאשׁ הַשָּׁנָה עַד שֶׁלֹּא בָּאָה הַשֶּׁמֶשׁ וְחָזַר וְלִקֵּט אַחַר שֶׁבָּאָה הַשֶּׁמֶשׁ אֵין תּוֹרְמִין מִזֶּה עַל זֶה שֶׁזֶּה חָדָשׁ וְזֶה יָשָׁן. וְכֵן אִם לִקֵּט אֶתְרוֹג בְּעֶרֶב ט\"ו בִּשְׁבָט עַד שֶׁלֹּא בָּא הַשֶּׁמֶשׁ וְחָזַר וְלִקֵּט אֶתְרוֹג אַחֵר מִשֶּׁבָּאָה הַשֶּׁמֶשׁ אֵין תּוֹרְמִין מִזֶּה עַל זֶה מִפְּנֵי שֶׁאֶחָד בְּתִשְׁרֵי רֹאשׁ הַשָּׁנָה לְמַעַשְׂרוֹת תְּבוּאָה וְקִטְנִיּוֹת וִירָקוֹת. וְט\"ו בִּשְׁבָט רֹאשׁ הַשָּׁנָה לְמַעַשְׂרוֹת הָאִילָן:",
+              "ref": "Mishneh Torah, Heave Offerings 5:11",
+              "sourceHeRef": "הלכות תרומות ה:יא",
+              "sourceRef": "Heave Offerings 5:11"
+            },
+            {
+              "en": "The first of Tishrei is the beginning of the year with regard to the reckoning of the tithes for grain, legumes, and vegetables. Whenever the term Rosh HaShanah is used [with regard to crops], the intent is the first of Tishrei. The fifteenth of Shvat is the beginning of the year with regard to reckoning the tithes for fruit-trees.<br>What is implied? If grain or legumes reach \"the phase of tithing\" before Rosh HaShanah of the third year, the second tithe should be separated from them even though they became fully developed and were gathered in the third year. If, however, they did not reach \"the phase of tithing\" until after Rosh HaShanah of the third year, the tithe for the poor should be separated from them. Similarly, if fruit from trees reaches \"the phase of tithing\" before the fifteenth of Shvat in the third year, it should be tithed according to the previous year and the second tithe should be separated from it even though it became fully developed and was gathered at the end of the third year. Similarly, if it reaches \"the phase of tithing\" before the fifteenth of Shvat in the fourth year, the tithe for the poor should be separated from it even though it became fully developed and was gathered at the end of the fourth year. If it reaches \"the phase of tithing\" after the fifteenth of Shvat, it should be tithed like the produce of the coming year.",
+              "he": "בְּאֶחָד בְּתִשְׁרֵי הוּא רֹאשׁ הַשָּׁנָה לְמַעֲשַׂר תְּבוּאוֹת וְקִטְנִיּוֹת וִירָקוֹת. וְכָל מָקוֹם שֶׁנֶּאֱמַר רֹאשׁ הַשָּׁנָה הוּא אֶחָד בְּתִשְׁרֵי. וּבְט\"ו בִּשְׁבָט הוּא רֹאשׁ הַשָּׁנָה לְמַעֲשַׂר הָאִילָנוֹת. כֵּיצַד. תְּבוּאָה וְקִטְנִיּוֹת שֶׁהִגִּיעוּ לְעוֹנַת הַמַּעַשְׂרוֹת לִפְנֵי רֹאשׁ הַשָּׁנָה שֶׁל שְׁלִישִׁית אַף עַל פִּי שֶׁנִּגְמְרוּ וְנֶאֶסְפוּ בַּשְּׁלִישִׁית מַפְרִישִׁין מֵהֶן מַעֲשֵׂר שֵׁנִי. וְאִם לֹא בָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת אֶלָּא לְאַחַר רֹאשׁ הַשָּׁנָה שֶׁל שְׁלִישִׁית מַפְרִישִׁין מֵהֶן מַעֲשַׂר עָנִי. וְכֵן פֵּרוֹת הָאִילָן שֶׁבָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת קֹדֶם ט\"ו בִּשְׁבָט שֶׁל שְׁלִישִׁית אַף עַל פִּי שֶׁנִּגְמְרוּ וְנֶאֶסְפוּ אַחַר כֵּן בְּסוֹף שָׁנָה שְׁלִישִׁית מִתְעַשְּׂרִין לְשֶׁעָבַר וּמַפְרִישִׁין מֵהֶן מַעֲשֵׂר שֵׁנִי. וְכֵן אִם בָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת קֹדֶם ט\"ו בִּשְׁבָט שֶׁל רְבִיעִית אַף עַל פִּי שֶׁנִּגְמְרוּ וְנֶאֶסְפוּ בִּרְבִיעִית מַפְרִישִׁין מֵהֶן מַעֲשֵׂר עָנִי. וְאִם בָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת אַחַר ט\"ו בִּשְׁבָט מִתְעַשְּׂרִין לְהַבָּא:",
+              "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 1:2",
+              "sourceHeRef": "הלכות מעשר שני ונטע רבעי א:ב",
+              "sourceRef": "Second Tithes and Fourth Year's Fruit 1:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלישית נכנסת לרביעית</strong> - לקמן פריך מ\"ש דלא תנא ואם היתה שניה נכנסת לשלישית כדתניא לעיל <span class=\"parenthesized\">(ראש השנה דף יב:)</span> גבי ליקט ירק:",
+              "ref": "Rashi on Rosh Hashanah 14b:11:1",
+              "sourceHeRef": "רש\"י על ראש השנה י״ד ב:יא:א",
+              "sourceRef": "Rashi on Rosh Hashanah 14b:11:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "[The ruling regarding] vegetables [depends] on the time they were harvested.<br>With regard to an esrog, even if it was the size of a bean before Rosh HaShanah [of the Sabbatical year] and grew to the size of a loaf of bread in the Sabbatical year, it is obligated to be tithed like the produce of the sixth year. [Conversely,] even if it had reached the size of a loaf of bread in the sixth year, since it was reaped in the Sabbatical year, it is considered as the produce of the Sabbatical year. As a stringency, the tithes are separated like the produce of the sixth year.",
+                      "he": "הַיָּרָק בִּשְׁעַת לְקִיטָתוֹ. וְהָאֶתְרוֹג אֲפִלּוּ הָיָה כְּפוֹל קֹדֶם רֹאשׁ הַשָּׁנָה וְנַעֲשָׂה כְּכִכָּר בַּשְּׁבִיעִית חַיָּב בְּמַעַשְׂרוֹת כְּפֵרוֹת שִׁשִּׁית. וַאֲפִלּוּ הָיָה כְּכִכָּר בַּשִּׁשִּׁית הוֹאִיל וְנִלְקַט בַּשְּׁבִיעִית הֲרֵי הוּא כְּפֵרוֹת שְׁבִיעִית. וּמִתְעַשֵּׂר כְּפֵרוֹת שִׁשִּׁית לְהַחֲמִיר:",
+                      "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 4:12",
+                      "sourceHeRef": "הלכות שמיטה ויובל ד:יב",
+                      "sourceRef": "Sabbatical Year and the Jubilee 4:12"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "אין תורמין מפירות שנה זו על פירות שנה שעברה ולא מפירות שנה שעברה על פירות שנה זו ואם תרם אינה תרומה שנאמר שנה שנה ליקט ירק ערב ר\"ה עד שלא בא השמש וחזר וליקט אחר שבא השמש אין תורמין מזה על זה שזה חדש וזה ישן וכן אם ליקט אתרוג בערב ט\"ו בשבט עד שלא בא השמש וחזר וליקט אתרוג אחר משבא השמש אין תורמין מזה על זה מפני שאחד בתשרי ראש השנה למעשרות תבואה וקטניות וירקות וט\"ו בשבט ר\"ה למעשרות האילן:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 331:57",
+              "sourceHeRef": "יורה דעה שלא:נז - דין נתינתם באיזה מקום וכיצד הכהן מקבלם ואם הם דאורייתא או דרבנן.",
+              "sourceRef": "Yoreh De'ah 331:57"
+            },
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Vegetables should be tithed according to the year when they are harvested. What is implied? If they are harvested on the day of Rosh HaShanah of the third year, the tithe for the poor should be separated from them even though they reached \"the phase of tithing\" and [indeed,] fully matured in the second year. If they were harvested in the fourth year, the second tithe should be separated from them.",
+                      "he": "הַיָּרָק בִּשְׁעַת לְקִיטָתוֹ עִשּׂוּרוֹ. כֵּיצַד. אִם נִלְקַט בְּיוֹם רֹאשׁ הַשָּׁנָה שֶׁל שְׁלִישִׁית אַף עַל פִּי שֶׁבָּא לְעוֹנַת הַמַּעַשְׂרוֹת וְנִגְמַר בַּשְּׁנִיָּה מַפְרִישִׁין מִמֶּנּוּ מַעֲשַׂר עָנִי. וְאִם נִלְקַט בָּרְבִיעִית מַעֲשֵׂר שֵׁנִי:",
+                      "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 1:4",
+                      "sourceHeRef": "הלכות מעשר שני ונטע רבעי א:ד",
+                      "sourceRef": "Second Tithes and Fourth Year's Fruit 1:4"
+                    },
+                    {
+                      "en": "Similarly, among fruit from trees, only an esrog is like a vegetable, [i.e., the laws governing it] whether for tithes or the Sabbatical year are dependent on when it is harvested.<br>What is implied? If it was harvested in the third year after the fifteenth of Shvat, the tithe for the poor should be separated from it even though its growth was completed in the second year. Similarly, if it was gathered in the fourth year before the fifteenth of Shvat, the tithe for the poor should be separated from it. If it was harvested in the fourth year after the fifteenth of Shvat, the second tithe should be separated from it.",
+                      "he": "וְכֵן הָאֶתְרוֹג בִּלְבַד מִשְּׁאָר פֵּרוֹת הָאִילָן הֲרֵי הוּא כְּיָרָק וְהוֹלְכִין אַחַר לְקִיטָתוֹ בֵּין לְמַעֲשֵׂר בֵּין לִשְׁבִיעִית. כֵּיצַד. אִם נִלְקַט בַּשְּׁלִישִׁית אַחַר ט\"ו בִּשְׁבָט מַפְרִישִׁין מִמֶּנּוּ מַעֲשַׂר עָנִי אַף עַל פִּי שֶׁנִּגְמְרָה בַּשְּׁנִיָּה. וְכֵן אִם נִלְקַט בָּרְבִיעִית קֹדֶם ט\"ו בִּשְׁבָט מַפְרִישִׁין מִמֶּנּוּ מַעֲשַׂר עָנִי. נִלְקַט בָּרְבִיעִית אַחַר ט\"ו בִּשְׁבָט מַפְרִישִׁין מִמֶּנּוּ מַעֲשֵׂר שֵׁנִי:",
+                      "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 1:5",
+                      "sourceHeRef": "הלכות מעשר שני ונטע רבעי א:ה",
+                      "sourceRef": "Second Tithes and Fourth Year's Fruit 1:5"
+                    },
+                    {
+                      "en": "[The ruling regarding] vegetables [depends] on the time they were harvested.<br>With regard to an esrog, even if it was the size of a bean before Rosh HaShanah [of the Sabbatical year] and grew to the size of a loaf of bread in the Sabbatical year, it is obligated to be tithed like the produce of the sixth year. [Conversely,] even if it had reached the size of a loaf of bread in the sixth year, since it was reaped in the Sabbatical year, it is considered as the produce of the Sabbatical year. As a stringency, the tithes are separated like the produce of the sixth year.",
+                      "he": "הַיָּרָק בִּשְׁעַת לְקִיטָתוֹ. וְהָאֶתְרוֹג אֲפִלּוּ הָיָה כְּפוֹל קֹדֶם רֹאשׁ הַשָּׁנָה וְנַעֲשָׂה כְּכִכָּר בַּשְּׁבִיעִית חַיָּב בְּמַעַשְׂרוֹת כְּפֵרוֹת שִׁשִּׁית. וַאֲפִלּוּ הָיָה כְּכִכָּר בַּשִּׁשִּׁית הוֹאִיל וְנִלְקַט בַּשְּׁבִיעִית הֲרֵי הוּא כְּפֵרוֹת שְׁבִיעִית. וּמִתְעַשֵּׂר כְּפֵרוֹת שִׁשִּׁית לְהַחֲמִיר:",
+                      "ref": "Mishneh Torah, Sabbatical Year and the Jubilee 4:12",
+                      "sourceHeRef": "הלכות שמיטה ויובל ד:יב",
+                      "sourceRef": "Sabbatical Year and the Jubilee 4:12"
+                    },
+                    {
+                      "en": "Although the laws governing an esrog depend on when it was reaped, when an esrog that grew in the sixth year entered the seventh year, tithes must be separated from it. [This applies] even though it was only an olive size [at the beginning of the Sabbatical year] and became the size of a loaf of bread [during that year].",
+                      "he": "וְאַף עַל פִּי שֶׁהוֹלְכִין אַחַר לְקִיטָתוֹ אֶתְרוֹג בַּת שִׁשִּׁית שֶׁנִּכְנְסָה לַשְּׁבִיעִית אֲפִלּוּ הָיְתָה כְּזַיִת וְנַעֲשֵׂית כְּכִכָּר חַיֶּבֶת בְּמַעַשְׂרוֹת:",
+                      "ref": "Mishneh Torah, Second Tithes and Fourth Year's Fruit 1:6",
+                      "sourceHeRef": "הלכות מעשר שני ונטע רבעי א:ו",
+                      "sourceRef": "Second Tithes and Fourth Year's Fruit 1:6"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "גם אתרוג כמו ירקות גדל על כל מים, שכאשר משקים אותו הוא ממשיך לגדול מעבר לעונתו הטבעית, ולכן שנת המעשר שלו נקבעת לפי זמן לקיטתו. אלא שהואיל והוא עץ, ראש השנה שלו בט\"ו בשבט. אבל דין שאר פירות הדר כדין שאר העצים שהשנה שלהם נקבעת לפי החנטה, הואיל ויש להם עונה קבועה שבה הם גדלים ונקטפים.",
+                      "ref": "Peninei Halakhah, Kashrut 8:5:9",
+                      "sourceHeRef": "כשרות ח:ה:ט",
+                      "sourceRef": "Kashrut 8:5:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "הזמן הקובע לפירות העץ הוא החנטה, שזה הזמן שניתן לאוכלם בשעת הדחק, וזה הזמן שבו הם מתחייבים במעשרות, ונקרא בלשון חכמים שהגיעו לשליש בישולם. נמצא שהפירות שחנטו בשביעית חלה עליהם קדושת שביעית אף שהמשיכו לגדול בשנה השמינית, ואם חנטו בשנה השישית, אף שהמשיכו לגדול בשביעית, אין עליהם קדושת שביעית ומותר לבעל המטע לקטוף אותם כבכל השנים. אמנם מעת שנכנסה השנה השביעית, אסור לבצע מלאכות שמשביחות את העץ וגידול הפירות <span class=\"parenthesized\">(יש סוברים שהחנטה היא תחילת צמיחת הפרי. ודין אתרוג ופירות הדר יבוארו בהערה)</span>.",
+                      "ref": "Peninei Halakhah, Shemitah and Yovel 3:5:2",
+                      "sourceHeRef": "שביעית ויובל ג:ה:ב",
+                      "sourceRef": "Shemitah and Yovel 3:5:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "הירק בשעת לקיטתו עישורו כיצד אם נלקט ביום ר\"ה של שלישית אע\"פ שבא לעונת המעשרות ונגמר בשניה מפרישין ממנו מעשר עני ואם נלקט ברביעית מעשר שני וכן האתרוג בלבד משאר פירות האילן הרי הוא כירק והולכין אחר לקיטתו בין למעשר בין לשביעית כיצד אם נלקט בשלישית אחר ט\"ו בשבט מפרישין ממנו מעשר עני אע\"פ שנגמרה בשניה וכן אם נלקט ברביעית קודם ט\"ו בשבט מפרישין ממנו מעשר עני נלקט בחמישית אחר ט\"ו בשבט מפרישין ממנו מעשר שני ואע\"פ שהולכין אחר לקיטתו אתרוג בת ששית שנכנסה לשביעית אפי' היתה כזית ונעשית כככר חייבת במעשרות:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 331:126",
+              "sourceHeRef": "יורה דעה שלא:קכו - דין נתינתם באיזה מקום וכיצד הכהן מקבלם ואם הם דאורייתא או דרבנן.",
+              "sourceRef": "Yoreh De'ah 331:126"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי</b> <span class=\"hebrew-emphasis\">[מקשים]</span> על דברי רב בר רב הונא מתוספתא, ששנינו בה: <b>ר' שמעון בן אלעזר אומר: ליקט אתרוג ערב חמישה עשר בשבט עד שלא תבוא</b> (תשקע) <b>השמש, וחזר וליקט</b> אתרוג אחר <b>משתבוא השמש</b> ונתחדשה שנת אילן חדשה — <b>אין תורמין ומעשרין מזה על זה, לפי</b> הכלל <b>שאין תורמין ומעשרין לא מן החדש על הישן ולא מן הישן על החדש.</b> וכן אם <b>היתה</b> זו שנה <b>שלישית</b> ש<b>נכנסת</b> לשנה <b>הרביעית</b> בשנות השמיטה, הרי ממה ששייך ל<b>שלישית</b> מפריש <b>מעשר ראשון ומעשר עני,</b> וממה ששייך ל<b>רביעית</b> מפריש <b>מעשר ראשון ומעשר שני.</b>",
+              "ref": "Steinsaltz on Rosh Hashanah 14b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על ראש השנה י״ד ב:יא",
+              "sourceRef": "Steinsaltz on Rosh Hashanah 14b:11"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "How so, \"They do not take terumah from the new on behalf of the old\" (Ter. 1:5)? They do not take terumah from this year's produce on behalf of last year's produce (see Ter. 6:6), but in a field that grows two crops (i.e., early and late fruits) in [the same] year, and so too an irrigated field, they [may] take terumah and tithes from one on behalf of the other. [With respect to] vegetables picked on the evening preceding Rosh Hashanah [but which remain in the field], until the sun rises, he may return [and take terumah and tithes from] those picked [vegetables], but once the sun rises, they do not take terumah and tithes from one on behalf of the other because [once the sun rises on Rosh Hashanah, vegetables collected thereafter] are \"new \" and [vegetables collected previously] are \"old\" (i.e., from the previous year).",
+              "he": "כיצד אין תורמין מן החדש על הישן אין תורמין מפירות שנה זו על פירות שנה שעברה ולא מפירות שנה שעברה על פירות שנה זו אבל שדה שנעשה שתי בריכות בשנה וכן שדה בית השלחין תורמין ומעשרין מזה על זה לקט ירק בערב ראש השנה עד שלא בא השמש וחזר ולקט משבא השמש אין תורמין ומעשרין מזה על זה מפני שזה חדש וזה ישן.",
+              "ref": "Tosefta Terumot 2:5",
+              "sourceHeRef": "תוספתא תרומות ב:ה",
+              "sourceRef": "Tosefta Terumot 2:5"
+            },
+            {
+              "en": "How so, \"for vegetables\"? [As to] one who picks vegetables on the eve of Rosh Hashanah before the sun goes down, and then goes back and picks after the sun goes down, they may not separate terumah and tithes from this one on behalf of that one, because this one is new and that one is old. If it was the second [year in the agricultural cycle] and the third [year] came in, the first [picking] is tithed as second tithe, and the second [picking] is tithed as poor tithe. [Similarly, as to] one who picks an etrog on the eve of Tu B'Shvat before the sun goes down, and then goes back and picks another one after the sun goes down, they may not separate terumah and and they may not separate tithes from this one on behalf of that one, because this one is new and that one is old. If it was the third [year] and the fourth [year] came in, the first [picking] is tithed as poor tithe and the second [picking] is tithed as second tithe.",
+              "he": "כיצד לירקות ליקט ירק בערב ראש השנה עד שלא בא השמש וחזר וליקט משבא השמש אין תורמין ומעשרין מזה על זה מפני שזה חדש וזה ישן היתה שניה [ונכנסה] שלישית הראשון מתעשר מעשר שני והשני מתעשר מעשר עני ליקט אתרוג בערב ט\"ו בשבט עד שלא בא השמש וחזר וליקט [אחר] משבא השמש אין תורמין [ואין מעשרין] מזה על זה מפני שזה חדש וזה ישן היתה שלישית ונכנסה רביעית הראשון מתעשר מעשר [שני] והשני מתעשר מעשר [עני].",
+              "ref": "Tosefta Rosh Hashanah 1:8",
+              "sourceHeRef": "תוספתא ראש השנה א:ח",
+              "sourceRef": "Tosefta Rosh Hashanah 1:8"
+            },
+            {
+              "en": "[If] it was the second [year of the agricultural cycle] and the third [year's crops] came in, the earlier [harvest] is tithed as second tithe, and the later [harvest] is tithed as poor man's tithe. [If] he picked an <i>etrog</i> in the evening before Tu B'shvat (the 15th of Shevat, the new year for trees, see Rosh Hashanah 1:1), until the sun rises, he may return [and take terumah and tithes from] those picked [<i>etrogs</i>], but once the sun rises, they do not take terumah and tithes from one on behalf of the other because [once the sun rises on Tu B'shvat, fruit collected thereafter] are \"new \" and [fruit collected previously] are \"old\" (i.e., from the previous year). If it was the third year and the fourth year's crop came in, the earlier [harvest] is tithed as poor man's tithe, and the fourth year's crop is tithed as second tithe.",
+              "he": "[היתה שניה ונכנסה לשלישית הראשון מתעשר מעשר שני והשני מתעשר מעשר עני לקט אתרוג בערב חמשה עשר בשבט עד שלא בא השמש וחזר ולקט אחר משבא השמש אין תורמין ומעשרין מזה על זה מפני שזה חדש וזה ישן] היתה שלישית ונכנסה לרביעית הראשון מתעשר מעשר עני והשני [מתעשר] מעשר שני.",
+              "ref": "Tosefta Terumot 2:6",
+              "sourceHeRef": "תוספתא תרומות ב:ו",
+              "sourceRef": "Tosefta Terumot 2:6"
+            },
+            {
+              "en": "[If] he was going to separate terumah at the appropriate time of separation, and he said, \"Behold, this is first tithe,\" then behold, it is first tithe. [If] he was going to separate first tithe at the appropriate time of separation, and he said, \"Behold, this is second tithe,\" then behold, it is second tithe. [If] he was going to separate second tithe at the appropriate time of separation, and he said, \"Behold, this is poor person's tithe,\" behold it is poor person's tithe. [If] he intended to say \"second tithe\" but he says \"poor person's tithe,\" [or he intended to say] \"poor person's tithe\" but he says \"first tithe,\" he has not said anything. [If he intended to say] \"first tithe\" and he said \"second tithe,\" his words are permanent. Rabbi Yosei says, if he intended to separate poor person's tithe [but said \"second tithe\"], he has not said anything. If instead of \"second\" [he said] \"first,\" his words are permanent.",
+              "he": "היה הולך להפריש תרומה בשעת הפרשתו אמר הרי זה מעשר ראשון הרי זה מעשר ראשון היה הולך להפריש מעשר ראשון בשעת הפרשתו אמר הרי זה מעשר שני ה\"ז מעשר שני היה הולך להפריש מעשר [שני] בשעת הפרשתו אמר הרי זה מעשר עני הרי זה מעשר עני נתכוין לומר מעשר שני ואומר מעשר עני מעשר עני ואומר מעשר [ראשון] לא אמר כלום מעשר ראשון ואמר מעשר שני [דבריו קיימים] ר\"י אומר אם לשום מעשר עני מתכוין לא אמר כלום אי משום שני [לראשון] דבריו קיימין.",
+              "ref": "Tosefta Terumot 4:11",
+              "sourceHeRef": "תוספתא תרומות ד:יא",
+              "sourceRef": "Tosefta Terumot 4:11"
+            },
+            {
+              "en": "How [one should understand]: \"for the greens\"? [Answer:] If a man harvests greens on the eve of the beginning of the year, before the sun has set, and if he harvests again after the sun has set, heave and tithes must not be paid from one to the other, because one is new and the other old [yield]. If it was the second year and went on into the third, the second tithe is paid from the first [harvest], and from the second [harvest] is paid the poor tithe. Harvests a citron tree on the eve of the fifteenth of Shvat, before the sun has set, and if he reaps again after the sun has set, he shall not separate heave and tithe of one for the other, because one is newer and the other is older revenue. If it was the third year and went on to the fourth, the second [harvest] is paid as a second tithe, and the second [harvest] as a poor tithe.",
+              "he": "כיצד לירקות, ליקט ירק בערב ראש השנה עד שלא בא השמש, וחזר וליקט משבא השמש, אין תורמין ומעשרין מזה על זה, מפני שזה חדש וזה ישן. היתה שנייה ונכנסה שלישית, הראשון מתעשר מעשר שני, והשני מתעשר מעשר עני. ליקט אתרוג בערב חמשה עשר בשבט עד שלא בא השמש, וחזר וליקט משבא השמש, אין תורמין ואין מעשרין מזה על זה, מפני שזה חדש וזה ישן. היתה שלישית ונכנסה רביעית, הראשון מתעשר מעשר עני, והשני מתעשר מעשר שני.",
+              "ref": "Tosefta Rosh Hashanah (Lieberman) 1:9",
+              "sourceHeRef": "תוספתא ראש השנה (ליברמן) א:ט",
+              "sourceRef": "Tosefta Rosh Hashanah (Lieberman) 1:9"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara <b>raises an objection</b> from the following <i>baraita</i>: <b><span href=\"/topics/rabbi-shimon-b-elazar\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-elazar\">Rabbi Shimon ben Elazar</span> says:</b> If <b>one picked</b> the fruit of <b>an <i>etrog</i></b> tree <b>on the eve of the fifteenth of Shevat before the sun had set, and</b> then <b>he picked more</b> fruit <b>after sunset, one may not set aside <i>teruma</i> and tithes from the one for the other, as one may not set aside <i>teruma</i> and tithes from the new</b> crop <b>for the old or from the old</b> crop <b>for the new.</b> If he did this when it <b>was the third</b> year of the Sabbatical cycle <b>going into the fourth</b> year, the <i>halakha</i> is as follows: From what he picked in <b>the third</b> year he must set aside <b>first tithe and poor man’s tithe,</b> and from what he picked in <b>the fourth year</b> he must set aside <b>first tithe and second tithe.</b>",
+      "he": "מֵיתִיבִי, <span href=\"/topics/rabbi-shimon-b-elazar\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-elazar\">רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר</span> אוֹמֵר: לִיקֵּט אֶתְרוֹג עֶרֶב חֲמִשָּׁה עָשָׂר בִּשְׁבָט עַד שֶׁלֹּא תָּבוֹא הַשֶּׁמֶשׁ, וְחָזַר וְלִיקֵּט מִשֶּׁתָּבוֹא הַשֶּׁמֶשׁ — אֵין תּוֹרְמִין וּמְעַשְּׂרִין מִזֶּה עַל זֶה, לְפִי שֶׁאֵין תּוֹרְמִין וּמְעַשְּׂרִין לֹא מִן הֶחָדָשׁ עַל הַיָּשָׁן וְלֹא מִן הַיָּשָׁן עַל הֶחָדָשׁ. הָיְתָה שְׁלִישִׁית נִכְנֶסֶת לִרְבִיעִית — שְׁלִישִׁית מַעֲשֵׂר רִאשׁוֹן וּמַעְשַׂר עָנִי, רְבִיעִית מַעֲשֵׂר רִאשׁוֹן וּמַעֲשֵׂר שֵׁנִי.",
+      "ref": "Rosh Hashanah 14b:11"
+    }
+  ],
+  "title": "Rosh Hashanah 14b",
+  "titleHebrew": "ראש השנה יד,ב",
+  "topics": []
+}

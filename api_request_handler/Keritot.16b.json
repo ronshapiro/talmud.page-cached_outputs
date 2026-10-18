@@ -1,0 +1,829 @@
+{
+  "id": "16b",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person was unaware that it was the Sabbath and sowed upon it, although he knew that sowing is a forbidden labor, on the following Sabbath, he forgot that it was Sabbath and planted, although he knew that planting is a forbidden labor, and on the third Sabbath, he forgot that it was Sabbath and extended, although he knew that extending is a forbidden labor, he is liable for a sin-offering for every Sabbath. The rationale is that the days between each Sabbath are considered equivalent to gaining awareness of one's transgression and create a distinction.",
+              "he": "שָׁגַג שֶׁהַיּוֹם שַׁבָּת וְזָרַע בּוֹ וְהוּא יוֹדֵעַ שֶׁהַזְּרִיעָה מְלָאכָה. וְכֵן בְּשַׁבָּת שְׁנִיָּה שָׁכַח שֶׁהוּא שַׁבָּת וְנָטַע בּוֹ וְהוּא יוֹדֵעַ שֶׁהַנְּטִיעָה מְלָאכָה. וְכֵן בַּשְּׁלִישִׁית שָׁכַח שֶׁהוּא שַׁבָּת וְהִבְרִיךְ אַף עַל פִּי שֶׁיּוֹדֵעַ שֶׁהַהַבְרָכָה מְלָאכָה. הֲרֵי זֶה חַיָּב עַל כָּל אַחַת וְאַחַת. שֶׁהַיָּמִים שֶׁבֵּין שַׁבָּת לְשַׁבָּת הֲרֵי הֵן כִּידִיעָה אַחַת לְחַלֵּק:",
+              "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 7:9",
+              "sourceHeRef": "הלכות שגגות ז:ט",
+              "sourceRef": "Offerings for Unintentional Transgressions 7:9"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מסתברא</strong> - מהא מתני' דאמרינן לקמן:",
+              "ref": "Rashi on Keritot 16b:1:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:א:א",
+              "sourceRef": "Rashi on Keritot 16b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מסתברא</b> <span class=\"hebrew-emphasis\">[מסתבר]</span> כי <b>שגגת שבת וזדון מלאכות פשיטא ליה</b> <span class=\"hebrew-emphasis\">[פשוט</span> היה <span class=\"hebrew-emphasis\">לו]</span> לר' עקיבא, ש<b>ימים שבינתיים הויין</b> <span class=\"hebrew-emphasis\">[הריהם]</span> נחשבים <b>ידיעה לחלק</b> בין שגגת שבת זו לשגגת שבת אחרת, וחייב על כל שבת ושבת. <b>וזדון שבת ושגגת מלאכות הוא דבעי מיניה</b> <span class=\"hebrew-emphasis\">[ששאל אותו]</span> האם השבתות <b>כגופין</b> נפרדים <b>דמיין</b> <span class=\"hebrew-emphasis\">[</span>הן <span class=\"hebrew-emphasis\">נחשבות]</span> לגבי שגגת המלאכה, <b>או לאו.</b>",
+              "ref": "Steinsaltz on Keritot 16b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:א",
+              "sourceRef": "Steinsaltz on Keritot 16b:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>It stands to reason,</b> based on a proof from a mishna, to say that in a case where he acts <b>unwittingly</b> in that he does not know that it is <b>Shabbat, and intentionally</b> in that he knows that the <b>labors</b> he is performing are prohibited on Shabbat, it is <b>obvious to</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>that</b> the <b>intervening days</b> between the <i>Shabbatot</i> <b>are</b> considered <b>awareness</b> of his sin, which would serve <b>to differentiate</b> between one sin and the next. <b>And it is</b> in reference to a case where he acts <b>intentionally</b> with regard to <b>Shabbat and unwittingly</b> with regard to prohibited <b>labors that</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>raises his dilemma,</b> which is about whether the <i>Shabbatot</i> are <b>comparable</b> to separate <b>entities or not.</b>",
+      "he": "מִסְתַּבְּרָא שִׁגְגַת שַׁבָּת וּזְדוֹן מְלָאכוֹת פְּשִׁיטָא לֵיהּ דְּיָמִים שֶׁבֵּינְתַיִים הָוַיִין יְדִיעָה לְחַלֵּק, וּזְדוֹן שַׁבָּת וְשִׁגְגַת מְלָאכוֹת הוּא דְּבָעֵי מִינֵּיהּ – כְּגוּפִין דָּמְיָין, אוֹ לָאו.",
+      "ref": "Keritot 16b:1"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ופשיט ליה</b> <span class=\"hebrew-emphasis\">[ופשט לו]</span> ר' אליעזר לענין <b>זדון שבת ושגגת מלאכות</b> שהשבתות <b>כגופין</b> נפרדים <b>דמיין</b> <span class=\"hebrew-emphasis\">[נחשבות],</span> <b>ולא קביל מיניה</b> <span class=\"hebrew-emphasis\">[ולא קיבל ממנו]</span> ר' עקיבא. וחזר <b>ופשט ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> ר' אליעזר את שאלתו השניה, ש<b>ולדי מלאכות כמלאכות דמיין</b> <span class=\"hebrew-emphasis\">[נחשבים],</span> <b>ולא קביל מיניה</b> <span class=\"hebrew-emphasis\">[ולא קיבל ממנו].</span>",
+              "ref": "Steinsaltz on Keritot 16b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:ב",
+              "sourceRef": "Steinsaltz on Keritot 16b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "According to this opinion, Rabbi Akiva’s statement at the end of the mishna that the case of an animal is comparable to that of Shabbat means that even if one copulates with several animals during a single lapse of awareness he is liable to bring only a single sin offering. This is in accordance with his opinion in the previous mishna that one who slaughters several animals outside the Temple courtyard during a single lapse of awareness is liable to bring only a single sin offering, as the different physical entities do not cause one’s actions to be considered multiple transgressions.",
+              "he": "ולפי זה, נמצא כי מה שאמר ר' עקיבא בסוף המשנה: בהמה כשבת, כוונתו שגם הבא על כמה בהמות בהעלם אחד — אינו חייב אלא חטאת אחת. והוא כשיטתו במשנה הקודמת בענין השוחט חמישה זבחים בחוץ בהעלם אחד, שחייב רק חטאת אחת, שאין גופים מחלקים.",
+              "ref": "Steinsaltz comment #1 on Keritot 16b:2",
+              "sourceHeRef": "וּפָשֵׁיט לֵיהּ דִּזְדוֹן שַׁבָּת וכו׳",
+              "sourceRef": "And Rabbi Eliezer resolved his dilemma for him by stating that where he acts intentionally with regard to Shabbat, etc."
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> <b>resolved</b> his dilemma <b>for him</b> by stating <b>that</b> in a case where he acts <b>intentionally</b> with regard to <b>Shabbat and unwittingly</b> with regard to prohibited <b>labors,</b> the <i>Shabbatot</i> are <b>comparable</b> to separate <b>entities. But</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>did not accept</b> this resolution <b>from him. And</b> with regard to <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>’s other dilemma, <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> <b>resolved</b> it <b>for him</b> by stating <b>that subcategories of labors</b> are <b>comparable</b> to primary categories of <b>labor,</b> and one is liable to bring a separate sin offering for each act. <b>But</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>did not accept</b> this resolution <b>from him</b> either.",
+      "he": "וּפְשַׁיט לֵיהּ דִּזְדוֹן שַׁבָּת וְשִׁגְגַת מְלָאכוֹת כְּגוּפִין דָּמְיָין, וְלָא קַבֵּיל מִינֵּיהּ. וּפְשַׁט לֵיהּ, דְּוַלְדֵי מְלָאכוֹת כִּמְלָאכוֹת דָּמְיָין, וְלָא קַבֵּיל מִינֵּיהּ.",
+      "ref": "Keritot 16b:2"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> The Sages <b>stated a significant principle with regard to</b> the <i>halakhot</i> of <b>Shabbat: One who forgets the essence of Shabbat,</b> i.e., one who is entirely ignorant of the mitzva of Shabbat according to Torah law, <b>and performed numerous prohibited labors on multiple <i>Shabbatot</i>, is liable</b> to bring <b>only one sin-offering</b> for all those labors when he becomes aware that those actions were prohibited. <b>One who knows the essence of Shabbat</b> but forgets which day is Shabbat, i.e., one who lost track of the days of the week, <b>and performs numerous prohibited labors on multiple <i>Shabbatot</i> is liable</b> to bring a sin-offering <b>for each Shabbat</b> when he becomes aware that he performed those actions on Shabbat. <b>One who is aware that</b> the day <b>is Shabbat</b> but temporarily forgot that certain labors were prohibited <b>and performed numerous prohibited labors on multiple <i>Shabbatot</i> is liable</b> to bring a sin-offering <b>for each</b>"
+                ],
+                [
+                  "<b>and every primary category of labor</b> that he performed. <b>One who performs numerous prohibited labors</b> subsumed under a <b>single</b> category <b>of labor is liable</b> to bring <b>only one sin-offering.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shabbat 67b:17",
+                "Shabbat 68a:1"
+              ],
+              "he": [
+                [
+                  "מַתְנִי׳ <big><strong>כְּלָל גָּדוֹל</strong></big> אָמְרוּ בְּשַׁבָּת: כׇּל הַשּׁוֹכֵחַ עִיקַּר שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — אֵינוֹ חַיָּיב אֶלָּא חַטָּאת אַחַת. הַיּוֹדֵעַ עִיקַּר שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — חַיָּיב עַל כׇּל שַׁבָּת וְשַׁבָּת. הַיּוֹדֵעַ שֶׁהוּא שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה — חַיָּיב עַל כׇּל"
+                ],
+                [
+                  "אַב מְלָאכָה וּמְלָאכָה. הָעוֹשֶׂה מְלָאכוֹת הַרְבֵּה מֵעֵין מְלָאכָה אַחַת, אֵינוֹ חַיָּיב אֶלָּא חַטָּאת אַחַת."
+                ]
+              ],
+              "link": "/Shabbat/67b",
+              "originalRefsBeforeRewriting": [
+                "Shabbat 67b:17",
+                "Shabbat 68a:1"
+              ],
+              "ref": "Shabbat 67b:17-68a:1",
+              "sourceHeRef": "שבת ס״ז ב",
+              "sourceRef": "Shabbat 67b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "The Sages <b>stated a significant principle with regard to</b> the <i>halakhot</i> of <b>Shabbat: One who forgets the essence of Shabbat,</b> i.e., one who is entirely ignorant of the mitzva of Shabbat according to Torah law, <b>and performed numerous prohibited labors on multiple <i>Shabbatot</i>, is liable</b> to bring <b>only one sin-offering</b> for all those labors when he becomes aware that those actions were prohibited. <b>One who knows the essence of Shabbat</b> but forgets which day is Shabbat, i.e., one who lost track of the days of the week, <b>and performs numerous prohibited labors on multiple <i>Shabbatot</i> is liable</b> to bring a sin-offering <b>for each Shabbat</b> when he becomes aware that he performed those actions on Shabbat. <b>One who is aware that</b> the day <b>is Shabbat</b> but temporarily forgot that certain labors were prohibited <b>and performed numerous prohibited labors on multiple <i>Shabbatot</i> is liable</b> to bring a sin-offering <b>for each</b> <b>and every primary category of labor</b> that he performed. <b>One who performs numerous prohibited labors</b> subsumed under a <b>single</b> category <b>of labor is liable</b> to bring <b>only one sin-offering.</b>",
+              "he": "כְּלָל גָּדוֹל אָמְרוּ בַשַּׁבָּת. כָּל הַשּׁוֹכֵחַ עִקַּר שַׁבָּת וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְשַׁבָּתוֹת הַרְבֵּה, אֵינוֹ חַיָּב אֶלָּא חַטָּאת אֶחָת. הַיּוֹדֵעַ עִקַּר שַׁבָּת וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה, חַיָּב עַל כָּל שַׁבָּת וְשַׁבָּת. הַיּוֹדֵעַ שֶׁהוּא שַׁבָּת וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה, חַיָּב עַל כָּל אַב מְלָאכָה וּמְלָאכָה. הָעוֹשֶׂה מְלָאכוֹת הַרְבֵּה מֵעֵין מְלָאכָה אַחַת, אֵינוֹ חַיָּב אֶלָּא חַטָּאת אֶחָת:",
+              "link": "/Mishnah Shabbat/7",
+              "ref": "Mishnah Shabbat 7:1",
+              "sourceHeRef": "משנה שבת ז:א",
+              "sourceRef": "Mishnah Shabbat 7:1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A great general principle was stated with regard to the violation of the Sabbath prohibitions: Anyone who forgets the fundamental principle of the Sabbath, failing to recall that the Jews were commanded to observe the Sabbath or was captured and taken among gentiles while a child or converted in his childhood and remained living among gentiles, he is liable for only one sin-offering even though he performed many forbidden labors on many different Sabbaths, for it is all one lapse of awareness.<br>Similarly, he is liable for one sin-offering for all the forbidden fat that he ate, one sin-offering for all the blood that he ate. Similar laws apply to all analogous situations regarding these sins. Whenever one knows the fundamental principle of the Sabbath, but forgot that a given day was the Sabbath and thought it was an ordinary day, he is liable for only one sin-offering for the entire day, even though he performed many forbidden labors on it. Similarly, he is liable for a sin-offering for every Sabbath that he inadvertently desecrated.",
+              "he": "כְּלָל גָּדוֹל אָמְרוּ בְּשַׁבָּת כָּל הַשּׁוֹכֵחַ עִקַּר שַׁבָּת וְשָׁכַח שֶׁנִּצְטַוּוּ יִשְׂרָאֵל עַל הַשַּׁבָּת. אוֹ שֶׁנִּשְׁבָּה וְהוּא קָטָן לְבֵין הָעַכּוּ\"ם אוֹ נִתְגַּיֵּר קָטָן וְהוּא בֵּין הָעַכּוּ\"ם. אַף עַל פִּי שֶׁעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה אֵינוֹ חַיָּב אֶלָּא חַטָּאת אַחַת שֶׁהַכּל שְׁגָגָה אַחַת הִיא. וְכֵן חַיָּב חַטָּאת אַחַת עַל כָּל חֵלֶב שֶׁאָכַל וְחַטָּאת אַחַת עַל דָּם שֶׁאָכַל. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה בַּעֲבוֹדוֹת אֵלּוּ. וְכָל הַיּוֹדֵעַ עִקַּר שַׁבָּת אֲבָל שָׁכַח שֶׁהַיּוֹם שַׁבָּת וְדִמָּה שֶׁהוּא חֹל אַף עַל פִּי שֶׁעָשָׂה בּוֹ מְלָאכוֹת הַרְבֵּה חַיָּב חַטָּאת אַחַת עַל הַיּוֹם כֻּלּוֹ וְכֵן חַטָּאת עַל כָּל שַׁבָּת וְשַׁבָּת שֶׁשָּׁגַג בּוֹ:",
+              "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 7:2",
+              "sourceHeRef": "הלכות שגגות ז:ב",
+              "sourceRef": "Offerings for Unintentional Transgressions 7:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">השוכח עיקר שבת</strong> - דסבור לא נכתבה שבת בתורה דהיינו העלם זה וזה בידו שגגת שבת ושגגת מלאכות:",
+              "ref": "Rashi on Keritot 16b:3:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ג:א",
+              "sourceRef": "Rashi on Keritot 16b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חטאת אחת</strong> - על כולן [דחדא] שגגה היא והתם ליכא למימר ימים שבינתיים הויין ידיעה דהא לא ידע לעולם עיקר שבת עד שילמוד:",
+              "ref": "Rashi on Keritot 16b:3:2",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ג:ב",
+              "sourceRef": "Rashi on Keritot 16b:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבה: מנא אמינא לה</b> <span class=\"hebrew-emphasis\">[מנין אומר אני אותה]?</span> <b>דתנן</b> <span class=\"hebrew-emphasis\">[ש</span>כך <span class=\"hebrew-emphasis\">שנינו</span> במשנה<span class=\"hebrew-emphasis\">],</span> <b>כלל גדול אמרו בשבת: כל השוכח עיקר שבת,</b> שאינו יודע כלל שיש איסור מלאכה בשבת, <b>ועשה מלאכות הרבה בשבתות הרבה</b> — <b>אינו חייב אלא</b> חטאת <b>אחת,</b> שאין כאן אלא העלם אחד.",
+              "ref": "Steinsaltz on Keritot 16b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:ג",
+              "sourceRef": "Steinsaltz on Keritot 16b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This means he has no knowledge about Shabbat and its prohibitions at all, whether he was never taught or whether he was taught but forgot. Consequently, he has a total lapse of awareness of the Shabbat and all its prohibited labors. In such a situation, it cannot be said that the intervening days are considered awareness, as he will not become aware of his sins until he learns about Shabbat.",
+              "he": "כלומר, שאינו יודע כלל ממצות השבת ואיסוריה, הן שלא למד מעולם והן שלמד ושכח, והעלם שבת ומלאכות בידו. ובמקרה זה אי אפשר לומר שימים שבינתיים ייחשבו כידיעה, שכן עד שילמד לא תהא לו ידיעה, שלגביה נאמר \"ונעלם ממנו\" (רש\"י).",
+              "ref": "Steinsaltz comment #1 on Keritot 16b:3",
+              "sourceHeRef": "כָּל הַשּׁוֹכֵחַ עִיקַּר שַׁבָּת וכו׳",
+              "sourceRef": "Anyone who forgets the essence of Shabbat, etc."
+            },
+            {
+              "en": "One who forgets about the entire concept of Shabbat, or who was taken captive among the gentiles as a minor, or who converted to Judaism as a minor but lived among gentiles and never knew about Shabbat, and he performed many prohibited labors on many <i>Shabbatot</i>, is liable to bring only one sin offering. This is because all his actions are due to the same basic gap in his knowledge (Rambam<i> Sefer Korbanot</i>,<i> Hilkhot Shegagot</i> 7:2).",
+              "he": "השוכח עיקר שבת ושכח שנצטוו ישראל על השבת, או שנשבה והוא קטן לבין הגויים, או נתגייר קטן והוא בין הגויים, אף על פי שעשה מלאכות הרבה בשבתות הרבה — אינו חייב אלא חטאת אחת שהכל שגגה אחת היא. כמשנה במסכת שבת (סז,ב). (רמב\"ם ספר קרבנות הלכות שגגות פ\"ז ה\"ב).",
+              "ref": "Steinsaltz comment #2 on Keritot 16b:3",
+              "sourceHeRef": "כְּלָל גָּדוֹל אָמְרוּ בְּשַׁבָּת",
+              "sourceRef": "The Sages stated a significant principle with regard to Shabbat"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבה מסתברא כו'</strong> - ופשט ליה דשבתות כי גופין דמיין כו'. ואם תאמר קשיא מיניה אדרבה שהרי רבה קאמר לעיל לר\"א דקצר וקצר מחייב תרתי אפי' בשבת אחת וא\"כ למה צריך שבתות כגופין דמיין וכן בנדה מאי נפקא ליה מיניה מגופין מוחלקין הא ר\"א מחייב על כל ביאה וביאה וי\"ל דר\"א השיב לר\"ע לפי דברי רבי עקיבא:",
+              "ref": "Tosafot on Keritot 16b:3:1",
+              "sourceHeRef": "תוספות על כריתות ט״ז ב:ג:א",
+              "sourceRef": "Tosafot on Keritot 16b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דתנן כלל גדול כו' אלא פשיטא ר\"ע היא וש\"מ ימים שבינתים כו'</strong> - וא\"ת מאי פשיטא ליה להביא ראיה מדבריו וי\"ל דסבר רבה כיון דמיבעיא ליה בולדי מלאכות דהיינו העושה מלאכות הרבה מעין מלאכה אחת מיבעיא ליה הסמוכה לה דהיינו יודע שהוא שבת ועשה מלאכות הרבה כו' דהיינו זדון שבת ושגגת מלאכות אי שבתות כגופין דמיין או לא:",
+              "ref": "Tosafot on Keritot 16b:3:2",
+              "sourceHeRef": "תוספות על כריתות ט״ז ב:ג:ב",
+              "sourceRef": "Tosafot on Keritot 16b:3:2"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> said: From where do I say this? As we learned</b> in a mishna (<i>Shabbat</i> 67b): The Sages <b>stated a significant principle with regard to</b> the <i>halakhot</i> of <b>Shabbat:</b> With regard to <b>anyone who forgets the essence of Shabbat,</b> i.e., one who is entirely ignorant that labor is prohibited on Shabbat, <b>and</b> he <b>performed multiple</b> prohibited <b>labors on multiple <i>Shabbatot</i>, he is liable</b> to bring <b>only one</b> sin offering, as there is only a single, comprehensive lapse of awareness.",
+      "he": "אָמַר רַבָּה: מְנָא אָמֵינָא לַהּ? דִּתְנַן, כְּלָל גָּדוֹל אָמְרוּ בַּשַּׁבָּת: כׇּל הַשּׁוֹכֵחַ עִיקַּר שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה – אֵינוֹ חַיָּיב אֶלָּא אַחַת.",
+      "ref": "Keritot 16b:3"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "7) How so? If one did not know of the institution of the Sabbath, and he performed many labors on many Sabbaths — even if they were distinct proto-labors (avoth, and not derivative [toldoth]), he is liable for only one sin-offering all of his days. If he knew of the institution of the Sabbath, but thought: \"Today is not Shabbath,\" \"Today is not Shabbath,\" and performed many labors on many Sabbaths, he is liable for each Sabbath. If he knew that it were Sabbath, but thought: \"This is not a (forbidden) labor,\" \"This is not a labor,\" and he performed many labors on many Sabbaths — if they were distinct proto-labors, he is liable for each (distinct) labor; and if they were (acts falling under) one labor, he is liable for (labor performed in) each forgetfulness lapse.",
+              "he": "[ז] הא כיצד? מי שאינו יודע עיקר שבת ועשה מלאכות הרבה בשבתות הרבה, אף על פי שמעין אבות מלאכות עשה – אינו חייב אלא חטאת אחת כל ימיו. והיודע עיקר שבת וטעה ואמר \"אין זו שבת; אין זו שבת\" ועשה מלאכות הרבה בשבתות הרבה – חייב על כל שבת ושבת. והיודע שהוא שבת וטעה ואמר \"אין זו מלאכה; אין זו מלאכה\" ועשה מלאכות הרבה בשבתות הרבה אם מעין אבות מלאכות עשה – חייב על כל מלאכה ומלאכה ואם מעין מלאכה אחת – חייב על כל העלם והעלם.",
+              "ref": "Sifra, Vayikra Dibbura DeChovah, Chapter 1 7",
+              "sourceHeRef": "ספרא, ויקרא דבורא דחובה, פרק א ז׳",
+              "sourceRef": "Sifra, Vayikra Dibbura DeChovah, Chapter 1 7"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A great general principle was stated with regard to the violation of the Sabbath prohibitions: Anyone who forgets the fundamental principle of the Sabbath, failing to recall that the Jews were commanded to observe the Sabbath or was captured and taken among gentiles while a child or converted in his childhood and remained living among gentiles, he is liable for only one sin-offering even though he performed many forbidden labors on many different Sabbaths, for it is all one lapse of awareness.<br>Similarly, he is liable for one sin-offering for all the forbidden fat that he ate, one sin-offering for all the blood that he ate. Similar laws apply to all analogous situations regarding these sins. Whenever one knows the fundamental principle of the Sabbath, but forgot that a given day was the Sabbath and thought it was an ordinary day, he is liable for only one sin-offering for the entire day, even though he performed many forbidden labors on it. Similarly, he is liable for a sin-offering for every Sabbath that he inadvertently desecrated.",
+              "he": "כְּלָל גָּדוֹל אָמְרוּ בְּשַׁבָּת כָּל הַשּׁוֹכֵחַ עִקַּר שַׁבָּת וְשָׁכַח שֶׁנִּצְטַוּוּ יִשְׂרָאֵל עַל הַשַּׁבָּת. אוֹ שֶׁנִּשְׁבָּה וְהוּא קָטָן לְבֵין הָעַכּוּ\"ם אוֹ נִתְגַּיֵּר קָטָן וְהוּא בֵּין הָעַכּוּ\"ם. אַף עַל פִּי שֶׁעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה אֵינוֹ חַיָּב אֶלָּא חַטָּאת אַחַת שֶׁהַכּל שְׁגָגָה אַחַת הִיא. וְכֵן חַיָּב חַטָּאת אַחַת עַל כָּל חֵלֶב שֶׁאָכַל וְחַטָּאת אַחַת עַל דָּם שֶׁאָכַל. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה בַּעֲבוֹדוֹת אֵלּוּ. וְכָל הַיּוֹדֵעַ עִקַּר שַׁבָּת אֲבָל שָׁכַח שֶׁהַיּוֹם שַׁבָּת וְדִמָּה שֶׁהוּא חֹל אַף עַל פִּי שֶׁעָשָׂה בּוֹ מְלָאכוֹת הַרְבֵּה חַיָּב חַטָּאת אַחַת עַל הַיּוֹם כֻּלּוֹ וְכֵן חַטָּאת עַל כָּל שַׁבָּת וְשַׁבָּת שֶׁשָּׁגַג בּוֹ:",
+              "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 7:2",
+              "sourceHeRef": "הלכות שגגות ז:ב",
+              "sourceRef": "Offerings for Unintentional Transgressions 7:2"
+            },
+            {
+              "en": "Anyone who knows that a given day is the Sabbath, but inadvertently performed forbidden labors without knowing that these labors are forbidden or knew that they were forbidden, but did not know that one was liable for <i>karet</i> for their violation, is liable for a sin-offering for every general category of forbidden labor. Even if he performed all 39 forbidden labors in one lapse of awareness, he must bring 39 sin-offerings.",
+              "he": "וְכָל הַיּוֹדֵעַ שֶׁהַיּוֹם שַׁבָּת וְשָׁגַג בִּמְלָאכוֹת וְלֹא יָדַע שֶׁמְּלָאכוֹת אֵלּוּ אֲסוּרוֹת אוֹ שֶׁיָּדַע שֶׁהֵן אֲסוּרוֹת וְלֹא יָדַע שֶׁחַיָּבִין עֲלֵיהֶן כָּרֵת וְעָשָׂה מְלָאכוֹת הַרְבֵּה. חַיָּב חַטָּאת עַל כָּל אַב מְלָאכָה וּמְלָאכָה. אֲפִלּוּ עָשָׂה הָאַרְבָּעִים חָסֵר אַחַת בְּהֶעְלֵם אַחַת מֵבִיא שְׁלֹשִׁים וְתֵשַׁע חַטָּאוֹת:",
+              "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 7:3",
+              "sourceHeRef": "הלכות שגגות ז:ג",
+              "sourceRef": "Offerings for Unintentional Transgressions 7:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">היודע עיקר שבת</strong> - שידע שארבעים אבות מלאכות אסורות בשבת אבל אינו יודע שהיום שבת דהיינו שגגת שבת וזדון מלאכות ועשה מלאכות הרבה בשבתות הרבה ולא נודע לו בינתיים שחטא:",
+              "ref": "Rashi on Keritot 16b:4:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ד:א",
+              "sourceRef": "Rashi on Keritot 16b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חייב על כל שבת ושבת</strong> - חטאת אחת משום דימים שבינתיים הויין ידיעה לענין שגגת שבת ואינו חייב על כל מלאכה ומלאכה של כל שבת ושבת דהא שגגת שבת וזדון מלאכות דהיינו הנה שהיא אחת אבל כגופין דמיין ליכא למימר <span class=\"parenthesized\">(פשטו מינה)</span> דנימא דמש\"ה חייב על כל שבת דעל כרחיך מסיפא קדייק ואזיל דלית ליה להאי תנא שבתות כגופין דמיין וטעמא דרישא משום דימים שבינתיים הויין ידיעה לחלק:",
+              "ref": "Rashi on Keritot 16b:4:2",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ד:ב",
+              "sourceRef": "Rashi on Keritot 16b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">היודע שהוא שבת ועשה מלאכות [הרבה] בשבתות הרבה</strong> - ואותן שעשה בזו עשה בזו דשגג במלאכות הרבה כסבור מלאכה זו מותרת חייב על כל מלאכה ומלאכה על שבת ראשון דהיינו אחת שהיא הנה זדון שבת ושגגת מלאכות:",
+              "ref": "Rashi on Keritot 16b:4:3",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ד:ג",
+              "sourceRef": "Rashi on Keritot 16b:4:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>היודע עיקר</b> איסור מלאכה ב<b>שבת, ועשה מלאכות הרבה בשבתות הרבה,</b> מפני שלא ידע שהיום שבת — <b>חייב</b> חטאת <b>על כל שבת ושבת,</b> שהימים שבינתיים נחשבים ידיעה לחלק. <b>היודע שהוא שבת ועשה מלאכות הרבה,</b> שלא ידע שהן אסורות, ועשאן <b>בשבתות הרבה</b> — <b>חייב על כל אב מלאכה ומלאכה;</b>",
+              "ref": "Steinsaltz on Keritot 16b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:ד",
+              "sourceRef": "Steinsaltz on Keritot 16b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one is aware of the mitzva of Shabbat, but was unaware that a specific day was Shabbat and instead thought it was a weekday, is liable to bring only one sin offering for all the labors performed on that entire Shabbat, even if he performed many labors. Similarly, if he forgot it was Shabbat during the course of many <i>Shabbatot</i> and performed multiple labors each Shabbat, he is liable to bring only one sin offering for each Shabbat (Rambam<i> Sefer Korbanot</i>,<i> Hilkhot Shegagot</i> 7:2).",
+              "he": "היודע עיקר שבת אבל שכח שהיום שבת ודימה שהוא חול, אף על פי שעשה בו מלאכות הרבה — חייב חטאת אחת על היום כולו, וכן חטאת על כל שבת ושבת ששגג בו. כמשנה במסכת שבת (סז,ב). (רמב\"ם שם).",
+              "ref": "Steinsaltz comment #1 on Keritot 16b:4",
+              "sourceHeRef": "הַיּוֹדֵעַ עִיקַּר שַׁבָּת",
+              "sourceRef": "One who knows the essence of Shabbat"
+            }
+          ]
+        }
+      },
+      "en": "With regard to <b>one who knows the essence of</b> the prohibition against labor on <b>Shabbat, and</b> he <b>performed multiple</b> prohibited <b>labors on multiple <i>Shabbatot</i></b> because he was unaware that those days were Shabbat, he is <b>liable</b> to bring a sin offering <b>for each and every Shabbat,</b> as the intervening days are considered awareness which differentiates between the <i>Shabbatot</i>. <b>One who is aware that</b> the day <b>is Shabbat and performed multiple</b> prohibited <b>labors,</b> which he did not know were prohibited, <b>on multiple <i>Shabbatot</i>,</b> is <b>liable</b> to bring a sin offering <b>for each and every primary category of labor</b> that he performed.",
+      "he": "הַיּוֹדֵעַ עִיקַּר שַׁבָּת, וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה – חַיָּיב עַל כׇּל שַׁבָּת וְשַׁבָּת. הַיּוֹדֵעַ שֶׁהוּא שַׁבָּת וְעָשָׂה מְלָאכוֹת הַרְבֵּה בְּשַׁבָּתוֹת הַרְבֵּה – חַיָּיב עַל כׇּל אַב מְלָאכָה וּמְלָאכָה.",
+      "ref": "Keritot 16b:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואילו חייב על כל מלאכה ומלאכה על כל שבת ושבת לא קתני</strong> - בהך סיפא גבי זדון שבת ושגגת מלאכות דכיון דאותן עצמן שעשה בזו עשה בזו ובהעלם אחד אלמא שבתות לאו כגופין דמיין וה\"ל עושה מלאכה אחת כמה פעמים בהעלם אחד ואינו חייב אלא אחת:",
+              "ref": "Rashi on Keritot 16b:5:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ה:א",
+              "sourceRef": "Rashi on Keritot 16b:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואילו \"חייב על כל אב מלאכה של כל שבת ושבת\" לא קתני</b> <span class=\"hebrew-emphasis\">[אינו שונה]</span> בהלכה זו, שאין רואים את השבתות שחטא בהן כגופים נפרדים.",
+              "ref": "Steinsaltz on Keritot 16b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:ה",
+              "sourceRef": "Steinsaltz on Keritot 16b:5"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> comments: <b>But</b> in the latter case, the mishna <b>does not teach</b> that he is <b>liable</b> to bring a sin offering <b>for each</b> act of <b>a primary category of labor</b> that he performed <b>on each and every Shabbat.</b> He is liable to bring one sin offering for each primary category of labor, despite the fact that he performed the act on multiple <i>Shabbatot</i>. This indicates that the different <i>Shabbatot</i> are not considered separate entities.",
+      "he": "וְאִילּוּ ״חַיָּיב עַל כׇּל אַב מְלָאכָה שֶׁל כׇּל שַׁבָּת וְשַׁבָּת״ לָא קָתָנֵי.",
+      "ref": "Keritot 16b:5"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "We learned in the mishna, among those liable for performing primary categories of labor: <b>One who sows, and one who plows.</b> The Gemara asks: <b>Since, after all,</b> in terms of <b>plowing, one plows first</b> and only then sows, <b>let</b> the <i>tanna</i> <b>teach</b> first <b>one who plows, and afterward let him teach one who sows.</b> The Gemara answers: The <b><i>tanna</i></b> ordered the mishna <b>based</b> on the practice <b>in Eretz Yisrael, where</b> they <b>sow first and then plow.</b> In Eretz Yisrael, the practice was to plow a second time after sowing to cover the seeds.",
+                "A <i>baraita</i> <b>is taught</b> with regard to the prohibited labor of sowing: <b>One who sows, and one who prunes</b> the branches of vines to accelerate their growth, <b>and one who plants, and one who bends</b> the branch of a vine or a tree into the ground so that it takes root while still attached to the trunk, <b>and one who grafts</b> the branch of one tree onto another have <b>all</b> performed <b>one</b> type of <b>labor,</b> as they all stimulate plant growth. The Gemara asks: <b>What is</b> the <i>baraita</i> <b>teaching us?</b> The Gemara explains: <b>This teaches us</b> that <b>one who</b> unwittingly <b>performs numerous prohibited labors</b> subsumed under a <b>single</b> primary category <b>of labor,</b> like those listed in the <i>baraita</i>, <b>is liable to</b> bring <b>only one</b> sin-offering, since they are considered aspects of the same labor. <b>Rabbi Aḥa said</b> that <b>Rabbi Ḥiyya bar Ashi said</b> that <b>Rabbi Ami said: One who prunes is liable for</b> the labor of <b>planting. And one who plants, and one who bends, and one who grafts is liable for</b> the labor of <b>sowing.</b> The Gemara is surprised at this: Is that to say that one who bends and one who grafts a branch, <b>for sowing, yes,</b> he is liable; <b>for planting, no,</b> he is <b>not</b> liable? These labors, performed on trees, are more similar to planting. Rather, <b>say</b> as follows: One is liable <b>even for sowing,</b> as with regard to the <i>halakhot</i> of Shabbat there is no difference between sowing and planting.",
+                "<b>Rav Kahana said:</b> One who <b>prunes</b> a tree <b>and needs the wood</b> that he hewed from the tree for fuel or some other purpose <b>is liable to</b> bring <b>two</b> sin-offerings: <b>One</b> sin-offering <b>due to</b> the labor of <b>reaping,</b> like anyone who severs an item from the ground for the purpose of harvesting the detached object, and <b>one</b> sin-offering <b>due to</b> the labor of <b>planting,</b> since he thereby stimulates growth of the plant. Similarly, <b>Rav Yosef said: One who reaps alfalfa is liable to</b> bring <b>two</b> sin-offerings: <b>One due to reaping,</b> since he is cutting the plant for animal feed, <b>and one due to planting,</b> since cutting stimulates the growth of the alfalfa. Similarly, <b>Abaye said: One who cuts beet leaves is liable to</b> bring <b>two</b> sin-offerings: <b>One due to reaping and one due to sowing.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shabbat 73b:2",
+                "Shabbat 73b:3",
+                "Shabbat 73b:4"
+              ],
+              "he": [
+                "הַזּוֹרֵעַ וְהַחוֹרֵשׁ. מִכְּדֵי מִכְרָב כָּרְבִי בְּרֵישָׁא, לִיתְנֵי חוֹרֵשׁ וַהֲדַר לִיתְנֵי זוֹרֵעַ! תַּנָּא בְּאֶרֶץ יִשְׂרָאֵל קָאֵי דְּזָרְעִי בְּרֵישָׁא וַהֲדַר כָּרְבִי.",
+                "תָּנָא: הַזּוֹרֵעַ, וְהַזּוֹמֵר, וְהַנּוֹטֵעַ, וְהַמַּבְרִיךְ, וְהַמַּרְכִּיב — כּוּלָּן מְלָאכָה אַחַת הֵן. מַאי קָא מַשְׁמַע לַן? [הָא קָא מַשְׁמַע לַן] הָעוֹשֶׂה מְלָאכוֹת הַרְבֵּה מֵעֵין מְלָאכָה אַחַת אֵינוֹ חַיָּיב אֶלָּא אַחַת. אָמַר רַבִּי אַחָא, אָמַר רַבִּי חִיָּיא בַּר אָשֵׁי, אָמַר רַבִּי אַמֵּי: זוֹמֵר חַיָּיב מִשּׁוּם נוֹטֵעַ, וְהַנּוֹטֵעַ וְהַמַּבְרִיךְ וְהַמַּרְכִּיב חַיָּיב מִשּׁוּם זוֹרֵעַ. מִשּׁוּם זוֹרֵעַ אִין, מִשּׁוּם נוֹטֵעַ לָא? אֵימָא: אַף מִשּׁוּם זוֹרֵעַ.",
+                "אָמַר רַב כָּהֲנָא: זוֹמֵר וְצָרִיךְ לָעֵצִים — חַיָּיב שְׁתַּיִם: אַחַת מִשּׁוּם קוֹצֵר, וְאַחַת מִשּׁוּם נוֹטֵעַ. אָמַר רַב יוֹסֵף: הַאי מַאן דְּקָטֵל אַסְפַּסְתָּא חַיָּיב שְׁתַּיִם: אַחַת מִשּׁוּם קוֹצֵר, וְאַחַת מִשּׁוּם נוֹטֵעַ. אָמַר אַבָּיֵי: הַאי מַאן דְּקָנֵיב סִילְקָא חַיָּיב שְׁתַּיִם: אַחַת מִשּׁוּם קוֹצֵר, וְאַחַת מִשּׁוּם זוֹרֵעַ."
+              ],
+              "link": "/Shabbat/73b",
+              "originalRefsBeforeRewriting": [
+                "Shabbat 73b:3"
+              ],
+              "ref": "Shabbat 73b:2-4",
+              "sourceHeRef": "שבת ע״ג ב",
+              "sourceRef": "Shabbat 73b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If he performs several activities comprising a single category of forbidden labor in one lapse of awareness, e.g., he sowed, extended a vine by replanting one of its branches, grafted a branch onto a tree, he is liable for only one sin-offering. In <i>Hilchot Shabbat</i>, it has already been explained which activities are primary labors, which are derivatives, and which activities comprise a single category of forbidden labor.",
+              "he": "עָשָׂה מְלָאכוֹת הַרְבֵּה מֵעֵין מְלָאכָה אַחַת. כְּגוֹן שֶׁזָּרַע וְהִבְרִיךְ וְהִרְכִּיב בְּהֶעְלֵם אַחַת אֵינוֹ חַיָּב אֶלָּא חַטָּאת אַחַת. וּכְבָר נִתְבָּאֵר בְּהִלְכוֹת שַׁבָּת הָאָבוֹת וְהַתּוֹלָדוֹת וְהַמְּלָאכוֹת שֶׁהֵן מֵעֵין אָבוֹת:",
+              "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 7:7",
+              "sourceHeRef": "הלכות שגגות ז:ז",
+              "sourceRef": "Offerings for Unintentional Transgressions 7:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מעין מלאכה אחת אינו חייב אלא אחת</strong> - דכיון דאב אחד לכולן:",
+              "ref": "Rashi on Keritot 16b:6:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ו:א",
+              "sourceRef": "Rashi on Keritot 16b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ויש לשאול: <b>מני הא</b> <span class=\"hebrew-emphasis\">[</span>כשיטת <span class=\"hebrew-emphasis\">מי</span> משנה <span class=\"hebrew-emphasis\">זו]?</span> <b>אילימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> שיטת <b>ר' אליעזר, אימא סיפא</b> <span class=\"hebrew-emphasis\">[אמור את סופה]:</span> <b>העושה מלאכות הרבה</b> וכולן <b>מעין מלאכה אחת,</b> כלומר, ולדות — <b>אין חייב אלא אחת, ואי</b> <span class=\"hebrew-emphasis\">[ואם]</span> לשיטת <b>ר' אליעזר</b> — הרי <b>חייב על כל ולדי מלאכות כמלאכות!</b>",
+              "ref": "Steinsaltz on Keritot 16b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:ו",
+              "sourceRef": "Steinsaltz on Keritot 16b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One who performed multiple prohibited labors subsumed under one primary category of labor during a single lapse of awareness, e.g., he planted a seed, rerouted a branch into the ground so it would take root as a separate tree, and grafted two trees together, is liable to bring only one sin offering (Rambam<i> Sefer Korbanot</i>,<i> Hilkhot Shegagot</i> 7:7).",
+              "he": "העושה בשבת מלאכות הרבה מעין מלאכה אחת, כגון שזרע והבריך והרכיב בהעלם אחת — אינו חייב אלא חטאת אחת. כמשנה במסכת שבת (סח,א), וכשיטת ר' עקיבא. (רמב\"ם שם ה\"ז).",
+              "ref": "Steinsaltz comment #1 on Keritot 16b:6",
+              "sourceHeRef": "הָעוֹשֶׂה מְלָאכוֹת הַרְבֵּה מֵעֵין מְלָאכָה אַחַת",
+              "sourceRef": "One who performs multiple prohibited labors subsumed under one primary category of prohibited labor"
+            }
+          ]
+        }
+      },
+      "en": "<b>Whose</b> opinion is <b>this? If we say</b> it is the opinion of <b><span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>, say the last clause</b> of that mishna: <b>One who performs multiple</b> prohibited <b>labors subsumed,</b> as subcategories, under <b>one</b> primary category of prohibited <b>labor</b> is <b>liable</b> to bring <b>only one</b> sin offering. <b>And if</b> this were the opinion of <b><span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span></b> it should state: He is <b>liable</b> to bring a separate sin offering <b>for each of</b> the different <b>subcategories of labors as</b> though they were separate primary categories of <b>labor.</b>",
+      "he": "מַנִּי הָא? אִילֵימָא רַבִּי אֱלִיעֶזֶר, אֵימָא סֵיפָא: הָעוֹשֶׂה מְלָאכוֹת הַרְבֵּה מֵעֵין מְלָאכָה אַחַת – אֵין חַיָּיב אֶלָּא אֶחָת, וְאִי רַבִּי אֱלִיעֶזֶר – חַיָּיב עַל כׇּל וַלְדֵי מְלָאכוֹת כִּמְלָאכוֹת!",
+      "ref": "Keritot 16b:6"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וש\"מ</strong> - ממציעתא שגגת שבת וזדון מלאכות פשיטא ליה לר\"ע דימים שבינתיים הויין ידיעה מדקתני חייב על כל שבת ושבת:",
+              "ref": "Rashi on Keritot 16b:7:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ז:א",
+              "sourceRef": "Rashi on Keritot 16b:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט</span> הדבר<span class=\"hebrew-emphasis\">]</span> שמשנה זו שיטת ר' <b>עקיבא היא, ושמע מינה</b> <span class=\"hebrew-emphasis\">[ולמד מכאן]</span> כי <b>שגגת שבת וזדון מלאכות פשיטא ליה</b> <span class=\"hebrew-emphasis\">[פשוט</span> היה <span class=\"hebrew-emphasis\">לו]</span> ש<b>ימים שבינתיים הויין</b> <span class=\"hebrew-emphasis\">[נחשבים]</span> <b>ידיעה לחלק</b> בין שבת לשבת, כפי ששנינו בה שהיודע עיקר שבת ועשה מלאכות הרבה בשבתות הרבה — חייב על כל אחת ואחת.",
+              "ref": "Steinsaltz on Keritot 16b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:ז",
+              "sourceRef": "Steinsaltz on Keritot 16b:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> it is <b>obvious</b> that this mishna <b>is</b> in accordance with the opinion of <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>. And</b> you can <b>learn from</b> the mishna that when one acts <b>unwittingly</b> in that he did not know it was <b>Shabbat and</b> he acts <b>intentionally</b> in that he knows that these <b>labors</b> are prohibited on Shabbat, it is <b>obvious to</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>that</b> the <b>intervening days are</b> considered <b>awareness</b> of his sin, which serves <b>to differentiate</b> between the <i>Shabbatot</i> and render the individual liable to bring separate sin offerings for each Shabbat. It is for this reason that the mishna states that if one performs multiple labors on multiple <i>Shabbatot</i> because he was unaware that it was Shabbat, he is liable to bring a sin offering for each Shabbat.",
+      "he": "אֶלָּא פְּשִׁיטָא רַבִּי עֲקִיבָא הִיא, וּשְׁמַע מִינַּהּ שִׁגְגַת שַׁבָּת וּזְדוֹן מְלָאכוֹת פְּשִׁיטָא לֵיהּ דְּיָמִים שֶׁבֵּינְתַיִים הָוַיִין יְדִיעָה לְחַלֵּק,",
+      "ref": "Keritot 16b:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ותרוייהו לא קביל מיניה</strong> - מדלא קתני חייב על כל אב מלאכה של כל שבת וולדי מלאכות נמי לא קביל מיניה כדקתני סיפא מלאכה אחת כו':",
+              "ref": "Rashi on Keritot 16b:8:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ח:א",
+              "sourceRef": "Rashi on Keritot 16b:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ולפי זה, לגבי <b>זדון שבת ושגגת מלאכות הוא דבעי אי כגופין דמיין</b> <span class=\"hebrew-emphasis\">[הוא ששאל</span> במשנתנו <span class=\"hebrew-emphasis\">האם</span> השבתות שחטא בהן <span class=\"hebrew-emphasis\">כגופים</span> נפרדים <span class=\"hebrew-emphasis\">נחשבות],</span> <b>ופשט ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> ר' אליעזר ש<b>כגופין</b> נפרדים <b>דמיין</b> <span class=\"hebrew-emphasis\">[</span>הן <span class=\"hebrew-emphasis\">נחשבות],</span> וחייב על כל אחת ואחת, וכן פשט לו ש<b>ולדי מלאכות כמלאכות דמיין</b> <span class=\"hebrew-emphasis\">[נחשבים],</span> <b>ותרוייהו לא קביל מיניה</b> <span class=\"hebrew-emphasis\">[ושניהם לא קיבל ממנו]</span> ר' עקיבא.",
+              "ref": "Steinsaltz on Keritot 16b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:ח",
+              "sourceRef": "Steinsaltz on Keritot 16b:8"
+            }
+          ]
+        }
+      },
+      "en": "Consequently, it is clear that <b>it is</b> in a case where one acted <b>intentionally</b> in that he knew it was <b>Shabbat and unwittingly</b> in that he did not know that the acts he was performing were prohibited <b>labor, that</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>raises his dilemma,</b> as he is uncertain about <b>whether</b> the <i>Shabbatot</i> are <b>comparable</b> to separate <b>entities. And</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> <b>resolved</b> the dilemma <b>for him</b> by stating that the different <i>Shabbatot</i> are <b>comparable</b> to separate <b>entities,</b> and different <b>subcategories of labors are comparable</b> to primary categories of <b>labor,</b> and therefore one is liable for each act. <b>And</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>did not accept either of these</b> resolutions <b>from</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>.",
+      "he": "זְדוֹן שַׁבָּת וְשִׁגְגַת מְלָאכוֹת הוּא דְּבָעֵי אִי כְּגוּפִין דָּמְיָין, וּפְשַׁט לֵיהּ דִּכְגוּפִין דָּמְיָין, וַלְדֵי מְלָאכוֹת כִּמְלָאכוֹת דָּמְיָין, וְתַרְוַיְיהוּ לָא קַבֵּיל מִינֵּיהּ.",
+      "ref": "Keritot 16b:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">א\"ל אביי [כו'] לאו כגופין דמיין</strong> - מדלא קתני על כל מלאכה של כל שבת:",
+              "ref": "Rashi on Keritot 16b:9:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:ט:א",
+              "sourceRef": "Rashi on Keritot 16b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>אביי:</b> כיצד מוכח הדבר מן המשנה? <b>לעולם אימא</b> <span class=\"hebrew-emphasis\">[אומר]</span> <b>לך</b> כי <b>זדון שבת ושגגת מלאכות פשיטא ליה</b> <span class=\"hebrew-emphasis\">[פשוט</span> היה <span class=\"hebrew-emphasis\">לו]</span> <b>לר' עקיבא</b> ש<b>שבתות לאו כגופין דמיין</b> <span class=\"hebrew-emphasis\">[לא כגופים</span> נפרדים הן <span class=\"hebrew-emphasis\">נחשבות],</span> כפי שדייקנו מסוף משנה זו, שאינו חייב על אב מלאכה של כל שבת, <b>ושגגת שבת וזדון מלאכות הוא דבעי מיניה</b> <span class=\"hebrew-emphasis\">[ששאל אותו]</span> לגבי <b>ימים שבינתיים מי הויין</b> <span class=\"hebrew-emphasis\">[האם הם]</span> נחשבים <b>ידיעה לחלק או לא.</b>",
+              "ref": "Steinsaltz on Keritot 16b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:ט",
+              "sourceRef": "Steinsaltz on Keritot 16b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אביי אינו חלוק על מה שסבור רבה, שהמשנה במסכת שבת לשיטת ר' עקיבא היא, וכן גם לדעתו סבור ר' עקיבא שבשגגת שבת וזדון מלאכות חייב על כל שבת, מפני שהימים שבינתיים נחשבים ידיעה לחלק, ואילו בזדון שבת ושגגת מלאכות — אינו מביא אלא חטאת אחת, שאין רואים את השבתות כגופים נפרדים. ומה שנחלקו הוא בשיטת ר' אליעזר; לדעת רבה, בזדון שבת ושגגת מלאכות סבור ר' אליעזר ששבתות נחשבות כגופים, ועל כך חולק ר' עקיבא. ואילו לדעת אביי, ר' עקיבא אינו שואלו בענין זה מפני שר' אליעזר עצמו סבור שהשבתות אינן נחשבות כגופים שונים, ואם עשה מלאכה אחת בשגגה בשבתות הרבה — מביא רק חטאת אחת (רש\"י).",
+              "ref": "Steinsaltz comment #1 on Keritot 16b:9",
+              "sourceHeRef": "אמר ליה אביי וכו'",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "ואילו רבה סבור כי מתוך ששאל ר' עקיבא על מלאכות הרבה מעין מלאכה אחת, יש להניח ששאל על ההלכה הסמוכה לה במסכת שבת, בענין היודע שהוא שבת ועשה מלאכות הרבה בשבתות הרבה, האם שבתות נחשבות כגופים (תוס', רא\"ש בש\"מ). ויש שהציע כי לדעת רבה, הלשון \"כלל גדול\" ששנויה בראש משנה זו מלמדת כי מדובר בדבר מקובל ומפורסם, שאין בו מחלוקת. ועוד, שמן הברייתות שהביא רב חסדא להלן עולה בבירור שיש תנא הסבור ששבתות נחשבות כגופים (חידושים וביאורים).",
+              "ref": "Steinsaltz comment #2 on Keritot 16b:9",
+              "sourceHeRef": "לעולם אימא לך זדון שבת ושגגת מלאכות פשיטא ליה וכו' ",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said to</b> <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span>: You cannot prove your claim from the mishna. <b>Actually, I</b> could <b>say to you</b> that in a case where one acts <b>intentionally</b> in that he knows it is <b>Shabbat and unwittingly</b> in that he does not know that his actions are prohibited <b>labors,</b> it is <b>obvious to <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> that <i>Shabbatot</i> are not comparable</b> to separate <b>entities,</b> as it can be inferred from the latter clause of this mishna that one is not liable to bring a separate sin offering for each primary category of labor performed on each individual Shabbat. <b>And it is</b> in reference to a case where one acted <b>unwittingly</b> in that he did not know it was <b>Shabbat and intentionally</b> in that he knew his actions are prohibited <b>labors, that</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>raises his dilemma to</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>. The dilemma is whether the <b>intervening days are</b> considered <b>awareness to differentiate</b> between the <i>Shabbatot</i> <b>or not.</b>",
+      "he": "אֲמַר לֵיהּ אַבָּיֵי: לְעוֹלָם אֵימָא לָךְ זְדוֹן שַׁבָּת וְשִׁגְגַת מְלָאכוֹת פְּשִׁיטָא לֵיהּ לְרַבִּי עֲקִיבָא דְּשַׁבָּתוֹת לָאו כְּגוּפִין דָּמְיָין, וְשִׁגְגַת שַׁבָּת וּזְדוֹן מְלָאכוֹת הוּא דְּבָעֵי מִינֵּיהּ, דְּיָמִים שֶׁבֵּינְתַיִים מִי הָוַיִין יְדִיעָה לְחַלֵּק אוֹ לָא.",
+      "ref": "Keritot 16b:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וקביל מיניה</strong> - מדתניא מציעתא חייב על כל שבת ושבת וה\"ק סיפא דמתני' בהמה כשבת הדין עמך דודאי כזה כן זה:",
+              "ref": "Rashi on Keritot 16b:10:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:י:א",
+              "sourceRef": "Rashi on Keritot 16b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא קביל מיניה</strong> - מדתניא סיפא מעין מלאכה אחת כו'. בין אביי ורבה איכא פלוגתא אליבא דר\"א בזדון שבת ושגגת מלאכות דלרבה מחייב ליה ר\"א תרתי ולאביי אפילו ר\"א לא מחייב אלא חדא ועוד דמאי דקאמר רבה דמיבעיא ליה לר\"ע קאמר אביי דפשיטא ליה אבל תרוייהו מודו דלר\"ע שבתות לאו כגופין דמיין וגבי שגגת שבת אית ליה ימים שבינתיים הויין ידיעה לחלק:",
+              "ref": "Rashi on Keritot 16b:10:2",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:י:ב",
+              "sourceRef": "Rashi on Keritot 16b:10:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ופשיט ליה</b> <span class=\"hebrew-emphasis\">[ופשט לו]</span> ר' אליעזר ש<b>ימים שבינתיים</b> נחשבים כידיעה <b>לחלק, וקביל מיניה</b> <span class=\"hebrew-emphasis\">[וקיבל ממנו]</span> ר' עקיבא, כפי ששנינו במשנה זו, שהיודע עיקר שבת ועשה מלאכות הרבה בשבתות הרבה חייב על כל שבת ושבת. ועוד <b>פשט ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> כי <b>ולדי מלאכות כמלאכות דמיין</b> <span class=\"hebrew-emphasis\">[נחשבים],</span> <b>ולא קביל מיניה</b> <span class=\"hebrew-emphasis\">[ולא קיבל ממנו]!</span>",
+              "ref": "Steinsaltz on Keritot 16b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:י",
+              "sourceRef": "Steinsaltz on Keritot 16b:10"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> <b>resolved</b> the dilemma <b>for him</b> by stating <b>that</b> the <b>intervening days</b> are considered awareness <b>to differentiate</b> between the <i>Shabbatot</i>. <b>And</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>accepted</b> this resolution <b>from him,</b> due the ruling of the mishna that one who knows the essence of the prohibition against labor on Shabbat and performs multiple prohibited labors on multiple <i>Shabbatot</i> is liable to bring a sin offering for each and every Shabbat. <b>And</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> also <b>resolved</b> his other dilemma <b>for him</b> by stating that <b>subcategories of labors are comparable</b> to primary categories of <b>labor</b> and one is liable for each act, <b>but</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>did not accept</b> this resolution <b>from him.</b>",
+      "he": "וּפְשַׁיט לֵיהּ דְּיָמִים שֶׁבֵּינְתַיִים [הָוַיִין יְדִיעָה] לְחַלֵּק וְקַבֵּיל מִינֵּיהּ, וּפְשַׁט לֵיהּ וַלְדֵי מְלָאכוֹת כִּמְלָאכוֹת דָּמַיִין וְלָא קַבֵּיל מִינֵּיהּ.",
+      "ref": "Keritot 16b:10"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Anyone who knows that a given day is the Sabbath, but inadvertently performed forbidden labors without knowing that these labors are forbidden or knew that they were forbidden, but did not know that one was liable for <i>karet</i> for their violation, is liable for a sin-offering for every general category of forbidden labor. Even if he performed all 39 forbidden labors in one lapse of awareness, he must bring 39 sin-offerings.",
+              "he": "וְכָל הַיּוֹדֵעַ שֶׁהַיּוֹם שַׁבָּת וְשָׁגַג בִּמְלָאכוֹת וְלֹא יָדַע שֶׁמְּלָאכוֹת אֵלּוּ אֲסוּרוֹת אוֹ שֶׁיָּדַע שֶׁהֵן אֲסוּרוֹת וְלֹא יָדַע שֶׁחַיָּבִין עֲלֵיהֶן כָּרֵת וְעָשָׂה מְלָאכוֹת הַרְבֵּה. חַיָּב חַטָּאת עַל כָּל אַב מְלָאכָה וּמְלָאכָה. אֲפִלּוּ עָשָׂה הָאַרְבָּעִים חָסֵר אַחַת בְּהֶעְלֵם אַחַת מֵבִיא שְׁלֹשִׁים וְתֵשַׁע חַטָּאוֹת:",
+              "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 7:3",
+              "sourceHeRef": "הלכות שגגות ז:ג",
+              "sourceRef": "Offerings for Unintentional Transgressions 7:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב חסדא אמר זדון שבת ושגגת מלאכות אפי' ר\"ע ס\"ל כגופין דמיין</strong> - והאי דקתני בכלל גדול גבי שגגת מלאכות היודע שהוא שבת כו' חייב על כל מלאכה ומלאכה של כל שבת ושבת קאמר אע\"ג דאותה שעשה בזה עשה בזה ובהעלם אחת אפ\"ה חייב דשבתות כגופין דמיין משום הכי קתני בשבתות הרבה:",
+              "ref": "Rashi on Keritot 16b:11:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:יא:א",
+              "sourceRef": "Rashi on Keritot 16b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רב חסדא אמר:</b> לענין <b>זדון שבת ושגגת מלאכות</b> — <b>אפילו ר' עקיבא סבירא ליה</b> <span class=\"hebrew-emphasis\">[סבור]</span> ש<b>כגופין</b> נפרדים <b>דמיין</b> <span class=\"hebrew-emphasis\">[נחשבות]</span> השבתות, <b>וכי בעי מיניה</b> <span class=\"hebrew-emphasis\">[וכאשר שאל אותו],</span> על <b>שגגת שבת וזדון מלאכות הוא דבעי מיניה</b> <span class=\"hebrew-emphasis\">[ששאל אותו],</span> לגבי <b>ימים שבינתיים אי הויין</b> <span class=\"hebrew-emphasis\">[האם הם</span> נחשבים<span class=\"hebrew-emphasis\">]</span> <b>ידיעה לחלק.</b>",
+              "ref": "Steinsaltz on Keritot 16b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:יא",
+              "sourceRef": "Steinsaltz on Keritot 16b:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Rav Ĥisda, like Rabba and Abaye, maintains that the mishna in tractate <i>Shabbat</i> is in accordance with the opinion of Rabbi Akiva. Yet, he disagrees with the deductive inference that leads Rabba to conclude that if one knows which days are Shabbat but forgets which labors are prohibited on those days, Rabbi Akiva deems him liable to bring one sin offering for each primary category of labor he performed, but not a separate sin offering for each time he performed each labor. According to Rav Ĥisda, in such a situation, if one unwittingly performed many prohibited labors repeatedly on several <i>Shabbatot</i>, Rabbi Akiva does deem him liable to bring separate sin offerings for each primary category of labor on each and every Shabbat that he performed it, as each Shabbat is considered a separate entity.",
+              "he": "רב חסדא סבור אף הוא כרבה (ואביי), שהמשנה במסכת שבת היא כשיטת ר' עקיבא, אלא שהוא חלוק על הדיוק שדייק רבה מסופה, שאם ידע שהוא שבת ושגג במלאכות, אינו חייב על כל שבת ששגג במלאכה זאת. ולדעתו, גם ר' עקיבא סבור כי היודע שהוא שבת ושגג במלאכות הרבה בכמה שבתות, חייב על כל אב מלאכה שעשה בכל שבת, שהשבתות נחשבות כגופים.",
+              "ref": "Steinsaltz comment #1 on Keritot 16b:11",
+              "sourceHeRef": "רַב חִסְדָּא אָמַר וכו׳",
+              "sourceRef": "Rav Ĥisda says, etc."
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב חסדא אמר כו' ופשט ליה ימים שבינתיים הויין ידיעה לחלק כו'</strong> - כי קמייתי ראיה מיניה אבל לא מק\"ו דהא אותיב ר\"ע על הק\"ו אלא מקבלה חייב על כל אחת ואחת:",
+              "ref": "Tosafot on Keritot 16b:11:1",
+              "sourceHeRef": "תוספות על כריתות ט״ז ב:יא:א",
+              "sourceRef": "Tosafot on Keritot 16b:11:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> says:</b> In a case where one acts <b>intentionally</b> in that he knows it is <b>Shabbat and unwittingly</b> in that he does not know that his actions are prohibited <b>labors, even <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> holds that</b> the <i>Shabbatot</i> <b>are comparable</b> to separate <b>entities; and when he raises the dilemma</b> to <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>, <b>it is</b> in reference to a case where one acted <b>unwittingly</b> with regard to <b>Shabbat and intentionally</b> with regard to prohibited <b>labor. And he raises the dilemma</b> in order to clarify whether or not the <b>intervening days are</b> considered <b>awareness to differentiate.</b>",
+      "he": "רַב חִסְדָּא אָמַר: זְדוֹן שַׁבָּת וְשִׁגְגַת מְלָאכוֹת – אֲפִילּוּ רַבִּי עֲקִיבָא סְבִירָא לֵיהּ דִּכְגוּפִין דָּמְיָין, וְכִי בָּעֵי מִינֵּיהּ, שִׁגְגַת שַׁבָּת וּזְדוֹן מְלָאכוֹת הוּא דְּבָעֵי מִינֵּיהּ, דְּיָמִים שֶׁבֵּינְתַיִים אִי הָוְיָין יְדִיעָה לְחַלֵּק.",
+      "ref": "Keritot 16b:11"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וקביל מיניה</strong> - כדקתני <span class=\"parenthesized\">(טעמא כו')</span> מציעתא היודע עיקר שבת כו':",
+              "ref": "Rashi on Keritot 16b:12:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:יב:א",
+              "sourceRef": "Rashi on Keritot 16b:12:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ופשט ליה</b> <span class=\"hebrew-emphasis\">[ופשט לו]</span> ר' אליעזר כי <b>ימים שבינתיים הויין</b> <span class=\"hebrew-emphasis\">[הריהם]</span> <b>ידיעה לחלק, וקביל מיניה</b> <span class=\"hebrew-emphasis\">[וקיבל ממנו],</span> כפי ששנינו במשנה במסכת שבת, בענין היודע עיקר שבת ועשה מלאכות הרבה בשבתות הרבה, שחייב על כל שבת ושבת.",
+              "ref": "Steinsaltz on Keritot 16b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:יב",
+              "sourceRef": "Steinsaltz on Keritot 16b:12"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> <b>resolved</b> the dilemma <b>for him</b> by stating that the <b>intervening days are</b> considered <b>awareness to differentiate</b> the transgressions, <b>and</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>accepted</b> this resolution <b>from him.</b> This is in accordance with the mishna in tractate <i>Shabbat</i> (67b) cited earlier, that one who knows the essence of the prohibition against labor on Shabbat and performed multiple prohibited labors on multiple <i>Shabbatot</i> is liable to bring a sin offering for each and every Shabbat.",
+      "he": "וּפְשַׁיט לֵיהּ יָמִים שֶׁבֵּינְתַיִים הָוַיִין יְדִיעָה לְחַלֵּק, וְקַבֵּיל מִינֵּיהּ.",
+      "ref": "Keritot 16b:12"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא קביל מיניה</strong> - כדקתני סיפא מעין מלאכה אחת כו':",
+              "ref": "Rashi on Keritot 16b:13:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:יג:א",
+              "sourceRef": "Rashi on Keritot 16b:13:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ו</b>עוד <b>פשט ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> ש<b>ולדי מלאכות כמלאכות דמיין</b> <span class=\"hebrew-emphasis\">[נחשבים],</span> <b>ולא קביל מיניה</b> <span class=\"hebrew-emphasis\">[ולא קיבל ממנו],</span> כפי ששנינו בסוף אותה משנה: העושה מלאכות הרבה מעין מלאכה אחת אינו חייב אלא אחת.",
+              "ref": "Steinsaltz on Keritot 16b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:יג",
+              "sourceRef": "Steinsaltz on Keritot 16b:13"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span> also <b>resolved</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>’s other dilemma <b>for him</b> by stating <b>that</b> different <b>subcategories of</b> prohibited <b>labors</b> are <b>comparable</b> to primary categories of <b>labor</b> and one is liable for each one separately. <b>But</b> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> <b>did not accept</b> this resolution <b>from him,</b> due to the final clause of that mishna, which states that one who performs multiple prohibited labors that are subsumed as subcategories under one primary category of prohibited labor is liable to bring only one sin offering.",
+      "he": "וּפְשַׁט לֵיהּ דְּוַלְדֵי מְלָאכוֹת כִּמְלָאכוֹת דָּמַיִין, וְלָא קַבֵּיל מִינֵּיהּ.",
+      "ref": "Keritot 16b:13"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person was unaware that it was the Sabbath and sowed upon it, although he knew that sowing is a forbidden labor, on the following Sabbath, he forgot that it was Sabbath and planted, although he knew that planting is a forbidden labor, and on the third Sabbath, he forgot that it was Sabbath and extended, although he knew that extending is a forbidden labor, he is liable for a sin-offering for every Sabbath. The rationale is that the days between each Sabbath are considered equivalent to gaining awareness of one's transgression and create a distinction.",
+              "he": "שָׁגַג שֶׁהַיּוֹם שַׁבָּת וְזָרַע בּוֹ וְהוּא יוֹדֵעַ שֶׁהַזְּרִיעָה מְלָאכָה. וְכֵן בְּשַׁבָּת שְׁנִיָּה שָׁכַח שֶׁהוּא שַׁבָּת וְנָטַע בּוֹ וְהוּא יוֹדֵעַ שֶׁהַנְּטִיעָה מְלָאכָה. וְכֵן בַּשְּׁלִישִׁית שָׁכַח שֶׁהוּא שַׁבָּת וְהִבְרִיךְ אַף עַל פִּי שֶׁיּוֹדֵעַ שֶׁהַהַבְרָכָה מְלָאכָה. הֲרֵי זֶה חַיָּב עַל כָּל אַחַת וְאַחַת. שֶׁהַיָּמִים שֶׁבֵּין שַׁבָּת לְשַׁבָּת הֲרֵי הֵן כִּידִיעָה אַחַת לְחַלֵּק:",
+              "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 7:9",
+              "sourceHeRef": "הלכות שגגות ז:ט",
+              "sourceRef": "Offerings for Unintentional Transgressions 7:9"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מנ\"ל</strong> - דאית ליה לר\"ע שבתות כגופין דמיין:",
+              "ref": "Rashi on Keritot 16b:14:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:יד:א",
+              "sourceRef": "Rashi on Keritot 16b:14:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ר\"ג מחייב</strong> - דאין ידיעה לחצי שיעור ולא מהני ידיעה שבינתיים לחלק שלא יצטרפו:",
+              "ref": "Rashi on Keritot 16b:14:2",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:יד:ב",
+              "sourceRef": "Rashi on Keritot 16b:14:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב חסדא: מנא אמינא לה</b> <span class=\"hebrew-emphasis\">[מנין אומר אני אותה]</span> שלדעת ר' עקיבא שבתות נחשבות כגופים? <b>דתניא</b> <span class=\"hebrew-emphasis\">[ששנויה</span> ברייתא<span class=\"hebrew-emphasis\">]</span> <b>הכותב שתי אותיות</b> בשבת <b>בהעלם אחת</b> — <b>חייב,</b> שכך הוא שיעור מלאכת כתיבה. כתב שתי אותיות <b>בשתי העלמות,</b> שכתב אות בשגגה ונודע לו האיסור, וחזר ושכח וכתב אות נוספת לידה — <b>רבן גמליאל מחייב,</b> כאילו עשאן בהעלם אחד, שידיעה על שגגת חצי שיעור אינה נחשבת ידיעה לחלק בין שגגה לשגגה, <b>וחכמים פוטרין; ומודה רבן גמליאל, שאם כתב אות אחת בשבת זו ואות אחת בשבת אחרת</b> — <b>פטור.</b>",
+              "ref": "Steinsaltz on Keritot 16b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:יד",
+              "sourceRef": "Steinsaltz on Keritot 16b:14"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Rabbis maintain that he is exempt because he did not perform a complete labor during a single lapse of awareness. By contrast, Rabban Gamliel maintains that there is no awareness for a half-measure. This means that since one is liable to bring a sin offering only if he unwittingly violated a prohibition in its complete form, e.g., he wrote two letters on Shabbat, there is no significance to becoming aware of his transgression after performing only half the prohibition, e.g., writing only one letter. Consequently, if he writes a second letter on the following Shabbat he is considered to have written two letters during a single lapse of awareness.",
+              "he": "טעמם של חכמים שהוא פטור — מפני שלא עשה מלאכה שלימה בהעלם אחד. ואילו רבן גמליאל סבור שאין ידיעה לחצי שיעור, כלומר, הואיל ואינו מתחייב חטאת אלא כשחטא בשוגג בשיעור שלם ונודע לו על שגגתו, אם כן אין משמעות לידיעה שבאה לאחר חצי שיעור, ואין מתחשבים בה, ולכן מצטרפות שתי האותיות לשגגה אחת.",
+              "ref": "Steinsaltz comment #1 on Keritot 16b:14",
+              "sourceHeRef": "רַבָּן גַּמְלִיאֵל מְחַיֵּיב וַחֲכָמִים פּוֹטְרִין",
+              "sourceRef": "Rabban Gamliel deems him liable to bring a sin offering and the Rabbis deem him exempt"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רב חסדא מנא אמינא לה דתניא הכותב כו' ומודה ר\"ג שאם כתב כו' פטור</strong> - מהך לבד לא היינו מייתינן בשבתות כגופין מדחזינן דפטור דאיכא למימר דמיירי בשגגת שבת וזדון מלאכות ולכך פטור דימים שבנתיים הויא ידיעה לחלק דאף על גב דר' גמליאל קאמר אין ידיעה לחצי שיעור דלמא ידיעה כי ההיא מחלקת דאיכא לחלק בין ידיעה לימים שבינתיים ובימים שבינתיים מודה דאינה מצטרפת לכך צריך להביא טעם אחר שזדון שבת יש חשיבות לשבתות להיות כגופין משגגת שבת:",
+              "ref": "Tosafot on Keritot 16b:14:1",
+              "sourceHeRef": "תוספות על כריתות ט״ז ב:יד:א",
+              "sourceRef": "Tosafot on Keritot 16b:14:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מודה ר\"א לחכמים שאם כתב אות אחת בשבת זו ואות אחת בשבת אחרת אות אחת בשבת ואות אחת ביו\"ט אות אחת בשבת ואות אחת ביום הכפורים שהוא פטור שאין ב' ימים מצטרפין למלאכה אחת.",
+              "ref": "Tosefta Shabbat 12:11",
+              "sourceHeRef": "תוספתא שבת יב:יא",
+              "sourceRef": "Tosefta Shabbat 12:11"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> said: From where do I say</b> that according to <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> each Shabbat is considered a separate entity? This is <b>as it is taught</b> in a <i>baraita</i>: <b>One who writes two letters</b> on Shabbat <b>during one lapse of awareness</b> is <b>liable,</b> as writing two letters renders one liable for performing the prohibited labor of writing. If he does so <b>in two</b> separate <b>lapses of awareness,</b> e.g., he wrote one letter without realizing it was Shabbat, then became aware that it was Shabbat, and then again became unaware it was Shabbat and wrote a second letter, <b><span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> deems</b> him <b>liable</b> to bring a sin offering <b>and the Rabbis deem</b> him <b>exempt. And <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> concedes that if he wrote one letter on this Shabbat and one letter on another Shabbat</b> he is <b>exempt.</b>",
+      "he": "אָמַר רַב חִסְדָּא: מְנָא אָמֵינָא לַהּ? דְּתַנְיָא: הַכּוֹתֵב שְׁתֵּי אוֹתִיּוֹת בְּהֶעְלֵם אֶחָד – חַיָּיב. בִּשְׁתֵּי הֶעְלֵמוֹת – רַבָּן גַּמְלִיאֵל מְחַיֵּיב, וַחֲכָמִים פּוֹטְרִין. וּמוֹדֶה רַבָּן גַּמְלִיאֵל, שֶׁאִם כָּתַב אוֹת אַחַת בְּשַׁבָּת זוֹ וְאוֹת אַחַת בְּשַׁבָּת אַחֶרֶת – פָּטוּר.",
+      "ref": "Keritot 16b:14"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קס\"ד ר\"ג כר\"ע ס\"ל</strong> - כדמפרש לקמן דליכא למימר דכר\"א ס\"ל מדקתני ומודה:",
+              "ref": "Rashi on Keritot 16b:15:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:טו:א",
+              "sourceRef": "Rashi on Keritot 16b:15:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ותניא אחריתי</b> <span class=\"hebrew-emphasis\">[ושנויה</span> ברייתא <span class=\"hebrew-emphasis\">אחרת]:</span> <b>הכותב שתי אותיות בשתי שבתות, אחד בשבת זו ואחד בשבת זו</b> — <b>רבן גמליאל מחייב, וחכמים פוטרין.</b> ומסבירים: <b>קא סלקא דעתך</b> <span class=\"hebrew-emphasis\">[עולה על דעתך,</span> מניחים אנו<span class=\"hebrew-emphasis\">],</span> ש<b>רבן גמליאל כר' עקיבא סבירא ליה</b> <span class=\"hebrew-emphasis\">[סבור הוא].</span>",
+              "ref": "Steinsaltz on Keritot 16b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:טו",
+              "sourceRef": "Steinsaltz on Keritot 16b:15"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ותניא אחריתי כו'</strong> - הא דתניא פטור בזדון שבת ושגגת מלאכות דכיון דשבתות כגופין דמיין גבי זדון שבת ושגגת מלאכות <span class=\"parenthesized\">(דכיון דשבתות כגופין דמיין)</span> ה\"ל כעושה ב' חצאי מלאכות שאינן דומות זו לזו בהעלם אחת שפטור מכולם:",
+              "ref": "Tosafot on Keritot 16b:15:1",
+              "sourceHeRef": "תוספות על כריתות ט״ז ב:טו:א",
+              "sourceRef": "Tosafot on Keritot 16b:15:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>And it is taught</b> in <b>a different</b> <i>baraita</i>: In the case of <b>one who writes two letters on two <i>Shabbatot</i>, one on this Shabbat and one on that Shabbat, <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> deems</b> him <b>liable and the Rabbis deem</b> him <b>exempt.</b> <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> explains: It <b>enters your mind that <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> holds in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>.</b>",
+      "he": "וְתַנְיָא אַחֲרִיתִי: הַכּוֹתֵב שְׁתֵּי אוֹתִיּוֹת בִּשְׁתֵּי שַׁבָּתוֹת, אֶחָד בְּשַׁבָּת זוֹ וְאֶחָד בְּשַׁבָּת זוֹ – רַבָּן גַּמְלִיאֵל מְחַיֵּיב, וַחֲכָמִים פּוֹטְרִין. קָא סָלְקָא דַעְתָּךְ, דְּרַבָּן גַּמְלִיאֵל כְּרַבִּי עֲקִיבָא סְבִירָא לֵיהּ.",
+      "ref": "Keritot 16b:15"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person inadvertently partook of half an olive-sized portion of a forbidden substance and then became aware of his transgression, but forgot and partook of another half an olive-sized portion of the same substance in a second lapse of awareness, he is not liable for an offering. The rationale is that he became aware in the interim and awareness causes a distinction to be made even with regard to half the required measure.<br>Similarly, if one wrote one letter on the Sabbath inadvertently and then became aware of the matter and then forgot and then wrote another letter next to the first in a second lapse of awareness, he is not liable for a sin-offering. Similar laws apply in all analogous situations.<br>In a like vein, if a person transferred an article two cubits in the public domain on the Sabbath inadvertently, transferred it another two cubits in conscious violation of the Sabbath laws and then transferred it two cubits inadvertently, he is liable if he transferred it by throwing it. The rationale is not that his gaining awareness after half the measure is not significant, but rather that, after throwing the article, he is unable to bring it back. Therefore the awareness he gained in the interim is of no avail. If he transferred the article by passing it, he is exempt, because gaining awareness after half the required measure has been completed is significant.",
+              "he": "אָכַל כַּחֲצִי זַיִת וְנוֹדַע לוֹ וְחָזַר וְשָׁכַח וְאָכַל כַּחֲצִי זַיִת אַחֵר בְּהֶעְלֵם שֵׁנִי פָּטוּר. שֶׁהֲרֵי נוֹדַע לוֹ בֵּינְתַיִם וְיֵשׁ יְדִיעָה לַחֲצִי שִׁעוּר. וְכֵן אִם כָּתַב אוֹת אַחַת [בְּשַׁבָּת] בִּשְׁגָגָה וְנוֹדַע לוֹ וְחָזַר וְשָׁכַח וְכָתַב אוֹת שְׁנִיָּה סְמוּכָה לָהּ בְּהֶעְלֵם שֵׁנִי פָּטוּר מִקָּרְבַּן חַטָּאת. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה. וְכֵן אִם הוֹצִיא שְׁתֵּי אַמּוֹת בְּשׁוֹגֵג וּשְׁתֵּי אַמּוֹת בְּמֵזִיד וּשְׁתֵּי אַמּוֹת בְּשׁוֹגֵג. אִם בִּזְרִיקָה חַיָּב. לֹא מִפְּנֵי שֶׁאֵין יְדִיעָה לַחֲצִי שִׁעוּר אֶלָּא מִפְּנֵי שֶׁאֵין בְּיָדוֹ לְהַחְזִירָהּ. לְפִיכָךְ לֹא הוֹעִילָה לוֹ הַיְדִיעָה שֶׁבֵּינְתַיִם. וְאִם בְּהַעֲבָרָה פָּטוּר שֶׁיֵּשׁ יְדִיעָה לַחֲצִי שִׁעוּר כְּמוֹ שֶׁבֵּאַרְנוּ:",
+              "ref": "Mishneh Torah, Offerings for Unintentional Transgressions 6:8",
+              "sourceHeRef": "הלכות שגגות ו:ח",
+              "sourceRef": "Offerings for Unintentional Transgressions 6:8"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא דתני פטור בזדון שבת ושגגת מלאכות</strong> - דכיון דשבתות כגופין דמיין גבי זדון שבת ושגגת מלאכות הוה ליה כעושה שני חצאי מלאכות שאינן דומות זו לזו בהעלם אחת שפטור מכולם:",
+              "ref": "Rashi on Keritot 16b:16:1",
+              "sourceHeRef": "רש\"י על כריתות ט״ז ב:טז:א",
+              "sourceRef": "Rashi on Keritot 16b:16:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וכך אומר רב חסדא: <b>בשלמא לדידי דאמינא</b> <span class=\"hebrew-emphasis\">[נניח לשיטתי שאני אומר]</span> שלענין <b>זדון שבת ושגגת מלאכות אפילו ר' עקיבא אומר</b> ש<b>שבתות כגופין</b> נפרדים <b>דמיין</b> <span class=\"hebrew-emphasis\">[נחשבות],</span> <b>הא דתניא</b> <span class=\"hebrew-emphasis\">[זו ששנויה]</span> שרבן גמליאל מודה שאם כתב אות אחת בשבת זו ואות אחת בשבת אחרת <b>פטור</b> — מדובר <b>בזדון שבת ושגגת מלאכות,</b> שאף שהיה זה בהעלם אחד של מלאכה, שהרי אין ידיעה לחצי שיעור, מכל מקום <b>שבתות כגופין</b> נפרדים <b>דמיין</b> <span class=\"hebrew-emphasis\">[נחשבות],</span> והואיל ובכל פעם עשה חצי מלאכה — פטור.",
+              "ref": "Steinsaltz on Keritot 16b:16",
+              "sourceHeRef": "ביאור שטיינזלץ על כריתות ט״ז ב:טז",
+              "sourceRef": "Steinsaltz on Keritot 16b:16"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כלומר, מה שנאמר ששבתות נחשבות כגופים נפרדים, אינו בא רק להחמיר, ולחייב על מלאכה שעשה בכל אחת מהן. אלא יש בו גם להקל, שאם כתב שתי אותיות בשתי שבתות — אין לצרף את שתיהן משום שנעשו בהעלם אחת (רבינו גרשום). ורש\"י (לשיטתו בעמוד הקודם) מפרש \"כגופין דמיין\" — כעבירות שונות, שהכותב שתי אותיות בשתי שבתות נחשב כעושה שני חצאי מלאכות שונות בשבת אחת — שכיוון שאין בכל אחת מהן שיעור — פטור משתיהן, אפילו עשאן בהעלם אחד.",
+              "ref": "Steinsaltz comment #1 on Keritot 16b:16",
+              "sourceHeRef": "הא דתניא פטור בזדון שבת ושגגת מלאכות דשבתות כגופין דמיין",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>Granted, according to my</b> opinion, <b>as I say</b> that in a case where one acts <b>intentionally</b> in that he knows it is <b>Shabbat and unwittingly</b> in that he does not know his actions constitute prohibited <b>labors, even <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> says that</b> the <b><i>Shabbatot</i> are comparable</b> to separate <b>entities.</b> Consequently, <b>that which is taught</b> in the first <i>baraita</i>, that <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> concedes that if one wrote one letter on Shabbat and another letter the following Shabbat he is <b>exempt,</b> can be interpreted as referring <b>to</b> a case where one acts <b>intentionally</b> in that he knows it is <b>Shabbat but unwittingly</b> in that he does not know his actions constitute prohibited <b>labors. Since</b> separate <b><i>Shabbatot</i> are comparable</b> to separate <b>entities,</b> the two acts do not combine to form the minimal act of writing that would render one liable to bring a sin offering.",
+      "he": "בִּשְׁלָמָא לְדִידִי, דְּאָמֵינָא זְדוֹן שַׁבָּת וְשִׁגְגַת מְלָאכוֹת אֲפִילּוּ רַבִּי עֲקִיבָא אוֹמֵר דְּשַׁבָּתוֹת כְּגוּפִין דָּמְיָין, הָא דְּתַנְיָא פָּטוּר – בִּזְדוֹן שַׁבָּת וְשִׁגְגַת מְלָאכוֹת, דְּשַׁבָּתוֹת כְּגוּפִין דָּמְיָין.",
+      "ref": "Keritot 16b:16"
+    }
+  ],
+  "title": "Keritot 16b",
+  "titleHebrew": "כריתות טז,ב",
+  "topics": []
+}

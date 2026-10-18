@@ -1,0 +1,1830 @@
+{
+  "id": "20b",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If a fire was made of reeds or of seeds, it is not necessary for the majority of it to be kindled before the Sabbath. Instead, since it caught fire before [the commencement] of the Sabbath, its use is permitted, for the fire will spread quickly through [these substances], and there is no necessity for one to stir it.<br>Therefore, if the reeds were bound together or the seeds were placed in palm baskets, the same laws applying to wood apply, and the flames must be powerful enough to rise up on their own accord before [the commencement] of the Sabbath.",
+              "he": "הָיְתָה מְדוּרָה שֶׁל קָנִים אוֹ שֶׁל גַּרְעִינִין אֵינוֹ צָרִיךְ לְהַדְלִיק הָרֹב אֶלָּא כֵּיוָן שֶׁהִתְחִיל בָּהֶן הָאֵשׁ קֹדֶם הַשַּׁבָּת מֻתָּר לְהִשְׁתַּמֵּשׁ בָּהּ. מִפְּנֵי שֶׁהָאֵשׁ נִתְלֵית בָּהֶן בִּמְהֵרָה וְאֵינוֹ צָרִיךְ לַחְתּוֹת. לְפִיכָךְ אִם אָגַד הַקָּנִים אוֹ הִנִּיחַ הַגַּרְעִינִין בְּחוֹתָלוֹת הֲרֵי הֵן כְּעֵצִים וְצָרִיךְ שֶׁתַּעֲלֶה בָּהֶן שַׁלְהֶבֶת מֵאֵלֶיהָ קֹדֶם הַשַּׁבָּת:",
+              "ref": "Mishneh Torah, Sabbath 3:21",
+              "sourceHeRef": "הלכות שבת ג:כא",
+              "sourceRef": "Sabbath 3:21"
+            },
+            {
+              "en": "When a fire is fueled with tar, sulfur, oily substances, wax, straw, or stubble, it is not required that the majority be kindled before the commencement of the Sabbath, because these substances catch fire quickly.",
+              "he": "מְדוּרָה שֶׁל זֶפֶת אוֹ שֶׁל גָּפְרִית אוֹ שֶׁל רְבָב אוֹ שֶׁל קִירָה אוֹ שֶׁל קַשׁ אוֹ שֶׁל גְּבָבָא אֵינוֹ צָרִיךְ לְהַדְלִיק רֻבָּהּ קֹדֶם הַשַּׁבָּת מִפְּנֵי שֶׁהָאֵשׁ מַדְלֶקֶת אוֹתָם בִּמְהֵרָה:",
+              "ref": "Mishneh Torah, Sabbath 3:22",
+              "sourceHeRef": "הלכות שבת ג:כב",
+              "sourceRef": "Sabbath 3:22"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב כהנא אמר קנים שאגדן צריכין רוב</strong> - כרב הונא דלא עיילא בהן נורא ולאבדורי לא חיישינן דארוכין הן וכבדין:",
+              "ref": "Rashi on Shabbat 20b:1:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:א:א",
+              "sourceRef": "Rashi on Shabbat 20b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גרעינין שנתנן בחותלות אין צריכין רוב</strong> - כרב חסדא שנוחין לידלק אבל בלא חותלות מבדרי:",
+              "ref": "Rashi on Shabbat 20b:1:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:א:ב",
+              "sourceRef": "Rashi on Shabbat 20b:1:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ט)</span> של זפת וכו'</strong> - עיין בגמרא דה\"ה שומן ושעוה וכל דבר הניתך:",
+                      "ref": "Mishnah Berurah 255:9",
+                      "sourceHeRef": "משנה ברורה רנה:ט",
+                      "sourceRef": "Mishnah Berurah 255:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(י)</span> של קש וגבבא</strong> - קש זנבי שבלים וגבבא שגובבין משדה אחר הקצירה:",
+                      "ref": "Mishnah Berurah 255:10",
+                      "sourceHeRef": "משנה ברורה רנה:י",
+                      "sourceRef": "Mishnah Berurah 255:10"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יא)</span> כשהם מפוזרים</strong> - הטעם דכיון שאחז בהן האור קצת מבעוד יום שוב הם דולקין מאליהן אבל כשהם אגודות או בסל שוב אין השלהבת יכולה ליכנס בהן והוא דעת הרי\"ף והרמב\"ם ודעת הי\"א שהוא דעת הרא\"ש והטור הוא להיפוך דכשהם מפוזרות כל אחת מהן לא תמצא את חברתה לבערה והם כבים והולכים הילכך צריכים רוב משא\"כ כשהם נאגדים יחד וכן בגרעינין:",
+                      "ref": "Mishnah Berurah 255:11",
+                      "sourceHeRef": "משנה ברורה רנה:יא",
+                      "sourceRef": "Mishnah Berurah 255:11"
+                    }
+                  ]
+                }
+              },
+              "en": "3. When tar, sulfur, straw, or stubble [are used as kindling for] a medurah, even though the fire only started burning minimally [while it was still day on Friday], it is permitted [to benefit from it, because these substances will continue to burn on their own]. The same [rule applies when] reeds or date pits are used as kindling when they are spread out. If, however, the reeds are bound [in a bundle] and the pits are [collected] in a basket, then the fire must take hold of them to the extent that it ascends on its own accord, and there are those who say the opposite.",
+              "he": "מדורה של זפת ושל גפרית ושל קש וגבבא אפילו לא אחז בהם אלא כל שהוא שרי וכן מדורה של קנים ושל גרעיני תמרים כשהם מפוזרים אבל אם הקנים אגודות והגרעיני' בסל צריכים שיצית בהם האור עד שתהא שלהבת עולה מאליה ויש אומרים בהיפך:",
+              "ref": "Shulchan Arukh, Orach Chayim 255:3",
+              "sourceHeRef": "אורח חיים רנה:ג - הכנת האש קודם הכנסת שבת",
+              "sourceRef": "Orach Chayim 255:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ש<b>אמר רב כהנא: קנים שאגדן</b> — <b>צריכין</b> שיידלק ה<b>רוב, לא אגדן</b> — <b>אין צריכין</b> שיידלק ה<b>רוב,</b> כדברי רב הונא. ואולם <b>גרעינין</b> — <b>צריכין</b> שיידלק ה<b>רוב,</b> ואם <b>נתנן בחותלות</b> — שוב <b>אין צריכין</b> שיידלק ה<b>רוב.</b>",
+              "ref": "Steinsaltz on Shabbat 20b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:א",
+              "sourceRef": "Steinsaltz on Shabbat 20b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If reeds and seeds were bundled and connected and one wants to light them Shabbat eve before nightfall, he must light them in a manner that most of them will burn on their own before Shabbat begins. If they are not connected, there is no requirement that most of them burn before Shabbat. This is based on the variant reading of Rav Kahana’s statement in the Rif and the Rambam. Others rule the opposite, based on the version of Rav Kahana’s statement in the Gemara (Rosh; Rambam <i>Sefer Zemanim, Hilkhot Shabbat </i>3:21; <i>Shulĥan Arukh, Oraĥ Ĥayyim</i> 255:3).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:1",
+              "sourceHeRef": "קָנִים…גַּרְעִינִין וכו׳",
+              "sourceRef": "Reeds…seeds, etc."
+            }
+          ]
+        }
+      },
+      "en": "on a similar note, <b><span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">Rav Kahana</span> said: Reeds that one tied them</b> into a bundle, <b>require</b> that <b>most</b> of them ignite. If <b>one did not tie them</b> into a bundle, <b>they do not require</b> that <b>most</b> of them ignite, in accordance with the statement of Rav Huna. However, <b>seeds require</b> that <b>most</b> of them ignite. And if <b>he placed them in woven baskets, they do not require</b> that <b>most</b> of them catch fire.",
+      "he": "אָמַר <span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">רַב כָּהֲנָא</span>: קָנִים שֶׁאֲגָדָן — צְרִיכִין רוֹב, לֹא אֲגָדָן — אֵין צְרִיכִין רוֹב. גַּרְעִינִין — צְרִיכִין רוֹב, נְתָנָן בְּחוֹתָלוֹת — אֵין צְרִיכִין רוֹב.",
+      "ref": "Shabbat 20b:1"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָבָב</strong> m. (see <span class=\"refLink\" data-ref=\"Jastrow, רָבַב 1\" dir=\"rtl\" href=\"/Jastrow,_רָבַב.1\">רָבַב</span><i>Piël</i>) <i>a thick, viscid mass, fat; grease, pitch</i> &c. <span class=\"refLink\" data-ref=\"Sotah 49a:2\" href=\"/Sotah.49a.2\">Sotah 49ᵃ</span> <span dir=\"rtl\">אילמלא … מוכרי ר׳</span> but for David’s prayer, all Israelites would be sellers of grease. <span class=\"refLink\" data-ref=\"Zevachim 98b:4\" href=\"/Zevachim.98b.4\">Zevachim 98ᵇ</span> <span dir=\"rtl\">ר׳ על בגדו וכ׳</span> grease on a garment is an unlawful interposition (at its immersion), but if he is a seller of grease &c. <span class=\"refLink\" data-ref=\"Shabbat 20b:2\" href=\"/Shabbat.20b.2\">Shabbat 20ᵇ</span> <span dir=\"rtl\">של ר׳</span> (<span class=\"refLink\" data-ref=\"Jastrow, מְדוּרָה 1\" dir=\"rtl\" href=\"/Jastrow,_מְדוּרָה.1\">מדורה</span>) a fire made with fatty substances. <span class=\"refLink\" data-ref=\"Shabbat 78b:3\" href=\"/Shabbat.78b.3\">Ib. 78ᵇ</span> <span dir=\"rtl\">ר׳ כדי לסוך וכ׳</span> fat, as much as is required to smear under a small cake. <span class=\"refLink\" data-ref=\"Shabbat 114a:5\" href=\"/Shabbat.114a.5\">Ib. 114ᵃ</span> <span dir=\"rtl\">כל ת\"ח שנמצא ר׳ וכ׳</span> a scholar on whose garment there is a greasy stain &c.; Rabina said, <span dir=\"rtl\">רבד איתמר</span> the word <i>rabad</i> was used (by R. Joḥanan), see <span class=\"refLink\" data-ref=\"Jastrow, רָבָד 1\" dir=\"rtl\" href=\"/Jastrow,_רָבָד.1\">רָבָד</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָבָב 1",
+              "sourceHeRef": "מילון יסטרוב, רָבָב א׳",
+              "sourceRef": "Jastrow, רָבָב 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">שְׁאַל</strong>, <strong dir=\"rtl\">שְׁאֵיל</strong>, <strong dir=\"rtl\">שְׁיֵיל</strong>, <strong dir=\"rtl\">שְׁיֵל</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, שָׁאַל 1\" href=\"/Jastrow,_שָׁאַל.1\">same</span> <br><b>1)</b> <i>to ask, inquire, beginning</i> <span class=\"refLink\" data-ref=\"Targum Jonathan on II Kings 3:11\" href=\"/Targum_Jonathan_on_II_Kings.3.11\">Targum Sheni (to Esther) Kings III, 11</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on I Kings 19:4\" href=\"/Targum_Jonathan_on_I_Kings.19.4\">Targum I Kings XIX, 4</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Job 31:30\" href=\"/Aramaic_Targum_to_Job.31.30\">Targum Job XXXI, 30</span> למִשְׁאַל Manuscript (ed. <span dir=\"rtl\">למִשְׁיַיל</span>, <span dir=\"rtl\">למִשְׁיַל</span>). <span class=\"refLink\" data-ref=\"Targum Jonathan on Deuteronomy 1:1\" href=\"/Targum_Jonathan_on_Deuteronomy.1.1\">Targum Yonatan Devarim I, 1</span> <span dir=\"rtl\">שַׁיְילְתוּן</span> (ed. Vienna <span dir=\"rtl\">שַׁיְילַתַּוּן</span>, read: <span dir=\"rtl\">שַׁיַּילְתּוּן</span>, <i>Pa</i>). <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 137:3\" href=\"/Aramaic_Targum_to_Psalms.137.3\">Targum Psalms CXXXVII, 3</span>; and from—<span dir=\"rtl\">ש׳ לשלם</span>, <span dir=\"rtl\">ש׳ בשלם</span>, see <span class=\"refLink\" data-ref=\"Jastrow, שְׁלָם 1\" dir=\"rtl\" href=\"/Jastrow,_שְׁלָם.1\">שְׁלָם</span>.—<span class=\"refLink\" data-ref=\"Shabbat 20b:2\" href=\"/Shabbat.20b.2\">Shabbat 20ᵇ</span>; <span class=\"refLink\" data-ref=\"Shabbat 21a:3\" href=\"/Shabbat.21a.3\">21ᵃ</span> <span dir=\"rtl\">שְׁאִילְתִּינְהוּ לכל וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נָחוֹתָא 1\" dir=\"rtl\" href=\"/Jastrow,_נָחוֹתָא.1\">נָחוֹתָא</span>. <span class=\"refLink\" data-ref=\"Shabbat 30a:3\" href=\"/Shabbat.30a.3\">Ib. 30ᵃ</span> <span dir=\"rtl\">שׁאוּל שאילה זו וכ׳</span> they asked the following question &c., see <span class=\"refLink\" data-ref=\"Jastrow, עֵיל 1\" dir=\"rtl\" href=\"/Jastrow,_עֵיל.1\">עֵיל</span>. <span class=\"refLink\" data-ref=\"Taanit 21a:5\" href=\"/Taanit.21a.5\">Taanit 21ᵃ</span> <span dir=\"rtl\">אי איכא דשָׁאֵיל לי וכ׳</span> if any one were to ask me a question from the Mishnah of &c. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sheviit 7:1:13\" href=\"Jerusalem_Talmud_Sheviit.7.1.13\">Yerushalmi Sheviit VII, 37ᶜ</span> top <span dir=\"rtl\">הא גברא מִישְׁאֲלִינֵיה אתא שַׁאֲלוּנֵיה וכ׳</span> (not <span dir=\"rtl\">מישאלינית</span>) here is a man whom you night ask; he came, and they asked; and from—Part. pass. <span class=\"refLink\" data-ref=\"Jastrow, שְׁאֵיל 1\" dir=\"rtl\" href=\"/Jastrow,_שְׁאֵיל.1\">שְׁאִיל</span>. <span class=\"refLink\" data-ref=\"Shabbat 30b:2\" href=\"/Shabbat.30b.2\">Shabbat 30ᵇ</span> <span dir=\"rtl\">ולענין שאילה דשְׁאִילְנָא קדמיכון</span> and as to the question which I have been asked in your presence; [Rashi: <span dir=\"rtl\">דשָׁאֵילְנָא</span> which I asked, a courteous phrase for ‘which you asked of me’]; and e. <br><b><br>—2)</b> <i>to borrow</i>. <span class=\"refLink\" data-ref=\"Onkelos Exodus 22:13\" href=\"/Onkelos_Exodus.22.13\">Targum Shemot XXII, 13</span>; and from—[<span class=\"refLink\" data-ref=\"Onkelos Exodus 12:36\" href=\"/Onkelos_Exodus.12.36\">Targum Onkelos ib. XII, 36</span>, see infra <i>Af</i>.]—<span class=\"refLink\" data-ref=\"Bava Metzia 97a:10\" href=\"/Bava_Metzia.97a.10\">Bava Metzia 97ᵃ</span> <span dir=\"rtl\">ההוא גברא דש׳ וכ׳</span> a man borrowed a cat from his neighbor &c. <span class=\"refLink\" data-ref=\"Bava Metzia 97a:10\" href=\"/Bava_Metzia.97a.10\">Ib.</span> <span dir=\"rtl\">האי … למִישְׁאַל מידי וכ׳</span> if one wishes to borrow an object from his neighbor and be free from responsibility for an accident &c. <span class=\"refLink\" data-ref=\"Bava Metzia 97a:7\" href=\"/Bava_Metzia.97a.7\">Ib.</span> <span dir=\"rtl\">נימא ליה שְׁאֵיל וכ׳</span> let him (the lender) say to him, first take what you want to borrow, and then &c. <span class=\"refLink\" data-ref=\"Yevamot 120b:4\" href=\"/Yevamot.120b.4\">Yevamot 120ᵇ</span> <span dir=\"rtl\">לא שָׁיְילֵי</span> (not <span dir=\"rtl\">שיולי</span>); <span class=\"refLink\" data-ref=\"Bava Metzia 27b:8\" href=\"/Bava_Metzia.27b.8\">Bava Metzia 27ᵇ</span> <span dir=\"rtl\">לא שְׁאִילֵי</span>, see <span class=\"refLink\" data-ref=\"Jastrow, סְקַב 1\" dir=\"rtl\" href=\"/Jastrow,_סְקַב.1\">סְקַב</span>; and from—Part. pass. as ab. <span class=\"refLink\" data-ref=\"Bava Metzia 97a:10\" href=\"/Bava_Metzia.97a.10\">Ib. 97ᵃ</span> <span dir=\"rtl\">שאיל לן מר</span> you (as teacher) are loaned to us, i.e. you are in our service, and if we borrow an object from you, we are not responsible, it being <span dir=\"rtl\">שאילה בבעלים</span>, see <span class=\"refLink\" data-ref=\"Jastrow, שְׁאִילָה 1\" dir=\"rtl\" href=\"/Jastrow,_שְׁאִילָה.1\">שְׁאִילָה</span>. <span class=\"refLink\" data-ref=\"Bava Metzia 97a:10\" href=\"/Bava_Metzia.97a.10\">Ib.</span> <span dir=\"rtl\">אתון שְׁאִילְתּוּן לי</span> you are in my service. <span class=\"refLink\" data-ref=\"Bava Metzia 97a:10\" href=\"/Bava_Metzia.97a.10\">Ib.</span> <span dir=\"rtl\">איהו ש׳ להו … אינהו שְׁאִילוּ ליה וכ׳</span> he (the teacher) is in their (the scholar’s) service on the Kallah day (see <span class=\"refLink\" data-ref=\"Jastrow, כַּלָּה 1\" dir=\"rtl\" href=\"/Jastrow,_כַּלָּה.1\">כַּלָּה</span>); they are in his on any other day; and e.—<span class=\"refLink\" data-ref=\"Bereishit Rabbah 65:15\" href=\"/Bereishit_Rabbah.65.15\">Breishit Rabbah section (Parashah) 65</span> <span dir=\"rtl\">לא שאיל הוא לה ולא שְׁאִילָה היא ליה</span> (some ed. <span dir=\"rtl\">שאול … שאולה</span>) he is not loaned to her, nor she to him, i.e. the simile does not fit the application, nor the application the simile.<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">שַׁיֵּיל</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, שָׁאַל 1\" href=\"/Jastrow,_שָׁאַל.1\">same</span>, <span class=\"refLink\" data-ref=\"Jastrow, שָׁאַל 1\" href=\"/Jastrow,_שָׁאַל.1\">same</span>, <i>to ask, borrow</i> &c. <span class=\"refLink\" data-ref=\"Targum Jonathan on Exodus 12:35\" href=\"/Targum_Jonathan_on_Exodus.12.35\">Targum Yonatan Shemot XII, 35</span>; and e.—<span class=\"refLink\" data-ref=\"Beitzah 19a:7\" href=\"/Beitzah.19a.7\">Beitzah 19ᵃ</span> <span dir=\"rtl\">אתא … לשַׁיּוּלֵי וכ׳</span> he came before the Rabbis to ask &c. <span class=\"refLink\" data-ref=\"Chullin 3b:10\" href=\"/Chullin.3b.10\">Chullin 3ᵇ</span> <span dir=\"rtl\">דליתיה קמן דלִישַׁיְּילֵיה</span> when he is not before us so that we could ask him. <span class=\"refLink\" data-ref=\"Tamid 32a:26\" href=\"/Tamid.32a.26\">Tamid 32ᵃ</span> מְשַׁיַּילְנָא לכו I am asking you; and from <br><b><br>—2)</b> <i>to lend</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Exodus 12:36\" href=\"/Targum_Jonathan_on_Exodus.12.36\">Targum Yonatan Shemot XII, 36</span>.—<span class=\"refLink\" data-ref=\"Taanit 21b:4\" href=\"/Taanit.21b.4\">Taanit 21ᵇ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, זְבִילָא 1\" dir=\"rtl\" href=\"/Jastrow,_זְבִילָא.1\">זְבִילָא</span>. <span class=\"refLink\" data-ref=\"Taanit 21b:8\" href=\"/Taanit.21b.8\">Ib.</span> <span dir=\"rtl\">דמחממת … ומְשַׁיְּילָא וכ׳</span> who heated her oven and let her neighbors use it; and from<br></br> <strong>Af.</strong> - <strong dir=\"rtl\">אַשְׁאֵיל</strong>, <strong dir=\"rtl\"> אוֹשֵׁל</strong> <i>to lend</i>. <span class=\"refLink\" data-ref=\"Onkelos Exodus 12:36\" href=\"/Onkelos_Exodus.12.36\">Targum Onkelos Shemot XII, 36</span> ed. Berliner (editor of Targum Onkelos) (ed. Vienna <span dir=\"rtl\">שאילינון</span>, correct accordingly); and e.—Yevamot l. common gender. <span dir=\"rtl\">ולא מוֹשְׁלֵי</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נְחַשׁ I 1\" href=\"/Jastrow,_נְחַשׁ I.1\"><span dir=\"rtl\">נְחַשׁ</span> I</span>. <span class=\"refLink\" data-ref=\"Bava Metzia 116a:7\" href=\"/Bava_Metzia.116a.7\">Bava Metzia 116ᵃ</span> <span dir=\"rtl\">דעביד לאוֹשׁוּלֵי וכ׳</span> which it is customary to lend and hire out; and e.<br></br> <strong>Ithpaal</strong> - <strong dir=\"rtl\">אִשְׁתָּאַל</strong>, <strong dir=\"rtl\"></strong><br></br> <strong>Ithpeel</strong> - <strong dir=\"rtl\">אִשְׁתְּאֵיל</strong>, <strong dir=\"rtl\"> אִתְּשִׁיל</strong> <br><b>1)</b> (with (with <span dir=\"rtl\">מ־</span>) <i>to take leave of absence</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on I Samuel 20:6\" href=\"/Targum_Jonathan_on_I_Samuel.20.6\">Targum I Samuel XX, 6</span>. <br><b><br>—2)</b> (with <span class=\"refLink\" data-ref=\"Jastrow, ב 1\" dir=\"rtl\" href=\"/Jastrow,_ב.1\">ב־</span>) <i>to allow one’s self to be inquired of; to answer, issue an oracle</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Ezekiel 14:3\" href=\"/Targum_Jonathan_on_Ezekiel.14.3\">Targum Ezekiel XIV, 3</span>. <span class=\"refLink\" data-ref=\"Targum Jerusalem, Numbers 24:1\" href=\"/Targum_Jerusalem,_Numbers.24.1\">Targum Yonatan II, Bamidbar XXIV, 1</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 65:1\" href=\"/Targum_Jonathan_on_Isaiah.65.1\">Targum Isaiah LXV, 1</span>. <br><b><br>—3)</b> (with <span dir=\"rtl\">ל־</span>) <i>to bring a case up for decision, to ask</i>. Yerushalmi Ma'asrot II, beginning 49ᶜ אִשְׁתָּאֲלִית לאילין וכ׳ I asked those of the house of &c. Yerushalmi Shabbat XII, 13ᶜ bottom of page, <span dir=\"rtl\">אִשְׁתַּאֲלַת לר׳ שמעון וכ׳</span> Rabbenu Shimshon b. L. was asked. Ib. VI, 8ᵃ <span dir=\"rtl\">ואִיתְשְׁלַת לר׳ ומר וכ׳</span> when the case was brought before Rabbi, he said &c.; and from—Esp. <i>to come before a scholar for absolution from a vow</i>. <span class=\"refLink\" data-ref=\"Nedarim 90a:7\" href=\"/Nedarim.90a.7\">Nedarim 90ᵃ</span> <span dir=\"rtl\">אי בעי על נדרו איתשיל ברישא וכ׳</span> if he so desires, he may ask first for absolution from his vow of abstinence, or if he chooses, he may ask first for absolution from his nazaritic vow; <span class=\"refLink\" data-ref=\"Nedarim 90a:4\" href=\"/Nedarim.90a.4\">ib.</span> <span dir=\"rtl\">נִיתְּשִׁיל</span>; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, שְׁאַל 1",
+              "sourceHeRef": "מילון יסטרוב, שְׁאַל א׳",
+              "sourceRef": "Jastrow, שְׁאַל 1"
+            }
+          ]
+        },
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> אין צריכין רוב של זפת כו'. נ\"ב והר\"ן גורס גפת ופירושו פסולת של זיתים ושומשמין וכן הרא\"ש:",
+              "ref": "Chokhmat Shlomo on Shabbat 20b:1",
+              "sourceHeRef": "חכמת שלמה על שבת כ׳ ב:א",
+              "sourceRef": "Chokhmat Shlomo on Shabbat 20b:1"
+            },
+            {
+              "en": "",
+              "he": "<b>שם</b> של גפרית ושל רבב ושל גבינה כו' כצ\"ל. ונ\"ב ברי\"ף ור\"ן לא גרסי גבינה אלא קירא שהוא שעוה ע\"ש:",
+              "ref": "Chokhmat Shlomo on Shabbat 20b:2",
+              "sourceHeRef": "חכמת שלמה על שבת כ׳ ב:ב",
+              "sourceRef": "Chokhmat Shlomo on Shabbat 20b:2"
+            }
+          ]
+        },
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בגמ'</b> תני רב יוסף ד' מדורות אין צריכין רוב של זפת וכו' ושל גבינה וכו' עיין בדברי הרי\"ף והרא\"ש שגורסים בענין אחר:",
+              "ref": "Maharam on Shabbat 20b:1",
+              "sourceHeRef": "מהר\"ם על שבת כ׳ ב:א",
+              "sourceRef": "Maharam on Shabbat 20b:1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If a fire was made of reeds or of seeds, it is not necessary for the majority of it to be kindled before the Sabbath. Instead, since it caught fire before [the commencement] of the Sabbath, its use is permitted, for the fire will spread quickly through [these substances], and there is no necessity for one to stir it.<br>Therefore, if the reeds were bound together or the seeds were placed in palm baskets, the same laws applying to wood apply, and the flames must be powerful enough to rise up on their own accord before [the commencement] of the Sabbath.",
+              "he": "הָיְתָה מְדוּרָה שֶׁל קָנִים אוֹ שֶׁל גַּרְעִינִין אֵינוֹ צָרִיךְ לְהַדְלִיק הָרֹב אֶלָּא כֵּיוָן שֶׁהִתְחִיל בָּהֶן הָאֵשׁ קֹדֶם הַשַּׁבָּת מֻתָּר לְהִשְׁתַּמֵּשׁ בָּהּ. מִפְּנֵי שֶׁהָאֵשׁ נִתְלֵית בָּהֶן בִּמְהֵרָה וְאֵינוֹ צָרִיךְ לַחְתּוֹת. לְפִיכָךְ אִם אָגַד הַקָּנִים אוֹ הִנִּיחַ הַגַּרְעִינִין בְּחוֹתָלוֹת הֲרֵי הֵן כְּעֵצִים וְצָרִיךְ שֶׁתַּעֲלֶה בָּהֶן שַׁלְהֶבֶת מֵאֵלֶיהָ קֹדֶם הַשַּׁבָּת:",
+              "ref": "Mishneh Torah, Sabbath 3:21",
+              "sourceHeRef": "הלכות שבת ג:כא",
+              "sourceRef": "Sabbath 3:21"
+            },
+            {
+              "en": "When a fire is fueled with tar, sulfur, oily substances, wax, straw, or stubble, it is not required that the majority be kindled before the commencement of the Sabbath, because these substances catch fire quickly.",
+              "he": "מְדוּרָה שֶׁל זֶפֶת אוֹ שֶׁל גָּפְרִית אוֹ שֶׁל רְבָב אוֹ שֶׁל קִירָה אוֹ שֶׁל קַשׁ אוֹ שֶׁל גְּבָבָא אֵינוֹ צָרִיךְ לְהַדְלִיק רֻבָּהּ קֹדֶם הַשַּׁבָּת מִפְּנֵי שֶׁהָאֵשׁ מַדְלֶקֶת אוֹתָם בִּמְהֵרָה:",
+              "ref": "Mishneh Torah, Sabbath 3:22",
+              "sourceHeRef": "הלכות שבת ג:כב",
+              "sourceRef": "Sabbath 3:22"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "Its obvious that wood is not appropriate for a wick, but only for a torch.",
+                      "he": "",
+                      "ref": "Translation on Rashi on Shabbat 20b:2:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מדורה</strong> - לשון היסק גדול:",
+              "ref": "Rashi on Shabbat 20b:2:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ב:א",
+              "sourceRef": "Rashi on Shabbat 20b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבב</strong> - שומן ושעוה וכל דבר הניתך:",
+              "ref": "Rashi on Shabbat 20b:2:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ב:ב",
+              "sourceRef": "Rashi on Shabbat 20b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גבבא</strong> - שגובבין מן השדה בל\"א שטובל\"א:",
+              "ref": "Rashi on Shabbat 20b:2:3",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ב:ג",
+              "sourceRef": "Rashi on Shabbat 20b:2:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קש</strong> - זנבות שבולין אשטרי\"ס:",
+              "ref": "Rashi on Shabbat 20b:2:4",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ב:ד",
+              "sourceRef": "Rashi on Shabbat 20b:2:4"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>רבב</big></b> [פעט, פעך] <span class=\"parenthesized\">(שבת כ)</span> של זפת ושל גפת של רבב ושל גבינה <span class=\"parenthesized\">(שם עח)</span> רבב כדי לשום תחת אספוגית קטנה <span class=\"parenthesized\">(שם קיד)</span> כל תלמיד חכם שנמצא רבב על בגדו פי' רבב שומן וקירא ונפטא וזפת וכיוצא בהן אם נמצא על בגדו של חכם חשוב ממשניאי התורה שאין בני אדם דבקין בו שלא יתלכלך מלבושם ממנו פי' רבב דם יבש כמו ריבדא דכוסילתא אמר רמי בר חמא האי רובדא דכוסילתא עד ג' ימים לא חייץ מכאן ואילך חייץ ותלמיד חכם שנמצא דם על בגדו העליון הרי זה מכוער <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב לפי דעת התוספת רבב ורבד מענין אחד והביאו בפרק אין מעמידין דע\"ז ראיה מסוגיא זו לבריתא דנודות העכו\"ם עכו\"ם רבבן זפתן ועיבדן ובתוספתא גריס רובדן שהכל אחד ולפי הראיות צדקו דברי התוספות חדא משום גרסת התוספתא ושם אין שייך לפרש ריבדן מלשון דם ותו שריבדא אינו דם אלא שריטה הנשארת אחר הקזת דם <span class=\"parenthesized\">(ב\"ב כ)</span> אמר רב בכל עושים מחיצה חוץ ממלח ורבב <span class=\"parenthesized\">(ע\"ז לג)</span> עכו\"ם רובבן יעובדן וישראל נותן לתוכן יין פי' רובבן זופתן בזפת רובבן כמו רבב עכו\"ם רובבן וישראל נותן לתוכן יין שנותנין מעט יין בזפת כשנדלקה זפת כדי לצננו <span class=\"parenthesized\">(סוטה מט)</span> א\"ר אילעא ב\"ר ברכיה אלמלא תפלתו של דוד היו כל ישראל מוכרי רבב שנא' שיתה ה' מורה להם פי' רבב פסולת שעוה הוא ומפני שהזכיר שבטל נופת צופים בא להודיע שלא נשאר להם אלא פסולת של שעוה. פ\"א מוכרי דבר מאוס מרוב עניות. שיתה ה' מורה להם התפלל להקב\"ה שיעשירם שיראו בני אדם מהם ומאדם עשיר מתייראין)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Resh 16",
+              "sourceHeRef": "ספר הערוך, אות הרי\"ש ט״ז",
+              "sourceRef": "Sefer HeArukh, Letter Resh 16"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ט)</span> של זפת וכו'</strong> - עיין בגמרא דה\"ה שומן ושעוה וכל דבר הניתך:",
+                      "ref": "Mishnah Berurah 255:9",
+                      "sourceHeRef": "משנה ברורה רנה:ט",
+                      "sourceRef": "Mishnah Berurah 255:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(י)</span> של קש וגבבא</strong> - קש זנבי שבלים וגבבא שגובבין משדה אחר הקצירה:",
+                      "ref": "Mishnah Berurah 255:10",
+                      "sourceHeRef": "משנה ברורה רנה:י",
+                      "sourceRef": "Mishnah Berurah 255:10"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יא)</span> כשהם מפוזרים</strong> - הטעם דכיון שאחז בהן האור קצת מבעוד יום שוב הם דולקין מאליהן אבל כשהם אגודות או בסל שוב אין השלהבת יכולה ליכנס בהן והוא דעת הרי\"ף והרמב\"ם ודעת הי\"א שהוא דעת הרא\"ש והטור הוא להיפוך דכשהם מפוזרות כל אחת מהן לא תמצא את חברתה לבערה והם כבים והולכים הילכך צריכים רוב משא\"כ כשהם נאגדים יחד וכן בגרעינין:",
+                      "ref": "Mishnah Berurah 255:11",
+                      "sourceHeRef": "משנה ברורה רנה:יא",
+                      "sourceRef": "Mishnah Berurah 255:11"
+                    }
+                  ]
+                }
+              },
+              "en": "3. When tar, sulfur, straw, or stubble [are used as kindling for] a medurah, even though the fire only started burning minimally [while it was still day on Friday], it is permitted [to benefit from it, because these substances will continue to burn on their own]. The same [rule applies when] reeds or date pits are used as kindling when they are spread out. If, however, the reeds are bound [in a bundle] and the pits are [collected] in a basket, then the fire must take hold of them to the extent that it ascends on its own accord, and there are those who say the opposite.",
+              "he": "מדורה של זפת ושל גפרית ושל קש וגבבא אפילו לא אחז בהם אלא כל שהוא שרי וכן מדורה של קנים ושל גרעיני תמרים כשהם מפוזרים אבל אם הקנים אגודות והגרעיני' בסל צריכים שיצית בהם האור עד שתהא שלהבת עולה מאליה ויש אומרים בהיפך:",
+              "ref": "Shulchan Arukh, Orach Chayim 255:3",
+              "sourceHeRef": "אורח חיים רנה:ג - הכנת האש קודם הכנסת שבת",
+              "sourceRef": "Orach Chayim 255:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תני</b> <span class=\"hebrew-emphasis\">[שנה]</span> <b>רב יוסף: ארבע מדורות אין צריכין</b> שיידלק ה<b>רוב,</b> שכן חומריהן בוערים יפה אם אך נאחזה בהם האש. והן: מדורה <b>של זפת, ושל גפרית, ושל גבינה</b> יבשה <b>ושל רבב</b> (דברים שמנים). <b>במתניתא תנא</b> <span class=\"hebrew-emphasis\">[בברייתא שנו]</span> עוד: <b>אף</b> מדורה <b>של קש ושל גבבא</b> (לקט עצים הנאספים מן השדה) אין צריך שיידלק הרוב.",
+              "ref": "Steinsaltz on Shabbat 20b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:ב",
+              "sourceRef": "Steinsaltz on Shabbat 20b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It is sufficient to ignite even the slightest part of bonfires made of pitch, sulfur, straw, and rakings, as well as fat and wax adjacent to Shabbat, according to the variant reading of the Rif of the statement of Rav Yosef and the <i>baraita</i> (Rambam <i>Sefer Zemanim, Hilkhot Shabbat </i>3:22; <i>Shulĥan Arukh, Oraĥ Ĥayyim</i> 255:3).",
+              "he": "מדורות של זפת גפרית קש וגבבא, וכן גם שומן ושעוה (כגרסת הרי\"ף), מספיק להדליקם בכל שהוא סמוך לשבת. כדברי רב יוסף והברייתא. (רמב\"ם ספר זמנים הלכות שבת פ\"ג הכ\"א- כ\"ב. שו\"ע או\"ח רנה, ג).",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:2",
+              "sourceHeRef": "מְדוּרוֹת",
+              "sourceRef": "Bonfires"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Stored wealth shall become as tow,<br>And he who amassed it a spark;<br>And the two shall burn together,<br>With none to quench.",
+              "he": "וְהָיָ֤ה הֶחָסֹן֙ לִנְעֹ֔רֶת וּפֹעֲל֖וֹ לְנִיצ֑וֹץ וּבָעֲר֧וּ שְׁנֵיהֶ֛ם יַחְדָּ֖ו וְאֵ֥ין מְכַבֶּֽה׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+              "link": "/Isaiah/1",
+              "ref": "Isaiah 1:31",
+              "sourceHeRef": "ישעיהו א:לא",
+              "sourceRef": "Isaiah 1:31"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> taught</b> a <i>baraita</i>: <b>Four bonfires do not require</b> that <b>most</b> of the flammable materials catch fire, as their materials burn easily once the fire takes hold of them. And they are: A bonfire <b>of pitch, and of sulfur, and of</b> dry <b>cheese, and of fatty</b> materials. And <b>it was taught in a <i>baraita</i></b>: A bonfire <b>of straw and</b> one <b>of rakings</b> of wood gathered from the field <b>also</b> do not require that most of it catch fire.",
+      "he": "תָּנֵי <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>: אַרְבַּע מְדוּרוֹת אֵין צְרִיכִין רוֹב: שֶׁל זֶפֶת, וְשֶׁל גׇּפְרִית, וְשֶׁל גְּבִינָה, וְשֶׁל רְבָב. בְּמַתְנִיתָא תָּנָא: אַף שֶׁל קַשׁ וְשֶׁל גְּבָבָא.",
+      "ref": "Shabbat 20b:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "*<strong dir=\"rtl\">דְּרִינוֹן</strong> m. (corruption of κέδρινον) <i>cedar-wood</i>, the wool-like substance of which is used for wicks. Yerushalmi Shabbat II, beginning 4ᶜ (explain. <span class=\"refLink\" data-ref=\"Jastrow, לֶכֶשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_לֶכֶשׁ.1\">לֶכֶשׁ</span>; Bavli <span class=\"refLink\" data-ref=\"Shabbat 20b:3\" href=\"/Shabbat.20b.3\">Shabbat 20ᵇ</span> <span dir=\"rtl\">שוכא דארזא</span>). V. <span class=\"refLink\" data-ref=\"Jastrow, קַדְרִינוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_קַדְרִינוֹן.1\">קֶדְרִינוֹן</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, *דְּרִינוֹן 1",
+              "sourceHeRef": "מילון יסטרוב, *דְּרִינוֹן א׳",
+              "sourceRef": "Jastrow, *דְּרִינוֹן 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">זָאזָא</strong> m. (reduplic. of <span dir=\"rtl\">זא</span> = <span class=\"refLink\" data-ref=\"Jastrow, זָע 1\" dir=\"rtl\" href=\"/Jastrow,_זָע.1\">זע</span>, see <span class=\"refLink\" data-ref=\"Jastrow, זוּעַ 1\" dir=\"rtl\" href=\"/Jastrow,_זוּעַ.1\">זוּעַ</span> and <span dir=\"rtl\">זעזע</span>)<i>foliage, spray; young twigs</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Job 14:9\" href=\"/Aramaic_Targum_to_Job.14.9\">Targum Job XIV, 9</span>; and e.—<span class=\"refLink\" data-ref=\"Shabbat 20b:3\" href=\"/Shabbat.20b.3\">Shabbat 20ᵇ</span> (explained <span dir=\"rtl\">עצים של בבל</span>) <span dir=\"rtl\">ז׳</span> dry twigs and leaves used as fuel."
+              ],
+              "he": [],
+              "ref": "Jastrow, זָאזָא 1",
+              "sourceHeRef": "מילון יסטרוב, זָאזָא א׳",
+              "sourceRef": "Jastrow, זָאזָא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">שׂוּכָּא</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, שָׁכַךְ 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁכַךְ.1\">שכך</span>, see <span class=\"refLink\" data-ref=\"Jastrow, סָכַךְ I 1\" dir=\"rtl\" href=\"/Jastrow,_סָכַךְ I.1\">סכך</span>) <i>prickly bark</i>. <span class=\"refLink\" data-ref=\"Shabbat 20b:6\" href=\"/Shabbat.20b.6\">Shabbat 20ᵇ</span> (explained <span class=\"refLink\" data-ref=\"Jastrow, לֶכֶשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_לֶכֶשׁ.1\">לכש</span>, <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:1\" href=\"/Mishnah_Shabbat.2.1\">ib. II, 1</span>) <span dir=\"rtl\">ש׳ דארזא</span> the bark of a cedar tree. Ib. <span dir=\"rtl\">ש׳ דארזא עץ וכ׳</span> but the bark of cedar is mere wood (and cannot be used as a wick)! Answ. <span dir=\"rtl\">בעמרניתא וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, עַמְרָנִיתָא 1\" dir=\"rtl\" href=\"/Jastrow,_עַמְרָנִיתָא.1\">עַמְרָנִיתָא</span>.—V. <span class=\"refLink\" data-ref=\"Jastrow, שַׂוְוכָּא 1\" dir=\"rtl\" href=\"/Jastrow,_שַׂוְוכָּא.1\">שַׂוְוכָּא</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, שׂוּכָּא 1",
+              "sourceHeRef": "מילון יסטרוב, שׂוּכָּא א׳",
+              "sourceRef": "Jastrow, שׂוּכָּא 1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הא ד<b>אמר רבי יוחנן עצים של בבל אינם צריכין רוב.</b> ואמרינן:",
+              "ref": "Rashba on Shabbat 20b:1",
+              "sourceHeRef": "רשב״א על שבת כ׳ ב:א",
+              "sourceRef": "Rashba on Shabbat 20b:1"
+            },
+            {
+              "en": "",
+              "he": "<b> מאי היא, אילימא סילתי השתא פתילה אמר עולא המדליק צריך שידליק ברוב היוצא סילתי מיבעיא.</b> ואוקימנא:",
+              "ref": "Rashba on Shabbat 20b:2",
+              "sourceHeRef": "רשב״א על שבת כ׳ ב:ב",
+              "sourceRef": "Rashba on Shabbat 20b:2"
+            },
+            {
+              "en": "",
+              "he": "<b> בשוכא דארזא.</b> קשיא לי, אכתי תקשי ליה מדעולא, דהא ודאי פתילה עדיפא משוכא דארזא, דפתילה נאחזת בה האור ובשוכא מסכסכת בה האור, כדאיתא לקמן בריש פרק במה מדליקין דטפי עדיפא פתילה משוכא דארזא. ורב אלפס לא הביא בהלכות האי דרבי יוחנן. ומשמע ודאי דהלכתא היא, דהא ליכא מאן דפליג עלה. הדרן עלך פרק יציאות השבת",
+              "ref": "Rashba on Shabbat 20b:3",
+              "sourceHeRef": "רשב״א על שבת כ׳ ב:ג",
+              "sourceRef": "Rashba on Shabbat 20b:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סילתי</strong> - לאחר שעשאום עצים דקים ובבבל נוהגין כן:",
+              "ref": "Rashi on Shabbat 20b:3:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ג:א",
+              "sourceRef": "Rashi on Shabbat 20b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">השתא פתילה</strong> - של בגד הטבולה בשמן ונוח לידלק:",
+              "ref": "Rashi on Shabbat 20b:3:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ג:ב",
+              "sourceRef": "Rashi on Shabbat 20b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר עולא המדליק</strong> - נר של שבת צריך שידליק ברוב היוצא מראש הפתילה חוץ לנר:",
+              "ref": "Rashi on Shabbat 20b:3:3",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ג:ג",
+              "sourceRef": "Rashi on Shabbat 20b:3:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שוכא דארזא</strong> - יבש הוא ודק ויש כמין צמר בין קליפה לעץ והוא מבעירו משאחזה בו אור:",
+              "ref": "Rashi on Shabbat 20b:3:4",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ג:ד",
+              "sourceRef": "Rashi on Shabbat 20b:3:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">זאזא</strong> - מולש\"א בלעז:",
+              "ref": "Rashi on Shabbat 20b:3:5",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ג:ה",
+              "sourceRef": "Rashi on Shabbat 20b:3:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ר' יוחנן: עצים של בבל אין צריכין רוב. מתקיף לה</b> <span class=\"hebrew-emphasis\">[מקשה על כך]</span> <b>רב יוסף</b> הבבלי: <b>מאי היא</b> <span class=\"hebrew-emphasis\">[מה הוא]?</span> מה הם העצים שנוהגים להשתמש בהם בבבל שבעירתם טובה כל כך? <b>אילימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> שהם <b>סילתי</b> <span class=\"hebrew-emphasis\">[קיסמים דקים]</span> שהשתמשו בהם להבערה ולמאור — <b>השתא</b> <span class=\"hebrew-emphasis\">[עכשיו]</span> יודעים אנו שעל <b>פתילה אמר עולא</b> ש<b>המדליק</b> אותה לנר שבת <b>צריך שידליק ברוב היוצא</b> מן הכלי, ואם כן <b>סילתי מבעיא</b> <span class=\"hebrew-emphasis\">[קיסמים דקים צריך</span> לומר<span class=\"hebrew-emphasis\">]</span> שיש להדליקם ברובם? <b>אלא אמר רב יוסף:</b> וודאי נתכוון ל<b>שוכא דארזא</b> <span class=\"hebrew-emphasis\">[ענף של</span> עץ <span class=\"hebrew-emphasis\">ארז].</span> ו<b>רמי בר אבא אמר:</b> המדובר כאן הוא ב<b>זאזא</b> <span class=\"hebrew-emphasis\">[אזוב].</span>",
+              "ref": "Steinsaltz on Shabbat 20b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:ג",
+              "sourceRef": "Steinsaltz on Shabbat 20b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This word is perhaps related to the Middle Persian <i>ge’onim</i>, <i>zaza</i> means the branch of a tree used for burning.",
+              "he": "המלה קשורה כנראה במלה הפרסית <eng>zaz</eng> שפירושה: עשב. ומכאן התרחבה משמעותה גם לחומרי בעירה דמויי עשב. ולדעת הגאונים \"זאזא\" פירושו ענף של עץ המשמש לבעירה, והם גוזרים את המלה מן הארמית",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:3",
+              "sourceHeRef": "זַאזָא",
+              "sourceRef": "Hyssop [<i>zaza</i>]"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> said: Babylonian wood does not require</b> that <b>most</b> of it catch fire. <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> <span href=\"/topics/issi-b-yehudah\" class=\"namedEntityLink\" data-slug=\"issi-b-yehudah\">Yosef</span></b><span href=\"/topics/issi-b-yehudah\" class=\"namedEntityLink\" data-slug=\"issi-b-yehudah\"> the Babylonian</span> <b>objects: What is that</b> wood that they use in Babylonia that burns so well? <b>If you say</b> that it refers to wood <b>slivers</b> used for burning and light, <b>now</b> that with regard to <b>a wick, <span href=\"/topics/ulla\" class=\"namedEntityLink\" data-slug=\"ulla\">Ulla</span> said</b> that <b>one who lights</b> it for a Shabbat lamp <b>must light most of what emerges</b> from the vessel; <b>is it necessary</b> to mention with regard to wood <b>slivers</b> that most of them must be lit? <b>Rather, <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> said:</b> Certainly the reference is to <b>the branch of</b> a <b>cedar</b> tree. And <b><span href=\"/topics/rami-b-abba\" class=\"namedEntityLink\" data-slug=\"rami-b-abba\">Rami bar Abba</span> said:</b> The reference here is to a <b>hyssop</b> [<b><i>zaza</i></b>].",
+      "he": "אָמַר <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">רַבִּי יוֹחָנָן</span>: עֵצִים שֶׁל בָּבֶל אֵין צְרִיכִין רוֹב. מַתְקִיף לַהּ <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>: מַאי הִיא? אִילֵימָא סִילְתֵּי — הַשְׁתָּא פְּתִילָה אָמַר <span href=\"/topics/ulla\" class=\"namedEntityLink\" data-slug=\"ulla\">עוּלָּא</span> הַמַּדְלִיק צָרִיךְ שֶׁיַּדְלִיק בְּרוֹב הַיּוֹצֵא, סִילְתֵּי מִבַּעְיָא? אֶלָּא אָמַר <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>: שׂוֹכָא דְאַרְזָא. <span href=\"/topics/rami-b-abba\" class=\"namedEntityLink\" data-slug=\"rami-b-abba\">רָמֵי בַּר אַבָּא</span> אָמַר: זָאזָא.",
+      "ref": "Shabbat 20b:3"
+    },
+    {
+      "commentary": {
+        "Steinsaltz Perek Summary": {
+          "comments": [
+            {
+              "en": [
+                "The talmudic discussions in this chapter encompassed a wide variety of topics, some of which were not related to the laws of Shabbat. The main focus of this chapter was the explication of two major topics: The <span class=\"it-text\">halakhot</span> of carrying from one domain to another on Shabbat and activities that are permitted or prohibited on Shabbat eve.",
+                "Although the discussion of a significant portion of the <span class=\"it-text\">halakhot</span> of carrying out will not be completed until Chapters 7–10 of this tractate, several select issues were analyzed exhaustively in this chapter: The various Shabbat domains and many of the rulings and details that pertain to them; halakhic rulings with regard to intermediate domains and areas, e.g., holes in a wall adjacent to the public domain; and even explanations of some of the fundamental principles upon which these <span class=\"it-text\">halakhot</span> are based. Similarly, in this chapter, the parameters of lifting and placing were clearly defined; the question of lifting from and placing upon a significant surface was addressed; and the definition of what constitutes a significant surface in this regard was discussed.",
+                "Another series of <span class=\"it-text\">halakhot</span> discussed primarily in this chapter are those governing activities from which one must refrain on Shabbat eve. Among these <span class=\"it-text\">halakhot</span> are those that were decreed as safeguards by the Sages, who prohibited performance of certain actions on Shabbat eve lest one forget and come to perform a prohibited labor on Shabbat itself, e.g., the tailor may not go out with his needle.",
+                "This chapter also contained a significant, fundamental discussion of whether or not one is permitted to take action on Shabbat eve that will cause a prohibited labor to be performed on Shabbat on its own or by a gentile. In those cases, it is the opinion of Beit Shammai that gave extremely limited license to perform those actions, as they extended the prohibition to perform a prohibited labor to one's utensils as well. On the other hand, Beit Hillel, whose opinion in this case is the accepted <span class=\"it-text\">halakha</span>, are of the opinion that the prohibitions of Shabbat apply to the person and not to the utensils with which the labor is performed. Based upon that principle, automatic processes initiated before Shabbat that continue to function on Shabbat itself are permitted. In practice, there are many exceptions to this principle, but the basic <span class=\"it-text\">halakha</span> is based upon this foundation."
+              ],
+              "he": [
+                "בפרק זה מסתעף הדיון בתלמוד למספר רב של בעיות, שאחדות מהן אינן שייכות להלכות שבת. ואולם עיקר ענינו של הפרק בבירורם של שני נושאים ראשיים: דיני ההוצאה מרשות לרשות בשבת, ודברים המותרים והאסורים בערב שבת.",
+                "אף שחלק גדול מדיני ההוצאה אינו מגיע להשלמתו אלא למן הפרק השביעי <span class=\"parenthesized\">(״כלל גדול״)</span> עד האחד עשר <span class=\"parenthesized\">(״הזורק״)</span> במסכת, נתבררו בפרק זה מקצת בעיות עד למיצויין; שכן מצויים כאן הגדרת רשויות שבת, קביעת הלכות מרובות ופרטיהן של רשויות אלה, פסקי הלכה ביחס לרשויות־ביניים ולתחומי־ ביניים <span class=\"parenthesized\">(״חורי רשות הרבים״ וכו׳)</span>, ואף הסברת מקצת מן העקרונות שהלכות אלה בנויות עליהם. כמו כן בוארו גדרי העקירה וההנחה, נדונה הבעיה של עקירה והנחה במקום חשוב והגדרתו של מקום חשוב לענין זה.",
+                "סדרה אחרת של הלכות שעיקרה בפרק זה היא זו העוסקת בדברים שיש להיזהר בהם בערב שבת. בין ההלכות הללו יש כאלה שנוצרו כסייג שמדברי חכמים, שאסרו לעשות פעולות שונות בערב שבת <span class=\"parenthesized\">(״לא יצא החייט במחטו וכו׳״)</span> שמא ישכח אדם ויבוא לעשות מלאכה כיוצא בה בשבת.",
+                "דיון חשוב ויסודי נערך אם מותר לאדם לגרום למלאכה שתיעשה בשבת אם הוא אינו עושה אותה בידיים, בין שנעשית על ידי נכרים ובין שהיא מלאכה שהוא מתחיל בה מבעוד יום והיא נגמרת מעצמה. בנושאים אלה היתה דעת בית שמאי שיש לצמצם ביותר את היתר המלאכות הנעשות בשבת, אפילו אינן נעשות בידים <span class=\"parenthesized\">(״שביתת כלים מדאורייתא״)</span>, או נעשות על ירי נכרים. ואילו דעת בית הלל, שנתקבלה כהלכה, היא שאיסורי שבת חלים על האדם ואינם חלים על חפצים בהם נעשית המלאכה. ומכאן שהותרו כל אמצעים אוטומאטיים בכל צורותיהם להמשיך לפעול בתוך השבת אם כל המלאכה בפועל נעשתה מבעוד יום. הלכה למעשה יש כמה יוצאים מן הכלל, אך עיקרי ההלכה מושתתים על יסוד זה."
+              ],
+              "ref": "Introductions to the Babylonian Talmud, Shabbat, Summary of Perek I",
+              "sourceHeRef": "הקדמות לתלמוד הבבלי, שבת, סיכום לפרק א׳",
+              "sourceRef": "Introductions to the Babylonian Talmud, Shabbat, Summary of Perek I"
+            }
+          ]
+        }
+      },
+      "en": "",
+      "hadran": true,
+      "he": "<big><strong>הדרן עלך יציאות השבת</strong></big>",
+      "ref": "Shabbat 20b:4"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "This mishna cites a list of fuels and wicks that one may not use in kindling the Shabbat lights, either because their use might induce one to perform a prohibited labor on Shabbat or because they are not in keeping with the deference due Shabbat. The mishna begins by listing the materials that one may not use as wicks. That is followed by a list of the substances that one may not use as fuel.<br><br><b>With what may one light</b> the Shabbat lamp, <b>and with what may one not light</b> it? With regard to types of prohibited wicks, one may light <b>neither with cedar bast [<i>lekhesh</i>], nor with uncombed flax [<i>ḥosen</i>], nor with raw silk [<i>kalakh</i>], nor with willow bast [<i>petilat ha</i>’<i>idan</i>], nor with desert weed [<i>petilat hamidbar</i>], nor with green</b> moss <b>that is on</b> the <b>surface of the water.</b> With regard to types of prohibited oils, one may light <b>neither with pitch [<i>zefet</i>], nor with wax [<i>sha</i>’<i>ava</i>], nor with castor oil [<i>shemen kik</i>], nor with burnt oil [<i>shemen sereifa</i>], nor with</b> fat from <b>a sheep’s tail [<i>alya</i>], nor with tallow [<i>ḥelev</i>]. Naḥum the Mede says: One may light with boiled tallow. And the Rabbis say: Both</b> tallow that was <b>boiled and</b> tallow that was <b>not boiled, one may not light with them.</b>",
+              "he": "בַּמֶּה מַדְלִיקִין וּבַמָּה אֵין מַדְלִיקִין. אֵין מַדְלִיקִין לֹא בְלֶכֶשׁ, וְלֹא בְחֹסֶן, וְלֹא בְכָלָךְ, וְלֹא בִפְתִילַת הָאִידָן, וְלֹא בִפְתִילַת הַמִּדְבָּר, וְלֹא בִירוֹקָה שֶׁעַל פְּנֵי הַמָּיִם. וְלֹא בְזֶפֶת, וְלֹא בְשַׁעֲוָה, וְלֹא בְשֶׁמֶן קִיק, וְלֹא בְשֶׁמֶן שְׂרֵפָה, וְלֹא בְאַלְיָה, וְלֹא בְחֵלֶב. נַחוּם הַמָּדִי אוֹמֵר, מַדְלִיקִין בְּחֵלֶב מְבֻשָּׁל. וַחֲכָמִים אוֹמְרִים, אֶחָד מְבֻשָּׁל וְאֶחָד שֶׁאֵינוֹ מְבֻשָּׁל, אֵין מַדְלִיקִין בּוֹ:",
+              "link": "/Mishnah Shabbat/2",
+              "ref": "Mishnah Shabbat 2:1",
+              "sourceHeRef": "משנה שבת ב:א",
+              "sourceRef": "Mishnah Shabbat 2:1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The wick used for the Sabbath lights should not be made from a substance that causes the light to flicker - e.g., wool, goat's hair, silk, cedar fiber, uncarded flax, palm bast, various types of soft trees, and the like. Instead, [we should use] a substance that burns steadily - e.g., carded flax, [remnants of] linen clothes, cotton, and the like.<br>The person kindling [the lamp] should make sure that the fire has caught on the major portion of the wick that emerges [from the lamp].",
+              "he": "פְּתִילָה שֶׁמַּדְלִיקִין בָּהּ לְשַׁבָּת אֵין עוֹשִׂין אוֹתָהּ מִדָּבָר שֶׁהָאוּר מְסַכְסֶכֶת בּוֹ כְּגוֹן צֶמֶר וְשֵׂעָר וּמֶשִׁי וְצֶמֶר הָאֶרֶז וּפִשְׁתָּן שֶׁלֹּא נֻפַּץ וְסִיב שֶׁל דֶּקֶל וּמִינֵי הָעֵץ הָרַכִּים וְכַיּוֹצֵא בָּהֶן. אֶלָּא מִדָּבָר שֶׁהָאוּר נִתְלֵית בּוֹ. כְּגוֹן פִּשְׁתָּה נְפוּצָה וּבִגְדֵי שֵׁשׁ וְצֶמֶר גֶּפֶן וְכַיּוֹצֵא בָּהֶן. וְהַמַּדְלִיק צָרִיךְ שֶׁיַּדְלִיק בְּרֹב הַיּוֹצֵא מִן הַפְּתִילָה:",
+              "ref": "Mishneh Torah, Sabbath 5:5",
+              "sourceHeRef": "הלכות שבת ה:ה",
+              "sourceRef": "Sabbath 5:5"
+            },
+            {
+              "en": "The fuel used for kindling a Sabbath lamp must be drawn after the wick. Fuels that are not drawn after the wick may not be used. [These include] [molten] tar, [molten] beeswax, gourd oil, [fat from a] sheep's tail, or tallow.<br>Why may we not kindle with wicks that do not catch the fire well and with fuels that are not drawn after the wick? This is a decree [enacted] lest the light of the candle be dim and one tilt it in order to carry out an activity by its light.",
+              "he": "שֶׁמֶן שֶׁמַּדְלִיקִין בּוֹ לִשַׁבָּת צָרִיךְ שֶׁיְּהֵא נִמְשָׁךְ אַחַר הַפְּתִילָה אֲבָל שְׁמָנִין שֶׁאֵין נִמְשָׁכִין אַחַר הַפְּתִילָה כְּגוֹן זֶפֶת וְשַׁעֲוָה וְשֶׁמֶן קִיק וְאַלְיָה וְחֵלֶב אֵין מַדְלִיקִין בָּהֶן. וּמִפְּנֵי מָה אֵין מַדְלִיקִין בִּפְתִילוֹת שֶׁאֵין הָאוּר נִתְלֵית בָּהֶן וְלֹא בִּשְׁמָנִים שֶׁאֵין נִמְשָׁכִים אַחַר הַפְּתִילָה גְּזֵרָה שֶׁמָּא יִהְיֶה אוֹר הַנֵּר אָפֵל וְיַטֶּה אוֹתָהּ בְּשָׁעָה שֶׁיִּשְׁתַּמֵּשׁ לְאוֹרָהּ:",
+              "ref": "Mishneh Torah, Sabbath 5:8",
+              "sourceHeRef": "הלכות שבת ה:ח",
+              "sourceRef": "Sabbath 5:8"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">במה מדליקין</strong> - לעשות פתילה כל הני דמתני' מפרש בגמרא:",
+              "ref": "Rashi on Shabbat 20b:5:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ה:א",
+              "sourceRef": "Rashi on Shabbat 20b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא בזפת ולא בשעוה</strong> - לאו לענין פתילה אלא לתת במקום שמן וכל הני מזפת ואילך פסולי שמנים הן:",
+              "ref": "Rashi on Shabbat 20b:5:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ה:ב",
+              "sourceRef": "Rashi on Shabbat 20b:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכי גרסינן נחום אומר מדליקין בחלב מבושל</strong> - והוא מהותך:",
+              "ref": "Rashi on Shabbat 20b:5:3",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ה:ג",
+              "sourceRef": "Rashi on Shabbat 20b:5:3"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "משלשלין את הפסח לתוך התנור עם חשיכה ומאחיזין את האור במדורת בית המוקד ובגבולין כדי שתצית את האור ברובו רבי יהודה אומר בפחמין כל שהוא:",
+              "ref": "Rosh on Shabbat 1:42:1",
+              "sourceHeRef": "פסקי הרא\"ש על שבת א:מב:א",
+              "sourceRef": "Rosh on Shabbat 1:42:1"
+            },
+            {
+              "en": "",
+              "he": "במה מדליקין ובמה אין מדליקין. אין מדליקין לא בלכש ולא בחוסן ולא בכלך ולא בפתילת האידן ולא בפתילת המדבר ולא בירוקה שעל פני המים ולא בזפת ולא בשעוה ולא בשמן קיק ולא בשמן שרפה ולא באליה ולא בחלב נחום המדי אומר מדליקין בחלב מבושל וחכמים אומרים אחד מבושל ואחד שאינו מבושל אין מדליקין בו:",
+              "ref": "Rosh on Shabbat 2:1:1",
+              "sourceHeRef": "פסקי הרא\"ש על שבת ב:א:א",
+              "sourceRef": "Rosh on Shabbat 2:1:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>חסן</big></b> [אונפערטיגטער פלאקס] <span class=\"parenthesized\">(שבת כ)</span> לא בחוסן ולא בכלך פי' פשתן שתינו מתוקן ולכך נקרא חוסן שהוא קשה כמו חסין מל' והיה החסון לנעורת:",
+              "ref": "Sefer HeArukh, Letter Chet 272",
+              "sourceHeRef": "ספר הערוך, אות החי\"ת ער״ב",
+              "sourceRef": "Sefer HeArukh, Letter Chet 272"
+            },
+            {
+              "en": "",
+              "he": "<b><big>כלך</big></b> [אבפאלל פאן דער זייד] <span class=\"parenthesized\">(כלאים פ\"ט)</span> השיראין והכלך אין בהם משום כלאים <span class=\"parenthesized\">(שבת כ)</span> לא בחוסן ולא בכלך פי' כלך גושקרא מטכסא השיראין והסיריקון כולן ממין שירא פרדנא הן אלא משונין באריגתן יש מהן דקים ויש מהן עבין יש מהן בניר אחד ויש מהן בב' נירין ויותר יש שיש בהן צורה ויש שאין בהן צורה כדאמרינן ברוקם וחושב ויש מפרשים כלך פסולת של משי אותן קליפות שנשארו מן המשי שמוציאין התולעין ואין נוחין לטוות:",
+              "ref": "Sefer HeArukh, Letter Kaf 140",
+              "sourceHeRef": "ספר הערוך, אות הכ\"ף ק״מ",
+              "sourceRef": "Sefer HeArukh, Letter Kaf 140"
+            },
+            {
+              "en": "",
+              "he": "<b><big>לגש</big></b> [איין שטרויא ארט] <span class=\"parenthesized\">(שבת כ)</span> לא בלגש ולא בחסן פי' קליפה של עץ ארז דבר רך כעין צמר רך <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב פירוש בלשון יון מין עץ אשר עלהו דומה לערבה ומקליו נכפפים כאגמון ובנבול הפרח יצא כמו צמר וגם בלשון יוני נקרא כן כל מין גמא אשר בו בני כפר קושרים מלאכתם ויש גמא שעושין ממנו פתילות)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Lamed 44",
+              "sourceHeRef": "ספר הערוך, אות הלמ\"ד מ״ד",
+              "sourceRef": "Sefer HeArukh, Letter Lamed 44"
+            },
+            {
+              "en": "",
+              "he": "<b><big>פתכר</big></b> [נאמע איינעס אבגאטעס] וקלל במלכו ת\"י פתכריה וטעותיה. סכות מלככם תרגום סכות פתכריכון גבן <span class=\"parenthesized\">(בצפניה)</span> והנשבעים במלכם:",
+              "ref": "Sefer HeArukh, Letter Peh 665",
+              "sourceHeRef": "ספר הערוך, אות הפ\"א תרס״ה",
+              "sourceRef": "Sefer HeArukh, Letter Peh 665"
+            },
+            {
+              "en": "",
+              "he": "<b><big>זפת</big></b> [פעך] <span class=\"parenthesized\">(שבת כ)</span> לא בזפת ולא בשעוה <span class=\"parenthesized\">(שבת טו מקואות פ\"ט)</span> אלו חוצצין בכלים הזפת והמור בכלי זכוכית. מטפחת של זפתין ושל יוצרין ושל מפסלי אילנות אין חוצצין רבי יהודה אומר אף של קייצין פי' סודר שמשימים על בגדיהן הזפתין כדי לשמרן ושל קיצים לוקטי קוצין מפרשים קייצין מקייצי פירות:",
+              "ref": "Sefer HeArukh, Letter Zayin 146",
+              "sourceHeRef": "ספר הערוך, אות הזי\"ן קמ״ו",
+              "sourceRef": "Sefer HeArukh, Letter Zayin 146"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>שם סעיף ג' וכן אין מדליקין בעיטרן וכו'. </b>עיימ\"ש בזה בחיבורי על או\"ח משנת תר\"ד מהלכות חנוכה סי' תרע\"ג. וקשה לי למה נתן הש\"ס הטעם במשנה מפני כבוד השבת שיניחנה ויצא ומכ\"ש לרבנן למה מתירין לגמרי והרי מבואר במשנה דאין מדליקין בשמן שריפה בשבת ומפרשי רבה ואביי הטעם מכח כיון דמצוה לשרפו חיישינן שמא יטה ופירש\"י כדי למהר לשרפו א\"כ ה\"נ כיון דריחו רע ניחוש שמא יטה כדי לשרפו מהר מפני הריח רע ולמה לא ניחוש בזה שמא יטה וצע\"ג בזה ודו\"ק היטב:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 264:2",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אורח חיים רסד:ב",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 264:2"
+                    }
+                  ]
+                },
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יג)</span> בזפת וכו'</strong> - היינו שיניחם בנר ויתן הפתילה בתוכם כמו שעושין בשמן אבל נרות כעין שלנו מבואר בס\"ז דשרי. אין מדליקין בשמרי שמן דהוא עב ואינו נמשך היטב אחר הפתילה:",
+                      "ref": "Mishnah Berurah 264:13",
+                      "sourceHeRef": "משנה ברורה רסד:יג",
+                      "sourceRef": "Mishnah Berurah 264:13"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יד)</span> ולא בחלב</strong> - ושומן הבהמה הוא ג\"כ בכלל חלב לענין זה כמו שביררנו בביאור הלכה ולענין חמאה יש לעיין אך לפי מה שידוע דדרך להתיך החמאה והשומן קודם שמדליקין בו יש עצה לזה דהיינו שיתן לתוכם מעט משמנים הכשרים ומהני בודאי וכדלקמן בס\"ה אך מ\"מ לכתחלה טוב ליזהר מלהדליק בהן אם יש לו שמנים אחרים כי לפעמים נשאר בנר שומן ונותן חמאה ומבשלן ועובר על איסור בישול בשר וחלב וגם על איסור הנאה אם לא בשומן עוף דקי\"ל דאין בו משום בישול והנאה:",
+                      "ref": "Mishnah Berurah 264:14",
+                      "sourceHeRef": "משנה ברורה רסד:יד",
+                      "sourceRef": "Mishnah Berurah 264:14"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(טו)</span> ויניחנו ויצא</strong> - וחובה לאכול בשבת אצל הנר:",
+                      "ref": "Mishnah Berurah 264:15",
+                      "sourceHeRef": "משנה ברורה רסד:טו",
+                      "sourceRef": "Mishnah Berurah 264:15"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(טז)</span> בצרי</strong> - הוא שמן אפרסמון וריחו טוב מאד:",
+                      "ref": "Mishnah Berurah 264:16",
+                      "sourceHeRef": "משנה ברורה רסד:טז",
+                      "sourceRef": "Mishnah Berurah 264:16"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יז)</span> יסתפק ממנו</strong> - ויש עוד טעם אחר בש\"ס מפני שהוא עף ונדבק בכותלי הבית ומבעיר את הבית ואדם בהול על ממונו ויבוא לכבות וכתב המג\"א דמזה למדנו שלא יסתום התנור בעצים שלא יבוא לידי חילול שבת עי\"ז:",
+                      "ref": "Mishnah Berurah 264:17",
+                      "sourceHeRef": "משנה ברורה רסד:יז",
+                      "sourceRef": "Mishnah Berurah 264:17"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "We may not use pine sap as fuel [for the Sabbath lamp], because it produces an unpleasant fragrance, lest one leave [the room] and [on the Sabbath,] there is an obligation to sit [in a room] illuminated by the light of a lamp.<br>Similarly, we may not use balsam oil, because it is very fragrant and it is possible that one will take some of the oil in the lamp [for use as perfume]. Also, [balsam oil] is extremely flammable. For the latter reason, one may not use white naphtha [as fuel for a lamp] even during the week. It is extremely flammable and may cause a danger.",
+                      "he": "אֵין מַדְלִיקִין בְּעִטְרָן מִפְּנֵי שֶׁרֵיחוֹ רַע שֶׁמָּא יַנִּיחֶנּוּ וְיֵצֵא וְחוֹבָה עָלָיו לֵישֵׁב לְאוֹר הַנֵּר. וְלֹא בָּצֳרִי מִפְּנֵי שֶׁרֵיחוֹ טוֹב שֶׁמָּא יִקַּח מִמֶּנּוּ מִן הַנֵּר וְעוֹד מִפְּנֵי שֶׁהוּא עָף. וְלֹא בְּנֵפְט לָבָן וַאֲפִלּוּ בְּחל מִפְּנֵי שֶׁהוּא עָף וְיָבוֹא לִידֵי סַכָּנָה:",
+                      "ref": "Mishneh Torah, Sabbath 5:10",
+                      "sourceHeRef": "הלכות שבת ה:י",
+                      "sourceRef": "Sabbath 5:10"
+                    }
+                  ]
+                }
+              },
+              "en": "3. We do not ignite the Sabbath lamp except from oil which follows after the wick, and therefore we do not ignite with pitch nor with wax nor with oil made from cotton nor from sheep-tail fat nor from forbidden fat. And also we do not ignite with tar because of its foul odor, and he'll place it and pass. And not with balsam sap because because of its wafting odor, lest he drain from it and find himself liable for extinguishment.",
+              "he": "אין מדליקין נר לשבת אלא משמן הנמשך אחר הפתילה ולפיכך אין מדליקין בזפת ולא בשעוה ולא בשמן העשוי מצמר גפן ולא באליה ולא בחלב וכן אין מדליקין בעטרן מפני שריחו רע ויניחנו ויצא ולא בצרי מפני שריחו נודף שמא יסתפק ממנו ונמצא מתחייב משום מכבה:",
+              "ref": "Shulchan Arukh, Orach Chayim 264:3",
+              "sourceHeRef": "אורח חיים רסד:ג - דיני הפתילה והשמן",
+              "sourceRef": "Orach Chayim 264:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> במשנה זו מופיעה רשימה של חמרי הבעירה והפתילות שאין להשתמש בהם בהדלקת הנרות בשבת. אם משום שאפשר להכשל על ידם בעבירה, אם משום שאינם ראוים לכבוד השבת. כיון שסתם נר שמדובר בו הריהו כלי המכיל שמן ובתוכו פתילה, מבואר בתחילה מה הם החומרים שאין עושים מהם פתילות לנר שבת, ואחר כך רשימה אחרת של חומרים שאין משתמשים בהם כשמן בנרות אלה. <b>במה מדליקין</b> נרות שבת, <b>ובמה אין מדליקין?</b> לענין סוגי הפתילות אמרו <b>כי אין מדליקין לא בלכש, ולא בחוסן, ולא בכלך, ולא בפתילת האידן, ולא בפתילת המדבר, ולא בירוקה שעל פני המים.</b> ולענין סוגי השמנים אמרו כי אין מדליקים <b>לא בזפת, ולא בשעוה, ולא בשמן קיק, ולא בשמן שריפה, ולא באליה, ולא בחלב. נחום המדי אומר: מדליקין בחלב מבושל. וחכמים אומרים: אחד</b> חלב <b>מבושל ואחד שאינו מבושל אין מדליקין בו.</b>",
+              "ref": "Steinsaltz on Shabbat 20b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:ה",
+              "sourceRef": "Steinsaltz on Shabbat 20b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יש מפרשים כי הטעם שאסרו להשתמש בפתילות גרועות ובשמנים שאינם נמשכים יפה אחר הפתילה הוא משום שהדלקת הנר בשבת מצוה, וראוי שישב וישתמש באורה, ואילו האור היוצא מפתילות ושמנים אלה חלוש וחשוך ויש חשש שיעזבם ויצא (עיין רמב\"ם).",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:5",
+              "sourceHeRef": "כָּלָךְ",
+              "sourceRef": "Raw silk"
+            },
+            {
+              "en": "The <i>alya</i> is the long, thick, fatty tail of the genus of sheep that was common in Eretz Yisrael and the surrounding areas during the Temple era. The tail covered the entire back of the sheep to the extent that it was difficult to ascertain the gender of the sheep, particularly in younger animals. The Torah commands that when a sheep is brought as a peace-offering, the tail is one of the parts of the animal burned on the altar. This applied only to sheep, as other animals that were sacrificed, e.g., goats, did not have this kind of tail.",
+              "he": "זפת ועטרן\nאת רוב הזפת והעטרן הפיקו (עד לפני כמאה שנה) מעץ. לתעשיית פחמי העץ היו עושים זיקוק_הרסני (יבש) של העץ, וחומרי הלוואי המתקבלים הם הזפת והעטרן. שימושם של חומרים אלה היה בעיקר לאיטום כלים בפני מים.",
+              "ref": "Steinsaltz comment #2 on Shabbat 20b:5",
+              "sourceHeRef": "אַלְיָה",
+              "sourceRef": "Sheep’s tail [<i>alya</i>]"
+            },
+            {
+              "en": "Lighting the Shabbat lamp with inferior wicks and oils, where the wick does not draw the oil properly, is prohibited because the purpose of this mitzva is to utilize the light. If the light emitted by inferior wicks and oils is weak and dim, the concern is that the person will abandon the Shabbat lights, defeating their purpose, which is to enjoy their light (see Rambam).",
+              "he": "נראה שהמלה קשורה בפרסית <eng>kulk</eng> (או <eng>kurg</eng>), שמשמעה — צמר עדין ורך.",
+              "ref": "Steinsaltz comment #3 on Shabbat 20b:5",
+              "sourceHeRef": "בַּמֶּה מַדְלִיקִין וּבַמָּה אֵין מַדְלִיקִין וכו׳",
+              "sourceRef": "With what may one light and with what may one not light, etc."
+            },
+            {
+              "en": "Perhaps this word is related to the Persian",
+              "he": "",
+              "ref": "Steinsaltz comment #4 on Shabbat 20b:5",
+              "sourceHeRef": "כָּלָךְ",
+              "sourceRef": "Raw silk [<i>kalakh</i>]"
+            }
+          ]
+        },
+        "Steinsaltz Perek Intro": {
+          "comments": [
+            {
+              "en": [
+                "You shall not kindle a fire throughout your settlements on the Shabbat day. (Exodus 35:3)",
+                "You shall call the Shabbat a delight, the holy of the Lord honorable. (Isaiah 58:13)",
+                "Delighting in Shabbat is not a mitzva by Torah law, but is first mentioned in the book of Isaiah. However, many of the <span class=\"it-text\">halakhot</span> and customs of Shabbat are based upon this mitzva.",
+                "Kindling the Shabbat lights in deference to Shabbat is based on the mitzva of delighting in Shabbat, as there can be no delight or enjoyment, even in a festive meal, in a house that is dark and bereft of illumination. With the lighting of the Shabbat lights, there is thus an element of delight, as well as deference to Shabbat day. However, since there is a strict prohibition against kindling fire or extinguishing it on the Shabbat day, special care must be taken to ensure that the kindling of the lights on Shabbat eve will not lead to kindling or extinguishing fire once Shabbat begins. Therefore, the Sages instituted safeguards and precautions with regard to the various substances that may be used in kindling the Shabbat lights as well as with regard to the manner in which their light may be utilized on Shabbat eve and on Shabbat day. The primary focus of this chapter is the elucidation of the parameters of the prohibited labors of kindling and extinguishing, along with a discussion of precautionary measures enacted to enable use of the light of an oil lamp on Shabbat. Other related topics, including the mitzva of the Hanukkah lights, are discussed in this chapter."
+              ],
+              "he": [
+                "<b>לֹא תְבַעֲרוּ אֵשׁ בְּכֹל מֹשְׁבֹתֵיכֶם בְּיוֹם הַשַּׁבָּת</b> <span class=\"parenthesized\">(שמות לה,ג)</span>",
+                "<b>וְקָרָאתָ לַשַּׁבָּת עֹנֶג לִקְדוֹשׁ ה׳ מְכֻבָּד</b> <span class=\"parenthesized\">(ישעיהו נח,יג)</span>",
+                "אף שמצות עונג שבת אינה מן התורה, ונזכרה לראשונה רק בדברי הנביאים, מבוססות כמה וכמה מהלכות שבת על מצוה זו.",
+                "הדלקת הנר לכבוד שבת מקורה במצות עונג שבת; כי לא יתכן כל עונג, ואף לא בסעודה, בבית חשוך שאין הנר דולק בו. בהדלקת הנר יש איפוא משום עונג שבת ומשום תוספת כבוד ליום השבת. אולם מאחר שיש איסור חמור בהבערת אש ובכיבויה ביום השבת, יש לדאוג שהדלקת הנר בערב שבת לא תביא להבערתו או לכיבויו ביום השבת. משום כך קבעו חכמים סייגים וגדרים בנר זה — הן ביחס לחומרים שונים שאסור להשתמש בהם לצורך הדלקת הנר, והן ביחס לשימוש ולטיפול בנר בערב־שבת וביום השבת. בירורן של הבעיות העקרוניות מה הם הבערה וכיבוי האסורים בשבת ומה תחומיהם, ומציאת הסייגים המתאימים לשימוש בנר השבת, הוא עיקר ענינו של הפרק, הדן גם בנושאים קרובים אחרים, וביניהם במצות נר חנוכה."
+              ],
+              "ref": "Introductions to the Babylonian Talmud, Shabbat, Introduction to Perek II",
+              "sourceHeRef": "הקדמות לתלמוד הבבלי, שבת, הקדמה לפרק ב׳",
+              "sourceRef": "Introductions to the Babylonian Talmud, Shabbat, Introduction to Perek II"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">במה מדליקין כו'</strong> - פעמים מפרש מאי דסליק מיניה ופעמים במה שהתחיל:",
+              "ref": "Tosafot on Shabbat 20b:5:1",
+              "sourceHeRef": "תוספות על שבת כ׳ ב:ה:א",
+              "sourceRef": "Tosafot on Shabbat 20b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אחד מבושל כו'</strong> - הכא מזכיר שאינו פשוט תחילה וכן בכמה מקומות ומה שקשה על גירסת רש\"י דסוכה [דף ז.] מפורש במקום אחר:",
+              "ref": "Tosafot on Shabbat 20b:5:2",
+              "sourceHeRef": "תוספות על שבת כ׳ ב:ה:ב",
+              "sourceRef": "Tosafot on Shabbat 20b:5:2"
+            }
+          ]
+        }
+      },
+      "en": "This mishna cites a list of fuels and wicks that one may not use in kindling the Shabbat lights, either because their use might induce one to perform a prohibited labor on Shabbat or because they are not in keeping with the deference due Shabbat. The mishna begins by listing the materials that one may not use as wicks. That is followed by a list of the substances that one may not use as fuel.<br><br><strong>MISHNA:</strong> <b>With what may one light</b> the Shabbat lamp, <b>and with what may one not light</b> it? With regard to types of prohibited wicks, one may light <b>neither with cedar bast [<i>lekhesh</i>], nor with uncombed flax [<i>ḥosen</i>], nor with raw silk [<i>kalakh</i>], nor with willow bast [<i>petilat ha</i>’<i>idan</i>], nor with desert weed [<i>petilat hamidbar</i>], nor with green</b> moss <b>that is on</b> the <b>surface of the water.</b> With regard to types of prohibited oils, one may light <b>neither with pitch [<i>zefet</i>], nor with wax [<i>sha</i>’<i>ava</i>], nor with castor oil [<i>shemen kik</i>], nor with burnt oil [<i>shemen sereifa</i>], nor with</b> fat from <b>a sheep’s tail [<i>alya</i>], nor with tallow [<i>ḥelev</i>]. <span href=\"/topics/nahum-hamedi\" class=\"namedEntityLink\" data-slug=\"nahum-hamedi\">Naḥum the Mede</span> says: One may light with boiled tallow. And the Rabbis say: Both</b> tallow that was <b>boiled and</b> tallow that was <b>not boiled, one may not light with them.</b>",
+      "he": "מַתְנִי׳ <big><strong>בַּמֶּה מַדְלִיקִין</strong></big> וּבַמָּה אֵין מַדְלִיקִין? אֵין מַדְלִיקִין לֹא בְּלֶכֶשׁ, וְלֹא בְּחוֹסֶן, וְלֹא בְּכָלָךְ, וְלֹא בִּפְתִילַת הָאִידָן, וְלֹא בִּפְתִילַת הַמִּדְבָּר, וְלֹא בִּירוֹקָה שֶׁעַל פְּנֵי הַמַּיִם, וְלֹא בְּזֶפֶת, וְלֹא בְּשַׁעֲוָה, וְלֹא בְּשֶׁמֶן קִיק, וְלֹא בְּשֶׁמֶן שְׂרֵיפָה, וְלֹא בְּאַלְיָה, וְלֹא בְּחֵלֶב. <span href=\"/topics/nahum-hamedi\" class=\"namedEntityLink\" data-slug=\"nahum-hamedi\">נַחוּם הַמָּדִי</span> אוֹמֵר: מַדְלִיקִין בְּחֵלֶב מְבוּשָּׁל. וַחֲכָמִים אוֹמְרִים: אֶחָד מְבוּשָּׁל וְאֶחָד שֶׁאֵינוֹ מְבוּשָּׁל אֵין מַדְלִיקִין בּוֹ.",
+      "ref": "Shabbat 20b:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">שׂוּכָּא</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, שָׁכַךְ 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁכַךְ.1\">שכך</span>, see <span class=\"refLink\" data-ref=\"Jastrow, סָכַךְ I 1\" dir=\"rtl\" href=\"/Jastrow,_סָכַךְ I.1\">סכך</span>) <i>prickly bark</i>. <span class=\"refLink\" data-ref=\"Shabbat 20b:6\" href=\"/Shabbat.20b.6\">Shabbat 20ᵇ</span> (explained <span class=\"refLink\" data-ref=\"Jastrow, לֶכֶשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_לֶכֶשׁ.1\">לכש</span>, <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:1\" href=\"/Mishnah_Shabbat.2.1\">ib. II, 1</span>) <span dir=\"rtl\">ש׳ דארזא</span> the bark of a cedar tree. Ib. <span dir=\"rtl\">ש׳ דארזא עץ וכ׳</span> but the bark of cedar is mere wood (and cannot be used as a wick)! Answ. <span dir=\"rtl\">בעמרניתא וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, עַמְרָנִיתָא 1\" dir=\"rtl\" href=\"/Jastrow,_עַמְרָנִיתָא.1\">עַמְרָנִיתָא</span>.—V. <span class=\"refLink\" data-ref=\"Jastrow, שַׂוְוכָּא 1\" dir=\"rtl\" href=\"/Jastrow,_שַׂוְוכָּא.1\">שַׂוְוכָּא</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, שׂוּכָּא 1",
+              "sourceHeRef": "מילון יסטרוב, שׂוּכָּא א׳",
+              "sourceRef": "Jastrow, שׂוּכָּא 1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>לכש שוכא דארזא.</b> ואסיקנא: בעמרניתא דאית ביה. ואם תאמר אם כן מסיפא נפקא, דהא קתני כל היוצא מן העץ אין מדליקין בו. יש לומר איצטריך משום דאין למדין מן הכללות ואפילו במקום שנאמר בהן חוץ. אי נמי יש לומר דלא מיקרי יוצא מן העץ אלא דבר שיוצא מן העץ על ידי כתישה כגון פשתן, אבל עמרניתא דבשוכא באפי נפשה קאי ולא מימעיט מדבר היוצא מן העץ.",
+              "ref": "Rashba on Shabbat 20b:4",
+              "sourceHeRef": "רשב״א על שבת כ׳ ב:ד",
+              "sourceRef": "Rashba on Shabbat 20b:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עץ בעלמא הוא</strong> - ופשיטא דלא חזי לפתילה אלא למדורה:",
+              "ref": "Rashi on Shabbat 20b:6:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ו:א",
+              "sourceRef": "Rashi on Shabbat 20b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עמרניתא</strong> - כמין צמר יש בין קליפתו לעצו:",
+              "ref": "Rashi on Shabbat 20b:6:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ו:ב",
+              "sourceRef": "Rashi on Shabbat 20b:6:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וכמה כדי שיצולו א\"ר זירא אמר ר' אילעאי אמר רב כדי שיצולו כמאכל בן דרוסאי איתמר נמי א\"ר אסי אמר ר\"י כל שהוא כמאכל בן דרוסאי אין בו משום בישולי נכרים:",
+              "ref": "Rosh on Shabbat 1:41:2",
+              "sourceHeRef": "פסקי הרא\"ש על שבת א:מא:ב",
+              "sourceRef": "Rosh on Shabbat 1:41:2"
+            },
+            {
+              "en": "",
+              "he": "מאי טעמא דבני חבורה זריזין הן ולא אתי לחתויי. ומאחיזין את האור דכהנים זריזין הן. ובגבולין כדי שתצית את האור ברובו. מאי רובו אמר רב רוב כל אחד ואחד ושמואל אמר כדי שלא יאמרו הבא עצים ונניח תחתיהן תני ר' חייא לסיועי לשמואל כדי שתהא שלהבת עולה מאליה ולא תהא עולה על ידי דבר אחר. עץ יחידי רב אמר בעינן רוב עוביו ואמרי לה רוב היקפו אמר רב פפא הלכך בעינן רוב עוביו ורוב הקיפו אמר רב הונא קנים אין צריכין רוב. אגדן צריכין רוב גרעינין צריכין רוב. נתנן בחותלות אין צריכין רוב. מתקיף לה רב חסדא איפכא מסתברא אתמר נמי אמר רב כהנא א\"ר קנים שאגדן אין צריכין רוב ורש\"י גורס גי' אחרת ומחלק בין קנים לגרעינין. תנא רב יוסף ארבע מדורות אין צריכין רוב של גפת ושל גפרית ושל רבב ושל גבבא במערבא תניא אף של קש ושל גבבא: הדרן עלך יציאות השבת",
+              "ref": "Rosh on Shabbat 1:42:2",
+              "sourceHeRef": "פסקי הרא\"ש על שבת א:מב:ב",
+              "sourceRef": "Rosh on Shabbat 1:42:2"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>שך</big></b> [מאאס] <span class=\"parenthesized\">(שבת כ)</span> מאי לכש שוכא דארזא:",
+              "ref": "Sefer HeArukh, Letter Shin 184",
+              "sourceHeRef": "ספר הערוך, אות השי\"ן קפ״ד",
+              "sourceRef": "Sefer HeArukh, Letter Shin 184"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> רוב המילים והמושגים המוזכרים במשנה לא היו מובנים בבבל והם תורגמו ובוארו. שנינו במשנה שאין מדליקים בלכש. ומסבירים כי <b>לכש</b> הוא <b>שוכא דארזא</b> <span class=\"hebrew-emphasis\">[ענף הארז].</span> ושואלים: הלא <b>שוכא דארזא</b> <span class=\"hebrew-emphasis\">[עץ ארז]</span> <b>עץ בעלמא</b> <span class=\"hebrew-emphasis\">[סתם]</span> <b>הוא!</b> וכיצד יתכן לעשות ממנו פתילה? ומשיבים: מדובר כאן <b>בעמרניתא דאית ביה</b> <span class=\"hebrew-emphasis\">[בכעין צמר שיש בו],</span> מתחת לקליפתו.",
+              "ref": "Steinsaltz on Shabbat 20b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:ו",
+              "sourceRef": "Steinsaltz on Shabbat 20b:6"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעמרניתא דאית ביה</strong> - וא\"ת הא מסיפא שמעינן ליה כל היוצא מן העץ אין מדליקין בו אלא פשתן וכן קשה גבי אידן ויש לומר דאין למדין מן הכללות אפילו במקום שנאמר בהן חוץ:",
+              "ref": "Tosafot on Shabbat 20b:6:1",
+              "sourceHeRef": "תוספות על שבת כ׳ ב:ו:א",
+              "sourceRef": "Tosafot on Shabbat 20b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> Most of the terms used in the mishna were not understood in Babylonia. Therefore, the Gemara translated and clarified them. We learned in the mishna that one may not light with <i>lekhesh</i>. The Gemara explains that <b><i>lekhesh</i></b> is the <b>branch of the cedar</b> tree. The Gemara asks: Isn’t the <b>cedar mere wood?</b> How would one fashion a wick out of wood? The Gemara answers: The mishna is referring to <b>the woolly</b> substance <b>that is</b> beneath its bark.",
+      "he": "<big><strong>גְּמָ׳</strong></big> לֶכֶשׁ — שׂוֹכָא דְאַרְזָא. שׂוֹכָא דְאַרְזָא עֵץ בְּעָלְמָא הוּא! בְּעַמְרָנִיתָא דְּאִית בֵּיהּ.",
+      "ref": "Shabbat 20b:6",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והיה החסון לנעורת</strong> - אלמא חסון לאו נעורת הוא:",
+              "ref": "Rashi on Shabbat 20b:7:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ז:א",
+              "sourceRef": "Rashi on Shabbat 20b:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיתנא דדייק ולא נפיץ</strong> - דכיון דלא נפיץ אין שמן נמשך אחריו נפיץ קרפר\"י לפורר ונעורת מן הדק שבו והכי קאמר קרא פשתן החזק יהפך לנעורת כלומר הגבור יהיה חלש:",
+              "ref": "Rashi on Shabbat 20b:7:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ז:ב",
+              "sourceRef": "Rashi on Shabbat 20b:7:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "עוד שנינו במשנה כי <b>לא</b> מדליקים <b>בחוסן. אמר רב יוסף:</b> החוסן הוא <b>נעורת</b> (החלקים הדקים הנופלים מאניצים) <b>של פשתן. אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>אביי: והכתיב</b> <span class=\"hebrew-emphasis\">[והרי נאמר]</span> <b>\"והיה החסון לנעורת\"</b> (ישעיה א, לא), ו<b>מכלל</b> הדברים אתה למד כי <b>חוסן לאו</b> <span class=\"hebrew-emphasis\">[לא]</span> <b>נעורת הוא! אלא אמר אביי:</b> החוסן הוא <b>כיתנא דדייק</b> <span class=\"hebrew-emphasis\">[פשתן ש</span>כבר <span class=\"hebrew-emphasis\">דכו]</span> את גבעוליה <b>ו</b>עדיין <b>לא נפיץ</b> <span class=\"hebrew-emphasis\">[נפצום],</span> והחוטים המצויים בגבעול מכוסים עוד בקליפה ולכך אינם בוערים יפה.",
+              "ref": "Steinsaltz on Shabbat 20b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:ז",
+              "sourceRef": "Steinsaltz on Shabbat 20b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Cultivated flax, <i>Linum usitatissimum</i>, is an annual plant that grows erect to a height of 40–120 cm. Its flowers are blue or white. Its stiff stalks contain flax fibers, and oil is extracted from its seeds.  After the plant is cut, the stalks are soaked in water, called <i>mei mishra</i> in the language of the Sages, for several days. Various bacteria cause the materials that attach the fibers to the stalks to decompose. Afterward the shell is beaten and opened and the fibers are extracted to be used in weaving linen, <i>bad</i> or <i>shesh</i> in the language of the Torah.  The flax plant has been cultivated since ancient times, especially in ancient Egypt.",
+              "he": "ולפי האמור בתלמוד מפרשים את הכתוב בישעיה \"והיה החסון לנעורת\" שהוא רומז לאופן עשיית הפשתן, שבתוך העבודה החסון (כלומר הפשתן שעדיין לא נדוק ולא נוער) הופך להיות נעורת. וכן הרשע, שבסופו תמיד ישבר וידוק (ע\"פ התלמוד הירושלמי).",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:7",
+              "sourceHeRef": "פִּשְׁתָּן",
+              "sourceRef": "Flax"
+            },
+            {
+              "en": "According to the Gemara, the verse from Isaiah: “And the strong [<i>ĥason</i>] shall be as tow [<i>ne’oret</i>],” refers to processing the flax. In the course of that process, the raw flax is combed to break down the fibrous core and remove impurities. This is a metaphor for the wicked, who will undergo the same process and will ultimately be broken and crushed (Jerusalem Talmud).",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Shabbat 20b:7",
+              "sourceHeRef": "נְעוֹרֶת שֶׁל פִּשְׁתָּן",
+              "sourceRef": "Tow of combed flax"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Stored wealth shall become as tow,<br>And he who amassed it a spark;<br>And the two shall burn together,<br>With none to quench.",
+              "he": "וְהָיָ֤ה הֶחָסֹן֙ לִנְעֹ֔רֶת וּפֹעֲל֖וֹ לְנִיצ֑וֹץ וּבָעֲר֧וּ שְׁנֵיהֶ֛ם יַחְדָּ֖ו וְאֵ֥ין מְכַבֶּֽה׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+              "link": "/Isaiah/1",
+              "ref": "Isaiah 1:31",
+              "sourceHeRef": "ישעיהו א:לא",
+              "sourceRef": "Isaiah 1:31"
+            }
+          ]
+        }
+      },
+      "en": "The mishna taught further that <b>one may not</b> light <b>with <i>ḥosen</i>. <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> said:</b> <i>Ḥosen</i> is <b>tow,</b> thin chaff that falls off the stalk <b>of</b> combed <b>flax. <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said to him: Isn’t it written: “And the <i>ḥason</i> shall be as tow”</b> (Isaiah 1:31)? <b>By inference, <i>ḥosen</i> is not tow. Rather, <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said:</b> <i>Ḥosen</i> is <b>flax whose</b> stalk <b>was crushed</b> but <b>not</b> yet <b>combed.</b> The threads in the stalk are still covered by a shell and therefore do not burn well.",
+      "he": "וְלֹא בְּחוֹסֶן. אָמַר <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>: נְעוֹרֶת שֶׁל פִּשְׁתָּן. אֲמַר לֵיהּ <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אַבָּיֵי</span>: וְהָכְתִיב ״וְהָיָה הֶחָסוֹן לִנְעוֹרֶת״, מִכְּלָל דְּחוֹסֶן לָאו נְעוֹרֶת הוּא! אֶלָּא אָמַר <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אַבָּיֵי</span>: כִּיתָּנָא דִּדְיִיק וְלָא נְפִיץ.",
+      "ref": "Shabbat 20b:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">גּוּשְׁקְרָא</strong>, (<strong dir=\"rtl\">גָּשְׁקְרָא</strong>) f. <br><b>1)</b> <i>wheat flour of the second course, dark flour</i>, opposed <span class=\"refLink\" data-ref=\"Jastrow, חִיוָּרִיּתָא 1\" dir=\"rtl\" href=\"/Jastrow,_חִיוָּרִיּתָא.1\">חִיוָּרִיתָא</span>. <span class=\"refLink\" data-ref=\"Gittin 56a:11\" href=\"/Gittin.56a.11\">Gittin 56ᵃ</span>. [Fl. to Levy Targum Dict. II, 570ᵇ refers to Arab. <i>ḫushkâr</i>, derived from the Persian, <i>bran-bread</i>.] <br><b><br>—2)</b> <i>a cotton-like plant</i>. <span class=\"refLink\" data-ref=\"Shabbat 20b:8\" href=\"/Shabbat.20b.8\">Shabbat 20ᵇ</span> (Variant <span dir=\"rtl\">קוש׳</span>); see <span class=\"refLink\" data-ref=\"Jastrow, *אַגְבִּין 1\" dir=\"rtl\" href=\"/Jastrow,_*אַגְבִּין.1\">אַגְבִּין</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, גּוּשְׁקְרָא 1",
+              "sourceHeRef": "מילון יסטרוב, גּוּשְׁקְרָא א׳",
+              "sourceRef": "Jastrow, גּוּשְׁקְרָא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">כּוּלְּכָא</strong> m. Chaldaic = h. <span class=\"refLink\" data-ref=\"Jastrow, כַּלָּךְ 1\" dir=\"rtl\" href=\"/Jastrow,_כַּלָּךְ.1\">כַּלָּךְ</span> , <i>cissaros-blossom</i> (see <span class=\"refLink\" data-ref=\"Jastrow, *אַגְבִּין 1\" dir=\"rtl\" href=\"/Jastrow,_*אַגְבִּין.1\">אַגְבִּין</span>). <span class=\"refLink\" data-ref=\"Shabbat 20b:8\" href=\"/Shabbat.20b.8\">Shabbat 20ᵇ</span>; Yerushalmi ib. II, beginning 4ᵈ, explained <span class=\"refLink\" data-ref=\"Jastrow, כַּלָּךְ 1\" dir=\"rtl\" href=\"/Jastrow,_כַּלָּךְ.1\">כַּלָּךְ</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Kilayim 9:1:8\" href=\"Jerusalem_Talmud_Kilayim.9.1.8\">Yerushalmi Kilayim IX, 32ᵃ</span> top <span dir=\"rtl\">כַּלְּכָה שמו</span> its name is <i>kall’kha</i>. [<span class=\"refLink\" data-ref=\"Jastrow, כּוּלְּכָא 1\" dir=\"rtl\" href=\"/Jastrow,_כּוּלְּכָא.1\">כולכא</span>, <span dir=\"rtl\">כולכה</span>, for <span class=\"refLink\" data-ref=\"Jastrow, כּוּלָב 1\" dir=\"rtl\" href=\"/Jastrow,_כּוּלָב.1\">כולבא</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כּוּלָב 1\" dir=\"rtl\" href=\"/Jastrow,_כּוּלָב.1\">כּוּלְבָא</span>.)"
+              ],
+              "he": [],
+              "ref": "Jastrow, כּוּלְּכָא 1",
+              "sourceHeRef": "מילון יסטרוב, כּוּלְּכָא א׳",
+              "sourceRef": "Jastrow, כּוּלְּכָא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">מְפָרֵשׁ</strong> m. (see <span class=\"refLink\" data-ref=\"Jastrow, פָּרַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_פָּרַשׁ.1\">פָּרַשׁ</span>) <i>one who undertakes a voyage.</i> <span class=\"refLink\" data-ref=\"Mishnah Gittin 6:5\" href=\"/Mishnah_Gittin.6.5\">Gittin VI, 5</span> <span dir=\"rtl\">המ׳ והיוצא וכ׳</span> one who starts for a sea voyage or a caravan journey.—plural <span dir=\"rtl\">מְפָרְשִׁים</span>.—<span dir=\"rtl\">מְפָרְשֵׁי הים</span>, <span dir=\"rtl\">מ׳ ימים</span> <i>sea-farers</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Shabbat 2:1:4\" href=\"Jerusalem_Talmud_Shabbat.2.1.4\">Yerushalmi Shabbat II, beginning 4ᶜ</span>, and e. <span dir=\"rtl\">חיזרתי על כל מ׳ ימים</span> I went around inquiring of all sea-faring people; (Bavli <span class=\"refLink\" data-ref=\"Shabbat 20b:8\" href=\"/Shabbat.20b.8\">ib. 20ᵇ</span> <span dir=\"rtl\">נחותי ימא</span>).—[In later Hebr. <span class=\"refLink\" data-ref=\"Jastrow, מ׳ 1\" dir=\"rtl\" href=\"/Jastrow,_מ׳.1\">מ׳</span> <i>commentator</i>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, מְפָרֵשׁ 1",
+              "sourceHeRef": "מילון יסטרוב, מְפָרֵשׁ א׳",
+              "sourceRef": "Jastrow, מְפָרֵשׁ 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">נָחוֹתָא</strong>, <strong dir=\"rtl\">נָחוֹתָה</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, נְחַת 1\" dir=\"rtl\" href=\"/Jastrow,_נְחַת.1\">נְחַת</span>) <i>one going</i> or <i>coming down</i>, especially one coming from Palestine to Babylonia. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Shekalim 8:1:3\" href=\"Jerusalem_Talmud_Shekalim.8.1.3\">Yerushalmi Shekalim VIII, 51ᵃ</span>, and e. <span dir=\"rtl\">אבדומא נ׳</span> (not <span class=\"refLink\" data-ref=\"Jastrow, אֲבוּדְמָא 1\" dir=\"rtl\" href=\"/Jastrow,_אֲבוּדְמָא.1\">אבודמא</span>) A. who had been in Babylonia. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Kilayim 9:3:15\" href=\"Jerusalem_Talmud_Kilayim.9.3.15\">Yerushalmi Kilayim IX, 32ᶜ</span> bottom of page <span dir=\"rtl\">עולא נ׳ הוה</span> Ulla had gone to Babylonia; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Ketubot 12:3:15\" href=\"Jerusalem_Talmud_Ketubot.12.3.15\">Yerushalmi Ketubot XII, 35ᵇ</span> bottom of page (not <span class=\"refLink\" data-ref=\"Jastrow, עֲלַל II 1\" dir=\"rtl\" href=\"/Jastrow,_עֲלַל II.1\">עללא</span>).—plural constr. <span dir=\"rtl\">נָחוֹתֵי</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 115:17\" href=\"/Aramaic_Targum_to_Psalms.115.17\">Targum Psalms CXV, 17</span> ed. Lag. (ed. <span dir=\"rtl\">נָחֲתֵי</span>); and from—נ׳ ימא <i>sea-farers</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 107:23\" href=\"/Aramaic_Targum_to_Psalms.107.23\">Ib. CVII, 23</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 42:10\" href=\"/Targum_Jonathan_on_Isaiah.42.10\">Targum Isaiah XLII, 10</span> <span dir=\"rtl\">נַחֲתֵי</span>.—<span class=\"refLink\" data-ref=\"Shabbat 20b:8\" href=\"/Shabbat.20b.8\">Shabbat 20ᵇ</span>; <span class=\"refLink\" data-ref=\"Shabbat 90a:5\" href=\"/Shabbat.90a.5\">90ᵃ</span> <span dir=\"rtl\">שאילתינהו לכל נ׳ י׳</span>, I inquired of all sea-farers. <span class=\"refLink\" data-ref=\"Bava Metzia 85a:4\" href=\"/Bava_Metzia.85a.4\">Bava Metzia 85ᵃ</span> (not <span class=\"refLink\" data-ref=\"Jastrow, נחיתי 1\" dir=\"rtl\" href=\"/Jastrow,_נחיתי.1\">נחיתי</span>); and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, נָחוֹתָא 1",
+              "sourceHeRef": "מילון יסטרוב, נָחוֹתָא א׳",
+              "sourceRef": "Jastrow, נָחוֹתָא 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גושקרא</strong> - פסולת של משי העשוי ככובעים והוא בית התולעת וקורין לו פולויי\"ל ונופצים אותו וטווהו ועושה ממנו בגד ואסור לעשות ממנו פתילה כדאמר בכל פסולי פתילות דמתניתין שהאור מסכסכת בהן קופצת ונפסקת ואין השלהבת עומדת במקומה:",
+              "ref": "Rashi on Shabbat 20b:8:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ח:א",
+              "sourceRef": "Rashi on Shabbat 20b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גושקרא</strong> - על שם פסולת וגם פת סובין כמו כן נקראת במסכת גיטין <span class=\"parenthesized\">(דף נו:)</span>:",
+              "ref": "Rashi on Shabbat 20b:8:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ח:ב",
+              "sourceRef": "Rashi on Shabbat 20b:8:2"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>גשקר</big></b> [זיידען צייג קלייען] <span class=\"parenthesized\">(שבת כ)</span> יצחק בר זעורי אמר גשקרא פי' הבינוני היוצא מן המשי ולא מן המובחר. <span class=\"parenthesized\">(גיטין נו)</span> חיוריתא ליכא גושקרא איכא פי' הבינוני שמוציאין מן הקמח ובלשון ערבי כושקר:",
+              "ref": "Sefer HeArukh, Letter Gimel 407",
+              "sourceHeRef": "ספר הערוך, אות הגימ\"ל ת״ז",
+              "sourceRef": "Sefer HeArukh, Letter Gimel 407"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "עוד שנינו במשנה כי <b>לא</b> מדליקים <b>בכלך. אמר שמואל: שאלתינהו</b> <span class=\"hebrew-emphasis\">[שאלתי אותם]</span> את <b>כל נחותי ימא</b> <span class=\"hebrew-emphasis\">[יורדי הים]</span> <b>ואמרי</b> <span class=\"hebrew-emphasis\">[ואמרו]</span> <b>לי</b> שכלך האמור במשנה <b>כולכא שמיה</b> <span class=\"hebrew-emphasis\">[שמו]</span> היום. <b>רב יצחק בר זעירא אמר:</b> כלך הוא <b>גושקרא</b> <span class=\"hebrew-emphasis\">[פקעת של תולעת משי].</span>",
+              "ref": "Steinsaltz on Shabbat 20b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:ח",
+              "sourceRef": "Steinsaltz on Shabbat 20b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The source of this word appears to be from the Persian",
+              "he": "מקור המלה הוא כנראה בפרסית <eng>xuskar</eng> שמשמעה: קמח גס, מלא סובין. מן המשמעות הזו כנראה הושאלה המלה גם לציון אריג משי גז מטיב ירוד.",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:8",
+              "sourceHeRef": "גּוּשְׁקְרָא",
+              "sourceRef": "The cocoon of the silkworm [<i>gushkera</i>]"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> we also learned in the mishna that <b>one may not</b> light <b>with <i>kalakh</i>. <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> said: I asked all seafarers, and they said to me</b> that the present-day <b>name</b> of <i>kalakh</i> mentioned in the mishna <b>is <i>kulka</i>. Rav Yitzḥak bar Ze’ira said:</b> <i>Kalakh</i> is <b>the cocoon of the silkworm [<i>gushkera</i>].</b>",
+      "he": "וְלֹא בְּכָלָךְ. אָמַר <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">שְׁמוּאֵל</span>: שְׁאֵלְתִּינְהוּ לְכׇל נָחוֹתֵי יַמָּא וְאָמְרִי (לַהּ) כּוּלְכָא שְׁמֵיהּ. רַב יִצְחָק בַּר זְעֵירָא אָמַר: גּוּשְׁקְרָא.",
+      "ref": "Shabbat 20b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">כַּלָּךְ</strong> m. (see <span class=\"refLink\" data-ref=\"Jastrow, כּוּלְּכָא 1\" dir=\"rtl\" href=\"/Jastrow,_כּוּלְּכָא.1\">כּוּלְכָא</span>) <i>cissaros-blossoms</i>, a woolly substance, see <span class=\"refLink\" data-ref=\"Jastrow, *אַגְבִּין 1\" dir=\"rtl\" href=\"/Jastrow,_*אַגְבִּין.1\">אַגְבִּין</span>. <span class=\"refLink\" data-ref=\"Mishnah Kilayim 9:2\" href=\"/Mishnah_Kilayim.9.2\">Kilayim IX, 2</span>, explained Yerushalmi ib. 32ᵃ top <span dir=\"rtl\">אגבין קיסריי</span>. <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:1\" href=\"/Mishnah_Shabbat.2.1\">Shabbat II, 1</span>. <span class=\"refLink\" data-ref=\"Shabbat 20b:9\" href=\"/Shabbat.20b.9\">Ib. 20ᵇ</span> <span dir=\"rtl\">היינו כ׳</span> this (metaxa) is <i>kallakh</i>. Ib.; <span class=\"refLink\" data-ref=\"Menachot 39b\" href=\"/Menachot.39b\">Menachot 39ᵇ</span> <span dir=\"rtl\">השיראים והכ׳ וכ׳</span> (garments of) silk, <i>K</i>. &c. (see <span class=\"refLink\" data-ref=\"Jastrow, סְרִיקִין 1\" dir=\"rtl\" href=\"/Jastrow,_סְרִיקִין.1\">סְרִיקִין</span>). <span class=\"refLink\" data-ref=\"Shabbat 27a\" href=\"/Shabbat.27a\">Shabbat 27ᵃ</span>. <span class=\"refLink\" data-ref=\"Tosefta Shabbat 9\" href=\"/Tosefta_Shabbat.9\">Tosefta ib. IX</span> (<span class=\"refLink\" data-ref=\"Tosefta Shabbat 10:3\" href=\"/Tosefta_Shabbat.10.3\">X), 3</span> צמר כ׳ <i>Kallakh</i> wool. <span class=\"refLink\" data-ref=\"Tosefta Keilim Batra 5:11\" href=\"/Tosefta_Keilim_Batra.5.11\">Tosefta Kelim Bava Batra V, 11</span> <span class=\"refLink\" data-ref=\"Jastrow, כּוּלָּךְ 1\" dir=\"rtl\" href=\"/Jastrow,_כּוּלָּךְ.1\">כולך</span> ed. Zuckermandel (see Tosefefta) (Rabbenu Shimshon to <span class=\"refLink\" data-ref=\"Mishnah Kelim 28:8\" href=\"/Mishnah_Kelim.28.8\">Kelim XXVIII, 8</span> <span dir=\"rtl\">כלך</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, כַּלָּךְ 1",
+              "sourceHeRef": "מילון יסטרוב, כַּלָּךְ א׳",
+              "sourceRef": "Jastrow, כַּלָּךְ 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">מְטַכְסָא</strong>, (<strong dir=\"rtl\">מִיטַ׳</strong>, <strong dir=\"rtl\">מְטַקְ׳</strong>, <strong dir=\"rtl\">… סָה</strong>) m. (μέταξα) <i>silk</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Kilayim 9:1:8\" href=\"Jerusalem_Talmud_Kilayim.9.1.8\">Yerushalmi Kilayim IX, 32ᵃ</span> top <span dir=\"rtl\">השיריין מ׳</span> <i>shirayin</i> (Mishnah <span class=\"refLink\" data-ref=\"Mishnah Kilayim 9:2\" href=\"/Mishnah_Kilayim.9.2\">ib. IX, 2</span>) is silk. <span class=\"refLink\" data-ref=\"Shabbat 20b:9\" href=\"/Shabbat.20b.9\">Shabbat 20ᵇ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כַּלָּךְ 1\" dir=\"rtl\" href=\"/Jastrow,_כַּלָּךְ.1\">כַּלָּךְ</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Bava Metzia 4:2:3\" href=\"Jerusalem_Talmud_Bava_Metzia.4.2.3\">Yerushalmi Bava Metzia IV, 9ᶜ</span> bottom of page <span dir=\"rtl\">יהב דינרין למ׳</span> gave an earnest money on silk. <span class=\"refLink\" data-ref=\"Vayikra Rabbah 34:12\" href=\"/Vayikra_Rabbah.34.12\">Vayikra Rabbah section (Parashah) 34</span> information was brought against them <span dir=\"rtl\">כד … בהדין מ׳</span> that they dealt in silks (see Smith, Dictionary of Greek and Roman Antiquities, Third American Edition, New-York 1858 section (Parashah) see Sericum). <span class=\"refLink\" data-ref=\"Bava Kamma 117b:4\" href=\"/Bava_Kamma.117b.4\">Bava Kamma 117ᵇ</span> <span dir=\"rtl\">ההיא דאחוי אמ׳ וכ׳</span> one informed (the royal officers) of the silk goods of R. A.; and from—plural <span dir=\"rtl\">מְטַכְסִין</span>, <span class=\"refLink\" data-ref=\"Jastrow, מְטַכְסָא 1\" dir=\"rtl\" href=\"/Jastrow,_מְטַכְסָא.1\">מִיטַ׳</span>, <span dir=\"rtl\">מְטַכְסֵי</span>, <span class=\"refLink\" data-ref=\"Jastrow, מְטַכְסָא 1\" dir=\"rtl\" href=\"/Jastrow,_מְטַכְסָא.1\">מְטַק׳</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Esther 1:6\" href=\"/Aramaic_Targum_to_Esther.1.6\">Targum Esther I, 6</span> (h. text <span class=\"refLink\" data-ref=\"Jastrow, בּוּץ 1\" dir=\"rtl\" href=\"/Jastrow,_בּוּץ.1\">בּוּץ</span>).—<span class=\"refLink\" data-ref=\"Bereishit Rabbah 40:1\" href=\"/Bereishit_Rabbah.40.1\">Breishit Rabbah section (Parashah) 40</span> דמ׳ אנא יהיב I am willing to pay the duty on silk goods. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Bava Kamma 6:7:2\" href=\"Jerusalem_Talmud_Bava_Kamma.6.7.2\">Yerushalmi Bava Kamma VI, end, 5ᶜ</span> <span dir=\"rtl\">מ׳ הוה מלא</span> it (the bag) contained silk goods. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 77:2\" href=\"/Bereishit_Rabbah.77.2\">Breishit Rabbah section (Parashah) 77</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מחיילא 1\" dir=\"rtl\" href=\"/Jastrow,_מחיילא.1\">מחיילא</span>; <span class=\"refLink\" data-ref=\"Shir HaShirim Rabbah 3:6:2\" href=\"/Shir_HaShirim_Rabbah.3.6.2\">Shir HaShirim Rabbah to III, 6</span>; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, מְטַכְסָא 1",
+              "sourceHeRef": "מילון יסטרוב, מְטַכְסָא א׳",
+              "sourceRef": "Jastrow, מְטַכְסָא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">פְּרַנְדָּא</strong> f. (see <span class=\"refLink\" data-ref=\"Jastrow, פְּרַנְגַּן 1\" href=\"/Jastrow,_פְּרַנְגַּן.1\">preceding</span>) (<span class=\"refLink\" data-ref=\"Jastrow, שִׁיר 1\" dir=\"rtl\" href=\"/Jastrow,_שִׁיר.1\">שירא</span>) <span dir=\"rtl\">שירה פ׳</span> <i>p’randa silk</i>. <span class=\"refLink\" data-ref=\"Sotah 48b:15\" href=\"/Sotah.48b.15\">Sotah 48ᵇ</span> <span dir=\"rtl\">משחרב … בטלה ש׳ פ׳ וכ׳</span> when the first Temple was destroyed, the use of <i>p.</i> silk and of white glass was suspended. <span class=\"refLink\" data-ref=\"Shabbat 20b:10\" href=\"/Shabbat.20b.10\">Shabbat 20ᵇ</span> <span dir=\"rtl\">שירא … וש׳ פ׳ לחוד</span> silk is different from <i>p’randa</i> silk. [Sachs, Beiträge zur Sprach- und Alterthumsforschung, by Michael Sachs, Berlin 1852—54, 2 vols, see Berliner (editor of Targum Onkelos) a. Hildesh II, p. 185 refers to late Greek πράνδιοι (πράνδιον fillet, Sophocles, Greek Lexicon of the Roman and Byzantine Periods, Boston 1870), from which he derives French <i>frange</i>, Engl. <i>fringe</i>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, פְּרַנְדָּא 1",
+              "sourceHeRef": "מילון יסטרוב, פְּרַנְדָּא א׳",
+              "sourceRef": "Jastrow, פְּרַנְדָּא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">שִׁירָא</strong>, <strong dir=\"rtl\">שִׁירָה I</strong> f. h. <span class=\"refLink\" data-ref=\"Jastrow, שִׁירָא 1\" href=\"/Jastrow,_שִׁירָא.1\">same</span>. <span class=\"refLink\" data-ref=\"Sotah 48b:15\" href=\"/Sotah.48b.15\">Sotah 48ᵇ</span>; <span class=\"refLink\" data-ref=\"Shabbat 20b:10\" href=\"/Shabbat.20b.10\">Shabbat 20ᵇ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, פְּרַנְדָּא 1\" dir=\"rtl\" href=\"/Jastrow,_פְּרַנְדָּא.1\">פְּרַנְדָּא</span>.—plural <span dir=\"rtl\">שִׁירָאִים</span>, <span dir=\"rtl\">שִׁירָאִין</span>, <span class=\"refLink\" data-ref=\"Jastrow, שִׁירַיִים 1\" dir=\"rtl\" href=\"/Jastrow,_שִׁירַיִים.1\">שִׁירָיִים</span>. Ib.; <span class=\"refLink\" data-ref=\"Menachot 39b:8\" href=\"/Menachot.39b.8\">Menachot 39ᵇ</span> (contradistinguished to <span class=\"refLink\" data-ref=\"Jastrow, סִירִיקוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_סִירִיקוֹן.1\">סיריקון</span>, and to <span dir=\"rtl\">כלך</span>); Sifra Thazr., Parah 5, Chaldaic XIII. <span class=\"refLink\" data-ref=\"Tosefta Keilim Batra 5:11\" href=\"/Tosefta_Keilim_Batra.5.11\">Tosefta Kelim Bava Batra V, 11</span> <span dir=\"rtl\">השירין</span> (Variant <span dir=\"rtl\">השירשין</span>, correct accordingly, Rabbenu Shimshon to <span class=\"refLink\" data-ref=\"Mishnah Kelim 28:8\" href=\"/Mishnah_Kelim.28.8\">Kelim XXVIII, 8</span> <span class=\"refLink\" data-ref=\"Jastrow, שִׁירַיִים 1\" dir=\"rtl\" href=\"/Jastrow,_שִׁירַיִים.1\">שיריים</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, שִׁירָא ² 1",
+              "sourceHeRef": "מילון יסטרוב, שִׁירָא ² א׳",
+              "sourceRef": "Jastrow, שִׁירָא ² 1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אנן שירא פרנדא קרינא ליה.</b> והא דאמרינן בסוטה בסופו <span class=\"parenthesized\">(מח, ב)</span>, משחרב בית המקדש בטל שירא פרנדא, לא בטל לגמרי קאמר, אלא שנתמעט ואינו מצוי כבתחילה, וכדאמרינן נמי התם, משחרב בית המקדש בטל זכוכית לבנה, ולא נתבטל לגמרי, כדאיתא בברכות פרק אין עומדין <span class=\"parenthesized\">(ברכות לא, א)</span> תבר קמייהו כסא דזכוכית לבנה, ואמרינן בשלהי אלו מציאות <span class=\"parenthesized\">(ב\"מ כט, ב)</span> מי שיש לו מעות של רבית ורוצה לאבדן ישתמש בזכוכית לבנה.",
+              "ref": "Rashba on Shabbat 20b:5",
+              "sourceHeRef": "רשב״א על שבת כ׳ ב:ה",
+              "sourceRef": "Rashba on Shabbat 20b:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מטכסא</strong> - לבוש העשוי מאותו כלך:",
+              "ref": "Rashi on Shabbat 20b:9:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:ט:א",
+              "sourceRef": "Rashi on Shabbat 20b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומסופר כי <b>רבין ואביי הוו יתבי קמיה</b> <span class=\"hebrew-emphasis\">[היו יושבים לפני]</span> <b>רבנא נחמיה אחוה דריש גלותא</b> <span class=\"hebrew-emphasis\">[אחיו של ראש הגולה].</span> <b>חזייה דהוה לביש מטכסא</b> <span class=\"hebrew-emphasis\">[ראה אותו</span> רבין את ר' נחמיה <span class=\"hebrew-emphasis\">שהוא לבוש סוג משי].</span> <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רבין לאביי: היינו</b> <span class=\"hebrew-emphasis\">[זהו]</span> ה<b>כלך דתנן</b> <span class=\"hebrew-emphasis\">[ששנינו</span> במשנתנו<span class=\"hebrew-emphasis\">].</span> <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> אביי: <b>אנן</b> <span class=\"hebrew-emphasis\">[אנחנו]</span> <b>\"שירא פרנדא\" קרינן ליה</b> <span class=\"hebrew-emphasis\">[קוראים אנו לו].</span>",
+              "ref": "Steinsaltz on Shabbat 20b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:ט",
+              "sourceRef": "Steinsaltz on Shabbat 20b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This is a Greek word <greek>μέταξα</greek>, <i>metaxa</i>, meaning silk, especially raw silk.",
+              "he": "מקורה של המלה הוא בפרסית <eng>parand</eng> שמשמעה — משי.",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:9",
+              "sourceHeRef": "מְטַכְּסָא",
+              "sourceRef": "<i>Metaksa</i>"
+            },
+            {
+              "en": "The words <i>shira’in</i> and <i>shira</i> are Aramaic. Apparently, their source is Chinese by way of the Greek <greek>σιρικόν,</greek>\n\t\t\t<i>sirikon</i>.",
+              "he": "מקורה של מלה זו הוא ביוונית <eng>óçñéï€í</eng>, שמשמעה — בגד משי, משי.",
+              "ref": "Steinsaltz comment #2 on Shabbat 20b:9",
+              "sourceHeRef": "שִׁירָא",
+              "sourceRef": "<i>Shira</i>"
+            },
+            {
+              "en": "From the Middle Persian <i> </i>which means silk.",
+              "he": "היא המלה היוונית <eng>ìå€ôáîá</eng>, שמשמעה — משי, בפרט משי גולמי.",
+              "ref": "Steinsaltz comment #3 on Shabbat 20b:9",
+              "sourceHeRef": "פְּרַנְדָא",
+              "sourceRef": "<i>Peranda</i>"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' ד\"ה אנן שירא כו' שלא היה נמצא כל כך.</b> עיין בר\"ש פ\"ט מ\"ב דכלאים:",
+                      "ref": "Gilyon HaShas on Shabbat 20b:2",
+                      "sourceHeRef": "גליון הש\"ס על שבת כ׳ ב:ב",
+                      "sourceRef": "Gilyon HaShas on Shabbat 20b:2"
+                    }
+                  ]
+                },
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> אנן שירא כו' אבל מטכסא לאו היינו שירא פרנדא דלא הוה אחר החורבן כו' עכ\"ל ולפ\"ז לא גרסינן בגמ' תיובתא דרבין דלדידיה מטכסא דהיינו כלך לאו שירא פרנדא הוא דלא הוה לאחר החורבן אלא דהקושיא הוא לאביי דאמר דכלך דמתני' היינו שירא פרנדא וכן מחקו מהרש\"ל גם הגיה תירוץ ב' ואיבעית אימא פירושי קמפרש כו' ורצה לומר דכלך הוא פירוש דשיריים אילו לא מצא כן בספרים ישנים היה לבעל דין לחלוק דלא שייך בזה פרושי קמפרש כיון דשירא הוה ידיע להו וכלך לא הוה ידיע להו כדמוכח בשמעתין ואם דחקו לישנא דאיבעית אימא בתר תיובתא הרי מצינו סוגיא כזו בפרק הניזקין דאמרי' תיובתא ובתר הכי אמר כתנאי ועיין בתוס' פ' הפרה וק\"ל:",
+                      "ref": "Chidushei Halachot on Shabbat 20b:1",
+                      "sourceHeRef": "חידושי הלכות על שבת כ׳ ב:א",
+                      "sourceRef": "Chidushei Halachot on Shabbat 20b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אנן שירא פרנדא קרינן ליה</strong> - פר\"ת דכלך דמתניתין קרינן שירא פרנדא אבל מטכסא לאו היינו שירא פרנדא דלא הוה אחר חורבן כדאמר בפ' בתרא דסוטה <span class=\"parenthesized\">(דף מו:)</span> משחרב בית המקדש בטל שמיר וזכוכית לבנה ושירא פרנדא ור\"י מפרש דקאי נמי אמטכסא והא דקאמר התם בטל לא לגמרי בטל אלא שלא היה נמצא כ\"כ דהא זכוכי' לבנה היתה אחר חורבן דאמרי' בפ' אין עומדין <span class=\"parenthesized\">(ברכות דף לא.)</span> תבר קמייהו זכוכית חיורתא בחופת בנו:",
+              "ref": "Tosafot on Shabbat 20b:9:1",
+              "sourceHeRef": "תוספות על שבת כ׳ ב:ט:א",
+              "sourceRef": "Tosafot on Shabbat 20b:9:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates that <b><span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">Ravin</span> and <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> were sitting before Rabbana Neḥemya, brother of the Exilarch.</b> <span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">Ravin</span> <b>saw that</b> Rabbana Neḥemya <b>was wearing <i>metaksa</i>,</b> a type of silk. <b><span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">Ravin</span> said to <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span>: This is</b> the <b><i>kalakh</i> that we learned</b> in our mishna. <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> <b>said to him: We call it <i>shira peranda</i>.</b>",
+      "he": "<span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">רָבִין</span> <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">וְאַבָּיֵי</span> הֲווֹ יָתְבִי קַמֵּיהּ דְּרַבָּנָא נְחֶמְיָה אֲחוּהּ דְּרֵישׁ גָּלוּתָא. חַזְיֵיהּ דַּהֲוָה לְבִישׁ מְטַכְסָא. אֲמַר לֵיהּ <span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">רָבִין</span> <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">לְאַבָּיֵי</span>: הַיְינוּ כָּלָךְ דִּתְנַן. אֲמַר לֵיהּ: אֲנַן ״שִׁירָא פְּרַנְדָּא״ קָרֵינַן לֵיהּ.",
+      "ref": "Shabbat 20b:9"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי השיראים והכלך.</b> ק\"ל אמאי פריך מהברייתא ולא פריך ממתניתין פ\"ט מ\"ב דכלאים:",
+              "ref": "Gilyon HaShas on Shabbat 20b:1",
+              "sourceHeRef": "גליון הש\"ס על שבת כ׳ ב:א",
+              "sourceRef": "Gilyon HaShas on Shabbat 20b:1"
+            }
+          ]
+        },
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">פְּרַנְדָּא</strong> f. (see <span class=\"refLink\" data-ref=\"Jastrow, פְּרַנְגַּן 1\" href=\"/Jastrow,_פְּרַנְגַּן.1\">preceding</span>) (<span class=\"refLink\" data-ref=\"Jastrow, שִׁיר 1\" dir=\"rtl\" href=\"/Jastrow,_שִׁיר.1\">שירא</span>) <span dir=\"rtl\">שירה פ׳</span> <i>p’randa silk</i>. <span class=\"refLink\" data-ref=\"Sotah 48b:15\" href=\"/Sotah.48b.15\">Sotah 48ᵇ</span> <span dir=\"rtl\">משחרב … בטלה ש׳ פ׳ וכ׳</span> when the first Temple was destroyed, the use of <i>p.</i> silk and of white glass was suspended. <span class=\"refLink\" data-ref=\"Shabbat 20b:10\" href=\"/Shabbat.20b.10\">Shabbat 20ᵇ</span> <span dir=\"rtl\">שירא … וש׳ פ׳ לחוד</span> silk is different from <i>p’randa</i> silk. [Sachs, Beiträge zur Sprach- und Alterthumsforschung, by Michael Sachs, Berlin 1852—54, 2 vols, see Berliner (editor of Targum Onkelos) a. Hildesh II, p. 185 refers to late Greek πράνδιοι (πράνδιον fillet, Sophocles, Greek Lexicon of the Roman and Byzantine Periods, Boston 1870), from which he derives French <i>frange</i>, Engl. <i>fringe</i>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, פְּרַנְדָּא 1",
+              "sourceHeRef": "מילון יסטרוב, פְּרַנְדָּא א׳",
+              "sourceRef": "Jastrow, פְּרַנְדָּא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">שִׁירָא</strong>, <strong dir=\"rtl\">שִׁירָה I</strong> f. h. <span class=\"refLink\" data-ref=\"Jastrow, שִׁירָא 1\" href=\"/Jastrow,_שִׁירָא.1\">same</span>. <span class=\"refLink\" data-ref=\"Sotah 48b:15\" href=\"/Sotah.48b.15\">Sotah 48ᵇ</span>; <span class=\"refLink\" data-ref=\"Shabbat 20b:10\" href=\"/Shabbat.20b.10\">Shabbat 20ᵇ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, פְּרַנְדָּא 1\" dir=\"rtl\" href=\"/Jastrow,_פְּרַנְדָּא.1\">פְּרַנְדָּא</span>.—plural <span dir=\"rtl\">שִׁירָאִים</span>, <span dir=\"rtl\">שִׁירָאִין</span>, <span class=\"refLink\" data-ref=\"Jastrow, שִׁירַיִים 1\" dir=\"rtl\" href=\"/Jastrow,_שִׁירַיִים.1\">שִׁירָיִים</span>. Ib.; <span class=\"refLink\" data-ref=\"Menachot 39b:8\" href=\"/Menachot.39b.8\">Menachot 39ᵇ</span> (contradistinguished to <span class=\"refLink\" data-ref=\"Jastrow, סִירִיקוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_סִירִיקוֹן.1\">סיריקון</span>, and to <span dir=\"rtl\">כלך</span>); Sifra Thazr., Parah 5, Chaldaic XIII. <span class=\"refLink\" data-ref=\"Tosefta Keilim Batra 5:11\" href=\"/Tosefta_Keilim_Batra.5.11\">Tosefta Kelim Bava Batra V, 11</span> <span dir=\"rtl\">השירין</span> (Variant <span dir=\"rtl\">השירשין</span>, correct accordingly, Rabbenu Shimshon to <span class=\"refLink\" data-ref=\"Mishnah Kelim 28:8\" href=\"/Mishnah_Kelim.28.8\">Kelim XXVIII, 8</span> <span class=\"refLink\" data-ref=\"Jastrow, שִׁירַיִים 1\" dir=\"rtl\" href=\"/Jastrow,_שִׁירַיִים.1\">שיריים</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, שִׁירָא ² 1",
+              "sourceHeRef": "מילון יסטרוב, שִׁירָא ² א׳",
+              "sourceRef": "Jastrow, שִׁירָא ² 1"
+            }
+          ]
+        },
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בגמרא</b> מיתיבי השירים והכלך וכו' תיובתא דרבין תיובתא לפי גירסא זו צריך לפרש דמטכסא היינו עיקר המשי ועליו אמר רבין שהוא כלך דמתני' וא\"ל אביי דזה אינו שהרי מטכסא שהוא עיקר המשי אנן שירא פרנדא קרינן ליה ולא כלך וא\"כ רבין סבירא ליה דשירים ושירי פרנדא שהוא עיקר המשי וכלך הכל אחד וע\"ז מותיב מיתיבי השירים והכלך וכו' דש\"מ דשירים לאו היינו כלך תיובתא דרבין אבל לאביי לא קשה מידי דלדידיה מטכסא דהוא שירא פרנדא הוא עיקר המשי דהוא השירים דקתני גבי ציצית וכלך דמתני' הוא משי אחר גרוע ממנו ואפשר שהוא הפסולת של המשי אבל לפי פירוש דתוספות שפירשו דהא דקאמר אביי אנן שירא פרנדא קרינן ליה קאי אכלך דמתני' אבל מטכסא לאביי לאו היינו כלך דכלך הוא שירא פרנדא שהוא חשוב ואינו נמצא אחר החורבן ומטכסא הוא מין אחר גרוע ממנו אבל רבין ס\"ל דכלך דמתניתין הוא מטכסא שהוא הגרוע ושירים הוא ענין חשוב ממנו והשתא לפי זה המיתיבי דמותיב ממתני' דהכלך והשירים לא שייך למותיב לרבין דהא לדידיה לא קשה מידי אלא לאביי הוי תיובתא וא\"כ ליכא לגרוס בגמרא תיובתא דרבין אלא ה\"ג מיתיבי השירים והכלך וכו' חייבים בציצית תיובתא וקאי התיובתא לאביי ולא לרבין ודו\"ק:",
+              "ref": "Maharam on Shabbat 20b:2",
+              "sourceHeRef": "מהר\"ם על שבת כ׳ ב:ב",
+              "sourceRef": "Maharam on Shabbat 20b:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שיראים</strong> - מעיל העשוי מעיקר המשי:",
+              "ref": "Rashi on Shabbat 20b:10:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:י:א",
+              "sourceRef": "Rashi on Shabbat 20b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סיריקין</strong> - עשוי מן המשי הרך המתפצל ומצוי במשי וקורין לו במקומנו יד\"ש:",
+              "ref": "Rashi on Shabbat 20b:10:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:י:ב",
+              "sourceRef": "Rashi on Shabbat 20b:10:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חייבין בציצית</strong> - ודלא כמאן דאמר כל בגדי צמר ופשתים דוקא חייבין בציצית מדאורייתא אי נמי מדרבנן קתני מיהא השיראים והכלך אלמא שיראין לאו היינו כלך:",
+              "ref": "Rashi on Shabbat 20b:10:3",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:י:ג",
+              "sourceRef": "Rashi on Shabbat 20b:10:3"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>פרן</big></b> [אוים שטייערן] <span class=\"parenthesized\">(בב\"ר פ' סא)</span> ויברכו את רבקה אמר רבי אייבו דוויין ושיפויין היו ולא היו מפריעין אלא בפה פי' מפייסין בפה ולא בלב <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב פי' בל\"י בעל המחזק בדברים ועוזר בפה את חבירו כלומר שהיו צרי עין ונתנו ברכות לרבקה תחת הנדוניא)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Peh 521",
+              "sourceHeRef": "ספר הערוך, אות הפ\"א תקכ״א",
+              "sourceRef": "Sefer HeArukh, Letter Peh 521"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי</b> <span class=\"hebrew-emphasis\">[מקשים על כך]</span> ממה ששנינו: <b>השיראים והכלך והסיריקין</b> (סוג משי) <b>חייבין</b> כולם <b>בציצית,</b> והרי שהשיראים והכלך הם מינים שונים, ואם כן הרי זו <b>תיובתא</b> <span class=\"hebrew-emphasis\">[קושיה חמורה]</span> על <b>רבין</b> שקרא כלך לשירא פרנדא! ומעירים: אכן, <b>תיובתא</b> <span class=\"hebrew-emphasis\">[קושיה חמורה]</span> היא. <b>איבעית אימא</b> <span class=\"hebrew-emphasis\">[אם תרצה אמור],</span> ותתרץ כי <b>שירא לחוד, ושירא פרנדא לחוד.</b> ושירא פרנדא הוא המין הזהה לכלך.",
+              "ref": "Steinsaltz on Shabbat 20b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:י",
+              "sourceRef": "Steinsaltz on Shabbat 20b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "From the Greek <greek>σιρικόν,</greek>\n\t\t\t<i>sirikon</i>, meaning a silk garment or silk.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:10",
+              "sourceHeRef": "סִירִיקִין",
+              "sourceRef": "<i>Sirikin</i>"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara <b>raises an objection</b> from that which we learned: <b>The <i>shira</i>’<i>im</i>, the <i>kalakh,</i> and the <i>sirikin</i>,</b> different types of silk, all <b>require ritual fringes.</b> Apparently, <i>shira</i>’<i>im</i> and <i>kalakh</i> are different types of silk. This is <b>a conclusive refutation</b> of the statement of <b><span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">Ravin</span></b> who identified <i>kalakh</i> with <i>shira peranda</i>. The Gemara responds: Indeed, it is <b>a conclusive refutation. If you wish, say</b> instead that <b><i>shira</i></b> is a <b>distinct</b> entity, <b>and <i>shira peranda</i> is</b> a <b>distinct</b> entity. <i>Shira peranda</i> is <i>kalakh</i>.",
+      "he": "מֵיתִיבִי: הַשִּׁירָאִים וְהַכָּלָךְ וְהַסְּרִיקִין חַיָּיבִין בְּצִיצִית, תְּיוּבְתָּא <span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">דְרָבִין</span>! תְּיוּבְתָּא. אִיבָּעֵית אֵימָא: שִׁירָא לְחוּד, וְשִׁירָא פְּרַנְדָּא לְחוּד.",
+      "ref": "Shabbat 20b:10"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">אֲרַבְתָּא</strong>, <strong dir=\"rtl\">אַרְבָּא</strong> f. (<span dir=\"rtl\">ארב</span>, h. , Biblical Hebrew <span class=\"refLink\" data-ref=\"Jastrow, עֲרָבִי 1\" dir=\"rtl\" href=\"/Jastrow,_עֲרָבִי.1\">עֲרָבִים</span> plural) [<i>the thickly interwoven</i>,] <i>willow</i>. <span class=\"refLink\" data-ref=\"Pesachim 111b:2\" href=\"/Pesachim.111b.2\">Pesachim 111ᵇ</span> טולא דא׳ Manuscript Munich, Arukh (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l.; ed. <span class=\"refLink\" data-ref=\"Jastrow, עָמִירָא 1\" dir=\"rtl\" href=\"/Jastrow,_עָמִירָא.1\">עֲ׳</span>) the shade of a willow-tree.—plural <span class=\"refLink\" data-ref=\"Jastrow, אֲרַבְתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_אֲרַבְתָּא.1\">אַרְבָּתָא</span>. <span class=\"refLink\" data-ref=\"Shabbat 20b:11\" href=\"/Shabbat.20b.11\">Shabbat 20ᵇ</span> (Arukh <span dir=\"rtl\">אַרְבָּאתָא</span>; Mss. <span class=\"refLink\" data-ref=\"Jastrow, עִזְגַּד 1\" dir=\"rtl\" href=\"/Jastrow,_עִזְגַּד.1\">עַ׳</span>). [<span class=\"refLink\" data-ref=\"Gittin 6a:13\" href=\"/Gittin.6a.13\">Gittin 6ᵃ</span>; <span class=\"refLink\" data-ref=\"Kiddushin 72a:2\" href=\"/Kiddushin.72a.2\">Kiddushin 72ᵃ</span> <span dir=\"rtl\">ארבא וכ׳</span> the second willow after crossing the bridge; see, however, <span class=\"refLink\" data-ref=\"Jastrow, אַרְבָּא I 1\" href=\"/Jastrow,_אַרְבָּא I.1\"><span dir=\"rtl\">אַרְבָּא</span> I</span>.] V. <span class=\"refLink\" data-ref=\"Jastrow, עַרְבָא I 1\" href=\"/Jastrow,_עַרְבָא I.1\"><span dir=\"rtl\">עַרְבָא</span> I</span>, II and <span class=\"refLink\" data-ref=\"Jastrow, עֲרַבְתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_עֲרַבְתָּא.1\">עֲרַבְתָּא</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, אֲרַבְתָּא 1",
+              "sourceHeRef": "מילון יסטרוב, אֲרַבְתָּא א׳",
+              "sourceRef": "Jastrow, אֲרַבְתָּא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">עַמְרָנִיתָא</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, עֲמַר III 1\" dir=\"rtl\" href=\"/Jastrow,_עֲמַר III.1\">עַמְרָא</span>) <i>woolly, tufty substance</i>. <span class=\"refLink\" data-ref=\"Shabbat 20b:11\" href=\"/Shabbat.20b.11\">Shabbat 20ᵇ</span> <span dir=\"rtl\">בע׳ דאית ביה</span> it means the woolly substance in it, see <span class=\"refLink\" data-ref=\"Jastrow, שׂוּכָּא 1\" dir=\"rtl\" href=\"/Jastrow,_שׂוּכָּא.1\">שׂוּכָּא</span>. <span class=\"refLink\" data-ref=\"Shabbat 20b:11\" href=\"/Shabbat.20b.11\">Ib.</span> (explained <span class=\"refLink\" data-ref=\"Jastrow, *אִידָּן 1\" dir=\"rtl\" href=\"/Jastrow,_*אִידָּן.1\">אִידָּן</span>, <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:1\" href=\"/Mishnah_Shabbat.2.1\">ib. II, 1</span>) <span dir=\"rtl\">ע׳ דביני ביני</span> the woolly bast between (the bark and the wood of the willow); see <span class=\"refLink\" data-ref=\"Jastrow, עִירָנִיתָא 1\" dir=\"rtl\" href=\"/Jastrow,_עִירָנִיתָא.1\">עִירָנִיתָא</span>"
+              ],
+              "he": [],
+              "ref": "Jastrow, עַמְרָנִיתָא 1",
+              "sourceHeRef": "מילון יסטרוב, עַמְרָנִיתָא א׳",
+              "sourceRef": "Jastrow, עַמְרָנִיתָא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">שִׁבְרָא</strong> m. (compare <span class=\"refLink\" data-ref=\"Jastrow, שַׁבְרִירֵי 1\" dir=\"rtl\" href=\"/Jastrow,_שַׁבְרִירֵי.1\">שַׁבְרִירַיָּא</span>) <i>mullein</i>, a plant the woolly leaves of which are used for wicks (φλόμος λυχνῖτις or θρυαλλίς; see Löw Löw, Aramäische Pflanzennamen, Leipzig 1881, p. 67). <span class=\"refLink\" data-ref=\"Shabbat 20b:11\" href=\"/Shabbat.20b.11\">Shabbat 20ᵇ</span>, explained <span dir=\"rtl\">פתילת המדבר</span> (ed. Soncino <span class=\"refLink\" data-ref=\"Jastrow, שִׁיבְקָא 1\" dir=\"rtl\" href=\"/Jastrow,_שִׁיבְקָא.1\">שִׁיבְרָא</span>, oth. early ed. <span class=\"refLink\" data-ref=\"Jastrow, שׁוֹבַל 1\" dir=\"rtl\" href=\"/Jastrow,_שׁוֹבַל.1\">שׁוּבְ׳</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, שִׁבְרָא 1",
+              "sourceHeRef": "מילון יסטרוב, שִׁבְרָא א׳",
+              "sourceRef": "Jastrow, שִׁבְרָא 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אחווינא</strong> - ערבה ויש כמין צמר בין קליפה לעץ:",
+              "ref": "Rashi on Shabbat 20b:11:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יא:א",
+              "sourceRef": "Rashi on Shabbat 20b:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בפקתא</strong> - בקעה:",
+              "ref": "Rashi on Shabbat 20b:11:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יא:ב",
+              "sourceRef": "Rashi on Shabbat 20b:11:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עץ בעלמא הוא</strong> - והיכי ליחזי לפתילה:",
+              "ref": "Rashi on Shabbat 20b:11:3",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יא:ג",
+              "sourceRef": "Rashi on Shabbat 20b:11:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שברא</strong> - מין עשב ארוך וקורין אותו אורטי\"א:",
+              "ref": "Rashi on Shabbat 20b:11:4",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יא:ד",
+              "sourceRef": "Rashi on Shabbat 20b:11:4"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>ארב</big></b> [וויידן בוים] אמר רב טולא דארבא טולא דארבאתא <span class=\"parenthesized\">(בפסחים פרק ע\"פ)</span> בגמרא דלא יפחתו לו <span class=\"parenthesized\">(ובגיטין ו)</span> ורב יוסף אמר מחלוקת ליוחסין אבל לגיטין עד ארבא תניינתא דגישרא <span class=\"parenthesized\">(ובקדושין ע\"ב)</span> פ' עשרה יוחסין ובסוף פרק הזורק ואי מלינהו קני ואורבי לית לן בה <span class=\"parenthesized\">(ובשבת כ)</span> רבין ואביי הוו שקלי ואזלי בפקת' דטמרוריא חזנהו להנהו ארבאתא דקיימין אמר ליה רבין לאביי היינו ארבא דתנן פירוש ערבה ממש. ארבא תניינתא דגישרא ערבה שנייה העומדת בצד הגשר. פי' אחר מקום שקושרין בו ספינה שנייה. פי' טולא דארבא צל של ספינה. טולא דארבאתא צל של ערבה ואית דאמרי סרפד ויהי אומן את הדסה תרגום תחת הסרפד יעלה הדס חלף ארבניא יסק אסא:",
+              "ref": "Sefer HeArukh, Letter Alef 853",
+              "sourceHeRef": "ספר הערוך, אות האל\"ף תתנ״ג",
+              "sourceRef": "Sefer HeArukh, Letter Alef 853"
+            },
+            {
+              "en": "",
+              "he": "<b><big>עמר</big></b> [וואל] <span class=\"parenthesized\">(שבת כ)</span> עמרניתא דביני ביני פי' מר שיש בין קליפה ובין האילן רך כעין צמר בארז שמו לכש עמרניתא דערבא שמו פתילת האילן <span class=\"parenthesized\">(חגיגה טו)</span> כל עמר דנחית ליורה סליק פי' כל אותו צמר הנותנין ליורה גדולה לצבוע עולה בכולה הצבע יפה א\"ל דעל גב אימיה נקי כלומר כל אותו הצמר שהוא נקי ואינו מלוכלך בטיט קולט הצבע יפה כך ר' עקיבא מתחילה היה יפה עלה בשלום וירד בשלום אחר שמתחלה לא היה הגון לא ירד בשלום <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב תרגום בבגד צמר בלבוש עמר)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Ayin 160",
+              "sourceHeRef": "ספר הערוך, אות העי\"ן ק״ס",
+              "sourceRef": "Sefer HeArukh, Letter Ayin 160"
+            },
+            {
+              "en": "",
+              "he": "<b><big>שברא</big></b> [גארטען קרויט] <span class=\"parenthesized\">(שבת כ)</span> ולא בפתילת המדבר <span class=\"parenthesized\">(גמרא)</span> פתילת המדבר שברא פי' בתשובות לתת סממנים שלו א\"א אלא ממיני זרעים היא ואינו נאכל וזרעו מין סממנים הוא וחם ביותר ושותה אותו מי שיש לו צנה ושמו בלשון ערבי חרמל ומירק שלו עושין פתילה ואני שמענו שקורין אותו בלע\"ז פי\"רולא:",
+              "ref": "Sefer HeArukh, Letter Shin 52",
+              "sourceHeRef": "ספר הערוך, אות השי\"ן נ״ב",
+              "sourceRef": "Sefer HeArukh, Letter Shin 52"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "עוד שנינו במשנה כי <b>לא</b> מדליקים <b>בפתילת האידן.</b> ומסבירים כי פתילת האידן היא <b>אחוינא</b> <span class=\"hebrew-emphasis\">[ערבה],</span> ובעירתה <span class=\"hebrew-emphasis\">אינה יפה.</span> ומסופר כי <b>רבין ואביי הוו קאזלי בפקתא</b> <span class=\"hebrew-emphasis\">[היו הולכים</span> <b>בבקעת] טמרוריתא. חזינהו להנהו ארבתא</b> <span class=\"hebrew-emphasis\">[ראו את אותם ערבות].</span> <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רבין לאביי: היינו</b> <span class=\"hebrew-emphasis\">[זהו]</span> ה<b>אידן דתנן</b> <span class=\"hebrew-emphasis\">[ששנינו</span> במשנה<span class=\"hebrew-emphasis\">].</span> <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> אביי: הרי <b>האי</b> <span class=\"hebrew-emphasis\">[זה]</span> <b>עץ בעלמא</b> <span class=\"hebrew-emphasis\">[סתם]</span> <b>הוא!</b> וכיצד עושים ממנו פתילה? <b>קלף</b> רבין את הערבה <b>ואחוי ליה עמרניתא דביני ביני</b> <span class=\"hebrew-emphasis\">[והראה לו</span> מעין <span class=\"hebrew-emphasis\">הצמר שביניהם],</span> כלומר, בין הקליפה לעץ. שנינו במשנה כי <b>לא</b> מדליקים <b>בפתילת המדבר.</b> ומסבירים כי <b>פתילת המדבר היא שברא,</b> שהוא מין עשב ארוך שבעירתו אינה יפה.",
+              "ref": "Steinsaltz on Shabbat 20b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:יא",
+              "sourceRef": "Steinsaltz on Shabbat 20b:11"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> we learned in the mishna that <b>one may not</b> light <b>with <i>petilat ha</i>’<i>idan</i>.</b> The Gemara explains that <i>petilat ha</i>’<i>idan</i> is <b>willow,</b> which does not burn well. The Gemara relates that <b><span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">Ravin</span> and <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> were walking in the valley of Tamrurita. They saw these willow</b> trees. <b><span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">Ravin</span> said to <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span>: This is</b> the <b><i>idan</i> that we learned</b> in the mishna. <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> <b>said to him:</b> But <b>this is mere wood.</b> How would one fashion a wick from it? <span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">Ravin</span> <b>peeled</b> the bark <b>and showed him the wool-</b>like substance <b>between</b> the bark and the tree. We also learned in the mishna: <b>Nor with desert silk [<i>petilat hamidbar</i>].</b> That is <b>the mullein</b> plant, which does not burn well.",
+      "he": "וְלֹא בִּפְתִילַת הָאִידָן — אַחְוִינָא. <span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">רָבִין</span> <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">וְאַבָּיֵי</span> הֲווֹ קָאָזְלִי בְּפַקְתָּא דְטַמְרוּרִיתָא. חֲזַנְהִי לְהָנְהוּ אַרְבָתָא. אֲמַר לֵיהּ <span href=\"/topics/ravin\" class=\"namedEntityLink\" data-slug=\"ravin\">רָבִין</span> <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">לְאַבָּיֵי</span>: הַיְינוּ אִידָן דִּתְנַן. אֲמַר לֵיהּ: הַהִיא עֵץ בְּעָלְמָא הוּא! קְלַף וְאַחְוִי לֵיהּ עַמְרָנִיתָא דְּבֵינֵי בֵּינֵי. וְלֹא בִּפְתִילַת הַמִּדְבָּר — שַׁבְרָא.",
+      "ref": "Shabbat 20b:11"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">אוּכָּם</strong>, <strong dir=\"rtl\">אוּכָּמָא</strong>, <strong dir=\"rtl\">אוּכָּמָא</strong>, <strong dir=\"rtl\">אוּכַּמְתָּא</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, אָכַם 1\" dir=\"rtl\" href=\"/Jastrow,_אָכַם.1\">אכם</span>) <i>black, dark-complected, freckled, ungainly</i>. <span class=\"refLink\" data-ref=\"Onkelos Leviticus 13:31\" href=\"/Onkelos_Leviticus.13.31\">Targum Vayikra XIII, 31</span>; and from—<span class=\"refLink\" data-ref=\"Pesachim 88a:16\" href=\"/Pesachim.88a.16\">Pesachim 88ᵃ</span>.—<span class=\"refLink\" data-ref=\"Moed Katan 9b:21\" href=\"/Moed_Katan.9b.21\">Moʿed Katan 9ᵇ</span> הוה ליה ברתא א׳ Manuscript Munich (ed. our word omitted) had an ungainly (freckled) daughter; <span class=\"refLink\" data-ref=\"Shabbat 80b\" href=\"/Shabbat.80b\">Shabbat 80ᵇ</span>. Git. 67ᵇ <span dir=\"rtl\">תרנגולתא אוּכַּמְתִּי</span> a black (checkered?) hen. <span class=\"refLink\" data-ref=\"Shabbat 68a\" href=\"/Shabbat.68a\">Ib. 68ᵃ</span><span class=\"refLink\" data-ref=\"Gittin 67b:13\" href=\"/Gittin.67b.13\">Git. 67ᵇ</span> <span dir=\"rtl\">תרנגולתא אוּכַּמְתִּי</span> a black (checkered?) hen. <span class=\"refLink\" data-ref=\"Gittin 68a:2\" href=\"/Gittin.68a.2\">Ib. 68ᵃ</span> <span dir=\"rtl\">אוכמא בחיורא</span> a black spot on a white skin. plural masc. <span dir=\"rtl\">אוּכָּמִין</span>, <span dir=\"rtl\">אוּכָּמֵי</span>, <span dir=\"rtl\">אוּכָּמַיָּא</span>, <span dir=\"rtl\">אוּכְמַיָּא</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Jeremiah 8:21\" href=\"/Targum_Jonathan_on_Jeremiah.8.21\">Targum Jeremiah VIII, 21</span>; and e.—<span class=\"refLink\" data-ref=\"Chullin 46b:10\" href=\"/Chullin.46b.10\">Chullin 46ᵇ</span> <span dir=\"rtl\">א׳ א׳</span> covered with black spots.—Fem. <span dir=\"rtl\">אֻכָּמָתָא</span> <span class=\"refLink\" data-ref=\"Shabbat 129a:18\" href=\"/Shabbat.129a.18\">Shabbat 129ᵃ</span>. <span class=\"refLink\" data-ref=\"Shabbat 20b:12\" href=\"/Shabbat.20b.12\">Ib. 20ᵇ</span> אוכמוותא Arukh (ed. <span dir=\"rtl\">אוכמתא</span>) the black (greenish) moss on ships or puddles."
+              ],
+              "he": [],
+              "ref": "Jastrow, אוּכָּם 1",
+              "sourceHeRef": "מילון יסטרוב, אוּכָּם א׳",
+              "sourceRef": "Jastrow, אוּכָּם 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">ירָוֹקָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, יָרוֹק ² 1\" href=\"/Jastrow,_יָרוֹק ².1\">preceding</span>) <br><b>1)</b> י׳ שעל פני המים <i>grass upon the water</i>, a sort of <i>sea-weed</i> or <i>moss</i> used for wicks. <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:1\" href=\"/Mishnah_Shabbat.2.1\">Shabbat II, 1</span>, explained <span class=\"refLink\" data-ref=\"Shabbat 20b:12\" href=\"/Shabbat.20b.12\">ib. 20ᵇ</span> <span dir=\"rtl\">אוכמתא דארבא</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אוּכָּם 1\" dir=\"rtl\" href=\"/Jastrow,_אוּכָּם.1\">אוּכָּם</span>.; Yerushalmi ib. II beginning 4ᶜ, see <span class=\"refLink\" data-ref=\"Jastrow, כִּיתַּן 1\" dir=\"rtl\" href=\"/Jastrow,_כִּיתַּן.1\">כִּיתָּן</span>. <br><b><br>—2)</b> <i>jaundice</i>. Ib. XIV, 3 <span dir=\"rtl\">שהן לי׳</span> they are used as a remedy for jaundice."
+              ],
+              "he": [],
+              "ref": "Jastrow, ירָוֹקָה 1",
+              "sourceHeRef": "מילון יסטרוב, ירָוֹקָה א׳",
+              "sourceRef": "Jastrow, ירָוֹקָה 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">פְּרַךְ I</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, פָּרַךְ 1\" href=\"/Jastrow,_פָּרַךְ.1\">same</span> , <i>to break, smash, crumble.</i> <i>—Part. pass</i>. <span class=\"refLink\" data-ref=\"Jastrow, פְּרִיךְ 1\" dir=\"rtl\" href=\"/Jastrow,_פְּרִיךְ.1\">פְּרִיךְ</span>, <span class=\"refLink\" data-ref=\"Jastrow, פְּרִיךְ 1\" dir=\"rtl\" href=\"/Jastrow,_פְּרִיךְ.1\">פְּרִיכָא</span> <i>crushed; peeling, brittle</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Lamentations 4:8\" href=\"/Aramaic_Targum_to_Lamentations.4.8\">Targum Eicha IV, 8</span> (h. text <span class=\"refLink\" data-ref=\"Jastrow, יָבֵשׁ I 1\" dir=\"rtl\" href=\"/Jastrow,_יָבֵשׁ I.1\">יבש</span>, see <span class=\"refLink\" data-ref=\"Bekhorot 37b\" href=\"/Bekhorot.37b\">Bekhoroth 37ᵇ</span>, quot. in <span class=\"refLink\" data-ref=\"Jastrow, פָּרַךְ 1\" href=\"/Jastrow,_פָּרַךְ.1\">preceding</span>).—<span class=\"refLink\" data-ref=\"Vayikra Rabbah 8\" href=\"/Vayikra_Rabbah.8\">Vayikra Rabbah section (Parashah) 8</span>, beginning, see <span class=\"refLink\" data-ref=\"Jastrow, אַצִּיל 1\" dir=\"rtl\" href=\"/Jastrow,_אַצִּיל.1\">אַצִּיל</span>. <span class=\"refLink\" data-ref=\"Pesachim 68b:4\" href=\"/Pesachim.68b.4\">Pesachim 68ᵇ</span> <span dir=\"rtl\">יבשה מִפְּרִיךְ פ׳</span> a dry wart is scraped off (and not cut). <span class=\"refLink\" data-ref=\"Bava Metzia 70a:8\" href=\"/Bava_Metzia.70a.8\">Bava Metzia 70ᵃ</span> <span dir=\"rtl\">דהבא פ׳</span> broken gold-ware (gold dust); <span class=\"refLink\" data-ref=\"Bava Batra 166a\" href=\"/Bava_Batra.166a\">Bava Batra 166ᵃ</span>; and from—Transferred <i>to refute, raise an objection</i>. <span class=\"refLink\" data-ref=\"Bava Kamma 5b\" href=\"/Bava_Kamma.5b\">Bava Kamma 5ᵇ</span>, and from <span dir=\"rtl\">דאיכא למִיפְרַךְ וכ׳</span> it may be objected (against this analogy) &c.; see infra.<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">פָּרֵךְ</strong>, <strong dir=\"rtl\"> פָּרֵיךְ</strong> <span class=\"refLink\" data-ref=\"Jastrow, פָּרַךְ 1\" href=\"/Jastrow,_פָּרַךְ.1\">same</span>. [<span class=\"refLink\" data-ref=\"Aramaic Targum to Ecclesiastes 3:3\" href=\"/Aramaic_Targum_to_Ecclesiastes.3.3\">Targum Kohelet III, 3</span>. see <span class=\"refLink\" data-ref=\"Jastrow, פְּכַר 1\" dir=\"rtl\" href=\"/Jastrow,_פְּכַר.1\">פְּכַר</span>.) <span class=\"refLink\" data-ref=\"Targum Jerusalem, Numbers 33:52\" href=\"/Targum_Jerusalem,_Numbers.33.52\">Targum Yonatan II, Bamidbar XXXIII, 52</span> <span dir=\"rtl\">תְּפָרְכוּן</span> (not <span dir=\"rtl\">תתפ׳</span>).—Yerushalmi Shabbat VII, 10ᵃ bottom of page <span dir=\"rtl\">כד מְפָרֵךְ ברישייא</span> when he husks the heads of garlic. <span class=\"refLink\" data-ref=\"Beitzah 12b:14\" href=\"/Beitzah.12b.14\">Beitzah 12ᵇ</span> <span dir=\"rtl\">מהו לפָרוּכֵי וכ׳</span> dare one husk by rubbing and eat the seeds?; and e.—Transferred <i>to refute, raise an objection</i>. <span class=\"refLink\" data-ref=\"Kiddushin 13a:3\" href=\"/Kiddushin.13a.3\">Kiddushin 13ᵃ</span>, and from <span dir=\"rtl\">פ׳ רב אחא וכ׳</span> Rab A. objected &c. <span class=\"refLink\" data-ref=\"Nedarim 51a:3\" href=\"/Nedarim.51a.3\">Nedarim 51ᵃ</span> <span dir=\"rtl\">כל … פָּרְכָהּ וכ׳</span> whatever interpretation of <i>toʿebah</i> Rabbi offered, Bar Ḳ. refuted it. <span class=\"refLink\" data-ref=\"Sotah 7a:14\" href=\"/Sotah.7a.14\">Sotah 7ᵃ</span> ופָרְכוּהָ Rashi and Tosafot (ed. <span dir=\"rtl\">ופֵירְכוּהָ</span> Hebr. form) and he refuted it. <span class=\"refLink\" data-ref=\"Pesachim 69a:9\" href=\"/Pesachim.69a.9\">Pesachim 69ᵃ</span>; and from<br></br> <strong>Ithpaal</strong> - <strong dir=\"rtl\">אִתְפָּרַךְ</strong>, <strong dir=\"rtl\"></strong><br></br> <strong>Ithpeel</strong> - <strong dir=\"rtl\">אִיתְפְּרַךְ</strong>, <strong dir=\"rtl\"> אִיפְּרַךְ</strong>, <strong dir=\"rtl\"></strong> , <span class=\"refLink\" data-ref=\"Jastrow, סְרַךְ II 1\" dir=\"rtl\" href=\"/Jastrow,_סְרַךְ II.1\">אִיפְּרִיךְ</span> <i>to be crushed</i>; <i>to be dry, parched, easily peeled</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 24:7\" href=\"/Targum_Jonathan_on_Isaiah.24.7\">Targum Isaiah XXIV, 7</span> (h. text <span dir=\"rtl\">אמלל׳</span>). <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 90:5\" href=\"/Aramaic_Targum_to_Psalms.90.5\">Targum Psalms XC, 5</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 80:17\" href=\"/Aramaic_Targum_to_Psalms.80.17\">Ib. LXXX, 17</span> מִיפַּרְכָא Manuscript (ed. <span dir=\"rtl\">מופרכא</span>, correct accordingly; ed. Vilna <span dir=\"rtl\">מְפָרְכָא</span> Part. pass. <i>Pa.</i>; h. text <span dir=\"rtl\">כסוחה</span>).—[<span class=\"refLink\" data-ref=\"Targum Jerusalem, Numbers 33:52\" href=\"/Targum_Jerusalem,_Numbers.33.52\">Targum Yonatan II, Bamidbar XXXIII, 52</span>, see supra.]—<span class=\"refLink\" data-ref=\"Shabbat 20b:12\" href=\"/Shabbat.20b.12\">Shabbat 20ᵇ</span> <span dir=\"rtl\">אִיפָּרוּכֵי מִפָּרְכָן</span> (or <span dir=\"rtl\">מְפָרְכָן</span>) they are brittle (unfit to be twisted into wicks). <span class=\"refLink\" data-ref=\"Pesachim 68b\" href=\"/Pesachim.68b\">Pesachim 68ᵇ</span>, see supra; and e.—Transferred <i>to be refuted</i>. <span class=\"refLink\" data-ref=\"Horayot 14a:5\" href=\"/Horayot.14a.5\">Horayot 14ᵃ</span> <span dir=\"rtl\">כל דאמר מילתא ולא מִיפְּרַךְ וכ׳</span> whoever will say something and not be refuted, let him be the chief; <span dir=\"rtl\">דכולהו אִיפְּרִיךְ וכ׳</span> what every one of them said was refuted, what A. said was not; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, פְּרַךְ I 1",
+              "sourceHeRef": "מילון יסטרוב, פְּרַךְ I א׳",
+              "sourceRef": "Jastrow, פְּרַךְ I 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אוכמתא דחריצי</strong> - מקום כנוס מים גדל עליהם כמין ירקרוקת:",
+              "ref": "Rashi on Shabbat 20b:12:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יב:א",
+              "sourceRef": "Rashi on Shabbat 20b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איפרוכי מיפרכן</strong> - ולא מצי ליעבד פתילה מינה:",
+              "ref": "Rashi on Shabbat 20b:12:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יב:ב",
+              "sourceRef": "Rashi on Shabbat 20b:12:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אוכמתא דארבא</strong> - ספינה המתעכבת במקום אחד במים גדל ירקרוקת סביב שוליה מבחוץ:",
+              "ref": "Rashi on Shabbat 20b:12:3",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יב:ג",
+              "sourceRef": "Rashi on Shabbat 20b:12:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "עוד שנינו במשנה כי <b>לא</b> משתמשים כפתילה להדלקת נרות שבת <b>בירוקה שעל</b> פני המים. ושואלים <b>מאי</b> <span class=\"hebrew-emphasis\">[מה]</span> <b>היא</b> ירוקה זו? <b>אילימא אוכמתא דחריצי</b> <span class=\"hebrew-emphasis\">[אם תאמר</span> שהיא <span class=\"hebrew-emphasis\">הירוקת שעל תעלות</span> המים<span class=\"hebrew-emphasis\">]?</span> והלא ירוקת זו <b>איפרוכי מפרכן</b> <span class=\"hebrew-emphasis\">[נפרכת היא]</span> ואי אפשר לטוות ממנה פתיל. <b>אלא אמר רב פפא:</b> המדובר הוא ב<b>אוכמתא דארבא</b> <span class=\"hebrew-emphasis\">[ירוקת</span> המצטברת <span class=\"hebrew-emphasis\">על הספינה]</span> שהיא גמישה יותר, ואפשר לעשות ממנה פתילה כשהיא מתייבשת.",
+              "ref": "Steinsaltz on Shabbat 20b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:יב",
+              "sourceRef": "Steinsaltz on Shabbat 20b:12"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> we learned in the mishna that <b>one may not</b> use the <b>green</b> moss <b>that is on</b> the surface of the water to fashion a wick for lighting the Shabbat lamp. The Gemara asks: <b>What is this</b> green moss? <b>If you say</b> that it is the <b>moss found on standing water,</b> isn’t that moss <b>brittle</b> and therefore unfit material from which to fashion a wick? <b>Rather, <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said:</b> It is referring to <b>the moss</b> that accumulates <b>on ships,</b> which is more pliable and when dried can be fashioned into a wick.",
+      "he": "וְלֹא בִּירוֹקָה שֶׁעַל כּוּ׳. מַאי הִיא? אִילֵימָא אוּכַּמְתָּא דַחֲרִיצֵי — אִיפָּרוֹכֵי מִפָּרְכָן. אֶלָּא אָמַר <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">רַב פָּפָּא</span>: אוּכַּמְתָּא דְּאַרְבָּא.",
+      "ref": "Shabbat 20b:12"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">כְּוֵץ</strong>, <strong dir=\"rtl\">כְּוֵיץ</strong>, <strong dir=\"rtl\">כְּוַוץ</strong> (compare <span class=\"refLink\" data-ref=\"Jastrow, קָוַץ 1\" dir=\"rtl\" href=\"/Jastrow,_קָוַץ.1\">קָוַץ</span>, <span class=\"refLink\" data-ref=\"Jastrow, גָּוַע 1\" dir=\"rtl\" href=\"/Jastrow,_גָּוַע.1\">גָּוַע</span>) <i>to curl, shrink</i>. <span class=\"refLink\" data-ref=\"Shabbat 20b:13\" href=\"/Shabbat.20b.13\">Shabbat 20ᵇ</span> <span dir=\"rtl\">צמר מִכְוַוץ כָּוֵויץ</span> wool (if used as a wick) curls. <span class=\"refLink\" data-ref=\"Niddah 3a:50\" href=\"/Niddah.3a.50\">Niddah 3ᵃ</span> <span dir=\"rtl\">מוך … מכוץ כויץ</span> the lint … shrinks (and leaves room for the blood to pass). <span class=\"refLink\" data-ref=\"Sukkah 23b:1\" href=\"/Sukkah.23b.1\">Sukkah 23ᵇ</span> <span dir=\"rtl\">כיון דמייתא כַּוְוצָא</span> when the animal is dead, the body shrinks. <span class=\"refLink\" data-ref=\"Chullin 43b:11\" href=\"/Chullin.43b.11\">Chullin 43ᵇ</span> <span dir=\"rtl\">כל שחותכו וכויץ</span> that portion of the gullet which shrinks when you cut it. <span class=\"refLink\" data-ref=\"Chullin 46b\" href=\"/Chullin.46b\">Ib. 46ᵇ</span>, see infra.<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">כַּוֵּוץ</strong> <i>to cause to shrink</i>. <span class=\"refLink\" data-ref=\"Shabbat 19a\" href=\"/Shabbat.19a\">Shabbat 19ᵃ</span> <span dir=\"rtl\">וכַוְּוצֵיה</span> for he made it shrink (by using too hot water). <span class=\"refLink\" data-ref=\"Chullin 46b\" href=\"/Chullin.46b\">Chullin 46ᵇ</span>; <span class=\"refLink\" data-ref=\"Chullin 47b\" href=\"/Chullin.47b\">47ᵇ</span> [read:] <span dir=\"rtl\">בחמימי לא דמְכַוְּוצֵי</span> not in boiling water, for it causes the lungs to shrink (Arukh ed. Kohelet <span dir=\"rtl\">בקרירי לא דכווצא</span> not in cold water, for it will contract, see <span class=\"refLink\" data-ref=\"Jastrow, טְרַשׁ I 1\" href=\"/Jastrow,_טְרַשׁ I.1\"><span dir=\"rtl\">טְרַשׁ</span> I</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, כְּוֵץ 1",
+              "sourceHeRef": "מילון יסטרוב, כְּוֵץ א׳",
+              "sourceRef": "Jastrow, כְּוֵץ 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The wick used for the Sabbath lights should not be made from a substance that causes the light to flicker - e.g., wool, goat's hair, silk, cedar fiber, uncarded flax, palm bast, various types of soft trees, and the like. Instead, [we should use] a substance that burns steadily - e.g., carded flax, [remnants of] linen clothes, cotton, and the like.<br>The person kindling [the lamp] should make sure that the fire has caught on the major portion of the wick that emerges [from the lamp].",
+              "he": "פְּתִילָה שֶׁמַּדְלִיקִין בָּהּ לְשַׁבָּת אֵין עוֹשִׂין אוֹתָהּ מִדָּבָר שֶׁהָאוּר מְסַכְסֶכֶת בּוֹ כְּגוֹן צֶמֶר וְשֵׂעָר וּמֶשִׁי וְצֶמֶר הָאֶרֶז וּפִשְׁתָּן שֶׁלֹּא נֻפַּץ וְסִיב שֶׁל דֶּקֶל וּמִינֵי הָעֵץ הָרַכִּים וְכַיּוֹצֵא בָּהֶן. אֶלָּא מִדָּבָר שֶׁהָאוּר נִתְלֵית בּוֹ. כְּגוֹן פִּשְׁתָּה נְפוּצָה וּבִגְדֵי שֵׁשׁ וְצֶמֶר גֶּפֶן וְכַיּוֹצֵא בָּהֶן. וְהַמַּדְלִיק צָרִיךְ שֶׁיַּדְלִיק בְּרֹב הַיּוֹצֵא מִן הַפְּתִילָה:",
+              "ref": "Mishneh Torah, Sabbath 5:5",
+              "sourceHeRef": "הלכות שבת ה:ה",
+              "sourceRef": "Sabbath 5:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מכווץ כווץ</strong> - מפני האור ואין דולק כלל ואין שלהבת אוחזת בו ולא צריך למתנייה:",
+              "ref": "Rashi on Shabbat 20b:13:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יג:א",
+              "sourceRef": "Rashi on Shabbat 20b:13:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>כווץ</big></b> [איינשרומפפפן]. <span class=\"parenthesized\">(שבת כ)</span> ותנא דידן צמר מיכווץ כוץ <span class=\"parenthesized\">(נדה ג)</span> מוך נמי אגב זיעה מיכווץ כויץ <span class=\"parenthesized\">(חולין מז)</span> בקרירי לא דכווצי פירוש צומתין <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב פי' בלשון יון נפתל עקש נצמת)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Kaf 70",
+              "sourceHeRef": "ספר הערוך, אות הכ\"ף ע׳",
+              "sourceRef": "Sefer HeArukh, Letter Kaf 70"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף א' אין עושין פתילה לנר של שבת. </b>נ\"ב והנה אם מהני שיהיו שניהם אוכלים בנר כזה או משתמשין שאר שימוש בנר כזה עיין בט\"ז הלכות חנוכה סי' תרע\"ג ס\"ק ד' מ\"ש דבזה לא מהני שנים ע\"ש ודו\"ק היטב:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 264:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אורח חיים רסד:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 264:1"
+                    }
+                  ]
+                },
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(א)</span> מדבר וכו'</strong> - הטעם בפסול פתילות ושמנים שאין מאירין יפה וחיישינן שמא יטה הכלי שיבוא השמן שבתוכו אל הפתילה כדי שידלק יפה וחייב משום מבעיר:",
+                      "ref": "Mishnah Berurah 264:1",
+                      "sourceHeRef": "משנה ברורה רסד:א",
+                      "sourceRef": "Mishnah Berurah 264:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ב)</span> וקנבוס</strong> - והא\"ר כתב דנכון להחמיר לכתחלה בקנבוס אם אפשר באחר:",
+                      "ref": "Mishnah Berurah 264:2",
+                      "sourceHeRef": "משנה ברורה רסד:ב",
+                      "sourceRef": "Mishnah Berurah 264:2"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ג)</span> האסורים</strong> - בין פסול פתילות ובין שמנים:",
+                      "ref": "Mishnah Berurah 264:3",
+                      "sourceHeRef": "משנה ברורה רסד:ג",
+                      "sourceRef": "Mishnah Berurah 264:3"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ד)</span> אסור להשתמש</strong> - אפי' תשמיש שאין צריך עיון שמא יטה דאלו בדבר שצריך עיון אסור לעשות בשבת לאור הנר אפילו בנר יפה כבסימן ער\"ה והט\"ז לקמן בסימן תרע\"ג כתב דבעניננו אפילו ביש אחר עמו שרואה אותו אפילו הכי אסור דא\"א ליזהר שלא יטה:",
+                      "ref": "Mishnah Berurah 264:4",
+                      "sourceHeRef": "משנה ברורה רסד:ד",
+                      "sourceRef": "Mishnah Berurah 264:4"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ה)</span> מותר להשתמש</strong> - אפילו הנרות עומדות בחדר אחר דכיון שיש במקום אחד נר כשר יזכור ולא יטה גם במקומות אחרים כן פירש במ\"א ובא\"ר כתב שכונת הרמ\"א היינו דוקא באותו חדר עצמו ועיין בביאור הגר\"א בד\"ה וי\"א דאם וכו' מדמה עניננו לנר חנוכה להי\"א הזה ושם הלא אינו מותר להשתמש לנר חנוכה כ\"א כשהנר כשר עומד אצלם ולא בחדר אחר הרי דמפרש כהא\"ר וכן בספר קרבן נתנאל מחמיר כשעומד בחדר אחר:",
+                      "ref": "Mishnah Berurah 264:5",
+                      "sourceHeRef": "משנה ברורה רסד:ה",
+                      "sourceRef": "Mishnah Berurah 264:5"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ו)</span> בלא נר</strong> - כגון לשכב בחדר או למשוך יין מן המרתף והיינו דרך כלי [שקורים הא\"ן או ליבע\"ר בל\"א] אבל לא דרך ברזא:",
+                      "ref": "Mishnah Berurah 264:6",
+                      "sourceHeRef": "משנה ברורה רסד:ו",
+                      "sourceRef": "Mishnah Berurah 264:6"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ז)</span> מותר לעשות</strong> - הא\"ר פירש דוקא כשיש עכ\"פ נר אחד כשר בבית שעי\"ז מותר אפילו בחדר אחר אבל שארי אחרונים פירשו דאפילו אין נר כשר כלל מותר להי\"א הזה:",
+                      "ref": "Mishnah Berurah 264:7",
+                      "sourceHeRef": "משנה ברורה רסד:ז",
+                      "sourceRef": "Mishnah Berurah 264:7"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ח)</span> בדיעבד</strong> - ואם יש נר אחד כשר ועומד אצלו נר פסול כתב המ\"א דמותר להשתמש אפילו שלא לצורך שבת דלא יהא אלא נר אחד בלחוד וכמ\"ש סימן רע\"ו ס\"ד עי\"ש ועיין בבה\"ל. והיינו דוקא לענין להשתמש כשכבר הדליק ומטעם דכיון דיש לו נר כשר שמדליק יפה תו לא אתי להטות אבל אין להקל מטעם זה להדליק לכתחלה נר כשר עם פסול [פמ\"ג ולבו\"ש]:",
+                      "ref": "Mishnah Berurah 264:8",
+                      "sourceHeRef": "משנה ברורה רסד:ח",
+                      "sourceRef": "Mishnah Berurah 264:8"
+                    }
+                  ]
+                }
+              },
+              "en": "1. <b>Laws of the wick and the oil, 10 Seifim:</b> We do not make a wick for the Sabbath lamp, neither for the table lamp nor any lamp lit in the house, from a material whose light does not cling to it but rather moves around and whose flame jumps -- like wool or hair etc. Rather, from a material whose light attaches to it, like ripe flax or linen fiber or cotton or hemp etc. <i>RAMA: And if you light with forbidden materials it is forbidden to use the light. (Responsa of Rashba no. 178) And some say that if there is one lamp of permitted materials it is permitted to use the light of the others, and also it is permitted to do something possible without a lamp, even by the other lamps. And for a Sabbath need it is possible to be lenient post facto. (Hagahos Mordechai ch. 1 and 2 of Shabbat)</i>",
+              "he": "אין עושין פתילה לנר של שבת בין נר שעל השלחן בין כל נר שמדליק בבית מדבר שהאור אינו נאחז בו אלא נסרך סביביו והשלהבת קופצת כגון צמר ושער וכיוצא בהם אלא מדבר שהאור נתלה בו כגון פשתה נפוצה ובגד שש וצמר גפן וקנבוס וכיוצא בהן: <span class=\"hebrew-emphasis\">הגה ואם הדליק בדברים האסורים אסור להשתמש לאורו (תשובת הרשב\"א סי' קע\"ח) ויש אומרים דאם יש נר אחד מהדברים המותרים מותר להשתמש לאור האחרים וכן דבר שאפשר בלא נר מותר לעשות אפי' אצל נרות האחרים ולצורך שבת יש להקל בדיעבד (הגהות מרדכי פ\"ק ופ\"ב דשבת):</span>",
+              "ref": "Shulchan Arukh, Orach Chayim 264:1",
+              "sourceHeRef": "אורח חיים רסד:א - דיני הפתילה והשמן",
+              "sourceRef": "Orach Chayim 264:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תנא</b> <span class=\"hebrew-emphasis\">[שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]:</span> <b>הוסיפו עליהן,</b> על הפתילות האסורות בהדלקה ששנינו במשנה גם את <b>של צמר ושל שער.</b> ומעירים: <b>ו</b>ה<b>תנא דידן</b> <span class=\"hebrew-emphasis\">[שלנו]</span> במשנה לא מנה את אלה כיון שלא מצא צורך בכך, כי כמעט בלתי אפשרי הוא לעשות פתילות מחמרים אלה, שכן ה<b>צמר</b> הבוער <b>מכווץ כוויץ</b> <span class=\"hebrew-emphasis\">[מתכווץ],</span> וה<b>שער</b> רק <b>איחרוכי מיחרך</b> <span class=\"hebrew-emphasis\">[נחרך],</span> ולפיכך אינם יכולים להגיע לשימוש כפתילות.",
+              "ref": "Steinsaltz on Shabbat 20b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:יג",
+              "sourceRef": "Steinsaltz on Shabbat 20b:13"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One may not fashion wicks from wool or hair for use on Shabbat, as per the <i>baraita</i> (Rambam <i>Sefer</i>\n\t\t\t<i>Zemanim,</i>\n\t\t\t<i>Hilkhot</i>\n\t\t\t<i>Shabbat</i> 5:5; <i>Shulĥan Arukh, Oraĥ Ĥayyim</i> 264:1).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:13",
+              "sourceHeRef": "הוֹסִיפוּ עֲלֵיהֶן שֶׁל צֶמֶר וְשֶׁל שֵׂעָר",
+              "sourceRef": "The Sages added to the list wicks of wool and hair"
+            },
+            {
+              "en": "The reference is to the Greek word <greek>ἕν</greek>, <i>hen</i>, which means one.",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Shabbat 20b:13",
+              "sourceHeRef": "הֵן",
+              "sourceRef": "One [<i>hen</i>]"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> ותנא דידן כו' וי\"ל דהוסיפו היינו טעמא מפני שאין מושכין כו' עכ\"ל נראה מדבריהם דטעמא דפסול פתילות במתני' נמי מפני שאין השמן נמשך יפה אבל בגמרא לקמן לא משמע כן אלא דפסול פתילות הוא משום שהאור מסכסכת בהן ואפשר דר\"ל משום שהאור מסכסכת בהן אין השמן נמשך אחריהן מיהו בעיקר תירוצם ק\"ק דאין זה מספיק דאכתי מאי הוסיפו בטעמא ומנ\"מ שהרי האי טעמא אחרינא דצמר כויץ ושער מחריך פשוט טפי מדלא איצטריך ליה למתני במתני' ודוחק לומר דתנא דברייתא פליג ולית ליה טעמא דצמר כויץ ושער מחריך ודו\"ק:",
+                      "ref": "Chidushei Halachot on Shabbat 20b:2",
+                      "sourceHeRef": "חידושי הלכות על שבת כ׳ ב:ב",
+                      "sourceRef": "Chidushei Halachot on Shabbat 20b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ותנא דידן צמר מכווץ כווץ ושער איחרוכי מחרך</strong> - ולא איצטריך תנא דמתני' למיתני וא\"ת כיון דמתני' נמי סברה דצמר ושער פסולים להדלקה א\"כ מאי הוסיפו וי\"ל דהוסיפו היינו טעמא מפני שאין מושכין השמן יפה ותנא דמתניתין פסיל להו משום דצמר כוויץ ושער מחרך ולא איצטריך למתני:",
+              "ref": "Tosafot on Shabbat 20b:13:1",
+              "sourceHeRef": "תוספות על שבת כ׳ ב:יג:א",
+              "sourceRef": "Tosafot on Shabbat 20b:13:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>It was taught</b> in a <i>baraita</i>: The Sages <b>added to</b> the list of prohibited wicks in the mishna those made <b>of wool and hair</b> as well. The Gemara remarks: <b>And our <i>tanna</i></b> did not consider it necessary to enumerate these because it is virtually impossible to fashion wicks from these materials, as, when they burn, <b>wool shrinks</b> and <b>hair is scorched.</b> Consequently, they are unsuitable for use as wicks.",
+      "he": "תָּנָא: הוֹסִיפוּ עֲלֵיהֶן שֶׁל צֶמֶר וְשֶׁל שֵׂעָר. וְתַנָּא דִידַן: צֶמֶר מִכְווֹץ כָּוֵויץ, שֵׂעָר אִיחֲרוֹכֵי מִיחֲרַךְ.",
+      "ref": "Shabbat 20b:13"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קִירוּתָא</strong> f. (denominative of <span class=\"refLink\" data-ref=\"Jastrow, קִירָא 1\" dir=\"rtl\" href=\"/Jastrow,_קִירָא.1\">קִירָא</span>) <i>a mass of wax</i> into which a wick is stuck. <span class=\"refLink\" data-ref=\"Shabbat 20b:14\" href=\"/Shabbat.20b.14\">Shabbat 20ᵇ</span> (explained <span class=\"refLink\" data-ref=\"Jastrow, שַׁעֲוָה 1\" dir=\"rtl\" href=\"/Jastrow,_שַׁעֲוָה.1\">שעוה</span>, Mishnah <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:1\" href=\"/Mishnah_Shabbat.2.1\">ib. II, 1</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, קִירוּתָא 1",
+              "sourceHeRef": "מילון יסטרוב, קִירוּתָא א׳",
+              "sourceRef": "Jastrow, קִירוּתָא 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The fuel used for kindling a Sabbath lamp must be drawn after the wick. Fuels that are not drawn after the wick may not be used. [These include] [molten] tar, [molten] beeswax, gourd oil, [fat from a] sheep's tail, or tallow.<br>Why may we not kindle with wicks that do not catch the fire well and with fuels that are not drawn after the wick? This is a decree [enacted] lest the light of the candle be dim and one tilt it in order to carry out an activity by its light.",
+              "he": "שֶׁמֶן שֶׁמַּדְלִיקִין בּוֹ לִשַׁבָּת צָרִיךְ שֶׁיְּהֵא נִמְשָׁךְ אַחַר הַפְּתִילָה אֲבָל שְׁמָנִין שֶׁאֵין נִמְשָׁכִין אַחַר הַפְּתִילָה כְּגוֹן זֶפֶת וְשַׁעֲוָה וְשֶׁמֶן קִיק וְאַלְיָה וְחֵלֶב אֵין מַדְלִיקִין בָּהֶן. וּמִפְּנֵי מָה אֵין מַדְלִיקִין בִּפְתִילוֹת שֶׁאֵין הָאוּר נִתְלֵית בָּהֶן וְלֹא בִּשְׁמָנִים שֶׁאֵין נִמְשָׁכִים אַחַר הַפְּתִילָה גְּזֵרָה שֶׁמָּא יִהְיֶה אוֹר הַנֵּר אָפֵל וְיַטֶּה אוֹתָהּ בְּשָׁעָה שֶׁיִּשְׁתַּמֵּשׁ לְאוֹרָהּ:",
+              "ref": "Mishneh Torah, Sabbath 5:8",
+              "sourceHeRef": "הלכות שבת ה:ח",
+              "sourceRef": "Sabbath 5:8"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שעוה איצטריכא ליה מהו דתימא לפתילה נמי לא קא משמע לן.</b> יש לפרש מהו דתימא שאפילו עשה מן השעוה כעין פתילה, כלומר שעשה מהן כעין נרות של שעוה שלנו שקורין קנצילי\"ש יהא אסור להדליקן, קא משמע לן מכאן ואילך פסול שמנים, לומר שאינו אסור אלא בשנתן השעוה והזפת בנר כמין שמן, אבל כשחברן יחד ועשה מהן פתילה מותר דנמשך הוא יפה אחר הנר. והוא הדין דהוה מצי למימר זיפתא איצטריכא ליה, אלא לפי שדרך לעשות פתילות משעוה ואין דרך לעשות כן מזפת נקט הכא שעוה.<br><b></b>ומכאן יש להתיר נרות של שעוה בשבת. וכן התירו בתוס'. וכן נראה מדברי רש\"י ז\"ל. אבל ראיתי בתשובת רבנו שרירא גאון ז\"ל שכתב בתשובה וז\"ל: ואבוקה של שעוה ששאלת, לא חזי לנא מאן דאדליק בשעוה בבי שמשי, וכל רבוותא דחזינון הוו אוסרין, עד כאן. וכן אסרו חכמי נרבונא, ופירשו כן מהו דתימא לפתילה נמי לא שאם עשה נר של שעוה כעין שלנו ונתנו בפך עם שמן שעתה הפתילה שבתוך השעוה דולקת גם מחמת השמן יהא אסור, קא משמע לן מכאן ואילך פסול שמנים, שלא אסרו אלו אלא בשאין שם שמן אלא הן, הא יש בו שמן מותר. ואין פירושם מחוור בעיני, דאם כן היינו שעוה ודבר אחר, ונראה שכל השנויין במשנתנו אפילו נתן בו שמן כל שהוא אסור, דבכולהו אמר רבה דאסור שאין מדליקין בהן בתערובת לפי שאין מדליקין בהן בפני עצמם. ודוחק הוא לומר דעל ידי פתילה ממשכי בעינייהו וגזרו פתילה אטו בלא פתילה, ועל ידי תערובת שמן לא גזרו, כדאמרינן <span class=\"parenthesized\">(לקמן שבת כא, א)</span> בדרב ברונא דבסמוך, דאם כן ליכללינהו רב ברונא לשעוה וזפת וחלב בפתילה בהדי חלב מהותך וקרבי דגים שנימוחו. ורבנו הרב נ\"ר מן המתירין.",
+              "ref": "Rashba on Shabbat 20b:6",
+              "sourceHeRef": "רשב״א על שבת כ׳ ב:ו",
+              "sourceRef": "Rashba on Shabbat 20b:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עד כאן</strong> - עד ירוקה שעל פני המים פסול פתילות:",
+              "ref": "Rashi on Shabbat 20b:14:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יד:א",
+              "sourceRef": "Rashi on Shabbat 20b:14:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מכאן ואילך פסול שמנים</strong> - שלא יתן חתיכה זפת או שעוה בנר במקום שמן:",
+              "ref": "Rashi on Shabbat 20b:14:2",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יד:ב",
+              "sourceRef": "Rashi on Shabbat 20b:14:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שעוה איצטריכא ליה</strong> - לפי שרגילין לעשות כמין פתילה ארוכה והפתילה לתוכה כמו שאנו עושין:",
+              "ref": "Rashi on Shabbat 20b:14:3",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יד:ג",
+              "sourceRef": "Rashi on Shabbat 20b:14:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מהו דתימא לפתילה נמי</strong> - קאסר לה:",
+              "ref": "Rashi on Shabbat 20b:14:4",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:יד:ד",
+              "sourceRef": "Rashi on Shabbat 20b:14:4"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(כד)</span> כרך זפת וכו'</strong> - דלא אסרו בכולהו אלא אם היו נתונים בכלי ונותן הפתילה בתוכם כמו שעושין בשמן שאז אין נמשכים אחר הפתילה אבל בזה נמשך שפיר עם הפתילה שבתוכו:",
+                      "ref": "Mishnah Berurah 264:24",
+                      "sourceHeRef": "משנה ברורה רסד:כד",
+                      "sourceRef": "Mishnah Berurah 264:24"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(כה)</span> סביב הפתילה</strong> - דוקא אם הפתילה כשרה אבל אם היא פסולה לא מהני הכריכה סביב לה:",
+                      "ref": "Mishnah Berurah 264:25",
+                      "sourceHeRef": "משנה ברורה רסד:כה",
+                      "sourceRef": "Mishnah Berurah 264:25"
+                    }
+                  ]
+                }
+              },
+              "en": "7. A layer of pitch or wax or fat around the wick -- we ignite with them.",
+              "he": "כרך זפת או שעוה או חלב סביב הפתילה מדליקים בהם:",
+              "ref": "Shulchan Arukh, Orach Chayim 264:7",
+              "sourceHeRef": "אורח חיים רסד:ז - דיני הפתילה והשמן",
+              "sourceRef": "Orach Chayim 264:7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג</big> שנינו במשנה ש<b>לא</b> משתמשים כשמן להדלקת הנרות <b>בזפת</b> ולא בשעוה. ומסבירים כי זפת הוא <b>זיפתא,</b> ו<b>שעוה</b> היא <b>קירותא. תנא</b> <span class=\"hebrew-emphasis\">[שנינו</span> ברייתא<span class=\"hebrew-emphasis\">]:</span> <b>עד כאן</b> (עד הזפת ברשימה) דובר ב<b>פסול</b> החומרים שאינם ראויים להיעשות <b>פתילות,</b> ו<b>מכאן ואילך</b> מדובר ב<b>פסול</b> חמרים שאינם ראויים להיות <b>שמנים.</b> על כך שואלים: <b>פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט,</span> מובן מאליו<span class=\"hebrew-emphasis\">]</span> שמזפת וכיוצא בה אי אפשר לעשות פתילה! ומשיבים: בענין ה<b>שעוה איצטריכא ליה</b> <span class=\"hebrew-emphasis\">[הוצרך לו]</span> לומר. שכן <b>מהו דתימא</b> <span class=\"hebrew-emphasis\">[שתאמר]</span> שכציפוי <b>לפתילות,</b> כדרך שעושים כרגיל נרות <b>נמי לא חזיא</b> <span class=\"hebrew-emphasis\">[גם כן אינה ראויה],</span> על כן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[השמיע לנו]</span> שאף שהשעוה אינה יפה כשמן, אבל כציפוי לפתילה ראויה היא.",
+              "ref": "Steinsaltz on Shabbat 20b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:יד",
+              "sourceRef": "Steinsaltz on Shabbat 20b:14"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It is only permitted to light Shabbat lamps using oil that is drawn easily by the wick, as per the list in the mishna. Even if the alternative is not fulfilling the mitzva at all, one may not light with the oils listed in the mishna (<i>Peri Megadim</i>; Rambam <i>Sefer</i>\n\t\t\t<i>Zemanim,</i>\n\t\t\t<i>Hilkhot</i>\n\t\t\t<i>Shabbat</i> 5:8; <i>Shulĥan Arukh, Oraĥ Ĥayyim</i> 264:3).",
+              "he": "אין עושים פתילות לנר שבת, בין נר שעל גבי השלחן, בין כל נר אחר שמדליק בבית, מחומר שהאש אינה נאחזת בו אלא נסרכת סביבו והשלהבת קופצת. לפי הרשימה במשנה ולפי הביאור בגמרא. ואפילו אין לו פתילה אחרת — לא ידליק כלל באלה אף שבכך בטל הוא מן המצוה (פמ\"ג). (רמב\"ם ספר זמנים הלכות שבת פ\"ה ה\"ה. שו\"ע או\"ח רסד, א).",
+              "ref": "Steinsaltz comment #1 on Shabbat 20b:14",
+              "sourceHeRef": "פְּסוּל שְׁמָנִים",
+              "sourceRef": "Disqualification of oils"
+            },
+            {
+              "en": "It is permitted to light a wax candle or one made of pitch or fat on Shabbat, if the wick is made of a permitted material (<i>Mishna Berura</i>). These materials were disqualified for use only in their liquid state (Rambam <i>Sefer</i>\n\t\t\t<i>Zemanim,</i>\n\t\t\t<i>Hilkhot</i>\n\t\t\t<i>Shabbat</i> 5:8; <i>Shulĥan Arukh, Oraĥ Ĥayyim</i> 264:7).",
+              "he": "אין מדליקים נר לשבת אלא משמן הנמשך אחר הפתילה. כפי הרשימה שבמשנה. ואפילו אין לו שמן אחר אלא מאותם שמנים פסולים — לא ידליק בו כלל אף שבכך בטל הוא מן המצוה (פמ\"ג). (רמב\"ם ספר זמנים הלכות שבת פ\"ה ה\"ח. שו\"ע או\"ח רסד, סעיף ג).",
+              "ref": "Steinsaltz comment #2 on Shabbat 20b:14",
+              "sourceHeRef": "מַהוּ דְּתֵימָא לִפְתִילוֹת נַמִי לָא חַזְיָא",
+              "sourceRef": "Lest you say it is also unfit for use for wicks"
+            },
+            {
+              "en": "",
+              "he": "צמר ושיער אין לעשות מהם פתילות לנר שבת. כדברי הברייתא. (רמב\"ם ספר זמנים הלכות שבת פ\"ה ה\"ה. שו\"ע או\"ח רסד, סעיף א).",
+              "ref": "Steinsaltz comment #3 on Shabbat 20b:14",
+              "sourceHeRef": "הוסיפו עליהן של צמר ושל שער<EM>",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "נר שהוא עצמו עשוי שעוה נוקשה, או זפת, או חלב הכרוכים סביב פתילה (כשרה. מ\"ב), מותר להדליקו בשבת. ונפסלו חמרים אלה רק כשהם כשמנים בלבד. כביאור הגמרא. (רמב\"ם ספר זמנים הלכות שבת פ\"ה ה\"ח. שו\"ע או\"ח רסד, סעיף ז).",
+              "ref": "Steinsaltz comment #4 on Shabbat 20b:14",
+              "sourceHeRef": "מהו דתימא לפתילות נמי לא חזיא",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עד כאן פסול פתילות מכאן ואילך פסול שמנים</strong> - בני נרבונא אוסרין נר שעוה שלנו ומפרשי הכי מהו דתימא לפתילות נמי לא שאם שם נר שעוה בנר שמן יהא אסור קמ\"ל מכאן ואילך פסול שמנים כיון שיש בו שמן כשר מותר אבל נר של שעוה בלא שמן אסור להדליק ולי נראה דאם אסור להדליק בלא שמן כי הניחה בשמן נמי אסור כדאמרינן לקמן כרך דבר שמדליקין על גבי דבר שאין מדליקין דאסור אלא ודאי כי לא הניח בשמן נמי שרי:",
+              "ref": "Tosafot on Shabbat 20b:14:1",
+              "sourceHeRef": "תוספות על שבת כ׳ ב:יד:א",
+              "sourceRef": "Tosafot on Shabbat 20b:14:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> we learned in the mishna that one may <b>not</b> use <b><i>zefet</i></b> or <i>sha</i>’<i>ava</i> as fuel in lighting the Shabbat lamp. The Gemara explains that <b><i>zefet</i></b> is <b>pitch,</b> and <b><i>sha</i>’<i>ava</i></b> is <b>wax. It was taught</b> in a <i>baraita</i>: <b>Until this point,</b> the word <i>zefet</i>, the mishna is dealing with <b>disqualification</b> of materials unfit for use as <b>wicks,</b> and <b>from this point on</b> it is dealing with <b>disqualification</b> of substances unfit for use as <b>oils.</b> The Gemara asks: <b>Obviously,</b> a wick cannot be made from pitch and similar materials. The Gemara answers: <b>It was necessary</b> for the mishna to mention <b>wax, lest you say</b> that it is <b>also unfit for use</b> as a coating <b>for wicks,</b> in the manner that wicks are usually made. <b>Therefore, it teaches us</b> that even though wax is unfit for use as oil, it is fit for use as coating for wicks.",
+      "he": "וְלֹא בְּזֶפֶת. זֶפֶת — זִיפְתָּא, שַׁעֲוָה — קִירוּתָא. תָּנָא: עַד כָּאן פְּסוּל פְּתִילוֹת, מִכָּאן וְאֵילָךְ פְּסוּל שְׁמָנִים. פְּשִׁיטָא! שַׁעֲוָה אִיצְטְרִיכָא לֵיהּ. מַהוּ דְּתֵימָא לִפְתִילוֹת נָמֵי לָא חַזְיָא, קָא מַשְׁמַע לַן.",
+      "ref": "Shabbat 20b:14",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">עִטְרָנָא</strong>, <strong dir=\"rtl\">עִי׳</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, עִטְרָן 1\" href=\"/Jastrow,_עִטְרָן.1\">same</span>. <span class=\"refLink\" data-ref=\"Shabbat 20b:15\" href=\"/Shabbat.20b.15\">Shabbat 20ᵇ</span> ע׳ פסולתא דזיפתא <i>ʿiṭrana</i> is the oily residue of pitch."
+              ],
+              "he": [],
+              "ref": "Jastrow, עִטְרָנָא 1",
+              "sourceHeRef": "מילון יסטרוב, עִטְרָנָא א׳",
+              "sourceRef": "Jastrow, עִטְרָנָא 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פסולתא דזיפתא</strong> - לאחר שיוצא הזפת מן העץ זב ממנו על ידי האור פסולת צלול כשמן והוא עיטרן:",
+              "ref": "Rashi on Shabbat 20b:15:1",
+              "sourceHeRef": "רש\"י על שבת כ׳ ב:טו:א",
+              "sourceRef": "Rashi on Shabbat 20b:15:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רמי בר אבין: עטרנא פסולתא דזיפתא</b> <span class=\"hebrew-emphasis\">[העיטרן</span> הוא <span class=\"hebrew-emphasis\">פסולת הזפת],</span> שכאשר מבעירים עצים להוציא מהם זפת זבה אחר הזפת תמצית בהירה יותר, והיא העיטרן. וכן <b>שעוה</b> היא <b>פסולתא דדובשא</b> <span class=\"hebrew-emphasis\">[פסולת הדבש].</span>",
+              "ref": "Steinsaltz on Shabbat 20b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על שבת כ׳ ב:טו",
+              "sourceRef": "Steinsaltz on Shabbat 20b:15"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rami bar Avin said: Tar [<i>itran</i>]</b> is the <b>by-product of pitch.</b> When wood is burned to extract pitch, a clearer liquid oozes out after the pitch, and that is tar. Similarly, <b>wax</b> is the <b>by-product of honey.</b>",
+      "he": "אָמַר רָמֵי בַּר אָבִין: עִטְרָנָא — פְּסוּלְתָּא דְזִיפְתָּא. שַׁעֲוָה — פְּסוּלְתָּא דְּדוּבְשָׁא.",
+      "ref": "Shabbat 20b:15"
+    }
+  ],
+  "title": "Shabbat 20b",
+  "titleHebrew": "שבת כ,ב",
+  "topics": []
+}

@@ -1,0 +1,983 @@
+{
+  "id": "87a",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "It is forbidden to hire a worker in the early winter to perform tasks in the later winter at a <i>dinar</i> a day and give him the money in advance, when a worker's wage in the winter is ordinarily a <i>sela.</i> The rationale is that it appears that he is giving him a loan immediately so that he will later reduce his wages.<br>It is, however, permissible for an employer to tell a worker: \"Work for me from today until this and this time at a <i>dinar</i> a day,\" even though his wages would ordinarily be a <i>sela</i> a day. The rationale is that since he already began working, the worker is not considered to be receiving benefit for money that was paid to him in advance.",
+              "he": "הַשּׂוֹכֵר אֶת הַפּוֹעֵל בִּימֵי הַחֹרֶף לַעֲשׂוֹת עִמּוֹ בִּימֵי הַקֹּר בְּדִינָר בְּכָל יוֹם וְנָתַן לוֹ הַשָּׂכָר וַהֲרֵי שְׂכָרוֹ שָׁוֶה בִּימֵי הַחֹרֶף סֶלַע בְּכָל יוֹם הֲרֵי זֶה אָסוּר מִפְּנֵי שֶׁנִּרְאֶה כְּמַלְוֶה אוֹתוֹ הַיּוֹם כְּדֵי שֶׁיּוֹזִיל לוֹ בִּשְׂכָרוֹ. אֲבָל אִם אָמַר לוֹ עֲשֵׂה עִמִּי מֵהַיּוֹם וְעַד זְמַן פְּלוֹנִי בְּדִינָר בְּכָל יוֹם אַף עַל פִּי שֶׁשָּׁוֶה שְׂכָרוֹ סֶלַע בְּכָל יוֹם הֲרֵי זֶה מֻתָּר הוֹאִיל וְהוּא מַתְחִיל לַעֲשׂוֹת מֵעַתָּה אֵינוֹ נִרְאֶה כְּנוֹטֵל שְׂכַר מְעוֹתָיו שֶׁהִקְדִּים וּנְתָנָן לוֹ בִּשְׂכָרוֹ:",
+              "ref": "Mishneh Torah, Creditor and Debtor 7:12",
+              "sourceHeRef": "הלכות מלווה ולווה ז:יב",
+              "sourceRef": "Creditor and Debtor 7:12"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולגורן יפה</strong> - שכרו סלע בכל יום שבסלע היה יכול להשכיר עצמו אבל בשביל הקדמת המעות אוזיל גביה:",
+              "ref": "Rashbam on Bava Batra 87a:1:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:א:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור</strong> - משום דמיחזי כי אגר נטר לי שנותן לו זה הפועל סלע בימות הגורן בשביל דינר שנתן לו בניסן והמתין לו עד עכשיו:",
+              "ref": "Rashbam on Bava Batra 87a:1:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:א:ב",
+              "sourceRef": "Rashbam on Bava Batra 87a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל אם שכרו מהיום</strong> - מאה יום במאה דינר ונתן לו שכרו עכשיו ולגורן היה יכול להשתכר הפועל בסלע דהיינו ד' דינרין ליום כיון שמאותו היום ששכרו עושה עמו מותר שכל פעולת המאה ימים כיום אחד ארוך דמיין ולא הוי אגר נטר לי שהרי מיד התחיל בפעולתו וכמו שהתחיל בפעולת ימי הגורן דמי והא הכא דכי כור בשלשים סאה בסלע הוא שהרי הזכיר לתת לו דינר ליום ולא קאמר ליה סתמא עד ימות הגורן אני שוכרך במאה דינר ואפי' הכי קתני מותר וחייב להשלים וקשיא להני דאמרי ראשון ראשון קנה והשאר לא קנה וכיון שזה לא קנה אמאי מותר הא כיון דיכול לחזור בו דכל יום ויום חשוב מכירה בפני עצמה הוי נמי אגר נטר לי לענין ימות הגורן שהרי בניסן נתן לו שכר ימות הגורן ואינהו לא חיילי עד שיגיע ימות הגורן:",
+              "ref": "Rashbam on Bava Batra 87a:1:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:א:ג",
+              "sourceRef": "Rashbam on Bava Batra 87a:1:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "Quand, en hiver, les journées sont payées un dinar, il est interdit de payer d’avance en hiver un ouvrier, pour qu’il travaille en été au prix d’un dinar par jour au lieu d’un séla, en récompense de ce qu’il a reçu son salaire avant d’avoir fourni son travail. Mais si le patron embauche l’ouvrier pour l'hiver et l’été, et lui avance le salaire qu’il devra recevoir en été, il est permis de payer pour toutes les journées un prix égal; la diminution de prix d’une journée d’été ne provient pas alors de ce que le patron a avancé l’argent, mais de ce qu’il emploie l’ouvrier hiver comme été.",
+              "he": "השוכר את הפועל בימות החורף לעשות עמו בימות הקיץ בדינר ליום ומקדים לו שכרו מעתה ושכרו שוה בימות הקיץ סלע ליום אסור אבל אם אמר לו עשה עמי מלאכה מהיום ועד זמן פלוני בדינר ביום מותר דכיון שמתחיל לעשות עמו מעתה אינו נראה כנוטל שכר מעותיו שמקדים לו:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 176:8",
+              "sourceHeRef": "יורה דעה קעו:ח - איזה השכרה מותרת ואיזה אסורה.",
+              "sourceRef": "Yoreh De'ah 176:8"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ול</b>מלאכה זו בזמן ה<b>גורן יפה</b> (שווה) השכר הוא <b>סלע</b> (ארבעה דינרים) ליום — <b>אסור להנות הימנו,</b> כלומר, אסור שיעבוד הפועל עמו באופן זה, משום שהוא כעין ריבית, שהפועל משיב לבעלים בעבודה יקרה יותר תמורת הכסף הניתן לו מוקדם יותר. <b>אבל אם שכרו</b> כבר <b>מהיום</b> לעבוד עבורו <b>בדינר ליום</b> למשך זמן ממושך, עד ימות הגורן, אף על פי ש<b>לגורן</b> יהא שכרו <b>יפה סלע</b> — <b>מותר.</b>",
+              "ref": "Steinsaltz on Bava Batra 87a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:א",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The reason for the discrepancy in a worker’s wages during the harvest and during the winter is that in the winter there is not much work, whereas during the harvest there is a great demand for laborers. In this case, the laborer agrees to be paid less in exchange for receiving his wages in advance.",
+              "he": "שבעונת החורף יש מעט עבודה לפועלים, ולפיכך נשכרים הם בסכום מועט. אבל בזמן הגורן העבודה מרובה, והפועלים נחוצים, ולכן מקבלים שכר גבוה בהרבה. ופועל זה הוזיל משכרו משום שהקדים ושילם לו מראש.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 87a:1",
+              "sourceHeRef": "וְלַגּוֹרֶן יָפֶה סֶלַע",
+              "sourceRef": "And during the harvest it is worth a <i>sela</i>"
+            },
+            {
+              "en": "Most commentaries accept a version of the text that simply states that this is prohibited, i.e., one may not establish this type of arrangement with a laborer. According to the standard version of the text, which states that it is prohibited to derive benefit from him, this means that the owner of the field is prohibited from deriving benefit from the laborer’s work in the summer. Likewise, it is prohibited for the laborer to take this money, as this arrangement is tantamount to interest, and it is prohibited both to give interest and to accept it.",
+              "he": "כיון שמתחיל לעבוד מאותו יום ששכרו בו, הרי כל הזמן שנשכר בו נחשב כיום ארוך אחד, ומשום כך אינו דומה לריבית.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 87a:1",
+              "sourceHeRef": "אָסוּר לֵהָנוֹת הֵימֶנּוּ",
+              "sourceRef": "It is prohibited to derive benefit from him"
+            }
+          ]
+        }
+      },
+      "en": "<b>and</b> a day of a laborer’s work during the <b>harvest is worth a <i>sela</i>,</b> the equivalent of four silver dinars, for each day, it is <b>prohibited to</b> derive <b>benefit from him,</b> i.e., one may not employ the laborer under these conditions. The reason is that this is akin to taking interest, as the laborer works and receives less than he is entitled to in exchange for early payment. <b>But if one hires him</b> already <b>from now</b> to work <b>for</b> one <b>dinar a day</b> for an extended period of time, including the harvest season, <b>and</b> the work of a laborer during the <b>harvest is worth a <i>sela</i>,</b> this is <b>permitted.</b>",
+      "he": "וְלַגּוֹרֶן יָפֶה סֶלַע – אָסוּר לֵהָנוֹת הֵימֶנּוּ. אֲבָל אִם שְׂכָרוֹ מֵהַיּוֹם בְּדִינָר לְיוֹם, וְלַגּוֹרֶן יָפֶה סֶלַע – מוּתָּר.",
+      "ref": "Bava Batra 87a:1"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> ואי ס\"ד ראשון כו' כל שהוא קני כל מה שעליה כו' כצ\"ל:",
+              "ref": "Chokhmat Shlomo on Bava Batra 87a:1",
+              "sourceHeRef": "חכמת שלמה על בבא בתרא פ״ז א:א",
+              "sourceRef": "Chokhmat Shlomo on Bava Batra 87a:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואי סלקא דעתך</b> <span class=\"hebrew-emphasis\">[ואם עולה על דעתך]</span> כמו שאמרו רב ושמואל, ש<b>\"כור בשלשים, סאה בסלע אני מוכר לך\"</b> — <b>ראשון ראשון קנה,</b> שכל סאה נקנית לעצמה, <b>הכא נמי</b> <span class=\"hebrew-emphasis\">[כאן גם כן]</span> כששכרו מהיום, נאמר: <b>קמא קמא מיפסק פסק</b> <span class=\"hebrew-emphasis\">[ראשון ראשון פוסק</span> הוא<span class=\"hebrew-emphasis\">],</span> כלומר, אין זה תשלום אחד גדול, שהרי קוצב לו שכר לכל יום בנפרד, ונמצא איפוא שהוא כמשלם ריבית עבור הקדמת התשלום, <b>ואסור להנות הימנו</b> (ממנו), ולפיכך מה ששנו בברייתא <b>\"מ</b> היום ב<b>דינר ליום ולגורן יפה סלע</b> — <b>מותר, אמאי</b> <span class=\"hebrew-emphasis\">[מדוע]?</span> <b>והא אגר</b> <span class=\"hebrew-emphasis\">[והרי שכר]</span> <b>\"נטר</b> <span class=\"hebrew-emphasis\">[המתן]</span> <b>לי\" הוא!</b>",
+              "ref": "Steinsaltz on Bava Batra 87a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:ב",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The text of the Gemara here is apparently unnecessarily repetitive, and it is probably a combination of two versions of the exact same question. Some commentaries adjust the text so that it states only one question (Rashash). In any case, the difficulty is as follows: Certainly if he had hired the laborer with a set wage for an extended period of time, e.g., a certain amount of money for six months, this arrangement would be permitted. But in this case he states explicitly how much he will pay him for each separate day. Moreover, as the laborer can stop working for him at any point, he is not hired for one long period of time but by individual one-day units. Therefore, during the harvest he effectively pays the worker less than his work is worth because he paid him in advance.",
+              "he": "בגרסת הגמרא שלנו נצטרפו כנראה שני ניסוחים של אותה שאלה עצמה (וראה ברש\"ש שהגיה וצירפן לשאלה אחת), והיא: ודאי אם היה אומר ששוכרו בבת אחת לזמן ממושך, כגון לחצי שנה, היה שכרו מותר, אולם כאן הרי פירש לפועל מה יהא שכרו בכל יום לחוד. ועוד, שכיון שפועל יכול לחזור בו ולא להמשיך לעבוד, נמצא שכל יום שעובד הוא כיחידה נבדלת לעצמה, ולפי זה בזמן הגורן נמצא מוזיל לו מן השכר, לפי שהקדים ושילם מראש.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 87a:2",
+              "sourceHeRef": "מִדִּינָר לְיוֹם וכו׳",
+              "sourceRef": "For one dinar a day, etc."
+            }
+          ]
+        }
+      },
+      "en": "<b>And if it enters your mind,</b> as <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> and <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> claim, that if a seller said: <b>I am selling you one <i>kor</i> for thirty</b> <i>sela</i>, each <b><i>se’a</i> for one <i>sela</i>,</b> he cannot fully renege on the sale in the middle of the transaction, as the buyer <b>acquires</b> each <i>se’a</i> <b>one</b> by <b>one</b> as it is measured, then the <i>halakha</i> in this case should be different. <b>Here too,</b> as he does not agree to one large sum but <b>fixes</b> a price for each day, <b>one</b> by <b>one,</b> it is akin to taking interest, as the laborer works and receives less than he is entitled to in exchange for early payment. <b>And</b> therefore, it should be <b>prohibited to</b> derive <b>benefit from him.</b> Whereas the <i>baraita</i> states: If one hires him from now to work <b>for</b> one <b>dinar a day</b> over an extended period of time, including the harvest, <b>and</b> one day of a laborer’s work during the <b>harvest</b> is <b>worth one <i>sela</i>,</b> this is <b>permitted. Why</b> is it permitted? <b>But isn’t it payment for waiting,</b> i.e., for advancing the money to the laborer?",
+      "he": "וְאִי סָלְקָא דַּעְתָּךְ ״כּוֹר בִּשְׁלֹשִׁים, סְאָה בְּסֶלַע אֲנִי מוֹכֵר לָךְ״ – רִאשׁוֹן רִאשׁוֹן קָנָה; הָכָא נָמֵי – קַמָּא קַמָּא מִיפְסָק פְּסַק, וְאָסוּר לֵהָנוֹת הֵימֶנּוּ; מִדִּינָר לְיוֹם וְלַגּוֹרֶן יָפֶה סֶלַע – מוּתָּר?! אַמַּאי? וְהָא אֲגַר ״נְטַר לִי״ הוּא!",
+      "ref": "Bava Batra 87a:2"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> ותסברא זלזולי בשכירות מי אסור.</b> פירש מורי ז\"ל, דכיון שגוף הפועל בעולם הרי הוא כמוכר חפץ בפחות מכדי דמיו למסור לו החפץ לאחר שלשים יום, דכיון שהחפץ בידו כזלזולי בדמיו הוא ושרי. וכן ודאי נראה כדבריו, דהא שרינן אפילו בהלויני עד שיבא בני או עד שאמצא מפתח ובדלועין דאזלי בגיזרתא זרתא בזוזי בשוקא וקאמר ליה אנא יהיבנא לך בני גרמידא דכיון דמנפשייהו קא רבו כעד שיבא בני או עד שאמצע מפתח, וכל שכן כאן שישנו לחפץ בעולם וכן גופו של פועל. אלא דמשום שפועל יכול לחזור בו אמרו ברישא דלא קא עביד בהדיה אסור דמחזי כרבית. וכתב מורי ז\"ל דדוקא בפועל הוא דאסרו בדלא קא עביד מהשתא בהדיה, דמחזיר כרבית הואיל ולא משתעבד פועל לגמרי מהשתא, דהא יכול לחזור בו, אבל בשכירות קרקע שזוכה בו מהשתא זכייה גמורה, שרי למימר ליה מהשתא בדינר ולקמיה יפה סלע.",
+              "ref": "Rashba on Bava Batra 87a:1",
+              "sourceHeRef": "רשב״א על בבא בתרא פ״ז א:א",
+              "sourceRef": "Rashba on Bava Batra 87a:1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ותסברא</strong> - דליהוי אסור וכי זלזולי בשכירות מי אסור בתמיה ואפי' היכא דהקדים לו הדינר מניסן ולא עשה עמו עד לגורן מדאורייתא שרי דלא דמי לא להלואה ולא למקח וממכר דאית ביה אונאה וביטול מקח דהתם ודאי כי מוזיל גביה מכדי שויו בשביל הקדמת המעות נמצא שנותן לו יותר מכדי הדמים שקבל אבל שכר טרחו של אדם ליכא אגר נטר לי דדרך פועל להשכיר עצמו בכל שהוא כשאין לו מה יאכל וכל מה שמקבל הפועל מבעל הבית ריוח הוא אצלו והלכך הך סיפא ליכא צד רבית כלל והיינו דקפריך מ\"ש רישא ומ\"ש סיפא כיון דזלזולי בשכירות שרי רישא אמאי אסור ליהנות ממנו:",
+              "ref": "Rashbam on Bava Batra 87a:3:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ג:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:3:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "תנן התם נכסים שיש להן אחריות נקנין בכסף ושטר וחזקה ושאין להן אחריות אין נקנין אלא במשיכה. אמר רבה לא שנו אלא דברים שאין דרכן להגביה אבל דברים שדרכן להגביה בהגבהה אין אבל במשיכה לא ודברים שאין דרכן להגביה אי אגבהינהו קננהו אע\"פ שאין דרכן בכך דהא אוקימנא לההוא דהגונב כיס בשבת במידי דבעי מיתנא ואפ\"ה קני לה בהגבהה דהא קתני הגונב כיס בשבת חייב שכבר נתחייב בגניבה קודם שיבא לידי איסור שבת שקנאו בהגבהה קודם שהוציאו: רב ושמואל דאמרי תרוייהו כור בשלשים אני מוכר לך יכול לחזור בו אפילו בסאה אחרונה כור בשלשים סאה בסלע אני מוכר לך ראשון ראשון קנה. ואע\"ג דאמר במתני' משך ולא מדד קנה שאני הכא שפירש כור אני מוכר לך שגילה בדעתו שלא רצה שיגמר המכר אלא בבת אחת כי היה צריך לדמי כור שלם: ואם היה מחובר וכו' ומשום דתלש ממנו כל שהוא קני אמר רב ששת הב\"ע דאמר ליה יפה לי קרקע כל שהוא וקני כל מה שעליה:",
+              "ref": "Rosh on Bava Batra 5:17:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ה:יז:א",
+              "sourceRef": "Rosh on Bava Batra 5:17:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא: ותסברא</b> <span class=\"hebrew-emphasis\">[ו</span>כי <span class=\"hebrew-emphasis\">סבור אתה]</span> ש<b>זלזולי</b> <span class=\"hebrew-emphasis\">[לזלזל]</span> <b>בשכירות מי אסיר</b> <span class=\"hebrew-emphasis\">[האם אסור]?</span> האם אדם אינו רשאי לזלזל בשכר עבודתו ולקבל פחות כאשר הוא רוצה להבטיח לעצמו עבודה? ואם כן, אין כאן בעצם איסור ריבית כלל! ושואלים: אם אין בכך איסור ריבית, <b>מאי שנא רישא ומאי שנא סיפא</b> <span class=\"hebrew-emphasis\">[מה שונה בתחילה,</span> כשלא אמר \"מהיום\", שאסור הדבר, <span class=\"hebrew-emphasis\">ומה שונה בסוף]?</span>",
+              "ref": "Steinsaltz on Bava Batra 87a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:ג",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Rava is explaining why this is not classified as interest by Torah law, as it is not a loan that must be repaid with interest. It also cannot be categorized as a sale that involves exploitation, despite the fact that the laborer is paid less than the standard price. The reason is that there is no absolute value to a laborer’s work, as one might work for less than the usual rate if he is in need of money (Rashbam). Others explain that the <i>halakha </i>here is no different than that of one who sells an item on the condition that he will deliver it at a later point in time. In that case, although he lowers the price to reflect the late delivery of the product, this is not considered interest because the item belongs to the buyer at the time. So too, here the laborer sells his labor to the owner of the field at this point in time and receives his wages even though he will provide his services only at a later stage. Since the sale of his labor is effective immediately, the labor that he later provides is not akin to paying interest (Rabbeinu Yona).",
+              "he": "כלומר, רבא רוצה לומר שאין בכך איסור ריבית מן התורה כלל, לפי שאין זו הלוואה שאסור לשלם עליה ריבית. ואף אין לומר שיש כאן מכר שיש בו צד אונאה. שהרי אף שמוזיל מן השכר, הרי באמת אין קיצבה גמורה לשכר, ופועל המזדקק לעבודה משכיר עצמו אף בפחות, לפי צרכיו (רשב\"ם). ובאופן אחר מסביר הרמ\"ה שכל איסור שכר הקדמת מעות מבוסס על דין אונאה במכר, שכיון שאם היה המוכר חוזר בו יכול היה לתבוע ממנו את הכסף, נמצא שמוחל על דבר מה תמורת הקדמת המעות. אבל כאן אין לומר שיש בכך משום אונאה, משום שגם אם רואים את השכירות כעין מכר לזמן מוגבל, הרי זה בהשכרה של חפץ או בהמה, אבל לא בשכר עבודה, ואף אם היה נידון כעבד — הרי אין אונאה בקרקעות ובעבדים. ורבינו יונה מסביר שדין פועל זה הוא כדינו של אדם המוכר חפץ על מנת שיתן לו אותו לאחר זמן, ומפחית מן המחיר משום הקדמת הזמן, שאין זה קרוי ריבית משום שהחפץ כבר שלו (שאין אסור אלא כאשר אין חפץ זה בעולם כלל). ואף שהפועל משכיר עצמו ומוכר את עבודתו בעתיד, מכל מקום כיון שגוף הפועל מצוי בעין הרי זו כשכירות שכבר החלה מעכשיו.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 87a:3",
+              "sourceHeRef": "זִלְזוּלֵי בִּשְׂכִירוּת וכו׳",
+              "sourceRef": "Lower his hiring price, etc."
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: And</b> how can <b>you understand</b> the <i>baraita</i> in that manner? <b>Is it prohibited</b> for one <b>to lower</b> his <b>hiring</b> price and receive lower wages in order to ensure that he is employed? This arrangement is not a form of interest and violates no prohibition. The Gemara asks: If this is not considered taking interest, then <b>what is different</b> in <b>the first clause,</b> where the laborer is not employed immediately and this arrangement is prohibited, <b>and what is different</b> in <b>the latter clause,</b> where it is permitted?",
+      "he": "אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: וְתִסְבְּרָא?! זַלְזוֹלֵי בִּשְׂכִירוּת מִי אֲסִיר?! מַאי שְׁנָא רֵישָׁא וּמַאי שְׁנָא סֵיפָא?",
+      "ref": "Bava Batra 87a:3"
+    },
+    {
+      "commentary": {
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומשני רישא</strong> - חומרא בעלמא הוא דכיון דלא קעביד בהדיה מלאכה עד שיבא הגורן והוא כבר נתן המעות מקודם מחזי כרבית:",
+              "ref": "Rashbam on Bava Batra 87a:4:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ד:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>רישא דלא קא עביד בהדיה מהשתא</b> <span class=\"hebrew-emphasis\">[בתחילה,</span> כיון <span class=\"hebrew-emphasis\">שאינו עובד איתו מעכשיו]</span> <b>מיחזי כי אגר</b> <span class=\"hebrew-emphasis\">[נראה</span> הדבר <span class=\"hebrew-emphasis\">כמו שכר]</span> <b>\"נטר</b> <span class=\"hebrew-emphasis\">[המתן]</span> <b>לי\",</b> <b>סיפא דקא עביד בהדיה מהשתא, לא מיחזי כי \"אגר נטר</b> <span class=\"hebrew-emphasis\">[בסוף,</span> כיון <span class=\"hebrew-emphasis\">שהוא עובד אצלו מעכשיו, אינו נראה כמו שכר המתן]</span> <b>לי\".</b>",
+              "ref": "Steinsaltz on Bava Batra 87a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:ד",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Even in the first clause, they have not violated the Torah prohibition of interest. Rather, this agreement has the appearance of interest, as the basic definition of interest is that the creditor is paid in exchange for waiting for payment and not demanding it immediately.",
+              "he": "כלומר, אף ברישא אין איסור גמור, אלא שנראה הדבר כריבית. והכלל של ריבית הוא שמוסיף על הסכום משום שבעל הממון ממתין לו בפרעון ואינו תובעו מיד (\"אגר נטר\").",
+              "ref": "Steinsaltz comment #1 on Bava Batra 87a:4",
+              "sourceHeRef": "מִיחֲזִי כִּי אֲגַר נְטַר לִי",
+              "sourceRef": "It has the appearance of payment for waiting"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains: In <b>the first clause, as</b> the laborer <b>does not work with him from now, it has the appearance of payment for waiting,</b> i.e., advancing the money to the laborer. In <b>the latter clause, as</b> the laborer <b>works with him from now, it does not have the appearance of payment for waiting.</b>",
+      "he": "רֵישָׁא דְּלָא קָא עָבֵיד בַּהֲדֵיהּ מֵהַשְׁתָּא, מִיחֲזֵי כִּי אֲגַר ״נְטַר לִי״; סֵיפָא דְּקָא עָבֵיד בַּהֲדֵיהּ מֵהַשְׁתָּא, לָא מִיחֲזֵי כִּי אֲגַר ״נְטַר לִי״.",
+      "ref": "Bava Batra 87a:4"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following laws apply when flax is attached to the earth, but is dry and no longer needs the nurture of the earth. If the owner tells another person: \"Clean the smallest portion of this land for me, and acquire it as a rental property together with all the flax on the entire surrounding field, once he uproots even the slightest amount, the renter acquires the entire quantity, on the basis of this stipulation.<br>If, however, the original owner transferred ownership over the flax through a sale or a gift, the recipient acquires only what he uproots, for that is what he has lifted up. The same principles apply in other analogous situations.",
+              "he": "פִּשְׁתָּן כְּשֶׁהוּא מְחֻבָּר לַקַּרְקַע וְיָבֵשׁ שֶׁאֵינוֹ צָרִיךְ לַקַּרְקַע וְאָמַר לוֹ יַפֶּה לִי קַרְקַע כָּל שֶׁהוּא וּקְנֵה כָּל מַה שֶּׁעָלֶיהָ. כֵּיוָן שֶׁתָּלַשׁ כָּל שֶׁהוּא קָנָה הַכּל מִפְּנֵי הַתְּנַאי הַזֶּה. אֲבָל אִם (אָמַר לוֹ) הִקְנָה לוֹ הַפִּשְׁתָּן הַזֶּה בְּמֶכֶר אוֹ בְּמַתָּנָה לֹא קָנָה אֶלָּא מַה שֶּׁתָּלַשׁ שֶׁהֲרֵי הִגְבִּיהוֹ. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Sales 3:18",
+              "sourceHeRef": "הלכות מכירה ג:יח",
+              "sourceRef": "Sales 3:18"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>משום דתלש כל שהוא קנה.</b> כלומר, כמטלטלי נינהו, דהעומד לתלוש כתלוש דמי, ואינו קונה עד שיתלוש את כולו. ואוקמה רב ששת כגון דאמר ליה לך ויפה לי קרקע כל שהוא באותה תלישה, ובשכר יפוי זה קנה הקרקע וקנה אגבו כל מה שעליו. ולפי זה איצטריכא למימר דיש בשכר אותה תלישה כדי שוה פרוטה, דקרקע נקנה בכסף, ושוה פרוטה מיהא בעינן. אבל ר\"ש ז\"ל פירש, החזק בקרקע באותו יפוי, וכדאמרינן בשילהי פרק חזקת הבתים <span class=\"parenthesized\">(בבא בתרא נד, א)</span> האי מאן דזכי זכיה אדעתא דארעא קני אדעתא דציבי לא קני, וכיון דקנה הקרקע קנה רכל המחובר לקרקע, שכל המחובר בקרקע כקרקע. וכתב הרמב\"ן ז\"ל: לפי פירוש זה צריך להעמידה בשאינו עומד ליתלש. ולא ידעתי למה, דאפילו במוכר את השדה מכר את התבואה שהגיעה ליקצר, וכדאיתא בפרק המוכר <span class=\"parenthesized\">(לעיל בבא בתרא ס\"ט ע\"א)</span>, וכל שכן אי מוקמי לה בנותן מתנה דאפילו בתלושה יש לומר דקנה דומיא דבור ומימיו.",
+              "ref": "Rashba on Bava Batra 87a:2",
+              "sourceHeRef": "רשב״א על בבא בתרא פ״ז א:ב",
+              "sourceRef": "Rashba on Bava Batra 87a:2"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומתמהין משום דתלש כל שהוא</strong> - מן הפשתן קנה כל השאר המחובר בקרקע ואמאי מי קני האי במשיכה דהאיך:",
+              "ref": "Rashbam on Bava Batra 87a:5:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ה:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דא\"ל</strong> - מוכר ללוקח:",
+              "ref": "Rashbam on Bava Batra 87a:5:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ה:ב",
+              "sourceRef": "Rashbam on Bava Batra 87a:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לך ויפה לך קרקע כל שהוא</strong> - כך כתוב בספרים ישנים כלומר לך והחזק בקרקע לקנות פשתן המחובר בה דקרקע נקנה בחזקה וכל המחובר לקרקע הרי הוא כקרקע ואתא מתני' לאשמועינן דחזקת קרקע מהני לפשתן ואע\"ג דלא זבין ליה ארעא ואשמועינן נמי חזקה קלה דבלקיטת הפשתן מקצתו יכול לקנות השאר המחובר וכגון דא\"ל המוכר לקט מן הפשתן עצמו קצת ויתייפה הקרקע ויהיה נקי לחרישה כדאמרינן בחזקת הבתים <span class=\"parenthesized\">(לעיל בבא בתרא דף נד.)</span> האי מאן דזכי זיכיא אדעתא דארעא קני וה\"נ אם לקט מן הפשתן קצת ונתכוין לקנות הקרקע קני לה לקנות כל מה שעליה כן נראה בעיני:",
+              "ref": "Rashbam on Bava Batra 87a:5:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ה:ג",
+              "sourceRef": "Rashbam on Bava Batra 87a:5:3"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> This mishna discusses several methods of acquiring movable property. With regard to <b>one who sells produce to another,</b> if the buyer <b>pulled</b> the produce <b>but did not measure</b> it, <b>he has acquired</b> the produce through the act of acquisition of pulling. If <b>he measured</b> the produce <b>but did not pull</b> it, <b>he has not acquired</b> it, and either the seller or the buyer can decide to rescind the sale. <b>If</b> the buyer <b>is perspicacious</b> and wants to acquire the produce without having to pull it, and he wishes to do so before the seller could change his mind and decide not to sell, <b>he rents its place,</b> where the produce is located, and his property immediately effects acquisition of the produce on his behalf.",
+                "With regard to <b>one who buys flax from another,</b> because flax is usually carried around <b>this</b> purchaser <b>has not acquired</b> it <b>until he carries it from place to place</b> and acquires it by means of the act of acquisition of lifting. Pulling the flax is ineffective. <b>And if it was attached to the ground, and he detached any amount,</b> he has <b>acquired</b> it, as the Gemara will explain."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 84b:5",
+                "Bava Batra 84b:6"
+              ],
+              "he": [
+                "<big><strong>מַתְנִי׳</strong></big> הַמּוֹכֵר פֵּירוֹת לַחֲבֵירוֹ, מָשַׁךְ וְלֹא מָדַד – קָנָה. מָדַד וְלֹא מָשַׁךְ – לֹא קָנָה. אִם הָיָה פִּיקֵּחַ – שׂוֹכֵר אֶת מְקוֹמָן.",
+                "הַלּוֹקֵחַ פִּשְׁתָּן מֵחֲבֵירוֹ – הֲרֵי זֶה לֹא קָנָה, עַד שֶׁיְּטַלְטְלֶנּוּ מִמָּקוֹם לְמָקוֹם. וְאִם הָיָה מְחוּבָּר לַקַּרְקַע, וְתָלַשׁ כׇּל שֶׁהוּא – קָנָה."
+              ],
+              "link": "/Bava Batra/84b",
+              "ref": "Bava Batra 84b:5-6",
+              "sourceHeRef": "unused",
+              "sourceRef": "Bava Batra 84b:5-6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו במשנה ש<b>אם היה</b> הפשתן <b>מחובר בקרקע ותלש כל שהוא</b> — <b>קנה.</b> ושואלים: <b>משום</b> ש<b>תלש כל שהוא קנה?</b> הרי לא עשה מעשה קנין בכל הפשתן, וכיצד קונהו? <b>אמר רב ששת: הכא במאי עסקינן</b> <span class=\"hebrew-emphasis\">[כאן במה אנו עוסקים]</span> — <b>דאמר ליה</b> <span class=\"hebrew-emphasis\">[שאמר לו]</span> המוכר: <b>לך, יפה</b> (נקה) <b>לך קרקע כל שהוא, ו</b>בכך <b>קני כל מה שעליה,</b> שעל ידי עבודתו בתלישת הפשתן הוא נחשב כשוכר את הקרקע, ואגב כך קונה כל מה שעליה.",
+              "ref": "Steinsaltz on Bava Batra 87a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:ה",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The commentaries explain that at this point, the Gemara does not assume, as Rav Sheshet will, later in the discussion, that the mishna is referring to an action that involves the ground itself. Rather, this is an act of acquisition to acquire the flax. The Gemara therefore asks how detaching a bit of the flax can cause one to acquire all of the flax that is attached to the ground (Rashbam). Others add that the mishna is referring to flax that is ready to be detached, i.e., that has finished growing. In this case, although it is still attached to the ground, it is treated as movable property (Rif; Rambam; Ramban). The Gemara’s question is how the buyer can acquire all of the flax without performing a full-fledged act of acquisition upon all of it, as he apparently pulls only some of the flax.",
+              "he": "הרשב\"ם מפרש כי בשלב זה אין אנו מניחים (כרב ששת) כי מדובר כאן בפעולה הקשורה לקרקע עצמה, אלא לקניה של פשתן, והשאלה היא בדומה — כיצד תלישה של חלק מן הפשתן מועילה לקנות פשתן שמחובר לקרקע? אכן, לדעת הרי\"ף מדובר כאן בפשתן שאמנם מחובר עדיין לקרקע, אבל כבר נגמר גידולו ועשוי לתלישה, ואם כן דינו כמיטלטלים (וכן כתב הרמב\"ם, וראה ברמב\"ן שדן בכך), והשאלה היא כיצד קונה הלוקח את כל הפשתן כאשר אינו עושה בו פעולת קנין, שהרי לכאורה מה שהוא מושך בידו הוא רק אותו חלק שתלש.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 87a:5",
+              "sourceHeRef": "מִשּׁוּם דְּתָלַשׁ וכו׳",
+              "sourceRef": "Due to the fact that he detached, etc."
+            },
+            {
+              "en": "With regard to a field that has dry flax still attached to the ground, although it was fully ripened, if the owner said to another: Clear any amount of the ground and acquire all that is upon it, then once the buyer detaches any amount of the flax he acquires all of it, due to this stipulation. Some explain that he acquires the land, and by means of the land he acquires the flax that is attached to it (Rambam<i> Sefer Kinyan</i>,<i> Hilkhot Mekhira</i> 3:18 and <i>Maggid Mishne</i> there).",
+              "he": "הרשב\"ם מסביר שהלוקח קונה את הקרקע מדין חזקה, שמוכר הפשתן נותן לו רשות להחזיק בקרקע לפי שעה, כדי שיקנה את הפשתן המצוי עליה. וכיון שהמנקה מקצת מן האדמה (כגון שמוציא ממנה קוצים או אבנים) קונה קרקע בכך, הרי זה מועיל ללוקח שתיקנה לו הקרקע בדרך זו לענין הפשתן המחובר בה. אבל אחרים גורסים כאן מעט אחרת: \"לך יפה לי קרקע כל שהוא\" וכו', ומסבירים שיש כאן כעין שכירות, שבשכר העבודה שעושה (שמייפה הקרקע בתלישת הפשתן) מקנה לו את הפשתן כולו (ר\"י מיגאש, רמ\"ה, רבינו יונה). ורגמ\"ה מסביר באופן משולב, שאומר לו: לך יפה וקנה לי קרקע זו בתלישת עשבים, ובשכר זה קנה קרקע שלידה לצורך הפשתן שעליה (וכן פירש ר\"ב). דרך אחרת לגמרי יש לרב האי גאון, המסביר שהתלישה עצמה של מקצת היבול היא עצמה דרך מיוחדת של קנין של היבול כולו. ואת שאלת הגמרא \"משום דתלש\" וכו' יש להבין: וכי בתלישה של חלק קונה הכל? ומשיב על כך רב ששת, שכאשר אומר לו המוכר במפורש שיקנה בדרך זו הריהו קונה.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 87a:5",
+              "sourceHeRef": "וְאִם הָיָה מְחוּבָּר בַּקַּרְקַע…דַּאֲמַר לֵיהּ וכו׳",
+              "sourceRef": "And if it was attached to the ground…where he said, etc."
+            },
+            {
+              "en": "",
+              "he": "פשתן יבש, שכבר אינו צריך לקרקע אבל עדיין מחובר אליה ואמר בעליו לאחר: \"יפה לי קרקע כלשהי וקנה כל מה שעליה\", כיון שתלש הקונה ואפילו כלשהו מן הפשתן — קנה כולו מפני תנאי זה (ויש שפירשוהו שקונה כך את הקרקע, ועל גבה קונה את הפשתן כולו. ראה מ\"מ ועוד). (רמב\"ם ספר קנין הלכות מכירה פ\"ג הי\"ח).",
+              "ref": "Steinsaltz comment #3 on Bava Batra 87a:5",
+              "sourceHeRef": "ואם היה מחובר בקרקע... דאמר ליה וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לך ויפה לך קרקע כל שהוא וקני כל מה שעליה</strong> - כלומר החזק בקרקע ע\"י יפוי דהוי כעין נעל וגדר כל שהוא ותהא שאולה לך להיות כחצרך לענין זה שתקנה מה שעליה:",
+              "ref": "Tosafot on Bava Batra 87a:5:1",
+              "sourceHeRef": "תוספות על בבא בתרא פ״ז א:ה:א",
+              "sourceRef": "Tosafot on Bava Batra 87a:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches: <b>And if</b> the flax <b>was attached to the ground and he detached any amount,</b> he has <b>acquired</b> it. The Gemara asks: Is it correct to say that <b>due to</b> the fact <b>that he detached any amount,</b> he <b>acquired</b> it? If he does not perform an act of acquisition with all of the flax, how can he acquire all of it? <b><span href=\"/topics/rav-sheshet\" class=\"namedEntityLink\" data-slug=\"rav-sheshet\">Rav Sheshet</span> said: Here we are dealing with</b> a case <b>where</b> the seller <b>said to him: Go</b> and <b>clear for yourself any amount of land, and</b> thereby <b>acquire everything that is on it.</b> When the buyer clears the land by detaching the flax from the ground, he is considered to be renting the land and thereby acquires all the flax that grows on it.",
+      "he": "וְאִם הָיָה מְחוּבָּר בְּקַרְקַע, וְתָלַשׁ כׇּל שֶׁהוּא – קָנָה. מִשּׁוּם דְּתָלַשׁ כׇּל שֶׁהוּא – קָנָה?! אָמַר רַב שֵׁשֶׁת: הָכָא בְּמַאי עָסְקִינַן – דְּאָמַר לֵיהּ: לֵךְ, יַפֵּה לְךָ קַרְקַע כׇּל שֶׁהוּא, וְקָנֵי כֹּל מַה שֶּׁעָלֶיהָ.",
+      "ref": "Bava Batra 87a:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "With regard to <b>one who sells</b> food or drink that has an established price, such as <b>wine and oil, to another, and</b> the price <b>rises or falls</b> and the buyer or the seller wishes to renege on the sale, <b>if</b> the price changed <b>before the measuring</b> vessel <b>is filled,</b> the merchandise still belongs <b>to the seller</b> and he can cancel the sale. <b>Once the measuring</b> vessel <b>is filled</b> the merchandise belongs <b>to the buyer,</b> and the seller can no longer cancel the sale. <b>And if there was a middleman [<i>sarsur</i>] between them</b> and <b>the barrel</b> belonging to the middleman, being used to measure the merchandise, <b>broke</b> during the transaction and the merchandise is ruined, <b>it broke for the middleman,</b> i.e., he is responsible for the ruined merchandise. The mishna teaches an additional <i>halakha</i> with regard to sales: <b>And</b> anyone who sells wine, oil, or similar liquids is <b>obligated,</b> after he transfers the liquid into the buyer’s vessel, <b>to drip for him three</b> extra <b>drops</b> from the measure. After he drips those three drops, if <b>he turned</b> the barrel on its side <b>and drained</b> out the last bits of liquid that it contained, this <b>belongs to the seller</b> and he is not required to give these last drops to the buyer. <b>And a storekeeper is not obligated to drip three drops,</b> because he is too busy to do this constantly. <b>Rabbi Yehuda says:</b> If the sale occurs on <b>Shabbat eve as nightfall</b> arrives, one is <b>exempt</b> from dripping these three drops, as there is a need to complete the transaction before Shabbat begins.",
+              "he": "הַמּוֹכֵר יַיִן וָשֶׁמֶן לַחֲבֵרוֹ וְהוּקְרוּ אוֹ שֶׁהוּזְלוּ, אִם עַד שֶׁלֹּא נִתְמַלְּאָה הַמִּדָּה, לַמּוֹכֵר. מִשֶּׁנִּתְמַלְּאָה הַמִּדָּה, לַלּוֹקֵחַ. וְאִם הָיָה סַרְסוּר בֵּינֵיהֶן, נִשְׁבְּרָה הֶחָבִית, נִשְׁבְּרָה לַסַּרְסוּר. וְחַיָּב לְהַטִּיף לוֹ שָׁלֹשׁ טִפִּין. הִרְכִּינָהּ וּמִצָּה, הֲרֵי הוּא שֶׁל מוֹכֵר. וְהַחֶנְוָנִי אֵינוֹ חַיָּב לְהַטִּיף שָׁלֹשׁ טִפִּין. רַבִּי יְהוּדָה אוֹמֵר, עֶרֶב שַׁבָּת עִם חֲשֵׁכָה, פָּטוּר:",
+              "link": "/Mishnah Bava Batra/5",
+              "ref": "Mishnah Bava Batra 5:8",
+              "sourceHeRef": "משנה בבא בתרא ה:ח",
+              "sourceRef": "Mishnah Bava Batra 5:8"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Similar rules apply when a person sells wine or oil to a colleague in a corner of the public domain or in a courtyard belonging to both the seller and the purchaser, or in a domain belonging to the purchaser, and the measure belongs to the broker. Before the measure is filled, the liquid remains the seller's. Once the measure is filled, the liquid becomes the purchaser's. Neither of them can retract.",
+              "he": "וְכֵן הַמּוֹכֵר יַיִן אוֹ שֶׁמֶן לַחֲבֵרוֹ בְּסִמְטָא אוֹ בְּחָצֵר שֶׁל שְׁנֵיהֶם אוֹ בִּרְשׁוּת לוֹקֵחַ. וְהָיְתָה הַמִּדָּה שֶׁל סַרְסוּר. עַד שֶׁלֹּא נִתְמַלֵּאת הַמִּדָּה הֲרֵי הֵן שֶׁל מוֹכֵר. מִשֶּׁנִּתְמַלֵּאת הַמִּדָּה הֲרֵי הֵן בִּרְשׁוּת לוֹקֵחַ. וְאֵין אֶחָד מֵהֶן יָכוֹל לַחְזֹר בּוֹ:",
+              "ref": "Mishneh Torah, Sales 4:8",
+              "sourceHeRef": "הלכות מכירה ד:ח",
+              "sourceRef": "Sales 4:8"
+            },
+            {
+              "en": "The following rule applies whenever a broker informs the purchaser that a specific article or piece of property belongs to a principal, Reuven. If, after the purchaser acquires the article, Reuven says: \"I don't want to sell at this price,\" the purchaser must return the article. For Reuven did not specify a price and tell the agent: \"Sell the article for this and this much.\"<br>Whenever a broker loses an article, or it is stolen or broken, he is liable to reimburse the owner, for he is considered a paid watchman.",
+              "he": "כָּל סַרְסוּר שֶׁהוֹדִיעַ לַלּוֹקֵחַ שֶׁחֵפֶץ זֶה אוֹ קַרְקַע זֶה שֶׁל רְאוּבֵן וְאַחַר שֶׁקָּנָה הַלּוֹקֵחַ אָמַר רְאוּבֵן אֵינִי רוֹצֶה לִמְכֹּר בְּדָמִים אֵלּוּ מַחְזִיר הַלּוֹקֵחַ שֶׁהֲרֵי לֹא פָּסַק לוֹ דָּמִים וְאָמַר לוֹ מָכוּר לְךָ בְּכָךְ וְכָךְ. [כָּל] סַרְסוּר שֶׁאָבַד הַחֵפֶץ מִיָּדוֹ אוֹ נִגְנַב אוֹ נִשְׁבַּר חַיָּב לְשַׁלֵּם מִפְּנֵי שֶׁהוּא נוֹשֵׂא שָׂכָר:",
+              "ref": "Mishneh Torah, Agents and Partners 2:7",
+              "sourceHeRef": "הלכות שלוחין ושותפין ב:ז",
+              "sourceRef": "Agents and Partners 2:7"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">המוכר יין ושמן</strong> - וה\"ה לפירות אלא אגב דבעי לאורויי בסיפא חייב להטיף שלש טיפין נקט יין ושמן:",
+              "ref": "Rashbam on Bava Batra 87a:6:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ו:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והוקרו או שהוזלו</strong> - לאחר פיסוק הדמים:",
+              "ref": "Rashbam on Bava Batra 87a:6:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ו:ב",
+              "sourceRef": "Rashbam on Bava Batra 87a:6:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עד שלא נתמלאת המדה</strong> - ובמדה שאינה של שניהם מוקי לה בגמ' ותנינא מה דתניא לעיל בברייתא וטעם כדהתם כל זמן שלא נתמלאת הוי כליו של מוכר ומשנתמלאת הוי כליו של לוקח ומיירי בסימטא או בחצר של שניהם:",
+              "ref": "Rashbam on Bava Batra 87a:6:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ו:ג",
+              "sourceRef": "Rashbam on Bava Batra 87a:6:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">היה סרסור ביניהן</strong> - והמדה שלו כדמפרש בגמ' ודרך הסרסור לקנות מבעל הבית ומוכר לאחרים ומרויח:",
+              "ref": "Rashbam on Bava Batra 87a:6:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ו:ד",
+              "sourceRef": "Rashbam on Bava Batra 87a:6:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נשברה לסרסור</strong> - דקני ליה כליו של סרסור לסרסור כדתניא לעיל ואם היתה מדה של אחד מהן ראשון ראשון קנה וקא משמע לן דלא אמרינן דסרסור אינו אלא שלוחו של לוקח וכשנתמלאת נשברה ללוקח:",
+              "ref": "Rashbam on Bava Batra 87a:6:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ו:ה",
+              "sourceRef": "Rashbam on Bava Batra 87a:6:5"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "המוכר יין ושמן לחבירו והוקרו או שהוזלו. עד שלא נתמלאת המדה למוכר משנתמלאת המדה ללוקח אם היה סרסור ביניהם נשברה החבית נשברה לסרסור. רישא איירי במדת סרסור ואין הסרסור שם אלא השאיל להם מדתו וסיפא מיירי בישנו שם ומודד להן בשכר וקמ\"ל שהוא שומר שכר אף על החבית אע\"פ שאין מקבל שכר אלא על המדידה:",
+              "ref": "Rosh on Bava Batra 5:18:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ה:יח:א",
+              "sourceRef": "Rosh on Bava Batra 5:18:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "If, by contrast, the seller measures the produce into containers belonging to the purchaser, the purchaser does not acquire it. For a purchaser's containers cannot acquire on his behalf in the public domain.<br>If the produce is located in a domain belonging to the purchaser, once the seller agrees to sell the produce, the purchaser acquires it, even if he does not measure it.<br>If the produce is located in a domain belonging to the seller, or in a domain belonging to a person to whom the seller has entrusted it, the purchaser does not acquire the produce until he lifts it up, or until he removes it from the seller's domain by renting its place, or the like, as we have explained.",
+                      "he": "הָיָה מוֹכֵר מוֹדֵד לְתוֹךְ כֶּלְיוֹ שֶׁל לוֹקֵחַ לֹא קָנָה שֶׁאֵין כֶּלְיוֹ שֶׁל לוֹקֵחַ קוֹנֶה לוֹ בִּרְשׁוּת הָרַבִּים. הָיוּ הַפֵּרוֹת בִּרְשׁוּת הַלּוֹקֵחַ כֵּיוָן שֶׁקִּבֵּל עָלָיו הַמּוֹכֵר לִמְכֹּר קָנָה לוֹקֵחַ וְאַף עַל פִּי שֶׁעֲדַיִן לֹא מָדַד. הָיוּ בִּרְשׁוּת הַמּוֹכֵר אוֹ בִּרְשׁוּת הַמֻּפְקָדִין אֶצְלוֹ לֹא קָנָה הַלּוֹקֵחַ עַד שֶׁיַּגְבִּיהַּ הַפֵּרוֹת אוֹ עַד שֶׁיּוֹצִיאֵם מֵרְשׁוּתוֹ בִּשְׂכִירוּת מְקוֹמָן וְכַיּוֹצֵא בּוֹ כְּמוֹ שֶׁבֵּאַרְנוּ:",
+                      "ref": "Mishneh Torah, Sales 4:6",
+                      "sourceHeRef": "הלכות מכירה ד:ו",
+                      "sourceRef": "Sales 4:6"
+                    },
+                    {
+                      "en": "The following rules apply when the produce is located in a corner of the public domain or in a domain belonging to both the seller and the purchaser -or even if it is in a domain belonging to the purchaser, but in containers belonging to the seller- and the seller agreed to sell the produce, and has begun to measure it into containers belong to the seller. If the seller tells the purchaser: \"I will sell you a <i>kor</i> of produce for 30 sela,\" he can retract even at the last <i>se'ah,</i> because the produce is in his containers, and he has not completed the measurement. For the containers belonging to a seller do not acquire for a purchaser, even in the purchaser's domain.<br>If he told him: \"I will sell you a <i>kor</i> of produce for 30 <i>sela,</i> i.e., each <i>se'ah</i> for a <i>sela</i>\" the purchaser acquires each <i>se'ah,</i> one by one as it is measured.For since the seller mentioned the price for each individual <i>se'ah,</i> each of those units is a distinct entity. Whenever the seller lifts up a <i>se'ah</i> and pours it into the measure, the sale of this unit is concluded.<br>The rationale for this law is that the produce is not located in a domain belonging to the seller, nor is it in the public domain. If the produce was not held in the containers of the seller, the purchaser would acquire it once a price was agreed upon, since it is located in his domain even though it had not been measured, as has been explained in the previous halachah.",
+                      "he": "הָיוּ הַפֵּרוֹת בְּסִמְטָא אוֹ בְּחָצֵר שֶׁל שְׁנֵיהֶם. וַאֲפִלּוּ הָיוּ בִּרְשׁוּת לוֹקֵחַ וְהָיוּ בְּתוֹךְ כֶּלְיוֹ שֶׁל מוֹכֵר וְקִבֵּל עָלָיו הַמּוֹכֵר לִמְכֹּר וְהִתְחִיל הַמּוֹכֵר לִמְדֹּד בְּתוֹךְ כֶּלְיוֹ שֶׁל מוֹכֵר. אִם אָמַר לוֹ כּוֹר בִּשְׁלֹשִׁים סֶלַע אֲנִי מוֹכֵר לְךָ יָכוֹל לַחְזֹר בּוֹ אֲפִלּוּ בִּסְאָה אַחֲרוֹנָה הוֹאִיל וַעֲדַיִן הַפֵּרוֹת בְּכֵלָיו וְלֹא גָּמַר כָּל הַמִּדָּה וְכֵלָיו שֶׁל מוֹכֵר אֵינוֹ קוֹנֶה לַלּוֹקֵחַ אַף עַל פִּי שֶׁהוּא בִּרְשׁוּת הַלּוֹקֵחַ. וְאִם אָמַר לוֹ כּוֹר בִּשְׁלֹשִׁים סְאָה בְּסֶלַע רִאשׁוֹן רִאשׁוֹן קָנָה שֶׁכֵּיוָן שֶׁפָּסְקוּ הַדָּמִים עַל כָּל סְאָה וּסְאָה כָּל סְאָה שֶׁיַּגְבִּיהַּ הַמּוֹכֵר וִיעָרֶה אוֹתָהּ נִגְמְרָה מְכִירָתָהּ. הוֹאִיל וְאֵין הַפֵּרוֹת בִּרְשׁוּת הַמּוֹכֵר וְלֹא בִּרְשׁוּת הַלּוֹקֵחַ. וְאִלּוּ לֹא הָיָה הַפֵּרוֹת בְּכֵלָיו שֶׁל מוֹכֵר כֵּיוָן שֶׁהֵן בִּרְשׁוּת לוֹקֵחַ קָנָה מִשֶּׁפָּסַק אַף עַל פִּי שֶׁלֹּא מָדַד כְּמוֹ שֶׁבֵּאַרְנוּ:",
+                      "ref": "Mishneh Torah, Sales 4:7",
+                      "sourceHeRef": "הלכות מכירה ד:ז",
+                      "sourceRef": "Sales 4:7"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "המוכר יין או שמן לחבירו בסימטא או בחצר של שניהם או ברשות לוקח והיתה המדה של סרסור עד שלא נתמלאה המדה הרי הן של מוכר משנתמלאה המדה הרי הן ברשות לוקח ואין אחד מהם יכול לחזור בו וכן פירות שהיו צבורים בסימטא או בחצר של שניהם והמדה אינה של אחד מהם והיה המוכר מודד עד שלא נתמלאה המדה הרי היא ברשות מוכר ומשנתמלאה המדה הרי היא ברשות לוקח:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 200:9",
+              "sourceHeRef": "חושן משפט ר:ט - דין קניית מטלטלין על ידי חצירו וכיצד קונה כליו.",
+              "sourceRef": "Choshen Mishpat 200:9"
+            },
+            {
+              "en": "",
+              "he": "כל סרסור שאבד החפץ מידו או נגנב אפי' בשעת הליכה חייב לשלם מפני שהוא נושא שכר:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 185:7",
+              "sourceHeRef": "חושן משפט קפה:ז - סרסור שמכר בפחות או ביותר ממה שאמר לו בעל הבית ושאר טענות שבינו לבין בעל הבית.",
+              "sourceRef": "Choshen Mishpat 185:7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב משנה</big> <b>המוכר</b> דברי מאכל ומשקה, כגון: <b>יין ושמן לחבירו</b> ומחירם ידוע, <b>והוקרו או שהוזלו</b> במחירם, ורוצה אחד מהם לחזור בו מן המכירה, <b>אם</b> ההתייקרות או ההוזלה היו <b>עד שלא</b> (טרם) <b>נתמלאת המדה</b> — הרי הסחורה עדיין שייכת <b>למוכר</b> ויכול לחזור בו אם הוא רוצה בכך. ואילו <b>משנתמלאת המדה</b> — הריהי שייכת כבר <b>ללוקח</b> ואין המוכר יכול לחזור בו. <b>ואם היה סרסור</b> (מתווך) <b>ביניהן,</b> אם <b>נשברה החבית</b> באמצע — <b>נשברה לסרסור</b> והוא חייב באחריותה, וישלם.",
+              "ref": "Steinsaltz on Bava Batra 87a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:ו",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This is the <i>halakha</i> with regard to all types of produce. The mishna specifies wine and oil only because the subsequent ruling of the mishna refers specifically to the sale of liquid items (Rashbam).",
+              "he": "הוא הדין למוכר פירות או תבואה, ונקט יין ושמן משום הלכה הנוספת שיש במכירת דבר לח, הוספת שלוש טיפין (רשב\"ם).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 87a:6",
+              "sourceHeRef": "הַמּוֹכֵר יַיִן וְשֶׁמֶן לַחֲבֵירוֹ",
+              "sourceRef": "One who sells wine and oil to another"
+            },
+            {
+              "en": "The Gemara explains that the middleman was present at the time. According to some commentaries, the reason that the middleman is financially responsible for the wine, oil, and obviously the barrel, is because he is considered the owner of all of them at this point, as he buys the merchandise from the seller and sells it to the buyer (Rashbam). Others explain that the middleman himself measured the merchandise, and the barrel broke due to negligence on his part. Consequently, he is financially responsible, not because he owns the barrel, but because he is considered a paid bailee and is therefore liable for loss resulting from negligence (<i>Tosafot</i>; Rivam; Ramah; Meiri). Alternatively, even if the middleman lends the barrel to the buyer or the seller and one of them breaks it, the middleman is responsible, because this is a case where one borrows an item and hires its owner with it, in which case the borrower is exempt from financial responsibility by Torah law (Ra’avad).",
+              "he": "ובגמרא נאמר שמדובר כאשר הסרסור היה שם, ופירש רשב\"ם כי הוא נושא בהפסד היין או השמן, וכל שכן החבית, משום שבאותה שעה היין או השמן שלו הם, שכן הוא קונה אותם מבעל הבית (המוכר) וחוזר ומוכר לקונה. אבל אחרים הסבירו כי מדובר כאן כאשר הסרסור עצמו היה המודד, והוא חייב בתשלום לא משום ששלו החבית, אלא משום שהוא נחשב כשומר שכר, ומדובר כשהחבית נשברה משום רשלנותו, ולכן  הריהו חייב, כדין שומר שכר (ריב\"ם בתוס', וראה רמ\"ה ומאירי). ויש הסבירו באופן אחר, שאם נשברה החבית שבה מדדו על ידי המוכר או הקונה — הסרסור הוא המפסיד בכך, ואף שהשאילה להם, משום שזו שאילה בבעלים היא, ובמקרה שכזה פטור השואל (ראב\"ד).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 87a:6",
+              "sourceHeRef": "נִשְׁבְּרָה לַסַּרְסוּר",
+              "sourceRef": "It broke for the middleman"
+            },
+            {
+              "en": "With regard to one who sells wine or oil in an alleyway, or a courtyard belonging to both buyer and seller, or in the buyer’s domain, and the measuring vessel belonged to a middleman who loaned it to both of them (<i>Taz</i>), if the measuring vessel has not yet been filled the merchandise belongs to the seller and he can renege on the sale. Once it is filled, it belongs to the buyer, and the seller can no longer renege on the sale. This is in accordance with the explanation of Rabbi Ela in the Gemara (Rambam<i> Sefer Kinyan</i>,<i> Hilkhot Mekhira</i> 4:8; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 200:9).",
+              "he": "המוכר יין או שמן לחבירו בסימטה, או בחצר המשותפת לשניהם, או ברשות הקונה אם היה כלי המדידה שייך לסרסור (והשאילו לשניהם. ט\"ז), כל זמן שלא נתמלאה המידה — הריהן של המוכר ויכול לחזור בו. ומשנתמלאה — הריהן של הקונה, ואין המוכר יכול לחזור בו. כהעמדת ר' אלעא בגמרא. (רמב\"ם ספר קנין הלכות מכירה פ\"ד ה\"ח. שו\"ע חו\"מ ר, ט).",
+              "ref": "Steinsaltz comment #3 on Bava Batra 87a:6",
+              "sourceHeRef": "הַמּוֹכֵר יַיִן וְשֶׁמֶן לַחֲבֵירוֹ וכו׳",
+              "sourceRef": "One who sells wine and oil to another, etc."
+            },
+            {
+              "en": "If a middleman sells an item and while it is still in his possession it is lost, broken, or stolen from him, not due to circumstances beyond his control, he must repay the owner. The reason is that he is considered a paid bailee, as he receives payment for his services. This <i>halakha</i> is in accordance with the Rivam’s explanation of the Gemara (Rambam<i> Sefer Kinyan</i>,<i> Hilkhot Sheluĥin VeShutafin</i> 2:7, and see <i>Haggahot Maimoniyyot</i> and <i>Kesef Mishne</i> there; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 185:7).",
+              "he": "סרסור, המוכר חפץ עבור אדם מסויים, ואבד החפץ מידו או נגנב או נשבר (שלא באונס. כ\"מ) — חייב לשלם לבעלים, שכיון שמקבל תשלום עבור שירותיו דינו כשומר שכר. כפירוש ריב\"ם לסוגייתנו (הגה\"מ). (רמב\"ם ספר קנין הלכות שלוחין ושותפין פ\"ב ה\"ז. שו\"ע חו\"מ קפה, ז).",
+              "ref": "Steinsaltz comment #4 on Bava Batra 87a:6",
+              "sourceHeRef": "הָיָה סַרְסוּר בֵּינֵיהֶן",
+              "sourceRef": "There was a middleman between them"
+            },
+            {
+              "en": "Apparently from a Semitic source, this word is found in inscriptions from Tyre and Sidon in both Hebrew and Aramaic. It refers to a middleman, one who connects the buyer and seller, for which he receives payment.",
+              "he": "המלה היא כנראה ממקור שמי, והיא מצויה כבר בכתובות מצור וצידון, וכן בארמית ובערבית.\nועניינה — מתווך, מי שמקשר בין מוכר וקונה, ומקבל בשכר התיווך סכום מסויים.",
+              "ref": "Steinsaltz comment #5 on Bava Batra 87a:6",
+              "sourceHeRef": "סַרְסוּר",
+              "sourceRef": "Middleman [<i>sarsur</i>]"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">המוכר יין ושמן לחבירו והוקרו והוזלו</strong> - לאו דוקא הוקרו והוזלו אלא שאין דרך לחזור בחנם:",
+              "ref": "Tosafot on Bava Batra 87a:6:1",
+              "sourceHeRef": "תוספות על בבא בתרא פ״ז א:ו:א",
+              "sourceRef": "Tosafot on Bava Batra 87a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נשברה לסרסור</strong> - <span class=\"rashi-quotation\">פי' הקונטרס</span> לפי שהסרסור קנאה לעצמו וחוזר ומוכר לבעל הבית ותימה דאם כן אמאי נקט נשברה ושבק יוקרא וזולא דאיירי בה רישא הוי ליה למימר היה סרסור ביניהן והוקרו והוזלו ופי' ריב\"ם היה סרסור ביניהם ומדד להן כדרך סרסורים שמודדין בשכר שנותנין להן ונשברה החבית ע\"י מדידה נשברה לסרסור וכגון שלא היה מחמת אונס אלא ע\"י שלא נזהר יפה במדידה:",
+              "ref": "Tosafot on Bava Batra 87a:6:2",
+              "sourceHeRef": "תוספות על בבא בתרא פ״ז א:ו:ב",
+              "sourceRef": "Tosafot on Bava Batra 87a:6:2"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "If it was broken before the measure was filled, the broken measure to the seller. If it was broken from the time it was filled, to the buyer. Rabbi Yehudah says, if there was a middleman between them and the jar was broken, the broken measure to the middleman. The sages concede to Rabbi Yehudah in a time when the flask is in a child’s hand and the storekeeper poured into it oil and it fell and broke that he is liable for the oil but exempt for the flask. And if the flask was offered and he broke it, he is liable even for the flask. Rabbi Yehudah declares him exempt, for it was on the condition that sent his son to the store, that he might lose the issar or break the flask.",
+              "he": "עד שלא נתמלאת המדה נשברה מדה נשברה למוכר משנתמלאת מדה נשברה ללוקח רבי יהודה אומר אם היה סרסור ביניהן נשברה חבית נשברה לסרסור מודים חכמים לרבי יהודה בזמן שהצלוחית ביד התינוק וחנוני מערה לתוכה שמן ונפלה ונשברה שחייב על השמן ופטור על הצלוחית ואם הטה צלוחית ושברה חייב אף על הצלוחית ורבי יהודה פוטר שע\"מ כן שלח בנו אצל חנוני ע\"מ שיאבד את האיסר וישבר את הצלוחית.",
+              "ref": "Tosefta Bava Batra 5:2",
+              "sourceHeRef": "תוספתא בבא בתרא ה:ב",
+              "sourceRef": "Tosefta Bava Batra 5:2"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> With regard to <b>one who sells</b> food or drink that has an established price, such as <b>wine and oil, to another, and</b> the price <b>rises or falls</b> and the buyer or the seller wishes to renege on the sale, <b>if</b> the price changed <b>before the measuring</b> vessel <b>is filled,</b> the merchandise still belongs <b>to the seller</b> and he can cancel the sale. <b>Once the measuring</b> vessel <b>is filled</b> the merchandise belongs <b>to the buyer,</b> and the seller can no longer cancel the sale. <b>And if there was a middleman [<i>sarsur</i>] between them</b> and <b>the barrel</b> belonging to the middleman, being used to measure the merchandise, <b>broke</b> during the transaction and the merchandise is ruined, <b>it broke for the middleman,</b> i.e., he is responsible for the ruined merchandise.",
+      "he": "<big><strong>מַתְנִי׳</strong></big> הַמּוֹכֵר יַיִן וָשֶׁמֶן לַחֲבֵירוֹ, וְהוּקְרוּ אוֹ שֶׁהוּזְלוּ, אִם עַד שֶׁלֹּא נִתְמַלֵּאת הַמִּדָּה – לַמּוֹכֵר. מִשֶּׁנִּתְמַלֵּאת הַמִּדָּה – לַלּוֹקֵחַ. וְאִם הָיָה סַרְסוּר בֵּינֵיהֶן, נִשְׁבְּרָה הֶחָבִית – נִשְׁבְּרָה לַסַּרְסוּר.",
+      "ref": "Bava Batra 87a:6",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מצי</strong>, <strong dir=\"rtl\">מָצָה</strong>, (<strong dir=\"rtl\">מָצָא</strong>) (Biblical Hebrew) <i>to squeeze, wring, especially to wring out the blood of the bird sacrifice</i>. Sifra Vayikra, N’dab., Chaldaic VIII, Parah 7 <span dir=\"rtl\">הוא מוֹצֶה</span> he wrings it; and from<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">מִיצָּה</strong>, <strong dir=\"rtl\"> מִצָּה</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, מְצִי I 1\" href=\"/Jastrow,_מְצִי I.1\">same</span>. <span class=\"refLink\" data-ref=\"Mishnah Zevachim 6:5\" href=\"/Mishnah_Zevachim.6.5\">Zevachim VI, 5</span><br>, sq.; and from—2) <span class=\"refLink\" data-ref=\"Jastrow, מְצִי I 1\" href=\"/Jastrow,_מְצִי I.1\">same</span>. <i>to pour out to the last drop, to drain</i>. Ib. 64ᵇ <span dir=\"rtl\">מי כתיב יְמַצֶּה יִמָּצֵה וכ׳</span> (ed. punctuate <span dir=\"rtl\">יַמְצֶה</span>, <i>Hifil</i>) it does not say (<span class=\"refLink\" data-ref=\"Leviticus 5:9\" href=\"/Leviticus.5.9\">Vayikra V, 9</span>), ‘he shall pour out (the remainder) at the bottom &c.’, but ‘it shall be wrung out’, which means, that it will run out to the bottom of itself. <span class=\"refLink\" data-ref=\"Mishnah Terumot 11:8\" href=\"/Mishnah_Terumot.11.8\">Terumot XI, 8</span> <span dir=\"rtl\">הִרְכִּינָהּ ומִיצָּה</span> (Yerushalmi ed. <span dir=\"rtl\">ומִיצֵּת</span>; Manuscript Munich <span dir=\"rtl\">ומִצֵּת</span>) if he bent the vessel and drained it; <span class=\"refLink\" data-ref=\"Bava Batra 87b\" href=\"/Bava_Batra.87b\">Bava Batra 87ᵇ</span> (Manuscript Hamburg and R. <span dir=\"rtl\">ומיצת</span>); <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 5:8\" href=\"/Mishnah_Bava_Batra.5.8\">ib. V, 8</span> (<span class=\"refLink\" data-ref=\"Bava Batra 87a:7\" href=\"/Bava_Batra.87a.7\">87ᵃ</span>) <span dir=\"rtl\">הרכינה ומיצה</span> (Yerushalmi ed. <span dir=\"rtl\">ומצת</span>; Bavli ed. <span dir=\"rtl\">ומִיצֵּית</span>, Manuscript Munich <span dir=\"rtl\">ומִיצֵּת</span>; Manuscript Rome <span dir=\"rtl\">ומִיצְּתָהּ</span>). <span class=\"refLink\" data-ref=\"Bereishit Rabbah 85:11\" href=\"/Bereishit_Rabbah.85.11\">Breishit Rabbah section (Parashah) 85</span>; section (Parashah) 92 (play on <span dir=\"rtl\">מצא</span>, <span class=\"refLink\" data-ref=\"Genesis 44:16\" href=\"/Genesis.44.16\">Breishit XLIV, 16</span>) <span dir=\"rtl\">כזה שהוא מְמַצֶּה וכ׳</span> as one drains a vessel and leaves nothing but the lees. <span class=\"refLink\" data-ref=\"Midrash Tehillim 59:3\" href=\"/Midrash_Tehillim.59.3\">Midrash Till. to Psalms LIX</span> (play on <span dir=\"rtl\">מצא</span>, <span class=\"refLink\" data-ref=\"Proverbs 18:22\" href=\"/Proverbs.18.22\">Mishlei XVIII, 22</span>) <span dir=\"rtl\"><span dir=\"rtl\">כשהאשה רעה היא מְמַצָּה</span> (<span dir=\"rtl\">כל</span>) <span dir=\"rtl\">הטובות כולן מביתו וכ׳</span></span> ed. Bub. (oth. ed. <span dir=\"rtl\">ממַצֶּאֶת</span>, and oth. variants) when the wife is bad, she drains all the good things out of his house and makes him poor; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 957:3\" href=\"/Yalkut_Shimoni_on_Nach.957.3\">Yalkut Mishlei 957</span> <span class=\"refLink\" data-ref=\"Jastrow, מַמְצִיא 1\" dir=\"rtl\" href=\"/Jastrow,_מַמְצִיא.1\">ממציא</span> (read: <span dir=\"rtl\">מְמַצֵּית</span>); and from <br><b><br>—3)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, מָצַע 1\" dir=\"rtl\" href=\"/Jastrow,_מָצַע.1\">מָצַע</span>) <span dir=\"rtl\">מ׳ מידות</span> <i>to measure exactly</i>. <span class=\"refLink\" data-ref=\"Mishnah Eruvin 4:11\" href=\"/Mishnah_Eruvin.4.11\">Eruvin IV, 11</span> (<span class=\"refLink\" data-ref=\"Eruvin 52b:13\" href=\"/Eruvin.52b.13\">52ᵇ</span>) <span dir=\"rtl\">אין המשוחות מְמַצִּין וכ׳</span> the surveyors (in marking distances for Sabbath limits) do not measure exactly (but mark within the limits), in order to allow for mistakes.—Transferred <i>to sound one’s learning</i>. <span class=\"refLink\" data-ref=\"Menachot 18a:4\" href=\"/Menachot.18a.4\">Menachot 18ᵃ</span> <span dir=\"rtl\">למַצֹּות מידותי</span> to have my own learning examined; <span dir=\"rtl\">למ׳ מידותיו וכ׳</span> to sound the learning of &c.<br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">מִתְמַצֶּה</strong> <i>to be wrung out; to be emptied, drained</i> Sifra Vayikra, Ḥob., Parah 10, Chaldaic XVIII; <span class=\"refLink\" data-ref=\"Zevachim 64b:8\" href=\"/Zevachim.64b.8\">Zevachim 64ᵇ</span> <span dir=\"rtl\">שהשירין מִתְמַצִּים ליסוד</span> where the remainder is poured out towards the bottom of the altar; and from [<span class=\"refLink\" data-ref=\"Mishnah Zevachim 6:4\" href=\"/Mishnah_Zevachim.6.4\">Ib. VI, 4</span> (<span class=\"refLink\" data-ref=\"Zevachim 64b:5\" href=\"/Zevachim.64b.5\">64ᵇ</span>) <span dir=\"rtl\">היה מתמצה</span>, read <span dir=\"rtl\">מְמַצֶּה</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 50.]—Yerushalmi Rosh Hashanah I, 56ᵈ top; Yerushalmi Shekalim III, beginning 47ᵇ <span dir=\"rtl\">עד כאן הן מִתְמַצּוֹת לילד וכ׳</span> up to that time (the first of Elul) the latest births of the old year (of those conceived before the first of Nisan) take place &c.—Transferred (with <span class=\"refLink\" data-ref=\"Jastrow, חֶשְׁבּוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_חֶשְׁבּוֹן.1\">חשבון</span>)<i> to be exactly counted, to be finally settled</i>. Yerushalmi Sotah I, 17ᵃ (he suffers a loss by the death of his ox &c.) <span dir=\"rtl\">והחשבון מִתְמַצֶּה</span> and the account (of his sins) is settled; ib.; <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 9:33\" href=\"/Bamidbar_Rabbah.9.33\">Bamidabar Rabbah section (Parashah) 9</span> <span dir=\"rtl\">אחת מתארעא וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אֲרַע I 1\" href=\"/Jastrow,_אֲרַע I.1\"><span dir=\"rtl\">אָרַע</span> I</span>; <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:27\" href=\"/Kohelet_Rabbah.7.27\">Kohelet Rabbah to VII, 27</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, מצי ² 1",
+              "sourceHeRef": "מילון יסטרוב, מצי ² א׳",
+              "sourceRef": "Jastrow, מצי ² 1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מתני':<b> וחייב להטיף שלשה טיפין.</b> פירש הרב ר' יהוסף הלוי אבן מיגש, חייב בעל הבית להטיף שלשה טיפין ללוקח יתר על המדה, מפני שמשתייר במדה כדי אותן שלשה טיפין שמוסיף לו. וזה תימה בעיני, וכי מקיתון של בעל הבית צריך להטיף לו, אם כן ליתני שעורא לתוספת, כדתני בשילהי מתניתין נותן גירומין אחד לעשר בלח, ומאי שיעור שלשה טיפין דקאמר. ועוד אי שלשה טיפין לתשלומי מה שנשתייר במדה קאמר, הרכינה ומיצת מאי קא קשיא ליה לרבי אלעזר בגמרא למה של מוכר, והלא כבר נשתלם ממנו בראש. ועוד חנוני למה פטור, וכי בשביל שהוא חנוני מוחלין לו בשל לוקח. ועוד ערב שבת עם חשיכה למה פטור מן התוספת. ועוד, יוסיפו בגירומין כדי אותן שלשה טיפין. אלא הכי פירושו, מטיף שלשה טיפין מן המדה קאמר, ולפיכך החנוני פטור מפני שהוא טרוד למכור לזה ולזה ואין לו פנאי להטיף. וכן ערב שבת עם חשיכה מפני הטרדא.",
+              "ref": "Rashba on Bava Batra 87a:4",
+              "sourceHeRef": "רשב״א על בבא בתרא פ״ז א:ד",
+              "sourceRef": "Rashba on Bava Batra 87a:4"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחייב להטיף לו שלש טיפין</strong> - לאחר עירוי השמן והיין חייב עוד להטיף שלש טיפין מן הדבוק בדופני הכלי:",
+              "ref": "Rashbam on Bava Batra 87a:7:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ז:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הרכינה</strong> - הטה על צדה אחר שהטיף ממנה שלש טיפין ללוקח:",
+              "ref": "Rashbam on Bava Batra 87a:7:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ז:ב",
+              "sourceRef": "Rashbam on Bava Batra 87a:7:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומיצית</strong> - שנתאסף מצוי השמן לשולי הכלי:",
+              "ref": "Rashbam on Bava Batra 87a:7:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ז:ג",
+              "sourceRef": "Rashbam on Bava Batra 87a:7:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הרי הוא של מוכר</strong> - משום דהלוקח נתייאש כדאמרי' בגמ':",
+              "ref": "Rashbam on Bava Batra 87a:7:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ז:ד",
+              "sourceRef": "Rashbam on Bava Batra 87a:7:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והחנווני</strong> - טרוד הוא במכירתו ולכך לא הזקיקוהו להטיף דאין לו פנאי:",
+              "ref": "Rashbam on Bava Batra 87a:7:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ז:ה",
+              "sourceRef": "Rashbam on Bava Batra 87a:7:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ר' יהודה אומר כו'</strong> - בגמ' בעי ר' יהודה אהיכא קאי:",
+              "ref": "Rashbam on Bava Batra 87a:7:6",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ז:ו",
+              "sourceRef": "Rashbam on Bava Batra 87a:7:6"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "A wholesale merchant must clean his measures once every 30 days. A house-owner must do this every twelve months, and a storekeeper twice a week. Once a week, he must wash his weights, and he should clean the balance after every time that he weighs, so that it will not rust.",
+                      "he": "הַסִּיטוֹן מְקַנֵּחַ אֶת מִדּוֹתָיו אַחַת לִשְׁלֹשִׁים יוֹם. וּבַעַל הַבַּיִת אַחַת לִשְׁנֵים עָשָׂר חֹדֶשׁ. וְהַחֶנְוָנִי מְקַנְּחָן פַּעֲמַיִם בְּשַׁבָּת. וּמְמַחֶה מִשְׁקְלוֹתָיו פַּעַם אַחַת בְּשַׁבָּת וּמְקַנֵּחַ מֹאזְנַיִם עַל כָּל מִשְׁקָל וּמִשְׁקָל כְּדֵי שֶׁלֹּא יַחְלִידוּ:",
+                      "ref": "Mishneh Torah, Theft 8:18",
+                      "sourceHeRef": "הלכות גניבה ח:יח",
+                      "sourceRef": "Theft 8:18"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "הסיטון שקונה [הרבה] ביחד ומוכר לחנונים מקנח המדות שמודד בהם דבר לח אחת לשלשים יום ובע\"ה שאינו מוכר כ\"כ די לו שיקנח אחת לי\"ב חדש והחנוני שאינו צריך להטיף שלשה טיפין ונדבק בה הרבה צריך לקנח פעמים בשבת:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 231:7",
+              "sourceHeRef": "חושן משפט רלא:ז - שלא לרמות במדה ובמשקל כיצד יעשה אותם וכיצד ישקול וחייבים להעמיד ממונים על המדות ועל השערים",
+              "sourceRef": "Choshen Mishpat 231:7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ו</b>הלכה נוספת בענייני מכירה: כל המוכר יין ושמן וכיוצא בהם <b>חייב להטיף לו</b> לקונה <b>שלש טיפין</b> נוספות מתוך המידה לאחר עירוי השמן. ולאחר שהטיף שלש טיפות אם <b>הרכינה</b> את החבית על צידה <b>ומיצית,</b> שנתמצה עוד מעט שמן בפנים — <b>הרי הוא של</b> ה<b>מוכר</b> ואינו צריך לתת זאת לקונה. <b>והחנווני</b> שעיסוקו בכך <b>אינו חייב להטיף שלש טיפין</b> משום שהוא טרוד ומוכר הרבה ואין לו זמן לעסוק בכך. <b>ר' יהודה אומר:</b> <b>ערב שבת עם חשכה</b> שאז הכל טרודים וממהרים — <b>פטור</b> מלהטיף שלוש טיפות אלה.",
+              "ref": "Steinsaltz on Bava Batra 87a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:ז",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Since a storekeeper is rushed and must take care of other customers, he does not have time to wait for these drops (Rashbam). Alternatively, a storekeeper must make some profit, and therefore he is allowed to retain the drops. Many early commentaries have an alternative version of the text, which states that the storekeeper is, in fact, obligated to drip these drops. The novelty is that although he is rushed, he still must do so (Ri Migash; Rambam).",
+              "he": "הרשב\"ם ואחרים מסבירים שמפני שהוא ממהר למכור, אין לו זמן להטיף טיפין אלה. והמאירי מסביר שכיון שהחנווני צריך להרוויח משהו הוסיפו לזכותו טיפות אלה. אבל רבים (ר\"י מיגאש, והרמב\"ם ועוד הרבה, וראה בגרסות) גרסו כאן \"החנווני חייב\", לומר שאף שהוא טרוד, מכל מקום חייב הוא לעשות כן.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 87a:7",
+              "sourceHeRef": "וְהַחֶנְוָונִי אֵינוֹ חַיָּיב",
+              "sourceRef": "And a storekeeper is not obligated"
+            },
+            {
+              "en": "If a homeowner sells a liquid, after emptying the vessel used for measuring it into the buyer’s vessel he must leave it there until three drops drip out. A storekeeper is not required to do so (<i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 231:7).",
+              "he": "בעל בית המוכר דבר לח, אחרי שמרוקן את כלי המידה לתוך כלי הקונה — צריך להשהותו עד שיטפטף שלוש טיפות, אבל חנווני אינו צריך. (שו\"ע חו\"מ רלא, ז).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 87a:7",
+              "sourceHeRef": "שָׁלֹשׁ טִיפִּין",
+              "sourceRef": "Three drops"
+            },
+            {
+              "en": "Some claim that this ruling as to when a storekeeper must clean his measuring vessels applies only according to the opinion of the Rabbis. By contrast, Rabban Shimon ben Gamliel maintains that since a storekeeper sells more frequently than a wholesaler he is required to clean his measuring vessels less regularly (Rashbam, citing his teachers). The Rashbam himself explains that in light of the ruling of the previous mishna that a storekeeper is not obligated to drip three drops after measuring, there is a greater concern that some residue might have settled in his measuring vessels than in the case of a wholesaler or a homeowner, who are obligated to drip the three drops. Consequently, Rabban Shimon ben Gamliel accepts this <i>halakha</i>. Alternatively, a storekeeper is treated more stringently because he often sells to the poor, and therefore must be especially careful not to cause them a loss (Meiri).",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Bava Batra 87a:7",
+              "sourceHeRef": "חֶנְוָונִי",
+              "sourceRef": "A storekeeper"
+            },
+            {
+              "en": "A storekeeper, who constantly measures small quantities of liquids and who is not required to drip three drops after pouring liquid into the vessel of the buyer, must clean his measuring vessels twice a week. If he weighs liquids on a balance scale, he cleans the weights once a week and cleans the pans of the scales after each and every weighing (Rambam<i> Sefer Nezikin</i>,<i> Hilkhot Geneiva</i> 8:18; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 231:12).",
+              "he": "",
+              "ref": "Steinsaltz comment #4 on Bava Batra 87a:7",
+              "sourceHeRef": "חֶנְוָונִי וכו׳",
+              "sourceRef": "A storekeeper, etc."
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches an additional <i>halakha</i> with regard to sales: <b>And</b> anyone who sells wine, oil, or similar liquids is <b>obligated,</b> after he transfers the liquid into the buyer’s vessel, <b>to drip for him three</b> extra <b>drops</b> from the measure. After he drips those three drops, if <b>he turned</b> the barrel on its side <b>and drained</b> out the last bits of liquid that it contained, this <b>belongs to the seller</b> and he is not required to give these last drops to the buyer. <b>And a storekeeper is not obligated to drip three drops,</b> because he is too busy to do this constantly. <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> says:</b> If the sale occurs on <b>Shabbat eve as nightfall</b> arrives, one is <b>exempt</b> from dripping these three drops, as there is a need to complete the transaction before Shabbat begins.",
+      "he": "וְחַיָּיב לְהַטִּיף לוֹ שָׁלֹשׁ טִיפִּין. הִרְכִּינָהּ וּמִיצֵּית – הֲרֵי הוּא שֶׁל מוֹכֵר. וְהַחֶנְווֹנִי – אֵינוֹ חַיָּיב לְהַטִּיף שָׁלֹשׁ טִיפִּין. רַבִּי יְהוּדָה אוֹמֵר: עֶרֶב שַׁבָּת עִם חֲשֵׁכָה – פָּטוּר.",
+      "ref": "Bava Batra 87a:7"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>האי מדה דמאן אילימא דלוקח עד שלא נתמלאת המדה למוכר, אמאי, דלוקח הוא.</b> כלומר, אם יש בה שנתות וכדאמר ליה כל שנת ושנת בכך וכך. ואוקימנא במדה דסרסור. והוא הדין דהוה מצי לאוקומה במדה דלוקח ובשאין בה שנתות, ואי נמי בשיש בה וכשלא אמר לו כל שנת ושנת בכך וכך, אלא משום דבמתניתין ובברייתא קתני מדות סתם ואוקימנא על כרחין ברייתא בשיש בה שנתות ואמר ליה כל שנת בכך, ניחא ליה טפי לאוקומה נמי מתניתין בהכין. כנ\"ל.",
+              "ref": "Rashba on Bava Batra 87a:3",
+              "sourceHeRef": "רשב״א על בבא בתרא פ״ז א:ג",
+              "sourceRef": "Rashba on Bava Batra 87a:3"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי מדה דלוקח היא</strong> - וליקני ליה כליו כדתניא לעיל אם היתה מדה של אחד מהן ראשון ראשון קנה דהכא נמי בשיש שנתות במדה עסקינן כדאוקימנא לההיא דלעיל דהא סתמא קתני אפילו במדה שיש לה שנתות ואמר ליה הין בשתים עשר סלעים לוג בסלע:",
+              "ref": "Rashbam on Bava Batra 87a:8:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ח:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מדה דמוכר הוא</strong> - ואמאי קנה לוקח דהא אפילו אם תמצא לומר דברשות לוקח מיירי הא איבעיא לן לעיל אם הכלי חשוב הפסקת רשות ולא איפשיטא וא\"כ תפשוט ממתני' דכליו של מוכר ברשות לוקח קנה לוקח והוא הדין לכליו של לוקח ברשות מוכר דקנה מוכר:",
+              "ref": "Rashbam on Bava Batra 87a:8:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ח:ב",
+              "sourceRef": "Rashbam on Bava Batra 87a:8:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג גמרא</big> ומבררים את דין המשנה במידה, אם נתמלאת או לא, <b>הא</b> <span class=\"hebrew-emphasis\">[זו]</span> ה<b>מדה</b> שמודדים בה, <b>דמאן</b> <span class=\"hebrew-emphasis\">[של מי]</span> היא? <b>אילימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> ש<b>מדה</b> של ה<b>לוקח</b> היא, מדוע <b>עד שלא נתמלאת</b> ה<b>מדה</b> — <b>למוכר?</b> הלא ה<b>מדה</b> של ה<b>לוקח היא,</b> וקנה כל מה שנכנס בתוך כליו, גם כאשר לא נתמלאו! <b>ואלא</b> תאמר שהיא <b>מדה</b> של ה<b>מוכר,</b> אם כן <b>משנתמלאת</b> ה<b>מדה</b> מדוע מה שבתוכה נקנה <b>ללוקח?</b> הלא <b>מדה</b> של ה<b>מוכר היא</b> ועדיין לא נכנס הדבר לרשותו או לכליו של הלוקח!",
+              "ref": "Steinsaltz on Bava Batra 87a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:ח",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:8"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> The Gemara clarifies the mishna’s statement that the sale occurs once the measuring vessel is filled. <b>This measuring</b> vessel, <b>to whom</b> does it belong? <b>If we say</b> that the <b>measuring</b> vessel belongs <b>to the buyer,</b> why does the mishna teach that <b>before the measuring</b> vessel <b>is filled</b> the merchandise still belongs <b>to the seller?</b> Since <b>it is the measuring</b> vessel <b>of the buyer,</b> he should acquire everything that is placed in his vessel, whether or not it is filled. <b>But</b> if we say that the <b>measuring</b> vessel belongs <b>to the seller,</b> why does the mishna teach that <b>once the measuring</b> vessel <b>is filled</b> the merchandise belongs <b>to the buyer?</b> Since <b>it is the measuring</b> vessel <b>of the seller,</b> the merchandise has yet to enter the possession of the buyer.",
+      "he": "<big><strong>גְּמָ׳</strong></big> הָא מִדָּה, דְּמַאן? אִילֵּימָא מִדָּה דְלוֹקֵחַ, עַד שֶׁלֹּא נִתְמַלֵּאת מִדָּה – לַמּוֹכֵר?! מִדָּה דְלוֹקֵחַ הִיא! וְאֶלָּא מִדָּה דְמוֹכֵר? מִשֶּׁנִּתְמַלֵּאת מִדָּה – לַלּוֹקֵחַ?! מִדָּה דְמוֹכֵר הִיא!",
+      "ref": "Bava Batra 87a:8",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">סִרְסוּר</strong>, <strong dir=\"rtl\">סִירְ׳</strong> m. (reduplic. of <span class=\"refLink\" data-ref=\"Jastrow, סוּר I 1\" dir=\"rtl\" href=\"/Jastrow,_סוּר I.1\">סור</span>; compare Arab. <i>sursûr</i>) <i>going around, examination</i>; (subaudi <span dir=\"rtl\">בעל</span>) <i>expert, middleman, broker</i> (compare <span class=\"refLink\" data-ref=\"Jastrow, סַפְסָר 1\" dir=\"rtl\" href=\"/Jastrow,_סַפְסָר.1\">סַפְסָר</span>, <span class=\"refLink\" data-ref=\"Jastrow, סַפְסִירָא 1\" dir=\"rtl\" href=\"/Jastrow,_סַפְסִירָא.1\">סַפְסִירָא</span>). <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 5:8\" href=\"/Mishnah_Bava_Batra.5.8\">Bava Batra V, 8</span> <span dir=\"rtl\">אם היה ס׳ ביניהן … לס׳</span> if a middleman is between them, and the cask is broken (before delivery to the purchaser), the middleman has to suffer the loss; <span class=\"refLink\" data-ref=\"Bava Batra 87a:9\" href=\"/Bava_Batra.87a.9\">ib. 87ᵃ</span> <span dir=\"rtl\">במדת ס׳</span> when the vessel belonged to the middleman; <span class=\"refLink\" data-ref=\"Devarim Rabbah 3:12\" href=\"/Devarim_Rabbah.3.12\">Devarim Rabbah section (Parashah) 3</span> <span dir=\"rtl\">נשברה החבית נשברה לס׳</span>; Midrash Tanḥuma Ekeb 11 (correct accordingly). Breishit Rabbah R. section (Parashah) 8 <span dir=\"rtl\">עשה לו סחורה ע\"י ס׳</span> had business done through a commissioner. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 10:16\" href=\"/Kohelet_Rabbah.10.16\">Kohelet Rabbah to X, 16</span> <span dir=\"rtl\">הדיין יושב … והס׳ מכריע וכ׳</span> the judge is seated, the parties stand, and the mediator tries to compromise between them. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Megillah 4:1:4\" href=\"Jerusalem_Talmud_Megillah.4.1.4\">Yerushalmi Megillah IV, 74ᵈ</span> top <span dir=\"rtl\">כשם שנתנה ע\"י ס׳ וכ׳</span> as the Law was given through an agent (Moses), so it must be taught through an agent (the Amora, see <span class=\"refLink\" data-ref=\"Jastrow, אֲמוֹרָא 1\" dir=\"rtl\" href=\"/Jastrow,_אֲמוֹרָא.1\">אֲמוֹרָא</span>). Pesikta d'Rav Kahana Haḥod., p. 45ᵃ <span dir=\"rtl\">הס׳</span> the agent (Moses); <span class=\"refLink\" data-ref=\"Pesikta Rabbati 15:1\" href=\"/Pesikta_Rabbati.15.1\">Pesikta d'Rav Kahana R. section (Parashah) 15</span> <span dir=\"rtl\">פני הס׳</span> (strike out <span class=\"refLink\" data-ref=\"Jastrow, שָׁלַט 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁלַט.1\">השליט</span> or <span dir=\"rtl\">השליח</span>, as a gloss to <span dir=\"rtl\">הס׳</span>). <span class=\"refLink\" data-ref=\"Eichah Rabbah 1:53\" href=\"/Eichah_Rabbah.1.53\">Eicha Rabbah to I, 18</span> <span dir=\"rtl\">פיהו ופום סִרְסוּרוֹ</span> against his commandment and that of his agent (the prophet); and from—<span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 3:1:9\" href=\"Jerusalem_Talmud_Berakhot.3.1.9\">Yerushalmi Berakhot III, 6ᵃ</span> top; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Moed Katan 3:5:24\" href=\"Jerusalem_Talmud_Moed_Katan.3.5.24\">Yerushalmi Moʿed Katan III, 83ᵃ</span> top <span dir=\"rtl\">הס׳</span> the agent of sin, see <span class=\"refLink\" data-ref=\"Jastrow, כפי 1\" dir=\"rtl\" href=\"/Jastrow,_כפי.1\">כָּפָה</span>.—plural <span dir=\"rtl\">סִרְסוּרִין</span>, <span class=\"refLink\" data-ref=\"Jastrow, סִרְיָינָא 1\" dir=\"rtl\" href=\"/Jastrow,_סִרְיָינָא.1\">סִירְ׳</span>. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 17:6\" href=\"/Bamidbar_Rabbah.17.6\">Bamidabar Rabbah section (Parashah) 17</span>, end (reference. to <span class=\"refLink\" data-ref=\"Numbers 15:39\" href=\"/Numbers.15.39\">Bamidbar XV, 39</span>) <span dir=\"rtl\">הלב … ס׳ לגוף</span> the heart and the eyes are the body’s agents (panders); Midrash TanḥumaSh’laḥ 15; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, סִרְסוּר 1",
+              "sourceHeRef": "מילון יסטרוב, סִרְסוּר א׳",
+              "sourceRef": "Jastrow, סִרְסוּר 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Similar rules apply when a person sells wine or oil to a colleague in a corner of the public domain or in a courtyard belonging to both the seller and the purchaser, or in a domain belonging to the purchaser, and the measure belongs to the broker. Before the measure is filled, the liquid remains the seller's. Once the measure is filled, the liquid becomes the purchaser's. Neither of them can retract.",
+              "he": "וְכֵן הַמּוֹכֵר יַיִן אוֹ שֶׁמֶן לַחֲבֵרוֹ בְּסִמְטָא אוֹ בְּחָצֵר שֶׁל שְׁנֵיהֶם אוֹ בִּרְשׁוּת לוֹקֵחַ. וְהָיְתָה הַמִּדָּה שֶׁל סַרְסוּר. עַד שֶׁלֹּא נִתְמַלֵּאת הַמִּדָּה הֲרֵי הֵן שֶׁל מוֹכֵר. מִשֶּׁנִּתְמַלֵּאת הַמִּדָּה הֲרֵי הֵן בִּרְשׁוּת לוֹקֵחַ. וְאֵין אֶחָד מֵהֶן יָכוֹל לַחְזֹר בּוֹ:",
+              "ref": "Mishneh Torah, Sales 4:8",
+              "sourceHeRef": "הלכות מכירה ד:ח",
+              "sourceRef": "Sales 4:8"
+            },
+            {
+              "en": "The following rule applies whenever a broker informs the purchaser that a specific article or piece of property belongs to a principal, Reuven. If, after the purchaser acquires the article, Reuven says: \"I don't want to sell at this price,\" the purchaser must return the article. For Reuven did not specify a price and tell the agent: \"Sell the article for this and this much.\"<br>Whenever a broker loses an article, or it is stolen or broken, he is liable to reimburse the owner, for he is considered a paid watchman.",
+              "he": "כָּל סַרְסוּר שֶׁהוֹדִיעַ לַלּוֹקֵחַ שֶׁחֵפֶץ זֶה אוֹ קַרְקַע זֶה שֶׁל רְאוּבֵן וְאַחַר שֶׁקָּנָה הַלּוֹקֵחַ אָמַר רְאוּבֵן אֵינִי רוֹצֶה לִמְכֹּר בְּדָמִים אֵלּוּ מַחְזִיר הַלּוֹקֵחַ שֶׁהֲרֵי לֹא פָּסַק לוֹ דָּמִים וְאָמַר לוֹ מָכוּר לְךָ בְּכָךְ וְכָךְ. [כָּל] סַרְסוּר שֶׁאָבַד הַחֵפֶץ מִיָּדוֹ אוֹ נִגְנַב אוֹ נִשְׁבַּר חַיָּב לְשַׁלֵּם מִפְּנֵי שֶׁהוּא נוֹשֵׂא שָׂכָר:",
+              "ref": "Mishneh Torah, Agents and Partners 2:7",
+              "sourceHeRef": "הלכות שלוחין ושותפין ב:ז",
+              "sourceRef": "Agents and Partners 2:7"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">במדת סרסור</strong> - שהשאילה לשניהן וכדתניא לעיל בברייתא וטעמא כדפרישית ותנינא במתניתין מאי דתני בברייתא לעיל דארבע מדות:",
+              "ref": "Rashbam on Bava Batra 87a:9:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ט:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רישא</strong> - שהשאיל להם המדה והסרסור אינו שם וקא משמע לן דאינן שלוחיו של סרסור להיות המקח ברשותו ואף על גב דהמדה שלו ודרך סרסור למדוד במדתו להשתכר בלוקח הלוקח ממנו:",
+              "ref": "Rashbam on Bava Batra 87a:9:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ט:ב",
+              "sourceRef": "Rashbam on Bava Batra 87a:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סיפא</strong> - שהסרסור ביניהן דכיון שהוא שם והמדה שלו המקח ברשותו דאיהו לוקח מן המוכר ומוכר ללוקח ומשום הכי כי נשברה נשברה לסרסור דכליו קני ליה כדתניא לעיל ראשון ראשון קנה:",
+              "ref": "Rashbam on Bava Batra 87a:9:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:ט:ג",
+              "sourceRef": "Rashbam on Bava Batra 87a:9:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "If, by contrast, the seller measures the produce into containers belonging to the purchaser, the purchaser does not acquire it. For a purchaser's containers cannot acquire on his behalf in the public domain.<br>If the produce is located in a domain belonging to the purchaser, once the seller agrees to sell the produce, the purchaser acquires it, even if he does not measure it.<br>If the produce is located in a domain belonging to the seller, or in a domain belonging to a person to whom the seller has entrusted it, the purchaser does not acquire the produce until he lifts it up, or until he removes it from the seller's domain by renting its place, or the like, as we have explained.",
+                      "he": "הָיָה מוֹכֵר מוֹדֵד לְתוֹךְ כֶּלְיוֹ שֶׁל לוֹקֵחַ לֹא קָנָה שֶׁאֵין כֶּלְיוֹ שֶׁל לוֹקֵחַ קוֹנֶה לוֹ בִּרְשׁוּת הָרַבִּים. הָיוּ הַפֵּרוֹת בִּרְשׁוּת הַלּוֹקֵחַ כֵּיוָן שֶׁקִּבֵּל עָלָיו הַמּוֹכֵר לִמְכֹּר קָנָה לוֹקֵחַ וְאַף עַל פִּי שֶׁעֲדַיִן לֹא מָדַד. הָיוּ בִּרְשׁוּת הַמּוֹכֵר אוֹ בִּרְשׁוּת הַמֻּפְקָדִין אֶצְלוֹ לֹא קָנָה הַלּוֹקֵחַ עַד שֶׁיַּגְבִּיהַּ הַפֵּרוֹת אוֹ עַד שֶׁיּוֹצִיאֵם מֵרְשׁוּתוֹ בִּשְׂכִירוּת מְקוֹמָן וְכַיּוֹצֵא בּוֹ כְּמוֹ שֶׁבֵּאַרְנוּ:",
+                      "ref": "Mishneh Torah, Sales 4:6",
+                      "sourceHeRef": "הלכות מכירה ד:ו",
+                      "sourceRef": "Sales 4:6"
+                    },
+                    {
+                      "en": "The following rules apply when the produce is located in a corner of the public domain or in a domain belonging to both the seller and the purchaser -or even if it is in a domain belonging to the purchaser, but in containers belonging to the seller- and the seller agreed to sell the produce, and has begun to measure it into containers belong to the seller. If the seller tells the purchaser: \"I will sell you a <i>kor</i> of produce for 30 sela,\" he can retract even at the last <i>se'ah,</i> because the produce is in his containers, and he has not completed the measurement. For the containers belonging to a seller do not acquire for a purchaser, even in the purchaser's domain.<br>If he told him: \"I will sell you a <i>kor</i> of produce for 30 <i>sela,</i> i.e., each <i>se'ah</i> for a <i>sela</i>\" the purchaser acquires each <i>se'ah,</i> one by one as it is measured.For since the seller mentioned the price for each individual <i>se'ah,</i> each of those units is a distinct entity. Whenever the seller lifts up a <i>se'ah</i> and pours it into the measure, the sale of this unit is concluded.<br>The rationale for this law is that the produce is not located in a domain belonging to the seller, nor is it in the public domain. If the produce was not held in the containers of the seller, the purchaser would acquire it once a price was agreed upon, since it is located in his domain even though it had not been measured, as has been explained in the previous halachah.",
+                      "he": "הָיוּ הַפֵּרוֹת בְּסִמְטָא אוֹ בְּחָצֵר שֶׁל שְׁנֵיהֶם. וַאֲפִלּוּ הָיוּ בִּרְשׁוּת לוֹקֵחַ וְהָיוּ בְּתוֹךְ כֶּלְיוֹ שֶׁל מוֹכֵר וְקִבֵּל עָלָיו הַמּוֹכֵר לִמְכֹּר וְהִתְחִיל הַמּוֹכֵר לִמְדֹּד בְּתוֹךְ כֶּלְיוֹ שֶׁל מוֹכֵר. אִם אָמַר לוֹ כּוֹר בִּשְׁלֹשִׁים סֶלַע אֲנִי מוֹכֵר לְךָ יָכוֹל לַחְזֹר בּוֹ אֲפִלּוּ בִּסְאָה אַחֲרוֹנָה הוֹאִיל וַעֲדַיִן הַפֵּרוֹת בְּכֵלָיו וְלֹא גָּמַר כָּל הַמִּדָּה וְכֵלָיו שֶׁל מוֹכֵר אֵינוֹ קוֹנֶה לַלּוֹקֵחַ אַף עַל פִּי שֶׁהוּא בִּרְשׁוּת הַלּוֹקֵחַ. וְאִם אָמַר לוֹ כּוֹר בִּשְׁלֹשִׁים סְאָה בְּסֶלַע רִאשׁוֹן רִאשׁוֹן קָנָה שֶׁכֵּיוָן שֶׁפָּסְקוּ הַדָּמִים עַל כָּל סְאָה וּסְאָה כָּל סְאָה שֶׁיַּגְבִּיהַּ הַמּוֹכֵר וִיעָרֶה אוֹתָהּ נִגְמְרָה מְכִירָתָהּ. הוֹאִיל וְאֵין הַפֵּרוֹת בִּרְשׁוּת הַמּוֹכֵר וְלֹא בִּרְשׁוּת הַלּוֹקֵחַ. וְאִלּוּ לֹא הָיָה הַפֵּרוֹת בְּכֵלָיו שֶׁל מוֹכֵר כֵּיוָן שֶׁהֵן בִּרְשׁוּת לוֹקֵחַ קָנָה מִשֶּׁפָּסַק אַף עַל פִּי שֶׁלֹּא מָדַד כְּמוֹ שֶׁבֵּאַרְנוּ:",
+                      "ref": "Mishneh Torah, Sales 4:7",
+                      "sourceHeRef": "הלכות מכירה ד:ז",
+                      "sourceRef": "Sales 4:7"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "המוכר יין או שמן לחבירו בסימטא או בחצר של שניהם או ברשות לוקח והיתה המדה של סרסור עד שלא נתמלאה המדה הרי הן של מוכר משנתמלאה המדה הרי הן ברשות לוקח ואין אחד מהם יכול לחזור בו וכן פירות שהיו צבורים בסימטא או בחצר של שניהם והמדה אינה של אחד מהם והיה המוכר מודד עד שלא נתמלאה המדה הרי היא ברשות מוכר ומשנתמלאה המדה הרי היא ברשות לוקח:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 200:9",
+              "sourceHeRef": "חושן משפט ר:ט - דין קניית מטלטלין על ידי חצירו וכיצד קונה כליו.",
+              "sourceRef": "Choshen Mishpat 200:9"
+            },
+            {
+              "en": "",
+              "he": "כל סרסור שאבד החפץ מידו או נגנב אפי' בשעת הליכה חייב לשלם מפני שהוא נושא שכר:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 185:7",
+              "sourceHeRef": "חושן משפט קפה:ז - סרסור שמכר בפחות או ביותר ממה שאמר לו בעל הבית ושאר טענות שבינו לבין בעל הבית.",
+              "sourceRef": "Choshen Mishpat 185:7"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ר' אלעא:</b> מדובר פה <b>במדת סרסור,</b> שהמתווך ביניהם, הוא בעל המידה, ואינה שייכת לא למוכר ולא לקונה. אלא שהוא משאילה למוכר על מנת למדוד בה, ומשעה שנתמלאת — הרי זה לקונה, כדי שיעביר מה שיש בה לכליו שלו. ומקשים: <b>והא מדקתני סיפא</b> <span class=\"hebrew-emphasis\">[והרי מ</span>מה <span class=\"hebrew-emphasis\">ששנה בסוף</span> בהמשך המשנה<span class=\"hebrew-emphasis\">]:</span> <b>ואם היה סרסור ביניהם, נשברה החבית</b> — <b>נשברה לסרסור, מכלל</b> הדבר אתה למד <b>דרישא לאו</b> <span class=\"hebrew-emphasis\">[שבתחילה לא]</span> <b>בסרסור עסקינן</b> <span class=\"hebrew-emphasis\">[עוסקים אנו]!</span> ומשיבים: <b>רישא</b> <span class=\"hebrew-emphasis\">[בתחילה]</span> מדובר ב<b>מדה</b> של סרסור <b>בלא</b> ה<b>סרסור</b> עצמו, <b>סיפא</b> <span class=\"hebrew-emphasis\">[סופה]</span> <b>בסרסור עצמו</b> שהיה עימם בשעת המכירה, ולכן האחריות מוטלת עליו.",
+              "ref": "Steinsaltz on Bava Batra 87a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:ט",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:9"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rabbi Ela says:</b> The mishna is referring to a case <b>where the measuring</b> vessel belongs to the <b>middleman.</b> The middleman lends it to the seller, and once it is filled it is loaned to the buyer so that he can transfer its contents into his vessels. The Gemara asks: <b>But from</b> the fact <b>that the latter clause teaches: And if there was a middleman between them</b> and <b>the barrel broke, it broke for the middleman, it may be inferred that</b> in <b>the first clause we are not dealing with a middleman.</b> The Gemara answers: <b>The first clause</b> addresses <b>a measuring</b> vessel belonging to a middleman <b>without</b> the presence of the <b>middleman</b> at the transaction, whereas <b>the latter clause</b> is concerned <b>with a middleman himself,</b> who is present at the sale and therefore accepts responsibility for the barrel and its contents.",
+      "he": "אָמַר רַבִּי אִלְעָא: בְּמִדַּת סַרְסוּר. וְהָא מִדְּקָתָנֵי סֵיפָא: וְאִם הָיָה סַרְסוּר בֵּינֵיהֶם, נִשְׁבְּרָה הֶחָבִית – נִשְׁבְּרָה לַסַּרְסוּר; מִכְּלָל דְּרֵישָׁא לָאו בְּסַרְסוּר עָסְקִינַן! רֵישָׁא – מִדָּה בְּלֹא סַרְסוּר, סֵיפָא – בְּסַרְסוּר עַצְמוֹ.",
+      "ref": "Bava Batra 87a:9"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">כִּי</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, כִּי 1\" href=\"/Jastrow,_כִּי.1\">same</span> <br><b>1)</b> <i>as, like</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 14:19\" href=\"/Targum_Jonathan_on_Isaiah.14.19\">Targum Isaiah XIV, 19</span>, see <span class=\"refLink\" data-ref=\"Jastrow, יְחַט 1\" dir=\"rtl\" href=\"/Jastrow,_יְחַט.1\">יְחַט</span>; and from, see <span class=\"refLink\" data-ref=\"Jastrow, כְּ־ 1\" dir=\"rtl\" href=\"/Jastrow,_כְּ־.1\">כְּ־</span>.—<span class=\"refLink\" data-ref=\"Moed Katan 28b:10\" href=\"/Moed_Katan.28b.10\">Moʿed Katan 28ᵇ</span> <span dir=\"rtl\">מותא כי מותא וכ׳</span> death like death, i.e. death must naturally ensue, see <span class=\"refLink\" data-ref=\"Jastrow, חֲבוּלְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_חֲבוּלְיָא.1\">חֲבוּלְיָא</span>. <span class=\"refLink\" data-ref=\"Shabbat 140b:19\" href=\"/Shabbat.140b.19\">Shabbat 140ᵇ</span>. see <span class=\"refLink\" data-ref=\"Jastrow, אוּרְכָּא 1\" dir=\"rtl\" href=\"/Jastrow,_אוּרְכָּא.1\">אוּרְכָּא</span>.—<span class=\"refLink\" data-ref=\"Kiddushin 81a:15\" href=\"/Kiddushin.81a.15\">Kiddushin 81ᵃ</span> <span dir=\"rtl\">יומא כי האידנא</span> on a day like this.—<span dir=\"rtl\">כי הא ד־</span> as that which is told of &c. <span class=\"refLink\" data-ref=\"Pesachim 117a:17\" href=\"/Pesachim.117a.17\">Pesachim 117ᵃ</span>; and from—<span class=\"refLink\" data-ref=\"Chagigah 2a:6\" href=\"/Chagigah.2a.6\">Chagigah 2ᵃ</span>, and from <span dir=\"rtl\">דלא כי האי תנא</span> which is not in agreement with the opinion of &c.—<span class=\"refLink\" data-ref=\"Bava Kamma 46a:11\" href=\"/Bava_Kamma.46a.11\">Bava Kamma 46ᵃ</span> <span dir=\"rtl\">לְכִי הא דאיתמר</span> for a case like the one that is told.—<span class=\"refLink\" data-ref=\"Nedarim 49a:4\" href=\"/Nedarim.49a.4\">Nedarim 49ᵃ</span>, and from <span dir=\"rtl\">כי אתריה</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אָתַר 1\" dir=\"rtl\" href=\"/Jastrow,_אָתַר.1\">אֲתַר</span>.—<span class=\"refLink\" data-ref=\"Horayot 13b:13\" href=\"/Horayot.13b.13\">Horayot 13ᵇ</span> <span dir=\"rtl\">נתקין … כי לדידן</span> let us institute something like that which has been done concerning ourselves; and from <br><b><br>—2)</b> <i>when</i>. <span class=\"refLink\" data-ref=\"Targum Jerusalem, Leviticus 26:44\" href=\"/Targum_Jerusalem,_Leviticus.26.44\">Targum Yonatan II, Vayikra XXVI, 44</span>; and from—<span class=\"refLink\" data-ref=\"Chullin 110a:2\" href=\"/Chullin.110a.2\">Chullin 110ᵃ</span>; <span class=\"refLink\" data-ref=\"Bava Batra 87a:10\" href=\"/Bava_Batra.87a.10\">Bava Batra 87ᵃ</span> <span dir=\"rtl\">כי סליק וכ׳</span> when R. El. went to Palestine. <span class=\"refLink\" data-ref=\"Sanhedrin 74a:21\" href=\"/Sanhedrin.74a.21\">Sanhedrin 74ᵃ</span>, and from <span dir=\"rtl\">כי אתא וכ׳</span> when R. … came (from Palestine).—<span dir=\"rtl\">וכי תימא</span> (abbr. <span dir=\"rtl\">וכ\"ת</span>), see <span class=\"refLink\" data-ref=\"Jastrow, אֲמָא II 1\" href=\"/Jastrow,_אֲמָא II.1\"><span dir=\"rtl\">אֲמָא</span> II</span>.—<span class=\"refLink\" data-ref=\"Jerusalem Talmud Sanhedrin 7:13:4\" href=\"Jerusalem_Talmud_Sanhedrin.7.13.4\">Yerushalmi Sanhedrin VII, end, 25ᵈ</span> <span dir=\"rtl\">כי יתבון וכ׳</span> (not <span class=\"refLink\" data-ref=\"Jastrow, כַּיי 1\" dir=\"rtl\" href=\"/Jastrow,_כַּיי.1\">כיי</span>) when they sat down to eat; and see from—<span dir=\"rtl\">כי היכי</span> a) <i>in order that</i>, see <span class=\"refLink\" data-ref=\"Jastrow, הֵיכִי 1\" dir=\"rtl\" href=\"/Jastrow,_הֵיכִי.1\">הֵיכִי</span>.—b) <i>as well as, in the same way as</i>. <span class=\"refLink\" data-ref=\"Taanit 9b:8\" href=\"/Taanit.9b.8\">Taanit 9ᵇ</span> <span dir=\"rtl\">כי ה׳ … הכי וכ׳</span> as the Babylonians are deceitful, so are their rains; and from—[<span dir=\"rtl\">כַּי</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כַּיי 1\" dir=\"rtl\" href=\"/Jastrow,_כַּיי.1\">כַּיי</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, כִּי ² 1",
+              "sourceHeRef": "מילון יסטרוב, כִּי ² א׳",
+              "sourceRef": "Jastrow, כִּי ² 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The Gemara above cited a second version of Rav’s opinion, according to which an udder that was roasted without being torn is prohibited for consumption. The Gemara relates: <b>When Rabbi Elazar ascended</b> from Babylonia to Eretz Yisrael <b>he found Ze’eiri</b> and <b>said to him: Is there a <i>tanna</i> who taught Rav</b> that <b>an udder</b> roasted without first being torn is prohibited? Ze’eiri <b>showed him Rav Yitzḥak bar Avudimi.</b> Rav Yitzḥak bar Avudimi <b>said to</b> Rabbi Elazar: <b>I did not teach</b> Rav that <b>an udder</b> is prohibited <b>at all;</b> rather, <b>Rav found</b> an unguarded <b>valley and fenced it in.</b> Rav taught this stringent ruling as an additional safeguard in Babylonia, where Jews were not careful about the prohibition of meat cooked in milk.",
+                "The Gemara elaborates: <b>As</b> when <b>Rav arrived in Tatlefush, he heard a certain woman saying to another: How much milk does it require to cook a quarter</b> weight <b>of meat?</b> Rav <b>said:</b> Evidently, these people <b>are not learned</b> enough in <i>halakha</i> to know <b>that meat</b> cooked <b>in milk is prohibited.</b> Rav <b>tarried</b> in that place, <b>and prohibited</b> even <b>udders to them,</b> so that they would not come to violate the prohibition of meat cooked in milk.",
+                "<b>Rav Kahana teaches</b> that Rav Yitzḥak bar Avudimi replied to Rabbi Elazar in <b>that</b> manner described above. By contrast, <b>Rabbi Yosei bar Abba teaches</b> that Rav Yitzḥak bar Avudimi said: <b>I taught</b> Rav only that <b>the udder of</b> an animal <b>nursing</b> offspring is prohibited, as its udder contains much milk. <b>And due to the sharp</b> mind <b>of Rav Ḥiyya,</b> Rav’s teacher, he assumed that Rav too would understand this without his saying so explicitly. Therefore, he <b>taught</b> this <i>halakha</i> to Rav with regard to <b>an unspecified udder.</b> Rav mistakenly thought that the ruling applies to all animals."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Chullin 110a:2",
+                "Chullin 110a:3",
+                "Chullin 110a:4"
+              ],
+              "he": [
+                "כי סליק רבי אלעזר אשכחיה לזעירי אמר ליה איכא תנא דאתנייה לרב כחל אחוייה לרב יצחק בר אבודימי אמר ליה אני לא שניתי לו כחל כל עיקר ורב בקעה מצא וגדר בה גדר",
+                "דרב איקלע לטטלפוש שמעה לההיא איתתא דקאמרה לחבירתה ריבעא דבשרא כמה חלבא בעי לבשולי אמר לא גמירי דבשר בחלב אסור איעכב וקאסר להו כחלי",
+                "רב כהנא מתני הכי רבי יוסי בר אבא מתני אנא כחל של מניקה שניתי לו ומפלפולו של רבי חייא שנה ליה כחל סתם"
+              ],
+              "link": "/Chullin/110a",
+              "originalRefsBeforeRewriting": [
+                "Chullin 110a:2"
+              ],
+              "ref": "Chullin 110a:2-4",
+              "sourceHeRef": "חולין ק״י א",
+              "sourceRef": "Chullin 110a"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכי גרסינן מי כאן תנא דאתנייה רב מדות</strong> - כלומר היש כאן בארץ ישראל תנא שונה משניות וברייתות ששנה לו רב מדות מתני' דמיירי בדין מדות:",
+              "ref": "Rashbam on Bava Batra 87a:10:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא פ״ז א:י:א",
+              "sourceRef": "Rashbam on Bava Batra 87a:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ד</big> שנינו במשנה שאם <b>הרכינה</b> את החבית על צידה <b>ומיצית</b> — <b>הרי הוא של מוכר.</b> מסופר: <b>כי סליק</b> <span class=\"hebrew-emphasis\">[כאשר עלה]</span> <b>ר' אלעזר</b> מבבל לארץ ישראל <b>אשכחיה</b> <span class=\"hebrew-emphasis\">[מצא אותו]</span> את <b>זעירי, אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]:</span> <b>מי כאן</b> ה<b>תנא</b> <span class=\"hebrew-emphasis\">[שונה משניות]</span> <b>דאתנייה</b> <span class=\"hebrew-emphasis\">[ששנה לו]</span> <b>רב</b> הלכה זו לענין <b>מדות?</b> לפי שרצונו לברר עמו ענין קשה בהלכה זו. <b>אחוייה</b> <span class=\"hebrew-emphasis\">[הראה לו]</span> את <b>רב יצחק בר אבדימי. אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רב יצחק בר אבדימי: <b>מאי קא קשיא</b> <span class=\"hebrew-emphasis\">[מה קשה]</span> <b>לך</b> בהלכה זו? אמר לו: <b>דתנן</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> במשנה<span class=\"hebrew-emphasis\">]:</span> <b>הרכינה ומיצית</b> — <b>הרי הוא של מוכר,</b>",
+              "ref": "Steinsaltz on Bava Batra 87a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא פ״ז א:י",
+              "sourceRef": "Steinsaltz on Bava Batra 87a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Ze’eiri was a Babylonian <i>amora </i>of the second generation. He was a student of Rav and Rav Kahana.  At a young age, Ze’eiri emigrated to Eretz Yisrael, where he studied under Ĥanina bar Ĥama, whom he often quotes. He subsequently studied under Rabbi Yoĥanan, who so admired him that he desired him as a son-in-law. Ze’eiri’s refusal of the match stemmed from his sense that Babylonian scholars were superior to those of Eretz Yisrael. Ze’eiri eventually returned to Babylonia, where he was instrumental in transmitting the Torah of Eretz Yisrael to the students in the yeshiva of Neharde’a. His departure from Eretz Yisrael was apparently the reason why he was never ordained. The generations that followed him held him in high esteem, to such an extent that Rava confidently stated that a <i>baraita </i>that had not been explicated by Ze’eiri remains unexplained (<i>Zevaĥim</i> 43b). The statements of Ze’eiri deal exclusively with the realm of <i>halakha</i>. His primary student was Rav Ĥiyya bar Ashi.",
+              "he": "ראה בתוס' שדנו בדיוק הגרסה. ומכל מקום עניינו הוא שאם רב לימד למישהו משניות אלה, ודאי גם הסביר לו היטב את טעמי הדברים, ואת ההסבר למשניות הנראות כסותרות זו את זו (ראה רש\"י ב\"מ לג,ב).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 87a:10",
+              "sourceHeRef": "זְעֵירֵי",
+              "sourceRef": "Ze’eiri"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה מי כאן תנא דליתנייה לרב מדות כו' עכ\"ל היינו כגירסת ר\"ת כמו אתנייה לרב בפרק כ\"ה דמשמע דהוא שנה לרב ור\"ש מגיה דאתנייה רב בלא למ\"ד דמשמע דרב שנה לו וק\"ל:",
+                      "ref": "Chidushei Halachot on Bava Batra 87a:2",
+                      "sourceHeRef": "חדושי הלכות על בבא בתרא פ״ז א:ב",
+                      "sourceRef": "Chidushei Halachot on Bava Batra 87a:2"
+                    }
+                  ]
+                },
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה מי כאן כו' איכא תנא דאתנייה רב כחל כו' כצ\"ל:",
+                      "ref": "Chokhmat Shlomo on Bava Batra 87a:3",
+                      "sourceHeRef": "חכמת שלמה על בבא בתרא פ״ז א:ג",
+                      "sourceRef": "Chokhmat Shlomo on Bava Batra 87a:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי כאן תנא דליתנייה רב מדות</strong> - רבינו שמואל מגיה דאתנייה רב כלומר ששנה לו רב מדות משום דקשיא לי' היאך יתכן שהיה רבו של רב והא בימי רבא הוה כדאמרינן ביבמות <span class=\"parenthesized\">(דף ג. ושם ד\"ה דאמר)</span> אמר רבא אמר לי רב יצחק בר אבדימי וקשה לר\"ת דבפ' כל הבשר <span class=\"parenthesized\">(חולין דף קי. ושם ד\"ה איכא)</span> אמר איכא תנא דאתניי' לרב כחל אחוי ליה לרב יצחק בר אבדימי א\"ל אני לא שניתי לו כחל כל עיקר ולדבריו הוה לי' למימר ממנו ואמר רבינו תם דשני רב יצחק בר אבדימי הוו חד בימי רבי וחד בימי רבא כדאמרינן בפ' כירה <span class=\"parenthesized\">(שבת דף מ:)</span> אמר רב יצחק בר אבדימי פעם אחת נכנסתי אחר רבי לבית המרחץ ואותו היה רבו של רב ומיהו הכא אומר רשב\"א דעל כרחך רב יצחק בר אבדימי הוא תלמידו של רב דאי ס\"ד רבו של רב היכי קאמר לר\"א הא איתמר עלה אמר ר' אבהו <span class=\"parenthesized\">(א\"ר יוחנן)</span> והא אפי' ר' יוחנן שהיה רבו של רבי אבהו היה קורא את רב שהיה תלמידו של רב יצחק בר אבדימי רבינו כדאמרי' באלו טריפות <span class=\"parenthesized\">(חולין דף נד)</span>:",
+              "ref": "Tosafot on Bava Batra 87a:10:1",
+              "sourceHeRef": "תוספות על בבא בתרא פ״ז א:י:א",
+              "sourceRef": "Tosafot on Bava Batra 87a:10:1"
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches that if <b>he turned</b> the barrel on its side <b>and drained</b> out the last bits of liquid within it, this liquid <b>belongs to the seller.</b> The Gemara relates: <b>When <span href=\"/topics/rabbi-elazar-b-shamua\" class=\"namedEntityLink\" data-slug=\"רא-(ambiguous)\">Rabbi Elazar</span> ascended</b> from Babylonia to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>, <b>he found <span href=\"/topics/zeiri\" class=\"namedEntityLink\" data-slug=\"zeiri\">Ze’eiri</span></b> and <b>said to him: Who here</b> is <b>the <i>tanna</i> to whom <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> taught</b> this <i>halakha</i> with regard to <b>measures?</b> <span href=\"/topics/zeiri\" class=\"namedEntityLink\" data-slug=\"zeiri\">Ze’eiri</span> <b>showed him <span href=\"/topics/rav-yitzhak-b-avudimi\" class=\"namedEntityLink\" data-slug=\"rav-yitzhak-b-avudimi\">Rav Yitzḥak bar Avdimi</span>.</b> <span href=\"/topics/rav-yitzhak-b-avudimi\" class=\"namedEntityLink\" data-slug=\"rav-yitzhak-b-avudimi\">Rav Yitzḥak bar Avdimi</span> <b>said to</b> <span href=\"/topics/rabbi-elazar-b-shamua\" class=\"namedEntityLink\" data-slug=\"רא-(ambiguous)\">Rabbi Elazar</span>: <b>What</b> is it about this <i>halakha</i> <b>that</b> poses <b>a difficulty for you?</b> <span href=\"/topics/rabbi-elazar-b-shamua\" class=\"namedEntityLink\" data-slug=\"רא-(ambiguous)\">Rabbi Elazar</span> said to him that the problem is <b>that we learned</b> in the mishna: If <b>he turned</b> the barrel on its side <b>and drained</b> out the last bits of liquid within it, that liquid <b>belongs to the seller.</b>",
+      "he": "הִרְכִּינָהּ וּמִיצֵּית – הֲרֵי הוּא שֶׁל מוֹכֵר. כִּי סָלֵיק רַבִּי אֶלְעָזָר, אַשְׁכְּחֵיהּ לִזְעֵירִי, אֲמַר לֵיהּ: מִי כָּאן תַּנָּא דְּאַתְנְיֵיהּ רַב מִדּוֹת? אַחַוְיֵיהּ רַב יִצְחָק בַּר אַבְדִּימִי. אָמַר לֵיהּ: מַאי קָא קַשְׁיָא לָךְ? דִּתְנַן: הִרְכִּינָהּ וּמִיצִּיתָ – הֲרֵי הוּא שֶׁל מוֹכֵר,",
+      "ref": "Bava Batra 87a:10",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Bava Batra 87a",
+  "titleHebrew": "בבא בתרא פז,א",
+  "topics": []
+}

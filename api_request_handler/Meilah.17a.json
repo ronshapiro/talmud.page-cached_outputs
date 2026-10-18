@@ -1,0 +1,997 @@
+{
+  "id": "17a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר ליה כי אקשינהו רחמנא</strong> - בהמה טמאה וטהורה לשרצים לאו לפלוגי שיעורא בין נבילה מובדלת בין לנבילה שאינה מובדלת אלא לבל תשקצו וקמ\"ל דאחת נבלת בהמה טמאה ואחת נבלת בהמה טהורה ואחד שרצים מחייב האוכלן משום בל תשקצו נמי ולאפושי לאו בנבלת בהמה טמאה לבד מלאו דנבלה דאיכא לאו דלא תשקצו ולאו דבהמה טמאה:",
+              "ref": "Rashi on Meilah 17a:1:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:א:א",
+              "sourceRef": "Rashi on Meilah 17a:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רבא: <b>כי קא מקיש רחמנא</b> <span class=\"hebrew-emphasis\">[כאשר משוה הכתוב]</span> בהמה טמאה ובהמה טהורה לשרצים הרי זה רק <b>ל</b>ענין איסור <b>\"בל תשקצו</b> את נפשותיכם\" (ראה ויקרא כ, כה), ללמדנו שחייב האוכל את אלה גם משום האיסור הכללי \"בל תשקצו\", <b>אבל ל</b>ענין ההבחנה ב<b>שיעורין</b> בין הבהמה המובדלת לבין זו שאינה מובדלת — <b>לא</b> הוקשו הבהמות לשרצים.",
+              "ref": "Steinsaltz on Meilah 17a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:א",
+              "sourceRef": "Steinsaltz on Meilah 17a:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "So you shall set apart the clean beast from the unclean, the unclean bird from the clean. You shall not draw abomination upon yourselves through beast or bird or anything with which the ground is alive, which I have set apart for you to treat as unclean.",
+              "he": "וְהִבְדַּלְתֶּ֞ם בֵּֽין־הַבְּהֵמָ֤ה הַטְּהֹרָה֙ לַטְּמֵאָ֔ה וּבֵין־הָע֥וֹף הַטָּמֵ֖א לַטָּהֹ֑ר וְלֹֽא־תְשַׁקְּצ֨וּ אֶת־נַפְשֹֽׁתֵיכֶ֜ם בַּבְּהֵמָ֣ה וּבָע֗וֹף וּבְכֹל֙ אֲשֶׁ֣ר תִּרְמֹ֣שׂ הָֽאֲדָמָ֔ה אֲשֶׁר־הִבְדַּ֥לְתִּי לָכֶ֖ם לְטַמֵּֽא׃",
+              "link": "/Leviticus/20",
+              "ref": "Leviticus 20:25",
+              "sourceHeRef": "ויקרא כ:כה",
+              "sourceRef": "Leviticus 20:25"
+            },
+            {
+              "en": "You shall not draw abomination upon yourselves through anything that swarms; you shall not make yourselves unclean therewith and thus become unclean.",
+              "he": "אַל־תְּשַׁקְּצוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ וְלֹ֤א תִֽטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:43",
+              "sourceHeRef": "ויקרא יא:מג",
+              "sourceRef": "Leviticus 11:43"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> <b>said to</b> <span href=\"/topics/rav-adda-b-ahavah-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-אדא-בר-אהבה-(ambiguous)\">Rav Adda bar Ahava</span>: <b>When the Merciful One juxtaposes</b> kosher and non-kosher animals to creeping animals, this is referring <b>to</b> the prohibition of: “You shall <b>not make</b> your souls <b>detestable”</b> (Leviticus 20:25), teaching that they are all included in that prohibition. <b>But with regard to measures</b> the Torah does <b>not</b> juxtapose those animals to creeping animals. For this reason there is no difference between the measure of impurity of carcasses of kosher animals and non-kosher animals.",
+      "he": "אֲמַר לֵיהּ: כִּי קָא מַקֵּישׁ רַחֲמָנָא – לְבַל תְּשַׁקְּצוּ, אֲבָל לְשִׁיעוּרִין – לָא.",
+      "ref": "Meilah 17a:1"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "<b>All</b> the pieces of sacrificial meat that are <b><i>piggul</i> join together with one another</b> to constitute the olive-bulk measure for liability, <b>and all</b> sacrificial meat that is <b><i>notar</i> joins together with one another</b> to constitute the olive-bulk measure for liability. <b>All animal carcasses,</b> whose consumption is prohibited and which transmit impurity through contact with them and through carrying, <b>join together with one another</b> to constitute the requisite olive-bulk measure. <b>And all repugnant creatures join together with one another</b> to constitute the requisite olive-bulk measure to render one who consumes it liable to receive lashes. The eight creeping animals enumerated in the Torah join together to constitute the measure of a lentil-bulk, which transmits impurity through contact, and to render one who consumes it liable to receive lashes. <b>The blood of</b> one of <b>the</b> eight <b>creeping animals</b> listed in the Torah <b>and</b> their <b>flesh join together</b> to constitute the lentil-bulk measure to impart impurity. <b>Rabbi Yehoshua stated a principle:</b> With regard to <b>any</b> items <b>whose impurity,</b> in terms of degree and duration, <b>and measure</b> to impart impurity, <b>are equal,</b> e.g., two halves of an olive-bulk from two corpses or two animal carcasses or two halves of a lentil-bulk from two creeping animals, <b>they join together</b> to constitute the requisite measure. Rabbi Yehoshua continued: By contrast, with regard to items whose <b>impurity</b> is equal <b>but</b> their <b>measure</b> is <b>not</b> equal, e.g., a creeping animal and an animal carcass, each of which renders one impure until the evening, but the measure of a creeping animal is a lentil-bulk, whereas that of an animal carcass is an olive-bulk; or items whose <b>measure</b> is equal <b>but whose impurity</b> is <b>not</b> equal, e.g., a corpse and an animal carcass, with regard to which the measure of each is an olive-bulk, but the duration of the impurity imparted by a corpse is one week and the duration of the impurity imparted by an animal carcass is until the evening; or items that are equal <b>neither in</b> terms of <b>their impurity</b> nor in terms of <b>their measure, they do not join together</b> to constitute the requisite measure.",
+              "he": "כָּל הַפִּגּוּלִין מִצְטָרְפִין זֶה עִם זֶה. כָּל הַנּוֹתָרִין מִצְטָרְפִין זֶה עִם זֶה. כָּל הַנְּבֵלוֹת מִצְטָרְפוֹת זוֹ עִם זוֹ. כָּל הַשְּׁרָצִים מִצְטָרְפִין זֶה עִם זֶה. דַּם הַשֶּׁרֶץ וּבְשָׂרוֹ מִצְטָרְפִין. כְּלָל אָמַר רַבִּי יְהוֹשֻׁעַ, כֹּל שֶׁטֻּמְאָתוֹ וְשִׁעוּרוֹ שָׁוִין, מִצְטָרְפִין זֶה עִם זֶה. טֻמְאָתוֹ וְלֹא שִׁעוּרוֹ, שִׁעוּרוֹ וְלֹא טֻמְאָתוֹ, לֹא טֻמְאָתוֹ וְלֹא שִׁעוּרוֹ, אֵין מִצְטָרְפִין זֶה עִם זֶה:",
+              "link": "/Mishnah Meilah/4",
+              "ref": "Mishnah Meilah 4:3",
+              "sourceHeRef": "משנה מעילה ד:ג",
+              "sourceRef": "Mishnah Meilah 4:3"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The blood of these eight teeming animals and their flesh can be combined to reach the minimum measure of a lentil, provided the blood is still attached to their flesh. Similarly, the blood of a snake is combined with its flesh to reach the measure of an olive and one receives lashes for it. The rationale is that its flesh is not separate from its blood, even though it does not impart ritual impurity. Similar concepts apply with regard to other teeming animals that do not convey ritual impurity.",
+              "he": "דַּם שְׁמוֹנָה שְׁרָצִים וּבְשָׂרָן מִצְטָרֵף לְכַעֲדָשָׁה וְהוּא שֶׁיִּהְיֶה הַדָּם מְחֻבָּר לַבָּשָׂר. וְכֵן דַּם הַנָּחָשׁ מִצְטָרֵף לִבְשָׂרוֹ לִכְזַיִת וְלוֹקֶה עָלָיו לְפִי שֶׁאֵין בְּשָׂרוֹ חָלוּק מִדָּמוֹ. וְאַף עַל פִּי שֶׁאֵינוֹ מְטַמֵּא. וְכֵן כָּל כַּיּוֹצֵא בּוֹ מִשְּׁאָר שְׁרָצִים שֶׁאֵינָן מְטַמְּאִין:",
+              "ref": "Mishneh Torah, Forbidden Foods 2:9",
+              "sourceHeRef": "הלכות מאכלות אסורות ב:ט",
+              "sourceRef": "Forbidden Foods 2:9"
+            },
+            {
+              "en": "All entities whose type of impurity and minimum measures are similar can be combined with each other to reach that measure. If their impurity was similar, but not the minimum measures or the minimum measures, but not the impurity, they should not be combined, not even to impart the lesser type of impurity. What is meant by the type of its impurity, but not the minimum measure? E.g., the flesh of a corpse and the decomposed mass from it. What is meant by its minimum measure, but not its type? E.g., the flesh of a human corpse and the flesh of an animal carcass. Needless to say, impure entities that are not similar, neither in their measure and their type of impurity, e.g., the flesh of an animal carcass and the flesh of a dead crawling animal, are not combined.",
+              "he": "כָּל שֶׁטֻּמְאָתוֹ וְשִׁעוּרוֹ שָׁוִין מִצְטָרְפִין זֶה עִם זֶה. הָיוּ טֻמְאָתָן שָׁוִין אֲבָל לֹא שִׁעוּרָן. שִׁעוּרָן אֲבָל לֹא טֻמְאָתָן אֵין מִצְטָרְפִין וַאֲפִלּוּ לְטַמֵּא כַּקַּל שֶׁבִּשְׁנֵיהֶן. כֵּיצַד טֻמְאָתוֹ וְלֹא שִׁעוּרוֹ. כְּגוֹן בְּשַׂר הַמֵּת וְרֶקֶב שֶׁלּוֹ. שִׁעוּרוֹ וְלֹא טֻמְאָתוֹ כְּגוֹן בְּשַׂר הַמֵּת וּבְשַׂר הַנְּבֵלָה. וְאֵין צָרִיךְ לוֹמַר שֶׁאִם לֹא הָיוּ שָׁוִים לֹא בְּשִׁעוּר וְלֹא בְּטֻמְאָה כְּגוֹן בְּשַׂר נְבֵלָה וּבְשַׂר הַשֶּׁרֶץ שֶׁאֵין מִצְטָרְפִין:",
+              "ref": "Mishneh Torah, Defilement of Foods 4:11",
+              "sourceHeRef": "הלכות טומאת אוכלים ד:יא",
+              "sourceRef": "Defilement of Foods 4:11"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דם השרץ ובשרו מצטרפין</strong> - לכעדשה לטמא:",
+              "ref": "Rashi on Meilah 17a:2:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ב:א",
+              "sourceRef": "Rashi on Meilah 17a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כלל אמר ר' יהושע כל שטומאתו ושיעורו שוין</strong> - כגון נבלה ונבלה או חולד ועכבר:",
+              "ref": "Rashi on Meilah 17a:2:2",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ב:ב",
+              "sourceRef": "Rashi on Meilah 17a:2:2"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>דם</big></b> [בלוט] <span class=\"parenthesized\">(פסחים פא)</span> הפסח שנזרק דמו. <span class=\"parenthesized\">(מנחות כה)</span> דם שנטמא וזרקו בשוגג הורצה במזיד לא הורצה רבינא אמר טומאתו בין בשוגג בין במזיד זריקתו בשוגג הורצה במזיד לא הורצה ר' שילא אמר זריקתו בין במזיד בין בשוגג טומאתו בשוגג הורצה במזיד לא הורצה ולרבי שילא הא קתני בין בשוגג בין במזיד הכי קאמר נטמא וכו' <span class=\"parenthesized\">(סנהדרין לח)</span> יכול לא יהא אבר מן החי נוהג בו ת\"ל אך בשר בנפשו דמו לא תאכלו יכול אף בשרצים כן תלמוד לומר אך מאי תלמודא אמר ר' הונא דמו מי שדמו חלוק מבשרו יצאו שרצים שאין דמן חלוק מבשרן <span class=\"parenthesized\">(כריתות ד)</span> כל חלב וכל דם לא תאכלו רבי אומר מה חלב מיוחד שחלבו חלוק מבשרו ואין מצטרפין זה עם זה אף דם שדמו חלוק מבשרו אוציא דם שרצים הואיל ואין דמן חלוק מבשרן שמצטרפין זע\"ז והא מהכא נפקא מהתם נפקא וזה לכם הטמא לימד על דם שרץ ובשרו שמצטרפין ולא מן היקישא סד\"א הני מילי לטומאה אבל לאכילה אימא לא אשמעינן היקישא לאכילה. אמר רבינא הואיל וכך דם נחש ובשרו מצטרפין מאי קמ\"ל היקישא ס\"ד אמינא שרץ דאיתרבי לטומאה אתרבי לאכילה אבל נחש דלא איתרבי לטומאה לא אתרבי לאכילה קמ\"ל היקישא כל מילי דאין דמו חלוק מבררו משמע פי' מה חלב מיוחד שחלבו חלוק מבשרו שחלב אסור ובשר מותר ואין מצטרף זה עם זה שאם אכל חצי זית חלב וחצי זית בשר אין מצטרפין זה עם זה דכל איסורין שבתורה אין היתר מצטרף לאיסור ואפילו בקדשים כדתניא ר' יהושע אומר כל הזבחים שבתורה נשתייר מהן כזית בשר כזית חלב זורק את הדם כחצי זית בשר כחצי זית חלב אין זורק את הדם אף כל שדמו חלוק מבשרו אההוא חייב אוציא דם שרצים שאין דמן חלוק מבשרן דזה וזה אסורין באכילה ומצטרפין זה עם זה <span class=\"parenthesized\">(מעילה יז)</span> דם השרץ ובשרו מצטרפין בכעדשה <span class=\"parenthesized\">(חולין לז)</span> מסוכנת דשריא מהכא וחלב נבלה וחלב טרפה חלב חלב למה לי זו היא שאין חלבה חלוק מבשרה ואי זו זו זו מסוכנת פי' זו היא שאין חלבה חלוק מבשר' אלא הכל אסור הבשר וכל שכן החלב יש לך אחרת כיוצא בה חולה וסופה למות שנשחטה חלבה אסור ובשרה מותר. דם היוצא מפיו ומפי האמה טהור. <span class=\"parenthesized\">(ר\"ה כב נדה נח)</span> א\"ל מדמהרי' א\"ל דם תהא אחריתו. דמים לו בין בחול בין בשבת <span class=\"parenthesized\">(סנהדרין עב)</span> פירוש חיים לו דמיו בתוכו. <span class=\"parenthesized\">(בילמדנו ויאמר משה לחובב)</span> כי לדם אעשך ודם ירדפ' אם לא דם שנאת בשביל כך דם ירדפך וכי שונא היה עשו את הדם הרי אין מעשיו אלא שפיכות דמים שנאמר ועל חרבך תחיה ומהו אם לא דם שנאת זה דם המילה. <span class=\"parenthesized\">(ובפרשת נקום נקמת)</span> כשם שהיא שונא דם המילה ודם הקרבנות ואוהב דם להרוג נפשות שנאמר ועל חרבך תחיה כך אף דם ירדפך:",
+              "ref": "Sefer HeArukh, Letter Daled 153",
+              "sourceHeRef": "ספר הערוך, אות הדלי\"ת קנ״ג",
+              "sourceRef": "Sefer HeArukh, Letter Daled 153"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> <b>דם השרץ</b> משמונת השרצים המטמאים במותם <b>והבשר</b> שלו <b>מצטרפין זה עם זה</b> לשיעור טומאה, שהוא בכעדשה. <b>כלל אמר ר' יהושע: כל שטומאתו</b> (דרגת הטומאה וכן דין הטומאה, טומאת ערב או שבעה) <b>ושיעורו</b> לטמא <b>שוין</b> זה לזה (וכגון שני חצאי זיתים הבאים משני מתים, או משתי נבילות, או שני חצאי עדשה הבאים משני שרצים) — <b>מצטרפין</b> זה לזה.",
+              "ref": "Steinsaltz on Meilah 17a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:ב",
+              "sourceRef": "Steinsaltz on Meilah 17a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The blood of a creeping animal is like its flesh, and therefore it combines with it to amount to the measure of a lentil-bulk with regard to ritual impurity, provided that it is attached to the flesh (Rambam<i> Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot</i> 4:7).",
+              "he": "מיני הטומאה חלוקים הם, הן באופן החלת הטומאה — טומאת מגע, טומאת משא, וטומאת היסט ועוד. הן במשך הטומאה — טומאת ערב, טומאת שבעה. הן בשיעוריהם — שהשרץ מטמא בכעדשה, והנבילה בכזית, והמת יש בו שיעורים שונים מכשעורה ולמעלה. וכדי שתצטרפנה שתי טומאות, צריך שתהיינה שוות בטומאה ובשיעור כאחת.<br><br>אכן בעוד שהלשון \"שיעורו\" מובן, יש מקום לדון בפירוש הלשון \"טומאתו\". יש שפירשוה כמתייחסת למשך הטומאה. ו\"כל שטומאתו ושיעורו שווים\" הריהו כגון שני חצאי זיתים הבאים מן המת (שמשך טומאתם שווה, ושיעור טומאתם שווה) או שני חצאי זיתים הבאים משתי נבלות (שמשך טומאתן שווה, ושיעור טומאתם שווה), או שני חצאי כעדשה הבאים משני שרצים המטמאים. ואולם באופנים אחרים, בהם אין משתווים משך הטומאה או שיעורה — אין צירוף (רש\"י, וכן בסוגיה ביומא).<br><br>ויש שפירשו את דברי ר' יהושע כמתייחסים לאופן חלות הטומאה, ו\"כל שטומאתו ושיעורו שווים\" הריהו כגון כזית משני שרצים או משתי נבילות, ואולם באופני צירוף אחרים, שבהם משתווה דרך ההיטמאות אך לא השיעור, וכגון אבר מן המת ובשר מן המת — שמטמאים שניהם בטומאת אהל, אך שיעוריהם שונים, שכן בשר המת מטמא בכזית, ואבר מן המת מטמא בכל שהוא. או ששווים בשיעורם ולא בטומאתם, כגון בשר הנבילה ובשר המת, ששיעור שניהם בכזית, ואולם בשר הנבלה מטמא במגע ובמשא טומאת ערב, ואילו בשר המת מטמא גם באהל וטומאת שבעה) בכל אלה אין הם מצטרפים (תוס'. רמב\"ם פיהמ\"ש. וראה אורח ההלכה).",
+              "ref": "Steinsaltz comment #1 on Meilah 17a:2",
+              "sourceHeRef": "דַּם הַשֶּׁרֶץ וְהַבָּשָׂר מִצְטָרְפִין וכו׳",
+              "sourceRef": "The blood of one of the eight creeping animals and their flesh join together, etc."
+            },
+            {
+              "en": "Any items whose degree of ritual impurity and measure are equal, e.g., flesh from two corpses, or from two animal carcasses, join together with regard to ritual impurity. If their impurity is equal but their measure is not, such as the flesh of a corpse and rotted fluid from a corpse, or if their measure is equal but not their impurity, e.g., flesh of a corpse with flesh of an animal carcass, they do not join together even to impart the lesser impurity between them. Needless to say, if they were not equal in either impurity or in measure, e.g., flesh of a carcass and flesh of a creeping animal, they do not join together (Rambam<i> Sefer Tahara</i>,<i> Hilkhot Tumat  Okhalin </i>4:11).",
+              "he": "דם השרץ כבשרו, ומצטרף לשיעור כעדשה לענין טומאה כל זמן שהוא מחובר בבשר. כמשנה. (רמב\"ם ספר טהרה הלכות שאר אבות הטומאה פ\"ד ה\"ז).",
+              "ref": "Steinsaltz comment #2 on Meilah 17a:2",
+              "sourceHeRef": "כָּל שֶׁטּוּמְאָתוֹ וְשִׁיעוּרוֹ שָׁוִין מִצְטָרְפִין וכו׳",
+              "sourceRef": "Any items whose impurity and measure are equal…join together, etc."
+            },
+            {
+              "en": "",
+              "he": "כל שטומאתם ושיעורם שווים (כגון בשר משני מתים, או משתי נבילות) — מצטרפים זה עם זה לטמא. טומאתם שווה אבל לא שיעורם (כגון בשר המת ורקב שלו), או שיעורם שווה אבל לא טומאתם (כגון בשר המת ובשר הנבילה) — אין מצטרפים, ואפילו לטמא כקל שבשניהן. ואין צריך לומר שאם לא היו שווים לא בשיעור ולא בטומאה (כגון בשר נבילה ובשר השרץ) שאין מצטרפים. כמשנה. (רמב\"ם שם הלכות טומאת אוכלין פ\"ד הי\"א).",
+              "ref": "Steinsaltz comment #3 on Meilah 17a:2",
+              "sourceHeRef": "כל שטומאתו ושיעורו שוין מצטרפין וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">השרצים מצטרפין זה עם זה</strong> - כגון שמונה שרצים החולד והעכבר וגו':",
+              "ref": "Tosafot on Meilah 17a:2:1",
+              "sourceHeRef": "תוספות על מעילה י״ז א:ב:א",
+              "sourceRef": "Tosafot on Meilah 17a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל שטומאתו ושיעורו שוין מצטרפין</strong> - כגון שרץ ושרץ נבילה ונבילה טומאתו ולא שיעורו כגון אבר מן המת וכזית מן המת שטומאה שוה באהל ולא שיעורו דכזית מטמא בבשר ואבר בכל שהוא לא טומאתו ולא שיעורו שרץ ונבלה:",
+              "ref": "Tosafot on Meilah 17a:2:2",
+              "sourceHeRef": "תוספות על מעילה י״ז א:ב:ב",
+              "sourceRef": "Tosafot on Meilah 17a:2:2"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> <b>The blood of</b> one of <b>the</b> eight <b>creeping animals</b> listed in the Torah <b>and</b> their <b>flesh join together</b> to constitute the lentil-bulk measure to impart impurity. <b><span href=\"/topics/rabbi-yehoshua-b-hananyah\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-hananyah\">Rabbi Yehoshua</span> stated a principle:</b> With regard to <b>any</b> items <b>whose impurity,</b> in terms of degree and duration, <b>and measure</b> to impart impurity, <b>are equal,</b> e.g., two halves of an olive-bulk from two corpses or two animal carcasses or two halves of a lentil-bulk from two creeping animals, <b>they join together</b> to constitute the requisite measure.",
+      "he": "<big><strong>מַתְנִי׳</strong></big> דַּם הַשֶּׁרֶץ וְהַבָּשָׂר – מִצְטָרְפִין זֶה עִם זֶה. כְּלָל אָמַר רַבִּי יְהוֹשֻׁעַ: כֹּל שֶׁטּוּמְאָתוֹ וְשִׁיעוּרוֹ שָׁוִין – מִצְטָרְפִין.",
+      "ref": "Meilah 17a:2",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">טומאתו ולא שיעורו</strong> - כגון שרץ ונבלה דטומאתן שוה דשניהן הויין טומאת ערב ולא שיעורו דנבלה שיעור טומאתה בכזית [ושרץ בכעדשה]:",
+              "ref": "Rashi on Meilah 17a:3:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ג:א",
+              "sourceRef": "Rashi on Meilah 17a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא טומאתו</strong> - [כגון נבלה ומת תרוייהו מטמאין בכזית] מת הויא טומאתו ז' ונבלה לא הויא אלא טומאת ערב:",
+              "ref": "Rashi on Meilah 17a:3:2",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ג:ב",
+              "sourceRef": "Rashi on Meilah 17a:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא טומאתו ולא שיעורו</strong> - כגון מת ושרץ דשרץ שיעורו בכעדשה וטומאתו עד הערב ומת שיעורו בכזית וטומאתו שבעה:",
+              "ref": "Rashi on Meilah 17a:3:3",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ג:ג",
+              "sourceRef": "Rashi on Meilah 17a:3:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>טומאתו ולא שיעורו,</b> כגון שרץ ונבילה שטומאתם שווה, שבשניהם יש טומאת ערב, ואולם אין שיעורם שווה, ששיעור הנבילה לטמא — בכזית, ושיעור השרץ לטמא — בכעדשה, או ש<b>שיעורו</b> שווה <b>ולא טומאתו,</b> וכגון מת ונבילה, ששניהם מטמאים בכזית, ואולם לנבילה — טומאת ערב, ולמת — טומאת שבעה. וכל שכן כאשר הם אינם שווים <b>לא</b> ב<b>טומאתו</b> ולא (ראה גרסות) ב<b>שיעורו</b> — <b>אין</b> הם <b>מצטרפין</b> זה לזה לטמא.",
+              "ref": "Steinsaltz on Meilah 17a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:ג",
+              "sourceRef": "Steinsaltz on Meilah 17a:3"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rabbi-yehoshua-b-hananyah\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-hananyah\">Rabbi Yehoshua</span> continued: By contrast, with regard to items whose <b>impurity</b> is equal <b>but</b> their <b>measure</b> is <b>not</b> equal, e.g., a creeping animal and an animal carcass, each of which renders one impure until the evening, but the measure of a creeping animal is a lentil-bulk, whereas that of an animal carcass is an olive-bulk; or items whose <b>measure</b> is equal <b>but whose impurity</b> is <b>not</b> equal, e.g., a corpse and an animal carcass, with regard to which the measure of each is an olive-bulk, but the duration of the impurity imparted by a corpse is one week and the duration of the impurity imparted by an animal carcass is until the evening; or items that are equal <b>neither in</b> terms of <b>their impurity</b> nor in terms of <b>their measure, they do not join together</b> to constitute the requisite measure.",
+      "he": "טוּמְאָתוֹ וְלֹא שִׁיעוּרוֹ, שִׁיעוּרוֹ וְלֹא טוּמְאָתוֹ, לֹא טוּמְאָתוֹ [וְלֹא] שִׁיעוּרוֹ – אֵין מִצְטָרְפִין.",
+      "ref": "Meilah 17a:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רב חנין וכו'</strong> - כלומר הא דקתני דם השרץ והבשר מצטרפין דוקא בשרו של אותו שרץ עצמו שפירש ממנו הדם דהוי דם ובשר משרץ אחד ולא שהדם משרץ אחד והבשר משרץ אחר אבל אי אתו מב' שרצים לא מצטרף:",
+              "ref": "Rashi on Meilah 17a:4:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ד:א",
+              "sourceRef": "Rashi on Meilah 17a:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> שנינו במשנתנו כי דם השרץ מצטרף לבשרו, ובהסבר הדברים <b>אמר רב חנין, אמר רב זעירא: ו</b>בלבד שיהא הדם",
+              "ref": "Steinsaltz on Meilah 17a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:ד",
+              "sourceRef": "Steinsaltz on Meilah 17a:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רב חנין כו'</strong> - פירוש הא דקאמר במתני' דם השרץ ובשרו מצטרפין היינו דווקא בעוד הדם בשרץ אבל פירש הדם מבשר השרץ אין מצטרפין מתיב ר' יוסי בר ר' חנינא הטמאים מלמד שמצטרפין ואפילו שרץ ושרץ שרץ ודם בין משם אחד בין משני שמות פירוש שני שמות שני שרצים כמו חולד ועכבר אז מצטרף דם השרץ עם שרץ אחר וכ\"ש דם השרץ ובשרו שמצטרפין אפילו כי פירש אמר רב יוסף כאן בכולו כאן במקצתו כלומר הא דאמר הכא בברייתא שמצטרפין דם של שרץ זה ובשר שרץ אחר היינו דווקא בכולו שפירש הדם משרץ שלם וזו חשוב להצטרף והא דאמר גבי מתניתין דאין מצטרף אלא אם כן עודו בו היינו במקצתו שלא פירש הדם אלא מאבר אחד או מחתיכה אחת ואז אינו חשוב להצטרף ומנא תימרא שיש חילוק בין כשבא משרץ שלם בין כשבא משרץ שאינו שלם כדתניא נשפך על הרצפה והיה מקומה קטפרס פירוש נשפך רביעית דם המת במקום מדרון ולא היה מתעכב במקום אחד אלא כאן מעט וכאן מעט האהיל על מקצתו טהור לפי שלא האהיל על כל רביעית הדם איהל על כולו שאיהל על כל מקום שנשפך הדם כגון שאיהל ידו עליו טמא דאז איהל על רביעית דקסבר שהדם שבמקום זה מצטרף לדם שבמקום אחר:",
+              "ref": "Tosafot on Meilah 17a:4:1",
+              "sourceHeRef": "תוספות על מעילה י״ז א:ד:א",
+              "sourceRef": "Tosafot on Meilah 17a:4:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> The mishna teaches that the blood of one of the eight creeping animals listed in the Torah and the flesh of those animals join together to constitute the lentil-bulk measure required to impart impurity. <b><span href=\"/topics/rebbi-hanin\" class=\"namedEntityLink\" data-slug=\"rebbi-hanin\">Rav Ḥanin</span> says</b> that <b><span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rav Zeira</span> says:</b> The blood and flesh join together only if the blood is from the same animal as the flesh, but not if it is from a different animal.",
+      "he": "<big><strong>גְּמָ׳</strong></big> אָמַר <span href=\"/topics/rebbi-hanin\" class=\"namedEntityLink\" data-slug=\"rebbi-hanin\">רַב חָנִין</span> אָמַר רַב <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">זְעֵירָא</span>,",
+      "ref": "Meilah 17a:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The eight teeming animals that are mentioned in the Torah are: the weasel, the mouse, the ferret, the hedgehog, the chameleon, the lizard, the snail, and the mole. A person who eats a lentil-sized portion of their meat is liable for lashes. The minimum measure that one is prohibited to partake of their meat is the same as the minimum measure that conveys ritual impurity. They all may be combined together to reach the measure of a lentil.",
+              "he": "וּשְׁמוֹנָה שְׁרָצִים הָאֲמוּרִים בַּתּוֹרָה שֶׁהֵן <span class=\"hebrew-emphasis\">(ויקרא יא כט)</span> \"הַחלֶד וְהָעַכְבָּר וְהַצָּב\" <span class=\"hebrew-emphasis\">(ויקרא יא ל)</span> \"וְהָאֲנָקָה וְהַכֹּחַ וְהַלְּטָאָה וְהַחֹמֶט וְהַתִּנְשֶׁמֶת\" הָאוֹכֵל מִבְּשָׂרָם כַּעֲדָשָׁה לוֹקֶה. שִׁעוּר אֲכִילָתָן כְּשִׁעוּר טֻמְאָתָן. וְכֻלָּם מִצְטָרְפִין זֶה עִם זֶה בְּכַעֲדָשָׁה:",
+              "ref": "Mishneh Torah, Forbidden Foods 2:7",
+              "sourceHeRef": "הלכות מאכלות אסורות ב:ז",
+              "sourceRef": "Forbidden Foods 2:7"
+            },
+            {
+              "en": "The blood of a <i>sheretz</i> is considered as its flesh. It can be combined to reach the minimum measure of a lentil-sized portion, as long as it is connected to its flesh.",
+              "he": "דַּם הַשֶּׁרֶץ כִּבְשָׂרוֹ וּמִצְטָרֵף לְכַעֲדָשָׁה כָּל זְמַן שֶׁהוּא מְחֻבָּר בַּבָּשָׂר:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 4:7",
+              "sourceHeRef": "הלכות שאר אבות הטומאות ד:ז",
+              "sourceRef": "Other Sources of Defilement 4:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הטמאים</strong> - ה\"א יתירא מלמד שמצטרף אפילו שרץ ושרץ כלומר כחצי שיעור משרץ זה וכחצי שיעור משרץ אחר מצטרפין חצי שיעור מחולד וחצי שיעור מעכבר מצטרפין וקשיא לרבי יוחנן:",
+              "ref": "Rashi on Meilah 17a:5:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ה:א",
+              "sourceRef": "Rashi on Meilah 17a:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>[בו] (וכן)</b> (ראה גרסות ועיונים), בשרץ עצמו, ולא שפרש ממנו. <b>אמר ר' יוסי בר ר' חנינא</b> בקושיה: והרי שנינו בברייתא על הכתוב בפרשת המאכלים האסורים \"אלה <b>הטמאים</b> לכם בכל השרץ\" (ויקרא יא, לא), ולשון הריבוי \"הטמאים\" <b>מלמד שהן מצטרפין</b> לטמא, <b>ואפילו</b> בשר <b>שרץ</b> זה <b>ו</b>בשר <b>שרץ</b> אחר, ואפילו בשר <b>שרץ ודם</b> השרץ. <b>בין</b> שהם באים <b>משם אחד,</b> ממין אחד של שרץ, ו<b>בין</b> שהם באים <b>משני שמות,</b> כגון העכבר והחולד. הרי איפוא שדם של שרץ אחד מצטרף לבשר שרץ אחר, ואין צריך שיהיה הדם בשרץ עצמו!",
+              "ref": "Steinsaltz on Meilah 17a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:ה",
+              "sourceRef": "Steinsaltz on Meilah 17a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The text of the Gemara here states: And similarly, which is problematic, as Rabbi Yosei bar Rabbi Ĥanina is objecting to the opinion of Rav Zeira. Furthermore, the statement of Rav Zeira is entirely missing from this version of the Gemara. Apparently, the correct version of the text, which is the one accepted by Rashi and <i>Tosafot</i>,<i> </i>is: And within it [<i>uvo</i>]. Rashi and <i>Tosafot</i> both explain that this is the statement of Rav Zeira, although they disagree with regard to the meaning of this phrase. Rashi explains that it means specifically within it, i.e., the blood of that same creeping animal, but not another animal. <i>Tosafot </i>maintain that the term: Within it, means blood that is within the creeping animal but not blood that has separated from it.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Meilah 17a:5",
+              "sourceHeRef": "וְכֵן",
+              "sourceRef": "And similarly [<i>vekhen</i>]"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Those are for you the unclean among all the swarming things; whoever touches them when they are dead shall be unclean until evening.",
+              "he": "אֵ֛לֶּה הַטְּמֵאִ֥ים לָכֶ֖ם בְּכׇל־הַשָּׁ֑רֶץ כׇּל־הַנֹּגֵ֧עַ בָּהֶ֛ם בְּמֹתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:31",
+              "sourceHeRef": "ויקרא יא:לא",
+              "sourceRef": "Leviticus 11:31"
+            }
+          ]
+        }
+      },
+      "en": "<b>And similarly, <span href=\"/topics/rabbi-yose-b-chanina\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chanina\">Rabbi Yosei bar Rabbi Ḥanina</span> says,</b> in rejection of <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rav Zeira</span>’s statement: It is taught in a <i>baraita</i>: The verse states: “These are <b>the impure [<i>hateme’in</i>]</b> to you among all that creep; whoever touches them when they are dead, shall be impure until the evening” (Leviticus 11:31). This plural form of “<i>hateme’in</i>” <b>teaches that they join together</b> to impart ritual impurity. <b>And</b> this applies <b>even</b> to the flesh of <b>a creeping animal and</b> the flesh of another <b>creeping animal,</b> or the flesh of <b>a creeping animal and</b> the <b>blood</b> of another creeping animal, <b>whether</b> they are <b>from one category,</b> i.e., one type of creeping animal, <b>or from two categories</b> of creeping animal.",
+      "he": "וְכֵן אָמַר רַבִּי יוֹסֵי בַּר רַבִּי חֲנִינָא: ״הַטְּמֵאִין״ – מְלַמֵּד שֶׁהֵן מִצְטָרְפִין, וַאֲפִילּוּ שֶׁרֶץ וָשֶׁרֶץ, שֶׁרֶץ וָדָם, בֵּין מִשֵּׁם אֶחָד, בֵּין מִשְּׁנֵי שֵׁמוֹת!",
+      "ref": "Meilah 17a:5"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The eight teeming animals that are mentioned in the Torah are: the weasel, the mouse, the ferret, the hedgehog, the chameleon, the lizard, the snail, and the mole. A person who eats a lentil-sized portion of their meat is liable for lashes. The minimum measure that one is prohibited to partake of their meat is the same as the minimum measure that conveys ritual impurity. They all may be combined together to reach the measure of a lentil.",
+              "he": "וּשְׁמוֹנָה שְׁרָצִים הָאֲמוּרִים בַּתּוֹרָה שֶׁהֵן <span class=\"hebrew-emphasis\">(ויקרא יא כט)</span> \"הַחלֶד וְהָעַכְבָּר וְהַצָּב\" <span class=\"hebrew-emphasis\">(ויקרא יא ל)</span> \"וְהָאֲנָקָה וְהַכֹּחַ וְהַלְּטָאָה וְהַחֹמֶט וְהַתִּנְשֶׁמֶת\" הָאוֹכֵל מִבְּשָׂרָם כַּעֲדָשָׁה לוֹקֶה. שִׁעוּר אֲכִילָתָן כְּשִׁעוּר טֻמְאָתָן. וְכֻלָּם מִצְטָרְפִין זֶה עִם זֶה בְּכַעֲדָשָׁה:",
+              "ref": "Mishneh Torah, Forbidden Foods 2:7",
+              "sourceHeRef": "הלכות מאכלות אסורות ב:ז",
+              "sourceRef": "Forbidden Foods 2:7"
+            },
+            {
+              "en": "The blood of a <i>sheretz</i> is considered as its flesh. It can be combined to reach the minimum measure of a lentil-sized portion, as long as it is connected to its flesh.",
+              "he": "דַּם הַשֶּׁרֶץ כִּבְשָׂרוֹ וּמִצְטָרֵף לְכַעֲדָשָׁה כָּל זְמַן שֶׁהוּא מְחֻבָּר בַּבָּשָׂר:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 4:7",
+              "sourceHeRef": "הלכות שאר אבות הטומאות ד:ז",
+              "sourceRef": "Other Sources of Defilement 4:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רב יוסף כאן בכולו כאן במקצתו</strong> - אי הוו שרצים כולן שלימין בין משם אחד בין משני שמות ופירש חצי שיעור מזה וחצי שיעור מזה או מזה דם ומזה בשר כיון דאתו ממקום חשוב דתרווייהו השרצים שלימין נינהו וחשיבי מצטרפין והא דאמר ר' חנין וכו' היינו במקצתן דלא הוו השרצים שלימין אלא מקצתו של כל אחד ואחד מונח בכאן ופירש דם מזה ובשר מזה הואיל ולא אתו משרצים שלימין לא חשיבי ולא מצטרפי הדם עם הבשר אלא עם בשר אותו שרץ שפירש ממנו הדם:",
+              "ref": "Rashi on Meilah 17a:6:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ו:א",
+              "sourceRef": "Rashi on Meilah 17a:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב יוסף</b> בתירוץ קושיה זו: <b>לא קשיא</b> <span class=\"hebrew-emphasis\">[אין</span> זה <span class=\"hebrew-emphasis\">קשה],</span> <b>כאן</b> (בברייתא) מדובר שהדבר הנטמא נגע <b>בכולו,</b> בחצי שיעור דם הבא משרץ שלם אחד וכן בחצי שיעור בשר הבא משרץ שלם אחר, שכיון שהם באים מדבר חשוב הריהם מצטרפים לכדי שיעור אחד. ואילו <b>כאן</b> (בדברי רב זעירא) מדובר שנגע רק <b>במקצתו,</b> כלומר, בחצי שיעור דם הבא משרץ אחד שאינו שלם וכן בחצי שיעור בשר הבא משרץ אחר שאינו שלם, ובאופן זה — אין הדם מצטרף לבשר השרץ.",
+              "ref": "Steinsaltz on Meilah 17a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:ו",
+              "sourceRef": "Steinsaltz on Meilah 17a:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יש מהאחרונים שאמרו כי יסוד הבחנתו זו של רב יוסף נלמד מן הכתוב \"אלה הטמאים לכם בכל השרץ\" המורה שדווקא כאשר השרץ כולו שלם (\"בכל השרץ\") אז מצטרפים אף בשר שרצים הבאים משני מינים, ולכן כללם הכתוב בטומאה אחת (משך חכמה).",
+              "ref": "Steinsaltz comment #1 on Meilah 17a:6",
+              "sourceHeRef": "כאן בכולו כאן במקצתו",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> says:</b> This is <b>not difficult. Here,</b> the <i>baraita</i> is referring to a case where the half-measure of flesh and the half-measure of blood both came <b>from an entire</b> animal, and therefore the two half-measures combine, due to the significance of an entire animal. <b>There,</b> in the statement of <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rav Zeira</span>, he is speaking of a case where the half-measure of flesh and the half-measure of blood each come <b>from part of</b> an animal.",
+      "he": "אָמַר <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>: לָא קַשְׁיָא, כָּאן – בְּכוּלּוֹ. כָּאן – בְּמִקְצָתוֹ.",
+      "ref": "Meilah 17a:6"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following laws apply when a <i>revi'it</i> of blood was poured in an open space. If it coagulated or it was in a place where it could collect, i.e., a low place like a pit and an entity projects over even a portion of it, that entity is impure. If it was spilled on the doorstep which was on an incline, whether to the inside or outside, the house is pure. The rationale is that the blood did not come to rest on the doorstep. If the doorstep was a place where the blood could collect or it coagulated there, the house is impure.<br>The following laws apply when a <i>revi'it</i> of blood is absorbed in a garment. If it could be washed and a <i>revi'it</i> of blood would be discharged from it, the garment imparts impurity when touched, carried, or when one is under the same shelter. If not, it does not impart impurity when one is under the same shelter and it is considered as a garment that came into contact with a corpse. The rationale is that whenever something absorbed cannot be discharged, it is considered as pure.<br>How is the quantity of blood measured? The garment should be washed in water. Then an equal quantity of water should be brought and a <i>revi'it</i> of blood placed in it. If their appearance was the same or the water in which the garment was washed was of a redder hue than the mixture, it is apparent that a <i>revi'it</i> was discharged.",
+              "he": "רְבִיעִית דָּם שֶׁנִּשְׁפַּךְ בָּאֲוִיר אִם קָרַשׁ אוֹ שֶׁהָיָה בִּמְקוֹם אַשְׁבֹּרֶן וְהוּא הַמָּקוֹם הַנָּמוּךְ כְּמוֹ גֻּמָּא וְהֶאֱהִיל הַמַּאֲהִיל עַל מִקְצָתוֹ נִטְמָא. נִשְׁפַּךְ עַל הָאַסְקֻפָּה בַּמּוֹרָד בֵּין לְפָנִים בֵּין לַחוּץ הַבַּיִת טָהוֹר. שֶׁהֲרֵי לֹא נָח הַדָּם עַל הָאַסְקֻפָּה. וְאִם הָיְתָה הָאַסְקֻפָּה אַשְׁבֹּרֶן אוֹ שֶׁקָּרַשׁ הַדָּם עָלֶיהָ הַבַּיִת טָמֵא. רְבִיעִית דָּם שֶׁנִּבְלְעָה בִּכְסוּת אִם מִתְכַּבֶּסֶת וְיוֹצְאָה מִמֶּנּוּ רְבִיעִית דָּם הֲרֵי זוֹ הַכְּסוּת מִתְטַמְּאָה בְּמַגָּע וּבְמַשָּׂא וּבְאֹהֶל וְאִם לָאו אֵינָהּ מִתְטַמְּאָה בְּאֹהֶל וַהֲרֵי הִיא כִּכְסוּת שֶׁנָּגְעָה בְּמֵת שֶׁכָּל הַבָּלוּעַ שֶׁאֵינוֹ יָכוֹל לָצֵאת טָהוֹר. כֵּיצַד מְשַׁעֲרִין אוֹתָהּ. מְכַבְּסִין אוֹתָהּ בְּמַיִם וּמֵבִיא מַיִם כְּמִדָּתָן וְנוֹתֵן לְתוֹכָן רְבִיעִית דָּם אִם הָיָה מַרְאֵיהֶן שָׁוֶה אוֹ שֶׁהָיָה מֵי הַכִּבּוּס אָדֹם יוֹתֵר מִמֵּי הַמֶּזֶג בְּיָדוּעַ שֶׁיָּצָא מִמֶּנָּה רְבִיעִית:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 4:13",
+              "sourceHeRef": "הלכות טומאת מת ד:יג",
+              "sourceRef": "Defilement by a Corpse 4:13"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומנא תימרא</strong> - דשני לן בין כולו למקצתו:",
+              "ref": "Rashi on Meilah 17a:7:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ז:א",
+              "sourceRef": "Rashi on Meilah 17a:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נשפך על הרצפה</strong> - רביעית דם שלימה והיה מקומו קטפרס ולהכי נקט רצפה שהרצפה היתה חלקה דהויא כמדרון ונתפשט הדם:",
+              "ref": "Rashi on Meilah 17a:7:2",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ז:ב",
+              "sourceRef": "Rashi on Meilah 17a:7:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איהל על מקצתו</strong> - של רביעית דם כגון ששחה על מקצתו טהור משום דלא איהל על כל השיעור:",
+              "ref": "Rashi on Meilah 17a:7:3",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ז:ג",
+              "sourceRef": "Rashi on Meilah 17a:7:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איהל על כולו</strong> - על הרביעית של דם טמא:",
+              "ref": "Rashi on Meilah 17a:7:4",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ז:ד",
+              "sourceRef": "Rashi on Meilah 17a:7:4"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>קטפרס</big></b> [אבלויף] <span class=\"parenthesized\">(אהלות פ\"ג)</span> נשפך באויר אם היה מקומו קטפרס הנצוק והקטפרס ומשקה טופח כבר פירשנו בערף טפח <span class=\"parenthesized\">(גיטין עח)</span> אמר רב יהודה היתה ידו עשויה קטפרס פי' כגון שהעמידה ידה משופעת ולא זקופה כמחיצה ולא פשוטה לקבל אלא עשויה כמין מדרון <span class=\"parenthesized\">(מעילה יז)</span> נשפך על הרצפה והיה מקומו קטפרס <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב פירוש בלשון יוני מקום משופע נטוי מלמעלה למטה כמין מדרון)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Kof 121",
+              "sourceHeRef": "ספר הערוך, אות הקו\"ף קכ״א",
+              "sourceRef": "Sefer HeArukh, Letter Kof 121"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומסבירים את ההבחנה הזו, <b>ומנא תימרא</b> <span class=\"hebrew-emphasis\">[ומנין אתה אומר,</span> לומד<span class=\"hebrew-emphasis\">]</span> הבחנה זו בין הנוגע כולו למקצתו? <b>מדתניא</b> <span class=\"hebrew-emphasis\">[מ</span>מה ששנויה ברייתא<span class=\"hebrew-emphasis\">]:</span> <b>נשפך</b> דם המת בשיעור המטמא, שהוא כרביעית הלוג <b>על הרצפה</b> של הבית, והיה מקומה קטפרס (מדרון), שהדם נוזל בו, אם <b>איהל</b> (האהיל) אדם <b>על מקצתו</b> — הריהו <b>טהור,</b> שכן אין הדם הנוזל בקטפרס נחשב כיחידה אחת, ונמצא שלא האהיל על כל רביעית הדם המת. <b>איהל על כולו,</b> על כל רביעית הדם — הריהו <b>טמא.</b>",
+              "ref": "Steinsaltz on Meilah 17a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:ז",
+              "sourceRef": "Steinsaltz on Meilah 17a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A <i>peras </i>is the amount of bread that one normally eats in a single meal, which is half the size of a standard loaf of bread. The measure of a half-loaf is a <i>halakha </i>transmitted to Moses from Sinai, and there is a dispute between <i>tanna’im </i>as to its precise amount. Like the <i>tanna’im</i>,<i> </i>the early commentaries and halakhic<i> </i>authorities also dispute its size. Some maintain that a whole loaf is six egg-bulks, whereas a half-loaf is three egg-bulks. Others contend that a whole loaf is eight egg-bulks and a half-loaf is four egg-bulks. There is also a specific time in which one must consume this half-loaf for him to be rendered liable. This concept appears in many halakhic<i> </i>contexts.",
+              "he": "רביעית דם מן המת שנשפכה על האסקופה (=אצטבה שלפני פתח הבית. רע\"ב) במורד (=קטפרס), בין אם אותו מורד הוא כלפי פנים הבית, ובין אם כלפי חוץ — הבית טהור. כמשנה באהלות. (רמב\"ם שם הלכות טומאת מת פ\"ד הי\"ג).",
+              "ref": "Steinsaltz comment #1 on Meilah 17a:7",
+              "sourceHeRef": "פְּרַס",
+              "sourceRef": "Half-loaf-bulk [<i>peras</i>]"
+            },
+            {
+              "en": "If a quarter-<i>log</i> of blood of a corpse spilled on a sloping doorstep, whether it slopes inward or outward, the house remains ritually pure (Rambam<i> Sefer Tahara</i>,<i> Hilkhot Tumat Met</i> 4:13).",
+              "he": "מקור המלה הוא ביוונית <eng>êáôáöåñå€ò</eng> (קטפריס), ומשמעה — שיפוע, מדרון.",
+              "ref": "Steinsaltz comment #2 on Meilah 17a:7",
+              "sourceHeRef": "נִשְׁפַּךְ עַל הָרִצְפָּה וְהָיָה מְקוֹמָהּ קְטַפְרֵס",
+              "sourceRef": "Spilled on the floor and its place was a slope"
+            },
+            {
+              "en": "From the Greek <greek>καταφερής</greek>, <i>ketaferēs</i>, meaning sloping or slanted.",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Meilah 17a:7",
+              "sourceHeRef": "קְטַפְרֵס",
+              "sourceRef": "Slope [<i>ketafres</i>]"
+            }
+          ]
+        }
+      },
+      "en": "<b>And from where do you say</b> that there is a distinction between a case where the flesh and blood come from an entire animal and a case where they come from part of an animal? <b>From that which is taught</b> in a <i>baraita</i>: In a case where one quarter-<i>log</i> of blood from a corpse was <b>spilled on the floor, and its place was a slope [<i>ketafres</i>],</b> so that the blood trickles down, and someone leaned over so that he <b>covered part of it,</b> he remains <b>ritually pure.</b> If he <b>covered all of it,</b> he is rendered <b>impure.</b>",
+      "he": "וּמְנָא תֵּימְרָא? מִדְּתַנְיָא: נִשְׁפַּךְ עַל הָרִצְפָּה וְהָיָה מְקוֹמָהּ קָטַפְרֵס, אִיהֵל עַל מִקְצָתוֹ – טָהוֹר, אִיהֵל עַל כּוּלּוֹ – טָמֵא.",
+      "ref": "Meilah 17a:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא א\"ר חנינא רביעית דם שהגיס בה</strong> - שהפך בה בכוש או בכרכר טהור ואע\"ג דכי הגיס בה א\"א שלא יאהיל על כולו קתני טהור אותו המגיס בו ואמאי קתני אידך ברייתא איהל על כולו טמא:",
+              "ref": "Rashi on Meilah 17a:8:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ח:א",
+              "sourceRef": "Rashi on Meilah 17a:8:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>גס</big></b> [דורכבלאזען, דורך מישען]. <span class=\"parenthesized\">(פרק ה' במכשירין)</span> האשה שהיו ידיה טהורות ומגיסה בקדירה פי' בוחשת בקדרה בעץ פארור. <span class=\"parenthesized\">(מעילה יז בפרק קדשי המזבח)</span> רביעית דם שהגיס בה טהורה פירוש שניער או שהפך בה בשום דבר בעולם במקל או בכוש טהור אותו המגיס אף על פי שהאהיל עליו מאי טעמא כיון שהגיס בה לא סגיא דלא חסר מרביעית ממאי דדביק למקל הלכך טהור אותו דם ולא מטמא באהל:",
+              "ref": "Sefer HeArukh, Letter Gimel 280",
+              "sourceHeRef": "ספר הערוך, אות הגימ\"ל ר״פ",
+              "sourceRef": "Sefer HeArukh, Letter Gimel 280"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ויש לשאול: <b>מאי</b> <span class=\"hebrew-emphasis\">[מה]</span> פירוש \"איהל על <b>מקצתו\"? אילימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> שהכוונה היא שהאהיל על <b>מקצת</b> מרביעית <b>דם,</b> כלומר, שלא נשפכה על הרצפה רביעית דם אלא פחות מכך, ו\"איהל על כולו\" הכוונה — שהאהיל על רביעית שלימה — <b>והא</b> <span class=\"hebrew-emphasis\">[והלא]</span> אי אפשר לומר כך, שהרי <b>אמר ר' חנינא, אמר רבי: רביעית דם שהגיס</b> (בחש) <b>בה</b> אדם בכלי, באופן שלא נטמא בכך בטומאת מגע — <b>טהורה,</b> אין כאן טומאת אהל, אף שבקדירה שהגיס בה היתה רביעית דם ובודאי האהיל על כולה.",
+              "ref": "Steinsaltz on Meilah 17a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:ח",
+              "sourceRef": "Steinsaltz on Meilah 17a:8"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא אמר רבי יוחנן רביעית דם שהגיס בו טהור</strong> - פירוש מגיס הדם בכף או בקנה טהור לפי שאי אפשר שלא בלע הקנה ולא ישאר רביעית ואמאי טהור הא אמרינן איהל על מקצתו טמא אע\"פ שלא האהיל על כל הרביעית [במקום אחד] אלא כאן בכולו כאן במקצתו הא דאמרינן איהל על מקצתו טמא היינו בכולו כלומר כשאותו דם בא ממת שלם והא דר' יוחנן טהור כשבא ממקצת המת ולא בא ממת שלם וקשיא לפירושו דכיון דמוקי ליה בעודו כו' כלומר שהדם בבשר השרץ מאי צירוף בעי בשר השרץ קרינא ביה בכוליה כיון שלא פירש מעולם ועוד קשיא מהיכא תיתי האי חילוק דבכולו למקצתו כיון דאיכא רביעית מה לי בא ממת שלם מה לי בא ממת חסר לכך נראה כמו שפי' רבינו נסים גאון דגרסי' א\"ר חנין א\"ר זעירי כו' פי' אמר ר' זעירי אמר ר\"י <span class=\"parenthesized\">(האמורה וכו')</span> צריך שיהא אותו הדם מאותו השרץ שהבשר נבדלה ממנו כלומר אבל דם של שרץ זה אינו מצטרף עם בשר שרץ אחר ועל זה פריך מההיא שבאים ב' שמות דקאמר בהדיא דמצטרפין ואע\"פ שבאים מב' שרצים ומשני כאן בכולו כאן במקצתו פירוש הא דקאמר התם דמצטרפין אע\"ג דבאים משני שרצים כגון שנגע בכולו בדם ובבשר והא דקאמר זעירי דדוקא משרץ אחד ולא מב' שרצים כגון שלא נגע אלא במקצתו בדם או בבשר ולהכי קאמר דכי הם משרץ אחד דמצטרפין דהוי כאילו הדם והבשר מחוברין כאחד אבל כשהם משני שרצים כל חד וחד דבר בפני עצמו הוא ומנא תימרא דאיכא לפלוגי בהכי בין נגע בכולו בין נגע במקצתו כדתניא נשפך כו' איהל על מקצתו טהור כו' אלמא שיש חילוק בין איהל על כולו לאיהל על מקצתו והוא הדין שיש לחלק בנגיעה וא\"ת אם כן אמאי מייתי תו והאמר ר' יוחנן רביעית דם כו' פי' השר מקוצי משום דאי לא ההיא דר' יוחנן הוה מצי למימר דהא דאמר הכא איהל על מקצתו טהור כגון דליכא רביעית ולהכי מייתי הא דר' יוחנן דמיירי אף ברביעית ומ\"מ הוא טהור כיון שלא נגע אלא במקצתו:",
+              "ref": "Tosafot on Meilah 17a:8:1",
+              "sourceHeRef": "תוספות על מעילה י״ז א:ח:א",
+              "sourceRef": "Tosafot on Meilah 17a:8:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara clarifies the <i>halakha</i>: <b>What</b> does the phrase: <b>Part of it,</b> mean in this context? <b>If we say</b> that it is referring to <b>part of</b> the one quarter-<i>log</i> of <b>blood,</b> whereas if it is a full quarter-<i>log</i> then he is impure, that is difficult: <b>But doesn’t <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span> say</b> that <b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi</span></b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\"> Yehuda HaNasi</span> <b>says:</b> If there was exactly <b>one quarter-</b><i>log</i> of <b>blood</b> in a pot <b>that one stirred</b> without touching the blood, he remains <b>pure,</b> despite the fact that his body must have overshadowed all the blood at the time, and would therefore have had the status of a tent over it. The reason is that some of the blood must have been absorbed into the spoon with which he stirred, and therefore there no longer remains an entire connected quarter-<i>log</i>. This shows that the entire quarter-<i>log</i> must be together, as one unit, in order to impart impurity.",
+      "he": "מַאי ״מִקְצָתוֹ״? אִילֵּימָא מִקְצָת דָּם, וְהָא אָמַר רַבִּי חֲנִינָא אָמַר רַבִּי: רְבִיעִית דָּם שֶׁהֵגִיס בָּהּ – טְהוֹרָה!",
+      "ref": "Meilah 17a:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לאו ש\"מ כאן בכולו כאן במקצתו</strong> - דהאי דקתני איהל על כולו טמא היינו היכא דאתי האי רביעית דם ממת שלם ולהכי חשיב דמטמא באהל והא דקתני שהגיס בה טהור היינו היכא דלא בא רביעית זה ממת שלם אלא שיצא ממקצתו שהיה מונח שם מקצת מת ופירש ממנו אותו דם אע\"ג דאית ביה רביעית הואיל ואינו בא ממת שלם לא חשיב ואינו מטמא באהל וכן אמר רבי:",
+              "ref": "Rashi on Meilah 17a:9:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:ט:א",
+              "sourceRef": "Rashi on Meilah 17a:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא לאו</b> <span class=\"hebrew-emphasis\">[האם לא]</span> <b>שמע מינה</b> <span class=\"hebrew-emphasis\">[תלמד מכאן]</span> שההבחנה בין \"כולו\" ל\"מקצתו\" אינה בין רביעית שלימה לחלק מרביעית, אלא בין הבאה משרץ או מת שלם לבאה מחלק ממנו. ואף כדי להסביר את ההבדל בין דברי ר' זעירא לברייתא, יש לחלק ולומר כדברי ר' יוסף כי <b>כאן</b> בברייתא מדובר באופן שנגע <b>בכולו,</b> כלומר, בבאים משרץ שלם, ואילו <b>כאן</b> בדברי ר' זעירא מדובר באופן שנגע רק <b>במקצתו,</b> כלומר, בבאים משרץ שאינו שלם. ומסכמים: אכן, <b>שמע מינה</b> <span class=\"hebrew-emphasis\">[למד מכאן]</span> שכן הוא.",
+              "ref": "Steinsaltz on Meilah 17a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:ט",
+              "sourceRef": "Steinsaltz on Meilah 17a:9"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, isn’t it</b> correct to <b>conclude from</b> this <i>baraita</i> that there is a distinction between a case where the blood came from an entire corpse, and where it came from part of a corpse? In other words, if the blood came from one body it need not be together as a single unit, whereas if it came from more than one body, it must all be joined together, as in the case mentioned by <span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi Yehuda HaNasi</span>. Similarly, with regard to the statements of <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rav Zeira</span> and the <i>baraita</i>, <b>here</b> the <i>baraita</i> is referring to a situation where the half-measure of flesh and the half-measure of blood came <b>from an entire</b> animal, and due to the significance of an entire animal the two half-measures combine. <b>There,</b> <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rav Zeira</span> is referring to a case where the half-measure of flesh and the half-measure of blood come <b>from part of</b> the animal. The Gemara notes that one should indeed <b>conclude from it</b> that this is the correct distinction.",
+      "he": "אֶלָּא לָאו שְׁמַע מִינַּהּ: כָּאן – בְּכוּלּוֹ, כָּאן – בְּמִקְצָתוֹ? שְׁמַע מִינַּהּ.",
+      "ref": "Meilah 17a:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">א\"ל דכתיב וזה לכם וגו'</strong> - והאי קרא מיותר הוא לדרשא למידרש ביה הכי דהא כתיב קרא אחרינא <span class=\"parenthesized\">(ויקרא יא)</span> אלא הטמאים לכם:",
+              "ref": "Rashi on Meilah 17a:10:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:י:א",
+              "sourceRef": "Rashi on Meilah 17a:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג</big> מסופר, <b>שאל ר' מתיא בן חרש את ר' שמעון בן יוחאי</b> בהיותו בעיר רומי: מנין לדם שרצים שהוא טמא? אמר לו: שכן <b>אמר קרא</b> <span class=\"hebrew-emphasis\">[המקרא]</span> בענין איסור אכילת השרצים <b>\"וזה לכם הטמא\"</b> (ויקרא יא, כט), ולמדים זאת מיתור הכתוב, שהרי כבר נאמר בדומה \"אלה הטמאים לכם\" (שם פסוק לא).",
+              "ref": "Steinsaltz on Meilah 17a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:י",
+              "sourceRef": "Steinsaltz on Meilah 17a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Rabbi Matya ben Ĥarash was a <i>tanna </i>of the third and fourth generation, and a student of Rabbi Eliezer ben Hyrcanus and Rabbi Elazar ben Azaria, before whom he raised various questions. He was very wealthy and was an extremely pious and God-fearing individual. At one stage of his life he went to Rome and founded a great academy there, which became the Torah center of Rome. Since he lived in Rome, not many of his statements were recorded in Eretz Yisrael, and only a few of his rulings appear in the Mishna and <i>baraitot</i>. When the Sages of Eretz Yisrael would come to Rome for their dealings with the monarchy they would meet Rabbi Matya ben Ĥarash, and he would use this opportunity to ask them questions.",
+              "he": "יש מהראשונים שפירשו שנלמד הדבר מייתור הכתוב, שלא בא אלא לדרשה, שהרי נאמר בגוף פרשת טומאת השרצים \"אלה הטמאים לכם\" (ויקרא יא, לא), ולא היה מקום לומר אף בראשית הפרשה (שם כט) \"וזה לכם הטמא בשרץ\" (רש\"י, וכן הוא בפירוש). ויש שאמרו שנלמד הדבר מצורות הלשון שבפסוק זה, אם מהלשון \"וזה\", אם מהלשון \"הטמא\" (הובאו הדברים בתוס'). אכן העירו אחרונים כי בזה נחלקו תנאים במדרש ברא\"ר, שלדעת ר' שמעון בן יוחאי נלמד הדבר מ\"הטמא\", ולדעת ר' אליעזר בנו של ר' יוסי הגלילי נלמד הדבר מ\"וזה\" (גליון הש\"ס).",
+              "ref": "Steinsaltz comment #1 on Meilah 17a:10",
+              "sourceHeRef": "רַבִּי מָתְיָא בֶּן חָרָשׁ",
+              "sourceRef": "Rabbi Matya ben Ĥarash"
+            },
+            {
+              "en": "Rabbi Shimon ben Yoĥai was one of the greatest <i>tanna’im </i>of the generation prior to the redaction of the Mishna. The preeminent student of Rabbi Akiva, Rabbi Shimon considered himself his spiritual heir. His greatness is manifest in his mastery of both <i>halakha</i> and <i>aggada</i>, and his statements can be found on all topics in every tractate of the Talmud. Although the <i>halakha</i> is not always ruled in accordance with Rabbi Shimon’s opinion, especially in his disputes with Rabbi Yosei and Rabbi Yehuda, nevertheless, on several basic matters the <i>halakha </i>does follow his opinion. Rabbi Shimon ben Yoĥai had his own, unique method of deriving <i>halakha </i>from the Torah: He factors in the rationale of the verse and infers halakhic conclusions from the Torah based on the spirit and purpose of the <i>halakha</i>.  Rabbi Shimon traveled to Rome as an emissary of the people, but he harbored profound enmity toward the Romans. Since he made no attempt to conceal his feelings, he was sentenced to death and forced into hiding for many years. He was an ascetic and very exacting by nature, and was famous in his generation for his righteousness and his performance of miracles. There are many anecdotes related in the Talmud about miraculous acts that he performed. The <i>Sifrei</i>, a collection of halakhic derivations on Numbers and Deuteronomy, was developed in his study hall. He is also the primary character in the foundational work of kabbala, the <i>Zohar</i>. His greatest students were Rabbi Yehuda HaNasi, Rabbi Shimon ben Yehuda, and his son, Rabbi Elazar ben Rabbi Shimon, who was also a prominent <i>tanna</i>.",
+              "he": "מן התנאים, בדור השלישי\u0015 רביעי.\nהיה מתלמידיו של ר' אליעזר בן הורקנוס ור' אלעזר בן עזריה, מהם קבל את תורתו ולפניהם הציע שאלותיו. כן נמסר שהיה עשיר מופלג, וחסיד וירא שמים.\nבשלב מסויים בחייו הלך ר' מתיא בן חרש לרומי, שם יסד ישיבה גדולה. בית מדרש זה היה חשוב מאוד, עד שידעו הכל כי מרכז התורה שברומי הוא בית מדרש זה.\nמשום היותו ברומי, לא הגיעו מרבית דבריו לארץ ישראל, ורק מקצתם נשנה במשנה ובברייתות. כשהיו מגיעים חכמי ישראל לרומי, לדון עם השלטונות, היו נפגשים עם ר' מתיא בן חרש, ובהזדמנות זו היה מציע לפניהם את שאלותיו.",
+              "ref": "Steinsaltz comment #2 on Meilah 17a:10",
+              "sourceHeRef": "רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי",
+              "sourceRef": "Rabbi Shimon ben Yoĥai"
+            }
+          ]
+        },
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וזה לכם הטמא. </b>שאל ר' מתיא בן חרש את ר' שמעון בן יוחאי, מניין לדם שרצים שהוא טמא, אמר ליה, דאמר קרא וזה לכם הטמא .<br><span class=\"parenthesized\">(מעילה י\"ז א')</span>",
+              "ref": "Torah Temimah on Torah, Leviticus 11:29:4",
+              "sourceHeRef": "תורה תמימה על התורה, ויקרא יא:כט:ד",
+              "sourceRef": "Torah Temimah on Torah, Leviticus 11:29:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' ד\"ה דכתיב וכו' מייתורא דוי\"ו.</b> במדרש רבה פ' ח\"ש פ\"ס רשב\"י אומר טמא הטמא ר\"א בן יוסי אומר זה וזה ועיין מנחות דף נא ע\"ב תוספות ד\"ה וי\"ו:",
+                      "ref": "Gilyon HaShas on Meilah 17a:1",
+                      "sourceHeRef": "גליון הש\"ס על מעילה י״ז א:א",
+                      "sourceRef": "Gilyon HaShas on Meilah 17a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דכתיב וזה לכם הטמא</strong> - מייתורא דוי\"ו דוזה קדריש או מה\"א דהטמא:",
+              "ref": "Tosafot on Meilah 17a:10:1",
+              "sourceHeRef": "תוספות על מעילה י״ז א:י:א",
+              "sourceRef": "Tosafot on Meilah 17a:10:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The following shall be unclean for you from among the things that swarm on the earth: the mole, the mouse, and great lizards of every variety;",
+              "he": "וְזֶ֤ה לָכֶם֙ הַטָּמֵ֔א בַּשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ הַחֹ֥לֶד וְהָעַכְבָּ֖ר וְהַצָּ֥ב לְמִינֵֽהוּ׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:29",
+              "sourceHeRef": "ויקרא יא:כט",
+              "sourceRef": "Leviticus 11:29"
+            },
+            {
+              "en": "Those are for you the unclean among all the swarming things; whoever touches them when they are dead shall be unclean until evening.",
+              "he": "אֵ֛לֶּה הַטְּמֵאִ֥ים לָכֶ֖ם בְּכׇל־הַשָּׁ֑רֶץ כׇּל־הַנֹּגֵ֧עַ בָּהֶ֛ם בְּמֹתָ֖ם יִטְמָ֥א עַד־הָעָֽרֶב׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:31",
+              "sourceHeRef": "ויקרא יא:לא",
+              "sourceRef": "Leviticus 11:31"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates that <b><span href=\"/topics/rabbi-mattia-b-heresh\" class=\"namedEntityLink\" data-slug=\"rabbi-mattia-b-heresh\">Rabbi Matya ben Ḥarash</span> asked <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon ben Yoḥai</span> in the city of Rome: From where</b> is it derived <b>with regard to</b> the <b>blood of creeping animals that it is impure?</b> <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon ben Yoḥai</span> <b>said to him:</b> It is derived from the fact <b>that the verse states: “And these are they that are impure</b> for you among the creeping animals” (Leviticus 11:29). Since a similar phrase already appears in Leviticus 11:31, it is derived from here that the blood of creeping animals is impure.",
+      "he": "שָׁאַל <span href=\"/topics/rabbi-mattia-b-heresh\" class=\"namedEntityLink\" data-slug=\"rabbi-mattia-b-heresh\">רַבִּי מַתְיָא בֶּן חָרָשׁ</span> אֶת <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי</span> בָּעִיר רוֹמִי: מִנַּיִן לְדַם שְׁרָצִים שֶׁהוּא טָמֵא? אֲמַר לֵיהּ: דְּאָמַר קְרָא: ״וְזֶה לָכֶם הַטָּמֵא״.",
+      "ref": "Meilah 17a:10",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">כָּחַשׁ</strong> (Biblical Hebrew; compare <span dir=\"rtl\">כחד</span>; compare <span class=\"refLink\" data-ref=\"Jastrow, *חֲסִי 1\" dir=\"rtl\" href=\"/Jastrow,_*חֲסִי.1\">חֲסִי</span>, <span class=\"refLink\" data-ref=\"Jastrow, חַסְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_חַסְיָא.1\">חַסְיָא</span> &c.) <br><b>1)</b> <i>to fail, be reduced, be lean</i>, opposed <span dir=\"rtl\">בריא</span>, <span class=\"refLink\" data-ref=\"Jastrow, שָׁמֵן I 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁמֵן I.1\">שמן</span>. <span class=\"refLink\" data-ref=\"Bava Kamma 34a:11\" href=\"/Bava_Kamma.34a.11\">Bava Kamma 34ᵃ</span> <span dir=\"rtl\">כ׳ כשעת וכ׳</span> if the injured ox became reduced after being wounded, damage is assessed according to the value at the time of standing before court; Yerushalmi ib. III, end, 3ᵈ <span class=\"refLink\" data-ref=\"Jastrow, כָּחַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_כָּחַשׁ.1\">הִכְחִישׁ</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 53:3\" href=\"/Bereishit_Rabbah.53.3\">Breishit Rabbah section (Parashah) 53</span> (reference. to <span class=\"refLink\" data-ref=\"Habakkuk 3:17\" href=\"/Habakkuk.3.17\">Habakkuk III, 17</span>) <span dir=\"rtl\">כּוֹחֲשִׁים היו</span> (Sarah’s face) was haggard (and the announcement of the angels made it shine like olive oil); Yalkut Habakkuk 565 <span dir=\"rtl\">כְּחוּשִׁים</span>; [oth. interpret., see infra].—<i>Part. pass</i>. <span class=\"refLink\" data-ref=\"Jastrow, כָּחוּשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_כָּחוּשׁ.1\">כָּחוּשׁ</span>, f. <span dir=\"rtl\">כְּחוּשָה</span>; plural <span dir=\"rtl\">כְּחוּשִׁים</span>, <span dir=\"rtl\">כְּחוּשׁוֹת</span> <i>lean, reduced, weak</i>. <span class=\"refLink\" data-ref=\"Sanhedrin 78a:1\" href=\"/Sanhedrin.78a.1\">Sanhedrin 78ᵃ</span> <span dir=\"rtl\">כח כ׳</span> a weak force. <span class=\"refLink\" data-ref=\"Chullin 97a\" href=\"/Chullin.97a\">Chullin 97ᵃ</span> (in Chald. diction). <span class=\"refLink\" data-ref=\"Bava Kamma 6b:14\" href=\"/Bava_Kamma.6b.14\">Bava Kamma 6ᵇ</span> <span dir=\"rtl\">אכל כ׳</span> if he ate fruits of a garden-bed with scanty fruits; <span class=\"refLink\" data-ref=\"Gittin 48b\" href=\"/Gittin.48b\">Gittin 48ᵇ</span>; and from <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, כָּזַב 1\" dir=\"rtl\" href=\"/Jastrow,_כָּזַב.1\">כָּזַב</span>) <i>to be false</i>. Breishit Rabbah l. common gender. <span dir=\"rtl\">כּוֹחֲשִׁים היו</span> were they (the angels) false (deceiving)?—<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִכְחִישׁ</strong> <br><b>1)</b> <i>to be reduced, fail, deteriorate</i>. Yerushalmi Bava Kamma l. common gender., see supra.—<span class=\"refLink\" data-ref=\"Meilah 17a:32-42\" href=\"/Meilah.17a.32-42\">Meïl. 17ᵃ</span> <span dir=\"rtl\">מי שיש … יַכְחִישׁ וכ׳</span> if you have an enemy, do you desire him to be weak or strong? <span class=\"refLink\" data-ref=\"Meilah 17a:29-46\" href=\"/Meilah.17a.29-46\">Ib.</span> <span dir=\"rtl\">ימולו … ויַכְחִישׁוּ</span> let their children be circumcised …, and they will become weak. <span class=\"refLink\" data-ref=\"Yevamot 34b:4\" href=\"/Yevamot.34b.4\">Yevamot 34ᵇ</span> <span dir=\"rtl\">ויַכְחִישׁ יופיה</span> her beauty may be ruined. Yerushalmi Moʿed Katan I, beginning 80ᵃ <span dir=\"rtl\">עמדה מלהַכְחִישׁ</span> if the field ceased to deteriorate; and e. <br><b><br>—2)</b> <i>to lessen, reduce, ruin, weaken</i>. <span class=\"refLink\" data-ref=\"Gittin 70a:19\" href=\"/Gittin.70a.19\">Gittin 70ᵃ</span> <span dir=\"rtl\">ג׳ … מַכְחִישִׁים כחו וכ׳</span> three things lessen a man’s energies. <span class=\"refLink\" data-ref=\"Sanhedrin 84b\" href=\"/Sanhedrin.84b\">Sanhedrin 84ᵇ</span> <span dir=\"rtl\">הִכְחִישָׁחּ באבנים</span> he ruined the animal by loading stones upon her (without causing a wound). Yerushalmi Bava Kamma l. common gender. <span dir=\"rtl\">הִכְחִישׁוֹ חמשים וכ׳</span> he lessened his (the ox’s) value by fifty Zuz. <span class=\"refLink\" data-ref=\"Esther Rabbah 1:1\" href=\"/Esther_Rabbah.1.1\">Esther Rabbah to I, 1</span> (play on <span dir=\"rtl\">אח̇ש̇ור̇ש̇</span>) <span dir=\"rtl\">שהכח̇יש̇ ר̇אש̇ן וכ׳</span> he caused haggardness to the heads of &c. <span class=\"refLink\" data-ref=\"Shabbat 22a:7\" href=\"/Shabbat.22a.7\">Shabbat 22ᵃ</span> <span dir=\"rtl\">מַכְחִישׁ מצוה</span> he impairs the religious act (lessens the brightness of the Ḥănuckah lights). <span class=\"refLink\" data-ref=\"Sanhedrin 67b\" href=\"/Sanhedrin.67b\">Sanhedrin 67ᵇ</span>; <span class=\"refLink\" data-ref=\"Chullin 7b\" href=\"/Chullin.7b\">Chullin 7ᵇ</span>, see <span dir=\"rtl\">כְּשָׁפִים</span>; and from—[<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 627\" href=\"/Yalkut_Shimoni_on_Nach.627\">Yalkut Psalms 627</span> <span class=\"refLink\" data-ref=\"Jastrow, כְּנַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_כְּנַשׁ.1\">אַכְחֵישׁ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כָּעַס 1\" dir=\"rtl\" href=\"/Jastrow,_כָּעַס.1\">כָּעַס</span>.] <br><b><br>—3)</b> <i>to declare false, deny, contradict</i>, see <span class=\"refLink\" data-ref=\"Jastrow, הַכְחָשָׁה 1\" dir=\"rtl\" href=\"/Jastrow,_הַכְחָשָׁה.1\">הַכְחָשָׁה</span>. <span class=\"refLink\" data-ref=\"Ketubot 20a:1\" href=\"/Ketubot.20a.1\">Ketubot 20ᵃ</span> <span dir=\"rtl\">כשם שאין מזימין … אין מַכְחִישִׁין וכ׳</span> as an evidence of alibi cannot be taken up except by confrontation, so cannot contradictory evidence &c. <span class=\"refLink\" data-ref=\"Berakhot 27b:18\" href=\"/Berakhot.27b.18\">Berakhot 27ᵇ</span> <span dir=\"rtl\">יכול החי להַבְחִישׁ וכ׳</span> can the living contradict the living? <span class=\"refLink\" data-ref=\"Bereishit Rabbah 48\" href=\"/Bereishit_Rabbah.48\">Breishit Rabbah section (Parashah) 48</span>, beginning <span dir=\"rtl\">מפני מה אתה מַכְחִישֵׁנִי וכ׳</span> why dost thou contradict me (declare me wrong) in the presence of my servant?—Sifra introduction, see <span class=\"refLink\" data-ref=\"Jastrow, כָּרַע 1\" dir=\"rtl\" href=\"/Jastrow,_כָּרַע.1\">כָּרַע</span>; and from<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">כִּיחֵשׁ</strong> <i>to be false; to flatter</i>. <span class=\"refLink\" data-ref=\"Sifrei Devarim 356\" href=\"/Sifrei_Devarim.356\">Sifré Devarim 356</span> <span dir=\"rtl\">בשעת מְכַחֲשִׁים להם …</span> when the Israelites prosper, the nations flatter them; Yalkut Devarim 967.<br></br> <strong>Hof.</strong> - <strong dir=\"rtl\">הוּכְחָשׁ</strong> <i>to be contradicted, rebutted</i>. <span class=\"refLink\" data-ref=\"Bava Kamma 74b:8\" href=\"/Bava_Kamma.74b.8\">Bava Kamma 74ᵇ</span> <span dir=\"rtl\">עדים שהוּכְחֲשׁוּ בנפש</span> witnesses that have been contradicted in a capital case.—<span class=\"refLink\" data-ref=\"Bava Kamma 74b:5\" href=\"/Bava_Kamma.74b.5\">Ib.</span> <span dir=\"rtl\">מוּכְחָשִׁין</span> witnesses whose evidence has been contradicted (but not rebutted through an alibi). Ketubot l. common gender. <span dir=\"rtl\">עדות מוּכְחֶשֶׁת</span> a rebutted evidence; and from<br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">הִתְכַּחֵשׁ</strong> <i>to contradict each other</i>. <span class=\"refLink\" data-ref=\"Sifrei Devarim 37:10\" href=\"/Sifrei_Devarim.37.10\">Sifré Devarim 37</span> <span dir=\"rtl\">מִתְכַּחֲשׁוֹת</span>; see, however, <span class=\"refLink\" data-ref=\"Jastrow, כָּתַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_כָּתַשׁ.1\">כָּתַשׁ</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, כָּחַשׁ 1",
+              "sourceHeRef": "מילון יסטרוב, כָּחַשׁ א׳",
+              "sourceRef": "Jastrow, כָּחַשׁ 1"
+            }
+          ]
+        },
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שלא ישמרו את השבת</b> כו׳. באו לבטל ג׳ מצות אלו אשר נתנו לישראל להיותם מוגדלים הבדל גדול מן האומות בשבת ובמילה כתיב אות היא ביני וביניכם ולפי שהאשה אינה במילה בא לה הבדל מבין האומות במצות הטבילה וכמ״ש בכריתות שלא נכנסו ישראל בברית כשקבלו התורה אלא במילה ובטבילה שהכנסה לברית באשה לא היה רק בטבילה ורבי ראובן הטעה אותם לומר דלא נתנו להם אלא משנאה אותם דמי שיש לו אויב כו׳:",
+              "ref": "Chidushei Agadot on Meilah 17a:1",
+              "sourceHeRef": "חידושי אגדות על מעילה י״ז א:א",
+              "sourceRef": "Chidushei Agadot on Meilah 17a:1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>It was stated</b> that the Sages disagreed about the following matter: <b>Rav and Rabbi Ḥanina</b> both <b>say: <i>Megillat Ta’anit</i>,</b> a listing of days on which fasting and eulogizing are forbidden, <b>has been nullified,</b> as in the present period of exile there is no reason to celebrate the joyous events that these days commemorate. <b>Rabbi Yoḥanan and Rabbi Yehoshua ben Levi say: <i>Megillat Ta’anit</i> has not been nullified.</b>",
+                  "The Gemara explains: <b>Rav and Rabbi Ḥanina say</b> that <b><i>Megillat Ta’anit</i> has been nullified. This is what</b> the prophet <b>is saying: At a time when there is peace</b> in the world, the dates listed <b>will be</b> times of <b>joy and gladness,</b> on which eulogies and fasting are forbidden; but when <b>there is no peace,</b> they are days of <b>fasting. And those</b> days mentioned in <i>Megillat Ta’anit</i> <b>are also like these</b> days of fasting, that is to say, the days of joy listed in <i>Megillat Ta’anit</i> are also nullified when there is no peace.",
+                  "<b>Rabbi Yoḥanan and Rabbi Yehoshua ben Levi say</b> that <b><i>Megillat Ta’anit</i> has not been nullified,</b> and they reason as follows: <b>It was those</b> fast days mentioned in the Bible <b>that the Merciful One makes contingent on the building of the Temple, but these</b> festive days listed in <i>Megillat Ta’anit</i> <b>remain as they were</b> and have not been nullified.",
+                  "<b>Rav Kahana raised an objection</b> against Rav and Rabbi Ḥanina from a <i>baraita</i>: <b>There was an incident and</b> the Sages <b>decreed a fast on Hanukkah in Lod, and Rabbi Eliezer went down</b> on that day <b>and bathed</b> in the bathhouse <b>and Rabbi Yehoshua went down and cut</b> his hair to show that they did not accept the fast. Furthermore, these two Sages <b>said to</b> the others: <b>Go out and fast</b> another fast as an act of penitence <b>for what you have</b> already <b>fasted,</b> as the days of Hanukkah are days of joy, on which fasting is forbidden. Hanukkah is one of the Festivals listed in <i>Megillat Ta’anit</i>. Even after the destruction of the Temple Hanukkah is celebrated, demonstrating that <i>Megillat Ta’anit</i> has not been nullified.",
+                  "<b>Rav Yosef said: Hanukkah is different, as there is the mitzva</b> of lighting candles, and so, unlike the other days listed in <i>Megillat Ta’anit</i>, the festival of Hanukkah was not nullified. <b>Abaye said to him:</b> What is this argument? <b>Let</b> Hanukkah <b>itself be nullified, and let its mitzva</b> of lighting candles <b>be nullified</b> with it.",
+                  "<b>Rather, Rav Yosef</b> retracted his previous explanation and <b>said: Hanukkah is different, as its miracle is well known,</b> and it has become so widely accepted by all the Jewish people that it would be inappropriate to nullify it.",
+                  "<b>Rav Aḥa bar Huna raised an objection:</b> It is stated in <i>Megillat Ta’anit</i>: <b>On the third of Tishrei the</b> ordinance requiring the <b>mention</b> of God’s name <b>in</b> legal <b>documents was abolished,</b> and on that day fasting is forbidden. <b>For the kingdom of Greece had issued a decree</b> against the Jews <b>forbidding them to mention the name of Heaven on their lips. When the Hasmonean kingdom became strong and defeated</b> the Greeks, <b>they instituted that people should mention the name of Heaven even in their</b> legal <b>documents. And therefore they would write: In year such and such of Yoḥanan the High Priest of the God Most High.</b>",
+                  "<b>And when the Sages heard about this they said: Tomorrow this one,</b> the borrower, <b>will repay his debt,</b> the lender will no longer need to save the loan document, <b>the document will be cast on a dunghill,</b> and the name of Heaven written there will come to disgrace. <b>And</b> so <b>they annulled</b> the ordinance to mention God’s name in documents, <b>and they made that day into a Festival. And if it enters your mind</b> to say that <b><i>Megillat Ta’anit</i> has been nullified,</b> can you say that <b>the first</b> prohibitions against fasting <b>they annulled, and</b> then <b>later</b> ones <b>were added?</b>",
+                  "The Gemara answers: <b>With what are we dealing here?</b> This is referring to a time <b>when the Temple was standing</b> and all the days listed in <i>Megillat Ta’anit</i> were in force. From time to time new days of commemoration were added. When the <i>amora’im</i> stated that <i>Megillat Ta’anit</i> was nullified they were referring to the time after the destruction of the Temple."
+                ],
+                [
+                  "The Gemara raises a difficulty: But if this was at the time that the Temple was standing, <b>derive</b> the prohibition against fasting on the third of Tishrei from the fact that <b>it is the day that Gedaliah, son of Ahikam, was killed.</b> During the time of the Temple the biblical fast days were celebrated as days of joy. <b>Rav said: It was only necessary</b> to include the third of Tishrei in <i>Megillat Ta’anit</i> <b>in order to prohibit</b> fasting on <b>the preceding</b> day as well. Fasting was forbidden not only on the actual days listed in <i>Megillat Ta’anit</i>, but also on the preceding day and the following day.",
+                  "The Gemara raises another difficulty: With regard to the prohibition against fasting on <b>the preceding day,</b> the second of Tishrei, <b>also derive it because it is</b> the <b>day after</b> the <b>New Moon,</b> and fasting is forbidden not only on festive days, but also on the preceding day and the following day. The Gemara rejects this argument: The <b>New Moon is by Torah law,</b> and festive days that are <b>by Torah law do not require reinforcement.</b> Therefore no decree was ever enacted prohibiting fasting on the days before and after.",
+                  "<b>As it is taught</b> in a <i>baraita</i>: <b>These days that are written in <i>Megillat Ta’anit</i> are</b> days on which fasting is <b>prohibited,</b> as are <b>both</b> the day <b>before them and</b> the day <b>after them.</b> With regard to <b><i>Shabbatot</i> and Festivals,</b> fasting on <b>them is forbidden,</b> but on the day <b>before them and</b> the day <b>after them</b> fasting <b>is permitted. What is the difference between this</b> class of days <b>and that</b> class of days? <b>These</b> days, <i>Shabbatot</i> and Festivals, <b>are</b> by <b>Torah law, and Torah laws do not need reinforcement,</b> and therefore even if a fast day were decreed on the day before or after them, the Festival itself would not be nullified; whereas <b>those</b> days mentioned in <i>Megillat Ta’anit</i> <b>are</b> by <b>rabbinic law, and rabbinic laws need reinforcement,</b> and therefore fasting is prohibited even on the day before and the day after.",
+                  "The Gemara raises yet another difficulty: The prohibition against fasting on the second of Tishrei, <b>derive it</b> from the fact that <b>it is the day before the day that Gedaliah, son of Ahikam, was killed,</b> and since in Temple times the fast of Gedaliah was celebrated as a festive day, fasting should also be prohibited on the preceding day. <b>Rav Ashi said:</b> The fast of <b>Gedaliah, son of Ahikam, is</b> derived from <b>the texts of the tradition,</b> i.e., Prophets and Writings, <b>and</b> as <b>the texts of the tradition are</b> treated <b>like Torah statements</b> for this purpose, they too do not need reinforcement.",
+                  "<b>Rav Tovi bar Mattana raised an objection</b> against the opinion that <i>Megillat Ta’anit</i> was nullified, from that which is written in it: <b>On the twenty-eighth of</b> Adar the <b>good tidings came to the Jews that they should not turn away from the Torah,</b> and on that day fasting is forbidden. And this is explained: <b>For the wicked kingdom issued a decree against Israel that they should not occupy themselves with Torah</b> study, <b>and that they should not circumcise their sons, and that they should desecrate Shabbat. What did Yehuda ben Shammua and his colleagues do? They went and took advice from</b> a certain <b>matron [<i>matronita</i>] whom all the prominent men of Rome would visit regularly,</b> thinking that she would know how to annul the decree.",
+                  "<b>She said to them</b> as follows: <b>Come and cry out [<i>hafgginu</i>] at night</b> in the streets and markets. <b>They went and cried out at night, saying: O Heavens! Are we</b> Jews <b>not your brothers; are we not children of one father; are we not children of one mother? How are we different from every</b> other <b>nation and tongue that you issue</b> such <b>harsh decrees against us? And</b> indeed the decrees <b>were annulled, and</b> the Sages <b>made that day a festive day. And if it enters your mind</b> to say that <b><i>Megillat Ta’anit</i> has been nullified,</b> can you say that <b>the first</b> prohibitions against fasting <b>they annulled, and</b> then <b>later</b> ones <b>were added?</b>",
+                  "<b>And if you say that here too</b> it is referring to <b>the time when the Temple was standing,</b> there is a difficulty, <b>as Yehuda ben Shammua was a student of Rabbi Meir, and Rabbi Meir was after</b> the destruction of the Temple. And proof that Rabbi Yehuda ben Shammua was a student of Rabbi Meir may be brought, <b>as we learned</b> in a mishna: With regard to <b>glass vessels that had holes</b> in them, which afterward <b>were filled in with lead,</b> the Sages dispute whether the utensil is considered a whole utensil, which can become ritually impure, or whether it is considered a broken utensil, which does not. <b>Rabban Shimon ben Gamliel said: Yehuda ben Shammua</b> declares that it <b>becomes impure, in the name of Rabbi Meir;</b>"
+                ],
+                [
+                  "<b>whereas the Sages declare it pure.</b> According to them, it is still considered a broken utensil. Rabbi Meir himself lived after the destruction of the Second Temple. The festive day commemorating the annulling of the decree of Rome was instituted as a result of an incident involving his student, Rabbi Yehuda ben Shammua. From this, it is clear that <i>Megillat Ta’anit</i> had not yet been nullified.",
+                  "The Gemara answers: The question whether or not <i>Megillat Ta’anit</i> has been nullified is the subject of a dispute between <b><i>tanna’im</i>, as it is taught</b> in a <i>baraita</i>: <b>These days, which are written in <i>Megillat Ta’anit</i>, both when the Temple is standing and when the Temple is not standing, are</b> days on which fasting is <b>prohibited;</b> this is <b>the statement of Rabbi Meir. Rabbi Yosei says: When the Temple is standing,</b> these days <b>are prohibited</b> for fasting <b>because</b> these days <b>are</b> a source of <b>joy for</b> Israel. But when <b>the Temple is not standing,</b> these days <b>are permitted</b> for fasting <b>because these</b> days <b>are</b> a source of <b>mourning for them.</b>",
+                  "The Gemara concludes: <b>And the <i>halakha</i> is</b> that these days <b>were nullified, and the <i>halakha</i> is</b> that <b>they were not nullified.</b> The Gemara asks: This <b>is difficult,</b> as one <b><i>halakha</i></b> contradicts <b>the</b> other <b><i>halakha</i>.</b> The Gemara answers: <b>It</b> is <b>not difficult. Here,</b> it is referring to <b>Hanukkah and Purim.</b> These Festival days were never nullified, and Hanukkah is listed among the Festivals of <i>Megillat Ta’anit</i>. <b>There,</b> the <i>halakha</i> is referring to <b>the rest of the days</b> listed in <i>Megillat Ta’anit</i>, all of which were nullified."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Rosh Hashanah 18b:9",
+                "Rosh Hashanah 18b:10",
+                "Rosh Hashanah 18b:11",
+                "Rosh Hashanah 18b:12",
+                "Rosh Hashanah 18b:13",
+                "Rosh Hashanah 18b:14",
+                "Rosh Hashanah 18b:15",
+                "Rosh Hashanah 18b:16",
+                "Rosh Hashanah 18b:17",
+                "Rosh Hashanah 19a:1",
+                "Rosh Hashanah 19a:2",
+                "Rosh Hashanah 19a:3",
+                "Rosh Hashanah 19a:4",
+                "Rosh Hashanah 19a:5",
+                "Rosh Hashanah 19a:6",
+                "Rosh Hashanah 19a:7",
+                "Rosh Hashanah 19b:1",
+                "Rosh Hashanah 19b:2",
+                "Rosh Hashanah 19b:3"
+              ],
+              "he": [
+                [
+                  "אִיתְּמַר, רַב וְרַבִּי חֲנִינָא אָמְרִי: בָּטְלָה מְגִילַּת תַּעֲנִית. רַבִּי יוֹחָנָן וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי אָמְרִי: לֹא בָּטְלָה מְגִילַּת תַּעֲנִית.",
+                  "רַב וְרַבִּי חֲנִינָא אָמְרִי בָּטְלָה מְגִילַּת תַּעֲנִית, הָכִי קָאָמַר: בִּזְמַן שֶׁיֵּשׁ שָׁלוֹם — יִהְיוּ לְשָׂשׂוֹן וּלְשִׂמְחָה, אֵין שָׁלוֹם — צוֹם. וְהָנָךְ נָמֵי כִּי הָנֵי.",
+                  "רַבִּי יוֹחָנָן וְרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי אָמְרִי: לֹא בָּטְלָה מְגִילַּת תַּעֲנִית — הָנֵי הוּא דִּתְלִינְהוּ רַחֲמָנָא בְּבִנְיַן בֵּית הַמִּקְדָּשׁ, אֲבָל הָנָךְ — כִּדְקָיְימִי קָיְימִי.",
+                  "מֵתִיב רַב כָּהֲנָא: מַעֲשֶׂה וְגָזְרוּ תַּעֲנִית בַּחֲנוּכָּה בְּלוֹד, וְיָרַד רַבִּי אֱלִיעֶזֶר וְרָחַץ, וְרַבִּי יְהוֹשֻׁעַ וְסִיפֵּר. וְאָמְרוּ לָהֶם: צְאוּ וְהִתְעַנּוּ עַל מַה שֶּׁהִתְעַנִּיתֶם.",
+                  "אָמַר רַב יוֹסֵף: שָׁאנֵי חֲנוּכָּה דְּאִיכָּא מִצְוָה. אָמַר לֵיהּ אַבָּיֵי: וְתִיבְטַיל אִיהִי וְתִיבְטַל מִצְוָתָהּ!",
+                  "אֶלָּא אָמַר רַב יוֹסֵף, שָׁאנֵי חֲנוּכָּה דְּמִיפַּרְסַם נִיסָּא.",
+                  "מוֹתֵיב רַב אַחָא בַּר הוּנָא: בִּתְלָתָא בְּתִשְׁרִי בְּטֵילַת אַדְכָּרְתָּא מִן שְׁטָרַיָּיא. שֶׁגָּזְרָה מַלְכוּת יָוָן גְּזֵרָה שֶׁלֹּא לְהַזְכִּיר שֵׁם שָׁמַיִם עַל פִּיהֶם, וּכְשֶׁגָּבְרָה מַלְכוּת חַשְׁמוֹנַאי וְנִצְּחוּם הִתְקִינוּ שֶׁיְּהוּ מַזְכִּירִין שֵׁם שָׁמַיִם אֲפִילּוּ בִּשְׁטָרוֹת. וְכָךְ הָיוּ כּוֹתְבִים: בִּשְׁנַת כָּךְ וְכָךְ לְיוֹחָנָן כֹּהֵן גָּדוֹל לְאֵל עֶלְיוֹן.",
+                  "וּכְשֶׁשָּׁמְעוּ חֲכָמִים בַּדָּבָר, אָמְרוּ: לְמָחָר זֶה פּוֹרֵעַ אֶת חוֹבוֹ וְנִמְצָא שְׁטָר מוּטָּל בָּאַשְׁפָּה, וּבִיטְּלוּם, וְאוֹתוֹ הַיּוֹם עֲשָׂאוּהוּ יוֹם טוֹב. וְאִי סָלְקָא דַעְתָּךְ בָּטְלָה מְגִילַּת תַּעֲנִית — קַמָּיָיתָא בְּטוּל, אַחְרָנְיָיתָא מוֹסִיפִין?!",
+                  "הָכָא בְּמַאי עָסְקִינַן, בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים."
+                ],
+                [
+                  "וְתִיפּוֹק לֵיהּ דְּהָוֵה לֵיהּ יוֹם שֶׁנֶּהֱרַג בּוֹ גְּדַלְיָה בֶּן אֲחִיקָם! אָמַר רַב: לֹא נִצְרְכָה אֶלָּא לֶאֱסוֹר אֶת שֶׁלְּפָנָיו.",
+                  "שֶׁלְּפָנָיו נָמֵי, תִּיפּוֹק לֵיהּ דְּהָוֵה לֵיהּ יוֹם שֶׁלְּאַחַר רֹאשׁ חֹדֶשׁ! רֹאשׁ חֹדֶשׁ דְּאוֹרָיְיתָא, וּדְאוֹרָיְיתָא לָא בָּעֵי חִיזּוּק.",
+                  "דְּתַנְיָא: הַיָּמִים הָאֵלֶּה הַכְּתוּבִין בִּמְגִילַּת תַּעֲנִית אֲסוּרִין, בֵּין לִפְנֵיהֶם בֵּין לְאַחֲרֵיהֶם. שַׁבָּתוֹת וְיָמִים טוֹבִים — הֵם אֲסוּרִים, לִפְנֵיהֶן וּלְאַחֲרֵיהֶן מוּתָּרִין. מָה הֶפְרֵשׁ בֵּין זֶה לָזֶה? הַלָּלוּ דִּבְרֵי תוֹרָה, וְאֵין דִּבְרֵי תוֹרָה צְרִיכִין חִיזּוּק. הַלָּלוּ דִּבְרֵי סוֹפְרִים, וְדִבְרֵי סוֹפְרִים צְרִיכִין חִיזּוּק.",
+                  "וְתִיפּוֹק לֵיהּ דְּהָוֵה לֵיהּ יוֹם שֶׁלִּפְנֵי יוֹם שֶׁנֶּהֱרַג בּוֹ גְּדַלְיָה בֶּן אֲחִיקָם! אָמַר רַב אָשֵׁי: גְּדַלְיָה בֶּן אֲחִיקָם דִּבְרֵי קַבָּלָה הוּא, וְדִבְרֵי קַבָּלָה כְּדִבְרֵי תוֹרָה דָּמוּ.",
+                  "מֵתִיב רַב טוֹבִי בַּר מַתְנָה: בְּעֶשְׂרִים וּתְמָנְיָא בֵּיהּ אֲתָת בְּשׂוֹרְתָּא טָבְתָּא לִיהוּדָאֵי דְּלָא יְעִידוֹן מֵאוֹרָיְיתָא. שֶׁגָּזְרָה מַלְכוּת הָרְשָׁעָה גְּזֵרָה שֶׁלֹּא יַעַסְקוּ בַּתּוֹרָה, וְשֶׁלֹּא יָמוּלוּ אֶת בְּנֵיהֶם, וְשֶׁיְּחַלְּלוּ שַׁבָּתוֹת. מָה עָשָׂה יְהוּדָה בֶּן שַׁמּוּעַ וַחֲבֵירָיו? הָלְכוּ וְנָטְלוּ עֵצָה מִמַּטְרוֹנִיתָא אַחַת שֶׁכׇּל גְּדוֹלֵי רוֹמִי מְצוּיִין אֶצְלָהּ.",
+                  "אָמְרָה לָהֶם: בּוֹאוּ וְהַפְגִּינוּ בַּלַּיְלָה. הָלְכוּ וְהִפְגִּינוּ בַּלַּיְלָה, אָמְרוּ: אֵי שָׁמַיִם! לֹא אֲחֵיכֶם אֲנַחְנוּ, וְלֹא בְּנֵי אָב אֶחָד אֲנַחְנוּ, וְלֹא בְּנֵי אֵם אַחַת אֲנַחְנוּ? מָה נִשְׁתַּנֵּינוּ מִכׇּל אוּמָּה וְלָשׁוֹן שֶׁאַתֶּם גּוֹזְרִין עָלֵינוּ גְּזֵירוֹת קָשׁוֹת? וּבִיטְּלוּם. וְאוֹתוֹ הַיּוֹם עֲשָׂאוּהוּ יוֹם טוֹב. וְאִי סָלְקָא דַּעְתָּךְ בָּטְלָה מְגִילַּת תַּעֲנִית — קַמָּיָיתָא בְּטוּל, אַחְרָנְיָיתָא מוֹסִיפִין?!",
+                  "וְכִי תֵּימָא הָכָא נָמֵי בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים — וְהָא יְהוּדָה בֶּן שַׁמּוּעַ תַּלְמִידוֹ שֶׁל רַבִּי מֵאִיר, וְרַבִּי מֵאִיר בָּתַר הָכִי הֲוָה! דִּתְנַן: כְּלֵי זְכוּכִית שֶׁנִּיקְּבוּ וְהִטִּיף לְתוֹכָן אֲבָר, אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: יְהוּדָה בֶּן שַׁמּוּעַ מְטַמֵּא מִשּׁוּם רַבִּי מֵאִיר,"
+                ],
+                [
+                  "וַחֲכָמִים מְטַהֲרִין.",
+                  "תַּנָּאֵי הִיא. דְּתַנְיָא: הַיָּמִים הָאֵלּוּ הַכְּתוּבִין בִּמְגִילַּת תַּעֲנִית, בֵּין בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים בֵּין בִּזְמַן שֶׁאֵין בֵּית הַמִּקְדָּשׁ קַיָּים — אֲסוּרִין, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יוֹסֵי אוֹמֵר: בִּזְמַן שֶׁבֵּית הַמִּקְדָּשׁ קַיָּים — אֲסוּרִין, מִפְּנֵי שֶׁשִּׂמְחָה הִיא לָהֶם. אֵין בֵּית הַמִּקְדָּשׁ קַיָּים — מוּתָּרִין, מִפְּנֵי שֶׁאֵבֶל הוּא לָהֶם.",
+                  "וְהִלְכְתָא בָּטְלוּ, וְהִלְכְתָא לֹא בָּטְלוּ. קַשְׁיָא הִלְכְתָא אַהִלְכְתָא! לָא קַשְׁיָא: כָּאן בַּחֲנוּכָּה וּפוּרִים, כָּאן בִּשְׁאָר יוֹמֵי."
+                ]
+              ],
+              "link": "/Rosh Hashanah/19a",
+              "originalRefsBeforeRewriting": [
+                "Rosh Hashanah 19a:5"
+              ],
+              "ref": "Rosh Hashanah 18b:9-19b:3",
+              "sourceHeRef": "ראש השנה י״ט א",
+              "sourceRef": "Rosh Hashanah 19a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמרו לו</strong> - לרבי מתיא תלמידיו של רבי מתיא:",
+              "ref": "Rashi on Meilah 17a:11:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:יא:א",
+              "sourceRef": "Rashi on Meilah 17a:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חכים לו בן יוחאי</strong> - כבר נתחכם בן יוחאי שיודע לומר דבר זה:",
+              "ref": "Rashi on Meilah 17a:11:2",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:יא:ב",
+              "sourceRef": "Rashi on Meilah 17a:11:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">למוד ערוך</strong> - ולא אמרה מדעתו ומנלן דלמדה מרבי אלעזר בר רבי יוסי מהכא שפעם אחד וכו':",
+              "ref": "Rashi on Meilah 17a:11:3",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:יא:ג",
+              "sourceRef": "Rashi on Meilah 17a:11:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמרו לו תלמידיו</b> של ר' מתיא בן חרש לרבם בהתפעלות: כמה <b>חכים ליה</b> <span class=\"hebrew-emphasis\">[החכים לו]</span> <b>בן יוחאי</b> שדרש דרשה זו. <b>אמר להם:</b> אין זו דרשתו של ר' שמעון בן יוחאי, אלא הרי זה <b>תלמוד ערוך</b> (לימוד ברור ומסודר) <b>בפיו של ר' אלעזר בר ר' יוסי,</b> וממנו למד ר' שמעון בן יוחאי. ואימתי היה דבר זה? <b>שפעם אחת גזרה המלכות</b> (השלטון הרומאי) <b>גזרה</b> (שלש גזירות) על בני ישראל: <b>שלא ישמרו את השבת; ושלא ימולו את בניהם; וש</b>לא תטבולנה בנות ישראל מטומאת נדתן, ובכך יבואו בני ישראל ו<b>יבעלו את</b> נשותיהן ה<b>נדות.</b>",
+              "ref": "Steinsaltz on Meilah 17a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:יא",
+              "sourceRef": "Steinsaltz on Meilah 17a:11"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חכים ליה בן יוחי</strong> - כלומר נתחכם לעצמו:",
+              "ref": "Tosafot on Meilah 17a:11:1",
+              "sourceHeRef": "תוספות על מעילה י״ז א:יא:א",
+              "sourceRef": "Tosafot on Meilah 17a:11:1"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rabbi-mattia-b-heresh\" class=\"namedEntityLink\" data-slug=\"rabbi-mattia-b-heresh\">Rabbi Matya ben Ḥarash</span>’s <b>students said to him</b> in amazement: How <b>wise is</b> <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon <b>ben Yoḥai</b></span><b>!</b> <span href=\"/topics/rabbi-mattia-b-heresh\" class=\"namedEntityLink\" data-slug=\"rabbi-mattia-b-heresh\">Rabbi Matya ben Ḥarash</span> <b>said to them:</b> This source is not his own, as it is <b>a set tradition in the mouth of <span href=\"/topics/rabbi-elazar-b-yose\" class=\"namedEntityLink\" data-slug=\"rabbi-elazar-b-yose\">Rabbi Elazar bar Rabbi Yosei</span>,</b> and <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon ben Yoḥai</span> learned it from him. <span href=\"/topics/rabbi-mattia-b-heresh\" class=\"namedEntityLink\" data-slug=\"rabbi-mattia-b-heresh\">Rabbi Matya ben Ḥarash</span> provided the background for this claim. <b>As, on one occasion the</b> gentile <b>monarchy issued a decree that</b> the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span> <b>may not observe Shabbat, and that they may not circumcise their sons, and that they must engage in intercourse with</b> their wives when they are <b>menstruating.</b>",
+      "he": "אָמְרוּ לוֹ תַּלְמִידָיו: חֲכֵים לֵיהּ בֶּן יוֹחַאי. אָמַר לָהֶם: תַּלְמוּד עָרוּךְ בְּפִיו שֶׁל רַבִּי אֶלְעָזָר בַּר רַבִּי יוֹסֵי. שֶׁפַּעַם אַחַת גָּזְרָה הַמַּלְכוּת גְּזֵרָה שֶׁלֹּא יִשְׁמְרוּ אֶת הַשַּׁבָּת, וְשֶׁלֹּא יָמוּלוּ אֶת בְּנֵיהֶם, וְשֶׁיִּבְעֲלוּ אֶת נִדּוֹת.",
+      "ref": "Meilah 17a:11"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">כָּחַשׁ</strong> (Biblical Hebrew; compare <span dir=\"rtl\">כחד</span>; compare <span class=\"refLink\" data-ref=\"Jastrow, *חֲסִי 1\" dir=\"rtl\" href=\"/Jastrow,_*חֲסִי.1\">חֲסִי</span>, <span class=\"refLink\" data-ref=\"Jastrow, חַסְיָא 1\" dir=\"rtl\" href=\"/Jastrow,_חַסְיָא.1\">חַסְיָא</span> &c.) <br><b>1)</b> <i>to fail, be reduced, be lean</i>, opposed <span dir=\"rtl\">בריא</span>, <span class=\"refLink\" data-ref=\"Jastrow, שָׁמֵן I 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁמֵן I.1\">שמן</span>. <span class=\"refLink\" data-ref=\"Bava Kamma 34a:11\" href=\"/Bava_Kamma.34a.11\">Bava Kamma 34ᵃ</span> <span dir=\"rtl\">כ׳ כשעת וכ׳</span> if the injured ox became reduced after being wounded, damage is assessed according to the value at the time of standing before court; Yerushalmi ib. III, end, 3ᵈ <span class=\"refLink\" data-ref=\"Jastrow, כָּחַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_כָּחַשׁ.1\">הִכְחִישׁ</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 53:3\" href=\"/Bereishit_Rabbah.53.3\">Breishit Rabbah section (Parashah) 53</span> (reference. to <span class=\"refLink\" data-ref=\"Habakkuk 3:17\" href=\"/Habakkuk.3.17\">Habakkuk III, 17</span>) <span dir=\"rtl\">כּוֹחֲשִׁים היו</span> (Sarah’s face) was haggard (and the announcement of the angels made it shine like olive oil); Yalkut Habakkuk 565 <span dir=\"rtl\">כְּחוּשִׁים</span>; [oth. interpret., see infra].—<i>Part. pass</i>. <span class=\"refLink\" data-ref=\"Jastrow, כָּחוּשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_כָּחוּשׁ.1\">כָּחוּשׁ</span>, f. <span dir=\"rtl\">כְּחוּשָה</span>; plural <span dir=\"rtl\">כְּחוּשִׁים</span>, <span dir=\"rtl\">כְּחוּשׁוֹת</span> <i>lean, reduced, weak</i>. <span class=\"refLink\" data-ref=\"Sanhedrin 78a:1\" href=\"/Sanhedrin.78a.1\">Sanhedrin 78ᵃ</span> <span dir=\"rtl\">כח כ׳</span> a weak force. <span class=\"refLink\" data-ref=\"Chullin 97a\" href=\"/Chullin.97a\">Chullin 97ᵃ</span> (in Chald. diction). <span class=\"refLink\" data-ref=\"Bava Kamma 6b:14\" href=\"/Bava_Kamma.6b.14\">Bava Kamma 6ᵇ</span> <span dir=\"rtl\">אכל כ׳</span> if he ate fruits of a garden-bed with scanty fruits; <span class=\"refLink\" data-ref=\"Gittin 48b\" href=\"/Gittin.48b\">Gittin 48ᵇ</span>; and from <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, כָּזַב 1\" dir=\"rtl\" href=\"/Jastrow,_כָּזַב.1\">כָּזַב</span>) <i>to be false</i>. Breishit Rabbah l. common gender. <span dir=\"rtl\">כּוֹחֲשִׁים היו</span> were they (the angels) false (deceiving)?—<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִכְחִישׁ</strong> <br><b>1)</b> <i>to be reduced, fail, deteriorate</i>. Yerushalmi Bava Kamma l. common gender., see supra.—<span class=\"refLink\" data-ref=\"Meilah 17a:32-42\" href=\"/Meilah.17a.32-42\">Meïl. 17ᵃ</span> <span dir=\"rtl\">מי שיש … יַכְחִישׁ וכ׳</span> if you have an enemy, do you desire him to be weak or strong? <span class=\"refLink\" data-ref=\"Meilah 17a:29-46\" href=\"/Meilah.17a.29-46\">Ib.</span> <span dir=\"rtl\">ימולו … ויַכְחִישׁוּ</span> let their children be circumcised …, and they will become weak. <span class=\"refLink\" data-ref=\"Yevamot 34b:4\" href=\"/Yevamot.34b.4\">Yevamot 34ᵇ</span> <span dir=\"rtl\">ויַכְחִישׁ יופיה</span> her beauty may be ruined. Yerushalmi Moʿed Katan I, beginning 80ᵃ <span dir=\"rtl\">עמדה מלהַכְחִישׁ</span> if the field ceased to deteriorate; and e. <br><b><br>—2)</b> <i>to lessen, reduce, ruin, weaken</i>. <span class=\"refLink\" data-ref=\"Gittin 70a:19\" href=\"/Gittin.70a.19\">Gittin 70ᵃ</span> <span dir=\"rtl\">ג׳ … מַכְחִישִׁים כחו וכ׳</span> three things lessen a man’s energies. <span class=\"refLink\" data-ref=\"Sanhedrin 84b\" href=\"/Sanhedrin.84b\">Sanhedrin 84ᵇ</span> <span dir=\"rtl\">הִכְחִישָׁחּ באבנים</span> he ruined the animal by loading stones upon her (without causing a wound). Yerushalmi Bava Kamma l. common gender. <span dir=\"rtl\">הִכְחִישׁוֹ חמשים וכ׳</span> he lessened his (the ox’s) value by fifty Zuz. <span class=\"refLink\" data-ref=\"Esther Rabbah 1:1\" href=\"/Esther_Rabbah.1.1\">Esther Rabbah to I, 1</span> (play on <span dir=\"rtl\">אח̇ש̇ור̇ש̇</span>) <span dir=\"rtl\">שהכח̇יש̇ ר̇אש̇ן וכ׳</span> he caused haggardness to the heads of &c. <span class=\"refLink\" data-ref=\"Shabbat 22a:7\" href=\"/Shabbat.22a.7\">Shabbat 22ᵃ</span> <span dir=\"rtl\">מַכְחִישׁ מצוה</span> he impairs the religious act (lessens the brightness of the Ḥănuckah lights). <span class=\"refLink\" data-ref=\"Sanhedrin 67b\" href=\"/Sanhedrin.67b\">Sanhedrin 67ᵇ</span>; <span class=\"refLink\" data-ref=\"Chullin 7b\" href=\"/Chullin.7b\">Chullin 7ᵇ</span>, see <span dir=\"rtl\">כְּשָׁפִים</span>; and from—[<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 627\" href=\"/Yalkut_Shimoni_on_Nach.627\">Yalkut Psalms 627</span> <span class=\"refLink\" data-ref=\"Jastrow, כְּנַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_כְּנַשׁ.1\">אַכְחֵישׁ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כָּעַס 1\" dir=\"rtl\" href=\"/Jastrow,_כָּעַס.1\">כָּעַס</span>.] <br><b><br>—3)</b> <i>to declare false, deny, contradict</i>, see <span class=\"refLink\" data-ref=\"Jastrow, הַכְחָשָׁה 1\" dir=\"rtl\" href=\"/Jastrow,_הַכְחָשָׁה.1\">הַכְחָשָׁה</span>. <span class=\"refLink\" data-ref=\"Ketubot 20a:1\" href=\"/Ketubot.20a.1\">Ketubot 20ᵃ</span> <span dir=\"rtl\">כשם שאין מזימין … אין מַכְחִישִׁין וכ׳</span> as an evidence of alibi cannot be taken up except by confrontation, so cannot contradictory evidence &c. <span class=\"refLink\" data-ref=\"Berakhot 27b:18\" href=\"/Berakhot.27b.18\">Berakhot 27ᵇ</span> <span dir=\"rtl\">יכול החי להַבְחִישׁ וכ׳</span> can the living contradict the living? <span class=\"refLink\" data-ref=\"Bereishit Rabbah 48\" href=\"/Bereishit_Rabbah.48\">Breishit Rabbah section (Parashah) 48</span>, beginning <span dir=\"rtl\">מפני מה אתה מַכְחִישֵׁנִי וכ׳</span> why dost thou contradict me (declare me wrong) in the presence of my servant?—Sifra introduction, see <span class=\"refLink\" data-ref=\"Jastrow, כָּרַע 1\" dir=\"rtl\" href=\"/Jastrow,_כָּרַע.1\">כָּרַע</span>; and from<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">כִּיחֵשׁ</strong> <i>to be false; to flatter</i>. <span class=\"refLink\" data-ref=\"Sifrei Devarim 356\" href=\"/Sifrei_Devarim.356\">Sifré Devarim 356</span> <span dir=\"rtl\">בשעת מְכַחֲשִׁים להם …</span> when the Israelites prosper, the nations flatter them; Yalkut Devarim 967.<br></br> <strong>Hof.</strong> - <strong dir=\"rtl\">הוּכְחָשׁ</strong> <i>to be contradicted, rebutted</i>. <span class=\"refLink\" data-ref=\"Bava Kamma 74b:8\" href=\"/Bava_Kamma.74b.8\">Bava Kamma 74ᵇ</span> <span dir=\"rtl\">עדים שהוּכְחֲשׁוּ בנפש</span> witnesses that have been contradicted in a capital case.—<span class=\"refLink\" data-ref=\"Bava Kamma 74b:5\" href=\"/Bava_Kamma.74b.5\">Ib.</span> <span dir=\"rtl\">מוּכְחָשִׁין</span> witnesses whose evidence has been contradicted (but not rebutted through an alibi). Ketubot l. common gender. <span dir=\"rtl\">עדות מוּכְחֶשֶׁת</span> a rebutted evidence; and from<br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">הִתְכַּחֵשׁ</strong> <i>to contradict each other</i>. <span class=\"refLink\" data-ref=\"Sifrei Devarim 37:10\" href=\"/Sifrei_Devarim.37.10\">Sifré Devarim 37</span> <span dir=\"rtl\">מִתְכַּחֲשׁוֹת</span>; see, however, <span class=\"refLink\" data-ref=\"Jastrow, כָּתַשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_כָּתַשׁ.1\">כָּתַשׁ</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, כָּחַשׁ 1",
+              "sourceHeRef": "מילון יסטרוב, כָּחַשׁ א׳",
+              "sourceRef": "Jastrow, כָּחַשׁ 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">עני</strong>, <strong dir=\"rtl\">עָנָה II</strong> (Biblical Hebrew; compare <span class=\"refLink\" data-ref=\"Jastrow, אָנָה 1\" dir=\"rtl\" href=\"/Jastrow,_אָנָה.1\">אָנָה</span>) <i>to press, be pressed; to be detained</i>.<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">עִינָּה</strong> <br><b>1)</b> <i>to detain, postpone</i>, especially <span dir=\"rtl\">ע׳ דין</span> <i>to delay execution of capital judgment</i> (which should take place on the day of sentence). <span class=\"refLink\" data-ref=\"Mishnah Sanhedrin 11:4\" href=\"/Mishnah_Sanhedrin.11.4\">Sanhedrin XI, 4</span> (<span class=\"refLink\" data-ref=\"Sanhedrin 89a:3\" href=\"/Sanhedrin.89a.3\">89ᵃ</span>) <span dir=\"rtl\">אין מְעַנִּין את דינו של וכ׳</span> we must not put off his execution (opposed to the opinion <span dir=\"rtl\">משמרין אותו</span>). Ib. 35ᵃ <span dir=\"rtl\">וליגמריה … נמצא אתה מְעַנֶּה את דינו</span> shall we pass sentence on Friday and put him to death on Sunday? In such a case you would postpone his execution (against the law); see <span class=\"refLink\" data-ref=\"Jastrow, עִינּוּי ² 1\" href=\"/Jastrow,_עִינּוּי ².1\"><span dir=\"rtl\">עִינּוּי</span> II</span>. <br><b><br>—2)</b> <i>to cause privation; to cause to fast</i>. <span class=\"refLink\" data-ref=\"Yoma 77b:3\" href=\"/Yoma.77b.3\">Yoma 77ᵇ</span> (reference. to <span dir=\"rtl\">ויענה</span>, <span class=\"refLink\" data-ref=\"Genesis 34:2\" href=\"/Genesis.34.2\">Breishit XXXIV, 2</span>) <span dir=\"rtl\">התם שעִינָּהּ מביאות וכ׳</span> this may be interpreted, that he deprived her of other connections. Ib. VIII, 4 <span dir=\"rtl\">התינוקות אין מענין אותן וכ׳</span> we must not let children fast on the Day of Atonement, see <span class=\"refLink\" data-ref=\"Jastrow, חָנַךְ 1\" dir=\"rtl\" href=\"/Jastrow,_חָנַךְ.1\">חָנַךְ</span>; and e.—<i>Part. pass.</i> מְעוּנֶּה <i>fasting</i>. <span class=\"refLink\" data-ref=\"Tosefta Ta'anit 2:7\" href=\"/Tosefta_Ta'anit.2.7\">Tosefta Taanit II, 7</span>; <span class=\"refLink\" data-ref=\"Eruvin 41a:1\" href=\"/Eruvin.41a.1\">Eruvin 41ᵃ</span> <span dir=\"rtl\">כדי שלא יכנס לשבת כשהוא מע׳</span> that he may not begin the Sabbath fasting; Midrash Tanḥuma <span class=\"refLink\" data-ref=\"Genesis 2\" href=\"/Genesis.2\">Bereshit 2</span>.– <br><b>3)</b> <i>to afflict, oppress, wrong</i>. Mekhilta Mishpatim, section (Parashah) 18 (reference. to <span class=\"refLink\" data-ref=\"Exodus 22:22\" href=\"/Exodus.22.22\">Shemot XXII, 22</span>) <span dir=\"rtl\">עד שיְעַנֶּה וישנה</span> until he practices oppression repeatedly; and e.—Part. pass. <span class=\"refLink\" data-ref=\"Jastrow, מְעוּבֶּה 1\" dir=\"rtl\" href=\"/Jastrow,_מְעוּבֶּה.1\">מְעוּנֶּה</span>; plural <span class=\"refLink\" data-ref=\"Jastrow, מְעוֹנֵין 1\" dir=\"rtl\" href=\"/Jastrow,_מְעוֹנֵין.1\">מְעוּנִּין</span>. <span class=\"refLink\" data-ref=\"Yevamot 48b:15\" href=\"/Yevamot.48b.15\">Yevamot 48ᵇ</span> <span dir=\"rtl\">מפני מה גרים בזמן הזה מע׳ וכ׳</span> why are the proselytes of our days afflicted and subject to suffering? <br><b><br>—4)</b> <i>to violate, outrage</i>. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 9:7\" href=\"/Bamidbar_Rabbah.9.7\">Bamidabar Rabbah section (Parashah) 9</span> (reference. to <span class=\"refLink\" data-ref=\"Micah 2:9\" href=\"/Micah.2.9\">Micah II, 9</span>) <span dir=\"rtl\">שהיו מְעַנִּים נשי וכ׳</span> they violated married women and caused them to be forbidden to their husbands. <span class=\"refLink\" data-ref=\"Vayikra Rabbah 19\" href=\"/Vayikra_Rabbah.19\">Vayikra Rabbah section (Parashah) 19</span>; and from—Mekhilta l. common gender.; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 349:6\" href=\"/Yalkut_Shimoni_on_Torah.349.6\">Yalkut Shemot 349</span> <span dir=\"rtl\">אם כשלא תְעַנּוּן את הדין וכ׳</span> if your wives will be spared from widowhood and your children from bereavement, because you do not violate justice, how much more, when you execute justice.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נַעֲנֶה</strong> <br><b>1)</b> <i>to be afflicted, oppressed</i>. Mekhilta l. common gender. <span dir=\"rtl\">אלמנה … שדרכן לֵעָנוֹת בהן וכ׳</span> widows and orphans who are liable to be oppressed,—of them the text speaks (<span class=\"refLink\" data-ref=\"Exodus 22:21\" href=\"/Exodus.22.21\">Shemot XXII, 21</span>); Yalkut l. common gender. <span dir=\"rtl\">שדרכן לֵיעָנוֹת</span> (not <span dir=\"rtl\">שדרכו</span>). <br><b><br>—2)</b> <i>to humble one’s self; to submit to a person’s discretion, beg pardon</i>. <span class=\"refLink\" data-ref=\"Berakhot 28a:10\" href=\"/Berakhot.28a.10\">Berakhot 28ᵃ</span> נַעֲנֵיתִי לך מחול לי I submit myself to thee, forgive me. <span class=\"refLink\" data-ref=\"Pesikta Rabbati 38:1\" href=\"/Pesikta_Rabbati.38.1\">Pesikta d'Rav Kahana R. section (Parashah) 38</span> נעניתי לו I beg his pardon. <span class=\"refLink\" data-ref=\"Yoma 22b:18\" href=\"/Yoma.22b.18\">Yoma 22ᵇ</span> נעניתי לכם עצמות וכ׳ I beg your pardon, bones of Saul!; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 117:3\" href=\"/Yalkut_Shimoni_on_Nach.117.3\">Yalkut Samuel 117</span> <span dir=\"rtl\">נעניתי לך שאול וכ׳</span>. <span class=\"refLink\" data-ref=\"Ketubot 67b:7\" href=\"/Ketubot.67b.7\">Ketubot 67ᵇ</span> נעניתי לך קום אכול I beg of thee, get up and eat. <span class=\"refLink\" data-ref=\"Tosefta Ohalot 5:12\" href=\"/Tosefta_Ohalot.5.12\">Tosefta Oholot V, 12</span> <span dir=\"rtl\">נמיתי לכם עצמות וכ׳</span> ed. Zuckermandel (see Tosefefta) (oth. ed. <span dir=\"rtl\">נמתי</span>, read <span dir=\"rtl\">נעניתי</span>) I beg your pardon, bones of &c.<br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">הִתְעַנֶּה</strong>, <strong dir=\"rtl\"></strong><br></br> <strong>Nithpaël</strong> - <strong dir=\"rtl\">נִתְעַנֶּה</strong> <br><b>1)</b> <i>to be afflicted, suffer</i>. <span class=\"refLink\" data-ref=\"Sifrei Devarim 130:5\" href=\"/Sifrei_Devarim.130.5\">Sifré Devarim 130</span> <span dir=\"rtl\">שנִתְעַנּוּ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, עִינּוּי ² 1\" href=\"/Jastrow,_עִינּוּי ².1\"><span dir=\"rtl\">עִינּוּי</span> II</span>. <br><b><br>—2)</b> <i>to afflict one’s self, to fast</i>. <span class=\"refLink\" data-ref=\"Berakhot 8b:3\" href=\"/Berakhot.8b.3\">Berakhot 8ᵇ</span> (reference. to <span class=\"refLink\" data-ref=\"Leviticus 23:32\" href=\"/Leviticus.23.32\">Vayikra XXIII, 32</span>) <span dir=\"rtl\">וכי בתשעה מִתְעַנִּין</span> do men fast on the ninth (of Tishri)? <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b\" href=\"/Rosh_Hashanah.18b\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">אין גזרת … רצו מתענין</span> when there is no political persecution, but no peace, those who wish may fast &c. <span class=\"refLink\" data-ref=\"Eruvin 41a:8\" href=\"/Eruvin.41a.8\">Eruvin 41ᵃ</span> <span dir=\"rtl\">והִתְעַנִּינוּ בו ולא וכ׳</span> we fasted, but not to the end of the day; and from<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הֶעֱנִי</strong> (denominative of <span class=\"refLink\" data-ref=\"Jastrow, עָנִי 1\" dir=\"rtl\" href=\"/Jastrow,_עָנִי.1\">עָנִי</span>) <i>to become poor</i>. <span class=\"refLink\" data-ref=\"Mishnah Ketubot 6:6\" href=\"/Mishnah_Ketubot.6.6\">Ketubot VI, 6</span>. <span class=\"refLink\" data-ref=\"Berakhot 33a:27\" href=\"/Berakhot.33a.27\">Berakhot 33ᵃ</span> <span dir=\"rtl\">חזרו והֶעֱנוּ</span> when they (the Jews) became poor again. <span class=\"refLink\" data-ref=\"Meilah 17a:32\" href=\"/Meilah.17a.32\">Meïl. 17ᵃ</span> <span dir=\"rtl\">מי שיש לו אויב יַעֲנִי או יעשיר</span> if one has an enemy, does one wish him to be poor or rich?; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, עני ² 1",
+              "sourceHeRef": "מילון יסטרוב, עני ² א׳",
+              "sourceRef": "Jastrow, עני ² 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וסיפר קומי</strong> - שגילח השער שעל מצחו והניח השער של אחריו כעין בלורית שהעובדי כוכבים עושין כדי שלא יכירו בו שהוא יהודי:",
+              "ref": "Rashi on Meilah 17a:12:1",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:יב:א",
+              "sourceRef": "Rashi on Meilah 17a:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי שיש לו אויב</strong> - רצונו שיעשיר או רצונו שיעני:",
+              "ref": "Rashi on Meilah 17a:12:2",
+              "sourceHeRef": "רש\"י על מעילה י״ז א:יב:ב",
+              "sourceRef": "Rashi on Meilah 17a:12:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הלך ר' ראובן בן איסטרובלי, ו</b>על מנת שלא יכירו בו שהוא יהודי <b>סיפר</b> (הסתפר) תספורת המכונה <b>קומי,</b> הרווחת בין הגויים ואין בני ישראל מסתפרים כך, <b>והלך וישב עמהם</b> בשעה שדנו בשלש גזירות אלה. <b>אמר להם: מי שיש לו אויב,</b> מה הוא רוצה, האם שאויבו <b>יעני</b> (יהיה לעני) <b>או</b> ש<b>יעשיר</b> (יהיה לעשיר)? <b>אמרו לו:</b> ש<b>יעני. אמר להם: אם כן,</b> אף בעניינם של היהודים, מוטב ש<b>לא יעשו</b> היהודים <b>מלאכה בשבת, כדי שיענו</b> בכך! <b>אמרו: טבית</b> <span class=\"hebrew-emphasis\">[טוב,</span> יפה<span class=\"hebrew-emphasis\">]</span> <b>אמר</b> אדם זה, ולכן ראוי <b>ליבטל</b> <span class=\"hebrew-emphasis\">[שתבטל]</span> גזירה זו, עמדו <b>ובטלוה,</b> והתירו לבני ישראל שלא לעשות מלאכה בשבת.",
+              "ref": "Steinsaltz on Meilah 17a:12",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:יב",
+              "sourceRef": "Steinsaltz on Meilah 17a:12"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "From the Greek <greek>κόμη</greek>, <i>komē</i>, meaning hair, or tufts of hair. The exact form of this hairstyle is unclear, but apparently the hair was cut evenly all around the head without leaving any longer hair on the sides.",
+              "he": "כתבו אחרונים שנהג כן, אף שיש בדבר איסור תורה (\"ובחוקותיהם לא תלכו\", ויקרא יח, ג) שפירשו חכמים שבא הכתוב לאסור ללבוש ולגלח כמנהג הגוים — משום הצלת כלל ישראל. והביאו ראיה מהמסופר באבטולוס (אבטולמוס) בן ראובן שהתירו לו לספר קומי מפני שהיה קרוב למלכות (סוטה מט,ב. ב\"ק פג,א). וכעין זה אמרו עוד שארבע מאות בחורים היו לו לדוד בחילותיו, וכולם היו מסתפרים ומגדלים בלורית (קדושין עו,ב), שכן היו מהלכים בראשי הגייסות, והיה בדבר כדי להבעית את אויביהם (כס\"מ הלכות ע\"ז פי\"א ה\"ג, וגירסתו אף בסוגייתנו \"אבטולס בן ראובן\", והוא זה שהתירו לו חכמים לנהוג כן).<br><br>ועוד אמרו, שכיון שהתורה כללה ואמרה \"ובחקותיהם לא תלכו\", ולא פירשה באלו אופנים היא הליכה זו, נמסר הדבר לחכמים, והם ראו שאין לגזור בתספורת זו על הקרובים למלכות (כס\"מ שם). עוד כתבו אחרונים שכל שאסרה התורה הוא באופן שעושה כן על מנת להיות כמותם, והרי הוא כמודה לדתם. ואולם אם עושה כן רק על מנת שלא יהיה לו גנאי בכך שהוא שונה מהם — אין בדבר איסור תורה (ב\"ח יו\"ד סי' קעח).",
+              "ref": "Steinsaltz comment #1 on Meilah 17a:12",
+              "sourceHeRef": "קוֹמִי",
+              "sourceRef": "<i>Komei </i><i> </i>"
+            },
+            {
+              "en": "",
+              "he": "מקור המלה הוא ביוונית <eng>êï€ìç</eng> (קומי) — שיער, קווצות שיער. לא ברור בדיוק מה היה האופן בו היו \"מסתפרים קומי\", ונראה שהיתה זו תספורת שבה היו חותכים את השיער סביב הראש בשווה, בלא להשאיר פיאות בצידי הראש.",
+              "ref": "Steinsaltz comment #2 on Meilah 17a:12",
+              "sourceHeRef": "קומי",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וסיפר קומי</strong> - עשה כדי להתנכר שלא יכירו בו שהוא יהודי שיהודים אינם מספרים קומי:",
+              "ref": "Tosafot on Meilah 17a:12:1",
+              "sourceHeRef": "תוספות על מעילה י״ז א:יב:א",
+              "sourceRef": "Tosafot on Meilah 17a:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמרו טבית</strong> - כלומר נכון הדבר וטוב לעשות לבטל הגזרה:",
+              "ref": "Tosafot on Meilah 17a:12:2",
+              "sourceHeRef": "תוספות על מעילה י״ז א:יב:ב",
+              "sourceRef": "Tosafot on Meilah 17a:12:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rabbi <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> ben Isterobeli went and cut</b> his hair in <b>a <i>komei</i></b> hairstyle,which was common only among the gentiles, <b>and he went and sat with</b> the gentiles when they were discussing these three decrees. <b>He said to them: One who has an enemy,</b> does he want his enemy <b>to become poor or to become rich? They said to him:</b> He wants his enemy <b>to become poor.</b> Rabbi <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> ben Isterobeli <b>said to them: If so,</b> with regard to the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span> as well, isn’t it better that <b>they will not perform labor on Shabbat in order that they will become poor?</b> The gentiles <b>said:</b> That is <b>a good</b> claim that <b>he said; let us nullify</b> our decree. <b>And they</b> indeed <b>nullified it.</b>",
+      "he": "הָלַךְ רַבִּי רְאוּבֵן בֶּן אִיסְטְרוֹבָּלִי, וְסִיפֵּר קוֹמֵי, וְהָלַךְ וְיָשַׁב עִמָּהֶם. אָמַר לָהֶם: מִי שֶׁיֵּשׁ לוֹ אוֹיֵב, יַעֲנִי אוֹ יַעֲשִׁיר? אָמְרוּ לוֹ: יַעֲנִי. אָמַר לָהֶם: אִם כֵּן, לֹא יַעֲשׂוּ מְלָאכָה בַּשַּׁבָּת, כְּדֵי שֶׁיַּעֲנוּ! אָמְרוּ: טָבֵית אָמַר, לִיבְטַל, וּבִטְּלוּהָ.",
+      "ref": "Meilah 17a:12"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">ברי I</strong>, <strong dir=\"rtl\">בָּרָא</strong> (Biblical Hebrew; √<span dir=\"rtl\">בר</span> , see <span dir=\"rtl\">ברר</span>) <br><b>1)</b> <i>to hollow out, perforate</i>, see Hifil and <span class=\"refLink\" data-ref=\"Jastrow, בָּרָה 1\" dir=\"rtl\" href=\"/Jastrow,_בָּרָה.1\">בָּרָה</span>. <br><b><br>—2)</b> <i>to think out, plan</i> (compare <span class=\"refLink\" data-ref=\"Jastrow, בָּדָא 1\" dir=\"rtl\" href=\"/Jastrow,_בָּדָא.1\">בָּדָא</span>, <span class=\"refLink\" data-ref=\"Jastrow, חָקַק 1\" dir=\"rtl\" href=\"/Jastrow,_חָקַק.1\">חָקַק</span>); <i>to create</i>. <span class=\"refLink\" data-ref=\"Sanhedrin 38b:8\" href=\"/Sanhedrin.38b.8\">Sanhedrin 38ᵇ</span> when the Lord wanted <span dir=\"rtl\">לִבְרֹאות את וכ׳</span> to create man. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 8:11\" href=\"/Bereishit_Rabbah.8.11\">Breishit Rabbah section (Parashah) 8</span> <span dir=\"rtl\">שב׳ … ואח\"כ בְּרָאוֹ</span> for He first created all the means of his support and then created him (Adam); and see from—Part. act. <span class=\"refLink\" data-ref=\"Jastrow, בּוֹרֵא 1\" dir=\"rtl\" href=\"/Jastrow,_בּוֹרֵא.1\">בּוֹרֵא</span> see as well—Part. pass. <span class=\"refLink\" data-ref=\"Jastrow, בָּרוּר 1\" dir=\"rtl\" href=\"/Jastrow,_בָּרוּר.1\">בָּרוּא</span>, f. <span dir=\"rtl\">בְּרוּאָה</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 44\" href=\"/Bereishit_Rabbah.44\">Breishit Rabbah section (Parashah) 44</span> (reference. to <span class=\"refLink\" data-ref=\"Isaiah 4:5\" href=\"/Isaiah.4.5\">Isaiah IV, 5</span> <span dir=\"rtl\">וּבָרָא</span>) <span dir=\"rtl\">כבר היא ב׳ וכ׳</span> it (the futurity) is already created and prepared.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִבְרָא</strong> <i>to be created</i>. Ib. section (Parashah) 8 <span dir=\"rtl\">אל יִבָּרֵא</span> let him not be created. <span class=\"refLink\" data-ref=\"Sanhedrin 38a:4\" href=\"/Sanhedrin.38a.4\">Sanhedrin 38ᵃ</span>; and see from<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִבְרִיא</strong> <br><b>1)</b> (denominative of (denominative of <span class=\"refLink\" data-ref=\"Jastrow, בַּר 1\" dir=\"rtl\" href=\"/Jastrow,_בַּר.1\">בַּר</span>) <i>to come outside, bore, perforate</i>. <span class=\"refLink\" data-ref=\"Chullin 43b:3\" href=\"/Chullin.43b.3\">Chullin 43ᵇ</span> <span dir=\"rtl\">שמא ה׳</span> lest it (the thorn found in the throat) may have perforated (the gullet); see infra. <br><b><br>—2)</b> (denominative of <span class=\"refLink\" data-ref=\"Jastrow, בָּרִי 1\" dir=\"rtl\" href=\"/Jastrow,_בָּרִי.1\">בָּרִיא</span>) <i>to get well, recover; to be strong</i> or <i>stout</i> (fat). <span class=\"refLink\" data-ref=\"Meilah 17a:42\" href=\"/Meilah.17a.42\">Meïl. 17ᵃ</span> <span dir=\"rtl\">יכחיש או יַבְרִיא</span> does he wish him to be lean (feeble) or to be strong?—Yerushalmi Peah III, 17ᵈ bottom of page <span dir=\"rtl\">שמא יבריא</span> for he may get well again. <span class=\"refLink\" data-ref=\"Chullin 33a:8\" href=\"/Chullin.33a.8\">Chullin 33ᵃ</span> <span dir=\"rtl\">הרוצה שיַבְ׳</span> he who wants to be strong. <span class=\"refLink\" data-ref=\"Mishnah Shabbat 19:5\" href=\"/Mishnah_Shabbat.19.5\">Shabbat XIX, 5</span>; and from [<span class=\"refLink\" data-ref=\"Chullin 43b:3\" href=\"/Chullin.43b.3\">Chullin 43ᵇ</span> <span dir=\"rtl\">שמא ה׳</span> lest the wound created by perforation be healed, Rashi; see supra.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, ברי I 1",
+              "sourceHeRef": "מילון יסטרוב, ברי I א׳",
+              "sourceRef": "Jastrow, ברי I 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>חזר ואמר להם: מי שיש לו אויב,</b> מה הוא רוצה, ש<b>יכחיש</b> (ירזה, יחלש) אויבו <b>או יבריא</b> (ישמין, יתחזק)? <b>אמרו לו:</b> ש<b>יכחיש. אמר להם: אם כן,</b> מוטב ש<b>ימולו</b> היהודים את <b>בניהם לשמונה ימים ויכחישו</b> בכך את גופם. <b>אמרו: טבית</b> <span class=\"hebrew-emphasis\">[טוב,</span> יפה<span class=\"hebrew-emphasis\">]</span> <b>אמר, ובטלוה</b> <span class=\"hebrew-emphasis\">[ובטלו אותה]</span> גם את הגזירה הזו.",
+              "ref": "Steinsaltz on Meilah 17a:13",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:יג",
+              "sourceRef": "Steinsaltz on Meilah 17a:13"
+            }
+          ]
+        }
+      },
+      "en": "<b>Again</b> Rabbi <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> ben Isterobeli <b>spoke to them</b> and said: <b>One who has an enemy,</b> does he want his enemy <b>to become weak or to become healthy? They said to him:</b> He wants his enemy <b>to become weak.</b> Rabbi <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> ben Isterobeli <b>said to them: If so,</b> with regard to the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span> as well, isn’t it better that <b>they circumcise their sons after eight days and</b> thereby cause them to <b>become weak?</b> The gentiles <b>said:</b> That is <b>a good</b> claim that <b>he said, and they nullified</b> their decree.",
+      "he": "חָזַר וְאָמַר לָהֶם: מִי שֶׁיֵּשׁ לוֹ אוֹיֵב, יַכְחִישׁ אוֹ יַבְרִיא? אָמְרוּ לוֹ: יַכְחִישׁ. אָמַר לָהֶם: אִם כֵּן, יָמוּלוּ בְּנֵיהֶם לִשְׁמוֹנָה יָמִים וְיַכְחִישׁוּ. אָמְרוּ: טָבֵית אָמַר, וּבִטְּלוּהָ.",
+      "ref": "Meilah 17a:13"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>חזר ואמר להם: מי שיש לו אויב,</b> מה הוא רוצה, האם ש<b>ירבה</b> אויבו <b>או</b> ש<b>יתמעט? אמרו לו:</b> ש<b>יתמעט.</b> אמר להם: <b>אם כן,</b> מוטב ש<b>לא יבעלו</b> בני ישראל את נשותיהן בזמן שהן <b>נדות,</b> ויוולדו להם בכך פחות ילדים, ויתמעט מספרם. <b>אמרו: טבית</b> <span class=\"hebrew-emphasis\">[טוב,</span> יפה<span class=\"hebrew-emphasis\">]</span> <b>אמר, ו</b>אף גזירה זו <b>בטלוה.</b>",
+              "ref": "Steinsaltz on Meilah 17a:14",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:יד",
+              "sourceRef": "Steinsaltz on Meilah 17a:14"
+            }
+          ]
+        }
+      },
+      "en": "Once <b>again</b> Rabbi <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> ben Isterobeli <b>spoke to them</b> and said: <b>One who has an enemy,</b> does he want his enemy <b>to multiply or to decrease? They said to him:</b> He wants his enemy <b>to decrease.</b> Rabbi <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> ben Isterobeli <b>said to them: If so,</b> with regard to the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span> as well, isn’t it better that they <b>do not engage in intercourse with</b> their wives when they are <b>menstruating?</b> The gentiles <b>said:</b> That is <b>a good</b> claim that <b>he said, and they nullified</b> their decree.",
+      "he": "חָזַר וְאָמַר לָהֶם: מִי שֶׁיֵּשׁ לוֹ אוֹיֵב, יִרְבֶּה אוֹ יִתְמַעֵט? אָמְרוּ לוֹ: יִתְמַעֵט. אִם כֵּן, לֹא יִבְעֲלוּ נִדּוֹת. אָמְרוּ: טָבֵית אָמַר, וּבִטְּלוּהָ.",
+      "ref": "Meilah 17a:14"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "לאחר זמן <b>הכירו בו שהוא יהודי,</b> והבינו שטענותיו היו לטובת היהודים, עמדו ו<b>החזירום</b> את כל הגזירות האלה למקורן. באותה עת <b>אמרו</b> חכמים: <b>מי</b> מאתנו <b>ילך ויבטל</b> את <b>הגזרות</b> הללו?",
+              "ref": "Steinsaltz on Meilah 17a:15",
+              "sourceHeRef": "ביאור שטיינזלץ על מעילה י״ז א:טו",
+              "sourceRef": "Steinsaltz on Meilah 17a:15"
+            }
+          ]
+        }
+      },
+      "en": "A short time later <b>they recognized that</b> Rabbi <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> ben Isterobeli <b>was a Jew,</b> and they realized that he had fooled them to the advantage of the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span>. They therefore arose and <b>reinstated</b> all of their decrees. The Sages then <b>said: Who will go and nullify</b> these <b>decrees?</b>",
+      "he": "הִכִּירוּ בּוֹ שֶׁהוּא יְהוּדִי, הֶחֱזִירוּם. אָמְרוּ: מִי יֵלֵךְ וִיבַטֵּל הַגְּזֵרוֹת?",
+      "ref": "Meilah 17a:15"
+    }
+  ],
+  "title": "Meilah 17a",
+  "titleHebrew": "מעילה יז,א",
+  "topics": []
+}

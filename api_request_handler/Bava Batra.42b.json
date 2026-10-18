@@ -1,0 +1,833 @@
+{
+  "id": "42b",
+  "sections": [
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">שׁוּתָּף</strong> m. (= <span dir=\"rtl\">משותף</span>; <span class=\"refLink\" data-ref=\"Jastrow, שָׁתַף 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁתַף.1\">שָׁתַף</span>) <i>associate, partner</i>. <span class=\"refLink\" data-ref=\"Tosefta Sanhedrin 8:7\" href=\"/Tosefta_Sanhedrin.8.7\">Tosefta Sanhedrin VIII, 7</span> אדם … ש׳ היה עמו וכ׳ Adam was the last created, in order that the heretics might not say, he was God’s associate in his work; <span class=\"refLink\" data-ref=\"Sanhedrin 38a:13\" href=\"/Sanhedrin.38a.13\">Sanhedrin 38ᵃ</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Bava Batra 3:5:2\" href=\"Jerusalem_Talmud_Bava_Batra.3.5.2\">Yerushalmi Bava Batra III, 14ᵃ</span> bottom of page <span dir=\"rtl\">ש׳ … כנוטע ברשות</span> if a partner goes in and plants (a portion of the ground), he is considered as one who plants with the owner’s assent, i.e. he cannot claim the cultivated portion as his exclusive property on the ground of undisturbed possession; Bavli <span class=\"refLink\" data-ref=\"Bava Batra 42b:5\" href=\"/Bava_Batra.42b.5\">Bava Batra 42ᵇ</span>. <span class=\"refLink\" data-ref=\"Bava Batra 42b:5\" href=\"/Bava_Batra.42b.5\">Ib.</span> <span dir=\"rtl\">ש׳ אין לו חזקה</span> (not <span class=\"refLink\" data-ref=\"Jastrow, שׁוּתָּפוּת 1\" dir=\"rtl\" href=\"/Jastrow,_שׁוּתָּפוּת.1\">שותפות</span>) a partner cannot claim possession (see <span class=\"refLink\" data-ref=\"Jastrow, חֲזָקָה 1\" dir=\"rtl\" href=\"/Jastrow,_חֲזָקָה.1\">חֲזָקָה</span>). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sanhedrin 1:2:47\" href=\"Jerusalem_Talmud_Sanhedrin.1.2.47\">Yerushalmi Sanhedrin I, 19ᵇ</span> top <span dir=\"rtl\">ש׳ ליסטים כליסטים</span> a robber’s partner is considered a robber; and from—plural <span dir=\"rtl\">שׁוּתָּפִים</span>, <span dir=\"rtl\">שׁוּתָּפִין</span>. <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 3:3\" href=\"/Mishnah_Bava_Batra.3.3\">Bava Batra III, 3</span>. <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 1:1\" href=\"/Mishnah_Bava_Batra.1.1\">Ib. I, 1</span>; and from—<span class=\"refLink\" data-ref=\"Kiddushin 30b:21\" href=\"/Kiddushin.30b.21\">Kiddushin 30ᵇ</span> <span dir=\"rtl\">שלשה ש׳ הן באדם וכ׳</span> three partners have a share in man: the Lord, his father, and his mother; if a man honors his parents &c.; <span class=\"refLink\" data-ref=\"Niddah 31a:26\" href=\"/Niddah.31a.26\">Niddah 31ᵃ</span>; and e.—<i>Fem.</i> <span class=\"refLink\" data-ref=\"Jastrow, שׁוּתֶּפֶת 1\" dir=\"rtl\" href=\"/Jastrow,_שׁוּתֶּפֶת.1\">שׁוּתֶּפֶת</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 56\" href=\"/Bereishit_Rabbah.56\">Breishit Rabbah section (Parashah) 56</span> <span dir=\"rtl\">שהיתה ש׳ בשני וכ׳</span> she (Tadmor) took part in the two destructions of the Temple; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Taanit 4:5:23\" href=\"Jerusalem_Talmud_Taanit.4.5.23\">Yerushalmi Taanit IV, 69ᵇ</span> bottom of page; <span class=\"refLink\" data-ref=\"Eichah Rabbah 2\" href=\"/Eichah_Rabbah.2\">Eicha Rabbah to II, 2</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, שׁוּתָּף 1",
+              "sourceHeRef": "מילון יסטרוב, שׁוּתָּף א׳",
+              "sourceRef": "Jastrow, שׁוּתָּף 1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבוה דשמואל</strong> - וגם לוי חבירו:",
+              "ref": "Rashbam on Bava Batra 42b:1:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:א:א",
+              "sourceRef": "Rashbam on Bava Batra 42b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">תנו</strong> - במתני':",
+              "ref": "Rashbam on Bava Batra 42b:1:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:א:ב",
+              "sourceRef": "Rashbam on Bava Batra 42b:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שותף</strong> - השותפים והאפוטרופין כו' אבל אומן לא תנו דכ\"ש דאין לו חזקה דהא אין לו חלק כלל דנימא מיגו דהיה לו חלק בו קנה מחבירו את חלקו אלא ודאי לתקנן ניתן לו:",
+              "ref": "Rashbam on Bava Batra 42b:1:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:א:ג",
+              "sourceRef": "Rashbam on Bava Batra 42b:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל שותף יש לו חזקה</strong> - דאם איתא דלא מכר לו חלקו היה לו לעבוד את האדמה ולאכול הפירות בשותפות:",
+              "ref": "Rashbam on Bava Batra 42b:1:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:א:ד",
+              "sourceRef": "Rashbam on Bava Batra 42b:1:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחזיקין זה לזה</strong> - אם האחד מחזיק בחלקו ובחלק חבירו ג' שנים הויא חזקה:",
+              "ref": "Rashbam on Bava Batra 42b:1:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:א:ה",
+              "sourceRef": "Rashbam on Bava Batra 42b:1:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומעידין</strong> - זה על חלקו של זה להעמידה בידו אם בא אחד מן השוק לערער עליו ולא הוי נוגע בעדות כדמפרש לקמן:",
+              "ref": "Rashbam on Bava Batra 42b:1:6",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:א:ו",
+              "sourceRef": "Rashbam on Bava Batra 42b:1:6"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ונעשין כשומרי שכר זה לזה</strong> - שאם מבית אחד מהן נגנב דבר של שותפות חייב לשלם כשומר שכר וזהו שכרו שגם חבירו ישמור הכל כשיעור זמן שמשמר זה עכשיו:",
+              "ref": "Rashbam on Bava Batra 42b:1:7",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:א:ז",
+              "sourceRef": "Rashbam on Bava Batra 42b:1:7"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שלשה לקוחות מצטרפין אמר רב וכולן בשטר שמכר הלוקח הראשון לשני והשני לשלישי בשטר דאית ליה קלא הלכך מצטרפת אכילת שלשתן להיות חזקה ת\"ר אכלה האב שנה והבן שתי שנים האב שתים והבן שנה האב שנה והבן שנה ולוקח שנה הרי זו חזקה למימרא דלוקח אית ליה קלא ורמינהי אכלה בפני האב שתים ובפני הבן שנה בפני הבן שתים ובפני האב שנה בפני האב שנה ובפני הבן שנה ובפני לוקח שנה הרי זו חזקה ואמאי כיון דזבנה אין לך מחאה גדולה מזו ואוקמה רב פפא במוכר כל שדותיו סתם דלית ליה להאי לוקח קלא דלא מנכרא זבינא דהאי ארעא דאזדבנא בכלל ארעא אבל איזבנה מרא קמא באפי נפשה כיון דאית ליה קלא אין לך מחאה גדולה מזו: אמר רב המוכר שדה בעדים גובה מנכסים משועבדים כתב ה\"ר יונה ז\"ל דמיירי דמסהדי סהדי שלא חתמו על שום שטר וגם לא היו שם עדים אחרים כי אם הם דאי לאו הכי דלמא טריף בעדים והדר טריף בשטר ומכבש הוא דכביש ליה השתא ואפילו לא פירש לו בפני עדים את האחריות דלא עביד איניש דזבין ארעא ליומיה ואדעתא דמקבל עליה אחריות הוא דזבין מיניה דלא שדי אינש זוזי בכדי ואפילו למ\"ד אחריות לאו טעות סופר הוא ה\"מ כשנזקק לשטר ולא פירש בו אחריות אימור כך היה התנאי ביניהם:",
+              "ref": "Rosh on Bava Batra 3:38:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:לח:א",
+              "sourceRef": "Rosh on Bava Batra 3:38:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א גמרא</big> <b>אבוה</b> <span class=\"hebrew-emphasis\">[אביו]</span> של <b>שמואל ו</b>כן <b>לוי תנו</b> <span class=\"hebrew-emphasis\">[שנו]:</span> <b>שותף אין לו חזקה, וכל שכן אומן.</b> ואילו <b>שמואל תני</b> <span class=\"hebrew-emphasis\">[שנה]:</span> <b>אומן אין לו חזקה, אבל שותף יש לו חזקה. ואזדא</b> <span class=\"hebrew-emphasis\">[והולך]</span> <b>שמואל לטעמיה</b> <span class=\"hebrew-emphasis\">[לטעמו,</span> לשיטתו<span class=\"hebrew-emphasis\">],</span> ש<b>אמר שמואל: השותפין מחזיקין,</b> יש להם חזקה <b>זה על זה, ומעידין זה על זה, ונעשים שומרי שכר זה לזה,</b> שלעניינים אלה הם נחשבים כשני אנשים זרים.",
+              "ref": "Steinsaltz on Bava Batra 42b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ב ב:א",
+              "sourceRef": "Steinsaltz on Bava Batra 42b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It appears that Shmuel’s father and Levi, on the one hand, and Shmuel, on the other, differ as to the accurate text of the mishna. According to Shmuel’s father and Levi, craftsmen are not mentioned in the mishna, but partners are, while according to Shmuel, partners are not mentioned, but craftsmen are (Rashbam). The Jerusalem Talmud cites Shmuel’s statement as: There is no mention here of a partner (see also <i>Kos Yeshuot</i>).",
+              "he": "בפשטות נראה כי אביו של שמואל ולוי מצד אחד, ושמואל מצד שני, חלקו לגבי גרסת המשנה. שלפי שיטת לוי לא נזכרו בה האומנים אלא נאמר בה: השותפים והאריסים. ואילו שמואל שנה: האומנים והאריסים, ולא שנה \"והשותפים\". וכן פירש רשב\"ם. וכן הביאו בתלמוד הירושלמי שאמר שמואל: לית כאן שותף (וראה בספר כוס ישועות שמפרש בדרך אחרת).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 42b:1",
+              "sourceHeRef": "אֲבוּהּ דִּשְׁמוּאֵל וְלֵוִי תָּנוּ וכו׳",
+              "sourceRef": "Shmuel’s father and Levi taught, etc."
+            },
+            {
+              "en": "The partner owned part of the property from the start, whereas the craftsman did not. Therefore, it is more obvious that the craftsman does not have the ability to establish the presumption of ownership (Rashbam).",
+              "he": "ו\"כל שכן\" הוא, שכן לשותף יש מכל מקום בעלות מתחילה לגבי חצי הנכס, אבל האומן מתחילה אין לו כל בעלות בנכס, שמתחילה לא ניתן לו לשם קנין, ולכן ודאי שאין לו חזקה בו (רשב\"ם).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 42b:1",
+              "sourceHeRef": "וְכָל שֶׁכֵּן אוּמָּן",
+              "sourceRef": "And all the more so a craftsman"
+            },
+            {
+              "en": "If one of the partners possesses the other’s portion, claiming that he purchased it from him, he establishes the presumption of ownership like anyone else (Rashbam).",
+              "he": "שאם אחד מהם מחזיק בחלקו של חבירו שלוש שנים וטוען שקנה מחבירו את חלקו — הרי זו חזקה, כמו בשאר אנשים (רשב\"ם).",
+              "ref": "Steinsaltz comment #3 on Bava Batra 42b:1",
+              "sourceHeRef": "מַחֲזִיקִין זֶה עַל זֶה",
+              "sourceRef": "Establish the presumption of ownership with regard to each other"
+            },
+            {
+              "en": "If an outsider challenges a partner’s ownership of property, the other partner can testify together with another witness as to the first partner’s ownership, and his testimony is not considered to be biased (Rashbam and other commentaries).",
+              "he": "כלומר, אם בא אדם ומערער על ראובן, וטוען שחלקו של ראובן גזול בידו — יכול שמעון (שותפו של ראובן) להעיד בדבר זה, ויכול להצטרף עם עד אחר לקבוע שראובן אכן קנה את השדה כדין, ואינו נחשב נוגע בעדות (רשב\"ם ועוד). ולהלן תדון הגמרא בפרטי הדברים.",
+              "ref": "Steinsaltz comment #4 on Bava Batra 42b:1",
+              "sourceHeRef": "וּמְעִידִין זֶה עַל זֶה",
+              "sourceRef": "And testify for each other"
+            },
+            {
+              "en": "If one of the partners was guarding a jointly owned item and it was stolen, he is liable to reimburse the other partner for his portion. Since they share the responsibility of guarding the item, it is viewed as if they are each employed by the other for this task; therefore, they are not viewed merely as doing a favor for each other, in which case they would be considered unpaid bailees and would be exempt from liability for theft and loss (Rashbam).",
+              "he": "שאם היה חפץ של שותפות מצוי בביתו ובשמירתו של אחד מהם, ונגנב, חייב השומר לשלם לשותף את חלקו. כי מאחר שהם מתחלקים בחובת השמירה, הרי זה כאילו היו משלמים זה לזה עבור השמירה, ושומרי שכר הם. ואין אומרים שהם רק עושים טובה זה לזה ואינם אלא שומרים חינם שפטורים מגניבה ואבידה (רשב\"ם).",
+              "ref": "Steinsaltz comment #5 on Bava Batra 42b:1",
+              "sourceHeRef": "וְנַעֲשִׂים שׁוֹמְרֵי שָׂכָר",
+              "sourceRef": "And become paid bailees"
+            },
+            {
+              "en": "This does not refer to presumptive status established through three years of use, but to the presumption of ownership of movable property, which is generally established immediately for all movable property in one’s possession, provided the possessor has a legitimate claim to ownership. If there are witnesses that the item is in one’s possession as a loan, rental, or deposit, then possession of the item does not establish the presumption of ownership.",
+              "he": "",
+              "ref": "Steinsaltz comment #6 on Bava Batra 42b:1",
+              "sourceHeRef": "אוּמָּן אֵין לוֹ חֲזָקָה",
+              "sourceRef": "A craftsman does not have the ability to establish the presumption of ownership"
+            },
+            {
+              "en": "A craftsman cannot establish the presumption of ownership of the type of item for which he is a craftsman, regardless of whether it is an item that is commonly lent or rented. This is the <i>halakha</i> even if the item was in his possession for many years. For instance, one saw an item of his in the possession of a craftsman and claimed that he had given it to him to fix. There are witnesses to the fact that the item was in the craftsman’s possession (<i>Sma</i>), and the craftsman claims that he had purchased it from the owner from the outset, or that it was initially given to him to repair but he then purchased it from the owner. In this case, the owner takes an oath of inducement and the craftsman must return the item. This applies even if there are no witnesses attesting that the owner gave the item to the craftsman. If there were no witnesses to the fact that the item was in the craftsman’s possession, and the craftsman claimed that he returned the item after having fixed it and then purchased it or received it as a gift from the one who claims to be the owner, the craftsman takes an oath of inducement and keeps the item. He is exempt from returning it because he could have denied ever possessing the item. This is the <i>halakha</i> even if the item was given to the craftsman in the presence of witnesses, since he still could have claimed that he returned the item and it is not currently in his possession. This is in accordance with the opinion of Abaye, not that of Rabba, as per the conclusion later in the Gemara (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot To’en VeNitan</i> 9:1–2; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 134:1–2).",
+              "he": "",
+              "ref": "Steinsaltz comment #7 on Bava Batra 42b:1",
+              "sourceHeRef": "אוּמָּן אֵין לוֹ חֲזָקָה",
+              "sourceRef": "A craftsman does not have the ability to establish the presumption of ownership"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>אבל שותף יש לו חזקה—However a partner has a presumptive</b> status<br><br>O<small>VERVIEW</small><br>The גמרא cited a dispute between אבוה דשמואל ולוי, who maintain that a partner has no חזקה, and שמואל who maintains שותף יש לו חזקה. According to שמואל the text in the משנה reads, אומן אין לו חזקה [indicating that שותף יש לו חזקה]. The גמרא will shortly state that in certain instances even שמואל agrees that שותף אין לו חזקה. Our תוספות discusses why indeed the משנה did not state שותף אין לו חזקה.<br>----------------------------------<br><b>יש ענין לשותף דאין לו חזקה כדמפרש לקמן –<br>There is merit to</b> say even according to שמואל that <b>שותף אין לו חזקה</b> in certain cases <b>as the</b> גמרא <b>explains shortly.</b><br>תוספות (therefore) asks:<br><b>ואם תאמר אם כן ליתני במתניתין שותף אין לו חזקה –<br>And if you will say; if indeed</b> this is the case that in certain instances שמואל agrees that שותף אין לו חזקה, <b>let the משנה states שותף אין לו חזקה –<br>אף על פי שיש שותף שיש לו חזקה –</b><br>And <b>even though there is a שותף שיש לו חזקה,</b> nevertheless since there are cases where שותף אין לו חזקה, the משנה can state שותף אין לו חזקה –<br><b>כי היכי דתני אריס אף על פי ששאר אריס שאינו אריסי בתי אבות יש להן חזקה –<br>Just like the משנה states, a sharecropper</b> has no חזקה, <b>even though that other אריסים that are not אריסי בתי אבות do have a חזקה –</b><br>תוספות responds:<br><b>ויש לחלק:</b><br><b>And it is possible to differentiate</b> between אריסים and שותפין. However תוספות does not explain the difference.<br><br>S<small>UMMARY</small><br>We can distinguish between אריסים (where the משנה states אין להם חזקה and שותפין (where it does not mention it [according to שמואל]).<br><br>T<small>HINKING IT OVER</small><br>תוספות writes 'ויש לחלק', without being specific as to how we differentiate. Is it because the difference is obvious (as the מהר\"ם explains it [in footnote # 3], or because of the exact opposite that the answer is not sufficiently satisfying?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 42b:1:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל שותף יש לו חזקה</strong> - יש ענין לשותף דאין לו חזקה כדמפרש לקמן וא\"ת א\"כ ליתני במתני' שותף אין לו חזקה אע\"פ שיש שותף שיש לו חזקה כי היכי דתני אריס אע\"פ ששאר אריס שאינו אריסי בתי אבות יש להן חזקה ויש לחלק:",
+              "ref": "Tosafot on Bava Batra 42b:1:1",
+              "sourceHeRef": "תוספות על בבא בתרא מ״ב ב:א:א",
+              "sourceRef": "Tosafot on Bava Batra 42b:1:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b><span href=\"/topics/avuha-di-shmuel\" class=\"namedEntityLink\" data-slug=\"avuha-di-shmuel\">Shmuel’s father</span> and <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span> taught: A partner does not have</b> the ability to establish the <b>presumption</b> of ownership of property in his possession, <b>and, all the more so,</b> this inability applies to <b>a craftsman</b> as well. But <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> teaches: A craftsman does not have</b> the ability to establish the <b>presumption</b> of ownership of property in his possession, <b>but a partner</b> does <b>have</b> the ability to establish the <b>presumption</b> of ownership. The Gemara comments: <b>And <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> follows his</b> line of <b>reasoning, as <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> says: Partners establish</b> the <b>presumption</b> of ownership with regard to the property of <b>each other, and</b> they <b>testify for each other and become paid bailees</b> of their joint property with regard <b>to each other.</b> In terms of these issues, <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> considers partners to be independent parties.",
+      "he": "<big><strong>גְּמָ׳</strong></big> <span href=\"/topics/avuha-di-shmuel\" class=\"namedEntityLink\" data-slug=\"avuha-di-shmuel\">אֲבוּהּ דִּשְׁמוּאֵל</span> <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">וְלֵוִי</span> תָּנוּ: שׁוּתָּף אֵין לוֹ חֲזָקָה, וְכׇל שֶׁכֵּן אוּמָּן. שְׁמוּאֵל תָּנֵי: אוּמָּן אֵין לוֹ חֲזָקָה, אֲבָל שׁוּתָּף יֵשׁ לוֹ חֲזָקָה. וְאַזְדָּא שְׁמוּאֵל לְטַעְמֵיהּ – דְּאָמַר שְׁמוּאֵל: הַשּׁוּתָּפִין מַחְזִיקִין זֶה עַל זֶה, וּמְעִידִין זֶה עַל זֶה, וְנַעֲשִׂים שׁוֹמְרֵי שָׂכָר זֶה לָזֶה.",
+      "ref": "Bava Batra 42b:1",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמרא הא דנחית לכולא.</b> עיין לקמן דף נז ע\"ב תד\"ה בשותפין:",
+              "ref": "Gilyon HaShas on Bava Batra 42b:1",
+              "sourceHeRef": "גליון הש\"ס על בבא בתרא מ״ב ב:א",
+              "sourceRef": "Gilyon HaShas on Bava Batra 42b:1"
+            }
+          ]
+        },
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">שׁוּתָּף</strong> m. (= <span dir=\"rtl\">משותף</span>; <span class=\"refLink\" data-ref=\"Jastrow, שָׁתַף 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁתַף.1\">שָׁתַף</span>) <i>associate, partner</i>. <span class=\"refLink\" data-ref=\"Tosefta Sanhedrin 8:7\" href=\"/Tosefta_Sanhedrin.8.7\">Tosefta Sanhedrin VIII, 7</span> אדם … ש׳ היה עמו וכ׳ Adam was the last created, in order that the heretics might not say, he was God’s associate in his work; <span class=\"refLink\" data-ref=\"Sanhedrin 38a:13\" href=\"/Sanhedrin.38a.13\">Sanhedrin 38ᵃ</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Bava Batra 3:5:2\" href=\"Jerusalem_Talmud_Bava_Batra.3.5.2\">Yerushalmi Bava Batra III, 14ᵃ</span> bottom of page <span dir=\"rtl\">ש׳ … כנוטע ברשות</span> if a partner goes in and plants (a portion of the ground), he is considered as one who plants with the owner’s assent, i.e. he cannot claim the cultivated portion as his exclusive property on the ground of undisturbed possession; Bavli <span class=\"refLink\" data-ref=\"Bava Batra 42b:5\" href=\"/Bava_Batra.42b.5\">Bava Batra 42ᵇ</span>. <span class=\"refLink\" data-ref=\"Bava Batra 42b:5\" href=\"/Bava_Batra.42b.5\">Ib.</span> <span dir=\"rtl\">ש׳ אין לו חזקה</span> (not <span class=\"refLink\" data-ref=\"Jastrow, שׁוּתָּפוּת 1\" dir=\"rtl\" href=\"/Jastrow,_שׁוּתָּפוּת.1\">שותפות</span>) a partner cannot claim possession (see <span class=\"refLink\" data-ref=\"Jastrow, חֲזָקָה 1\" dir=\"rtl\" href=\"/Jastrow,_חֲזָקָה.1\">חֲזָקָה</span>). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sanhedrin 1:2:47\" href=\"Jerusalem_Talmud_Sanhedrin.1.2.47\">Yerushalmi Sanhedrin I, 19ᵇ</span> top <span dir=\"rtl\">ש׳ ליסטים כליסטים</span> a robber’s partner is considered a robber; and from—plural <span dir=\"rtl\">שׁוּתָּפִים</span>, <span dir=\"rtl\">שׁוּתָּפִין</span>. <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 3:3\" href=\"/Mishnah_Bava_Batra.3.3\">Bava Batra III, 3</span>. <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 1:1\" href=\"/Mishnah_Bava_Batra.1.1\">Ib. I, 1</span>; and from—<span class=\"refLink\" data-ref=\"Kiddushin 30b:21\" href=\"/Kiddushin.30b.21\">Kiddushin 30ᵇ</span> <span dir=\"rtl\">שלשה ש׳ הן באדם וכ׳</span> three partners have a share in man: the Lord, his father, and his mother; if a man honors his parents &c.; <span class=\"refLink\" data-ref=\"Niddah 31a:26\" href=\"/Niddah.31a.26\">Niddah 31ᵃ</span>; and e.—<i>Fem.</i> <span class=\"refLink\" data-ref=\"Jastrow, שׁוּתֶּפֶת 1\" dir=\"rtl\" href=\"/Jastrow,_שׁוּתֶּפֶת.1\">שׁוּתֶּפֶת</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 56\" href=\"/Bereishit_Rabbah.56\">Breishit Rabbah section (Parashah) 56</span> <span dir=\"rtl\">שהיתה ש׳ בשני וכ׳</span> she (Tadmor) took part in the two destructions of the Temple; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Taanit 4:5:23\" href=\"Jerusalem_Talmud_Taanit.4.5.23\">Yerushalmi Taanit IV, 69ᵇ</span> bottom of page; <span class=\"refLink\" data-ref=\"Eichah Rabbah 2\" href=\"/Eichah_Rabbah.2\">Eicha Rabbah to II, 2</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, שׁוּתָּף 1",
+              "sourceHeRef": "מילון יסטרוב, שׁוּתָּף א׳",
+              "sourceRef": "Jastrow, שׁוּתָּף 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "What is meant by the exclusion of partners? When a person is a partner in a field that is not required to be divided , even though he alone benefits from the entire field for several years, the field is still presumed to be owned by both of the partners.<br>If, however, it is large enough to be divided and only one of the partners benefited from it in its entirety for the years necessary to establish a claim of ownership, he establishes such a claim. For he may tell his partner: \"If it is true that you did not sell or give me your share of the field, why did I alone benefit from the entire field? Why did you remain silent and not protest for all these three years?\"<br>Similarly, when a man who had stipulated that he waives the right to benefit from his wife's property nevertheless derives benefit from his wife's property for the number of years necessary to establish a claim of ownership, the fact that he derived benefit is of no consequence. This applies even when - while she was consecrated but not yet married - he stipulated that he would not inherit her property, and afterwards derived benefit from it, built or destroyed structures on it, doing whatever he desired.<br>Similarly, when a woman derived benefit from her husband's property and made use of it as she desired for several years, the fact that she derived benefit is of no consequence. This applies even if her husband designated another field for her to derive her livelihood from, and she benefited from other fields.<br>Similarly, when a son receives his livelihood at his father's home and is considered one of the members of his household, if he benefits from his father's property for the number of years necessary to establish a claim of ownership, it is of no consequence. The same law applies when the father derives benefit from the property of this son, who derives his livelihood from him for the number of years necessary to establish a claim of ownership.",
+              "he": "הַשֻּׁתָּפִין כֵּיצַד. אִם הָיָה שֻׁתָּף בְּשָׂדֶה זוֹ וְאֵין בָּהּ דִּין חֲלוּקָה אַף עַל פִּי שֶׁאָכַל אֶת כֻּלָּהּ הָאֶחָד מֵהֶן כַּמָּה שָׁנִים הֲרֵי הִיא בְּחֶזְקַת שְׁנֵיהֶם. וְאִם יֵשׁ בָּהּ דִּין חֲלוּקָה וַאֲכָלָהּ הָאֶחָד כֻּלָּהּ שְׁנֵי חֲזָקָה יֵשׁ לוֹ חֲזָקָה שֶׁהֲרֵי אוֹמֵר לְשֻׁתָּפוֹ אִם בֶּאֱמֶת שֶׁלֹּא מָכַרְתָּ וְלֹא נָתַתָּ הֵיאַךְ אָכַלְתִּי אֶת כֻּלָּהּ וְאַתָּה שׁוֹתֵק וְלֹא מָחִיתָ כָּל שָׁלֹשׁ שָׁנִים. וְכֵן הָאִישׁ שֶׁאָכַל בְּנִכְסֵי אִשְׁתּוֹ שְׁנֵי חֲזָקָה אַף עַל פִּי שֶׁהִתְנָה עִמָּהּ שֶׁאֵין לוֹ פֵּרוֹת בִּנְכָסֶיהָ. וַאֲפִלּוּ הִתְנָה עִמָּהּ כְּשֶׁהִיא אֲרוּסָה שֶׁלֹּא יִירָשֶׁנָּה וְאַחַר כָּךְ אָכַל וּבָנָה וְהָרַס וְעָשָׂה כָּל מַה שֶּׁעָשָׂה. וְכֵן הָאִשָּׁה שֶׁאָכְלָה פֵּרוֹת בְּנִכְסֵי בַּעְלָהּ וְנִשְׁתַּמְּשָׁה בָּהֶן כְּחֶפְצָהּ כַּמָּה שָׁנִים. אַף עַל פִּי שֶׁיִּחֵד לָהּ שָׂדֶה בִּמְזוֹנוֹתֶיהָ וְאָכְלָה שָׂדוֹת אֲחֵרוֹת אֵין אֲכִילָתָן רְאָיָה. וְכֵן הַבֵּן שֶׁהוּא סוֹמֵךְ עַל שֻׁלְחָנוֹ שֶׁל אָבִיו וְנֶחְשָׁב בִּכְלַל בְּנֵי בֵּיתוֹ אִם אָכַל נִכְסֵי אָבִיו שְׁנֵי חֲזָקָה. וְכֵן הָאָב שֶׁאָכַל נִכְסֵי בֵּן זֶה שֶׁהוּא סוֹמֵךְ עָלָיו שְׁנֵי חֲזָקָה. אֵין אֲכִילָתָן רְאָיָה:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 13:8",
+              "sourceHeRef": "הלכות טוען ונטען יג:ח",
+              "sourceRef": "Plaintiff and Defendant 13:8"
+            },
+            {
+              "en": "When property is known to belong to the partnership, it is assumed that both partners have a share in its ownership throughout the entire duration of the partnership. This applies even though the property was located in the domain of only one of the partners. The partner in whose domain it is located may not claim that he purchased it from the other partner, or that he gave it to him as a present. In such an instance, we do not follow the principle: When a person desires to expropriate property from a colleague the burden of proof is on him. Instead, the property is assumed to belong to both partners unless one of them brings proof otherwise.",
+              "he": "דָּבָר הַיָּדוּעַ לִשְׁנֵי שֻׁתָּפִין אַף עַל פִּי שֶׁהוּא בִּרְשׁוּת אֶחָד מֵהֶן אֵינוֹ יוֹצֵא מֵחֶזְקָתוֹ שֶׁל שֵׁנִי כָּל יְמֵי הַשֻּׁתָּפוּת וְאֵינוֹ יָכוֹל לִטְעֹן שֶׁלְּקָחוֹ מִמֶּנּוּ אוֹ שֶׁנְּתָנוֹ לוֹ בְּמַתָּנָה וְנֹאמַר לָאַחֵר שֶׁהַמּוֹצִיא מֵחֲבֵרוֹ עָלָיו הָרְאָיָה אֶלָּא הֲרֵי הוּא בְּחֶזְקַת שְׁנֵיהֶם עַד שֶׁיָּבִיא הָאַחֵר רְאָיָה:",
+              "ref": "Mishneh Torah, Agents and Partners 5:8",
+              "sourceHeRef": "הלכות שלוחין ושותפין ה:ח",
+              "sourceRef": "Agents and Partners 5:8"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא אמר שמואל שותף</strong> - שמחזיק בכל השדה גם בחלקו של חבירו:",
+              "ref": "Rashbam on Bava Batra 42b:2:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ב:א",
+              "sourceRef": "Rashbam on Bava Batra 42b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיורד ברשות דמי</strong> - כלומר כאילו נתן לו חבירו רשות וצוהו להיות במקומו כדין אריס דמי:",
+              "ref": "Rashbam on Bava Batra 42b:2:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ב:ב",
+              "sourceRef": "Rashbam on Bava Batra 42b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לאו למימרא דשותף אין לו חזקה</strong> - דהוי כאריס שיורד ברשות ולכך לא הויא חזקתו חזקה ולקמן מפרש דאכתי לשאר דברים קאמר שמואל כיורד ברשות דמי מדלא קאמר בהדיא שותף אין לו חזקה:",
+              "ref": "Rashbam on Bava Batra 42b:2:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ב:ג",
+              "sourceRef": "Rashbam on Bava Batra 42b:2:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דנחית לכולה</strong> - שדה שקנו שניהם:",
+              "ref": "Rashbam on Bava Batra 42b:2:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ב:ד",
+              "sourceRef": "Rashbam on Bava Batra 42b:2:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דנחית לפלגא</strong> - בחלק המובחר החזיק ואמר חלקנו והגיע זה לחלקי והחזקתי בו שלש שנים ואידך טעין עדיין לא חלקנו אלא כך התנינו בינינו שתאכל אותו חלק ג' שנים ואני אחריך כמו כן ג' שנים:",
+              "ref": "Rashbam on Bava Batra 42b:2:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ב:ה",
+              "sourceRef": "Rashbam on Bava Batra 42b:2:5"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הניח בנים גדולים וקטנים והשביחו גדולים את הנכסים השביחו לאמצע ואם אמרו גדולים ראו מה שהניח לנו אבא הרי אנו עושין ואוכלין השביחו לעצמן. וכן האשה שהשביחה את הנכסים השביחה לאמצע ואם אמרה ראו מה שהניח לי בעלי הריני עושה ואוכלת השביחה לעצמה פירש הריב\"ם דלאורחא דמילתא נקט גדולים וקטנים דה\"ה נמי גדולים וגדולים דאחוה דרב ספרא גדולים הוו ולא היא דדלמא קטנים הוו מיהו נ\"ל דמילתא דפשיטא היא ואף ראיה אין צריך דברישא כיון דלקטנים מאיל כ\"ש לגדולים דמימר אמר איטרחנא השתא וגם הם יטריחו היום או מחר ועוד אין דרך שירד אדם לנכסי גדול שיש בו דעת לחלוק וחולק בלא ידיעתו אי לאו דמחיל ליה אבל בקטן אפשר דיורד אדעתא להשביח לעצמו והאי דלא אודעיה דמימר אמר אף אם אודיענו אין בו דעת לחלוק ואפ\"ה אמר דמחל כ\"ש לגדולים ובסיפא כיון דלגבי קטנים אמר כיון דאודעיה הוי מחילה כ\"ש לגדולים דבני מחילה נינהו וגם היה בהן דעת לחלוק ולא חלקו: השביחו לאמצע ואף שכר עמלן לא יטלו ולא דמו לשאר שותף דאמר לעיל <span class=\"parenthesized\">(בבא בתרא דף מב:)</span> שותף כיורד ברשות דמי ונוטל כדין אריס משום דשותפין לא מחלי אהדדי אבל אחין מחלי אהדדי ובסיפא כי אמר ראו מה שהניח השביחו לעצמן ויטלו כל השבח ואע\"ג דבשאר שותף אין לו בשבח אלא כאריס ואפילו אמר ראו הריני עושה לעצמי דשאני שותפין דלהשתכר נשתתפו ומקפידין זה על זה שחבירו ישתכר ולא הוא הלכך לא מחלי כלל אהדדי אבל אחין שירשו מאביהן ולא נשתתפו יחד אדעתא להשתכר מה יפסידו הקטנים אם ישביחו הגדולים לעצמן ה\"ל זה נהנה וזה אינו חסר וכן הגדולים נמי כיון שהם אינם רוצים להשביח וכי היכי דברישא הוי השבח לאמצע ולא יטלו אף שכר טורחם דמסתמא מחלו כיון דלא אמרו ראו הרי אנו עושים ואוכלין כ\"ש בסיפא כיון שאמרו ראו ולא חששו להשביח עמהם שמחלו להן כל השבח בפירוש ר\"ח גרסי' אם אמר בבית דין ראו וכן איתא נמי בירושלמי דכיון שאמר בב\"ד ולא חששו הב\"ד לחלוק והניחו להם להשביח כל הנכסים ראו ב\"ד שיש תועלת ליתומים בדבר אבל אמרו בפני עדים לא יטלו אפילו כאריס דהוה כשדה שאינה עשויה ליטע דידו על התחתונה דאם היה אומר לפני ב\"ד גם הם היו מעמידין פועלים להשביח ובגדולים אין חילוק בין בית דין לעדים. ראו מה שהניח לנו אבינו פרשב\"ם ומזומנים אנו לחלוק ומה שנשביח נשביח מחלקנו ומתוך לשונו משמע שלא השביחו כל הנכסים אלא לפי המגיע לחלקם ובגמרא לא משמע הכי דאמר רב ספרא שבק אבוהי זוזי שקלינהו משמע שנטל כולן ועוד דאי לא נטל אלא חלקו אפילו איניש אחרינא נמי דזוזי כמאן דפליגי דמי ב\"מ דף סט. וגם מתוך הסברא נראה דאין לחלק בין כל הנכסים למקצתן דמאן פלג ליה:",
+              "ref": "Rosh on Bava Batra 9:9:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ט:ט:א",
+              "sourceRef": "Rosh on Bava Batra 9:9:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "The following rules apply when a person maintains possession of property belonging to a minor for many years and claims: \"I am maintaining possession of it as security, and I am owed this-and-this on its account.\" Since if he had desired, he could have said: \"I purchased it,\" his word is accepted, for it has not been established that the property belonged to this person's father. Hence, the person in possession may collect what he claims from the property' s increase in value. The property itself is then returned to the orphans.<br>If, however, the property is reputed to belong to the orphans, the claim of the person in possession is not accepted. The rationale is that a claim of ownership cannot be established over property belonging to a minor. Instead, the field and all the produce that the person used must be returned to the orphans. When they come of age, the plaintiff will lodge a claim against them. 6",
+                      "he": "מִי שֶׁהֶחְזִיק בְּנִכְסֵי קָטָן שָׁנִים רַבּוֹת וְטָעַן וְאָמַר מַשְׁכּוֹנָה הֵן בְּיָדִי וְיֵשׁ לִי חוֹבָה עֲלֵיהֶן כָּךְ וְכָךְ. הוֹאִיל וְאִלּוּ רָצָה אָמַר לְקוּחִים הֵן בְּיָדִי נֶאֱמָן שֶׁהֲרֵי אֵינָהּ מֻחְזֶקֶת שֶׁהָיָה לְאָבִיו שֶׁל זֶה וַהֲרֵי זֶה גּוֹבֶה מִשִּׁבְחָהּ מַה שֶּׁטָּעַן וְתַחְזֹר לַיְתוֹמִים. אֲבָל אִם יָצָא עָלֶיהָ קוֹל שֶׁהִיא שֶׁל יְתוֹמִים אֵינוֹ נֶאֱמָן שֶׁהֲרֵי אֵין מַחֲזִיקִין בְּנִכְסֵי קָטָן וְתַחְזֹר הַשָּׂדֶה וְכָל הַפֵּרוֹת שֶׁאָכַל לַיְתוֹמִים עַד שֶׁיִּגְדְּלוּ וְיַעֲשֶׂה עִמָּהֶן דִּין:",
+                      "ref": "Mishneh Torah, Plaintiff and Defendant 14:8",
+                      "sourceHeRef": "הלכות טוען ונטען יד:ח",
+                      "sourceRef": "Plaintiff and Defendant 14:8"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "מי שירד לתוך שדה אחת בתורת משכונא אין לו בה חזקה אם ידוע שבתורת משכונא ירד לתוכה ואם אין שם אלא קול בעלמא נתבאר בסי' קמ\"ט (סעיף כ') ומ\"מ עצה טובה לממשכן למחות בסוף כל שלש ושלש שמא יכבוש זה שטר המשכונא אחר שישכח הדבר ויטעון לקוח הוא בידי כההוא דמשכן פרדסא לחבריה לעשר שנין ולבתר דאכלה ג' שנין אמר ליה אי מזבנת לי מוטב ואם לא אכבוש שטר משכונא ואטעון לקוח הוא בידי:",
+                      "ref": "Shulchan Arukh, Choshen Mishpat 150:1",
+                      "sourceHeRef": "חושן משפט קנ:א - מי שירד לתוך שדה בתורת משכון וחזר ועשה שטר מכירה",
+                      "sourceRef": "Choshen Mishpat 150:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "שדה של שני שותפים שאין בה דין חלוקה אע\"פ שאכל אחד מהם כולה כמה שנים הרי היא בחזקת שניהם ואם יש בה דין חלוקה ואכלה האחד כולה שני חזקה יש לו חזקה: <span class=\"hebrew-emphasis\">הגה אבל אם החזיק בחציה ואומר זה הגיע לחלקי לא הוי חזקה (טור בשם הרא\"ש והרמב\"ם פי\"ג דטוען ומרדכי פ' חזקת) וכן אפי' החזיק בכולה והשותף נותן חצי המס הוי מחא' ואינו חזקה (ב\"י סי' קמ\"ו בשם רשב\"א): </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 149:2",
+              "sourceHeRef": "חושן משפט קמט:ב - אלו שאין להם חזקה השותפין והאריסין והאפטרופסים הגזלנים והאחין וחרש שוטה וקטן",
+              "sourceRef": "Choshen Mishpat 149:2"
+            },
+            {
+              "en": "",
+              "he": "דבר הידוע שהוא משל השותפות אין לא' חזקה בו על חבירו ואפי' נשתהה בידו זמן רב אינו יכול לומר שלקחו ממנו או שנתנו לו במתנה אלא בראייה ולא מיבעיא במילת' דידיע לתרווייהו שוה בשוה אלא אפי' חזי דהאי אייתי זוזי והאי אייתי זוזי וזבני בהו עיסקא ולא ידיע כמה אייתי כל חד ובתר הכי נפיק האי עיסקא מידא דחד ואמר תרי תילתא דידי ותילתא דחבראי לא מהימן אלא פלגי ליה בשוה והוא דלא מצי למטען להד\"ם או החזרתיו לך כגון דחזו ליה סהדי תחות ידיה וידעו דהא עיסקא דזבנו תרווייהו: <span class=\"hebrew-emphasis\">הגה ודוקא קודם שחלקו אבל לאחר שחלקו יש להן חזקה זה על זה (ב\"י בשם הרי\"ף וכן משמע מדברי הרמב\"ם פ\"ה משותפים וע' לעיל סי' קמ\"ט)</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 179:1",
+              "sourceHeRef": "חושן משפט קעט:א - שותפין אין להם חזקה זה על זה.",
+              "sourceRef": "Choshen Mishpat 179:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רמי ליה</b> <span class=\"hebrew-emphasis\">[השליך לו,</span> הראה לו סתירה<span class=\"hebrew-emphasis\">]</span> <b>ר' אבא לרב יהודה במערתא דבי</b> <span class=\"hebrew-emphasis\">[במערה של בית]</span> <b>רב זכאי, מי</b> <span class=\"hebrew-emphasis\">[האם]</span> <b>אמר שמואל: שותף יש לו חזקה? והאמר</b> <span class=\"hebrew-emphasis\">[והרי אמר]</span> <b>שמואל: שותף</b> המשתמש בנכס המשותף כולו <b>כיורד</b> לנכסי חבירו <b>ברשות דמי</b> <span class=\"hebrew-emphasis\">[נחשב].</span> <b>לאו למימרא</b> <span class=\"hebrew-emphasis\">[האם לא</span> התכוון <span class=\"hebrew-emphasis\">לומר]</span> בכך ש<b>שותף אין לו חזקה?</b> ודוחים: <b>לא קשיא</b> <span class=\"hebrew-emphasis\">[אין</span> זה <span class=\"hebrew-emphasis\">קשה]:</span> <b>הא דנחית</b> <span class=\"hebrew-emphasis\">[זה שירד]</span> <b>ל</b>כל השדה <b>כולה, הא דנחית לפלגא</b> <span class=\"hebrew-emphasis\">[זה שירד למחציתה].</span>",
+              "ref": "Steinsaltz on Bava Batra 42b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ב ב:ב",
+              "sourceRef": "Steinsaltz on Bava Batra 42b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A partner who planted trees in a co-owned field, even if it was not commonly used for planting, has the advantage, meaning that he receives from the other partner the value of the enhancement or of his expenditures, whichever is greater (Rambam<i> Sefer Nezikin</i>,<i> Hilkhot Gezeila VaAveda</i> 10:7; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>375:5).",
+              "he": "שותף שירד לשדה המשותף, ונטע בו נטיעות אפילו במקום שלא היה עשוי לכך — שמים לו וידו על העליונה. ולדעת הרמב\"ם, בין אם השבח יתר על ההוצאה ובין אם ההוצאה יתירה על השבח — מקבל את הסכום הגבוה מבין השנים. אבל הרמ\"א (בשם נמוק\"י ומרדכי) כתב שאם השבח יתר על ההוצאה — מקבל השבח, אבל אם ההוצאה יתירה — מקבל ההוצאה בלבד (וראה גר\"א). וכדברי שמואל. (רמב\"ם ספר נזיקין הלכות גזילה ואבידה פ\"י ה\"ז. שו\"ע חו\"מ שעה, ה).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 42b:2",
+              "sourceHeRef": "שׁוּתָּף כְּיוֹרֵד בִּרְשׁוּת דָּמֵי",
+              "sourceRef": "A partner is considered as one who enters the field with permission"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>שותף כיורד ברשות דמי לאו למימרא דאין לו חזקה—A partner is like one who enters with permission; does that not mean that he has no <i>Chazokoh</i></b><br><br>O<small>VERVIEW</small><br>שמואל ruled that a שותף has a חזקה. The גמרא challenged this since שמואל ruled that a שותף is considered like an אריס (who has the right to work the field). Presumably this means that the שותף has no חזקה, just like an אריס who has no חזקה. Our תוספות has a difficulty in understanding this challenge.<br>-----------------------------<br>תוספות asks:<br><b>ואם תאמר מנא ליה דילמא לענין שנוטל בשבח המגיע לכתפים כדאמר בסמוך –<br>And if you will say [and it is astounding]</b> <b>how does</b> the גמרא <b>derive this</b> (that שותף כיורד ברשות means that אין לו חזקה), <b>perhaps</b> this ruling <b>is</b> only <b>regarding that a</b> שותף <b>takes the שבח המגיע לכתפים,</b> just like an אריס, <b>as the</b> גמרא <b>states shortly,</b> but it does not mean that אין לו חזקה, so what is the challenge to sשמואל' ruling that שותף אין לו חזקה?!<b></b><br>תוספות anticipates a possible solution to his question:<br><b>וכי תימא דמשמע ליה דבכל ענין מדמי ליה לאריס –<br>And if you will say that it seems to</b> the גמרא <b>that</b> שמואל <b>compares</b> a שותף <b>to an אריס in all respects</b> (not only for שבח המגיע לכתפים) and therefore just as an אריס אין לו חזקה (as our משנה states), so too a שותף אין לו חזקה, and there is a contradiction in sשמאול' ruling. This would seemingly explain the question on שמואל –<br>תוספות negates this solution:<br><b>דלמא כשאר אריסים קאמר שיש להן חזקה ולא כאריסי בתי אבות:</b><br><b>Perhaps</b> שמואל meant <b>to say</b> that a שותף is like <b>other אריסים who do have a חזקה, but</b> the שותף <b>is not like אריסי בתי אבות</b> (who do not have a חזקה). Then there is no contradiction in the rulings of שמואל.<br><br>S<small>UMMARY</small><br>There is seemingly no proof from sשמואל' statement of שותף כיורד ברשות דמי, that he maintains שותף אין לו חזקה.<br><br>T<small>HINKING IT OVER</small><br>1. <b>תוספות</b> initial question was how do we know that when <b>שמואל</b> ruled <b>שותף כיורד ברשות</b>, he meant that <b>אין לו חזקה</b>, perhaps he only meant the he is <b>נוטל</b> the <b>שבח המגיע לכתפים</b>. Why did not <b>תוספות</b> ask initially that perhaps when <b>שמואל</b> said <b>שותף כאריס</b> he meant like <b>שאר אריסים</b> that he is <b>נוטל</b> the <b>שבח המגיע לכתפים</b> and <b>יש לו חזקה</b> like <b>שאר אריסים</b>?!<br>2. <b>תוספות</b> initial question was how do we know that when <b>שמואל</b> ruled <b>שותף כיורד ברשות</b>, he meant that <b>אין לו חזקה</b>, perhaps he only meant the he is <b>נוטל</b> the <b>שבח המגיע לכתפים</b>. However if that is all that <b>שמואל</b> meant, he should have just said <b>שותף נוטל בשבח המגיע לכתפים</b>, why say <b>שותף כיורד ברשות דמי</b>?!",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 42b:2:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> שותף כיורד כו' וא\"ת מנ\"ל ודלמא כו' וכ\"ת דמשמע כו' דלמא כשאר אריסי קאמר שיש כו' עכ\"ל ובפשיטות לא קשיא להו דאימא שותף כיורד ברשות ויש לו חזקה כמו שאר אריסי קאמר דמהיכא פסיקא ליה בשאר אריסי דיש להן חזקה דתלה בהן שותף אבל אי אין לשותף חזקה שפיר תלה ליה באריס דקתני במתניתין דאין לו חזקה אבל הא קשיא להו דאימא דעיקר מלתא הכא לאשמועינן בשותף שבח מגיע לכתפים כמו באריס אבל בשאר דברים דהיינו לענין חזקה לא נחית לאשמועינן ומיהו גם בזה הוא שוה לאריסי שאינן בתי אבות ודו\"ק:",
+                      "ref": "Chidushei Halachot on Bava Batra 42b:1",
+                      "sourceHeRef": "חדושי הלכות על בבא בתרא מ״ב ב:א",
+                      "sourceRef": "Chidushei Halachot on Bava Batra 42b:1"
+                    }
+                  ]
+                },
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה</b> שותף כיורד ברשות וכו' דלמא לענין שנוטל בשבח המגיע לכתפים וכו'. ר\"ל דמסתמא גם המקשה הזה לא נעלם ממנו הקושיא שקשיא על דברי שמואל לימא שותף אין לו חזקה וע\"כ צריך לשנויי דקמ\"ל שנוטל בשבח המגיע לכתפים וכו' כדלקמן ואם כן קשה מאי מקשה לאו למימרא דשותף אין לו חזקה מנ\"ל הא דלמא הא דקאמר שמואל שותף כיורד ברשות לאו למימרא דשותף אין לו חזקה אלא הא לחוד אתא לאשמועינן שנוטל בשבח המגיע לכתפים וכ\"ת דמשמע ליה דבכל ענין מדמה ליה לאריס ר\"ל דמשמע למקשה כיון שאמר שמואל שותף כיורד ברשות כלו' דינו כדין אריס משמע ליה בכל דיני אריס בין לענין חזקה בין לענין שבה המגיע לכתפים דאל\"כ היה הלשון דחוק שיאמר שמואל שותף הוי כאריס ולא יהא דומה לו ממש דאריס אין לו חזקה ושותף יש לו חזקה אלא ודאי גם לשותף אין לו חזקה זה אינו דיוק דדלמא שמואל יש לו חזקה ס\"ל ושמואל לא איירי באריס בתי אבות אלא בשאר אריסי וכשאמר שותף כיורד ברשות דהיינו כאריס לא אתי לאשמועינן דין חזקה אלא שנוטל בשבח המגיע לכתפים ואין הלשון שאמר כיורד ברשות דחוק שהרי דומה ממש לשאר אריסי הן בחזקה הן בשבח המגיע לכתפים דשאר אריסי נמי יש להם חזקה ולפי דרך זה יתורץ מה שמקשין העולם דלמה להו להתוס' להקשות מתחלה דלמא לענין שבח המגיע לכתפים איירי ולבסוף פריך דלמא בשאר אריסי קאמר ר\"ל להקשות בקצרה הקושיא השניה דמנ\"ל להמקשה למיפרך משמואל דאמר שותף כיורד ברשות דמי לאו למימרא דשותף אין לו חזקה דלמא אדרבה שמואל איירי בשאר אריסי דיש להם הזקה ואתא לאשמועינן דשותף הוי כיורד ברשות דהיינו שאר אריסים ויש לו חזקה אבל לפי הדרך שכתבנו לא קשיא מידי משום דאי לא אתא שמואל לאשמועינן שום דין אחר כ\"א דין חזקה ע\"כ צריכין אנו לומר שאיירי באריס בתי אבות ואתא לאשמועינן דכמו שאריס בתי אבות אין לו חזקה כדתנן במתני' אריסין אין להם חזקה דמוקמינן לה באריס בתי אבות ה\"נ שותף אבל ליכא למימר דאיירי בשאר אריסי ואתא לאשמועינן דשותף יש לו חזקה כמו אריס דא\"כ תלי שותף בדלא תניא דאריס גופיה לא תנן בשום מתני' דיש לו חזקה ולכך מקשו התוס' מתחלה דדלמא שמואל לא אתי לאשמועינן מדין חזקה כלל אלא אתא לאשמועינן שנוטל בשבח המגיע לכתפים וכ\"ת מ\"מ משמע ליה למקשה מינה נמי דאין לו חזקה דאל\"כ היה לשונו דשמואל דחוק דאמר שותף כיורד ברשות דמי ולא יהיה דומה לו ממש וע\"ז מקשה דדלמא איירי בשאר אריסים דיש להם חזקה ואם כן הוה דומה לו ממש אבל מ\"מ שמואל לא אתא לאשמועינן דרך חזקה אלא דין שנוטל בשבח המגיע לכתפים דיש לו חזקה לא שמעינן מאריס משום דאריס גופיה לא תנן דיש לו חזקה ודו\"ק נ\"ל:",
+                      "ref": "Maharam on Bava Batra 42b:2",
+                      "sourceHeRef": "מהר\"ם על בבא בתרא מ״ב ב:ב",
+                      "sourceRef": "Maharam on Bava Batra 42b:2"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה</b> שבח המגיע לכתפים וכו' ולאו פירכא היא וכו' אלא כלומר כל דבר שסופו ליתלש כגון פגין או בוסר וכו'. אבל יש לדקדק הא הכא בשמעתין דקאמר שנוטל בשבח המגיע לכתפים וכו' פשוט הוא שהשותף נוטל כדין אריס אפי' בפירות גמורים העומדים ליבצר א\"כ ש\"מ דאפי' פירות גמורים מקרו שבח המגיע לכתפים ונראה דכל פירות מקרו שבח המגיע לכתפים ר\"ל שהוא שבח הראוי לשאת אותו מן השדה בכתף אבל מ\"מ אין ענינם שוה בכ\"מ אלא הכל לפי הענין בפ\"ק <span class=\"parenthesized\">(דב\"ק)</span> [דב\"מ] דאיירי בב\"ח דלא גבי מטלטלים דלוקח הוי פי' שבח המגיע לכתפים פירות שעדיין צריכין לקרקע ואין עומדין עדיין ליבצר כגון פגין או בוסר ובשמעתין דאיירי בשותף דנוטל בשבח כאריס הוי פירושו שבח המגיע לכתפים אפילו פירות גמורים העומדים ליבצר וק\"ל:",
+                      "ref": "Maharam on Bava Batra 42b:3",
+                      "sourceHeRef": "מהר\"ם על בבא בתרא מ״ב ב:ג",
+                      "sourceRef": "Maharam on Bava Batra 42b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שותף כיורד ברשות דמי לאו למימרא דאין לו חזקה</strong> - וא\"ת מנא ליה דילמא לענין שנוטל בשבח המגיע לכתפים כדאמר בסמוך וכ\"ת דמשמע ליה דבכל ענין מדמי ליה לאריס דלמא כשאר אריסים קאמר שיש להן חזקה ולא כאריסי בתי אבות:",
+              "ref": "Tosafot on Bava Batra 42b:2:1",
+              "sourceHeRef": "תוספות על בבא בתרא מ״ב ב:ב:א",
+              "sourceRef": "Tosafot on Bava Batra 42b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-abba\" class=\"namedEntityLink\" data-slug=\"rabbi-abba\">Rabbi Abba</span> raises a contradiction to <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> in the case of <span href=\"/topics/rabbi-zakkai\" class=\"namedEntityLink\" data-slug=\"rabbi-zakkai\">Rav Zakkai</span>’s house: Did <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span></b> actually <b>say</b> that <b>a partner has</b> the ability to establish the <b>presumption</b> of ownership? <b>But doesn’t <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> say: A partner is</b> considered <b>as</b> one who <b>enters</b> the field <b>with permission,</b> such as a sharecropper? <b>Isn’t that to say that a partner does not have</b> the ability to establish the <b>presumption</b> of ownership? The Gemara answers: It is <b>not difficult. This</b> is referring to <b>where</b> he <b>enters all of</b> the field, and <b>that</b> is referring to <b>where</b> he <b>enters half</b> of the field.",
+      "he": "רָמֵי לֵיהּ <span href=\"/topics/rabbi-abba\" class=\"namedEntityLink\" data-slug=\"rabbi-abba\">רַבִּי אַבָּא</span> <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">לְרַב יְהוּדָה</span> בִּמְעָרְתָּא דְּבֵי רַב זַכַּאי, מִי אָמַר שְׁמוּאֵל: שׁוּתָּף יֵשׁ לוֹ חֲזָקָה? וְהָאָמַר שְׁמוּאֵל: שׁוּתָּף כְּיוֹרֵד בִּרְשׁוּת דָּמֵי. לָאו לְמֵימְרָא דְּשׁוּתָּף אֵין לוֹ חֲזָקָה? לָא קַשְׁיָא; הָא דִּנְחֵית לְכוּלַּהּ, הָא דִּנְחֵית לְפַלְגָא.",
+      "ref": "Bava Batra 42b:2"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שם אמרי לה להאי גיסא.</b> שבת דף קה ע\"א פסחים דף קח ע\"א גיטין דף סז ע\"ב:",
+              "ref": "Gilyon HaShas on Bava Batra 42b:2",
+              "sourceHeRef": "גליון הש\"ס על בבא בתרא מ״ב ב:ב",
+              "sourceRef": "Gilyon HaShas on Bava Batra 42b:2"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמרי לה להאי גיסא</strong> - יש מתרצים בענין זה הא דאמר שמואל שותף יש לו חזקה דנחית לכולה דמנהג שותפים ליטול בשותפות פירות כל שנה ושנה או זה יטול חצי הקרקע וזה החצי ולשנה הבאה למפרע מה שלקח זה אשתקד יקח זה עכשיו שכל אחד רוצה ליהנות בכל שנה מחלקו וזה שהניח להחזיק לחבירו ג' שנים בכל השדה ודאי מכר לו את חלקו והלכך הויא חזקה: <br> והא דאמר שמואל אין לו חזקה דנחית לפלגא - שכן דרך שותפין לאכול זה פלגא ואידך חבריה פלגא שלש שנים או ארבע ואחר כך אוכלין למפרע בענין זה ארבע שנים אחרות:",
+              "ref": "Rashbam on Bava Batra 42b:3:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ג:א",
+              "sourceRef": "Rashbam on Bava Batra 42b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואמרי לה להאי גיסא</strong> - היכא דנחית לכולה לא הויא חזקה שכן הוא מנהג השותפין לאכול שדה שלש שנים והלכך לא מצי טעין לקוח חלקך בידי והיכא דנחית לפלגא הויא חזקה דסברא הוא דחלקו דאם איתא דניחא ליה ליהנות מחלקו בכל שנה ולא להמתין שלש שנים או ארבע שנים אחר חבירו כמנהג שותפין לא היה לו לברר חלק אחר לבדו אלא יעשו בשותפות ויחלקו הפירות:",
+              "ref": "Rashbam on Bava Batra 42b:3:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ג:ב",
+              "sourceRef": "Rashbam on Bava Batra 42b:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ובפירוש דבר זה <b>אמרי לה להאי גיסא, ואמרי לה להאי גיסא</b> <span class=\"hebrew-emphasis\">[</span>יש <span class=\"hebrew-emphasis\">אומרים אותה לצד זה,</span> ויש <span class=\"hebrew-emphasis\">אומרים אותה לצד זה],</span> שיש מקום לומר כי שותף שהחזיק שלוש שנים רק מחצית השדה, הרי זו הוכחה שזה הוא חלקו הקנוי רק לו, אבל אם ירד לכולה במשך שלוש שנים — אין לו חזקה, שכך נוהגים שותפים.",
+              "ref": "Steinsaltz on Bava Batra 42b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ב ב:ג",
+              "sourceRef": "Steinsaltz on Bava Batra 42b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The logic of saying it in this manner is that possessing half the field is merely a reflection of their partnership, and one does not establish the presumption of ownership by possessing half of the field even if one of the partners possessed half of the field for three years. It is only when one partner possesses the entire field, claiming the other partner sold it to him, that he establishes the presumption of ownership (Rashbam). Even if one partner possessed the higher-quality half of the field for all three years, he still does not establish the presumption of ownership, as partners often do not object to this type of arrangement.",
+              "he": "שכל שמחזיק במחצית השדה ואף שלוש שנים — הרי זו דרך השותפים, ואין מכאן ראיה שקיבל חלק זה להיות שלו לצמיתות. ורק אם מחזיק בכל וטוען שהוא שלו — הרי זו חזקה לכל (רשב\"ם). ובנמוק\"י מוסיף שגם אם אוכל מחצית מן החלק הטוב אין זו ראיה כלל, שאין דרך השותפים להקפיד בכך. אבל אם מחזיק בכל — הרי זו חזקה.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 42b:3",
+              "sourceHeRef": "אָמְרִי לָהּ לְהַאי גִּיסָא",
+              "sourceRef": "Some say it in this manner"
+            },
+            {
+              "en": "The logic of saying it in that manner is that if one of the partners possessed one-half of the field and claimed that the partnership had been dissolved and this was his permanent share, he established the presumption of ownership of that half of the field, while if one partner possessed the entire field, he does not establish the presumption of ownership, as the other partner is able to claim that they had an arrangement in which they took turns possessing the entire field (Rashbam). Rabbeinu Barukh cites a different interpretation: One partner claims that the half he possesses is exclusively his, and the other half is co-owned. The Ritva writes that if both partners, in fact, both made use of the second half of the field, the <i>halakha</i> would be as Rabbeinu Barukh suggested.",
+              "he": "שאם נכנס והחזיק רק במחצית השדה וטוען שחילקוהו ביניהם לצמיתות, וכי חצי זה הוא שלו — יש לו חזקה באותו חלק. ויש כאן משמעות מעשית כאשר אותו שותף מחזיק בחלק הטוב יותר של השדה, או שקנה שדה סמוך. אבל אם נכנס ומחזיק בכל השדה — אין זו חזקה, שיכול השותף לומר שהסכימו ביניהם שכל אחד מהם יאכל את כל פירות השדה במשך שנים אחדות (רשב\"ם). ובר\"ב הביא פירוש אחר: שמחזיק בחצי השדה וטוען שחצי זה הוא שלו לגמרי, ואילו החצי האחר הוא משותף לשניהם. והריטב\"א כתב שאם אכן משתמש הוא יחד עם שותפו בחלק השני — יהא הדין כן.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 42b:3",
+              "sourceHeRef": "וְאָמְרִי לָהּ לְהַאי גִּיסָא",
+              "sourceRef": "And some say it in that manner"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains: <b>Some say it in this manner and some say it in that manner.</b> On the one hand, it is possible to explain that if he entered half of the field he establishes the presumption of ownership with regard to that half, but if he entered the entire field he is merely acting as a partner. On the other hand, one could explain that entering half of the field does not establish the presumption of ownership at all, while entering the entire field does establish it.",
+      "he": "אָמְרִי לַהּ לְהַאי גִּיסָא, וְאָמְרִי לַהּ לְהַאי גִּיסָא.",
+      "ref": "Bava Batra 42b:3"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> רבינא אמר הא והא דנחית לכולה.</b> כתב ר\"ח ז\"ל ואפירושא דידיה סמכינן, ואמרינן הא דנחית לכולה ואית בה דין חלוקה מחזיקין זה בזה בין בכולה בין בחציה, ואי לית בה דין חלוקה כיורד ברשות דמי ולית ליה חזקה, לומר שנוטל בשבח המגיע לכתפים ובשדה שאינה עשויה ליטע כשדה העשויה ליטע. נראה שר\"ח ז\"ל פירשה לצדדין: נוטל השותף האחד בשבח שהשביח זה בכתפיו ובעמל ידיו, ונוטל זה היורד בה ונטעה בשדה שאינה עשויה ליטע כשדה העשויה ליטע, וזה לשון הרב ז\"ל: חולק השותף האחר במה שיגע זה והשביח בגופו ובכתפיו בשדה השותפות ואף על פי שהוא לא טרח כלום, וכן אם נטע שדה שאינה עשויה ליטע והוציא הוצאות אין יכול שותפו למחות על ידו ולומר לו לא הייתי רוצה ליטע דהא אינה ראויה ליטע, אלא כשם שנוטל בשבח כן משלם בהוצאה, דקא חשיב כיורד ברשות ליטע אפילו בשדה שאינה עשויה ליטע. עד כאן. ורבי שמעון ז\"ל ושאר המפרשים ז\"ל לא פירשו כן.",
+              "ref": "Rashba on Bava Batra 42b:1",
+              "sourceHeRef": "רשב״א על בבא בתרא מ״ב ב:א",
+              "sourceRef": "Rashba on Bava Batra 42b:1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הכי גרסי' רבינא אמר הא והא דנחית לכולה הא דאית בה דין חלוקה. ארבע אמות לזה וארבע אמות לזה הויא חזקה דכיון דיש כדי לזה וכדי לזה אינו מנהג להניח האחד להקדים לו חבירו ג' שנים אלא אם כן מכר לו חלקו:",
+              "ref": "Rashbam on Bava Batra 42b:4:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ד:א",
+              "sourceRef": "Rashbam on Bava Batra 42b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דלית בה דין חלוקה</strong> - אינה חזקה דהתם מנהג הוא לאכול זה שלש או ארבע שנים שלימות כל השדה ואתר כך זה משום דבשניהם ביחד אינו כדאי והכי קיימא לן והך עובדא דרמי בר חמא ורב עוקבא בר חמא דזבון אמהתא בשותפות מר משתמש ראשונה שלישית כו' בריש פרקין <span class=\"parenthesized\">(בבא בתרא דף כט:)</span> ופרשינן טעמא כי היכי דלא ליחזקו אהדדי ה״ה דאי הוה כל אחד משתמש שלש שנים רצופין לא תהוי חזקה דהא לית בחדא אמתא דין חלוקה והלכך לא תהוי חזקה ואינהו דאחזוק בסירוגין משום דלמא לא ידעי העדים לסוף ג' שנים שלקחוה בשותפות ויטעון המחזיק בה שאינו שותף ותהוי חזקתו חזקה:",
+              "ref": "Rashbam on Bava Batra 42b:4:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ד:ב",
+              "sourceRef": "Rashbam on Bava Batra 42b:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואפשר לומר להיפך, שאם יורד רק למחצית — אינה חזקה. אבל אם מחזיק בכולה שלוש שנים — ראיה היא שכולה שלו היא. <b>רבינא אמר: הא והא דנחית</b> <span class=\"hebrew-emphasis\">[זה וזה</span> מדובר, <span class=\"hebrew-emphasis\">כשירד]</span> <b>ל</b>כל השדה <b>כולה, ולא קשיא</b> <span class=\"hebrew-emphasis\">[קשה]:</span> <b>הא</b> <span class=\"hebrew-emphasis\">[זה]</span> מדובר <b>דאית</b> <span class=\"hebrew-emphasis\">[שיש]</span> <b>בה</b> בקרקע גודל מספיק שיהיה בה <b>דין חלוקה,</b> ולכן השותף המשתמש בכולה הרי זה נכנס בחלק שהוא ודאי של חבירו, ואם לא מחה בידו — יש לו חזקה. <b>הא דלית</b> <span class=\"hebrew-emphasis\">[זו שאין]</span> <b>בה דין חלוקה,</b> ולכן גם אם נכנס לכולה, כיון שאין חלקה זו מתחלקת והכל שייך לשניהם, אף אם נכנס לכולה אין זו הוכחה לבעלות, אלא נכנס רק משום השותפות.",
+              "ref": "Steinsaltz on Bava Batra 42b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ב ב:ד",
+              "sourceRef": "Steinsaltz on Bava Batra 42b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one partner was in possession of the entirety of a co-owned field that was of sufficient area to be subject to the <i>halakha</i> of division, he establishes the presumption of ownership. But if it was not of sufficient area to be subject to the <i>halakha</i> of division, then he does not establish the presumption of ownership. The Rema writes (based on Rambam;<i> Tur</i>, citing Rosh) that if he possessed only half of the field, he does not establish the presumption of ownership in either case (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot To’en VeNitan</i> 13:8; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 149:2).",
+              "he": "שכיון שהיה אפשר לחלק את השדה, ושותף זה מחזיק בכולה — הרי זו הוכחה וחזקה שהיא שלו. שאם היו שותפים — היו מחלקים את השדה. אבל בשדה שאינה ניתנת לחלוקה בהכרח צריכים להתחלק באופן שאחד מהם ישתמש בשדה זמן מסויים, ואחר כך ישתמש חבירו. ובר\"ב מביא פירוש אחר, שאם יש בשדה דין חלוקה ושותף אחד מחזיק בכל — אין זו חזקה, שמסתבר לומר שאם היו מפרקים את השותפות היה כל שותף מקבל מחצית. אבל כשאין בה דין חלוקה וירד שותף אחד לכל — מן הסתם הסכימו להיפרד, ושותף זה קנה את חלק חבירו.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 42b:4",
+              "sourceHeRef": "הָא וְהָא דְּנָחֵית לְכוּלָּהּ",
+              "sourceRef": "Both this and that are referring to a case where he enters the entire field"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span> stated</b> a different resolution to the contradiction: <b>Both this and that</b> are referring to a case <b>where</b> he <b>enters the entire</b> field, <b>and</b> it is <b>not difficult. This</b> is referring to a case <b>where</b> the field <b>is of</b> sufficient area to be subject to the <b><i>halakha</i> of division.</b> In this case, his being in possession of the other half of the field as well, which belonged to his partner, establishes the presumption of ownership. <b>That</b> is referring to a case <b>where</b> the field <b>is not of</b> sufficient area to be subject to the <b><i>halakha</i> of division.</b> Since the property will not be divided but will remain co-owned, he is merely possessing it as a partner and does not establish the presumption of ownership.",
+      "he": "<span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">רָבִינָא</span> אָמַר: הָא וְהָא דִּנְחֵית לְכוּלַּהּ; וְלָא קַשְׁיָא – הָא דְּאִית בָּהּ דִּין חֲלוּקָהּ, הָא דְּלֵית בָּהּ דִּין חֲלוּקָהּ.",
+      "ref": "Bava Batra 42b:4"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">שׁוּתָּף</strong> m. (= <span dir=\"rtl\">משותף</span>; <span class=\"refLink\" data-ref=\"Jastrow, שָׁתַף 1\" dir=\"rtl\" href=\"/Jastrow,_שָׁתַף.1\">שָׁתַף</span>) <i>associate, partner</i>. <span class=\"refLink\" data-ref=\"Tosefta Sanhedrin 8:7\" href=\"/Tosefta_Sanhedrin.8.7\">Tosefta Sanhedrin VIII, 7</span> אדם … ש׳ היה עמו וכ׳ Adam was the last created, in order that the heretics might not say, he was God’s associate in his work; <span class=\"refLink\" data-ref=\"Sanhedrin 38a:13\" href=\"/Sanhedrin.38a.13\">Sanhedrin 38ᵃ</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Bava Batra 3:5:2\" href=\"Jerusalem_Talmud_Bava_Batra.3.5.2\">Yerushalmi Bava Batra III, 14ᵃ</span> bottom of page <span dir=\"rtl\">ש׳ … כנוטע ברשות</span> if a partner goes in and plants (a portion of the ground), he is considered as one who plants with the owner’s assent, i.e. he cannot claim the cultivated portion as his exclusive property on the ground of undisturbed possession; Bavli <span class=\"refLink\" data-ref=\"Bava Batra 42b:5\" href=\"/Bava_Batra.42b.5\">Bava Batra 42ᵇ</span>. <span class=\"refLink\" data-ref=\"Bava Batra 42b:5\" href=\"/Bava_Batra.42b.5\">Ib.</span> <span dir=\"rtl\">ש׳ אין לו חזקה</span> (not <span class=\"refLink\" data-ref=\"Jastrow, שׁוּתָּפוּת 1\" dir=\"rtl\" href=\"/Jastrow,_שׁוּתָּפוּת.1\">שותפות</span>) a partner cannot claim possession (see <span class=\"refLink\" data-ref=\"Jastrow, חֲזָקָה 1\" dir=\"rtl\" href=\"/Jastrow,_חֲזָקָה.1\">חֲזָקָה</span>). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sanhedrin 1:2:47\" href=\"Jerusalem_Talmud_Sanhedrin.1.2.47\">Yerushalmi Sanhedrin I, 19ᵇ</span> top <span dir=\"rtl\">ש׳ ליסטים כליסטים</span> a robber’s partner is considered a robber; and from—plural <span dir=\"rtl\">שׁוּתָּפִים</span>, <span dir=\"rtl\">שׁוּתָּפִין</span>. <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 3:3\" href=\"/Mishnah_Bava_Batra.3.3\">Bava Batra III, 3</span>. <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 1:1\" href=\"/Mishnah_Bava_Batra.1.1\">Ib. I, 1</span>; and from—<span class=\"refLink\" data-ref=\"Kiddushin 30b:21\" href=\"/Kiddushin.30b.21\">Kiddushin 30ᵇ</span> <span dir=\"rtl\">שלשה ש׳ הן באדם וכ׳</span> three partners have a share in man: the Lord, his father, and his mother; if a man honors his parents &c.; <span class=\"refLink\" data-ref=\"Niddah 31a:26\" href=\"/Niddah.31a.26\">Niddah 31ᵃ</span>; and e.—<i>Fem.</i> <span class=\"refLink\" data-ref=\"Jastrow, שׁוּתֶּפֶת 1\" dir=\"rtl\" href=\"/Jastrow,_שׁוּתֶּפֶת.1\">שׁוּתֶּפֶת</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 56\" href=\"/Bereishit_Rabbah.56\">Breishit Rabbah section (Parashah) 56</span> <span dir=\"rtl\">שהיתה ש׳ בשני וכ׳</span> she (Tadmor) took part in the two destructions of the Temple; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Taanit 4:5:23\" href=\"Jerusalem_Talmud_Taanit.4.5.23\">Yerushalmi Taanit IV, 69ᵇ</span> bottom of page; <span class=\"refLink\" data-ref=\"Eichah Rabbah 2\" href=\"/Eichah_Rabbah.2\">Eicha Rabbah to II, 2</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, שׁוּתָּף 1",
+              "sourceHeRef": "מילון יסטרוב, שׁוּתָּף א׳",
+              "sourceRef": "Jastrow, שׁוּתָּף 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person enters a colleague's field with the latter's permission, his improvement of the field should be evaluated, and he should be given the advantage in evaluating the amount of money due him. This applies even if he planted trees in a field that was unfit for planting.<br>If his expenses exceed the field's increase in value, he is reimbursed for his expenses. If the field's increase in value exceeds his expenses, he is reimbursed for the field's increase in value.<br>A husband who tills property belonging to his wife, and a partner who tills a field in which he owns a share are considered to have been given permission to enter the land. Their improvement of the field should be evaluated and they should be given the advantage in evaluating the amount of money due them.",
+              "he": "הַיּוֹרֵד לִשְׂדֵה חֲבֵרוֹ בִּרְשׁוּת אֲפִלּוּ נָטַע שָׂדֶה שֶׁאֵינָהּ עֲשׂוּיָה לִטַּע שָׁמִין לוֹ וְיָדוֹ עַל הָעֶלְיוֹנָה. שֶׁאִם הָיְתָה הַהוֹצָאָה יֶתֶר עַל הַשֶּׁבַח נוֹטֵל הַהוֹצָאָה וְאִם הַשֶּׁבַח יֶתֶר עַל הַהוֹצָאָה נוֹטֵל הַשֶּׁבַח. וּבַעַל בְּנִכְסֵי אִשְׁתּוֹ וְהַשֻּׁתָּף בְּשָׂדֶה שֶׁיֵּשׁ לוֹ חֵלֶק בָּהּ כְּיוֹרֵד בִּרְשׁוּת הֵן וְשָׁמִין לָהֶם וְיָדָם עַל הָעֶלְיוֹנָה:",
+              "ref": "Mishneh Torah, Robbery and Lost Property 10:7",
+              "sourceHeRef": "הלכות גזילה ואבידה י:ז",
+              "sourceRef": "Robbery and Lost Property 10:7"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When does the above apply? When a husband divorces his wife [under ordinary circumstances]. [Different rules apply regarding] a woman who rebels against her husband [and denies him intimacy]. Even if he derived much benefit, the benefit that he derives should be evaluated and subtracted from the amount fit to be given him for the expenses he undertook. After he takes an oath [affirming his claim], he is entitled to collect it. For he did not [incur these expenses on behalf of his wife] so that she would take them and leave him on her own accord.<br>Similarly, [different rules apply when] a man undertakes expenses [to develop] property belonging to his wife who is below the age of majority, and she dissolves the marriage through the right of <i>mi'un</i>. We evaluate the amount of benefit he received, the amount of his expenses, the extent of the property's increment - and then he is given the share usually allocated to a sharecropper.[This consideration is taken] because he had permission to work [his wife's property].",
+                      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים בִּמְגָרֵשׁ אֲבָל הָאִשָּׁה שֶׁמָּרְדָה עַל בַּעְלָהּ אֲפִלּוּ אָכַל הַרְבֵּה שָׁמִין לוֹ כַּמָּה אָכַל וּפוֹחֵת אוֹתוֹ מִמַּה שֶּׁרָאוּי לִתֵּן לוֹ מִן הַהוֹצָאָה אַחַר שֶׁיִּשָּׁבַע וְנוֹטְלוֹ. שֶׁלֹּא הִקְנָה לָהּ כְּדֵי שֶׁתִּטּל וְתֵצֵא מֵעַצְמָהּ. וְכֵן הַמּוֹצִיא הוֹצָאוֹת עַל נִכְסֵי אִשְׁתּוֹ קְטַנָּה וּמֵאֲנָה בּוֹ רוֹאִין כַּמָּה אָכַל וְכַמָּה הוֹצִיא וְכַמָּה הִשְׁבִּיחַ וְשָׁמִין לוֹ כְּאָרִיס שֶׁהֲרֵי בִּרְשׁוּת יָרַד:",
+                      "ref": "Mishneh Torah, Marriage 23:10",
+                      "sourceHeRef": "הלכות אישות כג:י",
+                      "sourceRef": "Marriage 23:10"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "A man who paid expenses for [the upkeep of] melog properties of his minor wife, and she subsequently annulled the marriage, we see how much he profited from the usufruct and how much he spent, and how much the property increased in value, and we assess like a sharecropper (who gives the owner a percentage of the crop), for he had permission to use the property. If he wants to take the increase in value in return for the expenses, we listen to him. If he spent only a little and \"ate\" (received) much usufruct, what he ate he ate (i.e. the produce received is his compensation).",
+                      "he": "המוציא הוצאות על נכסי מלוג של אשתו קטנה ומיאנה בו רואין כמה אכל וכמה הוציא וכמה השביח ושמין לו כאריס שהרי ברשות ירד ואם הוא רוצה ליטול הוצאה שיעור שבח שומעין לו ואם הוציא קימעא ואכל הרבה מה שאכל אכל:",
+                      "ref": "Shulchan Arukh, Even HaEzer 88:10",
+                      "sourceHeRef": "אבן העזר פח:י - כל היוצאת מתחת בעלה במיתה או בגט או במיאון נוטלת נכסים",
+                      "sourceRef": "Even HaEzer 88:10"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "בעל בנכסי מלוג אשתו קטנה והשותף בשדה שיש לו חלק בה כיורד ברשות הן ושמין להם וידם על העליונה <span class=\"hebrew-emphasis\">(וע\"ל ס\"ס קע\"ח וס\"ס ת\"ד)</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 375:5",
+              "sourceHeRef": "חושן משפט שעה:ה - היורד לשדה חבירו או לתוך חורבתו ונטעו או בנאו",
+              "sourceRef": "Choshen Mishpat 375:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> <b>גופא</b> <span class=\"hebrew-emphasis\">[</span>דנים <span class=\"hebrew-emphasis\">לגופו]</span> של הדבר שהזכרנו קודם, <b>אמר שמואל: שותף כיורד ברשות דמי</b> <span class=\"hebrew-emphasis\">[נחשב].</span> ושואלים: <b>מאי קא משמע לן</b> <span class=\"hebrew-emphasis\">[מה השמיע לנו</span> בכך<span class=\"hebrew-emphasis\">],</span> ש<b>שותפות אין לו חזקה?</b> אם כן <b>לימא</b> <span class=\"hebrew-emphasis\">[שיאמר]</span> במפורש: <b>שותף אין לו חזקה!</b>",
+              "ref": "Steinsaltz on Bava Batra 42b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ב ב:ה",
+              "sourceRef": "Steinsaltz on Bava Batra 42b:5"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara addresses <b>the</b> matter <b>itself. <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> says: A partner is</b> considered <b>as</b> one who <b>enters</b> the field <b>with permission. What is</b> this <b>teaching us,</b> that <b>there is not</b> the <b>presumption</b> of ownership in the context of <b>partnership?</b> If so, <b>let</b> him <b>say</b> explicitly: <b>A partner does not have</b> the ability to establish the <b>presumption</b> of ownership of property in his possession.",
+      "he": "גּוּפָא – אָמַר שְׁמוּאֵל: שׁוּתָּף – כְּיוֹרֵד בִּרְשׁוּת דָּמֵי. מַאי קָא מַשְׁמַע לַן, שׁוּתָּפוּת אֵין לוֹ חֲזָקָה? לֵימָא: שׁוּתָּף אֵין לוֹ חֲזָקָה!",
+      "ref": "Bava Batra 42b:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> לומר כו' ברשות הס\"ד:",
+              "ref": "Chokhmat Shlomo on Bava Batra 42b:2",
+              "sourceHeRef": "חכמת שלמה על בבא בתרא מ״ב ב:ב",
+              "sourceRef": "Chokhmat Shlomo on Bava Batra 42b:2"
+            },
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> אפילו הוא כו' צ\"ל ואפילו כו':",
+              "ref": "Chokhmat Shlomo on Bava Batra 42b:3",
+              "sourceHeRef": "חכמת שלמה על בבא בתרא מ״ב ב:ג",
+              "sourceRef": "Chokhmat Shlomo on Bava Batra 42b:3"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person enters a colleague's field with the latter's permission, his improvement of the field should be evaluated, and he should be given the advantage in evaluating the amount of money due him. This applies even if he planted trees in a field that was unfit for planting.<br>If his expenses exceed the field's increase in value, he is reimbursed for his expenses. If the field's increase in value exceeds his expenses, he is reimbursed for the field's increase in value.<br>A husband who tills property belonging to his wife, and a partner who tills a field in which he owns a share are considered to have been given permission to enter the land. Their improvement of the field should be evaluated and they should be given the advantage in evaluating the amount of money due them.",
+              "he": "הַיּוֹרֵד לִשְׂדֵה חֲבֵרוֹ בִּרְשׁוּת אֲפִלּוּ נָטַע שָׂדֶה שֶׁאֵינָהּ עֲשׂוּיָה לִטַּע שָׁמִין לוֹ וְיָדוֹ עַל הָעֶלְיוֹנָה. שֶׁאִם הָיְתָה הַהוֹצָאָה יֶתֶר עַל הַשֶּׁבַח נוֹטֵל הַהוֹצָאָה וְאִם הַשֶּׁבַח יֶתֶר עַל הַהוֹצָאָה נוֹטֵל הַשֶּׁבַח. וּבַעַל בְּנִכְסֵי אִשְׁתּוֹ וְהַשֻּׁתָּף בְּשָׂדֶה שֶׁיֵּשׁ לוֹ חֵלֶק בָּהּ כְּיוֹרֵד בִּרְשׁוּת הֵן וְשָׁמִין לָהֶם וְיָדָם עַל הָעֶלְיוֹנָה:",
+              "ref": "Mishneh Torah, Robbery and Lost Property 10:7",
+              "sourceHeRef": "הלכות גזילה ואבידה י:ז",
+              "sourceRef": "Robbery and Lost Property 10:7"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לומר שנוטל</strong> - כדין אריס שיורד ברשות אפי' בשבח המגיע לכתפים גמר פירי כגון קמה לקצור וענבים לבצור נוטל כל החצי כדין אריסי העיר ואפילו הוא שדה שאינו עשוי ליטע אלא לזריעה ונטעה הוא נוטל כל דינו כאילו עשוי ליטע כדין היורד ברשות דאילו יורד שלא ברשות שמין לו וידו על התחתונה דאם השבח יתר על היציאה נוטל את היציאה ואם היציאה יתר על השבח נוטל יציאה שיעור שבח כדאמר בב\"מ בהשואל <span class=\"parenthesized\">(דף קא.)</span> היורד לתוך שדה חבירו ונטעה שלא ברשות אמר רב שמין לו וידו על התחתונה ושמואל אומר אומדין כמה אדם רוצה ליתן על שדה זו ליטע וא\"ר פפא לא פליגי כאן בשדה העשויה ליטע כאן בשדה שאינה עשויה ליטע והכא חשיב להאי שותף כיורד ברשות והלכך שקיל בשדה שאינה עשויה ליטע כשדה העשויה ליטע ואי הוה אמר שמואל שותף אין לו חזקה הוה אמינא דידו על התחתונה הואיל ובלא רשות חבירו ירד:",
+              "ref": "Rashbam on Bava Batra 42b:6:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ב ב:ו:א",
+              "sourceRef": "Rashbam on Bava Batra 42b:6:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When does the above apply? When a husband divorces his wife [under ordinary circumstances]. [Different rules apply regarding] a woman who rebels against her husband [and denies him intimacy]. Even if he derived much benefit, the benefit that he derives should be evaluated and subtracted from the amount fit to be given him for the expenses he undertook. After he takes an oath [affirming his claim], he is entitled to collect it. For he did not [incur these expenses on behalf of his wife] so that she would take them and leave him on her own accord.<br>Similarly, [different rules apply when] a man undertakes expenses [to develop] property belonging to his wife who is below the age of majority, and she dissolves the marriage through the right of <i>mi'un</i>. We evaluate the amount of benefit he received, the amount of his expenses, the extent of the property's increment - and then he is given the share usually allocated to a sharecropper.[This consideration is taken] because he had permission to work [his wife's property].",
+                      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים בִּמְגָרֵשׁ אֲבָל הָאִשָּׁה שֶׁמָּרְדָה עַל בַּעְלָהּ אֲפִלּוּ אָכַל הַרְבֵּה שָׁמִין לוֹ כַּמָּה אָכַל וּפוֹחֵת אוֹתוֹ מִמַּה שֶּׁרָאוּי לִתֵּן לוֹ מִן הַהוֹצָאָה אַחַר שֶׁיִּשָּׁבַע וְנוֹטְלוֹ. שֶׁלֹּא הִקְנָה לָהּ כְּדֵי שֶׁתִּטּל וְתֵצֵא מֵעַצְמָהּ. וְכֵן הַמּוֹצִיא הוֹצָאוֹת עַל נִכְסֵי אִשְׁתּוֹ קְטַנָּה וּמֵאֲנָה בּוֹ רוֹאִין כַּמָּה אָכַל וְכַמָּה הוֹצִיא וְכַמָּה הִשְׁבִּיחַ וְשָׁמִין לוֹ כְּאָרִיס שֶׁהֲרֵי בִּרְשׁוּת יָרַד:",
+                      "ref": "Mishneh Torah, Marriage 23:10",
+                      "sourceHeRef": "הלכות אישות כג:י",
+                      "sourceRef": "Marriage 23:10"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "A man who paid expenses for [the upkeep of] melog properties of his minor wife, and she subsequently annulled the marriage, we see how much he profited from the usufruct and how much he spent, and how much the property increased in value, and we assess like a sharecropper (who gives the owner a percentage of the crop), for he had permission to use the property. If he wants to take the increase in value in return for the expenses, we listen to him. If he spent only a little and \"ate\" (received) much usufruct, what he ate he ate (i.e. the produce received is his compensation).",
+                      "he": "המוציא הוצאות על נכסי מלוג של אשתו קטנה ומיאנה בו רואין כמה אכל וכמה הוציא וכמה השביח ושמין לו כאריס שהרי ברשות ירד ואם הוא רוצה ליטול הוצאה שיעור שבח שומעין לו ואם הוציא קימעא ואכל הרבה מה שאכל אכל:",
+                      "ref": "Shulchan Arukh, Even HaEzer 88:10",
+                      "sourceHeRef": "אבן העזר פח:י - כל היוצאת מתחת בעלה במיתה או בגט או במיאון נוטלת נכסים",
+                      "sourceRef": "Even HaEzer 88:10"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "בעל בנכסי מלוג אשתו קטנה והשותף בשדה שיש לו חלק בה כיורד ברשות הן ושמין להם וידם על העליונה <span class=\"hebrew-emphasis\">(וע\"ל ס\"ס קע\"ח וס\"ס ת\"ד)</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 375:5",
+              "sourceHeRef": "חושן משפט שעה:ה - היורד לשדה חבירו או לתוך חורבתו ונטעו או בנאו",
+              "sourceRef": "Choshen Mishpat 375:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב נחמן אמר רבה בר אבוה: לומר</b> שאם עשה דברים מדעת עצמו בשדה השותפות, כגון שנטע וגידל עצי פרי שם <b>שנוטל בשבח המגיע לכתפים</b> גם מחלק חבירו, שכל הגידולים שגידל באדמה זו, אם הגיעו לדרגה שהם בשלים ואפשר לקחת אותם על הכתפיים, מקבל את חלקו בהם. ואינו נדון בשדה זו כמי שירד לשדה שלא ברשות בעל הבית, שידו על התחתונה ואינו מקבל יותר מהוצאותיו. ודין זה חל <b>בשדה שאינה עשויה ליטע</b> במטעים, אלא לזריעה, והוא בכל זאת נטע בה, <b>כ</b>מו ב<b>שדה העשויה ליטע.</b>",
+              "ref": "Steinsaltz on Bava Batra 42b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ב ב:ו",
+              "sourceRef": "Steinsaltz on Bava Batra 42b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "One who enhances another’s property without his consent collects only the sum of his expenditures. By contrast, a partner who enhances co-owned property without his partner’s consent is considered to have acted with consent, like a sharecropper. He is therefore entitled to half of the profits. This includes enhanced produce that reaches the stage when it is harvested and given to workers to carry on their shoulders (see Ramban). Rabbeinu Ĥananel holds that the partnership affects the <i>halakha </i>in the opposite way, that the other partner is entitled to half the value of the enhancement, despite the fact that the first partner brought about the enhancement through his efforts.",
+              "he": "בפירושו של ביטוי זה יש שתי שיטות עיקריות. הרבה מן הראשונים מפרשים שהכוונה היא לגמר הפירות, שהפירות כבר בשלים ואינם צריכים אלא להיקטף ולהינשא על כתפיים להוציאם משם (רש\"י במקומות אחרים, רגמ\"ה, רשב\"ם, רמ\"ה ועוד). ויש מפרשים כי משמעות הביטוי היא: שבח (רווח, תוספת ערך) שהגיעה מחמת עבודה בכתפיים, בניגוד לרווחים הבאים מאליהם בלא עמל (ר\"ת ועוד). ומדברי הר\"ח משמע שהוא מפרש בשני האופנים יחד.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 42b:6",
+              "sourceHeRef": "נוֹטֵל בְּשֶׁבַח",
+              "sourceRef": "Collects the enhancement"
+            },
+            {
+              "en": "There are two basic interpretations of this term. The first is that it is referring to produce that is fully grown and ready to be removed on laborers’ shoulders (Rashi <i>Bava Kamma</i> 95b); Rabbeinu Gershom Meor HaGola; Rashbam; Ramah). Others explain it to refer to an enhancement that is the result of using one’s shoulders, i.e., the result of manual labor, rather than an improvement to the land that occurs naturally (Rabbeinu Tam and other commentaries). It seems that Rabbeinu Ĥananel incorporates elements of both interpretations.",
+              "he": "כלומר השותף שירד ותיקן דברים בשדה השותפות, אף שלא עשה זאת מדעת חבירו, מכל מקום נחשב כאילו עשה ברשות, כאריס. ולכן מקבל מחצית מכל הרווחים, ובכלל זה \"שבח המגיע לכתפים\", ואין אומרים שידו על התחתונה ויקבל רק דמי הוצאותיו (וראה ברמב\"ן שתי אפשרויות פירוש הפוכות בענין זה). והר\"ח מפרש לצד האחר, שהשותף האחר מקבל חלק מכל תנובת השדה גם זו שהבשילה ועומדת להיקצר, ואפילו מדברים שבאו מחמת עמלו של שותפו. שכיון שהם שותפים — לשניהם יש זכות שווה בכל הרווחים. ולכן מן הצד השני — נוטל היורד כשדה העשויה ליטע וכו' (רשב\"א).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 42b:6",
+              "sourceHeRef": "שְׁבָח הַמַּגִּיעַ לִכְתֵפַיִם",
+              "sourceRef": "Enhancement that reaches shoulders"
+            },
+            {
+              "en": "Generally, when one plants trees in another’s field without his consent, and it is a field that is not commonly used for planting trees, the one who planted the trees is at a disadvantage, and he is entitled to only his expenditures or the enhancement, whichever is worth less. If it is land that is commonly used for planting trees, he is entitled to the standard wages for such planting. <i>Tosafot </i>explain that he does not receive a share of the produce, even as a hired worker would, but rather is paid like a contractor. By contrast, one who planted with the owner’s consent receives a share in all of the profits. Shmuel holds that a partner is considered to have implicit consent to plant produce, even when he planted in a field that was not commonly used for planting.",
+              "he": "בכלל, היורד לשדה חבירו שלא ברשות ונטע שם עצים, אם היתה זו שדה שאינה עשויה לנטיעה — ידו על התחתונה, ומשלם לו בעל השדה את הוצאותיו או את הרווחים, לפי הסכום הפחות ביניהם. ואם היתה זו שדה העשויה לנטיעות — משלם לו כפי שמשלמים למי שנוטע עצים עבור חבירו (ובתוס' מסבירים שאינו מקבל חלק בפירות, ואף לא כשכיר, אלא מקבל שכר כקבלן לנטיעה). וחלוקה זו היא ביורד שלא ברשות, אבל היורד ברשות — מקבל חלק בכל הרווחים. ואמר שמואל ששותף אף שירד שלא ברשות — נחשב כמי שעשה ברשות, ואף בשדה שאינה עשויה ליטע. אמנם רא\"ה פירש שאף במקרה שלנו, אם היו הוצאותיו יתירות על השבח שהשביח — לא יקבל יותר מן השבח.",
+              "ref": "Steinsaltz comment #3 on Bava Batra 42b:6",
+              "sourceHeRef": "בְּשָׂדֶה שֶׁאֵינָהּ עֲשׂוּיָה לִיטַּע",
+              "sourceRef": "In a field that is not commonly used for planting trees"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>שבח המגיע לכתפים—The improvement that reaches the shoulders</b><br><br>O<small>VERVIEW</small><br>The גמרא concluded that when שמואל stated that a שותף is כיורד ברשות דמי he meant to say that he receives the שבח המגיע לכתפים in a field which is not intended for planting trees, just as he would receive it in a field that is intended for planting trees. There are two interpretations as to the meaning of שבח המגיע לכתפים.<br>-------------------------------<br><b>מפרש רש\"י בכמה מקומות וכן רבינו שמואל דמגיע לכתפים כגון ענבים הראויין ליבצר –<br>רש\"י explains in many places and similarly the רש</b>ב\"ם here <b>that</b> שבח <b>המגיע לכתפים is for instance grapes which are fit to be harvested –</b><br>תוספות asks:<br><b>וקשה דאמרינן בפרק קמא דבבא מציעא (דף טו,ב) –<br>And there is a difficulty</b> with the aforementioned explanation, <b>for</b> the גמרא <b>states in the first פרק of</b> מסכת <b>ב\"מ –<br>והא מעשים בכל יום וקא מגבי שמואל לבעל חוב בשבח המגיע לכתפים –<br>But it happens every day where שמואל allows a creditor to collect from the שבח המגיע לכתפים –<br>ואי סלקא דעתך היינו ענבים הראוים ליבצר אם כן בעל חוב לא גבי מינייהו –<br>And if we are to assume</b> that שבח המגיע לכתפים <b>means grapes which are ready to be harvested</b> (like רש\"י)<b>, if indeed it is so, the lender cannot collect from them –<br>כדאמר בכתובות פרק נערה (דף נ,ב) אמר ליה זיל הב ליה מתמרי דעל בודיא –<br>As</b> the גמרא <b>relates in</b> מסכת <b>כתובות in פרק נערה;</b> רב יוסף <b>said to</b> the sons, <b>give her from the dates which are on the mats –<br>אמר ליה לא יהא אלא בעל חוב דחזו לבודיא קאמינא –<br>[אביי] said</b> to רב יוסף, ‘<b>let them</b> even be <b>considered as a creditor’;</b> could he collect from the מטלטלין of יתומים, so how can the daughter (who is weaker than a מלוה) collect from the מטלטלין of the יתומים? רב יוסף replied, ‘<b>I meant from</b> the dates which are ready to be harvested and <b>fit to be</b> placed <b>on the mat’</b>. However, אביי persisted –<br><b>סוף סוף כל העומד ליגדר כגדור דמי דצריכי לדקלא קאמינא –</b><br><b>‘Nonetheless</b> since they are ripe and ready to be harvested we have the rule, <b>whatever is ready to be harvested is like it was</b> already <b>harvested’,</b> so it is still considered מטלטלין; to which רב יוסף replied, ‘<b>I meant</b> only those dates <b>which still need to</b> be on <b>the tree’;</b> they are not ripe yet, so they are considered as קרקע –<br><b>אלמא לא גבי מאותם העומדים ליגדר –<br>It is evident that</b> even a מלוה <b>cannot collect from those</b> fruits <b>which are ready to be harvested.</b> How can we understand פרש\"י?!<br>תוספות dismisses this question on רש\"י:<br><b>ולאו פירכא היא דהא רש\"י נמי לא בעי למימר מאותן העומדים ליבצר מיד –<br>And this is no refutation</b> of פרש\"י<b>, for even רש\"י did not mean to say</b> that המגיע לכתפים <b>are</b> (only) <b>those</b> fruits <b>which are ready to be harvested immediately,</b> for they are certainly not considered קרקע –<br><b>אלא כלומר כל דבר שסופו ליתלש כגון פגין או בוסר –<br>Rather</b> רש\"י meant <b>anything which will eventually be harvested, for instance unripe figs or grapes</b> is (also) called שבח המגיע לכתפים. It is self-understood that in our גמרא the שבח המגיע לכתפים which the שותף takes are the ripe foods. שבת המגיע לכתפים therefore generally means all produce that grows; ripe or unripe.<br>תוספות offers an alternate explanation of שבח המגיע לכתפים:<br><b>ורבינו תם מפרש מגיע לכתפים היינו דבר שבא על ידי טורח –</b><br><b>And the ר\"ת explains that מגיע לכתפים means</b> an improvement <b>that comes about through toil,</b> but not an improvement where it improved on its own without toil –<br><b>ומייתי ראיה מהא דתנן בסוף יש נוחלין (לקמן דף קלד,א) האומר זה אחי אינו נאמן –<br>And</b> the ר\"ת <b>brings proof</b> to his explanation <b>from the משנה in the end of</b> פרק <b>יש נוחלין; one</b> (ראובן) <b>who says, ‘this</b> (לוי) <b>is my brother’, he is not believed</b> so that the newcomer (לוי) should inherit equally with his other brothers –<br><b>ויטול עמו בחלקו מת יחזירו נכסים למקומם נפלו לו נכסים ממקום אחר יירשו אחיו עמו –<br>But rather</b> לוי <b>takes</b> a partial share <b>with</b> ראובן. If לוי <b>dies his property is returned to its place</b> (to ראובן). If לוי <b>inherited property from elsewhere</b> (not from his father)<b>,</b> and he died, all <b>his brothers inherit from him.</b> This concludes the משנה <b>–<br>ובעי רבא (שם קלה,ב) שבח ששבחו נכסים מאליהם מהו –<br>And רבא queried; what is the ruling regarding an improvement that the properties</b> (which לוי initially received from his father) <b>improved on their own.</b> The גמרא clarifies the query <b>–<br>בשבח המגיע לכתפים לא תבעי לך דכי נפלו ממקום אחר דמי –<br>If it was שבח המגיע לכתפים there is no query, for it is like</b> the case <b>where he received assets from elsewhere,</b> where the rule is that all the brothers inherit him –<br><b>כי תיבעי לך בשבח שאינו מגיע לכתפים כגון דקלא ואלים ארעא ומסקא שרטון –<br>When should you query, in</b> a case of <b>שבח שאינו מגיע לכתפים, for instance, the tree</b> in the field <b>became thicker, or a land on which a river deposited soil</b> making it more fertile. In any event –<br><b>משמע שבח שאינו מגיע לכתפים היינו בא מאליו –<br>It seems that שבח שאינו מגיע לכתפים means that it came by itself,</b> and by implication שבח המגיע לכתפים would mean that it came through one’s toil, as the ר\"ת explained.<br>תוספות negates this proof and argues that on the contrary it disproves the ר\"ת:<br><b>ולרבינו אלחנן נראה דאדרבה משם קשה לרבינו תם דלמה שינה בלשון –<br>However it appears to ר\"א the opposite; that</b> the גמרא <b>there poses a difficulty for the ר\"ת; for why did</b> the גמרא<b>change its language,</b> meaning –<br><b>דמעיקרא קאמר נכסים ששבחו מאליהם מהו –<br>That initially</b> רבא <b>stated, ‘what is</b> the rule<b></b> regarding <b>נכסים ששבחו מאליהם’ –<br>ובתר הכי קאמר כי תיבעי לך בשבח שאין מגיע לכתפים –<br>And afterwards</b> the גמרא changes <b>and says, ‘you should query regarding שבח שאין מגיע לכתפים’;</b> and if they are the same thing –<br><b>דמעיקרא נמי הוה ליה למימר שבח שאין מגיע לכתפים –<br>Initially</b> רבא <b>should have asked</b> regarding <b>שבח שאין מגיע לכתפים,</b> the fact that he did not use the same language as the גמרא uses later, indicates that they are not the same –<br><b>אלא משמע דשבח המגיע לכתפים נמי הוי נכסים ששבחו מאליהם –<br>Rather it seems that שבח המגיע לכתפים is also</b> considered <b>נכסים ששבחו מאליהם –</b><br>תוספות has an additional difficulty with פי' ר\"ת:<br><b>ועוד קשה לרבינו תם אמאי קאמר כגון דקלא ואלים הוי ליה למימר כגון פירות הבאות מאליהם –<br>And there is an additional difficulty with</b> the explanation of the <b>ר\"ת</b> (who maintains that שבח המגיע לכתפים means profit from work and שבח שאינו מגיע לכתפים means שבח which comes by itself without work); <b>why does</b> the גמרא <b>state</b> (in פרק יש נוחלין) that a שבח שאינו מגיע לכתפים is <b>for instance a tree which became larger,</b> the גמרא <b>should have said, for instance fruits which grow on their own</b> without additional work –<br>תוספות clarifies פרש\"י:<br><b>ואומר רבינו שמשון בן אברהם דאין תימה לפירוש רש\"י דשבח המגיע לכתפים היינו פירות –<br>And the רשב\"א says that one cannot wonder</b> and ask <b>according to פרש\"י that שבח המגיע לכתפים refers to פירות;</b> if so –<br><b>אמאי חשיב להו כנכסים שנפלו לו ממקום אחר ויטלו אחיו עמו –<br>Why does</b> the גמרא in ב\"ב <b>consider them like assets which he received from elsewhere, and</b> so therefore all <b>the brothers can share in it –</b><br><b>הלא גם להם יש פירות בארצם שהיתה כנגד זו –<br>Is it not so that they also have fruits in their land corresponding to</b> the fruits which grew on sלוי' land –<br>The רשב\"א explains, why there is no difficulty לפרש\"י:<br><b>דהא מבעי ליה בדקלא ואלים ארעא ומסקא שרטון אי חשיב כנפלו לו נכסים ממקום אחר –<br>For</b> we see <b>that</b> רבא there in ב\"ב <b>queried regarding a tree which became larger, and land upon which</b> a river placed new <b>topsoil, whether they are considered as נכסים הבאים ממקום אחר</b> (and the brothers should share), so if (even) by דקלא ואלים וכו' there is a סברא that it should be considered like נכסים שנפלו לו ממקום אחר, then –<br><b>כל שכן פירות דאית לן לאחשובינהו טפי כנפלו לו ממקום אחר –<br>Surely</b> regarding <b>פירות</b> which grew on the property <b>that we should consider it even more like</b> נכסים <b>שנפלו לו ממקום אחר –</b><br>תוספות proves this point that פירות are considered more ממקום אחר than דקלא ואלים:<br><b>כדמוכח גבי בכור (לקמן דף קכד,א) דפליגי רבי ורבנן בחפירה והוו שיבלי (שלחופי) והוו תמרי –<br>As is evident later regarding a firstborn, where רבי and the רבנן argue</b> in a case where <b>fodder became sheaves of grain, or date trees which produced dates;</b> the issue there is –<br><b>אי בכור נוטל פי שנים אי לא ואפילו הכי מודו בדקלא ואלים וארעא ומסקא שרטון דשקיל –<br>Whether the בכור takes a double</b> portion of the grown produce <b>or not, but nevertheless all agree regarding דקלא ואלים וארעא ומסקא שרטון that he takes</b> a double portion in the improved assets –<br><b>אלמא חשבינן פירות טפי בנפלו לאחר מכן מדקלא ואלים –<br>It is evident</b> from that גמרא that <b>we consider fruits to be more</b> in the category of <b>נפלו לאחר מכן than דיקלא ואלים –<br>ומצינן למימר שפיר שיטלו אחיו בפירות –<br>And so therefore we can properly assume that the brothers</b> (ראובן ושמעון) <b>should share</b> equally in the פירות of לוי –<br>תוספות now resolves logically the ואין תימה mentioned previously:<br><b>ואף על פי שגם לקחו נגדם בחלקם דהם טרחו והם אכלו –<br>And even though that they</b> (the brothers -שמעון) <b>also took a corresponding</b> share of פירות <b>in their portion,</b> nevertheless they all share in sלוי' fruits, <b>since</b> regarding their פירות, <b>they toiled and they ate</b> the work of their toil –<br><b>אבל מה שהמת טרח למה לא יקחו בטורח המת כמותו וכתלושים חשיבי –<br>However regarding what the deceased</b> brother לוי <b>toiled, why should they not receive the toil of the deceased like him</b> (ראובן). <b>And</b> the פירות <b>should be considered as if they were detached</b> (harvested) –<br><b>ואי תלשם ואחר כך מת זה דבר פשוט שיטלו עמו –<br>And it is obvious that if</b> לוי <b>harvested</b> the פירות <b>and died afterwards that</b> שמעון <b>would share with</b> ראובן.<br>תוספות asks on פרש\"י:<br><b>ומיהו קשה לפירוש הקונטרס למה הוצרך כאן להאריך ולומר בשבח המגיע לכתפים –<br>However, there is a difficulty with פרש\"י, why was it necessary here to elaborate and say that</b> שותף כיורד ברשות דמי means <b>that he takes בשבח המגיע לכתפים –<br>דהיינו פירות שבכל שנה ושנה כדין אריס –<br>Which means</b> that the שותף receives <b>the fruits of each year, like the rule by a sharecropper;</b> why mention שבח המגיע לכתפים –<br><b>לא היה לו לומר אלא שנוטל בשדה שאינה עשויה ליטע כשדה העשויה ליטע –<br>Rather he should have only said that he takes</b> his share <b>in a field which is not intended for planting</b> trees <b>just as</b> he takes his share <b>in a field which is intended for planting</b> trees –<br><b>דהיינו כדין אריס -</b><br><b>Which</b> (the amount he receives in a שדה העשויה ליטע) <b>is the rule concerning an אריס,</b> therefore in our case by a שותף it makes no difference whether it is a שדה העשויה ליטע or not, he takes his allocated share like an אריס in both cases. תוספות proves that one who plants without permission, a field that is עשויה ליטע, he receives payment like an אריס –<br><b>דיורד שלא ברשות שקיל בשדה העשויה ליטע כדין אריס –<br>For a יורד שלא ברשות takes</b> payment <b>in a שדה העשויה ליטע like an אריס –<br>כדאמר בהשואל (בבא מציעא דף קא,א) היורד לתוך שדה חבירו שלא ברשות כולי –<br>As</b> the גמרא <b>states in</b> פרק <b>השואל, one who is יורד לתוך שדה חבירו שלא ברשות, etc. –<br>ומסיק דבשדה העשויה ליטע אומדים כמה אדם רוצה ליתן בשדה זו ולנוטעה –<br>And</b> the גמרא <b>concludes</b> regarding היורד שלא ברשות <b>that by a שדה העשויה ליטע we assess how much a person is willing to pay in order to plant</b> trees <b>in this field –<br>ופרש\"י דהיינו כדין אריסי העיר –<br>And רש\"י explained</b> there <b>that this means</b> that he is paid <b>like the rate of the sharecroppers of that city –<br>אבל לפירוש רבינו תם אתי שפיר דהכי פירושו שנוטל דוקא בשבח המגיע לכתפים –<br>However according to the פר\"ת it is properly understood</b> why he mentions שבח המגיע לכתפים, <b>for this is the explanation</b> in the גמרא <b>that it is only by שבח המגיע לכתפים that he receives</b> בשדה שאין עשוי ליטע כשדה העשויה ליטע –<br><b>דהיינו בא על ידי טורח בשדה שאין עשויה ליטע כשדה העשויה ליטע כדין אריס –<br>Meaning</b> the improvement <b>that come through his toil,</b> only then does he receive the שבח <b>like an אריס,</b> <b>by a שדה שאין עשויה ליטע כשדה העשויה ליטע</b><br><b>אבל באין מגיע לכתפים לא יטול כדין אריס –<br>However</b> if it is a שבח <b>which is not מגיע לכתפים</b> (but it comes by itself), so then <b>he will not take like an אריס –</b><br>תוספות anticipates a difficulty on פר\"ת:<br><b>ואף על גב (דאדם) נוטל בשבח דאתי מעלמא ממילא כדמשמע בפרק מי שאחזו (גיטין דף עד,ב) –<br>And even though that an אריס receives</b> his share <b>from improvements that come on their own from elsewhere, as is indicated in פרק מי שאחזו,</b> so since here we treat the שותף like an אריס, why should he not receive from שבח דאתא ממילא?!<br>תוספות responds that nevertheless –<br><b>הכא שיורד שלא ברשות סבר גמרא דאין לו ליטול בשבח הבא מאליו כדין אריס –<br>Here where he was יורד שלא ברשות, the גמרא assumes that he should not take from the שבח הבא מאליו like an אריס,</b> for an אריס is יורד ברשות<b>.</b><br>תוספות asks (on פר\"ת):<br><b>ומכל מקום קשה דבכל מקום גרס ובשדה (שאינו שלו) בוי\"ו –<br>But nonetheless there is a difficulty</b> (according to פר\"ת), <b>for everywhere the text reads ובשדה שאין עשוי ליטע with a וי\"ו</b> preceding the word שדה –<br><b>ולפירוש זה הוה ליה למימר בשדה בלא וי\"ו כיון דחדא מילתא היא –<br>However according to פי'</b> ר\"ת <b>it should read בשדה without a וי\"ו</b> preceding, <b>since it is one matter;</b> he collects the שבח המגיע לכתפים by a שדה שאין עשויה ליטע וכו' <b>–</b><br>תוספות resolves a previous difficulty on פרש\"י:<br><b>ויש ליישב פירוש הקונטרס ונפרש ההיא דהשואל כמה אדם רוצה ליתן בשדה זו ולנוטעה –<br>And we can justify פרש\"י</b> and explain why the גמרא states שבח המגיע לכתפים, <b>by explaining that</b> גמרא <b>in</b> פרק <b>השואל</b>,<b></b> which states regarding היורד שלא ברשות בשדה העשויה ליטע, that we assess <b>how much is a person willing to give for this field</b> in order <b>to plant</b> trees in it; that this assessment –<br><b>דלאו היינו כדין אריס דלאריס נותנין יותר למחצה ולשליש כי עוסק בה לתקנה כמה צרכים –<br>Is not like the rule of an אריס, for an אריס we give</b> even <b>more</b>; we pay him <b>half or a third</b> of the produce, <b>since he works there</b> continually <b>to improve many</b> things <b>which are necessary,</b> and that is not what is meant by כמה אדם רוצה ליתן בשדה זו ולנוטעה –<br><b>אלא הכי פירושו כמה אדם רוצה ליתן לקבלן ליטע שדה זו ולא ירד בה לאריסות –<br>But rather this is the explanation</b> of כמה אדם וכו', that is <b>how much will a person be willing to give to a contractor</b> <b>to plant</b> trees <b>in this field, but will not enter into it as an אריס,</b> who remains continually in the field כי עוסק בה לתקנה כמה צריכים, and who receives his payment after the field produces –<br><b>אלא מיד נוטל שכרו ונוטל יותר משכיר יום כי שכיר יום אין עליו לתקן אם יתקלקל –<br>But rather the</b> קבלן <b>receives his payment immediately,</b> but does not remain in the field like an אריס<b>. However he receives more than a day laborer, for a שכיר יום has no obligation to repair if it is ruined,</b> but the קבלן must stand behind his work and is responsible to repair any problems –<br><b>והכי קאמר שנוטל בשבח המגיע לכתפים כאריס שלא יסתלקו אותו כמו קבלן –<br>And this is what</b> the גמרא means here, the שותף <b>takes in the שבח המגיע לכתפים</b> (meaning the fruits) <b>like an אריס</b> (למחצה ולשליש), who receives his payment when the fruit is grown (מגיע לכתפים), <b>for they cannot remove him</b> and pay him <b>like a קבלן –<br>כמו שעושין לנוטע שלא ברשות שמסלקין אותו בכך אפילו משדה העשויה ליטע –<br>As we do to one who is נוטע שלא ברשות that we remove him</b> from the field <b>with this</b> payment as a קבלן, <b>even if it is a שדה העשויה ליטע;</b> however this שותף remains as an אריס. This is the explanation of שנוטל שבח המגיע לכתפים, where we are discussing a שדה העשויה ליטע. The גמרא then continues, additionally –<br><b>ובשדה שאין עשויה ליטע כולי פירוש ועוד שגם בשדה שאין עשויה ליטע –<br>And by a שדה שאין עשוי ליטע, etc., meaning that additionally that even by a שדה שאין עשויה ליטע –<br>נוטל כמו בעשויה ליטע מה שאין כן בנוטע שלא ברשות:</b><br>The שותף <b>takes like by a</b> שדה <b>העשויה ליטע, which is not the case by a יורד שלא ברשות.</b> The second ruling is that the first ruling by a שדה העשויה ליטע that he is treated like an אריס applies even to a שדה שאין עשויה ליטע.<br><br>S<small>UMMARY</small><br>According to רש\"י the meaning of שבח המגיע לכתפים are fruits that ripen (which can be carried away on the shoulder), however according to the ר\"ת it refers to any improvement that came through toil.<br><br>T<small>HINKING IT OVER</small><br><b>תוספות</b> asked on <b>פרש\"י</b> why does it need to say <b>שבח המגיע לכתפים</b>; it should have only said <b>נוטל בשדה שאין עשויה ליטע כשדה העשוי ליטע</b> (which means <b>כאריס</b>). Why did not <b>תוספות</b> simply ask, it should have said <b>נוטל בשדה שאין עשויה ליטע</b> כאריס, without mentioning <b>שדה העשויה ליטע</b>?!",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 42b:6:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> שבח המגיע כו' וע\"ק לר\"ת כו' הל\"ל כגון פירות הבאות מאליהן כו' עכ\"ל ממה שכתבו שם בשם רשב\"א דאין תימה לפי' רש\"י כו' אמאי חשיב להו בנכסים כו' הלא גם להן יש פירות כו' משמע דלפר\"ת לא קשיא להו מידי דפשיטא דאיכא למימר דקושטא הוא דלא חשיב להו בנכסים שנפלו לו ממקום אחר ואם כן מאי קשיא להו הכא דהל\"ל כגון פירות הבאות מאליהם כיון דבפירות פשיטא להו לפר\"ת דלא הוו כנכסים שנפלו לו ממקום אחר ויש ליישב דבעיקר קושייתם הכא לפר\"ת סמכו עצמם לפי מה שהוכיח רשב\"א לקמן דאי בדיקלא ואלים כו' חשיב כנכסים שנפלו לו ממקום אחר מכ\"ש בפירות דאית לן לאחשבינהו כנפלו לו ממקום אחר וא\"כ למאי דמבעיא לן לפר\"ת בדיקלא ואלים כו' ה\"ל למבעי הכי בפירות ודו\"ק:",
+                      "ref": "Chidushei Halachot on Bava Batra 42b:2",
+                      "sourceHeRef": "חדושי הלכות על בבא בתרא מ״ב ב:ב",
+                      "sourceRef": "Chidushei Halachot on Bava Batra 42b:2"
+                    }
+                  ]
+                },
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בא\"ד</b> ואומר רשב\"א דאין תימה לפירוש רש\"י כו' אמאי חשיב להו וכו' הלא גם להם יש פירות בארצם וכו'. נראה דהוי כאילו הן ב' תמיהות אחד דאמאי חשיב לפירות כמו נכסים שנפלו ממקום אחר הלא הן באים מאליהן מהקרקע כן נראה מדברי הישוב שמיישב התמיהה דהא מיבעיא ליה בדיקלא ואלים כ\"ש פירות דאית לאחשבינהו טפי וכו' כדמוכח גבי בכור דפליגי רבי ורבנן וכו' ומסיים ומצינו למימר שפיר שיטלו אחיו בפירות וכו' וק\"ל. אלא שמה דקאמר ואע\"פ שגם אחיו לקחו נגדם <span class=\"parenthesized\">(חסר)</span>:",
+                      "ref": "Maharam on Bava Batra 42b:5",
+                      "sourceHeRef": "מהר\"ם על בבא בתרא מ״ב ב:ה",
+                      "sourceRef": "Maharam on Bava Batra 42b:5"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>בא\"ד</b> אבל לפר\"ת א\"ש דה\"פ שנוטל דוקא בשבח המגיע לכתפים וכו'. מקשין העולם הא לפירוש רש\"י נמי יש ליישב סוגיא דהכא מפ' יש נוחלין שהביאו התוס' לעיל משמע דפירות חשובים טפי שבח הבא מעלמא יותר מדיקלא ואלים וכו' דדקלא ואלים הוי שבח הכא מאליו ממש וא\"כ יש לישב סוגיא דהכא דה\"ק שנוטל דוקא בשבח המגיע לכתפים דהיינו פירות כפירוש <span class=\"rashi-quotation\">הקונטרס</span> בזה נוטל דוקא בשדה שאינה עשויה ליטע כשדה העשויה ליטע כדין אריס אבל באין מגיע לכתפים דהיינו דיקלא ואלים וכו' אינו נוטל כדין אריס אבל לי נראה דאין זו קושיא כלל דאין לפרש סוגיא דהכא הכי משום דסבירא ליה לגמ' דאפי' אריס גמור אינו נוטל בשבח דיקלא ואלים וכן דייקא לישנא דהתוס' דקאמר ואע\"ג דאריס נוטל בשבח דאתי מעלמא ממילא וכו' משמע אבל בשבח דאתי ממילא ולא מעלמא כמו דיקלא ואלים אין אריס נוטל:",
+                      "ref": "Maharam on Bava Batra 42b:6",
+                      "sourceHeRef": "מהר\"ם על בבא בתרא מ״ב ב:ו",
+                      "sourceRef": "Maharam on Bava Batra 42b:6"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שבח המגיע לכתפים</strong> - מפרש רש\"י בכמה מקומות וכן רבינו שמואל דמגיע לכתפים כגון ענבים הראויין ליבצר וקשה דאמרי' בפ\"ק דב\"מ <span class=\"parenthesized\">(דף טו:)</span> והא מעשים בכל יום וקא מגבי שמואל לבעל חוב בשבח המגיע לכתפים ואי ס\"ד היינו ענבים הראוים ליבצר א\"כ בעל חוב לא גבי מינייהו כדאמר בכתובות פ' נערה <span class=\"parenthesized\">(כתובות דף נ:)</span> אמר ליה זיל הב ליה מתמרי דעל בודיא אמר ליה לא יהא אלא בעל חוב דחזו לבודיא קאמינא סוף סוף כל העומד ליגדר כגדור דמי דצריכי לדקלא קאמינא אלמא לא גבי מאותם העומדים ליגדר ולאו פירכא היא דהא רש\"י נמי לא בעי למימר מאותן העומדים ליבצר מיד אלא כלומר כל דבר שסופו ליתלש כגון פגין או בוסר ור\"ת מפרש מגיע לכתפים היינו דבר שבא ע\"י טורח ומייתי ראיה מהא דתנן בסוף יש נוחלין <span class=\"parenthesized\">(לקמן בבא בתרא דף קלד.)</span> האומר זה אחי אינו נאמן ויטול עמו בחלקו מת יחזירו נכסים למקומם נפלו לו נכסים ממקום אחר יירשו אחיו עמו ובעי רבא <span class=\"parenthesized\">(שם קלה:)</span> שבח ששבחו נכסים מאליהם מהו בשבח המגיע לכתפים לא תבעי לך דכי נפלו ממקום אחר דמי כי תיבעי לך בשבח שאינו מגיע לכתפים כגון דקלא ואלים ארעא ומסקא שרטון משמע שבח שאינו מגיע לכתפים היינו בא מאליו ולר' אלחנן נראה דאדרבה משם קשה לר\"ת דלמה שינה בלשון דמעיקרא קאמר נכסים ששבחו מאליהם מהו ובתר הכי קאמר כי תיבעי לך בשבח שאין מגיע לכתפים דמעיקרא נמי הוה ליה למימר שבח שאין מגיע לכתפים אלא משמע דשבח המגיע לכתפים נמי הוי נכסים ששבחו מאליהם וע\"ק לר\"ת אמאי קאמר כגון דקלא ואלים ה\"ל למימר כגון פירות הבאות מאליהם ואומר רשב\"א דאין תימה לפי' רש\"י דשבח המגיע לכתפים היינו פירות אמאי חשיב להו כנכסים שנפלו לו ממקום אחר ויטלו אחיו עמו הלא גם להם יש פירות בארצם שהיתה כנגד זו דהא מבעי ליה בדקלא ואלים ארעא ומסקא שרטון אי חשיב כנפלו לו נכסים ממקום אחר כ\"ש פירות דאית לן לאחשובינהו טפי כנפלו לו ממקום אחר כדמוכח גבי בכור <span class=\"parenthesized\">(לקמן בבא בתרא דף קכד.)</span> דפליגי רבי ורבנן בחפירה והוו שיבלי <span class=\"parenthesized\">(שלחופי)</span> והוו תמרי אי בכור נוטל פי שנים אי לא ואפ\"ה מודו בדקלא ואלים וארעא ומסקא שרטון דשקיל אלמא חשבינן פירות טפי בנפלו לאחר מכן מדקלא ואלים ומצינן למימר שפיר שיטלו אחיו בפירות ואע\"פ שגם לקחו נגדם בחלקם דהם טרחו והם אכלו אבל מה שהמת טרח למה לא יקחו בטורח המת כמותו וכתלושים חשיבי ואי תלשם ואח\"כ מת זה דבר פשוט שיטלו עמו ומיהו קשה ל<span class=\"rashi-quotation\">פי' הקונט'</span> למה הוצרך כאן להאריך ולומר בשבח המגיע לכתפים דהיינו פירות שבכל שנה ושנה כדין אריס לא היה לו לומר אלא שנוטל בשדה שאינה עשויה ליטע כשדה העשויה ליטע דהיינו כדין אריס דיורד שלא ברשות שקיל בשדה העשויה ליטע כדין אריס כדאמר בהשואל <span class=\"parenthesized\">(ב\"מ דף קא.)</span> היורד לתוך שדה חבירו שלא ברשות כו' ומסיק דבשדה העשויה ליטע אומדים כמה אדם רוצה ליתן בשדה זו ולנוטעה ופרש\"י דהיינו כדין אריסי העיר אבל לפר\"ת אתי שפיר דה\"פ שנוטל דוקא בשבח המגיע לכתפים דהיינו בא ע\"י טורח בשדה שאין עשויה ליטע כשדה העשויה ליטע כדין אריס אבל באין מגיע לכתפים לא יטול כדין אריס ואף על גב <span class=\"parenthesized\">(דאדם)</span> נוטל בשבח דאתי מעלמא ממילא כדמשמע בפ' מי שאחזו <span class=\"parenthesized\">(גיטין דף עד:)</span> הכא שיורד שלא ברשות סבר גמרא דאין לו ליטול בשבח הבא מאליו כדין אריס ומ\"מ קשה דבכל מקום גרס ובשדה <span class=\"parenthesized\">(שאינו שלו)</span> בוי\"ו ולפירוש זה הוה ליה למימר בשדה בלא וי\"ו כיון דחדא מילתא היא ויש ליישב פ\"ה ונפרש ההיא דהשואל כמה אדם רוצה ליתן בשדה זו ולנוטעה דלאו היינו כדין אריס דלאריס נותנין יותר למחצה ולשליש כי עוסק בה לתקנה כמה צרכים אלא ה\"פ כמה אדם רוצה ליתן לקבלן ליטע שדה זו ולא ירד בה לאריסות אלא מיד נוטל שכרו ונוטל יותר משכיר יום כי שכיר יום אין עליו לתקן אם יתקלקל והכי קאמר שנוטל בשבח המגיע לכתפים כאריס שלא יסתלקו אותו כמו קבלן כמו שעושין לנוטע שלא ברשות שמסלקין אותו בכך אפי' משדה העשויה ליטע ובשדה שאין עשויה ליטע כו' פי' ועוד שגם בשדה שאין עשויה ליטע נוטל כמו בעשויה ליטע מה שאין כן בנוטע שלא ברשות:",
+              "ref": "Tosafot on Bava Batra 42b:6:1",
+              "sourceHeRef": "תוספות על בבא בתרא מ״ב ב:ו:א",
+              "sourceRef": "Tosafot on Bava Batra 42b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> says</b> that <b><span href=\"/topics/rabbah-b-avuha\" class=\"namedEntityLink\" data-slug=\"rabbah-b-avuha\">Rabba bar Avuh</span> says:</b> <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span>’s intent was <b>to state that</b> a partner who proactively works to improve their mutual property <b>collects</b> the <b>enhancement that reaches shoulders,</b> i.e., when the produce that grew due to the efforts of the partner is fully grown and ripened and can be harvested and carried upon one’s shoulders. He is not considered as one who entered another’s field without permission and improved it, who collects only for his expenditures. This is the <i>halakha</i> if he planted trees <b>in a field that is not commonly used for planting</b> trees, <b>just as</b> it is if he planted <b>in a field that is commonly used for planting</b> trees.",
+      "he": "אָמַר <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">רַב נַחְמָן</span> אָמַר <span href=\"/topics/rabbah-b-avuha\" class=\"namedEntityLink\" data-slug=\"rabbah-b-avuha\">רַבָּה בַּר אֲבוּהּ</span>: לוֹמַר שֶׁנּוֹטֵל בַּשֶּׁבַח הַמַּגִּיעַ לִכְתֵפַיִם – בְּשָׂדֶה שֶׁאֵינָהּ עֲשׂוּיָה לִיטַּע, כְּשָׂדֶה הָעֲשׂוּיָה לִיטַּע.",
+      "ref": "Bava Batra 42b:6"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following rules apply when a person raises a protest and seeks to expropriate land that is owned by two partners from the possession of one of the partners. The other partner may not testify on behalf of his partner concerning the land unless he withdraws from ownership of the land and undertakes an act of contract affirming that he gave his portion to his partner and committing himself to reimburse him for its value if his own creditor expropriates it from his partner. After undertaking such an agreement, he may testify concerning the field. Similar laws apply in all analogous situations.",
+              "he": "קַרְקַע שֶׁבֵּין שְׁנֵי שֻׁתָּפִין שֶׁבָּא מְעַרְעֵר לְהוֹצִיאָהּ מִתַּחַת יַד הַשֻׁתָּף. אֵינוֹ מֵעִיד לְשֻׁתָּפוֹ עָלֶיהָ אֶלָּא אִם סִלֵּק עַצְמוֹ מִמֶּנָּה וְקָנוּ מִיָּדוֹ שֶׁנְּתָנָהּ לַשֻּׁתָּף וְשֶׁאִם בָּא בַּעַל חוֹב שֶׁלּוֹ וּטְרָפָהּ מִיַּד הַשֻׁתָּף מְשַׁלֵּם לוֹ דָּמֶיהָ. וְאַחַר כָּךְ מֵעִיד לוֹ עָלֶיהָ. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Testimony 15:4",
+              "sourceHeRef": "הלכות עדות טו:ד",
+              "sourceRef": "Testimony 15:4"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר שמואל השותפים מחזיקים זה על זה ומעידין זה על זה ונעשים שומרי שכר זה לזה. מחזיקים זה על זה בדאית ביה דין חלוקה וקא נחית לכולה ואכיל לה שני חזקה ולא ממחי ביה שותפיה אבל אי לית בה דין חלוקה שותף אין לו חזקה. ומעידין זה על זה ואמאי נוגעין בעדותן הן הכא במאי עסקינן דכתב ליה דין ודברים אין לי על שדה זו וכי כתב לו מאי הוי והתניא האומר לחבירו דין ודברים אין לי על שדה זו ואין לי עסק בה וידי מסולקות הימנה לא אמר כלום הכא במאי עסקינן בשקנו מידו וכי קנו מידו מאי הוי הרי מעמידה בפני ב\"ח דאמר רבין בריה דשמואל המוכר שדה לחבירו שלא באחריות אין מעיד לו עליה מפני שמעמידה בפני ב\"ח הב\"ע דקביל עליה אחריות אחריות דמאן אילימא אחריות דעלמא כ\"ש דניחא ליה אלא אחריות דאתי ליה מחמתיה הלכך לאו נוגע בעדות הוא אמר שמואל שותף כיורד ברשות דמי למאי הלכתא אמר רב נחמן אמר רבה בר אבוה לומר שנוטל בשבח המגיע לכתפים ובשדה שאין עשויה ליטע כשדה העשויה ליטע:",
+              "ref": "Rosh on Bava Batra 3:39:2",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:לט:ב",
+              "sourceRef": "Rosh on Bava Batra 3:39:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף א' </b> בש\"ך ס\"ק א' נ\"ב הנה הש\"ך מפלפל אם נוגע כשר להעיד לחובה. והנה ראיתי בשו\"ת צמח צדק סימן ל\"ז שהאריך לפלפל בזה והביא דעות הראשונים בזה. וזה\"ל הצמח צדק שם בד\"ה אלא בתשו' הרא\"ש וכו'. דאלת\"ה קשה להבין דבריו כי הוא עצמו כתב בתשובה דסילוק מהני והיינו כשאין לו הנאה בעדותן וכו' עכ\"ל הצ\"צ. ואחרי המחילה מהדר גאונו לא דק בזה דמה ענין זה לזה הרי י\"ל אם עתה עדיין הוי נוגע ופסול אם היה מעיד לזכות שוב פסול אף לחובה דהוי בכלל עדות שבטלה מקצתה בטלה כולה. וכיון דבטל לזכות בטל אף לחובה. אבל אם מסלק נפשו אם כן מעתה כשר בין לזכות בין לחובה לכך מהני סילוק. ובעיקר הדבר היה נראה לי לחלק וליישב דברי הפוסקים דלא סתרי אהדדי כיון דזה ידוע דבדין אינו בגדר עד פסול. וכ\"כ האו\"ת ס\"ק א' וא\"כ י\"ל דהיכי דמהני סילוק כגון בפורע מס אז אין עליו תורת בע\"ד כיון דאפשר בסילוק ומ\"מ עד פסול הוי וכיון דיש לו חשש נגיעה אם אינו מסלק נפשו בזה שייך לומר עדות שבטלה מקנתה בטלה כולה ואינו נאמן אף לחובה אבל בדבר דל\"ש בי' סילוק וא\"כ א\"א לו להעיד לזכות שוב הוי כבע\"ד ואינו בגדר עד לכך ל\"ש לומר עדות שבטלה מקצתה בטלה כולה בזה כשר להעיד לחובה. והנה האו\"ת בס\"ק כ\"א הביא דברי תשובת הרא\"ש הנ\"צ ולא הביא דברי הצ\"ל שדוחה ראיותיו ומפרש כוונת הרא\"ש בע\"א וגם הנתיבות סק\"א לא הביא דבריו יעו\"ש והנלפע\"ד כתבתי. אמנם בעיקר פלפול הש\"ך אם נוגע כשר לחובה הבאתי בחיבורי מכבר הוכחה ממקר' מלא בפ' וילך ממ\"ש ואעיד' בם את השמים ואת הארץ מוכח דנוגע כשר לחובה דהרי לזכות אמרי' בפ\"ק דע\"ז דשמים וארץ נוגעין בעדותן הן ואעפ\"כ כשרים לחובה אך יעוין בחיבורי עה\"ת פ' וילך שנת תרי\"א דחיתי ראי' זו ע\"ש: שם <span class=\"parenthesized\">(בסעי' א')</span> נ\"ב הנה גרסי' בש\"ס ב\"ב דמ\"ג אמאי נוגעין בעדותן הם וכו' ובתוס' ד\"ה מפני שמעמיד' בפני בע\"ח וכו'. א\"נ הכא מיירי אפי' במכיר בה שהיא שלו דליכא תרעומת וכו' קשה לי לפי תי' אמאי קאמר הש\"ס אחריות דמאן אי אחריות דעלמא כ\"ש דניחא לי' וכו' וקשה מאי פריך הרי קיי\"ל בחו\"מ סי' רכ\"ה דאף אם קיבל עליו אחריות מ\"מ היינו רק אם מוציאין ממנו בב\"ד של ישראל אבל אם מוציאין ממנו באונס ע\"י ב\"ד נכרים א\"צ לשלם מכח דדילמ' משקרי. וא\"כ מכ\"ש אם יודע הלוקח שהם עדי שקרים דאינו חייב לשלם לו דאין לך אונס גדול מזה. וא\"כ מאי פריך כ\"ש דניחא לי'. וממ\"נ אי באינו מכיר בלא\"ה פסול מכח תרעומ' ואי מיירי במכיר בע\"כ שהודה תחלה שהוא מכיר וא\"כ אף אם קבל אחריות דעלמ' נמי פטור מלשלם לו ומה פריך ואפשר דהתוס' לפי תירוצם זה אינם מפורשים כפי' הרשב\"ם דאחריות דעלמ' היינו גזילה ואחריות דנפשי' היינו בע\"ח רק הכוונה אחריות דעלמ' היינו אם יקחו ממנו אף באונס ואחריות דאתי מחמתו היינו אם באמת היא גזלה או חייב לבע\"ח ובזה א\"ש ודוק: שם <span class=\"parenthesized\">(ס\"א)</span> נ\"ב הנה יש לחקור דין חדש הנוגע בעדות ולא ידעו מן הנגיע' והעיד שקר אם עובר בלא יגיד או לא וכן במשביע איזה נוגע שיבא ויעיד אם חל עליו השבועה אם נשבע לשקר נלע\"ד דודאי חל עליו השבועה כיון שבידו לסלק הנגיעה וכן אם העיד שקר עובר באם לא יגיד. והנה אף דהדבר פשוט לדעתי נ\"ל להבי' ראי' מן הש\"ס ממ\"ש בפ\"ד דשבועות דל\"א דקאמר שם ואינה נוהגת אלא בראויין להעיד לאפוקי מאי וכו'. ולמה לא קאמ' לאפוקי נוגע ובע\"כ דדוק' כגון מלך או משחק בקובי' דאין ראוין לשום עדות או קרובים דאין ראוין מפאת עצמן ואין בידם לסלק הדבר בזה פטורין אבל בנוגע כיון דבידו לסלק הנגיעה חייב עליו ק\"ש וממיל' עובר באל\"י אם מעיד שקר וגם ממה דפריך שם בגמ' דל\"ב ע\"ב גבי היו שני כתי עדים וכו' אלא ראשונ' למה תתחייב הרי קיימ' שני' וכו' ולמה לא משני כגון שהיו' השניים נוגעין בשעת מעשה ואח\"כ נסתלקו והוי סד\"א כיון דבידם לסלק עצמן פטורים הראשונים קמ\"ל דהשת' לא נסתלקו בע\"כ דכה\"ג נמי פשיט' כיון דביד הבע\"ד להשביע השניים ואם לא השביעו איהו דאפסיד אנפשי' וזה ראי' ברורה ולא הצרכתי לכותבו רק ששמעתי שמבהיל א' כ' לק' קריסניפאלי בנדון השוחט דשם להיפוך לזה כתבתי כאן זה ודוק היטב. וע' בחיבורי לחו\"מ סי' קע\"א מהדור' ד' מ\"ש כמה חילוקי דינים בסי' זה בענין גזברים אם יכולין להעיד ומ\"ש בשם הכנה\"ג סי' זה דבני העיר לאנשים שמאותה העיר יכולין להעיד ומה דאמרי' בזה דהוי. נוגעים היינו לאנשי עיר אחרת ע\"ש:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 37:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, חושן משפט לז:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 37:1"
+                    }
+                  ]
+                }
+              },
+              "en": "<b>Disqualification Due To a Potential Benefit, 22 Seifim:</b>1. A person is disqualified from any testimony in which he gains some kind of benefit by testifying. Therefore, if two people are partners in land and a third party attempts to remove the land from one of the partners by claiming that the individual who sold the land to them had originally stolen it from him, the other partner may not testify on behalf of his partner to disqualify the plaintiff’s witnesses. His testimony would not even help for his partner’s portion unless he removed himself from the field and they made a kinyan to give his portion to this partner. If the kinyan was not done until after the third party comes, it would still be valid. The testifying partner must accept that if his creditor were to come and collect from the partner that he would pay the partner the value of the taken land. He should make a condition that if a third party were to come to claim the land based on other claims, such as saying it was stolen from him or something similar, then he would not indemnify his partner. If, however, the plaintiff is only making a claim on partner’s share, such as a claim that the partner sold it to him, then he may testify because he has no stake in the testimony at all.",
+              "he": "כל עדות שיש לאדם הנאה בה פסול להעיד לפיכך קרקע של שני שותפים ובא האחד להוציאה מתחת יד האחר לומר שאותו שמכרה להם גזלה ממנו אין שותפו מעיד לו עליה לפסול עידי המערער ואפילו על חלק השותף לא יועיל עדותו אא\"כ סלק עצמו ממנה וקנו מידו שנתנו לשותף ואפילו לא סלק עצמו עד לאחר הערעור מהני וצריך שיקבל עליו שאם יבא ב\"ח ויטרפנה מיד השותף ישלם לו דמיה וצריך להתנות שאם יבא לחטפה ממנו בטענות אחרות לומר שהיתה גזולה בידו וכיוצא בזה שאינו מקבל אחריות אבל אם אין המערער טוען אלא חלק השותף בלבד כגון שטוען שמכרה לו השותף יכול להעיד לו שאז אינו נוגע בעדות כלל:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 37:1",
+              "sourceHeRef": "חושן משפט לז:א - הפסולים מחמת הנאה",
+              "sourceRef": "Choshen Mishpat 37:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בין דברי שמואל לעיל נזכר כי השותפים <b>מעידין זה לזה,</b> שאם יערער אדם על חלקו של אחד מהם בשדה — יכול השני, בצירוף עד נוסף, להעיד לטובתו, ואינו נחשב כנוגע בעדותו.",
+              "ref": "Steinsaltz on Bava Batra 42b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ב ב:ז",
+              "sourceRef": "Steinsaltz on Bava Batra 42b:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara continues its discussion of <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span>’s statement: <b>And testify for each other.</b> A partner may join another witness in testifying with regard to the fact that his partner owns a share of their field in order to counter the claim of a one who claims ownership of the field, and his testimony is not disqualified due to being biased.",
+      "he": "וּמְעִידִין זֶה לָזֶה.",
+      "ref": "Bava Batra 42b:7"
+    }
+  ],
+  "title": "Bava Batra 42b",
+  "titleHebrew": "בבא בתרא מב,ב",
+  "topics": []
+}

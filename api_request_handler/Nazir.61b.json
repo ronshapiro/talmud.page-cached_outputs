@@ -1,0 +1,860 @@
+{
+  "id": "61b",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The corpse of a gentile does not impart ritual impurity through <i>ohel</i>. This matter was conveyed by the Oral Tradition. With regard to the war with Midian, Numbers 31:19 states: \"All who touch a corpse...\", but does not mention an <i>ohel</i>.<br>Similarly, a gentile does not contract the impurity connected with a corpse. Instead, if a gentile touches a corpse, carries it, or stands over it, it is as if he did not touch it. To what can the matter be compared? To an animal that touched a corpse or stood over a corpse.<br>Not only the impurity imparted by a human corpse, but all types of impurity do not cause gentiles and animals to become impure.",
+              "he": "וְאֵין הָעַכּוּ\"ם מְטַמֵּא בְּאֹהֶל וְדָבָר זֶה קַבָּלָה הוּא וַהֲרֵי הוּא אוֹמֵר בְּמִלְחֶמֶת מִדְיָן <span class=\"hebrew-emphasis\">(במדבר לא יט)</span> \"כּל נֹגֵעַ בֶּחָלָל\" וְלֹא הַזְכִּיר שָׁם אֹהֶל. וְכֵן הָעַכּוּ\"ם אֵינוֹ נַעֲשֶׂה טְמֵא מֵת אֶלָּא עַכּוּ\"ם שֶׁנָּגַע בְּמֵת אוֹ נְשָׂאוֹ אוֹ הֶאֱהִיל עָלָיו הֲרֵי הוּא כְּמִי שֶׁלֹּא נָגַע. הָא לְמָה זֶה דּוֹמֶה לִבְהֵמָה שֶׁנָּגְעָה בְּמֵת אוֹ הֶאֱהִילָה עַל הַמֵּת. וְלֹא בְּטֻמְאַת הַמֵּת בִּלְבַד אֶלָּא בְּכָל הַטֻּמְאוֹת כֻּלָּן אֵין הָעַכּוּ\"ם וְלֹא הַבְּהֵמָה מִתְטַמְּאִין בָּהֶן:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 1:13",
+              "sourceHeRef": "הלכות טומאת מת א:יג",
+              "sourceRef": "Defilement by a Corpse 1:13"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יצא עובד כוכבים שאין לו טומאה</strong> - שאם נגע במת אינו טמא:",
+              "ref": "Rashi on Nazir 61b:1:1",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:א:א",
+              "sourceRef": "Rashi on Nazir 61b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>יצא גוי שאין לו טומאה,</b> שאינו נטמא אף אם נגע במת, שאינו בכלל נזירות. ושואלים: <b>מנלן דלית להו</b> <span class=\"hebrew-emphasis\">[מניין לנו שאין להם</span> לגויים<span class=\"hebrew-emphasis\">]</span> <b>טומאה?</b> — ש<b>אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב</span><span class=\"hebrew-emphasis\">]</span> בדינו של הנכנס למקדש כשהוא טמא <b>\"ואיש אשר יטמא ולא יתחטא ונכרתה הנפש ההוא מתוך הקהל\"</b> (במדבר יט, כ) ומכאן למדים שדין טומאה נוהג רק <b>במי שיש לו קהל, יצא זה</b> הגוי <b>שאין לו קהל,</b> שהרי איננו שייך לקהל ישראל.",
+              "ref": "Steinsaltz on Nazir 61b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:א",
+              "sourceRef": "Steinsaltz on Nazir 61b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A gentile cannot become ritually impure nor impart impurity of any kind to others. However, the Sages decreed that in certain cases gentiles are considered impure, to ensure that Jews will avoid them with regard to those matters (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>1:13–14 and<i> Hilkhot Metamei Mishkav UMoshav </i>2:10).",
+              "he": "כל הטומאות כולן אין הנכרי מיטמא בהן, ואינו מטמא בהן. אלא שבעניינים מסויימים גזרו חכמים שייחשבו כטמאים כדי להיבדל בדברים אלה. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"א הי\"ג —י\"ד. שם הלכות מטמאי משכב ומושב פ\"ב ה\"י).",
+              "ref": "Steinsaltz comment #1 on Nazir 61b:1",
+              "sourceHeRef": "גּוֹי שֶׁאֵין לוֹ טוּמְאָה",
+              "sourceRef": "A gentile, who has no potential to become ritually impure"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "If anyone who has become unclean fails to cleanse himself, that person shall be cut off from the congregation, for he has defiled the L<small>ORD</small>’s sanctuary. The water of lustration was not dashed on him: he is unclean.",
+              "he": "וְאִ֤ישׁ אֲשֶׁר־יִטְמָא֙ וְלֹ֣א יִתְחַטָּ֔א וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִתּ֣וֹךְ הַקָּהָ֑ל כִּי֩ אֶת־מִקְדַּ֨שׁ יְהֹוָ֜ה טִמֵּ֗א מֵ֥י נִדָּ֛ה לֹא־זֹרַ֥ק עָלָ֖יו טָמֵ֥א הֽוּא׃",
+              "link": "/Numbers/19",
+              "ref": "Numbers 19:20",
+              "sourceHeRef": "במדבר יט:כ",
+              "sourceRef": "Numbers 19:20"
+            }
+          ]
+        }
+      },
+      "en": "which <b>excludes a gentile, who has no</b> potential to become <b>ritually impure.</b> A gentile is not rendered impure even if he touches a corpse. An individual of this kind cannot become a nazirite. The Gemara asks: <b>From where do we</b> derive <b>that</b> gentiles <b>do not have</b> the ability to become <b>ritually impure?</b> It is <b>as the verse states</b> with regard to one who enters the Temple in a state of impurity: <b>“But the man who shall be impure and shall not purify himself, that soul shall be cut off from the midst of the assembly”</b> (Numbers 19:20). This indicates that the <i>halakhot</i> of ritual impurity apply only <b>to one who has</b> membership in the <b>assembly</b> of the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span> and <b>excludes this</b> gentile, <b>who has no</b> membership in the <b>assembly,</b> i.e., he is not part of the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">Jewish people</span>.",
+      "he": "יָצָא גּוֹי שֶׁאֵין לוֹ טוּמְאָה. מְנָלַן דְּלֵית לְהוּ טוּמְאָה? דְּאָמַר קְרָא: ״וְאִישׁ אֲשֶׁר יִטְמָא וְלֹא יִתְחַטָּא וְנִכְרְתָה הַנֶּפֶשׁ הָהִיא מִתּוֹךְ הַקָּהָל״, בְּמִי שֶׁיֵּשׁ לוֹ קָהָל, יָצָא זֶה שֶׁאֵין לוֹ קָהָל.",
+      "ref": "Nazir 61b:1"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The mishna mentioned abrasive materials used for laundry, among them <b>urine.</b> The Gemara clarifies the nature of the listed materials. The Sages <b>taught</b> in a <i>baraita</i>: The urine mentioned in the mishna is <b>urine that is up to forty days old.</b> After that, its acidity weakens, rendering it unsuitable for that purpose. With regard to the <b>natron,</b> the Sage <b>taught</b> in a <i>baraita</i>: This refers to <b>Alexandrian natron</b> from the city in Egypt, <b>and not</b> to <b>natron</b> from <b>Anpantrin,</b> which is of a different quality. With regard to the <b><i>borit</i></b> mentioned in the mishna, <b>Rav Yehuda said: That is sand.</b> The Gemara asks: <b>Wasn’t it taught</b> in a <i>baraita</i>: <b><i>Borit</i> and sand?</b> Since both terms are listed, <i>borit</i> cannot be sand. <b>Rather, what is <i>borit</i>?</b> It is <b>sulphur.</b>",
+                "<b>The Gemara raises an objection</b> based on plants whose use is prohibited during the Sabbatical year. <b>They added</b> bulbs of <b>ornithogalum and wormwood, and <i>borit</i>, and aloe. And if it would enter your mind</b> to say that <i>borit</i> is <b>sulphur, is there sulphur</b> that is subject to the <i>halakhot</i> <b>of the Sabbatical year? Didn’t we learn</b> in a mishna that <b>this is the principle: Anything that has a root</b> and grows <b>is</b> subject to the <i>halakhot</i> of <b>the Sabbatical year, and</b> anything <b>that does not have a root is not</b> subject to the <i>halakhot</i> of <b>the Sabbatical year. Rather, what</b> is the <b><i>borit</i>?</b> It is <b>aloe.</b> The Gemara asks: <b>Wasn’t it taught</b> in a <i>baraita</i>: <b>And <i>borit</i> and aloe?</b> Since both terms are listed, <i>borit</i> cannot be aloe. <b>Rather,</b> there are <b>two types</b> of <b>aloe.</b> One of them is called <i>borit</i>.",
+                "With regard to the <b>cimolian earth</b> mentioned in the mishna, <b>Rav Yehuda said:</b> This is the earth referred to as <b>pull out stick in [<i>shelof dotz</i>].</b> With regard to the <b><i>eshlag</i></b> mentioned in the mishna, <b>Shmuel said: I asked all of the seafarers</b> with regard to the identity of <i>eshlag</i>, <b>and they told me</b> that <b>it is called <i>shonana</i>, and</b> can be <b>found in the shell of the pearl, and is removed using an iron skewer.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shabbat 90a:3",
+                "Shabbat 90a:4",
+                "Shabbat 90a:5"
+              ],
+              "he": [
+                "מֵי רַגְלַיִם. תָּנָא: מֵי רַגְלַיִם עַד בֶּן אַרְבָּעִים יוֹם. נֶתֶר. תָּנָא: נֶתֶר אֲלֶכְּסַנְדְּרִית, וְלֹא נֶתֶר אַנְפַּנְטְרִין. בּוֹרִית. אָמַר רַב יְהוּדָה: זֶה חוֹל. וְהָתַנְיָא: הַבּוֹרִית וְהַחוֹל! אֶלָּא: מַאי בּוֹרִית — כַּבְרִיתָא.",
+                "מֵיתִיבִי, הוֹסִיפוּ עֲלֵיהֶן הַחַלְבֵּיצִין וְהַלְּעִינִין וְהַבּוֹרִית וְהָאָהָל. וְאִי סָלְקָא דַעְתָּךְ כַּבְרִיתָא, כַּבְרִיתָא מִי אִיתָא בִּשְׁבִיעִית?! וְהָתְנַן: זֶה הַכְּלָל, כׇּל שֶׁיֵּשׁ לוֹ עִיקָּר — יֵשׁ לוֹ שְׁבִיעִית, וְשֶׁאֵין לוֹ עִיקָּר — אֵין לוֹ שְׁבִיעִית! אֶלָּא מַאי בּוֹרִית — אַהֲלָא. וְהָתַנְיָא: בּוֹרִית וְאַהֲלָא! אֶלָּא תְּרֵי גַּוְונֵי אַהֲלָא.",
+                "קִימוֹלְיָא, אָמַר רַב יְהוּדָה: שְׁלוֹף דּוֹץ. אַשְׁלָג, אָמַר שְׁמוּאֵל: שְׁאֵילְתִּינְהוּ לְכֹל נָחוֹתֵי יַמָּא, וַאֲמַרוּ לִי ״שׁוּנָאגָא״ שְׁמֵיהּ, וּמִשְׁתְּכַח בְּנוּקְבָּא דְמַרְגָּנִיתָא, וּמַפְּקִי לֵיהּ בְּרִמְצָא דְפַרְזְלָא."
+              ],
+              "link": "/Shabbat/90a",
+              "originalRefsBeforeRewriting": [
+                "Shabbat 90a:4"
+              ],
+              "ref": "Shabbat 90a:3-5",
+              "sourceHeRef": "שבת צ׳ א",
+              "sourceRef": "Shabbat 90a"
+            },
+            {
+              "en": [
+                "<strong>GEMARA:</strong> The mishna teaches that the Samaritans do not observe burial customs for stillborn children. The Gemara asks: <b>What</b> verse <b>did they interpret</b> as a source for this practice? The Gemara replies that they interpreted the verse: <b>“You shall not remove your fellow’s boundary marker, which was bounded by the first ones, in your inheritance</b> that you shall inherit, in the land that the Lord your God gives you to possess it” (Deuteronomy 19:14).",
+                "The Gemara explains: The Sages derived from this verse that it is prohibited to sell one’s ancestral burial ground. In accordance with this interpretation of the verse, the Samaritans derived that <b>any</b> individual <b>who has an inheritance,</b> i.e., who stands to inherit land, <b>has a boundary,</b> i.e., a burial place, whereas <b>any</b> individual <b>who does not have an inheritance</b> in the land, e.g., a stillborn child, <b>does not have a boundary,</b> i.e., a burial place. The Samaritans therefore concluded that the mitzva of burial does not apply to stillborn children."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Niddah 57a:1",
+                "Niddah 57a:2"
+              ],
+              "he": [
+                "מאי דרוש <span class=\"parenthesized\">(דברים יט, יד)</span> לא תסיג גבול רעך אשר גבלו ראשונים בנחלתך",
+                "כל שיש לו נחלה יש לו גבול כל שאין לו נחלה אין לו גבול"
+              ],
+              "link": "/Niddah/57a",
+              "originalRefsBeforeRewriting": [
+                "Niddah 57a:1",
+                "Niddah 57a:2"
+              ],
+              "ref": "Niddah 57a:1-2",
+              "sourceHeRef": "נדה נ״ז א",
+              "sourceRef": "Niddah 57a"
+            },
+            {
+              "en": "7) (Vayikra 11:35): \"… shall be torn down. They are tamei\": What is subject to tearing down is tamei by reason of \"oven and stove,\" and what is not subject to tearing down is not tamei by reason of \"oven and stove,\" except an oven of stone and of metal and a stove of stone and of metal. From here they ruled: A stove of stone and of metal is clean (One of stone is completely clean and one of metal is clean of the halachah of an earthen vessel, not conferring tumah through its atmosphere and being subject to cleansing in a mikveh), and it is tamei by reason of a metal vessel, (acquiring tumah through its back and becoming a progenitor (av) of tumah when touched by an olive-size of a dead body; and when it is attached to the ground, it does not confer tumah. If it were perforated, damaged, or split, and a plaster or an addition of clay were made for it, it is tamei. And how large must the perforation be (for the plaster over it to render it an earthen vessel)? (Large) enough to emit light; and so, with a stove.",
+              "he": "[ז] \"יֻתָּץ טמאים\" – את שיש לו נתיצה יש לו טומאה, את שאין לו נתיצה אין לו טומאה; פרט לתנור של אבן ושל מתכות ולכירה של אבן ושל מתכת. מיכן אמר תנור של אבן ושל מתכת – טהור; וטמא משום כלי מתכות. ניקב, נפגם, נסדק, עשה לו טפילה או מוסף של טיט – טמא. וכמה יהיה בנקב? כדי שיצא בו האור. וכן בכירה.",
+              "ref": "Sifra, Shemini, Chapter 10 7",
+              "sourceHeRef": "ספרא, שמיני, פרק י ז׳",
+              "sourceRef": "Sifra, Shemini, Chapter 10 7"
+            },
+            {
+              "en": [
+                "The mishna lists <b><i>borit</i></b> as one of the seven substances. <b>Rav Yehuda says: This</b> is referring to <b>ice plant.</b> The Gemara raises an objection: <b>But isn’t it taught</b> in a <i>baraita</i>: <b><i>Borit</i> and ice plant,</b> which indicates that they are two different substances? <b>Rather, what is <i>borit</i>? Sulfur.</b>",
+                "<b>And</b> the Gemara <b>raises a contradiction</b> from the <i>baraita</i> discussing the <i>halakha</i> of plants whose use is prohibited during the Sabbatical Year: <b>They added to</b> the list of such plants: Bulbs of <b>ornithogalum, and wormwood,</b> and <b><i>borit</i>, and ice plant. And if it would enter your mind</b> to say that <i>borit</i> is <b>sulfur, is there sulfur</b> that is subject to the <i>halakhot</i> <b>of the Sabbatical Year? But didn’t we learn</b> in a <i>baraita</i> that <b>this is the principle: Anything that has a root</b> and grows <b>is</b> subject to the <i>halakhot</i> of <b>the Sabbatical Year, and</b> anything <b>that does not have a root is not</b> subject to the <i>halakhot</i> of <b>the Sabbatical Year? Rather, what</b> is <b><i>borit</i>?</b> It is <b>ice plant. But isn’t it taught</b> in the <i>baraita</i>: And <b><i>borit</i> and ice plant?</b> The Gemara explains that there are <b>two types</b> of <b>ice plant,</b> one of which is called <i>borit</i>."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Niddah 62a:6",
+                "Niddah 62a:7"
+              ],
+              "he": [
+                "בורית אמר רב יהודה זה אהלא והתניא הבורית והאהל אלא מאי בורית כבריתא",
+                "ורמינהי הוסיפו עליהן הלביצין והלעונין הבורית והאהל ואי בורית כבריתא מי אית ליה שביעית והתנן זה הכלל כל שיש לו עיקר יש לו שביעית וכל שאין לו עיקר אין לו שביעית אלא מאי בורית אהלא והתניא הבורית והאהל תרי גווני אהלא"
+              ],
+              "link": "/Niddah/62a",
+              "originalRefsBeforeRewriting": [
+                "Niddah 62a:7"
+              ],
+              "ref": "Niddah 62a:6-7",
+              "sourceHeRef": "נדה ס״ב א",
+              "sourceRef": "Niddah 62a"
+            },
+            {
+              "en": "9) (Vayikra 11:35): \"… shall be torn down. They are tamei\": What is subject to tearing down is subject to tumah; what is not subject to tearing down is not subject to tumah. From here they ruled: If (a pot) were placed upon a stone and upon an oven (the stone being joined to it by plaster); upon it and upon a stove; upon it and upon a kupach (a kind of stove), it is tamei because it is subject to \"tearing down.\" (If it were placed) upon it and upon (another) stone; upon it and upon a rock (which had never been dislodged); upon it and upon a wall, it is clean, for it is not subject to \"tearing down.\" upon it and upon a projection (from the wall) — if we perceive that it could stand by itself (if the projection were removed), it is tamei; if not, it is clean.",
+              "he": "[ט] \"יֻתָּץ טמאים\" – את שיש לו נתיצה יש לו טומאה, את שאין לו נתיצה אין לו טומאה. מיכן אמרו: האבן שהיה שופת עליה ועל התנור, עליה ועל הכירה, עליה ועל הכופח – טמאה מפני שיש לו נתיצה. עליה ועל האבן, עליה ועל הסלע, עליה ועל הכותל – טהורה מפני שאין לו נתיצה. עליה ועל הזיז – רואין שאם ינטל הכותל והוא עומד בפני עצמו – טמא, ואם לאו – טהור.",
+              "ref": "Sifra, Shemini, Chapter 10 9",
+              "sourceHeRef": "ספרא, שמיני, פרק י ט׳",
+              "sourceRef": "Sifra, Shemini, Chapter 10 9"
+            },
+            {
+              "en": [
+                "<strong>GEMARA:</strong> The Gemara analyzes the terms in the mishna: <b>What</b> is the meaning of <b><i>itzterubalin</i>?</b> This is the plant known as <b><i>torenita</i>. And</b> the Gemara <b>raises a contradiction</b> from a <i>baraita</i>: The Sages <b>added to</b> the list of plants whose use is prohibited during the Sabbatical Year: <b><i>Alekesin</i> and <i>itzterubalin</i>, <i>mukhsasin</i>, and <i>benot shuaḥ</i>. And if it would enter your mind</b> to say that <b><i>itzterubalin</i></b> is <b><i>torenita</i>, is there <i>torenita</i></b> that is subject to the <i>halakhot</i> <b>of the Sabbatical</b> Year?",
+                "The Gemara explains: <b>But didn’t we learn</b> in a <i>baraita</i> that <b>this is the principle: Anything that has a root</b> and grows <b>is subject to</b> the <i>halakhot</i> of <b>the Sabbatical</b> Year, <b>and</b> anything <b>that does not have a root is not subject to</b> the <i>halakhot</i> of <b>the Sabbatical</b> Year? If so, <i>torenita</i>, which has no roots, is not subject to the <i>halakhot</i> of the Sabbatical Year, and therefore it cannot be identified as <i>itzterubalin</i>. <b>Rather, Rav Safra says:</b> What is <i>itzterubalin</i>? It is <b>the fruit of the cedar</b> tree. <b>And similarly, when Ravin came</b> from Eretz Yisrael, he said that <b>Rabbi Elazar says:</b> <i>Itzterubalin</i> is <b>the fruit of the cedar</b> tree.",
+                "The mishna includes <b><i>benot shuaḥ</i></b> among the items one may not sell to a gentile. <b>Rabba bar bar Ḥana says</b> that <b>Rabbi Yoḥanan says:</b> These are <b>white figs.</b> The mishna states: <b>And <i>petotarot</i>. Rabba bar bar Ḥana says</b> that <b>Rabbi Yoḥanan says:</b> This is not another type of fruit; rather, the mishna here <b>taught</b> that the sale of the various fruits listed in the mishna is prohibited only when they are sold <b>with their stems,</b> not if they have been pruned.",
+                "The mishna taught that selling <b>frankincense</b> to gentiles is prohibited. <b>Rabbi Yitzḥak says</b> that <b>Rabbi Shimon ben Lakish says:</b> The mishna is referring specifically to <b>pure frankincense,</b> which is used as incense for objects of idol worship. A Sage <b>taught: And with regard to all</b> of these items whose sale is prohibited, <b>one may sell to</b> gentiles a large <b>bundle</b> of merchandise, as it is clear that the gentile intends to sell the merchandise rather than sacrifice it to his object of idol worship. <b>And how much</b> does such <b>a bundle</b> weigh? <b>Rabbi Yehuda ben Beteira explained:</b> For the purposes of this <i>halakha</i>, <b>no bundle is less than</b> the weight of <b>three hundred dinars.</b>",
+                "The Gemara raises a difficulty: <b>But let us be concerned lest</b> the buyer <b>go and sell</b> these items <b>to another</b> gentile, <b>and they sacrifice</b> them. <b>Abaye said</b> in response: This scenario is certainly possible, but <b>we are commanded</b> only not <b>to</b> “place a stumbling block <b>before</b> the blind” (Leviticus 19:14), i.e., one may not be the direct cause of a gentile’s idol worship. <b>We are not commanded</b> not <b>to</b> place a stumbling block <b>before</b> one who may subsequently place it <b>before</b> the blind."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Avodah Zarah 14a:1",
+                "Avodah Zarah 14a:2",
+                "Avodah Zarah 14a:3",
+                "Avodah Zarah 14a:4",
+                "Avodah Zarah 14a:5"
+              ],
+              "he": [
+                "<big><strong>גמ׳</strong></big> מאי איצטרובלין תורניתא ורמינהו הוסיפו עליהן אלכסין ואיצטרובלין מוכססין ובנות שוח ואי סלקא דעתך איצטרובלין תורניתא תורניתא מי איתא בשביעית",
+                "והתנן זה הכלל כל שיש לו עיקר יש לו שביעית וכל שאין לו עיקר אין לו שביעית אלא אמר רב ספרא פירי דארזא וכן כי אתא רבין א\"ר אלעזר פירי דארזא:",
+                "בנות שוח: אמר רבה בר בר חנה אמר רבי יוחנן תאיני חיוראתא: ופטוטרות: אמר רבה בר בר חנה אמר רבי יוחנן בפטוטרותיהן שנו:",
+                "לבונה: אמר רבי יצחק אמר ר\"ש בן לקיש לבונה זכה תנא ומכולן מוכרין להן חבילה וכמה חבילה פירש ר' יהודה בן בתירא אין חבילה פחותה משלשה מנין",
+                "וליחוש דלמא אזיל ומזבין לאחריני ומקטרי אמר אביי אלפני מפקדינן אלפני דלפני לא מפקדינן:"
+              ],
+              "link": "/Avodah Zarah/14a",
+              "originalRefsBeforeRewriting": [
+                "Avodah Zarah 14a:2"
+              ],
+              "ref": "Avodah Zarah 14a:1-5",
+              "sourceHeRef": "עבודה זרה י״ד א",
+              "sourceRef": "Avodah Zarah 14a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דלמא כרת הוא דלא מיחייב</strong> - כי נכנס במקדש:",
+              "ref": "Rashi on Nazir 61b:2:1",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ב:א",
+              "sourceRef": "Rashi on Nazir 61b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל איטמויי איטמי</strong> - כי נגע במת כדי לטמא אדם וכלים והואיל והוא מיטמא נמצאת אתה אומר שתהא נזירות חלה עליו:",
+              "ref": "Rashi on Nazir 61b:2:2",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ב:ב",
+              "sourceRef": "Rashi on Nazir 61b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל שיש לו טהרה</strong> - בהזאה ובטבילת מקוה יש לו טומאה ועובד כוכבים שאין לו טהרה אין מקבל טומאה והא דאמרינן במס' יבמות בפ' הערל <span class=\"parenthesized\">(יבמות דף עא:)</span> ערל מקבל הזאה כגון ערל ישראל שלא נימול שמתו אחיו מחמת מילה אבל ערל עובד כוכבים לא וכיון שאין מקבל הזאה לפיכך אין לו טומאה:",
+              "ref": "Rashi on Nazir 61b:2:3",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ב:ג",
+              "sourceRef": "Rashi on Nazir 61b:2:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ממאי</b> <span class=\"hebrew-emphasis\">[ממה,</span> מניין<span class=\"hebrew-emphasis\">]</span> יודע אתה מהכתוב הזה שאין בו דין טומאה כלל? <b>דלמא</b> <span class=\"hebrew-emphasis\">[שמא</span><span class=\"hebrew-emphasis\">]</span> <b>כרת הוא</b> ש<b>לא מיחייב</b> <span class=\"hebrew-emphasis\">[מתחייב</span><span class=\"hebrew-emphasis\">]</span> על כניסתו למקדש כשהוא טמא, <b>אבל איטמויי מיטמו</b> <span class=\"hebrew-emphasis\">[להיטמא נטמאים</span> הם<span class=\"hebrew-emphasis\">]?</span> ומשיבים: <b>אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב</span><span class=\"hebrew-emphasis\">]</span> <b>\"והזה הטהר על הטמא\"</b> (במדבר יט, יט), לומר: <b>כל שיש לו</b> אפשרות של <b>טהרה</b> מטומאתו על ידי מי חטאת — <b>יש לו טומאה, וכל שאין לו טהרה —</b> <b>אין לו טומאה.</b>",
+              "ref": "Steinsaltz on Nazir 61b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:ב",
+              "sourceRef": "Steinsaltz on Nazir 61b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The <i>halakhot</i> of ritual impurity do not apply to anyone who cannot be purified in a ritual bath or through the sprinkling of the ashes of the red heifer. Although the Gemara does not state how it is derived that ritual purity in general does not apply to a gentile, the early commentaries explain that this is learned from a verse that deals with the waters of purification: “And it shall be kept for the congregation of Israel for a water of sprinkling; it is a purification from sin” (Numbers 19:9). This verse indicates that the <i>halakha</i> of the waters of purification applies only to Jews, and the same applies to other methods of purification (<i>Tosafot</i>; Rosh).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Nazir 61b:2",
+              "sourceHeRef": "וְכָל שֶׁאֵין לוֹ טָהֳרָה",
+              "sourceRef": "Anyone who does not have the possibility of purity"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איש כי יפליא דכתיב בערכין למה לי</strong> - לרבויי עובדי כוכבים להיות נערכין כיון דקיימא לן דעובדי כוכבים נודרים נדרים ונדבות כישראלים [לא הוה] ממעט אפילו שתק מאיש הוה מוקמינן מיעוטא דבני ישראל למעוטי עובדי כוכבים דאין מעריכין דסברא הוא להשוותם מקרא דנודרין נדבות כישראל לכל מה שיוכל:",
+              "ref": "Tosafot on Nazir 61b:2:1",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:ב:א",
+              "sourceRef": "Tosafot on Nazir 61b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודלמא כרת הוא דלא מחייב</strong> - ת\"ל דקאמר מהני [דלא] תיתי לומר שיהא עובד כוכבים בכרת אבל אטמויי מיטמו:",
+              "ref": "Tosafot on Nazir 61b:2:2",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:ב:ב",
+              "sourceRef": "Tosafot on Nazir 61b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר קרא והזה הטהור על הטמא כל מי שיש לו טהרה יש לו טומאה וכל שאין לו טהרה אין לו טומאה</strong> - ועובד כוכבים אין לו טהרה דכתיב והיתה לעדת בני ישראל למשמרת למי נדה חטאת היא למשמרת לבני ישראל ולא לעובדי כוכבים כפי <span class=\"rashi-quotation\">הקונטרס</span>:",
+              "ref": "Tosafot on Nazir 61b:2:3",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:ב:ג",
+              "sourceRef": "Tosafot on Nazir 61b:2:3"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אין הכהנים חולקין בשר כנגד בשר ועופות כנגד עופות בשר כנגד עופות עופות כנגד מנחות מנחות כנגד מנחות שנא' <span class=\"parenthesized\">(ויקרא ז׳:י׳)</span> וכל מנחה בלולה בשמן וחרבה לכל בני אהרן תהיה איש כאחיו האיש חולק אע\"פ בעל מום אין הקטן חולק אע\"פ תמים. קטן מאימתי כשר לחלק בקדשי מקדש משיביא שתי שערות אבל אין מקריבין אותו לעבודה עד שנתמלא זקנו רבי אומר אומר אני עד שיהא בן עשרים שנה ומעלה <span class=\"parenthesized\">(עזרא ג׳:ח׳)</span> לנצח על מלאכת בית ה'. [ד] עולה כולה לגבוה ועורה לכהנים קדשי קדשים הדם ואימוריו למזבח ובשר ועור לכהנים. קדשים קלים הדם ואימורים למזבח ועור ובשר לבעלים. זה הכלל כל שיש לו בבשר יש לו בעורות כל שאין לו בבשר אין לו בעורות חוץ מן העולה שפירש בה הכתוב <span class=\"parenthesized\">(ויקרא ז׳:ח׳)</span> עור העולה אשר הקריב לכהן לו יהיה שחטה חוץ לזמנה חוץ למקומה הואיל ולא זכה מזבח בבשרה לא יזכו הכהנים בעורה עולת הקדש אין עורה לכהנים דברי ר' יהודה וחכמים אומרים עורה לכהנים ר' יוסי בר' יהודה מוסיף אף של גרים ושל נשים ועבדים שנא' <span class=\"parenthesized\">(שם)</span> עולת איש פרט לאלו אמרו לו והלא כבר נאמר עור העולה אשר הקריב לכהן לו יהיה אם כהן למה נאמר עולת איש אלא עולה שעלתה לאיש עורה לכהנים ושלא עלתה לאיש אין עורה לכהנים.",
+              "ref": "Tosefta Zevachim 11:4",
+              "sourceHeRef": "תוספתא זבחים יא:ד",
+              "sourceRef": "Tosefta Zevachim 11:4"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The clean person shall sprinkle it upon the unclean person on the third day and on the seventh day, thus cleansing him by the seventh day. He shall then wash his clothes and bathe in water, and at nightfall he shall be clean.",
+              "he": "וְהִזָּ֤ה הַטָּהֹר֙ עַל־הַטָּמֵ֔א בַּיּ֥וֹם הַשְּׁלִישִׁ֖י וּבַיּ֣וֹם הַשְּׁבִיעִ֑י וְחִטְּאוֹ֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י וְכִבֶּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָהֵ֥ר בָּעָֽרֶב׃",
+              "link": "/Numbers/19",
+              "ref": "Numbers 19:19",
+              "sourceHeRef": "במדבר יט:יט",
+              "sourceRef": "Numbers 19:19"
+            },
+            {
+              "en": "A man who is clean shall gather up the ashes of the cow and deposit them outside the camp in a clean place, to be kept for water of lustration for the Israelite community. It is for cleansing.",
+              "he": "וְאָסַ֣ף <b>׀</b> אִ֣ישׁ טָה֗וֹר אֵ֚ת אֵ֣פֶר הַפָּרָ֔ה וְהִנִּ֛יחַ מִח֥וּץ לַֽמַּחֲנֶ֖ה בְּמָק֣וֹם טָה֑וֹר וְ֠הָיְתָ֠ה לַעֲדַ֨ת בְּנֵֽי־יִשְׂרָאֵ֧ל לְמִשְׁמֶ֛רֶת לְמֵ֥י נִדָּ֖ה חַטָּ֥את הִֽוא׃",
+              "link": "/Numbers/19",
+              "ref": "Numbers 19:9",
+              "sourceHeRef": "במדבר יט:ט",
+              "sourceRef": "Numbers 19:9"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>From where</b> is it derived that this verse teaches that ritual impurity does not apply to a gentile at all? <b>Perhaps</b> the verse <b>is</b> referring merely to <b>excision from the World-to-Come [<i>karet</i>],</b> i.e., it is teaching <b>that he is not liable</b> to receive <i>karet</i> for entering the Temple when impure, <b>but</b> that perhaps a gentile <b>does become impure.</b> The Gemara answers that <b>the</b> previous <b>verse states: “And the pure</b> person <b>shall sprinkle upon the impure”;</b> this indicates that <b>anyone who has</b> the possibility of attaining <b>ritual purity</b> by means of the waters of purification also <b>has</b> the potential for <b>ritual impurity, and anyone who does not have</b> the possibility of attaining <b>purity</b> by means of the waters of purification <b>does not have</b> the potential for <b>impurity</b> either.",
+      "he": "מִמַּאי? דִּלְמָא כָּרֵת הוּא דְּלָא מִיחַיַּיב, אֲבָל אִיטַּמּוֹיֵי מִיטַמּוּ? אָמַר קְרָא ״וְהִזָּה הַטָּהוֹר עַל הַטָּמֵא״, כֹּל שֶׁיֵּשׁ לוֹ טׇהֳרָה — יֵשׁ לוֹ טוּמְאָה, וְכֹל שֶׁאֵין לוֹ טׇהֳרָה — אֵין לוֹ טוּמְאָה.",
+      "ref": "Nazir 61b:2"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודלמא טהרה הוא דלית ליה</strong> - שאם קיבל טומאה אפילו שהוזה לא נטהר מטומאתו ופוסל את הקדשים במגעו הא טומאה הויא ליה שאם נגע במת שהוא טמא ומטמא אדם וכלים:",
+              "ref": "Rashi on Nazir 61b:3:1",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ג:א",
+              "sourceRef": "Rashi on Nazir 61b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר קרא [איש אשר] יטמא ולא יתחטא</strong> - איתקש טומאה לטהרה דתרווייהו טומאה וטהרה קמישתעו בחד גברא והכי משמע כל מי שאין לו טהרה אין לו טומאה ועובד כוכבים הואיל ואי אפשר לו בטהרה אין לו טומאה:",
+              "ref": "Rashi on Nazir 61b:3:2",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ג:ב",
+              "sourceRef": "Rashi on Nazir 61b:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים, <b>ואימא</b> <span class=\"hebrew-emphasis\">[ואמור</span><span class=\"hebrew-emphasis\">]:</span> <b>טהרה הוא דלא הויא ליה</b> <span class=\"hebrew-emphasis\">[שאין לו</span><span class=\"hebrew-emphasis\">]</span> אבל <b>טומאה הויא ליה</b> <span class=\"hebrew-emphasis\">[יש לו</span><span class=\"hebrew-emphasis\">]!</span> ומשיבים: לכן <b>אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב</span><span class=\"hebrew-emphasis\">]</span> <b>\"ואיש אשר יטמא ולא יתחטא\"</b> (במדבר יט, כ) — ללמד ששני הדברים תלויים זה בזה, ומי שאין לו טהרה במי החטאת, אף אין לו דין טומאה.",
+              "ref": "Steinsaltz on Nazir 61b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:ג",
+              "sourceRef": "Steinsaltz on Nazir 61b:3"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודלמא טהרה הוא דלא הוי להו הא טומאה אית לה</strong> - דהאי והזה הטהור על הטמא לא מייתר דבפ\"ק דיומא <span class=\"parenthesized\">(דף יד.)</span> מוקמינן ליה למילי אחריני למתכוין להזות על האדם והזה על הבהמה ומשני אמר קרא אשר יטמא ולא יתחטא דמייתר יטמא דהוה ליה למכתב אשר לא יתחטא ועוד י\"ל משום דוהזה הטהור לא מיירי בטהרה דחיטוי אלא מיירי בטהור גמור לפי הפשט או בטבול יום כדאית' ביבמות <span class=\"parenthesized\">(דף עג.)</span> וקרא דממעטינן מיניה עובדי כוכבים מטהרה היינו מטהרת חיטוי כדכתיב לבני ישראל למשמרת למי נדה חטאת היא להכי אייתי קרא דאשר יטמא ולא יתחטא דמיירי בחיטוי וצריך עיון ואף על גב דאמת הוא דעובד כוכבים אין לו שום טהרה ואפילו טבילה מ\"מ ניחא ליה לאתויי מחיטוי גופיה דומיא דלמשמרת למי נדה חטאת היא דמיניה ממעטינן עובדי כוכבים דמיירי בחיטוי. <span class=\"parenthesized\">(ושמא)</span> הא דעובד כוכבים אין לו טהרה ואפי' טבילה היינו משום דאיתקש טבילה להזאה דכתיב וחטאו ביום השביעי וכבס בגדיו ורחץ במים וטהר:",
+              "ref": "Tosafot on Nazir 61b:3:1",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:ג:א",
+              "sourceRef": "Tosafot on Nazir 61b:3:1"
+            },
+            {
+              "en": "",
+              "he": "לשון הר\"ף אמר קרא אשר יטמא ולא יתחטא ואיתקש טומאה לטהרה:",
+              "ref": "Tosafot on Nazir 61b:3:2",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:ג:ב",
+              "sourceRef": "Tosafot on Nazir 61b:3:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "If anyone who has become unclean fails to cleanse himself, that person shall be cut off from the congregation, for he has defiled the L<small>ORD</small>’s sanctuary. The water of lustration was not dashed on him: he is unclean.",
+              "he": "וְאִ֤ישׁ אֲשֶׁר־יִטְמָא֙ וְלֹ֣א יִתְחַטָּ֔א וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִתּ֣וֹךְ הַקָּהָ֑ל כִּי֩ אֶת־מִקְדַּ֨שׁ יְהֹוָ֜ה טִמֵּ֗א מֵ֥י נִדָּ֛ה לֹא־זֹרַ֥ק עָלָ֖יו טָמֵ֥א הֽוּא׃",
+              "link": "/Numbers/19",
+              "ref": "Numbers 19:20",
+              "sourceHeRef": "במדבר יט:כ",
+              "sourceRef": "Numbers 19:20"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>But</b> one can <b>say</b> that <b>it is</b> only <b>purity</b> by means of the waters of purification <b>that he does not have,</b> but <b>he does have</b> the potential for <b>impurity.</b> The Gemara answers: It is for this reason that <b>the verse states: “But the man who shall be impure and shall not purify himself”</b> (Numbers 19:20), to teach that these two statuses are interdependent. One who cannot be purified by the waters of purification cannot become impure in the first place.",
+      "he": "וְאֵימָא: טׇהֳרָה הוּא דְּלָא הָוְיָא לֵיהּ, טוּמְאָה הָוְיָא לֵיהּ! אָמַר קְרָא: ״וְאִישׁ אֲשֶׁר יִטְמָא וְלֹא יִתְחַטָּא״.",
+      "ref": "Nazir 61b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב אחא בר יעקב אמר שאני הכא</strong> - גבי נזירות טעמא מאי אימעיטו להו עובדי כוכבים מנזירות כתיב הכא לאביו ולאמו לא יטמא והתם כתיב והתנחלתם אותם לבניכם אחריכם לרשת אחוזה כל מי שיש לו נחלה להוריש לבניו את עבדיו דבר לך הכתוב גבי נזיר שיש לו אב ואם כדכתיב לאביו ולאמו יש להם טומאה והני עובדי כוכבים הואיל ואין להם נחלה כדי להוריש עבדו לבנו כדכתיב וגם מבני התושבים הגרים עמכם מהם תקנו ואמרינן במס' <span class=\"parenthesized\">(גיטין דף לח.)</span> אתם קונים מהם ולא הם קונים מכם ולא הם קונים זה את זה לא הוי להו טומאה וכל שאין לו טומאה אין לו תורת נזירות:",
+              "ref": "Rashi on Nazir 61b:4:1",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ד:א",
+              "sourceRef": "Rashi on Nazir 61b:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רב אחא בר יעקב אמר</b> הסבר אחר לכך שאף שבנזיר, כמו בערכין, נאמר \"איש\" והיה מקום לרבות גוי לנזירות, אין הוא בכלל נזירות. <b>שאני הכא</b> <span class=\"hebrew-emphasis\">[שונה כאן</span><span class=\"hebrew-emphasis\">]</span> בדין נזירות, שנאמר בו איסור טומאה לאביו ולאמו, ובענין זה אין הגוי שייך, משום ש<b>אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב</span><span class=\"hebrew-emphasis\">]</span> <b>\"והתנחלתם אתם לבניכם אחריכם\"</b> (ויקרא כה, מו) לומר:",
+              "ref": "Steinsaltz on Nazir 61b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:ד",
+              "sourceRef": "Steinsaltz on Nazir 61b:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רב אחא בר יעקב אמר והתנחלתם אותם לבניכם אחריכם</strong> - אעבדים קאי רב אחא בא ליישב דרשא של אביו דלעיל מי שיש לו אב לענין כל ירושה המפורשת בתור' וירושת עבדים מפורשת בקרא דוהתנחלתם ועובד כוכבים אינו מוריש עבדו לבניו שאין לעובד כוכבים קנין בגוף העבד כדדרשינן פרק השולח <span class=\"parenthesized\">(גיטין דף לח.)</span> אתם קונין מהם ולא הם קונין מכם ולא הם קונין זה את זה א\"כ כל שיש לו נחלה בעבדים קרוי אביו והוי בכלל לאביו ולאמו לא יטמא וכל שאין לו נחלה אינו בכלל טומאה כלומר בכלל אביו ואמו לא יטמא:",
+              "ref": "Tosafot on Nazir 61b:4:1",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:ד:א",
+              "sourceRef": "Tosafot on Nazir 61b:4:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "you may keep them as a possession for your children after you, for them to inherit as property for all time. Such you may treat as slaves. But as for your Israelite kinsmen, no one shall rule ruthlessly over the other.",
+              "he": "וְהִתְנַחַלְתֶּ֨ם אֹתָ֜ם לִבְנֵיכֶ֤ם אַחֲרֵיכֶם֙ לָרֶ֣שֶׁת אֲחֻזָּ֔ה לְעֹלָ֖ם בָּהֶ֣ם תַּעֲבֹ֑דוּ וּבְאַ֨חֵיכֶ֤ם בְּנֵֽי־יִשְׂרָאֵל֙ אִ֣ישׁ בְּאָחִ֔יו לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָֽרֶךְ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Leviticus/25",
+              "ref": "Leviticus 25:46",
+              "sourceHeRef": "ויקרא כה:מו",
+              "sourceRef": "Leviticus 25:46"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-aha-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-yaakov\">Rav Aḥa bar Ya’akov</span> said</b> a different reason why a gentile cannot become a nazirite, despite the fact that the term “man” does include gentiles in the case of valuations. <b>Here,</b> with regard to naziriteship, it <b>is different, as</b> the verse prohibits a nazirite from becoming impure for his father and mother. This prohibition is not relevant for gentiles because <b>the verse states: “And you shall make them an inheritance for your children after you”</b> (Leviticus 25:46). This verse establishes a child as one to whom a person can bequeath his slaves, the subject of this verse.",
+      "he": "<span href=\"/topics/rav-aha-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-yaakov\">רַב אַחָא בַּר יַעֲקֹב</span> אָמַר: שָׁאנֵי הָכָא, דְּאָמַר קְרָא: ״וְהִתְנַחַלְתֶּם אֹתָם לִבְנֵיכֶם אַחֲרֵיכֶם״.",
+      "ref": "Nazir 61b:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי הכי עבדים נמי</strong> - לא ליהוו בתורת נזיר לפי שאינן בתורת נחלה להוריש לבניהם דכל מה שקנה עבד קנה רבו ולא הן קונין זה את זה דהא לאו ישראל נינהו:",
+              "ref": "Rashi on Nazir 61b:5:1",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ה:א",
+              "sourceRef": "Rashi on Nazir 61b:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>כל</b> מי <b>שיש לו</b> בנים לענין ירושת <b>נחלה</b> שיכול להוריש לבניו כל סוגי ירושה, ובכלל זה עבדים, <b>יש לו</b> דין אבהות ביחס לאותם בנים אף לענין <b>טומאה, וכל שאין לו נחלה —</b> <b>אין לו</b> דין אב לענין <b>טומאה,</b> ולכן הגוי שאינו בכלל האפשרות לרשת עבדים מאביו — אף אינו בכלל טומאה לאביו, ולכן אין הוא גם בכלל נזירות, שנאמר בה \"לאביו ולאמו לא יטמא\". ומקשים: <b>אי הכי</b> <span class=\"hebrew-emphasis\">[אם כך</span><span class=\"hebrew-emphasis\">]</span> <b>עבדים נמי</b> <span class=\"hebrew-emphasis\">[גם כן</span><span class=\"hebrew-emphasis\">]</span> <b>לא</b> יהיה להם דין טומאה, וממילא גם דין נזירות, שהרי אין להם נחלה וירושה!",
+              "ref": "Steinsaltz on Nazir 61b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:ה",
+              "sourceRef": "Steinsaltz on Nazir 61b:5"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' ד\"ה א\"ה עבדים כו' שאינו קונה אותו.</b> ע' יבמות דף סו ע\"א ברש\"י ד\"ה ועבדיו שקנו ובתוס' שם ד\"ה ועבדים:",
+                      "ref": "Gilyon HaShas on Nazir 61b:1",
+                      "sourceHeRef": "גליון הש\"ס על נזיר ס״א ב:א",
+                      "sourceRef": "Gilyon HaShas on Nazir 61b:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>בא\"ד דמי שיש לו טהרה יש לו טומאה.</b> דבריהם סתומים דבפשוט עבד יש לו טהרה במקוה ומקבל טומאה כמו נשים:",
+                      "ref": "Gilyon HaShas on Nazir 61b:2",
+                      "sourceHeRef": "גליון הש\"ס על נזיר ס״א ב:ב",
+                      "sourceRef": "Gilyon HaShas on Nazir 61b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי הכי עבדים נמי</strong> - נמעטו מנזירות מהך דרשא שכמו כן אין מוריש עבד אחד שניתן לו על מנת שלא יהיה לרבו רשות בו שאינו קונה אותו כדפרישית ולא הם קונים זה מזה וכ\"ת דעבדים איתרבו מאליהם עובדי כוכבים נמי ליתרבו מאיש וה\"ה דאשינויא קמא דמי שיש לו טהרה יש לו טומאה פריך:",
+              "ref": "Tosafot on Nazir 61b:5:1",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:ה:א",
+              "sourceRef": "Tosafot on Nazir 61b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rav-aha-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-yaakov\">Rav Aḥa bar Ya’akov</span> explains: This verse teaches that <b>anyone who has inheritance,</b> i.e., he has the ability to bequeath his slaves to his children, also <b>has</b> the status of a father with regard to <b>impurity,</b> and the verse prohibiting a nazirite from becoming impure to bury his father can be addressing him. <b>But anyone who does not have inheritance does not have</b> the status of a father with regard to <b>impurity.</b> Since a gentile cannot bequeath slaves to his child (see <i>Gittin</i> 38a), the status of a father with regard to impurity also does not apply to him. Consequently, the verse prohibiting a nazirite from becoming impure to bury his father cannot be addressing him. The Gemara asks: <b>If so, slaves should also not</b> be included in the <i>halakhot</i> of ritual impurity or naziriteship, as they too cannot bequeath slaves to their children.",
+      "he": "כֹּל שֶׁיֵּשׁ לוֹ נַחֲלָה — יֵשׁ לוֹ טוּמְאָה, וְכֹל שֶׁאֵין לוֹ נַחֲלָה — אֵין לוֹ טוּמְאָה. אִי הָכִי עֲבָדִים נָמֵי לָא!",
+      "ref": "Nazir 61b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא אמר רבא בשלמא גבי ערכין</strong> - דכתיב [בני] ישראל לא מצית למעוטי עובדי כוכבים לגמרי דהא דכתיב בני ישראל ממעריך בלבד הוא דקממעט להו כדאמרינן בני ישראל מעריכין אבל לגמרי לא מצית למעוטי להו דלא ליהוו נערכין דהא הדר בהו איש דמייתי את העובדי כוכבים דליהוו נערכין אבל הכא גבי נזירות ליכא לך למימר דליהוי בכלל נזיר כלל דהיכי אמרת בני ישראל נוזרין ומביאין קרבן ואין העובדי כוכבים נוזרין ומביאין קרבן דהאי דכתיב בנזיר בני ישראל קא ממעט להו מקרבן ומשום מיעוטא דקרבן לא איצטריך למיכתב בני ישראל דמהתם נפקא שאין נוזרין ומביאין קרבן דאמרינן במסכת מנחות בפרק אלו מנחות נקמצות <span class=\"parenthesized\">(מנחות דף עג:)</span> איש איש מבית ישראל כו' אשר יקריב קרבנו לכל נדריהם ולכל נדבותם לרבות את העובדי כוכבים שנודרים נדרים ונדבות כישראל דמלכל נדריהם ולכל נדבותם נפקא לרבות עולה ושלמים ועופות ויין ולבונה א\"כ מה ת\"ל לעולה דכתיב אשר יקריבו לה' לעולה פרט לנזירות דאין העובדי כוכבים מביאין קרבן נזירות דברי ר' יוסי הגלילי וכיון דמהתם נפקא שאין מביאין קרבן נזירות בני ישראל דהכא למאי אתא אלא לומר לך דלא חל עלייהו נזירות כלל והאי דכתיב בהו איש איידי דכתיב אשה לצורך כתב נמי איש שלא לצורך:",
+              "ref": "Rashi on Nazir 61b:6:1",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ו:א",
+              "sourceRef": "Rashi on Nazir 61b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא אמר רבא:</b> יש לחזור ולפתור את השאלה, במה שונה דין הגויים בנזירות מערכין, למרות שבשניהם נאמר \"איש\", באופן אחר. <b>בשלמא גבי</b> <span class=\"hebrew-emphasis\">[נניח אצל</span><span class=\"hebrew-emphasis\">]</span> דין <b>ערכין שנאמר</b> בפרשת ערכין בתורה <b>\"</b>דבר אל <b>בני ישראל\"</b> (ויקרא כז, ב) אנו למדים: <b>בני ישראל מעריכין ואין הגוים מעריכין, יכול לא יהו נערכין —</b> <b>תלמוד לומר: \"איש (איש)\"</b> (ויקרא כז, ב).",
+              "ref": "Steinsaltz on Nazir 61b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:ו",
+              "sourceRef": "Steinsaltz on Nazir 61b:6"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא אמר רבא בשלמא גבי ערכין</strong> - איכא לאוקמי מיעוטא דבני ישראל למעוטי עובדי כוכבים דאין מעריכין וריבוי דאיש לרבות עובדי כוכבים דנערכים אבל הכא אי איש לרבות עובדי כוכבים לנזירות א\"כ [מאי] ממעט בני ישראל דמשמע ולא עובדי כוכבים וכ\"ת בני ישראל נודרים ומביאין קרבן ולא העובדי כוכבים יכול לא יהו נודרים כלל ליאסר באיסורי נזיר [ת\"ל איש] אך לא יביאו קרבן אי משום קרבן לאו מהכא נפקא אלא מהתם לעולה פרט לנזירות בקרא דאיש איש בפרשת אמור דמרבינן מיניה שהעובדי כוכבים נודרין נדבות כישראל וכתיב בסיפיה דקרא לעולה פרט לנזירות דעובד כוכבים דאינו מביא קרבן נזירות וא\"ת וכיון דעובדי כוכבים אימעיטו לגמרי מנזירות א\"כ למה לי לעולה פרט לקרבנות נזירות [י\"ל] שלא יביא עובד כוכבים קרבנות נזירות כדי לפטור ישראל נזיר מקרבנותיו וצ\"ע:",
+              "ref": "Tosafot on Nazir 61b:6:1",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:ו:א",
+              "sourceRef": "Tosafot on Nazir 61b:6:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Speak to the Israelite people and say to them: When anyone explicitly vows to the L<small>ORD</small> the equivalent for a human being,",
+              "he": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם אִ֕ישׁ כִּ֥י יַפְלִ֖א נֶ֑דֶר בְּעֶרְכְּךָ֥ נְפָשֹׁ֖ת לַֽיהֹוָֽה׃",
+              "link": "/Leviticus/27",
+              "ref": "Leviticus 27:2",
+              "sourceHeRef": "ויקרא כז:ב",
+              "sourceRef": "Leviticus 27:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said</b> a different reason why a gentile cannot become a nazirite, even though he is included in the <i>halakhot</i> of valuations, and despite the fact that the term “man” appears in both passages. <b>Granted, with regard to valuations, as it is stated:</b> “Speak to <b>the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>”</b> (Leviticus 27:2), one can derive that <b>the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span> can take a valuation vow but gentiles cannot take a valuation vow.</b> One <b>might</b> have thought that gentiles <b>cannot be valuated</b> either. Therefore, <b>the verse states: “Man”</b> (Leviticus 27:2), so as to include a gentile in only one aspect of the <i>halakhot</i> of valuations, i.e., that a gentile can be the subject of a valuation. This does not negate the derivation from “the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” that gentiles are generally excluded.",
+      "he": "אֶלָּא אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: בִּשְׁלָמָא גַּבֵּי עֲרָכִין, שֶׁנֶּאֱמַר: ״בְּנֵי יִשְׂרָאֵל״ — בְּנֵי יִשְׂרָאֵל מַעֲרִיכִין, וְאֵין הַגּוֹיִם מַעֲרִיכִין. יָכוֹל לֹא יְהוּ נֶעֱרָכִין, תַּלְמוּד לוֹמַר: ״אִישׁ״.",
+      "ref": "Nazir 61b:6"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אבל <b>הכא</b> <span class=\"hebrew-emphasis\">[כאן</span><span class=\"hebrew-emphasis\">]</span> בענין נזירות, אם רוצה אתה לומר שגויים בכלל נזירות, איך תדרוש בדרך זו? מ\"בני ישראל\" תלמד כי <b>בני ישראל נוזרין ומביאין קרבן ואין הגוים נוזרין ומביאין קרבן.</b> ומן המלה \"איש\" תאמר: <b>יכול אף לא יהו נזירין כלל —</b> <b>תלמוד לומר \"איש\"</b> לרבות?",
+              "ref": "Steinsaltz on Nazir 61b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:ז",
+              "sourceRef": "Steinsaltz on Nazir 61b:7"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Speak to the Israelites and say to them: If anyone, man or woman, explicitly utters a nazirite’s vow, to set himself apart for the L<small>ORD</small>,",
+              "he": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה כִּ֤י יַפְלִא֙ לִנְדֹּר֙ נֶ֣דֶר נָזִ֔יר לְהַזִּ֖יר לַֽיהֹוָֽה׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:2",
+              "sourceHeRef": "במדבר ו:ב",
+              "sourceRef": "Numbers 6:2"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> continues his explanation: However, <b>here,</b> in the case of naziriteship, there is no possibility of interpreting the word “man” to include a gentile in only one aspect of the <i>halakhot</i> of naziriteship. <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> explains: If one would suggest the following derivation: From the phrase “the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” (Numbers 6:2) derive that <b>the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span> can</b> both <b>take a vow</b> of <b>naziriteship and bring</b> the nazirite <b>offering, but gentiles cannot</b> both <b>take a vow</b> of <b>naziriteship and bring</b> the nazirite <b>offering,</b> one <b>might</b> have thought that gentiles <b>cannot be nazirites at all;</b> therefore, <b>the verse states: “Man,”</b> which includes gentiles in one aspect of the <i>halakhot</i> of naziriteship, i.e., that they can become nazirites.",
+      "he": "הָכָא, בְּנֵי יִשְׂרָאֵל נוֹזְרִין וּמְבִיאִין קׇרְבָּן, וְאֵין הַגּוֹיִם נוֹזְרִין וּמְבִיאִין קׇרְבָּן. יָכוֹל אַף לֹא יְהוּ נְזִירִין כְּלָל — תַּלְמוּד לוֹמַר: ״אִישׁ״?",
+      "ref": "Nazir 61b:7"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הרי <b>אמרי</b> <span class=\"hebrew-emphasis\">[אומרים</span><span class=\"hebrew-emphasis\">]</span> בתשובה על כך: <b>אי</b> <span class=\"hebrew-emphasis\">[אם</span><span class=\"hebrew-emphasis\">]</span> <b>משום קרבן לאו מהכא נפקא ליה</b> <span class=\"hebrew-emphasis\">[לא מכאן יוצא,</span> נובע, לו הדבר<span class=\"hebrew-emphasis\">],</span> <b>אלא מהתם</b> <span class=\"hebrew-emphasis\">[משם</span><span class=\"hebrew-emphasis\">]</span> מכתוב אחר, שנאמר <b>\"</b>איש איש מבית ישראל ומן הגר בישראל אשר יקריב קרבנו לכל נדריהם ולכל נדבותם אשר יקריבו לה' <b>לעלה\"</b> (ויקרא כב, יח) — <b>פרט ל</b>קרבן <b>נזירות</b> שאין הגוי מקריב, אלו <b>דברי ר' יוסי הגלילי!</b> ואם כן מה שנאמר \"בני ישראל\" בנזירות לא למעט קרבן בא שהרי כבר נתמעטו מכך הגויים, אלא למעט כל עיקרה של הנזירות.",
+              "ref": "Steinsaltz on Nazir 61b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:ח",
+              "sourceRef": "Steinsaltz on Nazir 61b:8"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Speak to Aaron and his sons, and to all the Israelite people, and say to them:<br>When any man of the house of Israel or of the strangers in Israel presents a burnt offering as his offering for any of the votive or any of the freewill offerings that they offer to the L<small>ORD</small>,",
+              "he": "דַּבֵּ֨ר אֶֽל־אַהֲרֹ֜ן וְאֶל־בָּנָ֗יו וְאֶל֙ כׇּל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֣ישׁ אִישׁ֩ מִבֵּ֨ית יִשְׂרָאֵ֜ל וּמִן־הַגֵּ֣ר בְּיִשְׂרָאֵ֗ל אֲשֶׁ֨ר יַקְרִ֤יב קׇרְבָּנוֹ֙ לְכׇל־נִדְרֵיהֶם֙ וּלְכׇל־נִדְבוֹתָ֔ם אֲשֶׁר־יַקְרִ֥יבוּ לַיהֹוָ֖ה לְעֹלָֽה׃",
+              "link": "/Leviticus/22",
+              "ref": "Leviticus 22:18",
+              "sourceHeRef": "ויקרא כב:יח",
+              "sourceRef": "Leviticus 22:18"
+            },
+            {
+              "en": [
+                "The L<small>ORD</small> spoke to Moses, saying:",
+                "Speak to the Israelite people and say to them:<br>I the L<small>ORD</small> am your God.",
+                "You shall not copy the practices of the land of Egypt where you dwelt, or of the land of Canaan to which I am taking you; nor shall you follow their laws.",
+                "My rules alone shall you observe, and faithfully follow My laws: I the L<small>ORD</small> am your God.",
+                "You shall keep My laws and My rules, by the pursuit of which man shall live: I am the L<small>ORD</small>.",
+                "None of you shall come near anyone of his own flesh to uncover nakedness: I am the L<small>ORD</small>.",
+                "Your father’s nakedness, that is, the nakedness of your mother, you shall not uncover; she is your mother—you shall not uncover her nakedness.",
+                "Do not uncover the nakedness of your father’s wife; it is the nakedness of your father.",
+                "The nakedness of your sister—your father’s daughter or your mother’s, whether born into the household or outside—do not uncover their nakedness.",
+                "The nakedness of your son’s daughter, or of your daughter’s daughter—do not uncover their nakedness; for their nakedness is yours.",
+                "The nakedness of your father’s wife’s daughter, who was born into your father’s household—she is your sister; do not uncover her nakedness.",
+                "Do not uncover the nakedness of your father’s sister; she is your father’s flesh.",
+                "Do not uncover the nakedness of your mother’s sister; for she is your mother’s flesh.",
+                "Do not uncover the nakedness of your father’s brother: do not approach his wife; she is your aunt.",
+                "Do not uncover the nakedness of your daughter-in-law: she is your son’s wife; you shall not uncover her nakedness.",
+                "Do not uncover the nakedness of your brother’s wife; it is the nakedness of your brother.",
+                "Do not uncover the nakedness of a woman and her daughter; nor shall you marry her son’s daughter or her daughter’s daughter and uncover her nakedness: they are kindred; it is depravity.",
+                "Do not marry a woman as a rival to her sister and uncover her nakedness in the other’s lifetime.",
+                "Do not come near a woman during her period of uncleanness to uncover her nakedness.",
+                "Do not have carnal relations with your neighbor’s wife and defile yourself with her.",
+                "Do not allow any of your offspring to be offered up to Molech, and do not profane the name of your God: I am the L<small>ORD</small>.",
+                "Do not lie with a male as one lies with a woman; it is an abhorrence.",
+                "Do not have carnal relations with any beast and defile yourself thereby; and let no woman lend herself to a beast to mate with it; it is perversion.",
+                "Do not defile yourselves in any of those ways, for it is by such that the nations that I am casting out before you defiled themselves.",
+                "Thus the land became defiled; and I called it to account for its iniquity, and the land spewed out its inhabitants.",
+                "But you must keep My laws and My rules, and you must not do any of those abhorrent things, neither the citizen nor the stranger who resides among you;",
+                "for all those abhorrent things were done by the people who were in the land before you, and the land became defiled.",
+                "So let not the land spew you out for defiling it, as it spewed out the nation that came before you.",
+                "All who do any of those abhorrent things—such persons shall be cut off from their people.",
+                "You shall keep My charge not to engage in any of the abhorrent practices that were carried on before you, and you shall not defile yourselves through them: I the L<small>ORD</small> am your God."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Leviticus 18:1",
+                "Leviticus 18:2",
+                "Leviticus 18:3",
+                "Leviticus 18:4",
+                "Leviticus 18:5",
+                "Leviticus 18:6",
+                "Leviticus 18:7",
+                "Leviticus 18:8",
+                "Leviticus 18:9",
+                "Leviticus 18:10",
+                "Leviticus 18:11",
+                "Leviticus 18:12",
+                "Leviticus 18:13",
+                "Leviticus 18:14",
+                "Leviticus 18:15",
+                "Leviticus 18:16",
+                "Leviticus 18:17",
+                "Leviticus 18:18",
+                "Leviticus 18:19",
+                "Leviticus 18:20",
+                "Leviticus 18:21",
+                "Leviticus 18:22",
+                "Leviticus 18:23",
+                "Leviticus 18:24",
+                "Leviticus 18:25",
+                "Leviticus 18:26",
+                "Leviticus 18:27",
+                "Leviticus 18:28",
+                "Leviticus 18:29"
+              ],
+              "he": [
+                "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+                "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+                "כְּמַעֲשֵׂ֧ה אֶֽרֶץ־מִצְרַ֛יִם אֲשֶׁ֥ר יְשַׁבְתֶּם־בָּ֖הּ לֹ֣א תַעֲשׂ֑וּ וּכְמַעֲשֵׂ֣ה אֶֽרֶץ־כְּנַ֡עַן אֲשֶׁ֣ר אֲנִי֩ מֵבִ֨יא אֶתְכֶ֥ם שָׁ֙מָּה֙ לֹ֣א תַעֲשׂ֔וּ וּבְחֻקֹּתֵיהֶ֖ם לֹ֥א תֵלֵֽכוּ׃",
+                "אֶת־מִשְׁפָּטַ֧י תַּעֲשׂ֛וּ וְאֶת־חֻקֹּתַ֥י תִּשְׁמְר֖וּ לָלֶ֣כֶת בָּהֶ֑ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+                "וּשְׁמַרְתֶּ֤ם אֶת־חֻקֹּתַי֙ וְאֶת־מִשְׁפָּטַ֔י אֲשֶׁ֨ר יַעֲשֶׂ֥ה אֹתָ֛ם הָאָדָ֖ם וָחַ֣י בָּהֶ֑ם אֲנִ֖י יְהֹוָֽה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "אִ֥ישׁ אִישׁ֙ אֶל־כׇּל־שְׁאֵ֣ר בְּשָׂר֔וֹ לֹ֥א תִקְרְב֖וּ לְגַלּ֣וֹת עֶרְוָ֑ה אֲנִ֖י יְהֹוָֽה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֥ת אָבִ֛יךָ וְעֶרְוַ֥ת אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה אִמְּךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֥ת אֵֽשֶׁת־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָבִ֖יךָ הִֽוא׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֨ת אֲחֽוֹתְךָ֤ בַת־אָבִ֙יךָ֙ א֣וֹ בַת־אִמֶּ֔ךָ מוֹלֶ֣דֶת בַּ֔יִת א֖וֹ מוֹלֶ֣דֶת ח֑וּץ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽן׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֤ת בַּת־בִּנְךָ֙ א֣וֹ בַֽת־בִּתְּךָ֔ לֹ֥א תְגַלֶּ֖ה עֶרְוָתָ֑ן כִּ֥י עֶרְוָתְךָ֖ הֵֽנָּה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֨ת בַּת־אֵ֤שֶׁת אָבִ֙יךָ֙ מוֹלֶ֣דֶת אָבִ֔יךָ אֲחוֹתְךָ֖ הִ֑וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֥ת אֲחוֹת־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה שְׁאֵ֥ר אָבִ֖יךָ הִֽוא׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֥ת אֲחֽוֹת־אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה כִּֽי־שְׁאֵ֥ר אִמְּךָ֖ הִֽוא׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֥ת אֲחִֽי־אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה אֶל־אִשְׁתּוֹ֙ לֹ֣א תִקְרָ֔ב דֹּדָֽתְךָ֖ הִֽוא׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֥ת כַּלָּֽתְךָ֖ לֹ֣א תְגַלֵּ֑ה אֵ֤שֶׁת בִּנְךָ֙ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֥ת אֵֽשֶׁת־אָחִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָחִ֖יךָ הִֽוא׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                "עֶרְוַ֥ת אִשָּׁ֛ה וּבִתָּ֖הּ לֹ֣א תְגַלֵּ֑ה אֶֽת־בַּת־בְּנָ֞הּ וְאֶת־בַּת־בִּתָּ֗הּ לֹ֤א תִקַּח֙ לְגַלּ֣וֹת עֶרְוָתָ֔הּ שַׁאֲרָ֥ה הֵ֖נָּה זִמָּ֥ה הִֽוא׃",
+                "וְאִשָּׁ֥ה אֶל־אֲחֹתָ֖הּ לֹ֣א תִקָּ֑ח לִצְרֹ֗ר לְגַלּ֧וֹת עֶרְוָתָ֛הּ עָלֶ֖יהָ בְּחַיֶּֽיהָ׃",
+                "וְאֶל־אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א תִקְרַ֔ב לְגַלּ֖וֹת עֶרְוָתָֽהּ׃",
+                "וְאֶל־אֵ֙שֶׁת֙ עֲמִֽיתְךָ֔ לֹא־תִתֵּ֥ן שְׁכׇבְתְּךָ֖ לְזָ֑רַע לְטׇמְאָה־בָֽהּ׃",
+                "וּמִֽזַּרְעֲךָ֥ לֹא־תִתֵּ֖ן לְהַעֲבִ֣יר לַמֹּ֑לֶךְ וְלֹ֧א תְחַלֵּ֛ל אֶת־שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהֹוָֽה׃",
+                "וְאֶ֨ת־זָכָ֔ר לֹ֥א תִשְׁכַּ֖ב מִשְׁכְּבֵ֣י אִשָּׁ֑ה תּוֹעֵבָ֖ה הִֽוא׃",
+                "וּבְכׇל־בְּהֵמָ֛ה לֹא־תִתֵּ֥ן שְׁכׇבְתְּךָ֖ לְטׇמְאָה־בָ֑הּ וְאִשָּׁ֗ה לֹֽא־תַעֲמֹ֞ד לִפְנֵ֧י בְהֵמָ֛ה לְרִבְעָ֖הּ תֶּ֥בֶל הֽוּא׃",
+                "אַל־תִּֽטַּמְּא֖וּ בְּכׇל־אֵ֑לֶּה כִּ֤י בְכׇל־אֵ֙לֶּה֙ נִטְמְא֣וּ הַגּוֹיִ֔ם אֲשֶׁר־אֲנִ֥י מְשַׁלֵּ֖חַ מִפְּנֵיכֶֽם׃",
+                "וַתִּטְמָ֣א הָאָ֔רֶץ וָאֶפְקֹ֥ד עֲוֺנָ֖הּ עָלֶ֑יהָ וַתָּקִ֥א הָאָ֖רֶץ אֶת־יֹשְׁבֶֽיהָ׃",
+                "וּשְׁמַרְתֶּ֣ם אַתֶּ֗ם אֶת־חֻקֹּתַי֙ וְאֶת־מִשְׁפָּטַ֔י וְלֹ֣א תַעֲשׂ֔וּ מִכֹּ֥ל הַתּוֹעֵבֹ֖ת הָאֵ֑לֶּה הָֽאֶזְרָ֔ח וְהַגֵּ֖ר הַגָּ֥ר בְּתוֹכְכֶֽם׃",
+                "כִּ֚י אֶת־כׇּל־הַתּוֹעֵבֹ֣ת הָאֵ֔ל עָשׂ֥וּ אַנְשֵֽׁי־הָאָ֖רֶץ אֲשֶׁ֣ר לִפְנֵיכֶ֑ם וַתִּטְמָ֖א הָאָֽרֶץ׃",
+                "וְלֹֽא־תָקִ֤יא הָאָ֙רֶץ֙ אֶתְכֶ֔ם בְּטַֽמַּאֲכֶ֖ם אֹתָ֑הּ כַּאֲשֶׁ֥ר קָאָ֛ה אֶת־הַגּ֖וֹי אֲשֶׁ֥ר לִפְנֵיכֶֽם׃",
+                "כִּ֚י כׇּל־אֲשֶׁ֣ר יַעֲשֶׂ֔ה מִכֹּ֥ל הַתּוֹעֵבֹ֖ת הָאֵ֑לֶּה וְנִכְרְת֛וּ הַנְּפָשׁ֥וֹת הָעֹשֹׂ֖ת מִקֶּ֥רֶב עַמָּֽם׃",
+                "וּשְׁמַרְתֶּ֣ם אֶת־מִשְׁמַרְתִּ֗י לְבִלְתִּ֨י עֲשׂ֜וֹת מֵחֻקּ֤וֹת הַתּֽוֹעֵבֹת֙ אֲשֶׁ֣ר נַעֲשׂ֣וּ לִפְנֵיכֶ֔ם וְלֹ֥א תִֽטַּמְּא֖וּ בָּהֶ֑ם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃ <span class=\"mam-spi-pe\">{פ}</span><br>"
+              ],
+              "link": "/Leviticus/18",
+              "ref": "Leviticus 18",
+              "sourceHeRef": "ויקרא י״ח",
+              "sourceRef": "Leviticus 18"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> continues his explanation: However, the Sages would <b>say</b> in response to this suggestion: <b>If</b> the phrase “the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” is written <b>due to</b> the need to exclude a gentile from bringing a nazirite <b>offering, one does not</b> need to <b>derive</b> this <i>halakha</i> <b>from here, and</b> this is because it is already derived <b>from there,</b> as a <i>baraita</i> teaches that the verse: “Any man from the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">house of Israel</span>, or of the strangers in <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"אפי-(ambiguous)\">Israel</span>, who sacrifices his offering, whether it be any of their vows, or any of their gift offerings, which are sacrificed to the Lord <b>as a burnt-offering”</b> (Leviticus 22:18), <b>excludes</b> a gentile from the offering of <b>naziriteship;</b> this is <b>the statement of <span href=\"/topics/rabbi-yose-hagelili\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-hagelili\">Rabbi Yosei HaGelili</span>.</b> Therefore, the phrase “the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” must exclude gentiles from the entire passage of naziriteship, and not just from bringing the offerings.",
+      "he": "אָמְרִי: אִי מִשּׁוּם קׇרְבָּן לָאו מֵהָכָא נָפְקָא לֵיהּ, אֶלָּא מֵהָתָם: ״לְעוֹלָה״ — פְּרָט לִנְזִירוּת, דִּבְרֵי רַבִּי יוֹסֵי הַגְּלִילִי!",
+      "ref": "Nazir 61b:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואימא</strong> - דהאי דכתיב בני ישראל גבי נזירות משום דקאתי לאשמועי' דממעט להו לעובדי כוכבים מנזירות עולם ומיהו בנזירות סתם קאי בלא קרבן מדכתיב בהו איש:",
+              "ref": "Rashi on Nazir 61b:9:1",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ט:א",
+              "sourceRef": "Rashi on Nazir 61b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי כתיב נזיר עולם</strong> - בקרא דקאמרת בני ישראל נוזרין נזירות עולם אבל לא העובדי כוכבים והא לא גמרי נזירות עולם אלא מאבשלום כדאמרינן לעיל בפירקא קמא <span class=\"parenthesized\">(נזיר דף ד:)</span>:",
+              "ref": "Rashi on Nazir 61b:9:2",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:ט:ב",
+              "sourceRef": "Rashi on Nazir 61b:9:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: עדיין ניתן ללמוד שגוי שייך בנזירות, <b>אימא</b> <span class=\"hebrew-emphasis\">[אמור</span><span class=\"hebrew-emphasis\">]</span> ודרוש כך את הכתובים: הכתוב \"דבר אל בני ישראל\" (במדבר ו, ב), מלמד ש<b>בני ישראל נוזרין נזירות עולם —</b> <b>ואין הגוים נוזרים נזירות עולם, יכול לא יהו נזירים</b> כלל — <b>תלמוד לומר: \"איש\"</b> (במדבר ו, ב)! <b>אמר ר' יוחנן: מי כתיב</b> <span class=\"hebrew-emphasis\">[האם נאמר</span><span class=\"hebrew-emphasis\">]</span> בכתוב <b>\"נזיר עולם\"?</b> \"נזיר\" סתם נאמר, והכתוב ממעט גויים מכל דין נזירות, וכל סוג.",
+              "ref": "Steinsaltz on Nazir 61b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:ט",
+              "sourceRef": "Steinsaltz on Nazir 61b:9"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: But it can still be argued that “the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” is excluding a gentile from only some aspects of naziriteship, as one can <b>say</b> that this phrase teaches that <b>the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span> can take a vow</b> of <b>permanent naziriteship, but gentiles cannot take a vow</b> of <b>permanent naziriteship,</b> and one <b>might</b> have thought that gentiles <b>cannot be nazirites</b> at all. <b>The verse</b> therefore <b>states: “Man,”</b> to teach that they can become nazirites. The Gemara answers: <b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> said: Is it written: A permanent nazirite?</b> Since the verse does not specify a particular type of naziriteship, it excludes gentiles from all types.",
+      "he": "אֵימָא: בְּנֵי יִשְׂרָאֵל נוֹזְרִין נְזִירוּת עוֹלָם, וְאֵין הַגּוֹיִם נוֹזְרִים נְזִירוּת עוֹלָם. יָכוֹל לֹא יְהוּ נְזִירִים — תַּלְמוּד לוֹמַר: ״אִישׁ״! אָמַר רַבִּי יוֹחָנָן: מִי כְּתִיב ״נְזִיר עוֹלָם״?",
+      "ref": "Nazir 61b:9"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The mishna states: In the case of <b>an Israelite woman who is married</b> to a priest, her meal-offering is burned; and in the case of the daughter of a priest who is married to an Israelite, her meal-offering is eaten. The Gemara asks: <b>What is the reason</b> for this? This is <b>as the verse states: “And every meal-offering of a priest shall be completely burned; it shall not be eaten”</b> (Leviticus 6:16). One can infer that this applies to <b>a priest, but not</b> to <b>the daughter of a priest.</b>",
+                "The mishna states: The <b>daughter of a priest can become disqualified</b> from marrying a priest and from partaking of <i>teruma</i> by engaging in sexual intercourse with someone forbidden to her, but <b>a priest does not become desacralized</b> by engaging in sexual intercourse with a woman forbidden to him. The Gemara asks: <b>From where do we</b> derive this? It is <b>as the verse states</b> with regard to a priest who marries a woman forbidden to him: <b>“And he shall not disqualify his offspring among his people”</b> (Leviticus 21:15), indicating that <b>his offspring</b> from forbidden intercourse <b>are desacralized, but he is not</b> personally <b>desacralized</b> through his actions.",
+                "The mishna states: <b>A daughter of a priest may become impure</b> with impurity imparted by a corpse, but a priest may not. The Gemara asks: <b>What is the reason</b> for this? The Gemara answers: <b>The verse states: “Speak to the priests, the sons of Aaron,</b> and say to them: None shall become impure for the dead among his people” (Leviticus 21:1). The verse indicates that this applies to <b>the sons of Aaron and not</b> to <b>the daughters of Aaron.</b>",
+                "The mishna states: <b>A priest may eat from offerings of the most sacred order,</b> but a daughter of a priest may not eat from offerings of the most sacred order. The Gemara explains: This is derived <b>as it is written</b> with regard to the meal-offering, which is an offering of the most sacred order: <b>“Every male among the children of Aaron may eat of it”</b> (Leviticus 6:11).",
+                "The mishna states: <b>And what</b> are the halakhic differences <b>between a man</b> and a woman? A man lets his hair grow and rends his garments when he is a leper, but a woman does not. <b>The Sages taught:</b> The verse states: “He is a leprous <b>man,</b> he is impure” (Leviticus 13:44). <b>I have</b> derived <b>only</b> that the <i>halakhot</i> of a confirmed leper apply to <b>a man; from where</b> do I derive that they apply to <b>a woman? When it says</b> in the subsequent verse: <b>“And the leper in whom</b> the plague is, his clothes shall be rent, and the hair of his head shall grow wild and he shall cover his upper lip; and he shall cry: Impure, impure” (Leviticus 13:45), <b>there are two</b> individuals indicated <b>here,</b> as this verse did not need to restate “and the leper,” as the subject of the verse was clear from the previous verse.",
+                "<b>If so, what</b> is the meaning when <b>the verse states:</b> A leprous <b>“man”?</b> This is referring <b>to the matter</b> of rending one’s clothes and letting one’s hair grow wild, <b>which</b> is stated in the verse <b>below,</b> and teaches that <b>a man lets</b> the hair of his head <b>grow</b> and rends his garments, but a woman does not.",
+                "The mishna states: <b>A man can vow</b> that <b>his</b> minor <b>son</b> shall <b>be a nazirite, but a woman cannot vow</b> that <b>her son</b> shall <b>be a nazirite. Rabbi Yoḥanan says: This is a <i>halakha</i></b> transmitted orally to Moses from Sinai <b>with regard to</b> the <b>nazirite,</b> and it is not derived from the Bible. The mishna states: <b>A man can shave</b> at the culmination of his naziriteship <b>by</b> using offerings designated for <b>his father’s naziriteship, but a woman cannot shave by</b> using offerings designated for <b>her father’s naziriteship. Rabbi Yoḥanan says: This is a <i>halakha</i></b> transmitted orally to Moses from Sinai <b>with regard to</b> the <b>nazirite,</b> and it is not derived from the Bible.",
+                "The mishna states: <b>A man can betroth his daughter</b> to another man while she is a minor, <b>but a woman cannot betroth her daughter.</b> The Gemara explains: This is <b>as it is written:</b> “And the father of the maiden shall say to the elders: <b>I gave my daughter to this man</b> as a wife” (Deuteronomy 22:16), indicating that it is only the father who has the power to betroth his daughter. The mishna states: <b>A man can sell his daughter</b> as a maidservant <b>but a woman cannot sell her daughter.</b> The Gemara explains: This is derived <b>as it is written: “And if a man sells his daughter</b> to be a maidservant” (Exodus 21:7), indicating that only a man can sell his daughter, while a woman cannot.",
+                "The mishna states: <b>A man is stoned naked,</b> but a woman is not stoned naked. The Gemara asks: <b>What is the reason</b> for this? The Gemara answers: The verse states: <b>“And</b> let the entire congregation <b>stone him”</b> (Leviticus 24:14). <b>What</b> does the term <b>“him”</b> come to exclude? <b>If we say</b> this means that they stone <b>him but not her,</b> i.e., that a woman is not stoned at all, <b>but isn’t it written: “And you shall take out that man or that woman,</b> who did this evil thing, to your gates, that man or that woman; and you shall stone them with stones, and they shall die” (Deuteronomy 17:5). <b>Rather,</b> the term <b>“him”</b> excludes his garment, indicating that he is stoned <b>without his garment. And</b> a woman is excluded from this <i>halakha</i>, as one may infer from the term “him” that they do <b>not</b> stone <b>her without her garment.</b>",
+                "The mishna states: <b>A man is hanged, but</b> a woman is <b>not</b> hanged. The Gemara asks: <b>What is the reason</b> for this? <b>The verse states:</b> “And if a man has committed a sin worthy of death, and he is put to death, <b>and you shall hang him on a tree”</b> (Deuteronomy 21:22). The verse indicates that one should hang <b>“him,”</b> a man, <b>but not her,</b> a woman.",
+                "The mishna states: <b>A man is sold for his</b> committing an act of <b>theft, but a woman is not sold for her</b> committing an act of <b>theft.</b> The Gemara asks: <b>What is the reason</b> for this? <b>The verse states:</b> “If the sun rose upon him, there is blood-guilt for him; he shall make restitution; if he has nothing, <b>then he shall be sold for his theft”</b> (Exodus 22:2). The verse indicates that he is sold <b>for his theft, but</b> she is <b>not</b> sold <b>for her theft.</b>",
+                ""
+              ],
+              "expandedRefsAfterRewriting": [
+                "Sotah 23b:2",
+                "Sotah 23b:3",
+                "Sotah 23b:4",
+                "Sotah 23b:5",
+                "Sotah 23b:6",
+                "Sotah 23b:7",
+                "Sotah 23b:8",
+                "Sotah 23b:9",
+                "Sotah 23b:10",
+                "Sotah 23b:11",
+                "Sotah 23b:12",
+                "Sotah 23b:13"
+              ],
+              "he": [
+                "בַּת יִשְׂרָאֵל הַנְּשׂוּאָה וְכוּ׳. מַאי טַעְמָא — דְּאָמַר קְרָא: ״וְכׇל מִנְחַת כֹּהֵן כָּלִיל תִּהְיֶה לֹא תֵאָכֵל״. כֹּהֵן וְלֹא כֹּהֶנֶת.",
+                "כֹּהֶנֶת מִתְחַלֶּלֶת, כֹּהֵן אֵין מִתְחַלֵּל. מְנָלַן — דְּאָמַר קְרָא: ״וְלֹא יְחַלֵּל זַרְעוֹ בְּעַמָּיו״. זַרְעוֹ מִתְחַלֵּל, וְהוּא אֵינוֹ מִתְחַלֵּל.",
+                "כֹּהֶנֶת מִטַּמְּאָה כּוּ׳. מַאי טַעְמָא — אָמַר קְרָא: ״אֱמֹר אֶל הַכֹּהֲנִים בְּנֵי אַהֲרֹן״. בְּנֵי אַהֲרֹן וְלֹא בְּנוֹת אַהֲרֹן.",
+                "כֹּהֵן אוֹכֵל בְּקׇדְשֵׁי קֳדָשִׁים, דִּכְתִיב: ״כׇּל זָכָר בִּבְנֵי אַהֲרֹן יֹאכֲלֶנָּה״.",
+                "וּמָה בֵּין אִישׁ כּוּ׳. תָּנוּ רַבָּנַן: ״אִישׁ״ — אֵין לִי אֶלָּא אִישׁ. אִשָּׁה מִנַּיִן? כְּשֶׁהוּא אוֹמֵר ״וְהַצָּרוּעַ אֲשֶׁר בּוֹ״ — הֲרֵי כָּאן שְׁנַיִם,",
+                "אִם כֵּן, מָה תַּלְמוּד לוֹמַר ״אִישׁ״ — לָעִנְיָן שֶׁלְּמַטָּה, אִישׁ פּוֹרֵעַ וְכוּ׳.",
+                "הָאִישׁ מַדִּיר אֶת בְּנוֹ בְּנָזִיר, וְאֵין הָאִשָּׁה מַדֶּרֶת בְּנָהּ בְּנָזִיר. אָמַר רַבִּי יוֹחָנָן, הֲלָכָה הִיא בְּנָזִיר: הָאִישׁ מְגַלֵּחַ עַל נְזִירוּת אָבִיו, וְאֵין הָאִשָּׁה מְגַלַּחַת עַל נְזִירוּת אָבִיהָ. אָמַר רַבִּי יוֹחָנָן: הֲלָכָה הִיא בְּנָזִיר.",
+                "הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ, וְאֵין הָאִשָּׁה מְקַדֶּשֶׁת אֶת בִּתָּהּ — דִּכְתִיב: ״אֶת בִּתִּי נָתַתִּי לָאִישׁ הַזֶּה״. הָאִישׁ מוֹכֵר אֶת בִּתּוֹ, וְאֵין הָאִשָּׁה מוֹכֶרֶת אֶת בִּתָּהּ — דִּכְתִיב: ״וְכִי יִמְכּוֹר אִישׁ אֶת בִּתּוֹ״.",
+                "הָאִישׁ נִסְקָל עָרוֹם כּוּ׳. מַאי טַעְמָא — ״וְרָגְמוּ אוֹתוֹ״. מַאי ״אוֹתוֹ״? אִילֵּימָא אוֹתוֹ וְלֹא אוֹתָהּ, וְהָכְתִיב ״וְהוֹצֵאתָ אֶת הָאִישׁ הַהוּא אוֹ אֶת הָאִשָּׁה הַהִיא״! אֶלָּא: אוֹתוֹ בְּלֹא כְּסוּתוֹ, וְלֹא אוֹתָהּ בְּלֹא כְּסוּתָהּ.",
+                "הָאִישׁ נִתְלֶה וְאֵין כּוּ׳. מַאי טַעְמָא — אָמַר קְרָא: ״וְתָלִיתָ אוֹתוֹ עַל עֵץ״, אוֹתוֹ וְלֹא אוֹתָהּ.",
+                "הָאִישׁ נִמְכָּר בִּגְנֵיבָתוֹ, וְאֵין הָאִשָּׁה נִמְכֶּרֶת בִּגְנֵיבָתָהּ. מַאי טַעְמָא, אָמַר קְרָא: ״וְנִמְכַּר בִּגְנֵיבָתוֹ״, בִּגְנֵיבָתוֹ וְלֹא בִּגְנֵיבָתָהּ.",
+                "<br><br><big><strong>הֲדַרַן עֲלָךְ הָיָה נוֹטֵל</strong></big><br><br>"
+              ],
+              "link": "/Sotah/23b",
+              "originalRefsBeforeRewriting": [
+                "Sotah 23b:8"
+              ],
+              "ref": "Sotah 23b:2-13",
+              "sourceHeRef": "סוטה כ״ג ב",
+              "sourceRef": "Sotah 23b"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והאמר רבי יוחנן</strong> - בפירקין דלעיל <span class=\"parenthesized\">(נזיר דף כח:)</span> הלכה היא בנזיר שהאב מזיר את בנו בנזיר הואיל דלאו מקרא נפקא ליכא לך למימר דבני ישראל אתא לומר דישראל מדירין את בניהם בנזיר ולא העובדי כוכבים ואתא איש לרבות את העובדי כוכבים בנזיר עצמו בלא קרבן אלא דהאי דכתיב בהו ישראל קא ממעט להו מנזירות לגמרי:",
+              "ref": "Rashi on Nazir 61b:10:1",
+              "sourceHeRef": "רש\"י על נזיר ס״א ב:י:א",
+              "sourceRef": "Rashi on Nazir 61b:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים עוד, <b>אימא</b> <span class=\"hebrew-emphasis\">[אמור</span><span class=\"hebrew-emphasis\">]</span> כך את דרשת הכתוב: <b>בני ישראל</b> מיוחדים בנזירות לפי שהם <b>מדירין בניהם</b> הקטנים <b>בנזיר, ואין הגוים מדירין בניהם בנזיר, יכול לא יהו נזירים</b> בעצמם — <b>תלמוד לומר: \"איש\"!</b> ומשיבים, <b>האמר</b> <span class=\"hebrew-emphasis\">[הרי אמר</span><span class=\"hebrew-emphasis\">]</span> <b>ר' יוחנן: הלכה</b> למשה מסיני <b>היא בנזיר</b> שהאב מדיר את בנו, ואינו כתוב במקרא, ובודאי לא בא הכתוב למעט אותו.",
+              "ref": "Steinsaltz on Nazir 61b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:י",
+              "sourceRef": "Steinsaltz on Nazir 61b:10"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' ד\"ה ואימא בני ישראל וכו' למעוטי דבר.</b> עי' זבחים דף ה ע\"ב תד\"ה ניתק וצע\"ק:",
+                      "ref": "Gilyon HaShas on Nazir 61b:3",
+                      "sourceHeRef": "גליון הש\"ס על נזיר ס״א ב:ג",
+                      "sourceRef": "Gilyon HaShas on Nazir 61b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואימא בני ישראל מדירין בניהן בנזיר כו' יכול לא יהו נזירין ת\"ל איש הא איתמר עלה א\"ר יוחנן הלכה היא בנזיר</strong> - א\"כ הלכה לא נשנית אלא לגבי ישראל אין סברא דליתי מיעוטא למעוטי דבר שאינו אלא הלכה למשה מסיני:",
+              "ref": "Tosafot on Nazir 61b:10:1",
+              "sourceHeRef": "תוספות על נזיר ס״א ב:י:א",
+              "sourceRef": "Tosafot on Nazir 61b:10:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara offers another suggestion: But it can still be argued that “the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” is excluding a gentile from only some aspects of naziriteship, as one can <b>say</b> that this phrase teaches that <b>“the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” can vow</b> that <b>their</b> minor <b>sons be nazirites, but gentiles cannot vow</b> that <b>their</b> minor <b>sons be nazirites;</b> and one <b>might</b> have thought that gentiles <b>cannot be nazirites</b> at all. <b>The verse</b> therefore <b>states: “Man,”</b> to teach that they can become nazirites. The Gemara answers: <b>Didn’t <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> say</b> that the fact that a father can take a vow that his minor son will be a nazirite <b>is a <i>halakha</i></b> transmitted to <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> at Sinai <b>with regard to a nazirite?</b> Since this <i>halakha</i> is not stated in the Torah, it cannot be excluded by a verse.",
+      "he": "אֵימָא: בְּנֵי יִשְׂרָאֵל מַדִּירִין בְּנֵיהֶם בְּנָזִיר, וְאֵין הַגּוֹיִם מַדִּירִין בְּנֵיהֶם בְּנָזִיר. יָכוֹל לֹא יְהוּ נְזִירִים — תַּלְמוּד לוֹמַר: ״אִישׁ״! הָאָמַר רַבִּי יוֹחָנָן: הֲלָכָה הִיא בְּנָזִיר.",
+      "ref": "Nazir 61b:10"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים עוד, <b>אימא</b> <span class=\"hebrew-emphasis\">[אמור</span><span class=\"hebrew-emphasis\">]</span> כך: <b>בני ישראל</b> יש להם דין מיוחד בנזירות שהם <b>מגלחין על</b> קרבנות <b>נזירות אביהן ואין הגוים מגלחין על נזירות אביהן.</b>",
+              "ref": "Steinsaltz on Nazir 61b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״א ב:יא",
+              "sourceRef": "Steinsaltz on Nazir 61b:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The suggestion of the Gemara that a gentile is excluded only from using his late father’s offerings for his own naziriteship is puzzling, as everyone agrees that regardless of whether he can accept naziriteship upon himself, a gentile certainly cannot bring naziriteship offerings (see Rosh). Later authorities explain that although a gentile cannot bring nazirite offerings, he can bring voluntary offerings at the end of his period of naziriteship. It is therefore not unreasonable to suggest that the verse might be excluding a gentile from using his late father’s offerings (see <i>Birkat Rosh </i>and <i>Meromei Sadeh</i>).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Nazir 61b:11",
+              "sourceHeRef": "אֵימָא בְּנֵי יִשְׂרָאֵל מְגַלְּחִין וכו׳",
+              "sourceRef": "Say that the children of Israel can shave, etc."
+            }
+          ]
+        }
+      },
+      "en": "The Gemara offers another suggestion: But it can still be argued that “the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” is excluding a gentile from only some aspects of naziriteship, as one can <b>say</b> that this phrase teaches that <b>“the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span>” can shave</b> and cut their hair <b>by</b> means of the offerings of <b>their fathers’ naziriteships, but gentiles cannot shave</b> and cut their hair <b>by</b> means of <b>their fathers’ naziriteships.</b> In other words, if the father of a nazirite, who was himself a nazirite, died after having separated his nazirite offerings, the son is able to bring those offerings at the close of his own naziriteship.",
+      "he": "אֵימָא: בְּנֵי יִשְׂרָאֵל מְגַלְּחִין עַל נְזִירוּת אֲבִיהֶן, וְאֵין הַגּוֹיִם מְגַלְּחִין עַל נְזִירוּת אֲבִיהֶן.",
+      "ref": "Nazir 61b:11"
+    }
+  ],
+  "title": "Nazir 61b",
+  "titleHebrew": "נזיר סא,ב",
+  "topics": []
+}

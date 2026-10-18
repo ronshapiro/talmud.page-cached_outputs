@@ -1,0 +1,936 @@
+{
+  "id": "53b",
+  "sections": [
+    {
+      "commentary": {
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל במקום שמביאין ירק מח\"ל לארץ אסור</strong> - כלומר אסור בשניהם דהוי ליה מקום שמסתפקין זה מזה:",
+              "ref": "Ran on Nedarim 53b:1:1",
+              "sourceHeRef": "ר\"ן על נדרים נ״ג ב:א:א",
+              "sourceRef": "Ran on Nedarim 53b:1:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> מותר כו' זה הדבור כולו נמחק גריסין הס\"ד הכל היא הס\"ד קאמר הס\"ד חיין הס\"ד מבושל הס\"ד:",
+                      "ref": "Chidushei Halachot on Nedarim 53b:2",
+                      "sourceHeRef": "חדושי הלכות על נדרים נ״ג ב:ב",
+                      "sourceRef": "Chidushei Halachot on Nedarim 53b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(גמ')</span> לא שנו</strong> - דשביעית מותר בירקות הגינה אלא במקום שאין מביאין ירק מח\"ל דכיון שאין מביאין ודאי לא נדר אלא מאותם שמסתפקים שם היינו מירקות השדה ולהכי מותר בשל גינה:",
+              "ref": "Rashi on Nedarim 53b:1:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:א:א",
+              "sourceRef": "Rashi on Nedarim 53b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל במקום שמביאין כו' אסור</strong> - אף בירקות הגינה הואיל ורגילין לאכול שם בין ירקות השדה בין ירקות הגינה דודאי אדעתא דהכי נדר:",
+              "ref": "Rashi on Nedarim 53b:1:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:א:ב",
+              "sourceRef": "Rashi on Nedarim 53b:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>לא שנו</b> שמותר בירקות גינה בשביעית <b>אלא במקום שאין מביאין ירק מחוצה לארץ לארץ,</b> ואז הכל משתמשים בשביעית רק בירקות השדה. <b>אבל במקום שמביאין ירק מחוצה לארץ לארץ,</b> שאין שביעית נוהגת בחוץ לארץ — <b>אסור</b> גם בירקות גינה בשנה השביעית.",
+              "ref": "Steinsaltz on Nedarim 53b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ג ב:א",
+              "sourceRef": "Steinsaltz on Nedarim 53b:1"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "לא שנו דבשביעית מותר בירקות גינה משום דלא שכיחי שיאכלו ירקות גינה אלא במקום שאין מביאין כו' אבל במקום שמביאין שכיח הוא ירקי גינה ונתכוין לאסור ירקי גינה בשביעית:",
+              "ref": "Tosafot on Nedarim 53b:1:1",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:א:א",
+              "sourceRef": "Tosafot on Nedarim 53b:1:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בראשונה היו אומ' אין כובשין ואין מייבשין ואין מביאין יבשת וכבשת מחוצה לארץ לארץ. רבותינו התירו שיהו כובשין ומיבשין ומביאין יבשת וכבשת מחוצה לארץ לארץ. אין מביאין ירקות מחוצה לארץ לארץ. רבותינו התירו שיהו מביאין ירקות מחוצה לארץ לארץ. כשם שמביאין ירקות מחוצה לארץ, כך מביאין קטנית ותבואה מחוצה לארץ לארץ.",
+              "ref": "Tosefta Sheviit (Lieberman) 4:16",
+              "sourceHeRef": "תוספתא שביעית (ליברמן) ד:טז",
+              "sourceRef": "Tosefta Sheviit (Lieberman) 4:16"
+            },
+            {
+              "en": "In the early days, they would say, \"One may not pickle and one may not dry [produce in order to preserve it], and one may not import dried or pickled produce from outside the Land of Israel into the Land of Israel.\" [Thereafter,] our Masters permitted people to pickle and dry [produce], and that dried and pickled produce be imported from outside the Land of Israel into the Land of Israel. [In the early days,] vegetables could not be imported from outside the Land of Israel into the Land of Israel, [but thereafter,] our Masters permitted vegetables to be imported from outside the Land of Israel into the Land of Israel. And just as they imported vegetables from outside the Land of Israel, so too they imported grains and beans (<i>kitniyot</i>) from outside the Land of Israel into Israel. Rebbi and his Beit Din [even] permitted one to purchase vegetables immediately after the conclusion of the sabbatical year.",
+              "he": "בראשונה היו אומרים אין כובשין ואין מייבשין יבשת וכבשת מחוצה לארץ לארץ אין מביאין ירקות מחו\"ל לארץ רבותינו התירו שיהו מביאין ירקות מחוצה לארץ לארץ וכשם שמביאין ירקות מחו\"ל לארץ כך מביאין תבואה וקטניות מחו\"ל לארץ רבי ובית דינו התירו ליקח ירק במוצאי שביעית מיד.",
+              "ref": "Tosefta Sheviit 4:10",
+              "sourceHeRef": "תוספתא שביעית ד:י",
+              "sourceRef": "Tosefta Sheviit 4:10"
+            }
+          ]
+        }
+      },
+      "en": "<b>They taught</b> that if he takes the vow in the Sabbatical Year he is permitted to eat garden vegetables <b>only</b> if he is <b>in a place where</b> people <b>do not bring vegetables from outside</b> of <b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span> <b>to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span>. <b>However, in a place where</b> people <b>bring vegetables from outside</b> of <b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span>, where the <i>halakhot</i> of the Sabbatical Year do not apply, <b>to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span>, he is <b>prohibited</b> from eating garden vegetables as well, as they are widely available, and therefore included in the unspecified word vegetable.",
+      "he": "לֹא שָׁנוּ אֶלָּא בִּמְקוֹם שֶׁאֵין מְבִיאִין יָרָק מֵחוּצָה לָאָרֶץ לָאָרֶץ. אֲבָל בְּמָקוֹם שֶׁמְּבִיאִין יָרָק מֵחוּצָה לָאָרֶץ לָאָרֶץ — אָסוּר.",
+      "ref": "Nedarim 53b:1"
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> משום כו' חששא דגוש כצ\"ל משמע לכוס הד\"א:",
+              "ref": "Chidushei Halachot on Nedarim 53b:6",
+              "sourceHeRef": "חדושי הלכות על נדרים נ״ג ב:ו",
+              "sourceRef": "Chidushei Halachot on Nedarim 53b:6"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משום גוש</strong> - חוששין להביאו משום חששא דגוש הנדבק בו וגושא דארץ העמים טמא כדאיתא בפ\"ק דשבת <span class=\"parenthesized\">(דף טו:)</span>:",
+              "ref": "Ran on Nedarim 53b:2:1",
+              "sourceHeRef": "ר\"ן על נדרים נ״ג ב:ב:א",
+              "sourceRef": "Ran on Nedarim 53b:2:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כתנאי כו'</strong> - לדעתא דמ\"ד אין מביאין ירקות כו' לדידיה מותר בירקות גינה ואסור בירקות שדה דכיון דאין מביאין לאו עליה נדר ולמ\"ד מביאין אסור אף בירקות גינה:",
+              "ref": "Rashi on Nedarim 53b:2:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ב:א",
+              "sourceRef": "Rashi on Nedarim 53b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משום גוש</strong> - שמא יש מעפר חוצה לארץ בעיקרייהו וטמא משום ספק מת:",
+              "ref": "Rashi on Nedarim 53b:2:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ב:ב",
+              "sourceRef": "Rashi on Nedarim 53b:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: הרי זה <b>כתנאי</b> <span class=\"hebrew-emphasis\">[כ</span>מחלוקת <span class=\"hebrew-emphasis\">תנאים]</span> בענין זה: <b>אין מביאין ירק מן חוצה לארץ לארץ, ר' חנניה בן גמליאל אומר: מביאין ירק מחוצה לארץ לארץ.</b> ושואלים: <b>מאי טעמיה דמאן דאמר</b> <span class=\"hebrew-emphasis\">[מה טעמו של מי שאומר]</span> <b>אין מביאין? אמר ר' ירמיה:</b> חוששים <b>משום גוש</b> אדמה של אדמת העמים שהיא מטמאה, שלא יביאו אותו יחד עם הירקות לארץ ישראל, ויגרום בה טומאה.",
+              "ref": "Steinsaltz on Nedarim 53b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ג ב:ב",
+              "sourceRef": "Steinsaltz on Nedarim 53b:2"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משום גוש</strong> - דדרך הירק להיות גוש תלוי בו וגזרו על גוש ארץ העמים:",
+              "ref": "Tosafot on Nedarim 53b:2:1",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ב:א",
+              "sourceRef": "Tosafot on Nedarim 53b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara comments that this distinction is <b>like</b> a dispute between <b><i>tanna’im</i></b> cited in a <i>baraita</i>: <b>One may not bring vegetables from outside</b> of <b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span> <b>to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span>. <b><span href=\"/topics/rabbi-hananiah-b-gamaliel\" class=\"namedEntityLink\" data-slug=\"rabbi-hananiah-b-gamaliel\">Rabbi Ḥananya ben Gamliel</span> says: One may bring vegetables from outside</b> of <b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span> <b>to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz</span></b><span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\"> Yisrael</span>. The Gemara asks: <b>What is the reason of the one who said</b> that <b>one may not bring</b> vegetables from outside of <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>? <b><span href=\"/topics/rabbi-yirmeyah\" class=\"namedEntityLink\" data-slug=\"rabbi-yirmeyah\">Rabbi Yirmeya</span> said:</b> It is <b>because a clod</b> of earth might be brought with the vegetables to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span>. Earth from outside of <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span> is ritually impure, and bringing it to <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span> would spread ritual impurity in the land.",
+      "he": "כְּתַנָּאֵי: אֵין מְבִיאִין יָרָק מִן חוּצָה לָאָרֶץ לָאָרֶץ, רַבִּי חֲנַנְיָה בֶּן גַּמְלִיאֵל אוֹמֵר: מְבִיאִין יָרָק מֵחוּצָה לָאָרֶץ לָאָרֶץ. מַאי טַעְמֵיהּ דְּמַאן דְּאָמַר אֵין מְבִיאִין? אָמַר רַבִּי יִרְמְיָה: מִשּׁוּם גּוּשׁ.",
+      "ref": "Nedarim 53b:2"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "One who vows that <b>cabbage</b> is forbidden <b>to</b> him <b>is prohibited from</b> eating <b><i>ispargus</i>,</b> as that is a type of cabbage. However, one who vows that <b><i>ispargus</i></b> is forbidden <b>to</b> him is <b>permitted to</b> eat <b>cabbage.</b> One who vows that <b>pounded beans</b> are forbidden <b>to</b> him <b>is prohibited from</b> eating pounded bean <b>stew [<i>mikpa</i>]. However, Rabbi Yosei</b> rules that he is <b>permitted</b> to eat it.One who vows that <b>pounded beans</b> are forbidden <b>to</b> him is <b>prohibited from</b> eating pounded bean <b>stew. However, Rabbi Yosei</b> rules that he is <b>permitted</b> to eat it. One who vows that pounded bean <b>stew</b> is forbidden <b>to</b> him is <b>permitted to</b> eat <b>pounded beans</b> according to all opinions. One who vows that <b>stew</b> is forbidden <b>to</b> him <b>is prohibited from</b> eating the <b>garlic</b> of the stew. <b>However, Rabbi Yosei</b> rules that he is <b>permitted</b> to eat the garlic. One who vows that <b>garlic</b> is forbidden <b>to</b> him <b>is permitted to</b> eat <b>stew.</b> One who vows that <b>lentils</b> are forbidden <b>to</b> him <b>is prohibited from</b> eating <b><i>ashishim</i>,</b> a dish made from lentils. However, <b>Rabbi Yosei permits</b> it. It is agreed by all opinions that one who vows that <b><i>ashishim</i></b> is forbidden <b>to</b> him <b>is permitted to</b> eat <b>lentils.</b> If one says: <b><i>Ḥitta</i>,</b> wheat in singular form, or <b><i>ḥittim</i>,</b> wheat in plural form, are <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>prohibited from</b> eating wheat, <b>whether</b> as <b>flour or bread.</b> If one says: <b>Pounded bean</b> or <b>pounded beans</b> are <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>prohibited from</b> eating <b>them, whether raw or cooked. Rabbi Yehuda says</b> that if one says: <b>Pounded bean or <i>ḥitta</i> is <i>konam</i></b> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>permitted to chew</b> them <b>raw,</b> as that is not the normal way to eat them, and therefore was not included in the intention of the vow.",
+              "he": "מִן הַכְּרוּב, אָסוּר בְּאִסְפַּרְגּוֹס. מִן הָאִסְפַּרְגּוֹס, מֻתָּר בִּכְרוּב. מִן הַגְּרִיסִים, אָסוּר מִן הַמִּקְפָּה, וְרַבִּי יוֹסֵי מַתִּיר. מִן הַמִּקְפָּה, מֻתָּר בִּגְרִיסִין. מִן הַמִּקְפָּה, אָסוּר בְּשׁוּם, וְרַבִּי יוֹסֵי מַתִּיר. מִן הַשּׁוּם, מֻתָּר בְּמִקְפָּה. מִן הָעֲדָשִׁים, אָסוּר בַּאֲשִׁישִׁין, וְרַבִּי יוֹסֵי מַתִּיר. מִן הָאֲשִׁישִׁים, מֻתָּר בַּעֲדָשִׁים. חִטָּה חִטִּים שֶׁאֵינִי טוֹעֵם, אָסוּר בָּהֶן בֵּין קֶמַח בֵּין פָּת. גְּרִיס גְּרִיסִין שֶׁאֵינִי טוֹעֵם, אָסוּר בָּהֶן בֵּין חַיִּין בֵּין מְבֻשָּׁלִים. רַבִּי יְהוּדָה אוֹמֵר, קוֹנָם גְּרִיס אוֹ חִטָּה שֶׁאֵינִי טוֹעֵם, מֻתָּר לָכוֹס חַיִּים:",
+              "link": "/Mishnah Nedarim/6",
+              "ref": "Mishnah Nedarim 6:10",
+              "sourceHeRef": "משנה נדרים ו:י",
+              "sourceRef": "Mishnah Nedarim 6:10"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person takes a vow [not to partake of] green vegetables, he is permitted to partake of squash. If he takes a vow [not to partake of] leek, he is permitted to partake of the poret.<br>If a person takes a vow [not to partake of] cabbage, he is forbidden to partake of the water cooked with cabbage, for the water in which food is cooked is considered as the food itself. If, however, he vowed not to partake of the water in which a food is cooked, he may partake of the cooked food itself.<br>A person who takes a vow [not to partake of] sauce is permitted [to partake of] the spices. [One who takes a vow not to partake] of the spices is permitted [to partake of] the sauce. One who takes a vow [not to partake of] groats is forbidden [to partake of] the thick sauce produced by the groats.",
+              "he": "הַנּוֹדֵר מִן הַיָּרָק מֻתָּר בִּדְלוּעִין. הַנּוֹדֵר בִּכְרֵישִׁין מֻתָּר בְּקַפְלוֹטוֹת. הַנּוֹדֵר מִן הַכְּרוּב אָסוּר בְּמַיִם שֶׁנִּתְבַּשֵּׁל בּוֹ הַכְּרוּב שֶׁהֲרֵי מֵי שְׁלָקוֹת כִּשְׁלָקוֹת. נָדַר מִמֵּי הַשְּׁלָקוֹת מֻתָּר בַּשְּׁלָקוֹת עַצְמָן. הַנּוֹדֵר מִן הָרֹטֶב מֻתָּר בַּתַּבְלִין שֶׁבּוֹ. מִן הַתַּבְלִין מֻתָּר בָּרֹטֶב. הַנּוֹדֵר מִן הַגְּרִיסִין אָסוּר בַּמִּקְפָּה שֶׁל גְּרִיסִין:",
+              "ref": "Mishneh Torah, Vows 9:10",
+              "sourceHeRef": "הלכות נדרים ט:י",
+              "sourceRef": "Vows 9:10"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אספרגום</strong> - מין כרוב הוא:",
+              "ref": "Ran on Nedarim 53a:5:2",
+              "sourceHeRef": "ר\"ן על נדרים נ״ג א:ה:ב",
+              "sourceRef": "Ran on Nedarim 53a:5:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור באיספרגוס</strong> - דהוי בכלל כרוב דמין כרוב הוא:",
+              "ref": "Rashi on Nedarim 53b:3:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ג:א",
+              "sourceRef": "Rashi on Nedarim 53b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מותר בכרוב</strong> - דאין כרוב בכלל איספרגוס:",
+              "ref": "Rashi on Nedarim 53b:3:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ג:ב",
+              "sourceRef": "Rashi on Nedarim 53b:3:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מן הכרוב אסור באספרגוס.</b> פי' מין כרוב הוא: מן האספרגוס מותר בכרוב בגריסין אסור במקפה והוא תבשיל של גריסין עבה ור' יוסי מתיר דקסבר גריסין כשהן חיין משמע דאידך מקפה מקרי וכן נקרא מקפה כל מאכל עבה של ירקות וכיוצא בו ולהכי אמרינן בירושלמי [הלכה ט] דלא אסר ת\"ק אלא בדהוי רובא גריסין דהוי להו גריסין עיקר:",
+              "ref": "Ritva on Nedarim 53b:1",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:א",
+              "sourceRef": "Ritva on Nedarim 53b:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>אספרגוס</big></b> [שפארגל גווייקט אין וויין]. <span class=\"parenthesized\">(נדרים נג)</span> מן הכרוב מותר באספרגוס. מן האספרגוס מותר בכרוב. ובגמ' דלא יפחתו לו <span class=\"parenthesized\">(פסחים קי)</span> אספרגוס מצטרף ואמרי לה אין מצטרף <span class=\"parenthesized\">(ובברכות נא)</span> תנו רבנן עשרה דברים נאמרו באספרגוס אין שותין אותו מזוג וכו' פירוש רב האי גאון ז\"ל אספרגוס גופו ממיני כרוב והיו שורין אותו ביין וקורין אותו אספרגוס ובלשון יון אספרגוס יין של בקר כלומר ששותהו בבקר. ואמר הגאון הני מילי דאמירן ביה משום סכנת מזיקין דהוה נהיגי ביה והשתא לא נפישי כי ההוא עידנא ושאלו בשאילתות אספרגוס שאמרו חכמים סומכו במינו והתניא סומכו בפת ומשני הא בדחמרא הא בדשיכרא הי מינייהו בדחמר' הי מינייהו בדשיכרא רק אחריו לוקה והתניא לא רק אחריו לוקה הי מינייהו בעי רקיקה אספרגוס של יין סומכו במינו ביין ושל שכר סומכו בפת אספרגוס של יין רק אחריו לוקה ושל שכר לא רק אחריו לוקה <span class=\"parenthesized\">(<span class=\"hebrew-emphasis\">א\"ב</span> פי בלשון רומי משקה מעורב עם רפואה טחונה עד אשר דקה כעפר)</span>:",
+              "ref": "Sefer HeArukh, Letter Alef 641",
+              "sourceHeRef": "ספר הערוך, אות האל\"ף תרמ״א",
+              "sourceRef": "Sefer HeArukh, Letter Alef 641"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a person takes a vow [not to partake of grapes], he is permitted to partake of wine, even fresh wine. [If he takes a vow not to partake] of olives, he is permitted to partake of oil. [If he takes a vow not to partake] of dates, he is permitted to partake of date-honey. [If he takes a vow not to partake] of grapes that blossom in the fall, he is permitted to partake of vinegar that is produced from them.<br>If he takes a vow not to partake] of wine, he is permitted to partake of apple wine. [If he takes a vow not to partake] of oil, he is permitted to partake of sesame seed oil. [If he takes a vow not to partake] of honey, he is permitted to partake of date honey. [If he takes a vow not to partake] of vinegar, he is permitted to partake of vinegar produced from grapes that blossom in the fall. [If he takes a vow not to partake] of vegetables, he is permitted to partake of vegetables that grow on their own. [The rationale for all of these rulings is] that [the names of] all these substances have a modifier and [when] the person took the vow, he referred to the substance without a modifier. Similar laws apply in all analogous situations.",
+                      "he": "הַנּוֹדֵר מִן הָעֲנָבִים מֻתָּר בְּיַיִן וַאֲפִלּוּ הֶחָדָשׁ. מִן הַזֵּיתִים מֻתָּר בְּשֶׁמֶן. מִן הַתְּמָרִים מֻתָּר בִּדְבַשׁ תְּמָרִים. מִן הַסִּתְוָנִיּוֹת מֻתָּר בְּחֹמֶץ סִתְוָנִיּוֹת. מִן הַיַּיִן מֻתָּר בְּיֵין תַּפּוּחִים. מִן הַשֶּׁמֶן מֻתָּר בְּשֶׁמֶן שֻׁמְשְׁמִין. מִן הַדְּבַשׁ מֻתָּר בִּדְבַשׁ תְּמָרִים. מִן הַחֹמֶץ מֻתָּר בְּחֹמֶץ סִתְוָנִיּוֹת. מִן הַיָּרָק מֻתָּר בְּיַרְקוֹת שָׂדֶה. מִפְּנֵי שֶׁכָּל אֵלּוּ שֵׁם לְוַוי הֵם וְהוּא לֹא נָדַר אֶלָּא מִשֵּׁם שֶׁאֵינוֹ לְוַוי בְּאוֹתוֹ מָקוֹם. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+                      "ref": "Mishneh Torah, Vows 9:14",
+                      "sourceHeRef": "הלכות נדרים ט:יד",
+                      "sourceRef": "Vows 9:14"
+                    }
+                  ]
+                }
+              },
+              "en": "Lorsqu’une personne fait vœu de ne pas manger d’une certaine sorte d’épis, le légume fait avec les grains de ces épis lui est défendu. Si elle a fait vœu de ne pas manger d’un légume préparé avec certains grains, il lui est permis de manger les épis eux-mêmes. Si elle fait vœu de ne pas manger de légume préparé, l’ail lui est interdit. Si elle fait vœu de ne pas manger d’ail, un légume préparé lui est permis. Quand on fait vœu de ne pas manger d’aliments-condiments, ces aliments sont défendus crus, mais non cuits. Mais si une personne dit: «Que les aliments-condiments, que je goûterais, me soient interdits», ces aliments sont interdits, aussi bien crus que cuits. Si l’on fait vœu de ne pas manger d’un froment appelé Karoub, il est également défendu de manger de l’aspargouss; mais si le vœu porte sur l’aspargouss, le karoub peut être mangé.<br><small>G<small>LOSE</small>: On appelle aspargouss l’eau dans laquelle le karoub a été cuit.</small> Si l’on fait vœu de ne pas manger la graine de sainfoin, le Kaphloütoth reste permis. Si l’on fait vœu de ne pas manger de légumes verts, les légumes verts des champs sont permis, parce qu’ils portent un nom distinctif.<br><small>G<small>LOSE</small>: On a l’habitude d’appeler «légumes verts» ceux qui sont cultivés dans les potagers; lorsqu’on veut parler d’un légume vert qui pousse dans les champs, on ajoute «des champs».</small>",
+              "he": "הנודר מהגריסין אסור במקפה <span class=\"hebrew-emphasis\">(פי' מרק קפוי ועב) </span>של גריסין מהמקפה מותר בגריסין מהמקפה אסור בשום מהשום מותר במקפה מהתבלין אסור בחיין ומותר במבושלין ואם אמר קונם תבלין שאני טועם אסור בחיין ומבושלין מהכרוב [אסור] באספרגוס <span class=\"hebrew-emphasis\">(פי' מין מים שבשלו בהם הכרוב רמב\"ם ורש\"י פי' מין כרוב) </span>מהאספרגוס מותר בכרוב מהכרישין מותר בקפלוטות מהירק מותר בירקות שדה מפני שהוא שם לווי <span class=\"hebrew-emphasis\">(משנה ס\"פ הנודר מן המבושל) (דבלשון בני אדם אינם קורין ירק סתם רק לירקות הגדלים בגנות) (ב\"י ורש\"י שם בפי' המשנה)</span>:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 217:10",
+              "sourceHeRef": "יורה דעה ריז:י - דין הנודר מהמבושל מהמליח ממעשה קדירה ודומיהם וכיצד הולכין בנדרים אחר לשון בני אדם.",
+              "sourceRef": "Yoreh De'ah 217:10"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> הנודר <b>מן הכרוב —</b> <b>אסור באיספרגוס</b> שהוא מין כרוב, אבל הנודר <b>מן האיספרגוס —</b> <b>מותר בכרוב.</b>",
+              "ref": "Steinsaltz on Nedarim 53b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ג ב:ג",
+              "sourceRef": "Steinsaltz on Nedarim 53b:3"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "איספרגוס מין כרוב הוא ובכלל כרוב הוא:",
+              "ref": "Tosafot on Nedarim 53b:3:1",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ג:א",
+              "sourceRef": "Tosafot on Nedarim 53b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מן האיספרגוס מותר בכרוב</strong> - דשאר כרוב אינם קרויין איספרגוס:",
+              "ref": "Tosafot on Nedarim 53b:3:2",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ג:ב",
+              "sourceRef": "Tosafot on Nedarim 53b:3:2"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> One who vows that <b>cabbage</b> is forbidden <b>to</b> him <b>is prohibited from</b> eating <b><i>ispargus</i>,</b> as that is a type of cabbage. However, one who vows that <b><i>ispargus</i></b> is forbidden <b>to</b> him is <b>permitted to</b> eat <b>cabbage.</b> ",
+      "he": "<big><strong>מַתְנִי׳</strong></big> מִן הַכְּרוּב — אָסוּר בְּאִיסְפַּרְגוֹס, מִן הָאִיסְפַּרְגוֹס — מוּתָּר בִּכְרוּב.",
+      "ref": "Nedarim 53b:3",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person takes a vow [not to partake of] green vegetables, he is permitted to partake of squash. If he takes a vow [not to partake of] leek, he is permitted to partake of the poret.<br>If a person takes a vow [not to partake of] cabbage, he is forbidden to partake of the water cooked with cabbage, for the water in which food is cooked is considered as the food itself. If, however, he vowed not to partake of the water in which a food is cooked, he may partake of the cooked food itself.<br>A person who takes a vow [not to partake of] sauce is permitted [to partake of] the spices. [One who takes a vow not to partake] of the spices is permitted [to partake of] the sauce. One who takes a vow [not to partake of] groats is forbidden [to partake of] the thick sauce produced by the groats.",
+              "he": "הַנּוֹדֵר מִן הַיָּרָק מֻתָּר בִּדְלוּעִין. הַנּוֹדֵר בִּכְרֵישִׁין מֻתָּר בְּקַפְלוֹטוֹת. הַנּוֹדֵר מִן הַכְּרוּב אָסוּר בְּמַיִם שֶׁנִּתְבַּשֵּׁל בּוֹ הַכְּרוּב שֶׁהֲרֵי מֵי שְׁלָקוֹת כִּשְׁלָקוֹת. נָדַר מִמֵּי הַשְּׁלָקוֹת מֻתָּר בַּשְּׁלָקוֹת עַצְמָן. הַנּוֹדֵר מִן הָרֹטֶב מֻתָּר בַּתַּבְלִין שֶׁבּוֹ. מִן הַתַּבְלִין מֻתָּר בָּרֹטֶב. הַנּוֹדֵר מִן הַגְּרִיסִין אָסוּר בַּמִּקְפָּה שֶׁל גְּרִיסִין:",
+              "ref": "Mishneh Torah, Vows 9:10",
+              "sourceHeRef": "הלכות נדרים ט:י",
+              "sourceRef": "Vows 9:10"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": [],
+              "he": [
+                "<strong class=\"dibur-hamatchil\">אספרגום</strong> - מין כרוב הוא:",
+                "<strong class=\"dibur-hamatchil\">אסור מן המקפה</strong> - תבשיל עב של גריסין ואסור משום דקרו ליה מקפה דגריסין:"
+              ],
+              "ref": "Ran on Nedarim 53a:5:2-3",
+              "sourceHeRef": "ר\"ן על נדרים נ״ג א:ה:ב-ג",
+              "sourceRef": "Ran on Nedarim 53a:5:2-3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ר' יוסי מתיר</strong> - דבאתריה קרו למקפה מקפה ולגריסין גריסין:",
+              "ref": "Ran on Nedarim 53a:5:4",
+              "sourceHeRef": "ר\"ן על נדרים נ״ג א:ה:ד",
+              "sourceRef": "Ran on Nedarim 53a:5:4"
+            },
+            {
+              "en": [],
+              "he": [
+                "<strong class=\"dibur-hamatchil\">ר' יוסי מתיר</strong> - דבאתריה קרו למקפה מקפה ולגריסין גריסין:",
+                "<strong class=\"dibur-hamatchil\">אסור בשום</strong> - משום דמקפה כולל כל דבר קפוי ועבה ושום נמי קרוי מקפה על שם שממחין אותו במעט מים ונאכל בכך:"
+              ],
+              "ref": "Ran on Nedarim 53a:5:4-5",
+              "sourceHeRef": "ר\"ן על נדרים נ״ג א:ה:ד-ה",
+              "sourceRef": "Ran on Nedarim 53a:5:4-5"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מן המקפה מותר בגריסין.</b> ירושלמי והוא שיהא רובן גריסין.",
+              "ref": "Rashba on Nedarim 53b:1",
+              "sourceHeRef": "רשב״א על נדרים נ״ג ב:א",
+              "sourceRef": "Rashba on Nedarim 53b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור במקפה</strong> - של גריסין:",
+              "ref": "Rashi on Nedarim 53b:4:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ד:א",
+              "sourceRef": "Rashi on Nedarim 53b:4:1"
+            },
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> גריסין כו' משמע כצ\"ל:",
+                      "ref": "Chidushei Halachot on Nedarim 53b:3",
+                      "sourceHeRef": "חדושי הלכות על נדרים נ״ג ב:ג",
+                      "sourceRef": "Chidushei Halachot on Nedarim 53b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מותר בגריסין</strong> - ד\"ה דאין גריסין בכלל מקפה:",
+              "ref": "Rashi on Nedarim 53b:4:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ד:ב",
+              "sourceRef": "Rashi on Nedarim 53b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מן המקפה</strong> - של גריסין:",
+              "ref": "Rashi on Nedarim 53b:4:3",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ד:ג",
+              "sourceRef": "Rashi on Nedarim 53b:4:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור בשום</strong> - שנותנים ממנו בקדרה דהיינו בכלל מקפה:",
+              "ref": "Rashi on Nedarim 53b:4:4",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ד:ד",
+              "sourceRef": "Rashi on Nedarim 53b:4:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ר' יוסי מתיר</strong> - דקסבר אין מקפה בכלל גריסין:",
+              "ref": "Rashi on Nedarim 53b:4:5",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ד:ה",
+              "sourceRef": "Rashi on Nedarim 53b:4:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור בשום</strong> - של מקפה:",
+              "ref": "Rashi on Nedarim 53b:4:6",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ד:ו",
+              "sourceRef": "Rashi on Nedarim 53b:4:6"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מותר במקפה</strong> - דאין מקפה בכלל שום:",
+              "ref": "Rashi on Nedarim 53b:4:7",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ד:ז",
+              "sourceRef": "Rashi on Nedarim 53b:4:7"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מן המקפה מותר בגריסין מן המקפה אסור בשום.</b> פי' שאף ראשי שומים שנותנין בקדרה שלמקפה בכלל מקפה: ור' יוסי מתיר בשומין שבה. דבשומין בעלמא אפילו רבנן מודו שהוא מותר: מן השום מותר במקפה אע\"פ שנוהגין לתת בה ראשי שומים אין אסור אלא בשומין שבה בלחוד כשאר שומין דעלמא:",
+              "ref": "Ritva on Nedarim 53b:2",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:ב",
+              "sourceRef": "Ritva on Nedarim 53b:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "קונם פירות האלו עלי קונם הן לפי קונם הן על פי אסור בחילופיהן ובגדוליהן ובחלופי חילופיהן שאני אוכל שאני טועם מותר בחילופיהן ובגדוליהן בדבר שזרעו כלה אבל בדבר שאין זרעו כלה אפילו כל הגידולי גידולין אסורין. האומר לאשתו קונם מעשה ידיך עלי קונם הן לפי קונם הן על פי אסור בחילופיהן ובגידוליהן שאני אוכל שאני טועם מותר בחילופיהן ובגידוליהן בדבר שזרעו כלה אבל בדבר שאין זרעו כלה אפילו גידולי גדולין אסורין: גמ' לעיל <span class=\"parenthesized\">(נדרים דף מז.)</span> בעי רמי בר חמא קונם פירות האלו על פלוני מהו בחילופיהן מי אמרינן גבי דידיה הואיל ואדם אוסר פירות חבירו עליו אוסר דבר שלא בא לעולם גבי חבירו הואיל ואין אדם אוסר פירות חבירו על חבירו אין אדם אוסר נמי דבר שלא בא לעולם על חבירו או דלמא משום דחלופין כגידולין דמי לא שנא הוא לא שנא חבירו ובכל איסורי הנאה נמי מספקא ליה מדמייתי מתני' דערלה למיפשט בעיין. ולא מיבעיא ליה באיסורי הנאה אם מוכרים לכתחלה דפשיטא דאסור כדמוכח בפרק כל שעה <span class=\"parenthesized\">(פסחים דף כא:)</span> דלמאן דאמר לא תאכלו איסור הנאה משמע איצטריך קרא להתיר מכירת נבילה לעובד כוכבים אלמא דאסור למכור איסורי הנאה דמכירתן היינו הנאה כיון שמקבל דמיהם והוה ליה כנהנה מגופן ואם נמכרו בדיעבד פשיטא דמותרין מן התורה כדאמרינן ספ\"ב דקידושין דף נח. ובפ\"ב דמסכת ע\"ז דשביעית ועבודת כוכבים תופסין דמיהם והוו להו שני כתובים הבאים כאחד ואין שאר איסורין למדין מהן ומיבעיא ליה אי חליפין אסירי מדרבנן מידי דהוה אגידולין והוא הדין בכל איסורי הנאה דלא פלוג ודוקא לאותו שהחליפן קא מיבעיא ליה אי קנסינן ליה אבל לאדם אחר פשיטא דשרי כדתניא חולין דף ד. חמצן של עוברי עבירה אחר הפסח מותר מיד מפני שמחליפין אמר רב אחא בר מניומי תא שמע האומר לאשה קונם שאת נהנית לי לוה ובעלי חובין באין ונפרעין ממנו מאי טעמא לאו משום דחליפין לאו כגידולין דמו דלמא לכתחלה הוא דלא ואי עבד עבד ההיא שעתא דמיתהנית לאו בחליפין נינהו והשתא דבאין ונפרעין לא שקלא מינייהו מידי ובעיא לא איפשיטא: מתני' שאת עושה איני אוכל עד הפסח שאת עושה איני מתכסה עד הפסח עשתה לפני הפסח מותר לאכול ולהתכסות לאחר הפסח שאת עושה לפני עד הפסח איני אוכל שאתעושה עד הפסח איני מתכסה עשתה לפני הפסח אסור לאכול ולהתכסות לאחר הפסח שאת נהנית לי עד הפסח אם הולכת את לבית אביך עד החג הלכה לפני הפסח אסורה בהנייתו עד הפסח לאחר הפסח בבל יחל דברו שאת נהנית לי עד החג אם הולכת את לבית אביך עד הפסח הלכה לפני הפסח אסורה בהנייתו עד החג ומותרת לילך לאחר הפסח. תריצנן לרישא דמתניתין לעיל בפרק שני <span class=\"parenthesized\">(נדרים דף טו:)</span> הלכה אסורה בהנייתה ולוקה לא הלכה אסורה חוששין שמא תלך והא דקתני לאחר הפסח בבל יחל אי מיתהניא קודם הפסח קאמר:",
+              "ref": "Rosh on Nedarim 7:5:1",
+              "sourceHeRef": "פסקי הרא\"ש על נדרים ז:ה:א",
+              "sourceRef": "Rosh on Nedarim 7:5:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a person takes a vow [not to partake of grapes], he is permitted to partake of wine, even fresh wine. [If he takes a vow not to partake] of olives, he is permitted to partake of oil. [If he takes a vow not to partake] of dates, he is permitted to partake of date-honey. [If he takes a vow not to partake] of grapes that blossom in the fall, he is permitted to partake of vinegar that is produced from them.<br>If he takes a vow not to partake] of wine, he is permitted to partake of apple wine. [If he takes a vow not to partake] of oil, he is permitted to partake of sesame seed oil. [If he takes a vow not to partake] of honey, he is permitted to partake of date honey. [If he takes a vow not to partake] of vinegar, he is permitted to partake of vinegar produced from grapes that blossom in the fall. [If he takes a vow not to partake] of vegetables, he is permitted to partake of vegetables that grow on their own. [The rationale for all of these rulings is] that [the names of] all these substances have a modifier and [when] the person took the vow, he referred to the substance without a modifier. Similar laws apply in all analogous situations.",
+                      "he": "הַנּוֹדֵר מִן הָעֲנָבִים מֻתָּר בְּיַיִן וַאֲפִלּוּ הֶחָדָשׁ. מִן הַזֵּיתִים מֻתָּר בְּשֶׁמֶן. מִן הַתְּמָרִים מֻתָּר בִּדְבַשׁ תְּמָרִים. מִן הַסִּתְוָנִיּוֹת מֻתָּר בְּחֹמֶץ סִתְוָנִיּוֹת. מִן הַיַּיִן מֻתָּר בְּיֵין תַּפּוּחִים. מִן הַשֶּׁמֶן מֻתָּר בְּשֶׁמֶן שֻׁמְשְׁמִין. מִן הַדְּבַשׁ מֻתָּר בִּדְבַשׁ תְּמָרִים. מִן הַחֹמֶץ מֻתָּר בְּחֹמֶץ סִתְוָנִיּוֹת. מִן הַיָּרָק מֻתָּר בְּיַרְקוֹת שָׂדֶה. מִפְּנֵי שֶׁכָּל אֵלּוּ שֵׁם לְוַוי הֵם וְהוּא לֹא נָדַר אֶלָּא מִשֵּׁם שֶׁאֵינוֹ לְוַוי בְּאוֹתוֹ מָקוֹם. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+                      "ref": "Mishneh Torah, Vows 9:14",
+                      "sourceHeRef": "הלכות נדרים ט:יד",
+                      "sourceRef": "Vows 9:14"
+                    }
+                  ]
+                }
+              },
+              "en": "Lorsqu’une personne fait vœu de ne pas manger d’une certaine sorte d’épis, le légume fait avec les grains de ces épis lui est défendu. Si elle a fait vœu de ne pas manger d’un légume préparé avec certains grains, il lui est permis de manger les épis eux-mêmes. Si elle fait vœu de ne pas manger de légume préparé, l’ail lui est interdit. Si elle fait vœu de ne pas manger d’ail, un légume préparé lui est permis. Quand on fait vœu de ne pas manger d’aliments-condiments, ces aliments sont défendus crus, mais non cuits. Mais si une personne dit: «Que les aliments-condiments, que je goûterais, me soient interdits», ces aliments sont interdits, aussi bien crus que cuits. Si l’on fait vœu de ne pas manger d’un froment appelé Karoub, il est également défendu de manger de l’aspargouss; mais si le vœu porte sur l’aspargouss, le karoub peut être mangé.<br><small>G<small>LOSE</small>: On appelle aspargouss l’eau dans laquelle le karoub a été cuit.</small> Si l’on fait vœu de ne pas manger la graine de sainfoin, le Kaphloütoth reste permis. Si l’on fait vœu de ne pas manger de légumes verts, les légumes verts des champs sont permis, parce qu’ils portent un nom distinctif.<br><small>G<small>LOSE</small>: On a l’habitude d’appeler «légumes verts» ceux qui sont cultivés dans les potagers; lorsqu’on veut parler d’un légume vert qui pousse dans les champs, on ajoute «des champs».</small>",
+              "he": "הנודר מהגריסין אסור במקפה <span class=\"hebrew-emphasis\">(פי' מרק קפוי ועב) </span>של גריסין מהמקפה מותר בגריסין מהמקפה אסור בשום מהשום מותר במקפה מהתבלין אסור בחיין ומותר במבושלין ואם אמר קונם תבלין שאני טועם אסור בחיין ומבושלין מהכרוב [אסור] באספרגוס <span class=\"hebrew-emphasis\">(פי' מין מים שבשלו בהם הכרוב רמב\"ם ורש\"י פי' מין כרוב) </span>מהאספרגוס מותר בכרוב מהכרישין מותר בקפלוטות מהירק מותר בירקות שדה מפני שהוא שם לווי <span class=\"hebrew-emphasis\">(משנה ס\"פ הנודר מן המבושל) (דבלשון בני אדם אינם קורין ירק סתם רק לירקות הגדלים בגנות) (ב\"י ורש\"י שם בפי' המשנה)</span>:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 217:10",
+              "sourceHeRef": "יורה דעה ריז:י - דין הנודר מהמבושל מהמליח ממעשה קדירה ודומיהם וכיצד הולכין בנדרים אחר לשון בני אדם.",
+              "sourceRef": "Yoreh De'ah 217:10"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הנודר <b>מן הגריסין</b> (פול שגורסים, שוברים לחתיכות) — <b>אסור במקפה</b> (מרק עבה שעושים מגריסים), <b>ור' יוסי מתיר.</b> ולכל הדעות הנודר <b>מן המקפה —</b> <b>מותר בגריסין</b> עצמן. הנודר <b>מן המקפה —</b> <b>אסור בשום</b> שבתוכה שהוא חלק מהמרכיבים של המקפה, <b>ור' יוסי מתיר.</b> הנודר <b>מן השום —</b> <b>מותר במקפה.</b>",
+              "ref": "Steinsaltz on Nedarim 53b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ג ב:ד",
+              "sourceRef": "Steinsaltz on Nedarim 53b:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מן הגריסין אסור במקפה של גריסין</strong> - שנקראת גריסין אף כשהן בתבשיל אבל מן המקפה מותר בגריסין יבשין דלא תימא דכי נדר במקפה מן הראוי למקפה קאמר והיינו גריסין ולרבנן איצטריך דאע\"ג דאסרי שום כשנדר במקפה הכא מודו:",
+              "ref": "Tosafot on Nedarim 53b:4:1",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ד:א",
+              "sourceRef": "Tosafot on Nedarim 53b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מן השום מותר במקפה</strong> - דלא נתכוון אלא לשום יבש:",
+              "ref": "Tosafot on Nedarim 53b:4:2",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ד:ב",
+              "sourceRef": "Tosafot on Nedarim 53b:4:2"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הנודר מן הירק בשביעית אסור בירקות [שדה] מן הדלועין אין אסור אלא דלעת יוונית בלבד מן הכרוב אסור באספרגיס מן האספרגיס מותר בכרוב מן הכרישין מקום שקורין לקפלוטות כרישין אסור בקפלוטות מן הקפלוטות מותר בכרישין מן הבצלים אסור בבני בצלין ור' יוסי מתיר [מבני] בצלים מותר בבצלים מן העדשים אסור באשישים ור' יוסי מתיר [מן האשישים] מותר בעדשים מן השום אסור במקפה ור' יוסי מתיר [במקפה] במקפה מותר בשום [ר' יהודה] אומר קונסגריס שאני טועם מותר בחיין ואסור במבושלין חטה שאני טועם מותר לכוס ואסור לאפות חיטין שאני טועם אסור לכוס [ואסור] לאפות.",
+              "ref": "Tosefta Nedarim 3:6",
+              "sourceHeRef": "תוספתא נדרים ג:ו",
+              "sourceRef": "Tosefta Nedarim 3:6"
+            }
+          ]
+        }
+      },
+      "en": "One who vows that <b>pounded beans</b> are forbidden <b>to</b> him <b>is prohibited from</b> eating pounded bean <b>stew [<i>mikpa</i>]. However, Rabbi Yosei</b> rules that he is <b>permitted</b> to eat it. One who vows that pounded bean <b>stew</b> is forbidden <b>to</b> him is <b>permitted to</b> eat <b>pounded beans</b> according to all opinions. One who vows that <b>stew</b> is forbidden <b>to</b> him <b>is prohibited from</b> eating the <b>garlic</b> of the stew. <b>However, Rabbi Yosei</b> rules that he is <b>permitted</b> to eat the garlic. One who vows that <b>garlic</b> is forbidden <b>to</b> him <b>is permitted to</b> eat <b>stew.</b>",
+      "he": "מִן הַגְּרִיסִין — אָסוּר בְּמִקְפָּה, וְרַבִּי יוֹסֵי מַתִּיר. מִן הַמִּקְפָּה — מוּתָּר בִּגְרִיסִין. מִן הַמִּקְפָּה — אָסוּר בִּשּׁוּם, וְרַבִּי יוֹסֵי מַתִּיר. מִן הַשּׁוּם — מוּתָּר בְּמִקְפָּה.",
+      "ref": "Nedarim 53b:4"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור באשישים</strong> - בפת שמעורב בו קמח עדשים דיש בכלל עדשים אשישים:",
+              "ref": "Rashi on Nedarim 53b:5:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ה:א",
+              "sourceRef": "Rashi on Nedarim 53b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומן אשישים כו'</strong> - דברי הכל היא:",
+              "ref": "Rashi on Nedarim 53b:5:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ה:ב",
+              "sourceRef": "Rashi on Nedarim 53b:5:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ירושלמי</b> ר' יוסי אזל לגבי <span class=\"parenthesized\">(דוסא)</span> [ר' יסא] וכו' על דעתיה דרבי יוסי הנודר מן היין מותר בקונדיטון:",
+              "ref": "Ritva on Nedarim 53b:5",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:ה",
+              "sourceRef": "Ritva on Nedarim 53b:5"
+            },
+            {
+              "en": "",
+              "he": "<b>מן <span class=\"parenthesized\">(ב)</span> העדשין מותר באשישין</b> כשהן חיין:",
+              "ref": "Ritva on Nedarim 53b:4",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:ד",
+              "sourceRef": "Ritva on Nedarim 53b:4"
+            },
+            {
+              "en": "",
+              "he": "<b>מן העדשים אסור באשישין.</b> והוא נזיד של עדשין ורבי יוסי מתיר:",
+              "ref": "Ritva on Nedarim 53b:3",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:ג",
+              "sourceRef": "Ritva on Nedarim 53b:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הנודר <b>מן העדשים —</b> <b>אסור באשישים</b> שהם מיני מאכל הנעשים מעדשים, ו<b>ר' יוסי מתיר.</b> והכל מודים שהנודר <b>מן האשישים מותר בעדשים.</b>",
+              "ref": "Steinsaltz on Nedarim 53b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ג ב:ה",
+              "sourceRef": "Steinsaltz on Nedarim 53b:5"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מן האשישים</strong> - פי' פסולת עדשים מותר בעדשים שאין העדשים נקראין אשישין מן העדשים אסור באשישים שהם נקראים על שם העדשים ור\"י מתיר דסבר דאינם בכלל עדשים:",
+              "ref": "Tosafot on Nedarim 53b:5:1",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ה:א",
+              "sourceRef": "Tosafot on Nedarim 53b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "One who vows that <b>lentils</b> are forbidden <b>to</b> him <b>is prohibited from</b> eating <b><i>ashishim</i>,</b> a dish made from lentils. However, <b><span href=\"/topics/rabbi-yose-b-chalafta\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-chalafta\">Rabbi Yosei</span> permits</b> it. It is agreed by all opinions that one who vows that <b><i>ashishim</i></b> is forbidden <b>to</b> him <b>is permitted to</b> eat <b>lentils.</b>",
+      "he": "מִן הָעֲדָשִׁים — אָסוּר בַּאֲשִׁישִׁים, רַבִּי יוֹסֵי מַתִּיר. מִן הָאֲשִׁישִׁים — מוּתָּר בַּעֲדָשִׁים.",
+      "ref": "Nedarim 53b:5"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A person who vows not to partake of grains of wheat is forbidden to partake of wheat kernels whether they are fresh or cooked. If he says: \"Neither wheat, nor grains of wheat will I taste,\" he is forbidden to partake of either flour or bread. \"I will not taste wheat,\" he is forbidden to partake of baked goods, but permitted to chew kernels of wheat. If he states: \"I will not partake of grains of wheat,\" he is permitted to partake of baked goods, but forbidden to chew kernels of wheat. If he says: \"Neither wheat, nor grains of wheat will I taste,\" he is forbidden to partake of baked goods, nor may he chew kernels of wheat. When a person takes a vow forbidding himself from partaking of grain, he is forbidden only [to partake of] the five species.",
+              "he": "הַנּוֹדֵר מִן הַחִטִּים אָסוּר בָּהֶן בֵּין חַיִּין בֵּין מְבֻשָּׁלִין. חִטָּה חִטִּים שֶׁאֲנִי טוֹעֵם אָסוּר בָּהֶן בֵּין קֶמַח בֵּין פַּת. חִטָּה שֶׁאֲנִי טוֹעֵם אָסוּר בְּאָפוּי וּמֻתָּר לָכֹס. חִטִּים שֶׁאֲנִי טוֹעֵם מֻתָּר בְּאָפוּי וְאָסוּר לָכֹס. חִטָּה חִטִּים שֶׁאֲנִי טוֹעֵם אָסוּר בֵּין בְּאָפוּי בֵּין לָכֹס. וְהַנּוֹדֵר מִן הַדָּגָן אוֹ מִן הַתְּבוּאָה אֵינוֹ אָסוּר אֶלָּא בַּחֲמֵשֶׁת הַמִּינִין:",
+              "ref": "Mishneh Torah, Vows 9:9",
+              "sourceHeRef": "הלכות נדרים ט:ט",
+              "sourceRef": "Vows 9:9"
+            },
+            {
+              "en": "When a person takes a vow [not to partake of] green vegetables, he is permitted to partake of squash. If he takes a vow [not to partake of] leek, he is permitted to partake of the poret.<br>If a person takes a vow [not to partake of] cabbage, he is forbidden to partake of the water cooked with cabbage, for the water in which food is cooked is considered as the food itself. If, however, he vowed not to partake of the water in which a food is cooked, he may partake of the cooked food itself.<br>A person who takes a vow [not to partake of] sauce is permitted [to partake of] the spices. [One who takes a vow not to partake] of the spices is permitted [to partake of] the sauce. One who takes a vow [not to partake of] groats is forbidden [to partake of] the thick sauce produced by the groats.",
+              "he": "הַנּוֹדֵר מִן הַיָּרָק מֻתָּר בִּדְלוּעִין. הַנּוֹדֵר בִּכְרֵישִׁין מֻתָּר בְּקַפְלוֹטוֹת. הַנּוֹדֵר מִן הַכְּרוּב אָסוּר בְּמַיִם שֶׁנִּתְבַּשֵּׁל בּוֹ הַכְּרוּב שֶׁהֲרֵי מֵי שְׁלָקוֹת כִּשְׁלָקוֹת. נָדַר מִמֵּי הַשְּׁלָקוֹת מֻתָּר בַּשְּׁלָקוֹת עַצְמָן. הַנּוֹדֵר מִן הָרֹטֶב מֻתָּר בַּתַּבְלִין שֶׁבּוֹ. מִן הַתַּבְלִין מֻתָּר בָּרֹטֶב. הַנּוֹדֵר מִן הַגְּרִיסִין אָסוּר בַּמִּקְפָּה שֶׁל גְּרִיסִין:",
+              "ref": "Mishneh Torah, Vows 9:10",
+              "sourceHeRef": "הלכות נדרים ט:י",
+              "sourceRef": "Vows 9:10"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מותר לכוס חיים</strong> - שהכוסס אינו כוסס אחת אחת בפני עצמה אבל פת כיון שהוא גוף אחד חיטה מיקרי והכי איתא בירושלמי דגרסינן התם חטה ואת מר כן בתמיה אמר רבי יוסי ארחא דבר נשא מחמי פיתא נקטה ומימר בריך דברא הדא חיטתא:",
+              "ref": "Ran on Nedarim 53a:5:6",
+              "sourceHeRef": "ר\"ן על נדרים נ״ג א:ה:ו",
+              "sourceRef": "Ran on Nedarim 53a:5:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ר' יהודה אומר קונם גריס או חטה שאגי טועם מותר לכוס</strong> - חטה וגריס סתם דלא אמר חטה חטין גריס גריסין דקסבר [ר\"י גריס או חטה] מבושלים משמע חיין לא משמע ור' יהודה לא פליג עליה דתנא קמא:",
+              "ref": "Rashi on Nedarim 53b:6:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ו:א",
+              "sourceRef": "Rashi on Nedarim 53b:6:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ירושלמי</b> [הלכה יא] חטה שאני טועם אסור לאפות ומותר לכוס ואת אמרת הכין פירוש דחטה זרע חטין משמע ולא פת אפויה אמר ר' יוסי כן ארחיה דבר נשא מחמי פתא נקיה ומימר בריך דברא הדא חטתא. ובהכי סליק פירקא ברחמי שמיא ותו לא מידי:",
+              "ref": "Ritva on Nedarim 53b:9",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:ט",
+              "sourceRef": "Ritva on Nedarim 53b:9"
+            },
+            {
+              "en": "",
+              "he": "<b>חטה חטין שאני טועם אסור בהן בין קמח בין פת.</b> פי' <span class=\"parenthesized\">(א)</span> כדאמרינן להו תרוייהו אבל הנודר מן החטים אסור לאפות ומותר לכוס כדלקמן וכדפרישנא גבי דג דגים וכן גריס גריסין שאני טועם אסור בהן בין חיים בין מבושלים כדאמר תרוייהו אבל גריס לחוד אסיר לבשל ומותר לכוס גריסין אסור לכוס ומותר לבשל ר' יהודה אומר קונם גריס או חטה שאני טועם מותר לכוס חיין פי' ולא בא רבי יהודה אלא לפרש:",
+              "ref": "Ritva on Nedarim 53b:6",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:ו",
+              "sourceRef": "Ritva on Nedarim 53b:6"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הנודר מן הפת אינו אסור אלא מן הפת הבא מחמשת המינין בלבד ותנן נמי בפ\"א דחלה מ\"ב הנודר מן הפת ומן התבואה אסור בהן הנודר מן הדגן אסור בפול המצרי יבש דברי ר' מאיר וחכמים אומרים הנודר מן הדגן אינו אסור אלא בה' מינין עד כאן לא פליגי אלא בנודר מן הדגן אבל מן הפת ומן התבואה ד\"ה אינו אסור אלא בהני חמשת המינין ואיתמר עלה בירושל' דמכלתין הל\"ב וחלה פ\"א מה אנן קיימין אם באומר פת סתם אינו קרוי פת סתם אלא חטים ושעורים בלבד א\"ר יוסי קיימינן במקום שאוכלין פת כל דבר אין לך קרוי פת סתם אלא מה' המינין בלבד: תנן בפרק בכל מערבין <span class=\"parenthesized\">(עירובין דף ל.)</span> הנודר מן המזון מותר במים ומלח והוינן בה מים ומלח הוא דלא איקרי מזון הא כל מילי מיקרי מזון לימא תיהוי תיובתיה דרב ושמואל דאמרי אין מברכין בורא מיני מזונות אלא על חמשת המינין בלבד אמר רב נחמן באומר כל הזן עלי: מתני' הנודר מן הכסות מותר בשק וביריעה ובחמילה אמר קונם צמר עולה עלי מותר לכסות בגיזי צמר פשתן עולה עלי מותר לכסות באניצי פשתן ר' יהודה אומר הכל לפי הנודר. טען והזיע והיה ריחו קשה ואמר קונם צמר ופשתים עולה עלי מותר להתכסות ואסור להפשילן לאחוריו: גמ' תניא כיצד אמר רבי יהודה הכל לפי הנודר היה לבוש צמר והיצר ואמר קונם צמר עולה עלי אסור ללבוש ומותר לטעון היה טעון פשתן והזיע ואמר קונם פשתן עולה עלי מותר ללבוש ואסור לטעון הא דקתני ברישא דברייתא היה לבוש צמר והיצר לאו דוקא ה\"ה בנודר סתם שאין במשמע אלא ללבוש ומתני' נמי דייק דלא פליג רבי יהודה ארישא. כתב הרמב\"ן ז\"ל קא פסיק חד מרבוותא כרבי יהודה וכן מסתבר אע\"ג דתני ליה כיחידאה לית לן ראייה דפליגי רבנן עליה ותנן נמי בכה\"ג בפירקין דלעיל <span class=\"parenthesized\">(נדרים דף נג:)</span> ר' יהודה אומר קונם גריס וחטה שלא בא רבי יהודה אלא לפרש דברי חכמים ותנן נמי לעיל <span class=\"parenthesized\">(נדרים נג:)</span> אבא שאול אומר הנודר מן הגבינה אסור בה בין מלוחה בין טפלה ולאו פלוגתא היא ועוד הא סתם לן תנא הכל לפי הנודר דתנן באידך פירקין דף סג: שלא נתכוין זה אלא לשם אכילה ושתיה וה\"נ אשכחן דאיתמר עלה בירושל' פ' קונם יין הלי\"ב א\"ר יסא דרבי יהודה היא דר' יהודה דאמר הכל לפי הנודר: מתני' הנודר מן הבית מותר בעלייה דברי ר' מאיר וחכמים אומרים עלייה בכלל בית הנודר בעלייה מותר בבית: גמ' כמאן אזלא הא דאמר רב האומר בית בביתי אני מוכר לך מראהו עלייה לימא ר' מאיר היא אפילו תימא רבנן מאי עלייה מעולה שבבתים ודאי אי אמר ליה בית סתם מראהו עלייה אבל השתא דאמר ליה בית בביתי האי לישנא משמע לאפוקי עלייה דגריעא משום עלייה וירידה וצריך ליתן לו המעולה שבין שני בתים דהיינו בית ועלייה מיהו בית הגרוע שיש לו יכול ליתן לו והכי מסיק בשלהי מנחות דף קח: דיד בעל השטר על התחתונה:",
+              "ref": "Rosh on Nedarim 7:3:1",
+              "sourceHeRef": "פסקי הרא\"ש על נדרים ז:ג:א",
+              "sourceRef": "Rosh on Nedarim 7:3:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "Quand une personne fait vœu de s’abstenir des produits du froment, il lui est interdit de manger de ces produits, crus ou cuits. Si elle a dit: «Que le froment, ainsi que ses produits, que je goûterais, me soient interdits», la farine comme le pain de froment lui sont défendus. Si elle a dit: «Que le froment que je goûterais me soit interdit», il lui est défendu de manger du froment cuit, mais elle peut manger du froment cru. Quand elle a dit: «Que les produits du froment, que je goûterais, me soient interdits», il lui est permis de manger ces produits cuits, mais non pas crus. Si elle dit: «Que le froment et ses produits, que je goûterais, me soient défendus», elle ne pourra manger ni froment, ni produits, qu’ils soient cuits ou crus.<br><small>G<small>LOSE</small>: Quand une personne dit: «Que le pain de froment, d’orge ou d’épeautre me soit défendu», ces trois sortes de pain seules lui sont défendues. Le mot «pain» qu’elle a prononcé s’applique aussi bien à l’orge et à l’épeautre qu’au froment. D’aucuns, se montrant plus sévères, défendent non seulement le pain d’orge ou d’épeautre, mais encore l’orge et l’épeautre eux-mêmes, à moins que la personne n’ait eu soin de spécifier que son vœu ne se rapportait qu’aux pains. L’interdiction ne frappera encore que le pain lui-même si, dans le langage de la ville où habite cette personne, la majorité des habitants comprend qu’il ne s’agit que du pain, dans le vœu qui a été prononcé.</small>",
+              "he": "הנודר מהחטים אסור בהם בין חיים בין מבושלים חטה חטים שאיני טועם אסור בהם בין קמח בין פת חטה שאיני טועם אסור בהם באפויה ומותר לכוס חטים שאיני טועם מותר באפויה ואסור לכוס חטה חטים שאיני טועם אסור בין באפויה בין לכוס: <span class=\"hebrew-emphasis\">הגה האומר פת חטים ושעורים וכוסמין עלי אינו אסור אלא בפת חטים ופת שעורים ופת כוסמין דפת דקאמר קאי על כולם (הר\"ן פ' שבועות שתים) ויש מחמירין לאסור בשעורים וכוסמין לגמרי אלא אם כן אומר שלא היתה כוונתו רק אפת או שידוע לשון בני אדם שבאותו העיר דאז הולכין אחר לשון בני אדם (כ\"כ הר\"ן בשם הרמב\"ן)</span>:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 217:20",
+              "sourceHeRef": "יורה דעה ריז:כ - דין הנודר מהמבושל מהמליח ממעשה קדירה ודומיהם וכיצד הולכין בנדרים אחר לשון בני אדם.",
+              "sourceRef": "Yoreh De'ah 217:20"
+            },
+            {
+              "en": "Quand une personne dit: «Que le grain que je goûterais me soit interdit», il lui est défendu de manger les grains cuits, mais elle peut les manger crus. Si elle dit: «Que les grains que je goûterais me soient interdits», il lui est permis de les manger cuits, mais non pas crus. Enfin si elle dit: «Que le grain ou les grains, que je goûterais, me soient défendus», il lui est interdit d’en manger, qu’ils soient crus ou cuits.",
+              "he": "גריס שאני טועם אסור לאכול מבושל ומותר לאכול חי גריסין שאני טועם אסור לאכלם חיים ומותר לאכלם מבושלים גריס גריסין שאני טועם אסור לאכלם חיים ומבושלים:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 217:21",
+              "sourceHeRef": "יורה דעה ריז:כא - דין הנודר מהמבושל מהמליח ממעשה קדירה ודומיהם וכיצד הולכין בנדרים אחר לשון בני אדם.",
+              "sourceRef": "Yoreh De'ah 217:21"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר <b>\"</b>קונם <b>חטה חטין שאני טועם\" —</b> <b>אסור בהן</b> בחיטים <b>בין</b> בצורת <b>קמח בין הפת</b> שנאפתה מהן. אמר <b>\"</b>קונם <b>גריס גריסין שאני טועם\" —</b> <b>אסור בהן בין חיין בין מבושלין. ר' יהודה אומר:</b> אם אומר <b>\"קונם גריס או חטה שאני טועם\" מותר לכוס</b> (לכסוס, לכרסם אותם) כשהם <b>חיים</b> (בלתי מבושלים), משום שאין דרכם להיאכל כך, ולא על דעת כן נדר.",
+              "ref": "Steinsaltz on Nedarim 53b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ג ב:ו",
+              "sourceRef": "Steinsaltz on Nedarim 53b:6"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חטה חטין שאני טועם אסור בין בחטין בין בפת</strong> - דחיטה משמע לאפות ומיהו בברייתא בגמ' גרסינן איפכא ושמא טוב לפרש הכא חטה או חיטים גריס או גריסין אסור בין חיין בין מבושלין ורבי שמעין ורבי יהודה מחלקין בין חטה לחטין גריס גריסין כדמפרש גבי חטה חטין רבי יהודה אמר קונם גריס או חטה שאני טועם מותרין לכוס חיין דחטה וגריס משתמעי מבושלין:",
+              "ref": "Tosafot on Nedarim 53b:6:1",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ו:א",
+              "sourceRef": "Tosafot on Nedarim 53b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבי יהודה אומר גריס או חטה שאני טועם מותר לכוס חיים</strong> - מדקאמר חטה וגריס סתם ולא אמר <span class=\"parenthesized\">(חטה)</span> חטין גריסין קסבר [חטה גריס] מבושלין משמע חיין לא משמע:",
+              "ref": "Tosafot on Nedarim 53b:6:2",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ו:ב",
+              "sourceRef": "Tosafot on Nedarim 53b:6:2"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ר' יהודה אומ', קונם גריס שני טועם, מותר בחיים ואסור במבושלין. גריסין שני טועם, אסור בחיים ומותר במבושלין. חטה שני טועם, מותר לכוס ואסור לאפות. חטין שני טועם, אסור לכוס ואסור לאפות.",
+              "ref": "Tosefta Nedarim (Lieberman) 3:7",
+              "sourceHeRef": "תוספתא נדרים (ליברמן) ג:ז",
+              "sourceRef": "Tosefta Nedarim (Lieberman) 3:7"
+            },
+            {
+              "en": "",
+              "he": "הנודר מן הירק בשביעית אסור בירקות [שדה] מן הדלועין אין אסור אלא דלעת יוונית בלבד מן הכרוב אסור באספרגיס מן האספרגיס מותר בכרוב מן הכרישין מקום שקורין לקפלוטות כרישין אסור בקפלוטות מן הקפלוטות מותר בכרישין מן הבצלים אסור בבני בצלין ור' יוסי מתיר [מבני] בצלים מותר בבצלים מן העדשים אסור באשישים ור' יוסי מתיר [מן האשישים] מותר בעדשים מן השום אסור במקפה ור' יוסי מתיר [במקפה] במקפה מותר בשום [ר' יהודה] אומר קונסגריס שאני טועם מותר בחיין ואסור במבושלין חטה שאני טועם מותר לכוס ואסור לאפות חיטין שאני טועם אסור לכוס [ואסור] לאפות.",
+              "ref": "Tosefta Nedarim 3:6",
+              "sourceHeRef": "תוספתא נדרים ג:ו",
+              "sourceRef": "Tosefta Nedarim 3:6"
+            }
+          ]
+        }
+      },
+      "en": "If one says: <b><i>Ḥitta</i>,</b> wheat in singular form, or <b><i>ḥittim</i>,</b> wheat in plural form, are <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>prohibited from</b> eating wheat, <b>whether</b> as <b>flour or bread.</b> If one says: <b>Pounded bean</b> or <b>pounded beans</b> are <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>prohibited from</b> eating <b>them, whether raw or cooked. <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> says</b> that if one says: <b>Pounded bean or <i>ḥitta</i> is <i>konam</i></b> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>permitted to chew</b> them <b>raw,</b> as that is not the normal way to eat them, and therefore was not included in the intention of the vow.",
+      "he": "״חִטָּה חִטִּין שֶׁאֲנִי טוֹעֵם״ — אָסוּר בָּהֶן בֵּין קֶמַח בֵּין הַפַּת. ״גְּרִיס גְּרִיסִין שֶׁאֲנִי טוֹעֵם״ — אָסוּר בָּהֶן בֵּין חַיִּין בֵּין מְבוּשָּׁלִין. רַבִּי יְהוּדָה אוֹמֵר: ״קֻוֽנָּם גְּרִיס אוֹ חִטָּה שֶׁאֲנִי טוֹעֵם״ — מוּתָּר לָכוֹס חַיִּים.",
+      "ref": "Nedarim 53b:6"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A person who vows not to partake of grains of wheat is forbidden to partake of wheat kernels whether they are fresh or cooked. If he says: \"Neither wheat, nor grains of wheat will I taste,\" he is forbidden to partake of either flour or bread. \"I will not taste wheat,\" he is forbidden to partake of baked goods, but permitted to chew kernels of wheat. If he states: \"I will not partake of grains of wheat,\" he is permitted to partake of baked goods, but forbidden to chew kernels of wheat. If he says: \"Neither wheat, nor grains of wheat will I taste,\" he is forbidden to partake of baked goods, nor may he chew kernels of wheat. When a person takes a vow forbidding himself from partaking of grain, he is forbidden only [to partake of] the five species.",
+              "he": "הַנּוֹדֵר מִן הַחִטִּים אָסוּר בָּהֶן בֵּין חַיִּין בֵּין מְבֻשָּׁלִין. חִטָּה חִטִּים שֶׁאֲנִי טוֹעֵם אָסוּר בָּהֶן בֵּין קֶמַח בֵּין פַּת. חִטָּה שֶׁאֲנִי טוֹעֵם אָסוּר בְּאָפוּי וּמֻתָּר לָכֹס. חִטִּים שֶׁאֲנִי טוֹעֵם מֻתָּר בְּאָפוּי וְאָסוּר לָכֹס. חִטָּה חִטִּים שֶׁאֲנִי טוֹעֵם אָסוּר בֵּין בְּאָפוּי בֵּין לָכֹס. וְהַנּוֹדֵר מִן הַדָּגָן אוֹ מִן הַתְּבוּאָה אֵינוֹ אָסוּר אֶלָּא בַּחֲמֵשֶׁת הַמִּינִין:",
+              "ref": "Mishneh Torah, Vows 9:9",
+              "sourceHeRef": "הלכות נדרים ט:ט",
+              "sourceRef": "Vows 9:9"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חטה שאני טועם אסור לאפות</strong> - דפת חטה מיקרי דחד גופא נמי הוא אבל חטים משמע לכוס מפני שאדם כוסס חטים חלוקין ביחד:",
+              "ref": "Ran on Nedarim 53b:7:1",
+              "sourceHeRef": "ר\"ן על נדרים נ״ג ב:ז:א",
+              "sourceRef": "Ran on Nedarim 53b:7:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>חטה שאני טועם אסור לאפות.</b> פי' אסור בפת חטה, ירושלמי ואתמר כן א\"ר יוסי כן אורחיה דבר נשא חמי פיתא נקיה ומימר ברוך דברא חטתא.",
+              "ref": "Rashba on Nedarim 53b:2",
+              "sourceHeRef": "רשב״א על נדרים נ״ג ב:ב",
+              "sourceRef": "Rashba on Nedarim 53b:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור לאפות</strong> - דאדעתא דהכי אמר חטה כדי לאפות דחטה גרגיר א' משמע ומגרגיר לא קאמר:",
+              "ref": "Rashi on Nedarim 53b:7:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ז:א",
+              "sourceRef": "Rashi on Nedarim 53b:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חטין</strong> - משמע חיין:",
+              "ref": "Rashi on Nedarim 53b:7:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ז:ב",
+              "sourceRef": "Rashi on Nedarim 53b:7:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>חטה חטים שאני טועם וכו'.</b> והלכתא כרשב\"א דלפרושי דברי חכמים אתא:",
+              "ref": "Ritva on Nedarim 53b:8",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:ח",
+              "sourceRef": "Ritva on Nedarim 53b:8"
+            },
+            {
+              "en": "",
+              "he": "<b>תניא רשב\"א אומר חטים שאני טועם אסור לכוס ומותר לאפות.</b> פי' ומותר לאכול בפת אפויה: חטה שאני טועם מותר לכוס ואסור לאפות פי' מותר בחטה וקמח של חטים לכוס ואסור בפת אפויה שלו:",
+              "ref": "Ritva on Nedarim 53b:7",
+              "sourceHeRef": "ריטב\"א על נדרים נ״ג ב:ז",
+              "sourceRef": "Ritva on Nedarim 53b:7"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "Quand une personne fait vœu de s’abstenir des produits du froment, il lui est interdit de manger de ces produits, crus ou cuits. Si elle a dit: «Que le froment, ainsi que ses produits, que je goûterais, me soient interdits», la farine comme le pain de froment lui sont défendus. Si elle a dit: «Que le froment que je goûterais me soit interdit», il lui est défendu de manger du froment cuit, mais elle peut manger du froment cru. Quand elle a dit: «Que les produits du froment, que je goûterais, me soient interdits», il lui est permis de manger ces produits cuits, mais non pas crus. Si elle dit: «Que le froment et ses produits, que je goûterais, me soient défendus», elle ne pourra manger ni froment, ni produits, qu’ils soient cuits ou crus.<br><small>G<small>LOSE</small>: Quand une personne dit: «Que le pain de froment, d’orge ou d’épeautre me soit défendu», ces trois sortes de pain seules lui sont défendues. Le mot «pain» qu’elle a prononcé s’applique aussi bien à l’orge et à l’épeautre qu’au froment. D’aucuns, se montrant plus sévères, défendent non seulement le pain d’orge ou d’épeautre, mais encore l’orge et l’épeautre eux-mêmes, à moins que la personne n’ait eu soin de spécifier que son vœu ne se rapportait qu’aux pains. L’interdiction ne frappera encore que le pain lui-même si, dans le langage de la ville où habite cette personne, la majorité des habitants comprend qu’il ne s’agit que du pain, dans le vœu qui a été prononcé.</small>",
+              "he": "הנודר מהחטים אסור בהם בין חיים בין מבושלים חטה חטים שאיני טועם אסור בהם בין קמח בין פת חטה שאיני טועם אסור בהם באפויה ומותר לכוס חטים שאיני טועם מותר באפויה ואסור לכוס חטה חטים שאיני טועם אסור בין באפויה בין לכוס: <span class=\"hebrew-emphasis\">הגה האומר פת חטים ושעורים וכוסמין עלי אינו אסור אלא בפת חטים ופת שעורים ופת כוסמין דפת דקאמר קאי על כולם (הר\"ן פ' שבועות שתים) ויש מחמירין לאסור בשעורים וכוסמין לגמרי אלא אם כן אומר שלא היתה כוונתו רק אפת או שידוע לשון בני אדם שבאותו העיר דאז הולכין אחר לשון בני אדם (כ\"כ הר\"ן בשם הרמב\"ן)</span>:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 217:20",
+              "sourceHeRef": "יורה דעה ריז:כ - דין הנודר מהמבושל מהמליח ממעשה קדירה ודומיהם וכיצד הולכין בנדרים אחר לשון בני אדם.",
+              "sourceRef": "Yoreh De'ah 217:20"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> <b>תניא</b> <span class=\"hebrew-emphasis\">[שנויה</span> ברייתא<span class=\"hebrew-emphasis\">]</span> <b>ר' שמעון בן גמליאל אומר:</b> אמר <b>\"חטה שאני טועם\" —</b> <b>אסור לאפות</b> ולאכול פת מקמח חטה, <b>ומותר לכוס</b> (לכסוס, לכרסם) חטה. אמר <b>\"חטים שאני טועם\" —</b> <b>אסור לכוס ומותר לאפות,</b> כי לשון זו מתייחסת דווקא לחיטים בגרגריהן. <b>\"חטה חטין שאני טועם\" —</b> <b>אסור בין לכוס בין לאפות.</b>",
+              "ref": "Steinsaltz on Nedarim 53b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ג ב:ז",
+              "sourceRef": "Steinsaltz on Nedarim 53b:7"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">חטה שאני טועם מותר לאפות</strong> - דחטה לא משמע אלא חיין חטין משמע לאפות ורבי שמעון ורבי יהודה לא פליגי דלתרוייהו גריס חטה מבושלין משמע ולא חיין גריסין חטין משמע חיין אבל לא מבושלים:",
+              "ref": "Tosafot on Nedarim 53b:7:1",
+              "sourceHeRef": "תוספות על נדרים נ״ג ב:ז:א",
+              "sourceRef": "Tosafot on Nedarim 53b:7:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b>It is taught</b> in a <i>baraita</i> that <b><span href=\"/topics/רשבג-(ambiguous)\" class=\"namedEntityLink\" data-slug=\"רשבג-(ambiguous)\">Rabbi Shimon ben Gamliel</span> says</b> that if one vows: <b><i>Ḥitta</i></b> is <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> it, he is <b>prohibited from</b> eating <b>baked</b> wheat, i.e., baked wheat bread, <b>but</b> he is <b>permitted to chew</b> wheat grains. If one says: <b><i>Ḥittim</i></b> are <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>prohibited from chewing</b> wheat grains <b>but</b> is <b>permitted to bake</b> them, as this term is referring to grains of wheat. If one says: <b><i>Ḥitta</i></b> or <b><i>ḥittin</i></b> are <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them ,he is <b>prohibited both from chewing</b> wheat grains and <b>from baking</b> wheat bread.",
+      "he": "<big><strong>גְּמָ׳</strong></big> תַּנְיָא רַבִּי שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: ״חִטָּה שֶׁאֲנִי טוֹעֵם״ — אָסוּר לֶאֱפוֹת וּמוּתָּר לָכוֹס. ״חִטִּים שֶׁאֲנִי טוֹעֵם״ — אָסוּר לָכוֹס וּמוּתָּר לֶאֱפוֹת. ״חִטָּה חִטִּין שֶׁאֲנִי טוֹעֵם״ — אָסוּר בֵּין לָכוֹס בֵּין לֶאֱפוֹת.",
+      "ref": "Nedarim 53b:7",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A person who vows not to partake of grains of wheat is forbidden to partake of wheat kernels whether they are fresh or cooked. If he says: \"Neither wheat, nor grains of wheat will I taste,\" he is forbidden to partake of either flour or bread. \"I will not taste wheat,\" he is forbidden to partake of baked goods, but permitted to chew kernels of wheat. If he states: \"I will not partake of grains of wheat,\" he is permitted to partake of baked goods, but forbidden to chew kernels of wheat. If he says: \"Neither wheat, nor grains of wheat will I taste,\" he is forbidden to partake of baked goods, nor may he chew kernels of wheat. When a person takes a vow forbidding himself from partaking of grain, he is forbidden only [to partake of] the five species.",
+              "he": "הַנּוֹדֵר מִן הַחִטִּים אָסוּר בָּהֶן בֵּין חַיִּין בֵּין מְבֻשָּׁלִין. חִטָּה חִטִּים שֶׁאֲנִי טוֹעֵם אָסוּר בָּהֶן בֵּין קֶמַח בֵּין פַּת. חִטָּה שֶׁאֲנִי טוֹעֵם אָסוּר בְּאָפוּי וּמֻתָּר לָכֹס. חִטִּים שֶׁאֲנִי טוֹעֵם מֻתָּר בְּאָפוּי וְאָסוּר לָכֹס. חִטָּה חִטִּים שֶׁאֲנִי טוֹעֵם אָסוּר בֵּין בְּאָפוּי בֵּין לָכֹס. וְהַנּוֹדֵר מִן הַדָּגָן אוֹ מִן הַתְּבוּאָה אֵינוֹ אָסוּר אֶלָּא בַּחֲמֵשֶׁת הַמִּינִין:",
+              "ref": "Mishneh Torah, Vows 9:9",
+              "sourceHeRef": "הלכות נדרים ט:ט",
+              "sourceRef": "Vows 9:9"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גריס</strong> - משמע מבושל:",
+              "ref": "Rashi on Nedarim 53b:8:1",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ח:א",
+              "sourceRef": "Rashi on Nedarim 53b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גריסין</strong> - משמע נמי חיין:",
+              "ref": "Rashi on Nedarim 53b:8:2",
+              "sourceHeRef": "רש\"י על נדרים נ״ג ב:ח:ב",
+              "sourceRef": "Rashi on Nedarim 53b:8:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a person takes a vow [not to partake of] green vegetables, he is permitted to partake of squash. If he takes a vow [not to partake of] leek, he is permitted to partake of the poret.<br>If a person takes a vow [not to partake of] cabbage, he is forbidden to partake of the water cooked with cabbage, for the water in which food is cooked is considered as the food itself. If, however, he vowed not to partake of the water in which a food is cooked, he may partake of the cooked food itself.<br>A person who takes a vow [not to partake of] sauce is permitted [to partake of] the spices. [One who takes a vow not to partake] of the spices is permitted [to partake of] the sauce. One who takes a vow [not to partake of] groats is forbidden [to partake of] the thick sauce produced by the groats.",
+                      "he": "הַנּוֹדֵר מִן הַיָּרָק מֻתָּר בִּדְלוּעִין. הַנּוֹדֵר בִּכְרֵישִׁין מֻתָּר בְּקַפְלוֹטוֹת. הַנּוֹדֵר מִן הַכְּרוּב אָסוּר בְּמַיִם שֶׁנִּתְבַּשֵּׁל בּוֹ הַכְּרוּב שֶׁהֲרֵי מֵי שְׁלָקוֹת כִּשְׁלָקוֹת. נָדַר מִמֵּי הַשְּׁלָקוֹת מֻתָּר בַּשְּׁלָקוֹת עַצְמָן. הַנּוֹדֵר מִן הָרֹטֶב מֻתָּר בַּתַּבְלִין שֶׁבּוֹ. מִן הַתַּבְלִין מֻתָּר בָּרֹטֶב. הַנּוֹדֵר מִן הַגְּרִיסִין אָסוּר בַּמִּקְפָּה שֶׁל גְּרִיסִין:",
+                      "ref": "Mishneh Torah, Vows 9:10",
+                      "sourceHeRef": "הלכות נדרים ט:י",
+                      "sourceRef": "Vows 9:10"
+                    }
+                  ]
+                }
+              },
+              "en": "Quand une personne dit: «Que le grain que je goûterais me soit interdit», il lui est défendu de manger les grains cuits, mais elle peut les manger crus. Si elle dit: «Que les grains que je goûterais me soient interdits», il lui est permis de les manger cuits, mais non pas crus. Enfin si elle dit: «Que le grain ou les grains, que je goûterais, me soient défendus», il lui est interdit d’en manger, qu’ils soient crus ou cuits.",
+              "he": "גריס שאני טועם אסור לאכול מבושל ומותר לאכול חי גריסין שאני טועם אסור לאכלם חיים ומותר לאכלם מבושלים גריס גריסין שאני טועם אסור לאכלם חיים ומבושלים:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 217:21",
+              "sourceHeRef": "יורה דעה ריז:כא - דין הנודר מהמבושל מהמליח ממעשה קדירה ודומיהם וכיצד הולכין בנדרים אחר לשון בני אדם.",
+              "sourceRef": "Yoreh De'ah 217:21"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וכן, אם אמר <b>\"גריס שאני טועם\" —</b> <b>אסור לבשל,</b> שכך נקרא תבשיל של גריסים, <b>ומותר לכוס,</b> לכרסם אותם כשהם חיים. אמר <b>\"גריסין שאני טועם\" —</b> <b>אסור לכוס ומותר לבשל. \"גריס גריסין שאני טועם\" —</b> <b>אסור בין לבשל בין לכוס.</b>",
+              "ref": "Steinsaltz on Nedarim 53b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים נ״ג ב:ח",
+              "sourceRef": "Steinsaltz on Nedarim 53b:8"
+            }
+          ]
+        }
+      },
+      "en": "Similarly, if one says: <b>Pounded bean</b> is <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> it, he is <b>prohibited from cooking</b> pounded bean, i.e., from eating a dish of cooked pounded beans, as that is what the word pounded bean commonly means, <b>but</b> he is <b>permitted to chew</b> raw pounded beans. If one says: <b>Pounded beans</b> are <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>prohibited from chewing</b> pounded beans <b>but</b> is <b>permitted to cook</b> them. If one says: <b>Pounded bean</b> or <b>pounded beans</b> are <i>konam</i> for me, and for <b>that</b> reason <b>I</b> will not <b>taste</b> them, he is <b>prohibited from both cooking and chewing</b> pounded beans.",
+      "he": "״גְּרִיס שֶׁאֲנִי טוֹעֵם״ — אָסוּר לְבַשֵּׁל וּמוּתָּר לָכוֹס. ״גְּרִיסִין שֶׁאֲנִי טוֹעֵם״ — אָסוּר לָכוֹס וּמוּתָּר לְבַשֵּׁל. ״גְּרִיס גְּרִיסִין שֶׁאֲנִי טוֹעֵם״ — אָסוּר בֵּין לְבַשֵּׁל בֵּין לָכוֹס.",
+      "ref": "Nedarim 53b:8"
+    },
+    {
+      "commentary": {
+        "Steinsaltz Perek Summary": {
+          "comments": [
+            {
+              "en": [
+                "This chapter discussed the meaning of terms and names of various types of food, including those which have a wide literal meaning but a narrower meaning in the vernacular. For example, the expression: Roasted food, was used only in reference to roasted meat. It was established that the vernacular is followed with regard to the interpretation of vows. Accordingly, the interpretation of a term or expression may change from place to place and from generation to generation.",
+                "A type of food that has a modifier in its name is not included in the vow if the modifier was not mentioned. Therefore, wild vegetables are not included in a vow that refers to vegetables.",
+                "If one has vowed that a particular food is forbidden to him, a derivative of that food is permitted to him unless the vow referred to a particular food item. In that case, if the forbidden food got mixed into another food, the mixture is prohibited, provided that the flavor of the forbidden food is noticeable in the mixture.",
+                "Stories about how some Sages studied Torah in poverty and others became very wealthy were related tangentially."
+              ],
+              "he": [
+                "חלק מן הפרק עסק בהגדרתם המדוייקת של מונחים ושמות למיני מאכל שונים, ובעיקר אלה שמשמעותם המילולית רחבה, אבל בלשון בני אדם יש להם משמעות מצומצמת יותר <span class=\"parenthesized\">(כגון שסתם ״צלי״ אינו אלא צלי בשר, וסתם ״ירקות״ אינם כוללים ירקות־בר)</span>. ושדברים שיש להם שם לוואי <span class=\"parenthesized\">(כגון ״דבש תמרים״)</span> אינם בכלל נדרו של זה האוסר על עצמו את הדבר בכלל. ופעמים שיש הבחנה בדיוק הלשון שמשתמש בה הנודר, שפעמים משמעותה של לשון מסויימת היא מאכל חי או מאכל מבושל, מוצר גולמי או מוצר מוגמר בלבד. ונקבע באלה ובכיוצא בהם כלל גדול — שאין הולכים בנדרים אלא אחר לשון בני אדם. לאמור, שאין מובנו של נדר מתפרש אלא על פי שימוש הלשון הרגיל בפי בני האדם שבאותו המקום ובאותו זמן.",
+                "סוכם כי הנודר מסוגי מאכלים אינו אסור אלא בהם, אבל לא במוצרים היוצאים מהם, אף כי יש מי שסבור כי אם המוצר נקרא על שם הדבר שיצא ממנו — הריהו בכלל האיסור.",
+                "היתר זה לא נאמר אלא כאשר אוסר עצמו בסוגי מאכל, אבל אם אוסר על עצמו מאכל מסויים <span class=\"parenthesized\">(״ענבים אלו״)</span> או מאכלים של איש פלוני או מקום פלוני — הריהו נאסר לא בהם בלבד אלא אף ביוצא מהם ובתערובותיהם. וכל תערובת כזו שיעורה לאסור הוא בכדי שיהא בו — בדבר שאסרו עליו — כדי לתת טעם בתערובת.",
+                "אגב הדברים מובאים דברים על מעשיהם וקורות חייהם של חכמים, ובעיקר כיצד עסקו בלימוד תורה מתוך עוני, וכיצד הגיעו אחדים מהם לעושר מרובה."
+              ],
+              "ref": "Introductions to the Babylonian Talmud, Nedarim, Summary of Perek VI",
+              "sourceHeRef": "הקדמות לתלמוד הבבלי, נדרים, סיכום לפרק ו׳",
+              "sourceRef": "Introductions to the Babylonian Talmud, Nedarim, Summary of Perek VI"
+            }
+          ]
+        }
+      },
+      "en": "",
+      "hadran": true,
+      "he": "<big><strong>הֲדַרַן עֲלָךְ הַנּוֹדֵר מִן הַמְבוּשָּׁל</strong></big>",
+      "ref": "Nedarim 53b:9"
+    }
+  ],
+  "title": "Nedarim 53b",
+  "titleHebrew": "נדרים נג,ב",
+  "topics": []
+}

@@ -1,0 +1,908 @@
+{
+  "id": "38b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אימא בתולה לגזירה שוה</strong> - ולאו למעוטי בעולה ויהא קנס לבעולה:",
+              "ref": "Rashi on Ketubot 38b:1:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:א:א",
+              "sourceRef": "Rashi on Ketubot 38b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אימא</b> <span class=\"hebrew-emphasis\">[אמור]</span> להיפך: <b>\"בתולה\"</b> שנאמרה גם באנוסה וגם במפותה — <b>לגזירה שוה</b> היא, ואין ללמוד מכאן להוציא בעולה, <b>ו</b>מה שנאמר <b>\"אשר לא אורסה\"</b> (שמות כב, טו), יתפרש כר' יוסי הגלילי — <b>פרט לנערה שנתארסה ונתגרשה!</b>",
+              "ref": "Steinsaltz on Ketubot 38b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:א",
+              "sourceRef": "Steinsaltz on Ketubot 38b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "There is a fundamental difficulty, as this question runs counter to one of the basic principles of verbal analogy, i.e., one may not derive a verbal analogy on his own; only those he has received as a tradition from his teachers are valid. All verbal analogies are based on ancient tradition, like a <i>halakha</i> transmitted to Moses from Sinai. Yet here, and in several other places, there appears to be no established tradition. The early commentaries suggest several answers. One approach (Ritva) is that there was a tradition linking two verses by verbal analogy, but it was not clear which particular words served as the basis of the analogy (see <i>Tosafot</i>). Others maintain that the terms in the analogy were also part of the tradition, but the meaning of the analogy was not always clear (see <i>Shita Mekubbetzet</i>).",
+              "he": "שאלה זו מעוררת את הבעיה ביחס לעצם הלימוד במידת גזירה שווה. שכן כלל הוא שאין אדם לומד גזירה שווה מעצמו, אלא אם כן קיבלה מרבו. ולפי זה הגזירה השווה מתבססת תמיד על מסורת עתיקה, כהלכה למשה מסיני. ואילו כאן (ובכמה מקומות אחרים) נראה שאין מסורת ברורה בענין זה. ומסבירים הראשונים בכמה דרכים. לשיטה אחת היתה בידם מסורת ששני פסוקים קשורים זה בזה בדרך גזירה שווה, אלא שלא היו יודעים תמיד מאלו מלים נלמדת גזירה שווה זו (ריטב\"א, וראה בתוס' ד\"ה אימא). ויש שאמרו כי קיבלו במסורת אף את המילים המשמשות לגזירה שווה, אלא שלא תמיד ידעו מה משמעותה של השוואה זו (ראה בשטמ\"ק).",
+              "ref": "Steinsaltz comment #1 on Ketubot 38b:1",
+              "sourceHeRef": "אֵימָא בְּתוּלָה לִגְזֵירָה שָׁוָה",
+              "sourceRef": "Say virgin is to derive a verbal analogy"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">[אימא בתולה לג\"ש</strong> - ולא נמעט בעולה כדמשמע בסמוך נראה דר\"ע דריש ג\"ש מקרא דלגופיה דהיינו בתולה קמייתא ודקנס ודמפתה אבל הבתולות דריש לכתובת בתולות ולא שייך למידרשיה לג\"ש ולא לשום רבוי ואייתר נער נערה הנערה וה' דהבתולות חד לחייבי לאוין ועשה וחד לחייבי לאוין וכריתות ואיכא ג' רבויין ה' דהבתולות ונער נערה הנערה חד לכדאביי וחד לחייבי עשה וחד לחייבי לאוין וכריתות דאי איכא לר\"ע חד לגופיה בלא ג\"ש א\"כ נמעוט בעולה מההוא דלגופיה ואף על גב דבקנס ליכא אלא חד בתולה דלגופיה מגזירה שוה דמפתה ניליף בתולה ולא בעולה כי היכי דיליף מפתה מאונס לענין נערה דלא כתיב במפתה]. <span class=\"parenthesized\">(ת\"י כ\"י)</span>:",
+              "ref": "Tosafot on Ketubot 38b:1:1",
+              "sourceHeRef": "תוספות על כתובות ל״ח ב:א:א",
+              "sourceRef": "Tosafot on Ketubot 38b:1:1"
+            },
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה</b> אימא בתולה לג\"ש תימה דתקשי ליה דאימא תרוייהו לגופייהו וכו'. פי' דע\"כ ס\"ל לגמ' דהג\"ש לא נתקבלה מסיני דאל\"כ מאי פריך אימא בתולה לג\"ש לימא דדוקא ג\"ש דואשר לא אורשה נתקבלה וא\"כ מאחר דלא נתקבלה שום ג\"ש לפרוך דאימא תרוייהו לגופייהו ולא לג\"ש:",
+                      "ref": "Maharam on Ketubot 38b:1",
+                      "sourceHeRef": "מהר\"ם על כתובות ל״ח ב:א",
+                      "sourceRef": "Maharam on Ketubot 38b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אימא בתולה לג\"ש</strong> - תימה דתיקשי ליה דאימא תרוייהו לגופייהו ולא לג\"ש ונראה דהש\"ס קים ליה דחד מינייהו לגזירה שוה הואיל והמקראות סתומים לענין שקלים וחמשים הלכך פריך ואימא איפכא ולא פריך ואימא תרוייהו לגופייהו וכי האי גוונא איכא פ\"ק דסנהדרין <span class=\"parenthesized\">(דף טז.)</span> דאמר ולא את נביא השקר אלא בב\"ד של ע' ואחד מה\"מ א\"ר יוסי בר חנינא אתיא הזדה הזדה מזקן ממרא ופריך הא הזדה כי כתיב בקטלא הוא דכתיב וקטלא בכ\"ג אלא אמר ריש לקיש גמר דבר דבר מהמראתו והשתא היכי הוה בעי למילף ולמימר רבי יוסי ברבי חנינא דאתיא הזדה הזדה אלא דהוה קים ליה דאיכא ג\"ש ולא הוה ידע במאי וקאמר מסברא דאתיא הזדה הזדה:",
+              "ref": "Tosafot on Ketubot 38b:1:2",
+              "sourceHeRef": "תוספות על כתובות ל״ח ב:א:ב",
+              "sourceRef": "Tosafot on Ketubot 38b:1:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>Say</b> to the contrary; the term <b>“virgin,”</b> written with regard to both rape and seduction, is <b>to</b> derive <b>a verbal analogy,</b> and not to exclude a non-virgin, <b>and</b> the phrase <b>“Who was not betrothed”</b> will be interpreted as <span href=\"/topics/rabbi-yose-hagelili\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-hagelili\">Rabbi Yosei HaGelili</span> interpreted it, to <b>exclude a young woman who was betrothed and divorced.</b>",
+      "he": "אֵימָא: ״בְּתוּלָה״ — לִגְזֵירָה שָׁוָה, וַ״אֲשֶׁר לֹא אוֹרָסָה״ — פְּרָט לְנַעֲרָה שֶׁנִּתְאָרְסָה וְנִתְגָּרְשָׁה!",
+      "ref": "Ketubot 38b:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מסתברא אשר לא אורסה לגזירה שוה</strong> - ואפי' אורסה אית לה קנס:",
+              "ref": "Rashi on Ketubot 38b:2:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ב:א",
+              "sourceRef": "Rashi on Ketubot 38b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שהרי אני קורא בה נערה בתולה</strong> - אע\"פ שנתארסה ונתגרשה דהא נערה בתולה היא כדכתיב קרא אבל בעולה שאין אני קורא בה נערה בתולה אין לה קנס:",
+              "ref": "Rashi on Ketubot 38b:2:2",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ב:ב",
+              "sourceRef": "Rashi on Ketubot 38b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אדרבה בתולה לגזירה שוה</strong> - ולאו למעוטי בעולה בזנות אלא יש לה קנס לבעולה בזנות שהרי אני קורא אותה נערה אשר לא אורסה:",
+              "ref": "Rashi on Ketubot 38b:2:3",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ב:ג",
+              "sourceRef": "Rashi on Ketubot 38b:2:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מסתברא</strong> - ארוסה יש לה קנס ובעולה אין לה:",
+              "ref": "Rashi on Ketubot 38b:2:4",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ב:ד",
+              "sourceRef": "Rashi on Ketubot 38b:2:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דהא אישתני גופה</strong> - ופגמה אין רב כל כך:",
+              "ref": "Rashi on Ketubot 38b:2:5",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ב:ה",
+              "sourceRef": "Rashi on Ketubot 38b:2:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא</strong> - דנתארסה ונתגרשה לא נשתנה גופה:",
+              "ref": "Rashi on Ketubot 38b:2:6",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ב:ו",
+              "sourceRef": "Rashi on Ketubot 38b:2:6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>מסתברא</b> <span class=\"hebrew-emphasis\">[מסתבר]</span> לומר ש<b>\"אשר לא אורסה\"</b> הוא שבא <b>לגזירה שוה</b> ולא למעט נתארסה ונתגרשה, <b>שהרי</b> גם בזו שאורסה <b>אני קורא בה \"נערה בתולה\",</b> כלומר, עדיין מתקיים בה חלקו האחר של הכתוב. ומקשים: <b>אדרבה</b> (להיפך), נלמד ש<b>\"בתולה\" לגזירה שוה</b> היא באה, <b>שהרי אני קורא בה,</b> גם בבתולה וגם בבעולה, <b>\"אשר לא אורסה\"!</b> ומשיבים: <b>מסתברא</b> <span class=\"hebrew-emphasis\">[מסתבר]</span> לומר שהפסוק \"בתולה\" בא להוציא את הבעולה, ו\"אשר לא אורסה\" לא בא למעט נתארסה ונתגרשה, אלא לגזירה שווה. שהרי <b>הא</b> <span class=\"hebrew-emphasis\">[זו</span> שנבעלה<span class=\"hebrew-emphasis\">],</span> <b>אישתני</b> <span class=\"hebrew-emphasis\">[נשתנה]</span> <b>גופה, והא</b> <span class=\"hebrew-emphasis\">[וזו</span> שנתארסה ונתגרשה<span class=\"hebrew-emphasis\">],</span> <b>לא אישתני</b> <span class=\"hebrew-emphasis\">[השתנה]</span> <b>גופה,</b> וגם דינה לגבי קנס לא השתנה.",
+              "ref": "Steinsaltz on Ketubot 38b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:ב",
+              "sourceRef": "Steinsaltz on Ketubot 38b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This change is obvious in the case of a non-virgin. With regard to a grown woman, some commentaries explain that her body is also considered to have undergone changes over time, affecting her status as a virgin (see <i>Shita Mekubbetzet</i>).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Ketubot 38b:2",
+              "sourceHeRef": "הָא אִישְׁתַּנֵּי גּוּפָהּ",
+              "sourceRef": "This woman, her body changed"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b>It stands to reason</b> that the phrase <b>“Who was not betrothed”</b> is utilized <b>to</b> derive <b>a verbal analogy,</b> and not to exclude one who was betrothed and divorced, <b>as</b> even after the divorce <b>I can</b> still <b>read</b> the phrase <b>“A young woman who is a virgin”</b> as applying <b>to her.</b> The Gemara asks: <b>On the contrary,</b> utilize the term <b>virgin to</b> derive <b>a verbal analogy, as</b> even if she is not a virgin, <b>I can</b> still <b>read</b> the phrase <b>“Who was not betrothed”</b> as applying <b>to her.</b> The Gemara answers: <b>It stands to reason</b> that the term “virgin” excludes a non-virgin, and the phrase “Who was not betrothed” is utilized to derive a verbal analogy, as <b>this</b> woman who engaged in relations, <b>her body changed, and that</b> woman who was betrothed and divorced, <b>her body did not change,</b> and therefore her status with regard to the fine should similarly not change.",
+      "he": "מִסְתַּבְּרָא ״אֲשֶׁר לֹא אוֹרָסָה״ לִגְזֵירָה שָׁוָה, שֶׁהֲרֵי אֲנִי קוֹרֵא בָּהּ ״נַעֲרָה בְּתוּלָה״. אַדְּרַבָּה: ״בְּתוּלָה״ לִגְזֵירָה שָׁוָה, שֶׁהֲרֵי אֲנִי קוֹרֵא בָּהּ ״אֲשֶׁר לֹא אוֹרָסָה״! מִסְתַּבְּרָא: הָא אִישְׁתַּנִּי גּוּפַהּ, וְהָא לָא אִישְׁתַּנִּי גּוּפַהּ.",
+      "ref": "Ketubot 38b:2"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The Gemara questions the basic <i>halakha</i> that one who rapes young women of flawed lineage is liable to pay the fine: <b>And are these</b> young women <b>entitled</b> to the <b>fine? But why? I read here</b> with regard to a rapist: <b>“And to him she shall be as a wife”</b> (Deuteronomy 22:29), from which the Sages derived that only <b>a wife who is suitable for him</b> is eligible to receive payment of a fine from a rapist. <b>Reish Lakish said</b> that one verse states: “If a man finds a young woman” (Deuteronomy 22:28), and another states: “And he shall give to the father of the young woman” (Deuteronomy 22:29). This is tantamount to three mentions: <b>Young woman, young woman, the young woman,</b> as the superfluous definite article is interpreted as a third mention of the term. <b>One</b> mention is required <b>to</b> teach the matter <b>itself,</b> that one who rapes a young woman is liable to pay a fine; <b>and one</b> is <b>to include</b> payment of a fine to those young women for whose rape one is <b>liable for</b> violating <b>prohibitions; and one</b> is <b>to include</b> payment of a fine to those young women for whose rape one is <b>liable to</b> receive <b><i>karet</i>.</b>",
+                "<b>Rav Pappa said:</b> This is derived from the <i>halakha</i> of the seducer, as the verses state: “And if a man seduce a virgin…he shall weigh money like the dowry of the virgins” (Exodus 22:15–16). This is tantamount to three mentions: <b>Virgin, virgins, the virgins. One</b> mention is required <b>to</b> teach the matter <b>itself; and one</b> is <b>to include</b> those young women for whose rape one is <b>liable for</b> violating <b>prohibitions; and one</b> is <b>to include</b> those young women for whom one who rapes them is <b>liable to</b> receive <b><i>karet</i>.</b>",
+                "The Gemara asks: <b>And Rav Pappa, what is the reason</b> that <b>he did not cite</b> the source <b>as Reish Lakish</b> did? The Gemara answers: <b>That</b> derivation from the three instances of the term young woman is <b>required by him to</b> teach <b>in accordance with that</b> which <b>Abaye</b> said, <b>as Abaye said:</b> If one <b>engaged in</b> forced <b>intercourse with</b> a young woman <b>and she died</b> before he stood trial, he is <b>exempt</b> from paying the fine, <b>as it is stated: “And he shall give to the father of the young woman”</b> (Deuteronomy 22:29). From the fact that the verse does not simply say: To her father, it is inferred: <b>To the father of the young woman and not to the father of a dead</b> woman. He is liable only if the young woman is still alive.",
+                "The Gemara asks: <b>And Reish Lakish, what is the reason</b> that <b>he did not cite</b> the source <b>as Rav Pappa</b> did? The Gemara answers: <b>That</b> derivation from the three instances of the term virgin is <b>required by him to</b> derive <b>a verbal analogy, as it is taught</b> in a <i>baraita</i> that it is written with regard to a seducer: <b>“He shall weigh [<i>yishkol</i>] money like the dowry of the virgins”</b> (Exodus 22:16), from which it is derived <b>that this</b> fine of a seducer <b>should be</b> a sum of fifty <i>sela</i> <b>like the dowry of the virgins</b> specified in the case of a rapist; <b>and the dowry of the virgins must be</b> paid in <i>sela</i> <b>like this</b> fine of the seducer. Therefore, Reish Lakish holds that no additional matters may be derived from the term virgins. The Gemara asks: <b>And</b> for <b>Reish Lakish too,</b> isn’t it <b>required by him to</b> teach <b>in accordance with that</b> which <b>Abaye</b> said? <b>And</b> similarly, for <b>Rav Pappa,</b> isn’t it <b>required by him to</b> derive <b>a verbal analogy?</b>",
+                "<b>Rather,</b> there are <b>six verses written,</b> and both Reish Lakish and Rav Pappa derive matters from all of them. In the two passages discussing the rapist and the seducer, it is written: <b>Young woman, young woman, the young woman; virgin, virgins, the virgins. Two</b> mentions are required <b>to</b> teach the matters <b>themselves,</b> the basic <i>halakhot</i> of a rapist and a seducer; <b>one</b> mention is needed <b>to</b> teach <b>in accordance with that</b> which <b>Abaye</b> said; <b>and one</b> mention is necessary <b>to</b> derive <b>a verbal analogy</b> with regard to the dowry of virgins. <b>Two</b> mentions of the term <b>remain for him; one</b> is <b>to include</b> those young women for whose rape one is <b>liable for</b> violating <b>prohibitions, and one</b> is <b>to include</b> those young women for whom one who rapes them is <b>liable to</b> receive <b><i>karet</i>.</b> Reish Lakish and Rav Pappa do not disagree; the derivation of each complements that of the other."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Ketubot 29b:2",
+                "Ketubot 29b:3",
+                "Ketubot 29b:4",
+                "Ketubot 29b:5",
+                "Ketubot 29b:6"
+              ],
+              "he": [
+                "וְהָנֵי בְּנֵי קְנָסָא נִינְהוּ? וְאַמַּאי? אִיקְּרִי כָּאן: ״וְלוֹ תִּהְיֶה לְאִשָּׁה״, אִשָּׁה הָרְאוּיָה לוֹ! אָמַר רֵישׁ לָקִישׁ: ״נַעֲרָה״, ״נַעֲרָה״, ״הַנַּעֲרָה״. חַד לְגוּפֵיהּ, וְחַד לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.",
+                "רַב פָּפָּא אָמַר: ״בְּתוּלָה״, ״בְּתוּלוֹת״, ״הַבְּתוּלוֹת״. חַד לְגוּפֵיהּ, וְחַד לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.",
+                "וְרַב פָּפָּא מַאי טַעְמָא לָא אָמַר כְּרֵישׁ לָקִישׁ? הָהוּא מִיבְּעֵי לֵיהּ לְכִדְאַבָּיֵי. דְּאָמַר אַבָּיֵי: בָּא עָלֶיהָ וּמֵתָה — פָּטוּר, שֶׁנֶּאֱמַר: ״וְנָתַן לַאֲבִי הַנַּעֲרָה״. לַאֲבִי נַעֲרָה, וְלֹא לַאֲבִי מֵתָה.",
+                "וְרֵישׁ לָקִישׁ מַאי טַעְמָא לָא אָמַר כְּרַב פָּפָּא? הָהוּא מִיבְּעֵי לֵיהּ לִגְזֵירָה שָׁוָה. דְּתַנְיָא: ״כֶּסֶף יִשְׁקוֹל כְּמוֹהַר הַבְּתוּלוֹת״, שֶׁיְּהֵא זֶה כְּמוֹהַר הַבְּתוּלוֹת, וּמוֹהַר הַבְּתוּלוֹת כָּזֶה. וְרֵישׁ לָקִישׁ נָמֵי, מִיבְּעֵי לֵיהּ לְכִדְאַבָּיֵי. וְרַב פָּפָּא נָמֵי, מִיבְּעֵי לֵיהּ לִגְזֵירָה שָׁוָה!",
+                "אֶלָּא: שִׁיתָּא קְרָאֵי כְּתִיבִי? ״נַעֲרָה״ ״נַעֲרָה״ ״הַנַּעֲרָה״. ״בְּתוּלָה״ ״בְּתוּלוֹת״ ״הַבְּתוּלוֹת״, תְּרֵי לְגוּפַיְיהוּ, חַד לְכִדְאַבָּיֵי, וְחַד לִגְזֵירָה שָׁוָה. אִיַּיתַּרוּ לֵיהּ תְּרֵי. חַד — לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד — לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת."
+              ],
+              "link": "/Ketubot/29b",
+              "originalRefsBeforeRewriting": [
+                "Ketubot 29b:5"
+              ],
+              "ref": "Ketubot 29b:2-6",
+              "sourceHeRef": "כתובות כ״ט ב",
+              "sourceRef": "Ketubot 29b"
+            },
+            {
+              "en": [
+                "A Sage <b>taught</b> in a <i>baraita</i>: <b>Since</b> payment of the marriage contract <b>is a penalty</b> instituted by the <b>Sages, she may collect only from the</b> husband’s <b>land of the most inferior quality.</b> The Gemara asks: <b>A penalty? What penalty</b> is there in a marriage contract? <b>Rather,</b> emend the <i>baraita</i> and <b>say: Since it is a rabbinic ordinance</b> and not a Torah obligation, <b>she may collect only from the</b> husband’s <b>land of the most inferior quality. Rabban Shimon ben Gamliel says: The marriage contract of a woman is</b> an obligation <b>by Torah</b> law.",
+                "The Gemara asks: <b>And did Rabban Shimon ben Gamliel say that? But isn’t it taught</b> in a <i>baraita</i> that it is written with regard to a seducer: <b>“He shall pay money according to the dowry of virgins”</b> (Exodus 22:16)? The Torah establishes that <b>this</b> fine <b>will be like the dowry of a virgin,</b> and that <b>the dowry of a virgin</b> will be <b>like this</b> fine, i.e., fifty silver <i>sela</i>, or two hundred dinars. <b>From here the Sages based</b> their determination <b>that a woman’s marriage contract is</b> an obligation <b>by Torah</b> law. <b>Rabban Shimon ben Gamliel says: The marriage contract of a woman is not</b> an obligation <b>by Torah law, but</b> is <b>by rabbinic law.</b>",
+                "The Gemara resolves the contradiction between the statements of Rabban Shimon ben Gamliel: <b>Reverse</b> the attribution of opinions in this <i>baraita</i>. The Gemara asks: <b>And what did you see that</b> led <b>you</b> to <b>reverse</b> the attribution of opinions <b>in the latter</b> <i>baraita</i>? <b>Reverse</b> the attribution of opinions in <b>the former,</b> in the <i>baraita</i>, and say that Rabban Shimon ben Gamliel is the one who holds that the marriage contract is a rabbinic ordinance.",
+                "The Gemara answers: The reason is <b>that we learned that</b> it is <b>Rabban Shimon ben Gamliel who said</b> elsewhere <b>that the marriage contract of a woman is</b> an obligation <b>by Torah</b> law, <b>as we learned</b> in a mishna (110b) that <b>Rabban Shimon ben Gamliel says</b> that if a man marries a woman in Cappadocia, where the currency is more valuable, and he divorces her in Eretz Yisrael, <b>he gives her</b> payment for the marriage contract <b>from the money of Cappadocia.</b> From the fact that he is obligated to pay the marriage contract in the currency of the place where he undertook the obligation, apparently the marriage contract of a woman is an obligation by Torah law.",
+                "<b>And if you wish, say</b> instead that the <b>entire</b> latter <i>baraita</i> <b>is</b> in accordance with the opinion of <b>Rabban Shimon ben Gamliel, but</b> the <i>baraita</i> <b>is incomplete and it is teaching the following: From here, the Sages based</b> their determination <b>that a woman’s marriage contract</b> in the case of a virgin <b>is</b> an obligation <b>by Torah</b> law. However, the <b>marriage contract of a widow is not</b> an obligation <b>by Torah law but</b> is an ordinance <b>by rabbinic law, as Rabban Shimon ben Gamliel says: The marriage contract of a widow is not</b> an obligation <b>by Torah law but</b> is an ordinance <b>by rabbinic law.</b>"
+              ],
+              "expandedRefsAfterRewriting": [
+                "Ketubot 10a:3",
+                "Ketubot 10a:4",
+                "Ketubot 10a:5",
+                "Ketubot 10a:6",
+                "Ketubot 10a:7"
+              ],
+              "he": [
+                "תָּנָא: הוֹאִיל וּקְנַס חֲכָמִים הוּא — לֹא תִּגְבֶּה אֶלָּא מִן הַזִּיבּוּרִית. קְנָסָא? מַאי קְנָסָא?! אֶלָּא אֵימָא: הוֹאִיל וְתַקָּנַת חֲכָמִים הוּא — לֹא תִּגְבֶּה אֶלָּא מִן הַזִּיבּוּרִית. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כְּתוּבַּת אִשָּׁה מִן הַתּוֹרָה.",
+                "וּמִי אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הָכִי? וְהָתַנְיָא: ״כֶּסֶף יִשְׁקֹל כְּמֹהַר הַבְּתוּלוֹת״: שֶׁיְּהֵא זֶה, כְּמוֹהַר הַבְּתוּלוֹת, וּמוֹהַר הַבְּתוּלוֹת כָּזֶה. מִכָּאן סָמְכוּ חֲכָמִים לִכְתוּבַּת אִשָּׁה מִן הַתּוֹרָה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כְּתוּבַּת אִשָּׁה אֵינָהּ מִדִּבְרֵי תוֹרָה, אֶלָּא מִדִּבְרֵי סוֹפְרִים!",
+                "אֵיפוֹךְ. וּמַאי חָזֵית דְּאָפְכַתְּ בָּתְרָיְיתָא, אֵיפוֹךְ קַמַּיְיתָא?",
+                "הָא שָׁמְעִינַן לֵיהּ לְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל דְּאָמַר כְּתוּבַּת אִשָּׁה מִדְּאוֹרָיְיתָא. דִּתְנַן, רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר — נוֹתֵן לָהּ מִמְּעוֹת קַפּוֹטְקְיָא.",
+                "וְאִי בָּעֵית אֵימָא: כּוּלָּהּ רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הִיא, וְחַסּוֹרֵי מִיחַסְּרָא, וְהָכִי קָתָנֵי: מִכָּאן סָמְכוּ חֲכָמִים לִכְתוּבַּת אִשָּׁה מִן הַתּוֹרָה. כְּתוּבַּת אַלְמָנָה אֵינָהּ מִדִּבְרֵי תוֹרָה, אֶלָּא מִדִּבְרֵי סוֹפְרִים, שֶׁרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כְּתוּבַּת אַלְמָנָה אֵינָהּ מִדִּבְרֵי תוֹרָה, אֶלָּא מִדִּבְרֵי סוֹפְרִים."
+              ],
+              "link": "/Ketubot/10a",
+              "originalRefsBeforeRewriting": [
+                "Ketubot 10a:4"
+              ],
+              "ref": "Ketubot 10a:3-7",
+              "sourceHeRef": "כתובות י׳ א",
+              "sourceRef": "Ketubot 10a"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא סברא</strong> - דחמשים כסף דאונס שקלים הן וכסף ישקול דמפתה יהו חמשים:",
+              "ref": "Rashi on Ketubot 38b:3:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ג:א",
+              "sourceRef": "Rashi on Ketubot 38b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כמוהר הבתולות</strong> - מנין המפורש אצל אונס דהיינו חמשים:",
+              "ref": "Rashi on Ketubot 38b:3:2",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ג:ב",
+              "sourceRef": "Rashi on Ketubot 38b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומוהר הבתולות</strong> - יהיו שקלים:",
+              "ref": "Rashi on Ketubot 38b:3:3",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ג:ג",
+              "sourceRef": "Rashi on Ketubot 38b:3:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כזה</strong> - שכתוב בו ישקול:",
+              "ref": "Rashi on Ketubot 38b:3:4",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ג:ד",
+              "sourceRef": "Rashi on Ketubot 38b:3:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ור' יוסי הגלילי האי סברא מנא ליה</b> <span class=\"hebrew-emphasis\">[סברה זו</span> לגבי סכום הקנס במפתה, ומאיזה כסף משלם האונס, <span class=\"hebrew-emphasis\">מנין לו]?</span> ומשיבים: <b>נפקא ליה מדתניא</b> <span class=\"hebrew-emphasis\">[יוצא לו</span> הדבר <span class=\"hebrew-emphasis\">ממה ששנינו</span> בברייתא אחרת<span class=\"hebrew-emphasis\">];</span> נאמר במפתה: <b>\"כסף ישקל כמהר הבתולת\"</b> (שמות כב, טז), לומר <b>שיהא זה</b> סכום הקנס <b>כמוהר הבתולות,</b> כלומר, חמישים כסף, <b>ומוהר הבתולות</b> יהיה <b>כזה,</b> שיהיה אף הוא בשקלים.",
+              "ref": "Steinsaltz on Ketubot 38b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:ג",
+              "sourceRef": "Steinsaltz on Ketubot 38b:3"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "If her father refuses to give her to him, he must still weigh out silver in accordance with the bride-price for virgins.",
+              "he": "אִם־מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Exodus/22",
+              "ref": "Exodus 22:16",
+              "sourceHeRef": "שמות כב:טז",
+              "sourceRef": "Exodus 22:16"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And from where</b> does <b><span href=\"/topics/rabbi-yose-hagelili\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-hagelili\">Rabbi Yosei HaGelili</span></b> derive <b>this conclusion</b> with regard to the amount of the payment for seduction and the type of money used in the payment for rape? The Gemara responds: <b>He derives it from that which was taught</b> in a <i>baraita</i> that it is written with regard to seduction: <b>“He shall weigh money like the dowry of the virgins”</b> (Exodus 22:16), from which it is derived <b>that this</b> fine for seduction <b>will be like the dowry</b> paid <b>to the virgins</b> elsewhere for rape, fifty silver coins, <b>and the dowry</b> paid <b>to the virgins</b> for rape <b>will be like this</b> fine for seduction in shekels.",
+      "he": "<span href=\"/topics/rabbi-yose-hagelili\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-hagelili\">וְרַבִּי יוֹסֵי הַגְּלִילִי</span> הַאי סְבָרָא מְנָא לֵיהּ? נָפְקָא לֵיהּ מִדְּתַנְיָא: ״כֶּסֶף יִשְׁקוֹל כְּמוֹהַר הַבְּתוּלוֹת״, שֶׁיְּהֵא זֶה כְּמוֹהַר הַבְּתוּלוֹת, וּמוֹהַר הַבְּתוּלוֹת כָּזֶה.",
+      "ref": "Ketubot 38b:3"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קשיא דרבי עקיבא</strong> - דברייתא דאמר קנסה לאביה:",
+              "ref": "Rashi on Ketubot 38b:4:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ד:א",
+              "sourceRef": "Rashi on Ketubot 38b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אדרבי עקיבא</strong> - דמתני':",
+              "ref": "Rashi on Ketubot 38b:4:2",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ד:ב",
+              "sourceRef": "Rashi on Ketubot 38b:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> ומעירים: <b>קשיא</b> <span class=\"hebrew-emphasis\">[קשה]</span> מדברי <b>ר' עקיבא</b> על דברי <b>ר' עקיבא.</b> שהרי בברייתא שנינו שר' עקיבא אומר שקנסה של זו שנתארסה ונתגרשה גם הוא לאביה, ולא כבמשנתנו שהוא לעצמה! ומשיבים: זו היא מחלוקת של <b>תרי תנאי</b> <span class=\"hebrew-emphasis\">[שני תנאים]</span> <b>ואליבא</b> <span class=\"hebrew-emphasis\">[ועל פי</span> שיטתו<span class=\"hebrew-emphasis\">]</span> של <b>ר' עקיבא.</b>",
+              "ref": "Steinsaltz on Ketubot 38b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:ד",
+              "sourceRef": "Steinsaltz on Ketubot 38b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Why did the Gemara postpone raising this contradiction instead of raising it immediately, especially as it provides no novel resolution but merely affirms that these are two opinions? In the <i>Shita Mekubbetzet</i> it is explained that since the Gemara elaborates on and provides a source for Rabbi Akiva’s opinion, it was necessary to cite the <i>baraita</i> in order to explain his reasoning, which appears contrary to the verses. As the <i>baraita</i> includes a detailed explanation, the Gemara cannot be dismissed as corrupted and thereby rejected in favor of the mishna (<i>Shita Mekubbetzet</i>).",
+              "he": "לכאורה תמוה מפני מה המתינה הגמרא בשאלה זו ולא שאלה אותה מיד, ובפרט לאחר שאין תשובה מחודשת לדבר אלא ציון עובדה — שיש כאן שתי שיטות. ויש לומר כי מאחר שהברייתא מבארת ונותנת מקור לשיטת ר' עקיבא הבסיסית היה נחוץ להביאה כדי להסביר מה הם הנימוקים לדעתו של ר' עקיבא שהיא לכאורה שלא כדברי הכתוב. ומשום שיש בברייתא זו הסבר מפורט אי אפשר היה לומר שיש כאן שיבוש בברייתא, וכי יש לקבל רק את השיטה שבמשנה (שטמ\"ק).",
+              "ref": "Steinsaltz comment #1 on Ketubot 38b:4",
+              "sourceHeRef": "קַשְׁיָא דְּרַבִּי עֲקִיבָא אַדְּרַבִּי עֲקִיבָא",
+              "sourceRef": "It is difficult as there is a contradiction between one statement of Rabbi Akiva and another statement of Rabbi Akiva"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara comments: It is <b>difficult</b> as there is a contradiction between one statement <b>of <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span></b> and another statement <b>of <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>.</b> In the mishna he ruled that the fine for the rape of a young woman who was betrothed and divorced is paid to the woman, and in the <i>baraita</i> he ruled that it is paid to her father. The Gemara answers: These are conflicting traditions of <b>two <i>tanna’im</i> in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>.</b>",
+      "he": "קַשְׁיָא <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">דְּרַבִּי עֲקִיבָא</span> <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">אַדְּרַבִּי עֲקִיבָא</span>. תְּרֵי תַּנָּאֵי וְאַלִּיבָּא דְּרַבִּי עֲקִיבָא.",
+      "ref": "Ketubot 38b:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא אתיא גזירה שוה ומפקא לקרא מפשטיה לגמרי</strong> - דאתא פשטיה לאשמועינן הא ארוסה לעצמה וחד מתרוייהו לאפנויי אי נמי לא מופני ליכא למיפרך מידי:",
+              "ref": "Rashi on Ketubot 38b:5:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ה:א",
+              "sourceRef": "Rashi on Ketubot 38b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא לרבי עקיבא דברייתא וכי אתיא גזירה שוה ומפקא מפשטיה לגמרי</strong> - דלא דריש פשטא דאשר לא אורסה כלל ומשוי אורסה כלא אורסה ואם כן מיעקר משמעותיה:",
+              "ref": "Rashi on Ketubot 38b:5:2",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ה:ב",
+              "sourceRef": "Rashi on Ketubot 38b:5:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אתי' ג\"ש ומפקי ליה קרא מפשטי' לגמרי. </b> הקשו בתוס' דביבמות בפ' הערל אמרי' דתושב ושכיר לא יאכל בו האמור בפסח מופנה לדון ג\"ש לתושב ושכיר האמור בתרומה <span class=\"parenthesized\">(ולמר)</span> [ולמד] מה התם אסור בפסח אף הכא נמי אסור בתרומה ולעולם תושב ושכיר אוכלים הם בפסח אשתכח דפשטי' דקרא מפקא לגמרי הג\"ש. ותירצו דהתם מוקמינן פשטי' דקרא בתושב ושכיר ערלים ואי משום דכתיב בהדיא ערל לא יאכל בו איפני להאי ג\"ש קרי ביה אשר לא אורשה. לאו דוקא דנדרש קראי דהא לא דדייק הכי לא מקרא ולא ממסורת אלא לומר דאשר לא אורשה וכו' לומר שלא אורשה עכשיו ולמעוטי אורסה שאין לה קנס. ופרכינן ארוסה בת סקילה היא פי' רש\"י ז\"ל ומלא יהיה אסון נפקא. והקשו בתוס' מאי קושיא משום דלגופי' לא אצטריך דנפקא לן מלא יהיה אסון הוה שפיר טפי דמופנה לג\"ש וליכא למימר דהכא פרכינן דכיון דמהכא נפקא לן בארוסה אין לה קנס למה לי ולא יהיה אסון דא\"כ מאי האי דמהדרינן. סד\"א הואיל וחידוש הוא וכו'. ועוד דכל היכא דלא כתיבא ולא יהיה דרשינן הכא דאין אדם מת ומשלם תו לא עבדינן מיניה לג\"ש דלגופא אצטריך והנכון דהכי קאמר דכיון דארוסה בת סקילה היא ומאסון נפקא הא לא חשוב דאתו להכי פשטי' דקרא כאשר לא אורשה לג\"ש ואי הא בעינן קרא למימר לכתוב רחמנא בהדיא אשר לא אורשה ואנא אמינא לג\"ש אתי' פי' דאלו לגופי' מלא יהיה אסון נפקא וכיון דלא כתיב אשר לא אורסה ודאי מלתא אחריתי היא אתא פשטי' דקרא לאשמועינן ולא האי דלית ביה צריכותא ולא אתיא נמי מפשטי' דלישנא דקרא ומהדרינן דודאי קצת צריכותא יש בו סד\"א וכו' ומיהו לא צריכותא גמור הוא ולהכי הוה מופנה שפיר לג\"ש ולהכי כתיב אשר לא אורשה ושני בלישנא לאשמועינן תרתי ואע\"ג דלעיל אשכחן קראי דאין אדם מת ומשלם קנס הוה לאוקמינן ליה למדרשי' וכדדרש רבא לעיל דת\"ק דרב חנינא בן עקיבא אומר:",
+              "ref": "Ritva on Ketubot 38b:1",
+              "sourceHeRef": "ריטב\"א על כתובות ל״ח ב:א",
+              "sourceRef": "Ritva on Ketubot 38b:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>בשלמא</b> <span class=\"hebrew-emphasis\">[נניח]</span> לשיטת <b>ר' עקיבא דמתניתין</b> <span class=\"hebrew-emphasis\">[של משנתנו],</span> לדעתו <b>לא אתיא</b> <span class=\"hebrew-emphasis\">[באה]</span> <b>גזירה שוה</b> של \"אורסה\" \"אורסה\" <b>ומפקא ליה לקרא מפשטיה</b> <span class=\"hebrew-emphasis\">[ומוציאה אותו את הכתוב מפשוטו]</span> <b>לגמרי,</b> שהרי לשיטתו מה שנאמר \"לא אורסה\" מלמדנו שיש הבדל בדין בין מאורסה ושאינה מאורסה, שזו שנתארסה קנסה לעצמה. <b>אלא לר' עקיבא</b> של ה<b>ברייתא,</b> הרי <b>אתיא</b> <span class=\"hebrew-emphasis\">[באה]</span> <b>גזירה שוה ומפקא מפשטיה</b> <span class=\"hebrew-emphasis\">[ומוציאה</span> את הכתוב <span class=\"hebrew-emphasis\">מפשוטו]</span> <b>לגמרי,</b> שהרי לשיטה זו אין הבדל כלל בין ארוסה ושאינה ארוסה, בניגוד לנשמע מפשוטו של מקרא, המדגיש \"אשר לא אורשה\".",
+              "ref": "Steinsaltz on Ketubot 38b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:ה",
+              "sourceRef": "Steinsaltz on Ketubot 38b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Even though the ideal verbal analogy is free, i.e., the words that serve as the basis of the analogy are superfluous in their context, the meaning of these words cannot be entirely disregarded just because they were written primarily for the  verbal analogy. <i>Tosafot</i> note that there are other cases where this is more problematic, as here it is merely the inference of the verse, that a young woman who was betrothed and divorced does not receive the fine, that runs counter to the halakhic conclusion. In other places, the verbal analogy appears to subvert the meaning of the verse entirely (see <i>Shita Mekubbetzet</i>).",
+              "he": "אף שהגזירה השווה המושלמת היא \"גזירה שווה מופנה\", כלומר שהמלה (או המילים) המשמשות לגזירה השוה מיותרות במקומן, מכל מקום לא ייתכן שהמילים הכתובות בכתוב תהיינה בלתי נכונות לגמרי רק משום שהן משמשות לגזירה שווה. וראה בתוס' (ד\"ה מי) שמעירים שיש מקרים בהם התמיהה רבה יותר, כי כאן רק הדיוק מן המקרא (הא ארוסה לא) הוא שאינו מתאים למסקנת ההלכה, ובמקומות אחרים מוצאים שהגזירה השוה נראית כאילו עוקרת לגמרי את משמעות הכתוב (וראה בשטמ\"ק).",
+              "ref": "Steinsaltz comment #1 on Ketubot 38b:5",
+              "sourceHeRef": "מַפְּקָא מִפְּשָׁטֵיהּ לְגַמְרֵי",
+              "sourceRef": "Divert the verse from its plain meaning entirely"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> מי אתיא ג\"ש ומפקא ליה לקרא מפשוטא לגמרי כו' עד וקשה וכו'. פי' תושב ושכיר היינו קנוי קנין שנים או נרצע והכי איתא התם האי תושב ושכיר דכתב רחמנא בפסח מאי ניהו אי נימא תושב ממש משום דהוי תושב ושכיר איפטר ליה מפסח וכו' אלמא לא קני ליה רביה אלא לאפנויי אלמא מפקא קרא מפשוטו ואומר ר\"ת וכו' פי' דה\"ק התם האי תושב ושכיר דכתיב גבי פסח מאי ניהו אי נימא תושב ושכיר ממש הא לא איפטר מפסח אלא ע\"כ בערלים מיידי וא\"כ למה כתבו הא כבר כתיב כל ערל לא יאכל בו אלא לאפנויי כתבו:",
+                      "ref": "Maharam on Ketubot 38b:2",
+                      "sourceHeRef": "מהר\"ם על כתובות ל״ח ב:ב",
+                      "sourceRef": "Maharam on Ketubot 38b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי אתיא גזרה שוה ומפקא ליה מפשטיה לגמרי</strong> - דדיוק הא אורסה הוי שקר וקשה דבריש הערל <span class=\"parenthesized\">(יבמות ד' ע.)</span> יליף דערל אסור בתרומה מגזירה שוה דתושב ושכיר מפסח וכתיב תושב ושכיר לא יאכל בו גבי פסח משום גזירה שוה אע\"פ שאינו אמת דהא תושב ושכיר אוכלין בפסח כדאמרינן התם דלא קני ליה רביה ומפקי' קרא מפשטיה טפי מהכא ואומר ר\"ת דההוא תושב ושכיר מיירי בערלים ולהכי לא יאכל ומוכח דלאו תושב ישראל קאמר דהא לא קני ליה רביה אלא ודאי בערל ומשום הפנאה כתביה:",
+              "ref": "Tosafot on Ketubot 38b:5:1",
+              "sourceHeRef": "תוספות על כתובות ל״ח ב:ה:א",
+              "sourceRef": "Tosafot on Ketubot 38b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara observes: <b>Granted,</b> the statement of <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> of the mishna</b> is reasonable, as <b>a verbal analogy does not come and divert the verse from its plain meaning entirely.</b> The plain meaning of the phrase: “Who was not betrothed” is that there is a difference between a young woman who was betrothed, who receives payment of the fine, and one who was not, whose father receives payment of the fine. <b>However,</b> according <b>to <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> of the <i>baraita</i>,</b> does <b>a verbal analogy come and divert the verse from its plain meaning entirely,</b> and teach that there is no difference at all between a young woman who was betrothed and one who was not?",
+      "he": "בִּשְׁלָמָא <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">רַבִּי עֲקִיבָא</span> דְּמַתְנִיתִין, לָא אָתְיָא גְּזֵירָה שָׁוָה וּמַפְּקָא לֵיהּ לִקְרָא מִפְּשָׁטֵיהּ לִגְמָרֵי. אֶלָּא לְרַבִּי עֲקִיבָא דְּבָרַיְיתָא, אָתְיָא גְּזֵירָה שָׁוָה וּמַפְּקָא מִפְּשָׁטֵיהּ לִגְמָרֵי.",
+      "ref": "Ketubot 38b:5"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara cites another resolution of the apparent contradiction between the mishna here, which obligates one who rapes his sister to pay a fine, and the mishna in <i>Makkot</i>, which rules him liable to be flogged. <b>Reish Lakish said:</b> In accordance with <b>whose</b> opinion <b>is this</b> mishna taught? <b>It is</b> in accordance with the opinion of <b>Rabbi Meir, who said: One is flogged and pays.</b> The Gemara asks: <b>If</b> the mishna is in accordance with the opinion of <b>Rabbi Meir, even</b> if one raped <b>his daughter</b> he should <b>also</b> be obligated to pay the fine. However, the mishna lists only those who raped women for whom one is liable to be punished for violating a prohibition or liable to receive <i>karet</i>, not those for whom one is liable to receive court-imposed execution.",
+                  "<b>And lest you say</b> that <b>Rabbi Meir is of</b> the opinion that <b>one is flogged and pays,</b> but <b>is not of</b> the opinion that <b>one dies</b> by execution <b>and pays; and isn’t</b> he of the opinion that one who is executed pays? <b>But isn’t it taught</b> in a <i>baraita</i>: If one <b>stole</b> an animal <b>and slaughtered</b> it <b>on Shabbat,</b> or <b>stole</b> it <b>and slaughtered</b> it <b>for idolatry,</b> or <b>stole an ox that</b> was sentenced to be <b>stoned,</b> from which one may derive no benefit and is therefore worthless, <b>and slaughtered it, he pays</b> the owner <b>a payment of four or five</b> times the principal, as he would in any case of stealing and slaughtering an animal? This is <b>the statement of Rabbi Meir. And the Rabbis exempt him</b> from payment because he is liable to receive the death penalty for slaughtering on Shabbat or for idolatry. Apparently, Rabbi Meir maintains that one is obligated to pay even when he is liable to receive the death penalty.",
+                  "The Gemara refutes this: <b>Wasn’t it stated concerning</b> this <i>baraita</i> that <b>Rabbi Ya’akov said</b> that <b>Rabbi Yoḥanan said, and some say</b> that <b>Rabbi Yirmeya said</b> that <b>Rabbi Shimon ben Lakish said,</b> that <b>Rabbi Avin and Rabbi Ile’a and the entire group said in the name of Rabbi Yoḥanan:</b> That case is referring <b>to one who slaughters by means of another?</b> The thief himself did not slaughter the animal; rather, it was his agent. Consequently, the thief pays because the capital crime was committed by his agent. Therefore, this source is unrelated to Rabbi Meir’s opinion with regard to the question of whether one is executed and pays.",
+                  "The Gemara analyzes Rabbi Yoḥanan’s explanation: <b>And does this</b> agent <b>sin and that</b> thief <b>is liable</b> to pay four and five times the principal? This violates the principle: There is no agent for matters of transgression. The Gemara explains that this is a <i>halakha</i> unique to this case. <b>Rava said</b> that <b>the Merciful One states:</b> “If a man steal an ox or a sheep <b>and slaughter it or sell it”</b> (Exodus 21:37). Based on the juxtaposition of slaughter and sale, Rava continues: <b>Just as sale</b> is performed <b>by means of another,</b> as there is no sale without a buyer, <b>so too,</b> one is liable to be punished for <b>slaughter by means of another.</b> Although there is no agent for transgression, here there is a Torah decree that one is liable by means of another.",
+                  "The Sages <b>of the school of Rabbi Yishmael taught</b> a different source for the <i>halakha</i> that one is liable for slaughter by means of an agent. It is written: “And slaughter it or sell it”; the term <b>“or”</b> comes <b>to include an agent.</b> The Sages <b>of the school of Rabbi Ḥizkiyya taught</b> a different proof from the same verse: “He shall pay…for an ox…for a sheep”; the term <b>“for”</b> comes <b>to include an agent.</b>",
+                  "<b>Mar Zutra</b> strongly <b>objects to this</b> <i>halakha</i>. <b>Is there</b> any <b>matter</b> with regard to <b>which if one performs</b> it himself, he is not <b>liable, and</b> yet if his <b>agent performs</b> it he is <b>liable?</b> Had he slaughtered the animal himself on Shabbat he would have been exempt from payment. How, then, is he liable if he does so by means of an agent? The Gemara answers: <b>He</b> is exempt <b>not due to</b> the fact <b>that he is not liable</b> for the slaughter; <b>rather,</b> he is exempt <b>due to</b> the fact <b>that he receives the greater of</b> the two punishments, the death penalty, for his desecration of Shabbat. He is liable for both the slaughter and the desecration of Shabbat. In practice, he receives the more severe punishment. However, when he appoints an agent, there is no liability for the desecration of Shabbat, and therefore he must pay for the slaughter.",
+                  "The Gemara returns to Rabbi Yoḥanan’s explanation of the <i>baraita</i>. <b>If</b> the <i>baraita</i> is referring to the case <b>of</b> one <b>who slaughtered by means of another, what is the</b> rationale for the opinion <b>of the Rabbis, who exempt</b> him from payment? As the thief did not perform a transgression for which he is liable to receive the death penalty, why is he exempt from payment for slaughtering the animal? The Gemara answers: <b>Who are the Rabbis</b> who disagree with Rabbi Meir in this case?"
+                ],
+                [
+                  "<b>It is Rabbi Shimon, who said:</b> The legal status of <b>slaughter that is improper,</b> in that it does not render the meat fit to be eaten, <b>is not that of slaughter.</b> Therefore, one is not liable for slaughter of the animal. The Gemara asks: <b>This</b> works out <b>well</b> with regard to <b>idolatry and</b> the <b>ox that is stoned,</b> as their slaughter is ineffective in rendering the meat fit to be eaten; <b>however, the slaughter on Shabbat is a proper</b> act of <b>slaughter, as we learned</b> in a mishna (<i>Ḥullin</i> 14a): In the case of <b>one who slaughters</b> an animal <b>on Shabbat or on Yom Kippur, although he is liable to</b> receive the <b>death</b> penalty for desecrating Shabbat, <b>his slaughter is valid</b> and the meat may be eaten.",
+                  "The Gemara answers: The <i>tanna</i> of the <i>baraita</i> under discussion <b>holds in accordance with</b> the opinion of <b>Rabbi Yoḥanan HaSandlar, as it is taught</b> in a <i>baraita</i>: <br>With regard to <b>one who cooks on Shabbat,</b> if he did so <b>unwittingly, he may eat</b> the food he cooked; if he did so <b>intentionally, he may not eat</b> it at all. This is <b>the statement of Rabbi Meir.</b> <br><b>Rabbi Yehuda says:</b> If he cooked <b>unwittingly he may eat at the conclusion of Shabbat,</b> as the Sages penalized even one who sinned unwittingly in that they prohibited him from deriving immediate benefit from the dish that he cooked; if he sinned <b>intentionally, he may not eat</b> from it <b>ever.</b> <br><b>Rabbi Yoḥanan HaSandlar says:</b> If he did so <b>unwittingly,</b> the food <b>may be eaten at the conclusion of Shabbat by others but not by him;</b> if he did so <b>intentionally, it may not be eaten ever, neither by him nor by other</b> Jews. According to Rabbi Yoḥanan HaSandlar, food prepared by means of intentional desecration of Shabbat is unfit to be eaten. That is true with regard to cooking food on Shabbat and with regard to slaughtering an animal on Shabbat.",
+                  "The Gemara asks: <b>What is the rationale</b> for the opinion <b>of Rabbi Yoḥanan HaSandlar?</b> The Gemara explains: It is <b>as Rabbi Ḥiyya taught at the entrance to the house of the <i>Nasi</i>.</b> It is written: <b>“And you shall observe Shabbat, for it is sacred to you;</b> he who profanes it shall be put to death” (Exodus 31:14); <b>just as</b> with regard to <b>a sacred</b> item consecrated to the Temple, <b>eating</b> it <b>is prohibited, so too,</b> with regard to food produced through <b>action</b> that desecrates <b>Shabbat, eating</b> it <b>is prohibited.</b> The Gemara asks: <b>If</b> so, perhaps the analogy should be extended to include the following: <b>Just as</b> with regard to <b>a sacred item,</b> deriving <b>benefit</b> from it <b>is prohibited, so too,</b> with regard to the product of <b>an action</b> that desecrates <b>Shabbat,</b> deriving <b>benefit</b> from it should be <b>prohibited.</b> The Gemara answers: <b>The verse states:</b> “It is sacred <b>to you”</b> (Exodus 31:14), indicating that <b>it shall be yours</b> in the sense that one may derive benefit from it.",
+                  "The Gemara asks: Based on the analogy between actions that desecrate Shabbat and sacred items, one <b>might</b> have thought that <b>even</b> if the action was performed <b>unwittingly</b> it should be prohibited to eat its product, as is the case with regard to sacred items. Therefore, <b>the verse states: “He who profanes it shall be put to death”</b> (Exodus 31:14), indicating that it is <b>with regard to</b> one who desecrates Shabbat <b>intentionally</b> that <b>I stated to you</b> this analogy to sacred items, as the verse is clearly referring to one who is liable to receive the death penalty, <b>and not with regard to</b> one who desecrates Shabbat <b>unwittingly,</b> who is not executed.",
+                  "The Gemara comments: <b>Rav Aḥa and Ravina disagree with regard to</b> this matter. <b>One said:</b> The product of <b>an action</b> that desecrates <b>Shabbat</b> is prohibited <b>by Torah</b> law, <b>and one said</b> that it is prohibited <b>by rabbinic</b> law. With regard to the <b>one who said</b> that it is prohibited <b>by Torah</b> law, it is <b>as we said,</b> that it is based on the verse interpreted by Rabbi Ḥiyya. <b>And</b> the <b>one who said</b> that it is prohibited <b>by rabbinic</b> law holds that <b>the verse states: “It is sacred,”</b> from which he infers: <b>It is sacred, but</b> the product of <b>its actions is not sacred,</b> and therefore, by Torah law it may be eaten.",
+                  "The Gemara asks: <b>And</b> according to the <b>one who said</b> it is prohibited <b>by rabbinic</b> law, <b>what is the rationale</b> for the opinion <b>of the Rabbis who exempt</b> the thief from payment for the slaughter performed by his agent on Shabbat? By Torah law, the slaughter is valid. The Gemara answers: <b>When the Rabbis exempt</b> the thief from payment, it is with regard <b>to the rest</b> of the cases, i.e., one who slaughters for idolatry or an ox sentenced to stoning, not with regard to Shabbat.",
+                  "The Gemara asks the following question with regard to Rabbi Meir’s opinion that <b>one who slaughters for idolatry</b> is liable to pay the owner for the animal. <b>Once he slaughtered</b> the animal <b>a bit,</b> at the very start of the act of slaughter, <b>it is prohibited for him</b> to derive benefit from the animal because it is an animal sacrificed to idolatry; <b>and when he slaughters the rest,</b> it is <b>not</b> the animal that belongs <b>to its owner</b> that he <b>is slaughtering.</b> Since it is prohibited to derive benefit from the animal, it has no value and there is no ownership. <b>Rava said:</b> It is referring <b>to one who says,</b> prior to the slaughter, that <b>he is worshipping</b> the idol only <b>at the completion of the slaughter,</b> and therefore the prohibition takes effect only then.",
+                  "The Gemara asks the following question with regard to Rabbi Meir’s opinion that one who slaughters <b>the ox that is stoned</b> is liable to pay for the slaughter. Why is he liable? It is <b>not</b> the owner’s ox that <b>he is slaughtering,</b> since once the ox is sentenced to be stoned it is prohibited to derive benefit from it. <b>Rabba said: With what are we dealing here?</b> We are dealing with a case <b>where</b> the owners <b>entrusted</b> the ox <b>to a bailee and</b> the ox <b>injured</b> another person while <b>in the bailee’s house, and it was sentenced</b> to be stoned while <b>in the bailee’s house, and</b> the <b>thief</b> then <b>stole it from the bailee’s house</b> and slaughtered it.",
+                  "<b>And</b> this solution is based on the fact that <b>Rabbi Meir holds in accordance with</b> the opinion of <b>Rabbi Ya’akov and holds in accordance with</b> the opinion of <b>Rabbi Shimon. He holds in accordance with</b> the opinion of <b>Rabbi Ya’akov, who said: Even after</b> the ox <b>was sentenced</b> to be stoned, if the <b>bailee returned it to its owners, it is returned.</b> Despite the fact that the ox is now worthless, as no benefit may be derived from it, since the bailee returned an ox that is physically intact the owner has no claim against him. <b>And</b> Rabbi Meir <b>holds in accordance with</b> the opinion of <b>Rabbi Shimon, who said</b> that the legal status of <b>an object that effects monetary</b> loss <b>is like</b> that of <b>money.</b> Even in the case of an object that is worthless, if its elimination causes monetary loss because it must be replaced, it is considered to have value. In this case, although the ox has no value in and of itself, slaughtering the animal prevents the bailee from returning it intact to the owner, requiring him to pay the owner the value of the ox before it was sentenced to be stoned. Consequently, the thief must reimburse the bailee, as the ox has value for the bailee.",
+                  "<b>Rabba said: Actually,</b> contrary to Rabbi Yoḥanan’s explanation of the <i>baraita</i>, it is referring <b>to one who slaughters</b> the animal <b>himself,</b>"
+                ],
+                [
+                  "<b>and Rabbi Meir is of</b> the opinion that one <b>is flogged and pays,</b> but <b>is not of</b> the opinion that one <b>dies</b> by execution <b>and pays. And these</b> <i>halakhot</i> <b>are different, as it is a novel element that the Torah innovated with regard to</b> the halakhic category of <b>fines; although he is killed, he pays. And Rabba followed his</b> line of <b>reasoning</b> stated elsewhere, <b>as Rabba said:</b> If one <b>had a stolen kid</b> in <b>his</b> possession that he had stolen previously, <b>and he slaughtered it on Shabbat,</b> he is <b>liable</b> to pay five times the principal for slaughtering the kid, <b>as he was already liable for stealing before he came to</b> violate <b>the prohibition</b> against performing labor on <b>Shabbat.</b> Although he slaughtered the goat on Shabbat, a capital crime, he is liable for the payment because it is a fine. However, if <b>he stole</b> the goat <b>and slaughtered</b> it <b>on Shabbat,</b> he is <b>exempt</b> from the payment of five times the principal <b>as, if</b> there is <b>no</b> payment for <b>theft,</b> due to his liability to receive the death penalty for desecrating Shabbat, and his obligation to repay the theft is not a fine, there is <b>no</b> liability for <b>slaughter and</b> there is <b>no</b> liability for <b>sale.</b>",
+                  "<b>And Rabba said:</b> If one <b>had a stolen kid</b> in <b>his</b> possession that he had stolen previously, <b>and he slaughtered it in</b> the course of an act of <b>burglary,</b> he is <b>liable</b> to pay four or five times the principal, <b>as he was already liable for theft before he came to</b> violate <b>the prohibition</b> against <b>burglary.</b> However, if <b>he stole and slaughtered</b> an animal <b>in</b> the course of an act of <b>burglary,</b> he is <b>exempt.</b> Because the owner of the house is permitted to kill the burglar, the status of the burglar is tantamount to one liable to receive the death penalty. <b>As, if</b> there is <b>no</b> payment <b>for theft,</b> there is <b>no</b> liability for <b>slaughter and</b> there is <b>no</b> liability for <b>sale.</b> Rabba’s statements indicate that one pays the fines for slaughter or sale even if he is liable to receive the death penalty.",
+                  "The Gemara comments: <b>And</b> it was <b>necessary</b> for Rabba to state this <i>halakha</i> with regard to both Shabbat and burglary; <b>as, if he</b> had <b>taught us</b> that one is exempt from payment only with regard to <b>Shabbat,</b> it is <b>because</b> Shabbat is severe since punishment for violation of <b>its prohibition is an eternal prohibition,</b> as whenever witnesses testify that one desecrated Shabbat, he can be executed. <b>However,</b> in the case of <b>burglary,</b> as punishment for violating its <b>prohibition is transitory,</b> e.g., it is permitted for the homeowner to kill the burglar only as long as the burglar remains on his property, <b>say</b> that he is <b>not</b> exempt from payment. <b>And if he taught us</b> the exemption only with regard to <b>burglary,</b> that would be <b>because his burglary is his forewarning.</b> Because he certainly intends to kill the homeowner, it is permitted for the homeowner to kill him without forewarning. In that respect, burglary is a severe prohibition and exempts one from payment. <b>However, Shabbat, which requires forewarning,</b> is a less severe prohibition, and in that case, <b>say</b> that one <b>is not</b> exempt from payment. Therefore, it was <b>necessary</b> for Rabba to state the exemption in both cases.",
+                  "<b>Rav Pappa said:</b> If one <b>had a stolen cow</b> in <b>his</b> possession that he had stolen previously <b>and he slaughtered it on Shabbat,</b> he is <b>liable</b> to pay four or five times the principal <b>as he was already liable for theft before he came to</b> violate <b>the prohibition of Shabbat.</b> If <b>a cow was lent to him and he slaughtered it on Shabbat,</b> he is <b>exempt</b> from paying the fine. <b>Rav Aḥa, son of Rava, said to Rav Ashi:</b> Is <b>Rav Pappa coming to teach us</b> the case of <b>a cow?</b> In other words, what did Rav Pappa add that was not already clear from Rabba’s statement? The same principle applies with regard to both a kid and a cow. If one was liable to pay for the theft when he stole the animal, he is liable to pay the fine for slaughter as well, even if he is liable to receive the death penalty.",
+                  "Rav Ashi <b>said to him: Rav Pappa is coming to teach us</b> the <i>halakha</i> with regard to a <b>borrowed</b> cow, as <b>it could enter your mind to say</b> that <b>since Rav Pappa said:</b> It is <b>from the moment of pulling</b> the animal into his domain <b>that</b> the borrower <b>is obligated to</b> provide the animal’s <b>sustenance,</b> then <b>here too, from the moment of borrowing he is liable</b> to pay <b>for its unavoidable accidents.</b> From that point, the animal is legally in his possession and therefore, even if he slaughtered the animal on Shabbat he should be liable. Therefore, <b>he teaches us</b> that one assumes liability for unavoidable accidents only when they actually occur, and if that is on Shabbat, he is exempt.",
+                  "<b>Rava said:</b> If <b>their father</b> died and <b>left them a borrowed cow, they may use it</b> for <b>the entire</b> duration of the <b>period</b> for which <b>it was borrowed.</b> The right to use a borrowed article continues even after the borrower himself dies. However, if the cow <b>died, they are not liable</b> to pay <b>for its unavoidable accident,</b> as they did not borrow the animal themselves. Similarly, if <b>they thought</b> the cow <b>was their father’s and they slaughtered it and ate it, they pay only a reduced</b> assessment of the <b>price of the meat.</b> They are required to pay only for the benefit they received, not the damage they caused the owner. However, if <b>their father left them property</b> as a <b>guarantee</b> for return of the borrowed item, i.e., there was a lien on the father’s property during his lifetime, <b>they are obligated to pay</b> the entire sum of the damage.",
+                  "The Gemara comments: <b>Some teach this</b> statement, that if the father left property as a guarantee his heirs are liable to pay the entire damage, <b>with regard to the first clause</b> of this <i>halakha</i>, <b>and some teach it with regard to the latter clause.</b> The Gemara elaborates: According to the <b>one who teaches it with regard to the first clause,</b> when the animal died, <b>all the more so</b> would he teach this <i>halakha</i> <b>with regard to the latter clause,</b> as since they slaughtered the animal they must pay full damages. <b>And</b> this approach <b>differs</b> with the opinion <b>of Rav Pappa,</b> who said that a borrower is liable for accidents only when the incident occurs. <b>And</b> according to the <b>one who teaches it with regard to the latter clause,</b> this <i>halakha</i> applies only when they slaughtered and ate it; <b>however, with regard to the first clause,</b> when it died, they would <b>not</b> be liable, as the <i>tanna</i> too maintains that liability for unavoidable accidents begins only when the incident occurs, not from when the cow was borrowed. <b>And this is</b> consistent with the ruling <b>of Rav Pappa.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Ketubot 33b:8",
+                "Ketubot 33b:9",
+                "Ketubot 33b:10",
+                "Ketubot 33b:11",
+                "Ketubot 33b:12",
+                "Ketubot 33b:13",
+                "Ketubot 33b:14",
+                "Ketubot 34a:1",
+                "Ketubot 34a:2",
+                "Ketubot 34a:3",
+                "Ketubot 34a:4",
+                "Ketubot 34a:5",
+                "Ketubot 34a:6",
+                "Ketubot 34a:7",
+                "Ketubot 34a:8",
+                "Ketubot 34a:9",
+                "Ketubot 34a:10",
+                "Ketubot 34b:1",
+                "Ketubot 34b:2",
+                "Ketubot 34b:3",
+                "Ketubot 34b:4",
+                "Ketubot 34b:5",
+                "Ketubot 34b:6",
+                "Ketubot 34b:7"
+              ],
+              "he": [
+                [
+                  "רֵישׁ לָקִישׁ אָמַר: הָא מַנִּי — רַבִּי מֵאִיר הִיא, דְּאָמַר: לוֹקֶה וּמְשַׁלֵּם. אִי רַבִּי מֵאִיר — אֲפִילּוּ בִּתּוֹ נָמֵי!",
+                  "וְכִי תֵּימָא: רַבִּי מֵאִיר, לוֹקֶה וּמְשַׁלֵּם — אִית לֵיהּ, מֵת וּמְשַׁלֵּם — לֵית לֵיהּ, וְלָא? וְהָתַנְיָא: גָּנַב וְטָבַח בְּשַׁבָּת, גָּנַב וְטָבַח לַעֲבוֹדָה זָרָה, גָּנַב שׁוֹר הַנִּסְקָל וּטְבָחוֹ — מְשַׁלֵּם תַּשְׁלוּמֵי אַרְבָּעָה וַחֲמִשָּׁה, דִּבְרֵי רַבִּי מֵאִיר, וַחֲכָמִים פּוֹטְרִין!",
+                  "הָא אִיתְּמַר עֲלַהּ, אָמַר רַבִּי יַעֲקֹב אָמַר רַבִּי יוֹחָנָן, וְאָמְרִי לַהּ: אָמַר רַבִּי יִרְמְיָה אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ, רַבִּי אָבִין וְרַבִּי אִילְעָא וְכֹל חֲבוּרָתָא מִשְּׁמֵיהּ דְּרַבִּי יוֹחָנָן אָמְרִי: בְּטוֹבֵחַ עַל יְדֵי אַחֵר.",
+                  "וְכִי זֶה חוֹטֵא וְזֶה מִתְחַיֵּיב? אָמַר רָבָא, אָמַר רַחֲמָנָא: ״וּטְבָחוֹ אוֹ מְכָרוֹ״, מָה מְכִירָה עַל יְדֵי אַחֵר, אַף טְבִיחָה עַל יְדֵי אַחֵר.",
+                  "דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״אוֹ״ — לְרַבּוֹת אֶת הַשָּׁלִיחַ. דְּבֵי חִזְקִיָּה תָּנָא: ״תַּחַת״ — לְרַבּוֹת אֶת הַשָּׁלִיחַ.",
+                  "מַתְקֵיף לַהּ מָר זוּטְרָא: מִי אִיכָּא מִידֵּי דְּאִילּוּ עֲבַד אִיהוּ לָא מִיחַיַּיב, וְעָבֵיד שְׁלִיחַ וּמִחַיַּיב? אִיהוּ, לָאו מִשּׁוּם דְּלָא מִיחַיַּיב, אֶלָּא מִשּׁוּם דְּקָם לֵיהּ בִּדְרַבָּה מִינֵּיהּ.",
+                  "אִי בְּטוֹבֵחַ עַל יְדֵי אַחֵר, מַאי טַעְמַיְיהוּ דְּרַבָּנַן דְּפָטְרִי? מַאן חֲכָמִים —"
+                ],
+                [
+                  "רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר: שְׁחִיטָה שֶׁאֵינָהּ רְאוּיָה — לֹא שְׁמָהּ שְׁחִיטָה. הָתִינַח עֲבוֹדָה זָרָה וְשׁוֹר הַנִּסְקָל, אֶלָּא שְׁחִיטַת שַׁבָּת — שְׁחִיטָה רְאוּיָה הִיא! דִּתְנַן: הַשּׁוֹחֵט בְּשַׁבָּת וּבְיוֹם הַכִּפּוּרִים, אַף עַל פִּי שֶׁמִּתְחַיֵּיב בְּנַפְשׁוֹ — שְׁחִיטָתוֹ כְּשֵׁרָה!",
+                  "סָבַר לַהּ כְּרַבִּי יוֹחָנָן הַסַּנְדְּלָר. דְּתַנְיָא: הַמְבַשֵּׁל בְּשַׁבָּת, בְּשׁוֹגֵג — יֹאכַל, בְּמֵזִיד — לֹא יֹאכַל, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: בְּשׁוֹגֵג — יֹאכַל לְמוֹצָאֵי שַׁבָּת, בְּמֵזִיד — לֹא יֹאכַל עוֹלָמִית. רַבִּי יוֹחָנָן הַסַּנְדְּלָר אוֹמֵר: בְּשׁוֹגֵג — יֵאָכֵל לְמוֹצָאֵי שַׁבָּת לַאֲחֵרִים וְלֹא לוֹ, בְּמֵזִיד — לֹא יֵאָכֵל עוֹלָמִית, לֹא לוֹ וְלֹא לַאֲחֵרִים.",
+                  "מַאי טַעְמָא דְּרַבִּי יוֹחָנָן הַסַּנְדְּלָר? כִּדְדָרֵישׁ רַבִּי חִיָּיא אַפִּיתְחָא דְּבֵי נְשִׂיאָה: ״וּשְׁמַרְתֶּם אֶת הַשַּׁבָּת כִּי קֹדֶשׁ הִיא לָכֶם״, מָה קוֹדֶשׁ אָסוּר בַּאֲכִילָה — אַף מַעֲשֵׂה שַׁבָּת אֲסוּרִין בַּאֲכִילָה. אִי: מָה קוֹדֶשׁ אָסוּר בַּהֲנָאָה — אַף מַעֲשֵׂה שַׁבָּת אָסוּר בַּהֲנָאָה! תַּלְמוּד לוֹמַר: ״לָכֶם״ — שֶׁלָּכֶם יְהֵא.",
+                  "יָכוֹל אֲפִילּוּ בְּשׁוֹגֵג? תַּלְמוּד לוֹמַר: ״מְחַלְּלֶיהָ מוֹת יוּמָת״, בְּמֵזִיד אָמַרְתִּי לְךָ, וְלֹא בְּשׁוֹגֵג.",
+                  "פְּלִיגִי בַּהּ רַב אַחָא וְרָבִינָא, חַד אָמַר: מַעֲשֵׂה שַׁבָּת דְּאוֹרָיְיתָא, וְחַד אָמַר: דְּרַבָּנַן. מַאן דְּאָמַר דְּאוֹרָיְיתָא — כְּדַאֲמַרַן, מַאן דְּאָמַר דְּרַבָּנַן — אָמַר קְרָא: ״קֹדֶשׁ הִיא״, הִיא קוֹדֶשׁ, וְאֵין מַעֲשֶׂיהָ קוֹדֶשׁ.",
+                  "וּלְמַאן דְּאָמַר דְּרַבָּנַן, מַאי טַעְמַיְיהוּ דְּרַבָּנַן דְּפָטְרִי? כִּי קָא פָּטְרִי רַבָּנַן אַשְּׁאָרָא.",
+                  "טוֹבֵחַ לַעֲבוֹדָה זָרָה, כֵּיוָן דִּשְׁחַט בֵּיהּ פּוּרְתָּא — אִיתְּסַר לֵיהּ, אִידַּךְ כִּי קָא טָבַח, לָאו דְּמָרֵיהּ קָא טָבַח! אָמַר רָבָא: בְּאוֹמֵר בִּגְמַר זְבִיחָה הוּא עוֹבְדָהּ.",
+                  "שׁוֹר הַנִּסְקָל, לָאו דִּידֵיהּ הוּא דְּקָטָבַח! אָמַר רַבָּה: הָכָא בְּמַאי עָסְקִינַן — כְּגוֹן שֶׁמְּסָרוֹ לְשׁוֹמֵר, וְהִזִּיק בְּבֵית שׁוֹמֵר, וְנִגְמַר דִּינוֹ בְּבֵית שׁוֹמֵר, וּגְנָבוֹ גַּנָּב מִבֵּית שׁוֹמֵר.",
+                  "וְרַבִּי מֵאִיר, סָבַר לַהּ כְּרַבִּי יַעֲקֹב, וְסָבַר לַהּ כְּרַבִּי שִׁמְעוֹן. סָבַר לַהּ כְּרַבִּי יַעֲקֹב דְּאָמַר: אַף מִשֶּׁנִּגְמַר דִּינוֹ הֶחְזִירוֹ שׁוֹמֵר לִבְעָלָיו — מוּחְזָר. וְסָבַר לַהּ כְּרַבִּי שִׁמְעוֹן דְּאָמַר: דָּבָר הַגּוֹרֵם לְמָמוֹן — כְּמָמוֹן דָּמֵי.",
+                  "רַבָּה אָמַר: לְעוֹלָם בְּטוֹבֵחַ עַל יְדֵי עַצְמוֹ,"
+                ],
+                [
+                  "וְרַבִּי מֵאִיר, לוֹקֶה וּמְשַׁלֵּם אִית לֵיהּ, מֵת וּמְשַׁלֵּם לֵית לֵיהּ. וְשָׁאנֵי הָנֵי, דְּחִידּוּשׁ הוּא שֶׁחִידְּשָׁה תּוֹרָה בִּקְנָס, אַף עַל גַּב דְּמִיקְּטִיל — מְשַׁלֵּם. וְאַזְדָּא רַבָּה לְטַעְמֵיהּ, דְּאָמַר רַבָּה: הָיָה גְּדִי גָּנוּב לוֹ, וּטְבָחוֹ בְּשַׁבָּת — חַיָּיב, שֶׁכְּבָר נִתְחַיֵּיב בִּגְנֵיבָה קוֹדֶם שֶׁיָּבֹא לִידֵי אִיסּוּר שַׁבָּת. גָּנַב וְטָבַח בְּשַׁבָּת — פָּטוּר, שֶׁאִם אֵין גְּנֵיבָה, אֵין טְבִיחָה וְאֵין מְכִירָה.",
+                  "וְאָמַר רַבָּה: הָיָה גְּדִי גָּנוּב לוֹ וּטְבָחוֹ בַּמַּחְתֶּרֶת — חַיָּיב, שֶׁכְּבָר נִתְחַיֵּיב בִּגְנֵיבָה קוֹדֶם שֶׁיָּבֹא לִידֵי אִיסּוּר מַחְתֶּרֶת. גָּנַב וְטָבַח בַּמַּחְתֶּרֶת — פָּטוּר, שֶׁאִם אֵין גְּנֵיבָה, אֵין טְבִיחָה וְאֵין מְכִירָה.",
+                  "וּצְרִיכָא. דְּאִי אַשְׁמְעִינַן שַׁבָּת — מִשּׁוּם דְּאִיסּוּרָהּ אִיסּוּר עוֹלָם. אֲבָל מַחְתֶּרֶת, דְּאִיסּוּר שָׁעָה הוּא — אֵימָא לָא. וְאִי אַשְׁמְעִינַן מַחְתֶּרֶת — מִשּׁוּם דְּמַחְתַּרְתּוֹ זוֹ הִיא הַתְרָאָתוֹ. אֲבָל שַׁבָּת, דְּבָעֲיָא הַתְרָאָה — אֵימָא לָא, צְרִיכָא.",
+                  "אָמַר רַב פָּפָּא: הָיְתָה פָּרָה גְּנוּבָה לוֹ, וּטְבָחָהּ בְּשַׁבָּת — חַיָּיב, שֶׁכְּבָר נִתְחַיֵּיב בִּגְנֵיבָה קוֹדֶם שֶׁיָּבֹא לִידֵי אִיסּוּר שַׁבָּת. הָיְתָה פָּרָה שְׁאוּלָה לוֹ, וּטְבָחָהּ בְּשַׁבָּת — פָּטוּר. אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: רַב פָּפָּא, פָּרָה אֲתָא לְאַשְׁמוֹעִינַן?!",
+                  "אֲמַר לֵיהּ: רַב פָּפָּא, שְׁאוּלָה אֲתָא לְאַשְׁמוֹעִינַן. סָלְקָא דַּעְתָּךְ אָמֵינָא, הוֹאִיל וְאָמַר רַב פָּפָּא: מִשְּׁעַת מְשִׁיכָה הוּא דְּאִתְחַיַּיב לֵיהּ בִּמְזוֹנוֹתֶיהָ, הָכָא נָמֵי: מִשְּׁעַת שְׁאֵלָה אִתְחַיַּיב בְּאוּנְסֶיהָ. קָא מַשְׁמַע לַן.",
+                  "אָמַר רָבָא: הִנִּיחַ לָהֶן אֲבִיהֶן פָּרָה שְׁאוּלָה — מִשְׁתַּמְּשִׁין בָּהּ כׇּל יְמֵי שְׁאֵלָתָהּ, מֵתָה — אֵין חַיָּיבִין בְּאוֹנְסָהּ. כִּסְבוּרִין שֶׁל אֲבִיהֶם הִיא וּטְבָחוּהָ וַאֲכָלוּהָ — מְשַׁלְּמִין דְּמֵי בָשָׂר בְּזוֹל. הִנִּיחַ לָהֶן אֲבִיהֶן אַחְרָיוּת נְכָסִים — חַיָּיבִין לְשַׁלֵּם.",
+                  "אִיכָּא דְּמַתְנֵי לַהּ אַרֵישָׁא, וְאִיכָּא דְּמַתְנֵי לַהּ אַסֵּיפָא. מַאן דְּמַתְנֵי לַהּ אַרֵישָׁא, כׇּל שֶׁכֵּן אַסֵּיפָא — וּפְלִיגָא דְּרַב פָּפָּא. וּמַאן דְּמַתְנֵי לַהּ אַסֵּיפָא, אֲבָל אַרֵישָׁא לָא — וְהַיְינוּ דְּרַב פָּפָּא."
+                ]
+              ],
+              "link": "/Ketubot/34b",
+              "originalRefsBeforeRewriting": [
+                "Ketubot 34b:1"
+              ],
+              "ref": "Ketubot 33b:8-34b:7",
+              "sourceHeRef": "כתובות ל״ד ב",
+              "sourceRef": "Ketubot 34b"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא אמר רב נחמן בר יצחק קרי ביה אשר לא אורסה.</b> ומסתברא דלא למימרא דנחליף אשר לא באשר לא אורסה, אלא הכי קאמר פירוש אשר לא אורסה כלומר, דקרא הכי קאמר אשר לא אורסה ועדיין היא באירוסיה עומדת, הא אורסה ועדיין באירוסיה עומדת לית לה כלל, וקא משמע לן דאף על גב דחדוש הוא לא מיקטל ומשלם.<br><b></b>ותמיה לי, אי כדקאמר רב נחמן, מאי קתני בברייתא אם כן מה תלמוד לומר אשר לא אורסה מופנה לדון ממנו גזירה שוה, והא איצטריך לגופיה לאפוקיה ארוסה. ויש לומר, דחד מינייהו מופנה, דאי לאשמעינן דלא מיקטיל ומשלם הא אשמעינן בחד מינייהו או באונס או במפתה ועדיין קשיא לי אם כן מאי האי דקתני בברייתא ר' עקיבא אומר יש לה קנס וקנסה לאביה והדין נותן, מה כסף קדושיה וכו' אף כסף קנסה אף על פי שנתארסה ונתגרשה לאביה, דאלמא אשר לא אורסה דקרא משמע ליה נמי לר' עקיבא כפשטיה וכדמסיק נמי בשקלא וטריא, אימא בתולה לגזירה שוה דאשר לא אורסה פרט לנערה שנתארסה ונתגרשה. ועוד, דפריק הא אשתני גופה והא לא אישתני גופא, ואי אשר לא ארוסה קאמר, מאי נפקא לן מינה, אי נפקא לן גזירה שוה מבתולה או מאשר לא אורסה, ומאי אשתני גופה ולא אשתני גופה דקאמר, דהוא כוליה קרא דוקא קאמר, דבין בתולה בין אשר לא אורסה דוקא הוא בתולה ולא בעולה, הא בעולה כלל וכלל לא אף אשר לא הא ארוסה כלל וכלל לא.<br><b></b>ועוד קשיא לי, מאי קא מתרץ רב נחמן, קרי ביה אשר לא ארוסה, דאם כן היכי אקשינן ולר' עקיבא מאי חזית דהאי אשר לא ארוסה לגזירה שוה ובתולה למעוטי בעולה אימא בתולה לגזירה שוה, כלומר, ובתולה אפילו בעולה, דאי מוקמה בתולה לגזירה שוה, אתיא גזירה שוה ומפקא ליה קרא מפשטיה.<br><b></b>ויש לי לומר, דר' עקיבא דברייתא לטעמיה דר' יוסי קאמר ליה, לדידי קרא לאו למעוטי נתארסה ונתגרשה, אלא למעוטי מי שארוסה עדיין, אלא אפילו לדידך דמשמע לך קרא כפשטיה לגמרי אשר לא ארוסה מעולם, הדין נותן שיש לה, דמ\"ט למעוטי ליה קרא, הא אשכחן כסף הבא לה מחמת ביאה לאחר שנתארסה ונתגרשה שהוא דאב דהיינו כסף קדושיה, הלכך אף כסף קנסה הבא לה מחמת ביאתה לאחר שנתארסה ונתגרשה לאביה. ואם תאמר, אם כן מה תלמוד לומר אשר לא אורסה, היה לך להפנותו לגזירה שוה. ואם תאמר, אם כן אתיא גזירה שוה ומפקא ליה לקרא לגמרי מפשטיה. יש לומר דהכי קאמר ליה, היה לך להפנותו לגזירה שוה, ומיהו הכי מידריש הא אורסה לעצמה וכתנא דר' עקיבא דמתניתין. ומאן דשקיל וטרי לעיל, ואקשי ולר' עקיבא אימא בתולה לגזירה שוה, אמר לך רב נחמן דלא נהיר בפרושא דברייתא, דעל כרחך אי אפשר לומר דגזירה שוה מבתולה, דאם כן אתיא גזירה שוה ומפקא ליה לקרא מפשטיה, כן נראה לי.",
+              "ref": "Rashba on Ketubot 38b:1",
+              "sourceHeRef": "רשב״א על כתובות ל״ח ב:א",
+              "sourceRef": "Rashba on Ketubot 38b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קרי ביה</strong> - בפשטיה אשר לא ארוסה למעוטי ארוסה:",
+              "ref": "Rashi on Ketubot 38b:6:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ו:א",
+              "sourceRef": "Rashi on Ketubot 38b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בת סקילה היא</strong> - ומלא יהיה אסון נפקא פטורא מתשלומין:",
+              "ref": "Rashi on Ketubot 38b:6:2",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ו:ב",
+              "sourceRef": "Rashi on Ketubot 38b:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב נחמן בר יצחק: קרי ביה</b> <span class=\"hebrew-emphasis\">[קרא בו]</span> בכתוב זה <b>\"אשר לא ארוסה\",</b> שאין פירוש הביטוי לא אורסה בעבר, אלא אשר לא ארוסה בהווה, שכעת היא פנויה ואינה ארוסה. ותוהים: לשם כך אין צורך בכתוב מיוחד, הלא <b>ארוסה בת סקילה היא,</b> כלומר, ראויה היא להיסקל, כמפורש בפסוקים אחרים ובודאי אין לה קנס! ומשיבים: <b>סלקא דעתך אמינא</b> <span class=\"hebrew-emphasis\">[יעלה על דעתך לומר]</span> <b>הואיל וחידוש הוא שחידשה תורה בקנס,</b> ולכן, כיון שחידוש הוא <b>אף על גב דמיקטיל</b> <span class=\"hebrew-emphasis\">[אף על פי</span> שהוא <span class=\"hebrew-emphasis\">נהרג]</span> משום שבועל נערה ארוסה — הוא גם <b>משלם</b> קנס, על כן השמיע לנו שאין זה כך.",
+              "ref": "Steinsaltz on Ketubot 38b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:ו",
+              "sourceRef": "Steinsaltz on Ketubot 38b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This does not require adapting the letters or vowels of this word. Rather, the expression “not betrothed” should not be understood in the past tense: Who was not betrothed; rather it is a kind of present participle: One who is not betrothed. This is a common usage in the Bible, particularly in the language of the prophets (Ritva; Rabbeinu Crescas Vidal).",
+              "he": "אין הכוונה לומר שהוא רוצה לשנות את הכתיב או את הניקוד, אלא רצונו לומר שיש להבין את הביטוי \"לא אורשה\" לא כפועל בעבר אלא כעין בינוני — זו שאינה מאורסה. ויש צורה כעין זו בעיקר בלשון הנביאים (ריטב\"א, רק\"ו).",
+              "ref": "Steinsaltz comment #1 on Ketubot 38b:6",
+              "sourceHeRef": "קְרִי בֵּיהּ אֲשֶׁר לֹא אֲרוּסָה",
+              "sourceRef": "Interpret the verse as: Who is not betrothed"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ארוסה בת סקילה היא</strong> - וא\"ת מאי קשיא ליה הא השתא לא נפיק קרא ממשמעותיה ואי לא איצטריך לגופיה כ\"ש דניחא טפי דג\"ש מופנה ואומר ר\"י דהכי פירושו ארוסה בת סקילה היא וכיון דלא איצטריך למידי אלא לגזירה שוה הוה ליה למכתב אשר לא ארוסה בהדיא ואמאי שני למכתב אשר לא אורסה דאיכא למטעי ולמימר הא אורסה לעצמה דבשלמא אי הוה בארוסה שום חידוש הוה אתי שפיר במה ששינה הלשון דאמרינן האי דשנה וכתב אורסה למדרש לגזירה שוה ואתא פשטיה לחידושא אבל השתא למה לי:",
+              "ref": "Tosafot on Ketubot 38b:6:1",
+              "sourceHeRef": "תוספות על כתובות ל״ח ב:ו:א",
+              "sourceRef": "Tosafot on Ketubot 38b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-nahman-b-yitzhak\" class=\"namedEntityLink\" data-slug=\"rav-nahman-b-yitzhak\">Rav Naḥman bar Yitzḥak</span> said: Interpret the verse</b> as: <b>Who is not betrothed.</b> It does not mean that the young woman was not betrothed in the past, rather, that she is not currently betrothed. The Gemara asks: There is no need for a verse to derive that the rapist is exempt from paying a fine if the young woman is betrothed, as the rape of <b>a betrothed</b> young woman <b>is</b> punishable <b>by stoning,</b> and the rapist is certainly exempt from paying the fine. The Gemara answers: As <b>it might enter your mind to say: Since it is a novel element that the Torah introduced with regard to</b> the payment of <b>a fine, even though he is killed he pays</b> the fine. Therefore, the verse <b>teaches us</b> that one who is executed is exempt from payment of the fine.",
+      "he": "אָמַר <span href=\"/topics/rav-nahman-b-yitzhak\" class=\"namedEntityLink\" data-slug=\"rav-nahman-b-yitzhak\">רַב נַחְמָן בַּר יִצְחָק</span>: קְרִי בֵּיהּ ״אֲשֶׁר לֹא אֲרוּסָה״. אֲרוּסָה בַּת סְקִילָה הִיא! סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וְחִידּוּשׁ הוּא שֶׁחִידְּשָׁה תּוֹרָה בִּקְנָס, אַף עַל גַּב דְּמִיקְּטִיל — מְשַׁלֵּם.",
+      "ref": "Ketubot 38b:6"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ול</b>דעת <b>רבה</b> ש<b>אמר:</b> אכן, <b>חידוש הוא שחידשה תורה בקנס, אף על גב דמיקטיל</b> <span class=\"hebrew-emphasis\">[אף על פי ש</span>הוא <span class=\"hebrew-emphasis\">נהרג]</span> <b>משלם</b> קנס, אם כן, <b>מאי איכא למימר</b> <span class=\"hebrew-emphasis\">[מה יש לומר]</span> לשיטתו ולאיזה צורך יש בפסוק זה? ומשיבים: <b>סבר לה</b> <span class=\"hebrew-emphasis\">[סבור הוא]</span> רבה <b>כר' עקיבא דמתניתין</b> <span class=\"hebrew-emphasis\">[של משנתנו]</span> שלשיטתו \"לא אורסה\" מתפרש כפשוטו ואינו ענין לקנס במקום חיוב מיתה.",
+              "ref": "Steinsaltz on Ketubot 38b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:ז",
+              "sourceRef": "Steinsaltz on Ketubot 38b:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And according to <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span>, who said</b> that this is indeed the <i>halakha</i>: Since <b>it is a novel element that the Torah introduced with regard to</b> the payment of <b>a fine, even though he is killed he pays</b> the fine, <b>what is there to say?</b> What is derived from the verse that says that there is no fine if the young woman is betrothed? The Gemara answers: <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> <b>holds in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> of the mishna,</b> who interpreted the verse as it is written, meaning that it is referring to one who was betrothed and divorced.",
+      "he": "<span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">וּלְרַבָּה</span> דְּאָמַר חִידּוּשׁ הוּא שֶׁחִידְּשָׁה תּוֹרָה בִּקְנָס, אַף עַל גַּב דְּמִיקְּטִיל מְשַׁלֵּם, מַאי אִיכָּא לְמֵימַר? סָבַר לַהּ כְּרַבִּי עֲקִיבָא דְּמַתְנִיתִין.",
+      "ref": "Ketubot 38b:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קנסה למי</strong> - קא סלקא דעתך בסתם אנוסה קאי:",
+              "ref": "Rashi on Ketubot 38b:8:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ח:א",
+              "sourceRef": "Rashi on Ketubot 38b:8:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תנו רבנן:</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> אנוסה, <b>קנסה למי — לאביה. ויש אומרים: לעצמה.</b> ותוהים: <b>לעצמה אמאי</b> <span class=\"hebrew-emphasis\">[מדוע],</span> הלא מפורש במקרא שמשלם לאביה! <b>אמר רב חסדא: הכא</b> <span class=\"hebrew-emphasis\">[כאן]</span> <b>בנערה שנתארסה ונתגרשה עסקינן</b> <span class=\"hebrew-emphasis\">[עוסקים אנו]</span> <b>וקמיפלגי בפלוגתא</b> <span class=\"hebrew-emphasis\">[וחולקים</span> חכמים אלה שבברייתא <span class=\"hebrew-emphasis\">במחלוקת]</span> של <b>ר' עקיבא דמתניתין</b> <span class=\"hebrew-emphasis\">[של משנתנו]</span> <b>ור' עקיבא</b> של ה<b>ברייתא</b> למי הקנס.",
+              "ref": "Steinsaltz on Ketubot 38b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:ח",
+              "sourceRef": "Steinsaltz on Ketubot 38b:8"
+            }
+          ]
+        }
+      },
+      "en": "<b>The Sages taught:</b> With regard to a young woman who was raped, <b>to whom</b> is <b>her fine</b> paid? It is paid <b>to her father; and some say:</b> It is paid <b>to her.</b> The Gemara asks: <b>To her? Why?</b> The verse explicitly states that the fine is paid to her father. <b><span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> said: Here we are dealing with a young woman who was betrothed and divorced, and</b> these <i>tanna’im</i> in the <i>baraita</i> <b>disagree in the dispute between <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> of the mishna and <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> of the <i>baraita</i>,</b> with regard to whom the rapist pays the fine in that case.",
+      "he": "תָּנוּ רַבָּנַן: קְנָסָהּ לְמִי, לְאָבִיהָ. וְיֵשׁ אוֹמְרִים: לְעַצְמָהּ. לְעַצְמָהּ אַמַּאי! אָמַר רַב חִסְדָּא: הָכָא בְּנַעֲרָה שֶׁנִּתְאָרְסָה וְנִתְגָּרְשָׁה עָסְקִינַן, וְקָמִיפַּלְגִי בִּפְלוּגְתָּא דְּרַבִּי עֲקִיבָא דְּמַתְנִיתִין וְרַבִּי עֲקִיבָא דְּבָרַיְיתָא.",
+      "ref": "Ketubot 38b:8"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The Gemara questions the basic <i>halakha</i> that one who rapes young women of flawed lineage is liable to pay the fine: <b>And are these</b> young women <b>entitled</b> to the <b>fine? But why? I read here</b> with regard to a rapist: <b>“And to him she shall be as a wife”</b> (Deuteronomy 22:29), from which the Sages derived that only <b>a wife who is suitable for him</b> is eligible to receive payment of a fine from a rapist. <b>Reish Lakish said</b> that one verse states: “If a man finds a young woman” (Deuteronomy 22:28), and another states: “And he shall give to the father of the young woman” (Deuteronomy 22:29). This is tantamount to three mentions: <b>Young woman, young woman, the young woman,</b> as the superfluous definite article is interpreted as a third mention of the term. <b>One</b> mention is required <b>to</b> teach the matter <b>itself,</b> that one who rapes a young woman is liable to pay a fine; <b>and one</b> is <b>to include</b> payment of a fine to those young women for whose rape one is <b>liable for</b> violating <b>prohibitions; and one</b> is <b>to include</b> payment of a fine to those young women for whose rape one is <b>liable to</b> receive <b><i>karet</i>.</b>",
+                "<b>Rav Pappa said:</b> This is derived from the <i>halakha</i> of the seducer, as the verses state: “And if a man seduce a virgin…he shall weigh money like the dowry of the virgins” (Exodus 22:15–16). This is tantamount to three mentions: <b>Virgin, virgins, the virgins. One</b> mention is required <b>to</b> teach the matter <b>itself; and one</b> is <b>to include</b> those young women for whose rape one is <b>liable for</b> violating <b>prohibitions; and one</b> is <b>to include</b> those young women for whom one who rapes them is <b>liable to</b> receive <b><i>karet</i>.</b>",
+                "The Gemara asks: <b>And Rav Pappa, what is the reason</b> that <b>he did not cite</b> the source <b>as Reish Lakish</b> did? The Gemara answers: <b>That</b> derivation from the three instances of the term young woman is <b>required by him to</b> teach <b>in accordance with that</b> which <b>Abaye</b> said, <b>as Abaye said:</b> If one <b>engaged in</b> forced <b>intercourse with</b> a young woman <b>and she died</b> before he stood trial, he is <b>exempt</b> from paying the fine, <b>as it is stated: “And he shall give to the father of the young woman”</b> (Deuteronomy 22:29). From the fact that the verse does not simply say: To her father, it is inferred: <b>To the father of the young woman and not to the father of a dead</b> woman. He is liable only if the young woman is still alive.",
+                "The Gemara asks: <b>And Reish Lakish, what is the reason</b> that <b>he did not cite</b> the source <b>as Rav Pappa</b> did? The Gemara answers: <b>That</b> derivation from the three instances of the term virgin is <b>required by him to</b> derive <b>a verbal analogy, as it is taught</b> in a <i>baraita</i> that it is written with regard to a seducer: <b>“He shall weigh [<i>yishkol</i>] money like the dowry of the virgins”</b> (Exodus 22:16), from which it is derived <b>that this</b> fine of a seducer <b>should be</b> a sum of fifty <i>sela</i> <b>like the dowry of the virgins</b> specified in the case of a rapist; <b>and the dowry of the virgins must be</b> paid in <i>sela</i> <b>like this</b> fine of the seducer. Therefore, Reish Lakish holds that no additional matters may be derived from the term virgins. The Gemara asks: <b>And</b> for <b>Reish Lakish too,</b> isn’t it <b>required by him to</b> teach <b>in accordance with that</b> which <b>Abaye</b> said? <b>And</b> similarly, for <b>Rav Pappa,</b> isn’t it <b>required by him to</b> derive <b>a verbal analogy?</b>",
+                "<b>Rather,</b> there are <b>six verses written,</b> and both Reish Lakish and Rav Pappa derive matters from all of them. In the two passages discussing the rapist and the seducer, it is written: <b>Young woman, young woman, the young woman; virgin, virgins, the virgins. Two</b> mentions are required <b>to</b> teach the matters <b>themselves,</b> the basic <i>halakhot</i> of a rapist and a seducer; <b>one</b> mention is needed <b>to</b> teach <b>in accordance with that</b> which <b>Abaye</b> said; <b>and one</b> mention is necessary <b>to</b> derive <b>a verbal analogy</b> with regard to the dowry of virgins. <b>Two</b> mentions of the term <b>remain for him; one</b> is <b>to include</b> those young women for whose rape one is <b>liable for</b> violating <b>prohibitions, and one</b> is <b>to include</b> those young women for whom one who rapes them is <b>liable to</b> receive <b><i>karet</i>.</b> Reish Lakish and Rav Pappa do not disagree; the derivation of each complements that of the other."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Ketubot 29b:2",
+                "Ketubot 29b:3",
+                "Ketubot 29b:4",
+                "Ketubot 29b:5",
+                "Ketubot 29b:6"
+              ],
+              "he": [
+                "וְהָנֵי בְּנֵי קְנָסָא נִינְהוּ? וְאַמַּאי? אִיקְּרִי כָּאן: ״וְלוֹ תִּהְיֶה לְאִשָּׁה״, אִשָּׁה הָרְאוּיָה לוֹ! אָמַר רֵישׁ לָקִישׁ: ״נַעֲרָה״, ״נַעֲרָה״, ״הַנַּעֲרָה״. חַד לְגוּפֵיהּ, וְחַד לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.",
+                "רַב פָּפָּא אָמַר: ״בְּתוּלָה״, ״בְּתוּלוֹת״, ״הַבְּתוּלוֹת״. חַד לְגוּפֵיהּ, וְחַד לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת.",
+                "וְרַב פָּפָּא מַאי טַעְמָא לָא אָמַר כְּרֵישׁ לָקִישׁ? הָהוּא מִיבְּעֵי לֵיהּ לְכִדְאַבָּיֵי. דְּאָמַר אַבָּיֵי: בָּא עָלֶיהָ וּמֵתָה — פָּטוּר, שֶׁנֶּאֱמַר: ״וְנָתַן לַאֲבִי הַנַּעֲרָה״. לַאֲבִי נַעֲרָה, וְלֹא לַאֲבִי מֵתָה.",
+                "וְרֵישׁ לָקִישׁ מַאי טַעְמָא לָא אָמַר כְּרַב פָּפָּא? הָהוּא מִיבְּעֵי לֵיהּ לִגְזֵירָה שָׁוָה. דְּתַנְיָא: ״כֶּסֶף יִשְׁקוֹל כְּמוֹהַר הַבְּתוּלוֹת״, שֶׁיְּהֵא זֶה כְּמוֹהַר הַבְּתוּלוֹת, וּמוֹהַר הַבְּתוּלוֹת כָּזֶה. וְרֵישׁ לָקִישׁ נָמֵי, מִיבְּעֵי לֵיהּ לְכִדְאַבָּיֵי. וְרַב פָּפָּא נָמֵי, מִיבְּעֵי לֵיהּ לִגְזֵירָה שָׁוָה!",
+                "אֶלָּא: שִׁיתָּא קְרָאֵי כְּתִיבִי? ״נַעֲרָה״ ״נַעֲרָה״ ״הַנַּעֲרָה״. ״בְּתוּלָה״ ״בְּתוּלוֹת״ ״הַבְּתוּלוֹת״, תְּרֵי לְגוּפַיְיהוּ, חַד לְכִדְאַבָּיֵי, וְחַד לִגְזֵירָה שָׁוָה. אִיַּיתַּרוּ לֵיהּ תְּרֵי. חַד — לְאֵתוֹיֵי חַיָּיבֵי לָאוִין, וְחַד — לְאֵתוֹיֵי חַיָּיבֵי כָרֵיתוֹת."
+              ],
+              "link": "/Ketubot/29b",
+              "originalRefsBeforeRewriting": [
+                "Ketubot 29b:4"
+              ],
+              "ref": "Ketubot 29b:2-6",
+              "sourceHeRef": "כתובות כ״ט ב",
+              "sourceRef": "Ketubot 29b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If [a girl] dies after she [was seduced or raped], [the seducer or the rapist] is not liable for the fine, [as implied by Deuteronomy 22:29]: \"the man who raped her must give the maiden's father....\" [The verse states] \"the father of the maiden,\" and not \"the father of the dead maiden.\" [This applies] when she dies before the case came to court.",
+              "he": "בָּא עָלֶיהָ וּמֵתָה הֲרֵי זֶה פָּטוּר מִן הַקְּנָס שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(דברים כב כט)</span> \"וְנָתַן הָאִישׁ הַשֹּׁכֵב עִמָּהּ לַאֲבִי הַנַּעֲרָה\" לֹא לַאֲבִי הַמֵּתָה. וְהוּא שֶׁתָּמוּת קֹדֶם שֶׁתַּעֲמֹד בַּדִּין:",
+              "ref": "Mishneh Torah, Virgin Maiden 1:15",
+              "sourceHeRef": "הלכות נערה בתולה א:טו",
+              "sourceRef": "Virgin Maiden 1:15"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בא עליה ומתה</strong> - לא הספיק האב להעמידו בדין עד שמתה:",
+              "ref": "Rashi on Ketubot 38b:9:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:ט:א",
+              "sourceRef": "Rashi on Ketubot 38b:9:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומילתא דפשיטא ליה לאביי מבעיא ליה לרבא לפום לישנא בתרא דמר בר רב אשי דבעי אם מתה לאידך לישנא קמאי פשיט' ליה ולהכי שאין מיתה משוי בוגרת לאלתר וכששהתה לעמוד עד שבגר בקבר הוא דמבעיא אם יש בגר בקבר ופקע אב או לא וכן פירש\"י ז\"ל דבעי רבא יש בגר בקבר או אין בגר בקבר וכן פי' כגון שמתה קודם שעמדה בדין בעודה נערה ובגרה בקבר ודבנה הוה או דלמא אין בגר בקבר דאביה הוה. הקשו תוספת למאי דקס\"ד השתא דמבנה הוה ממש קאמר הא היכי אפשר דהא ע\"כ מיירי כי מתה קודם העמדה בדין וקי\"ל דאין אדם מוריש קנס לבניו קודם העמדה בדין וכדתנן לקמן לא הספיקה לעמוד בדין עד שבגרה או עד שמת האב הרי הוא של עצמה אלמא אע\"פ שהקנס ראויה היה לאביה כשמת כיון שמת קודם העמדה בדין א\"כ מורישו לבניו וכ\"ש בזו כי כשמתה לא היה ראויה לה אלא לאביה. ותירץ ר\"י ז\"ל דדוקא בקנס דזוכה האב בבתו אינו מורישו לבניו כדלקמן לפי שאין אדם מוריש זכות שיש לו בקנסותיה לבנות אבל בקנס שיש לאדם מחמת עצמו מורישו לבניו אפילו קודם העמדה בדין דיורש כרעא דאביה הוא וכדתנן בפרק קמא גנב משל אביו וטבח ומכר ואח\"כ מת אביו משלם תשלומי ארבעה וחמשה ואוקימנא התם כשלא עמד בדין גבי ההיא דבעי' מיניה רב נחמן גנב שור של טבחים וטבחו והודה לאחד מהם מהו. והא דאמרינן באידך לישנא יש בגר בקבר ופקע אבל לא דפקע לגמרי דהא כיון דלית לה בן אביה יורשה ואיהי שפיר מוריש קנסיה ליורשיה אלא הכי קאמר ופקע זכותיה דאב דאית ליה מדינא דנפשה ונפקא מיני' דאי מדין ירושתה בעלי חובותיה גובין ממנו ואי מדין זכותי' אין חובותיה גובין ממנה ואפשר דאי מדין ירושתה אתא עלה שאם מחלה לו מחיי' אין לו ירושה כלום דאע\"ג זוכה בקנס עד עכשיו והאי אגלאי מילתא למפרע דדידה בעי מהוי ומחילתה מחילה ורבי' ז\"ל סובר דבשום קנס אין אדם מוריש לבניו קודם העמדה בדין וההיא דפ\"ק אפי' כשעמד בדין אפילו אמסקנא כדהוה ס\"ד מעיקרא אלא דלא פירש לה תלמידא ואע\"ג דלא אמר ולטעמיך טובא איכא בתלמודא דמצי למימר הכי ולא קאמר וכדפרישית התם בס\"ד והכא הפי' יש בגר בקבר ודבנה הוי ונקט האי לישנא משום בושת ופגם דהוי בנה ממש דממון הוא ולגבי קנס נקט ליה לאפוקי דלא הוה דאב ומשום דלא קים ליה שפיר אדם מוריש קנס לבניו אם לא ולא נחית נפשיה השת' בהאי עניינא ובהאי פלוגתא בירושלמי הוא בין אמוראי אם אדם מוריש לבניו שאר קנסות או לא ואפשר בהא נמי הוה פלוגתא דאמוראי בתלמודא דילן דרבא ורב נחמן בפרק מרובה וכן רבא כרבה דאדם מוריש שאר קנסות לבניו אבל אביי ורבא דלקמן פי' נערה משמע דסבירא להו דבשום קנס אין אדם מוריש לבניו דהא סתמא נקטינן ליה או אפשר כיון דלקמן רהטא סוגיא כרבא ואביי דאין אדם מוריש קנס לבניו ואשכחן מאן דפליג עלה בהדיה ולא מוקמינן לרבא ורב נחמן בפלוגתא מכיון דלא פירש לה תלמודא דתהוי פלוגתא ואיכא לפרושי סוגין דידהו באופן דלא תפלוג על אביי ורבא וכן עיקר:",
+              "ref": "Ritva on Ketubot 38b:3",
+              "sourceHeRef": "ריטב\"א על כתובות ל״ח ב:ג",
+              "sourceRef": "Ritva on Ketubot 38b:3"
+            },
+            {
+              "en": "",
+              "he": "<b>אמר אביי בא עליה ומתה פטור.</b> פירוש ומתה קודם שעמדה בדין וכן כתיב ונתן העמדה בדין שנתחייב לתת ע\"פ ב\"ד שאומרים ליתן לאבי הנערה ולא לאבי המתה פירש\"י ז\"ל וליכא למימר הכא הנערה שהיתה כבר וכדדרשינן לקמן גבי סרחא ולבסוף בגרה דא\"כ לשתוק ולכתוב ונתן לאביה אלא ודאי לא אצטריך קרא אלא למעוטי מתה אבל התם אצטריך קרא דכי נמי הנערה שהיתה כבר דאי לא אנא הוה אמינא דמשעת הדין בפי' דתהוי נערה וכדבעי לפרושי התם בס\"ד:",
+              "ref": "Ritva on Ketubot 38b:2",
+              "sourceHeRef": "ריטב\"א על כתובות ל״ח ב:ב",
+              "sourceRef": "Ritva on Ketubot 38b:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר אביי בא עליה ומתה פטור שנאמר ונתן לאבי הנערה ולא לאבי המתה ואע\"ג דהך מילתא מיבעיא ליה לרבא כיון דלאביי פשיטא ליה אזלינן בתר פשיטותא דאביי. בא עליה עד שלא נתארסה ונתארסה קנסה לאביה דאכתי לא נפקא מרשות האב כדתנן <span class=\"parenthesized\">(בנדרים דף סו:)</span> נערה המאורסה אביה ובעלה מפירין נדריה אבל אם בא עליה ואח\"כ נשאת או בגרה קנסה לעצמה דנשואין ובגרות מפקי מרשות האב והוא שלא עמד בדין קודם בגרותה או קודם נישואיה אבל אם עמד בדין קנסה לאביה הוא:",
+              "ref": "Rosh on Ketubot 3:5:2",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות ג:ה:ב",
+              "sourceRef": "Rosh on Ketubot 3:5:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": [
+                "One who seduces a virgin of Israel before she reaches majority age, which is from three years and onward (Tur, the Rosh) pays embarrassment, blemishing and a fine. And if he rapes her he also pays the pain. And if the seducer married her he need not pay the fine.",
+                "A rapist or a seducer are judged by three judges, as long as they were ordained in the land of Israel. And now when there are no such ordained judges, we excommunicate them until they appease their fellow. And when they give an amount of money to him that is appropriate, we release their excommunication. And as for a daughter, as long as she is in her father's domain, her father get's everything (ibid). See Tur in this paragraph who discussed this matter at length, and the Shulkhan Arukh abbreviated them, for this is not common.",
+                "One who rapes a virgin must marry her, as long as she and her father so desire. Even if she is lame or blind. And he may never divorce her except with her consent. Therefore, he need not write her a ketubah. But if he transgressed and divorced her, they force him to remarry her.",
+                "If she was prohibited to him, even derabanan, he may not marry her. Also, if he marries her and he finds some sexual impropriety, he must divorce her. Hagah: If an evil report goes out about her, for instance witnesses came and testify that she asked them to engage in fornication, she gets no fine. But if it is just a rumor that a bad name went out about her, she doesn't lose the fine (Tur). If he rapes her and then seduces her, it is called rape, even though afterward she agreed [to have relations] with him (Maharik, root 129).",
+                "One about whom it has been claimed [that he had relations] with an unmarried woman, there are those who say that he shouldn't marry her because of the bad talk [that will result] for it looks like they are confirming the rumor. But there are those that say it is a mitzvah to marry her. Hagah: The first reasoning is the main one. And if there is fear that she will go out to an \"evil culture\" (i.e. marry out of Judaism), he may marry her. And all of this refers to a simple rumor, but if he certainly had relations with her, it is a mitzvah to marry her, but we don't enforce that (ibid). But if a rumor went out concerning that she had relations with two men, the first only a rumor and the second added to her insult, the second has a mitzvah to marry her. But if the rumor is of equal strength with regard to both, one is married and one is not married, the second has a mitzvah to marry her (ibid). See above siman 22, whether she is trustworthy in this matter. A prostitute that was requested of one who promised to pay her a price and he denies it, he must take an oath as is true in other suits (Ribash, siman 41). This is what the Torah obligated the rapist and the seducer to pay money, when it just happened. But a father is not allowed to give his daughter to be a harlot, and about this it is written, \"Do not defile your daughter to make her a harlot\" (Leviticus 19:29). And anyone who prepares herself to be a harlot, whether on her own accord or her father's is considered a \"kedeshah\" and there is no distinction in this matter between a virgin and a non-virgin. And a court may fine prostitutes in order to erect a fence. And it happened with one who fornicated with a non-Jew, that they cut her nose off, in order to disfigure her (Responsa of the Rosh 18)."
+              ],
+              "he": [
+                "<b>הלכות אונס ומפותה ובו ה\"ס:</b><br>המפתה בתולת ישראל <span class=\"hebrew-emphasis\"> (עד שלא תבגר והיא מבת ג' ואילך) (טור הרא\"ש) </span> משלם בושת ופגם וקנס ואם אנסה משלם עוד צער <span class=\"hebrew-emphasis\"> (ואם נשאה המפתה אינו צריך ליתן קנס) (בטור):</span>",
+                "אונס ומפתה דנין אותה בג' דיינים ובלבד שיהיו סמוכים בא\"י והאידנא שאין סמוכים מנדין אותו עד שיפייס את חבירו וכד יהיב ליה שיעור מאי דחזי למיהב שרינן ליה <span class=\"hebrew-emphasis\"> (והבת כל זמן שהיא ברשות אביה הכל לאביה (גם זה שם) ועיין בטור סימן זה שהאריך בדינים אלו והרב המחבר קצר בהם שאינן שכיחין):</span>",
+                "האונס את הבתולה חייב לישא אותה ובלבד שהיא ואביה יהיו מרוצים אפי' היא חיגרת או סומא ואין רשאי להוציאה לעולם אלא לרצונה לפיכך אינו צריך לכתוב לה כתובה ואם עבר והוציאה כופין אותו להחזירה:",
+                "היתה אסורה לו אפילו איסור דרבנן אינו רשאי לישא אותה וכן אם נשאה ומצא בה ערות דבר יגרשנ': <span class=\"hebrew-emphasis\">הגה יצא עליה שם רע כגון שבאו שנים והעידו עליה שתבעתו לזנות אין לה קנס אבל משום קול בעלמא על שם רע שיצא עליה לא הפסידה הקנס (טור) בא עליה באונס ואח\"כ פתה אותה מקרי מאנס אע\"ג דאח\"כ נתרצית לו (מהרי\"ק שורש קכ\"ט):</span>",
+                "הנטען על הפנויה י\"א שלא לכנוס משום לזות שפתיים שנראה שמחזיקים הקול וי\"א שמצוה לכנוס: <span class=\"hebrew-emphasis\">הגה והסברא ראשונה עיקר ובמקום שיש לחוש שלא תצא לתרבות רעה מותר לכונסה וכ\"ז בקול בעלמא אבל אם ודאי בא עליה מצוה לכונסה אבל אין כופין על כך (שם) ואם נטענת משנים מראשון אינו אלא קול בעלמא והשני הוסיף בפגמה השני מצוה לכונסה ואם נטענת משניהם בשוה האחד נשוי והשני אינו נשוי מצוה על שאינו נשוי לכונסה (ג\"ז שם) וע\"ל סי' כ\"ב אם היא נאמנת עליו זונה שתבעה לאחד שנדר לה דבר באתננה והוא כופר צריך לישבע כמו בשאר תביעות (ריב\"ש סי' מ\"א) זהו שחייבה תורה לאונס ומפותה ממון היינו אם כבר נעשה המעשה במקרה אבל אסור לאב ליתן בתו לזנות וע\"ז נאמר לא תחלל בתך להזנותה וכל המכונה עצמה לזנות בין מדעתה בין מדעת אביה ה\"ז קדשה ואין חלוק בזה בין בתולה לבעולה (טור בשם הרמב\"ם) ורשאין הב\"ד לקנוס הזונות כדי לעשות גדר ומעשה באחת שזנתה עם הכותי וחתכו את חוטמה כדי לנוולה (תשו' הרא\"ש כלל י\"ח):</span>"
+              ],
+              "ref": "Shulchan Arukh, Even HaEzer 177",
+              "sourceHeRef": "אבן העזר קע״ז - הלכות אונס ומפותה",
+              "sourceRef": "Even HaEzer 177"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> <b>אמר אביי: בא עליה,</b> על נערה, באונס <b>ומתה</b> לפני שנתחייב בדין — הרי הוא <b>פטור</b> מקנס, <b>שנאמר: \"ונתן</b> האיש השוכב עמה <b>לאבי הנערה\"</b> (דברים כב, כט), ומלשון הכתוב משמע — <b>ולא לאבי מתה.</b> ומעירים: <b>מלתא דפשיטא ליה</b> <span class=\"hebrew-emphasis\">[דבר</span> שהיה <span class=\"hebrew-emphasis\">פשוט לו]</span> <b>לאביי, מיבעיא ליה</b> <span class=\"hebrew-emphasis\">[</span>היה <span class=\"hebrew-emphasis\">מסופק לו]</span> <b>לרבא.</b>",
+              "ref": "Steinsaltz on Ketubot 38b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:ט",
+              "sourceRef": "Steinsaltz on Ketubot 38b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Rashi explains later that Rava’s dilemma exists neither according to the first version nor according to the second version of Rava’s teaching, as in both versions he clearly maintains that death does not release the rapist from the obligation to pay the fine. Rather, the dilemma raised is according to Mar bar Rav Ashi’s explanation of Rava’s statement.",
+              "he": "הראשונים שואלים: הרי לא בכל מקום דרשו באופן זה, שיש פעמים שדרשו \"הנערה\" — זו שהיתה. וראה בתוס' (ד\"ה לאבי) וכן ברא\"ש ועוד שמסבירים כי כאן אם היה הכתוב אומר רק \"לאביה\" היה הדבר מובן לעניינו, ומשום כך התוספת של המלה \"הנערה\" היא דווקא הנערה הקיימת במעמדה זה. ובפנ\"י שואל: הלא צריך הכתוב לדייק \"הנערה\" — ולא לאבי הבוגרת! ואפשר לתרץ, כי שתי הדרשות יש להן תוכן אחד — שהזמן הקובע לגבי זכות האב הוא כאשר האונס עומד לדין, ואם אז אינה עוד במצבה הקודם — פקעה זכותו.",
+              "ref": "Steinsaltz comment #1 on Ketubot 38b:9",
+              "sourceHeRef": "מִיבָּעֲיָא לֵיהּ לְרָבָא",
+              "sourceRef": "Raised as a dilemma to Rava"
+            },
+            {
+              "en": "",
+              "he": "רש\"י להלן מסביר כי ספק זה של רבא אינו לא לפי לשון ראשונה ולא לפי לשון שניה בדברי רבא, שבשתיהן ברור שהוא סבור כי אין המיתה מפקיעה את חיוב הקנס. אלא רק לפי שיטתו של מר בר רב אשי בדברי רבא.",
+              "ref": "Steinsaltz comment #2 on Ketubot 38b:9",
+              "sourceHeRef": "מיבעיא ליה לרבא",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "בא על הבת ומתה קודם שיעמוד בדין — הרי הוא פטור מן הקנס. וכדברי אביי, שאין דוחים מה שהיה פשוט לו מפני ספקו של רבא (כ\"מ). (רמב\"ם ספר נשים הלכות נערה בתולה פ\"א הט\"ו. טור אה\"ע סימן קעז).",
+              "ref": "Steinsaltz comment #3 on Ketubot 38b:9",
+              "sourceHeRef": "בא עליה ומתה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לאבי הנערה ולא לאבי מתה</strong> - וא\"ת דבפרק נערה לקמן <span class=\"parenthesized\">(כתובות דף מה:)</span> גבי סרחה ולבסוף בגרה תידון בסקילה דרשינן הנערה שהיתה כבר ויש לומר דהתם מענינא דקרא והכא מענינא דקרא והתם ודאי אתיא לחייבה דאי לפוטרה לשתוק קרא מיניה ואנא ידענא דלא הויא בסקילה דלאו נערה היא והכא לחיובא דקנס לא אצטריך דמסברא מיחייב אשעת ביאה ואי אפשר לפוטרו בולא כלום הלכך אתא לפוטרו:",
+              "ref": "Tosafot on Ketubot 38b:9:1",
+              "sourceHeRef": "תוספות על כתובות ל״ח ב:ט:א",
+              "sourceRef": "Tosafot on Ketubot 38b:9:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "the man who lay with her shall pay the girl’s father fifty [shekels of] silver, and she shall be his wife. Because he has violated her, he can never have the right to divorce her.",
+              "he": "וְ֠נָתַ֠ן הָאִ֨ישׁ הַשֹּׁכֵ֥ב עִמָּ֛הּ לַאֲבִ֥י <span class=\"mam-kq-trivial\">הַֽנַּעֲרָ֖</span> חֲמִשִּׁ֣ים כָּ֑סֶף וְלֽוֹ־תִהְיֶ֣ה לְאִשָּׁ֗ה תַּ֚חַת אֲשֶׁ֣ר עִנָּ֔הּ לֹא־יוּכַ֥ל שַׁלְּחָ֖הּ כׇּל־יָמָֽיו׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Deuteronomy/22",
+              "ref": "Deuteronomy 22:29",
+              "sourceHeRef": "דברים כב:כט",
+              "sourceRef": "Deuteronomy 22:29"
+            },
+            {
+              "en": "and they shall fine him a hundred [shekels of] silver and give it to the girl’s father; for the man has defamed a virgin in Israel. Moreover, she shall remain his wife; he shall never have the right to divorce her.",
+              "he": "וְעָנְשׁ֨וּ אֹת֜וֹ מֵ֣אָה כֶ֗סֶף וְנָתְנוּ֙ לַאֲבִ֣י הַֽנַּעֲרָ֔ה כִּ֤י הוֹצִיא֙ שֵׁ֣ם רָ֔ע עַ֖ל בְּתוּלַ֣ת יִשְׂרָאֵ֑ל וְלֽוֹ־תִהְיֶ֣ה לְאִשָּׁ֔ה לֹא־יוּכַ֥ל לְשַׁלְּחָ֖הּ כׇּל־יָמָֽיו׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+              "link": "/Deuteronomy/22",
+              "ref": "Deuteronomy 22:19",
+              "sourceHeRef": "דברים כב:יט",
+              "sourceRef": "Deuteronomy 22:19"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said:</b> If <b>one had intercourse with</b> a young woman, <b>and she died</b> before he was sentenced, he is <b>exempt</b> from paying the fine, <b>as it is stated: “And</b> the man who lay with her <b>shall give to the father of the young woman”</b> (Deuteronomy 22:29), from which it is inferred, <b>and not to the father of a dead</b> girl. The Gemara comments: This <b>matter that</b> was <b>obvious to <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span></b> was <b>raised as a dilemma to <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>.</b>",
+      "he": "אָמַר <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אַבָּיֵי</span>: בָּא עָלֶיהָ וּמֵתָה — פָּטוּר, שֶׁנֶּאֱמַר: ״וְנָתַן לַאֲבִי הַנַּעֲרָה״ — וְלֹא לַאֲבִי מֵתָה. מִלְּתָא דִּפְשִׁיטָא לֵיהּ לְאַבָּיֵי, מִיבַּעְיָא לֵיהּ לְרָבָא.",
+      "ref": "Ketubot 38b:9",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בֶּגֶר</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, בְּגַר 1\" href=\"/Jastrow,_בְּגַר.1\">preceding words</span>) <i>age of majority</i> (of females). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Kiddushin 1:2:13\" href=\"Jerusalem_Talmud_Kiddushin.1.2.13\">Yerushalmi Kiddushin I, 59ᵇ</span> <span dir=\"rtl\">ימות הב׳</span> the period of majority. Yerushalmi Bava Batra IX, beginning 16ᵈ. <span class=\"refLink\" data-ref=\"Kiddushin 4a:18\" href=\"/Kiddushin.4a.18\">Kiddushin 4ᵃ</span> <span dir=\"rtl\">ב׳ דאיילונית</span> majority of a barren (or wombless) woman (who has no signs of maturity and becomes of age at twenty years). <span class=\"refLink\" data-ref=\"Ketubot 38b:10\" href=\"/Ketubot.38b.10\">Ketubot 38ᵇ</span> <span dir=\"rtl\">יש ב׳ בקבר</span> can the legal consequences of becoming of age enter after the woman’s death? [Other form: <span class=\"refLink\" data-ref=\"Jastrow, בּוֹגֶר 1\" dir=\"rtl\" href=\"/Jastrow,_בּוֹגֶר.1\">בּוֹגֶר</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Ketubot 5:3:2\" href=\"Jerusalem_Talmud_Ketubot.5.3.2\">Yerushalmi Ketubot V, 29ᵈ</span> <span dir=\"rtl\">לאחר בּוֹגְרָהּ</span> after her becoming of age.] V. <span class=\"refLink\" data-ref=\"Jastrow, בַּגְרוּת 1\" dir=\"rtl\" href=\"/Jastrow,_בַּגְרוּת.1\">בַּגְרוּת</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, בֶּגֶר 1",
+              "sourceHeRef": "מילון יסטרוב, בֶּגֶר א׳",
+              "sourceRef": "Jastrow, בֶּגֶר 1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>יש בגר בקבר ודבנה הוי.</b> משמע מהכא דקנס ממון הוי להורישו לבניה. ואיכא למידק, דהא אמרינן בשלהי שמעתין יש בגר בקבר ופקע אב או אין בגר בקבר ולא פקע אב, ומאי שנא אב מבן, דהשתא ברא ירית אבא, אבא לא ירית ברא. ותירץ הראב\"ד ז\"ל <span class=\"parenthesized\">(בכתוב שם, והו\"ד ברמב\"ן)</span>, דמהדר קא הדר ביה נמי רבא מהאי סברא, דכל שלא עמדה בדין אינה יכולה להורישו לא לבנה ולא לאביה.<br><b></b>ויש מי שפירש <span class=\"parenthesized\">(הרמב\"ן)</span>, דהכא בשעמדה בדין ולא הספיקה לגבות עד שמתה, ואליבא דר' שמעון דאמר לקמן בפרק נערה שנתפתתה <span class=\"parenthesized\">(כתובות מא, ב)</span>, לא הספיקה לגבות עד שמת האב לעצמה, משום דלא זכתה תורה לאב אלא משעת נתינה ואילך, מדכתיב <span class=\"parenthesized\">(דברים כב, כט)</span> ונתן לאבי הנערה, והלכך קא מיבעיא ליה יש בגר בקבר ודבנה הוי, דלגבי דידה משעת העמדה זכתה ביה כדאיתא לקמן בריש פרק נערה שנתפתתה <span class=\"parenthesized\">(שם)</span>. או דלמא אין בגר בקבר ודאבוה הוי. ולקמן <span class=\"parenthesized\">(כתובות לט, א)</span> דאמר יש בגר בקבר ופקע אב, בשלא עמד בדין ודברי הכל, כך פירש הר\"ז הלוי ז\"ל. ואינו מחוור לי, דכיון דנאמרו דברים סתם, או הכא והכא בהעמדה בדין, או הכא והכא בשלא עמדה בדין. ועוד, דאי אליבא דר' שמעון, כיון דלא קיימא לן כוותיה, לא הוה בעי למסתם, והוה ליה לפרושי בעיא אליבא דר' שמעון מהו.",
+              "ref": "Rashba on Ketubot 38b:2",
+              "sourceHeRef": "רשב״א על כתובות ל״ח ב:ב",
+              "sourceRef": "Rashba on Ketubot 38b:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יש בגר בקבר</strong> - אם מתה בנערותה עד שלא עמדה בדין והגיע זמן בגרותה בקבר מי חשיב בגר או לא ולקמיה מפרש ואזיל למאי הלכתא:",
+              "ref": "Rashi on Ketubot 38b:10:1",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:י:א",
+              "sourceRef": "Rashi on Ketubot 38b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יש בגר בקבר</strong> - וכי היכי דאם לא הספיקה לעמוד בדין עד שבגרה תנן לקמן בפרק נערה שנתפתתה <span class=\"parenthesized\">(כתובות דף מא:)</span> דהרי הן לעצמה ולא לאביה והשתא נמי בגר בקבר מפקיע כח האב ובנה ירית לה אם יש לה בן:",
+              "ref": "Rashi on Ketubot 38b:10:2",
+              "sourceHeRef": "רש\"י על כתובות ל״ח ב:י:ב",
+              "sourceRef": "Rashi on Ketubot 38b:10:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דבעי</b> <span class=\"hebrew-emphasis\">[ששאל]</span> <b>רבא:</b> האם <b>יש בגר בקבר,</b> כלומר, נערה שנאנסה ולא עמד האונס בדין עד שמתה ועבר משך זמן כזה שאילו היתה חיה היתה כבר בוגרת (שקנסה לעצמה) ורק אז עמד בדין. והשאלה היא: האם כיון שהתחייב בדין בזמן שהיתה כבר צריכה להיות בוגרת אם היתה חיה, הרי הקנס ניתן לה, <b>או אין בגר בקבר</b> ודינה כנערה וקנסה לאביה. וההבדל הנובע מכאן למעשה, אם <b>יש בגר בקבר ו</b>הקנס היה שייך משום כך לה — הרי של <b>בנה הוי</b> <span class=\"hebrew-emphasis\">[הוא],</span> שהרי הוא יורש את אמו, <b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> <b>אין בגר בקבר, ו</b>הקנס, כיון שבמותה היתה נערה, של <b>אביה הוי</b> <span class=\"hebrew-emphasis\">[הוא].</span>",
+              "ref": "Steinsaltz on Ketubot 38b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ל״ח ב:י",
+              "sourceRef": "Steinsaltz on Ketubot 38b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "There are different aspects to the definition of the daughter as a grown woman, both in terms of the changes to her body and in terms of her legal status. The dilemma of whether there is achievement of grown-woman status in the grave is not in terms of her physical state but in terms of her legal status. More specifically, it is with regard to the fact that a grown woman is entirely removed from her father’s authority. The problem stems from the fact that a young woman is transformed into a grown woman six months after puberty, which is the time at which she becomes a young woman. The dilemma is as follows: Is the daughter’s exit from her father’s authority dependent on her development during those six months, which would lead to the conclusion that there is no achievement of grown-woman status in the grave; or is it merely dependent on the passage of time, and once the six months pass she is no longer subject to her father’s authority, leading to the conclusion that there is achievement of grown-woman status in the grave (<i>Birkat Avraham</i>)?",
+              "he": "להגדרתה של הבת כבוגרת יש צדדים שונים, הן מבחינת השינויים במצבה הגופני, והן מבחינת מעמדה המשפטי. השאלה \"אם יש בגר בקבר\" בודאי אינה עוסקת בהגדרת הבגרות במובנה הגופני, אלא מבחינה משפטית בלבד, וביתר יחוד — בעובדה שהבוגרת מופקעת לגמרי מרשותו של האב. ועיקרה של הבעיה נובע מכך שהבת נחשבת כבוגרת אחרי שעובר זמן קצוב (שישה חדשים) מאז נעשתה נערה. וצדדי השאלה הם: האם הפקעת הבת מרשות האב תלויה בכך שהיא ממשיכה להתפתח במשך שישה חדשים (ולפי זה — אין בגר בקבר), או שמא הדבר תלוי בזמן בלבד, שאחרי עבור הזמן הקצוב יוצאת הנערה מרשות אביה, ואז יש מקום לדבר גם על בגר בקבר (ברכת אברהם).",
+              "ref": "Steinsaltz comment #1 on Ketubot 38b:10",
+              "sourceHeRef": "יֵשׁ בֶּגֶר בַּקֶּבֶר",
+              "sourceRef": "Is there achievement of grown-woman status in the grave"
+            },
+            {
+              "en": "The Meiri notes that this son must have been born out of wedlock, as had the daughter been married, her marriage itself would have fully removed her from her father’s authority, leaving him with no rights over her.  Many early commentaries question the matter of the son inheriting his mother’s fine, as it appears to contradict the principle that one does not bequeath a fine to his heirs, as stated at the start of the next chapter. <i>Tosafot</i> discuss this issue at length and provide various resolutions. One approach, attributed to Rabbeinu Yitzĥak, and cited by the Ritva and other early commentaries, is that the principle that one does not bequeath a fine to his heirs refers only to a fine that is not his by right, but which he receives due to actions done to others. Consequently, a father’s right to the fine paid by the man who raped his daughter is not inherited by his sons. However, since the rape victim is herself entitled to the fine, she does bequeath it to her heirs. <i>Tosafot</i> explain that the discussion here is with regard to payments accompanying the fine, e.g., compensation for humiliation and degradation, and not the fine itself. These are standard monetary payments and therefore are bequeathed to others.  Rabbi Aharon HaLevi states, in the name of Rabbi Zeraĥya HaLevi, that this statement in the Gemara is according to Rabbi Shimon’s opinion that if she became a grown woman after the trial she receives the fine herself. Here too, she died after the trial but before she became a grown-woman. The dilemma then is whether she is considered to have achieved grown woman status in the grave, and therefore the money is transferred to her heirs, or perhaps she did not achieve that status, and the money remains her father’s. The Rashba rejects this approach. A different interpretation is suggested by the Ramban. He contends that the statement: It is her son’s, does not mean literally that it belongs to her son, as a fine cannot be bequeathed. Instead, it means that if there is achievement of grown-woman status in the grave the father no longer has rights to it, as she would have received it, which would have afforded her the theoretical right to give it away or bequeath it. The Ra’avad suggests simply that initially, Rava maintained that a person can bequeath his rights to a fine, and the Gemara could have responded by challenging that assumption. However, the Gemara cited better reasons for rejecting the dilemma. Many early commentaries, including the Ramban and the Rashba, believe that the Ra’avad’s answer is the most suitable in the context of the discussion in the Gemara.",
+              "he": "המאירי מעיר כי צריך לפרש שבן זה נולד מזנות ולא מנישואין. כי אם אמנם נישאה הבת, הרי בנישואין עצמם היא יוצאת כבר לגמרי מרשות אביה, ואין לו עוד כל זכות בה.",
+              "ref": "Steinsaltz comment #2 on Ketubot 38b:10",
+              "sourceHeRef": "דִּבְנָהּ הָוֵי",
+              "sourceRef": "It is the property of her son"
+            },
+            {
+              "en": "",
+              "he": "הרבה ראשונים תוהים על הסברה הזו, שהרי היא סותרת כלל ידוע שאין אדם מוריש קנס לבניו (כמבואר להלן בראשית פרק רביעי, שאין האב מוריש לבניו את זכות הקנס וכיוצא בזה). וראה בתוס' (ד\"ה יש) שמאריכים לעסוק בבעיה זו ומציעים לה פתרונות שונים. שיטה אחת בשם ר\"י (ומובאת בריטב\"א ועוד ראשונים) היא: שמה שאמרו שאין אדם מוריש לבניו קנס, הרי זה דווקא בקנס שאין הוא זכאי לו בעצמו אלא מקבלו בשל אחרים, ומשום כך אין זכות האב בקנס (שהיא מכוח אונס הבת) יכולה לעבור בירושה לבניו. אבל קנס שהמוריש עצמו זכאי לו, כגון דמי הקנס לאנוסה עצמה — עוברים בירושה. שיטה אחרת בתוס' היא, שכאן מדובר לא בקנס עצמו אלא בחיובי תשלום אחרים, בושת ופגם, הבאים עם הקנס שהם כשאר חיובי ממון ועוברים בירושה. והרא\"ה (בשם הרז\"ה) מסביר שצריך להסביר זאת כדעת ר' שמעון שאם עמדה בדין עם האונס ובגרה — הקנס הוא שלה. ואף כאן מדובר כשעמדה בדין ומתה לפני שבגרה, והשאלה היתה האם יש בגר בקבר וממון זה עובר ליורשיה הישירים, או שמא אין בגר בקבר והממון הוא ברשות האב (וראה ברשב\"א הדוחה שיטה זו). והרמב\"ן מציע פירוש אחר, שמה שאמרו \"דבנה הוי\" אין הכוונה שהוא שייך ממש לבנה (שהרי, כאמור, אין הוא יורש קנס), אלא משמעו: האם אומרים שיש בגרות בקבר ולכן הופקע הקנס מרשות האב, והיא עצמה היתה צריכה לקבלו והיתה לה זכות לתתו או להורישו. והראב\"ד מתרץ בפשטות, שמתחילה סבור רבא שאדם מוריש גם זכותו בקנס, ואף שאין זו הנחה נכונה דוחים את השאלה מפני טעמים טובים יותר. והרבה ראשונים (הרמב\"ן, הרשב\"א ועוד) סבורים, שפתרון זה הוא המתאים ביותר למהלך הסוגיה.",
+              "ref": "Steinsaltz comment #3 on Ketubot 38b:10",
+              "sourceHeRef": "ודבנה הוי",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יש בגר בקבר ודבנה הוי</strong> - וא\"ת היכי מצי למימר שתהא מורשת קנס לבנה הא אין אדם מוריש קנס לבניו כדאמרינן ריש פרק נערה לקמן <span class=\"parenthesized\">(כתובות דף מב:)</span> ובסמוך נמי אמר יש בגר בקבר ופקע אב ואי אדם מוריש קנס כי יש בגר בקבר נמי לא פקע אב ויהא לו מתורת ירושה ומיהו ההיא דבסמוך יש לדחות דנפקא מינה אם היא חייבת לאחרים דאם יש בגר בקבר פקע אב אע\"ג דאדם מוריש קנס דנוטלין בעלי חובות אבל אם אין בגר בקבר אין נוטלין בעלי חובות כלום דלא פקע אב והקנס הוא שלו ולא שלה ויש לומר דהכא ה\"מ לאקשויי והא אין מורשת קנס לבנה אלא דעדיפא מיניה פריך ור\"י מוקי הך בעיא דהכא בבושת ופגם דממונא הוי ויכולה להוריש ואע\"ג דתנן בריש נערה <span class=\"parenthesized\">(כתובות מא:)</span> לספיקה לעמוד בדין עד שמת האב הרי הן של עצמה ואבושת ופגם נמי קאי מדקתני הרי הן משמע דאין יכול להוריש בושת ופגם ואור\"י דלענין זה ודאי איתקוש בושת ופגם לקנס דכתיב תחת אשר ענה מכלל דאיכא בושת ופגם דלמי שזה ניתן זה ניתן אבל למילי אחריני לא איתקוש דהא בושת ופגם משלם ע\"פ עצמו וקנס אינו משלם ע\"פ עצמו אבל הקשה ריב\"ם דאמרינן במרובה <span class=\"parenthesized\">(ב\"ק דף עא: ושם)</span> א\"ל חמשה בקר אמר רחמנא ולא חמשה חצאי בקר איתיביה גנב משל אביו וטבח ומכר ואח\"כ מת אביו משלם תשלומי ד' וה' והא הכא כיון דמת אביו זכה ליה במנתא דידיה וקתני דמשלם תשלומי ד' וה' ומשני הב\"ע שעמד בדין משמע דאי לאו משום דחמשה בקר ולא חמשה חצאי בקר הוה אתי ליה שפיר ולא הוה צריך לאוקומי בשעמד בדין אלמא דאדם מוריש קנס לבניו ומיהו יש לדחות דה\"מ למימר וליטעמיך אבל קשה דמסיק לצפרא א\"ל חמשה בקר אמר רחמנא ואפי' חמשה חצאי בקר א\"ל מאי שנא רישא ומאי שנא סיפא פירוש דקתני גנב משל אביו ומת ואח\"כ טבח ומכר פטור א\"ל רישא קרינן ביה וטבחו כולו באיסורא סיפא לא קרינן וטבחו כולו באיסורא משמע דאי קרינן ביה וטבחו כולו באיסורא חייב אע\"ג דלא עמד בדין דאדם מוריש קנס לבניו דאי בעמד בדין לא מחייב קנס דשלו הוא טובח ומוכר ותי' ר\"י דמיירי דעמד בדין ואמרו חייב אתה ליתן לו דאם הוא טובח אחרי כן חייב כדאמרינן בהגוזל <span class=\"parenthesized\">(שם דף קו: ושם)</span> ור\"י הלבן תירץ דההיא דפרק נערה איירי לענין קרבן שבועה והכי פירושו דסוגיא דהתם מודינא לך לענין קרבן שבועה דרחמנא פטריה מוכחש בעמיתו בפקדון וכי קאמינא דממון הוי להורישו לבניו שאם יתבעוהו לאחר מיתת אביהן קנס שהיה חייב לאביהן שהעמידו בדין ונתחייב וכפר ונשבע והודה הואיל וכשנפל ליורשין כבר היה ממון שכבר עמד בדין ולא היה יכול להודות ולהפטר א\"כ הוי דומיא דפקדון דקרא ומחייב קרבן שבועה איתיביה ר\"ש אומר כו' דאחין הוא ופירוש שאם אינו לאחין איך מתחייב הכופר קרבן שבועה על טענותם והא לאו בעל דברים דידהו הוא אלא ש\"מ דאחין הוא ומסיק כי קאמר רבה דממון הוא להורישו לבניו בשאר קנסות לענין חיוב קרבן שבועה ומסיק דאצטריך וכחש לעמדה בדין ובגרה ואחר כך מתה דמינה קא ירית מכל מקום עיקרו קנס מיקרי לגבי דידה ודידיה ולא דמי לשאר קנסות דמוריש לבניו דלגבי בניו לא הוה קנס כלל ומיהו לשון להורישו לבניו לא משמע כפירוש זה. [ועיין תוספת בבא קמא עב. ד\"ה סיפא]:",
+              "ref": "Tosafot on Ketubot 38b:10:1",
+              "sourceHeRef": "תוספות על כתובות ל״ח ב:י:א",
+              "sourceRef": "Tosafot on Ketubot 38b:10:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>As <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> raised a dilemma: Is there</b> achievement of <b>grown-woman status in the grave or is there not</b> achievement of <b>grown-woman status in the grave?</b> The <i>halakha</i> is that if a young woman is raped and the rapist did not pay the fine until she became a grown woman, the rapist pays the fine to her and not to her father. <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>’s dilemma is in a case where a young woman dies and her rapist was convicted only after the time elapsed that were she alive she would have reached grown-woman status. <b>Is there</b> achievement of <b>grown-woman status in the grave, and</b> therefore she is entitled to the fine and <b>it is</b> the property of <b>her son</b> as his mother’s heir? <b>Or perhaps there is no</b> achievement of <b>grown-woman status in the grave, and the fine is</b> the property of <b>her father,</b> as she was a young woman when she died.",
+      "he": "דְּבָעֵי <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: יֵשׁ בֶּגֶר בַּקֶּבֶר, אוֹ אֵין בֶּגֶר בַּקֶּבֶר? יֵשׁ בֶּגֶר בַּקֶּבֶר — וְדִבְנָהּ הָוֵי, אוֹ דִלְמָא: אֵין בֶּגֶר בַּקֶּבֶר, וּדְאָבִיהָ הָוֵי.",
+      "ref": "Ketubot 38b:10"
+    }
+  ],
+  "title": "Ketubot 38b",
+  "titleHebrew": "כתובות לח,ב",
+  "topics": []
+}

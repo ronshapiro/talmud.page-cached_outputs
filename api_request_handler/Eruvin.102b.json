@@ -1,0 +1,1529 @@
+{
+  "id": "102b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בשיפועה</strong> - מכנגד אמצעית גגה עד מקום ששפת יריעה כלה שם לא הרחיב טפח דהוי כולה כדופן ואין כאן אהל כלל אבל הרחיבה כל דופן ודופן באלכסונה טפח הוי ההוא אלכסון אע\"פ שהוא משופע קרוי אהל כרבנן דפליגי אדרבי אליעזר במסכת סוכה <span class=\"parenthesized\">(דף יט:)</span> כך שמעתי וקשיא לי איזו מטה שאין ברחבה שני טפחים או ג' חסר משהו שיהיה בגגה פחות מטפח ושני שיפועיה כל אחד פחות מטפח וי\"ל שהמטה רחבה כמשפטה ונקליטין הרבה יוצאין הימנה לשני ראשיה ועולין למעלה סדורין אחד נמוך ואחד גבוה <span class=\"image-ref-container\"><span class=\"image-ref-text\">(*):</span><span class=\"image-ref\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABpCAIAAAClN9qZAAAACXBIWXMAAA50AAAOdAFrJLPWAAAACXZwQWcAAABhAAAAaQBiRbEYAAAeDklEQVR42s1dB3wVRf7fJCgBQRBBEFBqIODRA1JPQHoggoDggUdVSuAOpSlNBKWIVBHRUylHRxAMoDQTeovUBBJSII00UkgvW/4zO/vmzU577xT1vx997Ns3O+U7v/n1mSiGYei6bvwBF6pUg9XbLtSi6KJqAE9Ue3lN0/Q/91Jwj4VDFf2qG7oAGvIFXYoIHyMCBM1wgemfgRF3YiUY6cwnF1PyLUnzmiF7CMDSzKn46zHCMHHXHZeObNQh+Am9u3Xbf3Pz83QGQfJranoa2xxYU385BXHWGuqWa0ZDkhWDkpMKzEtRFA8PD/Dp07jR5CmB+PXWfm0UTw9cBl+R92JY8F1ysT8co9/Mksn/WPpCrERhLvBTqaai+wcpybCMh/nFwypgA8U+K38NRm7SjptizMJLdw7s0aNHtyPu7Ni1c/fePQEDX0MQgAsQV5Wqz2KmFvTTkVlzPujZtw8o8MvpU/+/MHJnQbE0LxOCTA1IWmt2Fo/pBcty9LVQK121bi18aGdefzE/spGCzlNy7CJN5y46SjbZRw6pVXN8NXkWxgjjgDHtNzDgD5VlbiKOh6A4J/43KZIqoRCRvcAE1atPb91BSuC6Hx+H6Wj1mnVOwnQgOP+jhd9u2czVJP40vCg1VWHFh4RDU2DqBBGRZciHiA1nZGWiV6bPnKE7MHq5Q3tSfmXmZqzb8AV4XqypSDjCzz8GJorMWdTI55Z+VGo4VwEeMKYRjqbHYOSkILtO0LFzBwTT6rVrQCtAkJnrCmI0b/6H+B5fC5d8TGkVfwIFyWlW0RkprpPLhyUiAgtnY9iAIJg0/hUNHog2XEOJiYvmqBRL/e8P7jPIWcG1/QFIuY++EyOLTQogEy06naEmrhGbnZdLzVt+fiH+WqlylWkzZmqG+ntG8psxYo1kiqwU1haTqwJcoaYSMGFJzx0npYWb5Q2SMDVCuj5GjLiGgehXim0pIkFPPbItMUaulRq6/r+b+MSlUhyNuv+dqoDEAuUCRD1x1xah6IiiPp0w00hb1GC0ZMS2NM6YVT54YtyF9pClbtnYJXrils+HKaO4absaDM82BIwJe3zY3mDLWSMGoDm0R66fhCYrhoNgxcqQWC2MheDSYCArVNw3XzkYEcRFykFudxEKhoY65yxDYeT0H4j9jdweqrpGEQ6rrP02j6viDrFxZBnFj+12rETvMCz+BRGxuLvGsfKtBYuAs6vyZEPUFLKKvs5zabkDlk13cZOCRJNJr3mJW84m4+i1RjMvjbD1DF67lBFJacmazvpquKtMwtfxpwt+ROmKqPeGXRWiFHQJR9Od3kVTJuoEHWk6F2JSGugSN5YroSa6kXhfnfyIFedcAUmpztxZYpsXtY1px+RQ9i6y2oa9FlEHuGyeclSgUbAcQOJEY2wRN3SKErV08dIlyHS4l5RAylqukcW6uhEdMSql9mrvXqjaf4wbbZthgsTIQRqCnpMiAl9RUVGZ2Vnc1cQCRJGYQhtoeKKRb9o+2oWffATG0Ln73z2ffMKD9ata5IbBUrkKqQWNhu6tMgcOHd65d8/N2+HhkRHvzZo5/6OFEibIdxljZYoh5NzifNDV8ePHYo87blriSrTJfsuYYBR/LFygeVVScPjYkYFDB0Gz03yUnv0QNLxo6WJMFxzDh8dCsJKJCaSgsDgtM4ssnJSacjH0CrUoqPqlMsFZJjUrw8u7zORJE2g+a/e7y+jIMRt8u84wyWLXvt0AjglTJhZpxaTGnJ3/CDxPTE1iGyaFi4hlIrBSUtNvhYeBScWLTlXhDJdqahnvslzeQQOk0w4ZTJ6Xr11p36XDyLH/lEtbufdZ0bm6qWoR5N2Y24hH5JcWgq9Lli0F9x07d8CvPMp+2KSpT2ZWmsj4xLOk86RB2O0buDfxiQmmSaKBJr7btAWAlZKW/Le/Nb0TeVtitZN1qsyYR44b+cORHyBYoRdIRj5n7vS4+1GUjS2qWWH4lkaWeLpiOdDjuITY7JysMW+PR3i19msFfgLQJCbdBzc5uZng4bmzwc7lpTl7qml2+W2fZ8PurgQFi4uLFcUT3L/ySpeSkqKcnOy6tWsdPLBXNAci2/CTzz4B9aD792a/CypMTUuEz5csRA/9/V+dMGGUIVYA+TFIk37gTWFRLqjUt0lD9NCncX00hg/mvg8+N2/dhEelakVwXZTk+zSskxAfY7gVzOAsvcaNfSBGumFipMybN2/QoNfKln0C/JT2MLVpEx+/ti3d9JOAYq8PGwQqWbZySVFpXlpW6q83QxFGGZkp4Cb02nnU6HPPPe3rW1dkHjhtWmahqRGRYTgWCCCo3+BF6CcsowAmDZ4A6bD/wA8Io85d2ufmZaGF9CDp/opPP7GvJo071eS1aet/Plu9DKoUpugBN4kPksw4JSDAUnCDYAKXVxll+fKlEg80vv9847paL9Qo0griU+OXrLC6BEYA8J+/4AMAE+QhUbdgnKowCzQRcvIQq+LZ+ZGtDdUcvKfZS7VULQQ3z1SpeOHSWVxm7PhxCUn38wtzcDQRCtecDHRTr97zVy4Gs6IBuT7AfZ36tVLSE1HhDxfNhZSoF+OILvhMTk4GU0KGwjdsWI+0kJ69ugYd2i/x0oOrbIUnrY7pxqy5M8m1XJCfHZ8Q5XiivfFGAGSIYZeh2ImLYP0TNEZIWGQ/eogoqKg4F9U79I1BlJbk07RRRMzt5NREUjm6fu0yqvHkiZ/A89mz/01Cg9v2Ku+FkUXB67XrVuJfPcyfoqOjWzdvoZkXet60qe+586fQWytXLQ8OOcaq/oDssguzmzT3rVazKpT3mSl1GtUh+TFo7ey54IjIW7jPzZs3OnPmKLj55ZdD4Neshwmi/BnnOC9eOguKVq8B48ugT+A+PiGGFb3gedfuXRAd3Y+LwnX9K3A8wvrAvm3gJ9wbXOD9OTObt3wJVfvejH+Dm6jYO4SHTUPwfTB3zuQpgeSUAn7U8ZUO12/+app4xTVfeG7wGwMoUo1LjOnUpb21bI3iwKkTHUE9FWP06YpP3n5ntM2g91BWrFwExdysqWRMFDuRLYzQ07j4aMyDDhzcCxhNalqSrhusVjJm3OjgkOPg5q1/Do+KvoOdauCaO3c6ukUzg9vLyE4FX4cMHQjuP1u13GzHMzo2ioS+uLQEtb5+wxer165h7HWIIOAyqKE3/zEkYHB/h4GtgbUPfq1RszoESCsA99GxkYbdvgQPL10+69ukgV0pBUzQ89y5k+Dh1k0bpgaOEso1MP7de7aDWnr26paTm9Hl7x0YbVXDBOU/oM/RE4d1jmKq5eenDxs24NJ5yI9mz55aveYz0HxZDEXhtOlT8BI7d/k8l6oRRos+Xvz5F+u50goUWLX2U1QPIBbAKJMfJvm1bQGe79y9zeIdivLtpq8NHOZx6CPgeVj4tb79elJ13rnzK/gpPeUeuC9XzmPO+1M4aw19OXT4AEC0uCT//PmzgEDsY1AxOwf/9OjddcbsaeDtsPBfWZfogQM72vn5GloeJLTRwxBtfv7FGgzQ+g1ruXbD3egoqM7oBgDou82bWD8kqmHmrHenz/o3uk9OS0D1h5yGhJBX8AjOU2EOR5abGAHOMCCgj64zprtuAJ69b99/i3NSIu9c0bUiinNbPHuluQSQ7HjzH0OZOdQwp6/5QtUJk8d9vHQhGFKpmudwAKm4ycUfzXz2WcuG8A/o+cabAY773gBf3S5DcT8WLVmKOtCjX59V69aS1hw1pLadWvn374UUN6B5xIBlBZh0WhLipMTw6DjoxUunqlarJDKVWzZr+CgroX//rq2a1WfXmobmB3Wx9gs1AOMQZZKB6wlvD6AKfPXNF2Q+FRULGTy4d7NmDchsi01bvxw0ZADlD7EoxXzx2y2bQW3AlAV8dGzgRKeX1u4yR5Pl5e1BStVbYdfAhNWtV5tyitsVGuWLDWvsjgqVNC0PmqLGNijDHu831xr8rVv3LlOAUBAkj4I+VKjkXarn37r9q8LzjeB3CorScf+Wf7b44tWzBmPxkk0E/QzZfFwSVCm69ewh8d6h+xrVn921extsQCsCr4BFJNbCVbTWPpgzwya8NLvRr+ajEfk2rIU9Gc61BsoBoxRqWQV5YDYmTX5b5LRHE5JbkAWGDcsXZrHLm/JwlxgFVKoRx3rU9HcmT4KiECz2vn1atW1Hgcjyr1Wrl7do+RI2iYqK80jCwSMku/32O2NEPcGqwNmQwyOG+edlJ5J+C+sdpFIDkQ/Vn26dJDFfUOBkyOGGjV90EpHGyUrZvvOrrTs2wvyjfp2YdCxOGPLJ8k+hYodOHqvj00Dnab2UmobK4xt5BjUoA/gsWZI1jMACvh97c+7sQKqAgrHHqxHMj5yO1n+5pknT+n5+TUnnKdW5opIs1KFyFTwIjMgB2/MOTAMIPLl0/VK5ihVEASjcHC4PPhd8OIe0FrjOdZOORrN0ZJNfinI6+Mj+PVtQnNSJEar3ZtgNjNGo0SMkJjUY8a1roaNGDLfmRBBdLSmFS+za9SsE2zKo+eXSxff7dlWtWkXuPCDJB3w29KnDieJRsklRtm3fzF1rJI4PHsR+8+XnWPzb6OhWOLT1s7Lg5M+cOV2CEdRib4X593oVaq6nT5DuDpu/XYcujuDgkyi3yGW6BB4z4MRAOZRkleFulCv/BLrxa9vSpbcEFPsxaL8LfqQokbdvfLJwvl6aZ1unqMQPBw/4+/ujclOmTJY3phUW7ty6CQw+6PsdgtQGAzBRaLVFQDdmhQrl6aAuDZlR7inLXv9s5VIfwI84okClUuN79OyKbkaMHMZ1A5BLz9SPznA5I0lHsVG3N36+RteKSbFjYTRvwfwhQ4agcu3a+UmcfsgQi4kIhw7czAeiRJnEhHugQF4eMH09PTw86K0ydPTViVH/AX3a+DXnOb00CqMDB79HN0AB1rRSSTIRKmaqUYohDpFBSZ378PK5UzQfQJyiZdsWw4cPR+UaNKgnxcgT3OzdsRWULHmU5ojZa9SKi466g5QJK7efkFOqI5EPxWOwnYUG4FUGmo2giKprgmiHNR7kewX92fDlOo6FYdenTHvtOmqCtHII7RdKLaAlhV8P1YpySEVfwVXUr18f3XTs1E6IkW7R0fvTp7HtkYQSGREGGFFqygMIesM6NlalabpUllOKPhW2xN3Iyc1E5SdOGi8BCA/whumxFe2MQmXyc9J3bvomLzuJkxOBuhgefgt8DhwYIHKtq2oewmjC2FGwPY2DDrr27oSqfU4eFAJDhww0GLe/BKO3/vkml2dT/OVhRopDrtUVxwLgZ2Y29P9eCT3PxYisM+burZHDBhtqIan0WbIf/Awk7tq1q8FNwGv9dEFuXXR0GPLM16xWBbtECZnlfGvw6wPwmKdOmShPyqQwmhz4jlSuwRahg9WMykBflJfCOljJVy5dPg2KnTl7gqsfkXQUEnKkvd9LXH6kA+sZBjy2fAM+gVkryunGa+3Zp5+ijDW7K0Mt84TJhkqg+v5aQF8qEY0V5yRGyIHL2V7oEJqZuRmkz7dS5ac4wX6iP9t3fmPyr3gUTRLlbqA6u7T34+Qf4RLIFqlarZJI9mdnP4BCStdrPfcsax/bx2zqwaaJ079vD6qkhI6AwRgReUseraYwQnJQklR5+Kc9oFj2o1TWIUuLbMOYNmWccx+QydGdHtWCwkcfLZpnhtUaCOjcCAn5GbGhrp3aW9LKDT3Yv8+r7q81QMVJD+JYuUO+klecS2JUvUYVuQ556UoItHsd5hHJ11g6mvXeJMpysuVn/3w0CJQb/uZgUWOrVy9Fa+21fr2fKVeWPyfmfZ3a1RGI4HNQ/17cZB/RWrsSekFkMaCrxCi2Rmtq86w9SPUq9CoMYZRqOSzPdgZgNMs/sX3LRho7y5M/diR0Bi5eAMot/3QRnXjuAD4wcByio5dbt2j0Yi02Ow9fHds1w2MeMXwQf7sJHyPPU6dPYtbDZ9uGFURBbNRU2QxJmPvocegdyytIL+utiLJRtWJr/cZF3CBT9Bz8yBxJZlYa8rTt3rON0Zstv+qC+e8jOnq5VauOLZs7G2NWXPu2f8MYLZw/g83DpkZe4/mqqGboaYuP4acK4iCKXoQNYLz/VHIt+/RDgGN8YqSHuGRq2l2UcBB68aRO+UZg5GvuDBQRu3rtArg5dfqYKOXn44/noc4F9Okz4NXuVAifzBxv2uAF2HWTcZw9dUw0yXiNPFnWA2NKOsy4GOWbahp48vV/Nkgwwq8EDOwJ3V7BVkSL62w6FWx5Yn8O2mewGCEZBEy+rt2gP+zqtUsiCQ00HagZZqb/vePLHdu24GQbwR35kFKqPuMNd6IVwASllOR4Ec927jUk+JFquiYkhQtKreQARPhkLI8LViNfOGFff72KjL9TXGnX9g3o14y0OE5+9rwFH5iO15yJkyC7KVULRE7SGzdhdPzGDUhukyaNkuSEoK7Hxd1DOifLX6gUR7TF3TIsC3PY1lnbAnwC7m4qK5Ul+2Ugc+zYEjqzrpyWrMpmL9VGdaIAt60t8M+1G1fR7AFmycUIR5CCTx1CixZ89urTxZl/JZD9uXmZqDzJjIhXVEzRJB0VFRWIkqopjE6chLrIjJnTuMwLqZ1gDho1guNPS4giMaKIxa91A1QnYO20PAH/p2ekmePJuh8HI9olpfkizXDDxpV4JDVqVhLtiHG64osKJGYk5evANVOhMRaj3KIcR9j9e7iWUxNJqrTrqxAjVPndG5fLlxXS0dDBPUQrUTFNvgwzVSE2NQ3afoVFOWSgigRi5uwpeCR161djLX7Tk6/iMaemJLrECGPqXa4MuaddglFsUgyJkYu0Ud1AB1UcC9pbxkuI0czp48mIgMMh5fCx5RVA6ZOW/gBY0igiZM+ldl4TJo7FWsy7703GQUG728yJ0elTJ0m6EAU5cHmkE/LSl2w9iTEzOMCT/T/sEZmpBLODlQP7Mer65dYv1RNhNHhIDypqYqOjItPyzMnNjIq+YzKmQpFcmzN3Oqajo8d+lIdPTFM7WGJqM+U9WTriwpSUZpHnxq/Wi8wLDflyHA68bl38AM8O6N1FF+wSRWd5gJ8ioq+yPFuNuRcL5XRJflT0bQGpW1IJYwSoN/z2VXHCnWbn2W5iZOmQ3LVJjic7PwsVnjN3FmWmUuEsRNqo8lnvBnZu20zig0aT1KmzH1UhbGn12lVWTmtJPtskCfmEiaMxHYX+ek6klaACT5b1ZMcs2rlq59mGKLsYXYVqAcqZxGFFUfDdOX4PpZlvfZ96NSQYeThENicG+VTF8uiH3LwsiVecGsmNm6EitorpSMSDRWsTxxTkvtegn39Exdr4tWBDr6TGj4VmgH+Pli81rlyxjIQhtmoNo6qvD+1H65Bw5B4KKSbYXUbckWQ/ShexLUaWu8AIo48SHCTl0eeWHZs9TAlV+4UaVCCbu0kNLKIDe3eNGflmi2b1WFULd7h7n84wSW7kUCulnIuRX9uWItGLLq8yLrQYCiOUaiHfSkdihNKeeR5Im2vxq+821jKdpcjb6XJTOpTayfFTJ44fMXwQ1+i3tJmGz1GEbMMI2QGVn6mAvZk6b2srBpGV0FTPkEqSX5AtCvtx6eiX4GMsO2BfX/X5yspmLNfuPJIkByhJife6v9Jx2tTxou05JgP14A4NYuQN1E/zhxYw79VTctYHTuUizUgRfxkz9i2uLGdYjIpGW+P5qlgnlHB3cE2cOqE+jEcZcozIpNo7YdcA0S1btlC0yQ6U8XoKVvX8i9V1e+KZQs5GQ5+63CE5Fa2hA1GBWrWr29NJ6T39SEysWrlCXiGZtTJk6EA2bYF79fDvMXzEEOw1525qIr0RoEzyg3jweSRov4Q5eJaBDKSF0ztOxEVojMRnVJYr/wT2zMvXGnkUjcukDhySxul03KnGn916vRL4rwmgn6L6ySeWG1uHEeALZ4Oxc5btgImRUe5pb8oItVzOONFPPo1Y06vtSJWmNuuTTY4e+xa5HcBlXkdwyPE7EbdEa410Ib0xYkjAQH8uPyLzm9B9cmosKvNMlYqXLp6RdMC3CQziVyayVhz8yC6nHVlFtkAV9hYSmVGeEh3PiuedOYGy1yW7YEi2ej8uOj7+PpIeouWDbnybN12/Ya0EI/Lm+IkjeHTAJpVgNGXqRJTxR6sFUIes9DQo8Sg/zxULJNH0ZGmH3KkP8zqCvj964jBr04pi7bfv3Fy7bqV87WDv++at35J0LcbIQE4xh4ezUILR3chwtJgowaLgI5r6DuhP5XiwowJsCKZyZadL2sNNnjrzy17TJ68bxbp9ax83p/PY8SMVKnpXr15Nlx8qY5LzT0cPucQIESnyeWMJK1r40DNjtoazDWwYbd0BN0KE3Y0IeH3Q4aM/i0Id4JpvenXRBfQAUUIY6lD/AH+wtpGWRO7UZqFXTZcIilyNf3u0RDXFbPHuvUg5RlitW71mBaGvqLpgWyjg6NPeDUQJUEzusatzeblGBoRgQG+x3S+Ta6zFcM/0f964HgroPD4hlk8XxLZzr/JexXoRyUB5PbGkEnLS471fYrvXE7nSB5uZPcxeCI3Oj6H3WWOHgyNlOSIigs3X052rSQPDzsxO/+/2zZFRdw1m2z07qpCQEFatp4lIReduqOk56Ugjc8VAOZYjV1kBLSK1xtNLmb/gfSoOqJDJd9QmZfYkH52XbCwnE9qpKDhHjBsWZiSaqtv3rn/40bzVa9dwDvMhlGys0KBYtCjc8nL7Ng6fVxZu3BbLFils1PlXXP8p6xsRnb1uiE9Hongtl2Xw5kNlc8Tlx1zp4vMwv9v0NbdFRTSr1E6W33N2nOgYBIlDQzQTIsjcPzuM2xZjRVLn1hAkik9l1MndPmQilqFLosbc46BE2iB9uopAexI5z0Ty1M1jIERNc2fOwkhnjszSqU1RUmHHPwKNOcBKpOmROVGk2UEdxeNS5v5mjETZuEj7VeQt6TyMRAcsuXRaU6c9uVyhOu/cJZ3YViVidi7Bkp8aTvVB0V2BJBdekpOlSLEoyfKTxIiYwDf9gkTnYjtG4qK7fXidEyNnoNWgVwoZsDV0wzVhq5roLDDw9cdDQfsP/FBcWmJfyFpMDD6dwADGrWi/Gxsa4/zqSh92edAYc5YGexwePqeQOh3Prua4s7DlfiXTlIPtpKQlo708ODY/ZswoXDnesg6eoyMOOJMqkG4uJYxkKXB0SJp6xQeh6a7+YoNoGlmMkAa4ddsWMk5Las/ofv6iebPmzkQndz1XqxrhvVEt3uQ4511/fH92h87zt0lrvMTsx5zKyYQ8z8dGbrqtQF5R4Y5dO6OiooKCDq5Zs8bb25vMG0FvpWcmDxjYd9v2TTB1qEs7FEFs064FQX0cbVN3R0H6TZciPO+QNLI0XbXrB7bjDA2Gl1F6M3vWsYNGExKsUz7uxUe90r0DMsrQT3v376QMLjLzSCcOMuMecv44MdIFR8DRhi7JBQzn2Vj06tV0dOojGy8Fn99t3nT85Aly/i9cuIBrOOhwyKMrIek+urkcemH02Lewuo93PqDzf2yHPPEORX8cGDF0obs6mNLWCWIHOHXaJvUQXEuWLW3Tpo2BzpK2kpkDMZqB/5rAPQ9YM4pXrFyGK0Es3LaueWehWyb6Y8PIUZXqBkC2I47Ng8RECovOHIVZpJaihXP8+HHUYoN69Z2LyEPxbdq4gU/dtu1bkZu+w++GderSHpWPS4g1WTujWDKr4fFjxD3D32AOZbZRsiYG0W6vkYK2bv161l+KyMiwqzkaIe48PT0tjI6bGY/9A/oCdGaYEVAAosNPwpw8yeWq9kIizi5h94pwkPYJsoQr10CheDPXxHMwL/DvqHEwGa64uJgUiw9SkljXJWbY6HhFYiEJSEiXHWjr0mfCbk+xQgw0PpouOb5WZ05dNwSHuFKOR3r2dNoNuHvvjvYdX+YocgK97n+yJ8hTMnXJ6dXYQrQfKq3IjCDxCf+claXp7Iu2yRH/vR/IquDpnC7+4JrTF2oI2ZAhP8Dela3Lj7zSXiGBi8OduIDB/WMsUiHg5Ee6GxXqunz+bHqv/cB/l/0XOUV1fF6tW4KMcO6TKgnfSylxPNpzFojyLrwl+DR6rpDVmQO/uWiK3b481w15pq/u8u912o+QZ9eOygPatjwp6aMxPimmWkqNZr9yV6LE/ybxcGmOi3VvKRL659wT7E3lHQNOv+hq5WMPJDrgVOcd2UsfGG5vVGe6gY1NLI6RrkSfTSU4QR1XoqqqAKPf9adU3Fuq0v0vfKtQrIXJ23osI/o/OV8YEo50DLQAAAAaelRYdGpwZWc6Y29sb3JzcGFjZQAAeNozAgAAMwAziTgjNQAAACR6VFh0anBlZzpzYW1wbGluZy1mYWN0b3IAAHjaM6ww1DGEYAARbwLnnf4emQAAAABJRU5ErkJggg==\"></span></span><span class=\"image-pointer\">(*)</span> וקנים נתונים עליהם מנקליטין שבראשה לנקליטין שברגליה ופורס על המטה שתים ושלש כילות קטנות בגגה ויריעה גדולה פרוסה סביב המטה לדפנות:",
+              "ref": "Rashi on Eruvin 102b:1:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:א:א",
+              "sourceRef": "Rashi on Eruvin 102b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בשיפועה</b> כלומר שאינה מתרחבת עם תחתית השיפוע הסמוך למיטה עד כדי שיהיה <b>טפח</b> ממרכזו לכל צד, <b>אבל יש בשיפועה טפח</b> — הרי <b>שיפועי אהלים כאהלים דמו</b> <span class=\"hebrew-emphasis\">[נחשבים]</span> והרי כילה זו כאוהל — ואסורה.",
+              "ref": "Steinsaltz on Eruvin 102b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:א",
+              "sourceRef": "Steinsaltz on Eruvin 102b:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>its incline does not extend a handbreadth</b> from the center to each side. <b>However, if its incline extends a handbreadth</b> from the center to the side, the <i>halakha</i> is that <b>the inclines of tents are considered like tents,</b> and it is therefore prohibited to suspend them.",
+      "he": "בְּשִׁיפּוּעָהּ טֶפַח, אֲבָל יֵשׁ בְּשִׁיפּוּעָהּ טֶפַח — שִׁיפּוּעֵי אֹהָלִים כְּאֹהָלִים דָּמוּ.",
+      "ref": "Eruvin 102b:1"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">סַיָּינָא</strong> m. (denominative of <span class=\"refLink\" data-ref=\"Jastrow, סְיָן 1\" dir=\"rtl\" href=\"/Jastrow,_סְיָן.1\">סְיָן</span>) <i>trowel</i>, name of a <i>felt cap with a shade in front</i>. <span class=\"refLink\" data-ref=\"Shabbat 138b\" href=\"/Shabbat.138b\">Shabbat 138ᵇ</span> Manuscript Munich (ed. <span class=\"refLink\" data-ref=\"Jastrow, סַיָּאנָא 1\" dir=\"rtl\" href=\"/Jastrow,_סַיָּאנָא.1\">סַיָּאנָא</span>); <span class=\"refLink\" data-ref=\"Eruvin 102b:2\" href=\"/Eruvin.102b.2\">Eruvin 102ᵇ</span>. <span class=\"refLink\" data-ref=\"Shabbat 119a:5\" href=\"/Shabbat.119a.5\">Shabbat 119ᵃ</span> <span dir=\"rtl\">אותבה בסַיָּינֵיה</span> he stuck the jewel on his cap; (Manuscript Munich <span dir=\"rtl\">בסדיניה</span>; Manuscript Oxford <span dir=\"rtl\">בסדיניה וא׳'ל בסַיָּיאנֵיה דרישיה</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 16\" href=\"/Yalkut_Shimoni_on_Torah.16\">Yalkut Breishit 16</span>, and Isaiah 356 <span dir=\"rtl\">בסדיניה</span>).—[<span class=\"refLink\" data-ref=\"Niddah 20a\" href=\"/Niddah.20a\">Niddah 20ᵃ</span> סיינא Arukh ed. Kohelet, see <span class=\"refLink\" data-ref=\"Jastrow, *סִיוָאָה 1\" dir=\"rtl\" href=\"/Jastrow,_*סִיוָאָה.1\">סִיוָאָה</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, סַיָּינָא 1",
+              "sourceHeRef": "מילון יסטרוב, סַיָּינָא א׳",
+              "sourceRef": "Jastrow, סַיָּינָא 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "It is permitted to wear a hat with a brim that provides shade for the person wearing it. If, however, one extends the clothes one is wearing above one's head or in front of one's face like a tent and: a) [the clothes] are tightly fitted around one's head, and b) the brim that one extends is very firm like a roof, this is forbidden, because one is making a temporary tent.",
+              "he": "כּוֹבַע שֶׁעוֹשִׂין עַל הָרֹאשׁ וְיֵשׁ לוֹ שָׂפָה מַקֶּפֶת שֶׁהִיא עוֹשָׂה צֵל כְּמוֹ אֹהֶל עַל לְבוּשׁוֹ מֻתָּר לְלָבְשׁוֹ. וְאִם הוֹצִיא מִן הַבֶּגֶד סָבִיב לְרֹאשׁוֹ אוֹ כְּנֶגֶד פָּנָיו כְּמוֹ אֹהֶל וְהָיָה מְהֻדָּק עַל רֹאשׁוֹ וְהָיְתָה הַשָּׂפָה שֶׁהוֹצִיאָהּ קָשָׁה בְּיוֹתֵר כְּמוֹ גַּג אָסוּר מִפְּנֵי שֶׁהוּא עוֹשֶׂה אֹהֶל עֲרַאי:",
+              "ref": "Mishneh Torah, Sabbath 22:31",
+              "sourceHeRef": "הלכות שבת כב:לא",
+              "sourceRef": "Sabbath 22:31"
+            }
+          ]
+        },
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הנך דכרי פי' אלים דהוו לרב הונא ביממא בעי טולא ובלילה בעו אוירא ואתא לקמיה דרב וא\"ל זיל כרוך בודייא ושייר בה טפח <span class=\"parenthesized\">(פרוס)</span> [פירוש] ושדייה <span class=\"parenthesized\">(לדיר)</span> [לבודייא] ע\"ג עצים מע\"ש וליהוי הבודיא כרוכה על גבי העצים לילי שבת כדי שיהא האויר נכנס על הצאן ומחר בשעת החמה פרוס גם שאר הבודיא וכסה בה העצים להיות להן צל דכיון דהוה בה מאתמול פריסה מקצת הבודיא טפח נעשה אותו טפח מאתמול אהל עכשיו מוסיף על אהל עראי אתה ושרי לך. וילון פי' פרוכת. אמר שמואל משום ר' חייא כילת תנים מותר לנטותה כו' אבל יש בגגה טפח או פחות מג' סמוך לגג רחב טפח או נחתא מפוריא טפח או אית בשיפועא טפח. אי אית חד מהנך אסיר ושיפועי אהלים כאהלים דמו. סייאנא. פי' הכובע שעל ראש האדם שיש לו כנפים יוצאות כגון שפתים פשוטות גועות על הפנים מפני השמש אם מהדק אפי' יש בו טפח שרי ואי לא אסיר:<br>",
+              "ref": "Rabbeinu Chananel on Eruvin 102b:1",
+              "sourceHeRef": "רבינו חננאל על מסכת עירובין ק״ב ב:א",
+              "sourceRef": "Rabbeinu Chananel on Eruvin 102b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סיינא שרי</strong> - כובע של לבד שקורין פלטרי מותר לצאת בו בשבת:",
+              "ref": "Rashi on Eruvin 102b:2:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ב:א",
+              "sourceRef": "Rashi on Eruvin 102b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא דאית ביה טפח</strong> - שיוצא טפח רוחב שפתו להלן מראשו אסיר דהוי אהל:",
+              "ref": "Rashi on Eruvin 102b:2:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ב:ב",
+              "sourceRef": "Rashi on Eruvin 102b:2:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(קנג)</span> העשוי להגין וכו'</strong> - לאפוקי סתם כובע שאדם נושאו על ראשו אין לחוש דייתי לאתויי ד\"א דבודאי לא ילך בגילוי הראש וזה הכובע מנהגן היה לשאתו מלמעלה על כובע קטן [ב\"י ואחרונים] ומזה נלמוד דה\"ה כובעים שלנו אם נושא אותן בר\"ה על כובע קטן כנהוג יש ליזהר שיהא מהודק על ראשו שמא יפול ואתי לאתויי ד\"א וכן בברייטי\"ל שהמנהג בו להקל וכנ\"ל אם נושא כובע קטן תחתיו יזהר שלא יצא בו בר\"ה דהא סתמא אינו מהודק ובודאי חיישינן בו דילמא נפיל ואתי לאתויי כיון שלא יהיה בגילוי הראש:",
+                      "ref": "Mishnah Berurah 301:153",
+                      "sourceHeRef": "משנה ברורה שא:קנג",
+                      "sourceRef": "Mishnah Berurah 301:153"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(קנד)</span> בר\"ה</strong> - בט\"ז משמע דאפילו חוץ לעירוב יש להחמיר בזה ועיין לקמן סימן ש\"ג סי\"ח ובמש\"כ שם במ\"ב:",
+                      "ref": "Mishnah Berurah 301:154",
+                      "sourceHeRef": "משנה ברורה שא:קנד",
+                      "sourceRef": "Mishnah Berurah 301:154"
+                    }
+                  ]
+                }
+              },
+              "en": "41. Regarding going out with a hat on one's head which is made to provide shade from the sun - there is one who forbids it because we worry that the wind will blow it off his head and he will then travel 4 amos in the public domain, unless it is fastened on his head or if it covers a large portion of his head which is inside it and the wind cannot separate it from his head, or it is fastened with a strap under one's chin. [In these cases,] there is no concern at all.",
+              "he": "לצאת בשבת בכובע שבראשו העשוי להגין מפני החמה יש מי שאוסר משום דחיישינן שיגביהנו הרוח מראשו ואתי לאתויי ד' אמות ברה\"ר אא\"כ הוא מהודק בראשו או שהוא עמוק שראשו נכנס לתוכו ואין הרוח יכול להפרידו מראשו או שהוא קשור ברצועה תחת גרונו דבהכי ליכא למיחש למידי:",
+              "ref": "Shulchan Arukh, Orach Chayim 301:41",
+              "sourceHeRef": "אורח חיים שא:מא - באיזה כלים מותר לצאת בשבת ואיזה מהם אסורים.",
+              "sourceRef": "Orach Chayim 301:41"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואמר רב שישא בריה</b> <span class=\"hebrew-emphasis\">[בנו]</span> של <b>רב אידי: סיינא</b> (כובע לבד נוקשה) — <b>שרי</b> <span class=\"hebrew-emphasis\">[מותר]</span> לחובשו בשבת, ואין בכך משום אהל. ומקשים: <b>והתניא</b> <span class=\"hebrew-emphasis\">[והרי שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]</span> שכובע כזה <b>אסור!</b> ומתרצים: <b>לא קשיא</b> <span class=\"hebrew-emphasis\">[אינו קשה],</span> <b>הא</b> <span class=\"hebrew-emphasis\">[זה]</span> שאסור — <b>דאית ביה</b> <span class=\"hebrew-emphasis\">[שיש בו]</span> בשוליו רוחב <b>טפח, הא</b> <span class=\"hebrew-emphasis\">[זה]</span> שמותר — <b>דלית ביה</b> <span class=\"hebrew-emphasis\">[שאין בו]</span> בשוליו רוחב <b>טפח.</b>",
+              "ref": "Steinsaltz on Eruvin 102b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:ב",
+              "sourceRef": "Steinsaltz on Eruvin 102b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Of unclear origin. Some have suggested that it is related to the Middle Iranian word <i> </i>(shadow) and refers to the welcome protection from the sun that the head covering provides.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Eruvin 102b:2",
+              "sourceHeRef": "סַיְינָא",
+              "sourceRef": "Felt hat [<i>sayna</i>]"
+            }
+          ]
+        }
+      },
+      "en": "<b>And <span href=\"/topics/rav-shesha-b-rav-idi\" class=\"namedEntityLink\" data-slug=\"rav-shesha-b-rav-idi\">Rav Sheisha, son of Rav Idi</span>, said:</b> With regard to a stiff <b>felt hat [<i>sayna</i>], it is permitted</b> to wear it on Shabbat. The Gemara raises a difficulty: <b>But wasn’t it taught</b> in a <i>baraita</i> that wearing this hat <b>is prohibited?</b> The Gemara answers: It is <b>not difficult. This</b> <i>baraita</i>, which prohibits wearing a felt hat, is referring to a case <b>where</b> the hat extends <b>a handbreadth</b> from the person’s head and is therefore regarded as a tent; whereas <b>that</b> statement by <span href=\"/topics/rav-shesha-b-rav-idi\" class=\"namedEntityLink\" data-slug=\"rav-shesha-b-rav-idi\">Rav Sheisha</span>, who permits doing so, is referring to a case <b>where it does not</b> extend <b>a handbreadth</b> from one’s head.",
+      "he": "וְאָמַר <span href=\"/topics/rav-shesha-b-rav-idi\" class=\"namedEntityLink\" data-slug=\"rav-shesha-b-rav-idi\">רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידִי</span>: סְיָינָא — שְׁרֵי. וְהָתַנְיָא אָסוּר! לָא קַשְׁיָא: הָא — דְּאִית בֵּיהּ טֶפַח, הָא — דְּלֵית בֵּיהּ טֶפַח.",
+      "ref": "Eruvin 102b:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">שַׁרְבֵּב I</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, שִׁרְבֵּב 1\" href=\"/Jastrow,_שִׁרְבֵּב.1\">same</span> , <i>to prolong, let hang down; to let down</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Jeremiah 38:6\" href=\"/Targum_Jonathan_on_Jeremiah.38.6\">Targum Jeremiah XXXVIII, 6</span>; <span class=\"refLink\" data-ref=\"Targum Jonathan on Jeremiah 38:11\" href=\"/Targum_Jonathan_on_Jeremiah.38.11\">11</span>.—<span class=\"refLink\" data-ref=\"Shabbat 147b:7\" href=\"/Shabbat.147b.7\">Shabbat 147ᵇ</span> <span dir=\"rtl\">כי מעבריתו … שַׁרְבִּיבוּ להו וכ׳</span> when you have to carry garments for the soldiers (on the Sabbath), let them hang down over your shoulders (so as to serve as garments for yourselves). <span class=\"refLink\" data-ref=\"Eruvin 102b:3\" href=\"/Eruvin.102b.3\">Eruvin 102ᵇ</span> <span dir=\"rtl\">שַׁרְבֵּיב בגלימיה טפח</span> (not <span dir=\"rtl\">בגלימי</span>; ed. Soncino <span dir=\"rtl\">אישתרבב בגלימיה</span>, read: <span dir=\"rtl\">א׳ גלימיה</span>; see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 200) if a person lets his cloak trail one handbreadth.<br></br> <strong>Ithpaal</strong> - <strong dir=\"rtl\">אִשְׁתַּרְבֵּב</strong> <br><b>1)</b> <i>to be enlarged, prolonged</i>. <span class=\"refLink\" data-ref=\"Sotah 12b\" href=\"/Sotah.12b\">Sotah 12ᵇ</span> [read:] <span dir=\"rtl\">אִישְׁתַּרְבְּבָא אִישְׁתַּרְבּוּבֵי</span> (her arm) was prolonged (by a miracle, so that she could reach the infant Moses); <span class=\"refLink\" data-ref=\"Shemot Rabbah 1\" href=\"/Shemot_Rabbah.1\">Shemot Rabbah section (Parashah) 1</span><sup>23</sup> <span dir=\"rtl\">אישתרבובי אִשְׁתַּרְבּוּב</span> they (her arms) were prolonged; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 166:7\" href=\"/Yalkut_Shimoni_on_Torah.166.7\">Yalkut ib. 166</span> <span dir=\"rtl\">אישתרבב אישתרבו</span> (correct accordingly). <br><b><br>—2)</b> <i>to be let down; to trail; to spread</i>. <span class=\"refLink\" data-ref=\"Targum of II Chronicles 7:3\" href=\"/Targum_of_II_Chronicles.7.3\">Targum Sheni (to Esther) Chr. VII, 3</span>; <span class=\"refLink\" data-ref=\"Targum of II Chronicles 7:10\" href=\"/Targum_of_II_Chronicles.7.10\">10</span>.—<span class=\"refLink\" data-ref=\"Sanhedrin 24a:16\" href=\"/Sanhedrin.24a.16\">Sanhedrin 24ᵃ</span> <span dir=\"rtl\">לבבל נחית ואישתרבובי דאי׳ לעילם</span> it (the measure of pride) came down to Babylonia, but was dragged along to Elam; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 573\" href=\"/Yalkut_Shimoni_on_Nach.573\">Yalkut Zechariah 573</span> <span dir=\"rtl\">ואי׳ להתם</span>. <span class=\"refLink\" data-ref=\"Beitzah 11a:3\" href=\"/Beitzah.11a.3\">Beitzah 11ᵃ</span> <span dir=\"rtl\">אשתרבובי אשתרבוב ונחות</span> they (the pigeons in the upper nest) dragged themselves along and came down (to the lower nest)."
+              ],
+              "he": [],
+              "ref": "Jastrow, שַׁרְבֵּב I 1",
+              "sourceHeRef": "מילון יסטרוב, שַׁרְבֵּב I א׳",
+              "sourceRef": "Jastrow, שַׁרְבֵּב I 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שרביב בגלימיה</strong> - האריך בטליתו להלן מראשו והוציאה טפח הכי נמי דאסור:",
+              "ref": "Rashi on Eruvin 102b:3:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ג:א",
+              "sourceRef": "Rashi on Eruvin 102b:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ותוהים: <b>אלא מעתה שרביב בגלימיה</b> <span class=\"hebrew-emphasis\">[אם ימשוך בטליתו]</span> ויוציאנה מעבר לראשו <b>טפח, הכי נמי</b> <span class=\"hebrew-emphasis\">[גם כן יהא]</span> <b>אסור?</b> והרי מלבוש הוא זה!",
+              "ref": "Steinsaltz on Eruvin 102b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:ג",
+              "sourceRef": "Steinsaltz on Eruvin 102b:3"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara is surprised at this answer: <b>But if that is so,</b> one who <b>pulled his cloak a handbreadth</b> beyond his head, <b>is it also prohibited</b> for him to do so? This is unreasonable, as it is an article of clothing, not a tent.",
+      "he": "אֶלָּא מֵעַתָּה: שַׁרְבֵּיב בִּגְלִימֵיהּ טֶפַח, הָכִי נָמֵי דְּאָסוּר?",
+      "ref": "Eruvin 102b:3"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "It is permitted to wear a hat with a brim that provides shade for the person wearing it. If, however, one extends the clothes one is wearing above one's head or in front of one's face like a tent and: a) [the clothes] are tightly fitted around one's head, and b) the brim that one extends is very firm like a roof, this is forbidden, because one is making a temporary tent.",
+              "he": "כּוֹבַע שֶׁעוֹשִׂין עַל הָרֹאשׁ וְיֵשׁ לוֹ שָׂפָה מַקֶּפֶת שֶׁהִיא עוֹשָׂה צֵל כְּמוֹ אֹהֶל עַל לְבוּשׁוֹ מֻתָּר לְלָבְשׁוֹ. וְאִם הוֹצִיא מִן הַבֶּגֶד סָבִיב לְרֹאשׁוֹ אוֹ כְּנֶגֶד פָּנָיו כְּמוֹ אֹהֶל וְהָיָה מְהֻדָּק עַל רֹאשׁוֹ וְהָיְתָה הַשָּׂפָה שֶׁהוֹצִיאָהּ קָשָׁה בְּיוֹתֵר כְּמוֹ גַּג אָסוּר מִפְּנֵי שֶׁהוּא עוֹשֶׂה אֹהֶל עֲרַאי:",
+              "ref": "Mishneh Torah, Sabbath 22:31",
+              "sourceHeRef": "הלכות שבת כב:לא",
+              "sourceRef": "Sabbath 22:31"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא לא קשיא הא דמיהדק הא דלא מיהדק.</b> פי' ר\"ח לעולם משום אהל, וכשמיהדק הוי ליה כאהל אבל גלימא דלא מיהדק לא הוי כאהל ושרי, וכן עיקר.",
+              "ref": "Rashba on Eruvin 102b:1",
+              "sourceHeRef": "רשב״א על עירובין ק״ב ב:א",
+              "sourceRef": "Rashba on Eruvin 102b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא הא דמיהדק הא דלא מיהדק</strong> - וטעמא לא משום אהל הוא אלא דילמא נפיל מרישיה ואתי לאתויי הלכך כי מיהדק וקשור ברצועה תחת צוארו שרי ואי לא אסור:",
+              "ref": "Rashi on Eruvin 102b:4:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ד:א",
+              "sourceRef": "Rashi on Eruvin 102b:4:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(קנג)</span> העשוי להגין וכו'</strong> - לאפוקי סתם כובע שאדם נושאו על ראשו אין לחוש דייתי לאתויי ד\"א דבודאי לא ילך בגילוי הראש וזה הכובע מנהגן היה לשאתו מלמעלה על כובע קטן [ב\"י ואחרונים] ומזה נלמוד דה\"ה כובעים שלנו אם נושא אותן בר\"ה על כובע קטן כנהוג יש ליזהר שיהא מהודק על ראשו שמא יפול ואתי לאתויי ד\"א וכן בברייטי\"ל שהמנהג בו להקל וכנ\"ל אם נושא כובע קטן תחתיו יזהר שלא יצא בו בר\"ה דהא סתמא אינו מהודק ובודאי חיישינן בו דילמא נפיל ואתי לאתויי כיון שלא יהיה בגילוי הראש:",
+                      "ref": "Mishnah Berurah 301:153",
+                      "sourceHeRef": "משנה ברורה שא:קנג",
+                      "sourceRef": "Mishnah Berurah 301:153"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(קנד)</span> בר\"ה</strong> - בט\"ז משמע דאפילו חוץ לעירוב יש להחמיר בזה ועיין לקמן סימן ש\"ג סי\"ח ובמש\"כ שם במ\"ב:",
+                      "ref": "Mishnah Berurah 301:154",
+                      "sourceHeRef": "משנה ברורה שא:קנד",
+                      "sourceRef": "Mishnah Berurah 301:154"
+                    }
+                  ]
+                }
+              },
+              "en": "41. Regarding going out with a hat on one's head which is made to provide shade from the sun - there is one who forbids it because we worry that the wind will blow it off his head and he will then travel 4 amos in the public domain, unless it is fastened on his head or if it covers a large portion of his head which is inside it and the wind cannot separate it from his head, or it is fastened with a strap under one's chin. [In these cases,] there is no concern at all.",
+              "he": "לצאת בשבת בכובע שבראשו העשוי להגין מפני החמה יש מי שאוסר משום דחיישינן שיגביהנו הרוח מראשו ואתי לאתויי ד' אמות ברה\"ר אא\"כ הוא מהודק בראשו או שהוא עמוק שראשו נכנס לתוכו ואין הרוח יכול להפרידו מראשו או שהוא קשור ברצועה תחת גרונו דבהכי ליכא למיחש למידי:",
+              "ref": "Shulchan Arukh, Orach Chayim 301:41",
+              "sourceHeRef": "אורח חיים שא:מא - באיזה כלים מותר לצאת בשבת ואיזה מהם אסורים.",
+              "sourceRef": "Orach Chayim 301:41"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> יש לדחות את דרך ההסבר הקודמת ולומר שאין טעם האיסור משום עשיית אהל אלא משום חשש לטלטול ברשות הרבים אם יפול הכובע. ו<b>לא קשיא</b> <span class=\"hebrew-emphasis\">[קשה]</span> <b>הא</b> <span class=\"hebrew-emphasis\">[זה]</span> שמותר <span class=\"hebrew-emphasis\">—</span> <b>דמיהדק</b> <span class=\"hebrew-emphasis\">[כשמהודק]</span> הכובע בראשו, ומכיון שאין לחשוש שמא יפול הכובע ויבוא לטלטלו, מותר לחובשו, <b>הא</b> <span class=\"hebrew-emphasis\">[זה] —</span> ש<b>לא מיהדק</b> <span class=\"hebrew-emphasis\">[מהודק],</span> ויש לחשוש שיפול מראשו ויבוא לטלטלו ברשות הרבים.",
+              "ref": "Steinsaltz on Eruvin 102b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:ד",
+              "sourceRef": "Steinsaltz on Eruvin 102b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "There are two opinions with regard to the halakhic ruling in this case, largely based on the question of whether the version of the Gemara is: Rather, this is not difficult, or whether the version of the Gemara is: This is not difficult. The difference between the two opinions hinges on the unique meaning of the word rather in the Talmud. This word indicates that the previous answer has been rejected, and the Gemara is suggesting a new interpretation. The version of Rashi and the commentaries who agree with him includes the word rather. They maintain that the Gemara rejects the notion that wearing a felt hat is prohibited as a tent due to the difficulty presented by the case of a cloak. Consequently, there must be a different reason for the prohibition, i.e., that it might fall and one will come to carry it. By contrast, although in the version of Rabbeinu Ĥananel and other authorities the word rather is included, they explain that the new answer does not reject the previous one but it is an extension of that opinion. The hat is indeed prohibited as a tent, but there is a distinction between a soft hat that does not fit snugly on the head, which has a brim that folds, and a stiff hat that has the status of a tent.",
+              "he": "בנושא זה מצויות שתי שיטות של פסק (ראה ב\"אורח ההלכה\") הנובעות משתי דרכי פירוש התלויות בעיקר בשאלה אם יש לגרוס כאן: אלא לא קשיא הא דמהידק וכו'. או לגרוס: לא קשיא וכו', ללא \"אלא\". הבדלי הפירוש תלויים בשימוש המיוחד של המלה 'אלא' בתלמוד. 'אלא' משמעו: השיטה הקודמת נדחתה ובאים להסביר את הדבר בדרך אחרת. ומשום כך רש\"י (וההולכים בעקבותיו) הגורס כאן 'אלא' סבור כי התלמוד חזר בו מן הפירוש שסיינא אסור מפני עשיית אהל, מפני הקושיה שבגלימה, וממילא טעם האיסור הוא שונה — שמא יפול ויטלטלנו. אולם רבנו חננאל וסיעתו שאמנם גורסים כאן, 'אלא' סבורים כי יש כאן תירוץ לקושיה הקודמת ועל פי אותה שיטה, לאמור: הכובע אמנם אסור משום אהל, אלא שיש לחלק בין כובע רך שאינו מהודק והוא מתקפל וכובע קשה שדינו כאהל.",
+              "ref": "Steinsaltz comment #1 on Eruvin 102b:4",
+              "sourceHeRef": "אֶלָּא…הָא דְּמִיהֲדַק",
+              "sourceRef": "Rather…where the hat fits snugly"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה הא דמיהדק כו' אבל ר\"ח מפרש דמיהדק אסור כו' שאינו נכפף ונראה אהל כו' עכ\"ל ולפי זה ל\"ג אלא ל\"ק ועיין ברא\"ש פרק תולין וק\"ל:",
+                      "ref": "Chidushei Halachot on Eruvin 102b:2",
+                      "sourceHeRef": "חידושי הלכות על עירובין ק״ב ב:ב",
+                      "sourceRef": "Chidushei Halachot on Eruvin 102b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא דמיהדק הא דלא מיהדק</strong> - <span class=\"rashi-quotation\">פירש בקונטרס</span> דטעמא לאו משום אהל הוא ולפי זה מותרין אותן כובעין של לבד אע\"פ שמאהיל טפח ובלבד שיהיה קשור תחת גרונו שלא יפול ואתי לאיתויי ד' אמות ברה\"ר אבל ר\"ח מפרש דמיהדק אסור כשהטפח היוצא מן הכובע חזק שאינו נכפף ונראה אהל ולפי זה כובעים אסורין:",
+              "ref": "Tosafot on Eruvin 102b:4:1",
+              "sourceHeRef": "תוספות על עירובין ק״ב ב:ד:א",
+              "sourceRef": "Tosafot on Eruvin 102b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> the previous explanation must be rejected, as the issue with regard to a felt hat is not whether it is considered a tent, but whether there is concern that one might come to carry it in the public domain if it falls from his head. This is <b>not difficult; this</b> statement of <span href=\"/topics/rav-shesha-b-rav-idi\" class=\"namedEntityLink\" data-slug=\"rav-shesha-b-rav-idi\">Rav Sheisha</span>, which permits it, is referring to a case <b>where</b> the hat <b>fits snugly</b> on his head. There is no concern lest the hat fall and one will come to carry it; therefore it is permitted to wear it. Conversely, <b>that</b> <i>baraita</i>, which prohibits wearing this hat, is referring to a case <b>where it does not fit snugly</b> on his head. It is therefore liable to fall, and one might come to carry it in the public domain.",
+      "he": "אֶלָּא, לָא קַשְׁיָא: הָא — דְּמִיהַדַּק, הָא — דְּלָא מִיהַדַּק.",
+      "ref": "Eruvin 102b:4"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "We learned in the mishna that Rabbi Eliezer and the Rabbis dispute the case of <b>a window shutter</b> and in what manner one is permitted to shutter a window on Shabbat. <b>Rabba bar bar Ḥana said</b> that <b>Rabbi Yoḥanan said: Everyone agrees that one may not construct a temporary tent on a Festival</b> for the <b>first time, and needless to say,</b> one may not do so <b>on Shabbat.</b> The <i>tanna’im</i> <b>disagree only</b> with regard to <b>adding</b> to an existing tent, <b>as Rabbi Eliezer says: One may not add</b> to an existing structure <b>on a Festival, and needless to say,</b> one may not do so <b>on Shabbat. And the Rabbis say: One may add</b> to a temporary structure <b>on Shabbat, and needless to say,</b> one may do so <b>on a Festival.</b>",
+                  "We learned in the mishna that the Rabbis say: Both in this case and in that case one may shutter with it. The Gemara asks: <b>What</b> is the meaning of: <b>Both</b> in <b>this</b> case <b>and</b> in <b>that</b> case, in this context? <b>Rabbi Abba said</b> that <b>Rav Kahana said:</b>"
+                ],
+                [
+                  "<b>Both</b> if it is <b>tied and</b> if it is <b>not</b> tied it is permitted, <b>and that is</b> only <b>if it is prepared</b> for this purpose beforehand.",
+                  "<b>Rabbi Yirmeya said to</b> Rabbi Abba: <b>And let the Master say</b> it in this way: <b>Both if it is hanging and if it is not hanging, and that is</b> only <b>if it is tied, as Rabba bar bar Ḥana said</b> that <b>Rabbi Yoḥanan said: Like the dispute here</b> with regard to the window shutter, <b>so too</b> is the <b>dispute with regard to a bolt that was dragged,</b> which refers to a pole that was stuck through a hole in the door and into the ground in order to hold the door in place. <b>As we learned</b> in a mishna: With regard to <b>a bolt that is dragged,</b> which is not a part of the door itself but is attached to it and is dragged on the ground, <b>one locks with it in the Temple</b> on Shabbat, because the rabbinic decrees are not in effect in the Temple, <b>but not in the</b> rest of the <b>country</b> outside the Temple. <b>And</b> a bolt <b>that is placed</b> alongside the door and not attached, <b>here,</b> in the Temple, <b>and there,</b> outside the Temple, it is <b>prohibited</b> to lock with it on Shabbat. <b>Rabbi Yehuda says: One that was placed</b> is permitted <b>in the Temple and one that is dragged</b> is permitted even <b>in the</b> rest of the <b>country.</b>",
+                  "<b>And it was taught</b> in a <i>baraita</i>: <b>What is a bolt that is dragged that one locks with it in the Temple but not in the</b> rest of the <b>country? Any</b> bolt <b>that is tied and hangs</b> from the door <b>and</b> one of <b>its edges reaches the ground. Rabbi Yehuda says: That is permitted even in the</b> rest of the <b>country. Rather, what is prohibited in the</b> rest of the <b>country? Any</b> bolt <b>that is neither tied nor hung, and one removes it</b> from the door <b>and places it in a corner.</b>",
+                  "<b>And Rabbi Yehoshua bar Abba said in the name of Ulla: Who is</b> the <i>tanna</i> <b>who taught</b> the <i>halakha</i> of <b>a bolt that is dragged?</b> The <i>tanna</i> <b>is Rabbi Eliezer,</b> whose opinion in this case is identical to his opinion in the mishna with regard to the window shutter. It is certainly referring to a shutter that is attached. If it is not attached, Rabbi Eliezer holds that it is prohibited for use even in the Temple.",
+                  "Rabbi Abba <b>said to</b> Rabbi Yirmeya: <b>It is I who say</b> that this case is <b>in accordance with</b> the opinion of <b>this <i>tanna</i>, as it was taught</b> in the <i>Tosefta</i>: With regard to <b>a reed that the homeowner installed to open and lock</b> the door <b>with it</b> like a bolt, <b>when it is tied and hanging in the entrance, one may open and lock</b> the door <b>with it</b> on Shabbat, and when it is <b>not tied and hanging, one may not open and lock</b> the door <b>with it. Rabban Shimon ben Gamliel says:</b> If it was <b>prepared</b> for that use, it is permitted to use it <b>even if it is not tied.</b> There is an opinion that holds that a bolt need not be attached, and preparation is sufficient to permit its use.",
+                  "<b>Rav Yehuda bar Sheilat said</b> that <b>Rav Asi said</b> that <b>Rabbi Yoḥanan said:</b> The <b><i>halakha</i></b> in this case <b>is in accordance with</b> the opinion of <b>Rabban Shimon ben Gamliel.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shabbat 125b:13",
+                "Shabbat 125b:14",
+                "Shabbat 126a:1",
+                "Shabbat 126a:2",
+                "Shabbat 126a:3",
+                "Shabbat 126a:4",
+                "Shabbat 126a:5",
+                "Shabbat 126a:6"
+              ],
+              "he": [
+                [
+                  "פְּקַק הַחַלּוֹן כּוּ׳. אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: הַכֹּל מוֹדִים שֶׁאֵין עוֹשִׂין אֹהֶל עֲרַאי בַּתְּחִלָּה בְּיוֹם טוֹב, וְאֵין צָרִיךְ לוֹמַר בְּשַׁבָּת. לֹא נֶחְלְקוּ אֶלָּא לְהוֹסִיף. שֶׁרַבִּי אֱלִיעֶזֶר אוֹמֵר: אֵין מוֹסִיפִין בְּיוֹם טוֹב, וְאֵין צָרִיךְ לוֹמַר בְּשַׁבָּת. וַחֲכָמִים אוֹמְרִים: מוֹסִיפִין בְּשַׁבָּת, וְאֵין צָרִיךְ לוֹמַר בְּיוֹם טוֹב.",
+                  "וַחֲכָמִים אוֹמְרִים: בֵּין כָּךְ וּבֵין כָּךְ פּוֹקְקִין בּוֹ. מַאי ״בֵּין כָּךְ וּבֵין כָּךְ״? אָמַר רַבִּי אַבָּא אָמַר רַב כָּהֲנָא:"
+                ],
+                [
+                  "בֵּין קָשׁוּר בֵּין שֶׁאֵינוֹ קָשׁוּר, וְהוּא שֶׁמְּתוּקָּן.",
+                  "אֲמַר לֵיהּ רַבִּי יִרְמְיָה, וְלֵימָא מָר: בֵּין תָּלוּי וּבֵין שֶׁאֵינוֹ תָּלוּי, וְהוּא שֶׁקָּשׁוּר! דְּאָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: כְּמַחֲלוֹקֶת כָּאן, כָּךְ מַחֲלוֹקֶת בַּנֶּגֶר הַנִּגְרָר. דִּתְנַן: נֶגֶר הַנִּגְרָר, נוֹעֲלִין בּוֹ בַּמִּקְדָּשׁ, אֲבָל לֹא בִּמְדִינָה. וְהַמּוּנָּח, כָּאן וְכָאן, אָסוּר. רַבִּי יְהוּדָה אוֹמֵר: הַמּוּנָּח בְּמִקְדָּשׁ וְהַנִּגְרָר בַּמְּדִינָה.",
+                  "וְתַנְיָא: אֵיזֶהוּ נֶגֶר הַנִּגְרָר שֶׁנּוֹעֲלִין בּוֹ בַּמִּקְדָּשׁ אֲבָל לֹא בִּמְדִינָה? כׇּל שֶׁקָּשׁוּר וְתָלוּי וְרֹאשׁוֹ מַגִּיעַ לָאָרֶץ. רַבִּי יְהוּדָה אוֹמֵר: זֶה אַף בַּמְּדִינָה מוּתָּר. אֶלָּא אֵיזֶהוּ שֶׁבַּמְּדִינָה אָסוּר — כֹּל שֶׁאֵינוֹ לֹא קָשׁוּר וְלָא תָּלוּי, וְשׁוֹמְטוֹ וּמַנִּיחוֹ בְּקֶרֶן זָוִית.",
+                  "וְאָמַר רַבִּי יְהוֹשֻׁעַ בַּר אַבָּא מִשְּׁמֵיהּ דְּעוּלָּא: מַאן תַּנָּא נֶגֶר הַנִּגְרָר — רַבִּי אֱלִיעֶזֶר הִיא!",
+                  "אֲמַר לֵיהּ: אֲנָא דַּאֲמַרִי כִּי הַאי תַּנָּא דְּתַנְיָא: קָנֶה שֶׁהִתְקִינוֹ בַּעַל הַבַּיִת לִהְיוֹת פּוֹתֵחַ וְנוֹעֵל בּוֹ, בִּזְמַן שֶׁקָּשׁוּר וְתָלוּי בַּפֶּתַח — פּוֹתֵחַ וְנוֹעֵל בּוֹ, אֵין קָשׁוּר וְתָלוּי — אֵין פּוֹתֵחַ וְנוֹעֵל בּוֹ. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: מְתוּקָּן, אַף עַל פִּי שֶׁאֵינוֹ קָשׁוּר.",
+                  "אָמַר רַב יְהוּדָה בַּר שִׁילַת אָמַר רַב אַסִּי אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל."
+                ]
+              ],
+              "link": "/Shabbat/126a",
+              "originalRefsBeforeRewriting": [
+                "Shabbat 126a:2"
+              ],
+              "ref": "Shabbat 125b:13-126a:6",
+              "sourceHeRef": "שבת קכ״ו א",
+              "sourceRef": "Shabbat 126a"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "<b>One</b> may <b>restore</b> the <b>lower hinge pin</b> of the door of a carriage, box, or cupboard that becomes dislocated to its place on Shabbat <b>in the Temple,</b> as this action is prohibited by rabbinic decree, which is not in effect in the Temple; <b>but</b> it may <b>not</b> be restored to its place <b>in</b> the rest of <b>the country. And</b> restoring <b>the upper</b> hinge pin <b>is prohibited in both</b> places, as this is considered building, a labor prohibited by Torah law, which applies everywhere. <b>Rabbi Yehuda says:</b> Restoring <b>the upper</b> hinge pin to its place is permitted <b>in the Temple, while</b> one may restore <b>the lower one</b> to its place even <b>in</b> the rest of <b>the country.</b>",
+              "he": "מַחֲזִירִין צִיר הַתַּחְתּוֹן בַּמִּקְדָּשׁ, אֲבָל לֹא בַמְּדִינָה. וְהָעֶלְיוֹן, כָּאן וְכָאן אָסוּר. רַבִּי יְהוּדָה אוֹמֵר, הָעֶלְיוֹן בַּמִּקְדָּשׁ, וְהַתַּחְתּוֹן בַּמְּדִינָה:",
+              "link": "/Mishnah Eruvin/10",
+              "ref": "Mishnah Eruvin 10:12",
+              "sourceHeRef": "משנה עירובין י:יב",
+              "sourceRef": "Mishnah Eruvin 10:12"
+            }
+          ]
+        },
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מחזירין ציר התחתון במקדש.",
+              "ref": "Rabbeinu Chananel on Eruvin 102b:2",
+              "sourceHeRef": "רבינו חננאל על מסכת עירובין ק״ב ב:ב",
+              "sourceRef": "Rabbeinu Chananel on Eruvin 102b:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחזירין ציר התחתון</strong> - של דלת חלון שידה תיבה ומגדל שפתחיהם מצדיהן דציר התחתון כל זמן שלא יצא העליון נוח להחזירו ואין כאן בנין:",
+              "ref": "Rashi on Eruvin 102b:5:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ה:א",
+              "sourceRef": "Rashi on Eruvin 102b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל לא במדינה</strong> - גזירה שמא יתקע בגרזן או במקבות דהויא מלאכה:",
+              "ref": "Rashi on Eruvin 102b:5:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ה:ב",
+              "sourceRef": "Rashi on Eruvin 102b:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והעליון כאן וכאן אסור</strong> - דכיון שיצא העליון כולו נופל והוי כבונה וקא סבר יש בנין בכלי ומלאכה לא הותרה אפילו במקדש:",
+              "ref": "Rashi on Eruvin 102b:5:3",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ה:ג",
+              "sourceRef": "Rashi on Eruvin 102b:5:3"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>צר</big></b> [טיהר אנגעל שמערצען] מאי הכר ציר אמר רב אויא אבקתא עיין בערך אבקתא <span class=\"parenthesized\">(בכורות מה)</span> כשם שצירין לבית כך צירים לאשה שנאמר ותכרע ותלד כי נהפכו עליה ציריה. <span class=\"parenthesized\">(מועד קטן יא)</span> הציר והצנור והקורה והמנעול. <span class=\"parenthesized\">(כלים פרק יא)</span> והפותה שתחת הציר <span class=\"parenthesized\">(עירובין קב)</span> מחזירין ציר התחתון במקדש אבל לא במדינה והעליון כאן וכאן אסור פירוש ציר נוקבין הדלת וקובעין בו עץ חד כד. להכניסו באדן לחזור לכאן ולכאן ואם יצא מן הדלת מחזירין אותו בשבת בעיקרו שתי ידות תרגום תרין צירין ופי' הצנור הוא החור שבאדן <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב לשון פסוק הדלת תסוב על צירה)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Tzadi 175",
+              "sourceHeRef": "ספר הערוך, אות הצד\"י קע״ה",
+              "sourceRef": "Sefer HeArukh, Letter Tzadi 175"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> <b>מחזירין</b> בשבת <b>ציר התחתון</b> של דלת שידה תיבה ומגדל שנשמטה <b>במקדש,</b> שאין בכך אלא משום שבות, ובמקדש לא גזרו על השבות, <b>אבל לא במדינה</b> שהדבר אסור משום שבות. ציר <b>העליון — כאן וכאן אסור,</b> כי בכך יש משום בניה ומלאכה מן התורה, שאסורה בכל מקום. <b>ר' יהודה אומר:</b> ציר <b>העליון במקדש</b> — מותר, <b>והתחתון</b> מותר אף <b>במדינה.</b>",
+              "ref": "Steinsaltz on Eruvin 102b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:ה",
+              "sourceRef": "Steinsaltz on Eruvin 102b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The reason for the prohibition against restoring an upper hinge is a matter of dispute. Rashi rules that its restoration is a violation of the primary category of the prohibited labor of building, or at least a subcategory of this prohibited labor. However, in the Jerusalem Talmud, as well in <i>Tosafot</i>, it is maintained that this act constitutes only the violation of a rabbinic prohibition. Nevertheless, there is a difference between a lenient rabbinic prohibition and a stringent one, as there are types of rabbinic prohibitions that the Sages did not permit even in the Temple.",
+              "he": "טעם האיסור בהחזרת הציר העליון איננו מוסכם על הכל. לדעת רש\"י החזרת ציר עליון יש בה משום מלאכה — לפחות כתולדה ממלאכת \"בונה\". אולם בירושלמי (וכן התוספות) סבורים כי אף בכך יש משום שבות בלבד אלא יש לחלק בין שבות קלה ושבות חמורה. שיש מיני שבות שאף במקדש לא התירום חכמים.",
+              "ref": "Steinsaltz comment #1 on Eruvin 102b:5",
+              "sourceHeRef": "מַחֲזִירִין צִיר",
+              "sourceRef": "One may restore a hinge pin"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והעליון כאן וכאן אסור</strong> - <span class=\"rashi-quotation\">פי' בקונטרס</span> דקסבר יש בנין וסתירה בכלים דעל שידה תיבה ומגדל קאמר לה בגמרא ותימה אטו מתני' כב\"ש דלב\"ה אין בנין וסתירה בכלים בפ\"ב דביצה <span class=\"parenthesized\">(דף כב.)</span> ועוד קשה דבגמרא גבי והעליון כאן וכאן אסור שמא יתקע דחק לפרש דשמא יתקע קאי על תחתון דאי אעליון לא היה אסור במקדש דאין שבות במקדש ודוחק גדול הוא ונראה לר\"י דאפילו ציר העליון הוא דרבנן דשבות גדולה כזה לא התירו במקדש וטובא אשכחן דלא התירו במקדש כגון סידור הקנים ונטילתן דאינו דוחה את השבת:",
+              "ref": "Tosafot on Eruvin 102b:5:1",
+              "sourceHeRef": "תוספות על עירובין ק״ב ב:ה:א",
+              "sourceRef": "Tosafot on Eruvin 102b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> <b>One</b> may <b>restore</b> the <b>lower hinge pin</b> of the door of a carriage, box, or cupboard that becomes dislocated to its place on Shabbat <b>in the Temple,</b> as this action is prohibited by rabbinic decree, which is not in effect in the Temple; <b>but</b> it may <b>not</b> be restored to its place <b>in</b> the rest of <b>the country. And</b> restoring <b>the upper</b> hinge pin <b>is prohibited in both</b> places, as this is considered building, a labor prohibited by Torah law, which applies everywhere. <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> says:</b> Restoring <b>the upper</b> hinge pin to its place is permitted <b>in the Temple, while</b> one may restore <b>the lower one</b> to its place even <b>in</b> the rest of <b>the country.</b>",
+      "he": "<big><strong>מַתְנִי׳</strong></big> מַחְזִירִין צִיר הַתַּחְתּוֹן בַּמִּקְדָּשׁ, אֲבָל לֹא בַּמְּדִינָה. וְהָעֶלְיוֹן — כָּאן וְכָאן אָסוּר. <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">רַבִּי יְהוּדָה</span> אוֹמֵר: הָעֶלְיוֹן — בַּמִּקְדָּשׁ, וְהַתַּחְתּוֹן — בַּמְּדִינָה.",
+      "ref": "Eruvin 102b:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A person who attaches [building materials to each other] is liable for performing a derivative [of the forbidden labor] of building. Therefore, all doors that are attached to the ground should not be removed, nor should they be returned to their place, lest one attach them.<br>The doors of a cabinet, chest, or closet, or the doors of other utensils may be removed, but they may not be returned to their place. If their bottom hinge slips [partially out of place], it may be pushed back into place. In the Temple, it may be returned to its place. If, however, the upper hinge slips [out of place], it is forbidden to return it. [This is] a decree [applying] in all places, [enacted] lest one attach it.",
+              "he": "הַתּוֹקֵעַ חַיָּב מִשּׁוּם בּוֹנֶה. לְפִיכָךְ כָּל הַדְּלָתוֹת הַמְחֻבָּרוֹת לַקַּרְקַע לֹא נוֹטְלִין אוֹתָן וְלֹא מַחְזִירִין גְּזֵרָה שֶׁמָּא יִתְקַע. אֲבָל דֶּלֶת שִׁדָּה תֵּבָה וּמִגְדָּל וּשְׁאָר דַּלְתוֹת הַכֵּלִים נוֹטְלִין וְלֹא מַחְזִירִין. וְאִם נִשְׁמַט צִיר הַתַּחְתּוֹן שֶׁלָּהֶן דּוֹחֲקִין אוֹתוֹ לִמְקוֹמוֹ. וּבַמִּקְדָּשׁ מַחְזִירִין אוֹתוֹ. אֲבָל צִיר הָעֶלְיוֹן שֶׁנִּשְׁמַט אָסוּר לְהַחֲזִירוֹ בְּכָל מָקוֹם גְּזֵרָה שֶׁמָּא יִתְקַע:",
+              "ref": "Mishneh Torah, Sabbath 22:25",
+              "sourceHeRef": "הלכות שבת כב:כה",
+              "sourceRef": "Sabbath 22:25"
+            }
+          ]
+        },
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ת\"ר ציר דלת של שידה ושל תיבה ושל מגדל כו'. פי' שמא יתקע בה מסמר.",
+              "ref": "Rabbeinu Chananel on Eruvin 102b:3",
+              "sourceHeRef": "רבינו חננאל על מסכת עירובין ק״ב ב:ג",
+              "sourceRef": "Rabbeinu Chananel on Eruvin 102b:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">במקדש מחזירין</strong> - כגון שצריכין לו לדבר קרבן כגון שהיה שם מלח או לבונה או קטורת ואין שבות במקדש:",
+              "ref": "Rashi on Eruvin 102b:6:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ו:א",
+              "sourceRef": "Rashi on Eruvin 102b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ובמדינה דוחקין</strong> - אם לא יצא כולו מחור האסקופה אלא התחיל לשמט דוחקין לחור בלע\"ז אנפיינדר\"א:",
+              "ref": "Rashi on Eruvin 102b:6:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ו:ב",
+              "sourceRef": "Rashi on Eruvin 102b:6:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והעליון כאן וכאן אסור להחזיר</strong> - דהוי כבונה ממש:",
+              "ref": "Rashi on Eruvin 102b:6:3",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ו:ג",
+              "sourceRef": "Rashi on Eruvin 102b:6:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שמא יתקע</strong> - שמא יחזיקנו במקבות ובגרזן והויא מלאכה ואתחתונה במדינה קאי דאי אעליון קאי ובמקדש הוה ליה שבות דהך חזרה גזירה משום שמא יתקע ואמאי מיתסר במקדש דאמר והעליון כאן וכאן אסור והא שבות במקדש לא גזרו:",
+              "ref": "Rashi on Eruvin 102b:6:4",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ו:ד",
+              "sourceRef": "Rashi on Eruvin 102b:6:4"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ת\"ר ציר דלת שידה תיבה ומגדל במקדש מחזירין ובמדינה דוחקין. והעליון כאן וכאן לא יחזיר. גזירה שמא יתקע. ואם תקע חייב חטאת. של בור ושל דות ושל יציע לא יחזיר. ואם החזיר חייב חטאת. רבינו תם זכרונו לברכה נסתפק אם מותר לדחוק העליון במדינה מדקאמר כאן וכאן לא יחזיר משמע דלדחוק מותר אף במדינה. או דלמא האי דנקט לא יחזיר בשביל מקדש נקט אבל במדינה אפילו לדחוק אסור מדקתני ברישא במדינה דוחקין התחתון מכלל דבעליון לדחוק אסור. וכן מסתברא דאסור:",
+              "ref": "Rosh on Eruvin 10:20:2",
+              "sourceHeRef": "פסקי הרא\"ש על עירובין י:כ:ב",
+              "sourceRef": "Rosh on Eruvin 10:20:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(לז)</span> ואחד למטה</strong> - ויש חור במפתן שהציר נכנס לתוכו וכנגדו יש למעלה חור אחד שהציר העליון הוא בתוך החור:",
+                      "ref": "Mishnah Berurah 313:37",
+                      "sourceHeRef": "משנה ברורה שיג:לז",
+                      "sourceRef": "Mishnah Berurah 313:37"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(לח)</span> שמא יתקע</strong> - בחוזק בסכין וביתדות שלא יוכל עוד לצאת משם והוי מכה בפטיש ואפילו היכי שהחור הוא באמצע פתח התיבה דלא שייך למגזר כ\"כ שמא יתקע אפ\"ה אסור דגזרינן באמצע אטו מן הצד ואפילו בצירים שלנו שהם מברזל אסור להחזיר דלתי הכלים דגזרינן שמא יראה שהציר אינו תקוע יפה ויחבר אותו במסמרים:",
+                      "ref": "Mishnah Berurah 313:38",
+                      "sourceHeRef": "משנה ברורה שיג:לח",
+                      "sourceRef": "Mishnah Berurah 313:38"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(לט)</span> אבל כשיצא העליון</strong> - דעי\"ז הוא נופל לגמרי גם הדחיקה אסור כמו חזרה:",
+                      "ref": "Mishnah Berurah 313:39",
+                      "sourceHeRef": "משנה ברורה שיג:לט",
+                      "sourceRef": "Mishnah Berurah 313:39"
+                    }
+                  ]
+                }
+              },
+              "en": "5. Regarding a carriage, box and closet that open from the side and have hinges on top and below, if the bottom hinge became dis- lodged altogether it may not be replaced out of concern that he will insert it firmly but if it became dislodged partially one may push it until it falls back into place. The reason is that since the upper hinge remained in place one can easily replace the bottom hinge. When the upper hinge becomes dislodged one may not even push it back into place.",
+              "he": "שידה תיבה ומגדל שפתחיהן מן הצד ויש להם שני צירים א' למעלה ואחד למטה אם יצא התחתון כולו ממקומו אסור להחזירה שמא יתקע אבל אם יצא מקצתו דוחקו עד שמחזירו למקומו כיון שהעליון נשאר במקומו בקל יכול להחזיר התחתון אבל כשיצא העליון אסור אפי' לדוחקו להחזירו למקומו:",
+              "ref": "Shulchan Arukh, Orach Chayim 313:5",
+              "sourceHeRef": "אורח חיים שיג:ה - טלטול דלת וחלון והמנעול בשבת.",
+              "sourceRef": "Orach Chayim 313:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> <b>ציר</b> התחתון של <b>דלת שידה</b> (מזווה) <b>תיבה ומגדל</b> (ארון), <b>במקדש — מחזירין</b> למקומו, ו<b>במדינה</b> — רק <b>דוחקין</b> אותו להחזירו. וציר <b>העליון — כאן וכאן לא יחזיר, גזירה שמא יתקע</b> בחוזק ויעשה מלאכה ממש, <b>ואם תקע — חייב חטאת</b> שהוא כבונה.",
+              "ref": "Steinsaltz on Eruvin 102b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:ו",
+              "sourceRef": "Steinsaltz on Eruvin 102b:6"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b>The Sages taught</b> a <i>baraita</i>: With regard to the lower <b>hinge pin of the door of a carriage, box, or cupboard, one</b> may <b>restore</b> it to its place <b>in the Temple; in the</b> rest of the <b>country one</b> may only push it <b>back</b> into place, provided that it did not come out of its socket entirely. As for <b>the upper</b> hinge, <b>one</b> may <b>not restore</b> it <b>in either</b> place. This is prohibited as <b>a preventive measure, lest</b> one come to <b>bang</b> it in forcefully, thereby performing an actual labor prohibited by Torah law. <b>And if he</b> actually <b>banged</b> it in, <b>he is liable</b> to bring <b>a sin-offering,</b> as his action is considered building.",
+      "he": "<big><strong>גְּמָ׳</strong></big> תָּנוּ רַבָּנַן: צִיר דֶּלֶת שִׁידָּה תֵּיבָה וּמִגְדָּל, בַּמִּקְדָּשׁ — מַחֲזִירִין, בַּמְּדִינָה — דּוֹחֲקִין. וְהָעֶלְיוֹן — כָּאן וְכָאן לֹא יַחֲזִיר, גְּזֵרָה שֶׁמָּא יִתְקַע. וְאִם תָּקַע — חַיָּיב חַטָּאת.",
+      "ref": "Eruvin 102b:6",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">יָצִיעַ II</strong> f. (Biblical Hebrew יצוע K’ri; <span class=\"refLink\" data-ref=\"Jastrow, יָצַע 1\" dir=\"rtl\" href=\"/Jastrow,_יָצַע.1\">יָצַע</span>) <i>extension, wing</i> of a building. <span class=\"refLink\" data-ref=\"Mishnah Bava Batra 4:1\" href=\"/Mishnah_Bava_Batra.4.1\">Bava Batra IV, 1</span> (<span class=\"refLink\" data-ref=\"Bava Batra 61a:7\" href=\"/Bava_Batra.61a.7\">61ᵃ</span>), see <span class=\"refLink\" data-ref=\"Jastrow, אַפְתָּא II 1\" href=\"/Jastrow,_אַפְתָּא II.1\"><span dir=\"rtl\">אַפְתָּא</span> II</span>, and <span class=\"refLink\" data-ref=\"Jastrow, *בַּרְקָא III 1\" href=\"/Jastrow,_*בַּרְקָא III.1\"><span dir=\"rtl\">בַּרְקָא</span> III</span>. <span class=\"refLink\" data-ref=\"Pesachim 8a\" href=\"/Pesachim.8a\">Pesachim 8ᵃ</span>. <span class=\"refLink\" data-ref=\"Eruvin 102b:7\" href=\"/Eruvin.102b.7\">Eruvin 102ᵇ</span> <span dir=\"rtl\">ושל י׳</span> and the door-pin of an extension. <span class=\"refLink\" data-ref=\"Tosefta Negaim 6:5\" href=\"/Tosefta_Negaim.6.5\">Tosefta Negaim VI, 5</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, יָצִיעַ II 1",
+              "sourceHeRef": "מילון יסטרוב, יָצִיעַ II א׳",
+              "sourceRef": "Jastrow, יָצִיעַ II 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">של בור ושל דות</strong> - דהוי בנין המחובר לקרקע חשיב בנין בכל דהו:",
+              "ref": "Rashi on Eruvin 102b:7:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ז:א",
+              "sourceRef": "Rashi on Eruvin 102b:7:1"
+            },
+            {
+              "en": "",
+              "he": "בור בחפירה דות בבנין בתוך הקרקע אישקדיינ\"א:",
+              "ref": "Rashi on Eruvin 102b:7:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ז:ב",
+              "sourceRef": "Rashi on Eruvin 102b:7:2"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>יציע</big></b> [פאהר הויז] <span class=\"parenthesized\">(עירובין קב)</span> של בור ושל דות ושל יציע לא יחזיר <span class=\"parenthesized\">(ב\"ב סא)</span> לא מכר את היציע <span class=\"parenthesized\">(גמרא)</span> מאי יציע הכא תרגומו אפתא תני רב יוסף ג' שמות יש לו יציע וצלע ותא כבר פירשנו בערך אפתא. פי' היציע התחתונה אלו לשכות שהיו בנויות חוץ לכותל בית המקדש והיו תחתיים ושניים ושלישים זו על זו וכי האי גוונא היו בנויות דקיימא לן כותל ההיכל עוביו ששה אמות מלמטה של יציע התחתונה והיציע היתה ה' באמה רחבה וכנס אמה מן כותל ההיכל כנגד תקרה של יציע התחתון ועל אותה כניסה שוכבין ראשי קורותיו של יציע וממנו ולמעלה עד היציע התחתונה היה עוביו של כותל ההיכל ה' אמה וכנגד תקרה של תיכונה כנס אמה בכותל ההיכל שעל אותה כניסה ראשי קורות התיכונ' שוכבות ולהכי היתה התיכונה ששה אמות רחבה ומן היציע התיכונה ועד הג' היה עובי כותל ההיכל ד' אמות וכנס עוד אמה מקום שקירותיו שוכבות ולהכי כתבו והשלישית ו' באמה רחבה נמצא מן התקרה השלישי ולמעלה עוביו של כותל ג' אמה והיינו כי מגרעות כניסות לבלתי אחוז בקירות הבית כדי שלא יהו צריכין לנקוב הכותל בשביל הנחת הקורות שלא יהא הכותל רעוע והצלעות צלע אל צלע ולא יהיו אחוזים בקירות הבית אלא כדאמרן במגרעות והתא היינו יציע בין התאים ה' אמות כלומר בין תא לתא ה' אמות ואיבעית אימא מהכא מצית יליף דתא היינו יציע של אחר הבית דקא חשיב במדות כותל ההיכל ששה עוביו והתא ששה והיינו יציע:",
+              "ref": "Sefer HeArukh, Letter Yod 80",
+              "sourceHeRef": "ספר הערוך, אות היו\"ד פ׳",
+              "sourceRef": "Sefer HeArukh, Letter Yod 80"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ו<b>של בור ושל דות ושל יציע — לא יחזיר</b> כלל, <b>ואם החזיר — חייב חטאת,</b> שרק בדלתות כלים המיטלטלים היה מקום לחלק, שספק אם יש בהן איסור בניה, אולם כל דבר המחובר לקרקע ודאי אסור לתקנו משום מלאכת \"בונה\".",
+              "ref": "Steinsaltz on Eruvin 102b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:ז",
+              "sourceRef": "Steinsaltz on Eruvin 102b:7"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מי שיצא לרה\"ר ונזכר שיש תפילין בראשו מכסה את ראשו עד שמגיע לביתו אם היה בהמ\"ד נוטלן ומניחן במקום המוצנע מחזירין ציר התחתון של דלת שידה תיבה ומגדל ואין מחזירין ציר העליון של בור של יציע ושל דות [ה\"ז לא יחזיר] ואם החזיר חייב חטאת.",
+              "ref": "Tosefta Eruvin 8:11",
+              "sourceHeRef": "תוספתא עירובין ח:יא",
+              "sourceRef": "Tosefta Eruvin 8:11"
+            },
+            {
+              "en": "",
+              "he": "יוצאין באספלנית, ובמלוגמא, וברטייה, שעל גבי המכה, ואם נפל לא יחזיר, ואין צריך לומר שלא יתן כתחלה בשבת.",
+              "ref": "Tosefta Shabbat (Lieberman) 5:5",
+              "sourceHeRef": "תוספתא שבת (ליברמן) ה:ה",
+              "sourceRef": "Tosefta Shabbat (Lieberman) 5:5"
+            },
+            {
+              "en": "",
+              "he": "יוצאין במוך ובספוג שע\"ג מכה ובלבד שלא יכרוך עליהן חוט או משיחה יוצאין בקליפת השום ובקליפת הבצל שע\"ג מכה [אם] נפל לא יחזיר ואצ\"ל שלא [יתן בתחילה] בשבת יוצאין באגד שעל גבי מכה וקושרו ומתירו בשבת ואספלנית שפרשה מן האגד מחזירה יוצאין באספלנית ובמלוגמה וברטיה שע\"ג המכה [ואספלנית] לא יחזיר ואצ\"ל שלא יתן בתחלה בשבת [נוטלה] ומכסה בה הכלים לא יתקננה משבת למוצאי שבת שאין מתקינין מקדש לחול ר' יהודה אומר אם החליקה מלמטה מחליקה מלמעלה ואם החליקה מלמעלה מחליקה מלמטה מגלה מקצת אספלנית מכאן ומקנח את המכה וחוזר ומגלה מקצת אספלנית מכאן ומקנח את המכה לא [יקח] האספלנית מפני שבא לידי מירוח והממרח בשבת חייב חטאת.",
+              "ref": "Tosefta Shabbat 6:3",
+              "sourceHeRef": "תוספתא שבת ו:ג",
+              "sourceRef": "Tosefta Shabbat 6:3"
+            }
+          ]
+        }
+      },
+      "en": "With regard to the hinge pin of the door of <b>a pit, cistern, or an extension</b> to a building, <b>one</b> may <b>not restore</b> it to its place at all. <b>And if</b> one <b>restored</b> it to its place, <b>he is liable</b> to bring <b>a sin-offering.</b> The above distinction applies only to movable utensils, whereas anything attached to the ground may certainly not be fixed in place, as this is regarded as prohibited building.",
+      "he": "שֶׁל בּוֹר וְשֶׁל דּוּת וְשֶׁל יָצִיעַ — לֹא יַחְזִיר, וְאִם הֶחְזִיר חַיָּיב חַטָּאת.",
+      "ref": "Eruvin 102b:7"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "<b>One</b> may <b>return</b> to its place <b>a bandage</b> that became detached from a wound on Shabbat <b>in the Temple.</b> In the Temple, this is not prohibited as a preventive measure, lest one come to spread the ointment and thereby perform the prohibited labor of smoothing. <b>However,</b> one may <b>not</b> return a bandage to its place <b>in</b> the rest of <b>the country. If</b> one sought to apply the bandage <b>for the first time</b> to an untreated wound on Shabbat, <b>it is prohibited in both</b> places. <b>One</b> may <b>tie up</b> on Shabbat <b>a string [<i>nima</i>]</b> that came loose from a harp used <b>in the Temple, but not in</b> the rest of <b>the country. And</b> tying the string to the harp for <b>the first time is prohibited</b> both <b>here and there.</b> A wart is an example of a blemish that temporarily disqualifies a priest from performing the Temple service, and disqualifies an animal from being offered on the altar; they regain their fitness once the wart is removed. Consequently, on Shabbat <b>one</b> may <b>cut off a wart</b> by hand <b>in the Temple,</b> as this constitutes a preparatory act required for the sacrificial service. <b>However,</b> he may <b>not</b> cut off a wart <b>in</b> the rest of <b>the country. And if</b> he seeks to cut off the wart <b>with an instrument, it is prohibited in both</b> places.",
+              "he": "מַחֲזִירִין רְטִיָּה בַמִּקְדָּשׁ, אֲבָל לֹא בַמְּדִינָה. אִם בַּתְּחִלָּה, כָּאן וְכָאן אָסוּר. קוֹשְׁרִין נִימָא בַמִּקְדָּשׁ, אֲבָל לֹא בַמְּדִינָה. אִם בַּתְּחִלָּה, כָּאן וְכָאן אָסוּר. חוֹתְכִין יַבֶּלֶת בַּמִּקְדָּשׁ, אֲבָל לֹא בַמְּדִינָה. וְאִם בִּכְלִי, כָּאן וְכָאן אָסוּר:",
+              "link": "/Mishnah Eruvin/10",
+              "ref": "Mishnah Eruvin 10:13",
+              "sourceHeRef": "משנה עירובין י:יג",
+              "sourceRef": "Mishnah Eruvin 10:13"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A bandage that has fallen onto a utensil may be put back [on a wound]. If, however, it falls to the ground, one is forbidden to put it back.<br>We may place a bandage on a wound for the first time in the Temple [on the Sabbath], for the prohibitions classified as <i>sh'vut</i> do not apply in the Temple. In all places, one is allowed to clean the opening of a wound. One may not, however, clean a bandage, lest one spread [a salve].",
+              "he": "רְטִיָּה שֶׁפָּרְשָׁה עַל גַּבֵּי כְּלִי מַחְזִירִין אוֹתָהּ. וְאִם פָּרְשָׁה עַל גַּבֵּי קַרְקַע אָסוּר לְהַחֲזִירָהּ. וּמַנִּיחִין רְטִיָּה עַל גַּבֵּי הַמַּכָּה לְכַתְּחִלָּה בַּמִּקְדָּשׁ שֶׁאֵין אִסּוּר שְׁבוּת בַּמִּקְדָּשׁ. וּבְכָל מָקוֹם מְקַנְּחִין פִּי הַמַּכָּה וְאֵין מְקַנְּחִין אֶת הָרְטִיָּה שֶׁמָּא יְמָרֵחַ:",
+              "ref": "Mishneh Torah, Sabbath 21:27",
+              "sourceHeRef": "הלכות שבת כא:כז",
+              "sourceRef": "Sabbath 21:27"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחזירין רטיה</strong> - כהן שלקה בידו ונתן עליה רטיה מבעוד יום והוצרך לעבוד עבודה בשבת או ביו\"ט ונטל רטיה מעל ידו שלא תהא חוצצת בינו ובין ידו לעבודה דחציצה פוסלת בה דבעינן ולקח הכהן וכיון דחייץ לא הוי לקיחה בכהן מחזירה במקדש דאי לא שרית ליה להחזירה לא שקיל ליה מידיה וממנע ולא עביד עבודה וזה אחד משלשה דברים האמורים במסכת ביצה שהותרו סופן משום תחילתן:...",
+              "ref": "Rashi on Eruvin 102b:8:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ח:א",
+              "sourceRef": "Rashi on Eruvin 102b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל לא במדינה</strong> - גזירה שמא ימרח הרטיה ומירוח היינו מוחק האמור באבות מלאכות של שבת:",
+              "ref": "Rashi on Eruvin 102b:8:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ח:ב",
+              "sourceRef": "Rashi on Eruvin 102b:8:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אם בתחלה</strong> - שלא היתה קשורה מבעוד יום וכהן זה לא סלק' לצורך עבודה:",
+              "ref": "Rashi on Eruvin 102b:8:3",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ח:ג",
+              "sourceRef": "Rashi on Eruvin 102b:8:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כאן וכאן אסור</strong> - והכא ליכא למימר אין שבות במקדש דהא ודאי האי שבות לאו צורך גבוה הוא אלא לצורך עצמו:",
+              "ref": "Rashi on Eruvin 102b:8:4",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ח:ד",
+              "sourceRef": "Rashi on Eruvin 102b:8:4"
+            }
+          ]
+        },
+        "Rav Nissim Gaon": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מחזירין רטיה במקדש אבל לא במדינה במסכ' יום טוב בפר' א' גרסי מאי טעמ' התירו חזרת רטייה במקדש ואוקמוה בכהן שעובד עבודה והינו דאמ' עולא ג' דברים התירו סופן משום תחילתן ואלו הן עור לפני הדריסה ותריסי חנויות וחזרת רטיה במקדש קמ\"ל הותרו סופן משום תחילתן כהן דבר עבודה אין דלאו בר עבודה לא:",
+              "ref": "Rav Nissim Gaon on Eruvin 102b:1",
+              "sourceHeRef": "רב נסים גאון על מסכת עירובין ק״ב ב:א",
+              "sourceRef": "Rav Nissim Gaon on Eruvin 102b:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רב זוטרא בר טוביה אמר רב עין שמרדה מותר לכוחלא בשבת: סבור מינה היכא דשחיקי סממנין מאתמול אבל מישחק סממנין בשבת ואייתינהו דרך רה\"ר לא. אמר ליה ההוא מרבנן ור' יעקב שמיה לדידי מיפרשא ליה מיניה דרב יהודה אפי' משחק סממנין בשבת ואייתינהו בשבת דרך רה\"ר שרי. מ\"ט שורייקי דעינא בליבא תליין ואיכא סכנת נפשות. כגון מאי. אמר רב יהודה כגון דמא דיריא ודיצא ודמעתה וקדחת ותחילת אוכלא. לאפוקי סוף אוכלא. ופצוחי עינא דלא. שמעינן מהכא דמה שהוא סכנת אבר אין מחללין עליו את השבת באיסור דאורייתא אבל באיסור דרבנן מחללין. דאפילו כי שחיקי סממנין מאתמול נמי איכא איסורא דרבנן. דכל רפואה אסורה משום שחיקת סממנין והכא נמי כל צורכי חולה נעשין על ידי עובד כוכבים בשבת ולא שני לן בין שבות דאית ביה מעשה לשבות דלית ביה מעשה. או שמא איכא לפלוגי בין חסרון אבר לחולה שאין בו סכנה. כדאמר <span class=\"parenthesized\">(עירובין דף קב:)</span> אין מחזירין רטייה במדינה. או שמא חזרת רטייה למכה ליכא חולה אלא חשש בעלמא ולהכי לא שרינן ביה שבות דאית ביה מעשה וצ\"ע:",
+              "ref": "Rosh on Avodah Zarah 2:10:1",
+              "sourceHeRef": "פסקי הרא\"ש על עבודה זרה ב:י:א",
+              "sourceRef": "Rosh on Avodah Zarah 2:10:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>רטייה</big></b> [פלאסטער] <span class=\"parenthesized\">(עירובין קב)</span> מחזירין רטייה במקדש הלכתא מותר לצאת בה בשבת אמר מר רב אשי פי' בלע\"ז פרי\"נטא:",
+              "ref": "Sefer HeArukh, Letter Resh 97",
+              "sourceHeRef": "ספר הערוך, אות הרי\"ש צ״ז",
+              "sourceRef": "Sefer HeArukh, Letter Resh 97"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(פא)</span> לא יחזירנה</strong> - שמא ימרח על גבה להחליק הגומות שיש בה ומירוח רטיה מלאכה דאורייתא היא משום שהוא בכלל ממחק אבל משום שחיקת סממנים ליכא למיגזר כיון דהיו מאתמול עלויה:",
+                      "ref": "Mishnah Berurah 328:81",
+                      "sourceHeRef": "משנה ברורה שכח:פא",
+                      "sourceRef": "Mishnah Berurah 328:81"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(פב)</span> יחזירנה</strong> - דכהוחלקה הרטיה ממקומה דמי דבודאי מותר להחזירה על מקומה וכשמחזירה לא יאגדנה בשבת בקשר של קיימא אלא בעניבה. וכ\"ז כשנפלה הרטיה מעצמה אבל אם הסירה במתכוין אסור להחזירה ויש חולקים ומתירים בזה ואפשר דכשהסירה ע\"מ לתקן יש לסמוך עלייהו להקל:",
+                      "ref": "Mishnah Berurah 328:82",
+                      "sourceHeRef": "משנה ברורה שכח:פב",
+                      "sourceRef": "Mishnah Berurah 328:82"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(פד)</span> ומותר וכו' לעשות רטיה</strong> - ר\"ל אע\"ג דעשיית רטיה הוא מלאכה דאורייתא של ממחק אפ\"ה מותר ע\"י א\"י אבל זה אינו מותר כ\"א כשחלה כל גופו ע\"י המכה וכדלעיל בסי\"ז בהג\"ה או שיש בו סכנת אבר דאי רק מקצת חולה אינו מותר לעשות מלאכה דאורייתא ע\"י א\"י:",
+                      "ref": "Mishnah Berurah 328:84",
+                      "sourceHeRef": "משנה ברורה שכח:פד",
+                      "sourceRef": "Mishnah Berurah 328:84"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(פה)</span> ואסור ליתן וכו'</strong> - אף דהוא רק איסור דרבנן מ\"מ ע\"י ישראל עצמו אסור בלא שינוי אפילו אם חלה כל גופו כיון שהוא חולה שאין בו סכנה וכדלעיל בסי\"ז לפי מה דמסיק השו\"ע שם:",
+                      "ref": "Mishnah Berurah 328:85",
+                      "sourceHeRef": "משנה ברורה שכח:פה",
+                      "sourceRef": "Mishnah Berurah 328:85"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(פג)</span> וע\"י א\"י וכו'</strong> - ומיירי כשהיה קצת חולה ע\"י המכה דאי היה רק מיחוש בעלמא אפילו ע\"י א\"י אסור וכנ\"ל בריש סימן זה:",
+                      "ref": "Mishnah Berurah 328:83",
+                      "sourceHeRef": "משנה ברורה שכח:פג",
+                      "sourceRef": "Mishnah Berurah 328:83"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "Even when using medicine is permissible, one may not apply topical medication (such as creams or ointments) to a bandage or a wound. If one applies ointment and smoothes its surface to spread it, he violates Torah law, as Memare’aḥ is a tolada of Memaḥek (Shabbat 75b; above, 18:6). It is also forbidden to place the ointment onto the body or the bandage without spreading it, out of concern that one will end up spreading it. Even if the bandage was prepared with ointment before Shabbat, one may not place it on the wound on Shabbat, out of concern that he will end up spreading it (SA 328:25).",
+                      "he": "גם כאשר מותר להשתמש בתרופות, אסור למרוח משחה על תחבושת או על פצע, וכל הממרח את המשחה ומחליק את פניה, עובר באיסור תורה של 'ממרח', שהוא חלק ממלאכת 'ממחק' <span class=\"parenthesized\">(שבת עה, ב; לעיל יח, ו)</span>. וגם להניח את המשחה על הגוף או על התחבושת בלא למרוח אסור, שמא מתוך כך יבואו לידי מריחה. ואף אם הכינו את התחבושת מערב שבת, אסור להניחה על הפצע בשבת מחשש שמא יבוא לידי מריחה <span class=\"parenthesized\">(שו\"ע או\"ח שכח, כה)</span>.",
+                      "ref": "Peninei Halakhah, Shabbat 28:8:2",
+                      "sourceHeRef": "שבת כח:ח:ב",
+                      "sourceRef": "Shabbat 28:8:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "רטייה שנפלה מעל גב המכה על גבי קרקע לא יחזירנה נפלה על גבי כלי יחזירנה ועל ידי עכו\"ם מותר להניחה אפי' לכתחלה: <span class=\"hebrew-emphasis\">הגה ומותר לומר לעכו\"ם לעשות רטייה על מכה או חבורה (א\"ו הארוך) ואסור ליתן עליה אפר מקלה דמרפא כי אם ע\"י עכו\"ם (מרדכי פרק שמונה שרצים):</span>",
+              "ref": "Shulchan Arukh, Orach Chayim 328:25",
+              "sourceHeRef": "אורח חיים שכח:כה - דין חולה בשבת.",
+              "sourceRef": "Orach Chayim 328:25"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג משנה</big> <b>מחזירין רטיה</b> (תחבושת) שהוסרה מן הפצע <b>במקדש</b> בשבת, שאין גוזרים שמא יבוא להחליק את המשחה, ויעבור משום מלאכת \"ממחק\", <b>אבל לא במדינה.</b> ו<b>אם בתחילה</b> להניח תחבושת כזו על פצע לא חבוש ביום השבת עצמו — <b>כאן וכאן אסור.</b>",
+              "ref": "Steinsaltz on Eruvin 102b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:ח",
+              "sourceRef": "Steinsaltz on Eruvin 102b:8"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> מחזירין רטיה כו' גזירה שמא ימרח אבל לשחיקת כו' כיון דמאתמול כו' עכ\"ל דאל\"כ אמאי נקט רטיה דשייך ביה נמי מירוח ולא נקט שאר דברים דלא שייך ביה מירוח אלא שחיקת סממנין ואפ\"ה אסור במדינה וכ\"ה בתוס' פרק במה אשה אלא כיון דמאתמול הוה עילויה ליכא ביה משום שחיקת סממנין ומיהו בסיפא אם בתחילה כאן וכאן אסור כיון דלא הוה עילויה מאתמול אית ביה נמי משום שחיקת סממנין וה\"ל למנקטיה לרבותא בשאר דברים ולא ברטיה דשייך ביה מירוח אלא משום רישא נקטיה הכי גם בסיפא ודו\"ק:",
+                      "ref": "Chidushei Halachot on Eruvin 102b:3",
+                      "sourceHeRef": "חידושי הלכות על עירובין ק״ב ב:ג",
+                      "sourceRef": "Chidushei Halachot on Eruvin 102b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחזירין רטיה במקדש אבל לא במדינה</strong> - <span class=\"rashi-quotation\">פי' בקונט'</span> גזירה שמא ימרח אבל לשחיקת סממנין ליכא למיחש כיון דמאתמול הוה עילויה וקשה דבפרק במה אשה <span class=\"parenthesized\">(שבת דף סד:)</span> אמר אשה יוצאה בפילפל ובגרגיר מלח ואם נפל לא תחזיר ואמאי כיון דכבר הוי עילויה ויש לומר דהתם טעמא לפי שנראית כמו שמתכוון להוציא לחוץ ואתי למשרי הוצאה והר\"ר יוסף פירש לשם הטעם משום שחיקת סממנים וכן יש לפרש בשמעתין ונקט רטיה לרבותא אף על גב דאיכא למיחש לשחיקת סממנין ולמירוח אפי' הכי מחזירין במקדש:",
+              "ref": "Tosafot on Eruvin 102b:8:1",
+              "sourceHeRef": "תוספות על עירובין ק״ב ב:ח:א",
+              "sourceRef": "Tosafot on Eruvin 102b:8:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> <b>One</b> may <b>return</b> to its place <b>a bandage</b> that became detached from a wound on Shabbat <b>in the Temple.</b> In the Temple, this is not prohibited as a preventive measure, lest one come to spread the ointment and thereby perform the prohibited labor of smoothing. <b>However,</b> one may <b>not</b> return a bandage to its place <b>in</b> the rest of <b>the country. If</b> one sought to apply the bandage <b>for the first time</b> to an untreated wound on Shabbat, <b>it is prohibited in both</b> places.",
+      "he": "<big><strong>מַתְנִי׳</strong></big> מַחְזִירִין רְטִיָּה בַּמִּקְדָּשׁ, אֲבָל לֹא בַּמְּדִינָה. אִם בַּתְּחִילָּה — כָּאן וְכָאן אָסוּר.",
+      "ref": "Eruvin 102b:8",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רש\"י</b> בד\"ה של בור ושל דות דהוי בנין המחובר לקרקע חשיב בנין בכל דהו כצ\"ל:",
+              "ref": "Chokhmat Shlomo on Eruvin 102b:2",
+              "sourceHeRef": "חכמת שלמה על עירובין ק״ב ב:ב",
+              "sourceRef": "Chokhmat Shlomo on Eruvin 102b:2"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A bandage that has fallen onto a utensil may be put back [on a wound]. If, however, it falls to the ground, one is forbidden to put it back.<br>We may place a bandage on a wound for the first time in the Temple [on the Sabbath], for the prohibitions classified as <i>sh'vut</i> do not apply in the Temple. In all places, one is allowed to clean the opening of a wound. One may not, however, clean a bandage, lest one spread [a salve].",
+              "he": "רְטִיָּה שֶׁפָּרְשָׁה עַל גַּבֵּי כְּלִי מַחְזִירִין אוֹתָהּ. וְאִם פָּרְשָׁה עַל גַּבֵּי קַרְקַע אָסוּר לְהַחֲזִירָהּ. וּמַנִּיחִין רְטִיָּה עַל גַּבֵּי הַמַּכָּה לְכַתְּחִלָּה בַּמִּקְדָּשׁ שֶׁאֵין אִסּוּר שְׁבוּת בַּמִּקְדָּשׁ. וּבְכָל מָקוֹם מְקַנְּחִין פִּי הַמַּכָּה וְאֵין מְקַנְּחִין אֶת הָרְטִיָּה שֶׁמָּא יְמָרֵחַ:",
+              "ref": "Mishneh Torah, Sabbath 21:27",
+              "sourceHeRef": "הלכות שבת כא:כז",
+              "sourceRef": "Sabbath 21:27"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רטיה שפרשה</strong> - שנפלה ובמדינה קא מיירי ולהכי נקט פרשה שהרי לא נטלה מדעת:",
+              "ref": "Rashi on Eruvin 102b:9:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ט:א",
+              "sourceRef": "Rashi on Eruvin 102b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחזירין</strong> - דמילתא דלא שכיחא הוא ולא גזור בה רבנן:",
+              "ref": "Rashi on Eruvin 102b:9:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ט:ב",
+              "sourceRef": "Rashi on Eruvin 102b:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבי יהודה אומר</strong> - אם נפלה אין מחזירין אבל אם הוחלקה דוחקה [ומחליקה למכה]:",
+              "ref": "Rashi on Eruvin 102b:9:3",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:ט:ג",
+              "sourceRef": "Rashi on Eruvin 102b:9:3"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מחזירין ציר התחתון במקדש אבל לא במדינה. והעליון כאן וכאן אסור. ר' יהודה אומר העליון במקדש והתחתון במדינה:",
+              "ref": "Rosh on Eruvin 10:20:1",
+              "sourceHeRef": "פסקי הרא\"ש על עירובין י:כ:א",
+              "sourceRef": "Rosh on Eruvin 10:20:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "A person who separates <i>duchsustos</i> from <i>k'laf</i>is liable for [performing] a derivative [of the forbidden labor] of skinning. A person who separates [a portion] from a hide large enough to make an amulet is liable.<br>A person who treads upon a hide with his feet until it becomes hard, or one who softens it with his hands, extending it, and leveling it as the leather workers do is liable for [performing] a derivative [of the forbidden labor] of processing.<br>A person who pulls a feather from the wing of a fowl is liable for [performing] a derivative [of the forbidden labor] of smoothing. Similarly, a person who smears a poultice of even the smallest size, beeswax, tar, or other entities that are smeared until a smooth surface is produced is liable for [performing a derivative of the forbidden labor of] smoothing.<br>A person who rubs a hide that is suspended between pillars is liable for smoothing.",
+                      "he": "הַמְפָרֵק דּוּכְסוּסְטוּס מֵעַל הַקְּלָף הֲרֵי זֶה תּוֹלֶדֶת מַפְשִׁיט וְחַיָּב. (הַמְפָרֵק מִן הָעוֹר כְּדֵי לַעֲשׂוֹת קָמֵעַ חַיָּב). הַדּוֹרֵס עַל הָעוֹר בְּרַגְלוֹ עַד שֶׁיִּתְקַשֶּׁה אוֹ הַמְרַכְּכוֹ בְּיָדוֹ וּמוֹשְׁכוֹ וּמַשְׁוֶה אוֹתוֹ כְּדֶרֶךְ שֶׁהָרַצְעָנִין עוֹשִׂין הֲרֵי זֶה תּוֹלֶדֶת מְעַבֵּד וְחַיָּב. הַמּוֹרֵט נוֹצָה מִן הָאֶבְרָה הֲרֵי זֶה תּוֹלֶדֶת מוֹחֵק וְחַיָּב. וְכֵן הַמְמָרֵחַ רְטִיָּה כָּל שֶׁהוּא אוֹ שַׁעֲוָה אוֹ זֶפֶת וְכַיּוֹצֵא בָּהֶן מִדְּבָרִים הַמִּתְמָרְחִין עַד שֶׁיַּחֲלִיק פְּנֵיהֶם חַיָּב מִשּׁוּם מוֹחֵק. וְכֵן הַשָּׁף בְּיָדוֹ עַל הָעוֹר הַמָּתוּחַ בֵּין הָעַמּוּדִים חַיָּב מִשּׁוּם מוֹחֵק:",
+                      "ref": "Mishneh Torah, Sabbath 11:6",
+                      "sourceHeRef": "הלכות שבת יא:ו",
+                      "sourceRef": "Sabbath 11:6"
+                    },
+                    {
+                      "en": "A person who spreads a plaster on the Sabbath is liable for [performing a derivative of the forbidden labor of] smoothing a hide. Therefore, it is forbidden to close a hole with wax and the like, lest one spread it. It is even forbidden to close a hole with fat. [This is] a decree, [enacted] lest [one use] wax.",
+                      "he": "הַמְמָרֵחַ רְטִיָּה בְּשַׁבָּת חַיָּב מִשּׁוּם מוֹחֵק אֶת הָעוֹר. לְפִיכָךְ אֵין סוֹתְמִין נֶקֶב בְּשַׁעֲוָה וְכַיּוֹצֵא בָּהּ שֶׁמָּא יְמָרֵחַ וַאֲפִלּוּ בְּשֻׁמָּן אֵין סוֹתְמִין אֶת הַנֶּקֶב גְּזֵרָה מִשּׁוּם שַׁעֲוָה:",
+                      "ref": "Mishneh Torah, Sabbath 23:11",
+                      "sourceHeRef": "הלכות שבת כג:יא",
+                      "sourceRef": "Sabbath 23:11"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "מגלה קצת רטייה ומקנח פי המכה וחוזר ומגלה קצתה השני ומקנחה ורטייה עצמה לא יקנח מפני שהוא ממרח:",
+              "ref": "Shulchan Arukh, Orach Chayim 328:26",
+              "sourceHeRef": "אורח חיים שכח:כו - דין חולה בשבת.",
+              "sourceRef": "Orach Chayim 328:26"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ד גמרא</big> <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> <b>רטיה שפרשה</b> (ירדה) <b>מעל גבי מכה — מחזירין</b> אותה <b>בשבת</b> בכל מקום. <b>ר' יהודה אומר:</b> אם <b>הוחלקה למטה — דוחקה למעלה, למעלה — דוחקה למטה,</b> אף מותר שיהא <b>מגלה מקצת הרטיה ומקנח פי המכה</b> מצד אחד, <b>וחוזר ומגלה מקצת רטיה</b> מצד אחר <b>ומקנח פי המכה</b> מאותו צד, אולם",
+              "ref": "Steinsaltz on Eruvin 102b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:ט",
+              "sourceRef": "Steinsaltz on Eruvin 102b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מותר לגלות רטיה ולקנח את חלק המכה ואחר כך לגלות חלק אחר של הרטיה ולקנח חלק אחר במכה. וכר' יהודה שנפסקה הלכה כמותו. (שו\"ע או\"ח שכח, כו).",
+              "ref": "Steinsaltz comment #1 on Eruvin 102b:9",
+              "sourceHeRef": "מגלה רטיה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> רטיה שפירשה כו' וי\"ל דהך דפילפל איירי שנפל ע\"ג קרקע והכא שנפל על גבי כלי כו' עכ\"ל ולעיל שהקשו לפ\"ה דלא שייך הכא שחיקת סממנין מההיא דפילפל ולא תירצו בכה\"ג דההיא דפילפל שנפל על גבי קרקע והכא ע\"ג כלי דא\"כ לטעמא דשמא ימרח נמי אמאי אוסר כיון שנפל ע\"ג כלי ודו\"ק:",
+                      "ref": "Chidushei Halachot on Eruvin 102b:4",
+                      "sourceHeRef": "חידושי הלכות על עירובין ק״ב ב:ד",
+                      "sourceRef": "Chidushei Halachot on Eruvin 102b:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רטיה שפירשה מחזירין אותה</strong> - וא\"ת ומ\"ש דאמר גבי פילפל ובגרגיר מלח נפל לא תחזיר וי\"ל דהך דפילפל איירי שנפל על גבי קרקע והכא שנפל על גבי כלי כדקאמר רב חסדא בסמוך ורב אשי דקאמר בסמוך לא שמיע לי לא קאי אדרב חסדא <span class=\"rashi-quotation\">כדפירש בקונטרס</span> אלא קאי אהלכה כר' יהודה אבל אמילתא דרב חסדא לא פליג ומודה דלא שרו רבנן אלא בכלי ועוד י\"ל ההיא דגרגיר מלח אתי כרבי יהודה דאסר הכא:",
+              "ref": "Tosafot on Eruvin 102b:9:1",
+              "sourceHeRef": "תוספות על עירובין ק״ב ב:ט:א",
+              "sourceRef": "Tosafot on Eruvin 102b:9:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יוצאין במוך ובספוג שע\"ג מכה ובלבד שלא יכרוך עליהן חוט או משיחה יוצאין בקליפת השום ובקליפת הבצל שע\"ג מכה [אם] נפל לא יחזיר ואצ\"ל שלא [יתן בתחילה] בשבת יוצאין באגד שעל גבי מכה וקושרו ומתירו בשבת ואספלנית שפרשה מן האגד מחזירה יוצאין באספלנית ובמלוגמה וברטיה שע\"ג המכה [ואספלנית] לא יחזיר ואצ\"ל שלא יתן בתחלה בשבת [נוטלה] ומכסה בה הכלים לא יתקננה משבת למוצאי שבת שאין מתקינין מקדש לחול ר' יהודה אומר אם החליקה מלמטה מחליקה מלמעלה ואם החליקה מלמעלה מחליקה מלמטה מגלה מקצת אספלנית מכאן ומקנח את המכה וחוזר ומגלה מקצת אספלנית מכאן ומקנח את המכה לא [יקח] האספלנית מפני שבא לידי מירוח והממרח בשבת חייב חטאת.",
+              "ref": "Tosefta Shabbat 6:3",
+              "sourceHeRef": "תוספתא שבת ו:ג",
+              "sourceRef": "Tosefta Shabbat 6:3"
+            },
+            {
+              "en": "",
+              "he": "נוטלה ומכסה בה את הכלים. לא יתקיננה משבת למוצאי שבת, שאין מתקינין מקדש לחול. ר' יודה אומ' אם החליקה מלמטה מחליק' מלמעלה, ואם החליקה מלמעלה מחליקה מלמטה. מגלה מקצת אספלינית מכן, ומקנח את המכה, וחוזר ומגלה מקצת אספלונית מכן, ומקנח את המכה. לא יקנח באספלונית, מפני שבא לידי מרוח, והממרח בשבת חייב חטאת.",
+              "ref": "Tosefta Shabbat (Lieberman) 5:6",
+              "sourceHeRef": "תוספתא שבת (ליברמן) ה:ו",
+              "sourceRef": "Tosefta Shabbat (Lieberman) 5:6"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b>The Sages taught</b> a <i>baraita</i>: With regard to a <b>bandage that became detached from a wound, one</b> may <b>return</b> it to its place <b>on Shabbat</b> in all cases. <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> says:</b> If <b>it slipped downward, one</b> may <b>push it upward;</b> if it slipped <b>upward, one</b> may <b>push it</b> downward. <b>One</b> may also <b>uncover part of the bandage and clean the opening of the wound</b> on one side, <b>and then uncover another part of the bandage</b> on the other side <b>and clean the opening of the wound</b> on that side.",
+      "he": "<big><strong>גְּמָ׳</strong></big> תָּנוּ רַבָּנַן: רְטִיָּה שֶׁפֵּרְשָׁה מֵעַל גַּבֵּי מַכָּה — מַחְזִירִין בְּשַׁבָּת. <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">רַבִּי יְהוּדָה</span> אוֹמֵר: הוּחְלְקָה לְמַטָּה — דּוֹחֲקָהּ לְמַעְלָה, לְמַעְלָה — דּוֹחֲקָהּ לְמַטָּה, וּמְגַלֶּה מִקְצָת הָרְטִיָּה וּמְקַנֵּחַ פִּי הַמַּכָּה, וְחוֹזֵר וּמְגַלֶּה מִקְצָת רְטִיָּה וּמְקַנֵּחַ פִּי הַמַּכָּה.",
+      "ref": "Eruvin 102b:9",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מָרַח</strong> (Biblical Hebrew; sec. root or radix of <span dir=\"rtl\">רוח</span>) <i>to soften; to poultice</i>.<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">מֵירֵחַ</strong> <br><b>1)</b> <i>to strike a plaster, rub a salve;</i> in gen. <i>to mash, crush</i>. <span class=\"refLink\" data-ref=\"Tosefta Shabbat 5\" href=\"/Tosefta_Shabbat.5\">Tosefta Shabbat V</span> (<span class=\"refLink\" data-ref=\"Tosefta Shabbat 6:6\" href=\"/Tosefta_Shabbat.6.6\">VI), 6</span> <span dir=\"rtl\">המְמָרֵחַ בשבת</span> he who mashes ingredients for a plaster on the Sabbath; <span class=\"refLink\" data-ref=\"Eruvin 102b:10\" href=\"/Eruvin.102b.10\">Eruvin 102ᵇ</span>; Yerushalmi ib. X, 26ᶜ.—<span class=\"refLink\" data-ref=\"Shabbat 75b:3\" href=\"/Shabbat.75b.3\">Shabbat 75ᵇ</span> <span dir=\"rtl\">הממ׳ רטיה וכ׳</span> he who spreads and presses the poultice over a sore; Yerushalmi ib. VII, 10ᵈ top. Ib. XXII, 3 (146ᵃ) he must not put on wax <span dir=\"rtl\">מפני שהוא ממרח</span> (Mishnah Pesachim <span dir=\"rtl\">מַמְרִיחַ</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 90) because it is an act resembling the spreading of plaster. Sifra Sh’mini, Parah 8, Chaldaic X; <span class=\"refLink\" data-ref=\"Mishnah Kelim 5:11\" href=\"/Mishnah_Kelim.5.11\">Kelim V, 11</span> <span dir=\"rtl\">מֵרְחָהּ בטיט</span> if he smeared clay over it; <span class=\"refLink\" data-ref=\"Tosefta Kelim Kamma 4:10\" href=\"/Tosefta_Kelim_Kamma.4.10\">Tosefta Kelim Bava Kamma IV, 10</span>; <span class=\"refLink\" data-ref=\"Tosefta Kelim Kamma 4:12\" href=\"/Tosefta_Kelim_Kamma.4.12\">12</span>. <span class=\"refLink\" data-ref=\"Tosefta Kelim Kamma 7:10\" href=\"/Tosefta_Kelim_Kamma.7.10\">Ib. VII, 10</span> <span dir=\"rtl\">ומי׳ שפתותיה עם הכותל</span> and connected its rims with the wall by plaster or pitch; and from—Part. pass. <span dir=\"rtl\">מְמוֹרָח</span> <i>crushed</i>. <span class=\"refLink\" data-ref=\"Bekhorot 44b:15\" href=\"/Bekhorot.44b.15\">Bekhoroth 44ᵇ</span> <span dir=\"rtl\">האי ממ׳ אשך וכ׳</span> (not <span dir=\"rtl\">ממרוח</span>) if <i>m’roaḥ</i> meant <i>crushed</i>, it ought to read <i>m’moraḥ</i> &c.; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 632:1\" href=\"/Yalkut_Shimoni_on_Torah.632.1\">Yalkut Vayikra 632</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מְרוֹחַ 1\" dir=\"rtl\" href=\"/Jastrow,_מְרוֹחַ.1\">מְרוֹחַ</span>. <br><b><br>—2)</b> <i>to pass</i> (the hand) <i>over a viscid mass, to wipe off, rub off</i>. Yerushalmi Shabbat VII, 10ᵃ bottom of page <span dir=\"rtl\">מְמָרְחוֹ בידו אחת</span> he may wipe (or brush) it off with one hand; (Bavli <span class=\"refLink\" data-ref=\"Shabbat 141a\" href=\"/Shabbat.141a\">ib. 141ᵃ</span> <span dir=\"rtl\">מגרר בצפרן</span>). <br><b><br>—3)</b> <i>to give a pile of grain an even shape, to finish the process of storing up.</i> <span class=\"refLink\" data-ref=\"Mishnah Maasrot 1:6\" href=\"/Mishnah_Maasrot.1.6\">Ma'asrot I, 6</span> <span dir=\"rtl\">משיְמָרֵחַ ואם אינו מְמָרֵחַ וכ׳</span> (Yerushalmi ed. <span dir=\"rtl\">מְמָרֵיחַ</span> or <span dir=\"rtl\">מַמְרִיחַ</span>) (is subject to tithes) as soon as he evens the pile, and if he does not even &c.; explained Yerushalmi ib. I, 49ᵃ bottom of page <span dir=\"rtl\">מן דו ישפר וכ׳</span> when he gives a finish to the surface of the pile. Ib. <span dir=\"rtl\">בשאין בדעתו למָרֵחַ</span> (not <span dir=\"rtl\">לימרח</span>) when he has not the intention to even the pile; and from—Part. pass. <span dir=\"rtl\">מְמוֹרָח</span>, f. <span dir=\"rtl\">מְמוֹרַחַת</span>; plural <span dir=\"rtl\">מְמוֹרָחִין</span>; <span dir=\"rtl\">מְמוֹרָחוֹת</span>. <span class=\"refLink\" data-ref=\"Bekhorot 11a:22\" href=\"/Bekhorot.11a.22\">Bekhoroth 11ᵃ</span>, sq. <span dir=\"rtl\">טבלים ממ׳</span> (Arukh <span dir=\"rtl\">מְרוּחִים</span>) untithed grain stored up in proper shape. Yerushalmi Peah IV, 16ᶜ bottom of page <span dir=\"rtl\">כרי ממ׳</span> a finished pile; and e.—<span class=\"refLink\" data-ref=\"Tosefta Terumot 4:15\" href=\"/Tosefta_Terumot.4.15\">Tosefta Terumot IV, 15</span> <span class=\"refLink\" data-ref=\"Jastrow, מוּרַחַת 1\" dir=\"rtl\" href=\"/Jastrow,_מוּרַחַת.1\">מוּרַחַת</span> = <span dir=\"rtl\">ממורחת</span>. <br><b><br>—4)</b> (denominative of <span class=\"refLink\" data-ref=\"Jastrow, רַחַת 1\" dir=\"rtl\" href=\"/Jastrow,_רַחַת.1\">רַחַת</span>) <i>to winnow</i>. Part. pass. as ab. <span class=\"refLink\" data-ref=\"Tosefta Ma'asrot 2:17\" href=\"/Tosefta_Ma'asrot.2.17\">Tosefta Ma'asrot II, 17</span> <span dir=\"rtl\">מצא תבואה ממ׳ עשויה כרי וכ׳</span> if one finds winnowed grain (which has been abandoned), if it is made up into a pile, you dare not take it, opposed <span dir=\"rtl\">מפוזרת</span> scattered; Yerushalmi ib. III, 50ᶜ bottom of page <span dir=\"rtl\">פירות ממורחין</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִמְרַח</strong> <br><b>1)</b> <i>to be crushed into a viscid mass</i>. <span class=\"refLink\" data-ref=\"Mishnah Bekhorot 7:5\" href=\"/Mishnah_Bekhorot.7.5\">Bekhoroth VII, 5</span> (explained <span dir=\"rtl\">מרוח אשך</span>, <span class=\"refLink\" data-ref=\"Leviticus 21:20\" href=\"/Leviticus.21.20\">Vayikra XXI, 20</span>) <span dir=\"rtl\">כל שנִמְרְחוּ אשכיו</span> (Bavli ed., 44ᵇ, <span dir=\"rtl\">נימחו</span>) whose testicles are crushed; (refuted ib. in Ib.) <span dir=\"rtl\">האי ממורח וכ׳</span>, see supra. <br><b><br>—2)</b> <i>to be smeared over</i>. <span class=\"refLink\" data-ref=\"Tosefta Kelim Kamma 7:10\" href=\"/Tosefta_Kelim_Kamma.7.10\">Tosefta Kelim Bava Kamma VII, 10</span> <span dir=\"rtl\">עד שתִּמָּרֵחַ עם השפה</span> until it is smeared over so as to be even with the rim.<br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">הִתְמָרֵחַ</strong>, <strong dir=\"rtl\"></strong><br></br> <strong>Nithpaël</strong> - <strong dir=\"rtl\">נִתְמָרֵחַ</strong> <i>to be shaped into an even pile, to be finished</i>. Yerushalmi Peah I, beginning 15ᵃ <span dir=\"rtl\">עד שלא נתמ׳ הכר</span> as long as the pile is not struck off; and e. [Y. Ma'asrot I, 49ᵃ bottom of page <span dir=\"rtl\">תבואה משיתמרח</span>, read: <span dir=\"rtl\">משימרח</span>, see supra.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, מָרַח 1",
+              "sourceHeRef": "מילון יסטרוב, מָרַח א׳",
+              "sourceRef": "Jastrow, מָרַח 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שהוא ממרח</strong> - מחליק גומות שברטיה מירוח חייב משום ממחק:",
+              "ref": "Rashi on Eruvin 102b:10:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:י:א",
+              "sourceRef": "Rashi on Eruvin 102b:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רטיה עצמה לא יקנח, מפני שהוא ממרח</b> וזו תולדה של מלאכת \"ממחק\" האסורה מן התורה. <b>ואם מירח — חייב חטאת,</b> ואילו להחזיר ממש — אסור בכל מקרה.",
+              "ref": "Steinsaltz on Eruvin 102b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:י",
+              "sourceRef": "Steinsaltz on Eruvin 102b:10"
+            }
+          ]
+        }
+      },
+      "en": "However, <b>one</b> may <b>not clean the bandage itself, because</b> that would involve <b>spreading</b> the ointment, which is a subcategory of the prohibited labor of smoothing, <b>and if one spread</b> the ointment <b>he is liable</b> to bring <b>a sin-offering.</b> Actually restoring a bandage that was completely detached from the wound is prohibited in all cases.",
+      "he": "וּרְטִיָּה עַצְמָהּ לֹא יְקַנֵּחַ, מִפְּנֵי שֶׁהוּא מְמָרֵחַ. וְאִם מֵירַח — חַיָּיב חַטָּאת.",
+      "ref": "Eruvin 102b:10"
+    },
+    {
+      "commentary": {
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "יהודה אמר פרשה אין מחזירין אותה כלל אלא הוחלקה במכה למטה דוחקה למעלה על גבי מכה וכן אם הוחלקה למעלה דוחקה למטה ומגלה מקצת רטיה ומקנח פי המכה וחוזר ומגלה מקצת רטייה ומקנח פי המכה כו'. אמר רב חסדא לא שנו אלא שפירשה ע\"ג כלי דת\"ק מתיר להחזירה ור' יהודה אוסר. אבל פירשה ע\"ג קרקע דברי הכל אסור להחזירה.",
+              "ref": "Rabbeinu Chananel on Eruvin 102b:4",
+              "sourceHeRef": "רבינו חננאל על מסכת עירובין ק״ב ב:ד",
+              "sourceRef": "Rabbeinu Chananel on Eruvin 102b:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא שנו</strong> - דתנא קמא שרי להחזירה:",
+              "ref": "Rashi on Eruvin 102b:11:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יא:א",
+              "sourceRef": "Rashi on Eruvin 102b:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא שפרשה ע\"ג כלי</strong> - על הכר או על הכסת:",
+              "ref": "Rashi on Eruvin 102b:11:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יא:ב",
+              "sourceRef": "Rashi on Eruvin 102b:11:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ע\"ג קרקע</strong> - כלכתחלה דמי:",
+              "ref": "Rashi on Eruvin 102b:11:3",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יא:ג",
+              "sourceRef": "Rashi on Eruvin 102b:11:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב יהודה אמר שמואל: הלכה כר' יהודה. אמר רב חסדא: לא שנו</b> חכמים שמותר להחזיר <b>אלא שפירשה</b> הרטיה ונפלה <b>על גבי כלי</b> שעשויה מיד להרימה ולהחזירה, <b>אבל</b> אם <b>פירשה על גבי קרקע — דברי הכל אסור,</b> שהוא כחובש פצעו בתחילה.",
+              "ref": "Steinsaltz on Eruvin 102b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:יא",
+              "sourceRef": "Steinsaltz on Eruvin 102b:11"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> said</b> that <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> said: The <i>halakha</i> is in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>. <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> said:</b> The Sages <b>taught</b> that it is permitted to restore the bandage to the wound <b>only where it became detached</b> and fell <b>onto a utensil,</b> in which case one may immediately pick it up and replace it. <b>However,</b> if <b>it became detached</b> and fell <b>onto the ground, everyone agrees it is prohibited,</b> as this is considered as though one were bandaging the wound for the first time.",
+      "he": "אָמַר <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">רַב יְהוּדָה</span> אָמַר <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">שְׁמוּאֵל</span>: הֲלָכָה <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">כְּרַבִּי יְהוּדָה</span>. אָמַר <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">רַב חִסְדָּא</span>: לֹא שָׁנוּ אֶלָּא שֶׁפֵּירְשָׁה עַל גַּבֵּי כְּלִי, אֲבָל פֵּירְשָׁה עַל גַּבֵּי קַרְקַע — דִּבְרֵי הַכֹּל אָסוּר.",
+      "ref": "Eruvin 102b:11"
+    },
+    {
+      "commentary": {
+        "Rabbeinu Chananel": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר מר בר רב אשי הוינא קאים קמיה אבא כו'. וקי\"ל כרב אשי דהוה בתרא.",
+              "ref": "Rabbeinu Chananel on Eruvin 102b:5",
+              "sourceHeRef": "רבינו חננאל על מסכת עירובין ק״ב ב:ה",
+              "sourceRef": "Rabbeinu Chananel on Eruvin 102b:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבי סדיא</strong> - נפלה לו על הכר שבמראשותיו כמו שמתרגם מראשותיו איסדוהי:",
+              "ref": "Rashi on Eruvin 102b:12:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יב:א",
+              "sourceRef": "Rashi on Eruvin 102b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא סבר לה מר להא דרב חסדא</strong> - דמוקי לפלוגתייהו בשנפלה על הכלי ואפילו הכי אסר רבי יהודה ואמר שמואל הלכה כרבי יהודה:",
+              "ref": "Rashi on Eruvin 102b:12:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יב:ב",
+              "sourceRef": "Rashi on Eruvin 102b:12:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ת\"ר רטיה שפירשה מע\"ג המכה מחזירה למכה. רבי יהודה אומר הוחלקה למטה דוחקה למעלה. למעלה דוחקה למטה. ומגלה מקצת רטייה ומקנח פי המכה וחוזר ומגלה מקצת רטייה ומקנח פי המכה. ורטייה עצמה לא יקנח מפני שהוא ממרח. ואם מירח חייב חטאת. אמר רב יהודה הלכה כרבי יהודה. ואמר רב חסדא מחלוקת שפירשה על גבי כלי. אבל פירשה על גבי קרקע ד\"ה אסור להחזיר. וקיימא לן כת\"ק. ואע\"ג דאמר רב יהודה דלית הלכתא כוותיה. דהא רב אשי דהוא בתראה עבד עובדא כוותיה דת\"ק. דאמר מר בר רב אשי הוה קאימנא קמיה דאבא ונפלה אבי סדיא ואהדרה. ואמינא ליה לא סבר לה מר להא דרב חסדא מחלוקת שפירשה על גבי כלי אבל על גבי קרקע ד\"ה אסור ואמר רב יהודה הלכה כר' יהודה. א\"ל לא שמיע לי כלומר לא סבירא לי. כי גם כשפירשה על גבי קרקע מחלוקת והלכה כת\"ק. ותמיה לי מנא ליה לרב אלפס לאקולי כולי האי היתרא לגבי קרקע והלא עובדא דרב אשי פירשה על גבי כלי הוה. ומצינו לפרושי לא שמיע ליה הא דרב יהודה אבל שמיע ליה הא דרב חסדא דבקרקע דברי הכל אסור והלכתא כתנא קמא דשרי על גבי כלי. אי נמי לא שמיע ליה הא דרב חסדא דאמר דבקרקע דברי הכל אסור אלא סבירא ליה דבקרקע פליגי אבל בכלי דברי הכל מותר דכהוחלקה דמי ליה לר' יהודה וכן פרש\"י ודרב יהודה לא שמיע ליה דהלכה כרבי יהודה בפירשה על גבי קרקע:",
+              "ref": "Rosh on Eruvin 10:21:2",
+              "sourceHeRef": "פסקי הרא\"ש על עירובין י:כא:ב",
+              "sourceRef": "Rosh on Eruvin 10:21:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר מר בר רב אשי: הוה קאימנא קמיה</b> <span class=\"hebrew-emphasis\">[הייתי עומד לפני]</span> <b>אבא, נפלה ליה אבי סדיא, וקא מהדר ליה</b> <span class=\"hebrew-emphasis\">[לו</span> הרטיה <span class=\"hebrew-emphasis\">על הכר, והחזיר אותה],</span> <b>אמינא ליה</b> <span class=\"hebrew-emphasis\">[אמרתי לו]:</span> <b>לא סבר לה מר להא</b> <span class=\"hebrew-emphasis\">[האם אין אדוני סבור</span> כאמרה <span class=\"hebrew-emphasis\">זו]</span> ש<b>אמר רב חסדא: מחלוקת — שפירשה על גבי כלי, אבל פירשה על גבי קרקע — אסור, ואמר שמואל: הלכה כר' יהודה</b> שפסק ההלכה הוא שאין להחזיר רטיה שנפלה אף על גבי כלי!",
+              "ref": "Steinsaltz on Eruvin 102b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:יב",
+              "sourceRef": "Steinsaltz on Eruvin 102b:12"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר מר בר רב אשי הוה קאימנא קמיה דרבא</strong> - ר\"ח גרס קמיה דאבא וכן נראה דל\"ג קמיה דרבא דיום שמת רבא נולד רב אשי:",
+              "ref": "Tosafot on Eruvin 102b:12:1",
+              "sourceHeRef": "תוספות על עירובין ק״ב ב:יב:א",
+              "sourceRef": "Tosafot on Eruvin 102b:12:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/mar-b-rav-ashi\" class=\"namedEntityLink\" data-slug=\"mar-b-rav-ashi\">Mar bar Rav Ashi</span> said: I was standing before Father,</b> and his bandage <b>fell onto a pillow and he replaced it. I said to him: Doesn’t the Master hold that which <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span> said: The dispute</b> is restricted to a case <b>where</b> the bandage <b>became detached</b> and fell <b>onto a utensil, but if it became detached</b> and fell <b>onto the ground,</b> everyone agrees that <b>it is prohibited; and</b> furthermore, <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> said: The <i>halakha</i> is in accordance with</b> the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>,</b> that it is prohibited to replace even a bandage that fell onto a utensil?",
+      "he": "אָמַר <span href=\"/topics/mar-b-rav-ashi\" class=\"namedEntityLink\" data-slug=\"mar-b-rav-ashi\">מָר בַּר רַב אָשֵׁי</span>: הֲוָה קָאֵימְנָא קַמֵּיהּ אַבָּא, נְפַלָה לֵיהּ אַבֵּי סַדְיָא, וְקָא מַהְדַּר לֵיהּ. אָמֵינָא לֵיהּ: לָא סָבַר לַהּ מָר לְהָא דְּאָמַר <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">רַב חִסְדָּא</span>: מַחְלוֹקֶת שֶׁפֵּירְשָׁה עַל גַּבֵּי כְּלִי, אֲבָל פֵּירְשָׁה עַל גַּבֵּי קַרְקַע — אָסוּר, וְאָמַר <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">שְׁמוּאֵל</span>: הֲלָכָה <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">כְּרַבִּי יְהוּדָה</span>!",
+      "ref": "Eruvin 102b:12"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא שמיע לי</strong> - הא דרב חסדא דאנא סבירא לי דכי פליג ר' יהודה בנפילה על גבי קרקע אבל בנפילה על גבי כלי מודה דהוה כהוחלקה בעלמא:",
+              "ref": "Rashi on Eruvin 102b:13:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יג:א",
+              "sourceRef": "Rashi on Eruvin 102b:13:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר לי: לא שמיע לי</b> <span class=\"hebrew-emphasis\">[שמעתי</span> דבר זה<span class=\"hebrew-emphasis\">]</span> <b>כלומר</b> התכוון לומר <b>לא סבירא לי</b> <span class=\"hebrew-emphasis\">[איני סבור]</span> כהלכה זו של רב חסדא שנחלקו רק כאשר נפלה רטיה על הכלים, אלא אף כשנפלה על הקרקע מחלוקת, והלכה שמותר.",
+              "ref": "Steinsaltz on Eruvin 102b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:יג",
+              "sourceRef": "Steinsaltz on Eruvin 102b:13"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אף בנושא זה נחלקו דעות הפוסקים על פי דרכי הבנתו של הביטוי על מה מוסבים דברי רב אשי \"לא שמיע לי\". לפי הכלל של \"הלכה כאחרונים\" ההלכה היא כהכרעתו של רב אשי. אולם השאלה היא איזו שיטה דחה רב אשי? האם דחה את אמרתו של שמואל שהלכה כר' יהודה? או שמא דחה את דברי רב חסדא שהמחלוקת היא רק כשפירשה על הכלי, או שמא דחה את שתיהן? לדעת הרי\"ף למשל דחה רב אשי את שתי השיטות, ולכן נפסקה הלכה כסתם ברייתא. ואילו לדעת רש\"י דחה רב אשי רק את העמדת המחלוקת במקום מסוים — ולכן מותר רק כשפירשה על גבי כלי.",
+              "ref": "Steinsaltz comment #1 on Eruvin 102b:13",
+              "sourceHeRef": "לא סבירא לי",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>He said to me: I did not hear this</b> teaching; <b>that is to say, I do not agree</b> with <span href=\"/topics/rav-chisda\" class=\"namedEntityLink\" data-slug=\"rav-chisda\">Rav Ḥisda</span>’s interpretation that the dispute is only in a case where the bandage fell onto a utensil. Rather, they disagree even if it fell onto the ground, and the <i>halakha</i> is that the bandage may be restored to the wound.",
+      "he": "אָמַר לִי: לָא שְׁמִיעַ לִי, כְּלוֹמַר לָא סְבִירָא לִי.",
+      "ref": "Eruvin 102b:13"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>קושרין נימא.</b> עיין סוכה דף נ ע\"ב ד\"ה ורבנן:",
+              "ref": "Gilyon HaShas on Eruvin 102b:1",
+              "sourceHeRef": "גליון הש\"ס על עירובין ק״ב ב:א",
+              "sourceRef": "Gilyon HaShas on Eruvin 102b:1"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "<b>One</b> may <b>return</b> to its place <b>a bandage</b> that became detached from a wound on Shabbat <b>in the Temple.</b> In the Temple, this is not prohibited as a preventive measure, lest one come to spread the ointment and thereby perform the prohibited labor of smoothing. <b>However,</b> one may <b>not</b> return a bandage to its place <b>in</b> the rest of <b>the country. If</b> one sought to apply the bandage <b>for the first time</b> to an untreated wound on Shabbat, <b>it is prohibited in both</b> places. <b>One</b> may <b>tie up</b> on Shabbat <b>a string [<i>nima</i>]</b> that came loose from a harp used <b>in the Temple, but not in</b> the rest of <b>the country. And</b> tying the string to the harp for <b>the first time is prohibited</b> both <b>here and there.</b> A wart is an example of a blemish that temporarily disqualifies a priest from performing the Temple service, and disqualifies an animal from being offered on the altar; they regain their fitness once the wart is removed. Consequently, on Shabbat <b>one</b> may <b>cut off a wart</b> by hand <b>in the Temple,</b> as this constitutes a preparatory act required for the sacrificial service. <b>However,</b> he may <b>not</b> cut off a wart <b>in</b> the rest of <b>the country. And if</b> he seeks to cut off the wart <b>with an instrument, it is prohibited in both</b> places.",
+              "he": "מַחֲזִירִין רְטִיָּה בַמִּקְדָּשׁ, אֲבָל לֹא בַמְּדִינָה. אִם בַּתְּחִלָּה, כָּאן וְכָאן אָסוּר. קוֹשְׁרִין נִימָא בַמִּקְדָּשׁ, אֲבָל לֹא בַמְּדִינָה. אִם בַּתְּחִלָּה, כָּאן וְכָאן אָסוּר. חוֹתְכִין יַבֶּלֶת בַּמִּקְדָּשׁ, אֲבָל לֹא בַמְּדִינָה. וְאִם בִּכְלִי, כָּאן וְכָאן אָסוּר:",
+              "link": "/Mishnah Eruvin/10",
+              "ref": "Mishnah Eruvin 10:13",
+              "sourceHeRef": "משנה עירובין י:יג",
+              "sourceRef": "Mishnah Eruvin 10:13"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "It is permissible to tie a knot that is not permanent in nature for the purpose of a mitzvah. For example, one may tie a knot to calibrate one of the Torah's measures.<br>One may tie a harp string that snaps in the Temple, but not anywhere else. One may not tie a harp string for the first time on the Sabbath, even in the Temple.",
+              "he": "מֻתָּר לִקְשֹׁר קֶשֶׁר שֶׁאֵינוֹ שֶׁל קַיָּמָא לִדְבַר מִצְוָה. כְּגוֹן שֶׁיִּקְשֹׁר לִמְדֹּד שִׁעוּר מִשִּׁעוּרֵי הַתּוֹרָה. נִימַת כִּנּוֹר שֶׁנִּפְסַק קוֹשְׁרִין אוֹתָהּ בַּמִּקְדָּשׁ אֲבָל לֹא בַּמְּדִינָה. וְלֹא יִקְשֹׁר נִימָא לְכַתְּחִלָּה אֲפִלּוּ בַּמִּקְדָּשׁ:",
+              "ref": "Mishneh Torah, Sabbath 10:6",
+              "sourceHeRef": "הלכות שבת י:ו",
+              "sourceRef": "Sabbath 10:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קושרין נימא</strong> - נימת כנור של שיר הלוים לקרבן אם נפסקה בשבת ובגמרא מפרש טעמא דקסבר מכשירי מצוה שלא היה יכול לעשותן מאתמול דהא היום נפסקה דוחה את השבת ואף על גב דקשר אב מלאכה הוא במסכת שבת <span class=\"parenthesized\">(דף עג.)</span>:",
+              "ref": "Rashi on Eruvin 102b:14:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יד:א",
+              "sourceRef": "Rashi on Eruvin 102b:14:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואם בתחילה</strong> - שלא היתה שם מעולם דיכול לעשות מאתמול אסור:",
+              "ref": "Rashi on Eruvin 102b:14:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יד:ב",
+              "sourceRef": "Rashi on Eruvin 102b:14:2"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>נם</big></b> [פאדען] <span class=\"parenthesized\">(ערובין קב)</span> קושרין נימא במקדש אבל לא במדינה <span class=\"parenthesized\">(יומא לח)</span> ומניח אצבעו בין הנימין מן הנימין פסולה כבר פי' בערך גרד <span class=\"parenthesized\">(כלים פ' כט)</span> נימי סדין והסודרין פי' הן הנימין שעל הסודרין ובלשון ישמעאל אלקמל ובלע\"ז וויל\"ו ושם אלו החוטין בלשון ארמי איתקא וג' פירושים לנומי אלו חיטין ונומי שעל רגלו כמין יבלת ונומי שבנהר עלקא דנהרא ואית דאמר ערקא דנהרא <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב פי' בלשון יוני חוט יתר כלי הניגון תרגום חצם על יתר גירהון על נימא תרגום על השמינית על כנורא דתמניא נימין)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Nun 138",
+              "sourceHeRef": "ספר הערוך, אות הנו\"ן קל״ח",
+              "sourceRef": "Sefer HeArukh, Letter Nun 138"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ה משנה</big> <b>קושרין</b> בשבת <b>נימא</b> (מיתר) שניתקה מכינור שמנגנים בו <b>במקדש, אבל לא במדינה. ואם בתחילה</b> להצמיד את הנימה בכינור ולקשרו שם <b>כאן וכאן אסור.</b>",
+              "ref": "Steinsaltz on Eruvin 102b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:יד",
+              "sourceRef": "Steinsaltz on Eruvin 102b:14"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It is permitted to tie a temporary knot for the purpose of a mitzva. One may tie a broken harp string in the Temple but not outside of it. However, it is prohibited to tie a knot in the first instance, even in the Temple (Rambam <i>Sefer Zemanim</i>,<i> Hilkhot Shabbat </i>10:6).",
+              "he": "מותר לקשור קשר שאינו של קיימא לדבר מצוה. ונימת כנור שנפסקה קושרים במקדש אבל לא במדינה. אבל לא יעשה קשר לכתחילה אף במקדש. (רמב\"ם ספר זמנים הלכות שבת פ\"י ה\"ו).",
+              "ref": "Steinsaltz comment #1 on Eruvin 102b:14",
+              "sourceHeRef": "נִימָא בַּמִּקְדָּשׁ",
+              "sourceRef": "A string in the Temple"
+            },
+            {
+              "en": "",
+              "he": "מקורה של מלה זו הוא ביוונית ... <eng>íçìá</eng> חוט, מיתר.",
+              "ref": "Steinsaltz comment #2 on Eruvin 102b:14",
+              "sourceHeRef": "נימא",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קושרין נימא כו' ואם לכתחילה כאן וכאן אסור</strong> - <span class=\"rashi-quotation\">פירש בקונטרס</span> שלא היתה שם מאתמול ור\"י מפרש לכתחילה אפילו נפסקה היום ורצה לשלשלה ולעשותה בלא קשר זהו לכתחילה:",
+              "ref": "Tosafot on Eruvin 102b:14:1",
+              "sourceHeRef": "תוספות על עירובין ק״ב ב:יד:א",
+              "sourceRef": "Tosafot on Eruvin 102b:14:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> <b>One</b> may <b>tie up</b> on Shabbat <b>a string [<i>nima</i>]</b> that came loose from a harp used <b>in the Temple, but not in</b> the rest of <b>the country. And</b> tying the string to the harp for <b>the first time is prohibited</b> both <b>here and there.</b>",
+      "he": "<big><strong>מַתְנִי׳</strong></big> קוֹשְׁרִין נִימָא בַּמִּקְדָּשׁ, אֲבָל לֹא בַּמְּדִינָה. וְאִם בַּתְּחִילָּה — כָּאן וְכָאן אָסוּר.",
+      "ref": "Eruvin 102b:14",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">נִימָא</strong>, <strong dir=\"rtl\">נִימָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, נָמָא 1\" dir=\"rtl\" href=\"/Jastrow,_נָמָא.1\">נמא</span>, compare <span class=\"refLink\" data-ref=\"Jastrow, נְמָיָה 1\" dir=\"rtl\" href=\"/Jastrow,_נְמָיָה.1\">נְמָיָה</span> = <span class=\"refLink\" data-ref=\"Jastrow, נְבָיָיה 1\" dir=\"rtl\" href=\"/Jastrow,_נְבָיָיה.1\">נְבָיָיה</span>, also meanings of <span class=\"refLink\" data-ref=\"Jastrow, נִיב 1\" dir=\"rtl\" href=\"/Jastrow,_נִיב.1\">נִיב</span>, <span class=\"refLink\" data-ref=\"Jastrow, נִיבָא I 1\" dir=\"rtl\" href=\"/Jastrow,_נִיבָא I.1\">נִיבָא</span>) [<i>hanging over</i>,] <br><b>1)</b> <i>fringe, cord, hair</i> (of the eye-brow); <i>bristle; fibre</i>. <span class=\"refLink\" data-ref=\"Beitzah 14b:14\" href=\"/Beitzah.14b.14\">Beitzah 14ᵇ</span> <span dir=\"rtl\">שמא תכרך נ׳ וכ׳</span> lest a fringe (shred of the garment used as mattress) wind itself around his body; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Kilayim 9:1:14\" href=\"Jerusalem_Talmud_Kilayim.9.1.14\">Yerushalmi Kilayim IX, 32ᵃ</span> bottom of page <span class=\"refLink\" data-ref=\"Niddah 67a:21\" href=\"/Niddah.67a.21\">Niddah 67ᵃ</span>, and e. <span dir=\"rtl\">נ׳ אחת</span> one single thread; Yerushalmi Shabbat VII, 7ᵈ top <span class=\"refLink\" data-ref=\"Jastrow, נָמָא 1\" dir=\"rtl\" href=\"/Jastrow,_נָמָא.1\">נמא</span> (correct accordingly). <span class=\"refLink\" data-ref=\"Bereishit Rabbah 93:4\" href=\"/Bereishit_Rabbah.93.4\">Breishit Rabbah section (Parashah) 93</span> <span dir=\"rtl\">קשר חבל בחבל ונ׳ בנ׳</span> (Arukh <span dir=\"rtl\">ניניא</span>) he tied rope to rope, string to string. Ib. <span dir=\"rtl\">נ׳ אחת היתה לו בלבו</span> he had one bristle on his chest; Yalkut ib. 150. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 65:22\" href=\"/Bereishit_Rabbah.65.22\">Breishit Rabbah section (Parashah) 65</span>, end <span dir=\"rtl\">קשר בה נ׳ וכ׳</span> (Arukh <span dir=\"rtl\">ניניא</span>) he tied a string to it …, and hanged himself. <span class=\"refLink\" data-ref=\"Tosefta Sotah 1:2\" href=\"/Tosefta_Sotah.1.2\">Tosefta Sotah I, 2</span> <span dir=\"rtl\">כדי שיקשור הגרדי נ׳</span> as much time as the weaver needs to knot a fringe; Yerushalmi ib. I, 16ᶜ bottom of page—<span class=\"refLink\" data-ref=\"Bava Batra 16a:18\" href=\"/Bava_Batra.16a.18\">Bava Batra 16ᵃ</span> (reference. to <span class=\"refLink\" data-ref=\"Jastrow, סערה 1\" dir=\"rtl\" href=\"/Jastrow,_סערה.1\">סערה</span>, <span class=\"refLink\" data-ref=\"Job 38:1\" href=\"/Job.38.1\">Job XXXVIII, 1</span>) <span dir=\"rtl\">וכל נ׳ ונ׳ וכ׳</span> for each hair (of the eye-brow) &c., see <span class=\"refLink\" data-ref=\"Jastrow, גּוּמָא 1\" dir=\"rtl\" href=\"/Jastrow,_גּוּמָא.1\">גּוּמָא</span>. <span class=\"refLink\" data-ref=\"Shabbat 30a:9\" href=\"/Shabbat.30a.9\">Shabbat 30ᵃ</span>, and from <span dir=\"rtl\">מלא נ׳</span> a thread’s (or hair’s) breadth. <span class=\"refLink\" data-ref=\"Mishnah Eruvin 10:13\" href=\"/Mishnah_Eruvin.10.13\">Eruvin X, 13</span> <span dir=\"rtl\">קושרין נ׳ במקדש</span> they were permitted to knot a broken string of a musical instrument in the Temple; <span class=\"refLink\" data-ref=\"Eruvin 102b:15\" href=\"/Eruvin.102b.15\">ib. 102ᵇ</span> <span dir=\"rtl\">נִימַת כינור</span>; and from—plural <span dir=\"rtl\">נִימִין</span>. Bava Batra l. common gender. <span class=\"refLink\" data-ref=\"Mishnah Shekalim 8:5\" href=\"/Mishnah_Shekalim.8.5\">Shekalim VIII, 5</span> ed. (Manuscript Munich <span dir=\"rtl\">נִירִין</span>); and from <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, נִיב 1\" dir=\"rtl\" href=\"/Jastrow,_נִיב.1\">נִיב</span>) plural <span dir=\"rtl\">נִימִין</span> <i>mustache</i>. <span class=\"refLink\" data-ref=\"Yoma 38b:2\" href=\"/Yoma.38b.2\">Yoma 38ᵇ</span> <span dir=\"rtl\">בין הנ׳</span> on the division line between the two parts of the mustache. <br><b><br>—3)</b> <span dir=\"rtl\">נ׳ של מים</span> (compare <span class=\"refLink\" data-ref=\"Jastrow, בִּינָא III 1\" href=\"/Jastrow,_בִּינָא III.1\"><span dir=\"rtl\">בִּינָא</span> III</span>) <i>leech</i>. <span class=\"refLink\" data-ref=\"Avodah Zarah 12b:3\" href=\"/Avodah_Zarah.12b.3\">Pirkei Avot Zar. 12ᵇ</span>. [<span class=\"refLink\" data-ref=\"Avodah Zarah 10b:12\" href=\"/Avodah_Zarah.10b.12\">Ib. 10ᵇ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נוֹמִי 1\" dir=\"rtl\" href=\"/Jastrow,_נוֹמִי.1\">נוֹמִי</span>.]."
+              ],
+              "he": [],
+              "ref": "Jastrow, נִימָא 1",
+              "sourceHeRef": "מילון יסטרוב, נִימָא א׳",
+              "sourceRef": "Jastrow, נִימָא 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "פלוגתא דר\"א ורבנן גבי מילה <span class=\"parenthesized\">(שבת דף קל.)</span> שר\"א מתיר לחטוב עצים ולעשות פחמין בשבת לעשות איזמל למול בו:",
+              "ref": "Rashi on Eruvin 102b:15:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:טו:א",
+              "sourceRef": "Rashi on Eruvin 102b:15:1"
+            },
+            {
+              "en": "",
+              "he": "קרבן צבור הוה מצוה הדוחה את השבת ושיר הוי מכשירין דידה:",
+              "ref": "Rashi on Eruvin 102b:15:2",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:טו:ב",
+              "sourceRef": "Rashi on Eruvin 102b:15:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ו גמרא</big> <b>ורמינהו</b> <span class=\"hebrew-emphasis\">[ומשליכים,</span> מראים סתירה<span class=\"hebrew-emphasis\">]</span> ממה ששנינו בברייתא אחרת: <b>נימת כנור שנפסקה — לא היה קושרה אלא עונבה,</b> משמע שקשירה אסורה אפילו במקדש! ומתרצים <b>לא קשיא</b> <span class=\"hebrew-emphasis\">[אינו קשה]</span> <b>הא</b> <span class=\"hebrew-emphasis\">[זו]</span> הברייתא האוסרת — <b>רבנן</b> <span class=\"hebrew-emphasis\">[כ</span>שיטת <span class=\"hebrew-emphasis\">חכמים]</span> <b>והא</b> <span class=\"hebrew-emphasis\">[זו] —</span> כשיטת <b>ר' אליעזר.</b>",
+              "ref": "Steinsaltz on Eruvin 102b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:טו",
+              "sourceRef": "Steinsaltz on Eruvin 102b:15"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "@ia<BMP c:/m-ocr/eruvin/bmp/e453.bmp 820 820 0.000 6 60.284 57.111 0 0 0 0 60.284 57.111>\nכנור (לירה) מתקופת המשנה, מתוך ציור יוני.\nנימיו של כנור זה נקשרות על הכפתורים העולים שבקצהו.",
+              "ref": "Steinsaltz comment #1 on Eruvin 102b:15",
+              "sourceHeRef": "כנור",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b>And</b> the Gemara <b>raises a contradiction</b> from a <i>baraita</i>: If <b>a harp string broke, one would not tie it up</b> with a knot, <b>but fashion a bow.</b> This teaching indicates that tying up a harp string is prohibited even in the Temple. The Gemara answers: It is <b>not difficult; this</b> <i>baraita</i>, which prohibits tying, was taught <b>in accordance with</b> the opinion of <b>the Rabbis; and that</b> mishna is in accordance with the opinion of <b><span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>.</b>",
+      "he": "<big><strong>גְּמָ׳</strong></big> וּרְמִינְהוּ: נִימַת כִּנּוֹר שֶׁנִּפְסְקָה — לֹא הָיָה קוֹשְׁרָהּ אֶלָּא עוֹנְבָהּ! לָא קַשְׁיָא: הָא — רַבָּנַן, וְהָא — <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">רַבִּי אֱלִיעֶזֶר</span>.",
+      "ref": "Eruvin 102b:15",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מַכְשִׁיר</strong>, <strong dir=\"rtl\">מַכְשִׁירִין</strong> (<span class=\"refLink\" data-ref=\"Jastrow, כָּשֵׁר I 1\" dir=\"rtl\" href=\"/Jastrow,_כָּשֵׁר I.1\">כָּשֵׁר</span>) <br><b>1)</b> <i>preparatory means, preliminary acts</i>. <span class=\"refLink\" data-ref=\"Megillah 7b:12\" href=\"/Megillah.7b.12\">Megillah 7ᵇ</span> <span dir=\"rtl\">מַכְשִׁירֵי אוכל נפש</span> acts preliminary to the preparation of food (as grinding the slaughtering knife &c.). <span class=\"refLink\" data-ref=\"Megillah 7b:13\" href=\"/Megillah.7b.13\">Ib.</span> <span dir=\"rtl\">הוא ולא מַכְשִׁירָיו</span> it says (<span class=\"refLink\" data-ref=\"Exodus 12:16\" href=\"/Exodus.12.16\">Shemot XII, 16</span>) ‘that’ (alone may be done), but not its preliminaries. Ib. <span dir=\"rtl\">מ׳ שאפשר וכ׳</span> acts which might have been done a day before. <span class=\"refLink\" data-ref=\"Eruvin 102b:16\" href=\"/Eruvin.102b.16\">Eruvin 102ᵇ</span>, sq. <span dir=\"rtl\">מ׳ מצוה</span> requirements of a religious act (to be performed on the Sabbath, see <span class=\"refLink\" data-ref=\"Jastrow, דָּחָה 1\" dir=\"rtl\" href=\"/Jastrow,_דָּחָה.1\">דָּחָה</span>). <span class=\"refLink\" data-ref=\"Shabbat 136a\" href=\"/Shabbat.136a\">Shabbat 136ᵃ</span> <span class=\"refLink\" data-ref=\"Jastrow, מילי ² 1\" dir=\"rtl\" href=\"/Jastrow,_מילי ².1\">מ׳ מילה</span> requirements for circumcision. <span class=\"refLink\" data-ref=\"Tosefta Pesachim 5:1\" href=\"/Tosefta_Pesachim.5.1\">Tosefta Pesachim V, 1</span>; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Shabbat 19:1:10\" href=\"Jerusalem_Talmud_Shabbat.19.1.10\">Yerushalmi Shabbat XIX, 17ᵃ</span> top; and from <br><b><br>—2)</b> <i>Makhshirin</i> (things which make an object fit for levitical uncleanness), name of a treatise of the Mishnah and Tosefta, of the Order of Tohăroth."
+              ],
+              "he": [],
+              "ref": "Jastrow, מַכְשִׁיר 1",
+              "sourceHeRef": "מילון יסטרוב, מַכְשִׁיר א׳",
+              "sourceRef": "Jastrow, מַכְשִׁיר 1"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "As a continuation to the discussion at the end of the previous chapter, which mentioned circumcision in the context of a discussion of the <i>halakhot</i> of childbirth on Shabbat, the mishna continues to address the <i>halakhot</i> of circumcision. <b>Rabbi Eliezer says: If he did not bring an implement</b> for circumcising the child <b>on Shabbat eve, he brings it on Shabbat</b> itself <b>uncovered</b> so that it will be clear to all that he is bringing a circumcision scalpel. <b>And in</b> times of <b>danger,</b> when decrees of persecution prohibit Jews from circumcising their children, <b>one covers it in the presence of witnesses</b> who can testify that he transported the scalpel to perform a mitzva. <b>And furthermore, Rabbi Eliezer said</b> with regard to this issue: <b>One</b> may even <b>cut down trees to prepare charcoal</b> in order <b>to fashion iron tools</b> for the purpose of circumcision. Rabbi Eliezer’s approach was not universally accepted, and <b>a principle was stated by Rabbi Akiva: Any prohibited labor that can be performed on Shabbat eve does not override Shabbat,</b> including transporting the circumcision scalpel. However, any prohibited labor involved in the mitzva of <b>circumcision</b> itself <b>that cannot be performed on Shabbat eve overrides Shabbat.</b>",
+              "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, אִם לֹא הֵבִיא כְלִי מֵעֶרֶב שַׁבָּת, מְבִיאוֹ בְשַׁבָּת מְגֻלֶּה. וּבַסַּכָּנָה, מְכַסֵּהוּ עַל פִּי עֵדִים. וְעוֹד אָמַר רַבִּי אֱלִיעֶזֶר, כּוֹרְתִין עֵצִים לַעֲשׂוֹת פֶּחָמִין וְלַעֲשׂוֹת כְּלִי בַרְזֶל. כְּלָל אָמַר רַבִּי עֲקִיבָא, כָּל מְלָאכָה שֶׁאֶפְשָׁר לַעֲשׂוֹתָהּ מֵעֶרֶב שַׁבָּת אֵינָהּ דּוֹחָה אֶת הַשַּׁבָּת, וְשֶׁאִי אֶפְשָׁר לַעֲשׂוֹתָהּ מֵעֶרֶב שַׁבָּת דּוֹחָה אֶת הַשַּׁבָּת:",
+              "link": "/Mishnah Shabbat/19",
+              "ref": "Mishnah Shabbat 19:1",
+              "sourceHeRef": "משנה שבת יט:א",
+              "sourceRef": "Mishnah Shabbat 19:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לר' יהודה</strong> - דאמר עניבה אב מלאכה במסכת שבת <span class=\"parenthesized\">(דף קיג.)</span> אין חילוק בין עניבה לקשירה וקושר דקסבר מכשירי מצוה דוחין והא דתניא עונבה רבנן דאמרי לאו מלאכה היא וכיון דאפשר בעניבה לא מחללינן שבת:",
+              "ref": "Rashi on Eruvin 102b:16:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:טז:א",
+              "sourceRef": "Rashi on Eruvin 102b:16:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומבארים: <b>ל</b>שיטת <b>ר' אליעזר</b> ש<b>אמר \"מכשירי מצוה דוחין את השבת\"</b> וכיון שקשירת הנימה היא לצורך מצוה, לכן אף <b>קושרה.</b> ואילו <b>לרבנן</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">חכמים]</span> <b>דאמרי</b> <span class=\"hebrew-emphasis\">[שאומרים]</span> שמכשירי מצוה <b>אין דוחין</b> את השבת, רק <b>עונבה.</b>",
+              "ref": "Steinsaltz on Eruvin 102b:16",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:טז",
+              "sourceRef": "Steinsaltz on Eruvin 102b:16"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara clarifies this answer: <b>According to <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>, who said</b> that <b>the preparations</b> that enable the performance <b>of a mitzva override</b> the prohibitions of <b>Shabbat,</b> one may <b>tie</b> even the broken harp string, as this is for the purpose of the mitzva of accompanying the Temple service with music. However, <b>according to the Rabbis, who say</b> that preparations for a mitzva <b>do not override</b> Shabbat prohibitions, <b>one</b> may only <b>fashion a bow.</b>",
+      "he": "<span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">לְרַבִּי אֱלִיעֶזֶר</span> דְּאָמַר מַכְשִׁירֵי מִצְוָה דּוֹחִין אֶת הַשַּׁבָּת, קוֹשְׁרָהּ. לְרַבָּנַן דְּאָמְרִי אֵין דּוֹחִין, עוֹנְבָהּ.",
+      "ref": "Eruvin 102b:16"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אפי' לכתחלה נמי</strong> - דאפי' לעשות פחמין שהוא מכשיר שרי:",
+              "ref": "Rashi on Eruvin 102b:17:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יז:א",
+              "sourceRef": "Rashi on Eruvin 102b:17:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> האמור במשנה הוא כשיטת <b>ר' אליעזר</b> המתיר לעשות מכשירי מצוה אף על ידי חילול שבת, אם כן <b>אפילו</b> לא נפסקה אלא אף <b>לכתחילה נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> יהא מותר לשים את הנימה שהרי לצורך מצוה היא!",
+              "ref": "Steinsaltz on Eruvin 102b:17",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:יז",
+              "sourceRef": "Steinsaltz on Eruvin 102b:17"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara raises a difficulty: <b>If</b> in fact the mishna is in accordance with the opinion of <b><span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">Rabbi Eliezer</span>,</b> who permits facilitating performance of a mitzva even when it involves desecration of Shabbat, <b>even</b> in a case where the string did not break and one is tying it <b>for the first time,</b> this <b>too</b> should be permitted, as he is acting for the purpose of a mitzva.",
+      "he": "אִי <span href=\"/topics/rabbi-eliezer-b-hyrcanus\" class=\"namedEntityLink\" data-slug=\"rabbi-eliezer-b-hyrcanus\">רַבִּי אֱלִיעֶזֶר</span>, אֲפִילּוּ לְכַתְּחִילָּה נָמֵי!",
+      "ref": "Eruvin 102b:17"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> לא כך יש להבין, ויש ליישב: <b>לא קשיא</b> <span class=\"hebrew-emphasis\">[קשה].</span> <b>הא</b> <span class=\"hebrew-emphasis\">[זו]</span> המשנה המתירה — היא כשיטת <b>ר' יהודה</b> הסבור שעניבה דינה כקשירה לכל דבר, ולכן אין הבדל. <b>והא</b> <span class=\"hebrew-emphasis\">[זו]</span> האוסרת — כ<b>רבנן</b> <span class=\"hebrew-emphasis\">[חכמים]</span> האומרים שעניבה אין בה איסור מן התורה, ולכן התירו לענוב נימה.",
+              "ref": "Steinsaltz on Eruvin 102b:18",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:יח",
+              "sourceRef": "Steinsaltz on Eruvin 102b:18"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> the Gemara provides a different resolution of the contradiction: It is <b>not difficult. This,</b> the mishna that permits tying the broken string, was taught in accordance with the opinion of <b><span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>,</b> who maintains that making a bow is considered tying, and there is no difference between the two actions; <b>and that,</b> the <i>baraita</i> that prohibits it, is in accordance with the opinion of <b>the Rabbis,</b> who rule that fashioning a bow is not prohibited by Torah law, and therefore it is permitted to fashion a bow.",
+      "he": "אֶלָּא, לָא קַשְׁיָא: הָא — <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">רַבִּי יְהוּדָה</span>, וְהָא — רַבָּנַן.",
+      "ref": "Eruvin 102b:18"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורבי יהודה</strong> - דמוקמינן מתני' אליביה וקושר אב מלאכה היא אליבא דמאן:",
+              "ref": "Rashi on Eruvin 102b:19:1",
+              "sourceHeRef": "רש\"י על עירובין ק״ב ב:יט:א",
+              "sourceRef": "Rashi on Eruvin 102b:19:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "על כך שואלים: <b>ור' יהודה אליבא דמאן</b> <span class=\"hebrew-emphasis\">[על פי</span> שיטתו <span class=\"hebrew-emphasis\">של מי]</span> לפי איזו שיטה אמר דבריו?",
+              "ref": "Steinsaltz on Eruvin 102b:19",
+              "sourceHeRef": "ביאור שטיינזלץ על עירובין ק״ב ב:יט",
+              "sourceRef": "Steinsaltz on Eruvin 102b:19"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, in accordance with whose</b> opinion did he express his view?",
+      "he": "<span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">וְרַבִּי יְהוּדָה</span> אַלִּיבָּא דְּמַאן?",
+      "ref": "Eruvin 102b:19"
+    }
+  ],
+  "title": "Eruvin 102b",
+  "titleHebrew": "עירובין קב,ב",
+  "topics": []
+}

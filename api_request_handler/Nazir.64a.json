@@ -1,0 +1,702 @@
+{
+  "id": "64a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כתיב בכל השרץ השורץ</strong> - דמשמע בכל מקום ששורץ טמא ואפי' צף וכתיב על הארץ דמשמע דבעינן שיהא מונח על הארץ ולא צף:",
+              "ref": "Rashi on Nazir 64a:1:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:א:א",
+              "sourceRef": "Rashi on Nazir 64a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא כיצד ודאי נגע</strong> - בטומאה בכ\"מ שהוא בין במים בין בקרקע טמא הא ספק נגע כגון לאחר שנמצא צף על פני המים ה\"ז טהור בין שנמצא צף במים שבכלים או במים שבקרקע דספק מגע צף לעולם טהור:",
+              "ref": "Rashi on Nazir 64a:1:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:א:ב",
+              "sourceRef": "Rashi on Nazir 64a:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מאי טעמא דתנא קמא</b> <span class=\"hebrew-emphasis\">[מה הטעם של התנא הראשון</span><span class=\"hebrew-emphasis\">]</span> שמטהר בכל ספק טומאה צפה? <b>אמר ר' יצחק בר אבודימי, כתיב</b> <span class=\"hebrew-emphasis\">[נאמר</span><span class=\"hebrew-emphasis\">]</span> בפרשת איסור אכילת שרצים וטומאתם: <b>\"בכל השרץ השרץ\"</b> (ויקרא יא, מג) משמע שהוא מטמא ב<b>כל מקום שהוא שורץ, וכתיב</b> <span class=\"hebrew-emphasis\">[ונאמר</span><span class=\"hebrew-emphasis\">]</span> <b>\"</b>וכל השרץ השורץ <b>על הארץ\"</b> (ויקרא יא, מב), משמע שמטמא דווקא כשהוא על הארץ. <b>הא</b> <span class=\"hebrew-emphasis\">[הרי</span><span class=\"hebrew-emphasis\">]</span> <b>כיצד</b> ניישב את הסתירה בין דיוקי הכתובים? נאמר כי <b>ודאי מגעו טמא, ספק מגעו</b> כגון טומאה צפה <b>טהור.</b>",
+              "ref": "Steinsaltz on Nazir 64a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:א",
+              "sourceRef": "Steinsaltz on Nazir 64a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "That is, any place where it can swarm, including water (Rosh).",
+              "he": "מחלוקת חכמים ור' שמעון מצויה במסכת טהרות, ושם מקדימים לכך: ואלו ספקות שטיהרו חכמים. ולכאורה משמע משם שחכמים הם שטיהרו ספקות אלה, ומשום כך צריך יהא להבין את הפסוקים המובאים כאן כאסמכתא בלבד, ולא כמקור ההלכה. אכן, יש מסבירים שמה שאמרו שספקות אלה טיהרו חכמים — מדברי תורה למדו, אלא כיון שאין הדברים מפורשים בכתוב תלו אותם בדברי חכמים, שהם דרשו את הכתובים הללו.",
+              "ref": "Steinsaltz comment #1 on Nazir 64a:1",
+              "sourceHeRef": "שֶׁהוּא שׁוֹרֵץ",
+              "sourceRef": "Where it swarms"
+            },
+            {
+              "en": "",
+              "he": "כלומר, כל מקום שהיה יכול לשרוץ בו בעודו חי (רא\"ש).",
+              "ref": "Steinsaltz comment #2 on Nazir 64a:1",
+              "sourceHeRef": "שהוא שורץ",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "You shall not draw abomination upon yourselves through anything that swarms; you shall not make yourselves unclean therewith and thus become unclean.",
+              "he": "אַל־תְּשַׁקְּצוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ וְלֹ֤א תִֽטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:43",
+              "sourceHeRef": "ויקרא יא:מג",
+              "sourceRef": "Leviticus 11:43"
+            },
+            {
+              "en": "You shall not eat, among all things that swarm upon the earth, anything that crawls on its belly, or anything that walks on fours, or anything that has many legs; for they are an abomination.",
+              "he": "כֹּל֩ הוֹלֵ֨ךְ עַל־גָּח֜<big>וֹ</big>ן וְכֹ֣ל <b>׀</b> הוֹלֵ֣ךְ עַל־אַרְבַּ֗ע עַ֚ד כׇּל־מַרְבֵּ֣ה רַגְלַ֔יִם לְכׇל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי־שֶׁ֥קֶץ הֵֽם׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:42",
+              "sourceHeRef": "ויקרא יא:מב",
+              "sourceRef": "Leviticus 11:42"
+            }
+          ]
+        }
+      },
+      "en": "<b>What is the reason of the first <i>tanna</i></b> for declaring that in all uncertain cases of floating impurity the person or item remains pure? <b>Rabbi Yitzḥak bar Avudimi says:</b> In the passage dealing with the impurity of creeping animals and the prohibition of eating them <b>it is written: “With any swarming thing that swarms”</b> (Leviticus 11:43), indicating that a carcass of a creeping animal renders items impure in <b>any place where it swarms. And it is written:</b> “All swarming things that swarm <b>upon the earth”</b> (Leviticus 11:42), indicating that it transmits impurity only if it is on the earth. <b>How so?</b> How can one reconcile these two verses? <b>Definite contact</b> with <b>it</b> renders one <b>impure;</b> one who has <b>uncertain contact</b> with <b>it,</b> e.g., the impurity is floating, remains <b>pure.</b>",
+      "he": "מַאי טַעְמָא דְּתַנָּא קַמָּא? אָמַר רַבִּי יִצְחָק בַּר אֲבוּדִימִי, כְּתִיב: ״בְּכׇל הַשֶּׁרֶץ הַשֹּׁרֵץ״, כׇּל מָקוֹם שֶׁהוּא שׁוֹרֵץ, וּכְתִיב ״עַל הָאָרֶץ״. הָא כֵּיצַד? וַדַּאי מַגָּעוֹ — טָמֵא, סְפֵק מַגָּעוֹ — טָהוֹר.",
+      "ref": "Nazir 64a:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אך מעיין ובור מקוה מים יהיה טהור</strong> - דמשמע דצפה בקרקע טהור:",
+              "ref": "Rashi on Nazir 64a:2:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ב:א",
+              "sourceRef": "Rashi on Nazir 64a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכתיב יטמא הא כיצד צפה בכלים</strong> - ספיקו טמא צפה בקרקע ספיקו טהור:",
+              "ref": "Rashi on Nazir 64a:2:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ב:ב",
+              "sourceRef": "Rashi on Nazir 64a:2:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ור' שמעון מאי טעמיה</b> <span class=\"hebrew-emphasis\">[מה טעמו</span><span class=\"hebrew-emphasis\">]?</span> <b>אמר עולא: כתיב</b> <span class=\"hebrew-emphasis\">[נאמר</span><span class=\"hebrew-emphasis\">]</span> <b>\"אך מעין</b> ובור מקוה מים יהיה טהור<b>\"</b> (ויקרא יא, לו) ומכאן משמע ששרץ במקום כזה אינו מטמא, <b>וכתיב</b> <span class=\"hebrew-emphasis\">[ונאמר</span><span class=\"hebrew-emphasis\">]</span> בהמשך הפסוק <b>\"</b>הנוגע בנבלתם <b>יטמא (עד הערב\")</b> ומכאן משמע שכן מטמא, <b>הא כיצד</b> ניישב את הסתירה בין דיוקי הכתובים? נאמר כי אם היתה הטומאה <b>צפה</b> במים ש<b>בכלים —</b> <b>טמא,</b> ואם היתה צפה במים <b>בקרקע</b> עצמה כגון במעין ובור — <b>טהור.</b>",
+              "ref": "Steinsaltz on Nazir 64a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:ב",
+              "sourceRef": "Steinsaltz on Nazir 64a:2"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כתיב אך מעיין ובור מקוה מים יהיה טהור וכתיב יטמא <span class=\"parenthesized\">(עד הערב)</span> הא כיצד בכלים טמא</strong> - דדוקא דומיא דמעיין ובור שהם מים שעל גבי קרקע:",
+              "ref": "Tosafot on Nazir 64a:2:1",
+              "sourceHeRef": "תוספות על נזיר ס״ד א:ב:א",
+              "sourceRef": "Tosafot on Nazir 64a:2:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "However, a spring or cistern in which water is collected shall be clean, but whoever touches such a carcass in it shall be unclean.",
+              "he": "אַ֣ךְ מַעְיָ֥ן וּב֛וֹר מִקְוֵה־מַ֖יִם יִהְיֶ֣ה טָה֑וֹר וְנֹגֵ֥עַ בְּנִבְלָתָ֖ם יִטְמָֽא׃",
+              "link": "/Leviticus/11",
+              "ref": "Leviticus 11:36",
+              "sourceHeRef": "ויקרא יא:לו",
+              "sourceRef": "Leviticus 11:36"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>And <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span>, what is the reason</b> for his opinion? <b><span href=\"/topics/ulla\" class=\"namedEntityLink\" data-slug=\"ulla\">Ulla</span> said</b> that as <b>it is written: “Nevertheless a fountain</b> or a cistern in which there is a gathering of water shall be pure” (Leviticus 11:36), this indicates that a creeping animal found in one of these places does not impart impurity. <b>And it is written</b> in the same verse: “He who touches their carcass <b>shall be impure</b> until evening,” which indicates that it does render one impure. <b>How so?</b> If the impurity was <b>floating</b> in water contained <b>in vessels,</b> the item it touched <b>is</b> rendered <b>impure,</b> but if the water was <b>in the ground</b> itself, e.g., in a spring or pit, the item it touched is <b>pure.</b>",
+      "he": "<span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">וְרַבִּי שִׁמְעוֹן</span> מַאי טַעְמָא? אָמַר עוּלָּא: כְּתִיב ״אַךְ מַעְיָן״, וּכְתִיב ״יִטְמָא״ (עַד הָעָרֶב), הָא כֵּיצַד? צָפָה בְּכֵלִים — טָמֵא, בְּקַרְקַע — טָהוֹר.",
+      "ref": "Nazir 64a:2"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "What is meant by the principle: a doubt concerning impurity floating on water? There was a carcass of a creeping animal floating on water, whether the water was in a container or in a pool in the earth and a person descended into the water, unless he is certain that he touched the carcass, he is considered as pure. This applies even if there is no space for anything in the container or the pool but the person and the impurity.<br>The principle, a doubt concerning impurity floating on water is pure, was stated only concerning a carcass of creeping animal. If the carcass of a creeping animal is suspended from above and floating on water or is being dragged over water, it is considered as being placed down and not as floating.",
+              "he": "סְפֵק טֻמְאָה צָפָה עַל פְּנֵי הַמַּיִם כֵּיצַד. שֶׁרֶץ שֶׁהָיָה צָף עַל פְּנֵי הַמַּיִם. בֵּין שֶׁהָיוּ הַמַּיִם בְּכֵלִים אוֹ בְּקַרְקָעוֹת וְיָרַד לַמַּיִם אֲפִלּוּ אֵין שָׁם אֶלָּא מְלֹא אָדָם וְטֻמְאָה הֲרֵי זֶה טָהוֹר עַד שֶׁיֵּדַע וַדַּאי שֶׁנָּגַע. וְלֹא אָמְרוּ סְפֵק טֻמְאָה צָפָה טָהוֹר אֶלָּא לְשֶׁרֶץ בִּלְבַד. וְכָל הַנִּתְלִים וְהַנִּגְרָרִין הֲרֵי הֵן כְּמֻנָּחִין:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 14:3",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יד:ג",
+              "sourceRef": "Other Sources of Defilement 14:3"
+            },
+            {
+              "en": "What is meant by a doubt concerning the carcass of a creeping animal, i.e., a creeping animal that was thrown? One threw the carcass of a creeping animal or another impure entity among loaves of bread and, in both instances, when there is a question whether or not the pure loaf was touched by impurity, they are considered as pure. The rationale is that the status of all questions of ritual impurity depends on the situation at the time the matter is discovered. We do not say: Maybe it touched the pure or impure object and then fell to its side? Instead, the ruling is given according to its state when it was discovered.",
+              "he": "סְפֵק שְׁרָצִים זֶה סְפֵק הַנִּזְרָקִין. כֵּיצַד. זָרַק שֶׁרֶץ אוֹ דָּבָר טָמֵא לְבֵין הַכִּכָּרוֹת אוֹ שֶׁזָּרַק כִּכָּר לְבֵין הַטְּמֵאוֹת וְסָפֵק נָגַע סָפֵק לֹא נָגַע הֲרֵי זֶה טָהוֹר הוֹאִיל וּמָצָא הַכִּכָּר הַטָּהוֹר שֶׁאֵינוֹ נוֹגֵעַ בַּטֻּמְאָה שֶׁכָּל הַטֻּמְאוֹת כִּשְׁעַת מְצִיאָתָן. וְאֵין אוֹמְרִין שֶׁמָּא נָגַע בּוֹ וְאַחַר כָּךְ נָפַל בְּצִדּוֹ אֶלָּא הֲרֵי הֵן כִּשְׁעַת מְצִיאָתָן:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 15:6",
+              "sourceHeRef": "הלכות שאר אבות הטומאות טו:ו",
+              "sourceRef": "Other Sources of Defilement 15:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל הניטלין והנגררין</strong> - בין טומאת שרץ בין טומאת נבילה ובשעת זחילתן או גרירתן ספק נגע בהן אדם וכלים:",
+              "ref": "Rashi on Nazir 64a:3:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ג:א",
+              "sourceRef": "Rashi on Nazir 64a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ספיקן טמא</strong> - שכל הנגרר והניטל כמו שהן מונחין דמי והוי כספק טומאה ברה\"י דספיקו טמא דגמרי' מסוטה <span class=\"parenthesized\">(סוטה דף כח:)</span> דכתיב בה ונסתרה והיא נטמאה אבל אם היו נזרקין דבשעת זריקתן ספק נגע בהן אדם וכלים ספק לא נגע ספיקו טהור דלא אמרינן קלוטה כמי שהונחה דמיא אלא כטומאה צפה דמיא וספיקו טהור:",
+              "ref": "Rashi on Nazir 64a:3:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ג:ב",
+              "sourceRef": "Rashi on Nazir 64a:3:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים</span><span class=\"hebrew-emphasis\">]:</span> <b>כל</b> הדברים המטמאים <b>הניטלין</b> ביד אדם <b>והנגררין</b> על ידו — אף שהם מיטלטלים באותה שעה, אין דינם כטומאה צפה, ו<b>ספיקן טמא, מפני שהן כמונחין. והנזרקין</b> אף בידי אדם — <b>ספיקן טהור.</b>",
+              "ref": "Steinsaltz on Nazir 64a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:ג",
+              "sourceRef": "Steinsaltz on Nazir 64a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Because these items are tied to the individual, who transfers them from one place to another, they are considered placed on the ground, despite the fact they are not entirely stationary. Some commentaries maintain that anything dragged or carried is considered fixed in place, whether it is in a person’s hand or not (Commentary on <i>Nazir</i>). Others explain this to mean that items that are dragged and carried through water do not have the status of floating impurities (<i>Tosafot</i>).",
+              "he": "ועיקר טעמו של דבר, שכיון שהם עדיין קשורים ותלויים באדם המעבירם ממקום למקום — הריהם נחשבים כמונחים על גבי הקרקע, שאף שאינם קבועים לגמרי בה מכל מקום הם קשורים בה. ומדברי המפרש נראה שהוא מסביר זאת בכלל, שבכל מקום שנגררים וניטלים — הריהם כמונחים, ואין מדובר ביד אדם דווקא. ומדברי התוס' ועוד נראה שהם מדברים על הנגררים והניטלים במים, שאין דינם כדין טומאה צפה.",
+              "ref": "Steinsaltz comment #1 on Nazir 64a:3",
+              "sourceHeRef": "הַנִּיטָּלִין וְהַנִּגְרָרִין",
+              "sourceRef": "That are carried or that are dragged"
+            },
+            {
+              "en": "All items that are carried or dragged are considered at rest, and therefore people or items that have possibly come into contact with them are impure (Rambam <i>Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>14:3).",
+              "he": "שאף על פי שנזרקו בידי אדם, כיון שבשעת זריקתם אינם קשורים עוד באדם הזורקם — הריהם כטומאה צפה. וכתב המפרש שאף לדברי האומר ש\"קלוטה כמי שהונחה\", שדבר המצוי בתוך חלל מסויים הריהו כמונח בתוכו, מכל מקום לענין טומאה יש להם דין טומאה צפה, שספקה טהור.",
+              "ref": "Steinsaltz comment #2 on Nazir 64a:3",
+              "sourceHeRef": "כָּל הַנִּיטָּלִין וְהַנִּגְרָרִין",
+              "sourceRef": "All those that are carried or that are dragged"
+            },
+            {
+              "en": "If one threw a creeping animal among loaves, or a pure loaf among impure ones, and it is uncertain whether the impurity touched the pure loaf, they are pure, as the individual did not see the pure loaf touching the impurity. In a case of this kind of uncertainty, the item is pure (Rambam <i>Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>15:6).",
+              "he": "כל הנתלין או הנגררים הרי הם כמונחים, וספק מגע בהם טמא. (רמב\"ם ספר טהרה הלכות שאר אבות הטומאות פי\"ד ה\"ג).",
+              "ref": "Steinsaltz comment #3 on Nazir 64a:3",
+              "sourceHeRef": "וְהַנִּזְרָקִין סְפֵיקָן טָהוֹר",
+              "sourceRef": "And in the case of items that are thrown by people, in uncertain cases the individual remains pure"
+            },
+            {
+              "en": "",
+              "he": "זרק שרץ בין הככרות, או שזרק ככר טהור בין הטומאות, ספק נגע ספק לא נגע — הרי זה טהור. הואיל ומצא בסוף שאין הככר הטהור נוגע בטמא. שכל הטומאות כשעת מציאתן, ואין אומרים שמא נגע בטומאה ואחר כך נפל לצד אחר. (רמב\"ם ספר טהרה הלכות שאר אבות הטומאות פט\"ו ה\"ו).",
+              "ref": "Steinsaltz comment #4 on Nazir 64a:3",
+              "sourceHeRef": "והנזרקין ספקן טהור",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל הניטלין</strong> - אדם עומד במים וחברו היה משלשל שרץ [ספק] נגע בו אדם העומד במים או הנגררין שהיה חבירו גורר שרץ על פני המים ספק נגע ספקו טמא מפני שהן כמונחין כיון [שיד] אדם תופס בה אין כאן דין טומאה צפה:",
+              "ref": "Tosafot on Nazir 64a:3:1",
+              "sourceHeRef": "תוספות על נזיר ס״ד א:ג:א",
+              "sourceRef": "Tosafot on Nazir 64a:3:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כל הכתלים וכל הנגררין ספיקן טמא מפני שהן כמונחים וכל הנזרקין ספיקן טהור חוץ מכזית מן המת. וכל המאהילין שהן מטמאין מלמעלה כלמטה ואם היתה טהורה נזרקה על גבי כזית מן הבית טהורה.",
+              "ref": "Tosefta Tahorot 3:8",
+              "sourceHeRef": "תוספתא טהרות ג:ח",
+              "sourceRef": "Tosefta Tahorot 3:8"
+            }
+          ]
+        }
+      },
+      "en": "<b>The Sages taught</b> (<i>Tosefta</i>, <i>Teharot</i> 3:13): <b>All</b> items that impart impurity <b>that are carried</b> by human hand <b>or that are dragged</b> along are not considered floating impurities, despite the fact that they are in motion. Rather, in a case where there is <b>uncertainty</b> whether a carried or dragged item affected a person, the individual is rendered <b>impure,</b> because the items are considered <b>as though</b> they were <b>at rest. And</b> in the case of items <b>that are thrown</b> by people, in <b>uncertain</b> cases that pertain to them, the individual remains <b>pure.</b>",
+      "he": "תָּנוּ רַבָּנַן: כׇּל הַנִּיטָּלִין וְהַנִּגְרָרִין — סְפֵיקָן טָמֵא, מִפְּנֵי שֶׁהֵן כְּמוּנָּחִין. וְהַנִּזְרָקִין — סְפֵיקָן טָהוֹר.",
+      "ref": "Nazir 64a:3"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When there is an olive-sized portion of a human corpse in the mouth of a raven and there is a doubt whether or not it flew over a person or <i>keilim</i> in a private domain, the person is impure because of the doubt, provided he has the knowledge to respond to questions. The <i>keilim</i> are pure, because they do not have the capacity to respond to questions.<br>Similarly, when a person was drawing water with one container and pouring it into ten others and the carcass of a creeping animal was found in one of the ten, that container is impure and the others are pure. Although there is a question whether they are all impure, for perhaps the the carcass of the creeping animal had been in the container used to draw water, we rule leniently, because <i>keilim</i> are involved and they do not have the capacity to respond to questions. If the container with which he drew the water possessed a rim, since it is possible for the water to have been poured out, but for the carcass of the creeping animal to have remained, they are all impure.<br>Similarly, when one draws water with ten buckets, one after the other, and pours the water into ten containers, each bucket into a separate container, and it is not known which container was first and which was last, if the carcass of a creeping animal was found in one of them, the other nine containers and the ten buckets are pure, for one could say perhaps the carcass of the creeping animal was in the container originally. If the buckets have rims, all of the buckets and all of the containers are impure.<br>When one pours from one container to another and the carcass of a creeping animal is found in the lower container, the upper container is pure. We do not say that it fell from the upper container. Instead, it is possible that it had been in the lower container. The rationale for this leniency is that <i>keilim</i> are involved and they do not have the capacity of responding to questions. Similar laws apply in all analogous situations.",
+              "he": "כְּזַיִת מִן הַמֵּת בְּפִי הָעוֹרֵב סָפֵק הֶאֱהִיל עַל הָאָדָם וְעַל הַכֵּלִים בִּרְשׁוּת הַיָּחִיד סָפֵק שֶׁלֹּא הֶאֱהִיל הֲרֵי הָאָדָם טָמֵא מִסָּפֵק וְהוּא שֶׁיִּהְיֶה בּוֹ דַּעַת לִשָּׁאֵל וְהַכֵּלִים טְהוֹרִים מִפְּנֵי שֶׁאֵין לָהֶן דַּעַת לִשָּׁאֵל. וְכֵן הַמְמַלֵּא בִּכְלִי וְנָתַן בַּעֲשָׂרָה כֵּלִים וְנִמְצָא הַשֶּׁרֶץ בְּאֶחָד מֵהֶן הוּא טָמֵא וְהַכֵּלִים טְהוֹרִין אַף עַל פִּי שֶׁכֻּלָּן סָפֵק שֶׁמָּא הַשֶּׁרֶץ בַּכְּלִי שֶׁמִּלֵּא בּוֹ הָיָה תְּחִלָּה מִפְּנֵי שֶׁהֵן כֵּלִים וְאֵין בָּהֶן דַּעַת לִשָּׁאֵל. וְאִם הָיָה לַכְּלִי שֶׁמִּלֵּא בּוֹ אָזְנַיִם הוֹאִיל וְאֶפְשָׁר שֶׁיֵּצְאוּ הַמַּיִם וְיִתְאַחֵר בּוֹ הַשֶּׁרֶץ כֻּלָּן טְמֵאִים. וְכֵן הַמְמַלֵּא בַּעֲשָׂרָה דְּלָיִים זֶה אַחַר זֶה וְנָתַן בַּעֲשָׂרָה כֵּלִים מִדְּלִי אֶחָד לִכְלִי אַחֵר וְאֵין יָדוּעַ הָרִאשׁוֹן מִן הָאַחֲרוֹן וְנִמְצָא הַשֶּׁרֶץ בִּכְלִי אֶחָד מֵהֶן הֲרֵי הַתִּשְׁעָה כֵּלִים עִם עֲשֶׂרֶת הַדְּלָיִים טְהוֹרִין שֶׁאֲנִי אוֹמֵר שֶׁמָּא בִּכְלִי זֶה הָיָה הַשֶּׁרֶץ מִתְּחִלָּתוֹ. וְאִם יֵשׁ לַדְּלָיִים אָזְנַיִם הֲרֵי כָּל הַדְּלָיִים עִם כָּל הַכֵּלִים טְמֵאִין. הַמְעָרֶה מִכְּלִי לִכְלִי וְנִמְצָא הַשֶּׁרֶץ בַּתַּחְתּוֹן הָעֶלְיוֹן טָהוֹר. וְאֵין אוֹמְרִין מֵהָעֶלְיוֹן נָפַל אֶלָּא שֶׁמָּא בַּתַּחְתּוֹן הָיָה מִפְּנֵי שֶׁהֵן כֵּלִים וְאֵין לָהֶן דַּעַת לִשָּׁאֵל. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 17:1",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יז:א",
+              "sourceRef": "Other Sources of Defilement 17:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג חוץ מכזית מן המת והמאהיל על פני טומאה שמטמא מלמעלה כלמטה לאיתויי זב וזבה</strong> - כלומר חוץ מכזית מן המת שזרק ע\"ג אדם או טהרות ובין שזרק טהרות על כזית מן המת או האדם עצמו דלג עליו וספק הוא אם האהיל עליו שספיקו טמא לפי שמטמא מלמעלה כלמטה הואיל והוא מטמא שלא בנגיעה כגון ע\"י אהל והאי דתני והמאהיל על פני טומאה דלא צריך למיתני אלא חוץ מכזית מן המת והמאהיל עליו לאיתויי זב וזבה שמטמא. נמי מלמעלה כלמטה באבן מסמא שאם ישב זב על האבן ועל הכלים ועל האדם שהן בתוך הבור תחת האבן נטמא האדם והכלים כמו במגע עצמו וכן אם הזב מלמטה והטהור יושב על אבן מסמא:",
+              "ref": "Rashi on Nazir 64a:4:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ד:א",
+              "sourceRef": "Rashi on Nazir 64a:4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>חוץ מן כזית</b> מן <b>המת</b> שגם אם נזרק ספק מגעו טמא, <b>והמאהיל על פני טומאה,</b> שנזרק, וספק האהיל על המת, <b>וכל דבר שמטמא מלמעלה כלמטה</b> בשווה. ומה בא להוסיף בכך — <b>לאיתויי</b> <span class=\"hebrew-emphasis\">[להביא</span><span class=\"hebrew-emphasis\">]</span> <b>זב וזבה</b> שגם הם מטמאים מלמעלה ומלמטה בלא מגע. שבמקרה של זריקה (או ציפה) — הרי אלו מטמאים מספק.",
+              "ref": "Steinsaltz on Nazir 64a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:ד",
+              "sourceRef": "Steinsaltz on Nazir 64a:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Whether the impurity, e.g., an olive-bulk of a corpse, overlies a pure item, or whether the pure item overlies the impurity, both a floating impurity and the item thrown over it contract impurity imparted in a tent. This is because the leniency of a floating impurity is derived from the <i>halakha</i> of a creeping animal,<i> </i>and therefore even those who accept this ruling can apply it only to a case similar to that of a creeping animal, i.e., impurity through contact, but not impurity imparted in a tent (Rabbeinu Peretz).",
+              "he": "בין שהטומאה (כגון כזית מן המת) מאהילה על הטהור, או שהדבר הטהור מאהיל על טומאת מת וכיוצא בה — הכל טמא משום טומאת אוהל במקרה שהטומאה צפה, או במקרה של ספק שהמאהיל נזרק מעל הטומאה. וטעמו של דבר, שדין זה של ספק טומאה צפה נלמד משרץ, ולפיכך אף הסבורים שיש ללמוד טומאת מת משרץ לענין זה — אין זה אלא בדומה לשרץ — בספק טומאת מגע, אבל לא בטומאת אוהל (ר\"פ ועוד).",
+              "ref": "Steinsaltz comment #1 on Nazir 64a:4",
+              "sourceHeRef": "וְהַמַּאֲהִיל עַל פְּנֵי טוּמְאָה",
+              "sourceRef": "And that which overlies impurity"
+            },
+            {
+              "en": "Some commentaries explain that this refers to a heavy stone upon which a <i>zav</i> is sitting. This stone transmits impurity to items above and below it even without direct contact (Commentary on <i>Nazir</i>). According to <i>Tosafot</i>, it refers to the impurity of a <i>zav</i>, imparted by him lying, sitting, or moving an item, as a <i>zav</i> can impart impurity to an item in these ways even without directly touching it.",
+              "he": "והסביר המפרש שהכוונה היא לאבן מסמא — אבן כבדה שהזב יושב עליה, שהיא מטמאה מה שמתחתיה ומה שמעליה, אף בלא מגע. ובתוס' מסבירים שהכוונה לטומאת משכב ומושב או היסט שהזב מטמא דברים אף כאשר אינו נוגע בהם במישרין.",
+              "ref": "Steinsaltz comment #2 on Nazir 64a:4",
+              "sourceHeRef": "שֶׁמְּטַמֵּא מִלְמַעְלָה כַּלְּמַטָּה",
+              "sourceRef": "That renders items above it impure like it renders those below it impure"
+            },
+            {
+              "en": "If an olive-bulk of a corpse in the mouth of a raven possibly overlaid a person in a private domain, he is impure due to uncertainty. If the uncertain impurity involves a vessel, it is pure, as there is a difference in this regard between people and items (Rambam <i>Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>17:1).",
+              "he": "היה כזית מן המת בפי עורב, ספק האהיל על האדם ברשות היחיד ספק לא האהיל — הרי האדם טמא מספק (אם יש בו דעת להישאל). והכלים טהורים לפי שאין בהם דעת להישאל. (רמב\"ם ספר טהרה הלכות שאר אבות הטומאות פי\"ז ה\"א).",
+              "ref": "Steinsaltz comment #3 on Nazir 64a:4",
+              "sourceHeRef": "חוּץ מִן כְּזַיִת הַמֵּת",
+              "sourceRef": "Except for an olive-bulk from a corpse"
+            },
+            {
+              "en": "One who is uncertain if he touched a floating impurity is pure only if the impurity is from a creeping animal. Similarly, in a case of uncertain impurity involving a thrown item, the <i>halakha</i> that the person is pure applies only to a creeping animal, as stated by the <i>baraita</i>. The <i>Or Same’aĥ</i> notes that this opinion is also recorded in the Jerusalem Talmud (Rambam <i>Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>14:3, 15:6).",
+              "he": "לא אמרו ספק טומאה צפה אלא לשרץ בלבד. ואף ספק נזרקין שאמרו שספיקם טהור — לא אמרו אלא בשרצים. כברייתא, וכדברי התלמוד הירושלמי כאן (אור שמח). (רמב\"ם ספר טהרה הלכות שאר אבות הטומאות פי\"ד ה\"ג. פט\"ו ה\"ו).",
+              "ref": "Steinsaltz comment #4 on Nazir 64a:4",
+              "sourceHeRef": "לְאִיתוּיֵי זָב וְזָבָה",
+              "sourceRef": "To include a <i>zav</i><i>zava</i>"
+            },
+            {
+              "en": "The laws relating to the severe ritual impurity of a <i>zav</i> appear in Leviticus, chapter 15, and in tractate <i>Zavim</i>. The <i>zav </i>becomes ritually impure as a result of the secretion of a white, pus-like discharge from his penis. A man who experiences a discharge of this kind on one occasion becomes ritually impure for one day, like a man who experienced a seminal emission. If he experiences a second discharge on the same day or the following day, or if he experiences a prolonged initial discharge, he contracts the more severe ritual impurity of a <i>zav</i>, which lasts seven days. If he experiences a third discharge within the next twenty-four hours he is obligated to bring an offering as part of his purification process. In the laws governing secretions of a <i>zav</i>, the cause and frequency of the discharge are halakhically significant. Before definitely determining a man as a <i>zav</i>, an effort is made to determine if the discharge can be attributed to some other physical or mental condition. Although the Sages distinguished between semen and discharge of a <i>zav</i>, this distinction is not always obvious. For this reason, it is possible that a particular discharge might not be that of a <i>zav</i> but an unintentional discharge, whose causes are listed in the mishna. A discharge is not considered a sign of a <i>zav</i> until it has been established as such by a repeated  occurrence. A <i>zava</i> is a woman who experiences a discharge of blood at a time other than her normal menstrual period. The <i>halakhot</i> of a <i>zava </i>are similar to those of a <i>zav</i>.",
+              "he": "",
+              "ref": "Steinsaltz comment #5 on Nazir 64a:4",
+              "sourceHeRef": "זָב",
+              "sourceRef": "<i>Zav</i>"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והמאהיל על פני הטומאה</strong> - כגון אדם ההולך במים ונמצא כזית מת קבוע במים ספק עבר הטהור עליו והאהיל על המת דבשרץ כי האי גוונא טהור או במת לטומאת מגע דכך לי [טהרה] צפה וטומאה קבוע כמו טומאה הצפה וטהרה קבוע מ\"מ באהל לא מטהרינן דבר שהוא מטמא למעלה כלמטה לאיתויי זב וזבה שמטמא בהיסט וכן עליונו של זב וזבה <span class=\"parenthesized\">(מלמעלה)</span> כלמטה ממשכבו ואם זב וזבה עוברים במים וכלי אצלם ספק הסיטו אין לנו ליטהר משום טומאה צפה אלא במגע דוקא דומיא דשרץ וכן אם מדרסות שם וזב עובר ספק דרס אין לטהר משום טומאה צפה:",
+              "ref": "Tosafot on Nazir 64a:4:1",
+              "sourceHeRef": "תוספות על נזיר ס״ד א:ד:א",
+              "sourceRef": "Tosafot on Nazir 64a:4:1"
+            }
+          ]
+        }
+      },
+      "en": "This is the <i>halakha</i>, <b>except for an olive-bulk</b> from <b>a corpse,</b> which transmits impurity through uncertain contact even if it was thrown; <b>and that which overlies impurity</b> when thrown, i.e., an item that might have been positioned over a corpse when it was thrown; <b>and anything that renders</b> items <b>above</b> it <b>impure like</b> it renders those <b>below</b> it impure. To what does this last clause refer? It comes <b>to include a <i>zav</i> and a <i>zava</i>,</b> who render items placed above and below them impure even without contact. If something thrown or floating might have come into contact with a <i>zav</i> or <i>zava</i>, it is impure.",
+      "he": "חוּץ מִן כְּזַיִת הַמֵּת, וְהַמַּאֲהִיל עַל פְּנֵי טוּמְאָה, וְכׇל דָּבָר שֶׁמְּטַמֵּא מִלְּמַעְלָה כִּלְמַטָּה. לְאֵיתוֹיֵי זָב וְזָבָה.",
+      "ref": "Nazir 64a:4"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מת בכלי וכלי צף על פני המים.</b> כעין זה שבת דף ה ע\"ב:",
+              "ref": "Gilyon HaShas on Nazir 64a:1",
+              "sourceHeRef": "גליון הש\"ס על נזיר ס״ד א:א",
+              "sourceRef": "Gilyon HaShas on Nazir 64a:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעי רמי בר חמא מת בכלי וכלי צף על פני המים</strong> - ויודע ודאי שלא האהיל עליו אבל ספק הוא לו אם נגע אם לא נגע בו:",
+              "ref": "Rashi on Nazir 64a:5:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ה:א",
+              "sourceRef": "Rashi on Nazir 64a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מהו</strong> - גבי מתניתין מאי טעמא חיישינן לטומאה צפה דהתם איכא למיחש שמא האהיל עליו אבל הכא דידוע הוא לו שלא האהיל עליו אבל ספק הוא לו אם נגע:",
+              "ref": "Rashi on Nazir 64a:5:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ה:ב",
+              "sourceRef": "Rashi on Nazir 64a:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי אמרינן בתר כלי אזלינן</strong> - וכמאן דמונח על גבי קרקע דמי וספק מגעו טמא:",
+              "ref": "Rashi on Nazir 64a:5:3",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ה:ג",
+              "sourceRef": "Rashi on Nazir 64a:5:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או בתר מיתא אזלינן</strong> - ומת מיהא אזיל וצף על פני המים אגב הכלי וספיקו טהור:",
+              "ref": "Rashi on Nazir 64a:5:4",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ה:ד",
+              "sourceRef": "Rashi on Nazir 64a:5:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> ובהלכות אלו של טומאה צפה, <b>בעי</b> <span class=\"hebrew-emphasis\">[שאל</span><span class=\"hebrew-emphasis\">]</span> <b>רמי בר חמא:</b> היה <b>מת בכלי, וכלי צף על</b> <b>פני המים,</b> ולא האהיל עליו, אבל ספק אם נגע בו, <b>מהו</b> הדין? <b>בתר</b> <span class=\"hebrew-emphasis\">[אחר</span><span class=\"hebrew-emphasis\">]</span> ה<b>כלי אזלינן</b> <span class=\"hebrew-emphasis\">[אנו הולכים</span><span class=\"hebrew-emphasis\">]</span> והוא צף, <b>או בתר מיתא אזלינן</b> <span class=\"hebrew-emphasis\">[אחר המת אנו הולכים</span><span class=\"hebrew-emphasis\">]</span> והוא הרי מונח על דבר מוצק?",
+              "ref": "Steinsaltz on Nazir 64a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:ה",
+              "sourceRef": "Steinsaltz on Nazir 64a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The standard version of the text is somewhat problematic, as the mishna explicitly states that a floating corpse imparts impurity even in a case of uncertainty. The commentaries explain that this refers to a situation where it is clear that one had not overlaid the corpse, and the uncertainty concerns only the possibility of impurity through contact. In this regard, the <i>halakha</i> of all impurities, including that imparted by a corpse, is derived from the case of a creeping animal, in which a floating impurity does not render items impure through contact. Some early commentaries read: A creeping animal in a vessel (see Rabbeinu Peretz and Meiri). Accordingly, this is not connected to the <i>halakha</i> of the mishna, which discusses a corpse.",
+              "he": "גרסה זו המצויה לפנינו היא גרסת כמה מן הראשונים. ויש בה קושי מסויים, שהרי במשנה נאמר במפורש שטומאת מת צפה הריהי מטמאה בספק. והם מפרשים שכאן מדובר במקרה שלא היה כל ספק שלא האהיל האדם על המת, אלא שהיה כאן רק ספק טומאת מגע בלבד. ולענין זה למדות כל הטומאות, ואף טומאת מת, מטומאת השרץ, שטומאה צפה אינה מטמאה. אכן, היו ראשונים (ראה בר\"פ ובמאירי) שגרסו כאן: שרץ בכלי. ואם כן נשארה ההלכה לגבי מת במקומה.",
+              "ref": "Steinsaltz comment #1 on Nazir 64a:5",
+              "sourceHeRef": "מֵת בִּכְלִי",
+              "sourceRef": "A corpse in a vessel"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעי רמי בר חמא מת בכלי וכלי צף על פני המים מהו בתר כלי אזלינן</strong> - והא נח או דילמא בתר מיא אזלינן והא לא נח מת ע\"ג שרץ מהו כיון דהאי טומאת ערב והאי טומאת ז' כמי דמחתא בכלי דמיא או דילמא כיון דהאי טומאה והאי טומאה סמיכתא היא ואת\"ל כמאן דמחתא בכלי ודאי דמיא שרץ ע\"ג נבילה ונבילה צפה על פני המים מהו כיון דתרוייהו טומאת ערב טומאה סמיכתא היא כחדא טומאה עבה ולא חשיב כמונחת או דילמא האי כזית והאי כעדשה שרץ על גבי שרץ מהו הני ודאי חד שיעורא הוא או דילמא כיון דמפסקי מהדדי לא אם תימצי לומר כיון דמפסקי לא נבילה שנימוחה מי הוי הך נבילה כי משקה והוי שרץ שעל גבה כטומאה צפה על פני המים או דילמא אוכלין הוא ואת\"ל כי אוכלין הויין לה ואינן חשובים משקה וה\"ל כמי שאינו צף על פני המים והא שרץ על גביו הואיל כשהנבילה שנימוחה צפה על פני המים כזית והאי בכעדשה כמאן דמנח דמי שרץ ע\"ג שכבת זרע מהו מי הויא לה כי משקה ואת\"ל כיון דמתעקר מגופיה לא חשיב משקה אלא כי אוכלין יש לדונו שרץ ע\"ג מי חטאת שהיה שם אפר ומים וע\"י האפר הוא עב ומי חטאת דנקיט אומר ר\"י דהוא הדין דמצי למנקט אפר ומים בעלמא אי חשיב משקה אי לא אלא לרבותא נקט דאע\"ג דאיכא למימר כיון דהאי טומאה והאי טומאה הויא ליה כי טומאה סמיכתא צפה על פני המים מ\"מ כיון דהני מי חטאת הוו להו משקה עליהן והואיל כי צפה על פני המים:",
+              "ref": "Tosafot on Nazir 64a:5:1",
+              "sourceHeRef": "תוספות על נזיר ס״ד א:ה:א",
+              "sourceRef": "Tosafot on Nazir 64a:5:1"
+            }
+          ]
+        }
+      },
+      "en": "With regard to this <i>halakha</i> of a floating impurity, <b><span href=\"/topics/rami-b-hama\" class=\"namedEntityLink\" data-slug=\"rami-b-hama\">Rami bar Ḥama</span> raises a dilemma:</b> If there is <b>a corpse in a vessel and the vessel is floating on water,</b> and one did not overlie it but might have touched it, <b>what is</b> the <i>halakha</i>? Do <b>we go according to</b> the floating <b>vessel or</b> do <b>we go according to</b> the <b>corpse,</b> which is resting on a solid surface?",
+      "he": "בָּעֵי <span href=\"/topics/rami-b-hama\" class=\"namedEntityLink\" data-slug=\"rami-b-hama\">רָמֵי בַּר חָמָא</span>: מֵת בִּכְלִי, וּכְלִי צָף עַל פְּנֵי הַמַּיִם, מַהוּ? בָּתַר כְּלִי אָזְלִינַן, אוֹ בָּתַר מִיתָא אָזְלִינַן?",
+      "ref": "Nazir 64a:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When the carcass of a creeping animal is placed in a container and the container is floating on the surface of water or it was placed on a human corpse, an animal carcass - even if the carcass or the corpse below it has decomposed - or semen that is floating on the water, it is considered as if it was placed on the earth, in which instance, a doubtful situation that arises in a private domain is considered as impure, as will be explained.<br>If the carcass of one creeping animal was lying on that of another creeping animal that was floating on water, it is considered as thick impurity and a doubtful situation that arises is considered as pure. There is an unresolved doubt whether the carcass of a creeping animal that was floating on water on which the ashes of the red heifer had been sprinkled which in turn was floating on other water is considered as placed down on the earth or not. Therefore it appears to me that the doubtful situation is considered as pure.",
+              "he": "שֶׁרֶץ שֶׁהָיָה מֻנָּח בִּכְלִי וּכְלִי צָף עַל פְּנֵי הַמַּיִם אוֹ שֶׁהָיָה מֻנָּח עַל הַמֵּת אוֹ עַל הַנְּבֵלָה וַאֲפִלּוּ נִמּוֹחַ הַנְּבֵלָה אוֹ בָּשָׂר מֵת שֶׁתַּחְתָּיו אוֹ שֶׁהָיָה מֻנָּח עַל שִׁכְבַת זֶרַע הַצָּפָה עַל פְּנֵי הַמַּיִם הֲרֵי זֶה כְּמֻנָּח עַל הָאָרֶץ שֶׁסְּפֵקוֹ בִּרְשׁוּת הַיָּחִיד טָמֵא כְּמוֹ שֶׁיִּתְבָּאֵר. הָיָה שֶׁרֶץ עַל גַּבֵּי שֶׁרֶץ צָף עַל פְּנֵי הַמַּיִם הֲרֵי זֶה כְּטֻמְאָה עָבָה שֶׁצָּפָה עַל פְּנֵי הַמַּיִם וּסְפֵקוֹ טָהוֹר. הָיָה מֻנָּח עַל גַּבֵּי מֵי חַטָּאת וּמֵי חַטָּאת צָפִין עַל פְּנֵי הַמַּיִם הֲרֵי זֶה סָפֵק אִם הוּא כְּמֻנָּח אוֹ אֵינוֹ כְּמֻנָּח. לְפִיכָךְ יֵרָאֶה לִי שֶׁסְּפֵקוֹ טָהוֹר:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 14:4",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יד:ד",
+              "sourceRef": "Other Sources of Defilement 14:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אם תימצי לומר</strong> - כיון דמת עצמו לא הוי צף על פני המים הוא בתר כלי אזלינן וכמאן דמונח על גבי קרקע דמי וספק מגעו טמא:",
+              "ref": "Rashi on Nazir 64a:6:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ו:א",
+              "sourceRef": "Rashi on Nazir 64a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מת המונח על גבי השרץ</strong> - ושרץ צף על פני המים מהו כיון דשרץ טומאת ערב ומת טומאת שבעה כמאן דמחתא טומאה בכלי דמי וספק מגעו טמא:",
+              "ref": "Rashi on Nazir 64a:6:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ו:ב",
+              "sourceRef": "Rashi on Nazir 64a:6:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או דילמא</strong> - הא טומאה עבה סמיכתא היא וכיון דצף שרץ כצף מת דמי <span class=\"parenthesized\">(מיתא מיהא אזיל וצף על פני המים אגב הכלי וספק מגעו טהור)</span>:",
+              "ref": "Rashi on Nazir 64a:6:3",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ו:ג",
+              "sourceRef": "Rashi on Nazir 64a:6:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אם תמצי</b> <span class=\"hebrew-emphasis\">[תרצה</span><span class=\"hebrew-emphasis\">]</span> <b>לומר בתר</b> <span class=\"hebrew-emphasis\">[אחר</span><span class=\"hebrew-emphasis\">]</span> ה<b>כלי אזלינן</b> <span class=\"hebrew-emphasis\">[אנו הולכים</span><span class=\"hebrew-emphasis\">]</span> וטמא, יש מקום לשאול: היה <b>מת</b> מונח <b>על גבי שרץ,</b> ושרץ זה צף על גבי מים, <b>מהו?</b> האם נאמר: <b>כיון דהאי</b> <span class=\"hebrew-emphasis\">[שזו</span><span class=\"hebrew-emphasis\">]</span> טומאת השרץ היא <b>טומאת ערב</b> כלומר, ליום אחד, <b>והאי</b> <span class=\"hebrew-emphasis\">[וזו</span><span class=\"hebrew-emphasis\">]</span> טומאת המת היא <b>טומאת שבעה</b> ימים, הרי <b>כמאן דמחתא</b> <span class=\"hebrew-emphasis\">[כמי שמונחת</span><span class=\"hebrew-emphasis\">]</span> ה<b>טומאה,</b> טומאת המת, <b>בכלי</b> <span class=\"hebrew-emphasis\">[כמי שמונחת</span> הטומאה<span class=\"hebrew-emphasis\">]</span> <b>דמיא</b> <span class=\"hebrew-emphasis\">[נחשבת</span><span class=\"hebrew-emphasis\">]</span> וטמא, <b>או דילמא</b> <span class=\"hebrew-emphasis\">[שמא</span><span class=\"hebrew-emphasis\">]</span> <b>טומאה סמיכתא</b> <span class=\"hebrew-emphasis\">[סמיכה</span> אחת<span class=\"hebrew-emphasis\">]</span> <b>היא</b> שכיון ששניהם, המת והשרץ, מטמאים באדם — נחשבים כטומאה אחת צפה, והרי השרץ צף, וטהור.",
+              "ref": "Steinsaltz on Nazir 64a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:ו",
+              "sourceRef": "Steinsaltz on Nazir 64a:6"
+            }
+          ]
+        }
+      },
+      "en": "<b>If you say</b> that <b>we go according to the vessel</b> and one is rendered ritually impure, the following question arises: If <b>a corpse</b> is placed <b>on top of</b> the carcass of <b>a creeping animal,</b> which is floating on water, <b>what is</b> the <i>halakha</i>? Do we say that <b>since this</b> impurity of a creeping animal is <b>an impurity for an evening,</b> i.e., it lasts one day, <b>and this</b> impurity imparted by a corpse is <b>an impurity for seven</b> days, <b>it is considered as though the impurity</b> imparted by a corpse <b>were placed in a vessel,</b> and he is impure? <b>Or, perhaps</b> the fact that both a corpse and a creeping animal impart impurity means that <b>it is</b> one <b>solid impurity,</b> and because the creeping animal is floating he is pure.",
+      "he": "אִם תִּמְצֵי לוֹמַר בָּתַר כְּלִי אָזְלִינַן: מֵת עַל גַּבֵּי שֶׁרֶץ, מַהוּ? כֵּיוָן דְּהַאי טוּמְאַת עֶרֶב, וְהַאי טוּמְאַת שִׁבְעָה, כְּמַאן דְּמַחֲתָא טוּמְאָה בִּכְלִי דָּמְיָא, אוֹ דִילְמָא טוּמְאָה סְמִיכְתָּא הִיא.",
+      "ref": "Nazir 64a:6"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When the carcass of a creeping animal is placed in a container and the container is floating on the surface of water or it was placed on a human corpse, an animal carcass - even if the carcass or the corpse below it has decomposed - or semen that is floating on the water, it is considered as if it was placed on the earth, in which instance, a doubtful situation that arises in a private domain is considered as impure, as will be explained.<br>If the carcass of one creeping animal was lying on that of another creeping animal that was floating on water, it is considered as thick impurity and a doubtful situation that arises is considered as pure. There is an unresolved doubt whether the carcass of a creeping animal that was floating on water on which the ashes of the red heifer had been sprinkled which in turn was floating on other water is considered as placed down on the earth or not. Therefore it appears to me that the doubtful situation is considered as pure.",
+              "he": "שֶׁרֶץ שֶׁהָיָה מֻנָּח בִּכְלִי וּכְלִי צָף עַל פְּנֵי הַמַּיִם אוֹ שֶׁהָיָה מֻנָּח עַל הַמֵּת אוֹ עַל הַנְּבֵלָה וַאֲפִלּוּ נִמּוֹחַ הַנְּבֵלָה אוֹ בָּשָׂר מֵת שֶׁתַּחְתָּיו אוֹ שֶׁהָיָה מֻנָּח עַל שִׁכְבַת זֶרַע הַצָּפָה עַל פְּנֵי הַמַּיִם הֲרֵי זֶה כְּמֻנָּח עַל הָאָרֶץ שֶׁסְּפֵקוֹ בִּרְשׁוּת הַיָּחִיד טָמֵא כְּמוֹ שֶׁיִּתְבָּאֵר. הָיָה שֶׁרֶץ עַל גַּבֵּי שֶׁרֶץ צָף עַל פְּנֵי הַמַּיִם הֲרֵי זֶה כְּטֻמְאָה עָבָה שֶׁצָּפָה עַל פְּנֵי הַמַּיִם וּסְפֵקוֹ טָהוֹר. הָיָה מֻנָּח עַל גַּבֵּי מֵי חַטָּאת וּמֵי חַטָּאת צָפִין עַל פְּנֵי הַמַּיִם הֲרֵי זֶה סָפֵק אִם הוּא כְּמֻנָּח אוֹ אֵינוֹ כְּמֻנָּח. לְפִיכָךְ יֵרָאֶה לִי שֶׁסְּפֵקוֹ טָהוֹר:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 14:4",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יד:ד",
+              "sourceRef": "Other Sources of Defilement 14:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואם תמצא לומר</strong> - כיון דהאי טומאת ערב והאי טומאת ז' כמאן דמחתא. בכלי דמי וספיקו טמא ודאי:",
+              "ref": "Rashi on Nazir 64a:7:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ז:א",
+              "sourceRef": "Rashi on Nazir 64a:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שרץ צף ע\"ג נבילה</strong> - והוא הדין נמי לנבילה ע\"ג השרץ אלא האי דקמיבעיא ליה הכי דשיעורא דשרץ דהוה כעדשה קאי על שיעורא דנבילה דהוי בכזית ולאו שיעורא דנבילה ע\"ג שיעורא דשרץ:",
+              "ref": "Rashi on Nazir 64a:7:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ז:ב",
+              "sourceRef": "Rashi on Nazir 64a:7:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואם תמצי</b> <span class=\"hebrew-emphasis\">[תרצה</span><span class=\"hebrew-emphasis\">]</span> <b>לומר כמאן דמחתא</b> <span class=\"hebrew-emphasis\">[כמי שמונחת</span><span class=\"hebrew-emphasis\">]</span> ה<b>טומאה בכלי דמיא</b> <span class=\"hebrew-emphasis\">[נחשבת</span><span class=\"hebrew-emphasis\">],</span> משום שאין דרגות הטומאה שוות <b>ו</b>משום כך <b>טמא ודאי.</b> אם היה <b>שרץ על גבי נבלה, ונבלה צפה מהו?</b> האם נאמר: <b>כיון דתרוייהו</b> <span class=\"hebrew-emphasis\">[ששניהם</span><span class=\"hebrew-emphasis\">]</span> <b>טומאת ערב אינון</b> <span class=\"hebrew-emphasis\">[הם</span><span class=\"hebrew-emphasis\">] —</span> <b>טומאה סמיכתא</b> <span class=\"hebrew-emphasis\">[סמיכה</span><span class=\"hebrew-emphasis\">]</span> <b>היא</b> ונחשבים כדבר אחד. <b>או דילמא</b> <span class=\"hebrew-emphasis\">[שמא</span><span class=\"hebrew-emphasis\">]</span> כיון שדיניהם שונים, שהרי <b>האי</b> <span class=\"hebrew-emphasis\">[זו</span><span class=\"hebrew-emphasis\">]</span> הנבילה מטמאה ב<b>כזית, והאי</b> <span class=\"hebrew-emphasis\">[וזה</span><span class=\"hebrew-emphasis\">]</span> השרץ מטמא <b>כעדשה,</b> כיון שאין דינם שווה הריהם נחשבים כשני דברים נפרדים, וכטומאה המונחת בכלי, וטמא?",
+              "ref": "Steinsaltz on Nazir 64a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:ז",
+              "sourceRef": "Steinsaltz on Nazir 64a:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>And if you say</b> that due to their different levels of impurity <b>it is considered as though the impurity were placed in a vessel and</b> therefore one is <b>definitely impure,</b> one can raise an additional dilemma. If <b>a creeping animal</b> is <b>atop</b> an unslaughtered <b>animal carcass and the animal carcass</b> is <b>floating,</b> then <b>what is</b> the <i>halakha</i>? Do we say that <b>since they are both</b> examples of <b>an impurity for an evening, it is</b> considered a single <b>solid impurity, or perhaps</b> here too they are different, as <b>this</b> one, the carcass, renders items impure when it is the amount of <b>an olive-bulk, and this</b> one, the creeping animal, does so when it is the amount <b>of a lentil-bulk.</b> In that case, the animal carcass and the creeping animal should be considered separate items, and it is as though the impurity is placed in a vessel, and he is impure.",
+      "he": "וְאִם תִּמְצֵי לוֹמַר כְּמַאן דְּמַחֲתָא טוּמְאָה בִּכְלִי דָּמְיָא, וְטָמֵא וַדַּאי. שֶׁרֶץ עַל גַּבֵּי נְבֵלָה, וּנְבֵלָה צָפָה, מַהוּ? כֵּיוָן דְּתַרְוַיְיהוּ טוּמְאַת עֶרֶב אִינּוּן — טוּמְאָה סְמִיכְתָּא הִיא. אוֹ דִילְמָא: הַאי כְּזַיִת וְהַאי כַּעֲדָשָׁה?",
+      "ref": "Nazir 64a:7"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואף אם נאמר שטמא, יש לשאול: אם היה <b>שרץ</b> מונח <b>על גבי שרץ מהו? הני</b> <span class=\"hebrew-emphasis\">[אלה</span><span class=\"hebrew-emphasis\">]</span> <b>ודאי חד שיעורא נינהו</b> <span class=\"hebrew-emphasis\">[שיעור אחד הם</span><span class=\"hebrew-emphasis\">]</span> וייחשבו כדבר אחד שצף, וטהור, <b>או דילמא</b> <span class=\"hebrew-emphasis\">[שמא</span><span class=\"hebrew-emphasis\">]</span> <b>כיון דמפסקי מהדדי</b> <span class=\"hebrew-emphasis\">[ש</span>הם מופסקים זה מזה<span class=\"hebrew-emphasis\">]</span> ואינם דבר אחד ממש — <b>לא.</b>",
+              "ref": "Steinsaltz on Nazir 64a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:ח",
+              "sourceRef": "Steinsaltz on Nazir 64a:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one creeping animal was positioned atop another creeping animal that was floating on water, it is considered like a single floating impurity, and therefore one remains pure in the case of any uncertain contact. Apparently, the Rambam’s text of the Gemara differed from the standard version, which accounts for his lenient ruling (Rambam <i>Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>14:4 and see <i>Kesef Mishne</i> there).",
+              "he": "היה שרץ מונח על גבי שרץ אחר שהיה צף על פני המים — הרי זו כטומאה עבה שצפה על המים, וספק מגע בו טהור. ונראה שלפני הרמב\"ם היתה גרסה שונה בגמרא, שלפיה נפסקה בעיה זו להקל (כ\"מ). וראה בהגהות הגר\"א ובגרסות. (רמב\"ם ספר טהרה הלכות שאר אבות הטומאות פי\"ד ה\"ד).",
+              "ref": "Steinsaltz comment #1 on Nazir 64a:8",
+              "sourceHeRef": "שֶׁרֶץ עַל גַּבֵּי שֶׁרֶץ",
+              "sourceRef": "A creeping animal atop a creeping animal"
+            }
+          ]
+        }
+      },
+      "en": "If in that case they are considered separate, then one can also ask: If <b>a creeping animal</b> is positioned <b>atop</b> another <b>creeping animal, what is</b> the <i>halakha</i>? Do we say that <b>these certainly</b> have the <b>same measurement</b> with regard to transmitting impurity, and that they consequently should be viewed as a single floating items, which means he is pure? <b>Or, perhaps, since</b> they <b>are separate from each other</b> and are not in fact a single item, they are <b>not</b> considered as one unit.",
+      "he": "שֶׁרֶץ עַל גַּבֵּי שֶׁרֶץ מַהוּ? הָנֵי וַדַּאי חַד שִׁיעוּרָא נִינְהוּ, אוֹ דִילְמָא כֵּיוָן דְּמִפַּסְקִי מֵהֲדָדֵי — לָא.",
+      "ref": "Nazir 64a:8"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When the carcass of a creeping animal is placed in a container and the container is floating on the surface of water or it was placed on a human corpse, an animal carcass - even if the carcass or the corpse below it has decomposed - or semen that is floating on the water, it is considered as if it was placed on the earth, in which instance, a doubtful situation that arises in a private domain is considered as impure, as will be explained.<br>If the carcass of one creeping animal was lying on that of another creeping animal that was floating on water, it is considered as thick impurity and a doubtful situation that arises is considered as pure. There is an unresolved doubt whether the carcass of a creeping animal that was floating on water on which the ashes of the red heifer had been sprinkled which in turn was floating on other water is considered as placed down on the earth or not. Therefore it appears to me that the doubtful situation is considered as pure.",
+              "he": "שֶׁרֶץ שֶׁהָיָה מֻנָּח בִּכְלִי וּכְלִי צָף עַל פְּנֵי הַמַּיִם אוֹ שֶׁהָיָה מֻנָּח עַל הַמֵּת אוֹ עַל הַנְּבֵלָה וַאֲפִלּוּ נִמּוֹחַ הַנְּבֵלָה אוֹ בָּשָׂר מֵת שֶׁתַּחְתָּיו אוֹ שֶׁהָיָה מֻנָּח עַל שִׁכְבַת זֶרַע הַצָּפָה עַל פְּנֵי הַמַּיִם הֲרֵי זֶה כְּמֻנָּח עַל הָאָרֶץ שֶׁסְּפֵקוֹ בִּרְשׁוּת הַיָּחִיד טָמֵא כְּמוֹ שֶׁיִּתְבָּאֵר. הָיָה שֶׁרֶץ עַל גַּבֵּי שֶׁרֶץ צָף עַל פְּנֵי הַמַּיִם הֲרֵי זֶה כְּטֻמְאָה עָבָה שֶׁצָּפָה עַל פְּנֵי הַמַּיִם וּסְפֵקוֹ טָהוֹר. הָיָה מֻנָּח עַל גַּבֵּי מֵי חַטָּאת וּמֵי חַטָּאת צָפִין עַל פְּנֵי הַמַּיִם הֲרֵי זֶה סָפֵק אִם הוּא כְּמֻנָּח אוֹ אֵינוֹ כְּמֻנָּח. לְפִיכָךְ יֵרָאֶה לִי שֶׁסְּפֵקוֹ טָהוֹר:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 14:4",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יד:ד",
+              "sourceRef": "Other Sources of Defilement 14:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מת המונח על גבי השרץ</strong> - ושרץ צף על פני המים מהו כיון דשרץ טומאת ערב ומת טומאת שבעה כמאן דמחתא טומאה בכלי דמי וספק מגעו טמא:",
+              "ref": "Rashi on Nazir 64a:9:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ט:א",
+              "sourceRef": "Rashi on Nazir 64a:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או דילמא כיון דאוכל הוא</strong> - ה\"ל כמאן דמונח על גביו וכמו דמונח ע\"ג קרקע דמי דספק מגעו טמא:",
+              "ref": "Rashi on Nazir 64a:9:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:ט:ב",
+              "sourceRef": "Rashi on Nazir 64a:9:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואם תמצי</b> <span class=\"hebrew-emphasis\">[תרצה</span><span class=\"hebrew-emphasis\">]</span> <b>לומר: שרץ על גבי שרץ כיון דמפסקי מהדדי</b> <span class=\"hebrew-emphasis\">[ש</span>הם מופסקים זה מזה<span class=\"hebrew-emphasis\">]</span> <b>כמאן דמנחא</b> <span class=\"hebrew-emphasis\">[כמי שמונחת</span><span class=\"hebrew-emphasis\">]</span> הטומאה <b>בכלי</b> היא <b>דמי</b> <span class=\"hebrew-emphasis\">[נחשבת</span><span class=\"hebrew-emphasis\">],</span> ולא כצפה, אם היה <b>שרץ</b> מונח <b>על גבי נבלה שנימוחה</b> (שנמסה) <b>מהו?</b> האם נאמר <b>כיון</b> ש<b>נימוחה הויא ליה</b> <span class=\"hebrew-emphasis\">[נעשתה לה</span><span class=\"hebrew-emphasis\">]</span> כ<b>משקה,</b> והרי זה כשרץ הצף על גבי משקה, <b>או דלמא האי אוכלא</b> <span class=\"hebrew-emphasis\">[שמא זה</span> הנבילה מעיקרה אוכל<span class=\"hebrew-emphasis\">]</span> <b>הוא</b> ולא משקה, ונחשב השרץ כמונח על גבי דבר מוצק.",
+              "ref": "Steinsaltz on Nazir 64a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:ט",
+              "sourceRef": "Steinsaltz on Nazir 64a:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This question concerns the status of the carcass itself: Does one go according to its current, liquefied state, in which case the creeping animal is on a liquid, or does one follow its original solid form? Some commentaries maintain that in this dilemma and in the subsequent dilemma pertaining to semen, the question is if the dissolved carcass or semen is disregarded, thereby causing the creeping animal to be considered as though it is directly on the water (Rambam; Rosh).",
+              "he": "עיקר השאלה יש לו מקום לעצם בירור ציפה על גבי משקה, האם דנים לפי המצב הקיים — ועכשיו נבילה זו היא משקה, או אחרי מצבה המקורי — שהיתה אוכל, ודבר מוצק היא. אכן הרמב\"ם והרא\"ש מסבירים בעיה זו וזו שלאחריה בנבילה שנימוחה וצפה על פני המים.",
+              "ref": "Steinsaltz comment #1 on Nazir 64a:9",
+              "sourceHeRef": "עַל גַּבֵּי נְבֵלָה שֶׁנִּימּוֹחָה",
+              "sourceRef": "Atop an animal carcass that has dissolved"
+            }
+          ]
+        }
+      },
+      "en": "<b>And if you say</b> that in the case of <b>a creeping animal atop a creeping animal, since</b> they <b>are separate from each other, it is considered as though</b> the impurity <b>were placed in a vessel</b> and is not floating, one can raise an additional dilemma. If <b>a creeping animal</b> was placed <b>atop an animal carcass that has dissolved, what is</b> the <i>halakha</i>? Do we say that <b>since it has dissolved it has become</b> like <b>liquid,</b> and therefore it is as though the creeping animal were floating on liquid? <b>Or, perhaps this</b> carcass <b>is</b> still considered <b>food,</b> rather than a liquid, and the creeping animal is on a solid surface.",
+      "he": "וְאִם תִּמְצֵי לוֹמַר: שֶׁרֶץ עַל גַּבֵּי שֶׁרֶץ כֵּיוָן דְּמִפַּסְקִי מֵהֲדָדֵי כְּמַאן דְּמַנְּחָא בִּכְלִי דָּמֵי, שֶׁרֶץ עַל גַּבֵּי נְבֵלָה שֶׁנִּימּוֹחָה, מַהוּ? כֵּיוָן דְּנִימּוֹחָה הָוְיָא לַיהּ מַשְׁקֶה, אוֹ דִּלְמָא הַאי אוּכְלָא הוּא.",
+      "ref": "Nazir 64a:9"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When the carcass of a creeping animal is placed in a container and the container is floating on the surface of water or it was placed on a human corpse, an animal carcass - even if the carcass or the corpse below it has decomposed - or semen that is floating on the water, it is considered as if it was placed on the earth, in which instance, a doubtful situation that arises in a private domain is considered as impure, as will be explained.<br>If the carcass of one creeping animal was lying on that of another creeping animal that was floating on water, it is considered as thick impurity and a doubtful situation that arises is considered as pure. There is an unresolved doubt whether the carcass of a creeping animal that was floating on water on which the ashes of the red heifer had been sprinkled which in turn was floating on other water is considered as placed down on the earth or not. Therefore it appears to me that the doubtful situation is considered as pure.",
+              "he": "שֶׁרֶץ שֶׁהָיָה מֻנָּח בִּכְלִי וּכְלִי צָף עַל פְּנֵי הַמַּיִם אוֹ שֶׁהָיָה מֻנָּח עַל הַמֵּת אוֹ עַל הַנְּבֵלָה וַאֲפִלּוּ נִמּוֹחַ הַנְּבֵלָה אוֹ בָּשָׂר מֵת שֶׁתַּחְתָּיו אוֹ שֶׁהָיָה מֻנָּח עַל שִׁכְבַת זֶרַע הַצָּפָה עַל פְּנֵי הַמַּיִם הֲרֵי זֶה כְּמֻנָּח עַל הָאָרֶץ שֶׁסְּפֵקוֹ בִּרְשׁוּת הַיָּחִיד טָמֵא כְּמוֹ שֶׁיִּתְבָּאֵר. הָיָה שֶׁרֶץ עַל גַּבֵּי שֶׁרֶץ צָף עַל פְּנֵי הַמַּיִם הֲרֵי זֶה כְּטֻמְאָה עָבָה שֶׁצָּפָה עַל פְּנֵי הַמַּיִם וּסְפֵקוֹ טָהוֹר. הָיָה מֻנָּח עַל גַּבֵּי מֵי חַטָּאת וּמֵי חַטָּאת צָפִין עַל פְּנֵי הַמַּיִם הֲרֵי זֶה סָפֵק אִם הוּא כְּמֻנָּח אוֹ אֵינוֹ כְּמֻנָּח. לְפִיכָךְ יֵרָאֶה לִי שֶׁסְּפֵקוֹ טָהוֹר:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 14:4",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יד:ד",
+              "sourceRef": "Other Sources of Defilement 14:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שרץ ע\"ג שכבת זרע</strong> - ושכבת זרע צף על פני המים מהו מי אמרינן הואיל ושכבת זרע לאו אוכלא הוא ה\"ל כמשקה והוה שרץ צף וספיקו טהור:",
+              "ref": "Rashi on Nazir 64a:10:1",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:י:א",
+              "sourceRef": "Rashi on Nazir 64a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואת\"ל כיון שנתעקרה</strong> - מבשרו של אדם ממש ולא דמי לשאר משקה שבתוכו כגון מי רגלים שמכונסין לתוכו ה\"ל שכבת זרע כי אוכלא דסמיך הוא:",
+              "ref": "Rashi on Nazir 64a:10:2",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:י:ב",
+              "sourceRef": "Rashi on Nazir 64a:10:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שרץ צף ע\"ג מי חטאת</strong> - ומי חטאת עבין הן מפני אפר פרה שבהן מי הוי כאוכלא או דילמא משקה הוי והוי כשרץ צף וספיקו טהור לא ידעינן תיקו:",
+              "ref": "Rashi on Nazir 64a:10:3",
+              "sourceHeRef": "רש\"י על נזיר ס״ד א:י:ג",
+              "sourceRef": "Rashi on Nazir 64a:10:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואם תמצי</b> <span class=\"hebrew-emphasis\">[תרצה</span><span class=\"hebrew-emphasis\">]</span> <b>לומר דאוכלא</b> <span class=\"hebrew-emphasis\">[שאוכל</span><span class=\"hebrew-emphasis\">]</span> <b>הוא,</b> אם היה <b>שרץ</b> מונח <b>על גבי שכבת זרע</b> שהיא ודאי משקה, <b>מהו?</b> האם נוכל לדון על השרץ כעל טומאה צפה? <b>ואם תמצי</b> <span class=\"hebrew-emphasis\">[תרצה</span><span class=\"hebrew-emphasis\">]</span> <b>לומר כיון דמיתעקרא</b> <span class=\"hebrew-emphasis\">[שנעקרת</span><span class=\"hebrew-emphasis\">]</span> שכבת זרע מתוך גופו <b>הויא</b> <span class=\"hebrew-emphasis\">[נעשתה</span><span class=\"hebrew-emphasis\">]</span> <b>לה כי אוכלא</b> <span class=\"hebrew-emphasis\">[כמו אוכל</span><span class=\"hebrew-emphasis\">]</span> שמקורה בבשר האדם, ולא כמשקה, אם היה <b>שרץ</b> מונח <b>על גבי מי חטאת</b> (מים שמעורב בהם אפר פרה אדומה והם משום כך סמיכים מאד) <b>ומי חטאת צפין על גבי המים, מהו?</b> ומשיבים: בכל אלה <b>לא ידעינן</b> <span class=\"hebrew-emphasis\">[אין אנו יודעים</span><span class=\"hebrew-emphasis\">]</span> מה התשובה, <b>תיקו</b> <span class=\"hebrew-emphasis\">[תעמוד</span><span class=\"hebrew-emphasis\">]</span> השאלה במקומה.",
+              "ref": "Steinsaltz on Nazir 64a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר ס״ד א:י",
+              "sourceRef": "Steinsaltz on Nazir 64a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a creeping animal was positioned atop waters of purification that was floating on regular water, it is uncertain whether it renders one impure. The Rambam rules leniently, as the <i>halakha</i> is lenient in uncertain cases with regard to rabbinic law (Rambam <i>Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>14:4).",
+              "he": "שאינה כנבילה שנימוחה, משום שמאז היווצרה כשכבת זרע הריהי נוזל דינה כמשקה לענין זה. או שמא מפני שהיא באה ונאספת מתוך גוף מוצק של אדם (והמאירי הביא כי יש גורסים להסבר זה \"דמעיקרא\") ואין לה מאגר שבו היא מצויה כולה במצב נוזלי (כמו מי רגלים, היוצאים מתוך שלפוחית השתן) דינה כנבילה שנימוחה, שמתחילתה היתה מוצק. וראה במאירי שהביא גרסה \"דמיעכרא\", כלומר שבהיותה במעי האשה היא נעכרת ומתמצקת בזמן שהיא נקלטת בהריון.",
+              "ref": "Steinsaltz comment #1 on Nazir 64a:10",
+              "sourceHeRef": "שֶׁרֶץ עַל גַּבֵּי מֵי חַטָּאת",
+              "sourceRef": "A creeping animal atop waters of purification"
+            },
+            {
+              "en": "According to most commentaries, the dilemma is whether the presence of the ashes in the water means that it is no longer considered liquid, or whether it nevertheless retains the status of liquid. Some commentaries note that this dilemma specifically refers to the waters of purification, not to ordinary water mixed with ashes, because waters of purification have the unique characteristic of rendering a pure person impure (see Numbers 19:7). Consequently, one might have thought that it should form one solid, impure entity with the creeping animal atop it (<i>Tosafot</i>).",
+              "he": "רוב המפרשים מסבירים שהשאלה היא האם בגלל ריבוי האפר הנבלל במי חטאת יוצאים מים אלה מגדר משקה, או משום שהם נוזלים דינם כמשקה (וראה בגרסות). והעירו בתוס' ועוד שהשאלה נשאלה במי חטאת דווקא ולא בסתם מי המעורבים באפר, משום שיש בה צד נוסף, מאחר שמי חטאת מטמאים, היה מקום לומר שהם נחשבים כמחוברים לטומאה שעליהם בגדר \"טומאה סמיכתא\".",
+              "ref": "Steinsaltz comment #2 on Nazir 64a:10",
+              "sourceHeRef": "עַל גַּבֵּי מֵי חַטָּאת",
+              "sourceRef": "Atop waters of purification"
+            },
+            {
+              "en": "",
+              "he": "היה שרץ מונח על גבי מי חטאת ומי החטאת צפים על פני המים — הרי זה ספק. ונראה לרמב\"ם שספק מגע זה טהור. ונראה שטעם הרמב\"ם המטהר בזה, משום שיש כאן ספק טומאה צפה, וספק זה הוא מדרבנן ולפיכך טהור. (רמב\"ם ספר טהרה הלכות שאר אבות הטומאות פי\"ד ה\"ד).",
+              "ref": "Steinsaltz comment #3 on Nazir 64a:10",
+              "sourceHeRef": "שרץ על גבי מי חטאת",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "He who gathers up the ashes of the cow shall also wash his clothes and be unclean until evening.<br>This shall be a permanent law for the Israelites and for the strangers who reside among you.",
+              "he": "וְ֠כִבֶּ֠ס הָאֹסֵ֨ף אֶת־אֵ֤פֶר הַפָּרָה֙ אֶת־בְּגָדָ֔יו וְטָמֵ֖א עַד־הָעָ֑רֶב וְֽהָיְתָ֞ה לִבְנֵ֣י יִשְׂרָאֵ֗ל וְלַגֵּ֛ר הַגָּ֥ר בְּתוֹכָ֖ם לְחֻקַּ֥ת עוֹלָֽם׃",
+              "link": "/Numbers/19",
+              "ref": "Numbers 19:10",
+              "sourceHeRef": "במדבר יט:י",
+              "sourceRef": "Numbers 19:10"
+            }
+          ]
+        }
+      },
+      "en": "<b>And if you say that</b> a dissolved animal carcasses <b>is</b> considered <b>food,</b> one can raise an additional dilemma. If <b>a creeping animal</b> was placed <b>on top of semen,</b> which is certainly liquid, <b>what is</b> the <i>halakha</i>? Is this creeping animal considered a floating impurity? <b>And if you say</b> that <b>once</b> semen <b>is ejaculated</b> from the body <b>it is considered like food</b> rather than drink, as it is viscous, one can raise an additional dilemma. If <b>a creeping animal</b> was placed <b>atop waters of purification,</b> i.e., the water into which the ashes of the red heifer are mixed, which becomes highly viscous, <b>and</b> the <b>waters of purification are floating on water, what is</b> the <i>halakha</i>? The Gemara responds: <b>We do not know</b> the answer to any of these questions, and therefore the dilemmas <b>shall stand</b> unresolved.",
+      "he": "וְאִם תִּמְצֵי לוֹמַר דְּאוּכְלָא הוּא, שֶׁרֶץ עַל גַּבֵּי שִׁכְבַת זֶרַע, מַהוּ? וְאִם תִּמְצֵי לוֹמַר כֵּיוָן דְּמִיתְעַקְּרָא הָוְיָא לַהּ כִּי אוּכְלָא, שֶׁרֶץ עַל גַּבֵּי מֵי חַטָּאת וּמֵי חַטָּאת צָפִין עַל גַּבֵּי הַמַּיִם, מַהוּ? לָא יָדְעִינַן, תֵּיקוּ.",
+      "ref": "Nazir 64a:10"
+    }
+  ],
+  "title": "Nazir 64a",
+  "titleHebrew": "נזיר סד,א",
+  "topics": []
+}

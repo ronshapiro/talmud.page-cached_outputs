@@ -1,0 +1,463 @@
+{
+  "id": "88a",
+  "sections": [
+    {
+      "commentary": {
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אדרבה אתי שפיר דהכא והתם סבירא ליה דמקצת ידיעה לאו ככל ידיעה אבל דרבי מאיר אדרבי מאיר קשיא דהא ברישא מודה ר\"מ דיפר ביום שלאחריו אע\"ג דאיכא מקצת ידיעה דהיינו שיודע שיש נדרים אלמא מקצת ידיעה לאו ככל ידיעה דמאי דאמר בסיפא לא יפר היינו משום דכיון שיודע שיש מפירין ידיעה גמורה חשיבא ליה אבל היכא דליכא אלא מקצת ידיעה כרישא לאו כידיעה חשיבא ליה והכא אמר לרבות את הסומא אלמא חשיבא ליה מקצת ידיעה ככל ידיעה וקשה לי מאי קושיא שאני הכא דקראי דייקי הכי וכי תימא הכי פריך נגמר מינה א\"כ מאי קא משני רבא הכא מענינא דקרא ונ\"ל דסבירא לן דלאו מקרא דייקי הכי ר' יהודה ור\"מ דקרא משמע הכי ומשמע הכי אלא מר אמר סבריה ומר אמר סבריה וכל חד מסמיך ליה אקרא באסמכתא בעלמא ומש\"ה פריך מינה ומשני רבא דלאו כדקס\"ד דבסברא בעלמא תלו אלא הכא מענינא דקרא וליכא למימר נגמר מיניה דנדרים ורוצח לא שייכי כלל ול\"ג הכא מענינא דקרא והכא מענינא דקרא דליתיה בעיקר נסחי ולמאן דגריס ליה מעיקרא פרכינן נגמר מינה ומשני דהתם דייקי קראי הכי והכא דייקי איפכא:",
+              "ref": "Ran on Nedarim 88a:1:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ח א:א:א",
+              "sourceRef": "Ran on Nedarim 88a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הכא מענינא דקרא</strong> - לעולם לית ליה לרבי מאיר מקצת ידיעה ככל ידיעה ושאני הכא גבי סומא שהרג בשוגג דרבייה קרא בלא ראות פרט לסומא דמשמע שאינו רואה כאן אבל רואה במקום אחר:",
+              "ref": "Ran on Nedarim 88a:1:2",
+              "sourceHeRef": "ר\"ן על נדרים פ״ח א:א:ב",
+              "sourceRef": "Ran on Nedarim 88a:1:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כדכתיב ואשר יבא את רעהו ביער דהוה ידיע ליה <span class=\"parenthesized\">(אבל)</span> סומא אע\"פ שלא ראהו ששם הוא על ידי שמיעה ידע שהוא לשם ונימא דחייב גלות להכי איצטריך קרא בלא ראות פרט לסומא דאינו חייב גלות:",
+              "ref": "Rashi on Nedarim 88a:1:1",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:א:א",
+              "sourceRef": "Rashi on Nedarim 88a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבי מאיר אומר בלא ראות לרבות את הסומא</strong> - שגולה דהא אינו רואה והיינו דאיצטריך קרא לרבויי מי שהוא בלא ראות בלא ראיית העין דלא אמר מקצת ידיעה בכלל ידיעה ונימא דהואיל ומקצת ידיעה לאו בכלל ידיעה לא יהא גולה להכי איצטריך לן ריבויא דקרא לחייבו גלות וקשיא דר\"מ אדר\"מ דבמתני' קאמר רבי מאיר מקצת ידיעה בכלל ידיעה ולא יפר והכא קאמר לה לא אמרינן מקצת ידיעה בכלל ידיעה:",
+              "ref": "Rashi on Nedarim 88a:1:2",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:א:ב",
+              "sourceRef": "Rashi on Nedarim 88a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבא לא קשיא הכא מעניניה דקרא</strong> - גבי רוצח לאו במקצת ידיעה בכלל ידיעה פליגי אלא מדיוקא דקרא דדייק הכי:",
+              "ref": "Rashi on Nedarim 88a:1:3",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:א:ג",
+              "sourceRef": "Rashi on Nedarim 88a:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבי יהודה סבר כל דבר מיעל ליער הוא</strong> - כל מי שיכול ליכנס ליער גולה ואפי' סומא במשמע ואתא בלא ראות דלא איצטריך דכי היכי דמתרבי מבלא ראות מתרבי נמי מיער והוי רבוי אחר רבוי ואין רבוי אחר רבוי אלא למעט ובלא ראות ממעט לסומא:",
+              "ref": "Rashi on Nedarim 88a:1:4",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:א:ד",
+              "sourceRef": "Rashi on Nedarim 88a:1:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא:</b> אין כאן סתירה, ואין כאן ענין שבסברות, אלא המחלוקת היא בהבנת לשון הכתוב, <b>הכא מעניניה דקרא והכא מעניניה דקרא</b> <span class=\"hebrew-emphasis\">[כאן מעניינו של הכתוב וכאן מעניינו של הכתוב].</span> <b>ר' יהודה סבר</b> <span class=\"hebrew-emphasis\">[סבור]:</span> <b>גבי רוצח</b> בשוגג, שגולה, <b>כתיב</b> <span class=\"hebrew-emphasis\">[נאמר]</span> <b>\"ואשר יבא את רעהו ביער</b> לחטוב עצים<b>\"</b> (דברים יט, ה), ומשמעו: <b>כל</b> מי שהוא <b>בר מיעל</b> <span class=\"hebrew-emphasis\">[בן כניסה]</span> <b>ליער, וסומא נמי בר מיעל</b> <span class=\"hebrew-emphasis\">[גם כן בן כניסה]</span> <b>ליער הוא. ואי אמרת</b> <span class=\"hebrew-emphasis\">[ואם אומר אתה]</span> כי <b>\"בלא ראות\"</b> בא <b>לרבות את הסומא —</b> הרי דבר זה כבר <b>מ\"יער\" נפקא ליה</b> <span class=\"hebrew-emphasis\">[יוצא,</span> נלמד <span class=\"hebrew-emphasis\">לו],</span> שהרי אף הוא בן כניסה ליער. <b>אלא שמע מינה</b> <span class=\"hebrew-emphasis\">[למד ממנה]</span> שמה שנאמר <b>\"בלא ראות\"</b> בא למעט, וכוונתו: <b>פרט לסומא.</b>",
+              "ref": "Steinsaltz on Nedarim 88a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ח א:א",
+              "sourceRef": "Steinsaltz on Nedarim 88a:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "For instance, a man goes with his neighbor into a grove to cut wood; as his hand swings the ax to cut down a tree, the ax-head flies off the handle and strikes the other so that he dies. That man shall flee to one of these cities and live.—",
+              "he": "וַאֲשֶׁר֩ יָבֹ֨א אֶת־רֵעֵ֥הוּ בַיַּ֘עַר֮ לַחְטֹ֣ב עֵצִים֒ וְנִדְּחָ֨ה יָד֤וֹ בַגַּרְזֶן֙ לִכְרֹ֣ת הָעֵ֔ץ וְנָשַׁ֤ל הַבַּרְזֶל֙ מִן־הָעֵ֔ץ וּמָצָ֥א אֶת־רֵעֵ֖הוּ וָמֵ֑ת ה֗וּא יָנ֛וּס אֶל־אַחַ֥ת הֶעָרִים־הָאֵ֖לֶּה וָחָֽי׃",
+              "link": "/Deuteronomy/19",
+              "ref": "Deuteronomy 19:5",
+              "sourceHeRef": "דברים יט:ה",
+              "sourceRef": "Deuteronomy 19:5"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said:</b> There is no contradiction here, as the dispute with regard to an unintentional killing is based on divergent interpretations of the verse. <b>Here,</b> the ruling follows <b>from the context of the verse, and there,</b> the ruling follows <b>from the context of the verse. <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> maintains</b> that <b>with regard to</b> the exile of an unintentional <b>killer it is written: “And a man who goes into the forest with his neighbor</b> to hew wood” (Deuteronomy 19:5), which serves to include <b>anyone</b> who <b>is capable of entering a forest, and a blind person is also capable of entering a forest. And if you say</b> that the phrase <b>“without seeing”</b> serves <b>to include a blind person,</b> this <b>is</b> already <b>derived from</b> the word <b>“forest,”</b> as he too can enter a forest. <b>Rather, learn from it</b> that the phrase <b>“without seeing”</b> serves <b>to exclude a blind person</b> from the category of unintentional killers who are exiled to a city of refuge.",
+      "he": "אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: הָכָא מֵעִנְיָנֵיהּ דִּקְרָא וְהָכָא מֵעִנְיָנֵיהּ דִּקְרָא. רַבִּי יְהוּדָה סָבַר: גַּבֵּי רוֹצֵחַ כְּתִיב ״וַאֲשֶׁר יָבֹא אֶת רֵעֵהוּ בַיַּעַר״ — כׇּל דְּבַר מֵיעַל לְיַעַר, וְסּוֹמֵא נָמֵי בַּר מֵיעַל לְיַעַר הוּא. וְאִי אָמְרַתְּ ״בְּלֹא רְאוֹת״ לְרַבּוֹת אֶת הַסּוֹמֵא — מִ״יַּעַר״ נָפְקָא לֵיהּ. אֶלָּא שְׁמַע מִינַּהּ: ״בְּלֹא רְאוֹת״ פְּרָט לְסּוֹמֵא.",
+      "ref": "Nedarim 88a:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "[The following principle applies when a person's son-in-law is forbidden to benefit from him and he desires to give his daughter money so that she can benefit from it and spend it as she desires. He should give her a present and say: \"This money is given to you as a present on the condition that your husband has no authority over it. Instead, it shall be used for what you put in your mouth, what you cloth yourself, and the like.\" Even if he said: \"...on the condition that your husband has no authority over it. Instead, it shall be used for whatever you want to do with it,\" the husband does not acquire it and she may do what she desires with it.<br>If, however, he gave her a present and told her. \"...on the condition that your husband has no authority over it,\" but did not specify the purpose for which the present was being given or even did not say that it was intended for whatever she desires, the husband acquires it to derive benefit from it. This would be forbidden, because he is forbidden to benefit from his father-in-law.",
+              "he": "מִי שֶׁנֶּאֶסְרָה הֲנָיָתוֹ עַל בַּעַל בִּתּוֹ וְהוּא רוֹצֶה לָתֵת לְבִתּוֹ מָעוֹת כְּדֵי שֶׁתִּהְיֶה נֶהֱנֵית בָּהֶן וּמוֹצִיאָה אוֹתָן בַּחֲפָצֶיהָ. הֲרֵי זֶה נוֹתֵן לָהּ וְאוֹמֵר לָהּ הֲרֵי הַמָּעוֹת הָאֵלּוּ נְתוּנִין לָךְ בְּמַתָּנָה וּבִלְבַד שֶׁלֹּא יְהֵא לְבַעֲלִיךְ רְשׁוּת בָּהֶן אֶלָּא יִהְיוּ לְמַה שֶּׁאַתְּ נוֹתֶנֶת לְפִיךְ אוֹ לְמַה שֶּׁתִּלְבְּשִׁי וְכַיּוֹצֵא בָּזֶה. וַאֲפִלּוּ אָמַר לָהּ עַל מְנָת שֶׁאֵין לְבַעֲלִיךְ רְשׁוּת בָּהֶן אֶלָּא מַה שֶּׁתִּרְצִי עֲשִׂי בָּהֶן לֹא קָנָה הַבַּעַל וּמַה שֶּׁתִּרְצֶה תַּעֲשֶׂה בָּהֶן. אֲבָל אִם נָתַן לָהּ מַתָּנָה וְאָמַר לָהּ עַל מְנָת שֶׁאֵין לְבַעֲלִיךְ רְשׁוּת בָּהֶן וְלֹא פֵּרֵשׁ שֶׁתִּהְיֶה הַמַּתָּנָה הַזֹּאת לְכָךְ וּלְכָךְ אוֹ לְמַה שֶּׁתִּרְצֶה תַּעֲשֶׂה בָּהֶן הֲרֵי קָנָה אוֹתָהּ הַבַּעַל לֶאֱכל פֵּרוֹתֶיהָ. וְדָבָר זֶה אָסוּר שֶׁהֲרֵי הוּא אָסוּר בַּהֲנָיַת חוֹתְנוֹ:",
+              "ref": "Mishneh Torah, Vows 7:17",
+              "sourceHeRef": "הלכות נדרים ז:יז",
+              "sourceRef": "Vows 7:17"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וסומא לאו בר מידע הוא</strong> - שאינו יכול לידע ולכוין מקום חבירו ממש ואי אמרת בלא ראות פרט לסומא מבלי דעת נפקא ליה הילכך הוה ליה מיעוט אחר מיעוט ואינו אלא לרבות והך סוגיא מיחלפא התם בפרק ואלו הן הגולין:",
+              "ref": "Ran on Nedarim 88a:2:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ח א:ב:א",
+              "sourceRef": "Ran on Nedarim 88a:2:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל דבר מידע הוא</strong> - כלומר כל שיש לו ידיעה כשזורק אבן להיכן נופלת וסומא לאו בר מידע הוא:",
+              "ref": "Rashi on Nedarim 88a:2:1",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:ב:א",
+              "sourceRef": "Rashi on Nedarim 88a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי אמרת בלא ראות פרט לסומא</strong> - דאינו גולה הוי מיעוט אחר מיעוט מבלי דעת ובלא ראות ואין מיעוט אחר מיעוט אלא לרבות ואתא בלא ראות ומרבה סומא:",
+              "ref": "Rashi on Nedarim 88a:2:2",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:ב:ב",
+              "sourceRef": "Rashi on Nedarim 88a:2:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a person gives a gift to a Canaanite servant or a married woman, it is acquired by the husband or the owner. There is, however, a distinction between their powers of acquisition. The servant's master acquires the article itself, while the husband acquires merely the right to the benefit from the article.",
+                      "he": "הַנּוֹתֵן מַתָּנָה לְעֶבֶד אוֹ לְאִשָּׁה קָנָה הַבַּעַל וְהָאָדוֹן. אֶלָּא שֶׁהָאָדוֹן קוֹנֶה לַגּוּף וְהַבַּעַל קוֹנֶה אוֹתָהּ לְפֵרוֹת:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 3:12",
+                      "sourceHeRef": "הלכות זכייה ומתנה ג:יב",
+                      "sourceRef": "Ownerless Property and Gifts 3:12"
+                    },
+                    {
+                      "en": "Even if a person gives a gift to a married woman on the condition that her husband have no authority over it, or to a servant on the condition that his master have no authority over it, the master or the husband acquires it.<br>If, however, one gives a gift to a married woman or to a servant and the giver stipulates that the gift itself may be used for only this or this purpose, the master or the husband does not acquire it.",
+                      "he": "נָתַן מַתָּנָה לְאִשָּׁה עַל מְנָת שֶׁאֵין לְבַעְלָהּ רְשׁוּת בָּהּ. וּלְעֶבֶד עַל מְנָת שֶׁאֵין לְרַבּוֹ רְשׁוּת בּוֹ. קָנָה הָאָדוֹן וְקָנָה הַבַּעַל. אֲבָל הַנּוֹתֵן מַתָּנָה לְאִשָּׁה אוֹ לְעֶבֶד וְהִתְנָה עִמָּהֶן הַנּוֹתֵן בְּגוּפָהּ שֶׁל מַתָּנָה שֶׁתִּהְיֶה לְכָךְ וְכָךְ. לֹא קָנָה הָאָדוֹן וְלֹא קָנָה הַבַּעַל:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 3:13",
+                      "sourceHeRef": "הלכות זכייה ומתנה ג:יג",
+                      "sourceRef": "Ownerless Property and Gifts 3:13"
+                    },
+                    {
+                      "en": "[The following rules apply when] a woman takes a nazirite vow and set aside her sacrifices and afterwards, her husband nullified her vow. If the animal belonged to him, it should go out and pasture in the herd, for a person cannot consecrate an article that does not belong to him. If the [animals set aside for] sacrifices were hers and her husband did not own any part of them, e.g., they were given to her as a present on the condition that her husband have no authority over them, but instead, she could do whatever she wants with them, the sin offering should be left to die, the burnt offering should be sacrificed as a burnt offering, and the peace offering should be sacrificed as a peace offering. It is eaten for one day. There is no need that the offering be accompanied by bread.",
+                      "he": "הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְהִפְרִישָׁה קָרְבְּנוֹתֶיהָ וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ אִם שֶׁלּוֹ הָיְתָה הַבְּהֵמָה תֵּצֵא וְתִרְעֶה בָּעֵדֶר שֶׁאֵין אָדָם מַקְדִּישׁ דָּבָר שֶׁאֵינוֹ שֶׁלּוֹ. וְאִם הָיוּ הַקָּרְבָּנוֹת מִשֶּׁלָּהּ וְאֵין לְבַעְלָהּ בָּהֶן כְּלוּם. כְּגוֹן שֶׁנָּתְנוּ לָהּ בְּמַתָּנָה עַל מְנָת שֶׁלֹּא יִהְיֶה לַבַּעַל בָּהֶן רְשׁוּת אֶלָּא מַה שֶּׁתִּרְצֶה תַּעֲשֶׂה בָּהֶן. הַחַטָּאת תָּמוּת. וְהָעוֹלָה תִּקָּרֵב עוֹלָה. וְהַשְּׁלָמִים יִקָּרְבוּ שְׁלָמִים. וְנֶאֱכָלִין לְיוֹם אֶחָד וְאֵינָן טְעוּנִין לֶחֶם:",
+                      "ref": "Mishneh Torah, Nazariteship 9:9",
+                      "sourceHeRef": "הלכות נזירות ט:ט",
+                      "sourceRef": "Nazariteship 9:9"
+                    },
+                    {
+                      "en": "What is implied? When a person gives a gift to a married woman and tells her: \"This money is given to you as a gift on the condition that you use it for clothing, that you use it for beverages or that you do with it what you desire without the permission of your husband,\" the husband has no authority over it.<br>Similarly, if a person told a servant: \"This money is given to you as a gift on the condition that you use it for food and drink, that you use it to obtain your freedom or that you do with it what you desire without the permission of your master,\" the master has no authority over it. The same principles apply in all analogous situations.",
+                      "he": "כֵּיצַד. הַנּוֹתֵן מַתָּנָה לְאִשָּׁה וְאָמַר לָהּ הֲרֵי הַמָּעוֹת הָאֵלּוּ נְתוּנִים לְךָ בְּמַתָּנָה עַל מְנָת שֶׁתִּלְבְּשִׁי בָּהֶן אוֹ עַל מְנָת שֶׁתִּשְׁתִּי בָּהֶם וְתַעֲשִׂי מַה שֶּׁתִּרְצִי בְּלֹא רְשׁוּת הַבַּעַל. לֹא קָנָה הַבַּעַל. וְכֵן אִם אָמַר לְעֶבֶד עַל מְנָת שֶׁתֹּאכַל בָּהֶן וְתִשְׁתֶּה בָּהֶן. עַל מְנָת שֶׁתֵּצֵא בָּהֶם לְחֵרוּת. אוֹ עַל מְנָת שֶׁתַּעֲשֶׂה בָּהֶם כָּל מַה שֶּׁתִּרְצֶה בְּלֹא רְשׁוּת אָדוֹן שֶׁלְּךָ. לֹא קָנָה הָאָדוֹן. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 3:14",
+                      "sourceHeRef": "הלכות זכייה ומתנה ג:יד",
+                      "sourceRef": "Ownerless Property and Gifts 3:14"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "המודר מחתנו והוא רוצה לתת לבתו מעות כדי שתהא נהנית בהם ומוציאה אותם בחפציה הרי זה נותן לה ואומר לה הרי המעות הללו נתונים לך במתנה ובלבד שלא יהא לבעליך רשות בהן אלא יהיו למה שאת נותנת לתוך פיך או למה שתלבשי וכיוצא בזה ואפי' אמר על מנת שאין לבעליך רשות בהם אלא מה שתרצי עשי בהם לא קנה הבעל ומה שתרצה תעשה בהם אבל אם נתן לה מתנה ואמר לה על מנת שאין לבעליך רשות בהם ולא פירש שתהא המתנה הזאת לכך ולכך או למה שתרצה תעשה בהם הרי זה יקנה אותה הבעל לאכול פירותיה ודבר זה אסור שהרי הוא אסור בהניית חותנו ויש אומרים דאפי' באומר לה על מנת שאין לבעליך רשות בהם ומה שתרצי תעשי בהם קנה הבעל ואסור בהם:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 222:1",
+              "sourceHeRef": "יורה דעה רכב:א - מי שהתנו מודר הנאה ממנו ורוצה ליתן טעות לבתו.",
+              "sourceRef": "Yoreh De'ah 222:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר' מאיר סבר</b> <span class=\"hebrew-emphasis\">[סבור]</span> ומפרש כך: <b>כתיב</b> <span class=\"hebrew-emphasis\">[נאמר]</span> באותה פרשה <b>\"</b>אשר יכה את רעהו <b>בבלי דעת\"</b> (דברים יט, ד) — <b>כל</b> מי שהוא <b>בר מידע</b> <span class=\"hebrew-emphasis\">[בן ידיעה]</span> שיכול לדעת, <b>וסומא לאו בר מידע</b> <span class=\"hebrew-emphasis\">[לא בן ידיעה]</span> <b>הוא,</b> שאינו יכול לדעת בדיוק היכן נמצא אדם מסויים. <b>ואי אמרת</b> <span class=\"hebrew-emphasis\">[ואם אומר אתה]</span> שיש לפרש ש<b>\"בלא ראות\"</b> כוונתו <b>פרט לסומא —</b> הרי דבר זה <b>מ\"בלי דעת\" נפקא ליה</b> <span class=\"hebrew-emphasis\">[</span>הוא <span class=\"hebrew-emphasis\">יוצא,</span> נלמד <span class=\"hebrew-emphasis\">לו].</span> <b>אלא שמע מינה</b> <span class=\"hebrew-emphasis\">[למד מכאן]</span> ש<b>\"בלא ראות\"</b> כוונתו <b>לרבות את הסומא</b> שגולה, ולא למעט אותו.",
+              "ref": "Steinsaltz on Nedarim 88a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ח א:ב",
+              "sourceRef": "Steinsaltz on Nedarim 88a:2"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בבלי דעת</strong> - שאינו יודע שהאחר אצלו וסומא לאו בר מידע הוא שאינו יכול לראות אם חבירו עמו אם לאו דאזיל רבי מאיר בתר משמעותיה דקרא כמו במתניתין דאמר לא קרינא כאן ביום שמעו והחריש הואיל וסבור שאינו יכול להפר:",
+              "ref": "Tosafot on Nedarim 88a:2:1",
+              "sourceHeRef": "תוספות על נדרים פ״ח א:ב:א",
+              "sourceRef": "Tosafot on Nedarim 88a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי אמרת כו'</strong> - אלא שמע מינה בלא ראות לרבות את הסומא דיתורא הוא לרבויי דודאי משמעותא לא משתמע [הכי] ולפירוש זה לא גרסינן מה שיש במקצת ספרים והכא מעניניה דקרא ושמע אישה וי\"ס דלא גרסינן:",
+              "ref": "Tosafot on Nedarim 88a:2:2",
+              "sourceHeRef": "תוספות על נדרים פ״ח א:ב:ב",
+              "sourceRef": "Tosafot on Nedarim 88a:2:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Now this is the case of the manslayer who may flee there and live: one who has killed another unwittingly, without having been his enemy in the past.",
+              "he": "וְזֶה֙ דְּבַ֣ר הָרֹצֵ֔חַ אֲשֶׁר־יָנ֥וּס שָׁ֖מָּה וָחָ֑י אֲשֶׁ֨ר יַכֶּ֤ה אֶת־רֵעֵ֙הוּ֙ בִּבְלִי־דַ֔עַת וְה֛וּא לֹא־שֹׂנֵ֥א ל֖וֹ מִתְּמֹ֥ל שִׁלְשֹֽׁם׃",
+              "link": "/Deuteronomy/19",
+              "ref": "Deuteronomy 19:4",
+              "sourceHeRef": "דברים יט:ד",
+              "sourceRef": "Deuteronomy 19:4"
+            }
+          ]
+        }
+      },
+      "en": "By contrast, <b><span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> maintains: It is written</b> in that same section: “One who strikes his neighbor <b>without knowledge”</b> (Deuteronomy 19:4), which indicates that the <i>halakha</i> applies to <b>anyone who is capable of knowing</b> the precise location of the people standing about him, <b>but a blind person is not capable of knowing</b> this. <b>And if you say</b> that the phrase <b>“without seeing”</b> serves <b>to exclude a blind person,</b> this <b>is</b> already <b>derived from</b> the words <b>“without knowledge.” Rather, learn from it</b> that the phrase <b>“without seeing”</b> serves <b>to include a blind person</b> in the <i>halakha</i> of exile, not to exclude him.",
+      "he": "<span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">רַבִּי מֵאִיר</span> סָבַר: כְּתִיב ״בִּבְלִי דַעַת״ — כׇּל דְּבַר מִידָּע, וְסּוֹמֵא לָאו בַּר מִידָּע הוּא. וְאִי אָמְרַתְּ ״בְּלֹא רְאוֹת״ פְּרָט לַסּוֹמֵא — מִ״בְּלִי דַעַת״ נָפְקָא לֵיהּ. אֶלָּא שְׁמַע מִינַּהּ: ״בְּלֹא רְאוֹת״ לְרַבּוֹת אֶת הַסּוֹמֵא.",
+      "ref": "Nedarim 88a:2"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "With regard to <b>one who vows</b> that <b>benefit</b> from him is forbidden <b>to his son-in-law, but he</b> nevertheless <b>wishes to give his daughter,</b> i.e., the wife of that same son-in-law, <b>money,</b> then, though he cannot do so directly, as anything acquired by a woman belongs to her husband, <b>he</b> should <b>say to her: This money is hereby given to you as a gift, provided that your husband has no rights to it,</b> but the gift includes <b>only that which you pick up and place in your mouth.</b>",
+              "he": "הַמֻּדָּר הֲנָאָה מֵחֲתָנוֹ וְהוּא רוֹצֶה לָתֵת לְבִתּוֹ מָעוֹת, אוֹמֵר לָהּ, הֲרֵי הַמָּעוֹת הָאֵלּוּ נְתוּנִים לָךְ בְּמַתָּנָה וּבִלְבַד שֶׁלֹּא יְהֵא לְבַעְלֵךְ רְשׁוּת בָּהֶן, אֶלָּא מַה שֶּׁאַתְּ נוֹשֵׂאת וְנוֹתֶנֶת בְּפִיךְ:",
+              "link": "/Mishnah Nedarim/11",
+              "ref": "Mishnah Nedarim 11:8",
+              "sourceHeRef": "משנה נדרים יא:ח",
+              "sourceRef": "Mishnah Nedarim 11:8"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "[The following principle applies when a person's son-in-law is forbidden to benefit from him and he desires to give his daughter money so that she can benefit from it and spend it as she desires. He should give her a present and say: \"This money is given to you as a present on the condition that your husband has no authority over it. Instead, it shall be used for what you put in your mouth, what you cloth yourself, and the like.\" Even if he said: \"...on the condition that your husband has no authority over it. Instead, it shall be used for whatever you want to do with it,\" the husband does not acquire it and she may do what she desires with it.<br>If, however, he gave her a present and told her. \"...on the condition that your husband has no authority over it,\" but did not specify the purpose for which the present was being given or even did not say that it was intended for whatever she desires, the husband acquires it to derive benefit from it. This would be forbidden, because he is forbidden to benefit from his father-in-law.",
+              "he": "מִי שֶׁנֶּאֶסְרָה הֲנָיָתוֹ עַל בַּעַל בִּתּוֹ וְהוּא רוֹצֶה לָתֵת לְבִתּוֹ מָעוֹת כְּדֵי שֶׁתִּהְיֶה נֶהֱנֵית בָּהֶן וּמוֹצִיאָה אוֹתָן בַּחֲפָצֶיהָ. הֲרֵי זֶה נוֹתֵן לָהּ וְאוֹמֵר לָהּ הֲרֵי הַמָּעוֹת הָאֵלּוּ נְתוּנִין לָךְ בְּמַתָּנָה וּבִלְבַד שֶׁלֹּא יְהֵא לְבַעֲלִיךְ רְשׁוּת בָּהֶן אֶלָּא יִהְיוּ לְמַה שֶּׁאַתְּ נוֹתֶנֶת לְפִיךְ אוֹ לְמַה שֶּׁתִּלְבְּשִׁי וְכַיּוֹצֵא בָּזֶה. וַאֲפִלּוּ אָמַר לָהּ עַל מְנָת שֶׁאֵין לְבַעֲלִיךְ רְשׁוּת בָּהֶן אֶלָּא מַה שֶּׁתִּרְצִי עֲשִׂי בָּהֶן לֹא קָנָה הַבַּעַל וּמַה שֶּׁתִּרְצֶה תַּעֲשֶׂה בָּהֶן. אֲבָל אִם נָתַן לָהּ מַתָּנָה וְאָמַר לָהּ עַל מְנָת שֶׁאֵין לְבַעֲלִיךְ רְשׁוּת בָּהֶן וְלֹא פֵּרֵשׁ שֶׁתִּהְיֶה הַמַּתָּנָה הַזֹּאת לְכָךְ וּלְכָךְ אוֹ לְמַה שֶּׁתִּרְצֶה תַּעֲשֶׂה בָּהֶן הֲרֵי קָנָה אוֹתָהּ הַבַּעַל לֶאֱכל פֵּרוֹתֶיהָ. וְדָבָר זֶה אָסוּר שֶׁהֲרֵי הוּא אָסוּר בַּהֲנָיַת חוֹתְנוֹ:",
+              "ref": "Mishneh Torah, Vows 7:17",
+              "sourceHeRef": "הלכות נדרים ז:יז",
+              "sourceRef": "Vows 7:17"
+            },
+            {
+              "en": "What is implied? When a person gives a gift to a married woman and tells her: \"This money is given to you as a gift on the condition that you use it for clothing, that you use it for beverages or that you do with it what you desire without the permission of your husband,\" the husband has no authority over it.<br>Similarly, if a person told a servant: \"This money is given to you as a gift on the condition that you use it for food and drink, that you use it to obtain your freedom or that you do with it what you desire without the permission of your master,\" the master has no authority over it. The same principles apply in all analogous situations.",
+              "he": "כֵּיצַד. הַנּוֹתֵן מַתָּנָה לְאִשָּׁה וְאָמַר לָהּ הֲרֵי הַמָּעוֹת הָאֵלּוּ נְתוּנִים לְךָ בְּמַתָּנָה עַל מְנָת שֶׁתִּלְבְּשִׁי בָּהֶן אוֹ עַל מְנָת שֶׁתִּשְׁתִּי בָּהֶם וְתַעֲשִׂי מַה שֶּׁתִּרְצִי בְּלֹא רְשׁוּת הַבַּעַל. לֹא קָנָה הַבַּעַל. וְכֵן אִם אָמַר לְעֶבֶד עַל מְנָת שֶׁתֹּאכַל בָּהֶן וְתִשְׁתֶּה בָּהֶן. עַל מְנָת שֶׁתֵּצֵא בָּהֶם לְחֵרוּת. אוֹ עַל מְנָת שֶׁתַּעֲשֶׂה בָּהֶם כָּל מַה שֶּׁתִּרְצֶה בְּלֹא רְשׁוּת אָדוֹן שֶׁלְּךָ. לֹא קָנָה הָאָדוֹן. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Ownerless Property and Gifts 3:14",
+              "sourceHeRef": "הלכות זכייה ומתנה ג:יד",
+              "sourceRef": "Ownerless Property and Gifts 3:14"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הנודר הנאה מחתנו והוא רוצה לתת מעות לבתו</strong> - הא דתני מעות משום דאי יהיב לה מזונות אין צריך לומר לה כלום לפי שאין לבעל זכייה בהן והיינו דתנן בפרק אין בין המודר <span class=\"parenthesized\">(לעיל נדרים דף לח.)</span> וזן את אשתו ולא הצריכוהו לומר ובלבד שלא יהא לבעליך רשות בהן משום דכיון דאיהו זנה במקום הבעל לית ליה לבעל שום זכות באותן מזונות שהרי אפי' נתן לה הבעל מזונות הקצובין לה וצמצמה והותירה אין לו לבעל באותו מותר כלום וכדאמר בפרק מי שאמר הריני נזיר <span class=\"parenthesized\">(נזיר דף כד:)</span> בדקמצה מעיסתה כל שכן בשזנה אחר שאין לו לבעל שום זכות באותן המזונות הקצובין לה משום הכי תני והוא רוצה לתת לבתו מעות שיהו מצויין להוציא אותן בחפציה ובכי ה\"ג יש לו לבעל זכות בהן וכדאיתא בפ' חזקת הבתים דאמרינן התם ילקח בהם קרקע והבעל אוכל פירות נמצא זה נהנה מחמיו שהדירו הנאה לפיכך צריך שיאמר לה הרי המעות האלו נתונים לך במתנה ובלבד שלא יהא לבעליך רשות בהן אלא מה שאת נותנת לפיך ודוקא דאמר לה הני תרי לישני אבל אמר אין לבעליך רשות בהן בלחוד לא מהני דמתני' רבי מאיר היא דאמר יד אשה כיד בעלה כדמוקי לה בגמרא וכי תימא אם כן כי אמר לה נמי אלא מה שאת נותנת לפיך אמאי מהני היינו טעמא משום דכיון שאין אשה זוכה בנכסים כלל עד שתתן אותם לתוך פיה הרי באותה שעה אין הבעל יכול לזכות בהן ולפי זה דוקא כי אמר לה מה שאת נותנת לפיך אבל אי אמר לה אלא מה שאת מתכסה וכיוצא בו לא מהני וקני יתהון בעל ואיכא מ\"ד דהוא הדין בשיחדן לה לאיזה דבר שיהיה דלא קנה יתהון בעל כיון שאף לה לא הקנה לגמרי אלא לאותו דבר בלבד:",
+              "ref": "Ran on Nedarim 88a:3:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ח א:ג:א",
+              "sourceRef": "Ran on Nedarim 88a:3:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a person gives a gift to a Canaanite servant or a married woman, it is acquired by the husband or the owner. There is, however, a distinction between their powers of acquisition. The servant's master acquires the article itself, while the husband acquires merely the right to the benefit from the article.",
+                      "he": "הַנּוֹתֵן מַתָּנָה לְעֶבֶד אוֹ לְאִשָּׁה קָנָה הַבַּעַל וְהָאָדוֹן. אֶלָּא שֶׁהָאָדוֹן קוֹנֶה לַגּוּף וְהַבַּעַל קוֹנֶה אוֹתָהּ לְפֵרוֹת:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 3:12",
+                      "sourceHeRef": "הלכות זכייה ומתנה ג:יב",
+                      "sourceRef": "Ownerless Property and Gifts 3:12"
+                    },
+                    {
+                      "en": "Even if a person gives a gift to a married woman on the condition that her husband have no authority over it, or to a servant on the condition that his master have no authority over it, the master or the husband acquires it.<br>If, however, one gives a gift to a married woman or to a servant and the giver stipulates that the gift itself may be used for only this or this purpose, the master or the husband does not acquire it.",
+                      "he": "נָתַן מַתָּנָה לְאִשָּׁה עַל מְנָת שֶׁאֵין לְבַעְלָהּ רְשׁוּת בָּהּ. וּלְעֶבֶד עַל מְנָת שֶׁאֵין לְרַבּוֹ רְשׁוּת בּוֹ. קָנָה הָאָדוֹן וְקָנָה הַבַּעַל. אֲבָל הַנּוֹתֵן מַתָּנָה לְאִשָּׁה אוֹ לְעֶבֶד וְהִתְנָה עִמָּהֶן הַנּוֹתֵן בְּגוּפָהּ שֶׁל מַתָּנָה שֶׁתִּהְיֶה לְכָךְ וְכָךְ. לֹא קָנָה הָאָדוֹן וְלֹא קָנָה הַבַּעַל:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 3:13",
+                      "sourceHeRef": "הלכות זכייה ומתנה ג:יג",
+                      "sourceRef": "Ownerless Property and Gifts 3:13"
+                    },
+                    {
+                      "en": "[The following rules apply when] a woman takes a nazirite vow and set aside her sacrifices and afterwards, her husband nullified her vow. If the animal belonged to him, it should go out and pasture in the herd, for a person cannot consecrate an article that does not belong to him. If the [animals set aside for] sacrifices were hers and her husband did not own any part of them, e.g., they were given to her as a present on the condition that her husband have no authority over them, but instead, she could do whatever she wants with them, the sin offering should be left to die, the burnt offering should be sacrificed as a burnt offering, and the peace offering should be sacrificed as a peace offering. It is eaten for one day. There is no need that the offering be accompanied by bread.",
+                      "he": "הָאִשָּׁה שֶׁנָּדְרָה בְּנָזִיר וְהִפְרִישָׁה קָרְבְּנוֹתֶיהָ וְאַחַר כָּךְ הֵפֵר לָהּ בַּעְלָהּ אִם שֶׁלּוֹ הָיְתָה הַבְּהֵמָה תֵּצֵא וְתִרְעֶה בָּעֵדֶר שֶׁאֵין אָדָם מַקְדִּישׁ דָּבָר שֶׁאֵינוֹ שֶׁלּוֹ. וְאִם הָיוּ הַקָּרְבָּנוֹת מִשֶּׁלָּהּ וְאֵין לְבַעְלָהּ בָּהֶן כְּלוּם. כְּגוֹן שֶׁנָּתְנוּ לָהּ בְּמַתָּנָה עַל מְנָת שֶׁלֹּא יִהְיֶה לַבַּעַל בָּהֶן רְשׁוּת אֶלָּא מַה שֶּׁתִּרְצֶה תַּעֲשֶׂה בָּהֶן. הַחַטָּאת תָּמוּת. וְהָעוֹלָה תִּקָּרֵב עוֹלָה. וְהַשְּׁלָמִים יִקָּרְבוּ שְׁלָמִים. וְנֶאֱכָלִין לְיוֹם אֶחָד וְאֵינָן טְעוּנִין לֶחֶם:",
+                      "ref": "Mishneh Torah, Nazariteship 9:9",
+                      "sourceHeRef": "הלכות נזירות ט:ט",
+                      "sourceRef": "Nazariteship 9:9"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "המודר מחתנו והוא רוצה לתת לבתו מעות כדי שתהא נהנית בהם ומוציאה אותם בחפציה הרי זה נותן לה ואומר לה הרי המעות הללו נתונים לך במתנה ובלבד שלא יהא לבעליך רשות בהן אלא יהיו למה שאת נותנת לתוך פיך או למה שתלבשי וכיוצא בזה ואפי' אמר על מנת שאין לבעליך רשות בהם אלא מה שתרצי עשי בהם לא קנה הבעל ומה שתרצה תעשה בהם אבל אם נתן לה מתנה ואמר לה על מנת שאין לבעליך רשות בהם ולא פירש שתהא המתנה הזאת לכך ולכך או למה שתרצה תעשה בהם הרי זה יקנה אותה הבעל לאכול פירותיה ודבר זה אסור שהרי הוא אסור בהניית חותנו ויש אומרים דאפי' באומר לה על מנת שאין לבעליך רשות בהם ומה שתרצי תעשי בהם קנה הבעל ואסור בהם:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 222:1",
+              "sourceHeRef": "יורה דעה רכב:א - מי שהתנו מודר הנאה ממנו ורוצה ליתן טעות לבתו.",
+              "sourceRef": "Yoreh De'ah 222:1"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<span class=\"hebrew-emphasis\">סעיף יא</span> <b>נתן לה אחד מתנה ע\"מ שאין לבעלה רשות קנה הבעל</b> נ\"ב הנה בדין אם אמר ע\"מ שאין לבעלה רשות בה אם יורשה יש בזה פלוגתא עיין בחו\"מ בש\"ך סימן ס\"ב ועיין בחיבורי לתורה<span class=\"parenthesized\">(שנת תר\"ז)</span> שם העליתי דאף למ\"ד בעלה יורשה היינו באופן שלולי התנאי הי' של הבעל מיד אפי' גופו דמה שקנתה אשה קנה בעלה אז אין בכח התנאי לבטל זכותו רק שלא יהי' לו פירות בחייו אבל מ\"מ בעלה יורשה אבל בדבר שלולא התנאי הי' נמי של האשה ולא הי' לבעל רק פירות אז מהני תנאי זה דאפי' מתנה לא יירשנה דהיינו כעין אם נתחייב לה בושת או קנס דאין גובין בזה\"ז ואם הוי גובין מן הדין נמי הוי של האשה ואין לבעל זכות בו רק פירות וא\"כ כיון דבזה\"ז אין גובין הוי הברירה ביד המתחייב שלא ליתן אם רוצה לצי\"ש וליתן לה מתנה ע\"מ שאין לבעלה רשות בה בזה וודאי מהני התנאי אף ליורשה כיון דלולא התנאי נמי אינו של הבעל בחייו רק לפירות כן נראה להכריע הדיעות עיי\"ש מ\"ש בזה ראיי' מן המדרש בפלפול נכון בעזה\"י והנה כל נושאי כליו של הרמב\"ם פה אחד להם שהרמב\"ם פסק כשמואל יעו\"ש אבל אני בחידושי לב\"ק פ\"ז בסוגיא דצנועין כתבתי להיפוך דהרמב\"ם פסק כרב עיי\"ש מ\"ש בזה בעזה\"י ודוק:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Even HaEzer 85:2",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אבן העזר פה:ב",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Even HaEzer 85:2"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a person gives a gift to a Canaanite servant or a married woman, it is acquired by the husband or the owner. There is, however, a distinction between their powers of acquisition. The servant's master acquires the article itself, while the husband acquires merely the right to the benefit from the article.",
+                      "he": "הַנּוֹתֵן מַתָּנָה לְעֶבֶד אוֹ לְאִשָּׁה קָנָה הַבַּעַל וְהָאָדוֹן. אֶלָּא שֶׁהָאָדוֹן קוֹנֶה לַגּוּף וְהַבַּעַל קוֹנֶה אוֹתָהּ לְפֵרוֹת:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 3:12",
+                      "sourceHeRef": "הלכות זכייה ומתנה ג:יב",
+                      "sourceRef": "Ownerless Property and Gifts 3:12"
+                    },
+                    {
+                      "en": "Even if a person gives a gift to a married woman on the condition that her husband have no authority over it, or to a servant on the condition that his master have no authority over it, the master or the husband acquires it.<br>If, however, one gives a gift to a married woman or to a servant and the giver stipulates that the gift itself may be used for only this or this purpose, the master or the husband does not acquire it.",
+                      "he": "נָתַן מַתָּנָה לְאִשָּׁה עַל מְנָת שֶׁאֵין לְבַעְלָהּ רְשׁוּת בָּהּ. וּלְעֶבֶד עַל מְנָת שֶׁאֵין לְרַבּוֹ רְשׁוּת בּוֹ. קָנָה הָאָדוֹן וְקָנָה הַבַּעַל. אֲבָל הַנּוֹתֵן מַתָּנָה לְאִשָּׁה אוֹ לְעֶבֶד וְהִתְנָה עִמָּהֶן הַנּוֹתֵן בְּגוּפָהּ שֶׁל מַתָּנָה שֶׁתִּהְיֶה לְכָךְ וְכָךְ. לֹא קָנָה הָאָדוֹן וְלֹא קָנָה הַבַּעַל:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 3:13",
+                      "sourceHeRef": "הלכות זכייה ומתנה ג:יג",
+                      "sourceRef": "Ownerless Property and Gifts 3:13"
+                    }
+                  ]
+                }
+              },
+              "en": "If one gives her a present on the condition that her husband does not have permission [to use it], the husband acquires it, and it [the present] becomes like the rest of <i>nikhsei millog</i> [property which the husband keeps upon the termination of the marriage], unless the giver stipulated about the present that it would be for so and so. For example, if he says to her: This money is given to you on condition that you use them to dress [yourself] or on condition that you do with it as you please without your husband's permission. Rem\"a: If her father gave her a present and stipulated in one of these ways, and afterwards her father dies and she inherits him, the present is nullified and her husband keeps it like the rest of <i>nikhsei millog</i> (Responsa Ramban Siman 150)",
+              "he": "נתן לה אחד מתנה ע\"מ שאין לבעלה רשות בה קנה הבעל והרי הוא כשאר נ\"מ אא\"כ התנה הנותן בגוף המתנה שיהיה לכך ולכך כגון שיאמר לה הרי המעות נתונים לך ע\"מ שתלבשי בהם או על מנת שתעשי מה שתרצי בלא רשות הבעל: <span class=\"hebrew-emphasis\">הגה נתן לה אביה מתנה והתנה באחד מדרכים אלו ואח\"כ מת אביה והיא יורשה אותו נתבטלה המתנה וזכה בה הבעל כבשאר נכסי מלוג (תשובת הרמב\"ן סימן ק\"ן):</span>",
+              "ref": "Shulchan Arukh, Even HaEzer 85:11",
+              "sourceHeRef": "אבן העזר פה:יא - דיני נכסי מלוג וצאן ברזל",
+              "sourceRef": "Even HaEzer 85:11"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> <b>המדיר הנאה מחתנו, והוא</b> בכל זאת <b>רוצה לתת לבתו מעות,</b> ואינו יכול לתת לה, מפני שמה שקנתה אשה קנה בעלה, <b>אומר לה: הרי המעות האלו נתונין לך במתנה, ובלבד שלא יהא</b> <b>לבעליך רשות בהן, אלא</b> רק <b>מה שאת נושאת ונותנת בפיך</b> הוא נתון לך במתנה.",
+              "ref": "Steinsaltz on Nedarim 88a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ח א:ג",
+              "sourceRef": "Steinsaltz on Nedarim 88a:3"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">המדיר חתנו כו' נתונים לך במתנה</strong> - ואע\"ג דנהנה הוא בדבר אין זה אלא גורם הנאה כדתנן <span class=\"parenthesized\">(לעיל נדרים ד' לח.)</span> וזן אשתו ובניו:",
+              "ref": "Tosafot on Nedarim 88a:3:1",
+              "sourceHeRef": "תוספות על נדרים פ״ח א:ג:א",
+              "sourceRef": "Tosafot on Nedarim 88a:3:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> With regard to <b>one who vows</b> that <b>benefit</b> from him is forbidden <b>to his son-in-law, but he</b> nevertheless <b>wishes to give his daughter,</b> i.e., the wife of that same son-in-law, <b>money,</b> then, though he cannot do so directly, as anything acquired by a woman belongs to her husband, <b>he</b> should <b>say to her: This money is hereby given to you as a gift, provided that your husband has no rights to it,</b> but the gift includes <b>only that which you pick up and place in your mouth.</b>",
+      "he": "<big><strong>מַתְנִי׳</strong></big> הַמַּדִּיר הֲנָאָה מֵחֲתָנוֹ, וְהוּא רוֹצֶה לָתֵת לְבִתּוֹ מָעוֹת, אוֹמֵר לָהּ: הֲרֵי הַמָּעוֹת הָאֵלּוּ נְתוּנִין לָךְ בְּמַתָּנָה, וּבִלְבַד שֶׁלֹּא יְהֵא לְבַעְלִיךְ רְשׁוּת בָּהֶן, אֶלָּא מָה שֶׁאַתְּ נוֹשֵׂאת וְנוֹתֶנֶת בְּפִיךְ.",
+      "ref": "Nedarim 88a:3",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בהר\"ן ד\"ה הנודר וכו' בדקמצה מעיסתה.</b> ועיין בתוס' שם:",
+              "ref": "Gilyon HaShas on Nedarim 88a:1",
+              "sourceHeRef": "גליון הש\"ס על נדרים פ״ח א:א",
+              "sourceRef": "Gilyon HaShas on Nedarim 88a:1"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא שנו אלא דאמר לה מה שאת נותנת לפיך</strong> - כלומר כלישנא דמתני' דאמר לה תרתי על מנת שאין לבעליך רשות בהן אלא מה שאת נושאת ונותנת לפיך בכי האי גוונא בלחוד הוא דלא קנה יתהון בעל משום שמה שתרצי עשי לא מהני",
+              "ref": "Ran on Nedarim 88a:4:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ח א:ד:א",
+              "sourceRef": "Ran on Nedarim 88a:4:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> אמר רב לא שנו אלא דאמר לה על מנת שאין לבעליך רשות בהן.</b> פירוש רישא דמתניתין נקט, אבל אעל מנת שאין לך בהם אלא מה שאת נושאת ונותנת לתוך פיך קא סמיך, ולומר דדוקא בשייחד לה דבר, שאף לדידה לא יהיב לה אלא לדבר מיוחד בלבד.",
+              "ref": "Rashba on Nedarim 88a:1",
+              "sourceHeRef": "רשב״א על נדרים פ״ח א:א",
+              "sourceRef": "Rashba on Nedarim 88a:1"
+            },
+            {
+              "en": "",
+              "he": "<b>ושמואל אמר אפילו מה שתרצי עשי.</b> ולומר דיש יד לאשה בלא בעלה, ויש מפרשים דשמואל הוא הדין אפילו לא אמר לה אלא על מנת שאין לבעלך רשות בהן בלחוד, ולומר דלישנא דמתניתין שאת נושאת ונותנת לתוך פיך לאו דוקא. ואינו מחוור בעיני, דאם איתא דשאין לבעלך רשות בהן סגיא למה לי דקתני שאת נושאת כו'. ויש לפרש דלכולי עלמא מתניתין רבי מאיר היא, ולדידיה [וודאי – לפי השי\"מ] סבירא ליה דעל מנת שאין לבעליך רשות בהן בלחוד קנה יתהון בעל, והוא הדין בשאמר לה נכסי לך ומה שתרצי עשי [בה – לפי השי\"מ] קנה יתהון בעל, דאין יד לאשה בלא בעלה, ורב כרבי מאיר, ושמואל כרבנן דפליגי עליה, וסבירא ליה דיש יד לאשה בלא בעלה. וגם זה אינו מחוור בעיני, חדא דהא מדקאמר רב לא שנו אלא דאמר לה על מנת כו', משמע דלפירושא דמתניתין קאתי, ושמואל נמי דקאמר אפילו מה שתרצי עשי לא קנה יתהון בעל לפרושי למתניתין קאתי, <span class=\"parenthesized\">(ואפי')</span> [ובפירושה – לפי השי\"מ] דמתניתין קא פליג עליה דרב, ולומר דאפילו לתנא דהא מתניתין באומר לה מה שתרצי עשי סגי, ועוד דאי לענין דינא ובעלמא פליגי, ולומר דרב אית ליה כתנא דהא מתניתין, ושמואל סבר דלא קיימא לן כהך תנא אלא כרבנן דפליגי עליה, הכין הוה ליה למימר אמר רב לא שנו אלא דאמר לה מה שאת נושאת ונותנת לתוך פיך, כלומר כסתם מתניתין דהכא, אבל על מנת שאין לבעליך רשות בהן לחודיה קנה יתהון בעל, ושמואל אמר אפילו אמר אין לבעליך רשות בהן לא קנה יתהון בעל, כלומר <span class=\"parenthesized\">(דלא)</span> [ודלא כמתניתין אלא – לפי השי\"מ] כרבנן דפליגי עליה, ולמה להו לחדותי ולמימר לישנא אחרינא דליתיה במתניתין, דמשמע דבדאמר לה הדין לישנא דוקא פליגי. והרמב\"ם כתב [הפלאה הלכות נדרים פרק ז' הלכה י\"ז] וזה לשונו מי שנאסר הנאתו על בעל בתו, ורוצה לתת לבתו מעות כדי שתהא <span class=\"parenthesized\">(נוהגת)</span> [נהנית – לפי השי\"מ] בהם ומוצאה אותם כחפצה, הרי זה נותן לה ואומר לה הרי המעות הללו נתונין לך במתנה, ובלבד שלא יהא לבעלך רשות בהן, אלא יהו למה שאת נותנת לתוך פיך, או למה שתלבשי וכיוצא בזה, ואפילו אמר לה על מנת שאין לבעליך רשות בהן אלא מה שתרצי עשי בהן לא קנה הבעל, ומה שתרצה תעשה בהן, אבל אם נתן לה מתנה ואמר לה על מנת שאין לבעליך רשות בה ולא פירש שתהיה [המתנה – לפי השי\"מ] לכך ולכך, או למה שתרצי תעשי [בהן – לפי השי\"מּ] הרי קנה אותם הבעל לאכול פירותיהן, עד כאן. ונראה שהוא ז\"ל מפרש דבין לרב בין לשמואל על מנת שאין לבעליך [רשות בהם – לפי השי\"מ] לחודיה קנה יתהון בעל, כסתמא דהא מתניתין, ובפירושה דהא מתניתין פליגי, דרב סבר דלישנא דמתניתין דוקא, כלומר עד שייחד לה דבר כגון מה שתאכלי [או מה שתשתי או מה שתלבשי – לפי השי\"מ] וכיוצא בזה הא בכולל לעשות בהן [כל – לפי השי\"מ] מה שתרצי קנה יתהון בעל, ושמואל אמר אפילו לא ייחד לה דבר, אלא שאמר לה על מנת שאין לבעליך רשות בהן אלא מה שתרצי עשי לא קני יתהון בעל, אלא מה שתרצי לחודיה, ואי נמי על מנת שאין לבעליך רשות בהן לחודיה קנה יתהון בעל, ובהכין מיתרצא לי שמעתין כולה, ופסק הוא ז\"ל כשמואל. אבל רבינו תם והראב\"ד [שם בהשגות] פסקו כרב, משום דגבי נדרים איתשיל קמייהו, והוי לה איסורי. וקיימא לן כרב באיסורי, ועוד דהא אקשינן ופרקינן שמעתיה אליבא דרב דאלמא הלכתא כותיה, אבל הנגיד רב שמואל ז\"ל כתב משם רב עמרם דהלכה כשמואל. ובפרק קמא דקדושין הארכתי בה בסייעתא דשמיא. ונראין דברי רבינו תם והראב\"ד ז\"ל, דקיימא לן כרב דאיסורי נינהו דשמעתין כותיה, ומיהו אף לדברי מי שפוסק כשמואל איכא למימר דוקא באומר על מנת שאין לבעליך רשות בהן [ומה שתרצי עשי כדברי הרמב\"ם ז\"ל, הא על מנת שאין לבעליך רשות בהן – לפי השי\"מ] לחוד קנה יתהון בעל, אף על גב דבכולי תלמודא נסיב על מנת שאין לבעליך רשות בהן לחוד, כההיא דאמרינן בפרק בן סורר [סנהדרין עא, א] גבי אינו חייב עד שיאכל משל אביו ומשל אמו אמו מנא לה מה שקנתה אשה קנה בעלה, כגון <span class=\"parenthesized\">(דקתני)</span> [דקא מקנה – לפי השי\"מ] לה אחר על מנת שאין לבעליך <span class=\"parenthesized\">(כו')</span> [רשות בה – לפי השי\"מ], וכן בנזיר [כד, ב] פרק מי שאמר הריני נזיר [ושמע חבירו – לפי השי\"מ] <span class=\"parenthesized\">(גבי)</span> [וגבי – לפי השי\"מ] אם משלה היתה הבהמה וכו', מנא לה מה שקנתה אשה קנה בעלה, ומתרץ [נמי – לפי השי\"מ] כגון שנתן לה אחר על מנת שאין לבעלה רשות בה. אפילו הכי לאו ראיה היא, דהתם לאו דוכתא דהאי דינא אי סגי בהאי לישנא בלחוד, או עד דלימא לה שאת נושאת ונותנת לתוך פיך, וכיוצא בזה או מה שתרצי עשי, ורישא דהא מתניתין נקט.",
+              "ref": "Rashba on Nedarim 88a:2",
+              "sourceHeRef": "רשב״א על נדרים פ״ח א:ב",
+              "sourceRef": "Rashba on Nedarim 88a:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא שנו</strong> - דיכול ליתן לה אע\"ג דהוא מודר הנאה ממנו אלא דאמר לה בענין זה אין לך רשות בהן אלא מה שאת נושאת ונותנת לתוך פיך דכיון דאמר לה הכי לא קנה בעל ויכול ליהנות מהן דמשל אשתו הוא אוכל:",
+              "ref": "Rashi on Nedarim 88a:4:1",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:ד:א",
+              "sourceRef": "Rashi on Nedarim 88a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל אמר לה מה שתרצי עשי בהן</strong> - אע\"ג דאמר לה שאין לבעליך רשות בהן דמי כמי שקנה הבעל מיד האב דיד אשה כיד בעלה וכמי שנתן לחתנו דמי שהרי הרשה לה בהן לעשות מהם כל דבר ואסור הבעל בהן:",
+              "ref": "Rashi on Nedarim 88a:4:2",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:ד:ב",
+              "sourceRef": "Rashi on Nedarim 88a:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ושמואל [אומר אפילו] אמר לה מה שתרצי כו'</strong> - קסבר לא אמרינן יד אשה כיד בעלה:",
+              "ref": "Rashi on Nedarim 88a:4:3",
+              "sourceHeRef": "רש\"י על נדרים פ״ח א:ד:ג",
+              "sourceRef": "Rashi on Nedarim 88a:4:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> <b>אמר רב: לא שנו אלא</b> ש<b>אמר לה</b> בלשון זו <b>\"מה שאת נושאת ונותנת בפיך\"</b> הוא יהיה שלך, <b>אבל</b> אם <b>אמר \"מה שתרצי עשי\" —</b> במקרה כזה לא הועיל התנאי, ו<b>קנה יתהון</b> <span class=\"hebrew-emphasis\">[אותם]</span> ה<b>בעל. ושמואל אומר: אפילו אמר</b> לה <b>\"מה שתרצי עשי\" —</b> <b>לא קנה יתהון</b> <span class=\"hebrew-emphasis\">[אותם]</span> ה<b>בעל. מתקיף לה</b> <span class=\"hebrew-emphasis\">[מקשה על כך]</span> <b>ר' זירא:</b>",
+              "ref": "Steinsaltz on Nedarim 88a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ח א:ד",
+              "sourceRef": "Steinsaltz on Nedarim 88a:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא שנו אלא דאמר לה מה שאת נושאת ונותנת לתוך פיך</strong> - דלא הויא המתנה שלה לכל דבר הילכך אם אמר לה ע\"מ שאין לבעליך רשות בהם לא קנה הבעל אבל אמר לה מה שתרצי עשי קני יתהון בעל וכי הדר אמר לה על מנת שאין לבעליך רשות בהם לא אמר <span class=\"parenthesized\">(לה)</span> כלום דיד אשה כיד בעלה דמיא שנתנם לה לעשות כל מה שתרצה קנאתם בעל אבל כי אמר לה מה שאת נושאת ונותנת לפיך דמתנה לא הויא גמורה לא אמרינן יד אשה כיד בעלה ופר\"ת דהלכה כרב לגבי שמואל דהיינו באיסורי והלכה כרבי מאיר דרב קאי כוותיה הארכתי בפ\"ק דקידושין <span class=\"parenthesized\">(דף כג: ד\"ה ור\"א)</span>:",
+              "ref": "Tosafot on Nedarim 88a:4:1",
+              "sourceHeRef": "תוספות על נדרים פ״ח א:ד:א",
+              "sourceRef": "Tosafot on Nedarim 88a:4:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> said</b> that <b>they taught</b> this <i>halakha</i> <b>only</b> in a case <b>where he</b> actually <b>said to her: That which you pick up and place in your mouth</b> is yours. <b>But</b> if <b>he said: Do as you please</b> with the money, his stipulation is of no effect, and <b>the husband acquires</b> the money. <b>And <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> says</b> that <b>even</b> if <b>he said: Do as you please</b> with the money, <b>the husband does not acquire it. <span href=\"/topics/rav-zera\" class=\"namedEntityLink\" data-slug=\"rav-zera\">Rabbi Zeira</span> objects to this</b> statement of <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span>:",
+      "he": "<big><strong>גְּמָ׳</strong></big> אָמַר <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">רַב</span>: לֹא שָׁנוּ אֶלָּא דְּאָמַר לַהּ ״מָה שֶׁאַתְּ נוֹשֵׂאת וְנוֹתֶנֶת בְּפִיךְ״, אֲבָל אָמַר ״מַה שֶּׁתִּרְצִי עֲשִׂי״, קְנָה יָתְהוֹן בַּעַל. וּשְׁמוּאֵל אוֹמֵר: אֲפִילּוּ אָמַר ״מַה שֶּׁתִּרְצִי עֲשִׂי״ — לָא קְנָה יָתְהוֹן בַּעַל. מַתְקֵיף לַהּ רַבִּי זֵירָא:",
+      "ref": "Nedarim 88a:4",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Nedarim 88a",
+  "titleHebrew": "נדרים פח,א",
+  "topics": []
+}

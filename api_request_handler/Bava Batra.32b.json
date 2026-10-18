@@ -1,0 +1,950 @@
+{
+  "id": "32b",
+  "sections": [
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">זְיָיפָא</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, זוּף I 1\" dir=\"rtl\" href=\"/Jastrow,_זוּף I.1\">זוף</span>) <i>forgery, a forged document</i>. <span class=\"refLink\" data-ref=\"Bava Batra 32b:3\" href=\"/Bava_Batra.32b.3\">Bava Batra 32ᵇ</span> <span dir=\"rtl\">שטרא ז׳ הוא</span> (Manuscript Hamburg <span dir=\"rtl\">זיופא</span>) the document is a forgery. <span class=\"refLink\" data-ref=\"Ketubot 36b:4\" href=\"/Ketubot.36b.4\">Ketubot 36ᵇ</span> <span dir=\"rtl\">דז׳ הוא</span> that it is a forged document."
+              ],
+              "he": [],
+              "ref": "Jastrow, זְיָיפָא 1",
+              "sourceHeRef": "מילון יסטרוב, זְיָיפָא א׳",
+              "sourceRef": "Jastrow, זְיָיפָא 1"
+            }
+          ]
+        },
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר\"ש</b> בד\"ה גחין בעל השטר הס\"ד:",
+              "ref": "Chokhmat Shlomo on Bava Batra 32b:1",
+              "sourceHeRef": "חכמת שלמה על בבא בתרא ל״ב ב:א",
+              "sourceRef": "Chokhmat Shlomo on Bava Batra 32b:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> ולבסוף גחין ולחיש ליה לרבה ואמר ליה אין שטרא זייפא הוא.</b> ופרשו הגאונים ז\"ל שטרא זייפא כגון שטר אמנה, אי נמי שטר פסים דאיכתיב מיהא מדעתיה דמוכר, דבכי הא הוא דאמר רבה מה לי לשקרא אי בעי אמר שטרא מעליא הוא, אבל אי קא מודה דשטרא זייפא לגמרי הוא, דציירי ציוריה, לא. והביאו ראיה מדמייתי עלה עובדא דההוא ערבא, דשטרא מעליא הוה אלא דאיפסיל ממקום אחר. ולא ידעתי מה בין זו לזו, דמכל מקום כל עצמנו אינו אלא מחמת מגו, ומה לי שטר פסים מה לי ציירי ציורי, זיל הכא ושטרא פסילא ואיכא מגו וזיל הכא ושטרא פסילא ואיכא מגו. ו<span class=\"parenthesized\">(ר\"ח)</span>[ר\"ש] ז\"ל כן פרשה אפילו בדצייריה ציורי.",
+              "ref": "Rashba on Bava Batra 32b:1",
+              "sourceHeRef": "רשב״א על בבא בתרא ל״ב ב:א",
+              "sourceRef": "Rashba on Bava Batra 32b:1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר ליה שטרא זייפא הוא</strong> - השטר מזויף וגם שני חזקה לא החזקת:",
+              "ref": "Rashbam on Bava Batra 32b:1:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:א:א",
+              "sourceRef": "Rashbam on Bava Batra 32b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">גחין</strong> - בעל השטר:",
+              "ref": "Rashbam on Bava Batra 32b:1:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:א:ב",
+              "sourceRef": "Rashbam on Bava Batra 32b:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לחיש לרבה</strong> - בנחת שלא שמע המערער:",
+              "ref": "Rashbam on Bava Batra 32b:1:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:א:ג",
+              "sourceRef": "Rashbam on Bava Batra 32b:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לחיש ליה לרבה</strong> - גרסינן דרבה מלך מקמי דרב יוסף כדאמרינן בשלהי דברכות <span class=\"parenthesized\">(דף סד.)</span> והיה רב יוסף חבירו מקשה לו:",
+              "ref": "Rashbam on Bava Batra 32b:1:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:א:ד",
+              "sourceRef": "Rashbam on Bava Batra 32b:1:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין שטרא זייפא הוא</strong> - פי' ר\"ח לאו שטרא זייפא ממש אלא כמו שטרא זייפא שלא נכתב על מכירה זו ומאי ניהו שטר אמנה דהוא בטל מיהו אי לאו דאודי בטענתיה דתובע דשטרא זייפא הוא לאו כל כמיניה שהרי העדים מכירים חתימת ידיהם ומשום הכי אמר רבה מה לו לשקר ולומר שטרא מעליא הוה לי ואירכס לימא האי שטרא לאו זייפא הוא דאי הוה בעי לקיומיה מקיים ליה א\"נ איכא לפרושי זייפא שטר מזויף ממש שזייף חתימת העדים יפה וטועים העדים כסבורים חתימת ידיהם היא ומקיימים את השטר והלכך מצי לקיים את השטר ולומר שטרא מעליא הוא א\"נ מצי לקיימו בעדים שקרים שחתמו לו וראשון עיקר:",
+              "ref": "Rashbam on Bava Batra 32b:1:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:א:ה",
+              "sourceRef": "Rashbam on Bava Batra 32b:1:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> המערער: <b>שטרא זייפא</b> <span class=\"hebrew-emphasis\">[שטר מזוייף]</span> <b>הוא;</b> <b>גחין לחיש ליה</b> <span class=\"hebrew-emphasis\">[התכופף</span> בעל השטר <span class=\"hebrew-emphasis\">לחש לו]</span> <b>לרבה: אין, שטרא זייפא</b> <span class=\"hebrew-emphasis\">[כן, שטר מזוייף]</span> <b>הוא, מיהו שטרא מעליא הוה</b> <span class=\"hebrew-emphasis\">[</span>ו<span class=\"hebrew-emphasis\">אולם שטר טוב היה]</span> <b>לי</b> <b>ואירכס</b> <span class=\"hebrew-emphasis\">[ואבד],</span> <b>ואמינא</b> <span class=\"hebrew-emphasis\">[ואמרתי]:</span> <b>אינקיט האי בידאי</b> <span class=\"hebrew-emphasis\">[אחזיק את זה</span> שיהא בינתים <span class=\"hebrew-emphasis\">בידי]</span> שטר <b>כל דהו</b> <span class=\"hebrew-emphasis\">[שהוא],</span> עד שאמצא את השטר.",
+              "ref": "Steinsaltz on Bava Batra 32b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:א",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The majority of commentaries understand that this does not refer to a bill of sale that was actually forged. Rather, it refers to a document of trust, which is a document written in advance of the actual transaction, with the one writing it trusting the other not to use it before the transaction is actually performed. While it is not technically forged, it still cannot be used to enforce the transaction (Rav Hai Gaon; Rabbeinu Ĥananel; Rabbeinu Yona; Meiri). The Ramah writes that one must understand it this way, as Rabba said that the litigant has the claim of: Why would I lie, and this would not be said with regard to one who has demonstrated his duplicity by forging a document. Nevertheless, there are those who interpret it as referring to an expert forgery that is convincing enough to be ratified by the court, or a document that was ratified based on the testimony of false witnesses (see Rashbam).",
+              "he": "רוב המפרשים הסבירו שלא היה זה שטר מזוייף ממש, אלא שטר אמנה (שטר שכותבים לבטחון בלבד, ושני הצדדים אינם מתכוונים לקיימו), ובאמת אסור לגבות בו (ראשונים בשם רה\"ג, ר\"ח, רבינו יונה, מאירי ועוד). והרמ\"ה כתב שבהכרח יש לומר שהיה זה שטר אמנה, שאם היה שטר מזוייף ממש, כיצד אפשר לומר \"מה לי לשקר\" כאשר ברור שכבר שיקר בעל השטר. אבל יש מפרשים שהיה זה שטר מזוייף ממש, אלא שהיה מזוייף בדרך טובה כל כך שהעדים היו מוכנים לקיימו, או שקיימוהו עדי שקר (ראה ברשב\"ם).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 32b:1",
+              "sourceHeRef": "שְׁטָרָא זַיְיפָא הוּא",
+              "sourceRef": "It is a forged bill of sale"
+            }
+          ]
+        }
+      },
+      "en": "The first <b>said to him</b> in response: <b>It is a forged bill</b> of sale. The possessor <b>leaned</b> over and <b>whispered to <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span>: Yes, it is a forged bill. But I had a proper bill</b> of sale <b>and it was lost, and I said</b> to myself: <b>I will hold this</b> bill of sale <b>in my possession, such as it is.</b>",
+      "he": "אֲמַר לֵיהּ: שְׁטָרָא זַיְיפָא הוּא! גְּחֵין לְחֵישׁ לֵיהּ לְרַבָּה: אִין, שְׁטָרָא זַיְיפָא הוּא; מִיהוּ שְׁטָרָא מְעַלְּיָא הֲוָה לִי, וְאִירְכַס, וְאָמֵינָא: אֶינְקֹיט הַאי בִּידַאי כָּל דְּהוּ.",
+      "ref": "Bava Batra 32b:1"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמרא אמר רבה מה לי לשקר.</b> עיין בב\"מ דף ב ע\"א תוס' ד\"ה וזה ודף קטז ע\"א תוס' ד\"ה והא:",
+              "ref": "Gilyon HaShas on Bava Batra 32b:1",
+              "sourceHeRef": "גליון הש\"ס על בבא בתרא ל״ב ב:א",
+              "sourceRef": "Gilyon HaShas on Bava Batra 32b:1"
+            }
+          ]
+        },
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מָה</strong>, <strong dir=\"rtl\">מַה</strong> (Biblical Hebrew) <br><b>1)</b> <i>something; anything</i>. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 14:21\" href=\"/Bamidbar_Rabbah.14.21\">Bamidabar Rabbah section (Parashah) 14</span>; Midrash Tanḥuma Ḥayé 3, see <span class=\"refLink\" data-ref=\"Jastrow, בְּלִימָה 1\" dir=\"rtl\" href=\"/Jastrow,_בְּלִימָה.1\">בְּלִימָה</span>. <br><b><br>—2)</b> <i>what? which?</i> <span class=\"refLink\" data-ref=\"Chullin 89a:10\" href=\"/Chullin.89a.10\">Chullin 89ᵃ</span> (play on <span dir=\"rtl\">הא̇מ̇נ̇ם א̇ל̇ם̇</span>, <span class=\"refLink\" data-ref=\"Psalms 58:2\" href=\"/Psalms.58.2\">Psalms LVIII, 2</span>) <span dir=\"rtl\">מה א̇ומ̇נ̇תו … כא̇ל̇ם̇</span> which is the best policy for man in this world? Let him act as if he were mute (keep silence). <span class=\"refLink\" data-ref=\"Bava Metzia 63a:6\" href=\"/Bava_Metzia.63a.6\">Bava Metzia 63ᵃ</span>, and e. <span dir=\"rtl\">מה לו הן מה לי דמיהן</span> what are they to me and what their equivalent, i.e. what difference does it make whether the purchased objects or their equivalent be delivered?; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Yoma 5:6:11\" href=\"Jerusalem_Talmud_Yoma.5.6.11\">Yerushalmi Yoma V, 43ᵃ</span> bottom of page <span dir=\"rtl\">מה ביניהן ומה בין דמיהן</span>. <span class=\"refLink\" data-ref=\"Bava Batra 32b:4\" href=\"/Bava_Batra.32b.4\">Bava Batra 32ᵇ</span>; <span class=\"refLink\" data-ref=\"Bava Batra 31a:3\" href=\"/Bava_Batra.31a.3\">31ᵃ</span> <span dir=\"rtl\"><span dir=\"rtl\">מה</span> (<span class=\"refLink\" data-ref=\"Jastrow, לֵי 1\" dir=\"rtl\" href=\"/Jastrow,_לֵי.1\">לי</span>) <span dir=\"rtl\">לו לשקר</span></span> what motive could he have to tell a lie? Ib., and e. <span dir=\"rtl\">מה לי לשקר במקום עדים וכ׳</span> we do not apply the principle that we believe a defendant because he has no motive to lie, where witnesses are on hand; and see from—<span dir=\"rtl\">מה … אף</span> what …?, even so, i.e. <i>as … so</i>. <span class=\"refLink\" data-ref=\"Gittin 23b:5\" href=\"/Gittin.23b.5\">Gittin 23ᵇ</span> <span dir=\"rtl\">מה אתם … אף וכ׳</span> as <i>you</i> (<span class=\"refLink\" data-ref=\"Numbers 18:28\" href=\"/Numbers.18.28\">Bamidbar XVIII, 28</span>) refers to Israelites, so must your delegate be an Israelite. <span class=\"refLink\" data-ref=\"Shabbat 133b:16\" href=\"/Shabbat.133b.16\">Shabbat 133ᵇ</span> <span dir=\"rtl\">מה הוא … אף וכ׳</span> as He is gracious and merciful, so be thou &c.; and from—<span dir=\"rtl\">מה … לא כל שכן</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כָּל 1\" dir=\"rtl\" href=\"/Jastrow,_כָּל.1\">כָּל</span>.—<span dir=\"rtl\">מה … אינו דין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דִּין II 1\" href=\"/Jastrow,_דִּין II.1\"><span dir=\"rtl\">דִּין</span> II</span>.—<span dir=\"rtl\">מה ל־ … שכן … תאמר</span> what has this to do with …? In this case …, whereas &c., i.e. <i>it is different with</i> … <i>because</i> &c. <span class=\"refLink\" data-ref=\"Kiddushin 4b:5\" href=\"/Kiddushin.4b.5\">Kiddushin 4ᵇ</span> <span dir=\"rtl\">מה ליבמה שכן … תאמר וכ׳</span> the case of a Y’bamah is different, because she can neither be acquired by means of a document, whereas this (an ordinary woman) &c.; and from—<span dir=\"rtl\">מָה נַפְשְׁךָ</span> (in Babli mostly: <span dir=\"rtl\">מִמָּה נפשך</span>; abbr. <span dir=\"rtl\">ממ\"נ</span>) whatever be thy opinion (from whatever opinion thou start), i.e. <i>whichever side you take, at all events</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 1:1:8\" href=\"Jerusalem_Talmud_Berakhot.1.1.8\">Yerushalmi Berakhot I, 2ᵇ</span> <span dir=\"rtl\">מ׳ נ׳ אם וכ׳</span> at all events (he has offended); if it was day-time when the first stars (on Friday evening) were visible, it was day-time when the first stars (on Sabbath evening) were visible &c.; <span class=\"refLink\" data-ref=\"Shabbat 35b:3\" href=\"/Shabbat.35b.3\">Shabbat 35ᵇ</span> <span dir=\"rtl\">חייכ חטאת ממ\"נ</span> must bring a sin-offering at all events (whether you consider twilight a part of the day or a part of the night). <span class=\"refLink\" data-ref=\"Shabbat 34a:10\" href=\"/Shabbat.34a.10\">Ib. 34ᵃ</span> (in Chald. dict.) <span dir=\"rtl\">מה נפשך אי וכ׳</span> whichever side you take, if twilight is day &c. <span class=\"refLink\" data-ref=\"Eruvin 10a:3-4\" href=\"/Eruvin.10a.3-4\">Eruvin 10ᵃ</span> <span dir=\"rtl\">גדולה … למה לי ממ\"נ אי וכ׳</span> what reason was there for saying ‘large …’? In either case (it is incorrect), if it be to permit the use of the larger court &c. <span class=\"refLink\" data-ref=\"Chullin 29a:2\" href=\"/Chullin.29a.2\">Chullin 29ᵃ</span> <span dir=\"rtl\">ממ\"נ אי מחצה וכ׳</span> in either case (the slaughtering is ritually correct); if you adopt the opinion that an exact half is to be considered as if it were the larger portion &c.; and see from—<span class=\"refLink\" data-ref=\"Chullin 78b:10\" href=\"/Chullin.78b.10\">Ib. 78ᵇ</span> <span dir=\"rtl\">מה אם נפשך</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נֶפֶשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_נֶפֶשׁ.1\">נֶפֶשׁ</span>.—<span class=\"refLink\" data-ref=\"Jastrow, בָּמָה 1\" dir=\"rtl\" href=\"/Jastrow,_בָּמָה.1\">בַּמֶּה</span> a) <i>wherewith?</i> <span class=\"refLink\" data-ref=\"Bava Batra 10b:3\" href=\"/Bava_Batra.10b.3\">Bava Batra 10ᵇ</span> <span dir=\"rtl\">במה תרום וכ׳</span> whereby can the horn of Israel be lifted up? <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:1\" href=\"/Mishnah_Shabbat.2.1\">Shabbat II, 1</span>; and from—b) <i>in what case?</i> <span dir=\"rtl\">במה דברים אמורים</span> (abbr. <span dir=\"rtl\">בד\"א</span>), see <span class=\"refLink\" data-ref=\"Jastrow, אָמַר I 1\" href=\"/Jastrow,_אָמַר I.1\"><span dir=\"rtl\">אָמַר</span> I</span>.—לָמָּה <i>wherefore?</i> <span class=\"refLink\" data-ref=\"Berakhot 3a:8\" href=\"/Berakhot.3a.8\">Berakhot 3ᵃ</span> <span dir=\"rtl\">תחלת … סימנא למה לי</span> what need is there for a sign for the beginning of the first watch? <span class=\"refLink\" data-ref=\"Moed Katan 28a:4\" href=\"/Moed_Katan.28a.4\">Moʿed Katan 28ᵃ</span> <span dir=\"rtl\">ל׳ נסמכה וכ׳</span> why is the account of the death of Miriam attached to &c.?; and from—לַמֶּה <i>to what?, whereto?</i> <span class=\"refLink\" data-ref=\"Kiddushin 40b:6\" href=\"/Kiddushin.40b.6\">Kiddushin 40ᵇ</span> <span dir=\"rtl\">ל׳ צדיקים נמשלים</span> what are the righteous to be compared to?—<span dir=\"rtl\">ל׳ הדבר דומה</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דָּמָה 1\" dir=\"rtl\" href=\"/Jastrow,_דָּמָה.1\">דָּמָה</span>; and from—V. <span class=\"refLink\" data-ref=\"Jastrow, לָמָה 1\" dir=\"rtl\" href=\"/Jastrow,_לָמָה.1\">לָמָה</span>. <br><b><br>—3)</b> (relat.) <i>which, what</i>. <span class=\"refLink\" data-ref=\"Pesachim 88b:14\" href=\"/Pesachim.88b.14\">Pesachim 88ᵇ</span> <span dir=\"rtl\">מה שקנה עבד וכ׳</span> whatever the slave acquires belongs to the master. <span class=\"refLink\" data-ref=\"Mishnah Berakhot 1:1\" href=\"/Mishnah_Berakhot.1.1\">Berakhot I, 1</span> <span dir=\"rtl\">כל מה שאמרו וכ׳</span> for whatever act the scholars designated the time ‘up to midnight’ &c.; and see from"
+              ],
+              "he": [],
+              "ref": "Jastrow, מָה 1",
+              "sourceHeRef": "מילון יסטרוב, מָה א׳",
+              "sourceRef": "Jastrow, מָה 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "We apply the principle of <i>miggo</i> in the following situation: One person is in possession of a field. Another raises a protest, bringing witnesses who testify that the field once belonged to him. The person in possession states: \"I purchased it from you. Here is the deed of sale,\" and produces a deed that is validated.<br>The person raising the protest claims that the deed is a forgery. The one in possession admits this, but claims: \"I had a valid deed of sale, but I lost it. I took this so that I would have something in hand to intimidate him, so that he would admit that he actually sold it to me.\"<br>Since he could have stood by his deed of sale, for it has been validated, his word is accepted. We do not expropriate the field from his possession. He must, however, take a <i>sh'vu'at hesset</i> to support his claim.",
+              "he": "הֵבִיא הַמְעַרְעֵר עֵדִים שֶׁזּוֹ הַשָּׂדֶה שֶׁלּוֹ וְזֶה שֶׁבְּתוֹכָהּ טוֹעֵן מִמְּךָ לְקַחְתִּיהָ וַהֲרֵי שְׁטָרִי וְהוֹצִיא שְׁטָר מְקֻיָּם. טָעַן הַמְעַרְעֵר שֶׁהוּא מְזֻיָּף וְהוֹדָה בַּעַל הַשְּׁטָר וְאָמַר כֵּן הוּא אֲבָל הָיָה לִי שְׁטָר כָּשֵׁר וְאָבַד וְלָקַחְתִּי זֶה שֶׁבְּיָדִי כְּדֵי לְאַיֵּם עָלָיו שֶׁיּוֹדֶה שֶׁמָּכַר לִי בֶּאֱמֶת. הוֹאִיל וְאִלּוּ רָצָה הָיָה אוֹמֵר בִּשְׁטָרוֹ שֶׁהֲרֵי מְקֻיָּם הוּא הֲרֵי זֶה נֶאֱמָן וְאֵין מוֹצִיאִין אֶת הַשָּׂדֶה מִתַּחַת יָדוֹ וְיִשָּׁבַע הֶסֵּת:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 15:9",
+              "sourceHeRef": "הלכות טוען ונטען טו:ט",
+              "sourceRef": "Plaintiff and Defendant 15:9"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמאי קא סמכת אהאי שטרא</strong> - דהא שני חזקה ליכא והאי שטרא חספא בעלמא הוא וכיון דאודי אודי ולא דמי לשאר מה לו לשקר שבגמרא ששתי טענות יכולות להיות אמת אותה שהוא טוען ואותה שהוא היה יכול לטעון ולא טען דאמרי' מיגו אבל הכא דמי למה לו לשקר במקום עדים שהרי כל כחו וחזקתו בקרקע זו על ידי האי שטר הוא והיאך נאמר מה לו לשקר בשטר זה אי בעי אמר שטרא מעליא הוא והלא מודה שהשטר פסול והודאת בעל דין כמאה עדים ואילו באו שני עדים שאמרו שהוא פסול ליכא תו מה לו לשקר:",
+              "ref": "Rashbam on Bava Batra 32b:2:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ב:א",
+              "sourceRef": "Rashbam on Bava Batra 32b:2:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הביא המערער עדים שזו השדה שלו וזה שבתוכה טוען ממך לקחתיה והרי שטרי והוציא שטר מקויים טען המערער שהוא מזויף <span class=\"hebrew-emphasis\">(כ\"כ הטור בשם רמב\"ם ורא\"ש) </span>והודה לו בעל השטר ואמר כן הוא אבל היה לי שטר כשר ואבד ולקחתי זה שבידי כדי לאיים עליו שיודה שמכר לי באמת הואיל ואלו רצה היה עומד בשטרו שהרי מקוים הוא ה\"ז נאמן ואין מוציאין השדה מתחת ידו וישבע היסת: <span class=\"hebrew-emphasis\">הגה מי שהחזיק שני חזקה והמערער הביא ראיה שנתבטל המקח אפי' הכי הוי חזקה דשמא אח\"כ חזר וקנאה ממנו ועוד דכתיבה כזו אינה מבטלת המקח עד שיחזור ויקנו ממנו קנין גמור (ב\"י בשם הרשב\"א): </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 146:25",
+              "sourceHeRef": "חושן משפט קמו:כה - מחאה מבטלת החזקה ובאיזה לשון ובמה ומתי.",
+              "sourceRef": "Choshen Mishpat 146:25"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבה: מה לו לשקר? אי בעי אמר ליה שטרא מעליא</b> <span class=\"hebrew-emphasis\">[אם היה רוצה</span> לשקר <span class=\"hebrew-emphasis\">היה אומר לו</span> ש<span class=\"hebrew-emphasis\">שטר טוב]</span> <b>הוא,</b> ולא היינו חושדים בדבר. ואם כן, יש להשאיר את הקרקע בידיו. <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רב יוסף:</b> סוף סוף <b>אמאי סמכת</b> <span class=\"hebrew-emphasis\">[על מה אתה סומך]?</span> <b>אהאי שטרא</b> <span class=\"hebrew-emphasis\">[על שטר זה],</span> ואולם <b>האי שטרא חספא בעלמא</b> <span class=\"hebrew-emphasis\">[שטר זה חרס בלבד]</span> <b>הוא</b> ואינו שווה דבר, שהרי הודה המלוה על כך. ואם כן, אין לו ראיה כלל לחזקתו בקרקע.",
+              "ref": "Steinsaltz on Bava Batra 32b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:ב",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The early commentaries ask why the possessor is not deemed credible, based on the fact that he could have made a more advantageous claim [<i>miggo</i>], i.e., that the bill of sale was in fact authentic. The Rashbam explains that the admission of a litigant, in this case his admission that the document is invalid, is equivalent to the testimony of witnesses. Therefore, just as one cannot make use of a <i>miggo </i>claim if his claim is counter to the testimony of witnesses, one cannot make use of a <i>miggo</i> claim if his claim is counter to his own admittance. Others explain that a <i>miggo</i> claim is effective only to maintain possession for the one using it, not to enable one to remove property from the possession of others, so the <i>miggo</i> claim would not be effective to remove the property from the previous owner (Ri Migash; Ramah; Rivam, cited by <i>Tosafot</i>). The Rashba (<i>Responsa </i>of the<i> Rashba </i>III:393) notes that the issue of whether or not a <i>miggo</i> claim is effective to enable one to remove property from the possession of others is the subject of a dispute among the commentaries. The Ramban explains that the bill of sale had not yet been ratified. Rav Yosef therefore states that since the one in possession of it concedes that it is not valid, it cannot be ratified, and therefore is tantamount to a worthless shard.",
+              "he": "ושאלו הראשונים: מפני מה לא נאמין לבעל השטר במיגו, שהרי היה יכול שלא להודות והיה הדבר נגמר על פי השטר? וכתב הרשב\"ם שכיון שהודה שאין זה שטר אמיתי — הרי זה כמיגו במקום עדים (והודאת פיו היא כמאה עדים) ואין סומכים על מיגו כזה. ויש מסבירים שבכלל אין אומרים מיגו כדי להוציא דבר מבעליו אלא רק כדי לקיים את המצב הנתון (ר\"י מיגאש, רמ\"ה, ריב\"ם בתוס'. וראה מה שכתב הרשב\"א בתשובה (ח\"ג שנג) שמחלוקת גדולה היא במיגו להוציא, ולדעתו מן הסוגיות בגמרא עולה שאומרים מיגו גם להוציא. וראה במאירי שדחה את הדברים). והרמב\"ן כתב ששטר זה לא נתקיים עדיין, ואמר רב יוסף שכיון שהודה המחזיק שאין זה שטר אמיתי — אין מקום ללכת ולקיים את השטר, ושטר שאינו מקויים הריהו כחרס בלבד (וכן הסכים הרשב\"א). ויש שהסבירו כי כאן אין מקום לומר מיגו, שהרי הודה בעל השטר שהטענה שהוא טוען שהיא אמת, מתבססת על שקר שטען בתחילה (ר\"י בתוס', ריטב\"א).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 32b:2",
+              "sourceHeRef": "חַסְפָּא בְּעָלְמָא הוּא",
+              "sourceRef": "Merely a shard"
+            },
+            {
+              "en": "Rav Yosef, son of Rav Ĥiyya, was one of the most prominent third-generation Babylonian <i>amora’im</i>. He was a disciple of Rav Yehuda and a colleague of Rabba, and he led the academy in Pumbedita for two and a half years, until his death, whereupon Abaye succeeded him. He was given the appellation Sinai due to his expert knowledge of the <i>baraitot</i> and the oral traditions of the Torah, as well as its translation into Aramaic. His preeminent students were Abaye and Rava, and Abaye helped Rav Yosef remember his studies after an illness caused him to forget them. In his later years Rav Yosef also became blind.",
+              "he": "ערער אדם על שדה שמחזיק חבירו והביא עדים שהוא שלו, והמחזיק הוציא שטר מקויים שקנה ממנו (לפירוש הרמב\"ם בדברי הגמרא. אבל לפירוש הטור אפילו אינו מקויים, אלא שיכול לקיימו. סמ\"ע, וראה ש\"ך), וטען המערער ששטר זה מזוייף (או אמנה. לפירוש הרי\"ף והר\"ח. וראה ש\"ך) והודה לו המחזיק, אלא שטוען שהיה בידו שטר אחר כשר ואבד ממנו. כיון שהיה יכול לטעון שהשטר אמיתי — הרי הוא נאמן ויישאר בחזקתו, אפילו אם לא החזיק שלוש שנים (סמ\"ע וש\"ך בשם הטור), אבל יישבע שבועת היסת. וכדברי רבה שנפסקה הלכה כמותו. (רמב\"ם ספר משפטים הלכות טוען ונטען פט\"ו ה\"ט. שו\"ע חו\"מ קמו, כה).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 32b:2",
+              "sourceHeRef": "רַב יוֹסֵף",
+              "sourceRef": "Rav Yosef"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>אמאי קא סמכת אהאי שטרא האי שטרא חספא בעלמא הוא—On what are you relying, on this שטר; this שטר is merely a potsherd</b><br><br>O<small>VERVIEW</small><br>In the case at hand, the מוחזק initially claimed that he has a שטר (which would have been מקויים). The מערער argued that it is a מזוייף שטר. In response the מחזיק admitted that it is a מזוייף שטר; however he lost his original valid שטר. רבה ruled that the מוחזק has a מיגו for he need not have admitted that it is a מזוייף שטר. However, יוסף רב disagreed and argued that the שטר which you are relying on is a מזוייף שטר. Seemingly יוסף רב is not responding to s’רבה argument that the השטר בעל has a מיגו. This תוספות will offer three explanations why the מיגו is not effective.<br>-----------------------<br>תוספות asks:<br><b>תימה דליהמניה במיגו דאי בעי אמר שטרא מעליא הוא –</b><br><b>It is</b> <b>astounding! For the</b> השטר בעל <b>should be believed</b> <b>with a מיגו; for he could have claimed it is a valid שטר.</b> If the bearer of the שטר would not have admitted that it is indeed a false שטר, but would have rather maintained that it is a valid שטר, he would have been awarded the property. Therefore on account of this מיגו we should believe his claim that ‘I bought it from you (and I lost the original valid שטר)’.<br>תוספות answers:<br><b>ותירץ רבינו יצחק ברבי מרדכי דלא אמרינן מיגו להוציא ממון –</b><br><b>And the ם\"ריב answered that we do not apply</b> the rulings of <b>a מיגו to extract monies [from its presumptive</b> owner<b>];</b><br><b>ומה שהוא מוחזק בקרקע אינו כלום דקרקע בחזקת בעליה קיימא –</b><br><b>(And) [For]</b> the fact that the השטר בעל <b>is in possession of the property is meaningless;</b> the השטר בעל is not the מוחזק <b>for land is presumed to be in the possession of its</b> original <b>owner</b> –<br><b>כיון שאין לו שטר ולא חזקה אלא בדברים בעלמא שאומר שטרא מעליא הוה לי ואירכס –</b><br><b>Since he has neither a</b> valid שטר <b>nor a</b> חזקה<b></b> that support his contention, <b>but rather merely the words which he says</b> that <b>I had a valid שטר and it was lost.</b> Words alone without a חזקה or a שטר do not entitle anyone to be considered a מוחזק in a property. Therefore since the השטר בעל is not the מוחזק; but rather the מערער is the מוחזק in this case, for he is certainly the קמא מרא, we cannot apply the מיגו principle here.<br>תוספות anticipates the possible question that in any monetary argument someone is losing money; every מיגו should be considered a להוציא מיגו. תוספות will clarify when a מיגו is effective.<br><b>ולא אמרינן מיגו אלא להחזיק ממון שיכול לפטור עצמו על ידי מיגו –</b><br><b>And we do not apply a מיגו only to maintain money</b> that is in one’s possession, <b>which he can exempt himself</b> from paying out monies to creditors <b>through a מיגו.</b> This example is discussing a case where one claims that the המיגו בעל owes him money. The בעל המיגו can be exempt from paying this claim through the מיגו; since the money claimed is in his unequivocal possession.<br><b>אי נמי אם יש לו שטר או חזקה וזה בא לפסול ראייתו אז זה יכול לקיימו על ידי מיגו –</b><br>Or <b>if you will,</b> a מיגו is also effective <b>if one has a</b> <b>שטר or a</b> <b>חזקה</b> concerning property <b>and this</b> מערער <b>comes to invalidate his proof;</b> by claiming, for instance, that the third party seller never owned this property, <b>then this</b> מוחזק <b>can substantiate his claim through a</b> <b>מיגו.</b> תוספות offers an example –<br><b>כמו קמי דידי זבנה מינך מיגו דאי בעי אמר מינך זבינתיה ואכלתיה שני חזקה –</b><br><b>As</b> in the case where the מחזיק claims concerning his seller that<b></b> ‘<b>he bought it from you in my presence’</b> he is believed with <b>a מיגו for he could have claimed ‘I bought it from you and I consumed</b> its produce <b>for</b> the three <b>חזקה years</b>’. In this case the ownership of the field is being contested; nevertheless since he has a חזקה, the מיגו allows him to retain the field on the basis of the חזקה. However a מיגו does not have the power to enable someone to extract money or property that is in someone else’s possession.<br>תוספות is not satisfied with this explanation of the ם\"ריב.<br><b>ואין נראה לרבינו יצחק מדלא מפרש טעמא הכי בהדיא משמע דלאו משום הכי הוא –</b><br><b>However the ר\"י is not satisfied</b> with this explanation that יוסף רב is discounting the מיגו since it is a להוציא<b></b> מיגו, <b>since</b> יוסף רב <b>does not explicitly express this reason</b> of להוציא מיגו; but rather יוסף רב claims that בעלמא חספא שטרא האי<b>, this</b> <b>indicates that it is not because of this</b> explanation of להוציא מיגו, that יוסף רב dismisses the מיגו.<br>תוספות offers a different explanation –<br><b>ונראה לרבינו יצחק דטעמא דרב יוסף דלא אמרינן מיגו הכא –</b><br><b>And the ר\"י is of the opinion</b> <b>that the reason</b> <b>יוסף רב maintains that we do not invoke here the rules of מיגו,</b> is that <b>–</b><br><b>כיון דלית ליה הכא מיגו אלא אם כן שקר תחלה שהוצרך לשקר תחלה ולומר והא שטרא –</b><br><b>since here</b> the מחזיק <b>would have no</b> מיגו <b>unless he initially lied; for it was necessary</b> for him <b>to initially lie and to claim ‘and here is the שטר’.</b> The only way the מחזיק has a מיגו is because he clearly lied initially when he said 'שטרא והא'. The מיגו is that he could have kept up this lie. We cannot base a מיגו on a lie. In a regular case of מיגו (for instance דנאנסו במיגו החזרתי) the original claim (החזרתי) is not known to be either a truth or a lie. Its truthfulness is established through the power of a מיגו. In our case however, we begin initially with a blatant self-confessed lie on behalf of the המיגו בעל. A מיגו is not effective under these circumstances.<br>תוספות offers another explanation why there is no effective מיגו here:<br><b>אי נמי משום הכי לא אמרינן הכא מיגו משום דהוי חוזר וטוען –</b><br><b>Or</b> we may <b>also</b> state <b>that the reason we do not employ a</b> <b>מיגו here</b>, is <b>because he is retracting his original claim –<br>דמעיקרא טען והא שטרא –</b><br><b>For initially he claimed ‘and here is the</b> <b>שטר</b>’. He based his proof of ownership on the (false) שטר –<br><b>ועתה חוזר בו ומודה דחספא בעלמא הוא אלא שטרא מעליא הוה לי:</b><br><b>And now he is retracting</b> this claim <b>and he admits</b> <b>that</b> the שטר <b>is a בעלמא חספא</b> <b>but rather</b> his new claim is <b>that I had a valid</b> <b>שטר</b>. A person may not change his arguments in ד\"בי, when the latter argument contradicts the former, as in this case. Previously he stated ‘this is the שטר’; subsequently he admits that it is not a valid שטר; but rather I had another שטר.<br><br>S<small>UMMARY</small><br>תוספות offers three interpretations why a מיגו is ineffective here:<br>1. It is a להוציא מיגו. 2. It is a מיגו that is prefaced by a lie. 3. He is a וטוען חוזר.<br><br>T<small>HINKING IT OVER</small><br>According to the ר\"י, what are the reasons that רבה disagrees with יוסף רב?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 32b:2:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמאי קא סמכת אהאי שטרא האי שטרא חספא בעלמא הוא</strong> - תימה דליהמניה במיגו דאי בעי אמר שטרא מעליא הוא ותירץ ר\"י בר' מרדכי דלא אמרי' מיגו להוציא ממון ומה שהוא מוחזק בקרקע אינו כלום דקרקע בחזקת בעליה קיימא כיון שאין לו שטר ולא חזקה אלא בדברים בעלמא שאומר שטרא מעליא הוה לי ואירכס ולא אמרי' מיגו אלא להחזיק ממון שיכול לפטור עצמו ע\"י מיגו אי נמי אם יש לו שטר או חזקה וזה בא לפסול ראייתו אז זה יכול לקיימו ע\"י מיגו כמו קמי דידי זבנה מינך מיגו דאי בעי אמר מינך זבינתיה ואכלתיה שני חזקה ואין נראה לר\"י מדלא מפרש טעמא הכי בהדיא משמע דלאו משום הכי הוא ונראה לר\"י דטעמא דרב יוסף דלא אמרי' מיגו הכא כיון דלית ליה הכא מיגו אא\"כ שקר תחלה שהוצרך לשקר תחלה ולומר והא שטרא א\"נ משום הכי לא אמרי' הכא מיגו משום דהוי חוזר וטוען דמעיקרא טען והא שטרא ועתה חוזר בו ומודה דחספא בעלמא הוא אלא שטרא מעליא הוה לי:",
+              "ref": "Tosafot on Bava Batra 32b:2:1",
+              "sourceHeRef": "תוספות על בבא בתרא ל״ב ב:ב:א",
+              "sourceRef": "Tosafot on Bava Batra 32b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> said: Why would he lie</b> and state this claim? <b>If</b> he <b>wants</b> to lie, he can <b>say to him</b> that <b>it is a proper bill</b> of sale, and he would have been deemed credible and awarded the field. <b><span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> said to</b> <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span>: In the final analysis, <b>on what</b> are <b>you relying</b> to award him the land? <b>On this bill</b> of sale? <b>This</b> admittedly forged <b>bill is merely</b> a worthless <b>shard,</b> and cannot be used in court as evidence.",
+      "he": "אָמַר <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">רַבָּה</span>: מָה לוֹ לְשַׁקֵּר? אִי בָּעֵי, אָמַר לֵיהּ: שְׁטָרָא מְעַלְּיָא הוּא. אֲמַר לֵיהּ רַב יוֹסֵף: אַמַּאי סָמְכַתְּ – אַהַאי שְׁטָרָא; הַאי שְׁטָרָא חַסְפָּא בְּעָלְמָא הוּא.",
+      "ref": "Bava Batra 32b:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">זְיָיפָא</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, זוּף I 1\" dir=\"rtl\" href=\"/Jastrow,_זוּף I.1\">זוף</span>) <i>forgery, a forged document</i>. <span class=\"refLink\" data-ref=\"Bava Batra 32b:3\" href=\"/Bava_Batra.32b.3\">Bava Batra 32ᵇ</span> <span dir=\"rtl\">שטרא ז׳ הוא</span> (Manuscript Hamburg <span dir=\"rtl\">זיופא</span>) the document is a forgery. <span class=\"refLink\" data-ref=\"Ketubot 36b:4\" href=\"/Ketubot.36b.4\">Ketubot 36ᵇ</span> <span dir=\"rtl\">דז׳ הוא</span> that it is a forged document."
+              ],
+              "he": [],
+              "ref": "Jastrow, זְיָיפָא 1",
+              "sourceHeRef": "מילון יסטרוב, זְיָיפָא א׳",
+              "sourceRef": "Jastrow, זְיָיפָא 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara cites several incidents involving loans and witnesses, and provides a <b>mnemonic</b> device for them: <b>Reuven and Shimon, who learned <i>halakha</i>, borrowed, and repaid so-and-so and so-and-so gallnuts</b> for <b>a different</b> debt, <b>deeming them credible like two</b> witnesses.",
+                  "The Gemara relates: There was <b>a certain</b> creditor <b>who said to</b> the debtor: <b>When you repay me, repay me in the presence of Reuven and Shimon.</b> The debtor <b>went and repaid him in the presence of two</b> other witnesses <b>from the general public.</b> When the case was brought before the Sages, <b>Abaye said:</b> The creditor <b>said to</b> the debtor to repay him <b>in the presence of two</b> people who would serve as witnesses, and <b>he repaid him in the presence of two</b> people. Therefore, the creditor has no further claim. <b>Rava said to him:</b> It is <b>for this</b> reason that the creditor <b>said to him</b> to repay him <b>in the presence of Reuven and Shimon: So that he will not</b> be able to <b>dismiss him</b> by saying that he repaid him in the presence of other witnesses.",
+                  "The Gemara relates: There was <b>a certain</b> creditor <b>who said to</b> the debtor: <b>When you repay me, repay me in the presence of two</b> people <b>who</b> have <b>learned <i>halakha</i>.</b> The debtor <b>went</b> and <b>repaid him between the two of them,</b> i.e., in the absence of witnesses. <b>Those dinars were</b> subsequently taken from the creditor due to <b>circumstances beyond his control.</b>",
+                  "The creditor <b>came before Rav Naḥman</b> for judgment, and <b>said to him: Yes, I received</b> the money <b>from him;</b> but since he did not repay me as stipulated, I accepted it only <b>as a deposit.</b> I accepted it as an unpaid bailee, not as payment, <b>and said</b> to myself: <b>Let it be with me as a deposit until two</b> people <b>who</b> have <b>learned <i>halakha</i> happen</b> to arrive, <b>and</b> the debtor <b>will fulfill his condition.</b> Since the money was taken from me due to circumstances beyond my control, and I had it in my possession only as an unpaid bailee, I am not responsible for it, and the debtor is still liable to repay me.",
+                  "Rav Naḥman <b>said to him: Since you admit that you certainly took</b> the money <b>from him, it is a proper repayment. If you say</b> that the debtor is still required <b>to fulfill his condition, go bring</b> the money now, <b>as Rav Sheshet and I</b> have <b>learned <i>halakha</i>, and <i>Sifra</i>, and <i>Sifrei</i>, and <i>Tosefta</i>, and the entire Talmud.</b> Let him give you the money in our presence, and the condition will thereby be fulfilled. Since he gave you the money intending to repay the debt, and did not agree to entrust it to you as an unpaid bailee, your claim is not valid.",
+                  "The Gemara relates: There was <b>a certain</b> person <b>who said to another: Give me</b> the <b>hundred dinars that I lent you.</b> The latter <b>said to him:</b> This <b>matter never happened;</b> you did not lend me money. The creditor <b>went</b> and <b>brought witnesses who</b> testified that <b>he lent</b> the money to <b>him and</b> that the debtor had <b>repaid him. Abaye said: What</b> is there for the court to <b>do</b> in this case? The same witnesses said both statements; <b>they said</b> that the creditor <b>lent him</b> the money, and <b>they</b> also <b>said</b> that the debtor <b>repaid him. Rava said: Anyone who says: I did not borrow, is</b> considered <b>like</b> one who <b>says: I did not repay.</b> Since there is testimony that he borrowed the money, and he admits that he did not repay it, he is liable to repay the debt.",
+                  "The Gemara relates: There was <b>a certain</b> person <b>who said to another: Give me</b> the <b>hundred dinars that I claim from you.</b> The latter <b>said to him: Didn’t I repay you in the presence of so-and-so and so-and-so?</b> The two people he mentioned, <b>so-and-so and so-and-so, came</b> and <b>said:</b> This <b>matter never happened. Rav Sheshet thought to say</b> that based on the testimony of the witnesses, the debtor <b>assumes the presumptive status of one who</b> falsely <b>denies</b> his debts; his claim that he repaid the debt is no longer accepted, and he is liable to pay. <b>Rava said to him: Anything that is not incumbent upon a person is not on his mind,</b> i.e., he is apt to forget it.",
+                  "The Gemara relates: There was <b>a certain</b> person <b>who said to another: Give me</b> the <b>six hundred dinars that I claim from you.</b> The latter <b>said to him: But didn’t I repay you</b> with <b>one hundred <i>kav</i></b>"
+                ],
+                [
+                  "of <b>gallnuts [<i>aftzei</i>] that were</b> worth <b>six</b> dinars for <b>each</b> <i>kav</i> at the time? The creditor <b>said to him: Weren’t they</b> worth <b>four</b> dinars for <b>each</b> <i>kav</i> at the time? <b>Two witnesses came and said: Yes, they were</b> worth <b>four</b> dinars per <i>kav</i>. <b>Rava said</b> that the debtor <b>assumes the presumptive status of one who</b> falsely <b>denies</b> his debts. <b>Rami bar Ḥama said: But didn’t you say</b> that <b>anything that is not incumbent upon a person is not on his mind?</b> Perhaps he merely forgot what the price of gallnuts was at the time that he paid. <b>Rava said to him: People remember the</b> standard, <b>set</b> market <b>price.</b>",
+                  "The Gemara relates: There was <b>a certain</b> person <b>who said to another: Give me</b> the <b>hundred dinars that I claim from you, and this is the</b> promissory <b>note</b> attesting to the debt. The latter <b>said to him: I</b> already <b>repaid you.</b> The creditor <b>said to him: That</b> money you gave me <b>was</b> for <b>a different</b> debt. <b>Rav Naḥman said</b> that <b>the</b> promissory <b>note is undermined</b> by the fact that the creditor admits that he received payment equal to the amount specified in the note, and his claim that there was an additional debt is unsubstantiated. <b>Rav Pappa said</b> that <b>the</b> promissory <b>note is not undermined.</b>",
+                  "The Gemara asks: <b>But according to Rav Pappa,</b> in <b>what</b> way <b>is</b> this case <b>different from</b> the incident where <b>a certain</b> person <b>said to another: Give me</b> the <b>hundred dinars that I claim from you, and this is the</b> promissory <b>note.</b> The latter <b>said to him: Didn’t you give me</b> that money as an investment to be used <b>for</b> buying <b>oxen</b> to be slaughtered? <b>And you came and sat in the slaughterhouse and received your money,</b> including your share of the profits, from the sale of the slaughtered oxen. <b>And</b> the creditor <b>said to him: That</b> money you gave me <b>was</b> for <b>a different</b> debt. <b>And Rav Pappa said</b> that in that case <b>the</b> promissory <b>note is undermined.</b>",
+                  "The Gemara answers: <b>There, since</b> the debtor <b>said: You gave me</b> the money <b>for oxen and you took</b> payment <b>from oxen,</b> and the creditor admitted that this had happened, <b>the</b> promissory <b>note is undermined</b> because there is no support for his claim that there was another debt in addition to the acknowledged transaction for the oxen. <b>Here, say</b> that the payment <b>was</b> in fact for <b>a different</b> debt.",
+                  "<b>What</b> halakhic conclusion <b>was</b> reached <b>about</b> this matter? <b>Rav Pappi said: The</b> promissory <b>note is not undermined,</b> and <b>Rav Sheshet, son of Rav Idi, said: The</b> promissory <b>note is undermined. And the <i>halakha</i></b> is that <b>the</b> promissory <b>note is undermined.</b>",
+                  "<b>And this statement</b> applies in a case <b>where he repaid him in the presence of witnesses and did not mention the</b> promissory <b>note to</b> the creditor; <b>but</b> in a case where <b>he repaid him</b> privately, <b>between the two of them,</b> in the absence of witnesses, <b>since [<i>miggo</i>]</b> the creditor <b>can say to him:</b> This <b>matter never happened,</b> i.e., he could deny that he received any payment, <b>he can also say</b> that <b>this</b> money was for <b>a different</b> debt. <b>And</b> this is <b>like</b> the case involving <b>Avimi, son of Rabbi Abbahu,</b> who repaid a debt in the absence of witnesses, and the creditor then claimed that the payment was for another debt (see <i>Ketubot</i> 85a).",
+                  "The Gemara relates: There was <b>a certain</b> person <b>who said to another</b> who had lent him money: <b>I deem you credible whenever you say to me</b> that <b>I did not repay</b> the debt. He then <b>went</b> and <b>repaid</b> the debt <b>in the presence of witnesses,</b> and the creditor later denied that he had been repaid. <b>Abaye and Rava both say</b> that the witnesses are not deemed credible and the creditor can collect payment, as the debtor <b>deemed him credible</b> at the outset. <b>Rav Pappa objects to this</b> and says: <b>Although he deemed him more credible than himself</b> concerning the possibility that the debtor would claim that he repaid the debt and the creditor would deny having been repaid, <b>did he deem him more credible than witnesses?</b> Therefore, he is exempt.",
+                  "The Gemara relates: There was <b>a certain</b> person <b>who said to another</b> who had lent him money: <b>I deem you credible like two</b> witnesses <b>whenever you say</b> that <b>I did not repay</b> the debt. <b>He went</b> and <b>repaid</b> the debt <b>in the presence of three</b> witnesses. <b>Rav Pappa said</b> that the creditor cannot deny the testimony of three witnesses, as the debtor <b>deemed him credible like two</b> witnesses; <b>he did not deem him credible like three</b> witnesses.",
+                  "<b>Rav Huna, son of Rav Yehoshua, said to Rav Pappa: Say</b> that although <b>the Sages say that we follow the majority of opinions,</b> and the opinion of three people is therefore accepted against the opinion of two, <b>this statement</b> applies <b>with regard to assessing</b> value, <b>as the more</b> people there are, <b>the more knowledgeable they are. But with regard to testimony, one hundred</b> witnesses <b>are like two, and two are like one hundred.</b> Therefore, in this case there is no distinction between two witnesses and three witnesses.",
+                  "The Gemara presents <b>another version</b> of the incident: <b>A certain</b> person <b>said to another</b> who had lent him money: <b>I deem you credible like two</b> witnesses <b>whenever you say</b> that <b>I did not repay. He went and repaid</b> the debt <b>in the presence of three</b> witnesses. <b>Rav Pappa said</b> that the creditor cannot deny their testimony, as the debtor <b>deemed him credible like two</b> witnesses; <b>he did not deem him credible like three</b> witnesses.",
+                  "<b>Rav Huna, son of Rav Yehoshua, objects to this: Two</b> witnesses <b>are like one hundred, and one hundred are like two. But if</b> the debtor <b>said to</b> the creditor that he deems him credible <b>like three</b> witnesses, <b>and</b> then <b>went</b> and <b>repaid him in the presence of four,</b> then <b>once he entered,</b> by mentioning a larger number than what is necessary for testimony, the realm of <b>opinions,</b> in which three people carry greater weight than two, <b>he has entered</b> the realm of <b>opinions,</b> and four witnesses are deemed more credible than three. Therefore, the creditor is not deemed credible against them."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shevuot 41b:8",
+                "Shevuot 41b:9",
+                "Shevuot 41b:10",
+                "Shevuot 41b:11",
+                "Shevuot 41b:12",
+                "Shevuot 41b:13",
+                "Shevuot 41b:14",
+                "Shevuot 41b:15",
+                "Shevuot 42a:1",
+                "Shevuot 42a:2",
+                "Shevuot 42a:3",
+                "Shevuot 42a:4",
+                "Shevuot 42a:5",
+                "Shevuot 42a:6",
+                "Shevuot 42a:7",
+                "Shevuot 42a:8",
+                "Shevuot 42a:9",
+                "Shevuot 42a:10",
+                "Shevuot 42a:11"
+              ],
+              "he": [
+                [
+                  "סימן ראוב\"ן ושמעו\"ן דתנ\"ו הלכת\"א יזפ\"י ופר\"ע פלוני ופלוני עפצ\"י סטרא\"י בהימנות\"א כבי תרי:",
+                  "ההוא דא\"ל לחבריה כי פרעתין פרעין לי באפי ראובן ושמעון אזל ופרעיה באפי תרי מעלמא אמר אביי באפי בי תרי אמר ליה באפי בי תרי פרעיה אמר ליה רבא להכי קאמר ליה באפי ראובן ושמעון כי היכי דלא נדחייה",
+                  "ההוא דאמר ליה לחבריה כי פרעת לי פרעין לי באפי בי תרי דתנו הלכתא אזל פרעיה בין דיליה לדיליה איתניסו הנך זוזי",
+                  "אתא לקמיה דרב נחמן א\"ל אין קבולי קבלתינהו מיניה דרך פקדון ואמינא ליהוי גבאי פקדון עד דמתרמו בי תרי דתנו הלכתא ומקיים תנאיה",
+                  "א\"ל כיון דקא מודית דודאי שקלתינהו מיניה פרעון מעליא הוי אי אמרת לקיומי תנאיה זיל אייתינהו דהא אנא ורב ששת דתנינא הלכתא וספרא וספרי ותוספתא וכולא גמרא",
+                  "ההוא דאמר ליה לחבריה הב לי מאה זוזי דאוזיפתך אמר ליה לא היו דברים מעולם אזל אייתי סהדי דאוזפיה ופרעיה אמר אביי מאי ניעבוד אינהו אמרי אוזפיה אינהו אמרי פרעיה רבא אמר כל האומר לא לויתי כאומר לא פרעתי דמי",
+                  "ההוא דאמר ליה לחבריה הב לי מאה זוזי דמסיקנא בך א\"ל לא פרעתיך בפני פלוני ופלוני אתו פלוני ופלוני אמרי לא היו דברים מעולם סבר רב ששת למימר הוחזק כפרן אמר ליה רבא כל מילתא דלא רמיא עליה דאינש לאו אדעתיה",
+                  "ההוא דאמר ליה לחבריה הב לי שית מאה זוזי דמסיקנא בך א\"ל ולא פרעתיך מאה קבי"
+                ],
+                [
+                  "עפצי דקיימי בשיתא שיתא א\"ל לאו בארבעה ארבעה הוו קיימי אתו תרי סהדי ואמרו אין בארבעה ארבעה הוו קיימי אמר רבא הוחזק כפרן אמר רמי בר חמא הא אמרת כל מילתא דלא רמיא עליה דאיניש לאו אדעתיה א\"ל רבא קצותא דתרעא מידכר דכירי אינשי",
+                  "ההוא דא\"ל לחבריה הב לי מאה זוזי דמסיקנא בך והא שטרא א\"ל פרעתיך אמר ליה הנהו סיטראי נינהו אמר רב נחמן איתרע שטרא רב פפא אמר לא איתרע שטרא",
+                  "ולרב פפא מאי שנא מההוא דאמר ליה לחבריה הב לי מאה זוזי דמסיקנא בך והא שטרא א\"ל לאו אתורי יהבת לי ואתית ואיתיבת אמסחתא וקבילת זוזך ואמר ליה הנהו סיטראי נינהו ואמר רב פפא איתרע שטרא",
+                  "התם כיון דקאמר אתורי יהבת לי ומתורי שקלת איתרע שטרא הכא אימור סיטראי נינהו",
+                  "מאי הוי עלה רב פפי אמר לא איתרע שטרא רב ששת בריה דרב אידי אמר איתרע שטרא והלכתא איתרע שטרא",
+                  "והני מילי דפרעיה באפי סהדי ולא אידכר ליה שטרא אבל פרעיה בין דידיה לדידיה מיגו דיכול למימר לא היו דברים מעולם יכול נמי למימר סיטראי נינהו וכדאבימי בריה דר' אבהו",
+                  "ההוא דאמר ליה לחבריה מהימנת לי כל אימת דאמרת לי לא פרענא אזל פרעיה באפי סהדי אביי ורבא דאמרי תרוייהו הא הימניה מתקיף לה רב פפא נהי דהימניה טפי מנפשיה טפי מסהדי מי הימניה",
+                  "ההוא דא\"ל לחבריה מהימנת לי כבי תרי כל אימת דאמרת לא פרענא אזל פרעיה באפי תלתא אמר רב פפא כבי תרי הימניה כבי תלתא לא הימניה",
+                  "א\"ל רב הונא בריה דרב יהושע לרב פפא אימור דאמרי רבנן דאזלינן בתר רוב דעות ה\"מ לענין אומדנא דכמה דנפישי בקיאי טפי אבל לענין עדות מאה כתרי ותרי כמאה",
+                  "לישנא אחרינא ההוא דא\"ל לחבריה מהימנת לי כבי תרי כל אימת דאמרת לא פרענא אזל ופרעיה באפי תלתא אמר רב פפא כבי תרי הימניה כבי תלתא לא הימניה",
+                  "מתקיף לה רב הונא בריה דרב יהושע תרי כמאה ומאה כתרי ואי א\"ל כבי תלתא ואזל פרעיה באפי בי ארבעה כיון דנחית לדעות נחית לדעות:"
+                ]
+              ],
+              "link": "/Shevuot/42a",
+              "originalRefsBeforeRewriting": [
+                "Shevuot 42a:2"
+              ],
+              "ref": "Shevuot 41b:8-42a:11",
+              "sourceHeRef": "שבועות מ״ב א",
+              "sourceRef": "Shevuot 42a"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הב לי מאה זוזי כו'</strong> - כפלוגתא דלעיל ובאותם הטעמים:",
+              "ref": "Rashbam on Bava Batra 32b:3:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ג:א",
+              "sourceRef": "Rashbam on Bava Batra 32b:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מעין זה מסופר: <b>ההוא</b> <span class=\"hebrew-emphasis\">[</span>אדם <span class=\"hebrew-emphasis\">אחד]</span> ש<b>אמר לחבריה</b> <span class=\"hebrew-emphasis\">[לחבירו]:</span> <b>הב</b> <span class=\"hebrew-emphasis\">[תן]</span> <b>לי מאה זוזי דמסיקנא</b> <span class=\"hebrew-emphasis\">[זוזים שאני נושה]</span> <b>בך, והא שטרא</b> <span class=\"hebrew-emphasis\">[והרי השטר].</span> <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> הנתבע: <b>שטרא זייפא</b> <span class=\"hebrew-emphasis\">[שטר מזוייף]</span> <b>הוא. גחין לחיש ליה</b> <span class=\"hebrew-emphasis\">[התכופך</span> בעל השטר ו<span class=\"hebrew-emphasis\">לחש לו]</span> <b>לרבא: אין, שטרא זייפא</b> <span class=\"hebrew-emphasis\">[כן, שטר מזוייף]</span> הוא <b>מיהו שטרא מעליא הוה</b> <span class=\"hebrew-emphasis\">[</span>ו<span class=\"hebrew-emphasis\">אולם שטר טוב היה]</span> <b>לי ואירכס</b> <span class=\"hebrew-emphasis\">[ואבד],</span> <b>ואמינא</b> <span class=\"hebrew-emphasis\">[ואמרתי]:</span> <b>אינקיט האי בידאי</b> <span class=\"hebrew-emphasis\">[אחזיק את זה בידי]</span> בינתים שיהיה לי שטר <b>כל דהו</b> <span class=\"hebrew-emphasis\">[שהוא],</span>",
+              "ref": "Steinsaltz on Bava Batra 32b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:ג",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שהמלווה נתן לערב את שטר החוב כדי שיוכל להביא ראיה ולהיפרע מן הלווה (רשב\"ם). ויש ראשונים שכתבו שהיה מפורש בשטר שהמלווה קיבל מידיו את הכסף, וכן שהוא מעביר את הזכויות לגבות את השטר לערב (שאם לא כן נמחל השיעבוד מן השטר עם הפרעון, ודינו כמלווה על פה. רשב\"א. או משום שללא זה — לא יהווה השטר ראיה מספיקה מול הלווה. רבינו יונה). והרשב\"ם כתב כי אותו ערב היה ערב קבלן (שאם לו כן לא היה המלווה נפרע ממנו תחילה, אלא מן הלווה).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 32b:3",
+              "sourceHeRef": "והא שטרא",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates a similar incident: There was <b>a certain</b> person <b>who said to another: Give me one hundred dinars that I am</b> attempting to <b>collect from you, and this</b> is <b>the</b> promissory <b>note</b> that attests to the debt. The latter <b>said to him</b> in response: <b>It is a forged</b> promissory <b>note.</b> The first person <b>leaned</b> over and <b>whispered to <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>: Yes, it is a forged</b> promissory <b>note. But I had a proper</b> promissory <b>note and it was lost, and I said</b> to myself: <b>I will hold this</b> promissory note <b>in my possession, such as it is.</b>",
+      "he": "הַהוּא דְּאָמַר לְחַבְרֵיהּ: הַב לִי מְאָה זוּזִי דְּמַסֵּיקְנָא בָּךְ, וְהָא שְׁטָרָא. אֲמַר לֵיהּ: שְׁטָרָא זַיְיפָא הוּא. גְּחֵין לְחֵישׁ לֵיהּ לְרָבָא: אִין, שְׁטָרָא זַיְיפָא; מִיהוּ שְׁטָרָא מְעַלְּיָא הֲוָה לִי, וְאִירְכַס, וְאָמֵינָא: אֶינְקוֹט הַאי בִּידַאי כָּל דְּהוּ.",
+      "ref": "Bava Batra 32b:3"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מָה</strong>, <strong dir=\"rtl\">מַה</strong> (Biblical Hebrew) <br><b>1)</b> <i>something; anything</i>. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 14:21\" href=\"/Bamidbar_Rabbah.14.21\">Bamidabar Rabbah section (Parashah) 14</span>; Midrash Tanḥuma Ḥayé 3, see <span class=\"refLink\" data-ref=\"Jastrow, בְּלִימָה 1\" dir=\"rtl\" href=\"/Jastrow,_בְּלִימָה.1\">בְּלִימָה</span>. <br><b><br>—2)</b> <i>what? which?</i> <span class=\"refLink\" data-ref=\"Chullin 89a:10\" href=\"/Chullin.89a.10\">Chullin 89ᵃ</span> (play on <span dir=\"rtl\">הא̇מ̇נ̇ם א̇ל̇ם̇</span>, <span class=\"refLink\" data-ref=\"Psalms 58:2\" href=\"/Psalms.58.2\">Psalms LVIII, 2</span>) <span dir=\"rtl\">מה א̇ומ̇נ̇תו … כא̇ל̇ם̇</span> which is the best policy for man in this world? Let him act as if he were mute (keep silence). <span class=\"refLink\" data-ref=\"Bava Metzia 63a:6\" href=\"/Bava_Metzia.63a.6\">Bava Metzia 63ᵃ</span>, and e. <span dir=\"rtl\">מה לו הן מה לי דמיהן</span> what are they to me and what their equivalent, i.e. what difference does it make whether the purchased objects or their equivalent be delivered?; <span class=\"refLink\" data-ref=\"Jerusalem Talmud Yoma 5:6:11\" href=\"Jerusalem_Talmud_Yoma.5.6.11\">Yerushalmi Yoma V, 43ᵃ</span> bottom of page <span dir=\"rtl\">מה ביניהן ומה בין דמיהן</span>. <span class=\"refLink\" data-ref=\"Bava Batra 32b:4\" href=\"/Bava_Batra.32b.4\">Bava Batra 32ᵇ</span>; <span class=\"refLink\" data-ref=\"Bava Batra 31a:3\" href=\"/Bava_Batra.31a.3\">31ᵃ</span> <span dir=\"rtl\"><span dir=\"rtl\">מה</span> (<span class=\"refLink\" data-ref=\"Jastrow, לֵי 1\" dir=\"rtl\" href=\"/Jastrow,_לֵי.1\">לי</span>) <span dir=\"rtl\">לו לשקר</span></span> what motive could he have to tell a lie? Ib., and e. <span dir=\"rtl\">מה לי לשקר במקום עדים וכ׳</span> we do not apply the principle that we believe a defendant because he has no motive to lie, where witnesses are on hand; and see from—<span dir=\"rtl\">מה … אף</span> what …?, even so, i.e. <i>as … so</i>. <span class=\"refLink\" data-ref=\"Gittin 23b:5\" href=\"/Gittin.23b.5\">Gittin 23ᵇ</span> <span dir=\"rtl\">מה אתם … אף וכ׳</span> as <i>you</i> (<span class=\"refLink\" data-ref=\"Numbers 18:28\" href=\"/Numbers.18.28\">Bamidbar XVIII, 28</span>) refers to Israelites, so must your delegate be an Israelite. <span class=\"refLink\" data-ref=\"Shabbat 133b:16\" href=\"/Shabbat.133b.16\">Shabbat 133ᵇ</span> <span dir=\"rtl\">מה הוא … אף וכ׳</span> as He is gracious and merciful, so be thou &c.; and from—<span dir=\"rtl\">מה … לא כל שכן</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כָּל 1\" dir=\"rtl\" href=\"/Jastrow,_כָּל.1\">כָּל</span>.—<span dir=\"rtl\">מה … אינו דין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דִּין II 1\" href=\"/Jastrow,_דִּין II.1\"><span dir=\"rtl\">דִּין</span> II</span>.—<span dir=\"rtl\">מה ל־ … שכן … תאמר</span> what has this to do with …? In this case …, whereas &c., i.e. <i>it is different with</i> … <i>because</i> &c. <span class=\"refLink\" data-ref=\"Kiddushin 4b:5\" href=\"/Kiddushin.4b.5\">Kiddushin 4ᵇ</span> <span dir=\"rtl\">מה ליבמה שכן … תאמר וכ׳</span> the case of a Y’bamah is different, because she can neither be acquired by means of a document, whereas this (an ordinary woman) &c.; and from—<span dir=\"rtl\">מָה נַפְשְׁךָ</span> (in Babli mostly: <span dir=\"rtl\">מִמָּה נפשך</span>; abbr. <span dir=\"rtl\">ממ\"נ</span>) whatever be thy opinion (from whatever opinion thou start), i.e. <i>whichever side you take, at all events</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Berakhot 1:1:8\" href=\"Jerusalem_Talmud_Berakhot.1.1.8\">Yerushalmi Berakhot I, 2ᵇ</span> <span dir=\"rtl\">מ׳ נ׳ אם וכ׳</span> at all events (he has offended); if it was day-time when the first stars (on Friday evening) were visible, it was day-time when the first stars (on Sabbath evening) were visible &c.; <span class=\"refLink\" data-ref=\"Shabbat 35b:3\" href=\"/Shabbat.35b.3\">Shabbat 35ᵇ</span> <span dir=\"rtl\">חייכ חטאת ממ\"נ</span> must bring a sin-offering at all events (whether you consider twilight a part of the day or a part of the night). <span class=\"refLink\" data-ref=\"Shabbat 34a:10\" href=\"/Shabbat.34a.10\">Ib. 34ᵃ</span> (in Chald. dict.) <span dir=\"rtl\">מה נפשך אי וכ׳</span> whichever side you take, if twilight is day &c. <span class=\"refLink\" data-ref=\"Eruvin 10a:3-4\" href=\"/Eruvin.10a.3-4\">Eruvin 10ᵃ</span> <span dir=\"rtl\">גדולה … למה לי ממ\"נ אי וכ׳</span> what reason was there for saying ‘large …’? In either case (it is incorrect), if it be to permit the use of the larger court &c. <span class=\"refLink\" data-ref=\"Chullin 29a:2\" href=\"/Chullin.29a.2\">Chullin 29ᵃ</span> <span dir=\"rtl\">ממ\"נ אי מחצה וכ׳</span> in either case (the slaughtering is ritually correct); if you adopt the opinion that an exact half is to be considered as if it were the larger portion &c.; and see from—<span class=\"refLink\" data-ref=\"Chullin 78b:10\" href=\"/Chullin.78b.10\">Ib. 78ᵇ</span> <span dir=\"rtl\">מה אם נפשך</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נֶפֶשׁ 1\" dir=\"rtl\" href=\"/Jastrow,_נֶפֶשׁ.1\">נֶפֶשׁ</span>.—<span class=\"refLink\" data-ref=\"Jastrow, בָּמָה 1\" dir=\"rtl\" href=\"/Jastrow,_בָּמָה.1\">בַּמֶּה</span> a) <i>wherewith?</i> <span class=\"refLink\" data-ref=\"Bava Batra 10b:3\" href=\"/Bava_Batra.10b.3\">Bava Batra 10ᵇ</span> <span dir=\"rtl\">במה תרום וכ׳</span> whereby can the horn of Israel be lifted up? <span class=\"refLink\" data-ref=\"Mishnah Shabbat 2:1\" href=\"/Mishnah_Shabbat.2.1\">Shabbat II, 1</span>; and from—b) <i>in what case?</i> <span dir=\"rtl\">במה דברים אמורים</span> (abbr. <span dir=\"rtl\">בד\"א</span>), see <span class=\"refLink\" data-ref=\"Jastrow, אָמַר I 1\" href=\"/Jastrow,_אָמַר I.1\"><span dir=\"rtl\">אָמַר</span> I</span>.—לָמָּה <i>wherefore?</i> <span class=\"refLink\" data-ref=\"Berakhot 3a:8\" href=\"/Berakhot.3a.8\">Berakhot 3ᵃ</span> <span dir=\"rtl\">תחלת … סימנא למה לי</span> what need is there for a sign for the beginning of the first watch? <span class=\"refLink\" data-ref=\"Moed Katan 28a:4\" href=\"/Moed_Katan.28a.4\">Moʿed Katan 28ᵃ</span> <span dir=\"rtl\">ל׳ נסמכה וכ׳</span> why is the account of the death of Miriam attached to &c.?; and from—לַמֶּה <i>to what?, whereto?</i> <span class=\"refLink\" data-ref=\"Kiddushin 40b:6\" href=\"/Kiddushin.40b.6\">Kiddushin 40ᵇ</span> <span dir=\"rtl\">ל׳ צדיקים נמשלים</span> what are the righteous to be compared to?—<span dir=\"rtl\">ל׳ הדבר דומה</span>, see <span class=\"refLink\" data-ref=\"Jastrow, דָּמָה 1\" dir=\"rtl\" href=\"/Jastrow,_דָּמָה.1\">דָּמָה</span>; and from—V. <span class=\"refLink\" data-ref=\"Jastrow, לָמָה 1\" dir=\"rtl\" href=\"/Jastrow,_לָמָה.1\">לָמָה</span>. <br><b><br>—3)</b> (relat.) <i>which, what</i>. <span class=\"refLink\" data-ref=\"Pesachim 88b:14\" href=\"/Pesachim.88b.14\">Pesachim 88ᵇ</span> <span dir=\"rtl\">מה שקנה עבד וכ׳</span> whatever the slave acquires belongs to the master. <span class=\"refLink\" data-ref=\"Mishnah Berakhot 1:1\" href=\"/Mishnah_Berakhot.1.1\">Berakhot I, 1</span> <span dir=\"rtl\">כל מה שאמרו וכ׳</span> for whatever act the scholars designated the time ‘up to midnight’ &c.; and see from"
+              ],
+              "he": [],
+              "ref": "Jastrow, מָה 1",
+              "sourceHeRef": "מילון יסטרוב, מָה א׳",
+              "sourceRef": "Jastrow, מָה 1"
+            }
+          ]
+        },
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> אמאי קא סמכת כו' ולא אמרינן מגו אלא להחזיק כו' אם יש לו שטר או חזקה כו' ואין נראה לר\"י מדלא מפרש טעמא כו' עכ\"ל כל זה מפורש ברא\"ש ע\"ש וק\"ל:",
+              "ref": "Chidushei Halachot on Bava Batra 32b:1",
+              "sourceHeRef": "חדושי הלכות על בבא בתרא ל״ב ב:א",
+              "sourceRef": "Chidushei Halachot on Bava Batra 32b:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה רב יוסף אמאי קא סמכת אהאי שטרא האי שטרא חספא בעלמא הוא.</b> איכא למידק, מאי טעמיה דרב יוסף, דהא טעמא דמגו טעמא רבה הוא, וכל מגו אטענה דלאו קושטא סמכינן ליה, מגו דאי בעי אמר מינך זבינתה ומהימן כי אמר ליה קמאי דידי זבנה מינך מהימן, אף על גב דטעמא דמינך זבינתה טענה דלאו קושטא, וכן כולם, והרב אבן מיגש ז\"ל פירש, דרב יוסף סבר דמגו לאפוקי ממונא לא אמרינן, והילכך בין בארעא בין בזוזי אפוקי ממונא הוא, ארעא נמי אף על גב דהאי קאי בגווה, כיון דאית ליה למערער סהדי דאבהתא בחזקת מרא קיימא, ומגו לאפוקי ממונא לא אמרינן. ורבה סבר דאפילו לאפוקי ממונא אמרינן. ואתא רב אידי בר אבין ופסק כרבה בארעא, דלאו לאוקי ממונא הוא, כיון דקאי בגווה ואית ליה מגו, אבל בזוזי לא, דאסוקי ממונא הוא ואף על גב דשטרא בידיה, משום דאכתי צריך גובינא. ולדבריו הא דאמרינן בכולי פרקין מגו אפילו בארעא, הני מילי היכא דאחזיק בה תלת שנין, דבהכי נפקא ליה מחזקתיה דמוכר וקמה לה בחזקתיה דלוקח, וכדאמרינן בריש פירקין למאן דיליף לה משור המועד. וגמרינן להא מילתא דלא אמרינן מגו לאפוקי ממונא מדתנן <span class=\"parenthesized\">(ב\"מ ב, א)</span> שנים אוחזין בטלית זה אומר כולה שלי וזה אומר חציה שלי זה ישבע שאין לה בה פחות משלשה חלקים וזה ישבע שאין לו בה פחות מרביע זה נוטל שלשה חלקים וזה נוטל רביע, ואמאי ליהמניה להאי דאמר חציה שלי מגו דאי בעי אמר כולה שלי ויטול חציה בשבועה.<br><b></b>ואי קשיא לך הא דאמרינן בשבועות פרק שבועת הדיינין <span class=\"parenthesized\">(שבועות מב, א)</span> ההוא דאמר ליה לחבריה הב לי מאה זוזי דמסיקנא בך והא שטרא, אמר ליה ולא פרעתיך, אמר ליה הנהו סיטראי נינהו, ואסיקנא דאי ליכא סהדי לא אתרע שטרא ונאמן, משום מגו דאי בעי אמר לא היו דברים מעולם, ומגבינן ביה. י\"ל דהתם לאו אפוקי ממונא הוא, דאמנה שהוא תפוס מעין האי דסיטראי נינהו, והאי שטרא לאו אפריעא כלל, והילכך אין נאמנותו של זה על מנה שבשטר אלא על מנה שהוא תפוש.<br><b></b>ויש מקשין לפירוש זה, דאם איתא רבה מי פליג אמתניתין דשנים אוחזין. ויש לי לומר על פירוש זה דרבה לא פליג בהא, דלדידיה נמי לאפוקי ממונא לא אמרינן, אלא דסבירא ליה דארעא כיון דהאי קאי בגווה לאוקומי הוא וזוזי נמי כיון דטעין מעיקרא האי שטרא דאלו שתיק וקאי בטענתיה קמייתא גבי לה, השתא נמי לאו מגו לאפוקי ממונא חשבינן ליה, דהא מעיקרא הכי טעין, ולא אמרינן מגו לאפוקי ממונא לא אמרינן אלא היכא דאיהו לא טעין כלל, דהשתא הוא דאמרינן כיון דלא טעין אף על גב דמצי טעין, כיון דאפוקי ממונא הוא לא אמרינן, אי נמי קא סבר רבה כיון דשטרא בידיה ומקיים ליה כמאן דמוחזק דאמי. ואלא מיהו ממקום שבא לי סמך בסברא זו דמגו לאפוקי ממונא לא אמרינן, מההיא דשנים אוחזין לאו ראיה היא, דלא אמרינן מגו אלא במה שהוא תובע, שאלו היה לו טענה יפה מזו במחצית שהוא תובע שעל ידי אותה טענה היה נאמן ליטול כל אותו המחצית שהוא תובע גם בטענה זו נאמין אותו, אבל לומר נאמין אותו במה שהוא תובע מגו דאי בעי תבע, בכי הא לא אמרינן. ובין כך ובין כך שמעתין לא מתוקמא שפיר, דאם איתא, רב יוסף הכין הוה ליה למימר, מגו לאפוקי ממונא לא אמרינן. דמלישנא דקאמר אמאי קא סמכת אהאי שטרא האי שטרא חספא בעלמא הוא, משמע דכל עצמו בריעותא דהאי שטרא תלי לה ולא במגו לאפוקי ממונא.<br><b></b>והפירוש הנכון שראיתי בשמועה זו, הוא מה שפירש הרמב\"ן נ\"ר דשטר זה לא נתקיים עדיין, אלא שהיה אומר שיש לו עדים לקיימו, ואפילו הכי קאמר רבה דנזקקין לו לקיימו ונאמן משום מגו, ואמר ליה רב יוסף האי שטרא חספא בעלמא הוא והיאך נזקק לקיים חספא בעלמא, ואף על פי שאלו שתק זה עד שקיים שטרו ואמר כן נאמן, עכשיו שקדם והודה הרי זה זריז ונפסד. ואתא רב <span class=\"parenthesized\">(דימי)</span> [אידי] ופסק כרבה בארעא, דכיון דקאי בגווה נזקקין לו לקיימו כדי שלא נוציא אותו מן הקרקע שהוא עומד בתוכו, אבל בזוזי דקיימי בידא דלוה, לא. ומה ששנינו בברייתא <span class=\"parenthesized\">(תוספתא פ\"ב ה\"א)</span> האוכל את השדה מחמת אונו, ונמצאת אונו פסולה חזקתו בטלה, התם הוא בנמצאת פסולה בעדים, דמגו במקום עדים לא אמרינן, אבל הכא דאינה פסולה אלא מפיו אמרינן בה מגו.",
+              "ref": "Rashba on Bava Batra 32b:2",
+              "sourceHeRef": "רשב״א על בבא בתרא ל״ב ב:ב",
+              "sourceRef": "Rashba on Bava Batra 32b:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבה: מה לו לשקר? אי בעי אמר ליה שטרא מעליא</b> <span class=\"hebrew-emphasis\">[אם היה רוצה</span> לשקר <span class=\"hebrew-emphasis\">היה אומר לו</span> ש<span class=\"hebrew-emphasis\">שטר טוב]</span> <b>הוא,</b> והיה גובה בו, ואף עכשיו נאמין לו ונגבה. <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רב יוסף: אמאי קא סמכת</b> <span class=\"hebrew-emphasis\">[על מה אתה סומך]?</span> <b>אהאי שטרא</b> <span class=\"hebrew-emphasis\">[על שטר זה]</span> — <b>האי שטרא חספא בעלמא</b> <span class=\"hebrew-emphasis\">[שטר זה חרס בלבד]</span> <b>הוא,</b> שהרי בעליו מודה שהוא מזוייף!",
+              "ref": "Steinsaltz on Bava Batra 32b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:ד",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:4"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> said: Why would he lie</b> and state this claim? <b>If</b> he <b>wants</b> to lie, he can <b>say to him</b> that <b>it is a proper</b> promissory <b>note,</b> and he will be deemed credible and awarded the money. <b><span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> said to</b> <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span>: In the final analysis, <b>on what</b> are <b>you relying</b> to award him the money? <b>On this</b> promissory <b>note? This document is merely a shard,</b> and cannot be used in court as evidence.",
+      "he": "אָמַר <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">רַבָּה</span>: מָה לוֹ לְשַׁקֵּר? אִי בָּעֵי, אָמַר לֵיהּ: שְׁטָרָא מְעַלְּיָא הוּא. אֲמַר לֵיהּ רַב יוֹסֵף: אַמַּאי קָא סָמְכַתְּ – אַהַאי שְׁטָרָא; הַאי שְׁטָרָא חַסְפָּא בְּעָלְמָא הוּא.",
+      "ref": "Bava Batra 32b:4"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The lender's claim is not accepted in the following situation. The lender produces a promissory note whose authenticity has been verified, and the borrower claims: \"It is a forgery, and I never wrote it,\" or \"It was given on faith.\" The lender states: \"That is true, but I had an acceptable promissory note and it was lost.\" Although it was the lender who invalidated his promissory note, and had he desired, he could have said: \"It is not a forgery,\" for its authenticity was verified by the court, he cannot use it to expropriate property at all. Instead, the borrower may take a <i>sh'vuat hesset</i> and be freed of responsibility, for the promissory note is likened to a shard.",
+              "he": "הוֹצִיא עָלָיו שְׁטָר מְקֻיָּם וְאָמַר הַלּוֶֹה מְזֻיָּף הוּא וּמֵעוֹלָם לֹא כְּתַבְתִּיו אוֹ שְׁטַר אֲמָנָה הוּא וְאָמַר הַמַּלְוֶה כֵּן הַדְּבָרִים אֲבָל שְׁטָר כָּשֵׁר הָיָה לִי וְאָבַד אַף עַל פִּי שֶׁהַמַּלְוֶה הוּא שֶׁשָּׁבַר אֶת שְׁטָרוֹ וְאִלּוּ רָצָה אָמַר אֵינוֹ מְזֻיָּף שֶׁהֲרֵי נִתְקַיֵּם בְּבֵית דִּין אֵינוֹ גּוֹבֶה בּוֹ כְּלוּם אֶלָּא נִשְׁבָּע הַלּוֶֹה הֶסֵּת וְנִפְטָר שֶׁהֲרֵי זֶה הַשְּׁטָר כְּחֶרֶס הוּא חָשׁוּב:",
+              "ref": "Mishneh Torah, Creditor and Debtor 14:6",
+              "sourceHeRef": "הלכות מלווה ולווה יד:ו",
+              "sourceRef": "Creditor and Debtor 14:6"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הלכתא כוותיה דרבה בארעא</strong> - באותו דין ראשון דלעיל מספקא ליה לרב אידי בר אבין טעם של מי משניהם נראה יותר הלכך פוסק בראשון כרבה דאמרינן מה לו לשקר ויעמוד על מקחו דכיון דלא אתברירו טעמיהם של רבה ורב יוסף המוציא מחבירו עליו הראיה וגבי זוזי שהלוה מוחזק ולא בעל השטר אמרינן יביא בעל השטר ראיה ויטול דהיכא דקיימא ארעא תיקום ולא נוציא מספק וכן זוזי היכא דקיימי ליקום וכן הלכה ואע\"ג דפסקינן הלכה כרב יוסף בשדה ענין ומחצה <span class=\"parenthesized\">(לקמן בבא בתרא דף קיד:)</span> מכלל דבכולי גמרא הלכה כרבה ולא כרב יוסף והכא פסקינן הלכה כרב יוסף לא קשיא דהא בהך פלוגתא נמי פסקינן כרבה:",
+              "ref": "Rashbam on Bava Batra 32b:5:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ה:א",
+              "sourceRef": "Rashbam on Bava Batra 32b:5:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כתב בעל המאור ז\"ל שמעתי משום חכם גדול מחכמי דורינו שלפנינו דהאידנא לית לן טועה בשקול הדעת. שהרי כל ההלכות פסוקות בידינו או מן הש\"ס או מן הגאונים שאחר הש\"ס. הלכך לא משכחת האידנא טועה בשקול הדעת. אלא כל הטועה בדבר משנה הם טועים. ואני אין נראה לי דברים הללו אלא כל מי שאין טעותו מתבררת מן המשנה או מן הש\"ס מפורש בלי ספק לאו טועה בדבר משנה הוא אלא בשקול הדעת כעין ההיא עובדא דלעיל <span class=\"parenthesized\">(סנהדרין דף כט:)</span> דהוו קרו ליה עכברא דשכיב אדינרי דאיפלגו ביה רבי ישמעאל ב\"ר יוסי ורבי חייא אף כל כיוצא בו שאין לברר טעותו ממשנתנו ומהש\"ס שלנו מפורש טועה בשקול הדעת הוא. ומה שפסקו הגאונים אחר סתימת הש\"ס מדעת מכרעת ולא מהלכה ברורה ופסוקה מן הש\"ס כסוגיין דעלמא הוי. ומאן דטעי ביה טעי בשקול הדעת ולא בדבר משנה. והראב\"ד כתב על דברי בעל המאור דאמת אמר החכם שאם טעה בפיסקי הגאונים שלא שמע דבריהם ואילו שמע היה חוזר בו באמת ובברור זהו טועה בדבר משנה. וקרוב אני לומר שאפילו אם היה חולק על פסק הגאון מטעם שנראה לו לפי דעתו שלא כדעת הגאון ולא כפירושו גם זה טועה בדבר משנה. שאין לנו עתה לחלוק על דברי גאון מראיית דעתנו לפרש הענין בדרך אחר כדי שישתנה הדין מדברי הגאון אם לא בקושיא מפורסמת. וזהו דבר שאין נמצא עכ\"ל. ואני אומר ודאי כל מי שטעה בפיסקי הגאונים ז\"ל שלא שמע דבריהם וכשנאמר לו פסק הגאונים ישרו בעיניו טועה בדבר משנה הוא. ולא מבעיא טועה בפיסקי הגאונים אלא אפילו חכמים שבכל דור ודור שאחריהם לאו קטלי קני באגמא הן ואם פסק הדין שלא כדבריהם וכששמע דבריהם ישרו בעיניו והודה שטעה טועה בדבר משנה הוא וחוזר. אבל אם לא ישרו בעיניו דבריהם ומביא ראיות לדבריו המקובלים לאנשי דורו. יפתח בדורו כשמואל בדורו. אין לך אלא שופט אשר יהיה בימים ההם ויכול לסתור דבריהם כי כל הדברים שאינם מבוארים בש\"ס שסדר רב אשי ורבינא אדם יכול לסתור ולבנות אפילו לחלוק על דברי הגאונים והיינו דא\"ל רב הונא לרב ששת אפילו בדידך ודידי וא\"ל אטו קטלי קני באגמא אנן כלומר אם חדשנו דבר מדעתנו שלא נמצא לא במשנה ולא בגמרא ודיין שלא ידע דברינו ופסק בענין אחר וכששמע הדברים ישרו בעיניו כטועה בדבר משנה הוי וחוזר. אבל הדיין ההוא פשיטא שיש לחלוק על דבריהם דאמוראים האחרונים פעמים חולקין על הראשונים ואדרבה אנו תופסין דברי האחרונים עיקר כיון שידעו סברת הראשונים וסברתם והכריעו בין אלו הסברות ועמדו על עיקרו של דבר וכיוצא בזה מצינו אין למדין הלכה מפי הש\"ס אלא המדברי האמוראים אנו למדין פסקי הלכות. אע\"פ שהתנאים היו גדולים יותר מהאמוראים. והיכא שנחלקו שני גדולים בפסק הלכה לא יאמר הדיין אפסוק כמי שארצה ואם עשה כן זהו דיך שקר. אלא אם חכם גדול הוא גמיר וסביר ויודע להכריע כדברי האחד בראיות ברורות ונכוחות הרשות בידו. ואפילו אם פסק חכם אחר בענין אחר יכול החכם לסתור דבריו בראיות ולחלוק עליו כאשר כתבתי למעלה כ\"ש אם יש לו סיוע מאחד מן החולקין. ואם לאו בר הכי הוא לא יוציא ממון מספק כדאמר בפ' חזקת הבתים <span class=\"parenthesized\">(בבא בתרא דף לב:)</span> הלכתא כרבא בארעא והלכתא כרב יוסף בזוזי היכא דקיימא ארעא תיקום והיכא דקיימי זוזי לוקמו אלמא כל ספיקא דדינא אין מוציאין מיד מוחזק. ואם לא ידע הפוסק במחלוקת הגאונים ואח\"כ נודע לו והוא לאו בר הכי הוא שיוכל להכריע או שאין יודע להכריע אם נראין דברי האחד לרוב החכמים ואיהו עבד כאידך היינו טעה בשקול הדעת. ואם אי אפשר לעמוד על הדבר אין כאן טעות אלא מה שפסק פסק:",
+              "ref": "Rosh on Sanhedrin 4:6:1",
+              "sourceHeRef": "פסקי הרא\"ש על סנהדרין ד:ו:א",
+              "sourceRef": "Rosh on Sanhedrin 4:6:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הוציא עליו שטר מקויים ואמר הלוה מזוייף או אמנה ואמר המלוה כן הדבר אבל שטר כשר היה לי ואבד נשבע הלוה היסת ונפטר:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 83:4",
+              "sourceHeRef": "חושן משפט פג:ד - דין מלוה שהודה בשטר שהוא מזוייף",
+              "sourceRef": "Choshen Mishpat 83:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב אידי בר אבין: הלכתא כוותיה</b> <span class=\"hebrew-emphasis\">[הלכה כשיטתו]</span> של <b>רבה בארעא</b> <span class=\"hebrew-emphasis\">[בקרקע],</span> <b>והלכתא כוותיה</b> <span class=\"hebrew-emphasis\">[והלכה כשיטתו]</span> של <b>רב יוסף בזוזי</b> <span class=\"hebrew-emphasis\">[בכסף].</span> ומסבירים: <b>הלכתא</b> <span class=\"hebrew-emphasis\">[הלכה]</span> <b>כרבה</b> שסומכים על השטר <b>בארעא</b> <span class=\"hebrew-emphasis\">[בקרקע],</span> משום שאנו אומרים <b>דהיכא דקיימא ארעא תיקום</b> <span class=\"hebrew-emphasis\">[שהיכן שעומדת הקרקע תעמוד],</span> ובפועל הרי היא מוחזקת בידי בעל השטר. <b>והלכתא כוותיה</b> <span class=\"hebrew-emphasis\">[והלכה כשיטתו]</span> של <b>רב יוסף</b> שאין סומכים על השטר <b>בזוזי</b> <span class=\"hebrew-emphasis\">[בכספים]</span> משום אותה סיבה עצמה — <b>דהיכא דקיימי זוזי לוקמי</b> <span class=\"hebrew-emphasis\">[שהיכן שנמצאים הכספים שיימצאו</span> הלאה<span class=\"hebrew-emphasis\">],</span>",
+              "ref": "Steinsaltz on Bava Batra 32b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:ה",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one produces a ratified promissory note, and the purported debtor claims that it is forged or a document of trust, and the creditor concedes that this is the case but that he previously had an authentic promissory note but lost it, the purported debtor is not required to pay but merely has to take an oath of inducement, in accordance with the opinion of Rav Yosef. The Ramban and the Rashba hold that this is the <i>halakha</i> only where the promissory note had not been ratified, but if it had been ratified, they hold that the creditor can collect the debt (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot Malve VeLoveh</i> 14:6; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 83:4).",
+              "he": "מי שהוציא על חבירו שטר מקויים שהלה חייב לו כסף, וטען הנתבע שהוא מזוייף, או אמנה או פרוע, והודה לו הלווה אבל טען שהיה לו שטר אחר כשר ואבד ממנו — יישבע הלווה שבועת היסת וייפטר בכך. וכדברי רב יוסף שנפסקה הלכה כמותו. והרמב\"ן והרשב\"א חלקו ופסקו שרק אם השטר אינו מקויים, אלא שיכול לקיימו — אינו נאמן. אבל אם השטר מקויים — נאמן ומגבים בו. (רמב\"ם ספר משפטים  הלכות מלוה ולווה פי\"ד ה\"ו. שו\"ע חו\"מ פג, ד).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 32b:5",
+              "sourceHeRef": "הֵיכָא דְּקַיְימִי זוּזֵי לוֹקְמֵי",
+              "sourceRef": "The money should remain where it is"
+            },
+            {
+              "en": "The Rashbam explains that Rav Idi bar Avin was uncertain as to the correct ruling.<i> </i>He therefore rules that the property should remain where it is in each case. The Rosh concurs with this opinion. Another explanation is that a <i>miggo</i> claim is effective only to maintain possession for the one using it (<i>Tosafot</i>; Ri Migash).",
+              "he": "",
+              "ref": "Steinsaltz comment #2 on Bava Batra 32b:5",
+              "sourceHeRef": "הִלְכְתָא כְּוָותֵיהּ דְּרַבָּה",
+              "sourceRef": "The <i>halakha</i> is in accordance with the opinion of Rabba"
+            },
+            {
+              "en": "Rav Idi bar Avin was a third- and fourth-generation Babylonian <i>amora</i>. It is related that Rav Idi’s father, Rav Avin the carpenter, was especially punctilious to observe the mitzva of lighting the Sabbath candles, a practice that led Rav Huna to predict that his sons would become eminent scholars (see <i>Shabbat </i>23b). Indeed, his sons were Rav Ĥiyya bar Avin and Rav Idi bar Avin.",
+              "he": "",
+              "ref": "Steinsaltz comment #3 on Bava Batra 32b:5",
+              "sourceHeRef": "רַב אִידִי בַּר אָבִין",
+              "sourceRef": "Rav Idi bar Avin"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>והלכתא כוותיה דרבה בארעא—And the law is according to רבה regarding property</b><br><br>O<small>VERVIEW</small><br>There is a dispute between יוסף ורב רבה concerning the מיגו of הוה לי מעליא שטרא. In a case of a property dispute, אבין בר אידי רב ruled according to רבה, that it is a valid מיגו (we leave the land in the possession of the מוחזק); however in the case of a loan we follow the opinion of יוסף רב that the מלוה cannot collect (the monies are left in the possession of the לוה). This ruling seems incongruent. If רבה is correct that it is a valid מיגו then the (והשטר) המיגו בעל should always collect, even by a loan. If it is not a valid מיגו as יוסף רב maintains then it should never be valid even by קרקע.<br>-------------------------------<br><b>רבינו שמואל פירש דמספקא ליה כמאן הלכתא –</b><br><b>The רש</b>ב\"ם <b>explained</b> the apparent discrepancy that by property the law is according to רבה and by a loan the law is according to רב יוסף, by saying <b>that</b> רב אבין אידי בר <b>was unsure according to whom is the הלכה;</b> whether according to רבה or יוסף רב. Therefore he ruled that we grant the assets to the present מוחזק.<br>תוספות anticipates a difficulty with the fact that (on account of the ספק, then) in the case of property we grant it to the present מוחזק as opposed to the קמא מרה.<br><b>וצריך לדחוק ולפרש ולחלק בין ספיקא דתרי ותרי לספיקא דדינא –</b><br><b>And it will be necessary, with difficulty, to explain and differentiate between a ספק</b> <b>of ותרי תרי</b> (where we grant the property to the original owner (מרה קמא) [as תוספות will shortly state]) <b>to a</b> ספק <b>of law;</b> where we cannot ascertain what the law is (in which case we award it to the present מוחזק [as in our case]).<br>תוספות will now present the contradiction (and the explanation):<br><b>דהא דלא אוקמה בחזקת מרה קמא כמו בנכסי דבר שטיא –</b><br><b>for</b> the reason ראב\"א <b>did not place</b> the property <b>in the possession of the ‘first owner’;</b> the מערער who is the מרה קמא (which seemingly he should have) <b>as in</b> the case <b>of the properties of the ‘incompetent’ –</b><br><b>דאמרינן (כתובות דף כ,א) אוקי תרי בהדי תרי ואוקי נכסי בחזקת בר שטיא –</b><br><b>where</b> the גמרא <b>states, ‘we place the two</b> עדים <b>against the two</b> contradicting עדים; they cancel out each other <b>and we place the</b> disputed <b>properties in the</b> original <b>presumptive possession of the שטיא בר’;</b> even though that the properties were now in the possession of the buyer<b>.</b> Seemingly the same ruling should apply here. We are not sure who should retain the property; just as in the case of שטיא בר. The property should be retained by the קמא מרה; not the present מוחזק! The ruling of שטיא בר teaches us that a קמא מרה חזקת takes precedent over the current מוחזק. Here is where the differentiation is necessary.<br>תוספות explains that there is a difference between the case of שטיא בר and our גמרא:<br><b>התם הוו תרי ותרי כמאן דליתנהו דמי ואוקמינן ארעא בחזקת מרה קמא –</b><br><b>There the</b> contradiction of <b>ותרי תרי</b> <b>renders it as if there are no</b> עדים <b>and</b> therefore <b>we place the land in the possession of the קמא מרה –<br>אבל הכא דמספקא לן דינא כמאן –</b><br><b>However, here where we are in doubt whose ruling we should follow –</b><br><b>התם לא שייך כולי האי למימר אוקמה אחזקת מרה קמא ונוציא מיד המוחזק –</b><br><b>in that</b> situation <b>it is not that appropriate to rule</b> that we should <b>place it in the possession of the קמא מרה and we should extricate it from the</b> possession of the<b></b> current <b>מוחזק.</b><br>תוספות concludes:<br><b>ודוחק הוא –</b><br><b>And this</b> distinction (between a דדינא ספיקא and a ספיקא of תרי ותרי) <b>is a forced one.</b> It is not a clear and definitive distinction.<br>תוספות adds an additional difficulty with this interpretation:<br><b>ועוד דהילכתא משמע דלגמרי פוסק כרבה ולא מספק –</b><br><b>And furthermore</b> the term <b>'והלכתא'</b> <b>indicates that</b> א\"אב רב <b>ruled completely like רבה</b> by קרקע <b>and not</b> because <b>he was in doubt</b> whether the הלכה is like רבה or רב יוסף. This implies that –<br><b>אפילו עבד כרב יוסף בדיעבד לא עבד –</b><br><b>Even if one already (</b>mistakenly) acted <b>according to יוסף רב</b> and awarded the land to the מערער <b>he did not accomplish</b> anything. The land must revert back to the מוחזק. If א\"ראב ruled according to רבה only מספק (as the ם\"רשב maintains), then if a בי\"ד mistakenly ruled like יוסף רב, the result would be that it would remain by the מערער; for now the מערער is the מוחזק. However the term 'והלכתא' indicates that in a case of ארעא the law is inherently like רבה; and not merely by default, since we are not sure who to follow.<br>תוספות offer his interpretation:<br><b>ונראה לרבינו יצחק דהיינו טעמא דהלכתא בארעא כרבה וכרב יוסף בזוזי –</b><br><b>And it seems to the ר\"י that this is the reason that the ruling is according to רבה concerning land and like יוסף רב concerning money –<br>משום דאמרינן מיגו לאוקמי ממונא ואית לן לאוקמי ארעא בחזקת מרה דקיימא השתא –</b><br><b>Because we use the מיגו</b> principle <b>to maintain the monies</b> under its current ownership <b>and it is proper that we award the land in the possession of the current owner.</b> In the case of ארעא the השטר בעל has a להחזיק מיגו; therefore he is awarded the field legally. However in the case of a loan, even though the השטר בעל has a מיגו, but it is a מיגו להוציא. Therefore the monies remain in the possession of the לוה.<br>תוספות anticipates a question:<br><b>ובהכותב (כתובות דף פה,א ושם) דאמר –</b><br><b>And that</b> which the גמרא <b>states in הכותב</b> פרק –<br><b>מיגו דיכלי למימר לא היו דברים מעולם יכלי למימר הני סיטראי נינהו –</b><br><b>since</b> the מלוה <b>could have argued ‘it never took place’;</b> the agent never paid any money at all, <b>he can also claim that this</b> payment was for <b>another</b> debt. The מלוה can still collect his חוב with the שטר even though he admitted that the agent paid him money. It seems evident from that גמרא that a מיגו is effective even to extract money. This would contradict what תוספות is saying here that אמרינן לא להוציא מיגו.<br>תוספות responds:<br><b>אף על גב דמיגו להוציא לא אמרינן שאני התם דאיכא שטרא:<br>Even though מיגו להוציא לא אמרינן nevertheless</b> in <b>that</b> case <b>it is different, for there is a</b> valid <b>שטר.</b> The מלוה has a שטר that the לוה owes him money. The לוה claims that the monies were paid. The מלוה argues that the monies paid, were for a different debt. We believe the מלוה with a מיגו (for he could have claimed I never received any payment at all), concerning the monies that were paid; that indeed they were for another debt. In this argument the מלוה is the מוחזק. He has the money. Concerning the debt of the שטר, the לוה has to pay, for the מלוה has a bona fide שטר. In our case however, there is no שטר at all. The מלוה wants to extract money from the לוה only on the basis of a מיגו. A מיגו להוציא is not effective.<br><br>S<small>UMMARY</small><br>The ם\"רשב maintains that א\"ראב ruled like (בארעא) רבה [and (בזוזא) יוסף רב]; since he was in doubt whom to follow. The reason in our case we award it to the מחזיק and not to the קמא מרה as in ת\"תו; is because by ותרי תרי they cancel each other out, however here it is a דדינא ספיקא.<br>תוספות maintains that א\"ראב ruled like רבה, however by זוזא it is a מיגו להוציא.<br><br>T<small>HINKING IT OVER</small><br>1. In the case of בר שטיא, the ספק is whether he was sane or not. The חזקת מרה קמא does not seem to address this issue at all (as in other חזקות דמעיקרא). It would seem that the חזקה דמעיקרא transcends the ספק and goes to the heart of the matter; to whom does the field belong. It should therefore follow that even by a ספיקא דדינא, the חזקה should transcend the ספק and deal with the essential ספק; to whom does the field belong.<br>2. According to תוספות why does ראב\"א state that the הלכה is כרב יוסף בזוזא. Seemingly ראב\"א agrees (only) with רבה that it is a valid מיגו. However in a case of a loan it is a מיגו להוציא. He does not however seemingly agree at all with רב יוסף that it is not a מיגו!<br>3. Why did תוספות ask the question from כתובות on the ר\"י in this תוספות? He should have asked it on the ריב\"ם of the previous תוספות (ד\"ה אמאי), who clearly states that מיגו להוציא לא אמרינן?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 32b:5:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Gilyon HaShas": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' ד\"ה והלכתא כו' ונוציא מיד המוחזק.</b> עיין לקמן דף מא ע\"א ברשב\"ם ד\"ה חיישינן:",
+                      "ref": "Gilyon HaShas on Bava Batra 32b:2",
+                      "sourceHeRef": "גליון הש\"ס על בבא בתרא ל״ב ב:ב",
+                      "sourceRef": "Gilyon HaShas on Bava Batra 32b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והלכתא כוותי' דרבה בארעא</strong> - רבינו שמואל פירש דמספקא ליה כמאן הלכתא וצריך לדחוק ולפרש ולחלק בין ספיקא דתרי ותרי לספיקא דדינא דהא דלא אוקמה בחזקת מרה קמא כמו בנכסי דבר שטיא דאמרי' <span class=\"parenthesized\">(כתובות דף כ.)</span> אוקי תרי בהדי תרי ואוקי נכסי בחזקת בר שטיא התם הוו תרי ותרי כמאן דליתנהו דמי ואוקמי' ארעא בחזקת מרה קמא אבל הכא דמספקא לן דינא כמאן התם לא שייך כולי האי למימר אוקמה אחזקת מרה קמא ונוציא מיד המוחזק ודוחק הוא ועוד דהילכתא משמע דלגמרי פוסק כרבה ולא מספק אפי' עבד כרב יוסף בדיעבד לא עבד ונראה לר\"י דהיינו טעמא דהלכתא בארעא כרבה וכרב יוסף בזוזי משום דאמרי' מיגו לאוקמי ממונא ואית לן לאוקמי ארעא בחזקת מרה דקיימא השתא ובהכותב <span class=\"parenthesized\">(כתובות דף פה. ושם)</span> דאמר מיגו דיכלי למימר לא היו דברים מעולם יכלי למימר הני סיטראי נינהו אף על גב דמיגו להוציא לא אמרינן שאני התם דאיכא שטרא:",
+              "ref": "Tosafot on Bava Batra 32b:5:1",
+              "sourceHeRef": "תוספות על בבא בתרא ל״ב ב:ה:א",
+              "sourceRef": "Tosafot on Bava Batra 32b:5:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara notes the final ruling in these two cases. <b><span href=\"/topics/rav-idi-b-avin-(i)\" class=\"namedEntityLink\" data-slug=\"rav-idi-(ambiguous)\">Rav Idi bar Avin</span> said: The <i>halakha</i></b> is <b>in accordance with</b> the opinion <b>of <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> with regard to land,</b> and the possessor is awarded the land, <b>and the <i>halakha</i></b> is <b>in accordance with</b> the opinion <b>of <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> with regard to money,</b> and the one demanding payment is not awarded the money. He explains: <b>The <i>halakha</i></b> is <b>in accordance with</b> the opinion <b>of <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> with regard to land,</b> as the court rules <b>that</b> the <b>land</b> should <b>remain where</b> it <b>is,</b> i.e., with the possessor. <b>And the <i>halakha</i></b> is <b>in accordance with</b> the opinion <b>of <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> with regard to money,</b> as the court rules <b>that</b> the <b>money</b> should <b>remain where</b> it <b>is,</b> i.e., in the possession of the purported debtor.",
+      "he": "אָמַר <span href=\"/topics/rav-idi-b-avin-(i)\" class=\"namedEntityLink\" data-slug=\"rav-idi-(ambiguous)\">רַב אִידִי בַּר אָבִין</span>: הִלְכְתָא כְּווֹתֵיהּ דְּרַבָּה בְּאַרְעָא, וְהִלְכְתָא כְּווֹתֵיהּ דְּרַב יוֹסֵף בְּזוּזֵי. הִלְכְתָא כְּרַבָּה בְּאַרְעָא – דְּהֵיכָא דְּקָיְימָא אַרְעָא, תֵּיקוּם. וְהִלְכְתָא כְּווֹתֵיהּ דְּרַב יוֹסֵף בְּזוּזֵי – דְּהֵיכָא דְּקָיְימִי זוּזֵי, לוֹקְמוּ.",
+      "ref": "Bava Batra 32b:5"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ההוא ערבא דאמר ליה ללוה הב לי מאה זוזי דפרעתינהו למלוה עליך והא שטרא.</b> כלומר, הא שטרא דנתחייבת לו למלוה ושאני ערב בו, ובשכתב לו המלוה התקבלתי ונתן לו זכותו, הא לאו הכי אף על פי ששטר החוב יוצא תחת יד הערב אינו גובה בו, וכמלוה על פה דמי, שהלוה לא נשתעבד בשטר זה לערב אלא למלוה, וכיון שפרע ערב למלוה כבר נמחל שעבודו של שטר, וכן כתב מורי הרב ז\"ל.",
+              "ref": "Rashba on Bava Batra 32b:3",
+              "sourceHeRef": "רשב״א על בבא בתרא ל״ב ב:ג",
+              "sourceRef": "Rashba on Bava Batra 32b:3"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דפרעתי למלוה עילוך</strong> - כגון ערב קבלן א\"נ כגון שאמר המלוה בשעת ההלואה ממי שארצה אפרע:",
+              "ref": "Rashbam on Bava Batra 32b:6:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ו:א",
+              "sourceRef": "Rashbam on Bava Batra 32b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא שטרא</strong> - שטר שהיה לו למלוה עליך והחזירו לי לפי שפרעתי חובו והרי אתה משועבד לי בשטר זה כמו שהיית משועבד לו:",
+              "ref": "Rashbam on Bava Batra 32b:6:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ו:ב",
+              "sourceRef": "Rashbam on Bava Batra 32b:6:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר</strong> - לוה לערב וכי לא פרעתיך בתמיה:",
+              "ref": "Rashbam on Bava Batra 32b:6:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ו:ג",
+              "sourceRef": "Rashbam on Bava Batra 32b:6:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לאו הדרת ושקלתינהו מינאי</strong> - וכמי שלא פרעת דמי ולוה לא הודה לו בכך:",
+              "ref": "Rashbam on Bava Batra 32b:6:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ו:ד",
+              "sourceRef": "Rashbam on Bava Batra 32b:6:4"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ההוא דאמר ליה לחבריה מאי בעי' באהי ארעה אמר ליה מינך זבנתה והא שטרא א\"ל האי שטרא זייפא הוא רב האי גאון ז\"ל פירש וכן ר\"ח וכן כתב רב אלפס דלא שטרא זייפא ממש קאמר אלא שטר אמנה הוא דאי בעי אמר שטר מעליא הוא מצי אמר ומצי לקיומיה בבי דינא ומש\"ה מוקמינן ליה לארעא בידיה אבל שטרא זייפא ממש מודה רבה דחספא בעלמא הוא ולא אמר ביה מה לי לשקר ורשב\"ם פירש דה\"ה נמי שטרא זייפא ממש ומצי לקיומיה ע\"י העדים שחתמו לו שקר וגם הם יקיימוהו או הוא בעצמו זייף אותו עד שהעדים סבורים שהוא חתימת ידם ומסתבר טעמא דשטר אמנה פסול כמו שטר מזויף וכשאמר שטר אמנה הוא אומר רבה אם יקיימנו נאמן לומר שטר מעליא הוה לי ואירכס במיגו דאי בעי אומר שטר מעליא. דבלא קיום לא מזכי ליה רבה כיון דקאמר אידך שטרא זייפא הוא ואע\"ג דמודה שכתבו נאמן לומר שטר אמנה הוא במיגו דמזויף כל כמה דלא קיימיה וכיון דקיימיה אפילו מזויף ממש נמי. גחין ולחיש לרבה ואמר אין שטרא זייפא הוא אבל שטר מעליא הוה לי ואירכס ואמינא אינקט מיהת בידי שטרא כל דהו אמר רבה מה לו לשקר אי בעי אמר שטר מעליא הוא. א\"ל רב יוסף אמאי קסמכת אהאי שטרא האי שטרא חספא בעלמא הוא. פירש רשב\"ם ולא דמי לשאר מיגו שבגמרא ששתי הטענות יכולות להיות אמת אותה שטוען ואותה שיכול לטעון אבל הכא הוי כמיגו במקום עדים דכל כחו וחזקתו בקרקע זו ע\"י שטר זה והרי הודה שהוא פסול ואילו היו מעידים עדים שהוא פסול לא אמרינן מיגו וה\"ה נמי כיון שהודה. ודעת רשב\"ם דמחשב ממך זבנתה והא שטרא חד טענה כיון דאין לו כח בקרקע כי אם ע\"י השטר ואותה טענה נתבטלה בהודאתו כאילו עדים מבטלין אותה. ודמי לעובדא דלעיל זה אומר של אבותיו דלא מהימן למימר של אבותיו במיגו דאי בעי אמר מינך זבינתא ואכלית שני חזקה כיון דאיכא לאידך עדים שהיתה של אבותיו. וליתא להאי טעמא דעיקר טענתו היינו הא דקאמר מינך זבינתא והשטר אינו כי אם לראיה בעלמא וטענתו יכול לקיים במאי דקאמר שטרא מעליא הוא או בטענה אחרת ע\"י מיגו ואין הודאתו מכחשת טענתו כלל דהוה ליה למימר מיגו:",
+              "ref": "Rosh on Bava Batra 3:12:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:יב:א",
+              "sourceRef": "Rosh on Bava Batra 3:12:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והם עתה בידי הלווה, ואינו צריך לשלם. ומסופר על מקרה דומה: <b>ההוא ערבא דאמר ליה</b> <span class=\"hebrew-emphasis\">[ערב אחד שאמר לו]</span> <b>ללוה: הב</b> <span class=\"hebrew-emphasis\">[תן]</span> <b>לי מאה זוזי</b> <span class=\"hebrew-emphasis\">[זוזים]</span> ש<b>פרעתי למלוה עילוך</b> <span class=\"hebrew-emphasis\">[עליך,</span> בשבילך<span class=\"hebrew-emphasis\">],</span> <b>והא שטרא</b> <span class=\"hebrew-emphasis\">[והרי שטר</span> החוב שלך<span class=\"hebrew-emphasis\">]</span> שקיבלתי מידו לאחר שפרעתי. <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> הלווה: <b>לאו</b> <span class=\"hebrew-emphasis\">[האם לא]</span> <b>פרעתיך</b> את החוב הזה? <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> הערב: <b>לאו הדרת שקלתינהו מינאי</b> <span class=\"hebrew-emphasis\">[האם לא חזרת</span> ו<span class=\"hebrew-emphasis\">לקחת אותם</span> את המעות <span class=\"hebrew-emphasis\">ממני]?</span>",
+              "ref": "Steinsaltz on Bava Batra 32b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:ו",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The creditor gave the promissory note to the guarantor for the purpose of collecting from the debtor (Rashbam). Some early commentaries understand that the creditor wrote in the promissory note: I received payment, and I transfer to the guarantor my right to collect. Otherwise, the debt to the guarantor would have the status of a loan by oral agreement (Rashba). Alternatively, without it being expressly noted that the creditor received payment, the promissory note itself would not be sufficient evidence that the guarantor had paid the debt (Rabbeinu Yona).",
+              "he": "והלווה אינו מודה שחזר ולווה, ואם כן יש ביד הערב רק שטר שהוא עצמו מודה שנפרע בזמנו. והכלל הוא ששטר שנפרע — בטל כוחו לגמרי, שכבר \"נמחל שעבודו\" ואינו יכול לשמש אפילו להלוואה אחרת באותו סכום.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 32b:6",
+              "sourceHeRef": "וְהָא שְׁטָרָא",
+              "sourceRef": "And this is the document"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates: There was <b>a certain guarantor who said to a debtor: Give me one hundred dinars</b> for the money <b>that I repaid the creditor on your</b> behalf, <b>and this</b> is <b>the document</b> that I received from him when I repaid your debt. The debtor <b>said to</b> the guarantor: <b>Is it not</b> so that <b>I repaid you?</b> The guarantor <b>said</b> to the debtor: Yes, you did, but <b>is it not</b> so that <b>you later took the</b> money <b>from me</b> again?",
+      "he": "הָהוּא עָרְבָא דַּאֲמַר לֵיהּ לְלֹוֶה: הַב לִי מְאָה זוּזִי דִּפְרַעְתִּי לְמַלְוֶה עִילָּוָךְ, וְהָא שְׁטָרָא. אֲמַר לֵיהּ: לָאו פְּרַעְתָּיךְ? אֲמַר: לָאו הֲדַרְתְּ שְׁקַלְתִּינְהוּ מִינַּאי?",
+      "ref": "Bava Batra 32b:6"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following laws apply when the lender produces a promissory note whose authenticity has been verified demanding payment from a colleague, the borrower replies: \"Did I not pay you,\" and the lender answers: \"You did, but I returned the money to you and then lent it to you a second time.\" The promissory note that he repaid is nullified, and it is likened to a shard.<br>If, however, the lender says: \"I returned the money to you, because the coins were not good so that you could exchange them,\" he did not nullify the promissory note, and the lien it created still exists.",
+              "he": "הַמּוֹצִיא שְׁטַר חוֹב מְקֻיָּם עַל חֲבֵרוֹ וְאָמַר הַלּוֶֹה הֲלֹא פְּרָעְתִּיךָ וְאָמַר לוֹ הַמַּלְוֶה כֵּן הָיָה אֲבָל חָזַרְתִּי וְהֶחְזַרְתִּי לְךָ הַמָּעוֹת וְהִלְוֵיתִי אוֹתְךָ פַּעַם שְׁנִיָּה הֲרֵי בָּטֵל הַשְּׁטָר שֶׁנִּפְרַע וַהֲרֵי הוּא כְּחֶרֶס. אֲבָל אִם אָמַר לוֹ הֶחְזַרְתִּי לְךָ הַמָּעוֹת מִפְּנֵי שֶׁלֹּא הָיוּ טוֹבוֹת עַד שֶׁתַּחֲלִיפֵם לֹא בָּטֵל הַשְּׁטָר וַעֲדַיִן שִׁעְבּוּדוֹ קַיָּם:",
+              "ref": "Mishneh Torah, Creditor and Debtor 14:8",
+              "sourceHeRef": "הלכות מלווה ולווה יד:ח",
+              "sourceRef": "Creditor and Debtor 14:8"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כה\"ג מאי</strong> - דלא דמי כל כך לשטר מלוה דלעיל דפסקינן כרב יוסף דהתם מודה היה בעל השטר ששטר אחר היה לו ונאבד ולקח את זה להיות בידו לזכות ואותו מזויף הוא ממש דלא נכתב על מלוה זה הלכך הפסיד דהיכא דקיימי זוזי תיקום אבל הכא לא היה לערב שטר אחר מעולם כי אם זה והלכך אע\"ג דפרעינהו כיון דהדר שקלינהו כאילו לא פרעינהו דמי וחייב לפרעו או דלמא מ\"מ מודה הוא שפרעו וקיימא לן שטר שלוה בו ופרעו אינו חוזר ולוה בו שכבר נמחל שעבודו והאי שטרא חספא בעלמא הוא:",
+              "ref": "Rashbam on Bava Batra 32b:7:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ז:א",
+              "sourceRef": "Rashbam on Bava Batra 32b:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלח ליה אביי והא את הוא דאמרת הלכתא כוותיה דרב יוסף בזוזי</strong> - שמעינן מהכא דשטרא זייפא דאיירי בה רבה ורב יוסף לאו זייפא ממש דהוא שקר וכי זייף וכתב בכה\"ג לדברי הכל ואפי' לרבה פסול הוא אלא כה\"ג כגון שטר פרוע שנמחל שעבודו או כגון שטר אמנה שלא ניתן ליכתב וכיוצא בהן פליגי רבה ורב יוסף ואביי משוה ליה להאי שטרא כשטרא דאיירי ביה רבה ורב יוסף ואמר כיון דמודה הערב דפרע אלא הדר ושקלינהו להנהו זוזי אע\"פ שהשטר ביד הערב לא מחייבינן ללוה לשלומי כן פי' ר\"ח ולי נראה דה\"ה לזייפא ממש וקפסיק גמרא ואזיל:",
+              "ref": "Rashbam on Bava Batra 32b:7:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ז:ב",
+              "sourceRef": "Rashbam on Bava Batra 32b:7:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a promissory note was used for a loan and then repaid, it may not be used again. For the lien it created was already waived, and it is likened to a shard.",
+                      "he": "שְׁטָר שֶׁלָּוָה בּוֹ וּפְרָעוֹ אֵינוֹ חוֹזֵר וְלוֶֹה בּוֹ שֶׁכְּבָר נִמְחַל שִׁעְבּוּדוֹ וְנַעֲשָׂה כְּחֶרֶס:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 14:7",
+                      "sourceHeRef": "הלכות מלווה ולווה יד:ז",
+                      "sourceRef": "Creditor and Debtor 14:7"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "<b>That We Write the Outline of Documents, 1 Seif:</b> If a scribe desires to write outlines of documents so that they will be accessible to him, he may do so. He can write everything that is contained in the document: the names of the borrower and lender and the description of the money. He must leave the place for the date blank so that the document will not be predated. With respect to a document that was written for one loan and was paid back, however, one cannot re-borrow with it even if it was all on the same day and was therefore not predated because once the lien is waived one cannot re-borrow with the document. If the borrower paid back a portion of the loan, he cannot use the same document to re-borrow that portion because that lien on that portion was already waived. <i>RAMA: There are those that say that concept of the lien being waived only applies for the original kinyan. Thus, if the borrower made a second kinyan, he may re-borrow with the document. (Mordechai, Perek 'Kol HaGet') This applies even if they did not actually make a kinyan but the borrower simply gave the document to the lender in front of witnesses according to the view that the witnesses of transfer are primary even with respect to ordinary documents. (Mordechai Perek 'HaKotev') (See later Siman 51.</i>",
+                      "he": "סופר שבא לכתוב טופסי שטרות כדי שיהיו מצויים אצלו הרשות בידו ויכול לכתוב הכל שם הלוה והמלוה והמעות רק שיניח מקום הזמן שלא יהיה מוקדם אבל שטר שנכתב על הלואה אחת ונפרע אינו יכול לחזור וללות בו אפילו אם הכל ביום א' שאינו מוקדם שכיון שנמחל שעבודו אינו חוזר ולוה בו ואם פרע מקצת חובו אינו חוזר ולוה בו באותו שטר אותו מקצת דהוי נמחל שעבודו לאותו מקצת: <span class=\"hebrew-emphasis\">הגה ויש מי שאומר הא דנמחל שיעבודו היינו הקנין הראשון ולכן אם חזר וקבל קנין יכול לחזור וללות בו (מרדכי פ' כל הגט) ואפי' לא חזר והקנה לו רק שחזר ומסרו לו בפני עדים למ\"ד עידי מסירה עיקר אפי' בשטרות (מרדכי פרק הכותב) (וע' לקמן סי' נ\"א)</span>:",
+                      "ref": "Shulchan Arukh, Choshen Mishpat 48:1",
+                      "sourceHeRef": "חושן משפט מח:א - שכותבין טופסי שטרות.",
+                      "sourceRef": "Choshen Mishpat 48:1"
+                    }
+                  ]
+                }
+              },
+              "en": "2. A document that one borrowed with and repaid cannot be reused to borrow again, as was explained in Siman 48. If the borrower says he paid back and the lender says it is true but the lender gave the borrower the money back, the lender has admitted that the lien has been waived and he cannot collect with the document. If, however, the lender says I returned the money to you so that you could exchange it because the money would only be accepted in a pressing situation, the document is still valid.",
+              "he": "שטר שלוה בו ופרעו אינו חוזר ולוה בו כמו שנתבאר בסי' מ\"ח ואם אמר לו הלוה פרעתי והשיב המלוה כן היה אבל החזרתים לך הרי מודה שנמחל שעבודו ואינו גובה בו אבל אם אמר החזרתים לך שתחליפם לי מפני שלא היו המעות יוצאים אלא ע\"י הדחק השטר קיים:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 57:2",
+              "sourceHeRef": "חושן משפט נז:ב - דין שאסור להשהות שטר פרוע",
+              "sourceRef": "Choshen Mishpat 57:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שלחה</b> <b>רב אידי בר אבין</b> את השאלה הזו <b>לקמיה</b> <span class=\"hebrew-emphasis\">[לפני]</span> <b>אביי: כי האי גוונא מאי</b> <span class=\"hebrew-emphasis\">[כגון זה מהו]?</span> <b>שלח ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>אביי: מאי תיבעי ליה</b> <span class=\"hebrew-emphasis\">[מה תישאל,</span> תסתפק <span class=\"hebrew-emphasis\">לו]?</span> <b>הא איהו</b> <span class=\"hebrew-emphasis\">[הרי הוא</span> עצמו<span class=\"hebrew-emphasis\">]</span> זה ש<b>אמר</b> כי <b>הלכתא כוותיה</b> <span class=\"hebrew-emphasis\">[הלכה כשיטתו]</span> של <b>רבה בארעא</b> <span class=\"hebrew-emphasis\">[בקרקע],</span> <b>והלכתא כוותיה</b> <span class=\"hebrew-emphasis\">[והלכה כשיטתו]</span> של <b>רב יוסף בזוזי</b> <span class=\"hebrew-emphasis\">[בכספים],</span> וטעמו: <b>דהיכא דאוקמו זוזי לוקמו</b> <span class=\"hebrew-emphasis\">[שהיכן שנמצאים הכספים שיימצאו</span> הלאה<span class=\"hebrew-emphasis\">].</span> ואף כאן ישאר הכסף בידי הלווה!",
+              "ref": "Steinsaltz on Bava Batra 32b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:ז",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:7"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-idi-b-avin-(i)\" class=\"namedEntityLink\" data-slug=\"rav-idi-(ambiguous)\">Rav Idi bar Avin</span> sent</b> the following question <b>before <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span>: What</b> is the <i>halakha</i> in <b>a case like this? <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> sent him</b> the following response: <b>What does he,</b> i.e., <span href=\"/topics/rav-idi-b-avin-(i)\" class=\"namedEntityLink\" data-slug=\"rav-idi-(ambiguous)\">Rav Idi bar Avin</span>, <b>ask? Isn’t he</b> the one <b>who said: The <i>halakha</i></b> is <b>in accordance with</b> the opinion <b>of <span href=\"/topics/rabbah-b-nachmani\" class=\"namedEntityLink\" data-slug=\"rabbah-b-nachmani\">Rabba</span> with regard to land, and the <i>halakha</i></b> is <b>in accordance with</b> the opinion <b>of <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> with regard to money,</b> as the court rules <b>that</b> the <b>money</b> should <b>remain where</b> it <b>is?</b> Based on his own ruling, the money should remain with the debtor.",
+      "he": "שַׁלְחַהּ <span href=\"/topics/rav-idi-b-avin-(i)\" class=\"namedEntityLink\" data-slug=\"rav-idi-(ambiguous)\">רַב אִידִי בַּר אָבִין</span> לְקַמֵּיהּ <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">דְּאַבָּיֵי</span>: כִּי הַאי גַוְונָא מַאי? שְׁלַח לֵיהּ אַבָּיֵי: מַאי תִּיבְּעֵי לֵיהּ? הָא אִיהוּ דְּאָמַר: הִלְכְתָא כְּווֹתֵיהּ דְּרַבָּה בְּאַרְעָא, וְהִלְכְתָא כְּווֹתֵיהּ דְּרַב יוֹסֵף בְּזוּזֵי – דְּהֵיכָא דְּאוֹקְמוּ זוּזֵי, לוֹקְמוּ!",
+      "ref": "Bava Batra 32b:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">יִזַף</strong>, <strong dir=\"rtl\">זִיף</strong>, (<strong dir=\"rtl\">זוּף</strong>) Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, *יָזַף 1\" href=\"/Jastrow,_*יָזַף.1\">same</span> <br><b>1)</b> <i>to borrow</i>. <span class=\"refLink\" data-ref=\"Onkelos Deuteronomy 15:6\" href=\"/Onkelos_Deuteronomy.15.6\">Targum Onkelos Devarim XV, 6</span>; <span class=\"refLink\" data-ref=\"Onkelos Deuteronomy 28:12\" href=\"/Onkelos_Deuteronomy.28.12\">ib. XXVIII, 12</span> <span dir=\"rtl\">תְזִיף</span> (some ed. <span dir=\"rtl\">תְזוּף</span>); Yerushalmi ib. <span dir=\"rtl\">למֵיזוֹף</span>.—Part. <span class=\"refLink\" data-ref=\"Jastrow, יְזִיף 1\" dir=\"rtl\" href=\"/Jastrow,_יְזִיף.1\">יָזֵיף</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on II Kings 4:1\" href=\"/Targum_Jonathan_on_II_Kings.4.1\">Targum Sheni (to Esther) Kings IV, 1</span> (ed. Lag. <span dir=\"rtl\">מוֹזִיף</span> <i>Af</i>.).—<span class=\"refLink\" data-ref=\"Bava Metzia 64a:3\" href=\"/Bava_Metzia.64a.3\">Bava Metzia 64ᵃ</span> <span dir=\"rtl\">כי יְזִיף וכ׳</span> if this man shall borrow money of thee. <span class=\"refLink\" data-ref=\"Kiddushin 20a:20\" href=\"/Kiddushin.20a.20\">Kiddushin 20ᵃ</span> <span dir=\"rtl\">ולא נֵיזִיף וכ׳</span> (some ed. <span dir=\"rtl\">נוֹזִיף</span>, see infra) rather than borrow on interest. <span class=\"refLink\" data-ref=\"Eruvin 65a:15\" href=\"/Eruvin.65a.15\">Eruvin 65ᵃ</span> הוה י׳ ופרע Manuscript Munich (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l.) borrowed and paid off (made up by night for neglect of study by day). <span class=\"refLink\" data-ref=\"Taanit 12b\" href=\"/Taanit.12b\">Taanit 12ᵇ</span> לֵיזוֹף מר וכ׳ Manuscript Munich (ed. <span dir=\"rtl\">לוֹזִיף</span>) borrow and pay back (postpone your fast for another day); and from <br><b><br>—2)</b> <i>to lend</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Deuteronomy 15:2\" href=\"/Targum_Jonathan_on_Deuteronomy.15.2\">Targum Yonatan Devarim XV, 2</span> <span dir=\"rtl\">דְּיִזּוֹף ב־</span>.—<span class=\"refLink\" data-ref=\"Shabbat 119a:5\" href=\"/Shabbat.119a.5\">Shabbat 119ᵃ</span> <span dir=\"rtl\">מאן דיזיף שבתא וכ׳</span> (Manuscript Munich <span dir=\"rtl\">לשב׳</span>, Buxt. <span dir=\"rtl\">דיוֹזִיף</span>) him who lends to the Sabbath (incurring an additional expense in honoring the Sabbath), the Sabbath will repay; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 16\" href=\"/Yalkut_Shimoni_on_Torah.16\">Yalkut Breishit 16</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 356\" href=\"/Yalkut_Shimoni_on_Nach.356\">Yalkut Isaiah 356</span>.<br></br> <strong>Af.</strong> - <strong dir=\"rtl\">אוֹזִיף</strong> <br><b>1)</b> <i>to borrow</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 37:21\" href=\"/Aramaic_Targum_to_Psalms.37.21\">Targum Psalms XXXVII, 21</span>.—<span class=\"refLink\" data-ref=\"Bava Batra 32b:8\" href=\"/Bava_Batra.32b.8\">Bava Batra 32ᵇ</span> <span dir=\"rtl\">הדרת אוֹזַפְתִּינְהוּ מינאי</span> (Rashb. <span dir=\"rtl\">הדר יזפתינהו</span>, Manuscript Munich <span dir=\"rtl\">שקלתינהו</span>) thou hast borrowed it again of me. <span class=\"refLink\" data-ref=\"Bava Metzia 63b:6\" href=\"/Bava_Metzia.63b.6\">Bava Metzia 63ᵇ</span> <span dir=\"rtl\">האי מאן דאו׳ וכ׳</span> (Manuscript Hamburg <span dir=\"rtl\">דיזיף</span>) if one borrowed &c. <span class=\"refLink\" data-ref=\"Kiddushin 20a\" href=\"/Kiddushin.20a\">Kiddushin 20ᵃ</span>; <span class=\"refLink\" data-ref=\"Taanit 12b\" href=\"/Taanit.12b\">Taanit 12ᵇ</span>, see supra.—<span class=\"refLink\" data-ref=\"Eichah Rabbah 1:26\" href=\"/Eichah_Rabbah.1.26\">Eicha Rabbah to I, 2</span> <span dir=\"rtl\">אוֹזְפִיתוּן</span>, see <span class=\"refLink\" data-ref=\"Jastrow, חוֹבָא 1\" dir=\"rtl\" href=\"/Jastrow,_חוֹבָא.1\">חוֹבָא</span>.—<span class=\"refLink\" data-ref=\"Vayikra Rabbah 3:1\" href=\"/Vayikra_Rabbah.3.1\">Vayikra Rabbah section (Parashah) 3</span> beginning <span dir=\"rtl\">דיוֹזִיף וכ׳</span> some ed. he who borrows on interests. <br><b><br>—2)</b> <i>to lend</i>. <span class=\"refLink\" data-ref=\"Onkelos Deuteronomy 15:6\" href=\"/Onkelos_Deuteronomy.15.6\">Targum Onkelos Devarim XV, 6</span>. <span class=\"refLink\" data-ref=\"Onkelos Deuteronomy 15:8\" href=\"/Onkelos_Deuteronomy.15.8\">Ib. 8</span> <span dir=\"rtl\">אוֹזָפָא תּוֹזְפִינֵּיה</span> (Yerushalmi <span dir=\"rtl\">מוּזְפָא תּוּז׳</span>). Ib. XXVIII, 12; and e.—<span class=\"refLink\" data-ref=\"Aramaic Targum to Proverbs 19:17\" href=\"/Aramaic_Targum_to_Proverbs.19.17\">Targum Mishlei XIX, 17</span> נְיוֹזִיף Manuscript (ed. <span class=\"refLink\" data-ref=\"Jastrow, נְזַף 1\" dir=\"rtl\" href=\"/Jastrow,_נְזַף.1\">נְזִיף</span>).—<span class=\"refLink\" data-ref=\"Bekhorot 8b\" href=\"/Bekhorot.8b\">Bekhoroth 8ᵇ</span> <span dir=\"rtl\">גברא דאו׳ וטרף דהדר מוֹזִיף …</span> he who once lent money and had to resort to seizing (see <span class=\"refLink\" data-ref=\"Jastrow, טְרַף I 1\" href=\"/Jastrow,_טְרַף I.1\"><span dir=\"rtl\">טְרַף</span> I</span>), why does he lend again?; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, יִזַף 1",
+              "sourceHeRef": "מילון יסטרוב, יִזַף א׳",
+              "sourceRef": "Jastrow, יִזַף 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">שַׁיְפָא</strong>, <strong dir=\"rtl\">שַׁיְיפָא</strong>, <strong dir=\"rtl\">שְׁיָיאפָא</strong>) Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, שִׁיף 1\" href=\"/Jastrow,_שִׁיף.1\">same</span>. <span class=\"refLink\" data-ref=\"Avodah Zarah 52b:12\" href=\"/Avodah_Zarah.52b.12\">Pirkei Avot Zar. 52ᵇ</span>; <span class=\"refLink\" data-ref=\"Bekhorot 50a:10\" href=\"/Bekhorot.50a.10\">Bekhoroth 50ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, טְרָיָינָא 1\" dir=\"rtl\" href=\"/Jastrow,_טְרָיָינָא.1\">טְרָיָינָא</span>; Yalkut Ezekiel 346.—plural <span dir=\"rtl\">שַׁיְפֵי</span>, <span class=\"refLink\" data-ref=\"Jastrow, שַׁיִשׁ ² 1\" dir=\"rtl\" href=\"/Jastrow,_שַׁיִשׁ ².1\">שַׁיְי׳</span>. <span class=\"refLink\" data-ref=\"Bava Batra 32b:8\" href=\"/Bava_Batra.32b.8\">Bava Batra 32ᵇ</span> <span dir=\"rtl\">דהוו ש׳ וסומקי</span> because they were abraded and red."
+              ],
+              "he": [],
+              "ref": "Jastrow, שַׁיְפָא 1",
+              "sourceHeRef": "מילון יסטרוב, שַׁיְפָא א׳",
+              "sourceRef": "Jastrow, שַׁיְפָא 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following laws apply when the lender produces a promissory note whose authenticity has been verified demanding payment from a colleague, the borrower replies: \"Did I not pay you,\" and the lender answers: \"You did, but I returned the money to you and then lent it to you a second time.\" The promissory note that he repaid is nullified, and it is likened to a shard.<br>If, however, the lender says: \"I returned the money to you, because the coins were not good so that you could exchange them,\" he did not nullify the promissory note, and the lien it created still exists.",
+              "he": "הַמּוֹצִיא שְׁטַר חוֹב מְקֻיָּם עַל חֲבֵרוֹ וְאָמַר הַלּוֶֹה הֲלֹא פְּרָעְתִּיךָ וְאָמַר לוֹ הַמַּלְוֶה כֵּן הָיָה אֲבָל חָזַרְתִּי וְהֶחְזַרְתִּי לְךָ הַמָּעוֹת וְהִלְוֵיתִי אוֹתְךָ פַּעַם שְׁנִיָּה הֲרֵי בָּטֵל הַשְּׁטָר שֶׁנִּפְרַע וַהֲרֵי הוּא כְּחֶרֶס. אֲבָל אִם אָמַר לוֹ הֶחְזַרְתִּי לְךָ הַמָּעוֹת מִפְּנֵי שֶׁלֹּא הָיוּ טוֹבוֹת עַד שֶׁתַּחֲלִיפֵם לֹא בָּטֵל הַשְּׁטָר וַעֲדַיִן שִׁעְבּוּדוֹ קַיָּם:",
+              "ref": "Mishneh Torah, Creditor and Debtor 14:8",
+              "sourceHeRef": "הלכות מלווה ולווה יד:ח",
+              "sourceRef": "Creditor and Debtor 14:8"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וה\"מ</strong> - דאמרינן היכא דקיימי זוזי תיקום ולא מיחייב לוה לפרוע לערב היכא דטעין ערב כדאמר לעיל דאמר פרעתינהו אבל הדר יזפתינהו מנאי דערב גופיה מודה שהשטר שבידו נמחל שעבודו:",
+              "ref": "Rashbam on Bava Batra 32b:8:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ח:א",
+              "sourceRef": "Rashbam on Bava Batra 32b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל</strong> - אי טעין ערב אני החזרתי לך אותם מעות עצמן משום דהוו שיפי נישוף צורתן ולא היו יוצאין בהוצאה כמו השף מטבע של חבירו <span class=\"parenthesized\">(ב\"ק דף צח.)</span>:",
+              "ref": "Rashbam on Bava Batra 32b:8:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ח:ב",
+              "sourceRef": "Rashbam on Bava Batra 32b:8:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וסומקי</strong> - האדים נחשתן יותר מדאי נמצא שעדיין לא פרעו:",
+              "ref": "Rashbam on Bava Batra 32b:8:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ח:ג",
+              "sourceRef": "Rashbam on Bava Batra 32b:8:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אכתי איתיה לשעבודא דשטרא</strong> - וכאילו טעין לא פרעתני דמי:",
+              "ref": "Rashbam on Bava Batra 32b:8:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ח:ד",
+              "sourceRef": "Rashbam on Bava Batra 32b:8:4"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a promissory note was used for a loan and then repaid, it may not be used again. For the lien it created was already waived, and it is likened to a shard.",
+                      "he": "שְׁטָר שֶׁלָּוָה בּוֹ וּפְרָעוֹ אֵינוֹ חוֹזֵר וְלוֶֹה בּוֹ שֶׁכְּבָר נִמְחַל שִׁעְבּוּדוֹ וְנַעֲשָׂה כְּחֶרֶס:",
+                      "ref": "Mishneh Torah, Creditor and Debtor 14:7",
+                      "sourceHeRef": "הלכות מלווה ולווה יד:ז",
+                      "sourceRef": "Creditor and Debtor 14:7"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "<b>That We Write the Outline of Documents, 1 Seif:</b> If a scribe desires to write outlines of documents so that they will be accessible to him, he may do so. He can write everything that is contained in the document: the names of the borrower and lender and the description of the money. He must leave the place for the date blank so that the document will not be predated. With respect to a document that was written for one loan and was paid back, however, one cannot re-borrow with it even if it was all on the same day and was therefore not predated because once the lien is waived one cannot re-borrow with the document. If the borrower paid back a portion of the loan, he cannot use the same document to re-borrow that portion because that lien on that portion was already waived. <i>RAMA: There are those that say that concept of the lien being waived only applies for the original kinyan. Thus, if the borrower made a second kinyan, he may re-borrow with the document. (Mordechai, Perek 'Kol HaGet') This applies even if they did not actually make a kinyan but the borrower simply gave the document to the lender in front of witnesses according to the view that the witnesses of transfer are primary even with respect to ordinary documents. (Mordechai Perek 'HaKotev') (See later Siman 51.</i>",
+                      "he": "סופר שבא לכתוב טופסי שטרות כדי שיהיו מצויים אצלו הרשות בידו ויכול לכתוב הכל שם הלוה והמלוה והמעות רק שיניח מקום הזמן שלא יהיה מוקדם אבל שטר שנכתב על הלואה אחת ונפרע אינו יכול לחזור וללות בו אפילו אם הכל ביום א' שאינו מוקדם שכיון שנמחל שעבודו אינו חוזר ולוה בו ואם פרע מקצת חובו אינו חוזר ולוה בו באותו שטר אותו מקצת דהוי נמחל שעבודו לאותו מקצת: <span class=\"hebrew-emphasis\">הגה ויש מי שאומר הא דנמחל שיעבודו היינו הקנין הראשון ולכן אם חזר וקבל קנין יכול לחזור וללות בו (מרדכי פ' כל הגט) ואפי' לא חזר והקנה לו רק שחזר ומסרו לו בפני עדים למ\"ד עידי מסירה עיקר אפי' בשטרות (מרדכי פרק הכותב) (וע' לקמן סי' נ\"א)</span>:",
+                      "ref": "Shulchan Arukh, Choshen Mishpat 48:1",
+                      "sourceHeRef": "חושן משפט מח:א - שכותבין טופסי שטרות.",
+                      "sourceRef": "Choshen Mishpat 48:1"
+                    }
+                  ]
+                }
+              },
+              "en": "2. A document that one borrowed with and repaid cannot be reused to borrow again, as was explained in Siman 48. If the borrower says he paid back and the lender says it is true but the lender gave the borrower the money back, the lender has admitted that the lien has been waived and he cannot collect with the document. If, however, the lender says I returned the money to you so that you could exchange it because the money would only be accepted in a pressing situation, the document is still valid.",
+              "he": "שטר שלוה בו ופרעו אינו חוזר ולוה בו כמו שנתבאר בסי' מ\"ח ואם אמר לו הלוה פרעתי והשיב המלוה כן היה אבל החזרתים לך הרי מודה שנמחל שעבודו ואינו גובה בו אבל אם אמר החזרתים לך שתחליפם לי מפני שלא היו המעות יוצאים אלא ע\"י הדחק השטר קיים:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 57:2",
+              "sourceHeRef": "חושן משפט נז:ב - דין שאסור להשהות שטר פרוע",
+              "sourceRef": "Choshen Mishpat 57:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>והני מילי דאמר ליה</b> <span class=\"hebrew-emphasis\">[ודברים אלה</span> אמורים דווקא באופן <span class=\"hebrew-emphasis\">שאומר לו]</span> הערב: הרי <b>הדרת אוזפתינהו מינאי</b> <span class=\"hebrew-emphasis\">[אתה חזרת</span> ו<span class=\"hebrew-emphasis\">לוית אותה ממני],</span> ואם כן הוא בא לטעון על חוב חדש, בשטר שהוא עצמו מודה בחוסר תקפותו. <b>אבל</b> אם <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]:</span> <b>הדרתינהו ניהלך</b> <span class=\"hebrew-emphasis\">[החזרתי לך]</span> את הכספים הללו שפרעת לי <b>מחמת דהוו שייפי וסומקי</b> <span class=\"hebrew-emphasis\">[שהיו משופשפים ואדומים]</span> ורציתי לקבל מטבעות טובים יותר, ובעצם לא קיבלתי ממך עדיין את הסכום שפרעתי עבורך, במקרה כזה <b>אכתי איתיה לשעבודא דשטרא</b> <span class=\"hebrew-emphasis\">[עדיין נמצא שעבוד השטר</span> הראשון<span class=\"hebrew-emphasis\">]</span> בתוקפו,",
+              "ref": "Steinsaltz on Bava Batra 32b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:ח",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If Reuven produces a promissory note stating that Shimon borrowed money from him, and Shimon claims that he repaid the loan, and Reuven concedes that it had been repaid but claims that he granted the debtor a second loan, since Reuven concedes that the debt in the promissory note had been repaid, he may not use it to collect the second debt. By contrast, if Reuven claims that he returned the money given as repayment because the currency was somewhat unusable, then the promissory note is still in effect, and it may be used for collection (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot Malve VeLoveh</i> 14:8; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 57:2).",
+              "he": "\"שייפי\" — שהיו משופשפים ואין צורתם ניכרת, ויש קושי להשתמש במטבעות כאלה. ו\"סומקי\", פירש הרשב\"ם: שהיתה הנחושת אדומה מדי, ורגמ\"ה פירש שמדובר במטבעות נחושת שהיו מצופים בחומר אחר ונשתפשפו עד שנתגלתה הנחושת שבהם. וכתב רבינו יונה שאף שניתן להשתמש במטבעות בדוחק, כל עוד ברור שההלוואה לא נפרעה ממש, כגון שהערב אינו מתרצה במה שקיבל (וכן במקרה שקיבל ארנק חתום בלא לבדוק את תוכנו. ריטב\"א בשם רא\"ה) — לא נמחל השיעבוד.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 32b:8",
+              "sourceHeRef": "הָדְרַתְּ אוֹזַפְתִּינְהוּ",
+              "sourceRef": "You later borrowed the money"
+            },
+            {
+              "en": "",
+              "he": "המוציא שטר חוב על חבירו, וטען הלווה: פרעתי, ואמר המלווה: אבל חזרת ולווית ממני פעם שניה, כיון שהמלווה מודה שנפרע שטר זה — בטל שיעבודו ואין גובים בו. אבל אם טען הלווה: החזרתים לך מפני שלא היו המטבעות טובות כל כך (וכל שכן אם אינן טובות כלל. ש\"ך) וביקשתי שתחליפן — לא בטל השטר ויכול לגבות בו. (רמב\"ם ספר משפטים   הלכות מלוה ולווה פי\"ד ה\"ח. שו\"ע חו\"מ נז, ב).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 32b:8",
+              "sourceHeRef": "דאמר ליה הדרת אוזפתינהו וכו'",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara notes: <b>And this matter</b> applies only in a case <b>where</b> the guarantor <b>says to</b> the debtor: <b>You later borrowed</b> the money <b>from me</b> after you had repaid me. <b>But</b> if the guarantor <b>said to</b> the debtor: <b>I returned to you</b> the money that you had repaid me <b>because</b> of the fact <b>that</b> the coins <b>were worn out or</b> overly <b>reddish,</b> i.e., discolored, and would not be easily accepted as currency, then <b>the lien of the document is still</b> in effect. The debt to the guarantor had not actually been repaid, and the document is still in effect. In that case, the guarantor collects from the debtor.",
+      "he": "וְהָנֵי מִילֵּי, דְּאָמַר לֵיהּ: הֲדַרְתְּ אוֹזִפְתִּינְהוּ מִינַּאי. אֲבָל אֲמַר לֵיהּ: הַדַּרְתִּינְהוּ נִיהֲלָךְ מֵחֲמַת דַּהֲווֹ שַׁיְיפִי וְסוּמָּקֵי – אַכַּתִּי אִיתֵיהּ לְשִׁעְבּוּדָא דִשְׁטָרָא.",
+      "ref": "Bava Batra 32b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">שַׁרְשׁוּם</strong> proper noun of a male person <i>Sharshum</i>. <span class=\"refLink\" data-ref=\"Bava Batra 32b:9\" href=\"/Bava_Batra.32b.9\">Bava Batra 32ᵇ</span> רבה בר ש׳ Manuscript Munich (ed. <span class=\"refLink\" data-ref=\"Jastrow, רְבֵי 1\" dir=\"rtl\" href=\"/Jastrow,_רְבֵי.1\">רבא</span>; Manuscript Hamburg <span dir=\"rtl\">שרשו</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note)."
+              ],
+              "he": [],
+              "ref": "Jastrow, שַׁרְשׁוּם 1",
+              "sourceHeRef": "מילון יסטרוב, שַׁרְשׁוּם א׳",
+              "sourceRef": "Jastrow, שַׁרְשׁוּם 1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "A rumor emerged concerning [Rava bar] Sharshom that he was profiting from land belonging to orphans - as it goes on to explain: it had been in his possession as collateral until now, when the years of the collateral have expired. Thus a rumor -- which was indeed true fact -- emerged, that from now on has been profiting from land belonging to orphans.",
+              "he": "<strong class=\"dibur-hamatchil\">שרשום נפיק עליה קלא דקאכיל ארעא דיתמי</strong> - כדמפרש לקמיה דבמשכון היתה אצלו עד עכשיו שכלו שני משכנתא והלכך נפק עליה קול של עדות אמת דמהשתא אכיל ארעא דיתמי:",
+              "ref": "Rashbam on Bava Batra 32b:9:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ט:א",
+              "sourceRef": "Rashbam on Bava Batra 32b:9:1"
+            },
+            {
+              "en": "Collateral - collected from their father within the framework of the mortgage of Sura, in which they write this: \"Upon the completion of these years [of the mortgage] this land shall leave [the creditor’s possession and return to its owner] without [the debtor paying any] money.\" [Bava Metzia 110a:8] [Rava bar Sharshom said:] I profited, during their father's life, for the years necessary for establishing the presumption of ownership.",
+              "he": "<strong class=\"dibur-hamatchil\">משכנתא</strong> - גבאי מאבוהון הוה במשכנתא דסורא דכתבי הכי במשלם שניא אלין תיפוק ארעא דא בלא כסף ובימי אביהם אכלתיה שני חזקה:",
+              "ref": "Rashbam on Bava Batra 32b:9:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ב ב:ט:ב",
+              "sourceRef": "Rashbam on Bava Batra 32b:9:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ותירץ הריב\"ם דלא אמרינן מיגו לאפוקי ממונא ואע\"ג שהוא מוחזק בקרקע אין זו חזקה דקרקע בחזקת בעליה עומדת ואין לו ראיה עליה לא שטר ולא חזקה אלא שטר מזויף זה הלכך אין להוציא הקרקע מיד הבעלים ע\"י מיגו. דלא אמרינן מיגו אלא לאוקמי ממונא כגון שבא חבירו להוציא ממנו בשטר והוא יכול לפטור עצמו על ידי מיגו וכן אם יש לו ראיה בשטר או חזקה ושכנגדו בא לפוסלו והוא יכול לקיימו על ידי מיגו כגון אם אמר קמאי דידי זבנה מינך במיגו דאי בעי אמר מינך זבנתה ואכלתיה שני חזקה. וכגון זה אומר של אבותיו וזה אומר של אבותיו ואייתי חד מינייהו סהדי דאכלה שני חזקה מהימנינן ליה להאי דאית ליה שני חזקה במיגו דאי בעי אמר מינך זבנתיה ואכלתיה שני חזקה מהימן נמי למימר דשל אבותיו היא. ומיהו אע\"פ שדברי הריב\"ם אמת אין לשון הגמרא מורה על פירוש זה. הלכך נראה לפרש דהיינו טעמא דרב יוסף דסבר דלא אמרינן מיגו כי האי כיון דליכא מיגו אם לא שישקר תחלה כי הכא שהוצרך לשקר תחלה ולומר שטרא מעליא הוא. והיינו דקאמר רב יוסף אמאי קסמכת אהאי שטרא כלומר במה אתה רוצה לזכותו בשטר זה האי שטרא זייפא הוא והואיל וכן הוא אין לנו להאמינו במה שהיה יכול לשקר יותר ממה שהוא משקר שהוציא שטר מזויף בב\"ד. ונראה לי ליישב לישנא דגמרא לפי תירוץ הריב\"ם והכי קאמר אמאי קסמכת אהאי שטרא כלומר אמאי סמכת להיות יותר מוחזק בזו הקרקע להאמינך במיגו להעמיד הקרקע בידך אהאי שטרא האי שטרא חספא בעלמא הוא ונמצא שאינך מוחזק וקרקע בחזקת בעליה עומדת ואתה בא להוציא מידם ע\"י מיגו ולא אמרינן מיגו להוציא: ההוא דא\"ל לחבריה הב לי מאה זוזי דאוזפיתך והא שטרא. אמר ליה שטרא זייפא הוא גחין ולחיש ליה לרבה אין שטרא זייפא הוא ומיהו שטרא מעליא הוה לי ואירכס ואמינא אנקוט מיהת בידי כל דהו. אמר רבה מה לו לשקר אי בעי אמר שטרא מעליא הוא. אמר ליה רב יוסף אמאי סמכת אהאי שטרא האי שטרא חספא בעלמא הוא. א\"ר אידי הלכתא כוותיה דרבה בארעא והלכתא כוותיה דרב יוסף בזוזי הלכתא כוותיה דרבה בארעא דהיכא דקיימא ארעא תיקום. דכיון דקאמר שטרא מעליא הוא זכה בקרקע שהוא מחזיק בו ואע\"ג דבתר הכי קאמר שטרא זייפא הוא אמרינן מיגו להעמיד הקרקע בידו והלכתא כוותיה דרב יוסף בזוזי היכא דקיימי זוזי לוקמי ואע\"ג דזכה בתביעתו כי אמר שטרא מעליא מ\"מ אכתי מיחסר גוביינא הלכך כי קאמר בתר הכי שטרא זייפא הוא לא אמרינן מיגו לאפוקי ממונא:",
+              "ref": "Rosh on Bava Batra 3:13:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:יג:א",
+              "sourceRef": "Rosh on Bava Batra 3:13:1"
+            },
+            {
+              "en": "",
+              "he": "ערבא דאמר ליה ללוה הב לי ק' זוזי דפרעתי למלוה עילווך והא שטרא. פירוש שטר שהיה לו למלוה עילווך ונתנו לי כשפרעתיו כדי שאגבה ממך וערב קבלן הוה דממי שירצה המלוה יפרע. פרשב\"ם והרי אתה משועבד לי בשטר זה כמו שהיית משועבד לו וצ\"ל שנזכר הערבות בשטר דאל\"כ מהיכן אנו יודעין שהוא ערב או שמא מיירי שמודה לו ששם אותו ערב או שיש לו שטר ערבות עליו ושטר מלוה שבידו מוכיח שפרע למלוה. וה\"ר יונה ז\"ל פירש דמיירי שכתב לו המלוה התקבלתי דאי לאו הכי היה יכול הלוה לטעון שמא לא פרעת למלוה כלום ושטר זה אצלך בפקדון או שמא הוא מסר לך שטר זה ואין אותיות נקנות במסירה:",
+              "ref": "Rosh on Bava Batra 3:14:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:יד:א",
+              "sourceRef": "Rosh on Bava Batra 3:14:1"
+            },
+            {
+              "en": "",
+              "he": "רבה בר שרשום נפיק עליה קלא דקאכיל ארעא דיתמי קול היה יוצא שאביהן משכנה לו וכלו שני המשכנתא והיה מחזיק בה שלא כדין. אתא לקמיה דאביי א\"ל אימא לי איזי גופא דעובדא היכי הוה א\"ל האי ארעא משכנתא הות גבאי מאבוהון דיתמי והוה לי זוזי אחריני גביה ויש לי בהן שטר. ואמינא אי מהדרנא ארעא ליתמי ואמינא הבו לי זוזי אמרו רבנן הבא ליפרע מנכסי יתומים לא יפרע אלא בשבועה ואע\"ג דאלו יתומים קטנים היו מדקא א\"ל אביי לכי גדלי יתמי וא\"כ אפילו בשבועה אין נפרעין דאין נזקקין לנכסי יתומים אא\"כ רבית אוכלת בהן רבה בר שרשום לא היה חושש על המתנת פרעון אלא על השבועה אלא אמינא אכבשיה לשטר משכנתא שאם היה ידוע שבתורת משכנתא באתה לידו לא הוה מצי למימר לקוחה היא בידו לעולם מידי דהוה אאומן שאין לו חזקה בדבר שהוא אומן ואריס דאין לו חזקה בשדה שידוע שירד לתוכה בתורת אריסות וכן דברים העשויין להשאיל ולהשכיר וגודרות וגזלן כיון דידעינן שבתורת גזלנות באתה לידו. ואוכלה שיעור זוזאי:",
+              "ref": "Rosh on Bava Batra 3:16:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:טז:א",
+              "sourceRef": "Rosh on Bava Batra 3:16:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשום כך צריך הנתבע לשלם, שעדיין לא נמחל חובו. מסופר: <b>רבא בר שרשום נפק עליה קלא דקא אכיל ארעא דיתמי</b> <span class=\"hebrew-emphasis\">[יצא עליו קול שהוא אוכל,</span> נהנה, <span class=\"hebrew-emphasis\">מקרקע של יתומים],</span> <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>אביי: אימא</b> <span class=\"hebrew-emphasis\">[אמור]</span> <b>לי איזי</b> <span class=\"hebrew-emphasis\">[ידידי],</span> <b>גופא דעובדא היכי הוה</b> <span class=\"hebrew-emphasis\">[גוף המעשה איך היה]?</span> <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]:</span> <b>ארעא במשכונתא הוה נקיטנא מאבוהון דיתמי</b> <span class=\"hebrew-emphasis\">[</span>את <span class=\"hebrew-emphasis\">הקרקע במשכון הייתי מחזיק מאבי היתומים],</span> <b>והוה</b> <span class=\"hebrew-emphasis\">[והיו]</span> <b>לי</b>",
+              "ref": "Steinsaltz on Bava Batra 32b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ב ב:ט",
+              "sourceRef": "Steinsaltz on Bava Batra 32b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This refers to a mortgage according to the custom in Sura, a city in Babylonia. This was an arrangement whereby the creditor held the debtor’s land and consumed its produce for a period of time as gradual repayment of the loan. When the produce consumed equaled the amount of the debt, the creditor would return the land to the debtor (Rashbam).",
+              "he": "מדובר כאן ב\"משכנתא דסורא\", שהלווה ממשכן קרקע ביד המלווה, והמלווה אוכל מפירות הקרקע במשך זמן מסויים עד שהוא מוציא מן הפירות את דמי החוב, ואז מחזיר את הקרקע לבעליה (רשב\"ם).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 32b:9",
+              "sourceHeRef": "אַרְעָא בְּמַשְׁכּוֹנְתָּא",
+              "sourceRef": "The land as collateral"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>נפק עליה קלא דקא אכיל ארעא דיתמי—There was a rumor</b> concerning <b>him</b><b>that he was illegally consuming</b> the produce <b>of orphans’ lands</b><br><br>O<small>VERVIEW</small><br>רבא בר שרשוםwas in possession of a property, which was mortgaged to him, and he was (simultaneously) collecting his (mortgage) debt by consuming its produce. There was a rumor circulating that this property belongs to orphans (who inherited it from their father), and that רב\"ש was illegally harvesting the produce (for his mortgage debt was already paid up). תוספות clarifies what the rumor alleged.<br>-------------------------<br><b>פירוש יצא הקול שהוא של יתומים –</b><br><b>The explanation is that a rumor was spread that the</b> properties, רבא בר שרשום was consuming, <b>belonged to the orphans.</b> The rumor alleged that it was known that the orphans inherited the property.<br><b>אבל אין לפרש דיצא הקול דמתחלה היה של אביהם אבל עכשיו לא היו יודעין –</b><br><b>However, it cannot mean that the rumor was that originally it belonged to their father</b> (of the orphans); <b>however</b> the rumor <b>did not indicate</b> to whom it belonged to <b>now.</b> This cannot be the meaning of דיתמי ארעא אכיל דקא קלא עליה נפק –<br><b>דאם כן הוה מצי למימר לקוחה היא בידי:</b><br><b>For if it were so</b>, that the rumor was merely that these properties once belonged to the father of the orphans (but not that it presently belongs to the orphans), then שרשום בר רבא <b>could have claimed I purchased it</b> from their father. The גמרא later states that ש\"רב does not have the מיגו of בידי היא לקוחה, on account of the rumor. If the rumor was merely that it belonged to their father, why would that preclude him from claiming that he bought it from the father?! This proves that the rumor was that it presently belongs to the orphans. That is why he does not have the מיגו of בידי היא לקוחה.<br><br>S<small>UMMARY</small><br>The rumor was that the property [currently] belongs to the orphans.<br><br>T<small>HINKING IT OVER</small><br>1. Why would one (even) think that that the rumor was merely that it once belonged to the father?<br>How did the rumor allege that it presently belongs to the יתומים?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 32b:9:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נפק עליה קלא דקא אכיל ארעא דיתמי</strong> - פירוש יצא הקול שהוא של יתומים אבל אין לפרש דיצא הקול דמתחלה היה של אביהם אבל עכשיו לא היו יודעין דא\"כ הוה מצי למימר לקוחה היא בידי:",
+              "ref": "Tosafot on Bava Batra 32b:9:1",
+              "sourceHeRef": "תוספות על בבא בתרא ל״ב ב:ט:א",
+              "sourceRef": "Tosafot on Bava Batra 32b:9:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates: <b>A rumor emerged concerning <span href=\"/topics/rava-b-sharshom\" class=\"namedEntityLink\" data-slug=\"rava-b-sharshom\">Rava bar Sharshom</span> that</b> he <b>was profiting</b> from <b>land belonging to orphans. <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said to him: Tell me, my friend,</b> concerning <b>the incident itself, how is it</b> that this rumor was generated? <span href=\"/topics/rava-b-sharshom\" class=\"namedEntityLink\" data-slug=\"rava-b-sharshom\">Rava bar Sharshom</span> <b>said to him: I was holding</b> on to <b>the land as collateral from the father of the orphans, and I had</b>",
+      "he": "<span href=\"/topics/rava-b-sharshom\" class=\"namedEntityLink\" data-slug=\"rava-b-sharshom\">רָבָא בַּר שַׁרְשׁוּם</span> נָפֵק עֲלֵיהּ קָלָא דְּקָא אָכֵיל אַרְעָא דְיַתְמֵי. אֲמַר לֵיהּ אַבָּיֵי: אֵימָא לִי אִיזִי, גּוּפָא דְעוֹבָדָא הֵיכִי הֲוָה? אֲמַר לֵיהּ: אַרְעָא בְּמַשְׁכַּנְתָּא הֲוָה נָקֵיטְנָא מֵאֲבוּהוֹן דְּיַתְמֵי; וַהֲוָה לִי",
+      "ref": "Bava Batra 32b:9"
+    }
+  ],
+  "title": "Bava Batra 32b",
+  "titleHebrew": "בבא בתרא לב,ב",
+  "topics": []
+}

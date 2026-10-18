@@ -1,0 +1,1382 @@
+{
+  "id": "108b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיסופא מי לית ליה</strong> - דקא מיכסיף מן המלוה תמיד הלכך אי רבנן היא דאמרי דלענין חוב לוה ע\"מ לפרוע ופרע חברו בשבילו חייב לשלם וגבי מודר הנאה מחילה היא ואסיר כי לוה ע\"מ שלא לפרוע נמי הנאה היא ומחילה מחיל גביה ואסיר אלא חנן היא ובין בחוב העומד לפרוע בין בעומד שלא לפרוע לית ליה גביה מידי ולאו מחילה היא ואע\"ג דסלקיה מפרעון ומכיסופא:",
+              "ref": "Rashi on Ketubot 108b:1:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:א:א",
+              "sourceRef": "Rashi on Ketubot 108b:1:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה כיסופא מי לית לי' </b>וקשיא לן וכי משום סליק כיסופא חשיבא הנאה להאסו' במודר הנאה נמי. וי\"ל כיסופא מי לית לי' הא ודאי כ\"ש דמכסיף וחשוב כמשעבד לי טפי למפרעי' ולמ\"ד דפורע חובו בעלמא חשיב מהנה לפי שפוטרו משעבוד הכא נמי פוטרו משעבודו חשיב מהני ומיהו אנן כחנן קיי\"ל שהוא שאף פורע חובו פטור ואפי' במלוה שיש עליה משכון ואפי' בבעל חוב דוחק כמו שהביאו ראי' בירושלמי:",
+              "ref": "Ritva on Ketubot 108b:1",
+              "sourceHeRef": "ריטב\"א על כתובות ק״ח ב:א",
+              "sourceRef": "Ritva on Ketubot 108b:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>כיסופא מי לית ליה</b> <span class=\"hebrew-emphasis\">[בושה האם אין לו]</span> ללווה שאינו פורע? <b>התם נמי</b> <span class=\"hebrew-emphasis\">[שם גם כן]</span> לענין מודר הנאה <b>אית ליה</b> <span class=\"hebrew-emphasis\">[יש לו]</span> <b>הנאה בההיא</b> <span class=\"hebrew-emphasis\">[באותה]</span> <b>הנאה דמיכסיף מיניה</b> <span class=\"hebrew-emphasis\">[ש</span>הוא <span class=\"hebrew-emphasis\">מתבייש ממנו].</span>",
+              "ref": "Steinsaltz on Ketubot 108b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:א",
+              "sourceRef": "Steinsaltz on Ketubot 108b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומדברי רש\"י משמע שלדברי חכמים, כיון שמתבייש מן המלוה כשאינו יכול לפרוע לו, ופרעון החוב הוא ביטול בושה זו, אם כן גם כאשר אין בעל החוב דוחק, מכל מקום מתבייש הלווה ממנו, והמסלק בושתו גורם לו הנאה בכך. ולשון \"התם נמי וכו'\", קשה קצת, וראה בהגהות ר\"ב רנשבורג שהעיר שנראה שלא היה משפט זה לפני הראשונים. והריטב\"א תהה על עיקר דברים אלה, ומפרש בדרך אחרת — שהלווה על מנת שלא לפרוע מתבייש יותר, וגרוע בעיניו הדבר יותר מזה שהגיע זמן התשלום ואינו יכול לפרוע עדיין.",
+              "ref": "Steinsaltz comment #1 on Ketubot 108b:1",
+              "sourceHeRef": "כיסופא מי לית ליה וכו'",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>doesn’t he have shame</b> due to his failure to repay the debt? <b>There too,</b> in the case of one prohibited by a vow, <b>he has benefit;</b> namely, the <b>benefit that he is ashamed before him</b> until the loan is repaid.",
+      "he": "כִּיסּוּפָא מִי לֵית לֵיהּ? הָתָם נָמֵי אִית לֵיהּ הֲנָאָה בְּהָהִיא הֲנָאָה דְּמִיכְּסִיף מִינֵּיהּ.",
+      "ref": "Ketubot 108b:1"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בא ונלך למדתן של נשים מה שנאמר אח\"כ <span class=\"parenthesized\">(שמות כ״א:ז׳)</span> וכי ימכור איש את בתו לאמה וגו' אם רעה בעיני אדוניה וכו' והפדה וגו' אם אחרת יקח לו שארה וגו'. אשרי אדם שכל מעשיו לש\"ש הלב יודע אם לעקל אם לעקלקלות שנאמר אם אחרת יקח לו שארה כסותה ועונתה לא יגרע. פעם אחת הייתי יושב בבית המדרש בירושלים לפני החכמים והיינו עוסקים בעסקי נשים אמרתי להם דבר זה שלא יהא נוהג בה באמה העבריה כמו שהוא נוהג בשפחה כנענית שלא יאמר לה הליכי דמים והביאי לי ירק מן השוק. ואמר לי מפני מה ואמרתי להן רבותי מפני שהאשה משלמת א\"ע ועוברת עבירה בשביל סעודה לפי שעה בזמן שהרעב בעולם ואומרת אין בכך כלום שנאמר <span class=\"parenthesized\">(איכה ה׳:י׳-י״א)</span> עורנו כתנור נכמרו מפני זלעפות רעב וכתיב בתריה נשים בציון ענו בתולות בערי יהודה וכי מה ענין זה אצל זה אלא לומר לך שכל זמן שהרעב בעולם אשה משלמת את עצמה ועוברת עבירה בשביל סעודה לפי שעה ואומרת אין בכך כלום לכך נאמר עורנו כתנור נכמרו מפני זלעפות רעב וכתיב בתריה נשים בציון ענו וגו'. מאותה שעה תקנו חכמים ואמרו הלכה מי שמת והניח בנים ובנות בזמן שהנכסים מרובים הבנים יירשו את הכל והבנות יזונו ובזמן שהנכסים מועטים הבנות יזונו והבנים ישאלו על הפתחים אדמון אומר בשביל שאני זכר הפסדתי אמר רבן גמליאל רואה אני את דברי אדמון. מכאן אמרו כל בית שיש בו אמה העבריה מריבה ביניהם ואינו מוצא קורת רוח בעולם שנאמר וכי ימכור איש את בתו לאמה וגו' וכתיב בתריה וכי יריבון אנשים וגו' וכי מה ענין זה לזה אלא ללמדך כל בית שיש בו אמה העבריה מריבה ביניהם ואינו מוצא קורת רוח בעולם לכך נאמר וכי ימכור איש את בתו לאמה וכתיב בתריה וכי יריבון אנשים וגו'. ד\"א וכי יריבון אנשים והכה איש את רעהו באבן או באגרוף וגו' רק שבתו יתן ורפא ירפא וכי יכה איש את עבדו וגו' ומת וגו' נקם ינקם וגו'. אמרתי להם רבותי מכאן לרופא שרפא את החולה ושליח ב\"ד שהכה במקלות ארבעים והרב הרודה את תלמידו ודיין וכהן העובד ע\"ג המזבח שהרגו את הנפש במזיד כולן יעברו ממלאכתן וילכו ויעשו מלאכה אחרת ואם חזרו ועשו תשובה מרפאין אותן ואם לאו עונשין אותן אפילו על הממון שלהם שהוא הדבר הקל לכך נאמר וכי יריבון אנשים והכה איש את רעהו וגו' וכי יכה איש את עבדו וגו' ומת וגו' נקם וגו'. ועוד אמרתי להם רבותי מה כתיב אח\"כ וכי ינצו אנשים ונגפו אשה הרה ויצאו ילדיה ולא יהיה אסון ענוש יענש וגו' ואם אסון יהיה וגו' וכי יכה איש את עין עבדו וגו' ואם שן עבדו או שן אמתו יפיל לחפשי ישלחנו תחת שנו. מכאן לחיה שהרגה את הנפש במזיד מוציאין אותה ואם חזרה ועשתה תשובה ומוצאין בה סימנין מרפאין אותה ואם לאו עונשין אותה אפילו על ממון שלה שהוא דבר הקל לכך נאמר וכי ינצו אנשים ונגפו אשה הרה ויצאו ילדיה וגו' ואם אסון יהיה וגו' עד לחפשי ישלחנו תחת שנו. וכיון שבאו ישראל וראו שרחמיו של הקב\"ה מרובין אמרו אלו היינו זכויין לא עברה השכינה מבינינו לעולם אבל כשהיו ישראל במצרים ובמדבר הן היו תמימי דרך בדבר וכך כשעמדו אבותינו על הר סיני הן היו תמימי דרך בדבר לכך פייסן תחלה ואח\"כ ערך לפניהם נזיקין וכל מדות הדין ואח\"כ אמרו ברוך ה' אלקי ישראל אלקים צבאות יושב הכרובים אתה הוא אלקים לבדך בתבונה. וכשהיו ישראל במצרים נתקבצו כולם וישבו יחד משום שהיו כלם באגודה אחת וכרתו ברית יחד שיעשו ג\"ח זה עם זה וישמרו בלבם ברית אברהם יצחק ויעקב ולעבוד את אביהם שבשמים לבדו ושלא יניחו לשון בית יעקב אביהן ושלא ילמדו לשון מצרים מפני דרכי ע\"א. כיצד כשהיו ישראל עובדין את אביהן שבשמים לבדו במצרים ולא היו משנים לשונם היו המצריים אומרים להם למה לא תעבדו את אלקי מצרים ויקל עבודתו מכם משיבין ישראל ואומרים להם וכי שמא עזבו אברהם יצחק ויעקב אבותינו את אלקינו שבשמים שיעזבו בניהם אחריהם אותו ואמרו להם המצריים לאו ואמרו להם ישראל לא עזבו אבותינו את אלקינו שבשמים כן אנחנו לא נעזוב אותו. וכשהיו שומרים ישראל את ברית אלקיהם שבשמים ומלין את בניהם במצרים ואמרו להם המצריים אם לא תשמרו ולא תמולו שמא תקל העבודה הקשה מכם היו ישראל משיבין ואומרים להם שמא שכחו אבותינו את ברית אלקינו שבשמים שישכחו בניהם אחריהם ואמרו להם לאו ואמרו להם ישראל כשם שלא שכחו אבותינו כך לא נשכח אנחנו לעולם: ד\"א כשהיו ישראל מלין את בניהם במצרים היו המצריים אומרים להם למה אתם מלין את בניכם והלא לאחר שעה יהא משליכין אותו בנהר ואומרים להם ישראל אנחנו נמול אותם ואח\"כ עשו להם כרצונכם. וכשהיו ישראל עושין ז' ימי המשתה היו המצריים אומרים להם למה אתם עושים ז' ימי משתה והלא לאחר שעה מוציאין אותו לעינוי ואמרו להם ישראל אנחנו נעשה שבעת ימי משתה ואח\"כ עשו לנו כרצונכם המת ימות והנהרג יהרג והבא בחיים יחיה כל אותן דברים היו המצריים מחרפין אותם את ישראל ומכין אותם ופוגעין להם וסוערין להם ואין לישראל מנוס מפניהם שנאמר <span class=\"parenthesized\">(תהילים מ״ד:י״ד)</span> תשימנו חרפה לשכנינו לעג וקלס לסביבותינו וגו' כל זאת באתנו ולא שכחנוך ולא שקרנו בבריתך וגו' כי דכיתנו במקום תנים זה פרעה מלך מצרים וכל המצריים ותכס עלינו בצלמות אלו חיים של צער אם שכחנו שם אלקינו ונפרוש כפינו לאל זר וגו' כי עליך הורגנו כל היום נחשבנו כצאן טבחה עורה למה תישן וגו'. כי בזמן שישראל עושין רצונו של אביהם שבשמים מה נאמר בהם הנה לא ינום ולא יישן שומר ישראל <span class=\"parenthesized\">(תהילים קכ״א:ד׳)</span> וכשאין עושין רצונו של מקום מה נאמר בהם עורה למה תישן וגו':",
+              "ref": "Tanna DeBei Eliyahu Rabbah 23:1",
+              "sourceHeRef": "תנא דבי אליהו רבה כג:א",
+              "sourceRef": "Tanna DeBei Eliyahu Rabbah 23:1"
+            },
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס' בד\"ה</b> אמר ר\"ג כו' ור\"ח וה\"ג ורב אלפס פסקו כרבנן כו' ור\"ת אומר כו' עכ\"ל ר\"ל דר\"ת הוסיף לומר אההוא פסקא כרבנן דאדמון משום דאדמון גופיה לא פליג וכדי ליישב ההוא כללא דכתובות דכ\"מ שאמר ר\"ג רואה כו' הלכה כמותו ודו\"ק:",
+                      "ref": "Chidushei Halachot on Bava Batra 139b:3",
+                      "sourceHeRef": "חדושי הלכות על בבא בתרא קל״ט ב:ג",
+                      "sourceRef": "Chidushei Halachot on Bava Batra 139b:3"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a man dies leaving both sons and daughters, the sons inherit his estate, and it is their responsibility to provide their sisters with support until they reach the age of <i>bagrut</i>, or until they become consecrated.<br>When does this apply? When the estate is large enough to provide both the sons and the daughters with their sustenance until the daughters reach the age of <i>bagrut</i>. This is called an ample estate.<br>If, however, the estate contains only a lesser amount, the funds necessary to support the daughters until they reach the age of <i>bagrut</i> are set aside, and the remainder is given to the sons. If the estate contains only enough to provide for the support of the daughters, the daughters are entitled to their sustenance until they reach <i>bagrut</i> or until they become consecrated, and the sons should beg for their support.",
+                      "he": "מִי שֶׁמֵּת וְהִנִּיחַ בָּנִים וּבָנוֹת יִירְשׁוּ הַבָּנִים כָּל הַנְּכָסִים וְהֵם זָנִין אֶת אַחְיוֹתֵיהֶם עַד שֶׁיִּבְגְּרוּ אוֹ עַד שֶׁיִּתְאָרְסוּ. בַּמֶּה דְּבָרִים אֲמוּרִים בְּשֶׁהִנִּיחַ נְכָסִים שֶׁאֶפְשָׁר שֶׁיִּזּוֹנוּ מֵהֶם הַבָּנִים וְהַבָּנוֹת כְּאַחַת עַד שֶׁיִּבְגְּרוּ הַבָּנוֹת וְאֵלּוּ הֵן הַנִּקְרָאִין נְכָסִים מְרֻבִּין. אֲבָל אִם אֵין בַּנְּכָסִים שֶׁהִנִּיחַ אֶלָּא פָּחוֹת מִזֶּה מוֹצִיאִין מֵהֶם מְזוֹנוֹת לַבָּנוֹת עַד שֶׁיִּבְגְּרוּ וְנוֹתְנִין הַשְּׁאָר לַבָּנִים. וְאִם אֵין שָׁם אֶלָּא כְּדֵי מְזוֹן הַבָּנוֹת בִּלְבַד הַבָּנוֹת נִזּוֹנוֹת מֵהֶן עַד שֶׁיִּבְגְּרוּ אוֹ עַד שֶׁיִּתְאָרְסוּ וְהַבָּנִים יִשְׁאֲלוּ עַל הַפְּתָחִים:",
+                      "ref": "Mishneh Torah, Marriage 19:17",
+                      "sourceHeRef": "הלכות אישות יט:יז",
+                      "sourceRef": "Marriage 19:17"
+                    }
+                  ]
+                },
+                "Rashba": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בזמן שהנכסים מרובין הבנים יירשו והבנות ניזונות.</b> כלומר, תחת יד הבנים. ואין מייחדין להם מזונות. דאי לא אמאי תנא תרי בבי, נכסים מרובין ונכסים מועטין, ליתני בין שהנכסים מרובין בין שהנכסים מועטין הבנות נזונות. ועוד דהכין מוכחכ בגמרא בהדיא, דאמרינן ואי אין בהן כדי שיזונו אלו ואלו עד שיבגרו שקלן להו בנות לכולהו, ואמר רבא <span class=\"parenthesized\">(מביאין)</span> [מוציאין להם מזונות] לבנות עד שיבגרו והשאר נותנין לבנים, אלמא בנכסים מועטין הוא שמוציאין ונותנים לבנות, אבל במרובין לא, אלא ניזונות תחת יד הבנים, ואין חוששין שמא ימכרו הבנים או ימעטו באכילתן ולא ימצאו הבנות במה ש[י]זונו, [אלא אלו ואלו ניזונין ואוכלין אפילו עד פרוטה אחרונה, וכדאמרינן בגמרא פשיטא מרובין ונ[ת]מעטו כבר זכו בהן יורשין.",
+                      "ref": "Rashba on Bava Batra 139b:2",
+                      "sourceHeRef": "רשב״א על בבא בתרא קל״ט ב:ב",
+                      "sourceRef": "Rashba on Bava Batra 139b:2"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>הבנות ניזונות והבנים ישאלו על הפתחים.</b> ר\"ש ז\"ל הכניס פרנסת הבנות בכלל המזונות, שכן כתב, הבנות נזונות עד שינשאו ונוטלות עישור נכסים. והרמב\"ן ז\"ל תפש עליו, דההיא פרנסה מיקרי, ולא אמרי בה הבנים ישאלו על הפתחים, אלא הבנים יירשו ולכשיבוא לינשא לבעל נוטלות עישורן. ובאמת שאין הפרנסה בכלל המזונות, וכמו ששנינו בפרק יש נוחלין <span class=\"parenthesized\">(בבא בתרא קלט, א)</span> אין הגדולות מתפרנסות על הקטנות ולא הקטנות נזונות על הגדולות. אבל נראה שר\"ש ז\"ל לא פירש כן אלא נכסים מרובין, ולשונו מוכיח כן. ומיהו בירושלמי אמרו שהפרנסה ממעטת בנכסים, אלא שאין לוקחין משם ראיה, שכן אמרו שבעל חוב בין מלוה על פה בין מלוה בשטר ממעטין, ואילו בגמרין בעיא ולא איפשיטא ואין ממעטין.",
+                      "ref": "Rashba on Bava Batra 139b:3",
+                      "sourceHeRef": "רשב״א על בבא בתרא קל״ט ב:ג",
+                      "sourceRef": "Rashba on Bava Batra 139b:3"
+                    }
+                  ]
+                },
+                "Rashbam": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">מרובין</strong> - מפרש בגמרא:",
+                      "ref": "Rashbam on Bava Batra 139b:7:1",
+                      "sourceHeRef": "רשב\"ם על בבא בתרא קל״ט ב:ז:א",
+                      "sourceRef": "Rashbam on Bava Batra 139b:7:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">והבנות יזונו</strong> - מזונות ופרנסת נשואין עד דתבגרן או עד דתנסבן לגוברין כדתנן בכתובות <span class=\"parenthesized\">(ד' נב: נג:)</span>:",
+                      "ref": "Rashbam on Bava Batra 139b:7:2",
+                      "sourceHeRef": "רשב\"ם על בבא בתרא קל״ט ב:ז:ב",
+                      "sourceRef": "Rashbam on Bava Batra 139b:7:2"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">ישאלו</strong> - יחזרו על הפתחים:",
+                      "ref": "Rashbam on Bava Batra 139b:7:3",
+                      "sourceHeRef": "רשב\"ם על בבא בתרא קל״ט ב:ז:ג",
+                      "sourceRef": "Rashbam on Bava Batra 139b:7:3"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">בשביל שאני זכר הפסדתי</strong> - בתמיה ובגמ' מפרש מאי קאמר אלא לא אפסיד ונזונים יחד:",
+                      "ref": "Rashbam on Bava Batra 139b:7:4",
+                      "sourceHeRef": "רשב\"ם על בבא בתרא קל״ט ב:ז:ד",
+                      "sourceRef": "Rashbam on Bava Batra 139b:7:4"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">אמר רבן גמליאל כו'</strong> - והכי הלכתא כאדמון דאמר בפ' בתרא דכתובות כל מקום שאמר ר\"ג רואה אני את דברי אדמון הלכה כמותו:",
+                      "ref": "Rashbam on Bava Batra 139b:7:5",
+                      "sourceHeRef": "רשב\"ם על בבא בתרא קל״ט ב:ז:ה",
+                      "sourceRef": "Rashbam on Bava Batra 139b:7:5"
+                    }
+                  ]
+                },
+                "Steinsaltz": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<big>א משנה</big> <b>מי שמת והניח בנים ובנות, בזמן שהנכסים מרובין</b> — <b>הבנים יירשו</b> את הנכסים, <b>והבנות יזונו</b> מאותם הנכסים, לפי תנאי הכתובה. אם היו <b>נכסים מועטין</b> שאינם מספיקים לכל — <b>הבנות יזונו</b> מהם, <b>והבנים ישאלו על הפתחים</b> (יקבצו נדבות) אם אין להם דרך אחרת להשיג מזונות. <b>אדמון אומר:</b> וכי <b>בשביל שאני זכר הפסדתי?!</b> וראוי שבכל מקרה יזונו גם הבנים! <b>אמר רבן גמליאל: רואה</b> (מצדיק) <b>אני את דברי אדמון.</b>",
+                      "ref": "Steinsaltz on Bava Batra 139b:7",
+                      "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא קל״ט ב:ז",
+                      "sourceRef": "Steinsaltz on Bava Batra 139b:7"
+                    }
+                  ]
+                },
+                "Tosafot": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">מתני'</strong> - והבנות יזונו. מה שהזכיר רשב\"ם בהדי מזונות פרנסה אין נראה לריב\"ן דהא מזונות היינו אכילה ושתיה ופרנסה היינו מלבושין וצרכי הנשואין ותרי מילי נינהו כדאמר [בפ' מציאת האשה] <span class=\"parenthesized\">(כתובית ד' סח:)</span> מוציאין לפרנסה ואין מוציאין למזונות וקתני נמי הבנות נזונות ומתפרנסות וכן בכמה דוכתי משמע דתרי מילי נינהו:",
+                      "ref": "Tosafot on Bava Batra 139b:7:1",
+                      "sourceHeRef": "תוספות על בבא בתרא קל״ט ב:ז:א",
+                      "sourceRef": "Tosafot on Bava Batra 139b:7:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "אמר ר\"ג רואה אני את דברי אדמון בכתובות <span class=\"parenthesized\">(ד' קט.)</span> אמר כ\"מ שאמר ר\"ג רואה אני את דברי אדמון הלכה כמותו א\"ל רבא לרב נחמן אפי' בבריתא כו' מכל ההיא סוגיא משמע דהלכה כאדמון ותימה דהכא בגמרא כולה שמעתא כרבנן דאדמון ודלא כהלכתא דא\"ר <span class=\"parenthesized\">(יוסי)</span> א\"ר יוחנן יתומים שקדמו ומכרו בנכסים מועטים וכו' ובעיא נמי דר' ירמיה מר' אבא הויא אליבא דרבנן ואמר נמי בסוטה <span class=\"parenthesized\">(ד' כא.)</span> היכי דמי רשע ערום א\"ר <span class=\"parenthesized\">(יוסי)</span> א\"ר יוחנן זה המשיא עצה למכור בנכסים מועטים ור\"ח וה\"ג ורב אלפס פסקו כרבנן דאדמון דשמעתין דהכא כוותיהו אזלא ור\"ת אומר דאדמון לא פליג ארבנן אלא שמתמיה על התקנה שתקנו נכסים מועטין אבל מ\"מ כרבנן ס\"ל ולא משמע מדקאמר ר\"ג רואה אני את דברי אדמון [ועיין תוספות כתובות קח: סד\"ה אדמון]:",
+                      "ref": "Tosafot on Bava Batra 139b:7:2",
+                      "sourceHeRef": "תוספות על בבא בתרא קל״ט ב:ז:ב",
+                      "sourceRef": "Tosafot on Bava Batra 139b:7:2"
+                    }
+                  ]
+                },
+                "Tosefta": {
+                  "comments": [
+                    {
+                      "en": "A man who dies and leaves sons and daughters, when the property is large, the sons inherit and the daughters are fed and supported. How do the sons inherit? They [the court] don't say: \"If their father were still alive, he would have given them X\"—rather, they see each one as if he were their still living father [at the same social status], and pay them. How are the daughters fed and supported? They don't say: \"If their father were still alive, he would have given them X\"—rather, they see them as they are [now in social status] and so how much they need support, and pay them. Rabbi says: Each of [the daughters] takes a tenth of the property. Rabbi Yehudah says: If he married off his first daughter [with a certain dowry], he has to give to the second like what he gave to the first. They said to him: There are those who marry off their daughter and receive money, and those who marry off their daughter and pay after her money. And so Rabbi Yehudah used to say: One who marries off his daughter without explicit [stipulation of a dowry], he should not give her less than 5 selaim, for in the old days that was enough to buy for her everything she needs.",
+                      "he": "מי שמת והניח בנים ובנות בזמן שהנכסים מרובין הבנים ירשו והבנות ניזונות [ומתפרנסים] כיצד הבנים ירשו אין אומרים אילו היה אביהם קיים נותן להם כך וכך אלא רואים את א' כאילו הוא אביהם ונותנים להם כיצד הבנות ניזונות ומתפרנסות אין אומרים אילו היה אביהן קיים היה נותן להן כך וכך אלא רואין שכנגדן היאך מתפרנסות ונותנין להן רבי אומר כל אחת ואחת נוטלת עישור נכסים רבי יהודה אומר אם השיא את בת הראשונה ינתן לשניה כדרך שנתן לראשונה אמרו לו יש שמשיא את בתו ונוטל מעותיו [שמשיא] את בתו ונותן אחריה מעות וכן היה ר' יהודה אומר המשיא את בתו סתם לא יפחות לה מחמש סלעים שבראשונה היה לוקח [בה] כל צרכה.",
+                      "ref": "Tosefta Ketubot 6:1",
+                      "sourceHeRef": "תוספתא כתובות ו:א",
+                      "sourceRef": "Tosefta Ketubot 6:1"
+                    }
+                  ]
+                }
+              },
+              "en": "<strong>MISHNA:</strong> In the case of <b>one who died and left</b> behind both <b>sons and daughters, when the estate is large the sons inherit</b> the estate <b>and the daughters are provided with sustenance</b> from it according to the stipulations of the deceased’s marriage contract with their mother. With regard to <b>a small estate,</b> which is insufficient to provide for both the sons and the daughters, <b>the daughters are provided with sustenance. And</b> if <b>the sons,</b> who receive in this case neither inheritance nor sustenance, have no other means with which to support themselves, <b>they</b> go and <b>request</b> charity <b>at the doors. Admon says,</b> rhetorically: <b>I lost out</b> just <b>because I am male?</b> Rather, he holds that the sons also receive sustenance. <b>Rabban Gamliel said: I see</b> as correct <b>the statement of Admon.</b>",
+              "he": "<big><strong>מִי שֶׁמֵּת</strong></big> וְהִנִּיחַ בָּנִים וּבָנוֹת; בִּזְמַן שֶׁהַנְּכָסִים מְרוּבִּין – הַבָּנִים יִירְשׁוּ, וְהַבָּנוֹת יִזּוֹנוּ. נְכָסִים מוּעָטִין – הַבָּנוֹת יִזּוֹנוּ, וְהַבָּנִים יִשְׁאֲלוּ עַל הַפְּתָחִים. אַדְמוֹן אוֹמֵר: בִּשְׁבִיל שֶׁאֲנִי זָכָר, הִפְסַדְתִּי?! אָמַר רַבָּן גַּמְלִיאֵל: רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן.",
+              "link": "/Bava Batra/139b",
+              "ref": "Bava Batra 139b:7",
+              "sourceHeRef": "בבא בתרא קל״ט ב",
+              "sourceRef": "Bava Batra 139b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "In the case of <b>one who died and left</b> behind both <b>sons and daughters, when the estate is large the sons inherit</b> the estate <b>and the daughters are provided with sustenance</b> from it according to the stipulations of the deceased’s marriage contract with their mother. With regard to <b>a small estate,</b> which is insufficient to provide for both the sons and the daughters, <b>the daughters are provided with sustenance. And</b> if <b>the sons,</b> who receive in this case neither inheritance nor sustenance, have no other means with which to support themselves, <b>they</b> go and <b>request</b> charity <b>at the doors. Admon says,</b> rhetorically: <b>I lost out</b> just <b>because I am male?</b> Rather, he holds that the sons also receive sustenance. <b>Rabban Gamliel said: I see</b> as correct <b>the statement of Admon.</b>",
+              "he": "מִי שֶׁמֵּת וְהִנִּיחַ בָּנִים וּבָנוֹת, בִּזְמַן שֶׁהַנְּכָסִים מְרֻבִּים, הַבָּנִים יִירְשׁוּ וְהַבָּנוֹת יִזּוֹנוּ. נְכָסִים מֻעָטִין, הַבָּנוֹת יִזּוֹנוּ וְהַבָּנִים יִשְׁאֲלוּ עַל הַפְּתָחִים. אַדְמוֹן אוֹמֵר, בִּשְׁבִיל שֶׁאֲנִי זָכָר הִפְסַדְתִּי. אָמַר רַבָּן גַּמְלִיאֵל, רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן:",
+              "link": "/Mishnah Bava Batra/9",
+              "ref": "Mishnah Bava Batra 9:1",
+              "sourceHeRef": "משנה בבא בתרא ט:א",
+              "sourceRef": "Mishnah Bava Batra 9:1"
+            },
+            {
+              "en": "<b>Admon states</b> a dissenting opinion to that of the Rabbis in <b>seven</b> cases. The mishna elaborates: With regard to <b>one who died and left</b> behind both <b>sons and daughters, when the estate is large the sons inherit</b> the property <b>and the daughters are provided with sustenance</b> from it. <b>And with regard to a small estate,</b> which is insufficient to provide for both the sons and the daughters, <b>the daughters are provided with sustenance and the sons</b> have neither inheritance nor sustenance, and therefore, if they have no other means with which to support themselves, they must <b>go round</b> begging <b>at the doors. Admon says: Because I am a male,</b> will <b>I lose out? Rabban Gamliel said: I see</b> as correct <b>the statement of Admon.</b>",
+              "he": "אַדְמוֹן אוֹמֵר שִׁבְעָה. מִי שֶׁמֵּת וְהִנִּיחַ בָּנִים וּבָנוֹת, בִּזְמַן שֶׁהַנְּכָסִים מְרֻבִּין, הַבָּנִים יוֹרְשִׁים וְהַבָּנוֹת נִזּוֹנוֹת. וּבִנְכָסִים מֻעָטִים, הַבָּנוֹת יִזּוֹנוּ וְהַבָּנִים יְחַזְּרוּ עַל הַפְּתָחִים. אַדְמוֹן אוֹמֵר, בִּשְׁבִיל שֶׁאֲנִי זָכָר הִפְסָדְתִּי. אָמַר רַבָּן גַּמְלִיאֵל, רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן:",
+              "link": "/Mishnah Ketubot/13",
+              "ref": "Mishnah Ketubot 13:3",
+              "sourceHeRef": "משנה כתובות יג:ג",
+              "sourceRef": "Mishnah Ketubot 13:3"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If [the husband] desires to remain married to [his wife] after causing her to forfeit the fundamental requirement of the marriage contract, he must write her [a new <i>ketubah</i> for] 100 [<i>zuz</i>]. For it is forbidden for a man to live with his wife for even one moment without a <i>ketubah</i>, as we have explained.",
+              "he": "הֲרֵי שֶׁרָצָה לְקַיְּמָהּ אַחַר שֶׁהִפְסִידָה עִקַּר הַכְּתֻבָּה חוֹזֵר וְכוֹתֵב לָהּ מֵאָה. לְפִי שֶׁאָסוּר לָאָדָם לִשְׁהוֹת עִם אִשְׁתּוֹ שָׁעָה אַחַת בְּלֹא כְּתֻבָּה כְּמוֹ שֶׁבֵּאַרְנוּ:",
+              "ref": "Mishneh Torah, Marriage 11:17",
+              "sourceHeRef": "הלכות אישות יא:יז",
+              "sourceRef": "Marriage 11:17"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נכסים מועטין</strong> - מפרש בבבא בתרא שאין בהן פרנסת שנים עשר חדש לזכרים ולנקבות:",
+              "ref": "Rashi on Ketubot 108b:2:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ב:א",
+              "sourceRef": "Rashi on Ketubot 108b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הבנות יזונו והבנים ישאלו על הפתחים</strong> - תקנת חכמים היא:",
+              "ref": "Rashi on Ketubot 108b:2:2",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ב:ב",
+              "sourceRef": "Rashi on Ketubot 108b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הפסדתי</strong> - בתמיה:",
+              "ref": "Rashi on Ketubot 108b:2:3",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ב:ג",
+              "sourceRef": "Rashi on Ketubot 108b:2:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מתני'. </b> אדמון אומר בשביל שאני זכר הפסדתי כתב ר\"ת ז\"ל דאדמון לא פליג בעיקר הדין אלא שהוא תמה עליו והוצרכו לפרש כן משום דסוגיין דפ' מי שמת כדברי ת\"ק ואלו היה אדמון חולק תקשי לי' הא דאמרינן. בכאן חסר. והנכון שאם אינו חלק מה זה שאמר רבן גמליאל רואה אני את דברי אדמון מפני תמיהתו לבד אלא ודאי פליג דלית הלכתא כוותי' אלא בסוגי' דפרק מי שמת ואי משום כללא דלקמן כבר אמרו ז\"ל שאין סומכין על הכללו' ואפי' במקום שנאמר חוץ וסוגי' דהתם עדיפא מההיא כללא לימא תיהוי תיובתא דר\"נ. וא\"ת מאי קשיא דאמר לך אנא דאמרי כאדמון שהלכה כמותו לפום כללא דלקמן מן הסתם. תרצו בתוספת דמשמע לן השתא שלא אמר אדמון אלא בקנקנים ושמן דהוה לי' כרימון בקליפ' ולא מחוור דהא לקמן חזר רב שימי בר אשי מהטעם ההוא והנכון דאנן משמע לן כ\"ע אמרה רב נחמן:",
+              "ref": "Ritva on Ketubot 108b:2",
+              "sourceHeRef": "ריטב\"א על כתובות ק״ח ב:ב",
+              "sourceRef": "Ritva on Ketubot 108b:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a man dies leaving both sons and daughters, the sons inherit his estate, and it is their responsibility to provide their sisters with support until they reach the age of <i>bagrut</i>, or until they become consecrated.<br>When does this apply? When the estate is large enough to provide both the sons and the daughters with their sustenance until the daughters reach the age of <i>bagrut</i>. This is called an ample estate.<br>If, however, the estate contains only a lesser amount, the funds necessary to support the daughters until they reach the age of <i>bagrut</i> are set aside, and the remainder is given to the sons. If the estate contains only enough to provide for the support of the daughters, the daughters are entitled to their sustenance until they reach <i>bagrut</i> or until they become consecrated, and the sons should beg for their support.",
+                      "he": "מִי שֶׁמֵּת וְהִנִּיחַ בָּנִים וּבָנוֹת יִירְשׁוּ הַבָּנִים כָּל הַנְּכָסִים וְהֵם זָנִין אֶת אַחְיוֹתֵיהֶם עַד שֶׁיִּבְגְּרוּ אוֹ עַד שֶׁיִּתְאָרְסוּ. בַּמֶּה דְּבָרִים אֲמוּרִים בְּשֶׁהִנִּיחַ נְכָסִים שֶׁאֶפְשָׁר שֶׁיִּזּוֹנוּ מֵהֶם הַבָּנִים וְהַבָּנוֹת כְּאַחַת עַד שֶׁיִּבְגְּרוּ הַבָּנוֹת וְאֵלּוּ הֵן הַנִּקְרָאִין נְכָסִים מְרֻבִּין. אֲבָל אִם אֵין בַּנְּכָסִים שֶׁהִנִּיחַ אֶלָּא פָּחוֹת מִזֶּה מוֹצִיאִין מֵהֶם מְזוֹנוֹת לַבָּנוֹת עַד שֶׁיִּבְגְּרוּ וְנוֹתְנִין הַשְּׁאָר לַבָּנִים. וְאִם אֵין שָׁם אֶלָּא כְּדֵי מְזוֹן הַבָּנוֹת בִּלְבַד הַבָּנוֹת נִזּוֹנוֹת מֵהֶן עַד שֶׁיִּבְגְּרוּ אוֹ עַד שֶׁיִּתְאָרְסוּ וְהַבָּנִים יִשְׁאֲלוּ עַל הַפְּתָחִים:",
+                      "ref": "Mishneh Torah, Marriage 19:17",
+                      "sourceHeRef": "הלכות אישות יט:יז",
+                      "sourceRef": "Marriage 19:17"
+                    },
+                    {
+                      "en": "Should a daughter marry and then leave her husband through the rite of <i>mi'un</i>, or be divorced, or be widowed - even if she is obligated to marry a <i>yavam</i> - since she returns to her father's home and has not reached the age of <i>bagrut</i>, she is entitled to support from her father's estate until she reaches the age of <i>bagrut</i> or until she becomes consecrated.",
+                      "he": "נִשֵּׂאת הַבַּת וּמֵאֲנָה אוֹ נִתְגָּרְשָׁה אוֹ נִתְאַלְמְנָה אֲפִלּוּ הִיא שׁוֹמֶרֶת יָבָם הוֹאִיל וְחָזְרָה לְבֵית אָבִיהָ וַעֲדַיִן לֹא בָּגְרָה הֲרֵי זוֹ נִזּוֹנֶת מִנִּכְסֵי אָבִיהָ עַד שֶׁתִּבָּגֵר אוֹ עַד שֶׁתִּתְאָרֵס:",
+                      "ref": "Mishneh Torah, Marriage 19:16",
+                      "sourceHeRef": "הלכות אישות יט:טז",
+                      "sourceRef": "Marriage 19:16"
+                    },
+                    {
+                      "en": "In <i>Hilchot Ishut,</i> we explained the laws pertaining to the portions of an estate given to daughters from the sons' share to provide for the daughters' sustenance? and for their livelihood. There' we explained that the sustenance of the daughters is one of the provisions of the <i>ketubah.</i><br>When the estate is ample,\" the daughters receive only their sustenance. The sons inherit everything, and they should give dowries to the daughters of a tenth of the estate each so that men will desire to marry them as husbands. When the estate is limited, the sons do not receive anything. Instead, everything is set aside for the daughters' sustenance.<br>Accordingly, the following rules apply when a person died and left sons, daughters and a <i>tumtum</i> or an <i>androgynous.</i> If the estate is ample, the sons inherit the estate and compel the <i>tumtum</i> to be treated as one of the daughters. He is given only his sustenance as they are. If the estate is limited, the daughters compel the <i>tumtum</i> to be treated as one of the sons. They tell him: \"You are a male and hence you are not entitled to receive your sustenance as we are.\"",
+                      "he": "כְּבָר בֵּאַרְנוּ בְּהִלְכוֹת אִישׁוּת דִּין הַבָּנוֹת עִם הַבָּנִים בִּמְזוֹנוֹתֵיהֶן וּבְפַרְנָסָתָן וְשָׁם בֵּאַרְנוּ שֶׁהַמְּזוֹנוֹת מִתְּנָאֵי כְּתֻבָּה. בִּזְמַן שֶׁהַנְּכָסִים מְרֻבִּין אֵין לַבָּנוֹת אֶלָּא מְזוֹנוֹתֵיהֶן וְהַבָּנִים יִירְשׁוּ הַכּל וְיִתְפַּרְנְסוּ הַבָּנוֹת בְּעִשּׂוּר נְכָסִים כְּדֵי שֶׁיִּנָּשְׂאוּ בּוֹ לְבַעְלֵיהֶן. וּבִזְמַן שֶׁהַנְּכָסִים מוּעָטִין אֵין לַבָּנִים כְּלוּם אֶלָּא הַכּל לִמְזוֹן הַבָּנוֹת. לְפִיכָךְ מִי שֶׁמֵּת וְהִנִּיחַ בָּנִים וּבָנוֹת וְטֻמְטוּם אוֹ אַנְדְּרוֹגִינוּס. בִּזְמַן שֶׁהַנְּכָסִים מְרֻבִּין הַבָּנִים יוֹרְשִׁין וְדוֹחִין הַטֻּמְטוּם אֵצֶל הַבָּנוֹת וְנִזּוֹן כְּמוֹתָן. וּבִזְמַן שֶׁהַנְּכָסִין מוּעָטִין הַבָּנוֹת דּוֹחוֹת אֶת הַטֻּמְטוּם אֵצֶל הַבָּנִים וְאוֹמְרוֹת לוֹ זָכָר אַתָּה וְאֵין לְךָ עִמָּנוּ מְזוֹנוֹת:",
+                      "ref": "Mishneh Torah, Inheritances 5:2",
+                      "sourceHeRef": "הלכות נחלות ה:ב",
+                      "sourceRef": "Inheritances 5:2"
+                    }
+                  ]
+                }
+              },
+              "en": "One who dies and leaves behind sons and daughters, the sons inherit all of the property and they feed their sisters until they [the sisters] mature or are married. Rem\"a: The sons are not obligated to diminish their payments for food, but if they want, they may give extra. Nonetheless, if the court sees that the sons are destroying the money and are not paying attention to developing the community, the court is obligated to oversee the welfare of the daughters and separate their portion (Tur). When does this apply? When he left behind property that can be used to feed both the sons and the daughters together until the daughters mature, and this is what is called \"plentiful property.\" However, if there is less property than that, they take from it enough to feed the daughters until they mature, and they give the remainder to the sons. If there is exactly enough to feed the daughters, they will be fed from it until they mature or marry, and the sons will beg at the doors. Rem\"a: There are those who say that the sons are forbidden from selling even plentiful property, unless it is for the need of redeeming captives and the like. However, regarding scant property, even in such a case it is forbidden [for the sons to sell it] (Mordechai). If they transgressed and did sell, this will be explained below in paragraph fourteen.",
+              "he": "מי שמת והניח בנים ובנות יירשו הבנים כל הנכסים והם זנים אחיותיהם עד שיבגרו או עד שיתארסו: <span class=\"hebrew-emphasis\">הגה ואין מחייבים הבנים לצמצם במזונות אלא אם ירצו יותירו במזונות ומ\"מ אם רואים ב\"ד שהבנים מכלין הממון ואין משגיחין בישוב העולם חייבין ב\"ד להשגיח בתיקון הבנות ולהפריש להן חלקן (טור): </span> בד\"א כשהניח נכסים שאיפשר שיזונו מהם הבנים והבנות כא' עד שיבגרו הבנות ואלו הם הנקראים נכסים מרובים אבל אם אין בנכסים שהניח אלא פחות מזה מוציאים מהם מזונות לבנות עד שיבגרו ונותנים השאר לבנים ואם אין שם אלא כדי מזון הבנות בלבד נזונים מהם עד שיבגרו או עד שיתארסו והבנים ישאלו על הפתחים: <span class=\"hebrew-emphasis\">הגה וי\"א דאסור לבנים למכור אפי' נכסים מרובים אם לא שהוא לצורך פדיון שבוים וכיוצא בזה אבל בנכסים מועטים אפילו בכה\"ג אסור (מרדכי פרק מי שמת) (ואם עברו ומכרו יתבאר לקמן סעיף י\"ד):</span>",
+              "ref": "Shulchan Arukh, Even HaEzer 112:11",
+              "sourceHeRef": "אבן העזר קיב:יא - מזונות הבנות ממה נזונות ועד כמה וכל דיניהם",
+              "sourceRef": "Even HaEzer 112:11"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> <b>אדמון אומר שבעה</b> דברים שחלקו חכמים עליהם: <b>מי שמת והניח בנים ובנות, בזמן שהנכסים מרובין — הבנים יורשים</b> את נכסיו <b>והבנות נזונות</b> מהם. <b>ובנכסים מועטים</b> שאינם מספיקים לבנים ולבנות — <b>הבנות יזונו, והבנים</b> שאין להם לא ירושה ולא מזונות, אם אין להם פרנסה — <b>יחזרו על הפתחים. אדמון אומר: בשביל שאני זכר הפסדתי?! אמר רבן גמליאל: רואה</b> (מקבל, מסכים) <b>אני את דברי אדמון.</b>",
+              "ref": "Steinsaltz on Ketubot 108b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:ב",
+              "sourceRef": "Steinsaltz on Ketubot 108b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "With regard to one who died and left behind sons and daughters, the sons inherit the estate and they provide sustenance to their sisters until the sisters mature or are betrothed. This arrangement applies when the estate is sufficient for both the sons and the daughters until they become grown women. However, if the estate is not that large, the court first extracts funds from it for the daughters’ sustenance. If nothing remains from the estate, the daughters will be provided for while the sons must beg for their livelihood. The <i>halakha </i>is in accordance with the unattributed mishna, not the opinion of Admon, as the discussion in <i>Bava Batra</i> 139b is not in accordance with his ruling. All of this applies if the father left behind real estate. However, if he left behind only movable property, there is a later enactment that daughters must be sustained even from movable property, but this enactment does not apply if it would mean that the sons would forfeit their inheritance completely. Consequently, in that case the children would divide all the assets equally (Rambam <i>Sefer Nashim</i>,<i> Hilkhot Ishut</i> 19:17–18; <i>Shulĥan Arukh</i>,<i> Even HaEzer </i>112:11–12).",
+              "he": "רש\"י מסביר שהם נכסים שאין הבנות יכולות להזון מהם שנים עשר חודש. וכבר העירו שדבר זה שנוי במחלוקת אמוראים במסכת ב\"ב, ושיטה זו היא דעת רב אבל אין הלכה כדבריו. וראה מחלוקת זו גם בתלמוד הירושלמי. וכתבו כי רש\"י מפרש כרגיל את המשנה בדרך הנוחה ביותר ואינו מקפיד שתהא תמיד כהלכה.",
+              "ref": "Steinsaltz comment #1 on Ketubot 108b:2",
+              "sourceHeRef": "בִּזְמַן שֶׁהַנְּכָסִים מְרוּבִּין וכו׳",
+              "sourceRef": "When the estate is large, etc."
+            },
+            {
+              "en": "Some maintain that Admon does not mean that the daughters’ sustenance should be taken away from them entirely. Rather, he is saying that instead of the sons losing their entire inheritance, the sons and the daughters should divide the estate between them and live off of it for as long as they can (Rashbam on <i>Bava Batra</i> 139b).",
+              "he": "ראה שיטת רבינו תם בתוס' (ד\"ה אדמון) הסבור שאין אדמון חולק על דברי חכמים במשנה זו אלא תמה על שיטתם. וכן כתבו הרא\"ש ואחרים.",
+              "ref": "Steinsaltz comment #2 on Ketubot 108b:2",
+              "sourceHeRef": "הִפְסַדְתִּי",
+              "sourceRef": "I lose out"
+            },
+            {
+              "en": "",
+              "he": "ולכאורה פשוט הוא הטעם — שהזכר יורש מדין תורה הכל, ואין מזונות הבנות אלא תקנת חכמים. וכתב בשטמ\"ק שהתמיהה היתה משום הלשון שאמר \"בשביל שאני זכר\" ולא אמר \"בשביל שאני בן\", משמע שיש מעלה בזה שהוא זכר, ולא משום דין הירושה בלבד.",
+              "ref": "Steinsaltz comment #3 on Ketubot 108b:2",
+              "sourceHeRef": "בשביל שאני זכר",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "הרשב\"ם בב\"ב וכן אחרים שהלכו בעקבותיו אומרים כי אדמון לא סבר שיש לסלק את הבנות מן המזונות לגמרי, אלא אמר שלפי זה יוצא שהבנים מפסידים הכל, ולכאורה מן הדין היה שיתחלקו הבנים והבנות ויזונו עד כמה שהנכסים מספיקים. והיה מי שכתב לתרץ תמיהה עקרונית זו שעצם הדברים שאמרו \"יחזרו על הפתחים\" היא הנימוק לכך, שאין דרך הבנות לחזר על הפתחים ובזיונן מרובה (וראה בבית יעקב שהאריך לדון כאן מצד נוסף, שהרי ביד הבנות יש שטר חוב, ומצד הדין היה ראוי שיפרעו להן שטר זה. ועיי\"ש).",
+              "ref": "Steinsaltz comment #4 on Ketubot 108b:2",
+              "sourceHeRef": "הפסדתי",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "מי שמת והניח בנים ובנות, הבנים יורשים את הנכסים והם זנים את אחיותיהם עד שיתבגרו או יתארסו. ודברים אלה אמורים כשהניח נכסים המספיקים לבנים ולבנות עד שיתבגרו הבנות (\"נכסים מרובים\"), אבל אם לא היה בנכסים שיעור זה — מוציאים מהם תחילה למזון הבנות. ואם לא נשאר דבר — הבנות יזונו והבנים ישאלו על הפתחים. כסתם משנה, שאין הלכה כאדמון, מפני שסוגיית הגמרא בב\"ב אינה כשיטתו. ודבר זה הוא כשהניח הנפטר קרקעות, אבל אם הניח מטלטלים, הואיל ותקנת הגאונים שיזונו הבנות מן המטלטלין, מכל מקום לא תיקנו שיסלקו לגמרי את הבנים אלא ניזונים בשווה. (רמב\"ם ספר נשים הלכות אישות פי\"ט הי\"ז-יח. שו\"ע אה\"ע קיב, יא-יב).<br><br>",
+              "ref": "Steinsaltz comment #5 on Ketubot 108b:2",
+              "sourceHeRef": "בזמן שהנכסים מרובין וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אני הגבר.</b> רבי לוי אומר, אני הגבר – אנא הוא דרגילנא ביסורים והניין לי מה דהניין לך [שם].",
+              "ref": "Torah Temimah on Lamentations 3:1:1",
+              "sourceHeRef": "תורה תמימה על איכה ג:א:א",
+              "sourceRef": "Torah Temimah on Lamentations 3:1:1"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אדמון אומר וכי בשביל שאני זכר הפסדתי</strong> - אע\"ג דאמר לקמן כל מקום שאמר רבן גמליאל רואה אני את דברי אדמון הלכה כמותו ומההוא פיסקא פריך הש\"ס לקמן אלמא דהכי הוי עיקר מ\"מ אומר ר\"ת דלית הלכתא כוותיה בהא דהא סוגיא דגמרא דלא כוותיה לעיל בפרק נערה <span class=\"parenthesized\">(כתובות דף מג. ושם)</span> אמר רבי אסי א\"ר יוחנן עשו אלמנה אצל הבת כבת אצל אחין בנכסים מועטים אלמא סתם דבריו כרבנן ועוד דלעיל פ' הנושא <span class=\"parenthesized\">(כתובות דף קג.)</span> אמרי' יתומים שקדמו ומכרו בנכסים מועטים מה שמכרו מכרו וסתמא דהש\"ס כרבנן בריש מי שמת <span class=\"parenthesized\">(ב\"ב דף קלט:)</span> ואומר ר\"ת דהיינו טעמא דאדמון לאו לאיפלוגי אמלתא דחכמים אתא אלא מתמה בעלמא הוא ור\"ג נמי דאמר בההיא רואה אני את דברי אדמון לאו משום פסק דין אלא משום שיש ודאי לתמוה:",
+              "ref": "Tosafot on Ketubot 108b:2:1",
+              "sourceHeRef": "תוספות על כתובות ק״ח ב:ב:א",
+              "sourceRef": "Tosafot on Ketubot 108b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> <b><span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span> states</b> a dissenting opinion to that of the Rabbis in <b>seven</b> cases. The mishna elaborates: With regard to <b>one who died and left</b> behind both <b>sons and daughters, when the estate is large the sons inherit</b> the property <b>and the daughters are provided with sustenance</b> from it. <b>And with regard to a small estate,</b> which is insufficient to provide for both the sons and the daughters, <b>the daughters are provided with sustenance and the sons</b> have neither inheritance nor sustenance, and therefore, if they have no other means with which to support themselves, they must <b>go round</b> begging <b>at the doors. <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span> says: Because I am a male,</b> will <b>I lose out? <span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> said: I see</b> as correct <b>the statement of <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span>.</b>",
+      "he": "<big><strong>מַתְנִי׳</strong></big> <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">אַדְמוֹן</span> אוֹמֵר, שִׁבְעָה: מִי שֶׁמֵּת וְהִנִּיחַ בָּנִים וּבָנוֹת, בִּזְמַן שֶׁהַנְּכָסִים מְרוּבִּין — הַבָּנִים יוֹרְשִׁים, וְהַבָּנוֹת נִזּוֹנוֹת. וּבִנְכָסִים מוּעָטִים — הַבָּנוֹת יִזּוֹנוּ, וְהַבָּנִים — יְחַזְּרוּ עַל הַפְּתָחִים. אַדְמוֹן אוֹמֵר: בִּשְׁבִיל שֶׁאֲנִי זָכָר הִפְסַדְתִּי?! אָמַר רַבָּן גַּמְלִיאֵל: רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן.",
+      "ref": "Ketubot 108b:2",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי קאמר</strong> - אם בשביל שאני זכר הפסדתי משמע אם בשביל שאני זכר וכחי יפה הפסדתי ומהו יפוי כחו:",
+              "ref": "Rashi on Ketubot 108b:3:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ג:א",
+              "sourceRef": "Rashi on Ketubot 108b:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> על דברי אדמון \"בשביל שאני זכר הפסדתי\" שואלים: <b>מאי קאמר</b> <span class=\"hebrew-emphasis\">[מה אמר],</span> מה משמעו של טיעון זה \"שאני זכר\"? <b>אמר אביי, הכי קאמר</b> <span class=\"hebrew-emphasis\">[כך אמר]:</span> <b>בשביל שאני זכר וראוי לעסוק בתורה</b> שלא כבנות — <b>הפסדתי?</b>",
+              "ref": "Steinsaltz on Ketubot 108b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:ג",
+              "sourceRef": "Steinsaltz on Ketubot 108b:3"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> With regard to <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span>’s statement: Because I am a male will I lose out, the Gemara asks: <b>What is he saying?</b> What is the significance of the fact that one is male? <b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said</b> that <b>this is what he is saying: Because I am a male and,</b> unlike women, I <b>am fit to engage in Torah</b> study, should <b>I lose out?</b>",
+      "he": "<big><strong>גְּמָ׳</strong></big> מַאי קָאָמַר? אָמַר אַבָּיֵי, הָכִי קָאָמַר: בִּשְׁבִיל שֶׁאֲנִי זָכָר וְרָאוּי לַעֲסוֹק בַּתּוֹרָה — הִפְסַדְתִּי?",
+      "ref": "Ketubot 108b:3",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רבא:</b> וכי <b>מאן דעסיק</b> <span class=\"hebrew-emphasis\">[מי שעוסק]</span> <b>בתורה הוא דירית</b> <span class=\"hebrew-emphasis\">[שיורש],</span> ואילו <b>מאן</b> <span class=\"hebrew-emphasis\">[מי]</span> ש<b>לא עסיק</b> <span class=\"hebrew-emphasis\">[עוסק]</span> <b>בתורה לא ירית</b> <span class=\"hebrew-emphasis\">[יורש]?!</span> ומה ענין תלמוד תורה לכאן! <b>אלא אמר רבא: הכי קאמר</b> <span class=\"hebrew-emphasis\">[כך אמר]:</span> <b>בשביל שאני זכר</b> ויש לי מן התורה זכות מרובה בנכסים <b>וראוי לירש בנכסים מרובין — הפסדתי</b> לגמרי <b>בנכסים מועטין?!</b>",
+              "ref": "Steinsaltz on Ketubot 108b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:ד",
+              "sourceRef": "Steinsaltz on Ketubot 108b:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבא דעסיק באורייתא ירית</strong> - בתמיה מקשים מאי קמתמה רבא אין ה\"נ כדאמר לעיל בפרק נערה <span class=\"parenthesized\">(כתובות דף מט. ושם)</span> מצוה לזון את הבנות וק\"ו לבנים דעוסקין בתורה ואר\"ת דלא דמי דלעיל גבי מצוה יש מצוה לזון הבנים יותר מן הבנות אבל הכא שמת האב וירושתן קא שקלי מן התורה קא מתמה רבא אמילתיה דאדמון דקא בעי למימר דכשיעסוק בתורה יטול ירושה ואם לא יעסוק לא יטלנה וי\"מ דהכא מיירי בבנים גדולים ולהכי פריך מאן דעסיק כו' אבל לעיל מצוה לזון את הבנים בבנים קטנים מיירי משום דכולם עומדים לעסוק בתורה קאמר ק\"ו לבנים ולהכי לא פריך מאן דעסיק דכולם הן עומדים לעסוק בתורה:",
+              "ref": "Tosafot on Ketubot 108b:4:1",
+              "sourceHeRef": "תוספות על כתובות ק״ח ב:ד:א",
+              "sourceRef": "Tosafot on Ketubot 108b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said to him:</b> Is that to say that it is <b>one who is engaged in Torah</b> study <b>who inherits,</b> whereas <b>one</b> who is <b>not engaged in Torah</b> study <b>does not inherit?</b> What does the study of Torah have to do with the matter at hand? <b>Rather, <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said</b> that <b>this is what</b> <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span> <b>is saying: Because I am a male,</b> who has a greater right to the property by Torah law, <b>and</b> therefore <b>it is fitting</b> for me <b>to inherit when the estate is large,</b> will <b>I</b> now <b>lose out</b> entirely <b>in</b> a case of <b>a small estate?</b>",
+      "he": "אֲמַר לֵיהּ <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: מַאן דְּעָסֵיק בַּתּוֹרָה הוּא דְּיָרֵית, מַאן דְּלָא עָסֵיק בַּתּוֹרָה לָא יָרֵית?! אֶלָּא אָמַר רָבָא, הָכִי קָאָמַר: בִּשְׁבִיל שֶׁאֲנִי זָכָר וְרָאוּי לִירַשׁ בִּנְכָסִים מְרוּבִּין — הִפְסַדְתִּי בִּנְכָסִים מוּעָטִין?!",
+      "ref": "Ketubot 108b:4"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The mishna resumes discussion of the oath imposed by the court in a case where the defendant admits to a part of a claim. If the claimant said: <b>I have a <i>litra</i>,</b> i.e., a specific weight, <b>of gold in your possession,</b> and the defendant responded: <b>You have only a <i>litra</i> of silver in my possession,</b> he is <b>exempt</b> from taking an oath, as his admission relates to a different item than that which the claim relates to. But if the claimant said: <b>I have a gold dinar in your possession,</b> and the defendant responded: <b>You have only a silver dinar, or a <i>tereisit</i>, or a <i>pundeyon</i>, or a <i>peruta</i> in my possession,</b> he is <b>liable</b> to take an oath, <b>as</b> they are <b>all</b> of <b>one type;</b> they are all <b>coins.</b> Since the claim concerns money, the difference between the different types of coins is disregarded, as the claim is essentially referring to the monetary value, not to a specific type of coin.",
+                "If the claimant said: <b>I have a <i>kor</i> of grain in your possession,</b> and the defendant responded: <b>You have only a half-<i>kor</i> of legumes in my possession,</b> he is <b>exempt.</b> But if the claimant said: <b>I have a <i>kor</i> of produce in your possession,</b> and the defendant responded: <b>You have only a half-<i>kor</i> of legumes in my possession,</b> he is <b>liable, as legumes are included in produce.</b>",
+                "If one <b>claimed</b> that another owes <b>him wheat, and</b> the defendant <b>admitted to</b> owing <b>him barley,</b> he is <b>exempt; and Rabban Gamliel deems</b> him <b>liable</b> to take an oath. According to Rabban Gamliel, one who admits to a part of the claim is liable to take an oath even if the admission is not of the same type as the claim.",
+                "With regard to <b>one who claims</b> that <b>another</b> owes him <b>jugs of oil, and</b> the latter then <b>admitted</b> that he owes <b>him pitchers,</b> i.e., the jugs themselves, but not the oil, <b>Admon says: Since he admitted to him</b> with regard to <b>a part</b> of the claim, and his admission was <b>of the</b> same <b>type</b> as <b>the claim,</b> i.e., the claim included both containers and oil and he admitted to owing him containers, <b>he must take an oath. And the Rabbis say: The</b> partial <b>admission</b> in this case <b>is not of</b> the same <b>type</b> as <b>the claim,</b> as he completely denied owing him oil. <b>Rabban Gamliel said: I see the statement of Admon</b> as correct."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shevuot 38b:14",
+                "Shevuot 38b:15",
+                "Shevuot 38b:16",
+                "Shevuot 38b:17"
+              ],
+              "he": [
+                "ליטרא זהב יש לי בידך אין לך בידי אלא ליטרא כסף פטור דינר זהב יש לי בידך אין לך בידי אלא דינר כסף וטריסית ופונדיות ופרוטה חייב שהכל מין מטבע אחת",
+                "כור תבואה לי בידך אין לך בידי אלא לתך קטנית פטור כור פירות לי בידך אין לך בידי אלא לתך קטנית חייב שהקטנית בכלל פירות",
+                "טענו חטין והודה לו בשעורין פטור ורבן גמליאל מחייב",
+                "הטוען לחבירו בכדי שמן והודה לו בקנקנים אדמון אומר הואיל והודה לו מקצת ממין הטענה ישבע וחכמים אומרים אין ההודאה ממין הטענה אמר רבן גמליאל רואה אני את דברי אדמון"
+              ],
+              "link": "/Shevuot/38b",
+              "originalRefsBeforeRewriting": [
+                "Shevuot 38b:17"
+              ],
+              "ref": "Shevuot 38b:14-17",
+              "sourceHeRef": "שבועות ל״ח ב",
+              "sourceRef": "Shevuot 38b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "The mishna resumes discussion of the oath imposed by the court in a case where the defendant admits to a part of a claim. If the claimant said: <b>I have a <i>litra</i>,</b> i.e., a specific weight, <b>of gold in your possession,</b> and the defendant responded: <b>You have only a <i>litra</i> of silver in my possession,</b> he is <b>exempt</b> from taking an oath, as his admission relates to a different item than that which the claim relates to. But if the claimant said: <b>I have a gold dinar in your possession,</b> and the defendant responded: <b>You have only a silver dinar, or a <i>tereisit</i>, or a <i>pundeyon</i>, or a <i>peruta</i> in my possession,</b> he is <b>liable</b> to take an oath, <b>as</b> they are <b>all</b> of <b>one type;</b> they are all <b>coins.</b> Since the claim concerns money, the difference between the different types of coins is disregarded, as the claim is essentially referring to the monetary value, not to a specific type of coin. If the claimant said: <b>I have a <i>kor</i> of grain in your possession,</b> and the defendant responded: <b>You have only a half-<i>kor</i> of legumes in my possession,</b> he is <b>exempt.</b> But if the claimant said: <b>I have a <i>kor</i> of produce in your possession,</b> and the defendant responded: <b>You have only a half-<i>kor</i> of legumes in my possession,</b> he is <b>liable, as legumes are included in produce.</b> If one <b>claimed</b> that another owes <b>him wheat, and</b> the defendant <b>admitted to</b> owing <b>him barley,</b> he is <b>exempt; and Rabban Gamliel deems</b> him <b>liable</b> to take an oath. According to Rabban Gamliel, one who admits to a part of the claim is liable to take an oath even if the admission is not of the same type as the claim. With regard to <b>one who claims</b> that <b>another</b> owes him <b>jugs of oil, and</b> the latter then <b>admitted</b> that he owes <b>him pitchers,</b> i.e., the jugs themselves, but not the oil, <b>Admon says: Since he admitted to him</b> with regard to <b>a part</b> of the claim, and his admission was <b>of the</b> same <b>type</b> as <b>the claim,</b> i.e., the claim included both containers and oil and he admitted to owing him containers, <b>he must take an oath. And the Rabbis say: The</b> partial <b>admission</b> in this case <b>is not of</b> the same <b>type</b> as <b>the claim,</b> as he completely denied owing him oil. <b>Rabban Gamliel said: I see the statement of Admon</b> as correct. If one <b>claimed</b> that another owes <b>him vessels and land, and</b> the defendant <b>admitted to</b> owing him <b>vessels but denied</b> the claim of <b>land,</b> or conversely, he admitted <b>to</b> owing him <b>land but denied</b> the claim of <b>vessels,</b> he is <b>exempt</b> from taking an oath, as oaths are not taken concerning claims involving land. If <b>he admitted to part</b> of the claim about <b>the land,</b> he is <b>exempt.</b> If he admitted <b>to part</b> of the claim about <b>the vessels,</b> he is <b>liable</b> to take an oath concerning the entire claim, <b>as property that does not serve as a guarantee,</b> i.e., movable property, <b>binds the property that serves as a guarantee,</b> i.e., the land, so that the oath about the movable property can be extended to require him <b>to take an oath concerning</b> the land as well.",
+              "he": "לִיטְרָא זָהָב יֶשׁ לִי בְיָדֶךָ, אֵין לְךָ בְיָדִי אֶלָּא לִיטְרָא כֶסֶף, פָּטוּר. דִּינַר זָהָב יֶשׁ לִי בְיָדֶךָ, אֵין לְךָ בְיָדִי אֶלָּא דִּינַר כֶּסֶף, וּטְרִיסִית וּפֻנְדְּיוֹן וּפְרוּטָה, חַיָּב, שֶׁהַכֹּל מִין מַטְבֵּעַ אַחַת. כּוֹר תְּבוּאָה יֶשׁ לִי בְיָדֶךָ, אֵין לְךָ בְיָדִי אֶלָּא לֶתֶךְ קִטְנִית, פָּטוּר. כּוֹר פֵּרוֹת יֶשׁ לִי בְיָדֶךָ, אֵין לְךָ בְיָדִי אֶלָּא לֶתֶךְ קִטְנִית, חַיָּב, שֶׁהַקִּטְנִית בִּכְלַל פֵּרוֹת. טְעָנוֹ חִטִּין, וְהוֹדָה לוֹ בִשְׂעֹרִים, פָּטוּר. וְרַבָּן גַּמְלִיאֵל מְחַיֵּב. הַטּוֹעֵן לַחֲבֵרוֹ בְכַדֵּי שֶׁמֶן וְהוֹדָה לוֹ בַקַּנְקַנִּים, אַדְמוֹן אוֹמֵר, הוֹאִיל וְהוֹדָה לוֹ מִקְצָת מִמִּין הַטַּעֲנָה, יִשָּׁבֵעַ. וַחֲכָמִים אוֹמְרִים, אֵין הַהוֹדָאָה מִמִּין הַטַּעֲנָה. אָמַר רַבָּן גַּמְלִיאֵל, רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן. טְעָנוֹ כֵלִים וְקַרְקָעוֹת, וְהוֹדָה בַכֵּלִים וְכָפַר בַּקַּרְקָעוֹת, בַּקַּרְקָעוֹת וְכָפַר בַּכֵּלִים, פָּטוּר. הוֹדָה בְמִקְצָת הַקַּרְקָעוֹת, פָּטוּר. בְּמִקְצָת הַכֵּלִים, חַיָּב, שֶׁהַנְּכָסִים שֶׁאֵין לָהֶם אַחֲרָיוּת זוֹקְקִין אֶת הַנְּכָסִים שֶׁיֵּשׁ לָהֶן אַחֲרָיוּת לִשָּׁבַע עֲלֵיהֶן:",
+              "link": "/Mishnah Shevuot/6",
+              "ref": "Mishnah Shevuot 6:3",
+              "sourceHeRef": "משנה שבועות ו:ג",
+              "sourceRef": "Mishnah Shevuot 6:3"
+            },
+            {
+              "en": "The mishna cites another case involving a dispute between Admon and the Rabbis. With regard to <b>one who claims</b> that <b>another</b> owes him <b>jugs of oil, and</b> the other <b>admits to</b> the claim of <b>pitchers</b> but not the oil, <b>Admon says: Since he made a partial admission to the claim, he takes an oath</b> swearing that he owes only what he has admitted to and no more. <b>And the Rabbis say: The partial admission</b> in this case <b>is not of the same type as the claim,</b> as the claim specified oil and the admission referred to pitchers. <b>Rabban Gamliel said: I see</b> as correct <b>the statement of Admon.</b>",
+              "he": "הַטּוֹעֵן אֶת חֲבֵרוֹ כַדֵּי שֶׁמֶן, וְהוֹדָה בַקַּנְקַנִּים, אַדְמוֹן אוֹמֵר, הוֹאִיל וְהוֹדָה בְמִקְצָת הַטַּעֲנָה, יִשָּׁבֵעַ. וַחֲכָמִים אוֹמְרִים, אֵין זוֹ הוֹדָאָה מִמִּין הַטַּעֲנָה. אָמַר רַבָּן גַּמְלִיאֵל, רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן:",
+              "link": "/Mishnah Ketubot/13",
+              "ref": "Mishnah Ketubot 13:4",
+              "sourceHeRef": "משנה כתובות יג:ד",
+              "sourceRef": "Mishnah Ketubot 13:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והודה לו בקנקנים</strong> - רקים בלא שמן:",
+              "ref": "Rashi on Ketubot 108b:5:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ה:א",
+              "sourceRef": "Rashi on Ketubot 108b:5:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הטוען את תבירו כדי יין וכדי שמן והודה לו בקנקנים אדמון אמר הואיל והודה ממין הטענה ישבע וחכ\"א אין זה הודאה ממין הטענה אמר ר\"ג רואה אני את דברי אדמון:",
+              "ref": "Rosh on Ketubot 13:10:1",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות יג:י:א",
+              "sourceRef": "Rosh on Ketubot 13:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג משנה</big> ועוד מדברי אדמון: <b>הטוען את חבירו</b> שהוא חייב לו <b>כדי שמן, והודה</b> החבר <b>בקנקנים</b> בלבד. <b>אדמון אומר: הואיל והודה במקצת הטענה — ישבע. וחכמים אומרים: אין הודאת</b> ה<b>מקצת</b> שהודה <b>ממין הטענה,</b> שהרי זה טען שמן, וזה הודה בקנקנים. <b>אמר רבן גמליאל: רואה אני את דברי אדמון.</b>",
+              "ref": "Steinsaltz on Ketubot 108b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:ה",
+              "sourceRef": "Steinsaltz on Ketubot 108b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Some commentaries ask why the mishna initially spoke of jugs and subsequently referred to pitchers. They explain that the term jug can mean a measure of volume or a vessel, whereas the term pitcher invariably refers to a receptacle and never means a measure of volume. Therefore, the ambiguity in the claim does not occur in the admission, which refers solely to the receptacles (<i>Shita Mekubbetzet</i>;<i> Melekhet Shlomo</i>).",
+              "he": "היו מפרשים שתהו מפני מה פתח בכד וסיים בקנקן. ותירצו שלשון כד אינה מבוררת תמיד, שיש בה לשון שיעור מסויים ויש בה לשון הכד ככלי, ואילו לשון קנקן משמעה תמיד כלי הקיבול, בלא מידה מסויימת (שטמ\"ק. מלא\"ש).",
+              "ref": "Steinsaltz comment #1 on Ketubot 108b:5",
+              "sourceHeRef": "כַּדֵּי שֶׁמֶן וְהוֹדָה בְּקַנְקַנִּים",
+              "sourceRef": "Jugs of oil, and he admits to pitchers"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> The mishna cites another case involving a dispute between <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span> and the Rabbis. With regard to <b>one who claims</b> that <b>another</b> owes him <b>jugs of oil, and</b> the other <b>admits to</b> the claim of <b>pitchers</b> but not the oil, <b><span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span> says: Since he made a partial admission to the claim, he takes an oath</b> swearing that he owes only what he has admitted to and no more. <b>And the Rabbis say: The partial admission</b> in this case <b>is not of the same type as the claim,</b> as the claim specified oil and the admission referred to pitchers. <b><span href=\"/topics/rabban-gamliel\" class=\"namedEntityLink\" data-slug=\"רג-(ambiguous)\">Rabban Gamliel</span> said: I see</b> as correct <b>the statement of <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span>.</b>",
+      "he": "<big><strong>מַתְנִי׳</strong></big> הַטּוֹעֵן אֶת חֲבֵירוֹ כַּדֵּי שֶׁמֶן וְהוֹדָה בַּקַּנְקַנִּים, אַדְמוֹן אוֹמֵר: הוֹאִיל וְהוֹדָה בְּמִקְצָת הַטְּעָנָה — יִשָּׁבַע. וַחֲכָמִים אוֹמְרִים: אֵין הוֹדָאַת מִקְצָת מִמִּין הַטַּעֲנָה. אָמַר רַבָּן גַּמְלִיאֵל: רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן.",
+      "ref": "Ketubot 108b:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ד גמרא</big> <b>שמע מינה</b> <span class=\"hebrew-emphasis\">[למד מכאן]</span> כי <b>לרבנן</b> <span class=\"hebrew-emphasis\">[ל</span>דעת <span class=\"hebrew-emphasis\">חכמים]</span> <b>טענו חטין ושעורין והודה</b> החבר <b>בשעורין</b> בלבד — <b>פטור.</b> וכן כאן תבע אותו כדי שמן, והודה לו רק בכדים.",
+              "ref": "Steinsaltz on Ketubot 108b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:ו",
+              "sourceRef": "Steinsaltz on Ketubot 108b:6"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שמע מינה מדרבנן טענו חטין ושעורים וכו'</strong> - תימה מאי פריך לר\"נ מדרבנן והלא איכא אדמון דקאי כוותיה וכי תימא משום דרבים נינהו אדרבה אית לן למימר כאדמון דהלכתא כוותיה ואומר רבי דמכולהו פריך דמשמע דאדמון מודה בחטין ושעורים דמיפטר מדלא נקט חטין ושעורים אלא נקט כדי <span class=\"parenthesized\">(יין ושמן)</span> דכרימון בקליפתו דמי כדבעי למימר לקמן רב שימי בר אשי שאינו יודע הגמרא אמאי הוי נקיט האי לישנא דכדי שמן ומיהו לאחר שידע דאיכא לאפלוגינהו ביש בלשון הזה לשון קנקנים פריך איפכא נימא תיהוי תיובתא דרב חייא בר אבא ואפילו הכי משני נעשה כמי שטענו רימון בקליפתו:",
+              "ref": "Tosafot on Ketubot 108b:6:1",
+              "sourceHeRef": "תוספות על כתובות ק״ח ב:ו:א",
+              "sourceRef": "Tosafot on Ketubot 108b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> One can <b>conclude from here</b> that according <b>to</b> the opinion of <b>the Rabbis,</b> if one <b>claimed</b> that another owed him <b>wheat and barley, and</b> the other party partially <b>admitted</b> that the claim was true only with regard <b>to the barley,</b> he is <b>exempt,</b> just as he is exempt in this case when the claim was for jugs of oil and the admission referred only to jugs.",
+      "he": "<big><strong>גְּמָ׳</strong></big> שְׁמַע מִינַּהּ לְרַבָּנַן: טְעָנוֹ חִטִּין וּשְׂעוֹרִין וְהוֹדָה בִּשְׂעוֹרִין — פָּטוּר.",
+      "ref": "Ketubot 108b:6",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna teaches that the court administers an oath to one who admits to part of a claim only when <b>the claim is</b> for at least the value of <b>two silver</b> <i>ma’a</i>. Rav and Shmuel disagree with regard to the exact meaning of this statement. <b>Rav says</b> that <b>the denial of</b> the <b>claim</b> must be at least the value of <b>two silver</b> <i>ma’a</i>. <b>And Shmuel says</b> that the <b>claim itself</b> must be at least the value of <b>two silver</b> <i>ma’a</i>; i.e., <b>even</b> if the defendant <b>denied only one <i>peruta</i></b> of the claim, <b>or</b> conversely, if <b>he admitted to only one <i>peruta</i></b> of the two-<i>ma’a</i> claim, he is <b>liable</b> to take an oath.",
+                  "<b>Rava said:</b> The language of <b>the mishna is precise in accordance with</b> the opinion <b>of Rav, and the</b> biblical <b>verses are</b> precise <b>in accordance with</b> the opinion <b>of Shmuel.</b> The language of <b>the mishna is precise in accordance with</b> the opinion <b>of Rav, as it teaches: The claim</b> must be for at least the value of <b>two silver</b> <i>ma’a</i> <b>and the admission</b> must be at least <b>the value of one <i>peruta</i>, whereas it does not teach</b> that <b>the</b> minimum <b>denial of</b> the <b>claim</b> is <b>one <i>peruta</i>,</b> indicating that it must be more. <b>And also, we learned</b> in a mishna (<i>Bava Metzia</i> 55a) that <b>the</b> minimum <b>admission</b> to part of a claim that renders one liable to take an oath is the value <b>of one <i>peruta</i>, whereas</b> that mishna <b>does not teach</b> that the minimum <b>denial</b> is the value <b>of one <i>peruta</i>.</b>",
+                  "<b>And the verses are</b> precise <b>in accordance with</b> the opinion <b>of Shmuel, as it is written</b> with regard to the case where an oath is administered due to admission to part of a claim: <b>“If a man delivers to his neighbor silver or vessels to safeguard”</b> (Exodus 22:6). It is derived from the juxtaposition of silver and vessels that <b>just as “vessels,”</b> in the plural, is referring to at least <b>two, so too, “silver”</b> is referring to at least <b>two</b> <i>ma’a</i> of silver. It is derived further that <b>just as silver is an item of substantial value, so too, any item of substantial value</b> is included. <b>And the Merciful One states</b> in the subsequent verses that an oath is administered in a case “where one says: <b>This is it”</b> (Exodus 22:8), i.e., where the defendant admits to only part of the claim of “silver or vessels” and denies the rest of the claim. Evidently, the denial can be for an amount less than two silver <i>ma’a</i>.",
+                  "<b>And Rav</b> would respond <b>that</b> the phrase “this is it” <b>is necessary to</b> indicate <b>admission to a part of the claim,</b> but it does not indicate the value being denied, which must be at least two silver <i>ma’a</i>. The Gemara asks: <b>And</b> how does <b>Shmuel</b> derive both <i>halakhot</i> from the verse, namely, that admission to part of a claim is necessary for an oath to be administered, and that the denial can be less than the value of two <i>ma’a</i>? The Gemara answers: <b>It is written: “This is,” and it is written: “It.”</b> The repetition of these similar terms is homiletically interpreted to indicate <b>that if</b> the defendant <b>denied part</b> of the two-<i>ma’a</i> claim <b>and admitted to</b> the other <b>part,</b> he is <b>liable</b> to take an oath.",
+                  "<b>And Rav</b> would respond that the repetition should be interpreted differently: <b>One</b> of the two terms is stated <b>to</b> indicate <b>admission of a part of the claim, and</b> the other <b>one</b> is stated <b>to</b> indicate <b>admission of the</b> same <b>type of</b> item as <b>the claim. And Shmuel</b> would respond: Even if you do not accept the derivation from the repetitious words, <b>don’t you derive from this</b> <i>halakha</i> <b>by itself that</b> the denial may be less than two <i>ma’a</i>, since the admission <b>reduces</b> the value of <b>the claim?</b> If the claim was for two <i>ma’a</i>, as derived from the verse, and the defendant admitted to a part of the claim, then the value of denial was clearly less than two <i>ma’a</i>.",
+                  "<b>Rather, Rav</b> could have <b>said to you</b> that <b>when</b> the word <b>“silver” came initially, it came</b> as a source <b>for</b> the value of the <b>denial,</b> not the claim; <b>as if</b> this were not <b>so,</b> if it were meant to refer to the value of the claim, <b>let the Merciful One write</b> in the verse: <b>If a man delivers to his neighbor vessels to safeguard,</b> without mentioning silver, <b>and I</b> would <b>say</b> that <b>just as vessels are</b> at least <b>two, so too,</b> the claim must be for at least <b>two</b> of <b>any</b> item, including coins of silver. Accordingly, <b>why do I</b> need the word <b>“silver” that the Merciful One wrote?</b> Rather, <b>if</b> it <b>is not</b> needed for the <b>matter of</b> the <b>claim, apply it</b> to the <b>matter of</b> the <b>denial,</b> and derive from it that the denial must be at least the value of two silver <i>ma’a</i>.",
+                  "<b>And Shmuel</b> could have <b>said to you</b> that <b>if the Merciful One had written</b> the word <b>“vessels” and</b> had <b>not written</b> the word <b>“silver” I would say</b> that <b>just as vessels are</b> at least <b>two, so too,</b> the claim must be for at least <b>two</b> of <b>any</b> item; <b>but we do not need</b> it to be <b>an item of substantial value.</b> Therefore, the word “silver” <b>teaches us</b> that it must be an item of substantial value, like silver.",
+                  "The Gemara attempts to prove Rav’s opinion from the mishna. <b>We learned</b> in the mishna that if the claimant said to the defendant: <b>I have two silver</b> <i>ma’a</i> <b>in your possession,</b> and the latter responded: <b>You have only one</b> copper <b><i>peruta</i> in my possession,</b> he is <b>exempt</b> from taking an oath. <b>What is the reason?</b> Is it <b>not because</b> the amount of the <b>claim</b> that was denied by the defendant <b>was lacking,</b> i.e., was less than, the minimum value of two <i>ma’a</i>? <b>And</b> accordingly, this is <b>a conclusive refutation of</b> the opinion of <b>Shmuel.</b>",
+                  "The Gemara answers: <b>Shmuel</b> could have <b>said to you: Do you maintain</b> that the case that <b>is taught</b> is one where the claim was for the <b>value</b> of two <i>ma’a</i>? The claim in the case that <b>is taught</b> was <b>specifically</b> for two silver <i>ma’a</i>. The defendant is exempt because the claim was for silver and he admitted to owing one <i>peruta</i> of copper; <b>that which he claimed from him, he did not admit to</b> at all, <b>and that which he admitted to, he had not claimed from him.</b>",
+                  "The Gemara asks: <b>If so, say the latter clause:</b> If the claimant said: <b>I have two silver</b> <i>ma’a</i> <b>and one <i>peruta</i> in your possession,</b> and the defendant responded: <b>You have only one <i>peruta</i> in my possession,</b> he is <b>liable</b> to take an oath. <b>Granted, if you say</b> that the claim was for the <b>value</b> of two <i>ma’a</i>, <b>due to that</b> reason he is <b>liable</b> in this case; unlike the previous case, here the defendant denied a debt of two full <i>ma’a</i>. <b>But if you say</b> the claim was <b>specifically</b> for two silver <i>ma’a</i> and one copper <i>peruta</i>, <b>why</b> is he <b>liable</b> to take an oath? In this case too, <b>that which he claimed from him, he did not admit to</b> at all, <b>and that which he admitted to, he had not claimed from him.</b>",
+                  "The Gemara answers: <b>Isn’t this discussion only according to Shmuel?</b> The proof was presented in order to attempt to refute the opinion of Shmuel, and <b>doesn’t Rav Naḥman say</b> that <b>Shmuel says</b> that if one <b>claimed</b> that another owes <b>him</b> both <b>wheat and barley, and</b> the defendant <b>admitted to</b> owing <b>him one of them,</b> he is <b>liable</b> to take an oath? Here too, the claim was for two types of items, silver and copper, and the defendant admitted to owing one of the types, one <i>peruta</i> of copper. Therefore, according to Shmuel he is liable to take an oath.",
+                  "<b>This, too, stands to reason, from</b> the fact <b>that the latter clause</b> of the mishna <b>teaches</b> that if the claimant said: <b>I have a <i>litra</i> of gold in your possession,</b> and the defendant responded: <b>You have only a <i>litra</i> of silver in my possession,</b> he is <b>exempt. Granted, if you say</b> that the mishna <b>is teaching</b> a case where the claim was <b>specifically</b> for gold, it is <b>due to that</b> reason that he is <b>exempt,</b> as the admission was of a different item from the claim. <b>But if you say</b> the claim was for the <b>value</b> of a <i>litra</i> of gold, <b>why</b> is he <b>exempt? A <i>litra</i> is a large</b> amount, and certainly both the claim and the denial are each worth more than two <i>ma’a</i>.",
+                  "<b>Rather,</b> it is clearly a case where the claim was specifically for two silver <i>ma’a</i>, and <b>from</b> the fact <b>that</b> in <b>the latter clause,</b> the claim was <b>specifically</b> for gold, it should be derived that <b>also</b> in <b>the former clause,</b> the claim was <b>specifically</b> for two <i>ma’a</i>.",
+                  "The Gemara asks: If so, <b>shall we say</b> this <b>is a conclusive refutation of</b> the opinion of <b>Rav?</b> The Gemara answers: No, <b>Rav</b> could have <b>said to you</b> that <b>the entire mishna</b> is referring to claims in terms of the <b>value</b> of silver, not actual silver, <b>but</b> the case where the claim was for <b>a <i>litra</i> of gold is different.</b> All of the other cases in the mishna are referring to a certain monetary value, but this case is referring to actual gold, as a <i>litra</i> is not a coin or a monetary unit, but a measurement of weight."
+                ],
+                [
+                  "The Gemara discusses the basis for Rav’s explanation. <b>Know</b> that the mishna is referring to claims of monetary value, <b>as it teaches</b> in <b>the latter clause</b> that if the claimant said: <b>I have a gold dinar in your possession,</b> and the defendant responded: <b>You have only a silver dinar, or a <i>tereisit</i>, or a <i>pundeyon</i>, or a <i>peruta</i> in my possession,</b> he is <b>liable</b> to take an oath, <b>as they are all</b> of <b>one type;</b> they are all <b>coins. Granted, if you say</b> that the claim was for the <b>value</b> of a gold dinar, it is <b>due to that</b> reason that he is <b>liable</b> to take an oath, as he admitted to a part of the claim. <b>But if you say</b> that the claim was <b>specifically</b> for a dinar of gold, <b>why</b> is he <b>liable?</b> The claim was for gold, and he admitted to owing silver or copper.",
+                  "The Gemara rejects this proof: <b>Rabbi Elazar says:</b> This mishna is referring <b>to</b> a case <b>where</b> one <b>claimed</b> that the defendant owes <b>him a dinar of coins,</b> i.e., coins worth a dinar. The claim was for specific coins, and not a monetary value. Since the claim concerned coins and not a specific weight of metal, and all coins are used for commercial transactions, all types of coins are considered of the same type. <b>And</b> it <b>teaches us that a <i>peruta</i> is included in</b> the category of <b>a coin.</b> According to this explanation, the language of the mishna <b>is also precise, as it teaches:</b> The defendant is liable to take an oath, <b>as</b> they are <b>all</b> of <b>one type [<i>min</i>];</b> they are all <b>coins.</b> In other words, even a <i>peruta</i> is a type of coin.",
+                  "The Gemara asks: <b>And</b> how would <b>Rav,</b> who holds that the claim in this case was for the value of a dinar, explain the fact that the mishna states: As they are all of one type; they are all coins? Why does it matter that they are all of one type? The Gemara answers that according to Rav, the reason the defendant is liable to take an oath is that <b>because</b> the claim is for the value of a dinar, <b>all</b> descriptions of monetary value based on different coins have <b>one</b> status under <b><i>halakha</i> [<i>din</i>];</b> they are all <b>coins,</b> and it is of no significance that they are made of different materials.",
+                  "The Gemara asks: <b>And</b> concerning the opinion of <b>Rabbi Elazar, shall we say</b> that <b>since he explains the latter clause</b> in the mishna as referring to a specific item and not a value, <b>in accordance with</b> the opinion of <b>Shmuel,</b> then <b>also</b> with regard to <b>the former clause,</b> that states the claim must be for two silver <i>ma’a</i>, <b>he</b> apparently <b>holds in accordance with</b> the opinion of <b>Shmuel,</b> i.e., that it is referring to two actual <i>ma’a</i>, and not the value of two <i>ma’a</i>?",
+                  "The Gemara rejects this suggestion: <b>No,</b> Rabbi Elazar explains that <b>the latter clause</b> of the mishna is referring <b>specifically</b> to actual items in accordance with the opinion of Shmuel, <b>as it teaches</b> explicitly: <b>As</b> they are <b>all</b> of <b>one type;</b> they are all <b>coins. But the former clause</b> can be interpreted either <b>in accordance with</b> the opinion of <b>Rav or in accordance with</b> the opinion of <b>Shmuel.</b>",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> another proof that a claim for a coin is referring to its value: It is taught in a <i>baraita</i> that if the claimant said: <b>I have a coined gold dinar in your possession,</b> and the defendant responded: <b>You have only a silver dinar in my possession,</b> he is <b>liable</b> to take an oath, as the claim and the admission are both referring to a coin. The Gemara infers: <b>The reason</b> this claim is referring specifically to a coin is <b>that</b> the claimant <b>says to him:</b> You owe me <b>a coined gold</b> dinar; <b>but</b> if the claim was for <b>an unspecified</b> gold dinar, i.e., without specifying that it was coined, the claimant <b>is saying to him</b> that he owes him an item with the <b>value</b> of a dinar, not necessarily a coin, in accordance with the opinion of Rav.",
+                  "<b>Rav Ashi said</b> in response that according to the opinion of Shmuel, <b>this</b> is what the <i>baraita</i> <b>is saying: Anyone who says: A gold dinar, is</b> considered <b>like one who says: A coined gold dinar;</b> i.e., he is referring to the coin and not to its value.",
+                  "<b>Rabbi Ḥiyya teaches</b> a <i>baraita</i> <b>in support of</b> the opinion of <b>Rav:</b> If the claimant said: <b>I have a <i>sela</i> in your possession,</b> and the defendant responded: <b>You have only a <i>sela</i> minus two silver</b> <i>ma’a</i> <b>in my possession,</b> he is <b>liable</b> to take an oath. If the defendant responded: I owe you only a <i>sela</i> <b>minus one</b> silver <b><i>ma’a</i>,</b> he is <b>exempt.</b> Clearly, the reason is that he denied less than two <i>ma’a</i> of the claim, in accordance with the opinion of Rav."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shevuot 39b:8",
+                "Shevuot 39b:9",
+                "Shevuot 39b:10",
+                "Shevuot 39b:11",
+                "Shevuot 39b:12",
+                "Shevuot 39b:13",
+                "Shevuot 39b:14",
+                "Shevuot 39b:15",
+                "Shevuot 39b:16",
+                "Shevuot 39b:17",
+                "Shevuot 39b:18",
+                "Shevuot 39b:19",
+                "Shevuot 39b:20",
+                "Shevuot 39b:21",
+                "Shevuot 40a:1",
+                "Shevuot 40a:2",
+                "Shevuot 40a:3",
+                "Shevuot 40a:4",
+                "Shevuot 40a:5",
+                "Shevuot 40a:6",
+                "Shevuot 40a:7",
+                "Shevuot 40a:8"
+              ],
+              "he": [
+                [
+                  "הטענה שתי כסף: אמר רב כפירת טענה שתי כסף ושמואל אמר טענה עצמה שתי כסף אפי' לא כפר אלא בפרוטה ולא הודה אלא בפרוטה חייב",
+                  "אמר רבא דיקא מתניתין כותיה דרב וקראי כותיה דשמואל דיקא מתני' כותיה דרב דקתני הטענה שתי כסף וההודאה שוה פרוטה ואילו כפירת טענה פרוטה לא קתני ותנן נמי ההודאה בפרוטה ואילו כפירה בפרוטה לא קתני",
+                  "וקראי כותיה דשמואל דכתיב <span class=\"parenthesized\">(שמות כב, ו)</span> כי יתן איש אל רעהו כסף או כלים לשמור מה כלים שנים אף כסף שנים מה כסף דבר חשוב אף כל דבר חשוב וקאמר רחמנא <span class=\"parenthesized\">(שמות כב, ח)</span> כי הוא זה",
+                  "ורב ההוא מיבעי ליה להודאה במקצת הטענה ושמואל כתיב הוא וכתיב זה דאי כפר במקצת ואודי במקצת חייב",
+                  "ורב חד להודאה במקצת הטענה וחד להודאה ממין הטענה ושמואל לאו ממילא שמעת מיניה דחסרה לה טענה",
+                  "אלא אמר לך רב כסף כי אתא מעיקרא לכפירה הוא דאתא דא\"כ לכתוב רחמנא כי יתן איש אל רעהו כלים לשמור ואנא אמינא מה כלים שנים אף כל שנים כסף דכתב רחמנא למה לי אם אינו ענין לטענה תנהו ענין לכפירה",
+                  "ושמואל אמר לך אי כתב רחמנא כלים ולא כתב כסף הוה אמינא מאי כלים שנים אף כל שנים אבל דבר חשוב לא בעינן קמ\"ל",
+                  "תנן שתי כסף יש לי בידך אין לך בידי אלא פרוטה פטור מאי טעמא לאו משום דחסרה לה טענה ותיובתא דשמואל",
+                  "אמר לך שמואל מי סברת שוה קתני דוקא קתני מה שטענו לא הודה לו ומה שהודה לו לא טענו",
+                  "אי הכי אימא סיפא שתי כסף ופרוטה יש לי בידך אין לך בידי אלא פרוטה חייב אי אמרת בשלמא שוה משום הכי חייב אלא אי אמרת דוקא אמאי חייב מה שטענו לא הודה לו ומה שהודה לו לא טענו",
+                  "מידי הוא טעמא אלא לשמואל האמר ר\"נ אמר שמואל טענו חטין ושעורין והודה לו באחד מהן חייב",
+                  "ה\"נ מסתברא מדקתני סיפא ליטרא זהב יש לי בידך אין לך בידי אלא ליטרא כסף פטור אי אמרת בשלמא דוקא קתני משום הכי פטור אלא אי אמרת שוה אמאי פטור ליטרא טובא הוי",
+                  "אלא מדסיפא דוקא רישא נמי דוקא",
+                  "לימא תיהוי תיובתא דרב אמר לך רב כולה מתני' שוה וליטרא זהב שאני"
+                ],
+                [
+                  "תדע דקא תני סיפא דינר זהב לי בידך אין לך בידי אלא דינר כסף וטריסית ופונדיון ופרוטה חייב שהכל מין מטבע [אחת] הן א\"א בשלמא שוה משום הכי חייב אלא אי אמרת דוקא אמאי חייב",
+                  "אמר רבי אלעזר בשטענו בדינר מטבעות וקא משמע לן דפרוטה בכלל מטבע איתא דיקא נמי דקתני שהכל מין מטבע אחת",
+                  "ורב שהכל דין מטבע אחת",
+                  "ורבי אלעזר לימא מדסיפא כשמואל מתרץ רישא נמי כשמואל סבירא ליה",
+                  "לא סיפא דוקא דקתני שהכל מין מטבע אחת ורישא כרב או כשמואל",
+                  "תא שמע דינר זהב זהוב לי בידך אין לך בידי אלא דינר כסף חייב טעמא דאמר ליה זהב זהוב הא סתמא שוה קאמר ליה",
+                  "אמר רב אשי הכי קאמר כל האומר דינר זהב כאומר דינר זהב זהוב דמי",
+                  "תני רבי חייא לסיועיה לרב סלע לי בידך אין לך בידי אלא סלע חסר ב' כסף חייב חסר מעה פטור"
+                ]
+              ],
+              "link": "/Shevuot/39b",
+              "originalRefsBeforeRewriting": [
+                "Shevuot 39b:18"
+              ],
+              "ref": "Shevuot 39b:8-40a:8",
+              "sourceHeRef": "שבועות ל״ט ב",
+              "sourceRef": "Shevuot 39b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person claims that a colleague owes him two types of produce and the colleague admits owing only one, his admission is considered as the same type of the claim and he is required to take an oath. What is implied? The plaintiff claims: \"You have a <i>kor</i> of wheat and a <i>kor</i> of barley of mine in your possession,\" and the defendant answers: \"I have only a <i>kor</i> of wheat,\" he is liable.<br>The following rules apply when the plaintiff begins saying: \"You have a <i>kor</i> of wheat in your possession,\" and before the plaintiff can complete his statements and add: \"And you have a <i>kor</i> of barley of mine in your possession,\" the defendant answers: \"I have only a <i>kor</i> of barley.\" If it appears to the judges that the defendant is seeking to deceive, he is required to take the oath. If it appears, that he acted in good faith, he is not liable.",
+              "he": "הַטּוֹעֵן אֶת חֲבֵרוֹ שְׁנֵי מִינִין וְהוֹדָה בְּאֶחָד מֵהֶן הֲרֵי הַהוֹדָיָה מִמִּין הַטַּעֲנָה וְנִשְׁבָּע. כֵּיצַד. כְּגוֹן כּוֹר חִטִּין וְכוֹר שְׂעוֹרִין יֵשׁ לִי בְּיָדְךָ אֵין לְךָ בְּיָדִי אֶלָּא כּוֹר חִטִּין חַיָּב. הִתְחִיל הַטּוֹעֵן וְאָמַר כּוֹר חִטִּין יֵשׁ לִי בְּיָדְךָ וְקֹדֶם שֶׁיַּשְׁלִים דְּבָרָיו וְאָמַר כּוֹר שְׂעוֹרִים יֵשׁ לִי בְּיָדְךָ אָמַר לוֹ הַנִּטְעָן אֵין לְךָ בְּיָדִי אֶלָּא כּוֹר שְׂעוֹרִים. אִם נִרְאֶה לַדַּיָּנִין שֶׁהַנִּטְעָן הֶעֱרִים חַיָּב שְׁבוּעָה. וְאִם לְפִי תֻּמּוֹ פָּטוּר:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 3:11",
+              "sourceHeRef": "הלכות טוען ונטען ג:יא",
+              "sourceRef": "Plaintiff and Defendant 3:11"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "A person who admits a portion of a claim is not obligated to take an oath unless the admission is of the same nature as the claim.<br>What is implied? The plaintiff claims: \"You owe me a <i>kor</i> of wheat.\" If the defendant responds: \"I only owe you a <i>letach</i> of wheat,\" he is liable to take the oath. If, however, the defendant responds: \"I only owe you a <i>kor</i> of barley,\" he is not liable. The rationale is that the defendant did not admit owing the species which the plaintiff claimed, and the plaintiff did not claim the species which the defendant admitted owing.<br>If the plaintiff claims: \"I gave you golden <i>dinarim</i> for safekeeping,\" and the defendant responds: \"You entrusted me only with silver <i>dinarim</i>,\" or the plaintiff claims: \"I gave you a silver <i>meah</i> for safekeeping,\" and the defendant responds: \"You entrusted me only with a <i>p'rutah</i>, the defendant is not liable, because the plaintiff claimed one species and the defendant admitted owing another.<br>Similarly, if the plaintiff claims: \"I gave you 10 Egyptian <i>dinarim</i> for safekeeping,\" and the defendant responds: \"You entrusted me only with Tyrian <i>dinarim</i>,\" he is not obligated to take an oath. Similar laws apply in all analogous situations.",
+                      "he": "אֵין מוֹדֶה בְּמִקְצָת חַיָּב שְׁבוּעָה עַד שֶׁתִּהְיֶה הוֹדָיָה מִמִּין הַטַּעֲנָה. כֵּיצַד. כּוֹר חִטִּים יֵשׁ לִי בְּיָדְךָ אֵין לְךָ בְּיָדִי אֶלָּא לֶתֶךְ חִטִּים חַיָּב. אֲבָל אִם אָמַר לוֹ אֵין לְךָ בְּיָדִי אֶלָּא כּוֹר שֶׁל שְׂעוֹרִים פָּטוּר שֶׁהַמִּין שֶׁטְּעָנוֹ לֹא הוֹדָה לוֹ בּוֹ וְהַמִּין שֶׁהוֹדָה לוֹ בּוֹ לֹא טְעָנוֹ. דִּינַר זָהָב יֵשׁ לִי בְּיָדְךָ פִּקָּדוֹן לֹא הִפְקַדְתָּ אֶצְלִי אֶלָּא דִּינַר כֶּסֶף. מָעָה כֶּסֶף הִפְקַדְתִּי אֶצְלְךָ לֹא הִפְקַדְתָּ אֶצְלִי אֶלָּא פְּרוּטָה פָּטוּר שֶׁטְּעָנוֹ מִין אֶחָד וְהוֹדָה לוֹ בְּמִין אַחֵר. וְכֵן אִם אָמַר לוֹ עֲשָׂרָה דִּינָרִים מִצְרִיּוֹת הִפְקַדְתִּי אֶצְלְךָ לֹא הִפְקַדְתָּ אֶצְלִי אֶלָּא עֲשָׂרָה צוֹרִיּוֹת פָּטוּר. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+                      "ref": "Mishneh Torah, Plaintiff and Defendant 3:8",
+                      "sourceHeRef": "הלכות טוען ונטען ג:ח",
+                      "sourceRef": "Plaintiff and Defendant 3:8"
+                    },
+                    {
+                      "en": "A defendant is not liable to take a Scriptural oath when a colleague claims that he owes movable property and the defendant:<br>a) denies the entire matter, saying: \"Such a thing never occurred\";<br>b) admitted a portion of the claim and gave it to him immediately, saying: \"This is all I owe you; here it is\";<br>c) admits that he had originally owed the plaintiff the debt, but claims that the plaintiff waived payment, gave him the object claimed as a present, or that he already returned the debt;<br>d) admits owing barley, while the plaintiff claims wheat.<br>Nevertheless, the Sages of the <i>Gemara</i> ordained that in all these situations, the defendant should take a <i>sh'vuat heset</i>, before being freed of liability. This oath does not resemble a Scriptural oath, because one need not hold a sacred article while taking it. We have already described the process of taking a Scriptural oath and that of taking a <i>sh'vuat heset</i> in <i>Hilchot Sh'vuos</i>.",
+                      "he": "הַטּוֹעֵן מִטַּלְטְלִין עַל חֲבֵרוֹ וְכָפַר בַּכּל וְאָמַר לֹא הָיוּ דְּבָרִים מֵעוֹלָם. אוֹ שֶׁהוֹדָה בְּמִקְצָת וּנְתָנוֹ מִיָּד וְאָמַר אֵין לְךָ בְּיָדִי אֶלָּא זֶה וְהֵילָךְ. אוֹ שֶׁאָמַר אֱמֶת שֶׁהָיָה לְךָ אֶצְלִי אֲבָל מָחַלְתָּ לִי אוֹ נָתַתָּ לִי אוֹ מָכַרְתָּ לִי אוֹ הֶחְזַרְתִּי לְךָ. אוֹ שֶׁטְּעָנוֹ חִטִּים וְהוֹדָה לוֹ בִּשְׂעוֹרִים. בְּכָל אֵלּוּ פָּטוּר מִשְּׁבוּעַת הַתּוֹרָה. אֲבָל חַכְמֵי הַגְּמָרָא תִּקְּנוּ שֶׁיִּשָּׁבַע הַנִּתְבָּע בְּכָל אֵלּוּ שְׁבוּעַת הֶסֵּת וְיִפָּטֵר. וְאֵינוֹ כְּעֵין שֶׁל תּוֹרָה לְפִי שֶׁאֵין בָּהֶן נְקִיטַת חֵפֶץ. וּכְבָר בֵּאַרְנוּ דֶּרֶךְ שְׁבוּעָה שֶׁל תּוֹרָה וְדֶרֶךְ שְׁבוּעַת הֶסֵּת בְּהִלְכוֹת שְׁבוּעוֹת:",
+                      "ref": "Mishneh Torah, Plaintiff and Defendant 1:3",
+                      "sourceHeRef": "הלכות טוען ונטען א:ג",
+                      "sourceRef": "Plaintiff and Defendant 1:3"
+                    },
+                    {
+                      "en": "[The following rules apply when] two oxen were damaged, one large and one small, and there were two oxen that caused the damage, one large and one small. The person whose oxen were damaged claims: the large ox damaged the large ox, and the small ox damaged the small ox. The person whose oxen caused the damage, by contrast claims: \"No. It was the small ox that damaged the large one, and the large ox that damaged the small one.\" [A similar dispute arises if] one [of the oxen that caused the damage] was <i>mu'ad</i> and the other <i>tam</i>. The person whose oxen were damaged claims: the ox that was <i>mu'ad</i> damaged the large ox, and the ox that was <i>tam</i> damaged the small ox. By contrast, the person whose oxen caused the damage claims: \"It was the ox that was <i>tam</i> that damaged the large one, and the ox that was <i>mu'ad</i> that damaged the small one.\" [In both these instances,] the burden of proof is upon the one who wishes to exact payment. If there is no proof, the one who caused the damage is not liable [at all]. To what can this be compared? To an instance where a person claims that a colleague owes him wheat, and the colleague admits to owing him barley. In such a case, [the defendant] is required to take a Rabbinic oath and then is not liable, even for the barley, as will be explained in <i>Hilchot To'en</i>.If the person whose oxen were damaged seizes possession [of property belonging to the person whose oxen caused the damage], he may take payment for the damages to the small ox from the body of the large ox and may take payment for the damages to the large ox from the body of the small ox, as the person who caused the damages admitted. If he did not seize possession [of such property], however, no money at all is expropriated from the person whose oxen caused the damage.",
+                      "he": "הָיוּ הַנִּזָּקִין שְׁנַיִם אֶחָד גָּדוֹל וְאֶחָד קָטָן וְהַמַּזִּיקִין אֶחָד גָּדוֹל וְאֶחָד קָטָן. הַנִּזָּק אוֹמֵר גָּדוֹל הִזִּיק אֶת הַגָּדוֹל וְהַקָּטָן אֶת הַקָּטָן וְהַמַּזִּיק אוֹמֵר לֹא כִּי אֶלָּא קָטָן הִזִּיק אֶת הַגָּדוֹל וְגָדוֹל אֶת הַקָּטָן. אוֹ שֶׁהָיָה אֶחָד תָּם וְאֶחָד מוּעָד הַנִּזָּק אוֹמֵר הַמּוּעָד הִזִּיק אֶת הַגָּדוֹל וְתָם הִזִּיק אֶת הַקָּטָן וְהַמַּזִּיק אוֹמֵר תָּם הִזִּיק אֶת הַגָּדוֹל וְהַמּוּעָד הִזִּיק אֶת הַקָּטָן. הַמּוֹצִיא מֵחֲבֵרוֹ עָלָיו הָרְאָיָה. לֹא הָיְתָה שָׁם רְאָיָה בְּרוּרָה הַמַּזִּיק פָּטוּר. לְמָה זֶה דּוֹמֶה לְזֶה טוֹעֵן אֶת חֲבֵרוֹ חִטִּים וְהוֹדָה לוֹ בִּשְׂעוֹרִים שֶׁהוּא נִשְׁבַּע שְׁבוּעַת הֶסֵּת וּפָטוּר אַף מִדְּמֵי שְׂעוֹרִים כְּמוֹ שֶׁיִּתְבָּאֵר בְּהִלְכוֹת טוֹעֵן. וְאִם תָּפַס הַנִּזָּק הֲרֵי זֶה מְשַׁלֵּם לַקָּטָן מִן הַגָּדוֹל וְלַגָּדוֹל מִן הַקָּטָן כְּמוֹ שֶׁהוֹדָה הַמַּזִּיק. אֲבָל אִם לֹא תָּפַס אֵין מוֹצִיאִין מִן הַמַּזִּיק כְּלוּם:",
+                      "ref": "Mishneh Torah, Damages to Property 9:11",
+                      "sourceHeRef": "הלכות נזקי ממון ט:יא",
+                      "sourceRef": "Damages to Property 9:11"
+                    },
+                    {
+                      "en": "If the plaintiff claims: \"You have a <i>kor</i> of wheat of mine in your possession,\" and the defendant answers: \"I have only a <i>kor</i> of barley,\" he is not liable, not even for the barley. The rationale is that the plaintiff states: \"You do not owe me barley.\" Thus the situation resembles one in which a person tells a colleague in court: \"I have a <i>maneh</i> of yours,\" and that colleague replies: \"You do not owe me anything.\" In such a situation, the court does not require the person making the admission to pay his colleague anything.<br>If the plaintiff who claims the wheat seizes possession of the barley, we do not expropriate it from him.",
+                      "he": "כּוֹר חִטִּים יֵשׁ לִי בְּיָדְךָ אֵין לְךָ בְּיָדִי אֶלָּא כּוֹר שְׂעוֹרִים פָּטוּר אַף מִדְּמֵי שְׂעוֹרִים. שֶׁהֲרֵי אוֹמֵר לוֹ אֵין לִי בְּיָדְךָ שְׂעוֹרִים וְנִמְצָא זֶה דּוֹמֶה לְמִי שֶׁאָמַר לַחֲבֵרוֹ בְּבֵית דִּין מָנֶה לְךָ בְּיָדִי וְאוֹמֵר לוֹ הָאַחֵר אֵין לִי בְּיָדְךָ שֶׁאֵין בֵּית דִּין מְחַיְּבִין אוֹתוֹ לִתֵּן לוֹ כְּלוּם. וְאִם תָּפַס הַתּוֹבֵעַ דְּמֵי הַשְּׂעוֹרִים אֵין מוֹצִיאִין מִיָּדוֹ:",
+                      "ref": "Mishneh Torah, Plaintiff and Defendant 3:10",
+                      "sourceHeRef": "הלכות טוען ונטען ג:י",
+                      "sourceRef": "Plaintiff and Defendant 3:10"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "היו הנזקין שנים אחד גדול ואחד קטן והמזיקים ב' א' גדול ואחד קטן הניזק אומר גדול הזיק את הגדול וקטן את הקטן והמזיק אומר לא כי אלא הקטן הזיק את הגדול וגדול הזיק את הקטן או שהי' אחד תם וא' מועד הניזק אומר מועד הזיק את הגדול ותם את הקטן והמזיק אומר תם הזיק את הגדול ומועד את הקטן המוציא מחבירו עליו הראי' ואם לא הביא ראיה ברור' פטור המזיק שהרי זה כטענו לו חטים והוד' לו בשעורים שהוא נשבע היסת ופטור אף מדמי שעורים <span class=\"hebrew-emphasis\">(זו היא סברת י\"א שכתבתי בסמוך אבל יש מחלקים דאם היו כאן עדים שאומרים אחד מהן הזיק אלא שאינם יודעין איזה הוא משלם כמו שאמר מזיק ולא מקרי כהאי גוונא טענו חטין והודה לו בשעורין (המגיד פ\"ט דב\"מ) וכסברא הראשונה שכ' המחבר שמקרי הודאה וכמו שנתבאר) </span>ואם תפס הניזק ה\"ז משלם לקטן מהגדול ולגדול מהקטן כמו שהודה המזיק ואפי' תפס בעדים נוטל כמו שאמר המזיק אבל אינו נוטל כפי דבריו ודוקא תפס קודם שבא לב\"ד אבל לאחר שבא לב\"ד לא מהניא ליה תפיסה אפי' ליטול כדברי המזיק:",
+                      "ref": "Shulchan Arukh, Choshen Mishpat 400:4",
+                      "sourceHeRef": "חושן משפט ת:ד - שור שהיה רודף אחר חבירו או שנים רודפים או שנים נרדפים",
+                      "sourceRef": "Choshen Mishpat 400:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "תבעו ב' דברים כגון חטים ושעורים והודה לו באחד מהם חייב ליתן לו מה שהודה לו ונשבע על השאר אבל תבעו חטים והודה לו בשעורים פטור אף מדמי שעורים ויש מי שאומר שהטעם משום דחשיב כאלו הודה התובע שאינו חייב לו שעורים ולפיכך אפי' יש עדים על השעורים פטור דהודאת בעל דין כמאה עדים דמי: <span class=\"hebrew-emphasis\">הגה (מהר\"מ) ואפי' יודע הנתבע שחייב לו השעורים פטור לשלם לו דהוי כאלו מחל לו התובע וכמו שנתבאר לעיל סי' ע\"ה סעיף י\"א כן נ\"ל דלא כיש מי שחולק </span>ויש מי שאומר דדוקא כשא\"ל חטים הלויתיך ביום פלו' ובשעה פלוני' והלה אומר שעורים היו דאם איתא שהלוהו שניהם הי' טוען על שניהם כיון דבבת אחת הלוהו אלא ודאי הודה שלא הלוה לו שעורים <span class=\"hebrew-emphasis\">(אבל בלאו הכי ודאי חייב דאין אדם מוחל על שאר תביעות אם לא תבע אלא אחת) (טור) </span>ואם תפס התובע דמי השעורים אין מוציאין מידו: <span class=\"hebrew-emphasis\">הגה וי\"א דוקא אם תפס קודם שתבעו בדין אבל אם תפס לאחר שעמדו בדין מפקינן מיניה (טור) </span>וכן נ\"ל עיקר:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 88:12",
+              "sourceHeRef": "חושן משפט פח:יב - דיני כפירה והוראה ושתהא ממין הטענה",
+              "sourceRef": "Choshen Mishpat 88:12"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אם כן <b>לימא תהוי תיובתא</b> <span class=\"hebrew-emphasis\">[</span>האם <span class=\"hebrew-emphasis\">נאמר</span> ש<span class=\"hebrew-emphasis\">תהא</span> זו <span class=\"hebrew-emphasis\">קושיה חמורה]</span> על דברי <b>רב נחמן אמר שמואל, שאמר רב נחמן אמר שמואל: טענו חטין ושעורים והודה לו באחד מהן — חייב</b> שבועה, לפי שהודה במקצת הטענה!",
+              "ref": "Steinsaltz on Ketubot 108b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:ז",
+              "sourceRef": "Steinsaltz on Ketubot 108b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one claims that another owes him two different types of items and the other admits that he owes him one of those types, this is considered an admission of debt of the same type that was claimed, and therefore the one who admitted must take an oath with regard to the rest of the debt. For example, if one claims that another owes him wheat and barley, and the other party concedes that he owes him wheat but not barley, he is obligated to take an oath to that effect. The <i>halakha </i>is in accordance with the opinion of Shmuel (Rambam <i>Sefer Mishpatim</i>,<i> Hilkhot To’en VeNitan</i> 3:11; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>88:12).",
+              "he": "כבר בתוס' (ד\"ה שמע) תהו על שאלה זו: הלא לכאורה דברי רב נחמן הם ממש כדברי אדמון (ובמסכת שבועות אמר ר' יוחנן ששיטה זו היא שיטת אדמון) ומה הקושיה עליו מדברי חכמים? והריטב\"א תירץ בדרך אחרת, שנראה שרב נחמן אמר את דבריו לדעת הכל, כהלכה שאין חולק עליה, ולכן הקשו עליו — שמסתבר שיש בדבר חילוקי דעות.",
+              "ref": "Steinsaltz comment #1 on Ketubot 108b:7",
+              "sourceHeRef": "טְעָנוֹ חִטִּין וּשְׂעוֹרִים וְהוֹדָה לוֹ בְּאֶחָד וכו׳",
+              "sourceRef": "One claimed against another wheat and barley, and he admitted to one, etc."
+            },
+            {
+              "en": "",
+              "he": "וכבר העירו ראשונים שאין דרכה של סוגיה זו מתאימה לסוגיה המקבילה במסכת שבועות ויש לראותן כסוגיות ההפוכות בש\"ס, (ריטב\"א ועוד). וראה בתלמוד הירושלמי שדנו גם כן בבעיה זו ובעיקר בשיטת ר' יוחנן, האם סבור הוא כשמואל (וכדעת ריש לקיש שם) שטענו חטים ושעורים והודה לו באחד מהם נשבע.",
+              "ref": "Steinsaltz comment #2 on Ketubot 108b:7",
+              "sourceHeRef": "טענו חטין ושעורים וכו'",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "הטוען את חבירו שני מינים והודה באחד מהם, הרי זה כהודאה ממין הטענה ונשבע על השאר. כגון שטענו חטים ושעורים והודה לו בחטין — חייב שבועה. כשמואל. (רמב\"ם ספר משפטים הלכות טוען ונטען פ\"ג הי\"א. שו\"ע חו\"מ פח, יב).",
+              "ref": "Steinsaltz comment #3 on Ketubot 108b:7",
+              "sourceHeRef": "טענו חטין ושעורים והודה לו באחד וכו'",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara suggests: <b>Let us say that it is a conclusive refutation of</b> the opinion that <b><span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span></b> said that <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> said. As <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> said</b> that <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> said:</b> If one <b>claimed against</b> another that he owed him <b>wheat and barley, and</b> the other <b>admitted to</b> owing <b>one of</b> the types, <b>he is obligated</b> to take an oath, as he partially admitted to the claim.",
+      "he": "לֵימָא תִּהְוֵי תְּיוּבְתָּא <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">דְּרַב נַחְמָן</span> אָמַר <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">שְׁמוּאֵל</span>, דְּאָמַר רַב נַחְמָן אָמַר שְׁמוּאֵל: טְעָנוֹ חִטִּין וּשְׂעוֹרִים וְהוֹדָה לוֹ בְּאֶחָד מֵהֶן — חַיָּיב!",
+      "ref": "Ketubot 108b:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בטוענו מדה</strong> - לא תבע ממנו קנקנים אלא שמן הפקדתי אצלך ומאי כדי שמן דקתני מתני' מדה מלא עשרה כדי שמן דהוי ליה טענו חטים והודה לו בשעורים:",
+              "ref": "Rashi on Ketubot 108b:8:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ח:א",
+              "sourceRef": "Rashi on Ketubot 108b:8:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אי הכי מ\"ט דאדמון</b> הקשו בתוספת מאי קושיא דהא ר\"ג נמי אית לי' טענו בחטי' והודה לו בשעורים חייב ותרצו משום דרב נחמן פסק הכא כרבנן דפטרי ואנן קי\"ל כאדמון לפום כללא דלקמן מסתמא וא\"כ מ\"ט יהבי' לאדמון דלא פליג עלייהו דרבנן. נימא תהוי תיובתא דרבי יוחנן וא\"ת ומאי קושיא דאיהו מוקים לה למתניתין כקס\"ד מעיקרא דאקשינן לר\"נ דמיירי דטען כדים ושמן ואיהו קאמר כרבנן ולית לי' כללא כדלקמן. וי\"ל שכבר נשמר מזה רש\"י ז\"ל דהשתא דייקא לן מתני' כאוקימתא דאוקימנא לר\"נ מדקתני הטוען את חבירו כדי שמן ולא קתני כדים מלאים שמן:",
+              "ref": "Ritva on Ketubot 108b:3",
+              "sourceHeRef": "ריטב\"א על כתובות ק״ח ב:ג",
+              "sourceRef": "Ritva on Ketubot 108b:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב יהודה אמר רב:</b> במשנה מדובר לא כשטען החבר שחייב לו שמן וקנקנים, אלא <b>בטוענו מדה,</b> שאמר לו, כמות של כך וכך כדי שמן אתה חייב לי ונמצא שאין זו הודאה ממין הטענה כלל. ושואלים: <b>אי הכי, מאי טעמא</b> <span class=\"hebrew-emphasis\">[אם כך, מה הטעם]</span> של <b>אדמון</b> המצריך שבועת הודאה במקצת? שהרי ודאי אין ההודאה ממין הטענה!",
+              "ref": "Steinsaltz on Ketubot 108b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:ח",
+              "sourceRef": "Steinsaltz on Ketubot 108b:8"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי הכי מ\"ט דאדמון</strong> - תימה מאי קא קשיא ליה הא אשכחן ר\"ג דאית ליה האי סברא דמיחייב בטען לו חטין והודה לו בשעורים כדתנן בפ' שבועת הדיינין <span class=\"parenthesized\">(שבועות לח: ושם)</span> ונראה דה\"ק אי הכי מ\"ט דאדמון אליבא דר\"נ דהא בעינן למימר דלהוי אדמון כרב נחמן דכוותיה קי\"ל ור\"נ דוקא בטענו חטין ושעורים והודה לו באחד מהן מיחייב אבל טענו חטין והודה לו בשעורין פטור:",
+              "ref": "Tosafot on Ketubot 108b:8:1",
+              "sourceHeRef": "תוספות על כתובות ק״ח ב:ח:א",
+              "sourceRef": "Tosafot on Ketubot 108b:8:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> said</b> that <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> said:</b> The mishna is not referring <b>to</b> a case where one claimed that another owed him oil and pitchers. Rather, <b>he claimed</b> that another owed him a certain <b>measure</b> of oil, i.e., an amount of oil that would fill a certain number of jugs, while he did not claim the jugs at all. Consequently, the admission was not of the same type as the claim at all. The Gemara asks: <b>If so, what is the rationale</b> for the ruling <b>of <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span></b> that he must take an oath? Clearly, the admission and the claim do not refer to the same objects.",
+      "he": "אָמַר <span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">רַב יְהוּדָה</span> אָמַר <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">רַב</span>: בְּטוֹעֲנוֹ מִדָּה. אִי הָכִי, מַאי טַעְמָא דְּאַדְמוֹן?",
+      "ref": "Ketubot 108b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קַנְקָן I</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, קָנַן 1\" dir=\"rtl\" href=\"/Jastrow,_קָנַן.1\">קָנַן</span>) <br><b>1)</b> <i>a cylindrical vessel let into the ground of the cellar</i> (see Smith, Dictionary of Greek and Roman Antiquities, Third American Edition, New-York 1858 section (Parashah) see Dolium), in gen. <i>wine-</i> or <i>oil-vessel</i>. <span class=\"refLink\" data-ref=\"Pirkei Avot 4:20\" href=\"/Pirkei_Avot.4.20\">Pirkei Avot IV, 20</span> <span dir=\"rtl\">אל תסתכל בק׳ וכ׳</span> look not at the vessel but at what it contains; <span dir=\"rtl\">יש ק׳ חדש וכ׳</span> many a new vessel is full of old wine (many a young man is a fine scholar) &c. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">ק׳ … מקַנְקַנּוֹ וכ׳</span>, see infra. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 85:3\" href=\"/Bereishit_Rabbah.85.3\">Breishit Rabbah section (Parashah) 85</span> <span dir=\"rtl\">נטלו ק׳ אחד וכ׳</span> they took one cask in the cellar &c.; <span dir=\"rtl\">החזירו את הק׳ למקומה</span> (read: <span dir=\"rtl\">למקומו</span>) put the cask back into its place. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sukkah 1:5:4\" href=\"Jerusalem_Talmud_Sukkah.1.5.4\">Yerushalmi Sukkah I, 52ᵇ</span> bottom of page <span dir=\"rtl\">כמשלח … וקַנְקַנָּהּ</span> like one sending to his neighbor a cask of wine and the storage vessel with it (making a present of both); <span class=\"refLink\" data-ref=\"Bereishit Rabbah 13\" href=\"/Bereishit_Rabbah.13\">Breishit Rabbah section (Parashah) 13</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 882\" href=\"/Yalkut_Shimoni_on_Nach.882\">Yalkut Psalms 882</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Beitzah 4:1:2\" href=\"Jerusalem_Talmud_Beitzah.4.1.2\">Yerushalmi Beitzah IV, beginning 62ᵇ</span> <span dir=\"rtl\">מביאה על גב קנקנה</span> he brings the load of wine in its original vessel (not bottle-wise); and from—plural <span dir=\"rtl\">קַנְקַנִּים</span>, <span dir=\"rtl\">קַנְקַנִּין</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 32:3\" href=\"/Bereishit_Rabbah.32.3\">Breishit Rabbah section (Parashah) 32</span> <span dir=\"rtl\">היוצר … בודק ק׳ מרועעים וכ׳</span> the potter does not try (knock at) the defective vessels …, but he tries the sound (so God tries not the bad but the good men). <span class=\"refLink\" data-ref=\"Mishnah Ketubot 13:4\" href=\"/Mishnah_Ketubot.13.4\">Ketubot XIII, 4</span> <span dir=\"rtl\">והודה בק׳</span> but admits that he owes the (empty) vessels, see <span class=\"refLink\" data-ref=\"Jastrow, כַּד II 1\" href=\"/Jastrow,_כַּד II.1\"><span dir=\"rtl\">כַּד</span> II</span>. <span class=\"refLink\" data-ref=\"Ketubot 108b:14\" href=\"/Ketubot.108b.14\">Ib. 108ᵇ</span> <span dir=\"rtl\">יש בלשון הזה לשון ק׳</span> the expression ‘vessels of oil’ includes vessels, i.e. one who claims vessels of oil claims not only a certain quantity of oil, but also the vessels. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">צפה הקב\"ה בכל הק׳ ולא מצא וכ׳</span> the Lord looked at all vessels (fit to receive the Law), and found none better pitched than that of Moses &c.; and from <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, קֶנֶת 1\" dir=\"rtl\" href=\"/Jastrow,_קֶנֶת.1\">קֶנֶת</span>, and <span class=\"refLink\" data-ref=\"Jastrow, מָאן 1\" dir=\"rtl\" href=\"/Jastrow,_מָאן.1\">מָנָא</span>) <i>coulter</i>. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 6:4\" href=\"/Mishnah_Bava_Metzia.6.4\">Bava Metzia VI, 4</span> (<span class=\"refLink\" data-ref=\"Bava Metzia 80a\" href=\"/Bava_Metzia.80a\">80ᵃ</span>).—[<span class=\"refLink\" data-ref=\"Eruvin 101a:2\" href=\"/Eruvin.101a.2\">Eruvin 101ᵃ</span> <span dir=\"rtl\">ק׳ הנגרר</span> a plough used as a bar, Rashi; see next word]"
+              ],
+              "he": [],
+              "ref": "Jastrow, קַנְקָן I 1",
+              "sourceHeRef": "מילון יסטרוב, קַנְקָן I א׳",
+              "sourceRef": "Jastrow, קַנְקָן I 1"
+            }
+          ]
+        },
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "תוס' בד\"ה אמר רבא דעסיק כו' ולהכי פריך מאן כו' אבל כו' בבנים קטנים כו' עכ\"ל ר\"ל דע\"כ לדבריך תמיהת אדמון אינו רק לעוסק בתורה וזהו דוחק דאדמון סתמא קמתמה אף על שאינו עוסק בתורה וכ\"כ מהרש\"ל מיהו ק\"ק להאי תירוצא דאכתי קשה בגדול העוסק בתורה אמאי הבנות יזונו והבן יחזור על הפתחים כיון דמצוה לזון הבנות ק\"ו לבן העוסק בתורה כדאמרינן התם ויש ליישב ודו\"ק:",
+              "ref": "Chidushei Halachot on Ketubot 108b:1",
+              "sourceHeRef": " חידושי הלכות על מסכת כתובות ק״ח ב:א",
+              "sourceRef": "Chidushei Halachot on Ketubot 108b:1"
+            },
+            {
+              "en": "",
+              "he": "בד\"ה שמע מינה מדרבנן כו' שאינו יודע התלמוד אמאי הוי נקט האי לישנא דכדי שמן ומיהו כו' עכ\"ל ר\"ל המקשה הכא ש\"מ מדרבנן כו' לא ידע הא דמסיק הא דנקט כדי שמן משום דפליגי ביש בלשון הזה לשון קנקנים אלא דהוה ס\"ד דנקט כדי שמן משום דפליגי בהא אי הוה כרימון בקליפתו או לא ואהא קשיא להו לבתר דידע המקשה דיש לפרש דפליגי ביש בלשון הזה כו' לא ניחא ליה לאוקמא דפליגי אי הוה כרימון בקליפתו ומקשה לר\"ח בר אבא ואפ\"ה משני כו' ויש לדקדק דאימא דודאי לבתר דידע דיש לפרש דפליגי ביש בלשון הזה לא ניחא ליה לאוקמא דפליגי אי הוה כרימון בקליפתו אלא דלכ\"ע הוה כטענו רימון בקליפתו והמתרץ לא השיב לו דפליגי באם הוה כרימון בקליפתו <span class=\"parenthesized\">(ב)</span> אלא דלכ\"ע הוה כרימון בקליפתו אם טענו בהדיא שמן וקנקנים דהשתא פליגי נמי ביש בלשון הזה קנקנים ולכך לאדמון דיש בלשון הזה לשון קנקנים וה\"ל כטוענו רימון בקליפתו ולרבנן אין בלשון הזה לשון קנקנים ולא הוה כטוענו רימון בקליפתו ויש ליישב דאי לכ\"ע הוה כטוענו רימון בקליפתו לא הוה לן למימר נמי דאין בלשון הזה לשון קנקנים ודו\"ק:",
+              "ref": "Chidushei Halachot on Ketubot 108b:2",
+              "sourceHeRef": " חידושי הלכות על מסכת כתובות ק״ח ב:ב",
+              "sourceRef": "Chidushei Halachot on Ketubot 108b:2"
+            },
+            {
+              "en": "",
+              "he": "בד\"ה הפוסק כו' הואיל ופסק במעמדה הוי תנאי גדולה כ' ומסיק כופין לבעל כו' עכ\"ל ושפיר קאמר תנא בד\"א בגדולה כו' <span class=\"parenthesized\">(ג)</span> אמתני' ו בפסק האב ודלא כפירוש רש\"י לקמן דאברייתא קאי וק\"ל:",
+              "ref": "Chidushei Halachot on Ketubot 108b:3",
+              "sourceHeRef": " חידושי הלכות על מסכת כתובות ק״ח ב:ג",
+              "sourceRef": "Chidushei Halachot on Ketubot 108b:3"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Similarly, the defendant is not held liable for an oath when the plaintiff claims: \"You have a quantity of oil large enough to fill ten jugs of mine in your possession,\" and the defendant answers: \"I owe you only ten empty jugs.\" The rationale is that the plaintiff claimed oil and the defendant admitted owing only earthenware.<br>Different rules apply if the plaintiff claimed: \"You have ten jugs of oil of mine in your possession,\" and the defendant answers: \"I owe you only ten empty jugs.\" The defendant is liable to take an oath. The rationale is that the plaintiff claimed both jugs and oil and the defendant admitted owing the jugs. Similar laws apply in all analogous situations.",
+              "he": "מְלֹא עֲשָׂרָה כַּדִּין שֶׁמֶן יֵשׁ לִי בְּיָדְךָ אֵין לְךָ בְּיָדִי אֶלָּא עֲשָׂרָה כַּדִּין בְּלֹא שֶׁמֶן פָּטוּר. שֶׁהֲרֵי טְעָנוֹ שֶׁמֶן וְהוֹדָה לוֹ בָּחֲרָסִים. עֲשָׂרָה כַּדִּין שֶׁמֶן יֵשׁ לִי בְּיָדְךָ אֵין לְךָ בְּיָדִי אֶלָּא עֲשָׂרָה כַּדִּין רֵיקָנִין חַיָּב שְׁבוּעָה שֶׁהֲרֵי טְעָנוֹ הַכַּדִּין וְהַשֶּׁמֶן וְהוֹדָה לוֹ בַּכַּדִּין. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 3:13",
+              "sourceHeRef": "הלכות טוען ונטען ג:יג",
+              "sourceRef": "Plaintiff and Defendant 3:13"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בבורך</strong> - בור שלפני הבד:",
+              "ref": "Rashi on Ketubot 108b:9:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ט:א",
+              "sourceRef": "Rashi on Ketubot 108b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קנקנים לא טעין ליה</strong> - וכי הודה לו בקנקנים לאו הודאה היא:",
+              "ref": "Rashi on Ketubot 108b:9:2",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ט:ב",
+              "sourceRef": "Rashi on Ketubot 108b:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כדים מלאים</strong> - כדים ושמן משמע:",
+              "ref": "Rashi on Ketubot 108b:9:3",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:ט:ג",
+              "sourceRef": "Rashi on Ketubot 108b:9:3"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "היכא דא\"ל מלא עשרה כדי שמן יש לי אצלך שמן קא טעין ליה קנקנים לא קא טעין ליה עשרה כדי שמן מלאים יש לי בידך שמן וקנקנים קא עעין ליה כי פליגי היכא דא\"ל עשרה כדי שמן יש לי אצלך אדמון סבר יש בלשון הזה לשון קנקנים וה\"ל מודה במקצת הטענה וישבע ורבנן סברי אין בלשון זה לשון קנקנים ואין כאן הודאה במקצת אלא מה שטענו לא הודה לו ומה שהודה לו לא טענו וה\"ל כמי שטענו חטין והודה לו בשעורים דפטור וקי\"ל כאדמון דאמר יש בלשון הזה לשון קנקנים וה\"ל מודה מקצת הטענה דא\"ר זירא א\"ר ירמיה בר אבא ב' דברים שאמר חנן הלכה כמותו וכיוצא בו שבעה דברים שאדם אדמון יש מהן שהלכה כמותו וכיוצא בו ויש מהן שאין הלכה כמותו אלא כיוצא בו כל מקום שאמר ר\"ג רואה אני את דברי אדמון הלכה כמותו ואינך לא ודאמר רבן גמליאל רואה אני את דברי אדמון תלתא אינון מי שמת והניח בנים ובנות והטוען את חבירו כדי יין וכדי שמן והפוסק מעות לחתנו ופשט לו את הרגל. מי שמת והניח בנים ובנות נפקא ליה מהלכתא דקי\"ל כרבנן דאמרו הבנות יזונו והבנים ישאלו על הפתחים פשו להו תרתי דהלכתא נינהו. כיוצא בו דחנן דאמר לעיל <span class=\"parenthesized\">(כתובות דף קח.)</span> א\"ר הושעיא הא מני חנן היא דאמר איבד את מעותיו כיוצא בו דאדמון הא דאמרי' בשבועות <span class=\"parenthesized\">(דף מ:)</span> טענו שור ושה <span class=\"parenthesized\">(וחמור)</span> והודה לו באחד מהן חייב ואמר רבי חייא בר אבא תלמוד ערוך הוא בפי ר' יוחנן הא מני אדמון היא והא דאצטריך הכא למיפסק הלכה כיוצא בו טפי מכל שאר פסקי הלכה שבהש\"ס דממילא מדמינן מילתא למלתא ההיא דחנן אצטריך דלא תימא דווקא בפורע מזון אשתו שאינו חיוב גמור כל כך הוא דפטור קא משמע לן דאף כיוצא בו בשארי חובות נמי הלכה כמותו וכיוצא בו דאדמון אצטריך דלא תימא שאני הכא דהוי כמו רמון בקליפתו:",
+              "ref": "Rosh on Ketubot 13:10:2",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות יג:י:ב",
+              "sourceRef": "Rosh on Ketubot 13:10:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מלא עשר כדים שמן יש לי בידך אין לך בידי אלא עשר כדים בלא שמן פטור שהרי טענו <span class=\"hebrew-emphasis\">(בשמן) </span>והודה לו בחרסים עשר כדים שמן יש לי בידך <span class=\"hebrew-emphasis\">(או שאמר לו י' כדים מלאים שמן יש לי בידך) (טור) </span>אין לך בידי אלא עשר כדים ריקנים <span class=\"hebrew-emphasis\">(או שהודה לו בשמן לחוד) (טור) </span>חייב שבועת התורה שהרי טענו הכדים והשמן: <span class=\"hebrew-emphasis\">הגה אבל אם אמר לו י' כדי שמן יש לי בידך לא טענו אלא הכדים ואם הודה לו בשמן לא הוי ממין הטענה (טור): </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 88:18",
+              "sourceHeRef": "חושן משפט פח:יח - דיני כפירה והוראה ושתהא ממין הטענה",
+              "sourceRef": "Choshen Mishpat 88:18"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא אמר רבא: דכולי עלמא</b> <span class=\"hebrew-emphasis\">[לדעת הכל]</span> <b>היכא</b> <span class=\"hebrew-emphasis\">[במקום]</span> ש<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>\"מלא עשרה כדי שמן יש לי בבורך\",</b> במקרה זה ודאי <b>שמן קטעין ליה</b> <span class=\"hebrew-emphasis\">[טוען לו,</span> עליו<span class=\"hebrew-emphasis\">],</span> <b>קנקנים לא קטעין ליה</b> <span class=\"hebrew-emphasis\">[טוען לו,</span> עליו<span class=\"hebrew-emphasis\">]</span> כלל ולדעת הכל אין ההודאה בקנקנים הודאה במקצת להתחייב עליה שבועה. אם אמר לו <b>\"עשרה כדי שמן מלאים יש לי אצלך\"</b> במקרה זה — <b>שמן וקנקנים קטעין ליה</b> <span class=\"hebrew-emphasis\">[טוען לו,</span> עליו<span class=\"hebrew-emphasis\">],</span> וכאשר מודה בקנקנים נמצא שהודה במקצת הטענה, ואף בכך הכל מודים שנשבע.",
+              "ref": "Steinsaltz on Ketubot 108b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:ט",
+              "sourceRef": "Steinsaltz on Ketubot 108b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The later commentaries note the textual variants here, as some omit the phrase: In your pit. Apparently, those who accept that reading maintain that the phrase: I have ten jugfuls of oil, is enough to indicate that one is referring only to oil, not to the containers, and there is no need to stress the fact that the oil is not in pitchers but is still in the pit (see Rambam).",
+              "he": "כבר העירו אחרונים על חילופי הגרסות כאן, שלא הכל גורסים \"בבורך\", ונראה שיש סבורים (וראה ברמב\"ם ועוד) שעצם הלשון \"מלוא עשרה כדי שמן\" היא עצמה טענה לגבי השמן ולא לגבי הכדים.",
+              "ref": "Steinsaltz comment #1 on Ketubot 108b:9",
+              "sourceHeRef": "יֵשׁ לִי בְּבוֹרְךָ",
+              "sourceRef": "I have…in your pit"
+            },
+            {
+              "en": "If one said to another: I have ten jugfuls of oil in your pit, and the other admitted to the pitchers alone, he is exempt from an oath, as the claim referred to oil and he admitted to owing pitchers. However, if one claimed: I have ten jugs of oil in your possession, and the other concedes to the containers, he must take an oath. The <i>halakha </i>is in accordance with the opinion of Admon, as stated on 109a (<i>Maggid Mishne</i>). Some commentaries (Rema; <i>Tur</i>, based on Rosh) claim that if one said: Ten jugs of oil, this refers to oil alone, not to the containers (Rambam <i>Sefer Mishpatim</i>,<i> Hilkhot To’en VeNitan</i> 3:13; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat </i>88:18).",
+              "he": "הטוען את חבירו \"מלוא עשרה כדי שמן יש לי בידך\", והודה לו בכדים בלבד — פטור, שטענו בשמן והודה לו בכדים. אבל אם טען \"עשרה כדי שמן יש לי בידך\", והודה לו בכדים — חייב שבועה. וכדברי אדמון, שנפסקה הלכה כמותו להלן קט, א (מ\"מ). וכתב הרמ\"א שאם אמר לו \"עשרה כדי שמן\", הרי זו טענה רק לגבי השמן ולא לגבי הכדים (טור עפ\"י הרא\"ש). (רמב\"ם ספר משפטים הלכות טוען ונטען הי\"ג. שו\"ע חו\"מ פח, יח).",
+              "ref": "Steinsaltz comment #2 on Ketubot 108b:9",
+              "sourceHeRef": "עֲשָׂרָה כַּדֵּי שֶׁמֶן וכו׳",
+              "sourceRef": "Ten jugs of oil, etc."
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: Everyone agrees that</b> in a case <b>where he said to him: I have ten jugfuls of oil in your pit, he is claiming oil from him</b> and <b>he is not claiming pitchers from him</b> at all. In this case, it is clear that admitting to owing pitchers is not a partial admission whatsoever that would lead to an obligation to take an oath. Similarly, if he said to him: <b>I have ten full jugs of oil with you, he is claiming from him</b> both <b>oil and pitchers,</b> and therefore if the other party concedes to owing pitchers, this is a partial admission to the claim and everyone agrees that he must take an oath.",
+      "he": "אֶלָּא אָמַר <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: דְּכוּלֵּי עָלְמָא הֵיכָא דַּאֲמַר לֵיהּ ״מְלֹא עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי בְּבוֹרֶךָ״, שֶׁמֶן קָטָעֵין לֵיהּ, קַנְקַנִּים לָא קָטָעֵין לֵיהּ. ״עֲשָׂרָה כַּדֵּי שֶׁמֶן מְלֵאִים יֵשׁ לִי אֶצְלְךָ״ — שֶׁמֶן וְקַנְקַנִּים קָטָעֵין לֵיהּ.",
+      "ref": "Ketubot 108b:9"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קַנְקָן I</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, קָנַן 1\" dir=\"rtl\" href=\"/Jastrow,_קָנַן.1\">קָנַן</span>) <br><b>1)</b> <i>a cylindrical vessel let into the ground of the cellar</i> (see Smith, Dictionary of Greek and Roman Antiquities, Third American Edition, New-York 1858 section (Parashah) see Dolium), in gen. <i>wine-</i> or <i>oil-vessel</i>. <span class=\"refLink\" data-ref=\"Pirkei Avot 4:20\" href=\"/Pirkei_Avot.4.20\">Pirkei Avot IV, 20</span> <span dir=\"rtl\">אל תסתכל בק׳ וכ׳</span> look not at the vessel but at what it contains; <span dir=\"rtl\">יש ק׳ חדש וכ׳</span> many a new vessel is full of old wine (many a young man is a fine scholar) &c. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">ק׳ … מקַנְקַנּוֹ וכ׳</span>, see infra. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 85:3\" href=\"/Bereishit_Rabbah.85.3\">Breishit Rabbah section (Parashah) 85</span> <span dir=\"rtl\">נטלו ק׳ אחד וכ׳</span> they took one cask in the cellar &c.; <span dir=\"rtl\">החזירו את הק׳ למקומה</span> (read: <span dir=\"rtl\">למקומו</span>) put the cask back into its place. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sukkah 1:5:4\" href=\"Jerusalem_Talmud_Sukkah.1.5.4\">Yerushalmi Sukkah I, 52ᵇ</span> bottom of page <span dir=\"rtl\">כמשלח … וקַנְקַנָּהּ</span> like one sending to his neighbor a cask of wine and the storage vessel with it (making a present of both); <span class=\"refLink\" data-ref=\"Bereishit Rabbah 13\" href=\"/Bereishit_Rabbah.13\">Breishit Rabbah section (Parashah) 13</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 882\" href=\"/Yalkut_Shimoni_on_Nach.882\">Yalkut Psalms 882</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Beitzah 4:1:2\" href=\"Jerusalem_Talmud_Beitzah.4.1.2\">Yerushalmi Beitzah IV, beginning 62ᵇ</span> <span dir=\"rtl\">מביאה על גב קנקנה</span> he brings the load of wine in its original vessel (not bottle-wise); and from—plural <span dir=\"rtl\">קַנְקַנִּים</span>, <span dir=\"rtl\">קַנְקַנִּין</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 32:3\" href=\"/Bereishit_Rabbah.32.3\">Breishit Rabbah section (Parashah) 32</span> <span dir=\"rtl\">היוצר … בודק ק׳ מרועעים וכ׳</span> the potter does not try (knock at) the defective vessels …, but he tries the sound (so God tries not the bad but the good men). <span class=\"refLink\" data-ref=\"Mishnah Ketubot 13:4\" href=\"/Mishnah_Ketubot.13.4\">Ketubot XIII, 4</span> <span dir=\"rtl\">והודה בק׳</span> but admits that he owes the (empty) vessels, see <span class=\"refLink\" data-ref=\"Jastrow, כַּד II 1\" href=\"/Jastrow,_כַּד II.1\"><span dir=\"rtl\">כַּד</span> II</span>. <span class=\"refLink\" data-ref=\"Ketubot 108b:14\" href=\"/Ketubot.108b.14\">Ib. 108ᵇ</span> <span dir=\"rtl\">יש בלשון הזה לשון ק׳</span> the expression ‘vessels of oil’ includes vessels, i.e. one who claims vessels of oil claims not only a certain quantity of oil, but also the vessels. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">צפה הקב\"ה בכל הק׳ ולא מצא וכ׳</span> the Lord looked at all vessels (fit to receive the Law), and found none better pitched than that of Moses &c.; and from <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, קֶנֶת 1\" dir=\"rtl\" href=\"/Jastrow,_קֶנֶת.1\">קֶנֶת</span>, and <span class=\"refLink\" data-ref=\"Jastrow, מָאן 1\" dir=\"rtl\" href=\"/Jastrow,_מָאן.1\">מָנָא</span>) <i>coulter</i>. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 6:4\" href=\"/Mishnah_Bava_Metzia.6.4\">Bava Metzia VI, 4</span> (<span class=\"refLink\" data-ref=\"Bava Metzia 80a\" href=\"/Bava_Metzia.80a\">80ᵃ</span>).—[<span class=\"refLink\" data-ref=\"Eruvin 101a:2\" href=\"/Eruvin.101a.2\">Eruvin 101ᵃ</span> <span dir=\"rtl\">ק׳ הנגרר</span> a plough used as a bar, Rashi; see next word]"
+              ],
+              "he": [],
+              "ref": "Jastrow, קַנְקָן I 1",
+              "sourceHeRef": "מילון יסטרוב, קַנְקָן I א׳",
+              "sourceRef": "Jastrow, קַנְקָן I 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>Rabbi Zeira says</b> that <b>Rabbi Ḥanina says</b> that <b>Rav Ashi says</b> that <b>Rabbi</b> Yehuda HaNasi <b>says:</b> In the case of <b>a slave who marries a free woman in the presence of his master,</b>"
+                ],
+                [
+                  "<b>he is emancipated. Rabbi Yoḥanan said to</b> Rabbi Zeira: <b>You possess such</b> an extreme <i>halakha</i>, <b>but I teach</b> this <i>halakha</i>: With regard to <b>one who writes a document of betrothal for his maidservant,</b> stating: You are hereby betrothed to me, <b>Rabbi Meir says: She is betrothed, and the Rabbis say: She is not betrothed,</b> as even this, when he betroths her directly, does not serve as proof that he emancipates her.",
+                  "The Gemara answers: Just <b>as that</b> which <b>Rabba bar Rav Sheila says</b> in a different context, that Rabbi Yehoshua ben Levi is referring to a case <b>where</b> a slave’s <b>master placed phylacteries on him, here too,</b> the context of Rabbi Zeira’s statement is not that of a slave who married a woman in his master’s presence but a case <b>where</b> the slave’s <b>master</b> himself <b>provided a wife for him,</b> as this is certainly proof that he had emancipated him.",
+                  "The Gemara questions this answer: <b>Is there anything</b> like this, <b>where for his slave he would not violate a prohibition,</b> and by providing a wife for his slave he indicates that he must have emancipated the slave, <b>but he</b> himself might <b>violate the prohibition,</b> as he is suspected of marrying his maidservant without having freed her?",
+                  "<b>Rav Naḥman bar Yitzḥak said: With what are we dealing here?</b> This is a case <b>where he said to</b> the maidservant when he gave her the document of betrothal: <b>Become emancipated with this and become betrothed</b> to me <b>with this. Rabbi Meir holds that this formulation</b> written in the document of betrothal: You are hereby betrothed to me, <b>contains a formulation of emancipation</b> and therefore serves both as a bill of manumission and a document of betrothal. <b>And the Rabbis hold: This formulation is not a formulation of emancipation.</b> That is why the Rabbis hold she is not betrothed in this case. However, according to everyone, a master is not suspected of marrying his maidservant without first freeing her.",
+                  "With regard to this issue, <b>Rabbi Yehoshua ben Levi says: A slave who dons phylacteries in the presence of his master is emancipated,</b> as this is unusual behavior for a slave because slaves are not obligated in this mitzva. The Gemara <b>raises an objection</b> from a <i>baraita</i>: If a slave’s <b>master borrowed</b> money <b>from him; or if his master appointed him as a steward</b> over his possessions; <b>or if</b> the slave <b>donned phylacteries in the presence of his master; or if he read three verses</b> of the Torah reading <b>in the synagogue in the presence of his master,</b> although all of these activities are ordinarily performed only by freemen, <b>this</b> slave <b>is not emancipated.</b> This seems to contradict the opinion of Rabbi Yehoshua ben Levi.",
+                  "<b>Rabba bar Rav Sheila says:</b> Rabbi Yehoshua ben Levi was referring to a case <b>where</b> the slave’s <b>master placed phylacteries on him.</b> In that case it is clear that the slave is donning phylacteries with the consent of his master, and a master would not place phylacteries on his slave unless he had already emancipated him."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Gittin 39b:18",
+                "Gittin 40a:1",
+                "Gittin 40a:2",
+                "Gittin 40a:3",
+                "Gittin 40a:4",
+                "Gittin 40a:5",
+                "Gittin 40a:6"
+              ],
+              "he": [
+                [
+                  "אָמַר רַבִּי זֵירָא, אָמַר רַבִּי חֲנִינָא, אָמַר רַב אָשֵׁי, אָמַר רַבִּי: עֶבֶד שֶׁנָּשָׂא אֶת בַּת חוֹרִין בִּפְנֵי רַבּוֹ –"
+                ],
+                [
+                  "יָצָא לְחֵירוּת. אָמַר לוֹ רַבִּי יוֹחָנָן: כָּל כָּךְ יֵשׁ בְּיָדְךָ?! וַאֲנִי שׁוֹנֶה: הַכּוֹתֵב שְׁטַר אֵירוּסִין לְשִׁפְחָתוֹ, רַבִּי מֵאִיר אוֹמֵר: מְקוּדֶּשֶׁת, וַחֲכָמִים אוֹמְרִים: אֵינָהּ מְקוּדֶּשֶׁת!",
+                  "כִּדְאָמַר רַבָּה בַּר רַב שֵׁילָא – כְּשֶׁרַבּוֹ הִנִּיחַ לוֹ תְּפִילִּין; הָכָא נָמֵי – כְּשֶׁרַבּוֹ הִשִּׂיאוֹ אִשָּׁה.",
+                  "וּמִי אִיכָּא מִידֵּי דִּלְעַבְדֵּיהּ – לָא מִעֲבַד לֵיהּ אִיסּוּרָא, וְאִיהוּ – עָבֵד אִיסּוּרָא?!",
+                  "אָמַר רַב נַחְמָן בַּר יִצְחָק: הָכָא בְּמַאי עָסְקִינַן – דְּאָמַר לָהּ: ״צְאִי בּוֹ וְהִתְקַדְּשִׁי בּוֹ״; רַבִּי מֵאִיר סָבַר: יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן שִׁחְרוּר, וְרַבָּנַן סָבְרִי: אֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן שִׁחְרוּר.",
+                  "אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: עֶבֶד שֶׁהִנִּיחַ תְּפִילִּין בִּפְנֵי רַבּוֹ – יָצָא לְחֵירוּת. מֵיתִיבִי: לָוָה הֵימֶנּוּ רַבּוֹ, אוֹ שֶׁעֲשָׂאוֹ רַבּוֹ אַפּוֹטְרוֹפּוֹס, אוֹ שֶׁהִנִּיחַ תְּפִילִּין בִּפְנֵי רַבּוֹ, אוֹ שֶׁקָּרָא שְׁלֹשָׁה פְּסוּקִים בְּבֵית הַכְּנֶסֶת בִּפְנֵי רַבּוֹ, הֲרֵי זֶה לֹא יָצָא לְחֵירוּת!",
+                  "אָמַר רַבָּה בַּר רַב שֵׁילָא: כְּשֶׁרַבּוֹ הִנִּיחַ לוֹ תְּפִילִּין."
+                ]
+              ],
+              "link": "/Gittin/40a",
+              "originalRefsBeforeRewriting": [
+                "Gittin 40a:4"
+              ],
+              "ref": "Gittin 39b:18-40a:6",
+              "sourceHeRef": "גיטין מ׳ א",
+              "sourceRef": "Gittin 40a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Similarly, the defendant is not held liable for an oath when the plaintiff claims: \"You have a quantity of oil large enough to fill ten jugs of mine in your possession,\" and the defendant answers: \"I owe you only ten empty jugs.\" The rationale is that the plaintiff claimed oil and the defendant admitted owing only earthenware.<br>Different rules apply if the plaintiff claimed: \"You have ten jugs of oil of mine in your possession,\" and the defendant answers: \"I owe you only ten empty jugs.\" The defendant is liable to take an oath. The rationale is that the plaintiff claimed both jugs and oil and the defendant admitted owing the jugs. Similar laws apply in all analogous situations.",
+              "he": "מְלֹא עֲשָׂרָה כַּדִּין שֶׁמֶן יֵשׁ לִי בְּיָדְךָ אֵין לְךָ בְּיָדִי אֶלָּא עֲשָׂרָה כַּדִּין בְּלֹא שֶׁמֶן פָּטוּר. שֶׁהֲרֵי טְעָנוֹ שֶׁמֶן וְהוֹדָה לוֹ בָּחֲרָסִים. עֲשָׂרָה כַּדִּין שֶׁמֶן יֵשׁ לִי בְּיָדְךָ אֵין לְךָ בְּיָדִי אֶלָּא עֲשָׂרָה כַּדִּין רֵיקָנִין חַיָּב שְׁבוּעָה שֶׁהֲרֵי טְעָנוֹ הַכַּדִּין וְהַשֶּׁמֶן וְהוֹדָה לוֹ בַּכַּדִּין. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 3:13",
+              "sourceHeRef": "הלכות טוען ונטען ג:יג",
+              "sourceRef": "Plaintiff and Defendant 3:13"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עשרה כדי שמן</strong> - ולא אמר מלאים:",
+              "ref": "Rashi on Ketubot 108b:10:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:י:א",
+              "sourceRef": "Rashi on Ketubot 108b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יש בלשון הזה לשון קנקנים</strong> - כיון דלא אמר ליה מלא עשרה אין זה טוענו מדה אלא עשרה כדים מלאים והוה ליה טענו חטים ושעורים:",
+              "ref": "Rashi on Ketubot 108b:10:2",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:י:ב",
+              "sourceRef": "Rashi on Ketubot 108b:10:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מלא עשר כדים שמן יש לי בידך אין לך בידי אלא עשר כדים בלא שמן פטור שהרי טענו <span class=\"hebrew-emphasis\">(בשמן) </span>והודה לו בחרסים עשר כדים שמן יש לי בידך <span class=\"hebrew-emphasis\">(או שאמר לו י' כדים מלאים שמן יש לי בידך) (טור) </span>אין לך בידי אלא עשר כדים ריקנים <span class=\"hebrew-emphasis\">(או שהודה לו בשמן לחוד) (טור) </span>חייב שבועת התורה שהרי טענו הכדים והשמן: <span class=\"hebrew-emphasis\">הגה אבל אם אמר לו י' כדי שמן יש לי בידך לא טענו אלא הכדים ואם הודה לו בשמן לא הוי ממין הטענה (טור): </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 88:18",
+              "sourceHeRef": "חושן משפט פח:יח - דיני כפירה והוראה ושתהא ממין הטענה",
+              "sourceRef": "Choshen Mishpat 88:18"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>כי פליגי</b> <span class=\"hebrew-emphasis\">[כאשר נחלקו]</span> במשנה, הוא <b>היכא</b> <span class=\"hebrew-emphasis\">[במקום]</span> ש<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>\"עשרה כדי שמן יש לי אצלך\". אדמון אומר: יש בלשון הזה</b> גם <b>לשון קנקנים, ורבנן סברי</b> <span class=\"hebrew-emphasis\">[סבורים]:</span> <b>אין בלשון הזה לשון קנקנים.</b>",
+              "ref": "Steinsaltz on Ketubot 108b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:י",
+              "sourceRef": "Steinsaltz on Ketubot 108b:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בתלמוד הירושלמי הקשו קושיה פשוטה מאד לגבי דיון זה: מה לנו לברר את דיוק הלשון בטענה? הרי משמעותה של טענה זו ניתנת לבירור פשוט, שישאלו את הטוען אם טוען לשמן בלבד או לשמן ולכדים! ושם תירצו שמדובר כגון שטען האיש טענה ואחר כך נשתתק ואין דרך לברר מה היה בדיוק תוכן טענתו.",
+              "ref": "Steinsaltz comment #1 on Ketubot 108b:10",
+              "sourceHeRef": "יש בלשון הזה וכו'",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>When they disagree</b> in the mishna is in a case <b>where he said to him</b> simply: <b>I have ten jugs of oil with you. <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span> says: This expression includes</b> a reference to the <b>pitchers,</b> while <b>the Rabbis hold</b> that <b>this expression does not include</b> a reference to the <b>pitchers.</b>",
+      "he": "כִּי פְּלִיגִי הֵיכָא דַּאֲמַר לֵיהּ ״עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי אֶצְלְךָ״. אַדְמוֹן אוֹמֵר: יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים, וְרַבָּנַן סָבְרִי: אֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים.",
+      "ref": "Ketubot 108b:10"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קַנְקָן I</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, קָנַן 1\" dir=\"rtl\" href=\"/Jastrow,_קָנַן.1\">קָנַן</span>) <br><b>1)</b> <i>a cylindrical vessel let into the ground of the cellar</i> (see Smith, Dictionary of Greek and Roman Antiquities, Third American Edition, New-York 1858 section (Parashah) see Dolium), in gen. <i>wine-</i> or <i>oil-vessel</i>. <span class=\"refLink\" data-ref=\"Pirkei Avot 4:20\" href=\"/Pirkei_Avot.4.20\">Pirkei Avot IV, 20</span> <span dir=\"rtl\">אל תסתכל בק׳ וכ׳</span> look not at the vessel but at what it contains; <span dir=\"rtl\">יש ק׳ חדש וכ׳</span> many a new vessel is full of old wine (many a young man is a fine scholar) &c. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">ק׳ … מקַנְקַנּוֹ וכ׳</span>, see infra. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 85:3\" href=\"/Bereishit_Rabbah.85.3\">Breishit Rabbah section (Parashah) 85</span> <span dir=\"rtl\">נטלו ק׳ אחד וכ׳</span> they took one cask in the cellar &c.; <span dir=\"rtl\">החזירו את הק׳ למקומה</span> (read: <span dir=\"rtl\">למקומו</span>) put the cask back into its place. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sukkah 1:5:4\" href=\"Jerusalem_Talmud_Sukkah.1.5.4\">Yerushalmi Sukkah I, 52ᵇ</span> bottom of page <span dir=\"rtl\">כמשלח … וקַנְקַנָּהּ</span> like one sending to his neighbor a cask of wine and the storage vessel with it (making a present of both); <span class=\"refLink\" data-ref=\"Bereishit Rabbah 13\" href=\"/Bereishit_Rabbah.13\">Breishit Rabbah section (Parashah) 13</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 882\" href=\"/Yalkut_Shimoni_on_Nach.882\">Yalkut Psalms 882</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Beitzah 4:1:2\" href=\"Jerusalem_Talmud_Beitzah.4.1.2\">Yerushalmi Beitzah IV, beginning 62ᵇ</span> <span dir=\"rtl\">מביאה על גב קנקנה</span> he brings the load of wine in its original vessel (not bottle-wise); and from—plural <span dir=\"rtl\">קַנְקַנִּים</span>, <span dir=\"rtl\">קַנְקַנִּין</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 32:3\" href=\"/Bereishit_Rabbah.32.3\">Breishit Rabbah section (Parashah) 32</span> <span dir=\"rtl\">היוצר … בודק ק׳ מרועעים וכ׳</span> the potter does not try (knock at) the defective vessels …, but he tries the sound (so God tries not the bad but the good men). <span class=\"refLink\" data-ref=\"Mishnah Ketubot 13:4\" href=\"/Mishnah_Ketubot.13.4\">Ketubot XIII, 4</span> <span dir=\"rtl\">והודה בק׳</span> but admits that he owes the (empty) vessels, see <span class=\"refLink\" data-ref=\"Jastrow, כַּד II 1\" href=\"/Jastrow,_כַּד II.1\"><span dir=\"rtl\">כַּד</span> II</span>. <span class=\"refLink\" data-ref=\"Ketubot 108b:14\" href=\"/Ketubot.108b.14\">Ib. 108ᵇ</span> <span dir=\"rtl\">יש בלשון הזה לשון ק׳</span> the expression ‘vessels of oil’ includes vessels, i.e. one who claims vessels of oil claims not only a certain quantity of oil, but also the vessels. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">צפה הקב\"ה בכל הק׳ ולא מצא וכ׳</span> the Lord looked at all vessels (fit to receive the Law), and found none better pitched than that of Moses &c.; and from <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, קֶנֶת 1\" dir=\"rtl\" href=\"/Jastrow,_קֶנֶת.1\">קֶנֶת</span>, and <span class=\"refLink\" data-ref=\"Jastrow, מָאן 1\" dir=\"rtl\" href=\"/Jastrow,_מָאן.1\">מָנָא</span>) <i>coulter</i>. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 6:4\" href=\"/Mishnah_Bava_Metzia.6.4\">Bava Metzia VI, 4</span> (<span class=\"refLink\" data-ref=\"Bava Metzia 80a\" href=\"/Bava_Metzia.80a\">80ᵃ</span>).—[<span class=\"refLink\" data-ref=\"Eruvin 101a:2\" href=\"/Eruvin.101a.2\">Eruvin 101ᵃ</span> <span dir=\"rtl\">ק׳ הנגרר</span> a plough used as a bar, Rashi; see next word]"
+              ],
+              "he": [],
+              "ref": "Jastrow, קַנְקָן I 1",
+              "sourceHeRef": "מילון יסטרוב, קַנְקָן I א׳",
+              "sourceRef": "Jastrow, קַנְקָן I 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא טעמא כו'</strong> - לשון קושיא הוא לאותובי למאן דאמר פטור דדוקיא דמתני' כרב נחמן מדקתני הטוען את חבירו כדי שמן ולא קתני כדים מלאים שמן שמעינן מינה דמשום דאין בלשון הזה לשון קנקנים פטרי רבנן הא אם תבעו שניהם חייב:",
+              "ref": "Rashi on Ketubot 108b:11:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:יא:א",
+              "sourceRef": "Rashi on Ketubot 108b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומדייקים: <b>אלא טעמא</b> <span class=\"hebrew-emphasis\">[הטעם</span> דווקא<span class=\"hebrew-emphasis\">]</span> ש<b>אין בלשון הזה לשון קנקנים, הא</b> <span class=\"hebrew-emphasis\">[הרי]</span> אם <b>יש בלשון הזה לשון קנקנים</b> — היה <b>חייב</b> שבועה. אם כן <b>לימא תיהוי תיובתא</b> <span class=\"hebrew-emphasis\">[</span>האם <span class=\"hebrew-emphasis\">נאמר</span> ש<span class=\"hebrew-emphasis\">תהא</span> זו <span class=\"hebrew-emphasis\">קושיה חמורה]</span> על <b>ר' חייא בר אבא,</b> ש<b>אמר ר' חייא בר אבא: טענו חטין ושעורים והודה לו באחד מהם — פטור,</b> ולפי מה שפירשנו במשנה הכל מודים שחייב!",
+              "ref": "Steinsaltz on Ketubot 108b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:יא",
+              "sourceRef": "Steinsaltz on Ketubot 108b:11"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara infers: <b>Rather, the reason</b> for the ruling of the Rabbis <b>is</b> specifically <b>that the expression does not include</b> a reference to <b>pitchers,</b> which indicates that if <b>the expression includes</b> a reference to <b>pitchers,</b> one is <b>obligated</b> to take an oath. If so, <b>let us say</b> that <b>this is a conclusive refutation of</b> the opinion of <b><span href=\"/topics/rabbi-chiyya-b-abba\" class=\"namedEntityLink\" data-slug=\"rabbi-chiyya-b-abba\">Rabbi Ḥiyya bar Abba</span>. As <span href=\"/topics/rabbi-chiyya-b-abba\" class=\"namedEntityLink\" data-slug=\"rabbi-chiyya-b-abba\">Rabbi Ḥiyya bar Abba</span> said:</b> If one <b>claimed</b> against another that he owed him <b>wheat and barley, and</b> the other <b>admitted to one of</b> the types, <b>he is exempt</b> from an oath.",
+      "he": "אֶלָּא טַעְמָא דְּאֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים, הָא יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים — חַיָּיב. לֵימָא תֶּיהְוֵי תְּיוּבְתָּא דְּרַבִּי חִיָּיא בַּר אַבָּא. דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא: טְעָנוֹ חִטִּין וּשְׂעוֹרִים וְהוֹדָה לוֹ בְּאֶחָד מֵהֶם — פָּטוּר!",
+      "ref": "Ketubot 108b:11"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נעשה כמי שתבעו רימון בקליפתו</strong> - לא דמו כדים ושמן לחטים ושעורים דכולי חדא מילתא הוא וממין הטענה הוא:",
+              "ref": "Rashi on Ketubot 108b:12:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:יב:א",
+              "sourceRef": "Rashi on Ketubot 108b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שמן</strong> - בלא קנקנים מנטר בבור:",
+              "ref": "Rashi on Ketubot 108b:12:2",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:יב:ב",
+              "sourceRef": "Rashi on Ketubot 108b:12:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב שימי בר אשי:</b> המקרה במשנה אינו דומה לחיטים ושעורים שאין ביניהם כל קשר וממילא אינו כמודה במקצת הטענה, כי במשנתנו <b>נעשה כמי שטענו רימון בקליפתו,</b> שאם הוא טוען לכדי שמן, הרי אין השמן מצוי בלא הכדים, כמו הרימון וקליפתו, ונחשב כדבר אחד. <b>מתקיף לה</b> <span class=\"hebrew-emphasis\">[מקשה על כך]</span> <b>רבינא:</b> אין כאן דמיון, כי <b>רימון בלא קליפתו לא מינטר</b> <span class=\"hebrew-emphasis\">[אינו נשמר]</span> וממילא מובן כי כאשר טוענו רימון — רימון בקליפתו הוא טוען. אבל <b>שמן מינטר</b> <span class=\"hebrew-emphasis\">[נשמר]</span> <b>בלא קנקנים</b> בכלי קיבול אחרים!",
+              "ref": "Steinsaltz on Ketubot 108b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:יב",
+              "sourceRef": "Steinsaltz on Ketubot 108b:12"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-shimi-b-ashi\" class=\"namedEntityLink\" data-slug=\"rav-shimi-b-ashi\">Rav Shimi bar Ashi</span> said:</b> The case of the mishna is not similar to that of wheat and barley, as those two types are not connected to one another. Rather, the case of jugs of oil <b>is</b> more <b>like</b> that of <b>one who claimed</b> that <b>the other</b> owed him <b>a pomegranate in its peel,</b> as the jugs are as necessary for the oil as the peel of a pomegranate protecting its fruit. <b><span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span> strongly objects to this:</b> The comparison between these cases does not bear close scrutiny. <b>A pomegranate without its peel cannot be preserved,</b> and therefore it is obvious that when one claims a pomegranate, he must be referring to the peel as well. By contrast, <b>oil can be preserved without</b> the <b>pitchers,</b> as it can be placed in another receptacle.",
+      "he": "אָמַר <span href=\"/topics/rav-shimi-b-ashi\" class=\"namedEntityLink\" data-slug=\"rav-shimi-b-ashi\">רַב שִׁימִי בַּר אָשֵׁי</span>: נַעֲשָׂה כְּמִי שֶׁטְּעָנוֹ רִימּוֹן בִּקְלִיפָּתוֹ. מַתְקֵיף לַהּ רָבִינָא: רִימּוֹן בְּלֹא קְלִיפָּתוֹ לָא מִינְּטַר, שֶׁמֶן מִינְּטַר בְּלֹא קַנְקַנִּים!",
+      "ref": "Ketubot 108b:12"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קַנְקָן I</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, קָנַן 1\" dir=\"rtl\" href=\"/Jastrow,_קָנַן.1\">קָנַן</span>) <br><b>1)</b> <i>a cylindrical vessel let into the ground of the cellar</i> (see Smith, Dictionary of Greek and Roman Antiquities, Third American Edition, New-York 1858 section (Parashah) see Dolium), in gen. <i>wine-</i> or <i>oil-vessel</i>. <span class=\"refLink\" data-ref=\"Pirkei Avot 4:20\" href=\"/Pirkei_Avot.4.20\">Pirkei Avot IV, 20</span> <span dir=\"rtl\">אל תסתכל בק׳ וכ׳</span> look not at the vessel but at what it contains; <span dir=\"rtl\">יש ק׳ חדש וכ׳</span> many a new vessel is full of old wine (many a young man is a fine scholar) &c. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">ק׳ … מקַנְקַנּוֹ וכ׳</span>, see infra. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 85:3\" href=\"/Bereishit_Rabbah.85.3\">Breishit Rabbah section (Parashah) 85</span> <span dir=\"rtl\">נטלו ק׳ אחד וכ׳</span> they took one cask in the cellar &c.; <span dir=\"rtl\">החזירו את הק׳ למקומה</span> (read: <span dir=\"rtl\">למקומו</span>) put the cask back into its place. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sukkah 1:5:4\" href=\"Jerusalem_Talmud_Sukkah.1.5.4\">Yerushalmi Sukkah I, 52ᵇ</span> bottom of page <span dir=\"rtl\">כמשלח … וקַנְקַנָּהּ</span> like one sending to his neighbor a cask of wine and the storage vessel with it (making a present of both); <span class=\"refLink\" data-ref=\"Bereishit Rabbah 13\" href=\"/Bereishit_Rabbah.13\">Breishit Rabbah section (Parashah) 13</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 882\" href=\"/Yalkut_Shimoni_on_Nach.882\">Yalkut Psalms 882</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Beitzah 4:1:2\" href=\"Jerusalem_Talmud_Beitzah.4.1.2\">Yerushalmi Beitzah IV, beginning 62ᵇ</span> <span dir=\"rtl\">מביאה על גב קנקנה</span> he brings the load of wine in its original vessel (not bottle-wise); and from—plural <span dir=\"rtl\">קַנְקַנִּים</span>, <span dir=\"rtl\">קַנְקַנִּין</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 32:3\" href=\"/Bereishit_Rabbah.32.3\">Breishit Rabbah section (Parashah) 32</span> <span dir=\"rtl\">היוצר … בודק ק׳ מרועעים וכ׳</span> the potter does not try (knock at) the defective vessels …, but he tries the sound (so God tries not the bad but the good men). <span class=\"refLink\" data-ref=\"Mishnah Ketubot 13:4\" href=\"/Mishnah_Ketubot.13.4\">Ketubot XIII, 4</span> <span dir=\"rtl\">והודה בק׳</span> but admits that he owes the (empty) vessels, see <span class=\"refLink\" data-ref=\"Jastrow, כַּד II 1\" href=\"/Jastrow,_כַּד II.1\"><span dir=\"rtl\">כַּד</span> II</span>. <span class=\"refLink\" data-ref=\"Ketubot 108b:14\" href=\"/Ketubot.108b.14\">Ib. 108ᵇ</span> <span dir=\"rtl\">יש בלשון הזה לשון ק׳</span> the expression ‘vessels of oil’ includes vessels, i.e. one who claims vessels of oil claims not only a certain quantity of oil, but also the vessels. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">צפה הקב\"ה בכל הק׳ ולא מצא וכ׳</span> the Lord looked at all vessels (fit to receive the Law), and found none better pitched than that of Moses &c.; and from <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, קֶנֶת 1\" dir=\"rtl\" href=\"/Jastrow,_קֶנֶת.1\">קֶנֶת</span>, and <span class=\"refLink\" data-ref=\"Jastrow, מָאן 1\" dir=\"rtl\" href=\"/Jastrow,_מָאן.1\">מָנָא</span>) <i>coulter</i>. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 6:4\" href=\"/Mishnah_Bava_Metzia.6.4\">Bava Metzia VI, 4</span> (<span class=\"refLink\" data-ref=\"Bava Metzia 80a\" href=\"/Bava_Metzia.80a\">80ᵃ</span>).—[<span class=\"refLink\" data-ref=\"Eruvin 101a:2\" href=\"/Eruvin.101a.2\">Eruvin 101ᵃ</span> <span dir=\"rtl\">ק׳ הנגרר</span> a plough used as a bar, Rashi; see next word]"
+              ],
+              "he": [],
+              "ref": "Jastrow, קַנְקָן I 1",
+              "sourceHeRef": "מילון יסטרוב, קַנְקָן I א׳",
+              "sourceRef": "Jastrow, קַנְקָן I 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא הכא במאי עסקי' כו'</strong> - אלא לא תימא כמו שטענו רימון אלא ר' חייא מוקי למתניתין כגון שהודה במקצת קנקנים ומקצתם כפר דבקנקנים גופייהו איכא כפירה והודאה ואי יש בלשון התביעה לשון קנקנים מיחייב עלייהו שבועה ושבועה דשמן דקא מחייב אדמון משום גלגול היא דקסבר יש בלשון התביעה לשון קנקנים:",
+              "ref": "Rashi on Ketubot 108b:13:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:יג:א",
+              "sourceRef": "Rashi on Ketubot 108b:13:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא הב\"ע כגון דאמר לי' עשרה וכו'. </b> וסוגיין מחלפ' אסוגיי' דשבועות דמקשינן לרבי יוחנן מהא מתני' ואוקימנא כאדמון ואיהו דאמר כרבנן משום דמוקים לה כשטענו כדים מלאים שמן וזו מן הסוגיות המתחלפות בתלמוד וקי\"ל כסוגיא דהכא דהוה דוכתא פלוגתא וכיון דכן הלכה כאדמון ואינו צ\"ל דקי\"ל כרב נחמן:",
+              "ref": "Ritva on Ketubot 108b:4",
+              "sourceHeRef": "ריטב\"א על כתובות ק״ח ב:ד",
+              "sourceRef": "Ritva on Ketubot 108b:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> יש להסביר את משנתנו לשיטת ר' חייא בדרך אחרת: <b>הכא במאי עסקינן</b> <span class=\"hebrew-emphasis\">[כאן במה אנו עוסקים],</span> ש<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>\"עשרה כדי שמן יש לי אצלך\", ואמר ליה אידך</b> <span class=\"hebrew-emphasis\">[לו האחר]</span> <b>\"שמן — לא היו דברים מעולם,</b> לא לויתי אצלך כלל, <b>קנקנים נמי</b> <span class=\"hebrew-emphasis\">[גם כן] —</span> <b>חמשה אית</b> <span class=\"hebrew-emphasis\">[יש]</span> <b>לך</b> אצלי שבהם אני מודה שלקחתי, <b>וחמשה לית</b> <span class=\"hebrew-emphasis\">[אין]</span> <b>לך.</b>",
+              "ref": "Steinsaltz on Ketubot 108b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:יג",
+              "sourceRef": "Steinsaltz on Ketubot 108b:13"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, here we are dealing with</b> a case where one <b>said to</b> another: <b>I have ten jugs of oil with you, and the other said to him:</b> With regard to the <b>oil, these matters never occurred;</b> I never borrowed oil from you. Concerning the <b>pitchers as well, you do have five</b> of them with me and these I admit I took from you, <b>but you do not have</b> the other <b>five</b> you claim.",
+      "he": "אֶלָּא, הָכָא בְּמַאי עָסְקִינַן, דַּאֲמַר לֵיהּ: עֲשָׂרָה כַּדֵּי שֶׁמֶן יֵשׁ לִי אֶצְלְךָ, וַאֲמַר לֵיהּ אִידַּךְ: שֶׁמֶן — לֹא הָיוּ דְבָרִים מֵעוֹלָם, קַנְקַנִּים נָמֵי — חַמְשָׁה אִית לָךְ, וְחַמְשָׁה לֵית לָךְ.",
+      "ref": "Ketubot 108b:13"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">ידי</strong>, <strong dir=\"rtl\">יָדָה</strong> (Biblical Hebrew) <i>to point, move</i> (compare Biblical Hebrew <span class=\"refLink\" data-ref=\"Jastrow, הָדָה I 1\" dir=\"rtl\" href=\"/Jastrow,_הָדָה I.1\">הָדָה</span>).—Denom. <span class=\"refLink\" data-ref=\"Jastrow, יָד 1\" dir=\"rtl\" href=\"/Jastrow,_יָד.1\">יָד</span>.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הוֹדָה</strong> [<i>to raise hands</i>,] <br><b>1)</b> <i>to thank, acknowledge; to give praise</i>. <span class=\"refLink\" data-ref=\"Taanit 6b:16\" href=\"/Taanit.6b.16\">Taanit 6ᵇ</span> <span dir=\"rtl\">מוֹדִים … לך</span> we offer thanks unto thee. <span class=\"refLink\" data-ref=\"Mishnah Berakhot 5:3\" href=\"/Mishnah_Berakhot.5.3\">Berakhot V, 3</span> he who says in public prayer <span dir=\"rtl\">מודים מודים … אותו</span> ‘we thank, we thank’ (as if pointing in different directions and acknowledging two divinities) must be silenced. <span class=\"refLink\" data-ref=\"Mishnah Berakhot 9:5\" href=\"/Mishnah_Berakhot.9.5\">Ib. IX, 5</span> (play on <span dir=\"rtl\">מ̇אד̇ך</span>, <span class=\"refLink\" data-ref=\"Deuteronomy 6:5\" href=\"/Deuteronomy.6.5\">Devarim VI, 5</span>) <span dir=\"rtl\">בכל מ̇ד̇ה ומדה … הוי מוֹדֶה לו</span> for whatever measure He metes out to thee, give thanks to Him. Ib. 54ᵇ <span dir=\"rtl\">ארבעה צריכין להוֹרוֹת</span> four persons are bound to offer public thanks; and see from <br><b><br>—2)</b> <i>to admit, consent, to confess</i>. <span class=\"refLink\" data-ref=\"Mishnah Pesachim 4:9\" href=\"/Mishnah_Pesachim.4.9\">Pesachim IV, 9</span> (<span class=\"refLink\" data-ref=\"Pesachim 56a\" href=\"/Pesachim.56a\">56ᵃ</span>); <span class=\"refLink\" data-ref=\"Berakhot 10a:23\" href=\"/Berakhot.10a.23\">Berakhot 10ᵃ</span> <span dir=\"rtl\">על ג׳ הוֹדוּ לו</span> concerning three of his acts they agreed with him. <span class=\"refLink\" data-ref=\"Bava Metzia 3a\" href=\"/Bava_Metzia.3a\">Bava Metzia 3ᵃ</span>, and from <span dir=\"rtl\">מוֹדֶה במקצת הטענה</span> he who admits part of his opponent’s claim. <span class=\"refLink\" data-ref=\"Mishnah Shevuot 6:3\" href=\"/Mishnah_Shevuot.6.3\">Shevuot VI, 3</span>; <span class=\"refLink\" data-ref=\"Ketubot 108b:14\" href=\"/Ketubot.108b.14\">Ketubot 108ᵇ</span>, and e. <span dir=\"rtl\">טענו … וה׳ לו בשעורים</span>, see <span class=\"refLink\" data-ref=\"Jastrow, טָעַן I 1\" href=\"/Jastrow,_טָעַן I.1\"><span dir=\"rtl\">טָעַן</span> I</span>. <span class=\"refLink\" data-ref=\"Bava Metzia 12b\" href=\"/Bava_Metzia.12b\">Bava Metzia 12ᵇ</span> <span dir=\"rtl\">בשחייב מודה</span> when the debtor admits his indebtedness; and see from [<span class=\"refLink\" data-ref=\"Tosefta Parah 9\" href=\"/Tosefta_Parah.9\">Tosefta Parah IX</span> (<span class=\"refLink\" data-ref=\"Tosefta Parah 8:6\" href=\"/Tosefta_Parah.8.6\">VIII), 6</span> <span dir=\"rtl\">שהן מודין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מוֹרִיר 1\" dir=\"rtl\" href=\"/Jastrow,_מוֹרִיר.1\">מוֹרִיר</span>.]<br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">הִתְיַדֶּה</strong>, <strong dir=\"rtl\"></strong> , <i>Nithpa</i>. <span class=\"refLink\" data-ref=\"Jastrow, נדי 1\" dir=\"rtl\" href=\"/Jastrow,_נדי.1\">נִתְוַדֶּה</span>, (denominative of <span class=\"refLink\" data-ref=\"Jastrow, תּוֹדָה I 1\" dir=\"rtl\" href=\"/Jastrow,_תּוֹדָה I.1\">תּוֹדָה</span>, compare <span class=\"refLink\" data-ref=\"Joshua 7:19\" href=\"/Joshua.7.19\">Joshua VII, 19</span>) <i>to confess</i> one’s sins before God. <span class=\"refLink\" data-ref=\"Mishnah Yoma 3:8\" href=\"/Mishnah_Yoma.3.8\">Yoma III, 8</span> <span dir=\"rtl\">ומִתְיַרֶּה</span> and confesses in public. <span class=\"refLink\" data-ref=\"Yoma 40a:3\" href=\"/Yoma.40a.3\">Ib. 40ᵃ</span> <span dir=\"rtl\">להגריל ולהִתְוַדּוֹת</span> to cast lots and to make confession (on the head of the scapegoat). Yerushalmi ib. VIII, end, 45ᶜ <span dir=\"rtl\">אע\"פ שנ׳ בערבית צריך להתודות וכ׳</span> although he has made confession in the evening prayer, he must again confess &c.; and from—V. <span class=\"refLink\" data-ref=\"Jastrow, וִידּוּי 1\" dir=\"rtl\" href=\"/Jastrow,_וִידּוּי.1\">וִידּוּי</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, ידי 1",
+              "sourceHeRef": "מילון יסטרוב, ידי א׳",
+              "sourceRef": "Jastrow, ידי 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">קַנְקָן I</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, קָנַן 1\" dir=\"rtl\" href=\"/Jastrow,_קָנַן.1\">קָנַן</span>) <br><b>1)</b> <i>a cylindrical vessel let into the ground of the cellar</i> (see Smith, Dictionary of Greek and Roman Antiquities, Third American Edition, New-York 1858 section (Parashah) see Dolium), in gen. <i>wine-</i> or <i>oil-vessel</i>. <span class=\"refLink\" data-ref=\"Pirkei Avot 4:20\" href=\"/Pirkei_Avot.4.20\">Pirkei Avot IV, 20</span> <span dir=\"rtl\">אל תסתכל בק׳ וכ׳</span> look not at the vessel but at what it contains; <span dir=\"rtl\">יש ק׳ חדש וכ׳</span> many a new vessel is full of old wine (many a young man is a fine scholar) &c. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">ק׳ … מקַנְקַנּוֹ וכ׳</span>, see infra. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 85:3\" href=\"/Bereishit_Rabbah.85.3\">Breishit Rabbah section (Parashah) 85</span> <span dir=\"rtl\">נטלו ק׳ אחד וכ׳</span> they took one cask in the cellar &c.; <span dir=\"rtl\">החזירו את הק׳ למקומה</span> (read: <span dir=\"rtl\">למקומו</span>) put the cask back into its place. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sukkah 1:5:4\" href=\"Jerusalem_Talmud_Sukkah.1.5.4\">Yerushalmi Sukkah I, 52ᵇ</span> bottom of page <span dir=\"rtl\">כמשלח … וקַנְקַנָּהּ</span> like one sending to his neighbor a cask of wine and the storage vessel with it (making a present of both); <span class=\"refLink\" data-ref=\"Bereishit Rabbah 13\" href=\"/Bereishit_Rabbah.13\">Breishit Rabbah section (Parashah) 13</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 882\" href=\"/Yalkut_Shimoni_on_Nach.882\">Yalkut Psalms 882</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Beitzah 4:1:2\" href=\"Jerusalem_Talmud_Beitzah.4.1.2\">Yerushalmi Beitzah IV, beginning 62ᵇ</span> <span dir=\"rtl\">מביאה על גב קנקנה</span> he brings the load of wine in its original vessel (not bottle-wise); and from—plural <span dir=\"rtl\">קַנְקַנִּים</span>, <span dir=\"rtl\">קַנְקַנִּין</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 32:3\" href=\"/Bereishit_Rabbah.32.3\">Breishit Rabbah section (Parashah) 32</span> <span dir=\"rtl\">היוצר … בודק ק׳ מרועעים וכ׳</span> the potter does not try (knock at) the defective vessels …, but he tries the sound (so God tries not the bad but the good men). <span class=\"refLink\" data-ref=\"Mishnah Ketubot 13:4\" href=\"/Mishnah_Ketubot.13.4\">Ketubot XIII, 4</span> <span dir=\"rtl\">והודה בק׳</span> but admits that he owes the (empty) vessels, see <span class=\"refLink\" data-ref=\"Jastrow, כַּד II 1\" href=\"/Jastrow,_כַּד II.1\"><span dir=\"rtl\">כַּד</span> II</span>. <span class=\"refLink\" data-ref=\"Ketubot 108b:14\" href=\"/Ketubot.108b.14\">Ib. 108ᵇ</span> <span dir=\"rtl\">יש בלשון הזה לשון ק׳</span> the expression ‘vessels of oil’ includes vessels, i.e. one who claims vessels of oil claims not only a certain quantity of oil, but also the vessels. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 7:28:1\" href=\"/Kohelet_Rabbah.7.28.1\">Kohelet Rabbah to VII, 28</span> <span dir=\"rtl\">צפה הקב\"ה בכל הק׳ ולא מצא וכ׳</span> the Lord looked at all vessels (fit to receive the Law), and found none better pitched than that of Moses &c.; and from <br><b><br>—2)</b> (compare <span class=\"refLink\" data-ref=\"Jastrow, קֶנֶת 1\" dir=\"rtl\" href=\"/Jastrow,_קֶנֶת.1\">קֶנֶת</span>, and <span class=\"refLink\" data-ref=\"Jastrow, מָאן 1\" dir=\"rtl\" href=\"/Jastrow,_מָאן.1\">מָנָא</span>) <i>coulter</i>. <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 6:4\" href=\"/Mishnah_Bava_Metzia.6.4\">Bava Metzia VI, 4</span> (<span class=\"refLink\" data-ref=\"Bava Metzia 80a\" href=\"/Bava_Metzia.80a\">80ᵃ</span>).—[<span class=\"refLink\" data-ref=\"Eruvin 101a:2\" href=\"/Eruvin.101a.2\">Eruvin 101ᵃ</span> <span dir=\"rtl\">ק׳ הנגרר</span> a plough used as a bar, Rashi; see next word]"
+              ],
+              "he": [],
+              "ref": "Jastrow, קַנְקָן I 1",
+              "sourceHeRef": "מילון יסטרוב, קַנְקָן I א׳",
+              "sourceRef": "Jastrow, קַנְקָן I 1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אדמון אומר שבעה מי שמת והניח בנים ובנות בזמן שהנכסים מרובים הבנים ירשו והבנות יזונו ובזמן שהנכסים מועטין הבנות יזונו והבנים ישאלו על הפתחים אדמון אומר בשביל שאני זכר הפסדתי אמר ר\"ג רואה אני את דברי אדמון. ואע\"ג דפסקינן לקמן <span class=\"parenthesized\">(סי' י')</span> כל מקום שאמר ר\"ג רואה אני את דברי אדמון הלכה כמותו ומההיא פיסקא פריך הש\"ס לקמן אלמא הוי עיקר מ\"מ ר\"ח ורב אלפס ור\"ת ז\"ל פסקו דלית הלכתא בהך כוותיה דסוגיין דהש\"ס דלא כוותיה לעיל בפ' נערה <span class=\"parenthesized\">(כתובות דף מג.)</span> א\"ר יוסי א\"ר עשו אלמנה אצל הבת כבת אצל האחים בנכסים מועטין ולעיל בפרק הנושא <span class=\"parenthesized\">(כתובות דף קג.)</span> א\"ר אסי א\"ר יוחנן יתומים שקדמו ומכרו בנכסים מועטין מה שמכרו מכור וכן בפרק מי שמת <span class=\"parenthesized\">(בבא בתרא דף קמ.)</span> אלמנתו מהו שתמעט בנכסים והיה אומר ר\"ת ז\"ל דאדמון לאו לפלוגי אחכמים הוא דאתא אלא אתמוהי בעלמא קא מתמה וקאמר ר\"ג יפה אמר אדמון שהיה מתמיה על דברי חכמים:",
+              "ref": "Rosh on Ketubot 13:9:1",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות יג:ט:א",
+              "sourceRef": "Rosh on Ketubot 13:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אדמון אומר: יש בלשון הזה</b> של תביעתו <b>לשון קנקנים, ומגו דקמשתבע</b> <span class=\"hebrew-emphasis\">[ומתוך שנשבע]</span> על ה<b>קנקנים</b> שהודה במקצתם, <b>משתבע נמי</b> <span class=\"hebrew-emphasis\">[נשבע גם כן]</span> על ה<b>שמן על ידי גלגול</b> השבועה. <b>ורבנן סברי</b> <span class=\"hebrew-emphasis\">[וחכמים סוברים]:</span> <b>אין בלשון הזה</b> כלל <b>לשון קנקנים.</b> ואם כן נמצא ש<b>מה שטענו — לא הודה לו,</b> שעל השמן כפר לו, <b>ומה שהודה לו</b> במקצת הקנקנים — <b>לא טענו,</b> ואינו חייב אם כן שבועה כל עיקר.",
+              "ref": "Steinsaltz on Ketubot 108b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:יד",
+              "sourceRef": "Steinsaltz on Ketubot 108b:14"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span> says: This expression includes</b> a reference to <b>pitchers, and since he takes an oath about the pitchers,</b> as he partially admitted to owing them, <b>he takes an oath about the oil as well, by means of an extension</b> of the first oath. <b>And the Rabbis hold</b> that <b>this expression does not include</b> a reference to the <b>pitchers,</b> and therefore <b>that which</b> the first person <b>claimed from him</b> the second person <b>did not admit to</b> at all, <b>and that which</b> the second person <b>admitted to,</b> the first person <b>had not claimed from him.</b> The second individual denied owing any oil, and as for his partial admission with regard to the pitchers, there was no claim about pitchers at all. Consequently, no oath is required whatsoever.",
+      "he": "<span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">אַדְמוֹן</span> אוֹמֵר: יֵשׁ בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים, וּמִגּוֹ דְּקָמִשְׁתְּבַע אַקַּנְקַנִּים מִשְׁתְּבַע נָמֵי אַשֶּׁמֶן עַל יְדֵי גִּלְגּוּל. וְרַבָּנַן סָבְרִי: אֵין בַּלָּשׁוֹן הַזֶּה לְשׁוֹן קַנְקַנִּים. מַה שֶּׁטְּעָנוֹ לֹא הוֹדָה לוֹ, וּמַה שֶּׁהוֹדָה לוֹ — לֹא טָעֲנוּ.",
+      "ref": "Ketubot 108b:14"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "The mishna states another case involving a ruling of Admon. With regard to one who promises and <b>apportions money for his son-in-law</b> as a dowry, <b>and he went bankrupt,</b> and he now claims that he does not have the money to fulfill his financial obligations, the betrothed woman can be left to <b>sit</b> unwed in her father’s house <b>until her head turns white.</b> If the groom does not wish to marry without a dowry he cannot be forced to do so, as the father failed to fulfill his promise. <b>Admon says</b> that <b>she can say: Had I apportioned</b> the money <b>myself</b> and broken my promise, I would agree to <b>sit until my head turns white.</b> However, <b>now that</b> my <b>father</b> was the one who <b>apportioned</b> the dowry, <b>what can I do? Either marry</b> me <b>or release</b> me by a bill of divorce. <b>Rabban Gamliel said: I see</b> as correct <b>the statement of Admon.</b>",
+              "he": "הַפּוֹסֵק מָעוֹת לַחֲתָנוֹ וּפָשַׁט לוֹ אֶת הָרֶגֶל, תֵּשֵׁב עַד שֶׁיַּלְבִּין רֹאשָׁהּ. אַדְמוֹן אוֹמֵר, יְכוֹלָה הִיא שֶׁתֹּאמַר, אִלּוּ אֲנִי פָסַקְתִּי לְעַצְמִי, אֵשֵׁב עַד שֶׁיַּלְבִּין רֹאשִׁי. עַכְשָׁיו שֶׁאַבָּא פָסַק עָלַי, מָה אֲנִי יְכוֹלָה לַעֲשׂוֹת, אוֹ כְנֹס אוֹ פְטֹר. אָמַר רַבָּן גַּמְלִיאֵל, רוֹאֶה אֲנִי אֶת דִּבְרֵי אַדְמוֹן:",
+              "link": "/Mishnah Ketubot/13",
+              "ref": "Mishnah Ketubot 13:5",
+              "sourceHeRef": "משנה כתובות יג:ה",
+              "sourceRef": "Mishnah Ketubot 13:5"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מתני':<b> הפוסק מעות לחתנו ופשט לו את הרגל וכו'.</b> [הקשו הראשונים למה אין כופין לאב לתת מה שפסק דהא דברים הנקנין באמירה מדרב גידל] והרשב\"א כתב דמתניתין איירי כשאין בית דין יורדין לנכסיו, כגון שהלך למדינת הים ואין כאן נכסים שלו, אבל יש לו נכסים בית דין יורדין לנכסיו ונותנין לזה לפי שהם דברים הנקנים באמירה <span class=\"parenthesized\">(שטמ\"ק)</span>.",
+              "ref": "Rashba on Ketubot 108b:1",
+              "sourceHeRef": "רשב״א על כתובות ק״ח ב:א",
+              "sourceRef": "Rashba on Ketubot 108b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ופשט לו את הרגל</strong> - לשון בזיון הוא ואמר נואש שאינו חש לדבריו טול טיט שעל גבי רגלי ואני שמעתי תלה אותי על עץ ואין לי מה ליתן: גמ'",
+              "ref": "Rashi on Ketubot 108b:15:1",
+              "sourceHeRef": "רש\"י על כתובות ק״ח ב:טו:א",
+              "sourceRef": "Rashi on Ketubot 108b:15:1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מתני'. הפוסק מעות לחתנו ופשט לו את הרגל</b> פי' רש\"י ז\"ל שהוא לשון ביזוי כלומר טול טיט שעל גבי הרגל אי נמי תלה אותי על העץ ואין לי מה ליתן. והראב\"ד ז\"ל פי' שהלך לו והוא יותר נכון כפי הלשון. והקשו הראשונים ז\"ל למה אין כופין לאב לתת מה שפסק דהא דברים הנקנים באמירה הם מדרב גידל וכ\"ת דליתי' כפי' הראב\"ד או שאין לו כמו שפרש\"י ז\"ל והא בברייתא דקתני כי האי לישנ' דקתני עלה אבל בקטנה כופין אותו וקס\"ד דכופין לאב קאמר ורשב\"ם ז\"ל תירץ דההוא דרב גידל בשקדשו לאלתר והיינו דקתני עמדו וקדשו ובתו' דחו פי' דעמדו הוה לישנא דתלמודא כדתנן עמד ונדר ועמד ופרנס והי' נראה לומר דהכ' כשפסק לאחר קדושין והיינו דקתני הפוסק לחתנו ולא קתני הפוסק לבתו כמו שאמר רב גידל אלא שקש' קצת דא\"כ למה לא יכופו אותו חכמי' דת\"ק לכנו' או לפטו' דהא כיון שקד' שלא על פסק מעות כבר נתחייב לה לכנוס או לפטור ויש אומרים כי בירושלמי אמרינן דליתא לרב גידל אלא בנשואין ראשונים והכא מוקמינן לה בנשואין שניי' וכל זה דוחק מדלא פירשו לה בתלמודא ויותר נראה לומר דמיירי בדליתי' או שאין לו כלישני דפשט לו את הרגל והא דס\"ד דכי קתני כופין אותו לאב קאמר בדין הוא דמצי למפרך דכיצד כופין אותו אלא דניחא לי' למפרך דאשילו אפשר למכפויי איפכא מסתברא וכן פרש\"י ז\"ל דלקמן איפכא מבעי' ליה אם באת לכוף את האב איפכא מסתברא טפי לפי שהגדולה תנאה תנאי ע\"כ כלומר דע\"כ לאו בדוקא נקטינן ההוא לישנא כי למה כופין את האב על מה שפסקה בתו הא ודאי אפי' אפשר לנו לכופו איפכא מסתברא בד\"א בגדול' הברייתא קאי כמו שפירש\"י ז\"ל הלכה כיוצא בו:",
+              "ref": "Ritva on Ketubot 108b:5",
+              "sourceHeRef": "ריטב\"א על כתובות ק״ח ב:ה",
+              "sourceRef": "Ritva on Ketubot 108b:5"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רב גידל אמר רב כמה אתה נותן לבנך כך וכך כמה אתה נותן לבתך כך וכך ועמדו וקדשו הן הן הדברים הנקנין באמירה אמר רבא מסתברא מילתא דרב בבתו נערה דקא מטי הנאה לדידיה בכסף קידושיה אבל בבתו בוגרת לא והאלהים אמר רב אפילו בבתו בוגרת דאי לא תימא הכי אבי הבן מאי הנאה מטיא לידיה אלא בההיא הנאה דקא מיחתני אהדדי גמרי ומקני להדדי. ירושלמי אבל לא האח על ידי אחות ולא אשה על ידי בתה ואפילו היא קטנה וגרסינן נמי התם ובלבד מן הנשואין הראשונים ואם תאמר והא דתנן לקמן בפרק בתרא <span class=\"parenthesized\">(כתובות ד' קח:)</span> הפוסק מעות לחתנו ופשט לו הרגל תהא יושבת עד שתלבין ראשה וכיון שהן דברים הנקנין באמירה יוציא ממנו בב\"ד מה שפסק לו ויש לומר דמיירי בנשואין שניים ורשב\"ם תירץ דהכא מיירי שקדשו מיד בשעת הפסיקתא וכן משמע מדקאמר עמדו וקדשו והתם בקדשו לאחר זמן ובשעת הקידושין לא הזכירו הפסיקתא וה\"ר מאיר הלוי ז\"ל תירץ דמיירי כשאין לו מעות לפרוע הפסיקתא: אמר ליה רבינא לרב אשי דברים הללו נתנו ליכתב או לא ניתנו ליכתב פירש רש\"י נתנו חכמים כתיבה לדבר אם באו להחתים עדים בדברים הללו שהם בלא קניין או לא ניתנו ליכתב דלא ליטרוף ממשעבדי וכין דליכא קניין לא משתעבדי נכסי. משמע מתוך פירושו דאפי' אם רוצים שניהם לכתוב אין יכולין לכתוב ונראה לפרש ניתנו ליכתב דכמאן דקנו מידו דמי דסתם קניין לכתיבה עומד וכותבין אפי' שלא מדעת המתחייב ור\"ח ור\"ת מפרשים ניתנו ליכתב כלומר ניתנו לגבות דווקא ע\"י כתיבה ולאו דווקא דברים הנקנין באמירה אלא לאשמועינן דלא בע קניין או לא ניתנו ליכתב דאף בלא כתיבה קונין א\"ל לא ניתנו ליכתב ואי קשיא לך הא תנן מתו בנותיו נזונות מנכסים בני חורין והיא נזונת מנכסים משועבדים מפני שהיא כבעלת חוב דמשמע מינה דניתנו ליכתב התם כשקנו מידן דסתם קניין לכתיבה עומד:",
+              "ref": "Rosh on Ketubot 12:3:1",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות יב:ג:א",
+              "sourceRef": "Rosh on Ketubot 12:3:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>פשח</big></b> [צעררייסען שפאלטען] <span class=\"parenthesized\">(שביעית פ\"ג)</span> אילן שנפשח ובו בריכה. <span class=\"parenthesized\">(בסוף עוקצין)</span> יחור של תאנה שנפשח ומעורה בקליפה <span class=\"parenthesized\">(מ\"ק י)</span> אמר רבא האי מאן דפשח דקלא אדעתא דחיותא דשקל מחד גיסא שרי אדעתא דדיקלא כגון דשקל מהאי גיסא ומהאי גיסא אסור. <span class=\"parenthesized\">(ב\"ב נד)</span> אמ' שמואל האי מאן דפשח דקלא אדעתא דדקלא קני והיכי דמי כגון דשקל מהאי גיסא ומהאי גיסא מחד גיסא אדעתא דדקלא לא קני פירוש שזימר הדקל מן הענפים <span class=\"parenthesized\">(יבמות קכב)</span> נתלה בייחור של תאנה ופשתו פירוש סדקו ושברו וישסף שמואל את אגג תרגומו ופשח שמואל <span class=\"parenthesized\">(לשון מקרא)</span> ויפשחני:",
+              "ref": "Sefer HeArukh, Letter Peh 623",
+              "sourceHeRef": "ספר הערוך, אות הפ\"א תרכ״ג",
+              "sourceRef": "Sefer HeArukh, Letter Peh 623"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ה משנה</big> ועוד מדברי אדמון: <b>הפוסק מעות לחתנו</b> בנדוניה, <b>ופשט לו את הרגל,</b> כלומר, אמר לו שאינו יכול לעמוד בהתחייבותו משום שאין לו ממון —",
+              "ref": "Steinsaltz on Ketubot 108b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על כתובות ק״ח ב:טו",
+              "sourceRef": "Steinsaltz on Ketubot 108b:15"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This expression, which literally means: And he stretched his leg toward him, is interpreted in several ways. Rashi offers two possibilities, while the Rivan suggests three. One explanation is that it is a form of derision, as though one stretches his leg toward the other and says: Take the mud off the sole of my foot, as I will not give you any more. Alternatively, he is saying: Even if you hang me from a tree by my foot, I cannot give you anything (Rashi). A third possibility is: You can take my foot, but I do not have any money to give you (Rivan). Yet another suggestion is that it means that he has gone off to another place, i.e., the father has left the area and is no longer available to pay the promised sum (Rambam; Ra’avad; Ritva). Finally, it might mean that he stretched out his foot and died, i.e., an expression of death, similar to: He kicked the bucket (Meiri).",
+              "he": "ביטוי זה נתפרש בכמה דרכים. רש\"י מביא שתי לשונות, והריב\"ן ואחרים מביאים שלוש לשונות. בלשון אחת הביטוי הוא לשון זלזול: כאדם שפושט רגל לחבירו ואומר לו בלעג קח את הטיט שמתחת רגלי, לפי שלא אתן יותר. ובלשון אחרת פירשו — אפילו תתלה אותי ברגלי על העץ איני יכול לתת. ועוד לשון — יכול אתה לקחת את רגלי, אבל ממון אין בידי לתת לך. דרך פירוש אחרת היא שביטוי זה משמעו לשון יציאה מן המקום, שהאב הלך למקום אחר, ואינו נמצא כאן. וכן פירשו הרמב\"ם והראב\"ד, וכן דעת רב נתן אב הישיבה, והריטב\"א סבור שהוא הפירוש הטוב ביותר. והמאירי מפרש גם בדרך אחרת קצת: פשט את הרגל ומת, שגם זו היא לשון מיתה.",
+              "ref": "Steinsaltz comment #1 on Ketubot 108b:15",
+              "sourceHeRef": "וּפָשַׁט לוֹ אֶת הָרֶגֶל",
+              "sourceRef": "And he went bankrupt"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הפוסק מעות לחתנו</strong> - מוקי לה בירושלמי כשפסק במעמדה אבל לא פסק במעמדה אפי' רבנן מודו והשתא אתי שפיר הא דאמר בגמרא כופין למאן אילימא כופין לאב איפכא איבעי ליה למימר הואיל ופסק במעמדה הוי תנאי גדולה תנאי ותנאי קטנה לאו כלום ומסיק כופין לבעל ליתן את הגט לקטנה משום דלאו תנאה אבל גדולה הואיל ובמעמדה התנה הרי הוא כמו שהיא עצמה התנית:",
+              "ref": "Tosafot on Ketubot 108b:15:1",
+              "sourceHeRef": "תוספות על כתובות ק״ח ב:טו:א",
+              "sourceRef": "Tosafot on Ketubot 108b:15:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> The mishna states another case involving a ruling of <span href=\"/topics/admon\" class=\"namedEntityLink\" data-slug=\"admon\">Admon</span>. With regard to one who promises and <b>apportions money for his son-in-law</b> as a dowry, <b>and he went bankrupt,</b> and he now claims that he does not have the money to fulfill his financial obligations,",
+      "he": "<big><strong>מַתְנִי׳</strong></big> הַפּוֹסֵק מָעוֹת לַחֲתָנוֹ, וּפָשַׁט לוֹ אֶת הָרֶגֶל —",
+      "ref": "Ketubot 108b:15",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Ketubot 108b",
+  "titleHebrew": "כתובות קח,ב",
+  "topics": []
+}

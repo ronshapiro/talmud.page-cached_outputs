@@ -1,0 +1,861 @@
+{
+  "id": "24b",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When one of a person's hands contracted impurity and he then touched his other hand or the hand of another person, he disqualified the other hand and it is considered as a tertiary derivative. If his hand was moist with liquid, the other hand contracts impurity even if it was not touched. He must immerse both of them in a <i>mikveh</i>. Only afterwards may he touch consecrated food.<br>With regard to <i>terumah</i>, by contrast, if one of his hands contracts impurity, the other does not, even if he touched it, provided the first was dry. He need not immerse the hand that contracted impurity. It is sufficient to wash it in the ritual manner. He may then touch <i>terumah</i>.",
+              "he": "מִי שֶׁנִּטְמֵאת יָדוֹ אַחַת וְנָגַע בָּהּ בְּיָדוֹ שְׁנִיָּה אוֹ בְּיַד חֲבֵרוֹ פָּסַל אֶת הַשְּׁנִיָּה וַהֲרֵי הִיא כִּשְׁלִישִׁי. וְאִם הָיְתָה יָדוֹ בְּלוּלָה בַּמַּשְׁקֶה אַף עַל פִּי שֶׁלֹּא נָגַע נִטְמֵאת חֲבֶרְתָּהּ וְצָרִיךְ לְהַטְבִּיל אֶת שְׁתֵּיהֶן וְאַחַר כָּךְ יִגַּע בְּקֹדֶשׁ. אֲבָל בִּתְרוּמָה אִם נִטְמֵאת יָדוֹ הָאַחַת לֹא נִטְמֵאת חֲבֶרְתָּהּ. וַאֲפִלּוּ נָגַע בָּהּ כְּשֶׁהִיא נְגוּבָה. וְאֵין צָרִיךְ לְהַטְבִּיל יָדוֹ שֶׁנִּטְמֵאת אֶלָּא נוֹטְלָהּ וְנוֹגֵעַ בִּתְרוּמָה:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 12:12",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יב:יב",
+              "sourceRef": "Other Sources of Defilement 12:12"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל יד חבירו</strong> - אם נגעה ביד חברו לא טימאתה:",
+              "ref": "Rashi on Chagigah 24b:1:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:א:א",
+              "sourceRef": "Rashi on Chagigah 24b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">באותה היד</strong> - אם נגע ביד הראשונה ביד חברו אבל השניה אינה מטמאה יד חברו:",
+              "ref": "Rashi on Chagigah 24b:1:2",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:א:ב",
+              "sourceRef": "Rashi on Chagigah 24b:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אבל</b> את <b>יד חבירו לא</b> תטמא יד טמאה. <b>ור' יוחנן אמר: אחד ידו ואחד יד חבירו,</b> ודווקא כשנגע <b>באותה היד</b> שנגעה בטומאה, ועוד: ידו הטמאה יכולה רק <b>לפסול, אבל לא לטמא</b> אחרים.",
+              "ref": "Steinsaltz on Chagigah 24b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:א",
+              "sourceRef": "Steinsaltz on Chagigah 24b:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>but</b> an impure hand does <b>not</b> render impure <b>the hand of another. And <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> said:</b> An impure hand renders another hand impure <b>whether it is his</b> own <b>hand or the hand of another,</b> provided the second hand is touched <b>by the same hand</b> that came into contact with the impurity. Moreover, the impure hand affects the food it touches only <b>to disqualify</b> it, <b>but not to render</b> it <b>impure.</b>",
+      "he": "אֲבָל יַד חֲבֵירוֹ — לֹא. וְרַבִּי יוֹחָנָן אָמַר: אֶחָד יָדוֹ וְאֶחָד יַד חֲבֵירוֹ, בְּאוֹתָהּ הַיָּד. לִפְסוֹל, אֲבָל לֹא לְטַמֵּא.",
+      "ref": "Chagigah 24b:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא תנא ליה רישא</strong> - ולקדש מטבילין שניהן:",
+              "ref": "Rashi on Chagigah 24b:2:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:ב:א",
+              "sourceRef": "Rashi on Chagigah 24b:2:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>ממאי</b> <span class=\"hebrew-emphasis\">[ממה</span> מהיכן<span class=\"hebrew-emphasis\">]</span> למד דבר זה — <b>מדקתני סיפא</b> <span class=\"hebrew-emphasis\">[מ</span>מה <span class=\"hebrew-emphasis\">ששנינו</span> ב<span class=\"hebrew-emphasis\">סוף,</span> בהמשך<span class=\"hebrew-emphasis\">]</span> המשנה: <b>שהיד מטמאה</b> את <b>חבירתה לקדש, אבל לא לתרומה.</b> ויש לשאול: <b>הא תו</b> <span class=\"hebrew-emphasis\">[זו עוד]</span> <b>למה לי</b> לומר שנית? <b>הא תנא ליה רישא</b> <span class=\"hebrew-emphasis\">[הרי שנה אותה בתחילה]</span> שהיד מטמאה את חבירתה לקודש! <b>אלא לאו שמע מינה</b> <span class=\"hebrew-emphasis\">[האם לא תלמד מכאן]</span> שבא הדבר <b>לאתויי</b> <span class=\"hebrew-emphasis\">[להביא,</span> להוסיף<span class=\"hebrew-emphasis\">]</span> שגם את <b>יד חבירו</b> מטמאה, ולא רק ידו שלו.",
+              "ref": "Steinsaltz on Chagigah 24b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:ב",
+              "sourceRef": "Steinsaltz on Chagigah 24b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one whose hand was impure by rabbinic law touches his other hand or that of another person, it confers third-degree impurity on that other hand. He should therefore not touch sacrificial food with that second hand, in accordance with Rabbi Yoĥanan and Reish Lakish (Rambam<i> Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>12:12).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Chagigah 24b:2",
+              "sourceHeRef": "יָד מְטַמְּאָה חֲבֶירְתָּהּ",
+              "sourceRef": "One hand renders its counterpart impure"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara elaborates on <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span>’s opinion. <b>From where</b> did he learn this? <b>From</b> the fact <b>that it teaches</b> in <b>a latter clause</b> in the mishna: <b>For one renders its counterpart,</b> i.e., the other hand, <b>impure</b> with regard <b>to sacrificial</b> food <b>but not</b> with regard <b>to <i>teruma</i>. Why do I need this</b> phrase <b>as well? It was</b> already <b>taught in the first clause</b> that one hand renders the other hand impure with regard to sacrificial food. <b>Rather,</b> must one <b>not conclude from</b> this added phrase that it comes <b>to include</b> the rendering impure of <b>the hand of another</b> as well as his own other hand?",
+      "he": "מִמַּאי — מִדְּקָתָנֵי סֵיפָא: שֶׁהַיָּד מְטַמְּאָה חֲבֶירְתָּהּ לַקֹּדֶשׁ, אֲבָל לֹא לַתְּרוּמָה. הָא תּוּ לְמָה לִי? הָא תְּנָא לֵיהּ רֵישָׁא! אֶלָּא לָאו שְׁמַע מִינַּהּ, לְאֵתוֹיֵי יַד חֲבֵירוֹ.",
+      "ref": "Chagigah 24b:2"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>ואף ריש לקיש הדר ביה</b> <span class=\"hebrew-emphasis\">[חזר בו]</span> ואמר כר' יוחנן. ש<b>אמר ר' יונה אמר ר' אמי אמר ריש לקיש: אחד ידו ואחד יד חבירו,</b> ודווקא בשנגע <b>באותה היד</b> שנטמאה, ואינה גורמת אלא <b>לפסול אבל לא לטמא.</b>",
+              "ref": "Steinsaltz on Chagigah 24b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:ג",
+              "sourceRef": "Steinsaltz on Chagigah 24b:3"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara observes: <b>And <span href=\"/topics/rabbi-shimon-b-lakish\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-lakish\">Reish Lakish</span>, too, retracted</b> his own opinion in favor of <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span>’s opinion. For <b><span href=\"/topics/rabbi-yonah\" class=\"namedEntityLink\" data-slug=\"rabbi-yonah\">Rabbi Yona</span> said</b> that <b><span href=\"/topics/rabbi-ammi\" class=\"namedEntityLink\" data-slug=\"rabbi-ammi\">Rabbi Ami</span> said</b> that <b><span href=\"/topics/rabbi-shimon-b-lakish\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-lakish\">Reish Lakish</span> said:</b> The decree that one hand renders another impure applies <b>whether it is his</b> own <b>hand or the hand of another,</b> provided the second hand is touched <b>by the same hand</b> that came into contact with the impurity. Moreover, the impure hand affects the food it touches only <b>to disqualify</b> it, <b>but not to render</b> it <b>impure.</b>",
+      "he": "וְאַף <span href=\"/topics/rabbi-shimon-b-lakish\" class=\"namedEntityLink\" data-slug=\"rabbi-shimon-b-lakish\">רֵישׁ לָקִישׁ</span> הֲדַר בֵּיהּ, דְּאָמַר רַבִּי יוֹנָה אָמַר רַבִּי אַמֵּי אָמַר רֵישׁ לָקִישׁ: אֶחָד יָדוֹ וְאֶחָד יַד חֲבֵירוֹ, בְּאוֹתָהּ הַיָּד, לִפְסוֹל אֲבָל לֹא לְטַמֵּא.",
+      "ref": "Chagigah 24b:3"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "Anything which disqualifies terumah defiles hands with a second degree of uncleanness. One [unwashed] hand defiles the other hand, the words of Rabbi Joshua. But the sages say: that which has second degree of uncleanness cannot convey second degree of uncleanness. He said to them: But do not the Holy Scriptures which have second degree of uncleanness defile the hands? They said to him: the laws of the Torah may not be argued from the laws of the scribes, nor may the laws of the scribes be argued from the laws of the Torah, nor may the laws of the scribes be argued from [other] laws of the scribes.",
+              "he": "כֹּל הַפּוֹסֵל אֶת הַתְּרוּמָה, מְטַמֵּא אֶת הַיָּדַיִם לִהְיוֹת שְׁנִיּוֹת. הַיָּד מְטַמְּאָה אֶת חֲבֶרְתָּהּ, דִּבְרֵי רַבִּי יְהוֹשֻׁעַ. וַחֲכָמִים אוֹמְרִים, אֵין שֵׁנִי עוֹשֶׂה שֵׁנִי. אָמַר לָהֶם, וַהֲלֹא כִתְבֵי הַקֹּדֶשׁ שְׁנִיִּים מְטַמְּאִין אֶת הַיָּדַיִם. אָמְרוּ לוֹ, אֵין דָּנִין דִּבְרֵי תוֹרָה מִדִּבְרֵי סוֹפְרִים, וְלֹא דִבְרֵי סוֹפְרִים מִדִּבְרֵי תוֹרָה, וְלֹא דִבְרֵי סוֹפְרִים מִדִּבְרֵי סוֹפְרִים:",
+              "link": "/Mishnah Yadayim/3",
+              "ref": "Mishnah Yadayim 3:2",
+              "sourceHeRef": "משנה ידים ג:ב",
+              "sourceRef": "Mishnah Yadayim 3:2"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Hands that contracted impurity are always considered as a secondary derivative according to Rabbinic Law. For their impurity is a Rabbinic decree, and when it was decreed that they would be impure, it was decreed that their status would be that of a secondary derivative. Even when one inserts his hands into a house that is deemed impure due to <i>tzara'at</i> or touches with his hands a person who imparts impurity to his garments before that person has separated himself from the source of his impurity, the person's hands are secondary derivatives.",
+              "he": "הַיָּדָיִם שְׁנִיּוֹת מִדִּבְרֵי סוֹפְרִים לְעוֹלָם שֶׁאֵין טֻמְאָתָן אֶלָּא מִדִּבְרֵיהֶם וּכְשֶׁגָּזְרוּ טֻמְאָה עֲלֵיהֶן גָּזְרוּ שֶׁיִּהְיוּ כְּשֵׁנִי לְטֻמְאָה. אֲפִלּוּ הִכְנִיס יָדָיו לְבַיִת הַמְנֻגָּע אוֹ שֶׁנָּגַע בְּיָדָיו בְּאָדָם שֶׁמְּטַמֵּא בְּגָדִים עַד שֶׁלֹּא פֵּרַשׁ מִמְּטַמְּאָיו הֲרֵי יָדָיו שְׁנִיּוֹת:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 8:2",
+              "sourceHeRef": "הלכות שאר אבות הטומאות ח:ב",
+              "sourceRef": "Other Sources of Defilement 8:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולפסול</strong> - את הקדש הוא דאמר יד מטמא חבירתה אבל לא לטמא:",
+              "ref": "Rashi on Chagigah 24b:4:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:ד:א",
+              "sourceRef": "Rashi on Chagigah 24b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין שני עושה שני</strong> - אין יד שהיא שניה עושה את חבירתה שניה מכלל דשמעי' לר' יהושע דאמר היד מטמא את חבירתה להיות כמותה:",
+              "ref": "Rashi on Chagigah 24b:4:2",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:ד:ב",
+              "sourceRef": "Rashi on Chagigah 24b:4:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>ו</b>בענין זה של <b>לפסול אבל לא לטמא — תנאי</b> <span class=\"hebrew-emphasis\">[</span>מחלוקת <span class=\"hebrew-emphasis\">תנאים]</span> <b>היא. דתנן</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> במשנה<span class=\"hebrew-emphasis\">]:</span> <b>כל הפוסל בתרומה</b> כל דבר שהוא בדרגת שני לטומאה, שמגעו פוסל את התרומה — <b>מטמא ידים להיות</b> אף הן <b>שניות</b> לטומאה. <b>ויד</b> שהיא שניה לטומאה <b>מטמא חבירתה,</b> אלו <b>דברי ר' יהושע. וחכמים אומרים: ידים</b> עצמן <b>שניות הן, ואין שני עושה שני בחולין.</b>",
+              "ref": "Steinsaltz on Chagigah 24b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:ד",
+              "sourceRef": "Steinsaltz on Chagigah 24b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Sages decreed that when hands become impure it is always to the second degree (Rambam<i> Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>8:2).",
+              "he": "ומכאן אין להביא ראיה שתטמאנה הידים זו את זו, כי כדברי הרמב\"ם אפשר לומר שכיון שטומאת ידים אינה אלא גזירת חכמים, הרי קבעו שידים תמיד תיחשבנה כשניות לטומאה, ובפחות מכן אין הן טמאות לכל דבר.",
+              "ref": "Steinsaltz comment #1 on Chagigah 24b:4",
+              "sourceHeRef": "יָדַיִם שְׁנִיּוֹת הֵן",
+              "sourceRef": "Hands are impure to the second degree"
+            },
+            {
+              "en": "",
+              "he": "הלכה כדברי חכמים שגזרו שסתם ידים ייחשבו תמיד כשניות לטומאה. (רמב\"ם ספר טהרה הלכות אבות הטומאות פ\"ח ה\"ב).",
+              "ref": "Steinsaltz comment #2 on Chagigah 24b:4",
+              "sourceHeRef": "ידים שניות הן",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> דתנן כל הפוסל כו' ועי\"ל דלרבנן איצטריך התם דפליגי עליה דר' יהושע כו' עכ\"ל אע\"ג דרבנן דהיינו חכמים דפליגי עליה דר\"י לא פליגי ברישא אלא אידים דאין אחת מטמאה חברתה כדקתני וחכ\"א ידים שניות הן כו' משמע להו דפליגי נמי אההיא דכל הפוסל כו' מדקאמרי ואין שני עושה שני בחולין:",
+                      "ref": "Chidushei Halachot on Chagigah 24b:1",
+                      "sourceHeRef": "חידושי הלכות על חגיגה כ״ד ב:א",
+                      "sourceRef": "Chidushei Halachot on Chagigah 24b:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>בא\"ד</b> וההיא דהתם כו' ולא לתרומה בחולין שנעשו על טהרת תרומה כצ\"ל:",
+                      "ref": "Chidushei Halachot on Chagigah 24b:3",
+                      "sourceHeRef": "חידושי הלכות על חגיגה כ״ד ב:ג",
+                      "sourceRef": "Chidushei Halachot on Chagigah 24b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דתנן כל הפוסל את התרומה כו'</strong> - קשה לר\"י דאמרינן בפ\"ק דשבת <span class=\"parenthesized\">(דף יד. ושם)</span> אף הידים הבאות מחמת ספר פוסלות את התרומה משום דר' פרנך דאמר וכו' מאי קאמר אפי' כל מילי נמי דפוסל את התרומה מטמא ידים כדתנן הכא וי\"ל דספר נגזרה ראשון ואח\"כ של שאר מילי ועוד יש לומר דלרבנן איצטריך התם דפליגי עליה דרבי יהושע ומיהו טפי נראה לומר דאף ר' יהושע לא קאמר רק לקדש כדמשמע כולה שמעתין אבל לתרומה לא וכי קאמר בסיפא דמתני' אמר להם רבי יהושע והלא כתבי הקדש שניים מטמאין את הידים אמרו ליה אין למדין דברי תורה כו' ומאי קא מקשי להו הא איהו מודה דכתבי הקדש מיירי אף לתרומה וההיא דכל הפוסל את התרומה דוקא לקדש התם לאו קושיא היא אלא סיומא דמלתא קמסיק בא ליתן טעם על דבריו למה שני עושה שני דה\"נ מצינו בתרומה כ\"ש לקדש אבל קשה להר\"ר אלחנן מאי סייעתא מייתי למילתיה מכתבי הקדש שאני התם משום דר' פרנך כל האוחז ס\"ת ערום כו' ותירץ הר\"י דבספר נמי היכא דלא שייך דר' פרנך קאמר ליה כגון רצועות של תפילין עם התפילין אבל אכתי היה קשה להר\"ר אלחנן בפ\"ב דחולין <span class=\"parenthesized\">(דף לד.)</span> מצינו לשני עושה שני ע\"י משקין ופריך תחילה נמי הוה ואמאי לא קאמר ביד שמטמאה את חברתה כי הכא וי\"ל דאיהו קאמר ליה במס' ידים לכך לא חש להביא סייעתא ממה שאמר איהו וגם ע\"י ספר לא בעי למימר מצינו שני עושה שני דהתם טעמא רבה איכא משום דר' פרנך ומיהו התם לא בעי למימר שני עושה שני משום גזרה דשבת די\"ח דבר דאמרינן דלמא שדי משקין דתרומה לפיו כי אכיל אוכלין טמאים דהתם נמי ידע הא טעמא אלא קמתמה כיון שלא מצינו טומאה כהאי גוונא היכי גזרינן א\"ל הכא וההיא דהתם דקאמר שלישי שני לקדש ולא לתרומה בחולין שנעשו עטה\"ק וקשה אמאי לא חשיב לה גבי מעלות הכא וי\"ל דהתם מפרש טעמא שאני תרומה שטהרתה טמאה היא אצל הקדש א\"כ לאו משום מעלה היא הר\"ר אלחנן ומיהו למאן דלית ליה התם דאהדר ליה הכי ר\"א לר' יהושע ולא קמסיק אף אני לא אמרתי דקאמר התם אמוראי נינהו ואליבא דר' יוחנן א\"כ אמאי לא חשיב ליה וי\"ל דאיכא למימר דבתרומה לא גזור משום דזריזין גבי תרומה אבל לא גבי קדש הלכך לא שייך למימר בהן מעלה ודוגמתו מצינו בריש פירקין בירושלמי גבי חומר בקדש ר' חייא בשם ר' יוחנן מפני שאוכלי תרומה זריזין הן ואוכלי קדש אינן זריזין א\"ר. חנינא קומי ר' מנא הדא היא מעלה אילו דבר שבזה ובזה בזה טהור ובזה טמא הדא היא מעלה אלמא לא חשבינן ליה מעלה בדבר התלוי בזריזות:",
+              "ref": "Tosafot on Chagigah 24b:4:1",
+              "sourceHeRef": "תוספות על חגיגה כ״ד ב:ד:א",
+              "sourceRef": "Tosafot on Chagigah 24b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara comments: <b>And</b> this opinion, that an impure hand affects the sacrificial food only <b>to disqualify</b> it <b>but not to render</b> it <b>impure, is</b> a dispute between <b><i>tanna’im</i>. As we learned</b> in a mishna (<i>Yadayim</i> 3:2): <b>Anything that disqualifies <i>teruma</i></b> by contact with it, i.e., anything that is impure at least to the second degree, <b>renders the hands impure</b> to the <b>second</b> degree. <b>And</b> furthermore, <b>a hand</b> that is impure to the second degree <b>renders its counterpart,</b> the other hand, <b>impure;</b> this is <b>the statement of <span href=\"/topics/rabbi-yehoshua-b-hananyah\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-hananyah\">Rabbi Yehoshua</span>. But the Rabbis say: Hands</b> themselves <b>are</b> impure to the <b>second</b> degree, <b>and</b> that which is impure to the <b>second</b> degree <b>cannot impart</b> second-degree impurity to something else <b>with regard to non-sacred</b> food.",
+      "he": "וְלִפְסוֹל אֲבָל לֹא לְטַמֵּא תַּנָּאֵי הִיא. דִּתְנַן: כׇּל הַפּוֹסֵל בִּתְרוּמָה — מְטַמֵּא יָדַיִם לִהְיוֹת שְׁנִיּוֹת, וְיָד מְטַמֵּא חֲבֶירְתָּהּ, דִּבְרֵי רַבִּי יְהוֹשֻׁעַ. וַחֲכָמִים אוֹמְרִים: יָדַיִם שְׁנִיּוֹת הֵן, וְאֵין שֵׁנִי עוֹשֶׂה שֵׁנִי בַּחוּלִּין.",
+      "ref": "Chagigah 24b:4"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מאי לאו</b> <span class=\"hebrew-emphasis\">[האם לא]</span> ראוי שנדייק מן הלשון כך: <b>שני הוא דלא עביד</b> <span class=\"hebrew-emphasis\">[שאינו עושה]</span> שיהיה שני כמותו לטמא אחרים, <b>הא</b> <span class=\"hebrew-emphasis\">[הרי]</span> <b>שלישי עביד</b> <span class=\"hebrew-emphasis\">[</span>הוא <span class=\"hebrew-emphasis\">עושה],</span> שהיד הנוגעת נעשית טמאה בדרגת פסול בלבד. ולפי זה לדעת ר' יהושע היד מטמאה אחרים ואינה פסולה בלבד.",
+              "ref": "Steinsaltz on Chagigah 24b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:ה",
+              "sourceRef": "Steinsaltz on Chagigah 24b:5"
+            }
+          ]
+        }
+      },
+      "en": "From the Rabbis’ response to <span href=\"/topics/rabbi-yehoshua-b-hananyah\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-hananyah\">Rabbi Yehoshua</span> it is clear that the latter’s opinion is that the second hand is indeed rendered impure to the second degree, imparting third-degree impurity to sacrificial food that it touches. Moreover: <b>What, is it not</b> correct to infer from the Rabbis’ words that <b>it is</b> impurity to the <b>second</b> degree <b>that</b> the first hand <b>does not impart</b> to the second hand by touching it, <b>but</b> impurity to the <b>third</b> degree it <b>does impart</b> to the second hand? The second hand would thus only disqualify the sacrificial food that it touches by imparting to it a fourth-degree impurity. Therefore, the Rabbis and Rabbi Yehoshua are arguing about this very point: Does the second hand only disqualify sacrificial food by imparting to it fourth-degree impurity, or does it render the food impure with third-degree impurity?",
+      "he": "מַאי לָאו: שֵׁנִי הוּא דְּלָא עָבֵיד, הָא שְׁלִישִׁי עָבֵיד.",
+      "ref": "Chagigah 24b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודלמא לא שני ולא שלישי</strong> - דלית להו הך מעלה דמתני' אבל מאן דאית ליה אפי' לטמא אית ליה להכי קאמר ידים לעולם שניות הן לפיכך אין יד מטמא את חבירתה:",
+              "ref": "Rashi on Chagigah 24b:6:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:ו:א",
+              "sourceRef": "Rashi on Chagigah 24b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ראיה זו דוחים: <b>דלמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> לדעת חכמים <b>לא שני עביד</b> <span class=\"hebrew-emphasis\">[עושה]</span> <b>ולא שלישי</b> עושה טומאה כלשהי בנוגע בה, שלדעתם יד שנטמאה אינה מטמאה ואינה פוסלת כלל יד אחרת, ושלא כמשנתנו. ואילו השיטה שבמשנה כדעת ר' יהושע היא, שיד מטמאה ממש.",
+              "ref": "Steinsaltz on Chagigah 24b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:ו",
+              "sourceRef": "Steinsaltz on Chagigah 24b:6"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara rejects this proof: <b>Perhaps</b> the Rabbis meant that the first hand does <b>not impart</b> impurity to the second hand to <b>either the second or the third</b> degree, for in their opinion one impure hand does not defile the other hand at all, in contradiction to the mishna, whereas the opinion expressed in the mishna would be following <span href=\"/topics/rabbi-yehoshua-b-hananyah\" class=\"namedEntityLink\" data-slug=\"rabbi-yehoshua-b-hananyah\">Rabbi Yehoshua</span>.",
+      "he": "דִּלְמָא לָא שֵׁנִי עָבֵיד וְלָא שְׁלִישִׁי.",
+      "ref": "Chagigah 24b:6"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">נְגוּבָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, נָגַב 1\" dir=\"rtl\" href=\"/Jastrow,_נָגַב.1\">נָגַב</span>) <i>law of levitical cleanness concerning dry objects</i>. <span class=\"refLink\" data-ref=\"Chagigah 24b:8\" href=\"/Chagigah.24b.8\">Chagigah 24ᵇ</span> <span dir=\"rtl\">וכי יש נ׳ לקדש</span> (Manuscript Munich <span class=\"refLink\" data-ref=\"Jastrow, נְגִיבָא 1\" dir=\"rtl\" href=\"/Jastrow,_נְגִיבָא.1\">נְגִיבָה</span>) is there any distinction in favor of dry objects as regards &c.?, see <span class=\"refLink\" data-ref=\"Jastrow, נָגַב 1\" dir=\"rtl\" href=\"/Jastrow,_נָגַב.1\">נָגַב</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, נְגוּבָה 1",
+              "sourceHeRef": "מילון יסטרוב, נְגוּבָה א׳",
+              "sourceRef": "Jastrow, נְגוּבָה 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> מחלוקת זו היא <b>כי הני תנאי</b> <span class=\"hebrew-emphasis\">[כמו תנאים אלה]</span> שנחלקו בדבר, <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]:</span> <b>יד נגובה מטמא את חבירתה לטמא בקדש, אבל לא לתרומה,</b> אלו <b>דברי רבי, ר' יוסי בר' יהודה אומר: אותה יד לפסול, אבל לא לטמא.</b> הרי שנחלקו תנאים אלה באותו ענין ממש.",
+              "ref": "Steinsaltz on Chagigah 24b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:ז",
+              "sourceRef": "Steinsaltz on Chagigah 24b:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> the issue of which degree of impurity is imparted to the second hand is <b>like</b> the following dispute between <b><i>tanna’im</i>, as it is taught</b> in the <i>baraita</i> cited earlier: Even <b>a dry hand</b> that is impure <b>renders its counterpart,</b> i.e., the other hand, <b>impure to</b> the extent that the second hand will now <b>render impure</b> food that it touches. This is true with regard <b>to sacrificial</b> food <b>but not</b> with regard <b>to <i>teruma</i>.</b> This is <b>the statement of <span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\">Rabbi</span></b><span href=\"/topics/rabi\" class=\"namedEntityLink\" data-slug=\"rabi\"> Yehuda HaNasi</span>. <b><span href=\"/topics/rabbi-yose-b-yehudah\" class=\"namedEntityLink\" data-slug=\"rabbi-yose-b-yehudah\">Rabbi Yosei, son of Rabbi Yehuda</span>, says: The</b> second <b>hand</b> is not rendered impure to such a severe extent. It can merely <b>disqualify</b> sacrificial food that it touches, by making it impure to the fourth degree, <b>but not render</b> it <b>impure</b> to the third degree.",
+      "he": "אֶלָּא כִּי הָנֵי תַּנָּאֵי, דְּתַנְיָא: יָד נְגוּבָה מְטַמָּא אֶת חֲבֶירְתָּהּ לְטַמֵּא בַּקֹּדֶשׁ, אֲבָל לֹא לַתְּרוּמָה, דִּבְרֵי רַבִּי. רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר: אוֹתָהּ יָד לִפְסוֹל, אֲבָל לֹא לְטַמֵּא.",
+      "ref": "Chagigah 24b:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">נְגוּבָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, נָגַב 1\" dir=\"rtl\" href=\"/Jastrow,_נָגַב.1\">נָגַב</span>) <i>law of levitical cleanness concerning dry objects</i>. <span class=\"refLink\" data-ref=\"Chagigah 24b:8\" href=\"/Chagigah.24b.8\">Chagigah 24ᵇ</span> <span dir=\"rtl\">וכי יש נ׳ לקדש</span> (Manuscript Munich <span class=\"refLink\" data-ref=\"Jastrow, נְגִיבָא 1\" dir=\"rtl\" href=\"/Jastrow,_נְגִיבָא.1\">נְגִיבָה</span>) is there any distinction in favor of dry objects as regards &c.?, see <span class=\"refLink\" data-ref=\"Jastrow, נָגַב 1\" dir=\"rtl\" href=\"/Jastrow,_נָגַב.1\">נָגַב</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, נְגוּבָה 1",
+              "sourceHeRef": "מילון יסטרוב, נְגוּבָה א׳",
+              "sourceRef": "Jastrow, נְגוּבָה 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">נָגַב</strong> (compare <span class=\"refLink\" data-ref=\"Jastrow, גַּב 1\" dir=\"rtl\" href=\"/Jastrow,_גַּב.1\">גַּב</span>) [<i>to have a crust,</i>] <i>to be dry</i>. <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 5:3\" href=\"/Mishnah_Avodah_Zarah.5.3\">Pirkei Avot Zar. V, 3</span> (<span class=\"refLink\" data-ref=\"Avodah Zarah 69a:5\" href=\"/Avodah_Zarah.69a.5\">69ᵃ</span>) <span dir=\"rtl\">כדי שישתום … ויִגּוֹב</span> as much time as would be required for a person to bore a hole (uncork), and close it up, and (for the sealing clay) to get dry; ib. <span dir=\"rtl\">כדי שיפתח</span> (<span dir=\"rtl\">את החבית</span>) … <span dir=\"rtl\">ותִיגּוֹב</span> to open the jug and close it up again, and (for the clay) to dry; and e.—Part. pass. <span class=\"refLink\" data-ref=\"Jastrow, נְגוּב 1\" dir=\"rtl\" href=\"/Jastrow,_נְגוּב.1\">נָגוּב</span>; f. <span class=\"refLink\" data-ref=\"Jastrow, נְגוּבָה 1\" dir=\"rtl\" href=\"/Jastrow,_נְגוּבָה.1\">נְגוּבָה</span>; plural <span dir=\"rtl\">נְגוּבִים</span>, <span dir=\"rtl\">נְגוּבִין</span>; <span dir=\"rtl\">נְגוּבוֹת</span> <i>dry</i>. <span class=\"refLink\" data-ref=\"Mishnah Chagigah 3:3\" href=\"/Mishnah_Chagigah.3.3\">Chagigah III, 3</span> <span dir=\"rtl\">אוכלים נ׳</span> dry eatables (which have not come in contact with liquids and are, therefore, insusceptible of levitical uncleanness, see <span class=\"refLink\" data-ref=\"Jastrow, הֶכְשֵׁיר 1\" dir=\"rtl\" href=\"/Jastrow,_הֶכְשֵׁיר.1\">הֶכְשֵׁר</span>); <span class=\"refLink\" data-ref=\"Tosefta Chagigah 3:11\" href=\"/Tosefta_Chagigah.3.11\">Tosefta ib. III, 11</span>. <span class=\"refLink\" data-ref=\"Tosefta Chagigah 3:12\" href=\"/Tosefta_Chagigah.3.12\">Ib. 12</span> <span dir=\"rtl\">וכי יש נגובים לקדש</span> are the exemptions in favor of dry objects applicable to sacred matter?; <span class=\"refLink\" data-ref=\"Chagigah 24b:8\" href=\"/Chagigah.24b.8\">Chagigah 24ᵇ</span> <span dir=\"rtl\">וכי יש נגובה וכ׳</span> (Manuscript Munich <span class=\"refLink\" data-ref=\"Jastrow, נְגִיבָא 1\" dir=\"rtl\" href=\"/Jastrow,_נְגִיבָא.1\">נְגִיבָה</span>). <span class=\"refLink\" data-ref=\"Chagigah 24a\" href=\"/Chagigah.24a\">Ib.ᵃ</span>, sq. <span dir=\"rtl\">יד נ׳ מטמאה וכ׳</span> one dry hand (which has become unclean) makes the other hand unclean; and e.<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">נִיגֵּב</strong> <i>to dry, wipe, scour</i>. Ib. III, 1 (20ᵇ) <span dir=\"rtl\">מתיר ומְנַגֵּב ומטביל</span> (Bavli ed. <span dir=\"rtl\">ומַנְגִּיב</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 3; Yerushalmi ed. <span dir=\"rtl\">מתיר ומטביל</span>) he must open (the knots of the garment) and wipe it dry and smooth and then immerse. <span class=\"refLink\" data-ref=\"Vayikra Rabbah 28\" href=\"/Vayikra_Rabbah.28\">Vayikra Rabbah section (Parashah) 28</span>, beginning <span dir=\"rtl\">עד שלא יְנַגְּבָהּ</span> before he gets it (the garment) dry and glossy; <span class=\"refLink\" data-ref=\"Vayikra Rabbah 28:3\" href=\"/Vayikra_Rabbah.28.3\">ib.</span> <span dir=\"rtl\">ומְנַגֵּב את הארץ</span> and makes the earth dry; <span class=\"refLink\" data-ref=\"Kohelet Rabbah 1:3\" href=\"/Kohelet_Rabbah.1.3\">Kohelet Rabbah to I, 3</span> <span dir=\"rtl\">ומכבסן ומבשלן ומְנַגְּבָן</span> and washes them (the plants) and ripens and glosses them. <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 5:11\" href=\"/Mishnah_Avodah_Zarah.5.11\">Pirkei Avot Zar. V, 11</span> <span dir=\"rtl\">מְנַגְּבָהּ</span> he scours it; <span class=\"refLink\" data-ref=\"Avodah Zarah 74b:9\" href=\"/Avodah_Zarah.74b.9\">ib. 74ᵇ</span> <span dir=\"rtl\">במה מְנַגְּבָן וכ׳</span> wherewith does he scour them? … with ashes, … with water. <span class=\"refLink\" data-ref=\"Avodah Zarah 75a\" href=\"/Avodah_Zarah.75a\">Ib. 75ᵃ</span>; and from—<i>Part. pass</i>. <span dir=\"rtl\">מְנוּגָּב</span> <i>dry, parched, sapless, bare of</i>. <span class=\"refLink\" data-ref=\"Temurah 16a:46\" href=\"/Temurah.16a.46\">Temurah 16ᵃ</span> (play on <span dir=\"rtl\">הנגב</span> <span class=\"refLink\" data-ref=\"Joshua 15:19\" href=\"/Joshua.15.19\">Joshua XV, 19</span>) <span dir=\"rtl\">בית שמנ׳ מכל וכ׳</span> a household bare of all that is good; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 27\" href=\"/Yalkut_Shimoni_on_Nach.27\">Yalkut Joshua 27</span> <span dir=\"rtl\">אדם המנ׳ וכ׳</span> a man bare &c.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִנְגִּיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, נֶגֶב 1\" href=\"/Jastrow,_נֶגֶב.1\">same</span><br>, see supra.—2) (denominative of <span class=\"refLink\" data-ref=\"Jastrow, נֶגֶב 1\" dir=\"rtl\" href=\"/Jastrow,_נֶגֶב.1\">נֶגֶב</span>) <i>to go south</i>. <span class=\"refLink\" data-ref=\"Eruvin 53b\" href=\"/Eruvin.53b\">Eruvin 53ᵇ</span> (in an enigmatic speech) <span dir=\"rtl\">וה׳ למפיבשת</span> and went south to the great scholar (see <span class=\"refLink\" data-ref=\"Jastrow, מְפִיבֹשֶׁת 1\" dir=\"rtl\" href=\"/Jastrow,_מְפִיבֹשֶׁת.1\">מְפִיבשֶׁת</span>).<br></br> <strong>Nithpaël</strong> - <strong dir=\"rtl\">נִתְנַגֵּב</strong> <i>to be dried up</i>. Sifra <span class=\"refLink\" data-ref=\"Leviticus 1\" href=\"/Leviticus.1\">Bechukotai Chaldaic I</span> <span dir=\"rtl\">ונִתְנַגְּבָה הארץ</span> the ground was dried up; <span class=\"refLink\" data-ref=\"Vayikra Rabbah 35\" href=\"/Vayikra_Rabbah.35\">Vayikra Rabbah section (Parashah) 35</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, נָגַב 1",
+              "sourceHeRef": "מילון יסטרוב, נָגַב א׳",
+              "sourceRef": "Jastrow, נָגַב 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Dry foods that have not become susceptible to contract impurity may be eaten with impure hands. With regard to what does the above apply? To <i>terumah</i>. With regard to consecrated food, by contrast, the cherished quality of consecrated food causes it to be considered as susceptible to impurity and it is forbidden for someone whose hands are impure to eat consecrated food even if it was not made susceptible to impurity by contact with liquids.<br>Even if the person with impure hands did not actually touch the consecrated food with his hands, only with a weaving needle or his friend inserted it into his mouth, this is forbidden. Needless to say, if a source of impurity touched consecrated food that was not made susceptible to impurity by contact with liquids, it becomes impure, because the cherished quality of consecrated food causes it to be considered as susceptible to impurity.",
+              "he": "אֳכָלִין נְגוּבִין שֶׁלֹּא הֻכְשְׁרוּ אוֹכְלִין אוֹתָם בְּיָדַיִם מְסֹאָבוֹת. בַּמֶּה דְּבָרִים אֲמוּרִים בִּתְרוּמָה. אֲבָל בְּקֹדֶשׁ חִבַּת הַקֹּדֶשׁ מַכְשַׁרְתָּן וְאָסוּר לְמִי שֶׁיָּדָיו טְמֵאוֹת לֶאֱכל קֹדֶשׁ שֶׁלֹּא הֻכְשַׁר. וַאֲפִלּוּ לֹא נָגַע בּוֹ אֶלָּא בְּכוּשׁ אוֹ שֶׁתָּחַב לוֹ חֲבֵרוֹ לְתוֹךְ פִּיו הֲרֵי זֶה אָסוּר. וְאֵין צָרִיךְ לוֹמַר שֶׁאִם נָגְעָה טֻמְאָה בָּאֳכָלִין שֶׁל קֹדֶשׁ שֶׁלֹּא הֻכְשְׁרוּ שֶׁנִּטְמְאוּ מִפְּנֵי שֶׁחִבַּת הַקֹּדֶשׁ מַכְשַׁרְתָּן:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 12:13",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יב:יג",
+              "sourceRef": "Other Sources of Defilement 12:13"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכי יש נגובה בקדש</strong> - והלא חיבת הקדש מכשרת אלא אין נגובה זו לומר כשלא הוכשרו אלא כשהוכשרו לטומאה ועכשיו הן נגובין וטומאה הן מקבלין ולא הוצרכה משנתנו לדבר באוכלי קדש נגובין אלא באוכלי חולין נגובין ואוכלין קדש:",
+              "ref": "Rashi on Chagigah 24b:8:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:ח:א",
+              "sourceRef": "Rashi on Chagigah 24b:8:1"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> Concerning several matters there is greater <b>stringency with regard to sacrificial</b> food <b>than with regard to <i>teruma</i>,</b> a portion of the produce designated for the priest. This expresses itself in many ways, the first being <b>that one may immerse vessels inside</b> other <b>vessels</b> to purify them <b>for <i>teruma</i>; but not for sacrificial</b> food, for which one must immerse each vessel separately. Another difference is that the <i>halakhot</i> of <b>the back</b> of a vessel <b>and</b> its <b>inside and</b> its <b>place for gripping</b> apply <b>to</b> vessels used for <b><i>teruma</i>,</b> meaning that each part of the vessel has its own use and is considered a separate vessel in that it does not convey impurity to the other parts of the vessel when it contracts impurity; <b>but not to sacrificial</b> food, for which an impure section of the vessel does convey impurity to all the other sections.",
+                  "Likewise, <b>one who carries an object trodden</b> on by a <i>zav</i>, a man suffering from gonorrhea, <b>may carry <i>teruma</i></b> at the same time, if he is careful that neither he nor the impure object should come into contact with the <i>teruma</i>, <b>but</b> this may <b>not</b> be done with <b>sacrificial</b> food. <b>The garments of those who eat <i>teruma</i></b> are like an object trodden on by a <i>zav</i> <b>with regard to sacrificial</b> food.",
+                  "The mishna lists other stringencies that apply to sacrificial foods but not to <i>teruma</i>: <b>The characteristics of <i>teruma</i> are not like the characteristics of sacrificial</b> food, <b>as in</b> the case of vessels that are used with <b>sacrificial</b> food, if one has a garment or vessel that is tied up <b>he must untie</b> it <b>and dry</b> it if there was any moisture on it, as both a knot and absorbed moisture are considered interpositions that prevent the water of the ritual bath from reaching the entire garment. <b>And he may</b> then <b>immerse</b> them, <b>and afterward he may tie</b> them up again if he wishes. <b>But with regard to <i>teruma</i> he may,</b> if he so desires, <b>tie</b> up the garment <b>and then immerse</b> it without any concern that the knot might be considered an interposition.",
+                  "<b>Vessels</b> that were fashioned and <b>completed in purity</b> nevertheless <b>require immersion</b> to be considered pure <b>for sacrificial</b> food<b>s, but not for <i>teruma</i>. A vessel combines</b> all the food <b>that is in it</b> with regard <b>to sacrificial</b> food, meaning that if one piece of food becomes impure all the other pieces become impure as well; <b>but not</b> with regard <b>to <i>teruma</i>,</b> concerning which each piece is treated independently.",
+                  "The mishna continues the list of differences between sacrificial food and <i>teruma</i>. <b>Sacrificial</b> food <b>that is impure with fourth-degree</b> impurity <b>is disqualified,</b> meaning that the sacrificial food is rendered impure but it does not impart impurity to other items. <b><i>Teruma</i> is disqualified when it is impure with third-degree</b> impurity; it is not susceptible to fourth-degree impurity at all. <b>And with regard to <i>teruma</i>, if one of one’s hands became impure</b> by rabbinic law that renders only the hands impure, <b>its counterpart,</b> i.e., the other hand, remains <b>pure. But with regard to sacrificial</b> food, if one hand becomes impure <b>he must immerse them both, as one hand renders its counterpart impure with regard to sacrificial</b> food <b>but not with regard to <i>teruma</i>. One may eat dry foods,</b> i.e., foods that have never come into contact with liquid and are therefore not susceptible to impurity, <b>with impure hands when</b> it is <b><i>teruma</i>, but not</b> when it is <b>sacrificial</b> food."
+                ],
+                [
+                  "<b>An acute mourner [<i>onen</i>],</b> i.e., someone who has experienced the loss of a close relative on that day, who had not come into contact with the deceased; <b>and one who is lacking atonement,</b> i.e., someone who still needs to bring an offering to complete his purification procedure, such as a <i>zav</i> or a woman after childbirth, both <b>require immersion</b> in order <b>to</b> eat <b>sacrificial</b> food. The <i>onen</i> would immerse after the day has passed and the one lacking atonement would immerse after the requisite offering is brought. <b>However,</b> immersion in these cases is <b>not</b> necessary <b>for</b> eating <b><i>teruma</i>.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Chagigah 20b:7",
+                "Chagigah 20b:8",
+                "Chagigah 20b:9",
+                "Chagigah 20b:10",
+                "Chagigah 20b:11",
+                "Chagigah 21a:1"
+              ],
+              "he": [
+                [
+                  "<big><strong>חוֹמֶר בַּקֹּדֶשׁ</strong></big> מִבִּתְרוּמָה, שֶׁמַּטְבִּילִין כֵּלִים בְּתוֹךְ כֵּלִים לִתְרוּמָה, אֲבָל לֹא לַקֹּדֶשׁ. אֲחוֹרַיִים וָתוֹךְ וּבֵית הַצְּבִיטָה בִּתְרוּמָה, אֲבָל לֹא בַּקֹּדֶשׁ.",
+                  "הַנּוֹשֵׂא אֶת הַמִּדְרָס, נוֹשֵׂא אֶת הַתְּרוּמָה, אֲבָל לֹא אֶת הַקֹּדֶשׁ. בִּגְדֵי אוֹכְלֵי תְרוּמָה, מִדְרָס לַקֹּדֶשׁ.",
+                  "לֹא כְּמִדַּת הַקֹּדֶשׁ מִדַּת הַתְּרוּמָה. שֶׁבַּקֹּדֶשׁ: מַתִּיר וּמְנַגֵּב וּמַטְבִּיל, וְאַחַר כָּךְ קוֹשֵׁר. וּבִתְרוּמָה: קוֹשֵׁר, וְאַחַר כָּךְ מַטְבִּיל.",
+                  "כֵּלִים הַנִּגְמָרִים בְּטָהֳרָה, צְרִיכִין טְבִילָה לַקֹּדֶשׁ, אֲבָל לֹא לִתְרוּמָה. הַכְּלִי מְצָרֵף מַה שֶּׁבְּתוֹכוֹ לַקֹּדֶשׁ, אֲבָל לֹא לִתְרוּמָה.",
+                  "הָרְבִיעִי בַּקֹּדֶשׁ פָּסוּל, וְהַשְּׁלִישִׁי בִתְרוּמָה. וּבִתְרוּמָה, אִם נִטְמֵאת אַחַת מִיָּדָיו — חֲבֶירְתָּהּ טְהוֹרָה, וּבַקֹּדֶשׁ — מַטְבִּיל שְׁתֵּיהֶן, שֶׁהַיָּד מְטַמֵּא אֶת חֲבֶירְתָּהּ בַּקֹּדֶשׁ אֲבָל לֹא בִתְרוּמָה. אוֹכְלִין אוֹכָלִים נְגוּבִין בְּיָדַיִם מְסוֹאָבוֹת בִתְרוּמָה, אֲבָל לֹא בַּקֹּדֶשׁ."
+                ],
+                [
+                  "הָאוֹנֵן וּמְחוּסַּר כִּפּוּרִים צְרִיכִין טְבִילָה לַקֹּדֶשׁ, אֲבָל לֹא לִתְרוּמָה."
+                ]
+              ],
+              "link": "/Chagigah/20b",
+              "ref": "Chagigah 20b:7-21a:1",
+              "sourceHeRef": "unused",
+              "sourceRef": "Chagigah 20b:7-21a:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו במשנה: <b>אוכלין אוכלים</b> (מאכלים) <b>נגובין</b> (יבשים) שלא הוכשרו לקבל טומאה <b>בידים מסואבות</b> (טמאות שני לטומאה) בתרומה, שהרי לא הוכשרו לקבל טומאה, אבל לא בקודש. <b>תניא</b> <span class=\"hebrew-emphasis\">[שנויה</span> ברייתא<span class=\"hebrew-emphasis\">],</span> <b>אמר ר' חנינא בן אנטיגנוס: וכי יש נגובה</b> לענין <b>קדש?</b> שהרי ההבדל בין יד נגובה ויד רטובה מתבסס על כך, שהרטיבות מכשירה את הדבר לקבל טומאה, אבל בקודש אין צורך בהכשר הזה, <b>והלא חיבת הקדש</b> עצמה <b>מכשרתן</b> לקבל טומאה, אף דברים שלא נרטבו כלל.",
+              "ref": "Steinsaltz on Chagigah 24b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:ח",
+              "sourceRef": "Steinsaltz on Chagigah 24b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The question is asked: Perhaps the mishna means to tell us just this, that sacrificial food, unlike <i>teruma</i>, requires no wetting to make it susceptible to impurity. What, then, is the problem that Rabbi Ĥanina ben Antigonus is raising here? Some commentaries explain that he means to say that the <i>halakhot </i>of purity that stem from the reverence accorded to sacrificial food do not belong to the list of stringencies stated in the mishna, as that list consists of rabbinic stringencies, whereas Rabbi Ĥanina maintains that the reverence accorded to sacrificial food renders it fit to contract impurity by Torah law (<i>Rishon LeTziyyon</i>). <i>Yad David</i> explains that Rabbi Ĥanina means that if the basic reason for the <i>halakha </i>of the mishna were due to the reverence accorded sacrificial food, this should have been stated more clearly by the mishna. Rather, Rabbi Ĥanina deduced, the mishna must be referring to a stringency that is over and beyond the concept of reverence sacrificial food is accorded.",
+              "he": "מפרשים שונים דנים בפירוש דברי ר' חנינא בן אנטיגנוס. יש אומרים שכוונתו היתה שדיני הרחקה וטומאה הבאים מתוך הנימוק של חיבת הקודש אינם שייכים למעלות אלה המנויות כאן, כי המעלות הללו הן מדרבנן בעוד שלשיטת ר' חנינא חיבת הקודש מכשירה לקבל טומאה מן התורה (ראשון לציון). ויש מי שכותב כי ר' חנינא רצה לומר שלגבי הדין האמור במשנה, כיון שעיקרו הוא מטעם הכשר בגלל חיבת הקודש, היה צריך לומר במפורש טעם זה. אלא ענין חיבת הקודש הוא מעלה לעצמה, וכאן מדובר במעלה מיוחדת יתירה מזו (יד דוד).",
+              "ref": "Steinsaltz comment #1 on Chagigah 24b:8",
+              "sourceHeRef": "וַהֲלֹא חִיבַּת הַקֹּדֶשׁ מַכְשַׁרְתָּן",
+              "sourceRef": "Is it not so that the reverence accorded to sacrificial food renders it fit to contract impurity"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "One who immerses one of them (i.e., his hands), and prepares tahorot: All the tahorot that he [attempted to] prepare in a state of purity before he immersed both of them are [deemed] impure, since one hand renders the other impure to thereby render the consecrated food impure, the words of Rebbi. Rabbi Yosei son of Rabbi Yehuda says, [the rule should rather be formulated as,] \"to render the consecrated food <i>disqualified</i>.\" They may eat dry food with unclean hands with respect to Terumah, but not with respect to consecrated food (Chag. 3:3). Said Rabbi Chanina ben Antigonos, is there really such a thing as \"dry consecrated food\"? Rather, he sticks a reed or a wood chip inside a <i>chararah</i>\" and he may eat an olive or an onion with it (i.e., instead of using his hands), as to Terumah, but not as to consecrated food.",
+              "he": "הטובל [את] אחת מהן ועשה טהרות כל הטהרות [שנעשו בטהרה עד שלא יטביל] שניהם טמאות שהיד מטמא את חברתה לטמא בקדש דברי רבי רבי יוסי בר' יהודה אומר לפסול בקודש אוכלים אוכלין נגובין בידים סואבות בתרומה אבל לא בקדש אמר רבי חנינא בן אנטיגנוס וכי יש נגובין בקדש אלא תוחב את החררה בכוש או בקיסם ואוכל עמה זית או בצל בתרומה אבל לא בקדש.",
+              "ref": "Tosefta Chagigah 3:5",
+              "sourceHeRef": "תוספתא חגיגה ג:ה",
+              "sourceRef": "Tosefta Chagigah 3:5"
+            }
+          ]
+        }
+      },
+      "en": "It was taught in the mishna: <b>One may eat dry foods,</b> i.e., foods that have never been wetted and are thus not susceptible to impurity, <b>with impure hands</b> in the case of <i>teruma</i>, but not in the case of sacrificial food. <b>It is taught</b> in a <i>baraita</i> that there is a difficulty with this statement of the mishna: <b>Rabbi Ḥanina ben Antigonus said: Now, is there</b> such a possibility as <b>dry</b> food, i.e., food that is not susceptible to impurity, with regard <b>to sacrificial</b> food? <b>Is it not so that the reverence</b> accorded <b>to sacrificial</b> food itself <b>renders it fit</b> to contract impurity even if it has never been in contact with liquid at all? All sacrificial food is thus automatically susceptible to impurity, and whether it is dry, i.e., it has never been wetted, or not is irrelevant.",
+      "he": "אוֹכְלִין אוֹכָלִים נְגוּבִין בְּיָדַיִם מְסוֹאָבוֹת כּוּ׳. תַּנְיָא, אָמַר רַבִּי חֲנִינָא בֶּן אַנְטִיגְנוֹס: וְכִי יֵשׁ נְגוּבָה לַקֹּדֶשׁ? וַהֲלֹא חִיבַּת הַקֹּדֶשׁ מַכְשַׁרְתָּן.",
+      "ref": "Chagigah 24b:8",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Dry foods that have not become susceptible to contract impurity may be eaten with impure hands. With regard to what does the above apply? To <i>terumah</i>. With regard to consecrated food, by contrast, the cherished quality of consecrated food causes it to be considered as susceptible to impurity and it is forbidden for someone whose hands are impure to eat consecrated food even if it was not made susceptible to impurity by contact with liquids.<br>Even if the person with impure hands did not actually touch the consecrated food with his hands, only with a weaving needle or his friend inserted it into his mouth, this is forbidden. Needless to say, if a source of impurity touched consecrated food that was not made susceptible to impurity by contact with liquids, it becomes impure, because the cherished quality of consecrated food causes it to be considered as susceptible to impurity.",
+              "he": "אֳכָלִין נְגוּבִין שֶׁלֹּא הֻכְשְׁרוּ אוֹכְלִין אוֹתָם בְּיָדַיִם מְסֹאָבוֹת. בַּמֶּה דְּבָרִים אֲמוּרִים בִּתְרוּמָה. אֲבָל בְּקֹדֶשׁ חִבַּת הַקֹּדֶשׁ מַכְשַׁרְתָּן וְאָסוּר לְמִי שֶׁיָּדָיו טְמֵאוֹת לֶאֱכל קֹדֶשׁ שֶׁלֹּא הֻכְשַׁר. וַאֲפִלּוּ לֹא נָגַע בּוֹ אֶלָּא בְּכוּשׁ אוֹ שֶׁתָּחַב לוֹ חֲבֵרוֹ לְתוֹךְ פִּיו הֲרֵי זֶה אָסוּר. וְאֵין צָרִיךְ לוֹמַר שֶׁאִם נָגְעָה טֻמְאָה בָּאֳכָלִין שֶׁל קֹדֶשׁ שֶׁלֹּא הֻכְשְׁרוּ שֶׁנִּטְמְאוּ מִפְּנֵי שֶׁחִבַּת הַקֹּדֶשׁ מַכְשַׁרְתָּן:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 12:13",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יב:יג",
+              "sourceRef": "Other Sources of Defilement 12:13"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">תחב לו חברו</strong> - בידים טהורות וזה האוכל ידיו מסואבות:",
+              "ref": "Rashi on Chagigah 24b:9:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:ט:א",
+              "sourceRef": "Rashi on Chagigah 24b:9:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או שתחבן הוא עצמו בכוש או בכרכר</strong> - שהן פשוטי כלי עץ ואין מקבלין טומאה:",
+              "ref": "Rashi on Chagigah 24b:9:2",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:ט:ב",
+              "sourceRef": "Rashi on Chagigah 24b:9:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וביקש לאכול צנון או בצל של חולין עמהן</strong> - שאין ידים מטמאות את החולין ואפ\"ה גזור רבנן שלא יאכלם עם הקדש פן תגע ידו מסואבת באוכלי קדש שבפיו:",
+              "ref": "Rashi on Chagigah 24b:9:3",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:ט:ג",
+              "sourceRef": "Rashi on Chagigah 24b:9:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>לא צריכא</b> <span class=\"hebrew-emphasis\">[נצרכה]</span> ההלכה במשנה אלא <b>כגון</b> שהיו ידיו טמאות אבל <b>שתחב לו חבירו לתוך פיו, או שתחב הוא לעצמו בכוש</b> (פלך) <b>ובכרכר</b> (מחזיק החוט בנול) שהם פשוטי כלי עץ (שאין להם בית קיבול) שאינם מקבלים טומאה ואין האוכל נוגע כלל בידיו במאכל הקודש, <b>וביקש</b> (ורוצה) <b>לאכול צנון ובצל של חולין עמהם</b> שאינן נטמאים מחמת ידיו.",
+              "ref": "Steinsaltz on Chagigah 24b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:ט",
+              "sourceRef": "Steinsaltz on Chagigah 24b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A whorl is a circular weight used to balance a spindle while spinning wool. Below is an image of an ancient spindle with two whorls.",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Chagigah 24b:9",
+              "sourceHeRef": "כּוֹשׁ וְכַרְכַּר",
+              "sourceRef": "Spindle or whorl"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> לא צריכא כו' ואוכל עמה זית או בצל בתרומה ולהכי כו' עכ\"ל כצ\"ל וכ\"ה בתוספתא ופי' דאוכל עמה זית או בצל של חולין בתרומה עושה כן משא\"כ בקודש דאסור לעשות כן ולפי הנוסחא בתוס' לפנינו או בצל של תרומה דמשמע דאוכל הבצל של תרומה עם הקודש א\"א להולמו דהיאך יאכל התרומה גופה בידים מסואבות ואם אכלה ג\"כ בכוש ודאי דהכל שרי:",
+                      "ref": "Chidushei Halachot on Chagigah 24b:4",
+                      "sourceHeRef": "חידושי הלכות על חגיגה כ״ד ב:ד",
+                      "sourceRef": "Chidushei Halachot on Chagigah 24b:4"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא צריכא שתחב לו חבירו בפיו או שתחב כו'</strong> - משמע דהוי לישנא דהש\"ס מיהו בתוספתא גרסינן ליה ר' חנינא בן אנטיגנוס אומר וכי יש נגובה בקודש אלא תחב ליה חבריה או שתחב הוא בכוש או בקיסם ואוכל עמה זית או בצל של תרומה ולהכי נקט כוש דהוו ליה פשוטי כלי עץ דלא מקבלי טומאה ואפי' מדרבנן לא מקבלי טומאה פשוטים קטנים ודומה לו ההיא דריש חולין <span class=\"parenthesized\">(דף ג. ושם)</span> כגון שבדק קרומית של קנה ושחט בה משום דהוה פשוטי כלי עץ דלא מקבל טומאה וכי אמרינן בהמוכר את [הבית] <span class=\"parenthesized\">(ב\"ב דף סו.)</span> דף של נחתומין טמא אע\"ג דלית ליה בית קבול כלל התם טמא משום משמש אדם ומשתמש ממשמשי אדם וכן ההיא דטבלא המתהפכת טמאה דבפרק שתי הלחם <span class=\"parenthesized\">(מנחות דף צו:)</span> אף למ\"ד מסגרתו למטה היתה אע\"ג דלא מחברא לטבלא כדדשמע בריש סוכה <span class=\"parenthesized\">(דף ה.)</span> אלא מטעם משמשי אדם הוי והכי איתא בהדיא בת\"כ ובריש סוכה פירשתי:",
+              "ref": "Tosafot on Chagigah 24b:9:1",
+              "sourceHeRef": "תוספות על חגיגה כ״ד ב:ט:א",
+              "sourceRef": "Tosafot on Chagigah 24b:9:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b>No,</b> it is <b>necessary</b> for the mishna to state this. And the case is not one of dry sacrificial food, as was first assumed. Rather, the mishna is dealing with a case in <b>which, for example, his friend inserted</b> sacrificial food or <i>teruma</i> <b>into his mouth, or,</b> alternatively, a case in <b>which he inserted</b> it <b>into his own</b> mouth <b>by</b> means of <b>a spindle or whorl,</b> which are wooden vessels without receptacles that cannot contract impurity. In either event the food arrives in his mouth without being rendered impure by his impure hands. <b>And</b> then, while the sacrificial food or <i>teruma</i> is still in his mouth, he <b>wishes to</b> put into his mouth and <b>eat a non-sacred radish or onion along with them.</b>",
+      "he": "לָא צְרִיכָא, כְּגוֹן שֶׁתָּחַב לוֹ חֲבֵירוֹ לְתוֹךְ פִּיו, אוֹ שֶׁתָּחַב הוּא לְעַצְמוֹ בְּכוּשׁ וּבְכַרְכֵּר, וּבִיקֵּשׁ לֶאֱכוֹל צְנוֹן וּבָצָל שֶׁל חוּלִּין עִמָּהֶן.",
+      "ref": "Chagigah 24b:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לענין תרומה</strong> - אע\"פ שהיד מסואבת פוסלתה לא עשו מעלה אלא אמרינן זהיר ולא נגע וה\"ק מתניתין אוכלין חולין בידים מסואבות עם התרומה אבל לא עם הקדש ולהכי נקט נגובין שאילו עכשיו היו משקין עליהם היו משקין נעשין ראשונים מחמת הידים ועושין את החולין שניים וכשנוגעין בתרומה שבפיו פוסלין אותם ואית דמסיק מלתא בנגובין שמעולם לא הוכשרו וקשיא לי בחולין מה לי הוכשרו מה לי לא הוכשרו הלא אין ידים מועילות כלום לחולין:",
+              "ref": "Rashi on Chagigah 24b:10:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:י:א",
+              "sourceRef": "Rashi on Chagigah 24b:10:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "במקרה כזה <b>לקדש גזרו בהו רבנן</b> <span class=\"hebrew-emphasis\">[בהם חכמים]</span> שמא ישכח ויגע בידו הטמאה במאכל הקודש שבפיו, אבל <b>לתרומה לא גזרו בהו רבנן</b> <span class=\"hebrew-emphasis\">[בהם חכמים].</span>",
+              "ref": "Steinsaltz on Chagigah 24b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:י",
+              "sourceRef": "Steinsaltz on Chagigah 24b:10"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לקדש גזור רבנן</strong> - שמא יגע בידיו שניות לקדש שבתוך פיו וכן פירש רש\"י ועוד היינו יכולים לפרש דלמא נגע ברוק פיו דחשיב משקה בפרק בתרא דעירובין <span class=\"parenthesized\">(דף צט ושם)</span> גבי אכל דבילה בידים מסואבות:",
+              "ref": "Tosafot on Chagigah 24b:10:1",
+              "sourceHeRef": "תוספות על חגיגה כ״ד ב:י:א",
+              "sourceRef": "Tosafot on Chagigah 24b:10:1"
+            }
+          ]
+        }
+      },
+      "en": "Non-sacred food is not rendered impure by being touched with impure hands, so it should not be problematic to put a radish or onion into one’s mouth with his hands. However, <b>regarding sacrificial food the Sages enacted a decree against</b> doing so, lest the person inadvertently touch the sacrificial food in his mouth with his impure hand. This decree, the mishna teaches, applies only to sacrificial food, <b>but in</b> a case in which he had <b><i>teruma</i></b> in his mouth <b>the Sages did not enact a decree against it.</b>",
+      "he": "לְקֹדֶשׁ גְּזַרוּ בְּהוּ רַבָּנַן, לִתְרוּמָה לָא גְּזַרוּ בְּהוּ רַבָּנַן.",
+      "ref": "Chagigah 24b:10"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Even after a mourner's period of acute mourning ends or after a person who was lacking atonement brings the sacrifices that bring him atonement, he must immerse in a <i>mikveh</i> before partaking of consecrated food, but not before partaking of <i>terumah</i>. For a person in a state of acute mourning and one who is lacking atonement may partake of <i>terumah</i>.<br>Why did the Sages require immersion before partaking of consecrated food? Because until this time, such individuals were forbidden to partake of consecrated food. Hence it is possible that they diverted their attention from their bodies and contracted impurity without knowing of it. This stringency was imposed only with regard to eating, but not with regard to touching. Such individuals may touch consecrated foods before immersion.",
+              "he": "הָאוֹנֵן אַחַר שֶׁתָּם זְמַן אֲנִינוּתוֹ וּמְחֻסַּר כִּפּוּרִים אַחַר שֶׁהֵבִיא כַּפָּרָתוֹ צְרִיכִין טְבִילָה לַאֲכִילַת הַקֹּדֶשׁ אֲבָל לֹא לִתְרוּמָה שֶׁהָאוֹנֵן וּמְחֻסַּר כִּפּוּרִים מֻתָּרִין לֶאֱכל אֶת הַתְּרוּמָה. וּמִפְּנֵי מָה הִצְרִיכוּם טְבִילָה לַקֹּדֶשׁ שֶׁהֲרֵי עַד עַתָּה הָיוּ אֲסוּרִין לֶאֱכל אֶת הַקֹּדֶשׁ וְהִסִּיחוּ דַּעְתָּן וְשֶׁמָּא נִטְמְאוּ וְהֵם לֹא יָדְעוּ. וְלֹא עָשׂוּ מַעֲלָה זוֹ אֶלָּא לַאֲכִילָה אֲבָל לִנְגִיעָה נוֹגְעִים בְּקָדָשִׁים קֹדֶם טְבִילָה:",
+              "ref": "Mishneh Torah, Other Sources of Defilement 12:15",
+              "sourceHeRef": "הלכות שאר אבות הטומאות יב:טו",
+              "sourceRef": "Other Sources of Defilement 12:15"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיון דעד האידנא אסירי</strong> - דמחוסר כפורים מותר בתרומה ואסור בקדש וכן אונן ואע\"פ שאסורים במעשר שני מותרין בתרומה כדאמרינן במסכת יבמות מוכל זר יתירה זרות אסרתי לך ולא אנינות:",
+              "ref": "Rashi on Chagigah 24b:11:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:יא:א",
+              "sourceRef": "Rashi on Chagigah 24b:11:1"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<strong>MISHNA:</strong> Concerning several matters there is greater <b>stringency with regard to sacrificial</b> food <b>than with regard to <i>teruma</i>,</b> a portion of the produce designated for the priest. This expresses itself in many ways, the first being <b>that one may immerse vessels inside</b> other <b>vessels</b> to purify them <b>for <i>teruma</i>; but not for sacrificial</b> food, for which one must immerse each vessel separately. Another difference is that the <i>halakhot</i> of <b>the back</b> of a vessel <b>and</b> its <b>inside and</b> its <b>place for gripping</b> apply <b>to</b> vessels used for <b><i>teruma</i>,</b> meaning that each part of the vessel has its own use and is considered a separate vessel in that it does not convey impurity to the other parts of the vessel when it contracts impurity; <b>but not to sacrificial</b> food, for which an impure section of the vessel does convey impurity to all the other sections.",
+                  "Likewise, <b>one who carries an object trodden</b> on by a <i>zav</i>, a man suffering from gonorrhea, <b>may carry <i>teruma</i></b> at the same time, if he is careful that neither he nor the impure object should come into contact with the <i>teruma</i>, <b>but</b> this may <b>not</b> be done with <b>sacrificial</b> food. <b>The garments of those who eat <i>teruma</i></b> are like an object trodden on by a <i>zav</i> <b>with regard to sacrificial</b> food.",
+                  "The mishna lists other stringencies that apply to sacrificial foods but not to <i>teruma</i>: <b>The characteristics of <i>teruma</i> are not like the characteristics of sacrificial</b> food, <b>as in</b> the case of vessels that are used with <b>sacrificial</b> food, if one has a garment or vessel that is tied up <b>he must untie</b> it <b>and dry</b> it if there was any moisture on it, as both a knot and absorbed moisture are considered interpositions that prevent the water of the ritual bath from reaching the entire garment. <b>And he may</b> then <b>immerse</b> them, <b>and afterward he may tie</b> them up again if he wishes. <b>But with regard to <i>teruma</i> he may,</b> if he so desires, <b>tie</b> up the garment <b>and then immerse</b> it without any concern that the knot might be considered an interposition.",
+                  "<b>Vessels</b> that were fashioned and <b>completed in purity</b> nevertheless <b>require immersion</b> to be considered pure <b>for sacrificial</b> food<b>s, but not for <i>teruma</i>. A vessel combines</b> all the food <b>that is in it</b> with regard <b>to sacrificial</b> food, meaning that if one piece of food becomes impure all the other pieces become impure as well; <b>but not</b> with regard <b>to <i>teruma</i>,</b> concerning which each piece is treated independently.",
+                  "The mishna continues the list of differences between sacrificial food and <i>teruma</i>. <b>Sacrificial</b> food <b>that is impure with fourth-degree</b> impurity <b>is disqualified,</b> meaning that the sacrificial food is rendered impure but it does not impart impurity to other items. <b><i>Teruma</i> is disqualified when it is impure with third-degree</b> impurity; it is not susceptible to fourth-degree impurity at all. <b>And with regard to <i>teruma</i>, if one of one’s hands became impure</b> by rabbinic law that renders only the hands impure, <b>its counterpart,</b> i.e., the other hand, remains <b>pure. But with regard to sacrificial</b> food, if one hand becomes impure <b>he must immerse them both, as one hand renders its counterpart impure with regard to sacrificial</b> food <b>but not with regard to <i>teruma</i>. One may eat dry foods,</b> i.e., foods that have never come into contact with liquid and are therefore not susceptible to impurity, <b>with impure hands when</b> it is <b><i>teruma</i>, but not</b> when it is <b>sacrificial</b> food."
+                ],
+                [
+                  "<b>An acute mourner [<i>onen</i>],</b> i.e., someone who has experienced the loss of a close relative on that day, who had not come into contact with the deceased; <b>and one who is lacking atonement,</b> i.e., someone who still needs to bring an offering to complete his purification procedure, such as a <i>zav</i> or a woman after childbirth, both <b>require immersion</b> in order <b>to</b> eat <b>sacrificial</b> food. The <i>onen</i> would immerse after the day has passed and the one lacking atonement would immerse after the requisite offering is brought. <b>However,</b> immersion in these cases is <b>not</b> necessary <b>for</b> eating <b><i>teruma</i>.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Chagigah 20b:7",
+                "Chagigah 20b:8",
+                "Chagigah 20b:9",
+                "Chagigah 20b:10",
+                "Chagigah 20b:11",
+                "Chagigah 21a:1"
+              ],
+              "he": [
+                [
+                  "<big><strong>חוֹמֶר בַּקֹּדֶשׁ</strong></big> מִבִּתְרוּמָה, שֶׁמַּטְבִּילִין כֵּלִים בְּתוֹךְ כֵּלִים לִתְרוּמָה, אֲבָל לֹא לַקֹּדֶשׁ. אֲחוֹרַיִים וָתוֹךְ וּבֵית הַצְּבִיטָה בִּתְרוּמָה, אֲבָל לֹא בַּקֹּדֶשׁ.",
+                  "הַנּוֹשֵׂא אֶת הַמִּדְרָס, נוֹשֵׂא אֶת הַתְּרוּמָה, אֲבָל לֹא אֶת הַקֹּדֶשׁ. בִּגְדֵי אוֹכְלֵי תְרוּמָה, מִדְרָס לַקֹּדֶשׁ.",
+                  "לֹא כְּמִדַּת הַקֹּדֶשׁ מִדַּת הַתְּרוּמָה. שֶׁבַּקֹּדֶשׁ: מַתִּיר וּמְנַגֵּב וּמַטְבִּיל, וְאַחַר כָּךְ קוֹשֵׁר. וּבִתְרוּמָה: קוֹשֵׁר, וְאַחַר כָּךְ מַטְבִּיל.",
+                  "כֵּלִים הַנִּגְמָרִים בְּטָהֳרָה, צְרִיכִין טְבִילָה לַקֹּדֶשׁ, אֲבָל לֹא לִתְרוּמָה. הַכְּלִי מְצָרֵף מַה שֶּׁבְּתוֹכוֹ לַקֹּדֶשׁ, אֲבָל לֹא לִתְרוּמָה.",
+                  "הָרְבִיעִי בַּקֹּדֶשׁ פָּסוּל, וְהַשְּׁלִישִׁי בִתְרוּמָה. וּבִתְרוּמָה, אִם נִטְמֵאת אַחַת מִיָּדָיו — חֲבֶירְתָּהּ טְהוֹרָה, וּבַקֹּדֶשׁ — מַטְבִּיל שְׁתֵּיהֶן, שֶׁהַיָּד מְטַמֵּא אֶת חֲבֶירְתָּהּ בַּקֹּדֶשׁ אֲבָל לֹא בִתְרוּמָה. אוֹכְלִין אוֹכָלִים נְגוּבִין בְּיָדַיִם מְסוֹאָבוֹת בִתְרוּמָה, אֲבָל לֹא בַּקֹּדֶשׁ."
+                ],
+                [
+                  "הָאוֹנֵן וּמְחוּסַּר כִּפּוּרִים צְרִיכִין טְבִילָה לַקֹּדֶשׁ, אֲבָל לֹא לִתְרוּמָה."
+                ]
+              ],
+              "link": "/Chagigah/20b",
+              "ref": "Chagigah 20b:7-21a:1",
+              "sourceHeRef": "unused",
+              "sourceRef": "Chagigah 20b:7-21a:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> שנינו במשנה ש<b>האונן</b> (לאחר גמר אנינותו) <b>ומחוסר כפורים</b> לאחר שהביא קרבן כפרתו צריכים טבילה לצורך אכילת קודש אבל לא לאכילת תרומה. ומסבירים: <b>מאי טעמא</b> <span class=\"hebrew-emphasis\">[מה טעם</span> הדבר<span class=\"hebrew-emphasis\">] —</span> <b>כיון</b> ש<b>עד האידנא הוו אסירי</b> <span class=\"hebrew-emphasis\">[עכשיו היו אסורים]</span> באכילת קדשים ושמא לא נזהרו כראוי מן הטומאה, לכך <b>אצרכינהו רבנן</b> <span class=\"hebrew-emphasis\">[הצריכו אותם חכמים]</span> <b>טבילה</b> כהכנה לאכילת קדשים.",
+              "ref": "Steinsaltz on Chagigah 24b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:יא",
+              "sourceRef": "Steinsaltz on Chagigah 24b:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "An acute mourner after his period of acute mourning has ended and one who had been lacking atonement after he has brought his offering are both permitted to eat <i>teruma </i>immediately, but before they partake of sacrificial foods they must immerse (Rambam<i> Sefer Tahara</i>,<i> Hilkhot She’ar Avot HaTumot </i>12:15).",
+              "he": "והמדובר באונן לאחר אנינותו, ומחוסר כיפורים לאחר שהקריב קרבנו. כי בעוד האונן באנינותו ומחוסר כיפורים נתכפר מפורש בתורה שהם אסורים באכילת קדשים. וטעם חיובם בטבילה הוא: שמאחר שנאסרו מלאכול לא שמרו את עצמם כראוי. ובירושלמי דנו בשאלה שאם משום היסח הדעת הרי היו צריכים להיות טמאים לכל דבר (וראה ברש\"י שמדגיש שהיו מותרים לאכול בתרומה, ומשום כך לא הסיחו דעתם מטהרת תרומה). והתלמוד הירושלמי מתרץ לשיטתו שלא גזרו באוכלי תרומה שכיון שזריזים הם ודאי לא הסיחו דעתם.",
+              "ref": "Steinsaltz comment #1 on Chagigah 24b:11",
+              "sourceHeRef": "אוֹנֵן וּמְחוּסַּר כִּפּוּרִים צְרִיכִים טְבִילָה",
+              "sourceRef": "An acute mourner and one who is lacking atonement require immersion"
+            }
+          ]
+        }
+      },
+      "en": "It was taught in the mishna: <b>An acute mourner and one who is lacking atonement</b> require immersion in order to eat sacrificial food, but this is not necessary for <i>teruma</i>. The Gemara explains: <b>What is the reason</b> for this decree? <b>Since until now it was prohibited</b> for <b>them</b> to partake of sacrificial food and they therefore might not have guarded themselves properly from impurity, <b>the Sages required them</b> to undergo <b>immersion</b> before eating sacrificial food.",
+      "he": "הָאוֹנֵן וּמְחוּסַּר כִּפּוּרִים כּוּ׳. מַאי טַעְמָא — כֵּיוָן דְּעַד הָאִידָּנָא הֲווֹ אֲסִירִי, אַצְרְכִינְהוּ רַבָּנַן טְבִילָה.",
+      "ref": "Chagigah 24b:11",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "The previous mishna listed stringencies that apply to sacrificial food but not to <i>teruma</i>. However, there are also <b>stringencies</b> that apply <b>to <i>teruma</i></b> over sacrificial food: <b>In Judea</b> all people, even people who are not generally meticulous in their observance of the <i>halakhot</i> of ritual purity [<i>amei ha’aretz</i>], <b>are trusted with regard to the purity of</b> consecrated <b>wine and oil</b> throughout <b>all the days of the year. And during the period of the winepress and olive press,</b> when grapes and olives are pressed and made into wine and oil, respectively, they are trusted <b>even with regard to</b> the purity of <b><i>teruma</i>,</b> as all people, including <i>amei ha’aretz</i>, purify their vessels for this season. But once <b>the</b> periods of the <b>winepress and olive press have passed,</b> if <i>amei ha’aretz</i> <b>brought to him,</b> i.e., to a priest who is meticulous concerning the <i>halakhot</i> of ritual purity [<i>ḥaver</i>], a <b>barrel of <i>teruma</i> wine, he may not accept it from them,</b> as <i>amei ha’aretz</i> are not trusted with regard to matters of ritual purity during the rest of the year. <b>But</b> the giver <b>may leave it</b> over <b>for the following winepress</b> season, in the following year, at which point the <i>ḥaver</i> priest may accept it from him, although it was prohibited for him to accept the same barrel beforehand. <b>And if</b> the giver <b>said to</b> the priest: <b>I separated</b> and placed <b>into</b> this barrel of <i>teruma</i> <b>a quarter</b>-<i>log</i> <b>of sacrificial</b> wine or oil, <b>he is trusted</b> with regard to the entire contents of the barrel. Since an <i>am ha’aretz</i> is trusted with regard to the purity of sacrificial food, he is also believed with regard to <i>teruma</i> that is mingled with the sacrificial food. With regard to <b>jugs of wine and jugs of oil</b> <b>that are mingled,</b> <i>amei ha’aretz</i> <b>are trusted with regard to them during the period of the winepress and the olive press, and</b> also up to <b>seventy days before the winepress,</b> for that is when people begin to purify their vessels in preparation for the wine-pressing season.",
+              "he": "חֹמֶר בַּתְּרוּמָה, שֶׁבִּיהוּדָה נֶאֱמָנִים עַל טָהֳרַת יַיִן וְשֶׁמֶן כָּל יְמוֹת הַשָּׁנָה, וּבִשְׁעַת הַגִּתּוֹת וְהַבַּדִּים אַף עַל הַתְּרוּמָה. עָבְרוּ הַגִּתּוֹת וְהַבַּדִּים וְהֵבִיאוּ לוֹ חָבִית שֶׁל יַיִן שֶׁל תְּרוּמָה, לֹא יְקַבְּלֶנָּה מִמֶּנּוּ, אֲבָל מַנִּיחָהּ לַגַּת הַבָּאָה. וְאִם אָמַר לוֹ, הִפְרַשְׁתִּי לְתוֹכָהּ רְבִיעִית קֹדֶשׁ, נֶאֱמָן. כַּדֵּי יַיִן וְכַדֵּי שֶׁמֶן הַמְדֻמָּעוֹת, נֶאֱמָנִין עֲלֵיהֶם בִּשְׁעַת הַגִּתּוֹת וְהַבַּדִּים, וְקֹדֶם לַגִּתּוֹת שִׁבְעִים יוֹם:",
+              "link": "/Mishnah Chagigah/3",
+              "ref": "Mishnah Chagigah 3:4",
+              "sourceHeRef": "משנה חגיגה ג:ד",
+              "sourceRef": "Mishnah Chagigah 3:4"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "We have already explained that the word of unlearned persons is accepted with regard to the purification process of the red heifer. Because of the severity involved, the matter is never treated lightly. Similarly, their word is accepted with regard to the wine and oil intended for the accompanying offerings of a sacrifice. If they say that they are pure, they are assumed to be pure. Because this is a very severe matter, they are mindful of it.<br>Similarly, their word is accepted with regard to the purity of <i>terumah</i> during the time when winepresses and olive vats are active, for all people purify themselves and their utensils to prepare their wine in a state of purity. When the time when winepresses and olive vats are active passes, their word is no longer accepted.",
+              "he": "כְּבָר בֵּאַרְנוּ שֶׁעַמֵּי הָאָרֶץ נֶאֱמָנִים הֵן עַל טָהֳרַת פָּרַת הַחַטָּאת מִפְּנֵי חֻמְרָתָהּ אֵין מְזַלְזְלִין בָּהּ. וְכֵן נֶאֱמָנִים הֵן עַל טָהֳרַת יַיִן וְשֶׁמֶן שֶׁל נְסָכִים אִם אָמַר טָהוֹר הוּא הֲרֵי זֶה בְּחֶזְקַת טָהֳרָה מִפְּנֵי חֻמְרָתוֹ נִזְהָרִין בּוֹ. וְכֵן נֶאֱמָנִים הֵן עַל הַתְּרוּמָה בִּשְׁעַת הַגִּתּוֹת וְהַבַּדִּים מִפְּנֵי שֶׁכָּל הָעָם מְטַהֲרִין עַצְמָן וּכְלֵיהֶן כְּדֵי לַעֲשׂוֹת יֵינָם וְשַׁמְנָם בְּטָהֳרָה. עָבְרוּ הַגִּתּוֹת וְהַבַּדִּים אֵינָן נֶאֱמָנִים:",
+              "ref": "Mishneh Torah, Those Who Defile Bed or Seat 11:1",
+              "sourceHeRef": "הלכות מטמאי משכב ומושב יא:א",
+              "sourceRef": "Those Who Defile Bed or Seat 11:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שביהודה נאמנין</strong> - עמי הארץ:",
+              "ref": "Rashi on Chagigah 24b:12:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:יב:א",
+              "sourceRef": "Rashi on Chagigah 24b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">על טהרת יין ושמן</strong> - של קודש אם הקדישוהו למזבח בשעת הגיתות והבדים. נאמנין על שמירתן כל ימות השנה ובגמ' מפרש מאי שנא יהודה דנקט:",
+              "ref": "Rashi on Chagigah 24b:12:2",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:יב:ב",
+              "sourceRef": "Rashi on Chagigah 24b:12:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ובשעת הגיתות והבדים</strong> - הכל מטהרין את כליהם:",
+              "ref": "Rashi on Chagigah 24b:12:3",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:יב:ג",
+              "sourceRef": "Rashi on Chagigah 24b:12:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג משנה</big> עד כאן שנינו מעלות וחומרות שיש בקדשים על התרומה. אולם יש גם <b>חומר בתרומה</b> מבקודש, <b>שביהודה נאמנין</b> הכל (אף עמי הארץ) <b>על טהרת יין ושמן</b> של קדשים <b>כל ימות השנה, ובשעת הגיתות והבדים</b> כאשר דורכים את הענבים יינות ואת הזיתים בגת ובבית הבד לעשיית יין ושמן — נאמנים <b>אף על</b> טהרת <b>התרומה,</b> לפי שבזמן זה הכול מטהרים את כליהם.",
+              "ref": "Steinsaltz on Chagigah 24b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:יב",
+              "sourceRef": "Steinsaltz on Chagigah 24b:12"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הרמב\"ם מסביר כי טעם ההיתר הוא מחמת שבקדשים נזהרים הכל, אף עמי הארץ, לשומרם בטהרה גמורה. ולכן בכל מקום שאדם מכין יינות או שמנים עבור נסכים — נאמן הוא על שמירתם בטהרה. ואף בשעת הגיתות והבדים הכל מטהרים עצמם כראוי, אלא שלאחר מכן אינם מקפידים די הצורך. ואילו מהמאירי ואחרים נראה שטעם ההיתר הוא כמו ההיתר הכללי לגבי קדשים בעמי הארץ, שכיון שהכל מביאים לבית המקדש, יש לחשוש לאיבה ולפירוד בעם ישראל, ולכן סמכו עליהם בכך.",
+              "ref": "Steinsaltz comment #1 on Chagigah 24b:12",
+              "sourceHeRef": "נאמנין על טהרת יין ושמן",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> שביהודה נאמנין כו' א\"נ הוה מצינן למימר ביחדו לנסכים נמי וכגון שידוע לנו שחולין הן שיחדן כו' עכ\"ל כצ\"ל ור\"ל שלא קדשן בשעת הגתות אלא שיחד כולן לקדשן לנסכים ושוב כי אקדישה בכל השנה נאמן דא\"ל שאימת קודש כו' ודוקא שייחד כולן לנסכים בכל השנה אבל אם לא ייחדן רק ליטול מתוכו נסכים אינו נאמן אלא ע' יום כדלקמן במטהר טבלו ליקח ממנו נסכים כפירוש הר\"א שם ודו\"ק:",
+                      "ref": "Chidushei Halachot on Chagigah 24b:5",
+                      "sourceHeRef": "חידושי הלכות על חגיגה כ״ד ב:ה",
+                      "sourceRef": "Chidushei Halachot on Chagigah 24b:5"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שביהודה נאמנין על טהרת יין ושמן בכל השנה</strong> - פרש\"י אם הקדישו למזבח בשעת הבציר כל ימות השנה נאמנין בשמירה ואמר הר\"ר אלחנן דכן יתכן לפרש דאי בלא הקדישו בשעת הבציר ה\"ל חולין ונטמא בטומאת ע\"ה וכי קדש עליו משום דאקדשיה פקע ליה טומאה מיניה א\"נ הוה מצינו למימר ביחדו לנסכים נמי וכגון שידוע לנו שחולין הן שיחדן וכי אקדשיה איכא למימר שאימת קדש עליו ומעיקרא היה נזהר לשומרו בטהרה וכן מצינו גבי תרומה בסמוך דע\"ה מניח תרומה של כל ימות השנה לשנה הבאה בשעת הגיתות ליתנה לחבר ותניא בתוספתא אע\"פ שמכירה החבר שהיא היא ואפי' בחבר עצמו משמע בגמרא שישהנה לשנה הבאה:",
+              "ref": "Tosafot on Chagigah 24b:12:1",
+              "sourceHeRef": "תוספות על חגיגה כ״ד ב:יב:א",
+              "sourceRef": "Tosafot on Chagigah 24b:12:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> The previous mishna listed stringencies that apply to sacrificial food but not to <i>teruma</i>. However, there are also <b>stringencies</b> that apply <b>to <i>teruma</i></b> over sacrificial food: <b>In Judea</b> all people, even people who are not generally meticulous in their observance of the <i>halakhot</i> of ritual purity [<i>amei ha’aretz</i>], <b>are trusted with regard to the purity of</b> consecrated <b>wine and oil</b> throughout <b>all the days of the year. And during the period of the winepress and olive press,</b> when grapes and olives are pressed and made into wine and oil, respectively, they are trusted <b>even with regard to</b> the purity of <b><i>teruma</i>,</b> as all people, including <i>amei ha’aretz</i>, purify their vessels for this season.",
+      "he": "<big><strong>מַתְנִי׳</strong></big> חוֹמֶר בַּתְּרוּמָה, שֶׁבִּיהוּדָה נֶאֱמָנִין עַל טׇהֳרַת יַיִן וָשֶׁמֶן כׇּל יְמוֹת הַשָּׁנָה, וּבִשְׁעַת הַגִּיתּוֹת וְהַבַּדִּים — אַף עַל הַתְּרוּמָה.",
+      "ref": "Chagigah 24b:12",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">גַּת III</strong> f. , with suffix <span class=\"refLink\" data-ref=\"Jastrow, גַּת I 1\" dir=\"rtl\" href=\"/Jastrow,_גַּת I.1\">גִּתּ־</span>, <span dir=\"rtl\">גִּיתּ־</span> (Biblical Hebrew; <i>vat for wine pressing;</i> (<span dir=\"rtl\">שעת</span>)הג׳ <i>the season of wine pressing</i>. <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 5:11\" href=\"/Mishnah_Avodah_Zarah.5.11\">Pirkei Avot Zar. V, 11</span> <span dir=\"rtl\">ג׳ של אבן</span> a stone vat, <span dir=\"rtl\">של חרס</span> an earthen. <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 4:8\" href=\"/Mishnah_Avodah_Zarah.4.8\">Ib. IV, 8</span>, see <span class=\"refLink\" data-ref=\"Jastrow, בָּעַט I 1\" dir=\"rtl\" href=\"/Jastrow,_בָּעַט I.1\">בָּעַט</span>. <span class=\"refLink\" data-ref=\"Mishnah Chagigah 3:4\" href=\"/Mishnah_Chagigah.3.4\">Chagigah III, 4</span> (<span class=\"refLink\" data-ref=\"Chagigah 24b:13\" href=\"/Chagigah.24b.13\">24ᵇ</span>) <span dir=\"rtl\">מניחה לג׳ הבאה</span> he may reserve it for the next season (and give it to the priest). Ib. 25ᵇ <span dir=\"rtl\">דבר שאין לו ג׳</span> something which has no special manufacturing season (e.g. date wine); and from—Eicha Rabbah introduction 32 (play on <span dir=\"rtl\">מבליגֹיֹתֹיֹ</span>, <span class=\"refLink\" data-ref=\"Jeremiah 8:18\" href=\"/Jeremiah.8.18\">Jeremiah VIII, 18</span>) <span dir=\"rtl\">עשיתי לביתי גִּותִּי</span> I made my house my vat (compare <span class=\"refLink\" data-ref=\"Lamentations 1:15\" href=\"/Lamentations.1.15\">Eicha I, 15</span>).—plural <span dir=\"rtl\">גִּיתּוֹת</span>, <span dir=\"rtl\">גִּתּ׳</span>.—בית הגי׳ <i>the press room</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 3:7\" href=\"/Tosefta_Terumot.3.7\">Tosefta Terumot III, 7</span>; Yerushalmi ib. II, 41ᵇ bottom of page <span dir=\"rtl\">בית הגיתי׳</span> (correct accordingly)—Tosefta l. common gender. <span dir=\"rtl\">שתי ג׳ לבור וכ׳</span> two vats for one pit; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, גַּת III 1",
+              "sourceHeRef": "מילון יסטרוב, גַּת III א׳",
+              "sourceRef": "Jastrow, גַּת III 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "We have already explained that the word of unlearned persons is accepted with regard to the purification process of the red heifer. Because of the severity involved, the matter is never treated lightly. Similarly, their word is accepted with regard to the wine and oil intended for the accompanying offerings of a sacrifice. If they say that they are pure, they are assumed to be pure. Because this is a very severe matter, they are mindful of it.<br>Similarly, their word is accepted with regard to the purity of <i>terumah</i> during the time when winepresses and olive vats are active, for all people purify themselves and their utensils to prepare their wine in a state of purity. When the time when winepresses and olive vats are active passes, their word is no longer accepted.",
+              "he": "כְּבָר בֵּאַרְנוּ שֶׁעַמֵּי הָאָרֶץ נֶאֱמָנִים הֵן עַל טָהֳרַת פָּרַת הַחַטָּאת מִפְּנֵי חֻמְרָתָהּ אֵין מְזַלְזְלִין בָּהּ. וְכֵן נֶאֱמָנִים הֵן עַל טָהֳרַת יַיִן וְשֶׁמֶן שֶׁל נְסָכִים אִם אָמַר טָהוֹר הוּא הֲרֵי זֶה בְּחֶזְקַת טָהֳרָה מִפְּנֵי חֻמְרָתוֹ נִזְהָרִין בּוֹ. וְכֵן נֶאֱמָנִים הֵן עַל הַתְּרוּמָה בִּשְׁעַת הַגִּתּוֹת וְהַבַּדִּים מִפְּנֵי שֶׁכָּל הָעָם מְטַהֲרִין עַצְמָן וּכְלֵיהֶן כְּדֵי לַעֲשׂוֹת יֵינָם וְשַׁמְנָם בְּטָהֳרָה. עָבְרוּ הַגִּתּוֹת וְהַבַּדִּים אֵינָן נֶאֱמָנִים:",
+              "ref": "Mishneh Torah, Those Who Defile Bed or Seat 11:1",
+              "sourceHeRef": "הלכות מטמאי משכב ומושב יא:א",
+              "sourceRef": "Those Who Defile Bed or Seat 11:1"
+            },
+            {
+              "en": "When an unlearned person brings a priest a barrel of wine or oil that is <i>terumah</i>, he should not accept it from him, because it is assumed to be impure. If the unlearned person left it in his own possession until the next time of the winepresses and olive vats and brought it to the priest, he should accept it even though he knows it is from the previous year. For no impurity was decreed on unlearned people during the time when winepresses and olive vats are active.",
+              "he": "כֹּהֵן שֶׁהֵבִיא לוֹ עַם הָאָרֶץ חָבִית יַיִן אוֹ שֶׁמֶן שֶׁל תְּרוּמָה לֹא יְקַבְּלֶנָּה מִמֶּנּוּ מִפְּנֵי שֶׁהִיא בְּחֶזְקַת טֻמְאָה. הִנִּיחָהּ עַם הָאָרֶץ אֶצְלוֹ עַד גַּת הַבָּאָה וֶהֱבִיאָהּ לוֹ יְקַבְּלֶנָּה מִמֶּנּוּ אַף עַל פִּי שֶׁהוּא יוֹדֵעַ שֶׁהִיא שֶׁל אֶשְׁתָּקַד שֶׁלֹּא גָּזְרוּ עֲלֵיהֶם טֻמְאָה בִּשְׁעַת הַגִּתּוֹת וְהַבַּדִּים:",
+              "ref": "Mishneh Torah, Those Who Defile Bed or Seat 11:2",
+              "sourceHeRef": "הלכות מטמאי משכב ומושב יא:ב",
+              "sourceRef": "Those Who Defile Bed or Seat 11:2"
+            },
+            {
+              "en": "If an unlearned person brought a priest a barrel of <i>terumah</i> wine or oil during the remainder of the year and told him: \"I have separated consecrated wine or oil from it,\" even if only a <i>revi'it</i>, since his word is accepted with regard to the purity of the consecrated wine or oil, his word is accepted with regard to the entire amount.<br>Even during the time when winepresses and olive vats are active and the word of unlearned people is accepted with regard to <i>terumah</i>, their word is not accepted with regard to the empty containers to say that they are pure and may be used for <i>terumah</i>. Similarly, their word is never accepted with regard to empty containers to say that they are pure and may be used for consecrated liquids.",
+              "he": "הֵבִיא לוֹ עַם הָאָרֶץ חָבִית שֶׁל תְּרוּמָה בִּשְׁאָר יְמוֹת הַשָּׁנָה וְאָמַר הִפְרַשְׁתִּי בְּתוֹכָהּ קֹדֶשׁ אֲפִלּוּ רְבִיעִית מִתּוֹךְ שֶׁנֶּאֱמָן עַל טָהֳרַת הַקֹּדֶשׁ נֶאֱמָן עַל הַכּל אֲפִלּוּ בִּשְׁעַת הַגִּתּוֹת וְהַבַּדִּים שֶׁעַמֵּי הָאָרֶץ נֶאֱמָנִין עַל הַתְּרוּמָה אֵינָן נֶאֱמָנִין עַל הַכְּלִי הָרֵיקָם לוֹמַר שֶׁהוּא טָהוֹר לִתְרוּמָה. וְכֵן אֵין נֶאֱמָנִין לְעוֹלָם עַל כְּלִי רֵיקָם לוֹמַר שֶׁהוּא טָהוֹר לְקֹדֶשׁ:",
+              "ref": "Mishneh Torah, Those Who Defile Bed or Seat 11:4",
+              "sourceHeRef": "הלכות מטמאי משכב ומושב יא:ד",
+              "sourceRef": "Those Who Defile Bed or Seat 11:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והביאו לו</strong> - עמי הארץ לכהן חבר:",
+              "ref": "Rashi on Chagigah 24b:13:1",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:יג:א",
+              "sourceRef": "Rashi on Chagigah 24b:13:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל מניחה</strong> - עם הארץ לגת הבאה ואז יתננה לכהן:",
+              "ref": "Rashi on Chagigah 24b:13:2",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:יג:ב",
+              "sourceRef": "Rashi on Chagigah 24b:13:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רביעית לוג שמן נאמן</strong> - דמיגו דנאמן אקדש נאמן אתרומה:",
+              "ref": "Rashi on Chagigah 24b:13:3",
+              "sourceHeRef": "רש\"י על חגיגה כ״ד ב:יג:ג",
+              "sourceRef": "Rashi on Chagigah 24b:13:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>עברו הגיתות והבדים, והביאו לו</b> עמי הארץ <b>חבית של יין של תרומה — לא יקבלנה ממנו</b> שמא נטמאו, שהרי בזמן אחר אין נאמנים על כך. <b>אבל מניחה</b> הנותן <b>לגת הבאה,</b> וכיון שבשעת הגת התירו — יכול לתת לו גם את החבית הזו, למרות שלפני כן אסור היה לו לקחת אותה. <b>ואם אמר לו</b> הנותן <b>הפרשתי לתוכה</b> של חבית זו של תרומה גם <b>רביעית קדש — נאמן,</b> שכן אף עמי הארצות נאמנים על טהרה לענין הקדשים ולכן נאמן אף על התרומה שהקדשים מעורבים בה.",
+              "ref": "Steinsaltz on Chagigah 24b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:יג",
+              "sourceRef": "Steinsaltz on Chagigah 24b:13"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כהן שהביא לו עם הארץ חבית יין או שמן של תרומה לא יקבלנה ממנו מפני שהיא בחזקת טומאה. ואם אמר לו שהפריש לתוכה רביעית עבור נסכים — הרי זה נאמן על טהרתה ומקבל ממנו. (רמב\"ם ספר טהרה הלכות מטמאי משכב ומושב פי\"א ה\"ב וה\"ד).",
+              "ref": "Steinsaltz comment #1 on Chagigah 24b:13",
+              "sourceHeRef": "הביאו לו חבית תרומה",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "But once <b>the</b> periods of the <b>winepress and olive press have passed,</b> if <i>amei ha’aretz</i> <b>brought to him,</b> i.e., to a priest who is meticulous concerning the <i>halakhot</i> of ritual purity [<i>ḥaver</i>], a <b>barrel of <i>teruma</i> wine, he may not accept it from them,</b> as <i>amei ha’aretz</i> are not trusted with regard to matters of ritual purity during the rest of the year. <b>But</b> the giver <b>may leave it</b> over <b>for the following winepress</b> season, in the following year, at which point the <i>ḥaver</i> priest may accept it from him, although it was prohibited for him to accept the same barrel beforehand. <b>And if</b> the giver <b>said to</b> the priest: <b>I separated</b> and placed <b>into</b> this barrel of <i>teruma</i> <b>a quarter</b>-<i>log</i> <b>of sacrificial</b> wine or oil, <b>he is trusted</b> with regard to the entire contents of the barrel. Since an <i>am ha’aretz</i> is trusted with regard to the purity of sacrificial food, he is also believed with regard to <i>teruma</i> that is mingled with the sacrificial food.",
+      "he": "עָבְרוּ הַגִּיתּוֹת וְהַבַּדִּים, וְהֵבִיאוּ לוֹ חָבִית שֶׁל יַיִן שֶׁל תְּרוּמָה — לֹא יְקַבְּלֶנָּה מִמֶּנּוּ, אֲבָל מַנִּיחָהּ לַגַּת הַבָּאָה. וְאִם אָמַר לוֹ הִפְרַשְׁתִּי לְתוֹכָהּ רְבִיעִית קֹדֶשׁ — נֶאֱמָן.",
+      "ref": "Chagigah 24b:13"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>כדי יין וכדי שמן</b>",
+              "ref": "Steinsaltz on Chagigah 24b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על חגיגה כ״ד ב:יד",
+              "sourceRef": "Steinsaltz on Chagigah 24b:14"
+            }
+          ]
+        }
+      },
+      "en": "With regard to <b>jugs of wine and jugs of oil</b>",
+      "he": "כַּדֵּי יַיִן וְכַדֵּי שֶׁמֶן",
+      "ref": "Chagigah 24b:14"
+    }
+  ],
+  "title": "Chagigah 24b",
+  "titleHebrew": "חגיגה כד,ב",
+  "topics": []
+}

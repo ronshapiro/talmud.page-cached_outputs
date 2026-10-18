@@ -1,0 +1,936 @@
+{
+  "id": "51b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שכבת זרע במעי אשה מהו</strong> - כגון שמתה שהיתה בת בנים דסתם אשה בת בנים אית לה שכבת זרע במעיה או שנבעלה סמוך למיתתה:",
+              "ref": "Rashi on Nazir 51b:1:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:א:א",
+              "sourceRef": "Rashi on Nazir 51b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי מי אמרינן כיון</strong> - דאכתי בשעת מיתתה לא נוצר עובר כי גופה הוא ולא הוי גלגלין או דלמא ש\"ז מעלמא אתי לה והוי גלגלין ובאשה לעולם אין רקב עד דהויא בתולה או זקנה דלאו בת בנים:",
+              "ref": "Rashi on Nazir 51b:1:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:א:ב",
+              "sourceRef": "Rashi on Nazir 51b:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שכבת זרע</b> שהיתה <b>במעי אשה</b> שמתה <b>מהו</b> דינה לענין שתיעשה גלגלין לגוף האשה? וצדדי השאלה: <b>מי אמרינן</b> <span class=\"hebrew-emphasis\">[האם אנו אומרים</span><span class=\"hebrew-emphasis\">]</span> <b>כיון</b> ש<b>לא איתצר</b> <span class=\"hebrew-emphasis\">[נוצר</span><span class=\"hebrew-emphasis\">]</span> עדיין ממנה עובר — <b>כי</b> <span class=\"hebrew-emphasis\">[כמו</span><span class=\"hebrew-emphasis\">]</span> <b>גופה דמי</b> <span class=\"hebrew-emphasis\">[נחשב</span><span class=\"hebrew-emphasis\">]</span> הדבר, <b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא</span><span class=\"hebrew-emphasis\">]</span> <b>כיון דמעלמא קאתי</b> <span class=\"hebrew-emphasis\">[שמן העולם,</span> מן החוץ, הוא בא<span class=\"hebrew-emphasis\">]</span> הריהו <b>לא</b> נחשב כגופה?",
+              "ref": "Steinsaltz on Nazir 51b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:א",
+              "sourceRef": "Steinsaltz on Nazir 51b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כיון שמשכבת זרע זו לא נוצר עדיין עובר (המפרש), וכיון שכך אין לומר בה, כמו שאומרים בעובר, שסופה לפרוש (תוס'). וכתב המאירי שלפי השאלה יש לומר שמדובר כאן לא בשכבת זרע סתם, אלא בשכבת זרע שנקלטה, עליה ניתן לומר שהיא חלק מגופה, אלא כגון שאינה עדיין בגדר עובר שנוצר, ולפי זה מובנים יותר הצדדים השונים של שאלה זו (וראה בברכת ראש שכתב מעין זה להסביר דברי המפרש בד\"ה שכבת זרע).",
+              "ref": "Steinsaltz comment #1 on Nazir 51b:1",
+              "sourceHeRef": "כיון דלא איתצר",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיון דלא איתצר</strong> - שלא נוצר הולד עדיין בגופה שהרי אין סופה לפרוש ממנה:",
+              "ref": "Tosafot on Nazir 51b:1:1",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:א:א",
+              "sourceRef": "Tosafot on Nazir 51b:1:1"
+            }
+          ]
+        }
+      },
+      "en": "with regard to <b>semen in</b> a dead <b>woman’s womb. What is</b> the <i>halakha</i> in this case? Does it form a mixture with respect to the woman’s body? The Gemara explains the two sides of this dilemma: <b>Do we say</b> that <b>since no</b> fetus <b>was formed</b> from the semen, it is <b>considered like her body? Or, perhaps</b> one should argue that <b>since it comes from outside,</b> it is <b>not</b> considered part of her body.",
+      "he": "שִׁכְבַת זֶרַע בִּמְעֵי אִשָּׁה, מַהוּ? מִי אָמְרִינַן כֵּיוָן דְּלָא אִיתְּצַר — כִּי גוּפַהּ דָּמֵי, אוֹ דִלְמָא כֵּיוָן דְּמֵעָלְמָא קָאָתֵי — לָא?",
+      "ref": "Nazir 51b:1"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פירשה</strong> - פרש שבתוך הגוף דהיינו ריעי מי נעשה גלגלין מי אמרינן כיון דלא מקיימה בחייה אי לא אכלה חיותא נמי דידה היא וכגופה דמי ולא הוי גלגלין וה\"ה לפרש דאיש אלא איידי דקאי במילי דאשה מסיק לה נמי להא על שם אשה:",
+              "ref": "Rashi on Nazir 51b:2:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ב:א",
+              "sourceRef": "Rashi on Nazir 51b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעי רב אחא בריה דרב איקא עורו מהו</strong> - רוק היוצא לו לאדם שלא ע\"י טורח אלא כיון שמערערו לתוך פיו וגרונו יוצא מי הוי ליה גלגלין ואית דמפרשי עורו עור האדם ממש:",
+              "ref": "Rashi on Nazir 51b:2:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ב:ב",
+              "sourceRef": "Rashi on Nazir 51b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיחו וניעו</strong> - אינו יוצא אלא ע\"י הדחק:",
+              "ref": "Rashi on Nazir 51b:2:3",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ב:ג",
+              "sourceRef": "Rashi on Nazir 51b:2:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ובאותו ענין <b>בעי</b> <span class=\"hebrew-emphasis\">[שאל</span><span class=\"hebrew-emphasis\">]</span> <b>רב פפא: פירשה</b> (הפרש, מזון שבמעיה) <b>מהו</b> דינו? וצדדי השאלה: <b>כיון דלא מקיימא בדלא אכלה</b> <span class=\"hebrew-emphasis\">[שאינה מתקיימת בלא לאכול</span><span class=\"hebrew-emphasis\">] —</span> <b>חיותא</b> <span class=\"hebrew-emphasis\">[חייה</span><span class=\"hebrew-emphasis\">]</span> <b>הוא,</b> ולכן המזון שבמעיה נחשב כחלק ממנה, ואינו נעשה לה גלגלין, <b>או דלמא הא נמי מעלמא אתי</b> <span class=\"hebrew-emphasis\">[שמא זה גם כן מן העולם,</span> מן החוץ, הוא בא<span class=\"hebrew-emphasis\">]</span> ולכן אינו נחשב כגופה? ובאותו ענין <b>בעי</b> <span class=\"hebrew-emphasis\">[שאל</span><span class=\"hebrew-emphasis\">]</span> <b>רב אחא בריה</b> <span class=\"hebrew-emphasis\">[בנו</span><span class=\"hebrew-emphasis\">]</span> של <b>רב איקא: עורו</b> של המת <b>מהו</b> דינו? וכן <b>בעי</b> <span class=\"hebrew-emphasis\">[שאל</span><span class=\"hebrew-emphasis\">]</span> <b>רב הונא בר מנוח: כיחו וניעו</b> (רוקו הבא מחמת שיעול) של המת <b>מהו?</b>",
+              "ref": "Steinsaltz on Nazir 51b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:ב",
+              "sourceRef": "Steinsaltz on Nazir 51b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הוא הדין לפרש שבגופו של איש, אלא כיון שהעלה שאלה ראשונה שאינה שייכת אלא באשה, משתמש בלשון נקבה גם לשאלה הבאה (המפרש, תוס' ועוד).",
+              "ref": "Steinsaltz comment #1 on Nazir 51b:2",
+              "sourceHeRef": "פירשה",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "לכאורה תמוהה הסברה שעורו של המת לא ייחשב כגופו, ובפרט שיודעים אנו בהלכה שעורו של המת מטמא. וראה בר\"פ שהוכיח שאי אפשר לומר שמדובר כאן בעור שנפשט מגופו ונקבר עמו. אבל כתבו הראשונים שיש מקום לשאלה זו לפי דעת הסוברים כי עורו של המת אינו מטמא מדין תורה אלא מדברי סופרים, וכיון שאינו נחשב (לשיטה זו) כחלק מגופו — יש מקום לשאול אם ייחשב לו כגלגלין (ר\"פ ועוד). והמפרש, שהתקשה אף הוא בכך, רוצה להסביר כאן (בפירושו הראשון) שאין משמעות \"עורו\" כאן כרגיל, אלא הכוונה היא לרוק המצוי בפיו, שאינו יוצא אגב שיעול ומאמץ ככיחו וניעו, אלא מתעורר מעצמו.",
+              "ref": "Steinsaltz comment #2 on Nazir 51b:2",
+              "sourceHeRef": "עורו",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פירשה מהו</strong> - פרש שלה שבתוכה מי הוי גלגלין כיון דלא מיקיימא בדלא אכלה חיותא היא ולא הוי גלגלין ואגב ששאל עובר במעי אשה בנקבה שאל נמי בפירשה וה\"ה בזכר:",
+              "ref": "Tosafot on Nazir 51b:2:1",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ב:א",
+              "sourceRef": "Tosafot on Nazir 51b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עורו מהו</strong> - שיעשה גלגלין כיחו וניעו מהו שיעשה גלגלין:",
+              "ref": "Tosafot on Nazir 51b:2:2",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ב:ב",
+              "sourceRef": "Tosafot on Nazir 51b:2:2"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> raised</b> a similar <b>dilemma:</b> With regard to <b>her excrement,</b> the food waste that remains in a woman’s intestines, <b>what is</b> the <i>halakha</i>? Once again, the Gemara explains the two sides of this dilemma: Do we say that <b>since she cannot subsist without food it is</b> considered <b>her life,</b> which means that the food left inside her body is part of her and does not form a mixture with the corpse? <b>Or perhaps this too comes from outside</b> and is therefore not part of her body, and does form a mixture with her corpse. Similarly, <b><span href=\"/topics/rav-aha-b-rav-iqa\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-rav-iqa\">Rav Aḥa, son of Rav Ika</span>, raised a dilemma</b> concerning a corpse: With regard to <b>its skin, what is</b> the <i>halakha</i>? <b>Rav Huna bar Manoaḥ</b> likewise <b>raised a dilemma:</b> With regard to <b>its phlegm and its spittle, what is</b> the <i>halakha</i>?",
+      "he": "בָּעֵי <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">רַב פָּפָּא</span>: פִּירְשָׁהּ, מַהוּ? כֵּיוָן דְּלָא מִקַּיְימָא בִּדְלָא אָכְלָה — חַיּוּתָא הוּא, אוֹ דִלְמָא הָא נָמֵי מֵעָלְמָא אָתֵי? בָּעֵי רַב אַחָא בְּרֵיהּ דְּרַב אִיקָא: עוֹרוֹ מַהוּ? בָּעֵי רַב הוּנָא בַּר מָנוֹחַ: כִּיחוֹ וְנִיעוֹ מַהוּ?",
+      "ref": "Nazir 51b:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָקֵב II</strong>, <strong dir=\"rtl\">רָקַב</strong> (Biblical Hebrew) [<i>to be perforated, hollow</i>; see <span class=\"refLink\" data-ref=\"Jastrow, רוּקְבָּא II 1\" href=\"/Jastrow,_רוּקְבָּא II.1\"><span dir=\"rtl\">רוּקְבָּא</span> II</span>,] <i>to be worm-eaten, rot, decay</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:3\" href=\"/Tosefta_Terumot.6.3\">Tosefta Terumot VI, 3</span> <span dir=\"rtl\">יִרְקְבוּ</span> must be left to rot (cannot be used). <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:4\" href=\"/Tosefta_Terumot.6.4\">Ib. 4</span> <span dir=\"rtl\">תרום ותִרְקוֹב</span> separate the T’rumah, and let it rot; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְקִיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">same</span>. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> same. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> <span dir=\"rtl\">ואיני חושש שמא הִרְקִיבָה תבואה</span> and we need not take into consideration that the grain may have been attacked by worms. Ib. <span dir=\"rtl\">הלך ומצא שהִרְקִיבוּ</span> if he went (to examine) and found that it was ruined <span dir=\"rtl\">הרי זה … עד שתַּרְקִיב וכ׳</span> he must take into consideration (the possibility of having consumed untithed grain) from the time that the grain may have begun to be attacked, or the wine to become sour. Ib. IX (VII), 12 <span dir=\"rtl\">נימוק או שהִירְקִיב</span> if the document is decayed or worm-eaten. Yerushalmi Yoma VII, 44ᵇ bottom of page <span dir=\"rtl\">שם היו מַרְקִיבִין</span> there they were allowed to rot; and from—Esp. <i>to turn into a lump of decayed matter</i> <span class=\"refLink\" data-ref=\"Jastrow, רָקָב 1\" dir=\"rtl\" href=\"/Jastrow,_רָקָב.1\">(רָקָב</span>). <span class=\"refLink\" data-ref=\"Nazir 51b:10\" href=\"/Nazir.51b.10\">Nazir 51ᵇ</span> <span dir=\"rtl\">טחנו וחזר וה׳</span> if he powdered the mass taken from the ground, and it turned again into a lump. <br><b><br>—2)</b> <i>to cause to rot, to eat through</i>. <span class=\"refLink\" data-ref=\"Devarim Rabbah 2:2\" href=\"/Devarim_Rabbah.2.2\">Devarim Rabbah section (Parashah) 2</span> <span dir=\"rtl\">ומַרְקִיבָן</span> and eats them through, see <span class=\"refLink\" data-ref=\"Jastrow, מָסַס 1\" dir=\"rtl\" href=\"/Jastrow,_מָסַס.1\">מָסַס</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִרְקַב</strong> <i>to be worm-eaten, rot</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 91\" href=\"/Bereishit_Rabbah.91\">Breishit Rabbah section (Parashah) 91</span> <span dir=\"rtl\">גוזר … ונִרְקֶבֶת</span> he decrees concerning the grain, and it is worm-eaten; (Yalkut ib. 148 <span dir=\"rtl\">ומַרְקֶבֶת</span>, <i>Hifil</i>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָקֵב II 1",
+              "sourceHeRef": "מילון יסטרוב, רָקֵב II א׳",
+              "sourceRef": "Jastrow, רָקֵב II 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">היכי משכחת לה</strong> - דלית ליה פירשא קודם שמת:",
+              "ref": "Rashi on Nazir 51b:3:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ג:א",
+              "sourceRef": "Rashi on Nazir 51b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כגון דאשקייה מי דקלים</strong> - כדמפ' במס' שבת בפ' שמונה שרצים <span class=\"parenthesized\">(דף קי.)</span> מאי מי דקלים תרי דיקלי איכא במערבא ונפיק מעיינא דמיא מבינייהו כסא קמא מרפי ואידך משלשל ואידך כי היכי דעייל הכי נפיק:",
+              "ref": "Rashi on Nazir 51b:3:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ג:ב",
+              "sourceRef": "Rashi on Nazir 51b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וסכייה נשא</strong> - וסך גופו נשא שקורין טהרה והעביר השיער העומד ליגזז:",
+              "ref": "Rashi on Nazir 51b:3:3",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ג:ג",
+              "sourceRef": "Rashi on Nazir 51b:3:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ושלקו במי טבריא</strong> - שהן חמים והופשט עורו ויצא כיחו וניעו:",
+              "ref": "Rashi on Nazir 51b:3:4",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ג:ד",
+              "sourceRef": "Rashi on Nazir 51b:3:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו</span><span class=\"hebrew-emphasis\">]</span> <b>רב שמואל בר אחא לרב פפא: ואי סלקא דעתך</b> <span class=\"hebrew-emphasis\">[ואם עולה על דעתך</span><span class=\"hebrew-emphasis\">]</span> לומר כי <b>כל הני דקאמר הוי</b> <span class=\"hebrew-emphasis\">[אלה שאמר הם</span> נחשבים<span class=\"hebrew-emphasis\">]</span> <b>גלגלין, רקב</b> ש<b>מטמא היכי משכחת לה</b> <span class=\"hebrew-emphasis\">[איך</span> אתה יכול למצוא אותה<span class=\"hebrew-emphasis\">],</span> שהרי תמיד חלק מן הרקב הוא מכל אותם הדברים! ומשיבים: כגון <b>דאשקייה</b> <span class=\"hebrew-emphasis\">[שהשקה אותו</span><span class=\"hebrew-emphasis\">]</span> לפני מותו ב<b>מי דקלים</b> שמשלשלים ביותר <b>וסכיא נשא</b> <span class=\"hebrew-emphasis\">[וסך</span> את שערו בסם המשיר שיער<span class=\"hebrew-emphasis\">]</span> <b>ושלקו</b> <span class=\"hebrew-emphasis\">[ובישלו</span><span class=\"hebrew-emphasis\">]</span> <b>במי טבריא</b> החמים עד שעורו נקלף, שאז נפרדים ממנו כל הדברים שאינם חלק מגופו.",
+              "ref": "Steinsaltz on Nazir 51b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:ג",
+              "sourceRef": "Steinsaltz on Nazir 51b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This water is a strong laxative that releases all excrement from the bowels (Commentary on <i>Nazir</i>). Others add that it also serves to drain out any moisture, e.g., phlegm or spittle (<i>Tosafot</i>).",
+              "he": "שאמרו עליהם שהם משלשלים ביותר, ועל ידי כך הוציא כל פרש שהיה במעיו (המפרש). ולדברי תוס' מועיל הדבר גם להוציא ממנו כל מיני ליחה, ככיחו וניעו.",
+              "ref": "Steinsaltz comment #1 on Nazir 51b:3",
+              "sourceHeRef": "דְּאַשְׁקְיֵּיהּ מֵי דְּקָלִים",
+              "sourceRef": "Was given palm water to drink"
+            },
+            {
+              "en": "The point of this procedure is to remove the skin and phlegm (Commentary on <i>Nazir</i>). The commentaries explain that boiling and removing the skin are insufficient, as the roots of the hair remain attached at the subcutaneous level of the skin. It is therefore necessary to rub a depilatory agent on it afterward to eradicate the roots of the hair as well (<i>Tosafot</i>; Meiri). Alternatively, if the head is boiled in hot springs, part of the soft flesh might fall apart as well, which would render the corpse deficient. Consequently, the rest of the body must be boiled, while the head is rubbed with a depilatory agent (see Meiri). Others contend that the Gemara is not referring to successive actions on a single corpse. Rather, each action in this list, i.e., applying palm water, boiling, and rubbing a depilatory agent, is a separate response to the various dilemmas raised by <i>amora’im</i> above.",
+              "he": "המפרשים מסבירים שסכו בסם זה כדי להעביר כל שיער ממנו. ויש שהסבירו כי צריך לומר לפי שיטה זו שחששו בכל שיער שמא הוא כשיער העומד לגזוז. או שמדברי רבה בר בר חנה (לעיל נא, א) לפי מסקנת הגמרא לא ברור הדין בשיער המחובר לגופו, ושמא כל שיער שיש בו נחשב כגלגלין (תוס' ועוד).",
+              "ref": "Steinsaltz comment #2 on Nazir 51b:3",
+              "sourceHeRef": "שְׁלָקוֹ בְּמֵי טִבֶּרְיָא",
+              "sourceRef": "Boiled in the waters of Tiberias"
+            },
+            {
+              "en": "Based on the context of the Gemara, this apparently is referring to water from the spring at Har HaBarzel, northeast of the Sea of Galilee. This was possibly one of the springs in the area that was used for medicinal purposes. The water of these springs contains many minerals. The high sulfur content in these waters transforms the stomach fluids into a hydrogen sulfide solution, H2S, which has a purgative effect. Palm water became famous for this quality.",
+              "he": "להוריד את עורו ולהוציא כיחו (המפרש). ולדברי התוס' אין די במה ששולקו ומסיר את עורו, כי עדיין שורשי השיער נשארים מחוברים לשכבה התת-עורית, ולכן יש צורך לסוכו בסם לאחר מכן כדי להעביר ממנו גם שורשי השיער (וכן במאירי). ויש שהביאו סברה שאם שלק את ראשו בחמי טבריה יש חשש שמא חלק מבשרו הרך ייפרד גם הוא, ונמצא מת חסר. ולכן, שלקו — בשאר גופו, וסכו נשא — בעור ראשו (ראה במאירי ועוד). והנצי\"ב ביאר כי אין מדובר כאן במת אחד שנעשה לו כל זה, אלא כל אחד מן הדברים שנאמרו — מי דקלים, שליקה וסך נשא — נאמרו לפי השאלות השונות של האמוראים קודם לכן.",
+              "ref": "Steinsaltz comment #3 on Nazir 51b:3",
+              "sourceHeRef": "מֵי דְּקָלִים",
+              "sourceRef": "Palm water [<i>mei dekalim</i>]"
+            },
+            {
+              "en": "This refers to the hot springs near the city of Tiberias, which can reach temperatures of 60° Celsius and even higher.",
+              "he": "מן העולה מדברי התלמוד בענין זה נראה כי מי דקלים הם מימיו של מעיין שהיה ב\"הר הברזל\" — צפונה מזרחה לכנרת. מסתבר כי זה היה אחד מן ממעיינות הרפואה באזור.\nבמים אלה מצויים הרבה מינרלים. בגלל תכולת הגופרית הגבוהה במים אלה, הופכים המים בקיבה למימן גפריתי <eng>H2S</eng> שיש לו פעולה משלשלת. מי דקלים היו מפורסמים בפעולה המשלשלת הנמרצת שלהם.",
+              "ref": "Steinsaltz comment #4 on Nazir 51b:3",
+              "sourceHeRef": "מֵי טִבֶּרְיָא",
+              "sourceRef": "Waters of Tiberias"
+            },
+            {
+              "en": "",
+              "he": "הכוונה היא למי המעיינות החמים הסמוכים לעיר טבריה. מימיהם של מעיינות אלה מגיעים לחום של 60 מעלות צלסיוס ומעלה.",
+              "ref": "Steinsaltz comment #5 on Nazir 51b:3",
+              "sourceHeRef": "מי טבריא",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל הני דקאמר הוי גלגלין</strong> - פרש וניעו וכיחו כו' היכי משכחת לה:",
+              "ref": "Tosafot on Nazir 51b:3:1",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ג:א",
+              "sourceRef": "Tosafot on Nazir 51b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאשקייה מי דקלין</strong> - דאמרי' בפ' שמונה שרצים <span class=\"parenthesized\">(שבת קי.)</span> מאי מי דקלים תרי דקלי איכא במתא מחסיא ונפיק מעיינא דמיא מבינייהו כסא קמא מרפי ואידך משלשל ואידך כי היכי דעייל הכי נפק משלשל את הגוף ומנקה את הגוף ביותר ובכך העביר הפרש וכיחו וניעו:",
+              "ref": "Tosafot on Nazir 51b:3:2",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ג:ב",
+              "sourceRef": "Tosafot on Nazir 51b:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וסכיא נשא</strong> - פי' רש\"י להשיר השער ושלקו במי טבריא תחלה קודם שסכו בנשא להשיר שער הראש ושער הגוף ע\"י שסכו נשא נשרו <span class=\"parenthesized\">(השער)</span> עקרי השערות דאי סכו מעיקרא בנשא אכתי שרשי השער העוברים דרך העור לבשר לא היו עוד נושרים מן הנשא משום דשער חלחולי מתחלחל ומחובר לבשר הראש שתחת העור כדאמרינן בפרק העור והרוטב <span class=\"parenthesized\">(חולין קיט:)</span> ונראה דלא סברא הך סוגיא הא דאמר לעיל שערו העומד ליגזז מהו משמע דאותו שאינו עומד ליגזז לא הוי גלגלין ושמא ס\"ל כרבה דאמר גזז שערו הוי גלגלין ולא גזז תיבעי ליה בין שעומד ליגזז ובין שאינו עומד ליגזז ועלה קאי:",
+              "ref": "Tosafot on Nazir 51b:3:3",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ג:ג",
+              "sourceRef": "Tosafot on Nazir 51b:3:3"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> <span href=\"/topics/rav-shmuel-b-abba\" class=\"namedEntityLink\" data-slug=\"rav-shmuel-b-abba\">Shmuel bar Aḥa</span> said to <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span>: But if it enters your mind</b> that <b>all these</b> cases of <b>which they spoke</b> form <b>a mixture,</b> under <b>what circumstances</b> do <b>you find</b> this case of <b>dust</b> that <b>imparts impurity?</b> Dust from a corpse will always include some components of the aforementioned elements. The Gemara answers: It is possible. For example, <b>if</b> someone <b>was given palm water [<i>mei dekalim</i>],</b> a powerful laxative, <b>to drink</b> before he died, <b>and was rubbed with a depilatory</b> agent to remove his hair, <b>and was boiled</b> after death <b>in the</b> hot <b>waters of Tiberias</b> until the skin came off, this would remove all matter that is not part of the corpse itself.",
+      "he": "אֲמַר לֵיהּ רַב שְׁמוּאֵל בַּר אַחָא <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">לְרַב פָּפָּא</span>: וְאִי סָלְקָא דַעְתָּךְ כׇּל הָנֵי דְּקָאָמַר הָוֵי גַּלְגַּלִּין, רָקָב דִּמְטַמֵּא הֵיכִי מַשְׁכַּחַתְּ לַהּ! דְּאַשְׁקְיֵיהּ מֵי דְקָלִים, וְסַכְיֵא נָשָׁא, וּשְׁלָקוֹ בְּמֵי טְבֶרְיָא.",
+      "ref": "Nazir 51b:3"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָקֵב II</strong>, <strong dir=\"rtl\">רָקַב</strong> (Biblical Hebrew) [<i>to be perforated, hollow</i>; see <span class=\"refLink\" data-ref=\"Jastrow, רוּקְבָּא II 1\" href=\"/Jastrow,_רוּקְבָּא II.1\"><span dir=\"rtl\">רוּקְבָּא</span> II</span>,] <i>to be worm-eaten, rot, decay</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:3\" href=\"/Tosefta_Terumot.6.3\">Tosefta Terumot VI, 3</span> <span dir=\"rtl\">יִרְקְבוּ</span> must be left to rot (cannot be used). <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:4\" href=\"/Tosefta_Terumot.6.4\">Ib. 4</span> <span dir=\"rtl\">תרום ותִרְקוֹב</span> separate the T’rumah, and let it rot; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְקִיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">same</span>. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> same. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> <span dir=\"rtl\">ואיני חושש שמא הִרְקִיבָה תבואה</span> and we need not take into consideration that the grain may have been attacked by worms. Ib. <span dir=\"rtl\">הלך ומצא שהִרְקִיבוּ</span> if he went (to examine) and found that it was ruined <span dir=\"rtl\">הרי זה … עד שתַּרְקִיב וכ׳</span> he must take into consideration (the possibility of having consumed untithed grain) from the time that the grain may have begun to be attacked, or the wine to become sour. Ib. IX (VII), 12 <span dir=\"rtl\">נימוק או שהִירְקִיב</span> if the document is decayed or worm-eaten. Yerushalmi Yoma VII, 44ᵇ bottom of page <span dir=\"rtl\">שם היו מַרְקִיבִין</span> there they were allowed to rot; and from—Esp. <i>to turn into a lump of decayed matter</i> <span class=\"refLink\" data-ref=\"Jastrow, רָקָב 1\" dir=\"rtl\" href=\"/Jastrow,_רָקָב.1\">(רָקָב</span>). <span class=\"refLink\" data-ref=\"Nazir 51b:10\" href=\"/Nazir.51b.10\">Nazir 51ᵇ</span> <span dir=\"rtl\">טחנו וחזר וה׳</span> if he powdered the mass taken from the ground, and it turned again into a lump. <br><b><br>—2)</b> <i>to cause to rot, to eat through</i>. <span class=\"refLink\" data-ref=\"Devarim Rabbah 2:2\" href=\"/Devarim_Rabbah.2.2\">Devarim Rabbah section (Parashah) 2</span> <span dir=\"rtl\">ומַרְקִיבָן</span> and eats them through, see <span class=\"refLink\" data-ref=\"Jastrow, מָסַס 1\" dir=\"rtl\" href=\"/Jastrow,_מָסַס.1\">מָסַס</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִרְקַב</strong> <i>to be worm-eaten, rot</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 91\" href=\"/Bereishit_Rabbah.91\">Breishit Rabbah section (Parashah) 91</span> <span dir=\"rtl\">גוזר … ונִרְקֶבֶת</span> he decrees concerning the grain, and it is worm-eaten; (Yalkut ib. 148 <span dir=\"rtl\">ומַרְקֶבֶת</span>, <i>Hifil</i>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָקֵב II 1",
+              "sourceHeRef": "מילון יסטרוב, רָקֵב II א׳",
+              "sourceRef": "Jastrow, רָקֵב II 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When two corpses are buried together, the hair and the nails of a corpse were cut off and buried together with it, or a woman was buried together with a fetus in her womb, the <i>rekev</i> does not convey ritual impurity.<br>Similarly, if one ground up a corpse until it became a decomposed mass, [these laws do not apply]. It must decompose naturally. If one ground the corpse and then left its remains until they decomposed naturally or a portion of the body decomposed while the person was alive, he died, and then the entire body decomposed, there is an unresolved doubt [concerning the ruling]. Hence, if [a nazirite] becomes impure because of this <i>rekev</i>, there is an unresolved doubt whether he is impure. Similarly, there is an unresolved doubt whether [a nazirite] is impure if he contacts impurity from a fourth of a <i>kav</i> of bones coming from the backbone or the skull when he is under the same shelter as they are.",
+              "he": "קָבְרוּ שְׁנֵי מֵתִים כְּאֶחָד. אוֹ שֶׁגָּזְזוּ שְׂעָרוֹ אוֹ צִפָּרְנָיו וּקְבָרוּם עִמּוֹ. אוֹ אִשָּׁה עֻבָּרָה שֶׁמֵּתָה וְנִקְבְּרָה וְעֻבָּרָהּ בְּמֵעֶיהָ אֵין הָרֶקֶב שֶׁלָּהֶם מְטַמֵּא. וְכֵן אִם טָחַן הַמֵּת עַד שֶׁנַּעֲשָׂה רֶקֶב אֵינוֹ מְטַמֵּא עַד שֶׁיַּרְקִיב מֵאֵלָיו. טָחַן אֶת הַמֵּת וְהִנִּיחַ עֲפָרוֹ עַד שֶׁהִרְקִיב כֻּלּוֹ. אוֹ [שֶׁהִרְקִיב] מִקְצָתוֹ כְּשֶׁהוּא חַי וּמֵת וְהִרְקִיב הַכּל הֲרֵי זֶה סָפֵק וְאִם נִטְמָא לְרֶקֶב זֶה הֲרֵי זֶה סְפֵק טָמֵא. וְכֵן אִם נִטְמָא בְּרֹבַע עֲצָמוֹת הַבָּאִין מֵהַשִּׁדְרָה אוֹ מִן הַגֻּלְגּלֶת בְּאָהֳלָן הֲרֵי זֶה סְפֵק טָמֵא:",
+              "ref": "Mishneh Torah, Nazariteship 7:4",
+              "sourceHeRef": "הלכות נזירות ז:ד",
+              "sourceRef": "Nazariteship 7:4"
+            },
+            {
+              "en": "If one ground a corpse until it became a decomposed mass, it does not convey the impurity of <i>rekev</i>. Those laws do not apply unless it decomposes as part of a natural process.",
+              "he": "טָחַן הַמֵּת עַד שֶׁנַּעֲשָׂה רֶקֶב אֵינוֹ מְטַמֵּא עַד שֶׁיַּרְקִיב מֵאֵלָיו:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 3:6",
+              "sourceHeRef": "הלכות טומאת מת ג:ו",
+              "sourceRef": "Defilement by a Corpse 3:6"
+            },
+            {
+              "en": "If one ground a corpse and then left its remains until they decomposed naturally or a portion of the body decomposed while the person was alive, he died, and then the entire body decomposed, there is an unresolved doubt concerning the ruling. Hence, if a person becomes impure because of two handfuls of this <i>rekev</i>, he must consider himself impure, because of this unresolved doubt.",
+              "he": "טְחָנוֹ כֻּלּוֹ וְהִנִּיחוֹ עַד שֶׁיַּרְקִיב אוֹ שֶׁהִרְקִיב מִקְצָתוֹ כְּשֶׁהוּא חַי וּמֵת וְהִרְקִיב כֻּלּוֹ הֲרֵי זֶה סָפֵק. וְאִם נִטְמָא לִמְלֹא חָפְנַיִם מֵרֶקֶב זֶה הֲרֵי זֶה טָמֵא בְּסָפֵק:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 3:7",
+              "sourceHeRef": "הלכות טומאת מת ג:ז",
+              "sourceRef": "Defilement by a Corpse 3:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נקטינן מת שטחנו</strong> - בריחים או ששחקו דק הרבה אין לו תורת רקב משום דרקב בעינן והא לא אירקיב:",
+              "ref": "Rashi on Nazir 51b:4:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ד:א",
+              "sourceRef": "Rashi on Nazir 51b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מידי הוא טעמא</strong> - דרקב מטמא אלא משום דאיכא רקב בשר גידים ועצמות כדאמר עולא לעיל ה\"נ איכא רקב של בשר גידין ועצמות ויש לו תורת רקב:",
+              "ref": "Rashi on Nazir 51b:4:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ד:ב",
+              "sourceRef": "Rashi on Nazir 51b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או דלמא</strong> - רקב הבא ממידי דכברייתו בעינן והא ליכא שהרי טחנו כבר ואין לו תורת רקב תיקו:",
+              "ref": "Rashi on Nazir 51b:4:3",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ד:ג",
+              "sourceRef": "Rashi on Nazir 51b:4:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר אביי: נקטינן</b> <span class=\"hebrew-emphasis\">[מוחזק לנו,</span> בידינו<span class=\"hebrew-emphasis\">]:</span> <b>מת שטחנו —</b> <b>אין לו רקב. איבעיא להו</b> <span class=\"hebrew-emphasis\">[נשאלה להם,</span> לחכמים<span class=\"hebrew-emphasis\">]:</span> אם <b>טחנו</b> לאחר מותו <b>וחזר והרקיב</b> לאחר זמן, <b>מהו?</b> וצדדי השאלה: <b>מידי הוא טעמא אלא דאיכא</b> <span class=\"hebrew-emphasis\">[כלום</span> אין הטעם אלא משום שיש<span class=\"hebrew-emphasis\">]</span> שם <b>בשר וגידים ועצמות —</b> <b>והאיכא</b> <span class=\"hebrew-emphasis\">[והרי יש</span><span class=\"hebrew-emphasis\">]</span> כאן כל אלה. <b>או דלמא</b> <span class=\"hebrew-emphasis\">[שמא</span><span class=\"hebrew-emphasis\">]</span> <b>כברייתו בעינן</b> <span class=\"hebrew-emphasis\">[צריכים אנו</span><span class=\"hebrew-emphasis\">]</span> שיהא לפני שנרקב, <b>וליכא</b> <span class=\"hebrew-emphasis\">[ואין</span> כאן<span class=\"hebrew-emphasis\">]?</span> לשאלה זו, כמו לשאלות הקודמות לא היתה תשובה, ולכן <b>תיקו</b> <span class=\"hebrew-emphasis\">[תעמוד</span><span class=\"hebrew-emphasis\">]</span> במקומה.",
+              "ref": "Steinsaltz on Nazir 51b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:ד",
+              "sourceRef": "Steinsaltz on Nazir 51b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A corpse that was ground into dust does not impart ritual impurity, as it did not become dust of its own accord (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>7:4 and <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>3:6).",
+              "he": "מת שטחנו עד שנעשה רקב — אין רקבו מטמא, עד שירקיב מאליו. (רמב\"ם ספר הפלאה הלכות נזירות פ\"ז ה\"ד. רמב\"ם ספר טהרה הלכות טומאת מת פ\"ג ה\"ו).",
+              "ref": "Steinsaltz comment #1 on Nazir 51b:4",
+              "sourceHeRef": "מֵת שֶׁטְּחָנוֹ",
+              "sourceRef": "A corpse that was ground"
+            },
+            {
+              "en": "If someone ground a corpse and left it until it fully decayed, it is uncertain whether its dust imparts impurity. Consequently, it is uncertain whether one who comes into contact with its dust is impure, as this question was not resolved by the Gemara (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>7:4 and <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>3:7).",
+              "he": "טחן את המת והניח עפרו עד שהרקיב כולו — הרי זה ספק אם רקב זה מטמא. ואם נטמא בו הרי זה ספק טמא. ששאלה זו לא נפתרה בגמרא. (רמב\"ם ספר הפלאה הלכות נזירות פ\"ז ה\"ה. רמב\"ם ספר טהרה הלכות טומאת מת פ\"ג ה\"ז).",
+              "ref": "Steinsaltz comment #2 on Nazir 51b:4",
+              "sourceHeRef": "טְחָנוֹ וְחָזַר וְהִרְקִיב",
+              "sourceRef": "If a corpse was ground and it later decayed"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מת שטחנו אין לו רקב</strong> - דוקא רקבות גמירי ולא עפרורית דטחינא:",
+              "ref": "Tosafot on Nazir 51b:4:1",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ד:א",
+              "sourceRef": "Tosafot on Nazir 51b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כברייתו בעינן</strong> - כלומר שירקב כמו שהיה שלא נשתנה מברייתו:",
+              "ref": "Tosafot on Nazir 51b:4:2",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ד:ב",
+              "sourceRef": "Tosafot on Nazir 51b:4:2"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">Abaye</span> said: We have a tradition</b> that <b>a corpse that was ground</b> into small pieces <b>has no</b> <i>halakha</i> of <b>dust. A dilemma was raised before</b> the Sages: If a corpse <b>was ground</b> after death <b>and</b> the remains <b>later decayed, what is</b> the <i>halakha</i>? The Gemara clarifies the two sides of the dilemma: <b>Is the <i>halakha</i></b> of dust of a corpse <b>only</b> due to the fact that <b>there is flesh and sinews and bones, and</b> all these <b>are present</b> in this case, so it is impure? <b>Or perhaps, we require</b> the corpse to have decayed from <b>its initial state,</b> before it was ground, <b>and</b> this is <b>not</b> the situation here. As was the case with regard to the previous inquiries, no answer was found, and the Gemara says that the dilemma <b>shall stand</b> unresolved.",
+      "he": "אָמַר <span href=\"/topics/abaye\" class=\"namedEntityLink\" data-slug=\"abaye\">אַבָּיֵי</span>, נָקְטִינַן: מֵת שֶׁטְּחָנוֹ — אֵין לוֹ רָקָב. אִיבַּעְיָא לְהוּ: טְחָנוֹ וְחָזַר וְהִרְקִיב, מַהוּ? מִידֵּי הוּא טַעְמָא אֶלָּא דְּאִיכָּא בָּשָׂר וְגִידִים וַעֲצָמוֹת, וְהָאִיכָּא. אוֹ דִּלְמָא כִּבְרִיָּיתוֹ בָּעִינַן, וְלֵיכָּא? תֵּיקוּ.",
+      "ref": "Nazir 51b:4"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָקֵב II</strong>, <strong dir=\"rtl\">רָקַב</strong> (Biblical Hebrew) [<i>to be perforated, hollow</i>; see <span class=\"refLink\" data-ref=\"Jastrow, רוּקְבָּא II 1\" href=\"/Jastrow,_רוּקְבָּא II.1\"><span dir=\"rtl\">רוּקְבָּא</span> II</span>,] <i>to be worm-eaten, rot, decay</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:3\" href=\"/Tosefta_Terumot.6.3\">Tosefta Terumot VI, 3</span> <span dir=\"rtl\">יִרְקְבוּ</span> must be left to rot (cannot be used). <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:4\" href=\"/Tosefta_Terumot.6.4\">Ib. 4</span> <span dir=\"rtl\">תרום ותִרְקוֹב</span> separate the T’rumah, and let it rot; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְקִיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">same</span>. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> same. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> <span dir=\"rtl\">ואיני חושש שמא הִרְקִיבָה תבואה</span> and we need not take into consideration that the grain may have been attacked by worms. Ib. <span dir=\"rtl\">הלך ומצא שהִרְקִיבוּ</span> if he went (to examine) and found that it was ruined <span dir=\"rtl\">הרי זה … עד שתַּרְקִיב וכ׳</span> he must take into consideration (the possibility of having consumed untithed grain) from the time that the grain may have begun to be attacked, or the wine to become sour. Ib. IX (VII), 12 <span dir=\"rtl\">נימוק או שהִירְקִיב</span> if the document is decayed or worm-eaten. Yerushalmi Yoma VII, 44ᵇ bottom of page <span dir=\"rtl\">שם היו מַרְקִיבִין</span> there they were allowed to rot; and from—Esp. <i>to turn into a lump of decayed matter</i> <span class=\"refLink\" data-ref=\"Jastrow, רָקָב 1\" dir=\"rtl\" href=\"/Jastrow,_רָקָב.1\">(רָקָב</span>). <span class=\"refLink\" data-ref=\"Nazir 51b:10\" href=\"/Nazir.51b.10\">Nazir 51ᵇ</span> <span dir=\"rtl\">טחנו וחזר וה׳</span> if he powdered the mass taken from the ground, and it turned again into a lump. <br><b><br>—2)</b> <i>to cause to rot, to eat through</i>. <span class=\"refLink\" data-ref=\"Devarim Rabbah 2:2\" href=\"/Devarim_Rabbah.2.2\">Devarim Rabbah section (Parashah) 2</span> <span dir=\"rtl\">ומַרְקִיבָן</span> and eats them through, see <span class=\"refLink\" data-ref=\"Jastrow, מָסַס 1\" dir=\"rtl\" href=\"/Jastrow,_מָסַס.1\">מָסַס</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִרְקַב</strong> <i>to be worm-eaten, rot</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 91\" href=\"/Bereishit_Rabbah.91\">Breishit Rabbah section (Parashah) 91</span> <span dir=\"rtl\">גוזר … ונִרְקֶבֶת</span> he decrees concerning the grain, and it is worm-eaten; (Yalkut ib. 148 <span dir=\"rtl\">ומַרְקֶבֶת</span>, <i>Hifil</i>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָקֵב II 1",
+              "sourceHeRef": "מילון יסטרוב, רָקֵב II א׳",
+              "sourceRef": "Jastrow, רָקֵב II 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<strong>GEMARA:</strong> <b>Rav Yehuda said</b> the following inferences from the mishna: The phrase: He <b>found, excludes</b> a corpse <b>that</b> already had <b>been found.</b> If it was known that there was one corpse buried in a certain place, the discovery of two previously unknown corpses does not raise the concern that perhaps it is a forgotten graveyard. Similarly, the term <b>corpse [<i>met</i>] excludes a killed [<i>harug</i>]</b> person. Even if there were three corpses found, if there are signs that these people were killed, the area is not assumed to be a graveyard, as they may have been buried where they were found killed. Likewise, the term <b>lying excludes a sitting</b> person, as Jews were not generally buried in a seated position. The phrase: <b>In</b> the usual <b>manner, excludes</b> one <b>whose head was placed between his thighs,</b> as that is not the way Jews are buried.",
+                "<b>Ulla bar Ḥanina taught</b> a <i>baraita</i> (<i>Tosefta</i>, <i>Oholot</i> 16:2): <b>A corpse that is lacking</b> a part of his body indispensable to life <b>has no</b> <i>halakha</i> of <b>surrounding</b> earth, i.e., there is no need to remove the nearby earth along with the corpse. <b>Nor</b> does it have the <i>halakha</i> of <b>a graveyard,</b> i.e., it does not join with two other corpses to establish this site as a cemetery. The Gemara asks: <b>And</b> with regard to <b>all these</b> listed above, i.e., a corpse that was buried in a sitting position or with its head between its thighs, <b>what is the reason</b> that they are <b>not</b> considered part of a graveyard? The Gemara answers: <b>We say</b> that <b>perhaps</b> the deceased <b>was a gentile,</b> as Jews are not usually buried in these ways.",
+                "The <i>baraita</i> further states: If one <b>found two</b> corpses, with <b>the head of this</b> one <b>by the feet of that</b> one <b>and the head of that</b> one <b>by the feet of this</b> one, <b>they do not have</b> the <i>halakha</i> of <b>surrounding earth, nor</b> do they have the <i>halakha</i> of <b>a graveyard.</b> This is not the way Jews are buried, as corpses in a Jewish cemetery always face the same direction. If one <b>found three</b> corpses, <b>one</b> of which was previously <b>known, while</b> the other <b>two</b> were found <b>for the first</b> time now, <b>or</b> if one found <b>two for the first</b> time <b>and two</b> that were <b>known, they do not have</b> the <i>halakha</i> of <b>surrounding</b> earth, <b>and they</b> also <b>do not have</b> the <i>halakha</i> of <b>a graveyard.</b> One does not view these corpses as connected.",
+                "The <i>baraita</i> relates: <b>An incident</b> occurred <b>involving Rabbi Yeshevav, who examined and found two known</b> corpses <b>and one</b> corpse discovered <b>for the first</b> time, <b>and he wished to deem</b> the three corpses <b>a graveyard. Rabbi Akiva said to him: All your toil is in vain. They said</b> it is <b>a graveyard only</b> in a case <b>of three known</b> corpses buried in one spot <b>or three</b> corpses found <b>for the first</b> time. However, if some were known and others were discovered for the first time, one does not combine them."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nazir 65a:2",
+                "Nazir 65a:3",
+                "Nazir 65a:4",
+                "Nazir 65a:5"
+              ],
+              "he": [
+                "<big><strong>גְּמָ׳</strong></big> אָמַר רַב יְהוּדָה: מָצָא — פְּרָט לְמָצוּי. מֵת — פְּרָט לְהָרוּג. מוּשְׁכָּב — פְּרָט לְיוֹשֵׁב. כְּדַרְכּוֹ — פְּרָט לְשֶׁרֹאשׁוֹ מוּנָּח בֵּין יַרְכוֹתָיו.",
+                "תָּנֵי עוּלָּא בַּר חֲנִינָא: מֵת שֶׁחָסַר, אֵין לוֹ תְּפוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת. וְכׇל הָנֵי מַאי טַעְמָא לָא? אָמְרִינַן דִּילְמָא גּוֹי הוּא.",
+                "מָצָא שְׁנַיִם, רֹאשׁוֹ שֶׁל זֶה בְּצַד מַרְגְּלוֹתָיו שֶׁל זֶה, וְרֹאשׁוֹ שֶׁל זֶה בְּצַד מַרְגְּלוֹתָיו שֶׁל זֶה — אֵין לָהֶן תְּפוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת. מָצָא שְׁלֹשָׁה, הָאֶחָד יָדוּעַ וּשְׁנַיִם תְּחִילָּה, אוֹ שְׁנַיִם תְּחִילָּה וּשְׁנַיִם יְדוּעִים — אֵין לָהֶם תְּפוּסָה, וְאֵין לָהֶם שְׁכוּנַת קְבָרוֹת.",
+                "מַעֲשֶׂה בְּרַבִּי יְשֵׁבָב שֶׁבָּדַק וּמָצָא שְׁנַיִם יְדוּעִין וְאֶחָד תְּחִילָּה, וּבִיקֵּשׁ לַעֲשׂוֹתָן שְׁכוּנַת קְבָרוֹת. אָמַר לוֹ רַבִּי עֲקִיבָא: כׇּל שֶׁיָּגַעְתָּ — לָרִיק יָגַעְתָּ. לֹא אָמְרוּ שְׁכוּנַת קְבָרוֹת אֶלָּא לִשְׁלֹשָׁה יְדוּעִין, אוֹ לִשְׁלֹשָׁה תְּחִילָּה."
+              ],
+              "link": "/Nazir/65a",
+              "originalRefsBeforeRewriting": [
+                "Nazir 65a:3"
+              ],
+              "ref": "Nazir 65a:2-5",
+              "sourceHeRef": "נזיר ס״ה א",
+              "sourceRef": "Nazir 65a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The decomposed mass (<i>rekev</i>) of a corpse does not convey ritual impurity unless it was buried naked in a marble coffin and was entirely intact. If one limb was lacking or it was buried in garments or in a wooden or metal coffin, there is no concept of <i>rekev</i>. The concept of <i>rekev</i> applies with regard to a corpse alone. This excludes a person who was slain, for his blood is lacking.",
+              "he": "וְאֵין רֶקֶב הַמֵּת מְטַמֵּא עַד שֶׁיִּקָּבֵר עֵרוֹם בְּאָרוֹן שֶׁל שַׁיִשׁ וְיִהְיֶה כֻּלּוֹ שָׁלֵם. חָסֵר מִמֶּנּוּ אֵיבָר אוֹ שֶׁנִּקְבַּר בִּכְסוּתוֹ אוֹ בְּאָרוֹן שֶׁל עֵץ אוֹ בְּשֶׁל מַתֶּכֶת אֵין לוֹ רֶקֶב. וְלֹא אָמְרוּ רֶקֶב אֶלָּא לְמֵת בִּלְבַד לְהוֹצִיא הָרוּג שֶׁהֲרֵי חָסֵר דָּמוֹ:",
+              "ref": "Mishneh Torah, Nazariteship 7:3",
+              "sourceHeRef": "הלכות נזירות ז:ג",
+              "sourceRef": "Nazariteship 7:3"
+            },
+            {
+              "en": "The decomposed mass of a corpse does not impart ritual impurity unless it is buried naked in a coffin of marble, glass, or the like, and it was totally intact at the time of burial. If it was lacking a limb, it was buried in its garments, or it was buried in a coffin of wood or metal, the decomposed mass does not impart ritual impurity. The rationale is that the rot of the garment or the wood and the rust of the metal will become mixed with the decomposed mass of the corpse.<br>When any amount of earth becomes mixed with the decomposed mass of a corpse, it remains impure. These laws of <i>rekev</i> applies only to the corpse of one who died naturally. They do not apply to one who was slain.",
+              "he": "אֵין רֶקֶב הַמֵּת מְטַמֵּא עַד שֶׁיִּקָּבֵר עָרֹם בְּאָרוֹן שֶׁל שַׁיִשׁ אוֹ שֶׁל זְכוּכִית וְכַיּוֹצֵא בָּהֶן וְיִהְיֶה כֻּלּוֹ שָׁלֵם. חָסֵר מִמֶּנּוּ אֵיבָר אוֹ שֶׁנִּקְבַּר בִּכְסוּתוֹ אוֹ בְּאָרוֹן שֶׁל עֵץ אוֹ שֶׁל מַתֶּכֶת אֵין רִקְבּוֹ טָמֵא מִפְּנֵי שֶׁרֶקֶב הַכְּסוּת אוֹ רֶקֶב הָעֵץ אוֹ חֲלוּדַת הַמַּתֶּכֶת תִּתְעָרֵב בְּרֶקֶב גְּוִיָּתוֹ. וְרֶקֶב הַמְטַמֵּא שֶׁנִּתְעָרֵב בּוֹ עָפָר כָּל שֶׁהוּא הֲרֵי הוּא בְּטֻמְאָתוֹ. וְלֹא אָמְרוּ רֶקֶב אֶלָּא לְמֵת בִּלְבַד אֲבָל הָרוּג אֵין לוֹ רֶקֶב:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 3:4",
+              "sourceHeRef": "הלכות טומאת מת ג:ד",
+              "sourceRef": "Defilement by a Corpse 3:4"
+            },
+            {
+              "en": "When a corpse is lacking a limb or an organ that, were it to be removed from a living person, he would die, there is no requirement to remove the <i>tevusah</i>, nor is there an obligation to check the area around the grave. When corpses are found lying openly on the surface of a field, there is no requirement to remove the <i>tevusah</i>, nor is there an obligation to check the area around the grave. Instead, one should merely gather bone after bone, and the area is pure.<br>When a corpse is buried without permission of the owner of the field, there is a requirement to remove the <i>tevusah</i>, but there is no obligation to check the area around the grave.",
+              "he": "מֵת שֶׁחָסֵר אֵיבָר שֶׁאִם יִנָּטֵל מִן הַחַי יָמוּת אֵין לוֹ תְּבוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת. וּמֵתִים הַנִּמְצָאִים גְּלוּיִים עַל פְּנֵי הַשָּׂדֶה אֵין לָהֶם שְׁכוּנַת קְבָרוֹת וְלֹא תְּבוּסָה אֶלָּא מְלַקֵּט עֶצֶם עֶצֶם וְהַכּל טָהוֹר. וְהַנִּקְבָּר שֶׁלֹּא בִּרְשׁוּת יֵשׁ לוֹ תְּבוּסָה וְאֵין לוֹ שְׁכוּנַת קְבָרוֹת:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 9:5",
+              "sourceHeRef": "הלכות טומאת מת ט:ה",
+              "sourceRef": "Defilement by a Corpse 9:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מת שחסר</strong> - אבר כל שהוא אין לו תורת רקב:",
+              "ref": "Rashi on Nazir 51b:5:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ה:א",
+              "sourceRef": "Rashi on Nazir 51b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא תפוסה</strong> - כההיא דתנן לקמן <span class=\"parenthesized\">(נזיר דף סד:)</span> המוצא מת מושכב כדרכו נוטלו ואת תפוסתו ואילו הכא כיון דחסר אין צריך ליטול תפוסתו עמו:",
+              "ref": "Rashi on Nazir 51b:5:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ה:ב",
+              "sourceRef": "Rashi on Nazir 51b:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא שכונת קברות</strong> - כי ההיא דתנן לקמן <span class=\"parenthesized\">(שם)</span> מצא שלשה הרי זו שכונת קברות וקנה מקומו ואילו היכא דחסר אבר אחד מהן אינו שכונת קברות ולא קנה מקומו:",
+              "ref": "Rashi on Nazir 51b:5:3",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ה:ג",
+              "sourceRef": "Rashi on Nazir 51b:5:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> <b>תני</b> <span class=\"hebrew-emphasis\">[שנה</span><span class=\"hebrew-emphasis\">]</span> <b>עולא בר חנינא: מת שחסר</b> בו משהו — <b>אין לו</b> דין <b>רקב</b> שמטמא במלוא תרווד, <b>ולא</b> דין <b>תפוסה,</b> כלומר, שאם מעבירים מת שחסר מהמקום בו הוא נמצא, אין מחשבים את האדמה שמסביבו כחלק ממנו, ואין מעבירים אותה עם גופתו. <b>ו</b>כן אין לו <b>לא</b> דין <b>שכונת קברות</b> שכאשר מוצאים במקום מסויים שלושה מתים בקירבת מקום זה לזה ואחד מהם מת חסר כזה — אין מחפשים מתים סמוכים, ואין חוששים שמא היתה שם שכונת קברות, כפי שהדין כאשר מוצאים שלושה מתים שלמים, אלא דינם של הנמצאים כמתים בודדים.",
+              "ref": "Steinsaltz on Nazir 51b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:ה",
+              "sourceRef": "Steinsaltz on Nazir 51b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The dust of a corpse that is missing a limb does not impart ritual impurity (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>7:3 and <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>3:4).",
+              "he": "ומדברי הגמרא במקום אחר משמע שאם חסר כל שהוא, אפילו דבר מועט (ואפילו דם) — הרי דינו כחסר, ולכן להרוג אין רקב (ראה נדה כז, ב וברש\"י נדה כז, ב).",
+              "ref": "Steinsaltz comment #1 on Nazir 51b:5",
+              "sourceHeRef": "מֵת שֶׁחָסֵר וכו׳",
+              "sourceRef": "A corpse that lacks a part, etc."
+            },
+            {
+              "en": "If a dead person is missing a limb that would have caused his death had it been removed when he was alive, the <i>halakhot</i> of caught earth and a graveyard do not apply to this corpse (Rambam <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>9:5).",
+              "he": "מת שחסר ממנו אבר — אין רקבו מטמא. (רמב\"ם ספר הפלאה הלכות נזירות פ\"ז ה\"ג. רמב\"ם ספר טהרה הלכות טומאת מת פ\"ג ה\"ד).",
+              "ref": "Steinsaltz comment #2 on Nazir 51b:5",
+              "sourceHeRef": "וְלֹא תְּפוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת",
+              "sourceRef": "Nor the <i>halakha</i> of earth that is caught,"
+            },
+            {
+              "en": "The commentaries point out that this case is apparently not related to the <i>halakhot</i> of ritual impurity. Rather, the issue is factual: Does the discovery of three corpses indicate the presence of an ancient cemetery on the site? If so, what difference does it make if one of the bodies is missing a limb (<i>Tosafot</i>)? They suggest that perhaps it is a <i>halakha</i> transmitted to Moses from Sinai that this <i>halakha</i> of a cemetery applies only to intact corpses (see Rosh). Others propose a logical explanation: If one of the corpses is incomplete, this might indicate that a fight occurred, and the victims were buried at the site. If so, one need not be concerned that more bodies might be found there, as there is no reason to suppose that the area was ever used as a cemetery (Meiri).",
+              "he": "<EM>מת שחסר ממנו אבר שאם היה ניטל מן החי היה מת על ידי כך — אין לו תפוסה ואין בו דין שכונת קברות. (רמב\"ם ספר טהרה הלכות טומאת מת פ\"ט ה\"ה).",
+              "ref": "Steinsaltz comment #3 on Nazir 51b:5",
+              "sourceHeRef": "וְלֹא שְׁכוּנַת קְבָרוֹת",
+              "sourceRef": "Nor the <i>halakha</i> of a graveyard"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מת שחסר אין לו רקבון</strong> - שנקבר חסר:",
+              "ref": "Tosafot on Nazir 51b:5:1",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ה:א",
+              "sourceRef": "Tosafot on Nazir 51b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא תפוסה</strong> - לקמן בפ' [הכותים] <span class=\"parenthesized\">(נזיר דף סד:)</span> המוצא מת בדרך כדרכו נוטלו עם תפוסתו ודריש לה מקרא ומפרש ליה שנוטל כל עפר התיחוח ושלשה אצבעות מקרקע בתולה:",
+              "ref": "Tosafot on Nazir 51b:5:2",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ה:ב",
+              "sourceRef": "Tosafot on Nazir 51b:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא שכונת קברות</strong> - לקמן בפרק בתרא <span class=\"parenthesized\">(נזיר דף סד:)</span> אמרינן מצא שלשה מתים אם יש בין זה לזה מארבע אמות עד שמנה אמות הרי זה שכונת קברות ובודק הימנו ולהלן כי יש לחוש שמא יש שם בית הקברות ואם מצא שנים שלמים ואחד חסר אין זה שכונת קברות וצריך עיון למה אם טעם שכונת קברות משום חששא דדילמא היה שם בית הקברות אף כי אחד חסר נמי ניחוש ואם הוא הלכה למשה מסיני מוטב:",
+              "ref": "Tosafot on Nazir 51b:5:3",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ה:ג",
+              "sourceRef": "Tosafot on Nazir 51b:5:3"
+            }
+          ]
+        }
+      },
+      "en": "<b>Ulla bar Ḥanina teaches: A corpse that lacks</b> a part <b>does not have</b> the <i>halakha</i> of <b>dust,</b> which imparts ritual impurity in the amount of a full ladle, <b>nor</b> the <i>halakha</i> of earth that is <b>caught [<i>tefusa</i>]</b> and considered part of a corpse. If a deficient corpse is moved, the surrounding earth is not considered part of it and need not be moved together with the body, as must be performed for a whole corpse. <b>Nor</b> does the <i>halakha</i> of <b>a graveyard</b> apply. If three corpses are discovered in close proximity and one of them is deficient in some way, one need not search for more bodies out of concern that the location might have been a cemetery, as must be done if three intact corpses are found. Rather, the bodies are considered isolated corpses.",
+      "he": "תָּנֵי עוּלָּא בַּר חֲנִינָא: מֵת שֶׁחָסַר — אֵין לוֹ רָקָב וְלֹא תְּפוּסָה וְלֹא שְׁכוּנַת קְבָרוֹת.",
+      "ref": "Nazir 51b:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָקֵב II</strong>, <strong dir=\"rtl\">רָקַב</strong> (Biblical Hebrew) [<i>to be perforated, hollow</i>; see <span class=\"refLink\" data-ref=\"Jastrow, רוּקְבָּא II 1\" href=\"/Jastrow,_רוּקְבָּא II.1\"><span dir=\"rtl\">רוּקְבָּא</span> II</span>,] <i>to be worm-eaten, rot, decay</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:3\" href=\"/Tosefta_Terumot.6.3\">Tosefta Terumot VI, 3</span> <span dir=\"rtl\">יִרְקְבוּ</span> must be left to rot (cannot be used). <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:4\" href=\"/Tosefta_Terumot.6.4\">Ib. 4</span> <span dir=\"rtl\">תרום ותִרְקוֹב</span> separate the T’rumah, and let it rot; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְקִיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">same</span>. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> same. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> <span dir=\"rtl\">ואיני חושש שמא הִרְקִיבָה תבואה</span> and we need not take into consideration that the grain may have been attacked by worms. Ib. <span dir=\"rtl\">הלך ומצא שהִרְקִיבוּ</span> if he went (to examine) and found that it was ruined <span dir=\"rtl\">הרי זה … עד שתַּרְקִיב וכ׳</span> he must take into consideration (the possibility of having consumed untithed grain) from the time that the grain may have begun to be attacked, or the wine to become sour. Ib. IX (VII), 12 <span dir=\"rtl\">נימוק או שהִירְקִיב</span> if the document is decayed or worm-eaten. Yerushalmi Yoma VII, 44ᵇ bottom of page <span dir=\"rtl\">שם היו מַרְקִיבִין</span> there they were allowed to rot; and from—Esp. <i>to turn into a lump of decayed matter</i> <span class=\"refLink\" data-ref=\"Jastrow, רָקָב 1\" dir=\"rtl\" href=\"/Jastrow,_רָקָב.1\">(רָקָב</span>). <span class=\"refLink\" data-ref=\"Nazir 51b:10\" href=\"/Nazir.51b.10\">Nazir 51ᵇ</span> <span dir=\"rtl\">טחנו וחזר וה׳</span> if he powdered the mass taken from the ground, and it turned again into a lump. <br><b><br>—2)</b> <i>to cause to rot, to eat through</i>. <span class=\"refLink\" data-ref=\"Devarim Rabbah 2:2\" href=\"/Devarim_Rabbah.2.2\">Devarim Rabbah section (Parashah) 2</span> <span dir=\"rtl\">ומַרְקִיבָן</span> and eats them through, see <span class=\"refLink\" data-ref=\"Jastrow, מָסַס 1\" dir=\"rtl\" href=\"/Jastrow,_מָסַס.1\">מָסַס</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִרְקַב</strong> <i>to be worm-eaten, rot</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 91\" href=\"/Bereishit_Rabbah.91\">Breishit Rabbah section (Parashah) 91</span> <span dir=\"rtl\">גוזר … ונִרְקֶבֶת</span> he decrees concerning the grain, and it is worm-eaten; (Yalkut ib. 148 <span dir=\"rtl\">ומַרְקֶבֶת</span>, <i>Hifil</i>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָקֵב II 1",
+              "sourceHeRef": "מילון יסטרוב, רָקֵב II א׳",
+              "sourceRef": "Jastrow, רָקֵב II 1"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "1) An olive’s quantity of flesh severed from a limb of a living man: 1) Rabbi Eliezer pronounces impure and Rabbi Joshua and Rabbi Nehunia pronounce pure. a) A barley-grain’s quantity of bone severed from a limb of a living man, b) Rabbi Nehunia pronounces impure and Rabbi Eliezer and Rabbi Joshua pronounce pure. 2) They said to Rabbi Eliezer: what reason have you found for pronouncing impure an olive’s quantity of flesh severed from a limb of a living man? 1) He said to them: we find that a limb from a living man is like an entire corpse; just as in the case of a corpse, an olive’s quantity of flesh severed from it is impure, so also in the case of a limb from a living man an olive’s quantity of flesh severed from it must be impure. 2) They said to him: No! When you pronounce impure an olive’s quantity of flesh severed from a corpse, it is because you have pronounced impure a barley-grain’s quantity of bone severed from it. But how can you also pronounce impure an olive’s quantity of flesh severed from a limb of a living man, seeing that you have pronounced pure a barley-grain’s quantity of bone severed from it? 3) They said to Rabbi Nehunia: what reason have you found for pronouncing impure a barley-grain’s quantity of bone severed from a limb of a living man? 1) He said to them: we find that a limb from a living man is like an entire corpse; just as in the case of a corpse, a barley-grain’s quantity of bone severed from it is impure, so also in the case of a limb from a living man, a barley-grain’s quantity of bone severed from it must be impure. 2) They said to him: No! When you pronounce impure a barley-grain’s quantity of bone severed from a corpse, it is because you have pronounced impure an olive’s quantity of flesh severed from it. But how can you also pronounce impure a barley-grain’s quantity of bone severed from a limb of a living man, seeing that you have pronounced pure an olive’s quantity of flesh severed from it? 1) They said to Rabbi Eliezer: what reason have you found for dividing your standards? Either pronounce them both impure, or pronounce them both pure! 1) He said to them: greater is the impurity of flesh than the impurity of bones, for the defilement of flesh applies both to (animal) carcasses and to creeping things, but it is not so in the case of bones. Another answer: a limb which has on it the proper quantity of flesh causes impurity by touching and by carrying and by being under the same roof-space (ohel); if the flesh is diminished it is still impure, while if the bone is diminished it is pure. They said to Rabbi Nehunia: what reason have you found for dividing your standards? Either pronounce them both impure, or pronounce them both pure! He said to them: greater is the impurity of bones than the impurity of flesh, for flesh severed from a living man is pure, whereas a limb severed from him, while in its natural condition, is impure. Another answer: an olive’s quantity of flesh (from a corpse) causes impurity by touching and by carrying and by being under the same roof-space (ohel); and a majority of a corpse’s bones causes impurity by touching and by carrying and by being under the same roof-space (ohel); if the flesh is diminished it is pure, but if a majority of the bones is diminished, although it does not cause impurity by being under the same roof-space, it yet causes defilement by touching and by carrying.Another answer: any flesh of a corpse less than an olive’s quantity is pure, but bones forming the greater portion of the body’ build or the greater portion of the number of the corpse’s bones, even though they do not fill a quarter-kav are yet impure. They said to Rabbi Joshua: what reason have you found for pronouncing them both pure? He said to them: No! When you pronounce impure in the case of a corpse, it is because the rules of “majority”, “quarter-kav”, and “decayed matter” apply to it. But how can you say the same of a living man, seeing that the rules of “majority”, “quarter-kav”, and “decayed matter” do not apply to him?",
+              "he": "כַּזַּיִת בָּשָׂר הַפּוֹרֵשׁ מֵאֵבָר מִן הַחַי, רַבִּי אֱלִיעֶזֶר מְטַמֵּא, וְרַבִּי יְהוֹשֻׁעַ וְרַבִּי נְחוּנְיָא מְטַהֲרִים. עֶצֶם כַּשְּׂעֹרָה הַפּוֹרֵשׁ מֵאֵבָר מִן הַחַי, רַבִּי נְחוּנְיָא מְטַמֵּא, וְרַבִּי אֱלִיעֶזֶר וְרַבִּי יְהוֹשֻׁעַ מְטַהֲרִין. אָמְרוּ לוֹ לְרַבִּי אֱלִיעֶזֶר, מָה רָאִיתָ לְטַמֵּא כַזַּיִת בָּשָׂר הַפּוֹרֵשׁ מֵאֵבָר מִן הַחַי. אָמַר לָהֶם, מָצִינוּ אֵבֶר מִן הַחַי כְּמֵת שָׁלֵם. מַה הַמֵּת, כַּזַּיִת בָּשָׂר הַפּוֹרֵשׁ מִמֶּנּוּ טָמֵא, אַף אֵבֶר מִן הַחַי, כַּזַּיִת בָּשָׂר הַפּוֹרֵשׁ מִמֶּנּוּ יִהְיֶה טָמֵא. אָמְרוּ לוֹ, לֹא, אִם טִמֵּאתָ כַזַּיִת בָּשָׂר הַפּוֹרֵשׁ מִן הַמֵּת, שֶׁכֵּן טִמֵּאתָ עֶצֶם כַּשְּׂעֹרָה הַפּוֹרֵשׁ מִמֶּנּוּ, תְּטַמֵּא כַזַּיִת בָּשָׂר הַפּוֹרֵשׁ מֵאֵבָר מִן הַחַי, שֶׁכֵּן טִהַרְתָּ עֶצֶם כַּשְּׂעֹרָה הַפּוֹרֵשׁ הֵימֶנּוּ. אָמְרוּ לוֹ לְרַבִּי נְחוּנְיָא, מָה רָאִיתָ לְטַמֵּא עֶצֶם כַּשְּׂעֹרָה הַפּוֹרֵשׁ מֵאֵבָר מִן הַחַי. אָמַר לָהֶם, מָצִינוּ אֵבֶר מִן הַחַי כְּמֵת שָׁלֵם. מַה הַמֵּת, עֶצֶם כַּשְּׂעֹרָה הַפּוֹרֵשׁ מִמֶּנּוּ טָמֵא, אַף אֵבֶר מִן הַחַי, עֶצֶם כַּשְּׂעֹרָה הַפּוֹרֵשׁ מִמֶּנּוּ יִהְיֶה טָמֵא. אָמְרוּ לוֹ, לֹא, אִם טִמֵּאתָ עֶצֶם כַּשְּׂעֹרָה הַפּוֹרֵשׁ מִן הַמֵּת, שֶׁכֵּן טִמֵּאתָ כַזַּיִת בָּשָׂר הַפּוֹרֵשׁ מִמֶּנּוּ, תְּטַמֵּא עֶצֶם כַּשְּׂעֹרָה הַפּוֹרֵשׁ מֵאֵבָר מִן הַחַי, שֶׁכֵּן טִהַרְתָּ כַזַּיִת בָּשָׂר הַפּוֹרֵשׁ מִמֶּנּוּ. אָמְרוּ לוֹ לְרַבִּי אֱלִיעֶזֶר, מָה רָאִיתָ לַחֲלֹק מִדּוֹתֶיךָ, אוֹ טַמֵּא בִשְׁנֵיהֶם אוֹ טַהֵר בִּשְׁנֵיהֶם. אָמַר לָהֶם, מְרֻבָּה טֻמְאַת הַבָּשָׂר מִטֻּמְאַת הָעֲצָמוֹת, שֶׁהַבָּשָׂר נוֹהֵג בַּנְּבֵלוֹת וּבַשְּׁרָצִים, מַה שֶּׁאֵין כֵּן בָּעֲצָמוֹת. דָּבָר אַחֵר, אֵבֶר שֶׁיֵּשׁ עָלָיו בָּשָׂר כָּרָאוּי, מְטַמֵּא בְמַגָּע וּבְמַשָּׂא וּבְאֹהֶל. חָסֵר הַבָּשָׂר, טָמֵא. חָסֵר הָעֶצֶם, טָהוֹר. אָמְרוּ לוֹ לְרַבִּי נְחוּנְיָא, מָה רָאִיתָ לַחֲלֹק מִדּוֹתֶיךָ, אוֹ טַמֵּא בִשְׁנֵיהֶם אוֹ טַהֵר בִּשְׁנֵיהֶם. אָמַר לָהֶם, מְרֻבָּה טֻמְאַת הָעֲצָמוֹת מִטֻּמְאַת הַבָּשָׂר, שֶּׁהַבָּשָׂר הַפּוֹרֵשׁ מִן הַחַי טָהוֹר, וְאֵבָר הַפּוֹרֵשׁ מִמֶּנּוּ, וְהוּא כִבְרִיָּתוֹ, טָמֵא. דָּבָר אַחֵר, כַּזַּיִת בָּשָׂר מְטַמֵּא בְמַגָּע וּבְמַשָּׂא וּבְאֹהֶל, וְרֹב עֲצָמוֹת מְטַמְּאִים בְּמַגָּע וּבְמַשָּׂא וּבְאֹהֶל. חָסֵר הַבָּשָׂר, טָהוֹר. חָסֵר רֹב עֲצָמוֹת, אַף עַל פִּי שֶׁטָּהוֹר מִלְּטַמֵּא בְאֹהֶל, מְטַמֵּא בְמַגָּע וּבְמַשָּׂא. דָּבָר אַחֵר, כָּל בְּשַׂר הַמֵּת, שֶׁהוּא פָחוֹת מִכַּזַּיִת, טָהוֹר. רֹב בִּנְיָנוֹ וְרֹב מִנְיָנוֹ שֶׁל מֵת, אַף עַל פִּי שֶׁאֵין בָּהֶם רֹבַע, טְמֵאִין. אָמְרוּ לוֹ לְרַבִּי יְהוֹשֻׁעַ, מָה רָאִיתָ לְטַהֵר בִּשְׁנֵיהֶם. אָמַר לָהֶם, לֹא, אִם אֲמַרְתֶּם בַּמֵּת, שֶׁיֶּשׁ בּוֹ רֹב וְרֹבַע וְרָקָב, תֹּאמְרוּ בַחַי שֶׁאֵין בּוֹ רֹב וְרֹבַע וְרָקָב:",
+              "link": "/Mishnah Eduyot/6",
+              "ref": "Mishnah Eduyot 6:3",
+              "sourceHeRef": "משנה עדיות ו:ג",
+              "sourceRef": "Mishnah Eduyot 6:3"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following entities impart ritual impurity when they are touched, carried, or one is under the same structure: a) a corpse, even a stillborn fetus whose limbs have not become attached to its body with sinews, b) an olive-sized portion of flesh from a corpse, c) an olive-sized portion of <i>netzal</i>, d) a limb from a living person that has the required amount of flesh, e) a limb from a corpse that has the required amount of flesh, f) the backbone of a corpse, g) its skull, h) the majority of its structure, i) the majority of the number of its bones, j) a fourth of a <i>kab</i> of bones in any instance, even if they do not comprise the majority of the structure of the number of the bones of the corpse, k) a <i>revi'it</i> of blood, and l) a <i>revi'it</i> of blood of \"weltering blood\"; twelve entities in total.",
+              "he": "אֵלוּ מְטַמְּאִין בְּמַגָּע וּבְמַשָּׂא וּבְאֹהֶל. הַמֵּת אֲפִלּוּ נֵפֶל שֶׁלֹּא נִתְקַשְּׁרוּ אֵיבָרָיו בְּגִידִין. וּכְזַיִת מִבְּשַׂר הַמֵּת. וּכְזַיִת נֶצֶל. וְאֵיבָר מִן הַחַי. וְאֵיבָר מִן הַמֵּת שֶׁיֵּשׁ עֲלֵיהֶם בָּשָׂר כָּרָאוּי. וְהַשִּׁדְרָה וְהַגֻּלְגּלֶת. וְרֹב בִּנְיָנוֹ וְרֹב מִנְיָנוֹ. וְרֹבַע עֲצָמוֹת מִכָּל מָקוֹם אַף עַל פִּי שֶׁאֵין בָּהֶן לֹא רֹב בִּנְיָן וְלֹא רֹב מִנְיָן. וּרְבִיעִית דַּם. וּרְבִיעִית דַּם תְּבוּסָה. הַכּל שְׁתֵּים עֶשְׂרֵה:",
+              "ref": "Mishneh Torah, Defilement by a Corpse 3:1",
+              "sourceHeRef": "הלכות טומאת מת ג:א",
+              "sourceRef": "Defilement by a Corpse 3:1"
+            },
+            {
+              "en": "These are the types of impurity stemming from contact with a corpse that a nazirite must shave because of [contact with] them: a) a stillborn fetus, even if the sinews connecting its limbs have not formed, b) an olive-sized portion of the flesh of a corpse, c) an olive-sized portion of a decomposed corpse, d) bones from a corpse which represent the majority of the number of the bones of a corpse even though their volume is not a fourth of a <i>kav,</i> e) bones which represent the majority of the structure of the bones of a corpse even though their volume is not a fourth of a <i>kav</i>, f) a half of a <i>kav</i> of bones even though they do not represent the majority of the number or the structure of the bones of the corpse - all the bones must, however, be from one corpse, not from two, g) the backbone that comes from one corpse, h) the skull that comes from one corpse, i) a [complete] limb that comes from one corpse, j) a limb taken from a living person that has flesh that could cause it to regenerate in a living person, k) half a <i>log</i> of blood from one corpse, and l) a handful of the decomposed mass of a corpse.<br>What is meant by the term <i>netzel</i>? Flesh from a corpse that decomposed and became putrid liquid.",
+              "he": "וְאֵלּוּ טֻמְאוֹת מִן הַמֵּת שֶׁהַנָּזִיר מְגַלֵּחַ עֲלֵיהֶן. עַל הַנֵּפֶל וַאֲפִלּוּ לֹא נִתְקַשְּׁרוּ אֵיבָרָיו בְּגִידִין. וְעַל כְּזַיִת מִבְּשַׂר הַמֵּת. וְעַל כְּזַיִת נֶצֶל. וְעַל עֲצָמוֹת שֶׁהֵן רֹב מִנְיַן הָעֲצָמוֹת אַף עַל פִּי שֶׁאֵין בָּהֶן רֹבַע הַקַּב. וְעַל עֲצָמוֹת שֶׁהֵן רֹב בִּנְיָנוֹ שֶׁל מֵת וְאַף עַל פִּי שֶׁאֵין בָּהֶן רֹבַע הַקַּב. וְעַל חֲצִי קַב עֲצָמוֹת אַף עַל פִּי שֶׁאֵין בָּהֶן לֹא רֹב בִּנְיָנוֹ וְלֹא רֹב מִנְיָנוֹ. וְכָל הָעֲצָמוֹת יִהְיוּ מִשֶּׁל מֵת אֶחָד וְלֹא מִשְּׁנֵי מֵתִים. וְעַל הַשִּׁדְרָה הַבָּאָה מִמֵּת אֶחָד. וְעַל הַגֻּלְגּלֶת שֶׁל מֵת אֶחָד. וְעַל אֵיבָר מִן הַמֵּת הַבָּא מִמֵּת אֶחָד. וְעַל אֵיבָר מִן הַחַי מֵאָדָם אֶחָד. שֶׁיֵּשׁ עֲלֵיהֶן בָּשָׂר שֶׁרָאוּי לַעֲלוֹת בּוֹ אֲרוּכָה בְּחַי. וְעַל חֲצִי לוֹג דָּם הַבָּא מִמֵּת אֶחָד. וְעַל מְלֹא חָפְנַיִם רֶקֶב הַמֵּת. אֵי זֶהוּ נֶצֶל זֶה בְּשַׂר הַמֵּת שֶׁנִּמּוֹחַ וְנַעֲשָׂה לֵחָה סְרוּחָה:",
+              "ref": "Mishneh Torah, Nazariteship 7:2",
+              "sourceHeRef": "הלכות נזירות ז:ב",
+              "sourceRef": "Nazariteship 7:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איתיביה</strong> - בסיפא קאי לא אם אמרת במת שהוא מטמא באהל שיש לו רוב בניינו מטמא באהל ורובע הקב עצמות:",
+              "ref": "Rashi on Nazir 51b:6:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ו:א",
+              "sourceRef": "Rashi on Nazir 51b:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">תאמר באבר מן החי כו'</strong> - שאין רקב שלו טמא והיכי דמי בחי דאין לו תורת רקב כגון דארקיב ביה חד אבר אבל במת כי האי גוונא יש לו תורת רקב ושמע מינה דאע\"ג דלא אירקיב בו אלא אבר אחד יש רקב:",
+              "ref": "Rashi on Nazir 51b:6:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ו:ב",
+              "sourceRef": "Rashi on Nazir 51b:6:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי</b> <span class=\"hebrew-emphasis\">[מקשים</span><span class=\"hebrew-emphasis\">]</span> על כך: אמרנו במשנה, בדין של כזית בשר שפרש מאבר מן החי, בשאלה האם הוא מטמא כבשר הפורש מאבר מן המת: <b>לא, אם אמרת במת שיש לו</b> חומרה גדולה יותר לענין טומאה, ש<b>רוב</b> בנין או מנין עצמותיו, <b>ורובע</b> הקב מעצמותיו. <b>או</b> אף <b>מלא תרווד רקב</b> מטמאים, <b>תאמר בחי שאין לו לא רוב ולא רובע ולא מלא תרווד רקב.</b>",
+              "ref": "Steinsaltz on Nazir 51b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:ו",
+              "sourceRef": "Steinsaltz on Nazir 51b:6"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מיתיבי לא אם אמרת במת כו'</strong> - במס' עדיות <span class=\"parenthesized\">(פ\"ו מ\"ג)</span> תנן לה דאיפלגו על כזית בשר [הפורש] מן האבר מן החי דאיכא למאן דמטהר ואיכא למאן דמטמא ויליף לה מבשר הפורש מאבר מן המת ומותיב לא אם אמרת באבר מן המת שכן במת יש בו כמה חומרות רוב ורובע ומלא תרווד ברוב פירוש רוב בנין או רוב מנין ורוב רובע קב עצמות דמטמא באהל וכן מלא תרווד רקב מן המת שמטמא באהל כדתני באהלות והיכי דמי דאין לו רקב לחי כמו דארקיב חד אבר דכוותה גבי מת אפי' ארקיב חד אבר אם חתך האבר ממנו יש לו רקב ואמאי והא מת חסר הוא ומשני מי קתני הא מת הא קמ\"ל שום מת יש לו רקב ובמת שאינו חסר שום חי אין לו רקב וכדאיתא שחתך אבר מן החי ונרקב:",
+              "ref": "Tosafot on Nazir 51b:6:1",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:ו:א",
+              "sourceRef": "Tosafot on Nazir 51b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara <b>raises an objection</b> from a mishna (<i>Eduyyot</i> 6:3) that addresses the question of whether an olive-bulk of flesh that came from a living person imparts ritual impurity as it would were it to come from a corpse: <b>No, if you say</b> that an olive-bulk of flesh imparts impurity <b>with regard to a corpse, whose</b> <i>halakhot</i> of impurity are stringent, as <b>the majority</b> of its structure or the majority of the number of its bones, <b>or a quarter-</b><i>kav</i> of its bones, <b>or</b> even <b>a full ladle of</b> its <b>dust</b> impart impurity, <b>shall you</b> also <b>say</b> that it imparts impurity <b>with regard to a living</b> person, <b>who does not have</b> the <i>halakha</i> of <b>the majority</b> of structure or the majority of the number of its bones, <b>nor a quarter-</b><i>kav</i>, <b>nor a full ladle of dust?</b>",
+      "he": "מֵיתִיבִי: לֹא, אִם אָמַרְתָּ בְּמֵת שֶׁיֵּשׁ לוֹ רוֹב וְרוֹבַע אוֹ מְלֹא תַרְווֹד רָקָב — תֹּאמַר בְּחַי, שֶׁאֵין לוֹ לֹא רוֹב, וְלֹא רוֹבַע, וְלֹא מְלֹא תַרְווֹד רָקָב?!",
+      "ref": "Nazir 51b:6"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָקֵב II</strong>, <strong dir=\"rtl\">רָקַב</strong> (Biblical Hebrew) [<i>to be perforated, hollow</i>; see <span class=\"refLink\" data-ref=\"Jastrow, רוּקְבָּא II 1\" href=\"/Jastrow,_רוּקְבָּא II.1\"><span dir=\"rtl\">רוּקְבָּא</span> II</span>,] <i>to be worm-eaten, rot, decay</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:3\" href=\"/Tosefta_Terumot.6.3\">Tosefta Terumot VI, 3</span> <span dir=\"rtl\">יִרְקְבוּ</span> must be left to rot (cannot be used). <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:4\" href=\"/Tosefta_Terumot.6.4\">Ib. 4</span> <span dir=\"rtl\">תרום ותִרְקוֹב</span> separate the T’rumah, and let it rot; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְקִיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">same</span>. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> same. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> <span dir=\"rtl\">ואיני חושש שמא הִרְקִיבָה תבואה</span> and we need not take into consideration that the grain may have been attacked by worms. Ib. <span dir=\"rtl\">הלך ומצא שהִרְקִיבוּ</span> if he went (to examine) and found that it was ruined <span dir=\"rtl\">הרי זה … עד שתַּרְקִיב וכ׳</span> he must take into consideration (the possibility of having consumed untithed grain) from the time that the grain may have begun to be attacked, or the wine to become sour. Ib. IX (VII), 12 <span dir=\"rtl\">נימוק או שהִירְקִיב</span> if the document is decayed or worm-eaten. Yerushalmi Yoma VII, 44ᵇ bottom of page <span dir=\"rtl\">שם היו מַרְקִיבִין</span> there they were allowed to rot; and from—Esp. <i>to turn into a lump of decayed matter</i> <span class=\"refLink\" data-ref=\"Jastrow, רָקָב 1\" dir=\"rtl\" href=\"/Jastrow,_רָקָב.1\">(רָקָב</span>). <span class=\"refLink\" data-ref=\"Nazir 51b:10\" href=\"/Nazir.51b.10\">Nazir 51ᵇ</span> <span dir=\"rtl\">טחנו וחזר וה׳</span> if he powdered the mass taken from the ground, and it turned again into a lump. <br><b><br>—2)</b> <i>to cause to rot, to eat through</i>. <span class=\"refLink\" data-ref=\"Devarim Rabbah 2:2\" href=\"/Devarim_Rabbah.2.2\">Devarim Rabbah section (Parashah) 2</span> <span dir=\"rtl\">ומַרְקִיבָן</span> and eats them through, see <span class=\"refLink\" data-ref=\"Jastrow, מָסַס 1\" dir=\"rtl\" href=\"/Jastrow,_מָסַס.1\">מָסַס</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִרְקַב</strong> <i>to be worm-eaten, rot</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 91\" href=\"/Bereishit_Rabbah.91\">Breishit Rabbah section (Parashah) 91</span> <span dir=\"rtl\">גוזר … ונִרְקֶבֶת</span> he decrees concerning the grain, and it is worm-eaten; (Yalkut ib. 148 <span dir=\"rtl\">ומַרְקֶבֶת</span>, <i>Hifil</i>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָקֵב II 1",
+              "sourceHeRef": "מילון יסטרוב, רָקֵב II א׳",
+              "sourceRef": "Jastrow, רָקֵב II 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כי מטמא היכא דהרקיב כולו כשהוא מת</strong> - והאי כשהוא חי הרקיב מקצתו ואין לו תורת רקב:",
+              "ref": "Rashi on Nazir 51b:7:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ז:א",
+              "sourceRef": "Rashi on Nazir 51b:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי קתני הא דכוותיה במת</strong> - אלא לעולם לא קשיא והא קמ\"ל דשום מת יש לו רקב כשהוא שלם ולא כשהוא חסר:",
+              "ref": "Rashi on Nazir 51b:7:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ז:ב",
+              "sourceRef": "Rashi on Nazir 51b:7:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ושום חי אין לו רקב</strong> - דאי אירקיב כוליה ה\"ל מת ולא חי ואי אירקיב חד אבר השתא י\"ל במת אין לו תורת רקב בחי לא כ\"ש:",
+              "ref": "Rashi on Nazir 51b:7:3",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ז:ג",
+              "sourceRef": "Rashi on Nazir 51b:7:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ונברר: <b>היכי דמי</b> <span class=\"hebrew-emphasis\">[כיצד בדיוק</span><span class=\"hebrew-emphasis\">]</span> מדובר באותה משנה העוסקת באבר מן החי — במקרה <b>דארקיב חד אבר</b> <span class=\"hebrew-emphasis\">[שנרקב אבר אחד</span><span class=\"hebrew-emphasis\">]</span> מן החי, <b>דכוותיה</b> <b>גבי</b> <span class=\"hebrew-emphasis\">[שכיוצא בו אצל</span><span class=\"hebrew-emphasis\">]</span> <b>מת</b> אמרה אותה משנה כי <b>אפילו חד אבר איכא</b> <span class=\"hebrew-emphasis\">[באבר אחד יש</span><span class=\"hebrew-emphasis\">]</span> <b>רקב,</b> ומתוך כך נלמד שלא רק מת שלם יש לו רקב, אלא אף מת שחסר! ודוחים: <b>מי קתני הא מת</b> <span class=\"hebrew-emphasis\">[האם שנה</span> שם כי מת זה<span class=\"hebrew-emphasis\">]</span> המקרה המיוחד בו דנה המשנה — אבר בודד, יש לו רקב? דיוק זה אנו אמרנו ואינו משמעות המשנה, אלא <b>הא קא משמע לן</b> <span class=\"hebrew-emphasis\">[דבר זה השמיע לנו</span><span class=\"hebrew-emphasis\">]:</span> <b>שום</b> (שם) <b>מת,</b> דין המת בכללו — <b>יש לו רקב, שום</b> (שם) <b>חי,</b> דינו — <b>אין לו רקב.</b>",
+              "ref": "Steinsaltz on Nazir 51b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:ז",
+              "sourceRef": "Steinsaltz on Nazir 51b:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara analyzes this passage: <b>What are the circumstances</b> of that mishna that deals with a limb from a living person? If you say <b>that one limb</b> of a living person <b>decayed,</b> and the mishna is indicating <b>that in the corresponding</b> situation <b>with regard to a corpse, there is dust even</b> from <b>one limb.</b> This shows that the <i>halakha</i> of dust applies to a corpse that is missing a limb and not just to a complete corpse. The Gemara rejects this argument: <b>Did</b> the mishna <b>teach that this corpse</b> in that particular case of an isolated limb has the <i>halakha</i> of dust? That is merely an inference, as it is not stated explicitly in the mishna itself. Rather, the mishna <b>teaches us this: The name,</b> i.e., the category, <b>of a corpse has dust.</b> However, <b>the name of a living</b> person <b>does not have dust.</b>",
+      "he": "הֵיכִי דָּמֵי — דְּאַרְקִיב חַד אֵבֶר, דִּכְווֹתֵיהּ גַּבֵּי מֵת: אֲפִילּוּ חַד אֵבֶר אִיכָּא רָקָב! מִי קָתָנֵי הָא מֵת? הָא קָא מַשְׁמַע לַן: שׁוּם מֵת — יֵשׁ לוֹ רָקָב, שׁוּם חַי — אֵין לוֹ רָקָב.",
+      "ref": "Nazir 51b:7"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָקֵב II</strong>, <strong dir=\"rtl\">רָקַב</strong> (Biblical Hebrew) [<i>to be perforated, hollow</i>; see <span class=\"refLink\" data-ref=\"Jastrow, רוּקְבָּא II 1\" href=\"/Jastrow,_רוּקְבָּא II.1\"><span dir=\"rtl\">רוּקְבָּא</span> II</span>,] <i>to be worm-eaten, rot, decay</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:3\" href=\"/Tosefta_Terumot.6.3\">Tosefta Terumot VI, 3</span> <span dir=\"rtl\">יִרְקְבוּ</span> must be left to rot (cannot be used). <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:4\" href=\"/Tosefta_Terumot.6.4\">Ib. 4</span> <span dir=\"rtl\">תרום ותִרְקוֹב</span> separate the T’rumah, and let it rot; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְקִיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">same</span>. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> same. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> <span dir=\"rtl\">ואיני חושש שמא הִרְקִיבָה תבואה</span> and we need not take into consideration that the grain may have been attacked by worms. Ib. <span dir=\"rtl\">הלך ומצא שהִרְקִיבוּ</span> if he went (to examine) and found that it was ruined <span dir=\"rtl\">הרי זה … עד שתַּרְקִיב וכ׳</span> he must take into consideration (the possibility of having consumed untithed grain) from the time that the grain may have begun to be attacked, or the wine to become sour. Ib. IX (VII), 12 <span dir=\"rtl\">נימוק או שהִירְקִיב</span> if the document is decayed or worm-eaten. Yerushalmi Yoma VII, 44ᵇ bottom of page <span dir=\"rtl\">שם היו מַרְקִיבִין</span> there they were allowed to rot; and from—Esp. <i>to turn into a lump of decayed matter</i> <span class=\"refLink\" data-ref=\"Jastrow, רָקָב 1\" dir=\"rtl\" href=\"/Jastrow,_רָקָב.1\">(רָקָב</span>). <span class=\"refLink\" data-ref=\"Nazir 51b:10\" href=\"/Nazir.51b.10\">Nazir 51ᵇ</span> <span dir=\"rtl\">טחנו וחזר וה׳</span> if he powdered the mass taken from the ground, and it turned again into a lump. <br><b><br>—2)</b> <i>to cause to rot, to eat through</i>. <span class=\"refLink\" data-ref=\"Devarim Rabbah 2:2\" href=\"/Devarim_Rabbah.2.2\">Devarim Rabbah section (Parashah) 2</span> <span dir=\"rtl\">ומַרְקִיבָן</span> and eats them through, see <span class=\"refLink\" data-ref=\"Jastrow, מָסַס 1\" dir=\"rtl\" href=\"/Jastrow,_מָסַס.1\">מָסַס</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִרְקַב</strong> <i>to be worm-eaten, rot</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 91\" href=\"/Bereishit_Rabbah.91\">Breishit Rabbah section (Parashah) 91</span> <span dir=\"rtl\">גוזר … ונִרְקֶבֶת</span> he decrees concerning the grain, and it is worm-eaten; (Yalkut ib. 148 <span dir=\"rtl\">ומַרְקֶבֶת</span>, <i>Hifil</i>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָקֵב II 1",
+              "sourceHeRef": "מילון יסטרוב, רָקֵב II א׳",
+              "sourceRef": "Jastrow, רָקֵב II 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעי רבא הרקיב</strong> - חד אבר כשהוא חי בין שמיטפל עמו בין שאינו מיטפל ולאח\"כ חזר והרקיב כולו מהו:",
+              "ref": "Rashi on Nazir 51b:8:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ח:א",
+              "sourceRef": "Rashi on Nazir 51b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כי מטמא היכא דהרקיב כולו כשהוא מת</strong> - והאי כשהוא חי הרקיב מקצתו ואין לו תורת רקב:",
+              "ref": "Rashi on Nazir 51b:8:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ח:ב",
+              "sourceRef": "Rashi on Nazir 51b:8:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">או דלמא הא מיית</strong> - וכהרקיב כולו כשהוא מת דמי:",
+              "ref": "Rashi on Nazir 51b:8:3",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:ח:ג",
+              "sourceRef": "Rashi on Nazir 51b:8:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בעי</b> <span class=\"hebrew-emphasis\">[שאל</span><span class=\"hebrew-emphasis\">]</span> <b>רבא: הרקיב</b> אבר מן הגוף <b>כשהוא חי, וחזר</b> אותו איש <b>ומת, מהו?</b> האם נאמר <b>כי גמירי</b> <span class=\"hebrew-emphasis\">[כאשר למדנו</span> במסורת<span class=\"hebrew-emphasis\">]</span> דין <b>רקב</b> שמטמא, הרי זה <b>דאירקיב</b> <span class=\"hebrew-emphasis\">[כשנרקב</span><span class=\"hebrew-emphasis\">]</span> <b>כשהוא מת</b> ולא כשהרקיב בחייו, ונמצא שדינו כמת שחסר, ואין רקב שלו מטמא. <b>או דלמא השתא מיהא הא מיית</b> <span class=\"hebrew-emphasis\">[או שמא עכשיו על כל פנים הריהו מת</span><span class=\"hebrew-emphasis\">]</span> וכל גופו רקוב עתה במותו?",
+              "ref": "Steinsaltz on Nazir 51b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:ח",
+              "sourceRef": "Steinsaltz on Nazir 51b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If part of a dead person rotted during his lifetime, it is uncertain whether one who comes into contact with the rest of his dust after his death is impure, as this dilemma was not resolved in the Gemara (Rambam <i>Sefer Hafla’a</i>,<i> Hilkhot Nezirut </i>7:4 and <i>Sefer Tahara</i>,<i> Hilkhot Tumat Met </i>3:7).",
+              "he": "רוב המפרשים סבורים שהאבר הזה נרקב בעוד האיש חי, והיה מחובר בו בשעת מותו (כגון שהיה לו נמק באחד מאבריו, שהוא נרקב בחייו). אולם מדברי המפרש נראה שהוא הדין אם נרקב האבר הזה בחייו וחתכוהו, ואחר כך חזרו וקברוהו בסמוך לאבר זה, שכיון שיש שם מת שלם אין דנים אותו כמת שחסר אף שנחתך מתחילה (וראה בקרן אורה וברכת ראש, וכיוונו לדברי הר\"פ).",
+              "ref": "Steinsaltz comment #1 on Nazir 51b:8",
+              "sourceHeRef": "הִרְקִיב כְּשֶׁהוּא חַי וכו׳",
+              "sourceRef": "Decayed when he was alive, etc."
+            },
+            {
+              "en": "",
+              "he": "הרקיב מקצתו של המת כשהוא חי, ומת והרקיב כולו — הרי זה ספק טמא, ואם נטמא לרקב זה — הרי זה ספק טמא. שבעיה זו לא נפשטה (כ\"מ). (רמב\"ם ספר הפלאה הלכות נזירות פ\"ז ה\"ד. רמב\"ם ספר טהרה הלכות טומאת מת פ\"ג ה\"ז).",
+              "ref": "Steinsaltz comment #2 on Nazir 51b:8",
+              "sourceHeRef": "הרקיב כשהוא חי וכו'",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> raised a dilemma:</b> If a limb of a body <b>decayed when he was alive, and</b> that individual <b>subsequently died, what is</b> the <i>halakha</i>? Do we say that <b>when</b> this <b>is learned</b> as a tradition that <b>dust</b> imparts ritual impurity, this applies only <b>if</b> the body <b>decayed when he was dead,</b> but not when he was alive, and therefore this corpse is considered deficient and its dust does not impart impurity? <b>Or perhaps, now in any event he is dead,</b> and his whole body has decomposed, and consequently its dust does impart impurity.",
+      "he": "בָּעֵי <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: הִרְקִיב כְּשֶׁהוּא חַי, וְחָזַר וּמֵת, מַהוּ? כִּי גְּמִירִי רָקָב, דְּאִירְקִיב כְּשֶׁהוּא מֵת. אוֹ דִלְמָא הַשְׁתָּא מִיהָא הָא מָיֵית?",
+      "ref": "Nazir 51b:8"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָקֵב II</strong>, <strong dir=\"rtl\">רָקַב</strong> (Biblical Hebrew) [<i>to be perforated, hollow</i>; see <span class=\"refLink\" data-ref=\"Jastrow, רוּקְבָּא II 1\" href=\"/Jastrow,_רוּקְבָּא II.1\"><span dir=\"rtl\">רוּקְבָּא</span> II</span>,] <i>to be worm-eaten, rot, decay</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:3\" href=\"/Tosefta_Terumot.6.3\">Tosefta Terumot VI, 3</span> <span dir=\"rtl\">יִרְקְבוּ</span> must be left to rot (cannot be used). <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:4\" href=\"/Tosefta_Terumot.6.4\">Ib. 4</span> <span dir=\"rtl\">תרום ותִרְקוֹב</span> separate the T’rumah, and let it rot; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְקִיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">same</span>. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> same. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> <span dir=\"rtl\">ואיני חושש שמא הִרְקִיבָה תבואה</span> and we need not take into consideration that the grain may have been attacked by worms. Ib. <span dir=\"rtl\">הלך ומצא שהִרְקִיבוּ</span> if he went (to examine) and found that it was ruined <span dir=\"rtl\">הרי זה … עד שתַּרְקִיב וכ׳</span> he must take into consideration (the possibility of having consumed untithed grain) from the time that the grain may have begun to be attacked, or the wine to become sour. Ib. IX (VII), 12 <span dir=\"rtl\">נימוק או שהִירְקִיב</span> if the document is decayed or worm-eaten. Yerushalmi Yoma VII, 44ᵇ bottom of page <span dir=\"rtl\">שם היו מַרְקִיבִין</span> there they were allowed to rot; and from—Esp. <i>to turn into a lump of decayed matter</i> <span class=\"refLink\" data-ref=\"Jastrow, רָקָב 1\" dir=\"rtl\" href=\"/Jastrow,_רָקָב.1\">(רָקָב</span>). <span class=\"refLink\" data-ref=\"Nazir 51b:10\" href=\"/Nazir.51b.10\">Nazir 51ᵇ</span> <span dir=\"rtl\">טחנו וחזר וה׳</span> if he powdered the mass taken from the ground, and it turned again into a lump. <br><b><br>—2)</b> <i>to cause to rot, to eat through</i>. <span class=\"refLink\" data-ref=\"Devarim Rabbah 2:2\" href=\"/Devarim_Rabbah.2.2\">Devarim Rabbah section (Parashah) 2</span> <span dir=\"rtl\">ומַרְקִיבָן</span> and eats them through, see <span class=\"refLink\" data-ref=\"Jastrow, מָסַס 1\" dir=\"rtl\" href=\"/Jastrow,_מָסַס.1\">מָסַס</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִרְקַב</strong> <i>to be worm-eaten, rot</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 91\" href=\"/Bereishit_Rabbah.91\">Breishit Rabbah section (Parashah) 91</span> <span dir=\"rtl\">גוזר … ונִרְקֶבֶת</span> he decrees concerning the grain, and it is worm-eaten; (Yalkut ib. 148 <span dir=\"rtl\">ומַרְקֶבֶת</span>, <i>Hifil</i>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָקֵב II 1",
+              "sourceHeRef": "מילון יסטרוב, רָקֵב II א׳",
+              "sourceRef": "Jastrow, רָקֵב II 1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומציעים: <b>תא שמע</b> <span class=\"hebrew-emphasis\">[בוא</span> ושמע<span class=\"hebrew-emphasis\">]</span> מן המשנה שהבאנו לעיל: <b>לא, אם אמרת במת שיש לו רוב, ורובע, ומלא תרווד רקב, תאמר בחי כו'</b> שאין בו כל אלה, ובכללם דין רקב.",
+              "ref": "Steinsaltz on Nazir 51b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:ט",
+              "sourceRef": "Steinsaltz on Nazir 51b:9"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara suggests: <b>Come</b> and <b>hear</b> the aforementioned mishna: <b>No, if you say</b> that an olive-bulk of flesh imparts impurity <b>with regard to a corpse, whose</b> <i>halakhot</i> of impurity are stringent, as <b>the majority</b> of its structure or the majority of the number of its bones, <b>or a quarter-</b><i>kav</i> of its bones, <b>or</b> even <b>a full ladle of</b> its <b>dust</b> imparts impurity, <b>shall you</b> also <b>say</b> that it imparts impurity <b>with regard to a living</b> person, who does not have the <i>halakha</i> of the majority of structure or the majority of the number of its bones, nor a quarter-<i>kav</i>, nor a full ladle of dust.",
+      "he": "תָּא שְׁמַע: לֹא אִם אָמַרְתָּ בְּמֵת שֶׁיֵּשׁ לוֹ רוֹב וְרוֹבַע וּמְלֹא תַרְווֹד רָקָב, תֹּאמַר בְּחַי כּוּ׳.",
+      "ref": "Nazir 51b:9"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רָקֵב II</strong>, <strong dir=\"rtl\">רָקַב</strong> (Biblical Hebrew) [<i>to be perforated, hollow</i>; see <span class=\"refLink\" data-ref=\"Jastrow, רוּקְבָּא II 1\" href=\"/Jastrow,_רוּקְבָּא II.1\"><span dir=\"rtl\">רוּקְבָּא</span> II</span>,] <i>to be worm-eaten, rot, decay</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:3\" href=\"/Tosefta_Terumot.6.3\">Tosefta Terumot VI, 3</span> <span dir=\"rtl\">יִרְקְבוּ</span> must be left to rot (cannot be used). <span class=\"refLink\" data-ref=\"Tosefta Terumot 6:4\" href=\"/Tosefta_Terumot.6.4\">Ib. 4</span> <span dir=\"rtl\">תרום ותִרְקוֹב</span> separate the T’rumah, and let it rot; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְקִיב</strong> <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">same</span>. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> same. <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 141:2\" href=\"/Yalkut_Shimoni_on_Torah.141.2\">Yalkut Breishit 141</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רָקֵב I 1\" href=\"/Jastrow,_רָקֵב I.1\">preceding</span> <span class=\"refLink\" data-ref=\"Tosefta Gittin 3:2\" href=\"/Tosefta_Gittin.3.2\">Tosefta Gittin III, 2</span> <span dir=\"rtl\">ואיני חושש שמא הִרְקִיבָה תבואה</span> and we need not take into consideration that the grain may have been attacked by worms. Ib. <span dir=\"rtl\">הלך ומצא שהִרְקִיבוּ</span> if he went (to examine) and found that it was ruined <span dir=\"rtl\">הרי זה … עד שתַּרְקִיב וכ׳</span> he must take into consideration (the possibility of having consumed untithed grain) from the time that the grain may have begun to be attacked, or the wine to become sour. Ib. IX (VII), 12 <span dir=\"rtl\">נימוק או שהִירְקִיב</span> if the document is decayed or worm-eaten. Yerushalmi Yoma VII, 44ᵇ bottom of page <span dir=\"rtl\">שם היו מַרְקִיבִין</span> there they were allowed to rot; and from—Esp. <i>to turn into a lump of decayed matter</i> <span class=\"refLink\" data-ref=\"Jastrow, רָקָב 1\" dir=\"rtl\" href=\"/Jastrow,_רָקָב.1\">(רָקָב</span>). <span class=\"refLink\" data-ref=\"Nazir 51b:10\" href=\"/Nazir.51b.10\">Nazir 51ᵇ</span> <span dir=\"rtl\">טחנו וחזר וה׳</span> if he powdered the mass taken from the ground, and it turned again into a lump. <br><b><br>—2)</b> <i>to cause to rot, to eat through</i>. <span class=\"refLink\" data-ref=\"Devarim Rabbah 2:2\" href=\"/Devarim_Rabbah.2.2\">Devarim Rabbah section (Parashah) 2</span> <span dir=\"rtl\">ומַרְקִיבָן</span> and eats them through, see <span class=\"refLink\" data-ref=\"Jastrow, מָסַס 1\" dir=\"rtl\" href=\"/Jastrow,_מָסַס.1\">מָסַס</span>.<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִרְקַב</strong> <i>to be worm-eaten, rot</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 91\" href=\"/Bereishit_Rabbah.91\">Breishit Rabbah section (Parashah) 91</span> <span dir=\"rtl\">גוזר … ונִרְקֶבֶת</span> he decrees concerning the grain, and it is worm-eaten; (Yalkut ib. 148 <span dir=\"rtl\">ומַרְקֶבֶת</span>, <i>Hifil</i>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, רָקֵב II 1",
+              "sourceHeRef": "מילון יסטרוב, רָקֵב II א׳",
+              "sourceRef": "Jastrow, רָקֵב II 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא מת</strong> - לאחר כך יש לו רקב דאע\"ג דהרקיב במקצת כשהוא חי:",
+              "ref": "Rashi on Nazir 51b:10:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:י:א",
+              "sourceRef": "Rashi on Nazir 51b:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי קתני הא מת</strong> - לאח\"כ אע\"ג דנרקב מחיים דיש לו רקב לא הכי קאמר דשום מת יש לו רקב שום חי אין לו רקב:",
+              "ref": "Rashi on Nazir 51b:10:2",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:י:ב",
+              "sourceRef": "Rashi on Nazir 51b:10:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ונדייק: <b>טעמא</b> <span class=\"hebrew-emphasis\">[הטעם</span> דווקא<span class=\"hebrew-emphasis\">]</span> <b>משום</b> שהוא עדיין <b>חי, הא</b> <span class=\"hebrew-emphasis\">[הרי</span><span class=\"hebrew-emphasis\">]</span> אם היה <b>מת —</b> <b>יש לו רקב</b> ואפילו נרקב בחייו! ודוחים: <b>מי קתני הא מת</b> <span class=\"hebrew-emphasis\">[האם שנה</span> שם כי מת זה<span class=\"hebrew-emphasis\">]</span> במקרה בו דנה המשנה — באבר מן החי, יש לו רקב? אין לדייק כך, אלא <b>הא קא משמע לן</b> <span class=\"hebrew-emphasis\">[</span>דבר זה השמיע לנו<span class=\"hebrew-emphasis\">]</span> ש<b>שום</b> (שם) <b>מת,</b> דין המת בכללו <b>יש לו רקב, שום</b> (שם) <b>חי —</b> <b>אין לו רקב.</b>",
+              "ref": "Steinsaltz on Nazir 51b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:י",
+              "sourceRef": "Steinsaltz on Nazir 51b:10"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">טעמא משום חי</strong> - י' כל זמן שהוא חי אין לו רקב אבל מת יש לו רקב כגון מת אדם אחד שנרקב בעודו חי אחד מאבריו יש לו רקב לאותו אבר אע\"פ שהרקיב בעודו חי ומשני מי קתני [הא מת] הא קמ\"ל דשום מת יש לו רקב כשנרקב לאחר שמת ושום חי אין לו רקב אפי' כי מת אחרי כן אין האבר שנרקב בעודו חי מטמא כדין רקב:",
+              "ref": "Tosafot on Nazir 51b:10:1",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:י:א",
+              "sourceRef": "Tosafot on Nazir 51b:10:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara infers from this passage: <b>The reason</b> the olive-bulk of flesh does not impart impurity <b>is due to</b> the fact that it is from <b>a living</b> person, from which it may be inferred that in a corresponding situation involving <b>a corpse,</b> the corpse <b>has</b> the <i>halakha</i> of <b>dust,</b> even if the limb had decomposed during the deceased’s lifetime. The Gemara rejects this contention as above: <b>Did</b> the mishna <b>teach that this corpse</b> in that particular case of an isolated limb has the <i>halakha</i> of dust? That is merely an inference, as it is not stated explicitly in the mishna itself. Rather, the mishna <b>teaches us this: The name,</b> i.e., the category, <b>of a corpse has dust.</b> However, <b>the name of a living</b> person <b>does not have dust.</b>",
+      "he": "טַעְמָא מִשּׁוּם חַי, הָא מֵת יֵשׁ לוֹ רָקָב! מִי קָתָנֵי הָא מֵת? הָא קָא מַשְׁמַע לַן דְּשׁוּם מֵת — יֵשׁ לוֹ רָקָב, שׁוּם חַי — אֵין לוֹ רָקָב.",
+      "ref": "Nazir 51b:10"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בעי רבא נמלה שחסרה</strong> - כל שהו ואכלה מהו שיעור נמלה שלימה גמירי לה דכי אכיל חייב ואילו היכא דחסרה הוי פטור או דלמא בריה גמירי לה דכי אכיל בריה מיחייב וכי חסרה נמי חייב דהאיכא בריה ואמרינן רובו ככולו:",
+              "ref": "Rashi on Nazir 51b:11:1",
+              "sourceHeRef": "רש\"י על נזיר נ״א ב:יא:א",
+              "sourceRef": "Rashi on Nazir 51b:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> אגב הדיון במת שחסר, שאין לו כל דיני מת, מביאים, <b>בעי</b> <span class=\"hebrew-emphasis\">[שאל</span><span class=\"hebrew-emphasis\">]</span> <b>רבא: נמלה שחסרה,</b> כגון שניטלה אחת מרגליה, <b>מהו</b> לענין מלקות על אכילתה? כי כאשר אדם אוכל נמלה שלימה, גם אם אין בה שיעור אכילה של כזית חייב עליה משום אכילת שרץ, כיון שהיא בריה שלימה. וצדדי השאלה: <b>שיעורא</b> <span class=\"hebrew-emphasis\">[שיעור</span><span class=\"hebrew-emphasis\">]</span> נמלה שלימה <b>גמירין לה</b> <span class=\"hebrew-emphasis\">[למדנו</span> במסורת<span class=\"hebrew-emphasis\">]</span> שחייבים עליו — <b>והא</b> <span class=\"hebrew-emphasis\">[ו</span>אילו זה<span class=\"hebrew-emphasis\">]</span> <b>חסר. או</b> שעל <b>בריה</b> (יצור) <b>גמירי לה</b> <span class=\"hebrew-emphasis\">[למדנו</span> במסורת<span class=\"hebrew-emphasis\">]</span> שחייבים — <b>והאיכא</b> <span class=\"hebrew-emphasis\">[וזה יש כאן</span><span class=\"hebrew-emphasis\">]</span> שהחסרון שבה אינו מוציא אותה מכלל בריה.",
+              "ref": "Steinsaltz on Nazir 51b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על נזיר נ״א ב:יא",
+              "sourceRef": "Steinsaltz on Nazir 51b:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והכרח יש לומר שחסר בה אבר כזה שיכולה לחיות גם בלעדיו, כך שאין לומר שחסרון זה מבטל ממנה דין בריה (תוס').",
+              "ref": "Steinsaltz comment #1 on Nazir 51b:11",
+              "sourceHeRef": "נמלה שחסרה",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "כלומר דין האיסור בשרץ שלם (כגון נמלה) אף שאין צריך בו שיעור כזית של אכילה, מכל מקום אין איסור זה חל אלא על שיעור זה של בריה שלימה כפי שהיא. ולכן אם נחסר בה דבר מה, אף שעדיין היא בריה — מכל מקום אין בה שיעור ראוי. והריהי כדבר המטמא בשיעור כעדשה, שאם נחסר משהו — בטל שיעורו.",
+              "ref": "Steinsaltz comment #2 on Nazir 51b:11",
+              "sourceHeRef": "שיעורא גמירין",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "שלענין זה הרי אומרים רובו ככולו, וכיון שרוב הבריה קיים — הריהי נחשבת כבריה (המפרש). או מפני שבריה זו יכולה להמשיך לחיות גם בחסרון אבר זה, לא בטל ממנה דין בריה (תוס' ועוד).",
+              "ref": "Steinsaltz comment #3 on Nazir 51b:11",
+              "sourceHeRef": "בריה גמירי",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נמלה שחסרה מהו</strong> - דאמר בפ' אלו הן הלוקין <span class=\"parenthesized\">(מכות יג.)</span> האוכל נמלה חייב עליה בכל שהוא אע\"פ שאין בה כזית ומיבעיא ליה אם נקצצו רגליה שעדיין היא יכולה לחיות ועדיין שם בריה עליה:",
+              "ref": "Tosafot on Nazir 51b:11:1",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:יא:א",
+              "sourceRef": "Tosafot on Nazir 51b:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי אמרינן שיעורא גמירי</strong> - כלומר שלימה בבריה והא חסרה או דלמא בריה גמירי לה והויא לה שרץ הואיל ועדיין ראויה לחיות:",
+              "ref": "Tosafot on Nazir 51b:11:2",
+              "sourceHeRef": "תוספות על נזיר נ״א ב:יא:ב",
+              "sourceRef": "Tosafot on Nazir 51b:11:2"
+            }
+          ]
+        }
+      },
+      "en": "In relation to the above discussion concerning a body without a limb, <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> raised a dilemma:</b> If someone eats an entire ant, even if it is less than an olive-bulk in volume, he is liable for eating a creeping animal because it is a whole creature. <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span>’s dilemma was as follows: If one eats <b>an ant that lacks</b> a part, e.g., a leg, <b>what is</b> the <i>halakha</i>? Is this individual liable to receive lashes? The two possibilities are as follows: <b>Is</b> it <b>learned</b> as tradition that <b>the amount</b> for which one is liable is a whole ant, <b>and this one is lacking? Or</b> did <b>we learn</b> that he is punished for a viable <b>entity, and there is</b> a viable entity here, despite the missing limb?",
+      "he": "בָּעֵי <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>: נְמָלָה שֶׁחָסְרָה, מַהוּ? שִׁיעוּרָא גְּמִירִין לַהּ — וְהָא חֲסַר. אוֹ בְּרִיָּה גְּמִירִי לַהּ — וְהָאִיכָּא.",
+      "ref": "Nazir 51b:11",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Nazir 51b",
+  "titleHebrew": "נזיר נא,ב",
+  "topics": []
+}

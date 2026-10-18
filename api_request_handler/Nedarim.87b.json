@@ -1,0 +1,1123 @@
+{
+  "id": "87b",
+  "sections": [
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">הֲפָרָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, הָפֵר 1\" href=\"/Jastrow,_הָפֵר.1\">preceding</span>) <i>invalidation, declaring void;</i> also <i>absolution for cause</i> (see <span class=\"refLink\" data-ref=\"Jastrow, הַתָּרָה 1\" dir=\"rtl\" href=\"/Jastrow,_הַתָּרָה.1\">הַתָּרָה</span>). <span class=\"refLink\" data-ref=\"Mishnah Nedarim 10:8\" href=\"/Mishnah_Nedarim.10.8\">Nedarim X, 8</span> <span dir=\"rtl\">הֲפָרַת נדרים כל היום</span> the right (of the father or the husband) to declare a vow void lasts the whole day on which it came to his notice (to sunset); Yerushalmi ib. 42ᵃ bottom of page <span dir=\"rtl\">הפר נדרים מעת לעת</span> twenty four hours; <span class=\"refLink\" data-ref=\"Tosefta Nedarim 6:1\" href=\"/Tosefta_Nedarim.6.1\">Tosefta ib. VI, 1</span>; <span class=\"refLink\" data-ref=\"Shabbat 157a:7\" href=\"/Shabbat.157a.7\">Shabbat 157ᵃ</span>.—<span class=\"refLink\" data-ref=\"Nedarim 87b:1\" href=\"/Nedarim.87b.1\">Nedarim 87ᵇ</span> <span dir=\"rtl\">מה הקמה ממנו אף ה׳ ממנו</span> as the confirmation may be partial, so may the invalidation &c.; and from—<span class=\"refLink\" data-ref=\"Gittin 36a:1\" href=\"/Gittin.36a.1\">Gittin 36ᵃ</span> <span dir=\"rtl\">אין לו ה׳</span> cannot be absolved from. <span class=\"refLink\" data-ref=\"Shevuot 29b:1\" href=\"/Shevuot.29b.1\">Shevuot 29ᵇ</span> top <span dir=\"rtl\">כי היכי … ה׳</span> in order to make absolution impossible."
+              ],
+              "he": [],
+              "ref": "Jastrow, הֲפָרָה 1",
+              "sourceHeRef": "מילון יסטרוב, הֲפָרָה א׳",
+              "sourceRef": "Jastrow, הֲפָרָה 1"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הפר לתאנים אינו מופר עד שיפר אף לענבים</strong> - אינו מופר כל הנדר כדאמרינן בהקמה דאם קיים מקצתו קיים כולו אי נמי אינו מופר כלל אפילו לתאנים וכמו שכתבתי במשנתנו:",
+              "ref": "Ran on Nedarim 87b:1:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:א:א",
+              "sourceRef": "Ran on Nedarim 87b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מה יקימנו ממנו</strong> - דמשמע דבמקצתו דהיינו ממנו הוקם כולו דיקימנו הכי משמע אף יפרנו נמי אע\"ג דלא משמע הכי אפ\"ה הא איתקוש:",
+              "ref": "Ran on Nedarim 87b:1:2",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:א:ב",
+              "sourceRef": "Ran on Nedarim 87b:1:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הפר לתאנים אינו מופר</strong> - קסבר הפרה במקצת לאו שמה הפרה עד שיפר אף לענבים:",
+              "ref": "Rashi on Nedarim 87b:1:1",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:א:א",
+              "sourceRef": "Rashi on Nedarim 87b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קונם תאנה זו שאיני טועמת וענבה זו שאיני טועמת הרי אלו שני נדרים</strong> - הואיל וחילקה טעימה בינתים שאם קיים לענבים לא קיים לתאנים וחייב עליהן שני לאוין:",
+              "ref": "Rashi on Nedarim 87b:1:2",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:א:ב",
+              "sourceRef": "Rashi on Nedarim 87b:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אף יפרנו ממנו</strong> - ואם הפר למקצתו הפר כולו:",
+              "ref": "Rashi on Nedarim 87b:1:3",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:א:ג",
+              "sourceRef": "Rashi on Nedarim 87b:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולר\"ע רבי ישמעאל קמהדר גבי יפרנו מי כתיב יפר ממנו</strong> - גבי הקמה איכא למדרש הכי דהא כתיב יקימנו לשון יקים ממנו <span class=\"parenthesized\">(דלא שויוה רבנן למימר דהקמה עיקר)</span>: זו דברי ר' ישמעאל ור\"ע: דתרווייהו מודו בהקמה אבל חכמים אומרים מקיש הקמה להפרה מה הפרה במקצת מה שהפר לא הופר דהא לא כתיב יפר ממנו אף הקמה מה שקיים לא קיים אע\"ג דאיכא למידרש יקים ממנו [דלא שויוה רבנן למימר דהקמה עיקר]:",
+              "ref": "Rashi on Nedarim 87b:1:4",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:א:ד",
+              "sourceRef": "Rashi on Nedarim 87b:1:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אם <b>הפר לתאנים —</b> <b>אינו מופר עד שיפר אף לענבים,</b> אלו <b>דברי ר' ישמעאל. ר' עקיבא אומר: הרי הוא אומר \"אישה יקימנו ואישה יפרנו\"</b> (במדבר ל, יד), <b>מה \"יקימנו\"</b> יש לפרשו כאילו היה כתוב <b>\"</b>יקים — <b>ממנו\",</b> שאם קיים חלק ממנו הרי כולו קיים, <b>אף \"יפרנו\"</b> יש להבין <b>\"</b>יפר — <b>ממנו\"</b> שאם הפר מקצתו — כולו מופר. <b>ור' ישמעאל</b> עונה על כך: <b>מי כתיב</b> <span class=\"hebrew-emphasis\">[האם נאמר]</span> <b>\"יפר ממנו\"</b> כפי שנאמר בהקמה? <b>ור' עקיבא</b> משיב: <b>מקיש</b> <span class=\"hebrew-emphasis\">[משווה]</span> הכתוב <b>הפרה להקמה, מה הקמה</b> היא <b>ממנו,</b> כלומר, אפילו בחלקו, <b>אף הפרה ממנו.</b>",
+              "ref": "Steinsaltz on Nedarim 87b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ז ב:א",
+              "sourceRef": "Steinsaltz on Nedarim 87b:1"
+            }
+          ]
+        }
+      },
+      "en": "But if <b>he nullified</b> it <b>with regard to figs, it is not nullified until he will also nullify</b> the vow <b>for grapes.</b> This is <b>the statement of <span href=\"/topics/rabbi-yishmael-b-elisha\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-elisha\">Rabbi Yishmael</span>. <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span> says</b> that the verse <b>states: “Her husband may uphold it, or her husband may nullify it.” Just as</b> the words <b>“may uphold it”</b> [<b><i>yekimennu</i></b>] should be understood as if they read: He may uphold <b>part of it</b> [<i>yakim <b>mimmennu</b></i>], implying that if he upheld part of the vow he has upheld all of it, <b>so too,</b> the words <b>“he may nullify it”</b> [<b><i>yeferennu</i></b>] should be understood as if they read: He may nullify <b>part of it [</b><i>yafer <b>mimmennu</b></i><b>]. And <span href=\"/topics/rabbi-yishmael-b-elisha\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-elisha\">Rabbi Yishmael</span></b> retorts: <b>Is it written: He may nullify part of it,</b> with a <i>mem</i>, as it is written with respect to a husband who upholds the vow? <b>And <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span></b> replies: The verse <b>juxtaposes nullification to upholding; just as upholding</b> means <b>part of it, so too, nullification</b> means <b>part of it.</b>",
+      "he": "הֵפֵר לִתְאֵנִים — אֵינוֹ מוּפָר עַד שֶׁיָּפֵר אַף לַעֲנָבִים, דִּבְרֵי רַבִּי יִשְׁמָעֵאל. רַבִּי עֲקִיבָא אוֹמֵר: הֲרֵי הוּא אוֹמֵר ״אִישָׁהּ יְקִימֶנּוּ וְאִישָׁהּ יְפֵרֶנּוּ״, מָה ״יְקִימֶנּוּ״ — מִמֶּנּוּ, אַף ״יְפֵרֶנּוּ״ — מִמֶּנּוּ. וְרַבִּי יִשְׁמָעֵאל: מִי כְּתִיב ״יָפֵר מִמֶּנּוּ״? וְרַבִּי עֲקִיבָא: מַקִּישׁ הֲפָרָה לַהֲקָמָה, מָה הֲקָמָה — מִמֶּנּוּ, אַף הֲפָרָה — מִמֶּנּוּ.",
+      "ref": "Nedarim 87b:1"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בהר\"ן ד\"ה אבל חכמים אומרים.</b> אלמא וכו'. עיין בר\"ן לעיל דף פב ע\"ב ד\"ה ור\"א אר\"י:",
+              "ref": "Gilyon HaShas on Nedarim 87b:1",
+              "sourceHeRef": "גליון הש\"ס על נדרים פ״ז ב:א",
+              "sourceRef": "Gilyon HaShas on Nedarim 87b:1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>Rabbi Ḥiyya, son of Rabbi Abba, said</b> that <b>Rabbi Yoḥanan said: These are the statements of Rabbi Yishmael and Rabbi Akiva. However, the Rabbis say: We require</b> that <b>six complete</b> twelve-hour <b>periods</b> elapse between cohabitation and discharge. If a woman discharged semen less than seventy-two hours after having relations, the semen renders her ritually impure. <b>Rav Ḥisda said:</b> The <b>dispute</b> over how long semen renders one ritually impure is only with regard to semen that <b>is discharged from a woman; however,</b> if it <b>is discharged from a man,</b> e.g., it was on a garment, <b>it is impure as long as it is moist,</b> regardless of how much time passed since its discharge. <b>Rav Sheshet raises an objection</b> based on what was taught in a <i>baraita</i>: The Torah states: <b>“And every garment, and every hide on which there is semen</b> shall be immersed in water, and be impure until evening” (Leviticus 15:17). And the Sages taught: This <b>excludes semen which is foul. What, is it not</b> referring to semen <b>discharged from a man,</b> indicating that even moist semen becomes foul after a certain period of time and no longer transmits impurity? The Gemara rejects this: <b>No,</b> this <i>halakha</i> is referring to semen <b>that was discharged from a woman.</b>",
+                "<b>Rav Pappa raised a dilemma: What is</b> the <i>halakha</i> with regard to <b>semen of a Jew in the womb of a gentile woman?</b> Do we say that since <b>Jews are concerned about</b> fulfilling <b>mitzvot,</b> due to that concern, <b>their body</b> temperature <b>is hot</b> and semen that is not absorbed becomes foul faster, in contrast to <b>gentiles who are not concerned about</b> fulfilling <b>mitzvot</b> for whom that is <b>not</b> the case? <b>Or, perhaps, since</b> gentiles <b>eat detestable creatures and creeping animals their body</b> temperature <b>is</b> also <b>hot? And if you say that since</b> they <b>eat detestable creatures and creeping animals, their body</b> temperature <b>is hot,</b> another dilemma can be raised: <b>What is</b> the <i>halakha</i> with regard to semen of a Jew <b>in the womb of an animal?</b> Do we say that in <b>a woman, who has a</b> long <b>corridor [<i>perozdor</i>]</b> to her womb, the semen becomes <b>foul; but</b> in <b>an animal, which does not have</b> as long <b>a corridor,</b> it does <b>not? Or perhaps</b> it is <b>not different,</b> and the period of time that the semen renders one ritually impure is the same in both cases? No resolution was found for these dilemmas. Therefore, <b>let them stand</b> unresolved."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shabbat 86b:3",
+                "Shabbat 86b:4"
+              ],
+              "he": [
+                "אָמַר רַבִּי חִיָּיא בְּרַבִּי אַבָּא אָמַר רַבִּי יוֹחָנָן: זוֹ דִּבְרֵי רַבִּי יִשְׁמָעֵאל וְרַבִּי עֲקִיבָא, אֲבָל חֲכָמִים אוֹמְרִים: שֵׁשׁ עוֹנוֹת שְׁלֵמוֹת בָּעֵינַן. אָמַר רַב חִסְדָּא: מַחֲלוֹקֶת שֶׁפֵּירְשָׁה מִן הָאִשָּׁה, אֲבָל פֵּירְשָׁה מִן הָאִישׁ — טְמֵאָה כׇּל זְמַן שֶׁהִיא לַחָה. מֵתִיב רַב שֵׁשֶׁת: ״וְכׇל בֶּגֶד וְכׇל עוֹר אֲשֶׁר יִהְיֶה עָלָיו שִׁכְבַת זָרַע״ — פְּרָט לְשִׁכְבַת זֶרַע שֶׁהִיא סְרוּחָה. מַאי לָאו שֶׁפֵּירְשָׁה מִן הָאִישׁ? לָא, שֶׁפֵּירְשָׁה מִן הָאִשָּׁה.",
+                "בָּעֵי רַב פָּפָּא: שִׁכְבַת זֶרַע שֶׁל יִשְׂרָאֵל בִּמְעֵי גוֹיָה מַהוּ? יִשְׂרָאֵל דִּדְאִיגִי בְּמִצְוֹת — חֲבִיל גּוּפַיְיהוּ, גּוֹיִם דְּלָא דְּאִיגִי בְּמִצְוֹת — לָא. אוֹ דִילְמָא: כֵּיוָן דְּאָכְלִין שְׁקָצִים וּרְמָשִׂים חֲבִיל גּוּפַיְיהוּ. וְאִם תִּמְצֵי לוֹמַר כֵּיוָן דְּאָכְלִי שְׁקָצִים וּרְמָשִׂים חֲבִיל גּוּפַיְיהוּ: בִּמְעֵי בְּהֵמָה מַהוּ? אִשָּׁה הִיא דְּאִית לַהּ פְּרוֹזְדוֹר — מַסְרְחָא, אֲבָל בְּהֵמָה דְּלֵית לַהּ פְּרוֹזְדוֹר — לָא, אוֹ דִילְמָא לָא שְׁנָא. תֵּיקוּ."
+              ],
+              "link": "/Shabbat/86b",
+              "originalRefsBeforeRewriting": [
+                "Shabbat 86b:3"
+              ],
+              "ref": "Shabbat 86b:3-4",
+              "sourceHeRef": "שבת פ״ו ב",
+              "sourceRef": "Shabbat 86b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "[When a woman takes a vow,] forbidding herself to [partake of] figs and grapes, whether through a vow or through an oath, whether she forbade herself from [partaking of] all types of the species or she said: \"These figs and these grapes,\" if [her husband] upheld [the vow] concerning figs and nullified that concerning grapes or upheld [the vow] concerning grapes and nullified that concerning figs, what he upheld is binding and what he nullified is nullified. Similar laws apply in all analogous situations. With regard to the nullification of a vow, we do not say that when a portion of a vow has been nullified, the entire vow is nullified, as is said with regard to the absolution of vows.",
+              "he": "אָסְרָה עַצְמָהּ בִּתְאֵנִים וַעֲנָבִים בֵּין בְּנֵדֶר בֵּין בִּשְׁבוּעָה. בֵּין שֶׁאָסְרָה עַצְמָהּ בְּכָל הַמִּין. בֵּין שֶׁאָמְרָה תְּאֵנִים וַעֲנָבִים אֵלּוּ. וְקִיֵּם לִתְאֵנִים וְהֵפֵר לַעֲנָבִים. אוֹ שֶׁקִּיֵּם לַעֲנָבִים וְהֵפֵר לִתְאֵנִים. מַה שֶּׁקִּיֵּם קַיָּם וּמַה שֶּׁהֵפֵר מוּפָר. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה. וְאֵין אוֹמְרִין בַּהֲפָרָה נֵדֶר שֶׁהוּפַר מִקְצָתוֹ הוּפַר כֻּלּוֹ כְּדֶרֶךְ שֶׁאוֹמְרִין בְּהַתָּרָה:",
+              "ref": "Mishneh Torah, Vows 13:10",
+              "sourceHeRef": "הלכות נדרים יג:י",
+              "sourceRef": "Vows 13:10"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל חכמים אומרים מקיש הקמה להפרה מה הפרה מה שהפר הפר</strong> - זו היא גירסת הספרים ולפי זה הא דתנן הפר לתאנים אינו מופר כל הנדר קאמר אבל מה שהפר הופר דאי אינו מופר כלל מאי קאמרי רבנן מה הפרה מה שהפר הופר דמשמע דכ\"ע מודו בהפרה ולא איצטריך להו לרבנן אלא לאקשויי הקמה להפרה דהא בהפרה גופה פליג תנא דמתניתין אלא ודאי לפי גרסא זו משמע דכולהו מודו מה שהפר הופר אבל בתוספתא <span class=\"parenthesized\">(פ\"ז)</span> לא משמע הכי דתניא התם נדרה מן התאנים ומן הענבים הפר לתאנים ולא הפר לענבים וחשכה אסורה בין בתאנים בין בענבים אלמא אינו מופר כלל קאמר לפיכך נראה גרסת קצת ספרים עיקר דגרסי הכי אבל חכמים אומרים מה הפרה מה שהפר לא הופר אף הקמה מה שקיים לא קיים וכן גרסת הרב רבינו משה בר נחמן ז\"ל בהלכותיו:",
+              "ref": "Ran on Nedarim 87b:2:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ב:א",
+              "sourceRef": "Ran on Nedarim 87b:2:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "How does he nullify [the vow]? He says: \"It is nullified,\" \"It is void,\" \"This vow is of no consequence,\" or uses other terms that imply that the vow is nullified from the outset, whether in the woman's presence or in her absence.<br>If, however, he tells her: \"I cannot bear your taking a vow\" or \"This is not a vow,\" he did not nullify it. Similarly, if he tells his wife or his daughter: \"[Your vow] is forgiven,\" \"[It] is released,\" \"[It] is absolved,\" or the like, his statements are of no consequence. For a father and a husband do not release a vow like a sage does, but instead, uproot the vow from the outset and nullify it.",
+                      "he": "וְכֵיצַד מֵפֵר. אוֹמֵר מוּפָר אוֹ בָּטֵל אוֹ אֵין נֵדֶר זֶה כְּלוּם וְכַיּוֹצֵא בִּדְבָרִים שֶׁעִנְיָנָם עֲקִירַת הַנֵּדֶר מֵעִקָּרוֹ. בֵּין בְּפָנֶיהָ בֵּין שֶׁלֹּא בְּפָנֶיהָ. אֲבָל אִם אָמַר לָהּ אִי אֶפְשִׁי שֶׁתִּדֹּרִי אוֹ אֵין כָּאן נֵדֶר הֲרֵי זֶה לֹא הֵפֵר. וְכֵן הָאוֹמֵר לְאִשְׁתּוֹ אוֹ לְבִתּוֹ מָחוּל לִיךְ אוֹ מֻתָּר לִיךְ אוֹ שָׁרוּי לִיךְ וְכָל כַּיּוֹצֵא בְּעִנְיָן זֶה לֹא אָמַר כְּלוּם. שֶׁאֵין הָאָב וְהַבַּעַל מַתִּיר כְּמוֹ הֶחָכָם אֶלָּא עוֹקֵר הַנֵּדֶר מִתְּחִלָּתוֹ וּמְפֵרוֹ:",
+                      "ref": "Mishneh Torah, Vows 13:2",
+                      "sourceHeRef": "הלכות נדרים יג:ב",
+                      "sourceRef": "Vows 13:2"
+                    },
+                    {
+                      "en": "How do we release [an oath]? The person who took the oath must come before the distinguished sage or three ordinary people if there is no expert. He says: \"I took an oath concerning this and this and I have changed my mind. If I knew that I would feel such discomfort concerning this, I would not have taken the oath. If, at the time of the oath, my understanding was as it is now, I would not have taken the oath.\"<br>The wise man or the foremost among the three asks: \"Have you already changed your mind?\"<br>He answers: \"Yes.\"<br>He then tells him: \"It is permitted for you,\" \"It is released for you,\" \"It is absolved for you,\" or the like with this intent in any language.<br>If, however, he says: \"[The oath] is nullified for you,\" \"Your oath is uprooted,\" or anything with that intent, his statements are of no consequence, because only a husband or a father can nullify an oath. A sage, by contrast, may use only an expression conveying release or absolution.",
+                      "he": "כֵּיצַד מַתִּירִין. יָבוֹא הַנִּשְׁבָּע לְחָכָם הַמֻּבְהָק אוֹ לִשְׁלֹשָׁה הֶדְיוֹטוֹת אִם אֵין שָׁם מֻמְחֶה. וְאוֹמֵר אֲנִי נִשְׁבַּעְתִּי עַל כָּךְ וְכָךְ וְנִחַמְתִּי. וְאִלּוּ הָיִיתִי יוֹדֵעַ שֶׁאֲנִי מִצְטַעֵר בְּדָבָר זֶה עַד כֹּה אוֹ שֶׁאֵרַע לִי כָּךְ וְכָךְ לֹא הָיִיתִי נִשְׁבַּע וְאִלּוּ הָיְתָה דַּעְתִּי בְּעֵת הַשְּׁבוּעָה כְּמוֹ עַתָּה לֹא הָיִיתִי נִשְׁבַּע. וְהֶחָכָם אוֹ גְּדוֹל הַשְּׁלֹשָׁה אוֹמֵר לוֹ וּכְבָר נִחַמְתָּ. וְהוּא אוֹמֵר לוֹ הֵן. חוֹזֵר וְאוֹמֵר לוֹ שָׁרוּי לְךָ אוֹ מֻתָּר לְךָ אוֹ מָחוּל לְךָ וְכָל כַּיּוֹצֵא בְּעִנְיָן זֶה בְּכָל לָשׁוֹן. אֲבָל אִם אָמַר לוֹ מוּפָר לְךָ אוֹ נֶעֶקְרָה שְׁבוּעָתְךָ וְכָל כַּיּוֹצֵא בְּעִנְיָן זֶה לֹא אָמַר כְּלוּם. שֶׁאֵין מֵפֵר אֶלָּא הַבַּעַל אוֹ הָאָב אֲבָל הֶחָכָם אֵינוֹ אוֹמֵר אֶלָּא לְשׁוֹן הַתָּרָה וּמְחִילָה:",
+                      "ref": "Mishneh Torah, Oaths 6:5",
+                      "sourceHeRef": "הלכות שבועות ו:ה",
+                      "sourceRef": "Oaths 6:5"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "How can you nullify a never? You say three times \"mutar lach\" or \"mochal lach\" (you can say this in any language). Even if the people are standing, are relatives, it's night time, and it's Shabbos, even if the vow was taken yesterday (before Shabbos), as long as it is necessary for Shabbos, for example a vow not to eat, to avoid participating in oneg shabbos. And (if one vows) to distance oneself from the congregation, we say you can nullify the vow even it isn't necessary for Shabbos.",
+                      "he": "כיצד היא ההתרה יאמר לו ג' פעמים מותר לך או שרוי לך או מחול לך <span class=\"hebrew-emphasis\">(בכל לשון שיאמר) (ב\"י בשם הרמב\"ם) </span>ואפילו מעומד ובקרובים ובלילה ובשבת אפי' אם היה אפשר לו מאתמול לישאל עליו ובלבד שיהיה לצורך השבת כגון שנדר שלא לאכול או ליבטל מעונג השבת וחרמי צבור נהגו להתיר אף על פי שאינם לצורך השבת:",
+                      "ref": "Shulchan Arukh, Yoreh De'ah 228:3",
+                      "sourceHeRef": "יורה דעה רכח:ג - דין התרת נדרים וההבדל שבין פתח לחרטה והיאך נקרא על דעת רבים.",
+                      "sourceRef": "Yoreh De'ah 228:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "אסרה עצמה בתאנים וענבים בין בנדר בין בשבועה בין שאסרה עצמה בכל המין בין שאמרה תאנים וענבים אלו וקיים לתאנים והפר לענבים או שקיים לענבים והפר לתאנים מה שקיים קיים ומה שהפר מופר וכן כל כיוצא בזה ואין אומרים בהפרה נדר שהופר מקצתו הופר כולו: <span class=\"hebrew-emphasis\">הגה ויש חולקין וסבירא להו דאם קיים קצתו קיים כלו ואם הפר קצתו אינו מופר כלל (טור והרא\"ש ורמב\"ן ור\"ן) ודוקא בנדר אחד אבל אם אמרה קונם ענבים עלי קונם תאנים עלי ב' נדרים הם ואין שייך אחד לחבירו. (ג\"ז בטור)</span>:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 234:36",
+              "sourceHeRef": "יורה דעה רלד:לו - מתי האב והבעל מפירין ומתי מפירין שניהם יחד.",
+              "sourceRef": "Yoreh De'ah 234:36"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ר' חייא בר אבא אמר ר' יוחנן:</b> שיטה <b>זו</b> שהנדר נחשב כיחידה אחת שנעשית מקויימת כולה בהקמה של חלק ממנה היא <b>דברי ר' ישמעאל ור' עקיבא, אבל חכמים אומרים: מקיש</b> <span class=\"hebrew-emphasis\">[משווה]</span> הכתוב <b>הקמה להפרה; מה הפרה —</b> <b>מה שהפר הפר, אף הקמה —</b> <b>מה שקיים קיים</b> ולא יותר.",
+              "ref": "Steinsaltz on Nedarim 87b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ז ב:ב",
+              "sourceRef": "Steinsaltz on Nedarim 87b:2"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל חכ\"א מקיש הקמה [להפרה]</strong> - דחכמים לא משמע להו למידרש יקימנו יקים ממנו הלכך הקמה והפרה שוים:",
+              "ref": "Tosafot on Nedarim 87b:2:1",
+              "sourceHeRef": "תוספות על נדרים פ״ז ב:ב:א",
+              "sourceRef": "Tosafot on Nedarim 87b:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rabbi-chiyya-b-abba\" class=\"namedEntityLink\" data-slug=\"rabbi-chiyya-b-abba\">Rabbi Ḥiyya bar Abba</span> said</b> that <b><span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> said: This</b> opinion, that a vow is treated as a single unit, so that the entire vow is upheld even if the husband upheld only a part of it, is <b>the statement of <span href=\"/topics/rabbi-yishmael-b-elisha\" class=\"namedEntityLink\" data-slug=\"rabbi-yishmael-b-elisha\">Rabbi Yishmael</span> and <span href=\"/topics/rabbi-akiva\" class=\"namedEntityLink\" data-slug=\"rabbi-akiva\">Rabbi Akiva</span>. But the Rabbis say:</b> The verse <b>juxtaposes upholding to nullification; just as</b> with regard to <b>nullification, that which he nullified he has nullified, so too,</b> with regard to <b>upholding, that which he upheld he has upheld,</b> but no more.",
+      "he": "אָמַר <span href=\"/topics/rabbi-chiyya-b-abba\" class=\"namedEntityLink\" data-slug=\"rabbi-chiyya-b-abba\">רַבִּי חִיָּיא בַּר אַבָּא</span> אָמַר <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">רַבִּי יוֹחָנָן</span>: זוֹ דִּבְרֵי רַבִּי יִשְׁמָעֵאל וְרַבִּי עֲקִיבָא, אֲבָל חֲכָמִים אוֹמְרִים: מַקִּישׁ הֲקָמָה לַהֲפָרָה; מָה הֲפָרָה — מַה שֶּׁהֵפֵר הֵפֵר, אַף הֲקָמָה — מַה שֶּׁקִּיֵּים קִיֵּים.",
+      "ref": "Nedarim 87b:2"
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמרא</b> מתניתין רבי שמעון היא כצ\"ל:",
+              "ref": "Chidushei Halachot on Nedarim 87b:1",
+              "sourceHeRef": "חדושי הלכות על נדרים פ״ז ב:א",
+              "sourceRef": "Chidushei Halachot on Nedarim 87b:1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna teaches that <b>a man can betroth his daughter</b> to a man when she is a young woman. <b>We learned</b> in a mishna <b>there</b> (<i>Gittin</i> 64b): With regard to <b>a betrothed young woman, she and her father</b> are each eligible to <b>receive her bill of divorce. Rabbi Yehuda said: Two hands do not</b> have the right to <b>acquire</b> an item on behalf of one person <b>as one.</b> If the young woman is able to acquire an item on her own, her father cannot receive her bill of divorce. Conversely, if she is not able to acquire an item on her own, only her father can receive the bill of divorce. <b>Rather, her father</b> alone <b>receives her bill of divorce</b> on her behalf. The mishna states another principle: <b>And any</b> female <b>who is unable to safeguard her bill of divorce,</b> either due to her young age or mental incompetence, <b>is unable to be divorced,</b> since a bill of divorce is effective only for one who understands the severing of ties that a divorce engenders.",
+                  "<b>Reish Lakish says: Just as</b> there is <b>a dispute with regard to divorce,</b> as to whether both a young woman and her father can accept her bill of divorce or only the father can do so, <b>so too</b> there is <b>a dispute with regard to betrothal. And Rabbi Yoḥanan says: The dispute is with regard to divorce, but</b> with regard to <b>betrothal everyone agrees</b> that <b>her father</b> has the right to accept it <b>but not her.</b>",
+                  "<b>And Rabbi Yosei, son of Rabbi Ḥanina, said: What is the reason of Rabbi Yoḥanan, in accordance with</b> the opinion <b>of the Rabbis,</b> that there is a distinction between divorce and betrothal? In the case of <b>divorce, when she brings herself</b> back <b>into her father’s authority</b> by means of the bill of divorce, it is considered as though the father has obtained the bill of divorce via his daughter, and therefore <b>either she or her father</b> can receive it. In the case of <b>betrothal, where she removes herself from her father’s authority,</b> she cannot do this by herself. Consequently, only <b>her father</b> can accept the betrothal, <b>but not her.</b>",
+                  "The Gemara asks: <b>But isn’t there</b> the case of <b>levirate betrothal,</b> where the <i>yevama</i> <b>removes herself from her father’s authority, and</b> yet <b>we learned</b> in a <i>baraita</i>:"
+                ],
+                [
+                  "If <b>a minor girl</b> was widowed <b>after</b> her <b>betrothal,</b> a surviving brother of her betrothed <b>can perform levirate betrothal only with the consent of her father. And</b> in the case of <b>a young woman,</b> he can do so <b>either with her consent [<i>mida’at atzmah</i>] or with the consent of her father, unlike</b> the <i>halakha</i> <b>with regard to</b> standard <b>betrothal.</b> This indicates that a young woman can accept levirate betrothal on her own, despite the fact that it removes her from her father’s authority.",
+                  "<b>Rather, if</b> it <b>was stated, it was stated like this: Rabbi Yosei, son of Rabbi Ḥanina, says: What is</b> the <b>reason of Rabbi Yoḥanan, in accordance with</b> the opinion of <b>the Rabbis?</b> With regard to <b>betrothal, which</b> takes effect only <b>with</b> the <b>consent</b> of the one who accepts the betrothal, <b>her father</b> can accept it <b>but not her,</b> since betrothal requires his approval. With regard to a bill of <b>divorce,</b> which can be given <b>without her consent, either she or her father</b> can receive it.",
+                  "The Gemara asks: <b>But isn’t levirate betrothal</b> valid only <b>with her consent,</b> like other betrothals, <b>and</b> yet <b>it teaches</b> in the <i>baraita</i> that <b>either she or her father</b> can accept it? The Gemara answers: <b>There</b> it is referring <b>to levirate betrothal that is</b> performed <b>against her will, and it is</b> in accordance with the opinion of <b>Rabbi</b> Yehuda HaNasi. <b>As it is taught</b> in a <i>baraita</i>: If a <i>yavam</i> <b>performs levirate betrothal with his <i>yevama</i> without her consent, Rabbi</b> Yehuda HaNasi <b>says:</b> The <i>yavam</i> <b>acquires</b> her. <b>And the Rabbis say: He does not acquire</b> her.",
+                  "The Gemara clarifies: <b>What is the reason of Rabbi</b> Yehuda HaNasi? <b>He derives</b> the <i>halakha</i> of levirate betrothal <b>from</b> the <i>halakha</i> of <b>sexual intercourse that</b> a <i>yavam</i> engages in with <b>a <i>yevama</i>: Just as intercourse with</b> the <b><i>yevama</i></b> renders her acquired even if it is done <b>against her will, so too here,</b> in the case of levirate betrothal, the <i>yavam</i> can betroth her <b>against her will. And the Rabbis hold</b> that <b>we derive</b> the <i>halakha</i> of levirate betrothal <b>from</b> standard <b>betrothal: Just as betrothal</b> can be performed only <b>with her consent, so too here,</b> levirate betrothal can be performed only <b>with her consent.</b>",
+                  "The Gemara clarifies: <b>With regard to what do they disagree? Rabbi</b> Yehuda HaNasi <b>holds</b> that <b>one should derive matters</b> involving <b>a <i>yevama</i> from</b> other matters involving <b>a <i>yevama</i>,</b> and the marriage between a <i>yevama</i> and a <i>yavam</i> can be formalized against her will. <b>And the Rabbis hold</b> that <b>one should derive</b> matters involving <b>betrothal from</b> the <i>halakhot</i> of <b>betrothal,</b> as levirate betrothal is structured like standard betrothal in other respects.",
+                  "The Gemara comments: <b>So too, it is reasonable</b> to rule with regard to betrothal <b>as Rabbi Yoḥanan explains,</b> that only the father can accept betrothal, <b>from</b> the fact <b>that it teaches</b> in the <b>latter clause</b> of the <i>baraita</i> that with regard to levirate betrothal, in the case of <b>a young woman,</b> the <i>yavam</i> can perform it either with her consent or with the consent of her father, <b>unlike</b> the <i>halakha</i> <b>with regard to</b> standard <b>betrothal.</b> This indicates that she can be betrothed in standard betrothal only with her father’s agreement. The Gemara asks: <b>Then shall we say</b> that <b>this should be a conclusive refutation of</b> the opinion of <b>Reish Lakish,</b> who holds that according to the Rabbis a young woman can also accept her own betrothal? The Gemara answers: <b>Reish Lakish</b> could have <b>said to you:</b> In accordance with <b>whose</b> opinion <b>is this</b> <i>baraita</i>? <b>It is</b> in accordance with the opinion of <b>Rabbi Yehuda, who says: Two hands do not acquire</b> an item <b>as one.</b>",
+                  "The Gemara asks: <b>If</b> it is in accordance with the opinion of <b>Rabbi Yehuda,</b> why does the <i>baraita</i> state: <b>Unlike</b> the <i>halakha</i> <b>with regard to</b> standard <b>betrothal? It should</b> have stated: <b>Unlike</b> the <i>halakha</i> <b>with regard to divorce,</b> as Rabbi Yehuda stated his opinion in the mishna with regard to divorce, not betrothal. The Gemara answers: <b>Yes, it is indeed so,</b> it should have referred to divorce, but <b>since it taught</b> the <i>halakha</i> of <b>levirate betrothal, which</b> is <b>similar to betrothal, it also taught: Unlike</b> the <i>halakha</i> <b>with regard to</b> standard <b>betrothal.</b>",
+                  "The Gemara asks: <b>And</b> according to the opinion of <b>Rabbi Yehuda,</b> in <b>what</b> way <b>is levirate betrothal different from</b> divorce? Why can a young woman accept the former but not receive a bill of divorce, when both levirate betrothal and divorce can be performed without her consent? The Gemara answers: The <i>halakha</i> of levirate betrothal is different. <b>Since she is bonded</b> to the <i>yavam</i> <b>and standing</b> in wait for him, acceptance of the betrothal money by the <i>yevama</i> suffices to effect the levirate betrothal. The Gemara comments: <b>Now that you have arrived at this</b> explanation, the statement of <b>Rabbi Yoḥanan also should not pose a difficulty for you from the outset.</b> One cannot question his statement with regard to the Rabbis’ opinion in the case of betrothal. <b>Levirate betrothal is different, since</b> the <i>yevama</i> <b>is bonded</b> to the <i>yavam</i> <b>and standing</b> in wait for him.",
+                  "<b>We learned</b> in the mishna that <b>a man can betroth his daughter</b> to a man <b>when she is a young woman, by himself or by</b> means of <b>his agent.</b> The Gemara analyzes this: <b>Yes,</b> he can betroth her <b>by himself or by</b> means of <b>his agent, but no,</b> she cannot become betrothed <b>by herself or by</b> means of <b>her agent.</b> This is <b>a conclusive refutation of Reish Lakish,</b> who holds that according to the opinion of the Rabbis a young woman can accept her own betrothal. The Gemara answers: <b>Reish Lakish</b> could have <b>said to you: This</b> mishna <b>too is</b> in accordance with the opinion of <b>Rabbi Yehuda.</b>",
+                  "The Gemara asks: <b>But can you establish this</b> mishna <b>in accordance with</b> the opinion of <b>Rabbi Yehuda? But the last clause,</b> in the following mishna (46b), <b>teaches:</b> In the case of <b>one who says to a woman: Be betrothed to me with this date</b> and adds: <b>Be betrothed to me with that</b> date, she is betrothed only if one of them is worth one <i>peruta</i> on its own. <b>And we say: Who</b> is the <i>tanna</i> who <b>taught</b> that the two dates are valued separately only if he said: <b>Become betrothed</b> and: <b>Become betrothed,</b> in a separate statement when giving each date, but that if he said: Become betrothed, only once, the value of the two dates are added together?",
+                  "<b>And Rabba said: It is Rabbi Shimon, who says</b> that one is not liable to bring multiple offerings for taking false oaths to multiple people in the same utterance. For example, if one says: I take an oath that I do not have your item, nor yours, nor yours, he brings a single offering. This is the <i>halakha</i> <b>unless one states</b> an expression of <b>an oath to each and every one</b> of the plaintiffs, by stating: I take an oath I do not have yours; I take an oath I do not have yours, in which case he brings multiple offerings. Consequently, the <i>tanna</i> of this mishna is Rabbi Shimon, not Rabbi Yehuda.",
+                  "<b>And if you would say</b> that the <i>tanna</i> of the <b>entire</b> mishna concerning betrothal is <b>Rabbi Yehuda, and</b> that <b>with regard to the specification</b> of separate oaths <b>he holds in accordance with</b> the opinion of <b>Rabbi Shimon,</b> this cannot be. <b>But does he</b> in fact <b>hold in accordance</b> with the opinion of Rabbi Shimon with regard to the specification of separate oaths?",
+                  "<b>But isn’t it taught</b> in a <i>baraita</i>: <b>This is the principle</b> with regard to one’s liability to bring offerings for a false oath: If he <b>included</b> all the statements in one oath <b>he is liable</b> for <b>only one</b> oath, but if he <b>specified</b> them, <b>he is liable for each and every one;</b> this is <b>the statement of Rabbi Meir. Rabbi Yehuda says:</b> If one said: I take <b>an oath</b> that I do not have your deposit, <b>nor yours, nor yours, nor yours,</b> and he was found to have taken a false oath, <b>he is liable</b> to bring an offering <b>for each and every one. Rabbi Eliezer says:</b> If he said: I do <b>not</b> have <b>yours, nor yours, nor yours, and nor yours,</b> I take <b>an oath,</b> then <b>he is liable for each and every one.</b> Since he stated the oath at the end, it refers back to each element of his statement. <b>Rabbi Shimon says: He is liable</b> to bring more than one offering <b>only if</b> he <b>states</b> an expression of <b>an oath for each and every one.</b> This indicates that Rabbi Yehuda disagrees with Rabbi Shimon with regard to the question of when oaths are considered distinct.",
+                  "<b>Rather,</b> the Gemara explains in the opposite manner: The <i>tanna</i> of the <b>entire</b> mishna concerning betrothal is <b>Rabbi Shimon, and with regard to</b> the <i>halakha</i> of <b>agency he holds in accordance with</b> the opinion of <b>Rabbi Yehuda,</b> that only the father of a young woman can appoint an agent to accept her betrothal or receive her bill of divorce.",
+                  "The Gemara relates: One day <b>Rabbi Asi did not go to the study hall. He found Rabbi Zeira</b> and <b>said to him: What was said today in the study hall?</b> Rabbi Zeira <b>said to him: I too did not go,</b> but <b>Rabbi Avin is the one who went, and he said: The entire coterie</b> sided <b>with</b> the opinion of <b>Rabbi Yoḥanan</b> that there is a difference between betrothal and divorce in the case of a young woman. <b>And Reish Lakish screamed</b> at them <b>like a crane:</b> Doesn’t the verse state: <b>“And she departs</b> out of his house <b>and</b> goes and <b>becomes</b> another man’s wife” (Deuteronomy 24:2), juxtaposing the <i>halakhot</i> of divorce and betrothal? <b>But no one paid any attention to him.</b> Rabbi Asi <b>said to him:</b> Is <b>Rabbi Avin reliable?</b> Can one be sure that he transmitted an accurate report? Rabbi Zeira <b>said to him: Yes,</b> in this case he can be trusted, since the elapsed time <b>was</b> only <b>like</b> the interval between catching a fish <b>from the sea</b> and bringing it <b>to a frying pan [<i>tignei</i>].</b>",
+                  "<b>Rav Naḥman bar Yitzḥak says:</b> When <b>I</b> quote this statement, I do <b>not</b> state it in the name of <b>Rabbi Avin, son of Rabbi Ḥiyya, nor Rabbi Avin bar Kahana, but</b> in the name of <b>Rabbi Avin, without specification.</b> The Gemara asks: <b>What difference is there?</b> Why does it matter which Rabbi Avin is cited as the source of this statement? The Gemara answers: It would matter if one were <b>to raise a contradiction between</b> one of <b>his</b> rulings and another one of <b>his</b> rulings. If there were to be a conflicting opinion attributed to a specific Rabbi Avin, e.g., Rabbi Avin, son of Rabbi Ḥiyya, it would not be a true contradiction, as this statement might have been issued by a different Rabbi Avin."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 43b:7",
+                "Kiddushin 43b:8",
+                "Kiddushin 43b:9",
+                "Kiddushin 43b:10",
+                "Kiddushin 44a:1",
+                "Kiddushin 44a:2",
+                "Kiddushin 44a:3",
+                "Kiddushin 44a:4",
+                "Kiddushin 44a:5",
+                "Kiddushin 44a:6",
+                "Kiddushin 44a:7",
+                "Kiddushin 44a:8",
+                "Kiddushin 44a:9",
+                "Kiddushin 44a:10",
+                "Kiddushin 44a:11",
+                "Kiddushin 44a:12",
+                "Kiddushin 44a:13",
+                "Kiddushin 44a:14",
+                "Kiddushin 44a:15",
+                "Kiddushin 44a:16"
+              ],
+              "he": [
+                [
+                  "הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ. תְּנַן הָתָם: נַעֲרָה הַמְאוֹרָסָה – הִיא וְאָבִיהָ מְקַבְּלִין אֶת גִּיטָּהּ. אָמַר רַבִּי יְהוּדָה: אֵין שְׁתֵּי יָדַיִם זוֹכוֹת כְּאֶחָד, אֶלָּא אָבִיהָ מְקַבֵּל אֶת גִּיטָּהּ. וְכֹל שֶׁאֵין יְכוֹלָה לִשְׁמוֹר אֶת גִּיטָּהּ – אֵין יְכוֹלָה לְהִתְגָּרֵשׁ.",
+                  "אָמַר רֵישׁ לָקִישׁ: כְּמַחְלוֹקֶת לְגֵירוּשִׁין, כָּךְ מַחְלוֹקֶת לְקִידּוּשִׁין. וְרַבִּי יוֹחָנָן אָמַר: מַחְלוֹקֶת לְגֵירוּשִׁין, אֲבָל לְקִידּוּשִׁין – דִּבְרֵי הַכֹּל אָבִיהָ וְלֹא הִיא.",
+                  "וְאָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: מַאי טַעְמֵיהּ דְּרַבִּי יוֹחָנָן אַלִּיבָּא דְּרַבָּנַן? גֵּירוּשִׁין, דְּמַכְנֶסֶת עַצְמָהּ לִרְשׁוּת אָבִיהָ – בֵּין הִיא וּבֵין אָבִיהָ. קִידּוּשִׁין, דְּמַפְקַעַת עַצְמָהּ מֵרְשׁוּת אָבִיהָ – אָבִיהָ וְלֹא הִיא.",
+                  "וַהֲרֵי מַאֲמָר, דְּמַפְקַעַת עַצְמָהּ מֵרְשׁוּת אָבִיהָ, וּתְנַן:"
+                ],
+                [
+                  "קְטַנָּה מִן הָאֵירוּסִין – אֵין עוֹשִׂים בָּהּ מַאֲמָר אֶלָּא מִדַּעַת אָבִיהָ. וְהַנַּעֲרָה – בֵּין מִדַּעַת עַצְמָהּ בֵּין מִדַּעַת אָבִיהָ, <span class=\"parenthesized\">(מַה שֶּׁאֵין כֵּן בְּקִידּוּשִׁין)</span>.",
+                  "אֶלָּא אִי אִיתְּמַר, הָכִי אִיתְּמַר: אָמַר רַבִּי יוֹסֵי בְּרַבִּי חֲנִינָא: מַאי טַעְמֵיהּ דְּרַבִּי יוֹחָנָן אַלִּיבָּא דְּרַבָּנַן? קִידּוּשִׁין, דְּמִדַּעְתַּהּ – אָבִיהָ וְלָא הִיא. גֵּירוּשִׁין, דִּבְעַל כֻּרְחַהּ – בֵּין הִיא בֵּין אָבִיהָ.",
+                  "הֲרֵי מַאֲמָר, דְּמִדַּעְתַּהּ, וְקָתָנֵי: בֵּין הִיא וּבֵין אָבִיהָ! הָתָם בְּמַאֲמָר דִּבְעַל כֻּרְחַהּ, וְרַבִּי הִיא. דְּתַנְיָא: הָעוֹשֶׂה מַאֲמָר בִּיבִמְתּוֹ שֶׁלֹּא מִדַּעְתָּהּ, רַבִּי אוֹמֵר: קָנָה, וַחֲכָמִים אוֹמְרִים לֹא קָנָה.",
+                  "מַאי טַעְמֵיהּ דְּרַבִּי? גָּמַר מִבִּיאָה דִיבָמָה, מָה בִּיאָה דִיבָמָה בְּעַל כֻּרְחַהּ – אַף הָכָא נָמֵי בְּעַל כֻּרְחַהּ. וְרַבָּנַן סָבְרִי: יָלְפִינַן מִקִּידּוּשִׁין, מָה קִידּוּשִׁין דְּמִדַּעְתַּהּ – אַף הָכָא נָמֵי דְּמִדַּעְתַּהּ.",
+                  "בְּמַאי קָמִיפַּלְגִי? רַבִּי סָבַר: מִילֵּי דִיבָמָה מִיבָמָה הֲוָה לֵיהּ לְמֵילַף. וְרַבָּנַן סָבְרִי: קִידּוּשִׁין מִקִּידּוּשִׁין הֲוָה לֵיהּ לְמֵילַף.",
+                  "הָכִי נָמֵי מִסְתַּבְּרָא כִּדְקָא מְתָרֵץ רַבִּי יוֹחָנָן, מִדְּקָתָנֵי סֵיפָא: ״מַה שֶּׁאֵין כֵּן בְּקִידּוּשִׁין״. אֶלָּא נֵימָא תֶּיהְוֵי תְּיוּבְתָּא דְּרֵישׁ לָקִישׁ? אָמַר לָךְ רֵישׁ לָקִישׁ: הָא מַנִּי – רַבִּי יְהוּדָה הִיא, דְּאָמַר: אֵין שְׁתֵּי יָדַיִם זוֹכוֹת כְּאַחַת.",
+                  "אִי רַבִּי יְהוּדָה, מַה שֶּׁאֵין כֵּן בְּקִידּוּשִׁין?! מַה שֶּׁאֵין כֵּן בְּגֵירוּשִׁין מִיבְּעֵי לֵיהּ! אִין הָכִי נָמֵי, אַיְּידֵי דִּתְנָא מַאֲמָר דְּדָמֵי לְקִידּוּשִׁין, תְּנָא נָמֵי: מַה שֶּׁאֵין כֵּן בְּקִידּוּשִׁין.",
+                  "וְרַבִּי יְהוּדָה, מַאי שְׁנָא מַאֲמָר? הוֹאִיל וּזְקוּקָה וְעוֹמֶדֶת. הַשְׁתָּא דְּאָתֵית לְהָכִי, רַבִּי יוֹחָנָן נָמֵי לָא תִּיקְשֵׁי לָךְ מֵעִיקָּרָא: שָׁאנֵי מַאֲמָר, הוֹאִיל וּזְקוּקָה וְעוֹמֶדֶת.",
+                  "תְּנַן: הָאִישׁ מְקַדֵּשׁ אֶת בִּתּוֹ כְּשֶׁהִיא נַעֲרָה, בּוֹ וּבִשְׁלוּחוֹ. בּוֹ וּבִשְׁלוּחוֹ – אִין, בָּהּ וּבִשְׁלוּחָהּ – לָא, תְּיוּבְתָּא דְּרֵישׁ לָקִישׁ! אָמַר לָךְ רֵישׁ לָקִישׁ: הָא נָמֵי רַבִּי יְהוּדָה הִיא.",
+                  "וּמִי מָצֵית מוֹקְמַתְּ לַהּ כְּרַבִּי יְהוּדָה? וְהָקָתָנֵי סֵיפָא: הָאוֹמֵר לְאִשָּׁה: ״הִתְקַדְּשִׁי לִי בִּתְמָרָה זוֹ״, ״הִתְקַדְּשִׁי לִי בָּזוֹ״ וְאָמְרִינַן: מַאן תַּנָּא ״הִתְקַדְּשִׁי״ ״הִתְקַדְּשִׁי״?",
+                  "וְאָמַר רַבָּה: רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר: עַד שֶׁיֹּאמַר שְׁבוּעָה לְכׇל אֶחָד וְאֶחָד!",
+                  "וְכִי תֵּימָא כּוּלַּהּ רַבִּי יְהוּדָה, וּבִפְרָטֵי סָבַר לַהּ כְּרַבִּי שִׁמְעוֹן, וּמִי סָבַר לַהּ?",
+                  "וְהָתַנְיָא: זֶה הַכְּלָל: כָּלַל – אֵינוֹ חַיָּיב אֶלָּא אַחַת, פָּרַט – חַיָּיב עַל כׇּל אַחַת וְאַחַת, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: ״שְׁבוּעָה לֹא לָךְ, לֹא לָךְ, לֹא לָךְ״ – חַיָּיב עַל כׇּל אַחַת וְאַחַת. רַבִּי אֱלִיעֶזֶר אוֹמֵר: ״לֹא לָךְ, לֹא לָךְ, לֹא לָךְ וְלֹא לָךְ שְׁבוּעָה״ – חַיָּיב עַל כׇּל אַחַת וְאַחַת. רַבִּי שִׁמְעוֹן אוֹמֵר: לְעוֹלָם אֵינוֹ חַיָּיב עַד שֶׁיֹּאמַר שְׁבוּעָה לְכׇל אֶחָד וְאֶחָד.",
+                  "אֶלָּא: כּוּלַּהּ רַבִּי שִׁמְעוֹן הִיא, וּבִשְׁלִיחוּת סָבַר לַהּ כְּרַבִּי יְהוּדָה.",
+                  "רַבִּי אַסִּי לָא עָל לְבֵי מִדְרְשָׁא. אַשְׁכְּחֵיהּ לְרַבִּי זֵירָא, אֲמַר לֵיהּ: מַאי אֲמוּר הָאִידָּנָא בֵּי מִדְרְשָׁא? אֲמַר לֵיהּ: אַף אֲנָא לָא עֲיַילִ[י], רַבִּי אָבִין הוּא דְּעָיֵיל וַאֲמַר: חַבְרוּתָא כּוּלַּהּ כְּרַבִּי יוֹחָנָן. וּצְוַוח רֵישׁ לָקִישׁ כִּי כְרוּכְיָא: ״וְיָצְאָה. וְהָיְתָה״, וְלֵיכָּא דְּאַשְׁגַּח בֵּיהּ. אֲמַר לֵיהּ: רַבִּי אָבִין בַּר סַמְכָא הוּא? אֲמַר לֵיהּ: אִין, כְּמִין יַמָּא לְטִיגְנֵי הוּא.",
+                  "אָמַר רַב נַחְמָן בַּר יִצְחָק: אֲנָא, לָא רַבִּי אָבִין בְּרַבִּי חִיָּיא, וְלָא רַבִּי אָבִין בַּר כָּהֲנָא, אֶלָּא רַבִּי אָבִין סְתָם. לְמַאי נָפְקָא מִינַּהּ? לְמִירְמֵא דִּידֵיהּ אַדִּידֵיהּ."
+                ]
+              ],
+              "link": "/Kiddushin/44a",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 44a:11"
+              ],
+              "ref": "Kiddushin 43b:7-44a:16",
+              "sourceHeRef": "קידושין מ״ד א",
+              "sourceRef": "Kiddushin 44a"
+            },
+            {
+              "en": [
+                "<strong>GEMARA:</strong> The mishna taught: If benefit from <b>the last</b> one <b>was permitted,</b> benefit from <b>the last</b> one alone <b>is permitted but</b> benefit from <b>all</b> the others <b>is forbidden.</b> If one stated: I will not benefit from this one, as if he were an offering, and from that one, as if he were an offering, then an extenuation enabling the dissolution of a vow is required for each and every one. The Gemara poses a question: <b>Who</b> is the <i>tanna</i> that <b>taught</b> this mishna?",
+                "<b>Rava said: It is</b> taught in accordance with the opinion of <b>Rabbi Shimon, who said</b> that one who utters a false oath to several people at once is not liable to bring an offering for each false oath <b>unless he says: An oath,</b> in his oath <b>to each and every one</b> (<i>Shevuot</i> 38a). If he said: An oath, only once, even if he specified each person by saying: Not to you, not to you, it is still considered to be a single oath. Otherwise, it is viewed as one oath. The mishna, which requires a separate extenuation for each person only if he stated: As if he were an offering, with regard to each of them, is in accordance with the opinion of Rabbi Shimon stated with regard to oaths.",
+                "The mishna taught that if one said: <b>Wine is <i>konam</i></b> for me and <b>I</b> will not <b>taste it,</b> as wine is bad for the intestines, his vow is dissolved, for aged wine is good for the intestines. The Gemara asks: <b>And let him derive</b> that the vow is dissolved from the fact <b>that</b> aged wine is <b>not bad</b> for the intestines. Even if it is not actively good for the intestines, the vow should nevertheless be considered mistaken. <b>Rabbi Abba said:</b> The mishna <b>teaches: And furthermore,</b> it is <b>good.</b> In other words, even if aged wine is merely not harmful to the intestines the vow is dissolved, and they strengthened their claim by pointing out that it is in fact beneficial.",
+                "The mishna taught: If one said: <b>Onions are <i>konam</i></b> for me and <b>I</b> will not <b>taste them, as onions</b> are bad for the heart, his vow is dissolved, for <i>kuferi</i> onions are good for the heart. The Gemara asks: <b>And let him derive</b> that the vow is dissolved from the fact <b>that</b> the <i>kuferi</i> onion is <b>not bad</b> for the heart. <b>Rabbi Abba said:</b> The mishna <b>teaches: And furthermore,</b> it is <b>good.</b> Here too, they added that the <i>kuferi</i> onion is actually good for the heart, but this addition was not needed to justify the dissolution of the vow."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nedarim 66a:7",
+                "Nedarim 66a:8",
+                "Nedarim 66a:9",
+                "Nedarim 66a:10"
+              ],
+              "he": [
+                "<big><strong>גְּמָ׳</strong></big> הוּתַּר הָאַחֲרוֹן — הָאַחֲרוֹן מוּתָּר, וְכוּלָּן אֲסוּרִין. מַאן תַּנָּא?",
+                "אָמַר רָבָא: רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר: עַד שֶׁיֹּאמַר ״שְׁבוּעָה״ לְכׇל אֶחָד וְאֶחָד.",
+                "קֻוֽנָּם יַיִן שֶׁאֲנִי טוֹעֵם וְכוּ׳. וְתִיפּוֹק לֵיהּ דְּאֵין רַע! אָמַר רַבִּי אַבָּא: וְעוֹד, ״יָפֶה״ קָתָנֵי.",
+                "קֻוֽנָּם בָּצָל שֶׁאֲנִי טוֹעֵם שֶׁהַבָּצָל וְכוּ׳. וְתִיפּוֹק לֵיהּ דְּאֵין רַע! אָמַר רַבִּי אַבָּא: וְעוֹד, ״יָפֶה״ קָתָנֵי."
+              ],
+              "link": "/Nedarim/66a",
+              "originalRefsBeforeRewriting": [
+                "Nedarim 66a:8"
+              ],
+              "ref": "Nedarim 66a:7-10",
+              "sourceHeRef": "נדרים ס״ו א",
+              "sourceRef": "Nedarim 66a"
+            },
+            {
+              "commentary": {
+                "Rashi": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">מאן תנא התקדשי התקדשי</strong> - הוא דהוי פרטא אבל בזו ובזו לאו פרטא הוא:",
+                      "ref": "Rashi on Kiddushin 46a:6:1",
+                      "sourceHeRef": "רש\"י על קידושין מ״ו א:ו:א",
+                      "sourceRef": "Rashi on Kiddushin 46a:6:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">אמר רבה ר\"ש היא</strong> - בשבועות <span class=\"parenthesized\">(דף לו:)</span> גבי חמשה תובעין אותו:",
+                      "ref": "Rashi on Kiddushin 46a:6:2",
+                      "sourceHeRef": "רש\"י על קידושין מ״ו א:ו:ב",
+                      "sourceRef": "Rashi on Kiddushin 46a:6:2"
+                    }
+                  ]
+                },
+                "Ritva": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>גמרא היתה אוכלת אהייא אילימא ארישא מאי איריא אוכלת אפי' מנחת נמי.</b> פי' דאפילו במנחת נמי אינה מקודשת עד שיהא באחת מהם שוה פרוטה דהא פרטא הוו דהתקדשי לי בזו קאמר בכל חדא מיניי' ולא מצטרפי אהדדי אלא אסיפא דקתני כללא בזו ובזו ומאי עד שיהא בא' מהן בכל אח' ואח' מהן דאע\"ג דכיילינהו לכלהו כחדא דעתו לקדשה באיזו מהם ששוה פרוטה דלא גמרי קדושין עד דמטו כולה לידה וכי מטי כלהו לידה מיקדשא אפי' בקמייתא דשוויי' פרוטה: דאכילתיה ואמאי יהא מלוה היא דהא כיון דלא גמרי קדושי הוה לה מלוה כך הנוסחא בקצת הספרים. וה\"פ דכיון דעבד כללא אין דעתו שיגמרו הקדושין עד שיפסיק לשונו ויגיעו כולם לידה וכי אכלתה לקמייתא עדיין לא גמרו קידושיו ופקדון הוא אצלה וכי אכילתה שלחה יד בפקדון ואיתעבידא מלוה גבה וכי מטו כולהו לידה דגמרי קידושי קמייתא מלוה היא גבה וא\"כ היכי מיקדשא בה דהא אמר רב המקדש במלוה אינה מקודשת. ואיכא למידק מאי קשיא ליה דהא רב לא קאמר אלא במקדש במעות שנתן לה בתורת מלוה אבל הכא תמרה קמייתא לקדושין גמורין ניתנה אלא שקובע לה זמן שלא תתקדש בה עד שיגיעו האחרות לידה והויא לה כההיא דאמרינן לקמן במכילתן האומר לאשה התקדשי לי בכסף זה לאחר ל' יום דלכי מטא ל' יום מקודשת אע\"פ שנתאכלו המעות דכיון דבתורת קדושין יהבינהו ניהלה כי אכלה דידה אכלה ואיכא למימר דלא אמרינן כי אכלה דידה אכלה אלא כשגמר לשון קדושין והפסיק דבורו דהשתא אע\"ג דלא חיילי קדושין מהשתא אלא לאחר זמן כיון דבתורת קדושין יהבינהו ניהלה סתם כי מטו לידה דידה אינון דאי גמרו קדושין הוו מתנה לשם קדושין ואי לא גמרי משום דהדרי בהו להוו מתנה גמורה ואינם חוזרים הלכך אית לה רשות לאפוקינון מהשתא וכי אכלתינהו לאו מלוה היא כלל ולפיכך מתקדשת בהן לאחר ל' יום אבל הא דהכא כי מטיא קמייתא לידה לא גמר לשון קדושיו ולא הפסיק לשונו וכיון דכן לא יהיב לה רשותה לאפוקינון עד סוף דבריו ופקדון היא בידה בנתים וכי אכלה לאו דידה אכלה והויא לה מלוה גבה. ואי דמיא ההיא דאומר לאשה התקדשי לי בכסף זה לאחר שלשים יום להא דלקמן בשמעתין דמיא דא\"ר שאם אמר לה התקדשי לי באלו והיתה אוכלת ראשונה ראשונה מקודשת אפילו בקמייתא דכי אכלה דידה אכלה מכיון שאמר לה באלו בעודן בידו גמר לשון קדושין אלא דלא חיילי קידושי עד דמטי לידה ומשום הכי כי מטיא לידה קמייתא זכיא בה לאנפוקה ודידה אכלה ולא הוי מלוה ואין זה של משנתינו דומה אלא לההיא דמקדש את אחותו דאע\"ג דלא הדר' בהו לא אפשר דתפסי קדושי כלל וכן בזה שאמר בזו בזו ובזו דהוי כללא ומקדשא בכלם כי אמר בזו ונתן לה לא אפשר דחיילי קידושי אע\"ג דלא הדרי בהו שהרי אינה מקדשה אלא בכלם ומשום הכי מדמינן להו אהדרי בסמוך וזה מבואר:",
+                      "ref": "Ritva on Kiddushin 46a:6",
+                      "sourceHeRef": "ריטב\"א על קידושין מ״ו א:ו",
+                      "sourceRef": "Ritva on Kiddushin 46a:6"
+                    }
+                  ]
+                },
+                "Rosh": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "פירש רבי אמי מאי עד שיהא באחת מהן שו\"פ עד שיהיה באחרונה שו\"פ אבל בקמייתא לא וכיון דדעתיה אבתרייתא הויין ליה קמייתא כי מלוה והמקדש במלוה אינה מקודשת הילכך אי איכא באחרונה שו\"פ מקודשת דהוי לה כמקדש במלוה ופרוטה דדעתיה אפרוטה ואי לית בה שו\"פ אינה מקודשת. אמר רבא לא שנו אלא שאמר לה בזו ובזו אבל אמר לה באלו אפי' אוכלת נמי מקודשת כי קאכלה מדנפשיה קא אכלה: ת\"ר המקדש במלוה מקודשת וי\"א אינה מקודשת ושוין במכר שקנה ומוקי לה רב הונא כגון שאמר התקדשי לי במנה ונמצא מנה חסר דינר ובהא קמיפלגי מר סבר כסיפא לה מילתא למיתבעיה ומ\"ס לא כסיפא לה מילתא למיתבעיה ושוין במכר שקנה דלא כסיפא ליה מילתא למיתבעיה והלכה כת\"ק:",
+                      "ref": "Rosh on Kiddushin 2:9:2",
+                      "sourceHeRef": "פסקי הרא\"ש על קידושין ב:ט:ב",
+                      "sourceRef": "Rosh on Kiddushin 2:9:2"
+                    }
+                  ]
+                },
+                "Steinsaltz": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<big>ג גמרא</big> <b>מאן</b> <span class=\"hebrew-emphasis\">[מי הוא]</span> ה<b>תנא</b> הסבור שכדי שייחשבו הדברים כחלוקים זה מזה צריך לומר <b>\"התקדשי\" \"התקדשי\"</b> בכל פעם ופעם? <b>אמר רבה:</b> שיטת <b>ר' שמעון היא,</b> ש<b>אמר</b> בדיני שבועת הפקדון כיוצא בזה, שאינו חייב בקרבן לגבי כל אדם שהוא מכחיש את טענתו <b>עד שיאמר</b> לשון <b>\"שבועה\" לכל אחד ואחד.</b>",
+                      "ref": "Steinsaltz on Kiddushin 46a:6",
+                      "sourceHeRef": "ביאור שטיינזלץ על קידושין מ״ו א:ו",
+                      "sourceRef": "Steinsaltz on Kiddushin 46a:6"
+                    }
+                  ]
+                }
+              },
+              "en": "<strong>GEMARA:</strong> <b>Who</b> is the <i>tanna</i> who <b>taught</b> that it is only if he says: <b>Be betrothed to me, be betrothed to me,</b> in connection with each date that each act of betrothal is considered distinct? <b>Rabba says: It is</b> the opinion of <b>Rabbi Shimon, who said</b> in the context of the laws of deposit oaths: He is never liable to bring more than one offering <b>unless he will state</b> an expression of <b>an oath to each and every one.</b>",
+              "he": "<big><strong>גְּמָ׳</strong></big> מַאן תְּנָא ״הִתְקַדְּשִׁי״ ״הִתְקַדְּשִׁי״? אָמַר רַבָּה: רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר עַד שֶׁיֹּאמַר שְׁבוּעָה לְכׇל אֶחָד וְאֶחָד.",
+              "link": "/Kiddushin/46a",
+              "ref": "Kiddushin 46a:6",
+              "sourceHeRef": "קידושין מ״ו א",
+              "sourceRef": "Kiddushin 46a"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבא ר\"ש היא דאמר עד שיאמר שבועה לכל אחד ואחד</strong> - בפרק שבועת הפקדון היא דתנן התם <span class=\"parenthesized\">(דף לו:)</span> היו חמשה תובעין אותו ואמר שבועה שאין לך בידי ולא לך ולא לך חייב על כל אחד ואחד ר\"ש אומר עד שיאמר שבועה לכל אחד ואחד הכא נמי לא חשיבי ליה שני נדרים עד שתאמר שאני טועמת לכל אחד ואחד אבל אם אמרה קונם שאני טועמת לא תאנה ולא ענבה לר\"ש נדר אחד הוי ולרבנן הוו להו שני נדרים וכבר כתבתי למעלה בפ' פותחין <span class=\"parenthesized\">(דף סו. ד\"ה ולענין)</span> דקיי\"ל כר\"ש:",
+              "ref": "Ran on Nedarim 87b:3:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ג:א",
+              "sourceRef": "Ran on Nedarim 87b:3:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רבא</strong> - מתני' דקא משוי חילוק בין קונם תאנים וענבים שאני טועמת להיכא דאמרה קונם תאנה שאני טועמת וענבה שאני טועמת לחייבה שני לאוין משום הלשון ר\"ש היא דאמר <span class=\"parenthesized\">(שבועות דף לו:)</span> היכא דתבעוהו ה' בני אדם ואמר שבועה כאיני חייב לא לך ולא לך שאם נשבע לשקר אינו חייב בהא שבועה אלא קרבן אחד:",
+              "ref": "Rashi on Nedarim 87b:3:1",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ג:א",
+              "sourceRef": "Rashi on Nedarim 87b:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עד שיאמר שבועה של כל אחר ואחד</strong> - דאמר שבועה לא לך שבועה לא לך דחייב על כל אחד ואחד קרבן:",
+              "ref": "Rashi on Nedarim 87b:3:2",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ג:ב",
+              "sourceRef": "Rashi on Nedarim 87b:3:2"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "commentary": {
+                "Mesorat Hashas": {
+                  "comments": [
+                    {
+                      "en": "(Bamidbar 30:14) \"Every vow and every oath of binding to afflict the soul\": What is the intent of this? From (Ibid. 9) \"and he annul the vow which is upon her,\" I might think, whether or not it involves affliction. It is, therefore, written \"Every vow and every oath of binding to afflict the soul, her husband shall confirm it and her husband shall annul it.\" Scripture speaks only of vows involving affliction. Whence do I derive (the same [i.e., that he may annul them]) for vows affecting relations between him and her? From (Ibid. 17) \"These are the statutes which the L-rd commanded Moses, between a man and his wife, between a father and his daughter\" — whether or not they entail affliction. And just as this vow (i.e., a vow involving affliction) is a vow which is not absolved by others (i.e., sages [but annulled by the husband]), so, all vows (i.e., those between husband and wife) which are not absolved by others (are annulled by the husband.) These are the words of R. Yoshiyah. R. Yonathan says: We find vows which are absolved by others and which may be annulled by the husband. How so? If she said: \"I forbid the fruits of the world to myself,\" he may annul it. (If she said:) \"I forbid the fruits of the province to myself,\" he can bring them from a different province. (If she said:) \"I forbid the fruits of this shopkeeper to me,\" the husband cannot annul it. And if his livelihood came only from him, he can annul it. We find, then, that only a husband can annul only vows between him and her and vows entailing affliction. Whence do we derive the same for a father (vis-à-vis his daughter)? It follows (by induction), viz. Since a father can annul and a husband can annul, then just as a husband can annul only vows between him and her and vows involving affliction, so, a father. — But perhaps the reverse is true, viz.: Since a father can annul and a husband can annul, then just as a father can annul any vow, so, a husband can annul any vow. How, then, am I to understand \"Every vow and every oath of binding to afflict the soul, her husband shall confirm it, etc.\"? As referring to the days of her maturity (bagruth), but in the days of her maidenhood (na'aruth), he may annul all of her vows. It is, therefore, written (Ibid. 17) \"in her maidenhood in her father's house.\" (i.e., This distinction between 'na'aruth and bagruth) applies only in her father's house, but not in her husband's house. I have reasoned and reversed. The reversal was refuted, and I have \"merited\" returning to the original formulation, viz.: Since a husband can annul and a father can annul, then just as a husband can annul only vows between him and her and vows of affliction, so, a father. And, furthermore, it follows a fortiori, viz.: If a husband, who can annul in her maturity, can annul only vows between him and her and vows of affliction, how much more so a father! — No, this may be true of a husband, who does not have exclusive authority (in the annulment of vows) — wherefore he can annul only vows between him and her and vows of affliction, as opposed to a father, who does have such authority — wherefore he can annul all vows. I have not succeeded in deriving it by reasoning; it is, therefore, written \"These are the statutes, etc.\" likening the father to the husband, viz.: Just as the husband can annul only vows between him and her and vows of affliction, so the father. \"her husband shall confirm it and her husband shall annul it\": If she vowed not to eat figs and grapes, and he confirmed it for figs, it is all confirmed. If he annulled it for figs, it is not annulled until he annulled it also for grapes. These are the words of R. Yishmael. R. Akiva says: If he confirmed it for figs but not for grapes, it is all confirmed. If he annulled it for figs, but not for grapes, it is all annulled, it being written \"her husband shall confirm it and her husband shall annul it.\" Just as \"shall confirm it\" (connotes even) \"part of it,\" so, \"shall annul it\" (connotes even) \"part of it.\" If she vowed not to eat figs and grapes, and a sage was consulted (for absolution) and he (explicitly) permitted it for dates, but not for grapes, or for grapes, but not for figs, it is all permitted. If he forbade it for figs but not for grapes, or for grapes but not for figs, it is all forbidden. If he forbade it for figs, but not for grapes, or for grapes, but not for figs, it is forbidden. If her husband annulled it for figs but not for grapes, or for grapes but not for figs, it is all annulled. If he confirmed it for figs but not for grapes, or for grapes but not for figs, it is all confirmed. When is this so? When it is all one vow. But if she said: I vow not to eat figs, and, in addition, I vow not to eat grapes, and a sage were consulted, and he permitted it for figs, but not for grapes, or for grapes but not for figs — or if her husband annulled it for figs but not for grapes, or for grapes but not for figs, or if he confirmed it for figs but not for grapes or for grapes but not for figs — (then only) what was (specifically) confirmed is confirmed, and what was (specifically) annulled is annulled.",
+                      "he": "כל נדר וכל שבועת איסר לענות נפש – למה נאמר? לפי שהוא אומר והפר את נדרה אשר עליה, שומע אני בין שיש בהן ענוי נפש בין שאין בהן ענוי נפש? ת\"ל כל נדר וכל שבועת איסר לענות נפש אישה יקימנו ואישה יפרנו: לא אמרתי אלא נדרים שיש בהם ענוי נפש. נדרים שהם בינו לבינה מנין? ת\"ל אלה החקים אשר צוה ה' את משה בין איש לאשתו בין אב לבתו. שומע אני בין שיש בהן ענוי נפש ובין שאין בהן ענוי נפש? ת\"ל כל נדר וכל שבועת איסר לענות נפש, ומה זה, נדר שאינו מתחלל אלא על פי אחרים, הוא מיפר – כך כל נדר שאינו מתחלל אלא על פי אחרים – הוא מיפר, דברי ר' יאשיה. ר' יונתן אומר: מצינו נדר שאינו מתחלל על ידי אחרים אלא בו – הרי הוא מפר! כאיזה צד? אמר קונם פירות העולם עלי – הרי זה יפר. קונם פירות מדינה זו עלי – יביא לה מן מדינה אחרת. פירות חנוני זה עלי – אין יכול להפר. אלא מה זה נדר שאין מתחלל ע\"י אחרים אלא בו, הוא מפר. אין לי אלא בעל, שאינו מפר אלא נדר שיש בינו לבינה ונדר שיש בהם עינוי נפש. האב מנין? הרי אתה דן: הואיל והאב מפר והבעל מפר; מה הבעל, אין מפר אלא נדרים שבינו לבינה ונדרים שיש בהם ענוי נפש – האב לא יפר אלא נדרים שבינו לבינה ונדרים שיש בהם ענוי נפש. או חלוף: הואיל והאב מפר והבעל מפר, מה האב מפר כל נדר אף הבעל מפר כל נדר? הא מה אני מקיים כל נדר וכל שבועת איסר לענות נפש – בימי הבגר, אבל בימי הנעורים יפר כל נדריה? ת\"ל בנעוריה בית אביה. נעורים בבית אביה אמרתי, ולא נעורים בבית הבעל. דנתי וחלפתי בטל וזכיתי לדין כבתחילה: הואיל והבעל מפר והאב מפר. מה הבעל אין מפר אלא נדרים שבינו לבינה, ונדרים שיש בהם ענוי נפש – אף האב לא יפר אלא נדרים שבינו לבינה ונדרים שיש בהם ענוי נפש. ועוד ק\"ו: מה הבעל, שמפר בבגר, אין מפר אלא נדרים שבינו לבינה ונדרים שיש בהם ענוי נפש – האב, שאין מפר בבגר, אינו דין?! לא: אם אמרת בבעל שאין הרשות מתרוקנת לו, לפיכך אין מפר אלא נדרים שבינו לבינה ונדרים שיש בהם ענוי נפש; תאמר באב שהרשות מתרוקנת לו, לפיכך יפר כל נדר! לא זכיתי לדין, ת\"ל אלה החקים, על כרחך אתה מקיש את האב לבעל: מה הבעל אין מפר אלא נדר שיש בהם ענוי נפש אף האב יכול: אישה יקימנו ואישה יפרנו – נדרה מן התאנים ומן הענבים, קיים בתאנים – כולו קיים. היפר לתאנים – אין מופר עד שיפר לענבים, דברי ר' ישמעאל. ר' עקיבא אומר קיים לתאנים ולא קיים לענבים, שנאמר אישה יקימנו ואישה יפרנו. נדרה מן התאנים ומן הענבים, ונשאל לחכם והתיר לה לתאנים ולא לענבים, לענבים ולא לתאנים – כולו מותר. אסר לה לתאנים ולא לענבים, לענבים ולא לתאנים – אסור. הפר לה בעלה לתאנים ולא לענבים, לענבים ולא לתאנים – כולו מופר. קיים לה לתאנים ולא לענבים, לענבים ולא לתאנים – כולו קיים. אימתי? בזמן שהוא נדר אחד, אבל אם אמר שאני טועם, ועוד ענבים שאני טועם, ונשאל לחכם והתיר לו לתאנים ולא לענבים, לענבים ולא לתאנים, קיים לה לתאנים ולא לענבים, לענבים ולא לתאנים – הקיום בקיומו וההפר בהפירו:",
+                      "ref": "Sifrei Bamidbar 155:1",
+                      "sourceHeRef": "ספרי במדבר קנה:א",
+                      "sourceRef": "Sifrei Bamidbar 155:1"
+                    }
+                  ]
+                },
+                "Mishnah": {
+                  "comments": [
+                    {
+                      "en": "If a woman <b>said: Tasting these figs and grapes is <i>konam</i> for me,</b> and her husband <b>upheld</b> her vow <b>with regard to figs, the entire</b> vow <b>is upheld,</b> but if <b>he nullified</b> it <b>with regard to figs it is not nullified until he also nullifies</b> the vow <b>with regard to grapes.</b> If <b>she said: Tasting a fig and tasting a grape are <i>konam</i> for me, these are</b> viewed as <b>two</b> separate <b>vows;</b> if the husband upholds one of the vows it has no effect on the other one.",
+                      "he": "אָמְרָה, קוֹנָם תְּאֵנִים וַעֲנָבִים אֵלּוּ שֶׁאֵינִי טוֹעֶמֶת, קִיֵּם לַתְּאֵנִים, כֻּלּוֹ קַיָּם. הֵפֵר לַתְּאֵנִים, אֵינוֹ מוּפָר עַד שֶׁיָּפֵר אַף לָעֲנָבִים. אָמְרָה, קוֹנָם תְּאֵנִים שֶׁאֵינִי טוֹעֶמֶת וַעֲנָבִים שֶׁאֵינִי טוֹעֶמֶת, הֲרֵי אֵלּוּ שְׁנֵי נְדָרִים:",
+                      "link": "/Mishnah Nedarim/11",
+                      "ref": "Mishnah Nedarim 11:6",
+                      "sourceHeRef": "משנה נדרים יא:ו",
+                      "sourceRef": "Mishnah Nedarim 11:6"
+                    }
+                  ]
+                },
+                "Ran": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">אמרה קונם תאנים וענבים אלו שאני טועמת קיים לתאנים כולו קיים</strong> - אפי' לענבים ואינו יכול לחזור ולהפר:",
+                      "ref": "Ran on Nedarim 87a:9:1",
+                      "sourceHeRef": "ר\"ן על נדרים פ״ז א:ט:א",
+                      "sourceRef": "Ran on Nedarim 87a:9:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">אינו מופר עד שיפר אף לענבים</strong> - אינו מופר לענבים עד שיפר להם בפירוש אבל לתאנים שהפר מופר לשון אחר אינו מופר כלל אפילו לתאנים שלא כל הימנו להפר מקצתו:",
+                      "ref": "Ran on Nedarim 87a:9:2",
+                      "sourceHeRef": "ר\"ן על נדרים פ״ז א:ט:ב",
+                      "sourceRef": "Ran on Nedarim 87a:9:2"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">אמרה קונם תאנה שאני טועמת וענבה שאני טועמת הרי אלו שני נדרים</strong> - לאו למימרא שיהא צריך הפרה לכל אחד ואחד בפני עצמו דהא שני נדרים הפרה אחת להן וכדתניא בתוספתא <span class=\"parenthesized\">(פ\"ו)</span> היו עליה חמשה נדרים הפרה אחת לכולן אלא לומר שאם הפר או קיים אחד מהם יכול לקיים או להפר את השני:",
+                      "ref": "Ran on Nedarim 87a:9:3",
+                      "sourceHeRef": "ר\"ן על נדרים פ״ז א:ט:ג",
+                      "sourceRef": "Ran on Nedarim 87a:9:3"
+                    }
+                  ]
+                },
+                "Rashba": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b> תאנים וענבים אלו שאני טועמת, קיים לתאנים כולו קיים, הפר לתאנים אינו מופר עד שיפר אף לענבים.</b> מסתברא דהיינו מופר כולו קאמר, כלומר לענבים עד שיפר סתם, אי עד שיפר אף לענבים בהדיא, אבל לתאנים שהפר מופר, ודייקינן ליה מדאמרינן בגמרא אמר רבי חייא בר אבא אמר רבי יוחנן זו דברי רבי ישמעאל ב\"ר יוסי ורבי עקיבא, אבל חכמים אומרים מקיש את הפרה להקמה מה הפרה מה שהפר מופר אף הקמה מה שקיים קיים, דאלמא משמע דמלתא דפשיטא להו לכולהו היא דבהפרה מה שהפר מיהא מופר. ומיהו בתוספתא [כאן פרק ז' הלכה ג'] תניא בהדיא דהפר לתאנים ולא הפר לענבים וחשכה אסור בין בתאנים בין בענבים, דלמא אינו מופר כלל קאמר עד שיפר אף לענבים. ויש לומר לפי דברי התוספתא דהא דאמרינן בגמרא [מה הפרה – לפי השי\"מ] מה שהפר מופר, לאו לדברי בר פלוגתייהו קאמרינן, דהא לרבי עקיבא ודאי אינו כן, אלא ודאי מופר כולו, דאלמא לאו לדברי בר פלוגתייהו קא אמרי אלא לדברי עצמן, כלומר כמו שאנו אומרים בהפרה שם הפר הופר אף לגבי הקמה כן, אף על גב דכתיב יקימנו. ויש לנו כיוצא בו בתלמוד דאינו בונה על הודאת בר פלוגתייהו אלא על הסכמת דברי עצמו כלומר כמו שאני אומר בזו כך אני אומר בזו.",
+                      "ref": "Rashba on Nedarim 87a:1",
+                      "sourceHeRef": "רשב״א על נדרים פ״ז א:א",
+                      "sourceRef": "Rashba on Nedarim 87a:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>הא דתנן תאנה שאני טועמת וענבים שאני טועמת הרי אלו שני נדרים.</b> לאו למימרא שהיא צריך הפרה לכל אחד ואחד בפני עצמו אלא הפרה אחת לכולן, וכדתניא בתוספתא [כאן פרק ו' הלכה א'] היו עליה חמשה נדרים הפרה אחת לכולן, אלא לומר לך שאם הפר או קיים אחד מהן יכול הוא להפר או לקיים את השני, וכן מפורש בתוספתא. [שם] תוספתא: היו על אשתו חמשה נדרים או שהיו לו חמש נשים ונדרו כולן ואמר מופר כולן מופרין. [כאן פרק ז' הלכה ו'] תוספתא אחרת: נדרה אשתו והפר לה וסבור בתו, נדרה בתו והפר [לה – לפי השי\"מ] וסבור אשתו נדרה הרי זה יקיים, אם רצה להפר יחזור ויפר. נדרה אשתו וקיים לה וסבור בתו נדרה [נדרה – לפי השי\"מ] בתו וקיים לה וסבור אשתו נדרה הרי זה יפר, אם רצה לקיים מקיים, [שם הלכה ז'] נדרה מתאנים וענבים הפר לתאנים יחזור ויפר לענבים וכו', הפר לתאנים ולא הפר לענבים אסורה לאכול בענבים ותאנים, הפר לתאנים וחשכה אסורה לאכול בתאנים וענבים כו'.",
+                      "ref": "Rashba on Nedarim 87a:2",
+                      "sourceHeRef": "רשב״א על נדרים פ״ז א:ב",
+                      "sourceRef": "Rashba on Nedarim 87a:2"
+                    }
+                  ]
+                },
+                "Rashi": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">אמרה קונם תאנים וענבים שאיני טועמת קיים לתאנים כל הנדר קיים</strong> - אף הענבים שאין יכול להפר שוב אפילו אענבים קסבר נדר שהוקם מקצתו הוקם כולו ובגמרא מפרש יקימנו יקים ממנו:",
+                      "ref": "Rashi on Nedarim 87a:9:1",
+                      "sourceHeRef": "רש\"י על נדרים פ״ז א:ט:א",
+                      "sourceRef": "Rashi on Nedarim 87a:9:1"
+                    }
+                  ]
+                },
+                "Ritva": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בעי רבא</b> [דף סט.] קיים ליכי קיים ליכי ונשאל על הקמה ראשונה מהו מי חיילא שניה תחתיה או דילמא מעיקרא מעקר בקמייתא ת\"ש דאמר רבא אם נשאל על הראשונה שניה חלה עליו. ואם עברה על נדרה לוקה עד שישאל אף על השניה. והיכא דאמר לה קיים ליכי שעה וכו' כתבתי למעלה במקומו אשר הוזכר בגמרא [דף ע.]:",
+                      "ref": "Ritva on Nedarim 87a:5",
+                      "sourceHeRef": "ריטב\"א על נדרים פ״ז א:ה",
+                      "sourceRef": "Ritva on Nedarim 87a:5"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>תניא חומר בהקם מבהפר וכו'</b> פרשתיו למעלה:",
+                      "ref": "Ritva on Nedarim 87a:4",
+                      "sourceHeRef": "ריטב\"א על נדרים פ״ז א:ד",
+                      "sourceRef": "Ritva on Nedarim 87a:4"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>אמרה קונם תאנים שאני טועמת וענבים שאני טועמת הרי אלו ב' נדרים.</b> פי' ואם קיים אחד מהם לא נתקיים אלא הוא ואם הפר אחד מהם הרי הוא מופר ובגמ' אמרינן זו דברי ר' ישמעאל דס\"ל כסיפא דרישא דמתני' דהקמה במקצת הויא הקמה לכולה ואין הפרת מקצת מועיל עד שיפר הכל כאחד ור' עקיבא פליג ואמר דמקשינן הפרה להקמה והפרה במקצת נמי הויא הפרה לכולה והקמה במקצת דהויא הקמה לכולו נפקא לן מדכתיב יקימנו כלומר יקים ממנו דהיינו מקצתו יקימנו כולו ואמרינן אמר רבי חייא בר אבא זו דברי רבי ישמעאל ור' עקיבא אבל חכמים אומרים מה הפרה מה שהפר הפר בלחוד ותו לא אף הקמה מה שהקים הקים ותו לא דסבירא להו דבין בהפרה בין בהקמה כי הוי במקצת לההוא מקצת מהני טפי לא מהני והכי מוכח לישנא וי\"מ דלא מהני כלל אף למה שהפר או שקיים דסבירא להו בהפרה כר' ישמעאל וסברי דמקשינן הקמה להפרה לחומרא ויש שסבורים דלר' ישמעאל נמי הפר לתאנים מופר לתאנים ומאי דקתני אינו מופר עד שיפר אף לענבים למימרא דאינו מופר הכל אף לענבים עד שיפר בפי' ולא מחוור אלא כדאמרן והלכתא כרבנן:",
+                      "ref": "Ritva on Nedarim 87a:3",
+                      "sourceHeRef": "ריטב\"א על נדרים פ״ז א:ג",
+                      "sourceRef": "Ritva on Nedarim 87a:3"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>הפר לתאנים אינו מופר.</b> פירוש אפילו לגבי תאנים עד שיפר אף לענבי לענבים דהפרה גמורה בעינן ובין להפרה בין להקמה רואין הנדר כולו דבר אחד וגבי הקמה דתליא רחמנא בשתיקה הקמה קצת הויא הקמה לכולה אבל גבי הפרה עד שיפר הכל וגבי התרת חכם שהוא עוקר הנדר מעיקרו הוא דאמרינן [דף כה: ודף סו.] נדר שהותר מקצתו הותר כולו אבל לא בהפרת בעל ודכוותה בהיתר נידוי וחרם כדכתיבנא לעיל [בפ\"ג] כדתנן בדכותה גבי התפסת אשה בחברתה כדאיתא לעיל [ספ\"י]:",
+                      "ref": "Ritva on Nedarim 87a:2",
+                      "sourceHeRef": "ריטב\"א על נדרים פ״ז א:ב",
+                      "sourceRef": "Ritva on Nedarim 87a:2"
+                    },
+                    {
+                      "en": "",
+                      "he": "<b>אמרה קונם תאנים וענבים שאני אוכלת קיים לתאנים כלו קיים.</b> פירוש אפי' לגבי ענבים ושוב אינו יכול להפר והוא שידע בכל הנדר:",
+                      "ref": "Ritva on Nedarim 87a:1",
+                      "sourceHeRef": "ריטב\"א על נדרים פ״ז א:א",
+                      "sourceRef": "Ritva on Nedarim 87a:1"
+                    }
+                  ]
+                },
+                "Rosh": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "פרק אחד עשר [דף עט ע\"א] אלו נדרים שהוא מיפר נדרים שיש בהן עינוי נפש אם ארחץ אם לא ארחץ אם אתקשט ואם לא אתקשט [דף עט ע\"ב] אמר רבי יוסי אין אלו נדרי עינוי נפש ואלו הן נדרי עינוי נפש אמרה קונם פירות עולם עלי הרי זה יפר פירות מדינה זו עלי יביא לה ממדינה אחרת פירות חנווני זה עלי אינו יכול להפר ואם לא היתה פרנסתו אלא ממנו ה\"ז יפר דברי רבי יוסי: גמ' נדרי עינוי נפש הוא דמיפר שאין בהן עינוי נפש אינו מיפר והתניא בין איש לאשתו בין אב לבתו מלמד שהבעל מיפר בדברים שבינו לבינה אמרי הלין והלין מיפר מיהו נדרי עינוי נפש מיפר לעולםאבל אין בהן עינוי נפש כי איתה תחותיה הוא דמיפר כי מגרש לה חייל עליה נדרא. ודברים שאין בהן עינוי נפש כי מגרש לה חייל עליה נדרא והא תנן <span class=\"parenthesized\">(לקמן נדרים דף פה.)</span> קונם שאני עושה לפיך ר' יוחנן בן נורי אמר יפר שמא יגרשנה ותהא אסורה לחזור לו אלמא כי מגרש לה והפר לה מעיקרא הויא הפרה. אמרי הלין והלין הוי הפרה אלא נדרי עינוי נפש מיפר בין לעצמו בין לאחרים אבל אין בהן עינוי נפש לעצמו מיפר לאחרים אינו מיפר פי' לעצמו מיפר כל מה דשייך לעצמו הויא הפרתו הפרה בין כל זמן שהיא תחתיו בין אם גירשה והחזירה הלכך אם גירשה כל זמן שהיא ראויה לשוב אליו לא חל הנדר אבל אם נשאת לאחר חל הנדר דלא מסתבר למימר שיחול הנדר מיד אחר שגירשה ואם יחזירנה פקע הנדר דלא מצינו נדר שחל פעם שיפקע ממילא. לאחרים אינו מיפר כשאין תועלת לעצמו באותו הפרה אלא לאחרים והיינו אחר שנשאת לאחר והכי קתני אלו נדרים שמיפר בין לעצמו בין לאחרים נדרים שיש בהן עינוי נפש. תשלום הברייתא זו בספרי אין לי אלא בעל שאינו מיפר אלא דברים שבינו לבינה ודברים שיש בהם עינוי נפש האב מנין הרי אתה דן וכו' לא זכיתי לדין תלמוד לומר אלה החוקים וגו' בין איש לאשתו בין אב לבתו על כרחיך הרי אתה מקיש את האב לבעל מה הבעל אינו מיפר אלא דברים שבינו לבינה ודברים שיש בהן עינוי נפש. אף האב אינו מיפר אלא דברים שבינו לבינה ודברים שיש בהן עינוי נפש: [דף פ ע\"ב] אם ארחץ היכי קאמרה אמר רבא דאמרה הנאת רחיצה עלי לעולם אם ארחץ [היום] ושבועה שלא ארחץ הנאת קישוט עלי לעולם אם אתקשט [היום] ושבועה שלא אתקשט דרבנן סברי רחיצה וקישוט עינוי נפש הוי ורבי יוסי סבר לאו עינוי נפש הוי. כתב הרמב\"ם ז\"ל והלכתא כרבנן דיחיד ורבים הלכה כרבים ועוד דאמוראי אמרי כוותייהו ואע\"ג דאמר רב הונא <span class=\"parenthesized\">(לקמן נדרים דף פב.)</span> כולה פירקין רבי יוסי היא ממאי דכיון דקתני ר' יוסי אומר אין אלו נדרי עינוי נפש למה לי למיתנא דברי רבי יוסי שמע מינה מכאן והילך רבי יוסי היא כולהו לאו סתמי נינהו אלא כאילו כתיב בכולן דברי רבי יוסי הלכך לא מיבעיא שלא ארחץ לעולם ושלא אתקשט לעולם דהוי עינוי נפש אלא אפילו שלא ארחץ שלא אתקשט היום הוי עינוי נפש דניוול דיומיה שמיה ניוול ויפר: [דף פא ע\"ב] תניא דברים שיש בהן עינוי נפש מיפר בין בינו לבינה בין בינה לבין אחרים דברים שאין בהן עינוי נפש בינו לבינה מיפר בינה לבין אחרים אינו מיפר כיצד אמרה פירות העולם עלי הרי זה יפר קונם שאני עושה לפי אבא לפי אביך לפי אחי לפי אחיך ושלא אתן תבן לפני בהמתך ומים לפני בקרך אינו יכול להפר ושלא אכחול ושלא אפקס ושלא אשמש מטתי יפר משום דברים שבינו לבינה שלא אציע מטתך ושלא אמזוג לך את הכוס ושלא ארחץ את פניך ידיך ורגליך אינו צריך להפר רבן גמליאל אומר יפר משום לא יחל דברו ד\"א לא יחל דברו מכאן לחכם שאינו מתיר נדרי עצמו הא דקתני הכא שלא אכחול ושלא אפקס דברים שבינו לבינה הויין ולא עינוי נפש ר' יוסי היא אבל לרבנן עינוי נפש הוי ויפר לעולם וכן מסתבר דהלכה כרבנן אבל הרמב\"ן ז\"ל כתב דקישוט ותשמיש הוי דברים שבינו לבינה ומיפר לעצמו ואיפשר דסבירא ליה כיון דהש\"ס מיבעיא ליה אליבא דרבי יוסי אי רחיצה וקישוט הויין דברים שבינו לבינה ופליגי אליביה רב אדא בר אהבה ורב הונא ותניא כוותיה דרב אדא בר אהבה אלמא דהלכה כוותיה וזו אינה ראיה כל כך דהכי נמי בעא מיניה רבא מרב נחמן תשמיש המטה לרבנן עינוי נפש הוי או דברים שבינו לבינה הוי ובעי למיפשט ליה ממתני' נטולה אני מן היהודים יפר חלקו ודחי ליה דמתניתין דכולה פירקין ר' יוסי אינון ולא איפשיטא הבעיא הלכך נראה דהלכה כחכמים: תנן בפרק שני דנגעים <span class=\"parenthesized\">(מ\"ה)</span> כל הנגעים אדם רואה חוץ מנגעי עצמו ר' מאיר אומר אף לא נגעי קרוביו כל הנדרים אדם מתיר חוץ מנדרי עצמו רבי יהודה אומר אף לא נדרי אשתו שבינה לבין אחרים. ובירושלמי <span class=\"parenthesized\">(פ' נערה המאורסה ה\"י)</span> גרסינן נדרה אשה ושמע בעלה ולא הפר לה פשיטא שאינו מיפר לה לענין הבעל מהו שיפר לה לענין הזקן מה אנן קיימין אם בנדרים שבינו לבינה נדרי עצמו הן אלא אנו קיימין בדברים שבינה לבין אחרים ולא רבי יהודה היא תנינן בשם רבי יהודה רבי חייא תני לה בשם חכמים שמעינן מהא דהלכה כרבי יהודה שאין הבעל מתיר נדרי אשתו מאי טעמא אשתו כגופו דמיא ואין חכם מתיר נדרי עצמו. [דף פב ע\"א] אמר שמואל משמיה דלוי כל נדרים בעל מיפר לאשתו חוץ מהנאתי על פלוני שאינו מיפר אבל הנאת פלוני עלי מיפר ואותבי' עליה ממתניתין דתנן קונם פירות מדינה זו עלי יביא לה ממדינה אחרת ושני מתניתין ר' יוסי היא ושמואל דאמר כרבנן וכתב הרמב\"ן ז\"ל ושמעינן מהא דהלכתא כרבנן דליכא אמוראי דפליגי אדשמואל ולוי דאמרי כוותייהו ואע\"ג דאיכא דמפרשי ומאי אין יכול להפר משום נדרי עינוי נפש אבל מיפר משום שבינו לבינה דשינויא אחרינא הוא ואתיא דשמואל אף כרבי יוסי מסתבר <span class=\"parenthesized\">(אף)</span> כאידך פירושא דסיומא דמלתא היא ואתיא דשמואל כרבנן: תוספתא <span class=\"parenthesized\">(פ\"ז)</span> נדרה שלא תטעום אחד מכל המינים בין מאכל רע בין מאכל יפה אפילו לא טעמה אותו המין מימיה יפר אמרה קונם פלפלין שאני טועמת גלוסקין שאני טועמת אפילו לא הוי לה אותו המין מימיה יפר. [דף פב ע\"ב] א\"ר יהודה אמר שמואל נדרה משני ככרות באחת מתענה ובאחת אין מתענה מתוך שהוא מיפר למתענה מיפר לשאינו מתענה דכיון דנדר אחד ואית קצת עינוי אף בשני מיפר אף לשני אבל בלא הפרה אינו מותר משום דהותר מקצתו דדוקא גבי התרת חכם הוא דאמרינן הכי משום דעושה הנדר טעות מעיקרו הלכך כיון שהותר מקצתו הותר כולו שלא היתה דעתו אלא שיהא כל הנדר קיים והא דאמרינן <span class=\"parenthesized\">(לקמן נדרים דף צ:)</span> בנטולה אני מן היהודים דמיפר דוקא חלקו ולא אמרינן מתוך שמיפר חלקו מיפר גם לאחרים דבין איש לאשתו כתיב גזירת הכתוב היא דוקא בינו לבינה הוא מיפר ולא בינה לבין אחרים והא דתנן <span class=\"parenthesized\">(לקמן נדרים דף פז.)</span> במתני' הפר לתאנים אינו מופר עד שיפר אף לענבים התם כשפירש שהפר דוקא לתאנים אבל הכא מיירי שהפר סתם ור' אסי אמר רבי יוחנן מיפר למתענה ואינו מיפר לשאין מתענה והלכה כר' יוחנן ואע\"ג דפריך ליה ממתניתין הא שני לכולהו:",
+                      "ref": "Rosh on Nedarim 11:1:1",
+                      "sourceHeRef": "פסקי הרא\"ש על נדרים יא:א:א",
+                      "sourceRef": "Rosh on Nedarim 11:1:1"
+                    }
+                  ]
+                },
+                "Steinsaltz": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<big>א משנה</big> <b>אמרה</b> האשה <b>\"קונם תאנים וענבים אלו שאני טועמת\"</b> אם <b>קיים</b> לה אביה או בעלה את הנדר <b>לתאנים —</b> כל הנדר <b>כולו קיים,</b> אם <b>הפר לתאנים</b> שנדרה בהם — <b>אינו מופר עד שיפר אף לענבים. אמרה \"קונם תאנה שאני טועמת, וענבה שאני טועמת\" —</b> <b>הרי אלו שני נדרים</b> נבדלים ואין קיום דבר אחד מועיל לדבר אחר.",
+                      "ref": "Steinsaltz on Nedarim 87a:9",
+                      "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ז א:ט",
+                      "sourceRef": "Steinsaltz on Nedarim 87a:9"
+                    }
+                  ]
+                },
+                "Tosafot": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">קיים לחצאין קיים</strong> - דדרשינן בגמרא יקימנו יקים ממנו <span class=\"parenthesized\">(הפר ממנו)</span> הפר לחצאין אינו מופר כלל דהפרה במקצת לא הוי הפרה ואע\"ג דאמר נדר שהותר מקצתו הותר כולו שאני בין הפרה להתרת חכם:",
+                      "ref": "Tosafot on Nedarim 87a:9:1",
+                      "sourceHeRef": "תוספות על נדרים פ״ז א:ט:א",
+                      "sourceRef": "Tosafot on Nedarim 87a:9:1"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\">הרי אלו שני נדרים</strong> - אם קיים לענבים לא קיים לתאנים:",
+                      "ref": "Tosafot on Nedarim 87a:9:2",
+                      "sourceHeRef": "תוספות על נדרים פ״ז א:ט:ב",
+                      "sourceRef": "Tosafot on Nedarim 87a:9:2"
+                    }
+                  ]
+                },
+                "Tosefta": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "נדרה מן התאנים וענבים הפר לתאנים יחזור ויפר לענבים לענבים יחזור ויפר לתאנים לא הפר לתאנים והפר לענבים אסורה לאכול בתאנים [וענבים] הפר לענבים ולא הפר לתאנים אסורה לאכול בענבים [ותאנים] הפר לתאנים וחשיכה אסורה לאכול תאנים וענבים הפר לענבים וחשיכה אסורה לאכול ענבים [ותאנים] אמרה קונם תאנים שאני טועמת ועוד ענבים שאני טועמת הרי אלו שני נדרים מפר איזה מהן שירצה ומקיים איזה מהן שירצה שנאמר <span class=\"parenthesized\">(במדבר ל׳:י״ד)</span> אישה יקימנו ואישה יפירנו אישה יקימנו לזו ואישה יפירנו לזו.",
+                      "ref": "Tosefta Nedarim 7:7",
+                      "sourceHeRef": "תוספתא נדרים ז:ז",
+                      "sourceRef": "Tosefta Nedarim 7:7"
+                    },
+                    {
+                      "en": "",
+                      "he": "קונם שני נהנה לבריות, אין יכול להפר. יכולה להנות בלקט, בשכחה, ובפיאה, ובמעשר עני. נדרה אשתו והפר לה, וסבור נדר' בתו, נדר' בתו והפר לה, וסבור אשתו נדרה, הרי זה יקיים, ואם רצה להפר מיפר. נדרה אשתו וקיים לה, וסבור בתו נדרה, נדרה בתו וקיים לה, וסבור אשתו נדרה, הרי זה יפר, ואם רצה להקים מקים. נדרה מן התאנים וענבים, הפר לתאנים ולא הפר לענבים, אסור' לוכל בתאנים וענבים. הפר לענבים ולא הפר לתאנים, אסורה לוכל בענבים ותאנים. היפר לתאנים וחשיכה, אסורה לוכל תאנים וענבים. היפר לענבים וחשיכה, אסורה לוכל ענבים ותאנים. אמרה קונם תאינה שני טועמת ועוד ענבים שני טועמת, הרי אילו שני נדרים, מיפר אי זה מהן שירצה ומקים אי זה מהן שירצה, שנ' אישה יקימנו לזו ואישה יפירנו לזו.",
+                      "ref": "Tosefta Nedarim (Lieberman) 7:4",
+                      "sourceHeRef": "תוספתא נדרים (ליברמן) ז:ד",
+                      "sourceRef": "Tosefta Nedarim (Lieberman) 7:4"
+                    }
+                  ]
+                }
+              },
+              "en": "<strong>MISHNA:</strong> If a woman <b>said: Tasting these figs and grapes is <i>konam</i> for me,</b> and her husband <b>upheld</b> her vow <b>with regard to figs, the entire</b> vow <b>is upheld,</b> but if <b>he nullified</b> it <b>with regard to figs it is not nullified until he also nullifies</b> the vow <b>with regard to grapes.</b> If <b>she said: Tasting a fig and tasting a grape are <i>konam</i> for me, these are</b> viewed as <b>two</b> separate <b>vows;</b> if the husband upholds one of the vows it has no effect on the other one.",
+              "expandedRefsAfterRewriting": [
+                "Nedarim 87a:9"
+              ],
+              "he": "<big><strong>מַתְנִי׳</strong></big> אָמְרָה ״קֻוֽנָּם תְּאֵנִים וַעֲנָבִים אֵלּוּ שֶׁאֲנִי טוֹעֶמֶת״, קִיֵּים לִתְאֵנִים — כּוּלּוֹ קַיָּים, הֵפֵר לִתְאֵנִים — אֵינוֹ מוּפָר עַד שֶׁיָּפֵר אַף לַעֲנָבִים. אָמְרָה ״קֻוֽנָּם תְּאֵנָה שֶׁאֲנִי טוֹעֶמֶת וַעֲנָבָה שֶׁאֲנִי טוֹעֶמֶת״ — הֲרֵי אֵלּוּ שְׁנֵי נְדָרִים.",
+              "link": "/Nedarim/87a",
+              "ref": "Nedarim 87a:9",
+              "sourceHeRef": "unused",
+              "sourceRef": "Nedarim 87a:9"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו במשנה: <b>אמרה</b> האשה <b>\"קונם תאנה</b> שאני טועמת, וענבה שאני טועמת <b>\"</b>— הרי אלה שני נדרים. <b>אמר רבא: מתניתין</b> <span class=\"hebrew-emphasis\">[משנתנו]</span> כשיטת <b>ר' שמעון היא.</b> ש<b>אמר:</b> אין אדם חייב משום כמה שבועות שווא כאשר נשבע לאנשים אחדים <b>עד שיאמר</b> לשון <b>\"שבועה\" לכל אחד ואחד</b> לחוד, ואם לא הזכיר לשון שבועה לכל אחד ואחד רואים את הכל כשבועה אחת בלבד.",
+              "ref": "Steinsaltz on Nedarim 87b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ז ב:ג",
+              "sourceRef": "Steinsaltz on Nedarim 87b:3"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבי שמעון היא</strong> - דאמר בפרק שבועת הפקדון <span class=\"parenthesized\">(שבועות לו:)</span> דלא הוי שבועה פרט להתחייב חמש חטאות עד שיאמר שבועה לכל אחד ואחד והכא נמי לא הוי שני נדרים אלא משום דאמר קונם לכל אחד ואחד:",
+              "ref": "Tosafot on Nedarim 87b:3:1",
+              "sourceHeRef": "תוספות על נדרים פ״ז ב:ג:א",
+              "sourceRef": "Tosafot on Nedarim 87b:3:1"
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches that if a woman <b>said:</b> Tasting <b>a fig</b> and tasting a grape are <b><i>konam</i></b> for me, these are viewed as two separate vows. <b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said: The mishna is</b> in accordance with the opinion of <b><span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span>, as</b> <span href=\"/topics/shimon-bar-yochai\" class=\"namedEntityLink\" data-slug=\"shimon-bar-yochai\">Rabbi Shimon</span> <b>said</b> that one is not liable to bring multiple offerings for taking false oaths to multiple people in the same utterance, for example, if he says: I take an oath that I do not have your item, nor yours, nor yours, <b>unless he states</b> an expression of <b>an oath to each and every one</b> of the creditors, for example by stating: I take an oath I do not have yours; I take an oath I do not have yours. Here too, only if she says: Tasting, with respect to each fruit are they viewed as two separate vows.",
+      "he": "אָמְרָה ״קֻוֽנָּם תְּאֵנָה״, אָמַר רָבָא: מַתְנִיתִין רַבִּי שִׁמְעוֹן הִיא. דְּאָמַר: עַד שֶׁיֹּאמַר ״שְׁבוּעָה״ לְכׇל אֶחָד וְאֶחָד.",
+      "ref": "Nedarim 87b:3",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> יפר כו' מכן כשנודע כצ\"ל:",
+              "ref": "Chidushei Halachot on Nedarim 87b:9",
+              "sourceHeRef": "חדושי הלכות על נדרים פ״ז ב:ט",
+              "sourceRef": "Chidushei Halachot on Nedarim 87b:9"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>Rabbi Ḥanina says:</b> A husband <b>who is silent</b> and does not formally nullify his wife’s vow <b>in order to annoy [<i>lemeikat</i>]</b> her, but intends to nullify it later, <b>can nullify</b> it <b>even from now until ten days</b> later. <b>Rava raised an objection</b> to this from a <i>baraita</i>: <b>When did they say</b> that if <b>the husband</b> of a betrothed young woman <b>dies,</b> the <b>authority</b> to nullify the woman’s vows <b>reverts to the father?</b> The authority reverts to the father <b>when the husband did not hear</b> of her vow, <b>or when he heard and was silent, or when he heard and nullified</b> it <b>and died on the same day. But</b> if <b>he heard and ratified</b> it, <b>or if he heard and was silent and died on the following day, he,</b> the father, <b>cannot nullify</b> the vow.",
+                  "<b>What, is</b> the phrase: Heard and was silent, <b>not</b> referring even <b>to one who is silent in order to annoy</b> her, and nevertheless nullification is only possible that day, contradicting the opinion of Rabbi Ḥanina? The Gemara answers: <b>No,</b> the <i>baraita</i> is referring <b>to one who is silent in order to sustain</b> the vow. The Gemara asks: <b>If so, this is</b> the same as: <b>Or he heard and ratified,</b> mentioned earlier in the <i>baraita</i>. <b>Rather,</b> the <i>baraita</i> is referring <b>to one who is silent without any specific</b> intent, as opposed to the husband who is silent in order to annoy his wife, whose intent is to nullify the vow.",
+                  "<b>Rav Ḥisda raised an objection</b> from a different <i>baraita</i>: In some ways the <i>halakha</i> is more <b>stringent in ratification than in nullification, and</b> in other ways it is more stringent <b>in nullification than in ratification.</b> The <b>stringency in ratification</b> of vows is"
+                ],
+                [
+                  "<b>that silence ratifies</b> a vow, <b>but silence does not cancel,</b> i.e., nullify, a vow. If the husband <b>ratified</b> a vow <b>in his heart, it is ratified,</b> but if <b>he nullified</b> it <b>in his heart, it is not nullified.</b> The <i>baraita</i> adds: <b>If he ratified</b> a vow <b>he can no longer nullify</b> it; and similarly, <b>if he nullified</b> a vow <b>he can no longer ratify</b> it. In any case, the <i>baraita</i> <b>teaches that silence ratifies</b> a vow. <b>What, is it not</b> referring even <b>to one who is silent in order to annoy</b> his wife?",
+                  "The Gemara rejects this interpretation: <b>No,</b> it is referring <b>to one who is silent in order to sustain</b> the vow. The Gemara asks: If so, <b>this is</b> the same as: <b>If</b> the husband <b>ratified</b> a vow <b>in his heart, it is ratified. Rather,</b> the phrase in the <i>baraita</i>: Silence ratifies a vow, is referring <b>to</b> a case where the husband <b>is silent without specifying</b> his intent.",
+                  "Relating to the <i>baraita</i>, the Gemara asks: <b>We found</b> how the <i>halakha</i> is more <b>stringent in ratification</b> of vows <b>than in nullification</b> of vows, but <b>where</b> do <b>we</b> find a case <b>in</b> which the <i>halakha</i> is more stringent <b>in nullification than in ratification? Rabbi Yoḥanan says: One can request</b> from a halakhic authority dissolution of <b>the ratification</b> of a vow his wife took, <b>but one cannot request</b> dissolution of <b>the nullification</b> of a vow.",
+                  "<b>Rav Kahana raised an objection</b> to the opinion of Rabbi Ḥanina that a husband who is silent about his wife’s vow in order to annoy her can nullify it even several days later. A <i>baraita</i> teaches: <b>“But if her husband altogether hold his peace at her</b> from day to day, then he causes all her vows to be ratified” (Numbers 30:15). <b>The verse is speaking of one who is silent in order to annoy</b> his wife. Do <b>you say</b> that the verse is referring <b>to one who is silent in order to annoy</b> her, <b>or it is</b> referring <b>only to one who is silent in order to ratify</b> the vow?",
+                  "The <i>baraita</i> continues: <b>When it says,</b> in the continuation of the same verse: “He has ratified them, <b>because he held his peace at her</b> on the day that he heard them” (Numbers 30:15), <b>the verse is speaking of one who is silent in order to ratify</b> the vow. <b>How do I realize</b> the meaning of: <b>“If her husband altogether holds his peace at her”?</b> It must be that <b>the verse is speaking of one who is silent in order to annoy</b> his wife, and that this is also considered an act of ratification. This <i>baraita</i> is <b>a conclusive refutation [<i>teyuveta</i>]</b> of Rabbi Ḥanina’s opinion.",
+                  "The Gemara asks about this <i>baraita</i>: <b>And let</b> the <i>tanna</i> <b>interpret this</b> part of the verse as referring <b>to one who is silent in order to ratify</b> the vow, and <b>that</b> part of the same verse as referring <b>to one who was silent without specifying</b> his intent, as the Gemara suggests above in explanation of the <i>baraita</i>? The Gemara answers: <b>Superfluous verses are written</b> about silence, leading to the conclusion that whatever the reason for the husband’s silence, the vow is ratified.",
+                  "<b>Rava raised</b> a further <b>objection</b> to the opinion of Rabbi Ḥanina, from a mishna (76b): If <b>she took a vow</b> on Friday <b>with nightfall</b> approaching, her father or husband <b>can nullify</b> the vow only <b>until nightfall, since, if it became dark and he had not</b> yet <b>nullified</b> her vow, <b>he cannot nullify</b> it anymore. <b>Why</b> should this be so? <b>Let</b> the fact that the husband refrained from nullifying the vow out of respect for Shabbat be regarded <b>like one who is silent in order to annoy</b> his wife, who, according to Rav Huna, can still nullify the vow later. The fact that this is not the case is <b>a conclusive refutation</b> of the opinion of Rabbi Ḥanina.",
+                  "<b>Rav Ashi</b> also <b>raised an objection</b> to Rabbi Ḥanina’s opinion, from another mishna (87b): If a husband or father said, after failing to nullify a vow on the day he heard it: <b>I know that there are vows, but I do not know that there are those who</b> can <b>nullify</b> vows, i.e., he was unaware that he can nullify a vow, <b>he can nullify</b> it even after the day he heard it. However, if he said: <b>I know there are those who nullify, but</b> I refrained from nullifying the vow because <b>I do not know that this is</b> considered <b>a vow</b> that I could nullify, <b>Rabbi Meir says: He cannot nullify</b> at this point, <b>but the Rabbis say:</b> Even in this case <b>he can nullify</b> the vow when he discovers his error.",
+                  "Rav Ashi asks rhetorically: <b>But why</b> may he not nullify according to Rabbi Meir’s opinion? <b>Let</b> his silence by mistake be <b>like</b> that of <b>one who is silent in order to annoy,</b> who, according to Rabbi Ḥanina, can nullify the vow at a later stage. This is <b>a conclusive refutation</b> of Rabbi Ḥanina’s opinion.",
+                  ""
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Nedarim 78b:4",
+                "Nedarim 78b:5",
+                "Nedarim 78b:6",
+                "Nedarim 79a:1",
+                "Nedarim 79a:2",
+                "Nedarim 79a:3",
+                "Nedarim 79a:4",
+                "Nedarim 79a:5",
+                "Nedarim 79a:6",
+                "Nedarim 79a:7",
+                "Nedarim 79a:8",
+                "Nedarim 79a:9",
+                "Nedarim 79a:10"
+              ],
+              "he": [
+                [
+                  "אָמַר רַבִּי חֲנִינָא: הַשּׁוֹתֵק עַל מְנָת לְמֵיקַט, מֵפֵר אֲפִילּוּ מִכָּאן וְעַד עֲשָׂרָה יָמִים. מֵתִיב רָבָא: אֵימָתַי אָמְרוּ מֵת הַבַּעַל נִתְרוֹקְנָה רְשׁוּת לָאָב — בִּזְמַן שֶׁלֹּא שָׁמַע הַבַּעַל, אוֹ שֶׁשָּׁמַע וְשָׁתַק, אוֹ שֶׁשָּׁמַע וְהֵפֵר וּמֵת בּוֹ בַּיּוֹם. אֲבָל שָׁמַע וְקִיֵּים, אוֹ שֶׁשָּׁמַע וְשָׁתַק וּמֵת בַּיּוֹם שֶׁל אַחֲרָיו — אֵין יָכוֹל לְהָפֵר.",
+                  "מַאי לָאו, בְּשׁוֹתֵק עַל מְנָת לְמֵיקַט? לֹא, בְּשׁוֹתֵק עַל מְנָת לְקַיֵּים. אִי הָכִי, הַיְינוּ אוֹ שָׁמַע וְקִיֵּים! אֶלָּא, בְּשׁוֹתֵק סְתָם.",
+                  "מֵתִיב רַב חִסְדָּא: חוֹמֶר בְּהָקֵם מִבְּהָפֵר, וּבְהָפֵר מִבְּהָקֵם. חוֹמֶר בְּהָקֵם —"
+                ],
+                [
+                  "שֶׁהַשְּׁתִיקָה מְקַיֶּימֶת, וְאֵין שְׁתִיקָה מְבַטֶּלֶת. קִיֵּים בְּלִבּוֹ — קַיָּים, הֵפֵר בְּלִבּוֹ — אֵינוֹ מוּפָר. קִיֵּים — אֵין יָכוֹל לְהָפֵר, הֵפֵר — אֵין יָכוֹל לְקַיֵּים. קָתָנֵי: שֶׁהַשְּׁתִיקָה מְקַיֶּימֶת, מַאי לָאו בְּשׁוֹתֵק עַל מְנָת לְמֵיקַט?",
+                  "לֹא, בְּשׁוֹתֵק עַל מְנָת לְקַיֵּים. הַיְינוּ: קִיֵּים בְּלִבּוֹ קַיָּים! אֶלָּא בְּשׁוֹתֵק סְתָם.",
+                  "אַשְׁכְּחַן חוֹמֶר בְּהָקֵם מִבְּהָפֵר, בְּהָפֵר מִבְּהָקֵם מְנָא לַן? אָמַר רַבִּי יוֹחָנָן: נִשְׁאָלִין עַל הֶהָקֵם, וְאֵין נִשְׁאָלִין עַל הֶהָפֵר.",
+                  "מֵתִיב רַב כָּהֲנָא: ״וְאִם הַחֲרֵשׁ יַחֲרִישׁ לָהּ אִישָׁהּ וְגוֹ׳״, בְּשׁוֹתֵק עַל מְנָת לְמֵיקַט הַכָּתוּב מְדַבַּר. אַתָּה אוֹמֵר בְּשׁוֹתֵק עַל מְנָת לְמֵיקַט, אוֹ אֵינוֹ אֶלָּא בְּשׁוֹתֵק עַל מְנָת לְקַיֵּים?",
+                  "כְּשֶׁהוּא אוֹמֵר ״כִּי הֶחֱרִשׁ לָהּ״, הֲרֵי בְּשׁוֹתֵק עַל מְנָת לְקַיֵּים הַכָּתוּב מְדַבֵּר, הָא מָה אֲנִי מְקַיֵּים ״אִם הַחֲרֵשׁ יַחֲרִישׁ לָהּ אִישָׁהּ״ — בְּשׁוֹתֵק עַל מְנָת לְמֵיקַט הַכָּתוּב מְדַבֵּר! תְּיוּבְתָּא.",
+                  "וְלוֹקֵים: הָא — בְּשׁוֹתֵק עַל מְנָת לְקַיֵּים, הָא — בְּשׁוֹתֵק סְתָם! קְרָאֵי יַתִּירִי כְּתִיבִי.",
+                  "מֵתִיב רָבָא: נָדְרָה עִם חֲשֵׁכָה — מֵפֵר לָהּ עַד שֶׁלֹּא חָשְׁכָה, שֶׁאִם לֹא הֵפֵר וְחָשְׁכָה — אֵינוֹ יָכוֹל לְהָפֵר. אַמַּאי? לֶהֱוֵי כְּשׁוֹתֵק עַל מְנָת לְמֵיקַט! תְּיוּבְתָּא.",
+                  "מֵתִיב רַב אָשֵׁי: ״יוֹדֵעַ אֲנִי שֶׁיֵּשׁ נְדָרִים, אֲבָל אֵינִי יוֹדֵעַ שֶׁיֵּשׁ מְפִירִין״ — יָפֵר. ״יוֹדֵעַ אֲנִי שֶׁיֵּשׁ מְפִירִין, אֲבָל אֵינִי יוֹדֵעַ שֶׁזֶּה נֶדֶר״, רַבִּי מֵאִיר אוֹמֵר: לֹא יָפֵר, וַחֲכָמִים אוֹמְרִים: יָפֵר.",
+                  "וְאַמַּאי? לֶיהֱוֵי כְּשׁוֹתֵק עַל מְנָת לְמֵיקַט! תְּיוּבְתָּא.",
+                  "<br><br><big><strong>הָדְרָן עֲלָךְ נַעֲרָה הַמְאוֹרָסָה</strong></big><br><br>"
+                ]
+              ],
+              "link": "/Nedarim/79a",
+              "originalRefsBeforeRewriting": [
+                "Nedarim 79a:8"
+              ],
+              "ref": "Nedarim 78b:4-79a:10",
+              "sourceHeRef": "נדרים ע״ט א",
+              "sourceRef": "Nedarim 79a"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "If a man’s wife or daughter took a vow and he failed to nullify the vow on the day he heard it, but afterward he said: <b>I know that there are vows, but I don’t know that there are those who</b> can <b>nullify</b> them, i.e., he was unaware of the possibility of nullifying vows, <b>he can nullify</b> the vow of his wife or his daughter on the day he learned that he can nullify vows. If, however, he said: <b>I know there are those who</b> can <b>nullify</b> vows, <b>but</b> I refrained from nullifying the vow that I heard because <b>I do not know that this</b> is considered <b>a vow, Rabbi Meir says he cannot nullify</b> the vow at this point, <b>but the Rabbis say</b> that even in this case <b>he can nullify</b> the vow on the day that he learned of his mistake.",
+              "he": "יוֹדֵעַ אֲנִי שֶׁיֵּשׁ נְדָרִים, אֲבָל אֵינִי יוֹדֵעַ שֶׁיֵּשׁ מְפֵרִין, יָפֵר. יוֹדֵעַ אֲנִי שֶׁיֵּשׁ מְפֵרִין אֲבָל אֵינִי יוֹדֵעַ שֶׁזֶּה נֶדֶר, רַבִּי מֵאִיר אוֹמֵר, לֹא יָפֵר, וַחֲכָמִים אוֹמְרִים, יָפֵר:",
+              "link": "/Mishnah Nedarim/11",
+              "ref": "Mishnah Nedarim 11:7",
+              "sourceHeRef": "משנה נדרים יא:ז",
+              "sourceRef": "Mishnah Nedarim 11:7"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If a father or a husband heard of [a woman's] vow, but remained silent, because he did not know that a father or a husband has a right to nullify her vows or he knew that he had a right to nullify her vow, but did not know that such a vow required nullification, when he learns of this, he may nullify [the vow]. The time when he gains this knowledge is equivalent to the time of the vow or the time he heard of it and he may nullify it for that entire day.",
+              "he": "שָׁמַע נִדְרָהּ וְשָׁתַק מִפְּנֵי שֶׁלֹּא הָיָה יוֹדֵעַ שֶׁיֵּשׁ לָאָב אוֹ לַבַּעַל לְהָפֵר. אוֹ שֶׁיָּדַע שֶׁיֵּשׁ לָהֶם לְהָפֵר אֲבָל לֹא יָדַע שֶׁנֵּדֶר זֶה צָרִיךְ הֲפָרָה וּלְאַחַר זְמַן יָדַע הֲרֵי זֶה יָפֵר וּשְׁעַת יְדִיעָתוֹ כְּאִלּוּ הִיא שְׁעַת הַנֵּדֶר אוֹ שְׁעַת שְׁמוּעָתוֹ וְיָפֵר כָּל הַיּוֹם:",
+              "ref": "Mishneh Torah, Vows 12:20",
+              "sourceHeRef": "הלכות נדרים יב:כ",
+              "sourceRef": "Vows 12:20"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יודע אני שיש נדרים</strong> - שמה שנדרה אשתי הוי נדר גמור אבל איני יודע שיש מפירין. שהבעל מפר שום נדר לא של עינוי נפש ולא שבינו לבינה:",
+              "ref": "Ran on Nedarim 87b:4:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ד:א",
+              "sourceRef": "Ran on Nedarim 87b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יפר</strong> - לאחר מכן כשנודע לו שהבעל יכול להפר יפר תוך אותו יום שיודע לו דעד ההוא יומא לא קרינא ביה יום שמעו:",
+              "ref": "Ran on Nedarim 87b:4:2",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ד:ב",
+              "sourceRef": "Ran on Nedarim 87b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יודע אני שיש מפירין</strong> - שיש מקצת נדרים שהבעלים מפירין אותן:",
+              "ref": "Ran on Nedarim 87b:4:3",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ד:ג",
+              "sourceRef": "Ran on Nedarim 87b:4:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל איני יודע שזה נדר</strong> - שזה מאותן נדרים שהבעל מפר:",
+              "ref": "Ran on Nedarim 87b:4:4",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ד:ד",
+              "sourceRef": "Ran on Nedarim 87b:4:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ר\"מ אומר לא יפר</strong> - איכא מ\"ד דלא יפר כלל קאמר לא היום ולא אחר שהודיעוהו שהוא יכול להפר היום דלא מקרי יום שמעו שיהא מפר אלא כשהוא יודע שהוא יכול להפר ולאחר שהודיעוהו שהוא יכול להפר נמי לא יפר משום דידיעה קמייתא לגבי שלא יוכל להפר אחר מכאן יום שמעו מקרי וכבר עבר וחכ\"א יפר ביום זה דסבירא להו דמקצת ידיעה ככל ידיעה אבל כל שעבר יומו שוב אינו מפר דיומא קמא יום שמעו מקרי לענין שיכול להפר בו ולענין שאינו יכול להפר מכאן ולהבא ואיכא מ\"ד דכי אמר ר\"מ לא יפר דוקא ביום שלאחריו קאמר אבל בו ביום מפר בידיעה זו דס\"ל דכיון שהוא יודע שיש נדרים ויש מפירין ידיעה גמורה מקריא אע\"פ שאינו יודע שזה נדר וחכמים אומרים יפר ביום שלאחריו דסבירא להו דכיון דביומא קמא לא הוה ידע שזה נדר לא מקריא ידיעה:",
+              "ref": "Ran on Nedarim 87b:4:5",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ד:ה",
+              "sourceRef": "Ran on Nedarim 87b:4:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יודע אני שיש נדרים</strong> - שאדם יכול לנדור:",
+              "ref": "Rashi on Nedarim 87b:4:1",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ד:א",
+              "sourceRef": "Rashi on Nedarim 87b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל איני יודע שיש מפירין</strong> - ששום אדם בעולם יכול להפר נדר ואחר כן נודע לו שהפרה מועלת:",
+              "ref": "Rashi on Nedarim 87b:4:2",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ד:ב",
+              "sourceRef": "Rashi on Nedarim 87b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יפר לה</strong> - לאחר זמן כשנודע שיכול להפר דכיון דלא היה יודע שיכול להפר מעיקרא לא קרינן ביה ביום שמעו אלא השתא באותו יום שנודע לו שיכול להפר לה:",
+              "ref": "Rashi on Nedarim 87b:4:3",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ד:ג",
+              "sourceRef": "Rashi on Nedarim 87b:4:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יודיע אני שיש מפירין</strong> - שהפרה מועלת לנדר אבל איני יודע אם נדר זה נדר גמור הוא ונמנע ולא הפר בו ביום:",
+              "ref": "Rashi on Nedarim 87b:4:4",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ד:ד",
+              "sourceRef": "Rashi on Nedarim 87b:4:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ר\"מ אומר לא יפר</strong> - לאחר זמן לכשנודע לו שנדר הוא וצריך הפרה דהואיל והוא ידע בטיב הפרה ולא הפר פושע הוא מ\"מ אי נדר הוא שפיר עביד דמפר אי לאו נדר הוא מאי איכפת ליה מאי דהפר ואיכא מקצת שמיעה ככל שמיעה:",
+              "ref": "Rashi on Nedarim 87b:4:5",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ד:ה",
+              "sourceRef": "Rashi on Nedarim 87b:4:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחכמים אומרים יפר</strong> - הואיל ולא הוברר הדבר ואע\"ג דאיכא מקצת שמיעה אינה ככל שמיעה חכמים דמתניתין היינו רבי יהודה:",
+              "ref": "Rashi on Nedarim 87b:4:6",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ד:ו",
+              "sourceRef": "Rashi on Nedarim 87b:4:6"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>יודע אני שיש מפירין.</b> כלומר שהבעל מפר נדרי אשתו או האב נדרי בתו אבל איני יודע שזה נדר כלומר שהיה נדר זה מהנדרים שהבעל מפר או שיהא זה צריך הפרה כלל ר' מאיר אומר לא יפר עכשיו לאחר יום שמוע כיוך שביום שמועה ידע שיש מפירין הוי ליה למיזל לגבי חכם דמקצת ידיעה ככל ידיעה וחכמים אומרים יפר דשמועה קמייתא לא הויא שמיעה:",
+              "ref": "Ritva on Nedarim 87b:2",
+              "sourceHeRef": "ריטב\"א על נדרים פ״ז ב:ב",
+              "sourceRef": "Ritva on Nedarim 87b:2"
+            },
+            {
+              "en": "",
+              "he": "<b>יודע אני שיש נדרים אבל איני יודע שיש מפירין.</b> פירוש שביום שמעו החריש לה כסבור שאין הבעל יכול להפר נדרי אשתו כלל וטוען כי לפי זה החריש לה. הרי זה יכול להפר ביום שידע שיכול להפר שזהו יום שמוע לו:",
+              "ref": "Ritva on Nedarim 87b:1",
+              "sourceHeRef": "ריטב\"א על נדרים פ״ז ב:א",
+              "sourceRef": "Ritva on Nedarim 87b:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "The nullification of vows may be carried out throughout the entire day. [The right does not continue] for 24 hours.<br>What is implied? If she took a vow at the beginning of Sunday night, the vow may be nullified throughout that night and the entire day Monday. When she took a vow at the conclusion of the day, directly before nightfall. If he nullified the vow before nightfall, it is nullified. If he did not nullify it until after nightfall, he may not nullify it any longer.",
+                      "he": "הֲפָרַת נְדָרִים כָּל הַיּוֹם וְאֵינָהּ מֵעֵת לְעֵת. כֵּיצַד. נָדְרָה בִּתְחִלַּת לֵיל שֵׁנִי הֲרֵי מֵפֵר כָּל אוֹתוֹ הַלַּיְלָה וְכָל יוֹם שֵׁנִי. נָדְרָה בְּיוֹם שֵׁנִי בִּתְחִלַּת הַיּוֹם מֵפֵר כָּל אוֹתוֹ הַיּוֹם. נָדְרָה בְּסוֹף הַיּוֹם עִם חֲשֵׁכָה אִם הֵפֵר לָהּ עַד שֶׁלֹּא תֶּחְשַׁךְ מוּפָר. וְאִם לֹא הֵפֵר לָהּ עַד שֶׁחֲשֵׁכָה אֵינוֹ יָכוֹל לְהָפֵר:",
+                      "ref": "Mishneh Torah, Vows 12:15",
+                      "sourceHeRef": "הלכות נדרים יב:טו",
+                      "sourceRef": "Vows 12:15"
+                    },
+                    {
+                      "en": "A father [has the right to] nullify any vows and oaths [taken by his daughter only] on the day he hears of them, as [Numbers 30:6] states: \"[But if her father withheld her on the day that he heard,] all of her vows and prohibitions... [shall not stand].\"<br>A husband, by contrast, may nullify only those vows and oaths that involve personal aggravation or they are matters that affect the marriage relationship, e.g., she took an oath or a vow not to put on eye-paint or wear jewelry. [This is implied by <i>ibid</i>.:17]: \"between a man and his wife.\"",
+                      "he": "כָּל הַנְּדָרִים וְהַשְּׁבוּעוֹת הָאָב מֵפֵר בְּיוֹם שָׁמְעוֹ. שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר ל ו)</span> \"כָּל נְדָרֶיהָ וֶאֱסָרֶיהָ\". אֲבָל הַבַּעַל אֵינוֹ יָכוֹל לְהָפֵר אֶלָּא כָּל נְדָרִים וּשְׁבוּעוֹת שֶׁיֵּשׁ בָּהֶן עִנּוּי נֶפֶשׁ אוֹ שֶׁהֵן בִּדְבָרִים שֶׁבֵּינוֹ לְבֵינָהּ כְּגוֹן שֶׁנִּשְׁבְּעָה אוֹ נָדְרָה שֶׁלֹּא תִּכְחל אוֹ שֶׁלֹּא תִּתְקַשֵּׁט שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר ל יז)</span> \"בֵּין אִישׁ לְאִשְׁתּוֹ\":",
+                      "ref": "Mishneh Torah, Vows 12:1",
+                      "sourceHeRef": "הלכות נדרים יב:א",
+                      "sourceRef": "Vows 12:1"
+                    },
+                    {
+                      "en": "What is meant by the Torah's words [Numbers 30:15]: \"from one day to the next\"? They teach that if she takes a vow at night, he may nullify it during the night. And he may nullify it throughout the following day, as we explained.<br>If she took a vow and waited several days and only then, her father or her husband heard of it, he may nullify it on the day he heard of it. It is as if she took the vow on the day that he heard of it, as [implied by <i>ibid.</i>:6]: \"On the day he heard of it,\" [i.e.,] and not only the day she took the vow.",
+                      "he": "וּמַהוּ זֶה שֶׁכָּתוּב בַּתּוֹרָה <span class=\"hebrew-emphasis\">(במדבר ל טו)</span> \"מִיּוֹם אֶל יוֹם\". מְלַמֵּד שֶׁמֵּפֵר בַּלַּיְלָה אִם נָדְרָה בַּלַּיְלָה. וְכֵן מֵפֵר כָּל הַיּוֹם כְּמוֹ שֶׁבֵּאַרְנוּ. נָדְרָה וְשָׁהֲתָה כַּמָּה יָמִים וְאַחַר כָּךְ שָׁמַע הָאָב אוֹ הַבַּעַל הֲרֵי זֶה מֵפֵר בְּיוֹם שָׁמְעוֹ וּכְאִלּוּ נָדְרָה בְּעֵת שֶׁשְּׁמָעָהּ שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר ל ו)</span> <span class=\"hebrew-emphasis\">(במדבר ל יג)</span> \"בְּיוֹם שָׁמְעוֹ\" לֹא בְּיוֹם נִדְרָהּ בִּלְבַד:",
+                      "ref": "Mishneh Torah, Vows 12:16",
+                      "sourceHeRef": "הלכות נדרים יב:טז",
+                      "sourceRef": "Vows 12:16"
+                    },
+                    {
+                      "en": "When a father or a husband hears of a vow and remains silent in order to cause the woman aggravation, if the day passes without him nullifying or revoking [her vows], they are binding even if he did not have the intent of accepting them.<br>If she took a vow and her father or her husband nullified it, but without knowing of the nullification, she willfully violated her vow or oath, she is not liable. Although she had the intent of transgressing, since she committed a permitted act, she is exempt. Concerning this, [<i>ibid.</i>:6] states: \"God will forgive her, although her father prevented her.\" She is given stripes for rebellious conduct, because she had the intent to transgress.",
+                      "he": "שָׁמַע הָאָב אוֹ הַבַּעַל וְשָׁתַק כְּדֵי לְצַעֲרָהּ אַף עַל פִּי שֶׁלֹּא הָיָה בְּלִבּוֹ לְקַיֵּם נִדְרָהּ הוֹאִיל וְעָבַר הַיּוֹם וְלֹא הֵפֵר וְלֹא בִּטֵּל נִתְקַיְּמוּ נְדָרֶיהָ. נָדְרָה וְהֵפֵר לָהּ הָאָב אוֹ הַבַּעַל וְהִיא לֹא יָדְעָה שֶׁהֵפֵר וְעָבְרָה עַל נִדְרָהּ אוֹ עַל שְׁבוּעָתָהּ בְּזָדוֹן הֲרֵי זוֹ פְּטוּרָה וְאַף עַל פִּי שֶׁנִּתְכַּוְּנָה לְאִסּוּר הוֹאִיל וְנַעֲשָׂה הַהֶתֵּר פְּטוּרָה וְעַל זֶה נֶאֱמַר <span class=\"hebrew-emphasis\">(במדבר ל ו)</span> \"וַה' יִסְלַח לָהּ כִּי הֵנִיא אָבִיהָ אֹתָהּ\". וּמַכִּין אוֹתָהּ מַכַּת מַרְדּוּת מִפְּנֵי שֶׁנִּתְכַּוְּנָה לְאִסּוּר:",
+                      "ref": "Mishneh Torah, Vows 12:18",
+                      "sourceHeRef": "הלכות נדרים יב:יח",
+                      "sourceRef": "Vows 12:18"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "אין האב מפר נדרי בתו ולא הבעל נדרי אשתו אלא ביום שמעם ודוקא כל היום ולא מעת לעת שאם שמע בתחלת הלילה מפר כל הלילה ויום המחרת ואם שמע סמוך לחשיכה אינו מפר אלא עד שתחשך ואם עבר היום ושתק אפילו לא כוון בשתיקתו אלא לצערה אינו יכול להפר ואם שתק מפני שאינו יודע שיש ביד הבעל להפר או אפילו יודע אלא שנדרה נדר שסבור שאינו יכול להפר כגון שסבור שאינו עינוי נפש יכול להפר אפילו לאחר כמה ימים ולא הויא שתיקתו קיום ושעת ידיעתו כאילו היא שעת הנדר או יום שמיעה ויפר לה כל אותו היום:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 234:21",
+              "sourceHeRef": "יורה דעה רלד:כא - מתי האב והבעל מפירין ומתי מפירין שניהם יחד.",
+              "sourceRef": "Yoreh De'ah 234:21"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב משנה</big> אדם שנדרה אשתו או בתו ולא הפר את הנדר בו ביום, ולאחר מכן אמר <b>\"יודע אני שיש נדרים</b> ושזהו נקרא נדר, <b>אבל איני יודע שיש מפירין\",</b> שלא ידעתי שאפשר להפר נדרים — הרי זה <b>יפר</b> את הנדר שנדרה אשתו או בתו ביום בו נודע לו שאפשר להפר נדרים. אם אמר <b>\"יודע אני שיש מפירין, אבל איני יודע שזה</b> נקרא <b>נדר\"</b> ולכן לא הפרתי את הנדר בו ביום, <b>ר' מאיר אומר: לא יפר</b> ואין הפרתו מועילה, <b>וחכמים אומרים:</b> אף זה <b>יפר</b> משנודע לו.",
+              "ref": "Steinsaltz on Nedarim 87b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ז ב:ד",
+              "sourceRef": "Steinsaltz on Nedarim 87b:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יודע אני שיש נדרים אבל איני יודע שיש מפירין</strong> - כלומר שיוכל בעל להפר ולאחר מיכן [נודע לו שיוכל להפר] יפר ולא אמרינן הרי שמע זה כמה ימים דהא לא הוי שמיעה כיון שלא היה יודע שיכול להפר:",
+              "ref": "Tosafot on Nedarim 87b:4:1",
+              "sourceHeRef": "תוספות על נדרים פ״ז ב:ד:א",
+              "sourceRef": "Tosafot on Nedarim 87b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">יודע אני שיש מפירין אבל איני יודע שזה נדר גמור ר\"מ אמר לא יפר</strong> - דלא קרינא ביה ביום שמעו הואיל והיה יודע שיש הפרה וחכמים אומרים יפר הואיל וטעה בנדר לא הוי שמיעה:",
+              "ref": "Tosafot on Nedarim 87b:4:2",
+              "sourceHeRef": "תוספות על נדרים פ״ז ב:ד:ב",
+              "sourceRef": "Tosafot on Nedarim 87b:4:2"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> If a man’s wife or daughter took a vow and he failed to nullify the vow on the day he heard it, but afterward he said: <b>I know that there are vows, but I don’t know that there are those who</b> can <b>nullify</b> them, i.e., he was unaware of the possibility of nullifying vows, <b>he can nullify</b> the vow of his wife or his daughter on the day he learned that he can nullify vows. If, however, he said: <b>I know there are those who</b> can <b>nullify</b> vows, <b>but</b> I refrained from nullifying the vow that I heard because <b>I do not know that this</b> is considered <b>a vow, <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> says he cannot nullify</b> the vow at this point, <b>but the Rabbis say</b> that even in this case <b>he can nullify</b> the vow on the day that he learned of his mistake.",
+      "he": "<big><strong>מַתְנִי׳</strong></big> ״יוֹדֵעַ אֲנִי שֶׁיֵּשׁ נְדָרִים, אֲבָל אֵינִי יוֹדֵעַ שֶׁיֵּשׁ מְפִירִין״, יָפֵר. ״יוֹדֵעַ אֲנִי שֶׁיֵּשׁ מְפִירִין, אֲבָל אֵינִי יוֹדֵעַ שֶׁזֶּה נֶדֶר״, רַבִּי מֵאִיר אוֹמֵר: לֹא יָפֵר, וַחֲכָמִים אוֹמְרִים: יָפֵר.",
+      "ref": "Nedarim 87b:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> רבי מאיר כו' טעמא אי נדר כצ\"ל שמיעה ככל שמיעה כצ\"ל:",
+              "ref": "Chidushei Halachot on Nedarim 87b:5",
+              "sourceHeRef": "חדושי הלכות על נדרים פ״ז ב:ה",
+              "sourceRef": "Chidushei Halachot on Nedarim 87b:5"
+            },
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> רבי מאיר כו' אינו מפר כצ\"ל מכאן ולהבא כצ\"ל:",
+              "ref": "Chidushei Halachot on Nedarim 87b:10",
+              "sourceHeRef": "חדושי הלכות על נדרים פ״ז ב:י",
+              "sourceRef": "Chidushei Halachot on Nedarim 87b:10"
+            },
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> רבי מאיר כו' שאינו יודע כצ\"ל:",
+              "ref": "Chidushei Halachot on Nedarim 87b:11",
+              "sourceHeRef": "חדושי הלכות על נדרים פ״ז ב:יא",
+              "sourceRef": "Chidushei Halachot on Nedarim 87b:11"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna teaches: <b>One who humiliates a blind person</b> is liable to pay compensation. The Gemara comments: <b>The mishna is not in accordance with</b> the opinion of <b>Rabbi Yehuda, as it is taught</b> in a <i>baraita</i> that <b>Rabbi Yehuda says: A blind person</b> who humiliated another <b>does not have</b> liability for <b>humiliation. And</b> in <b>this way Rabbi Yehuda deemed</b> a blind person <b>exempt from</b> being among <b>those liable to be exiled</b> for killing unintentionally, <b>and from</b> being among <b>those liable</b> to receive <b>lashes, and from</b> being among <b>those liable</b> to receive <b>court</b>-imposed <b>capital punishment,</b> if he transgresses a prohibition for which the Torah mandates one of these punishments.",
+                  "The Gemara asks: <b>What is the reasoning of Rabbi Yehuda?</b> He <b>derives</b> a verbal analogy to: <b>“Your eye</b> shall not pity” (Deuteronomy 25:12), stated with regard to humiliation, <b>from: “Your eye</b> shall not pity” (Deuteronomy 19:21), stated with regard to <b>conspiring witnesses.</b> The analogy teaches that <b>just as there,</b> with regard to the <i>halakha</i> of conspiring witnesses, <b>blind people</b> are <b>not</b> included, as blind people cannot see events occur in order to testify, <b>so too here,</b> with regard to the <i>halakha</i> of compensation for humiliation, <b>blind people</b> are <b>not</b> included.",
+                  "The Gemara continues its explanation: Why did Rabbi Yehuda deem a blind person exempt <b>from</b> being among <b>those liable to be exiled</b> for killing unintentionally? <b>As it is taught</b> in a <i>baraita</i> that the verse states with regard to an unintentional killing: “Or with any stone, whereby one may die, <b>seeing him not”</b> (Numbers 35:23), this formulation serves to <b>exclude a blind person;</b> this is <b>the statement of Rabbi Yehuda. Rabbi Meir says:</b> The verse serves <b>to include a blind person.</b>",
+                  "The Gemara explains the dispute: <b>What is the reasoning of Rabbi Yehuda?</b> He would <b>say to you:</b> The verse states with regard to an unintentional killing, without any further limiting clause: <b>“As when one goes into the forest with his neighbor to hew wood”</b> (Deuteronomy 19:5), <b>and</b> this includes <b>even a blind person;</b> therefore, <b>the Merciful One wrote</b> in the Torah: <b>“Seeing him not”</b> (Numbers 35:23), <b>to exclude</b> a blind person.",
+                  "<b>And</b> what is the reasoning of <b>Rabbi Meir? The Merciful One wrote</b> in the Torah: <b>“Seeing him not”</b> (Numbers 35:23), apparently <b>to exclude</b> one who happened to not see the one he killed; <b>and the Merciful One wrote</b> in the Torah: “Who kills his neighbor <b>unawares”</b> (Deuteronomy 19:4), apparently <b>to exclude</b> a blind person, who is not aware of where others are standing. <b>This is a restriction following a restriction, and</b> there is a hermeneutical principle that <b>a restriction following a restriction</b> serves <b>only to amplify</b> the <i>halakha</i> and include additional cases. Therefore, a blind person is included in the <i>halakha</i> of those liable to be exiled for unintentional killing.",
+                  "The Gemara asks: <b>And</b> what would <b>Rabbi Yehuda</b> respond to this reasoning? The Gemara explains: <b>That</b> verse: “Who kills his neighbor <b>unawares,”</b> does not exclude one who could not see, but rather, <b>it comes to exclude</b> one who was <b>intending</b> to kill a particular person and unintentionally killed someone else. That killer is not exiled.",
+                  "The Gemara continues to explain the opinion of Rabbi Yehuda. Why did he deem a blind person exempt from being among <b>those liable</b> to receive <b>court</b>-imposed <b>capital punishment?</b> That <i>halakha</i> is <b>derived</b> by means of a verbal analogy to: “But if he smote him with an instrument of iron so that he died, he is <b>a killer;</b> the killer shall be put to death” (Numbers 35:16), written with regard to capital punishment, <b>from:</b> “You shall appoint for yourselves cities, to be cities of refuge for you, that <b>a killer</b> who killed any person unintentionally may flee there” (Numbers 35:11), written with regard to <b>those liable to be exiled.</b>",
+                  "Why did Rabbi Yehuda deem a blind person exempt from being among <b>those liable</b> to receive <b>lashes?</b> That <i>halakha</i> is <b>derived</b> by means of a verbal analogy to: “Then it shall be, if the <b>guilty</b> one deserves to be beaten” (Deuteronomy 25:2), written with regard to lashes, <b>from:</b> “Moreover you shall take no ransom for the life of a murderer, that is <b>guilty</b> of death” (Numbers 35:31), written with regard to <b>those liable</b> to receive <b>court</b>-imposed <b>capital punishment.</b>",
+                  "The Gemara presents another statement of Rabbi Yehuda: It <b>is taught</b> in <b>another</b> <i>baraita</i> that <b>Rabbi Yehuda says: A blind person does not have humiliation,</b>"
+                ],
+                [
+                  "<b>and so did Rabbi Yehuda exempt</b> a blind person <b>from all judgments</b> of civil law <b>that are in the Torah.</b> The Gemara explains: <b>What is the reasoning of Rabbi Yehuda? The verse states</b> with regard to an unintentional killing: <b>“Then the congregation shall judge between the smiter and the avenger of blood, according to these laws”</b> (Numbers 35:24), to teach that <b>anyone who is subject to</b> the <i>halakha</i> of <b>a smiter and to</b> the <i>halakha</i> of <b>an avenger of blood is subject to</b> civil <b>laws, and anyone who is not subject to</b> the <i>halakha</i> of <b>a smiter or to</b> the <i>halakha</i> of <b>an avenger of blood,</b> including a blind person, <b>is not subject to</b> civil <b>laws.</b>",
+                  "The Gemara presents another statement of Rabbi Yehuda. It <b>is taught</b> in <b>another</b> <i>baraita</i> that <b>Rabbi Yehuda says: A blind person does not have,</b> i.e., receive, compensation for <b>humiliation, and so did Rabbi Yehuda exempt</b> a blind person <b>from all mitzvot that are stated in the Torah. Rav Sheisha, son of Rav Idi, said: What is the reasoning of Rabbi Yehuda? The verse states: “And this is the commandment, statutes, and laws”</b> (Deuteronomy 6:1), to teach that <b>anyone who is subject to</b> civil <b>laws is</b> also <b>subject to</b> the <b>commandments and statutes, and anyone who is not subject to</b> civil <b>laws,</b> including a blind person, <b>is</b> also <b>not subject to</b> the <b>commandments and statutes.</b>",
+                  "<b>Rav Yosef,</b> who was blind, <b>said: At first, I would say:</b> If I hear <b>one who says that</b> the <b><i>halakha</i></b> is <b>in accordance with</b> the opinion of <b>Rabbi Yehuda, who says: A blind person</b> is <b>exempt from the mitzvot,</b> then <b>I will host a festive day for the Sages. What is the reason?</b> It is <b>that I am not commanded and</b> nevertheless <b>I perform mitzvot.</b>",
+                  "Rav Yosef continues. <b>But now that I heard this</b> statement <b>of Rabbi Ḥanina, as Rabbi Ḥanina says:</b> One who is <b>commanded and performs</b> a mitzva <b>is greater than</b> one who <b>is not commanded and performs</b> it, I say: If I hear <b>one who says to me</b> that the <b><i>halakha</i></b> is <b>not in accordance with</b> the opinion of <b>Rabbi Yehuda,</b> then <b>I will host a festive day for the Sages. What is the reason?</b> It is <b>that as I am commanded, I have more reward.</b>"
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Kamma 86b:15",
+                "Bava Kamma 86b:16",
+                "Bava Kamma 86b:17",
+                "Bava Kamma 86b:18",
+                "Bava Kamma 86b:19",
+                "Bava Kamma 86b:20",
+                "Bava Kamma 86b:21",
+                "Bava Kamma 86b:22",
+                "Bava Kamma 86b:23",
+                "Bava Kamma 87a:1",
+                "Bava Kamma 87a:2",
+                "Bava Kamma 87a:3",
+                "Bava Kamma 87a:4"
+              ],
+              "he": [
+                [
+                  "הַמְבַיֵּישׁ אֶת הַסּוֹמֵא וְכוּ׳. מַתְנִיתִין דְּלָא כְּרַבִּי יְהוּדָה; דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר: סוֹמֵא – אֵין לוֹ בּוֹשֶׁת, וְכָךְ הָיָה רַבִּי יְהוּדָה פּוֹטֵר מֵחַיָּיבֵי גָלִיּוֹת, וּמֵחַיָּיבֵי מַלְקִיּוֹת, וּמֵחַיָּיבֵי מִיתוֹת בֵּית דִּין.",
+                  "מַאי טַעְמָא דְּרַבִּי יְהוּדָה? גָּמַר ״עֵינֶךָ״–״עֵינֶךָ״ מֵעֵדִים זוֹמְמִין; מָה הָתָם סוֹמִין לָא, אַף הָכָא סוֹמִין לָא.",
+                  "מֵחַיָּיבֵי גָלִיּוֹת – דְּתַנְיָא: ״בְּלֹא רְאוֹת״ – פְּרָט לַסּוֹמֵא, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי מֵאִיר אוֹמֵר: לְרַבּוֹת אֶת הַסּוֹמֵא.",
+                  "מַאי טַעְמָא דְּרַבִּי יְהוּדָה? אָמַר לָךְ: ״וַאֲשֶׁר יָבֹא אֶת רֵעֵהוּ בַיַּעַר לַחְטֹב עֵצִים״ – וַאֲפִילּוּ סוֹמֵא; כְּתַב רַחֲמָנָא ״בְּלֹא רְאוֹת״ – לְמַעוֹטֵי.",
+                  "וְרַבִּי מֵאִיר – כְּתַב רַחֲמָנָא ״בְּלֹא רְאוֹת״ לְמַעוֹטֵי, וּכְתַב רַחֲמָנָא ״בִּבְלִי דַעַת״ לְמַעוֹטֵי; הָוֵי מִיעוּט אַחַר מִיעוּט, וְאֵין מִיעוּט אַחַר מִיעוּט אֶלָּא לְרַבּוֹת.",
+                  "וְרַבִּי יְהוּדָה – הָהוּא ״בִּבְלִי דַעַת״, פְּרָט לְמִתְכַּוֵּין הוּא דַּאֲתָא.",
+                  "חַיָּיבֵי מִיתוֹת בֵּית דִּין – אָתְיָא ״רֹצֵחַ״–״רֹצֵחַ״ מֵחַיָּיבֵי גָלִיּוֹת.",
+                  "חַיָּיבֵי מַלְקִיּוֹת – אָתְיָא ״רָשָׁע״–״רָשָׁע״ מֵחַיָּיבֵי מִיתוֹת בֵּית דִּין.",
+                  "תַּנְיָא אִידַּךְ, רַבִּי יְהוּדָה אוֹמֵר: סוֹמֵא אֵין לוֹ בּוֹשֶׁת."
+                ],
+                [
+                  "וְכֵן הָיָה רַבִּי יְהוּדָה פּוֹטְרוֹ מִכׇּל דִּינִים שֶׁבַּתּוֹרָה. מַאי טַעְמָא דְּרַבִּי יְהוּדָה? אָמַר קְרָא: ״וְשָׁפְטוּ הָעֵדָה בֵּין הַמַּכֶּה וּבֵין גֹּאֵל הַדָּם עַל הַמִּשְׁפָּטִים הָאֵלֶּה״ – כֹּל שֶׁיֶּשְׁנוֹ בְּמַכֶּה וּבְגוֹאֵל הַדָּם, יֶשְׁנוֹ בְּמִשְׁפָּטִים; כֹּל שֶׁאֵינוֹ בְּמַכֶּה וּבַגּוֹאֵל הַדָּם, אֵינוֹ בְּמִשְׁפָּטִים.",
+                  "תַּנְיָא אִידַּךְ, רַבִּי יְהוּדָה אוֹמֵר: סוֹמֵא אֵין לוֹ בּוֹשֶׁת. וְכֵן הָיָה רַבִּי יְהוּדָה פּוֹטְרוֹ מִכׇּל מִצְוֹת הָאֲמוּרוֹת בַּתּוֹרָה. אָמַר רַב שִׁישָׁא בְּרֵיהּ דְּרַב אִידִי: מַאי טַעְמָא דְּרַבִּי יְהוּדָה? אָמַר קְרָא: ״וְאֵלֶּה הַמִּצְוֹת הַחֻקִּים וְהַמִּשְׁפָּטִים״ – כֹּל שֶׁיֶּשְׁנוֹ בְּמִשְׁפָּטִים, יֶשְׁנוֹ בְּמִצְוֹת וְחֻקִּים; וְכֹל שֶׁאֵינוֹ בְּמִשְׁפָּטִים, אֵינוֹ בְּמִצְוֹת וְחֻקִּים.",
+                  "אָמַר רַב יוֹסֵף, מֵרֵישׁ הֲוָה אָמֵינָא: מַאן דְּאָמַר הֲלָכָה כְּרַבִּי יְהוּדָה – דְּאָמַר: סוֹמֵא פָּטוּר מִן הַמִּצְוֹת, קָא עָבֵדְינָא יוֹמָא טָבָא לְרַבָּנַן, מַאי טַעְמָא? דְּלָא מִפַּקַּדְנָא, וְקָא עָבֵדְינָא מִצְוֹת.",
+                  "וְהַשְׁתָּא דִּשְׁמַעִית לְהָא דְּרַבִּי חֲנִינָא, דְּאָמַר רַבִּי חֲנִינָא: גָּדוֹל הַמְצֻוֶּוה וְעוֹשֶׂה – מִמִּי שֶׁאֵינוֹ מְצֻוֶּוה וְעוֹשֶׂה; מַאן דְּאָמַר לִי: אֵין הֲלָכָה כְּרַבִּי יְהוּדָה, עָבֵידְנָא יוֹמָא טָבָא לְרַבָּנַן. מַאי טַעְמָא? דְּכִי מִפַּקַּדְינָא – אִית לִי אַגְרָא טְפֵי."
+                ]
+              ],
+              "link": "/Bava Kamma/86b",
+              "originalRefsBeforeRewriting": [
+                "Bava Kamma 86b:17"
+              ],
+              "ref": "Bava Kamma 86b:15-87a:4",
+              "sourceHeRef": "בבא קמא פ״ו ב",
+              "sourceRef": "Bava Kamma 86b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "What is an example of a \"descent for the purpose of an ascent\"? If a person was ascending on a ladder, and a rung gave way under his feet and fell and caused death, the person climbing is not obligated to be exiled.<br>Similarly, in the following situations, the death is considered close to having been caused by factors beyond the control of the individuals involved and they are not exiled:<br>a) a person intended to throw an article in one direction and it went in another direction,<br>b) a person had a stone in his bosom that he had never been made aware of and when he stood up it fell, or<br>c) a blind man killed someone unintentionally.",
+              "he": "כֵּיצַד. הָיָה עוֹלֶה בַּסֻּלָּם וְנִשְׁמְטָה שְׁלִיבָה מִתַּחַת רַגְלָיו וְנָפְלָה וְהֵמִיתָה פָּטוּר מִן הַגָּלוּת. וְכֵן הַמִּתְכַּוֵּן לִזְרֹק בְּצַד זֶה וְהָלְכָה לָהּ לְצַד אַחֵר אוֹ שֶׁהָיְתָה לוֹ אֶבֶן מֻנַּחַת בְּחֵיקוֹ וְלֹא הִכִּיר בָּהּ מֵעוֹלָם וְעָמַד וְנָפְלָה וְהֵמִיתָה. וְכֵן הַסּוּמָא שֶׁהָרַג בִּשְׁגָגָה. כָּל אֵלּוּ פְּטוּרִין מִן הַגָּלוּת מִפְּנֵי שֶׁהֵן קְרוֹבִין לְאֹנֶס:",
+              "ref": "Mishneh Torah, Murderer and the Preservation of Life 6:14",
+              "sourceHeRef": "הלכות רוצח ושמירת נפש ו:יד",
+              "sourceRef": "Murderer and the Preservation of Life 6:14"
+            }
+          ]
+        },
+        "Ran": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורמינהו בלא ראות פרט לסומא</strong> - <span class=\"parenthesized\">(מי)</span> שהרג את הנפש בשוגג אינו גולה דמדכתיב בלא ראות משמע דכאן הוא בלא ראות אבל במקום אחר יכול לראות:",
+              "ref": "Ran on Nedarim 87b:5:1",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ה:א",
+              "sourceRef": "Ran on Nedarim 87b:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רבי מאיר אומר לרבות את הסומא</strong> - דכיון דאית ליה מקצת ידיעה שמרגיש הוא כשבא זה אצלו אע\"פ שאין לו ידיעה גמורה שאין יכול לכוין מקומו ממש כיון שאינו רואהו אפ\"ה הוי ככל ידיעה ולפירוש קמא דפרישנא במתניתין הכי פריך מדר\"מ אדר\"מ ומדרבי יהודה אדרבי יהודה דהכא אמר ר\"מ בלא ראות לרבות את הסומא אע\"ג דלית ליה ידיעה שלימה דקסבר מקצת ידיעה ככל ידיעה ובמתני' תני דאינו יכול להפר בידיעה זו בו ביום אלמא מקצת ידיעה לאו ככל ידיעה והכא אמר ר' יהודה בלא ראות פרט לסומא אלמא מקצת ידיעה לאו ככל ידיעה ובמתניתין אמרי רבנן דהיינו ר' יהודה דהוא בר פלוגתיה דר\"מ יפר בו ביום באותה ידיעה אלמא ס\"ל דמקצת ידיעה ככל ידיעה ורישא דקתני דיפר ביום שלאחריו לא קשיא דסבירא לן דכל שאינו יודע שיש מפירין אפילו מקצת ידיעה לא הוי ולפירושא בתרא דפרישנא במתניתין ר\"מ דאמר לא יפר ביום שלאחריו קאמר ורבנן דפליגי עליה נמי ביום שלאחריו קאמרי משום דמקצת ידיעה לאו ככל ידיעה דרבי יהודה אדרבי יהודה לא קשיא",
+              "ref": "Ran on Nedarim 87b:5:2",
+              "sourceHeRef": "ר\"ן על נדרים פ״ז ב:ה:ב",
+              "sourceRef": "Ran on Nedarim 87b:5:2"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "גמרא:<b> ורמינהו בלא ראות כו'.</b> אדרבי מאיר קא מקשה וארישה [וארישא – לפי השי\"מ] דמתניתין דקתני יודע אני [שיש נדרים, אבל איני יודע – לפי השי\"מ] שיש מפירין יפר, אלמא מקצת ידיעה אינה ככל ידיעה לכולי עלמא, והכא קא מרבי רבי מאיר סומא, דאלמא לדידיה מקצת ידיעה ככל ידיעה, אבל מסיפא דמתניתין דקתני יודע אני שיש מפירין אבל איני יודע שזה נדר רבי מאיר אומר לא יפר לא קא מקשה לרבי מאיר דרישא ולומר דבסיפא משמע דאית ליה לרבי מאיר דמקצת ידיעה ככל ידיעה, דטעמא דסיפא משום דכיון שהוא יודע שיש מפירין הרי יש כאן שמיעה גמורה, ואף על פי שאינו יודע בזה ממש לית לן בה, דהא מכל מקום יודע הוא בכולה מלתא, כלומר שיש נדרים ויש מפירין.",
+              "ref": "Rashba on Nedarim 87a:3",
+              "sourceHeRef": "רשב״א על נדרים פ״ז א:ג",
+              "sourceRef": "Rashba on Nedarim 87a:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ורמינהו בלא ראות פרט לסומא</strong> - שהרג בשוגג שאינו גולה דאמר בלא ראות זה שהרגו לא ראהו דאילו ראהו לא היה הורגו מכלל דיש ספק בידו לראות ואינו רואה דאינו גולה <span class=\"parenthesized\">(דאמר)</span> [דסד\"א] מקצת ידיעה לסומא באובנתא דליבא תליא דרוב סומין מבינים לקול הברה מהיכן היא יוצאה ואותה קצת ידיעה בכלל ידיעה היא דקרא לא מיירי אלא היכא דידע לחבריה דהוה התם אלא דלא מיכוין למיקטליה",
+              "ref": "Rashi on Nedarim 87b:5:1",
+              "sourceHeRef": "רש\"י על נדרים פ״ז ב:ה:א",
+              "sourceRef": "Rashi on Nedarim 87b:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ג גמרא</big> <b>ורמינהו</b> <span class=\"hebrew-emphasis\">[ומשליכים,</span> מראים סתירה<span class=\"hebrew-emphasis\">]:</span> נאמר בדיני רוצח בשגגה <b>\"בלא ראות\"</b> (במדבר לה, כג) ומפרשים כתוב זה כבא לומר שדין רוצח בשגגה, שגולה לעיר מקלט, הוא <b>פרט לסומא</b> (עיוור) שהרג בשוגג. שהכתוב מדבר במי שבדרך כלל רואה ודווקא במקרה זה לא ראה, אבל מי שאינו רואה כלל אינו נחשב אפילו לשוגג, אלא כאנוס, אלו <b>דברי ר' יהודה. ר' מאיר אומר: לרבות את הסומא.</b> משמע שלדעת ר' מאיר אין להבחין בין סוגים שונים של חוסר ידיעה, ואילו משיטתו במשנתנו עולה כי יש להבחין ביניהם. והפך הדבר לשיטת ר' יהודה שהוא בן מחלוקתו בכל מקום.",
+              "ref": "Steinsaltz on Nedarim 87b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על נדרים פ״ז ב:ה",
+              "sourceRef": "Steinsaltz on Nedarim 87b:5"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בלא ראות לרבות סומא</strong> - אלמא ר\"מ בתר סברא אזיל ולא בתר ריהטא דקרא דמשמעותיה בבר ראיה ולא בסומא שאי אפשר לראות ואפילו הכי מרבה ליה דסוף סוף : אין רואהו וגולה ואם כן ברישא דמתניתין נמי אמאי מפר נהי דאינו יודע שיש מפירין סוף סוף הרי שמע ולא הפר והרי שמע והחריש קרינא ביה ומשני התם מעניניה דקרא גבי רוצח כו' - השתא מפרש טעמא דרבי יהודה וטעמא דרבי מאיר:",
+              "ref": "Tosafot on Nedarim 87b:5:1",
+              "sourceHeRef": "תוספות על נדרים פ״ז ב:ה:א",
+              "sourceRef": "Tosafot on Nedarim 87b:5:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "or inadvertently dropped upon him any deadly object of stone, and death resulted—though he was not an enemy of his and did not seek his harm—",
+              "he": "א֣וֹ בְכׇל־אֶ֜בֶן אֲשֶׁר־יָמ֥וּת בָּהּ֙ בְּלֹ֣א רְא֔וֹת וַיַּפֵּ֥ל עָלָ֖יו וַיָּמֹ֑ת וְהוּא֙ לֹא־אוֹיֵ֣ב ל֔וֹ וְלֹ֥א מְבַקֵּ֖שׁ רָעָתֽוֹ׃",
+              "link": "/Numbers/35",
+              "ref": "Numbers 35:23",
+              "sourceHeRef": "במדבר לה:כג",
+              "sourceRef": "Numbers 35:23"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> The Gemara <b>raises a contradiction</b> from the following <i>baraita</i>: With regard to one who kills unintentionally, the verse states: <b>“Without seeing”</b> (Numbers 35:23), which serves <b>to exclude a blind person</b> from the category of those who are exiled to a city of refuge due to having killed unintentionally, as the verse indicates that it was only in this instance that he did not see, but he is generally able to see. A blind person who kills another unintentionally is considered a victim of circumstances beyond his control. This is <b>the statement of <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>. <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> says</b> the verse serves <b>to include a blind person</b> in the category of those who are exiled, as he too does not see. This shows that <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span> does not distinguish between different kinds of lack of knowledge, whereas the mishna suggests that he does accept such a distinction. The opposite is true of <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span>, who, unless it is otherwise indicated, is assumed to be <span href=\"/topics/rabbi-meir\" class=\"namedEntityLink\" data-slug=\"rabbi-meir\">Rabbi Meir</span>’s disputant in all places.",
+      "he": "<big><strong>גְּמָ׳</strong></big> וּרְמִינְהוּ: ״בְּלֹא רְאוֹת״, פְּרָט לַסּוֹמֵא. דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי מֵאִיר אוֹמֵר: לְרַבּוֹת אֶת הַסּוֹמֵא.",
+      "ref": "Nedarim 87b:5",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Nedarim 87b",
+  "titleHebrew": "נדרים פז,ב",
+  "topics": []
+}

@@ -1,0 +1,1468 @@
+{
+  "id": "71b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ערב למאן</strong> - מי הוא המלוה שאני מותר לעשות לו ערב:",
+              "ref": "Rashi on Bava Metzia 71b:1:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:א:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:1:1"
+            },
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": [
+                        "If the thief is seized while tunneling, and he is beaten to death, there is no bloodguilt in his case.",
+                        "If the sun has risen on him, there is bloodguilt in that case.—He must make restitution; if he lacks the means, he shall be sold for his theft.",
+                        "But if what he stole—whether ox or ass or sheep—is found alive in his possession, he shall pay double.",
+                        "When a man lets his livestock loose to graze in another’s land, and so allows a field or a vineyard to be grazed bare, he must make restitution for the impairment of that field or vineyard.",
+                        "When a fire is started and spreads to thorns, so that stacked, standing, or growing grain is consumed, he who started the fire must make restitution.",
+                        "When a man gives money or goods to another for safekeeping, and they are stolen from the man’s house—if the thief is caught, he shall pay double;",
+                        "if the thief is not caught, the owner of the house shall depose before God that he has not laid hands on the other’s property.",
+                        "In all charges of misappropriation—pertaining to an ox, an ass, a sheep, a garment, or any other loss, whereof one party alleges, “This is it”—the case of both parties shall come before God: he whom God declares guilty shall pay double to the other.",
+                        "When a man gives to another an ass, an ox, a sheep or any other animal to guard, and it dies or is injured or is carried off, with no witness about,",
+                        "an oath before the L<small>ORD</small> shall decide between the two of them that the one has not laid hands on the property of the other; the owner must acquiesce, and no restitution shall be made.",
+                        "But if [the animal] was stolen from him, he shall make restitution to its owner.",
+                        "If it was torn by beasts, he shall bring it as evidence; he need not replace what has been torn by beasts.",
+                        "When a man borrows [an animal] from another and it dies or is injured, its owner not being with it, he must make restitution.",
+                        "If its owner was with it, no restitution need be made; but if it was hired, he is entitled to the hire.",
+                        "If a man seduces a virgin for whom the bride-price has not been paid, and lies with her, he must make her his wife by payment of a bride-price.",
+                        "If her father refuses to give her to him, he must still weigh out silver in accordance with the bride-price for virgins.",
+                        "You shall not tolerate a sorceress.",
+                        "Whoever lies with a beast shall be put to death.",
+                        "Whoever sacrifices to a god other than the L<small>ORD</small> alone shall be proscribed.",
+                        "You shall not wrong a stranger or oppress him, for you were strangers in the land of Egypt.",
+                        "You shall not ill-treat any widow or orphan.",
+                        "If you do mistreat them, I will heed their outcry as soon as they cry out to Me,",
+                        "and My anger shall blaze forth and I will put you to the sword, and your own wives shall become widows and your children orphans.",
+                        "If you lend money to My people, to the poor among you, do not act toward them as a creditor; exact no interest from them.",
+                        "If you take your neighbor’s garment in pledge, you must return it to him before the sun sets;",
+                        "it is his only clothing, the sole covering for his skin. In what else shall he sleep? Therefore, if he cries out to Me, I will pay heed, for I am compassionate.",
+                        "You shall not revile God, nor put a curse upon a chieftain among your people.",
+                        "You shall not put off the skimming of the first yield of your vats. You shall give Me the first-born among your sons.",
+                        "You shall do the same with your cattle and your flocks: seven days it shall remain with its mother; on the eighth day you shall give it to Me.",
+                        "You shall be holy people to Me: you must not eat flesh torn by beasts in the field; you shall cast it to the dogs."
+                      ],
+                      "expandedRefsAfterRewriting": [
+                        "Exodus 22:1",
+                        "Exodus 22:2",
+                        "Exodus 22:3",
+                        "Exodus 22:4",
+                        "Exodus 22:5",
+                        "Exodus 22:6",
+                        "Exodus 22:7",
+                        "Exodus 22:8",
+                        "Exodus 22:9",
+                        "Exodus 22:10",
+                        "Exodus 22:11",
+                        "Exodus 22:12",
+                        "Exodus 22:13",
+                        "Exodus 22:14",
+                        "Exodus 22:15",
+                        "Exodus 22:16",
+                        "Exodus 22:17",
+                        "Exodus 22:18",
+                        "Exodus 22:19",
+                        "Exodus 22:20",
+                        "Exodus 22:21",
+                        "Exodus 22:22",
+                        "Exodus 22:23",
+                        "Exodus 22:24",
+                        "Exodus 22:25",
+                        "Exodus 22:26",
+                        "Exodus 22:27",
+                        "Exodus 22:28",
+                        "Exodus 22:29"
+                      ],
+                      "he": [
+                        "אִם־בַּמַּחְתֶּ֛רֶת יִמָּצֵ֥א הַגַּנָּ֖ב וְהֻכָּ֣ה וָמֵ֑ת אֵ֥ין ל֖וֹ דָּמִֽים׃",
+                        "אִם־זָרְחָ֥ה הַשֶּׁ֛מֶשׁ עָלָ֖יו דָּמִ֣ים ל֑וֹ שַׁלֵּ֣ם יְשַׁלֵּ֔ם אִם־אֵ֣ין ל֔וֹ וְנִמְכַּ֖ר בִּגְנֵבָתֽוֹ׃",
+                        "אִֽם־הִמָּצֵא֩ תִמָּצֵ֨א בְיָד֜וֹ הַגְּנֵבָ֗ה מִשּׁ֧וֹר עַד־חֲמ֛וֹר עַד־שֶׂ֖ה חַיִּ֑ים שְׁנַ֖יִם יְשַׁלֵּֽם׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּ֤י יַבְעֶר־אִישׁ֙ שָׂדֶ֣ה אוֹ־כֶ֔רֶם וְשִׁלַּח֙ אֶת־<span class=\"mam-kq-trivial\">בְּעִירֹ֔ה</span> וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּֽי־תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙ וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה שַׁלֵּ֣ם יְשַׁלֵּ֔ם הַמַּבְעִ֖ר אֶת־הַבְּעֵרָֽה׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ כֶּ֤סֶף אֽוֹ־כֵלִים֙ לִשְׁמֹ֔ר וְגֻנַּ֖ב מִבֵּ֣ית הָאִ֑ישׁ אִם־יִמָּצֵ֥א הַגַּנָּ֖ב יְשַׁלֵּ֥ם שְׁנָֽיִם׃",
+                        "אִם־לֹ֤א יִמָּצֵא֙ הַגַּנָּ֔ב וְנִקְרַ֥ב בַּֽעַל־הַבַּ֖יִת אֶל־הָֽאֱלֹהִ֑ים אִם־לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֥אכֶת רֵעֵֽהוּ׃",
+                        "עַֽל־כׇּל־דְּבַר־פֶּ֡שַׁע עַל־שׁ֡וֹר עַל־חֲ֠מ֠וֹר עַל־שֶׂ֨ה עַל־שַׂלְמָ֜ה עַל־כׇּל־אֲבֵדָ֗ה אֲשֶׁ֤ר יֹאמַר֙ כִּי־ה֣וּא זֶ֔ה עַ֚ד הָֽאֱלֹהִ֔ים יָבֹ֖א דְּבַר־שְׁנֵיהֶ֑ם אֲשֶׁ֤ר יַרְשִׁיעֻן֙ אֱלֹהִ֔ים יְשַׁלֵּ֥ם שְׁנַ֖יִם לְרֵעֵֽהוּ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "כִּֽי־יִתֵּן֩ אִ֨ישׁ אֶל־רֵעֵ֜הוּ חֲמ֨וֹר אוֹ־שׁ֥וֹר אוֹ־שֶׂ֛ה וְכׇל־בְּהֵמָ֖ה לִשְׁמֹ֑ר וּמֵ֛ת אוֹ־נִשְׁבַּ֥ר אוֹ־נִשְׁבָּ֖ה אֵ֥ין רֹאֶֽה׃",
+                        "שְׁבֻעַ֣ת יְהֹוָ֗ה תִּהְיֶה֙ בֵּ֣ין שְׁנֵיהֶ֔ם אִם־לֹ֥א שָׁלַ֛ח יָד֖וֹ בִּמְלֶ֣אכֶת רֵעֵ֑הוּ וְלָקַ֥ח בְּעָלָ֖יו וְלֹ֥א יְשַׁלֵּֽם׃",
+                        "וְאִם־גָּנֹ֥ב יִגָּנֵ֖ב מֵעִמּ֑וֹ יְשַׁלֵּ֖ם לִבְעָלָֽיו׃",
+                        "אִם־טָרֹ֥ף יִטָּרֵ֖ף יְבִאֵ֣הוּ עֵ֑ד הַטְּרֵפָ֖ה לֹ֥א יְשַׁלֵּֽם׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+                        "וְכִֽי־יִשְׁאַ֥ל אִ֛ישׁ מֵעִ֥ם רֵעֵ֖הוּ וְנִשְׁבַּ֣ר אוֹ־מֵ֑ת בְּעָלָ֥יו אֵין־עִמּ֖וֹ שַׁלֵּ֥ם יְשַׁלֵּֽם׃",
+                        "אִם־בְּעָלָ֥יו עִמּ֖וֹ לֹ֣א יְשַׁלֵּ֑ם אִם־שָׂכִ֣יר ה֔וּא בָּ֖א בִּשְׂכָרֽוֹ׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "וְכִֽי־יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא־אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה לּ֖וֹ לְאִשָּֽׁה׃",
+                        "אִם־מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "מְכַשֵּׁפָ֖ה לֹ֥א תְחַיֶּֽה׃",
+                        "כׇּל־שֹׁכֵ֥ב עִם־בְּהֵמָ֖ה מ֥וֹת יוּמָֽת׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "זֹבֵ֥חַ לָאֱלֹהִ֖ים יׇֽחֳרָ֑ם בִּלְתִּ֥י לַיהֹוָ֖ה לְבַדּֽוֹ׃",
+                        "וְגֵ֥ר לֹא־תוֹנֶ֖ה וְלֹ֣א תִלְחָצֶ֑נּוּ כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+                        "כׇּל־אַלְמָנָ֥ה וְיָת֖וֹם לֹ֥א תְעַנּֽוּן׃",
+                        "אִם־עַנֵּ֥ה תְעַנֶּ֖ה אֹת֑וֹ כִּ֣י אִם־צָעֹ֤ק יִצְעַק֙ אֵלַ֔י שָׁמֹ֥עַ אֶשְׁמַ֖ע צַעֲקָתֽוֹ׃",
+                        "וְחָרָ֣ה אַפִּ֔י וְהָרַגְתִּ֥י אֶתְכֶ֖ם בֶּחָ֑רֶב וְהָי֤וּ נְשֵׁיכֶם֙ אַלְמָנ֔וֹת וּבְנֵיכֶ֖ם יְתֹמִֽים׃ <span class=\"mam-spi-pe\">{פ}</span><br>",
+                        "אִם־כֶּ֣סֶף <b>׀</b> תַּלְוֶ֣ה אֶת־עַמִּ֗י אֶת־הֶֽעָנִי֙ עִמָּ֔ךְ לֹא־תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא־תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ׃",
+                        "אִם־חָבֹ֥ל תַּחְבֹּ֖ל שַׂלְמַ֣ת רֵעֶ֑ךָ עַד־בֹּ֥א הַשֶּׁ֖מֶשׁ תְּשִׁיבֶ֥נּוּ לֽוֹ׃",
+                        "כִּ֣י הִ֤וא <span class=\"mam-kq-trivial\">כְסוּתֹה֙</span> לְבַדָּ֔הּ הִ֥וא שִׂמְלָת֖וֹ לְעֹר֑וֹ בַּמֶּ֣ה יִשְׁכָּ֔ב וְהָיָה֙ כִּֽי־יִצְעַ֣ק אֵלַ֔י וְשָׁמַעְתִּ֖י כִּֽי־חַנּ֥וּן אָֽנִי׃ <span class=\"mam-spi-samekh\">{ס}</span>",
+                        "אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר׃",
+                        "מְלֵאָתְךָ֥ וְדִמְעֲךָ֖ לֹ֣א תְאַחֵ֑ר בְּכ֥וֹר בָּנֶ֖יךָ תִּתֶּן־לִֽי׃",
+                        "כֵּֽן־תַּעֲשֶׂ֥ה לְשֹׁרְךָ֖ לְצֹאנֶ֑ךָ שִׁבְעַ֤ת יָמִים֙ יִהְיֶ֣ה עִם־אִמּ֔וֹ בַּיּ֥וֹם הַשְּׁמִינִ֖י תִּתְּנוֹ־לִֽי׃",
+                        "וְאַנְשֵׁי־קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב תַּשְׁלִכ֥וּן אֹתֽוֹ׃ <span class=\"mam-spi-samekh\">{ס}</span>"
+                      ],
+                      "link": "/Exodus/22",
+                      "ref": "Exodus 22",
+                      "sourceHeRef": "שמות כ״ב",
+                      "sourceRef": "Exodus 22"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלו עוברין</strong> - משום לא תשימון <span class=\"parenthesized\">(שמות כב)</span>:",
+              "ref": "Rashi on Bava Metzia 71b:1:2",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:א:ב",
+              "sourceRef": "Rashi on Bava Metzia 71b:1:2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רב ענן אמר שמואל מעות של יתומין מותר להלוותן ברבית. א\"ל רב נחמן לרב ענן משום דיתמי נינהו קאכלי רביתא. יתמי דאכלי דלאו דידהו ליזלו בתר שבקייהו. אימא לי גופא דעובדא היכי הוה. א\"ל ההוא דודא דהוה להו לבני מר עוקבא והוה בי מר שמואל ותקיל ושקיל ותקיל ויהיב ותקיל ושקיל שקיל אגרא ושקיל פחתא. מה נפשך אי אגרא לא פחתא אי פחתא לא אגרא. א\"ל כי הא אפי' בדקנני שרי. מ\"ט. דהא קביל עליה חוסכא דנחשא. דכמה דמקלי נחשא בצרי דמיה. אמר רבה בר שילא אמר רב חסדא ואמרי לה א\"ר יוסף בר חמא א\"ר ששת מעות של יתומין מותר להלוותן בקרוב לשכר ורחוק להפסד. כתבו הגאונים ז\"ל דה\"ה לכל שאר רבית דרבנן. והא דמייתי לעיל מההוא עובדא דההוא דודא הוה מצי למימר ליה אבק רבית שאני. דרב ענן היה רוצה להתיר אפילו רבית דאורייתא. אלא האמת אמר לו דאפי' בדקנני שרי. ת\"ר קרוב לשכר ורחוק להפסד רשע. קרוב להפסד ורחוק לשכר חסיד. קרוב לזה ולזה או רחוק לזה ולזה זו היא מדת כל אדם. א\"ל רבה לרב יוסף הני זוזי דיתמי היכי עבדינן להו. א\"ל מותבינן להו בבי דינא ויהיבנא להו זוזא זוזא. א\"ל והא קכליא קרנא. א\"ל מר היכי עביד. א\"ל בדקינן גברא דאית ליה דהבא פריכא ונקטינן ליה מיניה ויהיבנא ניהליה קרוב לשכר ורחוק להפסד. ודוקא דהבא פריכא. אבל דבר מסוים לא דלמא פקדון נינהו גביה. ואתא מריה ויהיב סימנא ושקיל ליה. תימה היכי שקיל ליה בסימנא הא מצי למימר לקוח הוא בידי. ואי חיישינן דלמא מודה ליה מקבל דשלו הן. א\"כ אפילו כי לא יהיב סימנא נמי ואפילו דהבא פריכא נמי. ונראה לפרש דחיישי' דלמא אחר מיתת המקבל יביא המפקיד עדים שהפקיד ביד אביהם כלי שיש בו סימן זה ומאחר שמביא עדים על כך אין להם לב\"ד להעלים שלא להראות אותו חפץ לעדים ויכירו אם זה הוא. וכיון דעדי הפקדון נותנין סימן מובהק והרי אנו רואין אותו סימן תחת ידינו הוה ליה כעדים וראה לגבי יתמי:",
+              "ref": "Rosh on Bava Metzia 5:50:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא מציעא ה:נ:א",
+              "sourceRef": "Rosh on Bava Metzia 5:50:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ערב למאן</b> <span class=\"hebrew-emphasis\">[למי]?</span> <b>אילימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> <b>ערב לישראל,</b> שמלוה בריבית <b>והא תנא</b> <span class=\"hebrew-emphasis\">[והרי שנה</span> החכם<span class=\"hebrew-emphasis\">]:</span> <b>אלו עוברין ב\"לא תעשה\": המלוה הלוה, הערב והעדים!</b>",
+              "ref": "Steinsaltz on Bava Metzia 71b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:א",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: You may become <b>a guarantor for whom? If we say</b> it means <b>a guarantor for a Jew</b> who lends money to another Jew with interest, that is difficult. <b>But</b> this would be contradicted by that which <b>the Sages taught</b> in a mishna (75b): <b>These are the ones who transgress a prohibition: The lender and the borrower, the guarantor and the witnesses.</b> It is prohibited to serve as a guarantor for such a loan.",
+      "he": "עָרֵב לְמַאן? אִילֵימָא עָרֵב לְיִשְׂרָאֵל, וְהָא תָּנָא: אֵלּוּ עוֹבְרִין בְּלֹא תַּעֲשֶׂה הַמַּלְוֶה וְהַלֹּוֶה, הֶעָרֵב וְהָעֵדִים!",
+      "ref": "Bava Metzia 71b:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "It is forbidden for a Jew to entrust his money to a gentile so that he can lend them to a Jew at interest.<br>When a gentile loans money to a Jew at interest, it is forbidden for another Jew to serve as a guarantor. The rationale is that according to their laws, the lender may demand payment from the guarantor first. Thus, after paying the debt, the guarantor will demand payment for the interest that he is obligated to the gentile. Hence, if the gentile makes a commitment not to demand payment from the guarantor first, it is permitted.",
+              "he": "אָסוּר לְיִשְׂרָאֵל לִתְלוֹת מְעוֹתָיו בְּיַד עַכּוּ\"ם כְּדֵי לְהַלְווֹתָן בְּרִבִּית לְיִשְׂרָאֵל. וְעַכּוּ\"ם שֶׁהִלְוָה אֶת יִשְׂרָאֵל בְּרִבִּית אָסוּר לְיִשְׂרָאֵל אַחֵר לִהְיוֹת לוֹ עָרֵב שֶׁכֵּיוָן שֶׁבְּדִינֵיהֶם שֶׁתּוֹבֵעַ הֶעָרֵב תְּחִלָּה נִמְצָא הֶעָרֵב תּוֹבֵעַ אֶת יִשְׂרָאֵל בְּרִבִּית שֶׁהֶעָרֵב חַיָּב בָּהּ לָעַכּוּ\"ם. לְפִיכָךְ אִם קִבֵּל עָלָיו הָעַכּוּ\"ם שֶׁלֹּא יִתְבַּע אֶת הֶעָרֵב תְּחִלָּה הֲרֵי זֶה מֻתָּר:",
+              "ref": "Mishneh Torah, Creditor and Debtor 5:5",
+              "sourceHeRef": "הלכות מלווה ולווה ה:ה",
+              "sourceRef": "Creditor and Debtor 5:5"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא ערב לנכרי.</b> כלומר כשלוה ישראל מנכרי וישראל נעשה לו ערב. ואקשינן סוף סוף כיון דאי בתר ערב אזלינן אשתכח דישראל קא מוזיף ברביתא.<br><b></b> כלומר כיון שהם יכולים לתבוע הערב תחלה אע״פ שהוא מוצא נכסים אצל הלוה, נמצא דישראל הערב כשפורע לנכרי המלוה וחוזר וגובה הרבית מישראל הלוה, הרי הוא כאלו הוא הלוה לישראל חברו ברבית. כגון שקבל עליו נכרי המלוה לדון בדיני ישראל. שלא יתבע מן הערב עד שיתבע הלוה תחלה כדינינו. כך פירש רש״י ז״ל, וכן פירשוה המפרשים שראיתי. ונמצא לפי פירושם, דכל שנעשה הישראל קבלן לנכרי המלוה אסור, ועכשיו דיניהם <span class=\"parenthesized\">(שלמי')</span> [של גויים] ללכת אחר מי שירצו, אפילו הכי לא נמנעו ישראל בכל מקומות אלו מהיות ישראל לוה מנכרי וישראל חברו נעשה לו ערב, ואע״פ שאינו מקבל הנכרי לדון בדיני ישראל, ולא ראיתי לאחד מן הגדולים שמיחה בדבר. ועוד קשיא לי, דאי כדברי המפרשים, היכי קאמר דאשתכח דישראל קא מוזיף ברביתא, דלא הוי למימר אלא ישראל קא שקיל רביתא, דאילו אזל נכרי מנפשיה <span class=\"parenthesized\">(נכרי)</span> [וגבי] מן הלוה, נמצא דישראל הערב לא עבר ולא מידי, אלא דאלו פרע לנכרי המלוה והדר שקיל מישראל הלוה קא עבר מהשתא, משום דהשתא שקיל רביתא. ומיהו מצאתי קצת נסחאות דכתיב בהו, אשתכח דישראל קא שקיל רביתא. ומכל מקום לא ניחא לי דאם כן אף כשיקבל לדון בדיני ישראל אמאי שרי, דהא אי לא משכח לאתפרעא מלוה חוזר הוא על הערב וחוזר הערב ונוטל מן הלוה, נמצא דישראל קא שקיל רביתא, מאי קאמרת סוף סוף לא על הערב נתרבה אלא על הלוה. וכשהערב פורע וחוזר וגובה מן הלוה אינו כנוטל ממנו רבית אלא מה שנתרבה עליו ופרע מחמתו לנכרי המלוה, והילכך בקבלן נמי לא על הקבלן מתרבה אלא על הלוה, אלא שיש לו לגבות בין מזה בין מזה, וכשגובה מקבלן וחוזר קבלן וגובה מן הלוה, מה שנתרבה עליו ופרע מחמתו הוא שחוזר וגובה מן הלוה. ועוד דאם כן קבלן עובר בכל הלאוין כמלוה ולוה ועדים ואין לך עובר בכלן חוץ ממנו, ואם איתא, אביי דמחלק לאוין לכולהו בשלהי פרקין <span class=\"parenthesized\">(עה, ב)</span> ואמר מלוה עובר בכולן, כלומר חוץ מבל תשיך, ולוה עובר משום בל תשיך, ערב ועדים אינן עוברים אלא משום לא תשימון עליו נשך, א״כ לימא ערב וקבלן עובר בכלן ואף אלאו דבל תשיך ולאחיך לא תשיך, אלא ודאי משמע דאין לך ערב שעובר [אלא] על לא תשימון עליו נשך. ואע״ג דמשמע לכאורה בריש פרקין <span class=\"parenthesized\">(בבא מציעא סב, א)</span> בברייתא דר' נחמיה ור' אליעזר בן יעקב פוטרים את המלוה ואת הערב, דאף הערב עובר משום בל תקח מאתו נשך ותרבית, מדאתא לאוקמי הא דר' יוחנן דאמר אף רבית קצוצה אינה יוצאה בדיינין כתנאי, [דתניא] ר' נחמיה ור' אליעזר בן יעקב פוטרים את המלוה ואת הערב מפני שיש בהם קום עשה, מאי קום עשה, לאו דאמרינן להו קומו אהדורו, אלמא אף ערב לדידיה בקום אהדר, ומאי ערב, ערב קבלן, דאלו ערב בעלמא אינו כנוטל רבית ולא עבר אלא אלאו דשימה. לא קשיא, דדילמא מאן דסבירא ליה כר' יוחנן הוא דסבר ליה הכי, אבל אנן הא דחינן לה התם, לא מאי קום עשה קרועי שטרא וקא משמע לן דשומא מילתא היא כדאיתא התם.<br><b></b>אלא מסתברא לי דאין ערב ואפילו ערב קבלן עוברים אלא בלאו דשימה, לפי שאין הרבית מתרבה עליו אלא על הלוה, וערב דנכרי ערב שלוף דוץ הוא, ויכול הלוה לדחות את המלוה אצל הערב, ואמר לו כלום הלויתני אלא על הערב הרי הערב לפניך, והרי הוא כערב שלנו שנשא ונתן ביד דנפטר לוה מיניה דמלוה <span class=\"parenthesized\">(כב״ב קמב, א)</span> והכי משמע בשלהי גט פשוט דערב דידהו ערב שלוף דוץ הוא, דתנן התם <span class=\"parenthesized\">(ב״ב קעג, א)</span> המלוה את חברו על ידי ערב לא יפרע מן הערב, וקא סלקא דעתך דלא יפרע מן הערב כלל קאמר, ואבעיא להו בגמ' מאי טעמא, ואמרינן רבה ורב יוסף דאמרי תרוייהו גברא אשלמת לי גברא אשלמא לך, ואתקיף לה רב נחמן האי דינא דפרסאי הוא, ואקשינן אדרבה דינא דפרסאי בתר ערבא אזלי, כלומר בהפך הדין שאמרת, שלא יפרע מן הלוה כלל אלא בתר ערבא קא אזלי דאמר ליה גברא אשלמית לך. ולפיכך משתכח דישראל קא מוזיף ברביתא דאיהו ניהו לוה מזה ומלוה לזה, והילכך עד שיקבל עליו הנכרי לדון בדיני ישראל אסור. וא״ת אם כן כל שישראל לוה מן הנכרי וישראל חברו נעשה לו ערב, מאי קאמר שקבל עליו הנכרי לדון בדיני ישראל, דמשמע שהנכרי מוותר על דינו, אדרבא הא טבא ליה, דאי בעי אזיל בתר לוה ואי בעי אזיל בתר ערבא, ובשקבל עליו ישראל הלוה קיימא מילתא. לא היא, דאע״ג דקבל עליו ישראל הלוה שלא לדחותו אצל הערב, אם לא קבל עליו הנכרי דינו הוא שחוזר על הערב בלחוד, ואפילו בא לוה לפרעו אין מקבל ממנו אם ירצה, ונפקא ליה מיניה, אם יש עדית לערב ואין ללוה אלא זיבורית, דבדינינו אם רצה לוה לפרעו זיבורית שלו אינו יכול לחזור על הערב אפילו בערב קבלן, כדמוכח בהדיא בגיטין ריש פ' הנזקין וכמו שכתבתי שם <span class=\"parenthesized\">(מט, ב ד״ה הניחא)</span>, ואלו בדיניהם אינו חוזר אלא על עדית דערב, דאמר ליה ללוה אין לי עסק אלא עם הערב, ועכשיו ויתר על דינו כשקיבל לדון בדיני ישראל. גם מדברי הראב״ד נראה כן, דערב שלהן ערב שלוף דוץ הוא, וזה לשונו שכתב כאן, אבל אתה נעשה לו ערב, אוקימנא כשנעשה לו ערב לנכרי, וכשקבל עליו הנכרי לדון בדיני ישראל שלא ילך אחר הערב עד שיתבע את ישראל הלוה, וכל שכן אם המלוה ישראל שהלוה לנכרי ברבית, שאין ישראל אחר רשאי להיות לו ערב אלא אם כן התנה הנכרי שלא ידחה אותו אצל הערב כל זמן שיהיה בידו לפרוע, עד כאן לשון הרב ז״ל, ואע״פ [שהרב] ז״ל נראה שסובר דכל שיכול ללכת אחר הערב כקבלן אסור כמו שנכתוב בסמוך <span class=\"parenthesized\">(בד״ה תוספתא)</span>.<br><b></b>תוספתא <span class=\"parenthesized\">(פ״ה ה״ח)</span> ישראל שלוה מנכרי ונכרי שלוה מישראל, ישראל [אחר] נעשה לו ערב ואינו חושש משום רבית. מכאן מוכח דישראל המלוה לנכרי ברבית מותר לישראל לעשות ערב מחמת הנכרי, וכן משמע נמי מדגרסינן בירושלמי בכתובות פרק הכותב <span class=\"parenthesized\">(ה״ח)</span> גבי הנפרעת שלא בפניו, ונפרעין מן האדם שלא בפניו, אמר ר' <span class=\"parenthesized\">(אבין)</span> [ירמיה] תפתר כשרבית אוכלת בהן. וב״ד גובין רבית, תפתר כשערב לו מן הנכרי, כלומר שערב לו בשביל נכרי שלוה ממנו, וכן כתב הראב״ד ז״ל וכמו שכתבתי למעלה בסמוך, והוא שקבל עליו הנכרי הלוה שלא לדחותו אצל הערב. וכתב עוד הרב ז״ל, ואע״ג דמחזיא מילתא דהכא אע״ג דקביל עליה הכי אסור, משום דכי לית ליה לנכרי סוף בתר ערבא אזיל וקא שקיל מיניה רבית, אפילו הכי אי קביל עליה מותר, דהכי אשכחן בתוספתא. והאידנא קא חזינא דדינא דנכרים נמי הכי דייני, דכי משכחת ליה ללוה לאפרועי מיניה לא שקלי מערבא, הילכך כמי שקבל עליו לדון בדיני ישראל הוי ומותר, עד כאן לשון הרב ז״ל. ומכאן נראה שהוא ז״ל מפרש, דכל שיכול ללכת אחר הערב תחלה כקבלן אסור, וכמו שכתבתי למעלה, וכבר כתבתי מה שנראה לי. וכן הורגלו במקומות האלו לעשות ערבות לנכרי מחמת ישראל הלוה, ואע״פ שהנכרים הללו גובים ממי שירצו תחלה, ומפרשין כן בשטרותיהם ליפרע ממי שירצה תחלה.",
+              "ref": "Rashba on Bava Metzia 71b:1",
+              "sourceHeRef": "רשב״א על בבא מציעא ע״א ב:א",
+              "sourceRef": "Rashba on Bava Metzia 71b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והא כיון דנכרי בתר ערבא אזיל</strong> - אינו תובע אלא את הערב:",
+              "ref": "Rashi on Bava Metzia 71b:2:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ב:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הוא ניהו דשקיל רבית</strong> - ערב זה הלוה מן הנכרי וחזר והלוה לישראל:",
+              "ref": "Rashi on Bava Metzia 71b:2:2",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ב:ב",
+              "sourceRef": "Rashi on Bava Metzia 71b:2:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "<b>De la défense de se porter garant pour un de ses coreligionnaires qui emprunte à un païen de l'argent à intérêt</b><br>Il est interdit à un Israélite de se porter garant pour un coreligionnaire qui emprunte à intérêt de l’argent à un païen. Car, d’après l’usage païen, on réclame d’abord l’argent au garant; le garant serait donc ensuite obligé de se faire rembourser par son coreligionnaire. Mais dans le cas où le païen promettrait de ne pas réclamer d’abord l'argent au garant, un Israélite peut être garant pour un autre Israélite.<br><small>G<small>LOSE</small>: De nos jours où l’usage païen n’existe plus, un Israélite peut se porter garant d’un de ses coreligionnaires qui emprunte, moyennant intérêt, de l’argent à un non-Israélite. </small><br>D’aucuns disent que la première loi n’est en vigueur, même lorsqu'il s’agit de païens, que lorsque le garant dit qu’il veut bien remplacer absolument le débiteur, payer pour lui capital et intérêt, quitte à les lui réclamer après.<br><small>G<small>LOSE</small>: Si, dans ce dernier cas, un Israélite a répondu pour un autre, cet autre doit lui rendre le capital que le garant a versé, mais non l’intérêt. Si le débiteur a rendu à son garant l’intérêt, il ne peut le ravoir par voie judiciaire.</small>",
+              "he": "ישראל שלוה מעות מעובד כוכבים ברבית אסור לישראל אחר להיות לו ערב שכיון שבדיניהם תובע הערב תחלה נמצא הערב תובע את ישראל ברבית שהערב חייב בה לעובד כוכבים לפיכך אם קבל עליו העובד כוכבים שלא יתבע את הערב תחלה הרי זה מותר: <span class=\"hebrew-emphasis\">הגה והאידנא מסתמא הוי כאילו קבל עליו הכי דסתם ערבות כך הוא (טור) ודוקא במקום שהמנהג כך שתובעין הלוה תחלה: </span>וי\"א שאינו אסור אלא בערב שלוף דוץ <span class=\"hebrew-emphasis\">(פי' ערב שמנקה את הלוה מדין המלוה כשלוף דוץ שהוא מין עשב שמיבשין אותו ורוחצין בו את הידים להעביר הזוהמא) </span>דהיינו שאין דין המלוה עם הלוה כלל שהוא יכול לדחותו אצל הערב: <span class=\"hebrew-emphasis\">הגה ואם עבר ונעשה ערב בעדו צריך לשלם כל הפסד המגיע לו על ידו אבל אינו צריך לתת רבית שנותן בשבילו דאין אומרים ליתן רבית (טור) ואי כבר פרע לו הרבית אין מוציאין מידו דלא גרע מאבק רבית (סברת הרב):</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 170:1",
+              "sourceHeRef": "יורה דעה קע:א - שלא יוכל ישראל להיות ערב לישראל שלוה מן העובד כוכבים ברבית.",
+              "sourceRef": "Yoreh De'ah 170:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> הכוונה היא <b>לגוי</b> המלוה לישראל בריבית, ואולם גם אז קשה: <b>וכיון דדיניה</b> <span class=\"hebrew-emphasis\">[שדינו]</span> של ה<b>גוי דאזיל בתר ערבא</b> <span class=\"hebrew-emphasis\">[ש</span>הוא <span class=\"hebrew-emphasis\">הולך אחר הערב],</span> שבדיניהם יכול המלוה להקדים ולגבות מן הערב, יצטרך הערב לפרוע ולקבל את הכסף מחבירו הלווה, ונמצא כי <b>איהו ניהו דקא שקיל מיניה רביתא</b> <span class=\"hebrew-emphasis\">[הוא הוא שלוקח ממנו ריבית]!</span> וכיצד מותר הדבר?",
+              "ref": "Steinsaltz on Bava Metzia 71b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:ב",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a Jew borrows money from a gentile with interest, another Jew may not serve as guarantor, since under gentile law the lender collects directly from the guarantor, and therefore the guarantor receives the interest on the loan when he collects from the borrower. If the gentile accepts upon himself to have this transaction judged by Jewish law, according to which he must first attempt to collect directly from the borrower, it is permitted. Nowadays, when it is the universal practice to first attempt to obtain repayment from the borrower, it is assumedly not necessary to pronounce that the transaction be judged by Jewish law (Rambam <i>Sefer Mishpatim</i>,<i> Hilkhot Malve VeLoveh </i>5:5; <i>Shulĥan Arukh</i>,<i> Yoreh De’a </i>170:1 and <i>Shakh </i>there).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 71b:2",
+              "sourceHeRef": "עָרֵב לְנָכְרִי",
+              "sourceRef": "Guarantor for a gentile"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather,</b> it must mean that one may serve as a guarantor <b>for a gentile</b> who lends to another Jew with interest. This is also difficult, <b>since the law of the gentiles is that he goes after the guarantor</b> to collect the money without trying to collect first from the borrower. Under gentile law, it is the responsibility of the guarantor to pay the lender and to then retrieve the money from the borrower. Consequently, when this occurs, the guarantor is considered to have borrowed money from the gentile and lent it himself to the Jew, with the result <b>that</b> the guarantor <b>is</b> the one <b>who takes the interest from</b> the borrower, which is prohibited.",
+      "he": "אֶלָּא לְגוֹי וְכֵיוָן דְּדִינֵיהּ דְּגוֹי דְּאָזֵיל בָּתַר עָרְבָא, אִיהוּ נִיהוּ דְּקָא שָׁקֵיל מִינֵּיהּ רִבִּיתָא!",
+      "ref": "Bava Metzia 71b:2"
+    },
+    {
+      "commentary": {
+        "Malbim": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אל תקח מאתו נשך: לאפוקי אם הישראל לוה מן העכו\"ם וישראל חברו ערב בעדו. ומפרש בגמרא <span class=\"parenthesized\">(ב\"מ דף עא)</span> כגון שקבל עליו הנכרי לדון דין כזה כדיני ישראל שנפרעים מן הלוה תחלה קודם הערב. ואם כן בשעת הלואה מבטיח הריבית להעכו\"ם ואין הישראל לוקח מאתו רק נותן בעדו נשך שנתחייב להעכו\"ם וחוזר ונפרע ממנו.",
+              "ref": "Malbim on Leviticus, Behar 73:1",
+              "sourceHeRef": "מלבי\"ם על ויקרא, בהר עג:א",
+              "sourceRef": "Malbim on Leviticus, Behar 73:1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>Rav Yehuda says</b> that <b>Rav Asi says:</b> The court <b>attends to the property of</b> minor <b>orphans,</b>to sell it in order to pay a debt, <b>only</b> if the debt <b>was</b> accruing <b>interest</b> that <b>consumes</b> the property of the orphans, since if they delay payment of the debt, it will grow dramatically. In other cases the court delays payment until the orphans reach majority. <b>And Rabbi Yoḥanan says:</b> The court attends to their property <b>either to</b> pay a debt recorded in a promissory <b>note that contains interest or to</b> pay <b>a wife’s marriage contract, due to</b> the standing obligation of the orphans to provide <b>sustenance</b> for their father’s widow from his estate as long as she has not received payment of her marriage contract. It is therefore beneficial to the orphans that she should collect her marriage contract immediately.",
+                "The Gemara asks: <b>And Rav Asi, what is the reason</b> that <b>he did not state</b> that the court attends to their property <b>for</b> the purpose of paying the <b>marriage contract of a wife?</b> The Gemara responds: There is no financial loss to the orphans in such a case, <b>because the Sages established for</b> the late husband that as long as she receives sustenance from his estate, the orphans are entitled to <b>her earnings.</b> The Gemara asks: <b>And the other,</b> Rabbi Yoḥanan, in light of this fact why does he rule that the court attends to their property? The Gemara responds: <b>Sometimes</b> her earnings <b>do not</b> provide <b>enough</b> to reimburse the money spent on her sustenance.",
+                "The Gemara continues: <b>We learned</b> in the mishna that one proclaims <b>the appraisal of the</b> property inherited by <b>orphans</b> for <b>thirty days and the appraisal of consecrated</b> property for <b>sixty days, and one proclaims</b> it <b>in the morning and in the evening.</b> The Gemara asks: <b>What</b> case <b>are we dealing with</b> in the mishna? <b>If we say</b> that we are dealing <b>with a gentile creditor, will he comply</b> with the ruling of the Jewish court that payment be delayed for thirty days? <b>Rather,</b> it is <b>obvious</b> that we are dealing <b>with a Jewish creditor.</b> Now, <b>if</b> the mishna is dealing with a situation <b>where the interest consumes</b> the orphans’ property, <b>do we leave</b> a Jew to collect interest? <b>But rather,</b> it must be referring to a case <b>where the interest does not consume</b> the orphans’ property, <b>and</b> nevertheless the mishna <b>teaches</b> that the court <b>attends</b> to the property of orphans even when no interest accrues on the loan. This apparently contradicts the opinions of Rav Asi and Rabbi Yoḥanan.",
+                "<b>Granted, according to</b> the opinion of <b>Rabbi Yoḥanan</b> the mishna is not difficult, as he can <b>establish</b> it as referring <b>to</b> payment of the <b>marriage contract of a wife. But according to</b> the opinion of <b>Rav Asi,</b> that the court does not attend to the property of orphans in such a case, the mishna poses <b>a difficulty.</b> The Gemara responds: <b>Rav Asi</b> could <b>say to you: And according to</b> the opinion of <b>Rabbi Yoḥanan, does it work out well</b> that the mishna requires thirty days of proclamation before the sale of the property? <b>Do we leave</b> aside the <b>sustenance that</b> the orphans <b>certainly lose</b> to the wife for the duration of the thirty days <b>and take,</b> i.e., implement, the <b>proclamation,</b> with regard to <b>which we do not know if</b> they <b>will gain</b> from it or <b>if</b> they <b>will not gain,</b> as it is uncertain that an offer matching the appraisal of the court will be made?",
+                "The Gemara rejects this argument: <b>This</b> is <b>not difficult,</b> as Rabbi Yoḥanan can explain that the mishna is referring <b>to</b> a widow who <b>claims her marriage contract in court.</b> And this is <b>in accordance with</b> a ruling <b>that Rav Yehuda</b> says that <b>Shmuel says, as Rav Yehuda says</b> that <b>Shmuel says:</b> A widow <b>who claims</b> payment of <b>her marriage contract in court no</b> longer receives <b>sustenance</b> from the estate of her husband.",
+                "The Gemara asks: <b>If so,</b> then <b>we</b> should <b>not attend to her</b> request to collect payment of her marriage contract at all. Rather, the court should delay payment until the orphans reach majority, as they incur no loss by delaying the payment. The Gemara rejects this suggestion: That is not appropriate; <b>rather, since we attend to her initially,</b> when she claims the payment of her marriage contract in court, <b>we attend to her in the end</b> as well, in order to collect payment from the orphans, despite the fact that the orphans will not lose money if they do not pay immediately.",
+                "The Gemara returns to its initial question: <b>In any case,</b> the mishna poses <b>a difficulty for</b> the opinion of <b>Rav Asi,</b> who maintains that the court attends to the property of orphans only in order to collect the payment of a loan that accrues interest, not for the payment of a marriage contract. If the mishna is dealing with a gentile creditor, he will not wait thirty days to collect payment, and if it is referring to a Jewish creditor, he is prohibited from charging interest in the first place. The Gemara responds: <b>Actually,</b> the mishna is referring <b>to a gentile creditor,</b> in the specific case of one <b>who accepted upon himself to adjudicate</b> in accordance <b>with Jewish law.</b> He therefore agrees to delay collection for thirty days.",
+                "The Gemara asks: <b>If so, let him also not take interest,</b> as it is prohibited to do so according to Jewish law. The Gemara responds: The mishna is dealing with a case <b>where he accepted</b> Jewish law <b>upon himself for this</b> matter, to delay collection for thirty days, <b>but he did not accept</b> it <b>upon himself for that</b> matter, not to collect interest.",
+                "The Gemara suggests: <b>Come</b> and <b>hear</b> a difficulty for the opinions of Rav Asi and Rav Yoḥanan from a mishna (<i>Gittin</i> 48b): A court <b>can collect</b> a father’s debt <b>from the property of orphans only from</b> land of <b>the lowest quality.</b> The Gemara asks: <b>What are we dealing with</b> in this mishna? <b>If we say</b> that the mishna is referring <b>to a gentile creditor, will he comply</b> and accept inferior-quality land as payment? <b>Rather,</b> it is <b>obvious</b> that we are dealing <b>with a Jewish creditor.</b> Now, <b>if</b> the mishna is referring to a case <b>where the interest consumes</b> the orphans’ property, <b>do we leave him</b> to collect interest? <b>Rather,</b> it must be dealing with a case <b>where the interest does not consume</b> the orphans’ property, <b>and</b> yet it <b>is taught</b> in the mishna that the court <b>attends</b> to the property of orphans even when no interest accrues on the loan.",
+                "Once again, the Gemara states: <b>Granted,</b> the mishna is not difficult <b>according to</b> the opinion of <b>Rabbi Yoḥanan,</b> as he can <b>establish</b> it as referring <b>to</b> payment of the <b>marriage contract of a wife. But according to</b> the opinion of <b>Rav Asi,</b> that the court does not attend to the property of orphans in such a case, the mishna poses <b>a difficulty.</b> The Gemara responds that <b>Rav Asi</b> could <b>say to you: And</b> according <b>to</b> the opinion of <b>Rabbi Yoḥanan, does</b> the mishna <b>work out well? If</b> the mishna is referring to payment of a wife’s <b>marriage contract, why</b> does it discuss <b>specifically</b> a collection <b>from orphans? Even</b> in a case of a divorced woman who collects payment <b>from</b> the husband <b>himself,</b> she <b>also</b> receives only <b>inferior-quality</b> land.",
+                "The Gemara answers: <b>This</b> is <b>not difficult,</b> as Rabbi Yoḥanan would reply that the mishna <b>is</b> in accordance with the opinion of <b>Rabbi Meir, who says: A marriage contract of a wife</b> is generally paid <b>with intermediate</b>-<b>quality land, and</b> if payment is collected <b>from orphans,</b> the marriage contract is paid <b>with inferior-quality</b> land.",
+                "The Gemara asks: <b>In any case,</b> the mishna poses <b>a difficulty for</b> the opinion of <b>Rav Asi.</b> The Gemara responds: <b>Actually,</b> the mishna is referring <b>to a gentile creditor who accepted upon himself to adjudicate</b> in accordance <b>with Jewish law.</b> He therefore agrees to accept payment from inferior-quality land. The Gemara asks: <b>If so, let him also not take interest,</b> which is prohibited according to Jewish law. The Gemara responds: The mishna is dealing with a case <b>where he accepted</b> Jewish law <b>upon himself for this</b> matter, to delay collection for thirty days, <b>but he did not accept</b> it <b>upon himself for that</b> matter, not to collect interest. The court therefore attends to the property of the orphans in order to minimize the interest owed to the creditor.",
+                "The Gemara further suggests: <b>Come</b> and <b>hear</b> a difficulty from a <i>baraita</i>: When one proclaims the appraisal of the property of orphans, he announces that the property is being sold <b>in order to give</b> the proceeds <b>to a wife</b> as payment of <b>her marriage contract or</b> in order <b>to</b> give <b>a creditor</b> payment of <b>his debt.</b> The Gemara explains: <b>Granted,</b> there is no difficulty in the ruling that one proclaims that the property is being sold in order to give <b>a creditor</b> payment of a debt, as <b>whether</b> according to this <b>Sage or whether</b> according to that <b>Sage,</b> i.e., Rav Asi or Rabbi Yoḥanan, the mishna is <b>in accordance with that</b> which <b>we taught</b> above, that it is dealing with a gentile creditor who collects interest but agrees to delay payment.",
+                "<b>But</b> with regard to the proclamation that the property is being sold in order to pay the wife’s <b>marriage contract, granted, according to</b> the opinion of <b>Rabbi Yoḥanan,</b> who maintains that the court attends to the property of orphans in such a case, the <i>baraita</i> <b>works out well. But according to</b> the opinion of <b>Rav Asi,</b> that the court does not attend to their property in order to pay a marriage contract, the <i>baraita</i> poses <b>a difficulty.</b>",
+                "The Gemara responds: <b>Here we are dealing with</b> a case <b>where the</b> one who is <b>obligated</b> to pay <b>admits</b> that he has not yet paid, i.e., the father admitted before his death that he has not yet paid the obligation stated in the marriage contract. The Gemara notes: <b>Now that you have arrived at this</b> response, it is no longer necessary to establish that the previous cases are referring to a gentile creditor. Rather, <b>all of them</b> are <b>also</b> dealing with Jewish creditors, as they are referring to situations <b>where the</b> one who is <b>obligated</b> to pay <b>admits</b> that he has not yet paid. In such cases, the court collects payment from the property of the orphans without delay."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Arakhin 22a:6",
+                "Arakhin 22a:7",
+                "Arakhin 22a:8",
+                "Arakhin 22a:9",
+                "Arakhin 22a:10",
+                "Arakhin 22a:11",
+                "Arakhin 22a:12",
+                "Arakhin 22a:13",
+                "Arakhin 22a:14",
+                "Arakhin 22a:15",
+                "Arakhin 22a:16",
+                "Arakhin 22a:17",
+                "Arakhin 22a:18",
+                "Arakhin 22a:19",
+                "Arakhin 22a:20"
+              ],
+              "he": [
+                "אמר רב יהודה אמר רב אסי אין נזקקין לנכסי יתומים אלא אם כן היתה רבית אוכלת בהן ורבי יוחנן אומר או לשטר שיש בו רבית או לכתובת אשה משום מזוני",
+                "ורב אסי מ\"ט לא אמר לכתובת אשה דהא תקינו ליה רבנן מעשה ידיה ואידך זימנין דלא ספקה",
+                "תנן שום היתומים שלשים יום ושום ההקדש ששים יום ומכריזין בבקר ובערב במאי עסקינן אילימא בבעל חוב עובד כוכבים מי ציית אלא פשיטא בבעל חוב ישראל אי דקאכיל ריביתא מי שבקינן ליה ואלא דלא קאכיל ריביתא וקתני נזקקין",
+                "בשלמא לרבי יוחנן מוקי לה בכתובת אשה אלא לרב אסי קשיא אמר לך רב אסי ולרבי יוחנן מי ניחא מי שבקינן מזוני דודאי קא מפסדא ונקטינן הכרזה דלא ידעינן אי מרווחינן אי לא מרווחינן",
+                "הא לא קשיא בתובעת כתובתה בב\"ד כדרב יהודה אמר שמואל דאמר רב יהודה אמר שמואל התובעת כתובתה בב\"ד אין לה מזונות",
+                "אי הכי איזדקוקי לא מיזדקקינן לה אלא כיון דאיזדקקינן לה מעיקרא מיזדקקין לה לבסוף",
+                "מ\"מ לרב אסי קשיא לעולם בבעל חוב עובד כוכבים שקיבל עליו לדון בדיני ישראל",
+                "אי הכי רבית נמי לא לישקול שקיבל עליו לזו ולא קיבל עליו לזו",
+                "ת\"ש אין נפרעין מנכסי יתומים אלא מן הזיבורית במאי עסקינן אילימא בבעל חוב עובד כוכבים מי צאית אלא פשיטא בבעל חוב ישראל אי אכיל ריביתא מי שבקינן ליה אלא דלא אכיל ריביתא וקתני נזקקין",
+                "בשלמא לרבי יוחנן מוקי לה בכתובת אשה אלא לרב אסי קשיא אמר לך רב אסי ולרבי יוחנן מי ניחא אי כתובה מאי איריא מיתמי אפילו מיניה דידיה נמי בזיבורית",
+                "הא לא קשיא ר\"מ היא דאמר כתובת אשה בבינונית ומיתמי בזיבורית",
+                "מ\"מ לרב אסי קשיא לעולם בבעל חוב עובד כוכבים שקיבל עליו לדון בדיני ישראל א\"ה רבית נמי לא נישקול שקיבל לזו ולא קיבל עליו לזו",
+                "ת\"ש ע\"מ ליתן לאשה כתובתה ולבעל חוב חובו בשלמא בעל חוב בין מר ובין מר כדשנין",
+                "אלא כתובתה בשלמא לר' יוחנן ניחא אלא לרב אסי קשיא",
+                "הכא במאי עסקינן כשחייב מודה השתא דאתית להכי כולהו נמי כשחייב מודה"
+              ],
+              "link": "/Arakhin/22a",
+              "originalRefsBeforeRewriting": [
+                "Arakhin 22a:12",
+                "Arakhin 22a:13"
+              ],
+              "ref": "Arakhin 22a:6-20",
+              "sourceHeRef": "ערכין כ״ב א",
+              "sourceRef": "Arakhin 22a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "It is forbidden for a Jew to entrust his money to a gentile so that he can lend them to a Jew at interest.<br>When a gentile loans money to a Jew at interest, it is forbidden for another Jew to serve as a guarantor. The rationale is that according to their laws, the lender may demand payment from the guarantor first. Thus, after paying the debt, the guarantor will demand payment for the interest that he is obligated to the gentile. Hence, if the gentile makes a commitment not to demand payment from the guarantor first, it is permitted.",
+              "he": "אָסוּר לְיִשְׂרָאֵל לִתְלוֹת מְעוֹתָיו בְּיַד עַכּוּ\"ם כְּדֵי לְהַלְווֹתָן בְּרִבִּית לְיִשְׂרָאֵל. וְעַכּוּ\"ם שֶׁהִלְוָה אֶת יִשְׂרָאֵל בְּרִבִּית אָסוּר לְיִשְׂרָאֵל אַחֵר לִהְיוֹת לוֹ עָרֵב שֶׁכֵּיוָן שֶׁבְּדִינֵיהֶם שֶׁתּוֹבֵעַ הֶעָרֵב תְּחִלָּה נִמְצָא הֶעָרֵב תּוֹבֵעַ אֶת יִשְׂרָאֵל בְּרִבִּית שֶׁהֶעָרֵב חַיָּב בָּהּ לָעַכּוּ\"ם. לְפִיכָךְ אִם קִבֵּל עָלָיו הָעַכּוּ\"ם שֶׁלֹּא יִתְבַּע אֶת הֶעָרֵב תְּחִלָּה הֲרֵי זֶה מֻתָּר:",
+              "ref": "Mishneh Torah, Creditor and Debtor 5:5",
+              "sourceHeRef": "הלכות מלווה ולווה ה:ה",
+              "sourceRef": "Creditor and Debtor 5:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לדון בדיני ישראל</strong> - יתבע מן הלוה תחילה וכשלא ימצא אצלו יגבה מן הערב והשתא אין הערב לוה מתחילה הלכך כי פרע לנכרי ההיא שעתא הוא דאוזפיה לחבריה ומאי דמוזיף ליה שקיל מיניה:",
+              "ref": "Rashi on Bava Metzia 71b:3:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ג:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:3:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "<b>De la défense de se porter garant pour un de ses coreligionnaires qui emprunte à un païen de l'argent à intérêt</b><br>Il est interdit à un Israélite de se porter garant pour un coreligionnaire qui emprunte à intérêt de l’argent à un païen. Car, d’après l’usage païen, on réclame d’abord l’argent au garant; le garant serait donc ensuite obligé de se faire rembourser par son coreligionnaire. Mais dans le cas où le païen promettrait de ne pas réclamer d’abord l'argent au garant, un Israélite peut être garant pour un autre Israélite.<br><small>G<small>LOSE</small>: De nos jours où l’usage païen n’existe plus, un Israélite peut se porter garant d’un de ses coreligionnaires qui emprunte, moyennant intérêt, de l’argent à un non-Israélite. </small><br>D’aucuns disent que la première loi n’est en vigueur, même lorsqu'il s’agit de païens, que lorsque le garant dit qu’il veut bien remplacer absolument le débiteur, payer pour lui capital et intérêt, quitte à les lui réclamer après.<br><small>G<small>LOSE</small>: Si, dans ce dernier cas, un Israélite a répondu pour un autre, cet autre doit lui rendre le capital que le garant a versé, mais non l’intérêt. Si le débiteur a rendu à son garant l’intérêt, il ne peut le ravoir par voie judiciaire.</small>",
+              "he": "ישראל שלוה מעות מעובד כוכבים ברבית אסור לישראל אחר להיות לו ערב שכיון שבדיניהם תובע הערב תחלה נמצא הערב תובע את ישראל ברבית שהערב חייב בה לעובד כוכבים לפיכך אם קבל עליו העובד כוכבים שלא יתבע את הערב תחלה הרי זה מותר: <span class=\"hebrew-emphasis\">הגה והאידנא מסתמא הוי כאילו קבל עליו הכי דסתם ערבות כך הוא (טור) ודוקא במקום שהמנהג כך שתובעין הלוה תחלה: </span>וי\"א שאינו אסור אלא בערב שלוף דוץ <span class=\"hebrew-emphasis\">(פי' ערב שמנקה את הלוה מדין המלוה כשלוף דוץ שהוא מין עשב שמיבשין אותו ורוחצין בו את הידים להעביר הזוהמא) </span>דהיינו שאין דין המלוה עם הלוה כלל שהוא יכול לדחותו אצל הערב: <span class=\"hebrew-emphasis\">הגה ואם עבר ונעשה ערב בעדו צריך לשלם כל הפסד המגיע לו על ידו אבל אינו צריך לתת רבית שנותן בשבילו דאין אומרים ליתן רבית (טור) ואי כבר פרע לו הרבית אין מוציאין מידו דלא גרע מאבק רבית (סברת הרב):</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 170:1",
+              "sourceHeRef": "יורה דעה קע:א - שלא יוכל ישראל להיות ערב לישראל שלוה מן העובד כוכבים ברבית.",
+              "sourceRef": "Yoreh De'ah 170:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב ששת:</b> כאן מדובר <b>שקיבל עליו</b> הגוי <b>לדון בדיני ישראל</b> ולכן יקדים להפרע מן הלווה. ומקשים: <b>אי</b> <span class=\"hebrew-emphasis\">[אם]</span> <b>קיבל עליו</b> הגוי <b>לדון בדיני ישראל</b> — אם כן <b>רבית נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>לא לשקול</b> <span class=\"hebrew-emphasis\">[יקח],</span> שהרי בדיני ישראל אסור הדבר! <b>אמר רב ששת:</b> כאן מדובר באופן <b>שקיבל עליו</b> דיני ישראל <b>לזו,</b> לענין סדרי ודרכי הפרעון, <b>ולא קיבל עליו לזו</b> את איסורי התורה.",
+              "ref": "Steinsaltz on Bava Metzia 71b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:ג",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The early commentaries ask what happens if the gentile acts in accordance with Jewish law and first tries to collect from the borrower, who does not have the money to pay the debt, and the gentile therefore collects from the guarantor? In such a case the guarantor will later retrieve the money from the borrower, and he will consequently pay interest to another Jew. Therefore, how can a Jew serve as a guarantor? The Ramban answers that since the gentile lent the money directly to the borrower and first attempts to collect repayment from him, when he subsequently claims the money from the guarantor the entire amount is viewed as the debt to the gentile, and not as interest on a loan.",
+              "he": "ושאלו ראשונים: ומה יהא אם ללווה אין כסף, ואז תיגבה הריבית מן הערב (כדיני ישראל) ונמצא שוב כלוקח ריבית? והסבירו כי כיון שהגוי אינו פונה תחילה אל הערב, הרי כאשר הוא מגיע לערב אנו מחשיבים כאילו שיעור החוב עם הריבית הוא ההתחייבות היסודית, וכאילו אז נעשתה ההלוואה (רמב\"ן ועוד).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 71b:3",
+              "sourceHeRef": "שֶׁקִּיבֵּל עָלָיו לָדוּן בְּדִינֵי יִשְׂרָאֵל",
+              "sourceRef": "That he accepted upon himself to have this transaction judged by the laws of the Jews"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-sheshet\" class=\"namedEntityLink\" data-slug=\"rav-sheshet\">Rav Sheshet</span> said:</b> The case is <b>that</b> the gentile <b>accepted upon himself to</b> have this transaction <b>judged by the laws of the Jews,</b> so that he may not claim repayment from the guarantor. The Gemara asks: <b>If</b> the gentile <b>accepted upon himself to</b> have this transaction <b>judged by the laws of the Jews, he should also not take interest,</b> since that is prohibited by Jewish law. In response, <b><span href=\"/topics/rav-sheshet\" class=\"namedEntityLink\" data-slug=\"rav-sheshet\">Rav Sheshet</span> said: He accepted upon himself</b> the laws of the Jews <b>with regard to this,</b> the procedural matter with regard to the method of collection, <b>but he did not accept upon himself</b> the laws of the Jews <b>with regard to that,</b> the prohibition against taking interest.",
+      "he": "אָמַר רַב שֵׁשֶׁת: שֶׁקִּיבֵּל עָלָיו לָדוּן בְּדִינֵי יִשְׂרָאֵל. אִי קִיבֵּל עָלָיו לָדוּן בְּדִינֵי יִשְׂרָאֵל – רִבִּית נָמֵי לָא לִשְׁקוֹל! אָמַר רַב שֵׁשֶׁת: שֶׁקִּיבֵּל עָלָיו לָזוֹ, וְלֹא קִיבֵּל עָלָיו לָזוֹ.",
+      "ref": "Bava Metzia 71b:3"
+    },
+    {
+      "commentary": {
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "<b>One may not accept from a Jew</b> sheep to raise or other items to care for as <b>a guaranteed investment,</b> in which the terms of the transaction dictate that the one accepting the item takes upon himself complete responsibility to repay its value in the event of depreciation or loss, but receives only part of the profit. This is <b>because it</b> is a loan, as the principal is fixed and always returned to the owner, and any additional sum the owner receives <b>is interest. But one may accept a guaranteed investment from gentiles,</b> as there is no prohibition of interest in transactions with them. <b>And one may borrow</b> money <b>from them and one may lend</b> money <b>to them with interest. And similarly, with regard to a gentile who resides in Eretz Yisrael and observes the seven Noahide mitzvot [<i>ger toshav</i>],</b> one may borrow money from him with interest and lend money to him with interest, since he is not a Jew. Also, <b>a Jew may</b> serve as a middleman and <b>lend a gentile’s money</b> to another Jew <b>with the knowledge of the gentile, but not with the knowledge of a Jew,</b> i.e., the middleman himself, as the Gemara will explain.",
+              "he": "אֵין מְקַבְּלִין צֹאן בַּרְזֶל מִיִּשְׂרָאֵל, מִפְּנֵי שֶׁהוּא רִבִּית. אֲבָל מְקַבְּלִין צֹאן בַּרְזֶל מִן הַנָּכְרִים, וְלֹוִין מֵהֶן וּמַלְוִין אוֹתָן בְּרִבִּית, וְכֵן בְּגֵר תּוֹשָׁב. מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נָכְרִי מִדַּעַת הַנָּכְרִי, אֲבָל לֹא מִדַּעַת יִשְׂרָאֵל:",
+              "link": "/Mishnah Bava Metzia/5",
+              "ref": "Mishnah Bava Metzia 5:6",
+              "sourceHeRef": "משנה בבא מציעא ה:ו",
+              "sourceRef": "Mishnah Bava Metzia 5:6"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following law applies when a Jew borrowed money from a gentile at interest, and when he seeks to return it to him another Jew meets him and tells him: \"Give it to me and I will pay you the rate of interest that you pay the gentile.\" This is forbidden, even if the original borrower brings the other Jew to the gentile. Instead, the gentile must take back his money and then give it as a loan to the other Jew.",
+              "he": "יִשְׂרָאֵל שֶׁלָּוָה מָעוֹת מִן הָעַכּוּ\"ם בְּרִבִּית וּבִקֵּשׁ לְהַחְזִירָם לוֹ. מְצָאוֹ יִשְׂרָאֵל אַחֵר וְאָמַר לוֹ תְּנֵם לִי וַאֲנִי מַעֲלֶה לְךָ כְּדֶרֶךְ שֶׁאַתָּה מַעֲלֶה לָעַכּוּ\"ם. הֲרֵי זוֹ רִבִּית קְצוּצָה אֲפִלּוּ הֶעֱמִידוֹ אֵצֶל הָעַכּוּ\"ם עַד שֶׁיִּטּל הָעַכּוּ\"ם מְעוֹתָיו וְיַחְזֹר וְיִתְּנֵם בְּיַד יִשְׂרָאֵל הָאַחֵר:",
+              "ref": "Mishneh Torah, Creditor and Debtor 5:3",
+              "sourceHeRef": "הלכות מלווה ולווה ה:ג",
+              "sourceRef": "Creditor and Debtor 5:3"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ומצאו ישראל אחר ואמר לו תנם לי ואני אעלה לך כדרך שאתה מעלה לו, אסור.</b> אעלה לך לאו דוקא, אלא אפילו אמר ואני אעלה לו אסור, אלא ואני אעלה לך אעלה תחתיך קאמר. אי נמי משום סיפא דקתני ואני אעלה לך, תנא נמי הכא אעלה לך.",
+              "ref": "Rashba on Bava Metzia 71b:2",
+              "sourceHeRef": "רשב״א על בבא מציעא ע״א ב:ב",
+              "sourceRef": "Rashba on Bava Metzia 71b:2"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אסור</strong> - דהוא ניהו דקא מוזיף ליה ברבית:",
+              "ref": "Rashi on Bava Metzia 71b:4:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ד:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואם העמידו אצל נכרי</strong> - אע\"פ שישראל נותנו לחבירו במצות הנכרי:",
+              "ref": "Rashi on Bava Metzia 71b:4:2",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ד:ב",
+              "sourceRef": "Rashi on Bava Metzia 71b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מותר</strong> - דשלוחו הוא:",
+              "ref": "Rashi on Bava Metzia 71b:4:3",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ד:ג",
+              "sourceRef": "Rashi on Bava Metzia 71b:4:3"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> <b>One may not accept from a Jew</b> sheep to raise or other items to care for as <b>a guaranteed investment,</b> in which the terms of the transaction dictate that the one accepting the item takes upon himself complete responsibility to repay its value in the event of depreciation or loss, but receives only part of the profit. This is <b>because it</b> is a loan, as the principal is fixed and always returned to the owner, and any additional sum the owner receives <b>is interest. But one may accept a guaranteed investment from gentiles,</b> as there is no prohibition of interest in transactions with them.",
+                "<b>And one may borrow</b> money <b>from them and one may lend</b> money <b>to them with interest. And similarly, with regard to a gentile who resides in Eretz Yisrael and observes the seven Noahide mitzvot [<i>ger toshav</i>],</b> one may borrow money from him with interest and lend money to him with interest, since he is not a Jew. Also, <b>a Jew may</b> serve as a middleman and <b>lend a gentile’s money</b> to another Jew <b>with the knowledge of the gentile, but not with the knowledge of a Jew,</b> i.e., the middleman himself, as the Gemara will explain."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Metzia 70b:1",
+                "Bava Metzia 70b:2"
+              ],
+              "he": [
+                "<big><strong>מַתְנִי׳</strong></big> אֵין מְקַבְּלִין צֹאן בַּרְזֶל מִיִּשְׂרָאֵל – מִפְּנֵי שֶׁהוּא רִבִּית. אֲבָל מְקַבְּלִין צֹאן בַּרְזֶל מִן הַגּוֹיִם,",
+                "וְלֹוִין מֵהֶן וּמַלְוִין אוֹתָן בְּרִבִּית. וְכֵן בְּגֵר תּוֹשָׁב. מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נׇכְרִי – מִדַּעַת הַנׇּכְרִי, אֲבָל לֹא מִדַּעַת יִשְׂרָאֵל."
+              ],
+              "link": "/Bava Metzia/70b",
+              "ref": "Bava Metzia 70b:1-2",
+              "sourceHeRef": "unused",
+              "sourceRef": "Bava Metzia 70b:1-2"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אין מקבלין צאן ברזל מישראל מפני שהוא רבית אבל מקבלין צאן ברזל מן העכו\"ם. ולוין מהן ומלוין אותם ברבית. וכן בגר תושב. ישראל שיצא מן הכלל וכפר בעיקר מותר להלוותו ברבית. דאין מצווין להחיותו ולא קרינא ביה וחי אחיך עמך. וכן מוכח בירושלמי בפ' בתרא דע\"ז כותאי דקיסרי בעון קמי דר' אבהו אבותיכם היו מסתפקין משלנו מפני מה אין אתם מסתפקין משלנו אמר להן אבותיכם לא קלקלו מעשיהם אתם קלקלתם מעשיכם. ומסיק התם בשם רבי חנינא כותאי דקיסרין מותר להלוותן ברבית. ומ\"מ אסור ללוות הימנו ברבית דאע\"פ שחטא ישראל הוא והנותן לו רבית עובר אלפני עור לא תתן מכשול ועל לא תשיך. אבל מומר הנותן לישראל רבית אין עובר על לא תשיך כיון שמותר להלוותן ברבית:",
+              "ref": "Rosh on Bava Metzia 5:52:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא מציעא ה:נב:א",
+              "sourceRef": "Rosh on Bava Metzia 5:52:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "<b>De l'intérêt provenant des négociations d'argent avec un païen</b><br>Un Israélite ayant emprunté à intérêt de l’argent chez un païen, et se voyant réclamer sa dette, il lui est interdit de donner la somme due à un autre Israélite, qui paiera les intérêts au païen et deviendra son débiteur à la place du premier, même si le second Israélite écrit un billet où il déclare devoir la somme au païen, et s’il offre un gage.<br><small>G<small>LOSE</small>: Si l’Israélite accepte un tel marché, il peut se voir dans l'obligation de payer au païen l'intérêt dû par le second débiteur.</small><br>La même loi s'applique à un Israélite débiteur d’un païen et qui ne paie pas d’intérêt. Il est également interdit d'opérer de la façon suivante: un débiteur israélite et son coreligionnaire se trouvant chez le créancier païen, celui-ci dit au débiteur de donner le montant de sa dette au second Israélite, qui versera au païen la même somme avec son intérêt et que le premier débiteur sera libéré.",
+              "he": "<b>קסח-קסט כמה דיני רבית הנעשית באמצעות העובד כוכבים. ובו כ\"ז סעיפים:</b><br>ישראל שלוה מעות מעובד כוכבים ברבית ובקש להחזירם לו ואמר לו חבירו תנם לי ואני אעלה לו כדרך שאתה מעלה לו אסור ואפילו כתב ישראל שני שטר בשמו לעובד כוכבים ונתן משכונות וגם נתן הרבית לעובד כוכבים אסור: <span class=\"hebrew-emphasis\">(וכל מה שנתן לעובד כוכבים מפקינן מישראל ראשון דהוי רבית קצוצה) (ב\"י בשם תשובת הרא\"ש כלל ק\"ח וכ\"מ בטור ופוסקים) </span>והוא הדין אם הישראל היה חייב מעות בלא רבית יש לו דין זה ואפילו העמידו אצל העובד כוכבים ואמר לו העובד כוכבים תנם לישראל זה והפטר ואני אתנה עמו שיתן לי קרן ורבית אסור:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 168:1",
+              "sourceHeRef": "יורה דעה קסח:א",
+              "sourceRef": "Yoreh De'ah 168:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו במשנה: <b>מלוה ישראל מעותיו של גוי מדעת הגוי,</b> אבל לא מדעת ישראל. <b>תנו רבנן</b> בברייתא שנינו: <b>מלוה ישראל מעותיו של גוי מדעת הגוי אבל לא מדעת ישראל, כיצד?</b> — <b>ישראל שלוה מעות מן הגוי ברבית וביקש להחזירם לו,</b> ובינתים <b>מצאו ישראל אחר ואמר לו:</b> כיון שאתה אינך נזקק עוד לכספים אלה, ואני צריך אותם להלוואה, <b>תנם לי ואני אעלה</b> (אשלם) <b>לך</b> בתוספת ריבית <b>כדרך שאתה מעלה לו</b> — <b>אסור,</b> מפני שיש כאן מתן ריבית לישראל. <b>ואם העמידו אצל גוי,</b> שהלווה הראשון הביא את השני אצל גוי, והסכים הגוי להסדר הזה — הרי זה <b>מותר.</b>",
+              "ref": "Steinsaltz on Bava Metzia 71b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:ד",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a Jew borrowed money with interest from a gentile and then wanted to return the money, but a fellow Jew said to him: Give the money to me and I will return it to the gentile according to the same terms that you pay him, this is prohibited. Even if the second Jew wrote a promissory note to the gentile in his own name and even if he paid the interest directly to the gentile, it is nevertheless prohibited. If the gentile accepted the money back from the first Jew and then lent it afterward to the second Jew, it is permitted, even if the first Jew paid the interest due the gentile using the second Jew as his agent. Additionally, if the first Jew presented the second Jew to the gentile, and the gentile said: Place the money on the ground, and the second Jew picked it up from there, it is permitted (Rambam <i>Sefer Mishpatim</i>,<i> Hilkhot Malve VeLoveh </i>5:3; <i>Shulĥan Arukh</i>,<i> Yoreh De’a </i>168:1).",
+              "he": "ישראל שלוה בריבית מגוי ובקש להחזיר לו כספו, ואמר לו חבירו: \"תנם לי ואני אשלם לך כדרך שאתה משלם לו\" — אסור. ואפילו כתב השני שטר בשמו לגוי, ואפילו נותן את הריבית לגוי — אסור. אבל אם כבר קיבל הגוי את הכסף מיד הישראלי הראשון, ונתן אחר כך לשני — מותר, אפילו נותן הריבית לידי הישראלי הראשון. וכן אם העמיד הראשון את חבירו אצל הגוי, ואמר הגוי: \"הניחם על גבי קרקע\", ולקחם משם השני — מותר. כברייתא וכאוקימתא של רב הונא בר מנוח, ורב פפא. (רמב\"ם ספר משפטים הלכות מלוה ולווה פ\"ה ה\"ג. שו\"ע יו\"ד קסח, א).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 71b:4",
+              "sourceHeRef": "יִשְׂרָאֵל שֶׁלָּוָה מָעוֹת מִן הַנָּכְרִי בְּרִבִּית",
+              "sourceRef": "A Jew who borrowed money with interest from a gentile"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מצאו ישראל אחר אמר לו תנם לי ואני אעלה לך כו'</strong> - ואם תאמר מאי איריא ואני אעלה לך אפילו אמר אני אעלה לנכרי אסור דלא שרי אלא בהעמידו אצל נכרי כיון דמלוה מעותיו לחבירו כדי שיפרע לנכרי רבית בשבילו פשיטא דהוי רבית דאפילו לא היה המלוה חייב לנכרי רבית כיון דמשכר הלואה נותן לנכרי הרבית ע\"פ המלוה הרי הוא כנותן למלוה עצמו מדין ערב כמו תן מנה לפלוני ואקדש אני לך דמקודשת מדין ערב בפ\"ק דקדושין <span class=\"parenthesized\">(דף ז.)</span> וכן קשה בסיפא וי\"ל דנקט לך משום העמידו לאשמועינן רישא דאפילו מקבל ישראל רבית שרי כיון שמקבלו בשביל נכרי וכן בסיפא כשהעמידו אצל ישראל אסור אפילו מקבל הנכרי רבית:",
+              "ref": "Tosafot on Bava Metzia 71b:4:1",
+              "sourceHeRef": "תוספות על בבא מציעא ע״א ב:ד:א",
+              "sourceRef": "Tosafot on Bava Metzia 71b:4:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אין ישראל רשאי ללוות שקל ולהלוות בסלע אבל עובד כוכבים רשאי ללוות בשקל ולהלוות בסלע. ישראל שלוה מעות מן העובד כוכבים ומבקש להחזירן לו מצאו חבירו ואמר לו תנם לי ואני נותן לך כדרך שאתה נותן לו אסור ואם העמידו אצל העובד כוכבים מותר ועובד כוכבים שלוה מעות מישראל ומבקש להחזירן לו מצאו ישראל אחר ואמר לו תנם לי ואני נותנם לך כדרך שאתה נותנם לו מותר ואם העמידו אצל ישראל אסור ישראל שאמר לעובד כוכבים הילך שכרך וצא והלוה מעותי ברבית אסור ועובד כוכבים שאמר לישראל הילך שכרך והלוה מעותי ברבית מותר אבל אסור מפני מראית העין מעות של ישראל מופקדות אצל העובד כוכבים מותר להלוותן ברבית ושל עובד כוכבים המופקדות אצל ישראל אסור להלוותן ברבית זה הכלל כל שבאחריות ישראל אסור כל שבאחריות עובד כוכבים מותר ישראל שנעשה לו לעובד כוכבים אפוטרופוס או סנטר מותר ללוות הימנו ברבית ועובד כוכבים שנעשה אפוטרופוס לישראל או סנטר אסור ללוות הימנו ברבית ישראל הלוה מן העובד כוכבים ועובד כוכבים הלוה מישראל ישראל אחר נעשה לו ערב ואינו חושש.",
+              "ref": "Tosefta Bava Metzia 5:8",
+              "sourceHeRef": "תוספתא בבא מציעא ה:ח",
+              "sourceRef": "Tosefta Bava Metzia 5:8"
+            },
+            {
+              "en": "",
+              "he": "ישראל שלוה מעות מן הגוי ומבקש להחזירן לו, מצאו חבירו ואמ' לו תנם לי ואני נותן לך כדרך שאתה נותנן לו, אסור. ואם העמידו אצל גוי, מותר.",
+              "ref": "Tosefta Bava Metzia (Lieberman) 5:16",
+              "sourceHeRef": "תוספתא בבא מציעא (ליברמן) ה:טז",
+              "sourceRef": "Tosefta Bava Metzia (Lieberman) 5:16"
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches: <b>A Jew may</b> serve as a middleman and <b>lend a gentile’s money</b> to another Jew <b>with the knowledge of the gentile,</b> but not with the knowledge of a Jew, i.e., the middleman himself. <b>The Sages taught</b> in a <i>baraita</i>: <b>A Jew may lend a gentile’s money</b> as a middleman to another Jew <b>with the knowledge of the gentile, but not with the knowledge of a Jew. How so?</b> In the case of <b>a Jew who borrowed money with interest from a gentile and</b> then <b>wanted to return it to him,</b> but at that point <b>another Jew found</b> the borrower <b>and said to him:</b> Since you do not need this money anymore and I do need it, <b>give it to me and I will pay you</b> with the addition of interest <b>in the same way that you pay</b> the gentile, this is <b>prohibited,</b> since this is interest paid to a Jew. <b>But if</b> the borrower <b>presented</b> the second Jew <b>to the gentile</b> and the gentile agreed to this arrangement, it is <b>permitted.</b>",
+      "he": "מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נׇכְרִי מִדַּעַת הַנׇּכְרִי כּוּ׳. תָּנוּ רַבָּנַן: מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נׇכְרִי מִדַּעַת הַנׇּכְרִי, אֲבָל לֹא מִדַּעַת יִשְׂרָאֵל, כֵּיצַד? יִשְׂרָאֵל שֶׁלָּוָה מָעוֹת מִן הַגּוֹי בְּרִבִּית וּבִיקֵּשׁ לְהַחְזִירָם לוֹ, מְצָאוֹ יִשְׂרָאֵל אַחֵר וְאָמַר לוֹ: תְּנֵם לִי וַאֲנִי אַעֲלֶה לָךְ כְּדֶרֶךְ שֶׁאַתָּה מַעֲלֶה לוֹ – אָסוּר. וְאִם הֶעֱמִידוּ אֵצֶל גּוֹי – מוּתָּר.",
+      "ref": "Bava Metzia 71b:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When, by contrast, a gentile borrows money from a Jew at interest and desires to return it to him, and another Jew meets the gentile and tells him: \"Give it to me and I will pay you the rate of interest that you pay the other Jew,\" this is permitted. If, however, the gentile brought the Jewish borrower to the Jewish lender and informed him of the loan, this is considered fixed interest, for he gave the money with the knowledge of the Jewish lender. This applies even if the gentile gave the Jewish borrower the money.",
+              "he": "עַכּוּ\"ם שֶׁלָּוָה מָעוֹת מִיִּשְׂרָאֵל בְּרִבִּית וּבִקֵּשׁ לְהַחְזִירָם לוֹ. מְצָאוֹ יִשְׂרָאֵל אַחֵר וְאָמַר לוֹ תְּנֵם לִי וַאֲנִי מַעֲלֶה לְךָ כְּדֶרֶךְ שֶׁאַתָּה מַעֲלֶה לְיִשְׂרָאֵל הֲרֵי זֶה מֻתָּר. וְאִם הֶעֱמִידוֹ אֵצֶל יִשְׂרָאֵל אַף עַל פִּי שֶׁנָּתַן הָעַכּוּ\"ם הַמָּעוֹת בְּיָדוֹ הוֹאִיל וּמִדַּעַת יִשְׂרָאֵל נָתַן הֲרֵי זוֹ רִבִּית קְצוּצָה:",
+              "ref": "Mishneh Torah, Creditor and Debtor 5:4",
+              "sourceHeRef": "הלכות מלווה ולווה ה:ד",
+              "sourceRef": "Creditor and Debtor 5:4"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואם העמידו אצל ישראל אסור</strong> - ואף על פי שקיבלם זה מיד נכרי משום דנכרי שליח ישראל ושלוחו של אדם כמותו:",
+              "ref": "Rashi on Bava Metzia 71b:5:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ה:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:5:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "דלגבי דידיה כ\"ז שלא ראוהו בידו מצי למימר לקוח הוא בידי במגו דהחזרתיו לך. אבל ליתמי לא טענינן מלתא דלא שכיחא. וצריכין אנו להראותן לעדים ואם יכירוהו הוה ליה עדים וראה. וא\"ת א\"כ דהבא פריכא נמי דלמא יהיב סימנא ובמשקל דקי\"ל בפ' אלו מציאות <span class=\"parenthesized\">(בבא מציעא דף כג.)</span> דמשקל הוי סימן וי\"ל דדוקא גבי מציאה הקלו להחזיר בסימן כל דהו. אבל הכא בעינן סימן מובהק. וכן ההיא דאמר בפרק הכותב <span class=\"parenthesized\">(כתובות דף פה:)</span> ההוא גברא דאפקיד גבי חסא כסא דכספא. שכיב חסא ולא פקיד. אתא מריה ויהיב ביה סימנא. א\"ר נחמן חדא דידענא ביה בחסא דלא אמיד. ועוד הא יהיב סימנא. ולא בעי למימר דבטעם דלא אמיד סגי אלא שני הטעמים צריך לא אמיד וגם דקיהיב סימנא. דנהי דלא אמיד אימור מציאה אשכח או מתנה ניתנה לו וגם אדם עשוי שלא להשביע את עצמו. יש מתרושש והון רב. והאי סימנא נמי סימן מובהק קאמר א\"נ כגון שהביא עדים שהפקיד בידו כוס בסימן זה. הלכך צריך להראות לעדים. א\"ר אשי תינח אי משתכח גברא דאית ליה דהבא פריכא. אי לא משתכח ניכלו זוזי דיתמי. אלא א\"ר אשי בדקינן גברא דמשפו ניכסיה ומהימן ולא מקבל עליה שמתא דרבנן ויהבינן ליה בבי דינא כי היכי דליהוי אימתא דב\"ד עילויהקרוב לשכר ורחוק להפסד:",
+              "ref": "Rosh on Bava Metzia 5:51:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא מציעא ה:נא:א",
+              "sourceRef": "Rosh on Bava Metzia 5:51:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "Si, après avoir prêté contre intérêt une somme à un païen, le créancier israélite réclame la dette, et qu’un autre Israélite vienne chez le débiteur lui demander l'argent, en s’engageant à lui fournir l'intérêt qu’il doit à son créancier, le premier Israélite peut accepter cet intérêt. De même, il est permis au créancier d’accepter l'intérêt, si le second Israélite demande au païen l'argent en lui disant qu’il le versera avec la rente à son coreligionnaire, parce que cet argent est considéré comme donné par le païen. Quand le païen remet le montant de sa dette au second Israélite en présence du créancier, il est interdit à celui-ci d'accepter un intérêt, parce qu’il semble que l'opération ait été permise grâce au créancier israélite.<br><small>G<small>LOSE</small>: D’aucuns se montrent plus faciles, même si la remise a eu lieu en présence du créancier israélite. Mais au fond on devrait adopter le premier avis. Toutefois dans les localités où il est d’usage de se montrer facile, on peut adopter le second.</small>",
+              "he": "עובד כוכבים שלוה מעות מישראל ברבית וביקש להחזירם לו ומצאו ישראל ואמר לו תנם לי ואני אעלה לך כדרך שאתה מעלה לו מותר ואפילו א\"ל אני אעלה לו כדרך שאתה מעלה לו מותר שבשביל העובד כוכבים נותנם לו ואם העמידו אצל ישראל אע\"פ שנתן העובד כוכבים המעות בידו הואיל ומדעת ישראל נתן אסור: <span class=\"hebrew-emphasis\">הגה ויש מקילין ואפילו אם העמידו אצלו (טור בשם ר\"ת ורא\"ש) אבל העיקר כסברא הראשונה (ב\"י בשם נימוקי שכ\"כ בשם ר\"ן) אבל במקום שנהגו להקל אין למחות בידם (תשובת רא\"ש והגהמי\"י):</span>",
+              "ref": "Shulchan Arukh, Yoreh De'ah 168:6",
+              "sourceHeRef": "יורה דעה קסח:ו",
+              "sourceRef": "Yoreh De'ah 168:6"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וכן גוי שלוה מעות מישראל ברבית וביקש להחזירם לו, מצאו ישראל אחר</b> לאותו גוי, <b>ואמר לו: תנם לי ואני אעלה לך</b> ריבית <b>כדרך שאתה מעלה לו</b> — <b>מותר,</b> שהרי הוא משלם ריבית לגוי ולא לישראל. אבל <b>אם העמידו אצל ישראל</b> — <b>אסור.</b>",
+              "ref": "Steinsaltz on Bava Metzia 71b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:ה",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If a gentile borrowed money with interest from a Jew and then wanted to return it to him but another Jew found him and said to him: Give the money to me and I will pay you according to the same terms that you pay him, this is permitted. But if the gentile presented the second Jew to the lender, and even if the gentile put the money in his hand, since he gave it with the knowledge of the lender, it is prohibited. There are those who are lenient in this situation even if he presented the second Jew to the lender (<i>Tur</i>, citing Rabbeinu Tam and Rosh). Although the <i>halakha</i> is in accordance with the first opinion cited here, no protest should be voiced in a place where the custom is to be lenient (Rambam <i>Sefer Mishpatim</i>,<i> Hilkhot Malve VeLoveh </i>5:4; <i>Shulĥan Arukh</i>,<i> Yoreh De’a </i>161:6, and in the comment of Rema).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 71b:5",
+              "sourceHeRef": "נָכְרִי שֶׁלָּוָה מָעוֹת מִיִּשְׂרָאֵל בְּרִבִּית",
+              "sourceRef": "A gentile borrowed money with interest from a Jew"
+            }
+          ]
+        }
+      },
+      "en": "The <i>baraita</i> continues: <b>And similarly, if a gentile borrowed money with interest from a Jew and</b> then <b>wanted to return it to him,</b> and <b>another Jew found</b> the gentile <b>and said to him: Give it to me and I will pay you</b> interest <b>in the same way that you pay</b> the Jewish lender, this is <b>permitted,</b> since he pays interest to a gentile and not to a Jew. But <b>if</b> the gentile borrower <b>presented</b> the second Jew <b>to</b> the Jew who lent him the money and the Jewish lender agreed to this arrangement, it is <b>prohibited.</b>",
+      "he": "וְכֵן גּוֹי שֶׁלָּוָה מָעוֹת מִיִּשְׂרָאֵל בְּרִבִּית וּבִיקֵּשׁ לְהַחְזִירָם לוֹ, מְצָאוֹ יִשְׂרָאֵל אַחֵר וְאָמַר לוֹ: תְּנֵם לִי וַאֲנִי אַעֲלֶה לְךָ כְּדֶרֶךְ שֶׁאַתָּה מַעֲלֶה לוֹ – מוּתָּר. וְאִם הֶעֱמִידוֹ אֵצֶל יִשְׂרָאֵל – אָסוּר.",
+      "ref": "Bava Metzia 71b:5"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בשלמא סיפא לחומרא, אלא רישא כי העמידו אצל נכרי מאי הוי, והא אין שליחות לנכרי.</b> קשה לי, סיפא מאי חומרא, מדינא נמי אסור, דכיון שהעמידו אצל ישראל ואמר לו ישראל לנכרי תנם לישראל חברי, או שאמר לו ישראל לישראל חברו קבלם לי, זכה לו ישראל חברו, ואע\"ג דאין שליחות לנכרי מי גרע ממגביה מציאה לחברו למאן דאמר קנה חברו, <span class=\"parenthesized\">(לעיל בבא מציעא ח, א)</span> והכא לכולי עלמא זכה לו כיון דאיכא דעת אחרת מקנה. ולא היא, דכיון דנכרי אינו בתורה שליחות, אינו בתורה זכייה כלל דאין אדם זוכה לו ולא זוכה לאחרים בשלו, והילכך ישראל שני לא זכה לראשון כלל, וכשהוא <span class=\"parenthesized\">(זוכה לו אפי' קץ)</span> [נותן לו אפילו קרן – ש\"מ] מתנה בעלמא הוא דקא יהיב ליה, והילכך אפילו העמידו אצל ישראל אינו אלא לחומרא דעלמא, אבל רישא מדינא אסור, דהא לא זכה לו ישראל לנכרי ונמצאו מעות אלו עדיין דישראל ראשון, ואלו רצה ישראל ראשון חוזר ונוטלו מישראל שני והילכך אסור, דשכר מעותיו של ישראל עומד ונותן.",
+              "ref": "Rashba on Bava Metzia 71b:3",
+              "sourceHeRef": "רשב״א על בבא מציעא ע״א ב:ג",
+              "sourceRef": "Rashba on Bava Metzia 71b:3"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בשלמא סיפא</strong> - דקתני אם העמידו אצל ישראל אסור דמשמע שנכרי זה חשוב שלוחו של ישראל חומרא דרבנן הוא למיסר דהא דקי\"ל דשלוחו של אדם כמותו. בשולח ישראל ושליח ישראל נאמר דמתרומה גמרינן בפרק שני דקדושין <span class=\"parenthesized\">(דף מא:)</span> אתם גם אתם. לרבות שלוחכם מה אתם בני ברית. אף שלוחכם בני ברית:",
+              "ref": "Rashi on Bava Metzia 71b:6:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ו:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:6:1"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> בד\"ה אלא רישא כו' מותר כיון כו' הד\"א:",
+                      "ref": "Chokhmat Shlomo on Bava Metzia 71b:2",
+                      "sourceHeRef": "חכמת שלמה על בבא מציעא ע״א ב:ב",
+                      "sourceRef": "Chokhmat Shlomo on Bava Metzia 71b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא רישא</strong> - דקתני אם העמידו אצל נכרי. מותר:",
+              "ref": "Rashi on Bava Metzia 71b:6:2",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ו:ב",
+              "sourceRef": "Rashi on Bava Metzia 71b:6:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיון דאין תורת שליחות לנכרי</strong> - וישראל מישראל קיבלם הוא ניהו דשקיל רבית:",
+              "ref": "Rashi on Bava Metzia 71b:6:3",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ו:ג",
+              "sourceRef": "Rashi on Bava Metzia 71b:6:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומבררים: <b>בשלמא סיפא</b> <span class=\"hebrew-emphasis\">[נניח בסופה</span> של ההלכה<span class=\"hebrew-emphasis\">],</span> שאסרו לשלם כשישראל יודע בדבר — הרי זה משום <b>חומרא</b> של חשש ריבית, <b>אלא רישא</b> <span class=\"hebrew-emphasis\">[</span>במקרה <span class=\"hebrew-emphasis\">הראשון]</span> שאמנם העמידו לפני הגוי, והרי משמעות הדבר שנעשה שליח לגוי, ואולם <b>כיון</b> שעל פי ההלכה <b>אין שליחות לגוי</b> ושליחו אינו נחשב כמוהו, אלא כעושה על דעת עצמו, אם כן, נמצא <b>איהו ניהו דקא שקיל מיניה רביתא</b> <span class=\"hebrew-emphasis\">[הוא הוא שלוקח ממנו ריבית],</span> ומדוע מתירה הברייתא?",
+              "ref": "Steinsaltz on Bava Metzia 71b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:ו",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:6"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בשלמא סיפא לחומרא</strong> - תימה אמאי לא הוי רבית גמור כשהעמידו אצל ישראל אפילו מקבל הנכרי רבית שהרי נעשה ישראל שני שלוחו של ראשון לקבל חובו מידו של נכרי וי\"ל דאפילו שיוכל לזכות לחבירו במציאה הכא אין קבלתו מן הנכרי זוכה לישראל חבירו דנהי אם היה נכרי מפקיר מעותיו היה יכול לזכות לחבירו השתא מיהא שהנכרי אינו מפקירן אלא בא לזכות מעותיו למלוה על ידי זה הלוה אין לו כח לזכות שאם כן היה ישראל המקבל שלוחו של נכרי לזכות במעותיו של ישראל ואין שליחות לנכרי וה\"ל להיות מותר אפי' העמידו אצל ישראל אי לאו דלחומרא אמרינן דיש שליחות לנכרי אלא רישא אמאי שרי בהעמידו אצל הנכרי כיון דאין שליחות לנכרי נמצא דישראל שני לא זכה בקבלתו לנכרי ואינו חייב לנכרי כלום אלא לישראל וכשנותן רבית לנכרי הרי הוא נותן עבור ישראל המלוה ופוטרו נגד הנכרי והוי כנותן לישראל עצמו ומשני דאמר ליה הניחם ע\"ג קרקע והפטר והלוה יטלם מעל גבי קרקע בציווי הנכרי להתחייב לו קרן ורבית ואפילו שלא הפקיר ישראל המעות כשנתנם ע\"ג קרקע והוי עדיין שלו כשנטלם ישראל שני מכל מקום כשפורע לנכרי רבית אינו בשביל ישראל ראשון שהרי כבר פטרו הנכרי אבל כשלא הניחם ע\"ג קרקע אלא אמר תן לפלוני ישראל והפטר ואני אתנה עמו שיתן לי קרן ורבית היה אסור אע\"פ שעתה נמי אינו פורע לו רבית לפטור את הראשון שהרי כבר פטרו הנכרי מכל מקום כיון שקבל המעות מיד ישראל הראשון שהיה עד עתה המעות באחריותו נראה כנותן לו רבית אע\"פ שאינו מתנה עמו אלא הנכרי:",
+              "ref": "Tosafot on Bava Metzia 71b:6:1",
+              "sourceHeRef": "תוספות על בבא מציעא ע״א ב:ו:א",
+              "sourceRef": "Tosafot on Bava Metzia 71b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara discusses the <i>baraita</i>: <b>Granted, the latter clause</b> of the <i>baraita</i>, which says that it is prohibited for a Jew to pay the gentile borrower when the Jewish lender is aware of the transaction, can be explained as <b>a stringency</b> due to concern about the prohibition of interest, <b>but in the first clause</b> the Jewish lender presents the Jewish borrower to the gentile before handing him the money, and the fact that this is permitted indicates that he acts as the gentile’s agent, not on his own. But <b>since</b> the <i>halakha</i> is that <b>there is no agency for a gentile,</b> this means that the Jew <b>is</b> the one <b>who takes the interest from</b> the second borrower. Why, then, does the <i>baraita</i> permit it?",
+      "he": "בִּשְׁלָמָא סֵיפָא, לְחוּמְרָא. אֶלָּא רֵישָׁא: כֵּיוָן דְּאֵין שְׁלִיחוּת לְגוֹי, אִיהוּ נִיהוּ דְּקָא שָׁקֵיל מִינֵּיהּ רִבִּיתָא?",
+      "ref": "Bava Metzia 71b:6"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following law applies when a Jew borrowed money from a gentile at interest, and when he seeks to return it to him another Jew meets him and tells him: \"Give it to me and I will pay you the rate of interest that you pay the gentile.\" This is forbidden, even if the original borrower brings the other Jew to the gentile. Instead, the gentile must take back his money and then give it as a loan to the other Jew.",
+              "he": "יִשְׂרָאֵל שֶׁלָּוָה מָעוֹת מִן הָעַכּוּ\"ם בְּרִבִּית וּבִקֵּשׁ לְהַחְזִירָם לוֹ. מְצָאוֹ יִשְׂרָאֵל אַחֵר וְאָמַר לוֹ תְּנֵם לִי וַאֲנִי מַעֲלֶה לְךָ כְּדֶרֶךְ שֶׁאַתָּה מַעֲלֶה לָעַכּוּ\"ם. הֲרֵי זוֹ רִבִּית קְצוּצָה אֲפִלּוּ הֶעֱמִידוֹ אֵצֶל הָעַכּוּ\"ם עַד שֶׁיִּטּל הָעַכּוּ\"ם מְעוֹתָיו וְיַחְזֹר וְיִתְּנֵם בְּיַד יִשְׂרָאֵל הָאַחֵר:",
+              "ref": "Mishneh Torah, Creditor and Debtor 5:3",
+              "sourceHeRef": "הלכות מלווה ולווה ה:ג",
+              "sourceRef": "Creditor and Debtor 5:3"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב הונא בר מנוח משמיה דרב [אחא בריא דרב] איקא, כגון דאמר ליה, הניחם על גבי קרקע והפטר.</b> וא\"ת, למה לי הניחם על גבי קרקע, אפילו כי אמר ליה נמי תנם לישראל חברך והפטר, דהא אסתלק ליה מיניה. יש אומרים דאין הכי נמי אלא אוחרא דמילתא נקט. ואינה, דאדרבה אורחא דמילתא טפי למימר תנם לו והפטר. ועוד דשייך טפי אלישנא דברייתא, דקתני ואם העמידו אצל נכרי, דמשמע העמידו אצלו ואמר ליה תנם לו. והרמב\"ן ז\"ל כתב, דוקא נקטיה, דאלו בתנם לו והפטר הא לא פטרו אלא לאחר שיתנם לישראל שני ובתורת הלואה, ונמצאת הלואה קודמת לפטור והילכך אסור, אבל כשאמר לו הניחם על גבי קרקע והפטר כבר קדם פטורו להלואתו והילכך שרי. ולדידי ק\"ל, דאי משום הא משרא שרי שהרי פטורו והלואתו באין כאחד, דאי לא תימא הכי, תקשי לן לרבינא דאוקמה משום דזכייה מדרבנן אית ליה, ואם איתא, אימת זכי ליה בעידן הלואה, ועם הלואתו זכי ליה ואסיר, אלא דזכייתו והלואתו באין לו כאחד, והכא נמי מאי שנא. אלא שהרב ז\"ל הרגיש בקושיא, ואמר דלא משכחת לדרבינא אלא בדאמר לו נכרי זכה בשבילי במעות הללו ולוה ממני. ואין דברים אלו מחוורים כלל, שאם כן היה לו לפרש אלא מסתברא דטעמא דמילתא כדאמרן לעיל דאינן בתורת זכייה כלל, וכיון שכן כי אמר ליה תנם לישראל חברך והפטר, נהי דישראל ראשון אפטר מיניה, מיהו ישראל שני לא זכה ליה, וזוזי דישראל נינהו, ואי בעי הדר שקיל להו מישראל שני, דלדעת שיזכה לנכרי נתנם לו, וכל שלא יזכה מחמת נכרי אף הוא חוזר ונוטלם. ואפשר דבכי הא רבית קצוצה ליכא, דלא אסרה תורה אלא רבית הבאה מלוה למלוה, איסורא מיהא איכא, משום דמחזי כנותן רבית מחמת מעותיו של ישראל. ואי נמי, כיון דזוזי דישראל נינהו ובתורת הלואת רבית שקלינהו, הוה ליה כמלוה מעותיו ליתן אגר לאחר דאסור דבר תורה, דמחמתיה יהיב, כך נראה לי. ולהאי אוקימתא [נמי] סיפא משום חומרא <span class=\"parenthesized\">(נמי)</span> היא, דאי אמר ליה ישראל לנכרי הניחם על גבי קרקע והפטר והניחם, איהו אסתלק ליה, אבל ישראל לא זכי בהו, וכי הדר שקלינהו ישראל, מן ההפקר זכה בהן, והילכך כי יהיב ליה בין קרן בין רבית, מדינא מתנה דעלמה הוא דיהב ליה.",
+              "ref": "Rashba on Bava Metzia 71b:4",
+              "sourceHeRef": "רשב״א על בבא מציעא ע״א ב:ד",
+              "sourceRef": "Rashba on Bava Metzia 71b:4"
+            },
+            {
+              "en": "",
+              "he": "<b>אי הכי מאי למימרא.</b> וא\"ת לימא ליה דילמא משום סיפא. לא היא, דאם איתא, ברייתא מתרצא, אבל מתניתין דלא תנא דינא דהאי סיפא מאי איכא למימר.",
+              "ref": "Rashba on Bava Metzia 71b:5",
+              "sourceHeRef": "רשב״א על בבא מציעא ע״א ב:ה",
+              "sourceRef": "Rashba on Bava Metzia 71b:5"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאמר לו נכרי</strong> - לישראל ראשון:",
+              "ref": "Rashi on Bava Metzia 71b:7:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ז:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הניחם על גבי קרקע והפטר</strong> - וכן עשה ומשם נטלם ישראל שני:",
+              "ref": "Rashi on Bava Metzia 71b:7:2",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ז:ב",
+              "sourceRef": "Rashi on Bava Metzia 71b:7:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "<b>De l'intérêt provenant des négociations d'argent avec un païen</b><br>Un Israélite ayant emprunté à intérêt de l’argent chez un païen, et se voyant réclamer sa dette, il lui est interdit de donner la somme due à un autre Israélite, qui paiera les intérêts au païen et deviendra son débiteur à la place du premier, même si le second Israélite écrit un billet où il déclare devoir la somme au païen, et s’il offre un gage.<br><small>G<small>LOSE</small>: Si l’Israélite accepte un tel marché, il peut se voir dans l'obligation de payer au païen l'intérêt dû par le second débiteur.</small><br>La même loi s'applique à un Israélite débiteur d’un païen et qui ne paie pas d’intérêt. Il est également interdit d'opérer de la façon suivante: un débiteur israélite et son coreligionnaire se trouvant chez le créancier païen, celui-ci dit au débiteur de donner le montant de sa dette au second Israélite, qui versera au païen la même somme avec son intérêt et que le premier débiteur sera libéré.",
+              "he": "<b>קסח-קסט כמה דיני רבית הנעשית באמצעות העובד כוכבים. ובו כ\"ז סעיפים:</b><br>ישראל שלוה מעות מעובד כוכבים ברבית ובקש להחזירם לו ואמר לו חבירו תנם לי ואני אעלה לו כדרך שאתה מעלה לו אסור ואפילו כתב ישראל שני שטר בשמו לעובד כוכבים ונתן משכונות וגם נתן הרבית לעובד כוכבים אסור: <span class=\"hebrew-emphasis\">(וכל מה שנתן לעובד כוכבים מפקינן מישראל ראשון דהוי רבית קצוצה) (ב\"י בשם תשובת הרא\"ש כלל ק\"ח וכ\"מ בטור ופוסקים) </span>והוא הדין אם הישראל היה חייב מעות בלא רבית יש לו דין זה ואפילו העמידו אצל העובד כוכבים ואמר לו העובד כוכבים תנם לישראל זה והפטר ואני אתנה עמו שיתן לי קרן ורבית אסור:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 168:1",
+              "sourceHeRef": "יורה דעה קסח:א",
+              "sourceRef": "Yoreh De'ah 168:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב הונא בר מנוח משמיה</b> <span class=\"hebrew-emphasis\">[משמו]</span> של <b>רב אחא בריה</b> <span class=\"hebrew-emphasis\">[בנו]</span> של <b>רב איקא: הכא במאי עסקינן</b> <span class=\"hebrew-emphasis\">[כאן במה אנו עוסקים]</span> — <b>כגון</b> ש<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> הגוי בשעה שהחזיר לו הכסף: <b>הניחם על גבי קרקע והיפטר,</b> ואחר כך הלך הישראל האחר ולקח. ומקשים: <b>אי הכי, מאי למימרא</b> <span class=\"hebrew-emphasis\">[אם כך, מה</span> יש <span class=\"hebrew-emphasis\">לומר],</span> שאם החזיר לגוי את כספו — יש פה שתי הלואות שונות, שגוי הלוה לשני ישראלים ובוודאי מותר!",
+              "ref": "Steinsaltz on Bava Metzia 71b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:ז",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Even though it is possible to say that the first clause in the <i>baraita </i>is actually unnecessary and the <i>baraita </i>taught it only in order to contrast it with the latter clause, this answer would not apply in the case of the mishna, which does not have the latter clause (Rashba).",
+              "he": "ותהו ראשונים מפני מה השתמש בדוגמה בלתי שגורה שכזו. ולא אמר בפשטות שאמר לו: \"תנם לו\"? והיו שהסבירו כי הלשון מדוייקת, כי אילו היה אומר לו: \"תנם לו והיפטר\", הנתינה קודמת לפטור, ונמצא הממון עובר מיד ישראלי אחד למשנהו (רמב\"ן). והיו שאמרו כי במניחם על הקרקע נעשו המעות מדין תורה כהפקר, והשני נמצא כזוכה מן ההפקר (רשב\"א).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 71b:7",
+              "sourceHeRef": "אִי הָכִי מַאי לְמֵימְרָא",
+              "sourceRef": "If that is so, what is the purpose of stating it"
+            },
+            {
+              "en": "",
+              "he": "ואף שאפשר לומר כי בברייתא שנה את ראשה שאינו צריך משום סופה הצריך, הרי תירוץ זה אינו יפה למשנה שאין בה סיפא זו (רשב\"א).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 71b:7",
+              "sourceHeRef": "אי הכי מאי למימרא",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>Rav Huna bar Manoaḥ said in the name of <span href=\"/topics/rav-aha-b-rav-iqa\" class=\"namedEntityLink\" data-slug=\"rav-aha-b-rav-iqa\">Rav Aḥa, son of Rav Ika</span>: Here we are dealing with</b> a case <b>where</b> the gentile <b>said to</b> the Jew when he returned the money: <b>Place it upon the ground and be dismissed,</b> and afterward the other Jew went and took it. Therefore, the loan was transacted directly between the second Jew and the gentile. The Gemara asks: <b>If that is so, what</b> is the purpose <b>of stating</b> it? In this scenario it is obvious that there are two separate loans and the first Jewish lender has nothing to do with the loan to the second. This is certainly permitted.",
+      "he": "אָמַר רַב הוּנָא בַּר מָנוֹחַ מִשְּׁמֵיהּ דְּרַב אַחָא בְּרֵיהּ דְּרַב אִיקָא: הָכָא בְּמַאי עָסְקִינַן – כְּגוֹן דַּאֲמַר לֵיהּ: הַנִּיחֵם עַל גַּבֵּי קַרְקַע וְהִיפָּטֵר. אִי הָכִי, מַאי לְמֵימְרָא?",
+      "ref": "Bava Metzia 71b:7"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following law applies when a Jew borrowed money from a gentile at interest, and when he seeks to return it to him another Jew meets him and tells him: \"Give it to me and I will pay you the rate of interest that you pay the gentile.\" This is forbidden, even if the original borrower brings the other Jew to the gentile. Instead, the gentile must take back his money and then give it as a loan to the other Jew.",
+              "he": "יִשְׂרָאֵל שֶׁלָּוָה מָעוֹת מִן הָעַכּוּ\"ם בְּרִבִּית וּבִקֵּשׁ לְהַחְזִירָם לוֹ. מְצָאוֹ יִשְׂרָאֵל אַחֵר וְאָמַר לוֹ תְּנֵם לִי וַאֲנִי מַעֲלֶה לְךָ כְּדֶרֶךְ שֶׁאַתָּה מַעֲלֶה לָעַכּוּ\"ם. הֲרֵי זוֹ רִבִּית קְצוּצָה אֲפִלּוּ הֶעֱמִידוֹ אֵצֶל הָעַכּוּ\"ם עַד שֶׁיִּטּל הָעַכּוּ\"ם מְעוֹתָיו וְיַחְזֹר וְיִתְּנֵם בְּיַד יִשְׂרָאֵל הָאַחֵר:",
+              "ref": "Mishneh Torah, Creditor and Debtor 5:3",
+              "sourceHeRef": "הלכות מלווה ולווה ה:ג",
+              "sourceRef": "Creditor and Debtor 5:3"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר <span class=\"parenthesized\">(רבא)</span> [רב פפא] כגון שנטל ונתן ביד.</b> ומשמו של ר\"ת ז\"ל אמרו, דלאוקימתא דרב פפא כלה מתניתין דינא קתני ולא מחמרי בהא מילתא מידי, דסיפא נמי דוקא כשנטל ישראל ונתן ביד לישראל חברו, אבל כשלא נטל ונתן ביד רישא אסור וסיפא מותר, דאין שליחות לנכרי אפילו לחומרא. אבל מדברי רש\"י ז\"ל נראה, דבסיפא אפילו לא נטל ונתן ביד אסור לחומרא, שהוא ז\"ל כתב בהא דאמרינן מהו דתימא נכרי גופיה אדעתא דישראל קא עביד, שהביאו אצלו והרי הנכרי שלוחו ונחמיר מדרבנן כדמחמיר בסיפא, עכ\"ל הרב ז\"ל, אלמא משמע, דאפילו להאי לישנא אכתי בסיפא אחמורי מחמרינן, ולאו למימרא דבנטל ונתן ביד הוא דאמרינן דהוי משום חומרא, דבכי האי גוונא רבית קצוצה היא, אלא נאמר דמחמיר כדמחמיר בסיפא בדלא נטל ונתן ביד אלא שהעמידו אצלו. גם מה שאמר הרב ז\"ל, נחמיר בה ברישא כדמחמיר בסיפא, לאו למימרא דאם נטלן נכרי מחמת שליחותיה דישראל ונתנן לישראל שני שאינו אסור אלא לחומרא, דאלו פירש כן נכרי דאדעתא דהכי קא עביד, רבית גמורה הויא, דנהי דאין שליחות לנכרי מכל מקום מעות דישראל נינהו ובאחריותו קיימי, והוה ליה כמעות דישראל ביד נכרי ואסור להלוותם ברבית, אלא הכי קאמר מהו דתימא נחמיר ונימא דאע\"ג דנטל נכרי ונתנן ביד, לאו מחמתיה קא עביד אלא מחמת שליחותיה דישראל, קא משמע לן. מכל מקום למדנו מדברי הרב ז\"ל, דאכתי נחמיר בשליחות דנכרי, וכן דעת ר\"ח ז\"ל. ולאוקימתא דרב פפא ורב אשי בתרייתא ודרבינא לכלהו סיפא משום חומרא הוא.<br><b></b>אבל הרמב\"ן ז\"ל הביא ראיה לדברי ר\"ת ז\"ל מהא דגרסינן בירושלמי <span class=\"parenthesized\">(דפרקין ה\"ה)</span>, מלוה ישראל מעותיו של נכרי וכו', ואם העמידו אצל הנכרי מותר, אמר ר' יוסי והוא שהעמידו עם הנכרי, פי' שנשא הנכרי ונתן בידו. וכן נכרי שלוה מעות מישראל וכו', ואם העמידו אצל ישראל אסור, אמר ר' יוסי והוא שהעמידו עם ישראל, כלומר ונשא ישראל ונתן בידו. מכאן נראה כדברי ר\"ת ז\"ל להקל דאין שליחות לנכרי ואפילו לחומרא, ועד שישא ישראל ויתן ביד מותר. ומכל מקום אף לדברי הראשונים ז\"ל שאמרו דיש שליחות לחומרא, וסיפא אסור אפילו העמידו אצלו ולא נטל ונתן ביד, הני מילי לכתחלה הוא דאסור אבל אם עבר וגבה לא מפקינן מיניה, דלא גרע מאבק רבית דאין מוציאין מזה לזה. והרמב\"ם ז\"ל <span class=\"parenthesized\">(הל' מלוה ולוה פ\"ה, ה\"ד)</span> כתב שהוא רבית קצוצה, ולא ידעתי טעמו דהא בגמ' לחומרא קאמר.",
+              "ref": "Rashba on Bava Metzia 71b:6",
+              "sourceHeRef": "רשב״א על בבא מציעא ע״א ב:ו",
+              "sourceRef": "Rashba on Bava Metzia 71b:6"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כגון שנשא ונתן הנכרי ביד</strong> - וקבלם מן הראשון ונתנם לשני:",
+              "ref": "Rashi on Bava Metzia 71b:8:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ח:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אדעתא דידיה דישראל</strong> - שהרי הוא הביאו אצלו והוי נכרי שלוחו ונחמיר מדרבנן למיסר כדמחמרינן בסיפא:",
+              "ref": "Rashi on Bava Metzia 71b:8:2",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:ח:ב",
+              "sourceRef": "Rashi on Bava Metzia 71b:8:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "<b>De l'intérêt provenant des négociations d'argent avec un païen</b><br>Un Israélite ayant emprunté à intérêt de l’argent chez un païen, et se voyant réclamer sa dette, il lui est interdit de donner la somme due à un autre Israélite, qui paiera les intérêts au païen et deviendra son débiteur à la place du premier, même si le second Israélite écrit un billet où il déclare devoir la somme au païen, et s’il offre un gage.<br><small>G<small>LOSE</small>: Si l’Israélite accepte un tel marché, il peut se voir dans l'obligation de payer au païen l'intérêt dû par le second débiteur.</small><br>La même loi s'applique à un Israélite débiteur d’un païen et qui ne paie pas d’intérêt. Il est également interdit d'opérer de la façon suivante: un débiteur israélite et son coreligionnaire se trouvant chez le créancier païen, celui-ci dit au débiteur de donner le montant de sa dette au second Israélite, qui versera au païen la même somme avec son intérêt et que le premier débiteur sera libéré.",
+              "he": "<b>קסח-קסט כמה דיני רבית הנעשית באמצעות העובד כוכבים. ובו כ\"ז סעיפים:</b><br>ישראל שלוה מעות מעובד כוכבים ברבית ובקש להחזירם לו ואמר לו חבירו תנם לי ואני אעלה לו כדרך שאתה מעלה לו אסור ואפילו כתב ישראל שני שטר בשמו לעובד כוכבים ונתן משכונות וגם נתן הרבית לעובד כוכבים אסור: <span class=\"hebrew-emphasis\">(וכל מה שנתן לעובד כוכבים מפקינן מישראל ראשון דהוי רבית קצוצה) (ב\"י בשם תשובת הרא\"ש כלל ק\"ח וכ\"מ בטור ופוסקים) </span>והוא הדין אם הישראל היה חייב מעות בלא רבית יש לו דין זה ואפילו העמידו אצל העובד כוכבים ואמר לו העובד כוכבים תנם לישראל זה והפטר ואני אתנה עמו שיתן לי קרן ורבית אסור:",
+              "ref": "Shulchan Arukh, Yoreh De'ah 168:1",
+              "sourceHeRef": "יורה דעה קסח:א",
+              "sourceRef": "Yoreh De'ah 168:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא</b> <b>אמר רב פפא:</b> יש לשנות קצת את ההסבר, וכאן מדובר <b>כגון שנטל ונתן ביד,</b> כלומר, שלקח הגוי את זה מיד הישראל הראשון והעבירו מיד לשני. ושואלים: <b>ואכתי, מאי למימרא</b> <span class=\"hebrew-emphasis\">[ועדיין, מה</span> יש <span class=\"hebrew-emphasis\">לומר],</span> שהרי בבירור היתה זו הלוואה של גוי?! ומשיבים: <b>מהו דתימא</b> <span class=\"hebrew-emphasis\">[שתאמר]:</span> ה<b>גוי גופיה כי עביד</b> <span class=\"hebrew-emphasis\">[עצמו כאשר</span> הוא <span class=\"hebrew-emphasis\">עושה]</span> ומלוה זאת — <b>אדעתא</b> <span class=\"hebrew-emphasis\">[על דעת]</span> ה<b>ישראל קא גמיר ויהיב</b> <span class=\"hebrew-emphasis\">[הוא גומר ונותן],</span> שהרי הוא סומך על נאמנותו של הלווה השני משום תווכו של הראשון, ואפשר היה לומר שהוא נחשב כמעורב בהלוואה, ולכן <b>קא משמע לן</b> <span class=\"hebrew-emphasis\">[השמיע לנו]</span> שאין חוששים לכך.",
+              "ref": "Steinsaltz on Bava Metzia 71b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:ח",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:8"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה כגון שנשא כו' ויתן לפדות המשכנות לכותי או אפי' לישראל אך שיאמר למלוה אני פורע כו' כצ\"ל ונ\"ב ס\"א ועיקר ויתן המעות לכותי או אפילו לישראל אך שיאמר המלוה אני מלוה לך בשביל הכותי כו':",
+                      "ref": "Chokhmat Shlomo on Bava Metzia 71b:3",
+                      "sourceHeRef": "חכמת שלמה על בבא מציעא ע״א ב:ג",
+                      "sourceRef": "Chokhmat Shlomo on Bava Metzia 71b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כגון שנשא ונתן ביד</strong> - אומר רבינו תם דהשתא תו לא אמרינן סיפא לחומרא כדהוה אמרינן מעיקרא אלא מיירי נמי כגון שנטל ונתן ביד שקיבל ישראל המעות מן הנכרי ונתנם לחבירו וקמ\"ל דלא אמרינן אדעתא דנכרי גמר ומקני ליה וה\"נ איכא בשלמא בס\"פ ארבעה אחין <span class=\"parenthesized\">(יבמות דף לד.)</span> דלא קאי גבי בשלמא כולהו משכחת להו דשוו שליח ומתוך פ\"ה ור\"ח משמע דלעולם סיפא לחומרא כתוב בירושלמי ישראל שמנהו נכרי אפוטרופוס או סנטר מותר ללוות ממנו ברבית ונכרי שמנהו ישראל אפוטרופוס או סנטר אסור ללוות ממנו ברבית מעותיו של נכרי שמופקדין ביד ישראל אסור ללוות ממנו ברבית מעותיו של ישראל שמופקדין ביד נכרי מותר ללוות ממנו ברבית זה הכלל כל שהוא באחריות ישראל אסור באחריות נכרי מותר ובתשובה אחת כתב רבינו תם דהיתר גמור הוא כהאי גוונא שישלח ישראל הלוה משכנותיו על ידי נכרי או על ידי עבדו והמלוה יקבל משכונות מיד נכרי ויתן. המעות לנכרי או אפי' לישראל אך שיאמר המלוה אני מלוה לך בשביל הנכרי ולא יהא סומך המלוה כלל על הלוה כ\"א על המשכונות והלוה הוא מסולק מן המשכון שהרי אם אבד אין לו דין ודברים עם המלוה שהרי לא קבלו אלא מיד נכרי ומותר לישראל להיות ערב בשביל נכרי דישראל המלוה לא בתר ערבא אזיל אלא בתר לוה אזיל ואי לא יפרע הנכרי יפרע הערב הקרן והרבית דהשתא הוא דמוזיף לנכרי:",
+              "ref": "Tosafot on Bava Metzia 71b:8:1",
+              "sourceHeRef": "תוספות על בבא מציעא ע״א ב:ח:א",
+              "sourceRef": "Tosafot on Bava Metzia 71b:8:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, <span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said:</b> It must be speaking about a case <b>where</b> the gentile <b>took</b> the money from the first Jew <b>and gave</b> it to the second Jew <b>by hand.</b> The Gemara asks: <b>But still, what</b> is the purpose <b>of stating</b> it? In this case also, the second loan is clearly transacted directly with the gentile lender. The Gemara answers: <b>Lest you say: The gentile himself, when he does this, he gives it with the knowledge of the Jew,</b> as he trusts the second borrower due to the mediation of the first, and therefore one might have thought he is deemed involved in the loan. To counter this, the <i>baraita</i> <b>teaches us</b> that this is not the case.",
+      "he": "אֶלָּא אָמַר רַב פָּפָּא: כְּגוֹן שֶׁנָּטַל וְנָתַן בַּיָּד. וְאַכַּתִּי, מַאי לְמֵימְרָא?! מַהוּ דְּתֵימָא: גּוֹי גּוּפֵיהּ כִּי עָבֵיד – אַדַּעְתָּא דְּיִשְׂרָאֵל קָא גָמֵיר וְיָהֵיב, קָא מַשְׁמַע לַן.",
+      "ref": "Bava Metzia 71b:8"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רב אשי אמר</b> שאפשר לתרץ באופן אחר: <b>כי אמרינן</b> <span class=\"hebrew-emphasis\">[כאשר אנו אומרים]</span> את הכלל <b>אין שליחות לגוי</b> — <b>הני מילי</b> <span class=\"hebrew-emphasis\">[דברים אלה</span> אמורים<span class=\"hebrew-emphasis\">]</span> בהפרשת <b>תרומה,</b> ששם נרמזה הלכה זו בתורה, <b>אבל בכל התורה כולה</b> בשאר הלכות — <b>יש שליחות לגוי.</b>",
+              "ref": "Steinsaltz on Bava Metzia 71b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:ט",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A Jew can appoint an agent to separate <i>teruma </i>and tithes on his behalf, but a gentile cannot serve as the agent. Also, a gentile cannot be appointed to serve as one’s agent for any other matter (Rambam <i>Sefer Zera’im</i>,<i> Hilkhot Terumot </i>4:1).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 71b:9",
+              "sourceHeRef": "הָנֵי מִילֵּי בִּתְרוּמָה",
+              "sourceRef": "This matter applies concerning <i>teruma</i>"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> said:</b> It is possible to explain the <i>baraita</i> in a different way. <b>When we say</b> that the <i>halakha</i> is <b>that there is no agency for a gentile, this matter</b> applies <b>concerning</b> the separation of <b><i>teruma</i>,</b> the portion of produce designated for a priest. It is in this context that the <i>halakha</i> that there is no agency for a gentile is derived, <b>but concerning the rest of the</b> <i>halakhot</i> of the <b>Torah, there is agency for a gentile.</b>",
+      "he": "רַב אָשֵׁי אָמַר: כִּי אָמְרִינַן אֵין שְׁלִיחוּת לְגוֹי – הָנֵי מִילֵּי בִּתְרוּמָה, אֲבָל בְּכׇל הַתּוֹרָה כּוּלָּהּ – יֵשׁ שְׁלִיחוּת לְגוֹי.",
+      "ref": "Bava Metzia 71b:9"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna states that an agent has the power to effect betrothal. The Gemara asks: <b>From where do we</b> derive that there is halakhic <b>agency?</b> The Gemara answers: <b>As it is taught</b> in a <i>baraita</i>: The Torah states with regard to one who divorces his wife: “That he writes her a bill of divorce, and gives it in her hand, and sends her [<i>veshilleḥah</i>] out of his house” (Deuteronomy 24:1). The verse employs the verb: <b>And he sends [<i>veshillaḥ</i>].</b> The fact that the verse employs the term <i>veshillaḥ</i>, as opposed to another verb denoting divorce, <i>vegereshah</i>, <b>teaches that he can appoint an agent [<i>shaliaḥ</i>],</b> as both words share the root <i>shin</i>, <i>lamed</i>, <i>ḥet</i>. The husband does not have to personally give his wife the bill of divorce.",
+                  "Additionally, the fact that the term <b>“and he sends her [<i>veshilleḥah</i>]”</b> can also be read as: And she sends [<i>veshalleḥa</i>], <b>teaches that she</b> too <b>can appoint an agent</b> to accept her bill of divorce. Furthermore, in this same passage the verb is repeated in the phrases <b>“and he sends,” “and he sends her”</b> (Deuteronomy 24:1–3), which serves to <b>teach that an agent can appoint another agent.</b>",
+                  "The Gemara asks: <b>We found</b> a source for agency <b>with regard to divorce; from where do we</b> derive that there is agency <b>with regard to betrothal? And if you would say that</b> it <b>is derived from divorce,</b> i.e., just as a wife can be divorced from her husband by means of an agent, she can become betrothed to him in the same way, the two cases are not similar: <b>What</b> is unique <b>about divorce is that it</b> can be effected <b>against her will,</b> while betrothal cannot. Therefore, a means of effecting divorce cannot necessarily be used to effect betrothal. The Gemara answers: <b>The verse states: “And she departs</b> out of his house, and goes <b>and becomes</b> another man’s wife” (Deuteronomy 24:2). Because the verse <b>juxtaposes becoming</b> married <b>to leaving</b> a marriage, <b>just as</b> a husband can <b>appoint an agent</b> for the purpose of <b>leaving</b> a marriage, <b>so too he</b> can <b>appoint an agent</b> for the purpose of <b>becoming</b> married.",
+                  "The Gemara objects: <b>But</b> there is <b>that which we learned</b> in a mishna (<i>Terumot</i> 4:4): In the case of <b>one who says to his agent: Go out</b> and <b>separate <i>teruma</i></b> from my field’s produce for me, the agent <b>must separate</b> <i>teruma</i> <b>in accordance with the mindset of the owner.</b> He must separate the amount that he assumes the owner would want to give, as there is no fixed measure for the amount that one must set aside as <i>teruma</i>. A generous person would give as much as one-fortieth of the produce as <i>teruma</i>, while a stingy person would give one-sixtieth. <b>And if he does not know the mindset of the owner, he separates an intermediate</b> measure, which is <b>one-fiftieth</b> of the produce."
+                ],
+                [
+                  "<b>If</b> the agent <b>subtracted ten</b> from the denominator and separated one-fortieth <b>or added ten</b> to the denominator and separated one-sixtieth, thereby giving more or less than the owner intended, <b>his <i>teruma</i> is <i>teruma</i>. From where do we</b> derive that one can appoint an agent to separate <i>teruma</i>? <b>And if you would say that</b> it <b>is derived from divorce,</b> one could argue: <b>What</b> is an aspect unique <b>to divorce is that it is</b> considered <b>a non-sacred</b> matter in relation to <i>teruma</i> and will have different <i>halakhot</i>, so one cannot learn from divorce that one can appoint an agent to separate <i>teruma</i>. The Gemara answers: The verse states with regard to <i>teruma</i>: “So you also shall set apart a gift unto the Lord of all your tithes” (Numbers 18:28). Once the <b>verse states “you,”</b> the addition of the word “also” in the term <b>“you also”</b> serves <b>to include an agent.</b>",
+                  "The Gemara asks: <b>And let the Merciful One write in</b> the passage concerning <b><i>teruma</i></b> that one can appoint an agent, <b>and</b> the <i>halakha</i> that one can appoint an agent to act on his behalf in <b>these</b> other matters, i.e., divorce and betrothal, <b>can come and be derived from it.</b> The Gemara answers: Agency in these matters cannot be derived in this manner <b>because</b> the derivation <b>can be refuted:</b> Separating <i>teruma</i> is different, in <b>that it is</b> able to be separated <b>by</b> mere <b>thought.</b> It is enough for one to decide that a certain portion of his produce shall be <i>teruma</i> to have that status take effect. Just as there is this leniency unique to separating <i>teruma</i>, perhaps the leniency that enables one to appoint an agent is also unique to separating <i>teruma</i>.",
+                  "The Gemara further clarifies the source for agency: Generally, the Paschal offering was brought by a group of people together. <b>But</b> there is <b>that which we learned</b> in a mishna (<i>Pesaḥim</i> 98b): In the case of <b>a group whose Paschal offering was lost</b> before it was sacrificed, <b>and they said to one</b> member of the group: <b>Go and search</b> for our Paschal offering, <b>and</b> when you find it, <b>slaughter</b> it <b>on our</b> behalf; <b>and</b> this person <b>went and found</b> the lost animal <b>and slaughtered</b> it on behalf of the entire group, <b>but</b> meanwhile, despairing of his return, <b>they took</b> a different animal <b>and slaughtered</b> it as a Paschal offering, the <i>halakha</i> is as follows: <b>If his</b> Paschal offering <b>was slaughtered first, he eats from his</b> offering, <b>and they eat and drink with him.</b> This demonstrates that one can act as an agent to slaughter the Paschal offering.",
+                  "<b>From where do we</b> derive this <i>halakha</i>, that one can appoint an agent to slaughter an offering? <b>And if you would say that</b> it <b>is derived from these</b> other instances of agency, i.e., divorce and <i>teruma</i>, one could refute this derivation by saying: <b>What</b> is unique <b>about these is that they are</b> considered <b>non-sacred</b> matters <b>relative to offerings,</b> and perhaps offerings have their own set of <i>halakhot</i>.",
+                  "The Gemara answers: <b>He derives it from</b> that <b>which Rabbi Yehoshua ben Korḥa</b> says, <b>as Rabbi Yehoshua ben Korḥa says: From where</b> is it derived <b>that</b> the legal status of <b>a person’s agent is like</b> that of <b>himself? As it is stated</b> with regard to the Paschal offering: <b>“And the whole assembly of the congregation of Israel shall slaughter it in the afternoon”</b> (Exodus 12:6). <b>Is it so</b> that <b>the whole assembly slaughters</b> the offering? <b>But only one</b> person from each group <b>slaughters</b> it. <b>Rather,</b> it can be derived <b>from here that</b> the legal status of <b>a person’s agent is like</b> that of <b>himself.</b>",
+                  "In light of that exposition, the Gemara asks: <b>Let the Merciful One write</b> in the Torah the <i>halakha</i> of an agent <b>with regard to offerings, and these,</b> i.e., agency in the cases of betrothal, divorce, and <i>teruma</i>, <b>can come and be derived from it.</b> The Gemara answers: Agency in these matters cannot be derived in this manner <b>because</b> the derivation <b>can be refuted: What</b> is unique <b>about offerings</b> is that the <b>majority of their actions</b> are performed <b>by</b> means of <b>an agent.</b> Since most of the sacrificial service is performed by priests, who serve as the agents of those bringing the offerings, the general <i>halakha</i> of agency cannot be derived from there.",
+                  "The Gemara continues to ask: For the reasons stated, the <i>halakha</i> of agency <b>cannot be derived</b> for any <b>one</b> of these <b>from</b> any other <b>one</b> of them. Still, <b>derive one</b> of these <b>from</b> the other <b>two.</b> The Gemara clarifies: <b>Which</b> of them will be <b>derived</b> from the others?",
+                  "If you say: <b>Let the Merciful One not write</b> the <i>halakha</i> of agency <b>with regard to offerings and derive</b> agency with regard to offerings <b>from these,</b> i.e., divorce and <i>teruma</i>, that derivation can be refuted: <b>What</b> is unique <b>about these is that they are</b> considered <b>non-sacred</b> matters <b>relative to offerings,</b> as even <i>teruma</i> is not sacred compared to offerings, and sacred procedures such as offerings may have their own <i>halakhot</i>. If you say: <b>Let the Merciful One not write</b> the <i>halakha</i> of agency <b>with regard to divorce, and derive</b> agency with regard to divorce <b>from these,</b> i.e., <i>teruma</i> and offerings, this too can be refuted: <b>What</b> is unique <b>about these is they can be</b> designated <b>by means of thought,</b> and therefore may be easier to effect than divorce.",
+                  "<b>Rather,</b> it is the third derivation that is possible: <b>Let the Merciful One not write</b> the <i>halakha</i> of agency <b>with regard to <i>teruma</i>, and derive</b> agency <b>from these,</b> i.e., offerings and divorce. Although <i>teruma</i> is sacred, offerings are more sacred, and yet the <i>halakha</i> of agency applies to them. Although the separating of <i>teruma</i> can be accomplished by means of thought, as opposed to divorce, offerings can also be designated by means of thought. The Gemara answers: It is <b>indeed</b> so; this is the derivation for the applicability of agency to <i>teruma</i>.",
+                  "The Gemara asks: <b>But</b> then <b>why do I</b> need the derivation that once the verse states <b>“you,”</b> the addition of the word “also” in the term <b>“you also”</b> serves to include an agent? The Gemara answers: It <b>is necessary to</b> function as the source of <b>the</b> statement <b>of Rabbi Yannai, as Rabbi Yannai says</b> that from the term <b>“you also,”</b> the following is derived: <b>Just as you,</b> those who appoint agents, <b>are members of the covenant,</b> i.e., Jews, <b>so too, your agents</b> must be <b>members of the covenant.</b> A gentile cannot separate <i>teruma</i> even if appointed as an agent by a Jew.",
+                  "The Gemara asks: <b>Why do I</b> need <b>a verse</b> to teach <b>this</b> <i>halakha</i>? <b>It</b> is <b>derived from that</b> which <b>Rabbi Ḥiyya bar Abba</b> says that <b>Rabbi Yoḥanan says, as Rabbi Ḥiyya bar Abba says</b> that <b>Rabbi Yoḥanan says: A slave cannot become an agent to receive a bill of divorce from the hand of a woman’s husband</b> on her behalf <b>because he is not</b> included <b>in the laws of bills of divorce and betrothal.</b> This indicates that there is a principle that if certain matters do not apply to a person, he cannot act as an agent with regard to those matters. Therefore, since gentiles are not commanded to separate <i>teruma</i>, they cannot be agents for its separation.",
+                  "The Gemara answers: It <b>was</b> nevertheless <b>necessary</b> to derive this <i>halakha</i> for the case of <i>teruma</i>, because it cannot be derived from the statement of Rabbi Yoḥanan. This is as it might <b>enter your mind to say:</b> It is <b>a slave</b> who cannot serve as an agent to receive a bill of divorce, <b>since he cannot release</b> a woman by divorce <b>at all; but a gentile, since he is included in his own <i>teruma</i>, as we learned</b> in a mishna (<i>Terumot</i> 3:9): <b>A gentile or a Samaritan who separated <i>teruma</i></b> from their own produce, <b>their <i>teruma</i> is considered <i>teruma</i>,</b> despite the fact that they are not obligated to do so, <b>I will say</b> that he can <b>also be</b> appointed as an <b>agent.</b> To counter this argument, the term “you also” <b>teaches us</b> that only members of the covenant can act as agents for separating <i>teruma</i>; gentiles cannot.",
+                  "The Gemara asks: <b>But according to Rabbi Shimon, who exempts</b> one from paying an additional penalty for the <i>teruma</i> of a gentile, this explanation cannot be stated. <b>As we learned</b> in a mishna (<i>Terumot</i> 3:9): If <b>the <i>teruma</i> of a gentile</b> gets mixed with regular produce, it is considered to be <b>a mixture of</b> <i>teruma</i> <b>and non-sacred</b> produce, <b>and</b> if a non-priest eats this mixture unwittingly <b>he is liable</b> to pay <b>for it</b> an additional <b>one-fifth</b> beyond its value, just as is the <i>halakha</i> with regard to one who unwittingly eats <i>teruma</i>. <b>But Rabbi Shimon exempts</b> him from paying the additional one-fifth, as he holds that the <i>teruma</i> of a gentile possesses no sanctity and is considered a mere gift to a priest. If so, if there is no need to learn the additional <i>halakha</i> that a gentile cannot act as an agent with regard to the separating of <i>teruma</i>, <b>why do I</b> need the derivation from <b>“you”</b> and <b>“you also”?</b>",
+                  "The Gemara answers: It <b>was necessary</b> to state this additional term, as it might <b>enter your mind to say: Since the Master says</b> that the word “you” is interpreted as a limitation, it means that <b>“you,” but not sharecroppers,</b> can separate <i>teruma</i>, as a sharecropper cannot separate <i>teruma</i> from the produce of the owner of the field; <b>“you”</b> can separate <i>teruma</i> <b>but not partners</b> from shared property without the consent of the other; <b>“you”</b> can separate <i>teruma</i> <b>but not a steward [<i>apotropos</i>]</b> from the estate that he is administering; and <b>“you”</b> can separate <i>teruma</i> <b>but not one who separates</b> <i>teruma</i> <b>from</b> produce <b>that is not his,</b> you might <b>also say: “You”</b> can separate <i>teruma</i> <b>and not your agents.</b> The verse therefore <b>teaches us</b> that “you also” indicates that one can appoint an agent to separate <i>teruma</i>.",
+                  "The Gemara poses a question with regard to the basic derivation of the <i>halakha</i> of agency: <b>This works out well</b> according <b>to</b> the opinion of <b>Rabbi Yehoshua ben Korḥa,</b> who explains that the verse: “And the whole assembly of the congregation of Israel shall slaughter it in the afternoon” (Exodus 12:6), teaches the <i>halakha</i> of agency with regard to offerings. <b>But</b> according <b>to</b> the opinion of <b>Rabbi Yonatan, who derives a different exposition from this verse, from where do we</b> derive the <i>halakha</i> of agency with regard to offerings? <b>As it is taught</b> in a <i>baraita</i> that <b>Rabbi Yonatan says: From where do we</b> derive that <b>all of the Jews can fulfill</b> their obligations"
+                ],
+                [
+                  "<b>with one Paschal offering?</b> Although it is impossible for all of the Jewish people to each eat an olive-bulk from one offering, they nevertheless fulfill their obligation to sacrifice the Paschal offering by sacrificing one animal, <b>as it is stated</b> with regard to the Paschal offering: <b>“And the whole assembly of the congregation of Israel shall slaughter it in the afternoon”</b> (Exodus 12:6). <b>Is it so that the whole assembly slaughters</b> it? <b>But only one</b> person from each group <b>slaughters. Rather,</b> it can be derived <b>from here that all of the Jews can fulfill</b> their obligations <b>with one Paschal</b> offering, despite the fact that not everyone will be able to eat from it. Since Rabbi Yonatan derives from this verse that one offering suffices, <b>from where does he</b> derive the <i>halakha</i> of <b>agency with regard to offerings?</b>",
+                  "The Gemara answers: He derives it <b>from that</b> very same verse, as it can be seen that one person slaughters the animal on behalf of the rest of the assembly. The Gemara rejects this: <b>But perhaps it is different there, since</b> the one slaughtering the animal <b>has partnership with them</b> in the offering. This does not prove that there is agency when the agent has no share in the offering.",
+                  "<b>Rather,</b> he derives agency with regard to offerings <b>from here: “And they shall take to them every man a lamb, according to their fathers’ houses, a lamb for a household”</b> (Exodus 12:3). This demonstrates that one person takes a lamb and slaughters it on behalf of the entire family. The Gemara asks: <b>But perhaps there too</b> there is agency <b>since</b> the one slaughtering the animal <b>has partnership with them?</b> The Gemara rejects this: <b>If so, why do I</b> need <b>two verses</b> to teach the same <i>halakha</i>? <b>If</b> the <i>halakha</i> stated in this verse <b>is not applicable for where it belongs,</b> i.e., with regard to an agent who is a partner in the offering, <b>apply it to where it does not belong,</b> so that even one who does not have a share in the offering can act as an agent.",
+                  "The Gemara rejects this: <b>This</b> verse <b>is required for him to</b> teach another <i>halakha</i>, <b>that of Rabbi Yitzḥak, as Rabbi Yitzḥak says:</b> This verse is the source for the <i>halakha</i> that <b>a man,</b> i.e., an adult, <b>can acquire</b> an item on behalf of others, <b>but</b> that <b>a minor cannot acquire</b> an item on behalf of others. The Gemara answers: <b>That</b> <i>halakha</i>, that only an adult can acquire an item on behalf of others, <b>is derived from</b> the verse: <b>“According to every man’s eating</b> you shall make your count for the lamb” (Exodus 12:4). By employing the term “man,” which indicates an adult, the verse teaches that only an adult can acquire an item on behalf of others.",
+                  "The Gemara asks another question: <b>And still</b> the verse “according to every man’s eating” <b>is required for him</b> to teach the <i>halakha</i> <b>that one may slaughter a Paschal offering for an individual.</b> It does not have to be “a lamb, according to their fathers’ houses,” as implied by the previous verse. A lamb may be slaughtered even by one person, i.e., “every man” for himself. The Gemara answers: Rabbi Yonatan <b>holds in accordance with</b> the opinion of <b>the one who says</b> that <b>one may not slaughter a Paschal offering for an individual.</b>",
+                  "The Gemara asks a question from a different source: <b>But</b> consider <b>that</b> which <b>Rav Giddel says</b> that <b>Rav says: From where</b> is it derived <b>that</b> the legal status of <b>a person’s agent is like</b> that of <b>himself?</b> It is <b>as it is stated</b> with regard to the division of Eretz Yisrael among the Jewish people: <b>“And you shall take one prince of every tribe,</b> to take possession of the land” (Numbers 34:18). This indicates that the prince of each tribe acted as the agent to claim the land for each member of his tribe. <b>Let</b> the <i>halakha</i> of <b>agency be derived from here;</b> why is there a need to have the sources quoted above? The Gemara answers: <b>And</b> how can <b>you understand that this</b> process of the princes claiming the land <b>was</b> due to <b>agency? But minors cannot be</b> involved in <b>agency,</b> and the princes claimed the land for all members of their tribe, adults and minors alike.",
+                  "<b>Rather,</b> the distribution of the land by the princes follows a different principle, <b>like that</b> statement <b>of Rava bar Rav Huna, as Rava bar Rav Huna says</b> that <b>Rav Giddel says</b> that <b>Rav says: From where</b> is it derived <b>that one can act in a person’s interest in his absence?</b> It is <b>as</b> it <b>is stated: “And</b> you shall take <b>one prince.”</b> The princes were not appointed as agents and could act for the benefit of the minors. The Gemara asks: <b>And</b> how can <b>you understand</b> that <b>it is a benefit? But it was also</b> to their <b>disadvantage, as there is</b> one person <b>for whom it is preferable to him</b> to receive a portion <b>on a hill and it is not preferable to him</b> to receive a portion <b>in a valley, and there is</b> one person <b>for whom it is preferable to him</b> to receive a portion <b>in a valley and it is not preferable to him</b> to receive a portion <b>on a hill.</b> The prince might claim land for members of his tribe that they do not want, and one cannot act to another’s disadvantage in his absence.",
+                  "<b>Rather,</b> the verse is required to teach a different <i>halakha</i>, <b>like that</b> statement <b>of Rava bar Rav Huna, as Rava bar Rav Huna says</b> that <b>Rav Giddel says</b> that <b>Rav says: From where</b> is it derived <b>that</b> if <b>orphans came to divide their father’s property, that the court appoints a steward for them,</b> both <b>to</b> their <b>disadvantage and to</b> their <b>benefit?</b> Before the Gemara completes the quote, it analyzes the statement: <b>Why</b> would the court appoint a steward <b>to</b> their <b>disadvantage? Rather,</b> it means <b>to</b> their <b>disadvantage in order to</b> achieve their eventual <b>benefit.</b> Once a steward has been appointed to control the orphans’ estate, he has the authority to act to their temporary disadvantage if they are ultimately likely to benefit from the action. And the source of this <i>halakha</i> is as <b>the verse states: “And you shall take one prince of every tribe”</b> (Numbers 34:18)."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 41a:9",
+                "Kiddushin 41a:10",
+                "Kiddushin 41a:11",
+                "Kiddushin 41a:12",
+                "Kiddushin 41b:1",
+                "Kiddushin 41b:2",
+                "Kiddushin 41b:3",
+                "Kiddushin 41b:4",
+                "Kiddushin 41b:5",
+                "Kiddushin 41b:6",
+                "Kiddushin 41b:7",
+                "Kiddushin 41b:8",
+                "Kiddushin 41b:9",
+                "Kiddushin 41b:10",
+                "Kiddushin 41b:11",
+                "Kiddushin 41b:12",
+                "Kiddushin 41b:13",
+                "Kiddushin 41b:14",
+                "Kiddushin 41b:15",
+                "Kiddushin 42a:1",
+                "Kiddushin 42a:2",
+                "Kiddushin 42a:3",
+                "Kiddushin 42a:4",
+                "Kiddushin 42a:5",
+                "Kiddushin 42a:6",
+                "Kiddushin 42a:7",
+                "Kiddushin 42a:8"
+              ],
+              "he": [
+                [
+                  "שְׁלִיחוּת מְנָלַן? דְּתַנְיָא: ״וְשִׁלַּח״ – מְלַמֵּד שֶׁהוּא עוֹשֶׂה שָׁלִיחַ.",
+                  "״וְשִׁלְּחָהּ״ – מְלַמֵּד שֶׁהִיא עוֹשָׂה ״שָׁלִיחַ״. ״וְשִׁלַּח״ ״וְשִׁלְּחָהּ״ – מְלַמֵּד שֶׁהַשָּׁלִיחַ עוֹשֶׂה שָׁלִיחַ.",
+                  "אַשְׁכְּחַן בְּגֵירוּשִׁין, בְּקִידּוּשִׁין מְנָלַן? וְכִי תֵּימָא דְּיָלֵיף מִגֵּירוּשִׁין – מָה לְגֵירוּשִׁין, שֶׁכֵּן יֶשְׁנָן בְּעַל כׇּרְחָהּ! אָמַר קְרָא: ״וְיָצְאָה״ ״וְהָיְתָה״ – מַקִּישׁ הֲוָיָה לִיצִיאָה, מָה יְצִיאָה מְשַׁוֵּי שָׁלִיחַ – אַף הֲוָיָה נָמֵי מְשַׁוֵּי שָׁלִיחַ.",
+                  "וְאֶלָּא הָא דִּתְנַן: הָאוֹמֵר לִשְׁלוּחוֹ: ״צֵא תְּרוֹם״ – תּוֹרֵם כְּדַעַת בַּעַל הַבַּיִת. וְאִם אֵינוֹ יוֹדֵעַ דַּעַת בַּעַל הַבַּיִת – תּוֹרֵם בְּבֵינוֹנִית, אֶחָד מֵחֲמִשִּׁים."
+                ],
+                [
+                  "פִּיחֵת עֲשָׂרָה אוֹ הוֹסִיף עֲשָׂרָה – תְּרוּמָתוֹ תְּרוּמָה. מְנָלַן? וְכִי תֵּימָא דְּיָלֵיף מִגֵּירוּשִׁין – מָה לְגֵירוּשִׁין, שֶׁכֵּן יֶשְׁנָן חוֹל! אָמַר קְרָא: ״אַתֶּם״, ״גַּם אַתֶּם״ – לְרַבּוֹת אֶת הַשָּׁלִיחַ.",
+                  "וְנִכְתּוֹב רַחֲמָנָא בִּתְרוּמָה, וְנֵיתוֹ הָנָךְ וְנִגְמְרוּ מִינֵּיהּ! מִשּׁוּם דְּאִיכָּא לְמִפְרַךְ: שֶׁכֵּן יֶשְׁנָהּ בְּמַחְשָׁבָה.",
+                  "וְהָא דִּתְנַן: חֲבוּרָה שֶׁאָבַד פִּסְחָהּ, וְאָמְרוּ לְאֶחָד: ״צֵא וּבַקֵּשׁ וּשְׁחוֹט עָלֵינוּ״, וְהָלַךְ וּמָצָא וְשָׁחַט, וְהֵן לָקְחוּ וְשָׁחֲטוּ, אִם שֶׁלּוֹ נִשְׁחַט רִאשׁוֹן – הוּא אוֹכֵל מִשֶּׁלּוֹ, וְהֵם אוֹכְלִים וְשׁוֹתִים עִמּוֹ.",
+                  "מְנָלַן? וְכִי תֵּימָא דְּיָלֵיף מֵהָנָךְ – מָה לְהָנָךְ, שֶׁכֵּן יֶשְׁנָן חוֹל אֵצֶל קָדָשִׁים!",
+                  "נָפְקָא לֵיהּ מִדְּרַבִּי יְהוֹשֻׁעַ בֶּן קׇרְחָה, דְּאָמַר רַבִּי יְהוֹשֻׁעַ בֶּן קׇרְחָה: מִנַּיִן שֶׁשְּׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ? שֶׁנֶּאֱמַר: ״וְשָׁחֲטוּ אֹתוֹ כֹּל קְהַל עֲדַת יִשְׂרָאֵל בֵּין הָעַרְבָּיִם״, וְכִי כָּל הַקָּהָל כּוּלָּן שׁוֹחֲטִין? וַהֲלֹא אֵינוֹ שׁוֹחֵט אֶלָּא אֶחָד! אֶלָּא מִכָּאן שֶׁשְּׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ.",
+                  "נִכְתּוֹב רַחֲמָנָא בְּקָדָשִׁים, וְנֵיתֵי הָנָךְ וְנִיגְמְרוּ מִינֵּיהּ! מִשּׁוּם דְּאִיכָּא לְמִפְרַךְ: מָה לְקָדָשִׁים, שֶׁכֵּן רוֹב מַעֲשֵׂיהֶן עַל יְדֵי שָׁלִיחַ.",
+                  "חֲדָא מֵחֲדָא לָא אָתְיָא, תֵּיתֵי חֲדָא מִתַּרְתֵּי? – הֵי תֵּיתֵי?",
+                  "לָא נִכְתּוֹב רַחֲמָנָא בְּקָדָשִׁים וְתֵיתֵי מֵהָנָךְ – מָה לְהָנָךְ, שֶׁכֵּן יֶשְׁנָן חוֹל אֵצֶל קֳדָשִׁים. לָא נִכְתּוֹב רַחֲמָנָא בְּגֵירוּשִׁין וְתֵיתֵי מֵהָנָךְ – מָה לְהָנָךְ, שֶׁכֵּן יֶשְׁנָן בְּמַחְשָׁבָה.",
+                  "אֶלָּא: לָא לִכְתּוֹב רַחֲמָנָא בִּתְרוּמָה, וְתֵיתֵי מֵהָנָךְ! הָכִי נָמֵי.",
+                  "וְאֶלָּא ״אַתֶּם״ ״גַּם אַתֶּם״ לְמָה לִי? מִיבְּעֵי לֵיהּ לְכִדְרַבִּי יַנַּאי. דְּאָמַר רַבִּי יַנַּאי ״גַּם אַתֶּם״ – מָה אַתֶּם בְּנֵי בְּרִית, אַף שְׁלוּחֲכֶם בְּנֵי בְּרִית.",
+                  "הָא לְמָה לִי קְרָא? מִדְּרַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן נָפְקָא! דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: אֵין הָעֶבֶד נַעֲשֶׂה שָׁלִיחַ לְקַבֵּל גֵּט מִיַּד בַּעְלָהּ שֶׁל אִשָּׁה, לְפִי שֶׁאֵינוֹ בְּתוֹרַת גִּיטִּין וְקִידּוּשִׁין.",
+                  "אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: עֶבֶד, דְּלָאו בַּר הֶיתֵּירָא הוּא כְּלָל. אֲבָל נׇכְרִי, הוֹאִיל וְאִיתֵיהּ בִּתְרוּמָה דְּנַפְשֵׁיהּ, דִּתְנַן: הַנׇּכְרִי וְהַכּוּתִי שֶׁתָּרְמוּ – תְּרוּמָתָן תְּרוּמָה, אֵימָא שָׁלִיחַ נָמֵי עָבֵיד, קָמַשְׁמַע לַן.",
+                  "וּלְרַבִּי שִׁמְעוֹן, דְּפָטַר, דִּתְנַן: תְּרוּמַת נׇכְרִי מְדַמַּעַת וְחַיָּיבִין עָלֶיהָ חוֹמֶשׁ וְרַבִּי שִׁמְעוֹן פּוֹטֵר, ״אַתֶּם״ ״גַּם אַתֶּם״ לְמָה לִי?",
+                  "אִיצְטְרִיךְ, סָלְקָא דַּעְתָּךְ אָמֵינָא: הוֹאִיל וְאָמַר מָר: ״אַתֶּם״ – וְלֹא אֲרִיסִין, ״אַתֶּם״ – וְלֹא שׁוּתָּפִין, ״אַתֶּם״ – וְלֹא אַפּוֹטְרוֹפּוֹס, ״אַתֶּם״ – וְלֹא הַתּוֹרֵם אֶת שֶׁאֵינוֹ שֶׁלּוֹ, אֵימָא: ״אַתֶּם״ – וְלֹא שְׁלוּחֲכֶם נָמֵי, קָא מַשְׁמַע לַן.",
+                  "הָנִיחָא לְרַבִּי יְהוֹשֻׁעַ בֶּן קׇרְחָה. אֶלָּא לְרַבִּי יוֹנָתָן, דְּמַפֵּיק לֵיהּ לְהַאי קְרָא לִדְרָשָׁא אַחֲרִינָא, מְנָא לַן? דְּתַנְיָא, רַבִּי יוֹנָתָן אוֹמֵר: מִנַּיִן שֶׁכׇּל יִשְׂרָאֵל כּוּלָּן יוֹצְאִים"
+                ],
+                [
+                  "בְּפֶסַח אֶחָד? שֶׁנֶּאֱמַר: ״וְשָׁחֲטוּ אֹתוֹ כֹּל קְהַל עֲדַת יִשְׂרָאֵל בֵּין הָעַרְבָּיִם״, וְכִי כׇּל הַקָּהָל כּוּלָּם שׁוֹחֲטִים? וַהֲלֹא אֵינוֹ שׁוֹחֵט אֶלָּא אֶחָד! אֶלָּא מִכָּאן שֶׁכׇּל יִשְׂרָאֵל יוֹצְאִים בְּפֶסַח אֶחָד – שָׁלִיחַ בְּקָדָשִׁים מְנָא לֵיהּ?",
+                  "– מִינֵּיהּ. וְדִילְמָא שָׁאנֵי הָתָם, דְּאִית לֵיהּ שׁוּתָּפוּת בְּגַוַּיְיהוּ.",
+                  "אֶלָּא מֵהָכָא: ״וְיִקְחוּ לָהֶם אִישׁ שֶׂה לְבֵית אָבֹת שֶׂה לַבָּיִת״. וְדִילְמָא הָתָם נָמֵי, דְּאִית לֵיהּ שׁוּתָּפוּת בְּגַוַּיְיהוּ? אִם כֵּן תְּרֵי קְרָאֵי לְמָה לִי? אִם אֵינוֹ עִנְיָן לְהֵיכָא דְּשָׁיֵיךְ תְּנֵיהוּ עִנְיָן לְהֵיכָא דְּלָא שָׁיֵיךְ.",
+                  "הַאי מִיבְּעֵי לֵיהּ לְכִדְרַבִּי יִצְחָק. דְּאָמַר רַבִּי יִצְחָק: ״אִישׁ״ זוֹכֶה, וְלֹא הַקָּטָן זוֹכֶה. הָהוּא מֵ״אִישׁ לְפִי אׇכְלוֹ״ נָפְקָא.",
+                  "וְאַכַּתִּי מִיבְּעֵי לֵיהּ דְּשׁוֹחֲטִין אֶת הַפֶּסַח עַל הַיָּחִיד. סָבַר לַהּ כְּמַאן דְּאָמַר: אֵין שׁוֹחֲטִין אֶת הַפֶּסַח עַל הַיָּחִיד.",
+                  "וְאֶלָּא הָא דְּאָמַר רַב גִּידֵּל אָמַר רַב: מִנַּיִן שֶׁשְּׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ? שֶׁנֶּאֱמַר: ״וְנָשִׂיא אֶחָד נָשִׂיא אֶחָד מִמַּטֶּה״. תִּיפּוֹק לֵיהּ שְׁלִיחוּת מֵהָכָא! וְתִיסְבְּרָא דְּהָא שְׁלִיחוּת הוּא? וְהָא קְטַנִּים לָאו בְּנֵי שְׁלִיחוּת נִינְהוּ!",
+                  "אֶלָּא, כִּי הָא דְּרָבָא בַּר רַב הוּנָא. דְּאָמַר רָבָא בַּר רַב הוּנָא אָמַר רַב גִּידֵּל אָמַר רַב: מִנַּיִן שֶׁזָּכִין לְאָדָם שֶׁלֹּא בְּפָנָיו? שֶׁנֶּאֱמַר: ״וְנָשִׂיא אֶחָד נָשִׂיא אֶחָד״. וְתִיסְבְּרַאּ זְכוּת הִיא? הָא חוֹבָה נָמֵי אִיכָּא, דְּאִיכָּא דְּנִיחָא לֵיהּ בְּהַר, וְלָא נִיחָא לֵיהּ בְּבִקְעָה, וְאִיכָּא דְּנִיחָא לֵיהּ בְּבִקְעָה וְלָא נִיחָא לֵיהּ בְּהַר!",
+                  "וְאֶלָּא כִּדְרָבָא בַּר רַב הוּנָא. דְּאָמַר רָבָא בַּר רַב הוּנָא אָמַר רַב גִּידֵּל אָמַר רַב: מִנַּיִן לִיתוֹמִים שֶׁבָּאוּ לַחֲלוֹק בְּנִכְסֵי אֲבִיהֶן שֶׁבֵּית דִּין מַעֲמִידִין לָהֶם אַפּוֹטְרוֹפּוֹס לָחוּב וְלִזְכּוֹת? ״לָחוּב״ אַמַּאי? אֶלָּא: ״לָחוּב עַל מְנָת לִזְכּוֹת״ – תַּלְמוּד לוֹמַר: ״וְנָשִׂיא אֶחָד נָשִׂיא אֶחָד מִמַּטֶּה תִּקְחוּ״."
+                ]
+              ],
+              "link": "/Kiddushin/41b",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 41b:10"
+              ],
+              "ref": "Kiddushin 41a:9-42a:8",
+              "sourceHeRef": "קידושין מ״א ב",
+              "sourceRef": "Kiddushin 41b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A person may appoint an agent to separate <i>terumah</i> and the tithes for him, as [Numbers 18:28] states: \"So shall you separate, also you.\" [The wording implies] the inclusion of an agent. A gentile may not be appointed as an agent, because [the phrase] \"also you\" [implies an equation between you and your agent]. Just as you are a member of the covenant, your agent must be a member of the covenant.",
+              "he": "עוֹשֶׂה אָדָם שָׁלִיחַ לְהַפְרִישׁ לוֹ תְּרוּמוֹת וּמַעַשְׂרוֹת שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר יח כח)</span> \"כֵּן תָּרִימוּ גַם אַתֶּם\" לְרַבּוֹת שְׁלוּחֲכֶם. וְאֵין עוֹשִׂין שָׁלִיחַ עַכּוּ\"ם שֶׁנֶּאֱמַר גַם אַתֶּם מָה אַתֶּם בְּנֵי בְּרִית אַף שְׁלוּחֲכֶם בְּנֵי בְּרִית:",
+              "ref": "Mishneh Torah, Heave Offerings 4:1",
+              "sourceHeRef": "הלכות תרומות ד:א",
+              "sourceRef": "Heave Offerings 4:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>והא</b> <span class=\"hebrew-emphasis\">[ו</span>סברה <span class=\"hebrew-emphasis\">זו]</span> של <b>רב אשי ברותא</b> <span class=\"hebrew-emphasis\">[חיצונית]</span> <b>היא,</b> שאיננה דבר שאפשר לסמוך עליו. כי, <b>מאי שנא</b> <span class=\"hebrew-emphasis\">[במה שונה]</span> <b>תרומה</b> ש<b>לא</b> עושים גוי שליח — משום <b>דכתיב</b> <span class=\"hebrew-emphasis\">[שנאמר]</span> \"כן תרימו גם אתם תרומת ה'\" (במדבר יח, כח) ודורשים <b>\"אתם\"</b> — <b>\"גם אתם\",</b> כהשוואה: <b>מה אתם</b> התורמים הנכם <b>בני ברית</b> — <b>אף שלוחכם נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> צריכים להיות <b>בני ברית.</b>",
+              "ref": "Steinsaltz on Bava Metzia 71b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:י",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:10"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "so shall you on your part set aside a gift for the L<small>ORD</small> from all the tithes that you receive from the Israelites; and from them you shall bring the gift for the L<small>ORD</small> to Aaron the priest.",
+              "he": "כֵּ֣ן תָּרִ֤ימוּ גַם־אַתֶּם֙ תְּרוּמַ֣ת יְהֹוָ֔ה מִכֹּל֙ מַעְשְׂרֹ֣תֵיכֶ֔ם אֲשֶׁ֣ר תִּקְח֔וּ מֵאֵ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל וּנְתַתֶּ֤ם מִמֶּ֙נּוּ֙ אֶת־תְּרוּמַ֣ת יְהֹוָ֔ה לְאַהֲרֹ֖ן הַכֹּהֵֽן׃",
+              "link": "/Numbers/18",
+              "ref": "Numbers 18:28",
+              "sourceHeRef": "במדבר יח:כח",
+              "sourceRef": "Numbers 18:28"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara comments: <b>And this</b> opinion <b>of <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> is an error,</b> since <b>what is different</b> about <b><i>teruma</i></b> that a gentile <b>cannot</b> be appointed an agent? <b>As it is written</b> concerning <i>teruma</i>: “So you also shall set apart a gift unto the Lord of all your tithes” (Numbers 18:28); once the verse states <b>“you,”</b> the addition of the word “also” in the phrase <b>“you also”</b> serves to include an agent. The Sages additionally derive: <b>Just as you,</b> those who appoint agents, are <b>members of the covenant,</b> i.e., Jews, <b>so too, your agents</b> must be <b>members of the covenant.</b> A gentile cannot separate <i>teruma</i> even if appointed as an agent by a Jew.",
+      "he": "וְהָא דְּרַב אָשֵׁי בְּרוּתָא הִיא: מַאי שְׁנָא תְּרוּמָה דְּלָא, דִּכְתִיב ״אַתֶּם״ – ״גַּם אַתֶּם״: מָה אַתֶּם בְּנֵי בְּרִית – אַף שְׁלוּחֲכֶם נָמֵי בְּנֵי בְּרִית.",
+      "ref": "Bava Metzia 71b:10"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A non-Jew may never be appointed as an agent for any mission whatsoever. Similarly, a Jew may never be appointed as an agent for a non-Jew for any mission whatsoever. These concepts are derived from Numbers 18:28: \"And so shall you offer, also yourselves.\" This is interpreted to mean: Just as you are members of the covenant, so too, your agents must be members of the covenant. This principle is applied to the entire Torah.<br>Moreover, the converse is also true: Just as your principals are members of the covenant, so too, in every aspect of Torah law, the principal must be a member of the covenant.",
+              "he": "אֵין הָעַכּוּ\"ם נַעֲשֶׂה שָׁלִיחַ לְדָבָר מִן הַדְּבָרִים שֶׁבָּעוֹלָם. וְכֵן אֵין יִשְׂרָאֵל נַעֲשֶׂה שָׁלִיחַ לְעַכּוּ\"ם לְדָבָר מִן הַדְּבָרִים. שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר יח כח)</span> \"כֵּן תָּרִימוּ גַם אַתֶּם\" מָה אַתֶּם בְּנֵי בְּרִית אַף שְׁלוּחֲכֶם בְּנֵי בְּרִית. וְהוּא הַדִּין לְכָל הַתּוֹרָה כֻּלָּהּ. וּמַה מְשַׁלַּחֲכֶם בֶּן בְּרִית אַף בְּכָל הַתּוֹרָה כֻּלָּהּ הַמְשַׁלֵּחַ בֶּן בְּרִית:",
+              "ref": "Mishneh Torah, Agents and Partners 2:1",
+              "sourceHeRef": "הלכות שלוחין ושותפין ב:א",
+              "sourceRef": "Agents and Partners 2:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שליחות דכל התורה כולה</strong> - שיהא שלוחו כמותו:",
+              "ref": "Rashi on Bava Metzia 71b:11:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:יא:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:11:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מתרומה גמרינן לה</strong> - בקדושין:",
+              "ref": "Rashi on Bava Metzia 71b:11:2",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:יא:ב",
+              "sourceRef": "Rashi on Bava Metzia 71b:11:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "A person may appoint an agent to separate <i>terumah</i> and the tithes for him, as [Numbers 18:28] states: \"So shall you separate, also you.\" [The wording implies] the inclusion of an agent. A gentile may not be appointed as an agent, because [the phrase] \"also you\" [implies an equation between you and your agent]. Just as you are a member of the covenant, your agent must be a member of the covenant.",
+                      "he": "עוֹשֶׂה אָדָם שָׁלִיחַ לְהַפְרִישׁ לוֹ תְּרוּמוֹת וּמַעַשְׂרוֹת שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר יח כח)</span> \"כֵּן תָּרִימוּ גַם אַתֶּם\" לְרַבּוֹת שְׁלוּחֲכֶם. וְאֵין עוֹשִׂין שָׁלִיחַ עַכּוּ\"ם שֶׁנֶּאֱמַר גַם אַתֶּם מָה אַתֶּם בְּנֵי בְּרִית אַף שְׁלוּחֲכֶם בְּנֵי בְּרִית:",
+                      "ref": "Mishneh Torah, Heave Offerings 4:1",
+                      "sourceHeRef": "הלכות תרומות ד:א",
+                      "sourceRef": "Heave Offerings 4:1"
+                    },
+                    {
+                      "en": "There are five [types of individuals] who should not separate <i>terumah</i> and [even] if they do, [the produce] they separated is not considered as <i>terumah</i>: A deaf-mute, a mentally or emotionally unstable person, a minor, a gentile who separated <i>terumah</i> from produce belonging to a Jew, even with his permission, and a person who separates <i>terumah</i> from produce that does not belong to him without the owner's permission. If, however, a person separates <i>terumah</i> from his own produce for the produce of others, the produce is <i>terumah</i> and [the colleague's] produce has been prepared for use. The satisfaction [of allocating the <i>terumah</i>] belongs [to the person who separated it and he may] give to whichever priest he desires.",
+                      "he": "חֲמִשָּׁה לֹא יִתְרֹמוּ וְאִם תָּרְמוּ אֵין תְּרוּמָתָן תְּרוּמָה. הַחֵרֵשׁ. וְהַשּׁוֹטֶה. וְהַקָּטָן. וְהָעַכּוּ\"ם שֶׁתָּרַם אֶת שֶׁל יִשְׂרָאֵל וַאֲפִלּוּ בִּרְשׁוּתוֹ. וְהַתּוֹרֵם אֶת שֶׁאֵינוֹ שֶׁלּוֹ שֶׁלֹּא בִּרְשׁוּת הַבְּעָלִים. אֲבָל הַתּוֹרֵם מִשֶּׁלּוֹ עַל שֶׁל אֲחֵרִים הֲרֵי זוֹ תְּרוּמָה וְתִקֵּן פֵּרוֹתֵיהֶם. וְטוֹבַת הֲנָאָה שֶׁלּוֹ שֶׁנּוֹתְנָהּ לְכָל כֹּהֵן שֶׁיִּרְצֶה:",
+                      "ref": "Mishneh Torah, Heave Offerings 4:2",
+                      "sourceHeRef": "הלכות תרומות ד:ב",
+                      "sourceRef": "Heave Offerings 4:2"
+                    }
+                  ]
+                }
+              },
+              "en": "A non-Jew cannot become an agent for anything in the world, so too, a Jew cannot become an agent for a non-Jew for anything.",
+              "he": "אין העכו\"ם נעשה שליח לדבר מהדברים שבעולם וכן אין ישראל נעשה שליח לעכו\"ם לדבר מהדברים:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 188:1",
+              "sourceHeRef": "חושן משפט קפח:א - אין שליחות לעכו\"ם ויש שליחות לעבד ואשה.",
+              "sourceRef": "Choshen Mishpat 188:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואולם דין <b>שליחות</b> שב<b>כל התורה כולה נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>מתרומה גמרינן לה</b> <span class=\"hebrew-emphasis\">[אנחנו לומדים אותו],</span> שזה המקור להנחה ששליחו של אדם כמותו, ואם כן, האמור בתרומה חל על כל דיני התורה. <b>אלא</b> חייבים לומר שסברה זו שאמר <b>רב אשי ברותא</b> <span class=\"hebrew-emphasis\">[חיצונית]</span> <b>היא</b> ואין להתחשב בה.",
+              "ref": "Steinsaltz on Bava Metzia 71b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:יא",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Torah states: “Sanctify to Me every firstborn, whatever opens the womb…both of man and beast, it is Mine” (Exodus 13:2). In practical terms, the sanctity of a firstborn son is exhibited only by the obligation to redeem him from a priest for five pieces of silver (Exodus 13:13; Numbers 18:15–16). Similarly, the Torah requires that a firstborn male donkey be redeemed by giving a lamb in exchange for it to a priest. If the donkey is not redeemed, it must be decapitated (Exodus 13:13). The male firstborn of cattle, sheep, or goats belonging to a Jew is sacred from birth and must be given to a priest to be sacrificed in the Temple, and its meat is eaten by the priests and their families (Numbers 18:17–18). If a firstborn animal has a physical blemish that disqualifies it from being sacrificed as an offering, it may be slaughtered and eaten like any other non-sacred kosher animal. Nevertheless, it still has to be given to a priest. It is prohibited to intentionally inflict a disqualifying blemish on a firstborn animal, and a firstborn animal may not be used for any mundane purpose even if it is blemished. It is prohibited to put the animal to work, and its fleece may not be used.  Even after the destruction of the Second Temple, a firstborn animal continues to be considered sacred. Since it can no longer be sacrificed in the Temple, various halakhic devices are employed to restrict the classification of animals as firstborn and permit their slaughter as non-sacred animals.",
+              "he": "והעירו כי לא עצם דין השליחות נלמד מתרומה, אלא שבכל התורה למדים מתרומה שאין שליח אלא מי שהוא בן\u0015ברית, ולא גוי (תו\"ח). כי בשאר תחומים אפשר היה לומר שמה שאין גוי יכול לשמש שליח הוא משום שאינו שייך באותה מצוה, אבל במקום שגם הוא שייך בה — צריך לכך לימוד מיוחד (מנחת הבוקר).",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 71b:11",
+              "sourceHeRef": "בְּכוֹרוֹת",
+              "sourceRef": "Firstborn"
+            },
+            {
+              "en": "",
+              "he": "יש מי שפירש כי כשלא רצו חכמים לומר דבר של גנאי על דבריו הדחויים של אחד החכמים השתמשו בלשון זו, לומר: דעה זו חיצונית היא. (ערוך, גאונים). ויש שגרסו \"בדותא\", ופירשו שבכל מקום עניינה לומר שמעולם לא אמר החכם דבר זה, ורק תלו בשמו דברים שלא היו (ריטב\"א).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 71b:11",
+              "sourceHeRef": "ברותא היא",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara continues: The concept of <b>agency with regard to the rest of the</b> <i>halakhot</i> of the <b>Torah is also</b> a matter <b>we learn</b> through tradition by a derivation <b>from <i>teruma</i>,</b> as this is the source for the <i>halakha</i> that the legal status of one’s agent is like that of himself. Therefore, the same <i>halakhot</i> apply to agency in all matters. <b>Rather,</b> it must be concluded that the opinion expressed <b>by <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> is an error.</b>",
+      "he": "שְׁלִיחוּת דְּכׇל הַתּוֹרָה כּוּלָּהּ נָמֵי מִתְּרוּמָה גָּמְרִינַן לַהּ. אֶלָּא דְּרַב אָשֵׁי בְּרוּתָא הִיא.",
+      "ref": "Bava Metzia 71b:11"
+    },
+    {
+      "commentary": {
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> אמר רב אשי כי אמרינן אין שליחות לנכרי כצ\"ל:",
+              "ref": "Maharam on Bava Metzia 71b:1",
+              "sourceHeRef": "מהר\"ם על בבא מציעא ע״א ב:א",
+              "sourceRef": "Maharam on Bava Metzia 71b:1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A non-Jew may never be appointed as an agent for any mission whatsoever. Similarly, a Jew may never be appointed as an agent for a non-Jew for any mission whatsoever. These concepts are derived from Numbers 18:28: \"And so shall you offer, also yourselves.\" This is interpreted to mean: Just as you are members of the covenant, so too, your agents must be members of the covenant. This principle is applied to the entire Torah.<br>Moreover, the converse is also true: Just as your principals are members of the covenant, so too, in every aspect of Torah law, the principal must be a member of the covenant.",
+              "he": "אֵין הָעַכּוּ\"ם נַעֲשֶׂה שָׁלִיחַ לְדָבָר מִן הַדְּבָרִים שֶׁבָּעוֹלָם. וְכֵן אֵין יִשְׂרָאֵל נַעֲשֶׂה שָׁלִיחַ לְעַכּוּ\"ם לְדָבָר מִן הַדְּבָרִים. שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר יח כח)</span> \"כֵּן תָּרִימוּ גַם אַתֶּם\" מָה אַתֶּם בְּנֵי בְּרִית אַף שְׁלוּחֲכֶם בְּנֵי בְּרִית. וְהוּא הַדִּין לְכָל הַתּוֹרָה כֻּלָּהּ. וּמַה מְשַׁלַּחֲכֶם בֶּן בְּרִית אַף בְּכָל הַתּוֹרָה כֻּלָּהּ הַמְשַׁלֵּחַ בֶּן בְּרִית:",
+              "ref": "Mishneh Torah, Agents and Partners 2:1",
+              "sourceHeRef": "הלכות שלוחין ושותפין ב:א",
+              "sourceRef": "Agents and Partners 2:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> ד\"ה אבל אנן לדידהו וכו' עד ואתם שולחים לא נאמרה וכו' כצ\"ל:",
+                      "ref": "Maharam on Bava Metzia 71b:2",
+                      "sourceHeRef": "מהר\"ם על בבא מציעא ע״א ב:ב",
+                      "sourceRef": "Maharam on Bava Metzia 71b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל אנן לדידהו</strong> - כגון רישא דברייתא הוי שליח וסיפא לחומרא כדאמרן:",
+              "ref": "Rashi on Bava Metzia 71b:12:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:יב:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:12:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "A person may appoint an agent to separate <i>terumah</i> and the tithes for him, as [Numbers 18:28] states: \"So shall you separate, also you.\" [The wording implies] the inclusion of an agent. A gentile may not be appointed as an agent, because [the phrase] \"also you\" [implies an equation between you and your agent]. Just as you are a member of the covenant, your agent must be a member of the covenant.",
+                      "he": "עוֹשֶׂה אָדָם שָׁלִיחַ לְהַפְרִישׁ לוֹ תְּרוּמוֹת וּמַעַשְׂרוֹת שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(במדבר יח כח)</span> \"כֵּן תָּרִימוּ גַם אַתֶּם\" לְרַבּוֹת שְׁלוּחֲכֶם. וְאֵין עוֹשִׂין שָׁלִיחַ עַכּוּ\"ם שֶׁנֶּאֱמַר גַם אַתֶּם מָה אַתֶּם בְּנֵי בְּרִית אַף שְׁלוּחֲכֶם בְּנֵי בְּרִית:",
+                      "ref": "Mishneh Torah, Heave Offerings 4:1",
+                      "sourceHeRef": "הלכות תרומות ד:א",
+                      "sourceRef": "Heave Offerings 4:1"
+                    },
+                    {
+                      "en": "There are five [types of individuals] who should not separate <i>terumah</i> and [even] if they do, [the produce] they separated is not considered as <i>terumah</i>: A deaf-mute, a mentally or emotionally unstable person, a minor, a gentile who separated <i>terumah</i> from produce belonging to a Jew, even with his permission, and a person who separates <i>terumah</i> from produce that does not belong to him without the owner's permission. If, however, a person separates <i>terumah</i> from his own produce for the produce of others, the produce is <i>terumah</i> and [the colleague's] produce has been prepared for use. The satisfaction [of allocating the <i>terumah</i>] belongs [to the person who separated it and he may] give to whichever priest he desires.",
+                      "he": "חֲמִשָּׁה לֹא יִתְרֹמוּ וְאִם תָּרְמוּ אֵין תְּרוּמָתָן תְּרוּמָה. הַחֵרֵשׁ. וְהַשּׁוֹטֶה. וְהַקָּטָן. וְהָעַכּוּ\"ם שֶׁתָּרַם אֶת שֶׁל יִשְׂרָאֵל וַאֲפִלּוּ בִּרְשׁוּתוֹ. וְהַתּוֹרֵם אֶת שֶׁאֵינוֹ שֶׁלּוֹ שֶׁלֹּא בִּרְשׁוּת הַבְּעָלִים. אֲבָל הַתּוֹרֵם מִשֶּׁלּוֹ עַל שֶׁל אֲחֵרִים הֲרֵי זוֹ תְּרוּמָה וְתִקֵּן פֵּרוֹתֵיהֶם. וְטוֹבַת הֲנָאָה שֶׁלּוֹ שֶׁנּוֹתְנָהּ לְכָל כֹּהֵן שֶׁיִּרְצֶה:",
+                      "ref": "Mishneh Torah, Heave Offerings 4:2",
+                      "sourceHeRef": "הלכות תרומות ד:ב",
+                      "sourceRef": "Heave Offerings 4:2"
+                    }
+                  ]
+                }
+              },
+              "en": "A non-Jew cannot become an agent for anything in the world, so too, a Jew cannot become an agent for a non-Jew for anything.",
+              "he": "אין העכו\"ם נעשה שליח לדבר מהדברים שבעולם וכן אין ישראל נעשה שליח לעכו\"ם לדבר מהדברים:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 188:1",
+              "sourceHeRef": "חושן משפט קפח:א - אין שליחות לעכו\"ם ויש שליחות לעבד ואשה.",
+              "sourceRef": "Choshen Mishpat 188:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>איכא דאמרי</b> <span class=\"hebrew-emphasis\">[יש אומרים]</span> שבנוסח אחר <b>אמר רב אשי: כי אמרינן</b> <span class=\"hebrew-emphasis\">[כאשר אומרים אנו]</span> ש<b>אין שליחות לגוי</b> — <b>הני מילי אינהו לדידן</b> <span class=\"hebrew-emphasis\">[דברים אלה</span> אמורים <span class=\"hebrew-emphasis\">שהם</span> יהיו שלוחים <span class=\"hebrew-emphasis\">עבורנו],</span> <b>אבל אנן לדידהו הוינא להו שליח</b> <span class=\"hebrew-emphasis\">[אבל אנחנו עבורם נעשים להם שלוחים].</span> ועל כך אמרו: <b>והא</b> <span class=\"hebrew-emphasis\">[ו</span>סברה <span class=\"hebrew-emphasis\">זו]</span> של <b>רב אשי ברותא</b> <span class=\"hebrew-emphasis\">[חיצונית]</span> <b>היא,</b> והטעם: <b>מאי שנא אינהו לדידן</b> <span class=\"hebrew-emphasis\">[מה שונה הם עבורנו]</span> ש<b>לא</b> — <b>דכתיב</b> <span class=\"hebrew-emphasis\">[שנאמר]</span> <b>\"אתם\",</b> ואילו <b>\"גם אתם\"</b> בא <b>לרבות שלוחכם</b> כמותכם, ומכתוב זה עצמו נובע גם: <b>מה אתם בני ברית</b> — <b>אף שלוחכם בני ברית.</b>",
+              "ref": "Steinsaltz on Bava Metzia 71b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:יב",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:12"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "so shall you on your part set aside a gift for the L<small>ORD</small> from all the tithes that you receive from the Israelites; and from them you shall bring the gift for the L<small>ORD</small> to Aaron the priest.",
+              "he": "כֵּ֣ן תָּרִ֤ימוּ גַם־אַתֶּם֙ תְּרוּמַ֣ת יְהֹוָ֔ה מִכֹּל֙ מַעְשְׂרֹ֣תֵיכֶ֔ם אֲשֶׁ֣ר תִּקְח֔וּ מֵאֵ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל וּנְתַתֶּ֤ם מִמֶּ֙נּוּ֙ אֶת־תְּרוּמַ֣ת יְהֹוָ֔ה לְאַהֲרֹ֖ן הַכֹּהֵֽן׃",
+              "link": "/Numbers/18",
+              "ref": "Numbers 18:28",
+              "sourceHeRef": "במדבר יח:כח",
+              "sourceRef": "Numbers 18:28"
+            }
+          ]
+        }
+      },
+      "en": "<b>There are</b> those <b>who say</b> a different version of this discussion: <b><span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> said: When we say</b> that <b>there is no agency for a gentile, this matter</b> applies concerning <b>them</b> serving as agents <b>for us, but we can be agents for them.</b> With regard to this comment it was said: <b>And this</b> opinion <b>of <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> is an error,</b> as <b>what is different</b> that <b>they cannot</b> serve as agents <b>for us? As it is written</b> concerning <i>teruma</i>: “So you also shall set apart a gift unto the Lord of all your tithes” (Numbers 18:28). Once the verse states <b>“you,”</b> the addition of the word “also” in the phrase <b>“you also”</b> serves <b>to include your agents.</b> The Sages also derive: <b>Just as you,</b> those who appoint agents, are <b>members of the covenant,</b> i.e., Jews, <b>so too, your agents</b> must be <b>members of the covenant.</b>",
+      "he": "אִיכָּא דְּאָמְרִי, אָמַר רַב אָשֵׁי: כִּי אָמְרִינַן אֵין שְׁלִיחוּת לְגוֹי הָנֵי מִילֵּי אִינְהוּ לְדִידַן, אֲבָל אֲנַן לְדִידְהוּ הָוֵינָא לְהוּ שְׁלִיחַ. וְהָא דְּרַב אָשֵׁי בְּרוּתָא הִיא, מַאי שְׁנָא אִינְהוּ לְדִידַן דְּלָא – דִּכְתִיב: ״אַתֶּם״ ״גַּם אַתֶּם״ – לְרַבּוֹת שְׁלוּחֲכֶם: מָה אַתֶּם בְּנֵי בְרִית – אַף שְׁלוּחֲכֶם בְּנֵי בְרִית.",
+      "ref": "Bava Metzia 71b:12"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אנן לדידהו נמי</strong> - מה אתם בני ברית ואתם היינו שולחים לא נאמרה שליחות אלא בשולח ישראל ושליח ישראל מאן דגריס הכא אף שלוחכם בני ברית משתבש:",
+              "ref": "Rashi on Bava Metzia 71b:13:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:יג:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:13:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואם כן, <b>אנן לדידהו נמי</b> <span class=\"hebrew-emphasis\">[אנו עבורם גם כן]</span> <b>מה אתם בני ברית קאמר</b> <span class=\"hebrew-emphasis\">[אמר],</span> ושאינם בני ברית — לא למדנו שעושים שליח. <b>אלא</b> ודאי <b>הא</b> <span class=\"hebrew-emphasis\">[</span>סברה <span class=\"hebrew-emphasis\">זו]</span> של <b>רב אשי ברותא</b> <span class=\"hebrew-emphasis\">[חיצנית]</span> <b>היא</b> ואין לסמוך עליה.",
+              "ref": "Steinsaltz on Bava Metzia 71b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:יג",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:13"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara continues: Therefore, <b>we also</b> cannot serve as agents <b>for them,</b> because the same principle <b>is said: Just as you,</b> those who appoint the agents, <b>are children of the covenant,</b> so too, all who appoint agents must be members of the covenant. <b>Rather,</b> it must be concluded that this opinion expressed <b>by <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> is an error.</b>",
+      "he": "אֲנַן לְדִידְהוּ נָמֵי, מָה אַתֶּם בְּנֵי בְרִית קָאָמַר! אֶלָּא הָא דְּרַב אָשֵׁי בְּרוּתָא הִיא.",
+      "ref": "Bava Metzia 71b:13"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara cites a related <i>baraita</i> where <b>it was taught</b> that <b>Rabban Shimon ben Gamliel says: With regard to people, any</b> child <b>that remains</b> alive <b>thirty days</b> after birth <b>is no</b> longer suspected of being a <b>stillborn,</b> and is assumed to be a regular child who will go on living. Proof is cited from that which <b>is stated</b> with regard to the laws of redemption and valuations: <b>“And their redemption, from a month old you shall redeem</b> according to your valuation, five shekels of silver, according to the shekel of the Sanctuary; it is twenty <i>gera</i>” (Numbers 18:16), indicating that no value is ascribed to an infant less than a month old, as its viability is uncertain. Likewise, a newborn <b>animal</b> that survives for <b>eight days is no</b> longer suspected of being a <b>stillborn,</b> as <b>it is stated:</b> “When a bullock or a sheep or a goat is born, it shall be seven days under its mother; <b>and from the eighth day and onward it may be accepted for an offering</b> made by fire to the Lord” (Leviticus 22:27).",
+                  "The Gemara asks: Is that to say by inference: If the child <b>did not</b> yet <b>remain</b> alive for thirty days, <b>it is</b> considered an <b>uncertainty</b> whether or not it is a stillborn with regard to several <i>halakhot</i>?"
+                ],
+                [
+                  "If so, with regard to <b>circumcision, how can we circumcise him?</b> Perhaps he is a stillborn and one may not desecrate Shabbat for his circumcision.",
+                  "<b>Rav Adda bar Ahava said: One may circumcise him whichever way you look at it,</b> based on the following calculation: <b>If he is</b> a child who will <b>live,</b> the circumcisor <b>may well circumcise</b> the child, <b>and if not,</b> if the child is a stillborn and the circumcisor <b>is</b> merely <b>cutting flesh,</b> one who cuts the flesh of a corpse or the flesh of one with the legal status of a corpse is not considered to have made a wound, and therefore has not performed a prohibited labor.",
+                  "The Gemara raises a difficulty: <b>And however,</b> with regard to <b>that which was taught</b> in a <i>baraita</i>: If there is <b>uncertainty</b> whether he was <b>born after seven</b> months of pregnancy, and <b>uncertainty</b> whether he was <b>born after eight</b> months, <b>one does not desecrate Shabbat on his</b> behalf and circumcise him. The Gemara asks: <b>Why? Let us circumcise him</b> on Shabbat, as <b>whichever way you look at it,</b> that is appropriate. <b>If he is</b> a child that will <b>live,</b> the circumcisor <b>may well circumcise</b> the child, <b>and if not, he is</b> merely <b>cutting</b> the <b>flesh</b> of a corpse, which does not violate any Shabbat prohibitions.",
+                  "<b>Mar, son of Ravina, said: Rav Naḥumei bar Zekharya and I interpreted</b> this as follows: Indeed, as for <b>circumcision</b> itself, <b>we</b> do <b>indeed circumcise</b> that child even on Shabbat. It <b>was only necessary</b> to say that one does not desecrate Shabbat on his behalf <b>with regard to</b> the issue of preparing <b>facilitators of circumcision</b> on Shabbat, <b>in accordance with</b> the opinion of <b>Rabbi Eliezer</b> that actions that facilitate circumcision at its appointed time override Shabbat.",
+                  "<b>Abaye said:</b> The issue of whether a child who has not yet survived thirty days from his birth is considered viable is <b>parallel to</b> a dispute between <b>the <i>tanna’im</i></b> with regard to the interpretation of the verse: <b>“And if any animal of which you may eat shall die,</b> one who touches its carcass shall be impure until the evening” (Leviticus 11:39). The verse is interpreted as coming <b>to include offspring of eight</b> months. Large domesticated animals typically give birth after a gestation period of nine months. If an animal of that sort gives birth after eight months, its offspring is deemed to be not viable and <b>its slaughter does not purify it.</b> Rather, it assumes the status of an unslaughtered animal, which is not only prohibited to be eaten, but also transmits ritual impurity to those who touch or move it. <b>Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Elazar, son of Rabbi Shimon, say: Its slaughter purifies it,</b> and it does not assume unslaughtered animal status.",
+                  "<b>What, is it not that this</b> is the matter with regard to which <b>they disagree? That</b> this <b>Master holds</b> that the animal <b>is</b> considered <b>alive</b> and therefore its slaughter is effective, as is the case with regard to all pure animals, <b>while</b> this <b>Master,</b> the first <i>tanna</i>, <b>holds</b> that it <b>is</b> considered <b>dead.</b>",
+                  "<b>Rava said: If so, instead of disagreeing over</b> the issue of <b>impurity and purity, let them disagree over</b> the issue of <b>eating,</b> i.e., whether it is permitted to eat this offspring after it is slaughtered. Since they did not dispute this point, their disagreement must revolve around a different factor.",
+                  "<b>Rather,</b> it must be that <b>everyone agrees</b> that <b>it is</b> considered <b>dead,</b> yet <b>Rabbi Yosei, son of Rabbi Yehuda, and Rabbi Elazar, son of Rabbi Shimon, hold</b> that it has the legal status <b>like</b> that of <b>a <i>tereifa</i>,</b> an animal with a condition that will cause it to die within twelve months. With regard to a <b><i>tereifa</i>, is it not that even though it is</b> considered <b>dead</b> from the perspective of <i>halakha</i> because there is no possibility of long-term survival, nevertheless, if it is slaughtered, <b>its slaughter purifies it?</b> It does not cause ritual impurity like an unslaughtered animal, even though it may not be eaten. <b>Here too, it is no different. And the Rabbis,</b> who do not accept this claim, say: <b>It is not similar to a <i>tereifa</i>,</b> since <b>a <i>tereifa</i> had a period of fitness</b> before it became a <i>tereifa</i>. However, <b>this</b> animal that was born after eight months of pregnancy <b>did not</b> ever <b>have a period of fitness.</b>",
+                  "<b>And if you say:</b> With regard to an animal that was a <b><i>tereifa</i> from the womb</b> and was born in that condition, <b>what is there to say?</b> It too never had a period of fitness. There is a distinction between the cases. <b>There,</b> with regard to a <i>tereifa</i>, <b>there is slaughter in its type; here,</b> with regard to a stillborn, <b>there is no slaughter in its type,</b> as there is no circumstance where slaughter of a stillborn animal is appropriate."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Shabbat 135b:13",
+                "Shabbat 135b:14",
+                "Shabbat 136a:1",
+                "Shabbat 136a:2",
+                "Shabbat 136a:3",
+                "Shabbat 136a:4",
+                "Shabbat 136a:5",
+                "Shabbat 136a:6",
+                "Shabbat 136a:7",
+                "Shabbat 136a:8",
+                "Shabbat 136a:9"
+              ],
+              "he": [
+                [
+                  "תַּנְיָא: רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: כׇּל שֶׁשָּׁהָה שְׁלֹשִׁים יוֹם, בָּאָדָם — אֵינוֹ נֵפֶל, שֶׁנֶּאֱמַר: ״וּפְדוּיָו מִבֶּן חֹדֶשׁ תִּפְדֶּה״. שְׁמֹנַת יָמִים בַּבְּהֵמָה — אֵינוֹ נֵפֶל, שֶׁנֶּאֱמַר: ״וּמִיּוֹם הַשְּׁמִינִי וָהָלְאָה יֵרָצֶה לְקׇרְבַּן וְגוֹ׳״.",
+                  "הָא לֹא שָׁהָה — סְפֵיקָא הָוֵי,"
+                ],
+                [
+                  "מִימְהָל הֵיכִי מָהֲלִינַן לֵיהּ!",
+                  "אָמַר רַב אַדָּא בַּר אַהֲבָה: מָלִין אוֹתוֹ מִמָּה נַפְשָׁךְ: אִם חַי הוּא — שַׁפִּיר קָא מָהֵיל, וְאִם לָאו — מְחַתֵּךְ בְּבָשָׂר הוּא.",
+                  "וְאֶלָּא הָא דְּתַנְיָא: סָפֵק בֶּן שִׁבְעָה, סָפֵק בֶּן שְׁמוֹנָה — אֵין מְחַלְּלִין עָלָיו אֶת הַשַּׁבָּת, אַמַּאי? נִימְהֲלֵיהּ מִמָּה נַפְשָׁךְ! אִם חַי הוּא — שַׁפִּיר קָא מָהֵיל, וְאִם לָאו — מְחַתֵּךְ בְּבָשָׂר הוּא!",
+                  "אָמַר מָר בְּרֵיהּ דְּרָבִינָא: אֲנָא וְרַב נְחוּמִי בַּר זְכַרְיָה תַּרְגֵּימְנָא: מִימְהָל — הָכִי נָמֵי מָהֲלִינַן לֵיהּ. לֹא נִצְרְכָה אֶלָּא לְמַכְשִׁירֵי מִילָה, וְאַלִּיבָּא דְּרַבִּי אֱלִיעֶזֶר.",
+                  "אָמַר אַבָּיֵי, כְּתַנָּאֵי: ״וְכִי יָמוּת מִן הַבְּהֵמָה אֲשֶׁר הִיא לָכֶם לְאׇכְלָה״, לְהָבִיא בֶּן שְׁמֹנֶה שֶׁאֵין שְׁחִיטָתוֹ מְטַהַרְתּוֹ. רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן אוֹמְרִים: שְׁחִיטָתוֹ מְטַהַרְתּוֹ.",
+                  "מַאי לָאו בְּהָא קָא מִיפַּלְגִי: דְּמָר סָבַר חַי הוּא, וּמָר סָבַר מֵת הוּא.",
+                  "אָמַר רָבָא: אִי הָכִי, אַדְּמִיפַּלְגִי לְעִנְיַן טוּמְאָה וְטׇהֳרָה, לִיפַּלְגִי לְעִנְיַן אֲכִילָה!",
+                  "אֶלָּא דְּכוּלֵּי עָלְמָא מֵת הוּא, וְרַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה וְרַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן סָבְרִי כִּטְרֵפָה: טְרֵפָה לָאו אַף עַל גַּב דְּמֵתָה הִיא — שְׁחִיטָתָהּ מְטַהַרְתָּהּ, הָכָא נָמֵי — לָא שְׁנָא. וְרַבָּנַן: לָא דָּמֵי לִטְרֵפָה, טְרֵפָה — הָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר, הַאי — לֹא הָיְתָה לָהּ שְׁעַת הַכּוֹשֶׁר.",
+                  "וְכִי תֵּימָא: טְרֵפָה מִבֶּטֶן, מַאי אִיכָּא לְמֵימַר? הָתָם — יֵשׁ בְּמִינָהּ שְׁחִיטָה, הָכָא — אֵין בְּמִינָהּ שְׁחִיטָה."
+                ]
+              ],
+              "link": "/Shabbat/136a",
+              "originalRefsBeforeRewriting": [
+                "Shabbat 136a:8"
+              ],
+              "ref": "Shabbat 135b:13-136a:9",
+              "sourceHeRef": "שבת קל״ו א",
+              "sourceRef": "Shabbat 136a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "A man may appoint either a man or a woman as an agent. He may even appoint a married woman, a servant or a maidservant. Since they possess a developed intellectual capacity and are obligated to perform some of the mitzvot, they may serve as agents with regard to financial matters.<br>A person who does not have a developed intellectual capacity - i.e., a deaf-mute, a mentally or emotionally unsound individual or a minor - may not be appointed as an agent, nor may they appoint agents. This applies to both a male minor and a female minor.<br>Accordingly, if a person sends a son who is below the age of majority to a storekeeper for oil, the storekeeper measures out an <i>isar's</i> worth of oil for him and gives the child an <i>isar</i> as change, but the child loses the oil and the <i>isar</i> he gave him, the storekeeper is liable to pay. For the father sent the child only to inform the storekeeper that he needed the oil, and the storekeeper should have sent it with a mature person. Similar laws apply in all analogous situations. If, however, the recipient explicitly told the storekeeper: \"Send it to me with the child,\" the storekeeper is not liable.",
+              "he": "עוֹשֶׂה אָדָם שָׁלִיחַ אִישׁ אוֹ אִשָּׁה וַאֲפִלּוּ אֵשֶׁת אִישׁ וַאֲפִלּוּ עֶבֶד וְשִׁפְחָה הוֹאִיל וְהֵן בְּנֵי דַּעַת וְיֶשְׁנָן בְּמִקְצָת מִצְוֹת נַעֲשִׂין שְׁלוּחִין לְמַשָּׂא וּמַתָּן. אֲבָל מִי שֶׁאֵינָן בְּנֵי דַּעַת וְהֵן חֵרֵשׁ שׁוֹטֶה וְקָטָן אֵינָן נַעֲשִׂין שְׁלוּחִין וְלֹא עוֹשִׂין שָׁלִיחַ. אֶחָד הַקָּטָן וְאֶחָד הַקְּטַנָּה. לְפִיכָךְ הַשּׁוֹלֵחַ בְּנוֹ קָטָן אֵצֶל הַחֶנְוָנִי וּמָדַד לוֹ בְּאִיסָר שֶׁמֶן וְנָתַן לוֹ אֶת הָאִיסָר וְאִבֵּד אֶת הַשֶּׁמֶן וְאֶת הָאִיסָר הַחֶנְוָנִי חַיָּב לְשַׁלֵּם שֶׁלֹּא שְׁלָחוֹ אֶלָּא לְהוֹדִיעוֹ וְלֹא הָיָה לוֹ לְשַׁלֵּחַ אֶלָּא עִם בֶּן דַּעַת. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה. וְאִם פֵּרֵשׁ וְאָמַר שְׁלַח לִי עִם הַקָּטָן הֲרֵי זֶה פָּטוּר:",
+              "ref": "Mishneh Torah, Agents and Partners 2:2",
+              "sourceHeRef": "הלכות שלוחין ושותפין ב:ב",
+              "sourceRef": "Agents and Partners 2:2"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רבינא אמר נהי דשליחות לנכרי <span class=\"parenthesized\">(לא הוי)</span> [לית ליה] זכייה מדרבנן אית ליה, מידי דהוה אקטן, קטן לאו אף על גב דשליחות לית ליה זכייה מדרבנן אית ליה.</b> הקשה הרמב״ן ז״ל, ואי מדרבנן אמאי מותר, דהא רבית דאורייתא [הוא]. והוא ז״ל תירץ, דכיון דזוזי לנכרי הוא דפרע להו, והאי רבית נמי לכיסו של נכרי הוא דנופל, דילמא לא אסיר מדאורייתא אלא מדרבנן, ואתא דרבנן ואפקע דרבנן. ואין תירוצו של רבנו ז״ל מחוור. ומסתברא דכל דבר שבממון משום הפקר בית דין נגעו בה, ומתנין בו לעקור דבר מן התורה, כדאמרינן ביבמות פרק האשה רבה <span class=\"parenthesized\">(יבמות פט, ב)</span>.<br><b></b>עוד הקשה הרב ז״ל דקטן אית ליה זכייה אף מדאורייתא, כדאיתא בריש פרק [האיש] מקדש <span class=\"parenthesized\">(מב, א)</span>, מניין ששלוחו של אדם כמותו שנאמר נשיא אחד וכו', אלמא זכייה לקטן מדאורייתא אית ליה. ותירץ הוא ז״ל, דכיון דאקשינן עלה התם ותסברא הא זכות הוא חובה הוא, דאיכא דניחא ליה בהר ולא ניחא ליה בבקעה וכו', ואוקמה כדרב דאמר מנין ליתומים שבאו לחלוק בנכסי אביהם וכו', לא תפשוט שזוכין לאדם שלא בפניו בדבר שאין לו, דהתם שלהם היתה וחלוקתן גלוי מלתא בעלמא היא ובית דין מעמידין אפוטרופוס לכך, אבל זכייה לקטן מדאורייתא לית ליה כי היכי דלית ליה שליחות, ואע״ג דזכייה לא מטעם שליחות היא כדאיתא התם בקדושין. והא דאמרינן בכתובות <span class=\"parenthesized\">(יא, א)</span>, גר קטן מטבילין אותו על דעת בית דין. שזכין לו לאדם שלא בפניו, ומשמע דגר גמור הוא מדאורייתא, איכא למימר זכות גרות שאני, אבל בעסקי ממון אין לו זכייה אלא מדרבנן. ואין דבריו מחוורים בעיני, דבכולי תלמודא משמע דאית ליה מדאורייתא זכייה, דהא אית ליה חצר אפילו במציאה כר' יוחנן בפרק קמא דמכלתין בחצר <span class=\"parenthesized\">(י, ב)</span>, וחצר מדין זכייה הוא כידה, וכדאמר ר' יוסי בר חנינא <span class=\"parenthesized\">(לעיל בבא מציעא יא, א)</span> זכתה לי חצרי זכתה לו חצרו, ואמרינן <span class=\"parenthesized\">(שם יב, א)</span> חצר משום ידה אתרבאי ולא גרע משליחות גבי גט דחוב הוא לה אין חבין לו לאדם שלא בפניו, גבי מתנה דזכות הוא לה זכין לאדם שלא בפניו. ורש״י ז״ל פי' שם בקדושין, דאמסקנא נמי תפשוט שזכין לאדם אפילו לחוב על מנת לזכות.<br><b></b>והראב״ד ז״ל נראה דגריס זכייה מדאורייתא אית ליה מידי דהוה <span class=\"parenthesized\">(אקניין)</span> [אקטן], ומשום הכי רישא מותר, דישראל זכי ליה, דאמר ליה נכרי לישראל הב ליה, וישראל זכי ליה לנכרי מן התורה ומשום הכי מותר, וסיפא דאמר ישראל לנכרי הב ליה ואע״ג דנכרי לא מזכי ליה לישראל מדאורייתא אבל מדרבנן מיהא זכי ומשום הכי אסור, ע״כ. ואף זה אינו מחוור, שאין <span class=\"parenthesized\">(היום)</span> [הנוסחאות מודות – שם] לו, אבל משמע דנכרי לית ליה זכייה אפילו לרבינא אלא מדרבנן, אבל קטן אית ליה זכייה מדאורייתא, והכי קאמר נכרי אע״ג דלית ליה שליחות אפילו מדרבנן, זכייה מדרבנן מיהא אית ליה, מידי דהוה אקטן, דאע״ג דלית ליה שליחות מדאורייתא אית ליה זכייה מדאורייתא, ולאו לדמויינהו לגמרי אמר, אלא לומר דכי היכי דקטן אית ליה זכייה אע״ג דלית ליה שליחות, כך נראה לי.<br><b></b>ואני תמיה, מנין שאין זכייה לנכרי מדאורייתא דהיכא אימעיט, אי משום דילפינן ליה משליחות, והא זכייה לאו מדין שליחות היא כדמוכח התם בקדושין, וכי תימא כל דלא אשכחן דאית ליה זכייה, ממילא לית ליה, והא שליחות גופיה אי לאו דכתיב אתם גם אתם [מה אתם] בני ברית אף שלוחכם בני ברית <span class=\"parenthesized\">(קידושין מא, ב)</span> דמעטיה קרא בהדיא, הוה אמרינן דיש שליחות אפילו לנכרי. וניחא לי, דודאי כל דלא רבייה קרא בהדיא לזכייה לית ליה, ותדע לך, דהא אפילו בישראל נמי, הא אמרינן התם בקדושין, מנין שזכין לאדם שלא בפניו, שנאמר נשיא אחד ונשיא אחד, אלמא אי לאו דגלי קרא הוה אמרינן דאין זכין לו לאדם ואפילו לישראל, והדין נותן, דאיזה זכות או שעבוד יש לו לאדם על חברו שיזכה על ידו, אלא דרבייה רחמנא, וכיון דנכרי לא אשכחן דרבייה רחמנא לזכייה, שמע מינה לישראל דרבי קרא אית ליה, נכרי דלא רבי לית ליה. וא״ת אם כן למה הוצרך הכתוב למעטו משליחות. י״ל דכיון דרבי בהדיא בתרומה להיות שלוחו כמותו מיעט נכרי, אבל בזכייה לא רבייה בהדיא דלצטריך למעוטי נכרי, אלא גלויי מילתא בעלמא דגלי קרא דאית ליה זכייה לישראל נשיא אחד נשיא אחד, <span class=\"parenthesized\">(וכיון)</span> [והיכא] דגלי גלי, דהיינו בישראל ממש כן חלוקת הארץ, בעלמא לא גלי, אלא אדרבה מכיון דאשכחן בשליחות דחלק הכתוב בין ישראל לנכרי אף בזכייה כן, כך נראה לי.<br><b></b>תוספתא <span class=\"parenthesized\">(פ״ה, ה״ח)</span> ישראל שאמר לנכרי, הילך שכרך ובא והלוה מעותי ברבית אסור. נכרי שאמר לישראל, הילך שכרך והלוה מעותי ברבית מותר, אבל אסור מפני מראית העין. מעותיו של ישראל מופקדות אצל הנכרי מותר ללוות ממנו ברבית, ושל נכרי המופקדות אצל ישראל אסור להלוותן ברבית, זה הכלל, כל שבאחריות ישראל אסור וכל שבאחריות נכרי מותר, כך הגרסא בכל הנוסחאות, וכך היא גם בפר״ח ז״ל. כתבתיה בריש פרקין <span class=\"parenthesized\">(בבא מציעא סא, ב, בד״ה יש מי)</span> גבי תולה מעותיו בנכרי, וכבר כתבתי מה שנראה לי בפירושה, והכי קאמר, מעות של ישראל המופקדות ביד נכרי שלא להלוותם אלא מופקדות בידו סתם אין הנכרי רשאי [ליגע – ש״מ] בהן להלוותם, ולפיכך אם בא הנכרי לשלוח בהן יד ולהלוותם ברבית, הרי המעות באחריות של נכרי, וכדידיה דמו, ולפיכך מותר להלוותם ברבית, ואע״פ שהוא נותן הרבית לישראל המפקיד, מתנה בעלמא הוא דקא יהיב ואיפכא במעות של נכרי המופקדות [ביד] <span class=\"parenthesized\">(ב)</span>ישראל. וכלפי מה ששנה ברישא, ישראל שאמר לנכרי הילך שכרך ובא והלוה מעותי ברבית אסור, תנא הכא שאם לא אמר לו להלוותם ברבית [מותר]. כך נראה לי פירושה. ומקצת מרבותי ז״ל שבשו גרסת <span class=\"parenthesized\">(התוספות)</span> [התוספתא], ואמרו דמשובשת היא בנוסחאות, ואיפכא גרסינן, מעות של נכרי המופקדות ביד ישראל מותר להלוותן ברבית, ומעות של ישראל ביד נכרי אסור להלוותן ברבית. ואינה אלא כמו שכתבתי, ואין לדחוק ולהפך את הנסחאות וכל שכן שכתבה כן ר״ח ז״ל.<br><b></b>וסוף אותה תוספתא, ישראל שנעשה לנכרי אפטרופוס או סנטר מותר ללוות ממנו ברבית, ונכרי שנעשה לישראל אפטרופוס או סנטר אסור ללוות ממנו ברבית. כך הגרסא בנסחאות, וקא משמע לן הך סיפא, שאף מפני מראית העין אין כאן, דקול יוצא לאפוטרופסות ולסנטרות, ומידע ידעי דמעות של נכרי הם ומותר. והא דקתני רישא דתוספתא, נכרי שאמר לו לישראל הילך שכרך ובא והלוה מעותי ברבית מותר, יש מי שאומר, דוקא בשקצץ ליתן לו דינר בין הרויח בין הפסיד, אבל אם אמר פליגנא לך ברוחא אסור, ואע״ג דלית ליה בהפסד כלום, לפי שהוא מרויח ברבית דישראל. ויש שמתירין, <span class=\"parenthesized\">(ו)</span>הואיל ולא משום כספו בא לו ועמלו קא שקיל, וכן דעת הרמב״ן ז״ל מסכמת.<br><b></b>נשאלה שאלה לפני רבנו יצחק הזקן ז״ל הידוע בעל התוספות, בישראל שאמר לנכרי לוה לי מעות מישראל בשמך ומאי דיהבת בהו קרנא ורביתא עלי, והמלוה אינו יודע שבשביל ישראל הוא לוה אותם, מאי, מי אמרינן אין שליחות לנכרי ושרי, כיון דישראל זה אין לו עסק עם ישראל המלוה, או דילמא כיון דיש שליחות לנכרי לחומרא, הא נמי אסור, ומלוה נמי אי ידע לבסוף אסור ליטול ממנו רבית. והשיב, נראה לי שהוא מותר, משום דאם תימצי לומר נמי דאסור היכא דשוייה שליח, הכא לא מחזקינן אינשי ברשיעי דנימא שליח שווייה, אלא דעתו היה שילוה הנכרי מישראל ויחזור וילום לו, ואפילו פירש בפירוש בפני עדים שיהא שלוחו, לא מחמרינן כולי האי, ולא דמי לחומרא דקתני סיפא דברייתא, דהתם שניהם יודעים בדבר, ומתכוין ישראל ליטול רבית הבאה מכיסו של ישראל, אבל הכא לא, וליכא אסורא לא לגבי לוה ולא לגבי מלוה.<br><b></b>ועוד נשאל הרב ז״ל, אי יהיב ליה ישראל לנכרי משכונו ללות עליו מעות מישראל מאי, מי שרי מלוה ליטול אותו ריבית אי לא. ואף בזה הורה להתיר, משום דאקנויי מקנה ליה ישראל משכונו ללוות בו ברבית. והרמב״ן ז״ל חלק עליו בזו, ונראית דעת רבינו יצחק ז״ל דלא שביק ישראל היתרא ואכיל אסורא, וכי היכי דלא להגיע לידי רבית דאורייתא אקנויי מקנה ליה משכון לנכרי, וקני ליה נכרי במשיכה. ומיהו אף הרמב״ן ז״ל מודה, בישראל שהשאיל משכונו לנכרי ללות עליו לעצמו שהוא מותר, ואע״פ שהלך לו הנכרי ופרע ישראל זה קרן ורבית לישראל, דהא מקני ישראל לנכרי וקני ליה נכרי במשיכה, דמשיכה בנכרי קונה.<br><b></b>ומשכונו של נכרי ביד ישראל, והלך ישראל ולוה עליו מישראל חברו ברבית, אמרו משמו של ר״ת ז״ל שהוא מותר, ובלבד שאמר לו ישראל, הריני מוכר לך כל כח וזכות ושעבוד שיש לי על משכון זה ואין לי עסק עמך עליו ולא לך עלי על מעותיך, דכגון זה לאו לוה הוא, אלא מוכר זכות שיש לו בו, ואם לאחר זמן רצה שני זה לחזור וליטול מן הראשון קרן ורבית ולהחזיר לו משכונו מותר, מפני שהוא כחוזר ומוכרו לו. אבל הראב״ד ז״ל נשאל על זה ואסר, והרמב״ן ז״ל כתב כדברי ר״ת ז״ל.",
+              "ref": "Rashba on Bava Metzia 71b:7",
+              "sourceHeRef": "רשב״א על בבא מציעא ע״א ב:ז",
+              "sourceRef": "Rashba on Bava Metzia 71b:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Meir Lublin": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>ד\"ה</b> זכייה מדרבגן וכו'. עד בהלואה זו מישראל ראשון כצ\"ל:",
+                      "ref": "Maharam on Bava Metzia 71b:3",
+                      "sourceHeRef": "מהר\"ם על בבא מציעא ע״א ב:ג",
+                      "sourceRef": "Maharam on Bava Metzia 71b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">זכיה מדרבנן אית ליה</strong> - שיהא ישראל זוכה לצורך נכרי הלכך ההוא ישראל זוכה ליה מדרבנן בהלואה זו מישראל שני:",
+              "ref": "Rashi on Bava Metzia 71b:14:1",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:יד:א",
+              "sourceRef": "Rashi on Bava Metzia 71b:14:1"
+            },
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Tell the Israelite people to bring Me gifts; you shall accept gifts for Me from every person whose heart so moves him.",
+                      "he": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כׇּל־אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־תְּרוּמָתִֽי׃",
+                      "link": "/Exodus/25",
+                      "ref": "Exodus 25:2",
+                      "sourceHeRef": "שמות כה:ב",
+                      "sourceRef": "Exodus 25:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">קטן לית ליה שליחות</strong> - דכי כתב שליחות בגדול כתב בראוי לתרום שיהא הקדשו הקדש ודיבורו חל דגבי הקדשות ונדרים איש כתיב וגבי תרומה מאת כל איש אשר ידבנו לבו וגו' <span class=\"parenthesized\">(שמות כ״ה:ב׳)</span>:",
+              "ref": "Rashi on Bava Metzia 71b:14:2",
+              "sourceHeRef": "רש\"י על בבא מציעא ע״א ב:יד:ב",
+              "sourceRef": "Rashi on Bava Metzia 71b:14:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "עושה אדם שליח איש או אשה ואפי' אשת איש ואפי' עבד ושפחה הואיל והם בני דעת וישנם במקצת מצות נעשים שלוחים למשא ומתן אבל מי שאינם בני דעת והם חרש שוטה וקטן אינם נעשים שלוחים ולא עושים שליח אחד הקטן ואחד הקטנה לפיכך השולח בנו קטן אצל החנוני <span class=\"hebrew-emphasis\">(ונתן בידו פונדיון שהוא שני איסרין ונתנו לחנוני) </span>ומדד לו באיסר שמן ונתן לו את האיסר ואבד את השמן ואת האיסר החנוני חייב לשלם שלא שלחו אלא להודיעו ולא היה לו לשלח אלא עם בן דעת וכן כל כיוצא בזה: <span class=\"hebrew-emphasis\">הגה ועל הצלוחית שנתן המשלח ליד הקטן ומדד החנוני לתוכו אם שברו הקטן החנוני פטור אא\"כ לקחו מידו ומדד לאחרים והחזירו לידו (טור) </span>ואם פירש ואמר שלח לי עם הקטן ה\"ז פטור:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 188:2",
+              "sourceHeRef": "חושן משפט קפח:ב - אין שליחות לעכו\"ם ויש שליחות לעבד ואשה.",
+              "sourceRef": "Choshen Mishpat 188:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רבינא אמר</b> תירוץ אחר: <b>נהי</b> <span class=\"hebrew-emphasis\">[אם אמנם]</span> ש<b>שליחות לגוי לית ליה</b> <span class=\"hebrew-emphasis\">[אין לו],</span> ואולם כוח <b>זכיה</b> על ידי אחר הזוכה עבורו לפחות <b>מדרבנן אית ליה</b> <span class=\"hebrew-emphasis\">[מדברי סופרים יש לו],</span> <b>מידי דהוי</b> <span class=\"hebrew-emphasis\">[כמו שהוא</span> הדין<span class=\"hebrew-emphasis\">]</span> ביחס ל<b>קטן</b> מישראל. כי <b>קטן לאו אף על גב דלית ליה</b> <span class=\"hebrew-emphasis\">[באם לא אך על פי שאין לו]</span> דין <b>שליחות,</b> שהרי אינו בר דעת,",
+              "ref": "Steinsaltz on Bava Metzia 71b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא מציעא ע״א ב:יד",
+              "sourceRef": "Steinsaltz on Bava Metzia 71b:14"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A minor cannot appoint an agent, and if he does, any action performed by the agent is viewed as an action he performed of his own accord (Rambam <i>Sefer Kinyan</i>,<i> Hilkhot Sheluĥin VeShutafin</i> 2:2).",
+              "he": "ראשונים הקשו על דעה זו (ראה בתוס' כתובות), ואף נטו לגרוס שיש לגוי זכייה מן התורה. אבל הרמב\"ן סבור כי אין ראוי לתקן את הגרסה רק בשל קושי שבסברה. ולענייננו שאל: אם כן, שיש לגוי רק זכייה מדברי סופרים, כיצד אם כן יכולה זכייה מדברי סופרים להפקיע איסור ריבית שמן התורה? כי הלוואה זו שנעשית בתיווך הגוי אינה אסורה אלא מדברי סופרים, כך שדברי חכמים יכולים להפקיע דבריהם בענין אחר. והרשב\"א סבור כי איסור ריבית כאן מופקע מכח הפקר בית דין, שמסור בידי חכמים.",
+              "ref": "Steinsaltz comment #1 on Bava Metzia 71b:14",
+              "sourceHeRef": "קָטָן…לֵית לֵיהּ שְׁלִיחוּת",
+              "sourceRef": "A minor…is not included in the category of agency"
+            },
+            {
+              "en": "Some of the early commentaries were inclined to modify this version of the text, as they felt it must be that this power is from the Torah and not rabbinic law. The Ramban writes that it is not appropriate to change the text simply due to a logical difficulty. In response to the question of how a rabbinically legislated acquisition can cancel a Torah prohibition of interest, he answers that since the loan was transacted through the brokerage of a gentile, the prohibition of interest is by rabbinic law, and therefore an acquisition that is valid under rabbinic law can cancel it. The Rashba gives a different answer, that the prohibition of interest here is canceled due to the principle that property declared ownerless by the court is considered ownerless.",
+              "he": "אין הקטן יכול למנות שליח, וכל מה שעשה השליח נחשב כעושה מדעת עצמו בלבד. (רמב\"ם ספר קנין הלכות שלוחין ושותפין פ\"ב ה\"ב. שו\"ע יו\"ד קסא, סעיף ב).",
+              "ref": "Steinsaltz comment #2 on Bava Metzia 71b:14",
+              "sourceHeRef": "זְכִיָּה מִדְּרַבָּנַן אִית לֵיהּ",
+              "sourceRef": "He has the power by rabbinic law to acquire an item"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span> says</b> another answer: <b>Granted, a gentile is not</b> included in the category of <b>agency.</b> But <b>he has</b> the power, <b>by rabbinic law,</b> to <b>acquire</b> an item through an act of acquisition performed by another. This is <b>similar to</b> the <i>halakha</i> concerning a Jewish <b>minor.</b> As with <b>a minor, is it not</b> the case <b>that even though he is not</b> included in the category <b>of agency,</b>",
+      "he": "רָבִינָא אָמַר: נְהִי דִּשְׁלִיחוּת לְגוֹי לֵית לֵיהּ, זְכִיָּה מִדְּרַבָּנַן אִית לֵיהּ, מִידֵּי דְּהָוֵי אַקָּטָן. קָטָן לָאו אַף עַל גַּב דְּלֵית לֵיהּ שְׁלִיחוּת,",
+      "ref": "Bava Metzia 71b:14"
+    }
+  ],
+  "title": "Bava Metzia 71b",
+  "titleHebrew": "בבא מציעא עא,ב",
+  "topics": []
+}

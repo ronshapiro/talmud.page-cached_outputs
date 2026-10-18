@@ -1,0 +1,976 @@
+{
+  "id": "38a",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a person purchases two trees in a field belonging to a colleague, the purchaser does not acquire any land. Therefore, if one of his trees dies or is cut down, he has no further right to the land.<br>If his two trees grow and produce twigs and small branches, they should be cut off, lest they grow into the earth and appear as a third tree. Then the purchaser would tell the seller: \"You sold me three trees and I have a right to the land.\"",
+              "he": "הַקּוֹנֶה שְׁנֵי אִילָנוֹת בְּתוֹךְ שְׂדֵה חֲבֵרוֹ אֵין לוֹ קַרְקַע. לְפִיכָךְ אִם מֵת הָאִילָן אוֹ נִקְצַץ אֵין לוֹ כְּלוּם. הִגְדִּילוּ שְׁנֵי הָאִילָנוֹת וְהוֹצִיאוּ שָׂרִיגִים וַאֲמִירִים יָקֹץ שֶׁמָּא יִצְמְחוּ בָּאָרֶץ וְיֹאמַר לַמּוֹכֵר שְׁלֹשָׁה אִילָנוֹת מָכַרְתָּ לִי וְיֵשׁ לִי קַרְקַע:",
+              "ref": "Mishneh Torah, Sales 24:6",
+              "sourceHeRef": "הלכות מכירה כד:ו",
+              "sourceRef": "Sales 24:6"
+            },
+            {
+              "en": "Similarly, when a person benefits from all the produce of a tree for three years and then issues a claim against the owner of the tree: \"You sold me this tree and its land,\" he is granted an amount of land equivalent to the thickness of the tree until the depths of the earth.",
+              "he": "וְכֵן הָאוֹכֵל כָּל פֵּרוֹת אִילָן שָׁלֹשׁ שָׁנִים וְטָעַן עַל בַּעַל הָאִילָן אַתָּה מָכַרְתָּ לִי אִילָן זֶה וְקַרְקָעוֹ הֲרֵי זֶה יֵשׁ לוֹ קַרְקַע כָּעֳבִי הָאִילָן עַד הַתְּהוֹם:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 12:18",
+              "sourceHeRef": "הלכות טוען ונטען יב:יח",
+              "sourceRef": "Plaintiff and Defendant 12:18"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מתקיף לה רבא</strong> - אמאי קנה קרקע דכנגד האילן מאחר דתנן לא קנה קרקע כלל לא קנה ודקשיא לכו דכיון דלהתקיים בקרקע זו קנאו נמצא שקנה יניקת הקרקע גם ליטע אחר במקומו של זה אחר שייבש או יקצץ:",
+              "ref": "Rashbam on Bava Batra 38a:1:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:א:א",
+              "sourceRef": "Rashbam on Bava Batra 38a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לימא ליה</strong> - מוכר:",
+              "ref": "Rashbam on Bava Batra 38a:1:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:א:ב",
+              "sourceRef": "Rashbam on Bava Batra 38a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כורכמא דרישקא זביני לך</strong> - קרוג אוריינטי\"ל ורגילים למכרו בקרקע ומניחו עד שיגמור פריו ועוקרו אף האילן שמכרתי לך לפירותיו הקרקע לא מכרתי לך אלא להניח אילנך בקרקע שלי כל ימי שצריך לקרקע עד שייבש היינו דומיא דכרכום ומאחר שיבש לא תהני לו הקרקע עוד:",
+              "ref": "Rashbam on Bava Batra 38a:1:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:א:ג",
+              "sourceRef": "Rashbam on Bava Batra 38a:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עקור כורכמא דרישקא וזיל</strong> - כמו שעוקרים את הכרכום אחר שנתבשל ואינו יכול ליטע כרכום אחר במקומו גם אתה לא תטע אילן אחר במקומו:",
+              "ref": "Rashbam on Bava Batra 38a:1:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:א:ד",
+              "sourceRef": "Rashbam on Bava Batra 38a:1:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא אמר רבא</strong> - הכא הוא דקני לקרקע שתחת האילן בבא מחמת הטענה שטוען למוכר בפירוש מכרת לי האילן והקרקע שתחתיו ליטע אחר במקומו ובשטר ואכלתיה שני חזקה ולא נזהרתי בשטרי יותר משלש שנים דהשתא לא דמי לכורכמא דרישקא:",
+              "ref": "Rashbam on Bava Batra 38a:1:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:א:ה",
+              "sourceRef": "Rashbam on Bava Batra 38a:1:5"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "The following laws apply to all the branches that the owner of the trees trims from them. Any branches that grow from the portion of the trunk that sees the sun belong to the owner of the trees. The branches that grow from the roots and do not see the sun belong to the owner of the field. With regard to palm trees, the owner of the tree does not acquire any of the branches, for they do not grow from the trunk.",
+                      "he": "כָּל הָעֵצִים שֶׁקּוֹצֵץ בַּעַל שְׁנֵי הָאִילָנוֹת מֵהֶן. הָעוֹלֶה מִן הַגְּזָעִים וְהוּא הָרוֹאֶה פְּנֵי הַחַמָּה הֲרֵי הוּא שֶׁל בַּעַל הָאִילָנוֹת. וְהָעוֹלֶה מִן הַשָּׁרָשִׁים וְהוּא שֶׁאֵינוֹ רוֹאֶה פְּנֵי הַחַמָּה הֲרֵי הוּא שֶׁל בַּעַל הַשָּׂדֶה. וּבִדְקָלִים אֵין לְבַעַל הַדֶּקֶל מִן הָעוֹלֶה כְּלוּם לְפִי שֶׁאֵין לוֹ גֶּזַע:",
+                      "ref": "Mishneh Torah, Sales 24:7",
+                      "sourceHeRef": "הלכות מכירה כד:ז",
+                      "sourceRef": "Sales 24:7"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "הקונה שני אילנות בתוך שדה חבירו אין לו קרקע לפיכך אם מת האילן או נקצץ אין לו כלום: <span class=\"hebrew-emphasis\">הגה מיהו יש לו כמלא אורה וסלו וכל שכן תחתיה ללקט שם פירותיו ואין המוכר יכול לזרוע שם גם יש ללוקח דרך ללקט פירותיו מן האילנות שקנה (טור) </span>הגדילו ב' האילנות והוציאו שריגים ואמירים יקוץ שמא יצמחו בארץ ויאמר למוכר ג' אילנות מכרת לי ויש לי קרקע <span class=\"hebrew-emphasis\">(אבל אם נתפשטו הענפים אפי' למרחוק א\"צ לקוץ) (טור)</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 216:9",
+              "sourceHeRef": "חושן משפט רטז:ט - המוכר שדה ואמר חוץ מדקל פלוני או חוץ מהאילנות או קרקע לזה ואילנות לזה (וכיצד יכתוב בשטר מכירה כדי להסתלק מן העירעורים)",
+              "sourceRef": "Choshen Mishpat 216:9"
+            },
+            {
+              "en": "",
+              "he": "האוכל כל פירות אילן שלשה שנים וטען על בעל האילן אתה מכרת לי אילן זה וקרקעו הרי זה יש לו קרקע בעובי האילן עד התהום לפיכך המוכר אילן יחידי לחבירו צריך למחות בו בתוך כל ג' כדי שלא יחזיק בקרקע:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 141:20",
+              "sourceHeRef": "חושן משפט קמא:כ - דין חזקת שדה הלבן והאילן",
+              "sourceRef": "Choshen Mishpat 141:20"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מתקיף לה</b> <span class=\"hebrew-emphasis\">[מקשה על כך]</span> <b>רבא,</b> מדוע קונה בעל האילן קרקע תחת האילן שלו? <b>ולימא ליה</b> <span class=\"hebrew-emphasis\">[ושיאמר לו]</span> בעל הקרקע: <b>כורכמא דרישקא זביני</b> <span class=\"hebrew-emphasis\">[כרכום הגינה מכרתי]</span> <b>לך, עקור כורכמא דרישקא וזיל</b> <span class=\"hebrew-emphasis\">[</span>את <span class=\"hebrew-emphasis\">כרכום הגינה ולך],</span> שלא מכרתי לך אלא זכות שימוש בקרקע לגידול הדקל, ולא את גופה של הקרקע! <b>אלא אמר רבא:</b> כאן מדובר <b>בבא מחמת טענה,</b> שהקונה טוען שהוסכם עם המוכר שהוא קונה את האילן והקרקע שתחתיו.",
+              "ref": "Steinsaltz on Bava Batra 38a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ח א:א",
+              "sourceRef": "Steinsaltz on Bava Batra 38a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one purchased fewer than three trees in another’s field, he is not entitled to any land. Therefore, if the trees die or are cut down, the buyer is left with nothing. The Rema, citing the <i>Tur</i>, rules that nevertheless, the buyer does have rights to use the area immediately surrounding the trees for the purpose of harvesting their produce. Similarly, he has the right to prevent the seller from planting in the ground beneath the trees (Rambam<i> Sefer Kinyan</i>,<i> Hilkhot Mekhira</i> 24:6; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 216:9).",
+              "he": "שרבא תוהה מה טעם נאמר שיקנה קונה האילן האחד בעלות כלשהי בקרקע, שהרי זה כמי שקונה מחבירו דבר מה הגדל בקרקע — שבסוף הגידול עוקרו ויוצא בלא תביעות נוספות (רשב\"ם).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 38a:1",
+              "sourceHeRef": "כּוּרְכְּמָא דְּרִישְׁקָא זַבֵּינִי לָךְ",
+              "sourceRef": "I sold you a saffron crocus"
+            },
+            {
+              "en": "If one establishes the presumption of ownership of a tree by consuming its produce for three years, and he claimed that he purchased the tree together with its surrounding land, he is the owner of the land until the depths. Therefore, one who sold a lone tree to another without selling the land surrounding the tree must lodge a protest before the close of three years in order to prevent the buyer from establishing the presumption of ownership over the land (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot To’en VeNitan</i> 12:18; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 141:20).",
+              "he": "שטוען שקנה לא רק את האילן אלא גם את הקרקע שתחתיו, אלא שאיבד את שטר המכירה. ואז יש מקום לדברי חכמי נהרדעא, שאם החזיק באילן שלוש שנים הרי זו חזקה גם לקרקע שמתחתיו.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 38a:1",
+              "sourceHeRef": "בְּבָא מֵחֲמַת טַעֲנָה",
+              "sourceRef": "With regard to one who comes to court with a specific claim"
+            },
+            {
+              "en": "",
+              "he": "הקונה שני אילנות (וכל שכן אילן אחד) בתוך שדה חבירו — אין לו קרקע. ולפיכך, אם מת האילן או נקצץ — אין לו כלום. ומכל מקום יש לקונה קרקע סביב האילן לצורך הקטיף, וכן תחת האילן, ואין המוכר יכול לזרוע שם (רמ\"א בשם הטור). (רמב\"ם ספר קנין הלכות מכירה פכ\"ד ה\"ו. שו\"ע חו\"מ רטז, ט).",
+              "ref": "Steinsaltz comment #3 on Bava Batra 38a:1",
+              "sourceHeRef": "כּוּרְכְּמָא דְּרִישְׁקָא",
+              "sourceRef": "Saffron crocus"
+            },
+            {
+              "en": "The claim here is that he purchased the tree together with the land beneath it, but he lost the bill of sale. In such a case the ruling of the Sages of Neharde’a, that if he consumed the produce of the tree he establishes the presumption of ownership of the land beneath it as well, is applied.",
+              "he": "מי שהחזיק באילן ואכל פירותיו במשך שלוש שנים, אם טען שבעל האילן מכר לו את האילן ואת קרקעו — יש לו קרקע עד התהום. ולפיכך המוכר אילן יחיד לחבירו בלא קרקע, צריך למחות בו לפני תום שלוש שנים, כדי שלא יבוא להחזיק בקרקע. (רמב\"ם ספר משפטים הלכות טוען ונטען פי\"ב הי\"ח. שו\"ע חו\"מ קמא, כ).",
+              "ref": "Steinsaltz comment #4 on Bava Batra 38a:1",
+              "sourceHeRef": "בְּבָא מֵחֲמַת טַעֲנָה",
+              "sourceRef": "With regard to one who comes to court with a specific claim"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> objects to this</b> ruling that the buyer of the tree acquires the land beneath it: <b>And let</b> the seller <b>say to him: I sold you</b> only <b>the saffron crocus,</b> a small plant normally uprooted by the buyer and taken with him. Therefore, <b>uproot the saffron crocus and go. Rather, <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said:</b> This ruling is stated <b>with regard to</b> one who <b>comes</b> to court <b>with</b> a specific <b>claim</b> that the seller had stipulated that he would acquire the land. Without this specific claim he does not acquire the land beneath the tree.",
+      "he": "מַתְקֵיף לַהּ <span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">רָבָא</span>, וְלֵימָא לֵיהּ: כּוּרְכְּמָא דְרִישְׁקָא זַבֵּינִי לָךְ, עֲקוֹר כּוּרְכְּמָא דְרִישְׁקָא, וְזִיל! אֶלָּא אָמַר רָבָא: בְּבָא מֵחֲמַת טַעֲנָה.",
+      "ref": "Bava Batra 38a:1"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Similarly, when a person benefits from all the produce of a tree for three years and then issues a claim against the owner of the tree: \"You sold me this tree and its land,\" he is granted an amount of land equivalent to the thickness of the tree until the depths of the earth.",
+              "he": "וְכֵן הָאוֹכֵל כָּל פֵּרוֹת אִילָן שָׁלֹשׁ שָׁנִים וְטָעַן עַל בַּעַל הָאִילָן אַתָּה מָכַרְתָּ לִי אִילָן זֶה וְקַרְקָעוֹ הֲרֵי זֶה יֵשׁ לוֹ קַרְקַע כָּעֳבִי הָאִילָן עַד הַתְּהוֹם:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 12:18",
+              "sourceHeRef": "הלכות טוען ונטען יב:יח",
+              "sourceRef": "Plaintiff and Defendant 12:18"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">א\"ל מר קשישא בריה דרב חסדא לרב אשי</strong> - מאחר שהקונה דקל יחידי נאמן בטענה זו ויטע אחר במקומו אי כורכמא דרישקא זבין ליה אם מכר לו סתם דקל לפירותיו ולא פירש לו קרקע דקיימא לן אין לו קרקע דאם יבש או נעקר לא יטע אחר במקומו:",
+              "ref": "Rashbam on Bava Batra 38a:2:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ב:א",
+              "sourceRef": "Rashbam on Bava Batra 38a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי הוה ליה</strong> - למוכר למעבד שלא יהא זה בא מחמת טענה ויטע אחר במקומו דכל אדם יטעון אחר שלש שנים שפירש לו קרקע מאחר שהוא נאמן בטענתו:",
+              "ref": "Rashbam on Bava Batra 38a:2:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ב:ב",
+              "sourceRef": "Rashbam on Bava Batra 38a:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איבעי ליה למחויי</strong> - בתוך כל שלש להודיע שלא מכר לו קרקע אלא כי כורכמא דרישקא ושוב לא יכול לטעון אחר שלש שטר היה לי ואבד דכיון דמיחה בו זה היה לו להזהר בשטרו:",
+              "ref": "Rashbam on Bava Batra 38a:2:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ב:ג",
+              "sourceRef": "Rashbam on Bava Batra 38a:2:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "האוכל כל פירות אילן שלשה שנים וטען על בעל האילן אתה מכרת לי אילן זה וקרקעו הרי זה יש לו קרקע בעובי האילן עד התהום לפיכך המוכר אילן יחידי לחבירו צריך למחות בו בתוך כל ג' כדי שלא יחזיק בקרקע:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 141:20",
+              "sourceHeRef": "חושן משפט קמא:כ - דין חזקת שדה הלבן והאילן",
+              "sourceRef": "Choshen Mishpat 141:20"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>מר קשישא בריה</b> <span class=\"hebrew-emphasis\">[בנו]</span> של <b>רב חסדא לרב אשי: ואי כורכמא דרישקא זבין ליה, מאי הוה ליה למעבד</b> <span class=\"hebrew-emphasis\">[ואם</span> באמת <span class=\"hebrew-emphasis\">כרכום גינה</span> לגידול <span class=\"hebrew-emphasis\">מכר לו, מה היה לו לעשות]</span> כדי שלא יחזיק בקרקע לאחר שלוש שנים ויטען שקנה ממנו במפורש גם את הקרקע? ומשיבים: <b>איבעי ליה למחויי</b> <span class=\"hebrew-emphasis\">[היה צריך למחות]</span> בתוך שלוש השנים.",
+              "ref": "Steinsaltz on Bava Batra 38a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ח א:ב",
+              "sourceRef": "Steinsaltz on Bava Batra 38a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אם כדברי רבא, שכאשר מחזיק באילן שלוש שנים יכול לטעון לבעלות גם על הקרקע, אם כן מה יעשה אדם המחכיר קרקעו רק לשימוש במשך זמן מוגבל (וכתבו בתוס' שדרך הכרכום שישהה באדמה שלוש שנים, שהם זמן חזקה), הרי תמיד יוכל המחזיק לטעון שקנה את הקרקע לצמיתות!",
+              "ref": "Steinsaltz comment #1 on Bava Batra 38a:2",
+              "sourceHeRef": "ואי כורכמא דרישקא",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>ואי כורכמא דרישקא—And if</b> he sold him a <b>כורכמא דרישקא</b><br><br>O<small>VERVIEW</small><br>רבא stated that if the buyer claims that he was sold the קרקע as well as the tree and he had a חזקת ג\"ש, he acquires the land as well. מר קשישא asked what can a seller do to protect himself if he sells a כורכמא דרישקא (but not the land beneath it or around it), to insure that the buyer will not claim that he bought the land as well. תוספות explains why the גמרא mentioned כורכמא דרישקא specifically; this question seemingly applies to any plant or tree which is sold (without the קרקע).<br>---------------------------<br><b>לכך נקט כורכמא דרישקא שמתקיים בקרקע ג' שנים דהיינו שני חזקה –</b><br><b>The reason he mentions כורכמא דרישקא</b> specifically is <b>because it lasts three years in the ground, which are the</b> required <b>חזקה years –<br>ודרך להשהותו בקרקע כמו שיכול להתקיים:</b><br><b>And furthermore it is customary to allow it to remain in the ground as long as it can last</b> in the ground. Therefore when one sells a כורכמא דרישקא it is assumed that the buyer will hold on to this plant (in the ground) for three years, and will then have the opportunity to claim that he bought the land as well.<br><br>S<small>UMMARY</small><br>כורכמא דרישקא is kept in the ground for three years, and so there is the concern that he might claim that he bought the land as well.<br><br>T<small>HINKING IT OVER</small><br>1. Seemingly trees last much longer than three years in the ground, so why the need to mention כורכמא דרישקא, when he could have mentioned any tree?<br>2. What is must usual (or unusual); a. to sell trees with the land, b. to sell trees without the land, c. to sell כורכמא דרישקא with the land, d. to sell כורכמא דרישקא without the land?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 38a:2:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי כורכמא דרישקא לכך נקט כורכמא דרישקא שמתקיים בקרקע ג' שנים דהיינו שני</strong> - חזקה ודרך להשהותו בקרקע כמו שיכול להתקיים:",
+              "ref": "Tosafot on Bava Batra 38a:2:1",
+              "sourceHeRef": "תוספות על בבא בתרא ל״ח א:ב:א",
+              "sourceRef": "Tosafot on Bava Batra 38a:2:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>Mar Kashisha, the son of Rav Ḥisda, said to <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span>: And if,</b> in fact, the seller <b>sold him the saffron crocus, what was</b> there <b>for</b> the seller <b>to do</b> to prevent the buyer from claiming the land beneath the tree, as the buyer could claim that there had been an explicit stipulation that he receive it? <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> answered: <b>He should have protested</b> during the first three years and publicized that the land was not included in the sale.",
+      "he": "אֲמַר לֵיהּ מָר קַשִּׁישָׁא בְּרֵיהּ דְּרַב חִסְדָּא <span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">לְרַב אָשֵׁי</span>: וְאִי כּוּרְכְּמָא דְרִישְׁקָא זַבֵּין לֵיהּ, מַאי הֲוָה לֵיהּ לְמֶעְבַּד? אִיבְּעִי לֵיהּ לְמַחוֹיֵי.",
+      "ref": "Bava Batra 38a:2"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מְחִי</strong>, <strong dir=\"rtl\">מְחָא I</strong>, (<strong dir=\"rtl\">מְחַח</strong>) Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, מחי 1\" href=\"/Jastrow,_מחי.1\">same</span> <br><b>1)</b> <i>to dissolve, mash</i> (by stirring &c.). <span class=\"refLink\" data-ref=\"Pesachim 40b:12\" href=\"/Pesachim.40b.12\">Pesachim 40ᵇ</span> רבא גופא מָחוּ ליה בחסיסי Manuscript Munich (insert <span class=\"refLink\" data-ref=\"Jastrow, קִידְרָא 1\" dir=\"rtl\" href=\"/Jastrow,_קִידְרָא.1\">קידרא</span>) for R. himself they made a mush with flour of parched grains (see <span class=\"refLink\" data-ref=\"Jastrow, חֲסִיסָא 1\" dir=\"rtl\" href=\"/Jastrow,_חֲסִיסָא.1\">חֲסִיסָא</span>); ed. <span dir=\"rtl\">רבא … מחי לה וכ׳</span> (read <span dir=\"rtl\">ליה</span>) R. himself had a mush made for himself &c. <span class=\"refLink\" data-ref=\"Pesachim 40b:12\" href=\"/Pesachim.40b.12\">Ib.</span> <span dir=\"rtl\">למֵימַח קדירא וכ׳</span> Manuscript Munich (ed. <span dir=\"rtl\">למִמְחָה</span>) to make a mush &c. (corresp. to h. <span dir=\"rtl\">מלל</span>).—V. <span class=\"refLink\" data-ref=\"Jastrow, *מֵיחָא 1\" dir=\"rtl\" href=\"/Jastrow,_*מֵיחָא.1\">מֵיחָא</span>. <br><b><br>—2)</b> <i>to wipe off, blot out</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 25:8\" href=\"/Targum_Jonathan_on_Isaiah.25.8\">Targum Isaiah XXV, 8</span>. <span class=\"refLink\" data-ref=\"Onkelos Exodus 32:32\" href=\"/Onkelos_Exodus.32.32\">Targum Shemot XXXII, 32</span>; and from <br><b><br>—3)</b> <i>to protest</i>, see infra.<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">מָחֵי</strong>, <strong dir=\"rtl\"></strong> , <i>Af</i>. <span dir=\"rtl\">אַמְחֵי</span> <br><b>1)</b> <i>to protest, forewarn, interfere</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Ecclesiastes 8:4\" href=\"/Aramaic_Targum_to_Ecclesiastes.8.4\">Targum Kohelet VIII, 4</span>.—<span class=\"refLink\" data-ref=\"Bava Batra 38a:3\" href=\"/Bava_Batra.38a.3\">Bava Batra 38ᵃ</span> <span dir=\"rtl\">איבעי ליה למָחוּיֵי</span> he ought to have entered a protest. <span class=\"refLink\" data-ref=\"Bava Batra 39b\" href=\"/Bava_Batra.39b\">Ib. 39ᵇ</span> <span dir=\"rtl\">(<span dir=\"rtl\">למָחוּיֵ</span>) <span dir=\"rtl\">למָחוּיֵי</span></span>, see <span class=\"refLink\" data-ref=\"Jastrow, מְחוּיָאתָא 1\" dir=\"rtl\" href=\"/Jastrow,_מְחוּיָאתָא.1\">מְחוּיָאתָא</span>. <span class=\"refLink\" data-ref=\"Ketubot 11a:10\" href=\"/Ketubot.11a.10\">Ketubot 11ᵃ</span> <span dir=\"rtl\">מְמָחְיָיא</span> she may protest (against her conversion in childhood). Yerushalmi Bava Batra II, 13ᵇ bottom of page <span dir=\"rtl\">מַמְחִין וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מַסְמָר ² 1\" dir=\"rtl\" href=\"/Jastrow,_מַסְמָר ².1\">מַסְמְרָא</span>; and e.—<span class=\"refLink\" data-ref=\"Yoma 2a\" href=\"/Yoma.2a\">Ib.</span> <span dir=\"rtl\">יכלין … למִימְחֵי בידהון</span> their neighbors may inhibit them. <br><b><br>—2)</b> (denominative of <span class=\"refLink\" data-ref=\"Jastrow, מוּמְחֶה 1\" dir=\"rtl\" href=\"/Jastrow,_מוּמְחֶה.1\">מוּמְחֶה</span>) <i>to declare approved, to recognize as efficient</i>. <span class=\"refLink\" data-ref=\"Shabbat 61b:3\" href=\"/Shabbat.61b.3\">Shabbat 61ᵇ</span> <span dir=\"rtl\">למחויי גברא</span> (Manuscript Oxford and Rashi <span dir=\"rtl\">לאַמְחוּיֵי</span>) so as to make the man an approved physician; <span dir=\"rtl\">למ׳ קמיע</span> to consider the amulet as approved.<br></br> <strong>Ithpeel</strong> - <strong dir=\"rtl\">אִיתְמְחֵי</strong>, <strong dir=\"rtl\"> אִיתְמַח</strong>, <strong dir=\"rtl\"></strong> , <span class=\"refLink\" data-ref=\"Jastrow, דְּחִי 1\" dir=\"rtl\" href=\"/Jastrow,_דְּחִי.1\">אִימְּחֵי</span> <br><b>1)</b> <i>to be wiped off;to be blotted out</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on II Kings 21:13\" href=\"/Targum_Jonathan_on_II_Kings.21.13\">Targum Sheni (to Esther) Kings XXI, 13</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 109:13\" href=\"/Aramaic_Targum_to_Psalms.109.13\">Targum Psalms CIX, 13</span> <span dir=\"rtl\">יִתְמַח</span> ed. Lag. (ed. Vilna <span dir=\"rtl\">יתמחי</span>). <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 109:14\" href=\"/Aramaic_Targum_to_Psalms.109.14\">Ib. 14</span>; and from <br><b><br>—2)</b> <i>to be diluted, dissolved</i>. <span class=\"refLink\" data-ref=\"Pesachim 74b\" href=\"/Pesachim.74b\">Pesachim 74ᵇ</span> bottom of page <span dir=\"rtl\">חלא מִתְמְחָא</span> Manuscript Munich 2 and early eds. (see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note; ed. <span class=\"refLink\" data-ref=\"Jastrow, מִתְמְהָא 1\" dir=\"rtl\" href=\"/Jastrow,_מִתְמְהָא.1\">מִתְמְהָא</span>; Manuscript Munich 1 <span class=\"refLink\" data-ref=\"Jastrow, אֶתְמְהָא 1\" dir=\"rtl\" href=\"/Jastrow,_אֶתְמְהָא.1\">אתמהא</span>, correct accordingly) weak vinegar. <span class=\"refLink\" data-ref=\"Gittin 69a:9\" href=\"/Gittin.69a.9\">Gittin 69ᵃ</span> <span dir=\"rtl\">אִיתְמוּחֵי אִיתְמַח</span> (some ed. <span class=\"refLink\" data-ref=\"Jastrow, ה 1\" dir=\"rtl\" href=\"/Jastrow,_ה.1\">ה</span> for <span class=\"refLink\" data-ref=\"Jastrow, ח 1\" dir=\"rtl\" href=\"/Jastrow,_ח.1\">ח</span>) it (the liver) is dissolved. <br><b><br>—3)</b> <i>to be declared approved</i> <span class=\"refLink\" data-ref=\"Jastrow, מוּמְחֶה 1\" dir=\"rtl\" href=\"/Jastrow,_מוּמְחֶה.1\">(מוּמְחֶה</span>). Shabbat l. common gender. <span dir=\"rtl\">א׳ גברא</span> the person has become an approved physician; <span dir=\"rtl\">א׳ קמיע</span> the amulet is considered approved. Ib. 61ᵃ <span dir=\"rtl\">עד דמִמְּחָא גברא ומִמְּחָא קמיע</span> early ed. (later ed. <span dir=\"rtl\">דמומחה … ומומחה</span>, read <span dir=\"rtl\">מי׳</span>; Manuscript Oxford <span class=\"refLink\" data-ref=\"Jastrow, מְחִי 1\" dir=\"rtl\" href=\"/Jastrow,_מְחִי.1\">איתמחי</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 1) until both, the person and the amulet, have been approved; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, מְחִי 1",
+              "sourceHeRef": "מילון יסטרוב, מְחִי א׳",
+              "sourceRef": "Jastrow, מְחִי 1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "The Gemara analyzes another case involving mortgaged land. The <b>creditor says</b> the mortgage was for <b>five</b> years while the <b>debtor</b> who owned the land <b>says</b> it was for <b>three.</b> The debtor <b>said to</b> the creditor: <b>Give me your document</b> so that we can see what is written there. The creditor <b>said to him: I lost the document. Rav Yehuda said:</b> The <b>creditor is deemed credible</b> and accepted in this case <b>since he could have made a more advantageous claim [<i>miggo</i>].</b> As the mortgage document is missing and even according to the claim of the debtor he could be in control of the land for the three years required for presumptive ownership, <b>if</b> he <b>wants</b> to lie he could <b>say:</b> The land was <b>purchased by me.</b> Since he did not submit this superior claim, his claim should be accepted.",
+                "<b>Rav Pappa said to Rav Ashi: Rav Zevid and Rav Avira do not hold</b> of <b>this</b> opinion <b>of Rav Yehuda. What is the reason</b> for this? <b>Since this document stands</b> ready <b>for collecting</b> the debt, the creditor would certainly have been <b>careful with regard to it.</b> Since he wants to ensure his money is returned it is unlikely he actually lost it. Rather, <b>he is</b> merely <b>hiding his document,</b> as he <b>thinks: I will consume</b> the produce of the field for <b>two extra years.</b>",
+                "The Gemara analyzes Rav Yehuda’s opinion. <b>Ravina said to Rav Ashi: If that is so,</b> that Rav Yehuda is correct, then with regard to <b>this mortgage according to</b> the custom practiced in <b>Sura,</b> a city in Babylonia, in <b>which they write this: Upon the completion of these years</b> of the mortgage <b>this land shall leave</b> the creditor’s possession and return to its owner <b>without</b> the debtor paying any <b>money</b> (see 67b), in a case <b>where</b> the creditor <b>hid the mortgage document and said</b> that the land was <b>purchased by me, so too</b> is it possible <b>that he is deemed credible? Would the Sages institute a matter that</b> might <b>cause a loss?</b> Rav Ashi <b>said to him: There,</b> in the mortgage of Sura, <b>the Sages instituted for</b> the landowner, i.e., the debtor, <b>that the landowner,</b> i.e., the debtor, <b>pays the</b> land <b>taxes and digs the trenches</b> for the irrigation of the field. In this manner, his ownership is preserved and established.",
+                "Ravina asks further: With regard to <b>land that has no</b> need for <b>trenches and</b> for which he <b>does not pay taxes, what</b> could he have done? Rav Ashi <b>said to him: He should have protested</b> before the three years needed for presumptive status had passed by announcing that the land was his. Ravina again inquires: If he <b>did not protest, what</b> is the <i>halakha</i>? Rav Ashi replied: In that case, <b>he caused his own loss</b> by failing to take the necessary precautions."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Metzia 110a:6",
+                "Bava Metzia 110a:7",
+                "Bava Metzia 110a:8",
+                "Bava Metzia 110a:9"
+              ],
+              "he": [
+                "מַלְוֶה אוֹמֵר חָמֵשׁ, לֹוֶה אוֹמֵר שָׁלֹשׁ. אָמַר לֵיהּ: אַיְיתִי לִי שְׁטָרָךְ! אָמַר לֵיהּ: שְׁטָרָא אִירְכַס לִי. אָמַר רַב יְהוּדָה: מַלְוֶה נֶאֱמָן, מִגּוֹ דְּאִי בָּעֵי אָמַר לְקוּחָה הִיא בְּיָדִי.",
+                "אֲמַר לֵיהּ רַב פָּפָּא לְרַב אָשֵׁי: רַב זְבִיד וְרַב עַוִּירָא לָא סְבִירָא לְהוּ הָא דְּרַב יְהוּדָה. מַאי טַעְמָא: הַאי שְׁטָרָא כֵּיוָן דִּלְגוּבְיָינָא קָאֵי – מִיזְהָר זְהִיר בֵּיהּ, וּמִיכְבָּשׁ הוּא דְּכַבְשֵׁיהּ לִשְׁטָרֵיהּ, סָבַר: אוֹכְלַהּ תַּרְתֵּין שְׁנִין יַתִּירְתָּא.",
+                "אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: אֶלָּא מֵעַתָּה, הַאי מַשְׁכַּנְתָּא דְסוּרָא דְּכָתְבִי הָכִי: ״בְּמִישְׁלַם שְׁנַיָּא אִלֵּין תִּיפּוֹק אַרְעָא דָּא בְּלָא כְּסַף״. הֵיכָא דְּכַבְשֵׁיהּ לִשְׁטַר מַשְׁכַּנְתָּא וְאָמַר: לְקוּחָה הִיא בְּיָדִי, הָכִי נָמֵי דִּמְהֵימַן? וְכִי מְתַקְּנִי רַבָּנַן מִילְּתָא דְּאָתֵי בַּהּ [לִידֵי] פְּסֵידָא? אֲמַר לֵיהּ: הָתָם תַּקִּינוּ לֵיה רַבָּנַן דְּמָרֵי אַרְעָא יָהֵיב טַסְקָא וְכָרֵי כַּרְיָא.",
+                "אַרְעָא דְּלֵית לַהּ כַּרְיָא וְלָא יָהֵיב טַסְקָא, מַאי? אֲמַר לֵיהּ: אִיבְּעִי לֵיהּ לְמַחוֹיֵי! לָא <span class=\"parenthesized\">(אִימְּחָא)</span> [מַחִי], מַאי? אִיהוּ הוּא דְּאַפְסֵיד אַנַּפְשֵׁיהּ."
+              ],
+              "link": "/Bava Metzia/110a",
+              "originalRefsBeforeRewriting": [
+                "Bava Metzia 110a:8"
+              ],
+              "ref": "Bava Metzia 110a:6-9",
+              "sourceHeRef": "בבא מציעא ק״י א",
+              "sourceRef": "Bava Metzia 110a"
+            },
+            {
+              "en": [
+                [
+                  "<b>Mar, son of Rav Yosef, said in the name of Rava:</b> With regard to <b>this</b> following type of <b>mortgage,</b> in which the lender holds part of the borrower’s land and may consume its produce, the <i>halakha</i> depends on the local custom. <b>In a place where</b> the custom is that the borrower can repay the loan at any time and the court <b>removes</b> the lender from the land once the loan is repaid, then once the lender <b>consumed a measure</b> of produce equivalent to the amount of <b>money</b> that he lent, <b>we remove him</b> from the land at that point, as the produce consumed is considered repayment of the loan.",
+                  "If the lender <b>consumed</b> a measure of produce worth <b>more</b> than the value of the loan, <b>we do not remove</b> the value of the excess produce <b>from him,</b> as that which he consumed is already gone. <b>And</b> similarly, <b>we do not calculate</b> any extra produce as payment <b>from one document to another.</b> If the same borrower owed the lender an additional sum from another debt recorded in a different document, we do not consider the additional produce he consumed as part of the payment for the second document; rather, each loan is treated on its own terms.",
+                  "<b>And</b> if the field belonged <b>to orphans,</b> once the lender <b>consumed a measure</b> of produce equivalent to the amount of <b>money</b> he was owed, <b>we remove him</b> from the field. And if <b>he consumed</b> a measure of produce worth <b>more</b> than the value of the loan, <b>we take</b> the additional amount <b>from him; and we</b> do <b>calculate</b> extra produce as payment <b>from one document to another.</b> The reason is that the owner of the field generally forgives payment for the extra produce the lender consumed, but minor orphans are too young to forgive a debt, and the case is therefore judged according to the letter of the law.",
+                  "<b>Rav Ashi said: Now that you have said</b> that if <b>he consumed more</b> than the value of the loan <b>we do not take</b> it <b>from him,</b> as it is considered merely a hint of interest, it follows that if <b>he consumed a measure</b> of produce equivalent to the amount of the <b>money</b> owed him, <b>we also do not remove him</b> from the land <b>without</b> the borrower’s paying him <b>money. What is the reason</b> for this? <b>To remove him</b> from the land <b>without</b> the borrower’s paying him <b>money is like taking</b> money <b>from him,</b> and <b>this</b> consumption of the produce <b>is</b> only <b>a hint of interest,</b> and the <i>halakha</i> is that <b>a hint of interest cannot be removed by</b> legal proceedings adjudicated by <b>judges.</b>",
+                  "The Gemara relates: <b>Rav Ashi performed an action</b> in a case of this kind even <b>involving minor orphans,</b>"
+                ],
+                [
+                  "<b>as</b> though they were <b>adults.</b> Even if the lender consumed produce equivalent to the amount of the debt, Rav Ashi would not collect the value of the produce from him, as this is merely a hint of interest and therefore it cannot be claimed in court.",
+                  "<b>Rava, son of Rav Yosef, says in the name of Rava:</b> With regard to <b>this</b> following type of <b>mortgage,</b> in which the lender holds part of the borrower’s land and may consume its produce, the <i>halakha</i> depends on the local custom. <b>In a place where</b> the custom is that the borrower can repay the loan at any time and the court <b>removes</b> the lender from the land, the lender <b>may consume</b> the produce of the land <b>only with a deduction</b> in the amount of the loan granted to the borrower, equivalent in value to that of the produce consumed by the lender. <b>And a Torah scholar [<i>tzurva miderabbanan</i>],</b> who must be especially careful with regard to his conduct, <b>may not consume</b> the produce <b>even with a deduction</b> in the amount of the loan. The Gemara poses a question: <b>But</b> if so, <b>in what</b> manner <b>may he consume the</b> produce? The Gemara answers: <b>By a fixed</b> payment, the details of which the Gemara will soon explain.",
+                  "The Gemara asks: <b>This works out well according to the one who says</b> that <b>a fixed</b> payment <b>is permitted, but according to the one who says</b> that <b>a fixed</b> payment <b>is forbidden, what is there to say? As it was stated: With regard to a fixed</b> payment, <b>Rav Aḥa and Ravina disagreed: One said</b> that <b>a fixed</b> payment <b>is permitted, and one said a fixed</b> payment <b>is forbidden.</b> The Gemara clarifies: <b>What are the circumstances</b> of this <b>fixed</b> payment? The Gemara explains: One case of a fixed payment is <b>where</b> the lender <b>says to</b> the borrower: For a period of <b>up to five years, I will consume</b> the produce of the field <b>without a deduction</b> in the amount of the loan; <b>from that</b> point <b>forward I will appraise for you</b> the value of <b>all</b> the <b>produce</b> I consume and subtract this sum from the debt.",
+                  "<b>There are</b> those <b>who say</b> a different version of this discussion: <b>Any</b> consumption of produce by the lender <b>without a deduction</b> in the amount of the loan is <b>prohibited</b> as interest. <b>And what are the circumstances</b> of a permitted <b>fixed</b> payment? <b>When</b> the lender <b>says to</b> the borrower: For a period of <b>up to five years I will consume</b> the produce <b>with</b> a fixed <b>deduction</b> in the amount of the loan; <b>from this</b> point <b>forward I will appraise for you</b> the value of <b>all</b> the <b>produce</b> I consume and deduct the sum from the loan.",
+                  "The Gemara comments: <b>The one who prohibits</b> the practice according <b>to the first</b> version <b>permits</b> the practice described <b>in the second.</b> The Gemara asks: But according to <b>the one who</b> also <b>prohibits</b> the practice described in <b>the second</b> version, <b>how is it permitted to consume</b> the produce of a mortgaged field? The Gemara replies: <b>It is permitted</b> in a case <b>like</b> that of <b>a mortgage</b> according to the custom in <b>Sura,</b> a city in Babylonia, <b>in which this is written</b> in the loan document: <b>Upon the completion of these years,</b> during which the lender may consume the produce of the field, <b>this land shall leave</b> his possession <b>without money</b> and return to the owner, as the entire amount of the loan will have been repaid by means of the consumption of the produce.",
+                  "<b>Rav Pappa and Rav Huna, son of Rav Yehoshua, both say:</b> With regard to <b>this</b> type of <b>mortgage,</b> the <i>halakha</i> depends on the local custom. <b>In a place where</b> the custom is that the borrower can repay the loan at any time and the court <b>removes</b> the lender from the land, the land is not considered his property at all, and therefore another <b>creditor cannot collect</b> a debt owed by the lender <b>by</b> repossessing <b>it; and</b> if the lender dies, his <b>firstborn</b> son <b>does not receive a double portion of it</b> as part of his inheritance, as it did not belong to his father; <b>and the Sabbatical</b> Year <b>cancels</b> a debt of this kind, because it is not viewed as having already been collected.",
+                  "<b>But in a place where they do not remove</b> him from the land before the appointed time even if the debt is paid, then the land has been temporarily transferred to him, and therefore <b>a creditor can collect</b> a debt owed by the lender <b>by</b> repossessing <b>it, and</b> his <b>firstborn receives a double portion of it, and the Sabbatical</b> Year <b>does not cancel</b> the debt.",
+                  "<b>And Mar Zutra said in the name of Rav Pappa:</b> With regard to <b>this</b> type of <b>mortgage,</b> the <i>halakha</i> depends on the local custom. <b>In a place where</b> the custom is that the borrower can repay the loan at any time and the court <b>removes</b> the lender from the land, <b>they remove him even from dates</b> he has already harvested and spread out on <b>the mats. But if he has lifted them</b> and placed them <b>in the baskets [<i>besisanei</i>], he has</b> thereby <b>acquired them,</b> and they are his. <b>And according to the one who says</b> that when an act of acquisition is performed by means of placing items in the <b>buyer’s vessels</b> that are located <b>in the seller’s domain the buyer has acquired</b> the items, <b>even if he did not lift them</b> while they were <b>in the baskets, he acquired them</b> when they were placed on the mats.",
+                  "The Gemara discusses other <i>halakhot</i> of mortgages. It is <b>obvious</b> that if the loan was given <b>in a place where they</b> generally <b>remove</b> the lender from the field upon the repayment of the debt, <b>but</b> upon lending the money, the lender <b>said: I will not be removed,</b> his stipulation is respected, <b>as he said that</b> he <b>will not be removed,</b> and he gave him the money only subject to this condition. <b>But</b> if the loan took place <b>in a place where they</b> generally <b>do not remove</b> him, <b>and he said: I will be removed</b> when the money is returned, <b>what</b> is the <i>halakha</i>? Is it <b>necessary to perform</b> a formal act of <b>acquisition with him</b> to formalize this commitment, <b>or</b> is it <b>not</b> necessary, as his statement alone is binding?",
+                  "<b>Rav Pappa said: It is not necessary to perform</b> an act of <b>acquisition with him. Rav Sheshet, son of Rav Idi, said: It is necessary to perform</b> an act of <b>acquisition with him.</b> The Gemara concludes: <b>And the <i>halakha</i></b> is that <b>it is necessary to perform</b> an act of <b>acquisition with him.</b>",
+                  "The Gemara addresses another case. If the borrower <b>said</b> to the lender: <b>I will go to get</b> the <b>money</b> to repay you, the lender <b>may not consume</b> any more of the produce, as this statement is sufficient to remove him from the property. But if he said: <b>I am going to make an effort to get</b> the <b>money,</b> <i>amora’im</i> engaged in a dispute concerning the <i>halakha</i>. <b>Ravina said:</b> The lender <b>may</b> continue to <b>consume</b> the produce until the borrower actually brings the payment, as he cannot be certain the borrower will manage to get the money. <b>And Mar Zutra, son of Rav Mari, said:</b> He <b>may not consume</b> the produce. The Gemara concludes: <b>And the <i>halakha</i></b> is that he <b>may not consume</b> the produce.",
+                  "The Gemara relates: <b>Rav Kahana, and Rav Pappa, and Rav Ashi would not consume</b> the produce of mortgaged fields even <b>with a deduction</b> in the amount of the loan, as they were concerned about the possible violation of the prohibition of interest. <b>Ravina would consume</b> this produce <b>with a deduction</b> in the amount of the loan.",
+                  "<b>Mar Zutra said: The explanation</b> for the practice <b>of the one who does consume</b> the produce <b>with a deduction</b> in the amount of the loan is <b>just as it is in</b> the case <b>of an ancestral field,</b> i.e., a field that one inherits from his ancestors within his family holdings in Eretz Yisrael. The Torah states that one who consecrates his ancestral field can redeem it from the Temple treasury in return for one <i>sela</i>, which is four dinars, for each year remaining until the Jubilee (see Leviticus 27:16–19). The comparison is as follows: With regard to <b>an ancestral field,</b> is it <b>not</b> the case that <b>even though he consumes abundant produce</b> over the course of the years, nevertheless, <b>the Merciful One states</b> in the Torah"
+                ],
+                [
+                  "that <b>he redeems it at four dinars</b> a year, despite the fact that the produce is worth more? <b>Here too,</b> it <b>is no different.</b> Since he established the deduction of a fixed sum that he cannot be sure he will receive, the practice is permitted, even if he in fact profits from the arrangement.",
+                  "<b>And the one who prohibits</b> this arrangement could have <b>said to you</b> that the <i>halakha</i> with regard to <b>an ancestral field is</b> discussing <b>consecrated property and the Merciful One established redemption for it,</b> on the basis of which the Sages determined the full redemption. <b>Here,</b> by contrast, it is <b>a loan, and</b> therefore it <b>has the appearance of interest.</b>",
+                  "<b>Rav Ashi said: The elders of</b> the town of <b>Mata Meḥasya told me: An unspecified mortgage [<i>mashkanta</i>]</b> is for <b>a year.</b> The Gemara poses a question: <b>What is the</b> practical <b>difference</b> resulting from this ruling? The Gemara explains: It means <b>that if</b> the lender <b>consumed its</b> produce for <b>a year,</b> the borrower <b>can</b> then <b>remove him; but if not,</b> the borrower <b>cannot</b> yet <b>remove him,</b> as an unspecified mortgage does not last less than this period of time.",
+                  "<b>And Rav Ashi said: The elders of Mata Meḥasya told me: What</b> is the meaning of the word <b><i>mashkanta</i>?</b> It is referring to the fact <b>that it resides [<i>shekhuna</i>] with him.</b> The Gemara again asks: <b>What is the</b> practical <b>difference</b> resulting from his statement? The Gemara answers: It is relevant <b>for the <i>halakha</i> of one</b> whose field <b>borders</b> the field of his neighbor. Since the mortgaged field resides with him, it is considered his property to a certain extent, and therefore he is granted the right to purchase a neighboring field before an outside party does so."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Metzia 67a:12",
+                "Bava Metzia 67a:13",
+                "Bava Metzia 67a:14",
+                "Bava Metzia 67a:15",
+                "Bava Metzia 67a:16",
+                "Bava Metzia 67b:1",
+                "Bava Metzia 67b:2",
+                "Bava Metzia 67b:3",
+                "Bava Metzia 67b:4",
+                "Bava Metzia 67b:5",
+                "Bava Metzia 67b:6",
+                "Bava Metzia 67b:7",
+                "Bava Metzia 67b:8",
+                "Bava Metzia 67b:9",
+                "Bava Metzia 67b:10",
+                "Bava Metzia 67b:11",
+                "Bava Metzia 67b:12",
+                "Bava Metzia 67b:13",
+                "Bava Metzia 68a:1",
+                "Bava Metzia 68a:2",
+                "Bava Metzia 68a:3",
+                "Bava Metzia 68a:4"
+              ],
+              "he": [
+                [
+                  "אָמַר מָר בְּרֵיהּ דְּרַב יוֹסֵף מִשְּׁמֵיהּ דְּרָבָא: הָא מַשְׁכַּנְתָּא בְּאַתְרָא דִּמְסַלְּקִי, אֲכַל שִׁיעוּר זוּזֵי – מְסַלְּקִינַן לֵיהּ.",
+                  "אֲכַל טְפֵי – לָא מַפְּקִינַן מִינֵּיהּ, וְלָא מְחַשְּׁבִינַן מִשְּׁטָרָא לִשְׁטָרָא.",
+                  "וּבִדְיַתְמֵי אֲכַל שִׁיעוּר זוּזֵי, מְסַלְּקִינַן לֵיהּ. אֲכַל טְפֵי – מַפְּקִינַן מִינֵּיהּ, וּמְחַשְּׁבִינַן מִשְּׁטָרָא לִשְׁטָרָא.",
+                  "אָמַר רַב אָשֵׁי: הַשְׁתָּא דְּאָמְרַתְּ אֲכַל טְפֵי – לָא מַפְּקִינַן מִינֵּיהּ. אֲכַל שִׁיעוּר זוּזֵי נָמֵי – לָא מְסַלְּקִינַן לֵיהּ בְּלָא זוּזֵי, מַאי טַעְמָא: סַלּוֹקֵי בְּלָא זוּזֵי – אַפּוֹקֵי מִינֵּיהּ הוּא. הָוֵי אֲבַק רִבִּית, וַאֲבַק רִבִּית אֵינָהּ יוֹצְאָה בְּדַיָּינִין.",
+                  "עֲבַד רַב אָשֵׁי עוֹבָדָא בִּיתוֹמִים קְטַנִּים"
+                ],
+                [
+                  "כִּגְדוֹלִים,",
+                  "אָמַר רָבָא בְּרֵיהּ דְּרַב יוֹסֵף מִשְּׁמֵיהּ דְּרָבָא: הַאי מַשְׁכַּנְתָּא, בְּאַתְרָא דִּמְסַלְּקִי – לָא נֵיכוֹל אֶלָּא בְּנַכְיְיתָא. וְצוּרְבָּא מִדְּרַבָּנַן – אֲפִילּוּ בְּנַכְיְיתָא לָא נֵיכוֹל. אֶלָּא בְּמַאי נֵיכוֹל? בְּקִיצּוּתָא.",
+                  "הָנִיחָא לְמַאן דְּאָמַר קִיצּוּתָא שַׁרְיָא, אֶלָּא לְמַאן דְּאָמַר קִיצּוּתָא אֲסִירָא, מַאי אִיכָּא לְמֵימַר? דְּאִתְּמַר: קִיצּוּתָא, פְּלִיגָא בַּהּ רַב אַחָא וְרָבִינָא. חַד אָמַר: קִיצּוּתָא שַׁרְיָא, וְחַד אָמַר: קִיצּוּתָא אֲסִירָא. הֵיכִי דָּמֵי קִיצּוּתָא? דְּאָמַר לֵיהּ: עַד חֲמֵשׁ שְׁנִין אָכֵילְנָא לַהּ בְּלָא נַכְיְיתָא, מִכָּאן וְאֵילָךְ שָׁיֵימְנָא לָךְ כּוּלְּהוּ פֵּירֵי.",
+                  "אִיכָּא דְאָמְרִי: כֹּל בְּלָא נַכְיְיתָא – אָסוּר, אֲבָל הֵיכִי דָּמֵי קִיצּוּתָא – דְּאָמַר לֵיהּ: עַד חֲמֵשׁ שְׁנִין אָכֵילְנָא בְּנַכְיְיתָא, מִכָּאן וְאֵילָךְ שָׁיֵימְנָא לָךְ כּוּלְּהוּ פֵּירֵי.",
+                  "מַאן דְּאָסַר בְּקַמַּיְיתָא שָׁרֵי בְּבָתְרַיְיתָא, מַאן דְּאָסַר בְּבָתְרַיְיתָא, הֵיכִי שְׁרֵי לְמֵיכַל? שְׁרֵי כִּי מַשְׁכַּנְתָּא דְסוּרָא, דְּכָתְבִי בַּהּ הָכִי: בְּמִשְׁלָם שְׁנַיָּא אִילֵּין תִּיפּוֹק אַרְעָא דָּא בְּלָא כְּסַף.",
+                  "רַב פָּפָּא וְרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ אָמְרִי תַּרְוַיְיהוּ: הַאי מַשְׁכַּנְתָּא, בְּאַתְרָא דִּמְסַלְּקִי – אֵין בַּעַל חוֹב גּוֹבֶה הֵימֶנָּה, וְאֵין הַבְּכוֹר נוֹטֵל בָּהּ פִּי שְׁנַיִם, וּשְׁבִיעִית מְשַׁמַּטְתָּהּ.",
+                  "וּבְאַתְרָא דְּלָא מְסַלְּקִי – בַּעַל חוֹב גּוֹבֶה הֵימֶנָּה וּבְכוֹר נוֹטֵל בָּהּ פִּי שְׁנַיִם, וְאֵין שְׁבִיעִית מְשַׁמַּטְתָּהּ.",
+                  "וְאָמַר מָר זוּטְרָא מִשְּׁמֵיהּ דְּרַב פָּפָּא: הַאי מַשְׁכַּנְתָּא, בְּאַתְרָא דִּמְסַלְּקִי – מְסַלְּקִי לֵיהּ וַאֲפִילּוּ מִתַּמְרֵי דְּאַבּוּדְיָא. וְאִי אַגְבְּהִנְהוּ בְּסִיסָנֵי, קְנָנְהוּ. וּלְמַאן דְּאָמַר כִּלְיוֹ שֶׁל לוֹקֵחַ בִּרְשׁוּת מוֹכֵר קָנָה לוֹקֵחַ – אֲפִילּוּ דְּלָא אַגְבְּהִנְהוּ בְּסִיסָנֵי, קְנָנְהוּ.",
+                  "פְּשִׁיטָא: בְּאַתְרָא דִּמְסַלְּקִי וְאָמַר ״לָא מִסְתַּלַּקְנָא״ – הָא קָאָמַר דְּלָא מִסְתַּלַּקְנָא. אֶלָּא בְּאַתְרָא דְּלָא מְסַלְּקִי, וְאָמַר ״מִסְתַּלַּקְנָא״ – מַאי: צָרִיךְ לְמִיקְנֵא מִינֵּיהּ, אוֹ לָא?",
+                  "רַב פָּפָּא אָמַר: לָא צְרִיךְ לְמִקְנֵא מִינֵּיהּ. רַב שֵׁשֶׁת בְּרֵיהּ דְּרַב אִידִי אָמַר: צְרִיךְ לְמִקְנֵא מִינֵּיהּ. וְהִלְכְתָא: צְרִיךְ לְמִקְנֵא מִינֵּיהּ.",
+                  "אָמַר: ״אֵיזִיל וְאַיְיתֵי זוּזֵי״ – לָא אָכֵיל. ״אֵיזִיל וְאֶטְרַח וְאַיְיתֵי זוּזֵי״, רָבִינָא אָמַר: אָכֵיל, וּמָר זוּטְרָא בְּרֵיהּ דְּרַב מָרִי אָמַר: לָא אָכֵיל. וְהִלְכְתָא: לָא אָכֵיל.",
+                  "רַב כָּהֲנָא וְרַב פָּפָּא וְרַב אָשֵׁי לָא אָכְלִי בְּנַכְיְיתָא. רָבִינָא אָכֵיל בְּנַכְיְיתָא.",
+                  "אָמַר מָר זוּטְרָא: מַאי טַעְמָא דְּמַאן דְּאָכֵיל בְּנַכְיְיתָא – מִידֵּי דְּהָוֵה אַשְּׂדֵה אֲחוּזָּה. שְׂדֵה אֲחוּזָּה, לָאו אַף עַל גַּב דְּקָא אָכֵיל פֵּירֵי טוּבָא, אָמַר רַחֲמָנָא"
+                ],
+                [
+                  "קָא פָרֵיק לַהּ בְּאַרְבְּעָה זוּזֵי, הָכָא נָמֵי לָא שְׁנָא.",
+                  "וּמַאן דְּאָסַר – אָמַר לָךְ: שְׂדֵה אֲחוּזָּה הֶקְדֵּשׁ הִיא, וְרַחֲמָנָא אוֹקְמֵיהּ אַפִּדְיוֹן. הָכָא – הַלְוָאָה הִיא וּמִיחֲזֵי כְּרִבִּית.",
+                  "אָמַר רַב אָשֵׁי: אֲמַרוּ לִי סָבֵי דְּמָתָא מַחְסֵיָא: סְתַם מַשְׁכַּנְתָּא – שַׁתָּא. לְמַאי נָפְקָא מִינַּהּ? דְּאִי אָכֵיל לַהּ שַׁתָּא – מָצֵי מְסַלֵּק לֵיהּ, וְאִי לָא – לָא מָצֵי מְסַלֵּק לֵיהּ.",
+                  "וְאָמַר רַב אָשֵׁי: אֲמַרוּ לִי סָבֵי דְּמָתָא מַחְסֵיָא, מַאי ״מַשְׁכַּנְתָּא״ – דִּשְׁכוּנָה גַּבֵּיהּ. לְמַאי נָפְקָא מִינַּהּ? לְדִינָא דְּבַר מִצְרָא."
+                ]
+              ],
+              "link": "/Bava Metzia/67b",
+              "originalRefsBeforeRewriting": [
+                "Bava Metzia 67b:5"
+              ],
+              "ref": "Bava Metzia 67a:12-68a:4",
+              "sourceHeRef": "בבא מציעא ס״ז ב",
+              "sourceRef": "Bava Metzia 67b"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאי לא תימא הכי</strong> - דמחאה כי האי גוונא לא הויא מחאה מאחר שמודה בו שאוכל עכשיו מן הקרקע מן הדין דלא הויא מחאה אלא בטוען פלניא גזלנא הוא כדלקמן:",
+              "ref": "Rashbam on Bava Batra 38a:3:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ג:א",
+              "sourceRef": "Rashbam on Bava Batra 38a:3:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דאי</b> <span class=\"hebrew-emphasis\">[שאם]</span> <b>לא תימא הכי</b> <span class=\"hebrew-emphasis\">[תאמר כך],</span> שסומכים על מחאה כזו, <b>הני</b> <span class=\"hebrew-emphasis\">[אותם]</span> שטרות של <b>משכנתא</b> של <b>סורא</b> שהמלוה גובה את חובו על ידי שהוא מחזיק בקרקעו של הלווה ואוכל מפירותיה במשך זמן מסויים בהתאם לגודל החוב, <b>דכתב</b> <span class=\"hebrew-emphasis\">[שכתוב]</span> <b>בה</b> במשכנתא <b>הכי</b> <span class=\"hebrew-emphasis\">[כך]:</span> <b>\"במישלם שניא אלין תיפוק ארעא דא</b> <span class=\"hebrew-emphasis\">[בסוף השנים האלה תצא קרקע זו]</span> <b>בלא כסף</b> ותחזור לבעליה <b>\",</b> <b>אי כביש ליה</b> <span class=\"hebrew-emphasis\">[אם יחביא אותו]</span> המלוה את <b>שטר</b> ה<b>משכנתא,</b> <b>ואמר</b> <span class=\"hebrew-emphasis\">[ויאמר]</span> לאחר שלוש שנים <b>\"לקוחה היא בידי\", הכי נמי דמהימן</b> <span class=\"hebrew-emphasis\">[כך גם כן</span> תאמר <span class=\"hebrew-emphasis\">ש</span>הוא <span class=\"hebrew-emphasis\">נאמן]?</span> ודאי אין לומר כן, כי הסדר זה של פירעון משכנתא תיקנו חכמים, וכי <b>מיתקני רבנן מילתא דאתי</b> <span class=\"hebrew-emphasis\">[מתקנים חכמים דבר שבא]</span> <b>בה לידי פסידא</b> <span class=\"hebrew-emphasis\">[הפסד]?</span> <b>אלא</b> ההנחה היא כי <b>איבעי ליה למחויי</b> <span class=\"hebrew-emphasis\">[צריך הוא למחות]</span> לפני תום שלוש שנים ולהודיע שקרקע זו שלו היא, ואם לא — מפסיד הוא לעצמו את הקרקע. <b>הכא נמי איבעי ליה למחויי</b> <span class=\"hebrew-emphasis\">[כאן גם כן היה צריך למחות]</span> ולהודיע שקרקע זו שלו היא.",
+              "ref": "Steinsaltz on Bava Batra 38a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ח א:ג",
+              "sourceRef": "Steinsaltz on Bava Batra 38a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שיש מחאה ממין זה, שאינו מוחה על כך שהמחזיק בקרקע הוא גזלן (שהרי ברשות הבעלים ירד לקרקע זו), אלא שמודיע לכל שהקרקע עצמה היא ברשות הבעלים. וראה לעיל לה,ב.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 38a:3",
+              "sourceHeRef": "דאי לא תימא הכי",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The assumption that lodging a protest would be effective must be correct, <b>since if you do not say so,</b> then in the case of <b>these mortgages</b> according to the custom <b>in Sura,</b> a city in Babylonia, the debtor will not have a way to prevent the creditor from keeping his land. <b>As in</b> mortgages of that type it is <b>written like this: At the completion of these years this land will be released</b> to its prior owner <b>without</b> any need for the prior owner to give <b>money. If</b> the creditor were to <b>hide</b> the <b>mortgage document in his possession and say:</b> This land <b>is purchased</b> and that is why it is <b>in my possession, here</b> is it <b>also</b> the case <b>that</b> he would be <b>deemed credible?</b> That cannot be, as is it reasonable that <b>the Sages would institute a matter,</b> such as this type of arrangement, <b>that</b> people <b>can be led by it to</b> suffer <b>a loss? Rather,</b> in the case of the mortgage the debtor <b>should have protested,</b> and by not protesting, he causes his own loss. <b>Here too,</b> in the case of the tree, the owner <b>should have protested.</b>",
+      "he": "דְּאִי לָא תֵּימָא הָכִי, הָנֵי מַשְׁכְּנָתָא דְסוּרָא – דִּכְתִב בְּהִי הָכִי: ״בְּמִישְׁלַם שְׁנַיָּא אִלֵּין, תִּיפּוֹק אַרְעָא דָּא בְּלָא כְּסַף״; אִי כָּבֵישׁ לֵיהּ לִשְׁטַר מַשְׁכַּנְתָּא, וְאָמַר: ״לְקוּחָה הִיא בְּיָדִי״ – הָכִי נָמֵי דִּמְהֵימַן?! מְיתַקְּנִי רַבָּנַן מִילְּתָא דְּאָתֵי בַּהּ לִידֵי פְסֵידָא? אֶלָּא אִיבְּעִי לֵיהּ לְמַחוֹיֵי; הָכָא נָמֵי, אִיבְּעִי לֵיהּ לְמַחוֹיֵי,",
+      "ref": "Bava Batra 38a:3"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The mishna continues: <b>And Rabbi Yehoshua concedes in</b> a case where <b>one says to another:</b> This field belonged to your father, and I purchased it from him, that he is deemed credible. The Gemara asks: <b>And let</b> the mishna <b>teach: Rabbi Yehoshua concedes in</b> a case where <b>one says to another: This field belonged to you, and I purchased it from you.</b>",
+                  "The Gemara answers: Although Rabbi Yehoshua concedes that his claim is accepted even in that latter case, he addressed the case where the field originally belonged to the father <b>due to</b> the fact <b>that</b> the <i>tanna</i> <b>wanted to teach</b> in <b>the latter clause that if there are witnesses that it was</b> the father’s field, <b>and he says: I purchased it from him, he is not deemed credible.</b> That is the <i>halakha</i> only with regard to a field that belonged to the father, and not to the claimant himself. Were it referring to a field that he purchased from the claimant, <b>what are the circumstances?</b>",
+                  "<b>If</b> it is a case <b>where</b> the one in possession of the field <b>consumed</b> its produce for the three <b>years</b> necessary to establish <b>presumptive ownership, why is his</b> claim that he purchased the field <b>not deemed credible?</b> After three years of unchallenged possession, the purchaser’s claim is sufficient to establish ownership without documentation. <b>And if he did not consume</b> its produce for the three <b>years</b> necessary to establish <b>presumptive ownership,</b> it is <b>obvious that his</b> claim <b>is not deemed credible.</b> Since the distinction between a case where witnesses are present and a case where there are no witnesses present does not apply when the field in question was the property of the claimant, the <i>tanna</i> cited a case where the field belonged to the father.",
+                  "The Gemara asks: <b>If so,</b> the same difficulty may be raised <b>with regard to</b> a field belonging to the claimant’s <b>father as well: If</b> the one in possession of the field <b>consumed</b> its produce for the three <b>years</b> necessary to establish <b>presumptive ownership, why is his</b> claim that he purchased the field <b>not deemed credible? And if he did not consume</b> its produce for the three <b>years</b> necessary to establish <b>presumptive ownership,</b> it is <b>obvious that his</b> claim <b>is not deemed credible.</b> The latter clause is no more applicable to the father’s field than it is to the claimant’s field. Why did the <i>tanna</i> prefer to cite a case where the field belonged to the claimant’s father?",
+                  "The Gemara answers: <b>Granted, with regard to</b> the case where the field belonged to <b>his father,</b> a circumstance can <b>be found</b> where there is uncertainty with regard to the presumptive ownership of the field, <b>where</b> the one in possession of the field <b>consumed</b> its produce for <b>two</b> of the three years necessary to establish presumptive ownership <b>during the lifetime of the father</b> and <b>one</b> year <b>during the lifetime of the son</b> after the death of his father. <b>And</b> this is <b>in accordance with</b> the opinion of <b>Rav Huna, as Rav Huna said: One cannot establish presumptive ownership of the property of a minor, even</b> after <b>he reached majority.</b> This is because the minor is unaware of the property owned by his father; the fact that he did not challenge the claim of the one in possession of the field proves nothing. Therefore, only two of the three years necessary to establish presumptive ownership have passed.",
+                  "The Gemara asks: <b>And</b> since the mishna can be explained only in the case delineated by Rav Huna, <b>did Rav Huna come to teach us a mishna?</b> There is no need for an <i>amora</i> to teach matters that appear in a mishna, as the content of <i>mishnayot</i> is known by all. The Gemara answers: <b>If you wish, say</b> that <b>Rav Huna is stating the inference from the mishna,</b> as the circumstances are not written explicitly in the mishna. <b>And if you wish, say</b> instead <b>that he is teaching us</b> that even if during the year after the father died his son was no longer a minor, one may not establish presumptive ownership of the property of a minor, <b>even</b> after <b>he reached majority.</b> From the mishna, one could learn only a case where during the third year the son was still a minor.",
+                  "The Gemara asks: <b>And let</b> the <i>tanna</i> <b>teach</b> the <i>halakha</i> <b>in</b> a case where the one in possession of the field says that he purchased the field from the claimant <b>himself. And let him establish</b> the mishna in a case <b>where</b> the one in possession of the field <b>consumed</b> its produce <b>in the presence</b> of the claimant, who was the original owner of the field, for <b>two</b> of the three years necessary to establish presumptive ownership, <b>and</b> consumed its produce not <b>in his presence</b> for <b>one</b> year. <b>And</b> that scenario is in a case <b>where</b> the claimant <b>fled</b> and therefore, the fact that he did not challenge the claim of the one in possession of the field proves nothing.",
+                  "The Gemara asks: That scenario is referring to one who <b>fled due to what</b> reason? <b>If</b> it is <b>that he fled due to</b> the fact that his <b>life</b> was in jeopardy, it is <b>obvious that</b> the one claiming presumptive ownership <b>is not deemed credible, since</b> the owner of the field <b>is unable to protest,</b> as he fears for his life. <b>And if he fled due to money</b> that he owes, and that is why he does not return to protest the possessor’s occupation of the field, <b>he ought to protest</b> from afar, <b>as we maintain that a protest</b> lodged <b>not in the presence of</b> the one using the field <b>is a</b> legitimate <b>protest.</b> He could have lodged in a court in his place of exile his protest against the illegal occupation of his field.",
+                  "This is <b>as we learned</b> in a mishna (<i>Bava Batra</i> 38a): There are <b>three</b> independent <b>lands</b> in Eretz Yisrael with regard to establishing <b>presumptive ownership: Judea, Transjordan, and the Galilee.</b> If the original owner of the field <b>was in Judea</b> and another <b>occupied</b> his field <b>in the Galilee,</b> or if he was <b>in the Galilee</b> and another <b>occupied</b> his field <b>in Judea,</b> that does <b>not</b> establish <b>presumptive ownership, until</b> the one occupying the field <b>will be with</b> the original owner <b>in the same country.</b>",
+                  "<b>And we discussed</b> that mishna: <b>What does</b> this <i>tanna</i> <b>hold? If he holds that a protest</b> lodged <b>not in the presence of</b> the one using the field <b>is</b> a legitimate <b>protest,</b> then <b>even in</b> the case where one is in <b>Judea and</b> one is in the <b>Galilee</b> the protest should <b>also</b> be legitimate. <b>And if he holds that a protest</b> lodged <b>not in the presence of</b> the one using the field <b>is not</b> a legitimate <b>protest,</b> then <b>even</b> in the case where one is in <b>Judea and</b> the other one is in <b>Judea</b> as well, the protest should <b>also not</b> be legitimate.",
+                  "<b>Rabbi Abba bar Memel said: Actually</b> the <i>tanna</i> <b>holds that a protest</b> lodged <b>not in the presence of</b> the one using the field <b>is</b> a legitimate <b>protest, and</b> the Sages <b>taught this mishna with regard to a crisis period,</b> when travel is perilous and information cannot be transmitted from Judea to the Galilee. Therefore, although no protest was received from the original owner, the occupier does not establish presumptive ownership of the field, because the lack of protest can be attributed to the perilous situation.",
+                  "The Gemara asked: <b>And</b> if it is due only to the exigent circumstances that the protest is ineffective, <b>what is different</b> about <b>Judea and</b> the <b>Galilee that</b> the <i>tanna</i> <b>cited</b> specifically these two lands? Ostensibly, even within one of the three lands, if travel and communications are restricted, the same <i>halakha</i> would apply."
+                ],
+                [
+                  "The Gemara answers: The reason that the <i>tanna</i> cited specifically a case where each is located in a different land is <b>that</b> the <b>standard</b> situation with regard to travel between <b>Judea and</b> the <b>Galilee is tantamount to a crisis period,</b> as war was commonplace, and there was a strip of Samaritan territory between Judea and the Galilee.",
+                  "The Gemara asks: <b>And let</b> the <i>tanna</i> <b>teach</b> in the mishna: <b>And Rabbi Yehoshua concedes in</b> a case where <b>one says to another: I borrowed one hundred</b> dinars <b>from you and repaid</b> the loan <b>to you, that he is deemed credible.</b> The Gemara answers: The <i>tanna</i> chose not to teach that case of the mouth that prohibited is the mouth that permitted <b>due to</b> the fact <b>that</b> the <i>tanna</i> <b>wanted to teach</b> in <b>the latter clause: If there are witnesses that he borrowed</b> money <b>from</b> another, <b>and he says: I repaid</b> the loan, <b>he is not deemed credible.</b> However, the <i>tanna</i> would not be able to distinguish between a case where witnesses testify and a case where there are no witnesses, <b>as don’t we hold</b> that in the case of <b>one who lends</b> money to <b>another in</b> the presence of <b>witnesses,</b> the borrower <b>need not repay</b> the loan <b>in</b> the presence of <b>witnesses?</b> Therefore, even if witnesses testify that he took the loan, his claim that he repaid the loan is accepted.",
+                  "The Gemara asks: <b>And let</b> the <i>tanna</i> <b>teach</b> in the mishna: <b>And Rabbi Yehoshua concedes in</b> a case where <b>one says to another: Your father has one hundred dinars in my possession</b> in the form of a loan, <b>but I provided him</b> with repayment of <b>half</b> that amount, that <b>his</b> claim is <b>deemed credible.</b>",
+                  "The Gemara answers: There is a tannaitic dispute with regard to that case and the case that the Gemara suggested does not correspond to either opinion. <b>In accordance with whose</b> opinion would the mishna be taught? <b>If</b> it is <b>in accordance with</b> the opinion <b>of the Rabbis, didn’t they say</b> that in that case <b>he is</b> the equivalent of <b>one returning a lost article?</b> Since the son is unaware that the borrower owes his father money, and the borrower takes the initiative and admits that he owes part of the sum that he borrowed, it is as if he returned a lost article, and clearly his claim is accepted and no oath is required. <b>And if</b> it is <b>in accordance with</b> the opinion <b>of Rabbi Eliezer ben Ya’akov, didn’t he say</b> that in that case the borrower is <b>required</b> to take <b>an oath,</b> and only then is his claim accepted?",
+                  "This dispute is <b>as it is taught</b> in a <i>baraita</i> that <b>Rabbi Eliezer ben Ya’akov says:</b> There are <b>times when</b> although no one claimed that another owes him money, <b>a person takes an oath on</b> the basis of <b>his own claim. How</b> so? If one says to another: <b>Your father has one hundred dinars in my possession, but I provided him</b> with repayment of <b>half</b> that amount, <b>he</b> is required to <b>take an oath</b> that he repaid half, <b>and that is</b> the case of one <b>who takes an oath on</b> the basis of <b>his own claim. And the Rabbis say:</b> In that case <b>he is merely</b> the <b>equivalent of one returning a lost article, and is exempt</b> from taking an oath.",
+                  "The Gemara asks: <b>And is Rabbi Eliezer ben Ya’akov not of</b> the opinion that <b>one who returns a lost article is exempt from taking an oath</b> that he did not take part of the sum? He returns what he admitted taking without an oath. <b>Rav says:</b> The <i>baraita</i> is referring to a case <b>where a minor makes a claim</b> against <b>him.</b> The lender’s minor son claims that the borrower did not repay any part of the loan to his father. The borrower’s claim comes in response to that claim. Therefore, his admission is not at all comparable to returning a lost article. The Gemara asks: <b>But didn’t the Master say: One does not take an oath on</b> the basis of <b>the claim of a deaf-mute, an imbecile, or a minor?</b> Due to their lack of cognition, they are not deemed halakhically competent to require another to take an oath based on their claim.",
+                  "The Gemara answers: In Rav’s statement, <b>what</b> is the meaning of <b>minor?</b> It means one who reached <b>majority,</b> and is therefore halakhically competent. <b>And why does</b> Rav <b>call him a minor?</b> It is due to the fact <b>that with regard to his father’s matters, he is</b> the equivalent of <b>a minor,</b> as he is uncertain about the particulars of his father’s dealings. <b>If so,</b> i.e., that the son making the claim has already reached majority, the language of the <i>baraita</i> is imprecise. Why does the <i>tanna</i> refer to this case as one taking an oath on the basis of <b>his own claim?</b> This is not his own claim; it <b>is the claim of others.</b> The Gemara answers: The <i>baraita</i> employed that language for the following reason: It <b>is the claim of others, but</b> he is taking an oath on the basis of <b>his own</b> partial <b>admission.</b>",
+                  "The Gemara asks: <b>All claims</b> where an oath is required <b>are</b> cases of <b>a claim of others and his own admission.</b> However, in the <i>baraita</i>, Rabbi Eliezer ben Ya’akov introduces his opinion with the phrase: There are times, indicating that the case to which he is referring, that of one taking an oath on the basis of his own claim, is not the standard case of taking an oath.",
+                  "<b>Rather,</b> the Gemara suggests an alternative explanation of the tannaitic dispute. <b>Here,</b> Rabbi Eliezer ben Ya’akov and the Rabbis <b>disagree with regard to</b> the statement of <b>Rabba, as Rabba said: Why did the Torah say that</b> one who <b>makes a partial admission</b> in response to <b>the claim</b> is required to <b>take an oath?</b> It is because there is a <b>presumption</b> that <b>a person</b> would <b>not be</b> so <b>insolent in the presence of his creditor</b> as to deny his debt. Presumably, <b>this</b> borrower who made a partial admission <b>would have liked to deny the entire</b> loan, <b>and</b> the fact <b>that he did not deny</b> the entire loan <b>is due to</b> the fact <b>that a person</b> would <b>not be</b> so <b>insolent</b> in the presence of his creditor."
+                ],
+                [
+                  "<b>And,</b> as a result, <b>he would have liked to admit to him that</b> he owes him the <b>entire</b> loan. <b>And</b> the reason <b>that he did not admit to him</b> that he owes him the entire loan is <b>so that he may</b> temporarily <b>avoid</b> paying <b>him. And he rationalizes</b> doing so, saying to himself: I am avoiding him only <b>until</b> the time <b>that I have money, and</b> then <b>I will repay him.</b> Due to the concern that the partial admission is motivated by that rationalization and the claim of the lender is true, <b>the Merciful One says: Impose an oath upon him so that he will admit that</b> he owes him the <b>entire</b> loan.",
+                  "<b>Rabbi Eliezer ben Ya’akov maintains:</b> It is <b>no different with regard to</b> the creditor himself, and it is <b>no different with regard to his son.</b> The debtor would <b>not be</b> so <b>insolent</b> as to deny the debt. <b>And therefore, he is not</b> considered as <b>one returning a lost article</b> on his own initiative. Rather, he is considered as one who partially admits his debt in response to a claim, and is therefore required to take an oath. <b>However, the Rabbis maintain: In</b> the presence of the creditor one would <b>not be insolent, but in</b> the presence of <b>his son,</b> who did not lend him the money, <b>he</b> would be <b>insolent</b> and deny the claim entirely. Since he had the option of completely denying the loan and opted to admit to part of the claim, <b>he is</b> considered as <b>one returning a lost article</b> and his claim is accepted without an oath."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Ketubot 17b:5",
+                "Ketubot 17b:6",
+                "Ketubot 17b:7",
+                "Ketubot 17b:8",
+                "Ketubot 17b:9",
+                "Ketubot 17b:10",
+                "Ketubot 17b:11",
+                "Ketubot 17b:12",
+                "Ketubot 17b:13",
+                "Ketubot 17b:14",
+                "Ketubot 17b:15",
+                "Ketubot 17b:16",
+                "Ketubot 18a:1",
+                "Ketubot 18a:2",
+                "Ketubot 18a:3",
+                "Ketubot 18a:4",
+                "Ketubot 18a:5",
+                "Ketubot 18a:6",
+                "Ketubot 18a:7",
+                "Ketubot 18a:8",
+                "Ketubot 18a:9",
+                "Ketubot 18b:1",
+                "Ketubot 18b:2"
+              ],
+              "he": [
+                [
+                  "וּמוֹדֶה רַבִּי יְהוֹשֻׁעַ בְּאוֹמֵר לַחֲבֵירוֹ כּוּ׳. וְלִיתְנֵי: מוֹדֶה רַבִּי יְהוֹשֻׁעַ בְּאוֹמֵר לַחֲבֵירוֹ שָׂדֶה זוֹ שֶׁלְּךָ הָיְתָה, וּלְקַחְתִּיהָ מִמְּךָ?",
+                  "מִשּׁוּם דְּקָא בָעֵי לְמִיתְנֵי סֵיפָא: אִם יֵשׁ עֵדִים שֶׁהִיא שֶׁלּוֹ, וְהוּא אוֹמֵר: ״לְקַחְתִּיהָ מִמֶּנּוּ״ — אֵינוֹ נֶאֱמָן. הֵיכִי דָּמֵי?",
+                  "אִי דְּאַכְלַהּ שְׁנֵי חֲזָקָה — אַמַּאי לָא מְהֵימַן?! וְאִי דְּלָא אַכְלַהּ שְׁנֵי חֲזָקָה — פְּשִׁיטָא דְּלָא מְהֵימַן!",
+                  "אִי הָכִי, גַּבֵּי אָבִיו נָמֵי: אִי דְּאַכְלַהּ שְׁנֵי חֲזָקָה — אַמַּאי לָא מְהֵימַן?! וְאִי דְּלָא אַכְלַהּ שְׁנֵי חֲזָקָה — פְּשִׁיטָא דְּלָא מְהֵימַן!",
+                  "בִּשְׁלָמָא גַּבֵּי אָבִיו מַשְׁכַּחַתְּ לַהּ, כְּגוֹן שֶׁאֲכָלָהּ שְׁתַּיִם בְּחַיֵּי הָאָב, וְאַחַת בְּחַיֵּי בְנוֹ, וְכִדְרַב הוּנָא. דְּאָמַר רַב הוּנָא: אֵין מַחֲזִיקִין בְּנִכְסֵי קָטָן, אֲפִילּוּ הִגְדִּיל.",
+                  "וְרַב הוּנָא מַתְנִיתִין אֲתָא לְאַשְׁמוֹעִינַן? אִיבָּעֵית אֵימָא: רַב הוּנָא דִּיּוּקָא דְמַתְנִיתִין קָאָמַר. וְאִיבָּעֵית אֵימָא: אֲפִילּוּ הִגְדִּיל קָא מַשְׁמַע לַן.",
+                  "וְלִיתְנְיַיהּ בְּדִידֵיהּ, וְלוֹקְמַהּ כְּגוֹן שֶׁאֲכָלָהּ שְׁתַּיִם בְּפָנָיו וְאַחַת שֶׁלֹּא בְּפָנָיו, וּכְגוֹן שֶׁבָּרַח.",
+                  "בָּרַח מֵחֲמַת מַאי? אִי דְּבָרַח מֵחֲמַת נְפָשׁוֹת — פְּשִׁיטָא דְּלָא מְהֵימַן, דְּלָא מָצֵי [מְ]מַחֵי. וְאִי דְּבָרַח מֵחֲמַת מָמוֹן, אִיבְּעִי לֵיהּ לְמַחוֹיֵי. דְּקַיְימָא לַן: מֶחָאָה שֶׁלֹּא בְּפָנָיו — הָוְיָא מֶחָאָה.",
+                  "דִּתְנַן, שָׁלֹשׁ אֲרָצוֹת לַחֲזָקָה: יְהוּדָה, וְעֵבֶר הַיַּרְדֵּן, וְהַגָּלִיל. הָיָה בִּיהוּדָה וְהֶחֱזִיק בַּגָּלִיל, בַּגָּלִיל וְהֶחֱזִיק בִּיהוּדָה — אֵינָהּ חֲזָקָה, עַד שֶׁיְּהֵא עִמּוֹ בִּמְדִינָה.",
+                  "וְהָוֵינַן בַּהּ: מַאי קָסָבַר? אִי קָסָבַר מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה — אֲפִילּוּ בִּיהוּדָה וְגָלִיל נָמֵי. וְאִי קָסָבַר מֶחָאָה שֶׁלֹּא בְּפָנָיו לָא הָוְיָא מֶחָאָה — אֲפִילּוּ יְהוּדָה וִיהוּדָה נָמֵי לָא!",
+                  "אָמַר רַבִּי אַבָּא בַּר מֶמֶל: לְעוֹלָם קָסָבַר מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה, וּמַתְנִיתִין בִּשְׁעַת חֵירוּם שָׁנוּ.",
+                  "וּמַאי שְׁנָא יְהוּדָה וְגָלִיל דְּנָקֵט?"
+                ],
+                [
+                  "דִּסְתַם יְהוּדָה וּגְלִיל כִּשְׁעַת חֵירוּם דָּמוּ.",
+                  "וְלִיתְנֵי: מוֹדֶה רַבִּי יְהוֹשֻׁעַ בְּאוֹמֵר לַחֲבֵירוֹ ״מָנֶה לָוִיתִי מִמְּךָ וּפְרַעְתִּיו לָךְ״, שֶׁהוּא נֶאֱמָן! מִשּׁוּם דְּקָא בָּעֵי לְמִיתְנֵי סֵיפָא: אִם יֵשׁ עֵדִים שֶׁהוּא לָוָה מִמֶּנּוּ, וְהוּא אוֹמֵר: פְּרַעְתִּיו — אֵינוֹ נֶאֱמָן, וְהָא קַיְימָא לַן הַמַּלְוֶה אֶת חֲבֵירוֹ בְּעֵדִים — אֵינוֹ צָרִיךְ לְפׇרְעוֹ בְּעֵדִים.",
+                  "וְלִיתְנֵי: מוֹדֶה רַבִּי יְהוֹשֻׁעַ בְּאוֹמֵר לַחֲבֵירוֹ: מָנֶה לְאָבִיךְ בְּיָדִי, וְהֶאֱכַלְתִּיו פְּרָס — שֶׁהוּא נֶאֱמָן!",
+                  "אַלִּיבָּא דְמַאן? אִי אַלִּיבָּא דְרַבָּנַן — הָא אָמְרִי מֵשִׁיב אֲבֵידָה הָוֵי. אִי אַלִּיבָּא דְּרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב — הָא אָמַר שְׁבוּעָה בָּעֵי.",
+                  "דְּתַנְיָא, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר: פְּעָמִים שֶׁאָדָם נִשְׁבָּע עַל טַעֲנַת עַצְמוֹ. כֵּיצַד? ״מָנֶה לְאָבִיךְ בְּיָדִי וְהֶאֱכַלְתִּיו פְּרָס״ — הֲרֵי זֶה נִשְׁבָּע, וְזֶהוּ שֶׁנִּשְׁבָּע עַל טַעֲנַת עַצְמוֹ. וַחֲכָמִים אוֹמְרִים: אֵינוֹ אֶלָּא כְּמֵשִׁיב אֲבֵידָה, וּפָטוּר.",
+                  "וְרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב לֵית לֵיהּ מֵשִׁיב אֲבֵידָה פָּטוּר? אָמַר רַב: בְּטוֹעֲנוֹ קָטָן. וְהָאָמַר מָר: אֵין נִשְׁבָּעִין עַל טַעֲנַת חֵרֵשׁ שׁוֹטֶה וְקָטָן!",
+                  "מַאי קָטָן — גָּדוֹל. וְאַמַּאי קָרֵי לֵיהּ קָטָן — דִּלְגַבֵּי מִילֵּי דְאָבִיו, קָטָן הוּא. אִי הָכִי: טַעֲנַת עַצְמוֹ? טַעֲנַת אֲחֵרִים הִיא! טַעֲנַת אֲחֵרִים, וְהוֹדָאַת עַצְמוֹ.",
+                  "כּוּלְּהִי טַעֲנָתָא, טַעֲנַת אֲחֵרִים וְהוֹדָאַת עַצְמוֹ נִינְהוּ!",
+                  "אֶלָּא הָכָא בִּדְרַבָּה קָמִיפַּלְגִי. דְּאָמַר רַבָּה: מִפְּנֵי מָה אָמְרָה תּוֹרָה מוֹדֶה מִקְצָת הַטַּעֲנָה יִשָּׁבַע — חֲזָקָה אֵין אָדָם מֵעִיז פָּנָיו בִּפְנֵי בַּעַל חוֹבוֹ. וְהַאי בְּכוּלַּהּ בָּעֵי דְּלִכְפְּרֵיהּ, וְהַאי דְּלָא כְּפַר לֵיהּ — מִשּׁוּם דְּאֵין אָדָם מֵעִיז פָּנָיו הוּא."
+                ],
+                [
+                  "וּבְכוּלַּהּ בָּעֵי דְּלוֹדֵי לֵיהּ. וְהַאי דְּלָא אוֹדִי לֵיהּ — כִּי הֵיכִי דְּלִישְׁתְּמִיט לֵיהּ, וְסָבַר: עַד דְּהָוֵה לִי זוּזֵי וּפָרַעְנָא לֵיהּ. וְרַחֲמָנָא אָמַר: רְמִי שְׁבוּעָה עֲלֵיהּ, כִּי הֵיכִי דְּלוֹדֵי לֵיהּ בְּכוּלֵּיהּ.",
+                  "רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב סָבַר: לָא שְׁנָא בּוֹ וְלָא שְׁנָא בִּבְנוֹ, אֵינוֹ מֵעִיז, וְהִלְכָּךְ לָאו מֵשִׁיב אֲבֵידָה הָוֵי. וְרַבָּנַן סָבְרִי: בּוֹ הוּא דְּאֵינוֹ מֵעִיז, אֲבָל בִּבְנוֹ — מֵעִיז. וּמִדְּלֹא הֵעִיז — מֵשִׁיב אֲבֵידָה הָוֵי."
+                ]
+              ],
+              "link": "/Ketubot/17b",
+              "originalRefsBeforeRewriting": [
+                "Ketubot 17b:13"
+              ],
+              "ref": "Ketubot 17b:5-18b:2",
+              "sourceHeRef": "כתובות י״ז ב",
+              "sourceRef": "Ketubot 17b"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "There are <b>three</b> independent <b>lands</b> in Eretz Yisrael <b>with regard to</b> establishing <b>presumptive ownership: Judea, and Transjordan, and the Galilee.</b> If the prior owner of the field <b>was in Judea and</b> another <b>took possession</b> of his field <b>in the Galilee,</b> or if he was <b>in the Galilee and</b> another <b>took possession</b> of his field <b>in Judea,</b> the possessor does <b>not</b> establish <b>presumptive ownership until</b> the one possessing the field <b>will be with</b> the prior owner <b>in one province. Rabbi Yehuda says:</b> The Sages <b>said</b> that establishing presumptive ownership requires <b>three years only in order that</b> if the owner <b>will be in Spain [<i>Aspamya</i>], and</b> another <b>possesses</b> his field for <b>a year,</b> people <b>will go and inform</b> the owner by the end of the next <b>year, and</b> the owner will <b>come</b> back <b>in</b> the <b>following year</b> and take the possessor to court.",
+              "he": "שָׁלֹשׁ אֲרָצוֹת לַחֲזָקָה, יְהוּדָה וְעֵבֶר הַיַּרְדֵּן וְהַגָּלִיל. הָיָה בִיהוּדָה וְהֶחֱזִיק בַּגָּלִיל, בַּגָּלִיל וְהֶחֱזִיק בִּיהוּדָה, אֵינָהּ חֲזָקָה, עַד שֶׁיְּהֵא עִמּוֹ בַמְּדִינָה. אָמַר רַבִּי יְהוּדָה, לֹא אָמְרוּ שָׁלֹשׁ שָׁנִים אֶלָּא כְדֵי שֶׁיְּהֵא בְאַסְפַּמְיָא, וְיַחֲזִיק שָׁנָה, וְיֵלְכוּ וְיוֹדִיעוּהוּ שָׁנָה, וְיָבֹא לְשָׁנָה אַחֶרֶת:",
+              "link": "/Mishnah Bava Batra/3",
+              "ref": "Mishnah Bava Batra 3:2",
+              "sourceHeRef": "משנה בבא בתרא ג:ב",
+              "sourceRef": "Mishnah Bava Batra 3:2"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> בגליל והחזיק ביהודה אינה חזקה עד שיהא עמו במדינה.</b> פירוש, בסוף השלש, אבל היה עמו במדינה בתחלת השלש ולא בסוף השלש, לא עלתה לו חזקה, משום דתחלת שלש אינה עושה חזקה אלא סוף שלש, ובסופן לא היה זה במדינה שימחה, ואוקימנא בגמרא דדוקא בשעת חרום, ואי נממי בסתם יהודה וגליל דכשעת חרום דאמי, הא בזמן ששירות מצויות אפילו יהודה וגליל כארץ אחד ועלתה לו חזקה.",
+              "ref": "Rashba on Bava Batra 38a:1",
+              "sourceHeRef": "רשב״א על בבא בתרא ל״ח א:א",
+              "sourceRef": "Rashba on Bava Batra 38a:1"
+            },
+            {
+              "en": "",
+              "he": "<b>אמר רב יהודה לא אמרו שלש שנים וכו'.</b> כלומר וחכמים הלכו אחר המרחק הבינוני, שאדם מתרחק מביתו מהלך שנה לפעמים. ושמעינן מדרבי יהודה תרתי, חדא דבפניו לאלתר הויא חזקה, דלא אמרו שלש אל למי שאינו עמו בעיר. ועוד דאפילו בשעת חרום ואפילו היה במקום רחוק אי אפשר שלא שמע, והיה לו למחוןת,פ דאף המחאה אי אפשר שלא תשמע בשנה, ומכל מקום אין הלכה כרבי יהודה אלא כתנא קמא.",
+              "ref": "Rashba on Bava Batra 38a:2",
+              "sourceHeRef": "רשב״א על בבא בתרא ל״ח א:ב",
+              "sourceRef": "Rashba on Bava Batra 38a:2"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמרינן בגמרת ארץ ישראל א\"ר אלעזר אפי' שתי אכסניות כגון שלומי ונבורו והירדן מפסיק בינתים ועומד ורואה אחד מחזיק בשדה שלו אינה חזקה עד שיהא עמו באותה העיר ובאותה מדינה רב אמר עיקר חזקה הכנסת פירות דאפי' ראהו חורש וקוצר ומעמר ודש וזורה ובורר ולא ראהו מכניס פירות אינה חזקה עד שיראהו מכניס פירות:",
+              "ref": "Rashbam on Bava Batra 38a:4:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ד:א",
+              "sourceRef": "Rashbam on Bava Batra 38a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלש ארצות</strong> - בארץ ישראל:",
+              "ref": "Rashbam on Bava Batra 38a:4:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ד:ב",
+              "sourceRef": "Rashbam on Bava Batra 38a:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לחזקה</strong> - חלוקות זו מזו לענין חזקת שלש שנים כדמפרש ואזיל:",
+              "ref": "Rashbam on Bava Batra 38a:4:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ד:ג",
+              "sourceRef": "Rashbam on Bava Batra 38a:4:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">היה</strong> - בעל הקרקע ביהודה והחזיק בגליל שהיה הקרקע בגליל והחזיק בה אדם שלש שנים בלא מחאה אינה חזקה כדמפרש טעמא בגמרא דסתם יהודה וגליל כשעת חירום דמי שאין שיירות מצויות מזו לזו ולא הויא מחאת בעל הקרקע מחאה שהרי אין מי שיגיד לו למחזיק שמיחה זה ויזהר בשטרו דהא אין שיירות מצויות הלכך כיון דאינו יכול למחות אע\"ג דלא מיחה לא הפסיד בשתיקתו והיה לו לזה המחזיק ליזהר בשטרו שהרי יודע שאין בעל הקרקע יכול למחות:",
+              "ref": "Rashbam on Bava Batra 38a:4:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ד:ד",
+              "sourceRef": "Rashbam on Bava Batra 38a:4:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">עד שיהא עמו במדינה</strong> - כגון שהיה ביהודה בעיר אחת והחזיק ביהודה בעיר אחרת דכיון דשיירות מצויות הוה ליה למחויי ומדלא מיחה הפסיד:",
+              "ref": "Rashbam on Bava Batra 38a:4:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ד:ה",
+              "sourceRef": "Rashbam on Bava Batra 38a:4:5"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">א\"ר יהודה לא אמרו שלש שנים כו'</strong> - לחלוק בא ולומר דאינן חלוקות לחזקה דהיה בגליל והחזיק ביהודה הויא חזקה ואפילו היה באספמיא שהוא רחוק מהלך שנה מארץ ישראל והחזיק בארץ ישראל הויא חזקה שהרי לכך האריכו שני חזקה זמן מרובה של שלש שנים כדי שיעור שאם היה באספמיא ואם יחזיק זה בקרקע שלו שנה ובתוך שנה ראשונה יצא הקול ילכו בשנה שניה ויודיעוהו לבעל הקרקע ולשנה שלישית יבא וימחה ובגמרא מפרש אי בעי ר' יהודה מחאה בפניו או לא ויותר ממהלך שנה אין דרך אדם להרחיק מביתו ולפי ההוה תקנו וטעמא דר' יהודה לא משום דתלת שנין מיזדהר איניש בשטריה אלא כדמפרש כדי שיהא כו' וטעמא דחזקה לדידיה דלא שביק איניש דאכלוה לארעיה בלא רשותיה ואפילו שעה אחת ושתיק אלא לכך האריכו שלש שנים שפעמים היה המערער רחוק אבל אי הוי המערער בעיר הוי חזקה מיד כדאמרי' לקמן בפירקין:",
+              "ref": "Rashbam on Bava Batra 38a:4:6",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ד:ו",
+              "sourceRef": "Rashbam on Bava Batra 38a:4:6"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "רבי ישמעאל אומר שלשה חדשים בראשונה ושלשה חדשים באחרונה ושנים עשר חדש באמצע הרי אלו שמונה עשר חדש ר\"ע אומר חדש אחד בראשונה וחדש אחד באחרונה ושנים עשר חדש באמצע הרי אלו י\"ד חדש אמר רבי ישמעאל במה דברים אמורים בשדה הלבן אבל בשדה האילן כנס את תבואתו ומסק את זיתיו וכנס את קייצו הרי אלו שלש שנים:",
+              "ref": "Rosh on Bava Batra 3:26:2",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:כו:ב",
+              "sourceRef": "Rosh on Bava Batra 3:26:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א משנה</big> <b>שלש ארצות לחזקה</b> בתוך ארץ ישראל, והן: <b>יהודה, ועבר הירדן, והגליל.</b> ומה עניינה של חלוקה זו? אם <b>היה</b> בעל הקרקע <b>ביהודה והחזיק</b> אדם בקרקעו <b>בגליל,</b> או היה <b>בגליל והחזיק ביהודה</b> — <b>אינה חזקה,</b> אף אם לא מחה במשך שלוש שנים, <b>עד שיהא</b> בעל הקרקע <b>עמו במדינה אחת. אמר ר' יהודה: לא אמרו שלש שנים</b> של חזקה, <b>אלא כדי שיהא</b> בעל הקרקע <b>באספמיא</b> הרחוקה <b>ויחזיק</b> אדם בקרקע שלו <b>שנה, ילכו</b> <b>ויודיעוהו שנה,</b> שעד שיגיעו אנשים אל בעל הקרקע באספמיא תעבור עוד שנה, <b>ויבא</b> בעל הקרקע <b>לשנה אחרת</b> לדון עם המחזיק.",
+              "ref": "Steinsaltz on Bava Batra 38a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ח א:ד",
+              "sourceRef": "Steinsaltz on Bava Batra 38a:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שכיון שאין בעל הקרקע יכול למחות, לכן אין זו חזקה (רשב\"ם). ובתלמוד הירושלמי אמר ר' אלעזר שכיון שקבעו חכמים כלל זה, הרי אפילו היו המחזיק והמערער בשני צדדים של הירדן, שיכולים לראות זה את זה — אינה חזקה.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 38a:4",
+              "sourceHeRef": "שָׁלֹשׁ אֲרָצוֹת",
+              "sourceRef": "Three independent lands"
+            },
+            {
+              "en": "<i>Aspamya </i>refers to Spain, whose name in Greek and Latin is <i>Hispania</i>. Spain is on the opposite side of the Mediterranean Sea from Eretz Yisrael, and ships generally traveled along the coast and docked at numerous ports along the way. This is the reason that travel to Spain took so long.",
+              "he": "רב האי גאון מפרש כי ר' יהודה אינו חולק על תנא קמא, שכן כדברי הגמרא תנא קמא מדבר בשעת חירום, ואילו ר' יהודה מוסיף שבזמן רגיל נתקיימה חזקה בכל מרחק שהוא. אבל הרבה מן הראשונים מפרשים שר' יהודה חולק על תנא קמא בשתי נקודות: האחת — שאף בשעת חירום ובמקום שלא ניתן להגיע אליו כלל תועיל חזקה של שלוש שנים. שלדעתו שלוש שנים הן זמן שקבעו חכמים למי שאינו נמצא במקום לתת לו אפשרות מחאה. ומכאן עולה גם נקודה אחרת של מחלוקת, שלפי זה אם היה המערער במקומו של המחזיק ולא מחה בידו — הרי זו חזקה מיד (פיה\"מ לרמב\"ם, רשב\"ם ועוד). וכן מפורש בתוספתא, שדי בשנה אחת. וכתב הרשב\"ם בביאור שיטה זו, שלדעת ר' יהודה אין טעם החזקה משום שעד שלוש שנים נזהר אדם בשטרו. אלא, כאשר רואה אדם מחזיק בקרקעו, ואינו מוחה בידו — הרי זו חזקה מיד, ולא קבעו זמן מרובה זה לחזקה אלא כאשר אין המוחה והמחזיק מצויים באותו מקום.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 38a:4",
+              "sourceHeRef": "אַסְפַּמְיָא",
+              "sourceRef": "Spain [<i>Aspamya</i>]"
+            },
+            {
+              "en": "According to Rav Hai Gaon, Rabbi Yehuda does not dispute the ruling of the first <i>tanna</i>. The first <i>tanna</i> is referring to the <i>halakha</i> during a crisis period, while Rabbi Yehuda is referring to the <i>halakha</i> in normal times, when the presumption of ownership can be established even when the prior owner is a great distance away. Many early commentaries maintain that Rabbi Yehuda does disagree with the first <i>tanna</i>, with regard to two <i>halakhot</i>: First, he holds that one can establish the presumption of ownership by possessing land for three years even in a crisis period or when the prior owner is a great distance away, as the period of three years was established by the Sages based on what is generally the maximum time needed for there to be an opportunity to protest. Second, if the owner is present and does not protest, the presumption of ownership is established immediately (Rambam’s Commentary on the Mishna; Rashbam). It is also explicit in a <i>baraita</i> in the <i>Tosefta</i> (2:1) that Rabbi Yehuda disagrees with the first <i>tanna</i>, as it states there that he holds that one year is sufficient. The Rashbam explains further that according to Rabbi Yehuda the reasoning behind the establishment of the presumption of ownership is not based on the idea that people preserve their documents for three years. Rather, it is based on the principle that if the prior owner saw someone else possess his land and did not protest, it constitutes proof of the possessor’s ownership. In principle this is so immediately, and the period of three years was established in case the prior owner and the field were not in the same location.",
+              "he": "הסבירו הראשונים שקבעו חכמים מרחק אליו רגילים אנשים להגיע, שאף שייתכן שאדם ירחיק יותר מזה — מכל מקום לא חלקו חכמים בכלליהם.",
+              "ref": "Steinsaltz comment #3 on Bava Batra 38a:4",
+              "sourceHeRef": "אָמַר רַבִּי יְהוּדָה",
+              "sourceRef": "Rabbi Yehuda says"
+            },
+            {
+              "en": "The early commentaries explain that the Sages established a standard based on the furthest distance that people commonly traveled, even though it is possible that people would occasionally travel further.",
+              "he": "אספמיא היא מדינת ספרד, ששמה ביוונית ובלטינית <eng>Hispania</eng>. כיון שספרד נמצאת בצדו האחר של הים התיכון, ומסעות בים נעשו כרגיל במרחק לא רב מן החוף, ותוך חניה בנמלים השונים, נמשכה הנסיעה לאספמיא זמן רב כל כך.",
+              "ref": "Steinsaltz comment #4 on Bava Batra 38a:4",
+              "sourceHeRef": "אַסְפַּמְיָא",
+              "sourceRef": "Spain"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>אלא כדי שיהא באספמיא—Only in order that he should be in אספמיא</b><br><br>O<small>VERVIEW</small><br>ר' יהודה taught that the reason why a חזקה requires three years, is so there should be sufficient time in a case where the original owner lives in אספמיא, that the מחזיק should make a חזקה for one year and the report will reach him in the second year, and the מחאה will take place in the third year.<br>-----------------------------<br><b>דעד שם יש מהלך שנה ויותר מכאן אין דרך להרחיק יותר מקרקעו –</b><br><b>For</b> to reach אספמיא <b>it is a walking distance of one year</b> (from ארץ ישראל)<b>; however it is not customary</b> for an owner <b>to be further from his property more</b> than a year’s travel –<br><b>ואם הרחיק יותר לא פלוג:</b><br><b>And</b> even <b>if he</b> traveled away from his property <b>further</b> (more than a year’s distance), the חכמים <b>did not differentiate</b> and only gave him up to three years total to make a מחאה.<b></b><br><br>S<small>UMMARY</small><br>People live within a year’s walking distance of their properties; we cannot be concerned about extreme cases.<br><br>T<small>HINKING IT OVER</small><br>What would be the ruling according to ר\"י if the מערער lived less than one year’s walk away, would the חזקה depend on how far away he lives, or do we say לא פלוג for less than a year as we say לא פלוג for more than a year?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 38a:4:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אלא כדי שיהא באספמיא</strong> - דעד שם יש מהלך שנה ויותר מכאן אין דרך להרחיק יותר מקרקעו ואם הרחיק יותר לא פלוג:",
+              "ref": "Tosafot on Bava Batra 38a:4:1",
+              "sourceHeRef": "תוספות על בבא בתרא ל״ח א:ד:א",
+              "sourceRef": "Tosafot on Bava Batra 38a:4:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>MISHNA:</strong> There are <b>three</b> independent <b>lands</b> in <span href=\"/topics/israel\" class=\"namedEntityLink\" data-slug=\"israel\">Eretz Yisrael</span> <b>with regard to</b> establishing <b>presumptive ownership: Judea, and Transjordan, and the Galilee.</b> If the prior owner of the field <b>was in Judea and</b> another <b>took possession</b> of his field <b>in the Galilee,</b> or if he was <b>in the Galilee and</b> another <b>took possession</b> of his field <b>in Judea,</b> the possessor does <b>not</b> establish <b>presumptive ownership until</b> the one possessing the field <b>will be with</b> the prior owner <b>in one province. <span href=\"/topics/rabbi-yehudah-b-ilai\" class=\"namedEntityLink\" data-slug=\"rabbi-yehudah-b-ilai\">Rabbi Yehuda</span> says:</b> The Sages <b>said</b> that establishing presumptive ownership requires <b>three years only in order that</b> if the owner <b>will be in Spain [<i>Aspamya</i>], and</b> another <b>possesses</b> his field for <b>a year,</b> people <b>will go and inform</b> the owner by the end of the next <b>year, and</b> the owner will <b>come</b> back <b>in</b> the <b>following year</b> and take the possessor to court.",
+      "he": "<big><strong>מַתְנִי׳</strong></big> שָׁלֹשׁ אֲרָצוֹת לַחֲזָקָה – יְהוּדָה, וְעֵבֶר הַיַּרְדֵּן, וְהַגָּלִיל. הָיָה בִּיהוּדָה וְהֶחֱזִיק בַּגָּלִיל, בַּגָּלִיל וְהֶחֱזִיק בִּיהוּדָה – אֵינָהּ חֲזָקָה, עַד שֶׁיְּהֵא עִמּוֹ בִּמְדִינָה אַחַת. אָמַר רַבִּי יְהוּדָה: לֹא אָמְרוּ שָׁלֹשׁ שָׁנִים, אֶלָּא כְּדֵי שֶׁיְּהֵא בְּאַסְפַּמְיָא – וְיַחְזִיק שָׁנָה, יֵלְכוּ וְיוֹדִיעוּהוּ שָׁנָה, וְיָבֹא לְשָׁנָה אַחֶרֶת.",
+      "ref": "Bava Batra 38a:4",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מְחָאָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, מָחָה 1\" dir=\"rtl\" href=\"/Jastrow,_מָחָה.1\">מָחָה</span>) <i>protest</i> to prevent the claim of undisturbed possession (see <span class=\"refLink\" data-ref=\"Jastrow, חֲזָקָה 1\" dir=\"rtl\" href=\"/Jastrow,_חֲזָקָה.1\">חֲזָקָה</span>). <span class=\"refLink\" data-ref=\"Bava Batra 38a:6\" href=\"/Bava_Batra.38a.6\">Bava Batra 38ᵃ</span>, and e. <span dir=\"rtl\">מ׳ שלא בפניו הויא מ׳</span> a protest (before witnesses) in the absence of the usurper is a legal protest (prevents the claim of undisturbed possession being recognized). <span class=\"refLink\" data-ref=\"Bava Batra 38b:8\" href=\"/Bava_Batra.38b.8\">Ib.ᵇ</span> <span dir=\"rtl\">היכי דמי מ׳ וכ׳</span> what is a legal protest? If he merely says, This man is a robber, it is not a legal protest. <span class=\"refLink\" data-ref=\"Bava Batra 39b:7\" href=\"/Bava_Batra.39b.7\">Ib. 39ᵇ</span>, sq. <span dir=\"rtl\">מ׳ בפני שנים ואין וכ׳</span> a protest is valid, if made in the presence of two witnesses, nor is it necessary to say, Write; i.e. they may write a document to that effect without being especially authorized; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, מְחָאָה 1",
+              "sourceHeRef": "מילון יסטרוב, מְחָאָה א׳",
+              "sourceRef": "Jastrow, מְחָאָה 1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי קסבר תנא קמא</strong> - דר' יהודה:",
+              "ref": "Rashbam on Bava Batra 38a:5:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ה:א",
+              "sourceRef": "Rashbam on Bava Batra 38a:5:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי קסבר מחאה</strong> - שמוחה בעל הקרקע במחזיק אפי' שלא בפניו כגון ששניהם דרין בעיר אחת ומיחה בפני שנים מן השוק שלא בפניו של מחזיק אפי' הכי הויא מחאה דחברך חברא אית ליה ושמע המחזיק בדבר זה והיה לו להזהר בשטרו ומדלא נזהר הפסיד והלכך קתני עד שיהא עמו במדינה אחת דכיון ששניהם במדינה אחת הויא מחאה אע\"פ שאינם בעיר אחת:",
+              "ref": "Rashbam on Bava Batra 38a:5:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ה:ב",
+              "sourceRef": "Rashbam on Bava Batra 38a:5:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אפי' יהודה וגליל נמי</strong> - היה ביהודה והחזיק בגליל תיהוי מחאה:",
+              "ref": "Rashbam on Bava Batra 38a:5:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ה:ג",
+              "sourceRef": "Rashbam on Bava Batra 38a:5:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי קסבר לא הויא מחאה</strong> - כדקתני דהיה ביהודה והחזיק בגליל אינה חזקה:",
+              "ref": "Rashbam on Bava Batra 38a:5:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ה:ד",
+              "sourceRef": "Rashbam on Bava Batra 38a:5:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אפי' היה ביהודה והחזיק ביהודה</strong> - בעיר אחרת נמי לא תיהוי מחאה ואמאי קתני עד שיהא עמו במדינה:",
+              "ref": "Rashbam on Bava Batra 38a:5:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ה:ה",
+              "sourceRef": "Rashbam on Bava Batra 38a:5:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב גמרא</big> ושואלים: <b>מאי קסבר</b> <span class=\"hebrew-emphasis\">[מה סבור]</span> ה<b>תנא קמא</b> <span class=\"hebrew-emphasis\">[הראשון],</span> מה היא שיטתו העקרונית? <b>אי קסבר</b> <span class=\"hebrew-emphasis\">[אם הוא סבור]</span> ש<b>מחאה</b> שמוחה הבעלים <b>שלא בפניו</b> של המחזיק <b>הויא</b> <span class=\"hebrew-emphasis\">[הריהי</span> נחשבת<span class=\"hebrew-emphasis\">]</span> <b>מחאה, אפילו</b> אם היה ב<b>יהודה וגליל נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> תהא זו מחאה, ואם לא מחה — תהא חזקה למחזיק! <b>אי קסבר</b> <span class=\"hebrew-emphasis\">[אם הוא סבור]</span> ש<b>מחאה שלא בפניו לא הויא</b> <span class=\"hebrew-emphasis\">[אינה]</span> <b>מחאה, אפילו</b> במקומות שונים בתוך <b>יהודה ויהודה</b> <b>נמי</b> <span class=\"hebrew-emphasis\">[גם כן]</span> <b>לא</b> תועיל המחאה,",
+              "ref": "Steinsaltz on Bava Batra 38a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ח א:ה",
+              "sourceRef": "Steinsaltz on Bava Batra 38a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "והיא שאלה כללית, בין שנעשה הדבר שלא בפניו במקום רחוק או באותה עיר עצמה (רשב\"ם).<br><br>ורבים שאלו: מפני מה שאלו אם מחאה שלא בפניו היא מחאה, ולא שאלו אם חזקה שלא בפניו אינה חזקה? ויש שהסבירו כי כאשר מחזיק שלא בפני חבירו מן הסתם נודע הדבר למערער, שדרכו לחקור מה אירע לקרקעותיו. מה שאין כן במחזיק, שאינו מחזר למצוא אם מערערים עליו (תוס'). ורבינו יונה הוסיף כי מחאה אינה ענין שיש לו פרסום כמו חזקה. ויש שאמרו שאם מחזיק אדם בדבר אינו יכול להביא את המערער שיראה זאת, אבל המערער שיש לו ענין בדבר הוא ההולך אל המחזיק (רמ\"ה). אכן, מדברי הרמ\"ה עולה גם כי אפשר היה לשאול גם על חזקה שלא בפניו. שלדעתו, מקרה בו יש לומר שהבעלים אינם יודעים שמחזיקים ברכושם — גם הוא סיבה לבטל את החזקה, כפי שהוא לדעתו למסקנה בשעת חירום. אלא מאחר שעיקר הדבר תלוי במחאה הזכיר ענין זה במחאה (וראה גם במאירי).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 38a:5",
+              "sourceHeRef": "מחאה שלא בפניו",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "המוחה על חבירו שמחזיק ברכושו שלא כדין, אפילו מחה (בפני עדים) שלא בפניו — הרי זו מחאה, אם ישנה דרך שתגיע המחאה לאוזניו. (רמב\"ם ספר משפטים הלכות טוען ונטען פי\"א ה\"ה. שו\"ע חו\"מ קמו, א).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 38a:5",
+              "sourceHeRef": "מחאה שלא בפניו",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>מחאה שלא בפניו כולי—A protest not in his presence, etc.</b><br><br>O<small>VERVIEW</small><br>Our גמרא discusses whether a מחאה שלא בפניו is a valid מחאה or not. תוספות explains why the discussion is regarding the מחאה שלא בפניו and not the חזקה שלא בפניו.<br>-------------------------<br>תוספות asks:<br><b>תימה דבכל דוכתי נקט מחאה ואמאי לא נקט חזקה שלא בפניו הויא חזקה –</b><br><b>It is astounding! For in all instances</b> the גמרא always <b>mentions מחאה</b> שלא בפניו, <b>but why does it not discuss</b> whether a <b>חזקה שלא בפניו is a חזקה</b> or not –<b></b><br>תוספות answers:<br><b>ויש לומר לפי שהטעם תלוי במחאה ולא בחזקה –</b><br><b>And one can say; because the reason</b> (whether it is a חזקה or not) <b>depends on</b> the status of the <b>מחאה</b> שלא בפניו, <b>and not on the חזקה</b>; תוספות explains –<br><b>שאדם המחזיק בקרקעותיו של חבירו אית ליה קלא שהוא חוקר ושואל על נכסיו –</b><br><b>For a person who makes a חזקה in the land of his friend,</b> that חזקה <b>is publicized, for</b> the (original) <b>owner inquires and asks about his properties –<br>אבל המחאה אין לה קול כל כך שאין המחזיק מחזר אם מוחה לו בעל קרקע –</b><br><b>However the מחאה is not publicized so much, for the מחזיק is not searching if the</b> initial <b>owner of the land is protesting</b> against <b>him,</b> and <b>–<br>לפיכך אין חזקתו חזקה כשאין יכול לשמוע מחאתו דמה יועיל שמיחה:</b><br><b>And therefore</b> (since the מחאה does not have as strong a קול as a חזקה), <b>his חזקה is not a חזקה, when</b> the מחזיק <b>will not hear the מחאה</b> of the מערער, <b>for</b> of <b>what avail is the מחאה</b> that the מערער will make. The deciding factor, in determining if it is a חזקה or not, depends (only) on whether the מחאה will be heard or not (and even if the חזקה will be heard it will not be a valid חזקה if the מחאה cannot be heard).<br><br>S<small>UMMARY</small><br>The מערער (who is interested in knowing about his distant fields) is more likely to hear about the חזקה, than the מחזיק (who is secure in his purchase) is likely to hear about the מחאה. Therefore we discuss מחאה שלא בפניו instead of חזקה שלא בפניו.<br><br>T<small>HINKING IT OVER</small><br>1. תוספות distinguishes between the publicity of a חזקה and a מחאה; that the מערער is more prone to hear the חזקה than the מחזיק is prone to hear the מחאה. Seemingly there is a difficulty; if we are to assume that the מרא קמא actually sold the field (and is lying when he makes the מחאה and ערעור), then why is he interested and inquisitive regarding the חזקה. On the other hand if the מחזיק is there illegally (he did not buy the field), then he will listen carefully if there are any מחאות, in order to protect himself.<br>2. What changed in our understanding of חזקה and מחאה in this תוספות from the question to the answer?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 38a:5:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחאה שלא בפניו כו'</strong> - תימה דבכל דוכתי נקט מחאה ואמאי לא נקט חזקה שלא בפניו הויא חזקה ויש לומר לפי שהטעם תלוי במחאה ולא בחזקה שאדם המחזיק בקרקעותיו של חבירו אית ליה קלא שהוא חוקר ושואל על נכסיו אבל המחאה אין לה קול כל כך שאין המחזיק מחזר אם מוחה לו בעל קרקע לפיכך אין חזקתו חזקה כשאין יכול לשמוע מחאתו דמה יועיל שמיחה:",
+              "ref": "Tosafot on Bava Batra 38a:5:1",
+              "sourceHeRef": "תוספות על בבא בתרא ל״ח א:ה:א",
+              "sourceRef": "Tosafot on Bava Batra 38a:5:1"
+            }
+          ]
+        }
+      },
+      "en": "<strong>GEMARA:</strong> <b>What does the first <i>tanna</i> hold</b> in ruling that the prior owner and the field need be in the same province in order for the possessor to establish presumptive ownership? <b>If he holds</b> that <b>a protest that is</b> lodged <b>not in the presence of</b> the one possessing the field <b>is</b> a valid <b>protest, even</b> in the case where one is in <b>Judea and</b> one is in the <b>Galilee,</b> the protest should be valid <b>as well. If he holds</b> that <b>a protest</b> lodged <b>not in his presence is not</b> a valid <b>protest, even</b> in the case where one is in <b>Judea and</b> the other one is in <b>Judea,</b> the protest should <b>not</b> be valid <b>as well.</b>",
+      "he": "<big><strong>גְּמָ׳</strong></big> מַאי קָסָבַר תַּנָּא קַמָּא? אִי קָסָבַר מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה, אֲפִילּוּ יְהוּדָה וְגָלִיל נָמֵי! אִי קָסָבַר מֶחָאָה שֶׁלֹּא בְּפָנָיו לָא הָוְיָא מֶחָאָה, אֲפִילּוּ יְהוּדָה וִיהוּדָה נָמֵי לָא!",
+      "ref": "Bava Batra 38a:5",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">חֵירוּם</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, חָרַם 1\" dir=\"rtl\" href=\"/Jastrow,_חָרַם.1\">חָרַם</span>) <i>exclusion, disassociation</i>, especially <i>interdiction of travel</i> between two countries at war with each other. <span class=\"refLink\" data-ref=\"Bava Batra 38a:6\" href=\"/Bava_Batra.38a.6\">Bava Batra 38ᵃ</span> <span dir=\"rtl\">בשעת ח׳</span> at a time when commercial intercourse was cut off. <span class=\"refLink\" data-ref=\"Bava Batra 38b:1\" href=\"/Bava_Batra.38b.1\">Ib. 38ᵇ</span> יהודה … ח׳ דמו Judaea and Galilee are generally to be considered as if in a state of interdiction (possession in one country is no valid claim when the owner lived in the other); Yerushalmi ib. III, 14ᵃ top."
+              ],
+              "he": [],
+              "ref": "Jastrow, חֵירוּם 1",
+              "sourceHeRef": "מילון יסטרוב, חֵירוּם א׳",
+              "sourceRef": "Jastrow, חֵירוּם 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">מְחָאָה</strong> f. (<span class=\"refLink\" data-ref=\"Jastrow, מָחָה 1\" dir=\"rtl\" href=\"/Jastrow,_מָחָה.1\">מָחָה</span>) <i>protest</i> to prevent the claim of undisturbed possession (see <span class=\"refLink\" data-ref=\"Jastrow, חֲזָקָה 1\" dir=\"rtl\" href=\"/Jastrow,_חֲזָקָה.1\">חֲזָקָה</span>). <span class=\"refLink\" data-ref=\"Bava Batra 38a:6\" href=\"/Bava_Batra.38a.6\">Bava Batra 38ᵃ</span>, and e. <span dir=\"rtl\">מ׳ שלא בפניו הויא מ׳</span> a protest (before witnesses) in the absence of the usurper is a legal protest (prevents the claim of undisturbed possession being recognized). <span class=\"refLink\" data-ref=\"Bava Batra 38b:8\" href=\"/Bava_Batra.38b.8\">Ib.ᵇ</span> <span dir=\"rtl\">היכי דמי מ׳ וכ׳</span> what is a legal protest? If he merely says, This man is a robber, it is not a legal protest. <span class=\"refLink\" data-ref=\"Bava Batra 39b:7\" href=\"/Bava_Batra.39b.7\">Ib. 39ᵇ</span>, sq. <span dir=\"rtl\">מ׳ בפני שנים ואין וכ׳</span> a protest is valid, if made in the presence of two witnesses, nor is it necessary to say, Write; i.e. they may write a document to that effect without being especially authorized; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, מְחָאָה 1",
+              "sourceHeRef": "מילון יסטרוב, מְחָאָה א׳",
+              "sourceRef": "Jastrow, מְחָאָה 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "If Shimon issued a protest in a distant country, why can Reuven not claim: \"I did not hear that he lodged a protest against me so that I felt it necessary to safeguard my deed of acquisition\"?<br>Because we tell him: \"Your friend has a friend, and his friend has a friend. And it is an established presumption that word of the protest reached you. Hence, since you know that he lodged a protest against you within the three years, if it is true that you had a deed of acquisition and you did not safeguard it, you caused yourself a loss.\"",
+              "he": "הֲרֵי שֶׁמִּחָה שִׁמְעוֹן בִּמְדִינָה רְחוֹקָה מִפְּנֵי מָה לֹא יִטְעֹן רְאוּבֵן וְיֹאמַר לֹא שָׁמַעְתִּי שֶׁמִּחָה בִּי כְּדֵי שֶׁאֶזָּהֵר בַּשְּׁטָר. מִפְּנֵי שֶׁאוֹמֵר לוֹ חֲבֵרְךָ יֵשׁ לוֹ חָבֵר וַחֲבֵרוֹ יֵשׁ לוֹ חָבֵר וַחֲזָקָה שֶׁהִגִּיעַ אֵלֶיךָ הַדָּבָר וְכֵיוָן שֶׁיָּדַעְתָּ שֶׁמִּחָה בְּךָ בְּתוֹךְ שָׁלֹשׁ שָׁנִים בֶּאֱמֶת הָיָה לְךָ שְׁטָר וְלֹא נִזְהַרְתָּ בּוֹ אַתָּה הִפְסַדְתָּ עַל עַצְמְךָ:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 11:5",
+              "sourceHeRef": "הלכות טוען ונטען יא:ה",
+              "sourceRef": "Plaintiff and Defendant 11:5"
+            },
+            {
+              "en": "When do we require Reuven to bring proof that he acquired the field or to depart? When he did not use the property for an extended time. If, however, Reuven brings witnesses who testify that he partook of the produce of this field for three consecutive years and benefited from it in its entirety in the manner in which any person would benefit from that field, we allow Reuven to maintain possession. This applies provided that it was possible for the original owners to know that this person had taken possession of the field, and they did not lodge a protest against him. Reuven must take a <i>sh'vu'at hesset</i> that Shimon sold him the field or gave it to him, and then he is released of all obligation.<br>The rationale for this decision is that we tell Shimon: \"If your claim that you did not sell or give him the property is true, why is this person using your land year after year, when you do not have a legal document stating that it was rented to him or given to him as security for a loan, and yet you have not lodged a protest against him?\"<br>If the plaintiff responds to this by claiming that the news that the other person was using his property did not reach him because he was in a distant country, we tell him: \"It is impossible that the information did not reach you in three years. And when the information reached you, you should have lodged a protest in the presence of witnesses, telling them that 'So-and-so stole property from me, and in the future I will lodge a claim against him in court.' Since you did not issue a protest, you caused yourself a loss.\"<br>Therefore, if there was a war or a disruption of travel routes between the place where Reuven was located and the place where Shimon was located, we expropriate the property from Reuven even if he benefited from its produce for ten years. We return it to Shimon, because he could say: \"I did not know that this person was using my property.\"",
+              "he": "בַּמֶּה דְּבָרִים אֲמוּרִים שֶׁמַּצְרִיכִין רְאוּבֵן לְהָבִיא רְאָיָה אוֹ יִסְתַּלֵּק בְּשֶׁלֹּא נִשְׁתַּמֵּשׁ בָּהּ זְמַן מְרֻבֶּה. אֲבָל אִם הֵבִיא עֵדִים שֶׁאָכַל פֵּרוֹת קַרְקַע שָׁלֹשׁ שָׁנִים רְצוּפוֹת וְנֶהֱנָה בְּכֻלָּהּ כְּדֶרֶךְ שֶׁנֶּהֱנִין כָּל אָדָם בְּאוֹתָהּ קַרְקַע. וְהוּא שֶׁיִּהְיֶה אֶפְשָׁר לַבְּעָלִים הָרִאשׁוֹנִים שֶׁיֵּדְעוּ בָּזֶה שֶׁהֶחְזִיק וְלֹא מִחוּ בּוֹ. מַעֲמִידִין אוֹתָהּ בְּיַד רְאוּבֵן וְיִשָּׁבַע רְאוּבֵן הֶסֵּת שֶׁמְּכָרָהּ לוֹ שִׁמְעוֹן אוֹ נְתָנָהּ לוֹ וְיִפָּטֵר. מִפְּנֵי שֶׁאוֹמְרִים לוֹ לְשִׁמְעוֹן אִם אֱמֶת אַתָּה טוֹעֵן שֶׁלֹּא מָכַרְתָּ וְלֹא נָתַתָּ לָמָּה הָיָה זֶה מִשְׁתַּמֵּשׁ שָׁנָה אַחַר שָׁנָה בְּקַרְקָעֲךָ וְאֵין לְךָ עָלָיו לֹא שְׁטַר שְׂכִירוּת וְלֹא שְׁטַר מַשְׁכּוֹנָהּ וְלֹא מָחִיתָ בּוֹ. טָעַן וְאָמַר מִפְּנֵי שֶׁלֹּא הִגִּיעַ אֵלַי הַדָּבָר שֶׁהֲרֵי הָיִיתִי בִּמְדִינָה רְחוֹקָה אוֹמְרִים אִי אֶפְשָׁר שֶׁלֹּא יַגִּיעַ לְיָדְךָ הַדָּבָר בְּשָׁלֹשׁ שָׁנִים וְכֵיוָן שֶׁהִגִּיעַ לְךָ הָיָה לְךָ לִמְחוֹת בִּפְנֵי עֵדִים וְתוֹדִיעַ אוֹתָם שֶׁפְּלוֹנִי גָּזַל אוֹתִי לְמָחָר אֶתְבָּעֶנּוּ בְּדִין. הוֹאִיל וְלֹא מָחִיתָ אַתָּה הִפְסַדְתָּ עַל עַצְמְךָ. לְפִיכָךְ אִם הָיְתָה מִלְחָמָה וְשִׁבּוּשׁ דְּרָכִים בֵּין הַמָּקוֹם שֶׁהָיָה בּוֹ רְאוּבֵן וּבֵין הַמָּקוֹם שֶׁהָיָה בּוֹ שִׁמְעוֹן אֲפִלּוּ אֲכָלָהּ רְאוּבֵן עֶשֶׂר שָׁנִים מוֹצִיאִין אוֹתָהּ תַּחַת יָדוֹ וְחוֹזֶרֶת לְשִׁמְעוֹן מִפְּנֵי שֶׁיָּכוֹל לוֹמַר לֹא יָדַעְתִּי שֶׁזֶּה מִשְׁתַּמֵּשׁ בְּקַרְקָעִי:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 11:2",
+              "sourceHeRef": "הלכות טוען ונטען יא:ב",
+              "sourceRef": "Plaintiff and Defendant 11:2"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לעולם קסבר מחאה שלא בפניו הויא מחאה</strong> - ומשום הכי קתני עד שיהא עמו במדינה ודקשיא לך אפילו יהודה וגליל נמי תיהוי מחאה מתני' בשעת חירום תיגרות יש בין יהודה וגליל ואין שיירות מצויות מזו לזו ואם ימחה לא יבא הדבר לאזניו של מחזיק שיזהר בשטרו והלכך לא הויא מחאה וכיון דלא הויא מחאתו של מערער מחאה חזקתו של זה נמי לא הוי חזקה דטעמא דחזקה ג' שנים קונה משום דמצי טעין ליה מחזיק אמאי לא מחית בתוך שלש ואילו הכא לא מצי למטען הכי דהא לא יכול למחות דהא אינה מחאה:",
+              "ref": "Rashbam on Bava Batra 38a:6:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ו:א",
+              "sourceRef": "Rashbam on Bava Batra 38a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומ\"ש יהודה וגליל דנקט</strong> - דכיון דבשעת חירום מיירי הוא הדין לכל המלכיות שיש חירום בין זו לזו והכי הוה ליה למיתני כל הארצות חלוקות לחזקה בשעת חירום ואית דמפרשי מ\"ש יהודה וגליל דנקט כיון דבשעת חירום מוקמת לה מ\"ש יהודה וגליל דלא הויא חזקה אפילו יהודה ויהודה לא תיהוי חזקה ואין נראה בעיני דאם כן הוה ליה למימר כדלעיל אי הכי אפילו יהודה ויהודה נמי לא ועוד דהכי מתרץ ר' אבא בשעת חירום שנו שיש תגרה בין המלכיות אבל עיירות של מדינה ומדינה אין בינותם תגרה:",
+              "ref": "Rashbam on Bava Batra 38a:6:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ו:ב",
+              "sourceRef": "Rashbam on Bava Batra 38a:6:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Therefore, if Shimon lodged a protest in the presence of witnesses, but told them: \"Do not utter a word about this protest,\" the protest is of no consequence. If, however, the witnesses said on their own volition: \"We will not utter a word about this,\" the protest is significant. For a person will ultimately speak of a matter that he was not charged to keep private.<br>Similarly, if the original owner told the witnesses: \"Don't tell the person who took possession of the property about my protest,\" or the witnesses said on their own volition: \"We will not notify him,\" the protest is of consequence. For even though they will not notify him, they will notify others, and ultimately the information will reach him.",
+                      "he": "לְפִיכָךְ אִם מִחָה שִׁמְעוֹן בִּפְנֵי עֵדִים וְאָמַר לָהֶם אַל תּוֹצִיאוּ דָּבָר זֶה מִפִּיכֶם אֵין זֶה מְחָאָה. אֲבָל אִם אָמְרוּ הָעֵדִים מֵעַצְמָן אֵין דָּבָר זֶה יוֹצֵא מִפִּינוּ הֲרֵי גַּם זוֹ מְחָאָה. שֶׁהַדָּבָר שֶׁאֵין אָדָם מְצֻוֶּה עָלָיו אוֹמְרוֹ שֶׁלֹּא בְּכַוָּנָה. וְכֵן אִם צִוָּה לְעֵדִים וְאָמַר לָהֶם אַל תּוֹדִיעוּהוּ אוֹ שֶׁאָמְרוּ הֵן מֵעַצְמָן אֵין אָנוּ מוֹדִיעִין אוֹתוֹ גַּם זוֹ מְחָאָה הִיא. אַף עַל פִּי שֶׁאֵינָן מוֹדִיעִין אוֹתוֹ מוֹדִיעִין הֵם לַאֲחֵרִים וְדָבָר זֶה יַגִּיעַ אֵלָיו:",
+                      "ref": "Mishneh Torah, Plaintiff and Defendant 11:6",
+                      "sourceHeRef": "הלכות טוען ונטען יא:ו",
+                      "sourceRef": "Plaintiff and Defendant 11:6"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "מחאה מבטלת החזקה אפי' מיחה המערער שלא בפני המחזיק אפילו הוא במדינה אחרת אם שיירו' מצויות ביניהם ובלבד שתהי' בפני עדים ודי בפני ב' ואפי' זקנים או חולים אע\"פ שאינם יכולים לילך ולהודיע למחזיק שהם יאמרו הדבר לאחרים ואחרים לאחרים עד שישמע למחזיק:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 146:1",
+              "sourceHeRef": "חושן משפט קמו:א - מחאה מבטלת החזקה ובאיזה לשון ובמה ומתי.",
+              "sourceRef": "Choshen Mishpat 146:1"
+            },
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Even in a situation where there was a war and a breakdown in communication, if Reuven brought witnesses who testify that each year Shimon came and stayed in this place\" for 30 days or less, we tell Shimon: \"Why didn't you protest when you came? You have lost your rights.\"<br>If Shimon claims: \"I was very much occupied at the business fair and I did not know that so-and-so was in my courtyard,\" his claim is respected. For it is possible that a person will be occupied at a business fair for 30 days. If he stayed for more than 30 days and did not protest, he loses his rights.<br>It appears to me that this law applies only in the villages, for the people there are very much occupied with their business fairs.",
+                      "he": "הֵבִיא רְאוּבֵן עֵדִים שֶׁהָיָה שִׁמְעוֹן בָּא בְּכָל שָׁנָה וְעוֹמֵד בְּמָקוֹם זֶה שְׁלֹשִׁים יוֹם אוֹ פָּחוֹת. אוֹמְרִים לְשִׁמְעוֹן מִפְּנֵי מָה לֹא מָחִיתָ כְּשֶׁבָּאתָ אִבַּדְתָּ זְכוּתְךָ. טָעַן שִׁמְעוֹן וְאָמַר טָרוּד הָיִיתִי בַּשּׁוּק וְלֹא יָדַעְתִּי שֶׁזֶּה בְּתוֹךְ חֲצֵרִי הֲרֵי זוֹ טַעֲנָה. שֶׁכָּל שְׁלֹשִׁים יוֹם יִהְיֶה אָדָם טָרוּד בַּשּׁוּק. וְאִם עָמַד יוֹתֵר מִשְּׁלֹשִׁים יוֹם וְלֹא מִחָה אִבֵּד אֶת זְכוּתוֹ. וְיֵרָאֶה לִי שֶׁהַדִּין זֶה אֵינוֹ אֶלָּא בַּכְּפָרִים שֶׁהָעָם טְרוּדִין בַּשְּׁוָקִים שֶׁלָּהֶן:",
+                      "ref": "Mishneh Torah, Plaintiff and Defendant 11:3",
+                      "sourceHeRef": "הלכות טוען ונטען יא:ג",
+                      "sourceRef": "Plaintiff and Defendant 11:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "החזיק בקרקע פחות משלש שנים אינה חזקה אפי' החזיק בפני המערער ואם החזיק ג' שנים הוי חזקה אפילו החזיק שלא בפני המערער והוא במדינה אחרת אם שיירות מצויות ממקום שמחזיק בו למקום שהמערער בו אבל אם היתה מלחמה ושבוש דרכים בין מקום זה למקום זה לא הוי חזקה ואפילו יש עדים שבא המערער כאן לשוק ושהה כאן ל' יום והיו אלו ל' יום בסוף ג' שנים בענין שאם לא ימחה עתה לא יהיה לו עוד זמן למחות אפילו הכי יכול לומר כל אותם ל' יום שהייתי בכאן הייתי טרוד בעסקי ולא ידעתי שהיית מחזיק בביתי ומיירי שהיה לו בית אחר לדור בו ויש מי שאומר שדין זה אינו אלא בכפרים שהעם טרודין בשוקים שלהם: <span class=\"hebrew-emphasis\">הגה וי\"א דמזה יש ללמוד דהכל הולך אחר סוף הג' שנים שאם היה בתחלתן במקום שאין יכול למחות ובסוף במקום שיוכל למחות הוי חזקה ואם היה בתחילתן במקום שיוכל למחות והלך למקום שאין יכול למחות לא הוי חזקה דמה שלא מיחה בתחלה יש לומר שסמך למחות בסוף ולשוב אלא שלא נזדמן לו (נ\"י פרק חזקת): </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 143:1",
+              "sourceHeRef": "חושן משפט קמג:א - דין המחזיק שלא בפני המערער והוא במדינה אחרת או ברח",
+              "sourceRef": "Choshen Mishpat 143:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שצריך למחות בפניו ממש! <b>אמר ר' אבא בר ממל אמר רב, לעולם</b> תפרש כי <b>קסבר</b> <span class=\"hebrew-emphasis\">[הוא סבור]:</span> <b>מחאה שלא בפניו הויא</b> <span class=\"hebrew-emphasis\">[הריהי]</span> <b>מחאה, ומשנתינו</b> לפיה מחאה בגליל אינה נחשבת ליהודה — <b>בשעת חירום</b> (מלחמה) <b>שנו,</b> שאין לסמוך על כך שהשמועות עוברות ממקום למקום, ואין המחזיק יכול לטעון שצריך היה הבעלים למחות, ומשלא מחה — שדה זו שלו היא. ושואלים: <b>ומאי שנא</b> <span class=\"hebrew-emphasis\">[ומה שונה]</span> <b>יהודה וגליל דנקיט</b> <span class=\"hebrew-emphasis\">[שתפס]?</span> שהרי היה צריך לומר סתם שתי מדינות שהן בשעת חירום?",
+              "ref": "Steinsaltz on Bava Batra 38a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ח א:ו",
+              "sourceRef": "Steinsaltz on Bava Batra 38a:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The possession and use of property during a time of war or a time when travel is disrupted does not establish the presumption of ownership (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot To’en VeNitan</i> 11:2; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 143:1).",
+              "he": "שיש מלחמה במדינה ואין שיירות עוברות, ולכן אף שמועות אינן מגיעות ממדינה למדינה (רשב\"ם). וכן השיטה בתלמוד הירושלמי. ובהגדרת חירום זו, כתבו ראשונים שהכוונה למצב של סכנת נפשות (עיטור בשם ר\"ת, מאירי).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 38a:6",
+              "sourceHeRef": "בִּשְׁעַת חֵירוּם שָׁנוּ",
+              "sourceRef": "With regard to a period of crisis"
+            },
+            {
+              "en": "",
+              "he": "אם היתה מלחמה ושיבוש דרכים בין המקום שנמצא בו המחזיק בקרקע ובין המערער — הרי אין למחזיק חזקה. (רמב\"ם ספר משפטים<br><br>הלכות טוען ונטען פי\"א ה\"ב. שו\"ע חו\"מ קמג, א).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 38a:6",
+              "sourceHeRef": "בשעת חירום שנו",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rebbi-abba-b-rebbi-mamal\" class=\"namedEntityLink\" data-slug=\"rebbi-abba-b-rebbi-mamal\">Rabbi Abba bar Memel</span> says</b> that <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> says: Actually,</b> the <i>tanna</i> <b>holds</b> that <b>a protest</b> lodged <b>not in his presence is</b> a valid <b>protest, and</b> the Sages <b>taught our mishna with regard to a period of crisis,</b> when travel is perilous and information cannot be transmitted between Judea and the Galilee. Therefore, although no word of a protest was received, the possessor does not establish presumptive ownership of the field. The Gemara asks: <b>But</b> if it is due only to the exigent circumstances that word of the protest does not reach the one possessing the field, <b>what is different</b> about <b>Judea and</b> the <b>Galilee that</b> the <i>tanna</i> <b>cited?</b> Ostensibly, even within one of the three lands, if travel and communications are restricted the same <i>halakha</i> would apply.",
+      "he": "אָמַר <span href=\"/topics/rebbi-abba-b-rebbi-mamal\" class=\"namedEntityLink\" data-slug=\"rebbi-abba-b-rebbi-mamal\">רַבִּי אַבָּא בַּר מֶמֶל</span> אָמַר <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">רַב</span>, לְעוֹלָם קָסָבַר: מֶחָאָה שֶׁלֹּא בְּפָנָיו הָוְיָא מֶחָאָה, וּמִשְׁנָתֵינוּ – בִּשְׁעַת חֵירוּם שָׁנוּ. וּמַאי שְׁנָא יְהוּדָה וְגָלִיל דְּנָקֵיט?",
+      "ref": "Bava Batra 38a:6"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>הא קא משמע לן דסתם יהודה וגליל כשעת חרום דמי.</b> ואיכא למדיק, דהא תנינן <span class=\"parenthesized\">(בגיטוין ב', א)</span> המביא גט בארץ ישראל אינו צריך לומר בפני נכתב ובני נחתם, ואוקיחמנא טעם התם <span class=\"parenthesized\">(ד, ב)</span> משום דמצויין לקיימו דשכיחי שיירתא. וי\"ל התם בזמן שהיו השיירות מצויות ושהיו ישראל שרויין על אדמתם, והכא לאחר מיכן שנמתקלקלו המקומות, והיינו דקאמר הכא סתם יהודה וגליל כשעת חרום דמי, דאלמא משמע דיש זמנים שידוע שאין שם חרום כלל ויש שלום ואז השיירות מצויות. ואינו מחוור בעיני, דמשנת המביא ומשנתינו זו בזמן אחד נשנו והיאך שנאן ראבי סתם זו בזמן אחר וזו בזמדן אחר. וי\"מ דלגבי גיחטוין כל מאן דאית לה גיטא לבי דינא א אזלא לקיומיה, ואינהו דקו במילתא ומשכחי, דשכיחי שיירתא קצת, עד שמצויים לקיימו על ידי חקירת בית דין. אבל לגביכ חזקה כל מאן דאית ליה קרקע במקום אחד דלא אזיל לבי דינא לחקור אם בא אדם להודיעו מי עומד בקרקעו, וגם המחזיק אינו חוקר אם יש מגיד שערער עליו אדם.",
+              "ref": "Rashba on Bava Batra 38a:3",
+              "sourceHeRef": "רשב״א על בבא בתרא ל״ח א:ג",
+              "sourceRef": "Rashba on Bava Batra 38a:3"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא קמ\"ל</strong> - ר' אבא:",
+              "ref": "Rashbam on Bava Batra 38a:7:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא ל״ח א:ז:א",
+              "sourceRef": "Rashbam on Bava Batra 38a:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>הא קא משמע לן</b> <span class=\"hebrew-emphasis\">[</span>דבר <span class=\"hebrew-emphasis\">זה משמיע לנו</span> בכך<span class=\"hebrew-emphasis\">],</span>",
+              "ref": "Steinsaltz on Bava Batra 38a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא ל״ח א:ז",
+              "sourceRef": "Steinsaltz on Bava Batra 38a:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: The <i>tanna</i>, by citing specifically a case where each is located in a different land, <b>teaches us this:</b>",
+      "he": "הָא קָא מַשְׁמַע לַן –",
+      "ref": "Bava Batra 38a:7"
+    }
+  ],
+  "title": "Bava Batra 38a",
+  "titleHebrew": "בבא בתרא לח,א",
+  "topics": []
+}

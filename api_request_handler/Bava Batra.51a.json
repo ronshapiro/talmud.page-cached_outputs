@@ -1,0 +1,1319 @@
+{
+  "id": "51a",
+  "sections": [
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">דַּיָּין</strong>, <strong dir=\"rtl\">דַּיָּן</strong> m. (Biblical Hebrew; <span dir=\"rtl\">דון</span>) <i>judge</i>, generally at the <span class=\"refLink\" data-ref=\"Jastrow, *דְּיָילָא 1\" href=\"/Jastrow,_*דְּיָילָא.1\">same</span> time <i>lecturer, spiritual leader</i>. <span class=\"refLink\" data-ref=\"Sanhedrin 7b:8\" href=\"/Sanhedrin.7b.8\">Sanhedrin 7ᵇ</span>. <span class=\"refLink\" data-ref=\"Shabbat 10a:5\" href=\"/Shabbat.10a.5\">Shabbat 10ᵃ</span>; and from—plural <span dir=\"rtl\">דַּיָּינִים</span>, <span dir=\"rtl\">דַּיָּינִין</span>. Sanhedrin l. common gender. <span dir=\"rtl\">כלי הד׳</span> the judges’ implements (stick, strap &c.). <span class=\"refLink\" data-ref=\"Bava Batra 51a:1\" href=\"/Bava_Batra.51a.1\">Bava Batra 51ᵃ</span> <span dir=\"rtl\">דַּיָּינֵי גולה</span> the judges of the Diaspora (Karna and Samuel; see <span class=\"refLink\" data-ref=\"Sanhedrin 17b:1\" href=\"/Sanhedrin.17b.1\">Sanhedrin 17ᵇ</span>). <span class=\"refLink\" data-ref=\"Mishnah Ketubot 13:1\" href=\"/Mishnah_Ketubot.13.1\">Ketubot XIII, 1</span>, see <span class=\"refLink\" data-ref=\"Jastrow, גְּזֵירָה 1\" dir=\"rtl\" href=\"/Jastrow,_גְּזֵירָה.1\">גְּזֵירָה</span>; and from—<i>Fem. </i> plural <span dir=\"rtl\">דַּיָּינוֹת</span>. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 2:8\" href=\"/Kohelet_Rabbah.2.8\">Kohelet Rabbah to II, 8</span> <span dir=\"rtl\">דיינים זכרים וד׳ נקבות</span> male judges and female judges (leaders; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 968:1\" href=\"/Yalkut_Shimoni_on_Nach.968.1\">Yalkut ib. 968</span> <span dir=\"rtl\">דַּיָּנִין … ודַּיָּנִין נקבות</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, דַּיָּין 1",
+              "sourceHeRef": "מילון יסטרוב, דַּיָּין א׳",
+              "sourceRef": "Jastrow, דַּיָּין 1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודייני גולה</strong> - שמואל וקרנא בפרק ראשון דסנהדרין <span class=\"parenthesized\">(דף יז: ע\"ש)</span>:",
+              "ref": "Rashbam on Bava Batra 51a:1:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:א:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מחזיקין</strong> - והיה לה למחות:",
+              "ref": "Rashbam on Bava Batra 51a:1:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:א:ב",
+              "sourceRef": "Rashbam on Bava Batra 51a:1:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מסתברא אמרי</strong> - היכא דהויא מקצת חזקה בחיי בעלה ושלש לאחר מיתת הבעל כמו שפירש רב יוסף לעיל התם הוא דמסתברא דמחזיקין דהא רב גופיה ה\"ק לעיל אשת איש צריכה למחות דמשמע דמחזיקין ומיהו דייני גולה בכל ענינין פליגי אדרב:",
+              "ref": "Rashbam on Bava Batra 51a:1:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:א:ג",
+              "sourceRef": "Rashbam on Bava Batra 51a:1:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כדרב יוסף</strong> - גמרא הוא שקיצר דברי רב אבל רב לא הזכיר רב יוסף שהרי קדם לו רב הרבה דורות:",
+              "ref": "Rashbam on Bava Batra 51a:1:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:א:ד",
+              "sourceRef": "Rashbam on Bava Batra 51a:1:4"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואמר רבה הלכתא תליוה וזבין זביניה זביני ולא אמרן אלא בשדה סתם אבל בשדה זו לא ובשדה זו נמי לא אמרן אלא דלאארציזוזי אבל ארצי זוזי לא ולא אמרן אלא דלא ה\"ל לאישתמועי אבל הוה ליה לאשתמועי לא והלכה בכולהו זביניה זביני דהא אשה כשדה זו דמיא ואמר מר תליוה וקדיש קדושיה קדושין רב אשי אמר אשה ודאי קדושיה לאו קדושין הוא עשה שלא כהוגן לפיכך עשו לו שלא כהוגן וכן הלכתא ואמר נמי טבי תלי לפפי אכנדרא וזבין חתם רבה בר בר חנה אמודעא ואאשקלתא אמר רב הונא מאן דחתם אמודעא שפיר חתים ומאן דחתם אאשקלתא שפיר חתם מה נפשך אי מודעא לאו אשקלתא ואי אשקלתא לאו מודעא הכי קאמר אי לאו מודעא מאן דחתם אאשקלתא שפיר חתם רב הונא לטעמיה דאמר תלאוהו וזבין זביניה זביני שמעינן מכל הלין דת אוהו וזבין זביניה זביני היכא דלא מסר מודעא ולאו דוקא תלאוהו דאנסי' יסורין גדולים ואגבייהו גמר ומקני אלא אפילו בלא יסורין כגון אונס ממון כי ההוא עובדא דפרדיסא חשיב אונס וזביניה זביני אי לא מסר מודעא ואי מסר מודעא בכולהו זביניה לאו זביני ודוקא תליוהו וזבין אבל אי תליוהו ויהיב לא הויא מתנה ואפילו אי לא מסר מודעא אי ידעי עדים באונסיה ומיהו אי מסר מודעא אמתנה אפילו לא ידעו עדים באונסיה כתבינן וכן בגיטין דגלוי דעתו מבעל הדבר והיכא דביטל המודעא בשעת זביניה מהני הביטול כדאיתא בערכין פרק האומר משקלי עלי <span class=\"parenthesized\">(ערכין דף כא:)</span> עלה דהך משנה וכן אתה אומר בגיטי נשים א\"ר ששת האי מאן דמסר מודעא אגיטא מודעיה מודעא. פשיטא לא צריכא דעשיוהו ואירצי מהו דתימא בטולי בטליה קמ\"ל עד דאמר בטלתי ואימא ה\"נ א\"כ ליתני עד שיתן מאי עד שיאמר רוצה אני עד דמבעל ליה למודעיה ומשמע אם כפו אותו עד שביטל המודעא דמהני בטול ולא הויא מודעא ואע\"פ שאמר בשעת מסירת המודעא כל מה שאבטל לא יהא בטול אינו מועיל דמ\"מ לבסוף כשיכופו אותו לבטל כל מה שאמר קודם הכל בטל דאגב אונסיה גמר ומבטל ומיהו במתנה היכא דידעי באונסיה אפילו בטול לא מהני דכיון דאניס הוא אפילו לא מסר מודעא לא הויא מתנה אבל אם מסר מודעא ולא ידעינן באונסיה ואחר כך בטלה מדעתו מהני הביטול כיון שלא הכירו באונס ולהכי נהיגי לכתוב בטול מודעא במתנה מיתיבי גט המעושה בישראל כשר ובעובדי כוכבים פסול ובעובדי כוכבים חובטין אותו ואומרים לו עשה מה שישראל אומר לך יש מפרשים דקאי אמאי דסליק מיניה כלומר כיצד בעובדי כוכבים פסול כגון אם חובטין אותו וכו' ולא נהירא דא\"כ אדפריך ליה מסיפא לסייעיה מרישא דקתני בישראל כשר משום דאגב אונסיה גמר ומקני ואין לומר משום דמצוה לשמוע דברי חכמים דאם כן בעובדי כוכבים אמאי פסול הא חובטין אותו לשמוע דברי חכמים הלכך נראה לפרש ובעובדי כוכבים כיצד כשר כשאומרים לו עשה מה שישראל אומר לך וכן מפרש בהלכות גדולות וכן מוכח בתוספתא דקתני ובעובדי כוכבים חובטין אותו ואומרים לו עשה מה שישראל פלוני אומר לך משמע דפלוני שם חכם הדיין ועל פיו חובטין אותו העובדי כוכבים ליתן גט כשר בתיקון חכמים וכן מוכח נמי בירושלמי דקאמר התם סוף פרק המגרש רב אשי אמר ישראל שעשו כמעשה העובדי כוכבים כשר באומר איני זן ואיני מפרנס ומתניתין אמרה כן ובעובדי כוכבים חובטין אותו ואומרים לו עשה מה שישראל אומר לך ולא מה שאני אומר לך ואע\"ג דאמרינן בגיטין דף פח: לפניהם ולא לפני עובדי כוכבים היינו כשהוא מעושה ע\"פ דייני עובדי כוכבים:",
+              "ref": "Rosh on Bava Batra 3:51:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:נא:א",
+              "sourceRef": "Rosh on Bava Batra 3:51:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ודייני גולה אמרו: מחזיקין. אמר רב: הלכה כדייני גולה. אמרו ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רב כהנא ורב אסי לרב: הדר ביה מר משמעתיה</b> <span class=\"hebrew-emphasis\">[חזר בו אדוני משמועתו]</span> שאמר שאין מחזיקין בנכסי אשת איש? <b>אמר להו</b> <span class=\"hebrew-emphasis\">[להם]:</span> <b>מסתברא אמרי</b> <span class=\"hebrew-emphasis\">[מסתבר</span> הדבר <span class=\"hebrew-emphasis\">אמרתי]</span> לגבי מקרים מסויימים, שיש חזקה אף בנכסי אשת איש. שהסביר רב את הדבר, כמו שלאחר דורות הסבירו <b>רב יוסף,</b> כאמור לעיל, כשהחזיק שלוש שנים לאחר מות הבעל.",
+              "ref": "Steinsaltz on Bava Batra 51a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:א",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Talmud (<i>Sanhedrin</i> 17b) notes that this was an honorific bestowed upon Shmuel and Karna. They were first-generation Babylonian <i>amora’im</i> who were active judges in matters of monetary law.",
+              "he": "כלומר, רב לא חזר בו מדעתו וקיבל דעת דייני גולה, אלא שאמר שבמקרים מסויימים (שהחזיק בנכסים בחיי הבעל ושנות חזקה לאחר מותו) מחזיקים בנכסי אשת איש. אבל עיקר המחלוקת עומדת בעינה, שדייני גולה אמרו שמחזיקים בנכסיה גם במקרים אחרים.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:1",
+              "sourceHeRef": "דַּיָּינֵי גוֹלָה",
+              "sourceRef": "Judges of the exile"
+            },
+            {
+              "en": "",
+              "he": "העירו המפרשים שאין זה מדברי רב, שחי הרבה לפני רב יוסף, אלא בגמרא קיצרו, ואמרו שרב הודה במקרה שעליו דיבר רב יוסף לאחר זמן (רשב\"ם ועוד).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 51a:1",
+              "sourceHeRef": "כדרב יוסף",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "לפי האמור בתלמוד (סנהדרין יז,ב) היה זה הכינוי לאמוראים מן הדור הראשון לאמוראי בבל: שמואל (לגרסת הרשב\"ם) וקרנא, ששימשו כדיינים בפועל בבית הדין, ועסקו שם בדיני ממונות.",
+              "ref": "Steinsaltz comment #3 on Bava Batra 51a:1",
+              "sourceHeRef": "דייני גולה",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>but the judges of</b> the <b>exile said</b> that <b>one can establish</b> the <b>presumption</b> of ownership. <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> says:</b> The <b><i>halakha</i> is in accordance with</b> the opinion of the <b>judges of</b> the <b>exile. <span href=\"/topics/rav-kahana-(v)\" class=\"namedEntityLink\" data-slug=\"כהנא-(ambiguous)\">Rav Kahana</span> and <span href=\"/topics/rabbi-assi\" class=\"namedEntityLink\" data-slug=\"רב-אסי-(ambiguous)\">Rav Asi</span> said to <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span>:</b> Has the <b>Master retracted his <i>halakha</i></b> that one cannot establish the presumption of ownership with regard to the property of a married woman? <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> <b>said to them: I said</b> that the opinion of the judges of the exile <b>is reasonable,</b> as the presumption of ownership can be established with regard the property of a married woman under certain circumstances. The Gemara comments: This is <b>like</b> that ruling <b>of <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span></b> with regard to one who possesses the land for three years after the death of the husband.",
+      "he": "וְדַיָּינֵי גוֹלָה אָמְרוּ: מַחְזִיקִין. אָמַר רַב: הֲלָכָה כְּדַיָּינֵי גוֹלָה. אֲמַרוּ לֵיהּ רַב כָּהֲנָא וְרַב אַסִּי לְרַב: הֲדַר בֵּיהּ מָר מִשְּׁמַעְתֵּיהּ? אֲמַר לְהוּ: מִסְתַּבְּרָא אֲמַרִי – כִּדְרַב יוֹסֵף.",
+      "ref": "Bava Batra 51a:1"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר\"ש</b> בד\"ה כיון דאית לה מזוני מהבעל הס\"ד:",
+              "ref": "Chokhmat Shlomo on Bava Batra 51a:3",
+              "sourceHeRef": "חכמת שלמה על בבא בתרא נ״א א:ג",
+              "sourceRef": "Chokhmat Shlomo on Bava Batra 51a:3"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "What is meant by the exclusion of partners? When a person is a partner in a field that is not required to be divided , even though he alone benefits from the entire field for several years, the field is still presumed to be owned by both of the partners.<br>If, however, it is large enough to be divided and only one of the partners benefited from it in its entirety for the years necessary to establish a claim of ownership, he establishes such a claim. For he may tell his partner: \"If it is true that you did not sell or give me your share of the field, why did I alone benefit from the entire field? Why did you remain silent and not protest for all these three years?\"<br>Similarly, when a man who had stipulated that he waives the right to benefit from his wife's property nevertheless derives benefit from his wife's property for the number of years necessary to establish a claim of ownership, the fact that he derived benefit is of no consequence. This applies even when - while she was consecrated but not yet married - he stipulated that he would not inherit her property, and afterwards derived benefit from it, built or destroyed structures on it, doing whatever he desired.<br>Similarly, when a woman derived benefit from her husband's property and made use of it as she desired for several years, the fact that she derived benefit is of no consequence. This applies even if her husband designated another field for her to derive her livelihood from, and she benefited from other fields.<br>Similarly, when a son receives his livelihood at his father's home and is considered one of the members of his household, if he benefits from his father's property for the number of years necessary to establish a claim of ownership, it is of no consequence. The same law applies when the father derives benefit from the property of this son, who derives his livelihood from him for the number of years necessary to establish a claim of ownership.",
+              "he": "הַשֻּׁתָּפִין כֵּיצַד. אִם הָיָה שֻׁתָּף בְּשָׂדֶה זוֹ וְאֵין בָּהּ דִּין חֲלוּקָה אַף עַל פִּי שֶׁאָכַל אֶת כֻּלָּהּ הָאֶחָד מֵהֶן כַּמָּה שָׁנִים הֲרֵי הִיא בְּחֶזְקַת שְׁנֵיהֶם. וְאִם יֵשׁ בָּהּ דִּין חֲלוּקָה וַאֲכָלָהּ הָאֶחָד כֻּלָּהּ שְׁנֵי חֲזָקָה יֵשׁ לוֹ חֲזָקָה שֶׁהֲרֵי אוֹמֵר לְשֻׁתָּפוֹ אִם בֶּאֱמֶת שֶׁלֹּא מָכַרְתָּ וְלֹא נָתַתָּ הֵיאַךְ אָכַלְתִּי אֶת כֻּלָּהּ וְאַתָּה שׁוֹתֵק וְלֹא מָחִיתָ כָּל שָׁלֹשׁ שָׁנִים. וְכֵן הָאִישׁ שֶׁאָכַל בְּנִכְסֵי אִשְׁתּוֹ שְׁנֵי חֲזָקָה אַף עַל פִּי שֶׁהִתְנָה עִמָּהּ שֶׁאֵין לוֹ פֵּרוֹת בִּנְכָסֶיהָ. וַאֲפִלּוּ הִתְנָה עִמָּהּ כְּשֶׁהִיא אֲרוּסָה שֶׁלֹּא יִירָשֶׁנָּה וְאַחַר כָּךְ אָכַל וּבָנָה וְהָרַס וְעָשָׂה כָּל מַה שֶּׁעָשָׂה. וְכֵן הָאִשָּׁה שֶׁאָכְלָה פֵּרוֹת בְּנִכְסֵי בַּעְלָהּ וְנִשְׁתַּמְּשָׁה בָּהֶן כְּחֶפְצָהּ כַּמָּה שָׁנִים. אַף עַל פִּי שֶׁיִּחֵד לָהּ שָׂדֶה בִּמְזוֹנוֹתֶיהָ וְאָכְלָה שָׂדוֹת אֲחֵרוֹת אֵין אֲכִילָתָן רְאָיָה. וְכֵן הַבֵּן שֶׁהוּא סוֹמֵךְ עַל שֻׁלְחָנוֹ שֶׁל אָבִיו וְנֶחְשָׁב בִּכְלַל בְּנֵי בֵּיתוֹ אִם אָכַל נִכְסֵי אָבִיו שְׁנֵי חֲזָקָה. וְכֵן הָאָב שֶׁאָכַל נִכְסֵי בֵּן זֶה שֶׁהוּא סוֹמֵךְ עָלָיו שְׁנֵי חֲזָקָה. אֵין אֲכִילָתָן רְאָיָה:",
+              "ref": "Mishneh Torah, Plaintiff and Defendant 13:8",
+              "sourceHeRef": "הלכות טוען ונטען יג:ח",
+              "sourceRef": "Plaintiff and Defendant 13:8"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כיון דאית לה מזוני</strong> - מהבעל:",
+              "ref": "Rashbam on Bava Batra 51a:2:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ב:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מזוני הוא דקאכלה</strong> - הכל יודעין דלפירות יורדת והלכך לא מיחה בעל:",
+              "ref": "Rashbam on Bava Batra 51a:2:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ב:ב",
+              "sourceRef": "Rashbam on Bava Batra 51a:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דיחד לה</strong> - בעל קרקע אחריתי למזונות ואפי' הכי לא קפיד בעל אי אכלה טפי והלכך לית לה חזקה:",
+              "ref": "Rashbam on Bava Batra 51a:2:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ב:ג",
+              "sourceRef": "Rashbam on Bava Batra 51a:2:3"
+            }
+          ]
+        },
+        "Referenced Mishna": {
+          "comments": [
+            {
+              "en": [
+                "<strong>MISHNA:</strong> <b>Craftsmen</b> who are in possession of items that they are repairing, <b>and partners, and sharecroppers, and stewards [<i>veha’apotropin</i>] do not have</b> the ability to establish the <b>presumption</b> of ownership with regard to property in their possession, as their possession is not indicative of ownership. Similarly, <b>a man does not have</b> the ability to establish the <b>presumption</b> of ownership <b>with regard to his wife’s property, and a wife does not have</b> the ability to establish the <b>presumption</b> of ownership <b>with regard to her husband’s property. And a father</b> similarly <b>does not have</b> the ability to establish the <b>presumption</b> of ownership <b>with regard to a son’s property, and a son does not have</b> the ability to establish the <b>presumption</b> of ownership <b>with regard to a father’s property.</b> A husband and wife, or son and father, use each other’s property freely. Possession is therefore not indicative of ownership.",
+                "The mishna continues: <b>In what</b> case <b>is this statement,</b> that one establishes the presumption of ownership after profiting from the property for a certain duration, with the exception of the above people, <b>said?</b> It is said <b>in</b> a case of one who <b>has</b> mere <b>possession</b> of the property, which does, in some cases, serve as proof of ownership. <b>But in</b> a case where another person <b>gives</b> one <b>a gift, or</b> there are <b>brothers who divided</b> their inheritance, <b>or</b> there is one who <b>takes possession of</b> the <b>property of a convert</b> who died without heirs and his property is now ownerless, as soon as one <b>locked</b> the door of the property, <b>or fenced</b> it <b>or breached</b> its fence even <b>a bit, this is</b> considered <b>taking possession</b> of the property, and it effects acquisition."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 42a:8",
+                "Bava Batra 42a:9"
+              ],
+              "he": [
+                "<big><strong>מַתְנִי׳</strong></big> הָאוּמָּנִין, וְהַשּׁוּתָּפִין, וְהָאֲרִיסִין, וְהָאַפּוֹטְרוֹפִּין – אֵין לָהֶם חֲזָקָה. לֹא לָאִישׁ חֲזָקָה בְּנִכְסֵי אִשְׁתּוֹ, וְלֹא לָאִשָּׁה חֲזָקָה בְּנִכְסֵי בַּעֲלָהּ; וְלֹא לָאָב בְּנִכְסֵי הַבֵּן, וְלֹא לַבֵּן בְּנִכְסֵי הָאָב.",
+                "בַּמֶּה דְּבָרִים אֲמוּרִים – בְּמַחְזִיק; אֲבָל בְּנוֹתֵן מַתָּנָה, וְהָאַחִין שֶׁחָלְקוּ, וְהַמַּחְזִיק בְּנִכְסֵי הַגֵּר – נָעַל וְגָדֵר וּפָרַץ כׇּל שֶׁהוּא – הֲרֵי זוֹ חֲזָקָה."
+              ],
+              "link": "/Bava Batra/42a",
+              "ref": "Bava Batra 42a:8-9",
+              "sourceHeRef": "unused",
+              "sourceRef": "Bava Batra 42a:8-9"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "The following individuals are not given the privilege of establishing a claim of ownership even though they have benefited from a property for three years: craftsmen, sharecroppers, guardians, partners, a husband with regard to property belonging to his wife, a wife with regard to property belonging to her husband, a son with regard to property belonging to his father, and a father with regard to property belonging to his son.<br>The rationale is that in all these instances the owners will not be irritated if the other uses the property. Therefore, the fact that they benefited from it does not serve as proof of ownership, even though the owner did not protest. Instead, the property should be returned to the owner, provided that they bring proof that this land was known to belong to them, and that they take a <i>sh'vu'at hesset</i> that they did not sell or give away the land, as we have explained.",
+                      "he": "וְאֵלּוּ שֶׁאֵין מַעֲמִידִין הַקַּרְקַע בְּיָדָן אַף עַל פִּי שֶׁאֲכָלוּם שָׁלֹשׁ שָׁנִים. הָאֻמָּנִין וְהָאֲרִיסִין וְהָאַפּוֹטְרוֹפִּין וְהַשֻּׁתָּפִין וְהָאִישׁ בְּנִכְסֵי אִשְׁתּוֹ וְהָאִשָּׁה בְּנִכְסֵי בַּעְלָהּ וּבֵן בְּנִכְסֵי אָבִיו וְהָאָב בְּנִכְסֵי הַבֵּן. שֶׁכָּל אֶחָד מֵאֵלּוּ אֵין מַקְפִּידִין זֶה עַל זֶה. לְפִיכָךְ אֵין אֲכִילָתָן רְאָיָה אַף עַל פִּי שֶׁלֹּא מִחוּ בָּהֶן הַבְּעָלִים אֶלָּא תַּחְזֹר הַקַּרְקַע לַבְּעָלִים שֶׁהֵבִיאוּ רְאָיָה שֶׁזֹּאת הַקַּרְקַע יְדוּעָה לָהֶן וְיִשָּׁבַע הֶסֵּת שֶׁלֹּא מְכָרוֹ וְשֶׁלֹּא נְתָנוֹ כְּמוֹ שֶׁבֵּאַרְנוּ:",
+                      "ref": "Mishneh Torah, Plaintiff and Defendant 13:1",
+                      "sourceHeRef": "הלכות טוען ונטען יג:א",
+                      "sourceRef": "Plaintiff and Defendant 13:1"
+                    },
+                    {
+                      "en": "If any of the individuals who are not able to establish a claim of ownership by benefiting from a property bring witnesses who testify that the owner sold them this particular field or gave it to them as a present, the testimony is accepted as substantial. There are two exceptions: a robber, and a husband with regard to his wife's property. With regard to which property were the above statements made? With regard to <i>nichsei tzon barzel,</i> a field designated as payment for the money due her by virtue of her <i>ketubah,</i> a field belonging to her and mentioned in her <i>ketubah,</i> or a field that her husband had evaluated in her <i>ketubah</i> as a present for her. With regard to <i>nichsei milog,</i> by contrast, he may bring proof, as stated in <i>Hilchot Ishut.</i>",
+                      "he": "כָּל אֵלּוּ שֶׁאֵין אֲכִילָתָן רְאָיָה אִם הֵבִיאוּ עֵדִים שֶׁמָּכְרוּ לָהֶם הַבְּעָלִים שָׂדֶה זוֹ אוֹ נְתָנוּהָ לָהֶן בְּמַתָּנָה רְאָיָתָן רְאָיָה. חוּץ מִן הַגַּזְלָן וְהַבַּעַל בְּנִכְסֵי אִשְׁתּוֹ. בְּאֵי זֶה נְכָסִים אָמְרוּ בְּנִכְסֵי צֹאן בַּרְזֶל אוֹ בְּשָׂדֶה שֶׁיִּחֵד לָהּ בִּכְתֻבָּתָהּ וּבְשָׂדֶה שֶׁכָּתַב לָהּ בִּכְתֻבָּתָהּ וּבְשָׂדֶה שֶׁנָּתַן לָהּ בְּשׁוּם מִשֶּׁלּוֹ. אֲבָל בְּנִכְסֵי מְלוֹג יֵשׁ לוֹ רְאָיָה כְּמוֹ שֶׁבֵּאַרְנוּ בְּהִלְכוֹת אִישׁוּת:",
+                      "ref": "Mishneh Torah, Plaintiff and Defendant 14:1",
+                      "sourceHeRef": "הלכות טוען ונטען יד:א",
+                      "sourceRef": "Plaintiff and Defendant 14:1"
+                    },
+                    {
+                      "en": "When a woman sells <i>nichsei tzon barzel</i> - whether to her husband or to others - after she marries, her act is of no consequence.<br>Similarly, if her husband sells landed property belonging to his wife - whether it be <i>nichsei tzon barzel</i> or <i>nichsei m'log</i> - his act is of no consequence.",
+                      "he": "הָאִשָּׁה שֶׁמָּכְרָה אוֹ שֶׁנָּתְנָה אַחַר שֶׁנִּשֵּׂאת בְּנִכְסֵי צֹאן בַּרְזֶל בֵּין לְבַעְלָהּ בֵּין לַאֲחֵרִים לֹא עָשְׂתָה כְּלוּם. וְכֵן בַּעַל שֶׁמָּכַר קַרְקַע בְּנִכְסֵי אִשְׁתּוֹ בֵּין נִכְסֵי צֹאן בַּרְזֶל בֵּין נִכְסֵי מְלוֹג לֹא עָשָׂה כְּלוּם:",
+                      "ref": "Mishneh Torah, Marriage 22:15",
+                      "sourceHeRef": "הלכות אישות כב:טו",
+                      "sourceRef": "Marriage 22:15"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "A man does not have squatting rights in his wife's melog properties (a wife's property which is not listed in the ketuba; the husband has usufruct rights, yet is not responsible for the property. See siman 83:13) which he has used for the years of chazaka (if someone enjoys the usufruct of a property for 3 years without counterclaim from the original owner, he can claim that he purchased the land even if he is unable to produce the document of sale), even if she had previously made a condition that he would not receive the usufruct of her property. Similarly a woman does not have squatting rights on her husband's lands when she has taken the usufruct for the chazaka years. Rama: Specifically with this type of squatting, but with damage rights, e.g. opening windows [in a house] (without counterclaim) and similar instances, the husband does develop damage rights, and the law is similar with respect to the woman on her husband's property (Rabbenu Yerucham in Meisharim, path 23, section 7). And see Choshen Mishpat chapter 149.",
+                      "he": "אין לאיש חזקה בנ\"מ של אשתו שאכלם שני חזקה אע\"פ שהתנה עמה שאין לו פירות בנכסיה וכן אין לאשה חזקה בנכסי בעלה ע\"י שאכלתם שני חזקה: <span class=\"hebrew-emphasis\">הגה ודוקא בחזקה כזה אבל בחזקת נזיקין כגון פתיחת חלונות וכדומה לזה יש לאיש חזקה בנכסי אשתו וה\"ה לאשה על בעלה (ר\"י במישרים נכ\"ג ת\"ז) (וע' בח\"ה סי' קמ\"ט):</span>",
+                      "ref": "Shulchan Arukh, Even HaEzer 87:1",
+                      "sourceHeRef": "אבן העזר פז:א - שאין חזקה בנכסי אשת איש",
+                      "sourceRef": "Even HaEzer 87:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "האיש שאכל בנכסי אשתו שני חזק' אע\"פ שהתנה עמה שאין לו פירות בנכסיה ואפילו התנה עמה כשהיא ארוסה שלא יירשנה ואח\"כ אכל ובנה והרס ועשה כל מה שעשה וכן האשה שאכלה פירות בנכסי בעלה ונשתמשה בהם כחפצה כמה שנים אע\"פ שייחד לה שדה במזונותיה ואכלה שדות אחרות אין אכילתן ראיה: <span class=\"hebrew-emphasis\">הגה ודוקא שלא הזיק גופה של קרקע אבל חפר בקרקע בורות שיחין ומערות וכיוצא בהן שקלקל הקרקע והיא לא מחתה הוי חזקה (טור והרמ\"ה ומרדכי פרק חזקת) וכן חזקת ניזקין כגון פתיחת חלונות וכיוצא בו יש אומרים דהוי חזקה [טור ס\"י בשם ר\"י הלוי]: </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 149:9",
+              "sourceHeRef": "חושן משפט קמט:ט - אלו שאין להם חזקה השותפין והאריסין והאפטרופסים הגזלנים והאחין וחרש שוטה וקטן",
+              "sourceRef": "Choshen Mishpat 149:9"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> שנינו במשנה: <b>ולא לאשה</b> חזקה <b>בנכסי בעלה וכו'.</b> ומקשים: <b>פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט,</span> מובן מאליו<span class=\"hebrew-emphasis\">]</span> שאין לה חזקה, <b>כיון דאית</b> <span class=\"hebrew-emphasis\">[שיש]</span> <b>לה</b> זכות <b>מזוני</b> <span class=\"hebrew-emphasis\">[</span>ל<span class=\"hebrew-emphasis\">מזונות]</span> מנכסי בעלה, הרי <b>מזוני</b> <span class=\"hebrew-emphasis\">[מזונות]</span> <b>הוא דקא אכלה</b> <span class=\"hebrew-emphasis\">[שהיא אוכלת]</span> ואין מכאן הוכחה לחזקת בעלות! ומשיבים: <b>לא צריכא</b> <span class=\"hebrew-emphasis\">[נצרכה]</span> הלכה זו במשנה אלא במקרה ש<b>יחד לה ארעא אחריתי</b> <span class=\"hebrew-emphasis\">[קרקע אחרת]</span> <b>למזונה</b> ועל כך אמרה המשנה שאף שהיא אוכלת משדה שלא ייחד לה — אין לה חזקה.",
+              "ref": "Steinsaltz on Bava Batra 51a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:ב",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Even though the husband designated a parcel of land for his wife’s sustenance, he does not mind if she enjoys the profits from his other property, and therefore he does not lodge a protest (Rashbam; Rabbeinu Gershom Meor HaGola).",
+              "he": "שמכל מקום אינו מקפיד אם אוכלת יותר ומשדה אחר, ולכן אינו מוחה בה (רשב\"ם, רגמ\"ה).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:2",
+              "sourceHeRef": "דְּיִחֵד לָהּ אַרְעָא אַחֲרִיתִי",
+              "sourceRef": "That he designated another parcel of land"
+            },
+            {
+              "en": "A woman who enjoyed the profits of a specific parcel of her husband’s property for several years does not establish the presumption of ownership of it, even if he designated a different field for her sustenance (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot To’en VeNitan</i> 13:8; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 149:9).",
+              "he": "האשה שאכלה פירות מנכסי בעלה, והשתמשה בהם כמה שנים, גם אם ייחד לה שדה אחר למזונותיה — אין לה חזקה בנכסיו. (רמב\"ם ספר משפטים הלכות טוען ונטען פי\"ג ה\"ח. שו\"ע חו\"מ קמט, ט).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 51a:2",
+              "sourceHeRef": "דְּיִחֵד לָהּ אַרְעָא אַחֲרִיתִי וכו׳",
+              "sourceRef": "That he designated another parcel of land, etc."
+            }
+          ]
+        }
+      },
+      "en": "The mishna teaches: <b>And a wife does not have</b> the ability to establish the presumption of ownership <b>with regard to her husband’s property.</b> The Gemara asks: Isn’t that <b>obvious? Since she has</b> the right to <b>sustenance</b> from her husband’s property, <b>she is enjoying</b> the profits as payment of her <b>sustenance,</b> so her use of the property does not establish the presumption of ownership. The Gemara responds: <b>No,</b> it is <b>necessary</b> to state this <i>halakha</i> in the event <b>that he designated another</b> parcel of <b>land for her sustenance.</b> The mishna teaches that even if she enjoys the profits of a second field for three years, she does not establish the presumption of ownership of that field.",
+      "he": "וְלֹא לְאִשָּׁה בְּנִכְסֵי בַעְלָהּ וְכוּ׳. פְּשִׁיטָא – כֵּיוָן דְּאִית לַהּ מְזוֹנֵי, מְזוֹנֵי הוּא דְּקָא אָכְלָה! לָא צְרִיכָא, דְּיַחֵד לַהּ אַרְעָא אַחֲרִיתִי לִמְזוֹנַהּ.",
+      "ref": "Bava Batra 51a:2",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודייק חזקה הוא דלית לה</strong> - בלא שטר:",
+              "ref": "Rashbam on Bava Batra 51a:3:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ג:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא ראיה יש</strong> - אם יש לה שטר מכירה מבעל הוי מקחה קיים:",
+              "ref": "Rashbam on Bava Batra 51a:3:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ג:ב",
+              "sourceRef": "Rashbam on Bava Batra 51a:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לימא</strong> - הבעל אע\"פ שהקרקע נקנה בכסף מעות הללו שקבלתי ממנה לא קני לה הקרקע:",
+              "ref": "Rashbam on Bava Batra 51a:3:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ג:ג",
+              "sourceRef": "Rashbam on Bava Batra 51a:3:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לגלויי זוזי בעינא</strong> - מעות הטמינה ממני ונתכוונתי לגלות לי מעותיה ובחזקת מעות שלי לקחתים מידה ולא לשם מכר ולא לדעת קנין מכירה קבלתי' ולא גמרתי והקניתי:",
+              "ref": "Rashbam on Bava Batra 51a:3:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ג:ד",
+              "sourceRef": "Rashbam on Bava Batra 51a:3:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומדייקים ממה ששנינו במשנתנו: חזקה אין לאשה בנכסי בעלה, <b>הא</b> <span class=\"hebrew-emphasis\">[הרי]</span> <b>ראיה יש,</b> שאם הביאה ראיה בשטר שבעלה מכר לה את השדה — הרי הוא שלה. ויש לשאול: מדוע תהא זו ראיה? <b>לימא</b> <span class=\"hebrew-emphasis\">[נאמר]</span> כי <b>לגלויי זוזי</b> <span class=\"hebrew-emphasis\">[לגלות</span> את <span class=\"hebrew-emphasis\">הכסף]</span> שיש בידה <b>הוא דבעי</b> <span class=\"hebrew-emphasis\">[שרוצה]!</span> שאם מציע לה את השדה למכירה, והיא תתרצה בדבר — יתגלה לו שיש לה כסף משלה, שלא סיפרה לו קודם על קיומו. ובאמת אינו מתכוון למכור מאומה, אלא לוקח ממנה כסף השייך לו!",
+              "ref": "Steinsaltz on Bava Batra 51a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:ג",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:3"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: By inference, the wife <b>has</b> the ability to bring <b>proof</b> of her ownership and take possession of her husband’s field. Why is this proof valid? <b>Let</b> him <b>say that he desires to expose</b> her concealed <b>money.</b> If he offers to sell the field to her and she agrees, it will be discovered that she has money of which he had been unaware. His intention was never to sell the property, but to claim money to which he is entitled.",
+      "he": "הָא רְאָיָה – יֵשׁ? לֵימָא לְגַלּוֹיֵי זוּזֵי הוּא דְּבָעֵי!",
+      "ref": "Bava Batra 51a:3"
+    },
+    {
+      "commentary": {
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שמעת מינה המוכר כו'</strong> - ופלוגתא היא לקמן:",
+              "ref": "Rashbam on Bava Batra 51a:4:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ד:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אימא</strong> - דוק הכי:",
+              "ref": "Rashbam on Bava Batra 51a:4:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ד:ב",
+              "sourceRef": "Rashbam on Bava Batra 51a:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא ראיה יש</strong> - אם יש לה שטר מתנה דהתם גמר ונתן לה דליכא גלויי זוזי:",
+              "ref": "Rashbam on Bava Batra 51a:4:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ד:ג",
+              "sourceRef": "Rashbam on Bava Batra 51a:4:3"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "תני רבי חייא האומר לאשתו. וכי כתב לה מאי הוי והתניא האומר לחבירו דין ודברים אין לי מל שדה זו ואין לי עסק בה וידי מסולקת הימנה לא אמר כלום. אמרי דבי רבי ינאי בכותב לה ועודה ארוסה ומסתמא נמי מיירי דנפלו לה בעודה ארוסה וקשה דא\"כ אפילו אם לא כתב לה נמי מכרה קיים דהא תנן לעיל <span class=\"parenthesized\">(כתובות דף עח.)</span> עד שלא נשאת ונשאת רבן גמליאל אומר אם מכרה ונתנה קיים וי\"ל דמתני' דהכא כתנאי דאמרו לו והרמב\"ם ז\"ל <span class=\"parenthesized\">(פכ\"ג מהל' אישות)</span> כתב דמסתלק הוא מנכסים שנפלו לה לאחר שתנשא דסלוק בעלמא הוא ובמה שאינו ראוי לו עדיין אדם מתנה שלא יזכה בו ומיהו בירושלמי לא משמע הכי דגרסי' התם אמר ר' ירמיה בעו קמיה דרבי זירא כתב לה דין ודברים אין לי בנכסיך ונפלו לה לאחר מיכן מהו. ויש אדם מתנה על דבר שאינו ברשותו. ולא דמי לכותב לה ועודה ארוסה דהתם הנכסים כבר ביד האשה. וקצת יש לדחות דירושלמי איירי דכתב לה אחר נשואין דכיון דידו כידה אין הסילוק מועיל לדבר שאינו ברשותו אבל בעודה ארוסה מהני סילוק אפילו לנכסים שנפלו לה משנשאת. וכדרב כהנא דאמר רב כהנא נחלה הבאה לו לאדם ממקום אחר אדם מתנה עליה שלא יירשנה וכדרבא דאמר רבא האומר אי איפשי בתקנת חכמים כגון זו שומעין לו. מאי כגון זו כדרב הונא אמר רב דאמר רב הונא אמר רב יכולה אשה שתאמר איני ניזונת ואיני עושה. אי הכי אפילו נשואה נמי. אמר אביי נשואה ידו כידה. רבא אמר ידו עדיפא מידה. ונפקא מינה לשומרת יבם. איבעיא להו קנו מידו מהו. פירש\"י דאברייתא קאי וקשה לר\"י מה מועיל שם קנין למי הוא מקנה אותה. דדין ודברים אין לי בה אינו אלא לשון הפקר. הלכך נראה לר\"י דאנשואה קאי דלא מהני דין ודברים משום דידו כידה ומבעיא להו אי מהני קנין. ויש לקיים פירוש רש\"י דכיון שאומר לחבירו שהוא שותף עמו והקנה לו מוכח שהוא מקנה לו השדה. ורב אלפס ז\"ל כתב קנו מידו של בעל ועודה ארוסה מהו. וקשה דהא אפילו באמירה מועיל. וכוונתו שאם אמר דין ודברים אין לי בנכסיך וקנו מידו אם נסתלק גם מפירות וירושה. וקשה כיון דטעמא דלא נסתלק משום דיד בעל השטר על התחתונה או מדקדוק הלשון דבנכסייך ולא בפירות. בנכסייך ולא לאחר מיתה. לרב אשי מאי מהני קנין לדבר שאינו שלו במשמעות הלשון. וכן בכל מקום שאנו אומרים יד בעל השטר על התחתונה אטו אי קנו מיניה תהיה ידו על העליונה. ופרש\"י עיקר דקאי אברייתא כדפרישית: אמר רב יוסף מדין ודברים קנו מידו. ורב נחמן אמר מגופה של קרקע קנו מידו בין בעורר על קניינו בין בעומד: ת\"ר אלו הן פירות ואלו הן פירי פירות. הכניסה לו קרקע ועשתה לו פירות הרי הן פירות מכר פירות ולקח בהן קרקע ועשתה לו פירות הרי הן פירי פירות. והך ברייתא אתיא אליבא דרבי יהודה. דלרבנן לא משכחת פירי פירות אם סילק עצמו מפירות גם מפירי פירות אינו אוכל. ואם סלק עצמו מקרקע הקרקע שלקח בפירות הוא שלו. איבעיא להו פירי פירות דוקא או עד עולם דוקא או תרוייהו דוקא. ולא איפשיטא הלכך בעינן תרוייהו. איבעיא להו דין ודברים אין לי בנכסייך ובפירי פירותיהן מהו שיאכל פירות. מפירי פירות סליק נפשיה מפירות לא סליק נפשיה. או דלמא כ\"ש מפירות. פשיטא מכל מילי סליק נפשיה דאי אמרת מפירות לא סליק נפשיה כיון דאכלינהו לפירות פירי פירות מהיכא. וליטעמיך הא דאמר רבי יהודה לעולם הוא אוכל פירי פירות כיון דאכלינהו לפירי פירי פירות מהיכא. אלא בדשיירא הכא נמי בדשיירא. מדקאמר בדשיירא משמע דהדבר תלוי בה אם תרצה תשייר. אבל אין הבעל יכול לכופה ליקח בהן קרקע והרמב\"ם ז\"ל <span class=\"parenthesized\">(פכ\"ג מהלכות אישות)</span> כתב ילקח בהן קרקע והוא אוכל <span class=\"parenthesized\">(פירי)</span> פירות. ונראה שסמך על התוספתא דתנו רבי יהודה אומר לעולם הוא אוכל פירי פירות כיצד מוכר פירות וילקח בהן קרקע והוא אוכל פירות. וכן מצאתי בירושלמי <span class=\"parenthesized\">(ה\"א)</span>. ר' זעירא רב יהודה בשם רב הכותב שדה מתנה לאשתו אין לו אכילת פירות. אמר רבי מתנה מתניתא לא אמרה כן אלו הן פירי פירות מוכר פירות וילקח בהן קרקע והוא אוכל פירות. לאו ככותב שדה מתנה לאשתו הוא ואת אמרת אין לו לא פירות ולא פירי פירות. רבי אמי בעי אילו אחר כתב לה יש לו אכילת פירות. הוא כתב לה לא כל שכן. ונראה דירושלמי פליג אגמרא דידן דבפרק חזקת הבתים <span class=\"parenthesized\">(בבא בתרא דף נא.)</span> פליגי אמוראי במוכר שדה לאשתו אם הבעל אוכל פירות או לא ומודו דאם נתן לה מתנה דאינו אוכל פירות. הלכך לפום גמרא דידן לא אמרינן מוכר פירות ולוקח בהן קרקע אלא אם כן שיירה ולקחה בהן קרקע. אמר רב הלכה כרשב\"ג. ולית הלכתא כוותיה דקי\"ל בדבר שבממון תנאו קיים ירושלמי אמר ר' יוסי אלין דכתבין אי אמות בלא בני כל מה דילה <span class=\"parenthesized\">(כלתה)</span> דתיהדר לבי נשא. תנאי ממון הוא וקיים. ור\"ח ז\"ל פוסק כרשב\"ג וכן פסק ר\"י לעיל בפרק קמא. וכן פסק בעל הלכות והביא ראיה מדגרסי' בירושל' ר' ירמיה בשם רב הלכה כרשב\"ג שאם מתה ירשנה. אבל לא לענין דבריו שאמר מפני שהתנה עמ\"ש בתורה תנאו בטל. דהמתנה עמ\"ש בתורה דתנאו בטל בתנאי גוף. והכא בתנא ממון אנן קיימין ולמה אמרו תנאו בטיל שבסוף זכה בהן כלומר דלאחר מיתתה הוא יורשה. וזהו כמי שסילק ידו מנכסי אביו שאם מת אביו בנו יורשו מפני שבחיי אביו לא היה לו כלום בנכסים כך הבעל אין לו בגוף נכסי אשתו בחייה כלום. ודבר שלא בא לידו הוא לפיכך התנאי בטל ויורשה לאחר מיתה. ובירושלמי דאמר אי אמות בלא בני כו'. לאו בתנאי הבעל מיירי אלא האב כשפוסק נדוניא לבתו והוי כמתנה על מנת להחזיר. והרמב\"ן ז\"ל דחה ראיה זו של הירושלמי דודאי אם היה כותב לה לאחר שנשאת אז דמי לבן שסילק עצמו מירושת אביו. אבל גמרא דידן מוקי למתניתין בכותב לה ועודה ארוסה ומייתי עלה דרב כהנא נחלה הבאה לו לאדם ממקום אחר שלא ממשפחתו ושלא מאשתו נשואה שהוא ראוי לירש לה מכבר אלא כגון ארוסה שהיא עתידה להיות ראויה לו כשישאנה אדם מתנה עליה שלא יירשנה אבל באשתו נשואה אפי' ת\"ק מודה דאם מתה יירשנה. דהוי כבן שסילק עצמו מנכסי אביו לפי שכבר הוא ראוי לירש ובירושלמי מוקי רב למתני' בכותב לה משנשאת ופליג אגמרא דידן. ועוד מלתא דרב כהנא אזלא כת\"ק אדם מתנה עליה שלא יירשנה. וכיון דליכא ראיה ברורה אית לן למימר כל תנאי שבממון קיים.",
+              "ref": "Rosh on Ketubot 9:1:2",
+              "sourceHeRef": "פסקי הרא\"ש על כתובות ט:א:ב",
+              "sourceRef": "Rosh on Ketubot 9:1:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "האם <b>שמעת מינה</b> <span class=\"hebrew-emphasis\">[שומע אתה מכאן]</span> ש<b>המוכר שדה לאשתו</b> — <b>קנתה, ולא אמרינן</b> <span class=\"hebrew-emphasis\">[ואין אנו אומרים]</span> כי <b>לגלויי זוזי</b> <span class=\"hebrew-emphasis\">[לגלות</span> את <span class=\"hebrew-emphasis\">הכסף]</span> שיש בידה <b>הוא דבעי</b> <span class=\"hebrew-emphasis\">[שרוצה]?</span> ודוחים: <b>לא, אימא</b> <span class=\"hebrew-emphasis\">[אמור]</span> ודייק מן המשנה: <b>הא</b> <span class=\"hebrew-emphasis\">[הרי]</span> <b>ראיה יש,</b> אבל לא בשטר מכר, אלא <b>בשטר מתנה</b> אם הוציאה שטר שנתן לה את השדה במתנה.",
+              "ref": "Steinsaltz on Bava Batra 51a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:ד",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If he gave her the land as a gift, it is clear that he intended only to give her the land, and not to expose any concealed money that might be in her possession. <i>Tosafot</i> note that the <i>halakha</i> would be the same if he wrote her a document admitting that the land is hers.",
+              "he": "שאם נותן לה שטר מתנה ודאי לא נתכוון אלא לכך, ולא לגלות כספים שבידה. והעירו בתוס' שהוא הדין אם כתב לה שטר הודאה.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:4",
+              "sourceHeRef": "רְאָיָה יֵשׁ בִּשְׁטַר מַתָּנָה",
+              "sourceRef": "If she has proof with regard to a deed of gift"
+            },
+            {
+              "en": "If one sells land to his wife and he had been aware of the existence of the money that she used in the purchase, the sale is valid, but the husband still enjoys the profits. If the money was concealed, the sale is not valid. This is in accordance with the statement of Rava and the conclusion of the Gemara (Rambam<i> Sefer Nashim</i>,<i> Hilkhot Ishut</i> 22:29; <i>Shulĥan Arukh</i>,<i> Even HaEzer</i> 85:9).",
+              "he": "שפעמים סבור שאשתו מחזיקה בכסף השייך לו מן הדין (מציאתה, או פירות נכסי מלוג), ובדרך זו מוציא מידה את הכסף לפי שהיא סבורה שהוא מוכר לה את השדה, ובאמת אין כוונתו למכור.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 51a:4",
+              "sourceHeRef": "הַמּוֹכֵר שָׂדֶה לְאִשְׁתּוֹ",
+              "sourceRef": "One who sells a field to his wife"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא ראיה יש בשטר מתנה</strong> - ה\"ה דה\"מ למימר בשטר הודאה דלא שייך ביה גלויי זוזי:",
+              "ref": "Tosafot on Bava Batra 51a:4:1",
+              "sourceHeRef": "תוספות על בבא בתרא נ״א א:ד:א",
+              "sourceRef": "Tosafot on Bava Batra 51a:4:1"
+            }
+          ]
+        }
+      },
+      "en": "Can one <b>conclude from this</b> mishna that in the case of <b>one who sells a field to his wife, she has acquired</b> it, <b>and we do not say</b> that <b>he desires to expose</b> her concealed <b>money?</b> The Gemara answers: <b>No,</b> as one may <b>say</b> that the inference from the mishna <b>that</b> if she <b>has proof</b> then she has ownership rights is the <i>halakha</i> only <b>with regard to a deed of gift,</b> as, if her husband gave her the field as a gift, he cannot claim that he did so in order to expose her concealed money.",
+      "he": "שָׁמְעַתְּ מִינַּהּ, הַמּוֹכֵר שָׂדֶה לְאִשְׁתּוֹ – קָנְתָה, וְלָא אָמְרִינַן: לְגַלּוֹיֵי זוּזֵי הוּא דְּבָעֵי?! לָא; אֵימָא: הָא רְאָיָה יֵשׁ – בִּשְׁטַר מַתָּנָה.",
+      "ref": "Bava Batra 51a:4"
+    },
+    {
+      "commentary": {
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בתחומא</strong> - בתי מדרשות שלהן בסוף התחום היו כדי שיוכלו לבא שם בשבת מן העיירות שמסביב:",
+              "ref": "Rashbam on Bava Batra 51a:5:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ה:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:5:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ובענין זה מסופר, <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> <b>רב נחמן לרב הונא: לא הוה מר גבן באורתא בתחומא, דאמרינן מילי מעלייתא</b> <span class=\"hebrew-emphasis\">[היה אדוני אצלנו בערב</span> בבית המדרש <span class=\"hebrew-emphasis\">בתוך התחום, שאמרנו דברים מעולים]</span> ולא שמעת. <b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רב הונא: <b>מאי מילי מעלייתא אמריתו</b> <span class=\"hebrew-emphasis\">[מהם הדברים המעולים</span> ש<span class=\"hebrew-emphasis\">אמרתם]?</span> אמר לו כך אמרתי: <b>המוכר שדה לאשתו</b> — <b>קנתה, ולא אמרינן</b> <span class=\"hebrew-emphasis\">[ואין אנו אומרים]</span> כי <b>לגלויי זוזי</b> <span class=\"hebrew-emphasis\">[לגלות</span> את <span class=\"hebrew-emphasis\">הכסף]</span> שיש בידה <b>הוא דבעי</b> <span class=\"hebrew-emphasis\">[שרוצה].</span>",
+              "ref": "Steinsaltz on Bava Batra 51a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:ה",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כלומר, בבית המדרש (רגמ\"ה). והסביר הרשב\"ם שבתי המדרש היו נבנים כרגיל סמוך לתחום, כדי שיוכלו אנשים מכמה עיירות לבוא לשם אף בשבת. ובערוך מסביר שהוא כינוי לבית המדרש, לפי שהוא תחומה של תורה, כלומר מקומה.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:5",
+              "sourceHeRef": "בתחומא",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates: <b><span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> said to <span href=\"/topics/rav-huna\" class=\"namedEntityLink\" data-slug=\"rav-huna\">Rav Huna</span>:</b> The <b>Master was not with us in the evening</b> in the study hall that is <b>within the boundaries</b> of the town, <b>where we said a superior matter.</b> <span href=\"/topics/rav-huna\" class=\"namedEntityLink\" data-slug=\"rav-huna\">Rav Huna</span> <b>said to him: What superior matter did you say?</b> <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> responded: In the case of <b>one who sells a field to his wife, she has acquired</b> it, <b>and we do not say</b> that <b>he desires to expose</b> her concealed <b>money.</b>",
+      "he": "אֲמַר לֵיהּ <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">רַב נַחְמָן</span> <span href=\"/topics/rav-huna\" class=\"namedEntityLink\" data-slug=\"rav-huna\">לְרַב הוּנָא</span>: לָא הֲוָה מָר גַּבָּן בְּאוּרְתָּא בִּתְחוּמָא, דְּאָמְרִינַן מִילֵּי מְעַלְּיָיתָא. אֲמַר לֵיהּ: מַאי מִילֵּי מְעַלְּיָיתָא אָמְרִיתוּ? הַמּוֹכֵר שָׂדֶה לְאִשְׁתּוֹ – קָנְתָה, וְלָא אָמְרִינַן לְגַלּוֹיֵי זוּזֵי הוּא דְּבָעֵי.",
+      "ref": "Bava Batra 51a:5"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>We learned</b> in a mishna <b>elsewhere</b> (<i>Kiddushin</i> 26a): <b>Property that is guaranteed,</b> i.e., land, <b>is acquired by</b> means of <b>money, or by</b> means of <b>a bill, or by taking possession</b> of it. <b>And</b> property <b>that does not have a guarantee,</b> i.e., movable property, <b>can be acquired only by</b> means of <b>pulling. In Sura they taught this</b> following <b><i>halakha</i> in the name of Rav Ḥisda,</b> while <b>in Pumbedita they taught it in the name of Rav Kahana, and some say in the name of Rava: They taught</b> that movable property is acquired by means of pulling <b>only</b> with regard to <b>items that are not typically lifted</b> due to their weight or for some other reason. <b>But</b> in the case of <b>items that are typically lifted,</b> then <b>yes,</b> they are acquired <b>by</b> means of <b>lifting,</b> but they are <b>not</b> acquired <b>by</b> means of <b>pulling.</b>",
+                  "<b>Abaye sat and related this <i>halakha</i>. Rav Adda bar Mattana raised an objection to Abaye</b> from a <i>baraita</i>: <b>One who steals a purse on Shabbat</b> is <b>liable</b> for theft. Based on the principle that one who is liable to receive two punishments receives only the greater of the two, in this case one might think that he should be exempt from paying for the theft, as the performance of a prohibited labor on Shabbat is punishable by death. The reason he is liable in this case, in apparent contradiction to that principle, is <b>that he already became liable for</b> the <b>theft</b> as soon as he lifted the purse. This occurred <b>before he came to</b> violate <b>the prohibition</b> of performing prohibited labor on <b>Shabbat</b> by carrying the purse into the public domain.",
+                  "The <i>baraita</i> continues: If he did not lift the purse but <b>was dragging</b> it on the ground <b>and exiting</b> the private domain, continuously <b>dragging and exiting,</b> he is <b>exempt, as the prohibition</b> of performing labor on <b>Shabbat and</b> the prohibition of <b>theft</b> are violated <b>simultaneously</b> the moment he drags the purse out of the owner’s property into the public domain. Therefore, he receives only the greater punishment, death, for carrying on Shabbat.",
+                  "Rav Adda bar Mattana explains his objection: <b>But a purse is an item that can be lifted, and even so</b> it is apparent from the <i>baraita</i> that one <b>acquires</b> it <b>by</b> means of <b>pulling.</b> How then can it be stated that items that are typically lifted are not acquired by pulling? Abaye <b>said to him:</b> The <i>baraita</i> is referring to a case where the thief pulled the purse <b>with a rope.</b> Rav Adda bar Mattana thought that Abaye meant that the thief happened to drag it with a rope, and he responded: <b>I also state</b> my question even in a case where he pulled the purse <b>with a rope,</b> as it is still evident that one can acquire the purse by means of pulling instead of lifting. Abaye <b>said to him:</b> I meant that the <i>baraita</i> is referring to <b>an item that requires a rope.</b> It is a purse that is so large that it cannot be lifted and must be pulled, therefore it is acquired by means of pulling.",
+                  "The Gemara raises another objection. <b>Come</b> and <b>hear:</b> If the merchandise is <b>in the domain of</b> the <b>seller,</b> the buyer <b>does not acquire</b> the merchandise <b>until he lifts it or until he removes it from the domain</b> of the seller. <b>Apparently,</b> with regard to <b>an item that can be lifted, if he</b> so <b>desires he acquires it by lifting, and if he</b> so <b>desires he acquires it by pulling. Rav Naḥman bar Yitzḥak said:</b> This is not a proof, as it can be explained that the <i>tanna</i> <b>teaches it disjunctively,</b> i.e., the two options are referring to two different cases: In the case of <b>an item that can be lifted,</b> he acquires it <b>by lifting,</b> whereas with regard to regard to <b>an item that can be pulled,</b> he acquires it <b>by pulling.</b>"
+                ],
+                [
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> a proof from the mishna (84b) that even items that are usually lifted can be acquired by means of pulling: With regard to <b>one who sells produce to another,</b> if the buyer <b>pulled</b> the produce <b>but did not measure</b> it, <b>he has acquired</b> it. The Gemara explains the proof: <b>But produce can be lifted, and</b> yet the mishna <b>teaches that it is acquired by</b> means of <b>pulling.</b>",
+                  "The Gemara rejects this proof: <b>With what are we dealing here?</b> We are dealing <b>with large bundles</b> that are pulled from place to place and are not carried, due to their size. The Gemara asks: <b>If that is so, say the latter clause</b> of the mishna: <b>One who buys flax from another has not acquired</b> it <b>until he carries it from this place to another place,</b> i.e., it is acquired only though lifting and not through pulling. <b>Is that to say</b> that <b>flax is not prepared in large bundles?</b> The Gemara answers: Yes, <b>flax is different.</b> Unlike other produce, flax is not packed in large bundles, <b>as it</b> would <b>slip</b> from its place. Rather, it is packed in small bundles, and therefore flax is acquired specifically through lifting.",
+                  "<b>Ravina said to Rav Ashi: Come</b> and <b>hear</b> a proof from a mishna (<i>Kiddushin</i> 25b): <b>Large domesticated animals are acquired through passing</b> the animal’s leash to the buyer, <b>and small</b> domesticated animals are acquired <b>through lifting;</b> this is <b>the statement of Rabbi Meir and Rabbi Shimon ben Elazar. And the Rabbis say: Small domesticated animals</b> are acquired <b>through pulling.</b> Ravina explains the proof: <b>But small domesticated animals are</b> creatures <b>that can be lifted, and</b> yet the mishna <b>teaches that</b> one <b>acquires</b> them <b>through pulling.</b> Rav Ashi rejected this proof: <b>Domesticated animals are different, as they cling</b> to the ground and it is difficult to lift them. Therefore, the usual manner of moving animals is to pull them."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 86a:5",
+                "Bava Batra 86a:6",
+                "Bava Batra 86a:7",
+                "Bava Batra 86a:8",
+                "Bava Batra 86a:9",
+                "Bava Batra 86b:1",
+                "Bava Batra 86b:2",
+                "Bava Batra 86b:3"
+              ],
+              "he": [
+                [
+                  "תְּנַן הָתָם: נְכָסִים שֶׁיֵּשׁ לָהֶן אַחְרָיוּת – נִקְנִין בְּכֶסֶף וּבִשְׁטָר וּבַחֲזָקָה, וְשֶׁאֵין לָהֶן אַחְרָיוּת – אֵין נִקְנִין אֶלָּא בִּמְשִׁיכָה. בְּסוּרָא מַתְנוּ לַהּ לְהָא שְׁמַעְתָּא מִשְּׁמֵיהּ דְּרַב חִסְדָּא; בְּפוּמְבְּדִיתָא מַתְנוּ לַהּ מִשְּׁמֵיהּ דְּרַב כָּהֲנָא, וְאָמְרִי לַהּ מִשְּׁמֵיהּ דְּרָבָא: לֹא שָׁנוּ אֶלָּא דְּבָרִים שֶׁאֵין דַּרְכָּן לְהַגְבִּיהַּ, אֲבָל דְּבָרִים שֶׁדַּרְכָּן לְהַגְבִּיהַּ – בְּהַגְבָּהָה אִין, בִּמְשִׁיכָה לָא.",
+                  "יְתֵיב אַבָּיֵי וְקָאָמַר לְהָא שְׁמַעְתָּא; אֵיתִיבֵיהּ רַב אַדָּא בַּר מַתְנָה לְאַבָּיֵי: הַגּוֹנֵב כִּיס בְּשַׁבָּת – חַיָּיב, שֶׁכְּבָר נִתְחַיֵּיב בִּגְנֵיבָה קוֹדֶם שֶׁיָּבֹא לִידֵי אִיסּוּר שַׁבָּת.",
+                  "הָיָה מְגָרֵר וְיוֹצֵא מְגָרֵר וְיוֹצֵא – פָּטוּר, שֶׁהֲרֵי אִיסּוּר שַׁבָּת וּגְנֵיבָה בָּאִין כְּאֶחָד.",
+                  "וַהֲרֵי כִּיס – דְּבַר הַגְבָּהָה הוּא, וַאֲפִילּוּ הָכִי קָנֵי בִּמְשִׁיכָה! אֲמַר לֵיהּ: בְּמִיתְנָא. אֲנָא נָמֵי בְּמִיתְנָא קָא אָמֵינָא! אֲמַר לֵיהּ: בְּמִידֵּי דְּבָעֵי מִיתְנָא.",
+                  "תָּא שְׁמַע: בִּרְשׁוּת מוֹכֵר – לֹא קָנָה עַד שֶׁיַּגְבִּיהֶנָּה, אוֹ עַד שֶׁיּוֹצִיאֶנָּה מֵרְשׁוּתוֹ. אַלְמָא, מִידֵּי דְּבַר הַגְבָּהָה – אִי בָּעֵי בְּהַגְבָּהָה קָנֵי לֵיהּ, וְאִי בָּעֵי בִּמְשִׁיכָה קָנֵי לֵיהּ! אָמַר רַב נַחְמָן בַּר יִצְחָק: לִצְדָדִין קָתָנֵי – מִידֵּי דְּבַר הַגְבָּהָה, בְּהַגְבָּהָה; מִידֵּי דְּבַר מְשִׁיכָה, בִּמְשִׁיכָה."
+                ],
+                [
+                  "תָּא שְׁמַע: הַמּוֹכֵר פֵּירוֹת לַחֲבֵירוֹ, מָשַׁךְ וְלֹא מָדַד – קָנֵי. וְהָא פֵּירוֹת, דִּבְנֵי הַגְבָּהָה נִינְהוּ, וְקָתָנֵי דְּקָנֵי בִּמְשִׁיכָה!",
+                  "הָכָא בְּמַאי עָסְקִינַן – בִּשְׁלִיפֵי רַבְרְבֵי. אִי הָכִי, אֵימָא סֵיפָא: הַלּוֹקֵחַ פִּשְׁתָּן מֵחֲבֵירוֹ – לֹא קָנָה עַד שֶׁיְּטַלְטְלֶנּוּ מִמָּקוֹם זֶה לְמָקוֹם אַחֵר. אַטּוּ פִּשְׁתָּן בִּשְׁלִיפֵי רַבְרְבֵי מִי לָא עָבְדִי?! שָׁאנֵי פִּשְׁתָּן – דְּמִשְׁתְּמִיט.",
+                  "אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי, תָּא שְׁמַע: בְּהֵמָה גַּסָּה נִקְנֵית בִּמְסִירָה, וְהַדַּקָּה – בְּהַגְבָּהָה; דִּבְרֵי רַבִּי מֵאִיר וְרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר. וַחֲכָמִים אוֹמְרִים: בְּהֵמָה דַּקָּה – בִּמְשִׁיכָה. וְהָא בְּהֵמָה דַּקָּה, דְּבַר הַגְבָּהָה הִיא, וְקָתָנֵי דְּקָנֵי בִּמְשִׁיכָה! שָׁאנֵי בְּהֵמָה, דְּסָרְכָא."
+                ]
+              ],
+              "link": "/Bava Batra/86a",
+              "originalRefsBeforeRewriting": [
+                "Bava Batra 86a:5"
+              ],
+              "ref": "Bava Batra 86a:5-86b:3",
+              "sourceHeRef": "בבא בתרא פ״ו א",
+              "sourceRef": "Bava Batra 86a"
+            }
+          ]
+        },
+        "Mishnah": {
+          "comments": [
+            {
+              "en": "Rabbi Eliezer says: a piece of ground [large enough to plant] one fourth of a kav is liable for peah. Rabbi Joshua says: it must [be large enough] to grow two seahs. Rabbi Tarfon says: it must be six by six handbreadths. R. Judah ben Batera says: [it must be large enough] for a sickle to cut at least two handfuls and the halakhah is according to his words. Rabbi Akiva says: any size of land is liable for peah and for first-fruits, and [is sufficient] for the writing of the prozbul, and also to acquire through it movable property by money, by deed, or by a claim based on undisturbed possession.",
+              "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, קַרְקַע בֵּית רֹבַע, חַיֶּבֶת בַּפֵּאָה. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, הָעוֹשָׂה סָאתַיִם. רַבִּי טַרְפוֹן אוֹמֵר, שִׁשָּׁה עַל שִׁשָּׁה טְפָחִים. רַבִּי יְהוּדָה בֶן בְּתֵירָה אוֹמֵר, כְּדֵי לִקְצֹר וְלִשְׁנוֹת. וַהֲלָכָה כִּדְבָרָיו. רַבִּי עֲקִיבָא אוֹמֵר, קַרְקַע כָּל שֶׁהוּא, חַיֶּבֶת בַּפֵּאָה, וּבַבִּכּוּרִים, וְלִכְתֹּב עָלָיו פְּרוֹזְבּוּל, וְלִקְנוֹת עִמּוֹ נְכָסִים שֶׁאֵין לָהֶם אַחֲרָיוּת בְּכֶסֶף וּבִשְׁטָר וּבַחֲזָקָה:",
+              "link": "/Mishnah Peah/3",
+              "ref": "Mishnah Peah 3:6",
+              "sourceHeRef": "משנה פאה ג:ו",
+              "sourceRef": "Mishnah Peah 3:6"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "How is an acquisition made? Landed property can be acquired in one of three ways: a) through the transfer of money, b) through the transfer of a deed of sale, or c) through <i>chazakah</i> (manifesting one's ownership).",
+              "he": "וּבְמָה יִקָּנֶה הַמִּקָּח. הַקַּרְקָעוֹת בְּאֶחָד מִשְּׁלֹשָׁה דְּבָרִים. בְּכֶסֶף. אוֹ בִּשְׁטָר. אוֹ בַּחֲזָקָה:",
+              "ref": "Mishneh Torah, Sales 1:3",
+              "sourceHeRef": "הלכות מכירה א:ג",
+              "sourceRef": "Sales 1:3"
+            },
+            {
+              "en": "The property of a deceased convert who has no heirs, property that is ownerless, and a field that a gentile sold to a Jew who has not taken hold of it are all governed by the same laws. Whoever manifests ownership over them using a valid <i>chazakah -</i> to be described in <i>Hilchot Mechirah -</i> acquires them, with one exception: eating produce.",
+              "he": "נִּכְסֵי גֵּר שֶׁאֵין לוֹ יוֹרְשִׁים. וְנִכְסֵי הַהֶפְקֵר וְשָׂדֶה שֶׁמְּכָרָהּ הָעַכּוּ\"ם לְיִשְׂרָאֵל וַעֲדַיִן לֹא הֶחֱזִיק בָּהּ. כֻּלָּם דִּינָם שָׁוֶה. כָּל הַמַּחֲזִיק בָּהֶם בְּדֶרֶךְ מִדַּרְכֵי הַחֲזָקָה כְּמוֹ שֶׁבֵּאַרְנוּ בְּהִלְכוֹת מְכִירָה קָנָה חוּץ מֵאֲכִילַת הַפֵּרוֹת:",
+              "ref": "Mishneh Torah, Ownerless Property and Gifts 2:1",
+              "sourceHeRef": "הלכות זכייה ומתנה ב:א",
+              "sourceRef": "Ownerless Property and Gifts 2:1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b> דל זוזי מהכא תיקני בשטרא.</b> מכאן דקדק הרב בעל העיטור ז\"ל <span class=\"parenthesized\">(מאמר ג' אגב)</span>, דשטרי ראיה שאדם כותב שמכרתי שדה פלוני לפלוני, יש בהן משום קנייה כאלו כתוב בהן שדי מכורה לך, דאי לא, מאי קשיא, דילמא בשטרי ראיה שמכר <span class=\"parenthesized\">(לו)</span> [לה] את השדה בכך וכך, דמאן אמר לן דשדי מכורה לך כתב לה. ואיכא למידק, מאי קאמר דל זוזי תיקני בשטר, דשטרא נמי לגלויי זוזי הוא דכתב לה. ומסתברא לי, דמקומם מקום שנותנין מעות ואחר כך כותבין את השטר, ומשום הכי אקשי לה דל זוזי מהכא, דאף על גב דכי שקל זוזי לא בתורת דמי מקח שקלינהו, מכל מקום כיון דהדר וכתב לה שטרא, לא מחמת גלויי זוזי הוא, אלא להקנאה גמורה, וכאותה שאמרו בפרק דייני גזירות <span class=\"parenthesized\">(כתובות קי, א)</span> גבי מוכר שדהו לחבירו והוציא עליו שטר חוב שהוא חייב לו.",
+              "ref": "Rashba on Bava Batra 51a:1",
+              "sourceHeRef": "רשב״א על בבא בתרא נ״א א:א",
+              "sourceRef": "Rashba on Bava Batra 51a:1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">א\"ל</strong> - היכא דאיכא שטר מכירה אפילו לגלויי זוזי מיכוין בקבלת המעות הוי קנין גמור דדל זוזי מהכא ותיקני בשטר מכירה דגבי מעות הוא דאיכא למימר קבלת מעות הללו לא ליקני דלגלויי זוזי נתכוין ולעצמו קבלם אבל גבי שטר המכירה לא שייך למימר הכי אלא הרי הוא כשטר מתנה דהכל מודין בו לקמן דקנתה דמה ריוח יש לו בכתיבת שטר המכירה אלא ודאי גמר ואקני לה והא ליכא למימר דאי לא כתב לה שטר לא הוה יהבה זוזי ולגלויי זוזי נתכוין גם בכתיבת השטר דכל כך לא מסיק איניש אדעתיה:",
+              "ref": "Rashbam on Bava Batra 51a:6:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ו:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:6:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מי לא תנן כו'</strong> - וקס\"ד דאפי' בשטר מכירה קאמר דקני בלא נתינת מעות דכיון דכתב לו שטר מכירה אין יכולין עוד לחזור זה בזה ומעות חייב לו הלוקח למוכר:",
+              "ref": "Rashbam on Bava Batra 51a:6:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ו:ב",
+              "sourceRef": "Rashbam on Bava Batra 51a:6:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף א'. </b>נ\"ב עמ\"ש בחיבורי ליו\"ד מהדורא ה' סי' ?רע' בדין אם קונין בנאטין בנכרי למ\"ד מעות קונה. ומ\"ש ביישוב דברי הרמב\"ם מה שתמהו עליו מן הש\"ס דפריך אי בשט\"ח וכו' אמאי קונה. ובה' שומרין כתבתי ובארתי בטעם דהוי שטרות. ולא כספר שו\"ת חתם סופר. גם כתבתי שם בדין מנה אין כאן משכון אין כאן אם שייך גם בנתן נאטין למשכון או יש לחלק. והנה עוד נראה דהדבר מוכרח דלא כהחתם סופר הנ\"ל דאטו אם יועיל עשיית המלך מטבע כפי שיעור קצבתו להיות די בו לשיעור פדיון הבן זה ודאי אינו. ובשיעור הפדיון בעינן שיהי' כסף הקצוב בתורה ולא מהני קביעות המלך לדין תורה רק בשאר ענינים שבין אדם לחברו דאי בהנאה תליא מילתא בזה מהני קצבות המלך. כיון דיכול להנות ממנו לקנות בו צרכיו וכן ד\"ת במה דיש במטבע עכ\"פ כסף ש\"פ ולד\"ת די בפרוטה לכך בזה מהני מטבע. אבל במה דאין בו בגופו ש\"פ. ומצד הראיה שבו לא הוי גופו ממון לא מהני קביעות המלך לעשותו ממון לד\"ת וז\"ב ונכון ואמת:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 190:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, חושן משפט קצ:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 190:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "קרקע נקנה באחד מארבע דברים בכסף בשטר בחזקה ובקנין סודר: <span class=\"hebrew-emphasis\">הגה וכדין המקח כך דין שכירות קרקע כל ימי השכירות וע' לקמן סוף סי' קצ\"ה</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 190:1",
+              "sourceHeRef": "חושן משפט קצ:א - דין קניית קרקע בכסף.",
+              "sourceRef": "Choshen Mishpat 190:1"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף א'. </b>הנותן מתנה לחבירו נ\"ב הוה בדין הנותן מתנה לחברו ונתן לו גוף הדבר אם יכול לחזור בו תכ\"ד. דעת הטו\"ז שא\"י לחזור בו ותמהו עליו כולם. עיין בתשובתי לאהע\"ז לק' זאלקווא מהדורא חית סי' פ\"ה מ\"ש ליישב דברי הטו\"ז על נכון בעזה\"י:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 241:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, חושן משפט רמא:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 241:1"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When a person gives a gift to a colleague, the recipient does not acquire it until he takes possession through one of the legal processes by which a purchaser takes possession of a purchase.<br>If the giver desires to give him movable property, the recipient must lift up the article, perform <i>meshichah</i> on an article that one would not ordinarily lift up, or acquire that article through one of the other means through which movable property is acquired.<br>If he is giving him landed property or servants, the recipient does not acquire them until he manifests ownership over them as a purchaser would, or until a legal document recording the gift reaches his hand.<br>A verbal statement is not sufficient. The recipient does not acquire the gift, and either one of them still has the option of retracting.",
+                      "he": "הַנּוֹתֵן מַתָּנָה לַחֲבֵרוֹ אֵין הַמְקַבֵּל זוֹכֶה בָּהּ אֶלָּא בְּאֶחָד מִן הַדְּרָכִים שֶׁהַקּוֹנֶה זוֹכֶה בָּהֶן בְּמִקָּחוֹ. אִם מִטַּלְטְלִין רוֹצֶה לִתֵּן לוֹ עַד שֶׁיַּגְבִּיהַּ אוֹ שֶׁיִּמְשֹׁךְ דָּבָר שֶׁאֵין דַּרְכּוֹ לְהַגְבִּיהַּ אוֹ יִקְנֶה בְּאֶחָד מִשְּׁאָר הַדְּבָרִים שֶׁהַמִּטַּלְטְלִין נִקְנִין בָּהֶן. וְאִם קַרְקַע אוֹ עֲבָדִים נָתַן לוֹ עַד שֶׁיַּחְזִיק כְּדֶרֶךְ שֶׁמַּחְזִיק הַלּוֹקֵחַ אוֹ עַד שֶׁיַּגִּיעַ שְׁטַר מַתָּנָה לְיָדוֹ. אֲבָל בִּדְבָרִים לֹא זָכָה הַמְקַבֵּל אֶלָּא כָּל אֶחָד מֵהֶן עֲדַיִן יָכוֹל לַחְזֹר בּוֹ:",
+                      "ref": "Mishneh Torah, Ownerless Property and Gifts 3:1",
+                      "sourceHeRef": "הלכות זכייה ומתנה ג:א",
+                      "sourceRef": "Ownerless Property and Gifts 3:1"
+                    },
+                    {
+                      "en": "How is property acquired through the manifestation of ownership? If a person sold a colleague a house or a field or gave him such properties as a gift, the purchaser or the recipient acquires the property when he locks the entrance to the property, encloses the property with even the slightest portion of a fence or breaks through even the slightest portion of one of the walls surrounding the property, provided his deeds bring him benefit.<br>When does the above apply? When the person manifests his ownership in the presence of the seller or the one who gives the gift. If, however, he does so outside the presence of the seller or the one who gives the gift, the seller or the giver must tell him: \"Go, manifest possession over it and acquire it.\" If this statement is made, and afterwards the purchaser or the recipient manifests possession, he acquires the property even if he acts outside the presence of the previous owner.",
+                      "he": "כֵּיצַד בַּחֲזָקָה. מָכַר לוֹ בַּיִת מָכַר לוֹ שָׂדֶה אוֹ שֶׁנָּתַן אוֹתָהּ בְּמַתָּנָה כֵּיוָן שֶׁנָּעַל אוֹ גָּדַר אוֹ פָּרַץ כָּל שֶׁהוּא וְהוּא שֶׁיּוֹעִיל בְּמַעֲשָׂיו הֲרֵי זֶה קָנָה. בַּמֶּה דְּבָרִים אֲמוּרִים כְּשֶׁהֶחֱזִיק בִּפְנֵי הַמּוֹכֵר אוֹ הַנּוֹתֵן. אֲבָל שֶׁלֹּא בִּפְנֵי הַמּוֹכֵר אוֹ הַנּוֹתֵן צָרִיךְ שֶׁיֹּאמַר לוֹ לֵךְ חַזֵּק וּקְנֵה וְאַחַר כָּךְ אִם הֶחֱזִיק קָנָה אַף עַל פִּי שֶׁאֵינוֹ בִּפְנֵי הַבְּעָלִים:",
+                      "ref": "Mishneh Torah, Sales 1:8",
+                      "sourceHeRef": "הלכות מכירה א:ח",
+                      "sourceRef": "Sales 1:8"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "בחזקה כיצד מכר או נתן לו בית או שדה כיון שנעל או גדר או פרץ כל שהוא והועיל במעשיו הרי זה קנה:",
+                      "ref": "Shulchan Arukh, Choshen Mishpat 192:1",
+                      "sourceHeRef": "חושן משפט קצב:א - דין קניית קרקע בחזקה.",
+                      "sourceRef": "Choshen Mishpat 192:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "הנותן מתנה לחבירו בין קרקע בין מטלטלין אין המקבל זוכה בה אלא בא' מהדרכים שהקונה זוכה בהם וכיון שקנה באחד מהדרכים ההם אפילו שלא בפני עדים קנה אם שניהם מודים אבל בדברים לא זכה המקבל אלא כל א' יכול לחזור בו ואם אמר ליתן לחבירו מתנה מועטת אם חוזר בו יש בו משום מחוסר אמנה: <span class=\"hebrew-emphasis\">הגה וע\"ל סי' רמ\"ט ולעיל סי' ר\"ד סעיף ה' ראובן שאמר לשמעון בית לוי נתון לך אע\"פ שלוי מקבל קנין לקיים דבריו של ראובן אינו כלום (ריב\"ש סי' ר\"ז)</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 241:1",
+              "sourceHeRef": "חושן משפט רמא:א - המתנה במה תתקיים וכן המחילה והנותן דבר שאינו מסויים.",
+              "sourceRef": "Choshen Mishpat 241:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רב הונא: <b>פשיטא</b> <span class=\"hebrew-emphasis\">[פשוט,</span> מובן מאליו<span class=\"hebrew-emphasis\">]</span> הדבר, ואין בכך חידוש, <b>דל זוזי מהכא ותיקני בשטרא</b> <span class=\"hebrew-emphasis\">[הוצא</span> את <span class=\"hebrew-emphasis\">הכסף מכאן ותקנה בשטר]!</span> שגם אם לא שילמה לו הכסף (או שאין הכסף באמת שייך לה) מכל מקום יש לה קנין בשדה מחמת השטר. <b>מי</b> <span class=\"hebrew-emphasis\">[האם]</span> <b>לא תנן</b> <span class=\"hebrew-emphasis\">[שנינו</span> במשנה<span class=\"hebrew-emphasis\">]:</span> <b>נכסים שיש להן אחריות</b> (מקרקעין) <b>נקנין בכסף</b> לבד <b>ובשטר</b> לבד <b>ובחזקה</b> לבד?",
+              "ref": "Steinsaltz on Bava Batra 51a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:ו",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "In other words, with regard to the question of whether the wife acquired the land, do not take into account whether she paid, since in any event he gave her a bill of sale. The Rashbam explains that writing a bill of sale cannot be attributed to a desire to expose her concealed money, since one would not engage in such an extensive artifice. The Rid explains that since he gave her a valid document, he cannot nullify the transaction with a mere claim, even at the time of the transfer of the bill of sale. Therefore, whatever the circumstances, she has acquired the field through this bill of sale.",
+              "he": "כלומר, בשאלה אם קנתה האשה או לא — אל תתחשב בשאלה האם היה שם תשלום ממש או לא (שאם הכסף שייך לו — נמצא שלא שילמה לו), שהרי מכל מקום נתן לה שטר. ופירש הרשב\"ם כי את כתיבת השטר לא ניתן לתלות ברצון לגלות את הכסף, על מנת לשכנע את האשה למכור, שאין אדם מעלה בדעתו דבר זה (וראה בתוס' ועוד שחילקו אם מסרו קודם או אחר מתן המעות). אבל הרי\"ד מסביר שכיון שמוסר בידה שטר כתוב כהלכה — אין הוא יכול לבטלו בטענות בלבד, ואף לא בשעת המסירה עצמה, ונמצא השדה קנוי לה בכל אופן שהוא על ידי השטר.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:6",
+              "sourceHeRef": "דַּל זוּזֵי מֵהָכָא",
+              "sourceRef": "Remove the money from here"
+            },
+            {
+              "en": "Property that serves as a guarantee, i.e., land, can be acquired in three ways: By means of giving money, by means of giving a document, and by means of taking possession of it. Additionally, it can be acquired by means of a cloth, i.e., a symbolic exchange. Similarly, if one gives land to another as a gift it must be acquired through one of these means (Rambam<i> Sefer Kinyan</i>,<i> Hilkhot Mekhira</i> 1:3 and <i>Hilkhot Zekhiya UMattana</i> 3:1; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 190:1, 241:1).",
+              "he": "ומלשון המשנה משמע שעצם כתיבת השטר ומסירתו מקנה את הקרקע לקונה, בין שהיה זה שטר מתנה או שטר מכר (רשב\"ם).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 51a:6",
+              "sourceHeRef": "נְכָסִים שֶׁיֵּשׁ לָהֶן אַחֲרָיוּת וכו׳",
+              "sourceRef": "Property that serves as a guarantee, etc."
+            },
+            {
+              "en": "",
+              "he": "נכסים שיש להם אחריות, כלומר קרקעות, נקנים בשלוש דרכים: בכסף, בשטר ובחזקה (וכן בקנין סודר, שהוא קנין חליפין). וכן הנותן קרקע במתנה לחבירו אינה נקנית אלא בדרכים אלה. (רמב\"ם ספר קנין הלכות מכירה פ\"א ה\"ג. רמב\"ם ספר קנין הלכות זכייה ומתנה פ\"ג ה\"א. שו\"ע חו\"מ קצ, א. רמא, א).",
+              "ref": "Steinsaltz comment #3 on Bava Batra 51a:6",
+              "sourceHeRef": "נכסים שיש להן אחריות וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דל זוזי מהכא ותיקני ליה בשטר</strong> - במקום שכותבין שטר היו וקאמר דבמקום הזה לא מהניא שמעתיה מידי אע\"ג דמהניא במקום שאין כותבין ומיהו אף במקום שכותבין שייך למימר דנפקא מינה להיכא דאמר אי בעינן בשטרא איקני ואי בעינן בכספא איקני דקני בכספא אע\"פ שלא כתב לו השטר אי נמי כגון שכתב השטר תחלה ואח\"כ נתנה דמים דאי אמר לגלויי זוזי הוא דבעי לא קנתה:",
+              "ref": "Tosafot on Bava Batra 51a:6:1",
+              "sourceHeRef": "תוספות על בבא בתרא נ״א א:ו:א",
+              "sourceRef": "Tosafot on Bava Batra 51a:6:1"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "נכסים שאין להם אחריות נקנין עם נכסים שיש להם אחריות, בכסף, ובשטר, ובחזקה. כיצד, אמ' לו חצר וכל מה שבתוכה אני מוכר לך, כיון שכתב שטר, וקיבל מעות, והחזיק באחת מהן, החזיק בכולן. מקום עמידת תנור וכירים בחצר אין להם חזקה. קורה על גביהן כל שהוא, הרי זו חזקה. תרנגולין בחצר, אין להן חזקה, עשה להן גב גבוה עשרה טפחים, הרי זו חזקה. צינור אין לו חז', מקום קילוחו יש לו חזק'. פתח בחצר, אף על פי שסתמו אי' לו חזקה. פרץ פצימיו יש לו חזקה.",
+              "ref": "Tosefta Bava Batra (Lieberman) 2:13",
+              "sourceHeRef": "תוספתא בבא בתרא (ליברמן) ב:יג",
+              "sourceRef": "Tosefta Bava Batra (Lieberman) 2:13"
+            },
+            {
+              "en": "The one who seizes the property of a convert, if he locked it or fenced it or breached [its fence] in any measure, this is presumptive ownership. If one locked it and one walled it, this is presumptive ownership. If two locked it and two walled it, this is presumptive ownership. If he had ten fields, since he seized one of them, he has presumptively secured all of them. Ten slaves, even if he seized one, he did not seize all of them. Tools and slaves, if he acquired the tools, he has not acquired the slaves; the slaves, he has not acquired the tools. Tools and real estate, if he acquired the real estate he did not acquire the tools; the tools, he did not acquire the real estate. Slaves and real estate, if he acquired the slaves, he did not acquire the real estate; the real estate, he did not acquire the slaves. If he trespassed, whether long or short ways, that’s acquisition. If two trespassed, this one acquires the place of his trespass and this one acquires the place of his trespass, according to Rabbi Eliezer. But the sages say, the two of them have not acquired unless they presumptively possessed it. If one bought from him ten fields, once he has presumptively owned one of them, he has presumptively owned all of them. If he leased ten fields from him, one he presumptively owned one of them, he presumptively owned all of them. If he purchased part and rented part and acquired through presumptive ownership, whether the purchased or the leased, this is presumptive ownership. Property that cannot act as a guarantee is acquired with property that can serve as a guarantee by money, a document, or presumptive ownership. Howso? He says to him, the courtyard and all that is within it I sell to you, once he has written the document and received money and he has presumptively owned one of [the objects], he has presumptively owned all of them. A place for setting up an oven or a stove in a courtyard, this is not presumptive ownership. A beam on them at all, this is presumptive ownership. Chickens in the courtyard, this is not presumptive ownership. If he makes for them a roof ten tefachim high, this is presumptive ownership. A water pipe does not create presumptive ownership. The place where it discharges does cfreate presumptive ownership. A doorway in a courtyard even if it is stopped up, this is not presumptive ownership. If he broke its doorposts, this is presumptive ownership. What is a Tyrian window? Any through which a man’s hand can enter, according to Rabbi Meir, and only if it has a frame or shape of a door. And indeed Rabbi Meir said, a person should not open a door atop the door of his fellow or a window on top of the window of his fellow or a door on top of the window of his fellow or a window on top of a door of his fellow. But the sages permit, so long as it is distances four amot. Abba Shaul says, a person should not open a store across from a courtyard of his fellow so that he does not sit in the store and look at what is going on in his fellow’s courtyard. But this one may open into the public domain and that one may open into the public domain.",
+              "he": "המחזיק בנכסי הגר נעל וגדר ופרץ כל שהוא הרי זו חזקה נעל אחד וגדר אחד הרי זו חזקה נעלו שנים וגדרו שנים הרי זו חזקה היו לו עשר שדות כיון שהחזיק באחת החזיק בכולן עשרה עבדים אע\"פ שהחזיק באחד לא החזיק בכולן כלים ועבדים זכה בכלים לא זכה בעבדים בעבדים לא זכה בכלים כלים וקרקעות זכה בקרקעות לא זכה בכלים בכלים לא זכה בקרקעות עבדים וקרקעות זכה בעבדים לא זכה בקרקעות בקרקעות לא זכה בעבדים הלך בה בין לארכה ובין לרחבה הרי זה קנה הלכו בו שנים זה קנה מקום הילוכו וזה קנה מקום הילוכו דברי ר\"א וחכמים אומרים שניהם לא קנו עד שעה שיחזיקו לקח ממנו עשר שדות כיון שהחזיק באחת מהן החזיק בכולן שכר ממנו עשר שדות כיון שהחזיק באחת מהן החזיק בכולן לקח מקצתן ושכר מקצתן והחזיק בין בלקיחה בין בשכירה הרי זו חזקה. נכסים שאין להן אחריות נקנין עם נכסים שיש להן אחריות בכסף ובשטר ובחזקה כיצד אמר לו חצר וכל מה שבתוכה אני מוכר לך כיון שכתב שטר וקבל מעות והחזיק באחת מהן החזיק בכולן מקום עמידת תנור וכירים בחצר אין להם חזקה קורה על גביהן כל שהוא הרי זו חזקה תרנגולין בחצר אין להן חזקה עשה להן גג גבוה י' טפחים הרי זו חזקה צנור אין לו חזקה מקום קילוחו יש לו חזקה פתח בחצר אע\"פ שסתמו אין לו חזקה פרץ פצימיו יש לו חזקה איזו היא חלון הצורי כל שראשו של אדם יכול ליכנס לתוכה דברי רבי מאיר ובלבד שיהא לה מלבן או צורת פתח וכן היה רבי מאיר אומר לא יפתח אדם פתח על גבי פתחו של חבירו וחלון על גבי חלון של חבירו פתח ע\"ג חלונו של חבירו וחלון על גבי פתחו של חבירו וחכמים מתירין ובלבד שירחיק ד' אמות אבא שאול אומר לא יפתח אדם חנות כנגד חצרו של חבירו כדי שלא יהא יושב בחנותו ורואה מה בחצרו של חבירו אלא זה פותח לרשות הרבים וזה פותח לרשות הרבים.",
+              "ref": "Tosefta Bava Batra 2:5",
+              "sourceHeRef": "תוספתא בבא בתרא ב:ה",
+              "sourceRef": "Tosefta Bava Batra 2:5"
+            }
+          ]
+        }
+      },
+      "en": "Rav Huna <b>said to him:</b> That is <b>obvious; remove</b> the <b>money from here and she will acquire</b> the property <b>by means of the bill</b> of sale, as, even if she has not yet given him the money, she acquires the land by means of the bill of sale. <b>Didn’t we learn</b> in a mishna (<i>Kiddushin</i> 26a): <b>Property that serves as a guarantee,</b> i.e., land, <b>can be acquired by</b> means of giving <b>money, by</b> means of giving <b>a document, or by</b> means of <b>taking possession</b> of it?",
+      "he": "אֲמַר לֵיהּ: פְּשִׁיטָא, דַּל זוּזֵי מֵהָכָא – וְתִיקְנֵי בִּשְׁטָרָא! מִי לָא תְּנַן: נְכָסִים שֶׁיֵּשׁ לָהֶן אַחְרָיוּת נִקְנִין בְּכֶסֶף וּבִשְׁטָר וּבַחֲזָקָה?",
+      "ref": "Bava Batra 51a:6"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> הרי זו כו' נתונה ואמר ליה רב נחמן כו' כצ\"ל והד\"א:",
+              "ref": "Chokhmat Shlomo on Bava Batra 51a:5",
+              "sourceHeRef": "חכמת שלמה על בבא בתרא נ״א א:ה",
+              "sourceRef": "Chokhmat Shlomo on Bava Batra 51a:5"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                "<b>The Sages taught: How</b> is <b>levirate betrothal</b> performed? <b>He gives her money or the equivalent</b> value of <b>money</b> and declares: You are hereby betrothed to me. The Gemara asks: <b>And with a document, how</b> does he betroth her? The Gemara is puzzled by this question: <b>With a document, how</b> does he betroth her? It is <b>as we have said</b> by the <i>halakhot</i> of a regular document of betrothal: If <b>he wrote to her on paper or on earthenware, even though it is not worth a <i>peruta</i>,</b> the words: <b>You are hereby betrothed to me,</b> it is effective. As a document is not effective as a means of betrothal due to its monetary value but rather due to the words it contains, there is no requirement that it be of a minimum value. However, because the <i>halakhot</i> of betrothal by a document were already taught, the Gemara is puzzled as to the nature of this question. <b>Abaye said</b> that <b>this is what</b> the <i>baraita</i> <b>is saying:</b> With regard to <b>the document of a marriage contract for levirate marriage, how</b> is it written? Abaye understands that the question did not refer to the document of betrothal but rather to the marriage contract of a levirate marriage.",
+                "The Gemara explains that <b>he writes to her: I, so-and-so, son of so-and-so, have accepted so-and-so, my <i>yevama</i> upon me, to feed and maintain her in a fitting manner, provided that her marriage contract will</b> still <b>be</b> payable <b>from the property of her first husband</b> and not from the property of the <i>yavam</i>. The Gemara adds: <b>But if the first</b> husband <b>does not have</b> property, <b>the Sages instituted for her</b> that she should receive her marriage contract <b>from the second</b> husband, i.e., the <i>yavam</i>, for the same reason that they instituted the marriage contract in the first place: <b>So that she will not be demeaned in his eyes such that</b> he will easily <b>divorce her.</b> If he will suffer no financial penalty, he is likely to divorce over the smallest argument."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Yevamot 52a:11",
+                "Yevamot 52a:12"
+              ],
+              "he": [
+                "תָּנוּ רַבָּנַן: כֵּיצַד מַאֲמָר? נָתַן לָהּ כֶּסֶף אוֹ שָׁוֶה כֶּסֶף. וּבִשְׁטָר כֵּיצַד? בִּשְׁטָר כֵּיצַד?! כְּדַאֲמַרַן: כָּתַב לָהּ עַל הַנְּיָיר אוֹ עַל הַחֶרֶס, אַף עַל פִּי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה: ״הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי״! אָמַר אַבָּיֵי, הָכִי קָאָמַר: שְׁטַר כְּתוּבַּת יְבָמִין כֵּיצַד?",
+                "כָּתַב לַהּ: ״אֲנָא פְּלוֹנִי בַּר פְּלוֹנִי קַבֵּילִית יָת פְּלוֹנִית יְבִמְתִּי עֲלַי, לָזוּן וּלְפַרְנְסָהּ כָּרָאוּי, וּבִלְבַד שֶׁתְּהֵא כְּתוּבָּתָהּ עַל נִכְסֵי בַּעְלָהּ הָרִאשׁוֹן״. וְאִי לֵית לַהּ מֵרִאשׁוֹן — תַּקִּינוּ לַהּ רַבָּנַן מִשֵּׁנִי, כְּדֵי שֶׁלֹּא תְּהֵא קַלָּה בְּעֵינָיו לְהוֹצִיאָהּ."
+              ],
+              "link": "/Yevamot/52a",
+              "originalRefsBeforeRewriting": [
+                "Yevamot 52a:11"
+              ],
+              "ref": "Yevamot 52a:11-12",
+              "sourceHeRef": "יבמות נ״ב א",
+              "sourceRef": "Yevamot 52a"
+            },
+            {
+              "en": [
+                "<b>The Sages taught: How is</b> betrothal performed <b>with a document?</b> If he <b>wrote</b> the following <b>for</b> a young woman’s father <b>on paper or earthenware, despite</b> the fact <b>that</b> the paper or earthenware <b>is not worth one <i>peruta</i>: Your daughter is betrothed [<i>mekuddeshet</i>] to me,</b> or: <b>Your daughter is betrothed [<i>me’oreset</i>] to me,</b> or: <b>Your daughter is to me as a wife,</b> then <b>she is betrothed.</b> There is no requirement for the paper or earthenware to be worth one <i>peruta</i>, as she is not betrothed through the value of the paper or earthenware.",
+                "<b>Rabbi Zeira bar Memel objects to this</b> description of the writing of the document: <b>But this document is not comparable to a bill of sale. There,</b> in the case of a bill of sale, the <b>seller</b> is the one who <b>writes to</b> the buyer: <b>My field is sold to you. Here,</b> the <b>husband,</b> who is akin to a buyer, is the one who <b>writes: Your daughter is betrothed to me.</b>",
+                "<b>Rava said: There,</b> in the case of a sale, the formulation of the document is taken <b>from the context of the verse, and here,</b> in the case of betrothal, the formulation of the document is likewise taken <b>from the context of the verse.</b> Rava elaborates: <b>There,</b> with regard to a sale, <b>it is written: “And sells of his ancestral land”</b> (Leviticus 25:25), which indicates that <b>the Merciful One renders</b> the transaction <b>dependent on the seller. Here, it is written: “If</b> a man <b>takes</b> a woman” (Deuteronomy 22:13), meaning that <b>the Merciful One renders</b> the betrothal <b>dependent on the husband.</b>",
+                "The Gemara asks: <b>There,</b> in the case of a sale, <b>it is also written: “Men shall buy [<i>yiknu</i>] fields for money”</b> (Jeremiah 32:44), which indicates that the matter depends upon the buyer. The Gemara answers: <b>Read into</b> the verse: Shall sell <b>[<i>yikkanu</i>].</b> The Gemara asks: <b>What is the reason</b> that <b>you read it</b> as <b><i>yikkanu</i>; because it is written</b> in the verse in Leviticus: <b>“And sells,”</b> and there is a preference to have the verse from the Prophets accord with that of the Torah? <b>So too,</b> instead of: “If a man takes [<i>ki yikaḥ</i>]” (Deuteronomy 22:13), <b>read into</b> the verse: When he is given <b>[<i>ki yakiaḥ</i>], as it is written: “I gave my daughter to this man”</b> (Deuteronomy 22:16), so that the verses will accord with each other.",
+                "<b>Rather, Rava said:</b> There is no proof from the verses for these rulings, as <b>they are a <i>halakha</i></b> received through tradition, <b>and the Sages based them on</b> the <b>verses. And if you wish, say: There too,</b> in the case in Jeremiah, <b>it is written</b> with regard to the buyer: <b>“And I took the deed of purchase”</b> (Jeremiah 32:11), thereby indicating that it is the seller who writes the document.",
+                "<b>And Rava says</b> that <b>Rav Naḥman says:</b> If he <b>wrote</b> the following <b>for him on paper or earthenware, despite</b> the fact <b>that</b> the paper or earthenware <b>is not worth one <i>peruta</i>: Your daughter is betrothed [<i>mekuddeshet</i>] to me,</b> or: <b>Your daughter is betrothed [<i>me’oreset</i>] to me,</b> or: <b>Your daughter is to me as a wife, whether</b> he gave it <b>to her father or whether</b> he gave it directly <b>to her, she is betrothed with the consent</b> of her father. <b>And this</b> is the <i>halakha</i> provided <b>that she has not</b> yet <b>reached her majority,</b> before which her father alone has the authority to betroth her.",
+                "<b>If he wrote for her on paper or earthenware, despite</b> the fact <b>that</b> the paper or earthenware <b>is not worth one <i>peruta</i>: You are hereby betrothed [<i>mekuddeshet</i>] to me,</b> or: <b>You are hereby to me as a wife,</b> or: <b>You are hereby betrothed [<i>me’oreset</i>] to me,</b> then <b>she is betrothed whether</b> he gave it <b>to her father</b> or <b>to her,</b> as long as this was <b>with her consent. And this is</b> the <i>halakha</i> provided <b>that she has reached her majority</b> and is under her own authority."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 9a:6",
+                "Kiddushin 9a:7",
+                "Kiddushin 9a:8",
+                "Kiddushin 9a:9",
+                "Kiddushin 9a:10",
+                "Kiddushin 9a:11",
+                "Kiddushin 9a:12"
+              ],
+              "he": [
+                "תָּנוּ רַבָּנַן: בִּשְׁטָר כֵּיצַד? כָּתַב לוֹ עַל הַנְּיָיר אוֹ עַל הַחֶרֶס, אַף עַל פִּי שֶׁאֵין בּוֹ שָׁוֶה פְרוּטָה, ״בִּתְּךָ מְקוּדֶּשֶׁת לִי״, ״בִּתְּךָ מְאוֹרֶסֶת לִי״, ״בִּתְּךָ לִי לְאִינְתּוּ״ – הֲרֵי זוֹ מְקוּדֶּשֶׁת.",
+                "מַתְקֵיף לַהּ רַבִּי זֵירָא בַּר מֶמֶל: הָא לָא דָּמֵי הַאי שְׁטָרָא לִשְׁטַר זְבִינֵי! הָתָם, מוֹכֵר כּוֹתֵב לוֹ ״שָׂדִי מְכוּרָה לָךְ״, הָכָא בַּעַל כּוֹתֵב ״בִּתְּךָ מְקוּדֶּשֶׁת לִי״!",
+                "אָמַר רָבָא: הָתָם מֵעִנְיָינָא דִּקְרָא וְהָכָא מֵעִנְיָינָא דִּקְרָא. הָתָם כְּתִיב ״וּמָכַר מֵאֲחֻזָּתוֹ״ – בְּמוֹכֵר תְּלָה רַחֲמָנָא, הָכָא כְּתִיב ״כִּי יִקַּח״ – בְּבַעַל תְּלָה רַחֲמָנָא.",
+                "הָתָם נָמֵי כְּתִיב ״שָׂדוֹת בַּכֶּסֶף יִקְנוּ״! קְרִי בֵּיהּ ״יַקְנוּ״. מַאי טַעְמָא קָרֵית בֵּיהּ ״יַקְנוּ״ – מִשּׁוּם ״דִּכְתִיב״ וּמָכַר, הָכִי נָמֵי קְרִי בֵּיהּ ״כִּי יַקַּח״, ״דִּכְתִיב אֶת בִּתִּי נָתַתִּי לָאִישׁ״ הַזֶּה.",
+                "אֶלָּא אָמַר רָבָא: הִלְכְתָא נִינְהוּ וְאַסְמְכִינְהוּ רַבָּנַן אַקְּרָאֵי. וְאִיבָּעֵית אֵימָא: הָתָם נָמֵי כְּתִיב ״וָאֶקַּח אֶת סֵפֶר הַמִּקְנָה״.",
+                "וְאָמַר רָבָא אָמַר רַב נַחְמָן: כָּתַב לוֹ עַל הַנְּיָיר אוֹ עַל הַחֶרֶס, אַף עַל פִּי שֶׁאֵין בּוֹ שָׁוֶה פְרוּטָה, ״בִּתְּךָ מְקוּדֶּשֶׁת לִי״, ״בִּתְּךָ מְאוֹרֶסֶת לִי״, ״בִּתְּךָ לִי לְאִינְתּוּ״, בֵּין עַל יְדֵי אָבִיהָ בֵּין עַל יְדֵי עַצְמָהּ – מְקוּדֶּשֶׁת מִדַּעְתּוֹ, וְהוּא שֶׁלֹּא בָּגְרָה.",
+                "כָּתַב לָהּ עַל הַנְּיָיר אוֹ עַל הַחֶרֶס, אַף עַל פִּי שֶׁאֵין בּוֹ שָׁוֶה פְרוּטָה, ״הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי״, ״הֲרֵי אַתְּ לִי לְאִינְתּוּ״, ״הֲרֵי אַתְּ מְאוֹרֶסֶת לִי״ – מְקוּדֶּשֶׁת, בֵּין עַל יְדֵי אָבִיהָ, בֵּין עַל יְדֵי עַצְמָהּ, מִדַּעְתָּהּ, וְהוּא שֶׁבָּגְרָה."
+              ],
+              "link": "/Kiddushin/9a",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 9a:6"
+              ],
+              "ref": "Kiddushin 9a:6-12",
+              "sourceHeRef": "קידושין ט׳ א",
+              "sourceRef": "Kiddushin 9a"
+            },
+            {
+              "en": [
+                "<strong>GEMARA:</strong> The Gemara inquires: <b>From where do we</b> derive that land can be acquired <b>by</b> means of <b>money? Ḥizkiyya said</b> that <b>the verse states: “They shall acquire fields with money”</b> (Jeremiah 32:44). The Gemara asks: <b>But</b> if the proof is from that verse, one can <b>say</b> that the acquisition is not valid <b>unless there is a document</b> as well, <b>as it is written</b> in the same verse: <b>“And write a document and sign”</b> (Jeremiah 32:44). The Gemara answers: <b>If it were written: They shall acquire</b> fields with money, <b>at the end</b> of the verse, it would be <b>as you said,</b> that one must also write a document so that he can acquire the land with money. <b>Now that it is written “they shall acquire” at the beginning</b> of the verse, this teaches that the <b>money</b> itself <b>effects acquisition</b> of the land, and the <b>document is merely a proof.</b>",
+                "<b>Rav says: They taught</b> that land can be acquired by means of money alone, i.e., without a document, <b>only in a place where</b> the custom is that <b>they do not write documents; but in a place where</b> the custom is that <b>they write documents one does not acquire</b> land until a document is given to him. <b>And if he specified</b> that he wishes to acquire the land from the time of the money transfer, then <b>he has specified</b> his wishes, and the land is acquired once the money is given.",
+                "The Gemara comments: This is <b>like that which Rav Idi bar Avin</b> would do. <b>When purchasing land,</b> Rav Idi bar Avin <b>would say: If I wish</b> to acquire it <b>by</b> means of <b>money, I will acquire</b> it in that manner, and <b>if I wish</b> to acquire it <b>by</b> means of <b>a document, I will acquire</b> it by that method. He would stipulate at the outset that he reserves the right to choose how the transaction will be finalized. The Gemara elaborates: <b>If I wish</b> to acquire it <b>by</b> means of <b>money, I will acquire</b> it in that way, <b>as, if you wish to retract</b> your participation in the sale <b>you cannot retract</b> it, because the money has already changed hands. <b>And if I wish</b> to acquire the land <b>by</b> means of <b>a document, I will acquire</b> it in that way, <b>as, if I wish to retract</b> my participation in the sale <b>I can retract</b> it provided that I have not received a document of purchase.",
+                "The mishna teaches that land can be purchased <b>by</b> means of <b>a document.</b> The Gemara asks: <b>From where do we</b> derive this? <b>If we say</b> that it is <b>because it is written: “And write in a document and sign, and witnesses shall testify”</b> (Jeremiah 32:44), <b>but didn’t you say</b> that the document mentioned in the verse <b>is merely a document of proof? Rather,</b> it is derived <b>from here: “And I took the deed of purchase”</b> (Jeremiah 32:11), an expression that indicates that the document itself effects the acquisition. <b>Shmuel said:</b> The Sages <b>taught</b> that the document itself effects acquisition <b>only</b> in the case <b>of a deed of a gift. But with regard to a sale, it does not effect acquisition until</b> the buyer <b>gives</b> the seller <b>money.</b> The document itself does not effect the acquisition.",
+                "<b>Rav Hamnuna raises an objection</b> to this from a <i>baraita</i>: <b>How</b> is acquisition performed <b>by</b> means of <b>a document?</b> If he <b>wrote for him on paper or earthenware, even though</b> the paper or the earthenware <b>is not worth one <i>peruta</i>: My field is sold to you,</b> or: <b>My field is given to you</b> as a gift, <b>it is thereby sold or given.</b> This indicates that a document is sufficient to effect acquisition both in the case of a sale and in the case of a gift. Rav Hamnuna <b>raised the objection and he resolved it:</b> The <i>baraita</i> is referring to one <b>who sells his field due to its poor</b> quality. The seller wants to be rid of his field due to its decreasing value and would like to transfer ownership of it as quickly as possible. In this case writing a document is enough to complete the acquisition.",
+                "<b>Rav Ashi says:</b> It can be claimed that the entire <i>baraita</i> is referring to one case, that <b>of a gift</b> one <b>wished to give</b> another. The <i>baraita</i> does not deal with a sale at all. <b>And why does he write for him</b> a deed for a gift containing the <b>language of a sale? He does it in order to enhance his power.</b> If it turns out that there was a lien on this land, the beneficiary can collect the value of the field from the giver’s other property, as though this land had been sold to him. In other words, by writing that it is a sale, the giver grants the beneficiary the acquisition power of a buyer, but since the transaction is actually a gift, the document itself completes the acquisition.",
+                "The mishna further teaches that land can be acquired <b>by</b> means of taking <b>possession</b> of it. The Gemara asks: <b>From where do we</b> derive this? <b>Ḥizkiyya said</b> that <b>the verse states: “And dwell in your cities that you have taken”</b> (Jeremiah 40:10). <b>In what</b> manner <b>have you taken</b> these cities? They are taken <b>by dwelling,</b> which indicates that taking possession of a plot of land and dwelling there is an act demonstrating ownership, and it is itself a valid act of acquisition. A Sage from <b>the school of Rabbi Yishmael taught</b> a different proof: <b>“And you shall possess it and dwell there”</b> (Deuteronomy 11:31). <b>How have you possessed</b> it? You have done so <b>by dwelling</b> there. This teaches that land can be acquired through an act that demonstrates ownership."
+              ],
+              "expandedRefsAfterRewriting": [
+                "Kiddushin 26a:4",
+                "Kiddushin 26a:5",
+                "Kiddushin 26a:6",
+                "Kiddushin 26a:7",
+                "Kiddushin 26a:8",
+                "Kiddushin 26a:9",
+                "Kiddushin 26a:10"
+              ],
+              "he": [
+                "<big><strong>גְּמָ׳</strong></big> בְּכֶסֶף מְנָלַן? אָמַר חִזְקִיָּה: אָמַר קְרָא: ״שָׂדוֹת בַּכֶּסֶף יִקְנוּ״. וְאֵימָא עַד דְּאִיכָּא שְׁטָר, דִּכְתִיב: ״וְכָתוֹב בַּסֵּפֶר וְחָתוֹם״! אִי כְּתִיב ״יִקְנוּ״ לְבַסּוֹף – כִּדְקָאָמְרַתְּ, הַשְׁתָּא דִּכְתִיב ״יִקְנוּ״ מֵעִיקָּרָא, כֶּסֶף – קָנֵי, שְׁטָר – רְאָיָה בְּעָלְמָא הוּא.",
+                "אָמַר רַב: לֹא שָׁנוּ אֶלָּא בִּמְקוֹם שֶׁאֵין כּוֹתְבִין אֶת הַשְּׁטָר, אֲבָל בִּמְקוֹם שֶׁכּוֹתְבִין אֶת הַשְּׁטָר – לֹא קָנָה. וְאִי פָּרֵישׁ – פָּרֵישׁ.",
+                "כִּי הָא דְּרַב אִידִי בַּר אָבִין כִּי זָבֵין אַרְעָא, אָמַר: אִי בָּעֵינָא בְּכַסְפָּא – אִיקְנֵי, אִי בָּעֵינָא בִּשְׁטָרָא – אִיקְנֵי. אִי בָּעֵינָא בְּכַסְפָּא – אִיקְנֵי, דְּאִי בָּעֵיתוּ לְמִיהְדַּר, לָא מָצִיתוּ הָדְרִיתוּ. וְאִי בָּעֵינָא בִּשְׁטָרָא – אִיקְנֵי, דְּאִי בָּעֵינָא לְמִיהְדַּר, הָדַרְנָא בִּי.",
+                "וּבִשְׁטָר. מְנָלַן? אִילֵּימָא מִשּׁוּם דִּכְתִיב: ״וְכָתוֹב בַּסֵּפֶר וְחָתוֹם וְהָעֵד עֵדִים״, וְהָאָמְרַתְּ שְׁטָר רְאָיָה בְּעָלְמָא הוּא! אֶלָּא מֵהָכָא, ״וָאֶקַּח אֶת סֵפֶר הַמִּקְנָה״. אָמַר שְׁמוּאֵל: לֹא שָׁנוּ אֶלָּא בִּשְׁטַר מַתָּנָה, אֲבָל בְּמֶכֶר לֹא קָנָה עַד שֶׁיִּתֵּן לוֹ דָּמִים.",
+                "מֵתִיב רַב הַמְנוּנָא: בִּשְׁטָר כֵּיצַד? כָּתַב לוֹ עַל הַנְּיָיר אוֹ עַל הַחֶרֶס, אַף עַל פִּי שֶׁאֵין בָּהֶם שָׁוֶה פְּרוּטָה, ״שָׂדִי מְכוּרָה לָךְ״, ״שָׂדִי נְתוּנָה לְךָ״ – הֲרֵי זוֹ מְכוּרָה וּנְתוּנָה. הוּא מוֹתֵיב לַהּ וְהוּא מְפָרֵק לַהּ: בְּמוֹכֵר שָׂדֵהוּ מִפְּנֵי רָעָתָהּ.",
+                "רַב אָשֵׁי אָמַר: בְּמַתָּנָה בִּיקֵּשׁ לִיתְּנָהּ לוֹ, וְלָמָּה כָּתַב לוֹ לְשׁוֹן מֶכֶר – כְּדֵי לְיַפּוֹת אֶת כּוֹחוֹ.",
+                "וּבַחֲזָקָה. מְנָלַן? אָמַר חִזְקִיָּה: אָמַר קְרָא: ״וּשְׁבוּ בְּעָרֵיכֶם אֲשֶׁר תְּפַשְׂתֶּם״, בַּמֶּה תְּפַשְׂתֶּם – בִּישִׁיבָה. דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״וִירִשְׁתֶּם אֹתָהּ וִישַׁבְתֶּם בָּהּ״, בַּמֶּה יְרַשְׁתֶּם – בִּישִׁיבָה."
+              ],
+              "link": "/Kiddushin/26a",
+              "originalRefsBeforeRewriting": [
+                "Kiddushin 26a:7",
+                "Kiddushin 26a:8",
+                "Kiddushin 26a:9"
+              ],
+              "ref": "Kiddushin 26a:4-10",
+              "sourceHeRef": "קידושין כ״ו א",
+              "sourceRef": "Kiddushin 26a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "How is property acquired through the transfer of a deed of sale? The seller writes for the purchaser on a piece of paper, on a shard or on a leaf. \"My field is given to you,\" or \"My field is sold to you.\" Once the deed reaches the purchaser's hand, he acquires the field, even though there are no witnesses at all, and despite the fact that the document itself is of no financial value. When does the above apply? When a person sells his field because it is undesirable. With regard to other landed property, by contrast, even though the deed of sale reaches the purchaser's hand and is signed by witnesses, the purchaser does not acquire the property until he pays its price.",
+              "he": "כֵּיצַד בִּשְׁטָר. כָּתַב לוֹ עַל הַנְּיָר אוֹ עַל הַחֶרֶס אוֹ עַל הֶעָלֶה שָׂדִי נְתוּנָה לְךָ שָׂדִי מְכוּרָה לְךָ כֵּיוָן שֶׁהִגִּיעַ הַשְּׁטָר לְיָדוֹ קָנָה. אַף עַל פִּי שֶׁאֵין שָׁם עֵדִים כְּלָל. וְאַף עַל פִּי שֶׁאֵין הַשְּׁטָר שָׁוֶה כְּלוּם. בַּמֶּה דְּבָרִים אֲמוּרִים בְּמוֹכֵר שָׂדֶה מִפְּנֵי רָעָתָהּ. אֲבָל בִּשְׁאָר קַרְקָעוֹת אַף עַל פִּי שֶׁהִגִּיעַ שְׁטָר שֶׁל מֶכֶר לְיָדוֹ וַאֲפִלּוּ הָיוּ בּוֹ עֵדִים לֹא קָנָה עַד שֶׁיִּתֵּן אֶת הַדָּמִים:",
+              "ref": "Mishneh Torah, Sales 1:7",
+              "sourceHeRef": "הלכות מכירה א:ז",
+              "sourceRef": "Sales 1:7"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>כתב לו על הנייר או על החרס.</b> ואם תאמר על החרס שיכול להזדייף הוא ואינו שטר. יש לפרש בחוקק על החרס. אי נמי הא מני רבי אלעזר הוא דאמר עידי מסירה כרתי, ואליבא דרבי יוחנן דאמר כי אמר רבי אלעזר אפילו מכאן ועד עשרה ימים.",
+              "ref": "Rashba on Bava Batra 51a:2",
+              "sourceHeRef": "רשב״א על בבא בתרא נ״א א:ב",
+              "sourceRef": "Rashba on Bava Batra 51a:2"
+            },
+            {
+              "en": "",
+              "he": "<b>אף על פי שאין בו פרוטה שדי מכורה לך שדי נתונה לך.</b> איכא למידק, מאי קא משמע לן בשאין בו שוה פרוטה, דבשלמא גבי חליפין דאמרינן קונין בכלי אף על פי שאין בו שוה פרוטה, אשמעינן דאף על פי שקונין בכליו של קונה אפילו אין בו שוה פרוטה קנה, וכן נמי בשטר קדושין אפילו שאין בו שוה פרוטה קונה בו את האשה, אבל הכא בשטר הבא ממוכר ללוקח מה לי שוה פרוטה מה לי אין בו, וכי סבורין היינו שיקנה הלוקח בכסף ובשוה כסף שנותן לו המוכר. וי\"ל דאתא לאשמועינן דסד\"א דעיקר שטר משום דבההיא הנאה דמקבל לוקח מיניה ממונא הוא, וכדאמרינן גבי קדושין <span class=\"parenthesized\">(קדושין ז, א)</span> הא לך מנה ואתקדש אני לך מקודשת בההיא הנאה דמקבל ממנה מתנה, קא משמע לן הכא אף על פי דלית ביה שוה פרוטה קנה. ואי נמי סלקא דעתך אמינא כיון דלית ביה שוה פרוטה לאו כלום הוא, קא משמע לן.",
+              "ref": "Rashba on Bava Batra 51a:3",
+              "sourceHeRef": "רשב״א על בבא בתרא נ״א א:ג",
+              "sourceRef": "Rashba on Bava Batra 51a:3"
+            },
+            {
+              "en": "",
+              "he": "<b>שדי מכורה לך שדי נתונה לך.</b> פירש ר\"ש ז\"ל שכן כתב לו שתי לשונות אלו בשטר והרי זו מכורה ונתונה. ומסיים בה רב ביבי משמיה דרב נחמן דבמתנה בקש ליתנה לו, כלומר משום דינא דבר מצרא, ולמה כתב לו בלשון מכר כדי ליפות את כחו. ואיכא למידק, כי כתב ליה שדי נתונה לך, מאי מהנה ליה בהדי בן המצר והא כיון דכתב ליה נמי שדי מכורה לך, והא אמרינן <span class=\"parenthesized\">(ב\"מ קח, ב)</span> דמתנה שיש בה אחריות יש בה משום דינא דבר מצרא ודיינינן ליה כמכר, כל שכן כאן שכתב לה בהדיא שדי מכורה לך. י\"ל דשאני התם דמתנה גופא כתב בה אחריות, וכל שיש בה אחריות נדונת משום מכר, אבל כאן שכתב לה מתנה בפני עצמה ומכר בפני עצמו, אין בה משום דינא דבר מצרא. ותדע לך, דהא אמרינן גבי שני שטרות דבטל השני את הראשון, ראשון במכר ושני במתנה לא בטל השני את הראשון, דשני משום דינא דבר מצרא כתביה. וליתא, דהתם הכי קאמר, הא דכתבו לשני, לאו משום דאחולה אחליה לקמא ולא אודייא אודי דראשון פסול, אלא משום דינא דבר מצרא איכתיב, ואי אתי בר מצרא מסמך ליה לשטר מכר ומפיק שטר מתנה.<br><b></b>ור\"ת ז\"ל כתב דלא כתב ליה שני לשונות אלו, ותדע לך, דאם כן שדי שדי למה לי, לימא שדי נתונה לך ומכורה לך.<br><b></b>והא דמסיים רב ביבי במתנה בקש ליתנה לו, אמוכר שדהו ומפני רעתה מסיים הכי, כלומר, מוכר שדהו מפני רעתה שקונה עד שלא נתן דמים, היינו טעמא דדעת המוכר ליתנה לו בלשון מתנה כדי למהר הקנאתו ושלא יוכל הלוקח לחזור בו, ולמה כתב לו בלשון מכר, כדי ליפות את כחו מפני האחריות, ואי נמי שאין הלוקח מתפייס שיתן דמים ויצא עליו שם שקבלה במתנה.",
+              "ref": "Rashba on Bava Batra 51a:4",
+              "sourceHeRef": "רשב״א על בבא בתרא נ״א א:ד",
+              "sourceRef": "Rashba on Bava Batra 51a:4"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולאו איתמר עלה</strong> - דבשטר מתנה מיירי אבל שטר מכר לא קנה:",
+              "ref": "Rashbam on Bava Batra 51a:7:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ז:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:7:1"
+            },
+            {
+              "en": "",
+              "he": "וא\"ל רב הונא לרב נחמן ולאו מותיב רב המנונא לשמואל כו' אלמא שטר מכר נמי קנה ואכתי מאי מילי מעלייתא:",
+              "ref": "Rashbam on Bava Batra 51a:7:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ז:ב",
+              "sourceRef": "Rashbam on Bava Batra 51a:7:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הרי זו מכורה או נתונה</strong> - ואמר ליה רב נחמן לאו אמרינן התם בפרק ראשון דקדושין דרב המנונא מותיב לה וגם מפרק לה דהך ברייתא דקתני שטר מכר קונה במוכר שדהו מפני רעתה קרקע רעה דבההיא ודאי גמר ומקנה מיד בשטר ומעות ליהוו מלוה גבי דלוקח עד דתבע ליה אבל בשאר קרקעות לא קנו בשטר עד דיהיב זוזי כשמואל ואכתי איכא מילי מעלייתא:",
+              "ref": "Rashbam on Bava Batra 51a:7:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ז:ג",
+              "sourceRef": "Rashbam on Bava Batra 51a:7:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בד\"א במוכר שדהו מפני רעתה אבל בשאר קרקעות אע\"פ שהגיע שטר המכר בעדים לידו לא קנה עד שיתן דמים:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 191:2",
+              "sourceHeRef": "חושן משפט קצא:ב - דין קניית קרקע בשטר.",
+              "sourceRef": "Choshen Mishpat 191:2"
+            },
+            {
+              "en": "",
+              "he": "בשטר כיצד כתב לו על הנייר או על החרס או על העלה שדי נתונה לך שדי מכורה לך כיון שהגיע השטר לידו קנה אע\"פ שאין שם עדים כלל:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 191:1",
+              "sourceHeRef": "חושן משפט קצא:א - דין קניית קרקע בשטר.",
+              "sourceRef": "Choshen Mishpat 191:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר ליה</b> <span class=\"hebrew-emphasis\">[לו]</span> רב נחמן: <b>ולאו איתמר עלה</b> <span class=\"hebrew-emphasis\">[וכי לא נאמר עליה],</span> <b>אמר שמואל: לא שנו אלא בשטר מתנה, אבל בשטר מכר</b> — <b>לא קנה עד שיתן לו דמיה?</b> ענה לו רב הונא: <b>ולאו מותיב</b> <span class=\"hebrew-emphasis\">[והאם לא מקשה]</span> על כך <b>רב המנונא</b> ממה ששנינו בברייתא: <b>בשטר כיצד? כתב לו על הנייר או על החרס, אף על פי שאין</b> <b>בו,</b> בנייר, <b>שוה פרוטה: \"שדי מכורה לך\",</b> או <b>\"שדי קנויה לך\"</b> — <b>הרי זו מכורה ונתונה?</b>",
+              "ref": "Steinsaltz on Bava Batra 51a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:ז",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one gives a field to another as a gift and writes him a deed of gift, the receiver acquires the land as soon as the deed enters his possession, even if there are no witnesses and even if the deed is written upon a worthless substance or upon a substance that is susceptible to forgery (<i>Sma</i>, citing <i>Tur</i>). The same <i>halakha</i> applies in the case of one who sells his field because it is of low quality. By contrast, in the case of the sale of a standard field, the bill of sale is not sufficient to effect the acquisition, and the transaction is not complete until the buyer pays the agreed-upon price of the field (<i>Sma</i>). This is in accordance with the statements of Shmuel and Rav Hamnuna (Rambam<i> Sefer Kinyan</i>,<i> Hilkhot Mekhira</i> 1:7; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 191:1–2).",
+              "he": "הקשו הראשונים (ראה בתוס'): הרי אמרו שאין כותבים שטר על חרס, משום שהוא דבר העשוי להזדייף, ועל דבר כזה אין כותבים שטר. ושטר שנכתב עליו אינו נחשב! ויש שתירצו שכאן נאמר הדבר לשיטת ר' אלעזר הסבור שלא כתיבת השטר היא הגומרת את הקנין אלא מסירתו בעדים (\"עדי מסירה כרתי\") (ראה בתוס' ובריטב\"א). ויש שהסבירו שכאן מדובר לא בכותב על החרס אלא בחוקק עליו, שאז אינו עשוי להזדייף (רשב\"א ועוד). ואחרים כתבו כי דבר זה לא נאמר אלא בשטר העשוי לראיה, אבל שטר שהוא עצמו יוצר את מעשה הקנין ואינו נכתב לשם ראיה, יכול להיכתב על כל דבר (תוס', רי\"ד ועוד).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:7",
+              "sourceHeRef": "בִּשְׁטַר מֶכֶר לֹא קָנָה עַד שֶׁיִּתֵּן לוֹ דָּמֶיהָ",
+              "sourceRef": "With a bill of sale the buyer does not acquire until he gives him its money"
+            },
+            {
+              "en": "",
+              "he": "ושאלו: ומה בכך שאין השטר שווה פרוטה? הרי הקנין הוא בכתוב בשטר ולא בגופו! ואף אי אפשר לומר שיקנה השטר מדין קנין חליפין, שהרי לא הקונה אלא המוכר הוא הכותב והנותן את השטר (תוס')! ויש שתירצו שאכן יש כאן חליפין — שהמוכר נהנה בכך שהקונה מקבל ממנו את השטר, והיה מקום לומר שצריך לענין זה שיהא השטר שווה משהו (ראה ברמב\"ן). והרבה ראשונים פירשו כרמב\"ן, ששטר שאין בו שווה פרוטה היה מקום לומר שאין לו שם וחשיבות שטר כלל. וכתב הריטב\"א שהיה מקום ללמוד דבר זה משטר הגט, ששם מפורש שצריך להיות שווה פרוטה (וכן מפרש, אם כי בשינוי קצת, בתוס' הרא\"ש).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 51a:7",
+              "sourceHeRef": "שאין בו שוה פרוטה",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "הנותן שדה לחבירו במתנה וכתב לו שטר, אף שלא היו עדים כלל, ואף שאין החומר ממנו עשוי השטר שווה מאומה, או שהוא עשוי מחומר העשוי להזדייף (סמ\"ע ע\"פ טור) — קנאה המקבל, מיד כשהגיע השטר לידו. והוא הדין למי שמוכר שדהו מפני רעתה. אבל המוכר שאר שדות, אין שטר המכר גומר את הקנין (ואפילו היו בו עדים) עד שיתן לו את כל (סמ\"ע) דמי השדה. כדברי שמואל וכדברי רב המנונא. (רמב\"ם ספר קנין הלכות מכירה פ\"א ה\"ז. שו\"ע חו\"מ קצא, א–ב).",
+              "ref": "Steinsaltz comment #3 on Bava Batra 51a:7",
+              "sourceHeRef": "בשטר מכר... עד שיתן לו דמיה",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כתב לו על הנייר או על החרס</strong> - וכן תניא לענין קידושין כתב לה על הנייר או על החרס אע\"פ שאין בו שוה פרוטה בתך מקודשת לי כו'. אומר ר\"ת דאתי כר\"א דאמר עדי מסירה כרתי דלר' מאיר כיון שצריך שיחתמו עדים בשטר קידושין כדאמר בפ\"ב דקידושין <span class=\"parenthesized\">(דף מח. ושם)</span> אמר ר\"נ כגון דקדשה בשטר שאין עליו עדים ור\"מ לטעמיה דאמר עדי חתימה כרתי א\"כ לא מהניא חתימה על דבר שיכול להזדייף כדתנן בפ\"ב דגיטין <span class=\"parenthesized\">(דף כא:)</span> אין כותבין לא על הנייר כו' ואפי' איכא עדי מסירה לא מהני לר\"מ דצריך שיהא מוכיח מתוכו כדאמר בריש כל הגט <span class=\"parenthesized\">(גיטין דף כד:)</span> גבי כתב לגרש את הגדולה דלר\"מ אפילו גדולה לא מצי מגרש משום דאין מוכח מתוכו הי מינייהו מגרש וא\"ת והא אמר בפ\"ב דגיטין <span class=\"parenthesized\">(דף כב:)</span> דלא הכשיר ר' אלעזר אלא בגיטין ולא הכשיר אלא לאלתר אבל בשאר שטרות משמע דלא הכשיר אפילו לאלתר וי\"ל דהכי בעי למימר דלא הכשיר רבי אלעזר אלא בגיטין ודכותייהו כמו שדה מכורה לך דהכא וכן ההיא דקידושין דלא נכתבו אלא לקנות שדה והאשה דומיא דגיטי שאינן עשויין עיקרן לראיה אלא להתגרש אבל שטרות העומדים לראיה לא ועי\"ל דהכא ובקידושין לא איירי אלא בכתב ידו כדאמר הוציא עליו כתב ידו כו' וזה אינו יכול להזדייף שהיה ניכר שאין זה כתב ידו:",
+              "ref": "Tosafot on Bava Batra 51a:7:1",
+              "sourceHeRef": "תוספות על בבא בתרא נ״א א:ז:א",
+              "sourceRef": "Tosafot on Bava Batra 51a:7:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אע\"פ שאין בו שוה פרוטה</strong> - תימה דמאי רבותא הוא שוה פרוטה בשלמא גבי קדושין נקט כתב לה על הנייר או על החרס אע\"פ שאין בו שוה פרוטה דרבותא היא דאע\"פ שאינה מקודשת מתורת כסף כיון שאין בו שוה פרוטה מקודשת מתורת שטר אבל הכא גבי מוכר אפי' יש בו שוה פרוטה אינו קונה מתורת כסף שהרי מוכר נותן שטר ולא לוקח ואין קרקע נקנה אגב כסף:",
+              "ref": "Tosafot on Bava Batra 51a:7:2",
+              "sourceHeRef": "תוספות על בבא בתרא נ״א א:ז:ב",
+              "sourceRef": "Tosafot on Bava Batra 51a:7:2"
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> <b>said to him: But wasn’t it stated with regard to this</b> that <b><span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> says: They taught</b> that the document alone suffices <b>only</b> if the transaction is <b>with a deed of gift, but</b> if the transaction is <b>with a bill of sale,</b> the buyer <b>does not acquire</b> the property <b>until he gives him its money?</b> Rav Huna responded: <b>But didn’t <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">Rav Hamnuna</span> raise an objection</b> to this, based on this following <i>baraita</i>: <b>How</b> is acquisition <b>by</b> means of giving <b>a document</b> performed? If he <b>wrote</b> it <b>for him on paper or earthenware,</b> then <b>even though</b> the paper or the earthenware <b>is not worth</b> even <b>one <i>peruta</i>,</b> if he writes: <b>My field is sold to you,</b> or: <b>My field is acquired by you</b> as a gift, <b>it is thereby sold or given.</b> This indicates that a document suffices to complete an acquisition both in the case of a sale and a gift.",
+      "he": "אֲמַר לֵיהּ: וְלָאו אִיתְּמַר עֲלַהּ, אָמַר שְׁמוּאֵל: לֹא שָׁנוּ אֶלָּא בִּשְׁטַר מַתָּנָה, אֲבָל בִּשְׁטַר מֶכֶר – לֹא קָנָה עַד שֶׁיִּתֵּן לוֹ דָּמֶיהָ? וְלָאו מוֹתֵיב רַב הַמְנוּנָא: בִּשְׁטָר – כֵּיצַד? כָּתַב לוֹ עַל הַנְּיָיר אוֹ עַל הַחֶרֶס – אַף עַל פִּי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה: ״שָׂדִי מְכוּרָה לָךְ״, ״שָׂדִי קְנוּיָה לָךְ״ – הֲרֵי זוֹ מְכוּרָה וּנְתוּנָה?",
+      "ref": "Bava Batra 51a:7"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "How is property acquired through the transfer of a deed of sale? The seller writes for the purchaser on a piece of paper, on a shard or on a leaf. \"My field is given to you,\" or \"My field is sold to you.\" Once the deed reaches the purchaser's hand, he acquires the field, even though there are no witnesses at all, and despite the fact that the document itself is of no financial value. When does the above apply? When a person sells his field because it is undesirable. With regard to other landed property, by contrast, even though the deed of sale reaches the purchaser's hand and is signed by witnesses, the purchaser does not acquire the property until he pays its price.",
+              "he": "כֵּיצַד בִּשְׁטָר. כָּתַב לוֹ עַל הַנְּיָר אוֹ עַל הַחֶרֶס אוֹ עַל הֶעָלֶה שָׂדִי נְתוּנָה לְךָ שָׂדִי מְכוּרָה לְךָ כֵּיוָן שֶׁהִגִּיעַ הַשְּׁטָר לְיָדוֹ קָנָה. אַף עַל פִּי שֶׁאֵין שָׁם עֵדִים כְּלָל. וְאַף עַל פִּי שֶׁאֵין הַשְּׁטָר שָׁוֶה כְּלוּם. בַּמֶּה דְּבָרִים אֲמוּרִים בְּמוֹכֵר שָׂדֶה מִפְּנֵי רָעָתָהּ. אֲבָל בִּשְׁאָר קַרְקָעוֹת אַף עַל פִּי שֶׁהִגִּיעַ שְׁטָר שֶׁל מֶכֶר לְיָדוֹ וַאֲפִלּוּ הָיוּ בּוֹ עֵדִים לֹא קָנָה עַד שֶׁיִּתֵּן אֶת הַדָּמִים:",
+              "ref": "Mishneh Torah, Sales 1:7",
+              "sourceHeRef": "הלכות מכירה א:ז",
+              "sourceRef": "Sales 1:7"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "בד\"א במוכר שדהו מפני רעתה אבל בשאר קרקעות אע\"פ שהגיע שטר המכר בעדים לידו לא קנה עד שיתן דמים:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 191:2",
+              "sourceHeRef": "חושן משפט קצא:ב - דין קניית קרקע בשטר.",
+              "sourceRef": "Choshen Mishpat 191:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ענה לו רב נחמן: <b>ולאו</b> <span class=\"hebrew-emphasis\">[ו</span>האם <span class=\"hebrew-emphasis\">לא]</span> <b>הוא</b> עצמו, רב המנונא, <b>מותיב לה</b> <span class=\"hebrew-emphasis\">[הקשה על כך]</span> <b>והוא</b> עצמו <b>מפרק לה</b> <span class=\"hebrew-emphasis\">[תירץ זאת]</span> שמדובר <b>במוכר שדהו מפני רעתה?</b> שהשדה היה גרוע כל כך שבאמת לא היה לו ערך והמוכר רצה להיפטר ממנו, ובמקרה כזה גומר בדעתו להקנות אף בלא לקבל את המעות לידיו, אבל במקרים אחרים — לא. ונמצא שיש חידוש בדברינו, שהמוכר שדה לאשתו — קנתה, ואין אומרים שרק לגלות את כספה רצה.",
+              "ref": "Steinsaltz on Bava Batra 51a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:ח",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "וכיון שרצונו להיפטר מן השדה הגרוע הריהו גומר את ההקנאה בשטר בלבד, ואינו מקפיד על תשלום המעות ומשאיר אותן שיהיו מלוה על הקונה (רשב\"ם).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:8",
+              "sourceHeRef": "במוכר שדהו מפני רעתה",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span> responded: <b>But is it not</b> so that <b>he,</b> <span href=\"/topics/rav-hamnuna-(ii)\" class=\"namedEntityLink\" data-slug=\"רב-המנונא-(ambiguous)\">Rav Hamnuna</span>, <b>raises the objection and he</b> himself <b>resolves it?</b> The <i>baraita</i> states its ruling <b>with regard to</b> one who <b>sells his field due to its poor</b> quality. The seller wants to be rid of his field due to its low value, and would like to transfer ownership of it as quickly as possible. In this case, writing a document suffices to complete the acquisition. By contrast, in standard cases it does not. Since the acquisition of a field requires monetary payment in addition to a bill of sale, <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span>’s statement, that if one sells a field to his wife the sale is valid and we do not say that he desires to expose her concealed money, is a novelty.",
+      "he": "וְלָאו הוּא מוֹתֵיב לַהּ וְהוּא מְפָרֵק לַהּ – בְּמוֹכֵר שָׂדֵהוּ מִפְּנֵי רָעָתָהּ?",
+      "ref": "Bava Batra 51a:8"
+    },
+    {
+      "commentary": {
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ה\"ג במסכת קדושין רב אשי אמר במתנה ביקש ליתן לו כו'</strong> - ואאתקפתא דהך ברייתא דהוה קשיא לשמואל קאי ובא רב אשי לומר דהך ברייתא לא בשטר מכר איירי כלל אלא בשטר מתנה ודבר הרגיל הוא שכותבין בשטר מתנה לשון מכר ליפות כחו דמקבל מתנה שאם יערערו עליו יבא הנותן לפצותו כדין מוכר דלא ליהוי תרעומת עילויה וה\"ק שדי מכורה לך וגם נתונה תהיה לך הרי זו מכורה להיות אחריותה על הנותן כדין מוכר וגם נתונה היא ולית בה משום דינא דבר מצרא דאמרינן בבבא מציעא <span class=\"parenthesized\">(דף קח:)</span> מתנה לית בה משום דינא דבר מצרא והיינו דאיכא ייפוי כח דמכר ודמתנה:",
+              "ref": "Rashbam on Bava Batra 51a:9:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ט:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:9:1"
+            },
+            {
+              "en": "",
+              "he": "ה\"ג ורב אשי אמר במתנה כו':",
+              "ref": "Rashbam on Bava Batra 51a:9:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:ט:ב",
+              "sourceRef": "Rashbam on Bava Batra 51a:9:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומעירים: <b>רב ביבי</b> היה <b>מסיים בה</b> בפירוש ברייתא זו <b>משמיה</b> <span class=\"hebrew-emphasis\">[משמו]</span> של <b>רב נחמן,</b> ובלשון אחרת אמרו ש<b>רב אשי אמר</b> זאת: מדוע קנה בשטר לבד? כי אנו מניחים ש<b>במתנה בקש ליתנה לו, ולמה כתב לו בלשון מכר?</b> — <b>כדי ליפות</b> את <b>כחו,</b> שלענין אחריות עדיף שטר מכר משטר מתנה.",
+              "ref": "Steinsaltz on Bava Batra 51a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:ט",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:9"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "This is Rav Ashi’s resolution of the apparent contradiction between Shmuel’s statement and the <i>baraita</i>: The <i>baraita </i>is discussing a document that is essentially a deed of gift, even though it is written as a bill of sale (Rashbam). Others explain that this statement is a continuation of the previous answer, i.e., that the <i>baraita</i> is discussing one who is selling his field because of its poor quality. This is consistent with the version of the text of the Gemara that reads: Rav Beivai would conclude. The phrase: He wanted to give it to him as a gift, means that he wanted to use the language of a gift so that the other party would be unable to renege on the deal, even though he had not yet given the money (Rabbeinu Yona; Ramah).",
+              "he": "בכך מתרץ רב אשי את הקושי מן הברייתא על דברי שמואל, שכאן מדובר בשטר שהוא בעצם שטר מתנה, אף שיש בו לשון מכר (רשב\"ם ועוד). ורבינו יונה (וכן רמ\"ה ועוד) מסביר כי הדברים הם המשכו של התירוץ הקודם (ולכך מסייעת הלשון, ולגרסתו בוי\"ו החיבור: ורב ביבי מסיים בה משמיה דרב נחמן), שכאן מדובר במוכר שדהו מפני רעתה, ופירוש \"במתנה ביקש ליתנה לו\" — בלשון מתנה, בדרך שלא יוכל לחזור בו אף קודם שקיבל דמים.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:9",
+              "sourceHeRef": "בְּמַתָּנָה בִּקֵּשׁ לִיתְּנָהּ לוֹ וכו׳",
+              "sourceRef": "He wanted to give it to him as a gift, etc."
+            },
+            {
+              "en": "",
+              "he": "הרשב\"ם מסביר שכותב גם מכר וגם מתנה כדי לייפות כוחו של המקבל, שיש מעלה בשטר מכר — שיש בו אחריות, ואם יטרפו בעלי חובות שדה זה יתבע אותו המקבל מן הנותן. ויש מעלה בשטר מתנה — שאין במתנה משום דין בר מיצרא (כלומר, הדין לפיו יכול שכנו של המוכר להוציא את הקונה משדה זו ולקנות אותה לעצמו). ובתוס' הקשו על דברים אלה, שהרי נאמר ששטר מתנה שיש בו אחריות יש בו דין בר מיצרא. ולכן הסבירו שמכל מקום במתנה הכל מודים שנותן בעין יפה, ומפרשים את לשון השטר במשמעות רחבה יותר. ולעצם כתיבת השטר מפרש הרשב\"ם (על פי רש\"י) שכתב לו בשטר זה שתי הלשונות כאחת: שדי מכורה לך ושדי נתונה לך. ובתוס' חלקו על כך, ואמרו שיש לפרש שכתב לו שטר מכר, אבל התכוון בעצם למתנה, וכתב מכר לייפות כוח הקונה. ועוד אמרו שאפשר להסביר שנותן למקבל שני שטרות, באחד כתובה לשון מכר ובאחר לשון מתנה, כדי שיוכל להשתמש בכל אחד מהם לפי תועלתו. והרמב\"ן מעיר שמן התלמוד הירושלמי משמע כדברי רש\"י.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 51a:9",
+              "sourceHeRef": "כדי ליפות כוחו",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בתוס'</b> בד\"ה למה כתב בלשון כו' מכורה או נתונה וקאמר אפילו בשכתב מכורה במתנה עכ\"ל יש לדקדק לפ\"ז דאכתי תקשה דשמואל אמאי בשטר מכר לא קנה עד שיתן לו דמים אימא דבמתנה בקש ליתנו לו כו' ויש לפרש דאיירי בשידעינן דשטר מכר הוא ועדיין חייב לו הדמים ולא קאמרינן דבמתנה בקש ליתנו כו' אלא בסתם דלא ידעינן בודאי דהוה מכירה ואין להקשות לדבריהם כיון דע\"כ הא דקאמר דבמתנה בקש כו' לאו משום דינא דבר מצרא דהא כיון דאית ביה אחריות לית ביה משום דינא דב\"מ אלא דקאמר דבמתנה בקש כו' שיקנה ולא בעי שיתן דמים א\"כ בעיקר קושייתם נימא הכי דכתב לו גם שדי נתונה מה\"ט שיקנה ולא בעי דמים דלא ניחא להו למימר הכי כמו שכתבו התוספות לקמן דקשה לטעם זה דאמאי בעי בשטר כו' ודו\"ק:",
+                      "ref": "Chidushei Halachot on Bava Batra 51a:2",
+                      "sourceHeRef": "חדושי הלכות על בבא בתרא נ״א א:ב",
+                      "sourceRef": "Chidushei Halachot on Bava Batra 51a:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולמה כתב בלשון מכר כדי ליפות את כחו</strong> - להיות אחריות על הנותן כדין מוכר ופ\"ה שכתב לו בשטר כל זה שדי מכורה לך וגם שדי נתונה וכתב לשון מתנה משום דינא דבר מצרא וקשה דאמר בהמקבל <span class=\"parenthesized\">(ב\"מ דף קח:)</span> מתנה דאית בה אחריות יש בה משום דינא דבר מצרא ועוד קשה לר\"ת שדי שדי תרי זימני למה לי ואור\"ת וכן ר\"י דלא מיירי בשכותב שניהן אלא בשכותב מכורה או נתונה וקאמר אפי' בשכתב מכורה במתנה בקש ליתנה לו והא דכתב בלשון מכר כדי לייפות את כחו שמקבל עליו אחריות ועי\"ל דשני שטרות כותב לו בחד לשון מכירה ובחד לשון נתינה ואם יצטרך לדינא דבר מצרא יראה של נתינה ולא של מכירה ואם צריך לאחריות יראה של מכירה ועי\"ל דאפי' כתיבי תרוייהו בשטר אחד יפה כחו מה שכתב בלשון מתנה לענין הא דתנן לקמן בהמוכר את הבית <span class=\"parenthesized\">(בבא בתרא דף עא.)</span> בד\"א במוכר אבל בנותן נותן את כולן והכי איתא בירושלמי פ\"ק דקידושין ועי\"ל דנפקא מינה מה שכתב בלשון מתנה שאין צריך ליתן דמים ומיהו קשה לטעם זה דאמאי בעי בשטר באיקני סגי:",
+              "ref": "Tosafot on Bava Batra 51a:9:1",
+              "sourceHeRef": "תוספות על בבא בתרא נ״א א:ט:א",
+              "sourceRef": "Tosafot on Bava Batra 51a:9:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara notes that in interpreting this <i>baraita</i>, <b><span href=\"/topics/rav-bivi\" class=\"namedEntityLink\" data-slug=\"rav-bivi\">Rav Beivai</span></b> would <b>conclude in the name of <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span>, or,</b> according to another version, <b><span href=\"/topics/rav-ashi\" class=\"namedEntityLink\" data-slug=\"rav-ashi\">Rav Ashi</span> says:</b> Why does a document suffice for him to acquire the land? It is because it is assumed that <b>he wanted to give it to him as a gift. And why did he write</b> the document <b>for him</b> employing the <b>terminology of a sale?</b> It was <b>in order to enhance</b> the <b>power</b> of the one acquiring the land, since with regard to a property guarantee, i.e., a document that states that if the property is seized by the seller’s creditor, the seller will reimburse the buyer for his loss, a bill of sale is superior to a deed of gift.",
+      "he": "(רַב בִּיבִי מְסַיֵּים בַּהּ מִשְּׁמֵיהּ דְּרַב נַחְמָן) וְרַב אָשֵׁי אָמַר: בְּמַתָּנָה בִּקֵּשׁ לִיתְּנָהּ לוֹ, וְלָמָּה כָּתַב לוֹ בִּלְשׁוֹן מֶכֶר? כְּדֵי לְיַפּוֹת כֹּחוֹ.",
+      "ref": "Bava Batra 51a:9"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> לוה מן כו' נכסיו הס\"ד:",
+              "ref": "Chokhmat Shlomo on Bava Batra 51a:6",
+              "sourceHeRef": "חכמת שלמה על בבא בתרא נ״א א:ו",
+              "sourceRef": "Chokhmat Shlomo on Bava Batra 51a:6"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When a master borrows money from his servant and afterwards frees him, he is not liable to him at all. The same laws apply when a husband borrows from his wife. The rationales are that everything that a servant acquires becomes acquired by his master, and any money that is in a woman's possession is assumed to belong to her husband, unless she brings proof that it comes from her dowry.",
+              "he": "הָרַב שֶׁלָּוָה מֵעַבְדּוֹ וְאַחַר כָּךְ שִׁחְרְרוֹ אוֹ לָוָה מֵאִשְׁתּוֹ וְאַחַר כָּךְ גֵּרְשָׁהּ אֵין לָהֶן עָלָיו כְּלוּם שֶׁכָּל מַה שֶּׁקָּנָה עֶבֶד קָנָה רַבּוֹ וְכָל הַמָּעוֹת שֶׁבְּיַד הָאִשָּׁה בְּחֶזְקַת בַּעְלָהּ אֶלָּא אִם הֵבִיאָה רְאָיָה שֶׁהֵן מִנְּדֻנְיָתָהּ:",
+              "ref": "Mishneh Torah, Creditor and Debtor 2:8",
+              "sourceHeRef": "הלכות מלווה ולווה ב:ח",
+              "sourceRef": "Creditor and Debtor 2:8"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לוה מן העבד</strong> - וכתב שטר מלוה ושיעבד לו נכסיו:",
+              "ref": "Rashbam on Bava Batra 51a:10:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:י:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לגלויי זוזי הוא</strong> - דשיעבד לו נכסיו:",
+              "ref": "Rashbam on Bava Batra 51a:10:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:י:ב",
+              "sourceRef": "Rashbam on Bava Batra 51a:10:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<span class=\"hebrew-emphasis\">סעיף ב' בהג\"ה</span> <b>ונ\"ל דוקא בשאין דרכה למשכן או למכור בלא רשות בעלה</b> נ\"ב הנה אם דרכה להשכין והיא מכרה או להיפוך עיין בחיבורי על חו\"מ מהדורא ד' סימן ה' מ\"ש בזה בתשובה ל\"ק זיוויהל בתשובה השניה שם וביאור דברי הח\"ד בזה ודוק ומ\"ש עוד בהג\"ה הנ\"ל אשה שמכרה מטלטלין של הבעל וכו' עיין בח\"מ וב\"ש שפלפלו אם תקף הבעל מיד הלוקח אם יכול להוציא מהלוקח ועכ\"פ כתבו דצריך לשלם אם תקף מכח תקנות השוק וכו' עיי\"ש ובמחילה מכבוד תורתם נעלם מהם דברי הש\"ך בח\"מ סימן קנ\"ו וש\"א בשם תשובת המוהר\"מ מלובלין שאם בא החפץ לידי הבעל בלא דמים אין שייך כלל תק\"ה ואין צריך להחזיר כלל המעות ללוקח עיי\"ש ומכש\"כ כאן שא\"צ להחזיר ומ\"ש המחבר לעיל באותו סעיף הבעל שלוה מאשתו ואח\"כ גירשה אין לה עליו כלום תמי' לי על המחבר והרב שלא הביאו דעת הרמב\"ן בחידושנו ד\"ה לוה מן העבד שמבואר שם בדבריו שס\"ל שאף במעות טמונים נאמנות לומר שהמעות שלה ומה שתנא אין להם עליו כלום היינו שלא מצי אתיא עליו מטעם שנחשב כהודאה יעו\"ש אבל בטוענת שלי נאמנת וצע\"ג ודוק:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Even HaEzer 86:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אבן העזר פו:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Even HaEzer 86:1"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "When does the above apply? When the brothers or the widow do not eat separately. When, however, they eat separately, we suspect that they saved from their food allowance. Hence, the other brothers must prove that the money was taken from the estate. Similarly, if the brother who was managing the funds died, the other brothers are required to bring proof that the money was taken from the estate, even though they did not eat separately.",
+                      "he": "בַּמֶּה דְּבָרִים אֲמוּרִים בְּאַחִים וּבְאַלְמָנָה שֶׁאֵין חֲלוּקִין בְּעִסָּתָן. אֲבָל אִם הָיוּ חֲלוּקִין בְּעִסָּתָן שֶׁמָּא מֵעִסָּתוֹ קָמַץ וְעַל הָאַחִין לְהָבִיא רְאָיָה שֶׁהֵן מִשֶּׁל אֶמְצַע. וְכֵן אִם מֵת זֶה הַנּוֹתֵן וְהַנּוֹשֵׂא בְּתוֹךְ הַבַּיִת עַל הָאַחִין לְהָבִיא רְאָיָה אַף עַל פִּי שֶׁלֹּא הָיוּ חֲלוּקִין בְּעִסָּתָן:",
+                      "ref": "Mishneh Torah, Inheritances 9:8",
+                      "sourceHeRef": "הלכות נחלות ט:ח",
+                      "sourceRef": "Inheritances 9:8"
+                    },
+                    {
+                      "en": "When funds or movable property are discovered in a woman's possession, and she claims that they were given her as a present, while her husband claims that they stem from the fruits of her labor and hence belong to him, it is the woman's claim that is accepted. [The husband] may, however, have a ban of ostracism [conditionally] issued against anyone who makes false statements. [The funds should be used] to purchase landed property, from which [the husband] is entitled to the benefit that accrues.<br>If the woman claims that the funds were given to her with the provision that her husband have no control over them, but rather that they be used for whatever purpose she desires, she must bring proof [that such a provision was made]. [The rationale is that] the prevailing assumption is that a husband has the right to the benefits from all the funds found in a woman's possession, unless she brings proof otherwise.",
+                      "he": "הֲרֵי שֶׁנִּמְצְאוּ מָעוֹת אוֹ מִטַּלְטְלִין בְּיַד הָאִשָּׁה הִיא אוֹמֶרֶת בְּמַתָּנָה נִתְּנוּ לִי וְהוּא אוֹמֵר מִמַּעֲשֵׂה יָדַיִךְ הֵם שֶׁהֵם שֶׁלִּי הֲרֵי זוֹ נֶאֱמֶנֶת. וְיֵשׁ לוֹ לְהַחֲרִים עַל מִי שֶׁטּוֹעֶנֶת דָּבָר שֶׁאֵינוֹ כֵן. וְיִלָּקַח בָּהֶן קַרְקַע וְהוּא אוֹכֵל פֵּרוֹת. וְאִם אָמְרָה עַל מְנָת כֵּן נִתְּנוּ לִי עַל מְנָת שֶׁלֹּא יִהְיֶה לְבַעְלִי רְשׁוּת בָּהֶן אֶלָּא אֶעֱשֶׂה בָּהֶן כָּל מַה שֶּׁאֶרְצֶה עָלֶיהָ לְהָבִיא רְאָיָה. שֶׁכָּל מָמוֹן שֶׁנִּמְצָא בְּיַד הָאִשָּׁה בְּחֶזְקַת הַבַּעַל הוּא שֶׁיֹּאכַל פֵּרוֹתָיו עַד שֶׁתָּבִיא רְאָיָה:",
+                      "ref": "Mishneh Torah, Marriage 22:30",
+                      "sourceHeRef": "הלכות אישות כב:ל",
+                      "sourceRef": "Marriage 22:30"
+                    }
+                  ]
+                },
+                "Shulchan Arukh": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "אשה הנושאת ונותנת בתוך הבית והיו שטרות מקניית הקרקעות ועבדים או שטרי חובות כתובים על שמה והיא אומרת שלי הם <span class=\"hebrew-emphasis\">(אפי' השטרות תחת ידה) </span>עליה להביא ראיה בעדים שהוא כדבריה שהיה לה ממון מיוחד וא\"צ שיעידו על אלו השטרות שהם שלה וה\"ה אם נמצאו לה מטלטלים ברשותה עליה להביא ראיה: <span class=\"hebrew-emphasis\">הגה ואפי' אלמנה ואפי' היו השטרות בידה (מרדכי ר\"פ הספינה) לא היתה נושאת ונותנת תוך הבית והיו שטרות כתובים על שמה הם שלה. היו כתובים על שמה ועל שם בעלה הם שותפות של שניהם (טור אבן העזר סוף סי' פ\"ו) וסתם אשה נושאת ונותנת תוך הבית (מרדכי פ' חזקת הבתים והרשב\"א שם) אשה שכתבה לאחרים שמה שתחת ידיה הוא של אחרים אם ידוע שהיה לה ממון שאינו של בעלה נאמנת ואין הבעל יכול לומר שהוא שלו ב\"י בטור אה\"ע סי' פ\"ו בשם הרשב\"א יש מי שאומר שאם היו השטרות כתובים על שמה אע\"פ שהיא אינה נאמנת מאחר שנושאת ונותנת תוך הבית מ\"מ אם מתה טוענין ליורשיה שהיא שלה וכמו שיתבאר בסמוך לענין האחין (תשו' רשב\"א סי' תתע\"ט וריב\"ש סי' קס\"ט) וכן נ\"ל ועיין עוד מדינין אלו באה\"ע סי' פ\"ו </span>וכן א' מהאחים שנושא ונותן בתוך הבית ושטרות עשוים על שמו ואומר שלי הם שנפלו לי מבית אמי או מציאה מצאתי או מתנה ניתנה לי עליו להביא ראיה בעדים ואם מת והניח יתומים אז צריכים האחים להביא ראיה בעדים: <span class=\"hebrew-emphasis\">הגה ודוקא בדבר שאינו ידוע שהיה של אחין אבל בדבר ידוע שהיה של אחין על היתומים להביא ראיה (מרדכי ר\"פ חזקת הבתים) </span>ואם היו חלוקין בעיסתן או בשום דבר על האחים להביא ראיה ואפי' בחייו משום דאימור מעיסתו קימץ ואפי' אומר מבית אבי אמי נפלו נאמן במגו: <span class=\"hebrew-emphasis\">הגה ודוקא שהשטרות כתובין על שמו אבל כתוב על שם האחין או על שם אביהם לא יוכל לומר ששלו הוא ואפי' מת על היתומים להביא ראיה בעדים (ב\"י בשם התרומות ורמב\"ם פ\"ט מה' נחלות והרא\"ש כלל פ\"ה) וכל זה באשה או אחין אבל בן בית שנושא ונותן בשל בעל הבית כל מה שהפקיד או שנמצא תחת ידו הוא בחזקה שהוא שלו זולתי אם נודע שהוא בעה\"ב אפי' אינו אמוד וידוע שלא היה לו שום דבר חוץ משל בעה\"ב ואם מת נותנין ליורשיו (רבי ירוחם נ\"ל)</span>:",
+                      "ref": "Shulchan Arukh, Choshen Mishpat 62:1",
+                      "sourceHeRef": "חושן משפט סב:א - דין אשה הנושאת ונותנת בתוך הבית",
+                      "sourceRef": "Choshen Mishpat 62:1"
+                    }
+                  ]
+                }
+              },
+              "en": "A husband who borrowed from his wife and then divorced her, she has no claim against him. Rama: This is certainly the case if he did not divorce her (Rama's own opinion). Some authorities say that this ruling applies only if the [borrowed] monies were hidden at the time of the loan, but if they were not hidden and he borrowed from her, he has to repay her even after divorcing her (Tur). The law is similar if he grabbed them (the monies) from her, for since the money was not hidden, she is believed when she says they belong to me or to so-and-so (Opinion of the Rav). However, if she buys and sells (i.e. runs a business) inside the house or the husband trusts her with his property, she is not believed [that the money is hers] (Tur). See supra chapter 85 se'if 12. If he borrowed with a loan document, she says the money was not hidden, and he says that the loan money had been hidden, she must bring proof that the money was not hidden, or he is exempt from paying (Nimukei Yosef chapter Chezkat haBatim in Bava Bathra). See Choshen Mishpat chapter 62, regarding a woman who had [loan or realty] documents in her name, what is their law. A woman who sold [movables] or handed over movables as collateral, if the buyer or the lender does not know that they belong to the husband he does not need to return [the items] to him (the husband), even if the husband wants to return the [purchase or loan] money and claims that she stole the items from him (Hagahot Maimoni chapter 22 Hilchot Ishut). Some authorities say that if she buys and sells within the house the husband is believed and the [buyer or lender] must return the items to the husband even without repayment (Rabbenu Yerucham, path 23). It seems to me that this applies only to circumstances in which it is not typical for her to collateralize or sell without the permission of her husband, but if this is typical for her, what is done is done, and so it should be taught. See infra chapter 100.ame, what is their law. A woman who sold [movables] or handed over movables as collateral, if the buyer or the lender does not know that they belong to the husband he does not need to return [the items] to him (the husband), even if the husband wants to return the [purchase or loan] money and claims that she stole the items from him (Hagahot Maimoni chapter 22 Hilchot Ishut). Some authorities say that if she buys and sells within the house the husband is believed and the [buyer or lender] must return the items to the husband even without repayment (Rabbenu Yerucham, path 23). It seems to me that this applies only to circumstances in which it is not typical for her to collateralize or sell without the permission of her husband, but if this is typical for her, what is done is done, and so it should be taught. See infra chapter 100.",
+              "he": "הבעל שלוה מהאשה ואחר כך גירשה אין לה עליו כלום: <span class=\"hebrew-emphasis\">הגה וכ\"ש אם לא גירשה (ד\"ע) וי\"א דוקא אם היו המעות טמונים כשלוה ממנה אבל לא היו המעות טמונים ולוה ממנה צריך לשלם לה אפילו לאחר שגירשה (טור) וה\"ה אם תקפם מידה דמאחר שלא היו המעות טמונים נאמנת לומר שלי או של פלוני הם (סברת הרב) מיהו אם נושאת ונותנת תוך הבית או שהבעל מאמינה על שלו אינה נאמנת (טור) (וע' לעיל סי' פ\"ה סעיף י\"ב) לוה ממנה בשטר היא אומרת לא היו המעות טמונים והוא אומר טמונים היו עליה להביא ראיה או פטור לשלם (נ\"י פרק חזקת הבתים) וע' בח\"ה סי' ס\"ב אשה שהיו שטרות יוצאין על שמה מה דינן אשה שמכרה או משכנה מטלטלין אם הקונה או המלוה אינו יודע שהם של בעל א\"צ להחזיר אליו אפי' רוצה הבעל להחזיר לו דמיו וטוען שהיא גנבן לו (הגהות מיימוני פכ\"ב דאישות) וי\"א דאם היא נושאת ונותנת תוך הבית הבעל נאמן וצריך להחזיר לו בלא דמים (ר\"י נכ\"ג) ונ\"ל דוקא בשאין דרכה למשכן או למכור בלא רשות בעלה אבל אם דרכה בכך מה שעשתה עשוי וכן נ\"ל (וע\"ל סי' צ'):</span>",
+              "ref": "Shulchan Arukh, Even HaEzer 86:2",
+              "sourceHeRef": "אבן העזר פו:ב - שלא לקבל פקדונות מנשים עבדים וקטנים",
+              "sourceRef": "Even HaEzer 86:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מיתיבי</b> <span class=\"hebrew-emphasis\">[מקשים]:</span> <b>לוה מן העבד ו</b>אחר כך <b>שחררו,</b> או לוה <b>מן האשה וגרשה</b> — <b>אין להן עליו כלום</b> ויכול שלא להחזיר להם; <b>מאי טעמא</b> <span class=\"hebrew-emphasis\">[מה טעם</span> הדבר<span class=\"hebrew-emphasis\">]?</span> <b>לאו</b> <span class=\"hebrew-emphasis\">[האם לא]</span> <b>משום דאמרינן</b> <span class=\"hebrew-emphasis\">[שאנו אומרים]</span> כי <b>לגלויי זוזי</b> <span class=\"hebrew-emphasis\">[לגלות</span> את <span class=\"hebrew-emphasis\">הכסף]</span> שיש בידם <b>הוא דבעי</b> <span class=\"hebrew-emphasis\">[שרצה],</span> ולא נתכוון ללוות באמת, אלא להוציא על ידם כסף השייך לו?",
+              "ref": "Steinsaltz on Bava Batra 51a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:י",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:10"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "If one borrows money from his own slave and then frees him, and similarly if a husband borrows money from his wife, even money that she had concealed (<i>Sma</i>, citing Rambam), and then divorces her, they have no claim on him and they cannot insist on repayment. This is certainly the <i>halakha</i> for a husband and wife while they are still married (Rema). Some say that this applies only if the wife’s money was concealed, but if he was aware of its existence and borrowed from her he must repay her, even if they get divorced (Rema, citing <i>Tur</i>). The Rema, based on the <i>Nimmukei Yosef</i>, rules that in a case where he wrote her a promissory note, if he subsequently claims that the money had been concealed while she claims that he was aware of its existence, the burden of proof is upon her (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot Malve VeLoveh</i> 2:8; <i>Shulĥan Arukh</i>,<i> Even HaEzer</i> 86:2).",
+              "he": "כתב הרמ\"ה שדבר זה מדובר במילווה סתם, אבל לווה מן האשה מנכסי מלוג שלה — הכל מודים שחייב להחזיר מילווה זה. והוא הדין לכל מקרה שבו המעות שביד האשה היו ידועים. וראה להלן.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:10",
+              "sourceHeRef": "לָוָה מִן הָעֶבֶד וְשִׁחְרְרוֹ",
+              "sourceRef": "Borrowed from his own slave and then frees him"
+            },
+            {
+              "en": "",
+              "he": "ושאלו בתוס': מה צורך לומר \"ושחררו\" \"וגרש את האשה\"? הרי אין הבדל בין קודם שחרור לבין שחרור! והסבירו, שהיה מקום לומר שבוודאי כל עוד העבד או האשה הם ברשותו אין טעם לתת להם מעות, שהרי הכסף שייך לו. אבל היה אפשר לומר שלווה מהם על מנת שיחזיר להם לאחר זמן אם יעמדו ברשות עצמם.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 51a:10",
+              "sourceHeRef": "ושחררו",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "האדון שלווה כסף מעבדו ושיחררו, וכן הבעל שלווה כסף מאשתו (ואפילו אם היה הכסף טמון. סמ\"ע לדעת הרמב\"ם) ואחר כך גירשה (וכל שכן בזמן שהם נשואים. רמ\"א) — אין להם עליו כלום, ואינם יכולים להיפרע ממנו. ויש אומרים שדבר זה אמור דווקא אם היו כספי האשה טמונים, אבל אם היו גלויים ולווה ממנה — צריך לשלם לה אפילו אחר שגירשה (רמ\"א ע\"פ טור). ואם כתב לה שטר חוב, ואחר כך טען שהיו טמונים, והיא טוענת שהיו גלויים — עליה להביא ראיה (רמ\"א ע\"פ נמוק\"י). (רמב\"ם ספר משפטים הלכות מלוה ולווה פ\"ב ה\"ח. שו\"ע אה\"ע פו, ב).",
+              "ref": "Steinsaltz comment #3 on Bava Batra 51a:10",
+              "sourceHeRef": "לוה מן העבד ושחררו",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לוה מן העבד ושחררו כו'</strong> - תימה דמאי רבותא נקט ושחררו וגרשה פשיטא דאי אין להם עליו כלום בעודו תחתיו גם לכשיוצאין אין להם עליו כלום ויש לומר דסלקא דעתיה דגמר ומקני להו שיקנו לאחר שישתחרר ותתגרש:",
+              "ref": "Tosafot on Bava Batra 51a:10:1",
+              "sourceHeRef": "תוספות על בבא בתרא נ״א א:י:א",
+              "sourceRef": "Tosafot on Bava Batra 51a:10:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara <b>raises an objection</b> to the ruling of <span href=\"/topics/rav-nachman-b-yaakov\" class=\"namedEntityLink\" data-slug=\"rav-nachman-b-yaakov\">Rav Naḥman</span>, that we do not say that he desires to expose her concealed money, from a <i>baraita</i>: If one <b>borrowed</b> money <b>from</b> his own <b>slave and</b> then <b>frees him,</b> or if one borrowed money <b>from his wife and</b> then <b>divorces her, they do not have any</b> claim <b>on him,</b> and he need not repay them. <b>What is the reason</b> for this? Is it <b>not because we say</b> that <b>he desires to expose</b> their concealed <b>money,</b> and his taking of the loan was a mere artifice to claim money to which he was entitled?",
+      "he": "מֵיתִיבִי: לָוָה מִן הָעֶבֶד, וְשִׁחְרְרוֹ; מִן הָאִשָּׁה, וְגֵרְשָׁהּ – אֵין לָהֶן עָלָיו כְּלוּם. מַאי טַעְמָא? לָאו מִשּׁוּם דְּאָמְרִינַן: לְגַלּוֹיֵי זוּזֵי הוּא דְּבָעֵי?",
+      "ref": "Bava Batra 51a:10"
+    },
+    {
+      "commentary": {
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שאני התם דלא ניחא ליה דליהוי עבד לוה לאיש מלוה.</b> ושמעינן מינה דלוה מאשתו או מעבדו מעות שאינן טמונין, וגרש את האשה ושחרר את העבד חייב לפורעם, דכל שלוה מהם מעות שאינן טמונין אודיי אודי ליה דשלהם הם, שניתנו להם בענין שאין לו בהם כלום, כגון שנתנו לעבד על מנת שאין לרבו בהם כלום אלא שיפדה בהם את עצמו, ולאשה על מנת שאין לה בהם אלא מה שהיא נושאת ונותנת לפיה, אי נמי שייחד לה דבר אחר, מדקתני נתגרשה האשה נשתחרר העבד אין להם עליו כלום, וטעמא משום דלגילויי זוזי הוא דעבד, משמע דמוכר שדה לאשתו במעות טמונין דאסיקנא דלא קנתה דלגלויי זוזי הוא דבעי, כל שבאו מעות ביד הבעל אין לה עליו כלום, וגוף ופירות שלו, דמחזקינן להו בחזקת הבעל דמשלו גנבתם.<br><b></b>ויש אומרים דמעות כנכסי מלוג מחזקינן להו, ואין לבעל בהם אלא אכילת פירות, וילקח בהן קרקע והוא אוכל פירות. והתם כשהבעל טוען בריא דמשלו גנבו, וכיון שהוא תופש וטוען בריא עליהם להביא ראיה, אבל כל שלא תפס, ואפילו טען בריא, אינו נאמן. ואי נמי כשתפש ולא טען בריא אין לו בהם אלא אכילת פירות בלבד, דכל מה שיש תחת יד האשה בנכסי מלוג מחזיקין להו שנפלו לה מבית אבי אביה או שניתנו לה במתנה, וגוף שלה ופירות לבעל. והכין מוכח בירושלמי דכתובות בפרק מציאת האשה <span class=\"parenthesized\">(ה\"א)</span> גבי מציאת האשה לבעלה, אמר רבי יוסי לא אמרו כן אלא כדי שלא תהא אשה מברחת זהובים משל בעלה ואומרת מציאה מצאתי, הגע עצמך שנתן לה אחר במתנה, קול יוצא למתנה ואין קול יוצא למציאה. הגע עצמך שמצאה בעדים, זו מפני זו. שמעינן מינה דמן הדין יכולה היתה לומר מציאה מצאתי ולא הוה לבעל בהן אלא אכילת פירות בלבד, אלא שחשו לה חכמים תקנו שתהא אף גוף מציאתה לבעל, אבל במתנה לא תקנו, שקול יוצא למתנה ואינה מעיזה פניה לומר ניתנו לי במתנה ומשקרה, אלמא נאמנת היא בכך. ויש מרבותי נוחי נפש שאמרו שכל שהם תחת ידה או תחת יד הנפקד שלה, היא נאמנת לומר של אחרים והפקידום אצלי, או שניתנו לי במתנה על מנת שאין לבעלי בהם כלום, אלא מה שאני נושאת ונותנת לתוך פי, וכן העבד, ודוקא כשטוענין כן, אבל אם לא טענו אין טוענין להן, וכמו שאכתוב בסמוך.",
+              "ref": "Rashba on Bava Batra 51a:5",
+              "sourceHeRef": "רשב״א על בבא בתרא נ״א א:ה",
+              "sourceRef": "Rashba on Bava Batra 51a:5"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דלא משוי נפשיה כו'</strong> - אנן סהדי דשום אדם לא יהיה ברצונו עבד לוה אם יכול להפטר בשום ענין והלכך איכא למימר לגלויי זוזי הוא דבעי אבל גבי מכר גמר ומקנה שהרי אינו נעשה עבד לוה בהך שטר מכירה כלל ואפילו קבל עליו אחריות עדיין לא נטרפה מן הלוקח דליהוי עבד לוה לגבי לוקח:",
+              "ref": "Rashbam on Bava Batra 51a:11:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:יא:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:11:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>שאני התם</b> <span class=\"hebrew-emphasis\">[שונה שם],</span> משום שמצטרפת לכך סברה נוספת, והיא ש<b>לא ניחא ליה לשווייה נפשיה</b> <span class=\"hebrew-emphasis\">[נוח לו</span> לאדם <span class=\"hebrew-emphasis\">לעשות</span> את <span class=\"hebrew-emphasis\">עצמו]</span> <b>\"עבד לוה לאיש מלוה\"</b> (משלי כב, ז), ולכן מסתבר שלא רצה באמת ללוות, אלא לגלות את הכסף שביד העבד או האשה. אבל אין סברה זו קיימת במי שמוכר דבר.",
+              "ref": "Steinsaltz on Bava Batra 51a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:יא",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:11"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "It is reasonable that his only intention was to discover the concealed money to which he is entitled (Rashbam). It can be inferred that if he borrowed money of whose existence he was already aware, and he is consequently unable to claim that he desired to discover their concealed money, he is obligated to repay the loan (Rashba). Some explain that if he were truly in need of funds he would have borrowed money from someone else and become that person’s so-called servant, since one does not desire to become his wife’s servant, and certainly not his slave’s (<i>Kos HaYeshuot</i>;<i> </i>Ran). According to this explanation, there is no distinction whether the money was concealed or not, as the loan is always viewed as being an artifice in order to take possession of the money (see Rambam).",
+              "he": "ולכן יש לפרש את הדבר שרק התכוון לגלות מעות השייכים בעצם לו שהם מטמינים בידם (רשב\"ם). ומכאן יש ללמוד שאם לווה מהם מעות שאינם טמונים, ואינו יכול לטעון \"לגלויי זוזי הוא דבעי\" — חייב לפרוע להם את החוב (רשב\"א ועוד). ויש שכתב שאם היה זקוק למעות היה משתדל ללוות מאחרים ולהיות להם \"עבד לווה\", שבוודאי לא נוח לאדם להיות עבד לאשתו וכל שכן לעבדו (כוס ישועות, וכן בר\"נ). ולפי דרך זו יש להבין כי אין להבחין אם מעות אלו היו טמונות או לא (וכך הבינו בשיטת הרמב\"ם).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 51a:11",
+              "sourceHeRef": "עֶבֶד לֹוֶה לְאִישׁ מַלְוֶה",
+              "sourceRef": "The borrower is servant to the lender"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לא ניחא ליה דליהוי עבד לוה כו'</strong> - ודוקא נקט לוה אבל מכר לא ומשום אשה הוא דנקט לוה אבל גבי עבד אין חילוק בין לוה למכר דמה שקנה עבד קנה רבו:",
+              "ref": "Tosafot on Bava Batra 51a:11:1",
+              "sourceHeRef": "תוספות על בבא בתרא נ״א א:יא:א",
+              "sourceRef": "Tosafot on Bava Batra 51a:11:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The rich rule the poor,<br>And the borrower is a slave to the lender.",
+              "he": "עָ֭שִׁיר בְּרָשִׁ֣ים יִמְשׁ֑וֹל וְעֶ֥בֶד לֹ֝וֶ֗ה לְאִ֣ישׁ מַלְוֶֽה׃",
+              "link": "/Proverbs/22",
+              "ref": "Proverbs 22:7",
+              "sourceHeRef": "משלי כב:ז",
+              "sourceRef": "Proverbs 22:7"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: It <b>is different there,</b> because there is an additional reason to think it was an artifice, <b>as</b> it is <b>uncomfortable for him to make</b> applicable to <b>himself</b> the verse: “The rich rules over the poor, and <b>the borrower is servant to the lender”</b> (Proverbs 22:7). It is therefore reasonable to posit that his intention was not to borrow money, but to expose the concealed money that was in the possession of his slave or wife. This concern does not apply to one who sells property to his wife, and therefore the sale is valid.",
+      "he": "שָׁאנֵי הָתָם, דְּלָא נִיחָא לֵיהּ לְשַׁוּוֹיֵיהּ נַפְשֵׁיהּ ״עֶבֶד לֹוֶה לְאִישׁ מַלְוֶה״.",
+      "ref": "Bava Batra 51a:11"
+    },
+    {
+      "commentary": {
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שלח רב הונא בר אבא</strong> - לתלמידי בית המדרש:",
+              "ref": "Rashbam on Bava Batra 51a:12:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא נ״א א:יב:א",
+              "sourceRef": "Rashbam on Bava Batra 51a:12:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "מסופר, <b>שלח רב הונא בר אבין: המוכר שדה לאשתו</b> — הרי זו <b>קנתה</b>",
+              "ref": "Steinsaltz on Bava Batra 51a:12",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא נ״א א:יב",
+              "sourceRef": "Steinsaltz on Bava Batra 51a:12"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara relates that <b><span href=\"/topics/rav-huna-b-avin\" class=\"namedEntityLink\" data-slug=\"rav-huna-b-avin\">Rav Huna bar Avin</span> sent</b> a ruling to those in the study hall: In the case of <b>one who sells a field to his wife, she has acquired</b> it,",
+      "he": "שְׁלַח <span href=\"/topics/rav-huna-b-avin\" class=\"namedEntityLink\" data-slug=\"rav-huna-b-avin\">רַב הוּנָא בַּר אָבִין</span>: הַמּוֹכֵר שָׂדֶה לְאִשְׁתּוֹ – קָנְתָה,",
+      "ref": "Bava Batra 51a:12"
+    }
+  ],
+  "title": "Bava Batra 51a",
+  "titleHebrew": "בבא בתרא נא,א",
+  "topics": []
+}

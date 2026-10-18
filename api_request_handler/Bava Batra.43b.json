@@ -1,0 +1,856 @@
+{
+  "id": "43b",
+  "sections": [
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Whenever a person tells a colleague: \"Watch my article for me and I will watch your article for you,\" it is considered as if the owner was employed by the watchman.<br>If, however, he tells his colleague: \"Watch an article for me today, and I will watch an article for you tomorrow,\" \"Lend an article to me today and I will lend an article to you tomorrow,\" \"Watch an article for me today, and I will lend an article to you tomorrow,\" or \"Lend an article to me today and I will watch an article for you tomorrow,\" they are each considered to be paid watchman for the other.",
+              "he": "כָּל הָאוֹמֵר לַחֲבֵרוֹ שְׁמֹר לִי וְאֶשְׁמֹר לְךָ הֲרֵי זֶה שְׁמִירָה בַּבְּעָלִים. אָמַר לוֹ שְׁמֹר לִי הַיּוֹם וְאֶשְׁמֹר לְךָ לְמָחָר. הַשְׁאִילֵנִי הַיּוֹם וַאֲנִי אַשְׁאִילְךָ לְמָחָר. שְׁמֹר לִי הַיּוֹם וְאַשְׁאִילְךָ לְמָחָר. הַשְׁאִילֵנִי הַיּוֹם וְאֶשְׁמֹר לְךָ לְמָחָר. כֻּלָּן נַעֲשׂוּ שׁוֹמְרֵי שָׂכָר זֶה לָזֶה:",
+              "ref": "Mishneh Torah, Hiring 10:2",
+              "sourceHeRef": "הלכות שכירות י:ב",
+              "sourceRef": "Hiring 10:2"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שמירה בבעלים היא</strong> - שכל אחד משמר קצת מן השותפות בביתו וקי\"ל בב\"מ בהשואל <span class=\"parenthesized\">(דף צה.)</span> שמירה בבעלים פטור ואע\"ג דבשואל כתיב פטור דבעלים הא יליף שומר שכר התם מיניה מדכתיב וכי ישאל וי\"ו מוסיף על ענין ראשון וילמד עליון מתחתון וכיון שהיה ראובן משמר מחלק שמעון בשעה שנגנבה או אבד מחלקו בבית שמעון הרי שמעון פטור מחלק ראובן שהרי ראובן עמו במלאכתו:",
+              "ref": "Rashbam on Bava Batra 43b:1:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:א:א",
+              "sourceRef": "Rashbam on Bava Batra 43b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמר רב פפא</strong> - כגון שהתנו ביניהן כך שמור לי היום כל השדה חלקי וחלקך ואשמור לך למחר דכיון דלא שמרו ביחד כלל אלא בזה אחר זה ליכא שמירה בבעלים הלכך נעשו שומרי שכר זה לזה להתחייב באונסין ולאשמועינן אתא דהיינו שמירה בשכר כשמשמר כל השדה וחלק חבירו בכלל כדי שישמור לו חבירו למחר כמו כן דס\"ד אמינא דשומר חנם הוא דבלאו חלק חבירו היה צריך לשמור את שלו ושמירה אחת היא בין הכל ולא ליהוי שומר שכר קמ\"ל:",
+              "ref": "Rashbam on Bava Batra 43b:1:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:א:ב",
+              "sourceRef": "Rashbam on Bava Batra 43b:1:2"
+            },
+            {
+              "en": "",
+              "he": "<span class=\"parenthesized\">(זה שייך לעיל. בתוספתא בהגוזל האומר תנו מאה דינר לכנסת תנו ספר תורה לכנסת ינתן לכנסת הרגיל בה ואם היה רגיל בשנים יתנו לשניהם האומר תנו לעניים יתנו לעניי אותה העיר ר' אחא אומר לעניי כל ישראל בן האוכל משל אביו ועבד האוכל משל רבו קוצה ונותן פרוסה לעניים או לבנו של אוהבו ואינו חושש משום גזל שכך נהגו בעלי בתים. ע\"כ)</span>:",
+              "ref": "Rashbam on Bava Batra 43b:1:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:א:ג",
+              "sourceRef": "Rashbam on Bava Batra 43b:1:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף ח' </b>השותפין שומרי שכר הן. נ\"ב הנה אם להם חפץ הראוי להשתמש ולקחו כל אחד זמן ידוע להשתמש בו יש להסתפק מה דינו אם נאבד תח\"י אחד מהם בשעה שהוא משתמש בו. ולכאורה הי' נראה כיון דקיי\"ל הכא דשותפין ש\"ש המה זל\"ז. ממילא בדבר הראוי להשתמש הוי שואל עליו בשעה ההוא מחייב באונסין. אך כר דייקינן נראה לכאורה לומר דהא ליתא רק אדרבה כה\"ג לא הוי שואל ואפשר דאף ש\"ש לא הוי. דהנה המעיין לקמן סכ\"ה בבור של שני שותפין ועבר עליו הראשון ולא כסהו דעכ\"פ לכ\"ע אין השני חייב לבדו עד שמסר לו דיליה. והוא מהש\"ס פרק שור שנגח את הפרה דכ\"א ע\"ב דקאמר שם דהוי כתנאי. דלרבנן דסברי אין ברירה משיתחיל השני לדלות בו נעשה שומר עליו. וראב\"י סובר יש ברירה כמו בחצר השותפין דס\"ל דאין אחד יכול לאסור על השני. כן ה\"נ יש ברירה והאי מדילי' קא ממלא והאי מדילי' קא ממלא. לכך לא נעשה שומר עליו יעו\"ש ופסקו הפוסקים כראב\"י כיון דקיי\"ל בנדרים כוותיה. והיינו אף דקיי\"ל אין ברירה מ\"מ כבר האריך הר\"ן שם לפרש הפעם דברירה דהכא שאני. ולפי\"ז ה\"נ בחפץ של שותפות דלדידן דקיי\"ל יש ברירה לא נעשה הלה שואל על השני דההוא בדידיה משתמש כמו שלא נעשה בבור שומר על חלק השני ואין לומר דהתם שאני שי\"ל באמת שנוטל רק מחלקו אבל הכא הרי משמש בכל הבגד דהרי הש\"ס מדמה זה לחצר השותפין דנדרים והתם ג\"כ מותר לו להשתמש בכל החצר. ובין ביש בו דין חלוקה ובין באין בו דין חלוקה מותר לו להשתמש התם. ובע\"כ כסברת הר\"ן שם דבשעה שהוא משתמש בו הוי אז כשלו דע\"ד כן קנו מתחלה בשעה שכ\"א ישתמש בו יהיה בשעה ההיא שלו. וא\"כ ה\"נ הוי כן. ולכך אין לו דין שואל עליו רק נראה דהוי כמו לוקח בהמה על למ\"ד יום דקיי\"ל בסי' שמ\"ו דהוי רק שומר חנם עליו. כן ה\"נ אף ש\"ש לא הוי כיון דבשעה ההיח שמשתמש בו הוי שלו והוי רק כלוקח לזמן דבאמת לאח\"ז כשיטלנו חברו יהיה נחשב כשלו. מיהו השתא יש לו עליו דין לוקח לזמן שפטור אף בגניבה ואבדה רק כשומר חנם הוא. ומה דאמרינן שותפין ש\"ש הם. היינו בדבר שאין עומד להשתמש בו רק לעסוק בהם במו\"מ וכדומה זה ל\"ש הך סברא של הר\"ן דאדעת כן לקחו שיהיה של כ\"א בשעה שישתמש בו. לכך הוי של שניהם ואחד שומר עליו בשעה שהוא בידו משא\"כ בדבר הראוי להשתמש אמרינן יש ברירה והוי של כ\"א בשעה שהוא משתמש בו והוו כלוקח לזמן ודוק בזה:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 176:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, חושן משפט קעו:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 176:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "השותפין שומרי שכר הן שאם נגנב או נאבד מהשותפות ברשות אחד מהם חייב באחריותו בד\"א בזמן שכל אחד מתעסק בשותפות זמן ידוע ונגנב לו בזמן שנתעסק בו: <span class=\"hebrew-emphasis\">הגה ודוקא שהתנו כן מתחלה אבל אם א' אינו מחוייב להתעסק רק עושה מנדבת לבו אינו חייב בשמיר' השותפות ולא הוי רק כשומר חנם (הגהות אלפסי פרק חזקת) אבל אם התחילו להתעסק ביחד אפי' אם אח\"כ נתעסק בו כל אחד לבדו פטורים דשמירה בבעלים היא (ואם חייב בפשיעה ע' לקמן סוף סי' רצ\"א) </span>ואם מתחלה נתעסק בו אחד לבדו ואח\"כ נתעסקו בו שניהם ביחד ונגנב הראשון חייב שלא היה השני עמו במלאכתו כשהתחילה שמירתו והב' פטור שהראשון היה עמו במלאכתו כשהתחילה שמירתו: <span class=\"hebrew-emphasis\">הגה חלקו השותפות לגמרי ונשאר ביד א' מהן לפרוע לעכו\"ם ואבדו או נגנבו ממנו אין חבירו חייב לשלם לו ההפסד אבל אם נשאר ג\"כ לשני מן השותפות הוי שמירה בבעלים וההפסד על שניהם (מהרי\"ק שורש קי\"ד)</span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 176:8",
+              "sourceHeRef": "חושן משפט קעו:ח - השיתוף כיצד מתקיים וכיצד נוהגין וכיצד נפרדין ואם מת אחר מהם",
+              "sourceRef": "Choshen Mishpat 176:8"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף ו </b>האומר לחבירו שמור לי ואשמור לך. נ\"ב עיין בחיבורי לאו\"ח משנת תד\"ר ה' שבת סי' ש\"ז מה שפלפלתי שמה בדין זה לענין שבת באומר שמור לי פירות שבתחומך. והעלתי שמה דבשבת כה\"ג אין להם דין ש\"ש זה לזה. ובדין שומר אבדה בשבת אם הוי ש\"ש עיי\"ש:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 305:2",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, חושן משפט שה:ב",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Choshen Mishpat 305:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "האומר לחבירו שמור לי ואשמור לך <span class=\"hebrew-emphasis\">(י\"א דהוא הדין השאילני ואשאילך) [טור ס\"ז בשם הרמ\"ה ומהרי\"ק שורש ע\"ז) </span>הרי זה שמירה בבעלים אמר ליה שמור לי היום ואשמור לך למחר השאילני היום ואני אשאילך למחר שמור לי היום ואשאילך למחר השאילני היום ואשמור לך למחר כולם נעשו שומרי שכר זה לזה: <span class=\"hebrew-emphasis\">הגה וי\"א (דהשאילני ואשאילך) ושמור לי ואשאילך או השאילני ואשמור לך אפי' בחד יומא הוי השומר שומר שכר ולא מקרי שמירה בבעלים (טור ס\"ז בשם רש\"י ונ\"י פרק האומנין ומרדכי פ' המפקיד) </span>:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 305:6",
+              "sourceHeRef": "חושן משפט שה:ו - שומר שכופר או שטוען נאנס או נגנב",
+              "sourceRef": "Choshen Mishpat 305:6"
+            },
+            {
+              "en": "",
+              "he": "א\"ל שמור לי ואשמור לך או שמור לי היום ואשמור לך למחר נתבאר בסי' ש\"ה:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 346:5",
+              "sourceHeRef": "חושן משפט שמו:ה - דין פטור שאלה בבעלים עם כל דיניו ובעל בנכסי אשתו",
+              "sourceRef": "Choshen Mishpat 346:5"
+            },
+            {
+              "en": "",
+              "he": "האומר לחבירו השאילני היום ואשאילך למחר אינו שאלה בבעלים:",
+              "ref": "Shulchan Arukh, Choshen Mishpat 346:8",
+              "sourceHeRef": "חושן משפט שמו:ח - דין פטור שאלה בבעלים עם כל דיניו ובעל בנכסי אשתו",
+              "sourceRef": "Choshen Mishpat 346:8"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>אמאי</b> <span class=\"hebrew-emphasis\">[מדוע]?</span> הלא <b>שמירה בבעלים היא,</b> שהרי כל אחד מהם מחוייב כלפי השני בשמירת החפצים המשותפים, וכלל הוא שאם הבעלים עובדים עבור השומר — אינו חייב באחריות! <b>אמר רב פפא:</b> מדובר במקרה <b>דאמר ליה</b> <span class=\"hebrew-emphasis\">[שאומר לו]</span> השותף: <b>שמור לי היום ואני אשמור לך למחר,</b> ונמצא שבכל יום כל אחד מהם הוא השומר היחידי של הדברים, ואין כאן שמירה בבעלים.",
+              "ref": "Steinsaltz on Bava Batra 43b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ג ב:א",
+              "sourceRef": "Steinsaltz on Bava Batra 43b:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The Torah states with regard to one who borrows an item: “And if a man borrow from his neighbor, and it be hurt, or die, the owner thereof not being with it, he shall surely make restitution. If the owner thereof be with it, he shall not make restitution” (Exodus 22:13–14). The Sages derived a principle from these verses applying to all bailee cases: As long as the owner of the item is employed by the bailee, the bailee is exempt from the regular bailee payments. The Gemara posits that this principle applies to partners who share responsibilities for safeguarding their mutual property. Rabbeinu Yona points out that even if the partners do not actually safeguard their property simultaneously, it is sufficient that in principle one could demand that his partner safeguard their property together with him (see also <i>Tosafot</i>).",
+              "he": "שנאמר בתורה \"בעליו אין עמו שלם ישלם\" (שמות כב, יג). שמכאן למדו חכמים שאם הבעלים נמצאים עם השומר, כלומר, עובדים עבורו, בשכירות או בחינם, הן בזמן תחילת השמירה או בזמן שאבד הדבר — הריהם פטורים מלשלם. ולמדו חכמים שדין זה אינו רק בשואל (שנכתב בו דין זה) אלא בכל השומרים. והיה מקום לומר שכיון ששותפים הם ושניהם שומרים זה עבור זה, יהיו שניהם פטורים מאחריות שומרים מטעם זה שהבעלים שומר עימם. והעיר רבינו יונה שאף שהשני אינו שומר יחד עמו — די באפשרות של חבירו לדרוש ממנו לשמור יחד עמו (וראה בתוס').",
+              "ref": "Steinsaltz comment #1 on Bava Batra 43b:1",
+              "sourceHeRef": "שְׁמִירָה בִּבְעָלִים הִיא",
+              "sourceRef": "It is safeguarding accompanied by employment of the owner"
+            },
+            {
+              "en": "If each partner takes turns safeguarding their mutual property, they have the status of paid bailees and are liable to each other for theft and loss. The Rema writes that this is referring to a case where they agreed to this arrangement from the outset. But if they established the partnership with the understanding that they would safeguard simultaneously, they are exempt, as it is considered safeguarding together under the employment of the owner. This is in accordance with the opinion of Rav Pappa (Rambam<i> Sefer Mishpatim</i>,<i> Hilkhot Sekhirut</i> 10:2; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 176:8, 305:6, 346:5, 8).",
+              "he": "שכיון שחילקו ביניהם את השמירה, וכל אחד שומר ביומו, הרי בכל פעם שאחד מהם שומר אין שותפו עימו, ואין זו שמירה בבעלים. וראה ברשב\"ם ובתוס' שהסבירו שאף שכבר שנינו במשנה שהאומר \"שמור לי היום ואשמור לך למחר\", נחשב כשומר שכר (ושכרו הוא שחבירו שומר ביומו שלו) היה צורך לומר שדין זה שייך גם בשותפים, כי היה מקום לומר שכיון שכל אחד מהם צריך לשמור על חלקו בשותפות ממילא הוא שומר גם על חלק חבירו, והריהו לפיכך רק שומר חינם. וראה ברמ\"ה שהביא גרסה: נעשה כאומר לו וכו'. שאף אם לא התנו כן במפורש, מכל מקום שמירת כל אחד מן השותפים נחשבת כשמירה בשכר (וראה במאירי).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 43b:1",
+              "sourceHeRef": "דְּאָמַר לֵיהּ, שְׁמוֹר לִי הַיּוֹם וַאֲנִי אֶשְׁמוֹר לְךָ לְמָחָר",
+              "sourceRef": "Where he says to him, safeguard for me today and I will safeguard for you tomorrow"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>אמאי שמירה בבעלים היא—Why; it is guarding with the owner</b><br><br>O<small>VERVIEW</small><br>שמואל ruled regarding partners that each one is considered as a שומר שכר to the other; meaning that each partner is liable for the assets of their partnership if it was lost or stolen when it was in the possession of one of the partners. The גמרא asked why should they be liable since this is a case of שמירה בבעלים. Our תוספות qualifies and clarifies this question.<br>---------------------------------<br><b>פירוש אם התחילו שניהם לשמור יחד –<br>The explanation</b> as to when it is considered שמירה בבעלים is <b>if they both began to guard</b> (the items of their partnership) <b>simultaneously,</b> so that <b>–<br>כל אחד בשעה שהוא משמר חלק חבירו חבירו נמי משמר לו חלקו-–</b><br><b>Each one</b> of the partners, <b>at</b> the same <b>time that he guards his partner’s share, his partner is guarding his share</b><br><b>ואף על פי שאין עמו במלאכה בשעת אונס –<br>And even if</b> the other partner <b>was not in his employ at the time of the accident –<br>כיון שהיה עמו בתחילת שמירה בעליו עמו קרינן ביה –</b><br>Nevertheless <b>since</b> the partner <b>was with him</b> (in his employ) <b>at the beginning of the guarding, we call it בעליו עמו,</b> and he is פטור –<br>תוספות proves this point:<br><b>כדתניא (בבא מציעא דף צו,א) היה עושה עמו בשעת שאלה –<br>As the ברייתא taught,</b> if the owner <b>was working for (with) the borrower, at the time of the borrowing –<br>אין צריך להיות עמו בשעת שבורה ומתה –<br>It is not necessary</b> for the owner <b>to be with him</b> (in his employ) <b>when</b> the borrowed cow <b>broke or died,</b> for he is פטור regardless, since he was in his employ בשעת שאלה –<br><b>היה עמו בשעת שבורה ומתה צריך להיות עמו בשעת שאלה –</b><br>However. If <b>the owner was employed with</b> the borrower <b>at the time it broke or died,</b> that is not sufficient to exempt the שואל from paying, but rather <b>it is necessary that he</b> be employed <b>by</b> the borrower <b>at the time of borrowing –</b><br>תוספות qualifies (that the שמירה must not begin simultaneously):<br><b>ואפילו לא התחילו שניהם לשמור יחד –<br>And even if both of them did not begin guarding simultaneously –<br>מכל מקום האחרון פטור שהראשון היה עמו במלאכה בשעה שהתחיל השני לשמור:</b><br><b>Nevertheless the last one</b> to guard <b>is פטור, since the first one was in his employ at the time the second one began to guard.</b><br><br>S<small>UMMARY</small><br>The פטור of שמירה בבעלים is if the owner was in the employ of the שומר when the שמירה began.<br><br>T<small>HINKING IT OVER</small><br>According to תוספות that we require שמירה בבעלים at the beginning, why did the גמרא not answer the question of 'ואמאי שמירה בבעלים הוא', that we are discussing a case where there was no שמירה בבעלים together at the same time, so one of them can be a ש\"ש?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 43b:1:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אמאי שמירה בבעלים היא</strong> - פי' אם התחילו שניהם לשמור יחד כל אחד בשעה שהוא משמר חלק חבירו חבירו נמי משמר לו חלקו ואע\"פ שאין עמו במלאכה בשעת אונס כיון שהיה עמו בתחילת שמירה בעליו עמו קרינן ביה כדתניא <span class=\"parenthesized\">(ב\"מ דף צו.)</span> היה עושה עמו בשעת שאלה אין צריך להיות עמו בשעת שבורה ומתה היה עמו בשעת שבורה ומתה צריך להיות עמו בשעת שאלה ואפילו לא התחילו שניהם לשמור יחד מכל מקום האחרון פטור שהראשון היה עמו במלאכה בשעה שהתחיל השני לשמור:",
+              "ref": "Tosafot on Bava Batra 43b:1:1",
+              "sourceHeRef": "תוספות על בבא בתרא מ״ג ב:א:א",
+              "sourceRef": "Tosafot on Bava Batra 43b:1:1"
+            },
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>דאמר שמור לי היום כולי—Where he said; guard for me today, etc.</b><br>Overview<br>The גמרא explained the reason the two partners are considered שומרי שכר for each other, and it is not considered שמירה בבעלים, since they watched it on consecutive days, and they did not watch it at the same time. תוספות clarifies the rules of שמירה בבעלים and שומרי שכר.<br>----------------------------------<br>תוספות asks:<br><b>ואם תאמר אכתי שמירה בבעלים היא דאמרינן בריש השואל –<br>And if you will say; but it is still</b> considered <b>שמירה בבעלים, for</b> the גמרא <b>states in the beginning of</b> פרק <b>השואל –<br>דבעלים באמירה גבי שואל את הפרה ובעלה עמה –<br>Regarding</b> what the משנה stated; ‘<b>one who borrowed a cow together with its owner’, that the owner</b> is considered to be in the employ of the שואל <b>by</b> merely <b>saying,</b> ‘I am employed by you’ –<br>תוספות answers by distinguishing between the two cases:<br><b>ויש לומר שאני התם דבאמירה משעבדי עצמן ליכנס במלאכתם מיד –<br>And one can say; there</b> (by the שואל) <b>it is different, for the owner is obligating himself with his statement to immediately begin working –<br>אבל הכא לא משתעבד עד למחר –<br>However here</b> (by the שותפין) <b>he is not committing</b> himself to begin work only <b>until tomorrow,</b> but not immediately, therefore he is not in the employ of his partner as of yet, and it is not שמירה בבעלים.<br>תוספות asks:<br><b>ואם תאמר ומאי קא משמע לן שמואל דנעשין שומרי שכר זה לזה –<br>And if you will say; what is שמואל coming to teach us; that they become ש\"ש one to another –<br>מתניתין היא בהשוכר את האומנים (בבא מציעא דף פ,ב) שמור לי ואשמור לך שומר שכר –</b><br>But <b>this is a משנה in</b> פרק <b>השוכר את האומנים;</b> if one says to another ‘<b>guard for me and I will guard for you’,</b> they each become a <b>ש\"ש</b> to the other, so why was it necessary for שמואל to repeat a ruling that is stated explicitly in the משנה?!<br>תוספות answers and distinguishes between the two cases:<br><b>ויש לומר דאי מהתם הוה אמינא לפי שהם אינן שותפין –<br>And one can say that if</b> all we had was the משנה <b>there</b> in השוכר וכו', <b>I would have said</b> that only there, are they considered to be ש\"ש, <b>since they are not partners –<br>אבל הכא שהם שותפין כל אחד ואחד כששומר חלק חבירו שומר גם בשביל עצמו:</b><br><b>However here where they are partners, so each one while he is watching his friend’s portion he is also watching for his</b> portion.<br><br>S<small>UMMARY</small><br>If the owner commits himself verbally to be in the employ of the שומר immediately it is considered שמירה בבעלים, but not if his commitment will begin after the שמירה. It is more reasonable that שמור לי ואשמור לך is considered ש\"ש where they are not partners than when they are guarding items which are owned in partnership.<br><br>T<small>HINKING IT OVER</small><br>Why did תוספות not ask his question on שמואל (what is his חידוש) previously when שמואל stated his ruling; why did he wait to ask it now (after the first question and answer in this תוספות)?!",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 43b:1:2",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> דאמר שמור לי כו' וא\"ת אכתי שמירה בבעלים כו' דבעלים באמירה כו' עכ\"ל וה\"ה דה\"מ לאקשויי הכי אמתני' דהאומנין דשמור לי ואשמור לך ש\"ש שהביאו התוספות הכא דמוקמינן ליה נמי ע\"כ בהכי דא\"ל שמור לי היום כו' וק\"ל:",
+                      "ref": "Chidushei Halachot on Bava Batra 43b:1",
+                      "sourceHeRef": "חדושי הלכות על בבא בתרא מ״ג ב:א",
+                      "sourceRef": "Chidushei Halachot on Bava Batra 43b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאמר שמור לי היום כו'</strong> - וא\"ת אכתי שמירה בבעלים היא דאמרינן בריש השואל דבעלים באמירה גבי שואל את הפרה ובעלה עמה וי\"ל שאני התם דבאמירה משעבדי עצמן ליכנס במלאכתם מיד אבל הכא לא משתעבד עד למחר וא\"ת ומאי קמ\"ל שמואל דנעשין שומרי שכר זה לזה מתניתין היא בהשוכר את האומנים <span class=\"parenthesized\">(ב\"מ דף פ:)</span> שמור לי ואשמור לך שומר שכר וי\"ל דאי מהתם הוה אמינא לפי שהם אינן שותפין אבל הכא שהם שותפין כל אחד ואחד כששומר חלק חבירו שומר גם בשביל עצמו:",
+              "ref": "Tosafot on Bava Batra 43b:1:2",
+              "sourceHeRef": "תוספות על בבא בתרא מ״ג ב:א:ב",
+              "sourceRef": "Tosafot on Bava Batra 43b:1:2"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>Why</b> are they liable as paid bailees? Isn’t <b>it</b> a case of <b>safeguarding accompanied by</b> employment of the <b>owner?</b> Since both partners are safeguarding each other’s property, they are both employed by each other, and they should therefore be exempt from the obligations of safeguarding. <b><span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said:</b> <span href=\"/topics/shmuel-(amora)\" class=\"namedEntityLink\" data-slug=\"shmuel-(amora)\">Shmuel</span> is referring to a case <b>where he says to</b> his partner: <b>Safeguard for me today, and I will safeguard for you tomorrow.</b> In this circumstance, they are each the sole bailee at any given moment, and they do not receive the exemption from bailee payments for being employed by the owner.",
+      "he": "אַמַּאי? שְׁמִירָה בִּבְעָלִים הִיא! אָמַר רַב פָּפָּא, דְּאָמַר לֵיהּ: שְׁמוֹר לִי הַיּוֹם, וַאֲנִי אֶשְׁמוֹר לְךָ לְמָחָר.",
+      "ref": "Bava Batra 43b:1"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ר\"ש</b> בד\"ה מכר לו כו' ואזיל הס\"ד:",
+              "ref": "Chokhmat Shlomo on Bava Batra 43b:1",
+              "sourceHeRef": "חכמת שלמה על בבא בתרא מ״ג ב:א",
+              "sourceRef": "Chokhmat Shlomo on Bava Batra 43b:1"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מכר לו בית</strong> - אדם לחבירו:",
+              "ref": "Rashbam on Bava Batra 43b:2:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ב:א",
+              "sourceRef": "Rashbam on Bava Batra 43b:2:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין מעיד לו</strong> - מוכר ללוקח להעמידה בידו שאם יבא להצטרף עם אחר ולהעיד שהוא שלו נוגע בעדות הוא:",
+              "ref": "Rashbam on Bava Batra 43b:2:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ב:ב",
+              "sourceRef": "Rashbam on Bava Batra 43b:2:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מפני שאחריותו</strong> - של בית עליו דמוכר שאם יטרפוה מן הלוקח יחזור על המוכר והלכך ניחא ליה למוכר שתעמוד ביד הלוקח ולא יצטרך לפרעו כלום הכי שמעינן ליה השתא:",
+              "ref": "Rashbam on Bava Batra 43b:2:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ב:ג",
+              "sourceRef": "Rashbam on Bava Batra 43b:2:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מכר לו פרה</strong> - לקמיה מפרש ליה ואזיל:",
+              "ref": "Rashbam on Bava Batra 43b:2:4",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ב:ד",
+              "sourceRef": "Rashbam on Bava Batra 43b:2:4"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שאין אחריותו</strong> - דלוקח עליה דמוכר אם יטלוהו הימנו מחמת המוכר שגזלה והיינו דקפריך מ\"ש רישא ומ\"ש סיפא מ\"ש מטלטלי דלא הוי אחריות עליו ממקרקעי אם שתי מכירות הללו באחריות הוי תרוייהו אחריותו עליו ואי שלא באחריות הא תרוייהו אין אחריותו עליו:",
+              "ref": "Rashbam on Bava Batra 43b:2:5",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ב:ה",
+              "sourceRef": "Rashbam on Bava Batra 43b:2:5"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ת\"ר מכר לו בית מכר לו שדה אין מעיד לו עליה מפני שאחריותו עליו מכר לו פרה מכר לו טלית מעיד לו עליה מפני שאין אחריותו עליו מ\"ש רישא ומ\"ש סיפא אמר רב ששת רישא בראובן שגזל שדה משמעון ומכרה ללוי ואתא יהודה וקמערער עליה לא ליזיל שמעון לאסהודי ליה ללוי דניחא ליה דתיקו בידיהכי היכי דתיהדר ליה וכיון דאסהיד דארעא דלוי היא במאי מפיק ליה מיניה נמצא דלאו נוגע בעדות הוא דאמר ידענא בה בהאי ארעא דלאו דיהודה היא ובההיא זכותא דמפיק ליה מלוי לפקה מיהודה ומה לו להעיד שקר בשביל זה דאמר. השני נוח לי והראשון קשה ממנו ואי בעית אימא כגון דאית ליה סהדי למר ולמר ואין עדי שמעון מזומנין עתה ואמור רבנן היכא דקיימא ארעא תיקום הלכך אם יוציאנה יהודה מלוי ואחר כך יביא שמעון עדיו אמרינן אוקי תרי לבהדי תרי ואוקי ארעא בחזקת יהודה היכא דקיימא הלכך ניחא ליה לשמעון לפסול עדי יהודה ולבטל זכותו ואחר כך יביא שמעון עדיו ויוציא מלוי ואפילו אם יבוא יהודה אחרי כך עדים אחרים כבר נכנס הקרקע בחזקת שמעון בשופי בלי ערעור ונתבטלו זכיותיו של יהודה ולא מפקינן ליה תו מחזקת שמעון הלכך נוגע בעדות הוא ולוקמה בגזלן משום דקבעי למיתני סיפא מכר לו פרה מכר לו טלית דדוקא מכר דלא הדרא ליה דהוה ליה יאוש ושינוי רשות אבל לא מכר לה דהדרא ליה לא תנא רישא נמי מכר ואע\"ג דבקרקע נמי שייך יאוש כדתנן במסכת כלאים פ\"ז מ\"ו האנס שזרע כלאים בכרם ויצא מלפניו קוצרו ואפילו במועד וקאמר עלה בירושלמי נשתקעו בעליו ולא נתייאשו איסורו מדברי תורה נתייאשו בעליו ולא נשתקעו איסורו מדברי סופרים ופריך וכי יש קרקע נגזלת אמר ר' אילא אעפ\"כ יש יאוש להם וגבי עבד נמי משמע דיש יאוש בפרק השולח <span class=\"parenthesized\">(גיטין דף לט:)</span> גבי נתייאשתי מפלוני עבדי ועבד אתקש לקרקע וכן בהניזקין דף נח: בשמעתין דסיקריקון מוכח כך וי\"ל דאע\"ג דיש יאוש בקרקע מ\"מ לא שכיח בה יאוש לפי שאינה דבר הכלה ואינו מתייאש שאם לא יוכל להוציאנה מידו יוציאנה מיד בנו אבל בפרה וטלית שכיח בהו יאוש ואורחא דמילתא נקט וסיפא נמי נהי דמגופה מייאש מדמי מי מייאש לא צריכא דמית גזלן דתנן הגוזל ומאכיל את בניו והמניח לפניהם פטורין מלשלם קשיא ליה לאביי מפני שאחריותה עליו ושאין אחריותה עליו מפני שחוזרת לו ואין חוזרת לו מיבעי ליה אלא כדרבין בר שמואל ואע\"ג דשני אביי להך ברייתא בשינויא אחרינא משום דלישנא דברייתא לא משמע כשינויא קמא מכל מקום הלכתא כשינויא קמא דפסלינן ליה לעדות משום הך חששא:",
+              "ref": "Rosh on Bava Batra 3:41:1",
+              "sourceHeRef": "פסקי הרא\"ש על בבא בתרא ג:מא:א",
+              "sourceRef": "Rosh on Bava Batra 3:41:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> <b>תנו רבנן</b> <span class=\"hebrew-emphasis\">[שנו חכמים]:</span> אם <b>מכר לו</b> לחבירו <b>בית,</b> או <b>מכר לו שדה</b> — <b>אין מעיד לו עליה</b> אם יבוא אדם אחר ויטען ששלו הוא, <b>מפני שאחריותו עליו</b> שאם יזכה התובע בשדה יצטרך הוא לפצות את הקונה, ולכן הוא נחשב כנוגע בדבר. אבל אם <b>מכר לו פרה</b> או <b>מכר לו טלית</b> — <b>מעיד לו עליה, מפני שאין אחריותו עליו.</b> ושואלים: <b>מאי שנא רישא ומאי שנא סיפא</b> <span class=\"hebrew-emphasis\">[מה שונה ההתחלה ומה שונה הסוף]?</span> מדוע מניחים שיש לו אחריות יתירה על הבית יותר מאשר על הפרה?",
+              "ref": "Steinsaltz on Bava Batra 43b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ג ב:ב",
+              "sourceRef": "Steinsaltz on Bava Batra 43b:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "כלומר, מצטרף עם עד אחר לעדות שהיא של הקונה (רשב\"ם).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 43b:2",
+              "sourceHeRef": "מעיד לו עליה",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "שלכאורה, אם מדובר במכירה באחריות (וסתם מכירה — באחריות היא) — הרי אחריות זו קיימת הן בקרקעות והן במיטלטלים, ואם מכר במפורש שלא באחריות — אף אז אין חילוק בין זה לזה.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 43b:2",
+              "sourceHeRef": "מאי שנא רישא וכו'",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b>The Sages taught:</b> If one <b>sold a house to</b> another, or if he <b>sold a field to him,</b> he <b>cannot testify about it for</b> the buyer against a claimant <b>because</b> the financial <b>responsibility</b> to compensate the buyer <b>for it</b> is <b>upon him,</b> and his testimony is biased. By contrast, if he <b>sold a cow to him,</b> or if he <b>sold a cloak to him,</b> he <b>can testify about it for</b> the buyer <b>because</b> the financial <b>responsibility</b> to compensate the buyer <b>for it</b> is <b>not upon him.</b> The Gemara asks: <b>What is different</b> in <b>the first clause</b> that he cannot testify <b>and what is different</b> in <b>the latter clause</b> that he can? Why would one assume that in the first case he does bear responsibility, but not in the second?",
+      "he": "תָּנוּ רַבָּנַן: מָכַר לוֹ בַּיִת, מָכַר לוֹ שָׂדֶה – אֵין מֵעִיד לוֹ עָלֶיהָ, מִפְּנֵי שֶׁאַחְרָיוּתוֹ עָלָיו. מָכַר לוֹ פָּרָה, מָכַר לוֹ טַלִּית – מֵעִיד לוֹ עָלֶיהָ, מִפְּנֵי שֶׁאֵין אַחְרָיוּתוֹ עָלָיו. מַאי שְׁנָא רֵישָׁא וּמַאי שְׁנָא סֵיפָא?",
+      "ref": "Bava Batra 43b:2",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following rule applies when Reuven stole a field or a garment from Shimon and Yehudah lodges a claim against Reuven, stating that the field or the garment is his. Shimon may not testify on Reuven's behalf that the field or the garment does not belong to Yehudah. The rationale is that Shimon desires to have the field or garment remain in the possession of Reuven who stole it from him so that he will have it returned to him from the thief. For it is possible that the proof Shimon uses to expropriate it from Reuven will not enable him to expropriate it from Yehudah.<br>Similarly, if Reuven sold or transferred as an inheritance the stolen field to Levi and Yehudah lodges a claim against Levi, Shimon may not testify that it does not belong to Yehudah. For perhaps it is more comfortable for him to expropriate it from Levi.",
+              "he": "רְאוּבֵן שֶׁגָּזַל שָׂדֶה אוֹ טַלִּית מִשִּׁמְעוֹן וּבָא יְהוּדָה וְעִרְעֵר עַל רְאוּבֵן וְאָמַר שָׂדֶה זוֹ אוֹ טַלִּית זוֹ שֶׁלִּי הִיא. אֵין שִׁמְעוֹן יָכוֹל לְהָעִיד לִרְאוּבֵן שֶׁאֵין זוֹ הַשָּׂדֶה שֶׁל יְהוּדָה וְלֹא זוֹ הַטַּלִּית שֶׁל יְהוּדָה. שֶׁהֲרֵי שִׁמְעוֹן רוֹצֶה לְהַעֲמִיד שָׂדֶה זוֹ אוֹ טַלִּית זוֹ בְּיַד רְאוּבֵן שֶׁהוּא גְּזָלָהּ מִמֶּנּוּ כְּדֵי שֶׁיַּחְזְרוּ לוֹ מִיַּד הַגַּזְלָן. שֶׁהֲרֵי אֶפְשָׁר שֶׁתִּהְיֶה הָרְאָיָה שֶׁל שִׁמְעוֹן שֶׁמּוֹצִיא בָּהּ מִיַּד רְאוּבֵן אֶפְשָׁר שֶׁאֵינוֹ יָכוֹל לְהוֹצִיא בָּהּ מִיַּד יְהוּדָה. וְכֵן אִם מָכַר רְאוּבֵן הַשָּׂדֶה הַגְּזוּלָה אוֹ הוֹרִישָׁהּ לְלֵוִי וּבָא יְהוּדָה לְעַרְעֵר עַל לֵוִי. אֵין שִׁמְעוֹן מֵעִיד שֶׁאֵינָהּ שֶׁל יְהוּדָה שֶׁמָּא נַחַת רוּחַ יֵשׁ לוֹ לְהוֹצִיאָהּ מִיַּד לֵוִי:",
+              "ref": "Mishneh Torah, Testimony 16:1",
+              "sourceHeRef": "הלכות עדות טז:א",
+              "sourceRef": "Testimony 16:1"
+            },
+            {
+              "en": "The following rules apply if Reuven sold the stolen garment to Levi and Yehudah lodges a claim concerning it. If Reuven died, Shimon may testify that it does not belong to Yehudah. The rationale is that this garment will never be returned to Shimon, because the purchaser acquires it because of his despair of recovering it and its change of domain. Reuven, the thief, died, and thus he has no one from whom he could receive reimbursement.<br>If, however, Reuven is still alive, Shimon may not testify even concerning a garment. For he will receive benefit from the fact that it will not remain in Yehudah's possession so that he can bring proof that Reuven stole it and require him to make reimbursement for it.<br>Similarly, if the garment is in the possession of Reuven's heirs, Shimon may not testify concerning it. For ultimately, if the heir retains possession, it will be returned to the original owner. Similar laws apply in all analogous situations.",
+              "he": "מָכַר הַטַּלִּית הַגְּזוּלָה לְלֵוִי וּבָא יְהוּדָה לְעַרְעֵר. אִם מֵת רְאוּבֵן שִׁמְעוֹן מֵעִיד עָלֶיהָ שֶׁאֵינָהּ שֶׁל יְהוּדָה שֶׁהֲרֵי אֵין טַלִּית זוֹ חוֹזֶרֶת לְשִׁמְעוֹן לְעוֹלָם שֶׁכְּבָר קְנָאָהּ הַלּוֹקֵחַ בְּיֵאוּשׁ וְשִׁנּוּי רְשׁוּת וּכְבָר מֵת רְאוּבֵן הַגַּזְלָן וְאֵין לוֹ מִמִּי יִטּל דָּמֶיהָ. אֲבָל אִם עֲדַיִן רְאוּבֵן קַיָּם אֵין שִׁמְעוֹן מֵעִיד אַף עַל הַטַּלִּית. שֶׁהֲנָאָה הִיא לוֹ שֶׁלֹּא תַּעֲמֹד בְּיַד יְהוּדָה כְּדֵי שֶׁיָּבִיא רְאָיָה שֶׁרְאוּבֵן גְּזָלָהּ וִישַׁלֵּם דָּמֶיהָ. וְכֵן אִם הָיְתָה הַטַּלִּית בְּיַד יוֹרְשֵׁי רְאוּבֵן אֵין שִׁמְעוֹן מֵעִיד עָלֶיהָ מִפְּנֵי שֶׁסּוֹפָהּ שֶׁאִם תַּעֲמֹד בְּיַד הַיּוֹרֵשׁ לַחְזֹר לוֹ. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Testimony 16:2",
+              "sourceHeRef": "הלכות עדות טז:ב",
+              "sourceRef": "Testimony 16:2"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">רישא בראובן שגזל שדה משמעון ומכרה ללוי ואתא יהודה</strong> - כלומר אינש מעלמא ומערער על שדה זו שביד לוי ואומר שלי היא ומביא עדים או שטר שלא יבא שמעון הנגזל ויצטרף עם אחר ויעיד שזה השדה אינו ליהודה כגון שיודע שום עדות לפסול עדות של יהודה בגזלנות וכן שטרו מפני שרוצה שמעון שיהיה השדה ביד לוי הקונה ואחרי כן היום ולמחר יביא שמעון ראיה שזו השדה שלו היה וראובן גזלו ממנו ויוציאו מיד לוי ויטלנו לעצמו דקרקע אינה נגזלת ולא מהני בה יאוש ושינוי רשות והלכך נוגע בעדות הוא דלא ניחא ליה שיטלנו יהודה דתו לא מצי שמעון לאפוקי מיניה כדמפרש לקמן דנוח לו לוי ויהודה קשה לו והלכך אין מעיד לו שמעון הנגזל ללוי עליה והכי קאמר ברייתא מכר לו בית מכר לו שדה ראובן הגזלן ללוי אין מעיד לו שמעון הנגזל ללוי לוקח עליה כנגד יהודה המערער מפני שאחריותו וסופו של נגזל עליו דלוקח להוציא הקרקע מידו והלכך נוגע הוא בעדות זו ולקמן מפרש אמאי מוקי לה בנגזל ומכר הוה שפיר מצי לאוקומה בגזלן גופיה ואתא יהודה וקמערער דלא יבא שמעון הנגזל להעיד לראובן הגזלן להעמידה בידו משום האי טעמא גופיה דניחא ליה דהדרא ליה וסיפא מפרש לקמן:",
+              "ref": "Rashbam on Bava Batra 43b:3:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ג:א",
+              "sourceRef": "Rashbam on Bava Batra 43b:3:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "17. If Reuven stole a garment or field from Shimon, and Yehuda brought a claim against Reuven saying that this field or garment is his, Shimon would not be able to testify that this is not Yehuda’s field or garment because Shimon just wants the field or garment to remain in Reuven’s possession because it might be easier to remove it from Reuven’s possession than it would be to remove it from Yehuda’s possession. Similarly, if Reuven sold or bequeathed the stolen field to Levi and Yehuda brings a claim against Levi, Shimon cannot testify that it does not belong to Yehuda. If Shimon sold the stolen garment to Levi, Shimon gave up on reclaiming it and Yehuda brings a claim against Levi, Shimon may testify that it is not Yehuda’s if Reuven had died because this garment will never go back to Shimon since the buyer already acquired it with the giving up of hope and the transfer of possession and Reuven the thief had died, so there is no one to collect the money from. If, however, Reuven was still alive, Shimon may not even testify on the garment because there is a benefit to him for the garment not to go to Yehuda so that he can bring a proof that Reuven stole it and Reuven will have to pay. Similarly, if the garment was in the possession of Reuven’s inheritors, Shimon may not testify because it will eventually go back to Shimon if the inheritors can maintain possession. The same applies to anything similar. Even in a case where Reuven died, Shimon may only testify if the sale was unsecured. If, however, the sale was secured, Reuven’s estate would be liable and thus Shimon has a stake in the testimony. Now that the rabbis have instituted that a creditor may even collect from a moveable item, a victim of theft may not even testify in a case where the thief died and the sale was unsecured because the victim still has a stake in the testimony. <i>RAMA: This all applies only where Shimon wants to testify that the field or garment does not belong to Yehuda. If, however, he wants to testify that it belongs to Reuven, he may testify in every case because once he confesses that it belongs to Reuven he can no longer bring a claim that it is his. Thus, he does not have a stake in the testimony. (Tur)</i>",
+              "he": "ראובן שגזל טלית או שדה משמעון ובא יהודה וערער על ראובן ואמר שדה זו או טלית זו שלי היא אין שמעון יכול להעיד שאין זו השדה והטלית של יהודה שהרי שמעון רוצה להעמיד שדה זו או טלית זו ביד ראובן מפני שאפשר שנוח לו להוציאה מיד ראובן יותר מלהוציאה מיד יהודה וכן אם מכר ראובן השדה הגזולה או הורישה ללוי ובא יהודה לערער על לוי אין שמעון מעיד שאינה של יהודה ואם מכר הטלית הגזולה ללוי ונתייאש שמעון ממנה ובא יהודה לערער על לוי אם מת ראובן שמעון מעיד עליה שאינה של יהודה שהרי אין טלית זו חוזרת לשמעון לעולם שכבר קנאה הלוקח ביאוש ושינוי רשות וכבר מת ראובן הגזלן ואין לו ממי ליטול דמיה אבל אם עדיין ראובן קיים אין שמעון מעיד אף על הטלית שהנאה הוא לו שלא תעמוד ביד יהודה כדי שיביא ראיה שראובן גזלה וישלם דמיה וכן אם היתה הטלית ביד יורשי ראובן אין שמעון מעיד עליה מפני שסופ' שאם תעמוד ביד היורש לחזור לו וכן כל כיוצא בזה ואפי' כשמת דדוקא שלא הניח אחריו' נכסים אבל אם הניח אחריות נכסים חייב ונמצא שזה נוגע בעדות והאידנ' דתקינו רבנן לבעל חוב ליגבי אפי' ממטלטלי דיתמי אע\"פ שמת הגזלן ולא הניח אחריות נכסים אין הנגזל מעיד לו דאכתי נוגע בעדות הוא: <span class=\"hebrew-emphasis\">הגה וכל זה ששמעון לא בא להעיד רק שהשדה או הטלית אינו של יהודה אבל אם בא להעיד שהוא של ראובן בכל ענין יכול להעיד שכיון שהודה על הדבר שהוא של ראובן שוב אינו יכול לערער עליו ולומר שהוא שלו ואינו נוגע בעדות (טור): </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 37:17",
+              "sourceHeRef": "חושן משפט לז:יז - הפסולים מחמת הנאה",
+              "sourceRef": "Choshen Mishpat 37:17"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב ששת: רישא</b> <span class=\"hebrew-emphasis\">[בתחילה]</span> מדובר <b>בראובן שגזל שדה משמעון ומכרה ללוי, ואתא</b> <span class=\"hebrew-emphasis\">[ובא]</span> אדם נוסף <b>יהודה, וקא מערער</b> וטוען שהשדה שלו היא, ועל כך אומרת הברייתא ש<b>לא ליזיל</b> <span class=\"hebrew-emphasis\">[ילך]</span> <b>שמעון</b> הנגזל <b>לאסהיד ליה</b> <span class=\"hebrew-emphasis\">[להעיד לו]</span> <b>ללוי</b> שאכן השדה שייכת ללוי בדין, משום שנוגע הוא בדבר, <b>דניחא ליה דהדרא</b> <span class=\"hebrew-emphasis\">[שנוח לו שתחזור</span> השדה<span class=\"hebrew-emphasis\">]</span> ללוי, כדי שאחר כך יוכל להוציאה מידו.",
+              "ref": "Steinsaltz on Bava Batra 43b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ג ב:ג",
+              "sourceRef": "Steinsaltz on Bava Batra 43b:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The commentaries write that this does not mean that there is evidence that the field was stolen by Reuven. Rather, it means that Shimon claims that Reuven robbed him of it. According to his own claim, Shimon’s testimony is biased (Rashba; Ritva; Ran).",
+              "he": "כתבו המפרשים שאין הכוונה שכעת מצויים לפנינו עדים המעידים שראובן גזל, אלא ששמעון הוא הקובל על ראובן וטוען שגזל ממנו, ולפי טענתו הריהו נוגע בעדות (רשב\"א, ריטב\"א, ר\"נ).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 43b:3",
+              "sourceHeRef": "בִּרְאוּבֵן שֶׁגָּזַל",
+              "sourceRef": "With regard to Reuven, who robbed"
+            },
+            {
+              "en": "If Reuven robbed Shimon of a field and then sold it to Levi, and Yehuda then contested Levi’s ownership, Shimon is unable to testify on behalf of Levi. His testimony is biased, as his testimony may facilitate the recovery of his field. This is in accordance with the analysis of Rav Sheshet. The Rema writes, based on the <i>Tur</i>, that this applies only to his testifying that the land does not belong to Yehuda. He can testify that it belongs to Reuven. By doing so he relinquishes his claim to the land, and his testimony is therefore not biased (Rambam<i> Sefer Shofetim</i>,<i> Hilkhot Edut</i> 16:1; <i>Shulĥan Arukh</i>,<i> Ĥoshen Mishpat</i> 37:17).",
+              "he": "ראובן גזל שדה משמעון ומכרו ללוי, ובא יהודה וערער על לוי וטען שהוא שייך לו, אין שמעון (הנגזל) יכול להעיד שאינו של יהודה, מפני שהוא נוגע בדבר, שיוכל להביא ראיה שראובן גזלו, ויחזור השדה לידיו. כהעמדת רב ששת. וכתב הרמ\"א, שכל זה הוא דווקא אם מעיד שהשדה אינו של יהודה, אבל אם יעיד שהוא של ראובן — ממילא איבד את זכותו שלו, ושוב אינו נוגע בעדות (טור). (רמב\"ם ספר שופטים הלכות עדות פט\"ז ה\"א. שו\"ע חו\"מ לז, יז).",
+              "ref": "Steinsaltz comment #2 on Bava Batra 43b:3",
+              "sourceHeRef": "בִּרְאוּבֵן שֶׁגָּזַל שָׂדֶה מִשִּׁמְעוֹן",
+              "sourceRef": "With regard to Reuven, who robbed Shimon of a field"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-sheshet\" class=\"namedEntityLink\" data-slug=\"rav-sheshet\">Rav Sheshet</span> said: The first clause</b> is stated <b>with regard to</b> the case of <b><span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>, who robbed <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> of a field and sold it to <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>, and</b> then <b><span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Yehuda</span> comes and contests</b> <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>’s ownership, stating that it was actually his. The <i>baraita</i> teaches <b>that <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> cannot go</b> to court <b>to testify for <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>, because</b> it is <b>preferable for</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> <b>that</b> the field be <b>returned</b> to <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>, so that he can later collect it from him.",
+      "he": "אָמַר <span href=\"/topics/rav-sheshet\" class=\"namedEntityLink\" data-slug=\"rav-sheshet\">רַב שֵׁשֶׁת</span>: רֵישָׁא – בִּרְאוּבֵן שֶׁגָּזַל שָׂדֶה מִשִּׁמְעוֹן, וּמְכָרָהּ לְלֵוִי, וַאֲתָא יְהוּדָה וְקָא מְעַרְעֵר; דְּלָא לֵיזִיל שִׁמְעוֹן לַאסְהֵיד לֵיהּ לְלֵוִי, דְּנִיחָא לֵיהּ דְּהָדְרָא.",
+      "ref": "Bava Batra 43b:3"
+    },
+    {
+      "commentary": {
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following rule applies when Reuven stole a field or a garment from Shimon and Yehudah lodges a claim against Reuven, stating that the field or the garment is his. Shimon may not testify on Reuven's behalf that the field or the garment does not belong to Yehudah. The rationale is that Shimon desires to have the field or garment remain in the possession of Reuven who stole it from him so that he will have it returned to him from the thief. For it is possible that the proof Shimon uses to expropriate it from Reuven will not enable him to expropriate it from Yehudah.<br>Similarly, if Reuven sold or transferred as an inheritance the stolen field to Levi and Yehudah lodges a claim against Levi, Shimon may not testify that it does not belong to Yehudah. For perhaps it is more comfortable for him to expropriate it from Levi.",
+              "he": "רְאוּבֵן שֶׁגָּזַל שָׂדֶה אוֹ טַלִּית מִשִּׁמְעוֹן וּבָא יְהוּדָה וְעִרְעֵר עַל רְאוּבֵן וְאָמַר שָׂדֶה זוֹ אוֹ טַלִּית זוֹ שֶׁלִּי הִיא. אֵין שִׁמְעוֹן יָכוֹל לְהָעִיד לִרְאוּבֵן שֶׁאֵין זוֹ הַשָּׂדֶה שֶׁל יְהוּדָה וְלֹא זוֹ הַטַּלִּית שֶׁל יְהוּדָה. שֶׁהֲרֵי שִׁמְעוֹן רוֹצֶה לְהַעֲמִיד שָׂדֶה זוֹ אוֹ טַלִּית זוֹ בְּיַד רְאוּבֵן שֶׁהוּא גְּזָלָהּ מִמֶּנּוּ כְּדֵי שֶׁיַּחְזְרוּ לוֹ מִיַּד הַגַּזְלָן. שֶׁהֲרֵי אֶפְשָׁר שֶׁתִּהְיֶה הָרְאָיָה שֶׁל שִׁמְעוֹן שֶׁמּוֹצִיא בָּהּ מִיַּד רְאוּבֵן אֶפְשָׁר שֶׁאֵינוֹ יָכוֹל לְהוֹצִיא בָּהּ מִיַּד יְהוּדָה. וְכֵן אִם מָכַר רְאוּבֵן הַשָּׂדֶה הַגְּזוּלָה אוֹ הוֹרִישָׁהּ לְלֵוִי וּבָא יְהוּדָה לְעַרְעֵר עַל לֵוִי. אֵין שִׁמְעוֹן מֵעִיד שֶׁאֵינָהּ שֶׁל יְהוּדָה שֶׁמָּא נַחַת רוּחַ יֵשׁ לוֹ לְהוֹצִיאָהּ מִיַּד לֵוִי:",
+              "ref": "Mishneh Torah, Testimony 16:1",
+              "sourceHeRef": "הלכות עדות טז:א",
+              "sourceRef": "Testimony 16:1"
+            },
+            {
+              "en": "The following rules apply if Reuven sold the stolen garment to Levi and Yehudah lodges a claim concerning it. If Reuven died, Shimon may testify that it does not belong to Yehudah. The rationale is that this garment will never be returned to Shimon, because the purchaser acquires it because of his despair of recovering it and its change of domain. Reuven, the thief, died, and thus he has no one from whom he could receive reimbursement.<br>If, however, Reuven is still alive, Shimon may not testify even concerning a garment. For he will receive benefit from the fact that it will not remain in Yehudah's possession so that he can bring proof that Reuven stole it and require him to make reimbursement for it.<br>Similarly, if the garment is in the possession of Reuven's heirs, Shimon may not testify concerning it. For ultimately, if the heir retains possession, it will be returned to the original owner. Similar laws apply in all analogous situations.",
+              "he": "מָכַר הַטַּלִּית הַגְּזוּלָה לְלֵוִי וּבָא יְהוּדָה לְעַרְעֵר. אִם מֵת רְאוּבֵן שִׁמְעוֹן מֵעִיד עָלֶיהָ שֶׁאֵינָהּ שֶׁל יְהוּדָה שֶׁהֲרֵי אֵין טַלִּית זוֹ חוֹזֶרֶת לְשִׁמְעוֹן לְעוֹלָם שֶׁכְּבָר קְנָאָהּ הַלּוֹקֵחַ בְּיֵאוּשׁ וְשִׁנּוּי רְשׁוּת וּכְבָר מֵת רְאוּבֵן הַגַּזְלָן וְאֵין לוֹ מִמִּי יִטּל דָּמֶיהָ. אֲבָל אִם עֲדַיִן רְאוּבֵן קַיָּם אֵין שִׁמְעוֹן מֵעִיד אַף עַל הַטַּלִּית. שֶׁהֲנָאָה הִיא לוֹ שֶׁלֹּא תַּעֲמֹד בְּיַד יְהוּדָה כְּדֵי שֶׁיָּבִיא רְאָיָה שֶׁרְאוּבֵן גְּזָלָהּ וִישַׁלֵּם דָּמֶיהָ. וְכֵן אִם הָיְתָה הַטַּלִּית בְּיַד יוֹרְשֵׁי רְאוּבֵן אֵין שִׁמְעוֹן מֵעִיד עָלֶיהָ מִפְּנֵי שֶׁסּוֹפָהּ שֶׁאִם תַּעֲמֹד בְּיַד הַיּוֹרֵשׁ לַחְזֹר לוֹ. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Testimony 16:2",
+              "sourceHeRef": "הלכות עדות טז:ב",
+              "sourceRef": "Testimony 16:2"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>דאמר ידענא דלאו דיהודה היא.</b> מהכא שמעינן דכל שהוא בע[י]נינו נוגע בעדות מחמת ממון, ובא להעיד, אין דוחין אותו מיד לומר נוגע בעדות הוא ואין שומעין לו בין לזכותו בין לחובתו כנגיעת עדות דקורבא, אלא שומעין דברו, ואם יש בעדותו לפי ראות הדיינין שום נגיעת עדות להנאתו אין מקבלין ממנו ואם לאו מקבלין ממנו.",
+              "ref": "Rashba on Bava Batra 43b:2",
+              "sourceHeRef": "רשב״א על בבא בתרא מ״ג ב:ב",
+              "sourceRef": "Rashba on Bava Batra 43b:2"
+            },
+            {
+              "en": "",
+              "he": "<b>ובההיא זכותא דמפיק לה מלוי ליפקה מיהודה.</b> איכא למידק, היכי מקשה הכין בהדיא, והא איכא אנפי טובוא דמפיק ליה מלוי ולא מצי מפיק לה מיהודה, כגון דעידי שמעון קרובים ליהודה ורחוקים ללוי, אי נמי כגון ששמעון מצטרף עם אחר לפסול עידיו של יהודה. אי נמי שיש עידי אבות ליהודה ולא לשמעון אלא שיש לו עדים שראובן גזלה ממנו. וי\"ל דבעיא בעלמא היא דקא בעי, כי היכי לפרושה.",
+              "ref": "Rashba on Bava Batra 43b:3",
+              "sourceHeRef": "רשב״א על בבא בתרא מ״ג ב:ג",
+              "sourceRef": "Rashba on Bava Batra 43b:3"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשינן ואכתי אמאי אינו מעיד לו עליה הא כיון דאסהיד דלוי היא. דקס\"ד השתא הכי דמפקינן לה מיהודה ומוקים לה ביד לוי דקמסהיד הוא בשדה דלוי הוא ולאו דיהודה וכיון דהודה בפני בית דין דשל לוי הוא היכי מצי מפיק לה מלוי אחרי כן והלא הודאת בעל דין כמאה עדים דמי ונמצא שאינו מרויח כלום בעדות זו ואינו נוגע בעדות זו כלל ואמאי קתני דאין מעיד:",
+              "ref": "Rashbam on Bava Batra 43b:4:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ד:א",
+              "sourceRef": "Rashbam on Bava Batra 43b:4:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומשני דאמר ידענא דההוא ארעא לאו דיהודה היא</strong> - דפסיל לעדי יהודה בגזלנותא או דמכחיש לטענותיו בשום ענין בעולם כגון שמעיד בפני הודה לו וממילא מתוקמא השדה ביד לוי ואע\"ג דלא קאמר דלוי הוא:",
+              "ref": "Rashbam on Bava Batra 43b:4:2",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ד:ב",
+              "sourceRef": "Rashbam on Bava Batra 43b:4:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומקשינן אכתי אמאי אינו מעיד לו עליה</strong> - מה מפסיד שמעון אם תהיה בחזקת יהודה והא בההוא זכותא דקמפיק לה מלוי היום ולמחר דקמייתי עדים ששדה שלו היא וגזלה ראובן ממנו ה\"נ ליפקה מיהודה בהנהו עדים עצמן ונמצא שאין מרויח במה שמעיד ללוי כלל:",
+              "ref": "Rashbam on Bava Batra 43b:4:3",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ד:ג",
+              "sourceRef": "Rashbam on Bava Batra 43b:4:3"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "17. If Reuven stole a garment or field from Shimon, and Yehuda brought a claim against Reuven saying that this field or garment is his, Shimon would not be able to testify that this is not Yehuda’s field or garment because Shimon just wants the field or garment to remain in Reuven’s possession because it might be easier to remove it from Reuven’s possession than it would be to remove it from Yehuda’s possession. Similarly, if Reuven sold or bequeathed the stolen field to Levi and Yehuda brings a claim against Levi, Shimon cannot testify that it does not belong to Yehuda. If Shimon sold the stolen garment to Levi, Shimon gave up on reclaiming it and Yehuda brings a claim against Levi, Shimon may testify that it is not Yehuda’s if Reuven had died because this garment will never go back to Shimon since the buyer already acquired it with the giving up of hope and the transfer of possession and Reuven the thief had died, so there is no one to collect the money from. If, however, Reuven was still alive, Shimon may not even testify on the garment because there is a benefit to him for the garment not to go to Yehuda so that he can bring a proof that Reuven stole it and Reuven will have to pay. Similarly, if the garment was in the possession of Reuven’s inheritors, Shimon may not testify because it will eventually go back to Shimon if the inheritors can maintain possession. The same applies to anything similar. Even in a case where Reuven died, Shimon may only testify if the sale was unsecured. If, however, the sale was secured, Reuven’s estate would be liable and thus Shimon has a stake in the testimony. Now that the rabbis have instituted that a creditor may even collect from a moveable item, a victim of theft may not even testify in a case where the thief died and the sale was unsecured because the victim still has a stake in the testimony. <i>RAMA: This all applies only where Shimon wants to testify that the field or garment does not belong to Yehuda. If, however, he wants to testify that it belongs to Reuven, he may testify in every case because once he confesses that it belongs to Reuven he can no longer bring a claim that it is his. Thus, he does not have a stake in the testimony. (Tur)</i>",
+              "he": "ראובן שגזל טלית או שדה משמעון ובא יהודה וערער על ראובן ואמר שדה זו או טלית זו שלי היא אין שמעון יכול להעיד שאין זו השדה והטלית של יהודה שהרי שמעון רוצה להעמיד שדה זו או טלית זו ביד ראובן מפני שאפשר שנוח לו להוציאה מיד ראובן יותר מלהוציאה מיד יהודה וכן אם מכר ראובן השדה הגזולה או הורישה ללוי ובא יהודה לערער על לוי אין שמעון מעיד שאינה של יהודה ואם מכר הטלית הגזולה ללוי ונתייאש שמעון ממנה ובא יהודה לערער על לוי אם מת ראובן שמעון מעיד עליה שאינה של יהודה שהרי אין טלית זו חוזרת לשמעון לעולם שכבר קנאה הלוקח ביאוש ושינוי רשות וכבר מת ראובן הגזלן ואין לו ממי ליטול דמיה אבל אם עדיין ראובן קיים אין שמעון מעיד אף על הטלית שהנאה הוא לו שלא תעמוד ביד יהודה כדי שיביא ראיה שראובן גזלה וישלם דמיה וכן אם היתה הטלית ביד יורשי ראובן אין שמעון מעיד עליה מפני שסופ' שאם תעמוד ביד היורש לחזור לו וכן כל כיוצא בזה ואפי' כשמת דדוקא שלא הניח אחריו' נכסים אבל אם הניח אחריות נכסים חייב ונמצא שזה נוגע בעדות והאידנ' דתקינו רבנן לבעל חוב ליגבי אפי' ממטלטלי דיתמי אע\"פ שמת הגזלן ולא הניח אחריות נכסים אין הנגזל מעיד לו דאכתי נוגע בעדות הוא: <span class=\"hebrew-emphasis\">הגה וכל זה ששמעון לא בא להעיד רק שהשדה או הטלית אינו של יהודה אבל אם בא להעיד שהוא של ראובן בכל ענין יכול להעיד שכיון שהודה על הדבר שהוא של ראובן שוב אינו יכול לערער עליו ולומר שהוא שלו ואינו נוגע בעדות (טור): </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 37:17",
+              "sourceHeRef": "חושן משפט לז:יז - הפסולים מחמת הנאה",
+              "sourceRef": "Choshen Mishpat 37:17"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>וכיון דאסהיד ליה</b> <span class=\"hebrew-emphasis\">[שהעיד לו]</span> לשדה זו כי של <b>לוי הוא, היכי מצי מפיק לה מיניה</b> <span class=\"hebrew-emphasis\">[כיצד יוכל להוציא אותה</span> לבסוף <span class=\"hebrew-emphasis\">ממנו]?</span> ומשיבים: מדובר במקרה ש<b>אמר</b> בעדותו לטובת לוי: <b>ידענא דהאי ארעא דלאו</b> <span class=\"hebrew-emphasis\">[יודע אני שקרקע זו לא]</span> של <b>יהודה היא,</b> אבל אינו מעיד במפורש שהיא של לוי, וכך יש לו אפשרות להוציא את הקרקע מיד לוי. ושואלים: <b>ובההוא זכותא דקא מפיק לה</b> <span class=\"hebrew-emphasis\">[ובאותה זכות שהוא מוציא אותה]</span> <b>מלוי, ליפקה</b> <span class=\"hebrew-emphasis\">[שיוציא אותה]</span> <b>מיהודה</b> עצמו, ומדוע נחשוד בו שהוא נוגע בדבר כאשר מעיד לטובת לוי?",
+              "ref": "Steinsaltz on Bava Batra 43b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ג ב:ד",
+              "sourceRef": "Steinsaltz on Bava Batra 43b:4"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ההנחה היתה ששמעון מעיד ללוי ששדה זו אכן שייכת ללוי. אולם מאחר שהוא עצמו מעיד כן — שוב אין בידו להוציא את השדה מידי לוי, שהרי עדותו היא עצמה כהודאה. וכבר נפסקה הלכה שאף במקרה שאינו מעיד במפורש שוב אינו יכול לערער (ראה כתובות קט,א).",
+              "ref": "Steinsaltz comment #1 on Bava Batra 43b:4",
+              "sourceHeRef": "וכיון דאסהיד דלוי וכו'",
+              "sourceRef": ""
+            },
+            {
+              "en": "",
+              "he": "כלומר, מה מרוויח שמעון במה שמעיד ללוי? הרי אם יש בידו עדות שהשדה שייך לו, יכול להוציאו מיהודה כדרך שמוציאו מלוי (רשב\"ם). והרשב\"א כתב כי באמת אין קושיה זו מוכרחת, לפי שאפשר לצייר כמה וכמה אפשרויות שבהן יכול שמעון להוציא מלוי ואינו יכול להוציא מיהודה, כגון שיש לו עדים הקרובים ליהודה ואינם קרובים ללוי, או שיש לו עדים שגזל ממנו ראובן ואין לו עדים לגבי בעלות השדה בשנים שקדמו לכך. אלא הגמרא רוצה לברר את הדין אפילו במקרה כזה כאשר אין לכאורה הבדל ממי מוציא. והר\"נ הוסיף כי מכאן גם למדנו שאף בחשש של \"השני נוח לי\" וכו' יש לחשוש לנגיעה בעדות.",
+              "ref": "Steinsaltz comment #2 on Bava Batra 43b:4",
+              "sourceHeRef": "ובההוא זכותא וכו'",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>וכיון דאסהיד דלוי הוא כולי—But since he is testifying that it belongs to <i>Levi</i>, etc.</b><br><br>O<small>VERVIEW</small><br>The גמרא is discussing a case where ראובן stole a field from שמעון and sold it to לוי. Afterwards יהודה comes and claims that it is his field, the rule is that שמעון cannot testify on behalf of לוי against יהודה (for he is a נוגע בדבר). The גמרא asks if שמעון will testify that it belongs to לוי, how will שמעון be able to dislodge לוי, since he testified already on his behalf. The גמרא offers an answer. תוספות offers an alternate answer.<br>----------------------------------<br>תוספות comments:<br><b>הוה מצי לשנויי כגון דאסהיד שמעון דשל אבותיו דלוי הוה –</b><br>The גמרא <b>could have answered that for instance שמעון testifies that</b> this property <b>belonged to</b> sלוי' <b>ancestors,</b> so it could not belong to יהודה –<br><b>ובתר הכי אתי שמעון וטעין דמלוי זבנה ואית ליה סהדי דראובן גזלה ממנו ומכרה ללוי:</b><br><b>And later</b> (after sיהודה' claim will be dismissed [based on sשמעון' testimony]), <b>שמעון will come and claim that he</b> (שמעון) subsequently <b>bought it from לוי, and</b> שמעון <b>will produce witnesses that ראובן stole it from him and sold it</b> back <b>to לוי.</b><br><br>S<small>UMMARY</small><br>שמעון can claim that it belonged to sלוי' ancestors (disqualifying יהודה) and later will claim that he (שמעון) bought it from לוי.<br><br>T<small>HINKING IT OVER</small><br>Is there any advantage in תוספות proposed answer over the sגמרא' actual answer? If there is, why indeed did the גמרא not answer in this manner?!",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 43b:4:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכיון דאסהיד דלוי הוא כו'</strong> - הוה מצי לשנויי כגון דאסהיד שמעון דשל אבותיו דלוי הוה ובתר הכי אתי שמעון וטעין דמלוי זבנה ואית ליה סהדי דראובן גזלה ממנו ומכרה ללוי:",
+              "ref": "Tosafot on Bava Batra 43b:4:1",
+              "sourceHeRef": "תוספות על בבא בתרא מ״ג ב:ד:א",
+              "sourceRef": "Tosafot on Bava Batra 43b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>But once</b> he <b>testified that</b> the field <b>is <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>’s, how is he able to</b> later <b>remove it from his</b> possession? The Gemara answers: This is referring to a case <b>where</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> <b>says</b> in his testimony: <b>I know that this land is not <span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Yehuda</span>’s,</b> but he did not explicitly testify that it belonged to <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>. He is therefore able to later claim it is his and not <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>’s. The Gemara asks: <b>But</b> why should he testify that it does not belong to <span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Yehuda</span>? <b>With that</b> same <b>right</b> by which he <b>removes</b> the land <b>from</b> the possession of <b><span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>, let him remove it from</b> the possession of <b><span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Yehuda</span>.</b> It is not to his advantage to lie in order to establish it in the possession of <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>, and his testimony should not be considered biased.",
+      "he": "וְכֵיוָן דְּאַסְהֵיד לֵיהּ <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">דְּלֵוִי</span> הוּא, הֵיכִי מָצֵי מַפֵּיק לַהּ מִינֵּיהּ? דְּאָמַר: יָדַעְנָא דְּהַאי אַרְעָא דְּלָאו דִּיהוּדָה הִיא. וּבְהָהוּא זְכוּתָא דְּקָא מַפֵּיק לַהּ מִלֵּוִי – לַיפְּקַהּ מִיהוּדָה?",
+      "ref": "Bava Batra 43b:4"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "The Gemara relates that there was <b>a certain</b> person <b>who said to another: What do you want,</b> i.e., what are you doing, <b>with this house</b> of mine? The other <b>said to him: I purchased it from you and I</b> worked and <b>profited</b> from <b>it</b> for the <b>years</b> necessary for establishing the <b>presumption</b> of ownership. The claimant <b>said to him: I was among the distant settlements,</b> and was unaware that you were residing in my house, which is why I did not lodge a protest.",
+                  "The one residing in the house <b>came before Rav Naḥman</b> for a judgment. Rav Naḥman <b>said to him: Go clarify your profiting,</b> i.e., prove that you really resided there for three years, and then the case can be judged. <b>Rava said to</b> Rav Naḥman: Is <b>this the</b> correct <b>judgment?</b> The <i>halakha</i> is that <b>the burden of proof rests upon the claimant.</b> Therefore, the one who is attempting to take the house from the possessor should have to prove that the other did not reside in the house.",
+                  "<b>And</b> the Gemara <b>raises a contradiction</b> between this statement <b>of Rava and</b> another statement <b>of Rava, and</b> it <b>raises a contradiction</b> between this statement <b>of Rav Naḥman and</b> another statement <b>of Rav Naḥman. As</b> there was <b>a certain</b> person"
+                ],
+                [
+                  "<b>who said to another: I</b> am hereby <b>selling to you all</b> of the <b>property</b> that I own <b>of the house of bar Sisin. There was a certain</b> parcel of <b>land that was called: Of the house of bar Sisin.</b> The seller <b>said to</b> the buyer: <b>This</b> parcel of land that I own is <b>not</b> actually <b>of the house of bar Sisin, and it is</b> merely <b>called: Of the house of bar Sisin,</b> and it is not included in the sale. <b>They came before Rav Naḥman</b> for judgment, and <b>he established</b> the land <b>in the possession of the buyer. Rava said to</b> Rav Naḥman: Is <b>this the <i>halakha</i>?</b> Isn’t the <i>halakha</i> that <b>the burden of proof rests upon the claimant,</b> and the land should remain in the possession of the seller?",
+                  "The Gemara continues: There is <b>a difficulty</b> from one statement <b>of Rava to</b> another statement <b>of Rava,</b> and there is also <b>a difficulty</b> from one statement <b>of Rav Naḥman to</b> another statement <b>of Rav Naḥman,</b> as in the first case, where the claimant states that he had been in a distant location, Rav Naḥman ruled in favor of the claimant, and Rava ruled in favor of the possessor; while in the second case, that of the property of bar Sisin, their opinions were reversed.",
+                  "The Gemara answers: The contradiction between one statement <b>of Rava and</b> another statement <b>of Rava</b> is <b>not difficult,</b> because <b>there,</b> in the case of the property of bar Sisin, the <b>seller</b> had been <b>established</b> as having the land <b>in his property,</b> which is why Rava rules in his favor. But <b>here,</b> in the case where the claimant states that he had been in a distant location, the <b>buyer</b> is <b>established</b> as having the house <b>in his property.</b>",
+                  "The contradiction between one statement <b>of Rav Naḥman and</b> the other statement <b>of Rav Naḥman</b> is <b>not difficult as well,</b> because there, <b>since</b> the seller <b>said to him:</b> I am hereby selling you all of the property that I own <b>of the house of bar Sisin, and</b> this parcel of land is <b>called: Of the house of bar Sisin,</b> it is <b>incumbent on him to reveal that</b> the parcel under dispute is <b>not of the house of bar Sisin. But here,</b> in the case where the claimant states that he had been in a distant location, it <b>should not be</b> any <b>different</b> from a case <b>where</b> the possessor is <b>holding a document</b> as evidence that he purchased the house. <b>Wouldn’t we</b> then <b>say to him:</b> First <b>ratify your document, and</b> only then be <b>established in</b> the <b>property?</b> In this case as well, since his presumptive ownership is in place of a document, he needs to clarify the matter by means of witnesses.",
+                  "There was <b>a certain</b> person <b>who said to another: What do you want with this house</b> of mine? The possessor <b>said to him: I purchased it from you and I</b> worked and <b>profited from it</b> for <b>the years</b> necessary for establishing the <b>presumption</b> of ownership. The claimant <b>said to</b> him: <b>I was in</b> the <b>outer marketplaces,</b> and was unaware that you were residing in my house, and therefore did not lodge a protest, so your profiting does not establish the presumption of ownership. The possessor <b>said to him: But I have witnesses that every year you would come</b> here for <b>thirty days</b> and had an opportunity to know that I was residing in your house and to lodge a protest. The claimant <b>said to him: I was occupied with</b> my business in the <b>marketplaces</b> for those <b>thirty days. Rava said: A person is apt</b> to be <b>occupied</b> with business <b>in the marketplace for all</b> of <b>thirty days,</b> and accepted his claim.",
+                  "There was <b>a certain</b> person <b>who said to another: What do you want with this land</b> of mine? The possessor <b>said to him: I purchased it from so-and-so, who told me that he purchased it from you.</b> The claimant <b>said to him: Don’t you concede</b>"
+                ],
+                [
+                  "<b>that this land is</b> formerly <b>mine, and</b> that <b>you</b> did <b>not purchase it from me? Go</b> away; <b>I am not legally answerable to you. Rava said:</b> The claimant <b>stated the <i>halakha</i> to</b> the possessor, as this is a legitimate claim, and Rava accepted his claim.",
+                  "There was <b>a certain</b> person <b>who said to another: What do you want with this land</b> of mine? The possessor <b>said to him: I purchased it from so-and-so and</b> then <b>I</b> worked and <b>profited from it</b> for <b>the years</b> necessary for establishing the <b>presumption</b> of ownership. The claimant <b>said to him: So-and-so is a robber</b> who robbed me of the field, and he did not have the authority to sell it to you.",
+                  "The possessor <b>said to him: But I have witnesses that I came</b> and <b>consulted with you, and you said to me: Go purchase</b> the land, indicating that you conceded that he had the authority to sell it. The claimant <b>said to him:</b> The reason that I advised you to purchase it was because <b>the second</b> person, i.e., you, the possessor, <b>is amenable to me,</b> while <b>the first,</b> i.e., the purported thief, <b>is more difficult than he,</b> i.e., I prefer to litigate with you rather than with him. <b>Rava said:</b> The claimant <b>stated the <i>halakha</i> to</b> the possessor, as this is a legitimate claim, and Rava accepted his claim.",
+                  "The Gemara asks: <b>In accordance with whose</b> opinion is Rava’s statement? Is it <b>in accordance with</b> the opinion of <b>Admon? As we learned</b> in a mishna (<i>Ketubot</i> 109a): With regard to <b>one who contests</b> ownership <b>of a field,</b> claiming that a field possessed by someone else actually belongs to him, <b>and</b> the claimant himself <b>is signed as a witness on</b> the bill of sale of the field to that other person, <b>Admon says:</b> His signature does not disprove his claim of ownership of the property, as it is possible that the claimant said to himself: <b>The second</b> person <b>is amenable to me</b> to deal with, as I can reason with him, while <b>the first</b> owner, who sold the field to the current possessor, <b>is more difficult</b> to deal with <b>than he. And the Rabbis say: He lost his right</b> to contest, as he signed a bill of sale that states that the field belongs to the possessor. Rava’s ruling appears to be in accordance with the individual opinion of Admon, and not with the opinion of the Rabbis.",
+                  "The Gemara explains: <b>You</b> may <b>even say</b> that Rava’s ruling is <b>in accordance with</b> the opinion of <b>the Rabbis. There,</b> in the case of the mishna in tractate <i>Ketubot</i>, by signing the bill of sale the claimant <b>performed an action</b> indicating that the field was not his <b>for</b> the benefit of the possessor of the field, <b>but here,</b> in Rava’s case, there was no action, only <b>speech,</b> and <b>a person is apt to casually say</b> statements, and he does not lose his right by virtue of this.",
+                  "There was <b>a certain</b> person <b>who said to another: What do you want with this land</b> of mine? The possessor <b>said to him: I purchased it from so-and-so and</b> then <b>I</b> worked and <b>profited from it</b> for <b>the years</b> necessary for establishing the <b>presumption</b> of ownership. The claimant <b>said to him: So-and-so is a robber</b> who robbed me of the field, and he did not have the authority to sell it to you. The possessor <b>said to him: But I have witnesses that you came</b> to me <b>at night and you said to me: Sell it to me,</b> indicating that it is not your land, as if it were yours, you would have demanded that I return it without your paying for it. The claimant <b>said to him: I said</b> to myself: Let me <b>purchase</b> the benefit of avoiding <b>my litigation</b> in order to reclaim my land. <b>Rava said: A person is apt</b> to pay money <b>to purchase</b> the benefit of avoiding <b>his litigation.</b>",
+                  "There was <b>a certain</b> person <b>who said to another: What do you want with this land</b> of mine? The possessor <b>said to him: I purchased it from so-and-so and</b> then <b>I</b> worked and <b>profited from it</b> for <b>the years</b> necessary for establishing the <b>presumption</b> of ownership, indicating that he possessed it for three years, as this is the minimum number of years required for establishing the presumption of ownership. The claimant <b>said to him: But I am holding a document</b> stating <b>that I purchased it from</b> that seller <b>four years</b> ago. Therefore, if it was sold to you three years ago, as you claim, he did not have the authority to sell it at that time.",
+                  "The possessor <b>said to him: Do you maintain</b> that when I said: I profited from the land for <b>the years</b> necessary <b>for</b> establishing the <b>presumption</b> of ownership, that <b>I was saying</b> I worked and profited from the land for precisely <b>three years?</b> What <b>I</b> actually <b>was saying</b> was that I worked and profited from the land for <b>many years</b> and thereby established the <b>presumption</b> of ownership. Since my purchase predated yours, it was effective. <b>Rava said:</b> It is <b>common</b> for <b>people to refer to many years</b> as: <b>Years</b> necessary for establishing the <b>presumption</b> of ownership, and his claim is accepted.",
+                  "The Gemara comments: <b>And this matter</b> applies <b>only</b> if <b>he profited</b> from the land for <b>seven</b> years, so <b>that presumptive</b> ownership <b>of this</b> possessor <b>preceded the document of that</b> claimant."
+                ],
+                [
+                  "<b>But</b> if he profited from the land for only <b>six</b> years, so that the sale to the claimant took place before the years necessary for establishing the presumption of ownership were completed, <b>you</b> can <b>have no greater protest than this,</b> that the purported seller then sold the land to another. By doing so he indicated that he does not concede that the possessor was the rightful owner, and the possessor should have been careful to hold on to his bill of sale for even longer than three years.",
+                  "There was an incident where two people disputed the ownership of land. <b>This</b> one <b>says:</b> The land <b>belonged to my ancestors</b> and I inherited it from them, <b>and that</b> one <b>says:</b> The land <b>belonged to my ancestors</b> and I inherited it from them. <b>This</b> one <b>brings witnesses that</b> the land <b>belonged to his ancestors, and that</b> one <b>brings witnesses that</b> he currently possesses the land and that he worked and <b>profited</b> from the land for <b>the years</b> necessary for establishing the <b>presumption</b> of ownership.",
+                  "<b>Rabba said:</b> The judgment is in favor of the possessor, due to the legal principle that if the judgment would have been decided in one’s favor had he advanced a certain claim, and he instead advanced a different claim that leads to the same ruling, he has credibility, as <b>why would he lie</b> and state this claim? <b>If</b> the possessor <b>wanted</b> to lie, he could have <b>said to</b> the claimant: <b>I purchased</b> the land <b>from you and I</b> worked and <b>profited from it</b> for <b>the years</b> necessary for establishing the <b>presumption</b> of ownership, in which case he would have been awarded the land. <b>Abaye said to</b> Rabba: <b>We do not say</b> the principle of: <b>Why would I lie, in</b> a case <b>where</b> there are <b>witnesses</b> contradicting his current claim, as they testify that the land belonged to the ancestors of the claimant. Therefore, he should not be awarded the land.",
+                  "The possessor <b>then said to</b> the claimant: <b>Yes,</b> it is true that it had <b>belonged to your ancestors, but I purchased it from you, and</b> by stating <b>that which I said to you:</b> It <b>belonged to my ancestors,</b> I merely meant <b>that I rely upon</b> my ownership of <b>it as if</b> it belonged <b>to my ancestors,</b> as I purchased it and then profited from it for the years necessary for establishing the presumption of ownership.",
+                  "The Gemara asks: Can he <b>state a claim and return and state</b> a modified version of his <b>claim,</b> or can he <b>not state a claim and return and state</b> a modified version of his <b>claim? Ulla said:</b> He can <b>state a claim and return and state</b> a modified version of his <b>claim.</b> The Sages <b>of Neharde’a say:</b> He <b>cannot state a claim and return and state</b> a modified version of his <b>claim.</b>",
+                  "The Gemara clarifies their respective opinions: <b>And Ulla concedes</b> that in a case <b>where he</b> had initially <b>said to him:</b> The land <b>belonged to my ancestors and did not belong to your ancestors, that</b> he <b>cannot state a claim and return and state</b> a modified version of his <b>claim,</b> as Ulla allows the litigant only to reinterpret his initial claim, not to replace it with a contradictory claim. <b>And</b> Ulla also concedes that in a case <b>where he was standing in court and did not state</b> a particular <b>claim, and</b> he later <b>came in from outside</b> and back into the court <b>and</b> he <b>stated</b> that <b>claim,</b> that he <b>cannot return and state</b> that <b>claim. What is the reason</b> for this? It is because it is apparent that these <b>claims of his</b> were <b>taught to him</b> by someone after he left the court.",
+                  "<b>And</b> the Sages <b>of Neharde’a concede</b> that in a case <b>where</b> the litigant who changed his claim <b>said to</b> the other litigant that when he had initially claimed: The land belonged to my ancestors, he had actually meant: It <b>belonged to my ancestors, who purchased it from your ancestors,</b> that he can state a claim and <b>return and state</b> a modified version of his <b>claim,</b> as this serves only to clarify, and not negate, his initial claim. <b>And</b> the Sages of Neharde’a also concede that in a case <b>where</b> he <b>discussed</b> the <b>matter outside</b> of the court <b>and</b> did <b>not</b> state a particular <b>claim, and</b> then he <b>came</b> in <b>to</b> the <b>court and stated</b> that <b>claim, that</b> he can <b>return and state</b> that <b>claim. What is the reason</b> for this? Because <b>a person is apt not to reveal his claims except to</b> the <b>court.</b>",
+                  "<b>Ameimar said: I am</b> from <b>Neharde’a, but I</b> nevertheless <b>hold that</b> a litigant can <b>state a claim and return and state</b> a modified version of his <b>claim.</b> The Gemara concludes: <b>And the <i>halakha</i></b> is that a litigant can <b>state a claim and return and state</b> a modified version of his <b>claim.</b>",
+                  "In an incident where two people dispute the ownership of land, <b>this</b> one <b>says:</b> The land <b>belonged to my ancestors</b> and I inherited it from them, <b>and that</b> one <b>says:</b> The land <b>belonged to my ancestors</b> and I inherited it from them. The first one <b>brings witnesses that</b> the land <b>belonged to his ancestors, and</b> that he worked and <b>profited</b> from the land for <b>the years</b> necessary for establishing the <b>presumption</b> of ownership. <b>And</b> the second one <b>brings witnesses</b> only <b>that</b> he worked and <b>profited</b> from the land for <b>the years</b> necessary for establishing the <b>presumption</b> of ownership.",
+                  "<b>Rav Naḥman said: Establish</b> the testimony with regard to the <b>profiting</b> by the first litigant <b>alongside</b> the testimony with regard to the <b>profiting</b> by the second, and the two testimonies cancel each other out, leaving the testimony with regard to ownership by the ancestors of the first litigant. <b>And</b> therefore, <b>establish the land in</b> the <b>presumptive ownership of</b> the litigant who brought witnesses that it belonged to his <b>ancestors. Rava</b> objected and <b>said to him: This testimony</b> cannot be relied on, as it <b>is contradicted</b> by the other testimony. Rav Naḥman responded and <b>said to him: Although</b> it is so <b>that</b> the testimony <b>was contradicted with regard to profiting</b> from the land,"
+                ],
+                [
+                  "<b>was</b> the testimony <b>contradicted with regard to</b> ownership of <b>the ancestors?</b>",
+                  "The Gemara asks: <b>Shall we say that Rava and Rav Naḥman disagree in the dispute between Rav Huna and Rav Ḥisda?</b>",
+                  "<b>As</b> it <b>was stated</b> concerning <b>two groups of witnesses that contradict each other,</b> that <b>Rav Huna says: This</b> one <b>comes</b> to court <b>on its own and testifies, and that</b> one <b>comes</b> to court <b>on its own and testifies.</b> Despite the fact that one group certainly testified falsely, which should serve to disqualify one of the groups, each group is able to testify in another case. <b>And Rav Ḥisda says: Why do I</b> need <b>these lying witnesses?</b> In other words, they are all disqualified to testify in another case until it is clarified which of them had testified falsely. The Gemara asks: <b>Shall we say</b> that <b>Rav Naḥman</b> is the one <b>who says</b> his ruling <b>in accordance with</b> the opinion of <b>Rav Huna, and Rava</b> says his ruling <b>in accordance with</b> the opinion of <b>Rav Ḥisda?</b>",
+                  "The Gemara explains: <b>According to</b> the opinion <b>of Rav Ḥisda,</b> who holds that the witnesses are disqualified, <b>everyone agrees</b> that the testimony concerning ancestral ownership is not accepted, as the witnesses were contradicted concerning their testimony of usage of the land, and Rav Naḥman’s ruling cannot accord with his opinion. <b>When</b> Rav Naḥman and Rava <b>disagree</b> it is <b>according to</b> the opinion <b>of Rav Huna,</b> who does not disqualify the witnesses. The ruling of <b>Rav Naḥman</b> is <b>in accordance with</b> the opinion of <b>Rav Huna,</b> and he therefore accepts the testimony with regard to ancestral ownership, <b>and Rava</b> would say: <b>Rav Huna says</b> that the witnesses are accepted <b>only for another testimony,</b> i.e., in a different case. <b>But</b> they are <b>not</b> accepted <b>for the same testimony,</b> as in this incident, where both testimonies concerned ownership of the same land.",
+                  "The Gemara relates the continuation of the case above. The one who had brought witnesses only to his having profited from the land <b>then brought witnesses that it</b> had belonged <b>to his ancestors,</b> thereby balancing the evidence for the two litigants. Therefore, <b>Rav Naḥman said: We</b> previously <b>brought down</b> to the land the one who initially had evidence of ancestral ownership to take possession of it, and <b>we</b> now <b>bring him up</b> from it, removing him from the land. And <b>we</b> are <b>not concerned about</b> the possible <b>contempt of court</b> that might result from perceived indecisiveness.",
+                  "<b>Rava, and some say</b> it is <b>Rabbi Zeira, raises an objection</b> from a <i>baraita</i>. If there was a married man whose fate was unknown, and <b>two</b> witnesses <b>say:</b> This married man <b>died, and two</b> witnesses <b>say: He did not die;</b> or if <b>two</b> witnesses <b>say:</b> This woman <b>was divorced, and two</b> witnesses <b>say: She was not divorced, this</b> woman <b>may not marry,</b> as there is not unequivocal testimony that she is no longer married, <b>but if she marries,</b> the marriage is valid and <b>she</b> need <b>not leave</b> her husband. <b>Rabbi Menaḥem, son of Rabbi Yosei, says: She</b> must <b>leave</b> her husband.",
+                  "<b>Rabbi Menaḥem, son of Rabbi Yosei, said: When do I say</b> that <b>she</b> must <b>leave</b> her husband? She must leave him <b>in</b> a case <b>where witnesses came</b> to testify that she is still married <b>and she then married</b> despite their testimony. <b>But</b> if <b>she married and the witnesses then came</b> to testify that she is still married, <b>this</b> woman is <b>not</b> required to <b>leave</b> her husband based on the uncertainty created by contradictory witnesses. The fact that she is not required to leave her marriage in light of the new testimony seems to indicate an unwillingness to reverse the court’s ruling that she may marry, contrary to the ruling of Rav Naḥman.",
+                  "Rav Naḥman <b>said to him: I</b> had <b>thought to perform an action</b> and reverse the court’s ruling, but <b>now that you raised an objection against me, and Rav Hamnuna</b> also <b>raised a</b> similar <b>objection against me in Syria,</b> I will <b>not perform an action in this</b> matter.",
+                  "The Gemara relates that Rav Naḥman then <b>went out</b> and <b>performed an action,</b> taking away the land from the litigant in whose favor he had previously ruled. <b>One who saw</b> what he did <b>thought</b> that <b>he</b> made <b>a mistake, but</b> that <b>is not so. Rather,</b> he performed an action despite the objections that had been raised <b>because</b> the matter <b>depends on great authorities [<i>ashlei ravrevei</i>].</b> Since, as the Gemara will demonstrate, this issue is subject to dispute between great authorities, he relied on those that supported his opinion.",
+                  "<b>As we learned</b> in a mishna (<i>Ketubot</i> 23b): <b>Rabbi Yehuda says: One is not elevated to the</b> presumptive status of <b>priesthood on the basis</b> of the testimony <b>of one witness.</b> Two witnesses are required for that purpose. <b>Rabbi Elazar says: When</b> is that the <i>halakha</i>? <b>In</b> a case <b>where there are challengers</b> to his claim that he is a priest. <b>But in</b> a case <b>where there are no challengers, one is elevated to the</b> presumptive status of <b>priesthood on the basis</b> of the testimony <b>of one witness. Rabban Shimon Ben Gamliel says in the name of Rabbi Shimon, son of the deputy</b> High Priest: <b>One is elevated to the</b> presumptive status of <b>priesthood on the basis</b> of the testimony <b>of one witness.</b>",
+                  "The Gemara asks: The opinion of <b>Rabban Shimon Ben Gamliel is</b> identical to the opinion of <b>Rabbi Elazar,</b> as they agree that one is elevated to the presumptive status of priesthood on the basis of one witness when there are no challengers. What is their dispute? <b>And if you would say</b> that <b>there is</b> a practical difference <b>between them</b> in a case where there is <b>a challenge</b> posed by <b>one</b> person, as <b>Rabbi Elazar holds: A challenge</b> posed by <b>one</b> person is sufficient to undermine one’s presumptive status of priesthood, and two witnesses are required to overcome that challenge;"
+                ],
+                [
+                  "<b>and Rabban Shimon Ben Gamliel holds</b> that an effective <b>challenge</b> requires <b>two</b> witnesses, one could then ask: <b>But doesn’t Rabbi Yoḥanan say: Everyone agrees</b> that <b>there is no</b> effective <b>challenge</b> with <b>fewer than two</b> witnesses?",
+                  "<b>Rather,</b> the <b>challenge</b> was established by <b>two</b> witnesses. <b>And with what are we dealing here?</b> We are dealing with a case <b>where we presume with regard to the father of that</b> man <b>that he is a priest, and a rumor emerged about</b> the son <b>that he is the son of</b> a priest and <b>a divorced woman, or the son of</b> a priest and <b>a <i>ḥalutza</i>, and we downgraded him</b> from the presumptive status of priesthood based on that rumor, <b>and one witness came and said that</b> the man in question <b>is a priest</b> of unflawed lineage, <b>and we elevated</b> him back to the priesthood, as one witness is sufficient to negate a rumor.",
+                  "The Gemara continues the case: <b>And</b> then <b>two</b> witnesses <b>came and said that he is the son of a divorced woman or</b> the son of <b>a <i>ḥalutza</i>, and we downgraded him</b> from the priesthood based on their testimony. Then <b>one witness came and said that he is a priest</b> of unflawed lineage, resulting in two witnesses testifying that his lineage is unflawed, and two testifying that it is flawed. <b>And everyone</b> agrees that the <b>testimony</b> of the two single witnesses <b>combine</b> to produce testimony that he is a priest of unflawed lineage, and his presumptive status of priesthood should be restored.",
+                  "The Gemara explains the dispute: <b>And here</b> it is <b>with regard to concern about contempt of court</b> that <b>they disagree. Rabbi Elazar holds: Once we downgraded him</b> from the presumptive status of priesthood based on the testimony of two witnesses, <b>we do not</b> then <b>elevate him,</b> as <b>we are concerned about contempt of court,</b> as a reversal in the court’s decision creates the impression that the court operates indecisively. <b>And Rabban Shimon Ben Gamliel holds: We downgraded him</b> from the presumptive status of priesthood <b>and we</b> then <b>elevate him, and we are not concerned about contempt of court.</b> The primary concern is that the matter should be determined based on the relevant testimonies.",
+                  "<b>Rav Ashi objects to</b> the analysis that they disagree with regard to concern about contempt of court: <b>If so, why specifically</b> is it necessary to establish the dispute in a case where first <b>one</b> witness testified as to his unflawed lineage, and then another testified later? <b>The same would hold true even in</b> a case where two witnesses testified together that he is unfit for the priesthood and the court downgraded him, and <b>two</b> witnesses testified together that he is fit for the priesthood and the court elevated him. The <i>tanna’im</i> would <b>also</b> disagree, as the same concern applies. <b>Rather, Rav Ashi said: Everyone</b> agrees that <b>we are not concerned about contempt of court. And here,</b> it is <b>with regard to</b> whether the court is able <b>to combine</b> the <b>testimony</b> of two single witnesses that <b>they disagree, and</b> it is <b>with regard to</b> the issue that is the subject of <b>the</b> following <b>dispute between these <i>tanna’im</i>.</b>",
+                  "<b>As it is taught</b> in a <i>baraita</i> (<i>Tosefta</i>, <i>Sanhedrin</i> 5:5): The <b>testimony</b> of individual witnesses <b>never combines unless</b> it is so <b>that the two of them see</b> the incident transpire together <b>as one. Rabbi Yehoshua ben Korḥa says:</b> Their testimony combines <b>even in</b> a case where they witnessed the event <b>one after the other,</b> but <b>their testimony is established in court only</b> if it is so <b>that the two of them testify</b> together <b>as one. Rabbi Natan says:</b> They are not required to testify together. Their testimony is combined even if the court <b>hears the statement of this</b> witness <b>today and when the other</b> witness <b>arrives tomorrow</b> the court <b>hears his statement.</b> Rabbi Elazar and Rabban Shimon ben Gamliel disagree in the dispute between Rabbi Natan and the Rabbis, whether the separate testimonies can be combined."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Batra 29b:9",
+                "Bava Batra 29b:10",
+                "Bava Batra 29b:11",
+                "Bava Batra 30a:1",
+                "Bava Batra 30a:2",
+                "Bava Batra 30a:3",
+                "Bava Batra 30a:4",
+                "Bava Batra 30a:5",
+                "Bava Batra 30a:6",
+                "Bava Batra 30b:1",
+                "Bava Batra 30b:2",
+                "Bava Batra 30b:3",
+                "Bava Batra 30b:4",
+                "Bava Batra 30b:5",
+                "Bava Batra 30b:6",
+                "Bava Batra 30b:7",
+                "Bava Batra 30b:8",
+                "Bava Batra 30b:9",
+                "Bava Batra 31a:1",
+                "Bava Batra 31a:2",
+                "Bava Batra 31a:3",
+                "Bava Batra 31a:4",
+                "Bava Batra 31a:5",
+                "Bava Batra 31a:6",
+                "Bava Batra 31a:7",
+                "Bava Batra 31a:8",
+                "Bava Batra 31a:9",
+                "Bava Batra 31a:10",
+                "Bava Batra 31b:1",
+                "Bava Batra 31b:2",
+                "Bava Batra 31b:3",
+                "Bava Batra 31b:4",
+                "Bava Batra 31b:5",
+                "Bava Batra 31b:6",
+                "Bava Batra 31b:7",
+                "Bava Batra 31b:8",
+                "Bava Batra 31b:9",
+                "Bava Batra 31b:10",
+                "Bava Batra 31b:11",
+                "Bava Batra 32a:1",
+                "Bava Batra 32a:2",
+                "Bava Batra 32a:3",
+                "Bava Batra 32a:4",
+                "Bava Batra 32a:5",
+                "Bava Batra 32a:6"
+              ],
+              "he": [
+                [
+                  "הָהוּא דַּאֲמַר לֵיהּ לְחַבְרֵיהּ: מַאי בָּעֵית בְּהַאי בֵּיתָא? אֲמַר לֵיהּ: מִינָּךְ זְבֵינְתֵּיהּ, וַאֲכַלִית שְׁנֵי חֲזָקָה. אֲמַר לֵיהּ: אֲנָא בִּשְׁכוּנֵי גַּוּוֹאֵי הֲוַאי.",
+                  "אֲתָא לְקַמֵּיהּ דְּרַב נַחְמָן, אֲמַר לֵיהּ: זִיל בְּרוֹר אֲכִילְתָךְ. אֲמַר לֵיהּ רָבָא: הָכִי דִּינָא?! הַמּוֹצִיא מֵחֲבֵירוֹ עָלָיו הָרְאָיָה!",
+                  "וְרָמֵי דְּרָבָא אַדְּרָבָא, וְרָמֵי דְּרַב נַחְמָן אַדְּרַב נַחְמָן – דְּהָהוּא"
+                ],
+                [
+                  "דַּאֲמַר לֵיהּ לְחַבְרֵיהּ: כׇּל נִכְסֵי דְּבֵי בַּר סִיסִין – מְזַבֵּינָא לָךְ. הֲוַאי הָהִיא אַרְעָא דַּהֲוָה מִיקְּרֵי ״דְּבֵי בַּר סִיסִין״. אֲמַר לֵיהּ: הָא לָאו דְּבֵי בַּר סִיסִין הִיא, וְאִיקְּרוֹיֵי הוּא דְּמִיקַּרְיָא ״דְּבֵי בַּר סִיסִין״. אֲתוֹ לְקַמֵּיהּ דְּרַב נַחְמָן, אוֹקְמָא בִּידָא דְלוֹקֵחַ. אֲמַר לֵיהּ רָבָא: דִּינָא הָכִי?! הַמּוֹצִיא מֵחֲבֵירוֹ עָלָיו הָרְאָיָה!",
+                  "קַשְׁיָא דְּרָבָא אַדְּרָבָא, קַשְׁיָא דְּרַב נַחְמָן אַדְּרַב נַחְמָן.",
+                  "דְּרָבָא אַדְּרָבָא לָא קַשְׁיָא – הָתָם מוֹכֵר קָאֵי בְּנִכְסֵיהּ, הָכָא לוֹקֵחַ קָאֵי בְּנִיכְסֵיהּ.",
+                  "דְּרַב נַחְמָן אַדְּרַב נַחְמָן נָמֵי לָא קַשְׁיָא – כֵּיוָן דַּאֲמַר לֵיהּ: דְּבֵי בַּר סִיסִין, וּמִיקַּרְיָא ״דְּבֵי בַּר סִיסִין״, עֲלֵיהּ דִּידֵיהּ רַמְיָא לְגַלּוֹיֵי דְּלָאו דְּבֵי בַּר סִיסִין הִיא; אֲבָל הָכָא, לֹא יְהֵא אֶלָּא דְּנָקֵיט שְׁטָרָא – מִי לָא אָמְרִינַן לֵיהּ: קַיֵּים שְׁטָרָךְ וְקוּם בְּנִיכְסֵי?",
+                  "הָהוּא דַּאֲמַר לֵיהּ לְחַבְרֵיהּ: מַאי בָּעֵית בְּהַאי בֵּיתָא? אֲמַר לֵיהּ: מִינָּךְ זְבֵנְתֵּיהּ, וַאֲכַלְתֵּיהּ שְׁנֵי חֲזָקָה. אֲמַר לֵיהּ: בְּשׁוּקֵי בָּרָאֵי הֲוַאי. אֲמַר לֵיהּ: וְהָא אִית לִי סָהֲדִי דְּכֹל שַׁתָּא הֲוָה אָתֵית תְּלָתִין יוֹמֵי! אֲמַר לֵיהּ: תְּלָתִין יוֹמֵי – בְּשׁוּקַאי הֲוָה טְרִידְנָא. אָמַר רָבָא: עֲבִיד אִינִישׁ דְּכֹל תְּלָתִין יוֹמֵי טְרִיד בְּשׁוּקָא.",
+                  "הָהוּא דְּאָמַר לֵיהּ לְחַבְרֵיהּ: מַאי בָּעֵית בְּהַאי אַרְעָא? אֲמַר לֵיהּ: מִפְּלָנְיָא זְבֵינְתַּהּ, דְּאָמַר לִי דְּזַבְנַהּ מִינָּךְ. אֲמַר לֵיהּ: אַתְּ לָאו קָא מוֹדֵית"
+                ],
+                [
+                  "דְּהַאי אַרְעָא דִּידִי הִיא, וְאַתְּ לָא זְבֵינְתַּהּ מִינַּאי? זִיל, לָאו בַּעַל דְּבָרִים דִּידִי אַתְּ. אָמַר רָבָא: דִּינָא קָאָמַר לֵיהּ.",
+                  "הָהוּא דְּאָמַר לֵיהּ לְחַבְרֵיהּ: מַאי בָּעֵית בְּהַאי אַרְעָא? אֲמַר לֵיהּ: מִפְּלָנְיָא זְבֵינְתַּהּ, וַאֲכַלְתִּיהָ שְׁנֵי חֲזָקָה. אֲמַר לֵיהּ: פְּלָנְיָא גַּזְלָנָא הוּא.",
+                  "אֲמַר לֵיהּ: וְהָא אִית לִי סָהֲדִי דַּאֲתַאי אִימְּלַכִי בָּךְ, וַאֲמַרְתְּ לִי: ״זִיל זְבֹין״! אֲמַר לֵיהּ: הַשֵּׁנִי נוֹחַ לִי; הָרִאשׁוֹן קָשֶׁה הֵימֶנּוּ. אָמַר רָבָא: דִּינָא קָאָמַר לֵיהּ.",
+                  "כְּמַאן, כְּאַדְמוֹן? דִּתְנַן: הָעוֹרֵר עַל הַשָּׂדֶה וְחָתוּם עָלֶיהָ בְּעֵד – אַדְמוֹן אוֹמֵר: הַשֵּׁנִי נוֹחַ לִי; הָרִאשׁוֹן קָשֶׁה הֵימֶנּוּ. וַחֲכָמִים אוֹמְרִים: אִיבֵּד אֶת זְכוּתוֹ.",
+                  "אֲפִילּוּ תֵּימָא רַבָּנַן – הָתָם עֲבַד לֵיהּ מַעֲשֶׂה; אֲבָל הָכָא דִּבּוּרָא – עֲבִיד אִינִישׁ דְּמִיקְּרֵי וְאָמַר.",
+                  "הָהוּא דְּאָמַר לֵיהּ לְחַבְרֵיהּ: מַאי בָּעֵית בְּהַאי אַרְעָא? אֲמַר לֵיהּ: מִפְּלָנְיָא זְבֵינְתַּהּ, וַאֲכַלְתִּיהָ שְׁנֵי חֲזָקָה. אֲמַר לֵיהּ: פְּלָנְיָא גַּזְלָנָא הוּא! אֲמַר לֵיהּ: וְהָא אִית לִי סָהֲדִי דַּאֲתֵית בְּאוּרְתָּא, וַאֲמַרְתְּ לִי: זַבְנַהּ נִיהֲלִי! אֲמַר לֵיהּ: אָמֵינָא אֶיזְבּוֹן דִּינַאי. אָמַר רָבָא: עֲבִיד אִינִישׁ דְּזָבֵין דִּינֵיהּ.",
+                  "הָהוּא דַּאֲמַר לֵיהּ לְחַבְרֵיהּ: מַאי בָּעֵית בְּהַאי אַרְעָא? אֲמַר לֵיהּ: מִפְּלָנְיָא זְבֵינְתַּהּ, וַאֲכַלְתִּיהָ שְׁנֵי חֲזָקָה. אֲמַר לֵיהּ: וְהָא נְקִיטְנָא שְׁטָרָא דִּזְבַנִי לַיהּ מִינֵּיהּ הָא אַרְבְּעִי שְׁנֵי!",
+                  "אֲמַר לֵיהּ: מִי סָבְרַתְּ ״שְׁנֵי חֲזָקָה״ – תְּלָת שְׁנֵי קָא אָמֵינָא?! שְׁנֵי חֲזָקָה טוּבָא קָא אָמֵינָא. אָמַר רָבָא: עֲבִידִי אִינָשֵׁי דְּקָרוּ לִשְׁנֵי טוּבָא ״שְׁנֵי חֲזָקָה״.",
+                  "וְהָנֵי מִילֵּי דְּאַכְלַהּ שְׁבַע – דִּקְדֵים חֲזָקָה דְהַאי לִשְׁטָרָא דְהָךְ;"
+                ],
+                [
+                  "אֲבָל שֵׁית – אֵין לְךָ מֶחָאָה גְּדוֹלָה מִזּוֹ.",
+                  "זֶה אוֹמֵר: ״שֶׁל אֲבוֹתַי״, וְזֶה אוֹמֵר: ״שֶׁל אֲבוֹתַי״; הַאי אַיְיתִי סָהֲדֵי דַּאֲבָהָתֵיהּ הִיא, וְהַאי אַיְיתִי סָהֲדֵי דְּאַכְלַהּ שְׁנֵי חֲזָקָה –",
+                  "אָמַר רַבָּה: מָה לוֹ לְשַׁקֵּר? אִי בָּעֵי אֲמַר לֵיהּ: מִינָּךְ זְבֵנְתַּהּ וַאֲכַלְתִּיהָ שְׁנֵי חֲזָקָה. אֲמַר לֵיהּ אַבָּיֵי: ״מָה לִי לְשַׁקֵּר״ בִּמְקוֹם עֵדִים – לָא אָמְרִינַן.",
+                  "הֲדַר אֲמַר לֵיהּ: אִין, דַּאֲבָהָתָךְ הִיא – וּזְבֵנְתַּהּ מִינָּךְ; וְהַאי דַּאֲמַרִי לָךְ דַּאֲבָהָתִי, דִּסְמִיךְ לִי עֲלַהּ כְּדַאֲבָהָתִי.",
+                  "טוֹעֵן וְחוֹזֵר וְטוֹעֵן, אוֹ אֵין טוֹעֵן וְחוֹזֵר וְטוֹעֵן? עוּלָּא אָמַר: טוֹעֵן וְחוֹזֵר וְטוֹעֵן. נְהַרְדָּעֵי אָמְרִי: אֵינוֹ טוֹעֵן וְחוֹזֵר וְטוֹעֵן.",
+                  "וּמוֹדֵי עוּלָּא הֵיכָא דַּאֲמַר לֵיהּ: שֶׁל אֲבוֹתַי וְלֹא שֶׁל אֲבוֹתֶיךָ – דְּאֵינוֹ טוֹעֵן וְחוֹזֵר וְטוֹעֵן. וְהֵיכָא דַּהֲוָה קָאֵי בֵּי דִינָא וְלָא טְעַן, וַאֲתָא מֵאַבָּרַאי וּטְעַן – אֵינוֹ חוֹזֵר וְטוֹעֵן. מַאי טַעְמָא? טַעְנְתֵיהּ אַגְמְרֵיהּ.",
+                  "וּמוֹדוּ נְהַרְדָּעֵי הֵיכָא דַּאֲמַר לֵיהּ: שֶׁל אֲבוֹתַי שֶׁלְּקָחוּהָ מֵאֲבוֹתֶיךָ – דְּחוֹזֵר וְטוֹעֵן. וְהֵיכָא דְּאִישְׁתַּעִי מִילֵּי אַבָּרַאי וְלָא טְעַן, וַאֲתָא לְבֵי דִינָא וּטְעַן – דְּחוֹזֵר וְטוֹעֵן. מַאי טַעְמָא? עֲבִיד אִינִישׁ דְּלָא מְגַלֵּי טַעְנְתֵיהּ אֶלָּא לְבֵי דִינָא.",
+                  "אָמַר אַמֵּימָר: אֲנָא נְהַרְדָּעָא אֲנָא, וּסְבִירָא לִי דְּטוֹעֵן וְחוֹזֵר וְטוֹעֵן. וְהִלְכְתָא: טוֹעֵן וְחוֹזֵר וְטוֹעֵן.",
+                  "זֶה אוֹמֵר: שֶׁל אֲבוֹתַי, וְזֶה אוֹמֵר: שֶׁל אֲבוֹתַי; הַאי אַיְיתִי סָהֲדֵי דַּאֲבָהָתֵיהּ וְאַכְלַהּ שְׁנֵי חֲזָקָה, וְהַאי אַיְיתִי סָהֲדֵי דְּאַכְלַהּ שְׁנֵי חֲזָקָה.",
+                  "אָמַר רַב נַחְמָן: אוֹקִי אֲכִילָה לְבַהֲדֵי אֲכִילָה, וְאוֹקִי אַרְעָא בְּחֶזְקַת אֲבָהָתָא. אֲמַר לֵיהּ רָבָא: הָא עֵדוּת מוּכְחֶשֶׁת הִיא! אֲמַר לֵיהּ: נְהִי דְּאִיתַּכְחַשׁ בַּאֲכִילְתָה,"
+                ],
+                [
+                  "בַּאֲבָהָתָא מִי אִתַּכְחַשׁ?!",
+                  "לֵימָא רָבָא וְרַב נַחְמָן – בִּפְלוּגְתָּא דְּרַב הוּנָא וְרַב חִסְדָּא קָמִיפַּלְגִי?",
+                  "דְּאִיתְּמַר: שְׁתֵּי כִּתֵּי עֵדִים הַמַּכְחִישׁוֹת זוֹ אֶת זוֹ – אָמַר רַב הוּנָא: זוֹ בָּאָה בִּפְנֵי עַצְמָהּ וּמְעִידָה, וְזוֹ בָּאָה בִּפְנֵי עַצְמָהּ וּמְעִידָה. וְרַב חִסְדָּא אָמַר: בַּהֲדֵי סָהֲדֵי שַׁקָּרֵי לְמָה לִי? לֵימָא רַב נַחְמָן – דְּאָמַר כְּרַב הוּנָא, וְרָבָא כְּרַב חִסְדָּא?",
+                  "אַלִּיבָּא דְּרַב חִסְדָּא – כּוּלֵּי עָלְמָא לָא פְלִיגִי, כִּי פְּלִיגִי – אַלִּיבָּא דְרַב הוּנָא. רַב נַחְמָן – כְּרַב הוּנָא. וְרָבָא – עַד כָּאן לָא קָאָמַר רַב הוּנָא אֶלָּא לְעֵדוּת אַחֶרֶת, אֲבָל לְאוֹתָהּ עֵדוּת – לָא.",
+                  "הֲדַר אַיְיתִי סָהֲדֵי דַּאֲבָהָתֵיהּ הִיא. אָמַר רַב נַחְמָן: אֲנַן אַחֲתִינֵּיהּ, אֲנַן מַסְּקִינַן לֵיהּ; לְזִילוּתָא דְבֵי דִינָא לָא חָיְישִׁינַן.",
+                  "מֵתִיב רָבָא, וְאִיתֵּימָא רַבִּי זְעֵירָא: שְׁנַיִם אוֹמְרִים מֵת, וּשְׁנַיִם אוֹמְרִים לָא מֵת; שְׁנַיִם אוֹמְרִים נִתְגָּרְשָׁה, וּשְׁנַיִם אוֹמְרִים לֹא נִתְגָּרְשָׁה – הֲרֵי זוֹ לֹא תִּנָּשֵׂא, וְאִם נִשֵּׂאת לֹא תֵּצֵא. רַבִּי מְנַחֵם בְּרַבִּי יוֹסֵי אוֹמֵר: תֵּצֵא.",
+                  "אָמַר רַבִּי מְנַחֵם בְּרַבִּי יוֹסֵי: אֵימָתַי אֲנִי אוֹמֵר תֵּצֵא – בִּזְמַן שֶׁבָּאוּ עֵדִים וְאַחַר כָּךְ נִשֵּׂאת; אֲבָל נִשֵּׂאת וְאַחַר כָּךְ בָּאוּ עֵדִים – הֲרֵי זוֹ לֹא תֵּצֵא.",
+                  "אֲמַר לֵיהּ: אֲנָא סְבַרִי לְמֶעְבַּד עוֹבָדָא; הַשְׁתָּא דְּאוֹתֵיבְתַּן אַתְּ, וְאוֹתְבַן רַב הַמְנוּנָא בְּסוּרְיָא – לָא עָבֵידְנָא בַּהּ עוֹבָדָא.",
+                  "נְפַק עֲבַד עוֹבָדָא. מַאן דַּחֲזָא, סָבַר: טָעוּתָא הִיא בִּידֵיהּ; וְלָא הִיא, אֶלָּא מִשּׁוּם דְּתַלְיָא בְּאַשְׁלֵי רַבְרְבֵי –",
+                  "דִּתְנַן, רַבִּי יְהוּדָה אוֹמֵר: אֵין מַעֲלִין לַכְּהוּנָּה עַל פִּי עֵד אֶחָד. אָמַר רַבִּי אֶלְעָזָר: אֵימָתַי – בִּמְקוֹם שֶׁיֵּשׁ עוֹרְרִין, אֲבָל בִּמְקוֹם שֶׁאֵין עוֹרְרִין – מַעֲלִין לַכְּהוּנָּה עַל פִּי עֵד אֶחָד. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן הַסְּגָן: מַעֲלִין לַכְּהוּנָּה עַל פִּי עֵד אֶחָד.",
+                  "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הַיְינוּ רַבִּי אֶלְעָזָר! וְכִי תֵּימָא: עַרְעָר חַד אִיכָּא בֵּינַיְיהוּ – רַבִּי אֶלְעָזָר סָבַר: עַרְעָר חַד,"
+                ],
+                [
+                  "וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סָבַר: עַרְעָר – תְּרֵי; וְהָאָמַר רַבִּי יוֹחָנָן: דִּבְרֵי הַכֹּל אֵין עַרְעָר פָּחוֹת מִשְּׁנַיִם!",
+                  "אֶלָּא עַרְעָר תְּרֵי; וְהָכָא בְּמַאי עָסְקִינַן – כְּגוֹן דְּמַחְזְקִינַן לֵיהּ בַּאֲבוּהּ דְּהַאי – דְּכֹהֵן הוּא; וּנְפַק עֲלֵיהּ קָלָא דְּבֶן גְּרוּשָׁה וּבֶן חֲלוּצָה הוּא, וְאַחֲתִינֵּיהּ; וַאֲתָא עֵד אֶחָד וְאָמַר דְּכֹהֵן הוּא, וְאַסְּקִינֵּיהּ;",
+                  "וַאֲתוֹ בֵּי תְרֵי וְאָמְרִי דְּבֶן גְּרוּשָׁה וַחֲלוּצָה הוּא, וְאַחֲתִינֵּיהּ; וַאֲתָא עֵד אֶחָד וְאָמַר דְּכֹהֵן הוּא. וּדְכוּלֵּי עָלְמָא – מִצְטָרְפִין עֵדוּת,",
+                  "וְהָכָא בְּמֵיחַשׁ לְזִילוּתָא דְבֵי דִינָא קָא מִיפַּלְגִי – רַבִּי אֶלְעָזָר סָבַר: כֵּיוָן דְאַחֲתִינֵּיהּ – לָא מַסְּקִינַן לֵיהּ, חָיְישִׁינַן לְזִילוּתָא דְבֵי דִינָא. וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סָבַר: אֲנַן אַחֲתִינֵּיהּ, וַאֲנַן מַסְּקִינַן לֵיהּ; וּלְזִילוּתָא דְבֵי דִּינָא לָא חָיְישִׁינַן.",
+                  "מַתְקֵיף לַהּ רַב אָשֵׁי: אִי הָכִי, מַאי אִירְיָא חַד? אֲפִילּוּ בִּתְרֵי נָמֵי! אֶלָּא אָמַר רַב אָשֵׁי: דְּכוּלֵּי עָלְמָא לָא חָיְישִׁינַן לְזִילוּתָא דְבֵי דִינָא; וְהָכָא – בִּלְצָרֵף עֵדוּת קָא מִיפַּלְגִי. וּבִפְלוּגְתָּא דְהָנֵי תַנָּאֵי –",
+                  "דְּתַנְיָא: לְעוֹלָם אֵין עֵדוּתָן מִצְטָרֶפֶת, עַד שֶׁיִּרְאוּ שְׁנֵיהֶן כְּאֶחָד. רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה אוֹמֵר: אֲפִילּוּ בְּזֶה אַחַר זֶה. אֵין עֵדוּתָן מִתְקַיֶּימֶת בְּבֵית דִּין, עַד שֶׁיָּעִידוּ שְׁנֵיהֶם כְּאֶחָד. רַבִּי נָתָן אוֹמֵר: שׁוֹמְעִין דְּבָרָיו שֶׁל זֶה הַיּוֹם, וּלִכְשֶׁיָּבֹא חֲבֵירוֹ לְמָחָר – שׁוֹמְעִין דְּבָרָיו."
+                ]
+              ],
+              "link": "/Bava Batra/30b",
+              "originalRefsBeforeRewriting": [
+                "Bava Batra 30b:3"
+              ],
+              "ref": "Bava Batra 29b:9-32a:6",
+              "sourceHeRef": "בבא בתרא ל׳ ב",
+              "sourceRef": "Bava Batra 30b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The following rule applies when Reuven stole a field or a garment from Shimon and Yehudah lodges a claim against Reuven, stating that the field or the garment is his. Shimon may not testify on Reuven's behalf that the field or the garment does not belong to Yehudah. The rationale is that Shimon desires to have the field or garment remain in the possession of Reuven who stole it from him so that he will have it returned to him from the thief. For it is possible that the proof Shimon uses to expropriate it from Reuven will not enable him to expropriate it from Yehudah.<br>Similarly, if Reuven sold or transferred as an inheritance the stolen field to Levi and Yehudah lodges a claim against Levi, Shimon may not testify that it does not belong to Yehudah. For perhaps it is more comfortable for him to expropriate it from Levi.",
+              "he": "רְאוּבֵן שֶׁגָּזַל שָׂדֶה אוֹ טַלִּית מִשִּׁמְעוֹן וּבָא יְהוּדָה וְעִרְעֵר עַל רְאוּבֵן וְאָמַר שָׂדֶה זוֹ אוֹ טַלִּית זוֹ שֶׁלִּי הִיא. אֵין שִׁמְעוֹן יָכוֹל לְהָעִיד לִרְאוּבֵן שֶׁאֵין זוֹ הַשָּׂדֶה שֶׁל יְהוּדָה וְלֹא זוֹ הַטַּלִּית שֶׁל יְהוּדָה. שֶׁהֲרֵי שִׁמְעוֹן רוֹצֶה לְהַעֲמִיד שָׂדֶה זוֹ אוֹ טַלִּית זוֹ בְּיַד רְאוּבֵן שֶׁהוּא גְּזָלָהּ מִמֶּנּוּ כְּדֵי שֶׁיַּחְזְרוּ לוֹ מִיַּד הַגַּזְלָן. שֶׁהֲרֵי אֶפְשָׁר שֶׁתִּהְיֶה הָרְאָיָה שֶׁל שִׁמְעוֹן שֶׁמּוֹצִיא בָּהּ מִיַּד רְאוּבֵן אֶפְשָׁר שֶׁאֵינוֹ יָכוֹל לְהוֹצִיא בָּהּ מִיַּד יְהוּדָה. וְכֵן אִם מָכַר רְאוּבֵן הַשָּׂדֶה הַגְּזוּלָה אוֹ הוֹרִישָׁהּ לְלֵוִי וּבָא יְהוּדָה לְעַרְעֵר עַל לֵוִי. אֵין שִׁמְעוֹן מֵעִיד שֶׁאֵינָהּ שֶׁל יְהוּדָה שֶׁמָּא נַחַת רוּחַ יֵשׁ לוֹ לְהוֹצִיאָהּ מִיַּד לֵוִי:",
+              "ref": "Mishneh Torah, Testimony 16:1",
+              "sourceHeRef": "הלכות עדות טז:א",
+              "sourceRef": "Testimony 16:1"
+            },
+            {
+              "en": "The following rules apply if Reuven sold the stolen garment to Levi and Yehudah lodges a claim concerning it. If Reuven died, Shimon may testify that it does not belong to Yehudah. The rationale is that this garment will never be returned to Shimon, because the purchaser acquires it because of his despair of recovering it and its change of domain. Reuven, the thief, died, and thus he has no one from whom he could receive reimbursement.<br>If, however, Reuven is still alive, Shimon may not testify even concerning a garment. For he will receive benefit from the fact that it will not remain in Yehudah's possession so that he can bring proof that Reuven stole it and require him to make reimbursement for it.<br>Similarly, if the garment is in the possession of Reuven's heirs, Shimon may not testify concerning it. For ultimately, if the heir retains possession, it will be returned to the original owner. Similar laws apply in all analogous situations.",
+              "he": "מָכַר הַטַּלִּית הַגְּזוּלָה לְלֵוִי וּבָא יְהוּדָה לְעַרְעֵר. אִם מֵת רְאוּבֵן שִׁמְעוֹן מֵעִיד עָלֶיהָ שֶׁאֵינָהּ שֶׁל יְהוּדָה שֶׁהֲרֵי אֵין טַלִּית זוֹ חוֹזֶרֶת לְשִׁמְעוֹן לְעוֹלָם שֶׁכְּבָר קְנָאָהּ הַלּוֹקֵחַ בְּיֵאוּשׁ וְשִׁנּוּי רְשׁוּת וּכְבָר מֵת רְאוּבֵן הַגַּזְלָן וְאֵין לוֹ מִמִּי יִטּל דָּמֶיהָ. אֲבָל אִם עֲדַיִן רְאוּבֵן קַיָּם אֵין שִׁמְעוֹן מֵעִיד אַף עַל הַטַּלִּית. שֶׁהֲנָאָה הִיא לוֹ שֶׁלֹּא תַּעֲמֹד בְּיַד יְהוּדָה כְּדֵי שֶׁיָּבִיא רְאָיָה שֶׁרְאוּבֵן גְּזָלָהּ וִישַׁלֵּם דָּמֶיהָ. וְכֵן אִם הָיְתָה הַטַּלִּית בְּיַד יוֹרְשֵׁי רְאוּבֵן אֵין שִׁמְעוֹן מֵעִיד עָלֶיהָ מִפְּנֵי שֶׁסּוֹפָהּ שֶׁאִם תַּעֲמֹד בְּיַד הַיּוֹרֵשׁ לַחְזֹר לוֹ. וְכֵן כָּל כַּיּוֹצֵא בָּזֶה:",
+              "ref": "Mishneh Torah, Testimony 16:2",
+              "sourceHeRef": "הלכות עדות טז:ב",
+              "sourceRef": "Testimony 16:2"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "הא דאמרינן<b> דאמר השני נוחל לי והראשון קשה ממני.</b> פירש ר\"ח ז\"ל שיהודא גברא אלמא ולוי אדם נוח, ומיהו לאו דוקא בדידעינן באלמותה דיהודה ונייחא דלוי, אלא דמיחש הוא דחיישינן דילמא הא נייח ליה והאי קשה ממנו, דלנגוע עדות כל דאפשר למיחש חיישינן.",
+              "ref": "Rashba on Bava Batra 43b:4",
+              "sourceHeRef": "רשב״א על בבא בתרא מ״ג ב:ד",
+              "sourceRef": "Rashba on Bava Batra 43b:4"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשני משום הכי אינו מעיד דקסבר שמעון לוי נוח לי ויהודה גברא אלמא הוא וקשה ממנו ולא אוכל לדון עמו אם יבא בידו ומש\"ה פסלינן ליה להאי עדות דאיכא למימר שזהו מחשבתו של שמעון ואין לנו להכשיר אלא עד דפשיטא לן דאינו נוגע בעדות כלל הכא הוה לן למימר איפכא לוי הראשון נוח לי ויהודה השני קשה הימנו אבל לשון המשנה כך היא בכתובות <span class=\"parenthesized\">(דף קט.)</span>:",
+              "ref": "Rashbam on Bava Batra 43b:5:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ה:א",
+              "sourceRef": "Rashbam on Bava Batra 43b:5:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "en": "17. If Reuven stole a garment or field from Shimon, and Yehuda brought a claim against Reuven saying that this field or garment is his, Shimon would not be able to testify that this is not Yehuda’s field or garment because Shimon just wants the field or garment to remain in Reuven’s possession because it might be easier to remove it from Reuven’s possession than it would be to remove it from Yehuda’s possession. Similarly, if Reuven sold or bequeathed the stolen field to Levi and Yehuda brings a claim against Levi, Shimon cannot testify that it does not belong to Yehuda. If Shimon sold the stolen garment to Levi, Shimon gave up on reclaiming it and Yehuda brings a claim against Levi, Shimon may testify that it is not Yehuda’s if Reuven had died because this garment will never go back to Shimon since the buyer already acquired it with the giving up of hope and the transfer of possession and Reuven the thief had died, so there is no one to collect the money from. If, however, Reuven was still alive, Shimon may not even testify on the garment because there is a benefit to him for the garment not to go to Yehuda so that he can bring a proof that Reuven stole it and Reuven will have to pay. Similarly, if the garment was in the possession of Reuven’s inheritors, Shimon may not testify because it will eventually go back to Shimon if the inheritors can maintain possession. The same applies to anything similar. Even in a case where Reuven died, Shimon may only testify if the sale was unsecured. If, however, the sale was secured, Reuven’s estate would be liable and thus Shimon has a stake in the testimony. Now that the rabbis have instituted that a creditor may even collect from a moveable item, a victim of theft may not even testify in a case where the thief died and the sale was unsecured because the victim still has a stake in the testimony. <i>RAMA: This all applies only where Shimon wants to testify that the field or garment does not belong to Yehuda. If, however, he wants to testify that it belongs to Reuven, he may testify in every case because once he confesses that it belongs to Reuven he can no longer bring a claim that it is his. Thus, he does not have a stake in the testimony. (Tur)</i>",
+              "he": "ראובן שגזל טלית או שדה משמעון ובא יהודה וערער על ראובן ואמר שדה זו או טלית זו שלי היא אין שמעון יכול להעיד שאין זו השדה והטלית של יהודה שהרי שמעון רוצה להעמיד שדה זו או טלית זו ביד ראובן מפני שאפשר שנוח לו להוציאה מיד ראובן יותר מלהוציאה מיד יהודה וכן אם מכר ראובן השדה הגזולה או הורישה ללוי ובא יהודה לערער על לוי אין שמעון מעיד שאינה של יהודה ואם מכר הטלית הגזולה ללוי ונתייאש שמעון ממנה ובא יהודה לערער על לוי אם מת ראובן שמעון מעיד עליה שאינה של יהודה שהרי אין טלית זו חוזרת לשמעון לעולם שכבר קנאה הלוקח ביאוש ושינוי רשות וכבר מת ראובן הגזלן ואין לו ממי ליטול דמיה אבל אם עדיין ראובן קיים אין שמעון מעיד אף על הטלית שהנאה הוא לו שלא תעמוד ביד יהודה כדי שיביא ראיה שראובן גזלה וישלם דמיה וכן אם היתה הטלית ביד יורשי ראובן אין שמעון מעיד עליה מפני שסופ' שאם תעמוד ביד היורש לחזור לו וכן כל כיוצא בזה ואפי' כשמת דדוקא שלא הניח אחריו' נכסים אבל אם הניח אחריות נכסים חייב ונמצא שזה נוגע בעדות והאידנ' דתקינו רבנן לבעל חוב ליגבי אפי' ממטלטלי דיתמי אע\"פ שמת הגזלן ולא הניח אחריות נכסים אין הנגזל מעיד לו דאכתי נוגע בעדות הוא: <span class=\"hebrew-emphasis\">הגה וכל זה ששמעון לא בא להעיד רק שהשדה או הטלית אינו של יהודה אבל אם בא להעיד שהוא של ראובן בכל ענין יכול להעיד שכיון שהודה על הדבר שהוא של ראובן שוב אינו יכול לערער עליו ולומר שהוא שלו ואינו נוגע בעדות (טור): </span>",
+              "ref": "Shulchan Arukh, Choshen Mishpat 37:17",
+              "sourceHeRef": "חושן משפט לז:יז - הפסולים מחמת הנאה",
+              "sourceRef": "Choshen Mishpat 37:17"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: יש לחשוש <b>דאמר</b> <span class=\"hebrew-emphasis\">[שאומר]</span> שמעון זה בלבו: <b>השני</b> (כלומר, לוי) <b>נוח לי</b> ואותו אוכל לתבוע לאחר זמן, ו<b>הראשון</b> (יהודה) <b>קשה הימנו,</b> ולא אוכל להוציא מידו.",
+              "ref": "Steinsaltz on Bava Batra 43b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ג ב:ה",
+              "sourceRef": "Steinsaltz on Bava Batra 43b:5"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "נקט כאן לשון המשנה בכתובות, ואין לדקדק כאן מי הוא הראשון ומי השני (רשב\"ם, וראה ברבינו יונה). וכתב הרמב\"ן שאף שנראה מדברי הר\"ח ועוד שהכוונה היא שיהודה הוא איש אלים ולוי רך ממנו, אין זה מחייב שנדע שאכן כך הוא, שכאן אנו עוסקים רק בחשש שמא יש נגיעה בדבר, ובמקום חשש אין צריך להוכחה גמורה.",
+              "ref": "Steinsaltz comment #1 on Bava Batra 43b:5",
+              "sourceHeRef": "השני נוח לי",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b>Because</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> <b>says</b> to himself: <b>The second</b> person <b>is amenable to me,</b> while <b>the first</b> is <b>more difficult than he</b> is, i.e., I prefer to litigate with <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span> rather than with <span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Yehuda</span>.",
+      "he": "דְּאָמַר: הַשֵּׁנִי נוֹחַ לִי, הָרִאשׁוֹן קָשֶׁה הֵימֶנּוּ.",
+      "ref": "Bava Batra 43b:5"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">קוּם</strong> Chaldaic <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, קוּם 1\" href=\"/Jastrow,_קוּם.1\">same</span>. <span class=\"refLink\" data-ref=\"Onkelos Genesis 22:3\" href=\"/Onkelos_Genesis.22.3\">Targum Breishit XXII, 3</span>. <span class=\"refLink\" data-ref=\"Onkelos Leviticus 25:30\" href=\"/Onkelos_Leviticus.25.30\">Targum Vayikra XXV, 30</span>; and see from—Part. <span class=\"refLink\" data-ref=\"Jastrow, קָאֵים 1\" dir=\"rtl\" href=\"/Jastrow,_קָאֵים.1\">קָאֵים</span>, apocop. <span class=\"refLink\" data-ref=\"Jastrow, קָאֵי 1\" dir=\"rtl\" href=\"/Jastrow,_קָאֵי.1\">קָאֵי</span> (see as well); <span dir=\"rtl\">קָיֵם</span>, <span class=\"refLink\" data-ref=\"Jastrow, קָיִים 1\" dir=\"rtl\" href=\"/Jastrow,_קָיִים.1\">קָיֵים</span>; f. <span dir=\"rtl\">קָיְימָא</span>; plural <span dir=\"rtl\">קָיְימִין</span>; <span dir=\"rtl\">קָיְימָן</span>, <span dir=\"rtl\">קָיְמ׳</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Joshua 4:10\" href=\"/Targum_Jonathan_on_Joshua.4.10\">Targum Joshua IV, 10</span>. <span class=\"refLink\" data-ref=\"Onkelos Exodus 26:15\" href=\"/Onkelos_Exodus.26.15\">Targum Onkelos Shemot XXVI, 15</span> (Yerushalmi <span dir=\"rtl\">קַיָּמִין</span>); and see from—<span class=\"refLink\" data-ref=\"Bava Metzia 19a:14\" href=\"/Bava_Metzia.19a.14\">Bava Metzia 19ᵃ</span> (explained <span dir=\"rtl\">דייתיקי</span>) <span dir=\"rtl\">דא תהי למֵיקַם וכ׳</span> this is to stand and be, that when I die &c. <span class=\"refLink\" data-ref=\"Bava Batra 43b:6\" href=\"/Bava_Batra.43b.6\">Bava Batra 43ᵇ</span> bottom of page <span dir=\"rtl\">ארעא היכא דקָיְימָא תֵיקוּם</span> let the land remain where it is (in the possession of the present incumbent). <span class=\"refLink\" data-ref=\"Bereishit Rabbah 65:22\" href=\"/Bereishit_Rabbah.65.22\">Breishit Rabbah section (Parashah) 65</span> <span dir=\"rtl\">ברייך יְקוּם לך</span> may thy Creator stand by thee. <span class=\"refLink\" data-ref=\"Kohelet Rabbah 11:1:1\" href=\"/Kohelet_Rabbah.11.1.1\">Kohelet Rabbah to XI, 1</span> <span dir=\"rtl\">היידי הוא גברא דקָם ליה עיגוליה</span> here is (I am) the man whom his loaf of bread assisted (who was rewarded for throwing his bread into the sea). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Avodah Zarah 2:1:10\" href=\"Jerusalem_Talmud_Avodah_Zarah.2.1.10\">Yerushalmi Pirkei Avot Zar. II, 40ᶜ</span> bottom of page <span dir=\"rtl\">וקָמוּן</span> and they remained (in the trade), see <span class=\"refLink\" data-ref=\"Jastrow, עֲקַר I 1\" href=\"/Jastrow,_עֲקַר I.1\"><span dir=\"rtl\">עֲקַר</span> I</span>. <span class=\"refLink\" data-ref=\"Makkot 22b:2\" href=\"/Makkot.22b.2\">Makkot 22ᵇ</span> <span dir=\"rtl\">דקָיְימֵי מקמי וכ׳</span> who stand up before a scroll of the Law and do not stand up before a great man. <span class=\"refLink\" data-ref=\"Kiddushin 33b:5\" href=\"/Kiddushin.33b.5\">Kiddushin 33ᵇ</span> <span dir=\"rtl\">קום מקמיה אביך</span> stand up before thy father. <span class=\"refLink\" data-ref=\"Kiddushin 33b:8\" href=\"/Kiddushin.33b.8\">Ib.</span> <span dir=\"rtl\">קָאִימְנָא מקמיה</span> I should stand up before him. <span class=\"refLink\" data-ref=\"Kiddushin 33a:17\" href=\"/Kiddushin.33a.17\">Ib.ᵃ</span> <span dir=\"rtl\">מֵיקַם לא קָאֵי הידור וכ׳</span> he stood not up before them (gentile old men), but he showed them honor. <span class=\"refLink\" data-ref=\"Bava Metzia 7a:6\" href=\"/Bava_Metzia.7a.6\">Bava Metzia 7ᵃ</span> <span dir=\"rtl\">ברשותיה קָיְימָא</span> it is in his possession. <span class=\"refLink\" data-ref=\"Vayikra Rabbah 16\" href=\"/Vayikra_Rabbah.16\">Vayikra Rabbah section (Parashah) 16</span> (reference. to <span class=\"refLink\" data-ref=\"Isaiah 5:19\" href=\"/Isaiah.5.19\">Isaiah V, 19</span>) <span dir=\"rtl\">נדע דמן הוא דקיימא וכ׳</span> that we know whose counsel will stand (prevail), ours or his; ib. <span dir=\"rtl\">לא ק׳ דידי וק׳ דלהון</span> my counsel does not stand, shall theirs stand?; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 266\" href=\"/Yalkut_Shimoni_on_Nach.266\">Yalkut Isaiah 266</span> <span dir=\"rtl\">הא קָמַת דידהון דידי לא</span> now, theirs is carried out, and mine should not be?; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 1033\" href=\"/Yalkut_Shimoni_on_Nach.1033\">Yalkut Eicha 1033</span>, sq. (read <span dir=\"rtl\">עצא</span> for <span dir=\"rtl\">על</span>); Pesikta d'Rav Kahana Vattom., p. 133ᵃ (correct accordingly). <span class=\"refLink\" data-ref=\"Jerusalem Talmud Terumot 1:1:9\" href=\"Jerusalem_Talmud_Terumot.1.1.9\">Yerushalmi Terumot I, 40ᵇ</span> top <span dir=\"rtl\">בחרש אנן קָיְימִין</span> we are standing at (are treating of) the case of a deaf mute. Yerushalmi Ma'asrot I, 51ᵇ, and from (<span class=\"refLink\" data-ref=\"Jastrow, ב 1\" dir=\"rtl\" href=\"/Jastrow,_ב.1\">ב</span>)<span dir=\"rtl\">מה</span> (<span class=\"refLink\" data-ref=\"Jastrow, א 1\" dir=\"rtl\" href=\"/Jastrow,_א.1\">א</span>)<span dir=\"rtl\">נן קיימין</span> what are we treating of?; and see from—<span class=\"refLink\" data-ref=\"Yevamot 32a:3\" href=\"/Yevamot.32a.3\">Yevamot 32ᵃ</span> <span dir=\"rtl\">וקם ליה באשר לא יבנה וכ׳</span> (by giving <i>ḥălitsah</i> to one of his brother’s widows) he has been declared one ‘who does not build up his brother’s house’ (<span class=\"refLink\" data-ref=\"Deuteronomy 25:9\" href=\"/Deuteronomy.25.9\">Devarim XXV, 9</span>), and the Law says, when one has once refused ‘to build’, one must not ‘build’ again (marry another of his brother’s widows); ib. 44ᵃ.—<span class=\"refLink\" data-ref=\"Shevuot 26a:17\" href=\"/Shevuot.26a.17\">Shevuot 26ᵃ</span> <span dir=\"rtl\">כי הוו קיימי מקמיה דרב</span> (Manuscript Florence <span dir=\"rtl\">מפטרי</span>) when they were out of Rab’s sight, opposed <span dir=\"rtl\">כי אתו לקמיה</span>.—<span dir=\"rtl\">ק׳ על</span>, also <span dir=\"rtl\">ק׳ ב־</span> (compare <span class=\"refLink\" data-ref=\"Jastrow, עָמָד I 1\" dir=\"rtl\" href=\"/Jastrow,_עָמָד I.1\">עמד</span>) <i>a</i>) <i>to ascertain</i>. <span class=\"refLink\" data-ref=\"Avodah Zarah 35b:13\" href=\"/Avodah_Zarah.35b.13\">Pirkei Avot Zar. 35ᵇ</span> <span dir=\"rtl\">ליכא למֵיקַם עלה דמילתא</span> it cannot be ascertained; and e.—<span class=\"refLink\" data-ref=\"Bava Metzia 19a:9\" href=\"/Bava_Metzia.19a.9\">Bava Metzia 19ᵃ</span> <span dir=\"rtl\">קָמוּ … במילתא</span> the Rabbis ascertained the case, see <span class=\"refLink\" data-ref=\"Jastrow, קִים 1\" dir=\"rtl\" href=\"/Jastrow,_קִים.1\">קִים</span>. <span class=\"refLink\" data-ref=\"Yevamot 31a\" href=\"/Yevamot.31a\">Yevamot 31ᵃ</span>; and from—<i>b</i>) <i>to bargain for</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 11:4\" href=\"/Bereishit_Rabbah.11.4\">Breishit Rabbah section (Parashah) 11</span> <span dir=\"rtl\">אנא … קיימין עילויה</span> myself and a certain Jew were bargaining for it (the fish); and e.—<span dir=\"rtl\">קם ליה בדרבה מיניה</span>, see <span class=\"refLink\" data-ref=\"Jastrow, קִים 1\" dir=\"rtl\" href=\"/Jastrow,_קִים.1\">קִים</span>.—<span class=\"refLink\" data-ref=\"Jastrow, תֵּיקוּ 1\" dir=\"rtl\" href=\"/Jastrow,_תֵּיקוּ.1\">תֵּיקוּ</span>, <span dir=\"rtl\">נֵיקוּ</span> = <span class=\"refLink\" data-ref=\"Jastrow, תֵּיקוּ 1\" dir=\"rtl\" href=\"/Jastrow,_תֵּיקוּ.1\">תֵּיקוּם</span>, <span dir=\"rtl\">נֵיקוּם</span>. <span class=\"refLink\" data-ref=\"Bava Kamma 96a\" href=\"/Bava_Kamma.96a\">Bava Kamma 96ᵃ</span> <span dir=\"rtl\">תקנתא לעכ\"ום נ׳ ונעביד</span> shall we get up and make rules for the benefit of gentile (robbers)? <span class=\"refLink\" data-ref=\"Zevachim 17a:1\" href=\"/Zevachim.17a.1\">Zevachim 17ᵃ</span> <span dir=\"rtl\">כל חדא וחדא ת׳ בדוכתה</span> (not <span dir=\"rtl\">בדוכתיה</span>; Manuscript Munich <span dir=\"rtl\">תיקום</span>) let each verse stand in its own place, i.e. you can draw no analogies between them.—Esp. <span class=\"refLink\" data-ref=\"Jastrow, תֵּיקוּ 1\" dir=\"rtl\" href=\"/Jastrow,_תֵּיקוּ.1\">תיקו</span> let it stand, i.e. <i>the question remains undecided</i>. Bava Kamma l. common gender. <span class=\"refLink\" data-ref=\"Chullin 46a\" href=\"/Chullin.46a\">Chullin 46ᵃ</span>; and from <br><b><br>—2)</b> (see <span class=\"refLink\" data-ref=\"Jastrow, עָמָד I 1\" dir=\"rtl\" href=\"/Jastrow,_עָמָד I.1\">עָמַד</span>) <i>to curdle</i>. <span class=\"refLink\" data-ref=\"Avodah Zarah 35b:13\" href=\"/Avodah_Zarah.35b.13\">Pirkei Avot Zar. 35ᵇ</span> <span dir=\"rtl\">נישקול מיניה קלי ונֵיקוּם</span> (probably to be read <span dir=\"rtl\">ונוֹקִים</span>) let one take a little of it and curdle it. <span class=\"refLink\" data-ref=\"Avodah Zarah 35b:13\" href=\"/Avodah_Zarah.35b.13\">Ib.</span> <span dir=\"rtl\">קיימי</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נַסְיוּבֵי 1\" dir=\"rtl\" href=\"/Jastrow,_נַסְיוּבֵי.1\">נַסְיוּבֵי</span>. <br><b><br>—3)</b> <i>to cause to stand</i> (see <span class=\"refLink\" data-ref=\"Jastrow, קִים 1\" dir=\"rtl\" href=\"/Jastrow,_קִים.1\">קִים</span>).—Inf. <span dir=\"rtl\">מִיקְמָא</span>, <span dir=\"rtl\">מִיקְמָה</span>, see <i>Af</i><br></br> <strong>Af.</strong> - <strong dir=\"rtl\">אָקֵים</strong>, <strong dir=\"rtl\"> אוֹקִים</strong>, <strong dir=\"rtl\"></strong> , <span class=\"refLink\" data-ref=\"Jastrow, אוֹקִי 1\" dir=\"rtl\" href=\"/Jastrow,_אוֹקִי.1\">אוֹקֵי</span> <br><b>1)</b> <i>to put up, erect; to appoint, place; to maintain</i>. <span class=\"refLink\" data-ref=\"Onkelos Exodus 40:2\" href=\"/Onkelos_Exodus.40.2\">Targum Onkelos Shemot XL, 2</span> <span dir=\"rtl\">תָּקִים</span> (ed. Berliner (editor of Targum Onkelos) and Yerushalmi <span dir=\"rtl\">תְּקִים</span>). Ib. 18 <span dir=\"rtl\">ואָקֵים</span> (ed. Berliner (editor of Targum Onkelos) <span dir=\"rtl\">ואָקֵים</span> and <span dir=\"rtl\">ואֵקִים</span>). <span class=\"refLink\" data-ref=\"Onkelos Deuteronomy 25:7\" href=\"/Onkelos_Deuteronomy.25.7\">Targum Onkelos Devarim XXV, 7</span> <span dir=\"rtl\">לאָקָמָא</span> ed. Berliner (editor of Targum Onkelos) (oth. ed. <span dir=\"rtl\">לַאֲקָ׳</span>; Yerushalmi <span dir=\"rtl\">למִיקְמָא</span>). <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 78:13\" href=\"/Aramaic_Targum_to_Psalms.78.13\">Targum Psalms LXXVIII, 13</span>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Proverbs 29:4\" href=\"/Aramaic_Targum_to_Proverbs.29.4\">Targum Mishlei XXIX, 4</span>; and from—<span class=\"refLink\" data-ref=\"Bava Metzia 39b:5\" href=\"/Bava_Metzia.39b.5\">Bava Metzia 39ᵇ</span> <span dir=\"rtl\">מוֹקְמִינָן … לינוקא</span> we (the court) appoint a guardian over it in behalf of the minor. <span class=\"refLink\" data-ref=\"Bava Metzia 39b:6\" href=\"/Bava_Metzia.39b.6\">Ib.</span> <span dir=\"rtl\">מיגו דמוֹקִים … מוקמינן וכ׳</span> since one appoints a guardian for the one-sixth portion, we may just as well appoint one for the other sixth. <span class=\"refLink\" data-ref=\"Bava Batra 33a:4\" href=\"/Bava_Batra.33a.4\">Bava Batra 33ᵃ</span> אוֹקְמָהּ … בידיה R. Ḥ. placed it in his possession, i.e. decided that it belonged to him. <span class=\"refLink\" data-ref=\"Bava Batra 34a:3\" href=\"/Bava_Batra.34a.3\">Ib. 34ᵃ</span> <span dir=\"rtl\">מוֹקְמִינָן לה בידיה</span> we would place (or leave) it in his possession; and see from—<span class=\"refLink\" data-ref=\"Taanit 8a\" href=\"/Taanit.8a\">Taanit 8ᵃ</span>, and from <span dir=\"rtl\">אוקים … אמורא</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אֲמוֹרָא 1\" dir=\"rtl\" href=\"/Jastrow,_אֲמוֹרָא.1\">אֲמוֹרָא</span>.—Esp. <i>a</i>) <i>to put a case, to treat with reference to</i>. <span class=\"refLink\" data-ref=\"Bava Batra 44a:1\" href=\"/Bava_Batra.44a.1\">Bava Batra 44ᵃ</span> <span dir=\"rtl\">ולוֹקְמָהּ בגזלן</span> why does he not put the case as treating of a robber?; <span dir=\"rtl\">ולוקמה ביורש</span> let him say, it refers to the case of an heir!; and from—<i>b</i>) <i>to let stand, place, leave</i> (<i>under the presumption</i>). <span class=\"refLink\" data-ref=\"Ketubot 12b\" href=\"/Ketubot.12b\">Ketubot 12ᵇ</span>, and e. <span dir=\"rtl\">אוקי ממונא בחזקת מריה</span> leave the money where it is, on the presumption that it belongs to its present owner, i.e. possession has the benefit of the doubt. <span class=\"refLink\" data-ref=\"Ketubot 12b:11\" href=\"/Ketubot.12b.11\">Ib.</span> <span dir=\"rtl\">אוֹקְמָהּ אחזקה</span> leave the woman in her ascertained condition (see <span class=\"refLink\" data-ref=\"Jastrow, חֲזָקָה 1\" dir=\"rtl\" href=\"/Jastrow,_חֲזָקָה.1\">חֲזָקָה</span>), i.e. consider her as having married as a virgin. <span class=\"refLink\" data-ref=\"Yevamot 31a:11\" href=\"/Yevamot.31a.11\">Yevamot 31ᵃ</span> <span dir=\"rtl\">אוקי תרי להדי תרי ואשה אוקמה אחזקה</span> leave the two witnesses (on the one side) against the two witnesses (on the other side), and leave the woman &c.; and from—<i>c</i>) <i>to establish, prove</i>. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 6\" href=\"/Bamidbar_Rabbah.6\">Bamidabar Rabbah section (Parashah) 6</span>, end <span dir=\"rtl\">ורבנן מוֹקְמִין מהאי קרא וכ׳</span> and the Rabbis prove from this verse, that as atonement takes place in day-time, so &c.; and e.—<i>d</i>) <span dir=\"rtl\">א׳ טבאות</span> [<i>to place right</i>] <i>to guarantee, secure</i>. Yerushalmi Gittin I, end, 43ᵈ <span dir=\"rtl\">אנן בעי תְּקִימִינָן ט׳</span> (not <span dir=\"rtl\">טבאת</span>) we want thee to secure us (against an eventual loss of the money which thou art collecting from us for our creditors); <span dir=\"rtl\">בההוא דלא יכיל למִיקְמָה גרמיה ט׳</span> in the case of one who has no opportunity to secure himself (who cannot get a collector to take the risk), <span dir=\"rtl\">ברם ההוא דיכיל למיקמה וכ׳</span> but if he finds a collector to take the risk, he may take it away from the one and give it to the other; Yerushalmi Kiddushin III, 64ᵃ.— <br><b>2)</b> (see <span class=\"refLink\" data-ref=\"Jastrow, עָמָד I 1\" dir=\"rtl\" href=\"/Jastrow,_עָמָד I.1\">עָמַד</span>) <i>to make consistent, curdle</i>. <span class=\"refLink\" data-ref=\"Avodah Zarah 35a\" href=\"/Avodah_Zarah.35a\">Pirkei Avot Zar. 35ᵃ</span> [read:] <span dir=\"rtl\">כיון דאוֹקְמֵיה איסורא הוא דקא מוֹקִים ליה וכ׳</span> (see Manuscript Munich in Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l., and note) since it had the effect of curdling the milk, it is the forbidden matter that gave it substance, and therefore it (that forbidden substance) is to be considered as if it were there in its natural state. <span class=\"refLink\" data-ref=\"Avodah Zarah 35b\" href=\"/Avodah_Zarah.35b\">Ib.ᵇ</span>, see supra.<br></br> <strong>Ittaf.</strong> - <strong dir=\"rtl\">אִיתָּקַם</strong>, <strong dir=\"rtl\"> אִתּוֹקַם</strong> <i>to put up; to be placed</i>. <span class=\"refLink\" data-ref=\"Onkelos Exodus 40:17\" href=\"/Onkelos_Exodus.40.17\">Targum Shemot XL, 17</span>. <span class=\"refLink\" data-ref=\"Onkelos Leviticus 16:10\" href=\"/Onkelos_Leviticus.16.10\">Targum Vayikra XVI, 10</span>; and e.<br></br> <strong>Polel.</strong> - <strong dir=\"rtl\">קוֹמֵם</strong> <i>to put up, erect</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 44:26\" href=\"/Targum_Jonathan_on_Isaiah.44.26\">Targum Isaiah XLIV, 26</span>; and e.<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">קַיֵּם</strong>, <strong dir=\"rtl\"> קיֵּים</strong> <br><b>1)</b> as <span class=\"refLink\" data-ref=\"Jastrow, קוּם 1\" href=\"/Jastrow,_קוּם.1\">preceding</span> <i>Piël</i>, <i>to establish, confirm, fulfill</i> &c. <span class=\"refLink\" data-ref=\"Onkelos Deuteronomy 32:8\" href=\"/Onkelos_Deuteronomy.32.8\">Targum Onkelos Devarim XXXII, 8</span> (Yerushalmi <i>Af</i>.). <span class=\"refLink\" data-ref=\"Onkelos Numbers 30:14\" href=\"/Onkelos_Numbers.30.14\">Targum Bamidbar XXX, 14</span>. Targum Isaiah l. common gender. <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 119:106\" href=\"/Aramaic_Targum_to_Psalms.119.106\">Targum Psalms CXIX, 106</span>; and from—<span class=\"refLink\" data-ref=\"Nedarim 70a:1\" href=\"/Nedarim.70a.1\">Nedarim 70ᵃ</span> <span dir=\"rtl\">דהא קַיְּימֵיה לנדריה היום</span> (not <span dir=\"rtl\">קיימי</span>, see Rashi) for he has confirmed the vow to-day. <span class=\"refLink\" data-ref=\"Nedarim 70a:3\" href=\"/Nedarim.70a.3\">Ib.</span> (h. form) <span dir=\"rtl\">כיון דקִיְּימוֹ קִיְּימוֹ</span> since he once confirmed it, it remains confirmed. <span class=\"refLink\" data-ref=\"Ketubot 19a:6\" href=\"/Ketubot.19a.6\">Ketubot 19ᵃ</span> <span dir=\"rtl\">זילו קַיְּימוּ שטרייכו</span> go and get evidence for the identification of your documents, and then come to court. Yerushalmi Gittin I, end, 43ᵈ <span dir=\"rtl\">קיַּימְתֵּיה מדאמר וכ׳</span> thou canst substantiate thy opinion by referring to what R. … said. Pesikta d'Rav Kahana Haʿomer, p. 72ᵇ <span dir=\"rtl\">למְקַיְּימָא לכון וכ׳</span> in order to fulfill on you the prophecy (<span class=\"refLink\" data-ref=\"Deuteronomy 33:29\" href=\"/Deuteronomy.33.29\">Devarim XXXIII, 29</span>) &c.; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 643:10\" href=\"/Yalkut_Shimoni_on_Torah.643.10\">Yalkut Vayikra 643</span>; <span class=\"refLink\" data-ref=\"Pesikta Rabbati 18:1\" href=\"/Pesikta_Rabbati.18.1\">Pesikta d'Rav Kahana R. section (Parashah) 18</span>. Yerushalmi Pirkei Avot Zar. V, 44ᵈ <span dir=\"rtl\">ואנא יכיל קַיֵּים</span> and I can ascertain it (by experiment); and see from—Part. pass. <span dir=\"rtl\">מְקַיַּים</span>. <span class=\"refLink\" data-ref=\"Berakhot 55a:15\" href=\"/Berakhot.55a.15\">Berakhot 55ᵃ</span> <span dir=\"rtl\">לא חלמא טבא מק׳ וכ׳</span> (Manuscript Florence <span dir=\"rtl\">מתקיים</span>) neither a good dream comes true entirely, nor a bad dream &c. <br><b><br>—2)</b> (see <span class=\"refLink\" data-ref=\"Jastrow, קְיָים 1\" dir=\"rtl\" href=\"/Jastrow,_קְיָים.1\">קְיָים</span>) <i>to swear, vow</i>. <span class=\"refLink\" data-ref=\"Onkelos Numbers 30:3\" href=\"/Onkelos_Numbers.30.3\">Targum Bamidbar XXX, 3</span>. <span class=\"refLink\" data-ref=\"Onkelos Genesis 28:20\" href=\"/Onkelos_Genesis.28.20\">Targum Breishit XXVIII, 20</span>. <span class=\"refLink\" data-ref=\"Onkelos Leviticus 5:4\" href=\"/Onkelos_Leviticus.5.4\">Targum Onkelos Vayikra V, 4</span>; and e.<br></br> <strong>Ithpaal</strong> - <strong dir=\"rtl\">אִתְקַיַּים</strong> as <span class=\"refLink\" data-ref=\"Jastrow, קוּם 1\" href=\"/Jastrow,_קוּם.1\">preceding</span> <i>Hithpaël</i> <span class=\"refLink\" data-ref=\"Onkelos Numbers 14:38\" href=\"/Onkelos_Numbers.14.38\">Targum Bamidbar XIV, 38</span>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Ezekiel 33:12\" href=\"/Targum_Jonathan_on_Ezekiel.33.12\">Targum Ezekiel XXXIII, 12</span>; and from—Yerushalmi Shabbat VI, end, 8ᵈ [read:] <span dir=\"rtl\">תִּתְקַיֵּים לכון נפשיכין בהדין יומכון היך דקַיַּימְתּוּן וכ׳</span> may your life be restored on that day of yours (when your time comes), as you have restored my life on this day. <span class=\"refLink\" data-ref=\"Eruvin 54a:3\" href=\"/Eruvin.54a.3\">Eruvin 54ᵃ</span> <span dir=\"rtl\">כי היכי דתתקיים בידך ותוריך חיי</span> (not <span dir=\"rtl\">ביך</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l.) in order that it (thy learning) may be preserved in thy possession, and thou mayest live long; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, קוּם ² 1",
+              "sourceHeRef": "מילון יסטרוב, קוּם ² א׳",
+              "sourceRef": "Jastrow, קוּם ² 1"
+            }
+          ]
+        },
+        "Rashba": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואמור רבנן ארעא היכא דקיימא יקום.</b> קשה לי, דהכא משמע טעמא דאמור רבנן ארעא היכא דקיימא קום, הא לאו הכי, אלא תהדר דינא וכל דאלים גבר, לא חשבינן ליה נוגע בעדות, וכי משום השני נח לי חשבת ליה כנוגע בעדות, והשתא דלא ידע אי האי גבר מיניה, ומהאי מפיק לה בר בסהדי ואינו יורד עמו <span class=\"parenthesized\">(ל)</span>לחייו, לא חשבת לה נוגע בעדות, ויש לך זה נוח וזה קשה יותר מזה, ויש לי לומר דלאלומיה לנגיעתו נקטיה להאי טעמא, כלומר אפיל כי הדר דינא לכל דאלים גבר איכא למיחש, ואף על גב דשמא איהו גבר, כל שכן דאמור רבנן דלא הדרא ליה מעולם דהיכא דקיימא תיקום. ור\"ח ז\"ל פירש, ארעא היכא דקיימא תיקום, ואי מטיא לידא דיהודה לא מצי שמעון לאפוקא מיהודה בהני סהדי דמפיק לה מלוי, ומשום הכי מסעיד שמעון דלאו דיהודה היא ומתוקמא בידא דלוי, ומייתי שמעון סהדי דהאי ארעא דיליה הוא וראובן גזלה מיניה, ומפיק לה מלוי ומחזיק בה, ובתר הכי, אפילו מייתי יהודה סהדי דהאי ארעא דיליה, אמור רבנן ארעא היכא דקיימא תיקום. עד כאן. וזה נכון. דהאי טעמא איצטריך כי היי דתיקום בידא דשמעון לבתר דמפיק לה מלוי.",
+              "ref": "Rashba on Bava Batra 43b:5",
+              "sourceHeRef": "רשב״א על בבא בתרא מ״ג ב:ה",
+              "sourceRef": "Rashba on Bava Batra 43b:5"
+            }
+          ]
+        },
+        "Rashbam": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ואי בעית אימא</strong> - להכי לא מצי שמעון לאפוקה מיהודה כגון דאית ליה סהדי לשמעון שהשדה שלו ואית ליה סהדי ליהודה שמכחישין לאלו ואומרים שהשדה של יהודה ואמור רבנן בכל ספק דין קרקע היכא דקיימא ארעא תיקום שלא יוציאוה ב\"ד מיד המחזיק בה כדאמר גבי פלוגתא דרבה ורב יוסף <span class=\"parenthesized\">(לעיל בבא בתרא לב:)</span> היכא דקיימא ארעא תיקום לפי שנסתפק לנו הדין וכן <span class=\"parenthesized\">(לעיל בבא בתרא לד:)</span> גבי זה אומר של אבותי אר\"נ כל דאלים גבר <span class=\"parenthesized\">(ס\"א וכגון שאין לו עדות וחלוקה לזה יותר מזה ע\"כ)</span> ומשום דמספקא לן מי שרוצה להחזיק יחזיק ולא נוציא מידו וגבי נכסי דבר שטיא <span class=\"parenthesized\">(כתובות דף כ.)</span> אמר נמי אוקי תרי בהדי תרי ואוקי ארעא בחזקת בר שטיא והכא נמי אי מטיא לידיה דיהודה לא מצי שמעון לאפוקי מיניה בהני סהדי דמפיק לה מלוי דכיון דמן הדין אוקימנה ביד יהודה שהרי ממ\"נ אין ללוי חלק בה הרי יהודה מוחזק ולא תצא עוד מידו ולא דמי להאי דאמרן לעיל בפרקין <span class=\"parenthesized\">(בבא בתרא דף לא:)</span> הדר אייתי סהדי דאבהתיה היא א\"ר נחמן אנן אחתינן ליה ואנן אסקי' ליה דאע\"ג דהתם נמי איכא סהדי למר ואיכא סהדי למר ואפ\"ה אחזיקניה לאחד ע\"פ עדיו והדר מסלקינן ליה כשמביא חבירו עדים שלו היינו טעמא משום דכיון דשניהם באין יחד לדין ושני בעלי דינין יש להן עדים לא היה לב\"ד להחזיק לאחד יותר מחבירו אלא כל דאלים גבר הלכך הדר מסלקינן ליה ויהו כבתחילה וכל דאלים גבר דשלא כדין הורידוהו לאחד מהן בקרקע אבל הכא שמעון ויהודה אינן באין לדון זה עם זה אלא לוי ויהודה ומלוי הוא דמפיק לה יהודה מן הדין דהא ודאי לוי מגזלן קנאה וכיון דמן הדין אנו מחזיקין ליהודה בהאי שדה כשיבא שמעון לריב עמו דיינינן אוקי תרי לבהדי תרי ואוקי ארעא בחזקת יהודה והלכך אין מעיד לו שמעון ללוי אם יודע שום עדות שפוסל עדיו של יהודה או שמעיד הוא ואחד בפנינו הודה לו דניחא ליה דתיהוי ביד לוי דהדר ומפיק לה מלוי ע\"י עדיו שראו שגזלה ראובן ממנו ובתר הכי אפילו מייתי יהודה סהדי דהא ארעא דידיה היא לא מצי מפיק לה משמעון שכבר פסל שמעון עצמו ועד אחר עמו עדיו של יהודה ועוד כיון דאית ליה נמי לשמעון סהדי דהא ארעא דידיה היא אמור רבנן היכא דקיימא ארעא תיקום:",
+              "ref": "Rashbam on Bava Batra 43b:6:1",
+              "sourceHeRef": "רשב\"ם על בבא בתרא מ״ג ב:ו:א",
+              "sourceRef": "Rashbam on Bava Batra 43b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ואי בעית אימא</b> <span class=\"hebrew-emphasis\">[ואם תרצה אמור]</span> כי מדובר במקרה שלא יוכל להוציא את הקרקע מיד יהודה, אם תגיע לידו, ו<b>כגון</b> באופן <b>דאית ליה סהדי למר ואית ליה סהדי למר</b> <span class=\"hebrew-emphasis\">[שיש לו עדים לזה ויש לו עדים לזה],</span> שיש עדים לשמעון שהשדה היא שלו, אבל גם יהודה מביא עדים שהשדה שייכת לו, <b>ואמור רבנן</b> <span class=\"hebrew-emphasis\">[ואמרו חכמים]</span> שבמקרה כזה <b>ארעא היכא דקיימא תיקום</b> <span class=\"hebrew-emphasis\">[הקרקע היכן שעומדת תעמוד]</span> ותישאר ברשות המחזיק בה. ולכן מעונין שמעון שהשדה תישאר בידי לוי ויוציאנה מידיו, וכשתהא בידיו — שוב לא יוכל יהודה להוציאה ממנו. ובמקרה כזה נוגע שמעון בדבר, ואינו יכול להעיד לטובת לוי.",
+              "ref": "Steinsaltz on Bava Batra 43b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על בבא בתרא מ״ג ב:ו",
+              "sourceRef": "Steinsaltz on Bava Batra 43b:6"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Some explain that this is referring to a case where Yehuda and Shimon each have contradictory witnesses that the field belonged to his ancestors. Since the witnesses contradict each other, and there is no conclusive evidence in either direction, if the field is in the possession of Yehuda, Shimon will not be able to recover it. Therefore, Shimon prefers that the land be in the possession of Levi, from whom he can recover it based on the witnesses attesting to his ownership. This explanation also assumes that Shimon is testifying only that the land does not belong to Yehuda, but not that it belongs to Levi (Rabbeinu Gershom Meor HaGola; Rashbam). Others understand this to mean that Yehuda and Levi each have witnesses to their ownership (Ritva). Yet other commentaries explain that initially the Gemara thought that Yehuda brought witnesses to testify that he purchased the field from Reuven. Shimon wishes to testify that in fact it was Levi who purchased it from Reuven so that he can later reclaim the field from him, once it is established that Reuven had stolen it. The Gemara rejects this explanation, since under those circumstances it would not matter to Shimon who is in possession of the field. The Gemara therefore explains that Yehuda claimed prior independent ownership, not that he acquired it from Reuven (<i>Tosafot</i>).",
+              "he": "יש מסבירים שמדובר כגון שגם לשמעון וגם ליהודה יש עדים המעידים (וכמובן סותרים זה את זה) שהקרקע היתה שייכת לאבותיו של אחד מהם. וכיון שאין הוכחה ברורה, אם יעבור השדה לרשותו של יהודה — לא יוכל שמעון להוציא ממנו. ולכן הוא מעדיף שיהא ברשותו של לוי, שממנו יוכל להוציא על פי עדות זו. ומכל מקום גם הסבר זה מסתמך על האמור לעיל, שבעדות זו שמעיד עכשיו — אינו מעיד אלא שאין היא של יהודה (רגמ\"ה, רשב\"ם). ויש מפרשים שעדים אלו הם עדי יהודה ועדי לוי (בריטב\"א). ויש מפרשים שמתחילה הבינו שיהודה הביא עדים שהוא שקנה את השדה מראובן, ושמעון רוצה להעיד שלוי הוא שקנה מראובן, כדי שיוכל אחר כך להוציא את השדה ממנו כאשר יוכיח שראובן עצמו גזל ממנו. ועל כך התקשו, שאם הוא מוכיח שראובן גזלו, הרי אין הבדל לשמעון מי הוא המחזיק בשדה. ולכן תירצו שכאן מדובר שגם יהודה טוען לבעלות מוקדמת על השדה, ולא מכח ראובן (תוס').",
+              "ref": "Steinsaltz comment #1 on Bava Batra 43b:6",
+              "sourceHeRef": "דְּאִית לֵיהּ סָהֲדֵי לְמָר",
+              "sourceRef": "Where this master has witnesses"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "<b>כגון דאית ליה סהדי למר כולי—For instance one has witnesses, etc.</b><br><br>Overview<br>The גמרא answered that the reason שמעון cannot remove יהודה from the field, in the same manner as he is removing לוי, is because in the dispute between שמעון ויהודה, both have witnesses that it belongs to them, and if יהודה will win his case against לוי, he will be the מוחזק, and שמעון will not be able to dislodge him. However in his confrontation with לוי it is only יהודה who has the witnesses (that ראובן stole the field from שמעון and sold it to לוי illegally). It seems from the גמרא that this answer כגון דאית ליה סהדי למר וכו', is something new which the תרצן informs us, however תוספות argues that seemingly we knew all along that שמעון and יהודה have witnesses supporting their claim; why does the גמרא say 'כגון'?!<br>----------------------------------<br>תוספות asks:<br><b>תימה דלא הוה ליה למימר כגון –<br>It is astounding! for</b> the גמרא <b>should not have said 'כגון' (for instance) –<br>דהא מעיקרא נמי ידעינן דאית ליה לשמעון סהדי דדידיה היא –<br>For initially we also knew that שמעון has עדים that it belongs to him –<br>כדקתני ראובן שגזל שדה משמעון ואי לית ליה לשמעון סהדי שגזלה ראובן ממנו –<br>As the ברייתא states, ‘ראובן who stole a field from שמעון’, and if שמעון has no עדים that ראובן stole it from him –<br>אנן היכי ידעינן שגזלה ומכח מה הוא מערער –<br>How do we know that</b> ראובן <b>stole it, and on what basis is</b> שמעון <b>protesting</b> the occupation of the field. This proves that we always realized that שמעון has עדים –<br><b>ויהודה נמי על כרחך אית ליה סהדי דאי לאו הכי מאיזה כח מערער –<br>And perforce you must say that יהודה also has עדים</b> that he owns this field, <b>for otherwise, what is</b> sיהודה' <b>basis to protest</b> sלוי' occupation of the field. We have thus proven that even initially we were aware that both שמעון and יהודה have עדים supporting their claim that they are the owners, so why does the תרצן say 'כגון'?!<br><b>והכי הוי ליה למימר כיון דאית ליה סהדי למר כולי ומאי סלקא דעתיה דמקשה –<br>Rather this is what</b> the תרצן <b>should have said, ‘since this one has עדים etc.</b> (and the other one has עדים)’, <b>so what did the questioner</b> even <b>think?!</b><br>תוספות dismisses a proposed solution:<br><b>ואין לומר דמעיקרא סלקא דעתיה דאיירי כגון דאית ליה ליהודה עדים דשל אבותיו היא –<br>And one cannot say that originally we assumed that this is a case where יהודה has witnesses that it belonged to his parents –<br>ולשמעון הנגזל אית ליה סהדי דאכלה שני חזקה וטעין מיהודה זבנה –<br>And שמעון, whose</b> field <b>was stolen</b> by ראובן, <b>has witnesses that he</b> (שמעון) <b>consumed</b> the produce of this field for the three <b>years</b> required for a <b>חזקה, and</b> שמעון <b>claims that he bought it from יהודה,</b> this would seemingly answer our question. However תוספות maintains that we cannot understand the גמרא in this manner –<br><b>דאם כן מאי קאמר בהאי זכותא דמפיק לה מלוי ליפקה מיהודה –<br>For if indeed this is so</b> (that יהודה only has עדים that it belonged to אבותיו), <b>what is this</b> which the גמרא <b>states, ‘with the same power that</b> שמעון <b>can dislodge לוי, he can dislodge יהודה’,</b> but according to the proposed solution this is not so –<br><b>הא בהאי זכותא דמצי לאפוקי מלוי לא מצי לאפוקי מיהודה –<br>For with the power that he can dislodge לוי, he cannot dislodge יהודה –<br>דבעדי גזילה המעידין שגזל ראובן ממנו מצי מפיק לה מלוי שבא מכח ראובן –<br>For with the witnesses of theft, who testify that ראובן stole from</b> שמעון, <b>he</b> (שמעון) <b>can dislodge לוי whose</b> claim to ownership) <b>comes from</b> his purchase from <b>ראובן,</b> and when the witnesses will testify to the theft, ראובן and thus לוי, no longer have any claim to the field –<br><b>ומיהודה לא מצי מפיק לה אלא בעדי חזקה –<br>However</b> שמעון <b>cannot dislodge יהודה, only with עדי חזקה,</b> so how can the גמרא ask that he can remove יהודה, just as he can remove לוי.<br>תוספות answers:<br><b>ונראה לרבינו שמשון בן אברהם דסלקא דעתין דמעיקרא דיהודה בעי לאפוקי מלוי –<br>And it appears to the רשב\"א that initially</b> the גמרא <b>assumed that יהודה wanted to remove לוי from</b> the field –<br><b>משום דאית ליה סהדי דראובן מכר לו וללוי אין עדים ובא שמעון להעיד ללוי דשל לוי היא –<br>Because</b> יהודה <b>had עדים that ראובן sold</b> the field <b>to him</b> (יהודה), however <b>לוי has no עדים</b> that ראובן sold it to him (he merely claims it), <b>and שמעון is coming to testify on behalf of לוי that it belongs to לוי –<br>ומשום הכי פריך כיון דמסהיד דהאי ארעא דלוי היא היכי מפיק לה מיניה –<br>So therefore</b> the גמרא initially asked, <b>since</b> שמעון <b>testified that this land belongs to לוי, how can he dislodge him –<br>והוה מצי לשנויי דלא מסהדי בהאי לישנא דלוי היא אלא דאמר דראובן מכרה ללוי –<br>And</b> the גמרא <b>could have answered that he does not testify with this language, ‘that it belongs to לוי’, but rather</b> שמעון <b>stated that ראובן sold it to לוי;</b> the גמרא could have answered that –<br><b>אלא דעדיפא מינה משני –<br>However that</b> גמרא <b>offered an even better answer –<br>והשתא פריך שפיר דבההיא זכותא דמפיק לה מלוי ליפקה מיהודה –<br>So now</b> (that both לוי and יהדה claim that they bought it from ראובן), the גמרא properly <b>asks that with the same power</b> that שמעון <b>can remove לוי, he can remove יהודה –<br>דשניהם באין מכח ראובן ואם יביא שמעון עדים דראובן גזלה ממנו מצי לאפוקי מתרוייהו:</b><br><b>Since they both</b> (לוי ויהודה) <b>are coming from the strength of ראובן, so if שמעון will bring עדים that ראובן stole it from him he will be able to remove both of them</b> (לוי ויהודה).<br><br>S<small>UMMARY</small><br>לוי and יהודה both claim that they bought if from ראובן.<br><br>T<small>HINKING IT OVER</small><br>1. The proposed solution of the 'ואין לומר' was that יהודה claimed that it was של אבותיו and שמעון claims that he bought it from יהודה. In this scenario, how is שמעון testifying on behalf of לוי against יהודה. He cannot claim that יהודה is not the owner, since sשמעון' claim of his ownership is that he bought it from יהודה; so how is שמעון supporting לוי?!<br>2. תוספות writes that the גמרא could have answered that שמעון merely stated that לוי bought it from ראובן, but not that it belongs to לוי; however the גמרא offers a better answer. Since the גמרא is עדיפא מיניה משני; why does תוספות mention his answer at all?! Is there any advantage in תוספות proposed answer?",
+                      "he": "",
+                      "ref": "Translation on Tosafot on Bava Batra 43b:6:1",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                },
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> כגון דאית כו' וא\"ל דמעיקרא ס\"ד דאיירי כגון דאית ליה ליהודה כו' ולשמעון הנגזל אית ליה סהדי כו' וטעין מיהודה זבנה כו' עכ\"ל דבריהם סתומים דא\"כ על מה בא שמעון להעיד אם בא לפסול עדי יהודה בגזלנותא הא איהו גופיה קטעין דמיהודה זבנה וע\"כ הוא צריך לעדי יהודה דשל אבותיו של יהודה היה ואם נאמר שבא להעיד על יהודה שהודה בפניו ובפני ע\"א שמכר זו הקרקע ויצתה מידו והשתא בעדותו תעמוד הקרקע ביד לוי ואע\"ג דבהנהו סהדי דאית ליה דאכלה שני חזקה וטעין דזבנה מיהודה נמי ה\"מ לאוקמה ביד לוי מ\"מ אפשר דהנהו סהדי אינן כאן להעיד אבל מ\"מ קשה מי הכריח אותן לפרש כל זה הא איכא לפרושי בפשיטות דהוא וע\"א מעידין כן דאכלה שני חזקה וטעין דמיהודה זבנה והשתא בעדותו תעמוד הקרקע ביד לוי ואפשר דע\"ז ודאי לא היה שמעון נאמן להעיד דה\"ל כאלו העיד על עצמו להוציאה מחזקת יהודה לחזקתו ולא שתעמוד ביד לוי וצ\"ע ודו\"ק:",
+                      "ref": "Chidushei Halachot on Bava Batra 43b:2",
+                      "sourceHeRef": "חדושי הלכות על בבא בתרא מ״ג ב:ב",
+                      "sourceRef": "Chidushei Halachot on Bava Batra 43b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כגון דאית ליה סהדי למר כו'</strong> - תימה דלא הוה ליה למימר כגון דהא מעיקרא נמי ידעינן דאית ליה לשמעון סהדי דדידיה היא כדקתני ראובן שגזל שדה משמעון ואי לית ליה לשמעון סהדי שגזלה ראובן ממנו אנן היכי ידעינן שגזלה ומכח מה הוא מערער ויהודה נמי ע\"כ אית ליה סהדי דאי לאו הכי מאיזה כח מערער והכי הל\"ל כיון דאית ליה סהדי למר כו' ומאי ס\"ד דמקשה ואין לומר דמעיקרא ס\"ד דאיירי כגון דאית ליה ליהודה עדים דשל אבותיו היא ולשמעון הנגזל אית ליה סהדי דאכלה שני חזקה וטעין מיהודה זבנה דא\"כ מאי קאמר בהאי זכותא דמפיק לה מלוי ליפקה מיהודה הא בהאי זכותא דמצי לאפוקי מלוי לא מצי לאפוקי מיהודה דבעדי גזילה המעידין שגזל ראובן ממנו מצי מפיק לה מלוי שבא מכח ראובן ומיהודה לא מצי מפיק לה אלא בעדי חזקה ונראה לרשב\"א דס\"ד דמעיקרא דיהודה בעי לאפוקי מלוי משום דאית ליה סהדי דראובן מכר לו וללוי אין עדים ובא שמעון להעיד ללוי דשל לוי היא ומשום הכי פריך כיון דמסהיד דהאי ארעא דלוי היא היכי מפיק לה מיניה והוה מצי לשנויי דלא מסהדי בהאי לישנא דלוי היא אלא דאמר דראובן מכרה ללוי אלא דעדיפא מינה משני והשתא פריך שפיר דבההיא זכותא דמפיק לה מלוי ליפקה מיהודה דשניהם באין מכח ראובן ואם יביא שמעון עדים דראובן גזלה ממנו מצי לאפוקי מתרוייהו:",
+              "ref": "Tosafot on Bava Batra 43b:6:1",
+              "sourceHeRef": "תוספות על בבא בתרא מ״ג ב:ו:א",
+              "sourceRef": "Tosafot on Bava Batra 43b:6:1"
+            }
+          ]
+        }
+      },
+      "en": "<b>And if you wish, say</b> instead: It is referring to a case <b>where</b> this <b>Master,</b> <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>, <b>has witnesses</b> attesting to his ownership, <b>and</b> that <b>Master,</b> <span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Yehuda</span>, also <b>has witnesses</b> attesting to his ownership, <b>and the Sages said</b> that under such circumstances <b>the land should remain where it is.</b> That is to say, it should remain with the one currently in possession. If <span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Yehuda</span> were to be awarded the land, <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> would not be able to remove the land from his possession despite having witnesses to support his claim, as <span href=\"/topics/judah\" class=\"namedEntityLink\" data-slug=\"judah\">Yehuda</span> also has witnesses supporting his claim and would be in possession of the land. As a result of <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>’s testimony, the land will be awarded to <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>, who has possession as a result of his purchase from <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span>. Then <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span> will be able to remove the land from <span href=\"/topics/levi-b-sisi\" class=\"namedEntityLink\" data-slug=\"levi-(ambiguous)\">Levi</span>’s possession by proving that <span href=\"/topics/reuben\" class=\"namedEntityLink\" data-slug=\"reuben\">Reuven</span> stole it from him. Therefore, <span href=\"/topics/simeon\" class=\"namedEntityLink\" data-slug=\"simeon\">Shimon</span>’s testimony is biased.",
+      "he": "וְאִי בָּעֵית אֵימָא: כְּגוֹן דְּאִית לֵיהּ סָהֲדֵי לְמָר וְאִית לֵיהּ סָהֲדֵי לְמָר, וַאֲמוּר רַבָּנַן: אַרְעָא, הֵיכָא דְּקַיְימָא – תֵּיקוּם.",
+      "ref": "Bava Batra 43b:6"
+    }
+  ],
+  "title": "Bava Batra 43b",
+  "titleHebrew": "בבא בתרא מג,ב",
+  "topics": []
+}

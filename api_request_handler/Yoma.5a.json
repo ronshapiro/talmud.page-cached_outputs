@@ -1,0 +1,988 @@
+{
+  "id": "5a",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דבר שאין מעכב בהן לדורות</strong> - לקמיה מפרש לה:",
+              "ref": "Rashi on Yoma 5a:1:1",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:א:א",
+              "sourceRef": "Rashi on Yoma 5a:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב יוסף:</b> לענין חובת <b>סמיכה</b> על הקרבנות <b>איכא בינייהו</b> <span class=\"hebrew-emphasis\">[יש ביניהם]</span> הבדל למעשה. <b>למאן דאמר</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאמר]</span> כי <b>כל הכתוב בהן</b> במילואים <b>מעכב בהן</b> אף דבר שאין מעכב לדורות —אם כן <b>סמיכה מעכבא</b> <span class=\"hebrew-emphasis\">[מעכבת],</span> <b>למאן דאמר</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאמר]</span> <b>דבר שאין מעכב לדורות אין מעכב בהן</b> — אם כן <b>סמיכה לא מעכבא</b> <span class=\"hebrew-emphasis\">[אינה מעכבת]</span> גם במילואים.",
+              "ref": "Steinsaltz on Yoma 5a:1",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:א",
+              "sourceRef": "Steinsaltz on Yoma 5a:1"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A mnemonic based on letters in common was suggested to associate each opinion cited in the Gemara with the <i>amora </i>who stated it: Rav YoSef: <i>Semikha</i>, placing hands; Rav Naĥman: <i>TeNufa</i>, waving; Rav Pappa: <i>Perisha</i>, sequestering; Ravina: <i>Ribbui</i>, multiple garments (Rav Shlomo Cohen).",
+              "he": "יש מי שנתן סימן לדעות אלה לפי אותיות הא\"ב, בדרך זו: רב יוסף — סמיכה, רב נחמן — תנופה, רב פפא — פרישה, רבינא — ריבוי (ר' שלמה כהן).",
+              "ref": "Steinsaltz comment #1 on Yoma 5a:1",
+              "sourceHeRef": "אָמַר רַב יוֹסֵף סְמִיכָה אִיכָּא בֵּינַיְיהוּ",
+              "sourceRef": "Rav Yosef said the difference between them relates to the question of placing hands"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה סמיכה כו' ובחטאת כתיב ואת כל הדם ישפוך אל וגו' כו' עכ\"ל ר\"ל בחטאת בפר החטאת של מילואים כתיב גבי צוואה אבל הלשון מגומגם מאי ובחטאת כתיב דקרא דמייתי לעיל מיניה ואת הדם יצק אל יסוד וגו' נמי בפר חטאת של מילואים כתיב גבי עשייה ודו\"ק:",
+                      "ref": "Chidushei Halachot on Yoma 5a:2",
+                      "sourceHeRef": "חידושי הלכות על יומא ה׳ א:ב",
+                      "sourceRef": "Chidushei Halachot on Yoma 5a:2"
+                    }
+                  ]
+                },
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "and it was slaughtered. Moses took the blood and with his finger put some on each of the horns of the altar, cleansing the altar; then he poured out the blood at the base of the altar. Thus he consecrated it in order to make expiation upon it.",
+                      "he": "וַיִּשְׁחָ֗ט וַיִּקַּ֨ח מֹשֶׁ֤ה אֶת־הַדָּם֙ וַ֠יִּתֵּ֠ן עַל־קַרְנ֨וֹת הַמִּזְבֵּ֤חַ סָבִיב֙ בְּאֶצְבָּע֔וֹ וַיְחַטֵּ֖א אֶת־הַמִּזְבֵּ֑חַ וְאֶת־הַדָּ֗ם יָצַק֙ אֶל־יְס֣וֹד הַמִּזְבֵּ֔חַ וַֽיְקַדְּשֵׁ֖הוּ לְכַפֵּ֥ר עָלָֽיו׃",
+                      "link": "/Leviticus/8",
+                      "ref": "Leviticus 8:15",
+                      "sourceHeRef": "ויקרא ח:טו",
+                      "sourceRef": "Leviticus 8:15"
+                    },
+                    {
+                      "en": "When he has finished purging the Shrine, the Tent of Meeting, and the altar, the live goat shall be brought forward.",
+                      "he": "וְכִלָּה֙ מִכַּפֵּ֣ר אֶת־הַקֹּ֔דֶשׁ וְאֶת־אֹ֥הֶל מוֹעֵ֖ד וְאֶת־הַמִּזְבֵּ֑חַ וְהִקְרִ֖יב אֶת־הַשָּׂעִ֥יר הֶחָֽי׃",
+                      "link": "/Leviticus/16",
+                      "ref": "Leviticus 16:20",
+                      "sourceHeRef": "ויקרא טז:כ",
+                      "sourceRef": "Leviticus 16:20"
+                    },
+                    {
+                      "en": "the priest shall turn the fat into smoke on the altar, and the breast shall go to Aaron and his sons.",
+                      "he": "וְהִקְטִ֧יר הַכֹּהֵ֛ן אֶת־הַחֵ֖לֶב הַמִּזְבֵּ֑חָה וְהָיָה֙ הֶֽחָזֶ֔ה לְאַהֲרֹ֖ן וּלְבָנָֽיו׃",
+                      "link": "/Leviticus/7",
+                      "ref": "Leviticus 7:31",
+                      "sourceHeRef": "ויקרא ז:לא",
+                      "sourceRef": "Leviticus 7:31"
+                    },
+                    {
+                      "en": "and take some of the bull’s blood and put it on the horns of the altar with your finger; then pour out the rest of the blood at the base of the altar.",
+                      "he": "וְלָֽקַחְתָּ֙ מִדַּ֣ם הַפָּ֔ר וְנָתַתָּ֛ה עַל־קַרְנֹ֥ת הַמִּזְבֵּ֖חַ בְּאֶצְבָּעֶ֑ךָ וְאֶת־כׇּל־הַדָּ֣ם תִּשְׁפֹּ֔ךְ אֶל־יְס֖וֹד הַמִּזְבֵּֽחַ׃",
+                      "link": "/Exodus/29",
+                      "ref": "Exodus 29:12",
+                      "sourceHeRef": "שמות כט:יב",
+                      "sourceRef": "Exodus 29:12"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">סמיכה איכא בינייהו</strong> - תימה לי אמאי לא קאמר נמי שירים מעכבא איכא בינייהו דלמאן דאמר כל הכתוב בהן מעכב מעכבי דכתיב <span class=\"parenthesized\">(ויקרא ח׳:ט״ו)</span> ואת הדם יצק אל יסוד המזבח ובחטאת כתיב <span class=\"parenthesized\">(שמות כ״ט:י״ב)</span> ואת כל הדם תשפוך אל יסוד המזבח ולמאן דאמר דבר שאין מעכב לדורות אין מעכב לא מעכבי וי\"ל דלכולי עלמא שירים לא מעכבי בהו דאפילו ד' מתנות שבחטאת לא מעכבי בה אלא אחת מהן דכתיב <span class=\"parenthesized\">(שם)</span> ונתתה על קרנות המזבח קרנת כתיב וקרן אחת מעכבא בה ותו לא ואפילו למ\"ד יש אם למקרא שירים לא מעכבי בה מדכתיב בחטאת ואת כל הדם תשפוך ולא כתיב ושפכת כל הדם אל יסוד המזבח כדכתיב בתחילת המתנות ונתת על קרנת א\"כ ניתקן הכתוב ועשאן שירי מצוה לומר שאין מעכבא והכי אמרינן פרק איזהו מקומן <span class=\"parenthesized\">(זבחים נב.)</span> גבי פר כהן משיח ואת כל הדם ישפוך אל יסוד המזבח נתקו הכתוב ועשאו שירי מצוה ופירש\"י מדשינה בחילוק לשונו דבתחילת מתנות כתיב והזה ונתן והכא כתב ישפך ולא כתב ושפך ואפילו למאן דפליג התם ואית ליה דשירים הפנימיים מעכבי היינו מדכתיב ביוה\"כ <span class=\"parenthesized\">(ויקרא ט״ז:כ׳)</span> וכלה מכפר ודרשינן מיניה אם כלה כפר ואם לא כלה לא כפר וגמרי פנימיים. . מהדדי התם בפרק ב\"ש <span class=\"parenthesized\">(זבחים מ.)</span> אבל בשירים החיצונים ליכא מאן דפליג מיהו בירושלמי קאמר סמיכה ושירי הדם שאין מעכב לדורות אין מעכבת כאן ומשמע דפליגי נמי בשירים אבל תימה לי לימא הקטרת אימורים דכתיב בההוא ענינא ואינן מעכבין לדורות איכא בינייהו וי\"ל דלכולי עלמא לא מעכבי דהא דאינן מעכבין לדורות היינו משום דכתיב <span class=\"parenthesized\">(ויקרא ז׳:ל״א)</span> והיה החזה לאהרן ולבניו ודרשינן בר\"פ תמיד נשחט <span class=\"parenthesized\">(פסחים נט:)</span> יכול נטמאו אימורים או שאבדו לא יהיו כהנים זכאין בחזה ושוק תלמוד לומר והיה החזה לאהרן ולבניו מ\"מ וגבי מלואים נמי כתיב גבי חזה והיה לאהרן ולבניו ונדרוש מהתם והיה לאהרן ולבניו מכל מקום:",
+              "ref": "Tosafot on Yoma 5a:1:1",
+              "sourceHeRef": "תוספות על יומא ה׳ א:א:א",
+              "sourceRef": "Tosafot on Yoma 5a:1:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">Rav Yosef</span> said:</b> The practical difference <b>between them</b> relates to the question of <b>placing hands</b> on the head of an animal brought as an offering. According <b>to the one who said:</b> Failure to perform <b>all</b> the details <b>that are written in its</b> regard, including details that do not invalidate offerings throughout the generations, <b>invalidates</b> the inauguration, failure to perform the <b>placing</b> of <b>hands</b> on the head of the animal <b>also invalidates</b> the inauguration. According <b>to the one who said: A matter that does not invalidate</b> offerings <b>throughout the generations does not invalidate</b> the inauguration, failure to perform the <b>placing</b> of <b>hands</b> on the head of the animal <b>does not invalidate</b> the inauguration.",
+      "he": "אָמַר <span href=\"/topics/rav-yosef\" class=\"namedEntityLink\" data-slug=\"ר-יוסף-(ambiguous)\">רַב יוֹסֵף</span>: סְמִיכָה אִיכָּא בֵּינַיְיהוּ. לְמַאן דְּאָמַר כׇּל הַכָּתוּב בָּהֶן מְעַכֵּב בָּהֶן — סְמִיכָה מְעַכְּבָא, לְמַאן דְּאָמַר דָּבָר שֶׁאֵין מְעַכֵּב לְדוֹרוֹת אֵין מְעַכֵּב בָּהֶן — סְמִיכָה לָא מְעַכְּבָא.",
+      "ref": "Yoma 5a:1"
+    },
+    {
+      "commentary": {
+        "Malbim": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>[הערה: המאמר כולו מוקשה, למה הביא פה הדרוש אין לי אלא דם הטהור וכולי שאין מקומו פה? ומדוע דחה שלא דבר על נותר ופיגול דכתיב \"לא ירצה\", והלא גם טומאה בכרת? ועוד כמה קושיות יובנו מן הביאור.]</b><br>ונרצה לו לכפר: <b>הכפרה</b> הוא רק בדם הנזרק כמו שכתוב \"ואני נתתיו לכם על המזבח לכפר על נפשותיכם כי הדם הוא בנפש יכפר\" <span class=\"parenthesized\">(ויקרא י״ז:י״א)</span>. ולראב\"ע הוא מענין כופר ופדיון. וצריך שיהיה ממין המתחייב – נפש תחת נפש. ולדעת חז\"ל הוא מענין נקיות כמו שמובא בירושלמי <span class=\"parenthesized\">(פ\"א דשבת)</span> זריזות מביאה לידי נקיות שנאמר \"וכלה..וכפר\". וכן הוא בזהר תצוה <span class=\"parenthesized\">(דף קפה:)</span>. <span class=\"parenthesized\">(ועיין רש\"י וישלח על \"אכפרה פניו במנחה\")</span>. וצריך שינקה עון הנפש בנפש ולכן תראה שבכל מקום שהמכפר אינו דם פרט בו \"לכפר על נפשותיכם\" <span class=\"parenthesized\">(שמות לד, במדבר לא, במדבר נ)</span>, ולא הוצרך לפרט זאת בכפרת דם. וזהו שאמר בספרא \"ונרצה לו לכפר\" – במכפר וכולי, רוצה לומר שהסמיכה תרצה לו לכפר אחר כך על ידי זריקת הדם שהוא עיקר הכפרה. ועל כן אמר \"לכפר\" בלמ\"ד השימוש, שמורה הגבול שאליו. ועל זה הקשה בסוף דבריו <span class=\"parenthesized\">(מובא ביומא דף ה, זבחים דף ו, מנחות צג)</span> הואיל ומצאנו שאין כפרה אלא בדם, מה תלמוד לומר \"וסמך..ונרצה\"? ומשיב שאם עשאה לסמיכה שירי מצוה מעלה עליו הכתוב כאילו לא כפר וכפר. רוצה לומר, שכפר על מצות עשה ולא כפר על עשה דסמיכה עצמו. ולמאן דאמר דמכפר גם על עשה דאחר שחיטה מפרש שלא כפר קמיה שמיא <span class=\"parenthesized\">(כן הוא בזבחים שם)</span>. ומה שאמר בספרא אין לי אלא דם הטהור – אגב אורחא בא, לפרושי דגם דם הטמא מכפר. והובא כאן מפני שיש לו שייכות לההבדל שכתבתי בפעל \"רצה\" הנקשר עם מלת \"לו\" שמורה שירצה לצורך המקריב כמו שכתבנו בסימן הקודם וכמו שנבאר. וזה פי' הברייתא: שהם השכילו במ\"ש \"ונשא אהרן את עון הקדשים אשר יקדישו..לרצון להם לפני ה' \" – משמע שנשיאת הציץ יועיל לרצון אל המקריב, לא לרצון אל הקרבן עצמו, רוצה לומר שירצה על קרבן פסול כמו פיגול ונותר, דהא אמר \"לרצון להם\", מבואר שמדבר מקרבן שאין בו רצון אל המקריב. כי אם היה מדבר מקרבן שאין בו רצון כלל היה צריך לומר \"לרצון\" סתם, בלא מלת \"להם\" <span class=\"parenthesized\">(וכמו שבררנו זה בסימן הקודם שכן דייק במה שכתב \"ונרצה לו\")</span>. ועל זה אמר אם עון פיגול, כבר נאמר \"לא יחשב\" <span class=\"parenthesized\">(שאין ראוי כלל)</span> ואם עון נותר, כבר נאמר \"לא ירצה\" שאינו מרצה כלל והקרבן עצמו פסול דהא לא כתב \"לא ירצה לו\". ועל כרחך מדבר בעון טומאה שהקרבן בפני עצמו כשר והציץ בא להועיל שיהיה לרצון אל המקריב. [וברייתא זאת מובאת <span class=\"parenthesized\">(זבחים כג, מנחות כו, ובכמה מקומות. ורש\"י ותוס' נחלקו בגירסתה. ועיין בקרבן אהרן. ועיין מה שכתבנו בפר' צו ופה לענינינו אין נפקא מינה בזה, לכן קרצתי מזה.] והנה במנחות <span class=\"parenthesized\">(דף כה)</span> הקשה על ברייתא זאת אימא עון דבעל מום דהותר מכללו בעופות!. ומשני עליך אמר קרא \"כי לא לרצון יהיה לכם\" – נראה פירושו כי אצל בעל מום אמר \"כל אשר בו מום לא תקריבו כי לא לרצון יהיה לכם\" <span class=\"parenthesized\">(ויקרא כב, כ)</span>, \"כי משחתם בהם מום בם לא ירצו לכם\" <span class=\"parenthesized\">(ויקרא כב, כה)</span>. וזה סותר הכלל אשר הנחנו שפעל \"רצה\" שאחריו מלת \"לכם\" פירושו שירצה לצורך המקריב, שלפי זה מה שכתוב בבעל מום \"כי לא לרצון יהיה לכם\" פירושו שלא ירצו לצורך המקריב, והא בבעל מום גם הקרבן מצד עצמו פסול! ועל זה משני בגמ' עליך אמר קרא כי לא לרצון יהיה לכם – רוצה לומר שמזה הטעם בעצמו אמר \"לרצון לכם\" שבא ללמדנו בל נטעה שהציץ מרצה על בעל מום יען שהותר מכללו בעופות, לכן אמר \"כי לא לרצון יהיה לכם\" שגם הציץ המרצה \"לכם\" לצרככם, לא ירצה על בעל מום. ובזה תבין מה שכתוב בספרא <span class=\"parenthesized\">(אמור פרשה ז מ\"ה)</span> \"כי לא לרצון יהיה לכם\" – מלמד שאין מרצים. וכן שם <span class=\"parenthesized\">(אמור פרק ז מ\"יב)</span> \"לא ירצו לכם\" – מלמד שאין מרצים; רוצה לומר שמלמדנו שאין הציץ מרצה על בעל מום אף על גב שהותר מכללו.",
+              "ref": "Malbim on Leviticus, Vayikra 32:1",
+              "sourceHeRef": "מלבי\"ם על ויקרא, ויקרא לב:א",
+              "sourceRef": "Malbim on Leviticus, Vayikra 32:1"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "<b>A dilemma was raised before</b> the Sages: When one brings a burnt offering, which atones for violations of positive mitzvot, <b>does it atone</b> even <b>for</b> a violation of <b>a positive mitzva that</b> one committed <b>after designating</b> the animal as an offering, <b>or does it not atone</b> for such a violation?",
+                  "The Gemara elaborates: <b>Do we say</b> that the <i>halakha</i> in this case is <b>just as it is with regard to a sin offering,</b> in that <b>just as a sin offering does</b> atone for a sin <b>that</b> one committed <b>before designation</b> of the animal but does <b>not</b> atone for a sin <b>that</b> one committed <b>after designation, here too,</b> a burnt offering <b>does</b> atone for violations <b>that</b> one committed <b>before designation</b> but does <b>not</b> atone for those committed <b>after designation?</b>",
+                  "<b>Or, perhaps</b> a burnt offering is <b>not similar to a sin offering, as</b> with regard to <b>a sin offering one must bring one sin offering for each and every sin</b> he commits. <b>But here, since</b> a burnt offering <b>atones</b> even for one who <b>has</b> committed <b>several</b> violations of <b>positive mitzvot,</b> one may claim that <b>it also atones</b> even <b>for</b> the violation of <b>a positive mitzva that</b> one committed <b>after designation</b> of the animal.",
+                  "The Gemara suggests: <b>Come</b> and <b>hear</b> proof from a <i>baraita</i>: The verse states: <b>“And he shall place</b> his hand on the head of the burnt offering, <b>and it shall be accepted</b> for him to atone for him” (Leviticus 1:4). <b>And does placing hands atone</b> for one’s sins? <b>But isn’t atonement</b> achieved <b>only by</b> the sprinkling of <b>the blood, as it is stated: “For it is the blood that makes atonement by reason of the life”</b> (Leviticus 17:11)? <b>Rather, what</b> is the meaning when <b>the verse states: “And he shall place…and it shall be accepted</b> for him <b>to atone”?</b> This teaches <b>that if one deemed</b> the ritual of <b>placing hands</b> to be <b>a non-essential mitzva</b> and consequently failed to perform it, <b>the verse ascribes to him</b> blame <b>as though</b> the offering <b>did not atone</b> for his sins; <b>and</b> nevertheless, the offering <b>atoned</b> for his sins.",
+                  "<b>What,</b> does the final clause of the <i>baraita</i> <b>not</b> mean <b>that</b> the offer-ing <b>atoned</b> for the violation of any <b>positive mitzva that</b> the owner committed <b>before designation</b> of the animal, but <b>it did not atone for</b> violation of <b>the positive mitzva of placing hands</b> on the head of the offering, <b>as that constitutes</b> a violation of <b>a positive mitzva after designation</b> of the animal? Apparently, a burnt offering does not atone for the violations committed after the animal’s designation.",
+                  "<b>Rava said</b> in response: <b>You say</b> that <b>the positive mitzva of placing hands</b> is proof? <b>There it is different, since as long as he does not slaughter</b> the offering, <b>he remains</b> obligated <b>to stand and place</b> his <b>hands</b> on its head. He has not yet violated the mitzva. <b>When does</b> the violation of this <b>positive mitzva occur?</b> It occurs <b>after</b> the <b>slaughter,</b> at which point fulfillment of the mitzva is no longer possible. And with regard to a violation committed <b>after</b> the <b>slaughter, we do not raise the dilemma;</b> clearly a burnt offering does not atone for such a violation.",
+                  "<b>Rav Huna bar Yehuda said to Rava: Say</b> the <i>baraita</i> means that the offering <b>atoned</b> for the transgression of <b>the person,</b>"
+                ],
+                [
+                  "but <b>it did not atone</b> for him <b>before Heaven,</b> i.e., it is not accepted by God as a perfect offering.",
+                  "<b>Didn’t we learn</b> in a mishna with regard to the purification process of a leper (<i>Nega’im</i> 14:10): The verse states: <b>“And the rest of the oil that is in</b> the priest’s <b>hand</b> he shall put upon the head of the one that is to be purified, <b>to make atonement for him before the Lord”</b> (Leviticus 14:18). This teaches that <b>if</b> the priest <b>placed</b> the oil on the leper’s head, <b>it atoned</b> for him, and he is purified, <b>but if he did not place</b> the oil on his head, <b>it did not atone</b> for him; this is <b>the statement of Rabbi Akiva. Rabbi Yoḥanan ben Nuri says:</b> Placement of the oil on the leper’s head <b>is a non-essential mitzva.</b> Therefore, <b>whether</b> the oil <b>was placed</b> on his head or <b>whether it was not placed</b> on his head, <b>it atoned</b> for him, <b>but</b> the verse <b>ascribes</b> the leper blame <b>as though it did not atone</b> for him.",
+                  "The Gemara comments: <b>What</b> is the meaning of the phrase: <b>As though it did not atone</b> for him? <b>If we say that it is necessary</b> for the leper <b>to bring another offering</b> of oil, <b>didn’t you say</b> that <b>whether</b> the oil <b>was placed</b> on his head or <b>whether it was not placed</b> on his head, <b>it atoned</b> for him? <b>Rather,</b> the meaning of the statement is as follows: <b>It atoned</b> for <b>the person,</b> but <b>did not atone</b> for him <b>before Heaven. Here too,</b> with regard to one who sacrificed an offering without placing hands on its head, the <i>baraita</i> apparently means that the offering <b>atoned</b> for the owner’s transgression, even if it did not atone for him before Heaven.",
+                  "The Gemara rejects this suggestion: <b>There too,</b> with regard to the purification process of a leper, one can explain that the oil atoned for one matter and did not atone for another: It <b>atoned;</b> in other words, the <b>placement</b> of oil on the leper’s right <b>thumb and big toe,</b> which was performed, effected its atonement. But it <b>did not atone,</b> i.e., there still needs to be an atonement effected by <b>placement</b> of oil on <b>the</b> leper’s <b>head,</b> and another <i>log</i> of oil must be brought for the performance of that act.",
+                  "The Gemara returns to the matter of atonement for transgressions committed after the offering’s designation. <b>Come</b> and <b>hear</b> another proof from a <i>baraita</i>: <b>Rabbi Shimon says:</b> With regard to the communal peace offering of two <b>lambs</b> that accompanies the two loaves on <b><i>Shavuot</i>, for what</b> sin <b>are they brought?</b>",
+                  "The Gemara interrupts the citation of the <i>baraita</i>: <b>The</b> two <b>lambs</b> sacrificed on <b><i>Shavuot</i></b> are not brought for a sin; <b>they are peace offerings</b> brought with the annual public offering of two loaves of new wheat. <b>Rather,</b> the <i>baraita</i> should be emended as follows: <b>For what</b> sin <b>are the goats</b> sacrificed on <b><i>Shavuot</i></b> as a sin offering <b>brought?</b>",
+                  "Rabbi Shimon answers: They are brought <b>for</b> the <b>defiling of</b> the <b>Temple,</b> by entering it while ritually impure, <b>or</b> for defiling <b>its sacrificial foods,</b> by partaking of them while ritually impure.",
+                  "Rabbi Shimon continues: Once <b>the blood of</b> the <b>first</b> goat <b>is sprinkled</b> on the altar, thereby atoning for this defilement, <b>for what</b> sin <b>is</b> the <b>second one sacrificed?</b> It is sacrificed <b>for</b> any incident involving <b>impurity that</b> may have <b>occurred between</b> the sacrifice of <b>that</b> first goat <b>and</b> the sacrifice of <b>this</b> second goat. <b>Based on this, say</b> that <b>the Jewish people should have</b> had to <b>sacrifice their offerings at all times and at every moment,</b> as perhaps they sinned in the interim; <b>but the verse spared</b> them of this obligation.",
+                  "The Gemara infers: <b>And here,</b> where an incident involving impurity occurred between the sacrifice of the two goats, is a case <b>where</b> the <b>positive mitzva</b> of distancing ritually impure people from the Temple was violated <b>after</b> the <b>designation</b> of the offering, as both goats were designated in advance. <b>And</b> nevertheless, the second goat <b>atones</b> for the violation. Evidently, an offering can atone for transgressions committed after its designation.",
+                  "The Gemara rejects this inference: <b>If</b> both goats were <b>designated simultaneously,</b> this would <b>indeed</b> be evidence to that effect. But <b>here we are dealing with</b> a case <b>where</b> they were <b>designated sequentially,</b> and an incident involving impurity may have occurred between their respective designations.",
+                  "The Gemara challenges this assertion: <b>But shall we stand and say about the verse</b> mandating these two sin offerings <b>that when it is written, it is written</b> specifically with regard to a case <b>where</b> they are designated <b>sequentially?</b>",
+                  "<b>Rav Pappa said</b> the inference can be rejected for a different reason: <b>Do you say</b> that evidence can be adduced from <b>communal offerings? Communal offerings are different, as</b> the <b>court makes a non-verbal stipulation about them, in accordance with</b> what <b>Rav Yehuda</b> says that <b>Shmuel says. As Rav Yehuda says</b> that <b>Shmuel says:</b> With regard to <b>communal offerings,</b> the slaughtering <b>knife,</b> i.e., the act of slaughter, <b>designates them for what they are.</b> The court stipulates that the second goat be consecrated as it is sacrificed, and it therefore atones for incidents of impurity that occur beforehand. Individual offerings, by contrast, are all designated in advance.",
+                  "<b>Rav Yosef, son of Rav Shmuel, said to Rav Pappa: But does Rabbi Shimon accept</b> the opinion that <b>the court can make a non-verbal stipulation about</b> communal offerings? <b>Doesn’t Rav Idi bar Avin say</b> that <b>Rav Amram says</b> that <b>Rabbi Yitzḥak says</b> that <b>Rabbi Yoḥanan says:</b> With regard to animals designated as <b>daily offerings</b> but <b>which</b> in the end <b>were not necessary for</b> use by <b>the public,</b>"
+                ],
+                [
+                  "<b>according to the statement of Rabbi Shimon, they may not be redeemed</b> as long as they are <b>unblemished,</b> since they retain the status of offerings. But <b>according to the statement of the Rabbis, they may be redeemed</b> even when they are <b>unblemished,</b> as the court initially stipulates that if they are not needed they will not assume the status of an offering. Apparently Rabbi Shimon does not accept the notion that the court can stipulate that there be a delay in the consecration of communal offerings, and the <i>baraita</i> can be adduced as evidence that offerings atone for transgressions committed after their designation as offerings.",
+                  "<b>And furthermore,</b> continued Rav Yosef, son of Rav Shmuel, one can otherwise infer from the goats sacrificed on <i>Shavuot</i> that an offering can atone for transgressions committed after designation; as <b>Rabbi Yirmeya asked Rabbi Zeira:</b> If the <b>goats</b> sacrificed on <b><i>Shavuot</i></b> were slaughtered simultaneously and <b>their blood was collected in two cups, and the blood of</b> the <b>first</b> goat <b>was sprinkled, for what</b> sin <b>is</b> the <b>second</b> goat <b>brought?</b> There was no time in the interim for other transgressions to occur. Rabbi Zeira answered: It atones <b>for</b> any incident involving <b>impurity that occurred between the sprinkling</b> of the blood <b>of that</b> first goat <b>and</b> the sprinkling of the blood of <b>this</b> second goat.",
+                  "One can infer: Rabbi Yirmeya <b>raised the dilemma only</b> about whether or not an offering atones for the violation of <b>a positive mitzva</b> committed <b>after</b> its <b>slaughter</b> and before the sprinkling of the blood. <b>But</b> with regard to the violation of <b>a positive mitzva that</b> one committed <b>after</b> the <b>designation</b> of the offering, before its slaughter, <b>he did not raise the dilemma.</b> Apparently, it was obvious to him that the offering atones for such a violation.",
+                  "The Gemara rejects this proof: <b>Perhaps</b> Rabbi Yirmeya’s dilemma was also with regard to the violations committed after designation. He phrased his question to apply to violations committed after slaughter because <b>he was saying:</b> Even <b>if you say</b> that an offering atones for violations committed after designation, does it atone for those violations committed after slaughter? It may be that neither issue was clear to him."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Zevachim 6a:12",
+                "Zevachim 6a:13",
+                "Zevachim 6a:14",
+                "Zevachim 6a:15",
+                "Zevachim 6a:16",
+                "Zevachim 6a:17",
+                "Zevachim 6a:18",
+                "Zevachim 6b:1",
+                "Zevachim 6b:2",
+                "Zevachim 6b:3",
+                "Zevachim 6b:4",
+                "Zevachim 6b:5",
+                "Zevachim 6b:6",
+                "Zevachim 6b:7",
+                "Zevachim 6b:8",
+                "Zevachim 6b:9",
+                "Zevachim 6b:10",
+                "Zevachim 6b:11",
+                "Zevachim 6b:12",
+                "Zevachim 6b:13",
+                "Zevachim 7a:1",
+                "Zevachim 7a:2",
+                "Zevachim 7a:3",
+                "Zevachim 7a:4"
+              ],
+              "he": [
+                [
+                  "איבעיא להו אעשה דלאחר הפרשה מכפרא או לא מכפרא",
+                  "מי אמרינן מידי דהוה אחטאת מה חטאת דקודם הפרשה אין דלאחר הפרשה לא אף הכא נמי דקודם הפרשה אין לאחר הפרשה לא",
+                  "או דלמא לא דמיא לחטאת דחטאת על כל חטא וחטא בעי לאיתויי חדא חטאת והכא כיון דאיכא כמה עשה גביה מכפרא אעשה דלאחר הפרשה נמי מכפרא",
+                  "תא שמע <span class=\"parenthesized\">(ויקרא א, ד)</span> וסמך ונרצה וכי סמיכה מכפרת והלא אין כפרה אלא בדם שנאמר <span class=\"parenthesized\">(ויקרא יז, יא)</span> כי הדם הוא בנפש יכפר אלא מה תלמוד לומר וסמך ונרצה לכפר שאם עשאה לסמיכה שירי מצוה מעלה עליו הכתוב כאילו לא כיפר וכיפר",
+                  "מאי לאו דכיפר עשה דקודם הפרשה לא כיפר אעשה דסמיכה דהוה ליה עשה דלאחר הפרשה",
+                  "אמר רבא עשה דסמיכה קאמרת שאני התם דכל כמה דלא שחיט בעמוד וסמוך קאי אימת קא הוי עשה לאחר שחיטה לאחר שחיטה לא קא מיבעיא לן",
+                  "א\"ל רב הונא בר יהודה לרבא אימא כיפר גברא"
+                ],
+                [
+                  "לא כיפר קמי שמיא",
+                  "מי לא תנן <span class=\"parenthesized\">(ויקרא יד, יח)</span> והנותר בשמן אשר על כף וגו' לכפר עליו לפני ה' אם נתן כיפר ואם לא נתן לא כיפר דברי ר\"ע ר' יוחנן [בן נורי] אומר שירי מצוה הן בין ניתן בין שלא ניתן כיפר ומעלין עליו כאילו לא כיפר",
+                  "מאי כאילו לא כיפר אילימא דמבעי לאיתויי קרבן אחרינא האמרת בין ניתן בין לא ניתן כיפר אלא כיפר גברא לא כיפר קמי שמיא הכא נמי כיפר כו'",
+                  "התם נמי כיפר מתן בהונות לא כיפר מתנות הראש",
+                  "ת\"ש ר' שמעון אומר כבשי עצרת למה הן באין",
+                  "כבשי עצרת שלמים נינהו אלא שעירי עצרת למה הן באין",
+                  "על טומאת מקדש וקדשיו",
+                  "נזרק דמו של ראשון שני למה קרב על טומאה שאורעה בין זה לזה אמור מעתה ראויין היו ישראל להקריב קרבנותיהן בכל עת ובכל שעה אלא שחיסך הכתוב",
+                  "והא הכא דעשה דלאחר הפרשה וקא מכפרא",
+                  "אי דאפרשינהו בבת אחת הכי נמי הכא במאי עסקינן דאפרשינהו בזה אחר זה",
+                  "וליקו ולימא ליה לקרא דכי כתיבא בזה אחר זה כתיבא",
+                  "אמר רב פפא קרבנות צבור קאמרת שאני קרבנות צבור דלב בית דין קמתנה עליהן כדרב יהודה אמר שמואל דאמר רב יהודה אמר שמואל קרבנות צבור סכין מושכתן למה שהן",
+                  "אמר ליה רב יוסף בריה דרב שמואל לרב פפא ומי אית ליה לרבי שמעון לב בית דין מתנה עליהן והאמר רב אידי בר אבין אמר רב עמרם אמר רבי יצחק אמר רבי יוחנן תמידין שלא הוצרכו לצבור"
+                ],
+                [
+                  "לדברי ר' שמעון אין נפדין תמימים לדברי חכמים נפדין תמימין",
+                  "ועוד הא בעא מיניה ר' ירמיה מר' זירא שעירי עצרת שקבל דמן בשני כוסות ונזרק דמו של ראשון שני למה הוא בא על טומאה שאורעה בין [זריקה של] זה לזה <span class=\"parenthesized\">(נזרק דמו של שני למה הוא קריבין)</span>",
+                  "עד כאן לא מיבעיא ליה אלא עשה דלאחר שחיטה אבל עשה דלאחר הפרשה לא קא מיבעיא ליה",
+                  "דלמא אם תימצי לומר קאמר:"
+                ]
+              ],
+              "link": "/Zevachim/6a",
+              "originalRefsBeforeRewriting": [
+                "Zevachim 6a:15"
+              ],
+              "ref": "Zevachim 6a:12-7a:4",
+              "sourceHeRef": "זבחים ו׳ א",
+              "sourceRef": "Zevachim 6a"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The animal should be slaughtered in the place where <i>semichah</i> is performed. The animal must be slaughtered directly after <i>semichah</i>. If one slaughtered it in a different place or waited [before slaughtering it], the slaughter is acceptable.<br><i>Semichah</i> is an incremental aspect of the mitzvah. Accordingly, if one did not perform <i>semichah</i>, the sacrifice [still] brings atonement; [the <i>semichah</i>] is not an indispensable requirement. Nevertheless, it is considered as if the sacrifice did not bring atonement.",
+              "he": "וּבְמָקוֹם שֶׁסּוֹמְכִין שׁוֹחֲטִין. וְתֵכֶף לִסְמִיכָה שְׁחִיטָה. וְאִם שָׁחַט בְּמָקוֹם אַחֵר אוֹ שֶׁשָּׁהָה שְׁחִיטָתוֹ כְּשֵׁרָה. וְהַסְּמִיכָה שְׁיָרֵי מִצְוָה הִיא לְפִיכָךְ אִם לֹא סָמַךְ כִּפֵּר וְאֵינָהּ מְעַכֶּבֶת וְאַף עַל פִּי כֵן מַעֲלִין עָלָיו כְּאִלּוּ לֹא כִּפֵּר:",
+              "ref": "Mishneh Torah, Sacrificial Procedure 3:12",
+              "sourceHeRef": "הלכות מעשה הקרבנות ג:יב",
+              "sourceRef": "Sacrificial Procedure 3:12"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: ובהלכות קרבנות הקבועים <b>לדורות מנא לן דלא מעכבא</b> <span class=\"hebrew-emphasis\">[מנין לנו</span> שאין הסמיכה <span class=\"hebrew-emphasis\">מעכבת]?</span> ומשיבים: <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]</span> נאמר: <b>\"וסמך</b> ידו על ראש העולה <b>ונרצה</b> לו לכפר עליו<b>\"</b> (ויקרא א, ד), <b>וכי סמיכה מכפרת</b> ובה תלויה הכפרה? <b>והלא אין כפרה אלא בדם, שנאמר: \"כי הדם הוא בנפש יכפר\"</b> (ויקרא יז, יא)!",
+              "ref": "Steinsaltz on Yoma 5a:2",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:ב",
+              "sourceRef": "Steinsaltz on Yoma 5a:2"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Although the one bringing an offering is obligated to place his hands on the offering, if he fails to do so, the offering is still valid and effects atonement. Nevertheless, it is considered as though the individual did not achieve optimal atonement (Rambam<i> Sefer Avoda, Hilkhot Ma’aseh  HaKorbanot </i>3:12).",
+              "he": "",
+              "ref": "Steinsaltz comment #1 on Yoma 5a:2",
+              "sourceHeRef": "סְמִיכָה אֵינָהּ מְעַכֶּבֶת",
+              "sourceRef": "Failure to place hands on the head of the animal does not invalidate the offering"
+            }
+          ]
+        },
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>כי הדם וגו'. </b>כי הדם הוא בנפש יכפר, מלמד שאין כפרה אלא בדם .<br><span class=\"parenthesized\">(יומא ה' א')</span>",
+              "ref": "Torah Temimah on Torah, Leviticus 17:11:3",
+              "sourceHeRef": "תורה תמימה על התורה, ויקרא יז:יא:ג",
+              "sourceRef": "Torah Temimah on Torah, Leviticus 17:11:3"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "He shall lay his hand upon the head of the burnt offering, that it may be acceptable in his behalf, in expiation for him.",
+              "he": "וְסָמַ֣ךְ יָד֔וֹ עַ֖ל רֹ֣אשׁ הָעֹלָ֑ה וְנִרְצָ֥ה ל֖וֹ לְכַפֵּ֥ר עָלָֽיו׃",
+              "link": "/Leviticus/1",
+              "ref": "Leviticus 1:4",
+              "sourceHeRef": "ויקרא א:ד",
+              "sourceRef": "Leviticus 1:4"
+            },
+            {
+              "en": "For the life of the flesh is in the blood, and I have assigned it to you for making expiation for your lives upon the altar; it is the blood, as life, that effects expiation.",
+              "he": "כִּ֣י נֶ֣פֶשׁ הַבָּשָׂר֮ בַּדָּ֣ם הִוא֒ וַאֲנִ֞י נְתַתִּ֤יו לָכֶם֙ עַל־הַמִּזְבֵּ֔חַ לְכַפֵּ֖ר עַל־נַפְשֹׁתֵיכֶ֑ם כִּֽי־הַדָּ֥ם ה֖וּא בַּנֶּ֥פֶשׁ יְכַפֵּֽר׃",
+              "link": "/Leviticus/17",
+              "ref": "Leviticus 17:11",
+              "sourceHeRef": "ויקרא יז:יא",
+              "sourceRef": "Leviticus 17:11"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> with regard to the <i>halakhot</i> of offerings that apply <b>throughout the generations</b> the Gemara asks: <b>From where do we derive</b> that failure to place hands on the head of the animal <b>does not invalidate</b> the offering? The Gemara answers: <b>As it was taught</b> in a <i>baraita</i> that the verse states: <b>“And he shall place</b> his hand on the head of the burnt-offering, <b>and it shall be accepted</b> for him to atone on his behalf” (Leviticus 1:4). <b>Does</b> the <b>placing</b> of <b>hands atone</b> for one’s sins? <b>Isn’t atonement</b> accomplished <b>only by</b> the sprinkling of <b>the blood, as it is stated: “For it is the blood that makes atonement by reason of the life”</b> (Leviticus 17:11)?",
+      "he": "וּלְדוֹרוֹת מְנָא לַן דְּלָא מְעַכְּבָא? דְּתַנְיָא: ״וְסָמַךְ״ ״וְנִרְצָה״. וְכִי סְמִיכָה מְכַפֶּרֶת? וַהֲלֹא אֵין כַּפָּרָה אֶלָּא בְּדָם, שֶׁנֶּאֱמַר: ״כִּי הַדָּם הוּא בַּנֶּפֶשׁ יְכַפֵּר״!",
+      "ref": "Yoma 5a:2"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "10) This tells me [(that the tzitz conciliates)] only in respect to the blood. Whence do we derive the same for the fistful, the frankincense, the meal-offering of the Cohanim, the meal-offering of the anointed high-priest, and the libation meal-offering? (that if they were offered in a state of uncleanliness, the tzitz conciliates) From (Shemoth, Ibid.): \"for all the gifts of their consecrations.\" This tells me only of men. Whence is it derived that the same applies with women? It tells me only of Israelites. Whence is it derived that the same applies with proselytes and with bondsmen? It is, therefore, written — in addition — \"which they shall consecrate.\" Since we find that only the blood effects atonement, what is the intent of \"And he shall place his hand … and it shall be acceptable\"? To teach us that if he treated semichah lightly (and did not perform it), it is as if there were no atonement. R. Shimon says (Ibid.): \"to make atonement alav\" (lit., \"upon him\"). What is \"upon him\" (i.e., if he said: \"A burnt-offering upon me\"), he must make restitution (if it died or were stolen). And, what is not \"upon him\" (i.e., if he said: \"Let this be a burnt-offering\"), he need not make restitution.",
+              "he": "[י] אין לי אלא עונות דם; מנין הקומץ והלבונה והקטורת ומנחת כהנים ומנחת כהן משוח ומנחת נסכים? תלמוד לומר \"לכל מַתְּנֹת קדשיהם\" <span class=\"parenthesized\">(שמות כח, לח)</span>. אין לי אלא של אנשים; של נשים מנין? אין לי אלא של ישראל; של גרים ושל עבדים מנין? תלמוד לומר \"עון הקדשים\" <span class=\"parenthesized\">(שמות כח, לח)</span> – ריבה. הואיל ומצינו שאין כפרה אלא בדם, מה תלמוד לומר \"וסמך..ונרצה\"? אלא ללמד שאם עשאה לסמיכה שירי מצוה כאילו לא כפר וכפר. ר' שמעון אומר \"לכפר עליו\" – את שהוא עליו חייב באחריותו ואת שאינו עליו אינו חייב באחריותו.",
+              "ref": "Sifra, Vayikra Dibbura DeNedavah, Chapter 4 10",
+              "sourceHeRef": "ספרא, ויקרא דבורא דנדבה, פרק ד י׳",
+              "sourceRef": "Sifra, Vayikra Dibbura DeNedavah, Chapter 4 10"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "The animal should be slaughtered in the place where <i>semichah</i> is performed. The animal must be slaughtered directly after <i>semichah</i>. If one slaughtered it in a different place or waited [before slaughtering it], the slaughter is acceptable.<br><i>Semichah</i> is an incremental aspect of the mitzvah. Accordingly, if one did not perform <i>semichah</i>, the sacrifice [still] brings atonement; [the <i>semichah</i>] is not an indispensable requirement. Nevertheless, it is considered as if the sacrifice did not bring atonement.",
+              "he": "וּבְמָקוֹם שֶׁסּוֹמְכִין שׁוֹחֲטִין. וְתֵכֶף לִסְמִיכָה שְׁחִיטָה. וְאִם שָׁחַט בְּמָקוֹם אַחֵר אוֹ שֶׁשָּׁהָה שְׁחִיטָתוֹ כְּשֵׁרָה. וְהַסְּמִיכָה שְׁיָרֵי מִצְוָה הִיא לְפִיכָךְ אִם לֹא סָמַךְ כִּפֵּר וְאֵינָהּ מְעַכֶּבֶת וְאַף עַל פִּי כֵן מַעֲלִין עָלָיו כְּאִלּוּ לֹא כִּפֵּר:",
+              "ref": "Mishneh Torah, Sacrificial Procedure 3:12",
+              "sourceHeRef": "הלכות מעשה הקרבנות ג:יב",
+              "sourceRef": "Sacrificial Procedure 3:12"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שירי מצוה</strong> - כלומר שלא חש לחשוב אותה מצוה ולא סמך:",
+              "ref": "Rashi on Yoma 5a:3:1",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ג:א",
+              "sourceRef": "Rashi on Yoma 5a:3:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כאילו לא כיפר</strong> - מן המובחר:",
+              "ref": "Rashi on Yoma 5a:3:2",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ג:ב",
+              "sourceRef": "Rashi on Yoma 5a:3:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכיפר</strong> - <span class=\"parenthesized\">(דאין כפרה אלא בדם)</span> כדאמרינן בזבחים <span class=\"parenthesized\">(דף ו.)</span> כיפר לגברא דעיקר כפרה בדם אבל לא כיפר נמי <span class=\"parenthesized\">(שלא קיים)</span> מצות קונו מן המובחר:",
+              "ref": "Rashi on Yoma 5a:3:3",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ג:ג",
+              "sourceRef": "Rashi on Yoma 5a:3:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שאם עשאה לסמיכה שיירי מצוה.</b> כלו׳ שלא חש לסמוך ועשאה שירים. מעלה עליו הכתוב כאלו לא כפר שאינו נרצה לו לגמרי ואף על פי שכפר מן הדין ויש לו בו קצת כפרה ונפטר מחובת קרבנו ושמעי׳ לה להאי דינא מדסמך סמיכ׳ לנרצה לו:",
+              "ref": "Ritva on Yoma 5a:1",
+              "sourceHeRef": "ריטב\"א על יומא ה׳ א:א",
+              "sourceRef": "Ritva on Yoma 5a:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ואם כן <b>מה תלמוד לומר \"וסמך\" \"ונרצה\"?</b> — מלמד <b>שאם עשאה</b> והחשיבה <b>לסמיכה</b> רק כ<b>שירי</b> וכטפילה ל<b>מצוה</b> ולכך לא סמך —<b> מעלה עליו הכתוב כאילו לא כיפר</b> כפרה מובחרת, ועם כל זאת, להלכה <b>\"וכפר\"!</b> הרי שמצוות הסמיכה אינה מעכבת לדורות, שאף אם לא עשאה נתכפר, ואילו במילואים היתה הסמיכה מעכבת.",
+              "ref": "Steinsaltz on Yoma 5a:3",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:ג",
+              "sourceRef": "Steinsaltz on Yoma 5a:3"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "Some commentaries explain that not only did the individual fail to fulfill the positive mitzva of placing hands, it is as though he did not achieve atonement. Nevertheless, his offering was not entirely in vain, as he fulfilled that obligation, and he is not required to bring another offering (<i>Tosafot Yeshanim</i>). Others explain that since the Gemara is discussing a burnt-offering brought to atone for failure to fulfill a positive mitzva, the question is whether the offering can atone for the failure to fulfill the mitzva of placing of hands as well. Their conclusion is that it does not atone for that failure, since the mitzva of placing hands is in effect until after the animal is slaughtered (<i>Tosafot Yeshanim</i>; see Rabbi Akiva Eiger).",
+              "he": "יש מפרשים: לא רק שביטל מצוות עשה של סמיכה, אלא הרבה עבר, כאילו לא כיפר כלל. ומכל מקום כיפר לענין זה שאינו צריך להביא קרבן אחר, אלא יצא ידי חובתו בזה. ת\"י). ויש שמפרשים שכיון שמדובר כאן בקרבן עולה, וקרבן עולה מכפר על מצוות עשה, אם כן השאלה היא אם מתכפר לו בעצם הקרבת הקרבן על ביטול מצוות עשה של סמיכה, ומעירים שלענין זה לא כיפר, כי מצוות עשה של סמיכה נמשכת במשך כל הזמן עד אחר שחיטה (ראה ת\"י וראה בדברי רעק\"א).",
+              "ref": "Steinsaltz comment #1 on Yoma 5a:3",
+              "sourceHeRef": "כְּאִילּוּ לֹא כִּיפֵּר",
+              "sourceRef": "As though he did not achieve optimal atonement"
+            }
+          ]
+        },
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>לתנופה לכפר. </b>וכי תנופה מכפרת והלא אין כפרה אלא בדם, אלא שאם עשאה לתנופה שירי מצוה מעלה עליו הכתוב כאלו לא כפר וכפר .<br><span class=\"parenthesized\">(יומא ה' א')</span>",
+              "ref": "Torah Temimah on Torah, Leviticus 14:21:7",
+              "sourceHeRef": "תורה תמימה על התורה, ויקרא יד:כא:ז",
+              "sourceRef": "Torah Temimah on Torah, Leviticus 14:21:7"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "He shall lay his hand upon the head of the burnt offering, that it may be acceptable in his behalf, in expiation for him.",
+              "he": "וְסָמַ֣ךְ יָד֔וֹ עַ֖ל רֹ֣אשׁ הָעֹלָ֑ה וְנִרְצָ֥ה ל֖וֹ לְכַפֵּ֥ר עָלָֽיו׃",
+              "link": "/Leviticus/1",
+              "ref": "Leviticus 1:4",
+              "sourceHeRef": "ויקרא א:ד",
+              "sourceRef": "Leviticus 1:4"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> for <b>what</b> purpose, then, <b>does the verse state: “And he shall place…and it shall be accepted”?</b> It teaches that if <b>one deemed</b> the ritual of <b>placing hands</b> to be <b>a peripheral aspect of the mitzva</b> and consequently failed to perform it, <b>the verse ascribes to him</b> status <b>as though he did not achieve</b> optimal <b>atonement; and</b> nevertheless, the offering <b>atones</b> for his sins. Apparently, failure to lay hands on the head of the offering does not invalidate the offering throughout the generations, as atonement can be achieved without it. Nevertheless, according to the opinion of <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span>, failure to lay hands on the offering invalidates the offerings brought during the inauguration.",
+      "he": "וּמָה תַּלְמוּד לוֹמַר ״וְסָמַךְ״ ״וְנִרְצָה״? שֶׁאִם עֲשָׂאָהּ לִסְמִיכָה שְׁיָרֵי מִצְוָה — מַעֲלֶה עָלָיו הַכָּתוּב כְּאִילּוּ לֹא כִּפֵּר, וְכִפֵּר!",
+      "ref": "Yoma 5a:3"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רב נחמן בר יצחק אמר:</b> חובת <b>תנופה איכא בינייהו</b> <span class=\"hebrew-emphasis\">[יש ביניהם]</span> בין ר' יוחנן לר' חנינא, הבדל למעשה. <b>למאן דאמר</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאמר]</span> <b>כל הכתוב בהן</b> במילואים <b>מעכב בהן —</b> אם כן <b>מעכבא</b> <span class=\"hebrew-emphasis\">[מעכבת]</span> התנופה. <b>ולמאן דאמר</b> <span class=\"hebrew-emphasis\">[</span>ולשיטת <span class=\"hebrew-emphasis\">מי שאמר]</span> <b>דבר שאין מעכב לדורות אין מעכב</b> אף <b>בהן —</b> אם כן <b>לא מעכבא</b> <span class=\"hebrew-emphasis\">[אין</span> התנופה <span class=\"hebrew-emphasis\">מעכבת].</span>",
+              "ref": "Steinsaltz on Yoma 5a:4",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:ד",
+              "sourceRef": "Steinsaltz on Yoma 5a:4"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-nahman-b-yitzhak\" class=\"namedEntityLink\" data-slug=\"rav-nahman-b-yitzhak\">Rav Naḥman bar Yitzḥak</span> said:</b> The issue of <b>waving</b> the offering is the practical difference <b>between</b> the opinions of <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span>. According <b>to the one who said:</b> Failure to perform <b>all</b> the details <b>that are written in its</b> regard <b>invalidates</b> the inauguration, failure to wave the offering also <b>invalidates</b> the inauguration. <b>And</b> according <b>to the one who said: A matter that does not invalidate</b> offerings <b>throughout the generations does not invalidate</b> the inauguration, failure to wave the offering <b>does not invalidate</b> the inauguration.",
+      "he": "<span href=\"/topics/rav-nahman-b-yitzhak\" class=\"namedEntityLink\" data-slug=\"rav-nahman-b-yitzhak\">רַב נַחְמָן בַּר יִצְחָק</span> אָמַר: תְּנוּפָה אִיכָּא בֵּינַיְיהוּ. לְמַאן דְּאָמַר כׇּל הַכָּתוּב בָּהֶן מְעַכֵּב בָּהֶן — מְעַכְּבָא. וּלְמַאן דְּאָמַר דָּבָר שֶׁאֵין מְעַכֵּב לְדוֹרוֹת אֵין מְעַכֵּב בָּהֶן — לָא מְעַכְּבָא.",
+      "ref": "Yoma 5a:4"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">כָּפַר</strong> (Biblical Hebrew; compare <span dir=\"rtl\">כפף</span>) <br><b>1)</b> <i>to bend, arch over, cover</i>; see <span class=\"refLink\" data-ref=\"Jastrow, כְּפוֹר I 1\" dir=\"rtl\" href=\"/Jastrow,_כְּפוֹר I.1\">כְּפוֹר</span>, <span class=\"refLink\" data-ref=\"Jastrow, כּוֹפֶר 1\" dir=\"rtl\" href=\"/Jastrow,_כּוֹפֶר.1\">כּוֹפֶר</span> &c. <br><b><br>—2)</b> [<i>to pass over with one’s palm</i> &c., <i>to wipe out, rub</i> (compare <span class=\"refLink\" data-ref=\"Jastrow, חֲפַף 1\" dir=\"rtl\" href=\"/Jastrow,_חֲפַף.1\">חפף</span>),] <i>to deny, withhold the truth by claiming ignorance; to ignore</i> (mostly with <span class=\"refLink\" data-ref=\"Jastrow, ב 1\" dir=\"rtl\" href=\"/Jastrow,_ב.1\">ב</span> of the object). <span class=\"refLink\" data-ref=\"Bava Metzia 4a:8\" href=\"/Bava_Metzia.4a.8\">Bava Metzia 4ᵃ</span> <span dir=\"rtl\">הכּוֹפֵר במלוה</span> he who denied having received a loan (and was refuted before being sworn, see <span class=\"refLink\" data-ref=\"Jastrow, הֶיסֵּת 1\" dir=\"rtl\" href=\"/Jastrow,_הֶיסֵּת.1\">הֶיסֵּת</span>). <span class=\"refLink\" data-ref=\"Bava Metzia 4a:5\" href=\"/Bava_Metzia.4a.5\">Ib.</span> <span dir=\"rtl\">על מה שכ׳ וכ׳</span> he is sworn on what he denied. <span class=\"refLink\" data-ref=\"Mishnah Shevuot 4:1\" href=\"/Mishnah_Shevuot.4.1\">Shevuot IV, 1</span> <span dir=\"rtl\">עד שיִכְפְּרוּ בהן בב\"ד</span> until they declare their ignorance (of the testimony) before court. <span class=\"refLink\" data-ref=\"Mishnah Shevuot 4:4\" href=\"/Mishnah_Shevuot.4.4\">Ib. 4</span> <span dir=\"rtl\">כָּפְרוּ שניהן וכ׳</span> if both witnesses pleaded ignorance at the same time. Ib. <span dir=\"rtl\">כָּפְרָה הראשונה</span> if the first set of witnesses pleaded ignorance. Ib. VI, 3 <span dir=\"rtl\">והודה … וכ׳ בקרקעות</span> and defendant admits the debt concerning vessels, but denies it as to landed estate. <span class=\"refLink\" data-ref=\"Shabbat 116a:8\" href=\"/Shabbat.116a.8\">Shabbat 116ᵃ</span> <span dir=\"rtl\">מכירין וכוֹפְרִין</span> they know (true religion) and yet are disbelievers. <span class=\"refLink\" data-ref=\"Shir HaShirim Rabbah 1:14:3\" href=\"/Shir_HaShirim_Rabbah.1.14.3\">Shir HaShirim Rabbah to I, 14</span> (play on <span dir=\"rtl\">הכפר</span>, ib.) <span dir=\"rtl\">שכ׳ באו\"ה</span> He disowned the gentiles (did not assist them), opposed <span class=\"refLink\" data-ref=\"Jastrow, ידי 1\" dir=\"rtl\" href=\"/Jastrow,_ידי.1\">הודה</span>; and see from—כ׳ בעיקר <i>to deny the principle of religion</i> (unity of God &c.). <span class=\"refLink\" data-ref=\"Bava Batra 16b\" href=\"/Bava_Batra.16b\">Bava Batra 16ᵇ</span>; and from—<span class=\"refLink\" data-ref=\"Sanhedrin 39a\" href=\"/Sanhedrin.39a\">Sanhedrin 39ᵃ</span> <span dir=\"rtl\">א\"ל כּוֹפֵר</span> ed. (Manuscript Munich <span class=\"refLink\" data-ref=\"Jastrow, קֵיסַר 1\" dir=\"rtl\" href=\"/Jastrow,_קֵיסַר.1\">קיסר</span>) an infidel said &c.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִכְפִּיר</strong> (see <span class=\"refLink\" data-ref=\"Jastrow, כַּפָּרָה 1\" dir=\"rtl\" href=\"/Jastrow,_כַּפָּרָה.1\">כַּפָּרָה</span>) <i>to say of a person, ‘May his death be an atonement for his sins!</i>’ euphem. for <i>to be angry at</i>. <span class=\"refLink\" data-ref=\"Pesachim 69a:5\" href=\"/Pesachim.69a.5\">Pesachim 69ᵃ</span> <span dir=\"rtl\">אל תַּכְפִּירֵנִי בשעת הדין</span> ed. (Manuscript Munich and Arukh <span dir=\"rtl\">תְּכַפְּרֵנִי</span>) do not make me an atonement (saying <span dir=\"rtl\">תהא מיתתו כפרה</span>) at the time of judgment (different interpretation or differently interpreted in comm.); <span class=\"refLink\" data-ref=\"Avodah Zarah 46b\" href=\"/Avodah_Zarah.46b\">Pirkei Avot Zar. 46ᵇ</span> (some eds. <span dir=\"rtl\">תכפריני</span>).<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">כִּיפַּר</strong>, <strong dir=\"rtl\"> כִּפֵּר</strong> [<i>to wipe out</i>,] <i>to forgive, atone; to procure forgiveness</i>. <span class=\"refLink\" data-ref=\"Yoma 5a:5\" href=\"/Yoma.5a.5\">Yoma 5ᵃ</span> <span dir=\"rtl\">כאילו לא כ׳ וכפר</span> as if he (the priest) had not procured atonement (in the proper manner), although he has procured atonement (for the person concerned); <span class=\"refLink\" data-ref=\"Mishnah Negaim 14:10\" href=\"/Mishnah_Negaim.14.10\">Negaim XIV, 10</span> <span dir=\"rtl\">כ׳ ומעלין עליו כאילו לא כ׳</span> he has brought atonement, but it is accounted to the officiating priest as if he had not done so. <span class=\"refLink\" data-ref=\"Berakhot 55a\" href=\"/Berakhot.55a\">Berakhot 55ᵃ</span> … <span dir=\"rtl\">כל זמן מזבח מְכַפֵּר על וכ׳</span> as long as the Temple existed, the altar was the means of atonement for Israel, but now each man’s table must be the means of atonement (reference. to <span class=\"refLink\" data-ref=\"Ezekiel 41:22\" href=\"/Ezekiel.41.22\">Ezekiel XLI, 22</span>). Midrash Tanḥuma Vayishl. 6 <span dir=\"rtl\">כשם … מְכַפֶּרֶת וכ׳</span> as the altar brings atonement, so does she (the chaste wife) atone for her household. <span class=\"refLink\" data-ref=\"Kiddushin 57a:3\" href=\"/Kiddushin.57a.3\">Kiddushin 57ᵃ</span>, and e. <span dir=\"rtl\">מכשיר ומכפר</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כָּשֵׁר I 1\" href=\"/Jastrow,_כָּשֵׁר I.1\"><span dir=\"rtl\">כָּשֵׁר</span> I</span>; and see from—[<span class=\"refLink\" data-ref=\"Avodah Zarah 46b\" href=\"/Avodah_Zarah.46b\">Pirkei Avot Zar. 46ᵇ</span>, see supra]. <br></br> <strong>Hithpaël</strong> - <strong dir=\"rtl\">הִתְכַּפֵּר</strong>, <strong dir=\"rtl\"></strong><br></br> <strong>Nithpaël</strong> - <strong dir=\"rtl\">נִתְכַּפֵּר</strong> <i>to be expiated; to be forgiven</i>. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18a\" href=\"/Rosh_Hashanah.18a\">Rosh Hashanah 18ᵃ</span>; <span class=\"refLink\" data-ref=\"Yevamot 105a:13-14\" href=\"/Yevamot.105a.13-14\">Yevamot 105ᵃ</span> (reference. to <span class=\"refLink\" data-ref=\"I Samuel 3:14\" href=\"/I_Samuel.3.14\">I Samuel III, 14</span>) <span dir=\"rtl\">בזבח … מִתְכַּפֵּר וכ׳</span> through sacrifice … it will not be expiated, but it may be so by the study of the Law. <span class=\"refLink\" data-ref=\"Shevuot 12a:14\" href=\"/Shevuot.12a.14\">Shevuot 12ᵃ</span> <span dir=\"rtl\">אשם … שנִתְכַּפְּרוּ בעליו</span> an animal dedicated for a guilt-offering … whose owner has otherwise obtained atonement; (<span class=\"refLink\" data-ref=\"Mishnah Temurah 3:3\" href=\"/Mishnah_Temurah.3.3\">Temurah III, 3</span> <span dir=\"rtl\">שכִּפְּרוּ וכ׳</span> whose owner has procured atonement &c.). <span class=\"refLink\" data-ref=\"Yoma 50b\" href=\"/Yoma.50b\">Yoma 50ᵇ</span>, and e. <span class=\"refLink\" data-ref=\"Jastrow, כָּפַר 1\" dir=\"rtl\" href=\"/Jastrow,_כָּפַר.1\">המִתְכַּפֵּר</span> he for whose atonement the animal is dedicated. <span class=\"refLink\" data-ref=\"Yoma 51b:2\" href=\"/Yoma.51b.2\">Ib. 51ᵇ</span> <span dir=\"rtl\">שאין הצבור מִתְכַּפְּרִין בו</span> as the community is not to obtain forgiveness through it (the bullock); and from—Yerushalmi Makkot II, 31ᵈ bottom of page <span dir=\"rtl\">יעשה … ויִתְכַּפֶּר לו</span> let him repent and he shall be forgiven; Pesikta d'Rav Kahana Shub. p. 158ᵇ; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 358\" href=\"/Yalkut_Shimoni_on_Nach.358\">Yalkut Ezekiel 358</span>; <span class=\"refLink\" data-ref=\"Yalkut Shimoni on Nach 702\" href=\"/Yalkut_Shimoni_on_Nach.702\">Yalkut Psalms 702</span>. Midrash Tanḥuma T’rum. 8 <span dir=\"rtl\">נתכ׳ להם</span> they were forgiven; and from"
+              ],
+              "he": [],
+              "ref": "Jastrow, כָּפַר 1",
+              "sourceHeRef": "מילון יסטרוב, כָּפַר א׳",
+              "sourceRef": "Jastrow, כָּפַר 1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>מה ת״ל לתנופה לכפר עליו.</b> פי׳ גבי מצורע עני כתיב ואם דל הוא ואין ידו משגת ולקח כבש אחד אשם לתנופה לכפר עליו. ונכתבה תנופה זו בכאן שלא במקומה לומר שאינה מעכבת בעיקר הקרבן אלא שאם עשאה עשה מצוה מן המובחר לכפר עליו מחטאתו לגמרי:",
+              "ref": "Ritva on Yoma 5a:2",
+              "sourceHeRef": "ריטב\"א על יומא ה׳ א:ב",
+              "sourceRef": "Ritva on Yoma 5a:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ולדורות מנא לן דלא מעכבא</b> <span class=\"hebrew-emphasis\">[מנין לנו שאין</span> התנופה <span class=\"hebrew-emphasis\">מעכבת]?</span> ומשיבים: <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]:</span> נאמר: <b>\"</b>ולקח כבש אחד אשם <b>לתנופה לכפר\"</b> (ויקרא יד, כא), ויש לשאול: <b>וכי תנופה מכפרת? והלא אין כפרה אלא בדם,</b> שנאמר: <b>\"כי הדם הוא בנפש יכפר\"</b> (ויקרא יז, יא)! אם כן <b>מה תלמוד לומר \"לתנופה לכפר\"</b> — ללמדנו <b>שאם עשאה לתנופה</b> רק כ<b>שירי מצוה</b> ולא קיימה — <b>מעלה עליו הכתוב כאילו לא כפר,</b> אולם למעשה <b>\"וכפר\".</b>",
+              "ref": "Steinsaltz on Yoma 5a:5",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:ה",
+              "sourceRef": "Steinsaltz on Yoma 5a:5"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "If, however, he is poor and his means are insufficient, he shall take one male lamb for a guilt offering, to be elevated in expiation for him, one-tenth of a measure of choice flour with oil mixed in for a meal offering, and a <i>log</i> of oil;",
+              "he": "וְאִם־דַּ֣ל ה֗וּא וְאֵ֣ין יָדוֹ֮ מַשֶּׂ֒גֶת֒ וְ֠לָקַ֠ח כֶּ֣בֶשׂ אֶחָ֥ד אָשָׁ֛ם לִתְנוּפָ֖ה לְכַפֵּ֣ר עָלָ֑יו וְעִשָּׂר֨וֹן סֹ֜לֶת אֶחָ֨ד בָּל֥וּל בַּשֶּׁ֛מֶן לְמִנְחָ֖ה וְלֹ֥ג שָֽׁמֶן׃",
+              "link": "/Leviticus/14",
+              "ref": "Leviticus 14:21",
+              "sourceHeRef": "ויקרא יד:כא",
+              "sourceRef": "Leviticus 14:21"
+            },
+            {
+              "en": "For the life of the flesh is in the blood, and I have assigned it to you for making expiation for your lives upon the altar; it is the blood, as life, that effects expiation.",
+              "he": "כִּ֣י נֶ֣פֶשׁ הַבָּשָׂר֮ בַּדָּ֣ם הִוא֒ וַאֲנִ֞י נְתַתִּ֤יו לָכֶם֙ עַל־הַמִּזְבֵּ֔חַ לְכַפֵּ֖ר עַל־נַפְשֹׁתֵיכֶ֑ם כִּֽי־הַדָּ֥ם ה֖וּא בַּנֶּ֥פֶשׁ יְכַפֵּֽר׃",
+              "link": "/Leviticus/17",
+              "ref": "Leviticus 17:11",
+              "sourceHeRef": "ויקרא יז:יא",
+              "sourceRef": "Leviticus 17:11"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> with regard to the <i>halakhot</i> of offerings <b>throughout the generations,</b> the Gemara asks: <b>From where do we</b> derive that failure to wave the offering <b>does not invalidate</b> the offering? The Gemara answers: <b>As it was taught</b> in a <i>baraita</i> that the verse says: “He shall take one male lamb as a guilt-offering <b>to be waved to make atonement</b> for him” (Leviticus 14:21). <b>Does waving</b> the offering <b>atone</b> for one’s sins? <b>Isn’t atonement</b> accomplished <b>only by</b> the sprinkling of <b>the blood, as it is stated: “For it is the blood that makes atonement by reason of the life”</b> (Leviticus 17:11)? <b>And</b> for <b>what</b> purpose, then, <b>does the verse state: To be waved to make atonement?</b> It teaches that if <b>one deemed</b> the ritual of <b>waving</b> to be <b>a peripheral aspect of the mitzva</b> and therefore failed to perform it, <b>the verse ascribes to him</b> status <b>as though he did not achieve</b> optimal <b>atonement; and</b> nevertheless, the offering <b>atones</b> for his sins on his behalf.",
+      "he": "וּלְדוֹרוֹת מְנָא לַן דְּלָא מְעַכְּבָא? דְּתַנְיָא: ״לִתְנוּפָה לְכַפֵּר״. וְכִי תְּנוּפָה מְכַפֶּרֶת? וַהֲלֹא אֵין כַּפָּרָה אֶלָּא בְּדָם, שֶׁנֶּאֱמַר: ״כִּי הַדָּם הוּא בַּנֶּפֶשׁ יְכַפֵּר״! וּמָה תַּלְמוּד לוֹמַר ״לִתְנוּפָה לְכַפֵּר״? שֶׁאִם עֲשָׂאָהּ לִתְנוּפָה שְׁיָרֵי מִצְוָה — מַעֲלֶה עָלָיו הַכָּתוּב כְּאִילּוּ לֹא כִּפֵּר, וְכִפֵּר.",
+      "ref": "Yoma 5a:5"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רב פפא אמר:</b> ענין <b>פרישת שבעה איכא בינייהו</b> <span class=\"hebrew-emphasis\">[יש ביניהם]</span> הבדל למעשה. כיצד? <b>למאן דאמר</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> <b>כל הכתוב בהן מעכב בהן</b> — אם כן <b>מעכבא</b> <span class=\"hebrew-emphasis\">[מעכבת]</span> פרישה לשבעת הימים, שאם לא פרשו היו קרבנותיהם נפסלים. ואילו <b>למאן דאמר</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> ש<b>דבר שאינו מעכב לדורות אינו מעכב בהן — לא מעכבא</b> <span class=\"hebrew-emphasis\">[אין</span> הפרישה <span class=\"hebrew-emphasis\">מעכבת].</span>",
+              "ref": "Steinsaltz on Yoma 5a:6",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:ו",
+              "sourceRef": "Steinsaltz on Yoma 5a:6"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said:</b> The issue of <b>sequestering</b> the priest for <b>seven</b> days is the practical difference <b>between</b> the opinions of <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span>. According <b>to the one who said:</b> Failure to perform <b>all</b> the details <b>that are written in its</b> regard <b>invalidates</b> the inauguration, failure to sequester the priest for seven days also <b>invalidates</b> the inauguration. <b>And</b> according <b>to the one who said: A matter that does not invalidate</b> offerings <b>throughout the generations does not invalidate</b> the inauguration, failure to sequester the priest for seven days <b>does not invalidate</b> the inauguration.",
+      "he": "<span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">רַב פָּפָּא</span> אָמַר: פְּרִישַׁת שִׁבְעָה אִיכָּא בֵּינַיְיהוּ. לְמַאן דְּאָמַר כׇּל הַכָּתוּב בָּהֶן מְעַכֵּב בָּהֶן — מְעַכְּבָא. לְמַאן דְּאָמַר דָּבָר שֶׁאֵינוֹ מְעַכֵּב לְדוֹרוֹת אֵינוֹ מְעַכֵּב בָּהֶן — לָא מְעַכְּבָא.",
+      "ref": "Yoma 5a:6"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ולא קתני מפרישין</strong> - ואע\"פ שלא הופרש אם יארע פסול בראשון יעבוד זה השני שמע מינה פרישה לא מעכבא <span class=\"parenthesized\">(בה)</span> עבודה:",
+              "ref": "Rashi on Yoma 5a:7:1",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ז:א",
+              "sourceRef": "Rashi on Yoma 5a:7:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ולדורות מנא לן דלא מעכבא</b> <span class=\"hebrew-emphasis\">[מנין לנו שאינה מעכבת]?</span> ומשיבים: <b>מדקא תני</b> <span class=\"hebrew-emphasis\">[ממה ששנינו]</span> במשנתנו שהיו <b>\"מתקינין\"</b> ממלא מקום הכהן הגדול, <b>ולא קתני</b> <span class=\"hebrew-emphasis\">[שנה]</span> שהיו <b>\"מפרישין\"</b> אותו אף שיתכן שבסופו של דבר יצטרך לשמש ביום הכיפורים ככהן גדול בפועל, הרי שאין חסרון הפרישה מעכב.",
+              "ref": "Steinsaltz on Yoma 5a:7",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:ז",
+              "sourceRef": "Steinsaltz on Yoma 5a:7"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> with regard to the <i>halakhot</i> of offerings <b>throughout the generations,</b> the Gemara asks: <b>From where do we</b> derive that failure to sequester the priest for seven days <b>does not invalidate</b> the offering? The Gemara answers: It is derived <b>from the fact that it is taught</b> in the mishna: And <b>they</b> would <b>designate</b> another priest in his stead, <b>and it is not taught:</b> The Sages <b>remove</b> the designated priest from his house, despite the possibility that ultimately he might replace the High Priest and perform the Yom Kippur service. Apparently, sequestering is not essential.",
+      "he": "וּלְדוֹרוֹת מְנָא לַן דְּלָא מְעַכְּבָא? מִדְּקָא תָנֵי ״מַתְקִינִין״, וְלָא קָתָנֵי ״מַפְרִישִׁין״.",
+      "ref": "Yoma 5a:7"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ריבוי שבעה</strong> - שישמש כ\"ג שבעה ימים רצופים כשממנין אותו בכהונה גדולה וילבש שמונה בגדים בשעת עבודה וריבוי לשון מרבה מרובה בגדים שהוא משמש בשמונה וההדיוט בארבעה:",
+              "ref": "Rashi on Yoma 5a:8:1",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ח:א",
+              "sourceRef": "Rashi on Yoma 5a:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">משיחת שבעה</strong> - [שיתנו שמן המשחה על ראשו ובין ריסי עיניו ז' ימים] רצופין:",
+              "ref": "Rashi on Yoma 5a:8:2",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ח:ב",
+              "sourceRef": "Rashi on Yoma 5a:8:2"
+            },
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "You shall not go outside the entrance of the Tent of Meeting for seven days, until the day that your period of ordination is completed. For your ordination will require seven days.",
+                      "he": "וּמִפֶּ֩תַח֩ אֹ֨הֶל מוֹעֵ֜ד לֹ֤א תֵֽצְאוּ֙ שִׁבְעַ֣ת יָמִ֔ים עַ֚ד י֣וֹם מְלֹ֔את יְמֵ֖י מִלֻּאֵיכֶ֑ם כִּ֚י שִׁבְעַ֣ת יָמִ֔ים יְמַלֵּ֖א אֶת־יֶדְכֶֽם׃",
+                      "link": "/Leviticus/8",
+                      "ref": "Leviticus 8:33",
+                      "sourceHeRef": "ויקרא ח:לג",
+                      "sourceRef": "Leviticus 8:33"
+                    },
+                    {
+                      "en": "The sacral vestments of Aaron shall pass on to his sons after him, for them to be anointed and ordained in.",
+                      "he": "וּבִגְדֵ֤י הַקֹּ֙דֶשׁ֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן יִהְי֥וּ לְבָנָ֖יו אַחֲרָ֑יו לְמׇשְׁחָ֣ה בָהֶ֔ם וּלְמַלֵּא־בָ֖ם אֶת־יָדָֽם׃",
+                      "link": "/Exodus/29",
+                      "ref": "Exodus 29:29",
+                      "sourceHeRef": "שמות כט:כט",
+                      "sourceRef": "Exodus 29:29"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">כל הכתוב בהן</strong> - ז' ימים ימלא וגו' <span class=\"parenthesized\">(ויקרא ח׳:ל״ג)</span> וכל מילוי ידים האמור שם לבישת בגדים הוא שנאמר <span class=\"parenthesized\">(שמות כ״ט:כ״ט)</span> ובגדי הקודש אשר לאהרן יהיו לבניו אחריו למשחה בהם וגו' ומשיחה נמי כל שבעה מדאיתקש משיחה לריבוי:",
+              "ref": "Rashi on Yoma 5a:8:3",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ח:ג",
+              "sourceRef": "Rashi on Yoma 5a:8:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>רבינא אמר: ריבוי</b> בגדים, שיהא הכהן הגדול לובש את כל שמונת בגדי הכהונה הגדולה כל אותם <b>שבעה</b> ימי פרישה וכן <b>משיחה</b> שלו בשמן המשחה כל <b>שבעה</b> ימים אלו, היא הנקודה ש<b>איכא בינייהו</b> <span class=\"hebrew-emphasis\">[שיש ביניהם]</span> הבדל למעשה בין ר' יוחנן ור' חנינא אם יש בהן כדי לעכב. <b>למאן דאמר</b> <span class=\"hebrew-emphasis\">[ל</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> <b>כל הכתוב בהן מעכב בהן</b> — אם כן <b>מעכבא</b> <span class=\"hebrew-emphasis\">[מעכבת]</span> הן לבישת שמונת הבגדים וכן המשיחה. <b>ולמאן דאמר</b> <span class=\"hebrew-emphasis\">[ול</span>שיטת <span class=\"hebrew-emphasis\">מי שאומר]</span> <b>דבר שאין מעכב לדורות אין מעכב</b> אף <b>בהן</b> — אם כן אף זו <b>לא מעכבא</b> <span class=\"hebrew-emphasis\">[אינה מעכבת].</span>",
+              "ref": "Steinsaltz on Yoma 5a:8",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:ח",
+              "sourceRef": "Steinsaltz on Yoma 5a:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "A High Priest is consecrated by donning and then removing the eight garments on each of the seven days. When there is anointing oil in the Temple, he is also anointed on each of the seven days (Rambam<i> Sefer Avoda, Hilkhot Kelei HaMikdash </i>4:13).",
+              "he": "שני לשונות אלה משמשים במשמעות כפולה, שכן ריבוי משמעו גם לשון גדולה ושררה, וכן לשון משיחה לשון גדולה ומינוי הוא, כדברי רש\"י בפירושו למקרא.",
+              "ref": "Steinsaltz comment #1 on Yoma 5a:8",
+              "sourceHeRef": "רִיבּוּי שִׁבְעָה",
+              "sourceRef": "Donning multiple garments for seven days"
+            },
+            {
+              "en": "",
+              "he": "כשמקדישים את הכהן הגדול, הריהו לובש שמונה בגדי כהונה ופושטן, וכן עושה שבעה ימים יום אחרי יום. ובזמן שהיה שמן המשחה. אף היה נמשח שבעה ימים בשמן, יום אחרי יום. כגמרא כאן. (רמב\"ם שם פ\"ד הי\"ג).",
+              "ref": "Steinsaltz comment #2 on Yoma 5a:8",
+              "sourceHeRef": "ריבוי שבעה",
+              "sourceRef": ""
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span> said:</b> The issue of the priest performing the service with the <b>multiple</b> garments of the High Priest for <b>seven</b> days and serving with <b>anointment</b> for <b>seven</b> days is the practical difference <b>between</b> the opinions of <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span>. According <b>to the one who said:</b> Failure to perform <b>all</b> the details <b>that are written in its</b> regard <b>invalidates</b> the inauguration, failure to serve with multiple garments and anointment for seven days also <b>invalidates</b> the inauguration. <b>And</b> according <b>to the one who said: A matter that does not invalidate</b> offerings <b>throughout the generations does not invalidate</b> the inauguration, failure to serve with multiple garments and anointment for seven days <b>does not invalidate</b> the inauguration.",
+      "he": "<span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">רָבִינָא</span> אָמַר: רִיבּוּי שִׁבְעָה וּמְשִׁיחָה שִׁבְעָה, אִיכָּא בֵּינַיְיהוּ. לְמַאן דְּאָמַר כׇּל הַכָּתוּב בָּהֶן מְעַכֵּב בָּהֶן — מְעַכְּבָא. לְמַאן דְּאָמַר דָּבָר שֶׁאֵין מְעַכֵּב לְדוֹרוֹת אֵין מְעַכֵּב בָּהֶן — לָא מְעַכְּבָא.",
+      "ref": "Yoma 5a:8"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בפרש\"י</b> בד\"ה וכפר כו' המובחר הס\"ד ואח\"כ מ\"ה ולא קתני מפרישין כו' עבודה הס\"ד ואח\"כ מ\"ה רבוי ז' כו' בשעת עבודה וריבוי לשון מרבה מרובה בגדים כו' ובד\"ה משיחת ז' שיתנו שמן המשחה על ראשו ובין ריסי עיניו ז' ימים רצופין הס\"ד כצ\"ל מפי' ישן:",
+                      "ref": "Chidushei Halachot on Yoma 5a:1",
+                      "sourceHeRef": "חידושי הלכות על יומא ה׳ א:א",
+                      "sourceRef": "Chidushei Halachot on Yoma 5a:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכפר הכהן אשר ימשח אותו</strong> - גבי יוה\"כ באחרי מות כתיב:",
+              "ref": "Rashi on Yoma 5a:9:1",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ט:א",
+              "sourceRef": "Rashi on Yoma 5a:9:1"
+            },
+            {
+              "commentary": {
+                "Verses": {
+                  "comments": [
+                    {
+                      "en": "Thus only shall Aaron enter the Shrine: with a bull of the herd for a sin offering and a ram for a burnt offering.—",
+                      "he": "בְּזֹ֛את יָבֹ֥א אַהֲרֹ֖ן אֶל־הַקֹּ֑דֶשׁ בְּפַ֧ר בֶּן־בָּקָ֛ר לְחַטָּ֖את וְאַ֥יִל לְעֹלָֽה׃",
+                      "link": "/Leviticus/16",
+                      "ref": "Leviticus 16:3",
+                      "sourceHeRef": "ויקרא טז:ג",
+                      "sourceRef": "Leviticus 16:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מה תלמוד לומר</strong> - אם ללמד שתהיה עבודה בכ\"ג והלא כל הפרשה באהרן נאמרה בזאת יבא אהרן ונתן אהרן והקריב אהרן ובא אהרן <span class=\"parenthesized\">(ויקרא ט״ז:ג׳)</span>:",
+              "ref": "Rashi on Yoma 5a:9:2",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:ט:ב",
+              "sourceRef": "Rashi on Yoma 5a:9:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ולדורות מנא לן דלא מעכבא</b> <span class=\"hebrew-emphasis\">[מנין לנו שאין</span> המשיחה <span class=\"hebrew-emphasis\">מעכבת]?</span> ומשיבים: <b>דתניא</b> <span class=\"hebrew-emphasis\">[ש</span>כן <span class=\"hebrew-emphasis\">שנינו</span> בברייתא<span class=\"hebrew-emphasis\">]</span> על הכתוב: <b>\"וכפר הכהן אשר ימשח אתו ואשר ימלא את ידו לכהן תחת אביו\"</b> (ויקרא טז, לב) ושאלו: <b>מה תלמוד לומר</b> בכפילות לשון זו?",
+              "ref": "Steinsaltz on Yoma 5a:9",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:ט",
+              "sourceRef": "Steinsaltz on Yoma 5a:9"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The priest who has been anointed and ordained to serve as priest in place of his father shall make expiation. He shall put on the linen vestments, the sacral vestments.",
+              "he": "וְכִפֶּ֨ר הַכֹּהֵ֜ן אֲשֶׁר־יִמְשַׁ֣ח אֹת֗וֹ וַאֲשֶׁ֤ר יְמַלֵּא֙ אֶת־יָד֔וֹ לְכַהֵ֖ן תַּ֣חַת אָבִ֑יו וְלָבַ֛שׁ אֶת־בִּגְדֵ֥י הַבָּ֖ד בִּגְדֵ֥י הַקֹּֽדֶשׁ׃",
+              "link": "/Leviticus/16",
+              "ref": "Leviticus 16:32",
+              "sourceHeRef": "ויקרא טז:לב",
+              "sourceRef": "Leviticus 16:32"
+            }
+          ]
+        }
+      },
+      "en": "<b>And</b> with regard to the <i>halakhot</i> of offerings <b>throughout the generations,</b> the Gemara asks: <b>From where do we</b> derive that failure to serve with multiple garments and anointment for seven days <b>does not invalidate</b> the offering? The Gemara answers: <b>As it was taught</b> in a <i>baraita</i>: For <b>what</b> purpose <b>does the verse state: “And the priest who shall be anointed and who shall be consecrated to serve in his father’s stead shall make the atonement”</b> (Leviticus 16:32)? If it comes to teach that all service must be performed by the High Priest, it is already written with regard to the Yom Kippur service that it must be performed by <span href=\"/topics/aaron\" class=\"namedEntityLink\" data-slug=\"aaron\">Aaron</span>, the High Priest.",
+      "he": "וּלְדוֹרוֹת מְנָא לַן דְּלָא מְעַכְּבָא? דְּתַנְיָא: ״וְכִפֵּר הַכֹּהֵן אֲשֶׁר יִמְשַׁח אוֹתוֹ וַאֲשֶׁר יְמַלֵּא אֶת יָדוֹ לְכַהֵן תַּחַת אָבִיו״, מָה תַּלְמוּד לוֹמַר?",
+      "ref": "Yoma 5a:9"
+    },
+    {
+      "commentary": {
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": "2) \"upon whose head the oil of anointment has been poured\": What is the intent of this? Because it is written (Shemoth 29:31) \"Seven days shall he anoint his sons, who ministers in his stead put them on, when he comes to the tent of meeting to minister in the holy place,\" I might think (that he is ordained as high-priest) only if he is anointed for seven days and invested (in the garments) for seven days. Whence do I derive that the same applies if he is anointed for seven and invested for one, or anointed for one and invested for seven, or if he is anointed for one and invested for one — even for one moment? From \"upon whose head the oil of anointment has been poured\" — even for one moment; \"and who has been invested to wear the garments\" — even for one moment.",
+              "he": "[ב] \"אשר יוצק על ראשו שמן המשחה\" מה תלמוד לומר? לפי שנאמר <span class=\"parenthesized\">(שמות כט, ל)</span> \"שבעת ימים ילבשם הכהן תחתיו מבניו אשר יבא אל אהל מועד לשרת בקדש\", שיכול אין לי אלא שנמשח שבעה ונתרבה שבעה. נמשח שבעה ונתרבה יום אחד, נמשח יום אחד ונתרבה שבעה, נמשח יום אחד ונתרבה יום אחד, ואפילו שעה אחת מנין? תלמוד לומר \"אשר יוצק על ראשו שמן המשחה\" – אפילו שעה אחת. \"ומלא את ידו ללבוש את הבגדים\" – אפילו שעה אחת.",
+              "ref": "Sifra, Emor, Section 2 2",
+              "sourceHeRef": "ספרא, אמור, פרשה ב ב׳",
+              "sourceRef": "Sifra, Emor, Section 2 2"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "Since there was no anointing oil [during] the Second Temple [era], the High Priest was installed in his office by putting on the garments of the High Priest alone.",
+              "he": "בְּבַיִת שֵׁנִי שֶׁלֹּא הָיָה שָׁם שֶׁמֶן הַמִּשְׁחָה הָיָה כֹּהֵן גָּדוֹל מִתְרַבֶּה בִּלְבִישַׁת בְּגָדִים בִּלְבַד שֶׁהָיָה לוֹבֵשׁ בִּגְדֵי כְּהֻנָּה גְּדוֹלָה:",
+              "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 1:8",
+              "sourceHeRef": "הלכות כלי המקדש והעובדין בו א:ח",
+              "sourceRef": "Vessels of the Sanctuary and Those Who Serve Therein 1:8"
+            },
+            {
+              "en": "A High Priest is appointed [to serve as] the head of all of the priests. He is anointed with the anointing oil and clothed in the garments of the High Priest, as [Leviticus 21:10] states: \"And the priest who was elevated over his brethren, over whose head was poured [the anointment oil]....\" If there is no anointment oil, he is initiated into office merely by [wearing] the garments of the High Priest, as [the above verse] states: \"...over whose head was poured [the anointment oil] and who was initiated to wear the garments.\" [Implied is that] just as he is initiated with the anointment oil, so too, he is initiated with the garments [of the High Priesthood].",
+              "he": "וּמְמַנִּין כֹּהֵן גָּדוֹל הוּא רֹאשׁ לְכָל הַכֹּהֲנִים. וּמוֹשְׁחִין אוֹתוֹ בְּשֶׁמֶן הַמִּשְׁחָה. וּמַלְבִּישִׁין אוֹתוֹ בִּגְדֵי כְּהֻנָּה גְּדוֹלָה שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(ויקרא כא י)</span> \"וְהַכֹּהֵן הַגָּדוֹל מֵאֶחָיו אֲשֶׁר יוּצַק\" וְגוֹ'. וְאִם אֵין שָׁם שֶׁמֶן הַמִּשְׁחָה מְרַבִּין אוֹתוֹ בְּבִגְדֵי כְּהֻנָּה גְּדוֹלָה בִּלְבַד שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(ויקרא כא י)</span> \"אֲשֶׁר יוּצַק עַל רֹאשׁוֹ שֶׁמֶן הַמִּשְׁחָה וּמִלֵּא אֶת יָדוֹ לִלְבּשׁ אֶת הַבְּגָדִים\". כְּשֵׁם שֶׁמִּתְרַבֶּה בְּשֶׁמֶן הַמִּשְׁחָה כָּךְ מִתְרַבֶּה בִּבְגָדִים:",
+              "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 4:12",
+              "sourceHeRef": "הלכות כלי המקדש והעובדין בו ד:יב",
+              "sourceRef": "Vessels of the Sanctuary and Those Who Serve Therein 4:12"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">לפי שנאמר</strong> - בפרשת ואתה תצוה שבעת ימים ילבשם הכהן תחתיו מבניו העומד תחת אהרן בכהונה גדולה אשר יבא ביום הכפורים אל אהל מועד לשרת בקדש:",
+              "ref": "Rashi on Yoma 5a:10:1",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:י:א",
+              "sourceRef": "Rashi on Yoma 5a:10:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין לי אלא</strong> - שיהא כשר לבא אל אהל מועד ביום הכפורים אלא מי שנתרבה שבעה ונמשח שבעה כשנתמנה ולקמיה בעי משיחה שבעה היכא כתיבא:",
+              "ref": "Rashi on Yoma 5a:10:2",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:י:ב",
+              "sourceRef": "Rashi on Yoma 5a:10:2"
+            },
+            {
+              "en": "",
+              "he": "אפילו שעה אחת לא גרסינן:",
+              "ref": "Rashi on Yoma 5a:10:3",
+              "sourceHeRef": "רש\"י על יומא ה׳ א:י:ג",
+              "sourceRef": "Rashi on Yoma 5a:10:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "נמשח יום אחד ואפי׳ שעה א׳ מנין וכתב רש״י ז״ל דל״ג אפי׳ שעה אחת דהא משיחת יום אחד אינה אלא שעה אחת וא״כ מאי אפילו שעה אחת <span class=\"parenthesized\">(ת״ל)</span>.",
+              "ref": "Ritva on Yoma 5a:3",
+              "sourceHeRef": "ריטב\"א על יומא ה׳ א:ג",
+              "sourceRef": "Ritva on Yoma 5a:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "— <b>לפי שנאמר: \"שבעת ימים ילבשם הכהן תחתיו מבניו</b> אשר יבוא אל אוהל מועד לשרת בקודש<b>\"</b> (שמות כט, ל), <b>אין לי</b> ללמוד מפסוק זה <b>אלא</b> שהכהן הגדול הוא זה ש<b>נתרבה</b> כלומר שלבש את כל שמונת הבגדים במשך <b>שבעה</b> ימים, <b>ונמשח</b> במשך <b>שבעה</b> ימים. ואם כן, כהן ש<b>נתרבה</b> בבגדים <b>שבעה</b> ימים <b>ונמשח</b> בשמן המשחה <b>יום אחד</b> בלבד, או ש<b>נתרבה יום אחד</b> בלבד <b>ונמשח שבעה מניין</b> שאף בכך נעשה כהן גדול? <b>תלמוד לומר: \"אשר ימשח אתו ואשר ימלא את ידו\" — מכל מקום,</b> בלא הגבלת מספר הימים.",
+              "ref": "Steinsaltz on Yoma 5a:10",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:י",
+              "sourceRef": "Steinsaltz on Yoma 5a:10"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "A high priest may not enter the court for worship unless he has been anointed for seven [consecutive days] and clothed in the holy garments for seven [consecutive days]. Even if he wasn't anointed seven [days straight]. and has not been clothed in the holy robes for seven [consecutive days], and [nevertheless] performs his service, then this is valid. An ordinary priest may enter the court (to the service) only when he has brought a tenth of Epha of his own [property] and offered it with his own hand; if he has not brought a tenth of an ephah from his own [property] and [yet] performed the service, then this is valid.",
+              "he": "כהן גדול אין נכנס לעזרה לעבודה אלא אם כן נמשח שבעה ונתרבה שבעה. אע\"פ שלא נמשח שבעה ונתרבה שבעה ועבד, עבודתו כשירה. כהן הדיוט אין נכנס לעזרה לעבודה אלא אם כן הביא עשירית האיפה משלו, ועובדה בידו. אע\"פ שלא הביא עשירית האיפה משלו ועובדה בידו, ועבד, עבודתו כשיר'.",
+              "ref": "Tosefta Shekalim (Lieberman) 3:25",
+              "sourceHeRef": "תוספתא שקלים (ליברמן) ג:כה",
+              "sourceRef": "Tosefta Shekalim (Lieberman) 3:25"
+            },
+            {
+              "en": "",
+              "he": "כהן גדול אין נכנס לעזרה לעבודה אא\"כ נמשח שבעה ונתרבה שבעה אע\"פ שלא נמשח שבעה ונתרבה שבעה ועבד עבודתו כשרה כהן הדיוט אין נכנס לעזרה לעבודה אלא א\"כ הביא עשירית האיפה משלו ועובדה בידו אע\"פ שלא הביא עשירית האיפה משלו ועובדה בידו ועבד עבודתו כשרה בן לוי אין נכנס לעזרה לעבודה אלא א\"כ למד חמש שנים שנאמר <span class=\"parenthesized\">(במדבר ח)</span> זאת אשר ללוים מבן חמש ועשרים שנה ולהלן הוא אומר <span class=\"parenthesized\">(במדבר ד)</span> מבן שלשים שנה אם נאמר מבן חמש ועשרים למה נאמר מבן שלשים ואם נאמר מבן שלשים למה נאמר מבן חמש ועשרים אלא כל אותן שנים שמבן חמש ועשרים ועד בן שלשים היה למד מכאן ואילך מקריבין אותו לעבודה מכאן אמרו כל שאינו מראה סימן טוב במשנתו בתוך חמש שנים שוב אינו מראה ר' יוסי אומר שלש שנים שנאמר <span class=\"parenthesized\">(דנייאל א)</span> ולגדלם שנים שלש.",
+              "ref": "Tosefta Shekalim 3:16",
+              "sourceHeRef": "תוספתא שקלים ג:טז",
+              "sourceRef": "Tosefta Shekalim 3:16"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "He among his sons who becomes priest in his stead, who enters the Tent of Meeting to officiate within the sanctuary, shall wear them seven days.",
+              "he": "שִׁבְעַ֣ת יָמִ֗ים יִלְבָּשָׁ֧ם הַכֹּהֵ֛ן תַּחְתָּ֖יו מִבָּנָ֑יו אֲשֶׁ֥ר יָבֹ֛א אֶל־אֹ֥הֶל מוֹעֵ֖ד לְשָׁרֵ֥ת בַּקֹּֽדֶשׁ׃",
+              "link": "/Exodus/29",
+              "ref": "Exodus 29:30",
+              "sourceHeRef": "שמות כט:ל",
+              "sourceRef": "Exodus 29:30"
+            }
+          ]
+        }
+      },
+      "en": "<b>Since it is stated: “Seven days shall the son that is priest in his stead don them”</b> (Exodus 29:30), <b>I</b> derive <b>only</b> that one who donned the <b>multiple</b> garments of the High Priest for <b>seven</b> days <b>and was anointed seven</b> days assumes the position of High Priest and may perform the service on Yom Kippur. However, with regard to whether one who donned the <b>multiple</b> garments for <b>seven</b> days <b>and was anointed</b> for <b>one</b> day, or one who donned the <b>multiple</b> garments for <b>one</b> day <b>and was anointed</b> for <b>seven</b> days is thereby inaugurated as High Priest, <b>from where</b> are those cases derived? Therefore, <b>the verse states: “Who shall be anointed and who shall be consecrated”; in any case</b> he is appointed High Priest, even if either anointment or donning the garments did not continue for seven days.",
+      "he": "לְפִי שֶׁנֶּאֱמַר: ״שִׁבְעַת יָמִים יִלְבָּשָׁם הַכֹּהֵן תַּחְתָּיו מִבָּנָיו״, אֵין לִי אֶלָּא נִתְרַבָּה שִׁבְעָה וְנִמְשַׁח שִׁבְעָה. נִתְרַבָּה שִׁבְעָה וְנִמְשַׁח יוֹם אֶחָד, נִתְרַבָּה יוֹם אֶחָד וְנִמְשַׁח שִׁבְעָה מִנַּיִין? תַּלְמוּד לוֹמַר: ״אֲשֶׁר יִמְשַׁח אוֹתוֹ וַאֲשֶׁר יְמַלֵּא אֶת יָדוֹ״ — מִכׇּל מָקוֹם.",
+      "ref": "Yoma 5a:10"
+    },
+    {
+      "commentary": {
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>משיחה שבעה לכתחילה מנא לן מדאצטריך קרא למעוטה. </b> וא״ת ודילמא אשר ימשח אותו מ״מ אפי׳ יום אחד לכתחלה הוא י״ל דהא ליתא דדומיא דאשר ימלא את ידו נקטיה ומלוי יד האמור בכאן היינו רבוי בגדים דבעי שבעה לכתחלה וכדפי׳ רש״י ז״ל:",
+              "ref": "Ritva on Yoma 5a:4",
+              "sourceHeRef": "ריטב\"א על יומא ה׳ א:ד",
+              "sourceRef": "Ritva on Yoma 5a:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: אכן, <b>אשכחן</b> <span class=\"hebrew-emphasis\">[מצאנו]</span> חובת <b>ריבוי שבעה לכתחלה</b> אולם חובת <b>משיחה שבעה לכתחלה מנלן</b> <span class=\"hebrew-emphasis\">[מנין לנו]?</span> שהרי לדעת רבינא לכתחילה אף המשיחה שבעה ימים, אלא שאינה מעכבת לדורות, אולם מנין למדנו שקיימת מצוה כזו לכתחילה?",
+              "ref": "Steinsaltz on Yoma 5a:11",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:יא",
+              "sourceRef": "Steinsaltz on Yoma 5a:11"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>We found</b> a source for the fact that when the High Priest is appointed, there is a requirement of donning <b>multiple</b> garments for <b>seven</b> days <b><i>ab initio</i>;</b> however, <b>from where do we</b> derive the requirement of <b>anointment</b> for <b>seven</b> days <b><i>ab initio</i>?</b> According to <span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span>, there is a requirement to anoint the priest on each of the seven days <i>ab initio</i>, even though failure to do so does not invalidate the offering throughout the generations. From where is that requirement derived?",
+      "he": "אַשְׁכְּחַן רִיבּוּי שִׁבְעָה לְכַתְּחִלָּה, מְשִׁיחָה שִׁבְעָה לְכַתְּחִלָּה מְנָא לַן?",
+      "ref": "Yoma 5a:11"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">רִיבּוּי</strong>, <strong dir=\"rtl\">רִבּ׳</strong> m. (<span class=\"refLink\" data-ref=\"Jastrow, רָבָה 1\" dir=\"rtl\" href=\"/Jastrow,_רָבָה.1\">רָבָה</span>) <br><b>1)</b> <i>increase, plenty</i>. Esther Rabbah end <span dir=\"rtl\">מדות … בשפע בפירוי ובר׳</span> the good dispensations of the Lord come with liberality, fruitfulness, and plenty. <br><b><br>—2)</b> (subaudi <span dir=\"rtl\">בגדים</span>) <i>larger number of garments, investment of the high priest with the eight official garments</i>. <span class=\"refLink\" data-ref=\"Yoma 5a:12\" href=\"/Yoma.5a.12\">Yoma 5ᵃ</span> (reference. to <span class=\"refLink\" data-ref=\"Exodus 29:29\" href=\"/Exodus.29.29\">Shemot XXIX, 29</span> sq.) <span dir=\"rtl\">איתקש משיחה לר׳ מה ר׳ וכ׳</span> the anointing is put on a level with the investment, as the investment is continued for seven days, so is the anointing &c. Ib. <span dir=\"rtl\">ר׳ שבעה … איכא בינייהו</span> they differ as to the seven days of investment and the seven days of anointment; and e. <br><b><br>—3)</b> <i>extension of scope, widening qualification, amplification</i>, opposed <span class=\"refLink\" data-ref=\"Jastrow, מִיעוּט 1\" dir=\"rtl\" href=\"/Jastrow,_מִיעוּט.1\">מִיעוּט</span>. <span class=\"refLink\" data-ref=\"Mishnah Shevuot 3:5\" href=\"/Mishnah_Shevuot.3.5\">Shevuot III, 5</span> (<span class=\"refLink\" data-ref=\"Shevuot 25a:20\" href=\"/Shevuot.25a.20\">25ᵃ</span>) <span dir=\"rtl\">מר׳ הכתוב</span> I derive it from the amplification of the text (the addition of a general rule <span dir=\"rtl\">לכל אשר וכ׳</span>, <span class=\"refLink\" data-ref=\"Leviticus 5:4\" href=\"/Leviticus.5.4\">Vayikra V, 4</span>); ib. 26ᵃ. <span class=\"refLink\" data-ref=\"Menachot 89a:3\" href=\"/Menachot.89a.3\">Menachot 89ᵃ</span> <span dir=\"rtl\">אין ר׳ אחר ר׳ אלא למעט</span> an amplification following an amplification (as <span dir=\"rtl\">בשמן</span> in <span class=\"refLink\" data-ref=\"Leviticus 2:4\" href=\"/Leviticus.2.4\">Vayikra II, 4</span>) intimates a restriction; and from—plural <span dir=\"rtl\">רִיבּוּיִין</span>, <span class=\"refLink\" data-ref=\"Jastrow, רִיבּוּי 1\" dir=\"rtl\" href=\"/Jastrow,_רִיבּוּי.1\">רִבּ׳</span>. <span class=\"refLink\" data-ref=\"Tosefta Shevuot 1:7\" href=\"/Tosefta_Shevuot.1.7\">Tosefta Shevuot I, 7</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מִיעוּט 1\" dir=\"rtl\" href=\"/Jastrow,_מִיעוּט.1\">מִיעוּט</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 1:4\" href=\"/Bereishit_Rabbah.1.4\">Breishit Rabbah section (Parashah) 1</span>, and e. <span dir=\"rtl\">אתין וגמין ר׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, גַּם I 1\" href=\"/Jastrow,_גַּם I.1\"><span dir=\"rtl\">גַּם</span> I</span>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Shabbat 19:1:7\" href=\"Jerusalem_Talmud_Shabbat.19.1.7\">Yerushalmi Shabbat XIX, 17ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, לָשׁוֹן 1\" dir=\"rtl\" href=\"/Jastrow,_לָשׁוֹן.1\">לָשׁוֹן</span>; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, רִיבּוּי 1",
+              "sourceHeRef": "מילון יסטרוב, רִיבּוּי א׳",
+              "sourceRef": "Jastrow, רִיבּוּי 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "How is he initiated with the garments? He puts on the eight garments [of the High Priest] and [later] removes them and does so again on the morrow for seven days, as [Exodus 29:30] states: \"The priest from his sons who serves in his stead shall put them on for seven days.\" Just as he puts on the clothes for seven consecutive days, so too, he is anointed with the oil for seven consecutive days. If he performed service before he was initiated by wearing the clothes for all seven days or before he was anointed for all seven days, his service is acceptable. Since he was initiated or anointed once, he is a High Priest with regard to all matters.",
+              "he": "כֵּיצַד מְרַבִּין אוֹתוֹ בִּבְגָדִים. לוֹבֵשׁ שְׁמוֹנָה בְּגָדִים וּפוֹשְׁטָן וְחוֹזֵר וְלוֹבְשָׁן לְמָחָר שִׁבְעַת יָמִים יוֹם אַחַר יוֹם שֶׁנֶּאֱמַר <span class=\"hebrew-emphasis\">(שמות כט ל)</span> \"שִׁבְעַת יָמִים יִלְבָּשָׁם הַכֹּהֵן תַּחְתָּיו מִבָּנָיו\". וּכְשֵׁם שֶׁרִבּוּי בְּגָדִים שִׁבְעָה כָּךְ מְשִׁיחָה בְּשֶׁמֶן שִׁבְעָה יוֹם אַחַר יוֹם. וְאִם עָבַד קֹדֶם שֶׁיִּתְרַבֶּה בִּבְגָדִים כָּל שִׁבְעָה אוֹ קֹדֶם שֶׁיִּמָּשַׁח כָּל שִׁבְעָה עֲבוֹדָתוֹ כְּשֵׁרָה. הוֹאִיל וְנִתְרַבָּה אוֹ נִמְשַׁח פַּעַם אַחַת נַעֲשָׂה כֹּהֵן גָּדוֹל לְכָל דָּבָר:",
+              "ref": "Mishneh Torah, Vessels of the Sanctuary and Those Who Serve Therein 4:13",
+              "sourceHeRef": "הלכות כלי המקדש והעובדין בו ד:יג",
+              "sourceRef": "Vessels of the Sanctuary and Those Who Serve Therein 4:13"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>אי בעית אימא</b> <span class=\"hebrew-emphasis\">[אם תרצה אמור]</span> להוכיח <b>מדאיצטריך קרא למעוטה</b> <span class=\"hebrew-emphasis\">[ממה שהוצרך הכתוב למעטה]</span> שהרי הכתוב \"וכיפר הכהן אשר ימשח אותו ואשר ימלא את ידו\" בא למעט ולצמצם חובה הנלמדת ממקומות אחרים, לומר שבכל אופן שנמשח ומתמנה נעשה בכך כהן גדול, ואם כן מובן מכאן שלכתחלה צריך להמשח שבעה ימים. <b>ואיבעית אימא</b> <span class=\"hebrew-emphasis\">[ואם תרצה אמור]</span> הוכחה אחרת ממה ש<b>אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב]:</span> <b>\"ובגדי הקדש אשר לאהרן יהיו לבניו אחריו למשחה בהם ולמלא בם את ידם\"</b> (שמות כט, כט), <b>איתקש</b> <span class=\"hebrew-emphasis\">[הושווה]</span> בפסוק זה <b>משיחה לריבוי,</b> ללמדנו: <b>מה ריבוי</b> בגדים מלכתחילה הריהו <b>שבעה</b> ימים, <b>אף משיחה</b> מלכתחילה יש לקיימה <b>שבעה</b> ימים.",
+              "ref": "Steinsaltz on Yoma 5a:12",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:יב",
+              "sourceRef": "Steinsaltz on Yoma 5a:12"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "In fact, in this context the meaning of the term is greatness, not anointment. Apparently, the Gemara relies on additional sources that link anointment to the obligation of donning the multiple garments of the high priesthood (Rav Shmuel Strashun).",
+              "he": "ועל כרחנו עלינו לומר כי כיון שלכתחילה צריך להמשח יותר מאשר יום אחד, היינו תופסים מספר ימים המפורש בכגון זה במקרא, והוא שבעה ימים (ואין אומרים ש\"תפסת מועט תפסת\") ואולי גם נסמך קצת על התירוץ השני שמביא מיד (ראה תוס' הרא\"ש).",
+              "ref": "Steinsaltz comment #1 on Yoma 5a:12",
+              "sourceHeRef": "לְמָשְׁחָה בָהֶם",
+              "sourceRef": "To be anointed in them"
+            },
+            {
+              "en": "",
+              "he": "לשון \"למשחה בהם\" הוא לשון גדולה ולא לשון משיחה. וצריך לומר שסומך כאן על כמה מקראות אחרים שמוזכר בהם דין המשיחה עם דין ריבוי בגדים (רש\"ש).",
+              "ref": "Steinsaltz comment #2 on Yoma 5a:12",
+              "sourceHeRef": "למשחה בהם",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">איתקש משיחה לריבוי</strong> - תימה לי לשינויא קמא דמשני דאיצטריך קרא למעוטה ולית ליה האי סברא דאיתקש משיחה לריבוי היכי מיפרשא ברייתא דקתני אין לי אלא שנמשח ז' והא כל כמה דלא מייתי קרא דאשר ימשח אותו לא ידעינן משיחה ז' אפילו לכתחילה ויש לומר מסברא הוה קי\"ל משיחה ז' מדאשכחן התם משיחה וריבוי וגלי בחד מינייהו שבעה הוא הדין באידך וילמד סתום מן המפורש אבל בתר דמיעט קרא מיבעיא ליה להש\"ס משיחת שבעה לכתחילה מנא לן אימא ריבוי דכתיב בהדיא הוי שבעה לכתחילה אבל משיחה נימא כיון דאימעיט אימעוט לגמרי משבעה ולא ניבעי משיחה אלא פעם אחת ומשני מדאיצטריך קרא למעוטי אלמא סברא הוא להשוות משיחה לריבוי ואם כן אע\"ג דאמעיטו תרוייהו מעיכובא מ\"מ למצוה בעי כל ז':",
+              "ref": "Tosafot on Yoma 5a:12:1",
+              "sourceHeRef": "תוספות על יומא ה׳ א:יב:א",
+              "sourceRef": "Tosafot on Yoma 5a:12:1"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The sacral vestments of Aaron shall pass on to his sons after him, for them to be anointed and ordained in.",
+              "he": "וּבִגְדֵ֤י הַקֹּ֙דֶשׁ֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן יִהְי֥וּ לְבָנָ֖יו אַחֲרָ֑יו לְמׇשְׁחָ֣ה בָהֶ֔ם וּלְמַלֵּא־בָ֖ם אֶת־יָדָֽם׃",
+              "link": "/Exodus/29",
+              "ref": "Exodus 29:29",
+              "sourceHeRef": "שמות כט:כט",
+              "sourceRef": "Exodus 29:29"
+            }
+          ]
+        }
+      },
+      "en": "<b>If you wish, say:</b> It is derived <b>from</b> the fact <b>that the verse:</b> “And the priest who shall be anointed and who shall be consecrated to serve in his father’s stead shall make the atonement,” <b>is necessary to exclude</b> requirements derived from other sources, i.e., that both donning multiple garments and anointment must be for seven days. Apparently, anointment for seven days is required <i>ab initio</i>. <b>And if you wish, say</b> instead that it is derived from <b>that</b> which <b>the verse states: “And the sacred garments of <span href=\"/topics/aaron\" class=\"namedEntityLink\" data-slug=\"aaron\">Aaron</span> shall be for his sons after him, to be anointed in them and to be consecrated in them”</b> (Exodus 29:29). <b>Anointment is juxtaposed</b> in this verse <b>to</b> donning <b>multiple</b> garments: <b>Just as</b> donning <b>multiple</b> garments is required <b>for seven</b> days <i>ab initio</i>, <b>so too, anointment</b> is required <b>for seven</b> days <i>ab initio</i>.",
+      "he": "אִיבָּעֵית אֵימָא מִדְּאִיצְטְרִיךְ קְרָא לְמַעוֹטַהּ. וְאִיבָּעֵית אֵימָא דְּאָמַר קְרָא: ״וּבִגְדֵי הַקֹּדֶשׁ אֲשֶׁר <span href=\"/topics/aaron\" class=\"namedEntityLink\" data-slug=\"aaron\">לְאַהֲרֹן</span> יִהְיוּ לְבָנָיו אַחֲרָיו לְמׇשְׁחָה בָהֶם וּלְמַלֵּא בָם אֶת יָדָם״, אִיתַּקַּשׁ מְשִׁיחָה לְרִיבּוּי: מָה רִיבּוּי שִׁבְעָה, אַף מְשִׁיחָה שִׁבְעָה.",
+      "ref": "Yoma 5a:12"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">עִיכּוּבָא</strong>, <strong dir=\"rtl\">עִכּ׳</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, עִיכּוּב 1\" href=\"/Jastrow,_עִיכּוּב.1\">same</span> <br><b>1)</b> <i>delay</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Deuteronomy 23:22\" href=\"/Targum_Jonathan_on_Deuteronomy.23.22\">Targum Yonatan Devarim XXIII, 22</span>. <br><b><br>—2)</b> <i>indispensable condition</i>. <span class=\"refLink\" data-ref=\"Yoma 5a:13\" href=\"/Yoma.5a.13\">Yoma 5ᵃ</span> bottom of page <span dir=\"rtl\">ככה ע׳ היא</span> the emphatic expression ‘thus’ (<span class=\"refLink\" data-ref=\"Exodus 29:35\" href=\"/Exodus.29.35\">Shemot XXIX, 35</span>) intimates the indispensableness of any of the prescribed forms. Ib.ᵇ <span dir=\"rtl\">ושמרתם … ע׳</span> the emphatic expression, ‘and ye shall guard’ (<span class=\"refLink\" data-ref=\"Leviticus 8:35\" href=\"/Leviticus.8.35\">Vayikra VIII, 35</span>) intimates &c."
+              ],
+              "he": [],
+              "ref": "Jastrow, עִיכּוּבָא 1",
+              "sourceHeRef": "מילון יסטרוב, עִיכּוּבָא א׳",
+              "sourceRef": "Jastrow, עִיכּוּבָא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">רבי</strong>, <strong dir=\"rtl\">רָבָה</strong>, <strong dir=\"rtl\">רָבֶה</strong> (Biblical Hebrew) <i>to be much, many; to grow, increase</i>. <span class=\"refLink\" data-ref=\"Yoma 87b:14\" href=\"/Yoma.87b.14\">Yoma 87ᵇ</span> <span dir=\"rtl\">עונותינו רָבוּ וכ׳</span> our sins are too many to be counted. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 34:15\" href=\"/Bereishit_Rabbah.34.15\">Breishit Rabbah section (Parashah) 34</span> אצא ואהי פרה ורָבֶה וכ׳ I may go out (of the ark) and be multiplying and increasing for curse. <span class=\"refLink\" data-ref=\"Bekhorot 44b:17\" href=\"/Bekhorot.44b.17\">Bekhoroth 44ᵇ</span> <span dir=\"rtl\">דם ר׳ שחין ר׳</span> if the blood is allowed to increase (if bleeding is neglected), skin disease will develop; <span dir=\"rtl\">מי רגלים רָּבִין וכ׳</span> if one allows the urine to increase (through neglect) &c. <span class=\"refLink\" data-ref=\"Shabbat 33b:9\" href=\"/Shabbat.33b.9\">Shabbat 33ᵇ</span> <span dir=\"rtl\">בעון … צרות רָבוֹת וכ׳</span> for the sin of obscene talk troubles increase, and new evil decrees come &c. <span class=\"refLink\" data-ref=\"Bamidbar Rabbah 11:8\" href=\"/Bamidbar_Rabbah.11.8\">Bamidabar Rabbah section (Parashah) 11</span>, see <span class=\"refLink\" data-ref=\"Jastrow, פָּרָה II 1\" href=\"/Jastrow,_פָּרָה II.1\"><span dir=\"rtl\">פָּרָה</span> II</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 48:15\" href=\"/Bereishit_Rabbah.48.15\">Breishit Rabbah section (Parashah) 48</span> <span dir=\"rtl\">הכתב ר׳ וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, כְּתָב 1\" dir=\"rtl\" href=\"/Jastrow,_כְּתָב.1\">כְּתָב</span>. <span class=\"refLink\" data-ref=\"Sotah 47b:23\" href=\"/Sotah.47b.23\">Sotah 47ᵇ</span> <span dir=\"rtl\">משרבו … בדין ר׳ וכ׳</span> when the whisperers in court (secret influences) increased, the anger (of God) against Israel increased. <span class=\"refLink\" data-ref=\"Sanhedrin 97a:9\" href=\"/Sanhedrin.97a.9\">Sanhedrin 97ᵃ</span> <span dir=\"rtl\">העזות תִּרְבֶּה</span> impudence shall be large. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Yevamot 4:8:2\" href=\"Jerusalem_Talmud_Yevamot.4.8.2\">Yerushalmi Yevamot IV, 6ᵃ</span> bottom of page, see <span class=\"refLink\" data-ref=\"Jastrow, אל\" dir=\"rtl\" href=\"/Jastrow,_אל\">אל\"ף</span>; and from—<span class=\"refLink\" data-ref=\"Bereishit Rabbah 98:17\" href=\"/Bereishit_Rabbah.98.17\">Breishit Rabbah section (Parashah) 98</span> (play on <span dir=\"rtl\">בן פרת</span>, <span class=\"refLink\" data-ref=\"Genesis 49:22\" href=\"/Genesis.49.22\">Breishit XLIX, 22</span>) <span dir=\"rtl\">בן פירות רָבִיתָה</span> ‘a child of fruits’ (through interpreting Pharaoh’s dream about the ears of corn) thou didst grow (to high office); <span dir=\"rtl\">בן פרות רביתה יוסף</span> ‘a child of cows’ (through interpreting the dream about cows) thou didst grow; <span dir=\"rtl\">בן פורת</span> (<span class=\"refLink\" data-ref=\"Jastrow, יוֹסֵף 1\" dir=\"rtl\" href=\"/Jastrow,_יוֹסֵף.1\">יוסף</span>) <span dir=\"rtl\">רָבִיתָ יוסף</span> ‘a child of growth’, thou didst grow tall (so as to protect Rachel from Esau’s sight; see <span class=\"refLink\" data-ref=\"Bereishit Rabbah 78:16\" href=\"/Bereishit_Rabbah.78.16\">Breishit Rabbah section (Parashah) 78</span>); Yalkut ib. 133 [read:] <span dir=\"rtl\">בן פורת יוסף פָּרִיתָ רבית יוסף</span>.<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">רִיבָּה</strong> <br><b>1)</b> <i>to increase, do much, do more</i>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 34:10\" href=\"/Bereishit_Rabbah.34.10\">Breishit Rabbah section (Parashah) 34</span> <span dir=\"rtl\">ר׳ בטהורים יותר וכ׳</span> ordered a larger number of the clean animals to be taken into the ark than of the unclean. <span class=\"refLink\" data-ref=\"Tosefta Demai 4:12\" href=\"/Tosefta_Demai.4.12\">Tosefta Demai IV, 12</span> <span dir=\"rtl\">ר׳ בעיר ולא ר׳ במדינה</span> if one offers a large quantity for sale, while none is offered in the country. <span class=\"refLink\" data-ref=\"Tosefta Demai 4:13\" href=\"/Tosefta_Demai.4.13\">Ib. 13</span> <span dir=\"rtl\">כל שר׳ לו מותר</span> wherever one has a large quantity for sale, it is permitted (to buy of him); and from—<span class=\"refLink\" data-ref=\"Menachot 89a:6\" href=\"/Menachot.89a.6\">Menachot 89ᵃ</span> <span dir=\"rtl\">ר׳ שמן וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רְבִיכָה 1\" dir=\"rtl\" href=\"/Jastrow,_רְבִיכָה.1\">רְבִיכָה</span>. <br><b><br>—2)</b> (hermeneutics) <i>to use an additional word for the purpose of intimating something not otherwise included; to argue from an additional word</i> or <i>from a generalization</i> in the Biblical text; <i>to widen the scope of a law; to include</i>. Ib. <span dir=\"rtl\">אם אתה מְרַבֶּה וכ׳</span> if thou wert to argue an entire day on the intimation of an increase lying in the words <i>bashshemen</i> (<span class=\"refLink\" data-ref=\"Leviticus 6:14\" href=\"/Leviticus.6.14\">Vayikra VI, 14</span>; <span class=\"refLink\" data-ref=\"Leviticus 7:12\" href=\"/Leviticus.7.12\">VII, 12</span>), I should not listen to thee; <span class=\"refLink\" data-ref=\"Zevachim 82a:17\" href=\"/Zevachim.82a.17\">Zevachim 82ᵃ</span>; <span class=\"refLink\" data-ref=\"Niddah 72b:29\" href=\"/Niddah.72b.29\">Niddah 72ᵇ</span>. <span class=\"refLink\" data-ref=\"Shevuot 26a:22\" href=\"/Shevuot.26a.22\">Shevuot 26ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מָעַט 1\" dir=\"rtl\" href=\"/Jastrow,_מָעַט.1\">מָעַט</span>. <span class=\"refLink\" data-ref=\"Shevuot 27a:15\" href=\"/Shevuot.27a.15\">Ib. 27ᵃ</span> <span dir=\"rtl\">מדאצטריך או לְרַבּוֹת וכ׳</span> as the word <span class=\"refLink\" data-ref=\"Jastrow, אוֹ 1\" dir=\"rtl\" href=\"/Jastrow,_אוֹ.1\">אוֹ</span> (<span class=\"refLink\" data-ref=\"Leviticus 5:4\" href=\"/Leviticus.5.4\">Vayikra V, 4</span>) is needed for the inclusion of vows for the benefit of others. <span class=\"refLink\" data-ref=\"Pesachim 22b:11\" href=\"/Pesachim.22b.11\">Pesachim 22ᵇ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, אֵת 1\" dir=\"rtl\" href=\"/Jastrow,_אֵת.1\">אֵת</span>. <span class=\"refLink\" data-ref=\"Sanhedrin 60b:13\" href=\"/Sanhedrin.60b.13\">Sanhedrin 60ᵇ</span> <span dir=\"rtl\">יכול שאני מְרַבֶּה וכ׳</span> you might think that I must include &c.; and see from—[<span class=\"refLink\" data-ref=\"Yalkut Shimoni on Torah 348:4\" href=\"/Yalkut_Shimoni_on_Torah.348.4\">Yalkut Shemot 348</span> <span dir=\"rtl\">ר׳ כל וכ׳</span>, see <span class=\"refLink\" data-ref=\"Jastrow, רִיקֵן I 1\" dir=\"rtl\" href=\"/Jastrow,_רִיקֵן I.1\">רִיקֵן</span>.]—<span class=\"refLink\" data-ref=\"Bereishit Rabbah 85:14\" href=\"/Bereishit_Rabbah.85.14\">Breishit Rabbah section (Parashah) 85</span> (reference. to <span class=\"refLink\" data-ref=\"Genesis 38:29\" href=\"/Genesis.38.29\">Breishit XXXVIII, 29</span>) <span dir=\"rtl\">זה רִבָּה על כל הפריצים ממך יעמודו</span> (not <span dir=\"rtl\">יעמוד</span>) this event implies (the prophecy) that all conquerors shall rise from thee (Perez); Yalkut ib. 145. <br><b><br>—3)</b> <i>to lend</i> or <i>borrow on usury</i> <span class=\"refLink\" data-ref=\"Jastrow, רִבִּית 1\" dir=\"rtl\" href=\"/Jastrow,_רִבִּית.1\">(רִבִּית</span>); <i>to make a profit</i>. Sifra B’har, Chaldaic VI, Parah 5; <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 5:1\" href=\"/Mishnah_Bava_Metzia.5.1\">Bava Metzia V, 1</span> (explained <span class=\"refLink\" data-ref=\"Jastrow, תַּרְבִּית 1\" dir=\"rtl\" href=\"/Jastrow,_תַּרְבִּית.1\">תַּרְבִּית</span>) <span dir=\"rtl\">המְרַבֶּה בפירות</span> he who makes a profit on lending provisions. <span class=\"refLink\" data-ref=\"Tosefta Bava Metzia 4:2\" href=\"/Tosefta_Bava_Metzia.4.2\">Tosefta ib. IV, 2</span> <span dir=\"rtl\">מְרַבִּין על השכר ואין מרבין וכ׳</span> you may make a profit on renting (lending money to the money-changer merely for exhibition), but you dare not make a profit on a sale (of land as security for a loan). <span class=\"refLink\" data-ref=\"Mishnah Bava Metzia 5:2\" href=\"/Mishnah_Bava_Metzia.5.2\">Bava Metzia V, 2</span> <span dir=\"rtl\">מרבין … ואין מרבין וכ׳</span> you may make a profit by a reduction of rent on account of payment in advance, but you dare not make a profit by increasing the price of an object sold on account of postponed payment; and e.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִרְבָּה</strong> <i>to cause increase; to strengthen; to do much</i>. <span class=\"refLink\" data-ref=\"Berakhot 17a:17\" href=\"/Berakhot.17a.17\">Berakhot 17ᵃ</span>, see <span class=\"refLink\" data-ref=\"Jastrow, מָעַט 1\" dir=\"rtl\" href=\"/Jastrow,_מָעַט.1\">מָעַט</span>. <span class=\"refLink\" data-ref=\"Pirkei Avot 1:17\" href=\"/Pirkei_Avot.1.17\">Pirkei Avot I, 17</span> <span dir=\"rtl\">וכל המַרְבֶּה דברים וכ׳</span> he that talks much brings about sin. <span class=\"refLink\" data-ref=\"Pirkei Avot 2:7\" href=\"/Pirkei_Avot.2.7\">Ib. II, 7</span> <span dir=\"rtl\">מרבה בשר וכ׳</span> making much flesh (indulging in eating) makes much food for worms; <span dir=\"rtl\">מרבה צדקה וכ׳</span> he that does much charity, does much for peace. <span class=\"refLink\" data-ref=\"Berakhot 40a:8\" href=\"/Berakhot.40a.8\">Berakhot 40ᵃ</span> <span dir=\"rtl\">מפרין ומרבין</span>, see <span class=\"refLink\" data-ref=\"Jastrow, פָּרָה II 1\" href=\"/Jastrow,_פָּרָה II.1\"><span dir=\"rtl\">פָּרָה</span> II</span>. <span class=\"refLink\" data-ref=\"Berakhot 64a:13\" href=\"/Berakhot.64a.13\">Ib. 64ᵃ</span> <span dir=\"rtl\">ת\"ח מַרְבִּים וכ׳</span> scholars advance peace in the world; and from—<span class=\"refLink\" data-ref=\"Bava Batra 11b:5-7\" href=\"/Bava_Batra.11b.5-7\">Bava Batra 11ᵇ</span> <span dir=\"rtl\">בני מבוי … שמרבה עליהן את הדרך</span> the neighbors may prevent him, because he increases the use of the way too much for them (causes many people to step upon their ground); <span class=\"refLink\" data-ref=\"Tosefta Bava Batra 1:4\" href=\"/Tosefta_Bava_Batra.1.4\">Tosefta ib. I, 4</span>; Yerushalmi ib. II, 13ᵇ bottom of page <span dir=\"rtl\">דו יכיל מימר … והן מרבין עלינו וכ׳</span> he may say to him, they go and come, ask for thee and cannot find thee, and thus they use the way too frequently for us.<br></br> <strong>Nithpaël</strong> - <strong dir=\"rtl\">נִתְרַבָּה</strong> <i>to be increased</i>; with <span dir=\"rtl\">בגדים</span>, <i>to be clothed with the larger number of garments</i> designated for the high priest, see <span class=\"refLink\" data-ref=\"Jastrow, מְרוּבֶּה 1\" dir=\"rtl\" href=\"/Jastrow,_מְרוּבֶּה.1\">מְרוּבֶּה</span>. <span class=\"refLink\" data-ref=\"Yoma 5a:13\" href=\"/Yoma.5a.13\">Yoma 5ᵃ</span> <span dir=\"rtl\">נ׳ שבעה</span> if he wore the high priestly garments during the entire week of inauguration; <span dir=\"rtl\">נ׳ יום אחד</span> if he wore them only one day."
+              ],
+              "he": [],
+              "ref": "Jastrow, רבי 1",
+              "sourceHeRef": "מילון יסטרוב, רבי א׳",
+              "sourceRef": "Jastrow, רבי 1"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ועשית לאהרן ולבניו ככה.</b> פי׳ בפרשת ואתה תצוה כתי׳ בפרשה וזה אשר תעשה להם דמיירי בצואת עשיית המלואים ובפרשת צואת אהרן כתיב ענין עשיית המלואים כלם והתם לא כתיב ככה והיינו דפרכי׳ התינח כל מלתא דכתיבא בהאי ענינא ופרש״י הניחא מלתא דכתיבא בפרשת ואתה תצוה בפרש׳ בצואת המילואים מלתא דלא כתיב בהאי ענינא דהיינו בפרש׳ צואת המלואים וכתיבא בפרשת עשיית המלואים בצו את אהרן דהיינו אורים ותומים שלא נכתבו בצואה שיתנם ונכתבו בעשיה ויתן אל החשן את האורי׳ ואת התומים מנא לן דמעכבא: וא״ת והא בפרשת ואתה תצוה כתיב ענין אורים ותומים בעשיית בגדי כהונה. וי״ל דההוא ענינא אחרינא הוא בפרשת עשיית בגדים ואינו בפ׳ עשיית המלואים:",
+              "ref": "Ritva on Yoma 5a:5",
+              "sourceHeRef": "ריטב\"א על יומא ה׳ א:ה",
+              "sourceRef": "Ritva on Yoma 5a:5"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> אחרי שנתבררו ההבדלים ההלכתיים שבין דברי ר' יוחנן ור' חנינא ביחס למילואים, באים לדון בטעמיהם. ושואלים: <b>מאי טעמא דמאן דאמר</b> <span class=\"hebrew-emphasis\">[מה טעמו של מי שאומר]</span> <b>כל הכתוב בהן</b> במילואים <b>מעכב? אמר ר' יצחק בר ביסנא אמר קרא</b> <span class=\"hebrew-emphasis\">[הכתוב]:</span> <b>\"ועשית לאהרן ולבניו ככה</b> ככל אשר צויתי אותכה שבעת ימים תמלא ידם<b>\"</b> (שמות כט, לה) — הביטוי <b>\"ככה\"</b> בא להדגיש כי <b>עיכובא</b> <span class=\"hebrew-emphasis\">[לעכב]</span> <b>הוא,</b> שרק כך יש לעשות ולא בכל אופן אחר. על ראיה זו מקשים: <b>תינח</b> <span class=\"hebrew-emphasis\">[</span>דבר זה <span class=\"hebrew-emphasis\">נוח]</span> ומלמד ל<b>כל</b>",
+              "ref": "Steinsaltz on Yoma 5a:13",
+              "sourceHeRef": "ביאור שטיינזלץ על יומא ה׳ א:יג",
+              "sourceRef": "Steinsaltz on Yoma 5a:13"
+            }
+          ]
+        },
+        "Torah Temima": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ועשית לאהרן ולבניו ככה. </b>תניא, ר׳ יוחנן אומר, מלואים – כל הכתוב בהן מעכב, מאי טעמא, א\"ר יצחק בר ביסנא, אמר קרא, ועשית לאהרן ולבניו ככה, ככה עכובא הוא .<br><span class=\"parenthesized\">(יומא ה׳ א׳)</span>",
+              "ref": "Torah Temimah on Torah, Exodus 29:35:2",
+              "sourceHeRef": "תורה תמימה על התורה, שמות כט:לה:ב",
+              "sourceRef": "Torah Temimah on Torah, Exodus 29:35:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Thus you shall do to Aaron and his sons, just as I have commanded you. You shall ordain them through seven days,",
+              "he": "וְעָשִׂ֜יתָ לְאַהֲרֹ֤ן וּלְבָנָיו֙ כָּ֔כָה כְּכֹ֥ל אֲשֶׁר־צִוִּ֖יתִי אֹתָ֑כָה שִׁבְעַ֥ת יָמִ֖ים תְּמַלֵּ֥א יָדָֽם׃",
+              "link": "/Exodus/29",
+              "ref": "Exodus 29:35",
+              "sourceHeRef": "שמות כט:לה",
+              "sourceRef": "Exodus 29:35"
+            }
+          ]
+        }
+      },
+      "en": "After ascertaining the halakhic distinctions between the opinions of <span href=\"/topics/rabbi-yochanan-b-napacha\" class=\"namedEntityLink\" data-slug=\"rabbi-yochanan-b-napacha\">Rabbi Yoḥanan</span> and <span href=\"/topics/rabbi-chanina\" class=\"namedEntityLink\" data-slug=\"מרח-(ambiguous)\">Rabbi Ḥanina</span> with regard to the inauguration, the Gemara proceeds to analyze the rationales for those opinions. <b>What is the reason</b> for the opinion <b>of the one who said:</b> Failure to perform <b>all</b> the details <b>that are written in its</b> regard <b>invalidates</b> the inauguration? <b>Rabbi Yitzḥak bar Bisna said</b> that <b>the verse states: “And so shall you do to <span href=\"/topics/aaron\" class=\"namedEntityLink\" data-slug=\"aaron\">Aaron</span> and to his sons</b> according to all that I have commanded you, seven days shall you consecrate them” (Exodus 29:35). The term: <b>So,</b> teaches that failure to perform the ritual precisely in this manner <b>invalidates</b> the inauguration. The Gemara asks: That works out <b>well</b> as a source that <b>all</b>",
+      "he": "מַאי טַעְמָא דְּמַאן דְּאָמַר כׇּל הַכָּתוּב בָּהֶן מְעַכֵּב? אָמַר רַבִּי יִצְחָק בַּר בִּיסְנָא, אָמַר קְרָא: ״וְעָשִׂיתָ <span href=\"/topics/aaron\" class=\"namedEntityLink\" data-slug=\"aaron\">לְאַהֲרֹן</span> וּלְבָנָיו כָּכָה״. ״כָּכָה״ עִיכּוּבָא הוּא. תִּינַח כֹּל",
+      "ref": "Yoma 5a:13",
+      "steinsaltz_start_of_sugya": true
+    }
+  ],
+  "title": "Yoma 5a",
+  "titleHebrew": "יומא ה,א",
+  "topics": []
+}

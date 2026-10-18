@@ -1,0 +1,1368 @@
+{
+  "id": "6b",
+  "sections": [
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שהרי משה רבינו עומד בפסח ראשון</strong> - ודורש להן בהלכות פסח השני דהיינו שלשים יום שהוא בארבעה עשר באייר:",
+              "ref": "Rashi on Pesachim 6b:1:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:א:א",
+              "sourceRef": "Rashi on Pesachim 6b:1:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שהרי משה עומד בפסח ראשון</b> בארבעה עשר בניסן, <b>ומזהיר על</b> דיני <b>הפסח שני</b> החל בארבעה עשר באייר, <b>שנאמר</b> למשה בדבר ה': <b>\"ויעשו בני ישראל את הפסח במועדו\"</b> (במדבר ט, ב), ונאמר \"וידבר משה אל בני ישראל לעשות הפסח ויעשו את הפסח בראשון בארבעה עשר יום לחודש בין הערבים במדבר סיני\" (במדבר ט, ד— ה), <b>וכתיב</b> <span class=\"hebrew-emphasis\">[ונאמר]</span> שם: <b>\"ויהי אנשים אשר היו טמאים לנפש אדם</b> ולא יכלו לעשות הפסח ביום ההוא ויקרבו לפני משה ולפני אהרן ביום ההוא<b>\"</b> (במדבר ט, ו). ובאותו יום אמר להם משה הלכות הפסח השני. משמע, שמקדימים לדרוש בעניני החג חודש ימים.",
+              "ref": "Steinsaltz on Pesachim 6b:1",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:א",
+              "sourceRef": "Steinsaltz on Pesachim 6b:1"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">שנאמר ויהי אנשים</strong> - והא דאמר בהניזקין <span class=\"parenthesized\">(גיטין ד' ס. ושם)</span> שמונה פרשיות נאמרו ביום שהוקם המשכן והיינו בראש חדש ניסן פרשת טמאים לא כפ\"ה דפי' פרשת טמאים ויהי אנשים דזו הפרשה נאמרה בערב הפסח כדמשמע הכא אלא פרשת טמאים טומאת תרומה וקדשים:",
+              "ref": "Tosafot on Pesachim 6b:1:1",
+              "sourceHeRef": "תוספות על פסחים ו׳ ב:א:א",
+              "sourceRef": "Tosafot on Pesachim 6b:1:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומזהיר על פסח שני</strong> - אע\"ג שעל ידי שאילתו הוזקק לומר להן מ\"מ לא היה צריך להאריך אלא אל תעשו פסח ותו לא:",
+              "ref": "Tosafot on Pesachim 6b:1:2",
+              "sourceHeRef": "תוספות על פסחים ו׳ ב:א:ב",
+              "sourceRef": "Tosafot on Pesachim 6b:1:2"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "Let the Israelite people offer the passover sacrifice at its set time:",
+              "he": "וְיַעֲשׂ֧וּ בְנֵי־יִשְׂרָאֵ֛ל אֶת־הַפָּ֖סַח בְּמוֹעֲדֽוֹ׃",
+              "link": "/Numbers/9",
+              "ref": "Numbers 9:2",
+              "sourceHeRef": "במדבר ט:ב",
+              "sourceRef": "Numbers 9:2"
+            },
+            {
+              "en": "But there were some men who were unclean by reason of a corpse and could not offer the passover sacrifice on that day. Appearing that same day before Moses and Aaron,",
+              "he": "וַיְהִ֣י אֲנָשִׁ֗ים אֲשֶׁ֨ר הָי֤וּ טְמֵאִים֙ לְנֶ֣פֶשׁ אָדָ֔ם וְלֹא־יָכְל֥וּ לַעֲשֹׂת־הַפֶּ֖סַח בַּיּ֣וֹם הַה֑וּא וַֽיִּקְרְב֞וּ לִפְנֵ֥י מֹשֶׁ֛ה וְלִפְנֵ֥י אַהֲרֹ֖ן בַּיּ֥וֹם הַהֽוּא׃",
+              "link": "/Numbers/9",
+              "ref": "Numbers 9:6",
+              "sourceHeRef": "במדבר ט:ו",
+              "sourceRef": "Numbers 9:6"
+            },
+            {
+              "en": "If a person dies suddenly near him, defiling his consecrated hair, he shall shave his head on the day he becomes clean; he shall shave it on the seventh day.",
+              "he": "וְכִֽי־יָמ֨וּת מֵ֤ת עָלָיו֙ בְּפֶ֣תַע פִּתְאֹ֔ם וְטִמֵּ֖א רֹ֣אשׁ נִזְר֑וֹ וְגִלַּ֤ח רֹאשׁוֹ֙ בְּי֣וֹם טׇהֳרָת֔וֹ בַּיּ֥וֹם הַשְּׁבִיעִ֖י יְגַלְּחֶֽנּוּ׃",
+              "link": "/Numbers/6",
+              "ref": "Numbers 6:9",
+              "sourceHeRef": "במדבר ו:ט",
+              "sourceRef": "Numbers 6:9"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara explains that this <i>halakha</i> is derived from the fact <b>that <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> was standing at</b> the time of the <b>first <i>Pesaḥ</i>,</b> on the fourteenth of Nisan, <b>and warning</b> the people <b>about</b> the <i>halakhot</i> of <b>the second <i>Pesaḥ</i>,</b> which occurred a month later, on the fourteenth of Iyyar. <b>As it is stated</b> that God said to <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span>: <b>“Let the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span> perform the <i>Pesaḥ</i> at its appointed time”</b> (Numbers 9:2). A subsequent verse says: “And <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> told the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span> to perform the <i>Pesaḥ</i>, and they performed the <i>Pesaḥ</i> in the first month on the fourteenth of the month in the evening, in the desert of Sinai” (Numbers 9:4–5). <b>And it is written</b> in the next verse: <b>“And there were people who were impure due to a dead body</b> and could not perform the Passover on that day, and they came before <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> and before <span href=\"/topics/aaron\" class=\"namedEntityLink\" data-slug=\"aaron\">Aaron</span> on that day” (Numbers 9:6), at which point <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> explained the <i>halakhot</i> of the second <i>Pesaḥ</i> to them. This proves that one begins studying the <i>halakhot</i> of the Festival thirty days beforehand.",
+      "he": "שֶׁהֲרֵי מֹשֶׁה עוֹמֵד בְּפֶסַח רִאשׁוֹן, וּמַזְהִיר עַל הַפֶּסַח שֵׁנִי, שֶׁנֶּאֱמַר: ״וְיַעֲשׂוּ בְנֵי יִשְׂרָאֵל אֶת הַפָּסַח בְּמוֹעֲדוֹ״, וּכְתִיב: ״וַיְהִי אֲנָשִׁים אֲשֶׁר הָיוּ טְמֵאִים לְנֶפֶשׁ אָדָם״.",
+      "ref": "Pesachim 6b:1"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>ורבן שמעון בן גמליאל</b> כיצד דוחה הוא ראיה זו — <b>אמר לך</b> <span class=\"hebrew-emphasis\">[</span>יכול היה <span class=\"hebrew-emphasis\">לומר לך]:</span> <b>איידי דאיירי במילי דפסחא, מסיק להו לכל מילי דפסחא</b> <span class=\"hebrew-emphasis\">[כיון שעוסק בעניני הפסח, גומר את כל עניני הפסח]</span> ובכללם גם דיני פסח שני, ואין ללמוד מכאן הלכה כללית.",
+              "ref": "Steinsaltz on Pesachim 6b:2",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:ב",
+              "sourceRef": "Steinsaltz on Pesachim 6b:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>And <span href=\"/topics/rabban-shimon-b-gamliel\" class=\"namedEntityLink\" data-slug=\"רשבג-(ambiguous)\">Rabban Shimon ben Gamliel</span></b> could have <b>said to you</b> in rejecting that proof: <b>Since</b> <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> <b>was speaking with regard to the laws of Passover, he completed</b> teaching <b>all the matters of Passover,</b> including those of the second <i>Pesaḥ</i>. Consequently, one cannot derive a principle from this case.",
+      "he": "וְרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אָמַר לָךְ: אַיְּידֵי דְּאַיְירִי בְּמִילֵּי דְפִסְחָא, מַסִּיק לְהוּ לְכׇל מִילֵּי דְפִסְחָא.",
+      "ref": "Pesachim 6b:2"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: <b>מאי טעמא</b> <span class=\"hebrew-emphasis\">[מה הטעם]</span> של <b>רבן שמעון בן גמליאל? שהרי משה עומד בראש החדש</b> ניסן, <b>ומזהיר על</b> עשיית קרבן <b>הפסח, שנאמר: \"החדש הזה לכם ראש חדשים</b> ראשון הוא לכם לחדשי השנה<b>\"</b> (שמות יב, ב), <b>וכתיב</b> <span class=\"hebrew-emphasis\">[ונאמר]</span> שם: <b>\"דברו אל כל עדת ישראל לאמר בעשר לחדש הזה, ויקחו להם איש שה לבית אבת</b> שה לבית<b>\"</b> (שמות יב, ג), ומוסיף ומסביר דיני הקרבת קרבן הפסח שבארבעה עשר יום לחודש.",
+              "ref": "Steinsaltz on Pesachim 6b:3",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:ג",
+              "sourceRef": "Steinsaltz on Pesachim 6b:3"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "This month shall mark for you the beginning of the months; it shall be the first of the months of the year for you.",
+              "he": "הַחֹ֧דֶשׁ הַזֶּ֛ה לָכֶ֖ם רֹ֣אשׁ חֳדָשִׁ֑ים רִאשׁ֥וֹן הוּא֙ לָכֶ֔ם לְחׇדְשֵׁ֖י הַשָּׁנָֽה׃",
+              "link": "/Exodus/12",
+              "ref": "Exodus 12:2",
+              "sourceHeRef": "שמות יב:ב",
+              "sourceRef": "Exodus 12:2"
+            },
+            {
+              "en": "Speak to the whole community of Israel and say that on the tenth of this month each of them shall take a lamb to a family, a lamb to a household.",
+              "he": "דַּבְּר֗וּ אֶֽל־כׇּל־עֲדַ֤ת יִשְׂרָאֵל֙ לֵאמֹ֔ר בֶּעָשֹׂ֖ר לַחֹ֣דֶשׁ הַזֶּ֑ה וְיִקְח֣וּ לָהֶ֗ם אִ֛ישׁ שֶׂ֥ה לְבֵית־אָבֹ֖ת שֶׂ֥ה לַבָּֽיִת׃",
+              "link": "/Exodus/12",
+              "ref": "Exodus 12:3",
+              "sourceHeRef": "שמות יב:ג",
+              "sourceRef": "Exodus 12:3"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>What is the reason for <span href=\"/topics/rabban-shimon-b-gamliel\" class=\"namedEntityLink\" data-slug=\"רשבג-(ambiguous)\">Rabban Shimon ben Gamliel</span>’s</b> ruling? He explains <b>that <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> was standing on the first day</b> of Nisan <b>and warning about</b> the performance of <b>the</b> first <b><i>Pesaḥ</i>, as it is stated: “This month shall be for you the beginning of the months,</b> the first of the months of the year” (Exodus 12:2). <b>And it is written</b> in the next verse: <b>“Speak to the entire congregation of <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"אפי-(ambiguous)\">Israel</span>, saying: On the tenth day of this month they shall take for them every man a lamb, according to their fathers’ houses,</b> a lamb for each household” (Exodus 12:3). The Torah proceeds to detail the <i>halakhot</i> of the Paschal lamb sacrificed on the fourteenth day of that month.",
+      "he": "מַאי טַעְמָא דְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל? שֶׁהֲרֵי מֹשֶׁה עוֹמֵד בְּרֹאשׁ הַחֹדֶשׁ, וּמַזְהִיר עַל הַפֶּסַח, שֶׁנֶּאֱמַר: ״הַחֹדֶשׁ הַזֶּה לָכֶם רֹאשׁ חֳדָשִׁים״, וּכְתִיב: ״דַּבְּרוּ אֶל כׇּל עֲדַת יִשְׂרָאֵל לֵאמֹר בֶּעָשֹׂר לַחֹדֶשׁ הַזֶּה וְיִקְחוּ לָהֶם אִישׁ שֶׂה לְבֵית אָבוֹת וְגוֹ׳״.",
+      "ref": "Pesachim 6b:3"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: אמנם מכאן אפשר ללמוד שדורשים לפני הפסח בהלכות החג, אולם <b>ממאי דבריש ירחא קאי</b> <span class=\"hebrew-emphasis\">[ממה</span> מסיקים <span class=\"hebrew-emphasis\">שבראש חודש</span> היה <span class=\"hebrew-emphasis\">עומד]</span> ואומר דברים אלה? <b>דילמא בארבעה בירחא או בחמשה בירחא קאי</b> <span class=\"hebrew-emphasis\">[שמא ברביעי בחודש או בחמישי בחודש</span> היה <span class=\"hebrew-emphasis\">עומד]?</span>",
+              "ref": "Steinsaltz on Pesachim 6b:4",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:ד",
+              "sourceRef": "Steinsaltz on Pesachim 6b:4"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ממאי דבריש ירחא קאי</strong> - תימה דבשבת בפ\"ר עקיבא <span class=\"parenthesized\">(דף פו: ושם)</span> קאמר <span class=\"parenthesized\">(רבה)</span> דכ\"ע בר\"ח אתו למדבר סיני כתיב הכא ביום הזה באו מדבר סיני וכתיב התם החדש הזה וגו' מה להלן ר\"ח אף כאן ראש חדש אלמא פשיטא דהחדש הזה נאמר לו בר\"ח והיינו משום דאמר בהקומץ רבה <span class=\"parenthesized\">(מנחות כט.)</span> שנתקשה משה רבינו בראיית הלבנה עד שאמר לו הקב\"ה כזה ראה וקדש ותי' ר\"ת אע\"ג שאמר הקב\"ה למשה בריש ירחא דילמא משה לא אמר להם לישראל אלא בג' או בד' בירחא ומסיק דיליף מדבר ממדבר דבההיא דבאחד לחדש השני אמירת הקב\"ה ואמירת משה הוי בריש ירחא דכתיב באחד לחדש השני ויתילדו וגו' ור\"י מפרש אע\"ג דהחדש הזה הוה בריש ירחא מיהו דילמא הא דקאמר דברו אל כל עדת ישראל לא הוה בריש ירחא ואם תאמר אמאי לא יליף התם מדבר מבמדבר כי הכא וי\"ל דמדבר מבמדבר לא ילפינן:",
+              "ref": "Tosafot on Pesachim 6b:4:1",
+              "sourceHeRef": "תוספות על פסחים ו׳ ב:ד:א",
+              "sourceRef": "Tosafot on Pesachim 6b:4:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: Although this source does indicate that one should study the <i>halakhot</i> of Passover prior to the Festival, <b>from where</b> is it derived <b>that he was standing</b> and saying these matters <b>on the</b> day <b>of the New Moon? Perhaps he was standing on the fourth of the month or on the fifth of the month</b> of Nisan?",
+      "he": "מִמַּאי דִּבְרֵישׁ יַרְחָא קָאֵי? דִּילְמָא בְּאַרְבְּעָה בְּיַרְחָא אוֹ בְּחַמְשָׁה בְּיַרְחָא קָאֵי?",
+      "ref": "Pesachim 6b:4"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אלא אמר רבה בר שימי משמיה</b> <span class=\"hebrew-emphasis\">[משמו]</span> של <b>רבינא: מהכא</b> <span class=\"hebrew-emphasis\">[מכאן]</span> למדים אנו דבר זה, נאמר: <b>\"וידבר ה' אל משה במדבר סיני בשנה השנית</b> בשנה השנית לצאתם מארץ מצרים <b>בחדש הראשון\"</b> (במדבר ט, א), <b>וכתיב</b> <span class=\"hebrew-emphasis\">[ונאמר]:</span> <b>\"ויעשו בני ישראל את הפסח במועדו\"</b> (במדבר ט, ב), ואם כן הקדים את ההזהרה והאמירה שבועיים לפני החג. ושואלים: <b>הכא נמי, ממאי דבריש ירחא קאי? דילמא בארבעה בירחא או בחמשה בירחא קאי</b> <span class=\"hebrew-emphasis\">[כאן גם כן, מנין שבראש חודש</span> היה <span class=\"hebrew-emphasis\">עומד? שמא ברביעי בחודש או בחמישי בחודש</span> היה <span class=\"hebrew-emphasis\">עומד].</span>",
+              "ref": "Steinsaltz on Pesachim 6b:5",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:ה",
+              "sourceRef": "Steinsaltz on Pesachim 6b:5"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "The L<small>ORD</small> spoke to Moses in the wilderness of Sinai, on the first new moon of the second year following the exodus from the land of Egypt, saying:",
+              "he": "וַיְדַבֵּ֣ר יְהֹוָ֣ה אֶל־מֹשֶׁ֣ה בְמִדְבַּר־סִ֠ינַ֠י בַּשָּׁנָ֨ה הַשֵּׁנִ֜ית לְצֵאתָ֨ם מֵאֶ֧רֶץ מִצְרַ֛יִם בַּחֹ֥דֶשׁ הָרִאשׁ֖וֹן לֵאמֹֽר׃",
+              "link": "/Numbers/9",
+              "ref": "Numbers 9:1",
+              "sourceHeRef": "במדבר ט:א",
+              "sourceRef": "Numbers 9:1"
+            },
+            {
+              "en": "Let the Israelite people offer the passover sacrifice at its set time:",
+              "he": "וְיַעֲשׂ֧וּ בְנֵי־יִשְׂרָאֵ֛ל אֶת־הַפָּ֖סַח בְּמוֹעֲדֽוֹ׃",
+              "link": "/Numbers/9",
+              "ref": "Numbers 9:2",
+              "sourceHeRef": "במדבר ט:ב",
+              "sourceRef": "Numbers 9:2"
+            }
+          ]
+        }
+      },
+      "en": "<b>Rather, Rabba bar Shimi said in the name of <span href=\"/topics/ravina-(i)\" class=\"namedEntityLink\" data-slug=\"ravina-(i)\">Ravina</span>:</b> The <i>halakha</i> is derived <b>from here: “And God spoke to <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> in the wilderness of Sinai, in the first month of the second year</b> after they came out of the land of Egypt” (Numbers 9:1), <b>and it is written: “And let the <span href=\"/topics/jewish-people\" class=\"namedEntityLink\" data-slug=\"jewish-people\">children of Israel</span> perform the <i>Pesaḥ</i> at its appointed time”</b> (Numbers 9:2). Evidently, <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> taught the <i>halakhot</i> of Passover two weeks prior to the Festival. The Gemara asks: <b>Here too, from where</b> is it derived <b>that he was standing on the</b> day <b>of the New Moon? Perhaps he was standing on the fourth of the month or on the fifth of the month?</b>",
+      "he": "אֶלָּא אָמַר רַבָּה בַּר שִׁימִי מִשְּׁמֵיהּ דְּרָבִינָא, מֵהָכָא: ״וַיְדַבֵּר ה׳ אֶל מֹשֶׁה בְמִדְבַּר סִינַי בַּשָּׁנָה הַשֵּׁנִית בַּחֹדֶשׁ הָרִאשׁוֹן״, וּכְתִיב: ״וְיַעֲשׂוּ בְנֵי יִשְׂרָאֵל אֶת הַפָּסַח בְּמוֹעֲדוֹ״. הָכָא נָמֵי, מִמַּאי דִּבְרֵישׁ יַרְחָא קָאֵי? דִּילְמָא בְּאַרְבְּעָה בְּיַרְחָא אוֹ בְּחַמְשָׁה בְּיַרְחָא קָאֵי?",
+      "ref": "Pesachim 6b:5"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מה להלן ראש חדש</strong> - דכתיב ביה באחד לחדש השני:",
+              "ref": "Rashi on Pesachim 6b:6:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:ו:א",
+              "sourceRef": "Rashi on Pesachim 6b:6:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב נחמן בר יצחק: אתיא</b> <span class=\"hebrew-emphasis\">[בא,</span> נלמד הדבר<span class=\"hebrew-emphasis\">]</span> בגזירה שווה של המלים <b>\"מדבר\" \"מדבר\". כתיב הכא</b> <span class=\"hebrew-emphasis\">[נאמר כאן]:</span> <b>\"במדבר סיני\", וכתיב התם</b> <span class=\"hebrew-emphasis\">[ונאמר שם]:</span> <b>\"וידבר ה' אל משה במדבר סיני באהל מועד באחד לחדש השני\"</b> (במדבר א, א). <b>מה להלן בראש חדש — אף כאן</b> לגבי קרבן פסח <b>בראש חדש.</b>",
+              "ref": "Steinsaltz on Pesachim 6b:6",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:ו",
+              "sourceRef": "Steinsaltz on Pesachim 6b:6"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "On the first day of the second month, in the second year following the exodus from the land of Egypt, the L<small>ORD</small> spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, saying:",
+              "he": "וַיְדַבֵּ֨ר יְהֹוָ֧ה אֶל־מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י בְּאֹ֣הֶל מוֹעֵ֑ד בְּאֶחָד֩ לַחֹ֨דֶשׁ הַשֵּׁנִ֜י בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית לְצֵאתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃",
+              "link": "/Numbers/1",
+              "ref": "Numbers 1:1",
+              "sourceHeRef": "במדבר א:א",
+              "sourceRef": "Numbers 1:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-nahman-b-yitzhak\" class=\"namedEntityLink\" data-slug=\"rav-nahman-b-yitzhak\">Rav Naḥman bar Yitzḥak</span> said:</b> The <i>halakha</i> is <b>derived</b> by means of a verbal analogy between the term <b>wilderness</b> written here <b>and</b> the term <b>wilderness</b> written previously. <b>It is written here: “In the wilderness of Sinai,” and it is written there: “And God spoke to <span href=\"/topics/moses\" class=\"namedEntityLink\" data-slug=\"moses\">Moses</span> in the wilderness of Sinai in the Tent of Meeting on the first of the second month”</b> (Numbers 1:1). <b>Just as there</b> it occurred <b>on</b> the day of <b>the New Moon,</b> on the first of the month, so <b>too here,</b> with regard to Passover, <b>it was on</b> the day of <b>the New Moon.</b>",
+      "he": "אָמַר רַב נַחְמָן בַּר יִצְחָק: אַתְיָא ״מִדְבָּר״ מִ״מִּדְבָּר״. כְּתִיב הָכָא: ״בְּמִדְבַּר סִינַי״, וּכְתִיב הָתָם: ״וַיְדַבֵּר ה׳ אֶל מֹשֶׁה בְּמִדְבַּר סִינַי בְּאֹהֶל מוֹעֵד בְּאֶחָד לַחֹדֶשׁ הַשֵּׁנִי״. מָה לְהַלָּן בְּרֹאשׁ חֹדֶשׁ — אַף כָּאן בְּרֹאשׁ חֹדֶשׁ.",
+      "ref": "Pesachim 6b:6"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>זאת אומרת אין מוקדם.</b> עיין ברש\"י בחומש בראשית ו' ג' י\"ח ג'. שמות ד' כ':",
+              "ref": "Gilyon HaShas on Pesachim 6b:1",
+              "sourceHeRef": "גליון הש\"ס על פסחים ו׳ ב:א",
+              "sourceRef": "Gilyon HaShas on Pesachim 6b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>רש\"י</b> בד\"ה ונכתב ברישא כו' להאי בראש הספר. נ\"ב פי' ריש ספר במדבר וק\"ל:",
+                      "ref": "Chokhmat Shlomo on Pesachim 6b:2",
+                      "sourceHeRef": "חכמת שלמה על פסחים ו׳ ב:ב",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 6b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וניכתוב ברישא כו'</strong> - לא אשמעתין פריך אלא אסדר פרשיות קפריך מכדי פרשת פסח נאמרה תחלה שהרי בחדש הראשון נאמר כדכתיב בחדש הראשון לאמר ופרשת פקודים נאמרה באייר ומאי טעמא אקדמה להאי בראש הספר ופרשת זו בפרשת בהעלותך:",
+              "ref": "Rashi on Pesachim 6b:7:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:ז:א",
+              "sourceRef": "Rashi on Pesachim 6b:7:1"
+            },
+            {
+              "commentary": {
+                "Community Translation": {
+                  "comments": [
+                    {
+                      "en": "There is no earlier and later in the Torah — the Torah was not concerned about the order of [what is] earlier and later. So sections that were said earlier were preceded by ones later than [them].",
+                      "he": "",
+                      "ref": "Translation on Rashi on Pesachim 6b:7:2",
+                      "sourceHeRef": "fake",
+                      "sourceRef": "fake"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אין מוקדם ומאוחר בתורה</strong> - לא הקפידה תורה על סדר מוקדם ומאוחר ופרשיות דנאמרו תחלה הקדימו המאוחרות לה:",
+              "ref": "Rashi on Pesachim 6b:7:2",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:ז:ב",
+              "sourceRef": "Rashi on Pesachim 6b:7:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ושואלים: אם כן, <b>וניכתוב ברישא</b> <span class=\"hebrew-emphasis\">[שיכתוב בתחילה]</span> את מה שנאמר ב<b>חדש ראשון, והדר ניכתוב</b> <span class=\"hebrew-emphasis\">[ואחר כך יכתוב]</span> מה שנאמר ב<b>חדש שני,</b> שהרי דברי ה' אל משה בענין הפסח קודמים לדברים שנאמרו בתחלת הספר. <b>אמר רב מנשיא בר תחליפא משמיה</b> <span class=\"hebrew-emphasis\">[משמו]</span> של <b>רב: זאת אומרת אין מוקדם ומאוחר בתורה,</b> ודברים המוקדמים בזמן, פעמים באים מאוחר יותר בכתוב.",
+              "ref": "Steinsaltz on Pesachim 6b:7",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:ז",
+              "sourceRef": "Steinsaltz on Pesachim 6b:7"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "See <i>Tosafot</i>. Within a given matter, any verse written earlier was stated first, and therefore one can interpret the verses based on that chronology. However, the incidents that appear first in the Torah did not necessarily occur earlier (Rabbeinu Gershom in his novellae). One explanation attributed to Rabbeinu Yeĥiel is that there is no chronological order in the Torah because had it been ordered chronologically, people would have the ability to utilize the verse and letter sequences in the Torah to create objects at will. To prevent this, God ordered the Torah portions differently (<i>Tosefot Rabbeinu Peretz</i>).",
+              "he": "עיין בתוספות (ד\"ה אבל): ויש להבין שכל המוקדם בכתוב בענין אחד נאמר קודם ואפשר לדרוש בו כמוקדם. אבל לא תמיד המוקדם בכתוב צריך להקדימו במעשה (ר\"ג בחדושיו) ובטעם הדבר שאין מוקדם ומאוחר בתורה הביאו בשם ר' יחיאל כי אם היתה התורה מסודרת כראוי לה, היה ביד האדם להשתמש בה ולברוא דברים ככל שירצה. על כן ערבב הקדוש ברוך הוא סדר הפרשיות (תוס' ר\"פ).",
+              "ref": "Steinsaltz comment #1 on Pesachim 6b:7",
+              "sourceHeRef": "אֵין מוּקְדָּם וּמְאוּחָר בַּתּוֹרָה",
+              "sourceRef": "There is no earlier and later in the Torah"
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "On the first day of the second month, in the second year following the exodus from the land of Egypt, the L<small>ORD</small> spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, saying:",
+              "he": "וַיְדַבֵּ֨ר יְהֹוָ֧ה אֶל־מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י בְּאֹ֣הֶל מוֹעֵ֑ד בְּאֶחָד֩ לַחֹ֨דֶשׁ הַשֵּׁנִ֜י בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית לְצֵאתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃",
+              "link": "/Numbers/1",
+              "ref": "Numbers 1:1",
+              "sourceHeRef": "במדבר א:א",
+              "sourceRef": "Numbers 1:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: If so, <b>let</b> the Torah <b>write first</b> that which occurred <b>in the first month and then let it write</b> that which occurred <b>in the second month,</b> as the portion of the Paschal lamb preceded the beginning of the book of Numbers chronologically. <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> Menashiya bar Taḥlifa said in the name of <span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span>: That is to say</b> that <b>there is no earlier and later,</b> i.e., there is no absolute chronological order, <b>in the Torah,</b> as events that occurred later in time can appear earlier in the Torah.",
+      "he": "וְנִיכְתּוֹב בְּרֵישָׁא דְּחֹדֶשׁ רִאשׁוֹן, וַהֲדַר נִיכְתּוֹב דְּחֹדֶשׁ שֵׁנִי. אָמַר רַב מְנַשְּׁיָא בַּר תַּחְלִיפָא מִשְּׁמֵיהּ דְּרַב: זֹאת אוֹמֶרֶת אֵין מוּקְדָּם וּמְאוּחָר בַּתּוֹרָה.",
+      "ref": "Pesachim 6b:7"
+    },
+    {
+      "commentary": {
+        "Maharshal": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>גמ'</b> דאי לא תימא הכי כלל ופרט כו'. נ\"ב יש להקשות מאי דייק מכלל ופרט דילמא לא אמרינן אין מוקדם ומאוחר בתורה אלא היכא דאיכא הוכחה אבל בלא הוכחה וטעם למה אית לן למימר אין מוקדם ומאוחר ונראה בעיני משום דדרשינן לפעמים כלל ופרט אפי' נגד הק\"ו וא\"כ איכא ג\"כ הוכחה לומר אין מוקדם ומאוחר בתורה ובפרט לפי מה שכותבין התוס' במסכת נזיר דבכל כלל ופרט שאין בכלל אלא מה שבפרט איכא לאקשויי א\"כ הכלל למאי [אתא] וכן בפרט וכלל הפרט למאי אתא וצ\"ל משום דאיכא ק\"ו או מה הצד דהוה מרבינן או ממעטינן אם לא דאתי הכלל ופרט ונמעט בע\"כ או הפרט וכלל ומרבה בע\"כ [ומש\"ה] פריך לימא אין מוקדם ומאוחר כו' ודו\"ק. <span class=\"parenthesized\">(עיין במהרש\"א)</span>:",
+              "ref": "Chokhmat Shlomo on Pesachim 6b:1",
+              "sourceHeRef": "חכמת שלמה על פסחים ו׳ ב:א",
+              "sourceRef": "Chokhmat Shlomo on Pesachim 6b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בתרי ענייני</strong> - בשתי פרשיות:",
+              "ref": "Rashi on Pesachim 6b:8:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:ח:א",
+              "sourceRef": "Rashi on Pesachim 6b:8:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בחד עניינא</strong> - במקראות הסדורות בפרשה אחת:",
+              "ref": "Rashi on Pesachim 6b:8:2",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:ח:ב",
+              "sourceRef": "Rashi on Pesachim 6b:8:2"
+            },
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>גמרא</b> דאלת\"ה כלל ופרט כו' כתב מהרש\"ל יש להקשות מאי דייק מכלל ופרט דלמא לא אמרינן מוקדם כו' אלא היכא דאיכא הוכחה כו' ונראה בעיני משום דדרשינן כו' עכ\"ל ע\"ש באורך אבל יש לדקדק אכתי בשמעתין לפי מה שכתבו התוס' בד\"ה אבל בחד ענינא מאי דמוקדם מוקדם היינו דוקא דליכא דרשה וטעם כו' אע\"ג דסקילה כתיב ברישא כו' עכ\"ל וא\"כ מ\"ש תרי עניני מחד ענינא דכמו דבתרי עניני אמרי' אין מוקדם ומאוחר כי הכא בפ' פקודים ובפ' פסח שני דאיכא הוכחה דע\"כ חודש ראשון הוא קודם לחודש שני ה\"נ בחד ענינא כההיא דסקול יסקל וירה יירה אמרי' בהו דאין מוקדם ומאוחר דאיכא הוכחה מדכתיב וסקלתם באבנים וע\"כ הנראה דהכי קאמר כיון דמצינו בתרי עניני הכא בפ' פקודים ופ' פסח שני דע\"כ אין מוקדם ומאוחר בתורה אית לן למימר מסברא בעלמא א\"נ היכא דליכא הוכחה נימא דאין מוקדם כו' ואין דנין כלל ופרט המרוחקים אפי' היכא דליכא הוכחה אבל בחד ענינא אע\"ג דמצינו ביה אין מוקדם ומאוחר כי ההיא דסקול יסקל וגו' היינו דוקא דאיכא הוכחה אבל לא נילף מיניה מסברא היכא דליכא הוכחה ולכך דנין בכלל ופרט המקורבים בענין אחד וניחא השתא דבסברא פליגי הני אמוראי ודו\"ק:",
+                      "ref": "Chidushei Halachot on Pesachim 6b:1",
+                      "sourceHeRef": "חדושי הלכות על פסחים ו׳ ב:א",
+                      "sourceRef": "Chidushei Halachot on Pesachim 6b:1"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאי לא תימא הכי</strong> - דבסדר כתיבתן נאמרו הא דקיימא לן כל כלל ופרט אין בכלל אלא מה שהוא בפרט לפי שבא הפרט ופרט שזהו הכלל היכי סמכינן עלה דילמא פרט וכלל הוא:",
+              "ref": "Rashi on Pesachim 6b:8:3",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:ח:ג",
+              "sourceRef": "Rashi on Pesachim 6b:8:3"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>א</big> על מה שנאמר שאין מוקדם ומאוחר בתורה <b>אמר רב פפא: לא אמרן</b> <span class=\"hebrew-emphasis\">[אמרנו]</span> כלל זה <b>אלא</b> כשמדובר <b>בתרי ענייני</b> <span class=\"hebrew-emphasis\">[בשני ענינים</span> נפרדים<span class=\"hebrew-emphasis\">],</span> <b>אבל בחד עניינא</b> <span class=\"hebrew-emphasis\">[בענין אחד]</span> <b>מאי</b> <span class=\"hebrew-emphasis\">[מה]</span> ש<b>מוקדם — מוקדם, ומאי</b> <span class=\"hebrew-emphasis\">[ומה]</span> ש<b>מאוחר — מאוחר. דאי לא תימא הכי</b> <span class=\"hebrew-emphasis\">[שאם לא תאמר כך]</span> שיש מוקדם ומאוחר בפסוקיה של פרשה אחת, הרי המידה שדורשים חכמים <b>\"כלל ופרט</b> — <b>אין בכלל אלא מה שבפרט\"</b> מחוייבת רק אם סדר הפסוקים והמלים הוא קבוע, שאם לא כן <b>דילמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> <b>פרט וכלל הוא</b> שהוא מדה שונה לגמרי.",
+              "ref": "Steinsaltz on Pesachim 6b:8",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:ח",
+              "sourceRef": "Steinsaltz on Pesachim 6b:8"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "These two methods of interpretation, a generalization and a detail and a detail and a generalization, are polar opposites. The first method restricts the generalization, while the second method expands upon the detail. Consequently, any change in the order of the verses will significantly alter its meaning.",
+              "he": "שתי המדות \"כלל ופרט\" ו\"פרט וכלל\" לא רק שאינן דומות זו לזו אלא שהראשונה היא מדה המגבילה את חלות הכלל, ואילו השניה היא מדה מרחיבה ולכן חילוף הסדר הוא היפוך הענין ולא רק שינוי מועט.",
+              "ref": "Steinsaltz comment #1 on Pesachim 6b:8",
+              "sourceHeRef": "כְּלָל וּפְרָט",
+              "sourceRef": "A generalization is followed by a detail"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל בחד עניינא מאי דמוקדם מוקדם</strong> - היינו דוקא היכא דליכא דרשה וטעם דהא תנן בפ' נגמר הדין <span class=\"parenthesized\">(סנהדרין מה. ושם)</span> דדחיית הנסקל קודם לסקילתו אע\"ג דסקילה כתיב ברישא דכתיב כי סקל יסקל או ירה יירה היינו משום דכתיב במקום אחר סקילה בגמר מיתה דכתיב וסקלתם באבנים ומתו:",
+              "ref": "Tosafot on Pesachim 6b:8:1",
+              "sourceHeRef": "תוספות על פסחים ו׳ ב:ח:א",
+              "sourceRef": "Tosafot on Pesachim 6b:8:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-pappa\" class=\"namedEntityLink\" data-slug=\"rav-pappa\">Rav Pappa</span> said:</b> This principle <b>applies only</b> when the Torah deals <b>with two</b> separate <b>matters, but within one matter, that which</b> is written <b>earlier</b> occurred <b>earlier, and that which</b> is written <b>later</b> occurred <b>later; as, if you do not say so</b> but you claim that there is no definite order within each matter, then the hermeneutic principle: When a <b>generalization</b> is followed by a <b>detail the generalization</b> refers <b>only</b> to <b>that which</b> is specified in <b>the detail,</b> is problematic. This principle is valid only if there is a definite order to the verses and words in each matter. If there is no definite order, <b>perhaps</b> it is actually a <b>detail</b> followed by a <b>generalization,</b> which is interpreted by means of an alternate hermeneutic principle with different results.",
+      "he": "אָמַר רַב פָּפָּא: לָא אֲמַרַן אֶלָּא בִּתְרֵי עִנְיָינֵי, אֲבָל בְּחַד עִנְיָינָא, מַאי דְּמוּקְדָּם — מוּקְדָּם, וּמַאי דִּמְאוּחָר — מְאוּחָר. דְּאִי לָא תֵּימָא הָכִי, ״כְּלָל וּפְרָט — אֵין בַּכְּלָל אֶלָּא מַה שֶּׁבַּפְּרָט״, דִּילְמָא פְּרָט וּכְלָל הוּא!",
+      "ref": "Pesachim 6b:8",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">נעשה כלל מוסף על הפרט</strong> - שלא תאמר אין כאן אלא פרט או כיוצא בו נביא בדינו בבנין אב לכן הוסיף הכתוב כלל אחריו להביא כל דבר ואפילו אינו דומה לפרט:",
+              "ref": "Rashi on Pesachim 6b:9:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:ט:א",
+              "sourceRef": "Rashi on Pesachim 6b:9:1"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ותו</b> <span class=\"hebrew-emphasis\">[ועוד],</span> אותה מידה שידועה לנו במדרש הכתובים <b>\"פרט וכלל — נעשה כלל מוסף על הפרט\"</b> וכולל בתוכו הכל גם את שאינו דומה לפרט, <b>דילמא</b> <span class=\"hebrew-emphasis\">[שמא]</span> <b>כלל ופרט הוא,</b> משום שאין הסדר מחייב. על כן חייבים לומר שבענין אחד ודאי שיש סדר מוקדם ומאוחר למקרא.",
+              "ref": "Steinsaltz on Pesachim 6b:9",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:ט",
+              "sourceRef": "Steinsaltz on Pesachim 6b:9"
+            }
+          ]
+        }
+      },
+      "en": "<b>And furthermore,</b> this is equally difficult with regard to the hermeneutic principle: “When <b>a detail</b> is followed by a <b>generalization, the generalization becomes an addition to the detail,</b> adding cases dissimilar to the detail. Here too, <b>perhaps it is a generalization</b> followed by <b>a detail,</b> as there is no defined order. Apparently, there must be a fixed order within a given matter.",
+      "he": "וְתוּ, ״פְּרָט וּכְלָל נַעֲשֶׂה כְּלָל מוּסָף עַל הַפְּרָט״, דִּילְמָא כְּלָל וּפְרָט הוּא!",
+      "ref": "Pesachim 6b:9"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אי הכי</strong> - קשיא לך אפילו בתרי ענייני תיקשי לך דהא דיינינן כלל ופרט כשנאמר אחד מהן בפרשה זו ואחד מהן בפרשה אחרת:",
+              "ref": "Rashi on Pesachim 6b:10:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:י:א",
+              "sourceRef": "Rashi on Pesachim 6b:10:1"
+            },
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> הא ניחא כו' בפרק כל המנחות באות מצה נ\"ב איתא להדיא לשם דאפי' בב' פרשיות דנין דחד פסוק בויקרא וחד בצו את אהרן ובהחובל פליגי אפי' בפ' אחת וענין אחד אלא שרחוק ממנה קצת ולפי דעת רש\"י מה שמשני בתרי עניני לא כלומר שהוא ב' עניני ממש אבל ענין אחד אפי' בפרשה אחרת דנין לאותו מ\"ד דדנין כלל ופרט המרוחק אכן התוס' לא סבירא להו לשם בפרק החובל כרש\"י אלא כל ב' פרשיות הוי תרי עניני ולא דנין ולא חשבי אתקפתא דרב אדא דפריך לשם דאפי' מרוחקין בב' פרשיות דנין כו' אלא כרבי אפוטריקי דסבירא ליה אין דנין ע\"ש:",
+                      "ref": "Chokhmat Shlomo on Pesachim 6b:3",
+                      "sourceHeRef": "חכמת שלמה על פסחים ו׳ ב:ג",
+                      "sourceRef": "Chokhmat Shlomo on Pesachim 6b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הא ניחא</strong> - דלא קשיא לך:",
+              "ref": "Rashi on Pesachim 6b:10:2",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:י:ב",
+              "sourceRef": "Rashi on Pesachim 6b:10:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">למאן דאמר כלל ופרט המרוחקין אין דנין כו'</strong> - ופלוגתא היא במנחות בפרק כל המנחות באות מצה <span class=\"parenthesized\">(מנחות דף נה:)</span> ובבבא קמא בהחובל <span class=\"parenthesized\">(בבא קמא דף פה.)</span>:",
+              "ref": "Rashi on Pesachim 6b:10:3",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:י:ג",
+              "sourceRef": "Rashi on Pesachim 6b:10:3"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>כל</big></b> [אלצעס] <span class=\"parenthesized\">(סוטה ה)</span> ככל יקפצון כאברהם יצחק ויעקב דכתיב בהו בכל מכל כל וכו'. <span class=\"parenthesized\">(עירובין כח)</span> מאי טעמא דמאן דמרבי בעופות סבר לה דכללא בתרא דוקא וכו'. <span class=\"parenthesized\">(פסחים ו)</span> הניחא למאן דאמר כלל ופרט המרוחקים זה מזה אין דנין אותו בכלל ופרט שפיר אלא למאן דאמר דנין מאי איכא למימר. <span class=\"parenthesized\">(ב\"ק פד)</span> צער כואו כויה תחת כויה כלל אפילו שאין בו חבורה ופרט שהכויה יש בה חבורה ופצע הפריש ביניהן וחלוקה בין רבי ובין בן עזאי <span class=\"parenthesized\">(סנהדרין מה)</span> רבנן דרשי כללי ופרטי והימת ותלית אותו על עץ כלל ופסוק של אחריו פרט כי קללת אלהים תלוי <span class=\"parenthesized\">(נדה ל)</span> ותהי נידתה עליו כלל וכל המשכב פרט כלל ופרט אין בכלל אלא מה שבפרט וכו'. <span class=\"parenthesized\">(מנחות נה)</span> ואימא לא תעשה כלל לא תעשה פרט כלל ופרט אין בכלל אלא מה שבפרט אפייה אין מידי אחרינא לא. אמר רבי אפוטריקי משום דהוה כלל ופרט המרוחקין זה מזה אין דנין אותו בכלל ופרט:",
+              "ref": "Sefer HeArukh, Letter Kaf 113",
+              "sourceHeRef": "ספר הערוך, אות הכ\"ף קי״ג",
+              "sourceRef": "Sefer HeArukh, Letter Kaf 113"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: <b>אי הכי</b> <span class=\"hebrew-emphasis\">[אם כך]</span> שאתה מביא ראיה מדברי המקראות שאנו דורשים, <b>אפילו בתרי ענייני נמי</b> <span class=\"hebrew-emphasis\">[בשני ענינים גם כן]</span> תוכל לומר נימוק זה! <b>הניחא למאן דאמר</b> <span class=\"hebrew-emphasis\">[</span>דבר <span class=\"hebrew-emphasis\">זה נוח למי שאומר]</span> <b>\"כלל ופרט המרוחקין זה מזה</b> שאינם כתובים ממש זה ליד זה — <b>אין דנין אותו בכלל ופרט\"</b> הרי <b>שפיר</b> <span class=\"hebrew-emphasis\">[יפה],</span> <b>אלא למאן דאמר</b> <span class=\"hebrew-emphasis\">[למי שאומר]</span> שכלל ופרט מרוחקים <b>\"דנין\", מאי איכא למימר</b> <span class=\"hebrew-emphasis\">[מה יש לומר]?</span>",
+              "ref": "Steinsaltz on Pesachim 6b:10",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:י",
+              "sourceRef": "Steinsaltz on Pesachim 6b:10"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara asks: <b>If so,</b> based on the above reasoning one cannot apply these principles <b>even</b> with regard <b>to two matters. This</b> statement works out <b>well according to</b> the opinion of <b>the one who said:</b> With regard to <b>a generalization and a detail that</b> appear in the Torah <b>removed from one another, one cannot derive</b> a <i>halakha</i> from it <b>with</b> the principle of <b>a generalization and a detail. However, according to the one who said: One derives</b> from a generalization and a detail that are removed from one another by means of said principle, <b>what is there to say?</b>",
+      "he": "אִי הָכִי, אֲפִילּוּ בִּתְרֵי עִנְיָינֵי נָמֵי! הָנִיחָא לְמַאן דְּאָמַר ״כְּלָל וּפְרָט הַמְרוּחָקִין זֶה מִזֶּה — אֵין דָּנִין אוֹתוֹ בִּכְלָל וּפְרָט״, שַׁפִּיר, אֶלָּא לְמַאן דְּאָמַר ״דָּנִין״, מַאי אִיכָּא לְמֵימַר?",
+      "ref": "Pesachim 6b:10"
+    },
+    {
+      "commentary": {
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומשיבים: <b>אפילו למאן דאמר</b> <span class=\"hebrew-emphasis\">[למי שאומר]</span> <b>\"דנין</b> כלל ופרט המרוחקים <b>\"</b>, <b>הני מילי</b> <span class=\"hebrew-emphasis\">[דברים אלו</span> אמורים<span class=\"hebrew-emphasis\">] —</span> <b>בחד עניינא</b> <span class=\"hebrew-emphasis\">[בענין אחד]</span> שאמנם אין הפסוקים קרובים זה לזה אבל עדיין מצויים הם באותו ענין. <b>אבל</b> אם היו <b>בתרי ענייני</b> <span class=\"hebrew-emphasis\">[בשני ענינים]</span> לחוד — <b>אין דנין</b> אותם בכלל ופרט לדעת הכל, לפי שאין מוקדם ומאוחר בתורה.",
+              "ref": "Steinsaltz on Pesachim 6b:11",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:יא",
+              "sourceRef": "Steinsaltz on Pesachim 6b:11"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>תוס'</b> בד\"ה אבל בתרי עניני כו' שור וחמור [דדברות אחרונות] פרט ומשני בהמתך דדברות כו' היינו משום דעשרת הדברות חשיבי כחד ענינא עכ\"ל כצ\"ל והוצרכו לזה לפי שיטתם דבתרי עניני דהיינו בב' פרשיו' לכ\"ע אין דנין פרט וכלל כמ\"ש התוס' פ' כל המנחות ופ' החובל כמ\"ש מהרש\"ל אבל לפירש\"י בשמעתין נראה דתרי עניני דאין דנין לכ\"ע היינו תרי עניני ממש אבל בחד ענינא אפילו בב' פרשיות דנין לא הוצרך לזה דודאי דברות ראשונות ואחרונות חד ענינא הן ודו\"ק:",
+                      "ref": "Chidushei Halachot on Pesachim 6b:2",
+                      "sourceHeRef": "חדושי הלכות על פסחים ו׳ ב:ב",
+                      "sourceRef": "Chidushei Halachot on Pesachim 6b:2"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">אבל בתרי ענייני אין דנין</strong> - והא דפריך בסוף הפרה <span class=\"parenthesized\">(ב\"ק ד' נד: ושם)</span> ואימא בהמתך דדברות ראשונות כלל שור וחמור פרט בהמתך דדברות האחרונות חזר וכלל אע\"ג דמרוחקין טובא היינו משום דעשרת הדברות חשיבי כחד עניינא דבדיבור אחד נאמרו:",
+              "ref": "Tosafot on Pesachim 6b:11:1",
+              "sourceHeRef": "תוספות על פסחים ו׳ ב:יא:א",
+              "sourceRef": "Tosafot on Pesachim 6b:11:1"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara answers: <b>Even according to the one who said that one derives</b> a <i>halakha</i> from a generalization and a detail that are removed from one another, <b>this applies only</b> with regard <b>to one matter,</b> i.e., verses dealing with the same issue, even if they do not appear together. <b>However,</b> if they address <b>two</b> different <b>matters, one cannot derive</b> a <i>halakha</i> from a generalization and a detail, as the Torah is not written in absolute chronological order.",
+      "he": "אֲפִילּוּ לְמַאן דְּאָמַר ״דָּנִין״, הָנֵי מִילֵּי — בְּחַד עִנְיָינָא. אֲבָל בִּתְרֵי עִנְיָינֵי — אֵין דָּנִין.",
+      "ref": "Pesachim 6b:11"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בָּטֵל I</strong> (Biblical Hebrew; see <span class=\"refLink\" data-ref=\"Jastrow, בטי 1\" dir=\"rtl\" href=\"/Jastrow,_בטי.1\">בטי</span>) [<i>to be hollow</i>]; <br><b>1)</b> <i>to be void, abolished, suspended; to cease to exist</i>. <span class=\"refLink\" data-ref=\"Ketubot 103b:14\" href=\"/Ketubot.103b.14\">Ketubot 103ᵇ</span> <span dir=\"rtl\">בָּטְלָה קדושה</span> sanctity of life ceased; [oth. opinion: the levitical law concerning the contact with a corpse was suspended in favor of Rabbi; see Tosafot and l.]. <span class=\"refLink\" data-ref=\"Pirkei Avot 5:16\" href=\"/Pirkei_Avot.5.16\">Pirkei Avot V, 16</span> <span dir=\"rtl\">ב׳ דבר בְּטֵלָה וכ׳</span> as soon as the (sensual) attraction disappears, love will disappear. <span class=\"refLink\" data-ref=\"Pirkei Avot 5:21\" href=\"/Pirkei_Avot.5.21\">Ib. 21</span> as if dead <span dir=\"rtl\">ועבר וב׳ מן העולם</span> and passed away and disappeared from this world. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Megillah 1:4:11\" href=\"Jerusalem_Talmud_Megillah.1.4.11\">Yerushalmi Megillah I, 70ᵈ</span> top, and e. <span dir=\"rtl\">בטלה מגלת תענית</span> the <i>Scroll of Fasts</i> has been abolished (the festive commemorations enumerated therein are no more observed). <span class=\"refLink\" data-ref=\"Mishnah Sotah 9:9\" href=\"/Mishnah_Sotah.9.9\">Sotah IX, 9</span> (<span class=\"refLink\" data-ref=\"Sotah 47a:20\" href=\"/Sotah.47a.20\">47ᵃ</span>); and from <br><b><br>—2)</b> <i>to rest from labor, be at ease, be idle.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 4:10\" href=\"/Pirkei_Avot.4.10\">Pirkei Avot IV, 10</span> <span dir=\"rtl\">אם בָּטַלְתָּ מן וכ׳</span> if thou choosest not to study the law, there will be many disturbances (excuses) to assist thee. <span class=\"refLink\" data-ref=\"Pirkei Avot 1:5\" href=\"/Pirkei_Avot.1.5\">Ib. I, 5</span> <span dir=\"rtl\">בּוֹטֵל מד\"ת</span> he neglects the study of the Law; and from<br></br> <strong>Nifal</strong> - <strong dir=\"rtl\">נִבְטַל</strong> <br><b>1)</b> <i>to be abolished, suspended</i>. Yerushalmi Megillah I, 70ᵈ bottom of page <span dir=\"rtl\">עתידין לִיבָּטֵל</span> (= <span dir=\"rtl\">לְהִיבָּטֵל</span>) shall in future be abolished (neglected). <span class=\"refLink\" data-ref=\"Gittin 32a:11\" href=\"/Gittin.32a.11\">Gittin 32ᵃ</span>, see infra. <br><b><br>—2)</b> <i>to be excused, be exempt</i>. Ib. II, 16 thou art not a free man <span dir=\"rtl\">להִבָּטֵל ממנה</span> so as to be exempt from life’s duties. <br><b><br>—3)</b> <i>to remain single.</i> <span class=\"refLink\" data-ref=\"Mishnah Gittin 4:5\" href=\"/Mishnah_Gittin.4.5\">Gittin IV, 5</span> (<span class=\"refLink\" data-ref=\"Gittin 41b:1\" href=\"/Gittin.41b.1\">41ᵇ</span>) <span dir=\"rtl\">יִבָּטֵל</span> shall he never marry?<br></br> <strong>Piël</strong> - <strong dir=\"rtl\">בִּיטֵּל</strong>, <strong dir=\"rtl\"> בִּטֵּל</strong> <br><b>1)</b> <i>to abolish, suspend, cancel, undo, neglect.</i> <span class=\"refLink\" data-ref=\"Pirkei Avot 2:4\" href=\"/Pirkei_Avot.2.4\">Pirkei Avot II, 4</span> <span dir=\"rtl\">בַּטֵּל רצונך וכ׳</span> set aside thy will for the sake of the Lord’s will, in order that He may set aside the will of others (euphem. for <i>His will</i>) for the sake of thy will (withdraw evil decrees at thy prayer). <span class=\"refLink\" data-ref=\"Pirkei Avot 4:9\" href=\"/Pirkei_Avot.4.9\">Ib. IV, 9</span> <span dir=\"rtl\">המְבַטֵּל וכ׳</span> he who neglects the study of the Law on account of his wealth. <span class=\"refLink\" data-ref=\"Mishnah Sotah 9:10\" href=\"/Mishnah_Sotah.9.10\">Sotah IX, 10</span> (<span class=\"refLink\" data-ref=\"Sotah 47a:20\" href=\"/Sotah.47a.20\">47ᵃ</span>) <span dir=\"rtl\">אף הוא בִּטֵּל את המעוררין</span> he also abolished (the custom of) the wakers, see <span class=\"refLink\" data-ref=\"Jastrow, עָרַר 1\" dir=\"rtl\" href=\"/Jastrow,_עָרַר.1\">עָרַר</span>. <span class=\"refLink\" data-ref=\"Shabbat 63a:22\" href=\"/Shabbat.63a.22\">Shabbat 63ᵃ</span> <span dir=\"rtl\">מְבַטְּלָהּ</span> he (the observer of the Law) will cancel it (avert God’s evil decree). Mekhilta Beshalach, Amalek, 2, see <span class=\"refLink\" data-ref=\"Jastrow, אִיפָּטִיקוֹס 1\" dir=\"rtl\" href=\"/Jastrow,_אִיפָּטִיקוֹס.1\">אִיפָּטִיקוֹס</span>. <span class=\"refLink\" data-ref=\"Makkot 24a\" href=\"/Makkot.24a\">Makkot 24ᵃ</span>. <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 4:7\" href=\"/Mishnah_Avodah_Zarah.4.7\">Pirkei Avot Zar. IV, 7</span> <span dir=\"rtl\">למה אינו מְבַטְּלָהּ</span> why does He not destroy it (the objects of idol worship)?—<span class=\"refLink\" data-ref=\"Mishnah Gittin 4:1\" href=\"/Mishnah_Gittin.4.1\">Gittin IV, 1</span> <span dir=\"rtl\">שוב אינו יכול לבַטְּלוֹ</span> he can no longer annul it (his letter of divorce). <span class=\"refLink\" data-ref=\"Mishnah Gittin 4:2\" href=\"/Mishnah_Gittin.4.2\">Ib. 2</span> in former times a man could summon a court in a strange place <span dir=\"rtl\">ובִּטְּלוֹ</span> and declare it (the letter of divorce which he had sent off) void. <span class=\"refLink\" data-ref=\"Gittin 32b:3\" href=\"/Gittin.32b.3\">Ib. 32ᵇ</span> <span dir=\"rtl\">אתי דיבור ומבטל דיבור</span> a word (declaration) comes and cancels a word.—<span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 4:4\" href=\"/Mishnah_Avodah_Zarah.4.4\">Pirkei Avot Zar. IV, 4</span> (<span class=\"refLink\" data-ref=\"Avodah Zarah 42b:2\" href=\"/Avodah_Zarah.42b.2\">42ᵇ</span>) an idolator (gentile) <span dir=\"rtl\">מבטל אליל שלו וכ׳</span> may (by mutilation &c.) cancel his own or his neigbor’s idol (so that it is no longer subject to the law forbidding Jews to derive any benefits from idolatrous paraphernalia), but an Israelite cannot &c. Ib. <span dir=\"rtl\">המב׳ אליל ב׳ וכ׳</span> in cancelling an idol, one has at the same time cancelled its attachments; and from—ב׳ רשות <i>to resign possession</i>, a legal fiction by which the carrying of objects on the Sabbath from one’s own place to one common to several persons, may be permitted. <span class=\"refLink\" data-ref=\"Mishnah Eruvin 6:7\" href=\"/Mishnah_Eruvin.6.7\">Eruvin VI, 7</span> <span dir=\"rtl\">מְבַטֵּל את רשותו</span> he (the brother who forgot to lay the Erub, see <span class=\"refLink\" data-ref=\"Jastrow, עֵירוּב 1\" dir=\"rtl\" href=\"/Jastrow,_עֵירוּב.1\">עֵירוּב</span>) must resign his share in the common property. <span class=\"refLink\" data-ref=\"Eruvin 68b:1\" href=\"/Eruvin.68b.1\">Ib. 68ᵇ</span> <span dir=\"rtl\">מבטלין וחוזרין ומב׳</span> you may resign your share to your neighbor, and then he may resign to you; and from—<span dir=\"rtl\">ב׳ חמץ</span> to renounce (by declaration) the possession of anything leavened that may have remained undiscovered in one’s possession. <span class=\"refLink\" data-ref=\"Pesachim 6b:12\" href=\"/Pesachim.6b.12\">Pesachim 6ᵇ</span> <span dir=\"rtl\">הבודק צריך שיְבַטֵּל</span> after one has searched the house for leavened things, he must renounce (whatever he may have failed to find); and from—<i>Part. pass.</i> <span dir=\"rtl\">מְבוּטָּל</span>, f. <span dir=\"rtl\">מְבוּטֶּלֶת</span>. <span class=\"refLink\" data-ref=\"Eruvin 69b:14\" href=\"/Eruvin.69b.14\">Eruvin 69ᵇ</span> <span dir=\"rtl\">רשותי מב׳ לך</span> my possession be resigned to thee (for Sabbath purposes). <span class=\"refLink\" data-ref=\"Gittin 32a:11\" href=\"/Gittin.32a.11\">Gittin 32ᵃ</span> if a recipient says, <span dir=\"rtl\">מתנה זו מב׳</span> ‘this donation be void’, <span dir=\"rtl\">תִּיבָּטֵל</span> ‘shall be void’, opposed to <span dir=\"rtl\">בְּטֵלָה היא</span> ‘is a void one’, i.e. has been annulled.—<span class=\"refLink\" data-ref=\"Mishnah Eduyot 1:5\" href=\"/Mishnah_Eduyot.1.5\">Eduy. I, 5</span>; <span class=\"refLink\" data-ref=\"Gittin 36b\" href=\"/Gittin.36b\">Gittin 36ᵇ</span>, and from <span dir=\"rtl\">אין ב\"ד יכול לבַ׳ וכ׳</span> no court can repeal (overrule) the decisions of another court, unless &c. <br><b><br>—2)</b> <i>to neutralize</i> an admixture of forbidden food &c. in a certain quantity. <span class=\"refLink\" data-ref=\"Chullin 108a:8\" href=\"/Chullin.108a.8\">Chullin 108ᵃ</span> <span dir=\"rtl\">ושאינו מינו … ומבטלו</span> and the portion of the mixture which is not its kind is prevailing and neutralizes the forbidden portion (as if did not exist at all); and from <br><b><br>—3)</b> <i>to disturb, cause suspense, interfere with</i>. <span class=\"refLink\" data-ref=\"Eruvin 63b\" href=\"/Eruvin.63b\">Eruvin 63ᵇ</span>; <span class=\"refLink\" data-ref=\"Megillah 3a:21\" href=\"/Megillah.3a.21\">Megillah 3ᵃ</span> <span dir=\"rtl\">בִּיטַּלְתֶּם וכ׳</span> ye interfered with the daily offering; and from—<span class=\"refLink\" data-ref=\"Mishnah Berakhot 2:5\" href=\"/Mishnah_Berakhot.2.5\">Berakhot II, 5</span> <span dir=\"rtl\">לבטל ממני וכ׳</span> to suspend (shake off) the yoke of heavenly government even one minute.<br></br> <strong>Hifil</strong> - <strong dir=\"rtl\">הִבְטִיל</strong> <i>to cause interruption, to order suspension</i>. <span class=\"refLink\" data-ref=\"Mishnah Sukkah 5:5\" href=\"/Mishnah_Sukkah.5.5\">Sukkah V, 5</span> <span dir=\"rtl\">להַבְטִיל את העם וכ׳</span> to cause the people to cease working.<br></br> <strong>Hithpaël and Nithpaël</strong> - <strong dir=\"rtl\">הִתְבַּטֵּל</strong>, <strong dir=\"rtl\"> נִתְבַּטֵּל</strong> <i>to be interrupted</i> &c., see Nifal—Tan. d’be El. I, 5; II, 3."
+              ],
+              "he": [],
+              "ref": "Jastrow, בָּטֵל I 1",
+              "sourceHeRef": "מילון יסטרוב, בָּטֵל I א׳",
+              "sourceRef": "Jastrow, בָּטֵל I 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When he concludes searching, if he searched on the fourteenth at night, or on the fourteenth during the day before the sixth hour, he should nullify all the chametz that remains in his possession that he does not see.<br>He should say: \"All chametz which is in my possession that I have not seen, behold, it is nullified and must be considered as dust.\"<br>However, if he searched after the beginning of the sixth hour and onward, he can no longer nullify it, for it is not in his possession, since benefiting from it is forbidden.",
+              "he": "וּכְשֶׁגּוֹמֵר לִבְדֹּק אִם בָּדַק בְּלֵיל אַרְבָּעָה עָשָׂר אוֹ בְּיוֹם אַרְבָּעָה עָשָׂר קֹדֶם שֵׁשׁ שָׁעוֹת צָרִיךְ לְבַטֵּל כָּל חָמֵץ שֶׁנִּשְׁאַר בִּרְשׁוּתוֹ וְאֵינוֹ רוֹאֵהוּ. וְיֹאמַר כָּל חָמֵץ שֶׁיֵּשׁ בִּרְשׁוּתִי שֶׁלֹּא רְאִיתִיו הֲרֵי הוּא בָּטֵל וַהֲרֵי הוּא כְּעָפָר. אֲבָל אִם בָּדַק מִתְּחִלַּת שָׁעָה שִׁשִּׁית וּלְמַעְלָה אֵינוֹ יָכוֹל לְבַטֵּל שֶׁהֲרֵי אֵינוֹ בִּרְשׁוּתוֹ שֶׁכְּבָר נֶאֱסַר בַּהֲנָיָה:",
+              "ref": "Mishneh Torah, Leavened and Unleavened Bread 3:7",
+              "sourceHeRef": "הלכות חמץ ומצה ג:ז",
+              "sourceRef": "Leavened and Unleavened Bread 3:7"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">הבודק צריך שיבטל</strong> - בלבו סמוך לבדיקה מיד ואומר כל חמירא דאיכא בביתא הדין ליבטיל:",
+              "ref": "Rashi on Pesachim 6b:12:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יב:א",
+              "sourceRef": "Rashi on Pesachim 6b:12:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מאי טעמא</strong> - הרי מבער כל הנמצא:",
+              "ref": "Rashi on Pesachim 6b:12:2",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יב:ב",
+              "sourceRef": "Rashi on Pesachim 6b:12:2"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רב יהודא אמר רב הבודק צריך שיבטל.</b> פי' בשעת בדיקה וכן דיקדק מלשונו הרי\"ט ז\"ל ולשון הביטול כתבו הגאוני' ז\"ל כל חמירא דאיכא ברשותי דלא ידענא ביה ליהוי בטל וחשוב כעפרא דארעא וכן הוא בירושלמי. ויש שפירש דהא דלא עבר עליה לאחר ביטול משום דתו ליכא עלייהו תורת לחם. וכתבו התוס' דזה אינו נכון כי אין הדבר תלוי בדיבורו. ועוד לאחר איסורו למה לא יבטל אותו והעלו עיקר כפי' רת\"ם ז\"ל דמשום הפקר הוה ואע\"ג דקי\"ל דאין הפקר אלא בפני ג' התם מדרבנן דמדאורייתא אפי' בינו לבין עצמו אם מודה בדבר וזימנין דאוקמוה רבנן אדינא דאוריית' כדאמרי' פרק אלו מציאות ובמס' נדרים גבי ענין המודר הנאה מחבירו והיו מהלכין בדרך וכן לב\"ש דאית להו שביתת כלים אמרינן גיגית וקדרה היכי עביד בהו דמפקיר להו בין השמשות והכי נמי אוקמינן אדינא דאו' ואע\"ג דהאי לישנא אינו לשון הפקר ולא מהני להפקר דעלמא הכא שאני דשורת הדין אין חמצו ברשותו ועל כוונתו <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(נ\"ל דצ\"ל כורחו, המעתיק)</span></span> עשאו הכתוב כאילו הוא ברשותו ובסלוק שמסתלק ממנו חשוב כהפקר כן פי' הרא\"ה ז\"ל וכתב הוא ז\"ל אע\"ג דבדיקה לא בעי בעלים ביטול בעי בעלים שאין שליח להפקר. והבעל עיטור כתב ביד שליח לבעל ולא נראו דבריו להרא\"ה ז\"ל:",
+              "ref": "Ritva on Pesachim 6b:1",
+              "sourceHeRef": "ריטב\"א על פסחים ו׳ ב:א",
+              "sourceRef": "Ritva on Pesachim 6b:1"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף ב' </b>אחר הבדיקה מיד בלילה יבטלנו וכו' נ\"ב הנה מקור דין זה הוא בש\"ס דפ\"ק דפסחים אר\"י אמר רב הבודק צריך שיבטל וכו' וכי משכחת לה לבטלה לכאורה קשה לי מה פריך דלמא באמת כן הכוונה דכשמוציא חמץ צריך לבטלו ומה דקמ\"ל כן היינו דהוי ס\"ד כיון שמצאו א\"כ הוי משהה לבערו ואינו עובר עליו ולא יצטרך לבטלו לכך קמ\"ל דמה דמשהה לבערו אינו עובר עליו היינו אם לא היה בידו לבערו מיד אכל אם הוי בידו לבערו מיד ואינו מבערו עובר עליו ולכך קמ\"ל דודאי אם ימצאנו בזמן דאפשר לבערו מן הסתם יבערנו וא\"צ ביטול רק דהוי חשש בזמן שלא יוכל לבערו אך א\"כ יהיה משהה ע\"מ לבערו ואינו עובר לכך קמ\"ל דצריך לבטלו עכ\"פ ואם אינו מבטלו עובר עליו כיון דזה היה בידו ומה פריך. והנה לפירש\"י דמפרש דחס עליו לשורפה אתי שפיר דלא הוי מצי משני כן דא\"כ מה קמ\"ל פשיטא דצריך לבטל ואין לו' דהוי ס\"ד דהוי משהה ע\"מ לבערו דהרי חס עליו שלא לשורפו אבל לפירוש התוס' דלא בטל מאיליו קשה מה פריך דלמא קמ\"ל זה גופא דאף דיכוין להיות משהה ע\"מ לבערו לא מהני כיון דיכול לבטלו אך נראה דקשיא לי מלשון הבודק צריך שיבטל ולמה לא אמר בקיצור וצריך לבטל מוכח דהכוונה בעת הבדיקה יבטל ויובן יותר ע\"פ דברי רבינו יונה כפ\"ב דברכות גבי חוזר לראש הפרק שכתב דאף דספק קרא ק\"ש אינו חוזר מכל מקום כיון דהתחיל צריך לגמור וכו' וא\"כ יש לו' ה\"נ בזה דבודאי לולא הבדיקה לא היה מחוייב לבטל לחנם מספק שמא ימצא בתר איסורא רק כיון דחז\"ל תקנו לבדוק מכח ספק מכח חשש דלמא אתי למיכל מיניה א\"כ כיון דהתחיל לבדוק ולחוש לספק צריך נמי לבטל מספק ולכך קאמר הבודק צריך שיבטל ואתי שפיר יותר דקשה לפי דעת הי\"מ שהביא הרא\"ש דהביטול הוי רק בשעה ששית א\"כ אינו בשעת בדיקה וא\"כ למה נקט הבודק צריך שיבטל ומכ\"ש דקשה קושייתנו הנ\"ל דלמא הכוונה כשימצאנו צריך לבטל ואין לו' דדייק מלשון הבודק דמשמע בשעת בדיקה דהרי הם ס\"ל דהביטול הוי בשעה ששית אך לפי הנ\"ל ניחא ניהו דהביטול הוי ביום מכל מקום אם לא נחית תחלה לחוש לספק לא הוי צריך אח\"כ לבטל לחוש לספק רק כיון דבודק וחושש לספק צריך אח\"כ נמי לבטל ומחר בשעה ששית לחוש לספק ואתי שפיר ודוק היטב בעזה\"י: <span class=\"parenthesized\">(שם בהג\"ה)</span> ואם אמרו בלה\"ק וכו'. נ\"ב עיין במג\"א דהקשה הרי תרגום אינו לה\"ק וכו' ועיין ראייה לדבריו במס' ברכות [דף מ] במה דקאמר וכ\"ת משום דאמרה בלשון חול מוכח להדיא דהתרגום אינו נקרא לה\"ק אפילו נגד שאר לשונות מדקאמר דאמרה בלשון חול ולא אמר דאמרה בלשון תרגום א\"ו דלא אמרה בלה\"ק מוכח דתרגום נקרא חול ממש כשאר לשונות ולא כהח\"י ע\"ש ודוק היטב:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 434:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אורח חיים תלד:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 434:1"
+                    }
+                  ]
+                },
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ו)</span> מיד בלילה יבטלנו</strong> - הטעם הוא דאע\"ג דמדאורייתא בבדיקה לבד סגי דמן התורה סגי באחד מהן או בביעור או בביטול דאפילו אם ישאר שם חמץ בבית אינו עובר עליו כ\"ז שלא נודע לו כיון שבדק היטב ועשה כל מה שמוטל עליו מ\"מ חכמים חששו שמא ימצא גלוסקא יפה שאינה נבטלת מעצמה כמו פירורין וישהה מעט קודם שישרפנו ויעבור עליו בבל יראה אבל אם יבטלנו שוב אינו עובר בכל גווני בבל יראה דהוי הפקר ולאו דיליה הוא:",
+                      "ref": "Mishnah Berurah 434:6",
+                      "sourceHeRef": "משנה ברורה תלד:ו",
+                      "sourceRef": "Mishnah Berurah 434:6"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ז)</span> דלא חזיתיה ודלא בערתיה</strong> - אבל מה שראה וביער אינו מבטל עכשיו שהרי רוצה לאכול עוד מה שמשייר וגם כדי לקיים מצות שריפה בחמץ שלו למחר ולכך אינו מבטל הכל עד למחר אחר אכילה ואחר ששרף החמץ:",
+                      "ref": "Mishnah Berurah 434:7",
+                      "sourceHeRef": "משנה ברורה תלד:ז",
+                      "sourceRef": "Mishnah Berurah 434:7"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ח)</span> וליהוי כעפרא דארעא</strong> - ונכון שיאמר וליהוי הפקר כעפרא דארעא. ולכו\"ע מהני לשון זה של הפקר אף שאמר לשון זה בינו לבין עצמו ולא בפני אנשים [אחרונים]:",
+                      "ref": "Mishnah Berurah 434:8",
+                      "sourceHeRef": "משנה ברורה תלד:ח",
+                      "sourceRef": "Mishnah Berurah 434:8"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ט)</span> בלשון שמבין</strong> - שהרי הבטול הוא מתורת הפקר ואם אינו יודע מה מהני הבטול. וע\"כ טוב ללמוד לע\"ה שאינם מבינים בלה\"ק או אשה מבטלת שתאמר בלשון שמבין דהיינו <span class=\"parenthesized\">(אללען חמץ אדער זויער טייג וואס עם איז אין מיין רשות זאל זיין הפקר אונד זאל ניט זיין גירעכינט נאר אזוי וויא ערד אין גאס)</span> ואם אמר ע\"ה בלה\"ק אם יודע לפחות ענין הבטול שיודע שמפקיר חמצו יצא בדיעבד אבל אם אינו מבין כלל וסובר שאומר איזה תחנה לא יצא אפילו בדיעבד:",
+                      "ref": "Mishnah Berurah 434:9",
+                      "sourceHeRef": "משנה ברורה תלד:ט",
+                      "sourceRef": "Mishnah Berurah 434:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(י)</span> בלשון הקודש</strong> - לאו דוקא ור\"ל בלשון תרגום כמו שאנו אומרים:",
+                      "ref": "Mishnah Berurah 434:10",
+                      "sourceHeRef": "משנה ברורה תלד:י",
+                      "sourceRef": "Mishnah Berurah 434:10"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יא)</span> וטוב לחזור ולבטלו</strong> - לפי שרגילין לקנות פת ביום י\"ד למאכל וגם בפת ששייר בלילה למאכלו לא נתכוין לבטלו [ואף אם כוון לבטלו הלא חוזר וזוכה בו] ויש לחוש שמא ישאר ממנו כזית ויעבור עליו לכך חוזר ומבטלו ומ\"מ אין לסמוך על בטול היום לבד ושלא לבטל בלילה דחיישינן שישכח לבטל עד שעה ששית דאז לא מהני בטול:",
+                      "ref": "Mishnah Berurah 434:11",
+                      "sourceHeRef": "משנה ברורה תלד:יא",
+                      "sourceRef": "Mishnah Berurah 434:11"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יב)</span> אלא לאחר ששרף החמץ</strong> - וא\"כ צריך לשרוף קודם שעה ששית ואח\"כ יבטלנו ג\"כ תיכף קודם שיותחל שעה ששית:",
+                      "ref": "Mishnah Berurah 434:12",
+                      "sourceHeRef": "משנה ברורה תלד:יב",
+                      "sourceRef": "Mishnah Berurah 434:12"
+                    }
+                  ]
+                },
+                "Mishneh Torah": {
+                  "comments": [
+                    {
+                      "en": "Thus, a person who does not nullify [his chametz] before the sixth hour and discovers chametz which he:<br>considered important and [valued] in his heart,<br>then forgot at the time of the destruction of chametz,<br>and hence did not destroy,<br>transgresses [the prohibitions]: \"[leaven] shall not be seen\" and \"[leaven] shall not be found.\"<br>Behold, he has neither destroyed nor nullified [his chametz], and nullification at this time would not be effective, for [the chametz] is no longer in his possession. Even so, the Torah considers it as if it were in his possession, to obligate him for [transgression of the commandments:] \"[leaven] shall not be seen\" and \"[leaven] shall not be found.\"<br>[Therefore,] he is obligated to destroy it whenever he finds it. If he finds it on the day of a festival, he should cover it with a utensil until the evening, and then destroy it. [If the chametz] was consecrated property, there is no need to cover it with a utensil, for regardless, everyone shies away from its use.",
+                      "he": "לְפִיכָךְ אִם לֹא בִּטֵּל קֹדֶם שֵׁשׁ וּמִשֵּׁשׁ שָׁעוֹת וּלְמַעְלָה מָצָא חָמֵץ שֶׁהָיָה דַּעְתּוֹ עָלָיו וְהָיָה בְּלִבּוֹ וּשְׁכָחוֹ בִּשְׁעַת הַבִּעוּר וְלֹא בִּעֲרוֹ הֲרֵי זֶה עָבַר עַל <span class=\"hebrew-emphasis\">(שמות יג ז)</span> <span class=\"hebrew-emphasis\">(דברים טז ד)</span> \"לֹא יֵרָאֶה\" וְ <span class=\"hebrew-emphasis\">(שמות יב יט)</span> \"לֹא יִמָּצֵא\" שֶׁהֲרֵי לֹא בִּעֵר וְלֹא בִּטֵּל. וְאֵין הַבִּטּוּל עַתָּה מוֹעִיל לוֹ כְּלוּם לְפִי שֶׁאֵינוֹ בִּרְשׁוּתוֹ וְהַכָּתוּב עֲשָׂהוּ כְּאִלּוּ הוּא בִּרְשׁוּתוֹ לְחַיְּבוֹ מִשּׁוּם לֹא יֵרָאֶה וְלֹא יִמָּצֵא. וְחַיָּב לְבַעֲרוֹ בְּכָל עֵת שֶׁיִּמְצָאֶנּוּ. וְאִם מְצָאוֹ בְּיוֹם טוֹב כּוֹפֶה עָלָיו כְּלִי עַד לָעֶרֶב וּמְבַעֲרוֹ. וְאִם שֶׁל הֶקְדֵּשׁ הוּא אֵינוֹ צָרִיךְ לִכְפּוֹת עָלָיו כְּלִי שֶׁהַכּל פּוֹרְשִׁין מִמֶּנּוּ:",
+                      "ref": "Mishneh Torah, Leavened and Unleavened Bread 3:8",
+                      "sourceHeRef": "הלכות חמץ ומצה ג:ח",
+                      "sourceRef": "Leavened and Unleavened Bread 3:8"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "Therefore, in the evening we nullify only the ḥametz we did not find in our search; we do not intend to include the ḥametz we set aside to be eaten or burned. The problem is that if we misplace or overlook some of this remaining ḥametz, we are liable to violate the law of bal yera’eh and bal yimatzei. To prevent this from happening, we nullify the ḥametz a second time. One must be careful to nullify the ḥametz by the end of the fifth seasonal hour of the day, for with the onset of the sixth seasonal hour it is forbidden to derive any benefit from ḥametz, and it can no longer be nullified (SA 434:2).",
+                      "he": "לפיכך בלילה אנו מבטלים רק את החמץ שלא מצאנו בבדיקה, ולא את החמץ שאנו שומרים לארוחות הנותרות ולשריפת החמץ. וכיוון שיתכן שמקצת מן החמץ הזה נשמט מעינינו ונשכח, כדי שלא נעבור עליו באיסורי בל יראה ובל ימצא, חוזרים ומבטלים את החמץ. ויש להקפיד לבטל את החמץ עד סוף השעה החמישית, שאם הגיעה השעה השישית, החמץ נאסר בהנאה ושוב אין אפשרות לבטלו <span class=\"parenthesized\">(שו\"ע או\"ח תלד, ב)</span>.",
+                      "ref": "Peninei Halakhah, Pesach 5:1:11",
+                      "sourceHeRef": "פסח ה:א:יא",
+                      "sourceRef": "Pesach 5:1:11"
+                    }
+                  ]
+                }
+              },
+              "en": "2. After the examination, immediately at nightfall, we will nullify it and say: Any leaven that is in my possession, which I have not seen and have not removed, shall be nullified and become like the dust of the earth.<i> Rema: And one should declare the nullification in a language that is understood [as stated by Maharil, son of Rabbeinu Nosson], and if one said it in Hebrew: 'Any leaven includes both leaven and sourdough' [Tur, Orach Chayim, Chapter 434]. However, in other languages, one must mention each one separately [Darchei Moshe].</i> And it is good to go back and nullify it again another time on the fourteenth day, at the end of the fifth hour, before the sixth hour arrives, as once the sixth hour arrives, it becomes forbidden, and there is no opportunity to nullify it. <i>Rema: And one should not nullify it during the day, but rather after burning the leaven, in order to fulfill the commandment of burning one’s leaven. (Mahariv)</i>",
+              "he": "אחר הבדיקה מיד בלילה יבטלנו ויאמר כל חמירא דאיתיה ברשותי דלא חזיתיה ודלא ביערתיה ליבטיל וליהוי כעפרא דארעא: <span class=\"hebrew-emphasis\">הגה ויאמר הביטול בלשון שמבין (מהר\"י ברי\"ן) ואם אמרו בלשון הקודש כל חמירא כולל חמץ ושאור (ת\"ה סימן קל\"ד) אבל בשאר לשונות צריך להזכיר כל אחד בפני עצמו (ד\"ע): </span> וטוב לחזור ולבטלו פעם אחרת ביום י\"ד סוף שעה חמישית קודם שתגיע שעה ששית שמשתגיע שעה ששית נאסר ואין בידו לבטלו: <span class=\"hebrew-emphasis\">הגה ואין לבטל ביום אלא לאחר ששרף החמץ כדי לקיים מצות שריפה בחמץ שלו: (מהרי\"ו)</span>",
+              "ref": "Shulchan Arukh, Orach Chayim 434:2",
+              "sourceHeRef": "אורח חיים תלד:ב - דינים הנוהגים תיכף אחר הבדיקה.",
+              "sourceRef": "Orach Chayim 434:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<big>ב</big> <b>אמר רב יהודה אמר רב: הבודק</b> את החמץ <b>צריך שיבטל</b> בלבו ובפיו את החמץ. ושואלים: <b>מאי טעמא</b> <span class=\"hebrew-emphasis\">[מה טעם</span> הדבר<span class=\"hebrew-emphasis\">],</span> <b>אי נימא</b> <span class=\"hebrew-emphasis\">[אם תאמר]</span> <b>משום פירורין שלא מצא — הא לא חשיבי</b> <span class=\"hebrew-emphasis\">[הרי אינם חשובים],</span> ובטלים מעצמם.",
+              "ref": "Steinsaltz on Pesachim 6b:12",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:יב",
+              "sourceRef": "Steinsaltz on Pesachim 6b:12"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rav-yehudah-b-yechezkel\" class=\"namedEntityLink\" data-slug=\"rav-yehudah-b-yechezkel\">Rav Yehuda</span> said</b> that <b><span href=\"/topics/rav\" class=\"namedEntityLink\" data-slug=\"rav\">Rav</span> said: One who searches</b> for leaven <b>must render</b> all his leaven <b>null and void,</b> cognitively and verbally. The Gemara asks: <b>What is the reason</b> for this? <b>If you say it is due to crumbs</b> that he failed to detect in his search, <b>they are</b> inherently <b>insignificant,</b> and null and void by definition.",
+      "he": "אָמַר רַב יְהוּדָה אָמַר רַב: הַבּוֹדֵק צָרִיךְ שֶׁיְּבַטֵּל. מַאי טַעְמָא, אִי נֵימָא מִשּׁוּם פֵּירוּרִין — הָא לָא חֲשִׁיבִי.",
+      "ref": "Pesachim 6b:12",
+      "steinsaltz_start_of_sugya": true
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">מִקְשָׁה</strong> f. (Biblical Hebrew; = <span class=\"refLink\" data-ref=\"Jastrow, מַקְשָׁאָה 1\" dir=\"rtl\" href=\"/Jastrow,_מַקְשָׁאָה.1\">מקשאה</span>, , see <span class=\"refLink\" data-ref=\"Jastrow, קִשּׁוּאִים 1\" dir=\"rtl\" href=\"/Jastrow,_קִשּׁוּאִים.1\">קִשּׁוּאִים</span>) <i>cucumber field</i>, in gen. <i>truck-farm</i>. <span class=\"refLink\" data-ref=\"Tosefta Terumot 1:4\" href=\"/Tosefta_Terumot.1.4\">Tosefta Terumot I, 4</span>; Yerushalmi ib. I, 40ᵇ bottom of page <span class=\"refLink\" data-ref=\"Tosefta Bava Metzia 9:32\" href=\"/Tosefta_Bava_Metzia.9.32\">Tosefta Bava Metzia IX, 32</span>; and e. (see also <span class=\"refLink\" data-ref=\"Jastrow, מוּקְשֶׁה 1\" dir=\"rtl\" href=\"/Jastrow,_מוּקְשֶׁה.1\">מוּקְשֶׁה</span>).—plural <span class=\"refLink\" data-ref=\"Jastrow, מִקְשָׁאוֹת 1\" dir=\"rtl\" href=\"/Jastrow,_מִקְשָׁאוֹת.1\">מִקְשָׁאוֹת</span>, <span class=\"refLink\" data-ref=\"Jastrow, מִקְשָׁאוֹת 1\" dir=\"rtl\" href=\"/Jastrow,_מִקְשָׁאוֹת.1\">מִקְשָׁיוֹת</span>, <span class=\"refLink\" data-ref=\"Jastrow, מִקְשָׁאוֹת 1\" dir=\"rtl\" href=\"/Jastrow,_מִקְשָׁאוֹת.1\">מִקְשָׁאִין</span>. <span class=\"refLink\" data-ref=\"Mishnah Sheviit 2:1\" href=\"/Mishnah_Sheviit.2.1\">Sheviit II, 1</span> <span dir=\"rtl\">ליטע במ׳</span> (Manuscript Munich <span dir=\"rtl\">מקשות</span>, correct accordingly; Maimonides <span dir=\"rtl\">מקשיות</span>), see <span class=\"refLink\" data-ref=\"Jastrow, מִדְלַעַת 1\" dir=\"rtl\" href=\"/Jastrow,_מִדְלַעַת.1\">מִדְלַעַת</span>.—In gen. <span dir=\"rtl\">מ׳ ומדלעות</span> <i>late vegetables</i> or <i>fruits</i>. <span class=\"refLink\" data-ref=\"Pesachim 6b:13\" href=\"/Pesachim.6b.13\">Pesachim 6ᵇ</span>. <span class=\"refLink\" data-ref=\"Eruvin 104a\" href=\"/Eruvin.104a\">Eruvin 104ᵃ</span> <span dir=\"rtl\">מִקְשָׁאָיו ומִדְלָעָיו</span> ed. Soncino (Manuscript Oxford <span dir=\"rtl\">ודלעיו</span>; Manuscript Munich <span dir=\"rtl\">מקשאיו ומדלעיו</span>, ed. only <span dir=\"rtl\">ודלעיו</span>) (who guards) his late fruits; and e.—[<span class=\"refLink\" data-ref=\"Shabbat 90b:3\" href=\"/Shabbat.90b.3\">Shabbat 90ᵇ</span> <span dir=\"rtl\">מקשה של חזיר</span>, read: <span dir=\"rtl\">מִקָּשֶׁה</span>. see <span class=\"refLink\" data-ref=\"Jastrow, קָשֶׁה 1\" dir=\"rtl\" href=\"/Jastrow,_קָשֶׁה.1\">קָשֶׁה</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, מִקְשָׁה 1",
+              "sourceHeRef": "מילון יסטרוב, מִקְשָׁה א׳",
+              "sourceRef": "Jastrow, מִקְשָׁה 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">סוֹף</strong> m. (Biblical Hebrew; <span class=\"refLink\" data-ref=\"Jastrow, סוּף ² 1\" href=\"/Jastrow,_סוּף ².1\">preceding</span>) <br><b>1)</b> <i>end.</i> <span class=\"refLink\" data-ref=\"Mishnah Yevamot 16:4\" href=\"/Mishnah_Yevamot.16.4\">Yevamot XVI, 4</span> (<span class=\"refLink\" data-ref=\"Yevamot 121a:20\" href=\"/Yevamot.121a.20\">121ᵃ</span>) <span dir=\"rtl\">מים … שאין להם ס׳</span> waters without end (the shores of which you cannot see from all sides). <span class=\"refLink\" data-ref=\"Nedarim 62a:8\" href=\"/Nedarim.62a.8\">Nedarim 62ᵃ</span> <span dir=\"rtl\">וס׳ הכבוד לבא</span> and honor will finally come of itself. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 71:2\" href=\"/Bereishit_Rabbah.71.2\">Breishit Rabbah section (Parashah) 71</span>, beginning (reference. to <span class=\"refLink\" data-ref=\"Psalms 69:34\" href=\"/Psalms.69.34\">Psalms LXIX, 34</span>) <span dir=\"rtl\">לא ראשו … סוֹפוֹ ולא סופו ראשו</span> the first clause of this verse does not correspond (in syntactical construction) to its final clause &c. Sifra K’dosh. Chaldaic III, Parah 2 <span dir=\"rtl\">אם גנבת סוֹפְךָ לכחש וכ׳</span> if thou stealest, thou wilt finally deny &c. <span class=\"refLink\" data-ref=\"Kiddushin 31a:7\" href=\"/Kiddushin.31a.7\">Kiddushin 31ᵃ</span> <span dir=\"rtl\">מס׳ דברך</span>, see <span class=\"refLink\" data-ref=\"Jastrow, נָכַר 1\" dir=\"rtl\" href=\"/Jastrow,_נָכַר.1\">נָכַר</span>. <span class=\"refLink\" data-ref=\"Megillah 7a:2\" href=\"/Megillah.7a.2\">Megillah 7ᵃ</span> <span dir=\"rtl\">בתחלה קבעוה בשושן וְלִבְסוֹף וכ׳</span> at first they established it (the festival of Purim) in Shushan, and then for the whole (Jewish) world; and see from—<span dir=\"rtl\">לא ס׳ דבר אלא …</span> this is not the end of it …, but. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 38:3\" href=\"/Bereishit_Rabbah.38.3\">Breishit Rabbah section (Parashah) 38</span> (reference. to <span class=\"refLink\" data-ref=\"Proverbs 17:13\" href=\"/Proverbs.17.13\">Mishlei XVII, 13</span>) <span dir=\"rtl\">לא ס׳ ד׳ משיב וכ׳</span> after all, not only he who requites evil for good, but even he who requites evil for evil &c. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Sheviit 3:5:2\" href=\"Jerusalem_Talmud_Sheviit.3.5.2\">Yerushalmi Sheviit III, end, 34ᵈ</span>; and from <br><b><br>—2)</b> <i>remnant</i>, especially plural <span dir=\"rtl\">סוֹפִין</span> <i>fruit remaining on the tree after harvest time, late fruit</i>. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Yevamot 12:3:2\" href=\"Jerusalem_Talmud_Yevamot.12.3.2\">Yerushalmi Yevamot XII, 12ᵈ</span> bottom of page <span dir=\"rtl\">קידש בגופו של ס׳</span> (probably to be read <span dir=\"rtl\">בנוֹפוֹ</span>) if one betrothed a woman, giving as a consideration a branch of a tree of his containing remainders (mostly worthless). <span class=\"refLink\" data-ref=\"Pesachim 6b:13\" href=\"/Pesachim.6b.13\">Pesachim 6ᵇ</span> <span dir=\"rtl\">סוֹפֵי … ומשמר וכ׳</span> if there are in a man’s field late figs, but he watches his field for the sake of the grapes; see <span class=\"refLink\" data-ref=\"Jastrow, סוֹפֶת 1\" dir=\"rtl\" href=\"/Jastrow,_סוֹפֶת.1\">סוֹפֶת</span>.—[<span class=\"refLink\" data-ref=\"Tosefta Keilim Metsia 2:8\" href=\"/Tosefta_Keilim_Metsia.2.8\">Tosefta Kelim Bava Metzia II, 8</span> <span dir=\"rtl\">סופין</span> ed. Zolk., read: <span class=\"refLink\" data-ref=\"Jastrow, סוֹבִין 1\" dir=\"rtl\" href=\"/Jastrow,_סוֹבִין.1\">סוֹבִין</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, סוֹף 1",
+              "sourceHeRef": "מילון יסטרוב, סוֹף א׳",
+              "sourceRef": "Jastrow, סוֹף 1"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "[The following laws apply when someone is] protecting his field because of grapes and another person comes and collects the figs that remain in that field or he was guarding his field because of the zucchini and squash and another person came and gathered the grapes which were scattered in the field. When [it is known] that the owner of the field is concerned with the leftover produce, it is forbidden to take it; [doing so] is stealing. Hence, tithes and <i>terumah</i> must be separated from the crops. If the owner of the field is not concerned with it, it is permitted [to take it; it is not] theft. Hence, they are exempt from the tithes.",
+              "he": "הַמְשַׁמֵּר שָׂדֵהוּ מִפְּנֵי עֲנָבָיו וּבָא אַחֵר וְאָסַף אֶת הַתְּאֵנִים הַנִּשְׁאָרוֹת בְּאוֹתָהּ שָׂדֶה. אוֹ שֶׁהָיָה מְשַׁמֵּר שָׂדֵהוּ מִפְּנֵי הַמִּקְשָׁאוֹת וְהַמִדְּלָעוֹת וּבָא אֶחָד וְאָסַף אֶת הָעֲנָבִים הַנִּשְׁאָרִים שָׁם הַמְפֻזָּרִים בַּשָּׂדֶה. בִּזְמַן שֶׁבַּעַל הַשָּׂדֶה מַקְפִּיד עֲלֵיהֶן אֲסוּרִין מִשּׁוּם גֵּזֶל וּלְפִיכָךְ חַיָּבִין בְּמַעֲשֵׂר וּבִתְרוּמָה. אֵין בַּעַל הַשָּׂדֶה מַקְפִּיד עֲלֵיהֶן מֻתָּרִין מִשּׁוּם גֵּזֶל וּפְטוּרִין מִן הַמַּעֲשֵׂר:",
+              "ref": "Mishneh Torah, Tithes 1:12",
+              "sourceHeRef": "הלכות מעשרות א:יב",
+              "sourceRef": "Tithes 1:12"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וכי תימא כיון דמנטר להו אגב ביתיה</strong> - עם שאר ממונו הוא משמרן שכשהוא נועל ביתו לשומרו נמצא משמר כל מה שבתוכו הלכך חשיבי ושימור דלאו אדעתא דידיה הוא מי מחשבי ליה:",
+              "ref": "Rashi on Pesachim 6b:13:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יג:א",
+              "sourceRef": "Rashi on Pesachim 6b:13:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">והתניא סופי תאנים</strong> - סוף לקיטת תאנים נמצאים בתאנה תאנים שאינן מתבשלות כל צרכן עולמית:",
+              "ref": "Rashi on Pesachim 6b:13:2",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יג:ב",
+              "sourceRef": "Rashi on Pesachim 6b:13:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ומשמר שדהו מפני ענבים</strong> - ובעל הבית זה משמר שדה זו שלא יכנסו בני אדם לתוכה ואין דעתו מפני התאנים אלא מפני שיש בה ענבים שעדיין לא הגיע עת הבציר או סופי ענבים שלא יתבשלו עולמית ובעל הבית משמר שדהו זו שהן בתוכה ולא בשבילן אלא מפני מדלעות ומקשאות שבה:",
+              "ref": "Rashi on Pesachim 6b:13:3",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יג:ג",
+              "sourceRef": "Rashi on Pesachim 6b:13:3"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">מקשאות ומדלעות</strong> - קרי כל האילנות:",
+              "ref": "Rashi on Pesachim 6b:13:4",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יג:ד",
+              "sourceRef": "Rashi on Pesachim 6b:13:4"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>וכי תימא</b> <span class=\"hebrew-emphasis\">[ואם תאמר]:</span> <b>כיון דמינטר להו</b> <span class=\"hebrew-emphasis\">[שנשמרים הם]</span> <b>אגב ביתיה</b> <span class=\"hebrew-emphasis\">[</span>המצאם ב<span class=\"hebrew-emphasis\">ביתו]</span> שחשובה לו שמירתו, הריהם <b>חשיבי</b> <span class=\"hebrew-emphasis\">[חשובים]</span> ואינם מתבטלים ממילא, <b>והתניא</b> <span class=\"hebrew-emphasis\">[והרי שנינו</span> בתוספתא<span class=\"hebrew-emphasis\">]</span> שאין הדבר כן, שאם הגיע הזמן של <b>סופי תאנים</b> שנגמרה עונת לקיטת התאנים, ואלה המצויות על העץ מעטות וגרועות עד שיש מקום לשער שבעל הבית מפקיר אותן, <b>ו</b>אולם הוא עדיין <b>משמר שדהו מפני ענבים</b> שזו עונת הבציר שלהם. וכן אם הגיע זמן של <b>סופי ענבים, ו</b>בעל השדה עדיין <b>משמר שדהו מפני מקשאות</b> (גידולי קישואים) <b>ומפני מדלעות</b> (גידולי דלעת),",
+              "ref": "Steinsaltz on Pesachim 6b:13",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:יג",
+              "sourceRef": "Steinsaltz on Pesachim 6b:13"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "One who [picks and] slices figs [to eat] but is watching over his field because of the grapes, [or he picks] grapes [to eat] but is watching over his field because of vegetables -- if they were workers passing between them (i.e., between the vineyards and the fig trees), if the homeowner was particular about them (i.e., the produce the workers were casually eating), behold, they are liable, and if not, behold, they are exempt.",
+              "he": "[סופת] תאנים ומשמר שדהו מפני ענבים ענבים ומשמר שדהו מפני ירק אם היו פועלין עוברין ביניהן אם היה בעה\"ב מקפיד עליהן הרי אלו חייבין [ואם לאו הרי אלו פטורין].",
+              "ref": "Tosefta Maasrot 3:13",
+              "sourceHeRef": "תוספתא מעשרות ג:יג",
+              "sourceRef": "Tosefta Maasrot 3:13"
+            }
+          ]
+        }
+      },
+      "en": "<b>And lest you say: Since they are protected on account of</b> their very presence in <b>his house,</b> whose protection is important to him, they <b>are significant</b> and are not null and void, <b>wasn’t it taught</b> in the <i>Tosefta</i> that this is not the case? When the end of the fig season arrives, and those <b>remaining figs</b> on the trees are few and of inferior quality, there is room to assume that the owner has renounced his ownership over them. However, he continues to <b>guard his field due to the grapes,</b> which are harvested at that time. Similarly, when the end of the grape season arrives, those few <b>remaining grapes</b> are of inferior quality and the owner <b>guards his field due to the cucumbers and due to the gourds,</b> which have not yet been harvested.",
+      "he": "וְכִי תֵּימָא: כֵּיוָן דִּמְינַטַּר לְהוּ אַגַּב בֵּיתֵיהּ — חֲשִׁיבִי, וְהָתַנְיָא: סוֹפֵי תְאֵנִים, וּמְשַׁמֵּר שָׂדֵהוּ מִפְּנֵי עֲנָבִים. סוֹפֵי עֲנָבִים, וּמְשַׁמֵּר שָׂדֵהוּ מִפְּנֵי מִקְשָׁאוֹת וּמִפְּנֵי מִדְלָעוֹת,",
+      "ref": "Pesachim 6b:13"
+    },
+    {
+      "commentary": {
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וחייבין במעשר</strong> - אם ליקטן בעל הבית או נתנן לאחר:",
+              "ref": "Rashi on Pesachim 6b:14:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יד:א",
+              "sourceRef": "Rashi on Pesachim 6b:14:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ופטורין מן המעשר</strong> - דהפקר פטור מן המעשר:",
+              "ref": "Rashi on Pesachim 6b:14:2",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יד:ב",
+              "sourceRef": "Rashi on Pesachim 6b:14:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בזמן שבעל הבית מקפיד עליהן</b> על סופי תאנים וענבים — <b>אסורין</b> לקחתם <b>משום גזל,</b> ואם אכלם ברשות — <b>חייבין</b> להפריש עליהם <b>מעשר,</b> שדינם כשאר פירות העץ. ו<b>בזמן שאין בעל הבית מקפיד עליהן — מותרין</b> הם <b>משום גזל ופטורין משום מעשר,</b> שחשובים הם כהפקר ואין מעשרים על ההפקר. ומכאן נלמד שאם אדם אינו מחשיב דבר, גם אם הוא נשמר מאליו אגב דברים אחרים, אין הוא יכול להחשב כשלעצמו, והוא הדין אף לפירורים שבבית.",
+              "ref": "Steinsaltz on Pesachim 6b:14",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:יד",
+              "sourceRef": "Steinsaltz on Pesachim 6b:14"
+            }
+          ]
+        },
+        "Tosefta": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אין לוקחין מן הגרדי לא קוצין ולא עירין ולא סנקאנין ולא שירי פקעיות אבל לוקחין ממנו בגד מנומר שתי טווי וארוג אין לוקחין מן הצבע לא אותות ולא דוגמאות ולא תלושין של צמר אבל לוקחין הימנו צמר צבוע טווי שתי וערב אין לוקחין מן הסורק מפני שאינן שלו מקום שנהגו להיות שלו הרי אלו שלו בכל מקום לוקחין ממנו כר מלא מוכין וכסת מלאה מספחות ולוקחין מן הכובס מוכין מפני שהן שלו ולא יסרק את הבגד לשתיו אלא לערבו. ולא יהא נותן בבגד יתר מג' חוטין ושני חוטין העליונין הרי אלו שלו אם היה שחור על גבי לבן נוטל את הכל והן שלו ישעיה איש טיראה היה נוהג בחסידות ונוטל את הכל אם עתיד להשוותו אפילו מותר משויהו לארכו ואין משויהו לרחבו מה שחרש מוציא במעצד והנפסק במגרה הרי אלו של בעל הבית מתחת המקדח ומתחת הרהיטני ונגרר במגירה הרי אלו שלו. הנותן עורות לעבד. הקצוצין והתלושין הרי אלו של בעל הבית והיוצא עם שטף המים הרי אלו שלו. החייט ששייר מן החוט פחות ממלא מחט ומטלית פחותה משלש על שלש והנותן עורות לעבדן כולן אצל בעל הבית הרי אלו של בעל הבית. מסתתי אבנים מפסקי גפנים מנקפי הגין מנכשי זרעים בזמן שבעל הבית מקפיד עליהן אסורים משום גזל אין בעל הבית מקפיד עליהן מותרין משום גזל השוכר את הפועל לנקף עמו בהגין ולזמר עמו במזמרות מקום שנהגו להיות שלו הרי אלו שלו של בעה\"ב הרי אלו של בעל הבית ואין משנין ממנהג המדינה.",
+              "ref": "Tosefta Bava Kamma 11:5",
+              "sourceHeRef": "תוספתא בבא קמא יא:ה",
+              "sourceRef": "Tosefta Bava Kamma 11:5"
+            }
+          ]
+        }
+      },
+      "en": "<b>When the owner is particular about</b> the figs and the grapes respectively, <b>it is prohibited</b> to take them, <b>due to</b> the prohibition against <b>robbery, and</b> one with permission to eat them is <b>obligated due to</b> the mitzva to separate the <b>tithe</b> from them, as they are considered like any other fruit. <b>When the owner is not particular about them,</b> it is <b>permitted</b> to eat them <b>due to</b> the fact that the prohibition against <b>robbery</b> does not apply, <b>and</b> one who eats them is <b>exempt due to</b> the fact that the obligation to separate the <b>tithe</b> does not apply, as they are ownerless property. This indicates that if one is not particular about an object, even if it is located in property that he is guarding for another purpose, that object is not thereby rendered significant. The same reasoning applies to breadcrumbs that remain in one’s house.",
+      "he": "בִּזְמַן שֶׁבַּעַל הַבַּיִת מַקְפִּיד עֲלֵיהֶן — אֲסוּרִין מִשּׁוּם גֵּזֶל, וְחַיָּיבִין בְּמַעֲשֵׂר. בִּזְמַן שֶׁאֵין בַּעַל הַבַּיִת מַקְפִּיד עֲלֵיהֶן — מוּתָּרִין מִשּׁוּם גֵּזֶל, וּפְטוּרִין מִשּׁוּם מַעֲשֵׂר.",
+      "ref": "Pesachim 6b:14"
+    },
+    {
+      "commentary": {
+        "Gilyon HaShas": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>שם וכי משכחת ליה לבטליה.</b> עי' לקמן כא ע\"א תד\"ה ואי אשמעי':",
+              "ref": "Gilyon HaShas on Pesachim 6b:2",
+              "sourceHeRef": "גליון הש\"ס על פסחים ו׳ ב:ב",
+              "sourceRef": "Gilyon HaShas on Pesachim 6b:2"
+            }
+          ]
+        },
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בְּטֵל</strong>, <strong dir=\"rtl\">בְּטֵיל</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" href=\"/Jastrow,_בָּטֵל I.1\">same</span> ; 1) as h. Kal 1). <span class=\"refLink\" data-ref=\"Aramaic Targum to Lamentations 5:15\" href=\"/Aramaic_Targum_to_Lamentations.5.15\">Targum Eicha V, 15</span>; and e.—<span class=\"refLink\" data-ref=\"Sotah 33a:8\" href=\"/Sotah.33a.8\">Sotah 33ᵃ</span> <span dir=\"rtl\">בטילת עבידתא וכ׳</span> the decree enforcing idol worship in the Temple has been repealed. Megillah Taanit XI on the twenty second (of Shebat) <span dir=\"rtl\">ב׳ עבידתא</span> was the decree &c. revoked. <span class=\"refLink\" data-ref=\"Shabbat 139a:6\" href=\"/Shabbat.139a.6\">Shabbat 139ᵃ</span>, <span class=\"refLink\" data-ref=\"Sanhedrin 98a:9\" href=\"/Sanhedrin.98a.9\">Sanhedrin 98ᵃ</span> <span dir=\"rtl\">אי בטלי וכ׳</span>; see <span class=\"refLink\" data-ref=\"Jastrow, אַמְגֹּושָׁא 1\" dir=\"rtl\" href=\"/Jastrow,_אַמְגֹּושָׁא.1\">אַמְגּוֹשָׁא</span>. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:15\" href=\"/Rosh_Hashanah.18b.15\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">בטילת אדכרתא</span> (Megillah Taanit VII <span dir=\"rtl\">אתנטילת</span>, read <span dir=\"rtl\">אתב׳</span>), see <span class=\"refLink\" data-ref=\"Jastrow, אַדְכַּרְתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_אַדְכַּרְתָּא.1\">אַדְכַּרְתָּא</span><br>; and from—2) as h. Kal 2). <span class=\"refLink\" data-ref=\"Targum Jonathan on Exodus 17:1\" href=\"/Targum_Jonathan_on_Exodus.17.1\">Targum Yonatan Shemot XVII, 1</span> [read:] <span dir=\"rtl\">דבְטִילוּ אידיהון</span> when their hands were lazy &c.—Part. pass. <span class=\"refLink\" data-ref=\"Jastrow, בְּטִיל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּטִיל.1\">בָּטִיל</span> <i>annulled; neutralized</i> (in a larger quantity, see <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" href=\"/Jastrow,_בָּטֵל I.1\">preceding</span> Piël). <span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Chullin 100ᵃ</span>, and from (in Hebr. phraseology) <span dir=\"rtl\">מין במינו לא ב׳</span> in a mixture of homogeneous things (of which one is forbidden) the rule of neutralization by quantity takes no effect. <span class=\"refLink\" data-ref=\"Chullin 99a:3\" href=\"/Chullin.99a.3\">Ib. 99ᵃ</span> <span dir=\"rtl\">ברובא ב׳</span> it is neutralized in any larger quantity (than the forbidden ingredient); and from—<span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Ib. 100ᵃ</span> top <span dir=\"rtl\">ותבטיל</span>, see Ithpeel<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">בַּטֵּיל</strong> as h. Piël <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 33:10\" href=\"/Aramaic_Targum_to_Psalms.33.10\">Targum Psalms XXXIII, 10</span> (some ed. incorr. <span class=\"refLink\" data-ref=\"Jastrow, בְּטִיל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּטִיל.1\">בְּטִיל</span>); and e.—<span class=\"refLink\" data-ref=\"Eruvin 66b:14\" href=\"/Eruvin.66b.14\">Eruvin 66ᵇ</span> <span dir=\"rtl\">למאן נִיבַטֵּיל</span> to whom should he resign his right of usage (for Sabbath purposes)? <span dir=\"rtl\">לִיבַטֵּיל וכ׳</span> shall he resign &c.? Ib. 67ᵃ <span dir=\"rtl\">בַּטּוּלֵי … מְבַטֵיל</span>. <span class=\"refLink\" data-ref=\"Pesachim 6b:15\" href=\"/Pesachim.6b.15\">Pesachim 6ᵇ</span> <span dir=\"rtl\">לְבַטְּלֵיה</span> let him renounce it (the leavened thing). <span class=\"refLink\" data-ref=\"Pesachim 6b:17\" href=\"/Pesachim.6b.17\">Ib.</span> <span dir=\"rtl\">וניבטליה בארבע</span> let him renounce it at four hours of the day. <span class=\"refLink\" data-ref=\"Gittin 36b:9\" href=\"/Gittin.36b.9\">Gittin 36ᵇ</span> אֲבַטְּלִינֵיה I would repeal it (that law). <span class=\"refLink\" data-ref=\"Gittin 32a:9\" href=\"/Gittin.32a.9\">Ib. 32ᵃ</span> <span dir=\"rtl\">דבטולי בטליה</span> that he revoked it (the letter of divorce); and from<br></br> <strong>Af.</strong> - <strong dir=\"rtl\">אַבְטֵיל</strong> <br><b>1)</b> = Pa. <span class=\"refLink\" data-ref=\"Targum Jonathan on Genesis 6:7\" href=\"/Targum_Jonathan_on_Genesis.6.7\">Targum Yonatan Breishit VI, 7</span> 1) = Pa. <span class=\"refLink\" data-ref=\"Targum Jonathan on Genesis 6:7\" href=\"/Targum_Jonathan_on_Genesis.6.7\">Targum Yonatan Breishit VI, 7</span> אַבְטִיל I will undo (h. text <span dir=\"rtl\">אמחה</span>); and e. <br><b><br>—2)</b> = h. Hifil <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 30:11\" href=\"/Targum_Jonathan_on_Isaiah.30.11\">Targum Isaiah XXX, 11</span> <span dir=\"rtl\">אַבְטְלוּנָא מ־</span> make ye us free from tradition.<br></br> <strong>Ithpeel</strong> - <strong dir=\"rtl\">אִתְבְּטִיל</strong> , contr. <span class=\"refLink\" data-ref=\"Jastrow, בְּצַל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּצַל.1\">אִיבְּטִיל</span>. <br><b>1)</b> <i>to be abolished, removed, undone</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Job 17:11\" href=\"/Aramaic_Targum_to_Job.17.11\">Targum Job XVII, 11</span>; and from—<span class=\"refLink\" data-ref=\"Gittin 32a:3\" href=\"/Gittin.32a.3\">Gittin 32ᵃ</span>; <span class=\"refLink\" data-ref=\"Gittin 32b:9\" href=\"/Gittin.32b.9\">32ᵇ</span> <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" dir=\"rtl\" href=\"/Jastrow,_בָּטֵל I.1\">בָּטֵל</span> has two meanings <span dir=\"rtl\">משמע דבטל ומשמע דלִיבְּטִיל</span> it may mean ‘it is void’, and may mean ‘be it declared void’. <span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Chullin 100ᵃ</span> <span dir=\"rtl\">ותבְּטִיל ברובא</span> (or <span dir=\"rtl\">ותִבְטִיל</span>) let it be neutralized in the larger mixture; (why is it not &c.?) <br><b><br>—2)</b> <i>to be disturbed, to be forced to be idle</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Ecclesiastes 12:3\" href=\"/Aramaic_Targum_to_Ecclesiastes.12.3\">Targum Kohelet XII, 3</span>; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, בְּטֵל 1",
+              "sourceHeRef": "מילון יסטרוב, בְּטֵל א׳",
+              "sourceRef": "Jastrow, בְּטֵל 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">גְּלוּסְקָא</strong>, <strong dir=\"rtl\">קְלוּסְקָא</strong>, <strong dir=\"rtl\">קין</strong> common gender. (a contraction of <span dir=\"rtl\">גלוסביקא</span> or <span dir=\"rtl\">גלופסיקא</span>, Lesbiacus, Lesbiaca, see <span class=\"refLink\" data-ref=\"Jastrow, כְּלוּפְסִין 1\" dir=\"rtl\" href=\"/Jastrow,_כְּלוּפְסִין.1\">כְּלוּפְסִין</span>, <span class=\"refLink\" data-ref=\"Jastrow, כְּלוּפְסִין 1\" dir=\"rtl\" href=\"/Jastrow,_כְּלוּפְסִין.1\">לִבְסִים</span>, <span class=\"refLink\" data-ref=\"Jastrow, כְּלוּפְסִין 1\" dir=\"rtl\" href=\"/Jastrow,_כְּלוּפְסִין.1\">קְלוּפְ׳</span>, <span class=\"refLink\" data-ref=\"Jastrow, כְּלוּפְסִין 1\" dir=\"rtl\" href=\"/Jastrow,_כְּלוּפְסִין.1\">גְּלוּפְ׳</span>; as to guttural before <span class=\"refLink\" data-ref=\"Jastrow, ל 1\" dir=\"rtl\" href=\"/Jastrow,_ל.1\">ל</span>, see <span class=\"refLink\" data-ref=\"Jastrow, גְּלוּגְדְּקָא 1\" dir=\"rtl\" href=\"/Jastrow,_גְּלוּגְדְּקָא.1\">גְּלוּגְדְּקָא</span>) <i>relating to Lesbos</i> (an island of the Aegean Sea, noted for its fertility and luxuries), <i>Lesbian</i>, whence <br><b>1)</b> [in Syriac] name of <i>a brand of white flour</i> (Payne Smith, Thesaurus Syriacus 726), <i>a white and delicate bread</i> (compare Athenæus Deipnosophistæ III, 111). <span class=\"refLink\" data-ref=\"Tosefta Berakhot 4:15\" href=\"/Tosefta_Berakhot.4.15\">Tosefta Berakhot IV, 15</span> <span dir=\"rtl\">שלמה של גלוסקין</span> an unbroken loaf of <i>g’luskin</i>, opposed <span dir=\"rtl\">של בע\"הב</span> home-made. <span class=\"refLink\" data-ref=\"Mishnah Demai 6:12\" href=\"/Mishnah_Demai.6.12\">Demai VI, 12</span> buy for me <span dir=\"rtl\">גְּלוּסְקָן אחד</span> ed. (accus.; Manuscript Munich <span dir=\"rtl\">גלוסקא אחת</span>, Arukh <span dir=\"rtl\">קין אחת …</span>, Rabbenu Shimshon <span dir=\"rtl\">קלוסקן</span>) one loaf &c. <span class=\"refLink\" data-ref=\"Jerusalem Talmud Avodah Zarah 1:9:3\" href=\"Jerusalem_Talmud_Avodah_Zarah.1.9.3\">Yerushalmi Pirkei Avot Zar. I, 40ᵃ</span> bottom of page <span dir=\"rtl\">קלוסקין אחת</span>; <span class=\"refLink\" data-ref=\"Eruvin 64b:5\" href=\"/Eruvin.64b.5\">Eruvin 64ᵇ</span> <span class=\"refLink\" data-ref=\"Jastrow, גְּלוּסְקִין 1\" dir=\"rtl\" href=\"/Jastrow,_גְּלוּסְקִין.1\">גלוסקין</span> plural—<span class=\"refLink\" data-ref=\"Pesachim 6b:15\" href=\"/Pesachim.6b.15\">Pesachim 6ᵇ</span> he may find <span dir=\"rtl\">ג׳ יפה ודעתו עליה</span> Rashi (ed. <span dir=\"rtl\">ודעתיה עילויה</span>, Manuscript Munich <span dir=\"rtl\">יפיפיה</span>) a fine <i>gl.</i> which he may have the intention of eating (in place of burning). <span class=\"refLink\" data-ref=\"Eichah Rabbah 1:57\" href=\"/Eichah_Rabbah.1.57\">Eicha Rabbah to I, 16</span> <span class=\"refLink\" data-ref=\"Jastrow, גְּלוּסְקָאן 1\" dir=\"rtl\" href=\"/Jastrow,_גְּלוּסְקָאן.1\">גלוסקאן</span>; and e.—plural <span dir=\"rtl\">גְּלוּסְקָאוֹת</span>, <span class=\"refLink\" data-ref=\"Jastrow, גְּלוּסְקִין 1\" dir=\"rtl\" href=\"/Jastrow,_גְּלוּסְקִין.1\">גְּלוּסְקִין</span>, <span class=\"refLink\" data-ref=\"Jastrow, קלירוס 1\" dir=\"rtl\" href=\"/Jastrow,_קלירוס.1\">קְלוּ׳</span>. <span class=\"refLink\" data-ref=\"Shabbat 30b:11\" href=\"/Shabbat.30b.11\">Shabbat 30ᵇ</span>. <span class=\"refLink\" data-ref=\"Bereishit Rabbah 88:2\" href=\"/Bereishit_Rabbah.88.2\">Breishit Rabbah section (Parashah) 88</span>, beginning <span class=\"refLink\" data-ref=\"Eichah Rabbah 2:16\" href=\"/Eichah_Rabbah.2.16\">Eicha Rabbah to II, 12</span> <span dir=\"rtl\">גלו׳</span> (Arukh ed. Kohelet <span dir=\"rtl\">קלסקין</span>); and e. <br><b><br>—2)</b> <i>a superior sort of olives already pressed when appearing in the market</i> (θλασταί, σταφυλίδες, see Athenæus l. common gender. II, 56; compare <span class=\"refLink\" data-ref=\"Jastrow, כְּלוּפְסִין 1\" dir=\"rtl\" href=\"/Jastrow,_כְּלוּפְסִין.1\">כְּלוּפְסִין</span>). <span class=\"refLink\" data-ref=\"Mishnah Avodah Zarah 2:7\" href=\"/Mishnah_Avodah_Zarah.2.7\">Pirkei Avot Zar. II, 7</span> זיתי קלוסקא המגולגלין Yerushalmi ed. II, 10 (Mishnah <span dir=\"rtl\">זתים גלוסקאות</span>, Bavli ed. 39ᵇ <span dir=\"rtl\">זיתי ג׳</span>, Mishnah Nap. <span dir=\"rtl\">קלוסטא</span>, Arukh ed. Kohelet section (Parashah) see <span dir=\"rtl\">גלגל</span>: <span dir=\"rtl\">קלוסטא</span>, <span dir=\"rtl\">קלוסטרא</span>). Bavli ib. 40ᵇ (ed. Pesachim and oth. <span dir=\"rtl\">קלוסקא</span>, Hilkhot Rabbeinu Alfasi early ed. <span dir=\"rtl\">גלוסטא</span>, see Rabbinowicz Diḳduḳé Sof’rim (Variæ Lectiones &c., Munich 1867-84) and l. note 4). Yerushalmi ib. II, 42ᵃ bottom of page <span dir=\"rtl\">הן זיתי ק׳ וכ׳</span> <i>zethé k’luska</i> is the same as <i>rolled olives</i>. [<span class=\"refLink\" data-ref=\"Shemot Rabbah 30:17\" href=\"/Shemot_Rabbah.30.17\">Shemot Rabbah section (Parashah) 30</span> <span dir=\"rtl\">גלוסקאות</span>, see <span class=\"refLink\" data-ref=\"Jastrow, גְּלוֹסְקְמָא 1\" dir=\"rtl\" href=\"/Jastrow,_גְּלוֹסְקְמָא.1\">גְּלוֹסְקְמָא</span>.]"
+              ],
+              "he": [],
+              "ref": "Jastrow, גְּלוּסְקָא 1",
+              "sourceHeRef": "מילון יסטרוב, גְּלוּסְקָא א׳",
+              "sourceRef": "Jastrow, גְּלוּסְקָא 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">יְפֵיפִי</strong>, <strong dir=\"rtl\">יְפֵיפִיָּה</strong> f. (Biblical Hebrew <span dir=\"rtl\">יְפֵה־פִיָּה</span> ; <span class=\"refLink\" data-ref=\"Jastrow, יָפְיָפוּת 1\" href=\"/Jastrow,_יָפְיָפוּת.1\">preceding</span> wds.) <i>very fine, choice</i>. <span class=\"refLink\" data-ref=\"Pesachim 6b:15\" href=\"/Pesachim.6b.15\">Pesachim 6ᵇ</span> גְּלוּסְקָא י׳ Manuscript Munich and Arukh (ed. <span dir=\"rtl\">יפה</span>), see <span class=\"refLink\" data-ref=\"Jastrow, גְּלוּסְקָא 1\" dir=\"rtl\" href=\"/Jastrow,_גְּלוּסְקָא.1\">גְּלוּסְקָא</span>."
+              ],
+              "he": [],
+              "ref": "Jastrow, יְפֵיפִי 1",
+              "sourceHeRef": "מילון יסטרוב, יְפֵיפִי א׳",
+              "sourceRef": "Jastrow, יְפֵיפִי 1"
+            }
+          ]
+        },
+        "Meir Lublin": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בגמ'</b> אמר רבא גזירה שמא ימצא גלוסקא יפה ודעתיה עלויה וכי משכחת וכו' ע\"ל דף כ\"א בתוס' ד\"ה ואי אשמועינן חיה וכו':",
+              "ref": "Maharam on Pesachim 6b:1",
+              "sourceHeRef": "מהר\"ם על פסחים ו׳ ב:א",
+              "sourceRef": "Maharam on Pesachim 6b:1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודעתו עליה</strong> - חשובה היא בעיניו וחס עליה לשורפה ומשהה אפילו רגע אחד ונמצא עובר עליה בבל יראה ובבל ימצא אבל משבטלה אינו עובר דלא כתב אלא תשביתו:",
+              "ref": "Rashi on Pesachim 6b:15:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:טו:א",
+              "sourceRef": "Rashi on Pesachim 6b:15:1"
+            }
+          ]
+        },
+        "Rosh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "אמר רב יהודה אמר רב הבודק צריך שיבטל מיד אחר בדיקתו. היכי מבטל דאמר הכי כל חמירא דאיכא ברשותי דלא חזיתיה ולא בערתיה ליבטיל ולחשיב כעפרא דארעא והוי הפקר ולאו דידיה ולא עובר עליו בבל יראה ומ\"ט צריך ביטול והלא בדק ופינה כל החמץ שנמצא אי נימא משום פירורין דקים <span class=\"parenthesized\">(לן)</span> שלא מצא בבדיקה ונשארו ועובר עליו בבל יראה ואע\"פ שאינו רואה דהא לא כתיב לא תראה חמץ אלא לא יראה משמע לא יהא לך חמץ במקום הראוי לראיה ואע\"פ שאין יודע שהם בביתו מ\"מ בל יראה איכא ולכך צריך שיבטל ושוב אין כאן איסור בל יראה. ופריך והא לא חשיבי ומשום פירורין לא צריך ביטול דממילא בטילי והוי הפקר ואין עובר עליהן. אמר רבא גזרה שמא ימצא גלוסקא יפיפיה דדעתיה עילויה כלומר חיישינן שמא באחת מן הזויות היתה גלוסקא יפיפיה שדעתו עילויה ולא בטלה ממילא ולכך צריך לבטל וכי משכח ליבטליה ולמה הצריכו לבטל בשעת הבדיקה דילמא משכח ליה לבתר איסוריה ולא מצי לבטל ליה דלאו ברשותיה קיימא. דאמר ר' אלעזר משום רבי ישמעאל שני דברים אינן ברשותו של אדם ועשאן הכתוב כאלו הן ברשותו. ואלו הן בור ברשות הרבים. וחמץ משש שעות ולמעלה. ונבטליה בשית כיון דאיסורא דרבנן עילויה לא מצי מבטל ליה דלא ברשותיה קאי. דאמר רב גידל אמר רב המקדש אשה בחמץ משש שעות ולמעלה אפילו בחיטי קורדנייתא דשרירן ויבישין אין חוששין לקידושין דאיסורי הנאה נינהו. וניבטליה בארבע וניבטליה בחמש כיון דלאו זמן איסורא ולאו זמן ביעורא הוא דילמא מיפשע ולא מבטל ליה. כתב בתשובת רש\"י מיד בלילה יבטל ויש שנוהגין לבטל בתחלת שעה ששית בשעת שריפה. ואומר אני ששניהם כאחד טובים מדאמר דלאו זמן איסורא ולאו זמן ביעורא משמע אי הוה בזמן איסוריה או בזמן ביעוריה שהוא זמן קבוע ולא פשע שפיר דמי וכן היה אומר ריצב\"א והטעם לפי שרגילין לקנות פת ביום וגם בפת שיבטל בלילה הוא חוזר וזוכה וגם לא בטל בלילה אלא החמץ שלא ראה ושמא ישאר ממנו כזית. ומה שכתב בתשובת רש\"י בתחלת שעה ששית רצונו לומר סוף חמישית קודם שיתחיל איסוריה. והא דתניא היה יושב בבהמ\"ד ונזכר שיש לו חמץ בתוך ביתו מבטלו בלבו אחד שבת ואחד יו\"ט הך דשבת משכחת לה בי\"ד שחל בשבת. והך דיו\"ט בתלמיד היושב לפני רבו ונזכר שיש לו עיסה מגולגלת בתוך ביתו ומתיירא שמא תחמיץ דקדם ובטיל ליה מקמי דתחמיץ אבל לבתר דאחמיצה לא מצי מבטל לה:",
+              "ref": "Rosh on Pesachim 1:9:1",
+              "sourceHeRef": "פסקי הרא\"ש על פסחים א:ט:א",
+              "sourceRef": "Rosh on Pesachim 1:9:1"
+            }
+          ]
+        },
+        "Sefer HeArukh": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b><big>גלסק</big></b> [רונדער קיכין] <span class=\"parenthesized\">(ברכות ס)</span> כמה מיני גלוסקאות הביא לפני <span class=\"parenthesized\">(פ' י' בדמאי)</span> קח לי גלוסקין אחת. <span class=\"parenthesized\">(שבת ל)</span> המכב' את הנר <span class=\"parenthesized\">(כתובות קיא)</span> עתידה ארץ ישראל שתוציא גלוסקאות וכלי מילת שנאמר יהי פסת בר בארץ <span class=\"parenthesized\">(עירובין לז)</span> בגמ' ר' יהודה אומר אם היה אחד מהן רבו או גלוסקא אחת. <span class=\"parenthesized\">(פסחים ו)</span> גזירה שמא ימצא גלוסקא יפיפיה ודעתיה עילוה. <span class=\"parenthesized\">(ושם מא)</span> ואין עושין סריקין כמין גלוסקאות <span class=\"parenthesized\">(ובפרק קמא דידים)</span> המים שהנחתום מטביל בהן את הגלוסקין פסולין. <span class=\"parenthesized\">(ב\"ר פ' פט)</span> חטאו משקה מלך מצרים והאופה ולשר האופה נמצא צרור בגלוסקין שלו פי' ככרות לחם: ס\"א קלוסקין <span class=\"hebrew-emphasis\"><span class=\"parenthesized\">(א\"ב פי' קלקס בלשון יוני עוגה ופת עגול קטן עיין ערך קלסק)</span></span>:",
+              "ref": "Sefer HeArukh, Letter Gimel 199",
+              "sourceHeRef": "ספר הערוך, אות הגימ\"ל קצ״ט",
+              "sourceRef": "Sefer HeArukh, Letter Gimel 199"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>אמר רבא:</b> בענין ביטול חמץ <b>גזירה</b> היא <b>שמא ימצא</b> לאחר זמן הבדיקה בין הדברים שלא ביער <b>גלוסקא</b> (עוגה) <b>יפה ודעתיה עילויה</b> <span class=\"hebrew-emphasis\">[ודעתו עליה],</span> ולא יבערנה מייד מפני חשיבותה, ונמצא עובר. ושואלים: ומה בכך? <b>וכי משכחת ליה, לבטליה</b> <span class=\"hebrew-emphasis\">[וכאשר ימצא אותה, יבטלנה]!</span>",
+              "ref": "Steinsaltz on Pesachim 6b:15",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:טו",
+              "sourceRef": "Steinsaltz on Pesachim 6b:15"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "The concern that his thoughts are upon it can be explained in several different ways. Some say that during the search for leaven he will have in mind to eat it after completing the search since it is not merely crumbs, and ultimately he will fail to remove it either due to laziness or forgetfulness (Rif; Rambam; <i>Tosefot</i> <i>Rid</i>). According to Rashi, apparently this concern applies even if he did not see the cake, e.g., if it was placed in a hole or it was taken by mice (Rabbeinu Yehonatan), and he found it after the prohibition had taken effect. Since it is a fine cake, there is concern that he will consider keeping it, and in doing so he will violate the prohibition: “It shall not be found” (<i>Me’iri</i>).",
+              "he": "וענין \"ודעתו עליה\" יש מפרשים שבשעת בדיקה עצמה תהא דעתו על הגלוסקא לאוכלה שאינה כפירורין בלבד, ואחר כך יתעצל או ישכח לבערה (רי\"ף. רמב\"ם. תוס' רי\"ד). ולשיטת רש\"י נראה שגם אם לא ראה גלוסקא זו (כגון שהיתה מונחת בחור או שגררוה עכברים. ר' יונתן) ומצאה לאחר שהגיע זמן האיסור, כיון שהיא גלוסקא יפה, שמא ישהה וירצה למצוא לה צד היתר בשהייתה — ולכן יהא כעובר על \"בל ימצא\" (מאירי).",
+              "ref": "Steinsaltz comment #1 on Pesachim 6b:15",
+              "sourceHeRef": "גְּלוּסְקָא יָפָה",
+              "sourceRef": "Fine cake"
+            },
+            {
+              "en": "From the Greek <greek>κόλλιξ,</greek> <i>kollix</i>, meaning cake or round loaf of bread.",
+              "he": "מקור המילה ביוונית <eng>÷ïëëéî</eng> (קוליס) שמשמעה: עוגה, ככר לחם עגולה.",
+              "ref": "Steinsaltz comment #2 on Pesachim 6b:15",
+              "sourceHeRef": "גְּלוּסְקָא",
+              "sourceRef": "Cake [<i>geluska</i>]"
+            }
+          ]
+        },
+        "Tosafot": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharsha": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>בד\"ה</b> ודעתיה עלויה כו' הא פי' ודעתי' עלויה שחס עליה לבטלה עכ\"ל רש\"י לא פי' כן אלא שחס עליה לשורפה אלא דממיל' משמע דאותה רגע שחס עליה לשורפ' ודאי דחס נמי עליה לבטלה ומאי פריך וכי משכחת לה ליבטלה ולדברי התוס' ניחא דודאי לא חס עליה כלל אלא כיון דמאליו אינו בטל עובר בבל יראה ולהכי פריך וכי משכחת לבטלה וק\"ל:",
+                      "ref": "Chidushei Halachot on Pesachim 6b:3",
+                      "sourceHeRef": "חדושי הלכות על פסחים ו׳ ב:ג",
+                      "sourceRef": "Chidushei Halachot on Pesachim 6b:3"
+                    }
+                  ]
+                }
+              },
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">ודעתיה עילויה</strong> - פירוש ולא בטל מאיליו כמו פירורין ועל פ\"ה קשה מאי פריך כי משכחת ליה ניבטלה הא פי' ודעתיה עילויה שחס עליה לבטלה:",
+              "ref": "Tosafot on Pesachim 6b:15:1",
+              "sourceHeRef": "תוספות על פסחים ו׳ ב:טו:א",
+              "sourceRef": "Tosafot on Pesachim 6b:15:1"
+            }
+          ]
+        }
+      },
+      "en": "<b><span href=\"/topics/rava\" class=\"namedEntityLink\" data-slug=\"rava\">Rava</span> said:</b> The reason for the requirement to render leaven null and void is based on <b>a decree lest he find a fine cake [<i>geluska</i>]</b> among the leaven that he did not destroy <b>and his thoughts are upon it.</b> Due to its significance, he will hesitate before removing it and will be in violation of the prohibition against owning leaven. The Gemara asks: <b>And let him nullify it when he finds it.</b>",
+      "he": "אָמַר רָבָא: גְּזֵירָה שֶׁמָּא יִמְצָא גְּלוּסְקָא יָפָה וְדַעְתֵּיהּ עִילָּוֵיהּ. וְכִי מַשְׁכַּחַתְּ לֵיהּ לְבַטְּלֵיהּ!",
+      "ref": "Pesachim 6b:15"
+    },
+    {
+      "commentary": {
+        "Maharsha": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>בד\"ה</b> משש שעות ולמעלה פ\"ה מתחלת ו' כו' חמץ משש שעות ולמעלה אסור היינו מסוף ו' כו' עכ\"ל כדילפינן מאך חלק ומלא תשחט וה\"ה דמשמעתין גופא איכא לאוכוחי הכי מהא דאר\"א דחמץ משש שעות אינו ברשותו ועשאו הכתוב כאילו הוא ברשותו והיינו ע\"כ מסוף שש דמתחלת שש לא הוה אלא מדרבנן ועוד דלא הוה פריך מידי ונבטליה בשית דהא קאמר דלא הוה ברשותו אלא ע\"כ הא דקאמר משש שעות ולמעלה אינו ברשותו היינו מסוף שש ודו\"ק:",
+              "ref": "Chidushei Halachot on Pesachim 6b:4",
+              "sourceHeRef": "חדושי הלכות על פסחים ו׳ ב:ד",
+              "sourceRef": "Chidushei Halachot on Pesachim 6b:4"
+            }
+          ]
+        },
+        "Mesorat Hashas": {
+          "comments": [
+            {
+              "en": [
+                [
+                  "It <b>was stated:</b> With regard to <b>one who renounces ownership of his hazardous property</b> that he left in the public domain, there is a dispute between the <i>amora’im</i> <b>Rabbi Yoḥanan and Rabbi Elazar. One said</b> that he is <b>liable, and one said</b> that he is <b>exempt.</b>",
+                  "The Gemara suggests: <b>Shall we say</b> that <b>the one who deems</b> him <b>liable</b> holds <b>in accordance with</b> the opinion of <b>Rabbi Meir, and the one who deems</b> him <b>exempt</b> holds <b>in accordance with</b> the opinion of <b>the Rabbis?</b>",
+                  "The Gemara responds: No; <b>in accordance with</b> the opinion of <b>Rabbi Meir, everyone agrees</b> that one who renounces ownership over his hazardous property is liable. Rather, <b>when they disagree</b> it <b>is in accordance with</b> the opinion of <b>the Rabbis.</b> They disagree as to what the opinion of the Rabbis is. <b>The one who deems</b> him <b>exempt</b> holds that his opinion <b>is in accordance with</b> the opinion of <b>the Rabbis. And the one who deems</b> him <b>liable</b> could have <b>said to you: I</b> maintain <b>that</b> what <b>I say is</b> correct <b>even according to</b> the opinion of <b>the Rabbis; the Rabbis deem one who renounces ownership over his hazardous property exempt only</b> in the situation <b>here, because he is a victim of circumstances beyond his control. But</b> in <b>a general</b> case of <b>one who renounces ownership of his hazardous property, they deem</b> him <b>liable.</b>",
+                  "The Gemara suggests: <b>It may be concluded that Rabbi Elazar is the one who says</b> that <b>he is liable, as Rabbi Elazar says in the name of Rabbi Yishmael:</b> There are <b>two entities</b> that <b>are not in a person’s</b> legal <b>possession and</b> nevertheless <b>the verse rendered them as though they were in his possession</b> with regard to certain halakhic responsibilities. <b>And these are: A pit</b> that he dug <b>in the public domain and leavened bread</b> remaining in his possession on the eve of Passover <b>from six hours,</b> i.e., noon, <b>onward.</b> Although deriving any benefit from the bread is prohibited, and it is therefore no longer in its owner’s legal possession, nevertheless he is commanded to destroy it. The Gemara concludes: <b>It may be concluded</b> that Rabbi Elazar is the one who says that he is liable.",
+                  "The Gemara asks: <b>And did Rabbi Elazar</b> actually <b>say this,</b> that one who renounces ownership of his hazardous objects is liable? <b>But didn’t Rabbi Elazar say the opposite? As we learned</b> in a mishna (30a): In the case of <b>one who turns over dung in the public domain and another</b> person <b>incurred damage due to it,</b> he is <b>liable</b> to pay <b>for his damage. And Rabbi Elazar says: They taught</b> this ruling <b>only</b> in a case <b>where</b> the one who turned over the dung <b>intended to acquire it, but</b> in a case where <b>he did not intend to acquire it</b> he is <b>exempt. Apparently,</b> according to Rabbi Elazar, <b>one who renounces ownership of his hazardous property is exempt,</b> since he is liable only if he intends to take possession of the dung, even if he moved it significantly.",
+                  "<b>Rav Adda bar Ahava said:</b> Rabbi Elazar was referring to a case <b>where he returned</b> the dung <b>to its</b> prior <b>place.</b> Therefore, he is exempt unless he intended to acquire it. <b>Ravina said:</b> This can be explained by means of <b>a parable: To what is</b> the statement of <b>Rav Adda bar Ahava comparable? To one who finds an uncovered pit</b> in the public domain <b>and covers it, and</b> then <b>uncovers it again.</b> Since he left the pit as he found it, he is exempt from paying damages, and the liability lies with the one who dug the pit.",
+                  "<b>Mar Zutra, son of Rav Mari, said to Ravina: Is</b> this <b>comparable? There,</b> in the case of the pit, the result of <b>the initial act</b> of digging the pit <b>was not removed,</b> since even when he covered the pit, the pit itself still existed. But <b>here,</b> the result of <b>the initial act was removed,</b> since once the dung was moved from its prior place, there was no longer any hazardous object there. Therefore, by returning it to its place, the hazard is created anew.",
+                  "Rather, <b>it is comparable only to one who finds an uncovered pit and fills it</b> with dirt <b>and</b> then <b>digs it up again, as</b> in this case the result of <b>the initial act is removed, and</b> the new pit therefore <b>exists in his possession</b> and he is liable. Likewise, one who moves dung in the public domain and then restores it to its prior place is deemed liable whether or not he intends to acquire it.",
+                  "<b>Rather, Rav Ashi said</b> that Rabbi Elazar was referring to a case <b>when he turned it over at</b> a height of <b>less than three</b> handbreadths, which is not considered removal of the dung from its place.",
+                  "The Gemara asks: <b>But</b> according to this explanation, <b>what forced Rabbi Elazar to interpret</b> the mishna as referring specifically to the unique case <b>where he turned over</b> the dung <b>at</b> a height of <b>less than three</b> handbreadths, <b>and</b> consequently <b>the reason</b> he is liable <b>is that he intended to acquire it, but</b> if <b>he does not intend to acquire it</b> he is <b>not</b> liable? <b>Let him interpret</b> the mishna as referring to a case where he turned over the dung at a height <b>above three</b> handbreadths, in which case <b>even if he did not intend to acquire it, he is liable.</b>",
+                  "<b>Rava said:</b> What forced him was that <b>the mishna was difficult for him. Why</b> does it state <b>specifically</b> that <b>he turned over</b> the dung? <b>Let it teach</b> that <b>he lifted</b> the dung. <b>Rather, learn from</b> the fact that the mishna does not use the term: Lifted, which generally is referring to the act of lifting an object three handbreadths for the purpose of acquisition, that <b>whenever</b> the term <b>turned over</b> is used, it is referring to an act in which the object is lifted to a height of <b>under three</b> handbreadths from the ground.",
+                  "The Gemara concludes: <b>And from</b> the fact <b>that Rabbi Elazar</b> was evidently the one who <b>said</b> that one who renounces ownership of his hazardous object in the public domain is still <b>liable</b> to pay for any damage it causes, <b>Rabbi Yoḥanan</b> is clearly the one who <b>said</b> he is <b>exempt.</b>",
+                  "The Gemara asks: <b>And did Rabbi Yoḥanan</b> actually <b>say this,</b> that if one renounces ownership of his object he is exempt from liability for any damage it causes? <b>But didn’t we learn</b> in a mishna (30a): With regard to <b>one who conceals a thorn or</b> a piece of <b>glass, or who puts up a fence of thorns, or</b> who puts up <b>a fence that</b> subsequently <b>fell into the public domain, and another</b> person <b>incurred damage due to</b> any of <b>these,</b> he is <b>liable</b> to pay <b>for</b> this person’s <b>damage.</b>",
+                  "<b>And Rabbi Yoḥanan says:</b> With regard to one who puts up a fence of thorns, <b>they taught</b> that he is liable <b>only in</b> a case where he <b>projects</b> the thorns out into the public domain, <b>but in</b> a case where he <b>restricts</b> them to his own property, he is <b>exempt.</b> The Gemara infers: In a case where he <b>restricts</b> them, <b>what is the reason</b> that he is <b>exempt? Is it not because it is</b> considered <b>a pit on his</b> own <b>property? By inference, the liability</b> in the category <b>of Pit,</b> according to Rabbi Yoḥanan, <b>is in the public domain,</b> where a pit generally does not belong to the one who dug it. <b>Apparently,</b> Rabbi Yoḥanan holds that <b>one who renounces ownership of his hazardous property is liable.</b>",
+                  "The Gemara answers: <b>No, actually I</b> could <b>say to you</b> that in principle, <b>one who renounces ownership of his hazardous property is exempt.</b> Nevertheless, one who puts up a fence of thorns is liable, because he does not renounce ownership of the thorns that protrude into the public domain. <b>And</b> in a case where <b>he restricts</b> the thorns to his own property, <b>what is the reason</b> he is <b>exempt?</b> The reason is not that he is not liable to pay for the damage of a pit in his own property, but rather <b>because it was stated about</b> this case that <b>Rav Aḥa, son of Rav Ika, said:</b> He is exempt <b>because it is not the</b> typical <b>manner of people to rub against walls,</b> but to keep a small distance from them. Therefore, if a pedestrian is injured by the thorns, it is considered an unusual accident, for which the owner of the fence is not liable.",
+                  "The Gemara asks: <b>And did Rabbi Yoḥanan</b> actually <b>say that</b> one who renounces ownership of his hazardous objects is exempt? <b>But didn’t Rabbi Yoḥanan say</b> that in general, <b>the <i>halakha</i> is in accordance with an unattributed mishna, and we learned</b> in an unattributed mishna (50b): In the case of <b>one who digs a pit in the public domain and an ox or a donkey fell into it and died,</b> he is <b>liable.</b> This mishna is referring to one who digs a pit in the public domain, where it is not owned by the one who dug it, yet the mishna deems him liable.",
+                  "The Gemara concludes: <b>Rather, Rabbi Yoḥanan</b> is <b>actually</b> the one who <b>said</b> that one who renounces ownership of his hazardous objects is <b>liable.</b>",
+                  "The Gemara asks: <b>And from</b> the fact <b>that Rabbi Yoḥanan said</b> that he is <b>liable,</b> is it evident that <b>Rabbi Elazar said</b> that he is <b>exempt? But doesn’t Rabbi Elazar say</b>"
+                ],
+                [
+                  "<b>in the name of Rabbi Yishmael</b> that one is liable to pay for damage caused by a pit that he dug in the public domain, even if it is not his personal property?",
+                  "The Gemara answers: This is <b>not difficult. This</b> ruling, that he is exempt, <b>is his own</b> opinion, whereas <b>that</b> ruling, that he is liable, <b>is</b> the opinion <b>of his teacher</b> Rabbi Yishmael, and he disagrees with it."
+                ]
+              ],
+              "expandedRefsAfterRewriting": [
+                "Bava Kamma 29b:5",
+                "Bava Kamma 29b:6",
+                "Bava Kamma 29b:7",
+                "Bava Kamma 29b:8",
+                "Bava Kamma 29b:9",
+                "Bava Kamma 29b:10",
+                "Bava Kamma 29b:11",
+                "Bava Kamma 29b:12",
+                "Bava Kamma 29b:13",
+                "Bava Kamma 29b:14",
+                "Bava Kamma 29b:15",
+                "Bava Kamma 29b:16",
+                "Bava Kamma 29b:17",
+                "Bava Kamma 29b:18",
+                "Bava Kamma 29b:19",
+                "Bava Kamma 29b:20",
+                "Bava Kamma 29b:21",
+                "Bava Kamma 29b:22",
+                "Bava Kamma 30a:1",
+                "Bava Kamma 30a:2"
+              ],
+              "he": [
+                [
+                  "אִיתְּמַר: מַפְקִיר נְזָקָיו; רַבִּי יוֹחָנָן וְרַבִּי אֶלְעָזָר – חַד אָמַר: חַיָּיב, וְחַד אָמַר: פָּטוּר.",
+                  "לֵימָא מַאן דִּמְחַיֵּיב – כְּרַבִּי מֵאִיר, וּמַאן דְּפָטַר – כְּרַבָּנַן?",
+                  "אַלִּיבָּא דְּרַבִּי מֵאִיר – כּוּלֵּי עָלְמָא לָא פְּלִיגִי, כִּי פְּלִיגִי – אַלִּיבָּא דְּרַבָּנַן. מַאן דְּפָטַר – כְּרַבָּנַן; וּמַאן דִּמְחַיֵּיב אָמַר לָךְ: אֲנָא דַּאֲמַרִי – אֲפִילּוּ לְרַבָּנַן, עַד כָּאן לָא פָּטְרִי רַבָּנַן, אֶלָּא בְּמַפְקִיר נְזָקָיו דְּהָכָא, מִשּׁוּם דְּאָנוּס הוּא; אֲבָל מַפְקִיר נְזָקָיו דְּעָלְמָא – מְחַיְּיבִי.",
+                  "תִּסְתַּיֵּים דְּרַבִּי אֶלְעָזָר הוּא דְּאָמַר חַיָּיב – דְּאָמַר רַבִּי אֶלְעָזָר מִשּׁוּם רַבִּי יִשְׁמָעֵאל: שְׁנֵי דְּבָרִים אֵינָן בִּרְשׁוּתוֹ שֶׁל אָדָם, וַעֲשָׂאָן הַכָּתוּב כְּאִילּוּ הֵן בִּרְשׁוּתוֹ; וְאֵלּוּ הֵן: בּוֹר בִּרְשׁוּת הָרַבִּים, וְחָמֵץ מִשֵּׁשׁ שָׁעוֹת וּלְמַעְלָה. תִּסְתַּיֵּים.",
+                  "וּמִי אָמַר רַבִּי אֶלְעָזָר הָכִי? וְהָא אָמַר רַבִּי אֶלְעָזָר אִיפְּכָא! דִּתְנַן: הַהוֹפֵךְ אֶת הַגָּלָל בִּרְשׁוּת הָרַבִּים, וְהוּזַּק בָּהֶן אַחֵר – חַיָּיב בְּנִזְקוֹ. וְאָמַר רַבִּי אֶלְעָזָר: לֹא שָׁנוּ אֶלָּא שֶׁנִּתְכַּוֵּין לִזְכּוֹת בָּהֶן, אֲבָל לֹא נִתְכַּוֵּין לִזְכּוֹת בָּהֶן – פָּטוּר. אַלְמָא מַפְקִיר נְזָקָיו – פָּטוּר!",
+                  "אָמַר רַב אַדָּא בַּר אַהֲבָה: שֶׁהֶחְזִירָהּ לִמְקוֹמָהּ. אָמַר רָבִינָא: מָשָׁל דְּרַב אַדָּא בַּר אַהֲבָה לָמָּה הַדָּבָר דּוֹמֶה – לְמוֹצֵא בּוֹר מְגוּלֶּה, וְכִסָּהוּ, וְחָזַר וְגִילָּהוּ.",
+                  "אֲמַר לֵיהּ מָר זוּטְרָא בְּרֵיהּ דְּרַב מָרִי לְרָבִינָא: מִי דָּמֵי?! הָתָם – לָא אִסְתַּלֻּק לְהוּ מַעֲשֵׂה רִאשׁוֹן, הָכָא – אִסְתַּלֻּק לְהוּ מַעֲשֵׂה רִאשׁוֹן.",
+                  "הָא לָא דָּמֵי אֶלָּא לְמוֹצֵא בּוֹר מְגוּלָּה, וּטְמָמָהּ וְחָזַר וַחֲפָרָהּ – דְּאִסְתַּלִּקוּ לְהוּ מַעֲשֵׂה רִאשׁוֹן, וְקָיְימָא לַהּ בִּרְשׁוּתוֹ!",
+                  "אֶלָּא אָמַר רַב אָשֵׁי: כְּשֶׁהֲפָכָהּ לְפָחוֹת מִשְּׁלֹשָׁה.",
+                  "וּמַאי דּוּחְקֵיהּ דְּרַבִּי אֶלְעָזָר לְאוֹקֹמַיהּ כְּגוֹן שֶׁהֲפָכָהּ לְפָחוֹת מִשְּׁלֹשָׁה – וְטַעְמָא דְּכִי נִתְכַּוֵּין לִזְכּוֹת בָּהּ, הָא אֵין מִתְכַּוֵּין לִזְכּוֹת בָּהּ – לָא? לוֹקְמַהּ לְמַעְלָה מִשְּׁלֹשָׁה, וְאַף עַל גַּב דְּלָא נִתְכַּוֵּין לִזְכּוֹת בָּהּ – חַיָּיב!",
+                  "אָמַר רָבָא: מַתְנִיתִין קְשִׁיתֵיהּ – מַאי אִרְיָא ״הָפַךְ״? לִתְנֵי ״הִגְבִּיהַּ״! אֶלָּא שְׁמַע מִינַּהּ, כֹּל ״הָפַךְ״ – לְמַטָּה מִשְּׁלֹשָׁה הוּא.",
+                  "וּמִדְּרַבִּי אֶלְעָזָר אָמַר חַיָּיב, רַבִּי יוֹחָנָן אָמַר פָּטוּר.",
+                  "וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי?! וְהָתְנַן: הַמַּצְנִיעַ אֶת הַקּוֹץ וְאֶת הַזְּכוּכִית; וְהַגּוֹדֵר גְּדֵרוֹ בְּקוֹצִים; וְגָדֵר שֶׁנָּפַל לִרְשׁוּת הָרַבִּים; וְהוּזַּק בָּהֶן אַחֵר – חַיָּיב בְּנִזְקוֹ.",
+                  "וְאָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא בְּמַפְרִיחַ, אֲבָל בִּמְצַמְצֵם – פָּטוּר. מְצַמְצֵם מַאי טַעְמָא פָּטוּר – לָאו מִשּׁוּם דְּהָוְיָא לֵיהּ בּוֹר בִּרְשׁוּתוֹ? מִכְּלַל דְּחִיּוּבָא דְבוֹר – בִּרְשׁוּת הָרַבִּים הוּא; אַלְמָא מַפְקִיר נְזָקָיו חַיָּיב!",
+                  "לָא, לְעוֹלָם אֵימָא לָךְ: מַפְקִיר נְזָקָיו פָּטוּר; וּמְצַמְצֵם מַאי טַעְמָא פָּטוּר – מִשּׁוּם דְּאִתְּמַר עֲלַהּ, אָמַר רַב אַחָא בְּרֵיהּ דְּרַב אִיקָא: לְפִי שֶׁאֵין דַּרְכָּן שֶׁל בְּנֵי אָדָם לְהִתְחַכֵּךְ בַּכְּתָלִים.",
+                  "וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי? וְהָא אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כִּסְתַם מִשְׁנָה, וּתְנַן: הַחוֹפֵר בּוֹר בִּרְשׁוּת הָרַבִּים, וְנָפַל לְתוֹכוֹ שׁוֹר אוֹ חֲמוֹר וָמֵת – חַיָּיב!",
+                  "אֶלָּא לְעוֹלָם רַבִּי יוֹחָנָן אָמַר חַיָּיב.",
+                  "וּמִדְּרַבִּי יוֹחָנָן אָמַר חַיָּיב – רַבִּי אֶלְעָזָר אָמַר פָּטוּר?! וְהָאָמַר רַבִּי אֶלְעָזָר"
+                ],
+                [
+                  "מִשּׁוּם רַבִּי יִשְׁמָעֵאל כּוּ׳!",
+                  "לָא קַשְׁיָא; הָא דִידֵיהּ. הָא דְרַבֵּיהּ."
+                ]
+              ],
+              "link": "/Bava Kamma/29b",
+              "originalRefsBeforeRewriting": [
+                "Bava Kamma 29b:8"
+              ],
+              "ref": "Bava Kamma 29b:5-30a:2",
+              "sourceHeRef": "בבא קמא כ״ט ב",
+              "sourceRef": "Bava Kamma 29b"
+            }
+          ]
+        },
+        "Mishneh Torah": {
+          "comments": [
+            {
+              "en": "When he concludes searching, if he searched on the fourteenth at night, or on the fourteenth during the day before the sixth hour, he should nullify all the chametz that remains in his possession that he does not see.<br>He should say: \"All chametz which is in my possession that I have not seen, behold, it is nullified and must be considered as dust.\"<br>However, if he searched after the beginning of the sixth hour and onward, he can no longer nullify it, for it is not in his possession, since benefiting from it is forbidden.",
+              "he": "וּכְשֶׁגּוֹמֵר לִבְדֹּק אִם בָּדַק בְּלֵיל אַרְבָּעָה עָשָׂר אוֹ בְּיוֹם אַרְבָּעָה עָשָׂר קֹדֶם שֵׁשׁ שָׁעוֹת צָרִיךְ לְבַטֵּל כָּל חָמֵץ שֶׁנִּשְׁאַר בִּרְשׁוּתוֹ וְאֵינוֹ רוֹאֵהוּ. וְיֹאמַר כָּל חָמֵץ שֶׁיֵּשׁ בִּרְשׁוּתִי שֶׁלֹּא רְאִיתִיו הֲרֵי הוּא בָּטֵל וַהֲרֵי הוּא כְּעָפָר. אֲבָל אִם בָּדַק מִתְּחִלַּת שָׁעָה שִׁשִּׁית וּלְמַעְלָה אֵינוֹ יָכוֹל לְבַטֵּל שֶׁהֲרֵי אֵינוֹ בִּרְשׁוּתוֹ שֶׁכְּבָר נֶאֱסַר בַּהֲנָיָה:",
+              "ref": "Mishneh Torah, Leavened and Unleavened Bread 3:7",
+              "sourceHeRef": "הלכות חמץ ומצה ג:ז",
+              "sourceRef": "Leavened and Unleavened Bread 3:7"
+            },
+            {
+              "en": "Thus, a person who does not nullify [his chametz] before the sixth hour and discovers chametz which he:<br>considered important and [valued] in his heart,<br>then forgot at the time of the destruction of chametz,<br>and hence did not destroy,<br>transgresses [the prohibitions]: \"[leaven] shall not be seen\" and \"[leaven] shall not be found.\"<br>Behold, he has neither destroyed nor nullified [his chametz], and nullification at this time would not be effective, for [the chametz] is no longer in his possession. Even so, the Torah considers it as if it were in his possession, to obligate him for [transgression of the commandments:] \"[leaven] shall not be seen\" and \"[leaven] shall not be found.\"<br>[Therefore,] he is obligated to destroy it whenever he finds it. If he finds it on the day of a festival, he should cover it with a utensil until the evening, and then destroy it. [If the chametz] was consecrated property, there is no need to cover it with a utensil, for regardless, everyone shies away from its use.",
+              "he": "לְפִיכָךְ אִם לֹא בִּטֵּל קֹדֶם שֵׁשׁ וּמִשֵּׁשׁ שָׁעוֹת וּלְמַעְלָה מָצָא חָמֵץ שֶׁהָיָה דַּעְתּוֹ עָלָיו וְהָיָה בְּלִבּוֹ וּשְׁכָחוֹ בִּשְׁעַת הַבִּעוּר וְלֹא בִּעֲרוֹ הֲרֵי זֶה עָבַר עַל <span class=\"hebrew-emphasis\">(שמות יג ז)</span> <span class=\"hebrew-emphasis\">(דברים טז ד)</span> \"לֹא יֵרָאֶה\" וְ <span class=\"hebrew-emphasis\">(שמות יב יט)</span> \"לֹא יִמָּצֵא\" שֶׁהֲרֵי לֹא בִּעֵר וְלֹא בִּטֵּל. וְאֵין הַבִּטּוּל עַתָּה מוֹעִיל לוֹ כְּלוּם לְפִי שֶׁאֵינוֹ בִּרְשׁוּתוֹ וְהַכָּתוּב עֲשָׂהוּ כְּאִלּוּ הוּא בִּרְשׁוּתוֹ לְחַיְּבוֹ מִשּׁוּם לֹא יֵרָאֶה וְלֹא יִמָּצֵא. וְחַיָּב לְבַעֲרוֹ בְּכָל עֵת שֶׁיִּמְצָאֶנּוּ. וְאִם מְצָאוֹ בְּיוֹם טוֹב כּוֹפֶה עָלָיו כְּלִי עַד לָעֶרֶב וּמְבַעֲרוֹ. וְאִם שֶׁל הֶקְדֵּשׁ הוּא אֵינוֹ צָרִיךְ לִכְפּוֹת עָלָיו כְּלִי שֶׁהַכּל פּוֹרְשִׁין מִמֶּנּוּ:",
+              "ref": "Mishneh Torah, Leavened and Unleavened Bread 3:8",
+              "sourceHeRef": "הלכות חמץ ומצה ג:ח",
+              "sourceRef": "Leavened and Unleavened Bread 3:8"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דלאו ברשותיה הוא</strong> - אינו שלו:",
+              "ref": "Rashi on Pesachim 6b:16:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:טז:א",
+              "sourceRef": "Rashi on Pesachim 6b:16:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">דאמר ר' אלעזר ב' דברים אינן שלו ועשאן הכתוב כאילו הן ברשותו</strong> - להתחייב עליהן:",
+              "ref": "Rashi on Pesachim 6b:16:2",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:טז:ב",
+              "sourceRef": "Rashi on Pesachim 6b:16:2"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">בור ברשות הרבים</strong> - הפותחו חייב בניזקין ואין הבור שלו אלא של הפקר שהרי ברשות הרבים הוא ואף על פי שכרהו אין רשות הרבים קנויה לו:",
+              "ref": "Rashi on Pesachim 6b:16:3",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:טז:ג",
+              "sourceRef": "Rashi on Pesachim 6b:16:3"
+            }
+          ]
+        },
+        "Ritva": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<b>ב' דברים אינן ברשותו של אדם וכו'.</b> כתב הרי\"ט בשם רבו הרא\"ה ז\"ל ואע\"ג דאין זכייה באיסורי הנאה לדין ממון יש בהם זכייה להוסיף בהן איסור ולפיכך דורון של חמץ ששלח גוי לישראל בפסח אסור לאחר הפסח וכדאשכחן שזוכה ישראל בע\"ז לענין שאין לה בטילה עולמית כדאיתא בהדיא בכמה דוכתי וזה ברור ע\"כ:",
+              "ref": "Ritva on Pesachim 6b:2",
+              "sourceHeRef": "ריטב\"א על פסחים ו׳ ב:ב",
+              "sourceRef": "Ritva on Pesachim 6b:2"
+            }
+          ]
+        },
+        "Shulchan Arukh": {
+          "comments": [
+            {
+              "commentary": {
+                "Maharshal": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<b>סעיף ב' </b>אחר הבדיקה מיד בלילה יבטלנו וכו' נ\"ב הנה מקור דין זה הוא בש\"ס דפ\"ק דפסחים אר\"י אמר רב הבודק צריך שיבטל וכו' וכי משכחת לה לבטלה לכאורה קשה לי מה פריך דלמא באמת כן הכוונה דכשמוציא חמץ צריך לבטלו ומה דקמ\"ל כן היינו דהוי ס\"ד כיון שמצאו א\"כ הוי משהה לבערו ואינו עובר עליו ולא יצטרך לבטלו לכך קמ\"ל דמה דמשהה לבערו אינו עובר עליו היינו אם לא היה בידו לבערו מיד אכל אם הוי בידו לבערו מיד ואינו מבערו עובר עליו ולכך קמ\"ל דודאי אם ימצאנו בזמן דאפשר לבערו מן הסתם יבערנו וא\"צ ביטול רק דהוי חשש בזמן שלא יוכל לבערו אך א\"כ יהיה משהה ע\"מ לבערו ואינו עובר לכך קמ\"ל דצריך לבטלו עכ\"פ ואם אינו מבטלו עובר עליו כיון דזה היה בידו ומה פריך. והנה לפירש\"י דמפרש דחס עליו לשורפה אתי שפיר דלא הוי מצי משני כן דא\"כ מה קמ\"ל פשיטא דצריך לבטל ואין לו' דהוי ס\"ד דהוי משהה ע\"מ לבערו דהרי חס עליו שלא לשורפו אבל לפירוש התוס' דלא בטל מאיליו קשה מה פריך דלמא קמ\"ל זה גופא דאף דיכוין להיות משהה ע\"מ לבערו לא מהני כיון דיכול לבטלו אך נראה דקשיא לי מלשון הבודק צריך שיבטל ולמה לא אמר בקיצור וצריך לבטל מוכח דהכוונה בעת הבדיקה יבטל ויובן יותר ע\"פ דברי רבינו יונה כפ\"ב דברכות גבי חוזר לראש הפרק שכתב דאף דספק קרא ק\"ש אינו חוזר מכל מקום כיון דהתחיל צריך לגמור וכו' וא\"כ יש לו' ה\"נ בזה דבודאי לולא הבדיקה לא היה מחוייב לבטל לחנם מספק שמא ימצא בתר איסורא רק כיון דחז\"ל תקנו לבדוק מכח ספק מכח חשש דלמא אתי למיכל מיניה א\"כ כיון דהתחיל לבדוק ולחוש לספק צריך נמי לבטל מספק ולכך קאמר הבודק צריך שיבטל ואתי שפיר יותר דקשה לפי דעת הי\"מ שהביא הרא\"ש דהביטול הוי רק בשעה ששית א\"כ אינו בשעת בדיקה וא\"כ למה נקט הבודק צריך שיבטל ומכ\"ש דקשה קושייתנו הנ\"ל דלמא הכוונה כשימצאנו צריך לבטל ואין לו' דדייק מלשון הבודק דמשמע בשעת בדיקה דהרי הם ס\"ל דהביטול הוי בשעה ששית אך לפי הנ\"ל ניחא ניהו דהביטול הוי ביום מכל מקום אם לא נחית תחלה לחוש לספק לא הוי צריך אח\"כ לבטל לחוש לספק רק כיון דבודק וחושש לספק צריך אח\"כ נמי לבטל ומחר בשעה ששית לחוש לספק ואתי שפיר ודוק היטב בעזה\"י: <span class=\"parenthesized\">(שם בהג\"ה)</span> ואם אמרו בלה\"ק וכו'. נ\"ב עיין במג\"א דהקשה הרי תרגום אינו לה\"ק וכו' ועיין ראייה לדבריו במס' ברכות [דף מ] במה דקאמר וכ\"ת משום דאמרה בלשון חול מוכח להדיא דהתרגום אינו נקרא לה\"ק אפילו נגד שאר לשונות מדקאמר דאמרה בלשון חול ולא אמר דאמרה בלשון תרגום א\"ו דלא אמרה בלה\"ק מוכח דתרגום נקרא חול ממש כשאר לשונות ולא כהח\"י ע\"ש ודוק היטב:",
+                      "ref": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 434:1",
+                      "sourceHeRef": "חכמת שלמה על שולחן ערוך, אורח חיים תלד:א",
+                      "sourceRef": "Chokhmat Shlomo on Shulchan Arukh, Orach Chayim 434:1"
+                    }
+                  ]
+                },
+                "Mishnah Berurah": {
+                  "comments": [
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ו)</span> מיד בלילה יבטלנו</strong> - הטעם הוא דאע\"ג דמדאורייתא בבדיקה לבד סגי דמן התורה סגי באחד מהן או בביעור או בביטול דאפילו אם ישאר שם חמץ בבית אינו עובר עליו כ\"ז שלא נודע לו כיון שבדק היטב ועשה כל מה שמוטל עליו מ\"מ חכמים חששו שמא ימצא גלוסקא יפה שאינה נבטלת מעצמה כמו פירורין וישהה מעט קודם שישרפנו ויעבור עליו בבל יראה אבל אם יבטלנו שוב אינו עובר בכל גווני בבל יראה דהוי הפקר ולאו דיליה הוא:",
+                      "ref": "Mishnah Berurah 434:6",
+                      "sourceHeRef": "משנה ברורה תלד:ו",
+                      "sourceRef": "Mishnah Berurah 434:6"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ז)</span> דלא חזיתיה ודלא בערתיה</strong> - אבל מה שראה וביער אינו מבטל עכשיו שהרי רוצה לאכול עוד מה שמשייר וגם כדי לקיים מצות שריפה בחמץ שלו למחר ולכך אינו מבטל הכל עד למחר אחר אכילה ואחר ששרף החמץ:",
+                      "ref": "Mishnah Berurah 434:7",
+                      "sourceHeRef": "משנה ברורה תלד:ז",
+                      "sourceRef": "Mishnah Berurah 434:7"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ח)</span> וליהוי כעפרא דארעא</strong> - ונכון שיאמר וליהוי הפקר כעפרא דארעא. ולכו\"ע מהני לשון זה של הפקר אף שאמר לשון זה בינו לבין עצמו ולא בפני אנשים [אחרונים]:",
+                      "ref": "Mishnah Berurah 434:8",
+                      "sourceHeRef": "משנה ברורה תלד:ח",
+                      "sourceRef": "Mishnah Berurah 434:8"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(ט)</span> בלשון שמבין</strong> - שהרי הבטול הוא מתורת הפקר ואם אינו יודע מה מהני הבטול. וע\"כ טוב ללמוד לע\"ה שאינם מבינים בלה\"ק או אשה מבטלת שתאמר בלשון שמבין דהיינו <span class=\"parenthesized\">(אללען חמץ אדער זויער טייג וואס עם איז אין מיין רשות זאל זיין הפקר אונד זאל ניט זיין גירעכינט נאר אזוי וויא ערד אין גאס)</span> ואם אמר ע\"ה בלה\"ק אם יודע לפחות ענין הבטול שיודע שמפקיר חמצו יצא בדיעבד אבל אם אינו מבין כלל וסובר שאומר איזה תחנה לא יצא אפילו בדיעבד:",
+                      "ref": "Mishnah Berurah 434:9",
+                      "sourceHeRef": "משנה ברורה תלד:ט",
+                      "sourceRef": "Mishnah Berurah 434:9"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(י)</span> בלשון הקודש</strong> - לאו דוקא ור\"ל בלשון תרגום כמו שאנו אומרים:",
+                      "ref": "Mishnah Berurah 434:10",
+                      "sourceHeRef": "משנה ברורה תלד:י",
+                      "sourceRef": "Mishnah Berurah 434:10"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יא)</span> וטוב לחזור ולבטלו</strong> - לפי שרגילין לקנות פת ביום י\"ד למאכל וגם בפת ששייר בלילה למאכלו לא נתכוין לבטלו [ואף אם כוון לבטלו הלא חוזר וזוכה בו] ויש לחוש שמא ישאר ממנו כזית ויעבור עליו לכך חוזר ומבטלו ומ\"מ אין לסמוך על בטול היום לבד ושלא לבטל בלילה דחיישינן שישכח לבטל עד שעה ששית דאז לא מהני בטול:",
+                      "ref": "Mishnah Berurah 434:11",
+                      "sourceHeRef": "משנה ברורה תלד:יא",
+                      "sourceRef": "Mishnah Berurah 434:11"
+                    },
+                    {
+                      "en": "",
+                      "he": "<strong class=\"dibur-hamatchil\"><span class=\"parenthesized\">(יב)</span> אלא לאחר ששרף החמץ</strong> - וא\"כ צריך לשרוף קודם שעה ששית ואח\"כ יבטלנו ג\"כ תיכף קודם שיותחל שעה ששית:",
+                      "ref": "Mishnah Berurah 434:12",
+                      "sourceHeRef": "משנה ברורה תלד:יב",
+                      "sourceRef": "Mishnah Berurah 434:12"
+                    }
+                  ]
+                },
+                "Peninei Halakhah": {
+                  "comments": [
+                    {
+                      "en": "Therefore, in the evening we nullify only the ḥametz we did not find in our search; we do not intend to include the ḥametz we set aside to be eaten or burned. The problem is that if we misplace or overlook some of this remaining ḥametz, we are liable to violate the law of bal yera’eh and bal yimatzei. To prevent this from happening, we nullify the ḥametz a second time. One must be careful to nullify the ḥametz by the end of the fifth seasonal hour of the day, for with the onset of the sixth seasonal hour it is forbidden to derive any benefit from ḥametz, and it can no longer be nullified (SA 434:2).",
+                      "he": "לפיכך בלילה אנו מבטלים רק את החמץ שלא מצאנו בבדיקה, ולא את החמץ שאנו שומרים לארוחות הנותרות ולשריפת החמץ. וכיוון שיתכן שמקצת מן החמץ הזה נשמט מעינינו ונשכח, כדי שלא נעבור עליו באיסורי בל יראה ובל ימצא, חוזרים ומבטלים את החמץ. ויש להקפיד לבטל את החמץ עד סוף השעה החמישית, שאם הגיעה השעה השישית, החמץ נאסר בהנאה ושוב אין אפשרות לבטלו <span class=\"parenthesized\">(שו\"ע או\"ח תלד, ב)</span>.",
+                      "ref": "Peninei Halakhah, Pesach 5:1:11",
+                      "sourceHeRef": "פסח ה:א:יא",
+                      "sourceRef": "Pesach 5:1:11"
+                    }
+                  ]
+                }
+              },
+              "en": "2. After the examination, immediately at nightfall, we will nullify it and say: Any leaven that is in my possession, which I have not seen and have not removed, shall be nullified and become like the dust of the earth.<i> Rema: And one should declare the nullification in a language that is understood [as stated by Maharil, son of Rabbeinu Nosson], and if one said it in Hebrew: 'Any leaven includes both leaven and sourdough' [Tur, Orach Chayim, Chapter 434]. However, in other languages, one must mention each one separately [Darchei Moshe].</i> And it is good to go back and nullify it again another time on the fourteenth day, at the end of the fifth hour, before the sixth hour arrives, as once the sixth hour arrives, it becomes forbidden, and there is no opportunity to nullify it. <i>Rema: And one should not nullify it during the day, but rather after burning the leaven, in order to fulfill the commandment of burning one’s leaven. (Mahariv)</i>",
+              "he": "אחר הבדיקה מיד בלילה יבטלנו ויאמר כל חמירא דאיתיה ברשותי דלא חזיתיה ודלא ביערתיה ליבטיל וליהוי כעפרא דארעא: <span class=\"hebrew-emphasis\">הגה ויאמר הביטול בלשון שמבין (מהר\"י ברי\"ן) ואם אמרו בלשון הקודש כל חמירא כולל חמץ ושאור (ת\"ה סימן קל\"ד) אבל בשאר לשונות צריך להזכיר כל אחד בפני עצמו (ד\"ע): </span> וטוב לחזור ולבטלו פעם אחרת ביום י\"ד סוף שעה חמישית קודם שתגיע שעה ששית שמשתגיע שעה ששית נאסר ואין בידו לבטלו: <span class=\"hebrew-emphasis\">הגה ואין לבטל ביום אלא לאחר ששרף החמץ כדי לקיים מצות שריפה בחמץ שלו: (מהרי\"ו)</span>",
+              "ref": "Shulchan Arukh, Orach Chayim 434:2",
+              "sourceHeRef": "אורח חיים תלד:ב - דינים הנוהגים תיכף אחר הבדיקה.",
+              "sourceRef": "Orach Chayim 434:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ודוחים: <b>דילמא משכחת ליה לבתר איסורא, ולאו ברשותיה קיימא, ולא מצי מבטיל</b> <span class=\"hebrew-emphasis\">[שמא ימצא אותה לאחר</span> זמן <span class=\"hebrew-emphasis\">איסורה, ו</span>אז <span class=\"hebrew-emphasis\">לא ברשותו</span> היא <span class=\"hebrew-emphasis\">עומדת, ואינו יכול לבטל]</span> חמץ בתוך הפסח עצמו. שכן <b>אמר ר' אלעזר: שני דברים אינן ברשותו של אדם</b> מבחינת דיני ממונות, <b>ועשאן הכתוב</b> לגבי אחריותו עליהן <b>כאילו</b> היו <b>ברשותו. ואלו הן: בור</b> שכורה או פותח אדם <b>ברשות הרבים</b> שהוא חייב בנזקיו, אף שאין לו זכות ממונית עליו. <b>ו</b>כן <b>חמץ</b> שנמצא בביתו ביום ארבעה עשר בניסן <b>משש שעות ולמעלה,</b> שאינו שלו, כיון שאינו שווה מאומה (שהרי אסור הוא באכילה ובהנאה), ומכל מקום חייב על מציאותו בביתו.",
+              "ref": "Steinsaltz on Pesachim 6b:16",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:טז",
+              "sourceRef": "Steinsaltz on Pesachim 6b:16"
+            }
+          ]
+        },
+        "Steinsaltz In-Depth": {
+          "comments": [
+            {
+              "en": "",
+              "he": "שכיון שדעתו של אדם קרובה להם ורוצה בקיומן עשאום כשלו (ריבב\"ן). ונראה כי ככלל אמרו חכמים שיחשב אדם כזוכה באיסורי הנאה לענין הוספת חומרה ואיסור על המחזיק בהן, אף שאינן שלו ממש (בשם הרא\"ה).",
+              "ref": "Steinsaltz comment #1 on Pesachim 6b:16",
+              "sourceHeRef": "בור וחמץ",
+              "sourceRef": ""
+            }
+          ]
+        },
+        "Verses": {
+          "comments": [
+            {
+              "en": "When a man opens a pit, or digs a pit and does not cover it, and an ox or an ass falls into it,",
+              "he": "וְכִֽי־יִפְתַּ֨ח אִ֜ישׁ בּ֗וֹר א֠וֹ כִּֽי־יִכְרֶ֥ה אִ֛ישׁ בֹּ֖ר וְלֹ֣א יְכַסֶּ֑נּוּ וְנָֽפַל־שָׁ֥מָּה שּׁ֖וֹר א֥וֹ חֲמֽוֹר׃",
+              "link": "/Exodus/21",
+              "ref": "Exodus 21:33",
+              "sourceHeRef": "שמות כא:לג",
+              "sourceRef": "Exodus 21:33"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara rejects this suggestion. <b>Perhaps he will find it</b> only <b>after it is</b> already <b>forbidden, and</b> at that time <b>it is no</b> longer <b>in his possession and he is</b> therefore <b>unable to nullify</b> leaven when it is already Passover, <b>as <span href=\"/topics/rabbi-elazar-b-shamua\" class=\"namedEntityLink\" data-slug=\"רא-(ambiguous)\">Rabbi Elazar</span> said: Two items are not in a person’s possession</b> in terms of legal ownership, <b>and</b> yet <b>the Torah rendered</b> him responsible for <b>them as though</b> they were <b>in his property. And these are they: An</b> open <b>pit in the public domain,</b> for which the one who excavated it is liable to pay any damages it causes even though it does not belong to him; <b>and leaven</b> in one’s house <b>from the sixth hour</b> on the fourteenth of Nisan <b>and onward.</b> As this leaven has no monetary value, since it is prohibited to eat or to derive benefit from it, it is not his property, and nevertheless he violates a prohibition if it remains in his domain.",
+      "he": "דִּילְמָא מַשְׁכַּחַתְּ לֵיהּ לְבָתַר אִיסּוּרָא, וְלָאו בִּרְשׁוּתֵיהּ קָיְימָא, וְלָא מָצֵי מְבַטֵּיל. דְּאָמַר רַבִּי אֶלְעָזָר: שְׁנֵי דְבָרִים אֵינָן בִּרְשׁוּתוֹ שֶׁל אָדָם, וַעֲשָׂאָן הַכָּתוּב כְּאִילּוּ בִּרְשׁוּתוֹ, וְאֵלּוּ הֵן: בּוֹר בִּרְשׁוּת הָרַבִּים, וְחָמֵץ מִשֵּׁשׁ שָׁעוֹת וּלְמַעְלָה.",
+      "ref": "Pesachim 6b:16"
+    },
+    {
+      "commentary": {
+        "Jastrow": {
+          "comments": [
+            {
+              "en": [
+                "<strong dir=\"rtl\">בְּטֵל</strong>, <strong dir=\"rtl\">בְּטֵיל</strong> Chaldaic <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" href=\"/Jastrow,_בָּטֵל I.1\">same</span> ; 1) as h. Kal 1). <span class=\"refLink\" data-ref=\"Aramaic Targum to Lamentations 5:15\" href=\"/Aramaic_Targum_to_Lamentations.5.15\">Targum Eicha V, 15</span>; and e.—<span class=\"refLink\" data-ref=\"Sotah 33a:8\" href=\"/Sotah.33a.8\">Sotah 33ᵃ</span> <span dir=\"rtl\">בטילת עבידתא וכ׳</span> the decree enforcing idol worship in the Temple has been repealed. Megillah Taanit XI on the twenty second (of Shebat) <span dir=\"rtl\">ב׳ עבידתא</span> was the decree &c. revoked. <span class=\"refLink\" data-ref=\"Shabbat 139a:6\" href=\"/Shabbat.139a.6\">Shabbat 139ᵃ</span>, <span class=\"refLink\" data-ref=\"Sanhedrin 98a:9\" href=\"/Sanhedrin.98a.9\">Sanhedrin 98ᵃ</span> <span dir=\"rtl\">אי בטלי וכ׳</span>; see <span class=\"refLink\" data-ref=\"Jastrow, אַמְגֹּושָׁא 1\" dir=\"rtl\" href=\"/Jastrow,_אַמְגֹּושָׁא.1\">אַמְגּוֹשָׁא</span>. <span class=\"refLink\" data-ref=\"Rosh Hashanah 18b:15\" href=\"/Rosh_Hashanah.18b.15\">Rosh Hashanah 18ᵇ</span> <span dir=\"rtl\">בטילת אדכרתא</span> (Megillah Taanit VII <span dir=\"rtl\">אתנטילת</span>, read <span dir=\"rtl\">אתב׳</span>), see <span class=\"refLink\" data-ref=\"Jastrow, אַדְכַּרְתָּא 1\" dir=\"rtl\" href=\"/Jastrow,_אַדְכַּרְתָּא.1\">אַדְכַּרְתָּא</span><br>; and from—2) as h. Kal 2). <span class=\"refLink\" data-ref=\"Targum Jonathan on Exodus 17:1\" href=\"/Targum_Jonathan_on_Exodus.17.1\">Targum Yonatan Shemot XVII, 1</span> [read:] <span dir=\"rtl\">דבְטִילוּ אידיהון</span> when their hands were lazy &c.—Part. pass. <span class=\"refLink\" data-ref=\"Jastrow, בְּטִיל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּטִיל.1\">בָּטִיל</span> <i>annulled; neutralized</i> (in a larger quantity, see <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" href=\"/Jastrow,_בָּטֵל I.1\">preceding</span> Piël). <span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Chullin 100ᵃ</span>, and from (in Hebr. phraseology) <span dir=\"rtl\">מין במינו לא ב׳</span> in a mixture of homogeneous things (of which one is forbidden) the rule of neutralization by quantity takes no effect. <span class=\"refLink\" data-ref=\"Chullin 99a:3\" href=\"/Chullin.99a.3\">Ib. 99ᵃ</span> <span dir=\"rtl\">ברובא ב׳</span> it is neutralized in any larger quantity (than the forbidden ingredient); and from—<span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Ib. 100ᵃ</span> top <span dir=\"rtl\">ותבטיל</span>, see Ithpeel<br></br> <strong>Pa.</strong> - <strong dir=\"rtl\">בַּטֵּיל</strong> as h. Piël <span class=\"refLink\" data-ref=\"Aramaic Targum to Psalms 33:10\" href=\"/Aramaic_Targum_to_Psalms.33.10\">Targum Psalms XXXIII, 10</span> (some ed. incorr. <span class=\"refLink\" data-ref=\"Jastrow, בְּטִיל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּטִיל.1\">בְּטִיל</span>); and e.—<span class=\"refLink\" data-ref=\"Eruvin 66b:14\" href=\"/Eruvin.66b.14\">Eruvin 66ᵇ</span> <span dir=\"rtl\">למאן נִיבַטֵּיל</span> to whom should he resign his right of usage (for Sabbath purposes)? <span dir=\"rtl\">לִיבַטֵּיל וכ׳</span> shall he resign &c.? Ib. 67ᵃ <span dir=\"rtl\">בַּטּוּלֵי … מְבַטֵיל</span>. <span class=\"refLink\" data-ref=\"Pesachim 6b:15\" href=\"/Pesachim.6b.15\">Pesachim 6ᵇ</span> <span dir=\"rtl\">לְבַטְּלֵיה</span> let him renounce it (the leavened thing). <span class=\"refLink\" data-ref=\"Pesachim 6b:17\" href=\"/Pesachim.6b.17\">Ib.</span> <span dir=\"rtl\">וניבטליה בארבע</span> let him renounce it at four hours of the day. <span class=\"refLink\" data-ref=\"Gittin 36b:9\" href=\"/Gittin.36b.9\">Gittin 36ᵇ</span> אֲבַטְּלִינֵיה I would repeal it (that law). <span class=\"refLink\" data-ref=\"Gittin 32a:9\" href=\"/Gittin.32a.9\">Ib. 32ᵃ</span> <span dir=\"rtl\">דבטולי בטליה</span> that he revoked it (the letter of divorce); and from<br></br> <strong>Af.</strong> - <strong dir=\"rtl\">אַבְטֵיל</strong> <br><b>1)</b> = Pa. <span class=\"refLink\" data-ref=\"Targum Jonathan on Genesis 6:7\" href=\"/Targum_Jonathan_on_Genesis.6.7\">Targum Yonatan Breishit VI, 7</span> 1) = Pa. <span class=\"refLink\" data-ref=\"Targum Jonathan on Genesis 6:7\" href=\"/Targum_Jonathan_on_Genesis.6.7\">Targum Yonatan Breishit VI, 7</span> אַבְטִיל I will undo (h. text <span dir=\"rtl\">אמחה</span>); and e. <br><b><br>—2)</b> = h. Hifil <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 30:11\" href=\"/Targum_Jonathan_on_Isaiah.30.11\">Targum Isaiah XXX, 11</span> <span dir=\"rtl\">אַבְטְלוּנָא מ־</span> make ye us free from tradition.<br></br> <strong>Ithpeel</strong> - <strong dir=\"rtl\">אִתְבְּטִיל</strong> , contr. <span class=\"refLink\" data-ref=\"Jastrow, בְּצַל 1\" dir=\"rtl\" href=\"/Jastrow,_בְּצַל.1\">אִיבְּטִיל</span>. <br><b>1)</b> <i>to be abolished, removed, undone</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Job 17:11\" href=\"/Aramaic_Targum_to_Job.17.11\">Targum Job XVII, 11</span>; and from—<span class=\"refLink\" data-ref=\"Gittin 32a:3\" href=\"/Gittin.32a.3\">Gittin 32ᵃ</span>; <span class=\"refLink\" data-ref=\"Gittin 32b:9\" href=\"/Gittin.32b.9\">32ᵇ</span> <span class=\"refLink\" data-ref=\"Jastrow, בָּטֵל I 1\" dir=\"rtl\" href=\"/Jastrow,_בָּטֵל I.1\">בָּטֵל</span> has two meanings <span dir=\"rtl\">משמע דבטל ומשמע דלִיבְּטִיל</span> it may mean ‘it is void’, and may mean ‘be it declared void’. <span class=\"refLink\" data-ref=\"Chullin 100a:8\" href=\"/Chullin.100a.8\">Chullin 100ᵃ</span> <span dir=\"rtl\">ותבְּטִיל ברובא</span> (or <span dir=\"rtl\">ותִבְטִיל</span>) let it be neutralized in the larger mixture; (why is it not &c.?) <br><b><br>—2)</b> <i>to be disturbed, to be forced to be idle</i>. <span class=\"refLink\" data-ref=\"Aramaic Targum to Ecclesiastes 12:3\" href=\"/Aramaic_Targum_to_Ecclesiastes.12.3\">Targum Kohelet XII, 3</span>; and e."
+              ],
+              "he": [],
+              "ref": "Jastrow, בְּטֵל 1",
+              "sourceHeRef": "מילון יסטרוב, בְּטֵל א׳",
+              "sourceRef": "Jastrow, בְּטֵל 1"
+            },
+            {
+              "en": [
+                "<strong dir=\"rtl\">בִּיעוּרָא</strong> Chaldaic <br><b>1)</b> <span class=\"refLink\" data-ref=\"Jastrow, בִּיעוּר 1\" href=\"/Jastrow,_בִּיעוּר.1\">same</span>. <span class=\"refLink\" data-ref=\"Pesachim 6b:17\" href=\"/Pesachim.6b.17\">Pesachim 6ᵇ</span>. <br><b><br>—2)</b> <i>clearing, taking off the last olives</i>. <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 17:6\" href=\"/Targum_Jonathan_on_Isaiah.17.6\">Targum Isaiah XVII, 6</span>; <span class=\"refLink\" data-ref=\"Targum Jonathan on Isaiah 24:13\" href=\"/Targum_Jonathan_on_Isaiah.24.13\">XXIV, 13</span> (h. <span class=\"refLink\" data-ref=\"Jastrow, נָקַף I 1\" dir=\"rtl\" href=\"/Jastrow,_נָקַף I.1\">נֹקֶף</span>)."
+              ],
+              "he": [],
+              "ref": "Jastrow, בִּיעוּרָא 1",
+              "sourceHeRef": "מילון יסטרוב, בִּיעוּרָא א׳",
+              "sourceRef": "Jastrow, בִּיעוּרָא 1"
+            }
+          ]
+        },
+        "Rashi": {
+          "comments": [
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">וניבטליה בארבע</strong> - כלומר למה הוצרכתו לבטל בלילה ליתקנו רבנן לכל אדם שיבטל קודם איסורו:",
+              "ref": "Rashi on Pesachim 6b:17:1",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יז:א",
+              "sourceRef": "Rashi on Pesachim 6b:17:1"
+            },
+            {
+              "en": "",
+              "he": "<strong class=\"dibur-hamatchil\">פשע</strong> - ישכח ויבא לידי פשיעה שעל ידי מה יזכר אבל עכשיו שעסוק בבדיקתו יזכר:",
+              "ref": "Rashi on Pesachim 6b:17:2",
+              "sourceHeRef": "רש\"י על פסחים ו׳ ב:יז:ב",
+              "sourceRef": "Rashi on Pesachim 6b:17:2"
+            }
+          ]
+        },
+        "Steinsaltz": {
+          "comments": [
+            {
+              "en": "",
+              "he": "ומקשים: <b>ו</b>אם כן, מדוע לא <b>ניבטליה</b> <span class=\"hebrew-emphasis\">[יבטלנו]</span> החמץ ביום ארבעה עשר <b>ב</b>שעה <b>ארבע</b> ביום<b>, ו</b>כן <b>ניבטליה</b> <span class=\"hebrew-emphasis\">[יבטלנו]</span> <b>ב</b>שעה <b>חמש,</b> ומדוע יבטל בזמן הבדיקה שהיא בליל ארבעה עשר? ומשיבים: <b>כיון</b> שזמן זה של ארבע שעות <b>לאו זמן איסורא</b> <span class=\"hebrew-emphasis\">[לא זמן האיסור]</span> <b>הוא ולאו זמן ביעורא</b> <span class=\"hebrew-emphasis\">[ולא זמן הביעור]</span> <b>הוא,</b> הרי זו שעה סתם שאין בה שום סימן היכר, ויש לחשוש <b>דילמא פשע ולא מבטל ליה</b> <span class=\"hebrew-emphasis\">[שמא יתרשל ולא יבטל אותו]</span> וישאר החמץ ברשותו.",
+              "ref": "Steinsaltz on Pesachim 6b:17",
+              "sourceHeRef": "ביאור שטיינזלץ על פסחים ו׳ ב:יז",
+              "sourceRef": "Steinsaltz on Pesachim 6b:17"
+            }
+          ]
+        }
+      },
+      "en": "The Gemara returns to the issue of the nullification of leaven. If so, <b>let him render</b> the leaven <b>null and void during the fourth hour or let him render it null and void during the fifth hour</b> of the fourteenth of Nisan. Why is he required to do so when he searches for leaven on the evening of the fourteenth? The Gemara answers: <b>Since</b> the fourth hour <b>is neither the time</b> of the <b>prohibition</b> of the leaven <b>nor the time</b> of its <b>removal,</b> it is a nondescript point in time. There is concern that <b>perhaps he will be negligent and will not render it null and void,</b> and the leaven will remain in his possession.",
+      "he": "וְנִיבַטְּלֵיהּ בְּאַרְבַּע, וְנִיבַטְּלֵיהּ בְּחָמֵשׁ? כֵּיוָן דְּלָאו זְמַן אִיסּוּרָא הוּא וְלָאו זְמַן בִּיעוּרָא הוּא, דִּילְמָא פָּשַׁע וְלָא מְבַטֵּל לֵיהּ.",
+      "ref": "Pesachim 6b:17"
+    }
+  ],
+  "title": "Pesachim 6b",
+  "titleHebrew": "פסחים ו,ב",
+  "topics": []
+}
